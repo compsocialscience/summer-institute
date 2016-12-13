@@ -1,5 +1,7 @@
 ## Navigation Links
 
+Each year can have its own `navigation.yml` to include navigation links specific to that year (e.g., `_data/2017/navigation.yml`). You can also include global links for all years by updating `_data/navigation.yml`.
+
 You can added custom navigation links to the navbar by editing the appropriate `navigation.yml` file. This file should be a list of links each with a name and url. A simple example would be:
 
 ```yaml

@@ -2,6 +2,20 @@
 ---
 
 @import "bootstrap";
+$fixed-navbar-height: 50px;
+body {
+  // Deal with fixed navbar height.
+  padding-top: $fixed-navbar-height;
+
+  // Fixes issue with fixed navbar and anchor links.
+  :target:before {
+    content: "";
+    display: block;
+    height: $fixed-navbar-height; /* fixed header height*/
+    margin: -$fixed-navbar-height 0 0; /* negative fixed header height */
+  }
+}
+
 .media {
   margin-bottom: 1.5em;
 }
