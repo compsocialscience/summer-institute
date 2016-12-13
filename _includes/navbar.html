@@ -1,7 +1,8 @@
-<nav class="navbar navbar-inverse">
-  <div class="container">
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false">
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -9,12 +10,29 @@
       </button>
       <a class="navbar-brand" href="/">Summer Institute for Computational Social Science</a>
     </div>
-    <div id="navbar" class="collapse navbar-collapse">
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="navbar">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Home</a></li>
-        <li><a href="#about">Summer 2017</a></li>
-        <li><a href="#contact">Contact</a></li>
+        {% for navlink in site.data[year].navigation %}
+          {% if navlink.children %}
+            <li class="dropdown">
+              <a href="{{ navlink.url }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ navlink.name }} <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                {% for child in navlink.children %}
+                  {% if child.separator %}
+                    <li role="separator" class="divider"></li>
+                  {% else %}
+                    <li><a href="{{ child.url }}">{{ child.name }}</a></li>
+                  {% endif %}
+                {% endfor %}
+              </ul>
+            </li>
+          {% else %}
+          <li><a href="{{ navlink.url }}">{{ navlink.name }}</a></li>
+          {% endif %}
+        {% endfor %}
       </ul>
-    </div><!--/.nav-collapse -->
-  </div>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
 </nav>
