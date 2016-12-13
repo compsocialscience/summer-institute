@@ -1,0 +1,19 @@
+{% if site.data[year].speakers %}
+  <h1 id="speakers">Speakers</h1>
+  <div class="row">
+  {% for speaker in site.data[year].speakers %}
+    <div class="col-sm-6">
+      <div class="media">
+        <div class="media-left">
+          <img class="media-object" src="{{ speaker.image }}" alt="Image of {{ speaker.name }}">
+        </div>
+        <div class="media-body">
+          <h4 class="media-heading">{{ speaker.name }}</h4>
+          <p>{{ speaker.bio }}</p>
+          <p><a href="{{ speaker.website }}">Site</a></p>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+  </div>
+{% endif %}

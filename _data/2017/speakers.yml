@@ -1,0 +1,14 @@
+- name: Jane
+  image: http://placehold.it/200x267
+  bio: Bio here
+  website: https://github.com/
+
+- name: Josephine
+  image: http://placehold.it/200x267
+  bio: Bio here
+  website: https://github.com/
+
+- name: Julia
+  image: http://placehold.it/200x267
+  bio: Bio here
+  website: https://github.com/
