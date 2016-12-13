@@ -24,6 +24,6 @@ If you'd like to have a drop-down menu, you'll need to specify children links. Y
       url: "#test3"
 ```
 
-The resulting image would look like this:
+The resulting drop-down would look like this:
 
 ![navigation sample](documentation/navsample.png)
