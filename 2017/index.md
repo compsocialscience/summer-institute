@@ -1,10 +1,6 @@
 ---
 layout: year_home
 ---
-{% assign urlparts = page.url | split: "/" %}
-{% assign year = urlparts[1] %}
-{{ year }}
-
 # Summer Institute in Computational Social Science
 
 ## June 19 to June 30, 2017
