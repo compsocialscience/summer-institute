@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: year_home
 ---
 {% assign urlparts = page.url | split: "/" %}
 {% assign year = urlparts[1] %}
