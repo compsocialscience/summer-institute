@@ -4,6 +4,7 @@
 @import "bootstrap";
 $fixed-navbar-height: 50px;
 body {
+  padding-bottom: 4em;
   // Deal with fixed navbar height.
   padding-top: $fixed-navbar-height;
 
