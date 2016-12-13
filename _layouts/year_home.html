@@ -1,3 +1,5 @@
+{% assign urlparts = page.url | split: "/" %}
+{% assign year = urlparts[1] %}
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -9,6 +11,8 @@
 
     <div class="container">
       {{ content }}
+
+      {% include faculty.html %}
     </div>
     {% include footer.html %}
   </body>

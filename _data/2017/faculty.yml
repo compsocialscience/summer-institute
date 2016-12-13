@@ -1,0 +1,9 @@
+- name: Matt Salganik
+  image: /assets/images/matt.jpg
+  bio: Bio here
+  website: https://www.princeton.edu/~mjs3/
+
+- name: Chris Bail
+  image: /assets/images/chris.jpg
+  bio: Bio here
+  website: http://www.chrisbail.net/
