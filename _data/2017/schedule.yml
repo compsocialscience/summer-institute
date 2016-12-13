@@ -10,5 +10,15 @@
     - name: "Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty"
     - name: Problem set
     - name: Dinner & discussion
+
+- date: 2017-06-20
+  name: "Collecting “Big” Data"
+  events:
+    - name: What is big data?
+    - name: Strengths and weakness of big data
+    - name: Screen-Scraping
+    - name: Application Programming Interfaces
+    - name: Problem Set
+    - name: Dinner & Discussion
 - date: 2017-06-25
   name: Go to New York
