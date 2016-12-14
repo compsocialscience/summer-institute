@@ -20,3 +20,9 @@ body {
 .media {
   margin-bottom: 1.5em;
 }
+
+@media (max-width: $screen-xs-max) {
+  .navbar-brand {
+    font-size: 14px;
+  }
+}
