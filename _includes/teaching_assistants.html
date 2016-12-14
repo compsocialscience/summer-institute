@@ -2,9 +2,9 @@
   <h1 id="teaching-assistants">Teaching Assistants</h1>
   <div class="row">
     {% for assistant in site.data[year].teaching_assistants %}
-      <div class="col-md-3">
+      <div class="col-md-3 col-sm-4 col-xs-6">
         <div class="thumbnail">
-          <img src="{{ assistant.image }}" alt="Image of {{ assistant.name }}">
+          <img src="{{ assistant.image }}" class="img-responsive" alt="Image of {{ assistant.name }}">
           <div class="caption">
             <h4>{{ assistant.name }}</h4>
           </div>
