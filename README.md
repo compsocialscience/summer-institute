@@ -90,7 +90,7 @@ The resulting drop-down would look like this:
 
 # Adding Additional Pages
 
-You're free to add additional pages by created a new Markdown file in the directory that would map to the URL that you desire. For example, `2017/agenda.md` would be available at the URL `/2017/agenda/`. If you wanted to include additional pages within the agenda URL structure, you could use `2017/agenda/index.md` as the main agenda page (`/2017/agenda/`) and additional Markdown files could be added to the agenda directory.
+You're free to add additional pages by created a new Markdown file in the directory that would map to the URL that you desire. For example, `2017/agenda.md` would be available at the URL `/2017/agenda`. If you wanted to include additional pages within the agenda URL structure, you could use `2017/agenda/index.md` as the main agenda page (`/2017/agenda/`) and additional Markdown files could be added to the agenda directory.
 
 You'll always want to include the proper front-matter in the Markdown file to give the page a [layout](#layouts) and a title.
 
