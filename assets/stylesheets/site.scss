@@ -33,3 +33,73 @@ body {
     font-size: 16px;
   }
 }
+
+.hero {
+  position: relative;
+  margin: 0 auto;
+  max-width: 1200px;
+
+/*
+  .hero-image {
+    background-image: url(/assets/images/sicss-hero.jpg);
+    background-size: contain;
+    background-position: center;
+  }
+*/
+  .hero-overlay {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+    text-shadow: 2px 2px 7px rgba(0, 0, 0, 1);
+    top: 15%;
+    background-color: rgba(0, 0, 0, 0.5);
+
+    h1 {
+      font-size: 14px;
+      @media (min-width: 375px) {
+        font-size: 16px;
+      }
+      @media (min-width: 425px) {
+        font-size: 18px;
+      }
+      @media (min-width: 768px) {
+        font-size: 30px;
+      }
+      @media (min-width: 1024px) {
+        font-size: 40px;
+      }
+    }
+    h2 {
+      font-size: 12px;
+      @media (min-width: 375px) {
+        font-size: 14px;
+      }
+      @media (min-width: 425px) {
+        font-size: 16px;
+      }
+      @media (min-width: 768px) {
+        font-size: 26px;
+      }
+      @media (min-width: 1024px) {
+        font-size: 36px;
+      }
+    }
+    h3 {
+      font-size: 10px;
+      @media (min-width: 375px) {
+        font-size: 12px;
+      }
+      @media (min-width: 425px) {
+        font-size: 14px;
+      }
+      @media (min-width: 768px) {
+        font-size: 20px;
+      }
+    }
+    h1, h2, h3 {
+      margin-top: 10px;
+      margin-bottom: 5px;
+    }
+  }
+}
