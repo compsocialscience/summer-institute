@@ -2,12 +2,12 @@
   <h1 id="speakers">Speakers</h1>
   <div class="row">
   {% for speaker in site.data[year].speakers %}
-    <div class="col-sm-6">
-      <div class="media">
-        <div class="media-left">
-          <img class="media-object" src="{{ speaker.image }}" alt="Image of {{ speaker.name }}">
+    <div class="col-md-6">
+      <div class="row">
+        <div class="col-sm-4">
+          <p><img class="img-responsive" src="{{ speaker.image }}" alt="Image of {{ speaker.name }}"></p>
         </div>
-        <div class="media-body">
+        <div class="col-sm-8">
           <h3 class="media-heading">{{ speaker.name }}</h3>
           <p>{{ speaker.bio }}</p>
           <p><a href="{{ speaker.website }}">Site</a></p>
