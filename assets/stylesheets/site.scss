@@ -21,8 +21,15 @@ body {
   margin-bottom: 1.5em;
 }
 
-@media (max-width: $screen-xs-max) {
-  .navbar-brand {
+.navbar-brand {
+  font-size: 10px;
+  @media (min-width: 375px) {
+    font-size: 12px;
+  }
+  @media (min-width: 425px) {
     font-size: 14px;
+  }
+  @media (min-width: $screen-sm-min) {
+    font-size: 16px;
   }
 }
