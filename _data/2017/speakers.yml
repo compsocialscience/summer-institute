@@ -1,14 +1,14 @@
-- name: Jane
-  image: http://placehold.it/200x267
+- name: Gary King
+  image: http://dacki.blogs.wesleyan.edu/files/2014/02/gary-king.jpg
   bio: Bio here
-  website: https://github.com/
+  website: http://gking.harvard.edu/
 
-- name: Josephine
-  image: http://placehold.it/200x267
+- name: Michael Macy
+  image: http://infosci.cornell.edu/sites/infosci/files/styles/300_square/public/MichaelM1.jpg?itok=VedlaDGo
   bio: Bio here
-  website: https://github.com/
+  website: http://infosci.cornell.edu/faculty/michael-macy
 
-- name: Julia
-  image: http://placehold.it/200x267
+- name: Brandon Stewart
+  image: http://scholar.princeton.edu/sites/default/files/bstewart/files/budapestpic.jpg?m=1438894858
   bio: Bio here
-  website: https://github.com/
+  website: http://scholar.princeton.edu/bstewart
