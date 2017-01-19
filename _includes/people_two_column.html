@@ -1,0 +1,30 @@
+{% for person in include.people %}
+  {% assign index_mod_2 = forloop.index | modulo: 2 %}
+  {% if index_mod_2 == 1 %}
+    <div class="row">
+  {% endif %}
+  <div class="col-md-6">
+    <div class="row">
+      <div class="col-sm-4">
+        <p>
+          {% if person.website %}
+            <a href="{{ person.website }}">
+          {% endif %}
+            <img class="img-responsive" src="{{ person.image }}" alt="Image of {{ person.name }}">
+          {% if person.website %}</a>{% endif %}
+        </p>
+      </div>
+      <div class="col-sm-8">
+        <h3 class="media-heading">
+          {% if person.website %}<a href="{{ person.website }}">{% endif %}
+          {{ person.name }}
+          {% if person.website %}</a>{% endif %}
+        </h3>
+        {% if person.bio %}{{ person.bio | markdownify }}{% endif %}
+      </div>
+    </div>
+  </div>
+  {% if index_mod_2 == 0 or forloop.last %}
+  </div> <!-- close row -->
+  {% endif %}
+{% endfor %}
