@@ -8,12 +8,11 @@
     <div class="col-md-6">
       <div class="row">
         <div class="col-sm-4">
-          <p><img class="img-responsive" src="{{ speaker.image }}" alt="Image of {{ speaker.name }}"></p>
+          <p><a href="{{ speaker.website }}"><img class="img-responsive" src="{{ speaker.image }}" alt="Image of {{ speaker.name }}"></a></p>
         </div>
         <div class="col-sm-8">
-          <h3 class="media-heading">{{ speaker.name }}</h3>
+          <h3 class="media-heading"><a href="{{ speaker.website }}">{{ speaker.name }}</a></h3>
           <p>{{ speaker.bio }}</p>
-          <p><a href="{{ speaker.website }}">Site</a></p>
         </div>
       </div>
     </div>
