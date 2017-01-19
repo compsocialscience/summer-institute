@@ -1,7 +1,10 @@
 {% if site.data[year].speakers %}
   <h1 id="speakers">Speakers</h1>
-  <div class="row">
   {% for speaker in site.data[year].speakers %}
+    {% assign index_mod_2 = forloop.index | modulo: 2 %}
+    {% if index_mod_2 == 1 %}
+      <div class="row">
+    {% endif %}
     <div class="col-md-6">
       <div class="row">
         <div class="col-sm-4">
@@ -14,6 +17,8 @@
         </div>
       </div>
     </div>
+    {% if index_mod_2 == 0 or forloop.last %}
+    </div> <!-- close row -->
+    {% endif %}
   {% endfor %}
-  </div>
 {% endif %}
