@@ -17,6 +17,24 @@ body {
   }
 }
 
+.navbar {
+  .navbar-brand {
+    img {
+      position: relative;
+      top: -7px;
+    }
+  }
+  .primary-nav {
+    a.Apply {
+      @extend .btn;
+      @extend .btn-primary;
+      margin-top: 10px;
+      color: #fff !important;
+      margin-left: 15px;
+    }
+  }
+}
+
 .media {
   margin-bottom: 1.5em;
 }
@@ -100,6 +118,41 @@ body {
     h1, h2, h3 {
       margin-top: 10px;
       margin-bottom: 5px;
+    }
+  }
+}
+
+.introduction {
+  line-height: 2em;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.people {
+  background: #eee;
+  margin: 50px 0;
+  padding: 50px 0;
+  .row {
+    margin-bottom: 40px;
+  }
+  h1 {
+    text-transform: uppercase;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  h3 {
+    font-size: 18px;
+  }
+  img {
+    border-radius: 100px;
+    object-fit: cover;
+    float: left;
+    @media (max-width: $screen-sm-max) {
+      width: 100%;
+    }
+    @media (max-width: $screen-xs-max) {
+      width: 150px;
+      margin-right: 20px;
     }
   }
 }

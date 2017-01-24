@@ -17,16 +17,20 @@
         <h3>{{ site.data[year].hero.header_3 }}</h3>
       </div>
     </div>
-    <div class="container">
+    <div class="introduction container">
       {{ content }}
+    </div>
+    <a id="people"></a>
+    <div class="people">
+      <div class="container">
+        {% include faculty.html %}
 
-      <a id="people"></a>
-      {% include faculty.html %}
+        {% include speakers.html %}
 
-      {% include speakers.html %}
-
-      {% include teaching_assistants.html %}
-
+        {% include teaching_assistants.html %}
+      </div>
+    </div>
+    <div class="container">
       {% include schedule.html %}
     </div>
     {% include footer.html %}
