@@ -1,7 +1,11 @@
 image:
-  alt: "Image of Bowen Hall at Princeton University"
-  url: "/assets/images/sicss-hero.jpg"
-  title: "Photo: Princeton University, Office of Communications."
+  alt: "Summer Institute in Computational Social Science"
+  url: "/assets/images/hero-bg.jpg"
+  title: "Summer Institute in Computational Social Science"
+large_image:
+  alt: "Summer Institute in Computational Social Science"
+  url: "/assets/images/sicss-large.png"
+  title: "Summer Institute in Computational Social Science"  
 header_1: "Summer Institute in Computational Social Science"
-header_2: "June 19 to June 30, 2017"
+header_2: "June 19 - 30, 2017 | Princeton University"
 header_3: "Sponsored by the Russell Sage Foundation"

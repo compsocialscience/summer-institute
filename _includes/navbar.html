@@ -8,12 +8,12 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="/">{{ site.brand }}</a>
+      <a class="navbar-brand" href="/"><img src="/assets/images/sicss-logo.png" alt="{{ site.brand }}" /></a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="navbar">
-      <ul class="nav navbar-nav">
+      <ul class="nav navbar-nav primary-nav">
         {% for navlink in site.data[year].navigation %}
           {% if navlink.children %}
             <li class="dropdown">
@@ -29,7 +29,7 @@
               </ul>
             </li>
           {% else %}
-          <li><a href="{{ navlink.url }}">{{ navlink.name }}</a></li>
+          <li><a class="{{ navlink.name }}" href="{{ navlink.url }}">{{ navlink.name }}</a></li>
           {% endif %}
         {% endfor %}
       </ul>

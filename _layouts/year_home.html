@@ -10,23 +10,30 @@
     {% include navbar.html %}
 
     <div class="hero">
-        <img src="{{ site.data[year].hero.image.url }}" class="img-responsive center-block" title="{{ site.data[year].hero.image.title }}" alt="{{ site.data[year].hero.image.alt }}">
+      <img src="{{ site.data[year].hero.image.url }}" class="img-responsive center-block" title="{{ site.data[year].hero.image.title }}" alt="{{ site.data[year].hero.image.alt }}">
+      <div class="hero-logo">
+        <img src="{{ site.data[year].hero.large_image.url }}" class="img-responsive center-block" title="{{ site.data[year].hero.large_image.title }}" alt="{{ site.data[year].hero.large_image.alt }}">
+      </div>
       <div class="hero-overlay">
         <h1>{{ site.data[year].hero.header_1 }}</h1>
         <h2>{{ site.data[year].hero.header_2 }}</h2>
-        <h3>{{ site.data[year].hero.header_3 }}</h3>
+      </div>
+      <h3>{{ site.data[year].hero.header_3 }}</h3>
+    </div>
+    <div class="introduction container">
+      {{ content }}
+    </div>
+    <a id="people"></a>
+    <div class="people">
+      <div class="container">
+        {% include faculty.html %}
+
+        {% include speakers.html %}
+
+        {% include teaching_assistants.html %}
       </div>
     </div>
     <div class="container">
-      {{ content }}
-
-      <a id="people"></a>
-      {% include faculty.html %}
-
-      {% include speakers.html %}
-
-      {% include teaching_assistants.html %}
-
       {% include schedule.html %}
     </div>
     {% include footer.html %}
