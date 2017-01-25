@@ -10,3 +10,7 @@ The instructional program will involve lectures, group problem sets, and student
 Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty within 5 years of their Ph.D.  Most participant costs during the workshop, including housing and most meals, will be covered, and a capped travel stipend (anticipated to cover most but not all travel costs) will also be provided. About thirty participants will be invited.  Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R programming language.  Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours during the two months before the Institute.
 
 To apply, please visit the link above.
+
+# Prep
+
+All participants in the Summer Institute will be expected to complete some preparatory work before arriving. We will post these materials soon.
