@@ -5,7 +5,7 @@ title: Apply
 
 # Eligibility
 
-Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D.  Most participant costs during the workshop, including housing and most meals, will be covered, and a capped travel stipend (anticipated to cover most but not all travel costs) will also be provided. About thirty participants will be invited.  Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R programming language.  Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours during the two months before the Institute.
+Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D.  Most participant costs during the workshop, including housing and most meals, will be covered, and most travel expenses will be reimbursed up to a set cap. About thirty participants will be invited.  Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R programming language.  Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours during the two months before the Institute.
 
 # How to Apply
 
