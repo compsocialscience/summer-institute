@@ -10,9 +10,9 @@
     {% include navbar.html %}
 
     <div class="hero">
-      <img src="{{ site.data[year].hero.image.url }}" class="img-responsive center-block" title="{{ site.data[year].hero.image.title }}" alt="{{ site.data[year].hero.image.alt }}">
+      <img src="{{ site.data[year].hero.image.url | prepend: site.baseurl }}" class="img-responsive center-block" title="{{ site.data[year].hero.image.title }}" alt="{{ site.data[year].hero.image.alt }}">
       <div class="hero-logo">
-        <img src="{{ site.data[year].hero.large_image.url }}" class="img-responsive center-block" title="{{ site.data[year].hero.large_image.title }}" alt="{{ site.data[year].hero.large_image.alt }}">
+        <img src="{{ site.data[year].hero.large_image.url | prepend: site.baseurl }}" class="img-responsive center-block" title="{{ site.data[year].hero.large_image.title }}" alt="{{ site.data[year].hero.large_image.alt }}">
       </div>
       <div class="hero-overlay">
         <h1>{{ site.data[year].hero.header_1 }}</h1>

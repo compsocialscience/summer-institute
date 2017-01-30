@@ -10,7 +10,15 @@
           {% if person.website %}
             <a href="{{ person.website }}">
           {% endif %}
-            <img class="img-responsive" src="{{ person.image }}" alt="Image of {{ person.name }}">
+            {% if person.image %}
+              {% assign image_prefix = person.image | slice: 0, 4 %}
+              {% if image_prefix == "http" %}
+                {% assign image_url = person.image %}
+              {% else %}
+                {% assign image_url = person.image | prepend: site.baseurl %}
+              {% endif %}
+              <img class="img-responsive" src="{{ image_url }}" alt="Image of {{ person.name }}">
+            {% endif %}
           {% if person.website %}</a>{% endif %}
         </p>
       </div>
