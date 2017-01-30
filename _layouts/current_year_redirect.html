@@ -5,6 +5,11 @@
     <meta http-equiv="refresh" content="0;url={{ site.baseurl }}/{{ site.current_year }}/" />
   </head>
   <body>
-    <a href="{{ site.baseurl }}/{{ site.current_year }}/">Current Year</a>
+    <script>
+      setTimeout(function() {
+        location.href = "{{ site.baseurl }}/{{ site.current_year }}/";
+      }, 20);
+    </script>
+    <noscript><a href="{{ site.baseurl }}/{{ site.current_year }}/">Current Year</a></noscript>
   </body>
 </html>
