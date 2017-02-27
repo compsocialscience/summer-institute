@@ -9,7 +9,7 @@
   website: https://tech.cornell.edu/people/deborah-estrin
 
 - name: Gary King
-  image: http://dacki.blogs.wesleyan.edu/files/2014/02/gary-king.jpg
+  image: http://dacki.blogs.wesleyan.edu/files/2014/02/gary-king.jpg 
   bio: Gary King is the Albert J. Weatherhead III University Professor at Harvard University, based in the Department of Government (in the Faculty of Arts and Sciences). He also serves as Director of the Institute for Quantitative Social Science. King and his research group develop and apply empirical methods in many areas of social science research, focusing on innovations that span the range from statistical theory to practical application.
   website: http://gking.harvard.edu/
 
@@ -17,6 +17,11 @@
   image: http://infosci.cornell.edu/sites/infosci/files/styles/300_square/public/MichaelM1.jpg?itok=VedlaDGo
   bio: Michael Macy is the Goldwin Smith Professor of Arts and Sciences in Sociology and Director of the Social Dynamics Laboratory at Cornell. With support from the National Science Foundation, the Department of Defense, and Google, his research team has used computational models, online laboratory experiments, and digital traces of device-mediated interaction to explore a variety of familiar but enigmatic social patterns such as critical mass and mobilization, network-based contagion, and political polarization.
   website: http://infosci.cornell.edu/faculty/michael-macy
+  
+- name: Markus Mobius
+  image: http://www.markusmobius.org/sites/default/files/markusmobius/files/markus_0.jpg
+  bio: Markus Mobius is a Principal Researcher at Microsoft Research who studies the economics of social networks. He builds models of learning, coordination, and cooperation within social networks, with a particular focus on trust. His research employs lab and field experiments to study social networks in real or natural settings. His other research interests include labor market hiring processes and online news consumption. His work has been funded by the National Science Foundation and the Sloan Foundation, and published in leading journals such as the American Economic Review and the Quarterly Journal of Economics. He completed his PhD in economics from the Massachusetts Institute of Technology in 2000.
+  website: http://www.markusmobius.org/
 
 - name: Brandon Stewart
   image: http://scholar.princeton.edu/sites/default/files/bstewart/files/budapestpic.jpg?m=1438894858
