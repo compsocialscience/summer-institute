@@ -15,4 +15,4 @@ We anticipate a large pool of highly qualified applicants and to make final deci
 
 # Note on application status
 
-All applications have been processed and all applicants have been notified our decisions.  We are no longer accepting applications.
+All applications have been processed, and all applicants have been notified our decisions.  We are no longer accepting applications.
