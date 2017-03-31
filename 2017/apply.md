@@ -15,4 +15,4 @@ We anticipate a large pool of highly qualified applicants and to make final deci
 
 # Note on application status
 
-We received many more applicants than we expected. We are reviewing these applications carefully, and we expect to have a decision soon. Once we have made our decision, we will notify all applicants by email. We apologize for the delay. (March 13, 2017)
+All applications have been processed and all applicants have been notified our decisions.  We are no longer accepting applications.
