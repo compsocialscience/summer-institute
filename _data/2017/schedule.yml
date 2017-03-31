@@ -1,7 +1,28 @@
 - date: Before arrival
   events: 
-    - name: "In order to use our time together effectively, students will be expected to complete some preparatory work.  We will post these materials here soon."
+    - name: "As we discussed in our call for applications, we have arranged two types of training prior to the event this summer. Some students have more sophisticated coding skills but little exposure to social science; other students have significant exposure to social science but lack strong coding skills.
 
+The majority of the coding work presented at the 2017 SICSS will employ R.  However, you are welcome to employ a language of your choice- such as Python, Julia, or other languages that are commonly used by computational social scientists. If you would like to work in R, we recommend that you complete the following courses within Datacamp, a website that teaches people how to code.  Obviously, you only need to complete the classes with material that you would like to learn.
+
+https://www.datacamp.com/courses/free-introduction-to-r
+https://www.datacamp.com/courses/intermediate-r
+https://www.datacamp.com/courses/data-visualization-with-ggplot2-1
+https://www.datacamp.com/courses/data-visualization-with-ggplot2-2
+https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial
+https://www.datacamp.com/courses/cleaning-data-in-r
+https://www.datacamp.com/courses/writing-functions-in-r
+https://www.datacamp.com/courses/reporting-with-r-markdown
+https://www.datacamp.com/courses/exploratory-data-analysis-in-r-case-study
+
+Our institute will bring together people in more than 10 different scholarly fields, some of which are closer to social science than others. For those students with little or no exposure to sociology, economics, or political science, we have assembled a reading list which we ask that you complete prior to the event:
+
+https://docs.google.com/document/d/10yyvTATQMy1-x-FqyD4TRKkLtL3ZgA9rRKUF850YNtY/edit
+
+This list includes readings in each of the core areas addressed by the Russell Sage Foundation. Neither your work nor the work we develop together at the institute need map neatly onto these categories, but we think that if those with less exposure to social science read these, we will increase the chances of interdisciplinary cross-pollination, which we view as critical to the future of computational social science.
+
+Finally, we also ask that you read Matt’s book: [Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com).  Much of this book will be review for most of you, but if we all read this book ahead of time, then
+ we can use our time together for more advanced topics."
+        
 - date: 2017-06-18
   events:
     - name: Opening Dinner
