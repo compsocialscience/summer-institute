@@ -17,7 +17,7 @@
               {% if event.time %}
                 <span class="label label-default">{{ event.time | date: "%l:%M%P" }}</span>
               {% endif %}
-              {{ event.name }}
+              {{ event.name | markdownify }}
             </li>
           {% endfor %}
         </ul>
