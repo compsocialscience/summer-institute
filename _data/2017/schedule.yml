@@ -34,7 +34,8 @@
     - name: What is Computational Social Science?
     - name: "Ethics: Principles-based approach"
     - name: "Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty"
-    - name: Problem set
+    - name: Problem Set
+    - name: Lecture by Visiting Speaker
     - name: Dinner & discussion
 
 - date: 2017-06-20
@@ -45,6 +46,7 @@
     - name: Screen-Scraping
     - name: Application Programming Interfaces
     - name: Problem Set
+    - name: Lecture by Visitng Speaker
     - name: Dinner & Discussion
 
 - date: 2017-06-21
@@ -55,6 +57,7 @@
     - name: Topic Models
     - name: Network-Based Text Analysis
     - name: Problem set
+    - name: Lecture by Visiting Speaker
     - name: Dinner & Discussion
 
 - date: 2017-06-22
@@ -66,6 +69,7 @@
     - name: Linking surveys and big data
     - name: Developing apps for survey research
     - name: Problem set
+    - name: Lecture by Visiting Speaker
     - name: Dinner & Discussion
 
 - date: 2017-06-23
@@ -75,6 +79,7 @@
     - name: Moving beyond simple experiments
     - name: Four strategies for experiments
     - name: Problem set
+    - name: Lecture by Visiting Speaker
     - name: Dinner & Discussion
 
 - date: 2017-06-24
@@ -98,10 +103,14 @@
   name: Work on projects
 - date: 2017-06-28
   name: Work on projects
+  name: Lecture by Visiting Speaker
+
   events:
     - name: Lecture by Winter Mason
 - date: 2017-06-29
   name: Work on projects
+  name: Lecture by Visiting Speaker
+
 - date: 2017-06-30
   name: Present final projects
 
