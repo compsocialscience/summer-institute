@@ -35,7 +35,7 @@
     - name: "Ethics: Principles-based approach"
     - name: "Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty"
     - name: Problem Set
-    - name: Lecture by Visiting Speaker
+    - name: Lecture by Michael Macy
     - name: Dinner & discussion
 
 - date: 2017-06-20
@@ -46,7 +46,7 @@
     - name: Screen-Scraping
     - name: Application Programming Interfaces
     - name: Problem Set
-    - name: Lecture by Visitng Speaker
+    - name: Lecture by Gary King
     - name: Dinner & Discussion
 
 - date: 2017-06-21
@@ -57,7 +57,7 @@
     - name: Topic Models
     - name: Network-Based Text Analysis
     - name: Problem set
-    - name: Lecture by Visiting Speaker
+    - name: Lecture by Brandon Stewart
     - name: Dinner & Discussion
 
 - date: 2017-06-22
@@ -69,10 +69,22 @@
     - name: Linking surveys and big data
     - name: Developing apps for survey research
     - name: Problem set
-    - name: Lecture by Visiting Speaker
+    - name: Lecture by Sandra Gonzalez-Baillon
     - name: Dinner & Discussion
 
 - date: 2017-06-23
+  name: Mass Collaboration
+  events:
+    - name: Why mass collaboration?
+    - name: Human computation
+    - name: Open call
+    - name: Distributed data collection
+    - name: Design advice
+    - name: Problem set
+    - name: Lecture by Markus Mobius
+    - name: Dinner & Discussion
+
+- date: 2017-06-24
   name: Experiments
   events:
     - name: Why experiments
@@ -82,33 +94,22 @@
     - name: Lecture by Visiting Speaker
     - name: Dinner & Discussion
 
-- date: 2017-06-24
-  name: Mass Collaboration
-  events:
-    - name: Why mass collaboration?
-    - name: Human computation
-    - name: Open call
-    - name: Distributed data collection
-    - name: Design advice
-    - name: Problem set
-    - name: Dinner & Discussion
-
 - date: 2017-06-25
-  name: Go to New York
+  name: Day Off (Go to New York)
+  
 - date: 2017-06-26
   name: Work on projects
 
 - date: 2017-06-27
   name: Work on projects
-  name: Lecture by Visiting Speaker
+    - name: Lecture by Markus Mobius
 - date: 2017-06-28
   name: Work on projects
   
-
-
 - date: 2017-06-29
   name: Work on projects
   name: Lecture by Visiting Speaker
+   - name: Lecture by Markus Mobius
 
 - date: 2017-06-30
   name: Present final projects
