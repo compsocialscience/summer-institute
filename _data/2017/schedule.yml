@@ -69,7 +69,7 @@
     - name: Linking surveys and big data
     - name: Developing apps for survey research
     - name: Problem set
-    - name: Lecture by Sandra Gonzalez-Baillon
+    - name: Lecture by Sandra Gonzalez-Bailon
     - name: Dinner & Discussion
 
 - date: 2017-06-23
@@ -91,25 +91,24 @@
     - name: Moving beyond simple experiments
     - name: Four strategies for experiments
     - name: Problem set
-    - name: Lecture by Visiting Speaker
     - name: Dinner & Discussion
 
 - date: 2017-06-25
-  name: Day Off (Go to New York)
+  name: Day Off (Go to New York?)
   
 - date: 2017-06-26
   name: Work on projects
 
 - date: 2017-06-27
   name: Work on projects
-  name: Lecture by Markus Mobius
+
 - date: 2017-06-28
   name: Work on projects
+  name: Lecture by Winter Mason
   
 - date: 2017-06-29
   name: Work on projects
-  name: Lecture by Visiting Speaker
-  name: Lecture by Markus Mobius
+  name: Lecture by Deborah Estrin
 
 - date: 2017-06-30
   name: Present final projects
