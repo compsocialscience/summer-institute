@@ -1,3 +1,4 @@
 {% if site.data[year].live_stream %}
   <h1 id="live_stream">Live Stream</h1>
-  {{content}}
+  {% for info in site.data[year].live_stream %}
+  {{ info.text }}
