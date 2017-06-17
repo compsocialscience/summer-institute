@@ -11,3 +11,4 @@ vendor/
 *.snm
 *.gz
 *.toc
+*.gz(busy)
