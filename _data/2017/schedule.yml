@@ -39,25 +39,25 @@
     - name: Dinner & discussion
 
 - date: 2017-06-20
-  name: "Collecting New Data"
+  name: "Collecting Digital Trace Data"
   events:
-    - name: What is big data?
-    - name: Strengths and weakness of big data
+    - name: What is digital trace data?
+    - name: Strengths and weakness of digital trace data
     - name: Screen-Scraping
     - name: Application Programming Interfaces
     - name: Apps for Social Science Research
-    - name: Problem Set
+    - name: Group Exercise
     - name: Lecture by Gary King
     - name: Dinner & Discussion
 
 - date: 2017-06-21
-  name: Text as data
+  name: Automated text analysis
   events:
-    - name: Dictionary-Based Approaches
-    - name: Cluster Analysis
-    - name: Topic Models
-    - name: Network-Based Text Analysis
-    - name: Problem set
+    - name: History of quantitative text analysis
+    - name: Dictionary-based approaches
+    - name: Topic models and Beyond (Brandon Stewart)
+    - name: Text Networks
+    - name: Group Exercise
     - name: Lecture by Brandon Stewart
     - name: Dinner & Discussion
 
