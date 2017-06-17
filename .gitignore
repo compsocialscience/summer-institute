@@ -4,3 +4,10 @@ _site/
 .bundle/
 vendor/
 *.swp
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.gz
+*.toc
