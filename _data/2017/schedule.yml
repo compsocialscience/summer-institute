@@ -36,8 +36,8 @@
     - name: "Ethics: Principles-based approach [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day1-intro-ethics/03-ethics.pdf)"
     - name: "Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day1-intro-ethics/04-areas-of-difficulty.pdf)"
     - name: Activity
-    - name: 4:00-5:30 Lecture by Michael Macy
-    - name: 6:00-7:30 Dinner & discussion
+    - name: *4:00-5:30* Lecture by Michael Macy
+    - name: **6:00-7:30** Dinner & discussion
 
 - date: 2017-06-20
   name: "Collecting Digital Trace Data"
