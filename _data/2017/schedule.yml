@@ -46,7 +46,7 @@
   events:
     - name: What is digital trace data?
     - name: Strengths and weakness of digital trace data
-    - name: Screen-Scraping
+    - name: "Screen-Scraping [code](https://cdn.rawgit.com/compsocialscience/summer-institute/a41f031d/2017/materials/day2_digital_trace_data/Screen-Scraping.R)"
     - name: Application Programming Interfaces
     - name: Apps for Social Science Research
     - name: Group Exercise
