@@ -48,7 +48,7 @@
   events:
     - name: "9:00-9:15 What is digital trace data? [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/0d0afa7e/2017/materials/day2_digital_trace_data/What%20is%20Digital%20Trace%20Data.html)"
     - name: "9:15-9:30 Strengths and weakness of digital trace data [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/8d9c2257/2017/materials/day2_digital_trace_data/Strengths%20and%20Weaknesses%20of%20Digital%20Trace%20Data.html)"
-    - name: "9:30-10:00 Screen-Scraping [code](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2017/materials/day2_digital_trace_data/Screen-Scraping.R)"
+    - name: "9:30-10:00 Screen-Scraping [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/d4594b33/2017/materials/day2_digital_trace_data/Screenscraping.html)  [code](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2017/materials/day2_digital_trace_data/Screen-Scraping.R)"
     - name: "10:00-10:15 Break"
     - name: "10:15-11:00 Application Programming Interfaces [code](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2017/materials/day2_digital_trace_data/APIs.R)"
     - name: "11:00-12:00 Apps for Social Science Research"
