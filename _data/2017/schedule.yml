@@ -47,7 +47,7 @@
   name: "Collecting Digital Trace Data"
   events:
     - name: "What is digital trace data? [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/0d0afa7e/2017/materials/day2_digital_trace_data/What%20is%20Digital%20Trace%20Data.html)"
-    - name: "Strengths and weakness of digital trace data [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/blob/master/2017/materials/day2_digital_trace_data/What%is%Digital%Trace%Data.html)"
+    - name: "Strengths and weakness of digital trace data [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/8d9c2257/2017/materials/day2_digital_trace_data/Strengths%20and%20Weaknesses%20of%20Digital%20Trace%20Data.html)"
     - name: "Screen-Scraping [code](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day2_digital_trace_data/Screen-Scraping.R)"
     - name: "Application Programming [code](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day2_digital_trace_data/APIs.R)"
     - name: Apps for Social Science Research
