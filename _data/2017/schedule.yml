@@ -32,25 +32,26 @@
 - date: 2017-06-19
   name: Introduction and Ethics
   events:
-    - name: "9:00-9:15 Introduction to computational social science [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day1-intro-ethics/01-welcome_and_logistics.pdf)"
-    - name: "9:15-9:30 Why SICSS? [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/a41f031d/2017/materials/day1-intro-ethics/Why%20SICSS%3F.html)"
-    - name: "9:30-9:45 Introductions"
-    - name: "9:45-10:30 Ethics: Principles-based approach [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day1-intro-ethics/03-ethics.pdf)"
-    - name: "10:30-10:45 Coffee Break"
-    - name: "10:45-12:00 Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day1-intro-ethics/04-areas-of-difficulty.pdf)"
-    - name: "1:00PM-4PM Group Exercise"
+    - name: "9:00-9:15 Logistics (No livestream)"
+    - name: "9:15-9:30 Introduction to computational social science [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day1-intro-ethics/01-welcome_and_logistics.pdf)"
+    - name: "9:30-9:45 Why SICSS? [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/a41f031d/2017/materials/day1-intro-ethics/Why%20SICSS%3F.html)"
+    - name: "9:45-10:00 Introductions"
+    - name: "10:00-10:45 Ethics: Principles-based approach [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day1-intro-ethics/03-ethics.pdf)"
+    - name: "10:45-11:00 Coffee Break"
+    - name: "11:00-12:00 Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day1-intro-ethics/04-areas-of-difficulty.pdf)"
+    - name: "1:00-4:00 Group Exercise (No livestream)"
     - name: "4:00-5:30 Lecture by Michael Macy (No livestream)"
     - name: "6:00-7:30 Dinner & discussion"
 
 - date: 2017-06-20
   name: "Collecting Digital Trace Data"
   events:
-    - name: What is digital trace data?
-    - name: Strengths and weakness of digital trace data
-    - name: "Screen-Scraping [code](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2017/materials/day2_digital_trace_data/Screen-Scraping.R)"
-    - name: Application Programming Interfaces
+    - name: "What is digital trace data? [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/a41f031d/2017/materials/day2_digital_trace_data/What%is%Digital%Trace%Data.html)"   
+    - name: "Strengths and weakness of digital trace data [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/blob/master/2017/materials/day2_digital_trace_data/What%is%Digital%Trace%Data.html)"
+    - name: "Screen-Scraping [code](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day2_digital_trace_data/Screen-Scraping.R)"
+    - name: "Application Programming [code](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day2_digital_trace_data/APIs.R)"
     - name: Apps for Social Science Research
-    - name: Group Exercise
+    - name: Group Exercise (No livestream)
     - name: "4:00-5:30 Lecture by Gary King"
     - name: Dinner & Discussion
 
@@ -61,7 +62,7 @@
     - name: Dictionary-based approaches
     - name: Topic models and Beyond (Brandon Stewart)
     - name: Text Networks
-    - name: Group Exercise
+    - name: Group Exercise (No livestream)
     - name: "4:00-5:30 Lecture by Brandon Stewart"
     - name: Dinner & Discussion
 
@@ -72,7 +73,7 @@
     - name: Probability and non-probability sampling
     - name: New approaches to measurement
     - name: Linking surveys and big data
-    - name: Problem set
+    - name: Problem set (No livestream)
     - name: "4:00-5:30 Lecture by Sandra Gonzalez-Bailon"
     - name: Dinner & Discussion
 
@@ -84,7 +85,7 @@
     - name: Open call
     - name: Distributed data collection
     - name: Design advice
-    - name: Problem set
+    - name: Problem set (No livestream)
     - name: "4:00-5:30 Lecture by Markus Mobius"
     - name: Dinner & Discussion
 
@@ -94,7 +95,7 @@
     - name: Why experiments
     - name: Moving beyond simple experiments
     - name: Four strategies for experiments
-    - name: Problem set
+    - name: Problem set (No livestream)
     - name: Dinner & Discussion
 
 - date: 2017-06-25
