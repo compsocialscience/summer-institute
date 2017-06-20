@@ -59,11 +59,15 @@
 - date: 2017-06-21
   name: Automated text analysis
   events:
-    - name: History of quantitative text analysis
-    - name: Dictionary-based approaches
-    - name: Topic models and Beyond (Brandon Stewart)
-    - name: Text Networks
-    - name: Group Exercise (No livestream)
+    - name: "9:00-9:15 History of quantitative text analysis"
+    - name: "9:15-9:30 Strengths and weakenesses of quantitative text analysis"
+    - name: "9:30-9:45 Basic Text Analysis/GREP"
+    - name: "9:45-10:00 Dictionary-Based Text Analysis"
+    - name: "10:00-10:15 Break"
+    - name: "10:15-11:00 Topic models and Beyond (Brandon Stewart)"
+    - name: "11:00-12:00 Ngram Networks"
+    - name: "12:00-1:00 Lunch"
+    - name: "1:00-4:00 Group Exercise (No livestream)"
     - name: "4:00-5:30 Lecture by Brandon Stewart"
     - name: Dinner & Discussion
 
