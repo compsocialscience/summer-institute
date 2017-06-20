@@ -60,7 +60,7 @@
   name: Automated text analysis
   events:
     - name: "9:00-9:15 History of quantitative text analysis [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/5d91bfe1/2017/materials/day3_text_analysis/History%20of%20Quantitative%20Text%20Analysis.html)"
-    - name: "9:15-9:30 Strengths and weakenesses of quantitative text analysis"
+    - name: "9:15-9:30 Strengths and weakenesses of quantitative text analysis [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/91c11199/2017/materials/day3_text_analysis/Strengths%20and%20Weaknesses%20of%20Text%20Analysis.html)"
     - name: "9:30-9:45 Basic Text Analysis/GREP [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/b18f9c9a/2017/materials/day3_text_analysis/Basic%20Text%20Analysis.html)"
     - name: "9:45-10:00 Dictionary-Based Text Analysis"
     - name: "10:00-10:15 Break"
