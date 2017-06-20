@@ -61,7 +61,7 @@
   events:
     - name: "9:00-9:15 History of quantitative text analysis"
     - name: "9:15-9:30 Strengths and weakenesses of quantitative text analysis"
-    - name: "9:30-9:45 Basic Text Analysis/GREP"
+    - name: "9:30-9:45 Basic Text Analysis/GREP [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/b18f9c9a/2017/materials/day3_text_analysis/Basic%20Text%20Analysis.html)"
     - name: "9:45-10:00 Dictionary-Based Text Analysis"
     - name: "10:00-10:15 Break"
     - name: "10:15-11:00 Topic models and Beyond (Brandon Stewart)"
