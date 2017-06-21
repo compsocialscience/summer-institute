@@ -65,7 +65,7 @@
     - name: "9:45-10:00 Dictionary-Based Text Analysis [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/08d429ef/2017/materials/day3_text_analysis/DictionaryBased%20Methods.html)"
     - name: "10:00-10:15 Break"
     - name: "10:15-11:00 Topic models and Beyond (Brandon Stewart) [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/guest_speakers/Stewart_SICSS.pdf) [code](https://cran.r-project.org/web/packages/stm/vignettes/stmVignette.pdf)"
-    - name: "11:00-12:00 Ngram Networks [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/cfb7953e/2017/materials/day3_text_analysis/Ngram%20Networks.html) [code](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2017/materials/day3_text_analysis/Ngram%20Networks%20Example.R) [data](https://github.com/compsocialscience/summer-institute/raw/master/2017/materials/day3_text_analysis/Elected%20Official%20Tweets.Rdata)"
+    - name: "11:00-12:00 Ngram Networks [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/b1408c61/2017/materials/day3_text_analysis/Ngram%20Networks-1.html) [code](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2017/materials/day3_text_analysis/Ngram%20Networks%20Example.R) [data](https://github.com/compsocialscience/summer-institute/raw/master/2017/materials/day3_text_analysis/Elected%20Official%20Tweets.Rdata)"
     - name: "12:00-1:00 Lunch"
     - name: "1:00-4:00 Group Exercise (No livestream)"
     - name: "4:00-5:30 Lecture by Brandon Stewart"
