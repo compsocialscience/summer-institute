@@ -34,7 +34,7 @@
   events:
     - name: "9:00-9:15 Logistics (No livestream)"
     - name: "9:15-9:30 Introduction to computational social science [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day1-intro-ethics/01-welcome_and_logistics.pdf)"
-    - name: "9:30-9:45 Why SICSS? [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/a41f031d/2017/materials/day1-intro-ethics/Why%20SICSS%3F.html)"
+    - name: "9:30-9:45 Why SICSS? [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/71be83b5/2017/materials/day1-intro-ethics/Why%20SICSS.html)"
     - name: "9:45-10:00 Introductions"
     - name: "10:00-10:45 Ethics: Principles-based approach [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day1-intro-ethics/03-ethics.pdf)"
     - name: "10:45-11:00 Coffee Break"
