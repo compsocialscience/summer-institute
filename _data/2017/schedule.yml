@@ -85,12 +85,11 @@
 - date: 2017-06-23
   name: Mass Collaboration
   events:
-    - name: Why mass collaboration?
-    - name: Human computation
-    - name: Open call
-    - name: Distributed data collection
-    - name: Design advice
-    - name: Problem set (No livestream)
+    - name: 9:00 - 9:15 Why mass collaboration?
+    - name: 9:15 - 10:00 Human computation, open call, and distributed data collection
+    - name: 10:00 - 10:15 Design advice
+    - name: 10:15 - 10:30 Coffee break
+    - name: 10:30 - 4:00 [Fragile Families Challenge](http://www.fragilefamilieschallenge.org/)
     - name: "4:00-5:30 Lecture by Markus Mobius"
     - name: Dinner & Discussion
 
