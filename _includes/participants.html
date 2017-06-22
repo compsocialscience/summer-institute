@@ -1,0 +1,5 @@
+{% if site.data[year].participants %}
+  <h1 id="participants">Participants</h1>
+  {% assign people = site.data[year].participants %}
+  {% include people_two_column.html people=people %}
+{% endif %}
