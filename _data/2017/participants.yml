@@ -1,6 +1,6 @@
-- name: Visseho Adjiwanou
-  bio: Visseho Adjiwanou 
-  image: 
+- name: Vissého Adjiwanou
+  bio: Vissého Adjiwanou is a Senior Lecturer in Demography and Quantitative Methods at the University of Cape Town (South Africa), and adjunct professor at the Université de Montréal (Canada). His research interests include maternal and reproductive health, family dynamics, and female employment in sub-Saharan Africa. He will chair a session on Family transformation in SSA at the 28th International Population Conference (IPC) in Cape Town. Vissého is also interested in computational science where he tries to document discussions on gender and family formation of African immigrants in the West (Europe and North America) on social media, and their effects on their peers in Africa.
+  image: /assets/images/VissehoAdjiwanou.jpeg
 - name: Kathryn Albrecht
   bio: Kat Albrecht is pursuing a PhD in Sociology at Northwestern University. Her research focuses on investigating how the structure of data shapes research conclusions and broader sociological theory. Using machine learning methods, quantitative causal inference, and mapping techniques she primarily builds and analyzes large criminal justice datasets. She is especially concerned with the economics of fear, the working definition of homicide, and the general state of crime data. She received her bachelor’s degree from the University of Minnesota where she first began exploring the junction of computational methods and the social sciences.
   image: /assets/images/KatAlbrecht.jpeg
