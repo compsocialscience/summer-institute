@@ -34,7 +34,7 @@ In the process, we will gain experience with writing survey questionnaires, crea
 
 * Analyze your data. Compare your raw and weighted estimates, respectively, with what’s published by Pew. 
 
-    - Get the Pew results to your questions. We will post them here: https://github.com/compsocialscience/summer-institute/tree/master/2017/materials/day4_surveys
+    - Get the Pew results to your questions. We have posted them here: https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/pewestimates.csv
     - Replicate Figure 1 from [Goel et al.](https://5harad.com/papers/dirtysurveys.pdf).
     - Next, try different adjustment methods, and for each method you use, replicate Figure 2 from [Goel et al.](https://5harad.com/papers/dirtysurveys.pdf). You will eventually present your figures to the entire class so that we can compare them.
     - When doing the adjustment methods, you should start with the simplest thing first.  Do not jump to the most fancy technique right away.  You may use packages, but only after you have coded up at least one technique by hand (if you have coded one of these techniques as part of your earlier research that counts).  
