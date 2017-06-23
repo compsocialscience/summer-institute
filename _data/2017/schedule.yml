@@ -116,10 +116,10 @@
 - date: 2017-06-26
   name: Work on projects
   events:
-    - name: 12:00-12:20 Social network experiment using Mturk and bots (Presentation, Hiro)
-    - name: 12:20-12:40 Text mining and machine learning for resume screening (Presentation, Bo)
-    - name: 12:40-1:00 Multi-Wave Field Experiments Over Mechanical Turk (Presentation, Ethan)
-    - name: 4:00-5:00 How to get started with Python, hands-on workshop to install and get familiar with Anaconda (Tutorial, Charlotte)
+    - name: 12:00-12:20 Social network experiment using Mturk and bots (Presentation, Hirokazu Shirado)
+    - name: 12:20-12:40 Text mining and machine learning for resume screening (Presentation, Bo Cowgill)
+    - name: 12:40-1:00 Multi-Wave Field Experiments Over Mechanical Turk (Presentation, Ethan Porter)
+    - name: 4:00-5:00 How to get started with Python, hands-on workshop to install and get familiar with Anaconda (Tutorial, Charlotte Lloyd)
 
 
 - date: 2017-06-27
