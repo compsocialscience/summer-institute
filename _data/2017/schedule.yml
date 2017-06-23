@@ -74,7 +74,7 @@
 - date: 2017-06-22
   name: Surveys
   events:
-    - name: 9:00 - 9:15 Welcome and logistics [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/01-welcome-and-schedule.pdf)
+    - name: 9:00 - 9:15 Welcome and schedule [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/01-welcome-and-schedule.pdf)
     - name: 9:15 - 9:30 Survey research in the digital age [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/02-survey-research-digital-age.pdf)
     - name: 9:30 - 10:00 Probability and non-probability sampling [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/03-nonprobability-sampling.pdf)
     - name: 10:00 - 10:15 Coffee break
@@ -90,11 +90,14 @@
 - date: 2017-06-23
   name: Mass Collaboration
   events:
-    - name: 9:00 - 9:15 Why mass collaboration?
-    - name: 9:15 - 10:00 Human computation, open call, and distributed data collection
-    - name: 10:00 - 10:15 Design advice
+    - name: 9:00 - 9:10 Welcome and schedule [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day5_mass-collaboration/01-welcome-and-schedule.pdf)
+    - name: 9:10 - 9:30 Mass collaboration [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day5_mass-collaboration/02-mass-collaboration.pdf)
+    - name: 9:30 - 9:40 Human computation [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day5_mass-collaboration/03-human-computation.pdf)
+    - name: 9:40 - 9:50 Open call [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day5_mass-collaboration/04-open-call.pdf)
+    - name: 9:50 - 10:00 Distributed data collection [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day5_mass-collaboration/05-distributed-data-collection.pdf)
+    - name: 10:00 - 10:15 Design advice [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day5_mass-collaboration/06-design-your-own.pdf)
     - name: 10:15 - 10:30 Coffee break
-    - name: 10:30 - 4:00 [Fragile Families Challenge](http://www.fragilefamilieschallenge.org/)
+    - name: 10:30 - 4:00 [Fragile Families Challenge](http://www.fragilefamilieschallenge.org/) [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day5_mass-collaboration/ffchallenge_getting_started_SICSS.pdf)
     - name: "4:00-5:30 Lecture by Markus Mobius"
     - name: Dinner & Discussion
 
