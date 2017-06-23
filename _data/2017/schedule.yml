@@ -107,7 +107,7 @@
     - name: Why experiments
     - name: Moving beyond simple experiments
     - name: Four strategies for experiments
-    - name: Problem set (No livestream)
+    - name: Problem set (No live-stream)
     - name: Dinner & Discussion
 
 - date: 2017-06-25
@@ -116,31 +116,31 @@
 - date: 2017-06-26
   name: Work on projects
   events:
-    - name: 12:00-12:20 Presentation - Social network experiment using Mturk and bots (Hirokazu Shirado)
-    - name: 12:20-12:40 Presentation - Text mining and machine learning for resume screening (Bo Cowgill)
-    - name: 12:40-1:00 Presentation - Multi-Wave Field Experiments Over Mechanical Turk (Ethan Porter)
-    - name: 4:00-5:00 Tutorial - How to get started with Python, hands-on workshop to install and get familiar with Anaconda (Charlotte Lloyd)
+    - name: 12:00-12:20 Presentation - Social network experiment using Mturk and bots, Hirokazu Shirado
+    - name: 12:20-12:40 Presentation - Text mining and machine learning for resume screening, Bo Cowgill
+    - name: 12:40-1:00 Presentation - Multi-Wave Field Experiments Over Mechanical Turk, Ethan Porter
+    - name: 4:00-5:00 Tutorial - How to get started with Python, Charlotte Lloyd (No live-stream)
 
 
 - date: 2017-06-27
   name: Work on projects
   events:
-    - name: 12:00-12:20 Presentation - The Wisdom of the Dynamic Network (Abdullah Almaatouq)
-    - name: 12:20-12:40 Presentation - Demo / Agent Based Models and Collective Intelligence (Joshua Becker)
-    - name: 12:40-1:00 Presentation - Is the Public Polarized? Ideal Point Estimation using Real-time Debate Reactions (Lisa Argyle)
-    - name: 4:00-5:00 Tutorial - Open Review Toolkit (Matti Nelimarkka)
+    - name: 12:00-12:20 Presentation - The Wisdom of the Dynamic Network, Abdullah Almaatouq
+    - name: 12:20-12:40 Presentation - Demo / Agent Based Models and Collective Intelligence, Joshua Becker
+    - name: 12:40-1:00 Presentation - Is the Public Polarized? Ideal Point Estimation using Real-time Debate Reactions, Lisa Argyle
+    - name: 4:00-5:00 Tutorial - Open Review Toolkit, Matti Nelimarkka (No live-stream)
 
 
 - date: 2017-06-28
   name: Work on projects
   events:
-    - name: 12:00-1:00 Tutorial - Word2Vec and Dynamic Word2Vec (Jeffrey Jacobs/Taylor Brown)
+    - name: 12:00-1:00 Tutorial - Word2Vec and Dynamic Word2Vec, Jeffrey Jacobs/Taylor Brown (No live-stream)
     - name: 4:00-5:30 Lecture by Winter Mason
 
 - date: 2017-06-29
   name: Work on projects
   events:
-     - name: 12:00-1:00 Tutorial - Syntactic Dependency Parsers (Elliott Ash)
+     - name: 12:00-1:00 Tutorial - Syntactic Dependency Parsers, Elliott Ash (No live-stream)
      - name: 4:00-5:30 Lecture by Deborah Estrin
 
 - date: 2017-06-30
