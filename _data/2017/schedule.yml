@@ -116,14 +116,19 @@
 - date: 2017-06-26
   name: Work on projects
   events:
-    - name: 12:00-1:10 Social network experiment using Mturk and bots (Presentation, Hiro)
-    - name: 12:20-12:30 Text mining and machine learning for resume screening (Presentation, Bo)
-    - name: 12:40-12:50 Multi-Wave Field Experiments Over Mechanical Turk (Presentation, Ethan)
+    - name: 12:00-12:20 Social network experiment using Mturk and bots (Presentation, Hiro)
+    - name: 12:20-12:40 Text mining and machine learning for resume screening (Presentation, Bo)
+    - name: 12:40-1:00 Multi-Wave Field Experiments Over Mechanical Turk (Presentation, Ethan)
     - name: 4:00-5:00 How to get started with Python, hands-on workshop to install and get familiar with Anaconda (Tutorial, Charlotte)
 
 
 - date: 2017-06-27
   name: Work on projects
+  events:
+    - name: 12:00-12:10 The Wisdom of the Dynamic Network (Abdullah)
+    - name: 12:20-12:30 Demo / Agent Based Models and Collective Intelligence (Joshua)
+    - name: 12:40-12:50 Is the Public Polarized? Ideal Point Estimation using Real-time Debate Reactions (Lisa)
+
 
 - date: 2017-06-28
   name: Work on projects
