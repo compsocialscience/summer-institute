@@ -8,7 +8,7 @@ urlcolor: blue
 
 How accurate are estimates from non-probability-based online surveys? Can results from non-probability-based online surveys generalize to the broader population? In this activity, we will administer a survey on MTurk and try a variety of estimation techniques.  Then, we will compare our estimates to those that come from high-quality probability-based samples that were conducted by the Pew Research Center. 
 
-In the process, we will gain experience with writing survey questionnaires, creating surveys on Qualtrics, publishing surveys on MTurk, implementing various weighting methods, documenting surveys for dissemination, and thinking about broader issues related to survey errors and data quality.  Please read the entire activity before beginning.
+In the process, we will gain experience with writing survey questionnaires, creating surveys on Qualtrics, publishing surveys on MTurk, data wrangling, implementing various weighting methods, documenting surveys for dissemination, and thinking about broader issues related to survey errors and data quality.  Please read the entire activity before beginning.
 
 ## Before the group activity:
 * Read Chapter 3 in *Bit by Bit*
@@ -47,7 +47,7 @@ In the process, we will gain experience with writing survey questionnaires, crea
 
 ## Tips and additional resources
 
-* You might want to divide the work among group members, including creating the survey on Qualtircs, reshaping data files, breaking up the analysis into modular functions, etc. 
+* You might want to divide the work among group members, including creating the survey on Qualtrics, reshaping data files, breaking up the analysis into modular functions, etc. 
 * [Here](https://psrc.princeton.edu/our-services/using-mturk) are some more resources on web surveys  
 
 ## Further reading
