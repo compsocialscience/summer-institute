@@ -125,22 +125,22 @@
 - date: 2017-06-27
   name: Work on projects
   events:
-    - name: 12:00-12:20 The Wisdom of the Dynamic Network (Presentation, Abdullah)
-    - name: 12:20-12:40 Demo / Agent Based Models and Collective Intelligence (Presentation, Joshua)
-    - name: 12:40-1:00 Is the Public Polarized? Ideal Point Estimation using Real-time Debate Reactions (Presentation, Lisa)
-    - name: 4:00-5:00 Open Review Toolkit (Tutorial, Matt)
+    - name: 12:00-12:20 The Wisdom of the Dynamic Network (Presentation, Abdullah Almaatouq)
+    - name: 12:20-12:40 Demo / Agent Based Models and Collective Intelligence (Presentation, Joshua Becker)
+    - name: 12:40-1:00 Is the Public Polarized? Ideal Point Estimation using Real-time Debate Reactions (Presentation, Lisa Argyle)
+    - name: 4:00-5:00 Open Review Toolkit (Tutorial, Matti Nelimarkka)
 
 
 - date: 2017-06-28
   name: Work on projects
   events:
-    - name: 12:00-1:00 Word2Vec and Dynamic Word2Vec (Tutorial, Jeff/Taylor)
+    - name: 12:00-1:00 Word2Vec and Dynamic Word2Vec (Tutorial, Jeffrey Jacobs/Taylor Brown)
     - name: 4:00-5:30 Lecture by Winter Mason
 
 - date: 2017-06-29
   name: Work on projects
   events:
-     - name: 12:00-1:00 Syntactic Dependency Parsers (Tutorial, Elliott)
+     - name: 12:00-1:00 Syntactic Dependency Parsers (Tutorial, Elliott Ash)
      - name: 4:00-5:30 Lecture by Deborah Estrin
 
 - date: 2017-06-30
