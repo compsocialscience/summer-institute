@@ -104,14 +104,18 @@
 - date: 2017-06-24
   name: Experiments
   events:
-    - name: Why experiments
-    - name: Moving beyond simple experiments
-    - name: Four strategies for experiments
-    - name: Problem set (No live-stream)
-    - name: Dinner & Discussion
+    - name: 9:00 - 9:15 Welcome and schedule
+    - name: 9:15 - 9:45 What, why, and which experiments? [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day6_experiments/02-what-why-which-experiments.pdf)
+    - name: 9:45 - 10:15 Moving beyond simple experiments [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day6_experiments/03-moving-beyond-simple-experiments)
+    - name: 10:15 - 10:30 Coffee break
+    - name: 10:30 - 11:15 Four strategies for experiments [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day6_experiments/04-making-it-happen.pdf)
+    - name: 11:15 - 11:45 Zero variable cost data and musiclab
+    - name: 11:45 - 12:15 3 Rs
+    - name: Lunch
+    - name: Afternoon off
 
 - date: 2017-06-25
-  name: Day Off (Go to New York?)
+  name: Day off
 
 - date: 2017-06-26
   name: Work on projects
