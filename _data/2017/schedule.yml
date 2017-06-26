@@ -127,7 +127,9 @@
     - name: 12:00-12:20 Presentation - Demo / Agent Based Models and Collective Intelligence, Joshua Becker (No live-stream)
     - name: 12:20-12:40 Presentation - The Wisdom of the Dynamic Network, Abdullah Almaatouq (No live-stream)
     - name: 1:00-1:20 Presentation - Asking Sensitive Questions in Surveys, Antje Kirchner (No live-stream)
-    - name: 2:00-3:00 Tutorial - Multi-Wave Field Experiments Over Mechanical Turk, Ethan Porter (No live-stream)
+    - name: 1:40-2:00 Tutorial - Word2vec, Jeff Jacobs (No live-stream)
+    - name: 2:00-2:20 Tutorial - Dependency Parsing, Elliott Ash (No live-stream)
+    - name: 2:30-3:00 Tutorial - Multi-Wave Field Experiments Over Mechanical Turk, Ethan Porter (No live-stream)
 
 - date: 2017-06-28
   name: Work on projects
@@ -135,6 +137,8 @@
     - name: 12:00-12:20 Presentation - Text mining and machine learning for resume screening, Bo Cowgill (No live-stream)
     - name: 12:20-12:40 Presentation - Social network experiment using Mturk and bots, Hirokazu Shirado (No live-stream)
     - name: 12:40-1:00 Presentation - Using MTurk to Gauge Opinion on Crime and Punishment, Adaner Usmani (No live-stream)
+    - name: 1:00-2:00 Tutorial - How to get started with Python, Charlotte Lloyd (No live-stream)
+    - name: 2:00-3:00 Tutorial - Git and Github, Rochelle Terman (No live-stream)
     - name: 4:00-5:30 Lecture by Winter Mason
 
 - date: 2017-06-29
@@ -142,7 +146,10 @@
   events:
      - name: 12:00-12:20 Presentation - Multiplayer game / Survey on the future of computational social science, Peter Krafft (No live-stream)
      - name: 12:20-12:40 Presentation - An Overview of Interpretable Machine Learning, Tong Wang (No live-stream)
-     - name: 12:40-1:00 Presentation - Is the Public Polarized? Ideal Point Estimation using Real-time Debate Reactions, Lisa Argyle (No live-stream)
+     - name: 12:40-1:00 Presentation - Planning Prompts Increase and Forecast Course Completion in Massive Open Online Courses,
+     - name: 1:00-1:20 Presentation - Is the Public Polarized? Ideal Point Estimation using Real-time Debate Reactions, Lisa Argyle (No live-stream)
+     - name: 1:30-1:45 Tutorial - Open Review Toolkit, Matt Salganik (No live-stream)
+     - name: 1:45-2:30 Tutorial - How to get started with STM, Taylor Brown (No live-stream)
      - name: 4:00-5:30 Lecture by Deborah Estrin
 
 - date: 2017-06-30
