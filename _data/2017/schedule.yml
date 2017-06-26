@@ -124,7 +124,6 @@
     - name: 12:20-12:40 Presentation - Text mining and machine learning for resume screening, Bo Cowgill (No live-stream)
     - name: 12:40-1:00 Presentation - Multi-Wave Field Experiments Over Mechanical Turk, Ethan Porter (No live-stream)
     - name: 1:00-1:20 Presentation - Using MTurk to Gauge Opinion on Crime and Punishment, Adaner Usmani (No live-stream)
-    - name: 4:00-5:00 Tutorial - How to get started with Python, Charlotte Lloyd (No live-stream)
 
 
 - date: 2017-06-27
@@ -134,19 +133,16 @@
     - name: 12:20-12:40 Presentation - The Wisdom of the Dynamic Network, Abdullah Almaatouq (No live-stream)
     - name: 12:40-1:00 Presentation - Is the Public Polarized? Ideal Point Estimation using Real-time Debate Reactions, Lisa Argyle (No live-stream)
     - name: 1:00-1:20 Presentation - Asking Sensitive Questions in Surveys, Antje Kirchner (No live-stream)
-    - name: 4:00-5:00 Tutorial - [Open Review Toolkit](http://www.openreviewtoolkit.org/), Matthew Salganik (No live-stream)
 
 
 - date: 2017-06-28
   name: Work on projects
   events:
-    - name: 12:00-1:00 Tutorial - Intro to Word2Vec and Dynamic Word2Vec, Jeffrey Jacobs/Taylor Brown (No live-stream)
     - name: 4:00-5:30 Lecture by Winter Mason
 
 - date: 2017-06-29
   name: Work on projects
   events:
-     - name: 12:00-1:00 Tutorial - Syntactic Dependency Parsers, Elliott Ash (No live-stream)
      - name: 4:00-5:30 Lecture by Deborah Estrin
 
 - date: 2017-06-30
