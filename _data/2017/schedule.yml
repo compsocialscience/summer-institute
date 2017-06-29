@@ -151,7 +151,7 @@
      - name: 12:20-12:40 Presentation - O Interpretable Machine Learning, Where Art Thou?, Bo Cowgill (No live-stream)
      - name: 12:40-1:00 Presentation - Planning Prompts Increase and Forecast Course Completion in Massive Open Online Courses, Michael Yeomans (No live-stream)
      - name: 1:00-1:20 Presentation - Asking Sensitive Questions in Surveys, Antje Kirchner (No live-stream)
-     - name: 1:30-1:45 Tutorial - Open Review Toolkit, Matt Salganik (No live-stream)
+     - name: 1:30-1:45 Tutorial - [Open Review Toolkit](http://www.openreviewtoolkit.org/), Matt Salganik (No live-stream)
      - name: 1:45-2:30 Tutorial - How to get started with STM, Taylor Brown (No live-stream)
      - name: 4:00-5:30 Lecture by Deborah Estrin
      - name: 6:00 Dinner Dicussion groups - (1) Creating Tools for Social Scientists, (2) Issues in Open Source Development and Collaboration, (3) Interpretable Machine Learning
@@ -159,7 +159,7 @@
 - date: 2017-06-30
   name: Present final projects
   events:
-    - name: 6:00 Dinner Dicussion group - Pre-Registration of Experimental Design
+    - name: 6:00 Dinner
 
 - date: 2017-07-01
   events:
