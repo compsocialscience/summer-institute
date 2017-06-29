@@ -74,18 +74,18 @@
 - date: 2017-06-22
   name: Surveys
   events:
-    - name: 9:00-9:15 Welcome and schedule [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/01-welcome-and-schedule.pdf)
-    - name: 9:15-9:30 Survey research in the digital age [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/02-survey-research-digital-age.pdf)
-    - name: 9:30-10:00 Probability and non-probability sampling [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/03-nonprobability-sampling.pdf)
-    - name: 10:00-10:15 Coffee break
-    - name: 10:15-10:45 Computer-administered interviews and wiki surveys [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/04-computer-administered-interviews.pdf)
-    - name: 10:45-11:00 Combining surveys and big data [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/05-combining-surveys-and-big-data.pdf)
-    - name: 11:00-12:30 Begin group excercise (No livestream) [activity](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/survey_activity.pdf)
-    - name: 12:30-1:30 Lunch
-    - name: 1:30-3:45 Continue group excercise (No livestream)
-    - name: 3:45-4:00 Break
-    - name: 4:00-5:30 Lecture by Sandra Gonzalez-Bailon
-    - name: Dinner & Discussion
+    - name: "9:00-9:15 Welcome and schedule [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/01-welcome-and-schedule.pdf)"
+    - name: "9:15-9:30 Survey research in the digital age [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/02-survey-research-digital-age.pdf)"
+    - name: "9:30-10:00 Probability and non-probability sampling [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/03-nonprobability-sampling.pdf)"
+    - name: "10:00-10:15 Coffee break"
+    - name: "10:15-10:45 Computer-administered interviews and wiki surveys [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/04-computer-administered-interviews.pdf)"
+    - name: "10:45-11:00 Combining surveys and big data [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/05-combining-surveys-and-big-data.pdf)"
+    - name: "11:00-12:30 Begin group excercise (No livestream) [activity](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/survey_activity.pdf)"
+    - name: "12:30-1:30 Lunch"
+    - name: "1:30-3:45 Continue group excercise (No livestream)"
+    - name: "3:45-4:00 Break"
+    - name: "4:00-5:30 Lecture by Sandra Gonzalez-Bailon"
+    - name: "Dinner & Discussion"
 
 - date: 2017-06-23
   name: Mass Collaboration
