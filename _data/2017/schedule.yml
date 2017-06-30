@@ -74,18 +74,18 @@
 - date: 2017-06-22
   name: Surveys
   events:
-    - name: 9:00-9:15 Welcome and schedule [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/01-welcome-and-schedule.pdf)
-    - name: 9:15-9:30 Survey research in the digital age [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/02-survey-research-digital-age.pdf)
-    - name: 9:30-10:00 Probability and non-probability sampling [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/03-nonprobability-sampling.pdf)
-    - name: 10:00-10:15 Coffee break
-    - name: 10:15-10:45 Computer-administered interviews and wiki surveys [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/04-computer-administered-interviews.pdf)
-    - name: 10:45-11:00 Combining surveys and big data [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/05-combining-surveys-and-big-data.pdf)
-    - name: 11:00-12:30 Begin group excercise (No livestream) [activity](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/survey_activity.pdf)
-    - name: 12:30-1:30 Lunch
-    - name: 1:30-3:45 Continue group excercise (No livestream)
-    - name: 3:45-4:00 Break
-    - name: 4:00-5:30 Lecture by Sandra Gonzalez-Bailon
-    - name: Dinner & Discussion
+    - name: "9:00-9:15 Welcome and schedule [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/01-welcome-and-schedule.pdf)"
+    - name: "9:15-9:30 Survey research in the digital age [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/02-survey-research-digital-age.pdf)"
+    - name: "9:30-10:00 Probability and non-probability sampling [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/03-nonprobability-sampling.pdf)"
+    - name: "10:00-10:15 Coffee break"
+    - name: "10:15-10:45 Computer-administered interviews and wiki surveys [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/04-computer-administered-interviews.pdf)"
+    - name: "10:45-11:00 Combining surveys and big data [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/05-combining-surveys-and-big-data.pdf)"
+    - name: "11:00-12:30 Begin group excercise (No livestream) [activity](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/survey_activity.pdf)"
+    - name: "12:30-1:30 Lunch"
+    - name: "1:30-3:45 Continue group excercise (No livestream)"
+    - name: "3:45-4:00 Break"
+    - name: "4:00-5:30 Lecture by Sandra Gonzalez-Bailon"
+    - name: "Dinner & Discussion"
 
 - date: 2017-06-23
   name: Mass Collaboration
@@ -160,6 +160,7 @@
   name: Present final projects
   events:
     - name: The Cultural Roots of Islamophobia, Rochele Terman, Lisa Argyle, Ian Gray, and Matti Nelimarkka
+<<<<<<< HEAD
     - name: Fragile Families: Expert and Lay Opinions, Allie Morgan, Kivan Polimis, Adaner Usmani, Ridhi Kashyap
     - name: Fragile Families: Data Processing, Antje Kirchner, Anna Filippova, Connor Gilroy
     - name: Fragile Families: Modeling Strategies, Mike Yeomans, Tong Wang
@@ -167,6 +168,12 @@
     - name: The Future of CSS, Reflecting on Friendship, and Modeling Big Decisions, Peter Krafft
     - name: TBD, Hirokazu Shirado, Moritz Büchi, & Vissého Adjiwanou
     - name: Ngram2Vec: Constructing Variable-Length Phrase Spaces, Elliott Ash and Jeff Jacobs
+=======
+    - name: Fragile Families
+    - name: In search of human nature - Evidence for multilevel in-group preference amongst MTurk workers, Abdullah Almaatouq and Peter Krafft
+    - name: The Future of CSS, Reflecting on Friendship, and Modeling Big Decisions, Peter Krafft
+    - name: Ngram2Vec - Constructing Variable-Length Phrase Spaces, Elliott Ash and Jeff Jacobs
+>>>>>>> 8c4b768c9118791c70383da9d629555167166a78
     - name: Can We Reduce Political Polarization Without Communication, Joshua Becker and Ethan Porter
     - name: Dinner or a Movie? The Discourse of Emotional Labor in the Market for Escort Services, Charlotte Lloyd and Elliott Ash
     - name: TBD, Kat Albrecht and Maria Rodriguez
