@@ -13,6 +13,6 @@ There is no application form or program information beyond this Announcement.  T
 
 We anticipate a large pool of highly qualified applicants and to make final decisions quickly, so applications and letters must be received by the deadline. Complete applications, including letters of recommendation, must be received by Friday, February 24.  We will notify applicants solely through e-mail, by Friday, March 10 and will ask participants to confirm their participation very soon thereafter. Inquiries can be sent to rsfcompsocsci@gmail.com.
 
-# Note on application status
+# Future years
 
-All applications have been processed, and all applicants have been notified our decisions.  We are no longer accepting applications.
+We are not longer accepting applications for the 2017 Summer Institute. However, we plan to have the Summer Institute in future years as well. We will ciriculate the call for applications widely, and both [Chris](https://twitter.com/chris_bail) and [Matt](https://twitter.com/msalganik) will annouce it on Twitter.
