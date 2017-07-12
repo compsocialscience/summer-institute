@@ -19,16 +19,16 @@
   website: http://infosci.cornell.edu/faculty/michael-macy
 
 - name: Winter Mason
-  image: assets/images/WinterMason.jpg
+  image: /assets/images/WinterMason.jpg
   bio: Winter Mason is a Data Scientist at Facebook. He studies social networks, social media, crowdsourcing, and group dynamics. His research combines traditional psychological methods such as lab experiments with new methods such as online data collection with crowdsourcing and machine learning. His research has appeared in the Proceedings of the National Academy of Sciences and the Journal of Personality and Social Psychology, among other leading journals. He received his PhD in Social Psychology and Cognitive Science from Indiana University in 2007.
   website: https://research.fb.com/people/mason-winter/
 
 - name: Markus Mobius
-  image: assets/images/MarkusMobius.jpg
+  image: /assets/images/MarkusMobius.jpg
   bio: Markus Mobius is a Principal Researcher at Microsoft Research who studies the economics of social networks. He builds models of learning, coordination, and cooperation within social networks, with a particular focus on trust. His research employs lab and field experiments to study social networks in real settings.  His work has been funded by the National Science Foundation and the Sloan Foundation, and published in leading journals such as the American Economic Review and the Quarterly Journal of Economics. He completed his PhD in economics from the Massachusetts Institute of Technology in 2000.
   website: http://www.markusmobius.org/
 
 - name: Brandon Stewart
-  image: assets/images/BrandonStewart.jpg
+  image: /assets/images/BrandonStewart.jpg
   bio: Brandon Stewart is Assistant Professor of Sociology at Princeton University where he is also affiliated with the Politics Department, the Office of Population Research,  the Princeton Institute for Computational Science and Engineering, and the Center for the Digital Humanities.  His work develops new quantitative statistical methods for applications across computational social science.  He completed his PhD in Government at Harvard in 2015. His work develops new tools for automated text analysis.
   website: http://scholar.princeton.edu/bstewart
