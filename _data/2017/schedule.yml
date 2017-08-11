@@ -55,9 +55,9 @@
     - name: "9:15-9:30 Introduction to computational social science [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day1-intro-ethics/01-welcome_and_logistics.pdf)"
     - name: "9:30-9:45 Why SICSS? [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/71be83b5/2017/materials/day1-intro-ethics/Why%20SICSS.html)"
     - name: "9:45-10:00 Introductions"
-    - name: "10:00-10:45 Ethics: Principles-based approach [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day1-intro-ethics/03-ethics.pdf)"
+    - name: "10:00-10:45 Ethics: Principles-based approach [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day1-intro-ethics/03-ethics.pdf), [video](https://www.youtube.com/watch?v=QSdmdXxwhcM&index=2&list=PL9UNgBC7ODr77e3mThLoH2RQ3u_Dg-9gO)"
     - name: "10:45-11:00 Coffee Break"
-    - name: "11:00-12:00 Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day1-intro-ethics/04-areas-of-difficulty.pdf)"
+    - name: "11:00-12:00 Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day1-intro-ethics/04-areas-of-difficulty.pdf), [video](https://www.youtube.com/watch?v=4K8dIzN8NCA&index=1&list=PL9UNgBC7ODr77e3mThLoH2RQ3u_Dg-9gO)"
     - name: "1:00-4:00 Group Exercise (No livestream) [activity](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day1-intro-ethics/ethics_activity.pdf)"
     - name: "4:00-5:30 Lecture by Michael Macy (No livestream)"
     - name: "6:00-7:30 Dinner & discussion"
@@ -65,59 +65,59 @@
 - date: 2017-06-20
   name: "Collecting Digital Trace Data"
   events:
-    - name: "9:00-9:15 What is digital trace data? [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/0f3b8fa8/2017/materials/day2_digital_trace_data/What%20is%20Digital%20Trace%20Data.html)"
-    - name: "9:15-9:30 Strengths and weakness of digital trace data [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/8d9c2257/2017/materials/day2_digital_trace_data/Strengths%20and%20Weaknesses%20of%20Digital%20Trace%20Data.html)"
+    - name: "9:00-9:15 What is digital trace data? [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/0f3b8fa8/2017/materials/day2_digital_trace_data/What%20is%20Digital%20Trace%20Data.html), [video](https://www.youtube.com/watch?v=vmE4nwY2bCM&index=2&list=PL9UNgBC7ODr4wIBNMfH2Aq_8YMC4VH684)"
+    - name: "9:15-9:30 Strengths and weakness of digital trace data [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/8d9c2257/2017/materials/day2_digital_trace_data/Strengths%20and%20Weaknesses%20of%20Digital%20Trace%20Data.html), [video](https://www.youtube.com/watch?v=iUw3NYA8Ziw&index=4&list=PL9UNgBC7ODr4wIBNMfH2Aq_8YMC4VH684)"
     - name: "9:30-10:00 Screen-Scraping [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/d4594b33/2017/materials/day2_digital_trace_data/Screenscraping.html),  [code](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2017/materials/day2_digital_trace_data/Screen-Scraping.R)"
     - name: "10:00-10:15 Break"
-    - name: "10:15-11:00 Application Programming Interfaces [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/02e63a62/2017/materials/day2_digital_trace_data/APIs.html),  [code](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2017/materials/day2_digital_trace_data/APIs.R)"
+    - name: "10:15-11:00 Application Programming Interfaces [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/02e63a62/2017/materials/day2_digital_trace_data/APIs.html),  [code](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2017/materials/day2_digital_trace_data/APIs.R), [video](https://www.youtube.com/watch?v=X7GHhUfA7os&index=1&list=PL9UNgBC7ODr4wIBNMfH2Aq_8YMC4VH684)"
     - name: "11:00-12:00 Apps for Social Science Research [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/6f4d3bec/2017/materials/day2_digital_trace_data/Building%20Apps%20for%20Social%20Science%20Research.html)"
     - name: "1:00-4:00 Group Exercise (No livestream)"
-    - name: "4:00-5:30 Lecture by Gary King"
+    - name: "4:00-5:30 Lecture by Gary King [video](https://www.youtube.com/watch?v=z8h-1av6Emg&index=2&list=PL9UNgBC7ODr5-UCbOvOD5bEfDtXp6OwnZ)"
     - name: Dinner & Discussion
 
 - date: 2017-06-21
   name: Automated text analysis
   events:
-    - name: "9:00-9:15 History of quantitative text analysis [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/5d91bfe1/2017/materials/day3_text_analysis/History%20of%20Quantitative%20Text%20Analysis.html)"
-    - name: "9:15-9:30 Strengths and weakenesses of quantitative text analysis [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/91c11199/2017/materials/day3_text_analysis/Strengths%20and%20Weaknesses%20of%20Text%20Analysis.html)"
-    - name: "9:30-9:45 Basic Text Analysis/GREP [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/b18f9c9a/2017/materials/day3_text_analysis/Basic%20Text%20Analysis.html)"
-    - name: "9:45-10:00 Dictionary-Based Text Analysis [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/08d429ef/2017/materials/day3_text_analysis/DictionaryBased%20Methods.html)"
+    - name: "9:00-9:15 History of quantitative text analysis [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/5d91bfe1/2017/materials/day3_text_analysis/History%20of%20Quantitative%20Text%20Analysis.html), [video](https://www.youtube.com/watch?v=SbyJv3XI0fg&list=PL9UNgBC7ODr7R4N8T7xj2UvVKiyYvS8aO&index=2)"
+    - name: "9:15-9:30 Strengths and weakenesses of quantitative text analysis [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/91c11199/2017/materials/day3_text_analysis/Strengths%20and%20Weaknesses%20of%20Text%20Analysis.html), [video](https://www.youtube.com/watch?v=lqQWG_9q82A&list=PL9UNgBC7ODr7R4N8T7xj2UvVKiyYvS8aO&index=3)"
+    - name: "9:30-9:45 Basic Text Analysis/GREP [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/b18f9c9a/2017/materials/day3_text_analysis/Basic%20Text%20Analysis.html), [video](https://www.youtube.com/watch?v=6waIIvztfkk&list=PL9UNgBC7ODr7R4N8T7xj2UvVKiyYvS8aO&index=4)"
+    - name: "9:45-10:00 Dictionary-Based Text Analysis [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/08d429ef/2017/materials/day3_text_analysis/DictionaryBased%20Methods.html), [video](https://www.youtube.com/watch?v=4xv1ccEUleA&list=PL9UNgBC7ODr7R4N8T7xj2UvVKiyYvS8aO&index=5)"
     - name: "10:00-10:15 Break"
-    - name: "10:15-11:00 Topic models and Beyond (Brandon Stewart) [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/guest_speakers/Stewart_SICSS.pdf), [code](https://cran.r-project.org/web/packages/stm/vignettes/stmVignette.pdf)"
-    - name: "11:00-12:00 Ngram Networks [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/b1408c61/2017/materials/day3_text_analysis/Ngram%20Networks-1.html), [code](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2017/materials/day3_text_analysis/Ngram%20Networks%20Example.R) [data](https://github.com/compsocialscience/summer-institute/raw/master/2017/materials/day3_text_analysis/Elected%20Official%20Tweets.Rdata)"
+    - name: "10:15-11:00 Topic models and Beyond (Brandon Stewart) [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/guest_speakers/Stewart_SICSS.pdf), [code](https://cran.r-project.org/web/packages/stm/vignettes/stmVignette.pdf), [video](https://www.youtube.com/watch?v=AGIzIasTuLM&list=PL9UNgBC7ODr7R4N8T7xj2UvVKiyYvS8aO&index=6)"
+    - name: "11:00-12:00 Ngram Networks [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/b1408c61/2017/materials/day3_text_analysis/Ngram%20Networks-1.html), [code](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2017/materials/day3_text_analysis/Ngram%20Networks%20Example.R) [data](https://github.com/compsocialscience/summer-institute/raw/master/2017/materials/day3_text_analysis/Elected%20Official%20Tweets.Rdata), [video](https://www.youtube.com/watch?v=WxeC7QIHA98&list=PL9UNgBC7ODr7R4N8T7xj2UvVKiyYvS8aO&index=7)"
     - name: "12:00-1:00 Lunch"
     - name: "1:00-4:00 Group Exercise (No livestream)"
-    - name: "4:00-5:30 Lecture by Brandon Stewart"
+    - name: "4:00-5:30 Lecture by Brandon Stewart [video](https://www.youtube.com/watch?v=LmliCcZXzpI&index=1&list=PL9UNgBC7ODr5-UCbOvOD5bEfDtXp6OwnZ)"
     - name: Dinner & Discussion
 
 - date: 2017-06-22
   name: Surveys
   events:
-    - name: "9:00-9:15 Welcome and schedule [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/01-welcome-and-schedule.pdf)"
-    - name: "9:15-9:30 Survey research in the digital age [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/02-survey-research-digital-age.pdf)"
+    - name: "9:00-9:15 Welcome and schedule [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/01-welcome-and-schedule.pdf), [video](https://www.youtube.com/watch?v=2Ujll-vL9GA&list=PL9UNgBC7ODr7e6glONuXdY0Zv8_gFSieV&index=1)"
+    - name: "9:15-9:30 Survey research in the digital age [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/02-survey-research-digital-age.pdf), [video](https://www.youtube.com/watch?v=LEbn3_pXvmw&list=PL9UNgBC7ODr7e6glONuXdY0Zv8_gFSieV&index=2)"
     - name: "9:30-10:00 Probability and non-probability sampling [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/03-nonprobability-sampling.pdf)"
     - name: "10:00-10:15 Coffee break"
-    - name: "10:15-10:45 Computer-administered interviews and wiki surveys [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/04-computer-administered-interviews.pdf)"
+    - name: "10:15-10:45 Computer-administered interviews and wiki surveys [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/04-computer-administered-interviews.pdf), [video](https://www.youtube.com/watch?v=Fl9PEveLhyw&list=PL9UNgBC7ODr7e6glONuXdY0Zv8_gFSieV&index=4)"
     - name: "10:45-11:00 Combining surveys and big data [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/05-combining-surveys-and-big-data.pdf)"
     - name: "11:00-12:30 Begin group excercise (No livestream) [activity](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/survey_activity.pdf)"
     - name: "12:30-1:30 Lunch"
     - name: "1:30-3:45 Continue group excercise (No livestream)"
     - name: "3:45-4:00 Break"
-    - name: "4:00-5:30 Lecture by Sandra Gonzalez-Bailon"
+    - name: "4:00-5:30 Lecture by Sandra Gonzalez-Bailon [video](https://www.youtube.com/watch?v=OfEe8w_z5jY&index=5&list=PL9UNgBC7ODr5-UCbOvOD5bEfDtXp6OwnZ)""
     - name: "Dinner & Discussion"
 
 - date: 2017-06-23
   name: Mass Collaboration
   events:
     - name: 9:00-9:10 Welcome and schedule [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day5_mass-collaboration/01-welcome-and-schedule.pdf)
-    - name: 9:10-9:30 Mass collaboration [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day5_mass-collaboration/02-mass-collaboration.pdf)
-    - name: 9:30-9:40 Human computation [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day5_mass-collaboration/03-human-computation.pdf)
-    - name: 9:40-9:50 Open call [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day5_mass-collaboration/04-open-call.pdf)
-    - name: 9:50-10:00 Distributed data collection [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day5_mass-collaboration/05-distributed-data-collection.pdf)
-    - name: 10:00-10:15 Design advice [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day5_mass-collaboration/06-design-your-own.pdf)
+    - name: 9:10-9:30 Mass collaboration [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day5_mass-collaboration/02-mass-collaboration.pdf), [video](https://www.youtube.com/watch?v=Clr6ioO2b9I&index=2&list=PL9UNgBC7ODr7PfQQwXpa1cizWdUTPym6M)
+    - name: 9:30-9:40 Human computation [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day5_mass-collaboration/03-human-computation.pdf), [video](https://www.youtube.com/watch?v=MggoYBxiG1w&index=3&list=PL9UNgBC7ODr7PfQQwXpa1cizWdUTPym6M)
+    - name: 9:40-9:50 Open call [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day5_mass-collaboration/04-open-call.pdf), [video](https://www.youtube.com/watch?v=YVBZ094QFuc&index=4&list=PL9UNgBC7ODr7PfQQwXpa1cizWdUTPym6M)
+    - name: 9:50-10:00 Distributed data collection [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day5_mass-collaboration/05-distributed-data-collection.pdf), [video](https://www.youtube.com/watch?v=Ug3A-VXva_g&index=5&list=PL9UNgBC7ODr7PfQQwXpa1cizWdUTPym6M)
+    - name: 10:00-10:15 Design advice [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day5_mass-collaboration/06-design-your-own.pdf), [video](https://www.youtube.com/watch?v=pZBdSIro2Ec&index=6&list=PL9UNgBC7ODr7PfQQwXpa1cizWdUTPym6M)
     - name: 10:15-10:30 Coffee break
-    - name: 10:30-4:00 Fragile Families Challenge [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day5_mass-collaboration/ffchallenge_getting_started_SICSS.pdf)
-    - name: 4:00-5:30 Lecture by Markus Mobius
+    - name: 10:30-4:00 Fragile Families Challenge [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day5_mass-collaboration/ffchallenge_getting_started_SICSS.pdf), [video](https://www.youtube.com/watch?v=hw_3TNxZaRg&index=7&list=PL9UNgBC7ODr7PfQQwXpa1cizWdUTPym6M)
+    - name: 4:00-5:30 Lecture by Markus Mobius [video](https://www.youtube.com/watch?v=JE7fL16ZV30&index=6&list=PL9UNgBC7ODr5-UCbOvOD5bEfDtXp6OwnZ)
     - name: Dinner & Discussion
 
 - date: 2017-06-24
@@ -149,7 +149,7 @@
     - name: 1:20-1:40 Tutorial - Word2vec, Jeff Jacobs (No live-stream)
     - name: 1:40-2:00 Tutorial - Dependency Parsing, Elliott Ash (No live-stream)
     - name: 2:00-2:30 Tutorial - Multi-Wave Field Experiments Over Mechanical Turk, Ethan Porter (No live-stream)
-    - name: 4:00-5:30 Lecture by Winter Mason
+    - name: 4:00-5:30 Lecture by Winter Mason [video](https://www.youtube.com/watch?v=xz14o7Fw8IQ&index=7&list=PL9UNgBC7ODr5-UCbOvOD5bEfDtXp6OwnZ)
 
 - date: 2017-06-28
   name: Work on projects
@@ -172,7 +172,7 @@
      - name: 1:00-1:20 Presentation - Asking Sensitive Questions in Surveys, Antje Kirchner (No live-stream)
      - name: 1:30-1:45 Tutorial - [Open Review Toolkit](http://www.openreviewtoolkit.org/), Matt Salganik (No live-stream)
      - name: 1:45-2:30 Tutorial - How to get started with STM, Taylor Brown (No live-stream)
-     - name: 4:00-5:30 Lecture by Deborah Estrin
+     - name: 4:00-5:30 Lecture by Deborah Estrin [video](https://www.youtube.com/watch?v=KvZxGjL25QQ&index=8&list=PL9UNgBC7ODr5-UCbOvOD5bEfDtXp6OwnZ)
      - name: 6:00 Dinner Dicussion groups - (1) Creating Tools for Social Scientists, (2) Issues in Open Source Development and Collaboration, (3) Interpretable Machine Learning
 
 - date: 2017-06-30
