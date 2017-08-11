@@ -67,9 +67,9 @@
   events:
     - name: "9:00-9:15 What is digital trace data? [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/0f3b8fa8/2017/materials/day2_digital_trace_data/What%20is%20Digital%20Trace%20Data.html)"
     - name: "9:15-9:30 Strengths and weakness of digital trace data [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/8d9c2257/2017/materials/day2_digital_trace_data/Strengths%20and%20Weaknesses%20of%20Digital%20Trace%20Data.html)"
-    - name: "9:30-10:00 Screen-Scraping [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/d4594b33/2017/materials/day2_digital_trace_data/Screenscraping.html)  [code](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2017/materials/day2_digital_trace_data/Screen-Scraping.R)"
+    - name: "9:30-10:00 Screen-Scraping [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/d4594b33/2017/materials/day2_digital_trace_data/Screenscraping.html),  [code](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2017/materials/day2_digital_trace_data/Screen-Scraping.R)"
     - name: "10:00-10:15 Break"
-    - name: "10:15-11:00 Application Programming Interfaces [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/02e63a62/2017/materials/day2_digital_trace_data/APIs.html)  [code](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2017/materials/day2_digital_trace_data/APIs.R)"
+    - name: "10:15-11:00 Application Programming Interfaces [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/02e63a62/2017/materials/day2_digital_trace_data/APIs.html),  [code](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2017/materials/day2_digital_trace_data/APIs.R)"
     - name: "11:00-12:00 Apps for Social Science Research [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/6f4d3bec/2017/materials/day2_digital_trace_data/Building%20Apps%20for%20Social%20Science%20Research.html)"
     - name: "1:00-4:00 Group Exercise (No livestream)"
     - name: "4:00-5:30 Lecture by Gary King"
@@ -83,8 +83,8 @@
     - name: "9:30-9:45 Basic Text Analysis/GREP [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/b18f9c9a/2017/materials/day3_text_analysis/Basic%20Text%20Analysis.html)"
     - name: "9:45-10:00 Dictionary-Based Text Analysis [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/08d429ef/2017/materials/day3_text_analysis/DictionaryBased%20Methods.html)"
     - name: "10:00-10:15 Break"
-    - name: "10:15-11:00 Topic models and Beyond (Brandon Stewart) [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/guest_speakers/Stewart_SICSS.pdf) [code](https://cran.r-project.org/web/packages/stm/vignettes/stmVignette.pdf)"
-    - name: "11:00-12:00 Ngram Networks [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/b1408c61/2017/materials/day3_text_analysis/Ngram%20Networks-1.html) [code](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2017/materials/day3_text_analysis/Ngram%20Networks%20Example.R) [data](https://github.com/compsocialscience/summer-institute/raw/master/2017/materials/day3_text_analysis/Elected%20Official%20Tweets.Rdata)"
+    - name: "10:15-11:00 Topic models and Beyond (Brandon Stewart) [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/guest_speakers/Stewart_SICSS.pdf), [code](https://cran.r-project.org/web/packages/stm/vignettes/stmVignette.pdf)"
+    - name: "11:00-12:00 Ngram Networks [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/b1408c61/2017/materials/day3_text_analysis/Ngram%20Networks-1.html), [code](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2017/materials/day3_text_analysis/Ngram%20Networks%20Example.R) [data](https://github.com/compsocialscience/summer-institute/raw/master/2017/materials/day3_text_analysis/Elected%20Official%20Tweets.Rdata)"
     - name: "12:00-1:00 Lunch"
     - name: "1:00-4:00 Group Exercise (No livestream)"
     - name: "4:00-5:30 Lecture by Brandon Stewart"
@@ -125,11 +125,11 @@
   events:
     - name: 9:00 - 9:15 Welcome and schedule [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day6_experiments/01-welcome-and-schedule.pdf)
     - name: 9:15 - 9:45 What, why, and which experiments? [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day6_experiments/02-what-why-which-experiments.pdf), [video](https://www.youtube.com/watch?v=joGu0XRnm64&list=PL9UNgBC7ODr5po4NGRR1hRlvcmr1HEewo&index=2)
-    - name: 9:45 - 10:15 Moving beyond simple experiments [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day6_experiments/03-moving-beyond-simple-experiments.pdf)
+    - name: 9:45 - 10:15 Moving beyond simple experiments [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day6_experiments/03-moving-beyond-simple-experiments.pdf), [video](https://www.youtube.com/watch?v=AjS-Z8jDqno&list=PL9UNgBC7ODr5po4NGRR1hRlvcmr1HEewo&index=4)
     - name: 10:15 - 10:30 Coffee break
-    - name: 10:30 - 11:15 Four strategies for experiments [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day6_experiments/04-making-it-happen.pdf)
-    - name: 11:15 - 11:45 Zero variable cost data and musiclab [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day6_experiments/05-zero-variable-cost.pdf)
-    - name: 11:45 - 12:15 3 Rs [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day6_experiments/06-three-rs.pdf)
+    - name: 10:30 - 11:15 Four strategies for experiments [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day6_experiments/04-making-it-happen.pdf), [video](https://www.youtube.com/watch?v=i5CSjL7bZsg&index=5&list=PL9UNgBC7ODr5po4NGRR1hRlvcmr1HEewo)
+    - name: 11:15 - 11:45 Zero variable cost data and musiclab [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day6_experiments/05-zero-variable-cost.pdf), [video](https://www.youtube.com/watch?v=Mohbfkd6XO4&list=PL9UNgBC7ODr5po4NGRR1hRlvcmr1HEewo&index=3)
+    - name: 11:45 - 12:15 3 Rs [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day6_experiments/06-three-rs.pdf), [video](https://www.youtube.com/watch?v=dwUsT96SSck&list=PL9UNgBC7ODr5po4NGRR1hRlvcmr1HEewo&index=6)
     - name: Lunch
     - name: Afternoon off
 
