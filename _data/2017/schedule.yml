@@ -84,7 +84,7 @@
     - name: "9:45-10:00 Dictionary-Based Text Analysis [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/08d429ef/2017/materials/day3_text_analysis/DictionaryBased%20Methods.html), [video](https://www.youtube.com/watch?v=4xv1ccEUleA&list=PL9UNgBC7ODr7R4N8T7xj2UvVKiyYvS8aO&index=5)"
     - name: "10:00-10:15 Break"
     - name: "10:15-11:00 Topic models and Beyond (Brandon Stewart) [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/guest_speakers/Stewart_SICSS.pdf), [code](https://cran.r-project.org/web/packages/stm/vignettes/stmVignette.pdf), [video](https://www.youtube.com/watch?v=AGIzIasTuLM&list=PL9UNgBC7ODr7R4N8T7xj2UvVKiyYvS8aO&index=6)"
-    - name: "11:00-12:00 Ngram Networks [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/b1408c61/2017/materials/day3_text_analysis/Ngram%20Networks-1.html), [code](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2017/materials/day3_text_analysis/Ngram%20Networks%20Example.R) [data](https://github.com/compsocialscience/summer-institute/raw/master/2017/materials/day3_text_analysis/Elected%20Official%20Tweets.Rdata), [video](https://www.youtube.com/watch?v=WxeC7QIHA98&list=PL9UNgBC7ODr7R4N8T7xj2UvVKiyYvS8aO&index=7)"
+    - name: "11:00-12:00 Ngram Networks [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/b1408c61/2017/materials/day3_text_analysis/Ngram%20Networks-1.html), [code](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2017/materials/day3_text_analysis/Ngram%20Networks%20Example.R), [data](https://github.com/compsocialscience/summer-institute/raw/master/2017/materials/day3_text_analysis/Elected%20Official%20Tweets.Rdata), [video](https://www.youtube.com/watch?v=WxeC7QIHA98&list=PL9UNgBC7ODr7R4N8T7xj2UvVKiyYvS8aO&index=7)"
     - name: "12:00-1:00 Lunch"
     - name: "1:00-4:00 Group Exercise (No livestream)"
     - name: "4:00-5:30 Lecture by Brandon Stewart [video](https://www.youtube.com/watch?v=LmliCcZXzpI&index=1&list=PL9UNgBC7ODr5-UCbOvOD5bEfDtXp6OwnZ)"
@@ -103,7 +103,7 @@
     - name: "12:30-1:30 Lunch"
     - name: "1:30-3:45 Continue group excercise (No livestream)"
     - name: "3:45-4:00 Break"
-    - name: "4:00-5:30 Lecture by Sandra Gonzalez-Bailon [video](https://www.youtube.com/watch?v=OfEe8w_z5jY&index=5&list=PL9UNgBC7ODr5-UCbOvOD5bEfDtXp6OwnZ)""
+    - name: "4:00-5:30 Lecture by Sandra Gonzalez-Bailon [video](https://www.youtube.com/watch?v=OfEe8w_z5jY&index=5&list=PL9UNgBC7ODr5-UCbOvOD5bEfDtXp6OwnZ)"
     - name: "Dinner & Discussion"
 
 - date: 2017-06-23
