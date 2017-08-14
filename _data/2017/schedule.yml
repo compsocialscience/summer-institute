@@ -95,10 +95,10 @@
   events:
     - name: "9:00-9:15 Welcome and schedule [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/01-welcome-and-schedule.pdf), [video](https://www.youtube.com/watch?v=2Ujll-vL9GA&list=PL9UNgBC7ODr7e6glONuXdY0Zv8_gFSieV&index=1)"
     - name: "9:15-9:30 Survey research in the digital age [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/02-survey-research-digital-age.pdf), [video](https://www.youtube.com/watch?v=LEbn3_pXvmw&list=PL9UNgBC7ODr7e6glONuXdY0Zv8_gFSieV&index=2)"
-    - name: "9:30-10:00 Probability and non-probability sampling [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/03-nonprobability-sampling.pdf)"
+    - name: "9:30-10:00 Probability and non-probability sampling [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/03-nonprobability-sampling.pdf), [video](https://www.youtube.com/watch?v=bwjnGHQ8cuo&list=PL9UNgBC7ODr7e6glONuXdY0Zv8_gFSieV&index=3)"
     - name: "10:00-10:15 Coffee break"
     - name: "10:15-10:45 Computer-administered interviews and wiki surveys [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/04-computer-administered-interviews.pdf), [video](https://www.youtube.com/watch?v=Fl9PEveLhyw&list=PL9UNgBC7ODr7e6glONuXdY0Zv8_gFSieV&index=4)"
-    - name: "10:45-11:00 Combining surveys and big data [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/05-combining-surveys-and-big-data.pdf)"
+    - name: "10:45-11:00 Combining surveys and big data [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/05-combining-surveys-and-big-data.pdf), [video](https://www.youtube.com/watch?v=utQt3XGNv_0&list=PL9UNgBC7ODr7e6glONuXdY0Zv8_gFSieV&index=5)"
     - name: "11:00-12:30 Begin group excercise (No livestream) [activity](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day4_surveys/survey_activity.pdf)"
     - name: "12:30-1:30 Lunch"
     - name: "1:30-3:45 Continue group excercise (No livestream)"
