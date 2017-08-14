@@ -52,7 +52,7 @@
   name: Introduction and Ethics
   events:
     - name: "9:00-9:15 Logistics (No livestream)"
-    - name: "9:15-9:30 Introduction to computational social science [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day1-intro-ethics/01-welcome_and_logistics.pdf)"
+    - name: "9:15-9:30 Introduction to computational social science [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day1-intro-ethics/01-welcome_and_logistics.pdf), [video](https://www.youtube.com/watch?v=yV3TQf0p5Jw)"
     - name: "9:30-9:45 Why SICSS? [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/71be83b5/2017/materials/day1-intro-ethics/Why%20SICSS.html)"
     - name: "9:45-10:00 Introductions"
     - name: "10:00-10:45 Ethics: Principles-based approach [slides](https://github.com/compsocialscience/summer-institute/blob/master/2017/materials/day1-intro-ethics/03-ethics.pdf), [video](https://www.youtube.com/watch?v=QSdmdXxwhcM&index=2&list=PL9UNgBC7ODr77e3mThLoH2RQ3u_Dg-9gO)"
@@ -67,10 +67,10 @@
   events:
     - name: "9:00-9:15 What is digital trace data? [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/0f3b8fa8/2017/materials/day2_digital_trace_data/What%20is%20Digital%20Trace%20Data.html), [video](https://www.youtube.com/watch?v=vmE4nwY2bCM&index=2&list=PL9UNgBC7ODr4wIBNMfH2Aq_8YMC4VH684)"
     - name: "9:15-9:30 Strengths and weakness of digital trace data [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/8d9c2257/2017/materials/day2_digital_trace_data/Strengths%20and%20Weaknesses%20of%20Digital%20Trace%20Data.html), [video](https://www.youtube.com/watch?v=iUw3NYA8Ziw&index=4&list=PL9UNgBC7ODr4wIBNMfH2Aq_8YMC4VH684)"
-    - name: "9:30-10:00 Screen-Scraping [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/d4594b33/2017/materials/day2_digital_trace_data/Screenscraping.html),  [code](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2017/materials/day2_digital_trace_data/Screen-Scraping.R)"
+    - name: "9:30-10:00 Screen-Scraping [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/d4594b33/2017/materials/day2_digital_trace_data/Screenscraping.html),  [code](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2017/materials/day2_digital_trace_data/Screen-Scraping.R), [video](https://www.youtube.com/watch?v=LbHtCylaQn8&index=4&list=PL9UNgBC7ODr4wIBNMfH2Aq_8YMC4VH684)"
     - name: "10:00-10:15 Break"
     - name: "10:15-11:00 Application Programming Interfaces [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/02e63a62/2017/materials/day2_digital_trace_data/APIs.html),  [code](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2017/materials/day2_digital_trace_data/APIs.R), [video](https://www.youtube.com/watch?v=X7GHhUfA7os&index=1&list=PL9UNgBC7ODr4wIBNMfH2Aq_8YMC4VH684)"
-    - name: "11:00-12:00 Apps for Social Science Research [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/6f4d3bec/2017/materials/day2_digital_trace_data/Building%20Apps%20for%20Social%20Science%20Research.html)"
+    - name: "11:00-12:00 Apps for Social Science Research [slides](https://cdn.rawgit.com/compsocialscience/summer-institute/6f4d3bec/2017/materials/day2_digital_trace_data/Building%20Apps%20for%20Social%20Science%20Research.html), [video](https://www.youtube.com/watch?v=8DBLnYABAMQ&index=6&list=PL9UNgBC7ODr4wIBNMfH2Aq_8YMC4VH684)"
     - name: "1:00-4:00 Group Exercise (No livestream)"
     - name: "4:00-5:30 Lecture by Gary King [video](https://www.youtube.com/watch?v=z8h-1av6Emg&index=2&list=PL9UNgBC7ODr5-UCbOvOD5bEfDtXp6OwnZ)"
     - name: Dinner & Discussion
