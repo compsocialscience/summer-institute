@@ -19,7 +19,7 @@ baseurl: "/summer-institute" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 brand: Summer Institute in Computational Social Science
 
-current_year: 2017
+current_year: 2018
 
 # Build settings
 markdown: kramdown
