@@ -12,3 +12,4 @@ vendor/
 *.gz
 *.toc
 *.gz(busy)
+*.DS_Store
