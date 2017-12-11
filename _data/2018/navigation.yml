@@ -1,0 +1,8 @@
+- name: People
+  url: "/2018/#people"
+- name: Schedule
+  url: "/2018/#schedule"
+- name: Live Stream
+  url: "/2018/#live_stream"
+- name: Apply
+  url: "/2018/apply"
