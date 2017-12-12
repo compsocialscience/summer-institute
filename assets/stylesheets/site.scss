@@ -1,6 +1,7 @@
 ---
 ---
-
+$btn-default-color:              #555;
+$btn-default-bg:                 #e7e7e7;
 @import "bootstrap";
 $fixed-navbar-height: 50px;
 body {
@@ -27,10 +28,12 @@ body {
   .primary-nav {
     a.Apply {
       @extend .btn;
-      @extend .btn-primary;
+      @extend .btn-default;
       margin-top: 10px;
-      color: #fff !important;
       margin-left: 15px;
+      html.year_2018 & {
+        @extend .btn-primary;
+      }
     }
   }
 }
