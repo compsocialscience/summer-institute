@@ -1,6 +1,6 @@
-{% if site.data[year].schedule %}
-  <h1 id="schedule">Schedule</h1>
-  {% for day in site.data[year].schedule %}
+{% if site.data[year][include.data_key] %}
+  <h1 id="{{ include.data_key }}">{{ include.title }}</h1>
+  {% for day in site.data[year][include.data_key] %}
     <div class="panel panel-default">
       <div class="panel-heading">
         <h3 class="panel-title">

@@ -36,7 +36,9 @@
       </div>
     </div>
     <div class="container">
-      {% include schedule.html %}
+      {% capture pre_arrival %}{% include {{ year }}/pre_arrival.md %}{% endcapture %}
+      {{ pre_arrival | markdownify }}
+      {% include schedule.html data_key="schedule" title="Schedule and materials" %}
     </div>
     <a id="live_stream"></a>
     <div class="streaming">
