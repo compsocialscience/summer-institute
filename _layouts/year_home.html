@@ -38,8 +38,8 @@
     <div class="container">
       {% capture pre_arrival %}{% include {{ year }}/pre_arrival.md %}{% endcapture %}
       {{ pre_arrival | markdownify }}
-      {% include schedule.html data_key="schedule" title="Schedule and materials" %}
     </div>
+    {% include schedule.html data_key="schedule" title="Schedule and materials" %}
     <a id="live_stream"></a>
     <div class="streaming">
       <div class="container">
