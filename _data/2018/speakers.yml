@@ -1,3 +1,8 @@
+- name: Deen Freelon
+  image: /assets/images/deen.jpg
+  bio: Deen Freelon is an Associate Professor in the School of Media and Journalism at the University of North Carolina at Chapel Hill, and directs the Computational Communication Research Lab.
+  website: http://dfreelon.org/
+
 - name: David Lazer
   image: /assets/images/lazer.jpg
   bio: David Lazer is Professor of Political Science and Computer and Information Science, Northeastern University & Harvard University
@@ -5,10 +10,10 @@
   
 - name: Cynthia Rudin
   image: /assets/images/cynthia.jpg
-  bio: Cynthia Rudin is an associate professor of computer science, electrical and computer engineering, and statistics at Duke University, and directs the Prediction Analysis Lab.
+  bio: Cynthia Rudin is an Associate Professor of computer science, electrical and computer engineering, and statistics at Duke University, and directs the Prediction Analysis Lab.
   website: https://users.cs.duke.edu/~cynthia/
   
 - name: Duncan Watts
   image: /assets/images/duncan.jpg
-  bio: Duncan Watts is a principal researcher at Microsoft Research and a founding member of the MSR-NYC lab. He is also an AD White Professor at Large at Cornell University.
+  bio: Duncan Watts is a Principal Researcher at Microsoft Research and a founding member of the MSR-NYC lab. He is also an AD White Professor at Large at Cornell University.
   website: https://www.microsoft.com/en-us/research/people/duncan/
