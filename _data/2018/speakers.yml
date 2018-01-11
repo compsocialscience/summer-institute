@@ -3,12 +3,12 @@
   bio: Professor in Political Science and Computer and Information Science, Northeastern University & Harvard University
   website: http://www.davidlazer.com/
   
-  - name: Cynthia Rudin
+- name: Cynthia Rudin
   image: /assets/images/cynthia.jpg
   bio: Cynthia Rudin is an associate professor of computer science, electrical and computer engineering, and statistics at Duke University, and directs the Prediction Analysis Lab.
   website: https://users.cs.duke.edu/~cynthia/
   
-  - name: Duncan Watts
+- name: Duncan Watts
   image: /assets/images/duncan.jpg
   bio: Duncan Watts is a principal researcher at Microsoft Research and a founding member of the MSR-NYC lab. He is also an AD White Professor at Large at Cornell University. Prior to joining MSR in 2012, he was from 2000-2007 a professor of Sociology at Columbia University, and then a principal research scientist at Yahoo! Research, where he directed the Human Social Dynamics group
   website: https://www.microsoft.com/en-us/research/people/duncan/
