@@ -4,6 +4,16 @@
 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 <title>{{ page.title | default: site.title }}</title>
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-113727080-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-113727080-1');
+</script>
+
 <!-- Bootstrap -->
 <link href="{{ site.baseurl }}/assets/stylesheets/site.css" rel="stylesheet">
 
