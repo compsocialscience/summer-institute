@@ -1,0 +1,13 @@
+{% if data.hero %}
+  <div class="hero">
+    <img src="{{ data.hero.image.url | prepend: site.baseurl }}" class="img-responsive center-block" title="{{ data.hero.image.title }}" alt="{{ data.hero.image.alt }}">
+    <div class="hero-logo">
+      <img src="{{ data.hero.large_image.url | prepend: site.baseurl }}" class="img-responsive center-block" title="{{ data.hero.large_image.title }}" alt="{{ data.hero.large_image.alt }}">
+    </div>
+    <div class="hero-overlay">
+      <h1>{{ data.hero.header_1 }}</h1>
+      <h2>{{ data.hero.header_2 }}</h2>
+    </div>
+    <h3>{{ data.hero.header_3 }}</h3>
+  </div>
+{% endif %}
