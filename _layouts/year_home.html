@@ -40,17 +40,26 @@
         {% include participants.html %}
       </div>
     </div>
-    <div class="container">
-      {% capture pre_arrival %}{% include {{ year }}/pre_arrival.md %}{% endcapture %}
-      {{ pre_arrival | markdownify }}
-    </div>
-    {% include schedule.html data_key="schedule" title="Schedule and materials" %}
-    <a id="live_stream"></a>
-    <div class="streaming">
+
+    {% if page.pre_arrival %}
       <div class="container">
-        {% include live_stream.html %}
+        {% capture pre_arrival %}{% include_relative {{ page.pre_arrival }} %}{% endcapture %}
+        {{ pre_arrival | markdownify }}
       </div>
-    </div>
+    {% endif %}
+
+    {% include schedule.html data_key="schedule" title="Schedule and materials" %}
+
+    {% if page.live_stream %}
+      <a id="live_stream"></a>
+      <div class="streaming">
+        <div class="container">
+          {% capture live_stream %}{% include_relative {{ page.live_stream }} %}{% endcapture %}
+          {{ live_stream | markdownify }}
+        </div>
+      </div>
+    {% endif %}
+
     {% include footer.html %}
   </body>
 </html>
