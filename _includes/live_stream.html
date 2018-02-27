@@ -1,6 +1,6 @@
-{% if site.data[year].live_stream %}
+{% if data.live_stream %}
   <h1 id="live_stream">Live Stream</h1>
-  {% for info in site.data[year].live_stream %}
+  {% for info in data.live_stream %}
   {{ info.text }}
   {% endfor %}
 {% endif %}

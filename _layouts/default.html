@@ -1,5 +1,10 @@
 {% assign urlparts = page.url | split: "/" %}
 {% assign year = urlparts[1] %}
+{% if page.partner_site %}
+  {% assign data = site.data[year][page.partner_site] %}
+{% else %}
+  {% assign data = site.data[year] %}
+{% endif %}
 <!DOCTYPE html>
 <html lang="en" class="year_{{ year }}">
   <head>

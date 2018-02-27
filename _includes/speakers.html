@@ -1,5 +1,5 @@
-{% if site.data[year].speakers %}
-  <h1 id="speakers">Speakers</h1>
-  {% assign people = site.data[year].speakers %}
+{% if data.speakers %}
+  <h1 id="speakers">{{ include.title | default: "Speakers" }}</h1>
+  {% assign people = data.speakers %}
   {% include people_two_column.html people=people %}
 {% endif %}

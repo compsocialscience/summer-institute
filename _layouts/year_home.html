@@ -1,5 +1,10 @@
 {% assign urlparts = page.url | split: "/" %}
 {% assign year = urlparts[1] %}
+{% if page.partner_site %}
+  {% assign data = site.data[year][page.partner_site] %}
+{% else %}
+  {% assign data = site.data[year] %}
+{% endif %}
 <!DOCTYPE html>
 <html lang="en" class="year_{{ year }}">
   <head>
@@ -10,15 +15,15 @@
     {% include navbar.html %}
 
     <div class="hero">
-      <img src="{{ site.data[year].hero.image.url | prepend: site.baseurl }}" class="img-responsive center-block" title="{{ site.data[year].hero.image.title }}" alt="{{ site.data[year].hero.image.alt }}">
+      <img src="{{ data.hero.image.url | prepend: site.baseurl }}" class="img-responsive center-block" title="{{ data.hero.image.title }}" alt="{{ data.hero.image.alt }}">
       <div class="hero-logo">
-        <img src="{{ site.data[year].hero.large_image.url | prepend: site.baseurl }}" class="img-responsive center-block" title="{{ site.data[year].hero.large_image.title }}" alt="{{ site.data[year].hero.large_image.alt }}">
+        <img src="{{ data.hero.large_image.url | prepend: site.baseurl }}" class="img-responsive center-block" title="{{ data.hero.large_image.title }}" alt="{{ data.hero.large_image.alt }}">
       </div>
       <div class="hero-overlay">
-        <h1>{{ site.data[year].hero.header_1 }}</h1>
-        <h2>{{ site.data[year].hero.header_2 }}</h2>
+        <h1>{{ data.hero.header_1 }}</h1>
+        <h2>{{ data.hero.header_2 }}</h2>
       </div>
-      <h3>{{ site.data[year].hero.header_3 }}</h3>
+      <h3>{{ data.hero.header_3 }}</h3>
     </div>
     <div class="introduction container">
       {{ content }}
