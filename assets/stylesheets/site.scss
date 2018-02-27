@@ -5,7 +5,6 @@ $btn-default-bg:                 #e7e7e7;
 @import "bootstrap";
 $fixed-navbar-height: 50px;
 body {
-  padding-bottom: 4em;
   // Deal with fixed navbar height.
   padding-top: $fixed-navbar-height;
 
@@ -60,13 +59,6 @@ body {
   margin: 0 auto;
   max-width: 1200px;
 
-/*
-  .hero-image {
-    background-image: url(/assets/images/sicss-hero.jpg);
-    background-size: contain;
-    background-position: center;
-  }
-*/
   .hero-logo {
     position: absolute;
     top: 33%;
@@ -163,12 +155,21 @@ body {
   line-height: 2em;
   font-size: 16px;
   margin-top: 20px;
+  padding-bottom: 50px;
+}
+
+.default.container {
+  padding-bottom: 4em;
+}
+
+.section {
+  padding: 50px 0;
+  &:nth-child(even) {
+    background: #eee;
+  }
 }
 
 .people {
-  background: #eee;
-  margin: 50px 0;
-  padding: 50px 0;
   .row {
     margin-bottom: 40px;
   }
@@ -197,15 +198,7 @@ ul.list-group ul {
   margin-bottom: 10px;
 }
 
-.schedule {
-  background: #eee;
-  margin: 50px 0;
-  padding: 50px 0;
-}
-
 .streaming {
-  margin: 50px 0;
-  padding: 50px 0;
   .row {
     margin-bottom: 40px;
   }

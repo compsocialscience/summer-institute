@@ -13,8 +13,9 @@
     <div class="introduction container">
       {{ content }}
     </div>
-    <a id="people"></a>
-    <div class="people">
+
+    <div class="people section">
+      <a id="people"></a>
       <div class="container">
         {% include faculty.html %}
 
@@ -27,17 +28,19 @@
     </div>
 
     {% if page.pre_arrival %}
-      <div class="container">
-        {% capture pre_arrival %}{% include_relative {{ page.pre_arrival }} %}{% endcapture %}
-        {{ pre_arrival | markdownify }}
+      <div class="section">
+        <div class="container">
+          {% capture pre_arrival %}{% include_relative {{ page.pre_arrival }} %}{% endcapture %}
+          {{ pre_arrival | markdownify }}
+        </div>
       </div>
     {% endif %}
 
     {% include schedule.html data_key="schedule" title="Schedule and materials" %}
 
     {% if page.live_stream %}
-      <a id="live_stream"></a>
-      <div class="streaming">
+      <div class="streaming section">
+        <a id="live_stream"></a>
         <div class="container">
           {% capture live_stream %}{% include_relative {{ page.live_stream }} %}{% endcapture %}
           {{ live_stream | markdownify }}
