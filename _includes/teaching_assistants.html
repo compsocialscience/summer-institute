@@ -1,5 +1,5 @@
-{% if site.data[year].teaching_assistants %}
+{% if data.teaching_assistants %}
   <h1 id="teaching-assistants">Teaching Assistants</h1>
-  {% assign people = site.data[year].teaching_assistants %}
+  {% assign people = data.teaching_assistants %}
   {% include people_two_column.html people=people %}
 {% endif %}

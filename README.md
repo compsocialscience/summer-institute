@@ -11,6 +11,7 @@ This site was originally created for Summer Institute in Computational Social Sc
 * [Navigation Links](#navigation-links)
 * [Adding Additional Pages](#adding-additional-pages)
 * [Homepage](#homepage)
+* [Adding a partner location](#adding-a-partner-location)
 
 # Layouts
 
@@ -101,3 +102,30 @@ The Markdown variation that is used by GitHub Pages is [kramdown](https://kramdo
 # Homepage
 
 The homepage redirects to a specific year page. To modify which year it should redirect to, update the `current_year` setting in `_config.yml`.
+
+# Adding a partner location
+
+Partner locations can have their own directory with one or more pages. For example, a partner location for 2018 at Northwestern University can have a URL like [https://compsocialscience.github.io/summer-institute/2018/northwestern/](https://compsocialscience.github.io/summer-institute/2018/northwestern/) complete with their own data and sub-pages.
+
+Example steps for creating a new partner location for 2018 at Northwestern University:
+1. Create a new file at `2018/northwestern/index.md`.
+2. Front matter data in the newly created file should at least include:
+   ```yaml
+   ---
+   partner_site: northwestern
+   layout: year_home
+   faculty_title: Organizers
+   speakers_title: Local Speakers
+   ---
+   ```
+   The `partner_site` field above tells the site where to look for the data files for this page. In this example, it'd use the data files in `_data/2018/northwestern`.
+3. Create the data files as desired. For example data, feel free to checkout the `.yml` files in `_data/2018`. When creating the `navigation.yml` file, you'll need to be sure to use the URLs that refer to the partner location (e.g., `/2018/northwestern/#people`).
+4. Additional pages (like `apply.md`) may be created inside the `2018/northwestern/` directory. They should use the following front matter data:
+    ```yaml
+    ---
+    partner_site: northwestern
+    layout: default
+    ---
+    ```
+5. If the home page for the partner location needs a "Pre-arrival" section, add `pre_arrival: _pre_arrival.md` to the `2018/northwestern/index.md` front matter and create `2018/northwestern/_pre_arrival.md` file with the Markdown desired for that section.
+5. If the home page for the partner location needs a "Live Stream" section, add `live_stream: _live_stream.md` to the `2018/northwestern/index.md` front matter and create `2018/northwestern/_live_stream.md` file with the Markdown desired for that section.
