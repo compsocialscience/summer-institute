@@ -1,0 +1,9 @@
+- name: Kat Albrecht
+  image: /assets/images/JoshuaBecker.jpeg
+  bio: "Joshua Becker is a PhD candidate with the Network Dynamics Group at the University of Pennsylvania with a professional background in facilitation and decision-making. His research on collective intelligence uses formal models and experimental tests to examine how social network structure shapes group decisions. His current research focuses on how communication networks can be harnessed to tap the wisdom of crowds and improve estimation accuracy on tasks such as financial forecasting and medical diagnoses."
+  website: https://www.joshua-becker.com
+
+- name: Chris Bail
+  image: /assets/images/KatAlbrecht.jpeg
+  bio: "Kat Albrecht is pursuing a PhD in Sociology at Northwestern University. Her research focuses on investigating how the structure of data shapes research conclusions and broader sociological theory. Using machine learning methods, quantitative causal inference, and mapping techniques she primarily builds and analyzes large criminal justice datasets. She is especially concerned with the economics of fear, the working definition of homicide, and the general state of crime data. She received her bachelor’s degree from the University of Minnesota where she first began exploring the junction of computational methods and the social sciences." 
+  website: https://katalbrecht.org/
