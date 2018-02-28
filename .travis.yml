@@ -8,4 +8,4 @@ rvm:
  - 2.4
 script:
  - bundle exec jekyll build
- - ./.github/permission_check.rb
+ - ./.github/permission_check.rb 
