@@ -1,0 +1,5 @@
+.travis.yml             @lukebaker
+.github/                @lukebaker
+CODEOWNERS              @lukebaker
+Gemfile                 @lukebaker
+Gemfile.lock            @lukebaker
