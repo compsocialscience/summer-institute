@@ -11,3 +11,4 @@ The instructional program will involve lectures, group problem sets, and partici
 Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. Most participant costs during the workshop, including housing and most meals, will be covered, and most travel expenses will be reimbursed up to a set cap. About thirty participants will be invited. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R programming language. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours before the Institute.
 
 [Application materials](https://compsocialscience.github.io/summer-institute/2018/apply) should be received by Monday, February 19, 2018.
+
