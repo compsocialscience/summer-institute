@@ -77,6 +77,8 @@ GEM
     html-pipeline (2.7.1)
       activesupport (>= 2)
       nokogiri (>= 1.4)
+    httparty (0.16.0)
+      multi_xml (>= 0.5.2)
     i18n (0.9.1)
       concurrent-ruby (~> 1.0)
     jekyll (3.6.2)
@@ -194,6 +196,7 @@ GEM
     minima (2.1.1)
       jekyll (~> 3.3)
     minitest (5.10.3)
+    multi_xml (0.6.0)
     multipart-post (2.0.0)
     net-dns (0.8.0)
     nokogiri (1.8.1)
@@ -233,6 +236,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  httparty
 
 BUNDLED WITH
    1.16.0
