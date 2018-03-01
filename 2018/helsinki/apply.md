@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Apply
+partner_site: helsinki
 ---
 
 # Eligibility
@@ -17,4 +18,8 @@ On this form, we ask that you provide some basic information about yourself and 
 
 1. a curriculum vitae
 1. a statement (maximum three pages) describing both any current research and your interest in computational social science)
-1. one writing sample (no more than 35 pages).
+1. one writing sample (no more than 35 pages)
+
+Application materials should be received by Friday, March 23, 2018.
+
+Kindly sent all inquiries to [sicss-orgs@rajapinta.co](mailto:sicss-orgs@rajapinta.co).
