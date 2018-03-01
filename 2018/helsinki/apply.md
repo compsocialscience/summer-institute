@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Apply
+partner_site: helsinki
 ---
 
 # Eligibility
