@@ -129,3 +129,4 @@ Example steps for creating a new partner location for 2018 at Northwestern Unive
     ```
 5. If the home page for the partner location needs a "Pre-arrival" section, add `pre_arrival: _pre_arrival.md` to the `2018/northwestern/index.md` front matter and create `2018/northwestern/_pre_arrival.md` file with the Markdown desired for that section.
 5. If the home page for the partner location needs a "Live Stream" section, add `live_stream: _live_stream.md` to the `2018/northwestern/index.md` front matter and create `2018/northwestern/_live_stream.md` file with the Markdown desired for that section.
+5. Additional images for the partner site may be added to the `2018/northwestern/` directory or an `images/` directory within that directory.
