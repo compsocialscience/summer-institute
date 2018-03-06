@@ -21,7 +21,7 @@ We will have both streamed and locally produced content for your participants.
 
 The course is free for participants; we are still figuring if we have the ability to support meals & lodging.
 Students may receive ECTS credits for successfully participating this course (including summer institute, project work and pre-arrival tasks).
-Students at University of Helsinki or Aalto University will directly receive credits, while students from other universities receive a certificate.
+Students at University of Helsinki will directly receive credits, while students from other universities receive a certificate.
 
 Application materials should be received by Friday, March 23, 2018.
 
