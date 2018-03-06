@@ -5,8 +5,6 @@ faculty_title: Local organizers
 speakers_title: Speakers
 ---
 
-**Helsinki site still under construction**
-
 The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science.
 The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
 
@@ -22,9 +20,10 @@ The Helsinki Satellite is organized with the support of [Summer Institute organi
 We will have both streamed and locally produced content for your participants.
 
 The course is free for participants; we are still figuring if we have the ability to support meals & lodging.
-Students may receive 10 ECTS credits for successfully participating this course (including summer institute, project work and pre-arrival tasks).
+Students may receive ECTS credits for successfully participating this course (including summer institute, project work and pre-arrival tasks).
 Students at University of Helsinki or Aalto University will directly receive credits, while students from other universities receive a certificate.
 
 Application materials should be received by Friday, March 23, 2018.
 
-Kindly sent all inquiries to [sicss-orgs@rajapinta.co](mailto:sicss-orgs@rajapinta.co).
+We have answered some questions in the [Frequently asked questions](./faq) page.
+If these are unclear, kindly send your inquiries to [sicss-orgs@rajapinta.co](mailto:sicss-orgs@rajapinta.co).
