@@ -25,7 +25,7 @@
     - name: 15:30-18:30 Group exercise (ethics & data collection)
 
 - date: 2018-06-20
-  name: Automated text analysis
+  name: Automated text analysis (Schedule and content tentative)
   events:
     - name: 9:00-10:30 Guest Speaker (VS)
     - name: 10:30-11:00 Guest Speaker (discussion)
@@ -36,10 +36,6 @@
     - name: 10:00-10:15 Break
     - name: 10:15-11:00 Topic models and Beyond
     - name: 11:00-12:00 Ngram Networks
-    - name: 12:00-1:00 Lunch
-    - name: 1:00-4:00 Group Exercise (No livestream)
-
-    - name: Dinner & Discussion
 
 - date: 2018-06-21
   name: Surveys
@@ -83,7 +79,7 @@
     - name: 18:45 - 19:15 3 Rs (LS)
 
 - date: 2018-06-24
-  name: Day off
+  name: Alternative midsummer festival party
 
 - date: 2018-06-25
   name: Work on projects
