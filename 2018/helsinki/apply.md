@@ -17,7 +17,7 @@ To apply please visit: [https://goo.gl/forms/WO71z6V8aGJ54jMF3](https://goo.gl/f
 On this form, we ask that you provide some basic information about yourself and your academic backgorund. To be considered, all applicants must submit the following documents via the link above
 
 1. a curriculum vitae
-1. a statement (maximum three pages) describing both any current research and your interest in computational social science)
+1. a statement or motivational letter (maximum three pages) describing both any current research and your interest in computational social science; check examples how to write [a motivational letter](http://studentblogs.le.ac.uk/mathematics/2015/11/22/tips-how-to-write-a-good-motivation-letter/) (there are several pages with this type of content, so pick any actually)
 1. one writing sample (no more than 35 pages)
 
 Application materials should be received by Friday, March 23, 2018.
