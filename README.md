@@ -130,3 +130,23 @@ Example steps for creating a new partner location for 2018 at Northwestern Unive
 5. If the home page for the partner location needs a "Pre-arrival" section, add `pre_arrival: _pre_arrival.md` to the `2018/northwestern/index.md` front matter and create `2018/northwestern/_pre_arrival.md` file with the Markdown desired for that section.
 5. If the home page for the partner location needs a "Live Stream" section, add `live_stream: _live_stream.md` to the `2018/northwestern/index.md` front matter and create `2018/northwestern/_live_stream.md` file with the Markdown desired for that section.
 5. Additional images for the partner site may be added to the `2018/northwestern/` directory or an `images/` directory within that directory.
+
+# Partner location contributors
+
+Partner location contributors can be given access to particular portions of the git repository in order to make changes only to their partner site.
+
+## Requesting access
+
+In order to grant access, we'll need the GitHub usernames of the contributors and the directory name that will be used for the partner site (e.g., `/helsinki` or `/chicago`).
+
+## Submitting changes
+
+In order to make changes to your partner site and have them reflected on the main site, you'll need to get your changes into the `master` branch. You can do this on your own, once you've been granted access (see above).
+
+1. Create a new git branch.
+2. Make changes to only the directories you're allowed access to (e.g., `2018/chicago` and `_data/2018/chicago`).
+3. Commit your changes to git.
+4. Push your changes _to this repository_.
+5. Create a pull request to merge your branch into the `master` branch.
+6. If all the tests pass, you will be able to merge your changes into `master` via the button the pull request. If the tests fail, inspect the errors from the tests and make corrections by pushing fixes to your branch.
+7. Within a few minutes of merging into master, your changes should be deployed to the live site. You may need to clear your browser cache.
