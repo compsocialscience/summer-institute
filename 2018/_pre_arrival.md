@@ -26,18 +26,18 @@ Our institute will bring together people from many fields, and therefore we thin
 Also, for students with little or no exposure to sociology, economics, or political science, we have assembled a collection of exemplary papers in the core areas addressed by the Russell Sage Foundation. Neither your work nor the work we develop together at the institute need map neatly onto these categories, but if those with less exposure to social science read these, we will increase the chances of interdisciplinary cross-pollination, which we view as critical to the future of computational social science.
 
 ### Future of Work
-  - Granovetter, Mark S. 1973. “[The Strength of Weak Ties](https://www.jstor.org/stable/2776392)” _American Journal of Sociology_.
-  - Kalleberg, Arne L. 2009. “[Precarious Work, Insecure Workers - Employment Relations in Transition](https://www.jstor.org/stable/27736045)” _American Sociological Review_.
+  - Granovetter, Mark S. 1973. “[The Strength of Weak Ties](https://www.jstor.org/stable/2776392).” _American Journal of Sociology_.
+  - Kalleberg, Arne L. 2009. “[Precarious Work, Insecure Workers - Employment Relations in Transition](https://www.jstor.org/stable/27736045).” _American Sociological Review_.
 
 ### Behavioral Economics
-  - Thaler, Richard H. 2016. “[Behavioral Economics - Past, Present, and Future](http://dx.doi.org/10.1257/aer.106.7.1577)” _American Economic Review_.
-  - Prelec, Drazen and George Loewenstein. 1998. “[The Red and the Black - The Mental Accounting of Savings and Debt](https://www.jstor.org/stable/193194)” _Marketing Science_.
+  - Thaler, Richard H. 2016. “[Behavioral Economics - Past, Present, and Future](http://dx.doi.org/10.1257/aer.106.7.1577).” _American Economic Review_.
+  - Prelec, Drazen and George Loewenstein. 1998. “[The Red and the Black - The Mental Accounting of Savings and Debt](https://www.jstor.org/stable/193194).” _Marketing Science_.
 
 ### Race, Ethnicity, and Immigration
-  - Waters, Mary. 1994 “[Ethnic and racial identities of second-generation black immigrants in New York City](https://www.jstor.org/stable/2547158)” _International Migration Review_.
-  - Sniderman, Paul et. al. 2004. “[Predisposing Factors and Situational Triggers - Exclusionary Reactions to Immigrant Minorities](https://www.jstor.org/stable/4145295)" _American Political Science Review_.
+  - Waters, Mary. 1994 “[Ethnic and racial identities of second-generation black immigrants in New York City](https://www.jstor.org/stable/2547158).” _International Migration Review_.
+  - Sniderman, Paul et. al. 2004. “[Predisposing Factors and Situational Triggers - Exclusionary Reactions to Immigrant Minorities](https://www.jstor.org/stable/4145295)." _American Political Science Review_.
   - Bertrand, Marrianne and Sendhil Mullainathan. 2004. “[Are Emily and Greg More Employable than Lakisha and Jamal? A Field Experiment on Labour Market Discrimination](https://www.jstor.org/stable/3592802).” _American Economic Review_.
 
 ### Social Inequality
-  - Chetty, Raj, Nathaniel Hendren, Patrick Kline, and Emmanuel Saez. 2014. “[Where is the Land of Opportunity? The Geography of Intergenerational Mobility in the United States](https://doi.org/10.1093/qje/qju022)” _Quarterly Journal of Economics_.
-  - Laureau, Annette. 2002. “[Invisible Inequality - Social Class and Childrearing in White and Black Families](https://www.jstor.org/stable/3088916)” _American Sociological Review_.
+  - Chetty, Raj, Nathaniel Hendren, Patrick Kline, and Emmanuel Saez. 2014. “[Where is the Land of Opportunity? The Geography of Intergenerational Mobility in the United States](https://doi.org/10.1093/qje/qju022).” _Quarterly Journal of Economics_.
+  - Laureau, Annette. 2002. “[Invisible Inequality - Social Class and Childrearing in White and Black Families](https://www.jstor.org/stable/3088916).” _American Sociological Review_.
