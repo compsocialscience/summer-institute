@@ -31,6 +31,11 @@
     - name: "4:00-5:30 Guest Speaker"
 
 - date: 2018-08-15
+  name: "Network Analysis"
+  events:
+    - name: TBD
+
+- date: 2018-08-16
   name: "Automated Text Analysis"
   events:
     - name: "9:00-9:15 History of quantitative text analysis"
@@ -43,11 +48,6 @@
     - name: "12:00-1:00 Lunch"
     - name: "1:00-4:00 Group Exercise"
     - name: "4:00-5:30 Guest Speaker"
-
-- date: 2018-08-16
-  name: "Network Analysis"
-  events:
-    - name: TBD
 
 - date: 2018-08-17
   name: "Experiments / Causal Inference"
