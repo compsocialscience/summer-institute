@@ -1,0 +1,71 @@
+- date: 2018-06-17
+  events:
+    - name: Welcome Reception and Research Speed Dating
+
+- date: 2018-06-18
+  name: Introduction and Ethics
+  events:
+    - name: "8:30-9:00 Breakfast"
+    - name: "9:00-10:00 Ethics: Principles-based approach **(Livestream)**"
+    - name: "10:00-11:00 Four areas of difficulty **(Livestream)**"
+    - name: "11:00-3:00 Lunch and Group Exercise"
+    - name: "3:00-4:30 Guest Speaker"
+
+- date: 2018-06-19
+  name: "Collecting Digital Trace Data"
+  events:
+    - name: "8:30-9:00 Breakfast"
+    - name: "9:00-9:15 What is digital trace data?"
+    - name: "9:15-10:00 Application Programming Interfaces **(Livestream)**"
+    - name: "10:00-11:00 Apps for Social Science Research **(Livestream)**"
+    - name: "11:00-11:30 Screen-Scraping"
+    - name: "11:30-3:00 Lunch and Group Exercise"
+    - name: "3:00-4:30 Guest Speaker"
+    - name: "4:30-5:30 Group Excercise Continued"
+
+- date: 2018-06-20
+  name: Automated text analysis
+  events:
+    - name: "8:00-4:30 Parallel with Main Site **(Livestream)**"
+
+- date: 2018-06-21
+  name: Surveys
+  events:
+    - name: "8:00-4:30 Parallel with Main Site **(Livestream)**"
+
+- date: 2018-06-22
+  name: Computational Models and Experiments
+  events:
+    - name: "8:30-9:00 Breakfast"
+    - name: "9:00-9:15 Why Experiments?"
+    - name: "9:15-10:00 Four strategies for Experiments **(2017 SICSS Stream)**"
+    - name: "10:00-10:15 Coffee break"
+    - name: "10:15-10:30 Web experiments using free and open source platforms"
+    - name: "10:30-11:00 Generating theories with formal models"
+    - name: "11:00-11:15 Simulations for computational modeling"
+    - name: "11:15-11:30 Introduction to the Fragile Families Challenge"
+    - name: "11:30-4:30 Group Projects Planning Session"
+
+- date: 2018-06-23
+  name: "Work on projects (On-site optional)"
+
+- date: 2018-06-24
+  name: Day off
+
+- date: 2018-06-25
+  name: Work on projects (On-site optional)
+
+- date: 2018-06-26
+  name: Work on group projects (On-site optional)
+
+- date: 2018-06-27
+  name: Work on group projects (On-site optional)
+
+- date: 2018-06-28
+  name: Work on group projects (On-site optional)
+
+- date: 2018-06-29
+  name: Present Projects
+  events:
+    - name: "8:30-9:00 Breakfast"
+    - name: "9:00-5:30 Mini-conference and closing reception"
