@@ -1,0 +1,17 @@
+Local faculty
+- name: Viss??ho Adjiwanou
+  image: 
+  bio: "Viss??ho Adjiwanou is a Senior Lecturer in Demography and Quantitative Methods at the University of Cape Town (South Africa), and adjunct professor at the Department of Demography at the Universit?? de Montr??al (Canada). His research interests include maternal and reproductive health, family dynamics, and female employment in sub-Saharan Africa. Viss??ho is the chair of the Panel on Computational Social Science at the Union for African Population Studies."
+  website: https://www.researchgate.net/profile/Visseho_Adjiwanou 
+
+
+International faculty
+- name: Matthew Salganik
+  image: /assets/images/matt.gif
+  bio: "Matthew Salganik is Professor of Sociology at Princeton University, and he is affiliated with several of Princeton's interdisciplinary research centers: the Office for Population Research, the Center for Information Technology Policy, the Center for Health and Wellbeing, and the Center for Statistics and Machine Learning. His research interests include social networks and computational social science. He is the author of the forthcoming book *Bit by Bit: Social Research in the Digital Age.*"
+  website: https://www.princeton.edu/~mjs3/
+
+- name: Chris Bail
+  image: /assets/images/chrisnew.jpg
+  bio: "Chris Bail is the Douglas and Ellen Lowey Associate Professor of Sociology and Public Policy at Duke University and a member of the Interdisciplinary Program on Data Science, the Duke Network Analysis Center, and the Duke Population Research Institute. His research examines how non-profit organiations and other political actors shape social media discourse using large text-based datasets and apps for social science research. He is the author of *Terrified: How Anti-Muslim Fringe Organizations Became Mainstream*." 
+  website: http://www.chrisbail.net/

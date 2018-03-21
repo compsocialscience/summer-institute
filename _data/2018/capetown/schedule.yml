@@ -1,0 +1,138 @@
+#- date: 2018-06-17
+#  events:
+#    - name: Opening Dinner
+
+- date: 2018-06-18
+  name: "Introduction and Ethics"
+  events:
+    - name: "9:00-9:15 Logistics (No livestream)"
+    - name: "9:15-10:45 Introduction to Computational social science (CSS)"
+    - name: "10:45-11:00 Coffee Break"
+    - name: "11:00-12:00 Sustainable Development Goals and CSS"
+    - name: "12:00-1:00 Lunch"
+    - name: "1:00-3:00 Guest Speaker and discussion"
+
+    - name: "3:00-3:15 Logistics (No livestream)"
+    - name: "3:15-3:30 Introduction to computational social science (livestream from Duke)" 
+    - name: "3:30-3:45 Why SICSS? (livestream from Duke)"
+    - name: "3:45-4:00 Introductions (livestream from Duke)"
+    - name: "4:00-4:45 Ethics: Principles-based approach (livestream from Duke)"
+    - name: "4:45-5:00 Coffee Break"
+    - name: "5:00-6:00 Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty (livestream from Duke)"
+
+
+- date: 2018-06-19
+  name: "Collecting Digital Trace Data"
+  events:
+    - name: "9:00-9:15 Logistics (No livestream)"
+    - name: "9:15-10:45 Group Exercise on Ethics"
+    - name: "10:45-11:00 Coffee Break"
+    - name: "11:00-12:00 "
+    - name: "12:00-1:00 Lunch"
+    - name: "1:00-3:00 Guest Speaker and discussion (Video from Duke)"
+
+    - name: "3:00-3:15 What is digital trace data? (livestream from Duke)"
+    - name: "3:15-3:30 Strengths and weakness of digital trace data (livestream from Duke)"
+    - name: "3:30-4:00 Screen-Scraping (livestream from Duke)"
+    - name: "4:00-4:15 Break"
+    - name: "4:15-5:00 Application Programming Interfaces (livestream from Duke)"
+    - name: "5:00-6:00 Apps for Social Science Research (livestream from Duke)"
+
+
+- date: 2018-06-20
+  name: "Automated Text Analysis"
+  events:
+    - name: "9:00-9:15 Logistics (No livestream)"
+    - name: "9:15-10:45 Group Exercise on Digital Trace Data"
+    - name: "10:45-11:00 Coffee Break"
+    - name:  11:00-12:00 
+    - name: "12:00-1:00 Lunch"
+    - name: "1:00-3:00 Guest Speaker and discussion (Video from Duke)"
+
+    - name: "3:00-3:15 History of quantitative text analysis (livestream from Duke)"
+    - name: "3:15-3:30 Strengths and weakenesses of quantitative text analysis (livestream from Duke)"
+    - name: "3:30-3:45 Basic Text Analysis/GREP (livestream from Duke)"
+    - name: "3:45-4:00 Dictionary-Based Text Analysis (livestream from Duke)"
+    - name: "4:00-4:15 Break"
+    - name: "4:15-4:00 Topic models and Beyond (livestream from Duke)"
+    - name: "4:00-5:00 Ngram Networks (livestream from Duke)"
+
+
+- date: 2018-06-21
+  name: Surveys
+  events:
+    - name: "9:00-9:15 Logistics (No livestream)"
+    - name: "9:15-10:45 Group Exercise on Text Analysis"
+    - name: "10:45-11:00 Coffee Break"
+    - name:  "11:00-12:00 "
+    - name: "12:00-1:00 Lunch"
+    - name: "1:00-3:00 Guest Speaker and discussion (Video from Duke)"
+
+    - name: "3:00-3:30 Survey research in the digital age (livestream from Duke)"
+    - name: "3:30-4:00 Probability and non-probability sampling (livestream from Duke)"
+    - name: "4:00-4:15 Coffee break"
+    - name: "4:45-6:00 Combining surveys and big data (livestream from Duke)"
+
+
+- date: 2018-06-22
+  name: Mass Collaboration
+  events:
+    - name: "9:00-9:15 Logistics (No livestream)"
+    - name: "9:15-10:45 Group Exercise on Surveys"
+    - name: "10:45-11:00 Coffee Break"
+    - name:  "11:00-12:00 "
+    - name: "12:00-1:00 Lunch"
+    - name: "1:00-3:00 Guest Speaker and discussion (Video from Duke)"
+
+    - name: 3:00-3:10 Welcome and schedule (livestream from Duke)
+    - name: 3:10-3:30 Mass collaboration (livestream from Duke)
+    - name: 3:30-3:40 Human computation (livestream from Duke)
+    - name: 3:40-3:50 Open call (livestream from Duke)
+    - name: 3:50-4:00 Distributed data collection (livestream from Duke)
+    - name: 4:00-4:15 Design advice (livestream from Duke)
+    - name: 4:15-4:30 Coffee break
+    - name: 4:30-6:00 Fragile Families Challenge (livestream from Duke)
+    
+
+- date: 2018-06-23
+  name: Experiments
+  events:
+    - name: "9:00-9:15 Logistics (No livestream)"
+    - name: "9:15-10:45 Group Exercise on Mass Collaboration"
+    - name: "10:45-11:00 Coffee Break"
+    - name:  "11:00-12:00 "
+    - name: "12:00-1:00 Lunch"
+    - name: "1:00-3:00 Guest Speaker and discussion (Video from Duke)"
+
+    - name: 3:00 - 3:15 Welcome and schedule (livestream from Duke)
+    - name: 3:15 - 3:45 What, why, and which experiments? (livestream from Duke)
+    - name: 3:45 - 4:15 Moving beyond simple experiments (livestream from Duke)
+    - name: 4:15 - 4:30 Coffee break 
+    - name: 4:30 - 5:15 Four strategies for experiments (livestream from Duke)
+    - name: 5:15 - 5:45 Zero variable cost data and musiclab (livestream from Duke)
+    - name: 5:45 - 6:15 3 Rs (livestream from Duke)
+    
+    
+- date: 2018-06-24
+  name: Day off
+
+- date: 2018-06-25
+  name: Work on projects
+
+- date: 2018-06-26
+  name: Work on projects
+
+- date: 2018-06-27
+  name: Work on projects
+
+- date: 2018-06-28
+  name: Work on projects
+
+- date: 2018-06-29
+  name: Present final projects
+  events:
+    - name: Closing dinner
+
+- date: 2018-06-30
+  events:
+    - name: Students depart
