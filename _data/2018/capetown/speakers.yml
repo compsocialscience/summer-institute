@@ -1,0 +1,49 @@
+
+
+- name: Matthew Salganik
+  image: /assets/images/matt.gif
+  bio: "Matthew Salganik is Professor of Sociology at Princeton University, and he is affiliated with several of Princeton's interdisciplinary research centers: the Office for Population Research, the Center for Information Technology Policy, the Center for Health and Wellbeing, and the Center for Statistics and Machine Learning. His research interests include social networks and computational social science. He is the author of the forthcoming book *Bit by Bit: Social Research in the Digital Age.*"
+  website: https://www.princeton.edu/~mjs3/
+
+- name: Chris Bail
+  image: /assets/images/chrisnew.jpg
+  bio: "Chris Bail is the Douglas and Ellen Lowey Associate Professor of Sociology and Public Policy at Duke University and a member of the Interdisciplinary Program on Data Science, the Duke Network Analysis Center, and the Duke Population Research Institute. His research examines how non-profit organiations and other political actors shape social media discourse using large text-based datasets and apps for social science research. He is the author of *Terrified: How Anti-Muslim Fringe Organizations Became Mainstream*." 
+  website: http://www.chrisbail.net/
+  
+- name: Deen Freelon
+  image: /assets/images/deen2.jpg
+  bio: Deen Freelon is an Associate Professor in the School of Media and Journalism at the University of North Carolina at Chapel Hill, and directs the Computational Communication Research Lab.
+  website: http://dfreelon.org/
+
+- name: David Lazer
+  image: /assets/images/lazer3.jpg
+  bio: David Lazer is Professor of Political Science and Computer and Information Science, Northeastern University & Harvard University.
+  website: http://www.davidlazer.com/
+  
+- name: Kristian Lum
+  image: /assets/images/kristian.jpg
+  bio: Kristian Lum is the Lead Statistician at the Human Rights Data Analysis Group (HRDAG), where she leads the HRDAG project on criminal justice in the United States. 
+  website: https://hrdag.org/people/kristian-lum-phd/
+  
+- name: Sendhil Mullainathan
+  image: /assets/images/sendhil.jpg
+  bio: Sendhil Mullainathan is the Robert C. Waggoner Professor of Economics at Harvard University and the co-founder of the Abdul Latif Jameel Poverty Action Lab.
+  website: https://scholar.harvard.edu/sendhil/home
+  
+- name: Cynthia Rudin
+  image: /assets/images/cynthia.jpg
+  bio: Cynthia Rudin is an Associate Professor of computer science, electrical and computer engineering, and statistics at Duke University, and directs the Prediction Analysis Lab.
+  website: https://users.cs.duke.edu/~cynthia/
+  
+- name: Duncan Watts
+  image: /assets/images/duncan.jpg
+  bio: Duncan Watts is a Principal Researcher at Microsoft Research and a founding member of the MSR-NYC lab. He is also an AD White Professor at Large at Cornell University.
+  website: https://www.microsoft.com/en-us/research/people/duncan/
+  
+
+- name: 
+  image: 
+  bio: 
+  website: 
+
+
