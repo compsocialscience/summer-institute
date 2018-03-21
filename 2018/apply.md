@@ -17,5 +17,5 @@ On this form, we ask that you provide some basic information about yourself and 
 
 Letter writers may submit their evaluations of candidates here: [https://goo.gl/forms/Kc87ZTkDaAsiDHdG3](https://goo.gl/forms/Kc87ZTkDaAsiDHdG3)
 
-We anticipate a large pool of highly qualified applicants and to make final decisions quickly, so applications and letters must be received by the deadline. **Complete applications, including letters of recommendation, must be received by Monday, February 19**.  We will notify applicants solely through e-mail, by Wednesday, March 14 and will ask participants to confirm their participation very soon thereafter. Inquiries can be sent to rsfcompsocsci@gmail.com.
+We anticipate a large pool of highly qualified applicants and to make final decisions quickly, so applications and letters must be received by the deadline. **Complete applications, including letters of recommendation, must be received by Monday, February 19**.  We will notify applicants solely through e-mail ~~by Wednesday, March 14~~ in mid-March, and will ask participants to confirm their participation very soon thereafter. Inquiries can be sent to rsfcompsocsci@gmail.com.
 
