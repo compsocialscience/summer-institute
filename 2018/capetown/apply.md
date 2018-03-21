@@ -1,5 +1,6 @@
 ---
 layout: default
+partner_site: capetown
 title: Apply
 ---
 

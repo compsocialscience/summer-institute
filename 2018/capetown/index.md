@@ -1,5 +1,6 @@
 ---
 layout: year_home
+partner_site: capetown
 pre_arrival: _pre_arrival.md
 live_stream: _live_stream.md
 ---
