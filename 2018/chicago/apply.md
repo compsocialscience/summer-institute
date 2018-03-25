@@ -6,7 +6,7 @@ partner_site: chicago
 
 # Eligibility
 
-Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D.  Applicants are invited from around the Chicago area.  Due to space restrictions, we can only invite up to 20 participants.
+Participation is restricted to graduate students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D.  Applicants are invited from around the Chicago area.  Due to space restrictions, we can only invite up to 20 participants.
 
 Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R or Python programming language.  Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours during the two months before the Institute.
 
