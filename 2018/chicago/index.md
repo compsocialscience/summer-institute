@@ -13,4 +13,6 @@ One of the main goals of SICSS is to bring together scholars from a range of com
 
 Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. Due to limited space, up to twenty participants will be invited. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R or Python programming language. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours before the Institute.  To facilitate the planning process, **you must submit your [application materials](apply) by April 14th, 2018**.
 
+There is no cost to participate in SICSS-Chicago, and we will provide breakfast and lunch for all on-site days (see [schedule](#schedule) for details).  Participants from any geographic location are encouraged to apply, and those traveling from outside the Chicago area must provide their own travel and lodging.
+
 ![My helpful screenshot](http://www.reliablecounter.com/count.php?page=76362508&digit=style/plain/10/&reloads=0){:width="0px" height="0px"}
