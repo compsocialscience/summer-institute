@@ -21,6 +21,6 @@ To facilitate the planning process, we ask that you provide some basic informati
 1. one writing sample (no more than 35 pages, not required to be published)
 1. current students are encouraged to provide a letter of recommendation from their advisor (send to sicss.chicago@gmail.com)
 
-**Application materials must be received by Saturday, April 14, 2018.**  We will notify applicants solely through e-mail by the end of April, and will ask participants to confirm their participation very soon thereafter. 
+**Application materials must be received by Saturday, April 21st, 2018.**  We will notify applicants solely through e-mail by the end of April, and will ask participants to confirm their participation very soon thereafter. 
 
 Kindly send all inquiries to [sicss.chicago@gmail.com](mailto:sicss.chicago@gmail.com).
