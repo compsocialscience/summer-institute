@@ -23,7 +23,7 @@ The course is free for participants; we are still figuring if we have the abilit
 Students may receive ECTS credits for successfully participating this course (including summer institute, project work and pre-arrival tasks).
 Students at University of Helsinki will directly receive credits, while students from other universities receive a certificate.
 
-Application materials should be received by ~~Friday, March 23th, 2018~~ Tuesday, April 3rd, 2018
+Application materials should be received by Tuesday, April 3rd, 2018
 
 We have answered some questions in the [Frequently asked questions](./faq) page.
 If these are unclear, kindly send your inquiries to [sicss-orgs@rajapinta.co](mailto:sicss-orgs@rajapinta.co).
