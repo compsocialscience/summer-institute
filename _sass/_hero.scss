@@ -1,3 +1,49 @@
+$option-blue: #264192;
+$option-red: #8B2223;
+$option-green: #477E5D;
+$option-orange: #926024;
+$option-purple: #540690;
+
+@mixin option-colorizer($color) {
+  .hero-location {
+    text-transform: uppercase;
+    font-size: 54px;
+    font-weight: 900;
+    line-height: 1;
+    letter-spacing: -1px;
+    color: $color;
+    padding-bottom: 18px;
+  }
+  .hero-overlay {
+    background: rgba(255, 255, 255, 0.3);
+    color: darken($color, 10%);
+    padding: 1em 0;
+  }
+  .hero-title {
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 900;
+    margin: 0 0 8px 0;
+    color: $color;
+  }
+}
+//------------------------ Masthead
+.option-blue {
+  @include option-colorizer($option-blue);
+}
+.option-red {
+  @include option-colorizer($option-red);
+}
+.option-green {
+  @include option-colorizer($option-green);
+}
+.option-orange {
+  @include option-colorizer($option-orange);
+}
+.option-purple {
+  @include option-colorizer($option-purple);
+}
+
 .hero-content-wrapper {
   display: flex;
   flex-direction: column;
@@ -8,26 +54,6 @@
 }
 .hero-logo {
   width: 100px;
-}
-.hero-location {
-  text-transform: uppercase;
-  font-size: 54px;
-  font-weight: 900;
-  line-height: 1;
-  letter-spacing: -1px;
-  color: #264192;
-  padding-bottom: 18px;
-}
-.hero-overlay {
-  background: rgba(255, 255, 255, 0.3);
-  color: #172758;
-  padding: 1em 0;
-}
-.hero-title {
-  font-size: 18px;
-  text-transform: uppercase;
-  font-weight: 900;
-  margin: 0 0 8px 0;
 }
 .hero-dates {
   margin: 0;
