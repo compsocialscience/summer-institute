@@ -5,7 +5,9 @@ image:
 large_image:
   alt: "Summer Institute in Computational Social Science - Cape Town"
   url: "/assets/images/sicss-large.png"
-  title: "Summer Institute in Computational Social Science - Cape Town"  
-header_1: "Summer Institute in Computational Social Science - Cape Town"
+  title: "Summer Institute in Computational Social Science - Cape Town"
+header_1: "Summer Institute in Computational Social Science"
 header_2: "June 18, 2018 - June 29, 2018 | University of Cape Town"
 header_3: "Satellite for SICSS  organised at Duke University"
+location: "University Cape Town"
+style: "option-orange"

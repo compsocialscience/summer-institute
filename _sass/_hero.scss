@@ -11,7 +11,7 @@ $option-purple: #540690;
     font-weight: 900;
     line-height: 1;
     letter-spacing: -1px;
-    color: $color;
+    color: darken($color, 10%);
   }
   .hero-location-subtitle {
     font-size: 14px;
@@ -23,6 +23,7 @@ $option-purple: #540690;
     background: rgba(255, 255, 255, 0.65);
     color: darken($color, 10%);
     padding: 1em 0;
+    margin: 8px 0 0 0;
   }
   .hero-title {
     font-size: 18px;

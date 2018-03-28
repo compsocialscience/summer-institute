@@ -1,5 +1,5 @@
 {% if data.hero %}
-  <div class="hero {{ data.hero.style }}" style="background-image: url('{{ data.hero.image.url | prepend: site.baseurl }}'); background-size: cover;">
+  <div class="hero {{ data.hero.style }}" style="background-image: url('{{ site.baseurl }}/assets/images/hero-bg-{{ data.hero.style }}.jpg'); background-size: cover;">
     <div class="container">
       <div class="row">
         <div class="col-xs-12">
@@ -8,7 +8,9 @@
               <img src="{{ data.hero.large_image.url | prepend: site.baseurl }}" class="hero-logo" title="{{ data.hero.large_image.title }}" alt="{{ data.hero.large_image.alt }}">
             </div>
             <div class="hero-location">{{ data.hero.location }}</div>
-            <div class="hero-location-subtitle">A partnership site for SICSS at Duke</div>
+            {% unless data.hero.main %}
+              <div class="hero-location-subtitle">A partnership site for SICSS at Duke</div>
+            {% endunless %}
           </div><!-- /hero-content-wrapper -->
         </div><!-- /col-xs-12 -->
       </div><!-- /row -->
@@ -19,7 +21,9 @@
           <div class="col-xs-12">
             <h1 class="hero-title">{{ data.hero.header_1 }}</h1>
             <h2 class="hero-dates">{{ data.hero.header_2 }}</h2>
-            <h3 class="partnership-title">{{ data.hero.header_3 }}</h3>
+            {% if data.hero.header_3 %}
+              <h3 class="partnership-title">{{ data.hero.header_3 }}</h3>
+            {% endif %}
           </div><!-- /col-xs-12 -->
         </div><!-- /row -->
       </div><!-- /container -->
