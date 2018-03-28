@@ -12,10 +12,15 @@ $option-purple: #540690;
     line-height: 1;
     letter-spacing: -1px;
     color: $color;
+  }
+  .hero-location-subtitle {
+    font-size: 14px;
+    font-weight: 900;
     padding-bottom: 18px;
+    color: $color;
   }
   .hero-overlay {
-    background: rgba(255, 255, 255, 0.3);
+    background: rgba(255, 255, 255, 0.65);
     color: darken($color, 10%);
     padding: 1em 0;
   }
@@ -25,6 +30,12 @@ $option-purple: #540690;
     font-weight: 900;
     margin: 0 0 8px 0;
     color: $color;
+  }
+  .partnership-title {
+    font-size: 14px;
+    text-transform: uppercase;
+    color: darken($color, 10%);
+    margin: 8px 0 0 0;
   }
 }
 //------------------------ Masthead
@@ -57,10 +68,4 @@ $option-purple: #540690;
 }
 .hero-dates {
   margin: 0;
-}
-.partnership-title {
-  font-size: 16px;
-  text-transform: uppercase;
-  text-align: right;
-  color: white;
 }

@@ -8,6 +8,7 @@
               <img src="{{ data.hero.large_image.url | prepend: site.baseurl }}" class="hero-logo" title="{{ data.hero.large_image.title }}" alt="{{ data.hero.large_image.alt }}">
             </div>
             <div class="hero-location">{{ data.hero.location }}</div>
+            <div class="hero-location-subtitle">A partnership site for SICSS at Duke</div>
           </div><!-- /hero-content-wrapper -->
         </div><!-- /col-xs-12 -->
       </div><!-- /row -->
@@ -18,16 +19,10 @@
           <div class="col-xs-12">
             <h1 class="hero-title">{{ data.hero.header_1 }}</h1>
             <h2 class="hero-dates">{{ data.hero.header_2 }}</h2>
+            <h3 class="partnership-title">{{ data.hero.header_3 }}</h3>
           </div><!-- /col-xs-12 -->
         </div><!-- /row -->
       </div><!-- /container -->
     </div><!-- /hero-overlay -->
-    <div class="container">
-      <div class="row">
-        <div class="col-xs-12">
-          <h3 class="partnership-title">{{ data.hero.header_3 }}</h3>
-        </div><!-- /col-xs-12 -->
-      </div><!-- /row -->
-    </div><!-- /container -->
   </div><!-- /hero -->
 {% endif %}
