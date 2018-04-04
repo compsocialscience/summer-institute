@@ -1,23 +1,26 @@
 $option-blue: #264192;
-$option-red: #8B2223;
-$option-green: #477E5D;
-$option-orange: #926024;
+$option-red: #8b2223;
+$option-green: #477e5d;
+$option-orange: #ea8b18;
 $option-purple: #540690;
 
 @mixin option-colorizer($color) {
   .hero-location {
     text-transform: uppercase;
+    text-shadow: 0 1px 5px rgba(0, 0, 0, 0.2);
     font-size: 54px;
     font-weight: 900;
     line-height: 1;
     letter-spacing: -1px;
     color: darken($color, 10%);
+    color: #fff;
   }
   .hero-location-subtitle {
     font-size: 14px;
     font-weight: 900;
     padding-bottom: 18px;
     color: $color;
+    color: #fff;
   }
   .hero-overlay {
     background: rgba(255, 255, 255, 0.65);
@@ -27,16 +30,23 @@ $option-purple: #540690;
   }
   .hero-title {
     font-size: 18px;
-    text-transform: uppercase;
     font-weight: 900;
     margin: 0 0 8px 0;
     color: $color;
   }
   .partnership-title {
     font-size: 14px;
-    text-transform: uppercase;
     color: darken($color, 10%);
     margin: 8px 0 0 0;
+  }
+  &.hero {
+    background: radial-gradient(
+      at top left,
+      saturate(lighten($color, 10%), 10%) 0%,
+      $color 25%,
+      darken($color, 10%) 75%,
+      darken($color, 15%) 100%
+    );
   }
 }
 //------------------------ Masthead
@@ -69,4 +79,10 @@ $option-purple: #540690;
 }
 .hero-dates {
   margin: 0;
+}
+.main-location {
+  .hero-logo {
+    max-width: 100%;
+    width: 350px;
+  }
 }

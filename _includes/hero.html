@@ -1,15 +1,23 @@
 {% if data.hero %}
-  <div class="hero {{ data.hero.style }}" style="background-image: url('{{ site.baseurl }}/assets/images/hero-bg-{{ data.hero.style }}.jpg'); background-size: cover;">
+  <div class="hero {{ data.hero.style }}" >
     <div class="container">
       <div class="row">
         <div class="col-xs-12">
           <div class="hero-content-wrapper">
-            <div class="hero-logo-wrapper">
-              <img src="{{ data.hero.large_image.url | prepend: site.baseurl }}" class="hero-logo" title="{{ data.hero.large_image.title }}" alt="{{ data.hero.large_image.alt }}">
+            {% if data.hero.main %}
+            <div class="main-location">
+              <div class="hero-logo-wrapper">
+                <img src="{{ data.hero.large_image.url | prepend: site.baseurl }}" class="hero-logo" title="{{ data.hero.large_image.title }}" alt="{{ data.hero.large_image.alt }}">
+              </div>
             </div>
-            <div class="hero-location">{{ data.hero.location }}</div>
+            {% else %}
+              <div class="hero-logo-wrapper">
+                <img src="{{ data.hero.large_image.url | prepend: site.baseurl }}" class="hero-logo" title="{{ data.hero.large_image.title }}" alt="{{ data.hero.large_image.alt }}">
+              </div>
+              <div class="hero-location">{{ data.hero.location }}</div>
+            {% endif %}
             {% unless data.hero.main %}
-              <div class="hero-location-subtitle">A partnership site for SICSS at Duke</div>
+              <div class="hero-location-subtitle">Summer Institute in Computational Social Science Partner Site</div>
             {% endunless %}
           </div><!-- /hero-content-wrapper -->
         </div><!-- /col-xs-12 -->
