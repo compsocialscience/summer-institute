@@ -13,11 +13,11 @@ Participants with less experience with social science research will be expected 
 
 # How to Apply
 
-To apply click [here]https://goo.gl/forms/RkRgDhOcXc59h8U63
+To apply click [here](https://goo.gl/forms/RkRgDhOcXc59h8U63)
 
 
 On this form, we ask that you provide some basic information about yourself and your academic backgorund. To be considered, all applicants must submit the following documents via the link above (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science (especially as it relates to sub-Saharan Africa and RSF research priorities such as behavioral economics, social inequality, future of work, and immigration), (iii) one writing sample (no more than 35 pages). All applications must include an e-mail and an alternative means of contact (e.g., phone number). 
 
 
-Applications must be received by the deadline. **Complete applications, including letters of recommendation if any, must be received by Monday, April 23**.  We will notify applicants solely through e-mail, by Monday, April 30 and will ask participants to confirm their participation very soon thereafter. Inquiries can be sent to [cssforafrica@gmail.com]
+Applications must be received by the deadline. **Complete applications, including letters of recommendation if any, must be received by Monday, April 23**.  We will notify applicants solely through e-mail, by Monday, April 30 and will ask participants to confirm their participation very soon thereafter. Inquiries can be sent to [cssforafrica@gmail.com](mailto:cssforafrica@gmail.com)
 
