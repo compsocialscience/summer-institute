@@ -15,10 +15,8 @@
                 <img src="{{ data.hero.large_image.url | prepend: site.baseurl }}" class="hero-logo" title="{{ data.hero.large_image.title }}" alt="{{ data.hero.large_image.alt }}">
               </div>
               <div class="hero-location">{{ data.hero.location }}</div>
-            {% endif %}
-            {% unless data.hero.main %}
               <div class="hero-location-subtitle">Summer Institute in Computational Social Science Partner Site</div>
-            {% endunless %}
+            {% endif %}
           </div><!-- /hero-content-wrapper -->
         </div><!-- /col-xs-12 -->
       </div><!-- /row -->
@@ -27,7 +25,6 @@
       <div class="container">
         <div class="row">
           <div class="col-xs-12">
-            <h1 class="hero-title">{{ data.hero.header_1 }}</h1>
             <h2 class="hero-dates">{{ data.hero.header_2 }}</h2>
             {% if data.hero.header_3 %}
               <h3 class="partnership-title">{{ data.hero.header_3 }}</h3>
