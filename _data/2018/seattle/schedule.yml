@@ -29,7 +29,7 @@
   name: Automated text analysis
   events:
     - name: "8:30-9:00 Breakfast"
-    - name: "9:00-12:00 Parallel with Main Site **(streamed on delay)**"
+    - name: "9:00-12:00 Parallel with [Main Site](/summer-institute/2018/#schedule) **(streamed on delay)**"
     - name: "12:00-1:00 Lunch"
     - name: "1:00-2:30 Guest Speaker **(Livestream)**"
     - name: "2:30-5:00 Group Exercise"
@@ -39,7 +39,7 @@
   name: Surveys
   events:
     - name: "8:30-9:00 Breakfast"
-    - name: "9:00-11:30 Parallel with Main Site **(streamed on delay)**"
+    - name: "9:00-11:30 Parallel with [Main Site](/summer-institute/2018/#schedule) **(streamed on delay)**"
     - name: "11:30-12:00 Begin group exercise"
     - name: "12:00-1:00 Lunch"
     - name: "1:00-2:30 Guest Speaker **(Livestream)**"
