@@ -13,4 +13,4 @@ The instructional program will involve lectures (mostly livestreamed from Duke U
 
 Participation is restricted to Master and Ph.D. students, postdoctoral researchers, and faculty from universities in South Africa. Meals and registration fees are covered. Participants from outside South Africa are welcomed  only if they are able to cover their own costs (tickets and accommodation). About twenty participants will be invited. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R programming language. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours before the Institute.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2018/capetown/apply) should be received by Monday, April 23, 2018.
+[Application materials](https://compsocialscience.github.io/summer-institute/2018/capetown/apply) should be received by Monday, May 7, 2018.
