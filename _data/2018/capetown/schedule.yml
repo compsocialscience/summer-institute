@@ -27,7 +27,7 @@
     - name: "9:00-9:15 Logistics (No livestream)"
     - name: "9:15-10:45 Group Exercise on Ethics"
     - name: "10:45-11:00 Coffee Break"
-    - name: "11:00-12:00 "
+    - name: "11:00-12:00 Local presentation"
     - name: "12:00-1:00 Lunch"
     - name: "1:00-3:00 Guest Speaker and discussion (Video from Duke)"
 
@@ -45,7 +45,7 @@
     - name: "9:00-9:15 Logistics (No livestream)"
     - name: "9:15-10:45 Group Exercise on Digital Trace Data"
     - name: "10:45-11:00 Coffee Break"
-    - name:  11:00-12:00 
+    - name: "11:00-12:00 Local presentation"
     - name: "12:00-1:00 Lunch"
     - name: "1:00-3:00 Guest Speaker and discussion (Video from Duke)"
 
@@ -64,7 +64,7 @@
     - name: "9:00-9:15 Logistics (No livestream)"
     - name: "9:15-10:45 Group Exercise on Text Analysis"
     - name: "10:45-11:00 Coffee Break"
-    - name:  "11:00-12:00 "
+    - name:  "11:00-12:00 Local presentation"
     - name: "12:00-1:00 Lunch"
     - name: "1:00-3:00 Guest Speaker and discussion (Video from Duke)"
 
@@ -80,7 +80,7 @@
     - name: "9:00-9:15 Logistics (No livestream)"
     - name: "9:15-10:45 Group Exercise on Surveys"
     - name: "10:45-11:00 Coffee Break"
-    - name:  "11:00-12:00 "
+    - name:  "11:00-12:00 Local presentation"
     - name: "12:00-1:00 Lunch"
     - name: "1:00-3:00 Guest Speaker and discussion (Video from Duke)"
 
@@ -100,7 +100,7 @@
     - name: "9:00-9:15 Logistics (No livestream)"
     - name: "9:15-10:45 Group Exercise on Mass Collaboration"
     - name: "10:45-11:00 Coffee Break"
-    - name:  "11:00-12:00 "
+    - name:  "11:00-12:00 Local presentation"
     - name: "12:00-1:00 Lunch"
     - name: "1:00-3:00 Guest Speaker and discussion (Video from Duke)"
 
@@ -133,6 +133,6 @@
   events:
     - name: Closing dinner
 
-- date: 2018-06-30
-  events:
-    - name: Students depart
+#- date: 2018-06-30
+#  events:
+ #   - name: Students depart
