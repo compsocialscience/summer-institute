@@ -1,0 +1,57 @@
+- date: 2018-06-17
+  events:
+    - name: "Please note that this schedule is tentative, subject to revision as local speakers are confirmed."
+
+- date: 2018-06-18
+  name: Introduction and Ethics
+  events:
+    - name: "8:30-9:00 Breakfast and logistics"
+    - name: "9:00-10:00 Introduction to Computational Social Science, SICSS, and participants"
+    - name: "10:00-12:00 Ethics, principles, and areas of difficulty **(stream on delay)**"
+    - name: "12:00-1:00 Lunch"
+    - name: "1:00-2:30 Guest Speaker **(Livestream)**"
+    - name: "2:30-5:00 Group Exercise"
+
+- date: 2018-06-19
+  name: Collecting Digital Trace Data
+  events:
+    - name: "8:30-9:00 Breakfast"
+    - name: "9:00-9:30 Introduction to digital trace data"
+    - name: "9:30-10:00 Web-scraping"
+    - name: "10:00-10:15 Break"
+    - name: "10:15-11:00 Application Programming Interfaces"
+    - name: "11:00-12:00 Demographic data through APIs"
+    - name: "12:00-1:00 Lunch"
+    - name: "1:00-2:30 Guest Speaker **(Livestream)**"
+    - name: "2:30-5:00 Group Exercise"
+
+- date: 2018-06-20
+  name: Automated text analysis
+  events:
+    - name: "8:30-9:00 Breakfast"
+    - name: "9:00-12:00 Parallel with [Main Site](/summer-institute/2018/#schedule) **(streamed on delay)**"
+    - name: "12:00-1:00 Lunch"
+    - name: "1:00-2:30 Guest Speaker **(Livestream)**"
+    - name: "2:30-5:00 Group Exercise"
+
+
+- date: 2018-06-21
+  name: Surveys
+  events:
+    - name: "8:30-9:00 Breakfast"
+    - name: "9:00-11:30 Parallel with [Main Site](/summer-institute/2018/#schedule) **(streamed on delay)**"
+    - name: "11:30-12:00 Begin group exercise"
+    - name: "12:00-1:00 Lunch"
+    - name: "1:00-2:30 Guest Speaker **(Livestream)**"
+    - name: "2:30-5:00 Group Exercise"
+    - name: "Joint happy hour with Data Science for Social Good"
+
+- date: 2018-06-22
+  name: Mass Collaboration
+  events:
+    - name: "8:30-9:00 Breakfast"
+    - name: "9:00-10:30 Mass collaboration, human computation, and open calls **(streamed on delay)**"
+    - name: "10:30-12:00 Fragile Families Challenge"
+    - name: "12:00-1:00 Lunch"
+    - name: "1:00-2:00 Fragile Families Challenge"
+    - name: "2:00-5:00 Peer-led research presentations and tutorials"

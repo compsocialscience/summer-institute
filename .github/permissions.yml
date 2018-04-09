@@ -7,6 +7,12 @@ msalganik:
 matnel:
   - "_data/2018/helsinki/"
   - "2018/helsinki/"
+juhopaak:
+  - "_data/2018/helsinki/"
+  - "2018/helsinki/"
+UMTti:
+  - "_data/2018/helsinki/"
+  - "2018/helsinki/"
 joshua-a-becker:
   - "_data/2018/northwestern/"
   - "2018/northwestern/"
@@ -18,3 +24,6 @@ allisonmorgan:
 visseho:
   - "_data/2018/capetown/"
   - "2018/capetown/"
+ccgilroy:
+  - "_data/2018/seattle/"
+  - "2018/seattle/"
