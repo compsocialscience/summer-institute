@@ -20,6 +20,6 @@ On this form, we ask that you provide some basic information about yourself and 
 1. a statement or motivational letter (maximum three pages) describing both any current research and your interest in computational social science; check examples how to write [a motivational letter](http://studentblogs.le.ac.uk/mathematics/2015/11/22/tips-how-to-write-a-good-motivation-letter/) (there are several pages with this type of content, so pick any actually)
 1. one writing sample (no more than 35 pages)
 
-Application materials should be received by Monday, April 9th, 2018.
+Application materials should be received by Monday, April 16th, 2018.
 
 Kindly sent all inquiries to [sicss-orgs@rajapinta.co](mailto:sicss-orgs@rajapinta.co).
