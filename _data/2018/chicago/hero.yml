@@ -1,11 +1,4 @@
-image:
-  alt: "Summer Institute in Computational Social Science | Chicago"
-  url: "/assets/images/hero-bg.jpg"
-  title: "Summer Institute in Computational Social Science | Chicago"
-large_image:
-  alt: "Summer Institute in Computational Social Science | Chicago"
-  url: "/assets/images/sicss-large.png"
-  title: "Summer Institute in Computational Social Science | Chicago"  
-header_1: "Summer Institute in Computational Social Science | Chicago"
+location: "Chicago"
 header_2: "June 17, 2018 - June 30, 2018 | Northwestern University"
-header_3: "A PARTNER SITE FOR SICSS AT DUKE | SPONSORED BY THE RUSSELL SAGE FOUNDATION & THE SLOAN FOUNDATION"
+header_3: "Sponsored by The Russell Sage Foundation & The Alfred P. Sloan Foundation"
+style: "option-purple"

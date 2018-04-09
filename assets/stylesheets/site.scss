@@ -3,6 +3,7 @@
 $btn-default-color:              #555;
 $btn-default-bg:                 #e7e7e7;
 @import "bootstrap";
+@import "hero";
 $fixed-navbar-height: 50px;
 body {
   // Deal with fixed navbar height.
@@ -53,104 +54,6 @@ body {
     font-size: 16px;
   }
 }
-
-.hero {
-  position: relative;
-  margin: 0 auto;
-  max-width: 1200px;
-
-  .hero-logo {
-    position: absolute;
-    top: 33%;
-    left: 15px;
-    width: 40%;
-    display: none;
-    @media (min-width: 768px) {
-      display: inline;
-      left: 30px;
-    }
-    img {
-      width: 100%;
-      height: auto;
-    }
-  }
-  .hero-overlay {
-    position: absolute;
-    width: 100%;
-    color: #ffffff;
-    top: 40%;
-    background-color: rgba(255, 255, 255, 0.75);
-    @media (min-width: 768px) {
-      top: 61%;
-    }
-    h1 {
-      margin: 10px 0 0 0;
-      padding: 0;
-      color: #2b74ae;
-      text-transform: uppercase;
-      font-weight: normal;
-      margin-left: 15px;
-      font-size: 12px;
-      @media (min-width: 375px) {
-        font-size: 12px;
-      }
-      @media (min-width: 425px) {
-        font-size: 14px;
-      }
-      @media (min-width: 768px) {
-        margin-left: 30px;
-        font-size: 22px;
-      }
-      @media (min-width: 1024px) {
-        font-size: 24px;
-      }
-    }
-    h2 {
-      margin: 0 0 10px 0;
-      padding: 0;
-      color: #48a3d4;
-      text-transform: uppercase;
-      font-weight: normal;
-      margin-left: 15px;
-      font-size: 12px;
-      @media (min-width: 375px) {
-        font-size: 12px;
-      }
-      @media (min-width: 425px) {
-        font-size: 14px;
-      }
-      @media (min-width: 768px) {
-        margin-left: 30px;
-        font-size: 16px;
-      }
-      @media (min-width: 1024px) {
-        font-size: 18px;
-      }
-    }
-  }
-  h3 {
-    color: #999;
-    font-weight: normal;
-    text-transform: uppercase;
-    text-align: right;
-    position: absolute;
-    top: 86%;
-    right: 30px;
-    font-size: 12px;
-    @media (min-width: 425px) {
-      color: #fff;
-      font-size: 14px;
-      top: 63%;
-    }
-    @media (min-width: 768px) {
-      top: 78%;
-    }
-    @media (min-width: 1024px) {
-      top: 75%;
-    }
-  }
-}
-
 .introduction {
   line-height: 2em;
   font-size: 16px;
