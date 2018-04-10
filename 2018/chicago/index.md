@@ -15,4 +15,20 @@ Participation is restricted to graduate students, postdoctoral researchers, and 
 
 There is no cost to participate in SICSS-Chicago, and we will provide breakfast and lunch for all on-site days (see [schedule](#schedule) for details).  Participants from any geographic location are encouraged to apply, and those traveling from outside the Chicago area must provide their own travel and lodging.
 
+&nbsp;  
+
+&nbsp;  
+
+&nbsp;  
+
+**SICSS-Chicago is generously supported by the Alfred P. Sloan Foundation and the Russell Sage Foundation**, 
+and the following local sponsors:
+<center><div>
+<a href="https://wiki.communitydata.cc" target="_"><img src="https://wiki.communitydata.cc/upload/b/b1/CDSC_logo-text.svg" height="150px" style="padding:10px;"></a>
+
+<a href="http://sonic.northwestern.edu/" target="_"><img src="http://sonic.northwestern.edu/wp-content/uploads/2012/12/soniclogo1.png" height="150px" style="padding:40px;"></a>
+
+<a href="https://www.nico.northwestern.edu/" target="_"><img src="https://www.kellogg.northwestern.edu/~/media/Images/news-events/conference/ic2s2/logo-NICO.ashx" height="150px" style="padding:30px;"></a>
+</div></center>
+
 ![My helpful screenshot](http://www.reliablecounter.com/count.php?page=76362508&digit=style/plain/10/&reloads=0){:width="0px" height="0px"}
