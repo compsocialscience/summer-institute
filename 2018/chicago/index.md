@@ -22,8 +22,11 @@ There is no cost to participate in SICSS-Chicago, and we will provide breakfast 
 &nbsp;  
 
 **SICSS-Chicago is generously supported by the Alfred P. Sloan Foundation and the Russell Sage Foundation**, 
-and the following local sponsors:
+and several generous local sponsors:
 <center><div>
+
+<a href="https://sloan.org/" target="_"><img src="https://sloan.org/storage/app/media/uploaded-files/Sloan-Logo-primary-black-demo.png" height="150px" style="padding:10px;"></a>
+
 <a href="https://wiki.communitydata.cc" target="_"><img src="https://wiki.communitydata.cc/upload/b/b1/CDSC_logo-text.svg" height="150px" style="padding:10px;"></a>
 
 <a href="http://sonic.northwestern.edu/" target="_"><img src="http://sonic.northwestern.edu/wp-content/uploads/2012/12/soniclogo1.png" height="150px" style="padding:40px;"></a>
