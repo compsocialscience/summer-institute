@@ -4,6 +4,7 @@ $option-green: #477e5d;
 $option-orange: #ea8b18;
 $option-purple: #540690;
 $option-uwpurple: #4b2e83;
+$option-maroon: #861248;
 
 @mixin option-colorizer($color) {
   .hero-location {
@@ -62,6 +63,9 @@ $option-uwpurple: #4b2e83;
 }
 .option-uwpurple {
   @include option-colorizer($option-uwpurple);
+}
+.option-maroon {
+  @include option-colorizer($option-maroon);
 }
 
 .hero-content-wrapper {
