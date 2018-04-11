@@ -1,110 +1,108 @@
-- date: 2018-06-17
-  events:
-    - name: Opening Dinner
-
 - date: 2018-06-18
   name: Introduction and Ethics
   events:
-    - name: "9:00-9:15 Logistics (No livestream)"
-    - name: "9:15-9:30 Introduction to computational social science"
-    - name: "9:30-9:45 Why SICSS?"
-    - name: "9:45-10:00 Introductions"
-    - name: "10:00-10:45 Ethics: Principles-based approach"
-    - name: "10:45-11:00 Coffee Break"
-    - name: "11:00-12:00 Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty"
-    - name: "1:00-4:00 Group Exercise (No livestream)"
-    - name: "4:00-5:30 Guest Speaker"
-    - name: "6:00-7:30 Dinner & discussion"
+    - name: "9:00-9:15 Introductions"
+    - name: "9:15-9:30 Logistics"
+    - name: "9:30-9:45 Introduction to computational social science"
+    - name: "9:45-10:00 Why SICSS?"
+    - name: "10:00-10:45 Ethics: Principles-based approach (Livestream)"
+    - name: "10:45-11:00 Break"
+    - name: "11:00-12:00 Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty (Livestream)"
+    - name: "12:00-1:00 Lunch"
+    - name: "1:00-3:30 Introduction to R (Hand-On excercises)"
+    - name: "3:30-4:00 Wrap Up Discussion"
 
 - date: 2018-06-19
   name: "Collecting Digital Trace Data"
   events:
-    - name: "9:00-9:15 What is digital trace data?"
-    - name: "9:15-9:30 Strengths and weakness of digital trace data"
-    - name: "9:30-10:00 Screen-Scraping"
+    - name: "9:00-9:15 What is digital trace data? (Livestream)"
+    - name: "9:15-9:30 Strengths and weakness of digital trace data (Livestream)"
+    - name: "9:30-10:00 Screen-Scraping (Livestream)"
     - name: "10:00-10:15 Break"
-    - name: "10:15-11:00 Application Programming Interfaces"
-    - name: "11:00-12:00 Apps for Social Science Research"
-    - name: "1:00-4:00 Group Exercise (No livestream)"
-    - name: "4:00-5:30 Guest Speaker"
-    - name: Dinner & Discussion
+    - name: "10:15-11:00 Application Programming Interfaces (Livestream)"
+    - name: "11:00-12:00 Apps for Social Science Research (Livestream)"
+    - name: "12:00-1:00 Lunch"
+    - name: "1:00-3:30 Intermediate R (Hand-On excercises)"
+    - name: "3:30-4:00 Wrap Up Discussion"
 
 - date: 2018-06-20
   name: Automated text analysis
   events:
-    - name: "9:00-9:15 History of quantitative text analysis"
-    - name: "9:15-9:30 Strengths and weakenesses of quantitative text analysis"
-    - name: "9:30-9:45 Basic Text Analysis/GREP"
-    - name: "9:45-10:00 Dictionary-Based Text Analysis"
+    - name: "9:00-9:15 History of quantitative text analysis (Livestream)"
+    - name: "9:15-9:30 Strengths and weakenesses of quantitative text analysis (Livestream)"
+    - name: "9:30-9:45 Basic Text Analysis/GREP (Livestream)"
+    - name: "9:45-10:00 Dictionary-Based Text Analysis (Livestream)"
     - name: "10:00-10:15 Break"
-    - name: "10:15-11:00 Topic models and Beyond"
-    - name: "11:00-12:00 Ngram Networks"
+    - name: "10:15-11:00 Topic models and Beyond (Livestream)"
+    - name: "11:00-12:00 Ngram Networks (Livestream)"
     - name: "12:00-1:00 Lunch"
-    - name: "1:00-4:00 Group Exercise (No livestream)"
-    - name: "4:00-5:30 Guest Speaker"
-    - name: Dinner & Discussion
+    - name: "1:00-3:30 Intermediate R Part II (Hand-On excercises)"
+    - name: "3:30-4:00 Wrap Up Discussion"
 
 - date: 2018-06-21
   name: Surveys
   events:
     - name: "9:00-9:15 Welcome and schedule"
-    - name: "9:15-9:30 Survey research in the digital age"
-    - name: "9:30-10:00 Probability and non-probability sampling"
-    - name: "10:00-10:15 Coffee break"
-    - name: "10:45-11:00 Combining surveys and big data"
-    - name: "11:00-12:30 Begin group excercise (No livestream)"
-    - name: "12:30-1:30 Lunch"
-    - name: "1:30-3:45 Continue group excercise (No livestream)"
-    - name: "3:45-4:00 Break"
-    - name: "4:00-5:30 Guest Speaker"
-    - name: "Dinner & Discussion"
+    - name: "9:15-9:30 Survey research in the digital age (Livestream)"
+    - name: "9:30-10:00 Probability and non-probability sampling (Livestream)"
+    - name: "10:00-10:15 Break"
+    - name: "10:45-11:00 Combining surveys and big data (Livestream)"
+    - name: "11:00-12:00 Begin group excercise"
+    - name: "12:00-1:00 Lunch"
+    - name: "1:30-3:30 Continue group excercise"
+    - name: "3:30-4:00 Wrap Up Discussion"
 
 - date: 2018-06-22
   name: Mass Collaboration
   events:
-    - name: 9:00-9:10 Welcome and schedule
-    - name: 9:10-9:30 Mass collaboration
-    - name: 9:30-9:40 Human computation
-    - name: 9:40-9:50 Open call
-    - name: 9:50-10:00 Distributed data collection
-    - name: 10:00-10:15 Design advice
-    - name: 10:15-10:30 Coffee break
-    - name: 10:30-4:00 Fragile Families Challenge
-    - name: Dinner & Discussion
-
+    - name: "9:00-9:10 Welcome and schedule"
+    - name: "9:10-9:30 Mass collaboration (Livestream)"
+    - name: "9:30-9:40 Human computation (Livestream)"
+    - name: "9:40-9:50 Open call (Livestream)"
+    - name: "9:50-10:00 Distributed data collection (Livestream)"
+    - name: "10:00-10:15 Design advice (Livestream)"
+    - name: "10:15-10:30 Break"
+    - name: "10:30-12:00 Introduction to Version Control (Hand-On excercises)"
+    - name: "12:00-1:00 Lunch"
+    - name: "1:00-3:00 Continue Introduction to Version Control (Hand-On excercises)"
+    - name: "3:00-3:30 Project Brainstorm"
+    - name: "3:30-4:00 Wrap Up Discussion"
+    
 - date: 2018-06-23
-  name: Experiments
-  events:
-    - name: 9:00 - 9:15 Welcome and schedule
-    - name: 9:15 - 9:45 What, why, and which experiments?
-    - name: 9:45 - 10:15 Moving beyond simple experiments
-    - name: 10:15 - 10:30 Coffee break
-    - name: 10:30 - 11:15 Four strategies for experiments
-    - name: 11:15 - 11:45 Zero variable cost data and musiclab
-    - name: 11:45 - 12:15 3 Rs
-    - name: Lunch
-    - name: Afternoon off
+  name: Enjoy the Weekend! 
 
 - date: 2018-06-24
-  name: Day off
+  name: Enjoy the Weekend! 
 
 - date: 2018-06-25
-  name: Work on projects
+  name: Experiments
+  events:
+    - name: "9:00 - 9:15 Welcome and schedule"
+    - name: "9:15 - 9:45 What, why, and which experiments?"
+    - name: "9:45 - 10:15 Moving beyond simple experiments"
+    - name: "10:15 - 10:30 Break"
+    - name: "10:30 - 11:15 Four strategies for experiments"
+    - name: "11:15 - 11:45 Zero variable cost data and musiclab"
+    - name: "11:45 - 12:15 3 Rs"
+    - name: "12:00-1:00 Lunch"
+    - name: "1:00-3:30 Work on Group/Individual Projects (On-Site)"
+    - name: "3:30-4:00 Wrap Up Discussion & Remaining Schedule"
 
 - date: 2018-06-26
-  name: Work on projects
+  name: Work on projects (On or Off Site)
 
 - date: 2018-06-27
-  name: Work on projects
+  name: Work on projects (On or Off Site)
 
 - date: 2018-06-28
-  name: Work on projects
+  name: Work on projects (On or Off Site)
 
 - date: 2018-06-29
-  name: Present final projects
+  name: Closing Conference
   events:
-    - name: Closing dinner
+    - name: "9:00 - 9:15 Welcome and schedule"
+    - name: "9:15 - 11:15 Individual/Group Project Presentations"
+    - name: "11:15 - 11:30 Break"
+    - name: "11:30 - 12:00 Next Steps"
+    - name: "12:00 - 1:30 Closing Lunch"
 
-- date: 2018-06-30
-  events:
-    - name: Students depart
