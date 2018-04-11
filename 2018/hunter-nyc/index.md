@@ -23,12 +23,12 @@ programming in R and Python, using version control tools like Github, and applyi
 problems. The curriculum will consist of a combination of livestreamed lectures and tutorials, group activities and exercises.
 We will cover a broad range of computational research topics from text analysis to digital data collection.
 
-A primary goal of SICSS-Seattle is to bring together scholars from a range of computational and social-science background, to
-share their complementary strengths and enhance each other's work. Participants who wish to workshop existing CSS work will 
+A primary goal of SICSS NYC-Hunter is to bring together social work scholars from various areas of practice and reserach to 
+share their complementary strengths and enhance each other's work. Participants who wish to workshop existing work will 
 have the opportunity to do so, and we will provide meeting space and small amounts of pilot funding in the week following the
 structured program for participants who wish to begin new collaborations.
 
-There is no cost to participate, and meals during the day will be provided. We will make every effort to support attendance with metro cards and child care arrangements, shoudl there be need. 
+There is no cost to participate, and meals during the day will be provided. We will make every effort to support attendance with metro cards and child care arrangements, should there be need. 
 
 To apply, please submit a short application by Friday, June 1st, 2018.
 https://goo.gl/forms/VIfOC1CptH2JoAFl2
