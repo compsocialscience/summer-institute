@@ -10,7 +10,7 @@ SICSS NYC-Hunter is primarily intended for social work students, practitioners, 
 School of Social Work at Hunter College. Space is limited to 15 participants. 
 
 Please note that **we will not accept applications from participants outside of the Silberman School of Social Work**. NYC area 
-folks intersted in attending a SICSS institue are directed to the NYU host site: URL here. 
+folks intersted in attending a SICSS institute are directed to the SICSS-NYC-NYU host site: URL here. 
 
 # How to Apply
 
