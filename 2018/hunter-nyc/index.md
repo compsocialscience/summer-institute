@@ -4,6 +4,9 @@ layout: year_home
 faculty_title: Organizers
 speakers_title: Local Speakers
 ---
+![alt text][logo]
+
+[logo]: /2018/hunter-nyc/images/silberman_logo.png "Silberman Logo"
 
 The [Silberman School of Social Work] (http://sssw.hunter.cuny.edu/ssw/), part of the City University of New York's [Hunter 
 College] (http://www.hunter.cuny.edu/main/), will host a [Summer Institute in Computational Social Science]
@@ -33,6 +36,4 @@ There is no cost to participate, and meals during the day will be provided. We w
 To apply, please submit a short application by Friday, June 1st, 2018.
 https://goo.gl/forms/VIfOC1CptH2JoAFl2
 
-![alt text][logo]
 
-[logo]: /2018/hunter-nyc/images/silberman_logo.jpng "Silberman Logo"
