@@ -27,9 +27,7 @@ problems. The curriculum will consist of a combination of livestreamed lectures 
 We will cover a broad range of computational research topics from text analysis to digital data collection.
 
 A primary goal of SICSS NYC-Hunter is to bring together social work scholars from various areas of practice and reserach to 
-share their complementary strengths and enhance each other's work. Participants who wish to workshop existing work will 
-have the opportunity to do so, and we will provide meeting space and small amounts of pilot funding in the week following the
-structured program for participants who wish to begin new collaborations.
+share their strengths and enhance each other's work. Participants will be encouraged to workshop exisiting work, as well as develop new colaborations. There may also be pilot funding avalable. 
 
 There is no cost to participate, and meals during the day will be provided. We will make every effort to support attendance with metro cards and child care arrangements, should there be need. 
 
