@@ -5,9 +5,8 @@ faculty_title: Organizers
 speakers_title: Local Speakers
 ---
 
-The [Silberman School of Social Work] (http://sssw.hunter.cuny.edu/ssw/), part of the City University of New York's [Hunter 
-College] (http://www.hunter.cuny.edu/main/), will host a [Summer Institute in Computational Social Science]
-(https://compsocialscience.github.io/summer-institute/) partner location from June 18th, 2018 to June 29th, 2018.
+The [Silberman School of Social Work](http://sssw.hunter.cuny.edu/ssw/), part of the City University of New York's [Hunter 
+College](http://www.hunter.cuny.edu/main/), will host a [Summer Institute in Computational Social Science](https://compsocialscience.github.io/summer-institute/) partner location from June 18th, 2018 to June 29th, 2018.
 
 Whereas SICSS is for both social scientists and data scientists, broadly conceived, SICSS NYC-Hunter is a specialized
 institute targeting social work students, practitioners, and scholars who have little to no exposure to computational social
