@@ -32,3 +32,7 @@ There is no cost to participate, and meals during the day will be provided. We w
 
 To apply, please submit a short application by Friday, June 1st, 2018.
 https://goo.gl/forms/VIfOC1CptH2JoAFl2
+
+![alt text][logo]
+
+[logo]: /2018/hunter-nyc/images/silberman_logo.jpng "Silberman Logo"
