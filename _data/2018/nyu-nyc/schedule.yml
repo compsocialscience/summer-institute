@@ -1,11 +1,7 @@
-- date: 2018-06-17
-  events:
-    - name: Opening Dinner
-
 - date: 2018-06-18
   name: Introduction and Ethics
   events:
-    - name: "9:00-9:15 Logistics (No livestream)"
+    - name: "9:00-9:15 Logistics"
     - name: "9:15-9:30 Introduction to computational social science"
     - name: "9:30-9:45 Why SICSS?"
     - name: "9:45-10:00 Introductions"
@@ -84,27 +80,3 @@
     - name: 11:45 - 12:15 3 Rs
     - name: Lunch
     - name: Afternoon off
-
-- date: 2018-06-24
-  name: Day off
-
-- date: 2018-06-25
-  name: Work on projects
-
-- date: 2018-06-26
-  name: Work on projects
-
-- date: 2018-06-27
-  name: Work on projects
-
-- date: 2018-06-28
-  name: Work on projects
-
-- date: 2018-06-29
-  name: Present final projects
-  events:
-    - name: Closing dinner
-
-- date: 2018-06-30
-  events:
-    - name: Students depart
