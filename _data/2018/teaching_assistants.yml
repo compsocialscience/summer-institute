@@ -1,9 +1,15 @@
-- name: Friedolin Merhout
-  bio: "Friedolin Merhout is a doctoral student in the Duke Sociology department. He enjoys exploring how computational methods provide a new lens to view longstanding social science debates, and pondering the potential inherent in the wealth of digital trace data. Before starting the doctoral program at Duke, he earned a BA from Freie Universitaet in his hometown Berlin." 
-  image: /assets/images/fmerhout.jpg
+- name: Taylor Brown
+  bio: "Taylor Brown is a doctoral student in the Duke Sociology department, and is associated with the Duke Network Analysis Center. She has a general fascination with computational methods and the issues that arise with social media and other found data. She holds an MA in sociology from UNC-Chapel Hill and an MSc in evidence-based social intervention from the University of Oxford. Prior to beginning her PhD, Taylor worked on issues of intercountry adoption abuse and for a non-profit in Ghana. She also fulfilled an appointment at the National Science Foundation in the division of Social and Economic Sciences." 
+  image: /assets/images/taylor.gif
+
 - name: Marcus Mann
   bio: "Marcus Mann is a doctoral student in the Duke Sociology department. He uses computational methods to examine politically partisan news ecologies on social media and maintains a general interest in the cultural differentiation of epistemic authorities and their corresponding audiences, communities, and social movements."
   image: /assets/images/image_mlm75.jpeg
+  
+- name: Friedolin Merhout
+  bio: "Friedolin Merhout is a doctoral student in the Duke Sociology department. He enjoys exploring how computational methods provide a new lens to view longstanding social science debates, and pondering the potential inherent in the wealth of digital trace data. Before starting the doctoral program at Duke, he earned a BA from Freie Universitaet in his hometown Berlin." 
+  image: /assets/images/fmerhout.jpg
+  
 - name: Janet Xu
   bio: "Janet Xu is a doctoral student in the Princeton Sociology department, where she is also affiliated with the Office of Population Research. Her current research examines perceptions and portrayals of demographic diversity using experimental and computational methods. She holds a B.A. from the University of Chicago. Prior to graduate school, Janet worked at the National Opinion Research Center (NORC) as a survey researcher."
   image: /assets/images/janet.jpg
