@@ -4,7 +4,7 @@ As we discussed in our call for applications, we have arranged two types of trai
 
 ## Coding
 
-The majority of the coding work presented at the 2018 SICSS will employ R.  However, you are welcome to employ a language of your choice- such as Python, Julia, or other languages that are commonly used by computational social scientists. If you would like to work in R, we recommend that you complete the following courses within [DataCamp](https://www.datacamp.com), a website that teaches people how to code.  Obviously, you only need to complete the classes with material that you would like to learn.
+The majority of the coding work presented at the 2018 SICSS will employ R.  However, you are welcome to employ a language of your choice, such as Python, Julia, or other languages that are commonly used by computational social scientists. If you would like to work in R, we recommend that you complete the following courses within [DataCamp](https://www.datacamp.com), a website with courses on many topics related to data science.  Obviously, you only need to complete the classes with material that you would like to learn.
 
   - [https://www.datacamp.com/courses/free-introduction-to-r](https://www.datacamp.com/courses/free-introduction-to-r)
   - [https://www.datacamp.com/courses/intermediate-r](https://www.datacamp.com/courses/intermediate-r)
@@ -17,7 +17,7 @@ The majority of the coding work presented at the 2018 SICSS will employ R.  Howe
   - [https://www.datacamp.com/courses/exploratory-data-analysis-in-r-case-study](https://www.datacamp.com/courses/exploratory-data-analysis-in-r-case-study)
   - [https://www.datacamp.com/courses/introduction-to-git-for-data-science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
 
-If you cannot afford datacamp, check out Chris Bail's Intro to R slides at [http://www.chrisbail.net/p/learn-comp-soc.html](http://www.chrisbail.net/p/learn-comp-soc.html)
+We thank DataCamp for making these materials avaialble to admitted participants though their [DataCamp for the Classroom](https://www.datacamp.com/groups/education) program.
 
 ## Reading List
 
