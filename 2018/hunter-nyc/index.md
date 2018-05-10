@@ -27,6 +27,12 @@ share their strengths and enhance each other's work. Participants will be encour
 
 There is no cost to participate, and meals during the day will be provided. We will make every effort to support attendance with metro cards and child care arrangements, should there be need. 
 
-To apply, please submit a short application by Friday, June 1st, 2018. [View application here](https://goo.gl/forms/VIfOC1CptH2JoAFl2)
+To apply, please submit a short application by Friday, June 1st, 2018. [View application here](https://github.com/compsocialscience/summer-institute/tree/master/2018/hunter-nyc/apply.md)
 
+![alt text][Silberman logo]
 
+[Silberman logo]: https://github.com/compsocialscience/summer-institute/tree/master/2018/hunter-nyc/images/silberman_logo "Silberman Logo"
+
+![alt text][CUNY logo]
+
+[CUNY logo]: https://github.com/compsocialscience/summer-institute/tree/master/2018/hunter-nyc/images/cuny_logo "CUNY Logo"
