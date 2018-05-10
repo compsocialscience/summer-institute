@@ -1,1 +1,76 @@
-- name: Coming soon
+- name: Emily Bello-Pardo
+  image: /assets/images/emily.jpeg
+  bio: Emily D. Bello-Pardo is a doctoral student at American University. Her work examines the attitudinal impacts of online dis- and mis- information, online discursive incivility, and public policy shifts, and uses experimental and computational social science approaches to explore these topics in the US and Latin America. In 2017, Bello-Pardo was a Google NewsLab Fellow at Pew Research Center. Before her PhD, Bello-Pardo obtained a MA in Latin American and Caribbean Studies and dual Bachelor degrees in Political Science and International Relations from Florida International University.
+  website: https://www.american.edu/profiles/students/eb0511a.cfm
+
+- name: Lily Fesler
+  image: /assets/images/lily.png
+  bio: Lily Fesler is a doctoral student in economics of education at the Stanford Graduate School of Education and an Institute of Education Sciences (IES) fellow. Her research interests include student and teacher bias in higher education and barriers to college access. Methodologically, she is very interested in using text analysis to better understand student's college experiences (and started the Stanford student-led group Computational Text Analysis in the Social Sciences). Before coming to Stanford, Lily worked as an education analyst at Abt Associates and as an analyst at an economic consulting firm in Boston. She received her bachelor's degree from Wesleyan University.
+  website: https://cepa.stanford.edu/people/lily-fesler
+
+- name: Natalie Gallagher
+  image: /assets/images/natalie.jpg
+  bio: Natalie Gallagher is currently pursuing a PhD in psychology at Northwestern University. Her work lies at the intersection of social and cognitive research, including network cognition, social categories, and a flexible sense of self. She draws on psychological, sociological, and computational methods to pursue her questions, and is interested in how research can inform social change. Natalie received her BA in psychology and theater from Georgetown University.
+
+- name: Ryan J. Gallagher
+  image: /assets/images/ryan.png
+  bio: Ryan J. Gallagher is a PhD student at Northeastern University. At the Network Science Institute, he researches the dynamics of social networks using tools and theory from natural language processing and communications. He currently studies the affective phenomena of networked counterpublics. Ryan holds an MS in mathematics from the University of Vermont, where he worked with the Computational Story Lab at the Vermont Complex Systems Center, and a BA in math from the University of Connecticut.
+  website: https://ryanjgallagher.github.io/
+  
+- name: Douglas Guilbeault
+  image: /assets/images/douglas.png
+  bio: Douglas Guilbeault is a PhD candidate in the Network Dynamics Group at the University of Pennsylvania. His research uses formal models and online experiments to study political communication and cultural evolution. His recent work focuses on the effects of political polarization on collective intelligence. Doug is funded by a PhD scholarship from the Social Sciences and Humanities Research Council of Canada, as well as by a dissertation fellowship from the Institute for Research on Innovation and Science. He has a background in philosophy, linguistics, and cognitive science.
+  website: https://www.asc.upenn.edu/people/douglas-guilbeault
+
+- name: David Hagmann
+  image: /assets/images/david-ha.jpg
+  bio: David’s interests include information avoidance, behavioral interventions (nudges), and decisions from experience. In his dissertation, David studies persuasion in the presence of motivated reasoning. While we might think that changing someone’s mind is all about exposing them to facts that support our views and challenge theirs, such an approach may be more likely to engender defensive information avoidance rather than receptive information processing.  
+  website: http://www.dhagmann.com
+  
+- name: David Holtz
+  image: /assets/images/david-ho.png
+  bio: David Holtz is a PhD student in the Information Technology group at MIT Sloan. His research interests span online marketplace design, causal inference, applied machine learning, and network science. His work thus far has focused on ratings and reviews, as well as the viability of reputation systems that don’t depend on user generated feedback. He holds an MA in Physics & Astronomy from Johns Hopkins University and a BA in Physics from Princeton University. Prior to beginning his PhD, David was a data scientist (most recently at Airbnb).
+  website: http://www.daveholtz.net
+
+- name: Yan Leng
+  image: /assets/images/yan.jpg
+  bio: Yan is currently pursuing a Ph.D. at Human Dynamics group at MIT. She received dual masters in Computer Science and Transportation Engineering from MIT in 2016. Yan is interested in using a broad range of computational techniques to understand the network effect of social influence. In particular, she works on the inference, identification, and modeling of social influence and social learning with large-scale behavioral data in a networked environment. Besides, she also works on the combining network structure and personal attributes in maximizing cascading payoff. 
+  website: http://web.mit.edu/yleng/www/
+
+- name: Jeff Lockhart
+  image: /assets/images/jeff.jpg
+  bio: Jeff Lockhart is a PhD candidate in sociology at the University of Michigan. Before coming to Michigan, he completed a masters in computer science at Fordham University and a masters in gender studies at the University of Cambridge. His research seeks to integrate computational tools with critical insight from feminist and queer theory. 
+  website: http://www-personal.umich.edu/~jwlock/
+
+- name: Julien Migozzi
+  image: /assets/images/julien.PNG
+  bio: Julien Migozzi is a PhD Candidate in Urban & Economic Geography at the University of Grenoble Alpes and a Lecturer & Research Assistant at the Ecole Normale Supérieure de Paris. His research investigates how the real estate market reshapes patterns of social stratification and neighborhood change in emerging cities of the Global South, with a specific focus on Cape Town, South Africa. He is particularly interested in the intersection of housing market, financialization and inequalities. His methodology combines in-depth, qualitative fieldwork with spatial analysis, multivariate statistics & mapping. He received his B.A and his M.A in Geography from the Ecole Normale Supérieure de Lyon.
+  website: http://www.parisgeo.cnrs.fr/spip.php?article6740&lang=en
+
+- name: Hussein Mohsen
+  image: /assets/images/hussein.jpg
+  bio: Hussein is a PhD student in Computational Biology & Bioinformatics at Yale University supported by the Nicholas Jabr and Gruber Science Fellowships. His research interests are at the confluence of deep learning, cancer genomics, and computational social science. He received a BS in Computer Science from the Lebanese American University (LAU) and an MS in Bioinformatics at Indiana University. 
+  website: http://homes.gersteinlab.org/people/hm444/index.html
+
+- name: Trang (Mae) Nguyen
+  image: /assets/images/mae.jpg
+  bio: Trang (Mae) Nguyen (Nguyễn Thu Trang) is the John N. Hazard Fellow in Comparative Law at New York University School of Law, U.S.-Asia Law Institute, and visiting scholar at University of California Berkeley School of Law. Her research uses mixed methods analysis to study authoritarian legality. Mae earned a J.D. degree from NYU School of Law, where she was a Mitchell Jacobson Law & Leadership Fellow and executive editor of the New York University Law Review.
+
+- name: Stan Oklobdzija
+  image: /assets/images/stan.jpg
+  bio: Stan Oklobdzija is a PhD Candidate in the Department of Political Science at UC San Diego. His dissertation project focuses on how changes to US election law allowed networks of interest groups to take over roles previously held by political parties. His research interests revolve around campaign finance, election law and state politics. Prior to graduate school, he worked as a reporter at the Sacramento Bee. 
+  website: http://www.ucsdstan.wordpress.com
+  
+- name: Leah Rosenzweig
+  image: /assets/images/leah.jpg
+  bio: Leah just completed her PhD in political science at MIT, where she was a member of MIT GOV/LAB and the Political Methodology Lab. Her research focuses on citizens’ political behavior in developing countries. Her current book project investigates the puzzle of why citizens vote in elections with foregone conclusions. Using survey and experimental methods, she analyzes the role that social norms play in motivating turnout among citizens in semi-authoritarian states. Leah will be joining the Institute for Advanced Study in Toulouse, France as a postdoctoral research fellow in the fall.
+  website: http://www.leahrrosenzweig.com/
+
+- name: Martijn Schoonvelde
+  image: /assets/images/martijn.jpg
+  bio: Martijn Schoonvelde is a postdoctoral fellow in Political Science at the Vrije Universiteit in Amsterdam where he uses automated text analysis to study on leader communication in the European Union during times of crisis. Before this, he was a Max Weber Fellow at the European University Institute in Florence, and a research fellow at the University of Exeter in the UK. He received his PhD from Stony Brook University. His interests include comparative political behavior, EU politics and research methods. He tweets under @hjms.
+  website: http://www.mschoonvelde.com
+ 
+- name: Ieke de Vries
+  image: /assets/images/ieke.jpg
+  bio: Ieke de Vries is pursuing a PhD in Criminology and Justice Policy at Northeastern University. Her current research aims to address the legitimate contours of crime by building and analyzing novel, digitized data sets utilizing computational methods. She has collaborated with federal, state and local agencies in the U.S. and gained research and policy experience while researching crime in several other countries including the Netherlands where she worked for the Dutch Rapporteur on Trafficking in Human Beings. 
