@@ -27,6 +27,9 @@ share their strengths and enhance each other's work. Participants will be encour
 
 There is no cost to participate, and meals during the day will be provided. We will make every effort to support attendance with metro cards and child care arrangements, should there be need. 
 
-To apply, please submit a short application by Friday, June 1st, 2018. [View application here](https://goo.gl/forms/VIfOC1CptH2JoAFl2)
+To apply, please submit a short application by Friday, June 1st, 2018. [View application here](apply)
 
-
+<div class="row">
+  <div class="col-sm-6"><img class="img-responsive" alt="Silberman logo" src="{{ site.baseurl }}{% link 2018/hunter-nyc/images/silberman_logo.png %}"></div>
+  <div class="col-sm-6"><img class="img-responsive" alt="CUNY logo" src="{{ site.baseurl }}{% link 2018/hunter-nyc/images/cuny_logo.png %}"></div>
+</div>
