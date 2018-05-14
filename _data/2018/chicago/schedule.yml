@@ -1,6 +1,7 @@
 - date: 2018-06-17
+  name: 
   events:
-    - name: Welcome Reception and Research Speed Dating
+    - name: "1:00-5:00 Welcome Reception and Research Speed Dating"
 
 - date: 2018-06-18
   name: Introduction and Ethics
@@ -8,7 +9,8 @@
     - name: "8:30-9:00 Breakfast"
     - name: "9:00-10:00 Ethics: Principles-based approach **(Livestream)**"
     - name: "10:00-11:00 Four areas of difficulty **(Livestream)**"
-    - name: "11:00-3:00 Lunch and Group Exercise"
+    - name: "11:00-12:00 Guest Speaker (Local)"
+    - name: "12:00-3:00 Lunch and Group Exercise"
     - name: "3:00-4:30 Guest Speaker **(Livestream)**"
 
 - date: 2018-06-19
@@ -18,7 +20,7 @@
     - name: "9:00-9:15 What is digital trace data?"
     - name: "9:15-10:00 Application Programming Interfaces **(Livestream)**"
     - name: "10:00-11:00 Apps for Social Science Research **(Livestream)**"
-    - name: "11:00-11:30 Screen-Scraping"
+    - name: "11:00-12:00 Guest Speaker (Local)"
     - name: "11:30-3:00 Lunch and Group Exercise"
     - name: "3:00-4:30 Guest Speaker **(Livestream)**"
     - name: "4:30-5:30 Group Excercise Continued"
