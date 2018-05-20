@@ -99,6 +99,10 @@
   bio: Anne Petersen is a research assistant at the Section of Biostatistics, Copenhagen University, Denmark. She has a MSc in statistics, a BSc in mathematics and a keen interest in sociology. She is the primary developer of two R-packages on CRAN, dataMaid and PCADSC. Her research interests are focused on the methodological challenges related to modeling observational data and in particular how this type of information can be used to understand the interplay between social inequality and health.  
   website: https://github.com/AnnePetersen1
   
+- name: Iacopo Pozzana
+  image: /assets/images/iacopo.jpg
+  bio: Iacopo holds a masters in physics from the University of Pisa and is currently pursuing a PhD in computer science at Birkbeck, University of London. In his research, he uses tools from network science, machine learning and natural language processing to study human behaviour on social media, currently focusing on platforms granting an high degree of anonymity to their users. Previously, he has worked on social bot detection and on temporal network modelling.
+  
 - name: Francesco Rampazzo
   image: /assets/images/francesco.jpg
   bio: Francesco is pursuing a PhD in Social Statistics and Demography at the University of Southampton, while being a Doctoral Fellow at the Max Planck Institute of Demographic Research. He holds a Master’s degree in Demography from Stockholm University, and a Bachelor’s degree in Statistics from the University of Padova. Having moved around Europe for his university education, he understands how important it is to complement traditional data sources on migrants, with digital data sources for capturing the actual movements of individuals. His PhD focuses on the use of digital data for describing demographic events, such as European migration, male fertility, and patterns of transition to adulthood.   
