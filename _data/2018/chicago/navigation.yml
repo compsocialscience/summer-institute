@@ -1,5 +1,7 @@
 - name: Chicago
   url: "/2018/chicago/"
+- name: People
+  url: "/2018/chicago/#people"
 - name: Pre-arrival
   url: "/2018/chicago/#pre-arrival"
 - name: Schedule & materials
