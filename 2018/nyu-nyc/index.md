@@ -11,5 +11,5 @@ The instructional program will involve lectures live-streamed from the main site
 
 Participation is restricted to PhD students, postdoctoral researchers, and faculty in the area. Lunch and coffee are covered, and there is no registration fee. Participants will be expected to complete some additional readings in advance of the Institute and, if necessary, a set of online learning modules introducing them to the R programming language. 
 
-There is no formal application, but space is limited. If you are interested in attending, please <a href="mailto:adaner.usmani@gmail.com">e-mail Adaner Usmani</a>.
+Unfortunately, SICSS NYU has now filled up. We can't offer any more slots to interested participants.
 
