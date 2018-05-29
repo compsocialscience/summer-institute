@@ -9,6 +9,14 @@
   image: /assets/images/chrisnew.jpg
   bio: "Chris Bail is the Douglas and Ellen Lowey Associate Professor of Sociology and Public Policy at Duke University and a member of the Interdisciplinary Program on Data Science, the Duke Network Analysis Center, and the Duke Population Research Institute. His research examines how non-profit organiations and other political actors shape social media discourse using large text-based datasets and apps for social science research. He is the author of *Terrified: How Anti-Muslim Fringe Organizations Became Mainstream*." 
   website: http://www.chrisbail.net/
+
+- name: Marshini Chetty
+  image: 
+  bio: "Marshini Chetty is a research scholar in the Department of Computer Science at Princeton University where she directs the Princeton Human Computer Interaction laboratory. She specializes in human computer interaction, usable security, and ubiquitous computing. Marshini designs, implements, and evaluates technologies to help users manage different aspects of Internet use from performance and costs to privacy and security. She has a Ph.D. in Human-Centered Computing from Georgia Institute of Technology, USA and a Masters and Bachelors in Computer Science from University of Cape Town, South Africa*." 
+ % Prior to joining Princeton, Marshini was an assistant professor in the College of Information studies at the University of Maryland, College Park. Marshini regularly publishes at top tier venues including
+ %CHI, CSCW, and SOUPS. Her work on creating consumer-facing tools for monitoring Internet speeds won a CHI best paper award and multiple projects have been featured in popular technology blogs and news media. Marshini is determined to help make the Internet
+ %more efficient, affordable, private and secure from the user perspective."
+  website: https://www.marshini.net/
   
 - name: Deen Freelon
   image: /assets/images/deen2.jpg
@@ -30,10 +38,10 @@
   bio: Sendhil Mullainathan is the Robert C. Waggoner Professor of Economics at Harvard University and the co-founder of the Abdul Latif Jameel Poverty Action Lab.
   website: https://scholar.harvard.edu/sendhil/home
   
-- name: Cynthia Rudin
-  image: /assets/images/cynthia.jpg
-  bio: Cynthia Rudin is an Associate Professor of computer science, electrical and computer engineering, and statistics at Duke University, and directs the Prediction Analysis Lab.
-  website: https://users.cs.duke.edu/~cynthia/
+%- name: Cynthia Rudin
+ % image: /assets/images/cynthia.jpg
+ % bio: Cynthia Rudin is an Associate Professor of computer science, electrical and computer engineering, and statistics at Duke University, and directs the Prediction Analysis Lab.
+ % website: https://users.cs.duke.edu/~cynthia/
   
 - name: Duncan Watts
   image: /assets/images/duncan.jpg
