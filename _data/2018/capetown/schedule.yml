@@ -27,9 +27,9 @@
     - name: "9:00-9:15 Logistics (No livestream)"
     - name: "9:15-10:45 Group Exercise on Ethics"
     - name: "10:45-11:00 Coffee Break"
-    - name: "11:00-12:00 Local presentation"
+    - name: "11:00-12:00 Marshini Chetty"
     - name: "12:00-1:00 Lunch"
-    - name: "1:00-3:00 Guest Speaker and discussion (Video from Duke)"
+    - name: "1:00-3:00 Guest Speaker and discussion - UCT: Marshini Chetty"
 
     - name: "3:00-3:15 What is digital trace data? (livestream from Duke)"
     - name: "3:15-3:30 Strengths and weakness of digital trace data (livestream from Duke)"
@@ -98,11 +98,11 @@
   name: Experiments
   events:
     - name: "9:00-9:15 Logistics (No livestream)"
-    - name: "9:15-10:45 Group Exercise on Mass Collaboration"
+    - name: "9:15-10:45 Group Exercise on Mass Collaboration OR Local presenter : Vukosi Marivate"
     - name: "10:45-11:00 Coffee Break"
-    - name:  "11:00-12:00 Local presentation"
+    - name:  "11:00-12:00 Vukosi Marivate"
     - name: "12:00-1:00 Lunch"
-    - name: "1:00-3:00 Guest Speaker and discussion (Video from Duke)"
+    - name: "1:00-3:00 Guest Speaker and discussion (Video from Duke) or Vukosi Marivate"
 
     - name: 3:00 - 3:15 Welcome and schedule (livestream from Duke)
     - name: 3:15 - 3:45 What, why, and which experiments? (livestream from Duke)
@@ -116,22 +116,25 @@
 - date: 2018-06-24
   name: Day off
 
-- date: 2018-06-25
-  name: Work on projects
-
-- date: 2018-06-26
-  name: Work on projects
-
-- date: 2018-06-27
-  name: Work on projects
-
-- date: 2018-06-28
-  name: Work on projects
+- date: 2018-06-25 to 2018-06-28
+  name: Training and group project
+  event:
+    - name: "9:00 - 9:15 Logistics (No livestream)"
+    - name: "9:15 - 10:45 Training by Nick Feamster"
+    - name: "10:45 - 11:00 Coffee Break"
+    - name: "11:00 - 12:00 Exercise
+    - name: "12:00-1:00 Lunch"
+    
+    - name: "1:00-4:15 Group project"
+    - name: "4:15 - 4:30 Coffee break" 
+    - name: "4:30 - 6:00 Group project"
+    - name: "6:15 - 8:00 Dinner and discussion"    
 
 - date: 2018-06-29
   name: Present final projects
   events:
-    - name: Closing dinner
+    - name: "9:00 - 12:00 Presentation"
+    - name: "Closing dinner"
 
 #- date: 2018-06-30
 #  events:
