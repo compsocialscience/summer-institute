@@ -5,6 +5,7 @@
     - name: 12:30-13:00 Logistics
     - name: 13:00-13:45 Introductions
     - name: 14:00-15:00 Ethics, an European perspective
+    - name: 15:00-16:00 Panel - what is Computational Social Science?
     - name: "16:15-16:30 Introduction to computational social science (LS)"
     - name: "16:30-16:45 Why SICSS? (LS)"
     - name: "17:00-18:00 Ethics: Principles-based approach (LS)"
@@ -14,7 +15,7 @@
 - date: 2018-06-19
   name: Collecting Digital Trace Data
   events:
-    - name: 9:00-10:30 Guest Speaker (VS)
+    - name: 9:00-10:30 Guest Speaker (recording of Duncan Watts)
     - name: 10:30-11:00 Guest Speaker (discussion)
     - name: 11:00-11:30 What is digital trace data? and Strengths and weakness of digital trace data
     - name: 11:30 Lunch
@@ -25,11 +26,9 @@
     - name: 15:30-18:30 Group exercise (ethics & data collection)
 
 - date: 2018-06-20
-  name: Automated text analysis (Schedule and content tentative)
+  name: Automated text analysis
   events:
-    - name: 9:00-10:30 Guest Speaker (VS)
-    - name: 10:30-11:00 Guest Speaker (discussion)
-    - name: 9:00-9:15 History of quantitative text analysis
+    - name: 9:00-9:15 Background of quantitative text analysis
     - name: 9:15-9:30 Strengths and weakenesses of quantitative text analysis
     - name: 9:30-9:45 Basic Text Analysis/GREP
     - name: 9:45-10:00 Dictionary-Based Text Analysis
@@ -40,8 +39,6 @@
 - date: 2018-06-21
   name: Surveys
   events:
-    - name: 9:00-10:30 Guest Speaker (VS)
-    - name: 10:30-11:00 Guest Speaker (discussion)
     - name: 11:00-16:00 Group work (Automated text analysis)
     - name: 16:00-16:15 Welcome and schedule (LS)
     - name: 16:15-16:30 Survey research in the digital age (LS)
@@ -53,7 +50,7 @@
 - date: 2018-06-22
   name: Mass Collaboration
   events:
-    - name: 9:00-10:30 Guest Speaker (VS)
+    - name: 9:00-10:30 Guest Speaker (recording of David Lazer)
     - name: 10:30-11:00 Guest Speaker (discussion)
     - name: 11:00-16:00 Group work (Surveys)
     - name: 16:00-16:10 Welcome and schedule (LS)
@@ -67,9 +64,9 @@
 - date: 2018-06-23
   name: Experiments (Tentative schedule)
   events:
-    - name: 9:00-10:30 Guest Speaker (VS)
+    - name: 9:00-10:30 Guest Speaker (recording of Sendhil Mullainathan)
     - name: 10:30-11:00 Guest Speaker (discussion)
-    - name: 11:00-16:00 Group work (Mass Collaboration)
+    - name: 11:00-16:00 Group work (mass collaboration)
     - name: 16:00 - 16:15 Welcome and schedule (LS)
     - name: 16:15 - 16:45 What, why, and which experiments? (LS)
     - name: 16:45 - 17:15 Moving beyond simple experiments (LS)
