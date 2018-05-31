@@ -1,0 +1,4 @@
+- name: Momo the Robot
+  image: /2018/helsinki/images/momo_the_robot.jpg
+  bio: "We visit Futurice, a software company in Helsinki. They tell when Momo the Robot met children."
+  website: http://futurice.com
