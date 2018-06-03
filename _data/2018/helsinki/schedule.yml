@@ -1,4 +1,100 @@
 - date: 2018-06-18
-  name: Introduction and ethics
+  name: "Introduction and ethics"
   events:
-    - 9:30 - 11:30 
+    - name: "9:30 - 11:30 To Tvärminne"
+    - name: "11:30 - 12:00 Getting organized"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 14:00 Introductions"
+    - name: "14:00 - 15:00 Panel: What is Computational Social Science?"
+    - name: "15:00 - 16:00 Ethics: Principles-based approach and European perspectives"
+    - name: "16:00 - 17:00 Live stream: Introduction to Computational Social Science"
+    - name: "17:00 - 18:00 Dinner"
+    - name: "18:00 - 19:00 Live Stream: Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty"
+- date: 2018-06-19
+  name: "Automated data collection"
+  events:
+    - name: "8:00 - 9:00 Breakfast"
+    - name: "9:00 - 11:00 Video recording: Duncan Watts"
+    - name: "11:00 - 12:00 What is digital trace data"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 13:30 Demo: Screen scraping"
+    - name: "13:30 - 14:00 Demo: Application programming interfaces"
+    - name: "14:00 - 14:30 Demo: Aps for Social Science Research"
+    - name: "14:30 - 15:00 Demo: Open data"
+    - name: "15:00 - 16:30 Group exercise: Ethics"
+    - name: "16:30 - 17:30 Dinner"
+    - name: "17:30 - 20:00 Group exercise: Data collection"
+- date: 2018-06-20
+  name: "Automated text analysis"
+  events:
+    - name: "8:00 - 9:00 Breakfast"
+    - name: "9:00 - 10:00 Background of qualitative text analysis"
+    - name: "10:00 - 10:30 Basic Text Analysis / GREP"
+    - name: "10:30 - 11:00 Dictionary-based methods"
+    - name: "11:00 - 12:00 Machine learninng approaches"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 16:30 Group exercise: Data collection"
+    - name: "16:30 - 17:30 Dinner"
+    - name: "18:00 - 20:00 Social programme: Sauna for gentlemen"
+    - name: "20:00 - 22:00 Social programme: Sauna for ladies"
+- date: 2018-06-21
+  name: "Network analysis"
+  events:
+    - name: "8:00 - 9:00 Breakfast"
+    - name: "9:00 - 12:00 Group exercise: Automated text analysis"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 15:30 Doing network analysis"
+    - name: "16:00 - 16:30 Live stream: Survey research in digital research"
+    - name: "16:30 - 17:00 Live stream: Probability and non-probability samples"
+    - name: "17:00 - 18:00 Live stream: Combining surveys and big data"
+    - name: "18:00 - 19:00 Dinner"
+- date: 2018-06-22
+  name: "Surveys"
+  events:
+    - name: "8:00 - 9:00 Breakfast"
+    - name: "9:00 - 10:30 Video recording: David Lazer"
+    - name: "10:30 - 12:00 Group exercise: Surveys"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 14:30 Group exercise: Surveys"
+    - name: "14:30 - 16:00 Experiments"
+    - name: "16:00 - 16:30 Live stream: Mass collaboration"
+    - name: "16:30 - 17:00 Live stream: Human computation"
+    - name: "17:00 - 18:00 Live stream: Distributed data collection"
+    - name: "18:00 - 19:00 Dinner"
+- date: 2018-06-23
+  name: "Mass collaboration & Experiments"
+  events:
+    - name: "8:00 - 9:00 Breakfast"
+    - name: "9:00 - 10:30 Video recording: Sendhil Mullainathan"
+    - name: "10:30 - 12:00 Experiment"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 17:00 Group exercise: Mass collaboration"
+    - name: "17:00 - 19:00 Social programme: Sauna for ladies"
+    - name: "19:00 - 21:00 Social programme: Sauna for gentlemen"
+- date: 2018-06-24
+  name: "Alternative Midsummer Festival"
+  events:
+    - name: "8:00 - 9:00 Breakfast"
+    - name: "10:00 - 12:00 Leaving Tvärminne"
+- date: 2018-06-25
+  name: "Working on group projects"
+  events:
+    - name: "8:30 - 10:00 Setting up for the group work"
+- date: 2018-06-26
+  name: "Working on group projects"
+  events:
+    - name: "15:00 - 16:00 Visiting lecture: Minna Ruckenstein - Broken Data"
+    - name: "18:30 - 22:00 Social programme: Visit to Sompasauna"
+- date: 2018-06-27
+  name: "Working on group projects"
+  events:
+    - name: "8:30 - 10:00 Video recording: Kristian Lum"
+    - name: "18:30 - 22:00 Social programme: Visit to Suomenlinna"
+- date: 2018-06-28
+  name: "Working on group projects"
+  events:
+    - name: "18:30 - 22:00 Social programme: Futurice visit & meeting Momo"
+- date: 2018-06-29
+  name: "Presenting group projects"
+  events:
+    - name: "10:00 - 15:30 Presenting group projects"
