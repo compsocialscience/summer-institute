@@ -1,100 +1,101 @@
 - date: 2018-06-18
-  name: Introduction and Ethics
+  name: "Introduction and ethics"
   events:
-    - name: 11:30 Lunch
-    - name: 12:30-13:00 Logistics
-    - name: 13:00-13:45 Introductions
-    - name: 14:00-15:00 Ethics, an European perspective
-    - name: 15:00-16:00 Panel - what is Computational Social Science?
-    - name: "16:15-16:30 Introduction to computational social science (LS)"
-    - name: "16:30-16:45 Why SICSS? (LS)"
-    - name: "17:00-18:00 Ethics: Principles-based approach (LS)"
-    - name: "18:00-19:00 Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty (LS)"
-    - name: 19:00 Dinner
-
+    - name: "9:30 - 11:30 To Tvärminne"
+    - name: "11:30 - 12:00 Getting organized"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 14:00 Introductions"
+    - name: "14:00 - 15:00 Panel: What is Computational Social Science?"
+    - name: "15:00 - 16:00 Ethics: Principles-based approach and European perspectives"
+    - name: "16:00 - 17:00 Live stream: Introduction to Computational Social Science"
+    - name: "17:00 - 18:00 Dinner"
+    - name: "18:00 - 19:00 Live Stream: Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty"
 - date: 2018-06-19
-  name: Collecting Digital Trace Data
+  name: "Automated data collection"
   events:
-    - name: 9:00-10:30 Guest Speaker (recording of Duncan Watts)
-    - name: 10:30-11:00 Guest Speaker (discussion)
-    - name: 11:00-11:30 What is digital trace data? and Strengths and weakness of digital trace data
-    - name: 11:30 Lunch
-    - name: 12:30-13:00 Screen-Scraping
-    - name: 13:00-14:00 Application Programming Interfaces
-    - name: 14:00-14:30 Apps for Social Science Research
-    - name: 14:30-15:30 Break
-    - name: 15:30-18:30 Group exercise (ethics & data collection)
-
+    - name: "8:00 - 9:00 Breakfast"
+    - name: "9:00 - 11:00 Video recording: Duncan Watts"
+    - name: "11:00 - 12:00 What is digital trace data"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 13:30 Demo: Screen scraping"
+    - name: "13:30 - 14:00 Demo: Application programming interfaces"
+    - name: "14:00 - 14:30 Demo: Aps for Social Science Research"
+    - name: "14:30 - 15:00 Demo: Open data"
+    - name: "15:00 - 16:30 Group exercise: Ethics"
+    - name: "16:30 - 17:30 Dinner"
+    - name: "17:30 - 20:00 Group exercise: Data collection"
 - date: 2018-06-20
-  name: Automated text analysis
+  name: "Automated text analysis"
   events:
-    - name: 9:00-9:15 Background of quantitative text analysis
-    - name: 9:15-9:30 Strengths and weakenesses of quantitative text analysis
-    - name: 9:30-9:45 Basic Text Analysis/GREP
-    - name: 9:45-10:00 Dictionary-Based Text Analysis
-    - name: 10:00-10:15 Break
-    - name: 10:15-11:00 Topic models and Beyond
-    - name: 11:00-12:00 Ngram Networks
-
+    - name: "8:00 - 9:00 Breakfast"
+    - name: "9:00 - 10:00 Background of qualitative text analysis"
+    - name: "10:00 - 10:30 Basic Text Analysis / GREP"
+    - name: "10:30 - 11:00 Dictionary-based methods"
+    - name: "11:00 - 12:00 Machine learninng approaches"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 16:30 Group exercise: Data collection"
+    - name: "16:30 - 17:30 Dinner"
+    - name: "18:00 - 20:00 Social programme: Sauna for gentlemen"
+    - name: "20:00 - 22:00 Social programme: Sauna for ladies"
 - date: 2018-06-21
-  name: Surveys
+  name: "Network analysis"
   events:
-    - name: 11:00-16:00 Group work (Automated text analysis)
-    - name: 16:00-16:15 Welcome and schedule (LS)
-    - name: 16:15-16:30 Survey research in the digital age (LS)
-    - name: 16:30-17:00 Probability and non-probability sampling (LS)
-    - name: 17:00-17:15 Break
-    - name: 17:45-18:00 Combining surveys and big data (LS)
-    - name: 18:00 Dinner
-
+    - name: "8:00 - 9:00 Breakfast"
+    - name: "9:00 - 12:00 Group exercise: Automated text analysis"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 15:30 Doing network analysis"
+    - name: "16:00 - 16:30 Live stream: Survey research in digital research"
+    - name: "16:30 - 17:00 Live stream: Probability and non-probability samples"
+    - name: "17:00 - 18:00 Live stream: Combining surveys and big data"
+    - name: "18:00 - 19:00 Dinner"
 - date: 2018-06-22
-  name: Mass Collaboration
+  name: "Surveys"
   events:
-    - name: 9:00-10:30 Guest Speaker (recording of David Lazer)
-    - name: 10:30-11:00 Guest Speaker (discussion)
-    - name: 11:00-16:00 Group work (Surveys)
-    - name: 16:00-16:10 Welcome and schedule (LS)
-    - name: 16:10-16:30 Mass collaboration (LS)
-    - name: 16:30-16:40 Human computation (LS)
-    - name: 16:40-16:50 Open call (LS)
-    - name: 16:50-17:00 Distributed data collection (LS)
-    - name: 17:00-17:15 Design advice (LS)
-    - name: 17:30 Dinner
-
+    - name: "8:00 - 9:00 Breakfast"
+    - name: "9:00 - 10:30 Video recording: David Lazer"
+    - name: "10:30 - 12:00 Group exercise: Surveys"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 14:30 Group exercise: Surveys"
+    - name: "14:30 - 16:00 Experiments"
+    - name: "16:00 - 16:30 Live stream: Mass collaboration"
+    - name: "16:30 - 17:00 Live stream: Human computation"
+    - name: "17:00 - 18:00 Live stream: Distributed data collection"
+    - name: "18:00 - 19:00 Dinner"
 - date: 2018-06-23
-  name: Experiments (Tentative schedule)
+  name: "Mass collaboration & Experiments"
   events:
-    - name: 9:00-10:30 Guest Speaker (recording of Sendhil Mullainathan)
-    - name: 10:30-11:00 Guest Speaker (discussion)
-    - name: 11:00-16:00 Group work (mass collaboration)
-    - name: 16:00 - 16:15 Welcome and schedule (LS)
-    - name: 16:15 - 16:45 What, why, and which experiments? (LS)
-    - name: 16:45 - 17:15 Moving beyond simple experiments (LS)
-    - name: 17:15 - 17:30 Coffee break
-    - name: 17:30 - 18:15 Four strategies for experiments (LS)
-    - name: 18:15 - 18:45 Zero variable cost data and musiclab (LS)
-    - name: 18:45 - 19:15 3 Rs (LS)
-
+    - name: "8:00 - 9:00 Breakfast"
+    - name: "9:00 - 10:30 Video recording: Sendhil Mullainathan"
+    - name: "10:30 - 12:00 Experiment"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 17:00 Group exercise: Mass collaboration"
+    - name: "17:00 - 19:00 Social programme: Sauna for ladies"
+    - name: "19:00 - 21:00 Social programme: Sauna for gentlemen"
 - date: 2018-06-24
-  name: Alternative midsummer festival party
-
+  name: "Alternative Midsummer Festival"
+  events:
+    - name: "8:00 - 9:00 Breakfast"
+    - name: "10:00 - 12:00 Leaving Tvärminne"
 - date: 2018-06-25
-  name: Work on projects
-
+  name: "Working on group projects"
+  events:
+    - name: "8:30 - 10:00 Setting up for the group work"
+    - name: "15:00 - 16:00 Visiting lecture: Veikko Eranti - Computational methods and social theory – stronger together"
 - date: 2018-06-26
-  name: Work on projects
-
+  name: "Working on group projects"
+  events:
+    - name: "15:00 - 16:00 Visiting lecture: Minna Ruckenstein - Broken Data"
+    - name: "18:30 - 22:00 Social programme: Visit to Sompasauna"
 - date: 2018-06-27
-  name: Work on projects
-
+  name: "Working on group projects"
+  events:
+    - name: "8:30 - 10:00 Video recording: Kristian Lum"
+    - name: "18:30 - 22:00 Social programme: Visit to Suomenlinna"
 - date: 2018-06-28
-  name: Work on projects
-
+  name: "Working on group projects"
+  events:
+    - name: "18:30 - 22:00 Social programme: Futurice visit & meeting Momo"
 - date: 2018-06-29
-  name: Present final projects
+  name: "Presenting group projects"
   events:
-    - name: Closing dinner
-
-- date: 2018-06-30
-  events:
-    - name: Students depart
+    - name: "10:00 - 15:30 Presenting group projects"
