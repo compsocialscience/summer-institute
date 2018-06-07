@@ -1,9 +1,8 @@
-- name: Matti Nelimarkka
-  image: /assets/images/MattiNelimarkka.jpeg
-  bio: "Matti Nelimarkka is a postdoc at the Department of Computer Science, Aalto University and instructor at the Faculty of Social Science, University of Helsinki.
-  His research examines the intersections of political science and data science as well as political science and human-computer interaction.
-  His current work focuses on racism in hybrid media systems, circulation of news, political polarization, agendas in political communication, power of algorithmic systems and politics in human-computer interaction."
-  website: http://me.mante.li
+- name: Marta Kołczyńska
+  image: /2018/helsinki/images/kolczynska.jpg
+  bio: "Marta Kołczyńska received her Ph.D. in sociology from The Ohio State University in 2017 and now is a postdoctoral researcher at the Institute of Philosophy and Sociology of the Polish Academy of Sciences.
+  Her research examines the causes and consequences of political attitudes and behavior, in particular the effects of educational stratification of these attitudes and behaviors on democracy, in cross-national perspective.
+  She is also exploring the opportunities of ex-post harmonization of cross-national survey data."
 
 - name: Cristóbal Moya
   image: /2018/helsinki/images/Cristobal_Moya.jpg
@@ -11,9 +10,31 @@
   He is co-researcher in the project “Justice, legitimacy, and social change: on the interaction between distributive and procedural justice” (funded by the National Commission for Scientific and Technological Research).
   His research interests include the legitimation of domination relations, social inequalities in the labour process and quantitative research methods."
 
+
 - name: Seraphine F. Maerz
   image: /assets/images/Seraphine Maerz.jpg
   bio: "Seraphine Maerz is a postdoctoral research associate at the University of Freiburg, Germany. 
   Her research concentrates on the survival strategies of authoritarian regimes in Central Asia and beyond. She is particularly interested in how autocratic leaders use the Internet to justify and stabilize their rule. 
   Her current research project compares the language of leaders from authoritarian regimes and democracies by using quantitative text analysis. Seraphine received her PhD from Central European University (CEU) in Budapest, Hungary."
   website: https://sites.google.com/view/seraphinemaerz/
+
+- name: Arpita Biswas
+  image: /2018/helsinki/images/ArpitaBiswas.JPG
+  bio: "Arpita Biswas is a Google PhD Fellow at the Department of Computer Science and Automation, Indian Institute of Science.
+  Her broad areas of interests include Algorithmic Game Theory, Machine Learning and Optimization.
+  She is presently looking at problems in Computational Social Choice Theory and Fairness in Machine Learning.
+  In Computational Social Choice Theory, she is working on the existence and hardness of various fairness notions while partitioning indivisible goods among agents.
+  She has prior experience in multi-agent learning (multi-armed bandit), incentive mechanisms, facility location, planning and scheduling etc.
+  and thus far she has worked on problems arising from real-world scenarios like online crowd-sourcing, resource allocation, dynamic pricing in transportation etc."
+  website: https://sites.google.com/view/arpitabiswas
+
+- name: Anders Grundtvig
+  image: /2018/helsinki/images/Anders.JPG
+  bio: "Anders Grundtvig is a Master student at Aalborg University where he study Techno-Anthropology. His field of interest is STS
+  (Science and Technology Studies) where he uses digital methods to map and understand human behaviour and social interactions.
+  His educational backbone builds on physical fieldworking and theories about interdisciplinarity and user-driven research. This
+  backbone has reseantly been combined with digital methods that opens new forms of investigation where the quali-quanti is
+  mixed together with digital-analouge research oppunities.
+  He has reseantly been working on the project 'A Field Guide to fake news' that investigated how we can understand the ecosystems
+  of fake news rather than just debunking them when found. And is now working on a project about personal digital data and trust
+  (or lack therof)."
