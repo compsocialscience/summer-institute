@@ -1,1 +1,43 @@
-- name: Not yet selected ;)
+- name: Marta Kołczyńska
+  image: /2018/helsinki/images/kolczynska.jpg
+  bio: "Marta Kołczyńska received her Ph.D. in sociology from The Ohio State University in 2017 and now is a postdoctoral researcher at the Institute of Philosophy and Sociology of the Polish Academy of Sciences.
+  Her research examines the causes and consequences of political attitudes and behavior, in particular the effects of educational stratification of these attitudes and behaviors on democracy, in cross-national perspective.
+  She is also exploring the opportunities of ex-post harmonization of cross-national survey data."
+
+- name: Cristóbal Moya
+  image: /2018/helsinki/images/Cristobal_Moya.jpg
+  bio: "Cristóbal Moya is a PhD student at the Institute of Sociology at Universidad Católica de Chile. He also works as a lecturer at the Master of Social Sciences, Universidad de Chile.
+  He is co-researcher in the project “Justice, legitimacy, and social change: on the interaction between distributive and procedural justice” (funded by the National Commission for Scientific and Technological Research).
+  His research interests include the legitimation of domination relations, social inequalities in the labour process and quantitative research methods."
+
+- name: Seraphine F. Maerz
+  image: /2018/helsinki/images/Seraphine_Maerz.jpg
+  bio: "Seraphine Maerz is a postdoctoral research associate at the University of Freiburg, Germany. 
+  Her research concentrates on the survival strategies of authoritarian regimes in Central Asia and beyond. She is particularly interested in how autocratic leaders use the Internet to justify and stabilize their rule. 
+  Her current research project compares the language of leaders from authoritarian regimes and democracies by using quantitative text analysis. Seraphine received her PhD from Central European University (CEU) in Budapest, Hungary."
+  website: https://sites.google.com/view/seraphinemaerz/
+
+- name: Arpita Biswas
+  image: /2018/helsinki/images/ArpitaBiswas.JPG
+  bio: "Arpita Biswas is a Google PhD Fellow at the Department of Computer Science and Automation, Indian Institute of Science.
+  Her broad areas of interests include Algorithmic Game Theory, Machine Learning and Optimization.
+  She is presently looking at problems in Computational Social Choice Theory and Fairness in Machine Learning.
+  In Computational Social Choice Theory, she is working on the existence and hardness of various fairness notions while partitioning indivisible goods among agents.
+  She has prior experience in multi-agent learning (multi-armed bandit), incentive mechanisms, facility location, planning and scheduling etc.
+  and thus far she has worked on problems arising from real-world scenarios like online crowd-sourcing, resource allocation, dynamic pricing in transportation etc."
+  website: https://sites.google.com/view/arpitabiswas
+
+- name: Anders Grundtvig
+  image: /2018/helsinki/images/Anders.JPG
+  bio: "Anders Grundtvig is a Master student at Aalborg University where he study Techno-Anthropology. His field of interest is STS
+  (Science and Technology Studies) where he uses digital methods to map and understand human behaviour and social interactions.
+  His educational backbone builds on physical fieldworking and theories about interdisciplinarity and user-driven research. This
+  backbone has reseantly been combined with digital methods that opens new forms of investigation where the quali-quanti is
+  mixed together with digital-analouge research oppunities.
+  He has reseantly been working on the project 'A Field Guide to fake news' that investigated how we can understand the ecosystems
+  of fake news rather than just debunking them when found. And is now working on a project about personal digital data and trust
+  (or lack therof)."
+
+- name: Ilse Pit
+  image: /2018/helsinki/images/ilse.png
+  bio: "Ilse Pit is a PhD candidate at the University of Amsterdam, at the department of Communication Science. She is broadly interested in how behaviour online might be (or might not be) different from offline behaviour. In her PhD project, she focuses on how people use visual means to express themselves with brands online. Specifically, she uses computer vision and manual methods to investigate brand representation in user-generated content on Instagram. She is further interested in statistics and (increasing) open science practices."
