@@ -3,7 +3,7 @@ layout: default
 title: Live Stream
 ---
 
-##Live Stream
+# Live Stream
 
 For those unable to attend one of the Summer Institutes in person, we will be live-streaming all lectures via separate YouTube links for each of the topics described below. Most of these lectures are from the lectures that will occur at Summer Institute at Duke, but additional talks will be livestreamed from the partner locations as well.
 
