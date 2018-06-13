@@ -9,13 +9,13 @@ For those unable to attend one of the Summer Institutes in person, we will be li
 
 
   - June 18
-    - [Introduction to Computational Social Science, Why SICSS, and Ethics](https://youtu.be/Dsj67UV7F2w) (9:15-12:00)
+    - [Introduction to Computational Social Science (What is CSS? Why SICS? and Ethics](https://youtu.be/Dsj67UV7F2w) (9:15-12:00)
     - [Duncan Watts](https://youtu.be/aqteIbI9-sQ) (4:00-5:30)
   - June 19
-    - [Collecting Digital Trace Data](https://youtu.be/1SssTabI2kg) (9:00-12:00)
+    - [Collecting Digital Trace Data (Screenscraping, APIs, Creating Apps and Bots for Social Science Research)](https://youtu.be/1SssTabI2kg) (9:00-12:00)
     - [Jim Wilson](https://youtu.be/EVMF33MNd4o) (4:00-5:30)
   - June 20
-    - [Automated Text Analysis](https://youtu.be/UehRelD300g) (9:00-12:00)
+    - [Automated Text Analysis (Basics, Dictionary-Based Approaches, Topic Modeling, Text Networks](https://youtu.be/UehRelD300g) (9:00-12:00)
   - June 21
     - [Surveys in the Digital Age](https://youtu.be/yQmFg-luNIM) (9:00-11:00)
     - [David Lazer](https://youtu.be/-whfzk1qlOo) (4:00-5:30)
