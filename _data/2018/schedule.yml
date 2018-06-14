@@ -6,15 +6,17 @@
   name: Introduction and Ethics
   events:
     - name: "9:00-9:15 Logistics (Not open to public/No livestream)"
-    - name: "9:15-9:30 Introductions (Not open to public/No livestream)" 
+    - name: "9:15-9:30 Introductions (Not open to public/No livestream)"
     - name: "9:30-9:45 Introduction to computational social science"
     - name: "9:45-10:00 Why SICSS?"
     - name: "10:00-10:15 Coffee Break"
     - name: "10:15-11:00 Ethics: Principles-based approach"
     - name: "11:00-12:00 Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty"
+    - name: "12:00-12:30 Introduction to the group exercise"
     - name: "12:30-1:30 Lunch (Not open to public/No livestream)"
-    - name: "1:30-4:00 Group Exercise (Not open to public/No livestream)"
-    - name: "4:00-5:30 Duncan Watts"
+    - name: "1:30-3:45 Group exercise (Not open to public/No livestream)"
+    - name: "3:45-4:00 Break"
+    - name: "4:00-5:30 Guest speaker: Duncan Watts"
     - name: "6:00-7:30 Dinner & discussion"
 
 - date: 2018-06-19
@@ -28,8 +30,9 @@
     - name: "10:30-11:00 Application Programming Interfaces"
     - name: "11:00-12:30 Building Apps and Bots for Social Science Research"
     - name: "12:30-1:30 Lunch (Not open to public/No livestream)"
-    - name: "1:30-4:00 Group Exercise (Not open to public/No livestream)"
-    - name: "4:00-5:30 Jim Wilson (Russell Sage Foundation)"
+    - name: "1:30-3:45 Group Exercise (Not open to public/No livestream)"
+    - name: "3:45-4:00 Break"
+    - name: "4:00-5:30 Guest speaker: Jim Wilson (Russell Sage Foundation)"
     - name: "6:00-7:30 Dinner & Discussion"
 
 - date: 2018-06-20
@@ -55,11 +58,11 @@
     - name: "9:30-10:00 Probability and non-probability sampling"
     - name: "10:00-10:15 Coffee break"
     - name: "10:45-11:00 Combining surveys and big data"
-    - name: "11:00-12:30 Begin group excercise (Not open to public/No livestream)"
+    - name: "11:00-12:30 Group exercise introduction and beginning"
     - name: "12:30-1:30 Lunch"
     - name: "1:30-3:45 Continue group excercise (Not open to public/No livestream)"
     - name: "3:45-4:00 Break"
-    - name: "4:00-5:30 David Lazer"
+    - name: "4:00-5:30 Guest speaker: David Lazer"
     - name: "6:00-7:30 Dinner & Discussion"
 
 - date: 2018-06-22
@@ -72,9 +75,11 @@
     - name: "9:50-10:00 Distributed data collection"
     - name: "10:00-10:15 Design advice"
     - name: "10:15-10:30 Coffee break"
-    - name: "10:30-12:00 Introduction to the Fragile Families Challenge"  
-    - name: "12:00-4:00 Fragile Families Challenge (Not open to public/No livestream)"
-    - name: "4:00-5:30 Sendhil Mullainathan"
+    - name: "10:30-12:30 Introduction to the Fragile Families Challenge"
+    - name: "12:30-1:30 Lunch"
+    - name: "1:30-3:45 Fragile Families Challenge (Not open to public/No livestream)"
+    - name: "3:45-4:00 Break"
+    - name: "4:00-5:30 Guest speaker: Sendhil Mullainathan"
     - name: "6:00-7:30 Dinner & Discussion"
 
 - date: 2018-06-23
