@@ -25,7 +25,7 @@
     - name: "9:00-9:15 Logistics (Not open to public/No livestream)"
     - name: "9:15-9:30 What is digital trace data?"
     - name: "9:30-9:45 Strengths and weakness of digital trace data"
-    - name: "9:45-10:15 Screen-Scraping"
+    - name: "9:45-10:15 Screen-Scraping [code/markdown](https://cbail.github.io/SICSS_Screenscraping_in_R.html)"
     - name: "10:15-10:30 Coffee Break"
     - name: "10:30-11:00 Application Programming Interfaces"
     - name: "11:00-12:30 Building Apps and Bots for Social Science Research"
