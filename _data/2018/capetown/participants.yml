@@ -1,3 +1,8 @@
+- name:  Chukwuedozie K. Ajaero 
+  image: /2018/capetown/images/Ajaero.jpg
+  bio: "Chukwuedozie K. Ajaero holds a PhD in Population Geography, which was funded with a grant from the International Foundation for Science (IFS) Stockholm, Sweden. He is a Postdoctoral Research Fellow with the Demography and Population Studies Programme of the University of the Witwatersrand, South Africa, and also a Lecturer in the Department of Geography, University of Nigeria, Nsukka. His areas of research interests include migration, environment and livelihoods linkages as well as health and quality of life studies. He has to his credit journal articles, book chapters, and is a co-author of a book titled “Climate Change and the Nigerian Environment"
+  website:
+
 - name: Mustafa Ali 
   image: /2018/capetown/images/Ali.jpg
   bio: "Mustafa Ali is doing Masters in Computer Science Department at university of Cape Town. He completed his Honors’ degree in Statistics and Computer Science at the university of Khartoum. In his MSc project he is developing subscription service for large astronomical data sets."
@@ -11,6 +16,11 @@
 - name:  Lamègou François Badjadouna
   image: /2018/capetown/images/Badjadouna.jpg
   bio: "Lamègou François Badjadouna works at the National Statistics Agency of Togo. He holds a Master degree in Economics and Statistical Engineering from the sub-Regional Institute of Statistics and Applied Economics of Yaoundé (Cameroon). His research focuses on how to leverage data analytics to foster better development policies."
+  website:
+ 
+ - name:  Flint Chenjera
+  image: /2018/capetown/images/Chenjera.jpg
+  bio: "Flint Chenjera is a graduate student at UCT. During the two years of MPhil demographic studies, Flint mastered aspects to do with dealing with demographic incomplete data, handling survey, textual, network, spatial and longitudinal data; using statistical tools such as excel, STATA and R. Flint holds an BSc degree in Statics from University of Zimbabwe and yet to complete an master’s degree in demography at University of Cape Town. His area of study is in family dynamics and child health."
   website:
 
 - name:  Robert Y. Djogbenou
@@ -48,6 +58,11 @@
   bio: "Alecia Ndlovu is currently completing her PhD in International Relations at Wits University. She holds a BA in International Relations and Applied Economics, as well as an MA (with distinction) in International Relations. Her main research and teaching interests are in political economy of development, politics and governance in Africa, comparative politics and quantitative research methods. Her thesis is entitled “Sustaining the unsustainable? Political institutions and development in sub-Saharan Africa’s resource economies.” It combines cross-national statistical research and fieldwork in four African countries—Ghana, Mozambique, Namibia and Zambia."
   website: 
 
+#- name: Nelly Ruth Nkhoma
+ # image: /2018/capetown/images/Nkhoma.jpg
+#  bio: "Nelly Ruth Nkhoma holds an Honours Degree in Population Studies and is currently studying towards an MPhil in Demography at the University of Cape Town. Her research interests lie in the field of public health specifically in child health and mortality. She has done work in policy research and monitoring and evaluation."
+ # website: 
+  
 - name: Emmanuel Olamijuwon 
   image: /2018/capetown/images/Olamijuwon.jpg
   bio: "Emmanuel Olamijuwon is a lecturer at the University of Swaziland. He is also a PhD candidate in demography and population studies at the University of the Witwatersrand, South Africa. His research adapts computational approaches in assessing the effectiveness of social media-based sexuality education in improving the sexual and reproductive health, knowledge and rights of young adults in Africa. By combining innovative and youth-friendly approaches, he hopes to drive new discussions on the role of digital media in demographic studies. Beside his high-level academic activities, Emmanuel also plays an active role in various interdisciplinary research projects many of which revolve around the social determinants of health, sexual and reproductive health, digital demography as well as the demography of African families. He is the coordinator of the Sexually Healthy and Young [SHY] Adults network (https://shyadult.org/)"
