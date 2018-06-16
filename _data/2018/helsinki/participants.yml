@@ -51,3 +51,15 @@
 - name: Yunus Emre Tapan
   image: /2018/helsinki/images/yunusemre_foto.JPG
   bio: "Yunus Emre Tapan is a master student in Middle East Studies at Middle East Technical University. His main area of interests are social network analysis and digital anthropology. In his MA thesis, he focuses on the extremists groups in online sphere. As an area studies student, He choses online sphere, specifically Twitter, as a fieldwork. He worked as a research assistant in a couple of funded projects inquiring on online radicalization and employing computational social science methods."
+
+- name: Florian Wanders
+  image: /2018/helsinki/images/FlorianWanders.jpeg
+  bio: "Florian Wanders is a doctoral student in Work and Organizational Psychology at the University of Amsterdam, The Netherlands.
+  His research focuses on the social dynamics surrounding norm violations and intersects with psychology, behavioral economics, and political science.
+  Next to his research he teaches statistics to bachelor and master students, and helps analyze data for his lab.
+  Prior to his PhD candidacy, he received a B.A. in cognitive neuroscience and an M.Sc. in organizational psychology."
+  website: https://florianwanders.github.io
+
+- name: Polina Rozenshtein
+  image: /2018/helsinki/images/rozenshtein.jpg
+  bio: Polina Rozenshtein is a last-year PhD student in Data Mining group of Aalto University. She received her MSc in Machine Learning and Data Mining from Aalto University in 2014. Her research interests include dynamic graph mining and social-networks analysis.
