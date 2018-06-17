@@ -4,6 +4,7 @@ $option-green: #477e5d;
 $option-orange: #ea8b18;
 $option-purple: #540690;
 $option-uwpurple: #4b2e83;
+$option-hunterpurple: #5f259f;
 $option-maroon: #861248;
 
 @mixin option-colorizer($color) {
@@ -63,6 +64,9 @@ $option-maroon: #861248;
 }
 .option-uwpurple {
   @include option-colorizer($option-uwpurple);
+}
+.option-hunterpurple {
+  @include option-colorizer($option-hunterpurple);
 }
 .option-maroon {
   @include option-colorizer($option-maroon);

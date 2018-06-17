@@ -6,11 +6,12 @@
   name: "Introduction and Ethics"
   events:
     - name: "9:00-9:15 Logistics (No livestream)"
-    - name: "9:15-10:45 Introduction to Computational social science (CSS)"
+    - name: "9:15-10:00 Welcome"
+    - name: "10:00-10:45 My journey to Computational Social Science - Vissého Adjiwanou"
     - name: "10:45-11:00 Coffee Break"
-    - name: "11:00-12:00 Sustainable Development Goals and CSS"
+    - name: "11:00-12:00 Sustainable Development Goals and CSS - Vissého Adjiwanou"
     - name: "12:00-1:00 Lunch"
-    - name: "1:00-3:00 Guest Speaker and discussion"
+    - name: "1:00-3:00 Participants introductive presentation - Guest Speaker and discussion: Gary King"
 
     - name: "3:00-3:15 Logistics (No livestream)"
     - name: "3:15-3:30 Introduction to computational social science (livestream from Duke)" 
@@ -27,9 +28,9 @@
     - name: "9:00-9:15 Logistics (No livestream)"
     - name: "9:15-10:45 Group Exercise on Ethics"
     - name: "10:45-11:00 Coffee Break"
-    - name: "11:00-12:00 Local presentation"
+    - name: "11:00-12:00 Marshini Chetty on ethics"
     - name: "12:00-1:00 Lunch"
-    - name: "1:00-3:00 Guest Speaker and discussion (Video from Duke)"
+    - name: "1:00-3:00 Marshini Chetty on Human Computer Interaction (HCI)"
 
     - name: "3:00-3:15 What is digital trace data? (livestream from Duke)"
     - name: "3:15-3:30 Strengths and weakness of digital trace data (livestream from Duke)"
@@ -45,9 +46,9 @@
     - name: "9:00-9:15 Logistics (No livestream)"
     - name: "9:15-10:45 Group Exercise on Digital Trace Data"
     - name: "10:45-11:00 Coffee Break"
-    - name: "11:00-12:00 Local presentation"
+    - name: "11:00-12:00 Group Exercise on Digital Trace Data"
     - name: "12:00-1:00 Lunch"
-    - name: "1:00-3:00 Guest Speaker and discussion (Video from Duke)"
+    - name: "1:00-3:00 Guest Speaker and discussion (Video from Duke): Jim Wilson"
 
     - name: "3:00-3:15 History of quantitative text analysis (livestream from Duke)"
     - name: "3:15-3:30 Strengths and weakenesses of quantitative text analysis (livestream from Duke)"
@@ -64,9 +65,9 @@
     - name: "9:00-9:15 Logistics (No livestream)"
     - name: "9:15-10:45 Group Exercise on Text Analysis"
     - name: "10:45-11:00 Coffee Break"
-    - name:  "11:00-12:00 Local presentation"
+    - name:  "11:00-12:00 Local presentation: Tom Moultrie"
     - name: "12:00-1:00 Lunch"
-    - name: "1:00-3:00 Guest Speaker and discussion (Video from Duke)"
+    - name: "1:00-3:00 Guest Speaker and discussion (Video from Duke): Ned Smith"
 
     - name: "3:00-3:30 Survey research in the digital age (livestream from Duke)"
     - name: "3:30-4:00 Probability and non-probability sampling (livestream from Duke)"
@@ -80,9 +81,9 @@
     - name: "9:00-9:15 Logistics (No livestream)"
     - name: "9:15-10:45 Group Exercise on Surveys"
     - name: "10:45-11:00 Coffee Break"
-    - name:  "11:00-12:00 Local presentation"
-    - name: "12:00-1:00 Lunch"
-    - name: "1:00-3:00 Guest Speaker and discussion (Video from Duke)"
+    - name:  "11:00-12:00 NIDS team, UCT"
+    - name: "12:00-12:30 Lunch"
+    - name: "12:30-2:00 Guest Speaker and discussion - Ridhi Kashyap (Skype) : Measuring gender inequalities using web data"
 
     - name: 3:00-3:10 Welcome and schedule (livestream from Duke)
     - name: 3:10-3:30 Mass collaboration (livestream from Duke)
@@ -100,9 +101,9 @@
     - name: "9:00-9:15 Logistics (No livestream)"
     - name: "9:15-10:45 Group Exercise on Mass Collaboration"
     - name: "10:45-11:00 Coffee Break"
-    - name:  "11:00-12:00 Local presentation"
+    - name:  "11:00-12:00 Vukosi Marivate"
     - name: "12:00-1:00 Lunch"
-    - name: "1:00-3:00 Guest Speaker and discussion (Video from Duke)"
+    - name: "1:00-3:00 Vukosi Marivate"
 
     - name: 3:00 - 3:15 Welcome and schedule (livestream from Duke)
     - name: 3:15 - 3:45 What, why, and which experiments? (livestream from Duke)
@@ -117,16 +118,26 @@
   name: Day off
 
 - date: 2018-06-25
-  name: Work on projects
+  name: training and group project from 2018-06-25 to 2018-06-28
+  events:
+    - name: "9:00-9:15 Logistics (No livestream)"
+    - name: "9:15-10:45 Training with Nick Feamster"
+    - name: "10:45-11:00 Coffee Break"
+    - name: "11:00-12:00 Exercise from training"
+    - name: "12:00-1:00 Lunch"
+    
+    - name: "1:00-4:15 Group project"
+    - name: "4:15 - 4:30 Coffee break"
+    - name: "4:30 - 6:00 Group project"
 
-- date: 2018-06-26
-  name: Work on projects
+#- date: 2018-06-26
+#  name: Work on projects
 
-- date: 2018-06-27
-  name: Work on projects
+#- date: 2018-06-27
+#  name: Work on projects
 
-- date: 2018-06-28
-  name: Work on projects
+#- date: 2018-06-28
+#  name: Work on projects
 
 - date: 2018-06-29
   name: Present final projects
