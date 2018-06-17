@@ -38,7 +38,7 @@
 - date: 2018-06-20
   name: Automated text analysis
   events:
-    - name: "9:00-9:15 Logistics (Not open to public/No livestream)"
+    - name: "9:00-9:15 Logistics (*Not open to public/No livestream*)"
     - name: "9:15-9:30 History of quantitative text analysis"
     - name: "9:30-9:45 Basic Text Analysis/GREP"
     - name: "9:45-10:00 Dictionary-Based Text Analysis"
@@ -53,14 +53,14 @@
 - date: 2018-06-21
   name: Surveys in the Digital Age
   events:
-    - name: "9:00-9:15 Logistics (Not open to public/No livestream)"
+    - name: "9:00-9:15 Logistics (*Not open to public/No livestream*)"
     - name: "9:15-9:30 Survey research in the digital age"
     - name: "9:30-10:00 Probability and non-probability sampling"
     - name: "10:00-10:15 Coffee break"
     - name: "10:45-11:00 Combining surveys and big data"
     - name: "11:00-12:30 Group exercise introduction and beginning"
     - name: "12:30-1:30 Lunch"
-    - name: "1:30-3:45 Continue group excercise (Not open to public/No livestream)"
+    - name: "1:30-3:45 Continue group excercise (*Not open to public/No livestream*)"
     - name: "3:45-4:00 Break"
     - name: "4:00-5:30 Guest speaker: David Lazer"
     - name: "6:00-7:30 Dinner & Discussion (*Not open to public/No livestream*)"
@@ -68,7 +68,7 @@
 - date: 2018-06-22
   name: Mass Collaboration
   events:
-    - name: "9:00-9:10 Logistics (Not open to public/No livestream)"
+    - name: "9:00-9:10 Logistics (*Not open to public/No livestream*)"
     - name: "9:10-9:30 Mass collaboration"
     - name: "9:30-9:40 Human computation"
     - name: "9:40-9:50 Open call"
@@ -77,7 +77,7 @@
     - name: "10:15-10:30 Coffee break"
     - name: "10:30-12:30 Introduction to the Fragile Families Challenge"
     - name: "12:30-1:30 Lunch"
-    - name: "1:30-3:45 Fragile Families Challenge (Not open to public/No livestream)"
+    - name: "1:30-3:45 Fragile Families Challenge (*Not open to public/No livestream*)"
     - name: "3:45-4:00 Break"
     - name: "4:00-5:30 Guest speaker: Sendhil Mullainathan"
     - name: "6:00-7:30 Dinner & Discussion (*Not open to public/No livestream*)"
