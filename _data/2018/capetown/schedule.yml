@@ -6,11 +6,12 @@
   name: "Introduction and Ethics"
   events:
     - name: "9:00-9:15 Logistics (No livestream)"
-    - name: "9:15-10:45 Introduction to Computational social science (CSS)"
+    - name: "9:15-10:00 Welcome"
+    - name: "10:00-10:45 My journey to Computational Social Science - Vissého Adjiwanou"
     - name: "10:45-11:00 Coffee Break"
-    - name: "11:00-12:00 Sustainable Development Goals and CSS"
+    - name: "11:00-12:00 Sustainable Development Goals and CSS - Vissého Adjiwanou"
     - name: "12:00-1:00 Lunch"
-    - name: "1:00-3:00 Guest Speaker and discussion"
+    - name: "1:00-3:00 Participants introductive presentation - Guest Speaker and discussion: Gary King"
 
     - name: "3:00-3:15 Logistics (No livestream)"
     - name: "3:15-3:30 Introduction to computational social science (livestream from Duke)" 
@@ -45,9 +46,9 @@
     - name: "9:00-9:15 Logistics (No livestream)"
     - name: "9:15-10:45 Group Exercise on Digital Trace Data"
     - name: "10:45-11:00 Coffee Break"
-    - name: "11:00-12:00 Local presentation"
+    - name: "11:00-12:00 Group Exercise on Digital Trace Data"
     - name: "12:00-1:00 Lunch"
-    - name: "1:00-3:00 Guest Speaker and discussion (Video from Duke)"
+    - name: "1:00-3:00 Guest Speaker and discussion (Video from Duke): Jim Wilson"
 
     - name: "3:00-3:15 History of quantitative text analysis (livestream from Duke)"
     - name: "3:15-3:30 Strengths and weakenesses of quantitative text analysis (livestream from Duke)"
@@ -64,9 +65,9 @@
     - name: "9:00-9:15 Logistics (No livestream)"
     - name: "9:15-10:45 Group Exercise on Text Analysis"
     - name: "10:45-11:00 Coffee Break"
-    - name:  "11:00-12:00 Local presentation"
+    - name:  "11:00-12:00 Local presentation: Tom Moultrie"
     - name: "12:00-1:00 Lunch"
-    - name: "1:00-3:00 Guest Speaker and discussion (Video from Duke)"
+    - name: "1:00-3:00 Guest Speaker and discussion (Video from Duke): Ned Smith"
 
     - name: "3:00-3:30 Survey research in the digital age (livestream from Duke)"
     - name: "3:30-4:00 Probability and non-probability sampling (livestream from Duke)"
@@ -80,9 +81,9 @@
     - name: "9:00-9:15 Logistics (No livestream)"
     - name: "9:15-10:45 Group Exercise on Surveys"
     - name: "10:45-11:00 Coffee Break"
-    - name:  "11:00-12:00 Local presentation"
-    - name: "12:00-1:00 Lunch"
-    - name: "1:00-3:00 Guest Speaker and discussion (Video from Duke)"
+    - name:  "11:00-12:00 NIDS team, UCT"
+    - name: "12:00-12:30 Lunch"
+    - name: "12:30-2:00 Guest Speaker and discussion - Ridhi Kashyap (Skype) : Measuring gender inequalities using web data"
 
     - name: 3:00-3:10 Welcome and schedule (livestream from Duke)
     - name: 3:10-3:30 Mass collaboration (livestream from Duke)

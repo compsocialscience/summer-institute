@@ -6,11 +6,12 @@
 - date: 2018-06-18
   name: "Introduction and Ethics (Room 2110)"
   events:
-    - name: "8:30-9:00 Breakfast"
-    - name: "9:00-10:00 Ethics: Principles-based approach **(Livestream)**"
-    - name: "10:00-11:00 Four areas of difficulty **(Livestream)**"
-    - name: "11:00-12:00 Guest Speaker (Local)"
-    - name: "12:00-3:00 Lunch and Group Exercise"
+    - name: "8:30-9:00 Breakfast [On Livestream:  Introduction to computational social science]"
+    - name: "9:15-9:30 Why SICSS?"
+    - name: "9:45-10:30 Ethics: Principles-based approach **(Livestream)**"
+    - name: "10:30-11:15 Four areas of difficulty **(Livestream)**"
+    - name: "11:15-12:15 Guest Speaker (Local)"
+    - name: "12:15-3:00 Lunch and Group Exercise"
     - name: "3:00-4:30 Guest Speaker **(Livestream)**"
 
 - date: 2018-06-19
@@ -18,7 +19,8 @@
   events:
     - name: "8:30-9:00 Breakfast"
     - name: "9:00-9:15 What is digital trace data?"
-    - name: "9:15-10:00 Application Programming Interfaces **(Livestream)**"
+    - name: "9:15-9:30 Strengths and weaknesses of digital trace data"
+    - name: "9:30-10:00 Application Programming Interfaces **(Livestream)**"
     - name: "10:00-11:00 Apps for Social Science Research **(Livestream)**"
     - name: "11:00-12:00 Guest Speaker (Local)"
     - name: "11:30-3:00 Lunch and Group Exercise"
