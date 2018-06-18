@@ -39,7 +39,7 @@
   name: Automated text analysis
   events:
     - name: "9:00-9:15 Logistics (*Not open to public/No livestream*)"
-    - name: "9:15-9:30 History of quantitative text analysis"
+    - name: "9:15-9:30 History of quantitative text analysis [slides](https://cbail.github.io/SICSS_History_Quantitative_Text.html)"
     - name: "9:30-9:45 Basic Text Analysis/GREP"
     - name: "9:45-10:00 Dictionary-Based Text Analysis"
     - name: "10:00-10:15 Coffee Break"
