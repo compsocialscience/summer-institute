@@ -5,11 +5,11 @@
     - name: "11:30 - 12:00 Getting organized"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 14:00 Introductions"
-    - name: "14:00 - 15:00 Panel: What is Computational Social Science?"
-    - name: "15:00 - 16:00 Ethics: Principles-based approach and European perspectives"
-    - name: "16:00 - 17:00 Live stream: Introduction to Computational Social Science"
-    - name: "17:00 - 18:00 Dinner"
-    - name: "18:00 - 19:00 Live Stream: Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty"
+    - name: "14:00 - 15:30 Panel: What is Computational Social Science?"
+    - name: "15:30 - 16:30 Ethics: Principles-based approach and European perspectives"
+    - name: "16:30 - 17:30 Dinner"
+    - name: "17:30 - 18:30 Live stream: Introduction to Computational Social Science"
+    - name: "18:30 - 19:30 Live Stream: Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty"
 - date: 2018-06-19
   name: "Automated data collection"
   events:
