@@ -41,7 +41,7 @@
     - name: "9:00-9:15 Logistics (*Not open to public/No livestream*)"
     - name: "9:15-9:30 History of quantitative text analysis [slides](https://cbail.github.io/SICSS_History_Quantitative_Text.html)"
     - name: "9:30-9:45 Basic Text Analysis/GREP [slides](https://cbail.github.io/SICSS_Basic_Text_Analysis_Slides.html), [annotated code](https://cbail.github.io/SICSS_Basic_Text_Analysis.html)"
-    - name: "9:45-10:00 Dictionary-Based Text Analysis"
+    - name: "9:45-10:00 Dictionary-Based Text Analysis [slides](https://cbail.github.io/SICSS_Dictionary_Based_Analysis_Slides.html), [annotated code](https://cbail.github.io/SICSS_Dictionary-Based_Text_Analysis.html)"
     - name: "10:00-10:15 Coffee Break"
     - name: "10:15-11:00 Topic models/Structural Topic Models"
     - name: "11:00-12:30 Text Networks and Signed Text Networks"
