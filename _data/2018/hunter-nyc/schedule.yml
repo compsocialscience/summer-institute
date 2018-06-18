@@ -1,28 +1,29 @@
 - date: 2018-06-18
   name: Introduction and Ethics
   events:
-    - name: "9:00-9:15 Introductions"
+    - name: "9:00-9:15 Welcome & Introductions"
     - name: "9:15-9:30 Logistics"
-    - name: "9:30-9:45 Introduction to computational social science"
-    - name: "9:45-10:00 Why SICSS?"
-    - name: "10:00-10:45 Ethics: Principles-based approach (Livestream)"
-    - name: "10:45-11:00 Break"
+    - name: "9:30-10:00 Introduction to computational social science (Livestream)"
+    - name: "10:00-10:30 Why SICSS (Livestream)?"
+    - name: "10:30-10:45 Break"
+    - name: "10:45-11:30 Ethics: Principles-based approach (Livestream)"
     - name: "11:00-12:00 Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty (Livestream)"
-    - name: "12:00-1:00 Lunch"
-    - name: "1:00-3:30 Introduction to R (Hand-On excercises)"
+    - name: "12:30-1:30 Lunch"
+    - name: "1:30-3:30 Introduction to R (Hand-On excercises)"
     - name: "3:30-4:00 Wrap Up Discussion"
 
 - date: 2018-06-19
   name: "Collecting Digital Trace Data"
   events:
-    - name: "9:00-9:15 What is digital trace data? (Livestream)"
-    - name: "9:15-9:30 Strengths and weakness of digital trace data (Livestream)"
-    - name: "9:30-10:00 Screen-Scraping (Livestream)"
-    - name: "10:00-10:15 Break"
-    - name: "10:15-11:00 Application Programming Interfaces (Livestream)"
-    - name: "11:00-12:00 Apps for Social Science Research (Livestream)"
-    - name: "12:00-1:00 Lunch"
-    - name: "1:00-3:30 Intermediate R (Hand-On excercises)"
+    - name: "9:00-9:15 Welcome and Logistics" 
+    - name: "9:15-9:30 What is digital trace data? (Livestream)"
+    - name: "9:30-9:45 Strengths and weakness of digital trace data (Livestream)"
+    - name: "9:45-10:15 Screen-Scraping (Livestream)"
+    - name: "10:15-10:30 Break"
+    - name: "10:30-11:00 Application Programming Interfaces (Livestream)"
+    - name: "11:00-12:30 Apps for Social Science Research (Livestream)"
+    - name: "12:30-1:30 Lunch"
+    - name: "1:30-3:30 Intermediate R (Hand-On excercises)"
     - name: "3:30-4:00 Wrap Up Discussion"
 
 - date: 2018-06-20
