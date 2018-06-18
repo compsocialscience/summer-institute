@@ -63,7 +63,7 @@
 - name: Polina Rozenshtein
   image: /2018/helsinki/images/rozenshtein.jpg
   bio: Polina Rozenshtein is a last-year PhD student in Data Mining group of Aalto University. She received her MSc in Machine Learning and Data Mining from Aalto University in 2014. Her research interests include dynamic graph mining and social-networks analysis.
-  
+
 - name: Jayesh Prakash Gupta
   image: /2018/helsinki/images/jayesh.jpg
   bio: "Jayesh Prakash Gupta, B.Eng., M.Sc. (Tech.) is a PhD Fellow at DARE Business Data Research Group & Novi Research Center, Laboratory of Industrial and Information Management at Tampere University of Technology, Tampere, Finland. He is working in the field of computational social science. His research currently focuses on enhancing collaboration in different contexts by identifying weak tie from Big Social Data using analytics method like social network analysis, social set analysis. He is the recipient of a four year full-time fellowship from Tampere University of Technology Foundation for his Doctoral work."
@@ -79,3 +79,7 @@
 - name: Sami Kotiranta
   image: /2018/helsinki/images/sami_kotiranta.png
   bio: "Sami Kotiranta is a political science doctoral student at the University of Helsinki with a research focus on data-informed decision-making and public sector leadership. He’s working as a research assistant at the United Nations University Word Institute of Development Economic Research (UNU-WIDER) contributing mainly to the maintenance of a large government revenue dataset."
+
+- name: Robin Lybeck
+  image: /2018/helsinki/images/RobinLybeck.png
+  bio: "Robin Lybeck is a PhD Candidate at the sociology department of Åbo Akademi University in Turku, Finland. The theme of his thesis is digital participation in urban planning. Currently, he is finishing a project involving the use of machine learning for the analysis of sentiment and themes in citizen feedback. Previously he has worked on a research project involving mobile participation applications in Turku University and Örebro University."
