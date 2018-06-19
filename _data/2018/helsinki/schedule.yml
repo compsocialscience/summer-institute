@@ -17,11 +17,11 @@
     - name: "9:00 - 11:00 Video recording: Duncan Watts"
     - name: "11:00 - 12:00 What is digital trace data"
     - name: "12:00 - 13:00 Lunch"
-    - name: "13:00 - 13:30 Demo: Screen scraping"
-    - name: "13:30 - 14:00 Demo: Application programming interfaces"
-    - name: "14:00 - 14:30 Demo: Aps for Social Science Research"
-    - name: "14:30 - 15:00 Demo: Open data"
-    - name: "15:00 - 16:30 Group exercise: Ethics"
+    - name: "13:00 - 14:30 Group exercise: Ethics"
+    - name: "14:30 - 15:00 Demo: Screen scraping"
+    - name: "15:00 - 15:30 Demo: Application programming interfaces"
+    - name: "15:30 - 16:00 Demo: Aps for Social Science Research"
+    - name: "16:00 - 16:30 Demo: Open data"
     - name: "16:30 - 17:30 Dinner"
     - name: "17:30 - 20:00 Group exercise: Data collection"
 - date: 2018-06-20
@@ -61,6 +61,7 @@
     - name: "16:30 - 17:00 Live stream: Human computation"
     - name: "17:00 - 18:00 Live stream: Distributed data collection"
     - name: "18:00 - 19:00 Dinner"
+    - name: "20:00 - 22:00 Social programme: Sauna for gentlemen"
 - date: 2018-06-23
   name: "Mass collaboration & Experiments"
   events:
