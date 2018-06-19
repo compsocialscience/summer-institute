@@ -19,6 +19,11 @@
   image: /2018/capetown/images/Vukosi.jpg
   bio: "Vukosi  Marivate holds a PhD in Computer Science (Rutgers University, as a Fulbright Scholar). He is a senior Data Scientist and acting research group leader for Data Science at the CSIR, focusing on creating/using Machine Learning/Artificial Intelligence to extract insights from data to tackle societal challenges. Vukosi is an organiser of the Deep Learning Indaba, the largest Machine Learning/Artificial Intelligence workshop on the African continent, aiming to strengthen African Machine Learning. He supervises postgraduate students and leads the CSIR’s Data Science student development program."
   website: http://www.vima.co.za
+
+- name: Nick Feamster 
+  image: /2018/capetown/images/Feamster.png
+  bio: "Nick Feamster is a professor in the Computer Science Department at Princeton University and the Deputy Director of the Princeton University Center for Information Technology Policy (CITP). Before joining the faculty at Princeton, he was a professor in the School of Computer Science at Georgia Tech. He received his Ph.D. in Computer science from MIT in 2005, and his S.B. and M.Eng. degrees in Electrical Engineering and Computer Science from MIT in 2000 and 2001, respectively. His research focuses on many aspects of computer networking and networked systems, with a focus on network operations, network security, and censorship-resistant communication systems. In December 2008, he received the Presidential Early Career Award for Scientists and Engineers (PECASE) for his contributions to cybersecurity, notably spam filtering. He is an ACM Fellow. His other honors include the Technology Review 35 "Top Young Innovators Under 35" award, the ACM SIGCOMM Rising Star Award, a Sloan Research Fellowship, the NSF CAREER award, the IBM Faculty Fellowship, the IRTF Applied Networking Research Prize, and award papers at the SIGCOMM Internet Measurement Conference (measuring Web performance bottlenecks), SIGCOMM (network-level behavior of spammers), the NSDI conference (fault detection in router configuration), Usenix Security (circumventing web censorship using Infranet), and Usenix Security (web cookie analysis)."
+  website: 
   
 - name: Deen Freelon
   #image: /assets/images/deen2.jpg
