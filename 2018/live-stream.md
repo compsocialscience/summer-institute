@@ -21,12 +21,15 @@ For those unable to attend one of the Summer Institutes in person, we will be li
     - [Jim Wilson](https://youtu.be/EVMF33MNd4o) (4:00-5:30 EST)
   - June 20
     - [Automated Text Analysis (Basics, Dictionary-Based Approaches, Topic Modeling, Text Networks](https://youtu.be/UehRelD300g) (9:00-12:00 EST)
+    - [Automated Text Analysis: Part 2](https://www.youtube.com/watch?v=aDHwpXqQZlA&feature=youtu.be) (10:30-12:00 EST)
     - [Ned Smith](https://youtu.be/N-ZXcuiysPc) (4:00-5:30 EST)
   - June 21
     - [Surveys in the Digital Age](https://youtu.be/yQmFg-luNIM) (9:00-11:00 EST)
+    - [Surveys: Parts 2](https://www.youtube.com/watch?v=ZcpkDQJadYY&feature=youtu.be) (10:30-12:00 EST)
     - [David Lazer](https://youtu.be/-whfzk1qlOo) (4:00-5:30 EST)
   - June 22
     - [Mass Collaboration](https://youtu.be/vcmOXA4i6mo) (9:00-10:15 EST)
+    - [Mass Collaboration: Part 2](https://www.youtube.com/watch?v=crqFYWh_qgM&feature=youtu.be) (10:30-12:00 EST)
     - [Abdullah Almaatouq - the Empirica.ly web experiment platform](https://youtu.be/hYcr-D-hG1A) (12:15-12:45 EST)
     - [Sendhil Mullainathan](https://youtu.be/PvJepkVGBRc) (4:00-5:30 EST)
   - June 22
