@@ -54,12 +54,12 @@
   name: Surveys in the Digital Age
   events:
     - name: "9:00-9:15 Logistics (*Not open to public/No livestream*)"
-    - name: "9:15-9:45 Survey research in the digital age [slides](https://github.com/compsocialscience/summer-institute/raw/master/2018/materials/day4-surveys/01-survey-research-digital-age.pdf)"
-    - name: "9:45-10:15 Probability and non-probability sampling [slides](https://github.com/compsocialscience/summer-institute/raw/master/2018/materials/day4-surveys/02-nonprobability-sampling.pdf)"
+    - name: "9:15-9:45 Survey research in the digital age [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/01-survey-research-digital-age.pdf)"
+    - name: "9:45-10:15 Probability and non-probability sampling [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/02-nonprobability-sampling.pdf)"
     - name: "10:15-10:30 Coffee break"
-    - name: "10:30-11:00 Computer-administered interviews and wiki surveys [slides](https://github.com/compsocialscience/summer-institute/raw/master/2018/materials/day4-surveys/03-computer-administered-interviews.pdf)"
-    - name: "11:00-11:30 Combining surveys and big data [slides](https://github.com/compsocialscience/summer-institute/raw/master/2018/materials/day4-surveys/03-computer-administered-interviews.pdf)"
-    - name: "11:30-11:45 Group exercise introduction [slides](https://github.com/compsocialscience/summer-institute/raw/master/2018/materials/day4-surveys/05-intro-to-activity.pdf)"
+    - name: "10:30-11:00 Computer-administered interviews and wiki surveys [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/03-computer-administered-interviews.pdf)"
+    - name: "11:00-11:30 Combining surveys and big data [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/04-combining-surveys-and-big-data.pdf)"
+    - name: "11:30-11:45 Group exercise introduction [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/05-intro-to-activity.pdf)"
     - name: "11:45-12:30 Begin group exercise (*Not open to public/No livestream*)"
     - name: "12:30-1:30 Lunch"
     - name: "1:30-3:45 Continue group exercise (*Not open to public/No livestream*)"
