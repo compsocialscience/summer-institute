@@ -25,7 +25,7 @@ For those unable to attend one of the Summer Institutes in person, we will be li
     - [Ned Smith](https://youtu.be/N-ZXcuiysPc) (4:00-5:30 EST)
   - June 21
     - [Surveys in the Digital Age](https://youtu.be/yQmFg-luNIM) (9:00-11:00 EST)
-    - [Surveys: Parts 2](https://www.youtube.com/watch?v=ZcpkDQJadYY&feature=youtu.be) (10:30-12:00 EST)
+    - [Surveys: Part 2](https://www.youtube.com/watch?v=ZcpkDQJadYY&feature=youtu.be) (10:30-12:00 EST)
     - [David Lazer](https://youtu.be/-whfzk1qlOo) (4:00-5:30 EST)
   - June 22
     - [Mass Collaboration](https://youtu.be/vcmOXA4i6mo) (9:00-10:15 EST)
