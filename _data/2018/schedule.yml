@@ -73,10 +73,10 @@
   name: Mass Collaboration
   events:
     - name: "9:00-9:15 Logistics (*Not open to public/No livestream*)"
-    - name: "9:15-9:30 Mass collaboration [slides]()"
-    - name: "9:30-9:45 Human computation [slides]()"
-    - name: "9:45-10:00 Open call [slides]()"
-    - name: "10:00-10:15 Distributed data collection [slides]()"
+    - name: "9:15-9:30 Mass collaboration [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day5-mass-collaboration/01-mass-collaboration.pdf)"
+    - name: "9:30-9:45 Human computation [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day5-mass-collaboration/02-human-computation.pdf)"
+    - name: "9:45-10:00 Open call [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day5-mass-collaboration/03-open-call.pdf)"
+    - name: "10:00-10:15 Distributed data collection [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day5-mass-collaboration/04-distributed-data-collection.pdf)"
     - name: "10:15-10:30 Coffee break"
     - name: "10:30-11:30 Introduction to the Fragile Families Challenge [slides coming soon]"
     - name: "11:30-12:30 Working on the Fragile Families Challenge (*Not open to public/No livestream*)"
