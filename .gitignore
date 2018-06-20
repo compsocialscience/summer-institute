@@ -13,3 +13,6 @@ vendor/
 *.toc
 *.gz(busy)
 *.DS_Store
+*.bbl
+*.blg
+instructors_only/
