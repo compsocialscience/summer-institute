@@ -36,15 +36,15 @@
     - name: "6:00-7:30 Dinner & Discussion (*Not open to public/No livestream*)"
 
 - date: 2018-06-20
-  name: Automated text analysis
+  name: Automated Text Analysis
   events:
     - name: "9:00-9:15 Logistics (*Not open to public/No livestream*)"
     - name: "9:15-9:30 History of quantitative text analysis [slides](https://cbail.github.io/SICSS_History_Quantitative_Text.html)"
     - name: "9:30-9:45 Basic Text Analysis/GREP [slides](https://cbail.github.io/SICSS_Basic_Text_Analysis_Slides.html), [annotated code](https://cbail.github.io/SICSS_Basic_Text_Analysis.html)"
     - name: "9:45-10:00 Dictionary-Based Text Analysis [slides](https://cbail.github.io/SICSS_Dictionary_Based_Analysis_Slides.html), [annotated code](https://cbail.github.io/SICSS_Dictionary-Based_Text_Analysis.html)"
     - name: "10:00-10:15 Coffee Break"
-    - name: "10:15-11:00 Topic models/Structural Topic Models [slides](https://cbail.github.io/SICSS_Topic_Modeling.html), [annotated code](cbail.github.io/SICSS_Topic_Modeling.html)"
-    - name: "11:00-12:30 Text Networks and Signed Text Networks"
+    - name: "10:15-11:15 Topic models/Structural Topic Models [slides](https://cbail.github.io/SICSS_Topic_Modeling.html), [annotated code](cbail.github.io/SICSS_Topic_Modeling.html)"
+    - name: "11:15-12:30 Text Networks"
     - name: "12:30-1:30 Lunch (Not open to public/No livestream)"
     - name: "1:30-4:00 Group Exercise (Not open to public/No livestream) [description of exercise](https://cbail.github.io/SICSS_Group_Exercise_Day_3.html)"
     - name: "No Guest Speaker Tonight"
