@@ -23,7 +23,7 @@
   name: "Collecting Digital Trace Data"
   events:
     - name: "9:00-9:15 Logistics (*Not open to public/No livestream*)"
-    - name: "9:15-9:30 What is digital trace data? [slides](https://cbail.github.io/SICSS_what_is_digital.html)" 
+    - name: "9:15-9:30 What is digital trace data? [slides](https://cbail.github.io/SICSS_What_is_Digital_Trace.html)"
     - name: "9:30-9:45 Strengths and weakness of digital trace data [slides](https://cbail.github.io/SICSS_strengths_weaknesses.html)"
     - name: "9:45-10:15 Screen-Scraping [slides](https://cbail.github.io/SICSS_Screenscraping.html), [annotated code](https://cbail.github.io/SICSS_Screenscraping_in_R.html)"
     - name: "10:15-10:30 Coffee Break"
@@ -36,17 +36,18 @@
     - name: "6:00-7:30 Dinner & Discussion (*Not open to public/No livestream*)"
 
 - date: 2018-06-20
-  name: Automated text analysis
+  name: Automated Text Analysis
   events:
     - name: "9:00-9:15 Logistics (*Not open to public/No livestream*)"
     - name: "9:15-9:30 History of quantitative text analysis [slides](https://cbail.github.io/SICSS_History_Quantitative_Text.html)"
     - name: "9:30-9:45 Basic Text Analysis/GREP [slides](https://cbail.github.io/SICSS_Basic_Text_Analysis_Slides.html), [annotated code](https://cbail.github.io/SICSS_Basic_Text_Analysis.html)"
     - name: "9:45-10:00 Dictionary-Based Text Analysis [slides](https://cbail.github.io/SICSS_Dictionary_Based_Analysis_Slides.html), [annotated code](https://cbail.github.io/SICSS_Dictionary-Based_Text_Analysis.html)"
     - name: "10:00-10:15 Coffee Break"
-    - name: "10:15-11:00 Topic models/Structural Topic Models [slides](https://cbail.github.io/SICSS_Topic_Modeling.html), [annotated code](cbail.github.io/SICSS_Topic_Modeling.html)"
-    - name: "11:00-12:30 Text Networks and Signed Text Networks"
+    - name: "10:15-11:15 Topic models/Structural Topic Models [slides](https://cbail.github.io/SICSS_Topic_Modeling.html), [annotated code](cbail.github.io/SICSS_Topic_Modeling.html)"
+    - name: "11:15-11:20 Break"
+    - name: "11:20-12:30 Text Networks [annotated code](https://cbail.github.io/SICSS_Text_Networks.html)"
     - name: "12:30-1:30 Lunch (Not open to public/No livestream)"
-    - name: "1:30-4:00 Group Exercise (Not open to public/No livestream)"
+    - name: "1:30-4:00 Group Exercise (Not open to public/No livestream) [description of exercise](https://cbail.github.io/SICSS_Group_Exercise_Day_3.html)"
     - name: "No Guest Speaker Tonight"
     - name: "6:00-7:30 Dinner & Discussion (*Not open to public/No livestream*)"
 
@@ -54,13 +55,16 @@
   name: Surveys in the Digital Age
   events:
     - name: "9:00-9:15 Logistics (*Not open to public/No livestream*)"
-    - name: "9:15-9:30 Survey research in the digital age"
-    - name: "9:30-10:00 Probability and non-probability sampling"
-    - name: "10:00-10:15 Coffee break"
-    - name: "10:45-11:00 Combining surveys and big data"
-    - name: "11:00-12:30 Group exercise introduction and beginning"
+    - name: "9:15-9:45 Survey research in the digital age [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/01-survey-research-digital-age.pdf)"
+    - name: "9:45-10:15 Probability and non-probability sampling [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/02-nonprobability-sampling.pdf)"
+    - name: "10:15-10:30 Coffee break"
+    - name: "10:30-11:00 Computer-administered interviews and wiki surveys [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/03-computer-administered-interviews.pdf)"
+    - name: "11:00-11:30 Combining surveys and big data [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/04-combining-surveys-and-big-data.pdf)"
+    - name: "11:30-12:00 Group exercise introduction [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/05-intro-to-activity.pdf)"
+    - name: "12:00-12:30 Begin group exercise (*Not open to public/No livestream*)"
     - name: "12:30-1:30 Lunch"
-    - name: "1:30-3:45 Continue group excercise (*Not open to public/No livestream*)"
+    - name: "1:30-3:15 Continue group exercise (*Not open to public/No livestream*)"
+    - name: "3:15-3:45 Discuss activity and open-source data [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/06-intro-to-open-sourcing-data.pdf) (*Not open to public/No livestream*)"
     - name: "3:45-4:00 Break"
     - name: "4:00-5:30 Guest speaker: David Lazer"
     - name: "6:00-7:30 Dinner & Discussion (*Not open to public/No livestream*)"
@@ -68,16 +72,17 @@
 - date: 2018-06-22
   name: Mass Collaboration
   events:
-    - name: "9:00-9:10 Logistics (*Not open to public/No livestream*)"
-    - name: "9:10-9:30 Mass collaboration"
-    - name: "9:30-9:40 Human computation"
-    - name: "9:40-9:50 Open call"
-    - name: "9:50-10:00 Distributed data collection"
-    - name: "10:00-10:15 Design advice"
+    - name: "9:00-9:15 Logistics (*Not open to public/No livestream*)"
+    - name: "9:15-9:30 Mass collaboration [slides coming soon]"
+    - name: "9:30-9:45 Human computation [slides coming soon]"
+    - name: "9:45-10:00 Open call [slides coming soon]"
+    - name: "10:00-10:15 Distributed data collection [slides coming soon]"
     - name: "10:15-10:30 Coffee break"
-    - name: "10:30-12:30 Introduction to the Fragile Families Challenge"
+    - name: "10:30-11:30 Introduction to the Fragile Families Challenge [slides coming soon]"
+    - name: "11:30-12:30 Working on the Fragile Families Challenge (*Not open to public/No livestream*)"
     - name: "12:30-1:30 Lunch"
-    - name: "1:30-3:45 Fragile Families Challenge (*Not open to public/No livestream*)"
+    - name: "1:30-3:30 Fragile Families Challenge (*Not open to public/No livestream*)"
+    - name: "3:30-3:45 Discussion of the Fragile Families Challenge (*Not open to public/No livestream*)"
     - name: "3:45-4:00 Break"
     - name: "4:00-5:30 Guest speaker: Sendhil Mullainathan"
     - name: "6:00-7:30 Dinner & Discussion (*Not open to public/No livestream*)"
