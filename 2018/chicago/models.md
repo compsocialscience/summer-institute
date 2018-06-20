@@ -1,3 +1,10 @@
+---
+layout: default
+title: Location & Directions
+partner_site: chicago
+---
+
+
 # Sample NetLogo Models
 [Name Game](http://netlogoweb.org/web?url=http://modelingcommons.org/browse/5218/model_contents&name=Name%20Game)
 
