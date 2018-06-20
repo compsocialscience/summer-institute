@@ -32,7 +32,7 @@ For those unable to attend one of the Summer Institutes in person, we will be li
     - [Mass Collaboration: Part 2](https://www.youtube.com/watch?v=crqFYWh_qgM&feature=youtu.be) (10:30-12:00 EST)
     - [Abdullah Almaatouq - the Empirica.ly web experiment platform](https://youtu.be/hYcr-D-hG1A) (12:15-12:45 EST)
     - [Sendhil Mullainathan](https://youtu.be/PvJepkVGBRc) (4:00-5:30 EST)
-  - June 22
+  - June 23
     - [Experiments in the Digital Age](https://youtu.be/Yblc41A2f_k) (9:15-12:15 EST)
   - June 25
     - [Deen Freelon](https://youtu.be/uHSCRDoJ0yM) (4:00-5:30 EST)
