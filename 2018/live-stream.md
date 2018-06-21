@@ -27,7 +27,7 @@ For those unable to attend one of the Summer Institutes in person, we will be li
   - June 21
     - [Surveys in the Digital Age](https://youtu.be/yQmFg-luNIM) (9:15-11:00 EST)
     - [Surveys: Part 2](https://www.youtube.com/watch?v=ZcpkDQJadYY&feature=youtu.be) (10:30-12:00 EST)
-    - [David Lazer] (4:00-5:30 EST)
+    - David Lazer (4:00-5:30 EST)
 	- [Siwei Cheng and Fangqi Wen](https://www.youtube.com/watch?v=EMQRRzH8jdY) (4:00-5:30 EST)
   - June 22
     - [Mass Collaboration](https://youtu.be/vcmOXA4i6mo) (9:15-10:15 EST)
