@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Location & Directions
+title: Formal Models in Social Science
 partner_site: chicago
 ---
 
