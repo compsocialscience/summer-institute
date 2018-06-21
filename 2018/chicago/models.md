@@ -22,7 +22,7 @@ Centola, D. M., Macy, M. W., & Whelan, S. (2005). Social life in Silico: The sci
 
 [Emperor's Dilemma](http://netlogoweb.org/web?url=http://modelingcommons.org/browse/5215/model_contents&name=Emperor%27s%20Dilemma)
 
-[Complex Problem Solving in networks](http://netlogoweb.org/web?url=http://modelingcommons.org/browse/5219/model_contents&name=Problem%20Solving%20in%20Networks)
+[Complex Problem Solving in networks](http://netlogoweb.org/web?url=http://modelingcommons.org/browse/5219/model_contents&name=Problem%20Solving%20in%20Networks) [must be downloaded to run]
 
 # Sample R Models
 [DeGroot Model of Belief Formation](https://github.com/joshua-a-becker/degroot-simulation)
