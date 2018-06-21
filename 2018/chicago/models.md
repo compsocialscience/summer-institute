@@ -28,3 +28,5 @@ Centola, D. M., Macy, M. W., & Whelan, S. (2005). Social life in Silico: The sci
 [DeGroot Model of Belief Formation](https://github.com/joshua-a-becker/degroot-simulation)
 
 [Best Response Name Game](https://github.com/NetworkDynamicsGroup/BestResponseNameGame/blob/master/BestResponseNameGame.R)
+
+[Complex Contagions](https://github.com/compsocialscience/summer-institute/blob/master/2018/chicago/complex_contagions.R)
