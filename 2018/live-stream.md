@@ -40,8 +40,8 @@ For those unable to attend one of the Summer Institutes in person, we will be li
   - June 25
     - [Deen Freelon](https://youtu.be/uHSCRDoJ0yM) (4:00-5:30 EST)
   - June 26
-    - Kristian Lum (4:00-5:30)
+    - Kristian Lum (4:00-5:30 EST)
   - June 27
-    - [Monica Lee](https://youtu.be/Kh71valic6Q) (4:00-5:30 EST)
+    - [Monica Lee](https://youtu.be/Kh71valic6Q) (12:30-2:00 EST)
   - June 29
     - [Agnes Horvat](https://youtu.be/28_U40dhJ_I) (11:00-12:00 EST)
