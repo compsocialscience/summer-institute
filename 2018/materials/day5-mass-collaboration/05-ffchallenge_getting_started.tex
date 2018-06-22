@@ -519,8 +519,7 @@ You can filter variables by:
 \item Topic
 \item Wave
 \item Respondent
-\item Source
-\item Variable Type
+\item Variable Type (e.g., continuous, ordered categorical, unordered categorical, etc).
 \end{itemize}
 
 \end{frame}	
@@ -627,49 +626,13 @@ Submission preparation instructions: \textcolor{blue}{\href{http://www.fragilefa
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{comment}
 \begin{frame}
 
-Get started with the constructed variables
+Most good approaches will likely involve \pause
 \begin{itemize}
-\item These are variables that domain experts think are important
-\item These variables have been partially pre-cleaned
-\item These variables add the additional prefix \alert{c} to the front of the variable name.
-\item For instance, \texttt{cm1ethrace} indicates constructed mother's wave 1 race/ethnicity.
-\item blog post: \small{\url{http://www.fragilefamilieschallenge.org/quick-start/}}
-\end{itemize}
-
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-Leverage the hundreds of papers already written with this data by domain experts
-\begin{center}
-\includegraphics[width=\textwidth]{figures/ffPub1}\\
-{\small \url{http://crcw.princeton.edu/publications/publications.asp}}
-\end{center}
-
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-Use the structure in the data\\
+\item careful data preparation
 \pause
-\begin{center}
-\includegraphics[width=0.4\textwidth]{figures/ffc_design_matrix_ml} vs. \includegraphics[width=0.4\textwidth]{figures/ff_design_public2}
-\end{center}
-
-\end{frame}
-\end{comment}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-How can you optimally combine human and machine effort? \\ \pause
-\begin{itemize}
-\item automatic feature selection
-\item human-assisted automatic feature selection 
-\item computer-assisted human feature selection
-\item some other hybrid
+\item flexible models that avoid overfitting
 \end{itemize}
 
 \end{frame}
@@ -681,7 +644,7 @@ Not all missing data is the same
 \begin{itemize}
 \item -9 Not in wave - Did not participate in survey/data collection component
 \item -6 Valid skip - Intentionally not asked question; question does not apply to respondent or response known based on prior information.
-\item -2 Don't know - Respondent asked question; responded ''Don't Know''.
+\item -2 Don't know - Respondent asked question; responded ``Don't Know''.
 \item -1 Refuse - Respondent asked question; refused to answer question
 \item NA also used occasionally
 \end{itemize}
@@ -691,11 +654,12 @@ Not all missing data is the same
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
-Most good approaches will likely involve \pause
+How can you optimally combine human and machine effort? \\ \pause
 \begin{itemize}
-\item careful data preparation
-\pause
-\item flexible models that avoid overfitting
+\item automatic feature selection
+\item human-assisted automatic feature selection 
+\item computer-assisted human feature selection
+\item some other hybrid
 \end{itemize}
 
 \end{frame}
