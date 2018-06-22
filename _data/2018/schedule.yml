@@ -91,12 +91,12 @@
   name: Experiments
   events:
     - name: "9:00-9:15 Logistics (*Not open to public/No livestream*)"
-    - name: "9:15-9:45 What, why, and which experiments? [slides coming soon]"
-    - name: "9:45-10:15 Moving beyond simple experiments [slides coming soon]"
+    - name: "9:15-9:45 What, why, and which experiments? [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/01-what-why-which-experiments.pdf)"
+    - name: "9:45-10:15 Moving beyond simple experiments [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/02-moving-beyond-simple-experiments.pdf)"
     - name: "10:15-10:30 Coffee break"
-    - name: "10:30-11:15 Four strategies for experiments [slides coming soon]"
-    - name: "11:15-11:45 Zero variable cost data and musiclab [slides coming soon]"
-    - name: "11:45-12:15 3 Rs [slides coming soon]"
+    - name: "10:30-11:15 Four strategies for experiments [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/03-making-it-happen.pdf)"
+    - name: "11:15-11:45 Zero variable cost data and musiclab [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/04-zero-variable-cost.pdf)"
+    - name: "11:45-12:15 3 Rs [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/05-three-rs.pdf)"
     - name: "12:15-12:30 Logistics (*Not open to public/No livestream*)"
     - name: "12:30-1:30 Lunch (*Not open to public/No livestream*)"
     - name: "Afternoon off"
