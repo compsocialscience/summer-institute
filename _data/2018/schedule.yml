@@ -43,9 +43,9 @@
     - name: "9:30-9:45 Basic Text Analysis/GREP [slides](https://cbail.github.io/SICSS_Basic_Text_Analysis_Slides.html), [annotated code](https://cbail.github.io/SICSS_Basic_Text_Analysis.html)"
     - name: "9:45-10:00 Dictionary-Based Text Analysis [slides](https://cbail.github.io/SICSS_Dictionary_Based_Analysis_Slides.html), [annotated code](https://cbail.github.io/SICSS_Dictionary-Based_Text_Analysis.html)"
     - name: "10:00-10:15 Coffee Break"
-    - name: "10:15-11:15 Topic models/Structural Topic Models [slides](https://cbail.github.io/SICSS_Topic_Modeling.html), [annotated code](cbail.github.io/SICSS_Topic_Modeling.html)"
+    - name: "10:15-11:15 Topic models/Structural Topic Models [slides](https://cbail.github.io/TopicModelingRpres.html), [annotated code](https://cbail.github.io/SICSS_Topic_Modeling.html)"
     - name: "11:15-11:20 Break"
-    - name: "11:20-12:30 Text Networks [annotated code](https://cbail.github.io/SICSS_Text_Networks.html)"
+    - name: "11:20-12:30 Text Networks [slides](https://cbail.github.io/SICSS_Text_Networks_Rpres.html), [annotated code](https://cbail.github.io/SICSS_Text_Networks.html)"
     - name: "12:30-1:30 Lunch (Not open to public/No livestream)"
     - name: "1:30-4:00 Group Exercise (Not open to public/No livestream) [description of exercise](https://cbail.github.io/SICSS_Group_Exercise_Day_3.html)"
     - name: "No Guest Speaker Tonight"
@@ -61,7 +61,7 @@
     - name: "10:30-11:00 Computer-administered interviews and wiki surveys [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/03-computer-administered-interviews.pdf)"
     - name: "11:00-11:30 Combining surveys and big data [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/04-combining-surveys-and-big-data.pdf)"
     - name: "11:30-12:00 Group exercise introduction [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/05-intro-to-activity.pdf)"
-    - name: "12:00-12:30 Begin group exercise (*Not open to public/No livestream*)"
+    - name: "12:00-12:30 Begin group exercise [desciption of exercise](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/SICSS_survey_activity_2018.pdf) (*Not open to public/No livestream*)"
     - name: "12:30-1:30 Lunch"
     - name: "1:30-3:15 Continue group exercise (*Not open to public/No livestream*)"
     - name: "3:15-3:45 Discuss activity and open-source data [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/06-intro-to-open-sourcing-data.pdf) (*Not open to public/No livestream*)"
@@ -73,15 +73,15 @@
   name: Mass Collaboration
   events:
     - name: "9:00-9:15 Logistics (*Not open to public/No livestream*)"
-    - name: "9:15-9:30 Mass collaboration [slides coming soon]"
-    - name: "9:30-9:45 Human computation [slides coming soon]"
-    - name: "9:45-10:00 Open call [slides coming soon]"
-    - name: "10:00-10:15 Distributed data collection [slides coming soon]"
+    - name: "9:15-9:30 Mass collaboration [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day5-mass-collaboration/01-mass-collaboration.pdf)"
+    - name: "9:30-9:45 Human computation [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day5-mass-collaboration/02-human-computation.pdf)"
+    - name: "9:45-10:00 Open call [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day5-mass-collaboration/03-open-call.pdf)"
+    - name: "10:00-10:15 Distributed data collection [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day5-mass-collaboration/04-distributed-data-collection.pdf)"
     - name: "10:15-10:30 Coffee break"
-    - name: "10:30-11:30 Introduction to the Fragile Families Challenge [slides coming soon]"
+    - name: "10:30-11:30 Introduction to the Fragile Families Challenge [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day5-mass-collaboration/05-ffchallenge_getting_started.pdf)"
     - name: "11:30-12:30 Working on the Fragile Families Challenge (*Not open to public/No livestream*)"
     - name: "12:30-1:30 Lunch"
-    - name: "1:30-3:30 Fragile Families Challenge (*Not open to public/No livestream*)"
+    - name: "1:30-3:30 Fragile Families Challenge [Leaderboard](https://codalab.fragilefamilieschallenge.org/competitions/23) (*Not open to public/No livestream*)"
     - name: "3:30-3:45 Discussion of the Fragile Families Challenge (*Not open to public/No livestream*)"
     - name: "3:45-4:00 Break"
     - name: "4:00-5:30 Guest speaker: Sendhil Mullainathan"
@@ -90,13 +90,14 @@
 - date: 2018-06-23
   name: Experiments
   events:
-    - name: "9:00 - 9:15 Logistics"
-    - name: "9:15 - 9:45 What, why, and which experiments?"
-    - name: "9:45 - 10:15 Moving beyond simple experiments"
-    - name: "10:15 - 10:30 Coffee break"
-    - name: "10:30 - 11:15 Four strategies for experiments"
-    - name: "11:15 - 11:45 Zero variable cost data and musiclab"
-    - name: "11:45 - 12:15 3 Rs"
+    - name: "9:00-9:15 Logistics (*Not open to public/No livestream*)"
+    - name: "9:15-9:45 What, why, and which experiments? [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/01-what-why-which-experiments.pdf)"
+    - name: "9:45-10:15 Moving beyond simple experiments [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/02-moving-beyond-simple-experiments.pdf)"
+    - name: "10:15-10:30 Coffee break"
+    - name: "10:30-11:15 Four strategies for experiments [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/03-making-it-happen.pdf)"
+    - name: "11:15-11:45 Zero variable cost data and musiclab [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/04-zero-variable-cost.pdf)"
+    - name: "11:45-12:15 3 Rs [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/05-three-rs.pdf)"
+    - name: "12:15-12:30 Logistics (*Not open to public/No livestream*)"
     - name: "12:30-1:30 Lunch (*Not open to public/No livestream*)"
     - name: "Afternoon off"
 
@@ -106,6 +107,7 @@
 - date: 2018-06-25
   name: Work on projects (Not open to public/No livestream)
   events:
+    - name: "11:00 - 12:00 Gary King (not in person)"
     - name: "4:00 - 5:30 Deen Freelon"
 
 - date: 2018-06-26

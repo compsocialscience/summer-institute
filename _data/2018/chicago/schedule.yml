@@ -44,15 +44,18 @@
   name: Computational Models and Experiments (Room 2110)
   events:
     - name: "8:30-9:00 Breakfast"
-    - name: "9:00-9:15 Why Experiments?"
-    - name: "9:15-10:00 Four strategies for Experiments **(2017 SICSS Stream)**"
+    - name: "9:00-9:15 Logistics"
+    - name: "9:15-9:30 Why Experiments?"
+    - name: "9:30-9:45 Generating theories using formal models"
+    - name: "9:45-10:00 Web experiments using free and open source platforms"
     - name: "10:00-10:15 Coffee break"
-    - name: "10:15-10:30 Web experiments using free and open source platforms"
-    - name: "10:30-11:00 Generating theories with formal models"
-    - name: "11:00-11:15 Simulations for computational modeling"
-    - name: "11:15-11:45 Introduction to Empirica.ly for web experiments"
-    - name: "11:45-12:00 Introduction to Fragile Families Challenge"
-    - name: "12:00-4:30 Group Projects Planning Session"
+    - name: "10:15-11:00 Moving beyind simple experiments **(2017 Livestream Video)**"
+    - name: "11:00-11:30 Four strategies for experiments **(2017 Livestream Video)**"
+    - name: "11:30-12:00 Introduction to Emprica.ly"
+    - name: "12:00-12:15 Introduction to Ground Truth / Red Team Challenge"
+    - name: "12:15-12:30 Introduction to Fragile Families Challenge"
+    - name: "12:30-3:30 Fragile Families Challenge"
+    - name: "3:30-5:00 Plan group projects"
 
 - date: 2018-06-23
   name: "Work on group projects (On-site optional - Room 5134, 5164, 5424, 5460)"
