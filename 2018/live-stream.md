@@ -35,8 +35,10 @@ For those unable to attend one of the Summer Institutes in person, we will be li
   - June 22
     - [Experiments in the Digital Age](https://youtu.be/Yblc41A2f_k) (9:15-12:15 EST)
   - June 25
+    - [Veikko Eranti - Computational methods and social theory – stronger together](https://www.youtube.com/watch?v=JsKbPt6JCuI) (8:00-8:45 EST)
     - [Deen Freelon](https://youtu.be/uHSCRDoJ0yM) (4:00-5:30 EST)
   - June 26
+    - [Minna Ruckenstein - Broken Data](https://www.youtube.com/watch?v=tAx2AJcuCic) (8:00-8:45 EST)
     - Kristian Lum (4:00-5:30)
   - June 27
     - [Monica Lee](https://youtu.be/Kh71valic6Q) (4:00-5:30 EST)
