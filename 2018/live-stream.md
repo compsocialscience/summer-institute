@@ -42,7 +42,7 @@ For those unable to attend one of the Summer Institutes in person, we will be li
     - [Deen Freelon](https://youtu.be/uHSCRDoJ0yM) (4:00-5:30 EST)
   - June 26
     - [Minna Ruckenstein - Broken Data](https://www.youtube.com/watch?v=tAx2AJcuCic) (8:00-8:45 EST)
-    - Kristian Lum (4:00-5:30 EST)
+    - [Kristian Lum](https://www.youtube.com/watch?v=b4J7DnMesSU&feature=youtu.be) (4:00-5:30 EST)
   - June 27
     - [Monica Lee](https://youtu.be/Kh71valic6Q) (12:30-2:00 EST)
   - June 29
