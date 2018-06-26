@@ -109,7 +109,8 @@
   events:
     - name: "11:00 - 12:00 Gary King (not in person)"
     - name: "12:30 - 12:45 Flash Talk: Cleaning up the data cleaning process: Reproducible data cleaning in R (Anne Helby Petersen)"
-    - name: "12:45 - 1:00 Flash Talk: Entropy and information-theoretic methods for text analysis (Ryan J. Gallagher)"
+    - name: "12:45 - 1:00 Flash Talk: Entropy and information-theoretic methods for text analysis (Ryan J. Gallagher) [slides](https://github.com/compsocialscience/summer-institute/tree/master/2018/materials/flash-talks/2018-SICSS-InfoTheoryTextAnalysis-Gallagher.pdf
+)"
     - name: "4:00 - 5:30 Guest speaker: Deen Freelon"
 
 - date: 2018-06-26
