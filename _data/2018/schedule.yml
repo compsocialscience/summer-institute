@@ -7,14 +7,20 @@
   events:
     - name: "9:00 - 9:15 Logistics (*Not open to public/No livestream*)"
     - name: "9:15 - 9:30 Introductions (*Not open to public/No livestream*)"
-    - name: "9:30 - 10:00 Introduction to computational social science **[slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/02-intro-computational-social-science.pdf)**"
-    - name: "10:00 - 10:30 Why SICSS? [slides](https://cbail.github.io/Why_SICSS.html)"
+    - name: "9:30 - 10:00 Introduction to computational social science 
+    * [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/02-intro-computational-social-science.pdf)"
+    - name: "10:00 - 10:30 Why SICSS?
+    * [slides](https://cbail.github.io/Why_SICSS.html)"
     - name: "10:30 - 10:45 Coffee Break"
-    - name: "10:45 - 11:30 Ethics: Principles-based approach [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/03-ethics.pdf)"
-    - name: "11:30 - 12:15 Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/04-areas-of-difficulty.pdf)"
-    - name: "12:15 - 12:30 Introduction to the group exercise [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/05-intro-group-exercise.pdf)"
+    - name: "10:45 - 11:30 Ethics: Principles-based approach 
+    * [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/03-ethics.pdf)"
+    - name: "11:30 - 12:15 Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty 
+    * [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/04-areas-of-difficulty.pdf)"
+    - name: "12:15 - 12:30 Introduction to the group exercise 
+    * [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/05-intro-group-exercise.pdf)"
     - name: "12:30 - 1:30 Lunch (*Not open to public/No livestream*)"
-    - name: "1:30 - 3:45 Group exercise (Not open to public/No livestream) [case study 1](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/ethics_activity.pdf), [case study 2](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf)"
+    - name: "1:30 - 3:45 Group exercise (Not open to public/No livestream) 
+    * [case study 1](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/ethics_activity.pdf), [case study 2](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf)"
     - name: "3:45 - 4:00 Break"
     - name: "4:00 - 5:30 Guest speaker: Duncan Watts"
     - name: "6:00 - 7:30 Dinner & discussion (*Not open to public/No livestream*)"
