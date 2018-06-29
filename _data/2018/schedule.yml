@@ -158,6 +158,9 @@
   name: Present final projects
   events:
     - name: "12:30 - 5:00 Presentation of Group Projects"
+    - name: "2:30 - 2:45 Fun Clustering of SICSS participants (Tina Law, Jeff Lockhart)"
+    - name: "2:45 - 3:00 Facebook for demographics and surveys in developing countries (Anne Helby Petersen, Francesco Rampazzo, Leah Rosenzweig, Katherine Hoffmann Pham, Tina Law, Julien Migozzi)"
+    - name: "3:00 - 3:30 Cracking the Coding Interview (Dave Holtz, Janet Xu, Sanaz Mobasseri, Zanele Munyikwa, and Lily Fesler)"
     - name: "Closing dinner (*Not open to public/No livestream*)"
 
 - date: 2018-06-30
