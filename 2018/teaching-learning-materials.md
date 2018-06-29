@@ -11,7 +11,7 @@ title: Teaching & learning materials
 - Introduction to computational social science
   - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/02-intro-computational-social-science.pdf)
 - Why SICSS? 
-  - [Slides](https://cbail.github.io/Why_SICSS.html)
+  - [Slides](https://compsocialscience.github.io/summer-institute/2018/materials/day1-intro-ethics/bail_why_sicss/Why_SICSS.html)
 - Ethics: Principles-based approach 
   - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/03-ethics.pdf)
 - Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty
