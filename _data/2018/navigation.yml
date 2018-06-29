@@ -4,8 +4,8 @@
   url: "/2018/#pre-arrival"
 - name: Schedule
   url: "/2018/#schedule"
-  #- name: Teaching & learning materials
-  #  url: "/2018/teaching-learning-materials"
+- name: Teaching & learning materials
+  url: "/2018/teaching-learning-materials"
 - name: Live Stream
   url: "/2018/live-stream"
 - name: Apply
