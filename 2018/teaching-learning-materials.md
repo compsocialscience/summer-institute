@@ -6,16 +6,23 @@ title: Teaching & learning materials
 # Teaching & learning materials 
 ## 2018 Summer Institute in Computational Social Science
 
-### Day 1
+### Day 1: Introduction and Ethics
 
-- Introduction to computational social science [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/02-intro-computational-social-science.pdf)
-- Why SICSS? [slides](https://cbail.github.io/Why_SICSS.html)
-- Ethics: Principles-based approach [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/03-ethics.pdf)
+- Introduction to computational social science
+
+* [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/02-intro-computational-social-science.pdf)
+- Why SICSS? 
+
+* [Slides](https://cbail.github.io/Why_SICSS.html)
+
+- Ethics: Principles-based approach 
+
+* [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/03-ethics.pdf)
 - Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/04-areas-of-difficulty.pdf)
 - Introduction to the group exercise [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/05-intro-group-exercise.pdf)
 - Group Exercise [case study 1](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/ethics_activity.pdf), [case study 2](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf)
 
-### Day 2
+### Day 2: Collecting Digital Trace Data
 
 - What is digital trace data? [slides](https://cbail.github.io/SICSS_What_is_Digital_Trace.html)
 - Strengths and weakness of digital trace data [slides](https://cbail.github.io/SICSS_strengths_weaknesses.html)
@@ -24,7 +31,7 @@ title: Teaching & learning materials
 - Building Apps and Bots for Social Science Research [slides](https://cbail.github.io/SICSS_Building Apps_Rpres.html), [annotated code](https://cbail.github.io/SICSS_Building_Apps_and_Bots_for_Social_Science_Research.html)
 - Group Exercise [description of exercise](https://cbail.github.io/SICSS_Group_Exercise_Day_2.html)
 
-### Day 3
+### Day 3: Automated Text Analysis
 
 - History of quantitative text analysis [slides](https://cbail.github.io/SICSS_History_Quantitative_Text.html)
 - Basic Text Analysis/GREP [slides](https://cbail.github.io/SICSS_Basic_Text_Analysis_Slides.html), [annotated code](https://cbail.github.io/SICSS_Basic_Text_Analysis.html)
@@ -33,7 +40,7 @@ title: Teaching & learning materials
 - Text Networks [slides](https://cbail.github.io/SICSS_Text_Networks_Rpres.html), [annotated code](https://cbail.github.io/SICSS_Text_Networks.html)
 - Group Exercise [description of exercise](https://cbail.github.io/SICSS_Group_Exercise_Day_3.html)
 
-### Day 4
+### Day 4: Surveys in the Digital Age
 
 - Survey research in the digital age [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/01-survey-research-digital-age.pdf)
 - Probability and non-probability sampling [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/02-nonprobability-sampling.pdf)
@@ -43,7 +50,7 @@ title: Teaching & learning materials
 - Group exercise [desciption of exercise](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/SICSS_survey_activity_2018.pdf) 
 - Discuss activity and open-source data [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/06-intro-to-open-sourcing-data.pdf)
 
-### Day 5
+### Day 5: Mass Collaboration
 
 - Mass collaboration [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day5-mass-collaboration/01-mass-collaboration.pdf)
 - Human computation [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day5-mass-collaboration/02-human-computation.pdf)
@@ -52,7 +59,7 @@ title: Teaching & learning materials
 - Introduction to the Fragile Families Challenge [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day5-mass-collaboration/05-ffchallenge_getting_started.pdf)
 - Fragile Families Challenge [Leaderboard](https://codalab.fragilefamilieschallenge.org/competitions/23) 
 
-### Day 6
+### Day 6: Experiments
 
 - What, why, and which experiments? [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/01-what-why-which-experiments.pdf)
 - Moving beyond simple experiments [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/02-moving-beyond-simple-experiments.pdf)
