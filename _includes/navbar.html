@@ -44,13 +44,13 @@
                   {% if child.separator %}
                     <li role="separator" class="divider"></li>
                   {% else %}
-                    <li><a href="{{ child.url | prepend: site.baseurl }}">{{ child.name }}</a></li>
+                    <li><a href="{{ child.url | prepend: site.baseurl }}">{{ child.name | markdownify }}</a></li>
                   {% endif %}
                 {% endfor %}
               </ul>
             </li>
           {% else %}
-          <li><a href="{{ navlink.url | prepend: site.baseurl }}">{{ navlink.name }}</a></li>
+          <li><a href="{{ navlink.url | prepend: site.baseurl }}">{{ navlink.name | markdownify }}</a></li>
           {% endif %}
         {% endfor %}
       </ul>
