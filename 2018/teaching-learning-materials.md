@@ -1,0 +1,105 @@
+---
+layout: default
+title: Teaching & learning materials
+---
+
+# Teaching & learning materials
+
+- Logistics (*Not open to public/No livestream*)
+- Introductions (*Not open to public/No livestream*)
+- Introduction to computational social science [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/02-intro-computational-social-science.pdf)
+- Why SICSS? [slides](https://cbail.github.io/Why_SICSS.html)
+- Coffee Break
+- Ethics: Principles-based approach [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/03-ethics.pdf)
+- Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/04-areas-of-difficulty.pdf)
+- Introduction to the group exercise [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/05-intro-group-exercise.pdf)
+- Lunch (*Not open to public/No livestream*)
+- Group exercise (Not open to public/No livestream) [case study 1](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/ethics_activity.pdf), [case study 2](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf)
+- Break
+- Guest speaker: Duncan Watts
+- Dinner & discussion (*Not open to public/No livestream*)
+- Logistics (*Not open to public/No livestream*)
+- What is digital trace data? [slides](https://cbail.github.io/SICSS_What_is_Digital_Trace.html)
+- Strengths and weakness of digital trace data [slides](https://cbail.github.io/SICSS_strengths_weaknesses.html)
+- Screen-Scraping [slides](https://cbail.github.io/SICSS_Screenscraping.html), [annotated code](https://cbail.github.io/SICSS_Screenscraping_in_R.html)
+- Coffee Break
+- Application Programming Interfaces [slides](https://cbail.github.io/SICSS_APIs.html), [annotated code](https://cbail.github.io/SICSS_APIs_markdown.html)
+- Building Apps and Bots for Social Science Research [slides](https://cbail.github.io/SICSS_Building Apps_Rpres.html), [annotated code](https://cbail.github.io/SICSS_Building_Apps_and_Bots_for_Social_Science_Research.html)
+- Lunch (Not open to public/No livestream)
+- Group Exercise (Not open to public/No livestream) [description of exercise](https://cbail.github.io/SICSS_Group_Exercise_Day_2.html)
+- Break
+- Guest speaker: Jim Wilson (Russell Sage Foundation)
+- Dinner & Discussion (*Not open to public/No livestream*)
+- Logistics (*Not open to public/No livestream*)
+- History of quantitative text analysis [slides](https://cbail.github.io/SICSS_History_Quantitative_Text.html)
+- Basic Text Analysis/GREP [slides](https://cbail.github.io/SICSS_Basic_Text_Analysis_Slides.html), [annotated code](https://cbail.github.io/SICSS_Basic_Text_Analysis.html)
+- Dictionary-Based Text Analysis [slides](https://cbail.github.io/SICSS_Dictionary_Based_Analysis_Slides.html), [annotated code](https://cbail.github.io/SICSS_Dictionary-Based_Text_Analysis.html)
+- Coffee Break
+- Topic models/Structural Topic Models [slides](https://cbail.github.io/TopicModelingRpres.html), [annotated code](https://cbail.github.io/SICSS_Topic_Modeling.html)
+- Break
+- Text Networks [slides](https://cbail.github.io/SICSS_Text_Networks_Rpres.html), [annotated code](https://cbail.github.io/SICSS_Text_Networks.html)
+- Lunch (Not open to public/No livestream)
+- Group Exercise (Not open to public/No livestream) [description of exercise](https://cbail.github.io/SICSS_Group_Exercise_Day_3.html)
+- No Guest Speaker Tonight
+- Dinner & Discussion (*Not open to public/No livestream*)
+- Logistics (*Not open to public/No livestream*)
+- Survey research in the digital age [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/01-survey-research-digital-age.pdf)
+- Probability and non-probability sampling [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/02-nonprobability-sampling.pdf)
+- Coffee break
+- Computer-administered interviews and wiki surveys [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/03-computer-administered-interviews.pdf)
+- Combining surveys and big data [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/04-combining-surveys-and-big-data.pdf)
+- Group exercise introduction [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/05-intro-to-activity.pdf)
+- Begin group exercise [desciption of exercise](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/SICSS_survey_activity_2018.pdf) (*Not open to public/No livestream*)
+- Lunch
+- Continue group exercise (*Not open to public/No livestream*)
+- Discuss activity and open-source data [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/06-intro-to-open-sourcing-data.pdf) (*Not open to public/No livestream*)
+- Break
+- Guest speaker: David Lazer
+- Dinner & Discussion (*Not open to public/No livestream*)
+- Logistics (*Not open to public/No livestream*)
+- Mass collaboration [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day5-mass-collaboration/01-mass-collaboration.pdf)
+- Human computation [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day5-mass-collaboration/02-human-computation.pdf)
+- Open call [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day5-mass-collaboration/03-open-call.pdf)
+- Distributed data collection [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day5-mass-collaboration/04-distributed-data-collection.pdf)
+- Coffee break
+- Introduction to the Fragile Families Challenge [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day5-mass-collaboration/05-ffchallenge_getting_started.pdf)
+- Working on the Fragile Families Challenge (*Not open to public/No livestream*)
+- Lunch
+- Fragile Families Challenge [Leaderboard](https://codalab.fragilefamilieschallenge.org/competitions/23) (*Not open to public/No livestream*)
+- Discussion of the Fragile Families Challenge (*Not open to public/No livestream*)
+- Break
+- Guest speaker: Sendhil Mullainathan
+- Dinner & Discussion (*Not open to public/No livestream*)
+- Logistics (*Not open to public/No livestream*)
+- What, why, and which experiments? [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/01-what-why-which-experiments.pdf)
+- Moving beyond simple experiments [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/02-moving-beyond-simple-experiments.pdf)
+- Coffee break
+- Four strategies for experiments [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/03-making-it-happen.pdf)
+- Zero variable cost data and musiclab [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/04-zero-variable-cost.pdf)
+- 3 Rs [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/05-three-rs.pdf)
+- Logistics (*Not open to public/No livestream*)
+- Lunch (*Not open to public/No livestream*)
+- Afternoon off
+- Gary King (not in person)
+- Flash Talk: Cleaning up the data cleaning process: Reproducible data cleaning in R (Anne Helby Petersen) [slides](https://github.com/compsocialscience/summer-institute/tree/master/2018/materials/flash-talks/annehelbypetersen_datamaid_slides.pdf)
+- Flash Talk: Entropy and information-theoretic methods for text analysis (Ryan J. Gallagher) [slides](https://github.com/compsocialscience/summer-institute/tree/master/2018/materials/flash-talks/2018-SICSS-InfoTheoryTextAnalysis-Gallagher.pdf)
+- Guest speaker: Deen Freelon
+- Flash Talk: Running R Studio in your web browser/in the cloud with AWS (Chris Bail)
+- Flash Talk: Making .Rpres and .rmarkdown files (Chris Bail)
+- Flash Talk: Text interpretation & the Constitution (Trang (Mae) Nguyen)
+- Flash Talk: Open Review Toolkit (Matthew Salganik)
+- Flash Talk: Utility from beliefs and information - and an experiment on persuasion (David Hagmann)
+- Flash Talk: Parallelism Basics for Data Analysis (plus: How to Get 5,000x Speedup without Really Trying) (Jeff Lockhart)
+- Guest speaker: Kristian Lum (not in person)
+- Flash Talk: Facebook's Advertising Platform data for Demographic Research (Francesco Rampazzo)
+- Flash Talk: Machine translation and bag of words models (Martijn Schoonvelde)
+- Guest speaker: Monica Lee
+- A new dataset on nonprofits from the IRS (Stan Oklobdzija)
+- Flash Talk: Deep Learning: Primer and (Cool) Applications (Hussein Mohsen)
+- Flash Talk: Urban big data: opportunities and challenges (Tina Law)
+- Flash Talk: Using Github/Git to manage code and collaborate with others (David Holtz)
+- Flash Talk: Network effects on Inequality (Eaman Jahani)
+- Guidelines for group project prensentations [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/logistics/group-project-presentations.pdf)
+- Guest speaker: Kieran Healy
+- Presentation of Group Projects
+- Closing dinner (*Not open to public/No livestream*)
