@@ -4,7 +4,7 @@ title: Teaching & learning materials
 ---
 
 # Teaching & learning materials 
-## 2018 Summer Institute in Computational Social Science
+### 2018 Summer Institute in Computational Social Science
 
 ### Day 1: Introduction and Ethics
 
@@ -23,12 +23,18 @@ title: Teaching & learning materials
 
 ### Day 2: Collecting Digital Trace Data
 
-- What is digital trace data? [slides](https://cbail.github.io/SICSS_What_is_Digital_Trace.html)
-- Strengths and weakness of digital trace data [slides](https://cbail.github.io/SICSS_strengths_weaknesses.html)
-- Screen-Scraping [slides](https://cbail.github.io/SICSS_Screenscraping.html), [annotated code](https://cbail.github.io/SICSS_Screenscraping_in_R.html)
-- Application Programming Interfaces [slides](https://cbail.github.io/SICSS_APIs.html), [annotated code](https://cbail.github.io/SICSS_APIs_markdown.html)
-- Building Apps and Bots for Social Science Research [slides](https://cbail.github.io/SICSS_Building Apps_Rpres.html), [annotated code](https://cbail.github.io/SICSS_Building_Apps_and_Bots_for_Social_Science_Research.html)
-- Group Exercise [description of exercise](https://cbail.github.io/SICSS_Group_Exercise_Day_2.html)
+- What is digital trace data? 
+  - [Slides](https://compsocialscience.github.io/summer-institute/2018/materials/day2-digital-trace-data/what-is-digital-trace-data/SICSS_What_is_Digital_Trace.html)
+- Strengths and weakness of digital trace data 
+  - [Slides](https://compsocialscience.github.io/summer-institute/2018/materials/day2-digital-trace-data/strengths-weaknesses/Rpres/SICSS_strengths_weaknesses.html)
+- Screen-Scraping 
+  - [Slides](https://compsocialscience.github.io/summer-institute/2018/materials/day2-digital-trace-data/screenscraping/Rpres/SICSS_Screenscraping.html), [Annotated code](https://compsocialscience.github.io/summer-institute/2018/materials/day2-digital-trace-data/screenscraping/rmarkdown/SICSS_Screenscraping_in_R.html)
+- Application Programming Interfaces 
+  - [Slides](https://cbail.github.io/SICSS_APIs.html), [annotated code](https://cbail.github.io/SICSS_APIs_markdown.html)
+- Building Apps and Bots for Social Science Research 
+  - [Slides](https://cbail.github.io/SICSS_Building Apps_Rpres.html), [annotated code](https://cbail.github.io/SICSS_Building_Apps_and_Bots_for_Social_Science_Research.html)
+- Group Exercise 
+  - [Description of exercise](https://cbail.github.io/SICSS_Group_Exercise_Day_2.html)
 
 ### Day 3: Automated Text Analysis
 
