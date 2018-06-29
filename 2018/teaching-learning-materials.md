@@ -30,9 +30,9 @@ title: Teaching & learning materials
 - Screen-Scraping 
   - [Slides](https://compsocialscience.github.io/summer-institute/2018/materials/day2-digital-trace-data/screenscraping/Rpres/SICSS_Screenscraping.html), [Annotated code](https://compsocialscience.github.io/summer-institute/2018/materials/day2-digital-trace-data/screenscraping/rmarkdown/SICSS_Screenscraping_in_R.html)
 - Application Programming Interfaces 
-  - [Slides](https://cbail.github.io/SICSS_APIs.html), [annotated code](https://cbail.github.io/SICSS_APIs_markdown.html)
+  - [Slides](https://compsocialscience.github.io/summer-institute/2018/materials/day2-digital-trace-data/apis/Rpres/SICSS_APIs.html), [Annotated code](https://compsocialscience.github.io/summer-institute/2018/materials/day2-digital-trace-data/apis/rmarkdown/SICSS_APIs_markdown.html)
 - Building Apps and Bots for Social Science Research 
-  - [Slides](https://cbail.github.io/SICSS_Building Apps_Rpres.html), [annotated code](https://cbail.github.io/SICSS_Building_Apps_and_Bots_for_Social_Science_Research.html)
+  - [Slides](https://compsocialscience.github.io/summer-institute/2018/materials/day2-digital-trace-data/building-apps-bots/Rpres/SICSS_Building%20Apps_Rpres.html), [Annotated code](https://compsocialscience.github.io/summer-institute/2018/materials/day2-digital-trace-data/building-apps-bots/rmarkdown/Building%20Apps%20and%20Bots%20for%20Social%20Science%20Research.nb.html)
 - Group Exercise 
   - [Description of exercise](https://cbail.github.io/SICSS_Group_Exercise_Day_2.html)
 
