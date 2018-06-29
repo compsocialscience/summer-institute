@@ -9,16 +9,13 @@ title: Teaching & learning materials
 ### Day 1: Introduction and Ethics
 
 - Introduction to computational social science
-
-* [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/02-intro-computational-social-science.pdf)
+-- [**Slides**](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/02-intro-computational-social-science.pdf)
 - Why SICSS? 
-
-* [Slides](https://cbail.github.io/Why_SICSS.html)
-
+-- [**Slides**](https://cbail.github.io/Why_SICSS.html)
 - Ethics: Principles-based approach 
-
-* [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/03-ethics.pdf)
-- Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/04-areas-of-difficulty.pdf)
+-- [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/03-ethics.pdf)
+- Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty
+-- [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/04-areas-of-difficulty.pdf)
 - Introduction to the group exercise [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/05-intro-group-exercise.pdf)
 - Group Exercise [case study 1](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/ethics_activity.pdf), [case study 2](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf)
 
