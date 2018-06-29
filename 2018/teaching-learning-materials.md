@@ -9,15 +9,17 @@ title: Teaching & learning materials
 ### Day 1: Introduction and Ethics
 
 - Introduction to computational social science
--- [**Slides**](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/02-intro-computational-social-science.pdf)
+  - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/02-intro-computational-social-science.pdf)
 - Why SICSS? 
--- [**Slides**](https://cbail.github.io/Why_SICSS.html)
+  - [Slides](https://cbail.github.io/Why_SICSS.html)
 - Ethics: Principles-based approach 
--- [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/03-ethics.pdf)
+  - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/03-ethics.pdf)
 - Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty
--- [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/04-areas-of-difficulty.pdf)
-- Introduction to the group exercise [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/05-intro-group-exercise.pdf)
-- Group Exercise [case study 1](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/ethics_activity.pdf), [case study 2](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf)
+  - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/04-areas-of-difficulty.pdf)
+- Introduction to the group exercise 
+  - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/05-intro-group-exercise.pdf)
+- Group Exercise
+  - [Case study 1](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/ethics_activity.pdf), [Case study 2](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf)
 
 ### Day 2: Collecting Digital Trace Data
 
@@ -66,6 +68,9 @@ title: Teaching & learning materials
 
 ### Participant flash talks
 
-- Flash Talk: Cleaning up the data cleaning process: Reproducible data cleaning in R (Anne Helby Petersen) [slides](https://github.com/compsocialscience/summer-institute/tree/master/2018/materials/flash-talks/annehelbypetersen_datamaid_slides.pdf)
-- Flash Talk: Entropy and information-theoretic methods for text analysis (Ryan J. Gallagher) [slides](https://github.com/compsocialscience/summer-institute/tree/master/2018/materials/flash-talks/2018-SICSS-InfoTheoryTextAnalysis-Gallagher.pdf)
+- Flash Talk: Cleaning up the data cleaning process: Reproducible data cleaning in R (Anne Helby Petersen) 
+  - [Slides](https://github.com/compsocialscience/summer-institute/tree/master/2018/materials/flash-talks/annehelbypetersen_datamaid_slides.pdf)
+- Flash Talk: Entropy and information-theoretic methods for text analysis (Ryan J. Gallagher) 
+  - [Slides](https://github.com/compsocialscience/summer-institute/tree/master/2018/materials/flash-talks/2018-SICSS-InfoTheoryTextAnalysis-Gallagher.pdf)
 
+Raw materials for many of these slides--including images, .Rmd, and .tex files---are available [here](https://github.com/compsocialscience/summer-institute/tree/master/2018/materials).
