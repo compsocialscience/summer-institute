@@ -38,7 +38,8 @@ title: Teaching & learning materials
 
 ### Day 3: Automated Text Analysis
 
-- History of quantitative text analysis [slides](https://cbail.github.io/SICSS_History_Quantitative_Text.html)
+- History of quantitative text analysis 
+  -[Slides](https://cbail.github.io/SICSS_History_Quantitative_Text.html)
 - Basic Text Analysis/GREP [slides](https://cbail.github.io/SICSS_Basic_Text_Analysis_Slides.html), [annotated code](https://cbail.github.io/SICSS_Basic_Text_Analysis.html)
 - Dictionary-Based Text Analysis [slides](https://cbail.github.io/SICSS_Dictionary_Based_Analysis_Slides.html), [annotated code](https://cbail.github.io/SICSS_Dictionary-Based_Text_Analysis.html)
 - Topic models/Structural Topic Models [slides](https://cbail.github.io/TopicModelingRpres.html), [annotated code](https://cbail.github.io/SICSS_Topic_Modeling.html)
