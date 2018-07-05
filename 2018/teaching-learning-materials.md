@@ -40,11 +40,20 @@ title: Teaching & learning materials
 
 - History of quantitative text analysis 
   - [Slides](https://cbail.github.io/SICSS_History_Quantitative_Text.html)
-- Basic Text Analysis/GREP [slides](https://cbail.github.io/SICSS_Basic_Text_Analysis_Slides.html), [annotated code](https://cbail.github.io/SICSS_Basic_Text_Analysis.html)
-- Dictionary-Based Text Analysis [slides](https://cbail.github.io/SICSS_Dictionary_Based_Analysis_Slides.html), [annotated code](https://cbail.github.io/SICSS_Dictionary-Based_Text_Analysis.html)
-- Topic models/Structural Topic Models [slides](https://cbail.github.io/TopicModelingRpres.html), [annotated code](https://cbail.github.io/SICSS_Topic_Modeling.html)
-- Text Networks [slides](https://cbail.github.io/SICSS_Text_Networks_Rpres.html), [annotated code](https://cbail.github.io/SICSS_Text_Networks.html)
-- Group Exercise [description of exercise](https://cbail.github.io/SICSS_Group_Exercise_Day_3.html)
+- Basic Text Analysis/GREP 
+  - [Slides](https://cbail.github.io/SICSS_Basic_Text_Analysis_Slides.html)
+  _ [Annotated code](https://cbail.github.io/SICSS_Basic_Text_Analysis.html)
+- Dictionary-Based Text Analysis 
+  - [Slides](https://cbail.github.io/SICSS_Dictionary_Based_Analysis_Slides.html)
+  - [Annotated code](https://cbail.github.io/SICSS_Dictionary-Based_Text_Analysis.html)
+- Topic models/Structural Topic Models 
+  - [Slides](https://cbail.github.io/TopicModelingRpres.html)
+  - [Annotated code](https://cbail.github.io/SICSS_Topic_Modeling.html)
+- Text Networks 
+  - [Slides](https://cbail.github.io/SICSS_Text_Networks_Rpres.html)
+  - [Annotated code](https://cbail.github.io/SICSS_Text_Networks.html)
+- Group Exercise 
+  - [Description of exercise](https://cbail.github.io/SICSS_Group_Exercise_Day_3.html)
 
 ### Day 4: Surveys in the Digital Age
 
