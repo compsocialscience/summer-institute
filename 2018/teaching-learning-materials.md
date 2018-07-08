@@ -34,26 +34,26 @@ title: Teaching & learning materials
 - Building Apps and Bots for Social Science Research 
   - [Slides](https://compsocialscience.github.io/summer-institute/2018/materials/day2-digital-trace-data/building-apps-bots/Rpres/SICSS_Building%20Apps_Rpres.html), [Annotated code](https://compsocialscience.github.io/summer-institute/2018/materials/day2-digital-trace-data/building-apps-bots/rmarkdown/Building%20Apps%20and%20Bots%20for%20Social%20Science%20Research.nb.html)
 - Group Exercise 
-  - [Description of exercise](https://cbail.github.io/SICSS_Group_Exercise_Day_2.html)
+  - [Description of exercise](https://compsocialscience.github.io/summer-institute/2018/materials/day2-digital-trace-data/SICSS_Group_Exercise_Day_2.html)
 
 ### Day 3: Automated Text Analysis
 
 - History of quantitative text analysis 
-  - [Slides](https://cbail.github.io/SICSS_History_Quantitative_Text.html)
+  - Slides (link coming soon)
 - Basic Text Analysis/GREP 
-  - [Slides](https://cbail.github.io/SICSS_Basic_Text_Analysis_Slides.html)
-  _ [Annotated code](https://cbail.github.io/SICSS_Basic_Text_Analysis.html)
+  - [Slides](https://compsocialscience.github.io/summer-institute/2018/materials/day3-text-analysis/basic-text-analysis/Rpres/SICSS_Basic_Text_Analysis_Slides.html)
+  - [Annotated code](https://compsocialscience.github.io/summer-institute/2018/materials/day3-text-analysis/basic-text-analysis/rmarkdown/Basic_Text_Analysis_in_R.html)
 - Dictionary-Based Text Analysis 
-  - [Slides](https://cbail.github.io/SICSS_Dictionary_Based_Analysis_Slides.html)
-  - [Annotated code](https://cbail.github.io/SICSS_Dictionary-Based_Text_Analysis.html)
+  - Slides (link coming soon)
+  - [Annotated code](https://compsocialscience.github.io/summer-institute/2018/materials/day3-text-analysis/dictionary-methods/rmarkdown/SICSS_Dictionary-Based_Text_Analysis.html)
 - Topic models/Structural Topic Models 
-  - [Slides](https://cbail.github.io/TopicModelingRpres.html)
-  - [Annotated code](https://cbail.github.io/SICSS_Topic_Modeling.html)
+  - [Slides](https://compsocialscience.github.io/summer-institute/2018/materials/day3-text-analysis/topic-modeling/Rpres/SICSS_Topic_Modeling.html)
+  - [Annotated code](https://compsocialscience.github.io/summer-institute/2018/materials/day3-text-analysis/topic-modeling/rmarkdown/SICSS_Topic_Modeling.html)
 - Text Networks 
-  - [Slides](https://cbail.github.io/SICSS_Text_Networks_Rpres.html)
-  - [Annotated code](https://cbail.github.io/SICSS_Text_Networks.html)
+  - [Slides](https://compsocialscience.github.io/summer-institute/2018/materials/day3-text-analysis/text-networks/Rpres/SICSS_Text_Networks.html)
+  - [Annotated code](https://compsocialscience.github.io/summer-institute/2018/materials/day3-text-analysis/text-networks/rmarkdown/SICSS_Text_Networks.html)
 - Group Exercise 
-  - [Description of exercise](https://cbail.github.io/SICSS_Group_Exercise_Day_3.html)
+  - [Description of exercise](https://compsocialscience.github.io/summer-institute/2018/materials/day3-text-analysis/SICSS_Group_Exercise_Day_3.html)
 
 ### Day 4: Surveys in the Digital Age
 
