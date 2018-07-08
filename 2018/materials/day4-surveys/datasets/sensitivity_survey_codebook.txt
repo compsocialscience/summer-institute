@@ -1,0 +1,196 @@
+These data were collected on 21-JUNE-2018 as part of the Summer Institute in
+Computational Social Science at Duke University. The survey items are posted
+on the website of the summer institute, which also generously provided the
+funding for this survey. Participants were recruited via Amazon Mechanical 
+Turk and were paid 25 cents for completing the survey, which took about one
+minute. Participants were not required to answer any of the questions.
+For more information, see: 
+https://compsocialscience.github.io/summer-institute/2018/
+
+
+sensitivity_flagged
+	0 - Survey was posted with no mention of sensitivity
+	1 - Survey was posted with "adult/sensitive content" flag on MTurk
+
+gender
+	1 - Male
+	2 - Female
+	3 - Other
+
+age
+	Age in years.
+
+education
+	1 - Less than high school
+	2 - High school or GED
+	3 - Some college or Associate's degree
+	4 - Bachelor's degree
+	5 - Some postgraduate or professional schooling
+	6 - Postgraduate or professional degree
+
+employment
+	1 - Working full-time
+	2 - Working part-time
+	3 - Temporarily unemployed
+	4 - Unemployed
+	5 - Retired
+	6 - Student
+	7 - Homekeeper
+	8 - Other
+	9 - No answer
+
+employment_other
+	Text entry for other
+
+hispanic
+	1 - Yes
+	2 - No
+
+ethnicity
+	1 - White
+	2 - Black
+	3 - Asian
+	4 - Native-American
+	5 - Other
+
+ethnicity_other
+	Text entry for other
+
+state
+	1  - Alabama
+	2  - Alaska
+	3  - Arizona
+	4  - Arkansas
+	5  - California
+	6  - Colorado
+	7  - Connecticut
+	8  - Delaware
+	9  - District of Columbia
+	10 - Florida
+	11 - Georgia
+	12 - Hawaii
+	13 - Idaho
+	14 - Illinois
+	15 - Indiana
+	16 - Iowa
+	17 - Kansas
+	18 - Kentucky
+	19 - Louisiana
+	20 - Maine
+	21 - Maryland
+	22 - Massachusetts
+	23 - Michigan
+	24 - Minnesota
+	25 - Mississippi
+	26 - Missouri
+	27 - Montana
+	28 - Nebraska
+	29 - Nevada
+	30 - New Hampshire
+	31 - New Jersey
+	32 - New Mexico
+	33 - New York
+	34 - North Carolina
+	35 - North Dakota
+	36 - Ohio
+	37 - Oklahoma
+	38 - Oregon
+	39 - Pennsylvania
+	40 - Puerto Rico
+	41 - Rhode Island
+	42 - South Carolina
+	43 - South Dakota
+	44 - Tennessee
+	45 - Texas
+	46 - Utah
+	47 - Vermont
+	48 - Virginia
+	49 - Washington
+	50 - West Virginia
+	51 - Wisconsin
+	52 - Wyoming
+	53 - I do not reside in the U.S.
+
+political_views
+	1 - Very conservative
+	2 - Conservative
+	3 - Moderate
+	4 - Liberal
+	5 - Very liberal
+	6 - Don't know
+
+political_affiliation
+	1 - Republican
+	2 - Democrat
+	3 - Independent
+	4 - Something else
+	5 - Don't know
+
+harassment_sexual
+	1 - Yes
+	2 - No
+	3 - Don't know
+	4 - No answer
+	5 - Not applicable
+
+harassment_other
+	1 - Yes
+	2 - No
+	3 - Don't know
+	4 - No answer
+	5 - Not applicable
+
+
+                                       Stratified by sensitivity_flagged
+                                        Not flagged   Flagged       p-value
+  n                                       150           150                    
+  harassment_sexual (%)                                              0.494     
+     Yes                                   11 ( 7.4)      8 ( 5.3)             
+     No                                   126 (84.6)    126 (84.0)             
+     Don't know                             1 ( 0.7)      5 ( 3.3)             
+     No answer                              3 ( 2.0)      2 ( 1.3)             
+     Not applicable                         8 ( 5.4)      9 ( 6.0)             
+  harassment_other (%)                                               0.437     
+     Yes                                    6 ( 4.1)      8 ( 5.3)             
+     No                                   128 (86.5)    129 (86.0)             
+     Don't know                             3 ( 2.0)      5 ( 3.3)             
+     No answer                              3 ( 2.0)      0 ( 0.0)             
+     Not applicable                         8 ( 5.4)      8 ( 5.3)             
+  gender = Female (%)                      66 (44.0)     67 (44.7)   1.000     
+  age (mean (sd))                       36.25 (12.43) 35.19 (11.95)  0.449     
+  education (%)                                                      0.173     
+     High school or GED                    13 ( 8.7)     18 (12.1)             
+     Some college or Associate's degree    52 (34.7)     48 (32.2)             
+     Bachelor's degree                     59 (39.3)     67 (45.0)             
+     Some postgrad or professional          4 ( 2.7)      6 ( 4.0)             
+     Postgrad or professional degree       22 (14.7)     10 ( 6.7)             
+  employment (%)                                                     0.369     
+     Full-time                            106 (70.7)    104 (69.3)             
+     Part-time                             23 (15.3)     17 (11.3)             
+     Temporarily unemployed                 0 ( 0.0)      1 ( 0.7)             
+     Unemployed                             4 ( 2.7)      8 ( 5.3)             
+     Retired                                2 ( 1.3)      6 ( 4.0)             
+     Student                                1 ( 0.7)      3 ( 2.0)             
+     Homekeeper                             8 ( 5.3)      4 ( 2.7)             
+     Other                                  5 ( 3.3)      4 ( 2.7)             
+     No answer                              1 ( 0.7)      3 ( 2.0)             
+  hispanic = No (%)                       135 (90.0)    141 (94.0)   0.287     
+  ethnicity (%)                                                      0.407     
+     White                                118 (78.7)    122 (81.3)             
+     Black                                 10 ( 6.7)     15 (10.0)             
+     Asian                                 13 ( 8.7)      9 ( 6.0)             
+     Native-American                        6 ( 4.0)      2 ( 1.3)             
+     Other                                  3 ( 2.0)      2 ( 1.3)             
+  political_views (%)                                                0.186     
+     Very conservative                      8 ( 5.3)     10 ( 6.7)             
+     Conservative                          35 (23.3)     21 (14.0)             
+     Moderate                              44 (29.3)     46 (30.7)             
+     Liberal                               32 (21.3)     47 (31.3)             
+     Very liberal                          29 (19.3)     23 (15.3)             
+     Don't know                             2 ( 1.3)      3 ( 2.0)             
+  political_affiliation (%)                                          0.278     
+     Republican                            40 (26.7)     29 (19.3)             
+     Democrat                              62 (41.3)     65 (43.3)             
+     Independent                           44 (29.3)     49 (32.7)             
+     Something else                         4 ( 2.7)      4 ( 2.7)             
+     Don't know                             0 ( 0.0)      3 ( 2.0)
