@@ -1,7 +1,24 @@
-- name: Archives
+- name: 2017
+  url: /2017/
+- name: 2018
   url: "#"
   children:
-    - name: Summer 2018
+    - name: "**Duke University**"
       url: /2018/
-    - name: Summer 2017
-      url: /2017/
+    - separator: true
+    - name: Hunter College
+      url: /2018/hunter-nyc/
+    - name: New York University
+      url: /2018/nyu-nyc/
+    - name: Northwestern University
+      url: /2018/chicago/
+    - name: University of Cape Town
+      url: /2018/capetown/
+    - name: University of Colorado
+      url: /2018/boulder/
+    - name: University of Helsinki
+      url: /2018/helsinki/
+    - name: University of Washington
+      url: /2018/seattle/
+- name: 2019
+  url: /2019/

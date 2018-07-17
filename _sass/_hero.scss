@@ -2,6 +2,7 @@ $option-blue: #264192;
 $option-red: #8b2223;
 $option-green: #477e5d;
 $option-orange: #ea8b18;
+$option-princeton-orange: #e77500;
 $option-purple: #540690;
 $option-uwpurple: #4b2e83;
 $option-hunterpurple: #5f259f;
@@ -58,6 +59,9 @@ $option-maroon: #861248;
 }
 .option-orange {
   @include option-colorizer($option-orange);
+}
+.option-princeton-orange {
+  @include option-colorizer($option-princeton-orange);
 }
 .option-purple {
   @include option-colorizer($option-purple);
