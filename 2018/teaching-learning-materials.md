@@ -59,12 +59,16 @@ title: Teaching & learning materials
 
 - Survey research in the digital age 
   - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/01-survey-research-digital-age.pdf)
+  - [Video](https://www.youtube.com/watch?v=jKAKitV87F8&t=)
 - Probability and non-probability sampling 
   - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/02-nonprobability-sampling.pdf)
+  - [Video](https://www.youtube.com/watch?v=bF8O_6xRl9A&t=)
 - Computer-administered interviews and wiki surveys 
   - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/03-computer-administered-interviews.pdf)
+  - [Video](https://www.youtube.com/watch?v=yDIghcIU2rE)
 - Combining surveys and big data 
   - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/04-combining-surveys-and-big-data.pdf)
+  - [Video](https://www.youtube.com/watch?v=CXh3tOJBiiA)
 - Group exercise introduction 
   - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/05-intro-to-activity.pdf)
 - Group exercise 
@@ -76,12 +80,16 @@ title: Teaching & learning materials
 
 - Mass collaboration 
   - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day5-mass-collaboration/01-mass-collaboration.pdf)
+  - [Video](https://www.youtube.com/watch?v=UEC6NdxHCBc)
 - Human computation 
   - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day5-mass-collaboration/02-human-computation.pdf)
+  - [Video](https://www.youtube.com/watch?v=hK4tmGE_INM)
 - Open call 
   - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day5-mass-collaboration/03-open-call.pdf)
+  - [Video](https://www.youtube.com/watch?v=5k4pfOFCCh4)
 - Distributed data collection 
   - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day5-mass-collaboration/04-distributed-data-collection.pdf)
+  - [Video](https://www.youtube.com/watch?v=c2p_PMIKb_Q)
 - Introduction to the Fragile Families Challenge 
   - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day5-mass-collaboration/05-ffchallenge_getting_started.pdf)
 - Fragile Families Challenge 
@@ -91,14 +99,19 @@ title: Teaching & learning materials
 
 - What, why, and which experiments? 
   - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/01-what-why-which-experiments.pdf)
+  - [Video](https://www.youtube.com/watch?v=1LfDzu6AOgU)
 - Moving beyond simple experiments 
   - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/02-moving-beyond-simple-experiments.pdf)
+  - [Video](https://www.youtube.com/watch?v=4SYDdL-ZJIM)
 - Four strategies for experiments 
   - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/03-making-it-happen.pdf)
+  - [Video](https://www.youtube.com/watch?v=GErcYGxuve8)
 - Zero variable cost data and musiclab 
   - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/04-zero-variable-cost.pdf)
+  - [Video](https://www.youtube.com/watch?v=BQNrphaZ4EU)
 - 3 Rs 
   - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/05-three-rs.pdf)
+  - [Video](https://www.youtube.com/watch?v=8vmMaZpzYVQ)
 
 ### Participant flash talks
 
