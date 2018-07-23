@@ -79,4 +79,8 @@
   name: Present group Projects (Room 5110)
   events:
     - name: "8:30-9:00 Breakfast"
-    - name: "9:00-5:30 Mini-conference and closing reception"
+    - name: "9am-10am Work on Projects"
+    - name: "10:00-11:00 Guest Speaker"
+    - name: "11:00-1:00 Lunch and Finish Projects"
+    - name: "1:00-4:30 Present Projects"
+    - name: "4:30-7:30 Closing Reception"

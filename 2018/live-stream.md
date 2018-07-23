@@ -17,12 +17,10 @@ For those unable to attend one of the Summer Institutes in person, we will be li
   - June 19
     - [Collecting Digital Trace Data (Screenscraping, APIs, Creating Apps and Bots for Social Science Research)](https://youtu.be/1SssTabI2kg) (9:15-10:15 EST)
     - [Collecting Digital Trace Data: Part 2](https://youtu.be/ErvgdF60Be8) (10:30-12:00 EST)
-    - [Sheena Erete](https://youtu.be/-KVg1zNQKt0) (12:00-1:00 EST)
     - [Jim Wilson](https://youtu.be/EVMF33MNd4o) (4:00-5:30 EST)
   - June 20
     - [Automated Text Analysis (Basics, Dictionary-Based Approaches, Topic Modeling, Text Networks](https://youtu.be/UehRelD300g) (9:15-12:00 EST)
     - [Automated Text Analysis: Part 2](https://www.youtube.com/watch?v=aDHwpXqQZlA&feature=youtu.be) (10:30-12:00 EST)
-    - [Ned Smith](https://youtu.be/N-ZXcuiysPc) (4:00-5:30 EST)
 	- [Arthur Spirling](https://youtu.be/lOLoYsHWwrE) (4:00-5:30 EST)
   - June 21
     - [Surveys in the Digital Age](https://youtu.be/yQmFg-luNIM) (9:15-11:00 EST)
@@ -32,7 +30,6 @@ For those unable to attend one of the Summer Institutes in person, we will be li
   - June 22
     - [Mass Collaboration](https://youtu.be/vcmOXA4i6mo) (9:15-10:15 EST)
     - [Mass Collaboration: Part 2](https://www.youtube.com/watch?v=crqFYWh_qgM&feature=youtu.be) (10:30-12:00 EST)
-    - [Abdullah Almaatouq - the Empirica.ly web experiment platform](https://youtu.be/hYcr-D-hG1A) (12:15-12:45 EST)
     - [Sendhil Mullainathan](https://youtu.be/PvJepkVGBRc) (4:00-5:30 EST)
   - June 23
     - [Experiments in the Digital Age](https://youtu.be/Yblc41A2f_k) (9:15-10:15 EST)
@@ -45,5 +42,3 @@ For those unable to attend one of the Summer Institutes in person, we will be li
     - [Kristian Lum](https://www.youtube.com/watch?v=b4J7DnMesSU&feature=youtu.be) (4:00-5:30 EST)
   - June 27
     - [Monica Lee](https://youtu.be/Kh71valic6Q) (12:30-2:00 EST)
-  - June 29
-    - [Agnes Horvat](https://youtu.be/28_U40dhJ_I) (11:00-12:00 EST)

@@ -16,7 +16,7 @@
 - name: Emirhan Demirhan
   image: /2018/boulder/images/EmirhanDemirhan.jpg
   bio: "Emirhan Demirhan is a PhD candidate in Sociology at the University of North Texas. His research interests include democratization, the obstacles to the functioning of democracies, and manipulation of public opinion using computational and quantitative methods. In his dissertation, Emirhan focuses on how Turkish democratization failed as a result of unrestrained defiance to the status quo, which led to the destruction of institutions."
-  website: emirhandemirhan.com
+  website: http://emirhandemirhan.com
 
 - name: Alia Gant
   image: /2018/boulder/images/AliaGant.jpg
@@ -86,12 +86,12 @@
 - name: Ningzi Li
   image: /2018/boulder/images/NingziLi.jpg
   bio: "My research interests include organizational theory, economic sociology and non-market strategy. I particularly focus on integrated market and non-market strategies and online community management. I received doctoral degree in sociology from Cornell University."
-  website: www.ningzili.com
+  website: http://www.ningzili.com
 
 - name: Nicholas Light
   image: /2018/boulder/images/NickLight.jpg
   bio: "Nick is a PhD Student in the Marketing division at the University of Colorado Leeds School of Business. Broadly his research focuses on consumer judgement and decision making. Specifically, Nick studies consumer perceptions of understanding, simplicity/complexity, and anti-science beliefs."
-  website: nicklightresearch.com
+  website: http://nicklightresearch.com
 
 - name: Jeremiah Osborne-Gowey
   image: /2018/boulder/images/JeremiahOsborne-Gowey.jpg
@@ -106,12 +106,12 @@
 - name: Anthony Pinter
   image: /2018/boulder/images/AnthonyPinter.jpg
   bio: "Anthony T. Pinter is a Ph.D. student in the Department of Information Science at the University of Colorado Boulder. He works with Dr. Jed R. Brubaker and the Identity Lab at CU, investigating online audiences' role in identity disclosure and trans experiences in social media. Prior to CU, he completed his B.S. and M.S. in Information Sciences and Technology at Penn State, where he worked with Dr. Lynette Kvasny Yarger on research related to discrimination in STEM fields. In his free time, he is a prolific music consumer, avid mountain biker, and a high school track coach."
-  website: www.anthonypinter.com
+  website: http://www.anthonypinter.com
 
 - name: Katherine Runge
   image: /2018/boulder/images/KatherineRunge.jpg
   bio: "Katherine L. Runge is a PhD student of political science at the University of Colorado at Boulder. Her first field of study is American politics, and her second field of study is research methodology. Her specific areas of research focus on gender and politics in the American context, along with political psychology and voter behavior."
-  website: www.katherinelrunge.com
+  website: http://www.katherinelrunge.com
 
 - name: Joshua Sanders
   image: /2018/boulder/images/JoshuaSanders.jpg
@@ -131,7 +131,7 @@
 - name: Tara Streng Schroeter
   image: /2018/boulder/images/TaraSchroeter.jpg
   bio: "I am a second year graduate student at the University of Colorado Boulder working towards my Ph.D. in Sociology. After completing my Bachelor's degree at the University of Utah I became interested in programming and data science, and curious to explore the ways that these fields can enhance my skills as a social researcher. I am currently working on research related to health, mortality, campus sexual assault, and relevant policies."
-  website: www.tarastrengschroeter.com
+  website: http://www.tarastrengschroeter.com
 
 - name: Becca Wang
   image: /2018/boulder/images/RebeccaWang.jpg
@@ -153,7 +153,12 @@
   bio: "Matthew Yarbrough is a doctoral student at the University of Colorado-Boulder. His primary field of research is American Politics and minor field of Political Methodology. Previously graduating with Bachelors in Political Science, History, and International Affairs from the University of Georgia, Matthew's research focuses on gender differences in legislative behavior in the US Congress. Additional research focuses include congressional committee politics, LGBTQ politics, and political ambition within minority communities. In addition to his role as a student, Matthew serves as a Tri-Chair of the Chancellor's Advisory on Gender and Sexuality at CU-Boulder."
   website: https://sites.google.com/a/colorado.edu/matthew-yarbrough/
 
-- name: Joe Zamadics
+- name: Tzu-Chi Yen
+  image: /2018/boulder/images/Tzu-ChiYen.jpg
+  bio: "Tzu-Chi is a first-year graduate student in Computer Science at CU. Before he moved to Boulder, he was a software engineer (Python/JavaScript) in Beijing. He is interested in problems that have certain statistics flavor; for example, clustering of a network and characterization of a social phenomena. When he is not programming, he might be in the mountains or programming."
+  website: https://junipertcy.info
+
+- name: Joseph Zamadics
   image: /2018/boulder/images/JosephZamadics.jpg
   bio: "Hello, I am Joe Zamadics. I am a political science PhD candidate at the University of Colorado with a focus in American politics and political methodology. Specifically, my dissertation focuses on issue salience in lawmaking. By analyzing state newspaper content, I am able to link trends in issue salience to lawmaker actions and policy outcomes. I am originally from West Chester, PA which is 30 minutes outside the city of Philadelphia, home of the Super Bowl LII Champion Philadelphia Eagles. I graduated from Susquehanna University in 2012 with a B.S. in Economics. I obtained an M.A. in political science from the University of Colorado in 2014."
   website: https://sites.google.com/colorado.edu/joseph-zamadics/home
