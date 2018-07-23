@@ -19,6 +19,8 @@ The majority of the coding work presented at the 2019 SICSS will employ R.  Howe
 
 We thank DataCamp for making these materials avaialble to admitted participants though their [DataCamp for the Classroom](https://www.datacamp.com/groups/education) program.
 
+If you would like a different way to learn similar material, we recommend [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/) taught by Charles Lanfear.  This course includes video, code, and assignments.
+
 ## Reading List
 
 The Summer Institute will bring together people from many fields, and therefore we think that asking you to do some reading before you arrive will help us use our time together more effectively.  First, we ask you to read Matt’s book, [Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com), which is a broad introduction to computational social science.  Parts of this book will be review for most of you, but if we all read this book ahead of time, then we can use our time together for more advanced topics.
