@@ -9,17 +9,17 @@
     - name: "9:15 - 9:30 Introductions (*Not open to public/No livestream*)"
     - name: "9:30 - 10:00 Introduction to computational social science 
 
-    * [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/02-intro-computational-social-science.pdf)"
+    * [Video](https://youtu.be/9flaMjO-r24), [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/02-intro-computational-social-science.pdf)"
     - name: "10:00 - 10:30 Why SICSS?
 
-    * [Slides](https://cbail.github.io/Why_SICSS.html)"
+    * [Video](https://youtu.be/jrFUmG_U-_s), [slides](https://cbail.github.io/Why_SICSS.html)"
     - name: "10:30 - 10:45 Coffee Break"
     - name: "10:45 - 11:30 Ethics: Principles-based approach 
 
-    * [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/03-ethics.pdf)"
+    * [Video](https://youtu.be/ss_cqTK8Brw), [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/03-ethics.pdf)"
     - name: "11:30 - 12:15 Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty 
 
-    * [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/04-areas-of-difficulty.pdf)"
+    * [Video](https://youtu.be/yxVJXzVMCMs), [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/04-areas-of-difficulty.pdf)"
     - name: "12:15 - 12:30 Introduction to the group exercise 
 
     * [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/05-intro-group-exercise.pdf)"
@@ -37,20 +37,20 @@
     - name: "9:00 - 9:15 Logistics (*Not open to public/No livestream*)"
     - name: "9:15 - 9:30 What is digital trace data? 
 
-    * [Slides](https://cbail.github.io/SICSS_What_is_Digital_Trace.html)"
+    * [Video](https://youtu.be/Fql2FqZxL74), [slides](https://cbail.github.io/SICSS_What_is_Digital_Trace.html)"
     - name: "9:30 - 9:45 Strengths and weakness of digital trace data
 
-    * [Slides](https://cbail.github.io/SICSS_strengths_weaknesses.html)"
+    * [Video](https://youtu.be/JhJYa_Rc_aI), [slides](https://cbail.github.io/SICSS_strengths_weaknesses.html)"
     - name: "9:45 - 10:15 Screen-Scraping
 
-    * [Slides](https://cbail.github.io/SICSS_Screenscraping.html), [annotated code](https://cbail.github.io/SICSS_Screenscraping_in_R.html)"
+    * [Video](https://youtu.be/NbZUm3eYZ9I), [slides](https://cbail.github.io/SICSS_Screenscraping.html), [annotated code](https://cbail.github.io/SICSS_Screenscraping_in_R.html)"
     - name: "10:15 - 10:30 Coffee Break"
     - name: "10:30 - 11:00 Application Programming Interfaces 
 
-    * [Slides](https://cbail.github.io/SICSS_APIs.html), [annotated code](https://cbail.github.io/SICSS_APIs_markdown.html)"
+    * [Video](https://youtu.be/PMa4ZEPCKzM), [slides](https://cbail.github.io/SICSS_APIs.html), [annotated code](https://cbail.github.io/SICSS_APIs_markdown.html)"
     - name: "11:00 - 12:30 Building Apps and Bots for Social Science Research 
 
-    * [Slides](https://cbail.github.io/SICSS_Building Apps_Rpres.html), [annotated code](https://cbail.github.io/SICSS_Building_Apps_and_Bots_for_Social_Science_Research.html)"
+    * [Video](https://youtu.be/3OBhAyoUCB8), [slides](https://cbail.github.io/SICSS_Building Apps_Rpres.html), [annotated code](https://cbail.github.io/SICSS_Building_Apps_and_Bots_for_Social_Science_Research.html)"
     - name: "12:30 - 1:30 Lunch (Not open to public/No livestream)"
     - name: "1:30 - 3:45 Group Exercise (Not open to public/No livestream) 
 
@@ -65,21 +65,21 @@
     - name: "9:00 - 9:15 Logistics (*Not open to public/No livestream*)"
     - name: "9:15 - 9:30 History of quantitative text analysis 
 
-    * [Slides](https://cbail.github.io/SICSS_History_Quantitative_Text.html)"
+    * [Video](https://youtu.be/-FV5NF5E5ws), [slides](https://cbail.github.io/SICSS_History_Quantitative_Text.html)"
     - name: "9:30 - 9:45 Basic Text Analysis/GREP 
 
-    * [Slides](https://cbail.github.io/SICSS_Basic_Text_Analysis_Slides.html), [annotated code](https://cbail.github.io/SICSS_Basic_Text_Analysis.html)"
+    * [Video](https://youtu.be/jRPvFNiUJ1M), [slides](https://cbail.github.io/SICSS_Basic_Text_Analysis_Slides.html), [annotated code](https://cbail.github.io/SICSS_Basic_Text_Analysis.html)"
     - name: "9:45 - 10:00 Dictionary-Based Text Analysis 
 
-    * [Slides](https://cbail.github.io/SICSS_Dictionary_Based_Analysis_Slides.html), [annotated code](https://cbail.github.io/SICSS_Dictionary-Based_Text_Analysis.html)"
+    * [Video](https://youtu.be/id67LllboE8), [slides](https://cbail.github.io/SICSS_Dictionary_Based_Analysis_Slides.html), [annotated code](https://cbail.github.io/SICSS_Dictionary-Based_Text_Analysis.html)"
     - name: "10:00 - 10:15 Coffee Break"
     - name: "10:15 - 11:15 Topic models/Structural Topic Models 
 
-    * [Slides](https://cbail.github.io/TopicModelingRpres.html), [annotated code](https://cbail.github.io/SICSS_Topic_Modeling.html)"
+    * [Video](https://youtu.be/k-zkxdxyjTk), [slides](https://cbail.github.io/TopicModelingRpres.html), [annotated code](https://cbail.github.io/SICSS_Topic_Modeling.html)"
     - name: "11:15 - 11:20 Break"
     - name: "11:20 - 12:30 Text Networks 
 
-    * [Slides](https://cbail.github.io/SICSS_Text_Networks_Rpres.html), [annotated code](https://cbail.github.io/SICSS_Text_Networks.html)"
+    * [Video](https://youtu.be/lUVTUOs8RTo), [slides](https://cbail.github.io/SICSS_Text_Networks_Rpres.html), [annotated code](https://cbail.github.io/SICSS_Text_Networks.html)"
     - name: "12:30 - 1:30 Lunch (Not open to public/No livestream)"
     - name: "1:30 - 4:00 Group Exercise (Not open to public/No livestream) 
 
@@ -93,17 +93,17 @@
     - name: "9:00 - 9:15 Logistics (*Not open to public/No livestream*)"
     - name: "9:15 - 9:45 Survey research in the digital age 
 
-    * [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/01-survey-research-digital-age.pdf)"
+    * [Video](https://youtu.be/LtmP8xrEsZw), [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/01-survey-research-digital-age.pdf)"
     - name: "9:45 - 10:15 Probability and non-probability sampling 
 
-    * [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/02-nonprobability-sampling.pdf)"
+    * [Video](https://youtu.be/591C1KitTc8), [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/02-nonprobability-sampling.pdf)"
     - name: "10:15 - 10:30 Coffee break"
     - name: "10:30 - 11:00 Computer-administered interviews and wiki surveys 
 
-    * [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/03-computer-administered-interviews.pdf)"
+    * [Video](https://youtu.be/JwxhLx1xvsQ), [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/03-computer-administered-interviews.pdf)"
     - name: "11:00 - 11:30 Combining surveys and big data 
 
-    * [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/04-combining-surveys-and-big-data.pdf)"
+    * [Video](https://youtu.be/D-dPpZK7nic), [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/04-combining-surveys-and-big-data.pdf)"
     - name: "11:30 - 12:00 Group exercise introduction 
 
     * [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/05-intro-to-activity.pdf)"
@@ -125,16 +125,16 @@
     - name: "9:00 - 9:15 Logistics (*Not open to public/No livestream*)"
     - name: "9:15 - 9:30 Mass collaboration 
 
-    * [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day5-mass-collaboration/01-mass-collaboration.pdf)"
+    * [Video](https://youtu.be/ZowzAh4G7Xg), [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day5-mass-collaboration/01-mass-collaboration.pdf)"
     - name: "9:30 - 9:45 Human computation 
 
-    * [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day5-mass-collaboration/02-human-computation.pdf)"
+    * [Video](https://youtu.be/Nj6eFcn2DsA), [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day5-mass-collaboration/02-human-computation.pdf)"
     - name: "9:45 - 10:00 Open call 
 
-    * [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day5-mass-collaboration/03-open-call.pdf)"
+    * [Video](https://youtu.be/f_zNrsBF3VY), [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day5-mass-collaboration/03-open-call.pdf)"
     - name: "10:00 - 10:15 Distributed data collection 
 
-    * [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day5-mass-collaboration/04-distributed-data-collection.pdf)"
+    * [Video](https://youtu.be/KDEJetDES24), [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day5-mass-collaboration/04-distributed-data-collection.pdf)"
     - name: "10:15 - 10:30 Coffee break"
     - name: "10:30 - 11:30 Introduction to the Fragile Families Challenge 
 
@@ -155,20 +155,20 @@
     - name: "9:00 - 9:15 Logistics (*Not open to public/No livestream*)"
     - name: "9:15 - 9:45 What, why, and which experiments? 
 
-    * [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/01-what-why-which-experiments.pdf)"
+    * [Video](https://youtu.be/GkG9q84ebcc), [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/01-what-why-which-experiments.pdf)"
     - name: "9:45 - 10:15 Moving beyond simple experiments 
 
-    * [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/02-moving-beyond-simple-experiments.pdf)"
+    * [Video](https://youtu.be/IF5mGr_L2YE), [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/02-moving-beyond-simple-experiments.pdf)"
     - name: "10:15 - 10:30 Coffee break"
     - name: "10:30 - 11:15 Four strategies for experiments 
 
-    * [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/03-making-it-happen.pdf)"
+    * [Video](https://youtu.be/geMvC0ErYFY), [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/03-making-it-happen.pdf)"
     - name: "11:15 - 11:45 Zero variable cost data and musiclab 
 
-    * [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/04-zero-variable-cost.pdf)"
+    * [Video](https://youtu.be/upr-QvJG9VY), [slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/04-zero-variable-cost.pdf)"
     - name: "11:45 - 12:15 3 Rs 
 
-    * [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/05-three-rs.pdf)"
+    * [Video](https://youtu.be/RZVbNgHejLU), [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/05-three-rs.pdf)"
     - name: "12:15 - 12:30 Logistics (*Not open to public/No livestream*)"
     - name: "12:30 - 1:30 Lunch (*Not open to public/No livestream*)"
     - name: "Afternoon off"
