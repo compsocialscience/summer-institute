@@ -28,7 +28,7 @@ title: Teaching & learning materials
 ### Day 2: Collecting Digital Trace Data
 
 - What is digital trace data?
-  - [Video](https://youtu.be/tcenDtf00tU)  
+  - [Video](https://youtu.be/Fql2FqZxL74)  
   - [Slides](https://compsocialscience.github.io/summer-institute/2018/materials/day2-digital-trace-data/what-is-digital-trace-data/SICSS_What_is_Digital_Trace.html)
 - Strengths and weakness of digital trace data
   - [Video](https://youtu.be/JhJYa_Rc_aI)   
