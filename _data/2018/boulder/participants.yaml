@@ -58,6 +58,11 @@
   bio: "Eaman Jahani is a graduate research assistant pursuing a PhD degree in Social and Engineering Systems with a minor in Statistics at MIT IDSS. Prior to MIT, he was a software engineer at Google for 4 years. His main training is in statistics and computer science, but recently he has been appreciating econometrics and modeling in applied economics. His past research examined the extent of bubbles vs truth-seeking in cryptocurrency markets and socio-economic prediction in social networks. His current research focuses on structural factors such as networks or institutions that contribute to persistence of inequality."
   website: 
 
+- name: Vivian Lai
+  image: /2018/boulder/images/VivianLai.png
+  bio: "I am a Ph.D. student in Computer Science at the University of Colorado Boulder advised by Chenhao Tan. I study how to empower humans to make better decisions with machine's assistance. More broadly, I am interested in computational social science, natural language processing, and machine learning."
+  website: https://vivlai.github.io/
+
 - name: Anais Landry
   image: 
   bio: 
