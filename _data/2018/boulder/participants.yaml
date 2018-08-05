@@ -150,7 +150,7 @@
 
 - name: Tzu-Chi Yen
   image: /2018/boulder/images/Tzu-ChiYen.jpg
-  bio: "Tzu-Chi is a first-year graduate student in Computer Science at CU. Before he moved to Boulder, he was a software engineer (Python/JavaScript) in Beijing. He is interested in problems that have certain statistics flavor; for example, clustering of a network and characterization of a social phenomena. When he is not programming, he might be in the mountains or programming."
+  bio: "Tzu-Chi is pursuing his Ph.D. in computer science at the University of Colorado Boulder. He is interested in problems that have some statistics flavor; for example, clustering of a network and error estimation of a novel survey method. Prior to graduate school, Tzu-Chi has lived in Beijing for three years as a software engineer (Python/JavaScript) at a tech startup, as a visiting student in the Institute of Theoretical Physics, Chinese Academy of Sciences, and most recently as a data analyst at an environmental NGO. He has founded the [Network Science Education Initiative in Taiwan](https://netscied.tw), whose goal is to make network science accessible and _fun_ for all abilities. He holds a BS in Biology from National Taiwan University."
   website: https://junipertcy.info
 
 - name: Joseph Zamadics
