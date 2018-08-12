@@ -3,11 +3,11 @@
   name: "Introduction and Ethics"
   events:
     - name: "8:00 - 9:00: Breakfast"
-    - name: "9:00 - 10:00: Logistics, administrivia, introductions [[Slides](https://github.com/allisonmorgan/sicss_boulder/blob/master/day_1/introduction.pdf)]"
+    - name: "9:00 - 10:00: Logistics, administrivia, introductions [[Slides](https://github.com/allisonmorgan/sicss_boulder/blob/master/day_1/Day%201%20-%20Introduction.pdf)]"
     - name: "10:00 - 11:00: Round robin of participant’s research and how it relates to the topic of the day [[Activity](https://github.com/allisonmorgan/sicss_boulder/blob/master/_round_robin/day_1.pdf)]"
-    - name: "11:00 - 12:00: Lecture 1 - Principles of ethics, four areas of difficulty (consent, risk, privacy, uncertainty)"
+    - name: "11:00 - 12:00: Lecture 1 - Principles of ethics, four areas of difficulty (consent, risk, privacy, uncertainty) [[Slides](https://github.com/allisonmorgan/sicss_boulder/blob/master/day_1/Day%201%20-%20Lecture%201%20-%20Principles.pdf)]"
     - name: "12:00 - 1:00: Lunch"
-    - name: "1:00 - 2:00: Lecture 2 - Contextual integrity, value-sensitive design, regulatory models, de-anonymization, social engineering, incentives"
+    - name: "1:00 - 2:00: Lecture 2 - Contextual integrity, value-sensitive design, regulatory models, de-anonymization, social engineering, incentives [[Slides](https://github.com/allisonmorgan/sicss_boulder/blob/master/day_1/Day%201%20-%20Lecture%202%20-%20Triangulating.pdf)]"
     - name: "2:00 - 3:00: Case Study 1 - Users behaving badly [[Activity](https://github.com/allisonmorgan/sicss_boulder/blob/master/day_1/Patreon-Case-Study.pdf)]"
     - name: "3:00 - 3:30: Coffee break"
     - name: "3:30 - 4:30: Case Study 2 - Researchers behaving badly [[Activity](https://github.com/allisonmorgan/sicss_boulder/blob/master/day_1/It-Gets-Better-Project-Case-Study.pdf)]"
@@ -18,7 +18,7 @@
   events:
     - name: "8:00 - 9:00: Breakfast"
     - name: "9:00 - 10:00: Round robin of participant’s research and how it relates to the topic of the day [[Activity](https://github.com/allisonmorgan/sicss_boulder/blob/master/_round_robin/day_2.pdf)]"
-    - name: "10:00 - 11:00: Lecture 1 - Introduction to digital trace data & web scraping [[Slides](https://github.com/allisonmorgan/sicss_boulder/blob/master/day_2/digital_trace_data_web_scraping.pdf)]"
+    - name: "10:00 - 11:00: Lecture 1 - Introduction to digital trace data & web scraping [[Slides](https://github.com/allisonmorgan/sicss_boulder/blob/master/day_2/Day%202%20-%20Digital%20Trace%20Data%20-%20Web%20Scraping.pdf)]"
     - name: "11:00 - 12:00: Case Study 1 - Scraping web sites (rate limits, messy data, TOS) [[Activity](https://github.com/allisonmorgan/sicss_boulder/blob/master/day_2/case_study_1.ipynb)]"
     - name: "12:00 - 1:00: Lunch"
     - name: "1:00 - 2:00: Lecture 2 - Application programming interfaces (JSON, keys, rate limits)"
