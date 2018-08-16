@@ -39,7 +39,7 @@
     - name: "2:00 - 3:00: Case Study 2 - Generating rankings using pairwise comparisons [[Materials](https://github.com/dblarremore/sicss2018)]"
     - name: "3:00 - 3:30: Coffee break"
     - name: "3:30 - 4:30: Research Talk - Aaron Clauset [[Slides](http://tuvalu.santafe.edu/~aaronc/slides/Clauset_2018_SICSS_ProductivityAndPredictions.pdf)]"
-    - name: "4:30 - 5:30: Research Talk - Dan Larremore [[Slides](http://danlarremore.com/slides/CommunityDetection_and_Ranking_Larremore_SICSS_2018.pdf)]"
+    - name: "4:30 - 5:30: Research Talk - Dan Larremore [[Slides](http://danlarremore.com/slides/assemblyStatusNetworks_Larremore_SICSS_2018.pdf)]"
 
 - date: 2018-08-16
   name: "Automated Text Analysis"
