@@ -33,7 +33,7 @@
     - name: "8:00 - 9:00: Breakfast"
     - name: "9:00 - 10:00: Round robin of participant’s research and how it relates to the topic of the day [[Activity](https://github.com/allisonmorgan/sicss_boulder/blob/master/_round_robin/day_3.pdf)]"
     - name: "10:00 - 11:00: Case Study 1 - Networkx and using ICON (https://icon.colorado.edu/) [[Activity](https://github.com/allisonmorgan/sicss_boulder/blob/master/day_3/case_study_2.ipynb)]"
-    - name: "11:00 - 12:00: Lecture 1 - Types of networks (directed, bipartite, centrality) + attributes on networks (features, time, membership, strength)"
+    - name: "11:00 - 12:00: Lecture 1 - Types of networks (directed, bipartite, centrality) + attributes on networks (features, time, membership, strength) [[Slides](http://tuvalu.santafe.edu/~aaronc/slides/Clauset_2018_SICSS_IntroductionToNetworks.pdf)]"
     - name: "12:00 - 1:00: Lunch"
     - name: "1:00 - 2:00: Lecture 2 - Community detection and hierarchies [[Slides](http://danlarremore.com/slides/CommunityDetection_and_Ranking_Larremore_SICSS_2018.pdf)]"
     - name: "2:00 - 3:00: Case Study 2 - Generating rankings using pairwise comparisons [[Materials](https://github.com/dblarremore/sicss2018)]"
