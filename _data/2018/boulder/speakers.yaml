@@ -3,25 +3,20 @@
   bio: Aaron Clauset is an Assistant Professor in the Department of Computer Science and the BioFrontiers Institute at the University of Colorado Boulder, and is External Faculty at the Santa Fe Institute. He received a PhD in Computer Science, with distinction, from the University of New Mexico, a BS in Physics, with honors, from Haverford College, and was an Omidyar Fellow at the prestigious Santa Fe Institute. In 2016, he was awarded the Erdos-Renyi Prize in Network Science. Clauset is an internationally recognized expert on network science, computational social science, and machine learning for complex systems. His work has appeared in many prestigious scientific venues, including Nature, Science, PNAS, JACM, WWW, ICWSM, STOC, SIAM Review, and Physical Review Letters. His work has also been covered in the popular press by the Wall Street Journal, The Economist, Discover Magazine, New Scientist, Wired, Miller-McCune, the Boston Globe and The Guardian.
   website: http://tuvalu.santafe.edu/~aaronc/
 
-- name: Jake Hofman
-  image: /2018/boulder/images/JakeHofman.jpg
-  bio: Jake Hofman is a Senior Researcher at Microsoft Research in New York City, where he works in the field of computational social science. Prior to joining Microsoft, he was a Research Scientist in the Microeconomics and Social Systems group at Yahoo! Research. He holds a B.S. in Electrical Engineering from Boston University and a Ph.D. in Physics from Columbia University. He is an Adjunct Assistant Professor of Applied Mathematics and Computer Science at Columbia University and runs Microsoft's Data Science Summer School to promote diversity in computer science. His work has been published in journals such as Science, Proceedings of the National Academy of Sciences, and Management Science, and has been featured in popular outlets including The New York Times, The Wall Street Journal, The Financial Times, and The Economist.
-  website: http://jakehofman.com
-
 - name: Casey Fiesler
   image: /2018/boulder/images/CaseyFiesler.jpg
   bio: Assistant Professor Casey Fiesler is a social computing researcher who primarily studies governance in online communities, technology ethics, and fandom.  She is a Senior Fellow in the Silicon Flatirons Institute for Law, Technology, and Entrepreneurship, an ATLAS fellow, and holds a courtesy appointment in Computer Science. Also a public scholar, she is a frequent commentator and speaker on topics of technology ethics and policy, as well as women in STEM (including consulting with Mattel on their computing-related Barbies). Her work is supported in part by a $3 million collaborative National Science Foundation grant focused on empirical studies of research ethics. Fiesler holds a PhD from Georgia Tech in Human-Centered Computing and a JD from Vanderbilt University Law School.
   website: http://www.caseyfiesler.com
+
+- name: Jake Hofman
+  image: /2018/boulder/images/JakeHofman.jpg
+  bio: Jake Hofman is a Senior Researcher at Microsoft Research in New York City, where he works in the field of computational social science. Prior to joining Microsoft, he was a Research Scientist in the Microeconomics and Social Systems group at Yahoo! Research. He holds a B.S. in Electrical Engineering from Boston University and a Ph.D. in Physics from Columbia University. He is an Adjunct Assistant Professor of Applied Mathematics and Computer Science at Columbia University and runs Microsoft's Data Science Summer School to promote diversity in computer science. His work has been published in journals such as Science, Proceedings of the National Academy of Sciences, and Management Science, and has been featured in popular outlets including The New York Times, The Wall Street Journal, The Financial Times, and The Economist.
+  website: http://jakehofman.com
   
 - name: Daniel Larremore
   image: /2018/boulder/images/DanielBLarremore.jpg
   bio: Daniel Larremore is an Assistant Professor in the Department of Computer Science and the BioFrontiers Institute at the University of Colorado at Boulder. His research develops statistical and inferential methods for analyzing large-scale network data, and uses those methods to solve applied problems in diverse domains, including public health and academic labor markets. In particular, his work focuses on generative models for networks, the ongoing evolution of the malaria parasite and the origins of social inequalities in academic hiring and careers.  Prior to joining the University of Colorado faculty, he was an Omidyar Fellow at the Santa Fe Institute 2015-2017 and a post-doctoral fellow at the Harvard T.H. Chan School of Public Health 2012-2015. He obtained his Ph.D. in Applied Mathematics from the University of Colorado at Boulder in 2012, and holds an undergraduate degree from Washington University in St. Louis.
   website: http://danlarremore.com
-
-- name: Michael Paul
-  image: /2018/boulder/images/MichaelPaul.jpg
-  bio: Michael Paul is an Assistant Professor of Information Science at the University of Colorado Boulder. His research analyzes and develops methods in machine learning and natural language processing, and applies those methods to problems in public health and epidemiology. He is a pioneer of using novel data sources from social media for public health monitoring, summarized in his 2017 book, "Social Monitoring for Public Health." He received a PhD in Computer Science from Johns Hopkins University in 2015, and a BS in Computer Science from the University of Illinois at Urbana-Champaign in 2009.
-  website: http://cmci.colorado.edu/~mpaul/
 
 - name: Yotam Shmargad
   image: /2018/boulder/images/YotamShmargad.jpg
