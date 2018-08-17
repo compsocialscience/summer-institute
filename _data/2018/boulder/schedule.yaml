@@ -52,7 +52,7 @@
     - name: "1:00 - 2:00: Lecture 3 - Text networks and word embeddings [[Materials](https://github.com/allisonmorgan/sicss_boulder/blob/master/day_4/Day%204%2C%20Lecture%203%20-%20Text%20networks%20and%20word%20embeddings.ipynb)]"
     - name: "2:00 - 3:00: Case Study 2 - Cleaning and analysis of presidental text [[Materials](https://github.com/allisonmorgan/sicss_boulder/tree/master/day_4)]"
     - name: "3:00 - 3:30: Coffee break"
-    - name: "3:30 - 4:30: Research Talk - Chenhao Tan"
+    - name: "3:30 - 4:30: Research Talk - Chenhao Tan [[Slides](https://github.com/allisonmorgan/sicss_boulder/blob/master/day_4/tan_idea_ecosystems.pdf)]"
 
 - date: 2018-08-17
   name: "Experiments / Causal Inference"
