@@ -59,10 +59,10 @@
   events:
     - name: "8:00 - 9:00: Breakfast"
     - name: "9:00 - 10:00: Round robin of participant’s research and how it relates to the topic of the day [[Activity](https://github.com/allisonmorgan/sicss_boulder/blob/master/_round_robin/day_5.pdf)]"
-    - name: "10:00 - 11:00: Lecture 1 - Experimental design (RCTs, factorial design, validity etc.), A-B tests"
+    - name: "10:00 - 11:00: Lecture 1 - Experimental design (RCTs, factorial design, validity etc.), A-B tests [[Slides](https://github.com/allisonmorgan/sicss_boulder/blob/master/day_5/Day%205%20-%20Lecture%201%20-%20Digital%20experiments.pdf)]"
     - name: "11:00 - 12:00: Lecture 2 - Causal inference from observational data (discontinuity, instrumental variable, matching, differencing)"
     - name: "12:00 - 1:00: Lunch"
-    - name: "1:00 - 2:00: Case Study 2 -  Examine natural experiments in time series data"
+    - name: "1:00 - 2:00: Case Study 2 -  Examine natural experiments in time series data [[Activity](https://github.com/allisonmorgan/sicss_boulder/blob/master/day_5/Day%205%20-%20Case%20Study.ipynb)]"
     - name: "2:00 - 3:00: Research Talk 1 - Jake Hofman"
     - name: "3:00 - 3:30: Coffee break"
     - name: "3:30 - 4:30: Research Talk 2 - Amanda Stevenson"
