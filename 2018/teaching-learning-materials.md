@@ -137,4 +137,4 @@ title: Teaching & learning materials
 - Flash Talk: Entropy and information-theoretic methods for text analysis (Ryan J. Gallagher)
   - [Slides](https://github.com/compsocialscience/summer-institute/tree/master/2018/materials/flash-talks/2018-SICSS-InfoTheoryTextAnalysis-Gallagher.pdf)
 
-Raw materials for many of these slides--including images, .Rmd, and .tex files---are available [here](https://github.com/compsocialscience/summer-institute/tree/master/2018/materials).
+##### All slides and video are released under a <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> license, and all code is released under an <a href="https://en.wikipedia.org/wiki/MIT_License">MIT</a> license.  Raw materials for many of these slides--including images, .Rmd, and .tex files---are available [here](https://github.com/compsocialscience/summer-institute/tree/master/2018/materials).
