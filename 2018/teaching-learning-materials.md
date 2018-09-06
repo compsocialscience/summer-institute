@@ -3,15 +3,12 @@ layout: default
 title: Teaching & learning materials
 ---
 
-# Teaching & learning materials
-## 2018 Summer Institutes in Computational Social Science
+Here are the teaching and learning materials from 2 locations of the 2018 Summer Institutes for Computational Social Science.
 
+- [Duke University, Chris Bail and Matthew Salganik (taught in English using R)](Duke-University,-Chris-Bail-and-Matthew Salganik-(taught-in-English-using-R))
+- University of Colorado-Boulder, Brian Keegan and Allie Morgan (taught in English using Python)
 
-
-
-# Duke University
-## Instructors: Chris Bail and Matthew Salganik
-## Languages of instruction: English and R
+### Duke University, Chris Bail and Matthew Salganik (taught in English using R)
 
 #### Day 1: Introduction and Ethics
 
@@ -146,6 +143,4 @@ title: Teaching & learning materials
 
 ##### All slides and video are released under a <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> license, and all code is released under an <a href="https://en.wikipedia.org/wiki/MIT_License">MIT</a> license.  Raw materials for many of these slides--including images, .Rmd, and .tex files---are available [here](https://github.com/compsocialscience/summer-institute/tree/master/2018/materials).
 
-# University of Colorado-Boulder
-## Instructors: Brian Keegan and Allie Morgan
-## Languages of instruction: English and Python
+## University of Colorado-Boulder, Brian Keegan and Allie Morgan (taught in English using Python)
