@@ -4,9 +4,16 @@ title: Teaching & learning materials
 ---
 
 # Teaching & learning materials
-### 2018 Summer Institute in Computational Social Science
+## 2018 Summer Institutes in Computational Social Science
 
-### Day 1: Introduction and Ethics
+
+
+
+# Duke University
+## Instructors: Chris Bail and Matthew Salganik
+## Languages of instruction: English and R
+
+#### Day 1: Introduction and Ethics
 
 - Introduction to computational social science
   - [Video](https://youtu.be/9flaMjO-r24)
@@ -25,7 +32,7 @@ title: Teaching & learning materials
 - Group Exercise
   - [Case study 1](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day1-intro-ethics/ethics_activity.pdf), [Case study 2](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf)
 
-### Day 2: Collecting Digital Trace Data
+#### Day 2: Collecting Digital Trace Data
 
 - What is digital trace data?
   - [Video](https://youtu.be/Fql2FqZxL74)  
@@ -48,7 +55,7 @@ title: Teaching & learning materials
 - Group Exercise
   - [Description of exercise](https://compsocialscience.github.io/summer-institute/2018/materials/day2-digital-trace-data/SICSS_Group_Exercise_Day_2.html)
 
-### Day 3: Automated Text Analysis
+#### Day 3: Automated Text Analysis
 
 - History of quantitative text analysis
   - [Video](https://youtu.be/-FV5NF5E5ws)
@@ -72,7 +79,7 @@ title: Teaching & learning materials
 - Group Exercise
   - [Description of exercise](https://compsocialscience.github.io/summer-institute/2018/materials/day3-text-analysis/SICSS_Group_Exercise_Day_3.html)
 
-### Day 4: Surveys in the Digital Age
+#### Day 4: Surveys in the Digital Age
 
 - Survey research in the digital age
   - [Video](https://youtu.be/LtmP8xrEsZw)
@@ -93,7 +100,7 @@ title: Teaching & learning materials
 - Discuss activity and open-source data
   - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/06-intro-to-open-sourcing-data.pdf)
 
-### Day 5: Mass Collaboration
+#### Day 5: Mass Collaboration
 
 - Mass collaboration
   - [Video](https://youtu.be/ZowzAh4G7Xg)
@@ -112,7 +119,7 @@ title: Teaching & learning materials
 - Fragile Families Challenge
   - [Leaderboard](https://codalab.fragilefamilieschallenge.org/competitions/23)
 
-### Day 6: Experiments
+#### Day 6: Experiments
 
 - What, why, and which experiments?
   - [Video](https://youtu.be/GkG9q84ebcc)
@@ -130,7 +137,7 @@ title: Teaching & learning materials
   - [Video](https://youtu.be/RZVbNgHejLU)
   - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day6-experiments/05-three-rs.pdf)
 
-### Participant flash talks
+#### Participant flash talks
 
 - Flash Talk: Cleaning up the data cleaning process: Reproducible data cleaning in R (Anne Helby Petersen)
   - [Slides](https://github.com/compsocialscience/summer-institute/tree/master/2018/materials/flash-talks/annehelbypetersen_datamaid_slides.pdf)
@@ -138,3 +145,7 @@ title: Teaching & learning materials
   - [Slides](https://github.com/compsocialscience/summer-institute/tree/master/2018/materials/flash-talks/2018-SICSS-InfoTheoryTextAnalysis-Gallagher.pdf)
 
 ##### All slides and video are released under a <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> license, and all code is released under an <a href="https://en.wikipedia.org/wiki/MIT_License">MIT</a> license.  Raw materials for many of these slides--including images, .Rmd, and .tex files---are available [here](https://github.com/compsocialscience/summer-institute/tree/master/2018/materials).
+
+# University of Colorado-Boulder
+## Instructors: Brian Keegan and Allie Morgan
+## Languages of instruction: English and Python
