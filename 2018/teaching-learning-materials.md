@@ -5,8 +5,8 @@ title: Teaching & learning materials
 
 # Teaching and learning materials, 2018 Summer Institutes for Computational Social Science
 
-- [Duke University, Chris Bail and Matthew Salganik, taught in English using R](Duke-University-Chris-Bail-and-Matthew Salganik-taught-in-English-using-R)
-- [University of Colorado-Boulder, Brian Keegan and Allie Morgan, taught in English using Python](University-of Colorado-Boulder-Brian-Keegan-and-Allie-Morgan-taught-in-English-using-Python)
+- [Duke University, Chris Bail and Matthew Salganik, taught in English using R](duke-university-chris-bail-and-matthew salganik-taught-in-english-using-r)
+- [University of Colorado-Boulder, Brian Keegan and Allie Morgan, taught in English using Python](university-of colorado-boulder-brian-keegan-and-allie-morgan-taught-in-english-using-python)
 
 ### Duke University, Chris Bail and Matthew Salganik, taught in English using R
 
@@ -141,6 +141,8 @@ title: Teaching & learning materials
 - Flash Talk: Entropy and information-theoretic methods for text analysis (Ryan J. Gallagher)
   - [Slides](https://github.com/compsocialscience/summer-institute/tree/master/2018/materials/flash-talks/2018-SICSS-InfoTheoryTextAnalysis-Gallagher.pdf)
 
-##### All slides and video are released under a <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> license, and all code is released under an <a href="https://en.wikipedia.org/wiki/MIT_License">MIT</a> license.  Raw materials for many of these slides--including images, .Rmd, and .tex files---are available [here](https://github.com/compsocialscience/summer-institute/tree/master/2018/materials).
+#### License
 
-## University of Colorado-Boulder, Brian Keegan and Allie Morgan (taught in English using Python)
+All slides and video are released under a <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> license, and all code is released under an <a href="https://en.wikipedia.org/wiki/MIT_License">MIT</a> license.  Raw materials for many of these slides--including images, .Rmd, and .tex files---are available [here](https://github.com/compsocialscience/summer-institute/tree/master/2018/materials).
+
+## University of Colorado-Boulder, Brian Keegan and Allie Morgan, taught in English using Python
