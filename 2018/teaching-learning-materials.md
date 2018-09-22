@@ -151,4 +151,70 @@ All slides and video are released under a <a href="https://creativecommons.org/l
 
 ### University of Colorado-Boulder, Brian Keegan and Allie Morgan, taught in English using Python
 
+#### Day 1: Introduction and Ethics
+
+- Introduction to computational social science, logistics, administrivia, and introductions
+  - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/boulder/day1-intro-ethics/Day%201%20-%20Introduction.pdf)
+- Group discussion
+  - [Activity](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/boulder/day1-intro-ethics/Round%20Robin.pdf)
+- Principles of ethics, four areas of difficulty (consent, risk, privacy, uncertainty)
+  - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/boulder/day1-intro-ethics/Day%201%20-%20Lecture%201%20-%20Principles.pdf)
+- Contextual integrity, value-sensitive design, regulatory models, de-anonymization, social engineering, incentives
+  - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/boulder/day1-intro-ethics/Day%201%20-%20Lecture%202%20-%20Triangulating.pdf)
+- Group exercises
+  - [Case Study 1](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/boulder/day1-intro-ethics/Patreon-Case-Study.pdf), [Case Study 2](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/boulder/day1-intro-ethics/It-Gets-Better-Project-Case-Study.pdf)
+
+#### Day 2: Collecting Digital Trace Data
+
+- Group discussion
+  - [Activity](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/boulder/day2-digital-trace-data/Round%20Robin.pdf)
+- Introduction to digital trace data & web scraping
+  - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/boulder/day2-digital-trace-data/Day%202%20-%20Digital%20Trace%20Data%20-%20Web%20Scraping.pdf)
+- Group exercise - Application of scraping web sites
+  - [Activity](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/boulder/day2-digital-trace-data/Day%202%20-%20Case%20Study-%20Web%20Scraping.ipynb)
+- Application programming interfaces
+  - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/boulder/day2-digital-trace-data/Application%20Programming%20Interfaces.pdf)
+- Group exercise - Application of API scraping (Twitter)
+  - [Code (with Twitter API key)](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/boulder/day2-digital-trace-data/BoulderSICSS.ipynb), [Code (without Twitter API key)](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/boulder/day2-digital-trace-data/BoulderSICSS-NoAuth.ipynb)
+- Interative lecture - Application of API scraping (Wikipedia)
+  - [Activity](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/boulder/day2-digital-trace-data/Day%202%20-%20Wikipedia%20Scraping.ipynb)
+
+#### Day 3: Network Analysis
+
+- Group discussion
+  - [Activity](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/boulder/day3-networks/Round%20Robin.pdf)
+- Introduction to networks
+  - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/boulder/day3-networks/Clauset_2018_SICSS_IntroductionToNetworks.pdf)
+- Group exercise - Networkx and using [ICON](https://icon.colorado.edu/)
+  - [Activity](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/boulder/day3-networks/Day%203%20-%20Case%20Study%20-%20Networkx.ipynb)
+- Community detection and hierarchies
+  - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/boulder/day3-networks/CommunityDetection_and_Ranking_Larremore_SICSS_2018.pdf)
+- Generating rankings using pairwise comparisons
+  - [Activity](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/boulder/day3-networks/sicss2018.ipynb)
+
+#### Day 4: Automated Text Analysis
+
+- Group discussion
+  - [Activity](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/boulder/day4-text-analysis/Round%20Robin.pdf)
+- Text processing (casing, tokenizing, n-grams, stemming, regex, TF-IDF)
+  - [Materials](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/boulder/day4-text-analysis/Day%204%2C%20Lecture%201%20-%20Text%20processing.ipynb)
+- Sentiment analysis
+  - [Materials](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/boulder/day4-text-analysis/Day%204%2C%20Lecture%202%20-%20Sentiment%20analysis.ipynb)
+- Text networks and word embeddings
+  - [Materials](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/boulder/day4-text-analysis/Day%204%2C%20Lecture%203%20-%20Text%20networks%20and%20word%20embeddings.ipynb)
+
+#### Day 5: Experiments / Causal Inference
+
+- Group discussion
+  - [Activity](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/boulder/day5-causal-inference/Round%20Robin.pdf)
+- Experimental design (RCTs, factorial design, validity etc.), A-B tests
+  - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/boulder/day5-causal-inference/Day%205%20-%20Lecture%201%20-%20Digital%20experiments.pdf)
+- Causal inference from observational data (discontinuity, instrumental variable, matching, differencing)
+- Group exercise - Examine natural experiments in time series data
+  - [Activity](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/boulder/day5-causal-inference/Day%205%20-%20Case%20Study.ipynb)
+
+#### License
+
+All slides are released under a <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> license, and all code is released under an <a href="https://en.wikipedia.org/wiki/MIT_License">MIT</a> license. Raw materials for many of these slides are available [here](https://github.com/compsocialscience/summer-institute/tree/master/2018/materials/boulder).
+
 ### University of Helsinki, Matti Nelimarkka, taught in English using R
