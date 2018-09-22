@@ -8,7 +8,7 @@ title: Teaching & learning materials
 
 - **[Duke University, Chris Bail and Matthew Salganik, taught in English using R](#duke-university-chris-bail-and-matthew-salganik-taught-in-english-using-r)**
 - **[University of Colorado-Boulder, Brian Keegan and Allie Morgan, taught in English using Python](#university-of-colorado-boulder-brian-keegan-and-allie-morgan-taught-in-english-using-python)**
-- **[University of Helsinki, Matti Nelimarkka, taught in English using R](#university-of-helsinki-matti-nelimarkka-taught-in-english-using-R)**
+- **[University of Helsinki, Matti Nelimarkka, taught in English using R](#university-of-helsinki-matti-nelimarkka-taught-in-english-using-r)**
 
 ### Duke University, Chris Bail and Matthew Salganik, taught in English using R
 
