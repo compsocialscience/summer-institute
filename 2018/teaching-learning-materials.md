@@ -8,6 +8,7 @@ title: Teaching & learning materials
 
 - **[Duke University, Chris Bail and Matthew Salganik, taught in English using R](#duke-university-chris-bail-and-matthew-salganik-taught-in-english-using-r)**
 - **[University of Colorado-Boulder, Brian Keegan and Allie Morgan, taught in English using Python](#university-of-colorado-boulder-brian-keegan-and-allie-morgan-taught-in-english-using-python)**
+- **[University of Helsinki, Matti Nelimarkka, taught in English using R](#university-of-helsinki-matti-nelimarkka-taught-in-english-using-R)**
 
 ### Duke University, Chris Bail and Matthew Salganik, taught in English using R
 
@@ -147,3 +148,5 @@ title: Teaching & learning materials
 All slides and video are released under a <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> license, and all code is released under an <a href="https://en.wikipedia.org/wiki/MIT_License">MIT</a> license.  Raw materials for many of these slides--including images, .Rmd, and .tex files---are available [here](https://github.com/compsocialscience/summer-institute/tree/master/2018/materials).
 
 ### University of Colorado-Boulder, Brian Keegan and Allie Morgan, taught in English using Python
+
+#### University of Helsinki, Matti Nelimarkka, taught in English using R
