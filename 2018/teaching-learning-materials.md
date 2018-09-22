@@ -151,4 +151,4 @@ All slides and video are released under a <a href="https://creativecommons.org/l
 
 ### University of Colorado-Boulder, Brian Keegan and Allie Morgan, taught in English using Python
 
-#### University of Helsinki, Matti Nelimarkka, taught in English using R
+### University of Helsinki, Matti Nelimarkka, taught in English using R
