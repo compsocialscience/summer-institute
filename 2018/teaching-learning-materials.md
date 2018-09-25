@@ -169,9 +169,9 @@ All slides and video are released under a <a href="https://creativecommons.org/l
 - Group discussion
   - [Activity](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/boulder/day2-digital-trace-data/Round%20Robin.pdf)
 - Introduction to digital trace data & web scraping
-  - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/boulder/day2-digital-trace-data/Day%202%20-%20Digital%20Trace%20Data%20-%20Web%20Scraping.pdf)
+  - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/boulder/day2-digital-trace-data/Day%202%20-%20Lecture%201%20-%20Web%20Scraping.pdf)
 - Group exercise - Application of scraping web sites
-  - [Activity](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/boulder/day2-digital-trace-data/Day%202%20-%20Case%20Study-%20Web%20Scraping.ipynb)
+  - [Activity](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/boulder/day2-digital-trace-data/Day%202%20-%20Case%20Study%20-%20Web%20Scraping.ipynb)
 - Application programming interfaces
   - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/boulder/day2-digital-trace-data/Application%20Programming%20Interfaces.pdf)
 - Group exercise - Application of API scraping (Twitter)
