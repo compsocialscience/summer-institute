@@ -1,9 +1,9 @@
-- name:  Sample Participant
-  image: /2019/boston/images/dhagmann.jpg
-  bio: "This is a sample participant"
-  website: "http://www.dhagmann.com"
+# - name:  Sample Participant
+#   image: /2019/boston/images/dhagmann.jpg
+#   bio: "This is a sample participant"
+#   website: "http://www.dhagmann.com"
 
-- name:  Sample Participant 2
-  image: /2019/boston/images/smobasseri.jpg
-  bio: "This is another sample participant"
-  website: "http://www.sanazmobasseri.com"
+# - name:  Sample Participant 2
+#   image: /2019/boston/images/smobasseri.jpg
+#   bio: "This is another sample participant"
+#   website: "http://www.dhagmann.com"
