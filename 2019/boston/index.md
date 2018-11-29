@@ -19,9 +19,12 @@ There is no cost to participating in the Boston workshop. Limited travel subsidi
 
 All events will be held at:
 
-50 Ames Street
-Building E18-304
-Cambridge, MA 02142
+50 Ames Street  
+Building E18-304  
+Cambridge, MA 02142  
+
+
+# Partners
 
 We thank our partner IDSS for providing the space and look forward to announcing additional partners in the coming months.
 
