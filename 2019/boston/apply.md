@@ -5,7 +5,7 @@ layout: default
 ---
 
 # Eligibility
-We invite applications from Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. There are no restrictions based on citizenship, country of study, or country of employment. We expect to invite about twenty participants for this partner location.
+We invite applications from Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. There are no restrictions based on citizenship, country of study, or country of employment. We expect to invite about twenty to thirty participants for this partner location.
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. We will provide additional readings in advance of the Institute that will help bring those with less exposure to social science research up to speed. Moreover, all participants will have access to DataCamp modules that provide an introduction to programming in R. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours during the two months before the Institute.
 
