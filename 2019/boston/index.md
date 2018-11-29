@@ -26,6 +26,6 @@ Cambridge, MA 02142
 
 # Partners
 
-We thank our partner IDSS for providing the space and look forward to announcing additional partners in the coming months.
+We thank IDSS for providing the space and look forward to announcing additional partners in the coming months.
 
-<img class="img-responsive" alt="IDSS logo" src="{{ site.baseurl }}{% link 2019/boston/images/idss_logo.jpg %}">
+<img class="img-responsive" alt="IDSS logo" src="{{ site.baseurl }}{% link 2019/boston/images/idss_logo.jpg %}" width = "200">
