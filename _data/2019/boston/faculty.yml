@@ -1,0 +1,24 @@
+- name: Ryan J. Gallagher
+  image: /assets/images/ryan.png
+  bio: Ryan J. Gallagher is a PhD student at Northeastern University. At the Network Science Institute, he researches the dynamics of social networks using tools and theory from natural language processing and communications. He currently studies the affective phenomena of networked counterpublics. Ryan holds an MS in mathematics from the University of Vermont, where he worked with the Computational Story Lab at the Vermont Complex Systems Center, and a BA in math from the University of Connecticut.
+  website: https://ryanjgallagher.github.io/
+
+- name: David Hagmann
+  image: /assets/images/david-ha.jpg
+  bio: David is a PhD candidate in Decision Sciences at Carnegie Mellon University and a visiting scholar at the Wharton School at the University of Pennsylvania. His interests include information avoidance, behavioral interventions (nudges), and decisions from experience. In his dissertation, David studies persuasion in the presence of motivated reasoning. While we might think that changing someone’s mind is all about exposing them to facts that support our views and challenge theirs, such an approach may be more likely to engender defensive information avoidance rather than receptive information processing.  
+  website: http://www.dhagmann.com
+
+- name: Eaman Jahani
+  image: /assets/images/eaman.jpg
+  bio: Eaman Jahani is a graduate research assistant pursuing a PhD degree in Social and Engineering Systems with a minor in Statistics at MIT IDSS. Prior to MIT, he was a software engineer at Google for 4 years. His main training is in statistics and computer science, but recently he has been appreciating econometrics and modeling in applied economics. His past research examined the extent of bubbles vs truth-seeking in cryptocurrency markets and socio-economic prediction in social networks. His current research focuses on structural factors such as networks or institutions that regenerate inequality at a micro scale. Eaman spends too much time reading political commentaries.
+
+- name: Yan Leng
+  image: /assets/images/yan.jpg
+  bio: Yan is currently pursuing a Ph.D. at Human Dynamics group at MIT. She received dual masters in Computer Science and Transportation Engineering from MIT in 2016. Yan is interested in using a broad range of computational techniques to understand the network effect of social influence. In particular, she works on the inference, identification, and modeling of social influence and social learning with large-scale behavioral data in a networked environment. Besides, she also works on the combining network structure and personal attributes in maximizing cascading payoff. 
+  website: http://web.mit.edu/yleng/www/
+
+- name: Sanaz Mobasseri
+  image: /assets/images/sanaz.jpg
+  bio: Sanaz Mobasseri is an Assistant Professor of Organizational Behavior at Boston University’s Questrom School of Business. She received her PhD from the Management of Organizations Department at UC Berkeley's Haas School of Business. Her research examines the role of emotion, cognition, and culture in shaping social networks and labor market outcomes. Much of her work is situated in organizational settings, where she examine the microfoundations of workplace inequality. Although grounded in sociology and organizational theory, her work integrates theoretical insights from social psychology and sociolinguistics. Her research methods are similarly diverse, ranging from experimental studies in the lab to audit studies in the field to computational approaches applied to large archival data sets. 
+  website: https://www.sanazmobasseri.com/
+
