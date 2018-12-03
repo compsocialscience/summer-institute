@@ -26,6 +26,6 @@ Cambridge, MA 02142
 
 # Sponsors
 
-We thank IDSS for providing the space and look forward to announcing additional sponsors for this partner location in the coming months.
+The Summer Institute for Computational Social Science is funded in part by grants from the Russell Sage Foundation and the Alfred P. Sloan Foundation. We thank IDSS for providing the space and look forward to announcing additional sponsors for this partner location in the coming months.
 
 <img class="img-responsive" alt="IDSS logo" src="{{ site.baseurl }}{% link 2019/boston/images/idss_logo.jpg %}" width = "200">
