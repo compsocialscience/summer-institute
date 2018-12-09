@@ -6,18 +6,17 @@ title: Apply
 
 # Eligibility
 
-Participation is restricted to Ph.D. students, postdoctoral researchers, and faculty from South Africa. However, there are no restrictions based on citizenship, country of study, or country of employment. Meals and registration fees are covered. Participants from outside South Africa are welcomed if only they are able to cover their participation costs (tickets and accomodation).
+Participation is restricted to Ph.D. students, postdoctoral researchers, and faculty from South Africa and sub-Saharan Africa. However, there are no restrictions based on citizenship, country of study, or country of employment. All cost of participations (Ticket, accommodation, meals, registration) fees are all covered.
 
 
-Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R programming language.  Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours during the two months before the Institute.
+Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R programming language. All accepted students doing this preparatory work will be supported by a teaching assistant who will hold online office hours during the two months before the Institute. You are encouraged from now to start learning R to increase your chance of acceptance.Your letter of presentation should demonstrate what you have done to improve your R skill abilities.
 
 # How to Apply
 
-To apply click [here](https://goo.gl/forms/RkRgDhOcXc59h8U63)
+Our application system is not yet accepting materials.
+
+But, once it is enabled, we ask that you provide some basic information about yourself and your academic background. To be considered, all applicants must submit the following documents via the link above (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science (especially as it relates to sub-Saharan Africa and RSF research priorities such as behavioral economics, social inequality, future of work, and immigration, health), (iii) one writing sample (no more than 35 pages). All applications must include an e-mail and an alternative means of contact (e.g., phone number). 
 
 
-On this form, we ask that you provide some basic information about yourself and your academic backgorund. To be considered, all applicants must submit the following documents via the link above (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science (especially as it relates to sub-Saharan Africa and RSF research priorities such as behavioral economics, social inequality, future of work, and immigration), (iii) one writing sample (no more than 35 pages). All applications must include an e-mail and an alternative means of contact (e.g., phone number). 
-
-
-Applications must be received by the deadline. **Complete applications, including letters of recommendation if any, must be received by Monday, May 21**.  We will notify applicants solely through e-mail, by Monday, May 28 and will ask participants to confirm their participation very soon thereafter. Inquiries can be sent to [cssforafrica@gmail.com](maito:cssforafrica@gmail.com)
+Applications must be received by the deadline. **Complete applications, including letters of recommendation if any, must be received by Monday, February 25**.  Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail in mid-March, and will ask participants to confirm their participation very soon thereafter. Inquiries can be sent to [cssforafrica@gmail.com](maito:cssforafrica@gmail.com)
 
