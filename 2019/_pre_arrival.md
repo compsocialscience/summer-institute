@@ -17,13 +17,13 @@ The majority of the coding work presented at the 2019 SICSS will employ R.  Howe
   - [https://www.datacamp.com/courses/exploratory-data-analysis-in-r-case-study](https://www.datacamp.com/courses/exploratory-data-analysis-in-r-case-study)
   - [https://www.datacamp.com/courses/introduction-to-git-for-data-science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
 
-We thank DataCamp for making these materials avaialble to admitted participants though their [DataCamp for the Classroom](https://www.datacamp.com/groups/education) program.
+We thank DataCamp for making these materials available to admitted participants though their [DataCamp for the Classroom](https://www.datacamp.com/groups/education) program.
 
 If you would like a different way to learn similar material, we recommend [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/) taught by Charles Lanfear.  This course includes video, code, and assignments.
 
 ## Reading List
 
-The Summer Institute will bring together people from many fields, and therefore we think that asking you to do some reading before you arrive will help us use our time together more effectively.  First, we ask you to read Matt’s book, [Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com), which is a broad introduction to computational social science.  Parts of this book will be review for most of you, but if we all read this book ahead of time, then we can use our time together for more advanced topics.
+The Summer Institute will bring together people from many fields, and therefore we think that asking you to do some reading before you arrive will help us use our time together more effectively.  First, we ask you to read Matt’s book, *[Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com)* ([Read online](https://www.bitbybitbook.com/en/1st-ed/preface/) or purchase from [Amazon](https://www.amazon.com/Bit-Social-Research-Digital-Age/dp/0691158649), [Barnes & Noble](https://www.barnesandnoble.com/w/bit-by-bit-matthew-salganik/1125483924), [IndieBound](https://www.indiebound.org/book/9780691158648), or [Princeton University Press](https://press.princeton.edu/titles/11057.html)), which is a broad introduction to computational social science.  Parts of this book will be review for most of you, but if we all read this book ahead of time, then we can use our time together for more advanced topics.
 
 Also, for students with little or no exposure to sociology, economics, or political science, we have assembled a collection of exemplary papers in the core areas addressed by the Russell Sage Foundation. Neither your work nor the work we develop together at the institute need map neatly onto these categories, but if those with less exposure to social science read these, we will increase the chances of interdisciplinary cross-pollination, which we view as critical to the future of computational social science.
 
