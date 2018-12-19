@@ -22,3 +22,11 @@
       url: /2018/seattle/
 - name: 2019
   url: /2019/
+  children:
+    - name: "**Princeton University**"
+      url: /2019/
+    - separator: true
+    - name: Boston
+      url: /2019/boston/
+    - name: Istanbul
+      url: /2019/istanbul/
