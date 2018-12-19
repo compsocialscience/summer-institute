@@ -28,3 +28,5 @@
     - separator: true
     - name: Boston
       url: /2019/boston/
+    - name: Istanbul
+      url: /2019/istanbul/
