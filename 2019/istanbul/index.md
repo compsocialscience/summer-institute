@@ -16,6 +16,7 @@ Topics covered include text as data, website scraping, digital field experiments
 There will be ample opportunities for students to discuss their ideas and research with the organizers, other participants, and visiting speakers.
 Because we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute will be released open source.
 
-See [details for applications](/2019/istanbul/apply) and apply by February 19th.
+
+See [details for applications](/summer-institute/2019/istanbul/) and apply by February 19th.
 
 The Summer Institute in Computational Social Science is funded in part by grants from the Russell Sage Foundation and the Alfred P. Sloan Foundation.
