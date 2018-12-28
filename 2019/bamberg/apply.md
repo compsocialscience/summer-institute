@@ -14,10 +14,10 @@ The aim of this partner location is to build and expand a network of computation
 
 # How to Apply
 
-To apply please visit: https://goo.gl/forms/Sbftka8Gci65hn7L2
+To apply please visit: [https://goo.gl/forms/Sbftka8Gci65hn7L2](https://goo.gl/forms/Sbftka8Gci65hn7L2)
 
 On this form, we ask that you provide some basic information about yourself and your academic background. To be considered, all applicants must submit the following documents in English language via the link above: (i) a curriculum vitae, (ii) a statement (maximum two pages) describing both any current research and your interest in computational social science, (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. 
 
 Applicants who are Master students, PhD students or postdoctoral researchers must also submit one letter of recommendation from a faculty advisor. The letter of recommendation should be as informative as possible about your standing in your program, general ability, research potential, and (if applicable) special interest in computational social science. All applications must include an e-mail and an alternative means of contact (e.g., phone number). We can offer support grants to cover housing and meals costs for a limited number of non-local participants. Please indicate in your form whether you want to be considered for receiving a support grant.
 
-In order to be guaranteed full consideration, all application materials must be received by **Monday, February 25**. We will notify applicants solely through e-mail in mid-March, and will ask participants to confirm their participation very soon thereafter. Inquiries can be sent to compsocsci.bamberg@gmail.com.
+In order to be guaranteed full consideration, all application materials must be received by **Monday, February 25**. We will notify applicants solely through e-mail in mid-March, and will ask participants to confirm their participation very soon thereafter. Inquiries can be sent to compsocsci.bamberg[at]gmail.com.
