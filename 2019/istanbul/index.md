@@ -14,9 +14,9 @@ The instructional program will involve lectures, group problem sets, and partici
 There will also be outside speakers who conduct computational social science research in academia, industry, and government.
 Topics covered include
 
-* ethics_activity
+* ethics
 * text as data
-* website scraping
+* digital traces and website scraping
 * digital field experiments
 * non-probability sampling
 * mass collaboration
@@ -26,7 +26,7 @@ There will be ample opportunities for students to discuss their ideas and resear
 Because we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute will be released open source.
 
 
-See [details for applications](/summer-institute/2019/istanbul/apply/) and apply by February 19th.
+See [details for applications](/summer-institute/2019/istanbul/apply) and apply by February 19th.
 
 The Summer Institute in Computational Social Science is funded in part by grants from the Russell Sage Foundation and the Alfred P. Sloan Foundation.
 The institute at Kadir Has University is also supported by Kadir Has University.
