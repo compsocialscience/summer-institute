@@ -10,7 +10,7 @@ College](http://www.hunter.cuny.edu/main/), will host its second [Summer Institu
 
 SICSS NYC-Hunter is for both social scientists and data scientists interested in broadening their knowledge and usage of computational social science. 
 In particular, this institute targets applied social scientists, practitioners, and scholars who have little to no exposure to computational social
-science methods and theories. The aim of the SICSS NYC-Hunterinstitute is to build a cohort of applied social science students, scholars, 
+science methods and theories. The aim of the SICSS NYC-Hunter institute is to build a cohort of applied social science students, scholars, 
 instructors, and practitioners who can employ computational social science techniques across practice areas and domains. 
 
 The program is open to all interested participants, though we will be unable to provide accomodations for those not already living in NYC or the tri-state area. 
