@@ -2,6 +2,7 @@
 partner_site: hunter-nyc
 layout: year_home
 faculty_title: Organizers
+pre_arrival: _pre_arrival.md
 speakers_title: Local Speakers
 ---
 
