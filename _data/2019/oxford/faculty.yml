@@ -1,0 +1,13 @@
+- name: Ridhi Kashyap
+  image: /assets/images/RidhiKashyap.jpeg
+  bio: Ryan J. Gallagher is a PhD student at Northeastern University. At the Network Science Institute, he researches the dynamics of social networks using tools and theory from natural language processing and communications. He currently studies the affective phenomena of networked counterpublics. Ryan holds an MS in mathematics from the University of Vermont, where he worked with the Computational Story Lab at the Vermont Complex Systems Center, and a BA in math from the University of Connecticut.
+  website: https://ryanjgallagher.github.io/
+
+- name: Nicolo Cavalli
+  image: /assets/images/nicolo.png
+  bio: David is a PhD candidate in Decision Sciences at Carnegie Mellon University and a visiting scholar at the Wharton School at the University of Pennsylvania. His interests include information avoidance, behavioral interventions (nudges), and decisions from experience. In his dissertation, David studies persuasion in the presence of motivated reasoning. While we might think that changing someone’s mind is all about exposing them to facts that support our views and challenge theirs, such an approach may be more likely to engender defensive information avoidance rather than receptive information processing.
+  website: http://www.dhagmann.com
+
+- name: Taylor Brown
+  image: /assets/images/taylor.gif
+  bio: Eaman Jahani is a graduate research assistant pursuing a PhD degree in Social and Engineering Systems with a minor in Statistics at MIT IDSS. Prior to MIT, he was a software engineer at Google for 4 years. His main training is in statistics and computer science, but recently he has been appreciating econometrics and modeling in applied economics. His past research examined the extent of bubbles vs truth-seeking in cryptocurrency markets and socio-economic prediction in social networks. His current research focuses on structural factors such as networks or institutions that regenerate inequality at a micro scale. Eaman spends too much time reading political commentaries.
