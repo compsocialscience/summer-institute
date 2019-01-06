@@ -1,6 +1,6 @@
 ---
 title: Apply
-partner_site: Oxford
+partner_site: oxford
 layout: default
 ---
  
