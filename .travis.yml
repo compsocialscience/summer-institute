@@ -1,11 +1,7 @@
 language: ruby
 bundler_args: --with ci
 cache: bundler
-env:
-  global:
-    - secure: "AYbGNRYAPQszhgKmSTTcl5Wo3GNMry9tGT2boWacZY36Dkuo1H6Y4kiP2CkmrfCm6CVmQBQQq529pYl3z7SXtcTad9+hqWC+TaYsVkbdYGrVvJbXcGd/OpFZZoMqbXmwciKJQ2RT94w6xJ5FCpQJy329YkRB1qi2RHntJynV9hg6jvMD3vp9MOdnV9Gt8q6AkdtBRSTnLKfB9jUv/WLrke6zFduPd48+SG5PeTifAgjyeJX6P+57fbg7n2YzbvLhUb4U0emVs/YxTLB3WC+ZUM5V3ux0Xf/bRPbSmNLEgCUr/IsNI6P5TEeljhOeiP5h3Z5HS5zpwSinSnbi/zWyJBo2OsqHmRIvdJzebgXagTqYcVkvrLej85YQJWOCJtKFLddgm/Vwttf2sa6jutwF4FPOARJLR3HP1ZpaRGR8mPUuyX+hcvraspPZ5N/U0jnnpVHYPO3hExEBj0mUOdMQQJswC23QH0saffqBJszwl77RIXEdTyVZ02UTJqGT+7sLXpuZBQZ0PhNQKWAVlEB229zCGZPxL4sdzAwZfZOq0VNLjmvCqzkdlBxsNBNIR2aLLdWz3QDK3U3/xdbzRBnZw1+ujI8lBQsd4kngX1eeR/uLcCA9J88mH+9fpGsLn5La0XFYjjQv5LmYwZWcNXGx30Hi2r5U7pB0IpqZ1d5kuCY="
 rvm:
  - 2.4
 script:
  - bundle exec jekyll build
- - ./.github/permission_check.rb
