@@ -2,6 +2,7 @@
 partner_site: bamberg
 layout: year_home
 faculty_title: Organizers
+pre_arrival: _pre_arrival.md
 speakers_title: Local Speakers
 ---
 
@@ -9,7 +10,7 @@ From the evening of Sunday, July 28 to Friday, August 09, 2019, the Summer Insti
 
 The instructional program will involve lectures and group problem sets in the first week and participant-led research projects in the second week. Participants will be able to work in teams to learn how to implement the material from the lectures. Among others, covered topics include ethics, collecting digital trace data, automated text analysis, and surveys in the digital age. There will be ample opportunities for students to discuss their ideas and research with the organizers, other participants, and visiting speakers. One goal of this partner location is to build and expand the network of computational social scientists in Germany.
 
-We are inviting applications from Master students, PhD students, postdoctoral researchers, and untenured faculty within 5 years of their PhD. Participants are expected to fully attend and participate in the entire two-week program.Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R programming language. There is no cost for participating in the workshop. For a limited number of participants, we will be able to cover housing and meals expenses.
+We are inviting applications from Master students, PhD students, postdoctoral researchers, and untenured faculty within 5 years of their PhD. Participants are expected to fully attend and participate in the entire two-week program. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less coding experience will be expected to complete a set of online learning modules on the R programming language. There is no cost for participating in the workshop. For a limited number of participants, we will be able to cover housing and meals expenses up to a set cap.
 
 [Application materials](https://compsocialscience.github.io/summer-institute/2019/bamberg/apply) are due on Monday, February 25, 2019.
 
