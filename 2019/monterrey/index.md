@@ -22,3 +22,5 @@ Avenida Lázaro Cárdenas 4600 Ote. Fracc. Residencial Las Torres
 Monterrey, Nuevo Leon
 
 Mexico
+
+* The Summer Institute in Computational Social Science is supported in part by grants from the Russell Sage Foundation and the Alfred P. Sloan Foundation.
