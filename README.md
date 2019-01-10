@@ -12,6 +12,7 @@ This site was originally created for Summer Institute in Computational Social Sc
 * [Adding Additional Pages](#adding-additional-pages)
 * [Homepage](#homepage)
 * [Adding a partner location](#adding-a-partner-location)
+* [Admin Documentation](#admin-documentation)
 
 # Layouts
 
@@ -150,3 +151,7 @@ In order to make changes to your partner site and have them reflected on the mai
 5. Create a pull request to merge your branch into the `master` branch.
 6. If all the tests pass, you will be able to merge your changes into `master` via the button the pull request. If the tests fail, inspect the errors from the tests and make corrections by pushing fixes to your branch.
 7. Within a few minutes of merging into master, your changes should be deployed to the live site. You may need to clear your browser cache.
+
+# Admin Documentation
+
+Admins of this repository may add and remove collaborators from the [collaboration settings screen](https://github.com/compsocialscience/summer-institute/settings/collaboration). Simply invite people via their GitHub user name giving them "Write" permission.
