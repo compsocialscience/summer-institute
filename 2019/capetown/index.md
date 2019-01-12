@@ -7,7 +7,7 @@ live_stream: _live_stream.md
 <br>
 A Summer Institute in Computational Social Science will be held at the University of Cape Town from 17-28 June 2019. The purpose of the Summer Institute in Cape Town is to bring together graduate students, postdoctoral researchers, and faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
 
-The organizer and principal faculty of the Summer Institute in Cape Town is Dr Visseho Adjiwanou. It is supported by the University of Cape Town, Russel Sage Foundation, and Alfred P. Sloan Foundation.
+The organizer and principal faculty of the Summer Institute in Cape Town is Dr Visseho Adjiwanou. It is supported by the University of Cape Town, Russell Sage Foundation, and Alfred P. Sloan Foundation.
  
 The instructional program will involve lectures (mostly livestreamed from Princeton University), group problem sets, and participant-led research projects. There will also be outside speakers who conduct computational social science research in academia, industry, and government. Topics covered include text as data, website scraping, digital field experiments, non-probability sampling, mass collaboration, and ethics. There will be ample opportunities for students to discuss their ideas and research with the organizers, other participants, and visiting speakers. Since we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute will be released open source.
 
