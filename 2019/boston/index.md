@@ -28,6 +28,4 @@ Cambridge, MA 02142
 
 We are grateful to the Russell Sage Foundation and the Alfred P. Sloan Foundation for their sponsorship of the partner site. We also thank IDSS for providing the space and look forward to announcing additional sponsors for this partner location in the coming months.
 
-<img class="img-responsive" alt="IDSS logo" src="{{ site.baseurl }}{% link 2019/boston/images/rsf_logo.jpg %}" width = "200">
-<img class="img-responsive" alt="IDSS logo" src="{{ site.baseurl }}{% link 2019/boston/images/sloan_logo.png %}" width = "200">
-<img class="img-responsive" alt="IDSS logo" src="{{ site.baseurl }}{% link 2019/boston/images/idss_logo.jpg %}" width = "200">
+<img class="img-responsive" alt="IDSS logo" src="{{ site.baseurl }}{% link 2019/boston/images/rsf_logo.jpg %}" width = "200"> <img class="img-responsive" alt="IDSS logo" src="{{ site.baseurl }}{% link 2019/boston/images/sloan_logo.png %}" width = "200"> <img class="img-responsive" alt="IDSS logo" src="{{ site.baseurl }}{% link 2019/boston/images/idss_logo.jpg %}" width = "200">
