@@ -24,14 +24,14 @@ In order to be guaranteed full consideration, all application materials must be 
 
 ### Application - Frequently Asked Questions
 
-- Can bachelor students also apply? Can associate or full professors also apply?
+Can bachelor students also apply? Can associate or full professors also apply?
 
-No, unfortunately applying is only possible for Master students, PhD students, postdoctoral researchers, and untenured faculty within 5 years of their (first) PhD
+No, unfortunately applying is only possible for Master students, PhD students, postdoctoral researchers, and untenured faculty within 5 years of their (first) PhD.
 
-- Filling out the form requires a google account. Can I rather submit my application elsewhere?
+Filling out the form requires a google account. Can I rather submit my application elsewhere?
 
 It is only possible to submit your application via the form linked above. However, it does not matter at all which google account you use to fill out the form. Neither the associated name, nor any other data from the account are relevant for the application.
 
-- Can I also submit a writing sample written in Germany?
+Can I also submit a writing sample written in Germany?
 
 If you are a Master or Phd student and can not yet provide an English writing sample, it is possible to submit a sample written in German. However, in this case you are required to append some indicator of English proficiency to one of your application files. This must not necessarily be a certificate from a language test. For instance, you can also append a statement about a considerable amount of time spent in an English speaking country.
