@@ -1,0 +1,10 @@
+- name: Chicago
+  url: "/2019/chicago/"
+- name: Pre-Arrival
+  url: "/2019/chicago/#pre-arrival"
+- name: Schedule & Materials
+  url: "/2019/chicago/#schedule"
+- name: Participants
+  url: "/2019/chicago/#participants"
+- name: Apply
+  url: "/2019/chicago/apply"

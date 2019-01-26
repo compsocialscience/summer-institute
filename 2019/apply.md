@@ -20,3 +20,9 @@ Applicants must submit the following documents: (i) a curriculum vitae, (ii) a s
 **In order to be guaranteed full consideration, all application materials must be submitted before February 20th, 2019.**  Applications that are not complete by the deadline may not receive full consideration.  We will notify applicants solely through e-mail in mid-March, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to rsfcompsocsci@gmail.com.
+
+### Application Frequently Asked Questions
+
+- Can I apply to more than one Summer Institute location?
+
+Yes, but not at the same time.  For example, you can apply to SICSS-Princeton, and then if you are not accepted you can apply to one of the other locations if it has a later deadline.  However, you cannot have an applications under review at two locations simultaneously.
