@@ -9,7 +9,7 @@ partner_site: ethzurich
 
 Participation is primarily geared towards advanced master's students, Ph.D. students, postdoctoral researchers, and junior faculty within 7 years of their Doctorate. 
 
-Professional applicants holding a master's or doctoral degree are also welcome but are eligible for the addional funding.  
+Professional applicants holding a master's or doctoral degree are also welcome but are not eligible for the addional funding.  
 
 There are no restrictions based on citizenship, country of study, or country of employment.
 
