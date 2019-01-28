@@ -1,8 +1,9 @@
 ---
-partner_site: ethzurich
 layout: year_home
+partner_site: ethzurich
 faculty_title: Organizers
 speakers_title: Local Speakers
+pre_arrival: _pre_arrival.md
 ---
 
 ETH Zürich is hosting the first-ever SICSS in Switzerland! The event will take place through 16-29 June 2019 as an intensive summer school in computational social science. Sessions and lectures will take place in tandem with the flagship event at Princeton University, along with 9 other partner sites around the world!
