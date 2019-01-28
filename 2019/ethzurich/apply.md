@@ -8,11 +8,15 @@ partner_site: ethzurich
 
 
 Participation is primarily geared towards advanced master's students, Ph.D. students, postdoctoral researchers, and junior faculty within 7 years of their Doctorate. 
-Professional applicants holding at least a master's degree are also welcome.  
+
+Professional applicants holding a master's or doctoral degree are also welcome.  
+
 There are no restrictions based on citizenship, country of study, or country of employment.
 
 The tuition fees and meals during the institute will be covered.
-(The funding situation regarding housing and travelling costs will be updated with the following several months.)
+
+(The funding situation regarding housing and travelling costs will be updated within the following month.)
+
 About 20 participants will be invited.
 
 We welcome applicants from all backgrounds and fields of study.
@@ -28,13 +32,13 @@ Further, when making our evaluations, we will attempt to account for an applican
 
 # How to Apply
 
-All applicants must submit the following documents to sicss.et@gmail.com as a single, combined PDF file.
+All applicants must submit the following documents to sicss.eth@gmail.com as a single, combined PDF file.
 
 * a curriculum vitae
-* a statement (maximum three pages) describing both any current research and your interest in computational social science,
-* one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author.
-* applicants who are graduate students or postdoctoral researchers must submit at least one letter of recommendation from faculty advisors or professors familiar with their work in computational social science. Letters of recommendation should be as informative as possible about your standing in your program, general ability, research potential, and (if applicable) special interest in computational social science.
-* professional applicants must submit at least one of recommendation from their work supervisor 
+* a statement (maximum three pages) describing both any current research and your interest in computational social science;
+* one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author;
+* applicants who are graduate students or postdoctoral researchers must submit at least one letter of recommendation from faculty advisors or professors familiar with their work in computational social science. Letters of recommendation should be as informative as possible about your standing in your program, general ability, research potential, and (if applicable) special interest in computational social science;
+* professional applicants must submit at least one letter of recommendation from their work supervisor 
 * proof of English Proficiency (candidates are exempted from this restriction if 1) their native language is English 2) they have earned a degree taught exclusively in English)
 
 All applications must include an e-mail and an alternative means of contact (e.g., phone number).
