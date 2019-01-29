@@ -10,13 +10,3 @@
 - name: Tina Law
   image: /2019/chicago/images/tina.jpg
   bio: "Tina Law is a PhD student in sociology at Northwestern. Her research explores why we continue to live in unequal neighborhoods even as our cities are constantly changing. In particular, she uses computational methods and large-scale, digitized data from administrative systems and archival sources to understand how historical events shape contemporary neighborhood racial inequality. She is a National Science Foundation Graduate Research Fellow. She holds an MA in sociology from Yale."
-
-- name: Joshua Becker
-  image: /2019/chicago/images/JoshuaBecker.jpeg
-  bio: "Joshua Becker defended his PhD at the University of Pennsylvania and will be starting as a postdoctoral fellow with the Kellogg School of Management and the Northwestern Institute of Complex Systems.  His research on collective intelligence uses formal models and experimental tests to examine how social network structure shapes group decisions. His current research focuses on how communication networks can be harnessed to tap the wisdom of crowds and improve estimation accuracy on tasks such as financial forecasting, political beliefs, and medical diagnoses."
-  website: https://www.joshua-becker.com
-
-- name: Jeremy Foote
-  image: /2019/chicago/images/jeremy-foote.jpg
-  bio: "Jeremy Foote is a PhD candidate in the Media, Technology, and Society program at Northwestern. He is a member of the [Community Data Science Collective](https://communitydata.cc).  Using computational social science tools like social network analysis and simulation, he researches how people cooperate to create online collective goods, focusing particularly on how new projects get started and which ones grow."
-  website:  http://jeremydfoote.com
