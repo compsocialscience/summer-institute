@@ -1,0 +1,11 @@
+- name: Elliott Ash
+  image: /assets/images/ElliottAsh.jpeg
+  bio: Elliott Ash is Assistant Professor of Economics at University of Warwick
+   and Visiting Scholar at Princeton University’s Center for Study of Democratic Politics.
+   Elliott earned a PhD in economics from Columbia University. Elliott's research combines techniques from applied microeconometrics and machine learning for empirical analysis of law and politics, with a focus on text as data. Before obtaining his PhD, Elliott received a BA (Plan II) from University of Texas at Austin, a JD from Columbia Law School, and an LLM (international criminal law) from University of Amsterdam. He also provided consulting work for the Department of Justice investigation of discriminatory practices at Ferguson Police Department.
+  website: http://elliottash.com
+
+- name: Elena Labzina
+  image: /assets/images/elena2.PNG
+  bio: Elena is a postdoctoral associate in the Law, Economics, and Data Science Group in the Lab of Law & Economics at ETH Zurich. In 2018, She received her Ph.D. in political science in Washington University in Saint Louis. Also, she holds MAs in statistics and economics. Currently, Elena works on the intersection of causal inference and ml/NLP in the context of the political media.
+  website: http://elenalabzina.net
