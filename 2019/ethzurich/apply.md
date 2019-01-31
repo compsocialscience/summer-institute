@@ -6,29 +6,22 @@ partner_site: ethzurich
 
 # Eligibility
 
+We invite applications from advanced master’s students, Ph.D. students, and recent doctoral graduates (within 7 years of their doctorate), in academia or in industry. There are no restrictions based on citizenship, country of study, or country of employment.
 
-Participation is primarily geared towards advanced master's students and Ph.D. students.
+While applicants from all backgrounds will be considered, we especially encourage applications from social scientists with a research-specific interest in programming and computation, as well as computer scientists or data scientists with an interest in social-science topics.
 
-The competitive funding covering housing and some part of the traveling costs will be provided to the strongest applicants.
-
-Postdoctoral researchers, junior faculty within 7 years of their doctorate and professional applicants holding a master's or doctoral degree are also welcome but are not eligible for the additional funding.  
-
-There are no restrictions based on citizenship, country of study, or country of employment.
-
-The tuition fee and meals during the institute will be covered for all participants.
-
-About 20 participants will be invited.
-
-We welcome applicants from all backgrounds and fields of study.
-Social scientists with research-specific interest in programming and computational research, as well as advanced coders with research topics within social sciences,  are welcome.
 We evaluate applicants along a number of dimensions:
 
-1. research and education in the area of computational social science,
-2. likelihood to benefit from participation,
-3. likelihood to contribute to the educational experience of other participants,
-4. potential to spread computational social science to new intellectual communities and areas of research.
+    research and education in the area of computational social science,
+    likelihood to benefit from participation,
+    likelihood to contribute to the educational experience of other participants,
+    potential to spread computational social science to new intellectual communities and areas of research.
 
 Further, when making our evaluations, we will attempt to account for an applicant’s career stage and previous educational opportunities.
+
+The program cohort will consist of about 20 participants. There are no fees to attend, and meals will be provided during the workshop.
+
+In addition, we have available some funding to cover travel and housing, which will be provided based on need and merit. Postdocs, faculty, and members of industry are in general not eligible for the additional funding.
 
 # How to Apply
 
