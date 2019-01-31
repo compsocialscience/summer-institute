@@ -14,7 +14,6 @@ The instructional program will involve lectures, group problem sets, and partici
 There will also be outside speakers who conduct computational social science research in academia, industry, and government.
 Topics covered include
 
-* ethics
 * text as data
 * digital democracy
 * machine translation
@@ -23,6 +22,7 @@ Topics covered include
 * non-probability sampling
 * mass collaboration
 * network analysis
+* ethics
 
 There will be ample opportunities for students to discuss their ideas and research with the organizers, other participants, and visiting speakers.
 Because we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute will be released open source.
