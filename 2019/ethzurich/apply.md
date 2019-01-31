@@ -12,10 +12,10 @@ While applicants from all backgrounds will be considered, we especially encourag
 
 We evaluate applicants along a number of dimensions:
 
-    research and education in the area of computational social science,
-    likelihood to benefit from participation,
-    likelihood to contribute to the educational experience of other participants,
-    potential to spread computational social science to new intellectual communities and areas of research.
+  *  research and education in the area of computational social science,
+  *  likelihood to benefit from participation,
+  *  likelihood to contribute to the educational experience of other participants,
+  *  potential to spread computational social science to new intellectual communities and areas of research.
 
 Further, when making our evaluations, we will attempt to account for an applicant’s career stage and previous educational opportunities.
 
