@@ -1,6 +1,11 @@
 - name: Justin Grimmer
   image: /assets/images/JustinGrimmer.jpg
-  bio: "Justin Grimmer is a Professor in Stanford University's Department of Political Science. His primary research interests include Congress, representation, and political methodology."
+  bio: "Justin Grimmer is a Professor in Stanford University's Department of Political Science. His current research focuses on American political institutions, elections, and developing new machine-learning methods for the study of politics. He is the author of *Representational Style in Congress: What Legislators Say and Why It Matters* and *The Impression of Influence: Legislator Communication, Representation, and Democratic Accountability*."
   website: https://www.justingrimmer.org/
+
+- name: Beth Noveck
+  image: /assets/images/BethNoveck.png
+  bio: "Beth Noveck is a Professor in the Technology, Culture, and Society department at the New York University Tandon School of Engineering, where she directs the Governance Lab. New Jersey governor Phil Murphy appointed her as the state’s first Chief Innovation Officer in 2018. Previously, Beth served as the first United States Deputy Chief Technology Officer and director of the White House Open Government Initiative under President Obama. UK Prime Minister David Cameron appointed her senior advisor for Open Government."
+  website: http://www.thegovlab.org/beth-noveck.html
 
 - name: More coming soon
