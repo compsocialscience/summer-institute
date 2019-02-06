@@ -30,8 +30,10 @@
       url: /2019/bamberg
     - name: Boston
       url: /2019/boston/
-    - name: Capetown
+    - name: Cape Town
       url: /2019/capetown/
+    - name: Chicago
+      url: /2019/chicago/
     - name: Hunter (NYC)
       url: /2019/hunter-nyc/
     - name: Istanbul
@@ -42,3 +44,5 @@
       url: /2019/rtp/
     - name: UANL (Monterrey)
       url: /2019/monterrey/
+    - name: ETH Z&uuml;rich
+      url: /2019/ethzurich/
