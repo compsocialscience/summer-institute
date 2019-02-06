@@ -1,3 +1,4 @@
-- name: To be announced.
-  bio: 
-  image:
+- name: Emily Hadley
+  image: /2019/rtp/images/EmilyHadley.jpg
+  bio: Emily Hadley is a Data Scientist with the Center for Data Science at RTI International. She uses her technical skills on a variety of health, education, and computational social science projects. Emily has experience with machine learning techniques, natural language processing, predictive analytics, data visualization, and data ethics, as well as expertise programming in Python, R, and SQL. She holds a BS in Statistics with a second major in Public Policy from Duke University and a MS in Analytics from the Institute for Advanced Analytics at North Carolina State University.
+  website: https://www.rti.org/expert/emily-hadley
