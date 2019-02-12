@@ -39,7 +39,7 @@ Filling out the form requires a google account. Can I rather submit my applicati
 
 It is only possible to submit your application via the form linked above. However, it does not matter which google account you use to fill out the form. No data associated with the account are relevant for the application. If you nevertheless feel uncomfortable about uploading files, you can instead provide (working!) links to external sources. As an example, instead of uploading your C.V. in the form, you could upload a file including a link to your C.V. file stored elsewhere.
 
-I would like to now more about the topics covered at SICSS Bamberg. Can you provide more details?
+I would like to know more about the topics covered at SICSS Bamberg. Can you provide more details?
 
 We are currently still in the process of finalizing the schedule. It might be helpful for you to know that it will be similar to the schedule of [SICSS 2018](https://compsocialscience.github.io/summer-institute/2018/#schedule).
 
