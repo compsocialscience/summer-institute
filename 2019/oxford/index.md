@@ -22,6 +22,8 @@ Participants are expected to attend both weeks of the institute. Meals will be p
 ## APPLICATION
 A formal call for applications will be released in early March. The deadline for all materials will be in early April, and respondents will be informed of their acceptance in early May.
 
+See details for eligibility and apply by Friday, March 29, 2019. Note that this is a month after the main application deadline and after decisions about the main location are expected to have been made.
+
 Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science (especially as it relates to RSF research priorities such as behavioral economics, social inequality, future of work, and immigration), (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. Please **do not** submit letters of recommendation. If submitted, such letters will **not** be read or weighed in the acceptance process. 
 
 Please note: applicants who have previously applied to other SICSS locations in 2019 will need to reapply for SICSS-Oxford.
