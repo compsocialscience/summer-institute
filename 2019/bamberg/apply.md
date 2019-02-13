@@ -20,9 +20,10 @@ On this form, we ask that you provide some basic information about yourself and 
 
 Applicants who are Master students or PhD students must also submit one letter of recommendation from a faculty advisor. The letter of recommendation should be as informative as possible about your standing in your program, general ability, research potential, and (if applicable) special interest in computational social science. All applications must include an e-mail and an alternative means of contact (e.g. phone number). We can offer support grants to cover housing and meal costs for a limited number of non-local participants, up to a set cap. Please indicate in your form whether you want to be considered for receiving a support grant.
 
-In order to be guaranteed full consideration, all application materials must be received by **Monday, February 25**. We will notify applicants solely through e-mail in mid-March, and will ask participants to confirm their participation very soon thereafter. Inquiries can be sent to compsocsci.bamberg[at]gmail.com.
+In order to be guaranteed full consideration, all application materials must be received by **Monday, February 25**. We will notify applicants solely through e-mail in mid-March, and will ask participants to confirm their participation very soon thereafter. Recommendation letters and inquiries can be sent to compsocsci.bamberg[at]gmail.com.
 
 ### Application - Frequently Asked Questions
+
 
 Can bachelor students also apply? Can associate or full professors also apply?
 
@@ -37,4 +38,8 @@ If you are a Master or Phd student and can not yet provide an English writing sa
 Filling out the form requires a google account. Can I rather submit my application elsewhere?
 
 It is only possible to submit your application via the form linked above. However, it does not matter which google account you use to fill out the form. No data associated with the account are relevant for the application. If you nevertheless feel uncomfortable about uploading files, you can instead provide (working!) links to external sources. As an example, instead of uploading your C.V. in the form, you could upload a file including a link to your C.V. file stored elsewhere.
+
+I would like to know more about the topics covered at SICSS Bamberg. Can you provide more details?
+
+We are currently still in the process of finalizing the schedule. It might be helpful for you to know that it will be similar to the schedule of [SICSS 2018](https://compsocialscience.github.io/summer-institute/2018/#schedule).
 
