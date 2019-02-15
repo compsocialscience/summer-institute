@@ -1,7 +1,7 @@
 ---
 partner_site: bamberg
 layout: year_home
-faculty_title: Organizers
+faculty_title: Organizers & Faculty
 pre_arrival: _pre_arrival.md
 speakers_title: Guest Speakers & Lecturers
 ---
