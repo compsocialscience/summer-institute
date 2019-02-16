@@ -1,6 +1,6 @@
 ---
 title: Apply
-partner_site: los angeles
+partner_site: los-angeles
 layout: default
 ---
 
