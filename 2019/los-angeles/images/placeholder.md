@@ -1,0 +1,1 @@
+Create folder for images.
