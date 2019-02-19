@@ -15,7 +15,7 @@ Participation is restricted to Ph.D. students, postdoctoral researchers, and fac
 
 About twenty five to thirty participants will be accepted. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R programming language. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours before the Institute.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2019/capetown/apply) should be received by Monday, February 25, 2019.
+[Application materials](https://compsocialscience.github.io/summer-institute/2019/capetown/apply) should be received by Monday, March 25, 2019.
 
 Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail in mid-March, and will ask participants to confirm their participation very soon thereafter. Inquiries can be sent to [cssforafrica@gmail.com](maito:cssforafrica@gmail.com)
 
