@@ -22,4 +22,4 @@ Application materials will be due on Sunday, April 14, 2019. Note that this is s
 We are grateful to the California Center for Population Research for their sponsorship of the partner site. 
 <!---We also thank IDSS for providing the space and look forward to announcing additional sponsors for this partner location in the coming months.-->
 
-![CCPR logo](/2019/los-angeles/images/CCPR-logo.jpg)
+<img class="img-responsive" alt="CCPR logo" src="{{ site.baseurl }}{% link /2019/los-angeles/images/CCPR-logo.png %}" width = "200">
