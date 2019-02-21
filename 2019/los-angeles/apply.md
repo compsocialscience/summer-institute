@@ -22,5 +22,5 @@ On the application form, we ask that you provide some basic information about yo
 
 
 <!---
-This is commented out: Kindly send all inquiries to [sicss.chicago@gmail.com](mailto:sicss.chicago@gmail.com).
----
+Kindly send all inquiries to [TBA](mailto:TBA).
+--->
