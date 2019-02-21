@@ -14,13 +14,13 @@ Participants with less experience with social science research will be expected 
 
 # How to Apply
 
-**We will provide an application link here shortly.**
+Our application is now live! **[Click here to go to the application.](https://goo.gl/forms/iA63E0rYxrShAC302)** 
 
-On the application form, we ask that you provide some basic information about yourself, your academic background, and your interest in and availability for the institute. To be considered, all applicants will also need to provide a brief research statement (up to 300 words) and submit their CV via the application link.
+On the application form, we ask that you provide some basic information about yourself, your academic background, and your interest in and availability for the institute. To be considered, all applicants will also need to submit the following documents as pdfs via the application form.
 
-**Applications must be submitted via the application form by Sunday, April 14th, 2019.** We will notify applicants solely through e-mail by the end of April, and will ask participants to confirm their participation very soon thereafter. 
+1. a curriculum vitae
+2. a **one page** statement of interest describing their motivation for wanting to participate in the institute and broad research areas (NB: Statements exceeding the page limit will be disregarded.)
 
+**Applications must be submitted via [the application form](https://goo.gl/forms/iA63E0rYxrShAC302) by 11:59 PM PST Sunday, April 14th, 2019.** We anticipate to send out acceptance e-mails by the end of April, and will ask participants to confirm their participation very soon thereafter. 
 
-<!---
-Kindly send all inquiries to [TBA](mailto:TBA).
---->
+Please send any inquiries about the application or the partner institute to [sicss.ucla@gmail.com  ](mailto:sicss.ucla@gmail.com)
