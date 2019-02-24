@@ -3,19 +3,25 @@
 
 
 - name: Dirk Helbing
-  image:
+  image: /assets/images/Dirk_Helbing.png
   bio: "Dirk Helbing is a Professor of Computational Social Science in ETH Zürich."
   website: http://www.coss.ethz.ch/people/helbing.html
 
 
 - name: Dominik Hangartner
-  image:
+  image: /assets/images/Dominik-Hangartner.png
   bio: "Dominik Hangartner is an Associate Professor of public policy and faculty co-director of the Immigration Policy Lab in ETH Zürich."
   website: http://www.pp.ethz.ch/people/dominik-hangartner.html
 
 - name: Christoph Stadtfeld
-  image:
+  image: /assets/images/Christoph_Stadtfeld.jpeg
   bio: "Christoph Stadtfeld is Assistant Professor of Social Networks at ETH Zürich."
   website: https://www.gess.ethz.ch/en/the-department/people/person-detail.html?persid=210738
+
+
+- name: Roger Wattenhofer
+  image: /assets/images/Roger_Wattenhofer.jpg
+  bio: "Roger Wattenhofer is a full professor at the Information Technology and Electrical Engineering Department, ETH Zurich, Switzer­land. He received his doctorate in Computer Science from ETH Zurich. He also worked some years at Microsoft Research in Redmond, Washington, at Brown University in Providence, Rhode Island, and at Macquarie University in Sydney, Australia."
+  website: https://disco.ethz.ch/members/wroger
 
 - name: More Speakers To Be Announced
