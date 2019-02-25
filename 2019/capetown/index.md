@@ -19,3 +19,5 @@ About twenty five to thirty participants will be accepted. Participants with les
 
 Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail in mid-March, and will ask participants to confirm their participation very soon thereafter. Inquiries can be sent to [cssforafrica@gmail.com](maito:cssforafrica@gmail.com)
 
+
+<img class="img-responsive" alt="International Union for the Scientific Study of Population logo" src="{{ site.baseurl }}{% link 2018/capetown/images/iussp_logo.png %}">
