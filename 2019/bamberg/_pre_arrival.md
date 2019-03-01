@@ -39,7 +39,7 @@ Also, for students with little or no exposure to sociology, economics, or politi
   - Chetty, Raj, Nathaniel Hendren, Patrick Kline, and Emmanuel Saez. 2014. “[Where is the Land of Opportunity? The Geography of Intergenerational Mobility in the United States](https://doi.org/10.1093/qje/qju022).” _Quarterly Journal of Economics_.
   - Laureau, Annette. 2002. “[Invisible Inequality - Social Class and Childrearing in White and Black Families](https://www.jstor.org/stable/3088916).” _American Sociological Review_.
   
- ### Political Science
+### Political Science
  
 -  Perliger, Arie, and Ami Pedahzur. 2011. “[Social Network Analysis in the Study of Terrorism and Political Violence](https://www.jstor.org/stable/40984482).” _Political Science & Politics_.
 - King, Gary, Jennifer Pan, and Margaret Roberts. 2013. “[How Censorship in China Allows Government Criticism but Silences Collective Expression](https://gking.harvard.edu/files/censored.pdf).” _American Political Science Review_.
