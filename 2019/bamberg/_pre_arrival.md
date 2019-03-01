@@ -8,13 +8,11 @@ The majority of the coding work presented at the 2019 SICSS Bamberg will employ 
 
   - [https://www.datacamp.com/courses/free-introduction-to-r](https://www.datacamp.com/courses/free-introduction-to-r)
   - [https://www.datacamp.com/courses/intermediate-r](https://www.datacamp.com/courses/intermediate-r)
+  - [https://www.datacamp.com/courses/introduction-to-the-tidyverse](https://www.datacamp.com/courses/introduction-to-the-tidyverse)
   - [https://www.datacamp.com/courses/data-visualization-with-ggplot2-1](https://www.datacamp.com/courses/data-visualization-with-ggplot2-1)
-  - [https://www.datacamp.com/courses/data-visualization-with-ggplot2-2](https://www.datacamp.com/courses/data-visualization-with-ggplot2-2)
   - [https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial)
-  - [https://www.datacamp.com/courses/cleaning-data-in-r](https://www.datacamp.com/courses/cleaning-data-in-r)
   - [https://www.datacamp.com/courses/writing-functions-in-r](https://www.datacamp.com/courses/writing-functions-in-r)
   - [https://www.datacamp.com/courses/reporting-with-r-markdown](https://www.datacamp.com/courses/reporting-with-r-markdown)
-  - [https://www.datacamp.com/courses/exploratory-data-analysis-in-r-case-study](https://www.datacamp.com/courses/exploratory-data-analysis-in-r-case-study)
   - [https://www.datacamp.com/courses/introduction-to-git-for-data-science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
 
 We thank DataCamp for making these materials available to admitted participants though their [DataCamp for the Classroom](https://www.datacamp.com/groups/education) program.
@@ -35,9 +33,13 @@ Also, for students with little or no exposure to sociology, economics, or politi
 
 ### Race, Ethnicity, and Immigration
   - Waters, Mary. 1994 “[Ethnic and racial identities of second-generation black immigrants in New York City](https://www.jstor.org/stable/2547158).” _International Migration Review_.
-  - Sniderman, Paul et. al. 2004. “[Predisposing Factors and Situational Triggers - Exclusionary Reactions to Immigrant Minorities](https://www.jstor.org/stable/4145295)." _American Political Science Review_.
   - Bertrand, Marrianne and Sendhil Mullainathan. 2004. “[Are Emily and Greg More Employable than Lakisha and Jamal? A Field Experiment on Labour Market Discrimination](https://www.jstor.org/stable/3592802).” _American Economic Review_.
 
 ### Social Inequality
   - Chetty, Raj, Nathaniel Hendren, Patrick Kline, and Emmanuel Saez. 2014. “[Where is the Land of Opportunity? The Geography of Intergenerational Mobility in the United States](https://doi.org/10.1093/qje/qju022).” _Quarterly Journal of Economics_.
   - Laureau, Annette. 2002. “[Invisible Inequality - Social Class and Childrearing in White and Black Families](https://www.jstor.org/stable/3088916).” _American Sociological Review_.
+  
+ ### Political Science
+ 
+-  Perliger, Arie, and Ami Pedahzur. 2011. “[Social Network Analysis in the Study of Terrorism and Political Violence](https://www.jstor.org/stable/40984482).” _Political Science & Politics_.
+- King, Gary, Jennifer Pan, and Margaret Roberts. 2013. “[How Censorship in China Allows Government Criticism but Silences Collective Expression](https://gking.harvard.edu/files/censored.pdf).” _American Political Science Review_.
