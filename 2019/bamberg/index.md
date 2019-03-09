@@ -12,7 +12,7 @@ The instructional program will involve lectures and group problem sets in the fi
 
 We are inviting applications from Master students, PhD students, postdoctoral researchers, and untenured faculty within 5 years of their PhD. Participants are expected to fully attend and participate in the entire two-week program. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less coding experience will be expected to complete a set of online learning modules on the R programming language. There is no cost for participating in the Summer Institute. For a limited number of participants, we will be able to cover housing and meal expenses up to a set cap.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2019/bamberg/apply) are due on Monday, February 25, 2019.
+Application materials were due Monday, February 25, 2019. We are no longer accepting applications.
 
 ## Sponsors
 

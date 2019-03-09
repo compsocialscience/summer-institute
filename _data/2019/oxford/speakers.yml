@@ -1,4 +1,5 @@
-- name: To be announced.
-  image:
-  bio:
-  website: 
+
+- name: Pablo Barbera
+  image: /assets/images/BarberaPablo.jpg
+  bio: Pablo Barberá is an Assistant Professor of Computational Social Science at the London School of Economics. His research develops text and network analysis methods that improve our understanding of how exposure to political information through social media sites affects political behavior. He is also the authors of several R packages that allow scholars to collect and analyze social media data. 
+  website: http://pablobarbera.com/
