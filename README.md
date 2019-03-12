@@ -22,20 +22,23 @@ The [`default`](_layouts/default.html) layout is a very basic layout with a head
 
 ## Year Home
 
-The [`year_home`](_layouts/year_home.html) layout is intended to be used for as the homepage for a particular year or iteration of the summer institute. It includes the same header, navbar, and footer as `default` and the first section is the Markdown content converted to HTML. It also includes additional sections: Faculty, Speakers, Teaching Assistants, and Schedule. These sections are populated by [top-level-directory specific YAML files](#top-level-directory-specific-yaml-files) with the appropriate data.
+The [`year_home`](_layouts/year_home.html) layout is intended to be used for as the homepage for a particular year or iteration of the summer institute. It includes the same header, navbar, and footer as `default` and the first section is the Markdown content converted to HTML. It also includes additional sections: People and Schedule. These sections are populated by [top-level-directory specific YAML files](#top-level-directory-specific-yaml-files) with the appropriate data.
 
-Faculty or Speaker example:
+People example:
 ```yaml
-- name: Matt Salganik
-  image: /assets/images/matt.jpg
-  bio: Bio here
-  website: https://www.princeton.edu/~mjs3/
-```
+faculty:
+  title: Faculty
+  people:
+    - name: Matt Salganik
+      image: /assets/images/matt.jpg
+      bio: Bio here
+      website: https://www.princeton.edu/~mjs3/
 
-Teacher assistant example:
-```yaml
-- name: Broderick
-  image: http://placehold.it/200x267
+teacherassistants:
+  title: Teacher Assistants
+  people:
+    - name: Broderick
+      image: http://placehold.it/200x267
 ```
 
 Schedule example:
@@ -56,7 +59,7 @@ Schedule example:
 ```
 # Top-level-directory specific YAML files
 
-Typically each year would have its own top-level directory. For example the information for the 2017 summer institute would live in `2017/`. Each top-level-directory may also have it's own set of data files that are unique to that year. For 2017, these would live in `_data/2017`. Both the navbar and the special sections in the [`year_home` layout](#year-home) are powered by the data in this directory. Navigation links that are specific to 2017 should live in `_data/2017/navigation.yml`,  faculty: `_data/2017/faculty.yml`, speakers: `_data/2017/speakers.yml`, teaching assistants: `_data/2017/teaching_assistants.yml`, and schedule: `_data/2017/schedule.yml`.
+Typically each year would have its own top-level directory. For example the information for the 2017 summer institute would live in `2017/`. Each top-level-directory may also have it's own set of data files that are unique to that year. For 2017, these would live in `_data/2017`. Both the navbar and the special sections in the [`year_home` layout](#year-home) are powered by the data in this directory. Navigation links that are specific to 2017 should live in `_data/2017/navigation.yml`,  people: `_data/2017/people.yml`, and schedule: `_data/2017/schedule.yml`.
 
 # Navigation Links
 
@@ -115,8 +118,6 @@ Example steps for creating a new partner location for 2018 at Northwestern Unive
    ---
    partner_site: northwestern
    layout: year_home
-   faculty_title: Organizers
-   speakers_title: Local Speakers
    ---
    ```
    The `partner_site` field above tells the site where to look for the data files for this page. In this example, it'd use the data files in `_data/2018/northwestern`.

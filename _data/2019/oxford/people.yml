@@ -1,0 +1,44 @@
+organizers:
+  title: Organizers
+  people:
+    - name: Ridhi Kashyap
+      image: /assets/images/ridhi_kashyap.jpeg
+      bio: Ridhi Kashyap is associate professor of social demography and fellow of Nuffield College at the University of Oxford. She completed her DPhil in Sociology jointly affiliated with the University of Oxford and Max Planck Institute for Demographic Research. Her research spans a number of substantive areas in demography and sociology, including gender, mortality and health, the diversification of family forms, and ethnicity and migration. Her work has sought to adopt computational innovations both in terms of modelling approaches such as agent-based models and digital trace data from web and social media platforms to study social and demographic processes.  She is currently leading a Data2X and UN Foundation supported project that uses big data from the web, in particular large-scale online advertising data that provide information on the aggregate numbers of users of online platforms by demographic characteristics, to measure sustainable development and gender inequality indicators.
+      website: https://www.nuffield.ox.ac.uk/people/profiles/ridhi-kashyap/
+
+    - name: Nicolo Cavalli
+      image: /assets/images/nicolo_cavalli.png
+      bio: Nicolò is a DPhil candidate in Sociology at Nuffield College, University of Oxford. He holds a BA in Politics from University of Bologna and a MSc in Economics from Bocconi University, Milan. Before joining Nuffield College, Nicolò worked as journalist, reporting on social issues and political movements from Italy, Greece, Catalunya, California and Peru. His Doctoral Thesis focuses on how intergroup emotional stratification emerged in Europe in times of economic recession.
+
+    - name: Taylor Brown
+      image: /assets/images/taylor_brown.jpg
+      bio: Taylor Brown is a doctoral student in the Duke Sociology department, and is associated with the Duke Network Analysis Center. She has broad interests in computational methods and social media studies. Her dissertation explores gender inequality in creative professions. Taylor holds an MA in sociology from UNC-Chapel Hill and an MSc in evidence-based social intervention from the University of Oxford. Prior to beginning her PhD, Taylor fulfilled an appointment at the National Science Foundation in the division of Social and Economic Sciences.
+      website: http://www.taylorwhittenbrown.com/
+
+localspeakers:
+  title: Local Speakers
+  people:
+    - name: Pablo Barbera
+      image: /assets/images/BarberaPablo.jpg
+      bio: Pablo Barberá is an Assistant Professor of Computational Social Science at the London School of Economics. His research develops text and network analysis methods that improve our understanding of how exposure to political information through social media sites affects political behavior. He is also the authors of several R packages that allow scholars to collect and analyze social media data.
+      website: http://pablobarbera.com/
+
+workshopleaders:
+  title: Workshop Leaders
+  people:
+    - name: Roberto Cerina
+      image: /assets/images/CerinaRoberto.jpg
+      bio: "Roberto Cerina is a third-year DPhil candidate in Sociology at Nuffield College, University of Oxford, with an interest in Election Forecasting, Bayesian Statistics and non-representative surveys. His recent work has focused on making inference on electoral preferences from revealed behaviour on social-media; in particular, together with Professor Raymond Duch, he has forecasted the 2018 mid-term elections in Texas using likes from pages of public candidates on Facebook, leveraging the latest technology in prediction and post-stratification, and achieving results comparable to state-of-the-art surveys, at a fraction of the cost (see here from more: http://raymondduch.com/forecasts/). Currently he is working on forecasting the 2019 Indian Lok Sabha Elections using a convenience sample and Mechanical Turks. He is also working on finalising a Machine Learning pipeline to produce fully automated Opinion Polling from Twitter."
+      website:
+
+    - name: Charles Rahal
+      image: /assets/images/RahalCharles.jpg
+      bio: Charles Rahal is a social science methodologist and applied social data scientist with a background in high-dimensional econometrics, having completed his PhD in 2016. He currently holds a British Academy Postdoctoral Fellowship entitled 'The Social Data Science of Healthcare Supply' which develops data driven tools for analysing healthcare procurement processes. He is particularly interested in unique data origination processes, be they unstructured or otherwise, and is an advocate for open source and reproducible academic research, particularly in the forms of Python, LaTeX and Linux. He was a co-recipient (with Aaron Reeves, Sam Friedman and Magne Flemmen) of the 2018 European Academy of Sociology Best Paper award, and he presently teaches 'Python for Sociologists' in Michaelmas Term. Other current areas of interest include civic technology, applied econometrics (predominantly spatial and time series), scientometrics, data wrangling, software development, and social stratification and social mobility. He is increasingly interested in sociological applications of text mining algorithms. Follow his projects on [github](https://github.com/crahal) and [Google Scholar](https://scholar.google.co.uk/citations?user=8bd7KNgAAAAJ&hl=en)!
+      website:
+
+teachingassistants:
+  title: Teaching Assistants
+  people:
+    - name: To be announced.
+      bio:
+      image:
