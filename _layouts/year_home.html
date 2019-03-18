@@ -17,13 +17,17 @@
     <div class="people section">
       <a id="people"></a>
       <div class="container">
-        {% include faculty.html %}
+        {% if data.people %}
+          {% include people.html %}
+        {% else %}
+          {% include faculty.html %}
 
-        {% include speakers.html %}
+          {% include speakers.html %}
 
-        {% include teaching_assistants.html %}
+          {% include teaching_assistants.html %}
 
-        {% include participants.html %}
+          {% include participants.html %}
+        {% endif %}
       </div>
     </div>
 
