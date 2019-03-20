@@ -1,4 +1,5 @@
-- name: To be announced.
-  image: 
-  bio: 
-  website: 
+- name: Sam S. Adams
+  image: /2019/rtp/images/SamAdams.jpg
+  bio: Sam Adams is a Senior Artificial Intelligence Researcher at RTI International and also the Mission Architect for Project Catapult, a company initiative focusing on applying computational social science. He applies artificial intelligence and knowledge graph techniques to the unique data curation and integration challenges that data scientists face. He holds 29 patents and previously spent more than 2 decades with IBM Research, where he was appointed one of the first IBM Distinguished Engineers. Mr. Adams played a leading role in various strategic initiatives—including artificial general intelligence, autonomous learning, end-user programming, contextual data fusion, big data and analytics, enterprise-scale data curation, and massive multicore programming and high-performance graph database acceleration; he also applied Internet of Things data and reactive knowledge graphs to the challenges of global elder care.
+  website: https://www.rti.org/expert/sam-s-adams
+
