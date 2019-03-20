@@ -30,5 +30,5 @@ and several generous local sponsors:
 
 <a href="https://www.kellogg.northwestern.edu/" target="_"><img src="https://www.northwestern.edu/brand/images/Kellogg_horizontal_new.jpg" height="130px" style="padding:10px;"></a>
 
-<a href="https://www.nico.northwestern.edu/" target="_"><img src="images/NICO Logo Purple Transparent.png" height="120px" style="padding:10px;"></a>
+<a href="https://www.nico.northwestern.edu/" target="_"><img src="images/NICO Logo Purple on White w CompSys Text 1000px.jpg" height="60px" style="padding:10px;"></a>
 </div></center>
