@@ -84,9 +84,9 @@
   bio: "Amin Rahimian is a postdoctoral associate at the MIT Institute for Data, Systems, and Society (IDSS). He received his masters in systems engineering and PhD in electrical and systems engineering from the University of Pennsylvania, and masters in statistics from the Wharton School at UPenn. His research interests include network science, statistics, control and decision theory, with applications to social and economic networks."
   website: "http://aminrahimian.github.io/"
 
-#- name: Sarah Rezaei
-#  image: /assets/images/sarahRezaei.jpg
-#  bio: "Sarah Rezaei is an assistant professor at the chair of Microeconomics at Utrecht University School of Economics. Her main fields of interest are Behavioral and Experimental Economics. She is particularly interested in social and economic networks, how they form, why they show certain patterns and how their structure impact on human behavior. Specifically, a large part of her research investigates the impact of the decision context on people's other-regarding and cooperative behavior theoretically and experimentally."
+- name: Sarah Rezaei
+  image: /assets/images/sarahRezaei.jpg
+  bio: "Sarah Rezaei is an assistant professor at the chair of Microeconomics at Utrecht University School of Economics. Her main fields of interest are Behavioral and Experimental Economics. She is particularly interested in social and economic networks, how they form, why they show certain patterns and how their structure impact on human behavior. Specifically, a large part of her research investigates the impact of the decision context on people's other-regarding and cooperative behavior theoretically and experimentally."
 
 - name: Elizaveta Sivak
   image: /assets/images/elizavetaSivak.jpg
