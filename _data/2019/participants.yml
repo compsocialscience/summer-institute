@@ -18,7 +18,7 @@
 - name: Karina Caro
   image: /assets/images/karinaCaro.jpg
   bio: "Karina Caro is an Assistant Professor of Informatics at the Faculty of Administrative and Social Sciences of the Autonomous University of Baja California in Ensenada, Mexico. She received her Ph.D. in Computer Science from the Center for Scientific Research and Higher Education of Ensenada, Mexico (CICESE Research Center). She worked as a postdoctoral researcher in the College of Computing and Informatics and in the Antoinette Westphal College of Media Arts & Design at Drexel University. Her research interests are in human-computer interaction, ubiquitous and pervasive computing, accessibility, and videogames for health. Her research focuses on designing and evaluating technology to support cognitive and motor development of children with neurodevelopmental and genetic disorders such as autism, Down Syndrome, and Cerebral Palsy. All her current research projects intersect computing, medical and social sciences. She works very closely with specialists in the care of children with neurodevelopmental disorders such as neuro pediatricians and physical and occupational therapists, as well as, psychotherapists and special education teachers. Her overall research aim is to create technology for supporting the care of children with neurodevelopmental disorders, contributing to the acquisition and practice of the necessary skills to achieve children's independence."
-  #website: "www.karinacaro.com"
+  website: "www.karinacaro.com"
 
 - name: Naniette H. Coleman
   image: /assets/images/nanietteColeman.jpg
@@ -32,7 +32,7 @@
 - name: William Frey
   image: /assets/images/williamFrey.jpg
   bio: "William Frey (he/they) is a doctoral student at Columbia University's School of Social Work, coordinator of the SAFElab, and researcher in the Cogburn Research Group. His research focuses on race and whiteness within the context of digital technoculture, and the individual and collective role of white people in the perpetuation of socio-technological systems of domination and power (e.g., digital racism). He has expertise in contextual analysis of social media, social media data ethics, and community/domain expert involvement in computational mixed methods research. William received his M.S.W. in community organizing from the University of Michigan's School of Social Work."
-  #website: "https://www.williamrfrey.com/"
+  website: "https://www.williamrfrey.com/"
 
 - name: Anton Gollwitzer
   image: /assets/images/antonGollwitzer.jpg
@@ -57,7 +57,7 @@
 - name: Jae Yeon Kim
   image: /assets/images/jaeYeonKim.jpg
   bio: "Jae Yeon Kim is a PhD candidate in political science at the University of California, specializing in comparative historical approaches to the study of race, ethnicity, and politics. His research examines coalitional dynamics within minority communities, focusing on the conditions under which ethnic minority groups form a race-based coalition in the United States and elsewhere. Kim is interested in leveraging computational text analysis and machine learning to study how racial solidarity works in the post-civil rights era. Prior to coming to Berkeley, Kim worked in the tech industry."
-  #website: "https://jaeyk.github.io/"
+  website: "https://jaeyk.github.io/"
 
 - name: Monika Leszczyńska
   image: /assets/images/monikaLeszczynska.jpg
