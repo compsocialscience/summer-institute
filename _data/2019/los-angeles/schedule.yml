@@ -63,9 +63,10 @@
 - date: 2019-06-21
   name: "Computational Methods for Demography and Causal Inference (Mini-Conference)"
   events:
-    - name: "9:15 - 9:30 Mini-conference opening and introduction"
-    - name: "9:30 - 10:45 Speed-dating and group formation for week 2 projects"
-    - name: "10:45 - 11:00 Coffee break"
+    - name: "9:15 - 10:30 Local logistics"
+    - name: "9:15 - 10:30 Speed-dating and group formation for week 2 projects"
+    - name: "10:30 - 10:45 Coffee break"
+    - name: "10:45 - 11:00 Mini-conference opening and introduction"
     - name: "11:00 - 12:00 Keynote: Greg DeAngelo"
     - name: "12:00 - 1:00 Lunch"
     - name: "1:00 - 2:00 Computational causal research workshop"
