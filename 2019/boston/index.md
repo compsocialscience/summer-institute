@@ -26,7 +26,7 @@ Cambridge, MA 02142
 
 # Sponsors
 
-We are grateful to the Russell Sage Foundation and the Alfred P. Sloan Foundation for their sponsorship of the partner site. We also thank IDSS for providing the space and look forward to announcing additional sponsors for this partner location in the coming months.
+We are grateful to the Russell Sage Foundation and the Alfred P. Sloan Foundation for their sponsorship of the partner site. We also thank MIT's IDSS for providing the space and the Quelstrom School of Business at Boston University for additional funding. We look forward to announcing additional sponsors for this partner location in the coming months.
 
 <div class="row">
   <div class="column">
@@ -37,9 +37,6 @@ We are grateful to the Russell Sage Foundation and the Alfred P. Sloan Foundatio
   </div>
   <div class="column">
      <img class="img-responsive" alt="IDSS logo" src="{{ site.baseurl }}{% link 2019/boston/images/idss_logo.jpg %}" width = "150">
-  </div>
-  <div class="column">
-     <img class="img-responsive" alt="Quelstrom logo" src="{{ site.baseurl }}{% link 2019/boston/images/quelstrom_logo.png %}" width = "150">
   </div>
 </div>
 
