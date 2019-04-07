@@ -30,16 +30,16 @@ We are grateful to the Russell Sage Foundation and the Alfred P. Sloan Foundatio
 
 <div class="row">
   <div class="column">
-    <img class="img-responsive" alt="Russell Sage Foundation Logo" src="{{ site.baseurl }}{% link 2019/boston/images/rsf_logo.jpg %}" width = "200">
+    <img class="img-responsive" alt="Russell Sage Foundation Logo" src="{{ site.baseurl }}{% link 2019/boston/images/rsf_logo.jpg %}" width = "180">
   </div>
   <div class="column">
-     <img class="img-responsive" alt="Sloan Foundation Logo" src="{{ site.baseurl }}{% link 2019/boston/images/sloan_logo.png %}" width = "200">
+     <img class="img-responsive" alt="Sloan Foundation Logo" src="{{ site.baseurl }}{% link 2019/boston/images/sloan_logo.png %}" width = "180">
   </div>
   <div class="column">
-     <img class="img-responsive" alt="IDSS logo" src="{{ site.baseurl }}{% link 2019/boston/images/idss_logo.jpg %}" width = "200">
+     <img class="img-responsive" alt="IDSS logo" src="{{ site.baseurl }}{% link 2019/boston/images/idss_logo.jpg %}" width = "180">
   </div>
   <div class="column">
-     <img class="img-responsive" alt="Questrom Business School logo" src="{{ site.baseurl }}{% link 2019/boston/images/questrom_logo.jpg %}" width = "200">
+     <img class="img-responsive" alt="Questrom Business School logo" src="{{ site.baseurl }}{% link 2019/boston/images/questrom_logo.jpg %}" width = "180">
   </div>
 </div>
 
