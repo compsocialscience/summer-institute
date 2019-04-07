@@ -39,7 +39,7 @@ We are grateful to the Russell Sage Foundation and the Alfred P. Sloan Foundatio
      <img class="img-responsive" alt="IDSS logo" src="{{ site.baseurl }}{% link 2019/boston/images/idss_logo.jpg %}" width = "125">
   </div>
   <div class="column">
-     <img class="img-responsive" alt="Questrom Business School logo" src="{{ site.baseurl }}{% link 2019/boston/images/questrom_logo.png %}" width = "125">
+     <img class="img-responsive" alt="Questrom Business School logo" src="{{ site.baseurl }}{% link 2019/boston/images/questrom_logo.jpg %}" width = "125">
   </div>
 </div>
 
