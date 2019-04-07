@@ -45,14 +45,15 @@ We are grateful to the Russell Sage Foundation and the Alfred P. Sloan Foundatio
 
 <style>
 .column {
-  float: left;
   width: 25%;
   padding: 5px;
+  display: inline-block;
 }
 
 .row::after {
   content: "";
   clear: both;
   display: table;
+  text-align: center;
 }
 </style>
