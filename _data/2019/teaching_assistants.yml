@@ -7,9 +7,13 @@
   image: /assets/images/DanielleMontagne.JPG
 
 - name: Cambria Naslund
-  bio: "Cambria is a graduate student in sociology at Princeton University. She uses computational methods to study questions in the sociologies of science, medicine, and technology. Her current research explores public understandings of medical knowledge and diagnoses using text and image data from newspapers and crowdfunding campaigns. She completed her B.A. in Social Research and Public Policy at NYU Abu Dhabi." 
+  bio: "Cambria is a PhD student in sociology at Princeton University. She uses computational methods to study questions in the sociologies of science, medicine, and technology. Her current research explores public understandings of medical knowledge and diagnoses using text and image data from newspapers and crowdfunding campaigns. She completed her B.A. in Social Research and Public Policy at NYU Abu Dhabi." 
   image: /assets/images/CambriaNaslund.jpg
 
+- name: Tom Wolff
+  bio: "Tom is a PhD student in the Department of Sociology at Duke University. His interests include culture, networks, social psychology, inequality, and political sociology. Tom's current projects explore predictors of socioeconomic diversity in friendship networks and the ways in which political discourse changes in the presence of (in)complete information."
+  image: /assets/images/TomWolff.jpg
+
 - name: Simone Zhang
-  bio: "Simone is a graduate student in sociology at Princeton University. Her research examines how technology is reshaping how people interact with the organizations they encounter in everday life. She draws on experiments and digital trace data to study the implications of these shifts for social inclusion, socioeconomic outcomes, and trust in institutions." 
+  bio: "Simone is a PhD student in sociology at Princeton University. Her research examines how technology is reshaping how people interact with the organizations they encounter in everday life. She draws on experiments and digital trace data to study the implications of these shifts for social inclusion, socioeconomic outcomes, and trust in institutions." 
   image: /assets/images/SimoneZhang.jpg
