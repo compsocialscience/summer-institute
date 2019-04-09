@@ -26,30 +26,34 @@ Cambridge, MA 02142
 
 # Sponsors
 
-We are grateful to the Russell Sage Foundation and the Alfred P. Sloan Foundation for their sponsorship of the partner site. We also thank IDSS for providing the space and look forward to announcing additional sponsors for this partner location in the coming months.
+We are grateful to the Russell Sage Foundation and the Alfred P. Sloan Foundation for their sponsorship of the partner site. We also thank MIT's IDSS for providing the space and the Questrom School of Business at Boston University for additional funding. We look forward to announcing additional sponsors for this partner location in the coming months.
 
 <div class="row">
   <div class="column">
-    <img class="img-responsive" alt="IDSS logo" src="{{ site.baseurl }}{% link 2019/boston/images/rsf_logo.jpg %}" width = "200">
+    <img class="img-responsive" alt="Russell Sage Foundation Logo" src="{{ site.baseurl }}{% link 2019/boston/images/rsf_logo.jpg %}" width = "200">
   </div>
   <div class="column">
-     <img class="img-responsive" alt="IDSS logo" src="{{ site.baseurl }}{% link 2019/boston/images/sloan_logo.png %}" width = "200">
+     <img class="img-responsive" alt="Sloan Foundation Logo" src="{{ site.baseurl }}{% link 2019/boston/images/sloan_logo.png %}" width = "200">
   </div>
   <div class="column">
      <img class="img-responsive" alt="IDSS logo" src="{{ site.baseurl }}{% link 2019/boston/images/idss_logo.jpg %}" width = "200">
+  </div>
+  <div class="column">
+     <img class="img-responsive" alt="Questrom Business School logo" src="{{ site.baseurl }}{% link 2019/boston/images/questrom_logo.jpg %}" width = "200">
   </div>
 </div>
 
 <style>
 .column {
-  float: left;
-  width: 33.33%;
+  width: 24%;
   padding: 5px;
+  display: inline-block;
 }
 
 .row::after {
   content: "";
   clear: both;
   display: table;
+  text-align: center;
 }
 </style>
