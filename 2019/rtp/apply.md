@@ -4,6 +4,12 @@ partner_site: rtp
 layout: default
 ---
 
+<br>
+
+<ul class="list-group">
+  <li class="list-group-item list-group-item-info"><i>The SICSS application deadline has been extended until <b>Sunday, April 21, 2019</b></i></li>
+</ul>
+
 # Eligibility
 
 ### Applicant Profile:
@@ -22,6 +28,6 @@ To apply, please e-mail the following materials to <sicss@rti.org> as a single, 
 - One writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. 
 - Applicants who are graduate students must submit one letter of recommendation from a faculty advisor. Letters of recommendation should be as informative as possible about your standing in your program, general ability, research potential, and (if applicable) special interest in computational social science. 
 
-All applications must include an alternative means of contact (e.g., phone number). In order to be guaranteed full consideration, all application materials must be submitted by **11:59 PM PST on Friday, April 12th, 2019**. We will notify applicants solely through e-mail in early May and will ask participants to confirm their participation very soon thereafter.
+All applications must include an alternative means of contact (e.g., phone number). In order to be guaranteed full consideration, all application materials must be submitted by **11:59 PM PST on Sunday, April 21th, 2019**. We will notify applicants solely through e-mail in early May and will ask participants to confirm their participation very soon thereafter.
 
 For any questions, please email <sicss@rti.org>. 
