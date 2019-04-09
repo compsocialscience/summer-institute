@@ -6,7 +6,7 @@ pre_arrival: _pre_arrival.md
 speakers_title: Local Speakers
 ---
 
-[RTI International](https://www.rti.org/) (RTI) is proud to host and be a partner institution of the Summer Institute in Computation Social Science (SICSS) from the morning of Monday, June 17 to evening of Friday, June 28. Sessions and lectures will take place in tandem with the main event at Princeton University, along with 9 other partner institutions around the world. 
+[RTI International](https://www.rti.org/) (RTI) is proud to host and be a partner institution of the Summer Institute in Computational Social Science (SICSS) from the morning of Monday, June 17 to evening of Friday, June 28. Sessions and lectures will take place in tandem with the main event at Princeton University, along with 9 other partner institutions around the world. 
 
 RTI will be the only non-university to host a partner site for SICSS. RTI is an independent, nonprofit research institute centrally located between Duke University, the University of North Carolina at Chapel Hill, and North Carolina State University. 
 
