@@ -13,7 +13,7 @@ layout: default
 # Eligibility
 
 ### Applicant Profile:
-We invite applications from Ph.D. students, postdoctoral researchers, untenured faculty within 7 years of their Ph.D, and researchers with similiar qualifications. There are no restrictions based on citizenship, country of study, or country of employment. We expect to invite about twenty participants for this partner location, and participants are expected to fully attend and participate in the entire two-week program. 
+We invite applications from Ph.D. students, postdoctoral researchers, untenured faculty within 7 years of their Ph.D, and researchers with similar qualifications. There are no restrictions based on citizenship, country of study, or country of employment. We expect to invite about twenty participants for this partner location, and participants are expected to fully attend and participate in the entire two-week program. 
 
 The aim of the RTI partner location is to build and expand a network of computational social scientists in the Research Triangle Park area. We invite applications not only from participants with a background in both computational methods and social science, but especially from those who seek to acquire new skills in either of these domains.
 
