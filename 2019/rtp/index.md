@@ -43,7 +43,7 @@ In the afternoons of the first week, participants will work in teams to learn ho
 <dl>
 	<dt><i>Who Should Apply:</i></dt>
 	<dd>
-		<p>Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D.</p>
+		<p>Ph.D. students, postdoctoral researchers, untenured faculty within 7 years of their Ph.D, and researchers with similar qualifications. </p>
 	</dd>
 </dl>
 
