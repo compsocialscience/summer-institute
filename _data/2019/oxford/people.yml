@@ -38,7 +38,13 @@ localspeakers:
       bio: Dr Scott A. Hale is a Senior Data Scientist and Research Fellow at the Oxford Internet Institute of the University of Oxford, UK, and a Fellow at the Alan Turing Institute. He develops and applies techniques from computer science to research questions in both computer science and the social sciences and puts the results into practice with industry partners. He is particularly interested in mobilization/collective action, agenda setting, and antisocial behaviour (e.g., hate speech) and has a strong track record in building tools and teaching programmes that enable social science researchers to access new methods and forms of data. At Oxford, he directs the Social Data Science programme, supervises postgraduate students and postdoctoral researchers, and teaches postgraduate students.
       website:
      
-
+    - name: Neave OClery
+      image: /assets/images/OCleryNeave.jpg
+      bio: Originally from Dublin, Dr Neave OClery is currently a Senior Research Fellow at the Mathematical Institute at the University of Oxford where she leads a research group  focused on data-driven models for economic development and the emergence of complexity for urban systems. Neave was previously a Fulbright Scholar and Postdoctoral Research Fellow at the Center for International Development at the Harvard Kennedy School following her PhD (mathematics) at Imperial College. She is also founder and Editor in Chief of Angle – a journal based at Imperial College focusing on the intersection of policy, politics and science – since 2009. 
+      website:
+      
+      
+      
 workshopleaders:
   title: Workshop Leaders
   people:
