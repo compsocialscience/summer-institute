@@ -42,6 +42,16 @@
 
     {% include schedule.html data_key="schedule" title="Schedule and materials" %}
 
+    {% if page.projects %}
+      <div class="section">
+        <a id="projects"></a>
+        <div class="container">
+          {% capture projects %}{% include_relative {{ page.projects }} %}{% endcapture %}
+          {{ projects | markdownify }}
+        </div>
+      </div>
+    {% endif %}
+
     {% if page.live_stream %}
       <div class="streaming section">
         <a id="live_stream"></a>
