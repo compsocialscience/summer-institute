@@ -2,6 +2,7 @@
 layout: year_home
 pre_arrival: _pre_arrival.md
 live_stream: _live_stream.md
+projects: _projects.md
 ---
 <br>
 From the evening of Sunday, June 18 to the morning of Saturday, July 1, 2017, the Russell Sage Foundation will sponsor the first Summer Institute in Computational Social Science, to be held at Princeton University. The purpose of the Summer Institute is to introduce graduate students, postdoctoral researchers, and beginning faculty to computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).  The co-organizers and principal faculty of the Summer Institute are Christopher Bail and Matthew Salganik.
