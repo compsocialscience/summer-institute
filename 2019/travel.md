@@ -11,7 +11,7 @@ The Summer Institute, through Princeton University, will be providing economy cl
 - North American, except East Coast US: $500
 - Outside of North America: $1,300
 
-Princeton University's travel agency is World Travel Inc. and they will make your travel arrangements for you.  Details on contacting World Travel will be sent to you. *Please make your travel arrangements as soon as possible and no later than May 16, 2019.*  
+Princeton University's travel agency is World Travel Inc. and they will make your travel arrangements for you.  Details on contacting World Travel will be sent to you. **Please make your travel arrangements as soon as possible and no later than May 16, 2019.** 
 
 Due to funding limitations, we are only able to provide economy travel costs; we are not able to provide reimbursement for meals or other incidental expenses.  Also, we are not able to reimburse travel between the airport (or train station) and campus or between your home and the airport (or train station).
 
