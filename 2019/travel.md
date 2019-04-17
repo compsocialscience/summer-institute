@@ -3,7 +3,7 @@ layout: default
 title: Travel reimbursement policy
 ---
 
-### Travel reimbursement policy
+### Travel reimbursement policy for SICSS 2019 Princeton University
 
 The Summer Institute, through Princeton University, will be providing economy class transportation to and from the Summer Institute for all accepted participants.  Due to funding limitations, we are only able to provide travel costs up to a fixed cap, which is based on the home institution of the participant. The cost caps are:
 
@@ -13,7 +13,7 @@ Outside of North America: $1,300
 
 Princeton University's travel agency is World Travel Inc. and they will make your travel arrangements for you.  Details on contacting World Travel will be sent to you. *Please make your travel arrangements as soon as possible and no later than May 16, 2019.*  
 
-Due to funding limitations, we are only able to provide economy travel costs; we are not able to provide reimburse for meals or other incidental expenses.  Also, we are not able to reimburse travel between the airport (or train station) and campus or between your home and the airport (or train station).
+Due to funding limitations, we are only able to provide economy travel costs; we are not able to provide reimbursement for meals or other incidental expenses.  Also, we are not able to reimburse travel between the airport (or train station) and campus or between your home and the airport (or train station).
 
 Inquiries can be sent to rsfcompsocsci@gmail.com.
 
