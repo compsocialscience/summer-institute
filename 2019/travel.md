@@ -7,9 +7,9 @@ title: Travel reimbursement policy
 
 The Summer Institute, through Princeton University, will be providing economy class transportation to and from the Summer Institute for all accepted participants.  Due to funding limitations, we are only able to provide travel costs up to a fixed cap, which is based on the home institution of the participant. The cost caps are:
 
-East Coast US: $200
-North American, except East Coast US: $500
-Outside of North America: $1,300
+- East Coast US: $200
+- North American, except East Coast US: $500
+- Outside of North America: $1,300
 
 Princeton University's travel agency is World Travel Inc. and they will make your travel arrangements for you.  Details on contacting World Travel will be sent to you. *Please make your travel arrangements as soon as possible and no later than May 16, 2019.*  
 
