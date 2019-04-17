@@ -3,7 +3,7 @@ layout: default
 title: Travel reimbursement policy
 ---
 
-## Travel reimbursement policy for SICSS 2019 Princeton University
+## Travel reimbursement policy for SICSS 2019 at Princeton University
 
 The Summer Institute, through Princeton University, will be providing economy class transportation to and from the Summer Institute for all accepted participants.  Due to funding limitations, we are only able to provide travel costs up to a fixed cap, which is based on the home institution of the participant. The cost caps are:
 
