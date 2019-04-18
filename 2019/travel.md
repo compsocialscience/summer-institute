@@ -21,11 +21,11 @@ Inquiries can be sent to rsfcompsocsci at gmail dot com.
 
 ##### What if I'd like to come to travel to SICSS from somewhere other than my home institution or travel from SICSS to somewhere other than my home institution?  
 
-That would be fine.  However, our cost cap is based on your home institution.
+That would be fine.  However, our cost cap is based on your home institution, and you are responsible for any travel costs above the cap.
 
 ##### Can I purchases an economy class upgrades (e.g., Economy plus, exit row, aisle seat)?
 
-We cannot reimburse economy class upgrades.  But, you are free to purchase them yourself through World Travel Inc. or your airlines.  If you have a health-related reason for needing an upgrade, please contact us.
+We cannot reimburse economy class upgrades.  But, you are free to purchase them yourself through World Travel Inc. or through the airlines.  If you have a health-related reason for needing an upgrade, please contact us.
 
 ##### What if I already bought my plane ticket, but not through World Travel Inc.?
 
