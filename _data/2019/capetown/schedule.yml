@@ -158,7 +158,7 @@
     - name: "2:15-6:30 Group project"
     - name: "6:30-8:00 Dinner & discussion"
  
- - date: 2019-06-26
+- date: 2019-06-26
   name: Work on group projects
   events:
     - name: "9:00-9:15 Logistics (No livestream)"
@@ -182,7 +182,7 @@
     - name: "2:15-6:30 Group project"
     - name: "6:30-8:00 Dinner & discussion"
    
-  - date: 2019-06-28
+- date: 2019-06-28
   name: Work on group projects
   events:
     - name: "9:00-9:15 Logistics (No livestream)"
