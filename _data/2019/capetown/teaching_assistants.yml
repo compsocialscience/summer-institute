@@ -5,7 +5,12 @@
 - name:  Aldu Cornelissen 
   image: /2018/capetown/images/Cornelissen.jpeg
   bio: "Aldu Cornelissen is a lecturer at the Department of Information Science at Stellenbosch University. He co-found the Computational Social Science group at Stellenbosch University, and is a member of the Centre of Artificial Intelligence (CAIR). The group’s research focuses on the impact of social media in society by investigating bot interference during political elections in Sub-Sahara Africa. Aldu specialises in Social Network Analysis, specifically individual and group social cognition."
-  website:
+  website: http://suinformatics.com/cssg/
+  
+- name: Emmanuel Olamijuwon 
+  image: /2018/capetown/images/Olamijuwon.jpg
+  bio: "Emmanuel Olamijuwon is a lecturer at the University of Swaziland, and a PhD candidate in demography and population studies (University of the Witwatersrand, South Africa). His research adapts computational approaches in assessing the effectiveness of social media-based sexuality education in improving the sexual and reproductive health, knowledge and rights of young adults in Africa. By combining innovative and youth-friendly approaches, he hopes to drive new discussions on the role of digital media in demographic studies. Emmanuel also plays an active role in various interdisciplinary research projects many of which revolve around the social determinants of health, sexual and reproductive health, digital demography as well as the demography of African families. He is the coordinator of the Sexually Healthy and Young [SHY] Adults network (https://shyadult.org/)"
+  website: http://e.olamijuwon.com 
 
 
 #- name: Gerald Nathan Balekaki
