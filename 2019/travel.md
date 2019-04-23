@@ -37,4 +37,4 @@ No.  This policy only applies to accepted participants at SICSS 2019 at Princeto
 
 ##### When should I plan to arrive and depart?
 
-You should plan to be on campus in time for a 6pm dinner on Sunday, June 16.  We will have a going away dinner on Friday, June 23 that will run until late in the evening so you should plan to leave on Saturday, June 29.
+You should plan to be on campus in time for a 6pm dinner on Sunday, June 16.  We will have a going away dinner on Friday, June 28 that will run until late in the evening so you should plan to leave on Saturday, June 29.
