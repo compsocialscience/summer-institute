@@ -13,9 +13,7 @@ There will be ample opportunities for students to discuss their ideas and resear
 
 We are inviting applications from Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. Meals will be provided during the workshop and we expect to invite about twenty participants. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R programming language. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours before the Institute.
 
-Application materials will be due on Friday, April 12, 2019. Note that this is six weeks after the main application deadline and after decisions about the main location are expected to have been made. If you have also applied to the Princeton location and have not yet heard from them at the time of your submission, please let us know in your cover letter.
-
-There is no cost to participating in the Boston workshop. Limited travel subsidies may be available. Please let us know in your cover letter if this is something you would be interested in.
+Application materials were due on Friday, April 12, 2019. We can no longer accept new applications. There is no cost to participating in the Boston workshop.
 
 All events will be held at:
 
