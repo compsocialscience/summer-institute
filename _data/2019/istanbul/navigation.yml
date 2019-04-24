@@ -1,2 +1,4 @@
-- name: Apply
-  url: "/2019/istanbul/apply"
+- name: People
+  url: "/2019/#people"
+- name: Pre-arrival
+  url: "/2019/#pre-arrival"
