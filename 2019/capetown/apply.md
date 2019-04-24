@@ -13,10 +13,10 @@ Participants with less experience with social science research will be expected 
 
 # How to Apply
 
-Our application system is not yet accepting materials.
+To apply click [here](https://docs.google.com/forms/d/10r9KkiVM2LgnmwBhzZ8Kdw5Q-j97n0WH808WEmEjQQE/edit)
 
-But, once it is enabled, we ask that you provide some basic information about yourself and your academic background. To be considered, all applicants must submit the following documents via the link above (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science (especially as it relates to sub-Saharan Africa and RSF research priorities such as behavioral economics, social inequality, future of work, and immigration, health), (iii) one writing sample (no more than 35 pages). All applications must include an e-mail and an alternative means of contact (e.g., phone number). 
+To be considered, all applicants must submit the following documents via the link above (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science (especially as it relates to sub-Saharan Africa and RSF research priorities such as behavioral economics, social inequality, future of work, and immigration, health), (iii) one writing sample (no more than 35 pages). All applications must include an e-mail and an alternative means of contact (e.g., phone number). 
 
 
-Applications must be received by the deadline. **Complete applications, including letters of recommendation if any, must be received by Monday, February 25**.  Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail in mid-March, and will ask participants to confirm their participation very soon thereafter. Inquiries can be sent to [cssforafrica@gmail.com](maito:cssforafrica@gmail.com)
+Applications must be received by the deadline. **Complete applications, including letters of recommendation if any, must be received by Monday, March 25**.  Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail in mid-March, and will ask participants to confirm their participation very soon thereafter. Inquiries can be sent to [cssforafrica@gmail.com](maito:cssforafrica@gmail.com)
 

@@ -1,0 +1,9 @@
+# - name:  Sample Participant
+#   image: /2019/boston/images/sample-participant.jpg
+#   bio: "This is a sample participant"
+#   website: "http://www.google.com"
+
+# - name:  Sample Participant 2
+#   image: /2019/boston/images/sample-participant.jpg
+#   bio: "This is another sample participant"
+#   website: "http://www.google.com"

@@ -17,13 +17,17 @@
     <div class="people section">
       <a id="people"></a>
       <div class="container">
-        {% include faculty.html %}
+        {% if data.people %}
+          {% include people.html %}
+        {% else %}
+          {% include faculty.html %}
 
-        {% include speakers.html %}
+          {% include speakers.html %}
 
-        {% include teaching_assistants.html %}
+          {% include teaching_assistants.html %}
 
-        {% include participants.html %}
+          {% include participants.html %}
+        {% endif %}
       </div>
     </div>
 
@@ -37,6 +41,16 @@
     {% endif %}
 
     {% include schedule.html data_key="schedule" title="Schedule and materials" %}
+
+    {% if page.projects %}
+      <div class="section">
+        <a id="projects"></a>
+        <div class="container">
+          {% capture projects %}{% include_relative {{ page.projects }} %}{% endcapture %}
+          {{ projects | markdownify }}
+        </div>
+      </div>
+    {% endif %}
 
     {% if page.live_stream %}
       <div class="streaming section">
