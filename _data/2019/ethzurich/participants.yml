@@ -7,3 +7,10 @@
 #   image: /2019/boston/images/smobasseri.jpg
 #   bio: "This is another sample participant"
 #   website: "http://www.dhagmann.com"
+
+
+
+- name:  Alessandra Stampi-Bombelli
+  image: /2019/boston/images/Alessandra_Stampi-Bombelli.jpg
+  bio: "Alessandra Stampi-Bombelli is a Research Assistant at University of Zurich’s Chair of Political Economy of Development. She received a B.A. in Political Science from the University of Roma Tre and a M.Sc. in Economics from the University of Lausanne in 2017. This summer she will be starting a PhD at ETH Zurich, jointly with the Center for Law & Economics, the Public Policy Group and the Immigration Policy Lab. Her PhD will focus broadly on applying machine learning techniques to topics of empirical economics and policy and, in particular, on migration. She is currently working on a project that assesses the effect of immigrant group size on integration during the period of Mass Migration in the US. Her research interests include migration economics and policy, identity and integration, and behavioral development economics."
+  project: "Alessandra is interested in migration economics and policy, identity and integration. She aims to work on the effect of immigrant group size on integration in the US. In other words, she would like to assess whether increasing migrant enclaves from the same origin affects their motivation to integrate, which can be measured by name choice for children, employment, and other labor market outcomes. Other outcome variable can be linked to the judicial system and natural language processing would help extract information from historical documents."
