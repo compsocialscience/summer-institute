@@ -3,12 +3,6 @@
 #   bio: "This is a sample participant"
 #   website: "http://www.dhagmann.com"
 
-# - name:  Sample Participant 2
-#   image: /2019/boston/images/smobasseri.jpg
-#   bio: "This is another sample participant"
-#   website: "http://www.dhagmann.com"
-
-
 
 - name:  Alessandra Stampi-Bombelli
   image: /2019/ethzurich/images/Alessandra_Stampi-Bombelli.jpg
@@ -35,3 +29,23 @@
   image: /2019/ethzurich/images/Germain_Gauthier.jpg
   bio: "Germain is a doctoral student in Economics at Ecole Polytechnique, CREST. He holds an MSc in Business Administration from HEC Paris and an MSc in Economics from the Paris School of Economics. He is interested in the formation, persistence and unravelling of social norms and of beliefs. Relying on social networks, surveys and administrative data, his main focus has been on the evolution of gender norms. More broadly, any topic related to political economy is likely to arouse his curiosity."
 
+- name:  Moritz Hoferer
+  image: /2019/ethzurich/images/Moritz_Hoferer.png
+  bio: "Moritz Hoferer is a PhD candidate in Economics at ETH Zurich. His research is about Political Campaigns on Complex Networks. In particular, he concentrates on theoretical modeling of opinion formation as well as analyzing campaign related data. Before, he studied Physics at LMU Munich and University of Milan focusing on Theoretical Biophysics."
+  website: https://sites.google.com/view/hoferer
+
+- name:  Gabrielle Mantell
+  image: /2019/ethzurich/images/Gabrielle_Mantell.jpg
+  bio: "Gabrielle Mantell is a master's student in European and Nordic Studies at the University of Helsinki. Her current research focuses on the use of computational and memetic propaganda within the context of global politics. She holds a MA in Science and Security from King’s College London and a BA in International Relations from Mount Holyoke College. Gabrielle’s research interests include computational international relations, machine learning and geopolitics."
+
+- name:  Valentina Rizzoli
+  image: /2019/ethzurich/images/Valentina_Rizzoli.jpg
+  bio: "Valentina is a postdoctoral researcher at the Department of Health Awareness and Communication, Istituto Zooprofilattico Sperimentale delle Venezie (Legnaro, Padua). She received her Ph.D. in Social Sciences and her M.Sc. in Social, Communication, and Work Psychology at the University of Padua. In her dissertation she applied and compared computational text analyses to chronological corpora pertaining scientific literature to portray the history of a discipline. She is currently involved in various research projects on risk communication. Her research interests include qualitative and quantitative methods in social psychology, particularly, computational text analyses applied to social issues. Main topics treated: food risk communication, history of social psychology, economic crisis, ageing."
+
+- name:  Philine Widmer
+  image: /2019/ethzurich/images/Philine_Widmer.jpg
+  bio: "Philine is a second-year Ph.D. student in Economics at the University of St. Gallen. Her research interests include media, political, and development economics. In particular, she studies news reporting in the digital age, relying on web-mining approaches to describe which kinds of players and contents dominate news flows around the world and how they depend on institutions."
+
+- name:  George Boateng
+  image: /2019/ethzurich/images/George_Boateng.jpg
+  bio: "George Boateng is a PhD candidate and doctoral researcher doing applied machine learning research at the Center for Digital Health Interventions at ETH Zurich in Switzerland. He is currently developing a smartwatch-based emotion recognition algorithm for chronic disease management among romantic couples. His research interests are at the intersection of machine learning, mobile health, and wearable computing. He seeks to develop AI-powered mobile and wearable health apps that leverage sensor data to improve the health of people. He is also the Cofounder and President of Nsesa Foundation, an education nonprofit whose vision is to spur an Innovation Revolution in Africa. George has a B.A. in Computer Science and an M.S. in Computer Engineering, both from Dartmouth College in the U.S."
