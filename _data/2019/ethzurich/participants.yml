@@ -8,7 +8,6 @@
   image: /2019/ethzurich/images/Alessandra_Stampi-Bombelli.jpg
   bio: "Alessandra Stampi-Bombelli is a Research Assistant at University of Zurich’s Chair of Political Economy of Development. She received a B.A. in Political Science from the University of Roma Tre and a M.Sc. in Economics from the University of Lausanne in 2017. This summer she will be starting a PhD at ETH Zurich, jointly with the Center for Law & Economics, the Public Policy Group and the Immigration Policy Lab. Her PhD will focus broadly on applying machine learning techniques to topics of empirical economics and policy and, in particular, on migration. She is currently working on a project that assesses the effect of immigrant group size on integration during the period of Mass Migration in the US. Her research interests include migration economics and policy, identity and integration, and behavioral development economics."
 
-
 - name:  Elena Fernandez
   image: /2019/ethzurich/images/Elena_Fernandez.jpg
   bio: "Originally from Spain, Elena Fernandez is a PhD student in Hispanic Languages and Literatures at the University of California, Berkeley. Her current research profile incorporates Intellectual History, Cultural Studies, and History of Ideas. She is expanding her research interests to the fields of Cultural Analytics, Culturomics, Computational Social Sciences, Digital Humanities, and Natural Language Processing. She is presently working on a research project that aims to quantify mutations of the social construction of time by relating technological advancements and information fluctuation in the printed press of several countries."
@@ -49,3 +48,28 @@
 - name:  George Boateng
   image: /2019/ethzurich/images/George_Boateng.jpg
   bio: "George Boateng is a PhD candidate and doctoral researcher doing applied machine learning research at the Center for Digital Health Interventions at ETH Zurich in Switzerland. He is currently developing a smartwatch-based emotion recognition algorithm for chronic disease management among romantic couples. His research interests are at the intersection of machine learning, mobile health, and wearable computing. He seeks to develop AI-powered mobile and wearable health apps that leverage sensor data to improve the health of people. He is also the Cofounder and President of Nsesa Foundation, an education nonprofit whose vision is to spur an Innovation Revolution in Africa. George has a B.A. in Computer Science and an M.S. in Computer Engineering, both from Dartmouth College in the U.S."
+
+- name:  Karen Nershi
+  image: /2019/ethzurich/images/Karen_Nershi.jpg
+  bio: "Karen Nershi is a PhD candidate in political science at the University of Pennsylvania. Her research interests lie at the intersection of international political economy and conflict, and she is particularly interested in the economic factors that drive conflict and the economic consequences of conflict and organized crime. Her dissertation examines how private financial sector interests affect countries’ enforcement of anti-money laundering laws. Before coming to Penn, Karen earned a bachelor’s degree in international studies at the University of Alabama."
+
+- name:  Wei Zhong
+  image: /2019/ethzurich/images/Wei_Zhong.jpeg
+  bio: "Wei is a PhD candidate in Political Science at University of Illinois at Urbana-Champaign, USA. Her research interests include political methodology, text analysis, machine learning and political behavior. Her dissertation examines the effects of political candidate’ evaluations on the strength of partisan voting, and voters’ evaluation mechanism across competing candidates in elections. Wei received her bachelor’s degree in Spanish from University of International Business and Economics from China, and her master’s degree in Statistics from University of Illinois at Urbana-Champaign."
+
+- name:  Laura White
+  image: /2019/ethzurich/images/Laura_White.jpg
+  bio: "Laura White is a third year Ph.D. student in the Politics Department at the University of Virginia, specializing in international relations and quantitative methodology. Her research interests focus on questions of reputation formation, public opinion and the electoral cycle, the role of leaders in international relations, and how states strategically interact with the domestic politics of adversaries and allies. She is especially interested in applying these themes to US-Russian relations, both past and present. Prior to attending UVA, Laura received an M.A. in Political Science from Georgia State University and a B.A. in Political Science and International Affairs from the University of Georgia."
+
+- name:  Cantay Caliskan
+  image: /2019/ethzurich/images/Cantay_Caliskan.png
+  bio: "Cantay Caliskan is an Assistant Professor of Data Analytics at Denison University in Granville, Ohio. His research focuses on social media, political communication, lobbying, and policymaking. He uses network analysis, text analysis, visualization, and machine learning to understand how the diffusion of ideas and the distribution of political money shape and complicate the way people engage in politics."
+
+- name:  Anastasia Voloshina
+  image: /2019/ethzurich/images/Anastasia_Voloshina.jpg
+  bio: "Anastasia received the Master of Science degree at the Faculty of Computational Mathematics and Cybernetics, Lomonosov State University in Moscow. Now she works as a graphic designer and visual artist in Berlin, finishing her second education, Visual Communication, at the Weissensee Academy of Art Berlin, after studying Graphic Design at British Higher School of Art and Design Moscow and Hertfordshire University, as well as Digital Arts at the University of Applied Arts Vienna. She was being exhibited in Moscow, Berlin and Vienna. At the moment Anastasia is developing her project on metadata portraits, at the same time she illustrates social aspects of everyday life in Berlin, works on visualisations for other various projects and her research on interface design project at the Fachhochschule Potsdam, University of Applied Sciences."
+
+- name:  Saddaf Naaz Akhtar
+  image: /2019/ethzurich/images/Saddaf_Naaz_Akhtar.jpg
+  bio: "I am a Ph.D. student in the field of Population Studies at Centre for the Study of Regional Development, Jawaharlal Nehru University, New Delhi, India. I received M.Sc. in Statistics and Computing from Banaras Hindu University, Varanasi and Master of Population Studies from International Institute for Population Sciences (I.I.P.S.), Mumbai, India. My research broadly focuses in combining computational methods with large-scale datasets to study demography and public health phenomena with a particular emphasis on mortality, aging, and health, specifically the methodological challenges, gender differential in mortality, as well as in the lifespan inequality, healthy aging and longevity in mortality studies. Cumulatively, my research work contributes to the fields of computational social science and public health policymaking."
+  
