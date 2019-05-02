@@ -34,3 +34,7 @@ That is fine.  Please save your receipts for reimbursement.  However, going forw
 ##### I'm participating at some location other than Princeton.  Does this policy apply to me?
 
 No.  This policy only applies to accepted participants at SICSS 2019 at Princeton University.  If you are participating at another location, please contact your local organizer.
+
+##### When should I plan to arrive and depart?
+
+You should plan to be on campus in time for a 6pm dinner on Sunday, June 16.  We will have a going away dinner on Friday, June 28 that will run until late in the evening so you should plan to leave on Saturday, June 29.
