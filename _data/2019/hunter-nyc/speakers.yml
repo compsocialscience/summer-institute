@@ -1,3 +1,26 @@
-- name: Coming Sooon!
-  bio: 
-  image:
+- name: Josh Raines 
+  image: /assets/images/JoshRaines.png
+  bio: "Coming Soon"
+  website: https://www.bsu.edu/academics/centersandinstitutes/ssrc/directory/rainesjoshua
+
+- name: Desmond Patton 
+  image: /assets/images/DoesmondPatton.png
+  bio: "Coming Soon"
+  website: https://socialwork.columbia.edu/faculty-research/faculty/full-time/desmond-upton-patton/
+
+- name: Melanie Sage 
+  image: /assets/images/MelanieSage.png
+  bio: "Coming Soon"
+  website: http://socialwork.buffalo.edu/faculty-research/full-time-faculty/melanie-sage.html
+  
+- name: Lauri Goldkind 
+  image: /assets/images/LauriGoldkind.png
+  bio: "Coming Soon"
+  website: https://www.laurigoldkind.net/
+  
+  - name: Richard Smith
+  image: /assets/images/RichardSmith.png
+  bio: "Coming Soon"
+  website: https://socialwork.wayne.edu/profile/eo8093
+  
+
