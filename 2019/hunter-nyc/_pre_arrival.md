@@ -8,7 +8,9 @@ The majority of the coding work presented at the 2019 SICSS will employ R. Howev
 If you would like more practice after completing the RStudio Primers, some other materials that we can recommend are:
 
 [R for Social Science](https://datacarpentry.org/r-socialsci/), Data Carpentry.
+
 [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/), Taught by Charles Lanfear at University of Washington. This course includes videos of lectures, slides, and assignments.
+
 [Learn R](https://www.codecademy.com/learn/learn-r), Code Academy.
 
 ## Reading List
