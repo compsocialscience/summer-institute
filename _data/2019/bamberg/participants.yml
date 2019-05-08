@@ -1,9 +1,4 @@
-# - name:  Sample Participant
-#   image: /2019/boston/images/dhagmann.jpg
-#   bio: "This is a sample participant"
-#   website: "http://www.dhagmann.com"
-
-# - name:  Sample Participant 2
-#   image: /2019/boston/images/smobasseri.jpg
-#   bio: "This is another sample participant"
-#   website: "http://www.dhagmann.com"
+- name: Liane Rothenberger
+  image: /2019/bamberg/images/liane_rothenberger.jpg
+  bio: "Liane Rothenberger is a senior researcher and lecturer at the Institute of Media and Communication Science at Technische Universität Ilmenau, Germany. Her research focuses on journalism and communication in an intercultural perspective, norms and values in communication studies and in the social sciences, and crisis communication."
+  website: "https://www.tu-ilmenau.de/en/department-of-media-studies/team/pd-dr-phil-habil-liane-rothenberger/"
