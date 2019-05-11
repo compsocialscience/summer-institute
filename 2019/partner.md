@@ -3,7 +3,7 @@ layout: default
 title: SICSS partner locations
 ---
 
-# SICSS parter locations
+# SICSS partner locations
 
 You can host a partner location of the Summer Institutes of Computational Social Science (SICSS) at your university, company, NGO, or government agency. For universities, SICSS provides an exciting approach to training and building interdisciplinary community. For companies, NGOs, and government agencies, hosting a parter location enables building connections with the academic community, providing training for current employees, and recruiting future employees.
 
@@ -11,7 +11,7 @@ You can host a partner location of the Summer Institutes of Computational Social
 
 Starting in 2018, the Summer Institutes in Computational Social Science (SICSS) began including partner locations in order to increase the number of participants. The Summer Institute is two weeks long and involves: 1) live-streamed lectures on topics ranging from automated text analysis to ethics; 2) training exercises to reinforce key ideas from lectures; 3) live-streamed research talks from leaders in the field; and 4) participant-led group research projects. This model has been used successfully at universities and companies around the world.
 
-The Summer Institutes are highly modular so the open source curriculum can be adapted to the skills and interests at each location. The minimum budget to support a partner location is about $10,000 to $20,000 and depends on local conditions. If you have more questions about budgeting---or grants that many be available to support partner locations---please contact us at rsfcompsocsci[at]gmail[dot]com.  
+The Summer Institutes are highly modular and the open source curriculum can be adapted to the skills and interests at each location. The minimum budget to support a partner location is about $10,000 to $20,000 and depends on local conditions. If you have more questions about budgeting---or grants that many be available to support partner locations---please contact us at rsfcompsocsci[at]gmail[dot]com.  
 
 In order to ensure quality and consistency, all parter locations must have a former participant of SICSS as one of the local organizers. If you don't have any SICSS alumni at your organization, you can contact us about finding a former participant that could collaborate with you. For example, in 2019 Matti Nelimarkka (SICSS '17) is collaborating with Akın Ünver to run a partner location in [Istanbul, Turkey (Kadir Has University)](https://compsocialscience.github.io/summer-institute/2019/istanbul/).
 
@@ -37,7 +37,7 @@ The Summer Institutes in Computational Social Sciences are supported by grants f
 
 The mission of the Summer Institutes in Computational Social Science is to provide open, high-quality training in computational social science to researchers around the world in order to accelerate the growth of the field and ensure that it develops practices that are in the long-term interests of science and society.
 
-As we work toward this mission we will be guided by the following principles:
+As we work toward this mission, we will be guided by the following principles:
 
 1. The training provided by SICSS will be free to participants.  
 
