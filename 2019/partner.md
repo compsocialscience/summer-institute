@@ -5,15 +5,15 @@ title: SICSS partner locations
 
 # SICSS parter locations
 
-You can host a partner location of Summer Institutes of Computational Social Science (SICSS) at your university, company, NGO, or government agency. For universities, SICSS provides an exciting approach to providing training and building interdisciplinary community. For companies, NGOs, and government agencies, hosting a parter location enables building connections with the academic community, providing training for current employees, and recruiting future employees.
+You can host a partner location of the Summer Institutes of Computational Social Science (SICSS) at your university, company, NGO, or government agency. For universities, SICSS provides an exciting approach to providing training and building interdisciplinary community. For companies, NGOs, and government agencies, hosting a parter location enables building connections with the academic community, providing training for current employees, and recruiting future employees.
 
 ### Hosting a partner location
 
-Starting in 2018, the Summer Institutes in Computational Social Science (SICSS) began including partner locations in order to increase the number of participants. The Summer Institute is two weeks long and involves: a) live streamed lectures on topics ranging from automated text analysis to ethics; b) training exercises to reinforce key ideas from lectures; c) live streamed research talks from leaders in the field; and d) participant-led group research projects. This model has been used successfully at universities and companies around the world.
+Starting in 2018, the Summer Institutes in Computational Social Science (SICSS) began including partner locations in order to increase the number of participants. The Summer Institute is two weeks long and involves: 1) live-streamed lectures on topics ranging from automated text analysis to ethics; 2) training exercises to reinforce key ideas from lectures; 3) live-streamed research talks from leaders in the field; and 4) participant-led group research projects. This model has been used successfully at universities and companies around the world.
 
 The Summer Institutes are highly modular so the open source curriculum can be adapted to the skills and interests at each location. The minimum budget to support a partner location is about $10,000 to $20,000 and depends on local conditions. If you have more questions about budgeting---or grants that many be available to support partner locations---please contact us at rsfcompsocsci[at]gmail[dot]com.  
 
-In order to ensure quality and consistency, all parter locations must have an former participants of SICSS as one of the local organizers. If you don't have any SICSS alumni at your organization, you can contact us about finding an former participant that could collaborate with you. For example, in 2019 Matti Nelimarkka (SICSS '17) is collaborating with Akın Ünver to host run a partner location in [Istanbul, Turkey (Kadir Has University)](https://compsocialscience.github.io/summer-institute/2019/istanbul/).
+In order to ensure quality and consistency, all parter locations must have a former participant of SICSS as one of the local organizers. If you don't have any SICSS alumni at your organization, you can contact us about finding an former participant that could collaborate with you. For example, in 2019 Matti Nelimarkka (SICSS '17) is collaborating with Akın Ünver to run a partner location in [Istanbul, Turkey (Kadir Has University)](https://compsocialscience.github.io/summer-institute/2019/istanbul/).
 
 ### Previous partner locations
 
@@ -27,7 +27,7 @@ There were 11 partner location in 2019: [Bamberg, Germany (University of Bamberg
 
 ### Sponsoring a partner location
 
-If you would like to provide a grant to sponsor a partner location, please contact us at sfcompsocsci[at]gmail[dot]com.
+If you would like to sponsor a partner location, please contact us at sfcompsocsci[at]gmail[dot]com.
 
 ### Acknowledgments
 
@@ -43,6 +43,4 @@ As we work toward this mission we will be guided by the following principles:
 
 2. All materials that organizers develop will be released open source.
 
-3. Funders and partner will have no impact on content.
-
-Achieving our goals will require us to work with funders and partners, but they will not impact the intellectual content of SICSS.  When in doubt about how to navigate this boundary, we will look to high-quality news organizations, such as the _New York Times_ and _National Public Radio_, for guidance.
+3. Funders and partner will have no impact on content. Achieving our goals will require us to work with funders and partners, but they will not impact the intellectual content of SICSS.  When in doubt about how to navigate this boundary, we will look to high-quality news organizations, such as the _New York Times_ and _National Public Radio_, for guidance.
