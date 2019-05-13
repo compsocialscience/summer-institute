@@ -17,6 +17,7 @@
     - name: "1:45 - 2:15 Lunch"
     - name: "2:15 - 3:00 Local Activity"
     - name: "3:30 - 6:30 Introduction and Ethics \"live From Princeton\""
+    - name: "10:00 - 11:30 Guest speaker: Alondra Nelson \"live From Princeton\""
 
 - date: 2019-06-18
   name: "Collecting Digital Trace Data"
@@ -25,7 +26,7 @@
     - name: "1:45 - 2:15 Lunch"
     - name: "2:15 - 3:00 Local Activity"
     - name: "3:15 - 6:30 Collecting Digital Trace Data \"live From Princeton\""
-    - name: "6:30 - 7:30 Guest Speaker: Chris Wiggins \"live From Princeton\""
+    - name: "10:00 - 11:30 Guest speaker: Beth Noveck \"live From Princeton\""
 
 - date: 2019-06-19
   name: Automated Text Analysis
