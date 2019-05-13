@@ -9,7 +9,7 @@ You can host a partner location of the Summer Institutes of Computational Social
 
 ### Hosting a partner location
 
-Starting in 2018, the Summer Institutes in Computational Social Science (SICSS) began including partner locations in order to increase the number of participants. The Summer Institute is two weeks long and involves: 1) live-streamed lectures on topics ranging from automated text analysis to ethics; 2) training exercises to reinforce key ideas from lectures; 3) live-streamed research talks from leaders in the field; and 4) participant-led group research projects. This model has been used successfully at universities and companies around the world.
+Starting in 2018, the Summer Institutes in Computational Social Science (SICSS) began including partner locations in order to increase the number of participants. The Summer Institute is two weeks long and parter locations typically involve: 1) live-streamed lectures on topics ranging from automated text analysis to ethics; 2) training exercises to reinforce key ideas from lectures; 3) live-streamed research talks from leaders in the field; and 4) participant-led group research projects. This model has been used successfully at universities and companies around the world.
 
 The Summer Institutes are highly modular and the open source curriculum can be adapted to the skills and interests at each location. The minimum budget to support a partner location is about $10,000 to $20,000 and depends on local conditions. If you have more questions about budgeting---or grants that many be available to support partner locations---please contact us at rsfcompsocsci[at]gmail[dot]com.  
 
@@ -28,10 +28,6 @@ There were 11 partner location in 2019: [Bamberg, Germany (University of Bamberg
 ### Sponsoring a partner location
 
 If you would like to sponsor a partner location, please contact us at rsfcompsocsci[at]gmail[dot]com.
-
-### Acknowledgments
-
-The Summer Institutes in Computational Social Sciences are supported by grants from the Russell Sage Foundation and the Alfred P. Sloan Foundation.
 
 ### Mission and guiding principles
 
