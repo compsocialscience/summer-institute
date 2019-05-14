@@ -4,6 +4,8 @@ partner_site: boston
 layout: default
 ---
 
+**Applications are now closed and new submissions will not be considered.** Thank you for your interest in the Boston partner site. We hope you will consider applying next year.
+
 # Eligibility
 We invite applications from Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. There are no restrictions based on citizenship, country of study, or country of employment. We expect to invite about twenty participants for this partner location.
 

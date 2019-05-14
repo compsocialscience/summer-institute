@@ -1,3 +1,24 @@
-- name: Coming Sooon!
-  bio: 
-  image:
+- name: Josh Raines
+  bio: "Coming Soon!"
+  website: https://www.bsu.edu/academics/centersandinstitutes/ssrc/directory/rainesjoshua
+  image: /2019/hunter-nyc/images/JoshRaines.png
+  
+- name: Desmond Patton
+  bio: "Coming Soon!"
+  website: https://socialwork.columbia.edu/faculty-research/faculty/full-time/desmond-upton-patton/
+  image: /2019/hunter-nyc/images/DesmondPatton.png
+  
+- name: Melanie Sage
+  bio: "Coming Soon!" 
+  website: http://socialwork.buffalo.edu/faculty-research/full-time-faculty/melanie-sage.html
+  image: /2019/hunter-nyc/images/MelanieSage.png
+  
+- name: Lauri Goldkind
+  bio: "Coming Soon!"
+  website: https://www.laurigoldkind.net/
+  image: /2019/hunter-nyc/images/LauriGoldkind.png
+
+- name: Richard Smith
+  bio: "Coming Soon!"
+  website: https://socialwork.wayne.edu/profile/eo8093
+  image: /2019/hunter-nyc/images/RichardSmith.png

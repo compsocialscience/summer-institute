@@ -1,9 +1,49 @@
-# - name:  Sample Participant
-#   image: /2019/boston/images/dhagmann.jpg
-#   bio: "This is a sample participant"
-#   website: "http://www.dhagmann.com"
+- name: Alexander Brand
+  image: /2019/bamberg/images/alexander_brand.jpg
+  bio: "I am a master student in the field of sociology at the University of Bamberg. My research focuses on applying computational methods for the studies of dynamic systems. I’m particularly interested in agent- based modeling, social network analysis and non-linear effects. I presented part of my research at the Historical network research conference last year and at the Studentischer Soziologiekongress 2017 in Chemnitz."
+  
+- name: Meng Chen
+  image: /2019/bamberg/images/meng_chen.jpg 
+  bio: "Meng Chen is an Assistant Professor in Communication at Webster University, Vienna. She is interested in utilizing computational analysis to explore the interactions among linguistic features of cancer patients’ online posts, their personal network structures, and social capital flow on social support platforms. Before coming to Vienna, she completed a PhD in Communication at University of California, Davis."
 
-# - name:  Sample Participant 2
-#   image: /2019/boston/images/smobasseri.jpg
-#   bio: "This is another sample participant"
-#   website: "http://www.dhagmann.com"
+- name: Johannes Geiger
+  image: /2019/bamberg/images/johannes_geiger.jpg
+  bio: "Johannes is a master's student at the University of Essex and the University of Bamberg, where he is pursuing a degree in conflict resolution and political science. His main interest lies in cybersecurity and how governments respond to the emerging threat of high-level cyber attacks. In his master's thesis, he is exploring potential macro-level determinants of interstate cyber disputes and their connection with the onset of more traditional types of warfare."
+  
+- name: Andrea Hasenkopf
+  image: /2019/bamberg/images/andrea_hasenkopf.jpg
+  bio: "Andrea is a research assistant and a PhD candidate in International Relations at the University of Bamberg, Germany. Her primary research interest concerns the evolution of institutional complexes and their consequences on international governance. She has a keen interest in exploring how big data and computational social science can be used to advance the study of international politics in general and of inter-organizational networks in particular. She is also broadly interested in political sociology, social media, and computational analysis."
+  
+- name: Julia C. Leschke
+  image: /2019/bamberg/images/julia_leschke.png
+  bio: "Julia is a PhD candidate at the London School of Economics and Political Science. Her research scrutinises how and when political actors strategically employ populism and which factors explain the variation in voting for populist parties in European countries since 1960. Julia is working on ways to measure and explain political stands using quantitative text analysis, causal inference and geo-spatial modelling. She holds an M.Sc. in Politics Research (University of Oxford) and a B.A. in Social Science (Humboldt University Berlin)."
+  
+- name: Marc Luettecke
+  image: /2019/bamberg/images/marc_luettecke.jpg
+  bio: "Marc Luettecke is a Master's student in Social and Economic Data Science at the University of Konstanz. He holds a Bachelor's degree in Finance from Loyola University New Orleans and a Master's degree in Finance from the University of Texas (Austin). His preferred research interest lays with individual and group decision behavior, for which he currently learns techniques from the realm of Deep Learning and financial risk behavior for current class and research projects. His past endevaors include positions as a financial consultant and social involvement for housing projects in the Austin area."
+  
+- name: Daniel Mayerhoffer
+  image: /2019/bamberg/images/daniel_mayerhoffer.jpg
+  bio: "Daniel Mayerhoffer is a PhD candidate at the chair for Political Theory, University of Bamberg and an M.A. student in Ethics of Textual Cultures at FAU Erlangen-Nuremberg. He received his B.A. in Philosophy & Economics from University of Bayreuth, an M.A. in Political Science from University of Bamberg and an M.Sc. in Social Research Methods from University of Surrey. Daniel develops agent based computational simulation models to understand and explain social, political and economic phenomena."
+  
+- name: Muhammad Quasim Pasta
+  image: /2019/bamberg/images/muhammad_quasim_pasta.jpg
+  bio: "Qasim Pasta is Assistant Professor at Usman Institute of Technology. He recently received his Ph.D. (Network Science) from PAF-KIET, Pakistan. His recent work contributes to the development of network models enabling the embedding of ground-truth community structures. He is also leading an interdisciplinary research project SPLOP (Socio-Political Landscape of Pakistan) to analyze the usage of social media in the context of general and political conversation by people of different regions of Pakistan."
+
+- name: Liane Rothenberger
+  image: /2019/bamberg/images/liane_rothenberger.jpg
+  bio: "Liane Rothenberger is a senior researcher and lecturer at the Institute of Media and Communication Science at Technische Universität Ilmenau, Germany. Her research focuses on journalism and communication in an intercultural perspective, norms and values in communication studies and in the social sciences, and crisis communication."
+  website: "https://www.tu-ilmenau.de/en/department-of-media-studies/team/pd-dr-phil-habil-liane-rothenberger/"
+
+- name: Christopher Schmidt
+  image: /2019/bamberg/images/christopher_schmidt.jpg
+  bio: "Currently: MSc Computing in the Humanities. Before: BA Sociology & Psychology. Python, R, NLP, Knowledge Graphs, Understanding & Visualizing Data."
+  
+- name: Aleksandra Urman
+  image: /2019/bamberg/images/aleksandra_urman.jpg
+  bio: "Aleksandra is a PhD candidate at the Institute of Communication and Media Studies, University of Bern, Switzerland. She focuses on political communication online and actively uses computational methods in her research. Aleksandra is particularly interested in news consumption on social media platforms, the role of social media in authoritarian regimes, algorithmic personalization, and polarization online. She also teaches social media analysis with R."
+  website: "http://aleksandra-urman.ch/"
+  
+- name: Franziska Weeber
+  image: /2019/bamberg/images/franziska_weeber.jpg
+  bio: "Franziska Weeber is currently pursuing her MSc in Social and Economic Data Science at the University of Konstanz. Her research interests include spatial aspects of inequality with a focus on gentrification and social segregation as well as spatial interaction in both small and large scale contexts. She is also interested in data retrieval using computational methods such as web scraping. Franziska holds a BA in sociology with a minor in computer science from the University of Konstanz. During her Bachelor, she completed an internship and a freelance contract for the Federal Statistical Office of Germany."
