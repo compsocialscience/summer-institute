@@ -41,7 +41,8 @@
     - name: "12:15 - 1:45 Local Activity"
     - name: "1:45 - 2:15 Lunch"
     - name: "2:15 - 3:00 Local Activity"
-    - name: "3:15 - 9:45 Surveys in the Digital Age (live From Princeton)"
+    - name: "3:15 - 6:30 Surveys in the Digital Age (live From Princeton)"
+    - name: "9:15 - 9:45 Surveys in the Digital Age (live From Princeton)"
     - name: "10:00 - 11:30 Guest speaker: Justin Grimmer (live From Princeton)"
 
 - date: 2019-06-21
@@ -79,7 +80,6 @@
     - name: "12:15 - 1:45 Local Activity"
     - name: "1:45 - 2:15 Lunch"
     - name: "2:15 - 3:00 Local Activity"
-    - name: "10:00 - 11:30 Guest speaker: Beth Noveck (live From Princeton)"
 
 - date: 2019-06-26
   name: Work on group projects
@@ -87,6 +87,8 @@
     - name: "12:15 - 1:45 Local Activity"
     - name: "1:45 - 2:15 Lunch"
     - name: "2:15 - 3:00 Local Activity"
+    - name: "6:30 - 7:30 Guest speaker: Chris Wiggins (live From Princeton)"
+
 
 - date: 2019-06-27
   name: Work on group projects
