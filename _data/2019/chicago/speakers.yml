@@ -1,6 +1,11 @@
 - name: Live Stream
   bio:  "Matt Salganik, Chris Bail, more coming soon."
 
+- name: Aaron Shaw
+  image: /2019/chicago/images/shaw.jpeg
+  bio: "Aaron Shaw studies organization, collaboration, governance, and inequality in online environments. His current projects try to understand why and how a few peer production communities (like Wikipedia) grow and sustain valuable public information resources when most do not. Aaron is an Assistant Professor in the Department of Communication Studies at Northwestern University, where he directs the Media, Technology & Society (MTS) Program. He is also a Faculty Associate of the Berkman Klein Center for Internet and Society at Harvard University and a member of the Community Data Science Collective, which he founded together with Benjamin Mako Hill. During 2017-2018, Aaron held a Lenore Annenberg and Wallis Annenberg Fellowship in Communication at the Center for Advanced Study in the Behavioral Sciences (CASBS) at Stanford University."
+  website: https://communication.northwestern.edu/faculty/AaronShaw
+
 - name: Andrew Papachristos
   image: /2019/chicago/images/papachristos.jpeg
   bio: "Andrew Papachristos is Professor of Sociology at Northwestern University and he is the Director of the Northwestern Neighborhood and Network (N3) Initiative. He is also a Faculty Fellow at the Institute for Policy Research at Northwestern. His research aims to understand how the connected nature of cities—how their citizens, neighborhoods, and institutions are tied to one another—affect what we think, feel, and do. His main area of research applies network science to the study of gun violence, police misconduct, illegal gun markets, street gangs, and urban neighborhoods. "
