@@ -1,3 +1,6 @@
+- date: 2019-06-16
+  name: "Welcome dinner (time to be decided)"
+  events:
 - date: 2019-06-17
   name: "Getting to know people and ethics"
   events:
@@ -100,11 +103,6 @@
     - name: "18:30 - 19:30 Dinner"
     - name: "19:30 - 20:30 Guest Speaker: Chris Wiggins [live stream]"
 - date: 2019-06-27
-  name: "Work on group projects"
-  events:
-    - name: "12:30 - 13:30 Lunch"
-    - name: "18:30 - 19:30 Dinner"
-- date: 2019-06-28
   name: "Work on group projects"
   events:
     - name: "12:30 - 13:30 Lunch"
