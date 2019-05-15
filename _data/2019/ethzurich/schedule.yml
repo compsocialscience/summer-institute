@@ -6,77 +6,62 @@
 
 - date: 2019-06-16
   events:
-    - name: "To be announced."
+    - name: Participants arrive
 
 - date: 2019-06-17
   name: Introduction and Ethics
   events:
-    - name: "3:30 - 4:00 Introduction to computational social science"
-    - name: "4:00 - 4:30 Why SICSS?"
-    - name: "4:30 - 4:45 Coffee Break"
-    - name: "4:45 - 5:30 Ethics: Principles-based approach"
-    - name: "5:30 - 6:15 Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty"
-    - name: "6:15 - 6:30 Introduction to the group exercise"
-    - name: "10:00 - 11:30 Guest speaker: Alondra Nelson"
+    - name: "12:15 - 1:45 Local Activity"
+    - name: "1:45 - 2:15 Lunch"
+    - name: "2:15 - 3:00 Local Activity"
+    - name: "3:30 - 6:30 Introduction and Ethics (live From Princeton)"
+    - name: "10:00 - 11:30 Guest speaker: Alondra Nelson (live From Princeton)"
 
 - date: 2019-06-18
   name: "Collecting Digital Trace Data"
   events:
-    - name: "3:15 - 3:30 What is digital trace data?"
-    - name: "3:30 - 3:45 Strengths and weakness of digital trace data"
-    - name: "3:45 - 4:15 Screen-Scraping"
-    - name: "4:15 - 4:30 Coffee Break"
-    - name: "4:30 - 5:00 Application Programming Interfaces"
-    - name: "5:00 - 6:30 Building Apps and Bots for Social Science Research"
-    - name: "6:30 - 7:30 Lunch and Guest Speaker: Chris Wiggins"
+    - name: "12:15 - 1:45 Local Activity"
+    - name: "1:45 - 2:15 Lunch"
+    - name: "2:15 - 3:00 Local Activity"
+    - name: "3:15 - 6:30 Collecting Digital Trace Data (live From Princeton)"
+    - name: "10:00 - 11:30 Guest speaker: Beth Noveck (live From Princeton)"
 
 - date: 2019-06-19
   name: Automated Text Analysis
   events:
-    - name: "3:15 - 3:30 History of quantitative text analysis"
-    - name: "3:30 - 3:45 Basic Text Analysis/GREP"
-    - name: "3:45 - 4:00 Dictionary-Based Text Analysis"
-    - name: "4:00 - 4:15 Coffee Break"
-    - name: "4:15 - 5:15 Topic models/Structural Topic Models"
-    - name: "5:15 - 5:20 Break"
-    - name: "5:20 - 6:30 Text Networks"
-    - name: "6:30 - 7:30 Lunch and Guest Speaker: Jennifer Pan"
+    - name: "12:15 - 1:45 Local Activity"
+    - name: "1:45 - 2:15 Lunch"
+    - name: "2:15 - 3:00 Local Activity"
+    - name: "3:15 - 6:30 Automated Text Analysis (live From Princeton)"
+    - name: "6:30 - 7:30 Guest Speaker: Jennifer Pan (live From Princeton)"
 
 - date: 2019-06-20
   name: Surveys in the Digital Age
   events:
-    - name: "3:15 - 3:45 Survey research in the digital age"
-    - name: "3:45 - 4:15 Probability and non-probability sampling"
-    - name: "4:15 - 4:30 Coffee break"
-    - name: "4:30 - 5:00 Computer-administered interviews and wiki surveys"
-    - name: "5:00 - 5:30 Combining surveys and big data"
-    - name: "5:30 - 6:00 Group exercise introduction"
-    - name: "6:00 - 6:30 Begin group exercise"
-    - name: "9:15 - 9:45 Discuss activity and open-source data"
-    - name: "9:45 - 10:00 Break"
-    - name: "10:00 - 11:30 Guest speaker: Justin Grimmer"
+    - name: "12:15 - 1:45 Local Activity"
+    - name: "1:45 - 2:15 Lunch"
+    - name: "2:15 - 3:00 Local Activity"
+    - name: "3:15 - 6:30 Surveys in the Digital Age (live From Princeton)"
+    - name: "9:15 - 9:45 Surveys in the Digital Age (live From Princeton)"
+    - name: "10:00 - 11:30 Guest speaker: Justin Grimmer (live From Princeton)"
 
 - date: 2019-06-21
   name: Mass Collaboration
   events:
-    - name: "3:15 - 3:30 Mass collaboration"
-    - name: "3:30 - 3:45 Human computation"
-    - name: "3:45 - 4:00 Open call"
-    - name: "4:00 - 4:15 Distributed data collection"
-    - name: "4:15 - 4:30 Coffee break"
-    - name: "4:30 - 5:30 Introduction to the Fragile Families Challenge"
-    - name: "10:30 - 11:30 Guest speaker: Annie Liang"
+    - name: "12:15 - 1:45 Local Activity"
+    - name: "1:45 - 2:15 Lunch"
+    - name: "2:15 - 3:00 Local Activity"
+    - name: "3:15 - 5:30 Mass collaboration (live From Princeton)"
+    - name: "10:30 - 11:30 Guest speaker: Annie Liang (live From Princeton)"
 
 - date: 2019-06-22
   name: Experiments
   events:
-    - name: "3:15 - 3:30 What, why, and which experiments?"
-    - name: "3:30 - 3:45 Moving beyond simple experiments"
-    - name: "3:45 - 4:15 Four strategies for experiments"
-    - name: "4:15 - 4:30 Coffee break"
-    - name: "4:30 - 5:00 Zero variable cost data and musiclab"
-    - name: "5:00 - 5:15 Break"
-    - name: "5:15 - 6:15 High-throughput behavioral science using virtual labs by guest speaker Abdullah Almaatouq (SICSS 2017)"
+    - name: "12:15 - 1:45 Local Activity"
+    - name: "1:45 - 2:15 Lunch"
+    - name: "2:15 - 3:00 Local Activity"
+    - name: "3:15 - 5:00 Experiments (live From Princeton)"
+    - name: "5:15 - 6:15 High-throughput behavioral science using virtual labs by guest speaker Abdullah Almaatouq (SICSS 2017) (live From Princeton)"
 
 - date: 2019-06-23
   name: Day off
@@ -84,27 +69,40 @@
 - date: 2019-06-24
   name: Work on group projects
   events:
-    - name: "6:30 - 7:30 Lunch and panel of book publishing: Meagan Levinson (Senior Editor, Princeton University Press), Eric Schwartz (Editoral Director, Columbia Univesity Press), and Chris Bail (Editor of the Oxford University Press Series in Computational Social Science)"
+    - name: "12:15 - 1:45 Local Activity"
+    - name: "1:45 - 2:15 Lunch"
+    - name: "2:15 - 3:00 Local Activity"
+    - name: "6:30 - 7:30 Panel of book publishing: Meagan Levinson (Senior Editor, Princeton University Press), Eric Schwartz (Editoral Director, Columbia Univesity Press), and Chris Bail (Editor of the Oxford University Press Series in Computational Social Science) (live From Princeton)"
 
 - date: 2019-06-25
   name: Work on group projects
   events:
-    - name: "10:00 - 11:30 Guest speaker: Beth Noveck"
+    - name: "12:15 - 1:45 Local Activity"
+    - name: "1:45 - 2:15 Lunch"
+    - name: "2:15 - 3:00 Local Activity"
 
 - date: 2019-06-26
   name: Work on group projects
   events:
-    - name: "To be announced."
+    - name: "12:15 - 1:45 Local Activity"
+    - name: "1:45 - 2:15 Lunch"
+    - name: "2:15 - 3:00 Local Activity"
+    - name: "6:30 - 7:30 Guest speaker: Chris Wiggins (live From Princeton)"
+
 
 - date: 2019-06-27
   name: Work on group projects
   events:
-    - name: "To be announced."
+    - name: "12:15 - 1:45 Local Activity"
+    - name: "1:45 - 2:15 Lunch"
+    - name: "2:15 - 3:00 Local Activity"
 
 - date: 2019-06-28
   name: Present group projects
   events:
-    - name: "To be announced."
+    - name: "12:15 - 1:45 Local Activity"
+    - name: "1:45 - 2:15 Lunch"
+    - name: "2:15 - 3:00 Local Activity"
 
 - date: 2019-06-29
   events:
