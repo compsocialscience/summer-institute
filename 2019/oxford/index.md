@@ -1,9 +1,6 @@
 ---
 partner_site: oxford
 layout: year_home
-faculty_title: Organizers
-speakers_title: Local Speakers
-workshop_title: Workshop Leaders
 ---
 
 The Summer Institute in Computational Social Science (SICSS) brings together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. SICSS is for both social scientists and data scientists. SICSS started as an initiative at Princeton University in 2017. In 2019, we will be hosting a partner institute in Oxford for the first time. It will be held from the evening of Sunday, June 16 to the morning of Saturday, June 29, 2019 at Nuffield College. The aim of SICSS-Oxford is to build and expand a network of researchers interested in computational social science, bringing together individuals from across the University of Oxford and from other institutions. 
