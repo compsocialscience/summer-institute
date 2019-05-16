@@ -1,4 +1,209 @@
 - date: 2019-06-16
-  name: "To be announced."
+  name:
   events:
-    - name: "The schedule will be posted in the coming months."
+    - name: Participants arrive
+      time: "18:30 - 21:30"
+
+- date: 2019-06-17
+  name: Introduction and Ethics
+  events:
+    - name: Opening remarks
+      time: "09:00 - 09:15"
+    - name: Housekeeping announcements
+      time: "09:15 - 09:30"
+    - name: Introductions of participants and organisers (flashtalks)
+      time: "09:30 - 13:00"
+    - name: Lunch
+      time: "13:00 - 14:00"
+    - name: Introduction to Computational Social Science (Livestream, Matt Salganik)
+      time: "14:30 - 15:15"
+    - name: Tea break
+      time: "15:15 - 15:30"
+    - name: Research Ethics: Principles-based approach; Four areas of difficulties: informed consent, informational risk, privacy, and making decisions in the face of uncertainty; Introduction to group exercise (Livestream, Matt Salganik)
+      time: "15:30 - 17:30"
+    - name: Dinner
+      time: "18:30 - 19:15"
+
+- date: 2019-06-18
+  name: Collecting Digital Trace Data
+  events:
+    - name: Housekeeping announcements
+      time: "09:00 - 09:15"
+    - name: Group exercise (Research Ethics)
+      time: "09:15 - 11:15"
+    - name: Coffee Break
+      time: "11:15 - 11:30"
+    - name: Talk by Mariarosaria Taddeo
+      time: "11:30 - 13:00"
+    - name: Lunch
+      time: "13:00 - 14:00"
+    - name: Digital trace data (Ridhi Kashyap)
+      time: "14:00 - 15:15"
+    - name: Tea break
+      time: "15:15 - 15:30"
+    - name: Digital trace data (Ridhi Kashyap)
+      time: "15:30 - 17:30"
+    - name: Dinner
+      time: "18:30 - 19:15"
+
+- date: 2019-06-19
+  name: Automated Text Analysis
+  events:
+    - name: Housekeeping announcements
+      time: "09:00 - 09:15"
+    - name: Group exercise (Digital Trace Data)
+      time: "09:15 - 11:15"
+    - name: Coffee Break
+      time: "11:15 - 11:30"
+    - name: Talk by Nick Ruktanonchai
+      time: "11:30 - 13:00"
+    - name: Lunch
+      time: "13:00 - 14:00"
+    - name: Automated Text Analysis (Taylor Brown)
+      time: "14:00 - 15:15"
+    - name: Tea break
+      time: "15:15 - 15:30"
+    - name: Automated Text Analysis (Taylor Brown)
+      time: "15:30 - 17:30"
+    - name: Dinner
+      time: "18:30 - 19:15"
+
+- date: 2019-06-20
+  name: Surveys in the Digital Age
+  events:
+    - name: Housekeeping announcements
+      time: "09:00 - 09:15"
+    - name: Group exercise (Digital Trace Data)
+      time: "09:15 - 11:15"
+    - name: Coffee Break
+      time: "11:15 - 11:30"
+    - name: Talk by Scott Hale (TBC)
+      time: "11:30 - 13:00"
+    - name: Lunch
+      time: "13:00 - 14:00"
+    - name: Survey research in the digital age; Probability and non-probability sampling (Livestream, Matt Salganik)
+      time: "14:00 - 15:15"
+    - name: Tea break
+      time: "15:15 - 15:30"
+    - name: Survey research in the digital age; Probability and non-probability sampling (Livestream, Matt Salganik)
+      time: "15:30 - 16:30"
+    - name: Dinner
+      time: "18:30 - 19:15"
+
+- date: 2019-06-21
+  name: Non-probability Surveys and Machine Learning
+  events:
+    - name: Housekeeping announcements
+      time: "09:00 - 09:15"
+    - name: Workshop on non-probability surveys (Roberto Cerina)
+      time: "09:15 - 11:15"
+    - name: Coffee Break
+      time: "11:15 - 11:30"
+    - name: Workshop on non-probability surveys (Roberto Cerina)
+      time: "11:30 - 13:00"
+    - name: Lunch
+      time: "13:00 - 14:00"
+    - name: Workshop on Machine Learning (Charles Rahal)
+      time: "14:00 - 15:15"
+    - name: Tea break
+      time: "15:15 - 15:30"
+    - name: Workshop on Machine Learning (Charles Rahal)
+      time: "15:30 - 17:30"
+    - name: Dinner
+      time: "18:30 - 19:15"
+
+- date: 2019-06-22
+  name: Experiments
+  events:
+    - name: Housekeeping announcements
+      time: "09:00 - 09:15"
+    - name: Workshop on Experiments (Sonke Ehret)
+      time: "09:15 - 11:15"
+    - name: Coffee Break
+      time: "11:15 - 11:30"
+    - name: Talk by Ray Duch
+      time: "11:30 - 13:00"
+    - name: Lunch
+      time: "13:00 - 14:00"
+    - name: Workshop on Experiments (continued)
+      time: "14:15 - 17:30"
+    - name: Dinner
+      time: "19:30 - 22:00"
+
+
+- date: 2019-06-23
+  name: Day off
+
+
+- date: 2019-06-24
+  name: Group projects
+  events:
+    - name: Housekeeping announcements
+      time: "09:00 - 09:15"
+    - name: Groups form
+      time: "09:15 - 11:15"
+    - name: Coffee Break
+      time: "11:15 - 11:30"
+    - name: Talk by Pablo Barberà
+      time: "11:30 - 13:00"
+    - name: Lunch
+      time: "13:00 - 14:00"
+    - name: Groups work on project
+      time: "14:00 - 15:15"
+    - name: Tea break
+      time: "15:15 - 15:30"
+    - name: Groups work on project
+      time: "15:30 - 17:30"
+    - name: Dinner
+      time: "18:30 - 19:15"
+
+- date: 2019-06-25
+  name: Group projects
+  events:
+    - name: Housekeeping announcements
+      time: "09:00 - 09:15"
+    - name: Groups work on project
+      time: "09:15 - 11:15"
+    - name: Coffee Break
+      time: "11:15 - 11:30"
+    - name: Talk by David Cox (TBC)
+      time: "11:30 - 13:00"
+    - name: Lunch
+      time: "13:00 - 14:00"
+    - name: Groups work on project
+      time: "14:00 - 18:30"
+    - name: Dinner
+      time: "18:30 - 19:15"
+
+- date: 2019-06-26
+  name: Group projects
+  events:
+    - name: Housekeeping announcements
+      time: "09:00 - 09:15"
+    - name: Groups work on project
+      time: "09:15 - 11:30"
+    - name: Talk by Xiaowen Dong
+      time: "11:30 - 13:00"
+    - name: Lunch
+      time: "13:00 - 14:00"
+    - name: Groups work on project
+      time: "14:00 - 18:30"
+    - name: Dinner
+      time: "18:30 - 19:15"
+
+- date: 2019-06-27
+  name: Group presentations
+  events:
+    - name: Housekeeping announcements
+      time: "09:00 - 09:15"
+    - name: Groups presentations
+      time: "09:15 - 13:00"
+    - name: Lunch
+      time: "13:00 - 14:00"
+    - name: Groups presentations
+      time: "14:00 - 18:30"
+    - name: Closing dinner
+      time: "18:30 - 22:00"
+
+- date: 2019-06-28
+  name: Participants depart
