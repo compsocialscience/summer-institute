@@ -18,6 +18,11 @@
   bio: "Dr. Fidelia Dake is a Lecturer at the Regional Institute for Population Studies at the University of Ghana. She holds a Doctor of Philosophy and a Master of Philosophy in Population Studies. She also holds a Master of Science in Global Ageing and Policy and a Bachelor of Science in Nutrition and Food Science. Her research focuses broadly on health demography, public health, and international health and development. Her interests include nutrition and physical activity, obesity and non-communicable diseases, socio-environmental determinants of health, urban health, health statistics (including vital statistics), and health-financing, particularly, universal health coverage. Her current research examines transportation-related physical activity and the public health impacts of physical inactivity.   "
   website:
 
+- name:  Justin Dansou
+ # image: /2019/capetown/images/dansou.jpeg
+  bio: "Justin got a PhD degree in Reproductive Health from the Pan African University Institute for Life and Earth Sciences (PAULESI), located at the University of Ibadan, Ibadan, Nigeria. Prior to his doctoral studies, he graduated with a master’s degree in Demography at the Institut de Formation et de Recherche Démographiques (IFORD) in Cameroon, and a Bachelor of Science degree in computing management at the Institut Universitaire de Technologie (IUT) of Université de Parakou in Benin. He worked as research assistant at the Institut de Formation et de Recherche Démographiques (IFORD). Currently, he gives lectures pertaining to demographic analysis at the École Nationale de la Statistique, de la Planification et de la Démographie (ENSPD) at the Université de Parakou. His research interest includes Population and Health; Reproductive Health including Maternal health and Child survival."
+  website:
+  
 - name:  Danielle Giovenco
   image: /2019/capetown/images/giovenco.jpeg
   bio: "Danielle Giovenco is a PhD candidate in Epidemiology at the University of North Carolina at Chapel Hill in the United States and a Fogarty research fellow at the Desmond Tutu HIV Foundation in Cape Town, South Africa. She also holds a ScM in Behavioral and Social Health Sciences from Brown University. Her research interests are focused on integrating behavioral and social science with effective biomedical HIV prevention strategies."
@@ -62,8 +67,18 @@
   image: /2019/capetown/images/sandie.png
   bio: "Arsene B. Sandie is completing his Ph.D in Mathematics-Statistics at Pan African University at Nairobi. He had mixed academic background, which intersects within mathematics and computer science (Bsc), applied statistics (Msc) and demography studies (Msc). His current research is about developing statistical methods for the design and analysis of clinical trials. Nowadays, he is aspiring to capitalize his multidisciplinary background, the computational social science area is then a great and exciting opportunity for that purpose."
   website:
+
+- name:  Patrick Tenga Shako
+  image: /2019/capetown/images/tenga.png
+  bio: "Patrick Tenga Shako is a Junior Lecturer/Teacher Assistant attached to the faculty of Computer sciences at the Nouveaux Horizons University and a candidate for a postgraduate degree at the University of Lubumbashi. Holder of an honour degree from the University of Lubumbashi and a master's degree from the African Institute for Mathematical Sciences in Senegal, he has developed a real interest for data sciences, numerical analysis and mathematical modelling.  After attending schools on big data, computational neuroscience, he acquired a real passion for artificial intelligence (Machine Learning, Reinforcement Learning). From this, he understood that one cannot do data analysis without understanding the domain in which these data belong. He expects to specialize in data science and mathematical modelling and plans to establish in the coming years an interdisciplinary research laboratory in data sciences in order to promote interaction and complementarity between different fields."
+  website:
   
 - name:  Henry Wandera
   image: /2019/capetown/images/wandera.jpg
   bio: "Henry Wandera is pursuing MIT in data science at University of Pretoria. He holds BSc Honours in Computer Science at University of Pretoria and BSc in Science Education at Busitema University - ganda.  He is passionate about promoting technology usage in developing countries and applying data science for social good. His interests contribute to how policies may influence users’ perspectives and towards understanding the impact of policies on the use of technologies in educational context. In his MIT, he is applying machine learning algorithms to predict school performance in African countries (Sierra Leone, South Africa) using non-traditional data."
+  website: 
+
+- name:  Chipo Zidana
+ # image: /2019/capetown/images/zidana.jpg
+  bio: "Chipo Zidana holds a PhD in Statistics from Cukurova university, Turkey, which was funded by the Turkish Government. She is currently a lecturer in the Department of Applied Mathematics at the National University of science and Technology, Zimbabwe. She has published work in population health and her current research focuses on machine learning approach to problems in rural livelihoods and health."
   website: 
