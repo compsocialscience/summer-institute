@@ -22,14 +22,28 @@
   image: /2019/capetown/images/Cho.jpg
   bio: "Chodziwadziwa Whiteson Kabudula is a Senior Researcher and Head of Data and Analysis at the MRC/Wits Rural Public Health and Health Transitions Research Unit (Agincourt), University of the Witwatersrand, South Africa. His research interest is on the application of demographic, statistical, computational and informatics techniques to investigate population-level morbidity, mortality and utilization of health services, and their social determinants in rural settings in Sub Saharan Africa."
   website:
+
+- name:  Caroline Kiarie
+  image: /2019/capetown/images/kiarie.png
+  bio: "Caroline Kiarie is a PhD candidate at University of Kwazulu Natal in Durban, South Africa and a tutor fellow in the same institution. She holds a Masters in Science degree in Communication and Marketing from Franklin University in Ohio, USA. Her research interests include interpersonal communication, social media and social networks among employees. While in Kenya, she lectures corporate communication and public relations courses at Daystar University and Jomo Kenyatta University of Agriculture and Technology (JKUAT). She specializes in corporate communication and public relations and has worked and trained with several organizations both in Kenya and USA."
+  website:
   
 - name:  Wim Louw 
   image: /2019/capetown/images/louw.jpg
   bio: "Wim Louw is a Senior Research Associate at J-PAL Africa. He works on randomized evaluations of signaling mechanisms in active labour markets, focusing on youth employment in Gauteng, South Africa. Before joining J-PAL, Wim worked as a researcher in the South African non-profit sector. Wim holds a master's degree from the London School of Economics and Political Science in social research methods, and from the University of KwaZulu-Natal in linguistics. Interests include: causal inference, metrics, political economy and governance, text analysis, applied machine learning for economics, reproducibility and open source development."
   website:
 
+- name:  Larissa Nawo
+  image: /2019/capetown/images/nawo.jpg
+  bio: "Larissa Nawo has just finished her Ph.D. in Applied Economy policy and Analysis at the University of Dschang, Cameroon.  Currently, Larissa is a research fellow cohort 2019 at the Structural Transformation of African Agriculture and Rural Spaces (STAARS) project of Cornell University.  Her research interest is an intersection between development economics and data analysis studies, which include but not restricted to natural resources revenues management, behaviour sciences, impact evaluation techniques, computable general equilibrium (CGE) modelling, computational social science methods, applied micro econometric and applied political economy. During her doctoral studies, she was a Ph.D. visiting fellow at the United Nations University World Institute for Development Economics Research (UNU-WIDER) in Helsinki (Finland)."
+  website:
+  
 - name:  Douglas Parry
   image: /2019/capetown/images/parry.png
   bio: "Douglas is a PhD candidate and junior lecturer at the Department of Information Science at Stellenbosch University in South Africa. As a member of the Cognition and Technology Research Group (CTRG) his research concerns the interplay between digital technologies, human cognition, behaviour, performance, and affective well-being across a variety of situations and contexts. He holds a bachelor’s degree majoring in Socio-Informatics and Economics, Honours and Master’s degrees in Socio-Informatics and is currently working towards a doctoral degree specifically focusing on media multitasking and cognitive control. The common thread across his projects rests on an interest in understanding how people use technology, how this use is shaped by personal, situational and societal factors and, in addition, how behaviour with technology shapes our personal, social, and working lives. He has experience with traditional, experimental and data-driven research projects across a variety of academic domains."
   website: https://dougaparry.com
-  
+
+- name:  Henry Wandera
+  image: /2019/capetown/images/wandera.jpg
+  bio: "Henry Wandera is pursuing MIT in data science at University of Pretoria. He holds BSc Honours in Computer Science at University of Pretoria and BSc in Science Education at Busitema University - ganda.  He is passionate about promoting technology usage in developing countries and applying data science for social good. His interests contribute to how policies may influence users’ perspectives and towards understanding the impact of policies on the use of technologies in educational context. In his MIT, he is applying machine learning algorithms to predict school performance in African countries (Sierra Leone, South Africa) using non-traditional data."
+  website: 
