@@ -1,16 +1,13 @@
-- name: "Preliminary Schedule Subject to Change"
+- name: "Schedule Subject to Change"
 
 - date: 2019-06-17
-  name: "Introduction and Collecting Digital Trace Data"
+  name: "Introduction and Supervised Machine Learning"
   events:
     - name: "9:00 - 9:15 Local Logistics"
     - name: "9:15 - 9:45 Introduction to computational social science (Princeton Stream)"
     - name: "9:45 - 10:15 Why SICSS? (Princeton Stream)"
     - name: "10:15 - 10:30 Coffee Break"
-    - name: "10:30 - 10:45 What is digital trace data? (Local and Princeton Stream)"
-    - name: "10:45 - 11:00 Strengths and weakness of digital trace data (Local and Princeton Stream)"
-    - name: "11:00 - 11:30 Application Programming Interfaces (Local and Princeton Stream)"
-    - name: "11:30 - 12:00 Building Apps and Bots for Social Science Research (Local and Princeton Stream)"
+    - name: "10:30 - 12:00 Supervised Machine Learning"
     - name: "12:00 - 1:00 Lunch"
     - name: "1:00 - 2:30 Guest speaker: Alondra Nelson (Princeton Stream)"
     - name: "2:30 - 2:45 Break"
@@ -18,22 +15,25 @@
     - name: "3:00 - 5:00 Group exercise"
 
 - date: 2019-06-18
-  name: "Supervised Machine Learning"
+  name: "Collecting Digital Trace Data"
   events:
-    - name: "8:45 - 9:00 Logistics"
-    - name: "9:00 - 10:00 Chris Wiggins (Princeton Stream)"
-    - name: "10:00 - 10:15 Coffee Break"
-    - name: "10:15 - 12:00 Supervised Machine Learning"
-    - name: "12:00 - 1:00 Lunch"
-    - name: "1:00 - 1:15 Introduction to the group exercise"
-    - name: "1:15 - 3:15 Group exercise"
-    - name: "3:15 - 3:30 Break"
-    - name: "3:30 - 5:00 Guest Speaker: TBD"
+    - name: "9:00 - 9:15 Local Logistics"
+    - name: "9:15 - 9:30 What is digital trace data? (Princeton Stream)"
+    - name: "9:30 - 9:45 Strengths and weakness of digital trace data (Princeton Stream)"
+    - name: "9:45 - 10:15 Screen-Scraping (Princeton Stream)"
+    - name: "10:15 - 10:30 Coffee Break"
+    - name: "10:30 - 11:00 Application Programming Interfaces (Princeton Stream)"
+    - name: "11:00 - 12:30 Building Apps and Bots for Social Science Research (Princeton Stream)"
+    - name: "12:30 - 1:30 Lunch"
+    - name: "1:30 - 1:45 Introduction to the group exercise"
+    - name: "1:45 - 3:45 Group exercise"
+    - name: "3:45 - 4:00 Break"
+    - name: "4:00 - 5:00 Guest Speaker: Tim Dennis"
     
 - date: 2019-06-19
   name: "Automated Text Analysis"
   events:
-    - name: "9:00 - 9:15 Logistics"
+    - name: "9:00 - 9:15 Local Logistics"
     - name: "9:15 - 9:30 History of quantitative text analysis (Local and Princeton Stream)"
     - name: "9:30 - 9:45 Basic Text Analysis/GREP (Local and Princeton Stream)"
     - name: "9:45 - 10:00 Dictionary-Based Text Analysis (Local and Princeton Stream)"
@@ -57,7 +57,7 @@
     - name: "11:05 - 12:-05 Guest Speaker: Jungseock Joo"
     - name: "12:05 - 1:00 Lunch"
     - name: "1:00 - 2:30 Guest speaker: Justin Grimmer (Princeton Stream)"
-    - name: "2:30 - 4:45 Continue group exercise (*Not open to public/No livestream*)"
+    - name: "2:30 - 4:45 Group exercise"
     - name: "4:45 - 5:00 Discuss activity and open-source data"
 
 - date: 2019-06-21
@@ -91,11 +91,11 @@
   name: Work on group projects
   events:
     - name: "12:00 - 1:00 Lunch and participant flash talks"
-    - name: "1:00 - 2:30 [Optional] Guest speaker: Beth Noveck (Princeton Stream)"
 
 - date: 2019-06-26
   name: Work on group projects
   events:
+    - name: "9:30 - 10:30 [Optional] Guest speaker: Chris Wiggins (Princeton Stream)"
     - name: "12:30 - 1:30 Lunch and participant flash talks"
 
 - date: 2019-06-27
