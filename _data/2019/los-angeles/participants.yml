@@ -43,15 +43,19 @@
    bio: "Sarah Cooney is a second year PhD student in Computer Science at the University of Southern California. Her research interest is in the intersection of technology and computing for social good."
    website: 
 
- - name:  Aline Duarte Folle
-   image: /2019/los-angeles/images/adfolle.jpg
-   bio: "Aline is currently a PhD candidate in Epidemiology, studying potential causes and effects of sleep problems in Parkinson's disease. She is from Brazil, where she was a local pharmacist working and researching in the area of Pharmaceutical Services within different levels of care of the Brazilian Unified Health System (Sistema Único de Saúde - SUS). Her research interests lie in evaluating general risks factors and promoters of health, focusing on the older adult population, with the goal of improving health indicators within this group."
-   website: "https://www.ritzenvironmentalepi.com/?page_id=59"
+ - name:  Cody Couture
+   image: /2019/los-angeles/images/ccouture.jpg
+   bio: "I am currently a graduate student at the University of California, Irvine pursuing a PhD in economics. Broadly speaking, my research investigates the interaction between monetary policy and financial markets. In my recent work, I have been examining the impact that central bank communication, particularly that of the Federal Reserve, has on market expectations. I hope to pursue future research using textual analysis in order to better quantify central bank communication and market feedback."
+   website: 
 
-- name:  Mai ElSherief
-  image: /2019/los-angeles/images/melsherief.png
-#  bio: "Mai ElSherief is a 5th year Ph.D. candidate at the Computer Science department at UC, Santa Barbara within the Mobility Management and Networking (MOMENT) Lab, advised by Elizabeth Belding and William Wang. Her research interests lie in the intersection of Social Computing, Natural Language Processing, and Online Social Networks, specifically causes of social good. Her Ph.D. thesis focuses on developing computational methods for improving the detection and characterization of online hate speech and communities of hate in addition to characterizing offline street harassment and online anti-gender-based violence social movements. She has been a summer research intern at the Berkman Klein Center for Internet and Society at Harvard University understanding anti-immigration sentiment and the discursive practices of online hate groups. She was awarded the 2017 Fiona and Michael Goodchild Graduate mentoring award for her distinguished research mentoring of undergraduate students. Prior to entering the field of Social Computing, she earned her M.Sc. in the area of Wireless Communication and Information Technology from Nile University, Egypt. Funded by a Google Research Award, she devised novel Information-theoretic models for Opportunistic Mobile Social Networks. She is the recipient of both the IEEE best project award for the Cairo University Student Branch (CUSB) and the Ideal student award for Cairo University in 2009."
-  website: "https://mayelsherif.github.io/melsherif/"
+ #- name:  Aline Duarte Folle
+ #  image: /2019/los-angeles/images/adfolle.jpg
+ #  bio: "Aline is currently a PhD candidate in Epidemiology, studying potential causes and effects of sleep problems in Parkinson's disease. She is from Brazil, where she was a local pharmacist working and researching in the area of Pharmaceutical Services within different levels of care of the Brazilian Unified Health System (Sistema Único de Saúde - SUS). Her research interests lie in evaluating general risks factors and promoters of health, focusing on the older adult population, with the goal of improving health indicators within this group."
+ #  website: "https://www.ritzenvironmentalepi.com/?page_id=59"
+   
+#- name:  Mai ElSherief
+#  image: /2019/los-angeles/images/melsherief.png
+#  website: "https://mayelsherif.github.io/melsherif/"
 
 - name:  Ross Graham
   image: /2019/los-angeles/images/rgraham.jpg
