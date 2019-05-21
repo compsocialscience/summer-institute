@@ -1,4 +1,124 @@
 - date: 2019-07-28
-  name: "To be announced."
   events:
-    - name: "The schedule will be posted in the coming weeks."
+    - name: "Opening Dinner"
+
+- date: 2019-07-29
+  name: "Introduction and Ethics (Carsten Schwemmer)"
+  events:
+    - name: "9:00 - 9:15 Logistics"
+    - name: "9:15 - 9:30 Introductions"
+    - name: "9:30 - 10:00 Introduction to computational social science"
+    - name: "10:00 - 10:30 Why SICSS?"
+    - name: "10:30 - 10:45 Coffee Break"
+    - name: "10:45 - 11:30 Ethics: Principles-based approach"
+    - name: "11:30 - 12:15 Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty"
+    - name: "12:15 - 12:30 Introduction to the group exercise"
+    - name: "12:30 - 1:30 Lunch"
+    - name: "1:30 - 3:45 Group exercise"
+    - name: "3:45 - 4:00 Break"
+    - name: "4:00 - 5:30 Guest speaker: Andreas Jungherr"
+
+- date: 2019-07-30
+  name: "Collecting Digital Trace Data (Carsten Schwemmer)"
+  events:
+    - name: "9:00 - 9:15 Logistics"
+    - name: "9:15 - 9:30 What is digital trace data?"
+    - name: "9:30 - 9:45 Strengths and weakness of digital trace data"
+    - name: "9:45 - 10:30 Screen-Scraping"
+    - name: "10:30 - 10:45 Coffee Break"
+    - name: "10:45 - 11:45 Application Programming Interfaces"
+    - name: "11:45 - 12:30 Building Apps and Bots for Social Science Research"
+    - name: "12:30 - 1:30 Lunch"
+    - name: "1:30 - 3:45 Group Exercise"
+    - name: "3:45 - 4:00 Break"
+    - name: "4:00 - 5:30 Guest speaker: t.b.a (video from SICSS Princeton)"
+
+- date: 2019-07-31
+  name: "Social Network Analysis (Oliver Posegga)"
+  events:
+    - name: "09:00 - 10:30 Part 1 (updates coming soon)"
+    - name: "10:30 - 10:45 Coffee Break"
+    - name: "10:45 - 12:30 Part 2 (updates coming soon)"
+    - name: "12:30 - 1:30 Lunch"
+    - name: "1:30 - 3:45 Group exercise"
+    - name: "3:45 - 4:00 Break"
+    - name: "4:00 - 5:30 Guest speaker: Fariba Karimi"
+
+- date: 2019-08-01
+  name: "Automated Text Analysis (Carsten Schwemmer)"
+  events:
+    - name: "9:00 - 9:15 Logistics"
+    - name: "9:15 - 9:30 History of quantitative text analysis"
+    - name: "9:30 - 10:00 Basic Text Analysis/GREP"
+    - name: "10:00 - 10:30 Dictionary-Based Text Analysis"
+    - name: "10:30 - 10:45 Coffee Break"
+    - name: "10:45 - 11:30 Supervised models"
+    - name: "11:30 - 12:30 Topic models/Structural Topic Models"
+    - name: "12:30 - 1:30 Lunch"
+    - name: "1:30 - 3:45 Group Exercise"
+    - name: "3:45 - 4:00 Break"
+    - name: "4:00 - 5:30 Guest speaker: t.b.a (video from SICSS Princeton)"
+
+- date: 2019-08-02
+  name: "Surveys in the Digital Age (video lectures from SICSS Princeton)"
+  events:
+    - name: "9:00 - 9:15 Logistics"
+    - name: "9:15 - 9:45 Survey research in the digital age"
+    - name: "9:45 - 10:15 Probability and non-probability sampling"
+    - name: "10:15 - 10:30 Coffee break"
+    - name: "10:30 - 11:00 Computer-administered interviews and wiki surveys"
+    - name: "11:00 - 11:30 Combining surveys and big data"
+    - name: "11:30 - 12:00 Group exercise introduction"
+    - name: "12:00 - 12:30 Begin group exercise"
+    - name: "12:30 - 1:30 Lunch"
+    - name: "1:30 - 3:15 Continue group exercise"
+    - name: "3:15 - 3:45 Discuss activity and open-source data"
+    - name: "3:45 - 4:00 Break"
+    - name: "4:00 - 5:30 Guest speaker: Ridhi Kashyap"
+
+- date: 2019-08-03
+  name: "Experiments (video lectures from SICSS Princeton)"
+  events:
+    - name: "9:00 - 9:15 Logistics"
+    - name: "9:15 - 9:30 What, why, and which experiments?"
+    - name: "9:30 - 9:45 Moving beyond simple experiments"
+    - name: "9:45 - 10:15 Four strategies for experiments"
+    - name: "10:15 - 10:30 Coffee break"
+    - name: "10:30 - 11:00 Zero variable cost data and musiclab"
+    - name: "11:00 - 11:15 Break"
+    - name: "11:15 - 12:15 High-throughput behavioral science using virtual labs by guest speaker Abdullah Almaatouq (SICSS 2017)"
+    - name: "12:15 - 12:30 Logistics"
+    - name: "12:30 - 1:30 Lunch"
+    - name: "Afternoon off"
+
+- date: 2019-08-04
+  name: "Day off"
+
+- date: 2019-08-05
+  name: "Work on group projects"
+  events:
+    - name: "9:00 - 9:15 Logistics"
+    - name: "9:15 - 10:30 Speed-dating and group formation"
+    - name: "12:30 - 1:30 Lunch"
+    - name: "1:30 - 3:00 Guest lecture: Martijn Schoonvelde"
+
+- date: 2019-08-06
+  name: "Work on group projects"
+  events:
+    - name: "12:30 - 1:30 Lunch"
+    - name: "1:30 - 3:00 Guest lecture: Milena Tsvetkova"
+
+- date: 2019-08-07
+  name: "Work on group projects"
+  events:
+    - name: "12:30 - 1:30 Lunch"
+
+- date: 2019-08-08
+  name: "Present group projects"
+  events:
+    - name: "12:30 - 1:30 Lunch"
+    - name: "6:00 - 7:30 Closing Dinner"
+
+- date: 2019-08-09
+  events:
+    - name: "Participants depart"
