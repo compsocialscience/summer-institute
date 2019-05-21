@@ -23,6 +23,7 @@ Topics covered include
 * mass collaboration
 * network analysis
 * ethics
+* introduction to machine learning
 
 There will be ample opportunities for students to discuss their ideas and research with the organizers, other participants, and visiting speakers.
 Because we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute will be released open source.

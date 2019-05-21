@@ -22,36 +22,42 @@ localspeakers:
       image: /assets/images/BarberaPablo.jpg
       bio: Pablo Barberá is an Assistant Professor of Computational Social Science at the London School of Economics. His research develops text and network analysis methods that improve our understanding of how exposure to political information through social media sites affects political behavior. He is also the authors of several R packages that allow scholars to collect and analyze social media data.
       website: http://pablobarbera.com/
-      
-    - name: Mariarosaria Taddeo
-      image: /assets/images/TaddeoMariarosaria.jpg
-      bio: Dr Mariarosaria Taddeo is Research Fellow at the Oxford Internet Institute, University of Oxford, where she is the Deputy Director of the Digital Ethics Lab, and is Faculty Fellow at the Alan Turing Institute. Her recent work focuses mainly on the ethical analysis of Artificial Intelligence, cyber security , cyber conflicts, and ethics of digital innovation. Her area of expertise is Philosophy and Ethics of Information, although she has worked on issues concerning Epistemology, Logic, and Philosophy of AI. She has been listed among the top 50 most inspiring Italian women working in AI in 2018. Dr Taddeo has been awarded The Simon Award for Outstanding Research in Computing and Philosophy. She also received the World Technology Award for Ethics acknowledging the originality and her research on the ethics of cyber conflicts, and the social impact of the work that she developed in this area. Since 2016, Taddeo serves as editor-in-chief of Minds & Machines (SpringerNature) and of Philosophical Studies Series (SpringerNature).
+
+    - name: David Cox
+      image: /assets/images/DavidCox.jpg
+      bio: Sir David Cox is a statistician known in particular for the proportional hazards model. This  is widely used in the analysis of survival data and has been applied in the medical, physical, life, earth, and social sciences, as well as engineering fields. His 1972 paper introducing the model and its analysis is one of the 100 most-cited papers of all time for all fields. Cox’s career has included  research positions in  government supported research organizations, as well as  academic appointments at Cambridge, University of North Carolina,  Birkbeck College, Imperial College, and Nuffield College, where he was Warden, 1988-1994. He earned his PhD from the University of Leeds in 1949, after first studying mathematics at St. Johns College, Cambridge. Knighted in 1985, Cox is a fellow of the Royal Society, an honorary fellow of the British Academy and a foreign associate of the U.S. National Academy of Sciences. He has served as president of the Bernoulli Society, Royal Statistical Society and International Statistical Institute. In 2010, Cox received the Copley Medal, the Royal Society’s highest award, and in 2016, the International Prize in Statistics and shared the BBVA Foundation Prize for research in  the physical sciences.
       website: 
+      
+    - name: Xiaowen Dong
+      image: /assets/images/XiaowenDong.jpg
+      bio: Xiaowen Dong is a Departmental Lecturer in the Department of Engineering Science, a faculty member of the Oxford-Man Institute, and a research fellow of Somerville College, all at the University of Oxford. He is primarily interested in utilising graphs to model relational structure within the data, and developing novel techniques that lie at the intersection of machine learning, signal processing, and complex networks to study questions across social and economic sciences, with a particular focus on understanding human behaviour, decision making and societal changes.
+      website: 
+      
+    - name: Ray Duch
+      image: /assets/images/DutchRyan.jpg
+      bio: Ray is an Official Fellow at Nuffield College, University of Oxford, and the Director of the Nuffield Centre for Experimental Social Sciences (CESS), which has centres in Oxford, Santiago (Chile), Tianjin (China) and Pune (India). Previously, he was the Senator Don Henderson Scholar in Political Science at the University of Houston. He received his PhD from the University of Rochester. He is currently the Long-Term Visiting Professor at the Institute for Advanced Studies at the Toulouse School of Economics. Ray’s research uses experiments, digital trace and public opinion analysis to explain individual decision making. He has published extensively, including an award-winning book (The Economic Vote) on how economic outcomes affect democratic accountability. His work has appeared in forty leading journals in political science and economics. Ray’s current research agenda investigates the role of information acquisition in decision-making. In 2015, Ray was selected as a member of the UK Cabinet Office Cross-Whitehall Trial Advice Panel to assist Whitehall departments in designing and implementing experiments to assess policy effectiveness. He is a member of the Evidence in Governance and Politics (EGAP) network. 
+      website:    
+
+    - name: Scott Hale
+      image: /assets/images/HaleScott.jpg
+      bio: Dr Scott A. Hale is a Senior Data Scientist and Research Fellow at the Oxford Internet Institute of the University of Oxford, UK, and a Fellow at the Alan Turing Institute. He develops and applies techniques from computer science to research questions in both computer science and the social sciences and puts the results into practice with industry partners. He is particularly interested in mobilization/collective action, agenda setting, and antisocial behaviour (e.g., hate speech) and has a strong track record in building tools and teaching programmes that enable social science researchers to access new methods and forms of data. At Oxford, he directs the Social Data Science programme, supervises postgraduate students and postdoctoral researchers, and teaches postgraduate students.
+      website:
       
     - name: Melinda Mills
       image: /assets/images/MillsMelinda.jpg
       bio: Melinda Mills (MBE, FBA) is the Nuffield Professor of Sociology at the University of Oxford and Nuffield College and the Director of the new Leverhulme Centre for Demographic Science in Oxford  She completed her PhD in Demography at the University of Groningen (Netherlands), and has further studied bioinformatics and genetics. She was the Editor of the European Sociological Review (2012-2016). Mills’ research spans a range of interdisciplinary topics at the intersection of demography, sociology, molecular genetics and statistics. Her substantive research specializes in fertility and human reproductive behaviour, assortative mating, labour market, nonstandard employment and chronotypes, life course and inequality. She currently leads the ERC funded programme SOCIOGENOME (www.sociogenome.com). Mills has published various statistics textbooks in R on survival and event history analysis (2011, Sage) and has a forthcoming book on applied quantitative genetics statistical analysis (2019, MIT Press). She serves on various national science Boards such as the Executive Council of the Ecnomic and Social Research Council RCUK, the non-Executive Supervisory Board of the Dutch Science Council (NWO) and the NHS Digital Research Advisory Group.
       website:
       
-    - name: Scott Hale
-      image: /assets/images/HaleScott.jpg
-      bio: Dr Scott A. Hale is a Senior Data Scientist and Research Fellow at the Oxford Internet Institute of the University of Oxford, UK, and a Fellow at the Alan Turing Institute. He develops and applies techniques from computer science to research questions in both computer science and the social sciences and puts the results into practice with industry partners. He is particularly interested in mobilization/collective action, agenda setting, and antisocial behaviour (e.g., hate speech) and has a strong track record in building tools and teaching programmes that enable social science researchers to access new methods and forms of data. At Oxford, he directs the Social Data Science programme, supervises postgraduate students and postdoctoral researchers, and teaches postgraduate students.
-      website:
-     
-    - name: Neave OClery
+    - name: Neave O'Clery
       image: /assets/images/OCleryNeave.jpg
-      bio: Originally from Dublin, Dr Neave OClery is currently a Senior Research Fellow at the Mathematical Institute at the University of Oxford where she leads a research group  focused on data-driven models for economic development and the emergence of complexity for urban systems. Neave was previously a Fulbright Scholar and Postdoctoral Research Fellow at the Center for International Development at the Harvard Kennedy School following her PhD (mathematics) at Imperial College. She is also founder and Editor in Chief of Angle – a journal based at Imperial College focusing on the intersection of policy, politics and science – since 2009. 
+      bio: Originally from Dublin, Dr Neave O'Clery is currently a Senior Research Fellow at the Mathematical Institute at the University of Oxford where she leads a research group  focused on data-driven models for economic development and the emergence of complexity for urban systems. Neave was previously a Fulbright Scholar and Postdoctoral Research Fellow at the Center for International Development at the Harvard Kennedy School following her PhD (mathematics) at Imperial College. She is also founder and Editor in Chief of Angle – a journal based at Imperial College focusing on the intersection of policy, politics and science – since 2009. 
       website:
       
-    - name: Ray Duch
-      image: /assets/images/DutchRyan.jpg
-      bio: Ray is an Official Fellow at Nuffield College, University of Oxford, and the Director of the Nuffield Centre for Experimental Social Sciences (CESS), which has centres in Oxford, Santiago (Chile), Tianjin (China) and Pune (India). Previously, he was the Senator Don Henderson Scholar in Political Science at the University of Houston. He received his PhD from the University of Rochester. He is currently the Long-Term Visiting Professor at the Institute for Advanced Studies at the Toulouse School of Economics. Ray’s research uses experiments, digital trace and public opinion analysis to explain individual decision making. He has published extensively, including an award-winning book (The Economic Vote) on how economic outcomes affect democratic accountability. His work has appeared in forty leading journals in political science and economics. Ray’s current research agenda investigates the role of information acquisition in decision-making. In 2015, Ray was selected as a member of the UK Cabinet Office Cross-Whitehall Trial Advice Panel to assist Whitehall departments in designing and implementing experiments to assess policy effectiveness. He is a member of the Evidence in Governance and Politics (EGAP) network. 
-      website:      
+    - name: Mariarosaria Taddeo
+      image: /assets/images/TaddeoMariarosaria.jpg
+      bio: Dr Mariarosaria Taddeo is Research Fellow at the Oxford Internet Institute, University of Oxford, where she is the Deputy Director of the Digital Ethics Lab, and is Faculty Fellow at the Alan Turing Institute. Her recent work focuses mainly on the ethical analysis of Artificial Intelligence, cyber security , cyber conflicts, and ethics of digital innovation. Her area of expertise is Philosophy and Ethics of Information, although she has worked on issues concerning Epistemology, Logic, and Philosophy of AI. She has been listed among the top 50 most inspiring Italian women working in AI in 2018. Dr Taddeo has been awarded The Simon Award for Outstanding Research in Computing and Philosophy. She also received the World Technology Award for Ethics acknowledging the originality and her research on the ethics of cyber conflicts, and the social impact of the work that she developed in this area. Since 2016, Taddeo serves as editor-in-chief of Minds & Machines (SpringerNature) and of Philosophical Studies Series (SpringerNature).
+      website: 
  
-    - name: Xiaowen Dong
-      image: /assets/images/XiaowenDong.jpg
-      bio: Xiaowen Dong is a Departmental Lecturer in the Department of Engineering Science, a faculty member of the Oxford-Man Institute, and a research fellow of Somerville College, all at the University of Oxford. He is primarily interested in utilising graphs to model relational structure within the data, and developing novel techniques that lie at the intersection of machine learning, signal processing, and complex networks to study questions across social and economic sciences, with a particular focus on understanding human behaviour, decision making and societal changes.
-      website:  
       
 workshopleaders:
   title: Workshop Leaders
@@ -66,9 +72,60 @@ workshopleaders:
       bio: Charles Rahal is a social science methodologist and applied social data scientist with a background in high-dimensional econometrics, having completed his PhD in 2016. He currently holds a British Academy Postdoctoral Fellowship entitled 'The Social Data Science of Healthcare Supply' which develops data driven tools for analysing healthcare procurement processes. He is particularly interested in unique data origination processes, be they unstructured or otherwise, and is an advocate for open source and reproducible academic research, particularly in the forms of Python, LaTeX and Linux. He was a co-recipient (with Aaron Reeves, Sam Friedman and Magne Flemmen) of the 2018 European Academy of Sociology Best Paper award, and he presently teaches 'Python for Sociologists' in Michaelmas Term. Other current areas of interest include civic technology, applied econometrics (predominantly spatial and time series), scientometrics, data wrangling, software development, and social stratification and social mobility. He is increasingly interested in sociological applications of text mining algorithms. Follow his projects on [github](https://github.com/crahal) and [Google Scholar](https://scholar.google.co.uk/citations?user=8bd7KNgAAAAJ&hl=en)!
       website:
 
-teachingassistants:
-  title: Teaching Assistants
+participants:
+  title: Participants
   people:
-    - name: To be announced.
-      bio:
+    - name: Chris Barrie
+      bio: Chris is currently a DPhil Candidate in Sociology at Nuffield College, University of Oxford. From September 2019, he will be Postdoctoral Prize Research Fellow in Sociology at Nuffield. His research interests include protest, conflict, and nationalism in the Middle East and North Africa. In the realm of computational methods, he is particularly interested in historical GIS techniques and the use of social media data.
+      image: /assets/images/ChrisBarrie.jpg
+    - name: Pablo Beytía
+      bio: Pablo Beytía is a PhD candidate at the Department of Social Sciences of Humboldt University of Berlin and a DAAD-CONICYT scholarship holder. He is specializing in what might be called ‘digital sociology of knowledge’, with a thesis on how biographical information is being globally structured in multilingual Wikipedia. Pablo was a lecturer at the Catholic University of Chile, director of the Social Research Centre of the international NGO ‘TECHO’, advisor to the Government of Chile, and visiting researcher at the University of Warwick and the Berlin Graduate School of Social Sciences. He is a sociologist and holds a master's degree in both sociology and philosophy.
+      image: /assets/images/BeytiaPablo.ong
+    - name: Jorge Cimentada
+      bio: Jorge Cimentada is a PhD candidate in Sociology at Pompeu Fabra University and soon to be Research Scientist at the Max Planck Institute of Demography. He's involved in projects at the RECSM institute where he builds scientific software to analyze survey data with measurement error as well as on ERC funded projects from Bocconi University on trust and fertility. His research is focused on combining ideas from computer science and statistics to the study of achievement inequality, population dynamics and inequality in spatial/social mobility. To check out some of his work, you can visit his website or follow him on Twitter under @cimentadaj.
+      image: /assets/images/CimentadaJorge.png
+    - name: Kan Li
+      bio: Kan Li is a DPhil candidate in international relations at University of Oxford. Her research focuses on applications of agent-based model to international crises and conflicts; her current project studies how challengers alter international status quo through asymmetric military build-up and how this shapes unique dynamics of asymmetric conflicts. Prior to Oxford, she received her Master's degree in political science from the Graduate Institute of International and Development Studies in Geneva, and her Bachelor's degree in economics from the University of Hong Kong.
+      image: /assets/images/LiKan.jpg
+    - name: Julia Mikolai
+      bio: Julia Mikolai is a Research Fellow at the University of St Andrews. Her background is in sociology and demography. Her research interests include partnerships, families, and fertility; residential mobility and housing; life course research; and cross-national comparisons. She uses individual-level longitudinal data and longitudinal methods to study these topics. Previously, she has been a Post-doctoral Research Associate at the University of Liverpool. She holds a PhD in social statistics and demography from the University of Southampton and has studied at Eötvös Loránd University (Budapest), Utrecht University, and the European Doctoral School of Demography (hosted by the Max Planck Institute for Demographic Research and the Centre for Economic Demography at Lund University). 
+      image: /assets/images/MikolaiJulia.jpg
+    - name: Florian Schaffner
+      bio: Florian Schaffner is a doctoral student in Politics at Balliol College, University of Oxford. His research interests include political psychology, direct democracy, elections, research methods and data science. In his doctoral research he uses surveys, experiments and quantitative text analysis to study the determinants and consequences of citizens’ perceptions of the integrity and legitimacy of referendums and elections. He holds an MSc in Comparative Politics from the London School of Economics and Political Science (LSE) and a BA in Social Sciences from the University of Zurich.
+      image: /assets/images/SchaffnerFlorian.jpg
+    - name: Giacomo Vagni
+      bio: Giacomo is a DPhil candidate in Sociology at Nuffield College, University of Oxford and a member of the Centre for Time Use Research, University College London.  His PhD thesis focuses on the structure of daily life, collective rhythms and the social stratification of time use. His research interests include causal inference, sequence analysis and visual sociology. He holds a BA in Anthropology and Sociology from the Université Libre de Bruxelles and a MA in Sociology from the University of Geneva.
+      image: /assets/images/VagniGiacomo.jpg
+    - name: Sonja Vogt
+      bio: Sonja Vogt received her PhD at the Interuniversity Center for Social Science Theory and Methodology (ICS) at the University of Utrecht in the Netherlands.  She was then a senior research associate in the Department of Economics at the University of Zurich. From Zurich she moved to Oxford, where she was a senior postdoctoral officer at the Centre for Experimental Social Sciences in Oxford.  Currently, Sonja is associate professor for sustainable social development at the University of Bern, and she is affiliated with Nuffield College and the Sociology Department at the University of Oxford.  Sonja has published in Nature, Science, and Proceedings of the Royal Society B.  Her research focuses on social development, with a particular emphasis on culturally sensitive topics where attitudes and behavior are hard to measure.  Examples include female genital cutting, prenatal sex-selection, corruption, and various types of discrimination. Sonja has projects in Sudan, Armenia, Columbia, Brazil, Kenya, and Nigeria.  
+      image: /assets/images/VogtSonja.jpg
+    - name: 
+      bio: 
+      image:
+    - name: 
+      bio: 
+      image:
+    - name: 
+      bio: 
+      image:
+    - name: 
+      bio: 
+      image:
+    - name: 
+      bio: 
+      image:
+    - name: 
+      bio: 
+      image:
+    - name: 
+      bio: 
+      image:
+    - name: 
+      bio: 
+      image:
+    - name: 
+      bio: 
+      image:
+    - name: 
+      bio: 
       image:
