@@ -58,6 +58,10 @@ localspeakers:
       bio: Dr Mariarosaria Taddeo is Research Fellow at the Oxford Internet Institute, University of Oxford, where she is the Deputy Director of the Digital Ethics Lab, and is Faculty Fellow at the Alan Turing Institute. Her recent work focuses mainly on the ethical analysis of Artificial Intelligence, cyber security , cyber conflicts, and ethics of digital innovation. Her area of expertise is Philosophy and Ethics of Information, although she has worked on issues concerning Epistemology, Logic, and Philosophy of AI. She has been listed among the top 50 most inspiring Italian women working in AI in 2018. Dr Taddeo has been awarded The Simon Award for Outstanding Research in Computing and Philosophy. She also received the World Technology Award for Ethics acknowledging the originality and her research on the ethics of cyber conflicts, and the social impact of the work that she developed in this area. Since 2016, Taddeo serves as editor-in-chief of Minds & Machines (SpringerNature) and of Philosophical Studies Series (SpringerNature).
       website: 
  
+    - name: Sonja Vogt
+      image: /assets/images/VogtSonja.jpg
+      bio: Sonja Vogt received her PhD at the Interuniversity Center for Social Science Theory and Methodology (ICS) at the University of Utrecht in the Netherlands.  She was then a senior research associate in the Department of Economics at the University of Zurich. From Zurich she moved to Oxford, where she was a senior postdoctoral officer at the Centre for Experimental Social Sciences in Oxford.  Currently, Sonja is associate professor for sustainable social development at the University of Bern, and she is affiliated with Nuffield College and the Sociology Department at the University of Oxford.  Sonja has published in Nature, Science, and Proceedings of the Royal Society B.  Her research focuses on social development, with a particular emphasis on culturally sensitive topics where attitudes and behavior are hard to measure.  Examples include female genital cutting, prenatal sex-selection, corruption, and various types of discrimination. Sonja has projects in Sudan, Armenia, Columbia, Brazil, Kenya, and Nigeria.  
+       
       
 workshopleaders:
   title: Workshop Leaders
@@ -78,33 +82,38 @@ participants:
     - name: Chris Barrie
       bio: Chris is currently a DPhil Candidate in Sociology at Nuffield College, University of Oxford. From September 2019, he will be Postdoctoral Prize Research Fellow in Sociology at Nuffield. His research interests include protest, conflict, and nationalism in the Middle East and North Africa. In the realm of computational methods, he is particularly interested in historical GIS techniques and the use of social media data.
       image: /assets/images/ChrisBarrie.jpg
+      
     - name: Pablo Beytía
       bio: Pablo Beytía is a PhD candidate at the Department of Social Sciences of Humboldt University of Berlin and a DAAD-CONICYT scholarship holder. He is specializing in what might be called ‘digital sociology of knowledge’, with a thesis on how biographical information is being globally structured in multilingual Wikipedia. Pablo was a lecturer at the Catholic University of Chile, director of the Social Research Centre of the international NGO ‘TECHO’, advisor to the Government of Chile, and visiting researcher at the University of Warwick and the Berlin Graduate School of Social Sciences. He is a sociologist and holds a master's degree in both sociology and philosophy.
-      image: /assets/images/BeytiaPablo.ong
+      image: /assets/images/BeytiaPablo.png
+      
     - name: Jorge Cimentada
       bio: Jorge Cimentada is a PhD candidate in Sociology at Pompeu Fabra University and soon to be Research Scientist at the Max Planck Institute of Demography. He's involved in projects at the RECSM institute where he builds scientific software to analyze survey data with measurement error as well as on ERC funded projects from Bocconi University on trust and fertility. His research is focused on combining ideas from computer science and statistics to the study of achievement inequality, population dynamics and inequality in spatial/social mobility. To check out some of his work, you can visit his website or follow him on Twitter under @cimentadaj.
       image: /assets/images/CimentadaJorge.png
+ 
+    - name: Emmanuelle Afaribea Dankwa
+      bio: Emmanuelle is a DPhil candidate in Statistical Science at the University of Oxford, where she studies as a Rhodes Scholar.  Before moving to Oxford, she worked as a teaching assistant in the statistics department of the University of Ghana where she had earlier obtained a bachelor’s degree in Mathematics and Statistics. Emmanuelle’s research interests lie in experimental design and statistical epidemiology and her current research explores the links between branching processes and the mechanisms of infectious disease spread in a stochastic environment.  She is also interested in applying statistical methods to increase the impacts of environmental campaigns.
+      image: /assets/images/DankwaEmmanuelleAfaribea.jpg
+      
     - name: Kan Li
       bio: Kan Li is a DPhil candidate in international relations at University of Oxford. Her research focuses on applications of agent-based model to international crises and conflicts; her current project studies how challengers alter international status quo through asymmetric military build-up and how this shapes unique dynamics of asymmetric conflicts. Prior to Oxford, she received her Master's degree in political science from the Graduate Institute of International and Development Studies in Geneva, and her Bachelor's degree in economics from the University of Hong Kong.
       image: /assets/images/LiKan.jpg
+      
     - name: Julia Mikolai
       bio: Julia Mikolai is a Research Fellow at the University of St Andrews. Her background is in sociology and demography. Her research interests include partnerships, families, and fertility; residential mobility and housing; life course research; and cross-national comparisons. She uses individual-level longitudinal data and longitudinal methods to study these topics. Previously, she has been a Post-doctoral Research Associate at the University of Liverpool. She holds a PhD in social statistics and demography from the University of Southampton and has studied at Eötvös Loránd University (Budapest), Utrecht University, and the European Doctoral School of Demography (hosted by the Max Planck Institute for Demographic Research and the Centre for Economic Demography at Lund University). 
       image: /assets/images/MikolaiJulia.jpg
+      
     - name: Florian Schaffner
       bio: Florian Schaffner is a doctoral student in Politics at Balliol College, University of Oxford. His research interests include political psychology, direct democracy, elections, research methods and data science. In his doctoral research he uses surveys, experiments and quantitative text analysis to study the determinants and consequences of citizens’ perceptions of the integrity and legitimacy of referendums and elections. He holds an MSc in Comparative Politics from the London School of Economics and Political Science (LSE) and a BA in Social Sciences from the University of Zurich.
       image: /assets/images/SchaffnerFlorian.jpg
+      
     - name: Giacomo Vagni
       bio: Giacomo is a DPhil candidate in Sociology at Nuffield College, University of Oxford and a member of the Centre for Time Use Research, University College London.  His PhD thesis focuses on the structure of daily life, collective rhythms and the social stratification of time use. His research interests include causal inference, sequence analysis and visual sociology. He holds a BA in Anthropology and Sociology from the Université Libre de Bruxelles and a MA in Sociology from the University of Geneva.
       image: /assets/images/VagniGiacomo.jpg
-    - name: Sonja Vogt
-      bio: Sonja Vogt received her PhD at the Interuniversity Center for Social Science Theory and Methodology (ICS) at the University of Utrecht in the Netherlands.  She was then a senior research associate in the Department of Economics at the University of Zurich. From Zurich she moved to Oxford, where she was a senior postdoctoral officer at the Centre for Experimental Social Sciences in Oxford.  Currently, Sonja is associate professor for sustainable social development at the University of Bern, and she is affiliated with Nuffield College and the Sociology Department at the University of Oxford.  Sonja has published in Nature, Science, and Proceedings of the Royal Society B.  Her research focuses on social development, with a particular emphasis on culturally sensitive topics where attitudes and behavior are hard to measure.  Examples include female genital cutting, prenatal sex-selection, corruption, and various types of discrimination. Sonja has projects in Sudan, Armenia, Columbia, Brazil, Kenya, and Nigeria.  
-      image: /assets/images/VogtSonja.jpg
-    - name: 
-      bio: 
-      image:
-    - name: 
-      bio: 
-      image:
+
+    - name: Vadim Voskresenskii
+      bio: Vadim Voskresenskii is doing PhD in Free University of Berlin and working as a research assistant in Weizenbaum Institute for the Networked Society. His research is focused on how right-wing actors use the affordances of social media platforms for the creation of transnational ties and exchange of information. In the current project, he studies online communities formed by European right-wingers migrating to Russian social media due to the censorship policy on Facebook. In the project, he uses text mining and network analysis methods.
+      image: /assets/images/VoskresenskiiVadim.jpg
     - name: 
       bio: 
       image:
