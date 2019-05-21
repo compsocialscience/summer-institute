@@ -48,9 +48,9 @@ localspeakers:
       bio: Melinda Mills (MBE, FBA) is the Nuffield Professor of Sociology at the University of Oxford and Nuffield College and the Director of the new Leverhulme Centre for Demographic Science in Oxford  She completed her PhD in Demography at the University of Groningen (Netherlands), and has further studied bioinformatics and genetics. She was the Editor of the European Sociological Review (2012-2016). Mills’ research spans a range of interdisciplinary topics at the intersection of demography, sociology, molecular genetics and statistics. Her substantive research specializes in fertility and human reproductive behaviour, assortative mating, labour market, nonstandard employment and chronotypes, life course and inequality. She currently leads the ERC funded programme SOCIOGENOME (www.sociogenome.com). Mills has published various statistics textbooks in R on survival and event history analysis (2011, Sage) and has a forthcoming book on applied quantitative genetics statistical analysis (2019, MIT Press). She serves on various national science Boards such as the Executive Council of the Ecnomic and Social Research Council RCUK, the non-Executive Supervisory Board of the Dutch Science Council (NWO) and the NHS Digital Research Advisory Group.
       website:
       
-    - name: Neave OClery
+    - name: Neave O'Clery
       image: /assets/images/OCleryNeave.jpg
-      bio: Originally from Dublin, Dr Neave OClery is currently a Senior Research Fellow at the Mathematical Institute at the University of Oxford where she leads a research group  focused on data-driven models for economic development and the emergence of complexity for urban systems. Neave was previously a Fulbright Scholar and Postdoctoral Research Fellow at the Center for International Development at the Harvard Kennedy School following her PhD (mathematics) at Imperial College. She is also founder and Editor in Chief of Angle – a journal based at Imperial College focusing on the intersection of policy, politics and science – since 2009. 
+      bio: Originally from Dublin, Dr Neave O'Clery is currently a Senior Research Fellow at the Mathematical Institute at the University of Oxford where she leads a research group  focused on data-driven models for economic development and the emergence of complexity for urban systems. Neave was previously a Fulbright Scholar and Postdoctoral Research Fellow at the Center for International Development at the Harvard Kennedy School following her PhD (mathematics) at Imperial College. She is also founder and Editor in Chief of Angle – a journal based at Imperial College focusing on the intersection of policy, politics and science – since 2009. 
       website:
       
     - name: Mariarosaria Taddeo
@@ -80,15 +80,15 @@ participants:
   people:
     - name: Chris Barrie
       bio: Chris is currently a DPhil Candidate in Sociology at Nuffield College, University of Oxford. From September 2019, he will be Postdoctoral Prize Research Fellow in Sociology at Nuffield. His research interests include protest, conflict, and nationalism in the Middle East and North Africa. In the realm of computational methods, he is particularly interested in historical GIS techniques and the use of social media data.
-      image: /assets/images/BarrieChris.jpg
+      image: /assets/images/ChrisBarrie.jpg
       
     - name: Pablo Beytía
       bio: Pablo Beytía is a PhD candidate at the Department of Social Sciences of Humboldt University of Berlin and a DAAD-CONICYT scholarship holder. He is specializing in what might be called ‘digital sociology of knowledge’, with a thesis on how biographical information is being globally structured in multilingual Wikipedia. Pablo was a lecturer at the Catholic University of Chile, director of the Social Research Centre of the international NGO ‘TECHO’, advisor to the Government of Chile, and visiting researcher at the University of Warwick and the Berlin Graduate School of Social Sciences. He is a sociologist and holds a master's degree in both sociology and philosophy.
-      image: /assets/images/BeytiaPablo.jpg
+      image: /assets/images/BeytiaPablo.png
       
     - name: Jorge Cimentada
       bio: Jorge Cimentada is a PhD candidate in Sociology at Pompeu Fabra University and soon to be Research Scientist at the Max Planck Institute of Demography. He's involved in projects at the RECSM institute where he builds scientific software to analyze survey data with measurement error as well as on ERC funded projects from Bocconi University on trust and fertility. His research is focused on combining ideas from computer science and statistics to the study of achievement inequality, population dynamics and inequality in spatial/social mobility. To check out some of his work, you can visit his website or follow him on Twitter under @cimentadaj.
-      image: /assets/images/CimentadaJorge.jpg
+      image: /assets/images/CimentadaJorge.png
  
     - name: Emmanuelle Afaribea Dankwa
       bio: Emmanuelle is a DPhil candidate in Statistical Science at the University of Oxford, where she studies as a Rhodes Scholar.  Before moving to Oxford, she worked as a teaching assistant in the statistics department of the University of Ghana where she had earlier obtained a bachelor’s degree in Mathematics and Statistics. Emmanuelle’s research interests lie in experimental design and statistical epidemiology and her current research explores the links between branching processes and the mechanisms of infectious disease spread in a stochastic environment.  She is also interested in applying statistical methods to increase the impacts of environmental campaigns.
