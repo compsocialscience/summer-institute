@@ -4,13 +4,13 @@
   website:
 
 - name:  Lateef Amusa
-  #image: /2019/capetown/images/babalola.png
-  #bio: ""
+  image: /2019/capetown/images/amusa.png
+  bio: "Lateef Amusa is a lecturer at the University of Ilorin, Nigeria. He is currently rounding up his PhD programme in Applied Statistics at the University of Kwazulu-Natal, South Africa. He holds a BSc (First class honours) and a master’s degree in Statistics from the University of Ilorin, Nigeria. His research interests include the use of Spatial and data mining models, big data analytic methods with application to social science, health and medicine."
   #website:
   
 - name:  Babalola Tesleem Kayode 
-  #image: /2019/capetown/images/babalola.png
-  #bio: ""
+  image: /2019/capetown/images/babalola.png
+  bio: "Tesleem K. Babalola is a passionate quantitative and qualitative research/data analyst with over seven years’ experience in research methodology, data collection, management and analysis. He has more than eight published peer-reviewed articles in recognised journals. He is a collaborator for the global burden of disease (GBD) research network and also member of some local and international social science and health organizations. He is currently a doctoral candidate at Public Health Department, University of KwaZulu-Natal, Durban, South Africa. His research interest includes health system research, health outcomes, epidemiology and biostatistics."
   #website:
   
 - name:  Boladé Hamed Banougnin 
@@ -31,6 +31,11 @@
 - name:  Justin Dansou
   image: /2019/capetown/images/dansou.jpg
   bio: "Justin got a PhD degree in Reproductive Health from the Pan African University Institute for Life and Earth Sciences (PAULESI), located at the University of Ibadan, Ibadan, Nigeria. Prior to his doctoral studies, he graduated with a master’s degree in Demography at the Institut de Formation et de Recherche Démographiques (IFORD) in Cameroon, and a Bachelor of Science degree in computing management at the Institut Universitaire de Technologie (IUT) of Université de Parakou in Benin. He worked as research assistant at the Institut de Formation et de Recherche Démographiques (IFORD). Currently, he gives lectures pertaining to demographic analysis at the École Nationale de la Statistique, de la Planification et de la Démographie (ENSPD) at the Université de Parakou. His research interest includes Population and Health; Reproductive Health including Maternal health and Child survival."
+  website:
+
+- name:  Dereje Danbe Debeko
+  image: /2019/capetown/images/dereje.jpg
+  bio: "Dereje Danbe Debeko is an assistant professor at Department of Statistics, Hawassa University. He had intensive research and teaching experience in last 11 years from where he was hired as graduate assistant at Aksum University in 2009. He has thought different practical and theoretical statistics courses for the last eleven years. Dereje have been involved and had good research experience in area of longitudinal data analysis. His research interest mainly focuses on modeling hierarchical and repeated observations trends in various fields of studies. Currently, Dereje is in the position of “Associate dean for research and technology transfer” at College of natural and computational sciences, Hawassa University."
   website:
   
 - name:  Danielle Giovenco
@@ -74,8 +79,8 @@
   website:
 
 - name:  Sindiso Ndlovu
-  #image: /2019/capetown/images/sindiso.jpg
-  #bio: "Larissa Nawo has just finished her Ph.D. in Applied Economy policy and Analysis at the University of Dschang, Cameroon.  Currently, Larissa is a research fellow cohort 2019 at the Structural Transformation of African Agriculture and Rural Spaces (STAARS) project of Cornell University.  Her research interest is an intersection between development economics and data analysis studies, which include but not restricted to natural resources revenues management, behaviour sciences, impact evaluation techniques, computable general equilibrium (CGE) modelling, computational social science methods, applied micro econometric and applied political economy. During her doctoral studies, she was a Ph.D. visiting fellow at the United Nations University World Institute for Development Economics Research (UNU-WIDER) in Helsinki (Finland)."
+  image: /2019/capetown/images/sindiso.jpg
+  bio: "Sindiso Ndlovu is a doctoral candidate in Demography and Population studies at the University of Witwatersrand in South Africa. She hold a Masters and Honours degree in Health Demography and her research interests lie in the field of  family and health demography with specific focus on fertility, child health and policy. Her PhD thesis focuses on the intersection of health and family demography in a SSA countries."
   #website:
   
 - name:  Douglas Parry
@@ -99,6 +104,6 @@
   website: 
 
 - name:  Chipo Zidana
- # image: /2019/capetown/images/zidana.jpg
+  image: /2019/capetown/images/chipo.jpg
   bio: "Chipo Zidana holds a PhD in Statistics from Cukurova university, Turkey, which was funded by the Turkish Government. She is currently a lecturer in the Department of Applied Mathematics at the National University of science and Technology, Zimbabwe. She has published work in population health and her current research focuses on machine learning approach to problems in rural livelihoods and health."
   website: 
