@@ -112,6 +112,10 @@ participants:
       bio: Florian Schaffner is a doctoral student in Politics at Balliol College, University of Oxford. His research interests include political psychology, direct democracy, elections, research methods and data science. In his doctoral research he uses surveys, experiments and quantitative text analysis to study the determinants and consequences of citizens’ perceptions of the integrity and legitimacy of referendums and elections. He holds an MSc in Comparative Politics from the London School of Economics and Political Science (LSE) and a BA in Social Sciences from the University of Zurich.
       image: /assets/images/SchaffnerFlorian.jpg
       
+    - name: Kayla Schulte
+      bio: Kayla Schulte is a PGS with the Department of Sociology and the Leverhulme Centre for Demographic Science at the University of Oxford. Her research focuses on air pollution exposure, inequality, health-protective behaviours and open-access air quality data. Kayla worked previously with the U.S. EPA on air quality and citizen science research, and is now involved with DEFRA-funded research on air quality management in Oxford city. Kayla has a background in social science, politics, human geography and graphic design. She received her BA from Franklin & Marshall College and her MSc from the University of Oxford.
+      image: /assets/images/SchulteKayla.jpg  
+      
     - name: Giacomo Vagni
       bio: Giacomo is a DPhil candidate in Sociology at Nuffield College, University of Oxford and a member of the Centre for Time Use Research, University College London.  His PhD thesis focuses on the structure of daily life, collective rhythms and the social stratification of time use. His research interests include causal inference, sequence analysis and visual sociology. He holds a BA in Anthropology and Sociology from the Université Libre de Bruxelles and a MA in Sociology from the University of Geneva.
       image: /assets/images/VagniGiacomo.jpg
@@ -119,9 +123,10 @@ participants:
     - name: Vadim Voskresenskii
       bio: Vadim Voskresenskii is doing PhD in Free University of Berlin and working as a research assistant in Weizenbaum Institute for the Networked Society. His research is focused on how right-wing actors use the affordances of social media platforms for the creation of transnational ties and exchange of information. In the current project, he studies online communities formed by European right-wingers migrating to Russian social media due to the censorship policy on Facebook. In the project, he uses text mining and network analysis methods.
       image: /assets/images/VoskresenskiiVadim.jpg
-    - name: Kayla Schulte
-      bio: Kayla Schulte is a PGS with the Department of Sociology and the Leverhulme Centre for Demographic Science at the University of Oxford. Her research focuses on air pollution exposure, inequality, health-protective behaviours and open-access air quality data. Kayla worked previously with the U.S. EPA on air quality and citizen science research, and is now involved with DEFRA-funded research on air quality management in Oxford city. Kayla has a background in social science, politics, human geography and graphic design. She received her BA from Franklin & Marshall College and her MSc from the University of Oxford.
-      image: /assets/images/SchulteKayla.jpg
+
+    - name: 
+      bio: 
+      image:
     - name: 
       bio: 
       image:
