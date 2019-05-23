@@ -53,6 +53,11 @@ localspeakers:
       bio: Originally from Dublin, Dr Neave O'Clery is currently a Senior Research Fellow at the Mathematical Institute at the University of Oxford where she leads a research group  focused on data-driven models for economic development and the emergence of complexity for urban systems. Neave was previously a Fulbright Scholar and Postdoctoral Research Fellow at the Center for International Development at the Harvard Kennedy School following her PhD (mathematics) at Imperial College. She is also founder and Editor in Chief of Angle – a journal based at Imperial College focusing on the intersection of policy, politics and science – since 2009. 
       website:
       
+    - name: Nick Ruktanonchai
+      image: /assets/images/RuktanonchaiNick.png
+      bio: Nick Ruktanonchai is an infectious disease epidemiologist, currently working as a senior research fellow in the WorldPop Project at the University of Southampton. He is interested in understanding how vectorborne diseases move on complex landscapes of transmission, particularly when carried by human hosts. This has involved using human mobility data from a variety of sources, including from Android smartphones, feature phones, satellite imagery, and microcensus data. Through collaborations with organisations such as the Clinton Health Access Initiative, he works to ensure his research helps inform malaria elimination strategy worldwide.
+      website: 
+      
     - name: Mariarosaria Taddeo
       image: /assets/images/TaddeoMariarosaria.jpg
       bio: Dr Mariarosaria Taddeo is Research Fellow at the Oxford Internet Institute, University of Oxford, where she is the Deputy Director of the Digital Ethics Lab, and is Faculty Fellow at the Alan Turing Institute. Her recent work focuses mainly on the ethical analysis of Artificial Intelligence, cyber security , cyber conflicts, and ethics of digital innovation. Her area of expertise is Philosophy and Ethics of Information, although she has worked on issues concerning Epistemology, Logic, and Philosophy of AI. She has been listed among the top 50 most inspiring Italian women working in AI in 2018. Dr Taddeo has been awarded The Simon Award for Outstanding Research in Computing and Philosophy. She also received the World Technology Award for Ethics acknowledging the originality and her research on the ethics of cyber conflicts, and the social impact of the work that she developed in this area. Since 2016, Taddeo serves as editor-in-chief of Minds & Machines (SpringerNature) and of Philosophical Studies Series (SpringerNature).
@@ -90,10 +95,26 @@ participants:
     - name: Jorge Cimentada
       bio: Jorge Cimentada is a PhD candidate in Sociology at Pompeu Fabra University and soon to be Research Scientist at the Max Planck Institute of Demography. He's involved in projects at the RECSM institute where he builds scientific software to analyze survey data with measurement error as well as on ERC funded projects from Bocconi University on trust and fertility. His research is focused on combining ideas from computer science and statistics to the study of achievement inequality, population dynamics and inequality in spatial/social mobility. To check out some of his work, you can visit his website or follow him on Twitter under @cimentadaj.
       image: /assets/images/CimentadaJorge.png
- 
+
+    - name: Aidan Combs
+      bio: Aidan is pursuing a PhD in Sociology at Duke University, where she is associated with the Polarization Lab and Duke Network Analysis Center. Her research interests are in the application of computational methods to questions in political sociology, social psychology, and the sociology of gender. She holds a BS in Engineering Physics and Mathematics from the University of Wisconsin-Madison. 
+      image: /assets/images/CombsAidan.jpg
+      
     - name: Emmanuelle Afaribea Dankwa
       bio: Emmanuelle is a DPhil candidate in Statistical Science at the University of Oxford, where she studies as a Rhodes Scholar.  Before moving to Oxford, she worked as a teaching assistant in the statistics department of the University of Ghana where she had earlier obtained a bachelor’s degree in Mathematics and Statistics. Emmanuelle’s research interests lie in experimental design and statistical epidemiology and her current research explores the links between branching processes and the mechanisms of infectious disease spread in a stochastic environment.  She is also interested in applying statistical methods to increase the impacts of environmental campaigns.
       image: /assets/images/DankwaEmmanuelleAfaribea.jpg
+
+    - name: Xuejie Ding
+      bio: Xuejie Ding is a postdoctoral researcher in the Department of Sociology at the University of Oxford, and a research fellow at Nuffield College. She receives her DPhil from the University of Oxford in 2018. Her research interests are primarily directed towards adopting a sociogenomic approach to bridge the knowledge on contextual, social and biological influences on health and behaviour outcomes. She is particularly interested in applying computational methods to large-scale genetic and behavioural data to understand gene-environment interaction and correlation. 
+      image: /assets/images/DingXuejie.jpg
+ 
+    - name: Arun Frey
+      bio: Arun Frey is currently pursuing a PhD in Sociology at the University of Oxford. His research examines the ecologies of ethnic conflict and discrimination during the “European refugee crisis”, studying how threatening events shape patterns of violence, discrimination, and political polarisation. Methodologically, he is very interested in high-frequency data and text analysis, and uses computational social science approaches to identify novel data sources and quantify local anti-immigrant sentiment. Prior to commencing his doctoral research, Arun worked as a social affairs consultant at the United Nations Secretariat in Bangkok, Thailand. 
+      image: /assets/images/FreyArun.jpg
+
+    - name: Clemens Jarnach
+      bio: Clemens is a DPhil candidate in Sociology at Green Templeton College, University of Oxford. His recent research focuses on the application of social network analysis to political sociology topics. His thesis focuses on investigating digital media usage by voters and politicians in British politics. His research addresses topics such as political polarization, echo chambers, Brexit, and media diversity.
+      image: /assets/images/JarnachClemens.jpg
       
     - name: Kan Li
       bio: Kan Li is a DPhil candidate in international relations at University of Oxford. Her research focuses on applications of agent-based model to international crises and conflicts; her current project studies how challengers alter international status quo through asymmetric military build-up and how this shapes unique dynamics of asymmetric conflicts. Prior to Oxford, she received her Master's degree in political science from the Graduate Institute of International and Development Studies in Geneva, and her Bachelor's degree in economics from the University of Hong Kong.
@@ -107,6 +128,10 @@ participants:
       bio: Florian Schaffner is a doctoral student in Politics at Balliol College, University of Oxford. His research interests include political psychology, direct democracy, elections, research methods and data science. In his doctoral research he uses surveys, experiments and quantitative text analysis to study the determinants and consequences of citizens’ perceptions of the integrity and legitimacy of referendums and elections. He holds an MSc in Comparative Politics from the London School of Economics and Political Science (LSE) and a BA in Social Sciences from the University of Zurich.
       image: /assets/images/SchaffnerFlorian.jpg
       
+    - name: Kayla Schulte
+      bio: Kayla Schulte is a PGS with the Department of Sociology and the Leverhulme Centre for Demographic Science at the University of Oxford. Her research focuses on air pollution exposure, inequality, health-protective behaviours and open-access air quality data. Kayla worked previously with the U.S. EPA on air quality and citizen science research, and is now involved with DEFRA-funded research on air quality management in Oxford city. Kayla has a background in social science, politics, human geography and graphic design. She received her BA from Franklin & Marshall College and her MSc from the University of Oxford.
+      image: /assets/images/SchulteKayla.jpg  
+      
     - name: Giacomo Vagni
       bio: Giacomo is a DPhil candidate in Sociology at Nuffield College, University of Oxford and a member of the Centre for Time Use Research, University College London.  His PhD thesis focuses on the structure of daily life, collective rhythms and the social stratification of time use. His research interests include causal inference, sequence analysis and visual sociology. He holds a BA in Anthropology and Sociology from the Université Libre de Bruxelles and a MA in Sociology from the University of Geneva.
       image: /assets/images/VagniGiacomo.jpg
@@ -114,21 +139,11 @@ participants:
     - name: Vadim Voskresenskii
       bio: Vadim Voskresenskii is doing PhD in Free University of Berlin and working as a research assistant in Weizenbaum Institute for the Networked Society. His research is focused on how right-wing actors use the affordances of social media platforms for the creation of transnational ties and exchange of information. In the current project, he studies online communities formed by European right-wingers migrating to Russian social media due to the censorship policy on Facebook. In the project, he uses text mining and network analysis methods.
       image: /assets/images/VadimVoskresenskii.jpg
-    - name: 
-      bio: 
-      image:
-    - name: 
-      bio: 
-      image:
-    - name: 
-      bio: 
-      image:
-    - name: 
-      bio: 
-      image:
-    - name: 
-      bio: 
-      image:
+      
+    - name: Judith Koops
+      bio: Judith Koops is a PhD candidate at the Netherlands Interdisciplinary Demographic Institute in The Hague (The Netherlands). Her research focusses on cross-national differences in the link between childhood disadvantage and family formation of young adults. Judith also works as a researcher for the Generations and Gender Programme (GGP). The GGP is a social science research infrastructure that provides open access micro- and macro-level data with the aim to improve the knowledge base for social science and policymaking in developed, low-fertility, countries. GGP is currently examining the outcomes of a Push-to-Web experiment in three European countries and they will soon conduct a Social Media experiment using the Facebook advertising platform. In 2019, the team will develop infrastructure needed to collect voice recordings during CAPI or CAWI administered interviews of the Generations and Gender Survey.
+      image: /assets/images/KoopsJudith.jpg
+
     - name: 
       bio: 
       image:
