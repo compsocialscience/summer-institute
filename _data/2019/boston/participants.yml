@@ -7,10 +7,12 @@
   bio: "Yuhao Du is a PhD student in Computer Science Department at University at Buffalo. His research interests include computational social science, natural language processing, computer vision and machine learning. Currently, he is working on: (1) measuring to what extent fake news is spread via online image memes, (2) incorporating Affect Control Theory to build a sentiment aware deep reinforcement learning chatbots."
 
 - name: César Garro-Marín
+  image: /2019/boston/images/cgarro.jpg
+  bio: "César is a Ph.D. student in Economics at Boston University. His research interests include migration and gender inequality. His current research explores how the industrial structure of local economies adjusts to international migration inflows. He previously held a position as lecturer at the Universidad de Costa Rica. César received his master’s degree in Economics and Finance from Centro de Estudios Monetarios y Financieros (CEMFI) and his bachelor’s degree in Economics from Universidad de Costa Rica."
 
 - name: Rebekah Getman
-
-- name: Amir Tohidi Kalorazi
+  image: /2019/boston/images/rgetman.jpg
+  bio: "Rebekah Getman is a Ph.D. student in Sociology at Northeastern University.  After working in global public health for several years prior to graduate school, her research focus shifted to the United States.  She focuses on feminist healthcare models, reproductive health, and health social movements, and is working on projects investigating vaccine-hesitant parent communities, abortion politics and polarized media networks, and the ways urban and health infrastructures overlap.  She is interested how researchers can use qualitative and quantitative methods in complementary ways to identify and solve problems.  Previously, Rebekah earned an M.Ed. from the Harvard Graduate School of Education and an B.A. from Harvard College in History and Government."
 
 - name: Ariella Kristal
   image: /2019/boston/images/akristal.jpg
@@ -18,6 +20,8 @@
   website: https://www.hbs.edu/faculty/Pages/profile.aspx?facId=962367
 
 - name: Muyang Li
+  image: /2019/boston/images/mli.jpg
+  bio: "Muyang Li is a Ph.D. candidate in Sociology at University at Albany, SUNY. She holds a BA in Communication from the Communication University of China and an MSc in New Media from the Chinese University of Hong Kong. Her research is organized around a key question: how does media interact with democracy and social justice. Her research is interdisciplinary in scope, which relies on methodological and theoretical frameworks across disciplines and fields, including sociology, communication, cultural studies, political science, and computer/information technology. Given these interests and her interdisciplinary background, Muyang’s dissertation applies mixed-method in exploring the negotiation between the authoritarian state and the individual in defining democracy through the social media, and try to reveal how the authoritarian regimes survived the ideological crisis in the social media era through the combination of repressive and hegemonic media control strategies."
 
 - name: Lu Lu
 
@@ -27,12 +31,15 @@
   website: https://sociology.stanford.edu/people/tyler-mcdaniel
 
 - name: Harry Oppenheimer
-
-- name: David Pelletier
+  image: /2019/boston/images/hoppenheimer.jpg
+  bio: "Harry Oppenheimer is a Ph.D. candidate in the Department of Government at Harvard University with a focus on international relations and technology. His dissertation examines the role of interest groups in ICT security and governance, and utilizes text-as-data, document forensics, and survey experiments to understand how actors constrain one another through laws, standards, and policy diffusion.  His other interests are in the political and psychological impact of cyber attacks, and elite social media engagement strategies during security crises. Prior to beginning his doctorate, he was a research associate for national security at the Council on Foreign Relations. Harry received his B.A. in International Relations from New York University and his A.M. in Government from Harvard University."
+  website: https://scholar.harvard.edu/hoppenheimer/home
 
 - name: Shomon Shamsuddin
 
 - name: SuYeong Shin
+  image: /2019/boston/images/sshin.jpg
+  bio: "SuYeong Shin is a doctoral candidate in Educational Policy as well as a master’s student in Informatics at The University of Iowa. Her scholarly lens blend frameworks from multiple disciplines such as higher education, sociology, and data science. Her research agenda aims to uncover the changing landscape of inequality amid educational expansion. She is interested in analyzing unstructured data to understand the complex interplay among students, educators, and local communities. Her current research examines access and equity in education, with a focus on college admissions."
 
 - name: Jeffrey Sternberg
 
@@ -46,9 +53,17 @@
   bio: "Iman Tahamtan is a PhD Student and Graduate Teaching Associate in the School of Information Sciences at the University of Tennessee in Knoxville. His current research focuses on (1) scholarly communication and scientometrics, (2) consumer health informatics, and (3) investigating human behavior on social networking sites. He recently proposed a comprehensive model explaining the core elements in the process of citing publications. His current research project explores the technical developments in the last decade that have influenced citation content and context studies. He is also interested in exploring health information needs of marginalized groups, homeless people, abuse and assault victims, refugees and immigrants. Iman is also interested in analyzing social networking sites on a wide range of public health and social issues, with a focus on how information dissemination on social networks leads to public health and social movements."
   website: https://www.cci.utk.edu/users/iman-tahamtan
 
+- name: Amir Tohidi
+  image: /2019/boston/images/atohidi.jpg
+  bio: "Amir Tohidi is a graduate research assistant pursuing a PhD degree in Social and Engineering Systems at MIT Institue for Data, Systems and Society (IDSS). His research interests lies at the intersection of Network Science, Causal Inference, and Behavioral Economics. He has been studying how ad hoc theoretical models of opinion dynamics in social networks can be derived from bounded rationality and behavioral biases. Most recently, he has been investigating the causal effect of online native ads on user’s perception of News publishers credibility in long run. Amir received his Bachelor’s degree in Electrical Engineering and Physics from Sharif University of Technology."
+
+
 - name: Kartik Trivedi
 
 - name: Eitan Tzelgov
+  image: /2019/boston/images/etzelgov.jpg
+  bio: "Eitan Tzelgov is a Lecturer in Politics at the School of Politics, Languages, Philosophy and Communication Studies, University of East Anglia. He is interested in political representation and legitimacy, and in the impact of issues of such ideology and migration on democratic institutions and the structure of political coalitions.  Methodologically, his work combines applications of text analysis with causal and experimental methods. He has previously worked as a research fellow at the Variety of Democracy Institute, where he was part of a team developing Bayesian models measuring various aspects of democracy over time."
+  website: https://people.uea.ac.uk/e_tzelgov
 
 - name: Yilei Zeng
   image: /2019/boston/images/yzeng.png
