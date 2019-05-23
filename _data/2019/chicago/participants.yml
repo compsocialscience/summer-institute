@@ -1,6 +1,10 @@
 - name:  Abigail Smith
   bio: "Abby Smith is a PhD student in the Department of Statistics at Northwestern. She is interested in record linkage and missing data in the context of global health and human rights."
  
+- name:  Andrew Szmurlo
+  image: /2019/chicago/images/participants/Andrew_Szmurlo.jpg
+  bio: "Andrew will matriculate the PhD program in Information Science at Cornell University this fall. He is interested in network analysis, causal inference, online communication and incentives. He also likes: running, ML algorithms, cryptocurrency, and pizza."
+
 - name: Chad Van De Wiele
   image: /2019/chicago/images/participants/Chad_Van_De_Wiele.jpg
   bio: "Chad Van De Wiele is a PhD student and NSF-IGERT Fellow in the Department of Communication at the University of Illinois at Chicago. Chad employs a variety of methodological and theoretical approaches to study social networks; specifically, his research focuses on political discourse, affect, visuality, and representations and reproductions of race, class, gender, and sexuality within networked spaces. Chad has presented his work at various academic conferences, including NCA, ICA, and AoIR, and has published work in proceedings of the International Joint Conference on Pervasive and Ubiquitous Computing and Social Media + Society."
@@ -18,10 +22,12 @@
   bio: "Donghyun Kang is a Ph.D. student in Chicago Sociology Department, working at Knowledge Lab. His overarching academic interest centers on the hybridization of ideas. Using cutting-edge network and text analysis methods, he aspires to shed light on the social conditions, processes, and consequences of interdisciplinary research. He is also interested in employing experimental designs to study the social processes that generate consensus or dissonance when conflicting theories and evidence coexist. Prior to coming to the University of Chicago, Donghyun received a B.A. in Business Administration and M.A. in Sociology at Seoul National University. He also worked as a research associate at Social Network Computing Center (SNCC) in Seoul National University, where he collaborated with researchers from Cyram Inc."
  
 - name: Eric Dunford
-  bio: "Coming soon!"
+  image: /2019/chicago/images/participants/Eric_Dunford.jpg
+  bio: "Eric Dunford is an Associate Director and Assistant Teaching Professor for the Master of Science in Data Science for Public Policy program in the McCourt School of Public Policy at Georgetown University.  His research focuses on the organizational and tactical behavior of violent non-state organizations. He is currently involved in a number of projects regarding event data integration, predicting conflict processes, and leveraging online video game data to study how groups innovate and adapt."
  
 - name: Erin Anderson
-  bio: "Coming soon!"
+  image: /2019/chicago/images/participants/Erin_Anderson.jpg
+  bio: "Erin M. Anderson is a PhD candidate in Psychology at Northwestern University. Her research examines our learning processes from infancy into adulthood. Currently, she is investigating what helps us recognize patterns across different contexts, and whether being surprised at an unmet expectation can motivate us to seek out more information and revise our beliefs."
  
 - name: Ikiltezilani Mazehuani
   image: /2019/chicago/images/participants/Ikiltezilani_Mazehuani.jpg
@@ -32,7 +38,8 @@
   bio: "JungHwan Yang is an Assistant Professor in the Department of Communication at the University of Illinois at Urbana-Champaign. My research sits at the intersection of media effects, political communication, and political behavior. I study how the current media landscape affects the patterns of news media use of the public and political elites: from understanding people’s reactions to different political events on social media to examine the way some government uses their powers to influence the way people talk about politics. I am currently working on multi-wave panel survey data combined with online tracking data of the panels to understand the political effects of information use."
  
 - name: Kevin Pedraza
-  bio: "Coming soon!"
+  image: /2019/chicago/images/participants/Kevin_Pedraza.jpg
+  bio: "Kevin Pedraza is a PhD candidate in Sociology at Northwestern University. His research interests generally revolve around using geospatial methods to study crime. He hopes to expand his  in computational social science skills to develop more sophisticated research designs for understanding variations of crime at the meso-level unit of analysis. "
  
 - name: Leah Castleberry
   image: /2019/chicago/images/participants/Leah_Castleberry.jpg
@@ -50,7 +57,8 @@
   bio: "Eungang (Peter) Choi is a graduate student in the Department of Sociology at The Ohio State University. He is also a graduate affiliate for Institute for Population Research (IPR). His research focuses on identifying fertility trends and using verbal autopsies to analyze causes of death. Methodological interests include Network analysis and NLP. He is originally from Seoul, South Korea."
  
 - name: Rebecca Abbott
-  bio: "Coming soon!"
+  image: /2019/chicago/images/participants/Rebecca_Abbot.jpg
+  bio: "Rebecca Abbot is a PhD candidate in the Sociology department of the University of Illinois at Chicago. Rebecca's areas of research are primarily focused on economic policy, inequality, racial attitudes and group violence. Rebecca's dissertation works on improving models forecasting mass atrocities using random forests, clustering and neural networks."
  
 - name: Richard Shafranek
   bio: "Coming soon!"
