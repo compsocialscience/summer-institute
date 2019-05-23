@@ -7,7 +7,11 @@
   image: /2019/hunter-nyc/images/Angelo.png
   
 - name: Anne Kou
-  bio: "Coming soon!"
+  bio: "Anne is a PhD student in the Department of Sociology at New York University. Her research interests 
+  include inequality, race/ethnicity, gender, and social policy. She is working on collaborative projects 
+  examining the relationship between childhood experiences and socioeconomic attainment, and early childhood 
+  education in New York City."
+  image: /2019/hunter-nyc/images/Anne_Kou.jpg
   
 - name: Brandon Kramer
   bio: "Brandon L. Kramer (PhD, Rutgers University) is a postdoctoral research associate at the University of Virginia's 
@@ -22,6 +26,7 @@
 - name: Daejun Park
   bio: "Daejun Park is a Ph.D. candidate in social work at University at Albany. His research interests include alcohol 
   and other drug use, as well as health disparities. He has served as a research assistant at UAlbany."
+  image: /2019/hunter-nyc/images/Daejun.jpg
   
 - name: Diane Yoong
   bio: "Coming soon!"
@@ -43,10 +48,20 @@
   CUNY Graduate Center. Her research focuses on how white Germans position themselves in relationship to 
   Germans of color and people of color in Germany. She uses narrative research to explore positionality and currently 
   examines how white German volunteers construct themselves in relationship to refugees." 
- 
+  image: /2019/hunter-nyc/images/Friederike.png
 
 - name: Hannah Szlyk
-  bio: "Coming soon!"
+  bio: "Hannah is currently a NIMH T32 postdoctoral research scholar at The Brown School at Washington University in St. Louis.
+  Hannah earned her doctoral degree in social work at the Steve Hicks School of Social Work at the University of Texas at 
+  Austin in May 2018. There, Hannah studied suicidality among minority and underserved youth. Her dissertation consisted of
+  a mixed methods project that examined suicidal ideation, sexual and ethnic identity, external stressors, and academic 
+  progress among students attending a public alternative high school. Hannah is currently exploring the evidence base and 
+  implementation of technology-enhanced interventions for youth suicidality. She is specifically interested in understanding 
+  who uses text-based message hotlines to address suicidality and how these crisis interventions can be better adapted for 
+  hard-to-reach and minority youth populations. Hannah would also like to gain skills in computational science in order to 
+  analyze large-scale datasets and hotline conversations. Hannah enjoys practicing yoga, traveling, and spending time with 
+  her partner and their four cats."
+  image: /2019/hunter-nyc/images/hannah.jpg
   
 - name: Jiyeon Chang
   bio: "Coming soon!"
@@ -85,7 +100,11 @@
   bio: "Coming soon!"
 
 - name: Pedro Rodriguez
-  bio: "Coming soon!"
+  bio: "Pedro Rodriguez Martinez is a Research Fellow at the Research Department of the Inter-American Development Bank (IDB).
+  His areas of interest include the evaluation of social programs within the developing world and the economics of gender 
+  violence, education and crime. Prior to joining the IDB he worked in Miami and Ecuador as a consultant performing 
+  statistical data analysis. He holds a BA in Political Economy and an MSc in Economics."
+  image: /2019/hunter-nyc/images/Pedro.jpg
   
 - name: Salar Khaleghzadegan
   bio: "Salar Khaleghzadegan is pursuing a Master of Public Policy with a concentration in Health Policy at the University 
@@ -119,6 +138,7 @@
   many areas in Political Sociology, International relations, Women’s studies and Human Rights, Migration. She is 
   currently working as Honorary Fellow in the Center for Women and Gender studies at University of Wisconsin. Previously 
   she has worked as visiting faculty at Qatar University." 
+  image: /2019/hunter-nyc/images/shashi.jpg
   
 - name: Shawna Brandle
   bio:  "Coming soon!"
