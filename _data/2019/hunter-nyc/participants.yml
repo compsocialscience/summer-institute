@@ -7,7 +7,11 @@
   image: /2019/hunter-nyc/images/Angelo.png
   
 - name: Anne Kou
-  bio: "Coming soon!"
+  bio: "Anne is a PhD student in the Department of Sociology at New York University. Her research interests 
+  include inequality, race/ethnicity, gender, and social policy. She is working on collaborative projects 
+  examining the relationship between childhood experiences and socioeconomic attainment, and early childhood 
+  education in New York City."
+  image: /2019/hunter-nyc/images/Anne_Kou.jpg
   
 - name: Brandon Kramer
   bio: "Brandon L. Kramer (PhD, Rutgers University) is a postdoctoral research associate at the University of Virginia's 
@@ -22,12 +26,24 @@
 - name: Daejun Park
   bio: "Daejun Park is a Ph.D. candidate in social work at University at Albany. His research interests include alcohol 
   and other drug use, as well as health disparities. He has served as a research assistant at UAlbany."
+  image: /2019/hunter-nyc/images/Daejun.jpg
   
 - name: Diane Yoong
-  bio: "Coming soon!"
+  bio: "Diane (they/them) is currently a graduate student in Critical Social/Personality and Environmental Psychology at 
+  the CUNY Graduate Center. Broadly, their work is on understanding the relationality between systems of oppression 
+  (e.g. racism, homo-|trans-phobia) and the individual. Outside of academia, they are busy with creating a digital webspace
+  for queer Asians in North America (hopefully broader!), and exploring the binaries that seem to divide academic work 
+  production and creative work."
+  image: /2019/hunter-nyc/images/Diane.jpg
   
 - name: Evette Cordoba
-  bio:  "Coming soon!"
+  bio:  "Evette Cordoba is a PhD student in the Epidemiology department at the University of North Carolina-Chapel Hill. 
+  She earned her BA at Johns Hopkins and her MPH in Epidemiology and Global Health at Columbia University. In her doctoral 
+  research she is exploring the relationship between psychosocial stressors and immune responses among adults living in 
+  Detroit during the Great Recession. Specifically, she is interested in understanding if perceived neighborhood social 
+  cohesion can indirectly impact immune response by comparing various immunological biomarker levels of those living in 
+  different neighborhoods."
+  image: /2019/hunter-nyc/images/evette.jpg
   
 - name: Feng-Yi Liu
   bio: "Feng-Yi Liu received his BA and MA degree in Social Welfare at National Chung Cheng University in Taiwan. 
@@ -43,10 +59,20 @@
   CUNY Graduate Center. Her research focuses on how white Germans position themselves in relationship to 
   Germans of color and people of color in Germany. She uses narrative research to explore positionality and currently 
   examines how white German volunteers construct themselves in relationship to refugees." 
- 
+  image: /2019/hunter-nyc/images/Friederike.png
 
 - name: Hannah Szlyk
-  bio: "Coming soon!"
+  bio: "Hannah is currently a NIMH T32 postdoctoral research scholar at The Brown School at Washington University in St. Louis.
+  Hannah earned her doctoral degree in social work at the Steve Hicks School of Social Work at the University of Texas at 
+  Austin in May 2018. There, Hannah studied suicidality among minority and underserved youth. Her dissertation consisted of
+  a mixed methods project that examined suicidal ideation, sexual and ethnic identity, external stressors, and academic 
+  progress among students attending a public alternative high school. Hannah is currently exploring the evidence base and 
+  implementation of technology-enhanced interventions for youth suicidality. She is specifically interested in understanding 
+  who uses text-based message hotlines to address suicidality and how these crisis interventions can be better adapted for 
+  hard-to-reach and minority youth populations. Hannah would also like to gain skills in computational science in order to 
+  analyze large-scale datasets and hotline conversations. Hannah enjoys practicing yoga, traveling, and spending time with 
+  her partner and their four cats."
+  image: /2019/hunter-nyc/images/hannah.jpg
   
 - name: Jiyeon Chang
   bio: "Coming soon!"
@@ -82,10 +108,19 @@
   bio: "Coming soon!"
   
 - name: Nga Than
-  bio: "Coming soon!"
+  bio: "Nga Than is a Ph.D student in the Sociology program at City University of New York – The Graduate Center. 
+  Her research interests are in entrepreneurship, work, immigration, and consumption. She is in the process of writing 
+  a dissertation proposal, focusing on how technological advancement changes work relations in contemporary work place. 
+  She was born and raised in Vietnam, then moved to the U.S. for higher education. She is fluent in Vietnamese, English, 
+  German, as well as conversant in Chinese."
+  image: /2019/hunter-nyc/images/nga.jpg
 
 - name: Pedro Rodriguez
-  bio: "Coming soon!"
+  bio: "Pedro Rodriguez Martinez is a Research Fellow at the Research Department of the Inter-American Development Bank (IDB).
+  His areas of interest include the evaluation of social programs within the developing world and the economics of gender 
+  violence, education and crime. Prior to joining the IDB he worked in Miami and Ecuador as a consultant performing 
+  statistical data analysis. He holds a BA in Political Economy and an MSc in Economics."
+  image: /2019/hunter-nyc/images/Pedro.jpg
   
 - name: Salar Khaleghzadegan
   bio: "Salar Khaleghzadegan is pursuing a Master of Public Policy with a concentration in Health Policy at the University 
@@ -119,6 +154,7 @@
   many areas in Political Sociology, International relations, Women’s studies and Human Rights, Migration. She is 
   currently working as Honorary Fellow in the Center for Women and Gender studies at University of Wisconsin. Previously 
   she has worked as visiting faculty at Qatar University." 
+  image: /2019/hunter-nyc/images/shashi.jpg
   
 - name: Shawna Brandle
   bio:  "Coming soon!"

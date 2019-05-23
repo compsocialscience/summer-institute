@@ -111,6 +111,10 @@ participants:
     - name: Arun Frey
       bio: Arun Frey is currently pursuing a PhD in Sociology at the University of Oxford. His research examines the ecologies of ethnic conflict and discrimination during the “European refugee crisis”, studying how threatening events shape patterns of violence, discrimination, and political polarisation. Methodologically, he is very interested in high-frequency data and text analysis, and uses computational social science approaches to identify novel data sources and quantify local anti-immigrant sentiment. Prior to commencing his doctoral research, Arun worked as a social affairs consultant at the United Nations Secretariat in Bangkok, Thailand. 
       image: /assets/images/FreyArun.jpg
+
+    - name: Clemens Jarnach
+      bio: Clemens is a DPhil candidate in Sociology at Green Templeton College, University of Oxford. His recent research focuses on the application of social network analysis to political sociology topics. His thesis focuses on investigating digital media usage by voters and politicians in British politics. His research addresses topics such as political polarization, echo chambers, Brexit, and media diversity.
+      image: /assets/images/JarnachClemens.jpg
       
     - name: Kan Li
       bio: Kan Li is a DPhil candidate in international relations at University of Oxford. Her research focuses on applications of agent-based model to international crises and conflicts; her current project studies how challengers alter international status quo through asymmetric military build-up and how this shapes unique dynamics of asymmetric conflicts. Prior to Oxford, she received her Master's degree in political science from the Graduate Institute of International and Development Studies in Geneva, and her Bachelor's degree in economics from the University of Hong Kong.
@@ -134,15 +138,12 @@ participants:
 
     - name: Vadim Voskresenskii
       bio: Vadim Voskresenskii is doing PhD in Free University of Berlin and working as a research assistant in Weizenbaum Institute for the Networked Society. His research is focused on how right-wing actors use the affordances of social media platforms for the creation of transnational ties and exchange of information. In the current project, he studies online communities formed by European right-wingers migrating to Russian social media due to the censorship policy on Facebook. In the project, he uses text mining and network analysis methods.
-      image: /assets/images/VoskresenskiiVadim.jpg
+      image: /assets/images/VadimVoskresenskii.jpg
       
     - name: Judith Koops
       bio: Judith Koops is a PhD candidate at the Netherlands Interdisciplinary Demographic Institute in The Hague (The Netherlands). Her research focusses on cross-national differences in the link between childhood disadvantage and family formation of young adults. Judith also works as a researcher for the Generations and Gender Programme (GGP). The GGP is a social science research infrastructure that provides open access micro- and macro-level data with the aim to improve the knowledge base for social science and policymaking in developed, low-fertility, countries. GGP is currently examining the outcomes of a Push-to-Web experiment in three European countries and they will soon conduct a Social Media experiment using the Facebook advertising platform. In 2019, the team will develop infrastructure needed to collect voice recordings during CAPI or CAWI administered interviews of the Generations and Gender Survey.
       image: /assets/images/KoopsJudith.jpg
 
-    - name: 
-      bio: 
-      image:
     - name: 
       bio: 
       image:
