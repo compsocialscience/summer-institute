@@ -5,6 +5,8 @@ $btn-default-bg:                 #e7e7e7;
 @import "bootstrap";
 @import "hero";
 $fixed-navbar-height: 50px;
+$dark-blue: #137ca9;
+
 body {
   // Deal with fixed navbar height.
   padding-top: $fixed-navbar-height;
@@ -56,6 +58,16 @@ body {
   }
   @media (min-width: $screen-sm-min) {
     font-size: 16px;
+  }
+}
+.announcements {
+  padding-top: 10px;
+  background-color: $dark-blue;
+  color: white;
+  font-size: 16px;
+  a {
+    color: white;
+    text-decoration: underline;
   }
 }
 .introduction {
