@@ -115,6 +115,10 @@ participants:
     - name: Clemens Jarnach
       bio: Clemens is a DPhil candidate in Sociology at Green Templeton College, University of Oxford. His recent research focuses on the application of social network analysis to political sociology topics. His thesis focuses on investigating digital media usage by voters and politicians in British politics. His research addresses topics such as political polarization, echo chambers, Brexit, and media diversity.
       image: /assets/images/JarnachClemens.jpg
+
+    - name: Judith Koops
+      bio: Judith Koops is a PhD candidate at the Netherlands Interdisciplinary Demographic Institute in The Hague (The Netherlands). Her research focusses on cross-national differences in the link between childhood disadvantage and family formation of young adults. Judith also works as a researcher for the Generations and Gender Programme (GGP). The GGP is a social science research infrastructure that provides open access micro- and macro-level data with the aim to improve the knowledge base for social science and policymaking in developed, low-fertility, countries. GGP is currently examining the outcomes of a Push-to-Web experiment in three European countries and they will soon conduct a Social Media experiment using the Facebook advertising platform. In 2019, the team will develop infrastructure needed to collect voice recordings during CAPI or CAWI administered interviews of the Generations and Gender Survey.
+      image: /assets/images/KoopsJudith.jpg
       
     - name: Kan Li
       bio: Kan Li is a DPhil candidate in international relations at University of Oxford. Her research focuses on applications of agent-based model to international crises and conflicts; her current project studies how challengers alter international status quo through asymmetric military build-up and how this shapes unique dynamics of asymmetric conflicts. Prior to Oxford, she received her Master's degree in political science from the Graduate Institute of International and Development Studies in Geneva, and her Bachelor's degree in economics from the University of Hong Kong.
@@ -136,17 +140,14 @@ participants:
       bio: Giacomo is a DPhil candidate in Sociology at Nuffield College, University of Oxford and a member of the Centre for Time Use Research, University College London.  His PhD thesis focuses on the structure of daily life, collective rhythms and the social stratification of time use. His research interests include causal inference, sequence analysis and visual sociology. He holds a BA in Anthropology and Sociology from the Université Libre de Bruxelles and a MA in Sociology from the University of Geneva.
       image: /assets/images/VagniGiacomo.jpg
 
-    - name: Vadim Voskresenskii
-      bio: Vadim Voskresenskii is doing PhD in Free University of Berlin and working as a research assistant in Weizenbaum Institute for the Networked Society. His research is focused on how right-wing actors use the affordances of social media platforms for the creation of transnational ties and exchange of information. In the current project, he studies online communities formed by European right-wingers migrating to Russian social media due to the censorship policy on Facebook. In the project, he uses text mining and network analysis methods.
-      image: /assets/images/VadimVoskresenskii.jpg
-      
-    - name: Judith Koops
-      bio: Judith Koops is a PhD candidate at the Netherlands Interdisciplinary Demographic Institute in The Hague (The Netherlands). Her research focusses on cross-national differences in the link between childhood disadvantage and family formation of young adults. Judith also works as a researcher for the Generations and Gender Programme (GGP). The GGP is a social science research infrastructure that provides open access micro- and macro-level data with the aim to improve the knowledge base for social science and policymaking in developed, low-fertility, countries. GGP is currently examining the outcomes of a Push-to-Web experiment in three European countries and they will soon conduct a Social Media experiment using the Facebook advertising platform. In 2019, the team will develop infrastructure needed to collect voice recordings during CAPI or CAWI administered interviews of the Generations and Gender Survey.
-      image: /assets/images/KoopsJudith.jpg
-
     - name: Mark Verhagen
       bio: Mark Verhagen is an incoming PhD student in Sociology at Nuffield college. He holds Masters in Econometrics (University of Amsterdam) and Sociology (University of Oxford) and is interested in incorporating exciting new quantitative techniques into social science research. Mark has been active in the past years as a data scientist through his companies Delph and Apadana.io, working for municipalities, SME's, research institutes and large corporations to make data an intrinsic part of their business strategy. Academically, his more recent work has focused on law, building large databases of court cases through web scraping and using Machine Learning and NLP techniques to identify determinants of court rulings.
       image: /assets/images/VerhagenMark.jpg
+      
+    - name: Vadim Voskresenskii
+      bio: Vadim Voskresenskii is doing PhD in Free University of Berlin and working as a research assistant in Weizenbaum Institute for the Networked Society. His research is focused on how right-wing actors use the affordances of social media platforms for the creation of transnational ties and exchange of information. In the current project, he studies online communities formed by European right-wingers migrating to Russian social media due to the censorship policy on Facebook. In the project, he uses text mining and network analysis methods.
+      image: /assets/images/VadimVoskresenskii.jpg
+    
     - name: 
       bio: 
       image:
