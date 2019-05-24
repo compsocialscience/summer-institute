@@ -4,22 +4,12 @@ As we discussed in our call for applications, we have arranged two types of trai
 
 ## Coding
 
-The majority of the coding work presented at the 2019 SICSS will employ R.  However, you are welcome to employ a language of your choice- such as Python, Julia, or other languages that are commonly used by computational social scientists. If you would like to work in R, we recommend that you complete the following courses within [DataCamp](https://www.datacamp.com), a website that teaches people how to code.  Obviously, you only need to complete the classes with material that you would like to learn.
+The majority of the coding work presented at the 2019 SICSS will employ R.  However, you are welcome to employ a language of your choice, such as Python, Julia, or other languages that are commonly used by computational social scientists. If you would like to work in R, we recommend that you complete the free [RStudio Primers](https://rstudio.cloud/learn/primers), which can be supplemented by the open access book _[R for Data Science](https://r4ds.had.co.nz/)_ by Garrett Grolemund and Hadley Wickham.  RStudio Primers cover 6 topics: The Basics, Working with Data, Visualize Data, Tidy Your Data, Iterate, and Write Functions.  If you already feel comfortable with these topics (either in R or some other language), then you do not need to complete these Primers.
 
-Additional readings will be provided on sub-Saharan Africa perspectives.
-
-  - [https://www.datacamp.com/courses/free-introduction-to-r](https://www.datacamp.com/courses/free-introduction-to-r)
-  - [https://www.datacamp.com/courses/intermediate-r](https://www.datacamp.com/courses/intermediate-r)
-  - [https://www.datacamp.com/courses/data-visualization-with-ggplot2-1](https://www.datacamp.com/courses/data-visualization-with-ggplot2-1)
-  - [https://www.datacamp.com/courses/data-visualization-with-ggplot2-2](https://www.datacamp.com/courses/data-visualization-with-ggplot2-2)
-  - [https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial)
-  - [https://www.datacamp.com/courses/cleaning-data-in-r](https://www.datacamp.com/courses/cleaning-data-in-r)
-  - [https://www.datacamp.com/courses/writing-functions-in-r](https://www.datacamp.com/courses/writing-functions-in-r)
-  - [https://www.datacamp.com/courses/reporting-with-r-markdown](https://www.datacamp.com/courses/reporting-with-r-markdown)
-  - [https://www.datacamp.com/courses/exploratory-data-analysis-in-r-case-study](https://www.datacamp.com/courses/exploratory-data-analysis-in-r-case-study)
-  - [https://www.datacamp.com/courses/introduction-to-git-for-data-science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
-
-If you cannot afford datacamp, check out Chris Bail's Intro to R slides at [http://www.chrisbail.net/p/learn-comp-soc.html](http://www.chrisbail.net/p/learn-comp-soc.html), or Charles Lanfear's course at  [https://clanfear.github.io/CSSS508/] or Grolemund and Wickham's online book  [https://r4ds.had.co.nz/].
+If you would like more practice after completing the RStudio Primers, some other materials that we can recommend are:
+- [R for Social Science](https://datacarpentry.org/r-socialsci/), Data Carpentry.  
+- [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/), Taught by Charles Lanfear at University of Washington. This course includes videos of lectures, slides, and assignments.
+- [Learn R](https://www.codecademy.com/learn/learn-r), Code Academy.
 
 ## Reading List
 
