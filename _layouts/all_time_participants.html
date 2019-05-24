@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include header.html %}
+  </head>
+  <body>
+    {% include navbar.html %}
+
+    <div class="container">
+      {{ content }}
+    </div>
+
+    {% for year_num in (2017..site.current_year) reversed %}
+      {% assign year = year_num | downcase %}
+      {% assign location_data = site.data[year] %}
+      {% include location_participants.html location_data=location_data year=year show_year=true %}
+
+      {% for location_hash in site.data[year] %}
+        {% assign location_data = location_hash[1] %}
+        {% include location_participants.html location_data=location_data year=year %}
+      {% endfor %}
+    {% endfor %}
+
+    {% include footer.html %}
+  </body>
+</html>

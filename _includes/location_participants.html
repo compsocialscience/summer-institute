@@ -1,0 +1,18 @@
+{% if include.location_data %}
+  {% if include.location_data.participants or include.location_data.people.participants.people %}
+    <div class="people section">
+      <div class="container">
+        {% if include.show_year %}
+          <h1 id="{{ year }}">{{ year }}</h1>
+        {% endif %}
+        <h2 id="{{ include.year }}-{{ include.location_data.hero.location | slugify }}">{{ include.location_data.hero.location }}</h2>
+        {% if include.location_data.participants %}
+          {% assign people = include.location_data.participants %}
+        {% elsif include.location_data.people.participants.people %}
+          {% assign people = include.location_data.people.participants.people %}
+        {% endif %}
+        {% include people_two_column.html people=people %}
+      </div>
+    </div>
+  {% endif %}
+{% endif %}
