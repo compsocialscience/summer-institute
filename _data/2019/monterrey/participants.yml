@@ -1,9 +1,9 @@
-# - name:  Sample Participant
-#   image: /2019/monterrey/images/dhagmann.jpg
-#   bio: "This is a sample participant"
-#   website: "http://www.dhagmann.com"
+- name:  Alejandra Escobar
+  image: /2019/monterrey/images/ale_escobar.jpeg
+  bio: "Alejandra is a Computer Science Engineer and MD Industrial Economy student in the School of Economics at Universidad Autónoma de Nuevo León, her research interests are in Labor Economics,
+especially in Human Capital Productivity. A non-traditional student, Alejandra’s prior professional experience includes regional management and service in one of the oldest firms in México."
 
-# - name:  Sample Participant 2
-#   image: /2019/monterrey/images/smobasseri.jpg
-#   bio: "This is another sample participant"
-#   website: "http://www.dhagmann.com"
+- name:  Bianca Chacon
+  image: /2019/monterrey/images/bianca_chacon.jpg
+  bio: "Bianca Chacon is a PhD student in Economics at Universidad Autonoma de Nuevo Leon, Mexico. Her research interests include the economics of education, social mobility and human capital. In the summer of 2015 she made a research stay in Yunus Centre for Social
+Business and Health, Glasgow Cadelonian University, Scotland, United Kingdom. Bianca received her bachelors degree in mathematics and her masters degree in economics both from Universidad Autonoma de Ciudad Juarez, Mexico."
