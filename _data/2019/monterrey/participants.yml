@@ -1,9 +1,52 @@
 - name:  Alejandra Escobar
   image: /2019/monterrey/images/ale_escobar.jpeg
-  bio: "Alejandra is a Computer Science Engineer and MD Industrial Economy student in the School of Economics at Universidad Autónoma de Nuevo León, her research interests are in Labor Economics,
+  bio: "Alejandra is a Computer Science Engineer currently studying her Masters in Industrial Economics in the School of Economics at Universidad Autónoma de Nuevo León, her research interests are in Labor Economics,
 especially in Human Capital Productivity. A non-traditional student, Alejandra’s prior professional experience includes regional management and service in one of the oldest firms in México."
 
 - name:  Bianca Chacon
   image: /2019/monterrey/images/bianca_chacon.jpg
   bio: "Bianca Chacon is a PhD student in Economics at Universidad Autonoma de Nuevo Leon, Mexico. Her research interests include the economics of education, social mobility and human capital. In the summer of 2015 she made a research stay in Yunus Centre for Social
 Business and Health, Glasgow Cadelonian University, Scotland, United Kingdom. Bianca received her bachelors degree in mathematics and her masters degree in economics both from Universidad Autonoma de Ciudad Juarez, Mexico."
+
+- name: Carlos Saldana
+  image: /2019/monterrey/images/carlos_saldana.jpg
+  bio: "Carlos is studying the doctoral program in economics at the Universidad Autonoma de Nuevo Leon. His areas of interest are industrial organization, labor economics and spatial econometrics applied to regional studies."
+
+- name: Cecilia Cuellar
+  image: /2019/monterrey/images/ceci_cuellar.jpg
+  bio: "Cecilia Cuellar has a degree in International Relations and is currently a master's student at the School of Economics, U.A.N.L. She works in Labor Economics research, specifically on Human Capital and Gender Inequality. Currently, she is awaiting acceptance for the PhD program at the same school."
+
+- name: César Olivares
+  image: /2019/monterrey/images/cesar_olivares.jpg
+  bio: "César is a studen of the Master in Industrial Economics at the Universidad Autónoma de Nuevo León. His main research interest is studying the effects of monetary policy using a machine learning approach using textual data. In general,  he is interested in computational models for economics and solcial sciences. He was part of the "Consorcio en Inteligencia Artificial" in 2019"
+
+- name: Christofer Rodríguez
+  image: /2019/monterrey/images/chris_rodriguez.png
+  bio: "Chris is a doctorate student in economoic science in the School of Economics of the UANL. He previously earned a mathematics degree and a Masters degree in social sciences."
+  
+- name: Jair Faz
+  image: /2019/monterrey/images/jair_faz.jpg
+  bio: "Jair is a M.Ec Student at the School of Economics and has a B.Sc in physics, both from the Autonomous University of Nuevo León in Mty,
+México. He is interested in the analysis of macroeconomics, finance and social events from a perspective of chaotic systems and
+complexity as a metodology to understand the dynamics of emerging, self-organized and adaptive phenomena. His current
+work focuses on the political business cycle present in the Mexican economy and its relationship to Public Expenditure exercised by the elected political party."
+
+- name: Jeyle Ortiz
+  image: /2019/monterrey/images/jeyle_ortiz.jpeg
+  bio: "Jeyle received her Bachelor’s degree in Economics from Universidad
+Autónoma de Nuevo León. She completed her Master of Economics and Public Policy at Monterrey Institute of Technology and Higher Education. She earned a Fulbright
+scholarship to complete her PhD in Social Work at the University of Texas at Arlington. She works as a Professor at the School of Business of Universidad Autónoma de Nuevo
+León. She is member of the National System of Researchers in Mexico, level 1. Her research interests are gender, family, and wellbeing."
+
+- name: Josué Salgado
+  image: /2019/monterrey/images/josue_salgado.jpg
+  bio: "Josué holds a BA in International Economics from the Autonomous University of Chihuahua (UACH), a Master in Economics from the National
+Polytechnic Institute (IPN) and is currently studying the Ph.D in Economic Sciences at the Autonomous University of Nuevo León. He has worked in
+different companies and associations such as Telcel Corporative (Development Analyst), Profuturo Corporative (Savings for retirement),
+Economic Development Council of Chihuahua and the National Electoral Institute of Nuevo León respectively. He has published articles related to
+strategy and innovation. His current interests are focused on Macroeconomics, time series and business cycle."
+
+- name: Juán Valdéz
+  image: /2019/monterrey/images/juan_valdez.jpg
+  bio: "Juán has a Bachelor’s degree in physics and is currently a graduate student at the Autonomous University of Nuevo León studying a Master’s degree in industrial economics. His
+areas of interest are finanacial economics and industrial organization."
