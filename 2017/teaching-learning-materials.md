@@ -4,7 +4,7 @@ title: Teaching & learning materials
 ---
 
 #### Teaching and learning materials
-#### 2018 Summer Institutes for Computational Social Science
+#### 2017 Summer Institutes for Computational Social Science
 
 - **[Princeton University, Matthew Salganik and Chris Bail, taught in English using R](#princeton-university-matthew-salganik-and-chris-bail-taught-in-english-using-r)**
 
