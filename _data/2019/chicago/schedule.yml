@@ -67,9 +67,10 @@
   events:
     - name: "8:00 AM - 8:30 AM Logistics *(No Live Stream)*"
     - name: "8:30 AM - 11:30 AM Modeling & Experiments w/ Josh Becker *(No Live Stream)*"
-    - name: "11:30 AM - 12:30 PM Andy Papachristos talk *(Chicago Live Stream)*"
-    - name: "12:30 PM - 2:00 PM Lunch *(No Live Stream)*"
-    - name: "2:00 PM - 3:30 PM Group Formation for Second Week *(No Live Stream)*"
+    - name: "11:30 PM - 12:30 PM Lunch *(No Live Stream)*"
+    - name: "12:30 PM - 1:30 PM Group Formation for Second Week *(No Live Stream)*"
+    - name: "1:30 PM - 2:30 PM Andy Papachristos talk *(Chicago Live Stream)*"
+    - name: "2:30 PM - 3:30 PM Group Formation for Second Week *(No Live Stream)*"
     - name: "3:30 PM - 4:30 PM Guest Speaker: Annie Liang *(Princeton Live Stream)*"
 
 - date: 2019-06-22
