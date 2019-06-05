@@ -32,3 +32,6 @@ and several generous local sponsors:
 
 <a href="https://www.nico.northwestern.edu/" target="_"><img src="images/NICO Logo Purple on White w CompSys Text 1000px.jpg" height="60px" style="padding:10px;"></a>
 </div></center>
+
+<a href="https://wiki.communitydata.science/Main_Page" target="_"><img src="images/CDSC_logo-text_centered.svg" height="130px" style="padding:10px;"></a>
+</div></center>
