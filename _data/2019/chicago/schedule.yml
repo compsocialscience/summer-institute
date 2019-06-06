@@ -1,123 +1,97 @@
-- name: "This is a preliminary schedule. Local speakers will be added in the coming weeks"
-
 - date: 2019-06-17
   name: Introduction and Ethics
   events:
-    - name: "8:00 - 8:15 Logistics (*Not open to public/No livestream*)"
-    - name: "8:15 - 8:30 Introductions (*Not open to public/No livestream*)"
-    - name: "8:30 - 9:00 Introduction to computational social science"
-    - name: "9:00 - 9:30 Why SICSS?"
-    - name: "9:30 - 9:45 Coffee Break"
-    - name: "9:45 - 10:30 Ethics: Principles-based approach"
-    - name: "10:30 - 11:15 Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty"
-    - name: "11:15 - 11:30 Introduction to the group exercise"
-    - name: "11:30 -12:30 Lunch (*Not open to public/No livestream*)"
-    - name: "12:30 - 2:45 Group exercise (*Not open to public/No livestream*)"
-    - name: "2:45 - 3:00 Break"
-    - name: "3:00 - 4:30 Guest speaker: Alondra Nelson"
+    - name: "8:00 AM - 8:15 AM Logistics *(No Live Stream)*"
+    - name: "8:15 AM - 8:30 AM Introductions *(No Live Stream)*"
+    - name: "8:30 AM - 9:00 AM Introduction to Computational Social Science *(Princeton Live Stream)*"
+    - name: "9:00 AM - 9:30 AM Why SICSS? *(Princeton Live Stream)*"
+    - name: "9:30 AM - 9:45 AM Coffee Break *(No Live Stream)*"
+    - name: "9:45 AM - 10:30 AM Ethics: Principles-Based Approach *(Princeton Live Stream)*"
+    - name: "10:30 AM - 11:15 AM Four Areas of Difficulty *(Princeton Live Stream)*"
+    - name: "11:15 AM - 11:30 AM Introduction to Group Exercise *(Princeton Live Stream)*"
+    - name: "11:30 AM - 12:30 PM Guest Speaker: Aaron Shaw *(Chicago Live Stream)*"
+    - name: "12:30 PM - 1:30 PM Lunch *(No Live Stream)*"
+    - name: "1:30 PM - 3:00 PM Group Exercise *(No Live Stream)*"
+    - name: "3:00 PM - 4:30 PM Guest Speaker: Alondra Nelson *(Princeton Live Stream)*"
 
 - date: 2019-06-18
   name: "Collecting Digital Trace Data"
   events:
-    - name: "8:00 - 8:15 Logistics (*Not open to public/No livestream*)"
-    - name: "8:15 - 8:30 What is digital trace data?"
-    - name: "8:30 - 8:45 Strengths and weakness of digital trace data"
-    - name: "8:45 - 9:15 Screen-Scraping"
-    - name: "9:15 - 9:30 Coffee Break"
-    - name: "9:30 - 10:00 Application Programming Interfaces"
-    - name: "10:00 - 11:30 Building Apps and Bots for Social Science Research"
-    - name: "11:30 -12:30 Lunch and Guest Speaker: Chris Wiggins"
-    - name: "12:30 - 2:45 Group Exercise (*Not open to public/No livestream*)"
-    - name: "2:45 - 3:00 Break"
+    - name: "8:00 AM - 8:15 AM Logistics *(No Live Stream)*"
+    - name: "8:15 AM - 8:30 AM What is Digital Trace Data? *(Princeton Live Stream)*"
+    - name: "8:30 AM - 8:45 AM Strengths and Weaknesses of Digital Trace Data *(Princeton Live Stream)*"
+    - name: "8:45 AM - 9:15 AM Screen-Scraping *(Princeton Live Stream)*"
+    - name: "9:15 AM - 9:30 AM Coffee Break *(No Live Stream)*"
+    - name: "9:30 AM - 10:00 AM APIs *(Princeton Live Stream)*"
+    - name: "10:00 AM - 11:30 AM Building Apps & Bots *(Princeton Live Stream)*"
+    - name: "11:30 AM - 12:30 PM Guest Speaker: Sharon Meraz *(Chicago Live Stream)*"
+    - name: "12:30 PM - 1:30 PM Lunch *(No Live Stream)*"
+    - name: "1:30 PM - 3:00 PM Group Exercise *(No Live Stream)*"
+    - name: "3:00 PM - 4:30 PM Guest Speaker: Beth Noveck *(Princeton Live Stream)*"
 
 - date: 2019-06-19
   name: Automated Text Analysis
   events:
-    - name: "8:00 - 8:15 Logistics (*Not open to public/No livestream*)"
-    - name: "8:15 - 8:30 History of quantitative text analysis"
-    - name: "8:30 - 8:45 Basic Text Analysis/GREP"
-    - name: "8:45 - 9:00 Dictionary-Based Text Analysis"
-    - name: "9:00 - 9:15 Coffee Break"
-    - name: "9:15 - 10:15 Topic models/Structural Topic Models"
-    - name: "10:15 - 10:20 Break"
-    - name: "10:20 - 11:30 Text Networks"
-    - name: "11:30 -12:30 Lunch and Guest Speaker: Jennifer Pan"
-    - name: "12:30 - 3:00 Group Exercise (*Not open to public/No livestream*)"
+    - name: "8:00 AM - 8:15 AM Logistics *(No Live Stream)*"
+    - name: "8:15 AM - 8:30 AM History of Quantitative Text Analysis *(Princeton Live Stream)*"
+    - name: "8:30 AM - 8:45 AM Basic Text Analysis/GREP *(Princeton Live Stream)*"
+    - name: "8:45 AM - 9:00 AM Dictionary-Based Text Analysis *(Princeton Live Stream)*"
+    - name: "9:00 AM - 9:15 AM Coffee Break *(No Live Stream)*"
+    - name: "9:15 AM - 10:15 AM Topic Models/Structural Topic Models *(Princeton Live Stream)*"
+    - name: "10:15 AM - 10:20 AM Break *(No Live Stream)*"
+    - name: "10:30 AM - 11:30 AM Text Networks *(Princeton Live Stream)*"
+    - name: "11:30 AM - 12:30 PM Lunch and Guest Speaker: Jennifer Pan *(Princeton Live Stream)*"
+    - name: "12:30 PM - 3:00 PM Group Exercise *(No Live Stream)*"
+    - name: "3:00 PM - 4:00 PM Chicago Guest Speaker TBD *(Chicago Live Stream)*"
 
 - date: 2019-06-20
   name: Surveys in the Digital Age
   events:
-    - name: "8:00 - 8:15 Logistics (*Not open to public/No livestream*)"
-    - name: "8:15 - 8:45 Survey research in the digital age"
-    - name: "8:45 - 9:15 Probability and non-probability sampling"
-    - name: "9:15 - 9:30 Coffee break"
-    - name: "9:30 - 10:00 Computer-administered interviews and wiki surveys"
-    - name: "10:00 - 10:30 Combining surveys and big data"
-    - name: "10:30 - 11:00 Group exercise introduction"
-    - name: "11:00 - 11:30 Begin group exercise"
-    - name: "11:30 -12:30 Lunch"
-    - name: "12:30 - 2:15 Continue group exercise (*Not open to public/No livestream*)"
-    - name: "2:15 - 2:45 Discuss activity and open-source data"
-    - name: "2:45 - 3:00 Break"
-    - name: "3:00 - 4:30 Guest speaker: Justin Grimmer"
+    - name: "8:00 AM - 8:15 AM Logistics *(No Live Stream)*"
+    - name: "8:15 AM - 8:45 AM Survey Research in the Digital Age *(Princeton Live Stream)*"
+    - name: "8:45 AM - 9:15 AM Probability and Non-Probability Sampling *(Princeton Live Stream)*"
+    - name: "9:15 AM - 9:30 AM Coffee Break *(No Live Stream)*"
+    - name: "9:30 AM - 10:00 AM Computer-Administered Interviews and Wiki Surveys *(Princeton Live Stream)*"
+    - name: "10:00 AM - 10:30 AM Combining Surveys and Big Data *(Princeton Live Stream)*"
+    - name: "10:30 AM - 11:00 AM Group Exercise Introduction *(Princeton Live Stream)*"
+    - name: "11:00 AM - 11:30 AM Begin Group Exercise *(No Live Stream)*"
+    - name: "11:30 AM - 12:30 PM Chicago Guest Speaker TBD *(Chicago Live Stream)*"
+    - name: "12:30 PM - 1:30 PM Lunch *(No Live Stream)*"
+    - name: "1:30 PM - 2:15 PM Continue Group Exercise *(No Live Stream)*"
+    - name: "2:15 PM - 2:45 PM Discuss Activity & Open-Source Data *(Princeton Live Stream)*"
+    - name: "2:45 PM - 3:00 PM Break *(No Live Stream)*"
+    - name: "3:00 PM - 4:30 PM Guest Speaker: Justin Grimmer *(Princeton Live Stream)*"
 
 - date: 2019-06-21
-  name: Mass Collaboration
+  name: Modeling & Experiments
   events:
-    - name: "8:00 - 8:15 Logistics (*Not open to public/No livestream*)"
-    - name: "8:15 - 8:30 Mass collaboration"
-    - name: "8:30 - 8:45 Human computation"
-    - name: "8:45 - 9:00 Open call"
-    - name: "9:00 - 9:15 Distributed data collection"
-    - name: "9:15 - 9:30 Coffee break"
-    - name: "9:30 - 10:30 Introduction to the Fragile Families Challenge"
-    - name: "10:30 - 11:30 Working on the Fragile Families Challenge (*Not open to public/No livestream*)"
-    - name: "11:30 -12:30 Lunch"
-    - name: "12:30 - 2:30 Fragile Families Challenge (*Not open to public/No livestream*)"
-    - name: "2:30 - 2:45 Discussion of the Fragile Families Challenge (*Not open to public/No livestream*)"
-    - name: "2:45 - 3:00 Break"
+    - name: "8:00 AM - 8:30 AM Logistics *(No Live Stream)*"
+    - name: "8:30 AM - 11:30 AM Modeling & Experiments w/ Josh Becker *(No Live Stream)*"
+    - name: "11:30 PM - 12:30 PM Lunch *(No Live Stream)*"
+    - name: "12:30 PM - 1:30 PM Group Formation for Second Week *(No Live Stream)*"
+    - name: "1:30 PM - 2:30 PM Andy Papachristos talk *(Chicago Live Stream)*"
+    - name: "2:30 PM - 3:30 PM Group Formation for Second Week *(No Live Stream)*"
+    - name: "3:30 PM - 4:30 PM Guest Speaker: Annie Liang *(Princeton Live Stream)*"
 
 - date: 2019-06-22
-  name: Experiments
-  events:
-    - name: "8:00 - 8:15 Logistics (*Not open to public/No livestream*)"
-    - name: "8:15 - 8:45 What, why, and which experiments?"
-    - name: "8:45 - 9:15 Moving beyond simple experiments"
-    - name: "9:15 - 9:30 Coffee break"
-    - name: "9:30 - 10:15 Four strategies for experiments"
-    - name: "10:15 - 10:45 Zero variable cost data and musiclab"
-    - name: "10:45 - 11:15 3 Rs"
-    - name: "11:15 - 11:30 Logistics (*Not open to public/No livestream*)"
-    - name: "11:30 -12:30 Lunch (*Not open to public/No livestream*)"
-
+  name: Day off
+  
 - date: 2019-06-23
   name: Day off
 
 - date: 2019-06-24
   name: Work on group projects
-  events:
-    - name: "8:00 - 8:15 Logistics (*Not open to public/No livestream*)"
-    - name: "8:15 - 9:30 Speed-dating and group formation (*Not open to public/No livestream*)"
-    - name: "11:30 -12:30 Lunch and panel of book publishing: Meagan Levinson (Senior Editor, Princeton University Press), Eric Schwartz (Editoral Director, Columbia Univesity Press), and Chris Bail (Editor of the Oxford University Press Series in Computational Social Science)"
 
 - date: 2019-06-25
   name: Work on group projects
-  events:
-    - name: "11:30 -12:30 Lunch and flash talks ()*Not open to public/No livestream*)"
-    - name: "3:00 - 4:30 Guest speaker: Beth Noveck"
 
 - date: 2019-06-26
   name: Work on group projects
-  events:
-    - name: "11:30 -12:30 Lunch and flash talks (*Not open to public/No livestream*)"
-    - name: "3:00 - 4:30 Guest speaker: Annie Liang"
 
 - date: 2019-06-27
   name: Work on group projects
-  events:
-    - name: "11:30 -12:30 Lunch and flash talks (*Not open to public/No livestream*)"
 
 - date: 2019-06-28
   name: Present group projects
   events:
-    - name: "12:30 - 4:15 Present group projects (*Not open to public/No livestream*)"
+    - name: "12:30 - 4:15 Present group projects *(Not open to public/No livestream)*"

@@ -13,15 +13,14 @@
   education in New York City."
   image: /2019/hunter-nyc/images/Anne_Kou.jpg
   
-- name: Brandon Kramer
-  bio: "Brandon L. Kramer (PhD, Rutgers University) is a postdoctoral research associate at the University of Virginia's 
-  Biocomplexity Institute and Initiative (starting July 2019). Drawing from insights at the intersection of medical sociology, 
-  science & technology studies and computational social science, Brandon studies how assumptions about race, gender and 
-  sexuality become imbued into biomedical research. In his dissertation, he examined the racialization of testosterone in 
-  scientific research and the impact that this has had on the construction of racial disparities in prostate cancer. 
-  Brandon incorporates a range of methods, including content analysis, experiments, biosocial methods, computational text 
-  analysis, and social network analysis." 
-  image: /2019/hunter-nyc/images/Brandon.png
+- name: Carrie Hamilton
+  bio: "Carrie Hamilton is a program assistant for the Social Data Initiative at the Social Science Research Council. 
+  Prior to joining the SSRC, she worked as a research technician at the Center for the Study of Adolescent Risk and 
+  Resilience at Duke University. She graduated with highest honors from UNC Chapel Hill in 2017 with a BS in environmental 
+  science and geography. At UNC, she conducted independent research projects through the National Science Foundation and 
+  Ernest F. Hollings Scholarship Program and spent a year living and working in Ecuador through UNC’s Global Gap Year 
+  Fellowship."
+  image: /2019/hunter-nyc/images/Carrie.jpg
   
 - name: Daejun Park
   bio: "Daejun Park is a Ph.D. candidate in social work at University at Albany. His research interests include alcohol 
@@ -29,11 +28,10 @@
   image: /2019/hunter-nyc/images/Daejun.jpeg
   
 - name: Diane Yoong
-  bio: "Diane (they/them) is currently a graduate student in Critical Social/Personality and Environmental Psychology at 
-  the CUNY Graduate Center. Broadly, their work is on understanding the relationality between systems of oppression 
-  (e.g. racism, homo-|trans-phobia) and the individual. Outside of academia, they are busy with creating a digital webspace
-  for queer Asians in North America (hopefully broader!), and exploring the binaries that seem to divide academic work 
-  production and creative work."
+  bio: "Diane (they/them) is currently a graduate student in Critical Social/Personality and Environmental Psychology at the CUNY 
+  Graduate Center. Broadly, their work is on understanding the relationality between systems of oppression (e.g. racism, homo-|trans-phobia) 
+  and the individual. Outside of academia, they are busy with creating a digital webspace for queer Asians in North America (hopefully broader!), 
+  and exploring the binaries that seem to divide academic work production and creative work."
   image: /2019/hunter-nyc/images/Diane.jpg
   
 - name: Evette Cordoba
@@ -78,7 +76,10 @@
   bio: "Coming soon!"
 
 - name: Jon Phillips
-  bio: "Coming soon!"
+  bio: "Jon Phillips is a PhD student in the School of Social Work at the University of North Carolina - Chapel Hill.  
+  He is involved in mental health services research using health care databases as well as intervention research aiming to 
+  improve services for incarcerated individuals with mental illness."
+  image: /2019/hunter-nyc/images/jon_phillips.jpg
   
 - name: Kasey Zapatke
   bio: "Kasey is a third-year doctoral student in Sociology at The Graduate Center (CUNY). He is broadly interested in 
@@ -103,9 +104,6 @@
   and achievement. In her free time, Maya likes running around Prospect Park, doing/attempting the NYTimes Crossword, and 
   reading."
   image: /2019/hunter-nyc/images/MayaGodbole.png
-
-- name: Narayanamoorthy Nanditha
-  bio: "Coming soon!"
   
 - name: Nga Than
   bio: "Nga Than is a Ph.D student in the Sociology program at City University of New York – The Graduate Center. 
@@ -166,7 +164,13 @@
   population geography, spatial demography, and inequality dynamics."
   image: /2019/hunter-nyc/images/Ittner.png
 
-  
 - name: Zoe Carey
-  bio:  "Coming soon!"
+  bio:  "Zoe Carey is a PhD Candidate in sociology at The New School for Social Research. She is interested in the impact of 
+  data-driven technologies on organizations and issues of expertise and accountability in algorithmic decision-making.
+  Her dissertation addresses these questions in the field of policing. By tracing algorithmic assemblages from creation 
+  to implementation across private and public sectors, her project will map the social life of a predictive policing 
+  algorithm. Zoe has worked as a Teaching Fellow, Associate Editor, and Research Assistant at The New School, and she 
+  served on the SENS-UAW bargaining committee as the union of academic student workers negotiated their first contract 
+  with the university."
+  image: /2019/hunter-nyc/images/Zoe.jpg
 

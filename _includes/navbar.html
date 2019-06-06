@@ -57,3 +57,11 @@
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
+{% capture announcements %}{% include announcements.md %}{% endcapture %}
+{% if announcements != "" %}
+<div class="announcements">
+  <div class="container">
+    {{ announcements | markdownify }}
+  </div>
+</div>
+{% endif %}
