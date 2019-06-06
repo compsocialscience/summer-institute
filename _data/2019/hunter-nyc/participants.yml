@@ -13,6 +13,15 @@
   education in New York City."
   image: /2019/hunter-nyc/images/Anne_Kou.jpg
   
+- name: Carrie Hamilton
+  bio: "Carrie Hamilton is a program assistant for the Social Data Initiative at the Social Science Research Council. 
+  Prior to joining the SSRC, she worked as a research technician at the Center for the Study of Adolescent Risk and 
+  Resilience at Duke University. She graduated with highest honors from UNC Chapel Hill in 2017 with a BS in environmental 
+  science and geography. At UNC, she conducted independent research projects through the National Science Foundation and 
+  Ernest F. Hollings Scholarship Program and spent a year living and working in Ecuador through UNC’s Global Gap Year 
+  Fellowship."
+  image: /2019/hunter-nyc/images/Carrie.jpg
+  
 - name: Daejun Park
   bio: "Daejun Park is a Ph.D. candidate in social work at University at Albany. His research interests include alcohol 
   and other drug use, as well as health disparities. He has served as a research assistant at UAlbany."
@@ -67,7 +76,10 @@
   bio: "Coming soon!"
 
 - name: Jon Phillips
-  bio: "Coming soon!"
+  bio: "Jon Phillips is a PhD student in the School of Social Work at the University of North Carolina - Chapel Hill.  
+  He is involved in mental health services research using health care databases as well as intervention research aiming to 
+  improve services for incarcerated individuals with mental illness."
+  image: /2019/hunter-nyc/images/jon_phillips.jpg
   
 - name: Kasey Zapatke
   bio: "Kasey is a third-year doctoral student in Sociology at The Graduate Center (CUNY). He is broadly interested in 
@@ -92,9 +104,6 @@
   and achievement. In her free time, Maya likes running around Prospect Park, doing/attempting the NYTimes Crossword, and 
   reading."
   image: /2019/hunter-nyc/images/MayaGodbole.png
-
-- name: Narayanamoorthy Nanditha
-  bio: "Coming soon!"
   
 - name: Nga Than
   bio: "Nga Than is a Ph.D student in the Sociology program at City University of New York – The Graduate Center. 
@@ -155,7 +164,6 @@
   population geography, spatial demography, and inequality dynamics."
   image: /2019/hunter-nyc/images/Ittner.png
 
-  
 - name: Zoe Carey
   bio:  "Zoe Carey is a PhD Candidate in sociology at The New School for Social Research. She is interested in the impact of 
   data-driven technologies on organizations and issues of expertise and accountability in algorithmic decision-making.
@@ -164,5 +172,5 @@
   algorithm. Zoe has worked as a Teaching Fellow, Associate Editor, and Research Assistant at The New School, and she 
   served on the SENS-UAW bargaining committee as the union of academic student workers negotiated their first contract 
   with the university."
-  image: /2019/hunter-nyc/images/Zoe.png
+  image: /2019/hunter-nyc/images/Zoe.jpg
 
