@@ -1,8 +1,8 @@
 - date: 2019-06-16
-  name:
+  name: Participants arrive
   events:
-    - name: "Participants arrive"
-      time: "18:30 - 21:30"
+    - name: "Informal opening dinner <i>(JCR and Fellows' Garden)</i>"
+      time: "18:30 - 21:30" 
 
 - date: 2019-06-17
   name: "Introduction and Ethics"
