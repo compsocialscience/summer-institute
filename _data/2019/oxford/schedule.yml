@@ -1,27 +1,33 @@
 - date: 2019-06-16
   name: Participants arrive
   events:
-    - name: "Informal opening dinner <i>(JCR and Fellows' Garden)</i>"
+    - name: "<b>Informal opening dinner</b> (JCR and Fellows' Garden)"
       time: "18:30 - 21:30" 
 
 - date: 2019-06-17
-  name: "Introduction and Ethics"
+  name: "<b>Introduction and Ethics</b> (Department of Sociology, 42-43 Park End Street)"
   events:
-    - name: "Opening remarks"
+    - name: "<b>Opening remarks</b> (Ridhi Kashyap)"
       time: "09:00 - 09:15"
-    - name: "Housekeeping announcements"
+    - name: "<b>Housekeeping announcements</b> (Christiaan Monden)"
       time: "09:15 - 09:30"
-    - name: "Introductions of participants and organisers (flashtalks)"
+    - name: "<b>Introductions of participants (flashtalks)</b>"
       time: "09:30 - 13:00"
-    - name: "Lunch"
+    - name: "<b>Coffee break</b>"
+      time: "09:30 - 11:30"
+    - name: "<b>Introductions of participants (flashtalks)</b>"
+      time: "11:30 - 12:30"
+    - name: "<b>Tales from previous SICSS</b> (Francesco Rampazzo & Nicolò Cavalli)"
+      time: "12:30 - 13:00"
+    - name: "<b>Lunch</b> (Nuffield College)"
       time: "13:00 - 14:00"
-    - name: "Introduction to Computational Social Science (Livestream, Matt Salganik)"
+    - name: "<b>Introduction to Computational Social Science</b> (Livestream, Matt Salganik)"
       time: "14:30 - 15:15"
-    - name: "Tea break"
+    - name: "<b>Tea break</b>"
       time: "15:15 - 15:30"
-    - name: "Research Ethics: Principles-based approach; Four areas of difficulties: informed consent, informational risk, privacy, and making decisions in the face of uncertainty; Introduction to group exercise (Livestream, Matt Salganik)"
+    - name: "<b>Research Ethics: Principles-based approach; Four areas of difficulties: informed consent, informational risk, privacy, and making decisions in the face of uncertainty; Introduction to group exercise</b> (Livestream, Matt Salganik)"
       time: "15:30 - 17:30"
-    - name: "Dinner"
+    - name: "<b>Dinner</b>"
       time: "18:30 - 19:15"
 
 - date: 2019-06-18
