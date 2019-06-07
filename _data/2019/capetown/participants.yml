@@ -48,14 +48,19 @@
   bio: "Reesha Kara holds a Master's Degree in Population Studies from the University of KwaZulu-Natal and is in the final year of her PhD at Rhodes University. Her research focuses on marriage and childbearing among middle-aged women in South Africa. Using social statistics, Reesha's work identifies changes in trends of non-marital fertility among middle-aged women, key determinants of these trends and what these changes could possibly mean when focusing on the family as the basic building block of society. Reesha's research interests include family formation structures, gender dynamics within relationships, social statistical methodologies, adolescent fertility and safe sexual and reproductive behaviours. Reesha has completed a number of training courses in social statistical methods and aims to use her research to highlight the value and importance of using social statistics to understand complex social behaviour and phenomenon."
   website:
  
-- name:  Babalola Tesleem Kayode 
-  image: /2019/capetown/images/babalola.png
-  bio: "Tesleem K. Babalola is a passionate quantitative and qualitative research/data analyst with over seven years’ experience in research methodology, data collection, management and analysis. He has more than eight published peer-reviewed articles in recognised journals. He is a collaborator for the global burden of disease (GBD) research network and also member of some local and international social science and health organizations. He is currently a doctoral candidate at Public Health Department, University of KwaZulu-Natal, Durban, South Africa. His research interest includes health system research, health outcomes, epidemiology and biostatistics."
-  #website: 
+#- name:  Babalola Tesleem Kayode 
+#  image: /2019/capetown/images/babalola.png
+#  bio: "Tesleem K. Babalola is a passionate quantitative and qualitative research/data analyst with over seven years’ experience in research methodology, data collection, management and analysis. He has more than eight published peer-reviewed articles in recognised journals. He is a collaborator for the global burden of disease (GBD) research network and also member of some local and international social science and health organizations. He is currently a doctoral candidate at Public Health Department, University of KwaZulu-Natal, Durban, South Africa. His research interest includes health system research, health outcomes, epidemiology and biostatistics."
+#  #website: 
  
 - name:  Caroline Kiarie
   image: /2019/capetown/images/kiarie.png
   bio: "Caroline Kiarie is a PhD candidate at University of Kwazulu Natal in Durban, South Africa and a tutor fellow in the same institution. She holds a Masters in Science degree in Communication and Marketing from Franklin University in Ohio, USA. Her research interests include interpersonal communication, social media and social networks among employees. While in Kenya, she lectures corporate communication and public relations courses at Daystar University and Jomo Kenyatta University of Agriculture and Technology (JKUAT). She specializes in corporate communication and public relations and has worked and trained with several organizations both in Kenya and USA."
+  website:
+
+- name:  Dagnon Eric Koba
+  image: /2019/capetown/images/koba.png
+  bio: "Dagnon Eric Koba  is a doctoral student at the Institut de Formation et de Recherche Démographiques (IFORD) at the University of Yaoundé II in Cameroon. With expertise in Demography, Digital demography and Social Statistics, his main research interests include, women’s reproductive health, gender inequality and migration."
   website:
   
 - name:  Wim Louw 
@@ -82,6 +87,11 @@
   image: /2019/capetown/images/sindiso.jpg
   bio: "Sindiso Ndlovu is a doctoral candidate in Demography and Population studies at the University of Witwatersrand in South Africa. She hold a Masters and Honours degree in Health Demography and her research interests lie in the field of  family and health demography with specific focus on fertility, child health and policy. Her PhD thesis focuses on the intersection of health and family demography in a SSA countries."
   #website:
+  
+- name:  Baruwa Ololade
+  image: /2019/capetown/images/baruwa.jpeg
+  bio: "Baruwa Ololade is a doctoral student of Population and Health Studies at North West University Mafikeng, South Africa. Prior to this, he had completed his master’s Degree at the University of Witwatersrand, Johannesburg South Africa. Beside his educational profile, he is also an associate researcher with the International Organisation for Migration/Wits School of Public Health. Baruwa have worked at various organizations and played active roles in dealing with interdisciplinary research projects such as social determinant of health, sexual and reproduction health, maternal and child health and HIV/AIDS among migrants among many others."
+  #website:  
   
 - name:  Douglas Parry
   image: /2019/capetown/images/parry.png
