@@ -22,7 +22,7 @@ localspeakers:
       image: /assets/images/BarberaPablo.jpg
       bio: Pablo Barberá is an Assistant Professor of Computational Social Science at the London School of Economics. His research develops text and network analysis methods that improve our understanding of how exposure to political information through social media sites affects political behavior. He is also the authors of several R packages that allow scholars to collect and analyze social media data.
       website: http://pablobarbera.com/
-
+      
     - name: David Cox
       image: /assets/images/DavidCox.jpg
       bio: Sir David Cox is a statistician known in particular for the proportional hazards model. This  is widely used in the analysis of survival data and has been applied in the medical, physical, life, earth, and social sciences, as well as engineering fields. His 1972 paper introducing the model and its analysis is one of the 100 most-cited papers of all time for all fields. Cox’s career has included  research positions in  government supported research organizations, as well as  academic appointments at Cambridge, University of North Carolina,  Birkbeck College, Imperial College, and Nuffield College, where he was Warden, 1988-1994. He earned his PhD from the University of Leeds in 1949, after first studying mathematics at St. Johns College, Cambridge. Knighted in 1985, Cox is a fellow of the Royal Society, an honorary fellow of the British Academy and a foreign associate of the U.S. National Academy of Sciences. He has served as president of the Bernoulli Society, Royal Statistical Society and International Statistical Institute. In 2010, Cox received the Copley Medal, the Royal Society’s highest award, and in 2016, the International Prize in Statistics and shared the BBVA Foundation Prize for research in  the physical sciences.
@@ -87,7 +87,11 @@ participants:
     - name: Chris Barrie
       bio: Chris is currently a DPhil Candidate in Sociology at Nuffield College, University of Oxford. From September 2019, he will be Postdoctoral Prize Research Fellow in Sociology at Nuffield. His research interests include protest, conflict, and nationalism in the Middle East and North Africa. In the realm of computational methods, he is particularly interested in historical GIS techniques and the use of social media data.
       image: /assets/images/ChrisBarrie.jpg
-      
+
+    - name: Samira Barzin
+      bio: Samira Barzin is an Assistant Professor at the University of Groningen (The Netherlands). She holds a MSc in Economics from the London School of Economics and Political Science and has recently completed her PhD (Civil Eng.) at Imperial College London. Samira’s research particularly focuses on various topics of economic and international development, particularly its spatial and dynamic components, and transport economics. She is passionate about interdisciplinary work and curious about exploring the novel options big data and computational methods offer for research, particularly for research on data sparse developing countries.
+      image: /assets/images/BarzinSamira.png
+
     - name: Pablo Beytía
       bio: Pablo Beytía is a PhD candidate at the Department of Social Sciences of Humboldt University of Berlin and a DAAD-CONICYT scholarship holder. He is specializing in what might be called ‘digital sociology of knowledge’, with a thesis on how biographical information is being globally structured in multilingual Wikipedia. Pablo was a lecturer at the Catholic University of Chile, director of the Social Research Centre of the international NGO ‘TECHO’, advisor to the Government of Chile, and visiting researcher at the University of Warwick and the Berlin Graduate School of Social Sciences. He is a sociologist and holds a master's degree in both sociology and philosophy.
       image: /assets/images/BeytiaPablo.png
@@ -131,7 +135,15 @@ participants:
     - name: Kan Li
       bio: Kan Li is a DPhil candidate in international relations at University of Oxford. Her research focuses on applications of agent-based model to international crises and conflicts; her current project studies how challengers alter international status quo through asymmetric military build-up and how this shapes unique dynamics of asymmetric conflicts. Prior to Oxford, she received her Master's degree in political science from the Graduate Institute of International and Development Studies in Geneva, and her Bachelor's degree in economics from the University of Hong Kong.
       image: /assets/images/LiKan.jpg
+
+    - name: Timothy Monteath
+      bio: Timothy Monteath is a PhD student in the Sociology Department at the London School of Economics and is also Researcher in the Department of Law. His doctoral research is focused on the high end of London’s residential property market, and looks at questions of value, ownership and property relations. He maintains a broad interest in broad area housing studies, wealth, inequality and the application of computational methods to research in this area.
+      image: /assets/images/MonteathTimothy.png
       
+    - name: Tobias Rüttenauer
+      bio: Tobias Rüttenauer completed his PhD in sociology at the University of Kaiserslautern, where he is currently working as a postdoctoral research assistant. In his research, he uses large-scale register-based data to analyse the connection between socio-demographic characteristics and the exposure to environmental pollution, with a particular focus on selective migration processes. He is also working on econometric models for spatial and longitudinal data analysis, and recently published the R package feisr to estimate fixed effects individual slope models.
+      image: /assets/images/RuttenauerTobias.png
+
     - name: Julia Mikolai
       bio: Julia Mikolai is a Research Fellow at the University of St Andrews. Her background is in sociology and demography. Her research interests include partnerships, families, and fertility; residential mobility and housing; life course research; and cross-national comparisons. She uses individual-level longitudinal data and longitudinal methods to study these topics. Previously, she has been a Post-doctoral Research Associate at the University of Liverpool. She holds a PhD in social statistics and demography from the University of Southampton and has studied at Eötvös Loránd University (Budapest), Utrecht University, and the European Doctoral School of Demography (hosted by the Max Planck Institute for Demographic Research and the Centre for Economic Demography at Lund University). 
       image: /assets/images/MikolaiJulia.jpg
