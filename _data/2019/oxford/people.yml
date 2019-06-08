@@ -123,10 +123,14 @@ participants:
     - name: Clemens Jarnach
       bio: Clemens is a DPhil candidate in Sociology at Green Templeton College, University of Oxford. His recent research focuses on the application of social network analysis to political sociology topics. His thesis focuses on investigating digital media usage by voters and politicians in British politics. His research addresses topics such as political polarization, echo chambers, Brexit, and media diversity.
       image: /assets/images/JarnachClemens.jpg
-    
+
     - name: Adam Kenny
       bio: Adam Kenny is a DPhil candidate in Anthropology at the University of Oxford. His doctoral research focuses on the effects of group identity and intergroup competition on human prosociality. He mostly analyses quantitative data generated through field experiments employing behavioural economic games. He also holds a BA in Natural Sciences from the University of Cambridge and an MSc in Human Evolution and Behaviour from University College London.
-      image: /assets/images/KennyAdam.png    
+      image: /assets/images/KennyAdam.png   
+      
+    - name: Rishemjit Kaur
+      bio: Rishemjit Kaur recently completed her PhD in utilizing the optimization capabilities of human decision making process by understanding their conflicting integrative and individualisation tendencies. She is currently working as a Scientist at CSIR-Central Scientific Instruments Organisation, India. Her research interests include the study of human behaviour, particularly moral behaviour and understanding the inter-cultural differences or similarities using social media data. She is also interested in studying the effects of policy decisions on specific groups, e.g. farmers using big data sources such as "Farmers Call Centre queries" and provide solutions in order to alleviate some of the problems they face.
+      image: /assets/images/KaurRishemjit.jpg
 
     - name: Judith Koops
       bio: Judith Koops is a PhD candidate at the Netherlands Interdisciplinary Demographic Institute in The Hague (The Netherlands). Her research focusses on cross-national differences in the link between childhood disadvantage and family formation of young adults. Judith also works as a researcher for the Generations and Gender Programme (GGP). The GGP is a social science research infrastructure that provides open access micro- and macro-level data with the aim to improve the knowledge base for social science and policymaking in developed, low-fertility, countries. GGP is currently examining the outcomes of a Push-to-Web experiment in three European countries and they will soon conduct a Social Media experiment using the Facebook advertising platform. In 2019, the team will develop infrastructure needed to collect voice recordings during CAPI or CAWI administered interviews of the Generations and Gender Survey.
@@ -139,14 +143,14 @@ participants:
     - name: Timothy Monteath
       bio: Timothy Monteath is a PhD student in the Sociology Department at the London School of Economics and is also Researcher in the Department of Law. His doctoral research is focused on the high end of London’s residential property market, and looks at questions of value, ownership and property relations. He maintains a broad interest in broad area housing studies, wealth, inequality and the application of computational methods to research in this area.
       image: /assets/images/MonteathTimothy.png
-      
-    - name: Tobias Rüttenauer
-      bio: Tobias Rüttenauer completed his PhD in sociology at the University of Kaiserslautern, where he is currently working as a postdoctoral research assistant. In his research, he uses large-scale register-based data to analyse the connection between socio-demographic characteristics and the exposure to environmental pollution, with a particular focus on selective migration processes. He is also working on econometric models for spatial and longitudinal data analysis, and recently published the R package feisr to estimate fixed effects individual slope models.
-      image: /assets/images/RuttenauerTobias.png
 
     - name: Julia Mikolai
       bio: Julia Mikolai is a Research Fellow at the University of St Andrews. Her background is in sociology and demography. Her research interests include partnerships, families, and fertility; residential mobility and housing; life course research; and cross-national comparisons. She uses individual-level longitudinal data and longitudinal methods to study these topics. Previously, she has been a Post-doctoral Research Associate at the University of Liverpool. She holds a PhD in social statistics and demography from the University of Southampton and has studied at Eötvös Loránd University (Budapest), Utrecht University, and the European Doctoral School of Demography (hosted by the Max Planck Institute for Demographic Research and the Centre for Economic Demography at Lund University). 
       image: /assets/images/MikolaiJulia.jpg
+      
+    - name: Tobias Rüttenauer
+      bio: Tobias Rüttenauer completed his PhD in sociology at the University of Kaiserslautern, where he is currently working as a postdoctoral research assistant. In his research, he uses large-scale register-based data to analyse the connection between socio-demographic characteristics and the exposure to environmental pollution, with a particular focus on selective migration processes. He is also working on econometric models for spatial and longitudinal data analysis, and recently published the R package feisr to estimate fixed effects individual slope models.
+      image: /assets/images/RuttenauerTobias.png
       
     - name: Florian Schaffner
       bio: Florian Schaffner is a doctoral student in Politics at Balliol College, University of Oxford. His research interests include political psychology, direct democracy, elections, research methods and data science. In his doctoral research he uses surveys, experiments and quantitative text analysis to study the determinants and consequences of citizens’ perceptions of the integrity and legitimacy of referendums and elections. He holds an MSc in Comparative Politics from the London School of Economics and Political Science (LSE) and a BA in Social Sciences from the University of Zurich.
