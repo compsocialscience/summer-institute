@@ -39,31 +39,37 @@ transition: fade
 
 1. Big Problems in the World
 ========================================================
-&nbsp;
 
 <img src="cambridge.jpg" height="600" />
 
 
 
-2. Computational Social Science is Disconnected
+2. Our Field is Growing
+========================================================
+
+2. Our Field is Growing
+========================================================
+
+<img src="ss_disciplines_time.jpg" />
+https://www.chrisbail.net/post/mapping-computational-social-science
+
+3. Our Field is Interdisciplinary
 ========================================================
 
 
-2. Computational Social Science is Disconnected
-========================================================
-&nbsp;
-
-<img src="disconnected.png" height="400" />
-
-
-3. Training Opporunities are Rare
+3. Our Field is Interdisciplinary
 ========================================================
 
+<img src="colore_by_nodes_arial.png"/>
+https://www.chrisbail.net/post/mapping-computational-social-science
 
-3. Training Opporunities are Rare
+4. Training Opporunities are Rare
 ========================================================
 
-&nbsp;
+
+4. Training Opporunities are Rare
+========================================================
+
 <img src="code.jpg" height="400" />
 
 
@@ -75,14 +81,7 @@ transition: fade
 # **SOLUTIONS**
 
 
-Widespread Interest
-========================================================
 
-
-Widespread Interest
-========================================================
-
-<img src="funders.png" height="600" />
 
 
 
@@ -99,7 +98,6 @@ Goal #1: Provide State-of-the-Art Training
 
 Goal #1: Provide State-of-the-Art Training
 ========================================================
-&nbsp;
 <img src="code.jpg" height="400" />
 
 Goal #2: Challenge Disciplinary Divides
@@ -107,8 +105,7 @@ Goal #2: Challenge Disciplinary Divides
 
 Goal #2: Challenge Disciplinary Divides
 ========================================================
-&nbsp;
-<img src="disconnected.png" height="300" />
+<img src="colore_by_nodes_arial.png"/>
 
 Goal #2: Challenge Disciplinary Divides
 ========================================================
@@ -126,36 +123,38 @@ Goal #2: Challenge Disciplinary Divides
 
 Goal #3: Reach a Broad Audience
 ========================================================
-&nbsp; 
 
 
 
 Goal #3: Reach a Broad Audience
 ========================================================
-&nbsp; 
 
 <embed width="800" height="600" src="https://cbail.github.io/sicss_around_globe.html">
 
 
+Goal #3: Reach a Broad Audience
+========================================================
+
+<img src="sicss_collage.png" height="500" />
+
 
 Goal #3: Reach a Broad Audience
 ========================================================
-&nbsp; 
 
+<img src="sicss_world.png" height="500" />
 
-<embed width="800" height="600" src="https://compsocialscience.github.io/summer-institute/2018/capetown/">
+And many more people are following along online!
+
 
 
 
 Goal #4: Open-Source
 ========================================================
-&nbsp; 
 
 Goal #4: Open-Source
 ========================================================
-&nbsp; 
 
-<embed width="800" height="600" src="https://compsocialscience.github.io/summer-institute/2018/#schedule">
+<embed width="800" height="600" src="https://compsocialscience.github.io/summer-institute/2019/#schedule">
 
 
 
@@ -167,7 +166,17 @@ Goal #5: Teach the Teachers
 ========================================================
 
 
-<img src="partners.png" height="600" />
+<img src="alumni_leaders.png"/>
+
+
+Goal #6: Create a Diverse Community
+========================================================
+
+
+Goal #6: Create a Diverse Community
+========================================================
+
+<img src="sicss_mosaic.png"/>
 
 
 
@@ -183,7 +192,7 @@ Schedule
 Schedule
 ========================================================
 
-<img src="SICSS Anatomy.png" height="500" />
+<img src="SICSS Anatomy.png"/>
 
 
 Lecture Schedule
@@ -202,26 +211,27 @@ Saturday | **Field Experiments** (Matt)
 
 Accessing Materials
 ========================================================
-&nbsp; 
+Go to this site: https://compsocialscience.github.io/summer-institute/2019/#schedule
 
-Go to this site: https://compsocialscience.github.io/summer-institute/2018/#schedule
-
-<embed width="800" height="600" src="https://compsocialscience.github.io/summer-institute/2018/#schedule">
+<embed width="800" height="600" src="https://compsocialscience.github.io/summer-institute/2019/#schedule">
 
 
 
 Visiting Speakers
 ========================================================
-&nbsp; 
 
-<img src="speakers.png" height="600" />
+<img src="Visiting_speakers.png"/>
+
+Link to Schedule Across all SICSS Sites: https://bit.ly/2I1SXE5 
+
+All Talks will be archived on our [YouTube Channel] (https://www.youtube.com/watch?v=9flaMjO-r24&feature=youtu.be)
 
 
 Group Projects
 ========================================================
-&nbsp;
 
-<img src="student_projects.png" height="600" />
+
+<img src="2019_group_projects.png", height="600"/>
 
 
 
@@ -263,5 +273,5 @@ Anonymous Feedback Form
 ========================================================
 &nbsp;
 
-https://goo.gl/forms/WFECn4gV47xHK8rp2
+https://forms.gle/uwB17RpvFU5RkJgHA
  
