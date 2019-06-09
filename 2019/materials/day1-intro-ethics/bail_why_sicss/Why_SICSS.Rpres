@@ -231,11 +231,13 @@ Asking Questions to Speakers
 ========================================================
 &nbsp; 
 
-To ask a question to a speaker, please either:
+To ask a question to a speaker, please choose one of the following options:
 
-a) Post your question to the [sicss2019.slack.com](https:/sicss2019.slack.com) Workspace entitled #speakerquestions; or  
+a) Post your question to the [sicss2019.slack.com](https:/sicss2019.slack.com) Workspace entitled #speakerquestions;  
 
-b) Tweet your question to [@chris_bail](https://www.twitter.com/chris_bail), [@msalganik](https://www.twitter.com/msalganik), or our TAs ([@T_mWolff](https://www.twitter.com/T_mWolff), [@Danielleitaaa](https:/www.twitter.com/Danielleitaaa), or [@alextkindel](https://www.twitter.com/alextkindel))
+b) Tweet your question to [@chris_bail](https://www.twitter.com/chris_bail) or [@msalganik](https://www.twitter.com/msalganik); or
+
+c) Tweet your question to one of our teaching assistants: ([@T_mWolff](https://www.twitter.com/T_mWolff), [@Danielleitaaa](https://www.twitter.com/Danielleitaaa), [@alextkindel](https://www.twitter.com/alextkindel), or [@simonezhang](https://www.twitter.com/simonezhang))
 
 
 Group Projects
