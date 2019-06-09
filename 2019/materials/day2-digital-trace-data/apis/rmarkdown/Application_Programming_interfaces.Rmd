@@ -10,12 +10,12 @@ output:
 ---
 
 <br>
-**[Text as Data Course](https://cbail.github.io/textasdata/Text_as_Data.html)**   
 **Chris Bail, PhD**  
 **Duke University**  
 [www.chrisbail.net](http://www.chrisbail.net)  
 [github.com/cbail](https://github.com/cbail)  
 [twitter.com/chris_bail](https://twitter.com/chris_bail)  
+**[Check out my Text as Data Course](https://cbail.github.io/textasdata/Text_as_Data.html)**   
 
 
 # Introduction
@@ -92,7 +92,7 @@ Once you accept the terms, your app developer request will go under review by Tw
 ![](waiting.png)
 
 Once your developer account is approved, you can log in once again and click the "Create New App" button at the top right of the screen. Our goal is not to create a fully fledged app at this point, but simply to obtain the credentials necessary to begin making some simple calls to the Twitter API.
-You can name your app whatever you want, describe it however you want, and put in the name of any website you like. The two important things you must do are 1) put the following text in the "Callback URL" text box: `http://127.0.0.1:1410` This number describes the location where the API will return your data-- in this case, it is your web browser (but it could be another site where you want to store the results of the data.); 2) You must uncheck the "Enable Callback Locking" button on the same page. Note: at the time of this writing, Twitter is discussing removing this check box, so you may need to search the documentation of the `rtweet` package on Github or elsewhere for more information if the authentication functions below do not work.
+You can name your app whatever you want, describe it however you want, and put in the name of any website you like. One important thing you must do is to put the following text in the "Callback URL" text box: `http://127.0.0.1:1410` This number describes the location where the API will return your data-- in this case, it is your web browser (but it could be another site where you want to store the results of the data.).
 
 If you followed the steps above, the name of your application should now appear. Click on it, and then click on the "Keys and Access Tokens" tab in order to get your credentials. Unfortunately, Twitter makes developers get two different types of credentials which are listed on that page. These are blurred out in the screenshot below because I do not want people who read this web page to have access to my credneitals, which they could then abuse in various ways: 
 
