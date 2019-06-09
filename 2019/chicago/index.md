@@ -24,11 +24,13 @@ We will notify applicants via e-mail in mid-April, and will ask participants to 
 and several generous local sponsors:
 <center><div>
 
-<a href="https://sloan.org/" target="_"><img src="https://sloan.org/storage/app/media/uploaded-files/Sloan-Logo-primary-black-demo.png" height="130px" style="padding:10px;"></a>
+<a href="https://sloan.org/" target="_"><img src="https://sloan.org/storage/app/media/uploaded-files/Sloan-Logo-primary-black-demo.png" height="120px" style="padding:10px;"></a>
 
-<a href="https://www.russellsage.org/" target = "_"><img src ="https://pcdnetwork.org/wp-content/uploads/2017/05/Russell_Sage_foundation_1394094.jpg" height = "130px" style="padding:10px;"></a>
+<a href="https://www.russellsage.org/" target = "_"><img src ="https://pcdnetwork.org/wp-content/uploads/2017/05/Russell_Sage_foundation_1394094.jpg" height = "120px" style="padding:10px;"></a>
 
-<a href="https://www.kellogg.northwestern.edu/" target="_"><img src="https://www.northwestern.edu/brand/images/Kellogg_horizontal_new.jpg" height="130px" style="padding:10px;"></a>
+<a href="https://www.kellogg.northwestern.edu/" target="_"><img src="https://www.northwestern.edu/brand/images/Kellogg_horizontal_new.jpg" height="120px" style="padding:10px;"></a>
 
 <a href="https://www.nico.northwestern.edu/" target="_"><img src="images/NICO Logo Purple on White w CompSys Text 1000px.jpg" height="60px" style="padding:10px;"></a>
+
+<a href="https://wiki.communitydata.science/Main_Page" target="_"><img src="images/CDSC_logo-text_centered.svg" height="120px" style="padding:10px;"></a>
 </div></center>
