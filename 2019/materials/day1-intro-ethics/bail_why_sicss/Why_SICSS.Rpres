@@ -178,6 +178,8 @@ Goal #6: Create a Diverse Community
 
 <img src="sicss_mosaic.png"/>
 
+You can view the entire list of people who have ever participated in SICSS here: https://compsocialscience.github.io/summer-institute/participants
+
 
 
 ========================================================
@@ -224,7 +226,7 @@ Visiting Speakers
 
 Link to Schedule Across all SICSS Sites: https://bit.ly/2I1SXE5 
 
-All Talks will be archived on our [YouTube Channel] (https://www.youtube.com/watch?v=9flaMjO-r24&feature=youtu.be)
+All talks will be archived on our [YouTube Channel] (https://www.youtube.com/watch?v=9flaMjO-r24&feature=youtu.be)
 
 
 Asking Questions to Speakers
