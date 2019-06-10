@@ -39,7 +39,7 @@
   name: Automated Text Analysis
   events:
     - name: "9:00 - 9:15 Logistics (*Not open to public/No livestream*)"
-    - name: "9:15 - 9:30 History of quantitative text analysis [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/history-text-analysis/Introduction_to_Text_as_Data.html.html)"
+    - name: "9:15 - 9:30 History of quantitative text analysis [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/history-text-analysis/Introduction_to_Text_as_Data.html)"
     - name: "9:30 - 9:45 Basic Text Analysis/GREP [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/basic-text-analysis/Rpres/Basic_Text_Analysis.html), [Annotated Code](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/basic-text-analysis/rmarkdown/Basic_Text_Analysis_in_R.html)"
     - name: "9:45 - 10:00 Dictionary-Based Text Analysis [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/dictionary-methods/Rpres/Dictionary_Based_Analysis.html), [Annotated Code](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/dictionary-methods/rmarkdown/Dictionary-Based_Text_Analysis.html)"
     - name: "10:00 - 10:15 Coffee Break"
