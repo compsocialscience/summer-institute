@@ -340,8 +340,8 @@ How do I Build a Bot?
 
 A very simple bot
 ========================================================
-```{r, eval=FALSE}
 
+```r
 for (i in 1:24){
   #Search for 50 recent tweets about computational social science
   css_tweets<-search_tweets("Computational Social Science", n=50, include_rts = FALSE)
@@ -351,7 +351,6 @@ for (i in 1:24){
   Sys.sleep(3600)
   #3600 seconds is 60 minutes
 }
-
 ```
 
 Making a bot interactive

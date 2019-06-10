@@ -16,10 +16,11 @@ editor_options:
 **Chris Bail**  
 **Duke University**  
 **[www.chrisbail.net](http://www.chrisbail.net)**  
+**[Check out my Text as Data Course](https://cbail.github.io/textasdata/Text_as_Data.html)** 
 
 # Introduction
 
-This is part of a series of tutorials I've written on collecting digital trace data from sites such as Twitter, Facebook, or other internet sources. These earlier tutorials demonstrated some of the potential of digital trace data, but also highlighted many limitations of these new wellsprings of data as well. For example, digital trace data are often incomplete, inaccessible, non-representative, unstructured--and thus difficult to work with-- and sensitive in nature. Because of these limitations, there is growing consensus that hybrid approaches are needed that combine digital trace data with more conventional methods such as surveys.
+This is part of a series of tutorials I've written on collecting digital trace data from sites such as Twitter, or other internet sources. These earlier tutorials demonstrated some of the potential of digital trace data, but also highlighted many limitations of these new wellsprings of data as well. For example, digital trace data are often incomplete, inaccessible, non-representative, unstructured--and thus difficult to work with-- and sensitive in nature. Because of these limitations, there is growing consensus that hybrid approaches are needed that combine digital trace data with more conventional methods such as surveys.
 
 **Note: this tutorial is a work in progress. It will be updated soon to include more annotated code**
 
@@ -36,6 +37,10 @@ To solve this problem, I created a web-based app called "Find Your People." Find
 When I created the Find Your People app, app-building required somewhat involved knowledge of programming in multiple languages, web design, and cloud computing. Yet the R program [Shiny](https://shiny.rstudio.com/) has become a gamechanger. Shiny is an interactive app building tool that you can use directly from rStudio. In addition to an easy to use, integrated app building tool, RStudio also provides a variety of tools to host and deploy apps on the web with the click of a button. Finally, there is a vibrant community of Shiny app developers--- many of whom share the code they used to create their apps on sites such as [this one](https://www.showmeshiny.com/). 
 
 There are a number of excellent tutorials online about how to use Shiny, including this [excellent video series](https://shiny.rstudio.com/tutorial/). Many of these are simple tools for interactive data visualization, yet Shiny enables development of apps for just about anything. Indeed, API calls can be embedded within Shiny apps to produce analyses of a user's twitter data. Consider, for example, this [nice example](https://aj17.shinyapps.io/twitteranalytics/). Shiny allows you to create text boxes, multiple choice buttons, and many other of the standard fare of online surveys. Together, these tools could be used to create the functionality that I developed in the stone age with much less time and energy.
+
+Though Shiny has numerous advantages, it is limited in its capacity to work natively with the mobile devices that most of us use many times each day. For this reason, I suspect many of the best apps built for social science research will also employ other platforms. One of my favorites is Flutter. Flutter is a new tool created by Google, which allows one to simultaneously create mobile apps for both iOS and Android Devices. At the time of this writing, Flutter also builds to web-based apps, though that functionality is not recommended for production. Perhaps the coolest part of Flutter is that it allows you run apps natively while you build them-- updating the aesthetics and functionality of the apps in a realistic mobile-device simulator while you code.
+
+Getting Flutter up and running requires some time and patience. I recommend using a combination of Visual Studio Code and the iOS simulator that ships with mac's Xcode (or the Android equivalent, Android Studio). There are a variety of great tutorials that can help you get set up with this workflow. [This one](https://flutter.dev/docs/get-started/install) is my favorite so far. Though Flutter is still relatively new, there are also a variety of [great sample apps](https://github.com/flutter/samples/blob/master/INDEX.md) that you can use as a guide to build your own. My Polarization Lab will soon open-source a mobile chat platform we are building to study politics and social media, and I hope that will help inspire more academics to use this impressive tool. 
 
 
 # Building Bots for Social Science Research
