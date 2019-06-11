@@ -7,12 +7,12 @@ output:
 ---
 
 <br>
-**[Text as Data Course](https://cbail.github.io/textasdata/Text_as_Data.html)**   
 **Chris Bail, PhD**  
 **Duke University**  
 [www.chrisbail.net](http://www.chrisbail.net)  
 [github.com/cbail](https://github.com/cbail)  
 [twitter.com/chris_bail](https://twitter.com/chris_bail)  
+**[Check out my Text as Data Course](https://cbail.github.io/textasdata/Text_as_Data.html)**   
 
 # Introduction
 
@@ -110,11 +110,13 @@ To begin, let's make our own dictionary of terms we want to examine from the Tru
 economic_dictionary<-c("economy","unemployment","trade","tariffs")
 ```
 
-Having created a very simple/primitive dictionary, we can now subset the parts of our tidytext dataframe that contain these words. 
+Having created a very simple/primitive dictionary, we can now subset the parts of our tidytext dataframe that contain these words using the `str_detect` function within Hadley Wickham's `stringr` package: 
 
 ```{r}
-economic_tweets<-trumptweets %>% 
-filter(text, paste0(economic_dictionary, "\\b", collapse = "|"))
+library(stringr)
+economic_tweets<-trumptweets[str_detect(trumptweets$text, paste(economic_dictionary, collapse="|")),]
+  
+
 ```
 
 # Sentiment Analysis

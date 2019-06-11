@@ -237,16 +237,3 @@ Person
 Time  
 
 
-
-========================================================
-%nbsp;  
-
-## **Now YOU Try it**
-
-1) Extract 100 random documents/texts from a text-based dataset  
-2) Identify all of the proper nouns (or named entities) in each document  
-3) Identify the adjectives that moderated the proper nouns or named entities  
-4) Run a sentiment analysis on those adjective modifiers  
-5) Produce a visual of the propoer nouns or named entities with the most positive and most negative sentiment  
-
-========================================================

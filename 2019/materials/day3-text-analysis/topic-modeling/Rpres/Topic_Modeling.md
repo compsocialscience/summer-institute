@@ -44,7 +44,8 @@ Example: LDA of Scientific Abstracts
 
 Running Your First Topic Model
 ========================================================
-```{r, eval=FALSE}
+
+```r
 library(topicmodels)
 data("AssociatedPress")
 ```
@@ -52,7 +53,8 @@ data("AssociatedPress")
 
 Running Your First Topic Model
 ========================================================
-```{r, eval=FALSE}
+
+```r
 AP_topic_model<-LDA(AssociatedPress, k=10, control = list(seed = 321))
 ```
 
@@ -60,7 +62,8 @@ AP_topic_model<-LDA(AssociatedPress, k=10, control = list(seed = 321))
 
 Running Your First Topic Model
 ========================================================
-```{r, message=FALSE, warning=FALSE, eval=FALSE}
+
+```r
 library(tidytext)
 library(dplyr)
 library(ggplot2)
@@ -79,7 +82,8 @@ ap_top_terms <-
 
 Plot
 ========================================================
-```{r, eval=FALSE}
+
+```r
 ap_top_terms %>%
   mutate(term = reorder(term, beta)) %>%
   ggplot(aes(term, beta, fill = factor(topic))) +
@@ -106,17 +110,18 @@ Structural Topic Modeling
 Political Blogs Data
 ========================================================
 
-```{r, eval=FALSE}
+
+```r
 google_doc_id <- "1LcX-JnpGB0lU1iDnXnxB6WFqBywUKpew" # google file ID
 poliblogs<-read.csv(sprintf("https://docs.google.com/uc?id=%s&export=download", google_doc_id), stringsAsFactors = FALSE)
-
 ```
 
 
 Pre-Process
 ========================================================
 
-```{r, eval=FALSE}
+
+```r
 library(stm)
 processed <- textProcessor(poliblogs$documents, metadata = poliblogs)
 ```
@@ -124,7 +129,8 @@ processed <- textProcessor(poliblogs$documents, metadata = poliblogs)
 Pre-Process
 ========================================================
 
-```{r, eval=FALSE} 
+
+```r
 out <- prepDocuments(processed$documents, processed$vocab, processed$meta)
 docs <- out$documents
 vocab <- out$vocab
@@ -135,7 +141,8 @@ meta <-out$meta
 Running a Structural Topic Model
 ========================================================
 
-```{r, message=FALSE, warning=FALSE, eval=FALSE}
+
+```r
 First_STM <- stm(documents = out$documents, vocab = out$vocab,
               K = 10, prevalence =~ rating + s(day) ,
               max.em.its = 75, data = out$meta,
@@ -145,7 +152,8 @@ First_STM <- stm(documents = out$documents, vocab = out$vocab,
 Plot Top Words
 ========================================================
 
-```{r, eval=FALSE}
+
+```r
 plot(First_STM)
 ```
 
@@ -156,7 +164,8 @@ Plot
 Find Exemplary Passages
 ========================================================
 
-```{r, eval=FALSE}
+
+```r
 findThoughts(First_STM, texts = poliblogs$documents,
      n = 2, topics = 3)
 ```
@@ -166,7 +175,8 @@ findThoughts(First_STM, texts = poliblogs$documents,
 Choosing k
 ========================================================
 
-```{r, message=FALSE, warning=FALSE, eval=FALSE}
+
+```r
 findingk <- searchK(out$documents, out$vocab, K = c(10, 30),
  prevalence =~ rating + s(day), data = meta, verbose=FALSE)
 
@@ -179,13 +189,15 @@ Working with meta-data
 
 Working with meta-data
 ========================================================
-```{r, message=FALSE, warning=FALSE, eval=FALSE}
+
+```r
 predict_topics<-estimateEffect(formula = 1:10 ~ rating + s(day), stmobj = First_STM, metadata = out$meta, uncertainty = "Global")
 ```
 
 Plot
 ========================================================
-```{r, eval=FALSE}
+
+```r
 plot(predict_topics, covariate = "rating", topics = c(3, 5, 9),
  model = First_STM, method = "difference",
  cov.value1 = "Liberal", cov.value2 = "Conservative",
@@ -203,7 +215,8 @@ Plot
 Plot Topic Prevalence over TIme
 ========================================================
 
-```{r, eval=FALSE}
+
+```r
 plot(predict_topics, "day", method = "continuous", topics = 3,
 model = z, printlegend = FALSE, xaxt = "n", xlab = "Time (2008)")
 monthseq <- seq(from = as.Date("2008-01-01"),
@@ -211,7 +224,6 @@ to = as.Date("2008-12-01"), by = "month")
 monthnames <- months(monthseq)
 axis(1,at = as.numeric(monthseq) - min(as.numeric(monthseq)),
 labels = monthnames)
-
 ```
 
 
