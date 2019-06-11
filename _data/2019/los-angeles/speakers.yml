@@ -1,8 +1,3 @@
-- name: Gregory DeAngelo
-  image: /2019/los-angeles/images/gdeangelo.jpg
-  bio: "Gregory DeAngelo is an Associate Professor in the Department of Economic Sciences at Claremont Graduate University. He works closely with public sector agencies to address pressing questions of criminal justice policy, identifying the causal effects of actions by both legal and extra‐legal actors on public safety. His research ranges from the identification of the effect of judicial and prosecutorial incentives on the outcomes of criminal cases to the impact of law enforcement strategies on human trafficking. At the core of his work is a desire to advance criminal justice reform by identifying the causal impacts of policies, incentives, and actions by legal and extra‐legal actors on public safety, and then generating technologies with the potential to counteract any negative externalities of these actions."
-  website: http://gregoryjdeangelo.com/index.html
-  
 - name: Tim Dennis
   image: /2019/los-angeles/images/tdennis.png
   bio: "Tim Dennis is the Director of the UCLA Library Data Science Center where he provides data science support, including instruction, one-on-one consulting, and community building. He is a regular user of R, Python, SQL and command-line tools and has extensive experience helping researchers and students with these tools. He's also an instructor with The Carpentries, a global volunteer run educational community that teaches foundational coding and data science skills to researchers."
