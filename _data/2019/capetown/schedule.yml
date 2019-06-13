@@ -9,9 +9,9 @@
   events:
     - name: "9:00-9:15 Logistics (No livestream)"
     - name: "9:15-10:00 Welcome"
-    - name: "10:00-10:45 Introduction to Computational Social Science - Vissého Adjiwanou"
+    - name: "10:00-10:45 Logistics - Vissého Adjiwanou"
     - name: "10:45-11:00 Coffee Break"
-    - name: "11:00-12:00 Sustainable Development Goals and CSS - Vissého Adjiwanou"
+    - name: "11:00-12:00 Introduction to Computational Social Science: an African perspective - Vissého Adjiwanou"
     - name: "12:00-1:00 Lunch"
     - name: "1:00-3:00 Guest speaker and discussion: Tom Moultrie"
 
@@ -23,6 +23,7 @@
 #    - name: "4:45-5:00 Coffee Break"
     - name: "5:30-6:15 Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty (livestream from Princeton)"
     - name: "6:15-8:00 Dinner & discussion"
+    - name: "8:00-10:00 Flash talk and tutorial : R Tidyverse (Optional)"
 
 
 - date: 2019-06-18
@@ -44,6 +45,7 @@
     - name: "4:30-5:00 Application Programming Interfaces (livestream from Princeton)"
     - name: "5:00-6:30 Building Apps and Bots for Social Science Research (livestream from Princeton)"
     - name: "6:30-8:00 Dinner & discussion"
+    - name: "8:00-10:00 Flash talk and tutorial : R Markown (Optional)"
 
 
 - date: 2019-06-19
@@ -65,6 +67,7 @@
     - name: "4:15-5:15 Topic models / Structural Topic Models (livestream from Princeton)"
     - name: "5:20-6:30 Text Networks (livestream from Princeton)"
     - name: "6:30-8:00 Dinner & discussion"
+    - name: "8:00-10:00 Flash talk and tutorial : Graphics in R with ggplot2 (Optional)"
 
 
 - date: 2019-06-20
@@ -84,6 +87,8 @@
     - name: "4:30-5:00 Computer-administered interviews ans wiki surveys (livestream from Princeton)"
     - name: "5:00-6:30 Combining surveys and big data (livestream from Princeton)"
     - name: "6:30-8:00 Dinner & discussion"
+    - name: "8:00-10:00 Flash talk and tutorial : Introduction to Python (Optional)"
+    
 
 
 - date: 2019-06-21
@@ -108,6 +113,7 @@
     - name: 4:45-5:00 Coffee break
     - name: "5:00-6:30 Machine learning (Nick Feamster)"
     - name: "6:30-8:00 Dinner & discussion"
+    - name: "8:00-10:00 Flash talk and tutorial : "
     
 
 - date: 2019-06-22
@@ -147,6 +153,7 @@
     - name: "2:00-2:15 Coffee Break"
     - name: "2:15-6:30 Group project"
     - name: "6:30-8:00 Dinner & discussion"
+    - name: "8:00 - Group project"
     
 - date: 2019-06-25
   name: Work on group projects
@@ -159,6 +166,7 @@
     - name: "2:00-2:15 Coffee Break"
     - name: "2:15-6:30 Group project"
     - name: "6:30-8:00 Dinner & discussion"
+    - name: "8:00 - Group project"
  
 - date: 2019-06-26
   name: Work on group projects
@@ -171,6 +179,7 @@
     - name: "2:00-2:15 Coffee Break"
     - name: "2:15-6:30 Group project"
     - name: "6:30-8:00 Dinner & discussion"
+    - name: "8:00 - Group project"
  
 - date: 2019-06-27
   name: Work on group projects
@@ -183,6 +192,7 @@
     - name: "2:00-2:15 Coffee Break"
     - name: "2:15-6:30 Group project"
     - name: "6:30-8:00 Dinner & discussion"
+    - name: "8:00 - Group project"
    
 - date: 2019-06-28
   name: Work on group projects
@@ -194,7 +204,7 @@
     
     - name: "2:00-2:15 Coffee Break"
     - name: "2:15-5:00 Presentation of group projects and conclusion"
-    - name: "5:00-8:00 Closing dinner "
+    - name: "5:00-8:00 Closing dinner"
   
      
 #    - name: "1:00-4:15 Group project"
