@@ -1,37 +1,37 @@
 - date: 2019-06-16
   name: Participants arrive
   events:
-    - name: "<b>Informal opening dinner</b> (JCR and Fellows' Garden)"
+    - name: "<b>Informal opening dinner</b> (Junior Common Room, Nuffield College)"
       time: "18:30 - 21:30" 
 
 - date: 2019-06-17
   name: "<b>Introduction and Ethics</b> (Department of Sociology, 42-43 Park End Street)"
   events:
-    - name: "<b>Opening remarks</b> by Ridhi Kashyap"
-      time: "09:00 - 09:15"
-    - name: "<b>Housekeeping announcements</b> by Christiaan Monden"
-      time: "09:15 - 09:30"
-    - name: "<b>Introductions of participants</b> (Flashtalks)"
-      time: "09:30 - 13:00"
+    - name: "<b>Intro to SICSS Oxford</b> by Ridhi Kashyap"
+      time: "09:00 - 09:20"
+    - name: "<b>Opening remarks</b> by Christiaan Monden, Head of Department of Sociology"
+      time: "09:20 - 09:30"
+    - name: "<b>Introductions</b> by participants (Flashtalks)"
+      time: "09:30 - 11:15"
     - name: "<b>Coffee break</b>"
-      time: "09:30 - 11:30"
-    - name: "<b>Introductions of participants</b> (Flashtalks)"
+      time: "11:15 - 11:30"
+    - name: "<b>Introductions</b> by participants (Flashtalks)"
       time: "11:30 - 12:30"
-    - name: "<b>Tales from previous SICSS</b> by Francesco Rampazzo & Nicolò Cavalli"
+    - name: "<b>Tales from previous SICSS</b> by Francesco Rampazzo (University of Southampton)"
       time: "12:30 - 13:00"
     - name: "<b>Lunch</b> (Nuffield College)"
-      time: "13:00 - 14:00"
-    - name: "<b>Introduction to Computational Social Science</b> Livestream by Matt Salganik"
+      time: "13:00 - 14:15"
+    - name: "<b>Introduction to Computational Social Science</b> Livestream by Matt Salganik and Chris Bail"
       time: "14:30 - 15:15"
     - name: "<b>Tea break</b>"
       time: "15:15 - 15:30"
     - name: "<b>Research Ethics: Principles-based approach</b> Livestream by Matt Salganik"
       time: "15:30 - 17:30"
     - name: "<b>Dinner</b> (Nuffield College)"
-      time: "18:30 - 19:15"
+      time: "18:00 - 19:00"
 
 - date: 2019-06-18
-  name: "Collecting Digital Trace Data"
+  name: "<b>Collecting Digital Trace Data</b> (Department of Sociology)"
   events:
     - name: "<b>Housekeeping announcements</b>"
       time: "09:00 - 09:15"
@@ -39,21 +39,21 @@
       time: "09:15 - 11:15"
     - name: "<b>Coffee Break</b>"
       time: "11:15 - 11:30"
-    - name: "<b>Talk by Mariarosaria Taddeo</b>"
+    - name: "<b>Talk by Mariarosaria Taddeo</b>, <i>'Ethical challenges of AI'"
       time: "11:30 - 13:00"
     - name: "<b>Lunch</b> (Nuffield College)"
       time: "13:00 - 14:00"
-    - name: "<b>Digital trace data</b> by Ridhi Kashyap"
+    - name: "<b>Digital trace data</b> by Ridhi Kashyap </n> <i>o	What is digital trace data? Pros and cons of digital trace data. Research designs involving digital data.</i>"
       time: "14:00 - 15:15"
     - name: "<b>Tea break</b>"
       time: "15:15 - 15:30"
     - name: "<b>Digital trace data</b> by Ridhi Kashyap"
       time: "15:30 - 17:30"
-    - name: "<b>Dinner</b> (Nuffield College)"
-      time: "18:30 - 19:15"
+    - name: "<b>Dinner and discussion</b> (Nuffield College)"
+      time: "18:00 - 19:00"
 
 - date: 2019-06-19
-  name: "Computational Text Analysis"
+  name: "<b>Computational Text Analysis</b> (Department of Sociology)"
   events:
     - name: "<b>Housekeeping announcements</b>"
       time: "09:00 - 09:15"
@@ -72,7 +72,7 @@
     - name: "<b>Computational Text Analysis</b> by Taylor Brown"
       time: "15:30 - 17:30"
     - name: "<b>Dinner</b> (Nuffield College)"
-      time: "18:30 - 19:15"
+      time: "18:00 - 19:00"
 
 - date: 2019-06-20
   name: "Surveys in the Digital Age"
