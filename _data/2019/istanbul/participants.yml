@@ -9,12 +9,7 @@
   
 - name: Safiya El Ghmari
   image: /2019/istanbul/images/Safiya_EL_GHMARI.jpg
-  bio: "Safiya El Ghmari is currently a doctoral candidate at the National Institute of Territorial and Urban Planning in Rabat. In 2017, she was awarded the Excellence Research Grant from the National Center for Scientific Research and Technology (CNRST). She has a strong background in Architecture, Urban Planning and Design, and a passion for Computational Social Science. Safiya’s current research focuses on exploring and modelling the social dynamics in risk-prone informal urban areas in Morocco. Recently, she has learnt about a set of analytical tools combining both Model Thinking and Network Science that could help better grasp these dynamics in order to enhance life quality inside these settlements such as: Cellular Automata, and Agent-Based Models."
- 
-- name: Gül Günaydın
-  image: /2019/istanbul/images/Gul_Gunaydin.jpg
-  bio: "Gul is an Assistant Professor of Psychology at Bilkent University, Turkey. Before joining Bilkent, she completed her Ph.D. in Psychology at Cornell, with a social and personality psychology concentration and a minor in cognitive science. In her program of research, Gul studies interpersonal relationships from a multimethod, multidisciplinary approach that draws on research, theory, and methods from social and cognitive psychology. Her research has been funded by the Science and Technology Institute of Turkey, the Turkish Academy of Sciences Outstanding Young Scientist Award, and most recently the Turkish Science Academy Young Scientist Program."
-  website: http://gulgunaydin.bilkent.edu.tr/    
+  bio: "Safiya El Ghmari is currently a doctoral candidate at the National Institute of Territorial and Urban Planning in Rabat. In 2017, she was awarded the Excellence Research Grant from the National Center for Scientific Research and Technology (CNRST). She has a strong background in Architecture, Urban Planning and Design, and a passion for Computational Social Science. Safiya’s current research focuses on exploring and modelling the social dynamics in risk-prone informal urban areas in Morocco. Recently, she has learnt about a set of analytical tools combining both Model Thinking and Network Science that could help better grasp these dynamics in order to enhance life quality inside these settlements such as: Cellular Automata, and Agent-Based Models."  
   
 - name: Meltem Odabaş
   image: /2019/istanbul/images/Meltem_Odabas.jpg
@@ -46,11 +41,6 @@
 - name: Melike Ayşe Kocacık
   image: /2019/istanbul/images/Kocacık_Senol.jpg
   bio: "Melike is a Ph.D. candidate in Political Science at Sabancı University. Her main fields of interests are foreign policy analysis and political violence along with quantitative methods. Her interest in computational social science is mostly on automated text analysis. In her thesis, she focuses on the third-party involvement in civil conflict examining via leader statements."
-
-- name: Emre Selçuk
-  image: /2019/istanbul/images/Emre_Selcuk.jpg
-  bio: "Emre Selçuk is associate professor of psychology at Middle East Technical University, Ankara, Turkey. His research examines how we form and maintain social relationships in adulthood and how these relationships affect our health and well-being."
-  website: http://www.emreselcuk.com/
 
 - name: Aycan Katıtaş
   image: /2019/istanbul/images/Aycan_Katitas.jpg
@@ -115,10 +105,6 @@
   image: /2019/istanbul/images/Hossein.PNG
   bio: "Hossein Kermani is a PhD candidate of Social Communication Science at Tehran University, where he received his master degree working on political participation and Facebook usage in Iran. He is currently working on his PhD research project in Department of Political Science at the University of Zurich. Hossein achieved first and second rank in Iranian M.A and PhD entrance exams respectively. His research mainly revolves around the discursive power of social media in making meaning, shaping practices, changing the microphysics of power and playing with the political, cultural and social structures in Iran. Following his interests, Hossein has done several studies to shed light on Iranians’ everyday life on social media. He is also contributing author to the recently published book Social Media in Iran. Moreover, his first book social media research in Iran will be published in 2019. Moreover, he currentlyworks on his second book: Textual Analyses on Social Media."
 
-- name: Onurhan Ak
-  image: /2019/istanbul/images/onurhan_ak.jpg
-  bio: "Onurhan Ak is a master student at Middle East Technical University in Sociology program. He took his bachelor degree from the same department. His main areas of interest are social theory, sociology of knowledge and science and technology studies. More specifically he is interested in tracing the effects of conditions of knowledge production on science and technology. His thesis is concerned with contextualizing the emergence of Computational Social Science and addresses the claims of paradigm shift in social sciences present in the contemporary literature."
-  
 - name: Harun Sencal
   image: /2019/istanbul/images/Harun_Sencal.jpeg
   bio: "Harun Sencal holds a PhD in Islamic Finance from Durham University, UK. He graduated from the Computer Engineering Department of the Yeditepe University in his undergraduate years. He obtained an MBA degree from Yeditepe University and a Masters in Computer Science from Jordan University of Science and Technology. He is a part-time lecturer at Istanbul 29 May University. He teaches both conventional and Islamic economic courses.His main research area includes both qualitative and quantitative aspects of Islamic economics and finance as well as accounting and auditing. In particular, his research focuses on risk aspects of Islamic financial instruments and moral foundations of Islamic financial institutions which are presented in a number of international conferences."

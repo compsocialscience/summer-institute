@@ -1,9 +1,3 @@
-#- date: 2019-06-16
-#  name: "To be announced."
-#  events:
-#    - name: "The schedule will be posted in the coming months."
-- name: "This is a preliminary schedule. Local speakers will be added in the coming weeks"
-
 - date: 2019-06-16
   events:
     - name: Participants arrive
@@ -11,6 +5,7 @@
 - date: 2019-06-17
   name: Introduction and Ethics
   events:
+    - name: "11:00 - 12:15 Apéro"
     - name: "12:15 - 12:50 Introduction to the course"
     - name: "13:00 - 13:50 Participants's small talks (5 people)"
     - name: "13:50 - 14:20 Lunch"
@@ -59,7 +54,7 @@
 - date: 2019-06-22
   name: Experiments
   events:
-    - name: "12:15 - 13:45 Local Activity"
+    - name: "12:15 - 13:45 Introduction to Distributed Computing : Roger Wattenhofer"
     - name: "13:45 - 14:15 Lunch"
     - name: "14:15 - 15:00 Group allocation and discussion"
     - name: "15:15 - 17:00 Experiments (live From Princeton)"
@@ -82,6 +77,8 @@
     - name: "12:15 - 13:45 Introduction to Machine Learning : Elena Labzina (Workshop Part 2)"
     - name: "13:45 - 14:15 Lunch"
     - name: "14:15 - 15:00 Project progress discussion"
+    - name: "18:30 - 19:30 Guest speaker: Chris Wiggins (live From Princeton)"
+
 
 - date: 2019-06-26
   name: Work on group projects
@@ -89,7 +86,6 @@
     - name: "12:15 - 13:45 Guest speaker : Dominik Hangartner "
     - name: "13:45 - 14:15 Lunch"
     - name: "14:15 - 15:00 Project progress discussion"
-    - name: "18:30 - 19:30 Guest speaker: Chris Wiggins (live From Princeton)"
 
 
 - date: 2019-06-27

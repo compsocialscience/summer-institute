@@ -222,10 +222,14 @@ All slides are released under a <a href="https://creativecommons.org/licenses/by
 #### Slides
 
 *  [Ethics: Principles-based approach and European perspectives](https://github.com/compsocialscience/summer-institute/blob/master/2018/helsinki/slides/ethics.pptx)
-* [What is data?](https://github.com/compsocialscience/summer-institute/blob/master/2018/helsinki/slides/digitaltracedata.pptx))
+* [What is data?](https://github.com/compsocialscience/summer-institute/blob/master/2018/helsinki/slides/digitaltracedata.pptx)
 *  [Qualitative analysis](https://github.com/compsocialscience/summer-institute/blob/master/2018/helsinki/slides/qualitativeanalysis.pptx)
 * [A Few Notes about MTurk](https://github.com/compsocialscience/summer-institute/blob/master/2018/helsinki/slides/mturkcomments.pptx)
 
 #### Code
 
 * [How to use open data and application programming interfaces](https://github.com/compsocialscience/summer-institute/blob/master/2018/helsinki/slides/Using_open_data.ipynb)
+
+#### License
+
+All slides are released under a <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> license, and all code is released under an <a href="https://en.wikipedia.org/wiki/MIT_License">MIT</a> license. Raw materials for many of these slides are available [here](https://github.com/compsocialscience/summer-institute/tree/master/2018/materials/helsinki).
