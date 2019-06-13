@@ -92,13 +92,6 @@ Plot
 ========================================================
 <img src="AP plot.png" height="400" />
 
-Now YOU try it
-========================================================
-1. Pick any of the datasets we’ve collected thus far (or one of the ones listed on the list of crowd-sourced datasets in the first lecture: http://bit.ly/1JA1CF3);
-
-2. Prepare the data so that it can be analyzed in the `topicmodels` package
-
-3. Run three models and try to identify an appropriate value for `k` (the number of topics)
 
 Reading Tea Leaves
 ========================================================

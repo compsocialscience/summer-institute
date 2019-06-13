@@ -192,15 +192,7 @@ Corpus vs. TidyText
 ========================================================
 
 
-========================================================
 
-# **Now YOU Try it!!!**
-
-1) Pick one of the text based datasets we worked with in the last class;
-
-2) Clean the text (remove any unwanted characters);  
-
-3) Create a corpus or Tidytext dataframe
 
 ========================================================
 
@@ -352,16 +344,5 @@ tidy_trump_DTM<-
   cast_dtm(created_at, word, n)
 ```
 
-========================================================
-
-# **Class Exercise**
-
-1) Pick one of the Amazon review datasets from this link: http://jmcauley.ucsd.edu/data/amazon/
-
-2) Create a tidytext dataset of these reviews
-
-3) Count the top five words in the dataset after removing stop words;
-
-4) Create a Document-Term Matrix
 
 

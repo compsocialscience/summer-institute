@@ -1,9 +1,3 @@
-#- date: 2019-06-16
-#  name: "To be announced."
-#  events:
-#    - name: "The schedule will be posted in the coming months."
-- name: "This is a preliminary schedule. Local speakers will be added in the coming weeks"
-
 - date: 2019-06-16
   events:
     - name: Participants arrive
@@ -11,6 +5,7 @@
 - date: 2019-06-17
   name: Introduction and Ethics
   events:
+    - name: "11:00 - 12:15 Apéro"
     - name: "12:15 - 12:50 Introduction to the course"
     - name: "13:00 - 13:50 Participants's small talks (5 people)"
     - name: "13:50 - 14:20 Lunch"
