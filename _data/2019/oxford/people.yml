@@ -163,6 +163,10 @@ participants:
     - name: Giacomo Vagni
       bio: Giacomo is a DPhil candidate in Sociology at Nuffield College, University of Oxford and a member of the Centre for Time Use Research, University College London.  His PhD thesis focuses on the structure of daily life, collective rhythms and the social stratification of time use. His research interests include causal inference, sequence analysis and visual sociology. He holds a BA in Anthropology and Sociology from the Université Libre de Bruxelles and a MA in Sociology from the University of Geneva.
       image: /assets/images/VagniGiacomo.jpg
+      
+    - name: Fjinanda van Klingeren
+      bio: I am DPhil student in Sociology at Nuffield College, researching heterogeneity, trust and cooperation in common pool resource settings. I use laboratory and artefactual field experiments with common pool resource games to analyse human behaviour under different treatments. I'm also interested in agent-based models to analyse behaviour, and hope to apply this to my research.
+      image: /assets/images/vanKlingerenFjinanda.jpg
 
     - name: Mark Verhagen
       bio: Mark Verhagen is an incoming PhD student in Sociology at Nuffield college. He holds Masters in Econometrics (University of Amsterdam) and Sociology (University of Oxford) and is interested in incorporating exciting new quantitative techniques into social science research. Mark has been active in the past years as a data scientist through his companies Delph and Apadana.io, working for municipalities, SME's, research institutes and large corporations to make data an intrinsic part of their business strategy. Academically, his more recent work has focused on law, building large databases of court cases through web scraping and using Machine Learning and NLP techniques to identify determinants of court rulings.
