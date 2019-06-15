@@ -22,7 +22,7 @@ localspeakers:
       image: /assets/images/BarberaPablo.jpg
       bio: Pablo Barberá is an Assistant Professor of Computational Social Science at the London School of Economics. His research develops text and network analysis methods that improve our understanding of how exposure to political information through social media sites affects political behavior. He is also the authors of several R packages that allow scholars to collect and analyze social media data.
       website: http://pablobarbera.com/
-
+      
     - name: David Cox
       image: /assets/images/DavidCox.jpg
       bio: Sir David Cox is a statistician known in particular for the proportional hazards model. This  is widely used in the analysis of survival data and has been applied in the medical, physical, life, earth, and social sciences, as well as engineering fields. His 1972 paper introducing the model and its analysis is one of the 100 most-cited papers of all time for all fields. Cox’s career has included  research positions in  government supported research organizations, as well as  academic appointments at Cambridge, University of North Carolina,  Birkbeck College, Imperial College, and Nuffield College, where he was Warden, 1988-1994. He earned his PhD from the University of Leeds in 1949, after first studying mathematics at St. Johns College, Cambridge. Knighted in 1985, Cox is a fellow of the Royal Society, an honorary fellow of the British Academy and a foreign associate of the U.S. National Academy of Sciences. He has served as president of the Bernoulli Society, Royal Statistical Society and International Statistical Institute. In 2010, Cox received the Copley Medal, the Royal Society’s highest award, and in 2016, the International Prize in Statistics and shared the BBVA Foundation Prize for research in  the physical sciences.
@@ -87,7 +87,11 @@ participants:
     - name: Chris Barrie
       bio: Chris is currently a DPhil Candidate in Sociology at Nuffield College, University of Oxford. From September 2019, he will be Postdoctoral Prize Research Fellow in Sociology at Nuffield. His research interests include protest, conflict, and nationalism in the Middle East and North Africa. In the realm of computational methods, he is particularly interested in historical GIS techniques and the use of social media data.
       image: /assets/images/ChrisBarrie.jpg
-      
+
+    - name: Samira Barzin
+      bio: Samira Barzin is an Assistant Professor at the University of Groningen (The Netherlands). She holds a MSc in Economics from the London School of Economics and Political Science and has recently completed her PhD (Civil Eng.) at Imperial College London. Samira’s research particularly focuses on various topics of economic and international development, particularly its spatial and dynamic components, and transport economics. She is passionate about interdisciplinary work and curious about exploring the novel options big data and computational methods offer for research, particularly for research on data sparse developing countries.
+      image: /assets/images/BarzinSamira.png
+
     - name: Pablo Beytía
       bio: Pablo Beytía is a PhD candidate at the Department of Social Sciences of Humboldt University of Berlin and a DAAD-CONICYT scholarship holder. He is specializing in what might be called ‘digital sociology of knowledge’, with a thesis on how biographical information is being globally structured in multilingual Wikipedia. Pablo was a lecturer at the Catholic University of Chile, director of the Social Research Centre of the international NGO ‘TECHO’, advisor to the Government of Chile, and visiting researcher at the University of Warwick and the Berlin Graduate School of Social Sciences. He is a sociologist and holds a master's degree in both sociology and philosophy.
       image: /assets/images/BeytiaPablo.png
@@ -104,6 +108,10 @@ participants:
       bio: Emmanuelle is a DPhil candidate in Statistical Science at the University of Oxford, where she studies as a Rhodes Scholar.  Before moving to Oxford, she worked as a teaching assistant in the statistics department of the University of Ghana where she had earlier obtained a bachelor’s degree in Mathematics and Statistics. Emmanuelle’s research interests lie in experimental design and statistical epidemiology and her current research explores the links between branching processes and the mechanisms of infectious disease spread in a stochastic environment.  She is also interested in applying statistical methods to increase the impacts of environmental campaigns.
       image: /assets/images/DankwaEmmanuelleAfaribea.jpg
 
+    - name: Arran Davis
+      bio: Arran recently finished his DPhil (PhD) at the Institute of Cognitive and Evolutionary Anthropology, University of Oxford, where he was a Clarendon Scholar. He is now teaching quantitative methods at both the undergraduate and graduate level at Oxford, as well as working part time as a data scientist at TextureAI. Using evolutionary theory to understand human behaviour, he has studied the cultural activities that lead to bonded, cooperative relationships among humans. Arran's DPhil focused on the effects of social relationships on human health and wellbeing. Specifically, he used experimental, observational, and 'big data' approaches to understand how social support and cohesion can enhance the performance of physical exercise through reducing perceptions of pain and fatigue. Particularly relevant to the SICSS, he built social networks using data from over 10 million runs at parkrun (a free, weekly, community based 5 km run that happens at over 600 locations around the world) to demonstrate how the presence of close social relationships can improve run times and exercise adherence. Arran is excited to advance his (largely self taught) knowledge of the network sciences, web scrapping, Python, and R, especially with regard to how these methods and tools can be successfully applied to answering the challenges we face as a society.
+      image: /assets/images/DavisArran.jpg
+      
     - name: Xuejie Ding
       bio: Xuejie Ding is a postdoctoral researcher in the Department of Sociology at the University of Oxford, and a research fellow at Nuffield College. She receives her DPhil from the University of Oxford in 2018. Her research interests are primarily directed towards adopting a sociogenomic approach to bridge the knowledge on contextual, social and biological influences on health and behaviour outcomes. She is particularly interested in applying computational methods to large-scale genetic and behavioural data to understand gene-environment interaction and correlation. 
       image: /assets/images/DingXuejie.jpg
@@ -116,6 +124,14 @@ participants:
       bio: Clemens is a DPhil candidate in Sociology at Green Templeton College, University of Oxford. His recent research focuses on the application of social network analysis to political sociology topics. His thesis focuses on investigating digital media usage by voters and politicians in British politics. His research addresses topics such as political polarization, echo chambers, Brexit, and media diversity.
       image: /assets/images/JarnachClemens.jpg
 
+    - name: Adam Kenny
+      bio: Adam Kenny is a DPhil candidate in Anthropology at the University of Oxford. His doctoral research focuses on the effects of group identity and intergroup competition on human prosociality. He mostly analyses quantitative data generated through field experiments employing behavioural economic games. He also holds a BA in Natural Sciences from the University of Cambridge and an MSc in Human Evolution and Behaviour from University College London.
+      image: /assets/images/KennyAdam.png   
+      
+    - name: Rishemjit Kaur
+      bio: Rishemjit Kaur recently completed her PhD in utilizing the optimization capabilities of human decision making process by understanding their conflicting integrative and individualisation tendencies. She is currently working as a Scientist at CSIR-Central Scientific Instruments Organisation, India. Her research interests include the study of human behaviour, particularly moral behaviour and understanding the inter-cultural differences or similarities using social media data. She is also interested in studying the effects of policy decisions on specific groups, e.g. farmers using big data sources such as "Farmers Call Centre queries" and provide solutions in order to alleviate some of the problems they face.
+      image: /assets/images/KaurRishemjit.jpg
+
     - name: Judith Koops
       bio: Judith Koops is a PhD candidate at the Netherlands Interdisciplinary Demographic Institute in The Hague (The Netherlands). Her research focusses on cross-national differences in the link between childhood disadvantage and family formation of young adults. Judith also works as a researcher for the Generations and Gender Programme (GGP). The GGP is a social science research infrastructure that provides open access micro- and macro-level data with the aim to improve the knowledge base for social science and policymaking in developed, low-fertility, countries. GGP is currently examining the outcomes of a Push-to-Web experiment in three European countries and they will soon conduct a Social Media experiment using the Facebook advertising platform. In 2019, the team will develop infrastructure needed to collect voice recordings during CAPI or CAWI administered interviews of the Generations and Gender Survey.
       image: /assets/images/KoopsJudith.jpg
@@ -123,10 +139,18 @@ participants:
     - name: Kan Li
       bio: Kan Li is a DPhil candidate in international relations at University of Oxford. Her research focuses on applications of agent-based model to international crises and conflicts; her current project studies how challengers alter international status quo through asymmetric military build-up and how this shapes unique dynamics of asymmetric conflicts. Prior to Oxford, she received her Master's degree in political science from the Graduate Institute of International and Development Studies in Geneva, and her Bachelor's degree in economics from the University of Hong Kong.
       image: /assets/images/LiKan.jpg
-      
+
+    - name: Timothy Monteath
+      bio: Timothy Monteath is a PhD student in the Sociology Department at the London School of Economics and is also Researcher in the Department of Law. His doctoral research is focused on the high end of London’s residential property market, and looks at questions of value, ownership and property relations. He maintains a broad interest in broad area housing studies, wealth, inequality and the application of computational methods to research in this area.
+      image: /assets/images/MonteathTimothy.png
+
     - name: Julia Mikolai
       bio: Julia Mikolai is a Research Fellow at the University of St Andrews. Her background is in sociology and demography. Her research interests include partnerships, families, and fertility; residential mobility and housing; life course research; and cross-national comparisons. She uses individual-level longitudinal data and longitudinal methods to study these topics. Previously, she has been a Post-doctoral Research Associate at the University of Liverpool. She holds a PhD in social statistics and demography from the University of Southampton and has studied at Eötvös Loránd University (Budapest), Utrecht University, and the European Doctoral School of Demography (hosted by the Max Planck Institute for Demographic Research and the Centre for Economic Demography at Lund University). 
       image: /assets/images/MikolaiJulia.jpg
+      
+    - name: Tobias Rüttenauer
+      bio: Tobias Rüttenauer completed his PhD in sociology at the University of Kaiserslautern, where he is currently working as a postdoctoral research assistant. In his research, he uses large-scale register-based data to analyse the connection between socio-demographic characteristics and the exposure to environmental pollution, with a particular focus on selective migration processes. He is also working on econometric models for spatial and longitudinal data analysis, and recently published the R package feisr to estimate fixed effects individual slope models.
+      image: /assets/images/RuttenauerTobias.png
       
     - name: Florian Schaffner
       bio: Florian Schaffner is a doctoral student in Politics at Balliol College, University of Oxford. His research interests include political psychology, direct democracy, elections, research methods and data science. In his doctoral research he uses surveys, experiments and quantitative text analysis to study the determinants and consequences of citizens’ perceptions of the integrity and legitimacy of referendums and elections. He holds an MSc in Comparative Politics from the London School of Economics and Political Science (LSE) and a BA in Social Sciences from the University of Zurich.
@@ -139,18 +163,16 @@ participants:
     - name: Giacomo Vagni
       bio: Giacomo is a DPhil candidate in Sociology at Nuffield College, University of Oxford and a member of the Centre for Time Use Research, University College London.  His PhD thesis focuses on the structure of daily life, collective rhythms and the social stratification of time use. His research interests include causal inference, sequence analysis and visual sociology. He holds a BA in Anthropology and Sociology from the Université Libre de Bruxelles and a MA in Sociology from the University of Geneva.
       image: /assets/images/VagniGiacomo.jpg
+      
+    - name: Fjinanda van Klingeren
+      bio: I am DPhil student in Sociology at Nuffield College, researching heterogeneity, trust and cooperation in common pool resource settings. I use laboratory and artefactual field experiments with common pool resource games to analyse human behaviour under different treatments. I'm also interested in agent-based models to analyse behaviour, and hope to apply this to my research.
+      image: /assets/images/vanKlingerenFjinanda.jpg
 
     - name: Mark Verhagen
       bio: Mark Verhagen is an incoming PhD student in Sociology at Nuffield college. He holds Masters in Econometrics (University of Amsterdam) and Sociology (University of Oxford) and is interested in incorporating exciting new quantitative techniques into social science research. Mark has been active in the past years as a data scientist through his companies Delph and Apadana.io, working for municipalities, SME's, research institutes and large corporations to make data an intrinsic part of their business strategy. Academically, his more recent work has focused on law, building large databases of court cases through web scraping and using Machine Learning and NLP techniques to identify determinants of court rulings.
       image: /assets/images/VerhagenMark.jpg
-      
+ 
     - name: Vadim Voskresenskii
       bio: Vadim Voskresenskii is doing PhD in Free University of Berlin and working as a research assistant in Weizenbaum Institute for the Networked Society. His research is focused on how right-wing actors use the affordances of social media platforms for the creation of transnational ties and exchange of information. In the current project, he studies online communities formed by European right-wingers migrating to Russian social media due to the censorship policy on Facebook. In the project, he uses text mining and network analysis methods.
       image: /assets/images/VadimVoskresenskii.jpg
-    
-    - name: 
-      bio: 
-      image:
-    - name: 
-      bio: 
-      image:
+
