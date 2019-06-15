@@ -172,10 +172,10 @@ head(section_of_wikipedia)
 
 ```
 $node
-<pointer: 0x7fd071ec8400>
+<pointer: 0x7fa4e0172a10>
 
 $doc
-<pointer: 0x7fd071eb6150>
+<pointer: 0x7fa4e01a6c10>
 ```
 
 Extracting the Table
@@ -198,11 +198,11 @@ head(health_rankings[,(1:2)])
 6 Antigua and Barbuda                                          48
 ```
 
-When the XPath fails...
+When the XPath Fails...
 ========================================================
 
 
-A more complicated page: www.duke.edu
+A More Complicated Page: www.duke.edu
 ========================================================
 &nbsp; 
 <img src="First_CSS.png" height="600" />
@@ -214,13 +214,13 @@ Selector Gadget
 
 http://selectorgadget.com/
 
-Parsing with the CSS Selector
+Parsing With the CSS Selector
 ========================================================
 <img src="Second_CSS.png" height="600" />
 
 
 
-Parsing with the CSS Selector
+Parsing With the CSS Selector
 ========================================================
 &nbsp; 
 
@@ -278,7 +278,7 @@ remDr <- rD$client
 ```
 
 
-Launch a webpage
+Launch a Webpage
 ========================================================
 &nbsp;
 
@@ -288,7 +288,7 @@ remDr$navigate("https://www.duke.edu")
 ```
 
 
-Navigate to the search bar
+Navigate to the Search Bar
 ========================================================
 &nbsp;
 
@@ -297,7 +297,7 @@ Navigate to the search bar
 search_box <- remDr$findElement(using = 'css selector', 'fieldset input')
 ```
 
-Input a search
+Input a Search
 ========================================================
 &nbsp;
 
@@ -307,11 +307,11 @@ search_box$sendKeysToElement(list("data science", "\uE007"))
 ```
 
 
-Screenscraping within a Loop
+Screenscraping Within a Loop
 ========================================================
 
 
-Screenscraping within a Loop 
+Screenscraping Within a Loop 
 ========================================================
 
 Example (non-functional) code:
