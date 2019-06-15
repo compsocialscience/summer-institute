@@ -73,10 +73,8 @@
   name: Mass Collaboration
   events:
     - name: "9:00 - 9:15 Logistics (*Not open to public/No livestream*)"
-    - name: "9:15 - 9:30 Mass collaboration"
-    - name: "9:30 - 9:45 Human computation"
-    - name: "9:45 - 10:00 Open call"
-    - name: "10:00 - 10:15 Distributed data collection"
+    - name: "9:15 - 9:45 Mass collaboration"
+    - name: "9:45 - 10:15 Quick and dirty introduction to applied predictive modeling"
     - name: "10:15 - 10:30 Coffee break"
     - name: "10:30 - 11:30 Introduction to the Fragile Families Challenge"
     - name: "11:30 - 12:30 Working on the Fragile Families Challenge (*Not open to public/No livestream*)"
