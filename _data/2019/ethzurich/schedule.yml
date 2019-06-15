@@ -7,18 +7,18 @@
   events:
     - name: "11:00 - 12:15 Apéro"
     - name: "12:15 - 12:50 Introduction to the course"
-    - name: "13:00 - 13:50 Participants's small talks (5 people)"
+    - name: "13:00 - 13:50 Participants' small talks (5 people)"
     - name: "13:50 - 14:20 Lunch"
-    - name: "14:20 - 15:10 Participants's small talks (5 people)"
+    - name: "14:20 - 15:10 Participants' small talks (5 people)"
     - name: "15:30 - 18:30 Introduction and Ethics (live From Princeton)"
     - name: "22:00 - 23:30 Guest speaker: Alondra Nelson (live From Princeton)"
 
 - date: 2019-06-18
   name: "Collecting Digital Trace Data"
   events:
-    - name: "12:15 - 13:05 Participants's small talks (5 people)"
+    - name: "12:15 - 13:05 Participants' small talks (5 people)"
     - name: "13:05 - 13:35 Lunch"
-    - name: "13:35 - 14:25 Participants's small talks (5 people)"
+    - name: "13:35 - 14:25 Participants' small talks (5 people)"
     - name: "14:35 - 15:05 Discussion and feedback"
     - name: "15:15 - 18:30 Collecting Digital Trace Data (live From Princeton)"
     - name: "22:00 - 23:30 Guest speaker: Beth Noveck (live From Princeton)"
@@ -101,6 +101,7 @@
     - name: "12:15 - 13:45 Project presentations"
     - name: "13:45 - 14:15 Lunch"
     - name: "14:15 - 15:00 Project presentations"
+    - name: "15:00 - 15:30 Best project award distribution"
 
 - date: 2019-06-29
   events:
