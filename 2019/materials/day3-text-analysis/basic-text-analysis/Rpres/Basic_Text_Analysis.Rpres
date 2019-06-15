@@ -222,7 +222,7 @@ In `tidytext`:
       anti_join(stop_words)
 ```
 
-Inspect top words again
+Inspect Top Words Again
 ========================================================
 &nbsp;
 
@@ -279,11 +279,11 @@ trump_corpus <- tm_map(trump_corpus,  content_transformer(tolower))
 Once again, `tidytext` does this for you.
 
 
-Removing whitespaces
+Removing Whitespaces
 ========================================================
 
 
-Removing whitespaces
+Removing Whitespaces
 ========================================================
 
 In `tm`:

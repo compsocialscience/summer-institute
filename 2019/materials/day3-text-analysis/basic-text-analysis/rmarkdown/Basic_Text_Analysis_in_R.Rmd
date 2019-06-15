@@ -71,7 +71,7 @@ some_text[grep("^[P]", some_text)]
 
 [Here](http://www.rstudio.com/wp-content/uploads/2016/09/RegExCheatsheet.pdf) is a useful cheatsheet that includes more examples of how to use GREP to find patterns in text.
 
-Grep commands are fairly straight forward, and much more powerful and useful for subsetting rows or columns within larger datasets. There is one more concept which is important for you to grasp about GREP, however, which is that certain characters such as `"` confuse the techniques. For example
+GREP commands are fairly straight forward, and much more powerful and useful for subsetting rows or columns within larger datasets. There is one more concept which is important for you to grasp about GREP, however, which is that certain characters such as `"` confuse the techniques. For example
 
 ```{r, eval=FALSE}
 text_chunk<-c("[This Professor is not so Great]")
@@ -88,13 +88,13 @@ gsub('\\[|\\]',"", text_chunk)
 
 # Tokenization
 
-Another important concept that is necessary to master to perform quantitative text analysis is Tokenization. Tokenization refers to the way you are definining the unit of analysis. This might include words, sequences of words, or entire sentences. The figure below provides an example of one way to Tokenize a simple sentence.
+Another important concept that is necessary to master to perform quantitative text analysis is Tokenization. Tokenization refers to the way you are definining the unit of analysis. This might include words, sequences of words, or entire sentences. The figure below provides an example of one way to tokenize a simple sentence.
 
 <br>
 ![](token.png)
 <br>
 
-This figure illustrates the most common way of tokenizing a text---by individual word. Many techniques in quantitative text analysis also analyze what are known as "n-grams" however. Ngrams are simply sequences of words with length "n." For example, the sentence above could be written in ngram form as "the quick brown","quick brown fox", "brown fox jumps" and so on. N-grams can be useful when word-order is important, as I will discuss in additional detail below. For now, let me give you a simple example: "I hate the president" and "I'd hate to be the president."
+This figure illustrates the most common way of tokenizing a text---by individual word. Many techniques in quantitative text analysis also analyze what are known as "n-grams" however. Ngrams are simply sequences of words with length "n." For example, the sentence above could be written in ngram form as "the quick brown", "quick brown fox", "brown fox jumps" and so on. N-grams can be useful when word-order is important, as I will discuss in additional detail below. For now, let me give you a simple example: "I hate the president" and "I'd hate to be the president."
 
 # Creating a Corpus
 
@@ -160,7 +160,7 @@ Before we begin running quantitative analyses of text, we first need to decide p
 
 **Stopwords**
 
-Common words such as "the","and","bot","for","is" etc. are often described as "stop words," meaning that they should not be included in a quantitative text analysis. Removing stop words is fairly easy regardless of whether you are working with a Corpus object or a tidytext object assuming you are working with a widely used language such as English. Let's begin with the former, using the `tm_map` function as follows:
+Common words such as "the", "and", "bot", "for", "is", etc. are often described as "stop words," meaning that they should not be included in a quantitative text analysis. Removing stop words is fairly easy regardless of whether you are working with a Corpus object or a tidytext object assuming you are working with a widely used language such as English. Let's begin with the former, using the `tm_map` function as follows:
 
 ```{r}
 trump_corpus <- tm_map(trump_corpus, removeWords, stopwords("english"))
@@ -226,7 +226,7 @@ trump_corpus <- tm_map(trump_corpus,  content_transformer(tolower))
 
 Once again `tidytext` automatically makes all words lower case.
 
-**Removing whitespaces**  
+**Removing Whitespaces**  
 
 Often, a single white space or group of whitespaces can also be considered to be a "word" within a corpus. To prevent this, do the following with a `Corpus` object:
 
@@ -260,7 +260,7 @@ library(SnowballC)
 
 # The Document-Term Matrix
 
-A final core concept in quantitative text analysis is a Document-Term Matrix. This is a matrix where each word is a row and each colum is a document. The number within each cell describes the number of times the word appears in the document. Many of the most popular forms of text analysis, such as topic models, require a document term matrix.
+A final core concept in quantitative text analysis is a document-term matrix. This is a matrix where each word is a row and each column is a document. The number within each cell describes the number of times the word appears in the document. Many of the most popular forms of text analysis, such as topic models, require a document-term matrix.
 
 To create a document-term matrix from a `Corpus` object, use the following code:
 
@@ -287,6 +287,6 @@ tidy_trump_DTM<-
   cast_dtm(created_at, word, n)
 ```
 
-**Now YOU try it!!!**
+**Now YOU Try It!!!**
 
-Now that we have mastered some basic concepts in text analysis, try a) creating a corpus or tidytext dataset; b) counting the five top words that appear in that dataset after removing stop words; and c) create a Document-Term Matrix.
+Now that we have mastered some basic concepts in text analysis, try a) creating a corpus or tidytext dataset; b) counting the five top words that appear in that dataset after removing stop words; and c) create a document-term matrix.
