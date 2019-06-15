@@ -9,15 +9,23 @@ In this activity, participants will work in groups to deploy an attitude survey 
 
 ### Learning objectives
 
-Designing and deploying a survey; familiarity with MTurk; strengths and weaknesses of non-probability samples; practice weighing non-probability samples; practice collecting data that can be released; practice de-identifying and releasing data
+- Designing and deploying a survey
+- Familiarity with MTurk
+- Strengths and weaknesses of non-probability samples
+- Practice data wrangling and weighing non-probability samples
+- Practice collecting data that can be released
+- Practice de-identifying and releasing data
 
 ### Instruction preparation
 
-To prepare for this activity you should: read the slides that I will use to introduce the activity; prepare one temporary MTurk account for each group that will be collecting data (if funding is available to support this data collection).
+To prepare for this activity you should:
+- Read the slides that I will use to introduce the activity
+- Read the [paper]() that inspired this activity
+- Prepare one temporary MTurk account for each group that will be collecting data (if funding is available to support this data collection)
 
 ### Group formation
 
-Form groups of about 4 - 5 people randomly.  If possible, each group should have one person with experience in surveys and one person with experience in MTurk.
+Form groups of about 5 people randomly.  If possible, each group should have one person with experience in surveys and one person with experience in MTurk.  The more groups you have, the higher the costs of data collection because each group will collect some data.
 
 ### Rough schedule
 
@@ -30,3 +38,11 @@ Break for lunch while data is being collected
 30 minutes: Archive data
 
 15 minutes: Discuss activity
+
+### Notes
+
+- If you are collecting data when many people in the United States might be asleep (or not on MTurk), the data collection might be slower.  You can relax the location requirement if you wish.  The data we collected was from people in the United States, and your participants can do their analysis on that dataset.
+
+- If you do not have money for MTurk fees, you can have participants take the surveys that were created by other groups.
+
+- This activity asks groups to document and release the data that they collect.  If you have any doubts about privacy, just don't release the data but turn it into a teachable moment.
