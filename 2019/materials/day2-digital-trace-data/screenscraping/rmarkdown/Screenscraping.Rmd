@@ -116,7 +116,7 @@ The next step is to identify a string of numbers and letters called the "Xpath" 
 Now that I have the xpath, I can use this information to narrow my search within the HTML file for the Table that I want to extract using the `html_nodes` function which passess the xpath as an argument as pictured in the code below:
 
 ```{r}
-section_of_wikipedia<-html_node(wikipedia_page, xpath='//*[@id="mw-content-text"]/div/table')
+section_of_wikipedia<-html_node(wikipedia_page, xpath='//*[@id="mw-content-text"]/div/table[2]')
 head(section_of_wikipedia)
 ```
 

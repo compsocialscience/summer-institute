@@ -159,7 +159,7 @@ Using the XPath
 ========================================================
 &nbsp;
 ```{r}
-section_of_wikipedia<-html_node(wikipedia_page, xpath='//*[@id="mw-content-text"]/div/table')
+section_of_wikipedia<-html_node(wikipedia_page, xpath='//*[@id="mw-content-text"]/div/table[2]')
 head(section_of_wikipedia)
 ```
 

@@ -166,16 +166,16 @@ Using the XPath
 &nbsp;
 
 ```r
-section_of_wikipedia<-html_node(wikipedia_page, xpath='//*[@id="mw-content-text"]/div/table')
+section_of_wikipedia<-html_node(wikipedia_page, xpath='//*[@id="mw-content-text"]/div/table[2]')
 head(section_of_wikipedia)
 ```
 
 ```
 $node
-<pointer: 0x7fa08d251750>
+<pointer: 0x7fd071ec8400>
 
 $doc
-<pointer: 0x7fa08d2423b0>
+<pointer: 0x7fd071eb6150>
 ```
 
 Extracting the Table
@@ -232,9 +232,9 @@ html_text(duke_events)
 ```
 
 ```
-[1] "Fine-Tuned Sense Of Smell Relies On Timing\n\n\t\t\t\t\t\t\t"
-[2] "Visionary Aponte | Lunchtime Artist Tour"                    
-[3] "Stretchable, Color-Changing Wires"                           
+[1] "Is There a Limit to Human Endurance? Science Says Yes\n\n\t\t\t\t\t\t\t"      
+[2] "NASHER CREATES: Sketching in the Galleries with artist Kiki Farish "          
+[3] "Duke Fuqua Insights: What Your Digital Footprint Says About Credit Worthiness"
 ```
 
 
