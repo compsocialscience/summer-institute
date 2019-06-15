@@ -46,3 +46,7 @@ Break for lunch while data is being collected
 - If you do not have money for MTurk fees, you can have participants take the surveys that were created by other groups.
 
 - This activity asks groups to document and release the data that they collect.  If you have any doubts about privacy, just don't release the data but turn it into a teachable moment.
+
+- Some participants might be frustrated that data archiving takes time.  That's OK.  That's an important part of this activity.
+
+- Please help participants have realistic expectations of what can be completed during this actviity.
