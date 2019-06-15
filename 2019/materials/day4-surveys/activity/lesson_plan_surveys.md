@@ -20,7 +20,7 @@ In this activity, participants will work in groups to deploy an attitude survey 
 
 To prepare for this activity you should:
 - Read the slides that I will use to introduce the activity
-- Read the [paper]() that inspired this activity
+- Read the [paper](https://5harad.com/papers/dirtysurveys.pdf) that inspired this activity
 - Prepare one temporary MTurk account for each group that will be collecting data (if funding is available to support this data collection)
 
 ### Group formation
