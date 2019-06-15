@@ -179,14 +179,20 @@ Unfortunately, installing RSelenium can be a bit involved since it requires more
 system('docker run -d -p 4445:4444 selenium/standalone-chrome')
 ```
 
-Next, you will need to install `RSelenium` which is finally again hosted on CRAN. (For a couple of months earlier this year that was not the case, but you were able to use a workaround to install it from Github using the `devtools` package.) After downloading and loading the package, we start the Selenium server and open Chrome with the following commands (Note: If you don't have Chrome installed, you can start Firefox instead using the following command `rD <- rsDriver(browser = "firefox")`:
+Next, you will need to install `RSelenium`, which is finally again hosted on CRAN. (For a couple of months earlier this year that was not the case, but you were able to use a workaround to install it from Github using the `devtools` package.) After downloading and loading the package, we start the Selenium server and open Chrome with commands below (If you don't have Chrome installed, you can start Firefox instead using the following command `rD <- rsDriver(browser = "firefox")`.
+
+Note: When you run the `rsDriver` function to set up an RSelenium session, RSelenium will pick the latest available version of chromedriver by default. Oftentimes this latest version reflects a developer release of Chrome that may not yet be available even as a beta, resulting in an incompatibility that will stop RSelenium from working. To fix this, use `binman::list_versions("chromedriver")` to identify which version of chromedriver matches your installed version of Chrome (in Chrome, select "About Google Chrome" to identify your installed version). Once identified, specify this version as the value of the `chromever` argument in `rsDriver`. [Thanks to this Stack Overflow page for the fix!](https://stackoverflow.com/questions/55201226/session-not-created-this-version-of-chromedriver-only-supports-chrome-version-7/56173984#5617398)
 
 ```{r, eval=FALSE}
 install.packages("RSelenium")
 library(RSelenium)
 
+# Check available versions of chromedriver
+binman::list_versions("chromedriver")
+
 # start a Selenium server
-rD <- rsDriver()
+rD <- rsDriver(browser = c("chrome"), chromever = "75.0.3770.8")
+
 # open the browser
 remDr <- rD$client
 
