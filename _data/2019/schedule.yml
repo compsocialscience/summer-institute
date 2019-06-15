@@ -7,11 +7,11 @@
   events:
     - name: "9:00 - 9:15 Logistics (*Not open to public/No livestream*)"
     - name: "9:15 - 9:30 Introductions (*Not open to public/No livestream*)"
-    - name: "9:30 - 10:00 Introduction to computational social science"
+    - name: "9:30 - 10:00 Introduction to computational social science [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/02-intro-computational-social-science.pdf)"
     - name: "10:00 - 10:30 Why SICSS? [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/day1-intro-ethics/bail_why_sicss/Why_SICSS.html)"
     - name: "10:30 - 10:45 Coffee Break"
-    - name: "10:45 - 11:30 Ethics: Principles-based approach"
-    - name: "11:30 - 12:15 Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty"
+    - name: "10:45 - 11:30 Ethics: Principles-based approach [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/03-ethics.pdf)"
+    - name: "11:30 - 12:15 Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/04-areas-of-difficulty.pdf)"
     - name: "12:15 - 12:30 Introduction to the group exercise"
     - name: "12:30 - 1:30 Lunch (*Not open to public/No livestream*)"
     - name: "1:30 - 3:45 Group exercise [Case study 1](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/activity/ethics_case_study.pdf) [Case study 2](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf) (*Not open to public/No livestream*)"
@@ -30,7 +30,7 @@
     - name: "10:30 - 11:00 Application Programming Interfaces [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/apis/Rpres/APIs.html), [Annotated Code](https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/apis/rmarkdown/Application_Programming_Interfaces.html)"
     - name: "11:00 - 12:30 Building Apps and Bots for Social Science Research [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/building-apps-bots/Rpres/Building_Apps_for_Social _Science_Research.html), [Annotated Code](https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/building-apps-bots/rmarkdown/Building_Apps_and_Bots_for Social_Science_Research.html)"
     - name: "12:30 - 1:30 Lunch (*Not open to public/No livestream*)"
-    - name: "1:30 - 3:45 Group Exercise (*Not open to public/No livestream*)"
+    - name: "1:30 - 3:45 [Group Exercise](https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/Group_Exercise_Day_2.html) (*Not open to public/No livestream*)"
     - name: "3:45 - 4:00 Break"
     - name: "4:00 - 5:30 Guest speaker: Beth Noveck"
     - name: "6:00 - 7:30 Dinner & Discussion (*Not open to public/No livestream*)"
@@ -48,7 +48,7 @@
     - name: "11:20 - 12:30 Text Networks [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/text-networks/Rpres/Text_Networks.html), [Annotated Code](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/text-networks/rmarkdown/Text_Networks.html)"
     - name: "12:30 - 2:00 Lunch and Guest Speaker: Jennifer Pan"
     - name: "2:00 - 2:15 Break"
-    - name: "2:15 - 5:30 Group Exercise (*Not open to public/No livestream*)"
+    - name: "2:15 - 5:30 [Group Exercise](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/SICSS_Group_Exercise_Day_3.html) (*Not open to public/No livestream*)"
     - name: "6:00 - 7:30 Dinner & Discussion (*Not open to public/No livestream*)"
 
 - date: 2019-06-20
