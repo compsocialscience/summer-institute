@@ -1,9 +1,11 @@
 ---
 title: 'Non-probability-based Surveys in Practice'
 author: "Matthew Salganik & Cambria Naslund ^[based on the activities from SICSS 2017 (created by Matthew Salganik and Yo-Yo Chen) and SICSS 2018 (created by Matthew Salganik and Janet Xu).]"
+
 date: "Summer Institute in Computational Social Science 2019"
 output: 
-  pdf_document: 
+  github_document: 
+  pdf_document:
 urlcolor: blue
 ---
 
