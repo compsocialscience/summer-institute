@@ -1,7 +1,10 @@
 Non-probability-based Surveys in Practice
 ================
 Matthew Salganik & Cambria Naslund [1]
+
 Summer Institute in Computational Social Science 2019
+
+
 
 How accurate are estimates from non-probability-based online surveys? Can results from online surveys administered to non-probability-based samples generalize to the broader population? In this activity, we will conduct a survey on MTurk workers and try a variety of estimation techniques. Then, we will compare our estimates to those that come from high-quality probability-based samples used by the Pew Research Center.
 
@@ -14,14 +17,14 @@ Before group activity
 
 -   Read Chapter 3 in [*Bit by Bit*](https://www.bitbybitbook.com/)
 -   Read the paper that motivated this activity: [*Online, Opt-in Surveys: Fast and Cheap, but are they Accurate?*](https://5harad.com/papers/dirtysurveys.pdf) by Goel et al. In this paper, the researchers conduct an opt-in, non-probability survey of people on MTurk. They compared the raw sample estimates and those made after various weighting adjustments to estimates that come from surveys using probability-based sampling methods.
--   We have already conducted a survey with a large MTurk sample with questions similar to the ones used by Goel et al. You are welcome to use [this data](https://github.com/compsocialscience/summer-institute/raw/master/2019/materials/day4-surveys/activity/cleaned_mturk_jun14_data.csv) to try more advanced estimation estimates. Please review [the survey](https://github.com/compsocialscience/summer-institute/raw/master/2019/materials/day4-surveys/activity/sicss_google_forms_survey.pdf) we used to collect these responses. You will be added as collaborators on Google Forms and can use our survey as a template for yours. We administered a selection of questions from the [*March 2019 Pew Political Survey*](https://www.pewresearch.org/category/publications/project/u-s-politics/2019/), but you are welcome to administer and analyze questions from the Pew survey that we did not ask. [2]
+-   We have already conducted a survey with a large MTurk sample with questions similar to the ones used by Goel et al. You are welcome to use [this data](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/cleaned_mturk_jun14_data.csv) to try more advanced estimation estimates. Please review [the survey](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/sicss_google_forms_survey.pdf) we used to collect these responses. You will be added as collaborators on Google Forms and can use our survey as a template for yours. We administered a selection of questions from the [*March 2019 Pew Political Survey*](https://www.pewresearch.org/category/publications/project/u-s-politics/2019/), but you are welcome to administer and analyze questions from the Pew survey that we did not ask. You can also use questions from the [*September 2018 Pew Political Survey*](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/pew2018_sept.pdf). This might be more convenient as all the questions are in a single document.
 
 During group activity
 ---------------------
 
 -   Create a survey on Google Forms. If you want to use our template, **please create a copy of the survey before making your own edits**. If you don't create a copy, everyone else who has the link will have your edits instead of the original survey.
 
-    -   Don’t forget to include demographic questions you will need later for post-stratification. You are provided with [information about the sizes of different demographic groups in the United States](https://github.com/compsocialscience/summer-institute/raw/master/2019/materials/day4-surveys/activity/cleaned_acs17.csv). These population estimates are collected with questions from the [American Community Survey](https://www2.census.gov/programs-surveys/acs/methodology/questionnaires/2017/quest17GQ.pdf).
+    -   Don’t forget to include demographic questions you will need later for post-stratification. You are provided with [information about the sizes of different demographic groups in the United States](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/cleaned_acs17.csv). These population estimates are collected with questions from the [American Community Survey](https://www2.census.gov/programs-surveys/acs/methodology/questionnaires/2017/quest17GQ.pdf).
     -   Include a question asking for workers' MTurk Worker ID. This will help you validate that a worker actually completed the survey and enable you to remove people who took the survey more than once.
     -   In designing your survey, think of ways to ensure the quality of the data collected. For example, use attention screeners, offer the "don't know" options judiciously, think about when to allow respondents to "skip" a question and when to require a response, etc. This should go into your documentation.
     -   Make sure you preview the survey on Google Forms before you publish it on MTurk.
@@ -32,13 +35,13 @@ During group activity
 
     -   Download the CSV of responses from Google Forms.
     -   If you used an attention screener, reject and delete responses that did not meet the criteria.
-    -   Check to make sure that all of your MTurk workers actually took the survey by comparing the list of Worker IDs provided in the survey data against the Worker IDs recorded by the MTurk platform. [3]
+    -   Check to make sure that all of your MTurk workers actually took the survey by comparing the list of Worker IDs provided in the survey data against the Worker IDs recorded by the MTurk platform. [2]
     -   Remove redundant entries, if any.
     -   After you have used the Worker ID data to validate answers and to remove redundant entries, delete it from your dataset. The Worker ID is a unique string that can be used to personally identify people.
 
 -   Analyze your data. Compare your raw and weighted estimates, respectively, with what’s published by the existing survey.
 
-    -   If you use the [survey data we already collected on MTurk](https://github.com/compsocialscience/summer-institute/raw/master/2019/materials/day4-surveys/activity/cleaned_mturk_jun14_data.csv), you can see the results for those questions published by Pew [here](https://github.com/compsocialscience/summer-institute/raw/master/2019/materials/day4-surveys/activity/pew2019_benchmarks.csv). [4]
+    -   If you use the [survey data we already collected on MTurk](https://github.com/compsocialscience/summer-institute/raw/master/2019/materials/day4-surveys/activity/cleaned_mturk_jun14_data.csv), you can see the results for those questions published by Pew [here](https://github.com/compsocialscience/summer-institute/raw/master/2019/materials/day4-surveys/activity/pew2019_benchmarks.csv). [3]
     -   Replicate Figure 1 from [Goel et al.](https://5harad.com/papers/dirtysurveys.pdf)
     -   Next, try different adjustment methods, and for each method you use, replicate Figure 2 from [Goel et al.](https://5harad.com/papers/dirtysurveys.pdf). You will eventually present your figures to the entire class so that we can compare them.
     -   When doing the adjustment methods, you should start with the simplest thing first. Do not jump to the most fancy technique right away. You may use packages, but only after you have coded up at least one technique by hand (if you have coded one of these techniques as part of your earlier research that counts).
@@ -71,8 +74,6 @@ Appendix: Qualtrics-specific instructions
 
 [1] based on the activities from SICSS 2017 (created by Matthew Salganik and Yo-Yo Chen) and SICSS 2018 (created by Matthew Salganik and Janet Xu).
 
-[2] You can also use questions from the [September 2018 Pew Political Survey](https://github.com/compsocialscience/summer-institute/raw/master/2019/materials/day4-surveys/activity/pew2018_sept.pdf). This might be more convenient as results have been released for all questions and they are all in the same document.
+[2] Tip: to validate WorkerID matches, you can download a CSV of WorkerIDs from your MTurk results page and match that with your survey results data.
 
-[3] Tip: to validate WorkerID matches, you can download a CSV of WorkerIDs from your MTurk results page and match that with your survey results data.
-
-[4] *Technical note*: Most survey questions have a "don't know/refuse" residual category, but predicting the percentage of people who refused to answer may not always be substantively relevant. To omit this category from the analysis, we normalized the existing survey results by dividing by the percentage of people who responded to that question.
+[3] *Technical note*: Most survey questions have a "don't know/refuse" residual category, but predicting the percentage of people who refused to answer may not always be substantively relevant. To omit this category from the analysis, we normalized the existing survey results by dividing by the percentage of people who responded to that question.
