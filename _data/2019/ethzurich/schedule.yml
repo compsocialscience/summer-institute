@@ -30,7 +30,7 @@
     - name: "13:45 - 14:15 Lunch"
     - name: "14:15 - 15:00 Discussion of the previous day’s lecture and materials"
     - name: "15:15 - 18:30 Automated Text Analysis (live From Princeton)"
-    - name: "18:30 - 19:30 Guest Speaker: Jennifer Pan (live From Princeton)"
+    - name: "18:30 - 20:00 Guest Speaker: Jennifer Pan (live From Princeton)"
 
 - date: 2019-06-20
   name: Surveys in the Digital Age
@@ -49,7 +49,7 @@
     - name: "13:00 - 13:30 Lunch"
     - name: "13:30 - 15:00 Guest speaker : Dirk Helbing"
     - name: "15:15 - 17:30 Mass collaboration (live From Princeton)"
-    - name: "22:30 - 23:30 Guest speaker: Annie Liang (live From Princeton)"
+    - name: "22:00 - 23:30 Guest speaker: Annie Liang (live From Princeton)"
 
 - date: 2019-06-22
   name: Experiments
@@ -69,7 +69,7 @@
     - name: "12:15 - 13:45 Introduction to Machine Learning : Elena Labzina (Workshop Part 1)"
     - name: "13:45 - 14:15 Lunch"
     - name: "14:15 - 15:00 Project progress discussion"
-    - name: "18:30 - 19:30 Panel of book publishing: Meagan Levinson (Senior Editor, Princeton University Press), Eric Schwartz (Editoral Director, Columbia Univesity Press), and Chris Bail (Editor of the Oxford University Press Series in Computational Social Science) (live From Princeton)"
+    - name: "18:30 - 19:30 Guest speaker: Eric Schwartz (Editorial Director, Columbia University Press) (live From Princeton)"
 
 - date: 2019-06-25
   name: Work on group projects
@@ -77,7 +77,7 @@
     - name: "12:15 - 13:45 Introduction to Machine Learning : Elena Labzina (Workshop Part 2)"
     - name: "13:45 - 14:15 Lunch"
     - name: "14:15 - 15:00 Project progress discussion"
-    - name: "18:30 - 19:30 Guest speaker: Chris Wiggins (live From Princeton)"
+    - name: "18:30 - 20:00 Guest speaker: Chris Wiggins (live From Princeton)"
 
 
 - date: 2019-06-26
