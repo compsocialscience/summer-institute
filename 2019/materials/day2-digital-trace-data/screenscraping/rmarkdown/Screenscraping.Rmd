@@ -40,7 +40,6 @@ If you've identified a web page you'd like to scrape, the first step in writing 
 
 ```{r, messages=FALSE, eval=FALSE}
 install.packages("rvest")
-library(rvest)
 ```
 
 
@@ -140,7 +139,7 @@ In order to practice your new skill, pick another web page and scrape some infor
 
 It is often the case---particularly with more complex web pages--- that the procedures described above will not work. In this case it is useful to know about an alternative to the Xpath code described above: the "CSS Selector," which is another snippet of code that helps you find the nugget of HTML you want to extract from a web page.
 
-Let's look at an example of scraping a list of "events" from [Duke University's main webpage](https://www.duke.edu/). if you visit this page, you will see that the example is considerably more complex than the aforementioned Wikipedia example. There are not only more types of information presented on the page but multiple ways of accessing it. In our hypothetical example, the information we want changes on a daily basis (the list of major events that will occur at Duke on that day). 
+Let's look at an example of scraping a list of "events" from [Duke University's main webpage](https://www.duke.edu/). If you visit this page, you will see that the example is considerably more complex than the aforementioned Wikipedia example. There are not only more types of information presented on the page but multiple ways of accessing it. In our hypothetical example, the information we want changes on a daily basis (the list of major events that will occur at Duke on that day). 
 
 In order to identify the CSS Selector, we are going to employ a popular Chrome plug-in called the [Selector Gadget](http://selectorgadget.com/). This is an interactive tool---not unlike the Chrome Developer Tool described above--- that allows one to interact with a web page in order to reveal the CSS Selector. After installing the tool, a small icon will appear in your Chrome toolbar that is a hand holding a microscope. When you click on this tool, a new pane will appear at the bottom of your browser window that will eventually reveal the CSS Selector-- it can also be used to identify the Xpath, incidentally. This pane is pictured at the bottom of the figure below:
 
