@@ -146,6 +146,8 @@ A document that contains a presentation of your group project that is between 10
 
 4) What are the next steps? 
 
+Note: not all projects will work; if yours fails, please write a post-mortem that explains why.
+
 
 ========================================================
 
