@@ -90,7 +90,8 @@ The `textnets` package provides the following functions:
 Textnets
 ========================================================
 
-```{r, eval=FALSE, message=FALSE, warning=FALSE}
+
+```r
 library(devtools)
 install_github("cbail/textnets")
 ```
@@ -100,7 +101,8 @@ install_github("cbail/textnets")
 Example: State of the Union Addresses
 ========================================================
 
-```{r, message=FALSE, warning=FALSE}
+
+```r
 library(textnets)
 data(sotu)
 ```
@@ -108,14 +110,16 @@ data(sotu)
 Part of Speech Tagging Takes Time...
 ========================================================
 
-```{r, message=FALSE, warning=FALSE}
+
+```r
 sotu_first_speeches <- sotu %>% group_by(president) %>% slice(1L)
 ```
 
 PrepText
 ========================================================
 
-```{r, message=FALSE, warning=FALSE}
+
+```r
 prepped_sotu <- PrepText(sotu_first_speeches, groupvar = "president", textvar = "sotu_text", node_type = "groups", tokenizer = "words", pos = "nouns", remove_stop_words = TRUE, compound_nouns = TRUE)
 ```
 
@@ -123,7 +127,8 @@ prepped_sotu <- PrepText(sotu_first_speeches, groupvar = "president", textvar = 
 Creating Textnets
 ========================================================
 
-```{r}
+
+```r
 sotu_text_network <- CreateTextnet(prepped_sotu)
 ```
 
@@ -132,15 +137,19 @@ sotu_text_network <- CreateTextnet(prepped_sotu)
 Visualize
 ========================================================
 
-```{r, messages=FALSE, warning=FALSE}
+
+```r
 VisTextNet(sotu_text_network, label_degree_cut = 0)
 ```
+
+![plot of chunk unnamed-chunk-6](Text_Networks-figure/unnamed-chunk-6-1.png)
 
 
 Interactive Visualization
 ========================================================
 
-```{r, eval=FALSE}
+
+```r
 library(htmlwidgets)
 vis <- VisTextNetD3(sotu_text_network, 
                       height=300,
@@ -155,9 +164,12 @@ saveWidget(vis, "sotu_textnet.html")
 Choosing Alpha
 ========================================================
 
-```{r, messages=FALSE, warning=FALSE}
+
+```r
 VisTextNet(sotu_text_network, alpha=.1, label_degree_cut = 2)
 ```
+
+![plot of chunk unnamed-chunk-8](Text_Networks-figure/unnamed-chunk-8-1.png)
 
 
 
@@ -170,23 +182,53 @@ Interactive Visualization
 Analyzing Text Networks
 ========================================================
 
-```{r}
+
+```r
 sotu_communities <- TextCommunities(sotu_text_network)
 head(sotu_communities)
+```
+
+```
+              group modularity_class
+1   Abraham Lincoln                3
+2    Andrew Jackson                3
+3    Andrew Johnson                3
+4      Barack Obama                2
+5 Benjamin Harrison                3
+6   Calvin Coolidge                1
 ```
 
 Analyzing Text Networks
 ========================================================
 
-```{r}
+
+```r
 top_words_modularity_classes <- InterpretText(sotu_text_network, prepped_sotu)
 head(top_words_modularity_classes, 10)
+```
+
+```
+# A tibble: 10 x 2
+# Groups:   modularity_class [2]
+   modularity_class lemma        
+   <chr>            <chr>        
+ 1 2                recovery plan
+ 2 1                consolidation
+ 3 1                child labor  
+ 4 1                exploitation 
+ 5 1                readjustment 
+ 6 1                recovery     
+ 7 1                recovery act 
+ 8 1                restoration  
+ 9 1                structure    
+10 2                drug         
 ```
 
 Centrality Measures
 ========================================================
 
-```{r}
+
+```r
 text_centrality <- TextCentrality(sotu_text_network)
 ```
 
