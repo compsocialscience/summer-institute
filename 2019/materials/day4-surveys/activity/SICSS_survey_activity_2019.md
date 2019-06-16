@@ -1,8 +1,6 @@
----
-title: 'Non-probability-based Surveys in Practice'
-author: "Matthew Salganik & Cambria Naslund ^[based on the activities from SICSS 2017 (created by Matthew Salganik and Yo-Yo Chen) and SICSS 2018 (created by Matthew Salganik and Janet Xu).]"
-date: "Summer Institute in Computational Social Science 2019"
----
+# Non-probability-based Surveys in Practice
+## Matthew Salganik & Cambria Naslund ^[based on the activities from SICSS 2017 (created by Matthew Salganik and Yo-Yo Chen) and SICSS 2018 (created by Matthew Salganik and Janet Xu).]
+## Summer Institute in Computational Social Science 2019
 
 How accurate are estimates from non-probability-based online surveys? Can results from online surveys administered to non-probability-based samples generalize to the broader population? In this activity, we will conduct a survey on MTurk workers and try a variety of estimation techniques.  Then, we will compare our estimates to those that come from high-quality probability-based samples used by the Pew Research Center. 
 
@@ -22,29 +20,29 @@ In the process, we will gain experience with writing survey questionnaires, crea
 
 * Create a survey on Google Forms. If you want to use our template, **please create a copy of the survey before making your own edits**. If you don't create a copy, everyone else who has the link will have your edits instead of the original survey.
 
-      - Don’t forget to include demographic questions you will need later for post-stratification. You are provided with [information about the sizes of different demographic groups in the United States](https://github.com/compsocialscience/summer-institute/raw/master/2019/materials/day4-surveys/activity/cleaned_acs17.csv). These population estimates are collected with questions from the [American Community Survey](https://www2.census.gov/programs-surveys/acs/methodology/questionnaires/2017/quest17GQ.pdf). 
-      - Include a question asking for workers' MTurk Worker ID. This will help you validate that a worker actually completed the survey and enable you to remove people who took the survey more than once.
-      - In designing your survey, think of ways to ensure the quality of the data collected. For example, use attention screeners, offer the "don't know" options judiciously, think about when to allow respondents to "skip" a question and when to require a response, etc.  This should go into your documentation.
-      - Make sure you preview the survey on Google Forms before you publish it on MTurk.
+      * Don’t forget to include demographic questions you will need later for post-stratification. You are provided with [information about the sizes of different demographic groups in the United States](https://github.com/compsocialscience/summer-institute/raw/master/2019/materials/day4-surveys/activity/cleaned_acs17.csv). These population estimates are collected with questions from the [American Community Survey](https://www2.census.gov/programs-surveys/acs/methodology/questionnaires/2017/quest17GQ.pdf). 
+      * Include a question asking for workers' MTurk Worker ID. This will help you validate that a worker actually completed the survey and enable you to remove people who took the survey more than once.
+      * In designing your survey, think of ways to ensure the quality of the data collected. For example, use attention screeners, offer the "don't know" options judiciously, think about when to allow respondents to "skip" a question and when to require a response, etc.  This should go into your documentation.
+      * Make sure you preview the survey on Google Forms before you publish it on MTurk.
 
 * Deploy your survey to MTurk.  We estimate that the survey will take about 4-5 minutes (TODO), and we would like to pay an hourly wage of $15 per hour so you should pay $1 per completed survey (TODO). [(Getting great survey results from MTurk and Google Forms)](https://blog.mturk.com/tutorial-getting-great-survey-results-from-mturk-and-google-forms-da4993d878df)
-      - For participants at Princeton location: We have created five MTurk accounts for you to use. Please create your tasks from these accounts with the pre-loaded funds. If you use your own account for data collection, we won't be able to reimburse you.
+      * For participants at Princeton location: We have created five MTurk accounts for you to use. Please create your tasks from these accounts with the pre-loaded funds. If you use your own account for data collection, we won't be able to reimburse you.
 
 
 * After the data has been collected, validate and remove all personally-identifying information: 
 
-      - Download the CSV of responses from Google Forms.
-      - If you used an attention screener, reject and delete responses that did not meet the criteria.
-      - Check to make sure that all of your MTurk workers actually took the survey by comparing the list of Worker IDs provided in the survey data against the Worker IDs recorded by the MTurk platform. ^[Tip: to validate WorkerID matches, you can download a CSV of WorkerIDs from your MTurk results page and match that with your survey results data.] 
-      - Remove redundant entries, if any.
-      - After you have used the Worker ID data to validate answers and to remove redundant entries, delete it from your dataset. The Worker ID is a unique string that can be used to personally identify people.
+      * Download the CSV of responses from Google Forms.
+      * If you used an attention screener, reject and delete responses that did not meet the criteria.
+      * Check to make sure that all of your MTurk workers actually took the survey by comparing the list of Worker IDs provided in the survey data against the Worker IDs recorded by the MTurk platform. ^[Tip: to validate WorkerID matches, you can download a CSV of WorkerIDs from your MTurk results page and match that with your survey results data.] 
+      * Remove redundant entries, if any.
+      * After you have used the Worker ID data to validate answers and to remove redundant entries, delete it from your dataset. The Worker ID is a unique string that can be used to personally identify people.
   
 * Analyze your data. Compare your raw and weighted estimates, respectively, with what’s published by the existing survey. 
     
-      - If you use the [survey data we already collected on MTurk](https://github.com/compsocialscience/summer-institute/raw/master/2019/materials/day4-surveys/activity/cleaned_mturk_jun14_data.csv), you can see the results for those questions published by Pew [here](https://github.com/compsocialscience/summer-institute/raw/master/2019/materials/day4-surveys/activity/pew2019_benchmarks.csv). ^[*Technical note*: Most survey questions have a "don't know/refuse" residual category, but predicting the percentage of people who refused to answer may not always be substantively relevant. To omit this category from the analysis, we normalized the existing survey results by dividing by the percentage of people who responded to that question.]
-      - Replicate Figure 1 from [Goel et al.](https://5harad.com/papers/dirtysurveys.pdf)
-      - Next, try different adjustment methods, and for each method you use, replicate Figure 2 from [Goel et al.](https://5harad.com/papers/dirtysurveys.pdf). You will eventually present your figures to the entire class so that we can compare them.
-      - When doing the adjustment methods, you should start with the simplest thing first.  Do not jump to the most fancy technique right away.  You may use packages, but only after you have coded up at least one technique by hand (if you have coded one of these techniques as part of your earlier research that counts).  
+      * If you use the [survey data we already collected on MTurk](https://github.com/compsocialscience/summer-institute/raw/master/2019/materials/day4-surveys/activity/cleaned_mturk_jun14_data.csv), you can see the results for those questions published by Pew [here](https://github.com/compsocialscience/summer-institute/raw/master/2019/materials/day4-surveys/activity/pew2019_benchmarks.csv). ^[*Technical note*: Most survey questions have a "don't know/refuse" residual category, but predicting the percentage of people who refused to answer may not always be substantively relevant. To omit this category from the analysis, we normalized the existing survey results by dividing by the percentage of people who responded to that question.]
+      * Replicate Figure 1 from [Goel et al.](https://5harad.com/papers/dirtysurveys.pdf)
+      * Next, try different adjustment methods, and for each method you use, replicate Figure 2 from [Goel et al.](https://5harad.com/papers/dirtysurveys.pdf). You will eventually present your figures to the entire class so that we can compare them.
+      * When doing the adjustment methods, you should start with the simplest thing first.  Do not jump to the most fancy technique right away.  You may use packages, but only after you have coded up at least one technique by hand (if you have coded one of these techniques as part of your earlier research that counts).  
 
 * Prepare your data for dissemination and open sourcing so that it can be used by others. ([Some best practices](https://www.icpsr.umich.edu/icpsrweb/content/deposit/guide/chapter3docs.html) for preparing survey metadata).  We will talk about this in the afternoon using [these slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/06-intro-to-open-sourcing-data.pdf).
 
@@ -68,15 +66,12 @@ In the process, we will gain experience with writing survey questionnaires, crea
 
 * Berinsky, Margolis, and Sances ["Separating the Shirkers from the Workers? Making Sure Respondents Pay Attention on Self‐Administered Surveys"](https://doi.org/10.1111/ajps.12081)
 
-\newpage
-
-
 ## Appendix: Qualtrics-specific instructions
 
 
 * If you are using Qualtrics instead of Google Forms, you do not have to include a question on the survey asking for MTurk Worker ID. Instead, you can verify survey completion by generating a unique validation code for each survey respondent, and have them enter that on MTurk instead. 
 
-  - Here are [detailed instructions](https://tylerburleigh.com/mturk/survey-completion-codes-in-qualtrics/) for generating survey completion codes.
+  * Here are [detailed instructions](https://tylerburleigh.com/mturk/survey-completion-codes-in-qualtrics/) for generating survey completion codes.
   
   
 * Qualtrics has more features and customizable options -- for example, you can randomize the response options to a survey question or enable more sophisticated skip logic. Try playing around with these!
