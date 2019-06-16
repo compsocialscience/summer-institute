@@ -2,9 +2,6 @@
 title: 'Non-probability-based Surveys in Practice'
 author: "Matthew Salganik & Cambria Naslund ^[based on the activities from SICSS 2017 (created by Matthew Salganik and Yo-Yo Chen) and SICSS 2018 (created by Matthew Salganik and Janet Xu).]"
 date: "Summer Institute in Computational Social Science 2019"
-output: 
-  pdf_document: 
-urlcolor: blue
 ---
 
 How accurate are estimates from non-probability-based online surveys? Can results from online surveys administered to non-probability-based samples generalize to the broader population? In this activity, we will conduct a survey on MTurk workers and try a variety of estimation techniques.  Then, we will compare our estimates to those that come from high-quality probability-based samples used by the Pew Research Center. 
@@ -16,7 +13,9 @@ In the process, we will gain experience with writing survey questionnaires, crea
 ## Before group activity 
 
 * Read Chapter 3 in [*Bit by Bit*](https://www.bitbybitbook.com/)
+
 * Read the paper that motivated this activity: [*Online, Opt-in Surveys: Fast and Cheap, but are they Accurate?*](https://5harad.com/papers/dirtysurveys.pdf) by Goel et al.  In this paper, the researchers conduct an opt-in, non-probability survey of people on MTurk.  They compared the raw sample estimates and those made after various weighting adjustments to estimates that come from surveys using probability-based sampling methods.
+
 * We have already conducted a survey with a large MTurk sample with questions similar to the ones used by Goel et al. You are welcome to use [this data](https://github.com/compsocialscience/summer-institute/raw/master/2019/materials/day4-surveys/activity/cleaned_mturk_jun14_data.csv) to try more advanced estimation estimates. Please review [the survey](https://github.com/compsocialscience/summer-institute/raw/master/2019/materials/day4-surveys/activity/sicss_google_forms_survey.pdf) we used to collect these responses. You will be added as collaborators on Google Forms and can use our survey as a template for yours. We administered a selection of questions from the [*March 2019 Pew Political Survey*](https://www.pewresearch.org/category/publications/project/u-s-politics/2019/), but you are welcome to administer and analyze questions from the Pew survey that we did not ask. ^[You can also use questions from the [September 2018 Pew Political Survey](https://github.com/compsocialscience/summer-institute/raw/master/2019/materials/day4-surveys/activity/pew2018_sept.pdf). This might be more convenient as results have been released for all questions and they are all in the same document.]
 
 ## During group activity
@@ -27,6 +26,7 @@ In the process, we will gain experience with writing survey questionnaires, crea
       - Include a question asking for workers' MTurk Worker ID. This will help you validate that a worker actually completed the survey and enable you to remove people who took the survey more than once.
       - In designing your survey, think of ways to ensure the quality of the data collected. For example, use attention screeners, offer the "don't know" options judiciously, think about when to allow respondents to "skip" a question and when to require a response, etc.  This should go into your documentation.
       - Make sure you preview the survey on Google Forms before you publish it on MTurk.
+
 * Deploy your survey to MTurk.  We estimate that the survey will take about 4-5 minutes (TODO), and we would like to pay an hourly wage of $15 per hour so you should pay $1 per completed survey (TODO). [(Getting great survey results from MTurk and Google Forms)](https://blog.mturk.com/tutorial-getting-great-survey-results-from-mturk-and-google-forms-da4993d878df)
       - For participants at Princeton location: We have created five MTurk accounts for you to use. Please create your tasks from these accounts with the pre-loaded funds. If you use your own account for data collection, we won't be able to reimburse you.
 
@@ -51,7 +51,9 @@ In the process, we will gain experience with writing survey questionnaires, crea
 ## Tips and additional resources
 
 * You might want to divide the work among group members, including creating the survey on Google Forms, reshaping data files, breaking up the analysis into modular functions, etc. 
+
 * [Here](https://psrc.princeton.edu/our-services/using-mturk) are some more resources on web surveys and [here](https://mturkpublic.s3.amazonaws.com/docs/MTURK_BP.pdf) is Amazon's best practices for MTurk Requesters.  
+
 * [Here](https://doi.org/10.1177/2515245917747656) is a paper about practical tips for ethical data sharing.
 
 
@@ -59,8 +61,11 @@ In the process, we will gain experience with writing survey questionnaires, crea
 
 
 * Dutwin and Buskirk. ["Apples to Oranges or Gala versus Golden Delicious?: Comparing Data Quality of Nonprobability Internet Samples to Low Response Rate Probability Samples"](https://academic.oup.com/poq/article/81/S1/213/3749202/Apples-to-Oranges-or-Gala-versus-Golden-Delicious) 
+
 * Baker et al. ["Summary Report of the AAPOR Task Force on Non-probability Sampling"](https://academic.oup.com/jssam/article/1/2/90/941418/Summary-Report-of-the-AAPOR-Task-Force-on-Non)
+
 * Kalton and Flores-Cervantes ["Weighting methods"](http://www.jos.nu/Articles/abstract.asp?article=192081)
+
 * Berinsky, Margolis, and Sances ["Separating the Shirkers from the Workers? Making Sure Respondents Pay Attention on Self‐Administered Surveys"](https://doi.org/10.1111/ajps.12081)
 
 \newpage
