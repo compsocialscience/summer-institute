@@ -337,7 +337,7 @@ $(document).ready(function () {
 </div>
 <div id="grep" class="section level1">
 <h1>GREP</h1>
-<p>Another important tool for working with text is GREP, which stands for “Globally search a regular expression and print.” In laymans terms, GREP is a tool that helps you search for the presence of a string of characters that matches a pattern.</p>
+<p>Another important tool for working with text is GREP, which stands for “Globally search a Regular Expression and Print.” In laymans terms, GREP is a tool that helps you search for the presence of a string of characters that matches a pattern.</p>
 <p>To demonstrate why you need to learn some GREP, let’s return to an issue we encountered in a previous tutorial on screen-scraping. In that tutorial, we scraped a Wikipedia page and discovered that there were strange characters such as <code>\t</code> and <code>\n</code> interspersed throughout the text we scraped. At the time, I mentioned that these are html tags, or chunks of code that tell your web browser how to display something (in this case a “tab” space and a new line).</p>
 <p>Let’s create a character string that includes such characters as follows (the meaning of the text isn’t important- this was scraped from the Duke University web page “Events” section):</p>
 <pre class="r"><code>duke_web_scrape&lt;- &quot;Class of 2018: Senior Stories of Discovery, Learning and Serving\n\n\t\t\t\t\t\t\t&quot; </code></pre>
