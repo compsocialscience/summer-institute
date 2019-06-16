@@ -32,9 +32,9 @@ The number of APIs that are publicly available has expanded dramatically over th
 ![](api_growth.png)
 
 
-# How Does an API work?
+# How Does an API Work?
 
-In order to illustrate how an API works, it will be useful to start with a very simple one. Suppose we want to use the Google Maps API to geo-code a named entity--- or tag the name of a place with latitude and longitude coordinates. The way that we do this, is to write a URL address that a) names the API; and b) includes the text of the query we want to make. If we Googled "Google Maps API Geocode" we would eventually be pointed towards the documentation for that API and learn that The base-URL for the Google Maps API is https://maps.googleapis.com. We want to use the geocoding function of this API, so we need a URL that points to this more specific part of the API: https://maps.googleapis.com/maps/api/geocode/json?address=. We can then add a named entity to the end of the URL such as "Duke" using text that looks something like this: follows: https://maps.googleapis.com/maps/api/geocode/json?address=Duke. This link (with some additional text that I will describe below) produces this output in a web browser:
+In order to illustrate how an API works, it will be useful to start with a very simple one. Suppose we want to use the Google Maps API to geo-code a named entity--- or tag the name of a place with latitude and longitude coordinates. The way that we do this, is to write a URL address that a) names the API; and b) includes the text of the query we want to make. If we Googled "Google Maps API Geocode" we would eventually be pointed towards the documentation for that API and learn that the base-URL for the Google Maps API is https://maps.googleapis.com. We want to use the geocoding function of this API, so we need a URL that points to this more specific part of the API: https://maps.googleapis.com/maps/api/geocode/json?address=. We can then add a named entity to the end of the URL such as "Duke" using text that looks something like this: follows: https://maps.googleapis.com/maps/api/geocode/json?address=Duke. This link (with some additional text that I will describe below) produces this output in a web browser:
 
 <br>
 ![](duke_google.png)
@@ -330,7 +330,7 @@ Next, because our data is so skewed, we could use something like a negative bino
 ```{r}
 
 library(MASS)
-summary(glm.nb(favorite_count~
+summary(glm.nb(retweet_count~
              party+
              followers_count+
              statuses_count+
@@ -340,7 +340,7 @@ summary(glm.nb(favorite_count~
 
 ```
 
-Unsurprisingly, senators who have more followers tend to produce tweets that have more retweets. Those that produce too many tweets (which Twitter calls "statuses") have fewer retweets. Finally, Republicans appear to get fewer retweets than Democrats. This could result from the fact that Twitter users who follow politics--or at least Senators--are more likely to be democrats, or because Democrats produce tweets that are somehow more appealing, or any number of other confounding factors (so we probably shouldn't read too much into this finding without a more careful analysis).
+Unsurprisingly, senators who have more followers tend to produce tweets that have more retweets. Additionally, Republicans appear to get fewer retweets than Democrats. This could result from the fact that Twitter users who follow politics--or at least Senators--are more likely to be Democrats, or because Democrats produce tweets that are somehow more appealing, or any number of other confounding factors (so we probably shouldn't read too much into this finding without a more careful analysis).
 
 # Working with Timestamps
 
@@ -375,7 +375,9 @@ By now it is hopefully clear that APIs are an invaluable resource for collecting
 There are numerous databases that describe popular APIs on the web, including the aforementioned Programmable Web, but also a variety of crowd-source and user generated lists as well:
 
 https://www.programmableweb.com/
+
 https://github.com/toddmotto/public-apis
+
 https://apilist.fun/
 
 The R OpenSci site also has a list of R packages that work with APIs:
