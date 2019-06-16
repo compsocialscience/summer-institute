@@ -168,7 +168,7 @@ Read the Googlesheet
 library(googlesheets)
 our_interests<-gs_url("https://docs.google.com/spreadsheets/d/1RIeYYvtzEX2kkrXspP2npWBSd9_rRqtw6RywlGvCpsU/edit#gid=0")	
 #organizer, enter your site's sheet name below
-results<-gs_read(our_interests, ws="Princeton")
+results<-gs_read(our_interests, ws="Sample")
 ```
 
 Identify Maximally similar
