@@ -53,7 +53,7 @@ transition: none
 
 <img src="colore_by_nodes_arial.png"/>
 
-3. Group Projects may be the Most Efficient/Effective Way for us to Learn from Each other
+3. Group Projects may be the Most Efficient Way for us to Learn from Each Other
 ========================================================
 
 
@@ -91,6 +91,8 @@ SICSS Group Projects
 
 Research Speed-dating
 ========================================================
+&nbsp;  
+
 1. We crowdsource a list of research interests in a google doc (5 min)
 2. Each person writes a "1" next to their research interests (5 min)
 3. We identify maximally similar clusters of participants
@@ -98,6 +100,8 @@ Research Speed-dating
 
 Research Speed-dating
 ========================================================
+&nbsp;  
+
 1. Maximally similar clusters come up with a group project (30 min)  
 2. Maximally different clusters come up with a group project (30 min)  
 3. We start a new google doc. Each person takes 5 minutes to write down their favorite group project idea  
@@ -106,6 +110,8 @@ Research Speed-dating
 
 Research Speed-dating
 ========================================================
+&nbsp;  
+
 1. Have lunch today with your group in order to begin discussing your project.  
 2. It is ok to change groups until the end of today.
 
