@@ -183,11 +183,6 @@ load("./findingk.Rda")
 plot(findingk)
 ```
 
-
-The next step is to plot the various fit measures:
-
-
-
 Once again, readers should note that these measures are very imperfect, and are not a superior alternative to human validation of the topic models by carefully inspecting not only the top words associated with each document, but also conducting more focused analyses of the documents themselves.
 
 
