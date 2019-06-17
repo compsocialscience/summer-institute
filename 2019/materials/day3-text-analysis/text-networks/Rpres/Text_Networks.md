@@ -38,19 +38,19 @@ What is a Network?
 
 <img src="Community_Structure2.jpg" height="400" />
 
-Two-mode networks
+Two-Mode Networks
 ========================================================
 
-Two-mode networks
+Two-Mode Networks
 ========================================================
 <img src="moon_landing.png" height="00" />
 
-Two-mode networks
+Two-Mode Networks
 ========================================================
 <img src="plot_one.png" height="400" />
 
 
-Two-mode networks
+Two-Mode Networks
 ========================================================
 <img src="plot_two.png" height="400" />
 
@@ -233,14 +233,14 @@ text_centrality <- TextCentrality(sotu_text_network)
 ```
 
 
-Next Steps with TextNets
+Next Steps with Textnets
 ========================================================
 
 <img src="taylor.png" height="400" />
 
 
 
-Next Steps with TextNets
+Next Steps with Textnets
 ========================================================
 
 <img src="signed_conservative.png" height="400" />
