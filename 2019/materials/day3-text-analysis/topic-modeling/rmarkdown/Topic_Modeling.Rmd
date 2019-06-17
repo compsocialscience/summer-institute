@@ -172,15 +172,17 @@ The `stm` package has a useful function called `searchK` which allows the user t
 
 (Note: Running `searchK` on this corpus takes approximately seven hours. In the interest of saving time, you can plot the output of `searchk` using the `load` call below.)
 
-```{r, message=FALSE, warning=FALSE, echo=TRUE, results='hide'}
+```{r, message=FALSE, warning=FALSE, echo=TRUE, eval = FALSE, results='hide'}
 findingk <- searchK(out$documents, out$vocab, K = c(10:30),
  prevalence =~ rating + s(day), data = meta, verbose=FALSE)
+```
 
-# Copy and paste the line below into your console to quickly load the `findingk` object:
-# load("./2019/materials/day3-text-analysis/topic-modeling/rmarkdown/findingk.Rda")
+```{r, message = F, warning = F, echo = T}
+load("./findingk.Rda")
 
 plot(findingk)
 ```
+
 
 The next step is to plot the various fit measures:
 
