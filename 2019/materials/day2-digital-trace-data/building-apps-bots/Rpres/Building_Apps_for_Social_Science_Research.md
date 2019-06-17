@@ -191,8 +191,7 @@ Examples
 ========================================================
 &nbsp; 
 
-[Bail, Christopher A. 2016. "Combining Network Analysis and Natural Language Processing to Examine how Ad-
-vocacy Organizations Stimulate Conversation on Social Media." Proceedings of the National Academy of Sciences, 113:42 11823-11828](http://www.pnas.org/content/pnas/113/42/11823.full.pdf?with-ds=yes)
+[Bail, Christopher A. 2016. "Combining Network Analysis and Natural Language Processing to Examine how Advocacy Organizations Stimulate Conversation on Social Media." Proceedings of the National Academy of Sciences, 113:42 11823-11828](http://www.pnas.org/content/pnas/113/42/11823.full.pdf?with-ds=yes)
 
 [Bail, Christopher A. 2016. "Emotional Feedback and the Viral Spread of Social Media Messages about Autism
 Spectrum Disorders." American Journal of Public Health 106(7): 1173-1180](https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.2016.303181)
