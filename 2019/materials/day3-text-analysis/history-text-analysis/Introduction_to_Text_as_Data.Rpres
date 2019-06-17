@@ -60,7 +60,7 @@ Time | Activity
 1934 | Laswell Produces first Key-Word Count
 1934 | Vygotsky Produces first Quantitative Narrative Analaysis
 1950 | Gottschalk Uses Content Analysis to Track Freudian Themes
-1950 | Turin Applies AI to text
+1950 | Turing Applies AI to text
 1952 | Bereleson Publishes First Textbook on Content Analysis
 1954 | First Automatic Translation of Text (Georgetown Experiment)
 1963 | Msteller and Wallace analyze Federalist Papers
@@ -76,7 +76,7 @@ Time | Activity
 1980 | Decline of Chomskyean Formalism/NLP is Born
 1980 | Machine Learning is Applied to NLP
 1981 | Weintraub counts parts of speech
-1985 | Schrodt Introduces Auomated Event Coding
+1985 | Schrodt Introduces Automated Event Coding
 1986 | Pennebaker develops LIWC
 1989 | Franzosi brings Quantitative Narrative Analysis to Social Science
 
@@ -92,7 +92,7 @@ Time | Activity
 1999 | Bearman et al. apply Network Methods to Narratives
 2001 | Blei et al. develop LDA
 2003 | MALLET created
-2005 | Quin et al use analyze political speeches using topic models
+2005 | Quin et al. use analyze political speeches using topic models
 2010 | King/Hopkins Bring Topic Models into mainstream
 2010 | Tools for Text Workshop at Washington
 
