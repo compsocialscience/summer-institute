@@ -26,7 +26,7 @@ Nevertheless, topic models have two important advantages over simple forms of cl
 
 The second major difference between topic models and conventional cluster analysis is that they employ more sophisticated iterative Bayesian techniques to determine the probability that each document is associated with a given theme or topic. This means that documents are initially given a random probability of being assigned to  topics, but the probabilities become increasingly accurate as more data are processed.
 
-**An example of topic modeling**
+**An Example of Topic Modeling**
 
 To make this discussion more concrete, let's look at an example of topic modeling applied to a corpus of articles from the journal *Science.* This analysis was conducted by David Blei, who was a pioneer in the field of topic modeling.
 
@@ -40,7 +40,7 @@ It is important to note that topic models are no substitute for human interpreta
 
 The most common form of topic modeling is Latent Dirichlet Allocation or LDA. LDA works as follows:
 
-1) First, LDA requires the research to specify a value of *k* or the number of topics in the corpus. In practice, this is a very difficult---and consequential---decision. We will discuss procedures that can be used to identify the appropriate value of *k* in the common scenario where one does not have strong theoretical a priori about the number of latent themes that might exist in a corpus;
+1) First, LDA requires the researcher to specify a value of *k* or the number of topics in the corpus. In practice, this is a very difficult---and consequential---decision. We will discuss procedures that can be used to identify the appropriate value of *k* in the common scenario where one does not have strong theoretical a priori about the number of latent themes that might exist in a corpus;
 
 2) Each word that appears in the corpus is randomly assigned to one of the *k* topics. If you are a stickler for the details, this assignment is technically not random, since it involves a Dirichlet distribution that employs a probability simplex instead of real numbers (this simply means that the numbers assigned across the *k* topics add up to 1)
 
@@ -94,7 +94,7 @@ ap_top_terms %>%
 
 Let's take a moment to review the results. There is some evidence that the words associated with some of the topics cohere into something that could be called a latent theme or topic within the text. For example, topic #1 includes words that are often used to discuss economics and markets and topic #9 appears to describe legal issues. But there are many other topics that don't make much sense. Consider, for example, topic #8, which includes the terms "worker,"two","new","water", and "area" among others.
 
-**Now YOU try it**
+**Now YOU Try It**
 
 1) Pick any of the datasets we've collected thus far (or one of the ones listed on the list of crowd-sourced datasets in the first lecture: http://bit.ly/1JA1CF3);
 
@@ -166,16 +166,23 @@ findThoughts(First_STM, texts = poliblogs$documents,
 ```
 
 
-**Choosing a value for k**
+**Choosing a Value for k**
 
 The `stm` package has a useful function called `searchK` which allows the user to specify a range of values for `k`, runs STM models for each value of 'k', and then outputs multiple goodness-of-fit measures that are very useful in identifying a range of values of `k` that provide the best fit for the data. The syntax of this function is very similar to the `stm` function, except that the user specifies a range for `k` as one of the arguments. In the code below, we search all values of `k` between 7 and 10.
 
-```{r, message=FALSE, warning=FALSE, echo=TRUE, results='hide'}
+(Note: Running `searchK` on this corpus takes approximately seven hours. In the interest of saving time, you can plot the output of `searchk` using the `load` call below.)
+
+```{r, message=FALSE, warning=FALSE, echo=TRUE, eval = FALSE, results='hide'}
 findingk <- searchK(out$documents, out$vocab, K = c(10:30),
  prevalence =~ rating + s(day), data = meta, verbose=FALSE)
+```
+
+```{r, message = F, warning = F, echo = T}
+load("./findingk.Rda")
 
 plot(findingk)
 ```
+
 
 The next step is to plot the various fit measures:
 
@@ -184,7 +191,7 @@ The next step is to plot the various fit measures:
 Once again, readers should note that these measures are very imperfect, and are not a superior alternative to human validation of the topic models by carefully inspecting not only the top words associated with each document, but also conducting more focused analyses of the documents themselves.
 
 
-## Working with meta-data
+## Working with Meta-Data
 
 One of the principal advantages of STM is that one can examine the relationship between topics and various covariates of interest. Here we use the `estimateEffect` function to examine the relationship between the liberal/conservative `rating` variable and the first 10 topics, as well as time (`day`).
 
@@ -219,7 +226,7 @@ labels = monthnames)
 ```
 
 
-## Limitations of topic models
+## Limitations of Topic Models
 
 Topic models have become a standard tool within quantitative text analysis for many different reasons. Topic models can be much more useful than simple word frequency or dictionary based approaches depending upon the use case. Topic models tend to produce the best results when applied to texts that are not too short (such as tweets), and those that have a consistent structure. 
 
