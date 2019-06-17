@@ -62,7 +62,7 @@ trump_tweet_top_words$word <- factor(trump_tweet_top_words$word, levels = trump_
 
 
 library(ggplot2)
-ggplot(top_20, aes(x=word, y=n, fill=word))+
+ggplot(top_20, aes(x=word, y=n))+
   geom_bar(stat="identity")+
   theme_minimal()+
   theme(axis.text.x = element_text(angle = 90, hjust = 1))+

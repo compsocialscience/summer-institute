@@ -127,11 +127,6 @@ top_tfidf$word[1]
 [1] "standforouranthem"
 ```
 
-Now You Try It
-========================================================
-1. Remove all of the stop words from your corpus
-
-2. Plot the most uncommon words using tf-idf
 
 
 Creating your own dictionary
@@ -296,15 +291,6 @@ Plot
 
 ![plot of chunk unnamed-chunk-17](Dictionary_Based_Analysis-figure/unnamed-chunk-17-1.png)
 
-Now You Try It
-========================================================
-Let’s try to build together several of the skills you’ve learned in the course thus far: 
-
-1) Pick another politician or celebrity of interest, such as Hilary Clinton;
-
-2) Grab her 3,000 most recent tweets;
-
-3) See if her approval rating tracks the sentiment of her tweets, or—better yet— create your own custom dictionary to track a variable or variables of interest over time.
 
 Linguistic Inquiry Word Count (LIWC)
 ========================================================

@@ -53,7 +53,7 @@ transition: none
 
 <img src="colore_by_nodes_arial.png"/>
 
-3. Group Projects may be the Most Efficient/Effective Way for us to Learn from Each other
+3. Group Projects may be the Most Efficient Way for us to Learn from Each Other
 ========================================================
 
 
@@ -91,6 +91,8 @@ SICSS Group Projects
 
 Research Speed-dating
 ========================================================
+&nbsp;  
+
 1. We crowdsource a list of research interests in a google doc (5 min)
 2. Each person writes a "1" next to their research interests (5 min)
 3. We identify maximally similar clusters of participants
@@ -98,6 +100,8 @@ Research Speed-dating
 
 Research Speed-dating
 ========================================================
+&nbsp;  
+
 1. Maximally similar clusters come up with a group project (30 min)  
 2. Maximally different clusters come up with a group project (30 min)  
 3. We start a new google doc. Each person takes 5 minutes to write down their favorite group project idea  
@@ -106,6 +110,8 @@ Research Speed-dating
 
 Research Speed-dating
 ========================================================
+&nbsp;  
+
 1. Have lunch today with your group in order to begin discussing your project.  
 2. It is ok to change groups until the end of today.
 
@@ -140,6 +146,8 @@ A document that contains a presentation of your group project that is between 10
 
 4) What are the next steps? 
 
+Note: not all projects will work; if yours fails, please write a post-mortem that explains why.
+
 
 ========================================================
 
@@ -168,7 +176,7 @@ Read the Googlesheet
 library(googlesheets)
 our_interests<-gs_url("https://docs.google.com/spreadsheets/d/1RIeYYvtzEX2kkrXspP2npWBSd9_rRqtw6RywlGvCpsU/edit#gid=0")	
 #organizer, enter your site's sheet name below
-results<-gs_read(our_interests, ws="Princeton")
+results<-gs_read(our_interests, ws="Sample")
 ```
 
 Identify Maximally similar

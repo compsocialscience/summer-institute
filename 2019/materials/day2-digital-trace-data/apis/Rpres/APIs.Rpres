@@ -35,11 +35,11 @@ transition: fade
   Twitter: https://www.twitter.com/chris_bail
 
 
-What is an Application Programming Interface (API)?
+What Is an Application Programming Interface (API)?
 ========================================================
 
 
-What is an Application Programming Interface (API)?
+What Is an Application Programming Interface (API)?
 ========================================================
 
 <img src="APIs diagram.png" height="500" />
@@ -51,7 +51,7 @@ Growth of APIS
 <img src="api_growth.png" height="500" />
 
 
-A list of APIs
+A List of APIs
 ========================================================
 &nbsp; 
 
@@ -59,12 +59,12 @@ There are now nearly 20,000 APIs and counting:
 
 https://www.programmableweb.com/apis/directory
 
-How does an API work?
+How Does an API Work?
 ========================================================
 &nbsp;
 
 
-Simple example with Google Maps API
+Simple Example with Google Maps API
 ========================================================
 
 
@@ -130,7 +130,7 @@ Select Account Type and Describe Use
 
 ![](organization.png)
 
-The Waiting is the Hardest Part...
+The Waiting Is the Hardest Part...
 ========================================================
 
 ![](waiting.png)
@@ -168,7 +168,7 @@ install.packages("rtweet")
 ```
 
 
-Define your Credentials
+Define Your Credentials
 ========================================================
 &nbsp;
 ```{r, eval=FALSE}
@@ -243,7 +243,7 @@ Plot the Results
 &nbsp;
 <img src="tsplot.png" height="500" />
 
-Next, let's search by Location
+Next, Let's Search by Location
 ========================================================
 &nbsp;
 ```{r, eval=FALSE}
@@ -286,7 +286,7 @@ Get Tweets from Individual Account
 <img src="Sanders.png" height="400" />
 
 
-Get General Information about a User
+Get General Information About a User
 ========================================================
 &nbsp;
 ```{r, eval=FALSE}
@@ -417,7 +417,7 @@ for(i in 1:nrow(elected_officials)){
 
 
 
-There are R packages for other APIs
+There Are R Packages for Other APIs
 ========================================================
 &nbsp;
 
@@ -425,7 +425,7 @@ There are R packages for other APIs
 
 **Many more are available but not yet on CRAN (install from github or using devtools)**
 
-There are also APIs that do Analysis for You!
+There Are Also APIs That do Analysis for You!
 ========================================================
 &nbsp;
 
@@ -436,7 +436,7 @@ Challenges of Working with APIs
 ========================================================
 
 
-A list of APIs of interest
+A List of APIs of Interest
 ========================================================
 &nbsp;
 
