@@ -159,7 +159,7 @@ Using the XPath
 ========================================================
 &nbsp;
 ```{r}
-section_of_wikipedia<-html_node(wikipedia_page, xpath='//*[@id="mw-content-text"]/div/table')
+section_of_wikipedia<-html_node(wikipedia_page, xpath='//*[@id="mw-content-text"]/div/table[2]')
 head(section_of_wikipedia)
 ```
 
@@ -172,11 +172,11 @@ health_rankings<-html_table(section_of_wikipedia)
 head(health_rankings[,(1:2)])
 ```
 
-When the XPath fails...
+When the XPath Fails...
 ========================================================
 
 
-A more complicated page: www.duke.edu
+A More Complicated Page: www.duke.edu
 ========================================================
 &nbsp; 
 <img src="First_CSS.png" height="600" />
@@ -188,13 +188,13 @@ Selector Gadget
 
 http://selectorgadget.com/
 
-Parsing with the CSS Selector
+Parsing With the CSS Selector
 ========================================================
 <img src="Second_CSS.png" height="600" />
 
 
 
-Parsing with the CSS Selector
+Parsing With the CSS Selector
 ========================================================
 &nbsp; 
 
@@ -243,7 +243,7 @@ remDr <- rD$client
 ```
 
 
-Launch a webpage
+Launch a Webpage
 ========================================================
 &nbsp;
 
@@ -252,7 +252,7 @@ remDr$navigate("https://www.duke.edu")
 ```
 
 
-Navigate to the search bar
+Navigate to the Search Bar
 ========================================================
 &nbsp;
 
@@ -260,7 +260,7 @@ Navigate to the search bar
 search_box <- remDr$findElement(using = 'css selector', 'fieldset input')
 ```
 
-Input a search
+Input a Search
 ========================================================
 &nbsp;
 
@@ -269,11 +269,11 @@ search_box$sendKeysToElement(list("data science", "\uE007"))
 ```
 
 
-Screenscraping within a Loop
+Screenscraping Within a Loop
 ========================================================
 
 
-Screenscraping within a Loop 
+Screenscraping Within a Loop 
 ========================================================
 
 Example (non-functional) code:

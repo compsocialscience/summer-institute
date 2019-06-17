@@ -260,7 +260,7 @@ tidy_trump_tweets %>%
  8 in     1213
  9 is     1045
 10 for     886
-# ... with 8,680 more rows
+# … with 8,680 more rows
 ```
 
 Corpus vs. TidyText
@@ -299,7 +299,7 @@ In `tidytext`:
       anti_join(stop_words)
 ```
 
-Inspect top words again
+Inspect Top Words Again
 ========================================================
 &nbsp;
 
@@ -324,7 +324,7 @@ tidy_trump_tweets %>%
  8 fake        234
  9 trump       218
 10 country     213
-# ... with 8,111 more rows
+# … with 8,111 more rows
 ```
 
 Remove Punctuation
@@ -378,11 +378,11 @@ trump_corpus <- tm_map(trump_corpus,  content_transformer(tolower))
 Once again, `tidytext` does this for you.
 
 
-Removing whitespaces
+Removing Whitespaces
 ========================================================
 
 
-Removing whitespaces
+Removing Whitespaces
 ========================================================
 
 In `tm`:
