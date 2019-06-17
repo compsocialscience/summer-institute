@@ -172,10 +172,10 @@ head(section_of_wikipedia)
 
 ```
 $node
-<pointer: 0x7fa4e0172a10>
+<pointer: 0x7f980f514410>
 
 $doc
-<pointer: 0x7fa4e01a6c10>
+<pointer: 0x7f980f501fc0>
 ```
 
 Extracting the Table
@@ -233,7 +233,7 @@ html_text(duke_events)
 
 ```
 [1] "Is There a Limit to Human Endurance? Science Says Yes\n\n\t\t\t\t\t\t\t"      
-[2] "NASHER CREATES: Sketching in the Galleries with artist Kiki Farish "          
+[2] "ADF Musicians Concert "                                                       
 [3] "Duke Fuqua Insights: What Your Digital Footprint Says About Credit Worthiness"
 ```
 
@@ -342,7 +342,7 @@ for(i in 1: length(my_list_of_websites)){
 
 
 
-When Should I Use Screen-scraping?
+When Should I Use Screen-Scraping?
 ========================================================
 
 
