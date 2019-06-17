@@ -9,12 +9,13 @@ output:
     toc_depth: '5'
 ---
 <br>
-**[Text as Data Course](https://cbail.github.io/textasdata/Text_as_Data.html)**   
 **Chris Bail, PhD**  
 **Duke University**  
 [www.chrisbail.net](http://www.chrisbail.net)  
 [github.com/cbail](https://github.com/cbail)  
 [twitter.com/chris_bail](https://twitter.com/chris_bail)  
+**[Check out my Text as Data Course](https://cbail.github.io/textasdata/Text_as_Data.html)**   
+
 
 
 ## **What is Screen-Scraping?**
@@ -33,13 +34,12 @@ Screenscraping refers to the process of automatically extracting data from web p
 In the early years of the internet, screen-scraping was a very common practice because there were not yet widespread legal norms surrounding the protection of data on the internet. This has changed drastically in recent decades as the value of data on websites has become obvious, and bots or automated computer programs can easily wreak havoc by collecting data from websites and repurposing it for nefarious purposes. The very first thing you should consider before screen-scraping a website is whether you are allowed to do so. The easiest way to do this is to visit the "Terms of Service" (sometimes abbreviated as "Terms") which often appears at the bottom of a web page. These days, most websites have a "robots.txt" policy that specifies  rules about automated data collection on the site, and an increasing number of sites do not allow such practices (especially larger websites such as Facebook, the New York Times, or Instagram). You should consult professional legal advice to determine whether you have permission to scrape a website.
 
 
-## **Reading a Web-Page into R**
+## **Reading a Web-Page Into R**
 
 If you've identified a web page you'd like to scrape, the first step in writing a screen-scraping program is to download the source code into R. To do this we are going to install the `rvest` package, authored by Hadley Wickham, which provides a number of very useful functions for screen-scraping.
 
 ```{r, messages=FALSE, eval=FALSE}
 install.packages("rvest")
-library(rvest)
 ```
 
 
@@ -115,7 +115,7 @@ The next step is to identify a string of numbers and letters called the "Xpath" 
 Now that I have the xpath, I can use this information to narrow my search within the HTML file for the Table that I want to extract using the `html_nodes` function which passess the xpath as an argument as pictured in the code below:
 
 ```{r}
-section_of_wikipedia<-html_node(wikipedia_page, xpath='//*[@id="mw-content-text"]/div/table')
+section_of_wikipedia<-html_node(wikipedia_page, xpath='//*[@id="mw-content-text"]/div/table[2]')
 head(section_of_wikipedia)
 ```
 
@@ -131,15 +131,15 @@ As the output above shows, I now finally have the data I wanted in the form of a
 
 One final note: often the web page that you wish to scrape will contain XML instead of HTML (or in addition to HTML). In this case, the `rvest` package has a series of functions to parse XML such as `xml` and `xml_node`.
 
-**Now YOU try it!!!**
+**Now YOU Try It!!!**
 
 In order to practice your new skill, pick another web page and scrape some information from it. Hint: if you choose text to scrape, you may find `rvest`'s `html_text` function quite useful. Also, if you are unable to extract the piece of information that you want, it may not be possible, and you might need to use one of the other techniques for screen-scraping described below. 
 
-## **Parsing with the CSS Selector**
+## **Parsing With the CSS Selector**
 
 It is often the case---particularly with more complex web pages--- that the procedures described above will not work. In this case it is useful to know about an alternative to the Xpath code described above: the "CSS Selector," which is another snippet of code that helps you find the nugget of HTML you want to extract from a web page.
 
-Let's look at an example of scraping a list of "events" from [Duke University's main webpage](https://www.duke.edu/). if you visit this page, you will see that the example is considerably more complex than the aforementioned Wikipedia example. There are not only more types of information presented on the page but multiple ways of accessing it. In our hypothetical example, the information we want changes on a daily basis (the list of major events that will occur at Duke on that day). 
+Let's look at an example of scraping a list of "events" from [Duke University's main webpage](https://www.duke.edu/). If you visit this page, you will see that the example is considerably more complex than the aforementioned Wikipedia example. There are not only more types of information presented on the page but multiple ways of accessing it. In our hypothetical example, the information we want changes on a daily basis (the list of major events that will occur at Duke on that day). 
 
 In order to identify the CSS Selector, we are going to employ a popular Chrome plug-in called the [Selector Gadget](http://selectorgadget.com/). This is an interactive tool---not unlike the Chrome Developer Tool described above--- that allows one to interact with a web page in order to reveal the CSS Selector. After installing the tool, a small icon will appear in your Chrome toolbar that is a hand holding a microscope. When you click on this tool, a new pane will appear at the bottom of your browser window that will eventually reveal the CSS Selector-- it can also be used to identify the Xpath, incidentally. This pane is pictured at the bottom of the figure below:
 
@@ -165,7 +165,7 @@ html_text(duke_events)
 As the output above shows, we have now collected information about the events we wanted. Note, however, that it includes some messy characters with backslashes, ts, and ns. These are called "html tags", and we will learn how to clean them up in an upcoming tutorial on basic text processing in R.
 
 
-## **Scraping with Selenium**
+## **Scraping With Selenium**
 
 Sometimes, our interest in scraping web pages involves more interaction with a web browser. For instance, suppose we wanted to visit the main web pages of a series of universities and run a search for "data science." This would require inputting data into a search bar on a series of sites, and then scraping the resultant data. In order to accomplish such tasks, it is ocassionally useful to automate your entire web browser. This means that we will write code that will tell our computer to a) open a web browser; b) load a web page; c) interact with the web page by clicking on the search bar and entering text; and c) downloading the resultant data.
 
@@ -178,14 +178,20 @@ Unfortunately, installing RSelenium can be a bit involved since it requires more
 system('docker run -d -p 4445:4444 selenium/standalone-chrome')
 ```
 
-Next, you will need to install `RSelenium` which is finally again hosted on CRAN. (For a couple of months earlier this year that was not the case, but you were able to use a workaround to install it from Github using the `devtools` package.) After downloading and loading the package, we start the Selenium server and open Chrome with the following commands (Note: If you don't have Chrome installed, you can start Firefox instead using the following command `rD <- rsDriver(browser = "firefox")`:
+Next, you will need to install `RSelenium`, which is finally again hosted on CRAN. (For a couple of months earlier this year that was not the case, but you were able to use a workaround to install it from Github using the `devtools` package.) After downloading and loading the package, we start the Selenium server and open Chrome with commands below (If you don't have Chrome installed, you can start Firefox instead using the following command `rD <- rsDriver(browser = "firefox")`.
+
+Note: When you run the `rsDriver` function to set up an RSelenium session, RSelenium will pick the latest available version of chromedriver by default. Oftentimes this latest version reflects a developer release of Chrome that may not yet be available even as a beta, resulting in an incompatibility that will stop RSelenium from working. To fix this, use `binman::list_versions("chromedriver")` to identify which version of chromedriver matches your installed version of Chrome (in Chrome, select "About Google Chrome" to identify your installed version). Once identified, specify this version as the value of the `chromever` argument in `rsDriver`. [Thanks to this Stack Overflow page for the fix!](https://stackoverflow.com/questions/55201226/session-not-created-this-version-of-chromedriver-only-supports-chrome-version-7/56173984#5617398)
 
 ```{r, eval=FALSE}
 install.packages("RSelenium")
 library(RSelenium)
 
+# Check available versions of chromedriver
+binman::list_versions("chromedriver")
+
 # start a Selenium server
-rD <- rsDriver()
+rD <- rsDriver(browser = c("chrome"), chromever = "75.0.3770.8")
+
 # open the browser
 remDr <- rD$client
 
@@ -213,11 +219,11 @@ search_box$sendKeysToElement(list("data science", "\uE007"))
 This code should result in a search for "data science" within the Duke web page.
 
 
-## **Screenscraping within a Loop**
+## **Screen-Scraping Within a Loop**
 
 Regardless of which approach to screenscraping you use, you will often want to scrape not just one page, but many pages. In this case, you can simply embed any of the techniques above within a `for` loop that reads a list of web pages you wish to scrape. Once again, be aware that websites often have different structures, so the way you extract information on one site may be very different from another. This is one of the main reasons that screen scraping can be difficult--- and also another reason why screenscraping has fallen out of fashion in addition to the legal issues highlighted above. If you do proceed to scrape a large list of web pages, you may want to build in some "error handling" into your code, so that it does not break every time your code does not function---note that some errors may also be created by violating a website's terms of service.
 
-## **So... when should I use screen-scraping?**
+## **So... When Should I Use Screen-Scraping?**
 
 By now it is hopefully clear that screenscraping can often be more trouble than its worth--- particularly in the age of Application Programming Interfaces, which I will discuss in another tutorial. Still, there are some cases where screenscraping remains useful. One ideal use case is where you are scraping different pages within one web site again and again. An example might include a local government website that posts information on events. Such a website may have the same "root" URL, but different suffixes that describe different days, months, etc. Assuming the structure of the pages are identical, one can then write a loop which switches out the end of the URL for different dates (using whatever naming convention is used by the site).
 

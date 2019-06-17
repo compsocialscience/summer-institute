@@ -166,16 +166,16 @@ Using the XPath
 &nbsp;
 
 ```r
-section_of_wikipedia<-html_node(wikipedia_page, xpath='//*[@id="mw-content-text"]/div/table')
+section_of_wikipedia<-html_node(wikipedia_page, xpath='//*[@id="mw-content-text"]/div/table[2]')
 head(section_of_wikipedia)
 ```
 
 ```
 $node
-<pointer: 0x7fa08d251750>
+<pointer: 0x7fa4e0172a10>
 
 $doc
-<pointer: 0x7fa08d2423b0>
+<pointer: 0x7fa4e01a6c10>
 ```
 
 Extracting the Table
@@ -198,11 +198,11 @@ head(health_rankings[,(1:2)])
 6 Antigua and Barbuda                                          48
 ```
 
-When the XPath fails...
+When the XPath Fails...
 ========================================================
 
 
-A more complicated page: www.duke.edu
+A More Complicated Page: www.duke.edu
 ========================================================
 &nbsp; 
 <img src="First_CSS.png" height="600" />
@@ -214,13 +214,13 @@ Selector Gadget
 
 http://selectorgadget.com/
 
-Parsing with the CSS Selector
+Parsing With the CSS Selector
 ========================================================
 <img src="Second_CSS.png" height="600" />
 
 
 
-Parsing with the CSS Selector
+Parsing With the CSS Selector
 ========================================================
 &nbsp; 
 
@@ -232,9 +232,9 @@ html_text(duke_events)
 ```
 
 ```
-[1] "Fine-Tuned Sense Of Smell Relies On Timing\n\n\t\t\t\t\t\t\t"
-[2] "Visionary Aponte | Lunchtime Artist Tour"                    
-[3] "Stretchable, Color-Changing Wires"                           
+[1] "Is There a Limit to Human Endurance? Science Says Yes\n\n\t\t\t\t\t\t\t"      
+[2] "NASHER CREATES: Sketching in the Galleries with artist Kiki Farish "          
+[3] "Duke Fuqua Insights: What Your Digital Footprint Says About Credit Worthiness"
 ```
 
 
@@ -278,7 +278,7 @@ remDr <- rD$client
 ```
 
 
-Launch a webpage
+Launch a Webpage
 ========================================================
 &nbsp;
 
@@ -288,7 +288,7 @@ remDr$navigate("https://www.duke.edu")
 ```
 
 
-Navigate to the search bar
+Navigate to the Search Bar
 ========================================================
 &nbsp;
 
@@ -297,7 +297,7 @@ Navigate to the search bar
 search_box <- remDr$findElement(using = 'css selector', 'fieldset input')
 ```
 
-Input a search
+Input a Search
 ========================================================
 &nbsp;
 
@@ -307,11 +307,11 @@ search_box$sendKeysToElement(list("data science", "\uE007"))
 ```
 
 
-Screenscraping within a Loop
+Screenscraping Within a Loop
 ========================================================
 
 
-Screenscraping within a Loop 
+Screenscraping Within a Loop 
 ========================================================
 
 Example (non-functional) code:

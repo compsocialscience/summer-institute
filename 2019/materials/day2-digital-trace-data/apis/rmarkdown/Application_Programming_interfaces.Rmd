@@ -10,19 +10,19 @@ output:
 ---
 
 <br>
-**[Text as Data Course](https://cbail.github.io/textasdata/Text_as_Data.html)**   
 **Chris Bail, PhD**  
 **Duke University**  
 [www.chrisbail.net](http://www.chrisbail.net)  
 [github.com/cbail](https://github.com/cbail)  
 [twitter.com/chris_bail](https://twitter.com/chris_bail)  
+**[Check out my Text as Data Course](https://cbail.github.io/textasdata/Text_as_Data.html)**   
 
 
 # Introduction
 
 Application Programming Interfaces, or APIs, have become one of the most important ways to access and transfer data online--- and increasingly APIs can even analyze your data as well. Compared to screen-scraping data, which is often illegal, logistically difficult (or both), APIs are a useful tool to make custom requests for data in manner that is well structured and considerably easier to work with than the HTML or XML data described in my previous tutorials on screenscraping. This tutorial assumes basic knowledge about R and other skills described in previous tutorials at the link above.
 
-# What is an Application Programming Interface?
+# What Is an Application Programming Interface?
 
 APIs are tools for building apps or other forms of software that help people access certain parts of large databases. Software developers can combine these tools in various ways---or combine them with tools from other APIs---in order to generate even more useful tools. Most of us use such apps each day. For example, if you install the Spotify app within your Facebook page to share music with your friends, this app is extracting data from Spotify's API and then posting it to your Facebook page by communicating with Facebook's API. There are countless examples of this on the internet at present--- thanks in large part to the advent of Web 2.0, or the historical moment where the internet websites became became much more intertwined and dependent.
 
@@ -32,9 +32,9 @@ The number of APIs that are publicly available has expanded dramatically over th
 ![](api_growth.png)
 
 
-# How does an API work?
+# How Does an API Work?
 
-In order to illustrate how an API works, it will be useful to start with a very simple one. Suppose we want to use the Google Maps API to geo-code a named entity--- or tag the name of a place with latitude and longitude coordinates. The way that we do this, is to write a URL address that a) names the API; and b) includes the text of the query we want to make. If we Googled "Google Maps API Geocode" we would eventually be pointed towards the documentation for that API and learn that The base-URL for the Google Maps API is https://maps.googleapis.com. We want to use the geocoding function of this API, so we need a URL that points to this more specific part of the API: https://maps.googleapis.com/maps/api/geocode/json?address=. We can then add a named entity to the end of the URL such as "Duke" using text that looks something like this: follows: https://maps.googleapis.com/maps/api/geocode/json?address=Duke. This link (with some additional text that I will describe below) produces this output in a web browser:
+In order to illustrate how an API works, it will be useful to start with a very simple one. Suppose we want to use the Google Maps API to geo-code a named entity--- or tag the name of a place with latitude and longitude coordinates. The way that we do this, is to write a URL address that a) names the API; and b) includes the text of the query we want to make. If we Googled "Google Maps API Geocode" we would eventually be pointed towards the documentation for that API and learn that the base-URL for the Google Maps API is https://maps.googleapis.com. We want to use the geocoding function of this API, so we need a URL that points to this more specific part of the API: https://maps.googleapis.com/maps/api/geocode/json?address=. We can then add a named entity to the end of the URL such as "Duke" using text that looks something like this: follows: https://maps.googleapis.com/maps/api/geocode/json?address=Duke. This link (with some additional text that I will describe below) produces this output in a web browser:
 
 <br>
 ![](duke_google.png)
@@ -55,7 +55,7 @@ If you have a Facebook account--- and if you were logged in--- Facebook will gen
 
 Credentials may not only determine your access to people with whom you are connected on a social network, but also other privileges you may have vis-a-vis an API. For example, many APIs charge money for access to their data or services, and thus you will only receive your credentials after setting up an account. As we will see below, some sites also require you to have multiple types of credentials which can be described using a variety of verbiage such as "tokens","keys", or "secrets."
 
-**Now YOU try it!!!**
+**Now YOU Try It!!!**
 
 The Graph API explorer allows you to search for different fields. Take a moment and try to see whether you can make a call for other types of information about yourself. To do this, you'll have to request different levels of "permission" using the dropdown menu on the right hand side of the explorer tool page. You can populate the syntax for different fields using the "search for a field" box on the upper right hand side of the page. Don't worry if you can't get the query language right for now---specifying the syntax of an API call requires mastering each API's documentation, which can take a very long time. This tool tries to help you, but it does not work perfectly and constructing the right call may require spending quite a bit of time reading through the API documentation. More importantly-- as you will soon see-- there are a number of R packages that contain functions that make API calls for you that will save you the time and energy necessary to learn the syntax specific to each API.
 
@@ -92,7 +92,7 @@ Once you accept the terms, your app developer request will go under review by Tw
 ![](waiting.png)
 
 Once your developer account is approved, you can log in once again and click the "Create New App" button at the top right of the screen. Our goal is not to create a fully fledged app at this point, but simply to obtain the credentials necessary to begin making some simple calls to the Twitter API.
-You can name your app whatever you want, describe it however you want, and put in the name of any website you like. The two important things you must do are 1) put the following text in the "Callback URL" text box: `http://127.0.0.1:1410` This number describes the location where the API will return your data-- in this case, it is your web browser (but it could be another site where you want to store the results of the data.); 2) You must uncheck the "Enable Callback Locking" button on the same page. Note: at the time of this writing, Twitter is discussing removing this check box, so you may need to search the documentation of the `rtweet` package on Github or elsewhere for more information if the authentication functions below do not work.
+You can name your app whatever you want, describe it however you want, and put in the name of any website you like. One important thing you must do is to put the following text in the "Callback URL" text box: `http://127.0.0.1:1410` This number describes the location where the API will return your data-- in this case, it is your web browser (but it could be another site where you want to store the results of the data.).
 
 If you followed the steps above, the name of your application should now appear. Click on it, and then click on the "Keys and Access Tokens" tab in order to get your credentials. Unfortunately, Twitter makes developers get two different types of credentials which are listed on that page. These are blurred out in the screenshot below because I do not want people who read this web page to have access to my credneitals, which they could then abuse in various ways: 
 
@@ -189,7 +189,7 @@ with(geocoded, points(lng, lat, pch = 20, cex = .75, col = rgb(0, .3, .7, .75)))
 
 We don't see all 100 tweets in this diagram for an important reason--- we are only looking at people who allow Twitter to track their location (and this is roughly 1 in 100 people at the time of this writing).
 
-Twitter's API is also very useful for collecting data about a given user. Let's take a look at Bernie Sander's Twitter page: http://www.twitter.com/SenSanders. There we can see Senator Sander's description and profile, the full text of his tweets, and---if we click several links---the names of the people he follows, those who follow him, and the tweets which he has "liked."
+Twitter's API is also very useful for collecting data about a given user. Let's take a look at Bernie Sanders's Twitter page: http://www.twitter.com/SenSanders. There we can see Senator Sanders's description and profile, the full text of his tweets, and---if we click several links---the names of the people he follows, those who follow him, and the tweets which he has "liked."
 
 First, let's get his 5 most recent tweets: 
 
@@ -263,11 +263,11 @@ post_tweet("I love APIs")
 
 I have used this function in past work with bots. See for example, [this paper](https://osf.io/preprints/socarxiv/4ygux).
 
-**Now YOU Try it!!!**
+**Now YOU Try It!!!**
 
 To reinforce the skills you've learned in this section, try the following: 1) Collect the most recent 100 tweets from CNN; 2) determine how many people follow CNN on twitter; and, 3) determine if CNN is currently tweeting about any subjects that are trending in your area.
 
-**Wrapping API calls within a Loop**
+**Wrapping API Calls within a Loop**
 
 Very often, one may wish to wrap API calls such as those we have made thus far into a loop to collect data about a long list of users. To illustrate this, let's open a list of the Twitter handles of elected officials in the U.S. that I posted on my Github site:
 
@@ -330,7 +330,7 @@ Next, because our data is so skewed, we could use something like a negative bino
 ```{r}
 
 library(MASS)
-summary(glm.nb(favorite_count~
+summary(glm.nb(retweet_count~
              party+
              followers_count+
              statuses_count+
@@ -340,7 +340,7 @@ summary(glm.nb(favorite_count~
 
 ```
 
-Unsurprisingly, senators who have more followers tend to produce tweets that have more retweets. Those that produce too many tweets (which Twitter calls "statuses") have fewer retweets. Finally, Republicans appear to get fewer retweets than Democrats. This could result from the fact that Twitter users who follow politics--or at least Senators--are more likely to be democrats, or because Democrats produce tweets that are somehow more appealing, or any number of other confounding factors (so we probably shouldn't read too much into this finding without a more careful analysis).
+Unsurprisingly, senators who have more followers tend to produce tweets that have more retweets. Additionally, Republicans appear to get fewer retweets than Democrats. This could result from the fact that Twitter users who follow politics--or at least Senators--are more likely to be Democrats, or because Democrats produce tweets that are somehow more appealing, or any number of other confounding factors (so we probably shouldn't read too much into this finding without a more careful analysis).
 
 # Working with Timestamps
 
@@ -370,12 +370,14 @@ august_tweets<-for_analysis[for_analysis$date>"2018-07-31"&
 By now it is hopefully clear that APIs are an invaluable resource for collecting data from the internet. At the same time, it may also be clear that the process of obtaining credentials, avoiding rate limiting, and understanding the unique jargon employed by those who create each API can mean a lot of hours sifting through the documentation of an API---particularly where there are not well functioning R packages for interfacing with the API in question. If you have to develop your own custom code to work with an API--- or if you need information that is not obtainable using functions within an R package, you may find it useful to browse the source code of the R functions we have discussed above in order to see where they pass the API query language necessary to produce the results we worked with above.
 
 
-# A list of APIs of interest
+# A List of APIs of Interest
 
 There are numerous databases that describe popular APIs on the web, including the aforementioned Programmable Web, but also a variety of crowd-source and user generated lists as well:
 
 https://www.programmableweb.com/
+
 https://github.com/toddmotto/public-apis
+
 https://apilist.fun/
 
 The R OpenSci site also has a list of R packages that work with APIs:
