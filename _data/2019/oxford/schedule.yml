@@ -35,7 +35,7 @@
   events:
     - name: "<b>Housekeeping announcements</b>"
       time: "09:00 - 09:15"
-    - name: "<b>Group exercise</b>, Research Ethics"
+    - name: "<b>Group exercise</b>, Research Ethics [Case Study 1](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/activity/ethics_case_study.pdf), [Case Study 2](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf)"
       time: "09:15 - 11:15"
     - name: "<b>Coffee Break</b>"
       time: "11:15 - 11:30"
