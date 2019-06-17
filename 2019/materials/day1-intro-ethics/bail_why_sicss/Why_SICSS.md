@@ -215,6 +215,8 @@ Accessing Materials
 ========================================================
 Go to this site: https://compsocialscience.github.io/summer-institute/2019/#schedule
 
+&nbsp; 
+
 <embed width="800" height="600" src="https://compsocialscience.github.io/summer-institute/2019/#schedule">
 
 
@@ -235,7 +237,7 @@ Asking Questions to Speakers
 
 To ask a question to a speaker, please choose one of the following options:
 
-a) Post your question to the [sicss2019.slack.com](https:/sicss2019.slack.com) Workspace entitled #speakerquestions;  
+a) Post your question to the [sicss2019.slack.com](https:/sicss2019.slack.com) workspace entitled #speakerquestions;  
 
 b) Tweet your question to [@chris_bail](https://www.twitter.com/chris_bail) or [@msalganik](https://www.twitter.com/msalganik); or
 
@@ -267,7 +269,7 @@ http://bit.ly/2rF78IV
 
 
 
-Open-ness
+Openness
 ========================================================
 
 

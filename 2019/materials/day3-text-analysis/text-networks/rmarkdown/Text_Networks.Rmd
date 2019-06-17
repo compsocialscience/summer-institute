@@ -27,9 +27,9 @@ Network analysis refers to a family of methods that describe relationships betwe
 
 Though network analysis is most often used to describe relationships between people, some of the early pioneers of network analysis realized that it could also be applied to represent relationships between words. For example, one can represent a corpus of documents as a network where each node is a document, and the thickness or strength of the edges between them describes similarities between the words used in any two documents. Or, one can create a textnetwork where individual words are the nodes, and the edges between them describe the regularity with which they co-occur in documents.
 
-There are multiple advantages to a network-based approach to automated text analysis. Just as clusters of social connections can help explain a range of outcomes, understanding patterns of connections between words helps identify their meaning in a more precise manner than the "bag of words" approaches discussed in earlier tutorials. Second, text networks can be built out of documents of any length, whereas topic models function poorly on short texts such as social media messages. Finally, there are an arguably more sophisticated set of techniques for identifying clusters within social networks than those employed in other automated text analysis techniques described in my earlier tutorials.
+There are multiple advantages to a network-based approach to automated text analysis. Just as clusters of social connections can help explain a range of outcomes, understanding patterns of connections between words helps identify their meaning in a more precise manner than the "bag of words" approaches discussed in earlier tutorials. Second, text networks can be built out of documents of any length, whereas topic models function poorly on short texts such as social media messages. Finally, there is an arguably more sophisticated set of techniques for identifying clusters within social networks than those employed in other automated text analysis techniques described in my earlier tutorials.
 
-# Two-mode networks
+# Two-Mode Networks
 
 Before we move on to a working example, we will need to delve a little bit deeper into some terminology from network analysis---specifically, the concept of two-mode networks. To clarify this concept, let's take the example of a network where the first node set is words found in US newspaper headlines on the day of the first moon landing (July 20, 1969), and the second node set is the newspapers themselves. The data would look something like this:
 
@@ -63,7 +63,7 @@ install_github("cbail/textnets")
 ```
 
 
-**An overview of `textnets`**
+**An Overview of `textnets`**
 
 The `textnets` package provides the following functions:
 
@@ -108,7 +108,7 @@ The following code prepares the first State of the Union address for each presid
 sotu_first_speeches <- sotu %>% group_by(president) %>% slice(1L)
 ```
 
-On a 2017 MacBook Pro (with a 2.3 GHz i5 & 8 GB ram), the code below a little less than five minutes to run.
+On a 2017 MacBook Pro (with a 2.3 GHz i5 & 8 GB ram), the code below took a little less than five minutes to run.
 
 ```{r, , message=FALSE, warning=FALSE}
 prepped_sotu <- PrepText(sotu_first_speeches, groupvar = "president", textvar = "sotu_text", node_type = "groups", tokenizer = "words", pos = "nouns", remove_stop_words = TRUE, compound_nouns = TRUE)
@@ -142,14 +142,13 @@ The second visualization function in the textnets package is the `VisTextNetD3` 
 VisTextNetD3(sotu_text_network)
 ```
 
-To save this as an html file for sharing with others or in a presentation, the following can be used. The `height` and `width` parameters are set in pixels, and `bound=TRUE` will prevent the network from dispersing beyond these dimensions. While this may help viewers to see all nodes, it will also cause nodes to cluster at the limits of height and wigth. This can be prevented by increasing the `charge` parameters, which specifies the strength of node repulsion (negative value) or attraction (positive value). The `zoom` parameter indicates whether to allow users to zoom in and out of the network, which can be especially helpful in large networks for exploring clusters.
+To save this as an html file for sharing with others or in a presentation, the following code can be used. The `height` and `width` parameters are set in pixels, and `bound=TRUE` will prevent the network from dispersing beyond these dimensions. While this may help viewers to see all nodes, it will also cause nodes to cluster at the limits of height and width. This can be prevented by increasing the `charge` parameters, which specifies the strength of node repulsion (negative value) or attraction (positive value). The `zoom` parameter indicates whether to allow users to zoom in and out of the network, which can be especially helpful in large networks for exploring clusters.
 
 In order to save this interative visualization as a .html file, users can use the `htmlwidgets` package as follows:
 
 ```{r, eval=FALSE}
 library(htmlwidgets)
 vis <- VisTextNetD3(sotu_text_network, 
-                      prune_cut=.50,
                       height=1000,
                       width=1400,
                       bound=FALSE,
@@ -169,7 +168,7 @@ sotu_communities <- TextCommunities(sotu_text_network)
 head(sotu_communities)
 ```
 
-In order to further understand which terms are driving the clustering of documents or words, the user can use the InterpretText function, which also reads in an object created by the CreateTextnet function and outputs the words with the 10 highest TFIDF frequencies within each cluster or modularity class. In order to match words, the function requires that the user specify the name of the text data frame object used to create the text network-- in this case sotu_text_data (see above).
+In order to further understand which terms are driving the clustering of documents or words, the user can use the `InterpretText` function, which also reads in an object created by the `CreateTextnet` function and outputs the words with the 10 highest TFIDF frequencies within each cluster or modularity class. In order to match words, the function requires that the user specify the name of the text data frame object used to create the text network-- in this case `sotu_text_data` (see above).
 
 ```{r, message=FALSE, warning=FALSE}
 top_words_modularity_classes <- InterpretText(sotu_text_network, prepped_sotu)
@@ -185,9 +184,9 @@ Often in social networks, researchers wish to calculate measures of influence or
 text_centrality <- TextCentrality(sotu_text_network)
 ```
 
-#References
+# References
 
-Bail, Christopher A. 2016. "Combining Network Analysis and Natural Language Processing to Examine how Ad- vocacy Organizations Stimulate Conversation on Social Media." *Proceedings of the National Academy of Sciences*, 113:42 11823-11828
+Bail, Christopher A. 2016. "Combining Network Analysis and Natural Language Processing to Examine how Advocacy Organizations Stimulate Conversation on Social Media." *Proceedings of the National Academy of Sciences*, 113:42 11823-11828
 
 Rule, Alix and Jean-Philippe Cointet and Peter Bearman. 2015. "Lexical shifts, substantive changes, and continuity in the State of the Union Discourse, 1790-2014." *Proceedings of the National Academy of Sciences*
 
