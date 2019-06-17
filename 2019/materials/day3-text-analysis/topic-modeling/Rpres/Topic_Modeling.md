@@ -184,10 +184,15 @@ plot(findingk)
 ```
 
 
-Working with meta-data
+Choosing k
 ========================================================
 
-Working with meta-data
+<img src="searchk_plot.png" height="400" />
+
+Working with Meta-Data
+========================================================
+
+Working with Meta-Data
 ========================================================
 
 ```r
@@ -212,7 +217,7 @@ Plot
 ========================================================
 <img src="lib con.png" height="400" />
 
-Plot Topic Prevalence over TIme
+Plot Topic Prevalence over Time
 ========================================================
 
 
@@ -231,7 +236,7 @@ Plot
 ========================================================
 <img src="topic over time.png" height="400" />
 
-Limitations of topic models
+Limitations of Topic Models
 ========================================================
 
 

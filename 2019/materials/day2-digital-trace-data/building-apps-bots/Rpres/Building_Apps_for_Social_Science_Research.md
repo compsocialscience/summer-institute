@@ -34,7 +34,7 @@ transition: fade
 
 # **Part I: APPS**
 
-Salganik's list of the weaknesses of digital trace data:
+Salganik’s List of the Weaknesses of Digital Trace Data:
 ========================================================
 &nbsp;
 
@@ -47,17 +47,17 @@ Dirty
 Sensitive   
 
 
-But what are the alternatives?
+But What Are the Alternatives?
 ========================================================
 &nbsp;
 
-But what are the alternatives?
+But What Are the Alternatives?
 ========================================================
 &nbsp;
 
 -Survey response rates continue to drop  
 
-But what are the alternatives?
+But What Are the Alternatives?
 ========================================================
 &nbsp;
 
@@ -65,7 +65,7 @@ But what are the alternatives?
 
 -Many of the most important questions require longitudinal/relational/qualitative data  
 
-But what are the alternatives?
+But What Are the Alternatives?
 ========================================================
 &nbsp;
 
@@ -76,11 +76,11 @@ But what are the alternatives?
 -Digital trace data have a number of major advantages that conventional sources do not (big, always on, non-reactive)  
 
 
-Can we have our cake and eat it too?
+Can We Have Our Cake and Eat It Too?
 ========================================================
 
 
-Apps can Address Many Limitations
+Apps Can Address Many Limitations
 ========================================================
 &nbsp;
 
@@ -215,7 +215,7 @@ Challenges of Building Apps for Social Science Research
 4. Compelling incentives are hard to identify- and particularly challenging for studies of sensitive topics. But financial incentives may be an important option going forward. 
 
 
-Ok, but how do I build an App?
+OK, but How Do I Build an App?
 ========================================================
 
 
@@ -335,10 +335,10 @@ Using Bots to Study Social Media & Polarization
 <img src="figure_1.png" height="400" />
 
 
-How do I Build a Bot?
+How Do I Build a Bot?
 ========================================================
 
-A very simple bot
+A Very Simple Bot
 ========================================================
 
 ```r
@@ -353,7 +353,7 @@ for (i in 1:24){
 }
 ```
 
-Making a bot interactive
+Making a Bot Interactive
 ========================================================
 &nbsp;
 
@@ -369,7 +369,7 @@ Hosting a Bot
 
 <img src="AWS_R.png" height="400" />
 
-Check out my tutorial on running RStudio in the cloud [here](https://cbail.github.io/Running_R_in_the%Cloud.html).
+Check out my tutorial on running RStudio in the cloud [here](https://cbail.github.io/Running_R_in_the%20Cloud.html).
 
 
 Storing Data
