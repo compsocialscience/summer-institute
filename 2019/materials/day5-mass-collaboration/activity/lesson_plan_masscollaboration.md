@@ -21,21 +21,26 @@ To prepare for this activity you should:
 - Read the slides that I will use to introduce the activity
 - Optional: Learn more about the [Fragile Families Challenge](http://www.fragilefamilieschallenge.org/)
 - Optional: Watch videos from the [Fragile Families Challenge Scientific Workshop](https://www.youtube.com/channel/UCjluzrRT8fqXCx3qHjQAb5A)
+- Optional: Provide participants with access to the baseline submission (submission.zip).
 - REMEMBER THAT ALL PARTICIPANTS SHOULD DELETE THEIR DATA WHEN THE ACTIVITY IS OVER. If they would like access to the data for future research, they can contact Kate Jaeger: kjaeger at princeton dot edu.
 
 ### Group formation
 
-Form groups of about 5 people randomly.  If possible, each group should have at least one person with experience doing applied predictive modeling.  It would also be good to ensure that the people most skilled in programming are spread between groups.
+Form groups of 3-5 people randomly. If possible, each group should have at least one person with experience doing applied predictive modeling. It would also be good to ensure that the people most skilled in programming are spread between groups.
 
 ### Rough schedule
 
-
+- Introduction (1 hour; livestreamed)
+- Getting started (1 hour; not livestreamed)
+- Lunch (1 hour)
+- Work on Fragile Families Challenge in groups (2 hours; not livestreamed)
+- Discussion (20 minutes; not livestreamed)
 
 ### Notes
 
-- Participants should not expect to prepare the data and try many different sophisticated models in the time available.  A good outcome would be to
+- Participants should not expect to prepare the data and try many different sophisticated models in the time available. A good approach would be to focus on just one outcome of interest and try models of increasing complexity after successfully submitting a basic linear model to the leaderboard.
 
-- Participants can upload their predictions to XXX
+- Participants can upload their predictions to the leaderboard on CodaLab: https://codalab.fragilefamilieschallenge.org/competitions/26
 
 - This activity requires a lot of data wrangling and R fluency.
 
