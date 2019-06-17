@@ -28,7 +28,7 @@ In the process, we will gain experience with writing survey questionnaires, crea
       - Include a question asking for workers' MTurk Worker ID. This will help you validate that a worker actually completed the survey and enable you to remove people who took the survey more than once.
       - In designing your survey, think of ways to ensure the quality of the data collected. For example, use attention screeners, offer the "don't know" options judiciously, think about when to allow respondents to "skip" a question and when to require a response, etc.  This should go into your documentation.
       - Make sure you preview the survey on Google Forms before you publish it on MTurk.
-* Deploy your survey to MTurk.  We estimate that the survey will take about 4-5 minutes (TODO), and we would like to pay an hourly wage of $15 per hour so you should pay $1 per completed survey (TODO). [(Getting great survey results from MTurk and Google Forms)](https://blog.mturk.com/tutorial-getting-great-survey-results-from-mturk-and-google-forms-da4993d878df)
+* Deploy your survey to MTurk.  We estimate that the survey will take about 6, and we would like to pay an hourly wage of $15 per hour so you should pay $1.50 per completed survey. [(Getting great survey results from MTurk and Google Forms)](https://blog.mturk.com/tutorial-getting-great-survey-results-from-mturk-and-google-forms-da4993d878df)
       - For participants at Princeton location: We have created five MTurk accounts for you to use. Please create your tasks from these accounts with the pre-loaded funds. If you use your own account for data collection, we won't be able to reimburse you.
 
 
@@ -72,7 +72,7 @@ In the process, we will gain experience with writing survey questionnaires, crea
 
 * If you are using Qualtrics instead of Google Forms, you do not have to include a question on the survey asking for MTurk Worker ID. Instead, you can verify survey completion by generating a unique validation code for each survey respondent, and have them enter that on MTurk instead. 
 
-  - Here are [detailed instructions](https://tylerburleigh.com/mturk/survey-completion-codes-in-qualtrics/) for generating survey completion codes.
+* Here are [detailed instructions](https://blog.mturk.com/getting-great-survey-results-from-mturk-and-qualtrics-be1704ff9786) for generating survey completion codes.
   
   
 * Qualtrics has more features and customizable options -- for example, you can randomize the response options to a survey question or enable more sophisticated skip logic. Try playing around with these!
