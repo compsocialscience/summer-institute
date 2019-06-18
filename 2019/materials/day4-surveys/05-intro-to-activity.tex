@@ -195,6 +195,16 @@ A quick and dirty tour of the post-stratification methods we will use
 %%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
+Use this estimator in three steps:
+\begin{enumerate}
+\item Chop up the sample into groups \pause
+\item Estimate the mean in each group \pause
+\item Combine the estimates for each group into an overall estimate
+\end{enumerate}
+\pause
+
+\vfill
+
 \begin{equation*}
 \hat{\bar{y}}_{post} = \sum_{h=1}^H \frac{N_h}{N} \hat{\bar{y}}_h
 \end{equation*}
@@ -204,14 +214,6 @@ where
 \item $N_h$: size of group $h$
 \item $\hat{\bar{y}}_h$: estimated average outcome for group $h$
 \end{itemize}
-\vfill
-
-Use this estimator in three steps:
-\begin{enumerate}
-\item Chop up the sample into groups \pause
-\item Estimate the mean in each group \pause
-\item Combine the estimates for each group into an overall estimate
-\end{enumerate}
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%
@@ -283,11 +285,9 @@ Three increasingly sophisticated ways to make group estimate $\hat{\bar{y}}_h$. 
 %%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{Data}
 
-Some questions have multiple choice answers, but we convert to a series of binary variables for analysis.  For example,
-
-As asked:
+Some questions have multiple choice answers, but we convert to a series of binary variables for analysis.  As asked:
 \begin{center}
-\includegraphics[width=0.5\textwidth]{figures/question_text_pew}
+\includegraphics[width=0.8\textwidth]{figures/question_text_pew}
 \end{center}
 
 As analyzed:
@@ -298,7 +298,7 @@ As analyzed:
 \end{itemize}
 
 \vfill
-This means that each of our estimates are not independent.  For real research, you'd want a different way to handle this.
+This means that each of our estimates are not independent.  For real research, you'd want to handle this a different way.
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%
@@ -347,7 +347,7 @@ $h$ is a group described by a unique combination of gender (2 groups) $\times$ a
 \hat{\bar{y}}_{post} = \sum_{h=1}^H \frac{N_h}{N} \hat{\bar{y}}_h
 \end{equation*}
 where
-$\hat{\bar{y}}_h$ comes from
+$\hat{\bar{y}}_h$ comes from an individual-level model
 
 \begin{align*}
 Pr(y_i = 1) = logit^{-1} (\beta_0 + \\
@@ -362,7 +362,7 @@ Pr(y_i = 1) = logit^{-1} (\beta_0 + \\
 \begin{frame}{Mr. P}
 
 \begin{center}
-\only<1>{\includegraphics[width=0.8\textwidth]{figures/park_bayesian_2004_title}}
+\only<1>{\includegraphics[width=0.6\textwidth]{figures/park_bayesian_2004_title}}
 \only<2>{\includegraphics[width=\textwidth]{figures/park_bayesian_2004_abstract}}
 \end{center}
 
@@ -373,7 +373,7 @@ Pr(y_i = 1) = logit^{-1} (\beta_0 + \\
 %%%%%%%%%%%%
 \begin{frame}{Mr. P.}
 
-$\hat{\bar{y}}_h$ comes from\\
+$\hat{\bar{y}}_h$ comes from an individual-level model
 
 \begin{align*}
 Pr(y_i = 1) = logit^{-1} (\beta_0 + \\
@@ -435,7 +435,7 @@ Our recommended work flow:
 \item Take a break
 \item Validate and pay workers
 \item Analyze the much larger sample that we have collected for you
-\item De-identify and open-source the data that you collected
+\item De-identify and ``open-source'' data by sending to your local organizer (but remember to think about the end at the beginning)
 \end{itemize}
 
 \end{frame}
@@ -500,9 +500,9 @@ What would another researcher want to know?
 %%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 \frametitle{Beware of privacy}
-\pause
 
 Risks come from combining data sources\\
+
 \vfill
 
 \begin{minipage}[c]{0.35\textwidth}
@@ -511,12 +511,13 @@ $\underbrace{\text{Baking soda}}_{\text{Safe}} + \underbrace{\text{Vinegar}}_{\t
 \hspace{0.05\textwidth}
 \begin{minipage}[c]{0.55\textwidth}
 \onslide<2>{
-\includegraphics[width=0.8\textwidth]{figures/baking_soda_volcano}\\ {\tiny \url{https://www.flickr.com/photos/edenpictures/15962352215/}}
+\includegraphics[width=0.6\textwidth]{figures/baking_soda_volcano}\\ {\tiny \url{https://www.flickr.com/photos/edenpictures/15962352215/}}
 }
 \end{minipage}
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \begin{frame}
 \frametitle{Beware of privacy}
 
@@ -621,7 +622,7 @@ Our recommended work flow:
 \item Take a break
 \item Validate and pay workers
 \item Analyze the much larger sample that we have collected for you
-\item De-identify and open-source the data that you collected
+\item De-identify and ``open-source'' data by sending to your local organizer (but remember to think about the end at the beginning)
 \end{itemize}
 
 \end{frame}
