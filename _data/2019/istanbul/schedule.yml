@@ -15,19 +15,21 @@
     - name: "17:00 - 17:30 Why SICSS? [live stream]"
     - name: "17:30 - 18:30 Reflections"
     - name: "18:30 - 19:30 Break"
+    - name: "23:00 - 0:30 Guest speaker: Alondra Nelson [live stream, optional]"
 - date: 2019-06-18
   name: "Automated data collection"
   events:
     - name: "9:00 - 9:30 Recap"
-    - name: "9:30 - 10:30 Digital trace data: conceptualization, opportunities and problems [slides](https://helsinkifi-my.sharepoint.com/:p:/g/personal/mnelimar_ad_helsinki_fi/EeObw5mKIqBGkkmWygVfvCMBLDzXDzh66d8PBWfhy0pjkA?e=W0Udzl)"
-    - name: "10:30 - 11:00 Break"
-    - name: "11:00 - 12:30 Demo & try: Screen scraping [code example](https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/screenscraping/rmarkdown/Screenscraping.html)"
-    - name: "12:30 - 13:30 Lunch"
-    - name: "13:30 - 14:30 Demo & try: APIs"
-    - name: "14:30 - 15:00 Demo: Applications in data collection"
-    - name: "15:00 - 15:30 Break"
-    - name: "15:30 - 18:30 Group exercise: Data collection [activity](https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/Group_Exercise_Day_2.html)"
+    - name: "9:30 - 10:00 Digital trace data: conceptualization, opportunities and problems [slides](https://helsinkifi-my.sharepoint.com/:p:/g/personal/mnelimar_ad_helsinki_fi/EeObw5mKIqBGkkmWygVfvCMBLDzXDzh66d8PBWfhy0pjkA?e=W0Udzl)"
+    - name: "10:00 - 10:30 Break"
+    - name: "10:30 - 11:30 Demo & try: Screen scraping [code example](https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/screenscraping/rmarkdown/Screenscraping.html)"
+    - name: "11:30 - 12:00 Demo: Applications in data collection"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 14:00 Demo & try: APIs [code example](https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/apis/rmarkdown/Application_Programming_interfaces.html)"
+    - name: "14:00 - 14:30 Break"
+    - name: "14:30 - 17:30 Group exercise: Data collection [activity](https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/Group_Exercise_Day_2.html)"
     - name: "18:30 - 19:30 Break"
+    - name: "23:00 - 0:30 Guest speaker: Beth Noveck [live stream, optional]"
 - date: 2019-06-19
   name: "Text analysis"
   events:
@@ -57,6 +59,7 @@
     - name: "17:30 - 18:00 Computer-administered interviews and wiki surveys [live stream]"
     - name: "18:00 - 18:30 Combining surveys and big data |live stream]"
     - name: "18:30 - 19:30 Break"
+    - name: "23:00 - 0:30 Guest speaker: Justin Grimmer [live stream, optional]"
 - date: 2019-06-21
   name: "Experiments & surveys"
   events:
@@ -65,12 +68,13 @@
     - name: "10:30 - 11:00 Break"
     - name: "11:00 - 12:30 Online experiments"
     - name: "12:30 - 13:30 Lunch"
-    - name: "13:30 - 15:00 Group exercise: surveys & online experiments (activity?)[https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/SICSS_survey_activity_2018.pdf]"
+    - name: "13:30 - 15:00 Group exercise: surveys & online experiments (activity)[https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/SICSS_survey_activity_2018.pdf]"
     - name: "15:00 - 15:30 Break"
     - name: "15:30 - 17:00 Guest speaker: Justin Grimmer [delayed stream]"
     - name: "17:00 - 17:30 Group exercise: surveys & online experiments (activity?)[https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/SICSS_survey_activity_2018.pdf]"
     - name: "17:30 - 18:30 Group exercise: surveys & online experiments (activity - to be updated?)[https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/SICSS_survey_activity_2018.pdf]"
     - name: "18:30 - 19:30 Break"
+    - name: "23:00 - 0:30 Guest speaker: Annie Liang [live stream, optional]"
 - date: 2019-06-22
   name: "Mass collaboration"
   events:
@@ -96,12 +100,14 @@
     - name: "12:30 - 13:30 Lunch"
     - name: "18:30 - 19:30 Break"
     - name: "19:30 - 21:00 Istanbul Cruise Tour party"
+    - name: "23:30 - 0:30 Guest speaker: Alex Sandy Pentland [live stream, optional]"
 - date: 2019-06-26
   name: "Work on group projects"
   events:
     - name: "12:30 - 13:30 Lunch"
     - name: "18:30 - 19:30 Break"
     - name: "19:30 - 20:30 Guest Speaker: Chris Wiggins [live stream]"
+    - name: "23:30 - 0:30 Guest speaker: Laura Nelson [live stream, optional]"
 - date: 2019-06-27
   name: "Work on group projects"
   events:
