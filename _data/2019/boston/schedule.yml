@@ -6,6 +6,8 @@
 - date: 2019-06-17
   name: Introduction and Ethics
   events:
+    - name: "9:00 - 9:15 Logistics"
+    - name: "9:15 - 9:30 Introductions"
     - name: "9:30 - 10:00 Introduction to computational social science [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/02-intro-computational-social-science.pdf)"
     - name: "10:00 - 10:30 Why SICSS? [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/day1-intro-ethics/bail_why_sicss/Why_SICSS.html)"
     - name: "10:30 - 10:45 Coffee Break"
@@ -22,6 +24,7 @@
 - date: 2019-06-18
   name: "Collecting Digital Trace Data"
   events:
+    - name: "9:00 - 9:15 Logistics"
     - name: "9:15 - 9:30 What is digital trace data? [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/what-is-digital-trace-data/What_is_Digital_Trace_Data.html)"
     - name: "9:30 - 9:45 Strengths and weakness of digital trace data [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/strengths-weaknesses/Rpres/Strengths_and_Weaknesses.html), [Annotated Code](https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/strengths-weaknesses/rmarkdown/Strengths_and_Weaknesses.html)"
     - name: "9:45 - 10:15 Screen-Scraping [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/screenscraping/Rpres/Screenscraping.html), [Annotated Code](https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/screenscraping/rmarkdown/Screenscraping.html)"
@@ -38,34 +41,34 @@
   name: Automated Text Analysis
   events:
     - name: "9:00 - 9:15 Logistics"
-    - name: "9:15 - 9:30 History of quantitative text analysis"
-    - name: "9:30 - 9:45 Basic Text Analysis/GREP"
-    - name: "9:45 - 10:00 Dictionary-Based Text Analysis"
+    - name: "9:15 - 9:30 History of quantitative text analysis [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/history-text-analysis/Introduction_to_Text_as_Data.html)"
+    - name: "9:30 - 9:45 Basic Text Analysis/GREP [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/basic-text-analysis/Rpres/Basic_Text_Analysis.html), [Annotated Code](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/basic-text-analysis/rmarkdown/Basic_Text_Analysis_in_R.html)"
+    - name: "9:45 - 10:00 Dictionary-Based Text Analysis [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/dictionary-methods/Rpres/Dictionary_Based_Analysis.html), [Annotated Code](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/dictionary-methods/rmarkdown/Dictionary-Based_Text_Analysis.html)"
     - name: "10:00 - 10:15 Coffee Break"
-    - name: "10:15 - 11:15 Topic models/Structural Topic Models"
+    - name: "10:15 - 11:15 Topic models/Structural Topic Models (Guest Lecture by Brandon Stewart [Slides from Chris](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/topic-modeling/Rpres/Topic_Modeling.html), [Annotated Code from Chris](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/topic-modeling/rmarkdown/Topic_Modeling.html)"
     - name: "11:15 - 11:20 Break"
-    - name: "11:20 - 12:30 Text Networks"
+    - name: "11:20 - 12:30 Text Networks [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/text-networks/Rpres/Text_Networks.html), [Annotated Code](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/text-networks/rmarkdown/Text_Networks.html)"
     - name: "12:30 - 1:30 Lunch (on site) and **local speaker: Jinhua Zhao**"
     - name: "1:30 - 1:45 Break"
     - name: "1:45 - 4:15 Group Exercise"
     - name: "4:15 - 4:30 Break"
-    - name: "4:30 - 6:00 Group Exercise"
+    - name: "4:30 - 6:00 Guest Speaker: Jennifer Pan (recorded stream)"
     - name: "6:00 - 7:30 Dinner & Discussion"
 
 - date: 2019-06-20
   name: Surveys in the Digital Age
   events:
     - name: "9:00 - 9:15 Logistics"
-    - name: "9:15 - 9:35 Survey research in the digital age"
-    - name: "9:35 - 9:55 Probability and non-probability sampling"
-    - name: "9:55 - 10:15 Computer-administered interviews and wiki surveys"
-    - name: "10:15 - 10:35 Combining surveys and big data"
+    - name: "9:15 - 9:35 Survey research in the digital age [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/01-survey-research-digital-age.pdf)"
+    - name: "9:35 - 9:55 Probability and non-probability sampling [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/02-nonprobability-sampling.pdf)"
+    - name: "9:55 - 10:15 Computer-administered interviews and wiki surveys [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/03-computer-administered-interviews.pdf)"
+    - name: "10:15 - 10:35 Combining surveys and big data [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/04-combining-surveys-and-big-data.pdf)"
     - name: "10:35 - 10:45 Coffee break"
-    - name: "10:45 - 11:15 Group exercise introduction"
+    - name: "10:45 - 11:15 Group exercise introduction [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/05-intro-to-activity.pdf)"
     - name: "11:15 - 12:30 Begin group exercise"
     - name: "12:30 - 1:30 Lunch (on site)"
     - name: "1:30 - 3:15 Continue group exercise"
-    - name: "3:15 - 3:45 Discuss activity and open-source data"
+    - name: "3:15 - 3:45 Discuss activity and open-source data [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/06-intro-to-open-sourcing-data.pdf)"
     - name: "3:45 - 4:00 Break"
     - name: "4:00 - 5:30 Guest speaker: Justin Grimmer (Livestream)"
     - name: "6:00 - 7:30 Dinner & Discussion"
