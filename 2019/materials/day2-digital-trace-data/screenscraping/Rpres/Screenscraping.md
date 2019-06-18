@@ -172,10 +172,10 @@ head(section_of_wikipedia)
 
 ```
 $node
-<pointer: 0x7f980f514410>
+<pointer: 0x7fdd9808a2f0>
 
 $doc
-<pointer: 0x7f980f501fc0>
+<pointer: 0x7fdd9557c430>
 ```
 
 Extracting the Table
