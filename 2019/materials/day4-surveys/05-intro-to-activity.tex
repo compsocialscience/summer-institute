@@ -17,7 +17,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \title[]{Introduction to group activity}
 \author[]{Matthew J. Salganik\\Department of Sociology\\Princeton University}
-\date[]{Summer Institute in Computational Social Science\\June 20, 2019
+\date[]{Summer Institutes in Computational Social Science\\June 20, 2019
 \vfill
 \begin{flushleft}
 {\scriptsize
@@ -55,7 +55,7 @@ Activity:
 \pause
 \item Try different approaches to weighting and see how the change the estimates
 \pause
-\item De-identify and open-source data (but remember to think about the end at the beginning)
+\item De-identify and ``open-source'' data by sending to your local organizer (but remember to think about the end at the beginning)
 \end{itemize}
 
 \end{frame}
@@ -94,7 +94,7 @@ Our recommended work flow:
 Our recommended work flow:
 \begin{itemize}
 \item Create a write-up that describes what data you will be collecting, why, and how it will be shared with others (for tips, see \href{https://doi.org/10.1177/2515245917747656}{Meyer})
-\item Create survey on Google Forms (we have a template)
+\item Create survey on Google Forms (we have a \href{https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/2019-06-13_mturk_google_survey.pdf}{template})
 \end{itemize}
 
 \end{frame}
@@ -128,7 +128,7 @@ How should you ask these questions?  \pause You should copy from the American Co
 Our recommended work flow:
 \begin{itemize}
 \item Create a write-up that describes what data you will be collecting, why, and how it will be shared with others (for tips, see \href{https://doi.org/10.1177/2515245917747656}{Meyer})
-\item Create survey on Google Forms (we have a template)
+\item Create survey on Google Forms (we have a \href{https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/2019-06-13_mturk_google_survey.pdf}{template})
 \pause
 \item Deploy to MTurk
 \end{itemize}
@@ -153,7 +153,7 @@ Last year, every group made at least one error deploying their relatively simple
 Our recommended work flow:
 \begin{itemize}
 \item Create a write-up that describes what data you will be collecting, why, and how it will be shared with others (for tips, see \href{https://doi.org/10.1177/2515245917747656}{Meyer})
-\item Create survey on Google Forms (we have a template)
+\item Create survey on Google Forms (we have a \href{https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/2019-06-13_mturk_google_survey.pdf}{template})
 \item Deploy to MTurk
 \pause
 \item Take a break
@@ -191,6 +191,9 @@ A quick and dirty tour of the post-stratification methods we will use
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
 \begin{frame}
 \frametitle{Cell-based Poststratification}
 
@@ -290,24 +293,32 @@ Three increasingly sophisticated ways to make group estimate $\hat{\bar{y}}_h$ (
 \begin{frame}{Data}
 
 \begin{itemize}
-\item Our survey data comes from a survey of XXX people on MTurk collected in less than a week ago
-\item We will compare to high-quality telephone surveys from the Pew Research Center
-\item To poststratify our survey data, we will use data from the Census Bureau about the population of the US
+\item Our survey data comes from a survey of 495 people on MTurk collected in less than a week ago
+\item We will compare to high-quality telephone surveys from the Pew Research Center (links to \href{https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/2019_pew_benchmark_data.csv}{questionnaires})
+\item To poststratify our survey data, we will use data from the American Community Survey about the population of the US
+\item We use multiple questions because estimates are also a property of a question not just a sample.
 \end{itemize}
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{Data}
 
-Example questions (after question wrangling):
+Some questions have multiple choice answers, but we convert to a series of binary variables for analysis.  For example,
+
+As asked:
+\begin{center}
+\includegraphics[width=0.5\textwidth]{figures/question_text_pew}
+\end{center}
+
+As analyzed:
 \begin{itemize}
-\item If you were making up the budget for the federal government this year would you increase funding for scientific research?\pause
-\item Do you not smoke cigarettes at all? \pause
-\item All in all, are you satisfied with the way that things are going in this country today? \pause
+\item If you were making up the budget for the federal government this year would you increase funding for scientific research?
+\item If you were making up the budget for the federal government this year would you decrease funding for scientific research?
+\item If you were making up the budget for the federal government this year would you keep funding the same funding for scientific research?
 \end{itemize}
 
 \vfill
-We use multiple questions because estimates are also a property of a question not just a sample.
+This means that each of our estimates are not independent.  For real research, you'd want a different way to handle this.
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%
@@ -546,7 +557,7 @@ In this case, we recommend:
 \end{itemize}
 
 For more on coarsening, see this code:\\
-\url{https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/mturk_data_cleaning.Rmd}
+\url{https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/mturk_data_cleaning.Rmd}
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -575,7 +586,7 @@ The 5Ws of data release: \pause
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
-In this case, you should archive your data here:\\
+Share your data to your local organizer who can post it here:\\
 \url{https://github.com/compsocialscience/summer-institute/tree/master/2019/materials/day4-surveys/datasets}
 
 \end{frame}
