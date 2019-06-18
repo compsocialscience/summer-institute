@@ -14,12 +14,12 @@
     - name: "10:45 - 11:30 Ethics: Principles-based approach [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/03-ethics.pdf)"
     - name: "11:30 - 12:15 Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/04-areas-of-difficulty.pdf)"
     - name: "12:15 - 12:30 Introduction to the group exercise [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/05-intro-group-exercise.pdf)"
-    - name: "12:30 - 1:30 Lunch (on site) and **local speaker: Andrey Fradkin**"
+    - name: "12:30 - 1:30 Lunch (on site) and **local speaker: [Andrey Fradkin](https://andreyfradkin.com/)**"
     - name: "1:30 - 2:30 Meetings with **local speaker Andrey Fradkin**"
     - name: "1:30 - 3:45 Group exercise [Case study 1](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/activity/ethics_case_study.pdf) [Case study 2](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf)"
     - name: "3:45 - 4:00 Break"
     - name: "4:00 - 5:30 Guest speaker: Alondra Nelson (Livestream)"
-    - name: "6:00 - 7:30 Dinner (on site) & **local speaker: In Song Kim**"
+    - name: "6:00 - 7:30 Dinner (on site) & **local speaker: [In Song Kim](http://web.mit.edu/insong/www/)**"
 
 - date: 2019-06-18
   name: "Collecting Digital Trace Data"
@@ -48,7 +48,7 @@
     - name: "10:15 - 11:15 Topic models/Structural Topic Models (Guest Lecture by Brandon Stewart [Slides from Chris](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/topic-modeling/Rpres/Topic_Modeling.html), [Annotated Code from Chris](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/topic-modeling/rmarkdown/Topic_Modeling.html)"
     - name: "11:15 - 11:20 Break"
     - name: "11:20 - 12:30 Text Networks [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/text-networks/Rpres/Text_Networks.html), [Annotated Code](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/text-networks/rmarkdown/Text_Networks.html)"
-    - name: "12:30 - 1:30 Lunch (on site) and **local speaker: Jinhua Zhao**"
+    - name: "12:30 - 1:30 Lunch (on site) and **local speaker: [Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao)**"
     - name: "1:30 - 1:45 Break"
     - name: "1:45 - 4:15 Group Exercise"
     - name: "4:15 - 4:30 Break"
@@ -110,7 +110,8 @@
   events:
     - name: "9:00 - 9:15 Breakfast"
     - name: "9:15 - 10:30 Speed-dating and group formation"
-    - name: "12:30 - 1:30 Lunch (on site) and **local speaker: Brooke Foucault Welles**"
+    - name: "12:30 - 1:30 Lunch (on site) and **local speaker: [Brooke Foucault Welles](http://brooke-welles.squarespace.com/)**"
+    - name: "4:30 - 5:30 **local speaker: [Abigail Jacobs](https://azjacobs.com/)**"
     - name: "6:00 - 7:30 Dinner & Discussion at [Za Cambridge](https://zarestaurant.com/cambridge/about/)"
 
 - date: 2019-06-25
@@ -118,7 +119,7 @@
   events:
     - name: "9:00 - Breakfast"
     - name: "12:30 - 1:30 Lunch (on site) and flash talks"
-    - name: "4:30 - 5:30 **local speaker: Alex Sandy Pentland**"
+    - name: "4:30 - 5:30 **local speaker: [Alex Sandy Pentland](https://www.media.mit.edu/people/sandy/overview/)**"
     - name: "6:00 - 7:30 Dinner & Discussion at [Meadhall](https://themeadhall.com/)"
 
 - date: 2019-06-26
@@ -133,7 +134,7 @@
   events:
     - name: "9:00 - Breakfast"
     - name: "12:30 - 1:30 Lunch (on site) and flash talks"
-    - name: "2:00 - 4:00 Meetings with **local speaker: Laura Nelson**"
+    - name: "2:00 - 4:00 Meetings with **local speaker: [Laura Nelson](http://www.lauraknelson.com/p/blog-page.html)**"
     - name: "4:30 - 5:30 **local speaker: Laura Nelson**"
     - name: "6:00 - 7:30 Dinner & Discussion at [Za Cambridge](https://zarestaurant.com/cambridge/about/)"
 
