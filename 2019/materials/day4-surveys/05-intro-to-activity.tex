@@ -6,6 +6,13 @@
 \usepackage{comment}
 \usepackage{url}
 
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \title[]{Introduction to group activity}
@@ -202,7 +209,7 @@ where
 Roughly, we are producing estimates for each group and then putting them together in the right way.
 
 \end{frame}
-
+%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 \frametitle{Cell-based Poststratification}
 
@@ -218,7 +225,7 @@ Assumptions:
 If RHG model holds (and some other minor technical conditions), then the poststratification estimator is unbiased.  See Sarndal et al.\ (1992) Result 15.6.1 
 
 \end{frame}
-
+%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 \frametitle{Bias of cell-based poststratification estimator from non-response}
 
@@ -236,7 +243,7 @@ So, how should we create the $H$ groups? \pause
 In practice this can be difficult because you want to form many groups, but then you have noisy estimates for each group.
 
 \end{frame}
-
+%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
 \begin{equation*}
@@ -258,7 +265,7 @@ Use this estimator in three steps:
 \end{enumerate}
 
 \end{frame}
-
+%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
 Note:
@@ -268,10 +275,10 @@ Note:
 \end{itemize}
 
 \end{frame}
-
+%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
-Three increasingly sophisticated ways to make group estimate $\hat{\bar{y}}_h$
+Three increasingly sophisticated ways to make group estimate $\hat{\bar{y}}_h$ (you won't have time to do all of these)
 \begin{itemize}
 \item cell-based poststratification
 \item model-based poststratification
@@ -279,18 +286,17 @@ Three increasingly sophisticated ways to make group estimate $\hat{\bar{y}}_h$
 \end{itemize}
 
 \end{frame}
-
-
+%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{Data}
 
 \begin{itemize}
-\item Our survey data comes from a survey of 684 people on MTurk collected in less than a week ago
+\item Our survey data comes from a survey of XXX people on MTurk collected in less than a week ago
 \item We will compare to high-quality telephone surveys from the Pew Research Center
 \item To poststratify our survey data, we will use data from the Census Bureau about the population of the US
 \end{itemize}
 
 \end{frame}
-
+%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{Data}
 
 Example questions (after question wrangling):
@@ -304,7 +310,7 @@ Example questions (after question wrangling):
 We use multiple questions because estimates are also a property of a question not just a sample.
 
 \end{frame}
-
+%%%%%%%%%%%%%%%%%%%
 \begin{frame}{Simple cell-based poststratification}
 
 Let's do lots of groups.
@@ -317,7 +323,7 @@ Let's do lots of groups.
 \end{itemize}
 
 \end{frame}
-
+%%%%%%%%%%%%%%%%%%
 \begin{frame}{Simple cell-based poststratification}
 
 \begin{equation*}
@@ -328,7 +334,7 @@ Let's do lots of groups.
 $h$ is a group described by a unique combination of gender (2 groups) $\times$ age (4 groups) $\times$ race (5 groups) $\times$ region (4 groups) 
 
 \end{frame}
-
+%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{Cell-based poststratification}
 
 \begin{center}
@@ -343,7 +349,7 @@ $h$ is a group described by a unique combination of gender (2 groups) $\times$ a
 \end{itemize}
 
 \end{frame}
-
+%%%%%%%%%%%%%%
 \begin{frame}{Model-based poststratification}
 
 \begin{equation*}
@@ -361,7 +367,7 @@ Pr(y_i = 1) = logit^{-1} (\beta_0 + \\
 \end{align*}
 
 \end{frame}
-
+%%%%%%%%%%%%%%%%%
 \begin{frame}{Mr. P}
 
 \begin{center}
@@ -373,7 +379,7 @@ Pr(y_i = 1) = logit^{-1} (\beta_0 + \\
 \url{https://www.jstor.org/stable/25791784} \\ See also Gelman and Hill (2007), Chapter 14 (``Multilevel logistic regression'')
 
 \end{frame}
-
+%%%%%%%%%%%%
 \begin{frame}{Mr. P.}
 
 $\hat{\bar{y}}_h$ comes from\\
@@ -397,16 +403,8 @@ Priors determined by RStanarm (\url{https://cran.r-project.org/web/packages/rsta
 \end{frame}
 
 % Talk about two models fighting, shrinking coefficients toward 0
-
-\begin{frame}{Notes}
-
-\begin{itemize}
-\item Modeling allows you to make more estimates for smaller groups \pause
-\item These techniques is widely used by modern pollsters (e.g., YouGov) and political scientists \pause
-\end{itemize}
-
-\end{frame}
-
+%%%%%%%%%%%%
+%%%%%%%%%%%%%%
 \begin{frame}{To learn more about Mr. P.}
 
 {\footnotesize
@@ -426,6 +424,16 @@ Generally cautious:
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Notes}
+
+\begin{itemize}
+\item Modeling allows you to make more estimates for smaller groups \pause
+\item These techniques is widely used by modern pollsters (e.g., YouGov) and political scientists \pause
+\item You will not finish this activity.  That's OK.
+
+\end{itemize}
+%%%%%%%%%%%%%%%%%%%
+\end{frame}
 \begin{frame}
 
 Our recommended work flow:
@@ -568,7 +576,7 @@ The 5Ws of data release: \pause
 \begin{frame}
 
 In this case, you should archive your data here:\\
-\url{https://github.com/compsocialscience/summer-institute/tree/master/2018/materials/day4-surveys/datasets}
+\url{https://github.com/compsocialscience/summer-institute/tree/master/2019/materials/day4-surveys/datasets}
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
