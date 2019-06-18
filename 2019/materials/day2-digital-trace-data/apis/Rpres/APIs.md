@@ -189,7 +189,7 @@ Authenticate Yourself with Twitter API
 ```r
 library(rtweet)
 create_token(app=app_name, consumer_key=consumer_key, consumer_secret=consumer_secret, access_token=access_token,
-access_token_secret=access_token_secret,
+access_secret=access_token_secret,
 set_renv = TRUE)
 ```
 
