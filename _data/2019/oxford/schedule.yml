@@ -69,7 +69,7 @@
       time: "14:00 - 15:15"
     - name: "<b>Tea break</b>"
       time: "15:15 - 15:30"
-    - name: "<b>Computational Text Analysis</b> by Taylor Brown, [Livestream](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b76c0f57-e421-4752-ab26-aa6c00fc157b) <br> <i>Three methods to large-scale text analysis--what they can do and what they assume.</i>"
+    - name: "<b>Computational Text Analysis</b> by Taylor Brown, [Livestream](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b76c0f57-e421-4752-ab26-aa6c00fc157b) <br> <i>Three methods to large-scale text analysis--how they work and what they can('t) do.</i> <br> [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/oxford/materials/computational_text_analysis/SICSSOxford2019_ComputationalTextAnalysis_Part2.pdf)"
       time: "15:30 - 17:30"
     - name: "<b>Dinner</b> (Nuffield College)"
       time: "18:00 - 19:00"
