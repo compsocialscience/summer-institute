@@ -36,10 +36,11 @@ In the early years of the internet, screen-scraping was a very common practice b
 
 ## **Reading a Web-Page Into R**
 
-If you've identified a web page you'd like to scrape, the first step in writing a screen-scraping program is to download the source code into R. To do this we are going to install the `rvest` package, authored by Hadley Wickham, which provides a number of very useful functions for screen-scraping.
+If you've identified a web page you'd like to scrape, the first step in writing a screen-scraping program is to download the source code into R. To do this we are going to install the `rvest` package, authored by Hadley Wickham, which provides a number of very useful functions for screen-scraping. (Note: You may also need to install the `selectr` package.)
 
 ```{r, messages=FALSE, eval=FALSE}
 install.packages("rvest")
+install.packages("selectr")
 ```
 
 
@@ -58,15 +59,16 @@ But this is not what the web page actually looks like to our browser. To view th
 
 <br><br>
 
-To download the source code into R, we can use the `read_html` function from the `rvest` package that we just installed above:
+To download the source code into R, we can use the `read_html` function from the `rvest` package that we just installed above (Note: you may also have to load/install the `selectr` package):
 
 ```{r, messages=FALSE, echo=FALSE, message=FALSE, waning=FALSE}
 library(rvest)
+library(selectr)
 ```
 
 ```{r}
 
-wikipedia_page<-read_html("https://en.wikipedia.org/wiki/World_Health_Organization_ranking_of_health_systems_in_2000")
+wikipedia_page<-read_html("https://en.wikipedia.org/w/index.php?title=World_Health_Organization_ranking_of_health_systems_in_2000&oldid=876464764")
 ```
 
 
@@ -115,7 +117,7 @@ The next step is to identify a string of numbers and letters called the "Xpath" 
 Now that I have the xpath, I can use this information to narrow my search within the HTML file for the Table that I want to extract using the `html_nodes` function which passess the xpath as an argument as pictured in the code below:
 
 ```{r}
-section_of_wikipedia<-html_node(wikipedia_page, xpath='//*[@id="mw-content-text"]/div/table[2]')
+section_of_wikipedia<-html_node(wikipedia_page, xpath='//*[@id="mw-content-text"]/div/table')
 head(section_of_wikipedia)
 ```
 
