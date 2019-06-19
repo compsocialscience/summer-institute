@@ -39,7 +39,7 @@ During group activity
     -   Remove redundant entries, if any.
     -   After you have used the Worker ID data to validate answers and to remove redundant entries, delete it from your dataset. The Worker ID is a unique string that can be used to personally identify people.
 
--   Analyze your data. Compare your raw and weighted estimates, respectively, with what’s published by the existing survey.
+-   Analyze your data. Compare your raw and weighted estimates, respectively, with what’s published by the existing survey. Use [this template](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/SICSS_survey_activity_2019_template.Rmd) as you work through these steps.
 
     -   If you use the [survey data we already collected on MTurk](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/2019-06-13_mturk_data_clean.csv), you can see the results for those questions published by Pew [here](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/2019_pew_benchmark_data.csv). [3]
     -   Replicate Figure 1 from [Goel et al.](https://5harad.com/papers/dirtysurveys.pdf)
@@ -47,7 +47,7 @@ During group activity
     -   When doing the adjustment methods, you should start with the simplest thing first. Do not jump to the most fancy technique right away. You may use post-stratification packages, but only after you have coded up at least one technique by hand (if you have coded one of these techniques as part of your earlier research that counts).
     -   Start with cell-based post-stratification using a small number of cells. *Hint: think about what may happen if you have empty cells.*
 
--   Prepare your data for dissemination and open sourcing so that it can be used by others. ([Some best practices](https://www.icpsr.umich.edu/icpsrweb/content/deposit/guide/chapter3docs.html) for preparing survey metadata). We will talk about this in the afternoon using [these slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/06-intro-to-open-sourcing-data.pdf).
+-   Prepare your data for dissemination and open sourcing so that it can be used by others. ([Some best practices](https://www.icpsr.umich.edu/icpsrweb/content/deposit/guide/chapter3docs.html) for preparing survey metadata). We will talk about this in the afternoon using [these slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/06-intro-to-open-sourcing-data.pdf).
 
 Tips and additional resources
 -----------------------------

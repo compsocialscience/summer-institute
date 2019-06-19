@@ -3,7 +3,7 @@ title: 'Non-probability-based Surveys in Practice'
 author: "Matthew Salganik & Cambria Naslund ^[based on the activities from SICSS 2017 (created by Matthew Salganik and Yo-Yo Chen) and SICSS 2018 (created by Matthew Salganik and Janet Xu).]"
 date: "Summer Institute in Computational Social Science 2019"
 output: 
-  #pdf_document:
+  pdf_document:
   github_document: 
 urlcolor: blue
 ---
@@ -40,7 +40,7 @@ In the process, we will gain experience with writing survey questionnaires, crea
       - Remove redundant entries, if any.
       - After you have used the Worker ID data to validate answers and to remove redundant entries, delete it from your dataset. The Worker ID is a unique string that can be used to personally identify people.
   
-* Analyze your data. Compare your raw and weighted estimates, respectively, with what’s published by the existing survey. 
+* Analyze your data. Compare your raw and weighted estimates, respectively, with what’s published by the existing survey. Use [this template](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/SICSS_survey_activity_2019_template.Rmd) as you work through these steps. 
     
       - If you use the [survey data we already collected on MTurk](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/2019-06-13_mturk_data_clean.csv), you can see the results for those questions published by Pew [here](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/2019_pew_benchmark_data.csv). ^[*Technical note*: Most survey questions have a "don't know/refuse" residual category, but predicting the percentage of people who refused to answer may not always be substantively relevant. To omit this category from the analysis, we normalized the existing survey results by dividing by the percentage of people who responded to that question.]
       - Replicate Figure 1 from [Goel et al.](https://5harad.com/papers/dirtysurveys.pdf)
@@ -49,7 +49,7 @@ In the process, we will gain experience with writing survey questionnaires, crea
       - Start with cell-based post-stratification using a small number of cells. *Hint: think about what may happen if you have empty cells.* 
       
 
-* Prepare your data for dissemination and open sourcing so that it can be used by others. ([Some best practices](https://www.icpsr.umich.edu/icpsrweb/content/deposit/guide/chapter3docs.html) for preparing survey metadata).  We will talk about this in the afternoon using [these slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/06-intro-to-open-sourcing-data.pdf).
+* Prepare your data for dissemination and open sourcing so that it can be used by others. ([Some best practices](https://www.icpsr.umich.edu/icpsrweb/content/deposit/guide/chapter3docs.html) for preparing survey metadata).  We will talk about this in the afternoon using [these slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/06-intro-to-open-sourcing-data.pdf).
 
 ## Tips and additional resources
 
