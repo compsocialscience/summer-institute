@@ -68,13 +68,11 @@
 - date: 2019-06-21
   name: "Mass Collaboration"
   events:
-    - name: "9:00 - 9:15 Logistics"
-    - name: "9:15 - 9:30 Mass collaboration (Princeton livestream)"
-    - name: "9:30 - 9:45 Human computation (Princeton livestream)"
-    - name: "9:45 - 10:00 Open call (Princeton livestream)"
-    - name: "10:00 - 10:15 Distributed data collection (Princeton livestream)"
+    - name: "9:00 - 9:15 Logistics (*Not open to public/No livestream*)"
+    - name: "9:15 - 9:45 Mass collaboration"
+    - name: "9:45 - 10:15 Quick and dirty introduction to applied predictive modeling"
     - name: "10:15 - 10:30 Coffee break"
-    - name: "10:30 - 11:30 Introduction to the Fragile Families Challenge (Princeton livestream)"
+    - name: "10:30 - 11:30 Introduction to the Fragile Families Challenge"
     - name: "11:30 - 12:30 A Brief Introduction to Machine Learning with Georgiy Bobashev, Center for Data Science at RTI [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/speaker-slides/GeorgiyBobashevSlides.pdf)"
     - name: "12:30 - 1:30 Lunch"
     - name: "1:30 - 2:30 Drone Data Workshop"
