@@ -122,7 +122,9 @@ Now, we are ready to authenticate ourselves vis-a-vis Twitter's API. To do this,
 
 ```{r, eval=FALSE}
 library(rtweet)
-create_token(app=app_name, consumer_key=consumer_key, consumer_secret=consumer_secret)
+create_token(app=app_name,
+             consumer_key=consumer_key, consumer_secret=consumer_secret,
+             access_token = access_token, access_secret = access_token_secret)
 ```
 
 Now, we can take full advantage of all of the many useful functions within the `rtweet` function for collecting data from Twitter. Let's begin by extracting 3,000 tweets that use the hashtag #korea.
