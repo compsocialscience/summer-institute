@@ -30,7 +30,7 @@ data <- data %>% select(-attention1, -educ)
 
 ## NOTE: if you are using your own survey results, you will need to 
 ## do some wrangling before you can match with the benchmark or acs data
-## for a walkthrough, see https://github.com/compsocialscience/summer-institute/raw/master/2019/materials/day4-surveys/activity/2019-06-13_mturk_data_clean.csv
+## for a walkthrough, see https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/mturk_data_cleaning.Rmd
 
 # load external information -- in this case, population info
 census <- read.csv("https://github.com/compsocialscience/summer-institute/raw/master/2019/materials/day4-surveys/activity/2017_acs_data_clean.csv")
@@ -304,8 +304,7 @@ Which questions worked well and which didn't? Which methods worked well for whic
 
 \newpage
 
-# Optional Extension: \
-  Approach 5: Multilevel-Model-based estimation with post-stratification (MRP)
+# Optional Extension -- Approach 5: Multilevel-Model-based estimation with post-stratification (MRP)
 
 ### 5.1) Predict group means with multi-level regression model; combine with group weights to create weighted means
 
