@@ -7,7 +7,7 @@ layout: default
 <br>
 
 <ul class="list-group">
-  <li class="list-group-item list-group-item-info"><i>The SICSS application deadline has been extended until <b>Sunday, April 21, 2019</b></i></li>
+  <li class="list-group-item list-group-item-info"><i>The SICSS application deadline closed on Sunday, April 21, 2019. We are no longer considering applications.</b></i></li>
 </ul>
 
 # Eligibility

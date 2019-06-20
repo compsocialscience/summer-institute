@@ -1,3 +1,8 @@
+- name: Abdullah Almaatouq
+  image: /assets/images/AbdullahAlmaatouq.jpg
+  bio: "Abdullah Almaatouq is a Research Assistant in the Human Dynamics group at the Massachusetts Institute of Technology, where he is pursuing a PhD in Computational Science & Engineering. Abdullah's work includes conducting theoretical and empirical research on human behavior using innovative approaches and tools ranging from complex systems theory and agent-based modeling, to network analysis, econometric techniques, and behavioral and experimental methods."
+  website: http://www.amaatouq.com/
+  
 - name: Justin Grimmer
   image: /assets/images/JustinGrimmer.jpg
   bio: "Justin Grimmer is a Professor in Stanford University's Department of Political Science. His current research focuses on American political institutions, elections, and developing new machine-learning methods for the study of politics. He is the author of *Representational Style in Congress: What Legislators Say and Why It Matters* and *The Impression of Influence: Legislator Communication, Representation, and Democratic Accountability*."
@@ -22,6 +27,16 @@
   image: /assets/images/JenniferPan.jpg
   bio: "Jennifer Pan is an Assistant Professor of Communication at Stanford University. She focuses on the politics of authoritarian countries in the digital age. How autocrats constrain collective action through online censorship, propaganda, and responsiveness. How information proliferation influences the ability of authoritarian regimes to conduct surveillance. How public preferences are arranged and formed. She combines experimental and computational methods with large-scale datasets on political activity in China and other authoritarian regimes to examine these questions." 
   website: http://jenpan.com/
+
+- name: Eric Schwartz
+  image: /assets/images/EricSchwartz.jpg
+  bio: "Eric Schwartz is the Editorial Director of Columbia University Press. He was previously senior editor for sociology and cognitive science at Princeton University Press and psychology editor at Cambridge University Press."
+  website: https://cup.columbia.edu/editors/eric-schwartz
+
+- name: Brandon Stewart
+  image: /assets/images/BrandonStewart2.jpg
+  bio: Brandon Stewart is Assistant Professor of Sociology and Arthur H. Scribner Bicentennial Preceptor at Princeton University.  He develops new quantitative statistical methods for applications across computational social science, with a focus on tools that facilitate automated text analysis and model complex heterogeneity in regression.
+  website: http://scholar.princeton.edu/bstewart
 
 - name: Chris Wiggins
   image: /assets/images/ChrisWiggins.jpg
