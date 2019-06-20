@@ -89,14 +89,12 @@
       time: "13:00 - 14:00"
     - name: "<b>Survey research in the digital age</b>, Livestream by Matt Salganik <br> <i>Demographic Inference and Representative Population Estimates from Multilingual Social Media Data</i>"
       time: "14:00 - 15:15"
-    - name: "<b>Tea break</b>"
-      time: "15:15 - 15:30"
-    - name: "<b>Survey research in the digital age</b>, Livestream by Matt Salganik <br> <i>Computer-administered interviews and wiki surveys; Combining surveys and big data</i>"
-      time: "15:30 - 16:30"
+    - name: "<b>Break</b>"
+      time: "15:15 - 16:00"
     - name: "<b>Unconference</b>"
-      time: "16:30 - 18:30"
+      time: "16:00 - 18:00"
     - name: "<b>Dinner and discussion</b> (Nuffield College)"
-      time: "18:30 - 19:15"
+      time: "18:00 - 19:00"
 
 - date: 2019-06-21
   name: "<b>Non-probability Surveys and Machine Learning</b> (Department of Sociology)"
