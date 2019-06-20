@@ -152,8 +152,7 @@ $(document).ready(function () {
 <li><a href="#plot-distribution-of-estimation-benchmark-differences-3">4.3) Plot distribution of estimation-benchmark differences</a></li>
 </ul></li>
 <li><a href="#compare-distribution-of-differences-across-methods-and-questions">Compare distribution of differences across methods and questions</a></li>
-<li><a href="#optional-extension-approach-5-multilevel-model-based-estimation-with-post-stratification-mrp">Optional Extension:<br />
-Approach 5: Multilevel-Model-based estimation with post-stratification (MRP)</a><ul>
+<li><a href="#optional-extension-approach-5-multilevel-model-based-estimation-with-post-stratification-mrp">Optional Extension – Approach 5: Multilevel-Model-based estimation with post-stratification (MRP)</a><ul>
 <li><a href="#predict-group-means-with-multi-level-regression-model-combine-with-group-weights-to-create-weighted-means">5.1) Predict group means with multi-level regression model; combine with group weights to create weighted means</a></li>
 <li><a href="#plot-estimated-means-against-benchmarks-4">5.2) Plot estimated means against benchmarks</a></li>
 <li><a href="#plot-distribution-of-estimation-benchmark-differences-4">5.3) Plot distribution of estimation-benchmark differences</a></li>
@@ -179,7 +178,7 @@ data &lt;- data %&gt;% select(-attention1, -educ)
 
 ## NOTE: if you are using your own survey results, you will need to 
 ## do some wrangling before you can match with the benchmark or acs data
-## for a walkthrough, see https://github.com/compsocialscience/summer-institute/raw/master/2019/materials/day4-surveys/activity/2019-06-13_mturk_data_clean.csv
+## for a walkthrough, see https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/mturk_data_cleaning.Rmd
 
 # load external information -- in this case, population info
 census &lt;- read.csv(&quot;https://github.com/compsocialscience/summer-institute/raw/master/2019/materials/day4-surveys/activity/2017_acs_data_clean.csv&quot;)
@@ -421,8 +420,7 @@ head(simple_cell_est)</code></pre>
 
 </div>
 <div id="optional-extension-approach-5-multilevel-model-based-estimation-with-post-stratification-mrp" class="section level1">
-<h1>Optional Extension:<br />
-Approach 5: Multilevel-Model-based estimation with post-stratification (MRP)</h1>
+<h1>Optional Extension – Approach 5: Multilevel-Model-based estimation with post-stratification (MRP)</h1>
 <div id="predict-group-means-with-multi-level-regression-model-combine-with-group-weights-to-create-weighted-means" class="section level3">
 <h3>5.1) Predict group means with multi-level regression model; combine with group weights to create weighted means</h3>
 </div>
