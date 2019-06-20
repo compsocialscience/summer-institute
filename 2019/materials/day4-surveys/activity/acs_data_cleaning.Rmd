@@ -11,7 +11,7 @@ Below is the script used to generate "cleaned_acs17.csv". We use person weights 
 library(tidyverse)
 
 # load ACS data 
-acs <- read.csv("local_data/usa_acs17.csv")
+acs <- read.csv("local_data/2017acs_extract.csv")
 
 # Sample: 
 #   2017 ACS
@@ -84,6 +84,6 @@ sum(acs_grouped$POP)
 sum(acs$perwt) 
 
 # save 
-write.csv(acs_grouped, "cleaned_acs17.csv", row.names = F)
+write.csv(acs_grouped, "2017_acs_data_clean.csv", row.names = F)
 ```
 
