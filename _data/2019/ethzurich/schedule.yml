@@ -55,8 +55,8 @@
   name: Experiments
   events:
     - name: "12:15 - 13:45 Introduction to Distributed Computing : Roger Wattenhofer"
-    - name: "13:45 - 14:15 Lunch"
-    - name: "14:15 - 15:00 Group allocation and discussion"
+    - name: "13:45 - 14:05 Lunch"
+    - name: "14:05 - 15:00 Group allocation and mturk task discussion"
     - name: "15:15 - 17:00 Experiments (live From Princeton)"
     - name: "17:15 - 18:15 High-throughput behavioral science using virtual labs by guest speaker Abdullah Almaatouq (SICSS 2017) (live From Princeton)"
 
