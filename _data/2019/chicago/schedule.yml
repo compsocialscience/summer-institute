@@ -56,7 +56,7 @@
     - name: "9:35 AM - 9:45 AM: Coffee Break *(No Live Stream)*"
     - name: "9:45 AM - 10:15 AM: Group exercise introduction [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/05-intro-to-activity.pdf) *(Princeton Live Stream)*"
     - name: "10:15 AM - 11:30 AM: Begin Group Exercise *(No Live Stream)*"
-    - name: "11:30 AM - 12:30 PM: Chicago Guest Speaker Rochelle Terman [Link to video](https://youtu.be/T5Ix6ud9LWI) *(Chicago Live Stream)*"
+    - name: "11:30 AM - 12:30 PM: Chicago Guest Speaker Rochelle Terman [Slides]((https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/⁨speaker-slides⁩/Rochelle_Terman_Chicago.pdf)) [Link to video](https://youtu.be/T5Ix6ud9LWI) *(Chicago Live Stream)*"
     - name: "12:30 PM - 1:30 PM: Lunch *(No Live Stream)*"
     - name: "1:30 PM - 2:15 PM: Continue Group Exercise *(No Live Stream)*"
     - name: "2:15 PM - 2:45 PM: Discuss activity and open-source data [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/06-intro-to-open-sourcing-data.pdf) *(Princeton Live Stream)*"
@@ -67,10 +67,10 @@
   name: Modeling & Experiments
   events:
     - name: "8:00 AM - 8:30 AM: Logistics *(No Live Stream)*"
-    - name: "8:30 AM - 11:30 AM: Modeling & Experiments w/ Josh Becker *(No Live Stream)*"
-    - name: "11:30 PM - 12:30 PM: Lunch *(No Live Stream)*"
+    - name: "8:30 AM - 11:30 AM: Modeling & Experiments w/ Josh Becker [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/⁨speaker-slides⁩/Joshua_Becker_Chicago.pdf) *(No Live Stream)*"
+    - name: "11:30 AM - 12:30 PM: Lunch *(No Live Stream)*"
     - name: "12:30 PM - 1:30 PM: Group Formation for Second Week *(No Live Stream)*"
-    - name: "1:30 PM - 2:30 PM: Andy Papachristos talk *(Chicago Live Stream)*"
+    - name: "1:30 PM - 2:30 PM: Andy Papachristos talk [Link to video](https://youtu.be/2ZqvF1Yfw3g) *(Chicago Live Stream)*"
     - name: "2:30 PM - 3:30 PM: Group Formation for Second Week *(No Live Stream)*"
     - name: "3:30 PM - 4:30 PM: Guest Speaker: Annie Liang *(Princeton Live Stream)*"
 
@@ -95,4 +95,6 @@
 - date: 2019-06-28
   name: Present group projects
   events:
-    - name: "12:30 - 4:15 PM: Present group projects *(Not open to public/ No livestream)*"
+    - name: "9:00 AM - 1O:00 AM: Machine Learning Talk *(Optional)*"
+    - name: "12:30 PM - 1:30 PM: Lunch *(No Live Stream)*"
+    - name: "1:30 - 4:30 PM: Present group projects *(Not open to public/ No livestream)*"
