@@ -170,21 +170,77 @@ Read the Google Sheet
 &nbsp;
 
 
+```r
+# Read in interests from google sheet
+library(googlesheets)
+SICSS_sheet <- gs_url("https://docs.google.com/spreadsheets/d/1RIeYYvtzEX2kkrXspP2npWBSd9_rRqtw6RywlGvCpsU/edit#gid=565698675") 
 
-
-
-
-
-
-
-
+# Organizers, replace "YOUR SITE" with your site's sheet name below
+interests <- gs_read(SICSS_sheet, 
+                     ws="YOUR SITE")
 ```
-processing file: Speed_Dating.Rpres
-Sheet-identifying info appears to be a browser URL.
-googlesheets will attempt to extract sheet key from the URL.
-Putative key: 1RIeYYvtzEX2kkrXspP2npWBSd9_rRqtw6RywlGvCpsU
-Worksheets feed constructed with public visibility
-Quitting from lines 173-179 (Speed_Dating.Rpres) 
-Error: Worksheet YOUR SITE not found.
-Execution halted
+
+Identify Maximally Similar
+========================================================
+&nbsp;
+
+
+```r
+# Create distance matrix
+interest_mat <- interests %>%
+  tibble::column_to_rownames("Name") %>% 
+  as.matrix()
+dmatrix <- dist(interest_mat, method = "euclidean") 
+fit <- hclust(dmatrix, method="ward.D") 
+# Display dendogram
+plot(fit) 
+# Draw dendogram with cut points for groups 
+rect.hclust(fit, k=6, border="red")
 ```
+
+
+Simulate Random Groups
+========================================================
+&nbsp;
+
+
+```r
+# Identify all unique combinations of participants of size k (4)
+all_combs <- caTools::combs(interests$Name, 4)
+# Calculate mean distance within groups
+dissimilar_groups <- as.data.frame(all_combs)
+dissimilar_groups$score <- NA
+for (i in 1:nrow(all_combs)) {
+  temp_group <- interests[interests$Name%in%all_combs[i,],]
+  temp_dist <- mean(dist(temp_group[,-1]))
+  dissimilar_groups$score[i] <- temp_dist
+  print(i)
+}
+```
+
+Identify Maximally Diverse Groups
+========================================================
+&nbsp;
+
+
+```r
+# Retain groups with largest distances
+dissimilar_groups <- dissimilar_groups %>% 
+  arrange(desc(score))
+
+# Use `max_diverse` to assign maximally diverse groups
+max_diverse(dissimilar_groups)
+```
+
+
+Go!
+========================================================
+&nbsp;
+
+Meet in maximally similar and dissimilar groups for 30 minutes. Site organizer will create google sheet where project ideas will be listed. At the end of each 30 minute period, one group representative should write the name of the project and a brief (less than three sentence description). After the end of the exercise, put your name next to the research project that you are most excited about joining. 
+
+
+
+
+
+

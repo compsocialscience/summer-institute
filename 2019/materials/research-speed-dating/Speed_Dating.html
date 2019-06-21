@@ -997,15 +997,80 @@ hljs.initHighlightingOnLoad();
 <div class="slideContent" >
 <p>&nbsp;</p>
 
-<pre><code>processing file: Speed_Dating.Rpres
-Sheet-identifying info appears to be a browser URL.
-googlesheets will attempt to extract sheet key from the URL.
-Putative key: 1RIeYYvtzEX2kkrXspP2npWBSd9_rRqtw6RywlGvCpsU
-Worksheets feed constructed with public visibility
-Quitting from lines 173-179 (Speed_Dating.Rpres) 
-Error: Worksheet YOUR SITE not found.
-Execution halted
+<pre><code class="r"># Read in interests from google sheet
+library(googlesheets)
+SICSS_sheet &lt;- gs_url(&quot;https://docs.google.com/spreadsheets/d/1RIeYYvtzEX2kkrXspP2npWBSd9_rRqtw6RywlGvCpsU/edit#gid=565698675&quot;) 
+
+# Organizers, replace &quot;YOUR SITE&quot; with your site&#39;s sheet name below
+interests &lt;- gs_read(SICSS_sheet, ws=&quot;YOUR SITE&quot;)
 </code></pre>
+
+</div>
+
+</section>
+<section data-transition="none" data-transition-speed="default">
+<h3>Identify Maximally Similar</h3>
+<div class="slideContent" >
+<p>&nbsp;</p>
+
+<pre><code class="r"># Create distance matrix
+interest_mat &lt;- interests %&gt;%
+  tibble::column_to_rownames(&quot;Name&quot;) %&gt;% 
+  as.matrix()
+dmatrix &lt;- dist(interest_mat, method = &quot;euclidean&quot;) 
+fit &lt;- hclust(dmatrix, method=&quot;ward.D&quot;) 
+# Display dendogram
+plot(fit) 
+# Draw dendogram with cut points for groups 
+rect.hclust(fit, k=6, border=&quot;red&quot;)
+</code></pre>
+
+</div>
+
+</section>
+<section data-transition="none" data-transition-speed="default">
+<h3>Simulate Random Groups</h3>
+<div class="slideContent" >
+<p>&nbsp;</p>
+
+<pre><code class="r"># Identify all unique combinations of participants of size k (4)
+all_combs &lt;- caTools::combs(interests$Name, 4)
+# Calculate mean distance within groups
+dissimilar_groups &lt;- as.data.frame(all_combs)
+dissimilar_groups$score &lt;- NA
+for (i in 1:nrow(all_combs)) {
+  temp_group &lt;- interests[interests$Name%in%all_combs[i,],]
+  temp_dist &lt;- mean(dist(temp_group[,-1]))
+  dissimilar_groups$score[i] &lt;- temp_dist
+  print(i)
+}
+</code></pre>
+
+</div>
+
+</section>
+<section data-transition="none" data-transition-speed="default">
+<h3>Identify Maximally Diverse Groups</h3>
+<div class="slideContent" >
+<p>&nbsp;</p>
+
+<pre><code class="r"># Retain groups with largest distances
+dissimilar_groups &lt;- dissimilar_groups %&gt;% 
+  arrange(desc(score))
+
+# Use `max_diverse` to assign maximally diverse groups
+max_diverse(dissimilar_groups)
+</code></pre>
+
+</div>
+
+</section>
+<section data-transition="none" data-transition-speed="default">
+<h3>Go!</h3>
+<div class="slideContent" >
+<p>&nbsp;</p>
+
+<p>Meet in maximally similar and dissimilar groups for 30 minutes. Site organizer will create google sheet where project ideas will be listed. At the end of each 30 minute period, one group representative should write the name of the project and a brief (less than three sentence description). After the end of the exercise, put your name next to the research project that you are most excited about joining. </p>
 
 </div>
 

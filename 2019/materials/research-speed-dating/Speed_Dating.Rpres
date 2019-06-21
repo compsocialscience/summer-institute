@@ -169,13 +169,14 @@ Read the Google Sheet
 ========================================================
 &nbsp;
 
-```{r}
+```{r, eval = FALSE}
 # Read in interests from google sheet
 library(googlesheets)
 SICSS_sheet <- gs_url("https://docs.google.com/spreadsheets/d/1RIeYYvtzEX2kkrXspP2npWBSd9_rRqtw6RywlGvCpsU/edit#gid=565698675") 
 
 # Organizers, replace "YOUR SITE" with your site's sheet name below
-interests <- gs_read(SICSS_sheet, ws="YOUR SITE")
+interests <- gs_read(SICSS_sheet, 
+                     ws="YOUR SITE")
 ```
 
 Identify Maximally Similar
