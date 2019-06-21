@@ -92,12 +92,11 @@
 - date: 2019-06-22
   name: Experiments
   events:
-    - name: "9:00 - 9:15 Logistics"
-    - name: "9:15 - 9:30 What, why, and which experiments?"
-    - name: "9:30 - 9:45 Moving beyond simple experiments"
-    - name: "9:45 - 10:15 Four strategies for experiments"
+    - name: "9:15 - 9:30 What, why, and which experiments? [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day6-experiments/01-what-why-which-experiments.pdf)"
+    - name: "9:30 - 9:45 Moving beyond simple experiments [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day6-experiments/02-moving-beyond-simple-experiments.pdf)"
+    - name: "9:45 - 10:15 Four strategies for making experiments happen [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day6-experiments/03-making-it-happen.pdf)"
     - name: "10:15 - 10:30 Coffee break"
-    - name: "10:30 - 11:00 Zero variable cost data and musiclab"
+    - name: "10:30 - 11:00 Zero variable cost data and musiclab [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day6-experiments/04-zero-variable-cost.pdf)"
     - name: "11:00 - 11:15 Break"
     - name: "11:15 - 12:15 High-throughput behavioral science using virtual labs by guest speaker Abdullah Almaatouq (SICSS 2017)"
     - name: "Afternoon off"
