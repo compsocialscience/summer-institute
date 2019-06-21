@@ -3,15 +3,11 @@ layout: default
 title: Teaching & learning materials
 ---
 
----
-layout: default
-title: Teaching & learning materials
----
-
 #### Teaching and learning materials
-#### 2018 Summer Institutes for Computational Social Science
+#### 2019 Summer Institutes for Computational Social Science
 
 - **[Princeton, NJ (Princeton University), Matthew Salganik and Chris Bail, taught in English using R](#princeton-university-matthew-salganik=chris-bail-taught-in-english-using-r)**
+-
 
 ### Princeton University, Matthew Salganik and Chris Bail, taught in English using R
 
@@ -85,6 +81,27 @@ title: Teaching & learning materials
 
 #### Day 4: Surveys in the Digital Age
 
+- Survey research in the digital age
+  - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/01-survey-research-digital-age.pdf)
+  - Video coming soon
+- Probability and non-probability sampling
+  - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/02-nonprobability-sampling.pdf)
+  - Video coming soon
+- Computer-administered interviews and wiki surveys
+  - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/03-computer-administered-interviews.pdf)
+  - Video coming soon
+- Combining surveys and big data
+  - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/04-combining-surveys-and-big-data.pdf)
+  - Video coming soon
+- Group exercise introduction
+  - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/05-intro-to-activity.pdf)
+  - Video coming soon
+- Begin group exercise
+  - [Exercise](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/SICSS_survey_activity_2019.pdf)
+ - Optional datasets: [Survey data](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/2019-06-13_mturk_data_clean.csv), [post-stratification data](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/2017_acs_data_clean.csv)
+- Discuss activity and open-source data
+  - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/06-intro-to-open-sourcing-data.pdf)
+
 
 
 #### Day 5: Mass Collaboration
@@ -101,18 +118,13 @@ title: Teaching & learning materials
 
 All slides and video are released under a <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> license, and all code is released under an <a href="https://en.wikipedia.org/wiki/MIT_License">MIT</a> license.  Raw materials for many of these slides--including images, .Rmd, and .tex files---are available [here](https://github.com/compsocialscience/summer-institute/tree/master/2019/materials).
 
-### University of Helsinki, Matti Nelimarkka, taught in English using R
+### Istanbul, Turkey (Kadir Has University), Matti Nelimarkka and Akın Ünver, taught in English using R
 
 #### Slides
 
-*  [Ethics: Principles-based approach and European perspectives](https://github.com/compsocialscience/summer-institute/blob/master/2018/helsinki/slides/ethics.pptx)
-* [What is data?](https://github.com/compsocialscience/summer-institute/blob/master/2018/helsinki/slides/digitaltracedata.pptx)
-*  [Qualitative analysis](https://github.com/compsocialscience/summer-institute/blob/master/2018/helsinki/slides/qualitativeanalysis.pptx)
-* [A Few Notes about MTurk](https://github.com/compsocialscience/summer-institute/blob/master/2018/helsinki/slides/mturkcomments.pptx)
 
 #### Code
 
-* [How to use open data and application programming interfaces](https://github.com/compsocialscience/summer-institute/blob/master/2018/helsinki/slides/Using_open_data.ipynb)
 
 #### License
 
