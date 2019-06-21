@@ -68,7 +68,7 @@
   events:
     - name: "8:00 AM - 8:30 AM: Logistics *(No Live Stream)*"
     - name: "8:30 AM - 11:30 AM: Modeling & Experiments w/ Josh Becker *(No Live Stream)*"
-    - name: "11:30 PM - 12:30 PM: Lunch *(No Live Stream)*"
+    - name: "11:30 AM - 12:30 PM: Lunch *(No Live Stream)*"
     - name: "12:30 PM - 1:30 PM: Group Formation for Second Week *(No Live Stream)*"
     - name: "1:30 PM - 2:30 PM: Andy Papachristos talk [Link to video](https://youtu.be/2ZqvF1Yfw3g) *(Chicago Live Stream)*"
     - name: "2:30 PM - 3:30 PM: Group Formation for Second Week *(No Live Stream)*"
@@ -95,4 +95,6 @@
 - date: 2019-06-28
   name: Present group projects
   events:
-    - name: "12:30 - 4:15 PM: Present group projects *(Not open to public/ No livestream)*"
+    - name: "9:00 AM - 1O:00 AM: Machine Learning Talk *(Optional)*"
+    - name: "12:30 PM - 1:30 PM: Lunch *(No Live Stream)*"
+    - name: "1:30 - 4:30 PM: Present group projects *(Not open to public/ No livestream)*"
