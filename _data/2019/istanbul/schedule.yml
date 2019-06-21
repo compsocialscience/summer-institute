@@ -65,27 +65,23 @@
     - name: "9:00 - 9:30 Recap"
     - name: "9:30 - 11:00 Guest speaker: Justin Grimmer [delayed stream]"
     - name: "11:00 - 11:30 Break"
-    - name: "11:30 - 12:30 Online experiments"
+    - name: "11:30 - 12:30 Online experiments [slides](https://helsinkifi-my.sharepoint.com/:p:/g/personal/mnelimar_ad_helsinki_fi/EZknd0uxq9VOosXCU9SiprsBHW6zCcIc_BAIn8qrY2b79A?e=U9jnj1)"
     - name: "12:30 - 13:30 Lunch"
-    - name: "13:30 - 15:00 Group exercise: surveys & online experiments (activity)[https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/SICSS_survey_activity_2019.pdf]"
+    - name: "13:30 - 15:00 Group exercise: surveys & online experiments (activity)[https://github.com/compsocialscience/summer-institute/tree/master/2019/materials/day4-surveys/activity]"
     - name: "15:00 - 15:30 Break"
-    - name: "15:30 - 16:00 Group exercise: surveys & online experiments (activity)[https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/SICSS_survey_activity_2019.pdf]"
+    - name: "15:30 - 16:00 Group exercise: surveys & online experiments (activity)[https://github.com/compsocialscience/summer-institute/tree/master/2019/materials/day4-surveys/activity]"
     - name: "16:00 - 17:00 Group exercise: surveys & online experiments (activity)[https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/05-intro-to-activity.pdf]"
+    - name: "17:00 - 17:30 Break"
+    - name: "17:30 - 18:30 Introduction to mass collaboration"
     - name: "18:30 - 19:30 Break"
     - name: "23:00 - 0:30 Guest speaker: Annie Liang [live stream, optional]"
 - date: 2019-06-22
   name: "Mass collaboration"
   events:
     - name: "9:00 - 9:30 Recap"
-    - name: "9:30 - 11:00 Guest speaker: Annie Liang [delayed stream]"
-    - name: "11:00 - 11:30 Break"
-    - name: "11:30 - 12:30 Introduction to mass collaboration"
-    - name: "12:30 - 13:30 Lunch"
 - date: 2019-06-23
   name: "Day off"
   events:
-    - name: "12:30 - 13:30 Lunch"
-    - name: "18:30 - 19:30 Break"
 - date: 2019-06-24
   name: "Work on group projects"
   events:
