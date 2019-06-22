@@ -38,47 +38,46 @@
     - name: "9:30 - 9:45 Basic Text Analysis/GREP [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/basic-text-analysis/Rpres/Basic_Text_Analysis.html), [Annotated Code](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/basic-text-analysis/rmarkdown/Basic_Text_Analysis_in_R.html)"
     - name: "9:45 - 10:00 Dictionary-Based Text Analysis [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/dictionary-methods/Rpres/Dictionary_Based_Analysis.html), [Annotated Code](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/dictionary-methods/rmarkdown/Dictionary-Based_Text_Analysis.html)"
     - name: "10:00 - 10:15 Coffee Break"
-    - name: "10:15 - 11:15 Topic models/Structural Topic Models (Guest Lecture by Brandon Stewart [Slides from Chris](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/topic-modeling/Rpres/Topic_Modeling.html), [Annotated Code from Chris](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/topic-modeling/rmarkdown/Topic_Modeling.html)"
+    - name: "10:15 - 11:15 Topic models/Structural Topic Models (Guest Lecture by Brandon Stewart [Slides from Brandon](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day3-text-analysis/stewart_slides.pdf) [Slides from Chris](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/topic-modeling/Rpres/Topic_Modeling.html), [Annotated Code from Chris](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/topic-modeling/rmarkdown/Topic_Modeling.html)"
     - name: "11:15 - 11:20 Break"
     - name: "11:20 - 12:30 Text Networks [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/text-networks/Rpres/Text_Networks.html), [Annotated Code](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/text-networks/rmarkdown/Text_Networks.html)"
     - name: "12:30 - 2:00 Lunch and Guest Speaker: Jennifer Pan"
     - name: "2:00 - 4:00 [Group Exercise](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/SICSS_Group_Exercise_Day_3.html)"
-    - name: "4:00 - 5:30 Guest speaker: Sam Adams"
+    - name: "4:00 - 5:30 Guest speaker: Sam Adams [Livestream](https://primetime.bluejeans.com/a2m/live-event/kcpwvcsj)"
     - name: "5:30 - 7:30 NC BBQ Cookout Social"
     
     
 - date: 2019-06-20
   name: "Surveys in the Digital Age"
   events:
-    - name: "9:00 - 9:15 Logistics (Princeton livestream)"
-    - name: "9:15 - 9:45 Survey research in the digital age (Princeton livestream) [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/01-survey-research-digital-age.pdf)"
-    - name: "9:45 - 10:15 Probability and non-probability sampling (Princeton livestream) [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/02-nonprobability-sampling.pdf)"
-    - name: "10:15 - 10:30 Coffee break"
-    - name: "10:30 - 11:00 Computer-administered interviews and wiki surveys (Princeton livestream) [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/03-computer-administered-interviews.pdf)"
-    - name: "11:00 - 11:30 Combining surveys and big data (Princeton livestream) [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/04-combining-surveys-and-big-data.pdf)"
-    - name: "11:30 - 12:00 Group exercise introduction (Princeton livestream)"
-    - name: "12:00 - 12:30 Begin group exercise"
+    - name: "9:00 - 9:15 Logistics (*Not open to public/No livestream*)"
+    - name: "9:15 - 9:35 Survey research in the digital age [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/01-survey-research-digital-age.pdf)"
+    - name: "9:35 - 9:55 Probability and non-probability sampling [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/02-nonprobability-sampling.pdf)"
+    - name: "9:55 - 10:15 Computer-administered interviews and wiki surveys [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/03-computer-administered-interviews.pdf)"
+    - name: "10:15 - 10:35 Combining surveys and big data [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/04-combining-surveys-and-big-data.pdf)"
+    - name: "10:35 - 10:45 Coffee break"
+    - name: "10:45 - 11:15 Group exercise introduction [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/05-intro-to-activity.pdf)"
+    - name: "11:15 - 12:30 Begin group exercise [Exercise](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/SICSS_survey_activity_2019.pdf), Optional datasets: [Survey data](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/2019-06-13_mturk_data_clean.csv), [post-stratification data](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/2017_acs_data_clean.csv) (*Not open to public/No livestream*)"
     - name: "12:30 - 1:30 Lunch"
-    - name: "1:30 - 3:15 Continue group exercise"
+    - name: "1:30 - 3:15 Continue group exercise (*Not open to public/No livestream*)"
     - name: "3:15 - 3:45 Discuss activity and open-source data [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/06-intro-to-open-sourcing-data.pdf)"
     - name: "3:45 - 4:00 Break"
-    - name: "4:00 - 5:30 Guest speaker: Justin Grimmer (Princeton livestream)"
+    - name: "4:00 - 5:30 Guest speaker: Justin Grimmer"
+    - name: "6:00 - 7:30 Dinner & Discussion (*Not open to public/No livestream*)"
 
 - date: 2019-06-21
   name: "Mass Collaboration"
   events:
-    - name: "9:00 - 9:15 Logistics"
-    - name: "9:15 - 9:30 Mass collaboration (Princeton livestream)"
-    - name: "9:30 - 9:45 Human computation (Princeton livestream)"
-    - name: "9:45 - 10:00 Open call (Princeton livestream)"
-    - name: "10:00 - 10:15 Distributed data collection (Princeton livestream)"
+    - name: "9:00 - 9:15 Logistics (*Not open to public/No livestream*)"
+    - name: "9:15 - 9:45 Mass collaboration [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day5-mass-collaboration/01-mass-collaboration.pdf)"
+    - name: "9:45 - 10:15 The Fragile Families Challenge [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day5-mass-collaboration/02-ffchallenge.pdf)"
     - name: "10:15 - 10:30 Coffee break"
-    - name: "10:30 - 11:30 Introduction to the Fragile Families Challenge (Princeton livestream)"
-    - name: "11:30 - 12:30 A Brief Introduction to Machine Learning"
+    - name: "10:30 - 11:30 Participating in the Fragile Families Challenge Activity [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day5-mass-collaboration/03-ffchallenge_participate_activity.pdf)"
+    - name: "11:30 - 12:30 A Brief Introduction to Machine Learning with Georgiy Bobashev, Center for Data Science at RTI [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/speaker-slides/GeorgiyBobashevSlides.pdf)"
     - name: "12:30 - 1:30 Lunch"
     - name: "1:30 - 2:30 Drone Data Workshop"
     - name: "2:30 - 2:45 Break"
-    - name: "2:45 - 3:45 Synthetic Populations Workshop"
+    - name: "2:45 - 3:45 Synthetic Populations Workshop [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/speaker-slides/SynthPopSlides.pdf)"
     - name: "3:45 - 4:30 Tour of RTI"
     - name: "4:30 - 5:30 Guest speaker: Annie Liang (Princeton livestream)"
 
@@ -101,8 +100,9 @@
     - name: "11:15 – 12:15 High-throughput behavioral science using virtual labs by guest speaker Abdullah Almaatouq (SICSS 2017) (Princeton recording)"
     - name: "12:15 - 12:30 Get lunch from cafeteria"
     - name: "12:30 - 1:30 Lunch and panel of book publishing: Meagan Levinson (Senior Editor, Princeton University Press), Eric Schwartz (Editorial Director, Columbia University Press), and Chris Bail (Editor of the Oxford University Press Series in Computational Social Science) (Princeton livestream)"
-    - name: "1:30 - 2:30 Logistics and speed-dating for group formation"
+    - name: "1:30 - 2:30 [Research Speed Dating](https://compsocialscience.github.io/summer-institute/2019/materials/research-speed-dating/Speed_Dating.html) (*Not open to public/No livestream*)"
     - name: "2:30 - 4:30 Groups start work"
+    - name: "4:30 - 5:00 Wrap-up and Discussion"
     
 - date: 2019-06-25
   name: "Work on group projects"
@@ -113,12 +113,12 @@
 - date: 2019-06-26
   name: "Work on group projects"
   events:
-    - name: "12:30 - 1:30 Lunch and Flask Talks"
+    - name: "12:30 - 1:30 Lunch and Flash Talks"
     
 - date: 2019-06-27
   name: "Work on group projects"
   events:
-    - name: "12:30 - 1:30 Lunch and flash talks"
+    - name: "1:00 - 1:15 Flash Talk: Epidemiology Meets Econometrics: Simulation Methods for Food Policy Impact Evaluation (Ben Allaire)"
 
 - date: 2019-06-28
   name: "Present group projects"

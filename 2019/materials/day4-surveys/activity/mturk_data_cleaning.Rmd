@@ -205,5 +205,5 @@ ds <- ds %>% mutate(educ = recode_factor(educ, "No schooling completed" = "no hi
 # Step 5: Save
 
 ```{r}
-write.csv(ds, "cleaned_mturk_jun14_data.csv", row.names = F)
+write.csv(ds, "2019-06-13_mturk_data_clean.csv", row.names = F)
 ```
