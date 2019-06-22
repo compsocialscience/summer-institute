@@ -44,11 +44,11 @@ transition: none
 <img src="impact.png" height="400" />
 
 
-2. This May be Especially True for CSS
+2. This May Be Especially True for CSS
 ========================================================
 
 
-2. This May be Especially True for CSS
+2. This May Be Especially True for CSS
 ========================================================
 
 <img src="colore_by_nodes_arial.png"/>
@@ -186,6 +186,7 @@ Identify Maximally Similar
 
 
 ```r
+library(dplyr)
 # Create distance matrix
 interest_mat <- interests %>%
   tibble::column_to_rownames("Name") %>% 
