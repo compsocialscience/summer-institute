@@ -108,14 +108,14 @@
     - name: "9:00 - 9:15 Logistics (*Not open to public/No livestream*)"
     - name: "9:15 - 10:30 [Research Speed Dating](https://compsocialscience.github.io/summer-institute/2019/materials/research-speed-dating/Speed_Dating.html) (*Not open to public/No livestream*)"
     - name: "12:30 - 1:30 Lunch and guest speaker: Eric Schwartz (Editorial Director, Columbia University Press). [Why and How to Publish a Book with a University Press](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/speaker-slides/EricSchwartzSlides.pdf)"
-    - name: "4:00 - 5:30  Participant flash talks: Kevin Munger; Steph Teeple, *Electronic medical records 101*; Jae Kim, *3 Tips to Teach Computational Social Science*; Keng-Chi Chang; Tom Davidson *An intro to automated hate speech detection*"
+    - name: "4:00 - 5:30  Participant flash talks: Kevin Munger; Steph Teeple, *Electronic medical records 101*; Jaren Haber, *Web-scraping a mess in Python* Jae Kim, *3 Tips to Teach Computational Social Science*; Keng-Chi Chang; Tom Davidson, *An intro to automated hate speech detection*"
     - name: "6:00 - 7:30 Dinner & Discussion (*Not open to public/No livestream*)"
 
 - date: 2019-06-25
   name: Work on group projects
   events:
     - name: "12:30 - 2:00 Lunch and Guest Speaker: Chris Wiggins"
-    - name: "4:00 - 5:30  Participant flash talks: Nick Camp; Austin van Loon; Yuan Yuan; Victoria Asbury; Alex Kindel *Code as Data*"
+    - name: "4:00 - 5:30  Participant flash talks: Nick Camp; Austin van Loon, *Computational Analysis of Network Data*; Amin Rahimian, *Learning from Feedback generated on Social Networks*; Yuan Yuan; Nynke Niezink; Alex Kindel, *Code as Data*"
     - name: "6:00 - 7:30 Dinner & Discussion (*Not open to public/No livestream*)"
 
 - date: 2019-06-26
