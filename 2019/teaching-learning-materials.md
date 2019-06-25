@@ -159,7 +159,7 @@ All slides are released under a <a href="https://creativecommons.org/licenses/by
 
 ### Oxford, England (Oxford University)
 
-Ridhi Kashyap, Nicolò Cavalli, and Taylor Brown, taught in English using R
+Ridhi Kashyap, Nicolo Cavalli, and Taylor Brown, taught in English using R
 
 #### Collecting Digital Trace Data
 
