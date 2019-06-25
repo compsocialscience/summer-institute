@@ -6,10 +6,15 @@ title: Teaching & learning materials
 #### Teaching and learning materials
 #### 2019 Summer Institutes for Computational Social Science
 
-- **[Princeton, NJ (Princeton University), Matthew Salganik and Chris Bail, taught in English using R](#princeton-university-matthew-salganik=chris-bail-taught-in-english-using-r)**
--
+- **[Princeton, NJ (Princeton University), Matthew Salganik and Chris Bail, taught in English using R](#princeton-nj-princeton-university)**
+- **[Istanbul, Turkey (Kadir Has University), Matti Nelimarkka and Akin Unver, taught in English using R](#istanbul-turkey-kadir-has-university)**
+- **[Oxford, England (Oxford University), Ridhi Kashyap, Nicolo Cavalli, and Taylor Brown, taught in English using R](#oxford-england-oxford-university)**
+- **[Research Triangle Park, NC (RTI International), Antje Kirchner, Craig Hill, Alan Blatecky, Helen Jang, and Jacqueline Olich, taught in English using R](#research-triangle-park-nc-rti-international)**
 
-### Princeton University, Matthew Salganik and Chris Bail, taught in English using R
+
+### Princeton, NJ (Princeton University)
+
+Matthew Salganik and Chris Bail, taught in English using R
 
 #### Day 1: Introduction and Ethics
 
@@ -102,30 +107,93 @@ title: Teaching & learning materials
 - Discuss activity and open-source data
   - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/06-intro-to-open-sourcing-data.pdf)
 
-
-
 #### Day 5: Mass Collaboration
 
+- Mass collaboration
+  - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day5-mass-collaboration/01-mass-collaboration.pdf)
+  - Video coming soon
+- The Fragile Families Challenge 
+  - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day5-mass-collaboration/02-ffchallenge.pdf)
+  - Video coming soon
+- Participating in the Fragile Families Challenge Activity 
+  - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day5-mass-collaboration/03-ffchallenge_participate_activity.pdf)
+  - Video coming soon
 
 #### Day 6: Experiments
 
-
-#### Participant flash talks
-
-- Coming soon
+- What, why, and which experiments? 
+  - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day6-experiments/01-what-why-which-experiments.pdf)
+  - Video coming soon
+- Moving beyond simple experiments 
+  - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day6-experiments/02-moving-beyond-simple-experiments.pdf)
+  - Video coming soon
+- Four strategies for making experiments happen 
+  - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day6-experiments/03-making-it-happen.pdf)
+  - Video coming soon
+- Zero variable cost data and musiclab 
+  - [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day6-experiments/04-zero-variable-cost.pdf)
+  - Video coming soon
 
 #### License
 
 All slides and video are released under a <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> license, and all code is released under an <a href="https://en.wikipedia.org/wiki/MIT_License">MIT</a> license.  Raw materials for many of these slides--including images, .Rmd, and .tex files---are available [here](https://github.com/compsocialscience/summer-institute/tree/master/2019/materials).
 
-### Istanbul, Turkey (Kadir Has University), Matti Nelimarkka and Akın Ünver, taught in English using R
+### Istanbul, Turkey (Kadir Has University)
+
+Matti Nelimarkka and Akin Unver, taught in English using R
 
 #### Slides
 
+- [What is research ethics and why it matters? A global perspective](https://helsinkifi-my.sharepoint.com/:p:/g/personal/mnelimar_ad_helsinki_fi/ETT_nrLXnstAiI0wfLcQnScBhSRs8_1JCDb5ZxXI3kP8Lg?e=CaayeN)
+- [Digital trace data: conceptualization, opportunities and problems](https://helsinkifi-my.sharepoint.com/:p:/g/personal/mnelimar_ad_helsinki_fi/EeObw5mKIqBGkkmWygVfvCMBLDzXDzh66d8PBWfhy0pjkA?e=W0Udzl)
+- [Qualitative analysis](https://helsinkifi-my.sharepoint.com/:p:/g/personal/mnelimar_ad_helsinki_fi/EcYgCdQndm1EuW1ZiFVVUKsBP1RXwVkWrwlI6phGZ042WA?e=uIIuCg)
 
-#### Code
+#### Group Exercises
 
+- [Automated text analysis](https://helsinkifi-my.sharepoint.com/:w:/g/personal/mnelimar_ad_helsinki_fi/EYV_R3YxNUlBmaTYHZCl5ccBsH2gxiBvUQWhWExsN8yBzQ?e=t7IArg)
+- [Machine learning](https://helsinkifi-my.sharepoint.com/:w:/g/personal/mnelimar_ad_helsinki_fi/EeR-Q33aoU9CrOTJ61NaY_8BPtIjpZtwhTtQO5BJcaHiHA?e=TyvtL9)
 
 #### License
 
-All slides are released under a <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> license, and all code is released under an <a href="https://en.wikipedia.org/wiki/MIT_License">MIT</a> license. Raw materials for many of these slides are available [here](https://github.com/compsocialscience/summer-institute/tree/master/2018/materials/helsinki).
+All slides are released under a <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> license, and all code is released under an <a href="https://en.wikipedia.org/wiki/MIT_License">MIT</a> license. 
+
+### Oxford, England (Oxford University)
+
+Ridhi Kashyap, Nicolo Cavalli, and Taylor Brown, taught in English using R
+
+#### Collecting Digital Trace Data
+
+- What is digital trace data? Pros and cons of digital trace data. Research designs involving digital data. [Video](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7ed193d1-8992-4b35-bfad-aa6c00fa0ccb), [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/oxford/materials/ditigal_trace_data/kashyap_digital_trace_data.pdf)
+- Tools and techniques for working with digital trace data. Challenges of ethics and access with digital traces. [Video](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0402558a-aa03-411b-a2be-aa6c00fad8e8), [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/oxford/materials/ditigal_trace_data/kashyap_digital_trace_data_2.pdf), [Tutorial](http://htmlpreview.github.io/?https://github.com/compsocialscience/summer-institute/blob/master/2019/oxford/materials/ditigal_trace_data/facebook_marketing_api_tutorial.html)
+    
+#### Computational Text Analysis
+
+- History of text analysis, and sources of data in the modern age [Video](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=806884e7-6fd5-4782-b38f-aa6c00fbb930), [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/oxford/materials/computational_text_analysis/SICSSOxford2019_ComputationalTextAnalysis_Part1.pdf)
+- Three methods to large-scale text analysis--how they work and what they can('t) do. [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/oxford/materials/computational_text_analysis/SICSSOxford2019_ComputationalTextAnalysis_Part2.pdf)
+  
+#### Non-probability Surveys and Machine Learning
+
+- Probabilistic linkage; Mixing census and big surveys; Multilevel Regression and Post-stratification; ML and Bayesian approaches. [Video](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3032f183-c8e4-4e28-b8e2-aa6c00fcdc7e), [Material](https://github.com/compsocialscience/summer-institute/raw/master/2019/oxford/materials/non_probability_samples/Summer_School_Handout___Prediction_and_Post_Stratification-9.pdf)
+- General form of learning problems, conceptual differences between inference and prediction, supervised and unsupervised prediction, linear model selection and regularization, tree-based methods and SVMs, followed by two examples. [Video](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=de40f466-a78e-4df4-afeb-aa6c00fd3936), [Materials](https://crahal.github.io/teaching/MLatSICSS)
+- A Kaggle style prediction (classification) competition using healthcare data. [Video](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=de40f466-a78e-4df4-afeb-aa6c00fd3936)
+
+#### Experiments 
+
+- Basic concepts on experiments; Literature on experiments (scale and complexity; classifiers and treatment; bots and platforms); computational approaches to experiments. [Livestream](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7eaae28e-746d-430f-8336-aa6c00fdda3c)
+
+#### License
+
+All slides are released under a <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> license, and all code is released under an <a href="https://en.wikipedia.org/wiki/MIT_License">MIT</a> license. 
+
+### Research Triangle Park, NC (RTI International)
+
+Antje Kirchner, Craig Hill, Alan Blatecky, Helen Jang, and Jacqueline Olich, taught in English using R
+
+#### Slides
+
+- [A Brief Introduction to Machine Learning](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/speaker-slides/GeorgiyBobashevSlides.pdf)
+- [Synthetic Populations Workshop](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/speaker-slides/SynthPopSlides.pdf)
+
+#### License
+
+All slides are released under a <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> license, and all code is released under an <a href="https://en.wikipedia.org/wiki/MIT_License">MIT</a> license. 
