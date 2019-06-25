@@ -179,7 +179,7 @@ Ridhi Kashyap, Nicolo Cavalli, and Taylor Brown, taught in English using R
 
 #### Experiments 
 
-- Basic concepts on experiments; Literature on experiments (scale and complexity; classifiers and treatment; bots and platforms); computational approaches to experiments. [Livestream](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7eaae28e-746d-430f-8336-aa6c00fdda3c)
+- Basic concepts on experiments; Literature on experiments (scale and complexity; classifiers and treatment; bots and platforms); computational approaches to experiments. [Video](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7eaae28e-746d-430f-8336-aa6c00fdda3c)
 
 #### License
 
