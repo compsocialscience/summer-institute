@@ -7,7 +7,7 @@ title: Teaching & learning materials
 #### 2019 Summer Institutes for Computational Social Science
 
 - **[Princeton, NJ (Princeton University), Matthew Salganik and Chris Bail, taught in English using R](#princeton-nj-princeton-university)**
-- **[Istanbul, Turkey (Kadir Has University), Matti Nelimarkka and Akin Ünver, taught in English using R](#istanbul-turkey-kadir-has-university)**
+- **[Istanbul, Turkey (Kadir Has University), Matti Nelimarkka and Akin Unver, taught in English using R](#istanbul-turkey-kadir-has-university)**
 - **[Oxford, England (Oxford University), Ridhi Kashyap, Nicolo Cavalli, and Taylor Brown, taught in English using R](#oxford-england-oxford-university)**
 - **[Research Triangle Park, NC (RTI International), Antje Kirchner, Craig Hill, Alan Blatecky, Helen Jang, and Jacqueline Olich, taught in English using R](#research-triangle-park-nc-rti-international)**
 
@@ -140,7 +140,7 @@ All slides and video are released under a <a href="https://creativecommons.org/l
 
 ### Istanbul, Turkey (Kadir Has University)
 
-Matti Nelimarkka and Akin Ünver, taught in English using R
+Matti Nelimarkka and Akin Unver, taught in English using R
 
 #### Slides
 
