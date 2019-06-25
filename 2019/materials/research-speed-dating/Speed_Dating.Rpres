@@ -102,9 +102,10 @@ Research Speed Dating
 ========================================================
 &nbsp;  
 
-1. Maximally similar clusters come up with a group project (30 min)  
-2. Maximally different clusters come up with a group project (30 min)  
-3. We start a new google doc. Each person takes 5 minutes to write down their favorite group project idea  
+1. Maximally similar clusters come up with a group project (30 min).    
+2. Maximally different clusters come up with a group project (30 min).    
+3. We start a new google doc. Each person takes 5 minutes to write down their favorite group project idea.  
+4. We have a 20-30 minute discussion of ideas in the google doc with all SICSS participants at your site.   
 4. Everyone puts their name next to the group project they want to join  
 
 
