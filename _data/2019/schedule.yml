@@ -110,7 +110,7 @@
     - name: "12:30 - 1:30 Lunch and guest speaker: Eric Schwartz (Editorial Director, Columbia University Press). [Why and How to Publish a Book with a University Press](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/speaker-slides/EricSchwartzSlides.pdf)"
     - name: "4:00 - 4:15 Flash talk: Kevin Munger, *Digital Literacy and Sampling* [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/flash-talks/munger_sicss_2019.pdf)" 
     - name: "4:15 - 4:30 Flash talk: Steph Teeple, *Electronic medical records 101* [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/flash-talks/emr_flash_talk_Teeple.Rpres)"
-    - name: "4:30 - 4:45 Flash talk: Jaren Haber, *Web-scraping a mess in Python* [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/flash-talks/Web-scraping the Wild West%20-%20SICSS%2006_24_19.pptx)"
+    - name: "4:30 - 4:45 Flash talk: Jaren Haber, *Web-Scraping a Mess in Python* [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/flash-talks/Web-scraping the Wild West%20-%20SICSS%2006_24_19.pptx)"
     - name: "4:45 - 5:00 Flash talk: Jae Kim, *3 Tips to Teach Computational Social Science*"
     - name: "5:00 - 5:15 Flash talk: Keng-Chi Chang"
     - name: "5:15 - 5:30 Flash talk: Tom Davidson, *An intro to automated hate speech detection*"
@@ -120,10 +120,10 @@
   name: Work on group projects
   events:
     - name: "12:30 - 2:00 Lunch and Guest Speaker: Chris Wiggins. [What should future statisticians CEOs, and senators know about the history and ethics of data?](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/speaker-slides/ChrisWigginsSlides.pdf)"
-    - name: "4:00 - 4:15 Flash talk: Nick Camp"
-    - name: "4:15 - 4:30 Flash talk: Austin van Loon, *Computational Analysis of Network Data*"
-    - name: "4:30 - 4:45 Flash talk: Amin Rahimian, *Learning from Feedback generated on Social Networks*"
-    - name: "4:45 - 5:00 Flash talk: Yuan Yuan"
+    - name: "4:00 - 4:15 Flash talk: Nick Camp *Reverse Correlation:  A Data-Driven Approach to the Content of Mental Representations* [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/flash-talks/Camp_FlashTalk.pdf)"
+    - name: "4:15 - 4:30 Flash talk: Austin van Loon, *Computational Analysis of Network Data* [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/flash-talks//van_loon_FlashTalk.pdf)"
+    - name: "4:30 - 4:45 Flash talk: Amin Rahimian, *Learning from Feedback Generated on Social Networks*"
+    - name: "4:45 - 5:00 Flash talk: Yuan Yuan *Identifying Causality in Large-Scale Online Observational Data*"
     - name: "5:00 - 5:15 Flash talk: Nynke Niezink *Network analysis: A talk about assumptions*"
     - name: "5:15 - 5:30 Flash talk: Alex Kindel, *Code as Data*"
     - name: "6:00 - 7:30 Dinner & Discussion (*Not open to public/No livestream*)"
