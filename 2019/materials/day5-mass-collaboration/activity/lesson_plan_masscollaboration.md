@@ -45,3 +45,5 @@ Form groups of 3-5 people randomly. If possible, each group should have at least
 - This activity requires a lot of data wrangling and R fluency.
 
 - Here are some tips about [data preparation](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day5-mass-collaboration/activity/SICSS_FFC_datacleaning_tips.pdf).
+
+- Here's a [basic submission file](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day5-mass-collaboration/activity/submission.zip) that includes predictions, narrative explanation, and code
