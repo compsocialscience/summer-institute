@@ -3,7 +3,7 @@ layout: default
 title: Teaching & learning materials
 ---
 
-#### Teaching and learning materials
+## Teaching and learning materials
 #### 2019 Summer Institutes for Computational Social Science
 
 - **[Princeton, NJ (Princeton University), Matthew Salganik and Chris Bail, taught in English using R](#princeton-nj-princeton-university)**
