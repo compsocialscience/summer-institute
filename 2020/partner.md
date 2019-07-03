@@ -42,3 +42,13 @@ As we work toward this mission, we will be guided by the following principles:
 2. All materials that organizers develop will be released open source.
 
 3. Funders and partners will have no impact on content. Our firewall between funding and content will be modeled on high-quality news organizations, such as the _New York Times_ and _National Public Radio_.
+
+### Frequently asked questions
+
+- What if I can't run the partner location during the scheduled dates?
+
+That's fine.  [SICSS 2018 in Boulder, Colorado](https://compsocialscience.github.io/summer-institute/2018/boulder/) and [SICSS 2019 in Bamberg, Germany](https://compsocialscience.github.io/summer-institute/2019/bamberg/) both happened at different times from the other partner locations.
+
+- What if I want to host a partner location in a different time zone from other locations?
+
+That's fine.  Each year we have locations spread around the world.  A common strategy is to watch the recordings of the lectures rather than the livestreamed version.  

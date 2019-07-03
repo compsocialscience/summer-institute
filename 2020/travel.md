@@ -36,3 +36,11 @@ You should plan to be on campus in time for a 6pm dinner on Sunday, June 14.  We
 ##### What if I purchase my ticket and my plans change?
 
 You are welcome to change your flight, but we cannot reimburse change fees.  Also, we cannot reimburse any of your ticket cost if you purchase a ticket and then are no longer able to attend.
+
+##### Is it possible to get reimbursed for the cost of travel if I'm planning to drive?
+
+Yes.  We can reimburse you for driving costs at the [standard milage rate](https://www.irs.gov/tax-professionals/standard-mileage-rates) for business travel set by the IRS.
+
+##### If I fly and then take a cab can you reimburse me for both?
+
+No.  We can only reimburse one mode of transportation in each direction.  

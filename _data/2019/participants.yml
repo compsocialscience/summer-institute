@@ -18,7 +18,7 @@
 - name: Karina Caro
   image: /assets/images/karinaCaro.jpg
   bio: "Karina Caro is an Assistant Professor of Informatics at the Faculty of Administrative and Social Sciences of the Autonomous University of Baja California in Ensenada, Mexico. She received her Ph.D. in Computer Science from the Center for Scientific Research and Higher Education of Ensenada, Mexico (CICESE Research Center). She worked as a postdoctoral researcher in the College of Computing and Informatics and in the Antoinette Westphal College of Media Arts & Design at Drexel University. Her research interests are in human-computer interaction, ubiquitous and pervasive computing, accessibility, and videogames for health. Her research focuses on designing and evaluating technology to support cognitive and motor development of children with neurodevelopmental and genetic disorders such as autism, Down Syndrome, and Cerebral Palsy. All her current research projects intersect computing, medical and social sciences. She works very closely with specialists in the care of children with neurodevelopmental disorders such as neuro pediatricians and physical and occupational therapists, as well as, psychotherapists and special education teachers. Her overall research aim is to create technology for supporting the care of children with neurodevelopmental disorders, contributing to the acquisition and practice of the necessary skills to achieve children's independence."
-  website: "www.karinacaro.com"
+  website: "http://www.karinacaro.com"
 
 - name: Keng-Chi Chang
   image: /assets/images/KengChiChangPhoto.jpg
@@ -87,7 +87,7 @@
 - name: Amin Rahimian
   image: /assets/images/aminRahimian.jpg
   bio: "Amin Rahimian is a postdoctoral associate at the MIT Institute for Data, Systems, and Society (IDSS). He received his masters in systems engineering and PhD in electrical and systems engineering from the University of Pennsylvania, and masters in statistics from the Wharton School at UPenn. His research interests include network science, statistics, control and decision theory, with applications to social and economic networks."
-  website: "http://aminrahimian.github.io/"
+  website: "https://aminrahimian.github.io/"
 
 - name: Sarah Rezaei
   image: /assets/images/sarahRezaei.jpg
@@ -120,4 +120,4 @@
 - name: Yuan Yuan
   image: /assets/images/yuanYuan.jpg
   bio: "Yuan Yuan is a PhD student in the MIT Institute for Data, Systems, and Society. His research aims to understand human behavior on online social networks, with a focus on prosocial behavior and social contagion. His research draws upon ideas from machine learning, causal inference, experimental design, and game theory. Before coming to MIT, Yuan received his Bachelor’s degrees in Computer Science and Economics from Tsinghua University."
-  website: "http://www.mit.edu/~yuan2/"
+  website: "https://www.mit.edu/~yuan2/"
