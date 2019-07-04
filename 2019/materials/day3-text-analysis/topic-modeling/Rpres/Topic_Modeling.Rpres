@@ -224,6 +224,16 @@ Plot
 ========================================================
 <img src="topic over time.png" height="400" />
 
+LDAviz
+========================================================
+
+There are some nice R packages for producing interactive visualization of topic models. My favorite is the `ldaviz` package by Carson Sievert. The image below gives you a nice demo of the type of functionality it offers. Also, there is a very handy function for porting stm output to ldaviz called `toLDAvis`
+
+LDAviz
+========================================================
+<img src="ldaviz.png" height="400" />
+
+
 Limitations of Topic Models
 ========================================================
 

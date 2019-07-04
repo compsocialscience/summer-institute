@@ -221,6 +221,13 @@ labels = monthnames)
 ```
 
 
+## Interactive Visualization
+
+There are some nice R packages for producing interactive visualization of topic models. My favorite is the `ldaviz` package by Carson Sievert. The image below gives you a nice demo of the type of functionality it offers. Also, there is a very handy function for porting stm output to ldaviz called `toLDAvis`
+
+![](ldaviz.png)
+
+
 ## Limitations of Topic Models
 
 Topic models have become a standard tool within quantitative text analysis for many different reasons. Topic models can be much more useful than simple word frequency or dictionary based approaches depending upon the use case. Topic models tend to produce the best results when applied to texts that are not too short (such as tweets), and those that have a consistent structure. 
