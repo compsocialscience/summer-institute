@@ -4,7 +4,7 @@ For people at the 2019 Princeton SICSS location, we were able to offer some gran
 
 ## Timeline
 
-We do not yet know exactly when the grants will be due, but we think that it will be around September 1, 2019.  That will give us time to close out all of our expenses and figure out how much money we will be able to award.  Once we have the applications, we should be able to make decisions in about a week.  All money needs to be out of our accounts by October 31, 2019 so that we can close out our grant.
+We do not yet know exactly when the proposals will be due, but we think that it will be around September 1, 2019.  That will give us time to close out all of our expenses and figure out how much money we will be able to award.  Once we have the proposals, we should be able to make decisions in about a week.  All money needs to be out of our accounts by October 31, 2019 so that we can close out our grant.
 
 ## Proposal
 
@@ -24,7 +24,7 @@ Please note that Russell Sage Foundation has a policy that all workers on micro-
 
 ### Financial logistics
 
-Please describe how you think we should transfer the money to your group. Remember we are not a grant making organization so we can only cover expenses that we can put on our credit card and that provide a receipt. Examples of expenses that we can cover include: participant fees on Amazon Mechanical Turk or similar platforms and cloud computing credits. All money needs to be out of our accounts by October 31, 2019 so that we can close out our grant.
+Please describe how you think we should transfer the money to your group. Remember we are not a grant making organization so we can best cover expenses that we can put on our credit card and that provide a receipt. Examples of expenses that we can cover include: participant fees on Amazon Mechanical Turk (or similar platforms) and cloud computing credits. All funds need to be out of our accounts by October 31, 2019 so that we can close out our grant.
 
 ### Ethics and IRB issues
 
@@ -32,7 +32,7 @@ Please highlight any ethics and IRB issues raised by your research and describe 
 
 ### Changes since SICSS
 
-Please describe any changes to your project since SICSS. If the projects have not changed, that's fine too.
+Please describe any changes to your project since SICSS. If the project has not changed, that's fine too.
 
 ### Open science policy
 
