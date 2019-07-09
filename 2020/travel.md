@@ -11,7 +11,10 @@ The Summer Institute will be providing economy class transportation to and from 
 - North American, except East Coast US: $500
 - Outside of North America: $1,300
 
-Due to funding limitations, we are only able to provide economy travel costs; we are not able to provide reimbursement for meals or other incidental expenses.  Also, we are not able to reimburse travel between the airport (or train station) and campus or between your home and the airport (or train station).
+Due to funding limitations:
+- we are not able to provide reimbursement for meals or other incidental expenses.  
+- we are only able to cover economy travel costs.
+- we are not able to reimburse travel between your home and the airport (or train station) or between the airport (or train station) and campus.
 
 Inquiries can be sent to rsfcompsocsci at gmail dot com.
 
@@ -43,4 +46,4 @@ Yes.  We can reimburse you for driving costs at the [standard milage rate](https
 
 ##### If I fly and then take a cab can you reimburse me for both?
 
-No.  We can only reimburse one mode of transportation in each direction.  
+No. We are not able to reimburse travel between your home and the airport (or train station) or between the airport (or train station) and campus. 
