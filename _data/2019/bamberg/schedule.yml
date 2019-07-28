@@ -1,17 +1,17 @@
 - date: 2019-07-28
   events:
-    - name: "Opening Dinner"
+    - name: "Opening dinner"
 
 - date: 2019-07-29
-  name: "Introduction and Ethics (Carsten Schwemmer)"
+  name: "Introduction and Ethics (Carsten Schwemmer + Video Lecture)"
   events:
     - name: "9:00 - 9:15 Logistics"
     - name: "9:15 - 9:30 Introductions"
     - name: "9:30 - 10:00 Introduction to computational social science [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day1-ethics/02-intro-computational-social-science.pdf)"
     - name: "10:00 - 10:30 Why SICSS? [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day1-ethics/02-why-sicss.pdf)"
-    - name: "10:30 - 10:45 Coffee Break"
-    - name: "10:45 - 11:30 Ethics: Principles-based approach [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day1-ethics/03-ethics.pdf)"
-    - name: "11:30 - 12:15 Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day1-ethics/04-areas-of-difficulty.pdf)"
+    - name: "10:30 - 10:45 Coffee break"
+    - name: "10:45 - 11:30 Ethics: principles-based approach [Video](https://youtu.be/H_3qbmlZsp0), [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/03-ethics.pdf)"
+    - name: "11:30 - 12:15 Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty [Video](https://youtu.be/75qv8d8SXW0), [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/04-areas-of-difficulty.pdf)"
     - name: "12:15 - 12:30 Introduction to the group exercise [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day1-ethics/05-intro-group-exercise.pdf) [Case study 1](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day1-ethics/group-exercise/ethics_case_study.pdf) [Case Study 2](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day1-ethics/group-exercise/patreon-case-study.pdf)"
     - name: "12:30 - 1:30 Lunch"
     - name: "1:30 - 3:45 Group exercise"
@@ -23,12 +23,12 @@
   events:
     - name: "9:00 - 9:15 Logistics"
     - name: "9:15 - 9:45 What is digital trace data?"
-    - name: "9:45 - 10:30 Screen-Scraping"
-    - name: "10:30 - 10:45 Coffee Break"
+    - name: "9:45 - 10:30 Screen-scraping"
+    - name: "10:30 - 10:45 Coffee break"
     - name: "10:45 - 11:45 Application Programming Interfaces"
-    - name: "11:45 - 12:30 Building Apps and Bots for Social Science Research"
+    - name: "11:45 - 12:30 Building apps and bots for social science research"
     - name: "12:30 - 1:30 Lunch"
-    - name: "1:30 - 3:45 Group Exercise"
+    - name: "1:30 - 3:45 Group exercise"
     - name: "3:45 - 4:00 Break"
     - name: "4:00 - 5:30 Guest speaker: Deen Freelon (video from SICSS 2018)"
 
@@ -39,7 +39,7 @@
     - name: "09:15 - 09:30 Network analysis: then and now"
     - name: "09:30 - 10:00 The fundamentals of network analysis"
     - name: "10:00 - 10:30 Plotting networks"
-    - name: "10:30 - 10:45 Coffee Break"
+    - name: "10:30 - 10:45 Coffee break"
     - name: "10:45 - 11:45 Node and network level measures"
     - name: "11:45 - 12:30 Exploring network properties"
     - name: "12:30 - 1:30 Lunch"
@@ -51,14 +51,13 @@
   name: "Automated Text Analysis (Carsten Schwemmer)"
   events:
     - name: "9:00 - 9:15 Logistics"
-    - name: "9:15 - 9:30 History of quantitative text analysis"
-    - name: "9:30 - 10:00 Basic Text Analysis"
-    - name: "10:00 - 10:30 Dictionary-Based Text Analysis"
-    - name: "10:30 - 10:45 Coffee Break"
-    - name: "10:45 - 11:30 Supervised models"
-    - name: "11:30 - 12:30 Topic models/Structural Topic Models"
+    - name: "9:15 - 10:10 Basics of quantitative text analysis"
+    - name: "10:10 - 10:30 Dictionary-based text analysis"
+    - name: "10:30 - 10:45 Coffee break"
+    - name: "10:45 - 11:30 Classifiers"
+    - name: "11:30 - 12:30 Structural topic models"
     - name: "12:30 - 1:30 Lunch"
-    - name: "1:30 - 3:45 Group Exercise"
+    - name: "1:30 - 3:45 Group exercise"
 
 - date: 2019-08-02
   name: "Surveys in the Digital Age (video lectures from SICSS Princeton)"
@@ -118,7 +117,7 @@
   name: "Present group projects"
   events:
     - name: "12:30 - 1:30 Lunch"
-    - name: "6:00 - 7:30 Closing Dinner"
+    - name: "6:00 - 7:30 Closing dinner"
 
 - date: 2019-08-09
   events:
