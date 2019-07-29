@@ -83,7 +83,7 @@ Example : https://www.researchgate.net/terms-of-service
 
 ## Warning: screen-scraping can be frustrating
 
-- modern web technologies (e.g. Javascipt) make scraping difficult
+- modern web technologies (e.g. Javascript) make scraping difficult
 - what you care about are often elements deeply nested in html structure
 - websites change all the time
 - my advice: use screen-scraping as a last resort method for data collection
@@ -127,8 +127,9 @@ knitr::include_graphics('figures/source_code.png')
 
 Passing the url as character (string) to the rvest function `read_html()`:
 
-```{r, size = 'scriptsize', linewidth = 80}
-wikipedia_page <- read_html("https://en.wikipedia.org/w/index.php?title=World_Health_Organization_ranking_of_health_systems_in_2000") # get html
+```{r, size = 'scriptsize', linewidth = 60}
+url <- 'https://en.wikipedia.org/w/index.php?title=World_Health_Organization_ranking_of_health_systems_in_2000'
+wikipedia_page <- read_html(url) # get html
 
 wikipedia_page # inspect object
 ```
@@ -281,7 +282,7 @@ str_sub(texts[1], 1, 250) # 250 characters of first article
 - consider legal concerns
 - consider ethical concerns
 - examine other data sources (e.g. API's)
-- use Screen-Scraping as last resort
+- use screen-scraping as last resort
 
 ## 
 

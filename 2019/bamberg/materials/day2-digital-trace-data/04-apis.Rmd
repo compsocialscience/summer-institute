@@ -160,7 +160,7 @@ names(json_data)
 
 ## Guardian API - nested structures
 
-JSON files can be nested several layers depp. For the guardian API, article data is returned under the key `results`, which in turn has to be accessed through `response` (see documentation).
+JSON files can be nested several layers deep. For the guardian API, article data is returned under the key `results`, which in turn has to be accessed through `response` (see documentation).
 
 ```{r}
 df <- json_data$response$results
@@ -211,7 +211,7 @@ get_guardian_articles <- function(query, max_pages = 5) {
 
 ## Using API-specific R packages
 
-- data from most APi's can be retrieved with http requests and by applying loops (pagination) 
+- data from most API's can be retrieved with http requests and by applying loops (pagination) 
 - some packages like [rtweet](https://cran.r-project.org/web/packages/GuardianR/index.html) make it easier to work with APIs
 - not all R packages (including those for APIs) are regularly maintained. Before using API-specific R packages, check whether developers are still active and the documentation is sufficient.
 - `rtweet`is an example for a well-maintained package with active developers: https://github.com/mkearney/rtweet
@@ -277,8 +277,6 @@ consumer_secret <- Sys.getenv('twitter_consumer_secret')
 access_token <- Sys.getenv('twitter_access_token')
 access_token_secret <- Sys.getenv('twitter_access_secret')
 ```
-
-
 
 ## Authenticate yourself with Twitter API
 
@@ -349,7 +347,7 @@ cat(sanders_favorites$text[1])
 
 ## Get trending topics by location
 
-```{r}
+```{r, size = 'footnotesize', width = 60}
 trends <- get_trends("United Kingdom")
 trends$trend[1:3]
 ```
@@ -376,7 +374,8 @@ post_tweet("I love APIs")
 
 ```{r, size = 'scriptsize', linewidth = 60}
 #load list of twitter handles for elected officials
-elected_officials <- read_csv("https://cbail.github.io/Elected_Officials_Twitter_Handles.csv")
+url <- "https://cbail.github.io/Elected_Officials_Twitter_Handles.csv"
+elected_officials <- read_csv(url)
 head(elected_officials)
 ```
 
