@@ -33,10 +33,10 @@
     - name: "4:30 - 5:30 Guest speaker: Deen Freelon (video from SICSS 2018)"
 
 - date: 2019-07-31
-  name: "Social Network Analysis (Oliver Posegga) [Lecture Material](https://github.com/compsocialscience/summer-institute/tree/master/2019/bamberg/materials/day3-sna)"
+  name: "Social Network Analysis (Oliver Posegga)"
   events:
     - name: "09:00 - 09:15 Logistics"
-    - name: "09:15 - 09:30 Network analysis: then and now"
+    - name: "09:15 - 09:30 Network analysis: then and now [Materials](https://github.com/compsocialscience/summer-institute/tree/master/2019/bamberg/materials/day3-sna)"
     - name: "09:30 - 10:00 The fundamentals of network analysis"
     - name: "10:00 - 10:30 Plotting networks"
     - name: "10:30 - 10:45 Coffee break"
