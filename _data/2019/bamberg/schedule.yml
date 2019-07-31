@@ -51,7 +51,7 @@
   name: "Automated Text Analysis (Carsten Schwemmer)"
   events:
     - name: "9:00 - 9:15 Logistics"
-    - name: "9:15 - 10:10 Basics of quantitative text analysis"
+    - name: "9:15 - 10:10 Basics of quantitative text analysis [Materials for entire day](https://github.com/compsocialscience/summer-institute/tree/master/2019/bamberg/materials/day4-text-analysis)"
     - name: "10:10 - 10:30 Dictionary-based text analysis"
     - name: "10:30 - 10:45 Coffee break"
     - name: "10:45 - 11:30 Classifiers"
