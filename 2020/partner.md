@@ -52,3 +52,13 @@ That's fine.  [SICSS 2018 in Boulder, Colorado](https://compsocialscience.github
 - What if I want to host a partner location in a different time zone from other locations?
 
 That's fine.  Each year we have locations spread around the world.  A common strategy is to watch the recordings of the lectures rather than the livestreamed version.  
+
+- How can I learn more about what it is like at a partner location?
+
+At the end of each year, we write a post-mortem that describes what went well and what could be better at each of the parnter locations.  Here's our [2018 post-mortem](https://msalganik.wordpress.com/2018/08/07/summer-institutes-in-computational-social-science-2018-post-mortem/).
+
+Also, here are some articles and blog posts about the Summer Institutes:
+- https://www.rti.org/insights/using-data-science-solve-social-science-dilemmas
+- https://www.princeton.edu/news/2019/07/16/summer-institute-advances-social-science-digital-age
+- https://ocean.sagepub.com/blog/2018/9/10/two-weeks-at-the-summer-institute-for-computational-social-science
+- https://sssw.hunter.cuny.edu/professor-maria-rodriguez-and-princeton-based-institute-bring-computational-social-science-researchers-to-silberman/
