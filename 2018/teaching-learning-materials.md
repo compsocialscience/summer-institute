@@ -123,15 +123,15 @@ All slides are released under a <a href="https://creativecommons.org/licenses/by
 
 ### University of Helsinki, Matti Nelimarkka, taught in English using R
 
-#### Introduction and Ethics
+#### Day 1: Introduction and Ethics
 
 - Ethics: Principles-based approach and European perspectives [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/helsinki/slides/ethics.pptx)
 
-#### Automated Data Collection
+#### Day 2: Automated Data Collection
 - What is data? [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/helsinki/slides/digitaltracedata.pptx)
 - How to use open data and application programming interfaces [Code](https://github.com/compsocialscience/summer-institute/blob/master/2018/helsinki/slides/Using_open_data.ipynb)
 
-#### Automated Text Analysis 
+#### Day 3: Automated Text Analysis 
 - Qualitative analysis [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/helsinki/slides/qualitativeanalysis.pptx)
 - A Few Notes about MTurk [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2018/helsinki/slides/mturkcomments.pptx)
 
