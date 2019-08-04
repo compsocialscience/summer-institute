@@ -70,7 +70,7 @@ title: Teaching & learning materials
 
 - Flash Talk: Cleaning up the data cleaning process: Reproducible data cleaning in R (Anne Helby Petersen) [Slides](https://github.com/compsocialscience/summer-institute/tree/master/2018/materials/flash-talks/annehelbypetersen_datamaid_slides.pdf)
 - Flash Talk: Entropy and information-theoretic methods for text analysis (Ryan J. Gallagher) [Slides](https://github.com/compsocialscience/summer-institute/tree/master/2018/materials/flash-talks/2018-SICSS-InfoTheoryTextAnalysis-Gallagher.pdf)
-  - Flash Talk: Open Review Toolkit (Matthew Salganik) [Slides](https://github.com/compsocialscience/summer-institute/tree/master/2018/materials/flash-talks/open_review_toolkit_flashtalk_sicss.pdf)
+- Flash Talk: Open Review Toolkit (Matthew Salganik) [Slides](https://github.com/compsocialscience/summer-institute/tree/master/2018/materials/flash-talks/open_review_toolkit_flashtalk_sicss.pdf)
 
 #### License
 
