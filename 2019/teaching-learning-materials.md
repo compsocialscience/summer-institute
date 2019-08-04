@@ -24,8 +24,7 @@ Matthew Salganik and Chris Bail, taught in English using R
 - Ethics: Principles-based approach [Video](https://youtu.be/H_3qbmlZsp0), [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/03-ethics.pdf)
 - Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty  [Video](https://youtu.be/75qv8d8SXW0), [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/04-areas-of-difficulty.pdf)
 - Introduction to the group exercise [Video](https://youtu.be/8gZ1Ect958M), [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/05-intro-group-exercise.pdf)
-- Group exercise [Lesson plan](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/activity/lesson_plan_ethics.md), [Case study 1](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/activity/ethics_case_study.pdf), [Case study 2](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf) (*Not open to public/No livestream*)
-
+- Group exercise [Lesson plan](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/activity/lesson_plan_ethics.md), [Case study 1](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/activity/ethics_case_study.pdf), [Case study 2](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf)
 #### Collecting Digital Trace Data
 
 - What is digital trace data? [Video](https://youtu.be/q4EG4rSBq2U), [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/what-is-digital-trace-data/What_is_Digital_Trace_Data.html)
@@ -58,7 +57,7 @@ Matthew Salganik and Chris Bail, taught in English using R
 
 - Mass collaboration [Video](https://youtu.be/0XhrZAoepN0), [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day5-mass-collaboration/01-mass-collaboration.pdf)
 - The Fragile Families Challenge  [Video](https://youtu.be/F3PIexBHAig), [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day5-mass-collaboration/02-ffchallenge.pdf)
-- Participating in the Fragile Families Challenge Activity  [Video](https://youtu.be/vGkBUx0QLKc), [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day5-mass-collaboration/03-ffchallenge_participate_activity.pdf
+- Participating in the Fragile Families Challenge Activity  [Video](https://youtu.be/vGkBUx0QLKc), [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day5-mass-collaboration/03-ffchallenge_participate_activity.pdf)
 
 #### Experiments
 
@@ -99,12 +98,12 @@ Julian Hohner, Thomas Saalfeld, and Carsten Schwemmer, taught in English using R
 #### Introduction and Ethics
 - Introduction to computational social science [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day1-ethics/02-intro-computational-social-science.pdf)
 - Why SICSS? [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day1-ethics/02-why-sicss.pdf)
-- Introduction to the group exercise [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day1-ethics/05-intro-group-exercise.pdf) [Case study 1](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day1-ethics/group-exercise/ethics_case_study.pdf) [Case Study 2](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day1-ethics/group-exercise/patreon-case-study.pdf)
+- Introduction to the group exercise [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day1-ethics/05-intro-group-exercise.pdf), [Case study 1](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day1-ethics/group-exercise/ethics_case_study.pdf), [Case Study 2](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day1-ethics/group-exercise/patreon-case-study.pdf)
 
 #### Collecting Digital Trace Data
 - What is digital trace data? [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day2-digital-trace-data/02-what-ist-digital-trace-data.pdf)
-- Screen-scraping [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day2-digital-trace-data/03-screenscraping.pdf) [Code](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day2-digital-trace-data/03-screenscraping.Rmd)
-- Application Programming Interfaces [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day2-digital-trace-data/04-apis.pdf) [Code](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day2-digital-trace-data/04-apis.Rmd)
+- Screen-scraping [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day2-digital-trace-data/03-screenscraping.pdf), [Code](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day2-digital-trace-data/03-screenscraping.Rmd)
+- Application Programming Interfaces [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day2-digital-trace-data/04-apis.pdf), [Code](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day2-digital-trace-data/04-apis.Rmd)
 -  Building apps and bots for social science research [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day2-digital-trace-data/05-bots-apps.pdf) [Code](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day2-digital-trace-data/05-bots-apps.Rmd)
 - Group exercise [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day2-digital-trace-data/06-group-exercise.pdf)
 
