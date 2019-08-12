@@ -38,19 +38,18 @@
     - name: "10:30 - 11:00 Break"
     - name: "11:00 - 12:30 Computational approaches to qualitative analysis"
     - name: "12:30 - 13:30 Lunch"
-    - name: "13:30 - 14:30 Guest lecture:  Mariarosaria Taddeo [live stream]"
-    - name: "14:30 - 15:00 Group exercise: Automated text analysis [activity](https://helsinkifi-my.sharepoint.com/:w:/g/personal/mnelimar_ad_helsinki_fi/EYV_R3YxNUlBmaTYHZCl5ccBsH2gxiBvUQWhWExsN8yBzQ?e=t7IArg)"
+    - name: "13:30 - 15:00 Group exercise: Automated text analysis [activity](https://helsinkifi-my.sharepoint.com/:w:/g/personal/mnelimar_ad_helsinki_fi/EYV_R3YxNUlBmaTYHZCl5ccBsH2gxiBvUQWhWExsN8yBzQ?e=t7IArg)"
     - name: "15:00 - 15:30 Break"
-    - name: "15:30 - 18:30 Group exercise: Automated text analysis [activity](https://helsinkifi-my.sharepoint.com/:w:/g/personal/mnelimar_ad_helsinki_fi/EYV_R3YxNUlBmaTYHZCl5ccBsH2gxiBvUQWhWExsN8yBzQ?e=t7IArg)"
+    - name: "15:30 - 17:30 Group exercise: Automated text analysis [activity](https://helsinkifi-my.sharepoint.com/:w:/g/personal/mnelimar_ad_helsinki_fi/EYV_R3YxNUlBmaTYHZCl5ccBsH2gxiBvUQWhWExsN8yBzQ?e=t7IArg)"
+    - name: "17:30 - 18:30 Guest speaker: Brandon Stewart"
     - name: "18:30 - 19:30 Break"
     - name: "20:00 - 21:00 Guest speaker: Zachary Steinert-Threlkeld [live stream, optional]"
 - date: 2019-06-20
   name: "Machine learning and surveys"
   events:
     - name: "9:00 - 9:30 Recap"
-    - name: "9:30 - 10:30 Quantitative analysis"
-    - name: "10:30 - 11:00 Break"
-    - name: "11:00 - 12:30 Group exercise: Machine learning [activity](https://helsinkifi-my.sharepoint.com/:w:/g/personal/mnelimar_ad_helsinki_fi/EeR-Q33aoU9CrOTJ61NaY_8BPtIjpZtwhTtQO5BJcaHiHA?e=TyvtL9)"
+    - name: "9:30 - 10:30 Quantitative analysis [slide](https://helsinkifi-my.sharepoint.com/:p:/g/personal/mnelimar_ad_helsinki_fi/EURlx-PasCxCqaHN7eLlLaQBKVcLYyEvM3AKyWEHaHVBoQ?e=s37t3V) [code](https://github.com/compsocialscience/summer-institute/blob/master/2019/istanbul/material/Quantitative%20analysis.ipynb)"
+    - name: "10:30 - 12:30 Group exercise: Machine learning [activity](https://helsinkifi-my.sharepoint.com/:w:/g/personal/mnelimar_ad_helsinki_fi/EeR-Q33aoU9CrOTJ61NaY_8BPtIjpZtwhTtQO5BJcaHiHA?e=TyvtL9)"
     - name: "12:30 - 13:30 Lunch"
     - name: "13:30 - 15:00 Guest speaker: Alondra Nelson [delayed stream]"
     - name: "15:00 - 15:30 Break"
@@ -64,30 +63,25 @@
   name: "Experiments & surveys"
   events:
     - name: "9:00 - 9:30 Recap"
-    - name: "9:30 - 10:30 Online experiments"
-    - name: "10:30 - 11:00 Break"
-    - name: "11:00 - 12:30 Online experiments"
+    - name: "9:30 - 11:00 Guest speaker: Justin Grimmer [delayed stream]"
+    - name: "11:00 - 11:30 Break"
+    - name: "11:30 - 12:30 Online experiments [slides](https://helsinkifi-my.sharepoint.com/:p:/g/personal/mnelimar_ad_helsinki_fi/EZknd0uxq9VOosXCU9SiprsBHW6zCcIc_BAIn8qrY2b79A?e=U9jnj1)"
     - name: "12:30 - 13:30 Lunch"
-    - name: "13:30 - 15:00 Group exercise: surveys & online experiments (activity)[https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/SICSS_survey_activity_2018.pdf]"
+    - name: "13:30 - 15:00 Group exercise: surveys & online experiments (activity)[https://github.com/compsocialscience/summer-institute/tree/master/2019/materials/day4-surveys/activity]"
     - name: "15:00 - 15:30 Break"
-    - name: "15:30 - 17:00 Guest speaker: Justin Grimmer [delayed stream]"
-    - name: "17:00 - 17:30 Group exercise: surveys & online experiments (activity?)[https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/SICSS_survey_activity_2018.pdf]"
-    - name: "17:30 - 18:30 Group exercise: surveys & online experiments (activity - to be updated?)[https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/SICSS_survey_activity_2018.pdf]"
+    - name: "15:30 - 16:00 Group exercise: surveys & online experiments (activity)[https://github.com/compsocialscience/summer-institute/tree/master/2019/materials/day4-surveys/activity]"
+    - name: "16:00 - 17:00 Group exercise: surveys & online experiments (activity)[https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/05-intro-to-activity.pdf]"
+    - name: "17:00 - 17:30 Break"
+    - name: "17:30 - 18:30 Introduction to mass collaboration"
     - name: "18:30 - 19:30 Break"
     - name: "23:00 - 0:30 Guest speaker: Annie Liang [live stream, optional]"
 - date: 2019-06-22
   name: "Mass collaboration"
   events:
     - name: "9:00 - 9:30 Recap"
-    - name: "9:30 - 11:00 Guest speaker: Annie Liang [delayed stream]"
-    - name: "11:00 - 11:30 Break"
-    - name: "11:30 - 12:30 Introduction to mass collaboration"
-    - name: "12:30 - 13:30 Lunch"
 - date: 2019-06-23
   name: "Day off"
   events:
-    - name: "12:30 - 13:30 Lunch"
-    - name: "18:30 - 19:30 Break"
 - date: 2019-06-24
   name: "Work on group projects"
   events:
@@ -106,7 +100,7 @@
   events:
     - name: "12:30 - 13:30 Lunch"
     - name: "18:30 - 19:30 Break"
-    - name: "19:30 - 20:30 Guest Speaker: Chris Wiggins [live stream]"
+    - name: "19:30 - 20:30 Guest Speaker: Chris Wiggins [live stream] or job-market panel"
     - name: "23:30 - 0:30 Guest speaker: Laura Nelson [live stream, optional]"
 - date: 2019-06-27
   name: "Work on group projects"
