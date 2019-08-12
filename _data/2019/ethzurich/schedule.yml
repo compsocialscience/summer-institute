@@ -45,7 +45,7 @@
 - date: 2019-06-21
   name: Mass Collaboration
   events:
-    - name: "12:15 - 13:30 Discussion of the previous day’s lecture and materials"
+    - name: "12:15 - 13:00 Discussion of the previous day’s lecture and materials"
     - name: "13:00 - 13:30 Lunch"
     - name: "13:30 - 15:00 Guest speaker : Dirk Helbing"
     - name: "15:15 - 17:30 Mass collaboration (live From Princeton)"
@@ -55,8 +55,8 @@
   name: Experiments
   events:
     - name: "12:15 - 13:45 Introduction to Distributed Computing : Roger Wattenhofer"
-    - name: "13:45 - 14:15 Lunch"
-    - name: "14:15 - 15:00 Group allocation and discussion"
+    - name: "13:45 - 14:05 Lunch"
+    - name: "14:05 - 15:00 Group allocation and mturk task discussion"
     - name: "15:15 - 17:00 Experiments (live From Princeton)"
     - name: "17:15 - 18:15 High-throughput behavioral science using virtual labs by guest speaker Abdullah Almaatouq (SICSS 2017) (live From Princeton)"
 
@@ -93,15 +93,13 @@
   events:
     - name: "12:15 - 13:45 Introduction to statistical models for social network analysis : Christoph Stadtfeld"
     - name: "13:45 - 14:15 Lunch"
-    - name: "14:15 - 15:00 Local Activity"
+    - name: "14:15 - 15:00 Does Politicized Media Distort Political Discourse? Evidence from U.S Cable News Channels : Elena Labzina"
 
 - date: 2019-06-28
   name: Present group projects
   events:
-    - name: "12:15 - 13:45 Project presentations"
-    - name: "13:45 - 14:15 Lunch"
-    - name: "14:15 - 15:00 Project presentations"
-    - name: "15:00 - 15:30 Best project award distribution"
+    - name: "10:30 - 13:45 Project presentations"
+    - name: "13:45 - 16:00 Final Lunch and concluding remarks"
 
 - date: 2019-06-29
   events:

@@ -18,7 +18,11 @@
 - name: Jannis Denecke
   image: /2019/bamberg/images/jannis_denecke.jpg
   bio: "Jannis Denecke is currently pursuing a master’s degree in psychology, as well as in social and economic data science at the University of Konstanz. He holds a B.Sc. in Psychology. His interests lie within the field of cognitive psychology and research methods. Especially modelling aspects and memory, with a focus on neurodegenerative processes are of special interest to him. His current research project focuses on interference with and protection of memoranda in short term memory."
- 
+
+- name: Nourhan Elsayed
+  image: /2019/bamberg/images/nourhan_elsayed.jpg
+  bio: "Nourhan Elsayed is a MA student at the University of Mannheim’s Political Science department. Her research interests include authoritarian regimes, migration and refugees, the politics of the far right and the role of emotions in politics. She is equally interested in how research can drive political and social change. Nourhan received her BS in international politics from Georgetown University."
+
 - name: Susanne Freund
   image: /2019/bamberg/images/susanne_freund.jpg
   bio: "Susanne Freund just finished her PhD in social and organizational psychology at the Catholic University Eichstätt-Ingolstadt (KU). Her main research interests concern prosocial behavior, social justice, communication and conflicts, organizational development, innovative communities, evaluation methods as well as impact research. She has worked in and managed serveral research projects concerning these topics. Additionally, she lectures in social psychology and research methods at the KU."
@@ -48,10 +52,6 @@
   bio: "Manuel Kleinert is a PhD candidate at the department of Sociology at Giessen University. His research focuses on integrating theories and applying diverse methods of CSS in multilevel and longitudinal contexts in order to generate new insights on causes and effects of group-based values and attitudes. Manuel holds a Bachelor and Master Degree in Political Science from the University of Bamberg."
   website: "http://www.uni-giessen.de/fbz/fb03/institute/ifs/prof/internat/teamalle/Manuel%20Kleinert/ManuelKleinert"
 
-- name: Julia C. Leschke
-  image: /2019/bamberg/images/julia_leschke.png
-  bio: "Julia is a PhD candidate at the London School of Economics and Political Science. Her research scrutinises how and when political actors strategically employ populism and which factors explain the variation in voting for populist parties in European countries since 1960. Julia is working on ways to measure and explain political stands using quantitative text analysis, causal inference and geo-spatial modelling. She holds an M.Sc. in Politics Research (University of Oxford) and a B.A. in Social Science (Humboldt University Berlin)."
-  
 - name: Marc Luettecke
   image: /2019/bamberg/images/marc_luettecke.jpg
   bio: "Marc Luettecke is a Master's student in Social and Economic Data Science at the University of Konstanz. He holds a Bachelor's degree in Finance from Loyola University New Orleans and a Master's degree in Finance from the University of Texas (Austin). His preferred research interest lays with individual and group decision behavior, for which he currently learns techniques from the realm of Deep Learning and financial risk behavior for current class and research projects. His past endevaors include positions as a financial consultant and social involvement for housing projects in the Austin area."

@@ -6,10 +6,6 @@ pre_arrival: _pre_arrival.md
 speakers_title: Local Speakers
 ---
 
-<ul class="list-group">
-  <li class="list-group-item list-group-item-info"><i>The SICSS application deadline has been extended until <b>Sunday, April 21, 2019</b></i></li>
-</ul>
-
 [RTI International](https://www.rti.org/) (RTI) is proud to host and be a partner institution of the Summer Institute in Computational Social Science (SICSS) from the morning of Monday, June 17 to evening of Friday, June 28. Sessions and lectures will take place in tandem with the main event at Princeton University, along with 9 other partner institutions around the world. 
 
 RTI will be the only non-university to host a partner site for SICSS. RTI is an independent, nonprofit research institute centrally located between Duke University, the University of North Carolina at Chapel Hill, and North Carolina State University. 
