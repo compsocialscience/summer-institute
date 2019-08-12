@@ -23,9 +23,9 @@
     - name: "8:30 AM - 8:45 AM: Strengths and Weaknesses of Digital Trace Data [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/strengths-weaknesses/Rpres/Strengths_and_Weaknesses.html), [Annotated Code](https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/strengths-weaknesses/rmarkdown/Strengths_and_Weaknesses.html) *(Princeton Live Stream)*"
     - name: "8:45 AM - 9:15 AM: Screen-Scraping [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/screenscraping/Rpres/Screenscraping.html), [Annotated Code](https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/screenscraping/rmarkdown/Screenscraping.html) *(Princeton Live Stream)*"
     - name: "9:15 AM - 9:30 AM: Coffee Break *(No Live Stream)*"
-    - name: "9:30 AM - 10:00 AM: APIs  [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/apis/Rpres/APIs.html), [Annotated Code](https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/apis/rmarkdown/Application_Programming_Interfaces.html) *(Princeton Live Stream)*"
-    - name: "10:00 AM - 11:30 AM: Building Apps & Bots [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/building-apps-bots/Rpres/Building_Apps_for_Social _Science_Research.html), [Annotated Code](https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/building-apps-bots/rmarkdown/Building_Apps_and_Bots_for Social_Science_Research.html) *(Princeton Live Stream)*"
-    - name: "11:30 AM - 12:30 PM: Guest Speaker: Sharon Meraz *(Chicago Live Stream)*"
+    - name: "9:30 AM - 10:00 AM: APIs  [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/apis/Rpres/APIs.html), [Annotated Code](https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/apis/rmarkdown/Application_Programming_interfaces.html) *(Princeton Live Stream)*"
+    - name: "10:00 AM - 11:30 AM: Building Apps & Bots [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/building-apps-bots/Rpres/Building_Apps_for_Social_Science_Research.html), [Annotated Code](https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/building-apps-bots/rmarkdown/Building_Apps_and_Bots_for Social_Science_Research.html) *(Princeton Live Stream)*"
+    - name: "11:30 AM - 12:30 PM: Guest Speaker: Sharon Meraz [Link to video](https://www.youtube.com/watch?v=ORb3z5Je1fo) *(Chicago Live Stream)*"
     - name: "12:30 PM - 1:30 PM: Lunch *(No Live Stream)*"
     - name: "1:30 PM - 3:00 PM: Group Exercise [Group Exercise](https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/Group_Exercise_Day_2.html) *(No Live Stream)*"
     - name: "3:00 PM - 4:30 PM: Guest Speaker: Beth Noveck *(Princeton Live Stream)*"
@@ -43,7 +43,7 @@
     - name: "10:20 AM - 11:30 AM: Text Networks [Slides](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/text-networks/Rpres/Text_Networks.html), [Annotated Code](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/text-networks/rmarkdown/Text_Networks.html) *(Princeton Live Stream)*"
     - name: "11:30 AM - 12:30 PM: Lunch and Guest Speaker: Jennifer Pan *(Princeton Live Stream)*"
     - name: "12:30 PM - 3:00 PM: [Group Exercise](https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/SICSS_Group_Exercise_Day_3.html) *(No Live Stream)*"
-    - name: "3:00 PM - 4:00 PM: Chicago Guest Speaker: Maira Khwaja *(Chicago Live Stream)*"
+    - name: "3:00 PM - 4:00 PM: Chicago Guest Speaker: Maira Khwaja [Link to video](https://www.youtube.com/watch?v=DL9wAUOkX8A) *(Chicago Live Stream)*"
 
 - date: 2019-06-20
   name: Surveys in the Digital Age
@@ -56,7 +56,7 @@
     - name: "9:35 AM - 9:45 AM: Coffee Break *(No Live Stream)*"
     - name: "9:45 AM - 10:15 AM: Group exercise introduction [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/05-intro-to-activity.pdf) *(Princeton Live Stream)*"
     - name: "10:15 AM - 11:30 AM: Begin Group Exercise *(No Live Stream)*"
-    - name: "11:30 AM - 12:30 PM: Chicago Guest Speaker TBD *(Chicago Live Stream)*"
+    - name: "11:30 AM - 12:30 PM: Chicago Guest Speaker Rochelle Terman *(Chicago Live Stream)*"
     - name: "12:30 PM - 1:30 PM: Lunch *(No Live Stream)*"
     - name: "1:30 PM - 2:15 PM: Continue Group Exercise *(No Live Stream)*"
     - name: "2:15 PM - 2:45 PM: Discuss activity and open-source data [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/06-intro-to-open-sourcing-data.pdf) *(Princeton Live Stream)*"
