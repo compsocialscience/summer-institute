@@ -76,7 +76,7 @@ All slides and video are released under a <a href="https://creativecommons.org/l
 Matti Nelimarkka and Akin Unver, taught in English using R
 
 #### Day 1: Introduction and Ethics
-- What is research ethics and why it matters? A global perspective [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/istanbul/material/ethics.pptx))
+- What is research ethics and why it matters? A global perspective [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/istanbul/material/ethics.pptx)
 
 #### Day 2: Automated Data Collection
 - Digital trace data: conceptualization, opportunities and problems [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/istanbul/material/digitaltracedata.pptx)
@@ -86,7 +86,7 @@ Matti Nelimarkka and Akin Unver, taught in English using R
 - Automated text analysis [Activity](https://github.com/compsocialscience/summer-institute/raw/master/2019/istanbul/material/activity_textanalysis.docx)
 
 #### Day 4: Machine Learning
-- Quantitative analysis [Slide](https://github.com/compsocialscience/summer-institute/raw/master/2019/istanbul/material/quantitative.pptx) [Code](https://github.com/compsocialscience/summer-institute/blob/master/2019/istanbul/material/Quantitative%20analysis.ipynb)
+- Quantitative analysis [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/istanbul/material/quantitative.pptx), [Code](https://github.com/compsocialscience/summer-institute/blob/master/2019/istanbul/material/Quantitative%20analysis.ipynb)
 - Machine learning [Activity](https://github.com/compsocialscience/summer-institute/raw/master/2019/istanbul/material/activity_quantitative.docx)
 
 #### License
