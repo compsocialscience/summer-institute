@@ -12,11 +12,11 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \title[]{Introduction to open-sourcing data}
 \author[]{Matthew J. Salganik\\Department of Sociology\\Princeton University}
-\date[]{Summer Institute in Computational Social Science\\June 21, 2018
+\date[]{Summer Institutes in Computational Social Science\\June 20, 2019
 \vfill
 \begin{flushleft}
 {\scriptsize
-The Summer Institute in Computational Social Science is supported by grants from the Russell Sage Foundation and the Alfred P. Sloan Foundation.}
+The Summer Institutes in Computational Social Science is supported by grants from the Russell Sage Foundation and the Alfred P. Sloan Foundation.}
 \end{flushleft}
 \begin{flushright}
 \includegraphics[width=0.1\textwidth]{figures/cc-by.png}
@@ -25,6 +25,16 @@ The Summer Institute in Computational Social Science is supported by grants from
 \begin{document}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \frame{\titlepage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+
+To wrap-up activity:
+\begin{itemize}
+\item Pay your MTurk workers
+\item document and release your data to your local organizer
+\end{itemize}
+
+\end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
@@ -51,44 +61,27 @@ Brief introduction into open-sourcing your data:
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
-\frametitle{Store your data in a simple format}
-
-\pause
-In this case .csv should be good.
-
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-\frametitle{Provide documentation}
-
-\pause
-What would another researcher want to know? 
-
-\begin{itemize}
-\item How and when was this data collected?
-\item What do the different variables describe?
-\end{itemize}
-
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-\frametitle{Provide documentation (more details)}
-
-\begin{figure}
-  \centering
-  \includegraphics[width=0.9\textwidth]{figures/icpsr_metadata}
-\end{figure}
-
-\vfill
-\url{https://www.icpsr.umich.edu/icpsrweb/content/deposit/guide/chapter3docs.html}
-
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
 \frametitle{Beware of privacy}
 \pause
 
-Remove personally identifying information 
+Risks come from combining data sources\\
+\vfill
+\begin{minipage}[c]{0.35\textwidth}
+$\underbrace{\text{Baking soda}}_{\text{Safe}} + \underbrace{\text{Vinegar}}_{\text{Safe}} =$
+\end{minipage}
+\hspace{0.05\textwidth}
+\begin{minipage}[c]{0.55\textwidth}
+\onslide<2>{
+\includegraphics[width=0.8\textwidth]{figures/baking_soda_volcano}\\ {\tiny \url{https://www.flickr.com/photos/edenpictures/15962352215/}}
+}
+\end{minipage}
+
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+\frametitle{Beware of privacy}
+
+Remove personally identifying information and/or information that could be used for linking
 
 \begin{figure}
   \centering
@@ -123,37 +116,24 @@ In this case, we recommend:
 \end{itemize}
 
 For more on coarsening, see this code:\\
-\url{https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/mturk_data_cleaning.Rmd}
+\url{https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/mturk_data_cleaning.Rmd}
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
-For more about de-identification, see \textit{Bit by Bit}, Sec 6.6.2 \href{https://www.bitbybitbook.com/en/1st-ed/ethics/dilemmas/info-risk/}{\textcolor{blue}{``Understanding and managing informational risk''}}
-
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-The 5Ws of data release: \pause
+For more about de-identification, see 
 \begin{itemize}
-\item Who: You
-\pause
-\item What: make your data available to other researchers in a responsible way
-\pause
-\item Where: Dataverse, ICPSR, or an archival data repository \pause (your laptop is not an archival data repository)
-\pause 
-\item When:  when you publish your paper
-\pause
-\item Why: It is good for you and it is good for the world
+\item \textit{Bit by Bit}, Sec 6.6.2 \href{https://www.bitbybitbook.com/en/1st-ed/ethics/dilemmas/info-risk/}{\textcolor{blue}{``Understanding and managing informational risk''}}
+\item Lundberg, Levy, Narayanan, Salganik (2019) ``\href{https://arxiv.org/abs/1809.00103}{Privacy, ethics, and data access: A case study of the Fragile Families Challenge'}'
 \end{itemize}
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
-In this case, you should archive your data here:\\
-\url{https://github.com/compsocialscience/summer-institute/tree/master/2018/materials/day4-surveys/datasets}
+In this case, you should share your data with your local organizer who can post it here:
+\url{https://github.com/compsocialscience/summer-institute/tree/master/2019/materials/day4-surveys/datasets}
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -175,7 +155,6 @@ When you start your projects next week
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
-
 
 
 \end{document}

@@ -6,15 +6,22 @@
 \usepackage{comment}
 \usepackage{url}
 
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \title[]{Introduction to group activity}
 \author[]{Matthew J. Salganik\\Department of Sociology\\Princeton University}
-\date[]{Summer Institute in Computational Social Science\\June 20, 2019
+\date[]{Summer Institutes in Computational Social Science\\June 20, 2019
 \vfill
 \begin{flushleft}
 {\scriptsize
-The Summer Institute in Computational Social Science is supported by grants from the Russell Sage Foundation and the Alfred P. Sloan Foundation.}
+The Summer Institutes in Computational Social Science is supported by grants from the Russell Sage Foundation and the Alfred P. Sloan Foundation.}
 \end{flushleft}
 \begin{flushright}
 \includegraphics[width=0.1\textwidth]{figures/cc-by.png}
@@ -48,7 +55,7 @@ Activity:
 \pause
 \item Try different approaches to weighting and see how the change the estimates
 \pause
-\item De-identify and open-source data (but remember to think about the end at the beginning)
+\item De-identify and ``open-source'' data by sending to your local organizer (but remember to think about the end at the beginning)
 \end{itemize}
 
 \end{frame}
@@ -62,6 +69,8 @@ This activity will give you practice:
 \item Collecting survey data
 \pause
 \item Analyzing survey data (data wrangling and post-stratification)
+\pause
+\item Using the total survey error framework to consider and discussion errors in estimates
 \pause
 \item Working with Amazon Mechanical Turk
 \pause
@@ -87,7 +96,7 @@ Our recommended work flow:
 Our recommended work flow:
 \begin{itemize}
 \item Create a write-up that describes what data you will be collecting, why, and how it will be shared with others (for tips, see \href{https://doi.org/10.1177/2515245917747656}{Meyer})
-\item Create survey on Google Forms (we have a template)
+\item Create survey on Google Forms (we have a \href{https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/2019-06-13_mturk_google_survey.pdf}{template})
 \end{itemize}
 
 \end{frame}
@@ -121,7 +130,7 @@ How should you ask these questions?  \pause You should copy from the American Co
 Our recommended work flow:
 \begin{itemize}
 \item Create a write-up that describes what data you will be collecting, why, and how it will be shared with others (for tips, see \href{https://doi.org/10.1177/2515245917747656}{Meyer})
-\item Create survey on Google Forms (we have a template)
+\item Create survey on Google Forms (we have a \href{https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/2019-06-13_mturk_google_survey.pdf}{template})
 \pause
 \item Deploy to MTurk
 \end{itemize}
@@ -146,7 +155,7 @@ Last year, every group made at least one error deploying their relatively simple
 Our recommended work flow:
 \begin{itemize}
 \item Create a write-up that describes what data you will be collecting, why, and how it will be shared with others (for tips, see \href{https://doi.org/10.1177/2515245917747656}{Meyer})
-\item Create survey on Google Forms (we have a template)
+\item Create survey on Google Forms (we have a \href{https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/2019-06-13_mturk_google_survey.pdf}{template})
 \item Deploy to MTurk
 \pause
 \item Take a break
@@ -185,9 +194,16 @@ A quick and dirty tour of the post-stratification methods we will use
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
-\frametitle{Cell-based Poststratification}
 
-Let's split the sample into $H$ mutually exclusive and exhaustive groups.  
+Use this estimator in three steps:
+\begin{enumerate}
+\item Chop up the sample into groups \pause
+\item Estimate the mean in each group \pause
+\item Combine the estimates for each group into an overall estimate
+\end{enumerate}
+\pause
+
+\vfill
 
 \begin{equation*}
 \hat{\bar{y}}_{post} = \sum_{h=1}^H \frac{N_h}{N} \hat{\bar{y}}_h
@@ -198,11 +214,9 @@ where
 \item $N_h$: size of group $h$
 \item $\hat{\bar{y}}_h$: estimated average outcome for group $h$
 \end{itemize}
-\vfill
-Roughly, we are producing estimates for each group and then putting them together in the right way.
 
 \end{frame}
-
+%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 \frametitle{Cell-based Poststratification}
 
@@ -218,7 +232,7 @@ Assumptions:
 If RHG model holds (and some other minor technical conditions), then the poststratification estimator is unbiased.  See Sarndal et al.\ (1992) Result 15.6.1 
 
 \end{frame}
-
+%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 \frametitle{Bias of cell-based poststratification estimator from non-response}
 
@@ -236,29 +250,7 @@ So, how should we create the $H$ groups? \pause
 In practice this can be difficult because you want to form many groups, but then you have noisy estimates for each group.
 
 \end{frame}
-
-\begin{frame}
-
-\begin{equation*}
-\hat{\bar{y}}_{post} = \sum_{h=1}^H \frac{N_h}{N} \hat{\bar{y}}_h
-\end{equation*}
-where 
-\begin{itemize}
-\item $N$: size of the population
-\item $N_h$: size of group $h$
-\item $\hat{\bar{y}}_h$: estimated average outcome for group $h$
-\end{itemize}
-\vfill
-
-Use this estimator in three steps:
-\begin{enumerate}
-\item Chop up the sample into groups \pause
-\item Estimate the mean in each group \pause
-\item Combine the estimates for each group into an overall estimate
-\end{enumerate}
-
-\end{frame}
-
+%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
 Note:
@@ -268,10 +260,10 @@ Note:
 \end{itemize}
 
 \end{frame}
-
+%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
-Three increasingly sophisticated ways to make group estimate $\hat{\bar{y}}_h$
+Three increasingly sophisticated ways to make group estimate $\hat{\bar{y}}_h$.  You won't have time to do all of these:
 \begin{itemize}
 \item cell-based poststratification
 \item model-based poststratification
@@ -279,32 +271,37 @@ Three increasingly sophisticated ways to make group estimate $\hat{\bar{y}}_h$
 \end{itemize}
 
 \end{frame}
-
-
+%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{Data}
 
 \begin{itemize}
-\item Our survey data comes from a survey of 684 people on MTurk collected in less than a week ago
-\item We will compare to high-quality telephone surveys from the Pew Research Center
-\item To poststratify our survey data, we will use data from the Census Bureau about the population of the US
+\item Our survey data comes from a survey of 495 people on MTurk collected in less than a week ago
+\item We will compare to high-quality telephone surveys from the Pew Research Center (links to \href{https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/2019_pew_benchmark_data.csv}{questionnaires})
+\item To poststratify our survey data, we will use data from the American Community Survey about the population of the US
+\item We use multiple questions because estimates are also a property of a question not just a sample.
 \end{itemize}
 
 \end{frame}
-
+%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{Data}
 
-Example questions (after question wrangling):
+Some questions have multiple choice answers, but we convert to a series of binary variables for analysis.  As asked:
+\begin{center}
+\includegraphics[width=0.8\textwidth]{figures/question_text_pew}
+\end{center}
+
+As analyzed:
 \begin{itemize}
-\item If you were making up the budget for the federal government this year would you increase funding for scientific research?\pause
-\item Do you not smoke cigarettes at all? \pause
-\item All in all, are you satisfied with the way that things are going in this country today? \pause
+\item If you were making up the budget for the federal government this year would you increase funding for scientific research?
+\item If you were making up the budget for the federal government this year would you decrease funding for scientific research?
+\item If you were making up the budget for the federal government this year would you keep funding the same funding for scientific research?
 \end{itemize}
 
 \vfill
-We use multiple questions because estimates are also a property of a question not just a sample.
+This means that each of our estimates are not independent.  For real research, you'd want to handle this a different way.
 
 \end{frame}
-
+%%%%%%%%%%%%%%%%%%%
 \begin{frame}{Simple cell-based poststratification}
 
 Let's do lots of groups.
@@ -317,7 +314,7 @@ Let's do lots of groups.
 \end{itemize}
 
 \end{frame}
-
+%%%%%%%%%%%%%%%%%%
 \begin{frame}{Simple cell-based poststratification}
 
 \begin{equation*}
@@ -328,7 +325,7 @@ Let's do lots of groups.
 $h$ is a group described by a unique combination of gender (2 groups) $\times$ age (4 groups) $\times$ race (5 groups) $\times$ region (4 groups) 
 
 \end{frame}
-
+%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{Cell-based poststratification}
 
 \begin{center}
@@ -343,14 +340,14 @@ $h$ is a group described by a unique combination of gender (2 groups) $\times$ a
 \end{itemize}
 
 \end{frame}
-
+%%%%%%%%%%%%%%
 \begin{frame}{Model-based poststratification}
 
 \begin{equation*}
 \hat{\bar{y}}_{post} = \sum_{h=1}^H \frac{N_h}{N} \hat{\bar{y}}_h
 \end{equation*}
 where
-$\hat{\bar{y}}_h$ comes from
+$\hat{\bar{y}}_h$ comes from an individual-level model
 
 \begin{align*}
 Pr(y_i = 1) = logit^{-1} (\beta_0 + \\
@@ -361,11 +358,11 @@ Pr(y_i = 1) = logit^{-1} (\beta_0 + \\
 \end{align*}
 
 \end{frame}
-
+%%%%%%%%%%%%%%%%%
 \begin{frame}{Mr. P}
 
 \begin{center}
-\only<1>{\includegraphics[width=0.8\textwidth]{figures/park_bayesian_2004_title}}
+\only<1>{\includegraphics[width=0.6\textwidth]{figures/park_bayesian_2004_title}}
 \only<2>{\includegraphics[width=\textwidth]{figures/park_bayesian_2004_abstract}}
 \end{center}
 
@@ -373,10 +370,10 @@ Pr(y_i = 1) = logit^{-1} (\beta_0 + \\
 \url{https://www.jstor.org/stable/25791784} \\ See also Gelman and Hill (2007), Chapter 14 (``Multilevel logistic regression'')
 
 \end{frame}
-
+%%%%%%%%%%%%
 \begin{frame}{Mr. P.}
 
-$\hat{\bar{y}}_h$ comes from\\
+$\hat{\bar{y}}_h$ comes from an individual-level model
 
 \begin{align*}
 Pr(y_i = 1) = logit^{-1} (\beta_0 + \\
@@ -397,16 +394,8 @@ Priors determined by RStanarm (\url{https://cran.r-project.org/web/packages/rsta
 \end{frame}
 
 % Talk about two models fighting, shrinking coefficients toward 0
-
-\begin{frame}{Notes}
-
-\begin{itemize}
-\item Modeling allows you to make more estimates for smaller groups \pause
-\item These techniques is widely used by modern pollsters (e.g., YouGov) and political scientists \pause
-\end{itemize}
-
-\end{frame}
-
+%%%%%%%%%%%%
+%%%%%%%%%%%%%%
 \begin{frame}{To learn more about Mr. P.}
 
 {\footnotesize
@@ -426,6 +415,16 @@ Generally cautious:
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Notes}
+
+\begin{itemize}
+\item Modeling allows you to make more estimates for smaller groups \pause
+\item These techniques is widely used by modern pollsters (e.g., YouGov) and political scientists \pause
+\item You will not finish this activity.  That's OK.
+
+\end{itemize}
+%%%%%%%%%%%%%%%%%%%
+\end{frame}
 \begin{frame}
 
 Our recommended work flow:
@@ -436,7 +435,7 @@ Our recommended work flow:
 \item Take a break
 \item Validate and pay workers
 \item Analyze the much larger sample that we have collected for you
-\item De-identify and open-source the data that you collected
+\item De-identify and ``open-source'' data by sending to your local organizer (but remember to think about the end at the beginning)
 \end{itemize}
 
 \end{frame}
@@ -501,9 +500,28 @@ What would another researcher want to know?
 %%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 \frametitle{Beware of privacy}
-\pause
 
-Remove personally identifying information 
+Risks come from combining data sources\\
+
+\vfill
+
+\begin{minipage}[c]{0.35\textwidth}
+$\underbrace{\text{Baking soda}}_{\text{Safe}} + \underbrace{\text{Vinegar}}_{\text{Safe}} =$
+\end{minipage}
+\hspace{0.05\textwidth}
+\begin{minipage}[c]{0.55\textwidth}
+\onslide<2>{
+\includegraphics[width=0.6\textwidth]{figures/baking_soda_volcano}\\ {\tiny \url{https://www.flickr.com/photos/edenpictures/15962352215/}}
+}
+\end{minipage}
+
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{frame}
+\frametitle{Beware of privacy}
+
+Remove personally identifying information and information that can be used for linking
 
 \begin{figure}
   \centering
@@ -538,13 +556,17 @@ In this case, we recommend:
 \end{itemize}
 
 For more on coarsening, see this code:\\
-\url{https://github.com/compsocialscience/summer-institute/blob/master/2018/materials/day4-surveys/mturk_data_cleaning.Rmd}
+\url{https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/mturk_data_cleaning.Rmd}
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
-For more about de-identification, see \textit{Bit by Bit}, Sec 6.6.2 \href{https://www.bitbybitbook.com/en/1st-ed/ethics/dilemmas/info-risk/}{\textcolor{blue}{``Understanding and managing informational risk''}}
+For more about de-identification, see 
+\begin{itemize}
+\item \textit{Bit by Bit}, Sec 6.6.2 \href{https://www.bitbybitbook.com/en/1st-ed/ethics/dilemmas/info-risk/}{\textcolor{blue}{``Understanding and managing informational risk''}}
+\item Lundberg, Levy, Narayanan, Salganik (2019) ``\href{https://arxiv.org/abs/1809.00103}{Privacy, ethics, and data access: A case study of the Fragile Families Challenge'}'
+\end{itemize}
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -567,8 +589,8 @@ The 5Ws of data release: \pause
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
-In this case, you should archive your data here:\\
-\url{https://github.com/compsocialscience/summer-institute/tree/master/2018/materials/day4-surveys/datasets}
+Share your data to your local organizer who can post it here:\\
+\url{https://github.com/compsocialscience/summer-institute/tree/master/2019/materials/day4-surveys/datasets}
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -600,7 +622,7 @@ Our recommended work flow:
 \item Take a break
 \item Validate and pay workers
 \item Analyze the much larger sample that we have collected for you
-\item De-identify and open-source the data that you collected
+\item De-identify and ``open-source'' data by sending to your local organizer (but remember to think about the end at the beginning)
 \end{itemize}
 
 \end{frame}
