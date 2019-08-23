@@ -8,6 +8,7 @@ title: Teaching & learning materials
 
 - **[Princeton, NJ (Princeton University), Matthew Salganik and Chris Bail, taught in English using R](#princeton-nj-princeton-university)**
 - **[Bamberg, Germany (University of Bamberg), Julian Hohner, Thomas Saalfeld, and Carsten Schwemmer, taught in English using R](#bamberg-germany-university-of-bamberg)**
+- **[Chicago, Illinois (Northwestern University), Kat Albrecht, Natalie Gallagher, and Tina Law, taught in English using R](#chicago-illinois-northwestern-university)**
 - **[Istanbul, Turkey (Kadir Has University), Matti Nelimarkka and Akin Unver, taught in English using R](#istanbul-turkey-kadir-has-university)**
 - **[Oxford, England (Oxford University), Ridhi Kashyap, Nicolo Cavalli, and Taylor Brown, taught in English using R](#oxford-england-oxford-university)**
 - **[Research Triangle Park, NC (RTI International), Antje Kirchner, Craig Hill, Alan Blatecky, Helen Jang, and Jacqueline Olich, taught in English using R](#research-triangle-park-nc-rti-international)**
@@ -119,6 +120,12 @@ Julian Hohner, Thomas Saalfeld, and Carsten Schwemmer, taught in English using R
 
 All slides are released under a <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> license, and all code is released under an <a href="https://en.wikipedia.org/wiki/MIT_License">MIT</a> license.
 
+### Chicago, Illinois (Northwestern University)
+
+Kat Albrecht, Natalie Gallagher, and Tina Law, taught in English using R
+
+- Teaching Computational Social Science: Lessons and Strategies [Video](https://youtu.be/T5Ix6ud9LWI), [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/speaker-slides/Rochelle_Terman_Chicago.pdf) 
+- Modeling and Experiments [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/speaker-slides/Joshua_Becker_Chicago.pdf)
 
 ### Oxford, England (Oxford University)
 
