@@ -24,7 +24,7 @@ Please note that Russell Sage Foundation has a policy that all workers on micro-
 
 ### Financial logistics
 
-Please describe how you think we should transfer the money to your group. Remember we are not a grant making organization so we can best cover expenses that we can put on a credit card and that provide a receipt. Examples of expenses that we can cover include: participant fees on Amazon Mechanical Turk (or similar platforms) and cloud computing credits. We cannot provide cash advances. All funds need to be out of our accounts by October 31, 2019 so that we can close out our grant.
+Please describe how you think we should transfer the resources to your group. Remember we are not a grant making organization so we can best cover expenses that we can put on a credit card and that provide a receipt. Examples of expenses that we can cover include: participant fees on Amazon Mechanical Turk (or similar platforms) and cloud computing credits. The best process is for us to pay directly for the expense. If that is not possible, please email us before submitting your proposal and explain why you would need a different process.All funds need to be out of our accounts by October 31, 2019 so that we can close out our grant.
 
 ### Ethics and IRB issues
 
@@ -56,10 +56,6 @@ Sure.
 #### Is there a deadline for us to spend the money?
 
 No. After we have paid for your research costs, there is no deadline for you to use the items.
-
-#### Can we pay directly and get reimbursed?
-
-The best process is for us to pay directly. If that is not possible, please email us before submitting your proposal and explain why you would need a different process.
 
 #### Does this policy apply to "Team Debate"?
 
