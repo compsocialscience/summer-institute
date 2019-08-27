@@ -24,7 +24,7 @@ Please note that Russell Sage Foundation has a policy that all workers on micro-
 
 ### Financial logistics
 
-Please describe how you think we should transfer the money to your group. Remember we are not a grant making organization so we can best cover expenses that we can put on a credit card and that provide a receipt. Examples of expenses that we can cover include: participant fees on Amazon Mechanical Turk (or similar platforms) and cloud computing credits. All funds need to be out of our accounts by October 31, 2019 so that we can close out our grant.
+Please describe how you think we should transfer the money to your group. Remember we are not a grant making organization so we can best cover expenses that we can put on a credit card and that provide a receipt. Examples of expenses that we can cover include: participant fees on Amazon Mechanical Turk (or similar platforms) and cloud computing credits. We cannot provide cash advances. All funds need to be out of our accounts by October 31, 2019 so that we can close out our grant.
 
 ### Ethics and IRB issues
 
@@ -59,7 +59,7 @@ No. After we have paid for your research costs, there is no deadline for you to 
 
 #### Can we pay directly and get reimbursed?
 
-Our preferred process is for us to pay directly. If that is not possible, we can explore other options.
+The best process is for us to pay directly. If that is not possible, please email us before submitting your proposal and explain why you would need a different process.
 
 #### Does this policy apply to "Team Debate"?
 
@@ -67,4 +67,4 @@ No. Team Debate is working on a different schedule given the nature of their pro
 
 #### We have a question that is not covered here.  What should we do?
 
-Send Matt and Chris a message on Slack.
+Please email Matt and Chris.
