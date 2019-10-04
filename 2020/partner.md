@@ -27,10 +27,6 @@ There were 7 partner locations in 2018: [Hunter College](https://compsocialscien
 
 There were 11 partner location in 2019: [Bamberg, Germany (University of Bamberg)](https://compsocialscience.github.io/summer-institute/2019/bamberg/), [Boston, MA (MIT)](https://compsocialscience.github.io/summer-institute/2019/boston/), [Cape Town, South Africa (University of Cape Town)](https://compsocialscience.github.io/summer-institute/2019/capetown), [Chicago, IL (Northwestern University)](https://compsocialscience.github.io/summer-institute/2019/chicago/), [Istanbul, Turkey (Kadir Has University)](https://compsocialscience.github.io/summer-institute/2019/istanbul/), [Los Angeles, CA (UCLA)](https://compsocialscience.github.io/summer-institute/2019/los-angeles/), [Monterrey, Mexico (Universidad Autónoma de Nuevo León)](https://compsocialscience.github.io/summer-institute/2019/monterrey/), [Oxford, United Kingdom (Oxford University)](https://compsocialscience.github.io/summer-institute/2019/oxford/), [New York, NY (Hunter College-CUNY)](https://compsocialscience.github.io/summer-institute/2019/hunter-nyc/), [Research Triangle Park, NC (RTI International)](https://compsocialscience.github.io/summer-institute/2019/rtp/), and [Zürich, Switzerland (ETH Zürich)](https://compsocialscience.github.io/summer-institute/2019/ethzurich/).
 
-### Sponsoring a partner location
-
-If you would like to sponsor a partner location, please contact us at rsfcompsocsci[at]gmail[dot]com.
-
 ### Mission and guiding principles
 
 The mission of the Summer Institutes in Computational Social Science is to provide open, high-quality training in computational social science to researchers around the world in order to accelerate the growth of the field and ensure that it develops practices that are in the long-term interests of science and society.
@@ -42,6 +38,11 @@ As we work toward this mission, we will be guided by the following principles:
 2. All materials that organizers develop will be released open source.
 
 3. Funders and partners will have no impact on content. Our firewall between funding and content will be modeled on high-quality news organizations, such as the _New York Times_ and _National Public Radio_.
+
+### How to Apply
+
+In order to apply to host a partner site, please submit [this form](https://docs.google.com/document/d/1E_9pcF3D7qbMUqKdGm8-bokOa_32l-dBylzT8HYviBA/edit?usp=sharing) to rsfcompsocsci[at]gmail[dot]com by November 1st, 2019. We will make our best effort to get back to you by November 15th, 2019. 
+
 
 ### Frequently asked questions
 
