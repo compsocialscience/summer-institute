@@ -1,10 +1,10 @@
+- name: Home
+  url: "/2020/"
+- name: Locations
+  url: "/2020/locations"
+- name: Curriculum
+  url: "/2020/curriculum"
 - name: People
   url: "/2020/#people"
-- name: Pre-arrival
-  url: "/2020/#pre-arrival"
-- name: Schedule & materials
-  url: "/2020/#schedule"
-- name: Live Stream
-  url: "/2020/live-stream"
-- name: Apply
-  url: "/2020/apply"
+- name: System
+  url: "/2020/system"
