@@ -9,7 +9,16 @@
   </button>
   <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
     <ul class="navbar-nav ml-auto">
-      <li class="nav-item active">
+      {% for navlink in data.navigation %}
+        <li class="nav-item">
+          <a class="nav-link" href="{{ navlink.url | prepend: site.baseurl }}">{{ navlink.name }}</a>
+        </li>
+      {% endfor %}
+      <li class="nav-item">
+          <a class="nav-link btn btn-light btn-sm text-dark mx-3 font-weight-bold" href="apply.html">Apply</a>
+      </li>
+
+      <!-- <li class="nav-item active">
         <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
@@ -23,9 +32,10 @@
       </li>
       <li class="nav-item">
         <a class="nav-link btn btn-light btn-sm text-dark mx-3 font-weight-bold" href="apply.html">Apply</a>
-      </li>
+      </li> -->
     </ul>
   </div>
+  
   <!-- Collect the nav links, forms, and other content for toggling -->
   <!-- <div class="collapse navbar-collapse" id="navbar">
     <ul class="nav navbar-nav primary-nav">

@@ -1,10 +1,8 @@
 - name: Home
   url: "/2020/"
 - name: Locations
-  url: "/2020/locations"
+  url: "/2020/#locations"
 - name: Curriculum
-  url: "/2020/curriculum"
+  url: "/2020/#curriculum"
 - name: People
   url: "/2020/#people"
-- name: System
-  url: "/2020/system"
