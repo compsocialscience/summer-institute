@@ -17,75 +17,20 @@
       <li class="nav-item">
           <a class="nav-link btn btn-light btn-sm text-dark mx-3 font-weight-bold" href="apply.html">Apply</a>
       </li>
-
-      <!-- <li class="nav-item active">
-        <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="locations.html">Locations</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="curriculum.html">Curriculum</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="people.html">People</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link btn btn-light btn-sm text-dark mx-3 font-weight-bold" href="apply.html">Apply</a>
-      </li> -->
     </ul>
   </div>
-  
-  <!-- Collect the nav links, forms, and other content for toggling -->
-  <!-- <div class="collapse navbar-collapse" id="navbar">
-    <ul class="nav navbar-nav primary-nav">
-      {% for navlink in data.navigation %}
-        {% if navlink.children %}
-          <li class="dropdown">
-            <a href="{{ navlink.url | prepend: site.baseurl }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ navlink.name }} <span class="caret"></span></a>
-            <ul class="dropdown-menu">
-              {% for child in navlink.children %}
-                {% if child.separator %}
-                  <li role="separator" class="divider"></li>
-                {% else %}
-                  <li><a href="{{ child.url | prepend: site.baseurl }}">{{ child.name }}</a></li>
-                {% endif %}
-              {% endfor %}
-            </ul>
-          </li>
-        {% else %}
-        <li><a class="{{ navlink.name }}" href="{{ navlink.url | prepend: site.baseurl }}">{{ navlink.name }}</a></li>
-        {% endif %}
-      {% endfor %}
-    </ul>
-
-    <ul class="nav navbar-nav navbar-right">
-      {% for navlink in site.data.navigation %}
-        {% if navlink.children %}
-          <li class="dropdown">
-            <a href="{{ navlink.url | prepend: site.baseurl }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ navlink.name }} <span class="caret"></span></a>
-            <ul class="dropdown-menu">
-              {% for child in navlink.children %}
-                {% if child.separator %}
-                  <li role="separator" class="divider"></li>
-                {% else %}
-                  <li><a href="{{ child.url | prepend: site.baseurl }}">{{ child.name | markdownify }}</a></li>
-                {% endif %}
-              {% endfor %}
-            </ul>
-          </li>
-        {% else %}
-        <li><a href="{{ navlink.url | prepend: site.baseurl }}">{{ navlink.name | markdownify }}</a></li>
-        {% endif %}
-      {% endfor %}
-    </ul>
-  </div>/.navbar-collapse -->
 </nav>
 {% capture announcements %}{% include announcements.md %}{% endcapture %}
 {% if announcements != "" %}
-<div class="announcements">
-  <div class="container">
-    {{ announcements | markdownify }}
-  </div>
-</div>
+  <!-- Start Notice -->
+  <section class="bg-warning">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <div class="py-2 text-center font-weight-bold">
+                {{ announcements | markdownify }}
+          </div>
+        </div>
+      </div>
+    </section>
 {% endif %}
