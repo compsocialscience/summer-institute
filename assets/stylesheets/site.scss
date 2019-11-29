@@ -1,147 +1,39 @@
----
----
-$btn-default-color:              #555;
-$btn-default-bg:                 #e7e7e7;
-@import "bootstrap";
-@import "hero";
-$fixed-navbar-height: 50px;
-$dark-blue: #137ca9;
-
+html {
+  scroll-behavior: smooth;
+}
 body {
-  // Deal with fixed navbar height.
-  padding-top: $fixed-navbar-height;
-
-  // Fixes issue with fixed navbar and anchor links.
-  :target:before {
-    content: "";
-    display: block;
-    height: $fixed-navbar-height; /* fixed header height*/
-    margin: -$fixed-navbar-height 0 0; /* negative fixed header height */
-  }
+  background: #f1f1f1;
+  font-family: 'Roboto', sans-serif;
 }
-
-.navbar {
-  .navbar-brand {
-    img {
-      position: relative;
-      top: -7px;
-    }
-  }
-  .primary-nav {
-    a.Apply {
-      @extend .btn;
-      @extend .btn-default;
-      margin-top: 10px;
-      margin-left: 15px;
-      html.year_2020 & {
-        @extend .btn-primary;
-      }
-    }
-  }
+.jumbotron {
+  background-image: url('../images/hero-accent.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center bottom;
+  min-height: 500px;
 }
-
-.nav.navbar-right p {
-  display: inline;
+.sub-page .jumbotron {
+  min-height: 300px;
 }
-
-.media {
-  margin-bottom: 1.5em;
+.card-title {
+  font-weight: 900;
 }
-
-.navbar-brand {
-  font-size: 10px;
-  @media (min-width: 375px) {
-    font-size: 12px;
-  }
-  @media (min-width: 425px) {
-    font-size: 14px;
-  }
-  @media (min-width: $screen-sm-min) {
-    font-size: 16px;
-  }
+.card-footer {
+  background: #ffffff;
 }
-.announcements {
-  padding-top: 10px;
-  background-color: $dark-blue;
-  color: white;
-  font-size: 16px;
-  a {
-    color: white;
-    text-decoration: underline;
-  }
+.section-callout {
+  background: #e9ecef;
+  margin: 3rem 0;
+  padding: 3rem 0;
 }
-.introduction {
-  line-height: 2em;
-  font-size: 16px;
-  margin-top: 20px;
-  padding-bottom: 50px;
+.overview-icon {
+  background: #ffffff;
+  border-radius: 100px;
+  width: 150px;
 }
-
-.default.container {
-  padding-bottom: 4em;
-}
-
-.section {
-  padding: 50px 0;
-  &:nth-child(even) {
-    background: #eee;
-  }
-}
-
-.people {
-  .row {
-    margin-bottom: 40px;
-  }
-  h1 {
-    text-transform: uppercase;
-    font-size: 24px;
-    margin-bottom: 20px;
-  }
-  h3 {
-    font-size: 18px;
-  }
-  img {
-    border-radius: 100px;
-    object-fit: cover;
-    float: left;
-    @media (max-width: $screen-sm-max) {
-      width: 100%;
-    }
-    @media (max-width: $screen-xs-max) {
-      width: 150px;
-      margin-right: 20px;
-    }
-  }
-}
-ul.list-group ul {
-  margin-bottom: 10px;
-}
-
-.streaming {
-  .row {
-    margin-bottom: 40px;
-  }
-  h1 {
-    text-transform: uppercase;
-    font-size: 24px;
-    margin-bottom: 20px;
-  }
-  h3 {
-    font-size: 18px;
-  }
-  img {
-    border-radius: 100px;
-    object-fit: cover;
-    float: left;
-    @media (max-width: $screen-sm-max) {
-      width: 100%;
-    }
-    @media (max-width: $screen-xs-max) {
-      width: 150px;
-      margin-right: 20px;
-    }
-  }
-}
-ul.list-group ul {
-  margin-bottom: 10px;
+.nav .active {
+  background: rgba(255,255,255,0.75);
+  color: #005ec4;
+  display: inline-flex;
+  border-radius: 4px;
 }
