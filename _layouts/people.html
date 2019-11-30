@@ -1,0 +1,174 @@
+{% include setup_data.html %}
+<!doctype html>
+<html lang="en">
+  <head>
+    {% include header.html %}
+  </head>
+  <body class="sub-page">
+    {% include navbar.html %}
+    {% include hero_secondary.html %}    
+  <!-- Start content -->
+  <section>  
+    <div class="container"><!-- Directory -->
+      <div class="row">
+        {% include people_sidebar.html %}
+        <!-- <div class="col-md-4">
+          <ul class="nav flex-column">
+            <li class="nav-item">
+              <a class="nav-link active" href="#faculty">Faculty</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#speakers">Speakers</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#teaching_assistants">Teaching Assistants</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#participants">Participants</a>
+            </li>
+          </ul>
+        </div>/col -->
+        <div class="col-sm-8">
+          
+          <!-- Faculty -->
+          <div class="row" id="faculty">
+            <div class="col-sm-12">
+              <h3 class="h3 mb-4">Faculty <small class="text-muted font-weight-light">(Listed alphabetically)</small></h3>
+              {% include searchbar.html %}
+            </div><!--/col-->
+          </div><!--/row-->
+
+          {% if data.faculty %}
+            {% for person in data.faculty %}
+              {% include people_listing.html data=person %}
+            {% endfor %}
+          {% endif %}
+
+          <!-- Speakers -->
+          <div class="row" id="speakers">
+            <div class="col-sm-12">
+              <hr class="mt-5 mb-4">
+              <h3 class="h3 mb-4">Speakers <small class="text-muted font-weight-light">(Listed alphabetically)</small></h3>
+            </div><!--/col-->
+          </div><!--/row-->
+
+          {% if data.speakers %}
+            {% for person in data.speakers %}
+              {% include people_listing.html data=person %}
+            {% endfor %}
+          {% endif %}
+          
+          <div class="media mb-5">
+            <img src="images/abdullah_almaatouq.jpg" alt="Abdullah Almaatouq" width="150" class="mr-5 rounded">
+            <div class="media-body">
+              <h5 class="mt-0 font-weight-bold">Abdullah Almaatouq</h5>
+              Abdullah Almaatouq is a Research Assistant in the Human Dynamics group at the Massachusetts Institute of Technology,
+              where he is pursuing a PhD in Computational Science & Engineering. Abdullah’s work includes conducting theoretical and
+              empirical research on human behavior using innovative approaches and tools ranging from complex systems theory and
+              agent-based modeling, to network analysis, econometric techniques, and behavioral and experimental methods.
+              <br>
+              <a href="http://www.amaatouq.com/" target="_blank" class="btn btn-sm btn-dark mt-3">Website</a>
+            </div><!--/media-body-->
+          </div><!--/media-->
+          
+          <div class="media mb-5">
+            <img src="images/alondra_nelson.jpg" alt="Alondra Nelson" width="150" class="mr-5 rounded">
+            <div class="media-body">
+              <h5 class="mt-0 font-weight-bold">Alondra Nelson</h5>
+              Alondra Nelson is President of the Social Science Research Council and Professor of Sociology at Columbia University,
+              where she served as the inaugural Dean of Social Science. Her research focuses on how science and its applications may
+              shape the social world, including aspects of personal identification, racial formation, and collective action. She is
+              the author of multiple books, most recently <em>The Social Life of DNA: Race, Reparations, and Reconciliation after the
+              Genome</em>.
+              <br>
+              <a href="http://www.alondranelson.com/" target="_blank" class="btn btn-sm btn-dark mt-3">Website</a>
+            </div><!--/media-body-->
+          </div><!--/media-->
+
+          <!-- Teaching Assistants -->
+          <div class="row" id="teaching_assistants">
+            <div class="col-sm-12">
+              <hr class="mt-5 mb-4">
+              <h3 class="h3 mb-4">Teaching Assistants <small class="text-muted font-weight-light">(Listed alphabetically)</small></h3>
+            </div><!--/col-->
+          </div><!--/row-->
+          
+          <div class="media mb-5">
+            <img src="images/alex_kindel.jpg" alt="Alex Kindel" width="150" class="mr-5 rounded">
+            <div class="media-body">
+              <h5 class="mt-0 font-weight-bold">Alex Kindel</h5>
+              Alex is a PhD candidate in the Department of Sociology at Princeton University. He is interested in computational social
+              science, historical sociology, and the formal organization of knowledge. His dissertation traces the development of
+              statistical tools, methods, and standards in applied research since the 1950s.
+              <br>
+              <a href="https://www.princeton.edu/~akindel/" target="_blank" class="btn btn-sm btn-dark mt-3">Website</a>
+            </div><!--/media-body-->
+          </div><!--/media-->
+          
+          <div class="media mb-5">
+            <img src="images/cambria_naslund.jpg" alt="Cambria Naslund" width="150" class="mr-5 rounded">
+            <div class="media-body">
+              <h5 class="mt-0 font-weight-bold">Cambria Naslund</h5>
+              Cambria is a PhD student in sociology at Princeton University. She uses computational methods to study questions in the
+              sociologies of science, medicine, and technology. Her current research explores public understandings of medical
+              knowledge and diagnoses using text and image data from newspapers and crowdfunding campaigns. She completed her B.A. in
+              Social Research and Public Policy at NYU Abu Dhabi.
+            </div><!--/media-body-->
+          </div><!--/media-->
+
+
+          <!-- Participants -->
+          <div class="row" id="participants">
+            <div class="col-sm-12">
+              <hr class="mt-5 mb-4">
+              <h3 class="h3 mb-4">Participants <small class="text-muted font-weight-light">(Listed alphabetically)</small></h3>
+            </div><!--/col-->
+          </div><!--/row-->
+
+          <div class="media mb-5">
+            <img src="images/bedoor_al_shebli.jpg" alt="Bedoor Al Shebli" width="150" class="mr-5 rounded">
+            <div class="media-body">
+              <h5 class="mt-0 font-weight-bold">Bedoor Al Shebli</h5>
+              I am a Post-Doctoral Associate at New York University, Abu Dhabi. I received my PhD in Interdisciplinary Engineering
+              from Masdar Institute of Science and Technology, and my MSc in Computer Science from the University of Illinois at
+              Urbana-Champaign. My research focuses on using data science techniques to study social phenomena, with a particular
+              emphasis on social and economic benefits of diversity and the dynamics of social interaction and cohesion. I frame
+              social science problems in the contexts of data science, big data, and machine learning. Cumulatively, my work
+              contributes to the fields of computational social science, data science, and machine learning.
+            </div><!--/media-body-->
+          </div><!--/media-->
+          
+          <div class="media mb-5">
+            <img src="images/felix_busch.jpg" alt="Felix Busch" width="150" class="mr-5 rounded">
+            <div class="media-body">
+              <h5 class="mt-0 font-weight-bold">Felix Busch</h5>
+              Felix is a postdoctoral researcher at the Swiss Job Market Monitor, University of Zurich. He received his PhD in
+              Sociology from Nuffield College, University of Oxford. In his dissertation, Felix examined the extent to which gender
+              segregated labor markets produce wage inequality between occupations. In his current position, he builds applications
+              that retrieve large amounts of job ad data from the web in order to monitor labor demand in Switzerland. His main
+              academic interests are wage inequality, gender inequality, occupations, and labor market segregation. In his spare time,
+              Felix thinks about how to use digital tools to solve social problems.
+              <br>
+              <a href="https://fbusch.org/" target="_blank" class="btn btn-sm btn-dark mt-3">Website</a>
+            </div><!--/media-body-->
+          </div><!--/media-->
+
+          <div class="media mb-5">
+            <img src="images/victoria_asbury.jpg" alt="Victoria Asbury" width="150" class="mr-5 rounded">
+            <div class="media-body">
+              <h5 class="mt-0 font-weight-bold">Victoria Asbury</h5>
+              Victoria Asbury is doctoral student in sociology at Harvard University. Her research interests include social
+              stratification, immigration, political discourse, and social policy. She draws on sociological, psychological,
+              behavioral economic, and computational methods to explore relationships between discourse, group-boundaries, and
+              social preferences. Before coming to Harvard, Victoria worked as a booking production-assistant at MSNBC. She received her
+              MA in education and BA in African & African-American Studies from Stanford University.
+            </div><!--/media-body-->
+          </div><!--/media-->
+
+        </div><!--/col-->
+      </div><!--/row-->
+    </div><!--/container-->
+  </section>
+    {% include footer.html %}
+</body>
+</html>

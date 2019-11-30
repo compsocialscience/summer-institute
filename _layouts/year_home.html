@@ -17,48 +17,22 @@
       <div class="container">
           {% include  promo_program_overview.html data=content %}
         </div><!--/container-->
-      </section>
+    </section>
 
-    <!-- <div class="introduction container">
-      {{ content }}
-    </div> -->
-
-    <!-- <div class="people section">
-      <a id="people"></a>
+    <section class="bg-secondary pb-5">
       <div class="container">
-      </div>
-    </div> -->
+          <div class="row">
+            <div class="col-sm-12">
+              {% include map.html %}
+            </div>
+          </div>
+    </section>
 
-    <!-- {% if page.pre_arrival %}
-      <div class="section">
-        <div class="container">
-          {% capture pre_arrival %}{% include_relative {{ page.pre_arrival }} %}{% endcapture %}
-          {{ pre_arrival | markdownify }}
-        </div>
-      </div>
-    {% endif %} -->
+    <section>
+      {% include sponsors.html %}
+    </section>
 
-    <!-- {% include schedule.html data_key="schedule" title="Schedule and materials" %} -->
-
-    <!-- {% if page.projects %}
-      <div class="section">
-        <a id="projects"></a>
-        <div class="container">
-          {% capture projects %}{% include_relative {{ page.projects }} %}{% endcapture %}
-          {{ projects | markdownify }}
-        </div>
-      </div>
-    {% endif %} -->
-
-    <!-- {% if page.live_stream %}
-      <div class="streaming section">
-        <a id="live_stream"></a>
-        <div class="container">
-          {% capture live_stream %}{% include_relative {{ page.live_stream }} %}{% endcapture %}
-          {{ live_stream | markdownify }}
-        </div>
-      </div>
-    {% endif %} -->
+    {% include footer.html %}
 
   </body>
 </html>

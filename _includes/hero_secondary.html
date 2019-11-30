@@ -1,0 +1,15 @@
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        {% if page.title %}
+        <h1 class="display-3 text-light">{{page.title}}</h1>
+        <p class="h4 text-light">{{page.subtitle}}</p>
+        {% else %}
+        <h1 class="display-3 text-light">Default Title</h1>
+        <p class="h4 text-light">Default Subtitle</p>
+        {% endif %}
+      </div><!--/col-->
+    </div><!--/row-->
+  </div><!--container-->
+</div><!--/jumbotron-->
