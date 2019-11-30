@@ -12,39 +12,35 @@
 
     {% include promo_three_column.html %}
 
-    <div class="introduction container">
-      {{ content }}
-    </div>
+    
+    <section class="bg-secondary text-white py-5 mt-5">
+      <div class="container">
+          {% include  promo_program_overview.html data=content %}
+        </div><!--/container-->
+      </section>
 
-    <div class="people section">
+    <!-- <div class="introduction container">
+      {{ content }}
+    </div> -->
+
+    <!-- <div class="people section">
       <a id="people"></a>
       <div class="container">
-        {% if data.people %}
-          {% include people.html %}
-        {% else %}
-          {% include faculty.html %}
-
-          {% include speakers.html %}
-
-          {% include teaching_assistants.html %}
-
-          {% include participants.html %}
-        {% endif %}
       </div>
-    </div>
+    </div> -->
 
-    {% if page.pre_arrival %}
+    <!-- {% if page.pre_arrival %}
       <div class="section">
         <div class="container">
           {% capture pre_arrival %}{% include_relative {{ page.pre_arrival }} %}{% endcapture %}
           {{ pre_arrival | markdownify }}
         </div>
       </div>
-    {% endif %}
+    {% endif %} -->
 
-    {% include schedule.html data_key="schedule" title="Schedule and materials" %}
+    <!-- {% include schedule.html data_key="schedule" title="Schedule and materials" %} -->
 
-    {% if page.projects %}
+    <!-- {% if page.projects %}
       <div class="section">
         <a id="projects"></a>
         <div class="container">
@@ -52,9 +48,9 @@
           {{ projects | markdownify }}
         </div>
       </div>
-    {% endif %}
+    {% endif %} -->
 
-    {% if page.live_stream %}
+    <!-- {% if page.live_stream %}
       <div class="streaming section">
         <a id="live_stream"></a>
         <div class="container">
@@ -62,8 +58,7 @@
           {{ live_stream | markdownify }}
         </div>
       </div>
-    {% endif %}
+    {% endif %} -->
 
-    {% include footer.html %}
   </body>
 </html>
