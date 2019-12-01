@@ -1,1 +1,9 @@
-- Coming soon.
+- name: Alex Kindel
+  image: /assets/images/AlexKindel.jpg
+  bio: "Alex is a PhD candidate in the Department of Sociology at Princeton University. He is interested in computational social science, historical sociology, and the formal organization of knowledge. His dissertation traces the development of statistical tools, methods, and standards in applied research since the 1950s."
+  website: https://www.princeton.edu/~akindel/
+
+- name: Cambria Naslund
+  image: /assets/images/CambriaNaslund.jpg
+  bio: "Cambria is a PhD student in sociology at Princeton University. She uses computational methods to study questions in the sociologies of science, medicine, and technology. Her current research explores public understandings of medical knowledge and diagnoses using text and image data from newspapers and crowdfunding campaigns. She completed her B.A. in Social Research and Public Policy at NYU Abu Dhabi"
+  website: null

@@ -1,0 +1,21 @@
+{% assign faculties = data.faculty %}
+
+{% for faculty in faculties %}
+  <div class="media mb-5">
+    {% if faculty.image %}
+    {% assign image_prefix = faculty.image | slice: 0, 4 %}
+    {% if image_prefix == "http" %}
+      {% assign image_url = faculty.image %}
+    {% else %}
+      {% assign image_url = faculty.image | prepend: site.baseurl %}
+    {% endif %}
+    <img src="{{ image_url }}" alt="Image of {{ faculty.name }}" class="mr-5 rounded" width="150">
+    {% endif %}
+    <div class="media-body">
+      <h5 class="mt-0 font-weight-bold">{{faculty.name}}</h5>
+      {{faculty.bio}}
+      <br>
+      <a href={{faculty.website}} target="_blank" class="btn btn-sm btn-dark mt-3">Website</a>
+    </div><!--/media-body-->
+  </div><!--/media-->
+{% endfor %}

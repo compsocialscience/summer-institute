@@ -1,5 +1,0 @@
-{% if data.faculty %}
-  <h1 id="faculty">{{ page.faculty_title | default: "Faculty" }}</h1>
-  {% assign people = data.faculty %}
-  {% include people_two_column.html people=people %}
-{% endif %}

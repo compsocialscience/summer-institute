@@ -1,1 +1,14 @@
-- Coming soon.
+- name: Bedoor Al Shebli
+  image: /assets/images/BedoorAlShebli.jpg
+  bio: "I am a Post-Doctoral Associate at New York University, Abu Dhabi. I received my PhD in Interdisciplinary Engineering from Masdar Institute of Science and Technology, and my MSc in Computer Science from the University of Illinois at Urbana-Champaign. My research focuses on using data science techniques to study social phenomena, with a particular emphasis on social and economic benefits of diversity and the dynamics of social interaction and cohesion. I frame social science problems in the contexts of data science, big data, and machine learning. Cumulatively, my work contributes to the fields of computational social science, data science, and machine learning."
+  website: null
+
+- name: Felix Busch
+  image: /assets/images/FelixBusch.jpg
+  bio: "Felix is a postdoctoral researcher at the Swiss Job Market Monitor, University of Zurich. He received his PhD in Sociology from Nuffield College, University of Oxford. In his dissertation, Felix examined the extent to which gender segregated labor markets produce wage inequality between occupations. In his current position, he builds applications that retrieve large amounts of job ad data from the web in order to monitor labor demand in Switzerland. His main academic interests are wage inequality gender inequality, occupations, and labor market segregation. In his spare time, Felix thinks about how to use digital tools to solve social problems."
+  website: null
+
+- name: Victoria Asbury
+  image: /assets/images/VictoriaAsbury.jpg
+  bio: "Victoria Asbury is doctoral student in sociology at Harvard University. Her research interests include social stratification, immigration, political discourse, and social policy. She draws on sociological, psychological, behavioral economic, and computational methods to explore relationships between discourse, group-boundaries, and social preferences. Before coming to Harvard, Victoria worked as a booking production-assistant at MSNBC. She received her MA in education and BA in African & African-American Studies from Stanford University."
+  website: null
