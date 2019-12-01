@@ -15,7 +15,9 @@
       <h5 class="mt-0 font-weight-bold">{{faculty.name}}</h5>
       {{faculty.bio}}
       <br>
+      {% if faculty.website %}
       <a href={{faculty.website}} target="_blank" class="btn btn-sm btn-dark mt-3">Website</a>
+      {% endif %}
     </div><!--/media-body-->
   </div><!--/media-->
 {% endfor %}
