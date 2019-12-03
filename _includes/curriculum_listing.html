@@ -1,0 +1,52 @@
+{% assign curriculums = data.curriculum %}
+
+{% for curriculum in curriculums %}
+  <div class="row" id="{{curriculum.id}}">
+    <div class="col-sm-12">
+      <hr class="mt-5 mb-4">
+      <h3 class="h3 mb-4">{{curriculum.day}}: {{curriculum.topic}}</h3>
+    </div><!--/col-->
+    {% if curriculum.events %}
+      {% for event in curriculum.events %}
+        {% if event %} 
+        <div class="col-lg-12">
+          <div class="card border-0 mb-5">
+            <div class="card-header bg-white border-0">
+              <span class="badge badge-dark">1</span> {{event.name}}
+            </div><!--/card-header-->
+            <div class="embed-responsive embed-responsive-16by9">
+              <iframe width="560" height="315" src={{event.video}} frameborder="0"
+                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div><!--/embed-->
+            <div class="card-body">
+              <div class="card-text">
+                {% if event.sublinks %}
+                  {% for sublink in event.sublinks %}
+                  <a href={{sublink.link}} class="card-link">{{sublink.text}}</a>
+                  {% endfor %}
+                {% endif %}
+              </div><!--/card-text-->
+            </div><!--/card-body-->
+          </div><!--/card-->
+        </div><!--/col-->
+        {% endif %} 
+      {% endfor %}
+    {% endif %}
+    {% if curriculum.exercise %}
+    <div class="col-lg-12">
+      <div class="card border-0 mb-5">
+        <div class="card-header bg-white">
+          <span class="badge badge-dark">6</span> {{curriculum.exercise_title}}
+        </div><!--/card-header-->
+          <ul class="list-group list-group-flush">
+            {% for exercise in curriculum.exercise %}
+              <li class="list-group-item"><a href={{exercise.resource}}
+                class="card-link">{{exercise.name}}</a></li>
+            {% endfor %}
+          </ul>
+        </div><!--/card-->
+      </div><!--/col-->
+    {% endif %}
+  </div><!--/row-->
+  {% endfor %}
+</div>
