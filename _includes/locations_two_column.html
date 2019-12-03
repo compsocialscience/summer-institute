@@ -1,0 +1,29 @@
+{% assign locations = data.locations %}
+
+{% for location in locations %}
+  {% assign index_mod_2 = forloop.index | modulo: 2 %}
+  {% if index_mod_2 == 1 %}
+    <div class="row">
+  {% endif %}
+    <div class="col-sm-12">
+        <h1 id="2020">{{location.year}}</h1>
+    </div><!--/col-sm-12-->
+      {% if location.campuses %}
+        {% for campus in location.campuses %}
+        <div class="col-sm-6 mb-5">
+          <div class="card border-0" id="bamberg">
+            <img class="card-img-top" src="images/bamberg.jpg" alt="Find a location">
+            <div class="card-body">
+              <h5 class="card-title">{{campus.title}}</h5>
+              <h6 class="card-subtitle mb-2 text-muted">{{campus.subtitle}}</h6>
+              <p class="card-text">{{campus.description}}</p>  
+              <a href="bamberg.html" class="btn btn-dark btn-sm stretched-link">Learn More</a>
+            </div><!-- /card-body -->
+          </div><!-- /card -->
+        </div><!-- /col -->
+        {% endfor %}
+      {% endif %}
+    {% if index_mod_2 == 0 or forloop.last %}
+    </div> <!-- close row -->
+  {% endif %}
+{% endfor %}
