@@ -23,13 +23,13 @@
   campuses:    
     - image: /assets/images/bamberg.jpg
       title: University of Cape Town
-      subtitle: Cape Twon, South Africa
+      subtitle: Cape Town, South Africa
       description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nemo optio cumque quia adipisci fugit
       alias porro esse ipsa excepturi, fuga nobis vitae voluptatibus exercitationem laborum officia ab nihil voluptatum
       autem!"
       link: bamberg.html
     - image: /assets/images/location.jpg
-      title: University 4
+      title: University of Bamberg
       subtitle: Bamberg, Germany
       description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nemo optio cumque quia adipisci fugit
       alias porro esse ipsa excepturi, fuga nobis vitae voluptatibus exercitationem laborum officia ab nihil voluptatum
