@@ -12,13 +12,21 @@
         {% for campus in location.campuses %}
         <div class="col-sm-6 mb-5">
           <div class="card border-0" id="bamberg">
-            <img class="card-img-top" src="images/bamberg.jpg" alt="Find a location">
-            <div class="card-body">
-              <h5 class="card-title">{{campus.title}}</h5>
-              <h6 class="card-subtitle mb-2 text-muted">{{campus.subtitle}}</h6>
-              <p class="card-text">{{campus.description}}</p>  
-              <a href="bamberg.html" class="btn btn-dark btn-sm stretched-link">Learn More</a>
-            </div><!-- /card-body -->
+            {% if campus.image %}
+              {% assign image_prefix = campus.image | slice: 0, 4 %}
+              {% if image_prefix == "http" %}
+                {% assign image_url = faculty.image %}
+              {% else %}
+                {% assign image_url = campus.image | prepend: site.baseurl %}
+              {% endif %}
+                <img class="card-img-top" src="{{image_url}}" alt="Find a location">
+              {% endif %}
+                <div class="card-body">
+                  <h5 class="card-title">{{campus.title}}</h5>
+                  <h6 class="card-subtitle mb-2 text-muted">{{campus.subtitle}}</h6>
+                  <p class="card-text">{{campus.description}}</p>  
+                  <a href="bamberg.html" class="btn btn-dark btn-sm stretched-link">Learn More</a>
+                </div><!-- /card-body -->
           </div><!-- /card -->
         </div><!-- /col -->
         {% endfor %}

@@ -12,6 +12,13 @@
       alias porro esse ipsa excepturi, fuga nobis vitae voluptatibus exercitationem laborum officia ab nihil voluptatum
       autem!"
       link: bamberg.html
+    - image: /assets/images/location.jpg
+      title: University 5
+      subtitle: Berlin, Germany
+      description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nemo optio cumque quia adipisci fugit
+      alias porro esse ipsa excepturi, fuga nobis vitae voluptatibus exercitationem laborum officia ab nihil voluptatum
+      autem!"
+      link: bamberg.html
 - year: 2019
   campuses:    
     - image: /assets/images/bamberg.jpg
