@@ -1,20 +1,20 @@
 - year: 2020
   campuses:    
     - image: /assets/images/bamberg.jpg
-      title: University 1
+      title: University of Bamberg
       subtitle: Bamberg, Germany
       description: "From the evening of Sunday, July 28 to Friday, August 09, 2019, the University of Bamberg will host a partner event for the Summer Institute in Computational Social Science."
       link: bamberg.html
     - image: /assets/images/location.jpg
-      title: University 2
-      subtitle: Zurich, Switzerland
+      title: Massachusetts Institute of Technology
+      subtitle: Boston, Massachusetts
       description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nemo optio cumque quia adipisci fugit
       alias porro esse ipsa excepturi, fuga nobis vitae voluptatibus exercitationem laborum officia ab nihil voluptatum
       autem!"
       link: bamberg.html
     - image: /assets/images/location.jpg
-      title: University 5
-      subtitle: Berlin, Germany
+      title: University of Colorado Boulder
+      subtitle: Boulder, Colorado
       description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nemo optio cumque quia adipisci fugit
       alias porro esse ipsa excepturi, fuga nobis vitae voluptatibus exercitationem laborum officia ab nihil voluptatum
       autem!"
@@ -22,8 +22,8 @@
 - year: 2019
   campuses:    
     - image: /assets/images/bamberg.jpg
-      title: University 3
-      subtitle: Bamberg, Germany
+      title: University of Cape Town
+      subtitle: Cape Twon, South Africa
       description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nemo optio cumque quia adipisci fugit
       alias porro esse ipsa excepturi, fuga nobis vitae voluptatibus exercitationem laborum officia ab nihil voluptatum
       autem!"

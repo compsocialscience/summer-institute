@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Apply
+subtitle: Application overview and process.
 ---
-
-# Apply
 
 ### Eligibility
 
