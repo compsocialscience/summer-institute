@@ -22,11 +22,12 @@
               {% endif %}
                 <img class="card-img-top" src="{{image_url}}" alt="Find a location">
               {% endif %}
+                {% assign link_url = year_path | prepend: site.baseurl %}
                 <div class="card-body">
                   <h5 class="card-title">{{campus.title}}</h5>
                   <h6 class="card-subtitle mb-2 text-muted">{{campus.subtitle}}</h6>
                   <p class="card-text">{{campus.description}}</p>  
-                  <a href="{{campus.link}}" class="btn btn-dark btn-sm stretched-link">Learn More</a>
+                  <a href="{{site.baseurl}}/{{year}}/{{campus.link}}" class="btn btn-dark btn-sm stretched-link">Learn More</a>
                 </div><!-- /card-body -->
           </div><!-- /card -->
         </div><!-- /col -->
