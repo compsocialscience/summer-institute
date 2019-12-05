@@ -1,6 +1,4 @@
-{% assign speakers = data.speakers %}
-
-{% for speaker in speakers %}
+{% for speaker in data.speakers %}
   <div class="media mb-5">
     {% if speaker.image %}
     {% assign image_prefix = speaker.image | slice: 0, 4 %}

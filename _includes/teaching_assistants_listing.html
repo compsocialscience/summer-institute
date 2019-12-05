@@ -1,6 +1,4 @@
-{% assign teachers = data.teaching_assistants %}
-
-{% for teacher in teachers %}
+{% for teacher in data.teaching_assistants %}
   <div class="media mb-5">
     {% if teacher.image %}
     {% assign image_prefix = teacher.image | slice: 0, 4 %}

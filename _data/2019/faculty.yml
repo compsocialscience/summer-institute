@@ -1,9 +1,12 @@
-- name: Matthew Salganik
-  image: /assets/images/matt.gif
-  bio: "Matthew Salganik is Professor of Sociology at Princeton University, and he is affiliated with several of Princeton's interdisciplinary research centers: the Office for Population Research, the Center for Information Technology Policy, the Center for Health and Wellbeing, and the Center for Statistics and Machine Learning. His research interests include social networks and computational social science. He is the author of *Bit by Bit: Social Research in the Digital Age*."
-  website: https://www.princeton.edu/~mjs3/
+- name: Julian Hohner
+  image: /2019/bamberg/images/julian_hohner.jpg
+  bio: Julian Hohner is a PhD candidate in Political Science at Bamberg University. He also works in the Management of the Bamberg Graduate School of Social Sciences and is particular interested in machine learning, quantitative text analysis, inferential statistics as well as populist, party and governmental behaviour studies. Moreover, Julian is participating as Teaching Assistant of the ECPR Winter/Summer Schools on a regular basis.
 
-- name: Chris Bail
-  image: /assets/images/chris2019.jpg
-  bio: "Chris Bail is Professor of Sociology and Public Policy at Duke University where he directs the Polarization Lab. He is also affiliated with the Interdisciplinary Data Science Program, the Duke Network Analysis Center, and the Duke Population Research Institute. His research examines political polarization, culture and social psychology using tools from the  field of computational social science. He is the author of *Terrified: How Anti-Muslim Fringe Organizations Became Mainstream*."
-  website: http://www.chrisbail.net/
+- name: Thomas Saalfeld
+  image: /2019/bamberg/images/thomas_saalfeld.jpg
+  bio: Thomas Saalfeld is Professor of Political Science at the University of Bamberg and Director of the Bamberg Graduate School of Social Sciences. Prior to joining Bamberg in 2009, he held research and teaching positions at the Universities of the German Federal Armed Forces Munich, Hull, Dresden, Kent and Bamberg. He was Member of the Council of the German Political Science Association from 2015 to 2016 and joined the Executive Committee of the European Consortium for Political Research (ECPR) in 2018. Since 2015 he has been the local organizer of the ECPR Winter School in Methods and Techniques. He has a particular interest in text-as-data applied to legislative studies.
+
+- name: Carsten Schwemmer
+  image: /assets/images/carsten.jpg
+  bio: Carsten Schwemmer is currently finishing a PhD in Sociology at Bamberg University, Germany. His research focuses on computational methods for the study of ethnic minorities and social media communication. Carsten is particularly interested in natural language processing, data mining and software development. He gave courses on computational social science at University of Bamberg, University of Constance and Humboldt University of Berlin.
+  website: https://www.carstenschwemmer.com/
