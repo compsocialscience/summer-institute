@@ -7,7 +7,7 @@ subtitle: July 28 - August 09, 2020
 pre_arrival: true
 ---
 
-# Pre-arrival
+<!-- # Pre-arrival -->
 
 We have arranged two types of training prior to the event this summer. Some students have more sophisticated coding skills but little exposure to social science; other students have significant exposure to social science but lack coding skills.
 

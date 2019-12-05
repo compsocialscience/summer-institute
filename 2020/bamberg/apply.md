@@ -1,8 +1,10 @@
 ---
-layout: apply
-title: Apply
-faq: _apply_faq.md
-subtitle: Application overview and process.
+partner_site: bramberg
+layout: location_detail
+title: Bramberg
+location: University of Bramberg
+subtitle: July 28 - August 09, 2020
+apply: true
 ---
 
 ### Eligibility
