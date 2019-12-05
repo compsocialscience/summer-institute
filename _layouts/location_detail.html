@@ -1,0 +1,50 @@
+{% include setup_data.html %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include header.html %}
+  </head>
+  <body class="sub-page">
+    {% include navbar.html %}
+    <!-- Start content -->
+    {% include hero_secondary.html %}
+    <div class="container"><!-- Locations -->
+      <div class="row">
+        <div class="col-md-4">
+          {% include location_detail_sidebar.html %}
+        </div><!-- /col -->
+        <div class="col-sm-8">
+          <div class="row">
+            <div class="col-sm-12 mb-5">
+                {% if page.image %}
+                {% assign image_prefix = page.image | slice: 0, 4 %}
+                {% if image_prefix == "http" %}
+                  {% assign image_url = page.image %}
+                {% else %}
+                  {% assign image_url = page.image | prepend: site.baseurl %}
+                {% endif %}
+                  <img src="{{image_url}}" alt="University of Bamberg" class="img-fluid rounded mb-3">
+                {% endif %}
+                <h2 class="display-4">{{page.location}}</h2>
+                {{content}}
+              </div><!--/col-->
+          </div><!--/row-->
+        </div><!--/col-->
+      </div><!-- /row -->
+    </div><!-- /container -->
+
+    <section class="bg-secondary text-white py-5 my-5">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <h2 class="display-5 text-center text-uppercase font-weight-light">Host a Location</h2>
+            <p class="text-center lead">You can host a partner location of the Summer Institutes of Computational Social Science (SICSS) at your university,
+            company, NGO, or government agency.</p>
+            <p class=text-center><a href="host.html" class="btn btn-dark">Learn More</a></p>
+          </div><!--col-->
+        </div><!--/row-->
+      </div><!--/container-->
+    </section>
+    {% include footer.html %}
+  </body>
+</html>

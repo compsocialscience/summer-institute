@@ -5,13 +5,14 @@
   {% if index_mod_2 == 1 %}
     <div class="row">
   {% endif %}
+    {% assign year = location.year %}
     <div class="col-sm-12">
-        <h1 id="{{location.year}}">{{location.year}}</h1>
+        <h1 id="{{location.year}}">{{year}}</h1>
     </div><!--/col-sm-12-->
       {% if location.campuses %}
         {% for campus in location.campuses %}
         <div class="col-sm-6 mb-5">
-          <div class="card border-0" id="bamberg">
+          <div class="card border-0" id="{{link}}_{{year}}">
             {% if campus.image %}
               {% assign image_prefix = campus.image | slice: 0, 4 %}
               {% if image_prefix == "http" %}
@@ -25,7 +26,7 @@
                   <h5 class="card-title">{{campus.title}}</h5>
                   <h6 class="card-subtitle mb-2 text-muted">{{campus.subtitle}}</h6>
                   <p class="card-text">{{campus.description}}</p>  
-                  <a href="bamberg.html" class="btn btn-dark btn-sm stretched-link">Learn More</a>
+                  <a href="{{campus.link}}" class="btn btn-dark btn-sm stretched-link">Learn More</a>
                 </div><!-- /card-body -->
           </div><!-- /card -->
         </div><!-- /col -->
