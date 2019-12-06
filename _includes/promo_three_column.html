@@ -2,7 +2,6 @@
   <div class="card-deck">
     {% for data in data.promo %}
       <div class="card border-0">
-        <!-- <img class="card-img-top" src={{data.image}} alt="Find a location"> -->
         {% if data.image %}
         {% assign image_prefix = data.image | slice: 0, 4 %}
         {% if image_prefix == "http" %}
@@ -16,9 +15,9 @@
           <h5 class="card-title">{{data.title}}</h5>
           <h6 class="card-subtitle mb-2 text-muted">{{data.subtitle}}</h6>
           <p class="card-text">{{data.body}}</p>  
-          <a href="locations.html" class="btn btn-dark btn-sm">{{data.cta}}</a>
-        </div><!-- /card-body -->
-      </div><!-- /card -->
+          <a href="{{data.link}}" class="btn btn-dark btn-sm">{{data.cta}}</a>
+        </div>
+      </div>
     {% endfor %}
-  </div><!-- /card-deck -->
-</div><!-- /container -->
+  </div>
+</div>

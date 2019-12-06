@@ -3,9 +3,9 @@ partner_site: northwestern
 year: '2020'
 layout: location_detail
 title: Northwestern
+subtitle: August 10 - August 15, 2020
 location: Northwestern University
 image: /assets/images/location.jpg
-subtitle: August 10 - August 15, 2020
 main: true
 ---
 

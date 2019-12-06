@@ -2,8 +2,8 @@
 {% assign urlparts = page.url | split: "/" %}
 {% assign year = urlparts[1] %}
 {% assign location = urlparts[2] %}
-{% assign events = site.data[year][location].events %}
-{% for event in events %}
+{% assign schedule = site.data[year][location].schedule %}
+{% for event in schedule %}
   <div class="card mb-3">
     <div class="card-header">
       <h5>
