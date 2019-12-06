@@ -1,0 +1,87 @@
+<!-- detail page sidebar -->
+{% if page.partner_site %}
+  <div class="col-md-4">
+    <ul class="nav flex-column">
+      <li class="nav-item">
+        <a class="nav-link active" href="{{page.dir | prepend: site.baseurl}}">Overview</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="pre_arrival">Pre-arrival</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="people">People</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="schedule">Schedule & Materials</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link btn btn-dark d-xl-inline-flex mt-3 ml-3" href="apply">Apply</a>
+      </li>
+    </ul>
+  </div>
+{% endif %}
+
+<!-- locations sidebar -->
+{% if page.layout == 'locations' %}
+  <ul class="nav flex-column" id="accordionMenu">
+    {% for location in data.locations %}
+      {% assign index_target = forloop.index %}
+      {% assign year = location.year %}
+      <li class="nav-item">
+        <a class="nav-link collapsed" onmouseover=""" style="cursor: pointer;" data-toggle="collapse" data-target="#collapse{{forloop.index}}">{{year}}</a>
+          <ul class="nav collapse" id="collapse{{forloop.index}}" aria-labelledby="{{forloop.index}}" data-parent="#accordionMenu">
+            {% if location.campuses %}
+              {% for campus in location.campuses %}
+                <li class="nav-item ml-3">
+                  <a class="nav-link" href="#{{link}}_{{year}}">{{campus.title}}</a>
+                </li>
+              {% endfor %}
+            {% endif %}
+          </ul>
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
+<!-- curriculum sidebar -->
+{% if page.layout == 'curriculum' %}
+  <ul class="nav flex-column">
+    <li class="nav-item">
+      <a class="nav-link active" href="#overview">Overview</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#day_1">Day 1: Introduction and Ethics</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#day_2">Day 2: Collecting Digital Trace Data</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#day_3">Day 3: Automated Text Analysis</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#day_4">Day 4: Surveys in the Digital Age</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#day_5">Day 5: Mass Collaboration</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#day_6">Day 6: Experiments</a>
+    </li>
+  </ul>
+{% endif %}
+
+<!-- people sidebar -->
+{% if page.layout == 'people' %}
+  <div class="col-md-4">
+    <ul class="nav flex-column">
+      {% if data.people %}
+        {% for group in data.people %}
+          <li class="nav-item">
+            <a class="nav-link active" href="#{{group.anchor}}">{{group.title}}</a>
+          </li>
+        {% endfor %}
+      {% endif %}
+    </ul>
+  </div>
+{% endif %}
+

@@ -1,0 +1,58 @@
+# faculty
+- title: Faculty
+  anchor: faculty
+  cards:
+    - name: Chris Bail
+      image: /assets/images/chris2019.jpg
+      bio: "Chris Bail is Professor of Sociology and Public Policy at Duke University where he directs the Polarization Lab. He is also affiliated with the Interdisciplinary Data Science Program, the Duke Network Analysis Center, and the Duke Population Research Institute. His research examines political polarization, culture and social psychology using tools from the  field of computational social science. He is the author of *Terrified: How Anti-Muslim Fringe Organizations Became Mainstream*."
+      website: http://www.chrisbail.net/
+    - name: Matthew Salganik
+      image: /assets/images/matt.gif
+      bio: "Matthew Salganik is Professor of Sociology at Princeton University where he is also affiliated with several of Princeton's interdisciplinary research centers including the Office for Population Research, the Center for Health and Wellbeing, the Center for Information Technology Policy, and the Center for Statistics and Machine Learning. His research interests include social networks and computational social science. He is the author of *Bit by Bit: Social Research in the Digital Age*."
+      website: https://www.princeton.edu/~mjs3/
+
+# speakers
+- title: Speakers
+  anchor: speakers
+  cards:
+    - name: Abdullah Almaatouq
+      image: /assets/images/AbdullahAlmaatouq.jpg
+      bio: "Abdullah Almaatouq is a Research Assistant in the Human Dynamics group at the Massachusetts Institute of Technology, where he is pursuing a PhD in Computational Science & Engineering. Abdullah’s work includes conducting theoretical and empirical research on human behavior using innovative approaches and tools ranging from complex systems theory and agent-based modeling, to network analysis, econometric techniques, and behavioral and experimental methods."
+      website: http://www.amaatouq.com/
+    - name: Alondra Nelson
+      image: /assets/images/AlondraNelson.jpg
+      bio: "Alondra Nelson is President of the Social Science Research Council and Professor of Sociology at Columbia University, where she served as the inaugural Dean of Social Science. Her research focuses on how science and its applications may shape the social world, including aspects of personal identification, racial formation, and collective action. She is the author of multiple books, most recently <em>The Social Life of DNA: Race, Reparations, and Reconciliation after the Genome</em>"
+      website: http://www.alondranelson.com/
+
+# teaching assistants
+- title: Teaching assistants
+  anchor: teaching_assistants
+  cards:
+    - name: Alex Kindel
+      image: /assets/images/AlexKindel.jpg
+      bio: "Alex is a PhD candidate in the Department of Sociology at Princeton University. He is interested in computational social science, historical sociology, and the formal organization of knowledge. His dissertation traces the development of statistical tools, methods, and standards in applied research since the 1950s."
+      website: https://www.princeton.edu/~akindel/
+    - name: Cambria Naslund
+      image: /assets/images/CambriaNaslund.jpg
+      bio: "Cambria is a PhD student in sociology at Princeton University. She uses computational methods to study questions in the sociologies of science, medicine, and technology. Her current research explores public understandings of medical knowledge and diagnoses using text and image data from newspapers and crowdfunding campaigns. She completed her B.A. in Social Research and Public Policy at NYU Abu Dhabi"
+      website: null
+
+# participants
+- title: Participants
+  anchor: participants
+  cards:
+    - name: Bedoor Al Shebli
+      image: /assets/images/BedoorAlShebli.jpg
+      bio: "I am a Post-Doctoral Associate at New York University, Abu Dhabi. I received my PhD in Interdisciplinary Engineering from Masdar Institute of Science and Technology, and my MSc in Computer Science from the University of Illinois at Urbana-Champaign. My research focuses on using data science techniques to study social phenomena, with a particular emphasis on social and economic benefits of diversity and the dynamics of social interaction and cohesion. I frame social science problems in the contexts of data science, big data, and machine learning. Cumulatively, my work contributes to the fields of computational social science, data science, and machine learning."
+      website: null
+    
+    - name: Felix Busch
+      image: /assets/images/FelixBusch.jpg
+      bio: "Felix is a postdoctoral researcher at the Swiss Job Market Monitor, University of Zurich. He received his PhD in Sociology from Nuffield College, University of Oxford. In his dissertation, Felix examined the extent to which gender segregated labor markets produce wage inequality between occupations. In his current position, he builds applications that retrieve large amounts of job ad data from the web in order to monitor labor demand in Switzerland. His main academic interests are wage inequality gender inequality, occupations, and labor market segregation. In his spare time, Felix thinks about how to use digital tools to solve social problems."
+      website: null
+    
+    - name: Victoria Asbury
+      image: /assets/images/VictoriaAsbury.jpg
+      bio: "Victoria Asbury is doctoral student in sociology at Harvard University. Her research interests include social stratification, immigration, political discourse, and social policy. She draws on sociological, psychological, behavioral economic, and computational methods to explore relationships between discourse, group-boundaries, and social preferences. Before coming to Harvard, Victoria worked as a booking production-assistant at MSNBC. She received her MA in education and BA in African & African-American Studies from Stanford University."
+      website: null
+

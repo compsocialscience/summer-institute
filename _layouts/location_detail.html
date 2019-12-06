@@ -10,7 +10,7 @@
     {% include hero_secondary.html %}
     <div class="container"><!-- Locations -->
       <div class="row">
-          {% include location_detail_sidebar.html %}
+          {% include sidebar.html %}
           {% if page.main %}
             <div class="col-sm-8">
               <div class="row">
@@ -48,12 +48,11 @@
                 <div class="col-sm-12">
                   <h2 class="display-4">People</h2>
                   <br />
-                  <h3 class="h3 mb-4">Faculty <small class="text-muted font-weight-light">(Listed alphabetically)</small></h3>
                 </div><!--/col-->
               </div><!--/row-->
               <div class="row">
                 <div class="col-sm-12 mb-5">
-                  {% include faculty_listing.html %}
+                  {% include people_listing.html %}
                 </div>
               </div>
             </div>

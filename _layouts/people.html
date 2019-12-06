@@ -11,50 +11,9 @@
   <section>  
     <div class="container"><!-- Directory -->
       <div class="row">
-        {% include people_sidebar.html %}
+        {% include sidebar.html %}
         <div class="col-sm-8">
-          
-          <!-- Faculty -->
-          <div class="row" id="faculty">
-            <div class="col-sm-12">
-              <h3 class="h3 mb-4">Faculty <small class="text-muted font-weight-light">(Listed alphabetically)</small></h3>
-              {% include searchbar.html %}
-            </div><!--/col-->
-          </div><!--/row-->
-
-          {% include faculty_listing.html %}
-
-          <!-- Speakers -->
-          <div class="row" id="speakers">
-            <div class="col-sm-12">
-              <hr class="mt-5 mb-4">
-              <h3 class="h3 mb-4">Speakers <small class="text-muted font-weight-light">(Listed alphabetically)</small></h3>
-            </div><!--/col-->
-          </div><!--/row-->
-
-          
-          {% include speakers_listing.html %}
-
-          <!-- Teaching Assistants -->
-          <div class="row" id="teaching_assistants">
-            <div class="col-sm-12">
-              <hr class="mt-5 mb-4">
-              <h3 class="h3 mb-4">Teaching Assistants <small class="text-muted font-weight-light">(Listed alphabetically)</small></h3>
-            </div><!--/col-->
-          </div><!--/row-->
-
-          {% include teaching_assistants_listing.html %}
-
-          <!-- Participants -->
-          <div class="row" id="participants">
-            <div class="col-sm-12">
-              <hr class="mt-5 mb-4">
-              <h3 class="h3 mb-4">Participants <small class="text-muted font-weight-light">(Listed alphabetically)</small></h3>
-            </div><!--/col-->
-          </div><!--/row-->
-
-          {% include participants_listing.html %}
-
+          {% include people_listing.html %}
         </div><!--/col-->
       </div><!--/row-->
     </div><!--/container-->
