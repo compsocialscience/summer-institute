@@ -53,17 +53,17 @@
       {% assign index_target = forloop.index %}
       {% assign year = location.year %}
       <li class="nav-item">
-        <a class="nav-link collapsed" onmouseover=""" style="cursor: pointer;" data-toggle="collapse" data-target="#collapse{{forloop.index}}">{{year}}</a>
-          <ul class="nav collapse" id="collapse{{forloop.index}}" aria-labelledby="{{forloop.index}}" data-parent="#accordionMenu">
-            {% if location.campuses %}
-              {% for campus in location.campuses %}
-                <li class="nav-item ml-3">
-                  <a class="nav-link" href="#{{link}}_{{year}}">{{campus.title}}</a>
-                </li>
-              {% endfor %}
-            {% endif %}
-          </ul>
-        </li>
+        <a class="nav-link" onmouseover="" style="cursor: pointer;" data-toggle="collapse" data-target="#collapse{{forloop.index}}">{{year}}</a>
+      </li>
+      <ul class="nav flex-column collapse" id="collapse{{forloop.index}}" aria-labelledby="{{forloop.index}}" data-parent="#accordionMenu">
+        {% if location.campuses %}
+          {% for campus in location.campuses %}
+            <li class="nav-item">
+              <a class="nav-link" href="#{{campus.link}}_{{year}}">{{campus.title}}</a>
+            </li>
+          {% endfor %}
+        {% endif %}
+      </ul>
       {% endfor %}
     <li class="nav-item">
       <a class="nav-link btn btn-dark d-xl-inline-flex mt-3 ml-3" href="host">Host a Location</a>

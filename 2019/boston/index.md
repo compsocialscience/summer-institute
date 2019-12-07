@@ -2,6 +2,8 @@
 layout: location_detail
 partner_site: boston
 main: true
+image: /assets/images/bamberg.jpg
+
 ---
 
 From the evening of Sunday, June 16 to the morning of Saturday, June 29, 2019, the Russell Sage Foundation and the Alfred P. Sloan Foundation will sponsor a partner site in Boston for the Summer Institute in Computational Social Science. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived). 

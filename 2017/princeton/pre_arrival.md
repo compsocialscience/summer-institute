@@ -1,4 +1,9 @@
-# Pre-arrival
+---
+layout: location_detail
+partner_site: princeton
+pre_arrival: true
+image: /assets/images/bamberg.jpg
+---
 
 ## Coding
 

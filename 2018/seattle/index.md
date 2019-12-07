@@ -2,6 +2,7 @@
 layout: location_detail
 partner_site: seattle
 main: true
+image: /assets/images/bamberg.jpg
 ---
 
 

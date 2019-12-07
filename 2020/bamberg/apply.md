@@ -8,7 +8,7 @@ apply: true
 ---
 
 ### Eligibility
-### <a name="eligibility"></a>
+### <a id="eligibility"></a>
 
 ---
 
@@ -20,7 +20,7 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 
 ### How To Apply
-### <a name="how_to_apply"></a>
+### <a id="how_to_apply"></a>
 
 ---
 

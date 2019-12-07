@@ -1,1 +1,1 @@
-Applications for the Duke location are due February 25th, 2020. [Apply Now](https://compsocialscience.github.io/summer-institute/2020/partner)
+<div class="py-2 text-center font-weight-bold">Applications for the Duke location are due February 25th, 2020. <a href="apply" class="btn btn-outline-dark btn-sm font-weight-bold">Apply Now</a></div>
