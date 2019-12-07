@@ -1,7 +1,7 @@
 ---
-layout: default
-title: Before the SICSS Helsinki
+layout: location_detail
 partner_site: helsinki
+pre_arrival: true
 ---
 
 ## Coding

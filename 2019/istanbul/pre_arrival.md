@@ -1,4 +1,8 @@
-# Pre-arrival
+---
+layout: location_detail
+partner_site: istanbul
+pre_arrival: true
+---
 
 ## Reading List (for everyone)
 

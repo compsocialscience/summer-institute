@@ -10,27 +10,27 @@
     {% include hero_secondary.html %}
     <div class="container"><!-- Locations -->
       <div class="row">
-          {% include sidebar.html %}
-          {% if page.main %}
-            <div class="col-sm-8">
-              <div class="row">
-                <div class="col-sm-12 mb-5">
-                  {% if page.image %}
-                  {% assign image_prefix = page.image | slice: 0, 4 %}
-                  {% if image_prefix == "http" %}
-                    {% assign image_url = page.image %}
-                  {% else %}
-                    {% assign image_url = page.image | prepend: site.baseurl %}
-                  {% endif %}
-                    <img src="{{image_url}}" alt="University of Bamberg" class="img-fluid rounded mb-3">
-                  {% endif %}
-                  <h2 class="display-4">{{page.location}}</h2>
-                  {{content}}
-                </div><!--/col-->
-              </div><!--/row-->
+        {% include sidebar.html %}
+        {% if page.main %}
+        <div class="col-sm-8">
+          <div class="row">
+            <div class="col-sm-12 mb-5">
+              {% if page.image %}
+              {% assign image_prefix = page.image | slice: 0, 4 %}
+              {% if image_prefix == "http" %}
+              {% assign image_url = page.image %}
+              {% else %}
+              {% assign image_url = page.image | prepend: site.baseurl %}
+              {% endif %}
+              <img src="{{image_url}}" alt="University of Bamberg" class="img-fluid rounded mb-3">
+              {% endif %}
+              <h2 class="display-4">{{page.location}}</h2>
+              {{content}}
             </div><!--/col-->
-          {% endif %}
-
+          </div><!--/row-->
+        </div><!--/col-->
+        {% endif %}
+        
           {% if page.pre_arrival %}
             <div class="col-sm-8">
               <div class="row">
@@ -47,12 +47,22 @@
               <div class="row" id="faculty">
                 <div class="col-sm-12">
                   <h2 class="display-4">People</h2>
-                  <br />
                 </div><!--/col-->
               </div><!--/row-->
               <div class="row">
                 <div class="col-sm-12 mb-5">
-                  {% include people_listing.html %}
+                  {% assign urlparts = page.url | split: "/" %}
+                  {% assign year = urlparts[1] %}
+                  {% assign location = urlparts[2] %}
+                  {% assign people = site.data[year][location].people %}
+                  {% if people %}
+                    {% include people_listing.html %}
+                  {% else %}
+                    {% include people_listing_secondary.html content='Faculty' %}
+                    {% include people_listing_secondary.html content='Speakers' %}
+                    {% include people_listing_secondary.html content='Teaching Assistants' %}
+                    {% include people_listing_secondary.html content='Participants' %}
+                  {% endif %}
                 </div>
               </div>
             </div>
@@ -84,6 +94,18 @@
               </div>
             </div><!--/col-->
           {% endif %}
+
+        {% if page.models %}
+          <div class="col-sm-8">
+            <div class="row">
+              <div class="col-sm-12 mb-5">
+                <h2 class="display-4">Formal Models in Social Science</h2>
+                <br />
+                {{content}}
+              </div>
+            </div>
+          </div>
+        {% endif %}
       </div><!-- /row -->
     </div><!-- /container -->
 

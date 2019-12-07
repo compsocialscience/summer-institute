@@ -12,28 +12,8 @@
 
     <div class="container">
         <div class="row">
-          <div class="col-md-4">
-            <ul class="nav flex-column">
-              <li class="nav-item">
-                <a class="nav-link" href="#overview">Overview</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#hosting_a_partner_location">Hosting a Partner Location</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#previous_partner_locations">Previous Partner Locations</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#mission_and_guiding_principles">Mission and Guiding Principles</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#how_to_apply">How to Apply</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#how_to_apply">Frequently Asked Questions</a>
-              </li>
-            </ul>
-          </div><!-- /col -->
+
+          {% include sidebar.html %}
           
           <div class="col-md-8 mb-5">
             <div class="row">
@@ -47,27 +27,8 @@
                 </p>
               </div><!--/col-->
             </div><!--/row-->
-            <h3 id="hosting_a_partner_location" class="mt-5">Hosting a partner location</h3>
-            
-            <p>Starting in 2018, the Summer Institutes in Computational Social Science (SICSS) began including partner locations in
-              order to increase the number of participants. The Summer Institute is two weeks long and parter locations typically
-              involve: 1) live-streamed lectures on topics ranging from automated text analysis to ethics; 2) training exercises to
-              reinforce key ideas from lectures; 3) live-streamed research talks from leaders in the field; and 4) participant-led
-              group research projects. This model has been used successfully at universities and companies around the world.</p>
-            
-            <p>The Summer Institutes are highly modular and the open source curriculum can be adapted to the skills and interests at
-              each location. The minimum budget to support a partner location is about $15,000 but depends on local conditions. Here
-              are some <a
-                href="https://docs.google.com/spreadsheets/d/1_2BimdmWNLSVYqTmwrEZcQxv3j3LCyU0hQyW0vZYCk8/edit?usp=sharing">sample
-                budgets</a>. If you have more questions about budgeting—or grants that may be available to support partner
-              locations—please contact us at rsfcompsocsci[at]gmail[dot]com.</p>
-            
-            <p>In order to ensure quality and consistency, all partner locations must have a former participant of SICSS as one of
-              the local organizers. If you don’t have any SICSS alumni at your organization, you can contact us about finding a
-              former participant that could collaborate with you. For example, in 2019 Matti Nelimarkka (SICSS ‘17) collaborated
-              with Akın Ünver to run a partner location in <a
-                href="https://compsocialscience.github.io/summer-institute/2019/istanbul/">Istanbul, Turkey (Kadir Has
-                University)</a>.</p>
+            <br />
+            {{content}}
             
             <h3 id="previous_partner_locations" class="mt-5">Previous partner locations</h3>
             

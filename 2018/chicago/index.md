@@ -1,9 +1,7 @@
 ---
+layout: location_detail
 partner_site: chicago
-layout: year_home
-pre_arrival: _pre_arrival.md
-faculty_title: Organizers
-speakers_title: Local Speakers
+main: true
 ---
 
 

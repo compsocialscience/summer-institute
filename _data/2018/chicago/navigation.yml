@@ -1,10 +1,8 @@
-- name: Chicago
-  url: "/2018/chicago/"
-- name: Pre-arrival
-  url: "/2018/chicago/#pre-arrival"
-- name: Schedule & materials
-  url: "/2018/chicago/#schedule"
-- name: Participants
-  url: "/2018/chicago/#participants"
-- name: Location
-  url: "/2018/chicago/location"
+- name: Home
+  url: "/2020/"
+- name: Locations
+  url: "/2020/locations"
+- name: Curriculum
+  url: "/2020/curriculum"
+- name: People
+  url: "/2020/people"

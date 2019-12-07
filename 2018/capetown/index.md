@@ -1,8 +1,7 @@
 ---
-layout: year_home
+layout: location_detail
 partner_site: capetown
-pre_arrival: _pre_arrival.md
-live_stream: _live_stream.md
+main: true
 ---
 <br>
 A Summer Institute in Computational Social Science will be held at the University of Cape Town from 18-29 June 2018. The purpose of the Summer Institute in Cape Town is to bring together graduate students, postdoctoral researchers, and faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).

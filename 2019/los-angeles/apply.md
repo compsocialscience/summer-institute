@@ -1,7 +1,7 @@
 ---
-title: Apply
+layout: location_detail
 partner_site: los-angeles
-layout: default
+apply: true
 ---
 
 # Eligibility

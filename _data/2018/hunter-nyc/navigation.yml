@@ -1,8 +1,8 @@
-- name: Hunter NYC 
-  url: "/2018/hunter-nyc/"
+- name: Home
+  url: "/2020/"
+- name: Locations
+  url: "/2020/locations"
+- name: Curriculum
+  url: "/2020/curriculum"
 - name: People
-  url: "/2018/hunter-nyc/#people"
-- name: Schedule & materials
-  url: "/2018/hunter-nyc/#schedule"
-- name: Apply
-  url: "/2018/hunter-nyc/apply"
+  url: "/2020/people"

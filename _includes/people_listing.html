@@ -1,50 +1,52 @@
 {% if page.partner_site %}
-  {% assign urlparts = page.url | split: "/" %}
-  {% assign year = urlparts[1] %}
-  {% assign location = urlparts[2] %}
-  {% assign people = site.data[year][location].people %}
-  {% for group in people %}
-    {% if group.title == 'Faculty' %}
-      <h3 id={{group.anchor}} class="h3 mb-4">{{group.title}} <small class="text-muted font-weight-light">(Listed alphabetically)</small></h3>
-    {% else %}
-      <hr class="mt-5 mb-4">
-      <h3 id={{group.anchor}} class="h3 mb-4">{{group.title}} <small class="text-muted font-weight-light">(Listed alphabetically)</small></h3>
-    {% endif %}
-    {% if group.cards %}
-      {% for card in group.cards %}
-        <div class="media mb-5">
-          {% if card.image %}
-          {% assign image_prefix = card.image | slice: 0, 4 %}
-          {% if image_prefix == "http" %}
-            {% assign image_url = card.image %}
-          {% else %}
-            {% assign image_url = card.image | prepend: site.baseurl %}
+{% assign urlparts = page.url | split: "/" %}
+{% assign year = urlparts[1] %}
+{% assign location = urlparts[2] %}
+{% assign people = site.data[year][location].people %}
+{% for group in people %}
+  {% if group[1].title == 'Faculty'%}
+  <h3 id={{group[0]}} class="h3 mb-4">{{group[1].title}} <small class="text-muted font-weight-light">(Listed alphabetically)</small></h3>
+  {% else %}
+  <hr class="mt-5 mb-4">
+  <h3 id={{group[0]}} class="h3 mb-4">{{group[1].title}} <small class="text-muted font-weight-light">(Listed alphabetically)</small></h3>
+  {% endif %}
+  {% assign people = group[1].people %}
+  {% if people %}
+    {% for card in people %}
+      <div class="media mb-5">
+        {% if card.image %}
+        {% assign image_prefix = card.image | slice: 0, 4 %}
+        {% if image_prefix == "http" %}
+          {% assign image_url = card.image %}
+        {% else %}
+          {% assign image_url = card.image | prepend: site.baseurl %}
+        {% endif %}
+        <img src="{{ image_url }}" alt="Image of {{ card.name }}" class="mr-5 rounded" width="150">
+        {% endif %}
+        <div class="media-body">
+          <h5 class="mt-0 font-weight-bold">{{card.name}}</h5>
+          {{card.bio}}
+          <br>
+          {% if card.website %}
+          <a href={{card.website}} target="_blank" class="btn btn-sm btn-dark mt-3">Website</a>
           {% endif %}
-          <img src="{{ image_url }}" alt="Image of {{ card.name }}" class="mr-5 rounded" width="150">
-          {% endif %}
-          <div class="media-body">
-            <h5 class="mt-0 font-weight-bold">{{card.name}}</h5>
-            {{card.bio}}
-            <br>
-            {% if card.website %}
-            <a href={{card.website}} target="_blank" class="btn btn-sm btn-dark mt-3">Website</a>
-            {% endif %}
-          </div>
         </div>
-      {% endfor %}
-    {% endif %}
-  {% endfor %}
+      </div>
+    {% endfor %}
+  {% endif %}
+{% endfor %}
 {% else %}
   {% for group in data.people %}
-    {% if group.title == 'Faculty' %}
-      <h3 id={{group.anchor}} class="h3 mb-4">{{group.title}} <small class="text-muted font-weight-light">(Listed alphabetically)</small></h3>
-      {% include searchbar.html %}
+    {% if group[1].title == 'Faculty'%}
+    <h3 id={{group[0]}} class="h3 mb-4">{{group[1].title}} <small class="text-muted font-weight-light">(Listed alphabetically)</small></h3>
+    <!-- add searchar.html post release  -->
     {% else %}
-      <hr class="mt-5 mb-4">
-      <h3 id={{group.anchor}} class="h3 mb-4">{{group.title}} <small class="text-muted font-weight-light">(Listed alphabetically)</small></h3>
+    <hr class="mt-5 mb-4">
+    <h3 id={{group[0]}} class="h3 mb-4">{{group[1].title}} <small class="text-muted font-weight-light">(Listed alphabetically)</small></h3>
     {% endif %}
-    {% if group.cards %}
-      {% for card in group.cards %}
+    {% assign people = group[1].people %}
+    {% if people %}
+      {% for card in people %}
         <div class="media mb-5">
           {% if card.image %}
           {% assign image_prefix = card.image | slice: 0, 4 %}

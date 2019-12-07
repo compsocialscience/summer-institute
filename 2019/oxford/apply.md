@@ -1,7 +1,7 @@
 ---
-title: Apply
+layout: location_detail
 partner_site: oxford
-layout: default
+apply: true
 ---
  
 ### ELIGIBILITY

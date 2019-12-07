@@ -1,15 +1,19 @@
-# Pre-arrival
+---
+layout: location_detail
+partner_site: rtp
+pre_arrival: true
+---
 
-As we discussed in our call for applications, we have arranged two types of training prior to the event this summer. Some students have more sophisticated coding skills but little exposure to social science; other students have significant exposure to social science but lack coding skills.
-
+We have arranged two types of training prior to the event this summer: (1) Coding Modules and (2) Suggested Reading. These resources are meant to support both students possessing more sophisticated coding skills but little exposure to social science and students with significant exposure to social science but lack coding skills.
 ## Coding
 
-The majority of the coding work presented at the 2020 SICSS will employ R.  However, you are welcome to employ a language of your choice, such as Python, Julia, or other languages that are commonly used by computational social scientists. If you would like to work in R, we recommend that you complete the free [RStudio Primers](https://rstudio.cloud/learn/primers), which can be supplemented by the open access book _[R for Data Science](https://r4ds.had.co.nz/)_ by Garrett Grolemund and Hadley Wickham.  RStudio Primers cover 6 topics: The Basics, Working with Data, Visualize Data, Tidy Your Data, Iterate, and Write Functions.  If you already feel comfortable with these topics (either in R or some other language), then you do not need to complete these Primers.
+The majority of the coding work presented at the 2019 SICSS will employ R.  However, you are welcome to employ a language of your choice, such as Python, Julia, or other languages that are commonly used by computational social scientists. If you would like to work in R, we recommend that you complete the free [RStudio Primers](https://rstudio.cloud/learn/primers), which can be supplemented by the open access book _[R for Data Science](https://r4ds.had.co.nz/)_ by Garrett Grolemund and Hadley Wickham.  RStudio Primers cover 6 topics: The Basics, Working with Data, Visualize Data, Tidy Your Data, Iterate, and Write Functions.  If you already feel comfortable with these topics (either in R or some other language), then you do not need to complete these Primers.
 
 If you would like more practice after completing the RStudio Primers, some other materials that we can recommend are:
 - [R for Social Science](https://datacarpentry.org/r-socialsci/), Data Carpentry.  
 - [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/), Taught by Charles Lanfear at University of Washington. This course includes videos of lectures, slides, and assignments.
 - [Learn R](https://www.codecademy.com/learn/learn-r), Code Academy.
+
 
 ## Reading List
 

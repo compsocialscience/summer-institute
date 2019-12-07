@@ -1,12 +1,6 @@
 ---
+layout: location_detail
 partner_site: bamberg
-year: '2019'
-layout: location_detail
-title: Bamberg
-subtitle: August 10 - August 15, 2019
-location: Bamberg University
-image: /assets/images/bamberg.jpg
-layout: location_detail
 main: true
 ---
 

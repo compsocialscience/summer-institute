@@ -13,7 +13,9 @@
       <div class="row">
         {% include sidebar.html %}
         <div class="col-sm-8">
-          {% include people_listing.html %}
+          {% if data.people %}
+            {% include people_listing.html %}
+          {% endif %}
         </div><!--/col-->
       </div><!--/row-->
     </div><!--/container-->

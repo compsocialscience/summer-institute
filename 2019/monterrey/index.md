@@ -1,8 +1,7 @@
 ---
+layout: location_detail
 partner_site: monterrey
-layout: year_home
-faculty_title: Organizers
-speakers_title: Local Speakers
+main: true
 ---
 From the evening of Sunday, June 16 to the morning of Saturday, June 29, 2019, the Summer Institute in Computational Social Science will host a partner location at the School of Economics of the Universidad Autonoma de Nuevo Leon (UANL) in Monterrey, Mexico. The purpose of SICSS-Monterrey is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science in Mexico. 
 The site is organized by Oscar Mendez, from UANL, and Adaner Usmani, from Brown University. 

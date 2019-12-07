@@ -1,7 +1,7 @@
 ---
-title: Apply
+layout: location_detail
 partner_site: boston
-layout: default
+apply: true
 ---
 
 **Applications are now closed and new submissions will not be considered.** Thank you for your interest in the Boston partner site. We hope you will consider applying next year.

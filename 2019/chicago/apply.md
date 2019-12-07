@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: location_detail
 partner_site: chicago
-title: Apply
+apply: true
 ---
 
 # Eligibility

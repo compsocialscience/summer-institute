@@ -1,7 +1,7 @@
 ---
+layout: location_detail
 partner_site: monterrey
-titel: Apply
-layout: default
+apply: true
 ---
 
 # Eligibility

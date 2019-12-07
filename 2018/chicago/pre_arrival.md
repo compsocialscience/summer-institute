@@ -1,4 +1,8 @@
-# Pre-arrival
+---
+layout: location_detail
+partner_site: chicago
+pre_arrival: true
+---
 
 In order to prepare for SICSS-Chicago, we ask that you follow the same pre-arrival syllabus as the other SICSS locations.  We are grateful to Matt Salganik and Chris Bail for preparing this reading list and the recommended Datacamp courses.  In addition to the R courses posted on the main SICSS site, we have included a list of recommended Python courses.
 
