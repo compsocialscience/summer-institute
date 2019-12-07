@@ -17,6 +17,23 @@
       <li class="nav-item">
         <a class="nav-link btn btn-dark d-xl-inline-flex mt-3 ml-3" href="apply">Apply</a>
       </li>
+      <br/>
+    </ul>
+    <ul class="nav flex-column">
+      <a class="nav-link collapsed" onmouseover=""" style="cursor: pointer;" data-toggle="collapse" data-target="">Past Events</a>
+      {% assign check2018 = site.data.2018[location].hero %}
+      {% assign check2019 = site.data.2019[location].hero %}
+      {% assign check2020 = site.data.2020[location].hero %}
+        {% if check2018 %}
+          <a class="nav-link" href="{{site.baseurl}}/2018/{{location}}">2018</a>
+        {% endif %}
+        {% if check2019 %}
+          <a class="nav-link" href="{{site.baseurl}}/2019/{{location}}">2019</a>
+        {% endif %}
+        {% if check2020 %}
+          <a class="nav-link" href="{{site.baseurl}}/2020/{{location}}">2020</a>
+        {% endif %}
+    </ul>
     </ul>
   </div>
 {% endif %}
