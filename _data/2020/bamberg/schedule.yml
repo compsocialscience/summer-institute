@@ -1,29 +1,33 @@
-- date: Sunday July 28, 2020
-  topics:
-    - time: null
-      title: Introductions
-      slides: null
-      video: null
-      resources:
-    - time: 9:30 - 10:00
-      title: Logistics
-      resources:
-        - link: "https://youtu.be/H_3qbmlZsp0"
-          text: "Video"
-        - link: "https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day1-ethics/02-intro-computational-social-science.pdf"
-          text: "Slides"
+- date: 2019-07-28
+  events:
+    - name: "Opening dinner"
 
-- date: Sunday July 29, 2020
-  topics:
-    - time: 9:30 - 10:00
-      title: Logistics
-      resources:
-        - link: "https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day1-ethics/02-intro-computational-social-science.pdf"
-          text: "Slides"
-    - time: 10:00 - 11:00
-      title: Guest Speaker
-      resources:
-        - link: "https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day1-ethics/02-intro-computational-social-science.pdf"
-          text: "Slides"
-        - link: "http://andreasjungherr.net/2019/07/30/normalizing-digital-trace-data-sicss-edition/"
-          text: "Blog"
+- date: 2019-07-29
+  name: "Introduction and Ethics (Carsten Schwemmer + Video Lecture)"
+  events:
+    - name: "9:00 - 9:15 Logistics"
+    - name: "9:15 - 9:30 Introductions"
+    - name: "9:30 - 10:00 Introduction to computational social science [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day1-ethics/02-intro-computational-social-science.pdf)"
+    - name: "10:00 - 10:30 Why SICSS? [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day1-ethics/02-why-sicss.pdf)"
+    - name: "10:30 - 10:45 Coffee break"
+    - name: "10:45 - 11:30 Ethics: principles-based approach [Video](https://youtu.be/H_3qbmlZsp0), [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/03-ethics.pdf)"
+    - name: "11:30 - 12:15 Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty [Video](https://youtu.be/75qv8d8SXW0), [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/04-areas-of-difficulty.pdf)"
+    - name: "12:15 - 12:30 Introduction to the group exercise [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day1-ethics/05-intro-group-exercise.pdf) [Case study 1](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day1-ethics/group-exercise/ethics_case_study.pdf) [Case Study 2](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day1-ethics/group-exercise/patreon-case-study.pdf)"
+    - name: "12:30 - 1:30 Lunch"
+    - name: "1:30 - 3:45 Group exercise"
+    - name: "3:45 - 4:00 Break"
+    - name: "4:00 - 5:30 Guest speaker: Andreas Jungherr [Blog & Slides](http://andreasjungherr.net/2019/07/30/normalizing-digital-trace-data-sicss-edition/)"
+
+- date: 2019-07-30
+  name: "Collecting Digital Trace Data (Carsten Schwemmer)"
+  events:
+    - name: "9:00 - 9:15 Logistics"
+    - name: "9:15 - 9:45 What is digital trace data? [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day2-digital-trace-data/02-what-ist-digital-trace-data.pdf)"
+    - name: "9:45 - 10:30 Screen-scraping [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day2-digital-trace-data/03-screenscraping.pdf) [Code](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day2-digital-trace-data/03-screenscraping.Rmd)"
+    - name: "10:30 - 10:45 Coffee break"
+    - name: "10:45 - 11:45 Application Programming Interfaces [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day2-digital-trace-data/04-apis.pdf) [Code](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day2-digital-trace-data/04-apis.Rmd)"
+    - name: "11:45 - 12:30 Building apps and bots for social science research [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day2-digital-trace-data/05-bots-apps.pdf) [Code](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day2-digital-trace-data/05-bots-apps.Rmd)"
+    - name: "12:30 - 1:30 Lunch"
+    - name: "1:30 - 4:15 Group exercise [Slides](https://github.com/compsocialscience/summer-institute/raw/master/2019/bamberg/materials/day2-digital-trace-data/06-group-exercise.pdf)"
+    - name: "4:15 - 4:30 Break"
+    - name: "4:30 - 5:30 Guest speaker: Deen Freelon (video from SICSS 2018)"

@@ -3,24 +3,22 @@
 {% assign year = urlparts[1] %}
 {% assign location = urlparts[2] %}
 {% assign schedule = site.data[year][location].schedule %}
-{% for event in schedule %}
+{% for day in schedule %}
   <div class="card mb-3">
     <div class="card-header">
       <h5>
-        <strong>{{event.date}}</strong>
+        <strong>{{ day.date | date: "%A %B %-d, %Y" }}</strong>
       </h5>
     </div>
     <ul class="list-group list-group-flush">
-    {% if event.topics %}
-      {% for topic in event.topics %}
-        <li class="list-group-item">
-          {{topic.time}} {{topic.title}}
-          {% if topic.resources %}
-            {% for resource in topic.resources %}
-              <a href={{resource.link}} target="_blank">{{resource.text}}</a>
-            {% endfor %}
+    {% if day.events %}
+      {% for event in day.events %}
+      <li class="list-group-item">
+          {% if event.time %}
+            <span>{{ event.time | date: "%l:%M%P" }}</span>
           {% endif %}
-        </li>
+        {{ event.name | markdownify }}
+      </li>
       {% endfor %}
     {% endif %}
     </ul>
