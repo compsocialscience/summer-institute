@@ -9,7 +9,7 @@
         {% else %}
           {% assign image_url = data.image | prepend: site.baseurl %}
         {% endif %}
-        <img class="img-responsive" src="{{ image_url }}" alt="Image of {{ person.name }}">
+        <img class="card-img-top" src="{{ image_url }}" alt="Image of {{ person.name }}">
         {% endif %}
         <div class="card-body">
           <h5 class="card-title">{{data.title}}</h5>
