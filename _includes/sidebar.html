@@ -14,10 +14,12 @@
           <a class="nav-link" href="{{nav.url}}">{{nav.name}}</a>
         </li>
       {% endfor %}
+      {% if year == '2020' %}
       <li class="nav-item">
         <a class="nav-link btn btn-dark d-xl-inline-flex mt-3 ml-3" href="apply">Apply</a>
       </li>
       <br/>
+      {% endif %}
     </ul>
     <ul class="nav flex-column">
       <a class="nav-link collapsed" onmouseover=""" style="cursor: pointer;" data-toggle="collapse" data-target="">Other Events:</a>
