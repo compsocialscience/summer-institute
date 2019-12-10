@@ -23,26 +23,17 @@
     </ul>
     <ul class="nav flex-column">
       <a class="nav-link collapsed" onmouseover=""" style="cursor: pointer;" data-toggle="collapse" data-target="">Other Events:</a>
-      {% assign check2018 = site.data.2018[location].hero %}
-      {% assign check2019 = site.data.2019[location].hero %}
-      {% assign check2020 = site.data.2020[location].hero %}
-      {% if check2018 or check2019 or check2020 %}
-        {% if check2018 %}
-          {% if year != '2018' %}
-            <a class="nav-link" href="{{site.baseurl}}/2018/{{location}}">2018</a>
-          {% endif %}
-        {% endif %}
-        {% if check2019 %}
-          {% if year != '2019' %}
-            <a class="nav-link" href="{{site.baseurl}}/2019/{{location}}">2019</a>
-          {% endif %}
-        {% endif %}
-        {% if check2020 %}
-          {% if year != '2020' %}
-            <a class="nav-link" href="{{site.baseurl}}/2020/{{location}}">2020</a>
-          {% endif %}
-        {% endif %}
-      {% endif %}
+      {% for year_num in (2017..site.current_year) reversed %}
+        {% assign allyears = year_num | downcase %}
+        {% for checkyear in allyears %}
+          {% assign location_data = site.data[checkyear][location]%}
+            {% if location_data %}
+              {% if checkyear != year %}
+                <a class="nav-link" href="{{site.baseurl}}/{{checkyear}}/{{location}}">{{checkyear}}</a>
+              {% endif %}
+            {% endif %}
+        {% endfor %}
+      {% endfor %}
     </ul>
     </ul>
   </div>
