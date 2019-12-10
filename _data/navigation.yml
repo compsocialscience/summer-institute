@@ -1,50 +1,8 @@
-- name: 2017
-  url: /2017/
-- name: 2018
-  url: "#"
-  children:
-    - name: "**Duke University**"
-      url: /2018/
-    - separator: true
-    - name: Hunter College
-      url: /2018/hunter-nyc/
-    - name: New York University
-      url: /2018/nyu-nyc/
-    - name: Northwestern University
-      url: /2018/chicago/
-    - name: University of Cape Town
-      url: /2018/capetown/
-    - name: University of Colorado
-      url: /2018/boulder/
-    - name: University of Helsinki
-      url: /2018/helsinki/
-    - name: University of Washington
-      url: /2018/seattle/
-- name: 2019
-  url: /2019/
-  children:
-    - name: "**Princeton University**"
-      url: /2019/
-    - separator: true
-    - name: Bamberg
-      url: /2019/bamberg
-    - name: Boston
-      url: /2019/boston/
-    - name: Cape Town
-      url: /2019/capetown/
-    - name: Chicago
-      url: /2019/chicago/
-    - name: Hunter (NYC)
-      url: /2019/hunter-nyc/
-    - name: Istanbul
-      url: /2019/istanbul/
-    - name: Oxford
-      url: /2019/oxford/
-    - name: Los Angeles
-      url: /2019/los-angeles/
-    - name: Research Triangle Park
-      url: /2019/rtp/
-    - name: UANL (Monterrey)
-      url: /2019/monterrey/
-    - name: ETH Z&uuml;rich
-      url: /2019/ethzurich/
+- name: Home
+  url: "/2020/"
+- name: Locations
+  url: "/2020/locations"
+- name: Curriculum
+  url: "/2020/curriculum"
+- name: People
+  url: "/2020/people"

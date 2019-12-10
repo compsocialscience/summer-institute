@@ -9,23 +9,12 @@
   </button>
   <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
     <ul class="navbar-nav ml-auto">
-      {% if page.partner_site %}
-      {% assign urlparts = page.url | split: "/" %}
-      {% assign year = urlparts[1] %}
-      {% assign location = urlparts[2] %}
-      {% assign navigation = site.data[year][location].navigation %}
+      {% assign navigation = site.data.navigation %}
         {% for navlink in navigation %}
           <li class="nav-item">
             <a class="nav-link" href="{{ navlink.url | prepend: site.baseurl }}">{{ navlink.name }}</a>
           </li>
         {% endfor %}
-      {% else %}
-        {% for navlink in data.navigation %}
-          <li class="nav-item">
-            <a class="nav-link" href="{{ navlink.url | prepend: site.baseurl }}">{{ navlink.name }}</a>
-          </li>
-        {% endfor %}
-      {% endif %}
       <li class="nav-item">
           <a class="nav-link btn btn-light btn-sm text-dark mx-3 font-weight-bold" href="apply.html">Apply</a>
       </li>
