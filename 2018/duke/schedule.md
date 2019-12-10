@@ -1,7 +1,8 @@
 ---
 layout: location_detail
-partner_site: bamberg
+partner_site: duke
 schedule: true
 ---
+
 
 # Schedule

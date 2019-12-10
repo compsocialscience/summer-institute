@@ -40,9 +40,7 @@
                 </div>
               </div>
             </div>
-          {% endif %}
-
-          {% if page.people %}
+          {% elsif page.people %}
             <div class="col-sm-8">
               <div class="row" id="faculty">
                 <div class="col-sm-12">
@@ -66,9 +64,7 @@
                 </div>
               </div>
             </div>
-          {% endif %}
-
-          {% if page.schedule %}
+          {% elsif page.schedule %}
             <div class="col-sm-8">
               <div class="row">
                 <div class="col-sm-12 mb-5">
@@ -81,9 +77,7 @@
                 </div>
               </div>
             </div><!--/col-->
-          {% endif %}
-
-          {% if page.apply %}
+          {% elsif page.apply %}
             <div class="col-sm-8">
               <div class="row">
                 <div class="col-sm-12">
@@ -93,19 +87,26 @@
                 </div>
               </div>
             </div><!--/col-->
-          {% endif %}
-
-        {% if page.models %}
+          {% elsif page.models %}
+            <div class="col-sm-8">
+              <div class="row">
+                <div class="col-sm-12 mb-5">
+                  <h2 class="display-4">Formal Models in Social Science</h2>
+                  <br />
+                  {{content}}
+                </div>
+              </div>
+            </div>
+          {% else %}
+          <!-- Generic detail page -->
           <div class="col-sm-8">
             <div class="row">
               <div class="col-sm-12 mb-5">
-                <h2 class="display-4">Formal Models in Social Science</h2>
-                <br />
                 {{content}}
               </div>
             </div>
           </div>
-        {% endif %}
+          {% endif %}
       </div><!-- /row -->
     </div><!-- /container -->
 

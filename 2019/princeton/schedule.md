@@ -1,6 +1,6 @@
 ---
 layout: location_detail
-partner_site: bamberg
+partner_site: princeton
 schedule: true
 ---
 

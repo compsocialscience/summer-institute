@@ -6,6 +6,13 @@
       description: "From the evening of Sunday, July 28 to Friday, August 09, 2019, the University of Bamberg will host a partner event for the Summer Institute in Computational Social Science."
       link: bamberg
 
+    - image: /assets/images/bamberg.jpg
+      title: Duke University
+      subtitle: Durham, North Carolina
+      description: "From the evening of Sunday, June 14 to the morning of Saturday, June 27, 2020, the Russell Sage Foundation will sponsor the Summer Institute in Computational Social Science, to be held at Duke University."
+      link: duke
+      primary: true
+
 - year: 2019
   campuses:
     
@@ -65,6 +72,15 @@
       autem!"
       link: istanbul
 
+    - image: /assets/images/bamberg.jpg
+      title: Princeton University
+      subtitle: Princeton, New Jersey
+      description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nemo optio cumque quia adipisci fugit
+      alias porro esse ipsa excepturi, fuga nobis vitae voluptatibus exercitationem laborum officia ab nihil voluptatum
+      autem!"
+      link: princeton
+      primary: true
+
     - image: /assets/images/location.jpg
       title: University of California at Los Angeles
       subtitle: Los Angeles, California
@@ -99,6 +115,13 @@
       
 - year: 2018
   campuses: 
+
+    - image: /assets/images/bamberg.jpg
+      title: Duke University
+      subtitle: Durham, North Carolina
+      description: "From the evening of Sunday, June 14 to the morning of Saturday, June 27, 2018, the Russell Sage Foundation will sponsor the Summer Institute in Computational Social Science, to be held at Duke University."
+      link: duke
+      primary: true
 
     - image: /assets/images/bamberg.jpg
       title: University of Boulder
@@ -158,3 +181,4 @@
       alias porro esse ipsa excepturi, fuga nobis vitae voluptatibus exercitationem laborum officia ab nihil voluptatum
       autem!"
       link: princeton
+      primary: true

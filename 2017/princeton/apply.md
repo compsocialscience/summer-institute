@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: location_detail
 title: Apply
 ---
 

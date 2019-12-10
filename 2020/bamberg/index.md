@@ -1,12 +1,8 @@
 ---
-partner_site: bamberg
-year: '2020'
 layout: location_detail
-title: Bamberg
-location: University of Bamberg
-image: /assets/images/bamberg.jpg
-subtitle: July 28 - August 09, 2020
+partner_site: bamberg
 main: true
+image: /assets/images/bamberg.jpg
 ---
 
 From the evening of Sunday, July 28 to Friday, August 09, 2019, the University of Bamberg will host a partner event for the Summer Institute in Computational Social Science. The purpose of SICSS Bamberg is to bring together interested Master students, PhD students, postdoctoral students and faculty in Germany. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).

@@ -51,7 +51,11 @@
           {% if location.campuses %}
           {% for campus in location.campuses %}
           <li class="nav-item w-100">
-            <a class="nav-link" href="#{{campus.link}}_{{year}}">{{campus.title}}</a>
+            <a class="nav-link" href="#{{campus.link}}_{{year}}">{{campus.title}}
+                {% if campus.primary %}
+                  <span>(Primary Location)</span>
+                {% endif %}
+            </a>
           </li>
           {% endfor %}
           {% endif %}
