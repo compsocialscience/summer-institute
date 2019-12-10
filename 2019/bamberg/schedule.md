@@ -1,6 +1,6 @@
 ---
 layout: location_detail
-partner_site: capetown
+partner_site: bamberg
 schedule: true
 ---
 
