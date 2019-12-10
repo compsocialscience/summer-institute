@@ -1,6 +1,6 @@
 ---
 layout: location_detail
-partner_site: bramberg
+partner_site: bamberg
 pre_arrival: true
 ---
 

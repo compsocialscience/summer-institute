@@ -1,9 +1,9 @@
 ---
-partner_site: bramberg
+partner_site: bamberg
 year: '2020'
 layout: location_detail
-title: Bramberg
-location: University of Bramberg
+title: Bamberg
+location: University of Bamberg
 image: /assets/images/bamberg.jpg
 subtitle: July 28 - August 09, 2020
 main: true
