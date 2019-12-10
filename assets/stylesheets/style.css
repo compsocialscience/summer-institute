@@ -37,3 +37,13 @@ body {
   display: inline-flex;
   border-radius: 4px;
 }
+
+.link-dark-bg {
+  color: white;
+  text-decoration: underline;
+}
+
+.link-dark-bg:hover {
+  color: rgba(255,255,255,0.75);
+  text-decoration: underline;
+}
