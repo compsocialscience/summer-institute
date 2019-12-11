@@ -4,11 +4,11 @@
   <head>
     {% include header.html %}
   </head>
-  <body class="sub-page" style="zoom: 125%">
+  <body class="sub-page">
     {% include navbar.html %}
     <!-- Start content -->
     {% include hero_secondary.html %}
-    <div class="container"><!-- Locations -->
+    <div class="container">
       <div class="row">
         {% include sidebar.html %}
         {% if page.main %}
@@ -26,9 +26,9 @@
               {% endif %}
               <h2 class="display-4">{{page.location}}</h2>
               {{content}}
-            </div><!--/col-->
-          </div><!--/row-->
-        </div><!--/col-->
+            </div>
+          </div>
+        </div>
         {% endif %}
         
           {% if page.pre_arrival %}
