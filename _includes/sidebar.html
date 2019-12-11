@@ -42,31 +42,32 @@
 <!-- locations sidebar -->
 {% if page.layout == 'locations' %}
   <ul class="nav flex-column" id="accordionMenu">
-    {% for location in data.locations %}
-      {% assign index_target = forloop.index %}
-      {% assign year = location.year %}
-      <li class="nav-item">
-        <a class="nav-link" onmouseover="" style="cursor: pointer;" data-toggle="collapse" data-target="#collapse{{forloop.index}}">{{year}}</a>
-        <ul class="nav collapse" id="collapse{{forloop.index}}" aria-labelledby="{{forloop.index}}" data-parent="#accordionMenu">
-          {% if location.campuses %}
-          {% for campus in location.campuses %}
-          <li class="nav-item w-100">
-            <a class="nav-link" href="#{{campus.link}}_{{year}}">{{campus.title}}
-                {% if campus.primary %}
-                  <span>(Primary Location)</span>
-                {% endif %}
-            </a>
-          </li>
-          {% endfor %}
-          {% endif %}
-        </ul>
-      </li>
-      {% endfor %}
+  {% for year_num in (2017..site.current_year) reversed %}
+    {% assign year = year_num | downcase %}
     <li class="nav-item">
-      <a class="nav-link btn btn-dark d-xl-inline-flex mt-3 ml-3" href="host">Host a Location</a>
+      <a class="nav-link" onmouseover="" style="cursor: pointer;" data-toggle="collapse" data-target="#collapse{{forloop.index}}">{{year}}</a>
+      <ul class="nav collapse" id="collapse{{forloop.index}}" aria-labelledby="{{forloop.index}}" data-parent="#accordionMenu">
+      {% for single_year in site.data[year] %}
+      {% assign location_data = single_year[1].location %}
+      {% assign locations = location_data %}
+      {% for campus in locations %}
+        {% if campus.title %}
+        <li class="nav-item w-100">
+          <a class="nav-link" href="#{{campus.link}}_{{campus.year}}">{{campus.title}}
+              {% if campus.primary %}
+                <span>(Primary Location)</span>
+              {% endif %}
+          </a>
+          </li>
+        {% endif %}
+      {% endfor %}
+      {% endfor %}
+    </ul>
     </li>
+    {% endfor %}
   </ul>
 {% endif %}
+
 
 <!-- curriculum sidebar -->
 {% if page.layout == 'curriculum' %}
