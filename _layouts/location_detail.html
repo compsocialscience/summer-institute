@@ -29,84 +29,82 @@
             </div>
           </div>
         </div>
-        {% endif %}
-
-          {% if page.pre_arrival %}
-            <div class="col-sm-8">
-              <div class="row">
-                <div class="col-sm-12 mb-5">
-                  <h2 class="display-4">Pre-arrival</h2>
-                  {{content}}
-                </div>
-              </div>
-            </div>
-          {% elsif page.people %}
-            <div class="col-sm-8">
-              <div class="row" id="faculty">
-                <div class="col-sm-12">
-                  <h2 class="display-4">People</h2>
-                </div><!--/col-->
-              </div><!--/row-->
-              <div class="row">
-                <div class="col-sm-12 mb-5">
-                  {% assign urlparts = page.url | split: "/" %}
-                  {% assign year = urlparts[1] %}
-                  {% assign location = urlparts[2] %}
-                  {% assign people = site.data[year][location].people %}
-                  {% if people %}
-                    {% include people_listing.html %}
-                  {% else %}
-                    {% include people_listing_secondary.html content='Faculty' %}
-                    {% include people_listing_secondary.html content='Speakers' %}
-                    {% include people_listing_secondary.html content='Teaching Assistants' %}
-                    {% include people_listing_secondary.html content='Participants' %}
-                  {% endif %}
-                </div>
-              </div>
-            </div>
-          {% elsif page.schedule %}
-            <div class="col-sm-8">
-              <div class="row">
-                <div class="col-sm-12 mb-5">
-                  <h2 class="display-4">Schedule & Materials</h2>
-                </div><!--/col-->
-              </div><!--/row-->
-              <div class="row">
-                <div class="col-sm-12">
-                {% include schedule.html %}
-                </div>
-              </div>
-            </div><!--/col-->
-          {% elsif page.apply %}
-            <div class="col-sm-8">
-              <div class="row">
-                <div class="col-sm-12">
-                  <h1 class="display-4">Apply</h1>
-                  <h3 class="h3 mb-4">Application overview and process.</h3>
-                  {{content}}
-                </div>
-              </div>
-            </div><!--/col-->
-          {% elsif page.models %}
-            <div class="col-sm-8">
-              <div class="row">
-                <div class="col-sm-12 mb-5">
-                  <h2 class="display-4">Formal Models in Social Science</h2>
-                  <br />
-                  {{content}}
-                </div>
-              </div>
-            </div>
-          {% else %}
-          <!-- Generic detail page -->
+        {% elsif page.pre_arrival %}
           <div class="col-sm-8">
             <div class="row">
               <div class="col-sm-12 mb-5">
+                <h2 class="display-4">Pre-arrival</h2>
                 {{content}}
               </div>
             </div>
           </div>
-          {% endif %}
+        {% elsif page.people %}
+          <div class="col-sm-8">
+            <div class="row" id="faculty">
+              <div class="col-sm-12">
+                <h2 class="display-4">People</h2>
+              </div><!--/col-->
+            </div><!--/row-->
+            <div class="row">
+              <div class="col-sm-12 mb-5">
+                {% assign urlparts = page.url | split: "/" %}
+                {% assign year = urlparts[1] %}
+                {% assign location = urlparts[2] %}
+                {% assign people = site.data[year][location].people %}
+                {% if people %}
+                  {% include people_listing.html %}
+                {% else %}
+                  {% include people_listing_secondary.html content='Faculty' %}
+                  {% include people_listing_secondary.html content='Speakers' %}
+                  {% include people_listing_secondary.html content='Teaching Assistants' %}
+                  {% include people_listing_secondary.html content='Participants' %}
+                {% endif %}
+              </div>
+            </div>
+          </div>
+        {% elsif page.schedule %}
+          <div class="col-sm-8">
+            <div class="row">
+              <div class="col-sm-12 mb-5">
+                <h2 class="display-4">Schedule & Materials</h2>
+              </div><!--/col-->
+            </div><!--/row-->
+            <div class="row">
+              <div class="col-sm-12">
+              {% include schedule.html %}
+              </div>
+            </div>
+          </div><!--/col-->
+        {% elsif page.apply %}
+          <div class="col-sm-8">
+            <div class="row">
+              <div class="col-sm-12">
+                <h1 class="display-4">Apply</h1>
+                <h3 class="h3 mb-4">Application overview and process.</h3>
+                {{content}}
+              </div>
+            </div>
+          </div><!--/col-->
+        {% elsif page.models %}
+          <div class="col-sm-8">
+            <div class="row">
+              <div class="col-sm-12 mb-5">
+                <h2 class="display-4">Formal Models in Social Science</h2>
+                <br />
+                {{content}}
+              </div>
+            </div>
+          </div>
+        {% else %}
+        <!-- Generic detail page -->
+        <div class="col-sm-8">
+          <div class="row">
+            <div class="col-sm-12 mb-5">
+              {{content}}
+            </div>
+          </div>
+        </div>
+        {% endif %}
       </div><!-- /row -->
     </div><!-- /container -->
 
