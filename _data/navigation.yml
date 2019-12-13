@@ -6,3 +6,6 @@
   url: "/2020/curriculum"
 - name: People
   url: "/2020/people"
+- name: Apply
+  type: "button"
+  url: "/2020/apply"
