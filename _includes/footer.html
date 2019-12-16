@@ -9,21 +9,12 @@
       </div>
       <div class="col-sm-10">
         <ul class="nav justify-content-end">
-          <li class="nav-item">
-            <a class="nav-link text-light" href="index.html">Home <span class="sr-only">(current)</span></a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link text-light" href="locations.html">Locations</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link text-light" href="curriculum.html">Curriculum</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link text-light" href="people.html">People</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link text-light" href="apply.html">Apply</a>
-          </li>
+        {% assign navigation = site.data.navigation %}
+          {% for navlink in navigation %}
+            <li class="nav-item">
+              <a class="nav-link text-light" href="{{ navlink.url | prepend: site.baseurl }}">{{ navlink.name }}</a>
+            </li>
+          {% endfor %}
         </ul>
       </div>
     </div>

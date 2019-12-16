@@ -1,8 +1,11 @@
 - name: Home
-  url: "/2020/"
+  url: "/"
 - name: Locations
-  url: "/2020/locations"
+  url: "/locations"
 - name: Curriculum
-  url: "/2020/curriculum"
+  url: "/curriculum"
 - name: People
-  url: "/2020/people"
+  url: "/people"
+- name: Apply
+  type: "button"
+  url: "/apply"

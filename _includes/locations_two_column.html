@@ -5,7 +5,7 @@
   {% endif %}
     {% assign allyears = year_num | downcase %}
       <div class="col-sm-12">
-        <h1 id="{{location.year}}">{{allyears}}</h1>
+        <h1 id="{{allyears}}">{{allyears}}</h1>
       </div>
   {% for year in site.data[allyears] %}
     {% assign location_data = year[1].location %}

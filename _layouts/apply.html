@@ -4,7 +4,7 @@
   <head>
     {% include header.html %}
   </head>
-  <body class="sub-page" style="zoom: 125%">
+  <body class="sub-page">
 
     {% include navbar.html %}
 
@@ -31,7 +31,7 @@
             {{content}}
 
             {% include apply_list_group.html %}
-              
+
             {% capture faqs %}{% include _apply_faq.md %}{% endcapture %}
             {% if faqs != "" %}
               {{ faqs | markdownify }}
@@ -40,10 +40,6 @@
           </div>
         </div>
 
-
-
-  
-  
       </div>
     {% include footer.html %}
   </body>

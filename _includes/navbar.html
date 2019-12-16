@@ -11,12 +11,9 @@
       {% assign navigation = site.data.navigation %}
         {% for navlink in navigation %}
           <li class="nav-item">
-            <a class="nav-link" href="{{ navlink.url | prepend: site.baseurl }}">{{ navlink.name }}</a>
+            <a class="nav-link {% if navlink.type == 'button' %} btn btn-light btn-sm text-dark mx-3 font-weight-bold {% endif %}" href="{{ navlink.url | prepend: site.baseurl }}">{{ navlink.name }}</a>
           </li>
         {% endfor %}
-      <li class="nav-item">
-          <a class="nav-link btn btn-light btn-sm text-dark mx-3 font-weight-bold" href="apply.html">Apply</a>
-      </li>
     </ul>
   </div>
 </nav>
