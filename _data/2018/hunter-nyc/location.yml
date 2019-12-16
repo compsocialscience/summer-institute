@@ -1,8 +1,8 @@
-- image: /assets/images/location.jpg
-  title: Hunter College
-  subtitle: New York, New York
-  description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nemo optio cumque quia adipisci fugit
-  alias porro esse ipsa excepturi, fuga nobis vitae voluptatibus exercitationem laborum officia ab nihil voluptatum
-  autem!"
-  link: hunter-nyc
-  year: 2018
+image: /assets/images/location.jpg
+title: Hunter College
+subtitle: New York, New York
+description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nemo optio cumque quia adipisci fugit
+alias porro esse ipsa excepturi, fuga nobis vitae voluptatibus exercitationem laborum officia ab nihil voluptatum
+autem!"
+link: hunter-nyc
+year: 2018

@@ -1,6 +1,6 @@
 {% if include.location_data %}
-  {% assign locations = location_data %}
-  {% for data in locations %}
+  {% assign data = location_data %}
+
     {% if data.title %}
       <div class="col-sm-6 mb-5">
         <div class="card border-0" id="{{data.link}}_{{data.year}}">
@@ -22,5 +22,5 @@
         </div>
       </div>
     {% endif %}
-  {% endfor %}
+
 {% endif %}

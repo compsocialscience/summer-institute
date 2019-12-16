@@ -13,8 +13,14 @@
       <div class="row">
         {% include sidebar.html %}
         <div class="col-sm-8">
-          {% if data.people %}
-            {% include people_listing.html %}
+          {% if page.partner_site %}
+            {% if data.people %}
+              {% include people_listing.html %}
+            {% endif %}
+          {% else %}
+            {% if data.people %}
+              {% include people_listing_all.html %}
+            {% endif %}
           {% endif %}
         </div>
       </div>

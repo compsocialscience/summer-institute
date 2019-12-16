@@ -1,0 +1,135 @@
+{% for year_num in (2017..site.current_year) reversed %}
+{% assign allyears = year_num | downcase %}
+<div class="row">
+  <div class="col-sm-12">
+    <h1 id="{{allyears}}">{{allyears}}</h1>
+    <br />
+  </div>
+{% for year in site.data[allyears] %}
+  <div class="col-sm-12">
+    <h2 id="{{year[1].location.link}}">{{year[1].location.title}}</h2>
+    <h4 id={{group[0]}} class="h3 mb-4">All Participants <small class="text-muted font-weight-light">(Listed alphabetically)</small></h4>
+    <hr />
+  </div>
+  {% if year[1].people %}
+    {% assign people_data = year[1].people %}
+    {% for group in people_data %}
+      {% assign people = group[1].people %}
+      {% if people %}
+        {% for card in people %}
+          <div class="media mb-5">
+            {% if card.image %}
+            {% assign image_prefix = card.image | slice: 0, 4 %}
+            {% if image_prefix == "http" %}
+              {% assign image_url = card.image %}
+            {% else %}
+              {% assign image_url = card.image | prepend: site.baseurl %}
+            {% endif %}
+            <img src="{{ image_url }}" alt="Image of {{ card.name }}" class="mr-5 rounded" width="150">
+            {% endif %}
+            <div class="media-body">
+              <h5 class="mt-0 font-weight-bold">{{card.name}}</h5>
+              {{card.bio}}
+              <br>
+              {% if card.website %}
+              <a href={{card.website}} target="_blank" class="btn btn-sm btn-dark mt-3">Website</a>
+              {% endif %}
+            </div>
+          </div>
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+    {% else %}
+      {% assign faculty = year[1].faculty %}
+      {% assign speakers = year[1].speakers %}
+      {% assign participants = year[1].participants %}
+      {% assign teaching_assistants = year[1].teaching_assistants %}
+        {% for person in faculty %}
+          <div class="media mb-5">
+            {% if person.image %}
+            {% assign image_prefix = person.image | slice: 0, 4 %}
+            {% if image_prefix == "http" %}
+              {% assign image_url = person.image %}
+            {% else %}
+              {% assign image_url = person.image | prepend: site.baseurl %}
+            {% endif %}
+            <img src="{{ image_url }}" alt="Image of {{ person.name }}" class="mr-5 rounded" width="150">
+            {% endif %}
+            <div class="media-body">
+              <h5 class="mt-0 font-weight-bold">{{person.name}}</h5>
+              {{person.bio}}
+              <br>
+              {% if person.website %}
+              <a href={{person.website}} target="_blank" class="btn btn-sm btn-dark mt-3">Website</a>
+              {% endif %}
+            </div>
+          </div>
+        {% endfor %}
+        {% for person in speakers %}
+        <div class="media mb-5">
+          {% if person.image %}
+          {% assign image_prefix = person.image | slice: 0, 4 %}
+          {% if image_prefix == "http" %}
+            {% assign image_url = person.image %}
+          {% else %}
+            {% assign image_url = person.image | prepend: site.baseurl %}
+          {% endif %}
+          <img src="{{ image_url }}" alt="Image of {{ person.name }}" class="mr-5 rounded" width="150">
+          {% endif %}
+          <div class="media-body">
+            <h5 class="mt-0 font-weight-bold">{{person.name}}</h5>
+            {{person.bio}}
+            <br>
+            {% if person.website %}
+            <a href={{person.website}} target="_blank" class="btn btn-sm btn-dark mt-3">Website</a>
+            {% endif %}
+          </div>
+        </div>
+      {% endfor %}
+      {% for person in participants %}
+        <div class="media mb-5">
+          {% if person.image %}
+          {% assign image_prefix = person.image | slice: 0, 4 %}
+          {% if image_prefix == "http" %}
+            {% assign image_url = person.image %}
+          {% else %}
+            {% assign image_url = person.image | prepend: site.baseurl %}
+          {% endif %}
+          <img src="{{ image_url }}" alt="Image of {{ person.name }}" class="mr-5 rounded" width="150">
+          {% endif %}
+          <div class="media-body">
+            <h5 class="mt-0 font-weight-bold">{{person.name}}</h5>
+            {{person.bio}}
+            <br>
+            {% if person.website %}
+            <a href={{person.website}} target="_blank" class="btn btn-sm btn-dark mt-3">Website</a>
+            {% endif %}
+          </div>
+        </div>
+      {% endfor %}
+      {% for person in teaching_assistants %}
+        <div class="media mb-5">
+          {% if person.image %}
+          {% assign image_prefix = person.image | slice: 0, 4 %}
+          {% if image_prefix == "http" %}
+            {% assign image_url = person.image %}
+          {% else %}
+            {% assign image_url = person.image | prepend: site.baseurl %}
+          {% endif %}
+          <img src="{{ image_url }}" alt="Image of {{ person.name }}" class="mr-5 rounded" width="150">
+          {% endif %}
+          <div class="media-body">
+            <h5 class="mt-0 font-weight-bold">{{person.name}}</h5>
+            {{person.bio}}
+            <br>
+            {% if person.website %}
+            <a href={{person.website}} target="_blank" class="btn btn-sm btn-dark mt-3">Website</a>
+            {% endif %}
+          </div>
+        </div>
+      {% endfor %}
+  {% endif %}
+{% endfor %}
+</div>
+
+{% endfor %}

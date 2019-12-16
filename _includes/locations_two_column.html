@@ -7,7 +7,7 @@
       <div class="col-sm-12">
         <h1 id="{{allyears}}">{{allyears}}</h1>
       </div>
-  {% for year in site.data[allyears] %}
+    {% for year in site.data[allyears] %}
     {% assign location_data = year[1].location %}
       {% include locations_listing.html location_data=location_data year=year %}
     {% endfor %}

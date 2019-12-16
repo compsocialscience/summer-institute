@@ -1,8 +1,8 @@
-- image: /assets/images/location.jpg
-  title: University of Capetown
-  subtitle: Capetown, South Africa
-  description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nemo optio cumque quia adipisci fugit
-  alias porro esse ipsa excepturi, fuga nobis vitae voluptatibus exercitationem laborum officia ab nihil voluptatum
-  autem!"
-  link: capetown
-  year: 2018
+image: /assets/images/location.jpg
+title: University of Capetown
+subtitle: Capetown, South Africa
+description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nemo optio cumque quia adipisci fugit
+alias porro esse ipsa excepturi, fuga nobis vitae voluptatibus exercitationem laborum officia ab nihil voluptatum
+autem!"
+link: capetown
+year: 2018

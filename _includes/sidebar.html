@@ -49,8 +49,7 @@
       <ul class="nav collapse" id="collapse{{forloop.index}}" aria-labelledby="{{forloop.index}}" data-parent="#accordionMenu">
       {% for single_year in site.data[year] %}
       {% assign location_data = single_year[1].location %}
-      {% assign locations = location_data %}
-      {% for campus in locations %}
+      {% assign campus = location_data %}
         {% if campus.title %}
         <li class="nav-item w-100">
           <a class="nav-link" href="#{{campus.link}}_{{campus.year}}">{{campus.title}}
@@ -60,7 +59,6 @@
           </a>
           </li>
         {% endif %}
-      {% endfor %}
       {% endfor %}
     </ul>
     </li>
@@ -89,17 +87,47 @@
 
 <!-- people sidebar -->
 {% if page.layout == 'people' %}
-<div class="col-md-4">
-  <ul class="nav flex-column">
-    {% if data.people %}
-      {% for group in data.people %}
-        <li class="nav-item">
-            <a class="nav-link" href="#{{group[0]}}">{{group[1].title}}</a>
+  {% if page.partner_site %}
+    <div class="col-md-4">
+      <ul class="nav flex-column">
+        {% if data.people %}
+          {% for group in data.people %}
+            <li class="nav-item">
+                <a class="nav-link" href="#{{group[0]}}">{{group[1].title}}</a>
+              </li>
+          {% endfor %}
+        {% endif %}
+      </ul>
+    </div>
+  {% else %}
+    <div class="col-md-4">
+      <ul class="nav flex-column" id="accordionMenu">
+        {% for year_num in (2017..site.current_year) reversed %}
+          {% assign year = year_num | downcase %}
+          <li class="nav-item">
+            <a class="nav-link" onmouseover="" style="cursor: pointer;" data-toggle="collapse" data-target="#collapse{{forloop.index}}">{{year}}</a>
+            <ul class="nav collapse" id="collapse{{forloop.index}}" aria-labelledby="{{forloop.index}}" data-parent="#accordionMenu">
+            {% for single_year in site.data[year] %}
+            {% assign location_data = single_year[1].location %}
+            {% assign campus = location_data %}
+
+              {% if campus.title %}
+              <li class="nav-item w-100">
+                <a class="nav-link" href="#{{campus.link}}">{{campus.title}}
+                    {% if campus.primary %}
+                      <span>(Primary Location)</span>
+                    {% endif %}
+                </a>
+                </li>
+              {% endif %}
+
+            {% endfor %}
+          </ul>
           </li>
-      {% endfor %}
-    {% endif %}
-  </ul>
-</div>
+          {% endfor %}
+        </ul>
+    </div>
+  {% endif %}
 {% endif %}
 
 <!-- host sidebar -->

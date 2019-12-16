@@ -1,6 +1,6 @@
-- image: /assets/images/bamberg.jpg
-  title: University of Bamberg
-  subtitle: Bamberg, Germany
-  description: "From the evening of Sunday, July 28 to Friday, August 09, 2019, the University of Bamberg will host a partner event for the Summer Institute in Computational Social Science."
-  link: bamberg
-  year: 2020
+image: /assets/images/bamberg.jpg
+title: University of Bamberg
+subtitle: Bamberg, Germany
+description: "From the evening of Sunday, July 28 to Friday, August 09, 2019, the University of Bamberg will host a partner event for the Summer Institute in Computational Social Science."
+link: bamberg
+year: 2020
