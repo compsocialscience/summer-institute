@@ -1,8 +1,9 @@
 ---
 layout: location_detail
 partner_site: helsinki
-pre_arrival: true
 ---
+
+<h2 class="display-4">Pre-arrival</h2>
 
 ## Coding
 

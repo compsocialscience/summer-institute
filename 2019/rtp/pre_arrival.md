@@ -1,8 +1,9 @@
 ---
 layout: location_detail
 partner_site: rtp
-pre_arrival: true
 ---
+
+<h2 class="display-4">Pre-arrival</h2>
 
 We have arranged two types of training prior to the event this summer: (1) Coding Modules and (2) Suggested Reading. These resources are meant to support both students possessing more sophisticated coding skills but little exposure to social science and students with significant exposure to social science but lack coding skills.
 ## Coding

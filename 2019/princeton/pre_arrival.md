@@ -1,9 +1,10 @@
 ---
 layout: location_detail
 partner_site: princeton
-pre_arrival: true
 image: /assets/images/bamberg.jpg
 ---
+
+<h2 class="display-4">Pre-arrival</h2>
 
 As we discussed in our call for applications, we have arranged two types of training prior to the event this summer. Some students have more sophisticated coding skills but little exposure to social science; other students have significant exposure to social science but lack coding skills.
 

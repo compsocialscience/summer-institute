@@ -1,5 +1,5 @@
 ---
-layout: year_home
+layout: home
 pre_arrival: _pre_arrival.md
 ---
 

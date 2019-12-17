@@ -1,9 +1,10 @@
 ---
 layout: location_detail
 partner_site: princeton
-pre_arrival: true
 image: /assets/images/bamberg.jpg
 ---
+
+<h2 class="display-4">Pre-arrival</h2>
 
 ## Coding
 

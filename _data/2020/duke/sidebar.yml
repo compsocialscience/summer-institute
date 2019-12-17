@@ -1,3 +1,5 @@
+- name: "Apply"
+  url: "apply"
 - name: People
   url: "people"
 - name: Travel

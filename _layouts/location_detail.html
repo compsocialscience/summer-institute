@@ -26,9 +26,6 @@
               {% endif %}
               <h2 class="display-4">{{page.location}}</h2>
               {{content}}
-            {% elsif page.pre_arrival %}
-              <h2 class="display-4">Pre-arrival</h2>
-              {{content}}
             {% elsif page.people %}
               <h2 class="display-4">People</h2>
               {% assign urlparts = page.url | split: "/" %}
