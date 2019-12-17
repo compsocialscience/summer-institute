@@ -1,7 +1,6 @@
 ---
 layout: location_detail
 partner_site: chicago
-models: true 
 ---
 
 # Key Modeling Literature

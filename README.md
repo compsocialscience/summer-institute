@@ -8,8 +8,7 @@ Science. It is powered by [GitHub Pages](https://pages.github.com/),
 
 * [Layouts](#layouts)
   * [Default](#default)
-  * [Year Home](#year-home)
-* [Top-level-directory specific YAML files](#top-level-directory-specific-yaml-files)
+  * [Home](#home)
 * [Navigation Links](#navigation-links)
 * [Adding Additional Pages](#adding-additional-pages)
 * [Homepage](#homepage)
