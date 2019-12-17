@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: nyu-nyc
 main: true
-image: /assets/images/bamberg.jpg
+image: /assets/images/location.jpg
 ---
 <br>
 From Monday, June 18 to Saturday, June 23, 2018, the Summer Institute in Computational Social Science will host a partner location at the Sociology Department at New York University. The purpose of SICCS NYU is to bring together interested graduate students, postdoctoral students and faculty in the New York area. This satellite program is organized by Adaner Usmani, and the teaching assistant is Barum Park. 

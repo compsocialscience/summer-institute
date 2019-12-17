@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: istanbul
 main: true
-image: /assets/images/bamberg.jpg
+image: /assets/images/location.jpg
 ---
 
 Kadir Has University is hosting the first-ever SICSS in Istanbul! The event will take place through 16-29 June 2019 as an intensive summer school in computational social science. Sessions and lectures will take place in tandem with the flagship event at Princeton University, along with 9 other partner sites around the world!

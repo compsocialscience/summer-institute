@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: duke
 main: true
-image: /assets/images/bamberg.jpg
+image: /assets/images/location.jpg
 ---
 
 From the evening of Sunday, June 14 to the morning of Saturday, June 27, 2020, the Russell Sage Foundation will sponsor the Summer Institute in Computational Social Science, to be held at Duke University. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived). The co-organizers and principal faculty of the Summer Institute are Christopher Bail and Matthew Salganik. In addition to the event at Duke, there will also be a number of partner locations run by alumni of the 2017, 2018, and 2019 Summer Institute.

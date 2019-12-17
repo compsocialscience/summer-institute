@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: rtp
 main: true
-image: /assets/images/bamberg.jpg
+image: /assets/images/location.jpg
 ---
 
 [RTI International](https://www.rti.org/) (RTI) is proud to host and be a partner institution of the Summer Institute in Computational Social Science (SICSS) from the morning of Monday, June 17 to evening of Friday, June 28. Sessions and lectures will take place in tandem with the main event at Princeton University, along with 9 other partner institutions around the world. 

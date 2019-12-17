@@ -1,5 +1,0 @@
-{% for group in data.people %}
-  <h1 id="{{ group[0] }}">{{ group[1].title }}</h1>
-  {% assign people = group[1].people %}
-  {% include people_two_column.html people=people %}
-{% endfor %}

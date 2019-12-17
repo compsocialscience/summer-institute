@@ -7,7 +7,7 @@
   </div>
 {% for year in site.data[allyears] %}
   <div class="col-sm-12">
-    <h2 id="{{year[1].location.link}}">{{year[1].location.title}}</h2>
+    <h2 id="{{year[1].location.link}}{{year[1].location.year}}">{{year[1].location.title}}</h2>
     <h4 id={{group[0]}} class="h3 mb-4">All Participants <small class="text-muted font-weight-light">(Listed alphabetically)</small></h4>
     <hr />
   </div>

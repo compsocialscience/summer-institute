@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: chicago
 main: true
-image: /assets/images/bamberg.jpg
+image: /assets/images/location.jpg
 ---
 
 

@@ -1,8 +1,7 @@
 <div class="list-group">
-  <a href="#" class="list-group-item disabled active "><h5>Apply to a specific location</h5></a>
   {% assign year = data.locations[0] %}
-    {% for location in year.campuses %}
-      <a class="list-group-item" href="{{location.link}}">{{location.subtitle}}</a>
-    {% endfor %}
+  {% for location in year.campuses %}
+    <a class="list-group-item" href="{{location.link}}">{{location.subtitle}}</a>
+  {% endfor %}
 </div>
 </br>

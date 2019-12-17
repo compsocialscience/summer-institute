@@ -1,7 +1,6 @@
 ---
 layout: apply
 title: Apply
-faq: _apply_faq.md
 subtitle: Application overview and process.
 ---
 
@@ -16,7 +15,7 @@ The Summer Institute aims to bring together computational social scientists acro
 
 We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, attempt to account for an applicant’s career stage and previous educational opportunities.
 
-
+<br />
 ### How To Apply
 ### <a name="how_to_apply"></a>
 
@@ -27,3 +26,21 @@ Applicants must submit the following documents: (i) a curriculum vitae, (ii) a s
 **In order to be guaranteed full consideration, all application materials must be submitted before February 20th, 2019.**  In order to meet the deadline, we recommend that applicants create their account on the Fluxx system run by the [Fluxx system run by the Russell Sage Foundation](https://rsf.fluxx.io/user_sessions/new) well before the deadline. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail in mid-March, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to rsfcompsocsci@gmail.com.
+
+<br />
+### Application Frequently Asked Questions
+### <a name="faq"></a>
+
+---
+
+#### Can I apply to more than one Summer Institute location?
+
+Yes, but not at the same time.  For example, you can apply to SICSS-Princeton, and then if you are not accepted you can apply to one of the other locations if it has a later deadline.  However, you cannot have an applications under review at two locations simultaneously.
+
+#### Where do I submit recommendation letters?
+
+If you have recommendation letters, add the email addresses for your two recommenders to your application in Fluxx; they will receive an email with instructions on how to submit. Applicants should not submit recommendation letters on their own. If one of your recommenders did not receive an email from Fluxx, have them check their spam folder; otherwise, contact us and we can help you troubleshoot the issue. Please be mindful of the application deadline when informing your recommenders about the submission process.
+
+#### I'm having trouble creating an account on Fluxx to submit my application.
+
+If you are confused about some of the application fields (e.g. Organization EIN), please just input as much information as you can. Also note that the account creation process can take a couple of days; please plan to create an account on Fluxx well in advance of the application deadline.

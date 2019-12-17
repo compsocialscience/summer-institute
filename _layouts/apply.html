@@ -32,11 +32,6 @@
 
             {% include apply_list_group.html %}
 
-            {% capture faqs %}{% include _apply_faq.md %}{% endcapture %}
-            {% if faqs != "" %}
-              {{ faqs | markdownify }}
-            {% endif %}
-
           </div>
         </div>
 

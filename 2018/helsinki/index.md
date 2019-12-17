@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: helsinki
 main: true
-image: /assets/images/bamberg.jpg
+image: /assets/images/location.jpg
 ---
 
 The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science.
