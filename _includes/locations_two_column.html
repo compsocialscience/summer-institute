@@ -1,7 +1,6 @@
 {% for year_num in (2017..site.current_year) reversed %}
   {% assign index_mod_2 = forloop.index | modulo: 2 %}
   {% if index_mod_2 == 1 %}
-    <div class="row">
   {% endif %}
     {% assign allyears = year_num | downcase %}
       <div class="col-sm-12">
@@ -12,6 +11,5 @@
       {% include locations_listing.html location_data=location_data year=year %}
     {% endfor %}
   {% if index_mod_2 == 0 or forloop.last %}
-    </div>
   {% endif %}
 {% endfor %}
