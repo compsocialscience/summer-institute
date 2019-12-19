@@ -20,7 +20,7 @@ In order to ensure quality and consistency, all partner locations must have a fo
 
 <br/>
 
-<p><img src="https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2019/sicss_collage.png" alt="Collage of partner location" /></p>
+<!-- <p><img src="https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2019/sicss_collage.png" alt="Collage of partner location" /></p> -->
 
 ##### 2018
 
