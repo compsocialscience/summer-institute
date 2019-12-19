@@ -1,8 +1,8 @@
 ---
+layout: location_detail
 partner_site: seattle
-layout: year_home
-faculty_title: Organizers
-speakers_title: Local Speakers
+main: true
+image: /assets/images/location.jpg
 ---
 
 

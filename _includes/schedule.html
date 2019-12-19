@@ -1,31 +1,27 @@
-{% if data[include.data_key] %}
-<div class="schedule section">
-  <div class="container">
-    <h1 id="{{ include.data_key }}">{{ include.title }}</h1>
-    {% for day in data[include.data_key] %}
-      <div class="panel panel-default">
-        <div class="panel-heading">
-          <h3 class="panel-title">
-            <strong>{{ day.date | date: "%A %B %-d, %Y" }}</strong>
-            {% if day.name %}
-              - {{ day.name }}
-            {% endif %}
-          </h3>
-        </div>
-        {% if day.events %}
-          <ul class="list-group">
-            {% for event in day.events %}
-              <li class="list-group-item">
-                {% if event.time %}
-                  <span class="label label-default">{{ event.time | date: "%l:%M%P" }}</span>
-                {% endif %}
-                {{ event.name | markdownify }}
-              </li>
-            {% endfor %}
-          </ul>
-        {% endif %}
-      </div>
-    {% endfor %}
+{% if page.partner_site %}
+{% assign urlparts = page.url | split: "/" %}
+{% assign year = urlparts[1] %}
+{% assign location = urlparts[2] %}
+{% assign schedule = site.data[year][location].schedule %}
+{% for day in schedule %}
+  <div class="card mb-3">
+    <div class="card-header">
+      <h5>
+        <strong>{{ day.date | date: "%A %B %-d, %Y" }}</strong>
+      </h5>
+    </div>
+    <ul class="list-group list-group-flush">
+    {% if day.events %}
+      {% for event in day.events %}
+      <li class="list-group-item">
+          {% if event.time %}
+            <span>{{ event.time | date: "%l:%M%P" }}</span>
+          {% endif %}
+        {{ event.name | markdownify }}
+      </li>
+      {% endfor %}
+    {% endif %}
+    </ul>
   </div>
-</div>
+{% endfor %}
 {% endif %}

@@ -1,9 +1,8 @@
 ---
-layout: year_home
+layout: location_detail
 partner_site: chicago
-faculty_title: Organizers
-speakers_title: Local Speakers
-pre_arrival: _pre_arrival.md
+main: true
+image: /assets/images/location.jpg
 ---
 <br>
 From Monday, June 17 to Friday, June 28, 2019, the Summer Institute in Computational Social Science is sponsoring a partner site in Chicago. The purpose of SICSS-Chicago is to bring together Chicagoland graduate students and early career researchers in both social science (broadly conceived) and data science (broadly conceived) to learn and collaborate. Content will include live-streamed lectures from the main site at Princeton University as well as local guest speakers who will present on cutting-edge computational social science research. Topics covered include text analysis, digital data collection, experimental design, non-probability sampling, agent based modeling, and ethics. 

@@ -1,37 +1,10 @@
-{% if data.hero %}
-  <div class="hero {{ data.hero.style }}" >
-    <div class="container">
-      <div class="row">
-        <div class="col-xs-12">
-          <div class="hero-content-wrapper">
-            {% if page.partner_site %}
-              <div class="hero-logo-wrapper">
-                <img src="{{ site.baseurl }}/assets/images/sicss-large.png" class="hero-logo" title="Summer Institute in Computational Social Science" alt="Summer Institute in Computational Social Science">
-              </div>
-              <div class="hero-location">{{ data.hero.location }}</div>
-              <div class="hero-location-subtitle">Summer Institute in Computational Social Science Partner Site</div>
-            {% else %}
-              <div class="main-location">
-                <div class="hero-logo-wrapper">
-                  <img src="{{ site.baseurl }}/assets/images/sicss-large.png" class="hero-logo" title="Summer Institute in Computational Social Science" alt="Summer Institute in Computational Social Science">
-                </div>
-              </div>
-            {% endif %}
-          </div><!-- /hero-content-wrapper -->
-        </div><!-- /col-xs-12 -->
-      </div><!-- /row -->
-    </div><!-- /container -->
-    <div class="hero-overlay">
-      <div class="container">
-        <div class="row">
-          <div class="col-xs-12">
-            <h2 class="hero-dates">{{ data.hero.header_2 }}</h2>
-            {% if data.hero.header_3 %}
-              <h3 class="partnership-title">{{ data.hero.header_3 }}</h3>
-            {% endif %}
-          </div><!-- /col-xs-12 -->
-        </div><!-- /row -->
-      </div><!-- /container -->
-    </div><!-- /hero-overlay -->
-  </div><!-- /hero -->
-{% endif %}
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <h1 class="display-3 text-light">The Summer Institutes in Computational Social Science</h1>
+        <p class="h4 text-light">Bringing together graduate students, postdoctoral researchers, and junior faculty for 2 weeks of intensive study and interdisciplinary research</p>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,8 +1,8 @@
 ---
+layout: location_detail
 partner_site: helsinki
-layout: year_home
-faculty_title: Local organizers
-speakers_title: Speakers
+main: true
+image: /assets/images/location.jpg
 ---
 
 The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science.
@@ -27,3 +27,21 @@ Application materials should be received by Monday, April 16th, 2018
 
 We have answered some questions in the [Frequently asked questions](./faq) page.
 If these are unclear, kindly send your inquiries to [sicss-orgs@rajapinta.co](mailto:sicss-orgs@rajapinta.co).
+
+## FAQ
+
+**The event takes place during the Midsummer Festival.
+Can I only attend Mon-Thurs and then come back next week?**
+
+Yes.
+I hope you can still attend parts of Thursday's program.
+Furthermore, you should take a look of the videos and book material on topics covered on Friday and Saturday indepentently.
+
+**What is the cost of participation?**
+
+The course itself is free of charge.
+However, there may be costs related to travel, food and lodging.
+
+**I'm not from University of Helsinki nor Aalto University. Can I still apply?**
+
+Yes.

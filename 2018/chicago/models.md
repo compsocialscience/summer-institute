@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Formal Models in Social Science
+layout: location_detail
 partner_site: chicago
 ---
 

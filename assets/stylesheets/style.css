@@ -1,0 +1,50 @@
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 60px;
+}
+body {
+  background: #f1f1f1;
+  font-family: 'Roboto', sans-serif;
+}
+.jumbotron {
+  background-image: url('../images/hero-accent.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center bottom;
+  min-height: 500px;
+}
+.sub-page .jumbotron {
+  min-height: 300px;
+}
+.card-title {
+  font-weight: 900;
+}
+.card-footer {
+  background: #ffffff;
+}
+.section-callout {
+  background: #e9ecef;
+  margin: 3rem 0;
+  padding: 3rem 0;
+}
+.overview-icon {
+  background: #ffffff;
+  border-radius: 100px;
+  width: 150px;
+}
+.nav .active {
+  background: rgba(255,255,255,0.75);
+  color: #005ec4;
+  display: inline-flex;
+  border-radius: 4px;
+}
+
+.link-dark-bg {
+  color: white;
+  text-decoration: underline;
+}
+
+.link-dark-bg:hover {
+  color: rgba(255,255,255,0.75);
+  text-decoration: underline;
+}

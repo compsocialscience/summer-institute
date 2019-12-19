@@ -1,0 +1,48 @@
+{% include setup_data.html %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include header.html %}
+  </head>
+  <body class="sub-page">
+    {% include navbar.html %}
+    <!-- Start content -->
+    {% include hero_secondary.html %}
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          {% include sidebar.html %} 
+        </div>
+        <div class="col-sm-8">
+          <div class="row">
+            <div class="col-sm-12">
+              {{content}}
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-12 mb-5">
+              {% include map.html  %}
+            </div>
+          </div>
+        <div class="row">
+          {% include locations_two_column.html %}
+        </div>
+      </div>
+      </div>
+    </div>
+
+    <section class="bg-secondary text-white py-5" style="margin-bottom: 0">
+      <div class="container>
+        <div class="row">
+          <div class="col-sm-12">
+            <h2 class="display-5 text-center text-uppercase font-weight-light">Apply to a host location</h2>
+            <p class="text-center lead">You can host a partner location of the Summer Institutes of Computational Social Science (SICSS) at your university,
+            company, NGO, or government agency.</p>
+            <p class=text-center><a href="host" class="btn btn-dark">Learn More</a></p>
+          </div>
+        </div>
+      </div>
+    </section>
+    {% include footer.html %}
+  </body>
+</html>

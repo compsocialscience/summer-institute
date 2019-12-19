@@ -1,8 +1,8 @@
 ---
+layout: location_detail
 partner_site: hunter-nyc
-layout: year_home
-faculty_title: Organizers
-speakers_title: Local Speakers
+main: true
+image: /assets/images/location.jpg
 ---
 
 The [Silberman School of Social Work](http://sssw.hunter.cuny.edu/ssw/), part of the City University of New York's [Hunter 

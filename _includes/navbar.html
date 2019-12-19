@@ -1,67 +1,33 @@
-<nav class="navbar navbar-default navbar-fixed-top">
-  <div class="container-fluid">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/images/sicss-logo.png" alt="{{ site.brand }}" /></a>
-    </div>
-
-    <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse" id="navbar">
-      <ul class="nav navbar-nav primary-nav">
-        {% for navlink in data.navigation %}
-          {% if navlink.children %}
-            <li class="dropdown">
-              <a href="{{ navlink.url | prepend: site.baseurl }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ navlink.name }} <span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                {% for child in navlink.children %}
-                  {% if child.separator %}
-                    <li role="separator" class="divider"></li>
-                  {% else %}
-                    <li><a href="{{ child.url | prepend: site.baseurl }}">{{ child.name }}</a></li>
-                  {% endif %}
-                {% endfor %}
-              </ul>
-            </li>
-          {% else %}
-          <li><a class="{{ navlink.name }}" href="{{ navlink.url | prepend: site.baseurl }}">{{ navlink.name }}</a></li>
-          {% endif %}
+<nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="{{ site.baseurl }}/">
+    <img src="{{ site.baseurl }}/assets/images/sicss-logo.svg" width="" height="30" alt="">
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02"
+    aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+    <ul class="navbar-nav ml-auto">
+      {% assign navigation = site.data.navigation %}
+        {% for navlink in navigation %}
+          <li class="nav-item">
+            <a class="nav-link {% if navlink.type == 'button' %} btn btn-light btn-sm text-dark mx-3 font-weight-bold {% endif %}" href="{{ navlink.url | prepend: site.baseurl }}">{{ navlink.name }}</a>
+          </li>
         {% endfor %}
-      </ul>
-
-      <ul class="nav navbar-nav navbar-right">
-        {% for navlink in site.data.navigation %}
-          {% if navlink.children %}
-            <li class="dropdown">
-              <a href="{{ navlink.url | prepend: site.baseurl }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ navlink.name }} <span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                {% for child in navlink.children %}
-                  {% if child.separator %}
-                    <li role="separator" class="divider"></li>
-                  {% else %}
-                    <li><a href="{{ child.url | prepend: site.baseurl }}">{{ child.name | markdownify }}</a></li>
-                  {% endif %}
-                {% endfor %}
-              </ul>
-            </li>
-          {% else %}
-          <li><a href="{{ navlink.url | prepend: site.baseurl }}">{{ navlink.name | markdownify }}</a></li>
-          {% endif %}
-        {% endfor %}
-      </ul>
-    </div><!-- /.navbar-collapse -->
-  </div><!-- /.container-fluid -->
+    </ul>
+  </div>
 </nav>
 {% capture announcements %}{% include announcements.md %}{% endcapture %}
 {% if announcements != "" %}
-<div class="announcements">
-  <div class="container">
-    {{ announcements | markdownify }}
-  </div>
-</div>
+  <!-- Start Notice -->
+  <section class="bg-warning">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <div class="py-2 text-center font-weight-bold">
+                {{ announcements | markdownify }}
+          </div>
+        </div>
+      </div>
+    </section>
 {% endif %}

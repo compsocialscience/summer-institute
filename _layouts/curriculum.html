@@ -1,0 +1,35 @@
+{% include setup_data.html %}
+<!doctype html>
+<html lang="en">
+  <head>
+    {% include header.html %}
+  </head>
+  <body class="sub-page">
+    {% include navbar.html %}
+    <!-- Start content -->
+    {% include hero_secondary.html %}
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          {% include sidebar.html %}
+        </div>
+        
+        <div class="col-md-8" id="overview">
+          <h2 class="display-4">Overview</h2>
+          <p class="lead">
+            We provide state-of-the art training in a range of different areas in computational social science from ethics to text analysis and mass collaboration. Below you can find archives of all of the videos, slides, code, and teaching exercises used in 2019. The source code for all these teaching materials is available <a href="https://github.com/compsocialscience/summer-institute/tree/master/2019/materials">here</a>.
+          </p>
+
+
+          {% include curriculum_listing.html %}
+
+        </div>
+      </div>
+
+
+    </div>
+
+    {% include footer.html %}
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+</html>

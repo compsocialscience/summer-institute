@@ -1,0 +1,158 @@
+<!-- detail page sidebar -->
+{% if page.partner_site %}
+{% assign urlparts = page.url | split: "/" %}
+{% assign year = urlparts[1] %}
+{% assign location = urlparts[2] %}
+{% assign sidebar = site.data[year][location].sidebar %}
+  <div class="col-md-4">
+    <ul class="nav flex-column">
+      <li class="nav-item">
+        <a class="nav-link" href="{{page.dir | prepend: site.baseurl}}">Overview</a>
+      </li>
+      {% for nav in sidebar %}
+        <li class="nav-item">
+          <a class="nav-link" href="{{nav.url}}">{{nav.name}}</a>
+        </li>
+      {% endfor %}
+      {% if year == '2020' %}
+      <li class="nav-item">
+        <a class="nav-link btn btn-dark d-xl-inline-flex mt-3 ml-3" href="apply">Apply</a>
+      </li>
+      <br/>
+      {% endif %}
+    </ul>
+    <ul class="nav flex-column">
+      <a class="nav-link collapsed" onmouseover=""" style="cursor: pointer;" data-toggle="collapse" data-target="">Other Events:</a>
+      {% for year_num in (2017..site.current_year) reversed %}
+        {% assign allyears = year_num | downcase %}
+        {% for checkyear in allyears %}
+          {% assign location_data = site.data[checkyear][location]%}
+            {% if location_data %}
+              {% if checkyear != year %}
+                <a class="nav-link" href="{{site.baseurl}}/{{checkyear}}/{{location}}">{{checkyear}}</a>
+              {% endif %}
+            {% endif %}
+        {% endfor %}
+      {% endfor %}
+    </ul>
+    </ul>
+  </div>
+{% endif %}
+
+<!-- locations sidebar -->
+{% if page.layout == 'locations' %}
+  <ul class="nav flex-column" id="accordionMenu">
+  {% for year_num in (2017..site.current_year) reversed %}
+    {% assign year = year_num | downcase %}
+    <li class="nav-item">
+      <a class="nav-link" onmouseover="" style="cursor: pointer;" data-toggle="collapse" data-target="#collapse{{forloop.index}}">{{year}}</a>
+      <ul class="nav collapse" id="collapse{{forloop.index}}" aria-labelledby="{{forloop.index}}" data-parent="#accordionMenu">
+      {% for single_year in site.data[year] %}
+      {% assign location_data = single_year[1].location %}
+      {% assign campus = location_data %}
+        {% if campus.title %}
+        <li class="nav-item w-100">
+          <a class="nav-link" href="#{{campus.link}}_{{campus.year}}">{{campus.title}}
+              {% if campus.primary %}
+                <span>(Primary Location)</span>
+              {% endif %}
+          </a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+    </li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
+
+<!-- curriculum sidebar -->
+{% if page.layout == 'curriculum' %}
+  <ul class="nav flex-column">
+    <li class="nav-item">
+      <a class="nav-link active" href="#overview">Overview</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#day_1">Day 1: Introduction and Ethics</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#day_2">Day 2: Collecting Digital Trace Data</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#day_3">Day 3: Automated Text Analysis</a>
+    </li>
+  </ul>
+{% endif %}
+
+<!-- people sidebar -->
+{% if page.layout == 'people' %}
+  {% if page.partner_site %}
+    <div class="col-md-4">
+      <ul class="nav flex-column">
+        {% if data.people %}
+          {% for group in data.people %}
+            <li class="nav-item">
+                <a class="nav-link" href="#{{group[0]}}">{{group[1].title}}</a>
+              </li>
+          {% endfor %}
+        {% endif %}
+      </ul>
+    </div>
+  {% else %}
+    <div class="col-md-4">
+      <ul class="nav flex-column" id="accordionMenu">
+        {% for year_num in (2017..site.current_year) reversed %}
+          {% assign year = year_num | downcase %}
+          <li class="nav-item">
+            <a class="nav-link" onmouseover="" style="cursor: pointer;" data-toggle="collapse" data-target="#collapse{{forloop.index}}">{{year}}</a>
+            <ul class="nav collapse" id="collapse{{forloop.index}}" aria-labelledby="{{forloop.index}}" data-parent="#accordionMenu">
+            {% for single_year in site.data[year] %}
+            {% assign location_data = single_year[1].location %}
+            {% assign campus = location_data %}
+
+              {% if campus.title %}
+              <li class="nav-item w-100">
+                <a class="nav-link" href="{{site.baseurl}}/{{campus.year}}/{{campus.link}}/people">{{campus.title}}
+                    {% if campus.primary %}
+                      <span>(Primary Location)</span>
+                    {% endif %}
+                </a>
+                </li>
+              {% endif %}
+
+            {% endfor %}
+          </ul>
+          </li>
+          {% endfor %}
+        </ul>
+    </div>
+  {% endif %}
+{% endif %}
+
+<!-- host sidebar -->
+{% if page.layout == 'host' %}
+<div class="col-md-4">
+  <ul class="nav flex-column">
+    <li class="nav-item">
+      <a class="nav-link" href="#overview">Overview</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#hosting_a_partner_location">Hosting a Partner Location</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#previous_partner_locations">Previous Partner Locations</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#mission_and_guiding_principles">Mission and Guiding Principles</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#how_to_apply">How to Apply</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#frequently_asked">Frequently Asked Questions</a>
+    </li>
+  </ul>
+</div>
+{% endif %}
+
