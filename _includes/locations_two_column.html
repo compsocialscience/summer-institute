@@ -8,7 +8,8 @@
       </div>
     {% for year in site.data[allyears] %}
     {% assign location_data = year[1].location %}
-      {% include locations_listing.html location_data=location_data year=year %}
+    {% assign apply_data = year[1].apply %}
+      {% include locations_listing.html location_data=location_data apply_data=apply_data year=year %}
     {% endfor %}
   {% if index_mod_2 == 0 or forloop.last %}
   {% endif %}

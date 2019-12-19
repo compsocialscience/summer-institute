@@ -1,5 +1,6 @@
 {% if include.location_data %}
   {% assign data = location_data %}
+  {% assign apply = apply_data %}
 
     {% if data.title %}
       <div class="col-sm-6 mb-5">
@@ -17,6 +18,9 @@
               <h6 class="card-subtitle mb-2 text-muted">{{data.subtitle}}</h6>
               <p class="card-text">{{data.description}}</p>
               <a href="{{site.baseurl}}/{{data.year}}/{{data.link}}" class="btn btn-dark btn-sm stretched-link">Learn More</a>
+              {% if apply.title %}
+              <a href="{{site.baseurl}}/{{data.year}}/{{data.link}}/apply" class="btn btn-dark btn-sm stretched-link">Apply</a>
+              {% endif %}
             </div>
           {% endif %}
         </div>

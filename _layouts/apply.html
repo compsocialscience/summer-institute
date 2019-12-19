@@ -11,31 +11,31 @@
     {% include hero_secondary.html %}
 
     <div class="container">
-        <div class="row">
-          <!-- sidebar -->
-          <div class="col-md-4">
-            <ul class="nav flex-column">
-              <li class="nav-item">
-                <a class="nav-link" href="#eligibility">Eligibility</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#how_to_apply">How to Apply</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#faq">Frequently Asked Questions</a>
-              </li>
-            </ul>
-          </div>
-          
-          <div class="col-md-8 mb-5">
-            {{content}}
-
-            {% include apply_list_group.html %}
-
-          </div>
+      <div class="row">
+        <!-- sidebar -->
+        <div class="col-md-4">
+          <ul class="nav flex-column">
+            <li class="nav-item">
+              <a class="nav-link" href="#">How to Apply</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#faq">Frequently Asked Questions</a>
+            </li>
+          </ul>
         </div>
+        
+        <div class="col-md-8 mb-5">
+          {{content}}
 
+          {% include apply_list_group.html %}
+
+          {% capture faq %}{% include _faq.md %}{% endcapture %}
+          {{ faq | markdownify }}
+
+        </div>
       </div>
+
+    </div>
     {% include footer.html %}
   </body>
 </html>

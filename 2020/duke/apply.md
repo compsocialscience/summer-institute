@@ -4,6 +4,7 @@ partner_site: duke
 ---
 
 <h1 class="display-4">Apply</h1>
+<br />
 
 ### Eligibility
 ### <a name="eligibility"></a>

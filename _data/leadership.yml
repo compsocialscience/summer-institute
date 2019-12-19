@@ -1,0 +1,13 @@
+- name: Matthew Salganik
+  image: /assets/images/matt.gif
+  bio: "Matthew Salganik is Professor of Sociology at Princeton University, and he is affiliated with several of Princeton's interdisciplinary research centers: the Office for Population Research, the Center for Information Technology Policy, the Center for Health and Wellbeing, and the Center for Statistics and Machine Learning. His research interests include social networks and computational social science. He is the author of *Bit by Bit: Social Research in the Digital Age*."
+  website: https://www.princeton.edu/~mjs3/
+
+- name: Chris Bail
+  image: /assets/images/chris2019.jpg
+  bio: "Chris Bail is Professor of Sociology and Public Policy at Duke University where he directs the Polarization Lab. He is also affiliated with the Interdisciplinary Data Science Program, the Duke Network Analysis Center, and the Duke Population Research Institute. His research examines political polarization, culture and social psychology using tools from the  field of computational social science. He is the author of *Terrified: How Anti-Muslim Fringe Organizations Became Mainstream*."
+  website: http://www.chrisbail.net/
+
+- name: Carrie Hamilton
+  image: /2019/hunter-nyc/images/Carrie.jpg
+  bio: "Carrie Hamilton is a program assistant for the Social Data Initiative at the Social Science Research Council. Prior to joining the SSRC, she worked as a research technician at the Center for the Study of Adolescent Risk and Resilience at Duke University. She graduated with highest honors from UNC Chapel Hill in 2017 with a BS in environmental science and geography. At UNC, she conducted independent research projects through the National Science Foundation and Ernest F. Hollings Scholarship Program and spent a year living and working in Ecuador through UNC’s Global Gap Year Fellowship."

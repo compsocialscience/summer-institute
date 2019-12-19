@@ -111,7 +111,7 @@ Example steps for creating a new partner location for 2018 at Northwestern Unive
    The `partner_site` field above tells the site where to look for the data files for this page. In this example, it'd use the data files in `_data/2018/northwestern`. The `main` field identifies that this is the `index.md` file, and should look for the appropriate layout (with images and correct format)
 3. Create the data files as desired. For example data, feel free to checkout the `.yml` files in `_data/2019`. When creating the `sidebar.yml` file, you'll need to be sure that the corresponding markdown files exist, or the link with throw a `404: page not found` error.
 
-4. Additional markdown pages (like `apply.md`) may be created inside the `2020/northwestern/` directory. They should use the following front matter data:
+4. Additional markdown pages may be created inside the `2020/northwestern/` directory. They should use the following front matter data:
     ```yaml
       ---
       layout: location_detail
@@ -122,7 +122,7 @@ Example steps for creating a new partner location for 2018 at Northwestern Unive
 
     In order to keep things uniform, we also suggest using the same title styling for the title of this new page:
 
-    `<h1 class="display-4">Apply</h1>`
+    `<h1 class="display-4">My Page Title</h1>`
 
     So after creation, this new page's markdown file should look similar to the following:
 
@@ -132,7 +132,7 @@ Example steps for creating a new partner location for 2018 at Northwestern Unive
       partner_site: northwestern
       ---
 
-      `<h1 class="display-4">Apply</h1>`
+      `<h1 class="display-4">My Page Title</h1>`
 
       # Markdown here
     ```
@@ -142,7 +142,33 @@ Example steps for creating a new partner location for 2018 at Northwestern Unive
 
 6. If the home page for the partner location needs a "Schedule & Materials" section, add a `schedule.md` to the `2020/northwestern` Ensure that the front-matter also matches the other locations with the `schedule: true` flag to generate the appropriate layout. Keep in mind that this page is also data driven. Update the `YAML` files appropriately
 
-7. Additional images for the partner site may be added to the `images/` directory within that location directory.
+7. If the location is currently accepting applications, add a `apply.md` to the `2020/northwestern` directory, and also create a `apply.yml` file in the `_data/2020/northwestern` directory with the following data:
+
+  ```yaml
+    title: Northwestern University 
+  ```
+
+  once both of these files are created appropriately, it will trigger a new listing on the global `Apply` page, and also create an `Apply` button on the location's listing on the `Locations` page.
+
+8. Additional images for the partner site may be added to the `images/` directory within that location directory.
+
+## Google Map
+
+The map is an embed of google maps api. You can add new users to the map as editors, so long as they also have a google account. Be sure to groom this list of editors, and not to have more editors than are necessary.
+
+You can see all the current locations by updating the `SICSS Locations` layer by clicking it's elipsis, then clicking `Open Data Table`. You can remove existing rows by right clicking the row, and clicking `Delete Row`
+
+Step One:
+![map layer](documentation/map_layer.png)
+
+Step Two:
+![map data table](documentation/map_data_table.png)
+
+To add new locations, you can search for the location in the search bar (just like you would in google maps). The api will then drop a pin on the location you searched for, where it can then be added by clicking on it. For instance, if you wanted to add the University of Hawaii to you map, the detail card would look like:
+
+![map detail card](documentation/map_detail_card.png)
+
+You can also change the theme of the map, by selecting one of google's themes under the `Base map` dropdown in the google map console. Keep in mind that when selecting a new theme, it will take a few minutes to register before it is reflected on the production website.
 
 ## Requesting access
 

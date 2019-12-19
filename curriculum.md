@@ -1,6 +1,6 @@
 ---
 layout: curriculum
-title: Curriculum
+title: Learning Materials
 subtitle: Open source teaching and learning resrources for computational social science.
 ---
 

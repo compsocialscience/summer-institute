@@ -1,7 +1,12 @@
-<div class="list-group">
-  {% assign year = data.locations[0] %}
-  {% for location in year.campuses %}
-    <a class="list-group-item" href="{{location.link}}">{{location.subtitle}}</a>
-  {% endfor %}
-</div>
-</br>
+{% for year_num in (2017..site.current_year) reversed %}
+  {% assign allyears = year_num | downcase %}
+  <ul>
+    {% for year in site.data[allyears] %}
+      {% assign apply_data = year[1].apply %}
+      {% assign location_data = year[1].location %}
+      {% if apply_data.title %}
+        <li><a href={{site.baseurl}}/{{location_data.year}}/{{location_data.link}}/apply>{{location_data.title}}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endfor %}

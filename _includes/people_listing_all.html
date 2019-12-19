@@ -1,3 +1,34 @@
+<div class="row">
+  <div class="col-sm-12">
+    <h1 id="leader">Leadership</h1>
+    <hr />
+    <br />
+  </div>
+  {% for leader in data.leadership %}
+    <div class="media mb-5">
+      {% if leader.image %}
+      {% assign image_prefix = leader.image | slice: 0, 4 %}
+      {% if image_prefix == "http" %}
+        {% assign image_url = leader.image %}
+      {% else %}
+        {% assign image_url = leader.image | prepend: site.baseurl %}
+      {% endif %}
+      <img src="{{ image_url }}" alt="Image of {{ leader.name }}" class="mr-5 rounded" width="150">
+      {% endif %}
+      <div class="media-body">
+        <h5 class="mt-0 font-weight-bold">{{leader.name}}</h5>
+        {{leader.bio}}
+        <br>
+        {% if leader.website %}
+        <a href={{leader.website}} target="_blank" class="btn btn-sm btn-dark mt-3">Website</a>
+        {% endif %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+{{page.url}}
+
 {% for year_num in (2017..site.current_year) reversed %}
 {% assign allyears = year_num | downcase %}
 <div class="row">
@@ -8,7 +39,9 @@
 {% for year in site.data[allyears] %}
   <div class="col-sm-12">
     <h2 id="{{year[1].location.link}}{{year[1].location.year}}">{{year[1].location.title}}</h2>
-    <h4 id={{group[0]}} class="h3 mb-4">All Participants <small class="text-muted font-weight-light">(Listed alphabetically)</small></h4>
+    <h4 id={{group[0]}} class="h3 mb-4">All Participants 
+      <!-- <small class="text-muted font-weight-light">(Listed alphabetically)</small> -->
+    </h4>
     <hr />
   </div>
   {% if year[1].people %}
