@@ -17,8 +17,6 @@ In order to ensure quality and consistency, all partner locations must have a fo
 
 ### Previous partner locations
 
-![Collage of partner location](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2019/sicss_collage.png)
-
 ##### 2018
 
 There were 7 partner locations in 2018: [Hunter College](https://compsocialscience.github.io/summer-institute/2018/hunter-nyc/), [New York University](https://compsocialscience.github.io/summer-institute/2018/nyu-nyc/), [Northwestern University](https://compsocialscience.github.io/summer-institute/2018/chicago/), [University of Cape Town](https://compsocialscience.github.io/summer-institute/2018/capetown/), [University of Colorado](https://compsocialscience.github.io/summer-institute/2018/boulder), [University of Helsinki](https://compsocialscience.github.io/summer-institute/2018/helsinki), and [University of Washington](https://compsocialscience.github.io/summer-institute/2018/seattle/).
