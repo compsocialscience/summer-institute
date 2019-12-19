@@ -1,7 +1,7 @@
 ---
 layout: locations
 title: SICSS Locations
-subtitle: 17 locations over the past 3 years, make it easier for participants around the world to attend.
+subtitle: 31 locations from 2017-2020, make it easier for participants around the world to join the community.
 ---
 
 # Locations, past and present
