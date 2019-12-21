@@ -108,14 +108,14 @@
   topic: Automated Text Analysis
   events:
     - name: "History of quantitative text analysis"
-      video: "https://youtu.be/emebd/IkvDFE0dN4k"
+      video: "https://youtu.be/embed/IkvDFE0dN4k"
       sublinks:
         - link: "https://youtu.be/IkvDFE0dN4k"
           text: "Video"
         - link: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/what-is-digital-trace-data/What_is_Digital_Trace_Data.html"
           text: "Slides"
     - name: "Basic Text Analysis/GREP"
-      video: "https://youtu.be/exYBIoTEX4A"
+      video: "https://youtu.be/embed/exYBIoTEX4A"
       sublinks:
         - link: "https://youtu.be/exYBIoTEX4A"
           text: "Video"
@@ -124,7 +124,7 @@
         - link: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/strengths-weaknesses/rmarkdown/Strengths_and_Weaknesses.html"
           text: "Annotated Code"
     - name: "Topic Models/Structural Topic Models (Guest Lecture by Brandon Stewart)"
-      video: "https://youtu.be/mhTMgCjFsG0"
+      video: "https://youtu.be/embed/mhTMgCjFsG0"
       sublinks:
         - link: "https://youtu.be/mhTMgCjFsG0"
           text: "Video"
@@ -142,7 +142,7 @@
         - link: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/apis/rmarkdown/Application_Programming_interfaces.html"
           text: "Annotated Code"
     - name: "Text Networks"
-      video: "https://youtu.be/ruDQ7KuwMUs"
+      video: "https://youtu.be/embed/ruDQ7KuwMUs"
       sublinks:
         - link: "https://youtu.be/ruDQ7KuwMUs"
           text: "Video"
