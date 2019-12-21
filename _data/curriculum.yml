@@ -106,6 +106,55 @@
 - day: Day 3
   id: day_3
   topic: Automated Text Analysis
-  events: null
-  exercise_title: null
-  exercise: null
+  events:
+    - name: "History of quantitative text analysis"
+      video: "https://youtu.be/IkvDFE0dN4k"
+      sublinks:
+        - link: "https://youtu.be/IkvDFE0dN4k"
+          text: "Video"
+        - link: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/what-is-digital-trace-data/What_is_Digital_Trace_Data.html"
+          text: "Slides"
+    - name: "Basic Text Analysis/GREP"
+      video: "https://youtu.be/exYBIoTEX4A"
+      sublinks:
+        - link: "https://youtu.be/exYBIoTEX4A"
+          text: "Video"
+        - link: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/strengths-weaknesses/Rpres/Strengths_and_Weaknesses.html"
+          text: "Slides"
+        - link: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/strengths-weaknesses/rmarkdown/Strengths_and_Weaknesses.html"
+          text: "Annotated Code"
+    - name: "Topic Models/Structural Topic Models (Guest Lecture by Brandon Stewart)"
+      video: "https://youtu.be/mhTMgCjFsG0"
+      sublinks:
+        - link: "https://youtu.be/mhTMgCjFsG0"
+          text: "Video"
+        - link: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/screenscraping/Rpres/Screenscraping.html"
+          text: "Slides"
+        - link: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/screenscraping/rmarkdown/Screenscraping.html"
+          text: "Annotated Code"
+    - name: "Dictionary Based Text Analysis"
+      video: "https://www.youtube.com/watch?v=tbUdK-mYTJw&feature=youtu.be"
+      sublinks:
+        - link: "https://www.youtube.com/watch?v=tbUdK-mYTJw&feature=youtu.be"
+          text: "Video"
+        - link: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/apis/Rpres/APIs.html"
+          text: "Slides"
+        - link: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/apis/rmarkdown/Application_Programming_interfaces.html"
+          text: "Annotated Code"
+    - name: "Text Networks"
+      video: "https://youtu.be/ruDQ7KuwMUs"
+      sublinks:
+        - link: "https://youtu.be/ruDQ7KuwMUs"
+          text: "Video"
+        - link: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/building-apps-bots/Rpres/Building_Apps_for_Social_Science_Research.html"
+          text: "Slides"
+        - link: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/building-apps-bots/rmarkdown/Building_Apps_and_Bots_for%20Social_Science_Research.html"
+          text: "Annotated Code"
+  exercise_title: "Group exercise"
+  exercise:
+    - name: "Group Exercise"
+      resource: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/Group_Exercise_Day_2.html"
+    - name: "Case Study 1"
+      resource: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/activity/ethics_case_study.pdf"
+    - name: "Case Study 2"
+      resource: "https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf"
