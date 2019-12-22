@@ -2,7 +2,7 @@
   url: "/"
 - name: Locations
   url: "/locations"
-- name: Curriculum
+- name: Learn Online
   url: "/curriculum"
 - name: People
   url: "/people"
