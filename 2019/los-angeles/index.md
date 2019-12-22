@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: los-angeles
 main: true
-image: /assets/images/location.jpg
+image: /assets/images/lost_angeles.jpg
 ---
 
 From Monday, June 17 to Friday, June 28, 2019, the California Center for Population Research (CCPR) will sponsor a partner site for the Summer Institute in Computational Social Science (SICSS) in Los Angeles. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and early career faculty interested in computational social science. The Summer Institute is open to both social scientists (broadly conceived) and data scientists (broadly conceived). 
