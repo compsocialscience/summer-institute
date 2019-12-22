@@ -156,3 +156,43 @@
   exercise:
     - name: "Group Exercise"
       resource: "https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/SICSS_Group_Exercise_Day_3.html"
+
+- day: Day 4
+  id: day_4
+  topic: Surveys in the Digital Age
+  events:
+    - name: "Survey research in the digital age"
+      video: "https://www.youtube.com/embed/IkvDFE0dN4k"
+      sublinks:
+        - link: "https://youtu.be/14r4h8j9VRI"
+          text: "Video"
+        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/02-nonprobability-sampling.pdf"
+          text: "Slides"
+    - name: "Computer-administered interviews and wiki surveys"
+      video: "https://www.youtube.com/embed/exYBIoTEX4A"
+      sublinks:
+        - link: "https://youtu.be/Xjs_--HG4W4"
+          text: "Video"
+        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/03-computer-administered-interviews.pdf"
+          text: "Slides"
+    - name: "Combining surveys and big data"
+      video: "https://www.youtube.com/embed/tbUdK-mYTJw"
+      sublinks:
+        - link: "https://youtu.be/7_umwwUNXjE"
+          text: "Video"
+        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/04-combining-surveys-and-big-data.pdf"
+          text: "Slides"
+    - name: "Group exercise introduction"
+      video: "https://www.youtube.com/embed/mhTMgCjFsG0"
+      sublinks:
+        - link: "https://youtu.be/2zIowhr1yyA"
+          text: "Video"
+        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/05-intro-to-activity.pdf"
+          text: "Slides"
+  exercise_title: "Group exercise"
+  exercise:
+    - name: "Group Exercise"
+      resource: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/SICSS_survey_activity_2019.pdf"
+      resource: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/2019-06-13_mturk_data_clean.csv"
+      resource: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/2017_acs_data_clean.csv"
+
