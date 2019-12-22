@@ -196,3 +196,63 @@
       resource: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/2019-06-13_mturk_data_clean.csv"
       resource: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/2017_acs_data_clean.csv"
 
+
+- day: Day 5
+  id: day_5
+  topic: Mass Collaboration
+  events:
+    - name: "Mass collaboration"
+      video: "https://www.youtube.com/embed/0XhrZAoepN0"
+      sublinks:
+        - link: "https://youtu.be/0XhrZAoepN0"
+          text: "Video"
+        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day5-mass-collaboration/01-mass-collaboration.pdf"
+          text: "Slides"
+    - name: "The Fragile Families Challenge"
+      video: "https://www.youtube.com/embed/F3PIexBHAig"
+      sublinks:
+        - link: "https://youtu.be/F3PIexBHAig"
+          text: "Video"
+        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day5-mass-collaboration/02-ffchallenge.pdf"
+          text: "Slides"
+    - name: "Participating in the Fragile Families Challenge Activity"
+      video: "https://www.youtube.com/embed/vGkBUx0QLKc"
+      sublinks:
+        - link: "https://youtu.be/vGkBUx0QLKc"
+          text: "Video"
+        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day5-mass-collaboration/03-ffchallenge_participate_activity.pdf"
+          text: "Slides"
+
+- day: Day 6
+  id: day_6
+  topic: Experiments in the Digital Age
+  events:
+    - name: "What, why, and which experiments?"
+      video: "https://www.youtube.com/embed/n7Yrqx1LIBc"
+      sublinks:
+        - link: "https://youtu.be/n7Yrqx1LIBc"
+          text: "Video"
+        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day6-experiments/01-what-why-which-experiments.pdf"
+          text: "Slides"
+    - name: "Moving Beyond Simple Experiments"
+      video: "https://www.youtube.com/embed/7IR5WBxUJQU"
+      sublinks:
+        - link: "https://youtu.be/7IR5WBxUJQU"
+          text: "Video"
+        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day6-experiments/02-moving-beyond-simple-experiments.pdf"
+          text: "Slides"
+    - name: "Four strategies for making experiments happen"
+      video: "https://www.youtube.com/embed/Lnejxmca4NA"
+      sublinks:
+        - link: "https://youtu.be/Lnejxmca4NA"
+          text: "Video"
+        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day6-experiments/03-making-it-happen.pdf"
+          text: "Slides"
+    - name: "Zero variable cost data and musiclab"
+      video: "https://www.youtube.com/embed/KMMRT0H-iLU"
+      sublinks:
+        - link: "https://youtu.be/KMMRT0H-iLU"
+          text: "Video"
+        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day6-experiments/04-zero-variable-cost.pdf"
+          text: "Slides"
+

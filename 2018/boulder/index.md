@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: boulder
 main: true
-image: /assets/images/location.jpg
+image: /assets/images/boulder.jpg
 ---
 
 From the morning of Monday, August 13 to the evening of Friday, August 17, 2018, University of Colorado Boulder will host a satellite of the Summer Institute in Computational Social Science. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived). This satellite program is co-organized by Brian Keegan and Allie Morgan.

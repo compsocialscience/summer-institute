@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: bay_area
 main: true
-image: /assets/images/bay.jpg
+image: /assets/images/copenhagen.jpg
 ---
 
 From XXXX to XXXX, the XXXX will sponsor a Summer Institute in Computational Social Science, to be held at XXXXXX. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived). 
