@@ -5,9 +5,9 @@
   cta: "Find a Location"
   link: "locations"
 
-- title: Curriculum Resources
+- title: Learn Online
   subtitle: "Equiping Students & Teachers"
-  body: "We provide an open-source, modular curriculum for state of the art training that can be used in the classroom or online."
+  body: "We provide an open-source, modular curriculum for state of the art training that can be used online or in the classroom."
   image: /assets/images/learning.jpg
   cta: "Find Resources"
   link: "curriculum"
