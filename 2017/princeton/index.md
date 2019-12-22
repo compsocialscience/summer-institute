@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: princeton
 main: true
-image: /assets/images/location.jpg
+image: /assets/images/princeton.jpg
 ---
 
 <br>
