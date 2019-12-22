@@ -115,7 +115,7 @@
         - link: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/what-is-digital-trace-data/What_is_Digital_Trace_Data.html"
           text: "Slides"
     - name: "Basic Text Analysis/GREP"
-      video: "https://youtu.be/embed/exYBIoTEX4A"
+      video: "https://www.youtube.com/embed/exYBIoTEX4A"
       sublinks:
         - link: "https://youtu.be/exYBIoTEX4A"
           text: "Video"
@@ -124,7 +124,7 @@
         - link: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/strengths-weaknesses/rmarkdown/Strengths_and_Weaknesses.html"
           text: "Annotated Code"
     - name: "Topic Models/Structural Topic Models (Guest Lecture by Brandon Stewart)"
-      video: "https://youtu.be/embed/mhTMgCjFsG0"
+      video: "https://www.youtube.com/embed/mhTMgCjFsG0"
       sublinks:
         - link: "https://youtu.be/mhTMgCjFsG0"
           text: "Video"
@@ -133,7 +133,7 @@
         - link: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/screenscraping/rmarkdown/Screenscraping.html"
           text: "Annotated Code"
     - name: "Dictionary Based Text Analysis"
-      video: "https://www.youtube.com/watch?v=tbUdK-mYTJw&feature=youtu.be"
+      video: "https://youtu.be/tbUdK-mYTJw"
       sublinks:
         - link: "https://www.youtube.com/watch?v=tbUdK-mYTJw&feature=youtu.be"
           text: "Video"
@@ -142,7 +142,7 @@
         - link: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/apis/rmarkdown/Application_Programming_interfaces.html"
           text: "Annotated Code"
     - name: "Text Networks"
-      video: "https://youtu.be/embed/ruDQ7KuwMUs"
+      video: "https://www.youtube.com/embed/ruDQ7KuwMUs"
       sublinks:
         - link: "https://youtu.be/ruDQ7KuwMUs"
           text: "Video"
