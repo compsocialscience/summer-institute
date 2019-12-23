@@ -265,11 +265,3 @@
       sublinks:
         - link: "https://www.youtube.com/playlist?list=PL9UNgBC7ODr4iBr8nspxJKmZY85OXG8a3"
           text: "Video"
-
-- day: Alternative Curricula
-  id: alternative_curricula
-  topic: Alternative_curricula
-  events:
-    - name: "Check out alternative curricula and learning materials that use other software languages or target students from non-U.S. regions here"
-        - link: "https://github.com/compsocialscience/summer-institute/blob/master/_data/alternative_curriculum.md"
-          text: "Link"
