@@ -1,4 +1,14 @@
+- name: Emily Cantrell
+  bio: "Emily Cantrell is a PhD candidate in the Department of Sociology at Princeton University."
+  image: /assets/images/CombsAidan.jpg
+  website: https://sociology.princeton.edu/people/robin-lee
+
 - name: Aidan Combs
   bio: "Alex is a PhD candidate in the Department of Sociology at Duke University."
-  image: /assets/images/CombsAidan.jpg
+  image: /assets/images/emily_cantrell.jpg
   website: https://scholars.duke.edu/person/aidan.combs
+
+- name: Robin Lee
+  bio: "Robin Lee is a PhD candidate in the Department of Sociology at Princeton University."
+  image: /assets/images/robin_lee.jpg
+  website: https://sociology.princeton.edu/people/robin-lee
