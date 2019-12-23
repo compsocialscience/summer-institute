@@ -260,9 +260,16 @@
   id: bonus_lectures
   topic: Automated Text Analysis
   events:
-    - name: "Check Out our YouTube Channel for Bonus Lectures by Dozens of Leaders in the Field from the Past Three Years including Deborah Estrin, Gary King, Sendhil Mullainathan, Duncan Watts, and Many Others!"
+    - name: "Check out our YouTube channel for bonus lectures by dozens of leaders in the field from the past three years including Deborah Estrin, Gary King, Sendhil Mullainathan, Duncan Watts, and Many Others!"
       video: "https://www.youtube.com/embed/videoseries?list=PL9UNgBC7ODr4iBr8nspxJKmZY85OXG8a3"
       sublinks:
         - link: "https://www.youtube.com/playlist?list=PL9UNgBC7ODr4iBr8nspxJKmZY85OXG8a3"
           text: "Video"
 
+- day: Alternative Curricula
+  id: alternative_curricula
+  topic: Alternative_curricula
+  events:
+    - name: "Check out alternative curricula and learning materials that use other software languages or target students from non-U.S. regions here"
+        - link: "https://github.com/compsocialscience/summer-institute/blob/master/_data/alternative_curriculum.md"
+          text: "Link"
