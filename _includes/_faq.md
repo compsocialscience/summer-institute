@@ -1,5 +1,5 @@
 <br />
-### Application Frequently Asked Questions
+### Frequently Asked Questions
 <a name="faq"></a>
 <hr />
 
