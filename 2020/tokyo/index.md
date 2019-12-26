@@ -5,10 +5,21 @@ main: true
 image: /assets/images/tokyo.jpg
 ---
 
-From XXXX to XXXX, the XXXX will sponsor a Summer Institute in Computational Social Science, to be held at XXXXXX. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived). 
+From July 27 to August 7, [Keio University Shonun Fujisawa Campus (Keio SFC)](https://www.sfc.keio.ac.jp/en/) will host a partner event for the Summer Institute in Computational Social Science (SICSS Tokyo). The purpose of SICSS Tokyo is to bring together interested Master students, PhD students, postdoctoral researchers, junior corporate researchers, and beginning faculty in Japan. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
 
-The instructional program will involve lectures, group problem sets, and participant-led research projects. There will also be outside speakers who conduct computational social science research in a variety of settings, such as academia, industry, and government. Topics covered include text as data, website scraping, digital field experiments, non-probability sampling, mass collaboration, and ethics. There will be ample opportunities for students to discuss their ideas and research with the organizers, other participants, and visiting speakers. Because we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute will be released open source.
+The instructional program will involve lectures, group problem sets, and participant-led research projects. There will also be outside speakers who conduct computational social science research in a variety of settings, such as academia, industry, and government. Topics covered include text as data, website scraping, digital field experiments, non-probability sampling, mass collaboration, and ethics. There will be ample opportunities for students to discuss their ideas and research with the organizers, other participants, and visiting speakers. The goal of this partner location is to bulid and expand the network of computational social scientists in Japan.
 
-Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. Most participant costs during the workshop, including housing and most meals, will be covered, and most travel expenses will be reimbursed up to a set cap. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About thirty participants will be invited, and participants are expected to fully attend and participate in the entire two-week program.
+We invite applications from Master students, PhD studnets, postdoctoral researchers, corporate researchers working within 10 years, and untenured faculty within 5 years of their PhD. Participants are expected to fully attend and participate in the entire two-week program. There is no cost for participating in the Summer Institute. For a limited number of participants, the program will cover housing and most meal expenses up to a set cap. We welcome applicants from all backgrounds and fields of study.
 
-Application materials are due XXXXXX, 2020.
+Application materials are due Friday, March 6, 2020.
+
+Inquiries can be sent to sicsstokyo2020@gmail.com.
+
+<br />
+### Location
+### <a name="location"></a>
+
+All events will be held at:
+
+[Keio University Shonan Fujisawa Campus](https://www.sfc.keio.ac.jp/en/)
+5322 Endo, Fujisawa, Kanagawa 252-0882, Japan
