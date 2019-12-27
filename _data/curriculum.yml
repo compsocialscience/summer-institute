@@ -260,7 +260,7 @@
   id: bonus_lectures
   topic: Bonus Lectures
   events:
-    - name: "Check out our YouTube channel for bonus lectures by dozens of leaders in the field from the past three years including Deborah Estrin, Gary King, Sendhil Mullainathan, Duncan Watts, and Many Others!"
+    - name: "Check out our YouTube channel for bonus lectures by dozens of leaders in the field."
       video: "https://www.youtube.com/embed/videoseries?list=PL9UNgBC7ODr4iBr8nspxJKmZY85OXG8a3"
       sublinks:
         - link: "https://www.youtube.com/playlist?list=PL9UNgBC7ODr4iBr8nspxJKmZY85OXG8a3"
