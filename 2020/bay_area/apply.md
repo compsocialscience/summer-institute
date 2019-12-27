@@ -23,5 +23,5 @@ Applicants must submit the following documents: (i) a curriculum vitae, (ii) a s
 
 **In order to be guaranteed full consideration, all application materials must be submitted before February 20th, 2019.**  In order to meet the deadline, we recommend that applicants create their account on the Fluxx system run by the [Fluxx system run by the Russell Sage Foundation](https://rsf.fluxx.io/user_sessions/new) well before the deadline. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail in mid-March, and will ask participants to confirm their participation very soon thereafter.
 
-Inquiries can be sent to XXXX.
+Inquiries can be sent to [baysicss2020@gmail.com](mailto:baysicss2020@gmail.com).
 
