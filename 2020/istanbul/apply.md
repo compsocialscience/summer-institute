@@ -1,6 +1,6 @@
 ---
 layout: location_detail
-partner_site: hse
+partner_site: istanbul
 ---
 
 <h1 class="display-4">Apply</h1>
