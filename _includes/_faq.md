@@ -1,5 +1,5 @@
 <br />
-### Application Frequently Asked Questions
+### Frequently Asked Questions
 <a name="faq"></a>
 <hr />
 
@@ -15,4 +15,4 @@ If you have recommendation letters, add the email addresses for your two recomme
 
 #### I'm having trouble creating an account on Fluxx to submit my application.
 
-If you are confused about some of the application fields (e.g. Organization EIN), please just input as much information as you can. Also note that the account creation process can take a couple of days; please plan to create an account on Fluxx well in advance of the application deadline.
+If you are applying to the Duke or Princeton sites, you will need to apply via the Fluxx system. If you are confused about some of the application fields (e.g. Organization EIN), please just input as much information as you can. Also note that the account creation process can take a couple of days; please plan to create an account on Fluxx well in advance of the application deadline.
