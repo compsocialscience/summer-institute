@@ -1,6 +1,6 @@
 ---
 layout: location_detail
-partner_site: hse
+partner_site: istanbul
 main: true
 image: /assets/images/istanbul.jpg
 ---
