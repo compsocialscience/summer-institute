@@ -11,7 +11,26 @@ partner_site: tokyo
 
 ---
 
-Participation is restricted to Master students, PhD studnets, postdoctoral researchers, corporate researchers who have worked for 10 years or less, and untenured faculty within 5 years of their PhD. However, there are no restrictions based on citizenship, country of study, or country of employment. About 15 participants will be invited. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, attempt to account for an applicant’s career stage and previous educational opportunities.
+Participation is restricted to Master students, PhD studnets, postdoctoral researchers, corporate researchers who have worked for 10 years or less, and untenured faculty within 5 years of their PhD. Because we cannot cover the travel expences of participants, we suppose that most participants will be those who live in Japan. However, there are no restrictions based on citizenship, country of study, or country of employment. We welcome applicants from all backgrounds and fields of study. We evaluate applicants along a number of dimensions:
+<ol>
+  <li>research and teaching in the area of computational social science,</li>
+  <li>contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others,</li>
+  <li>likelihood to benefit from participation,</li>
+  <li>likelihood to contribute to the educational experience of other participants, and</li>
+  <li>potential to spread computational social science to new intellectual communities and areas of research.</li>
+</ol>
+Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
+<br />
+このワークショップは、修士過程および博士課程の学生、ポスドク、勤務１０年以内の企業研究者、博士取得後５年以内の大学教員の方を対象とします。SICSS-Tokyoでは交通費をサポートできない関係上、参加者の多くは日本で研究活動を行っている方を想定していますが、応募者の国籍や研究活動されている国に特に限定はありません。文理問わず、あらゆる分野からの応募をお待ちしております。
+参加者の選考にあたっては以下の点を重視します。
+<ol>
+  <li>計算社会科学（Computational Social Science）における今までの研究および教育活動</li>
+  <li>オープンソースのソフトウェアや共用のデータセットを作る、ワークショップなどを開催するなど公共財への貢献</li>
+  <li>参加の重要度</li>
+  <li>他の参加者への貢献</li>
+  <li>今後計算社会学のネットワークを広げていける可能性</li>
+</ol>
+これに加えて、参加者の現在のキャリアや今までの教育経験を考慮にいれます。
 
 <br />
 ### How To Apply
@@ -19,9 +38,22 @@ Participation is restricted to Master students, PhD studnets, postdoctoral resea
 
 ---
 
-Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum 3 pages) describing both any current research and your interest in computational social science, (iii) one writing sample (no more than 20 pages). We aceept the documents written in English or Japanses. Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. All applications must include an e-mail and an alternative means of contact (e.g., phone number). All application materials must be submitted through the [Google form](https://forms.gle/aGVKnwx4caVRMigu9).
-
-**In order to be guaranteed full consideration, all application materials must be submitted before Friday, March 6 2020.
-
+Applicants must submit the following documents:
+<ol>
+  <li>a curriculum vitae (CV),</li>
+  <li>a statement (maximum 3 pages) describing both any current research and your interest in computational social science,</li>
+  <li>one writing sample (no more than 20 pages).</li>
+</ol>
+You can write in English or Japanses. Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. All applications must include an e-mail and an alternative means of contact (e.g., phone number). All application materials must be submitted through the [Google form](https://forms.gle/aGVKnwx4caVRMigu9).
+<b>In order to be guaranteed full consideration, all application materials must be submitted before Friday, March 6 2020.</b>
 Inquiries can be sent to sicsstokyo2020@gmail.com.
-
+<br />
+応募者は以下の書類を提出してください。
+<ol>
+  <li>CV（履歴書；連絡先、学歴、職歴、研究業績を記載してください。[参考資料１](https://docs.google.com/document/d/1CjMjYJz-g2opuWEDopxVlGcdKGjSo38yf-BqUUBXz5o/edit?usp=sharing) [参考資料２](http://www.shirado.net/wp-content/uploads/2019/11/Shirado_CV_2019_v5.pdf)）</li>
+  <li>現在の研究内容および計算社会科学に関する興味を記載したリサーチ・ステートメント（最大３ページ。リサーチ・ステートメントに関して、[こちら](https://ultrabem.com/other_topics/how-to/statement_research)が参考になります。）</li>
+  <li>応募者が書いた論文、会議論文、もしくは解説記事を１つ（未掲載論文でも構いません。２０ページ以下）</li>
+ </ol>
+英語、日本語、どちらでも構いません。(iii)の提出論文に関して、共著のものでも構いませんが、その場合、ご自身を含む各著者の貢献について明記したメモを添付することをおすすめします。すべての応募には必ずe-mailアドレスともう一つの連絡手段（電話番号など）をご記載ください。すべての応募書類は、[こちらのGoogle form](https://forms.gle/aGVKnwx4caVRMigu9)より提出してください。
+<b>提出していただいた資料を十分に検討するため、すべての資料を２０２０年３月６日までに提出してください。</b>
+ご質問はこちらまで。sicsstokyo2020@gmail.com
