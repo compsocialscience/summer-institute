@@ -11,7 +11,8 @@ partner_site: tokyo
 
 ---
 
-<p>Participation is restricted to Master students, PhD studnets, postdoctoral researchers, corporate researchers who have worked for 10 years or less, and untenured faculty within 5 years of their PhD. Because we cannot cover the travel expences of participants, we suppose that most participants will be those who live in Japan. However, there are no restrictions based on citizenship, country of study, or country of employment. We welcome applicants from all backgrounds and fields of study. We evaluate applicants along a number of dimensions:
+<p>Participation is restricted to Master students, PhD studnets, postdoctoral researchers, corporate researchers who have worked for 10 years or less, and untenured faculty within 5 years of their PhD. Because we cannot cover the travel expences of participants, we suppose that most participants will be those who live in Japan. However, there are no restrictions based on citizenship, country of study, or country of employment. We welcome applicants from all backgrounds and fields of study. </p>
+<p>We evaluate applicants along a number of dimensions:
 <ol>
   <li>research and teaching in the area of computational social science,</li>
   <li>contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others,</li>
@@ -22,8 +23,8 @@ partner_site: tokyo
 Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.</p>
 
 <br>
-<p>このワークショップは、修士過程および博士課程の学生、ポスドク、勤務１０年以内の企業研究者、博士取得後５年以内の大学教員の方を対象とします。SICSS-Tokyoでは交通費をサポートできない関係上、参加者の多くは日本で研究活動を行っている方を想定していますが、応募者の国籍や研究活動されている国に特に限定はありません。文理問わず、あらゆる分野からの応募をお待ちしております。
-参加者の選考にあたっては以下の点を重視します。
+<p>このワークショップは、修士過程および博士課程の学生、ポスドク、勤務１０年以内の企業研究者、博士取得後５年以内の大学教員の方を対象とします。SICSS-Tokyoでは交通費をサポートできない関係上、参加者の多くは日本で研究活動を行っている方を想定していますが、応募者の国籍や研究活動されている国に特に限定はありません。文理問わず、あらゆる分野からの応募をお待ちしております。</p>
+<p>参加者の選考にあたっては以下の点を重視します。
 <ol>
   <li>計算社会科学（Computational Social Science）における今までの研究および教育活動</li>
   <li>オープンソースのソフトウェアや共用のデータセットを作る、ワークショップを開催するなど社会貢献活動</li>
