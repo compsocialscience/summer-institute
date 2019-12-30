@@ -46,9 +46,9 @@ Further, when making our evaluations, we attempt to account for an applicant’s
   <li>a statement (maximum 3 pages) describing both any current research and your interest in computational social science,</li>
   <li>one writing sample (no more than 20 pages).</li>
 </ol>
-You can write in English or Japanses. Co-authored work is acceptable for the writing sample (3), but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. All applications must include an e-mail and an alternative means of contact (e.g., phone number). All application materials must be submitted through <a href="https://forms.gle/aGVKnwx4caVRMigu9">the Google form</a>.</p>
+You can write in English or Japanses. Co-authored work is acceptable for the writing sample (3), but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. All applications must include an e-mail and an alternative means of contact (e.g., phone number). </p>
 
-<p><b>In order to be guaranteed full consideration, all application materials must be submitted before Friday, March 6 2020.</b></p>
+<p><b>All application materials must be submitted through <a href="https://forms.gle/aGVKnwx4caVRMigu9">the Google form</a>.</b> In order to be guaranteed full consideration, all application materials must be submitted before Friday, March 6 2020.</p>
 
 <p>Inquiries can be sent to sicsstokyo2020@gmail.com.</p>
 
@@ -59,8 +59,8 @@ You can write in English or Japanses. Co-authored work is acceptable for the wri
   <li>現在の研究内容および計算社会科学に関する興味を記した志望理由書（最大３ページ。志望理由書に関して、<a href="https://ultrabem.com/other_topics/how-to/statement_research">こちら</a>が参考になります。）</li>
   <li>Writing sample 応募者が書いた論文、会議論文、もしくは解説記事をいずれか１つ（未掲載論文でも構いません。２０ページ以下）</li>
  </ol>
-英語、日本語、どちらか扱いやすい言語でご記載ください。３のWriting sampleに関して、共著のものでも構いません。その場合、ご自身を含む各著者の貢献について明記したメモを添付することをおすすめします。応募にあたり、必ずe-mailアドレスともう一つの連絡手段（電話番号など）を１にご記載ください。すべての応募書類は、<a href="https://forms.gle/aGVKnwx4caVRMigu9">こちらのGoogle form</a>より提出してください。</p>
+英語、日本語、どちらか扱いやすい言語でご記載ください。３のWriting sampleに関して、共著のものでも構いません。その場合、ご自身を含む各著者の貢献について明記したメモを添付することをおすすめします。応募にあたり、必ずe-mailアドレスともう一つの連絡手段（電話番号など）を１にご記載ください。</p>
 
-<p><b>応募締め切りは、２０２０年３月６日（金）です。すべての書類を期日までに提出してください。</b></p>
+<p><b>すべての応募書類は、<a href="https://forms.gle/aGVKnwx4caVRMigu9">こちらのGoogle form</a>より提出してください。</b> 応募締め切りは、２０２０年３月６日（金）です。すべての書類を期日までに提出してください。</p>
 
 <p>ご質問はこちらまで。sicsstokyo2020@gmail.com</p>
