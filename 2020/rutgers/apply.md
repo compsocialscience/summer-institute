@@ -15,12 +15,16 @@ Participation is restricted to Ph.D. students, postdoctoral researchers, and unt
 
 <br />
 We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We are also especially interested in applicants whose research seeks to contribute to social progress (broadly conceived) and research related to the study of race, gender, sexuality, or systemic social and economic inequality.
+<br />
 
 <br />
 We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, attempt to account for an applicant’s career stage and previous educational opportunities.
+<br />
 
 <br />
 We aim to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R programming language prior to arrival. We hope to assemble a diverse set of participants across many backgrounds and levels of expertise. 
+<br />
+
 <br />
 ### How To Apply
 ### <a name="how_to_apply"></a>
