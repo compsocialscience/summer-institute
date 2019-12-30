@@ -56,7 +56,7 @@ You can write in English or Japanses. Co-authored work is acceptable for the wri
 <p>応募者は以下の書類を提出してください。
 <ol>
   <li>CV（履歴書；連絡先、学歴、職歴、研究業績を記載してください。<a href="https://docs.google.com/document/d/1CjMjYJz-g2opuWEDopxVlGcdKGjSo38yf-BqUUBXz5o/edit?usp=sharing">参考資料１</a> <a href="http://www.shirado.net/wp-content/uploads/2019/11/Shirado_CV_2019_v5.pdf">参考資料２</a>）</li>
-  <li>現在の研究内容および計算社会科学に関する興味を記した志望理由書（最大３ページ。志望理由書に関して、<a href="https://ultrabem.com/other_topics/how-to/statement_research">こちら</a> が参考になります。）</li>
+  <li>現在の研究内容および計算社会科学に関する興味を記した志望理由書（最大３ページ。志望理由書に関して、<a href="https://ultrabem.com/other_topics/how-to/statement_research">こちら</a>が参考になります。）</li>
   <li>Writing sample 応募者が書いた論文、会議論文、もしくは解説記事を１つ（未掲載論文でも構いません。２０ページ以下）</li>
  </ol>
 英語、日本語、どちらでも構いません。３のWriting sampleに関して、共著のものでも構いません。その場合、ご自身を含む各著者の貢献について明記したメモを添付することをおすすめします。応募にあたり、必ずe-mailアドレスともう一つの連絡手段（電話番号など）をご記載ください。すべての応募書類は、<a href="https://forms.gle/aGVKnwx4caVRMigu9">こちらのGoogle form</a>より提出してください。</p>
