@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: tokyo
 main: true
-image: /assets/images/tokyo.jpg
+image: /assets/images/tokyo2.jpg
 ---
 
 From July 27 to August 7 2020, [Keio University Shonun Fujisawa Campus (Keio SFC)](https://www.sfc.keio.ac.jp/en/) will host a partner event for the Summer Institute in Computational Social Science (SICSS Tokyo). The purpose of SICSS Tokyo is to bring together interested young researchers and to bulid and expand the network of computational social scientists in Japan. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
