@@ -15,4 +15,4 @@ About thirty participants will be invited, and participants are expected to full
 
 [Application materials](https://compsocialscience.github.io/summer-institute/2020/montreal/apply) are due Tuesday, February 25, 2020.
 
-We notified applicants solely through e-mail in end-March, and asked participants to confirm their participation very soon thereafter. Inquiries can be sent to [](sicss.montreal@gmail.com)
+We notified applicants solely through e-mail in mid-March, and asked participants to confirm their participation very soon thereafter. Inquiries can be sent to <sicss.montreal@gmail.com>.
