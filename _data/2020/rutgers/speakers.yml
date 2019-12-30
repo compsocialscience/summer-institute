@@ -1,1 +1,14 @@
-- name:
+- name: Daniel Hopkins
+  image: /assets/images/danielhopkins.jpg
+  bio: "Daniel Hopkins is Professor of Political Science at the University of Pennsylvania."
+
+- name: Michael Kenwick
+  image: /assets/images/michaelkenwick.jpg
+  bio: "Michael Kenwick is Assistant Professor of Political Science at Rutgers University."
+
+- name: Andrey Tomashevskiy
+  image: /assets/images/andreyt.jpg
+  bio: "Andrey Tomashevskiy is Assistant Professor of Political Science at Rutgers University."
+  
+- name: More to be added soon ...
+
