@@ -15,4 +15,4 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. Most participant costs during the workshop, including housing and most meals, will be covered, and most travel expenses will be reimbursed up to a set cap. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About thirty participants will be invited, and participants are expected to fully attend and participate in the entire two-week program held at UC Berkeley.
 
-Application materials are due February 20th, 2020.
+Application materials are due Tuesday, February 25, 2020..
