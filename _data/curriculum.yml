@@ -258,7 +258,7 @@
 
 - day: Bonus Lectures by Leaders in the Field
   id: bonus_lectures
-  topic: Bonus Lectures
+  topic: 
   events:
     - name: "Check out our YouTube channel for bonus lectures by dozens of leaders in the field."
       video: "https://www.youtube.com/embed/videoseries?list=PL9UNgBC7ODr4iBr8nspxJKmZY85OXG8a3"
