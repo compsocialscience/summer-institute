@@ -1,1 +1,9 @@
-- name: Coming soon...
+  - name: Thomas Davidson
+  image: /assets/images/thomasDavidson.jpg
+  bio: "Thomas Davidson a PhD candidate and member of the Social Dynamics Lab in the Department of Sociology at Cornell University. His research and teaching interests are in political sociology and social movements, culture, and social networks. He specializes in using computational methods including social network analysis, machine-learning, and natural language processing. His dissertation examines why far-right social movements and political parties have been so successful at using social media to build large online audiences and the extent to which these groups have influenced public debates on contentious political issues including immigration, Islam, and Brexit. His work has been published or is forthcoming in venues including Social Forces, Mobilization, Socius, and ICWSM."
+  website: https://www.thomasrdavidson.com/
+
+- name: Yotam Shmargad
+  image: /2018/boulder/images/YotamShmargad.jpg
+  bio: "Yotam Shmargad is an Assistant Professor in the School of Government & Public Policy at the University of Arizona. His research focuses on understanding how social media platforms shape political life in the United States. He uses a mix of statistical and computational methods, including social network analysis, online data collection, virtual experimentation, sentiment analysis, and machine learning techniques. His research speaks to questions about how social media dampen certain disparities while magnifying others, and how social media can both fuel political polarization and incivility as well as extinguish their flames. Shmargad’s work has appeared in the Journal of Politics, the Journal of Information Policy, the Journal of Political Marketing, the Journal of Interactive Marketing, the International Journal of Communication, and the Journal of the Association for Information Science and Technology, among other venues."
+  website: http://www.yotamshmargad.com
