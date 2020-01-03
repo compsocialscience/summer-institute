@@ -1,12 +1,8 @@
 - name: Mathieu Ferry
-  #image: /assets/images/chris2019.jpg
   bio: "Mathieu Ferry is a PhD Candidate at the Observatoire Sociologique du Changement (Sciences Po) and affiliated to CREST. Since the fall of 2017, he has been working on the social stratification of food practices in India, using both quantitative and qualitative data sources."
-  
-  
+    
   - name: Maël Ginsburger
- # image: /assets/images/chris2019.jpg
   bio: "Maël Ginsburger is a PhD Candidate at the Observatoire Sociologique du Changement (Sciences Po) and affiliated to CREST. Since 2018, he has been studying the evolution and the social structure of French households' environmental practices since the 1980’s, relying on both quantitative and qualitative data."
-#  website: http://ollion.cnrs.fr/
 
 - name: Julien Migozzi
   image: /assets/images/JulienMigozzi.jpg
@@ -15,7 +11,6 @@
 
 
 - name: Etienne Ollion
-  #image: /assets/images/chris2019.jpg
   bio: "Etienne Ollion is a CNRS research fellow and an associate professor in Sociology at l’École polytechnique. His research focuses on politics, and he integrates digital data to more classic data sources and methods."
   website: http://ollion.cnrs.fr/
-
+ 
