@@ -98,10 +98,6 @@
   exercise:
     - name: "Group Exercise"
       resource: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/Group_Exercise_Day_2.html"
-    - name: "Case Study 1"
-      resource: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/activity/ethics_case_study.pdf"
-    - name: "Case Study 2"
-      resource: "https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf"
 
 - day: Day 3
   id: day_3
@@ -258,7 +254,7 @@
 
 - day: Bonus Lectures by Leaders in the Field
   id: bonus_lectures
-  topic: Bonus Lectures
+  topic: 
   events:
     - name: "Check out our YouTube channel for bonus lectures by dozens of leaders in the field."
       video: "https://www.youtube.com/embed/videoseries?list=PL9UNgBC7ODr4iBr8nspxJKmZY85OXG8a3"
