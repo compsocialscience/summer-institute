@@ -1,6 +1,6 @@
 ---
 layout: location_detail
-partner_site: Howard
+partner_site: howard
 ---
 
 <h1 class="display-4">Apply</h1>
