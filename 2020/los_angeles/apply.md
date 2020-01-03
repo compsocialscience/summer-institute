@@ -23,5 +23,5 @@ Applicants must submit the following documents: (i) a curriculum vitae, (ii) a s
 
 **In order to be guaranteed full consideration, all application materials must be submitted before XXX
 
-Inquiries can be sent to XXXX.
+Inquiries can be sent to [sicss.ucla.gmail.com](mailto:sicss.ucla.gmail.com).
 
