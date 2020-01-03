@@ -3,9 +3,12 @@
   bio: "Elizaveta Sivak is a director of the Center for Modern Childhood Research at Higher School of Economics. She uses qualitative, quantitative, and computational methods to study childhood and parenting. Her main research interests are concerned with modern parenting cultures, children’s behavior and social networks, factors influencing children’s psychological well-being, and how we can study behavior, attitudes and psychological well-being using digital traces. She is also interested in gender and educational inequality, and sociology of science."
   website: https://www.hse.ru/en/staff/es
 
-- name: Ivan Smirnov
-
 - name: Sofia Dokuka
   image: /assets/images/SofiaDokuka.jpg
-  bio: "Sofia Dokuka is Research Fellow in Computational social science lab. Her research interests include social networks and computational social science.  Her academic work focuses on social networks, well-being and people analytics."
+  bio: "Sofia Dokuka is Research Fellow in the Computational social science lab at Higher School of Economics. Her research interests include social networks, agent-based models and computational social science. Her academic work focuses on social networks in online environment and education, individual well-being and people analytics. In her recent research Sofia is investigating the interaction between sleep patterns and academic performance based on survey data and digital traces."
+  website: https://www.hse.ru/en/staff/sofi
+  
+- name: Ivan Smirnov
+  image: /assets/images/IvanSmirnov.jpg
+  bio: "Ivan Smirnov is Head of the Computational Social Science Lab and Leading Research Fellow at Higher School of Economics. He employs data science to better understand human behavior and complex social phenomena. His main research focus is on inequality and well-being in the digital age."
   website: https://www.hse.ru/en/staff/sofi
