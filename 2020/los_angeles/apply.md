@@ -23,5 +23,5 @@ Applicants must submit the following documents: (i) a curriculum vitae, (ii) a s
 
 **In order to be guaranteed full consideration, all application materials must be submitted before March 12, 2020.
 
-Inquiries can be sent to [sicss.ucla.gmail.com](mailto:sicss.ucla.gmail.com).
+Inquiries can be sent to [sicss.ucla@gmail.com](mailto:sicss.ucla@gmail.com).
 
