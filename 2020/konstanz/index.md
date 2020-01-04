@@ -17,8 +17,8 @@ We are inviting applications from Master students, PhD students, postdoctoral re
 
 All events will be held at:
 
-University of Konstanz
-Universitätsstraße 10  
+University of Konstanz   
+Universitätsstraße 10   
 78464 Konstanz
 
 ## Sponsors
