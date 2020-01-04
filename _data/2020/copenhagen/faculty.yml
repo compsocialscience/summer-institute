@@ -5,7 +5,7 @@
 
 - name: Anne Helby Petersen
   image: /assets/images/anne.jpg
-  bio: Anne Petersen is a Ph.D. student at the Section of Biostatistics at the University of Copenhagen. Her PhD project aims to develop new statistical methods for integrating data driven machine learning methods with dynamic life course analysis. She is the primary developer of two R-packages on CRAN, dataMaid and PCADSC.  
+  bio: Anne Helby Petersen is a Ph.D. student at the Section of Biostatistics at the University of Copenhagen. Her PhD project aims to develop new statistical methods for integrating data driven machine learning methods with dynamic life course analysis. She is the primary developer of two R-packages on CRAN, dataMaid and PCADSC.  
   website: https://github.com/annennenne
 
 - name: Hjalmar Bang Carlsen
