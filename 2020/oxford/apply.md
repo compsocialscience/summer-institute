@@ -10,6 +10,10 @@ partner_site: oxford
 ### <a name="eligibility"></a>
 ---
 
+We are inviting applications from Ph.D. students, postdoctoral researchers, and faculty within 7 years of their Ph.D. We are hoping to have wide participation from researchers across different departments and institutes within the University of Oxford, both from the social sciences and the computational/data sciences. We would also like to welcome a limited number of participants from other institutions both in the UK and abroad. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R programming language.
+
+Participants are expected to attend both weeks of the institute. Meals and refreshments will be provided free of cost for all participants at SICSS-Oxford during the event. Accommodation for those participants from outside Oxford will also be covered. Travel costs (up to a set cap) will be reimbursed for those from outside Oxford.
+
 We invite applications from graduate students, postdoctoral researchers, and untenured faculty within 7 years of their PhD. The Summer Institute will be held in English. We expect to invite about 20 to 30 participants for this partner location in Oxford. 
 
 We are intending to be able to provide funding to applicants from outside of Oxford. This provisionally involves accommodation within a college, and a contribution or full-reimbursement of travel costs to Oxford (standard fare, with a ceiling).
