@@ -4,5 +4,7 @@
   url: "people"
 - name: Travel
   url: "travel"
+- name: About HSE
+  url: "about_hse" 
 - name: Schedule & Materials
   url: "schedule"
