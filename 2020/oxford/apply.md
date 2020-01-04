@@ -8,20 +8,39 @@ partner_site: oxford
 
 ### Eligibility
 ### <a name="eligibility"></a>
-
 ---
 
-Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. However, there are no restrictions based on citizenship, country of study, or country of employment.  About XXXXX participants will be invited. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, attempt to account for an applicant’s career stage and previous educational opportunities.
+We are inviting applications from Ph.D. students, postdoctoral researchers, and faculty within 7 years of their Ph.D. We are hoping to have wide participation from researchers across different departments and institutes within the University of Oxford, both from the social sciences and the computational/data sciences. We would also like to welcome a limited number of participants from other institutions both in the UK and abroad. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R programming language.
 
-<br />
+Participants are expected to attend both weeks of the institute. Meals and refreshments will be provided free of cost for all participants at SICSS-Oxford during the event. Accommodation for those participants from outside Oxford will also be covered. Travel costs (up to a set cap) will be reimbursed for those from outside Oxford.
+
+The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R programming language.
+
+We invite applications not only from participants with a background in both computational methods and social science, but especially from those who seek to acquire new skills in either of these domains. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research.
+
 ### How To Apply
 ### <a name="how_to_apply"></a>
-
 ---
 
-Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science (especially as it relates to RSF research priorities such as behavioral economics, social inequality, future of work, and immigration), (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. Applicants who are graduate students or postdoctoral researchers must submit two letters of recommendation from faculty advisors. Letters of recommendation should be as informative as possible about your standing in your program, general ability, research potential, and (if applicable) special interest in computational social science. All applications must include an e-mail and an alternative means of contact (e.g., phone number). 
+In order to be guaranteed full consideration, all application materials must be received by **Friday, 3rd of April** at 23:59 BST. We will notify applicants solely through e-mail by the end of April, and will ask participants to confirm their participation very soon thereafter. Inquiries can be sent to compsocsci.oxford[at]gmail.com.
 
-**In order to be guaranteed full consideration, all application materials must be submitted before XXXX
 
-Inquiries can be sent to XXXX.
+### Frequently Asked Questions
+### <a name="f_a_q"></a>
+---
 
+1.  Can bachelor students also apply? Can associate or full professors also apply?
+
+No, unfortunately applying is only possible for Master students, PhD students, postdoctoral researchers, and untenured faculty within 7 years of their PhD.
+
+2.  Can I also submit a writing sample written in a language other than English?
+
+This is unfortunately not possible at this time!
+
+3.  I'm a Masters student: can I apply?
+
+Under special circumstances we might be able to invite masters students, but this should be accompanied by a letter of reference from a potential future PhD supervisor, or some other indication of a commitment to undertaking future research in computational social science.
+
+4.  How are you able to provide funding for attendees, _and_ charge no tuition fees?
+
+This is only made possible through a range of extremely generous institutional sponsors and benefactors.
