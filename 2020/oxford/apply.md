@@ -14,8 +14,6 @@ We are inviting applications from Ph.D. students, postdoctoral researchers, and 
 
 Participants are expected to attend both weeks of the institute. Meals and refreshments will be provided free of cost for all participants at SICSS-Oxford during the event. Accommodation for those participants from outside Oxford will also be covered. Travel costs (up to a set cap) will be reimbursed for those from outside Oxford.
 
-We are intending to be able to provide funding to applicants from outside of Oxford. This provisionally involves accommodation within a college, and a contribution or full-reimbursement of travel costs to Oxford (standard fare, with a ceiling).
-
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R programming language.
 
 We invite applications not only from participants with a background in both computational methods and social science, but especially from those who seek to acquire new skills in either of these domains. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research.
@@ -31,15 +29,15 @@ In order to be guaranteed full consideration, all application materials must be 
 ### <a name="f_a_q"></a>
 ---
 
-###### 1.  Can bachelor students also apply? Can associate or full professors also apply?
+##### 1.  Can bachelor students also apply? Can associate or full professors also apply?
 
 No, unfortunately applying is only possible for Master students, PhD students, postdoctoral researchers, and untenured faculty within 7 years of their PhD.
 
-###### 2.  Can I also submit a writing sample written in a language other than English?
+##### 2.  Can I also submit a writing sample written in a language other than English?
 
 This is unfortunately not possible at this time!
 
-###### 3.  I'm a Masters student: can I apply?
+##### 3.  I'm a Masters student: can I apply?
 
 Under special circumstances we might be able to invite masters students, but this should be accompanied by a letter of reference from a potential future PhD supervisor, or some other indication of a commitment to undertaking future research in computational social science.
 
