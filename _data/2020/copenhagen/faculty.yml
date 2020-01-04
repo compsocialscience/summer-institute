@@ -1,1 +1,14 @@
-- name: Coming soon...
+- name: Friedolin Merhout
+  image: /assets/images/fmerhout.jpg
+  bio: Friedolin Merhout is an Assistant Professor in the Department of Sociology and at the Centre for Social Data Science at the University of Copenhagen. He uses computational and experimental methods to examine intergroup relations such as between immigrants and natives, political partisans, or religious groups. His research leverages digital trace, text, survey, and administrative data to generate novel insights about established social scientific puzzles.
+  website: https://fmerhout.github.io/
+
+- name: Anne Helby Petersen
+  image: /assets/images/anne.jpg
+  bio: Anne Petersen is a PhD student at the Section of Biostatistics at the University of Copenhagen. Her PhD project aims to develop new statistical methods for integrating data driven machine learning methods with dynamic life course analysis. She is the primary developer of two R-packages on CRAN, dataMaid and PCADSC.  
+  website: https://github.com/annennenne
+
+- name: Hjalmar Alexander Bang Carlsen
+  image: /assets/images/hcarlsen.jpg
+  bio: Hjalmar is a postdoctoral researcher at the Centre for Social Data Science at the University of Copenhagen. He works at the intersection of social data science, political sociology and pragmatism. He is currently working on two main projects focusing on 1) activists patterns of engagement, and 2) methodological issues within quantitative and qualitative text analysis, and especially their combination. 
+  website: https://scholar.google.dk/citations?user=um6jqCgAAAAJ&hl=en
