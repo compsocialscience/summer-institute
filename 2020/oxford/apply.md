@@ -41,6 +41,6 @@ This is unfortunately not possible at this time!
 
 Under special circumstances we might be able to invite masters students, but this should be accompanied by a letter of reference from a potential future PhD supervisor, or some other indication of a commitment to undertaking future research in computational social science.
 
-###### 4.  How are you able to provide funding for attendees, _and_ charge no tuition fees?
+##### 4.  How are you able to provide funding for attendees, _and_ charge no tuition fees?
 
 This is only made possible through a range of extremely generous institutional sponsors and benefactors.
