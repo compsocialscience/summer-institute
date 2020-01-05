@@ -43,4 +43,4 @@ Under special circumstances we might be able to invite masters students, but thi
 
 ##### 4.  How are you able to provide funding for attendees, _and_ charge no tuition fees?
 
-This is only made possible through a range of extremely generous institutional sponsors and benefactors.
+This is only made possible through a range of extremely generous institutional sponsors and benefactors!
