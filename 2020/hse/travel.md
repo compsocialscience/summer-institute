@@ -7,9 +7,7 @@ image: /assets/images/bamberg.jpg
 ---
 
 ## Travel reimbursement policy for SICSS 2020 at HSE University
-The Summer Institute at HSE will be providing economy class transportation to and from the Summer Institute for all accepted participants,
-whose university is located outside Moscow. Due to funding limitations, we are only able to provide travel costs up to a fixed cap, 
-which is based on the home institution of the participant. The cost caps are:
+The Summer Institute at HSE will provide accommodation and reimburse economy class transportation to and from the Summer Institute for those accepted participants whose home university is located outside Moscow. Due to funding limitations, we are only able to provide travel costs up to a fixed cap, which is based on the home institution of the participant. The cost caps for travel are:
 
 - European Russia: $150
 - Other parts of Europe: $300
@@ -21,7 +19,7 @@ Due to funding limitations:
 - we are not able to reimburse travel between your home and the airport (or train station) or between the airport 
 (or train station) and HSE.
 
-Inquiries can be sent to sicsshse2020 at gmail dot com.
+Inquiries can be sent to sicsshse2020@gmail.com.
 
 ### Frequently asked questions:
 
@@ -41,7 +39,7 @@ please contact your local organizer.
 ##### When should I plan to arrive and depart?
 
 You should plan to be on campus in time for a 6pm dinner on Sunday, June 14.  We will have a going away dinner on Friday, 
-June 26 that will run until late in the evening so you should plan to leave on Saturday, June 27.
+June 26 that will run until late in the evening so you should plan to leave on Saturday, June 20.
 
 ##### What if I purchase my ticket and my plans change?
 
