@@ -24,4 +24,4 @@ Applicants must submit the following documents: (i) a curriculum vitae, (ii) a s
 **In order to be guaranteed full consideration, all application materials must be submitted before 20 March 2020. Successful applicants will be notified by 31 March 2020.**
 In order to apply, please submit your documents on <a href="https://airtable.com/shrD3a7aoxr8NvnFa">this</a> form.
 
-Enquiries can be sent to <a href=mailto:sicss-stellenbosch@mail.suinformatics.com">sicss-stellenbosch@mail.suinformatics.com</a>.
+Enquiries can be sent to <a href="mailto:sicss-stellenbosch@mail.suinformatics.com">sicss-stellenbosch@mail.suinformatics.com</a>.
