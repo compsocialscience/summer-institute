@@ -1,5 +1,5 @@
 ---
 layout: location_detail
-partner_site: howard
+partner_site: howard-mathematica
 people: true
 ---

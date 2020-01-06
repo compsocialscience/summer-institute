@@ -1,6 +1,6 @@
 ---
 layout: location_detail
-partner_site: maastricht
+partner_site: howard-mathematica
 ---
 
 <h1 class="display-4">Apply</h1>
@@ -21,7 +21,7 @@ Participation is restricted to Ph.D. students, postdoctoral researchers, and unt
 
 Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science, (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. Applicants who are graduate students or postdoctoral researchers must submit two letters of recommendation from faculty advisors. Letters of recommendation should be as informative as possible about your standing in your program, general ability, research potential, and (if applicable) special interest in computational social science. All applications must include an e-mail and an alternative means of contact (e.g., phone number). 
 
-**The Application Deadline and instructions for submitting your application will be posted here soon**
+**In order to be guaranteed full consideration, all application materials must be submitted before February 25th by 11:59PM EST. In order to apply, please visit: https://forms.gle/ooJ3PMzqNR4Hqg2h8**
 
-Inquiries can be sent to: monika.leszczynska@maastrichtuniversity.nl
+For questions, please email sicss.howard.mathematica@gmail.com
 
