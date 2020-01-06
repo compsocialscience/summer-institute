@@ -14,19 +14,25 @@ We are inviting applications from PhD students, postdoctoral researchers, and fa
 
 Participants are expected to attend both weeks of the institute. Meals and refreshments will be provided free of cost for all participants at SICSS-Oxford during the event. There are no registration fees to attend the Institute. For participants from outside Oxford, we will provide a limited number of scholarships to support accommodation and travel to Oxford (up to a set cap).
 
-We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We will evaluate applicants along a number of dimensions: 1) research interests, ideas, and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. We will attempt to account for an applicant's career stage and previous educational opportunities when evlauating applications.
+We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We will evaluate applicants along a number of dimensions: 1) research interests, ideas, and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. We will attempt to account for an applicant's career stage and previous educational opportunities when evaluating applications.
 
 ### How To Apply
 ### <a name="how_to_apply"></a>
 ---
 
-Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research, your interest in computational science science, as well as why you would like to attend SICSS-Oxford (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable but when submitting co-authored work we recommend you include a few sentences describing the contribution of each individual author to the work. Applications must be submitted as one combined PDF file by email to sicss.oxford[at]nuffield.ox.ac.uk. 
+Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research, your interest in computational science science, as well as why you would like to attend SICSS-Oxford (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable but when submitting co-authored work we recommend you include a few sentences describing the contribution of each individual author to the work. *Applications must be submitted as one combined PDF file by email to sicss.oxford[at]nuffield.ox.ac.uk.*
+
+Please also include in the body of your e-mail some basic data in this structured format:
+
+1. First Name:
+2. Last Name: 
+3. Email Address:
+4. Discipline of (expected) PhD degree: 
+5. Current University/College:
 
 Please note that letters of recommendation are not required for application to SICSS-Oxford and any letters, if submitted, will not be considered when evaluating applications. This is to guarantee similar consideration of all applications.
 
 In order to be guaranteed full consideration, all application materials must be received by **Friday, 27th of March** at 23:59 BST. We will notify applicants solely through e-mail by mid-April, and will ask participants to confirm their participation very soon thereafter. Inquiries can be sent to sicss.oxford[at]nuffield.ox.ac.uk. 
-
-
 
 ### Frequently Asked Questions
 ### <a name="f_a_q"></a>
@@ -43,5 +49,3 @@ This is unfortunately not possible.
 ##### 3.  I'm a Masters student: can I apply?
 
 We will consider applications from master's students in a research track (e.g. MPhil, MRes degrees), or MSc students transitioning to a PhD degree who have demonstrated interest and commitment to research in the area of computational social science. 
-
-
