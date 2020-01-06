@@ -33,4 +33,4 @@ Applications and other inquiries can be sent to sicssmaas@gmail.com.
 
 ---
 
-No travel and accommodation stipends are available for this event. We are happy to facilitate 2-week summer subrentals to the best of our abilities, as Maastricht is a student city without a housing campus. Throughout the duration of the summer institute, lunches and refreshments will be available, and two dinners will be hosted at the beginning and end of the event. 
+No travel and accommodation stipends are available for the Summer Institute. Maastricht is a student city without a housing campus, but all accepted applicants will be provided with information on available housing options. Throughout the duration of the Summer Institute, lunches and refreshments will be available.  
