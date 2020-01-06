@@ -23,4 +23,4 @@ Applicants must submit the following documents: (i) a curriculum vitae, (ii) a s
 
 **In order to be guaranteed full consideration, all application materials must be submitted before 20 March 2020. Successful applicants will be notified by 31 March 2020.**
 
-Inquiries can be sent to: dougaparry@sun.ac.za
+Enquiries can be sent to <a href=mailto:sicss-stellenbosch@mail.suinformatics.com">sicss-stellenbosch@mail.suinformatics.com</a>.
