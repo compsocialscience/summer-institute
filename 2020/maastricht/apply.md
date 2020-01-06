@@ -24,7 +24,7 @@ Applicants must submit the following documents: (i) a curriculum vitae, (ii) a s
 
 **Application Deadline: 25 March 2020**
 
-Applications can be sent by email to: monika.leszczynska@maastrichtuniversity.nl & catalina.goanta@maastrichtuniversity.nl. 
+Applications can be sent by email to sicssmaas@gmail.com. 
 
 <br />
 
