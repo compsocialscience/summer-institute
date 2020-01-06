@@ -27,7 +27,7 @@ Please note the following points:
 
 ---
 
-Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum two pages) describing both any current research and your interest in computational social science (especially as it relates to RSF research priorities such as behavioral economics, social inequality, future of work, and immigration), (iii) one writing sample (no more than 30 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. All applications must include an e-mail and an alternative means of contact (e.g., phone number). All application materials must be submitted through the following [Google Form]().
+Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum two pages) describing both any current research and your interest in computational social science, (iii) one writing sample (no more than 30 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. All applications must include an e-mail and an alternative means of contact (e.g., phone number). All application materials must be submitted through the following [Google Form]().
 
 **Applications can be submitted in French or in English.**
 
