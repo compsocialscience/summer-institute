@@ -1,5 +1,5 @@
 ---
 layout: location_detail
-partner_site: bay_area
+partner_site: howard
 people: true
 ---
