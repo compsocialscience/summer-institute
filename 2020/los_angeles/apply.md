@@ -19,7 +19,7 @@ Participation is restricted to Ph.D. students, postdoctoral researchers, and unt
 
 ---
 
-Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum two pages double-spaced) describing both any current research and your interest in computational social science. All applications must include an e-mail and an alternative means of contact (e.g., phone number).
+Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum two pages double-spaced) describing (1) your current research, (2) why you want to participate in SICSS Los Angeles, and (3) how participation will aid your future research. All applications must include an e-mail and an alternative means of contact (e.g., phone number).
 
 To apply, click [here](https://forms.gle/ZkqspfNKPxGT1R55A).
 
