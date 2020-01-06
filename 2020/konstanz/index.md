@@ -23,5 +23,5 @@ Universitätsstraße 10
 
 ## Sponsors
 
-We are grateful for financial support from University of Konstanz, Russell Sage Foundation, Alfred P. Sloan Foundation and [Academy of Sociology](https://akademie-soziologie.de/en/).
+We are grateful for financial support from University of Konstanz, Konstanz [Center for Data and Methods](https://www.polver.uni-konstanz.de/cdm/), Russell Sage Foundation, Alfred P. Sloan Foundation and [Academy of Sociology](https://akademie-soziologie.de/en/).
 
