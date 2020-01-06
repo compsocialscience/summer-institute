@@ -11,9 +11,10 @@ partner_site: maastricht
 
 ---
 
-Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. However, there are no restrictions based on citizenship, country of study, or country of employment. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, attempt to account for an applicant’s career stage and previous educational opportunities.
+Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. However, there are no restrictions based on citizenship, country of study, or country of employment. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, attempt to account for an applicant’s career stage and previous educational opportunities. For the Maastricht partner site event, we particularly encourage Central and Eastern European applicants.  
 
 <br />
+
 ### How To Apply
 ### <a name="how_to_apply"></a>
 
@@ -23,5 +24,13 @@ Applicants must submit the following documents: (i) a curriculum vitae, (ii) a s
 
 **Application Deadline: 25 March 2020**
 
-Inquiries can be sent to: monika.leszczynska@maastrichtuniversity.nl
+Applications can be sent by email to: monika.leszczynska@maastrichtuniversity.nl & catalina.goanta@maastrichtuniversity.nl. 
 
+<br />
+
+### Travel And Accommodation
+### <a name="travel_and_accommodation"></a>
+
+---
+
+No travel and accommodation stipends are available for this event. We are happy to facilitate 2-week summer subrentals to the best of our abilities, as Maastricht is a student city without a housing campus. Throughout the duration of the summer institute, lunches and refreshments will be available, and two dinners will be hosted at the beginning and end of the event. 
