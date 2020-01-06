@@ -23,8 +23,8 @@ jobs:
       - restore_cache:
           name: "Dependency: restoring bundler cache"
           keys:
-            - bundler-v5-{{ arch }}-{{ checksum "Gemfile.lock" }}
-            - bundler-v5-{{ arch }}-
+            - bundler-v1-{{ arch }}-{{ checksum "Gemfile.lock" }}
+            - bundler-v1-{{ arch }}-
 
       - run: # Install Ruby dependencies
           name: "Dependency: bundle install"
@@ -33,7 +33,7 @@ jobs:
       # Store bundle cache for Ruby dependencies
       - save_cache:
           name: "Dependency: saving bundler cache"
-          key: bundler-v5-{{ arch }}-{{ checksum "Gemfile.lock" }}
+          key: bundler-v1-{{ arch }}-{{ checksum "Gemfile.lock" }}
           paths:
             - ~/.vendor/bundler
 
