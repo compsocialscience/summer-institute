@@ -22,5 +22,6 @@ Participation is restricted to registered Masters and Doctoral students and juni
 Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science, (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. All applications must include an e-mail and an alternative means of contact (e.g., phone number).
 
 **In order to be guaranteed full consideration, all application materials must be submitted before 20 March 2020. Successful applicants will be notified by 31 March 2020.**
+In order to apply, please submit your documents on <a href="https://airtable.com/shrD3a7aoxr8NvnFa">this</a> form.
 
 Enquiries can be sent to <a href=mailto:sicss-stellenbosch@mail.suinformatics.com">sicss-stellenbosch@mail.suinformatics.com</a>.
