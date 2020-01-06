@@ -25,7 +25,7 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement of interest (maximum three pages) describing both any current research and your interest in computational social science, (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. All applications must include an e-mail and an alternative means of contact (e.g., phone number). All application materials must be submitted through the [Google form](https://forms.gle/8FsSq684n93WM3Gj7). To fill out this Google form, you need a Google account. In order to meet the deadline, we recommend that applicants create their Google account before the deadline (in case they don’t have one).
 
-**In order to be guaranteed full consideration, all application materials must be submitted before Monday, March 30th, 2020 at 11:59pm ET.**
+**In order to be guaranteed full consideration, all application materials must be submitted before Monday, March 30th, 2020 at 11:59pm Anywhere on Earth.**
 
 Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail in mid-April, and will ask participants to confirm their participation very soon thereafter.
 
