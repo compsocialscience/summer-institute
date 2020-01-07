@@ -1,3 +1,50 @@
-- date: 2020-07-28
-  events:
-    - name: "Schedule coming soon..."
+- date: 2020-06-23
+  events: Introduction and Logistics
+    - name: "Morning : Participants arrive"
+    - name: "12:00 - 2:00 Opening Lunch & Logistics"
+    - name: "2:00 - 4:00 What are Computational Social Sciences?"
+    - name: "4:00 - 4:15 Coffee Break - Pause café"
+    - name: "4:15 - 6:00 A quick recap on R (optional)"
+
+- date: 2020-06-24
+    events: Collecting Digital Trace Data
+    - name: "Morning: How is the Web Written and how to collect data?"
+    - name: "Afternoon: Group exercise"
+    - name: "5:00 - 6:30 : Guest Speaker: to be announced"
+    
+- date: 2020-06-25
+    events: Collecting Digital Trace Data
+    - name: "Morning: Structured data: Making the most of markup languages"
+    - name: "Afternoon: Group exercise "
+    - name: "5:00 - 6:30 : Guest Speaker - to be announced"
+
+- date: 2020-06-26
+    events: 
+    - name: "Morning: Automation & storage"
+    - name: "Afternoon: Group exercise"
+    - name: "5:00 - 6:30 : Guest Speaker - to be announced"
+
+- date: 2020-06-27
+    events: Text as data
+    - name: "Morning: Introduction to Text Analysis"
+    - name: "Afternoon: Afternoon off"
+
+- date: 2020-06-28
+  name: Day off
+
+- date: 2020-06-29
+    events: Text as data
+    - name: "Morning: Unstructured data : using regular expressions"
+    - name: "Afternoon: Group exercise"
+    - name: "5:00 - 6:30 : Guest Speaker - to be announced"
+    
+- date: 2020-07-01
+    events: Machine Learning
+    - name: "Morning: Machine Learning for social sciences: issues and methods"
+    - name: "Afternoon: Group exercise"
+    - name: "5:00 - 6:30 : Guest Speaker - to be announced"
+
+- date: 2020-07-02
+    events: Work on projects
+    - name: "6:00 Closing dinner"
+    - name: "Participants depart"
