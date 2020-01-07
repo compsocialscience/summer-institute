@@ -28,7 +28,7 @@ We hope to assemble a diverse set of participants across many backgrounds and le
 
 Applicants must submit the following documents here: https://forms.gle/b1EoxXHF9xYLypMV9: 
 <br />
-(i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science, (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. The writinng sample may, but does not have to, show familiarity with computational social science tools.
+(i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science, (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. The writing sample may, but does not have to, show familiarity with computational social science tools.
 <br />
 
 <br />
