@@ -19,9 +19,9 @@ Participation is restricted to Ph.D. students, postdoctoral researchers, and unt
 
 ---
 
-Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science (especially as it relates to RSF research priorities such as behavioral economics, social inequality, future of work, and immigration), (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. Applicants who are graduate students or postdoctoral researchers must submit two letters of recommendation from faculty advisors. Letters of recommendation should be as informative as possible about your standing in your program, general ability, research potential, and (if applicable) special interest in computational social science. All applications must include an e-mail and an alternative means of contact (e.g., phone number). All application materials must be submitted through the [Fluxx system run by the Russell Sage Foundation](https://rsf.fluxx.io/user_sessions/new), and it can take up to two business days for your Fluxx account to be created.
+Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum two pages, double spaced) describing your background with coding, as well as your current research and/or interest in computational social science, (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. We will **not** accept or review letters of recommendation from faculty advisors. All applications must include an e-mail and an alternative means of contact (e.g., phone number). 
 
-**In order to be guaranteed full consideration, all application materials must be submitted by midnight EST on March 30, 2020.
+**In order to be guaranteed full consideration, all application materials must be submitted by midnight EST on April 15, 2020.
 
 Inquiries can be sent to carly.knight@nyu.edu.
 
