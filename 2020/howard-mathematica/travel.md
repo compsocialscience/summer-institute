@@ -6,19 +6,9 @@ title: Travel
 image: /assets/images/howard.jpg
 ---
 
-## Travel reimbursement policy for SICSS 2020
+## Travel reimbursement policy for SICSS-Howard/Mathematica 2020 at Howard University
 
-
-The Summer Institute will be providing economy class transportation to and from the Summer Institute for all student participants. Due to funding limitations, we are only able to provide travel costs up to a fixed cap, which is based on the location of the home institution of the participant. The cost caps are:
-East Coast US: $200
-North American, except East Coast US: $500
-Outside of North America: $1,300
-Due to funding limitations:
-we are not able to provide reimbursement for meals or other incidental expenses.
-we are only able to cover economy travel costs.
-we are not able to reimburse travel between your home and the airport (or train station) or between the airport (or train station) and campus.
-Inquiries can be sent to SICSS.Howard.Mathematica@gmail.com
-
+##### Coming soon...
 
 ### Frequently asked questions:
 
