@@ -1,6 +1,6 @@
 ---
 layout: location_detail
-partner_site: howard
+partner_site: howard-mathematica
 main: true
 image: /assets/images/howard.jpg
 ---
