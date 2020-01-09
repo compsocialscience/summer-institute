@@ -37,10 +37,13 @@ Please also include in the body of your e-mail some basic data in this structure
 **In order to be guaranteed full consideration, all application materials must be submitted by midnight EST on April 15, 2020.** We will notify applicants solely through e-mail by the first week in May, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to carly.knight@nyu.edu.
-<br/>
+<br /><br />
 
 ### Frequently Asked Questions
-### <a name="faq"></a>
+### <a name="faq">></a>
+
+---
+
 
 1.	I’m a Masters student: can I apply?
 
