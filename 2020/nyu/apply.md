@@ -37,20 +37,24 @@ Please also include in the body of your e-mail some basic data in this structure
 **In order to be guaranteed full consideration, all application materials must be submitted by midnight EST on April 15, 2020.** We will notify applicants solely through e-mail by the first week in May, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to carly.knight@nyu.edu.
-<br/>
+<br /><br />
 
 ### Frequently Asked Questions
-### <a name="faq"></a>
+### <a name="faq">></a>
 
-1.	I’m a Masters student: can I apply?
+---
+<br/>
+<b>I’m a Masters student: can I apply?</b><br/>
 
 We will consider applications from master’s students in a research track who are transitioning to a PhD degree. Students should demonstrate interest and commitment to research in the area of computational social science.
+<br/>
 
-2.	Will funding for travel or housing be provided?
+<b>Will funding for travel or housing be provided?</b><br/>
 
 Unfortunately, we are not able to provide funding for travel or housing. 
+<br/>
 
-3.	I am not affiliated with a New York area university. Can I apply?
+<b>I am not affiliated with a New York area university. Can I apply?</b><br/>
 
 Absolutely! While we not able to offer funding for travel or housing, scholars who are located in New York during the summer and wish to attend the institute are welcome to apply. 
 
