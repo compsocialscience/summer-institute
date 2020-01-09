@@ -40,10 +40,10 @@ Inquiries can be sent to carly.knight@nyu.edu.
 <br /><br />
 
 ### Frequently Asked Questions
-### <a name="faq">></a>
+### <a name="faq"></a>
 
 ---
-<br/>
+
 <b>I’m a Masters student: can I apply?</b><br/>
 
 We will consider applications from master’s students in a research track who are transitioning to a PhD degree. Students should demonstrate interest and commitment to research in the area of computational social science.
