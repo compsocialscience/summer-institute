@@ -13,7 +13,8 @@ partner_site: milano
 
 Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. However, there are no restrictions based on citizenship, country of study, or country of employment.  About 20 participants will be invited. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, attempt to account for an applicant’s career stage and previous educational opportunities.
 
-<br />
+<br /><br/>
+
 ### How To Apply
 ### <a name="how_to_apply"></a>
 
@@ -34,16 +35,18 @@ Please also include in the body of your e-mail some basic data in this structure
 **In order to be guaranteed full consideration, all application materials must be submitted by midnight EST on April 15, 2020.** We will notify applicants solely through e-mail by the first week in May, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to sicss.milano@gmail.com
-
+<br/><br/>
 
 
 ### Frequently Asked Questions
 ### <a name="faq"></a>
 
-1.	Will housing be provided?
+---
 
+
+<b>Will housing be provided?</b><br/>
 Yes. For accepted participants who are not based in Mila, housing will be provided.
+<br/>
 
-2.	I am not affiliated with a university in Milan. Can I apply?
-
+<b>I am not affiliated with a university in Milan. Can I apply?</b><br/>
 Absolutely!
