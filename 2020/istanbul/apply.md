@@ -19,9 +19,7 @@ Participation is restricted to Ph.D. students, postdoctoral researchers, and unt
 
 ---
 
-Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science, (iii) one writing sample or research proposal (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. 
-
-Application Link: https://forms.gle/gMnugwy2SJuYAStW7
+Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science, (iii) one writing sample or research proposal (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. All application materials must be submitted through the [Google form](https://forms.gle/gMnugwy2SJuYAStW7).
 
 **In order to be guaranteed full consideration, all application materials must be submitted before February 25, 2020.
 
