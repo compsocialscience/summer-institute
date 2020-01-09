@@ -1,3 +1,5 @@
+This is a provisional schedule. 
+
 - date: 2020-06-23
   name: Introduction and Logistics
   events:
@@ -12,21 +14,21 @@
   events: 
     - name: "Morning: How is the Web Written and how to collect data?"
     - name: "Afternoon: Group exercise"
-    - name: "5:00 - 6:30 : Guest Speaker: to be announced"
+    - name: "5:30 - 6:30 : Guest Speaker: to be announced"
     
 - date: 2020-06-25
   name: Collecting Digital Trace Data
   events:
     - name: "Morning: Structured data: Making the most of markup languages"
-    - name: "Afternoon: Group exercise "
-    - name: "5:00 - 6:30 : Guest Speaker - to be announced"
+    - name: "Afternoon: Group exercise"
+    - name: "5:30 - 6:30 : Guest Speaker - to be announced"
 
 - date: 2020-06-26
   name: Collecting Digital Trace Data
   events: 
     - name: "Morning: Automation & storage"
     - name: "Afternoon: Group exercise"
-    - name: "5:00 - 6:30 : Guest Speaker - to be announced"
+    - name: "5:30 - 6:30 : Guest Speaker - to be announced"
 
 - date: 2020-06-27
   name: Text as data
@@ -42,14 +44,14 @@
   events:
     - name: "Morning: Unstructured data : using regular expressions"
     - name: "Afternoon: Group exercise"
-    - name: "5:00 - 6:30 : Guest Speaker - to be announced"
+    - name: "5:30 - 6:30 : Guest Speaker - to be announced"
     
 - date: 2020-07-01
   name: Machine Learning
-  event:
+  events:
     - name: "Morning: Machine Learning for social sciences: issues and methods"
     - name: "Afternoon: Group exercise"
-    - name: "5:00 - 6:30 : Guest Speaker - to be announced"
+    - name: "5:30 - 6:30 : Guest Speaker - to be announced"
 
 - date: 2020-07-02
   name: Work on projects
