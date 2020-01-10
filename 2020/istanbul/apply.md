@@ -19,9 +19,9 @@ Participation is restricted to advanced MA students, Ph.D. students, postdoctora
 
 ---
 
-Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science, (iii) one writing sample or research proposal (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. All application materials must be submitted through the [Google form](https://forms.gle/gMnugwy2SJuYAStW7).
+Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science, (iii) one writing sample or research proposal (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author.
 
-**In order to be guaranteed full consideration, all application materials must be submitted before February 25, 2020.
+**In order to be guaranteed full consideration, all application materials must be submitted before February 25, 2020. All application materials must be submitted through the [SICSS-Istanbul application form](https://forms.gle/gMnugwy2SJuYAStW7).**
 
-Inquiries can be sent to sicss.istanbul@gmail.com.
+**Inquiries can be sent to sicss.istanbul@gmail.com.**
 
