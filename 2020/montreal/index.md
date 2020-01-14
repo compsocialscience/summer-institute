@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: montreal
 main: true
-image: /assets/images/montreal.jpg
+image: /assets/images/Montreal_photo.jpg
 ---
 
 From the evening of Sunday, June 14 to the morning of Saturday, June 27, 2020, the Russell Sage Foundation will sponsor the Summer Institute in Computational Social Science, to be held at [Université du Québec à Montréal (UQAM)](https://uqam.ca/). The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived). The organizer and principal faculty of the Summer Institute in [Université du Québec à Montréal](https://uqam.ca/) is Visseho Adjiwanou.
