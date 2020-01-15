@@ -1,6 +1,13 @@
+- name: SICSS-Howard/Mathematica Vision
+  url: "sicss-howard-mathematica-vision"
 - name: "Apply"
   url: "apply"
 - name: People
   url: "people"
+- name: Travel
+  url: "travel"
 - name: Schedule & Materials
   url: "schedule"
+
+
+  

@@ -21,3 +21,5 @@ doctoral studies, with top departments and research centres in a number of inter
 
 Since 2013, HSE University has been a member of the 5-100 Russian Academic Excellence Project, a highly selective government 
 programme aimed at boosting the international competitiveness of Russian universities.
+
+The Laboratory of Computational Social Science was established in 2019 to advance our understanding of complex social systems and human behavior in the digital age and to promote computational social science in Russia. The main focus of our research is on digital inequality and well-being in the digital age. Our research program is supported by Basic Research Program of HSE and by Russian Science Foundation. We also teach computational social science for master’s and doctoral students at HSE.
