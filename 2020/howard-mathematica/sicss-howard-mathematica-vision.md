@@ -5,7 +5,7 @@ travel: true
 title: SICSS-Howard/Mathematica Vision
 image: /assets/images/howard.jpg
 ---
-
+#### SICSS-Howard/Mathematica Vision
 For SICSS-Howard/Mathematica we have an added purpose, to seed and grow a depth of knowledge and appreciation for computational social science in underrepresented communities.  SICSS-Howard/Mathematica is uniquely poised to highlight innovative methods to conduct social research on topics of pertinence to underrepresented communities using real-world data. Participants who share our drive to use computer science, data analytics, and evidence to improve public well-being within underrepresented communities will benefit from the opportunities and resources that are unique to SICSS-Howard/Mathematica given our presence at Howard University, the generous support and deep engagement of Mathematica, and our presence in the nation’s capital.
 
 #### Howard University
