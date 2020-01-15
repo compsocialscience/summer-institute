@@ -27,9 +27,16 @@ Nous accueillons les candidats de tous horizons et domaines d'études, en partic
 
 Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science (especially as it relates to RSF research priorities such as behavioral economics, social inequality, future of work, and immigration), (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. Applicants who are graduate students or postdoctoral researchers must submit two letters of recommendation from faculty advisors. Letters of recommendation should be as informative as possible about your standing in your program, general ability, research potential, and (if applicable) special interest in computational social science. All applications must include an e-mail and an alternative means of contact (e.g., phone number). 
 
-All application materials must be submitted through the [Google form](https://docs.google.com/forms/d/1ZuwdAXVXiYZu6xVHAdgukP_gW5sS79Hxhu0Wa5M-8zA/edit) by Tuesday, March 10, 2020.
+All application materials must be submitted through the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdkjU5wQzPD7pgrjhlTQklNWQj0hsk_obqVSszy3ZsiKo08dw/viewform) by Tuesday, March 10, 2020.
 
 **In order to be guaranteed full consideration, all application materials must be submitted before Tuesday, March 10, 2020**. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail in mid-March, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to <sicss.montreal@gmail.com>.
+
+<br />
+
+### Applying to multiple locations
+### <a name="applying_to_multiple_locations"></a>
+It is allowed to apply to more than one Summer Institute location, but not at the same time. For example, you can apply to SICSS-Duke, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.
+
 
