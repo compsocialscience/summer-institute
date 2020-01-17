@@ -8,8 +8,6 @@ image: /assets/images/howard.jpg
 
 ## Travel reimbursement policy for SICSS-Howard/Mathematica 2020 at Howard University
 
-##### Coming soon...
-
 ### Frequently asked questions:
 
 ##### What if I’d like to come to travel to SICSS from somewhere other than my home institution or travel from SICSS to somewhere other than my home institution?
