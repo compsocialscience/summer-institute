@@ -9,12 +9,18 @@
       </div>
       <div class="col-sm-10">
         <ul class="nav justify-content-end">
-        {% assign navigation = site.data.navigation %}
+          {% assign navigation = site.data.navigation %}
           {% for navlink in navigation %}
-            <li class="nav-item">
-              <a class="nav-link text-light" href="{{ navlink.url | prepend: site.baseurl }}">{{ navlink.name }}</a>
-            </li>
+          <li class="nav-item">
+            <a class="nav-link text-light" href="{{ navlink.url | prepend: site.baseurl }}">{{ navlink.name }}</a>
+          </li>
           {% endfor %}
+          <li class="nav-item">
+            <a class="nav-link text-light" data-toggle="collapse" href="#collapseExample" href="">Contact Us</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-light collapse" id="collapseExample" href = "mailto: rsfcompsocsci@gmail.com">rsfcompsocsci@gmail.com</a>
+          </li>
         </ul>
       </div>
     </div>

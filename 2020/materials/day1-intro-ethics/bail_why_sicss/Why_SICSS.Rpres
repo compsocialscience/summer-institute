@@ -145,7 +145,12 @@ Goal #3: Reach a Broad Audience
 
 And many more people are following along online!
 
+Goal #3: Reach a Broad Audience
+========================================================
 
+<img src="varycss.png" height="500" />
+
+http://varycss.org/
 
 
 Goal #4: Open-Source
