@@ -2,5 +2,9 @@
   url: "apply"
 - name: People
   url: "people"
+- name: Travel
+  url: "travel"
 - name: Schedule & Materials
   url: "schedule"
+- name: About HSE
+  url: "about_hse"
