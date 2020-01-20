@@ -36,5 +36,5 @@ All events will be held at:
 [Keio University Hiyoshi Campus Raiousha](http://www.hc.keio.ac.jp/en/index.html)
 4-1-1 Hiyoshi, Kouhoku-ku, Yokohama, Kanagawa 223-8521, Japan
 
-[慶應義塾日吉キャンパス 来往舎](http://www.hc.keio.ac.jp/ja/hiyoshi_campus/guide/)
+[慶應義塾大学 日吉キャンパス 来往舎](http://www.hc.keio.ac.jp/ja/hiyoshi_campus/guide/)
 神奈川県横浜市港北区日吉4-1-1
