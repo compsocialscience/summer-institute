@@ -14,6 +14,9 @@ There will be ample opportunities for students to discuss their ideas and resear
 We are inviting applications from Master students, PhD students, postdoctoral researchers and untenured faculty within 6 years of their PhD. Participants are expected to fully attend and participate in the entire two-week program. Participants with little or no exposure to sociology, economics, or political science, will be expected to complete additional readings in advance of the Institute. Most of the coding work presented at SICSS Konstanz will employ the R programming language. Participants with less coding experience will be expected to complete a set of online learning modules for R.
 
 There is no cost for participating in the Summer Institute including meals. For a limited number of participants, we will be able to cover travel and accommodation up to a set cap. Please indicate in your application if this support is needed. 
+We are inviting applications from Master students, PhD students, postdoctoral researchers, and untenured faculty within 6 years of their PhD. Participants are expected to fully attend and participate in the entire two-week program. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less coding experience will be expected to complete a set of online learning modules on the R programming language. 
+
+There is no cost for participating in the Summer Institute including meals. For a limited number of participants, we will be able to cover travel and accommodation up to a set cap. Please indicate in your application if this support is needed.
 
 [Application materials](https://compsocialscience.github.io/summer-institute/2020/konstanz/apply) are due Tuesday, February 25, 2020.
 
@@ -30,4 +33,10 @@ Universitätsstraße 10
 In addition to the SICSS core sponsors, SICSS-Konstanz is sponsored by University of Konstanz, [Excellence Cluster - The Politics of Inequality](https://www.exc.uni-konstanz.de/en/inequality/), Konstanz [Center for Data and Methods](https://www.polver.uni-konstanz.de/cdm/) and [Academy of Sociology](https://akademie-soziologie.de/en/).
 
 <img class="img-responsive" alt="Excellence Cluster logo" src="{{ site.baseurl }}{% link 2020/konstanz/images/inequalitycluster_logo.jpg %}" width = "200">
+In addition to the SICSS core sponsors, this event is sponsored by [University of Konstanz](https://www.uni-konstanz.de/en/), [Center for Data and Methods](https://www.polver.uni-konstanz.de/cdm/), [Cluster of Excellence - Politics of Inequality](https://www.exc.uni-konstanz.de/en/inequality) and [Academy of Sociology](https://akademie-soziologie.de/en/).
 
+
+<img class="img-responsive" alt="Uni Konstanz" src="{{ site.baseurl }}{% link 2020/konstanz/images/unikonstanz_logo.jpg %}" width = "200">
+<img class="img-responsive" alt="DFG Logo" src="{{ site.baseurl }}{% link 2020/konstanz/images/dfg_logo.png %}" width = "200">
+<img class="img-responsive" alt="Inequality Cluster" src="{{ site.baseurl }}{% link 2020/konstanz/images/inequalitycluster_logo.jpg %}" width = "200">
+<img class="img-responsive" alt="Akademie Soziologie" src="{{ site.baseurl }}{% link 2020/konstanz/images/akademiesoziologie_logo.png %}" width = "200">
