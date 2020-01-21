@@ -15,7 +15,7 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 Preference will be given to participants from Rutgers and nearby institutions with a goal being to build a regional community of researchers interested in computational social science, but all applications will be given consideration.
 
-The Rutgers partner event is supported by the Rutgers University library, the Rutgers Department of Political Science, and the primary Summer Institute in Computational Social Science program. 
+In additionn to the SICSS core sponsors, the Rutgers partner event is supported by the Rutgers University library and the Rutgers Department of Political Science. 
 
 Application materials are due March 30, 2020. Inquiries may be sent to sicssrutgers@gmail.com.
 
