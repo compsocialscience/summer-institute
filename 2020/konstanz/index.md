@@ -9,7 +9,7 @@ From the evening of Sunday, July 19 to Friday, July 31, 2020, the Summer Institu
 
 The instructional program will involve lectures and group problem sets in the first week and participant-led research projects in the second week. Participants will be able to work in teams to learn how to implement the material from the lectures. SICSS Konstanz will particularly focus on inference in Computational Social Science and potential issues with regards to measuring latent variables, causal explanation and generalization of study results. Covered topics include collecting digital trace data, automated text analysis, estimation of latent traits, digital field experiments, adjustments for non-probability samples and missing data, and social network analysis.
 
-There will be ample opportunities for students to discuss their ideas and research with the organizers, other participants and visiting speakers.  In addition to providing state of the art education, SICSS Konstanz has the goal to build and expand the network of computational social scientists in Germany. Because we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute will be released open source.
+There will be ample opportunities for students to discuss their ideas and research with the organizers, other participants and visiting speakers. In addition to providing state of the art education, SICSS Konstanz has the goal to build and expand the network of computational social scientists in Germany. Because we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute will be released open source.
 
 We are inviting applications from Master students, PhD students, postdoctoral researchers and untenured faculty within 6 years of their PhD. Participants are expected to fully attend and participate in the entire two-week program. Participants with little or no exposure to sociology, economics, or political science, will be expected to complete additional readings in advance of the Institute. Most of the coding work presented at SICSS Konstanz will employ the R programming language. Participants with less coding experience will be expected to complete a set of online learning modules for R.
 
@@ -31,10 +31,6 @@ Universitätsstraße 10
 ## Sponsors
 
 In addition to the SICSS core sponsors, SICSS-Konstanz is sponsored by University of Konstanz, [Excellence Cluster - The Politics of Inequality](https://www.exc.uni-konstanz.de/en/inequality/), Konstanz [Center for Data and Methods](https://www.polver.uni-konstanz.de/cdm/) and [Academy of Sociology](https://akademie-soziologie.de/en/).
-
-<img class="img-responsive" alt="Excellence Cluster logo" src="{{ site.baseurl }}{% link 2020/konstanz/images/inequalitycluster_logo.jpg %}" width = "200">
-In addition to the SICSS core sponsors, this event is sponsored by [University of Konstanz](https://www.uni-konstanz.de/en/), [Center for Data and Methods](https://www.polver.uni-konstanz.de/cdm/), [Cluster of Excellence - Politics of Inequality](https://www.exc.uni-konstanz.de/en/inequality) and [Academy of Sociology](https://akademie-soziologie.de/en/).
-
 
 <img class="img-responsive" alt="Uni Konstanz" src="{{ site.baseurl }}{% link 2020/konstanz/images/unikonstanz_logo.jpg %}" width = "200">
 <img class="img-responsive" alt="DFG Logo" src="{{ site.baseurl }}{% link 2020/konstanz/images/dfg_logo.png %}" width = "200">
