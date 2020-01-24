@@ -3,7 +3,7 @@
   events:
     - name: "Opening Dinner (*Not open to public/No livestream*)"
 
-- date: 2019-06-15
+- date: 2020-06-15
   name: Introduction and Ethics
   events:
     - name: "11:30 - 11:45 Introductions, logistics (*Not open to public/No livestream*)"
@@ -18,7 +18,7 @@
     - name: "18:45 - 19:30 Ethics: Principles-based approach (live from Duke)"
     - name: "19:30 - 20:15 Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of uncertainty (live from Duke)"
 
-- date: 2019-06-16
+- date: 2020-06-16
   name: "Collecting Digital Trace Data"
   events:
     - name: "11:30 - 11:45 Logistics (*Not open to public/No livestream*)"
@@ -35,7 +35,7 @@
     - name: "18:30 - 19:00 Application Programming Interfaces (live from Duke)"
     - name: "19:00 - 19:30 Building Apps and Bots for Social Science Research (live from Duke)"
 
-- date: 2019-06-17
+- date: 2020-06-17
   name: Automated Text Analysis
   events:
     - name: "11:30 - 11:45 Logistics (*Not open to public/No livestream*)"
@@ -52,7 +52,7 @@
     - name: "19:30 - 20:00 Dictionary-Based Text Analysis (live from Duke)"
     - name: "20:00 - 20:30 Text Networks (live from Duke)"
 
-- date: 2019-06-18
+- date: 2020-06-18
   name: Surveys in the Digital Age
   events:
     - name: "11:30 - 11:45 Logistics (*Not open to public/No livestream*)"
@@ -69,7 +69,7 @@
     - name: "18:35 - 19:15 Group exercise introduction (live from Duke)"     
     - name: "19:15 - 20:00 Begin group exercise (*Not open to public/No livestream*)"
    
-- date: 2019-06-19
+- date: 2020-06-19
   name: Mass Collaboration
   events:
     - name: "11:30 - 11:45 Logistics (*Not open to public/No livestream*)"
@@ -84,7 +84,7 @@
     - name: "18:30 - 19:30 Participating in the Fragile Families Challenge Activity (live from Duke)"
     - name: "19:30 - 20:30 Working on the Fragile Families Challenge (*Not open to public/No livestream*)"
 
-- date: 2019-06-20
+- date: 2020-06-20
   name: Experiments
   events:
     - name: "11:30 - 11:45 Logistics (*Not open to public/No livestream*)"
