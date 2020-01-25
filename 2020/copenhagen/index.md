@@ -17,4 +17,4 @@ Applications are invited from all interested individuals with particular emphasi
 
 SICSS-Copenhagen is generously sponsored by the [Department of Sociology](https://sociology.ku.dk), the [Centre for Social Data Science](https://sodas.ku.dk/), the [Department of Public Health's](https://publichealth.ku.dk/) [Section of Biostatistics](https://biostat.ku.dk/) at the [University of Copenhagen](https://www.ku.dk/english/).
 
-<img class="img-responsive" alt="University of Copenhagen" src="{{ site.baseurl }}{% link 2020/copenhagen/images/ku-logo.png %}" width = "200">
+<img class="img-responsive" alt="University of Copenhagen" src="{{ site.baseurl }}{% link 2020/copenhagen/images/ku-logo.png %}" width = "800">
