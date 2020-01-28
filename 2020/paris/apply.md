@@ -27,11 +27,13 @@ Please note the following points:
 
 ---
 
-Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum two pages) describing both any current research and your interest in computational social science, (iii) one writing sample (no more than 30 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. All applications must include an e-mail and an alternative means of contact (e.g., phone number). All application materials must be submitted through the following [Google Form]().
+Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum two pages) describing both any current research and your interest in computational social science, (iii) one writing sample (no more than 30 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. All applications must include an e-mail and an alternative means of contact (e.g., phone number). 
+
+Please submit your applications and the supporting documents listed above using [this application form](https://forms.gle/arWAQ1KZvv5aiiUQ6).
 
 **Applications can be submitted in French or in English.**
 
-**In order to be guaranteed full consideration, all application materials must be submitted before March 1st, 2020.**
+**In order to be guaranteed full consideration, all application materials must be submitted before March 20th, 2020.**
 
 Inquiries can be sent to SICSSParis@gmail.com
 
