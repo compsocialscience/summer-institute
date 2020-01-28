@@ -44,11 +44,19 @@
     - name: "Afternoon: Group exercise"
     - name: "5:30 - 6:30 : Guest Speaker - to be announced"
     
-- date: 2020-07-01
+- date: 2020-06-30
   name: Machine Learning
   events:
     - name: "Morning: Machine Learning for social sciences: issues and methods"
     - name: "Afternoon: Group exercise"
+    - name: "5:30 - 6:30 : Guest Speaker - to be announced"
+    - name: "From 7pm : closing dinner"
+    
+- date: 2020-07-01
+  name: Work on projects
+  events:
+    - name: "Morning: work on projects"
+    - name: "Afternoon: work on projects"
     - name: "5:30 - 6:30 : Guest Speaker - to be announced"
     - name: "From 7pm : closing dinner"
 
