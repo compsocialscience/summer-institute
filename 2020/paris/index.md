@@ -13,4 +13,4 @@ There will be ample opportunities for students to discuss their ideas and resear
 
 Participation is geared towards Ph.D. students, postdoctoral researchers, and early career stage faculty. Most participant costs during the workshop, including housing and most meals, will be covered. A travel allowance can be requested should the participant need it to attend. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 20 participants will be invited, and participants are expected to fully attend and participate in the entire program.
 
-Application materials are due on March 1st, 2020.
+Application materials are due on March 20th, 2020.
