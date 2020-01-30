@@ -38,8 +38,8 @@ please contact your local organizer.
 
 ##### When should I plan to arrive and depart?
 
-You should plan to be on campus in time for a 6pm dinner on Sunday, June 14.  We will have a going away dinner on Friday, 
-June 19 that will run until late in the evening so you should plan to leave on Saturday, June 20.
+You should plan to be on campus in time for a 6pm dinner on Sunday, June 14.  We will have a going away dinner on Saturday, 
+June 20 that will run until late in the evening so you should plan to leave on Sunday, June 21.
 
 ##### What if I purchase my ticket and my plans change?
 
