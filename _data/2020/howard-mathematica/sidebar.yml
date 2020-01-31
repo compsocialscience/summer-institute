@@ -1,5 +1,7 @@
 - name: SICSS-Howard/Mathematica Vision
   url: "sicss-howard-mathematica-vision"
+- name: News
+  url: "news"
 - name: "Apply"
   url: "apply"
 - name: People
