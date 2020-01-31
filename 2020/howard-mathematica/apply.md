@@ -30,3 +30,16 @@ Applicants for the SICSS-Howard/Mathematica: Lifting New Voices to Address Ethic
 
 **Inquiries can be sent to sicss.howard.mathematica@gmail.com.**
 
+<br />
+### Application Frequently Asked Questions
+### <a name="faq"></a>
+
+---
+
+#### Can I apply to more than one Summer Institute location?
+
+Yes, you may apply to more than one summer institute, but not at the same time. For example, you can apply to SICSS-Howard/Mathematica, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have applications under review at two locations simultaneously.
+
+#### Do I need to submit recommendation letters?
+
+Recommendation letters are not required for SICSS-Howard/Mathematica.
