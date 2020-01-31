@@ -17,7 +17,9 @@ storied U Street and Howard Theatre and two miles from the U.S. Capitol. Howard 
 <i>SICSS-Howard/Mathematica: Lifting New Voices to Address Ethics and Equity in AI with Mathematica</i> is yet another way that Howard continues its commitment to the context of our founding – an unwavering question to balance the scales for the 
 disenfranchised, and promote an American that is devoid of inequalities.  Howard has existed to address a plethora of 
 disparities that disproportionately affect the African-American population wherever it may occur.  AI presents a rapidly 
-evolving frontier where new voices are needed more than ever to promote <i>Veritas and Utilitias</i> (Truth and Service).  
+evolving frontier where new voices are needed more than ever to promote <i>Veritas and Utilitias</i> (Truth and Service).
+
+“Howard University’s founding of SICSS-Howard/Mathematica: Lifting New Voices to Address Ethics and Equity in AI with Mathematica is yet another way that Howard continues its commitment to the context of our founding—an unwavering question to balance the scales for the disenfranchised, and promote an America that is devoid of inequalities,” says Howard University President Wayne A. I. Frederick.
 
 #### Mathematica
 Founded in 1968, Mathematica reimagines the way the world gathers and uses data, surfacing evidence and insights that 
@@ -25,3 +27,5 @@ illuminate the path to progress for public- and private-sector changemakers. Dri
 well-being and our steadfast commitment to advancing diversity, equity, and inclusion, Mathematica’s nearly 1400 employees 
 collaborate closely with public- and private-sector partners to inform program and policy decisions in health, human services, 
 and international development. Throughout <i>SICSS-Howard/Mathematica: Lifting New Voices to Address Ethics and Equity in AI</i>, our data and public policy experts will work alongside participants to help translate big questions into deep insights that improve programs, refine strategies, and enhance equity.
+
+“This program provides aspiring researchers with insights to help them operate at the intersection of data science and social science, as well as surface new ways to apply an equity lens to that work—two topics that are poised to shape the future of public policy for years to come,” said [Paul Decker](https://www.mathematica.org/our-people/staff/paul-decker), president and CEO of Mathematica. “We are incredibly proud to stand with Howard University in shining a light on the importance of ethics and equity as artificial intelligence gains a foothold in more and more ways.”
