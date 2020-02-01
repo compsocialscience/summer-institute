@@ -11,8 +11,7 @@ image: /assets/images/howard.jpg
 
 ---
 
-January 29, 2020
-<br><i>Howard University and Mathematica to Host Computational Social Science Summer Institute</i> 
+January 29, 2020 <br><i>Howard University and Mathematica to Host Computational Social Science Summer Institute</i> 
 (Howard: [link](https://newsroom.howard.edu/newsroom/article/11701/howard-university-and-mathematica-host-computational-social-science-summer)) (Mathematica: [link](https://www.mathematica.org/news/howard-university-and-mathematica-to-host-computational-social-science-summer-institute))
 
 
