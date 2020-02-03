@@ -24,7 +24,7 @@ Applicants must submit the following documents: (i) a curriculum vitae, (ii) a s
 
 **For graduate students or postdoctoral researchers:** Applicants who are graduate students or postdoctoral researchers **must submit one letter of recommendation from a faculty advisor**. This letter of recommendation should be as informative as possible about your standing in your program, general ability, research potential, and (if applicable) special interest in computational social science.
 
-**In order to be guaranteed full consideration, all application materials must be submitted by Tuesday, February 25th, 2020 at 11:59pm Beijing Time**. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by the end of March, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by Tuesday, ~~February 25th~~, (NEW DATE: March 10th), 2020 at 11:59pm Beijing Time**. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by the end of March, and will ask participants to confirm their participation very soon thereafter.
 
 Application link: you can use either [Wenjuanxing](https://www.wjx.top/jq/53879849.aspx) or [Google Form](https://forms.gle/hD5yBLWHZX6iG57TA) to submit your application.
 
