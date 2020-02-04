@@ -30,7 +30,15 @@ teachingassistants:
     - name: Irene Farah
       image: /assets/images/Irene_farah.jpeg
       bio: Irene is a PhD student in City & Regional Planning at UC Berkeley. Irene’s interests lie at the intersection of sociology, public health, and urban analytics. Her current research examines how macro socioeconomic and political structures affect low-income individuals’ health outcomes in cities. In particular, the role that big corporations play in structuring the food environment and how it affects ultra-processed food exposure at different spatial scales.
-  
+    
+    - name: Mahnaz Roshanaei 
+      image: /assets/images/mahnaz_roshanaei.jpg
+      bio: Mahnaz is a Postdoc research fellow at Stanford University.  She is a computer scientist with data science skills who is interested to collaborate across disciplines and develop and apply statistical and machine learning methods on social science issues. Her current research focuses on applying computational methods to understand behavioral, network and smartphone data to explore how the individuals’ characteristics and behavior shape their position in, or effect on, social networks. Mahnaz is broadly interested in Machine learning and Causal inference to reason better with behavioral and network data to solve societal problems.
+ 
+    - name: Saqib Mumtaz
+      image: Saqib is a PhD student at the Haas School of Business, UC Berkeley. He completed a bachelor's degree in Electrical Engineering from Indian Institute of Technology and a master's degree in Public Policy from the Goldman School of Public Policy. He previously worked on technology policy issues in the Indian context. His research interests include entrepreneurship, technology and innovation policy, and social networks
+      bio: /assets/images/SaqibMChouhdary.jpg
+      
     - name: Tyler McDaniel
       image: /assets/images/tyler_mcdaniel.jpeg
       bio: Tyler is a PhD student studying sociology at Stanford University. His current research focuses on school policies and individuals’ daily experiences with segregation. Using survey data, he compares racial and socioeconomic segregation experienced - in locations such as friends’ homes, places of worship, and shopping centers - by students who make different school choices. Broadly, he is interested in spatial inequalities, meritocracy, and predictive algorithms.
