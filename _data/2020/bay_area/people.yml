@@ -1,3 +1,10 @@
+faculty:
+  title: Faculty
+     name: David Harding
+     image: /assets/images/david_harding.jpg
+     bio: David Harding (Ph.D. Harvard, 2005) is a Professor of Sociology and Faculty Director, Social Science D-Lab at at University of California, Berkeley. David J. Harding has taught quantitative methods for over ten years at both the University of Michigan and UC Berkeley. In his own research, he has used various methods for causal inference, including propensity score matching, sensitivity analysis, inverse probability of treatment weighting, panel data models, regression with residuals, field experiments, and natural experiments. His recent work has appeared in the American Sociological Review, American Journal of Sociology, Social Forces, Proceedings of the National Academy of Science, and Nature Human Behaviour, among other journals.
+     website: https://sociology.berkeley.edu/faculty/david-j-harding
+
 organizers:
   title: Organizers
   people:
