@@ -2,17 +2,17 @@ organizers:
   title: Organizers
   people:
     - name: Jae Yeon Kim
-      image: /assets/images/jae_yeon_kim.jpeg
+      image: /assets/images/jae_yeon_kim.png
       bio: Jae Yeon Kim is a PhD candidate in Political Science, a D-Lab data science fellow, and a data science education program fellow at UC Berkeley. He uses behavioral science, statistics, and data science tools to study how people think and behave with a focus on diversity and inclusion issues. His award-winning dissertation applies computational, statistical, and qualitative methods to understand what unites racial minority groups in the United States. His most recent research interest is narrowing the gap between the ethics and practice of using machine learning.
       website: https://jaeyk.github.io/
 
     - name: Jaren Haber
       image: /assets/images/jaren_haber.png
-      bio: Jaren Haber is a PhD candidate in sociology at the University of California, Berkeley. His research applies computational methods to study how organizational contexts shape the impacts of structural inequalities. Jaren has studied whether charter school identities reinforce stratification by race and class, and at SICSS 2019 he joined Nick and Jae (fellow BAY-SICSS organizers) to conduct experiments evidencing how school websites' racial cues influence perceptions of school quality. He also studies text analysis workflows for social science. Jaren is currently on the job market and appreciates referrals. (
+      bio: Jaren Haber is a PhD candidate in sociology at the University of California, Berkeley. His research applies computational methods to study how organizational contexts shape the impacts of structural inequalities. Jaren has studied whether charter school identities reinforce stratification by race and class, and at SICSS 2019 he joined Nick and Jae (fellow BAY-SICSS organizers) to conduct experiments evidencing how school websites' racial cues influence perceptions of school quality. He also studies text analysis workflows for social science. Jaren is currently on the job market and appreciates referrals.
       website: https://www.jarenhaber.com/
 
     - name: Nick Camp
-      image: /assets/images/nick_camp.jpg
+      image: /assets/images/nick_camp.png
       bio: Nick Camp is a postdoctoral researcher at Stanford University, where he received his PhD in social psychology in 2018. His research examines racial disparities in the everyday encounters between police officers and citizens, drawing on a range of methods, from computational studies of officer body-worn camera footage, experiments in community and lab settings, to analyses of traffic stop data. Starting Fall 2020, Nick will be an assistant professor of Organizational Studies at the University of Michigan.
       website: https://ncamp.people.stanford.edu/
       
@@ -20,15 +20,15 @@ teachingassistants:
   title: Teaching Assistants 
   people:
     - name: AJ Alvero
-      image: /assets/images/Alvero_KBAKT.jpeg
-      bio: AJ is a PhD candidate in Education at Stanford University. His research lies at the intersection of the sociology of education, sociolinguistics, and data science. His ongoing dissertation work examines a large corpus of college admissions essays written by Latinx identifying students to understand the relationships between an applicant's context and the content of their essay. Outside of research, AJ has experience with activism and advocacy in his hometown of Salinas, CA. Prior to starting the PhD program, AJ was a high school English teacher in Miami, FL
+      image: /assets/images/Alvero_KBAKT.jpg
+      bio: AJ is a PhD candidate in Education at Stanford University. His research lies at the intersection of the sociology of education, sociolinguistics, and data science. His ongoing dissertation work examines a large corpus of college admissions essays written by Latinx identifying students to understand the relationships between an applicant's context and the content of their essay. Outside of research, AJ has experience with activism and advocacy in his hometown of Salinas, CA. Prior to starting the PhD program, AJ was a high school English teacher in Miami, FL.
       
     - name: Emily Grabowski
       image: /assets/images/emily_grabowski.jpeg
       bio: Emily Grabowski is a PhD student in linguistics at UC Berkeley. Her research combines computational and experimental approaches to investigate the relationship between speech perception and production. She also explores applications of machine learning to speech, including the use of supervised and unsupervised methods to discover structure and applications in speech.
   
     - name: Irene Farah
-      image: /assets/images/Irene_farah.jpeg
+      image: /assets/images/Irene_farah.png
       bio: Irene is a PhD student in City & Regional Planning at UC Berkeley. Irene’s interests lie at the intersection of sociology, public health, and urban analytics. Her current research examines how macro socioeconomic and political structures affect low-income individuals’ health outcomes in cities. In particular, the role that big corporations play in structuring the food environment and how it affects ultra-processed food exposure at different spatial scales.
     
     - name: Mahnaz Roshanaei 
@@ -37,9 +37,9 @@ teachingassistants:
  
     - name: Saqib Mumtaz
       image: /assets/images/SaqibMChouhdary.jpg
-      bio: Saqib is a PhD student at the Haas School of Business, UC Berkeley. He completed a bachelor's degree in Electrical Engineering from Indian Institute of Technology and a master's degree in Public Policy from the Goldman School of Public Policy. He previously worked on technology policy issues in the Indian context. His research interests include entrepreneurship, technology and innovation policy, and social networks
+      bio: Saqib is a PhD student at the Haas School of Business, UC Berkeley. He completed a bachelor's degree in Electrical Engineering from Indian Institute of Technology and a master's degree in Public Policy from the Goldman School of Public Policy. He previously worked on technology policy issues in the Indian context. His research interests include entrepreneurship, technology and innovation policy, and social networks.
 
     - name: Tyler McDaniel
-      image: /assets/images/tyler_mcdaniel.jpeg
+      image: /assets/images/tyler_mcdaniel.JPG
       bio: Tyler is a PhD student studying sociology at Stanford University. His current research focuses on school policies and individuals’ daily experiences with segregation. Using survey data, he compares racial and socioeconomic segregation experienced - in locations such as friends’ homes, places of worship, and shopping centers - by students who make different school choices. Broadly, he is interested in spatial inequalities, meritocracy, and predictive algorithms.
      
