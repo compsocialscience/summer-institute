@@ -49,8 +49,8 @@
   name: "Measurement (Susumu Shikano)"
   events:
     - name: "9:00 - 9:15 Logistics"
-    - name: "9:15 - 10:00 Basics of measurement and the classical test theory”
-    - name: "10:00 - 10:30 Item response theory”
+    - name: "9:15 - 10:00 Basics of measurement and the classical test theory"
+    - name: "10:00 - 10:30 Item response theory"
     - name: "10:30 - 10:45 Coffee break"
     - name: "10:45 - 11:30 Asking questions"
     - name: "11:30 - 12:30 Estimating latent traits"
