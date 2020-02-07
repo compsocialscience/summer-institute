@@ -16,7 +16,7 @@ The instructional program will involve lectures, group problem sets, and partici
 
 <a href="https://www.kellogg.northwestern.edu/" target="_"><img src="https://www.northwestern.edu/brand/images/Kellogg_horizontal_new.jpg" height="120px" style="padding:10px;"></a>
 
-<a href="https://www.nico.northwestern.edu/" target="_"><img src="/assets/images/NICO Logo Purple Transparent.png" height="60px" style="padding:10px;"></a>
+<a href="https://www.nico.northwestern.edu/" target="_"><img src="/assets/images/NICOLogoPurpleTransparent.png" height="60px" style="padding:10px;"></a>
 
 </div></center>
 
