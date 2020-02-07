@@ -7,7 +7,12 @@
   <div class="card mb-3">
     <div class="card-header">
       <h5>
-        <strong>{{ day.date | date: "%A %B %-d, %Y" }}</strong>
+        <strong>
+          {{ day.date | date: "%A %B %-d, %Y" }}
+          {% if day.name %}
+            - {{ day.name }}
+          {% endif %}
+        </strong>
       </h5>
     </div>
     <ul class="list-group list-group-flush">
