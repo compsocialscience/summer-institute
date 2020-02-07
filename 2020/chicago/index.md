@@ -19,5 +19,3 @@ The instructional program will involve lectures, group problem sets, and partici
 <a href="https://www.nico.northwestern.edu/" target="_"><img src="/assets/images/NICOLogoPurpleTransparent.png" height="60px" style="padding:10px;"></a>
 
 </div></center>
-
-<img src="https://www.reliablecounter.com/count.php?page=compsocialscience.github.io/summer-institute/2020/chicago/&digit=style/plain/25/&reloads=1" alt="reliablecounter.com" title="reliablecounter.com" border="0" width=1 height=1>
