@@ -1,6 +1,6 @@
 - name: Monica Alexander
-#  image: /assets/images/willhamilton1.jpg
-#  bio: "William L. Hamilton is an Assistant Professor of Computer Science at McGill University, a member of the Mila AI Institute of Quebec, and a Canada CIFAR Chair in AI. His research focuses on graph representation learning, as well as applications in computational social science and biology. William's doctoral thesis -Representation Learning Methods for Computational Social Science- received the 2018 Arthur L. Samuel Thesis Award for the best thesis in the Computer Science department at Stanford University. He also received the 2017 Cozzarelli Best Paper Award from PNAS for his work studying police-community interactions using machine learning. His work has been featured on the BBC, Wired, and in the New York Times."
+  image: /assets/images/Monica_Alexander.jpg
+  bio: "Monica Alexander is an Assistant Professor in Statistical Sciences and Sociology at the University of Toronto. Her research focuses on developing statistical methods to help measure demographic and health outcomes. She received a PhD in Demography and Masters in Statistics from the University of California, Berkeley. She has worked on research projects with organizations such as UNICEF, the World Health Organization, the Bill and Melinda Gates Foundation, and the Human Mortality Database."
   website: https://www.monicaalexander.com/
   
 - name: William L. Hamilton
