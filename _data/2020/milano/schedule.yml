@@ -1,5 +1,193 @@
-- date: 2020-06-15
-  name: "<b>Introduction and Ethics</b> (NYU Sociology Department)"
+- date: 2020-06-28
+  name: "<b>Arrivals</b> ()"
+  events: 
+    - name: "<b>Opening aperitivo and dinner</b>"
+      time: "19:30 - 22:30"
+
+- date: 2020-06-29
+  name: "<b>Introduction and Ethics</b> ()"
   events:
-    - name: "<b>Intro to SICSS NYU</b> by Carly Knight and Taylor Brown"
-      time: "09:00 - 09:20"
+    - name: "<b>Welcome address</b> by Francesco Billari"
+      time: "09:00 - 09:15"
+    - name: "<b>Intro to SICSS Milan</b> by Nicolò Cavalli and Taylor Brown"
+      time: "09:15 - 09:30"
+    - name: "<b>Stream from Duke</b>, What is CSS and Research Ethics"
+      time: "09:30 - 12:30"
+    - name: "<b>Lunch and flashtalks</b>"
+      time: "12:30 - 14:30"
+    - name: "<b>Break</b>"
+      time: "14:30 - 14:45"
+    - name: "<b>Group exercises</b>"
+      time: "14:45 - 16:00"
+    - name: "<b>Guest speaker</b> (TBD)"
+      time: "16:00 - 17:30"
+
+- date: 2020-06-30
+  name: "<b>Digital trace data</b> ()"
+  events:
+    - name: "<b>Housekeeping"
+      time: "09:00 - 09:30"
+    - name: "<b>Digital trace data</b>"
+      time: "09:30 - 11:15"
+    - name: "<b>Teabreak</b>"
+      time: "11:15 - 11:30"
+    - name: "<b>Digital trace data</b>"
+      time: "11:30 - 13:00"
+    - name: "<b>Lunch</b>"
+      time: "13:00 - 14:00"
+    - name: "<b>Guest speaker</b> (TBD)"
+      time: "14:00 - 15:15"
+    - name: "<b>Coffeebreak</b>"
+      time: "15:15 - 15:30"
+    - name: "<b>Digital trace data</b> workshop"
+      time: "15:30 - 17:30"
+    - name: "<b>Digital trace data</b> led by Jorge Cimentada"
+      time: "17:30 - 18:30"
+      
+- date: 2020-07-01
+  name: "<b>Automated text analysis</b> ()"
+  events:
+    - name: "<b>Housekeeping"
+      time: "09:00 - 09:30"
+    - name: "<b>Automated text analysis</b>, by Taylor Brown"
+      time: "09:30 - 11:15"
+    - name: "<b>Teabreak</b>"
+      time: "11:15 - 11:30"
+    - name: "<b>Automated text analysis</b>"
+      time: "11:30 - 13:00"
+    - name: "<b>Lunch</b>"
+      time: "13:00 - 14:00"
+    - name: "<b>Guest speaker</b> (TBD)"
+      time: "14:00 - 15:15"
+    - name: "<b>Coffeebreak</b>"
+      time: "15:15 - 15:30"
+    - name: "<b>Automated text analysis</b> workshop"
+      time: "15:30 - 17:30"
+    - name: "<b>Automated text analysis</b> led by Taylor Brown"
+      time: "17:30 - 18:30"    
+
+- date: 2020-07-02
+  name: "<b>Surveys in the age of big data</b> ()"
+  events:
+    - name: "<b>Housekeeping"
+      time: "09:00 - 09:30"
+    - name: "<b>Surveys in the age of big data</b>, by Nicolò Cavalli"
+      time: "09:30 - 11:15"
+    - name: "<b>Teabreak</b>"
+      time: "11:15 - 11:30"
+    - name: "<b>Surveys in the age of big data</b>"
+      time: "11:30 - 13:00"
+    - name: "<b>Lunch</b>"
+      time: "13:00 - 14:00"
+    - name: "<b>Guest speaker</b> (TBD)"
+      time: "14:00 - 15:15"
+    - name: "<b>Coffeebreak</b>"
+      time: "15:15 - 15:30"
+    - name: "<b>Surveys</b> workshop"
+      time: "15:30 - 17:30"
+    - name: "<b>Surveys</b> led by Friedo Merhout"
+      time: "17:30 - 18:30" 
+      
+- date: 2020-07-03
+  name: "<b>Machine learning</b> ()"
+  events:
+    - name: "<b>Housekeeping"
+      time: "09:00 - 09:30"
+    - name: "<b>Machine learning</b>"
+      time: "09:30 - 11:15"
+    - name: "<b>Teabreak</b>"
+      time: "11:15 - 11:30"
+    - name: "<b>Machine learning</b>"
+      time: "11:30 - 13:00"
+    - name: "<b>Lunch</b>"
+      time: "13:00 - 14:00"
+    - name: "<b>Guest speaker</b> (TBD)"
+      time: "14:00 - 15:15"
+    - name: "<b>Coffeebreak</b>"
+      time: "15:15 - 15:30"
+    - name: "<b>Machine learning</b> workshop"
+      time: "15:30 - 17:30"
+    - name: "<b>Machine learning</b> led by TBD"
+      time: "17:30 - 18:30" 
+      
+- date: 2020-07-04
+  name: "<b>Experiments</b> ()"
+  events:
+    - name: "<b>Housekeeping"
+      time: "09:00 - 09:30"
+    - name: "<b>Experiments</b> by Sonke Erhet"
+      time: "09:30 - 11:15"
+    - name: "<b>Teabreak</b>"
+      time: "11:15 - 11:30"
+    - name: "<b>Experiments</b>"
+      time: "11:30 - 13:00"
+    - name: "<b>Lunch</b>"
+      time: "13:00 - 14:00"
+    - name: "<b>Guest speaker</b> (TBD)"
+      time: "14:00 - 15:15"
+    - name: "<b>Coffeebreak</b>"
+      time: "15:15 - 15:30"
+    - name: "<b>Experiments</b> workshop"
+      time: "15:30 - 17:30"
+    - name: "<b>Experiments</b> led by Sonke Erhet"
+      time: "17:30 - 18:30"
+      
+      
+- date: 2020-07-06
+  name: "<b>Brainstorming day</b> ()"
+  events:
+    - name: "<b>structure of this day TBD</b>"
+
+- date: 2020-07-07
+  name: "<b>Group projects</b> ()"
+  events:
+    - name: "<b>Groups form</b>"
+      time: "09:15 - 11:30"
+    - name: "<b>Research talk (former SICSS participant)</b>"
+      time: "11:30 - 13:00"
+    - name: "<b>Lunch<b>"
+      time: "13:00 - 14:00"
+    - name: "<b>Groups work on project"
+      time: "14:00 - 17:00"
+    - name: "<b>Research talk</b>"
+      time: "17:15 - 18:30"
+ 
+ - date: 2020-07-08
+   name: "<b>Group projects</b> ()"
+   events:
+    - name: "<b>Groups work on project</b>"
+      time: "09:15 - 11:30"
+    - name: "<b>Research talk (former SICSS participant)</b>"
+      time: "11:30 - 13:00"
+    - name: "<b>Lunch<b>"
+      time: "13:00 - 14:00"
+    - name: "<b>Groups work on project"
+      time: "14:00 - 17:00"
+    - name: "<b>Research talk</b>"
+      time: "17:15 - 18:30"
+ 
+- date: 2020-07-09
+  name: "<b>Group projects</b> ()"
+  events:
+    - name: "<b>Groups work on project</b>"
+      time: "09:15 - 11:30"
+    - name: "<b>Research talk (former SICSS participant)</b>"
+      time: "11:30 - 13:00"
+    - name: "<b>Lunch<b>"
+      time: "13:00 - 14:00"
+    - name: "<b>Groups work on project"
+      time: "14:00 - 17:00"
+    - name: "<b>Research talk</b>"
+      time: "17:15 - 18:30"
+    
+- date: 2020-07-09
+  name: "<b>Group presentations</b> ()"
+  events:
+    - name: "<b>Groups prepare presentations</b>"
+      time: "09:15 - 11:30"
+    - name: "<b>Lunch<b>"
+      time: "13:00 - 14:00"
+    - name: "<b>Groups present"
+      time: "14:00 - 18:00"
+    - name: "<b>Farewell dinner</b>
+      time: "19:00 - 22:30"
