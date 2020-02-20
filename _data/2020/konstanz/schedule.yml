@@ -60,17 +60,17 @@
     - name: "4:00 - 5:30 Guest speaker: t.b.a"
 
 - date: 2020-07-24
-  name: "Generalization from nonprobability samples (Peter Selb)"
+  name: "Generalization of study results (Peter Selb)"
   events:
     - name: "9:00 - 9:15 Logistics"
     - name: "9:15 - 10:15 Conceptual foundations: total error approach and selection graphs"
     - name: "10:15 - 10:30 Coffee break"
-    - name: "10:30 - 11:45 Empirical strategies 1: weighting, calibration"
-    - name: "11:45 - 12:30 Empirical strategies 2: imputation"
+    - name: "10:30 - 11:45 Adjustment strategies 1: regression, propensity socres, poststratification"
+    - name: "11:45 - 12:30 Adjustment strategies 2: machine learning and other current approaches"
     - name: "12:30 - 1:30 Lunch"
     - name: "1:30 - 3:45 Group exercise"
     - name: "3:45 - 4:00 Break"
-    - name: "4:00 - 5:30 Guest speaker: t.b.a"
+    - name: "4:00 - 5:30 Guest speaker: Annelies Blom"
 
 - date: 2020-07-25
   name: "Online experiments on digital media channels (Karsten Donnay, Philipp Kling)"
