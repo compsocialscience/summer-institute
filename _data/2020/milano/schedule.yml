@@ -1,3 +1,118 @@
-- date: 2020-07-28
+- date: 2020-06-29
+  name: "<b>Arrivals</b> ()"
+  events: 
+    - name: "<b>Opening dinner</b>">
+    - time: "19:00 - 21:00"
+
+- date: 2020-06-29
+  name: "<b>Introduction and Ethics</b> ()"
   events:
-    - name: "Schedule coming soon..."
+    - name: "<b>Intro to SICSS NYU</b> by Nicolo Cavali and Taylor Brown"
+      time: "09:00 - 09:20"
+    - name: "<b>Stream from Duke</b>, What is CSS and Research Ethics"
+      time: "09:30 - 12:30"
+    - name: "<b>Lunch and flashtalks</b>"
+      time: "12:30 - 14:30"
+    - name: "<b>Break</b>"
+      time: "14:30 - 14:45"
+    - name: "<b>Group exercises</b>"
+      time: "14:45 - 16:00"
+    - name: "<b>Guest speaker</b> (TBD)"
+      time: "16:00 - 17:30"
+
+
+- date: 2020-06-30
+  name: "<b>Collecting Digital Trace Data</b> ()"
+  events:
+    - name: "<b>Housekeeping announcements</b>"
+      time: "09:00 - 09:15"
+    - name: "<b>Digital trace data</b>"
+      time: "9:15 - 12:30"
+    - name: "<b>Lunch</b>"
+      time: "12:30 - 13:30"
+    - name: "<b>Group Exercises</b>"
+      time: "13:30 - 15:45"
+    - name: "<b>Break</b>"
+      time: "15:45 - 16:00"
+    - name: "<b>Guest speaker</b> (TBD)"
+      time: "16:00 - 17:30"
+
+- date: 2020-07-01
+  name: "<b>Computational Text Analysis</b> ()"
+  events:
+    - name: "<b>Housekeeping announcements</b>"
+      time: "09:00 - 09:15"
+    - name: "<b>Computational Text Analysis</b>"
+      time: "9:15 - 12:30"
+    - name: "<b>Lunch</b>"
+      time: "12:30 - 13:30"
+    - name: "Group Exercises"
+      time: "13:30 - 15:45"
+    - name: "Break"
+      time: "15:45 - 16:00"
+    - name: "<b>Guest speaker</b> (TBD)"
+      time: "16:00 - 17:30"
+
+- date: 2020-07-02
+  name: "<b>Surveys in the Digital Age</b> ()"
+  events:
+    - name: "<b>Housekeeping announcements</b>"
+      time: "09:00 - 09:15"
+    - name: "<b>Survey research in the digital age</b>, Livestream by Matt Salganik <br> <i>Demographic Inference and Representative Population Estimates from Multilingual Social Media Data</i>"
+      time: "9:15 - 12:30"
+    - name: "<b>Lunch</b>"
+      time: "12:30 - 13:30"
+    - name: "<b>Group Exercises</b>"
+      time: "13:30 - 15:45"
+    - name: "<b>Break</b>"
+      time: "15:45 - 16:00"
+    - name: "<b>Guest speaker</b> (TBD)"
+      time: "16:00 - 17:30"
+
+- date: 2020-07-03
+  name: "<b>Machine Learning</b> ()"
+  events:
+    - name: "<b>Housekeeping announcements</b>"
+      time: "09:00 - 09:15"
+    - name: "<b>Machine learning in Social Science</b>"
+      time: "9:15 - 12:30"
+    - name: "<b>Lunch</b>"
+      time: "12:30 - 13:30"
+    - name: "<b>Group Exercises</b>"
+      time: "13:30 - 15:45"
+    - name: "<b>Break</b>"
+      time: "15:45 - 16:00"
+    - name: "<b>Guest speaker</b> (TBD)"
+      time: "16:00 - 17:30"
+    - name: "<b>Closing dinner</b>"
+      time: "18:00 - 21:00"
+
+- date: 2020-07-06
+  name: "<b>Brainstorming day</b> ()"
+  events:
+    - name: "<b>Housekeeping announcements</b>"
+      time: "09:00 - 09:15"
+      
+- date: 2020-07-07
+  name: "<b>Group projects</b> ()"
+  events:
+    - name: "<b>Housekeeping announcements</b>"
+      time: "09:00 - 09:15"
+
+- date: 2020-07-08
+  name: "<b>Group projects</b> ()"
+  events:
+    - name: "<b>Housekeeping announcements</b>"
+      time: "09:00 - 09:15"
+
+- date: 2020-07-09
+  name: "<b>Group projects</b> ()"
+  events:
+    - name: "<b>Housekeeping announcements</b>"
+      time: "09:00 - 09:15"
+
+- date: 2020-07-10
+  name: "<b>Presentations</b> ()"
+  events:
+    - name: "<b>Housekeeping announcements</b>"
+      time: "09:00 - 09:15"
