@@ -16,9 +16,9 @@ Participation is restricted to Ph.D. students, postdoctoral researchers, and unt
 We evaluate applicants along a number of dimensions:
  - Research and teaching in the area of computational social science
  - Contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others
- -Likelihood to benefit from participation
- -Likelihood to contribute to the educational experience of other participants
- -Potential to spread computational social science to new intellectual communities and areas of research.
+ - Likelihood to benefit from participation
+ - Likelihood to contribute to the educational experience of other participants
+ - Potential to spread computational social science to new intellectual communities and areas of research.
  
  Further, when making our evaluations, attempt to account for an applicant’s career stage and previous educational opportunities.
 
@@ -29,9 +29,9 @@ We evaluate applicants along a number of dimensions:
 ---
 
 Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum two pages double-spaced) describing
--Your current research
--Why you want to participate in SICSS Los Angeles
--How participation will aid your future research
+- Your current research
+- Why you want to participate in SICSS Los Angeles
+- How participation will aid your future research
 All applications must include an e-mail and an alternative means of contact (e.g., phone number).
 
 To apply, click [here](https://forms.gle/ZkqspfNKPxGT1R55A).
