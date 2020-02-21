@@ -108,3 +108,11 @@
       time: "12:00 - 13:30"
     - name: "<b>Work on Group Projects</b>"
       time: "13:30 - 17:00"
+
+- date: 2020-06-26
+  name: "<b>Present Group Projects</b>"
+  events:
+    - name: "<b>Presentations</b>"
+      time: "10:00 - 12:30"
+    - name: "<b>Closing Lunch</b>"
+      time: "13:00 - 15:00"
