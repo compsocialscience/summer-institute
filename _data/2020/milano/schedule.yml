@@ -1,5 +1,93 @@
-- date: 2020-06-15
-  name: "<b>Introduction and Ethics</b> (NYU Sociology Department)"
+- date: 2020-06-28
+  name: "<b>Participants arrive</b> ()"
   events:
-    - name: "<b>Intro to SICSS NYU</b> by Carly Knight and Taylor Brown"
-      time: "09:00 - 09:20"
+    - name: "<b>Opening aperitivo and dinner</b>"
+      time: "19:30 - 21:30"
+
+- date: 2020-06-29
+  name: "<b>Introduction to CSS & Research Ethics</b> ()"
+  events:
+    - name: "<b>Opening remarks</b> by Francesco Billari"
+      time: "09:00 - 09:15"
+    - name: "<b>Housekeeping announcements </b>"
+      time: "9:15 - 9:30"
+    - name: "<b>Introductions</b>"
+      time: "9:30 - 11:15"
+    - name: "<b>Coffee Break</b>"
+      time: "11:15 - 11:30"
+    - name: "<b>Introduction to computational social science</b>"
+      time: "11:30 - 13:00"
+    - name: "<b>Lunch</b> (TBD)"
+      time: "13:00 - 14:00"
+    - name: "<b>Research ethics</b>"
+      time: "14:30 - 15:15"
+    - name: "<b>Coffee break</b>"
+      time: "15:15 - 15:30"
+    - name: "<b>Research ethics</b> workshop"
+      time: "15:30 - 17:30"
+    - name: "<b>Research ethics</b> group exercises"
+      time: "17:30 - 18:30"
+
+- date: 2020-06-30
+  name: "<b>Collecting Digital Trace Data</b> ()"
+  events:
+    - name: "<b>Housekeeping announcements</b>"
+      time: "09:00 - 09:15"
+      
+- date: 2020-07-01
+  name: "<b>Automated text analysis</b> ()"
+  events:
+    - name: "<b>Housekeeping announcements</b>"
+      time: "09:00 - 09:15"
+           
+- date: 2020-07-02
+  name: "<b>Surveys in the age of big data</b> ()"
+  events:
+    - name: "<b>Housekeeping announcements</b>"
+      time: "09:00 - 09:15"
+      
+- date: 2020-07-03
+  name: "<b>Machine learning</b> ()"
+  events:
+    - name: "<b>Housekeeping announcements</b>"
+      time: "09:00 - 09:15"
+      
+- date: 2020-07-04
+  name: "<b>Experiments </b> ()"
+  events:
+    - name: "<b>Housekeeping announcements</b>"
+      time: "09:00 - 09:15"
+      
+- date: 2020-07-05
+  name: "<b>Day off</b>"
+  events:
+
+- date: 2020-07-06
+  name: "<b>Weird day</b> ()"
+  events:
+    - name: "<b>Housekeeping announcements</b>"
+      time: "09:00 - 09:15"
+
+- date: 2020-07-07
+  name: "<b>Groups projects</b> ()"
+  events:
+    - name: "<b>Housekeeping announcements</b>"
+      time: "09:00 - 09:15"
+
+- date: 2020-07-08
+  name: "<b>Group projects</b> ()"
+  events:
+    - name: "<b>Housekeeping announcements</b>"
+      time: "09:00 - 09:15"
+        
+- date: 2020-07-09
+  name: "<b>Group projects</b> ()"
+  events:
+    - name: "<b>Housekeeping announcements</b>"
+      time: "09:00 - 09:15"
+ 
+- date: 2020-07-10
+  name: "<b>Group presentations</b> ()"
+  events:
+    - name: "<b>Housekeeping announcements</b>"
+      time: "09:00 - 09:15"
