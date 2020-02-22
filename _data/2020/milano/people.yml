@@ -32,6 +32,10 @@ faculty:
 localspeakers:
   title: Local Speakers
   people:
+    - name: Milena Tsvetkova
+      image: /assets/images/milena_tsvetkova.jpg
+      bio: Milena Tsvetkova is an Assistant Professor in the Department of Methodology at the London School of Economics and Political Science. She completed her PhD in Sociology at Cornell University in 2015. Prior to joining LSE, she was a Postdoctoral Researcher in Computational Social Science at the Oxford Internet Institute, University of Oxford. Milena’s research interests lie in the fields of computational and experimental social science. In her research, she uses large-scale web-based social interaction experiments, network analysis of online data, and agent-based modeling to investigate fundamental social phenomena such as cooperation, social contagion, segregation, and inequality.
+      website: http://tsvetkova.me/
   
 workshopleaders:
   title: Workshop Leaders
