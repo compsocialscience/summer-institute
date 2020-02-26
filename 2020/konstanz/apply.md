@@ -16,14 +16,13 @@ The Summer Institute aims to bring together computational social scientists acro
 
 The aim of this partner location is to build and expand a network of computational social scientists in Germany. We invite applications not only from participants with a background in both computational methods and social science, but especially from those who seek to acquire new skills in either of these domains. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research.
 
-To apply please visit: [https://forms.gle/wPnR2pngoXE7uFRLA](https://forms.gle/wPnR2pngoXE7uFRLA)
-  
-
-On this form, we ask that you provide some basic information about yourself and your academic background. To be considered, all applicants must submit the following documents in English via the link above: (i) a curriculum vitae, (ii) a statement (maximum two pages) describing both any current research and your interest in computational social science, (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. 
+We ask that you provide some basic information about yourself and your academic background. To be considered, all applicants must submit the following documents in English via the link above: (i) a curriculum vitae, (ii) a statement (maximum two pages) describing both any current research and your interest in computational social science, (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. 
 
 All applications must include an e-mail and an alternative means of contact (e.g. phone number). We can offer support grants to cover housing and travel costs for a limited number of non-local participants, up to a set cap. Please indicate in your application whether you want to be considered for receiving a support grant.
 
-In order to be guaranteed full consideration, all application materials must be received by **Tuesday, February 25**. We will notify applicants solely through e-mail in mid-March, and will ask participants to confirm their participation very soon thereafter. Inquiries can be sent to compsocsci.konstanz[at]gmail.com.
+~~In order to be guaranteed full consideration, all application materials must be received by **Tuesday, February 25**. We will notify applicants solely through e-mail in mid-March, and will ask participants to confirm their participation very soon thereafter. Inquiries can be sent to compsocsci.konstanz[at]gmail.com.~~
+
+Applications were due on Tuesday, February 25. We are no longer accepting applications.
 
 
 
