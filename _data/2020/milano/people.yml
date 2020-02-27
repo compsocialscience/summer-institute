@@ -40,6 +40,10 @@ localspeakers:
 workshopleaders:
   title: Workshop Leaders
   people:
+    - name: Jorge Cimentada
+      image: /assets/images/CimentadaJorge.png
+      bio: Jorge Cimentada has a PhD in Sociology from Pompeu Fabra University and is currently a Research Scientist at the Laboratory of Digital and Computational Demography at the Max Planck Institute for Demographic Research. His research is mainly focused on the study of educational inequality, inequality in spatial mobility and computational social science. He has worked on data science projects both in the private sector and in academic research and is interested in merging cutting edge machine learning techniques with classical social statistics. You can contact him through twitter at @cimentadaj.
+      website: cimentadaj.github.io
 
 participants:
   title: Participants
