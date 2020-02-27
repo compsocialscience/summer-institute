@@ -19,7 +19,7 @@ We welcome applicants from all backgrounds, especially applicants from groups un
 Please note that the language of instruction is English. 
 
 # How to Apply
-Applicants should submit their application via (this form)[https://forms.gle/evvyx8qf8Q9nSWg16]. 
+Applicants should submit their application via [this form](https://forms.gle/evvyx8qf8Q9nSWg16). 
 
 We ask applicants to upload: (i) a resume, and (ii) a statement of interest (maximum 2 pages single-spaced) describing your current role in public service and your interest in computational social science. 
 
