@@ -11,7 +11,7 @@ The instructional program will involve lectures and group problem sets during th
 
 Applications are invited from all interested individuals with particular emphasis on graduate students, postdoctoral researchers, and untenured faculty within 5 years of their Ph.D. There is no cost to participate, and we will provide lunch on all weekdays of the institute. Participation is not restricted by applicant's location, but we cannot provide support for travel or lodging in Copenhagen. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We anticipate to admit about twenty participants.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2020/copenhagen/apply) are due March 29, 2020.
+[Application materials](https://compsocialscience.github.io/summer-institute/2020/copenhagen/apply) are due March 29, 2020 and we aim to make admission decisions by mid-April.
 
 ## Sponsors
 
