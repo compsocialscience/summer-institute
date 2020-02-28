@@ -14,7 +14,7 @@ Participation is restricted to individuals who work in government. We will consi
 
 The Summer Institute aims to bring together participants across levels of technical experience. Participants with less experience coding, however, will be expected to complete a set of online learning modules on the R programming language. 
 
-We welcome applicants from all backgrounds, especially applicants from groups under-represented in computational social science and public service. We evaluate applicants along a number of dimensions: 1) past, current, and proposed future work using computational social science, 2) likelihood to benefit from participation, 3) likelihood to contribute to the educational experience of other participants, 4) likelihood to contribute to improving their organizations and communities. When making our evaluations, we attempt to account for an applicant?s career stage and previous educational opportunities.
+We welcome applicants from all backgrounds, especially applicants from groups under-represented in computational social science and public service. We evaluate applicants along a number of dimensions: 1) past, current, and proposed future work using computational social science, 2) likelihood to benefit from participation, 3) likelihood to contribute to the educational experience of other participants, 4) likelihood to contribute to improving their organizations and communities. When making our evaluations, we attempt to account for an applicant's career stage and previous educational opportunities.
 
 Please note that the language of instruction is English. 
 
