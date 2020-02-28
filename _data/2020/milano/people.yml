@@ -29,6 +29,13 @@ faculty:
       bio: Associate Professor in the Department of Political and Social Sciences at the University of Bologna
       website: https://www.unibo.it/sitoweb/marco.albertini2/en
 
+teachingassistant:
+  title: Teaching Assistants
+  people:
+    - name: Adriana Manna
+      image: /assets/images/adriana_manna.jpg
+      bio: Adriana is a Research Assistant at Dondena Research Centre and a  Teaching Assistant of two MSc courses at Bocconi University: Simulation and Modelling and Social Media Marketing. She is a passionate researcher. Leveraging  Network Science, Mathematical Modelling and Simulation techniques she aims to investigate the mechanisms governing the evolution of socio-demographic processes . She holds a MSc in Economic and Social Sciences and a BSc in Economics from Bocconi University.
+      
 localspeakers:
   title: Local Speakers
   people:
