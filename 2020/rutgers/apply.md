@@ -11,7 +11,7 @@ partner_site: rutgers
 
 ---
 
-Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty. About 20 participants will be invited. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We are also especially interested in applicants whose research seeks to contribute to social progress (broadly conceived), particularly research related to the study of race, gender, sexuality, or systemic social and economic inequality. Preference will be given to applicants from Rutgers and nearby institutions in order to help build a regional community of computational social science researchers, but all applications will be given consideration.
+Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty. We welcome applicants from all backgrounds and fields of study, and especially encourage applicants from groups currently under-represented in computational social science. We are also especially interested in applicants whose research seeks to contribute to social progress (broadly conceived), particularly research related to the study of race, gender, sexuality, or systemic social and economic inequality.  All applications will be given consideration.
 <br />
 
 <br />
@@ -28,10 +28,12 @@ We hope to assemble a diverse set of participants across many backgrounds and le
 
 Applicants must submit the following documents here: https://forms.gle/b1EoxXHF9xYLypMV9: 
 <br />
-(i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science, (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. The writing sample may, but does not have to, show familiarity with computational social science tools.
+(i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science, (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample. The writing sample may, but does not have to, show familiarity with computational social science tools.
 <br />
 
-Please note: we have removed the requirement for a letter of recommenndation. We understand that this may be difficult to acquire for some applicants.
+<br />
+Please note: we have removed the requirement for a letter of recommendation. We welcome all applicants and recognize it might not be feasible for everyone to acquire a letter. We look forward to reviewing your other materials!
+<br />
 
 **In order to be guaranteed full consideration, all application materials must be submitted before March 30, 2020. Applicants will be notified approximately 2 weeks after the deadline and will be asked to confirm their participation soon after that.
 
