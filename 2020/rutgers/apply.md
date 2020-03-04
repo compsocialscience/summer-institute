@@ -31,8 +31,7 @@ Applicants must submit the following documents here: https://forms.gle/b1EoxXHF9
 (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science, (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. The writing sample may, but does not have to, show familiarity with computational social science tools.
 <br />
 
-<br />
-Applicants who are graduate students or postdoctoral researchers must submit one letter of recommendation from a faculty advisor. Letters of recommendation should be as informative as possible about your standing in your program, general ability, research potential, and (if applicable) special interest in computational social science. Recommendation letters must be submitted by the recommender via email to sicssrutgers@gmail.com with the subject line "Recommendation for [APPLICANT NAME]."
+Please note: we have removed the requirement for a letter of recommenndation. We understand that this may be difficult to acquire for some applicants.
 
 **In order to be guaranteed full consideration, all application materials must be submitted before March 30, 2020. Applicants will be notified approximately 2 weeks after the deadline and will be asked to confirm their participation soon after that.
 
