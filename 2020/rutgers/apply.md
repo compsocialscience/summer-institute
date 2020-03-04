@@ -11,7 +11,7 @@ partner_site: rutgers
 
 ---
 
-Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty. We welcome applicants from all backgrounds and fields of study, and especially encourage applicants from groups currently under-represented in computational social science. We also encourage those to apply whose research seeks to contribute to social progress (broadly conceived), particularly research related to the study of race, gender, sexuality, or systemic social and economic inequality.  
+Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty. We welcome applicants from all backgrounds and fields of study, and especially encourage applicants from groups currently under-represented in computational social science. We also encourage those to apply whose research seeks to contribute to social progress (broadly conceived), particularly research related to the study of race, gender, sexuality, or systemic social and economic inequality. Please note: You do not have to be a Rutgers affiliate to attend the institute.  
 <br />
 
 <br />
