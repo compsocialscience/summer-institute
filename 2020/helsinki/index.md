@@ -21,3 +21,5 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 About twenty participants will be invited, and participants are expected to fully attend and participate in the entire two-week program.
 
 Application materials are due on March 27th noon (GMT+2), 2020.
+
+We thank [Helsinki Institute for Information Technology HIIT](https://www.hiit.fi/) for their support for this activity.
