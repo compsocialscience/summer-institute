@@ -5,7 +5,7 @@ main: true
 image: /assets/images/Montreal_photo.jpg
 ---
 
-From the evening of Sunday, June 14 to the morning of Saturday, June 27, 2020, the Russell Sage Foundation will sponsor the Summer Institute in Computational Social Science, to be held in Montréal. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived). The organizer and principal faculty of the Summer Institute is Visseho Adjiwanou, professor at the department of Sociology at the [Université du Québec à Montréal](https://uqam.ca/).
+From the evening of Sunday, June 14 to the morning of Saturday, June 27, 2020, the Russell Sage Foundation and IVADO will sponsor the Summer Institute in Computational Social Science, to be held in Montréal. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived). The organizer and principal faculty of the Summer Institute is Visseho Adjiwanou, professor at the department of Sociology at the [Université du Québec à Montréal](https://uqam.ca/).
 
 The instructional program will involve lectures, group problem sets, and participant-led research projects. There will also be outside speakers who conduct computational social science research in a variety of settings, such as academia, industry, and government. Topics covered include text as data, website scraping, digital field experiments, non-probability sampling, mass collaboration, and ethics. There will be ample opportunities for students to discuss their ideas and research with the organizers, other participants, and visiting speakers. Because we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute will be released open source.
 
@@ -16,3 +16,10 @@ About thirty participants will be invited, and participants are expected to full
 [Application materials](https://compsocialscience.github.io/summer-institute/2020/montreal/apply) are due by Tuesday, March 10, 2020. If you will need a visa, don't wait the last minute to apply.
 
 We will notify applicants solely through e-mail in end-March, and ask participants to confirm their participation very soon thereafter. Inquiries can be sent to <sicss.montreal@gmail.com>.
+
+**SICSS-Montreal is generously supported by the Russell Sage Foundation and IVADO:**
+<center><div>
+
+<a href="https://ivado.ca/" target="_"><img src="/summer-institute/blob/master/assets/images/IVADO_logo.png" height="120px" style="padding:10px;"></a>
+
+</div></center>
