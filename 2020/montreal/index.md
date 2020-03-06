@@ -22,6 +22,6 @@ We will notify applicants solely through e-mail in end-March, and ask participan
 
 <center><div>
 
-<a href="https://ivado.ca/" target="_"><img src="assets/images/IVADO_logo.png" height="120px" style="padding:10px;"></a>
+<a href="https://ivado.ca/" target="_"><img src="assets/images/IVADO_logo.png" style="padding:10px;"></a>
 
 </div></center>
