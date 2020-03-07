@@ -5,7 +5,9 @@ main: true
 image: /assets/images/beijing.jpg
 ---
 
-From June 14 to June 26 (**Please note that the schedule may be affected or postponed by the current coronavirus outbreak**), Tsinghua University will sponsor a Summer Institute in Computational Social Science, to be held in Beijing, China. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived). 
+**SICSS 2020 BEIJING IS POSTPONED TO 2021 DUE TO COVID-19 CONCERNS.** 
+
+~~From June 14 to June 26~~Tsinghua University will sponsor a Summer Institute in Computational Social Science, to be held in Beijing, China. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived). 
 
 The instructional program will involve lectures, group problem sets, and participant-led research projects. There will also be outside speakers who conduct computational social science research in a variety of settings, such as academia, industry, and government. Topics covered include text as data, website scraping, digital field experiments, non-probability sampling, mass collaboration, and ethics. There will be ample opportunities for students to discuss their ideas and research with the organizers, other participants, and visiting speakers. Because we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute will be released open source.
 
