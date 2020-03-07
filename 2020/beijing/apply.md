@@ -6,7 +6,7 @@ partner_site: beijing
 <h1 class="display-4">Apply</h1>
 <br />
 
-**SICSS 2020 BEIJING IS POSTPONED TO 2021 DUE TO COVID-19 CONCERNS.**
+# SICSS 2020 BEIJING IS POSTPONED TO NEXT YEAR (2021) DUE TO COVID-19 CONCERNS.
 
 ### Eligibility
 
