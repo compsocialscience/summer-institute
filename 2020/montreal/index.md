@@ -20,8 +20,5 @@ We will notify applicants solely through e-mail in end-March, and ask participan
 
 **In addition to the SICSS core sponsors, SICSS-Montreal is generously sponsored by [IVADO](https://ivado.ca/):**
 
-<center><div>
+<img class="img-responsive" alt="IVADO Logo" src="{{ site.baseurl }}{% link 2020/montreal/images/logo-ivado.jpg %}" width = "200">
 
-<a href="https://ivado.ca/" target="_"><img src="2020/montreal/images/IVADO_logo.png" height="120px" style="padding:10px;"></a>
-
-</div></center>
