@@ -3,7 +3,11 @@
     - name: "6:00pm Opening Dinner (*Not open to public/No livestream*)"
 
 - date: 2020-06-15
-  name: Coming soon
+   events:
+    - name: "8:15am Breakfast (West Union)"
+    - name: "12:30pm Lunch (West Union)"
+    - name: "6:00pm Dinner (West Union)"
+
 
 - date: 2020-06-16
   name: Coming soon
