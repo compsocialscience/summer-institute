@@ -36,5 +36,5 @@ Any inquiries can be sent to sicssmaas@gmail.com.
 
 ---
 
-Thanks to the sponsorship by ING/Think Forward Iniative we are able to offer two scholarships (up to 1200 EUR) to participants outside of Maastricht to cover travel and accomodation expenses. <br>
+Thanks to the sponsorship by ING/Think Forward Initiative we are able to offer two scholarships (up to 1200 EUR) to participants outside of Maastricht to cover travel and accommodation expenses. <br>
 Maastricht is a student city without a housing campus, but all accepted applicants will be provided with information on available housing options. Throughout the duration of the Summer Institute, lunches and refreshments will be provided. There are no registration fees to attend the Institute.
