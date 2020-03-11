@@ -27,7 +27,7 @@ Nous accueillons les candidats de tous horizons et domaines d'études, en partic
 
 Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science, (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. All applications must include an e-mail and an alternative means of contact (e.g., phone number). 
 
-** DUE DATE EXTENDED**, all application materials must be submitted through the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdkjU5wQzPD7pgrjhlTQklNWQj0hsk_obqVSszy3ZsiKo08dw/viewform) by Wednesday, April 15, 2020.
+**DUE DATE EXTENDED**, all application materials must be submitted through the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdkjU5wQzPD7pgrjhlTQklNWQj0hsk_obqVSszy3ZsiKo08dw/viewform) by Wednesday, April 15, 2020.
 
 **In order to be guaranteed full consideration, all application materials must be submitted before Wednesday, April 15, 2020**. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail in mid-April, and will ask participants to confirm their participation very soon thereafter.
 
