@@ -13,10 +13,9 @@ Participation is restricted to Ph.D. students, postdoctoral researchers, untenur
 
 About thirty participants will be invited, and participants are expected to fully attend and participate in the entire two-week program. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R programming language. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours before the Institute.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2020/montreal/apply) are due by Tuesday, March 10, 2020. If you will need a visa, don't wait the last minute to apply.
+[Application materials](https://compsocialscience.github.io/summer-institute/2020/montreal/apply) are **extended to Wednesday, April 15th, 2020**. If you will need a visa, don't wait the last minute to apply.
 
-We will notify applicants solely through e-mail in end-March, and ask participants to confirm their participation very soon thereafter. Inquiries can be sent to <sicss.montreal@gmail.com>.
-
+We will notify applicants solely through e-mail in end-April, and ask participants to confirm their participation very soon thereafter. Inquiries can be sent to <sicss.montreal@gmail.com>.
 
 **In addition to the SICSS core sponsors, SICSS-Montreal is generously sponsored by [IVADO](https://ivado.ca/):**
 
