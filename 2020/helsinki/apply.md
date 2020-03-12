@@ -28,8 +28,6 @@ Applicants must submit the following documents: (i) a curriculum vitae, (ii) a s
 Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author.
 All applications must include an e-mail and an alternative means of contact (e.g., phone number).
 
-**In order to be guaranteed full consideration, all application materials must be submitted before March 27th noon (GMT+2), 2020.**
-
 Inquiries can be sent to grp-dcm-teaching@helsinki.fi.
 
-For application, please use [form](https://docs.google.com/forms/d/e/1FAIpQLSfAVwMuN9Ucn-OmPvZxCvbOqggcJh4v0OvxoI8hWTtyosHI4w/viewform?usp=sf_link).
+Helsinki SICSS is postponed to a later time in response to COVID-19.
