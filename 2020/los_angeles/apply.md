@@ -32,6 +32,7 @@ Applicants must submit the following documents: (i) a curriculum vitae, (ii) a s
 - Your current research
 - Why you want to participate in SICSS Los Angeles
 - How participation will aid your future research
+
 All applications must include an e-mail and an alternative means of contact (e.g., phone number).
 
 To apply, click [here](https://forms.gle/ZkqspfNKPxGT1R55A).
