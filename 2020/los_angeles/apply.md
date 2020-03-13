@@ -36,7 +36,8 @@ All applications must include an e-mail and an alternative means of contact (e.g
 
 To apply, click [here](https://forms.gle/ZkqspfNKPxGT1R55A).
 
-**~~In order to be guaranteed full consideration, all application materials must be submitted by March 12, 2020.~~In light of the current situation, we have extended the application deadline to Wednesday April 1, 2020. Applications will be reviewed on a rolling basis thereafter.**
+**~~In order to be guaranteed full consideration, all application materials must be submitted by March 12, 2020.~~
+We have extended the application deadline to Wednesday April 1, 2020. Applications will be reviewed on a rolling basis thereafter.**
 
 Inquiries can be sent to [sicss.ucla@gmail.com](mailto:sicss.ucla@gmail.com).
 
