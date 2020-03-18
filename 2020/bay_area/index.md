@@ -7,7 +7,7 @@ image: /assets/images/bay.jpg
 
 **Updates** 
 
-We are currently still planning to hold BAY-SICSS 2020, and depending on developments around COVID-19, the event may be held virtually. The application portal will remain open until a decision is made whether or not to cancel the event, and we encourage you to apply, if you haven’t already. For more information, contact baysicss2020@gmail.com. 
+We are currently still planning to hold BAY-SICSS 2020, and depending on developments around COVID-19, the event may be held virtually. You can find a full explanation on our view on COVID-19 [here](https://github.com/compsocialscience/summer-institute/blob/master/2020/bay_area/covid19.md). The application portal will remain open until a decision is made whether or not to cancel the event, and we encourage you to apply, if you haven’t already. For more information, contact baysicss2020@gmail.com.
 
 **Overview**
 
