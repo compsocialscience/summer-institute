@@ -5,7 +5,7 @@ main: true
 image: /assets/images/nyu.jpg
 ---
 
-\textcolor{purple}{**_ATTENTION:_  We are closely monitoring the progress of covid-19, especially in the New York City metropolitan area. We will take every precaution necessary to protect participants, staff, and the broader community. For now, we are not cancelling SICSS-NYU, but will make adjustments as necessary and as the situation progresses. We encourage participants to apply! We have implemented a rolling deadline until further notice. Please check back for updates.**}
+**_ATTENTION:_  We are closely monitoring the progress of covid-19, especially in the New York City metropolitan area. We will take every precaution necessary to protect participants, staff, and the broader community. For now, we are not cancelling SICSS-NYU, but will make adjustments as necessary and as the situation progresses. We encourage participants to apply! We have implemented a rolling deadline until further notice. Please check back for updates.**
 
 
 From the morning of June 15 to June 20 2020, New York University will sponsor a Summer Institute in Computational Social Science. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived). 
