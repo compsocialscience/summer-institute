@@ -5,7 +5,7 @@ main: true
 image: /assets/images/nyu.jpg
 ---
 
-> **_ATTENTION:_**  We are closely monitoring the progress of covid-19, especially in the New York City metropolitan area. We will take every precaution necessary to protect participants, staff, and the broader community. For now, we are not cancelling the SICSS-NYU, but will make adjustments as necessary and as the situation progresses. We encourage participants to apply! The deadline has been extended to May 1, 2020 at midnight EST.
+\textcolor{purple}{**_ATTENTION:_  We are closely monitoring the progress of covid-19, especially in the New York City metropolitan area. We will take every precaution necessary to protect participants, staff, and the broader community. For now, we are not cancelling SICSS-NYU, but will make adjustments as necessary and as the situation progresses. We encourage participants to apply! We have implemented a rolling deadline until further notice. Please check back for updates.**}
 
 
 From the morning of June 15 to June 20 2020, New York University will sponsor a Summer Institute in Computational Social Science. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived). 
@@ -14,4 +14,4 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About twenty participants will be invited, and participants are expected to fully attend and participate in the entire one-week program.
 
-Application materials are due by midnight EST on May 1, 2020.
+Application materials are accepted on a rolling basis until further notice. **Please check back often for updates and final deadline.**
