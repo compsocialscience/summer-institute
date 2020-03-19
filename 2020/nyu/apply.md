@@ -11,6 +11,9 @@ partner_site: nyu
 
 ---
 
+\textcolor{purple}{**_ATTENTION_: We are closely monitoring the progress of covid-19, especially in the New York City metropolitan area. We will take every precaution necessary to protect participants, staff, and the broader community. For now, we are not cancelling SICSS-NYU, but will make adjustments as necessary and as the situation progresses. We encourage participants to apply! We have implemented a rolling deadline until further notice. Please check back for updates.**}
+
+
 Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. 
 
 We will evaluate applicants along the following dimensions: 1) research and teaching in the area of computational social science; 2) likelihood to benefit from participation and 3)likelihood to contribute to and benefit from the educational experience of other participants. 
