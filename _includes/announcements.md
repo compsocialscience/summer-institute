@@ -1,1 +1,1 @@
-<!-- <div>Applications for the Duke location are due February 25th, 2020. <a href="/apply" class="btn btn-outline-dark btn-sm font-weight-bold">Apply Now</a></div> -->
+<div>Some locations of the 2020 Summer Institutes in Computational Social Science have been postponed because of COVID-19. Other locations are still planning to take place, but each organizer is monitoring the situation carefully.</div>

@@ -19,7 +19,7 @@ Participation is restricted to Ph.D. students, postdoctoral researchers, and unt
 
 ---
 
-Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science, (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. Applicants who are graduate students are strongly recommended to submit a letter of recommendation from a faculty advisor. Letters of recommendation should be as informative as possible about your standing in your program, general ability, research potential, and (if applicable) special interest in computational social science. 
+Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science, (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. Applicants who are graduate students are strongly recommended to submit a letter of recommendation from a faculty advisor to sicss.chicago@gmail.com. Letters of recommendation should be as informative as possible about your standing in your program, general ability, research potential, and (if applicable) special interest in computational social science. 
 
 Use [this form to apply](https://forms.gle/ZW85M2ckJtp7t4DGA) by March 30th, 2020.
 
