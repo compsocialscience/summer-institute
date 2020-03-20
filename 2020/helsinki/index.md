@@ -5,7 +5,10 @@ main: true
 image: /assets/images/helsinki.jpg
 ---
 
-From May 25th to June 5th, we organize a Summer Institute in Computational Social Science, to be held at Helsinki, Finland.
+**Helsinki SICSS postponed due to COVID-19.
+New dates are currently unknown.**
+
+We will organize a Summer Institute in Computational Social Science, to be held at Helsinki, Finland.
 The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science.
 The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
 
@@ -20,4 +23,4 @@ Participation is restricted to Masters and Ph.D. students, postdoctoral research
 We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science.
 About twenty participants will be invited, and participants are expected to fully attend and participate in the entire two-week program.
 
-Application materials are due on March 27th noon (GMT+2), 2020.
+We thank [Helsinki Institute for Information Technology HIIT](https://www.hiit.fi/) for their support for this activity.

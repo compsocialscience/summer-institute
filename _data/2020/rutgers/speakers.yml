@@ -16,7 +16,12 @@
 - name: Yanna Krupnikov
   image: /assets/images/yannakrupnikov.jpg
   bio: "Yanna Krupnikov is Associate Professor of Political Science at Stony Brook University."
-  website: https://www.yannakrupnikov.com/
+  website: https://www.yannakrupnikov.com/ 
+
+- name: Arvind Narayanan
+  image: /assets/images/arvindnarayanan.jpeg
+  bio: "Arvind Narayanan is an Associate Professor of Computer Science at Princeton."
+  website: https://www.cs.princeton.edu/~arvindn/bio/
   
 - name: Katherine Ognyanova
   image: /assets/images/KatherineOgnyanova.jpg

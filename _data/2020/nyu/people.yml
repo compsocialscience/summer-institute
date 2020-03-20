@@ -25,6 +25,19 @@ admin:
 localspeakers:
   title: Local Speakers
   people:
+    - name: Bennett Hillenbrand
+      image:
+      bio: Bennett Hillenbrand is Tooling and Data Product Manager for the Election Research Commission Project at Facebook, based in Washington DC.
+    - name: Suresh Naidu
+      image:
+      bio: Suresh Naidu is Professor in Economics and International and Public Affairs at SIPA, Columbia University. He teaches economics, political economy and development. Previously, he served as a Harvard Academy Junior Scholar at Harvard University, and as an instructor in economics and political economy at the University of California, Berkeley.
+    - name: Arthur Spirling
+      image:
+      bio: Arthur Spirling is Professor of Politics and Data Science at New York University. He is the Deputy Director and the Director of Graduate Studies (MSDS) at the Center for Data Science, and Chair of the Executive Committee of the Moore-Sloan Data Science Environment.
+    - name: Chris Wiggins
+      image: /assets/images/ChrisWiggins.jpg
+      bio: Chris Wiggins is an associate professor of applied mathematics at Columbia University and the Chief Data Scientist at The New York Times. At Columbia he is a founding member of the executive committee of the Data Science Institute, and of the Department of Systems Biology, and is affiliated faculty in Statistics. He is a co-founder and co-organizer of hackNY, a nonprofit which since 2010 has organized once a semester student hackathons and the hackNY Fellows Program.
+    
   
 workshopleaders:
   title: Workshop Leaders
