@@ -12,3 +12,5 @@ The instructional program will involve lectures, group problem sets, and partici
 Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. There are no registration fees to attend SICSS-Oxford and meals and refreshments will be provided free of cost for all participants at SICSS-Oxford during the event. For a limited number participants from outside Oxford, we will provide scholarship support to help cover accommodation and travel (up to a set cap). We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About twenty-five participants will be invited, and participants are expected to fully attend and participate in the entire two-week program.
 
 Application materials are due by Friday the 27th of March, at 23:59 GMT.
+
+**IMPORTANT NOTICE**: We have decided to extend the deadline for applications until **Friday the 1st of May**, at 23:59 GMT, due to the current circumstances. We continue to monitor the situation, and we will decide on how to proceed by the end of April.
