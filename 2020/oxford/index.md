@@ -13,4 +13,4 @@ Participation is restricted to Ph.D. students, postdoctoral researchers, and unt
 
 Application materials are due by Friday the 27th of March, at 23:59 GMT.
 
-**IMPORTANT NOTICE**: We have decided to extend the deadline for applications until **Friday the 1st of May**, at 23:59 GMT, due to the current circumstances. We continue to monitor the situation, and we will decide on how to proceed by the end of April.
+**IMPORTANT NOTICE: We have decided to extend the deadline for applications until Friday the 1st of May, at 23:59 GMT, due to the current circumstances. We continue to monitor the situation, and we will decide on how to procee by the end of April.**
