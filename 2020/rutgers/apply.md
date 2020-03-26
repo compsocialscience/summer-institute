@@ -10,6 +10,7 @@ partner_site: rutgers
 ### <a name="eligibility"></a>
 
 ---
+** Due to the current public health situation, we are extending the application deadline to April 13th. We are continually monitoring the situation and making determinations about how and whether the institute can go forward **
 
 Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty. We welcome applicants from all backgrounds and fields of study, and especially encourage applicants from groups currently under-represented in computational social science and those whose research seeks to contribute to social progress (broadly conceived), particularly research related to the study of race, gender, sexuality, or systemic social and economic inequality. Note: You do not need to be affiliated with Rutgers to attend the institute. 
 
@@ -30,7 +31,7 @@ Applicants must submit the following documents here: https://forms.gle/b1EoxXHF9
 
 Please note: we have removed the requirement for a letter of recommendation for graduate students. We welcome all applicants and recognize it might not be feasible for everyone to acquire a letter. We encourage all applications!
 
-**In order to be guaranteed full consideration, all application materials must be submitted before March 30, 2020. Applicants will be notified approximately 2 weeks after the deadline and will be asked to confirm their participation soon after that.
+**In order to be guaranteed full consideration, all application materials must be submitted before April 13, 2020. Applicants will be notified approximately 2 weeks after the deadline and will be asked to confirm their participation soon after that.
 
 Inquiries can be sent to sicssrutgers@gmail.com.
 
