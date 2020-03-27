@@ -33,7 +33,7 @@ Please submit your applications and the supporting documents listed above using 
 
 **Applications can be submitted in French or in English.**
 
-**In order to be guaranteed full consideration, all application materials must be submitted before March 20th, 2020.**
+**In order to be guaranteed full consideration, all application materials must be submitted before April 15th, 2020.**
 
 Inquiries can be sent to SICSSParis@gmail.com
 
