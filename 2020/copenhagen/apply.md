@@ -6,7 +6,7 @@ partner_site: copenhagen
 <h1 class="display-4">Apply</h1>
 <br />
 
-#### _Important Notice_: We are closely monitoring the developments surrounding the global COVID-19 outbreak, especially the official government and university responses to it. We will take every precaution necessary to protect participants, staff, and the broader community. At this point (March 27), we are still hoping to be able to host SICSS-Copenhagen in June and have decided to extend the application deadline until April 26th to provide interested individuals more time to apply. We will inform applicants about any changes to these plans via email and, for now, encourage all interested individuals to apply.
+**_Important Notice_: We are closely monitoring the developments surrounding the global COVID-19 outbreak, especially the official government and university responses to it. We will take every precaution necessary to protect participants, staff, and the broader community. At this point (March 27), we are still hoping to be able to host SICSS-Copenhagen in June and have decided to extend the application deadline until April 26th to provide interested individuals more time to apply. We will inform applicants about any changes to these plans via email and, for now, encourage all interested individuals to apply.**
 
 ### Eligibility
 ### <a name="eligibility"></a>
