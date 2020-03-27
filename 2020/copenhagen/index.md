@@ -11,7 +11,9 @@ The instructional program will involve lectures and group problem sets during th
 
 Applications are invited from all interested individuals with particular emphasis on PhD students, postdoctoral researchers, and untenured faculty within 5 years of their PhD. There is no cost to participate, and we will provide lunch on all weekdays of the institute. Participation is not restricted by applicant's location, and we are working to secure funds to support travel and lodging for a limited number of participants. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We anticipate to admit about twenty participants.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2020/copenhagen/apply) are due March 29, 2020 and we aim to make admission decisions by mid-April.
+#### _Important notice_: We are closely monitoring the developments surrounding the global COVID-19 outbreak, especially the official government and university responses to it. We will take every precaution necessary to protect participants, staff, and the broader community. At this point (March 27), we are still hoping to be able to host SICSS-Copenhagen in June and have decided to extend the application deadline until April 26th to provide interested individuals more time to apply. We will inform applicants about any changes to these plans via email and, for now, encourage all interested individuals to apply.
+
+[Application materials](https://compsocialscience.github.io/summer-institute/2020/copenhagen/apply) are due ~~March 29, 2020~~ April 26, 2020 and we aim to make admission decisions shortly thereafter.
 
 ## Sponsors
 
