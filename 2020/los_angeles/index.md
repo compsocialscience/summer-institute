@@ -12,3 +12,5 @@ The instructional program will involve lectures, group problem sets, and partici
 Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About forty participants will be invited, and participants are expected to fully attend and participate in the entire two-week program. This is a non-residential program, so unfortunately we cannot reimburse travel and lodging expenses. However, refreshments will be provided.
 
 **~~Application materials are due Thursday March 12, 2020.~~In light of the current situation, we are extending the deadline to Wednesday April 1, 2020. Applications will be reviewed on a rolling basis thereafter.**
+
+**UPDATE 3/31/2020: At this point we are considering holding SICSS Los Angeles on time, virtually. However the situation is still developing, and we will follow the lead of the main site.**
