@@ -5,7 +5,7 @@ main: true
 image: /assets/images/Bocconi.jpg
 ---
 
-### \*SICSS-Milano has been postponed due to COVID-19.\* 
+**\*SICSS-Milano has been postponed due to COVID-19.\***
 
 From June 29 to July 11, 2020, Bocconi University and Bologna University will sponsor a Summer Institute in Computational Social Science, to be held at Bocconi University. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived). 
 
