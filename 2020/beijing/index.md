@@ -5,7 +5,7 @@ main: true
 image: /assets/images/beijing.jpg
 ---
 
-# SICSS 2020 BEIJING IS POSTPONED TO NEXT YEAR (2021) DUE TO COVID-19 CONCERNS.
+### \*SICSS-Beijing has been postponed to next year (2021) due to COVID-19.\*
 
 ~~From June 14 to June 26~~Tsinghua University will sponsor a Summer Institute in Computational Social Science, to be held in Beijing, China. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived). 
 

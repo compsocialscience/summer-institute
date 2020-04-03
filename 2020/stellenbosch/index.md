@@ -5,7 +5,7 @@ main: true
 image: /assets/images/stellenbosch.jpg
 ---
 
-**SICSS-Stellenbosch is regrettably postponed due to the outbreak of COVID-19. We will reopen applications once we have a better idea of when we will be able to host the Institute.**
+### \*SICSS-Stellenbosch has been postponed due to COVID-19. We will reopen applications once we have a better idea of when we will be able to host the Institute.\*
 
 From 15 to 26 June 2020, the Department of Information Science at Stellenbosch University will host a Summer Institute in Computational Social Science, in Stellenbosch, South Africa. The purpose of the Summer Institute is to bring together postgraduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived). 
 
