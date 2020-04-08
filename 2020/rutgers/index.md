@@ -4,6 +4,7 @@ partner_site: rutgers
 main: true
 image: /assets/images/rutgerslibrary.jpg
 ---
+** Due to the current public health situation, we will no longer hold the SICSS-Rutgers program in person. We are looking into the possibility of proceeding with a virtual version over the same time period. As we resolve this uncertainty, we are continuing to extend the application deadline to April 23rd. We will post updates as soon as we have them. **
 
 From the morning of June 15 to 26, 2020, Rutgers University (New Brunswick, NJ) will host a partner site for the Summer Institute in Computational Social Science. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty in the regional area who are interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived). 
 
@@ -15,6 +16,6 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 In addition to the SICSS core sponsors, the Rutgers partner event is supported by DIMACS (the Center for Discrete Mathematics and Theoretical Computer Science) at Rutgers, the Rutgers-New Brunswick Libraries and the Rutgers Department of Political Science. 
 
-Application materials are due April 13, 2020. Inquiries may be sent to sicssrutgers@gmail.com.
+Application materials are due April 23, 2020. Inquiries may be sent to sicssrutgers@gmail.com.
 
 
