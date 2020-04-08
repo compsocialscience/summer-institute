@@ -4,7 +4,7 @@ partner_site: beijing
 schedule: true
 ---
 
-# SICSS 2020 BEIJING IS POSTPONED TO NEXT YEAR (2021) DUE TO COVID-19 CONCERNS.
+**ATTENTION: SICSS-Beijing has been postponed until 2021 due to COVID-19.**
 
 # Schedule
 
