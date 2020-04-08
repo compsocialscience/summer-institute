@@ -3,6 +3,9 @@ layout: location_detail
 partner_site: milano
 ---
 
+**ATTENTION: SICSS-Milano has been postponed due to COVID-19.**
+<br />
+
 <h1 class="display-4">Apply</h1>
 <br />
 
