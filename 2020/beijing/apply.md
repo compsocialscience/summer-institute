@@ -2,11 +2,9 @@
 layout: location_detail
 partner_site: beijing
 ---
-
-<h1 class="display-4">Apply</h1>
-
-
 **ATTENTION: SICSS-Beijing has been postponed until 2021 due to COVID-19.**
+<br />
+<h1 class="display-4">Apply</h1>
 <br />
 
 ### Eligibility
