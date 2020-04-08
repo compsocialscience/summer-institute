@@ -5,7 +5,7 @@ main: true
 image: /assets/images/helsinki.jpg
 ---
 
-**\*SICSS-Helsinki has been postponed due to COVID-19. New dates are currently unknown.\***
+**ATTENTION: SICSS-Helsinki has been postponed due to COVID-19. New dates are currently unknown.**
 
 We will organize a Summer Institute in Computational Social Science, to be held at Helsinki, Finland.
 The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science.
