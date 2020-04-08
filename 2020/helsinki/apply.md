@@ -3,6 +3,9 @@ layout: location_detail
 partner_site: helsinki
 ---
 
+**ATTENTION: SICSS-Helsinki has been postponed due to COVID-19. New dates are currently unknown.**
+<br />
+
 <h1 class="display-4">Apply</h1>
 <br />
 
