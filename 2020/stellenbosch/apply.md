@@ -3,11 +3,10 @@ layout: location_detail
 partner_site: stellenbosch
 ---
 
-**ATTENTION: SICSS-Stellenbosch has been postponed due to COVID-19. We will reopen applications once we have a better idea of when we will be able to host the Institute.**
-<br />
-
 <h1 class="display-4">Apply</h1>
 <br />
+
+**ATTENTION: SICSS-Stellenbosch has been postponed due to COVID-19. We will reopen applications once we have a better idea of when we will be able to host the Institute.**
 
 ### Eligibility
 ### <a name="eligibility"></a>
