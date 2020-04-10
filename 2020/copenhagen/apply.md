@@ -31,9 +31,9 @@ Applicants must submit the following documents:
     
 Co-authored work is acceptable for the writing sample (3), but if you submit co-authored work, we recommend that you include a few sentences describing your contributions to the document.
     
-Please submit your applications and the supporting documents listed above using [this application form](https://forms.gle/QYcNoA363roH3uxu7).
+~~Please submit your applications and the supporting documents listed above using this application form.~~
 
-**In order to be guaranteed full consideration, all application materials must be submitted by ~~11:59 PM CET on March 29th, 2020~~ 11:59 PM CET on April 26th, 2020.**  
+**~~In order to be guaranteed full consideration, all application materials must be submitted by 11:59 PM CET on April 26th, 2020.~~**  
 
 Inquiries can be sent to: sicss.cph@gmail.com.
 
