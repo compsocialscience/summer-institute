@@ -6,7 +6,7 @@ partner_site: milano
 <h1 class="display-4">Apply</h1>
 <br />
 
-**ATTENTION: SICSS-Milano has been postponed due to COVID-19.**
+**ATTENTION: SICSS-Milano has been postponed until 2021 due to COVID-19.**
 
 ### Eligibility
 ### <a name="eligibility"></a>
