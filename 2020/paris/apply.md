@@ -6,6 +6,8 @@ partner_site: paris
 <h1 class="display-4">Apply</h1>
 <br />
 
+ATTENTION: SICSS-Paris has been postponed until 2021 due to COVID-19.
+
 ### Eligibility
 ### <a name="eligibility"></a>
 
@@ -29,7 +31,7 @@ Please note the following points:
 
 Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum two pages) describing both any current research and your interest in computational social science. All applications must include an e-mail and an alternative means of contact (e.g., phone number). 
 
-Please submit your applications and the supporting documents listed above using [this application form](https://forms.gle/arWAQ1KZvv5aiiUQ6).
+
 
 **Applications can be submitted in French or in English.**
 
