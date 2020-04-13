@@ -4,6 +4,7 @@ partner_site: paris
 main: true
 image: /assets/images/paris.jpg
 ---
+ATTENTION: SICSS-Paris has been postponed until 2021 due to COVID-19.
 
 From June 23rd to July 2nd, [ENSAE](https://www.ensae.fr/en/) will sponsor a Summer Institute in Computational Social Science, to be held in Paris (on the Plateau de Saclay campus). The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived). 
 
