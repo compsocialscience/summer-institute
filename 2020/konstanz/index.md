@@ -5,6 +5,8 @@ main: true
 image: /assets/images/konstanz.jpg
 ---
 
+**ATTENTION: SICSS-Konstanz has been postponed until 2021 due to COVID-19.**
+
 From the evening of Sunday, July 19 to Friday, July 31, 2020, the Summer Institute in Computational Social Science (SICSS) will host a partner location at University of Konstanz. The purpose of SICSS Konstanz is to bring together interested Master students, PhD students, postdoctoral students and junior faculty in Germany. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
 
 The instructional program will involve lectures and group problem sets in the first week and participant-led research projects in the second week. Participants will be able to work in teams to learn how to implement the material from the lectures. SICSS Konstanz will particularly focus on inference in Computational Social Science and potential issues with regards to measuring latent variables, causal explanation and generalization of study results. Covered topics include collecting digital trace data, automated text analysis, estimation of latent traits, adjustments for non-probability samples and missing data, and digital field experiments.

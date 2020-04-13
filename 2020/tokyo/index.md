@@ -5,6 +5,8 @@ main: true
 image: /assets/images/tokyo2.jpg
 ---
 
+**ATTENTION: SICSS-Tokyo has been postponed until 2021 due to COVID-19.**
+
 From July 13 to July 22 2020, [Keio University Hiyoshi Campus](http://www.hc.keio.ac.jp/en/index.html) will host a partner event for the Summer Institute in Computational Social Science (SICSS-Tokyo). The purpose of SICSS-Tokyo is to bring together interested young researchers and to bulid and expand the network of computational social scientists in Japan. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived). (The schedule and location have been changed as above.)
 
 The instructional program will involve lectures, group problem sets, and participant-led research projects. There will also be outside speakers who conduct computational social science research in a variety of settings. Topics covered include text as data, website scraping, online experiments, non-probability sampling, mass collaboration, and ethics. There will be ample opportunities for participants to discuss their ideas and research with the organizers, other participants, and visiting speakers in collaboration with the other SICSS sites.

@@ -7,6 +7,7 @@ subtitle:  July 19 - July 31, 2020
 apply: true
 ---
 
+**ATTENTION: SICSS-Konstanz has been postponed until 2021 due to COVID-19.**
 
 # Eligibility
 
