@@ -11,7 +11,7 @@ partner_site: nyu
 
 ---
 
-**_ATTENTION:_  ATTENTION: SICSS-NYU has been postponed until 2021 due to COVID-19.**
+**_ATTENTION:_ SICSS-NYU has been postponed until 2021 due to COVID-19.**
 
 Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. 
 
