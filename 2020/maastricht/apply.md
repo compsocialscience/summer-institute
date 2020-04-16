@@ -25,16 +25,10 @@ Participation is restricted to Ph.D. students, postdoctoral researchers, and unt
 Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science, (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. All applications must include an e-mail and an alternative means of contact (e.g., phone number). <b>All documents must be combined into one .pdf file and sent to sicssmaas@gmail.com</b>.<br> 
 Please note that letters of recommendation are not required for application to SICSS-Maastricht and any letters, if submitted, will not be considered when evaluating applications. This is to guarantee similar consideration of all applications.
 
-**Application Deadline: 25 March 2020, 11:59 pm CET**
+**New application deadline: May 5 2020, 11:59 pm CET**
 
 Any inquiries can be sent to sicssmaas@gmail.com.
 
 <br />
 
-### Travel And Accommodation
-### <a name="travel_and_accommodation"></a>
 
----
-
-Thanks to the sponsorship by ING/Think Forward Initiative we are able to offer two scholarships (up to 1200 EUR) to participants outside of Maastricht to cover travel and accommodation expenses. <br>
-Maastricht is a student city without a housing campus, but all accepted applicants will be provided with information on available housing options. Throughout the duration of the Summer Institute, lunches and refreshments will be provided. There are no registration fees to attend the Institute.
