@@ -15,4 +15,4 @@ Participation is restricted to Ph.D. students, postdoctoral researchers, and unt
 
 **~~UPDATE 3/31/2020: At this point we are considering holding SICSS Los Angeles on time, virtually. However the situation is still developing, and we will follow the lead of the main site.~~**
 
-**SICCS Los Angeles is officially going virtual! Expect decisions from us by the end of April. Thanks for your patience.**
+**SICSS Los Angeles is officially going virtual! Expect decisions from us by the end of April. Thanks for your patience.**
