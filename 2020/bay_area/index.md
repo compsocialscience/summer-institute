@@ -7,7 +7,14 @@ image: /assets/images/bay.jpg
 
 **Updates** 
 
-We are currently still planning to hold BAY-SICSS 2020, and depending on developments around COVID-19, the event may be held virtually. You can find a full explanation on our view on COVID-19 [here](https://github.com/compsocialscience/summer-institute/blob/master/2020/bay_area/covid19.md). The application portal will remain open until a decision is made whether or not to cancel the event, and we encourage you to apply, if you haven’t already. For more information, contact baysicss2020@gmail.com.
+BAY-SICSS is going virtual! Our institute will take place primarily over Zoom, and we are developing an entirely-digital curriculum as we speak. This means we won't be using any physical meeting space (previously we thought it would be at BIDS, UC Berkeley). This new format will ensure safety for our participants, and we hope it will also increase the accessibility and social impact of our institute. 
+
+We will be following the emerging best practices for overcoming Zoom Fatigue, including emphasizing collaborative work (e.g., with Breakout Rooms). We may also opt for a smaller number of participants, which--in this less immersive format--we hope will help build community around doing computational social science for social good. We further intend to encourage research projects directed toward some public good or deliverable (e.g., apps, blog posts), in addition to collaboration with our social good-oriented nonprofit partners.
+
+An important logistical change is that BAY-SICSS will be 3 weeks long, which will increase the flexibility and dynamism of our programming--especially the collaborative project aspect. The first week will be learning-focused and classroom-style--this is similar to our previous, in-person design, but now will take place over Zoom. On the other hand, the project-focused portion (previously just week 2) will now be expanded into weeks 2 and 3--allowing greater flexibility in participants' time commitments for this portion. Week 2 will also feature some centralized programming (organized by the Duke site), including panels and presentations by SICSS Alumni; week 3 will be almost entirely decentralized.
+
+While we coordinate with our partners and TAs, we are leaving the application portal open, so folks interested in applying to the virtual incarnation of BAY-SICSS can still apply. 
+
 
 **Overview**
 
