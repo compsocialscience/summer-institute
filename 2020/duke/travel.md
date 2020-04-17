@@ -3,8 +3,9 @@ layout: location_detail
 partner_site: duke
 travel: true
 title: Travel
-image: /assets/images/bamberg.jpg
 ---
+
+*Update: Because of COVID-19, SICSS-Duke 2020 will be held be switched from an in-person event to a virtual event.*
 
 ## Travel reimbursement policy for SICSS 2020 at Duke University
 
@@ -49,4 +50,4 @@ Yes.  We can reimburse you for driving costs at the [standard milage rate](https
 
 ##### If I fly and then take a cab can you reimburse me for both?
 
-No. We are not able to reimburse travel between your home and the airport (or train station) or between the airport (or train station) and campus. 
+No. We are not able to reimburse travel between your home and the airport (or train station) or between the airport (or train station) and campus.
