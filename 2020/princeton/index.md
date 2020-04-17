@@ -5,6 +5,8 @@ main: true
 image: /assets/images/princeton-2.jpg
 ---
 
+**ATTENTION: SICSS-PrincetonCITP has been postponed until 2021 due to COVID-19.**
+
 From the evening of June 14 to 19, 2020, the [Princeton University Center for Information Technology Policy](https://citp.princeton.edu/) will host a partner site for the Summer Institute in Computational Social Science. 
 
 The Princeton-CITP Summer Institute is unique among partner locations in its target population: individuals who work in government interested in using computational social science to improve the agencies and communities they serve.
