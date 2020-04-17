@@ -7,6 +7,7 @@ subtitle:  June 14 - June 19, 2020
 apply: true
 ---
 
+**ATTENTION: SICSS-PrincetonCITP has been postponed until 2021 due to COVID-19.**
 
 # Eligibility
 
