@@ -2,3 +2,5 @@
   url: "people"
 - name: Schedule & Materials
   url: "schedule"
+- name: Projects
+  url: "projects"
