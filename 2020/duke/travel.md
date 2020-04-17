@@ -5,7 +5,7 @@ travel: true
 title: Travel
 ---
 
-*Update: Because of COVID-19, SICSS-Duke 2020 will be held be switched from an in-person event to a virtual event.*
+# Update: Because of COVID-19, SICSS-Duke 2020 will be held be switched from an in-person event to a virtual event.
 
 ## Travel reimbursement policy for SICSS 2020 at Duke University
 
