@@ -5,7 +5,7 @@ main: true
 image: /assets/images/duke.jpg
 ---
 
-### Update: Because of COVID-19, SICSS-Duke 2020 will be held be switched from an in-person event to a virtual event.
+### Update: Because of COVID-19, SICSS-Duke 2020 will be switched from an in-person event to a virtual event.
 
 From the morning of Sunday, June 14 to the morning of Saturday, June 27, 2020, the Russell Sage Foundation will sponsor the Summer Institute in Computational Social Science, to be held at Duke University. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived). The co-organizers and principal faculty of the Summer Institute are Chris Bail and Matthew Salganik.
 
