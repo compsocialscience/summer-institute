@@ -10,7 +10,9 @@ partner_site: oxford
 ### <a name="eligibility"></a>
 ---
 
-We are inviting applications from PhD students, postdoctoral researchers, and faculty within 7 years of their PhD. Exceptional Master's students in a research-track degree (e.g. MRes, MPhil) or transitioning to a PhD programme will also be considered. We are hoping to have wide participation from researchers across different departments and institutes within the University of Oxford, both from the social sciences and the computational/data sciences. We would also like to welcome a limited number of participants from other institutions both in the UK and abroad. The Summer Institute will be held in English. We expect to invite about 25 participants for this partner location in Oxford. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R programming language.
+**IMPORTANT NOTICE: We have taken the reluctant decision to postpone SICSS 2020 due to the ongoing Covid-19 epidemic. We are planning to re-host the same (or as similar an event as possible) in the summer of 2021. If you have already applied, you should have received an email with further details. The following SICSS partner sites are still running a virtual event: SICSS-Duke, BAY-SICSS, SICSS-Istanbul, SICSS-Los Angeles, SICSS-Maastricht and SICSS-Montréal. Many of these sites will be offering open-access online events. Please check back for further details regarding SICSS-Oxford 2021 in due course!**
+
+We will be inviting applications from PhD students, postdoctoral researchers, and faculty within 7 years of their PhD. Exceptional Master's students in a research-track degree (e.g. MRes, MPhil) or transitioning to a PhD programme will also be considered. We are hoping to have wide participation from researchers across different departments and institutes within the University of Oxford, both from the social sciences and the computational/data sciences. We would also like to welcome a limited number of participants from other institutions both in the UK and abroad. The Summer Institute will be held in English. We expect to invite about 25 participants for this partner location in Oxford. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R programming language.
 
 Participants are expected to attend both weeks of the institute. Meals and refreshments will be provided free of cost for all participants at SICSS-Oxford during the event. There are no registration fees to attend the Institute. For participants from outside Oxford, we will provide a limited number of scholarships to support accommodation and travel to Oxford (up to a set cap).
 
@@ -32,7 +34,7 @@ Please also include in the body of your e-mail some basic data in this structure
 
 Please note that letters of recommendation are not required for application to SICSS-Oxford and any letters, if submitted, will not be considered when evaluating applications. This is to guarantee similar consideration of all applications.
 
-In order to be guaranteed full consideration, all application materials must be received by **Friday, 27th of March** at 23:59 BST. We will notify applicants solely through e-mail by mid-April, and will ask participants to confirm their participation very soon thereafter. Inquiries can be sent to sicss.oxford[at]nuffield.ox.ac.uk. 
+** Further information regarding SICSS-Oxford-2021 will be published in due course. Inquiries can be sent to sicss.oxford[at]nuffield.ox.ac.uk. **
 
 ### Frequently Asked Questions
 ### <a name="f_a_q"></a>
