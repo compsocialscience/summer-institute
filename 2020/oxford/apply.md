@@ -34,7 +34,7 @@ Please also include in the body of your e-mail some basic data in this structure
 
 Please note that letters of recommendation are not required for application to SICSS-Oxford and any letters, if submitted, will not be considered when evaluating applications. This is to guarantee similar consideration of all applications.
 
-** Further information regarding SICSS-Oxford-2021 will be published in due course. Inquiries can be sent to sicss.oxford[at]nuffield.ox.ac.uk. **
+**Further information regarding SICSS-Oxford-2021 will be published in due course. Inquiries can be sent to sicss.oxford[at]nuffield.ox.ac.uk.**
 
 ### Frequently Asked Questions
 ### <a name="f_a_q"></a>
