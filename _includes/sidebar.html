@@ -42,14 +42,12 @@
 <!-- locations sidebar -->
 {% if page.layout == 'locations' %}
   <ul class="nav flex-column" id="accordionMenu">
-  {% for year_num in (2017..site.current_year) reversed %}
-    {% assign year = year_num | downcase %}
+  {% for year in locations_by_year %}
     <li class="nav-item">
-      <a class="nav-link" onmouseover="" style="cursor: pointer;" data-toggle="collapse" data-target="#collapse{{forloop.index}}">{{year}}</a>
+      <a class="nav-link" onmouseover="" style="cursor: pointer;" data-toggle="collapse" data-target="#collapse{{forloop.index}}">{{year.year}}</a>
       <ul class="nav collapse" id="collapse{{forloop.index}}" aria-labelledby="{{forloop.index}}" data-parent="#accordionMenu">
-      {% for single_year in site.data[year] %}
-      {% assign location_data = single_year[1].location %}
-      {% assign campus = location_data %}
+      {% for year_location in year.locations %}
+      {% assign campus = year_location.location %}
         {% if campus.title %}
         <li class="nav-item w-100">
           <a class="nav-link" href="#{{campus.link}}_{{campus.year}}">{{campus.title}}
@@ -87,13 +85,13 @@
     </li>
     <li class="nav-item">
       <a class="nav-link" href="#day_5">Mass Collaboration</a>
-    </li>  
+    </li>
     <li class="nav-item">
       <a class="nav-link" href="#day_6">Experiments in the Digital Age</a>
-    </li>  
+    </li>
     <li class="nav-item">
       <a class="nav-link" href="#bonus_lectures">Bonus Lectures by Leaders in the Field</a>
-    </li> 
+    </li>
   </ul>
 {% endif %}
 
@@ -114,14 +112,12 @@
   {% else %}
     <div class="col-md-4">
       <ul class="nav flex-column" id="accordionMenu">
-        {% for year_num in (2017..site.current_year) reversed %}
-          {% assign year = year_num | downcase %}
+        {% for year in locations_by_year %}
           <li class="nav-item">
-            <a class="nav-link" onmouseover="" style="cursor: pointer;" data-toggle="collapse" data-target="#collapse{{forloop.index}}">{{year}}</a>
+            <a class="nav-link" onmouseover="" style="cursor: pointer;" data-toggle="collapse" data-target="#collapse{{forloop.index}}">{{year.year}}</a>
             <ul class="nav collapse" id="collapse{{forloop.index}}" aria-labelledby="{{forloop.index}}" data-parent="#accordionMenu">
-            {% for single_year in site.data[year] %}
-            {% assign location_data = single_year[1].location %}
-            {% assign campus = location_data %}
+            {% for year_location in year.locations %}
+            {% assign campus = year_location.location %}
 
               {% if campus.title %}
               <li class="nav-item w-100">
