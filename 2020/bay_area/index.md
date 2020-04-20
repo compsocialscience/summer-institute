@@ -7,13 +7,11 @@ image: /assets/images/bay.jpg
 
 **Updates** 
 
-BAY-SICSS is going virtual! Our institute will take place primarily over Zoom, and we are developing an entirely-digital curriculum as we speak. This means we won't be using any physical meeting space (previously we thought it would be at BIDS, UC Berkeley). This new format will ensure safety for our participants, and we hope it will also increase the accessibility and social impact of our institute. 
+BAY-SICSS is going virtual! We are adapting our partner site from UC Berkeley campus to an online format, but will continue our thematic focus on computational social science in partnership with Bay Area nonprofits. We are working with SICSS-Duke, our partners, and guest speakers to balance flexibility with our goal of creating a community of community engaged scholars. 
 
-We will be following the emerging best practices for overcoming Zoom Fatigue, including emphasizing collaborative work (e.g., with Breakout Rooms). We may also opt for a smaller number of participants, which--in this less immersive format--we hope will help build community around doing computational social science for social good. We further intend to encourage research projects directed toward some public good or deliverable (e.g., apps, blog posts), in addition to collaboration with our social good-oriented nonprofit partners.
+The instructional program will involve lectures, group problem sets, and participant-led research projects, held concurrently with SICSS-Duke. In the second part of the institute, participants will co-develop a project with Bay Area nonprofits in health, criminal justice, and civil society. Where we originally envisioned this project as a one-week, full time experience, we will be shifting this project to a two-week, part-time project to give our participants and partners more flexibility.
 
-An important logistical change is that BAY-SICSS will be 3 weeks long, which will increase the flexibility and dynamism of our programming--especially the collaborative project aspect. The first week will be learning-focused and classroom-style--this is similar to our previous, in-person design, but now will take place over Zoom. On the other hand, the project-focused portion (previously just week 2) will now be expanded into weeks 2 and 3--allowing greater flexibility in participants' time commitments for this portion. Week 2 will also feature some centralized programming (organized by the Duke site), including panels and presentations by SICSS Alumni; week 3 will be almost entirely decentralized.
-
-While we coordinate with our partners and TAs, we are leaving the application portal open, so folks interested in applying to the virtual incarnation of BAY-SICSS can still apply. 
+We are leaving the application portal open until 4/24/20; we encourage you to apply! 
 
 
 **Overview**
