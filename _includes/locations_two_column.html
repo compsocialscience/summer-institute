@@ -1,16 +1,11 @@
-{% for year_num in (2017..site.current_year) reversed %}
-  {% assign index_mod_2 = forloop.index | modulo: 2 %}
-  {% if index_mod_2 == 1 %}
-  {% endif %}
-    {% assign allyears = year_num | downcase %}
-      <div class="col-sm-12">
-        <h1 id="{{allyears}}">{{allyears}}</h1>
-      </div>
-    {% for year in site.data[allyears] %}
-    {% assign location_data = year[1].location %}
-    {% assign apply_data = year[1].apply %}
-      {% include locations_listing.html location_data=location_data apply_data=apply_data year=year %}
+{% for year in locations_by_year %}
+
+  <div class="col-sm-12">
+    <h1 id="{{year.year}}">{{year.year}}</h1>
+  </div>
+    {% for year_location in year.locations %}
+    {% assign location_data = site.data[year.year][year_location.slug].location %}
+    {% assign apply_data = site.data[year.year][year_location.slug].apply %}
+      {% include locations_listing.html location_data=location_data apply_data=apply_data year=year.year %}
     {% endfor %}
-  {% if index_mod_2 == 0 or forloop.last %}
-  {% endif %}
 {% endfor %}
