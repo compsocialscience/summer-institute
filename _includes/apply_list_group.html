@@ -1,8 +1,8 @@
 {% for year in locations_by_year %}
   <ul>
     {% for year_location in year.locations %}
-      {% assign apply_data = site.data[year.year][year_location.slug].apply %}
-      {% assign location_data = site.data[year.year][year_location.slug].location %}
+      {% assign apply_data = year_location.apply %}
+      {% assign location_data = year_location.location %}
       {% if apply_data.title %}
         <li><a href={{site.baseurl}}/{{location_data.year}}/{{location_data.link}}/apply>{{location_data.title}}</a></li>
       {% endif %}

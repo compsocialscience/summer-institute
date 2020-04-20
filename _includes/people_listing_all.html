@@ -34,7 +34,7 @@
     <br />
   </div>
 {% for year_location in year.locations %}
-  {% assign location = site.data[year.year][year_location.slug] %}
+  {% assign location = year_location %}
   <div class="col-sm-12">
     <h2 id="{{location.location.link}}{{location.location.year}}">{{location.location.title}}</h2>
     <h4 class="h3 mb-4">All Participants

@@ -47,7 +47,7 @@
       <a class="nav-link" onmouseover="" style="cursor: pointer;" data-toggle="collapse" data-target="#collapse{{forloop.index}}">{{year.year}}</a>
       <ul class="nav collapse" id="collapse{{forloop.index}}" aria-labelledby="{{forloop.index}}" data-parent="#accordionMenu">
       {% for year_location in year.locations %}
-      {% assign campus = site.data[year.year][year_location.slug].location %}
+      {% assign campus = year_location.location %}
         {% if campus.title %}
         <li class="nav-item w-100">
           <a class="nav-link" href="#{{campus.link}}_{{campus.year}}">{{campus.title}}
@@ -117,7 +117,7 @@
             <a class="nav-link" onmouseover="" style="cursor: pointer;" data-toggle="collapse" data-target="#collapse{{forloop.index}}">{{year.year}}</a>
             <ul class="nav collapse" id="collapse{{forloop.index}}" aria-labelledby="{{forloop.index}}" data-parent="#accordionMenu">
             {% for year_location in year.locations %}
-            {% assign campus = site.data[year.year][year_location.slug].location %}
+            {% assign campus = year_location.location %}
 
               {% if campus.title %}
               <li class="nav-item w-100">

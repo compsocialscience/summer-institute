@@ -15,6 +15,11 @@
       {% assign year_locations = year_locations | push: h %}
     {% endfor %}
     {% assign year_locations = year_locations | sort: "order" %}
-    {% include makehash.inc year=year_str locations=year_locations %}
+    {% assign year_location_array = '' | split: '.' %}
+    {% for year_location in year_locations %}
+        {% assign year_location_item = site.data[year_str][year_location.slug] %}
+        {% assign year_location_array = year_location_array | push: year_location_item %}
+    {% endfor %}
+    {% include makehash.inc year=year_str locations=year_location_array %}
     {% assign locations_by_year = locations_by_year | push: h %}
 {% endfor %}
