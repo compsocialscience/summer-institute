@@ -1,5 +1,5 @@
 - name: "Pre-arrival"
-  url: "pre-arrival"
+  url: "pre_arrival"
 - name: People
   url: "people"
 - name: Schedule & Materials
