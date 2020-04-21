@@ -14,8 +14,7 @@
 - date: 2020-06-16
   name: "<b>Digital Trace Data</b>"
   events:
-    - name: "<b>Welcome back to SICSS Rutgers</b>"
-      time: "09:00 - 09:20"
+
     - name: "<b>Activities on Digital Trace Data</b>"
       time: "10:00 - 11:45"
     - name: "<b>Group Lunch</b>"
@@ -26,8 +25,6 @@
 - date: 2020-06-17
   name: "<b>Text as Data</b>"
   events:
-    - name: "<b>Welcome back to SICSS Rutgers</b>"
-      time: "09:00 - 09:20"
     - name: "<b>Group Exercises and Introducing Text as Data</b>"
       time: "10:00 - 11:45"
     - name: "<b>Group Lunch</b>"
@@ -42,8 +39,6 @@
       time: "10:00 - 11:45"
     - name: "<b>Lunch and Research Speed Dating</b>"
       time: "12:00 - 14:00"
-    - name: "<b>TBD</b>"
-      time: "14:45 - 16:00"
     - name: "<b>Guest Speaker</b> (Daniel Hopkins)"
       time: "16:00 - 17:30"
 
@@ -55,7 +50,7 @@
     - name: "<b>Lunch</b>"
       time: "12:00 - 13:00"
     - name: "<b>TBD</b>"
-      time: "14:30 - 17:30"
+      time: "13:00 - 17:30"
 
 - date: 2020-06-22
   name: "<b>Experiments in the Digital Age</b>"
