@@ -59,13 +59,13 @@
       time: "10:00 - 11:45"
     - name: "<b>Lunch and Guest Speaker</b> (Yanna Krupnikov)"
       time: "12:00 - 14:00"
-    - name: "<b>TBD</b>"
+    - name: "<b>Finalize Groups for Research Projects</b>"
       time: "14:30 - 16:00"
 
 - date: 2020-06-23
-  name: "<b>Start Group Projects</b>"
+  name: "<b>Work on Group Projects</b>"
   events:
-    - name: "<b>Finalize Groups for Research Projects</b>"
+    - name: "<b>Work on Group Projects</b>"
       time: "09:00 - 11:45"
     - name: "<b>Lunch and Guest Speaker</b> (Simone Zhang)"
       time: "12:00 - 13:30"
