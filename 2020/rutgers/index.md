@@ -15,6 +15,6 @@ Participation is restricted to Ph.D. students, postdoctoral researchers, and unt
 
 In addition to the SICSS core sponsors, the Rutgers partner event is supported by DIMACS (the Center for Discrete Mathematics and Theoretical Computer Science) at Rutgers, the Rutgers-New Brunswick Libraries and the Rutgers Department of Political Science. 
 
-Application materials are due May 5, 2020 at:https://forms.gle/b1EoxXHF9xYLypMV9. Inquiries may be sent to sicssrutgers@gmail.com.
+Application materials are due May 1, 2020 at:https://forms.gle/b1EoxXHF9xYLypMV9. Inquiries may be sent to sicssrutgers@gmail.com.
 
 
