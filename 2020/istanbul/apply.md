@@ -6,6 +6,8 @@ partner_site: istanbul
 <h1 class="display-4">Apply</h1>
 <br />
 
+**Update: Because of COVID-19, SICSS-Istanbul will be switched from an in-person event to a virtual event.**
+
 ### Eligibility
 ### <a name="eligibility"></a>
 
