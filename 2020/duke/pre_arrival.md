@@ -26,4 +26,4 @@ The Summer Institute will bring together people from many fields, and therefore 
 
 ## Office hours
 
-Our TAs will host weekly office hours through the SICSS 2020 Slack.  We will post the office hours schedule here soon.  If you are not able to attend during the regularly scheduled office hours, please contact one of the TAs to arrange a different time to meet.
+Our TAs will host weekly office hours in the SICSS 2020 Slack.  We will post the office hours schedule here soon.  If you are not able to attend during the regularly scheduled office hours, please contact one of the TAs to arrange a different time to meet.
