@@ -1,12 +1,8 @@
 - date: 2020-06-15
   name: "<b>Introduction and Ethics</b>"
   events:
-    - name: "<b>Intro to SICSS Rutgers</b> by Katie McCabe"
-      time: "09:00 - 09:20"
-    - name: "<b>Livestream from Duke</b>, What is CSS and Research Ethics"
-      time: "09:30 - 12:30"
-    - name: "<b>Lunch and Research Speed Dating</b>"
-      time: "12:30 - 14:30"
+    - name: "<b>Welcome Lunch and Research Speed Dating</b>"
+      time: "11:00 - 14:30"
     - name: "<b>Break</b>"
       time: "14:30 - 14:45"
     - name: "<b>Group exercises</b>"
@@ -18,71 +14,58 @@
 - date: 2020-06-16
   name: "<b>Digital Trace Data</b>"
   events:
-    - name: "<b>Welcome back to SICSS Rutgers</b>"
-      time: "09:00 - 09:20"
-    - name: "<b>Lessons on Digital Trace Data</b>"
-      time: "09:30 - 10:30"
-    - name: "<b>Special Session on AI</b>"
-      time: "10:30 - 15:30"
+
+    - name: "<b>Activities on Digital Trace Data</b>"
+      time: "10:00 - 11:45"
+    - name: "<b>Group Lunch</b>"
+      time: "12:00 - 1:00"
     - name: "<b>Applying Digital Trace Data</b> (Michael Kenwick)"
-      time: "15:30 - 17:30"
+      time: "13:30 - 15:00"
 
 - date: 2020-06-17
   name: "<b>Text as Data</b>"
   events:
-    - name: "<b>Welcome back to SICSS Rutgers</b>"
-      time: "09:00 - 09:20"
     - name: "<b>Group Exercises and Introducing Text as Data</b>"
-      time: "09:30 - 12:30"
-    - name: "<b>Lunch</b>"
-      time: "12:30 - 14:00"
+      time: "10:00 - 11:45"
+    - name: "<b>Group Lunch</b>"
+      time: "12:00 - 1:30"
     - name: "<b>Applications with Text as Data</b> (Thomas Davidson)"
-      time: "14:00 - 17:30"
+      time: "14:00 - 15:30"
 
 - date: 2020-06-18
   name: "<b>Surveys in the Digital Age</b>"
   events:
-    - name: "<b>Welcome back to SICSS Rutgers</b>"
-      time: "09:00 - 09:20"
     - name: "<b>Lessons on Surveys in the Digital Age</b>"
-      time: "09:30 - 12:30"
+      time: "10:00 - 11:45"
     - name: "<b>Lunch and Research Speed Dating</b>"
-      time: "12:30 - 14:30"
-    - name: "<b>Break</b>"
-      time: "14:30 - 14:45"
-    - name: "<b>Group exercises</b>"
-      time: "14:45 - 16:00"
+      time: "12:00 - 14:00"
     - name: "<b>Guest Speaker</b> (Daniel Hopkins)"
       time: "16:00 - 17:30"
 
 - date: 2020-06-19
   name: "<b>Network Analysis</b>"
   events:
-    - name: "<b>Welcome back to SICSS Rutgers</b>"
-      time: "09:00 - 09:20"
     - name: "<b>Lessons on Network Analysis</b> (with Katherine Ognyanova)"
-      time: "09:30 - 12:30"
+      time: "10:00 - 11:45"
     - name: "<b>Lunch</b>"
-      time: "12:30 - 14:30"
+      time: "12:00 - 13:00"
     - name: "<b>TBD</b>"
-      time: "14:30 - 17:30"
+      time: "13:00 - 17:30"
 
 - date: 2020-06-22
   name: "<b>Experiments in the Digital Age</b>"
   events:
-    - name: "<b>Welcome back to SICSS Rutgers</b>"
-      time: "09:00 - 09:20"
     - name: "<b>Lessons on Digital Experiments</b>"
-      time: "09:30 - 11:45"
+      time: "10:00 - 11:45"
     - name: "<b>Lunch and Guest Speaker</b> (Yanna Krupnikov)"
       time: "12:00 - 14:00"
-    - name: "<b>Group Exercises and TBD</b>"
-      time: "14:30 - 17:30"
+    - name: "<b>Finalize Groups for Research Projects</b>"
+      time: "14:30 - 16:00"
 
 - date: 2020-06-23
-  name: "<b>Start Group Projects</b>"
+  name: "<b>Work on Group Projects</b>"
   events:
-    - name: "<b>Finalize Groups for Research Projects</b>"
+    - name: "<b>Work on Group Projects</b>"
       time: "09:00 - 11:45"
     - name: "<b>Lunch and Guest Speaker</b> (Simone Zhang)"
       time: "12:00 - 13:30"
