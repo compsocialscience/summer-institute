@@ -16,7 +16,7 @@ We are leaving the application portal open until 4/24/20; we encourage you to ap
 
 **Overview**
 
-From the evening of June 15 to July 6 2020, Stanford University and the University of California, Berkeley will co-host a partner event for the Summer Institute in Computational Social Science. The San Francisco Bay Area Summer Institute in Computational Social Science (BAY-SICSS) will offer its first incarnation--and will be fully virtual!  
+From the evening of June 15 to July 3 2020, Stanford University and the University of California, Berkeley will co-host a partner event for the Summer Institute in Computational Social Science. The San Francisco Bay Area Summer Institute in Computational Social Science (BAY-SICSS) will offer its first incarnation--and will be fully virtual!  
 
 BAY-SICSS has been generously supported by both Stanford University ([Institute for Research in the Social Sciences](https://iriss.stanford.edu/), [Human-Centered AI Initiative](https://hai.stanford.edu/), and [Arts and Sciences](https://exploredegrees.stanford.edu/schoolofhumanitiesandsciences/)) and UC Berkeley ([Berkeley Institute for Data Science](https://bids.berkeley.edu/) and [D-Lab](https://dlab.berkeley.edu/)), and [Hopelab](https://hopelab.org/). BAY-SICSS is co-organized by [Nick Camp](https://ncamp.people.stanford.edu/), [Jaren Haber](https://www.jarenhaber.com/), and [Jae Yeon Kim](https://jaeyk.github.io/), with [Sharad Goel](https://5harad.com/) and [David J. Harding](https://sociology.berkeley.edu/faculty/david-j-harding).
 The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science in the public interest: both social scientists (broadly conceived) and data scientists (broadly conceived). BAY-SICSS is unique among partner locations in its focus on local community partnership, as reflected in our programming, participants, and partners. 
@@ -25,4 +25,4 @@ Our instructional program involves lectures, group problem sets, and participant
 
 Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. Most participant costs during the workshop, including housing and most meals, will be covered, and most travel expenses will be reimbursed up to a set cap. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About thirty participants will be invited, and participants are expected to fully attend and participate in the entire two-week program held at UC Berkeley.
 
-Application materials are due Monday, March 16, 2020.
+Application materials are due Friday, April 24, 2020.
