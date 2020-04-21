@@ -10,7 +10,7 @@ partner_site: rutgers
 ### <a name="eligibility"></a>
 
 ---
-### Update: Because of COVID-19, SICSS-Rutgers 2020 will be switched from an in-person event to a virtual event from June 15th-26th. Our new application deadline is May 1.###
+### Update: Because of COVID-19, SICSS-Rutgers 2020 will be switched from an in-person event to a virtual event from June 15th-26th. Our new application deadline is May 1.
 
 Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty. We welcome applicants from all backgrounds and fields of study, and especially encourage applicants from groups currently under-represented in computational social science and those whose research seeks to contribute to social progress (broadly conceived), particularly research related to the study of race, gender, sexuality, or systemic social and economic inequality. Note: You do not need to be affiliated with Rutgers to attend the institute. 
 
