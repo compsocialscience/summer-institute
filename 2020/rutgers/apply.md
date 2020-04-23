@@ -27,7 +27,7 @@ We expect participants to attend the full institute. If you anticipate a conflic
 
 ### Applicants must submit the following documents here: https://forms.gle/b1EoxXHF9xYLypMV9: ###
 <br />
-(i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science, (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample. The writing sample may, but does not have to, show familiarity with computational social science tools.
+(i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science, (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample. The writing sample may, but does not have to, show familiarity with computational social science tools. Examples of the writing sample could include a published or working research paper, a class seminar paper, or a prospectus, among other possibilities.
 
 **In order to be guaranteed full consideration, all application materials should be submitted before May 1, 2020. Applicants will be notified approximately 2 weeks after the deadline and will be asked to confirm their participation soon after that.
 
