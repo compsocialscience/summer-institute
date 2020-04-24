@@ -6,6 +6,8 @@ partner_site: montreal
 <h1 class="display-4">Apply</h1>
 <br />
 
+### Update: Because of COVID-19, SICSS-Montreal 2020 will be switched from an in-person event to a virtual event.
+
 ### Eligibility / Éligibilité
 ### <a name="eligibility"></a>
 
