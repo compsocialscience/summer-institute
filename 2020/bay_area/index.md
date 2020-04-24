@@ -11,7 +11,7 @@ BAY-SICSS is going virtual! We are adapting our partner site from UC Berkeley ca
 
 The instructional program will involve lectures, group problem sets, and participant-led research projects, held concurrently with SICSS-Duke. In the second part of the institute, participants will co-develop a project with Bay Area nonprofits in health, criminal justice, and civil society. Where we originally envisioned this project as a one-week, full time experience, we will be shifting this project to a two-week, part-time project to give our participants and partners more flexibility.
 
-We are leaving the application portal open until 4/24/20; we encourage you to apply! 
+We have extended our application window and are leaving the portal open until 05/01/20; we encourage you to apply! 
 
 
 **Overview**
@@ -25,4 +25,4 @@ Our instructional program involves lectures, group problem sets, and participant
 
 Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. Most participant costs during the workshop, including housing and most meals, will be covered, and most travel expenses will be reimbursed up to a set cap. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About thirty participants will be invited, and participants are expected to fully attend and participate in the entire two-week program held at UC Berkeley.
 
-Application materials are due Friday, April 24, 2020.
+Application materials are due Friday, May 1, 2020.
