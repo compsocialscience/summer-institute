@@ -42,4 +42,4 @@ Yes, you may apply to more than one summer institute, but not at the same time. 
 
 #### Do I need to submit recommendation letters?
 
-Recommendation letters are not required for SICSS-Howard/Mathematica.
+Recommendation letters are not required for SICSS-Howard/Mathematica. 
