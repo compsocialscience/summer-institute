@@ -14,7 +14,7 @@
           <a class="nav-link" href="{{nav.url}}">{{nav.name}}</a>
         </li>
       {% endfor %}
-      {% if year == '2020' %}
+      {% if site.current_year | downcase == year and site.data[year][location].location.apply_button != "hidden" %}
       <li class="nav-item">
         <a class="nav-link btn btn-dark d-xl-inline-flex mt-3 ml-3" href="apply">Apply</a>
       </li>
@@ -22,7 +22,7 @@
       {% endif %}
     </ul>
     <ul class="nav flex-column">
-      <a class="nav-link collapsed" onmouseover=""" style="cursor: pointer;" data-toggle="collapse" data-target="">Other Events:</a>
+      <a class="nav-link collapsed" onmouseover="" style="cursor: pointer;" data-toggle="collapse" data-target="">Other Events:</a>
       {% for year_num in (2017..site.current_year) reversed %}
         {% assign allyears = year_num | downcase %}
         {% for checkyear in allyears %}
