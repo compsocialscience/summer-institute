@@ -32,8 +32,14 @@ Before SICSS you should install a modern, stable-release version of [R](https://
 
 ## Accounts
 
-Before participating at SICSS-Duke you should have an account in our Slack workspace.  You may need to create accounts on other platforms as well.  If so, we will post that information here.
+- Slack: Before participating at SICSS-Duke 2020 you should have an account in the SICSS 2020 Slack workspace.  If you have not used Slack before, you should review these [getting started[(https://slack.com/help/categories/360000049043-Getting-started)] materials.  Slack can be hard to use at first, but we've found that it is the best way to enable everyone to collaborate.
+
+- GitHub: Many participants at SICSS use GitHub to collaborate.  If you do not yet have one, you should [create a GitHub account](https://github.com/join).  If you are a student, we recommend that you apply for a [GitHub Student Developer Pack](https://education.github.com/pack).
+
+You may need to create accounts on other platforms as well.  If so, we will post that information here.
 
 ## Office hours
 
-Our TAs will host weekly office hours in the SICSS 2020 Slack.  We will post the office hours schedule here soon.  If you are not able to attend during the regularly scheduled office hours, please contact one of the TAs to arrange a different time to meet.
+Our [TAs](https://compsocialscience.github.io/summer-institute/2020/duke/people#teaching_assistants) will host weekly office hours in the SICSS 2020 Slack.  You can find information about the office hours in the SICSS 2020 Slack channel #pre-office-hours.
+
+If you are not able to attend during the regularly scheduled office hours or have any questions about office hours, please contact Robin Lee, one of our [TAs](https://compsocialscience.github.io/summer-institute/2020/duke/people#teaching_assistants).
