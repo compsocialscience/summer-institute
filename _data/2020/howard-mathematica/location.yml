@@ -2,6 +2,8 @@ image: /assets/images/howard.jpg
 title: Howard-Mathematica [POSTPONED]
 subtitle: Washington D.C.
 subtitle: Washington, D.C.
-description: "From the evening of Friday June 12 to the morning of June 27 2020, Howard University and Mathematica will host a partner event for the Summer Institute in Computational Social Science."
+description: ""
 link: howard-mathematica
 year: 2020
+order: 99
+apply_button: hidden
