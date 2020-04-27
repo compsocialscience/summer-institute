@@ -1,3 +1,15 @@
+- date: 2020-06-1
+  name: "Pre-SICSS courses begin: Interaction with TA and organizer (Optional)"
+
+- date: 2020-06-8
+  name: Courses posted online
+  events:
+    - name: "Monday: Ethics"
+    - name: "Tuesday: Collecting Digital Trace Data"
+    - name: "Wednesday: Automated Text Analysis"
+    - name: "Thursday: Surveys in the Digital Age"
+    - name: "Friday: Machine Learning"
+    
 - date: 2020-06-15
   name: Introduction and Ethics
   events:
