@@ -1,6 +1,8 @@
 image: /assets/images/paris.jpg
-title: Paris
+title: Paris [POSTPONED]
 subtitle: Plateau de Saclay, France
-description: "From the evening of July XXX to July XXX 2020, ENSAE will host a partner event for the Summer Institute in Computational Social Science."
+description: ""
 link: paris
 year: 2020
+order: 99
+apply_button: hidden

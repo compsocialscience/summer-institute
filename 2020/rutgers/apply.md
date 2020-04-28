@@ -10,8 +10,14 @@ partner_site: rutgers
 ### <a name="eligibility"></a>
 
 ---
+### Update: Because of COVID-19, SICSS-Rutgers 2020 will be switched from an in-person event to a virtual event from June 15th-26th. Our new application deadline is May 1.
 
-Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. However, there are no restrictions based on citizenship, country of study, or country of employment.  About XXXXX participants will be invited. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, attempt to account for an applicant’s career stage and previous educational opportunities.
+Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty. We welcome applicants from all backgrounds and fields of study, and especially encourage applicants from groups currently under-represented in computational social science and those whose research seeks to contribute to social progress (broadly conceived), particularly research related to the study of race, gender, sexuality, or systemic social and economic inequality. Note: You do not need to be affiliated with Rutgers to attend the institute. 
+
+All applications will be given consideration, and we hope to assemble a diverse set of participants across many backgrounds and levels of expertise. We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research, particularly research areas related to social progress (broadly conceived) and the study of race, gender, sexuality, or systemic social and economic inequality. Further, when making our evaluations, attempt to account for an applicant’s career stage and previous educational opportunities.
+<br />
+
+We expect participants to attend the full institute. If you anticipate a conflict with portions of each day or 1 or more full days of the institute, please just note this in your application.
 
 <br />
 ### How To Apply
@@ -19,9 +25,11 @@ Participation is restricted to Ph.D. students, postdoctoral researchers, and unt
 
 ---
 
-Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science (especially as it relates to RSF research priorities such as behavioral economics, social inequality, future of work, and immigration), (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. Applicants who are graduate students or postdoctoral researchers must submit two letters of recommendation from faculty advisors. Letters of recommendation should be as informative as possible about your standing in your program, general ability, research potential, and (if applicable) special interest in computational social science. All applications must include an e-mail and an alternative means of contact (e.g., phone number). All application materials must be submitted through the [Fluxx system run by the Russell Sage Foundation](https://rsf.fluxx.io/user_sessions/new), and it can take up to two business days for your Fluxx account to be created.
+### Applicants must submit the following documents here: https://forms.gle/b1EoxXHF9xYLypMV9: ###
+<br />
+(i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science, (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample. The writing sample may, but does not have to, show familiarity with computational social science tools. Examples of the writing sample could include a published or working research paper, a class seminar paper, or a prospectus, among other possibilities.
 
-**In order to be guaranteed full consideration, all application materials must be submitted before XXXX
+**In order to be guaranteed full consideration, all application materials should be submitted before May 1, 2020. Applicants will be notified approximately 2 weeks after the deadline and will be asked to confirm their participation soon after that.
 
-Inquiries can be sent to XXXX.
+Inquiries can be sent to sicssrutgers@gmail.com.
 

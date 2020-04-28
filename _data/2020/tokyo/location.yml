@@ -1,6 +1,8 @@
 image: /assets/images/tokyo2.jpg
-title: Tokyo
-subtitle: Keio SFC, Japan
-description: "From July 27 to August 7 2020, Keio SFC will host a partner event for the Summer Institute in Computational Social Science."
+title: Tokyo [POSTPONED]
+subtitle: Yokohama, Japan
+description: ""
 link: tokyo
 year: 2020
+order: 99
+apply_button: hidden

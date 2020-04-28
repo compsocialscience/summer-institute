@@ -1,6 +1,8 @@
 image: /assets/images/chicago.jpg
-title: Chicago
+title: Chicago [POSTPONED]
 subtitle: Chicago, Illinois
-description: "From the evening of June 14 to June 27 2020, Northwestern University will host a partner event for the Summer Institute in Computational Social Science."
+description: ""
 link: chicago
 year: 2020
+order: 99
+apply_button: hidden

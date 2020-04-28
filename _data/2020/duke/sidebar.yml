@@ -1,8 +1,6 @@
-- name: "Apply"
-  url: "apply"
+- name: "Pre-arrival"
+  url: "pre_arrival"
 - name: People
   url: "people"
-- name: Travel
-  url: "travel"
 - name: Schedule & Materials
   url: "schedule"

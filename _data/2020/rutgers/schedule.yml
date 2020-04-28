@@ -1,3 +1,101 @@
-- date: 2020-07-28
+- date: 2020-06-15
+  name: "<b>Introduction and Ethics</b>"
   events:
-    - name: "Schedule coming soon..."
+    - name: "<b>Welcome Lunch and Research Speed Dating</b>"
+      time: "11:00 - 14:30"
+    - name: "<b>Break</b>"
+      time: "14:30 - 14:45"
+    - name: "<b>Group exercises</b>"
+      time: "14:45 - 16:00"
+    - name: "<b>Introducing Machine Learning</b> (Andrey Tomashevskiy)"
+      time: "16:00 - 17:30"
+
+
+- date: 2020-06-16
+  name: "<b>Digital Trace Data</b>"
+  events:
+
+    - name: "<b>Activities on Digital Trace Data</b>"
+      time: "10:00 - 11:45"
+    - name: "<b>Group Lunch</b>"
+      time: "12:00 - 1:00"
+    - name: "<b>Applying Digital Trace Data</b> (Michael Kenwick)"
+      time: "13:30 - 15:00"
+
+- date: 2020-06-17
+  name: "<b>Text as Data</b>"
+  events:
+    - name: "<b>Group Exercises and Introducing Text as Data</b>"
+      time: "10:00 - 11:45"
+    - name: "<b>Group Lunch</b>"
+      time: "12:00 - 1:30"
+    - name: "<b>Applications with Text as Data</b> (Thomas Davidson)"
+      time: "14:00 - 15:30"
+
+- date: 2020-06-18
+  name: "<b>Surveys in the Digital Age</b>"
+  events:
+    - name: "<b>Lessons on Surveys in the Digital Age</b>"
+      time: "10:00 - 11:45"
+    - name: "<b>Lunch and Research Speed Dating</b>"
+      time: "12:00 - 14:00"
+    - name: "<b>Guest Speaker</b> (Daniel Hopkins)"
+      time: "16:00 - 17:30"
+
+- date: 2020-06-19
+  name: "<b>Network Analysis</b>"
+  events:
+    - name: "<b>Lessons on Network Analysis</b> (with Katherine Ognyanova)"
+      time: "10:00 - 11:45"
+    - name: "<b>Lunch</b>"
+      time: "12:00 - 13:00"
+    - name: "<b>TBD</b>"
+      time: "13:00 - 17:30"
+
+- date: 2020-06-22
+  name: "<b>Experiments in the Digital Age</b>"
+  events:
+    - name: "<b>Lessons on Digital Experiments</b>"
+      time: "10:00 - 11:45"
+    - name: "<b>Lunch and Guest Speaker</b> (Yanna Krupnikov)"
+      time: "12:00 - 14:00"
+    - name: "<b>Finalize Groups for Research Projects</b>"
+      time: "14:30 - 16:00"
+
+- date: 2020-06-23
+  name: "<b>Work on Group Projects</b>"
+  events:
+    - name: "<b>Work on Group Projects</b>"
+      time: "09:00 - 11:45"
+    - name: "<b>Lunch and Guest Speaker</b> (Simone Zhang)"
+      time: "12:00 - 13:30"
+    - name: "<b>Work on Group Projects</b>"
+      time: "13:30 - 17:00"
+
+- date: 2020-06-24
+  name: "<b>Work on Group Projects</b>"
+  events:
+    - name: "<b>Work on Group Projects</b>"
+      time: "09:00 - 11:45"
+    - name: "<b>Lunch and Guest Speaker</b> (Adam Thal, How to Survey Political Elites)"
+      time: "12:00 - 13:30"
+    - name: "<b>Work on Group Projects</b>"
+      time: "13:30 - 17:00"
+
+- date: 2020-06-25
+  name: "<b>Work on Group Projects</b>"
+  events:
+    - name: "<b>Work on Group Projects</b>"
+      time: "09:00 - 11:45"
+    - name: "<b>Lunch and Guest Speaker</b> (Arvind Narayanan)"
+      time: "12:00 - 13:30"
+    - name: "<b>Work on Group Projects</b>"
+      time: "13:30 - 17:00"
+
+- date: 2020-06-26
+  name: "<b>Present Group Projects</b>"
+  events:
+    - name: "<b>Presentations</b>"
+      time: "10:00 - 12:30"
+    - name: "<b>Closing Lunch</b>"
+      time: "13:00 - 15:00"
