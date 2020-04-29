@@ -9,4 +9,4 @@ An important element of the Summer Institute is the participant-led group projec
 
 - Bello-Pardo, Emily, Law, Tina, Gallagher, Natalie, Fesler, Lily, Pozzana, Iacopo. (2019) "Medium is the Message? Understanding the effects of different communication mediums on political behavior and public opinion in the digital age." Midwestern Political Science Association Conference, Chicago IL.
 
-- Hotz, Dave, Mobasseri, Sanaz, Munyikwa, Zanele, Xu, Janet. (2020) "Cracking the Coding Interview." International Conference on Computational Social Science (IC2S2), Virtual conference.
+- Holtz, Dave, Mobasseri, Sanaz, Munyikwa, Zanele, Xu, Janet. (2020) "Cracking the Coding Interview." International Conference on Computational Social Science (IC2S2), Virtual conference.
