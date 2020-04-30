@@ -1,7 +1,9 @@
 <style>
+
 .reveal section p {
   color: black;
   font-size: .7em;
+  font-weight: normal;
   font-family: 'Helvetica'; #this is the font/color of text in slides
 }
 
@@ -12,7 +14,27 @@
 .section .reveal p {
     color: black;
     position: relative;
+    font-family: 'Helvetica';
+    font-weight: normal;
     top: 4%;}
+   
+ 
+ /* section titles */
+.reveal h1 { 
+  color: black;
+  position: relative;
+  font-weight: normal;
+  font-family: 'Helvetica'; 
+  top: 4%
+}    
+
+ 
+/* slide titles */
+.reveal h3 { 
+  color: black;
+  font-weight: normal;
+  font-family: 'Helvetica'; 
+}    
 
 
 </style>
@@ -40,7 +62,7 @@ transition: fade
 1. Big Problems in the World
 ========================================================
 
-<img src="cambridge.jpg" height="600" />
+<img src="covid_picture.png" height="600" />
 
 
 
@@ -51,17 +73,17 @@ transition: fade
 ========================================================
 
 <img src="ss_disciplines_time.jpg" />
-https://www.chrisbail.net/post/mapping-computational-social-science
+Source: Web of Science, for more details see [this link](https://www.chrisbail.net/post/mapping-computational-social-science)
 
-3. Our Field is Interdisciplinary
+3. We Must Grow Together
 ========================================================
 
 
-3. Our Field is Interdisciplinary
+3. We Must Grow Together
 ========================================================
 
 <img src="colore_by_nodes_arial.png"/>
-https://www.chrisbail.net/post/mapping-computational-social-science
+Source: Web of Science, for more details see [this link](https://www.chrisbail.net/post/mapping-computational-social-science)
 
 4. Training Opporunities are Rare
 ========================================================
@@ -129,12 +151,6 @@ Goal #3: Reach a Broad Audience
 Goal #3: Reach a Broad Audience
 ========================================================
 
-<embed width="800" height="600" src="https://cbail.github.io/sicss_around_globe.html">
-
-
-Goal #3: Reach a Broad Audience
-========================================================
-
 <img src="sicss_collage.png" height="500" />
 
 
@@ -143,7 +159,7 @@ Goal #3: Reach a Broad Audience
 
 <img src="sicss_world.png" height="500" />
 
-And many more people are following along online!
+More than 20 locations over three years. And many more people are following along online!
 
 Goal #3: Reach a Broad Audience
 ========================================================
