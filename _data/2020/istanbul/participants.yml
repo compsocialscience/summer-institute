@@ -12,3 +12,8 @@
   image: /assets/images/MartinLlada.jpg
   bio: "Martin Llada is an economist who is doing a PhD in Economics at the University of Buenos Aires, Argentina. In addition, he is doing a master's degree in Data Science at the same University. He is interested in macroeconomic topics and the way available information is used for the formation of opinions related to these topics, which have an effect on people's behaviors and the dynamics of economy. His research agenda is focused on understanding the complex phenomenon of the process of agents’ opinion formation through the exploitation of several sources of data (newspapers, social networks, publications by private and public institutions, and objective indicators), and on evaluating whether the indices based on these sources of data can explain or predict the evolution of objective economic indicators."
   website:
+
+- name: Ezgi Siir Kibris
+  image: /assets/images/EzgiSiirKibris.png
+  bio: "Ezgi Siir Kibris is a Ph.D. student at the University of Rochester, Department of Political Science. She has MA degrees in Political Science and European Studies, and BA in Economics from Sabanci University. Her research revolves around judicial politics, international courts, corruption, and democratic backsliding. She is interested in quantitative methods specifically causal inference, machine learning, and natural language processing."
+  website:
