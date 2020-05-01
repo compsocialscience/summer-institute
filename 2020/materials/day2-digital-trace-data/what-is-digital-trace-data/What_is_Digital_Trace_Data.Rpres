@@ -1,7 +1,9 @@
 <style>
+
 .reveal section p {
   color: black;
   font-size: .7em;
+  font-weight: normal;
   font-family: 'Helvetica'; #this is the font/color of text in slides
 }
 
@@ -12,7 +14,27 @@
 .section .reveal p {
     color: black;
     position: relative;
+    font-family: 'Helvetica';
+    font-weight: normal;
     top: 4%;}
+   
+ 
+ /* section titles */
+.reveal h1 { 
+  color: black;
+  position: relative;
+  font-weight: normal;
+  font-family: 'Helvetica'; 
+  top: 4%
+}    
+
+ 
+/* slide titles */
+.reveal h3 { 
+  color: black;
+  font-weight: normal;
+  font-family: 'Helvetica'; 
+}    
 
 
 </style>
@@ -24,12 +46,16 @@ author: Chris Bail
 date: Duke University
 autosize: true
 transition: fade  
-  website: https://www.chrisbail.net  
-  github: https://github.com/cbail  
-  Twitter: https://www.twitter.com/chris_bail
+  Website: https://www.chrisbail.net  
+  Twitter: https://www.twitter.com/chris_bail  
+  Github: https://github.com/cbail  
 
 
+========================================================
+<img src="space.jpg" height="700" />  
 
+
+We Have Finally Found our Telescope!
 ========================================================
 &nbsp;
 
@@ -46,42 +72,57 @@ found our telescope. Let the revolution begin.*
 
 —Duncan Watts (2011, p. 266)
 
-What is Digital Trace Data?
-========================================================
-&nbsp;
 
-
--Social Media Sites  
--Web Search Data  
--Blogs/Other Internet Forums  
--Adminstrative Data on Websites  
--Internet Archive  
--Digitization of Historical Texts/Archives  
--Audio-Visual Data   
-
-What is Digital Trace Data?
+Digital Footprints
 ========================================================
 
-<img src="Eagle et al.png" height="600" />
+<img src="Eagle et al.png" height="600" />  
+From [Eagle et al. (2010)](https://science.sciencemag.org/content/328/5981/1029)
 
 
-What is Digital Trace Data?
+The Globalization of Culture
 ========================================================
 
-<img src="Facebook Map.png" height="600" />
+<img src="globalization.png" height="600" />  
+From [Bail et al. (2019)](https://drive.google.com/file/d/1tahX0PeQxfpZVTNgXG0AdJvmIOZz9icg/view)
 
-
-
-"Readymade" Data
+Mapping Social Distancing
 ========================================================
 
-<img src="readymade.png" height="600" />
+<img src="shelter.png" height="600" />  
 
-"Readymade" Data
+From [Safegraph](https://www.safegraph.com/dashboard/covid19-shelter-in-place?s=US&d=04-28-2020&t=counties&m=index)
+
+
+========================================================
+
+# **large, digital datasets, that describe human behavior** 
+
+(e.g social media sites, internet search data, blogs, administrative records, historical archives, audio-visual, or geospatial data)
+
+Custom-Made vs. Ready-Made Data
 ========================================================
 
 
-<img src="realreadymade.png" height="600" />
+Custom-Made Data
+========================================================
+
+<img src="david.jpg" height="600" />
+
+
+Ready-Made Data
+========================================================
+
+<img src="Eagle et al.png" height="600" />  
+From [Eagle et al. (2010)](https://science.sciencemag.org/content/328/5981/1029)
+
+
+Ready-Made Data
+========================================================
+<img src="picasso.jpg" height="600" />
+
+Strength or Weakness?
+========================================================
 
 
 
