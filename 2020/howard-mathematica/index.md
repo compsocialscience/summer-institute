@@ -15,4 +15,4 @@ Participation is open to Ph.D. students, postdoctoral researchers, and untenured
 
 The SICSS-Howard/Mathematica in Washington, D.C. is groundbreaking for a number of reasons. It will be the first Summer Institute held at a historically black college and university (HBCU). It also has the benefit of a deeply invested partner, Mathematica. Finally, SICSS-Howard/Mathematica will also have the benefit of a topical focus: Ethics and Equity in AI.
 
-<b>DUE DATE EXTENDED to Tuesday, March 31st, 2020 at 11:59pm ET.</b>
+<b>[Join our Email List for the most up to date information on the future of SICSS-Howard/Mathematica.](https://docs.google.com/forms/d/17poF12b9iLVCND-qUErcu7XluNlVDQq07syOeGOSMkY/viewform?edit_requested=true)</b>
