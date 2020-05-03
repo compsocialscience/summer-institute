@@ -1,8 +1,64 @@
 - day: Materials from 2020 will be placed here
   id: day_2020
+  
+- day: Day 1
+  id: day_1
+  topic: Introduction and Ethics
+  events:
+    - name: "Introduction to computational social science"
+    - name: "Welcome to virtual SICSS"
+    - name: "Introduction to computational social science"
+    - name: "Why SICSS?"
+    - name: "Ethics: Principles-based approach
+    - name: "Four areas of difficulty: Informed consent, informational risk, privacy, and making"
+    
+- day: Day 2
+  id: day_2
+  topic: Collecting Digital Trace Data
+  events:
+    - name: "What is digital trace data?"
+    - name: "Strengths and weakness of digital trace data"
+    - name: "Application Programming Interfaces"
+    - name: "Screen-scraping"
+    - name: "Building apps and bots"
+    
+- day: Day 3
+  id: day_3
+  topic: Automated Text Analysis
+  events:
+    - name: "History of quantitative text analysis"
+    - name: "Basics of text analysis"
+    - name: "Dictionary-based methods"
+    - name: "Topic models"
+    - name: "Text networks"
 
-- day: Materials from 2019 are available below
-  id: day_2019_0    
+- day: Day 4
+  id: day_4
+  topic: Surveys in the Digital Age
+  events:
+    - name: "Survey research in the digital age"
+    - name: "Probability and non-probability sampling"
+    - name: "Computer-administered interviews and wiki surveys"
+    - name: "Combining surveys and big data"
+
+- day: Day 5
+  id: day_5
+  topic: Mass Collaboration
+  events:
+    - name: "Mass collaboration"
+    - name: "Fragile Families Challenge"
+
+- day: Day 6
+  id: day_6
+  topic: Experiments
+  events:
+    - name: "What, why, and which experiments?"
+    - name: "Moving beyond simple experiments"
+    - name: "Four strategies for making experiments happen"
+    - name: "Zero variable cost data and musiclab"
+
+- day: Archived materials from 2019 are available below
+  id: day_2019_0
       
 - day: Day 1
   id: day_2019_1
