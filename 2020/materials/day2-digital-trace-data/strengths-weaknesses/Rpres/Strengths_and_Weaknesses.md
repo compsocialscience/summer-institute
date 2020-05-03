@@ -1,8 +1,12 @@
 <style>
+
 .reveal section p {
   color: black;
   font-size: .7em;
+  font-weight: normal;
   font-family: 'Helvetica'; #this is the font/color of text in slides
+  word-wrap: normal;
+  -moz-hyphens: none;
 }
 
 
@@ -12,7 +16,31 @@
 .section .reveal p {
     color: black;
     position: relative;
+    font-family: 'Helvetica';
+    font-weight: normal;
+    word-wrap: normal;
+    -moz-hyphens: none;
     top: 4%;}
+   
+ 
+ /* section titles */
+.reveal h1 { 
+  color: black;
+  position: relative;
+  font-weight: normal;
+  font-family: 'Helvetica';
+  word-wrap: normal;
+  -moz-hyphens: none;
+  top: 4%
+}    
+
+ 
+/* slide titles */
+.reveal h3 { 
+  color: black;
+  font-weight: normal;
+  font-family: 'Helvetica'; 
+}    
 
 
 </style>
@@ -24,16 +52,25 @@ author: Chris Bail
 date: Duke University
 autosize: true
 transition: fade  
-  website: https://www.chrisbail.net  
-  github: https://github.com/cbail  
-  Twitter: https://www.twitter.com/chris_bail
+  Website: https://www.chrisbail.net  
+  Twitter: https://www.twitter.com/chris_bail  
+  Github: https://github.com/cbail 
 
+
+========================================================
+
+<img src="bit_by_bit.jpg" height="600" />  
+
+
+========================================================
+
+# **STRENGTHS**
 
 BIG
 ========================================================
 
-<img src="Big Data.png" height="600" />
-
+<img src="Big Data.png" height="600" />  
+Image from Salganik, [Bit by Bit](https://www.bitbybitbook.com/)
 
 ALWAYS ON
 ========================================================
@@ -43,36 +80,34 @@ ALWAYS ON
 NON-REACTIVE
 ========================================================
 
-<img src="abortions-at-clinics-or-somewhere-else-1457138970171-facebookJumbo.png" height="600" />
+<img src="bail_merhout_ping.png" height="400" />  
+Link to article [here](https://advances.sciencemag.org/content/4/6/eaao5948)
 
 CAPTURES SOCIAL RELATIONSHIPS
 ========================================================
 
-<img src="European Networks.jpg" height="600" />
+<img src="bail_network.png" height="600" />  
+From [Bail et al. (2018)](http://www.pnas.org/content/early/2018/08/27/1804840115)
 
 
 
 ========================================================
 
-# **WEAKNESSES OF NEW TEXT DATA**
+# **WEAKNESSES**
 
 
-
-INCOMPLETE
-========================================================
-
-<img src="nocomment.jpg" height="400" />
 
 INACCESSIBLE
 ========================================================
 
-<img src="2014_under_infograpihc.png" height="600" />
+<img src="locked.jpg" height="600" />
 
 
 NON-REPRESENTATIVE
 ========================================================
 
-<img src="demographics.png" height="600" />
+<img src="social_media_demographics.png" height="600" />  
+Source: [Pew Research Center](https://www.pewresearch.org/fact-tank/2019/04/10/share-of-u-s-adults-using-social-media-including-facebook-is-mostly-unchanged-since-2018/)
 
 
 DRIFTING
@@ -84,8 +119,9 @@ DRIFTING
 
 ALGORITHIMICALLY CONFOUNDED
 ========================================================
-
-<img src="Google Flu.png" height="600" />
+&nbsp;  
+<img src="Google Flu.png" height="400" />  
+From [Lazer et al. (2014)](https://science.sciencemag.org/content/343/6176/1203.full)
 
 UNSTRUCTURED
 ========================================================
@@ -96,8 +132,13 @@ UNSTRUCTURED
 SENSITIVE
 ========================================================
 
-<img src="ok cupid.png" height="200" />
+<img src="ok cupid.png" height="300" />
 
+
+INCOMPLETE
+========================================================
+
+<img src="nocomment.jpg" height="200" />
 
 ELITE/PUBLICATION BIAS
 ========================================================
@@ -108,8 +149,8 @@ ELITE/PUBLICATION BIAS
 POSITIVITY-BIAS 
 ========================================================
 
-<img src="rottenecards_42267680_ptwng5szcn.png" height="600" />
-
+<img src="failures.png" height="600" />  
+From [Nature](https://www.nature.com/naturejobs/science/articles/10.1038/nj7322-467a), see also [this great example](https://www.princeton.edu/~joha/Johannes_Haushofer_CV_of_Failures.pdf)
 
 
 
@@ -117,4 +158,15 @@ THE FUTURE OF DIGITAL TRACE DATA
 ========================================================
 
 <img src="expectations.png" height="600" />
+
+See Salganik, [Bit by Bit](https://www.bitbybitbook.com/)
+
+
+THE FUTURE MIGHT BE HYBRID
+========================================================
+
+<img src="picasso.jpg" height="400" />
+<img src="david.jpg" height="400" />
+
+
 
