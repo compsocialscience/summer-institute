@@ -104,7 +104,7 @@ Anatomy of an API Call
 Output of API call:
 ========================================================
 
-<img src="duke_google.png" height="600" />
+<img src="duke_google.png" height="500" />
 
 
 Designing your Own API Calls
@@ -258,6 +258,7 @@ token <- create_token(
 
 Your First API Call
 ========================================================
+class: small-code
 &nbsp;
 
 ```r
@@ -309,7 +310,6 @@ ts_plot(covid_19_tweets, "secs") +
 
 Plot Results by Time
 ========================================================
-&nbsp;
 
 <img src="tsplot.png" height="600" />
 
@@ -434,7 +434,7 @@ head(rate_limits[50:55,1:4])
 Check Rate Limits
 ========================================================
 &nbsp;
-<img src="rate_limits.png" height="400" />
+<img src="rate_limits.png" height="300" />
 
 
 Get Trending Topics by Location
@@ -470,7 +470,16 @@ Here are a few: **`RgoogleMaps`, `googlelanguageR`,`rOpenSci,  `WDI`,`rOpenGov`,
 
 Many more are available but not yet on CRAN (install from github or using devtools)
 
-There Are Also APIs That do Analysis for You!
+
+A SICSS-sourced list of APIs for CSS
+========================================================
+&nbsp;
+
+https://docs.google.com/spreadsheets/d/1ZEr3okdlb0zctmX0MZKo-gZKPsq5WGn1nJOxPV7al-Q/edit?usp=sharing
+
+
+
+APIs Also do Analyses!
 ========================================================
 &nbsp;
 
@@ -479,12 +488,4 @@ For example, visualization **`plotly`**
 
 Challenges of Working with APIs
 ========================================================
-
-
-A SICSS-sourced list of APIs for CSS
-========================================================
-&nbsp;
-
-https://docs.google.com/spreadsheets/d/1ZEr3okdlb0zctmX0MZKo-gZKPsq5WGn1nJOxPV7al-Q/edit?usp=sharing
-
 

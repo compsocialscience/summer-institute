@@ -69,13 +69,13 @@ transition: fade
 BIG
 ========================================================
 
-<img src="Big Data.png" height="600" />  
+<img src="Big Data.png" height="400" />  
 Image from Salganik, [Bit by Bit](https://www.bitbybitbook.com/)
 
 ALWAYS ON
 ========================================================
 
-<img src="egypt-arab-spring-facebook-twitter.png" height="600" />
+<img src="egypt-arab-spring-facebook-twitter.png" height="400" />
 
 NON-REACTIVE
 ========================================================
@@ -86,7 +86,7 @@ Link to article [here](https://advances.sciencemag.org/content/4/6/eaao5948)
 CAPTURES SOCIAL RELATIONSHIPS
 ========================================================
 
-<img src="bail_network.png" height="600" />  
+<img src="bail_network.png" height="400" />  
 From [Bail et al. (2018)](http://www.pnas.org/content/early/2018/08/27/1804840115)
 
 
@@ -100,13 +100,13 @@ From [Bail et al. (2018)](http://www.pnas.org/content/early/2018/08/27/180484011
 INACCESSIBLE
 ========================================================
 
-<img src="locked.jpg" height="600" />
+<img src="locked.jpg" height="400" />
 
 
 NON-REPRESENTATIVE
 ========================================================
 
-<img src="social_media_demographics.png" height="600" />  
+<img src="social_media_demographics.png" height="400" />  
 Source: [Pew Research Center](https://www.pewresearch.org/fact-tank/2019/04/10/share-of-u-s-adults-using-social-media-including-facebook-is-mostly-unchanged-since-2018/)
 
 
@@ -126,7 +126,7 @@ From [Lazer et al. (2014)](https://science.sciencemag.org/content/343/6176/1203.
 UNSTRUCTURED
 ========================================================
 
-<img src="The-Dirty-Little-Secret-of-Big-Data.png" height="600" />
+<img src="The-Dirty-Little-Secret-of-Big-Data.png" height="400" />
 
 
 SENSITIVE
@@ -144,12 +144,12 @@ ELITE/PUBLICATION BIAS
 ========================================================
 
 
-<img src="books.jpg" height="600" />
+<img src="books.jpg" height="400" />
 
 POSITIVITY-BIAS 
 ========================================================
 
-<img src="failures.png" height="600" />  
+<img src="failures.png" height="400" />  
 From [Nature](https://www.nature.com/naturejobs/science/articles/10.1038/nj7322-467a), see also [this great example](https://www.princeton.edu/~joha/Johannes_Haushofer_CV_of_Failures.pdf)
 
 
@@ -157,8 +157,7 @@ From [Nature](https://www.nature.com/naturejobs/science/articles/10.1038/nj7322-
 THE FUTURE OF DIGITAL TRACE DATA
 ========================================================
 
-<img src="expectations.png" height="600" />
-
+<img src="expectations.png" height="400" />
 See Salganik, [Bit by Bit](https://www.bitbybitbook.com/)
 
 
