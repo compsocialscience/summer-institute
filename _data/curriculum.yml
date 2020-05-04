@@ -1,5 +1,35 @@
+- day: Materials from 2020 will be placed here
+  id: day_2020
+  
 - day: Day 1
   id: day_1
+  topic: Introduction and Ethics
+    
+- day: Day 2
+  id: day_2
+  topic: Collecting Digital Trace Data
+    
+- day: Day 3
+  id: day_3
+  topic: Automated Text Analysis
+
+- day: Day 4
+  id: day_4
+  topic: Surveys in the Digital Age
+
+- day: Day 5
+  id: day_5
+  topic: Mass Collaboration
+
+- day: Day 6
+  id: day_6
+  topic: Experiments
+
+- day: Archived materials from 2019 are available below
+  id: day_2019_0
+      
+- day: Day 1
+  id: day_2019_1
   topic: Introduction and Ethics
   events:
     - name: "Introduction to computational social science"
@@ -48,7 +78,7 @@
       resource: "https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf"
 
 - day: Day 2
-  id: day_2
+  id: day_2019_2
   topic: Collecting Digital Trace Data
   events:
     - name: "What is digital trace data?"
@@ -100,7 +130,7 @@
       resource: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/Group_Exercise_Day_2.html"
 
 - day: Day 3
-  id: day_3
+  id: day_2019_3
   topic: Automated Text Analysis
   events:
     - name: "History of quantitative text analysis"
@@ -154,7 +184,7 @@
       resource: "https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/SICSS_Group_Exercise_Day_3.html"
 
 - day: Day 4
-  id: day_4
+  id: day_2019_4
   topic: Surveys in the Digital Age
   events:
     - name: "Survey research in the digital age"
@@ -194,7 +224,7 @@
 
 
 - day: Day 5
-  id: day_5
+  id: day_2019_5
   topic: Mass Collaboration
   events:
     - name: "Mass collaboration"
@@ -220,7 +250,7 @@
           text: "Slides"
 
 - day: Day 6
-  id: day_6
+  id: day_2019_6
   topic: Experiments in the Digital Age
   events:
     - name: "What, why, and which experiments?"
