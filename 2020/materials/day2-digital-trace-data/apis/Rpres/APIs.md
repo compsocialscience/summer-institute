@@ -1,8 +1,9 @@
-
 <style>
+
 .reveal section p {
   color: black;
   font-size: .7em;
+  font-weight: normal;
   font-family: 'Helvetica'; #this is the font/color of text in slides
 }
 
@@ -13,36 +14,55 @@
 .section .reveal p {
     color: black;
     position: relative;
+    font-family: 'Helvetica';
+    font-weight: normal;
     top: 4%;}
+   
+ 
+ /* section titles */
+.reveal h1 { 
+  color: black;
+  position: relative;
+  font-weight: normal;
+  font-family: 'Helvetica'; 
+  top: 4%
+}    
 
-.wrap-url pre code {
-  word-wrap:break-word;
+ 
+/* slide titles */
+.reveal h3 { 
+  color: black;
+  font-weight: normal;
+  font-family: 'Helvetica'; 
+}    
+
+.small-code pre code {
+  font-size: 1.2em;
 }
-
-
 
 </style>
 
 
-Application Programming Interfaces
+
+APIs
 ========================================================
 author: Chris Bail 
 date: Duke University
 autosize: true
 transition: fade  
-  website: https://www.chrisbail.net  
-  github: https://github.com/cbail  
-  Twitter: https://www.twitter.com/chris_bail
+  Website: https://www.chrisbail.net  
+  Twitter: https://www.twitter.com/chris_bail  
+  Github: https://github.com/cbail  
 
 
-What Is an Application Programming Interface (API)?
+What Is an Application Programming Interface?
 ========================================================
 
 
-What Is an Application Programming Interface (API)?
+What Is an Application Programming Interface?
 ========================================================
 
-<img src="APIs diagram.png" height="500" />
+<img src="api_diagram.png" height="500" />
 
 
 
@@ -51,20 +71,26 @@ Growth of APIS
 <img src="api_growth.png" height="500" />
 
 
-A List of APIs
+More than >22,000 APIs!
 ========================================================
-&nbsp; 
 
-There are now nearly 20,000 APIs and counting:
+<img src="programmableweb.png" height="150" />
+<img src="anyapi.png" height="150" />
 
-https://www.programmableweb.com/apis/directory
+
+
+https://www.programmableweb.com/apis/directory 
+&nbsp;  
+
+https://any-api.com/
+
 
 How Does an API Work?
 ========================================================
 &nbsp;
 
 
-Simple Example with Google Maps API
+Google Maps API Example
 ========================================================
 
 
@@ -78,7 +104,7 @@ Anatomy of an API Call
 Output of API call:
 ========================================================
 
-<img src="duke_google.png" height="500" />
+<img src="duke_google.png" height="600" />
 
 
 Designing your Own API Calls
@@ -107,41 +133,61 @@ Navigate to:
 https://developers.facebook.com/tools/explorer?classic=0
 
 
+Example: Facebook API
+========================================================
+
+<img src="graphexplorer.png" height="600" />
 
 Rate Limiting
 ========================================================
 
+
+
+Rate Limiting
+========================================================
+
+
+![plot of chunk unnamed-chunk-1](APIs-figure/unnamed-chunk-1-1.png)
+
+
+
+Throttling
+========================================================
+
+
+![plot of chunk unnamed-chunk-2](APIs-figure/unnamed-chunk-2-1.png)
 
 An Example with Twitter's API
 ========================================================
 
 Navigate to:
 
-https://apps.twitter.com.
+http://developer.twitter.com
 
 
-An Example with Twitter's API
+developer.twitter.com
+========================================================
+<img src="twitter_landing.png" height="600" />
+
+
+Get Started
 ========================================================
 
-![](twitter_dialogue.png)
+<img src="get_started.png" height="600" />
 
-Select Account Type and Describe Use
+Create App
 ========================================================
+<img src="create_app.png" height="600" />
 
-![](organization.png)
 
-The Waiting Is the Hardest Part...
+App Dashboard
 ========================================================
+<img src="no_apps.png" height="600" />
 
-![](waiting.png)
 
-Your Developer Console
+App-lication
 ========================================================
-
-![](apppage.png)
-
-
-
+<img src="application_form.png" height="600" />
 
 Callback URL
 ========================================================
@@ -150,18 +196,30 @@ Callback URL
 http://127.0.0.1:1410
 
 
+The Waiting Is the Hardest Part...
 ========================================================
-&nbsp;
+
+<img src="waiting.png" height="600" />
+
+=
+Your Developer Console
+========================================================
+
+<img src="apppage.png" height="600" />
+
+
 
 Keys and Access Tokens
 ========================================================
+<img src="credentials_blurred.png" height="600" />
 
-![](credentials_blurred.png)
 
 
 The rtweet Package
 ========================================================
 &nbsp;
+
+Developed by the heroic [Michael Kerney](https://mikewk.com/about/)
 
 
 ```r
@@ -169,36 +227,41 @@ install.packages("rtweet")
 ```
 
 
+
 Define Your Credentials
 ========================================================
-&nbsp;
+class: small-code
+
 
 ```r
-app_name<-"YOURAPPNAMEHERE"
-consumer_key<-"YOURKEYHERE"
-consumer_secret<-"YOURSECRETHERE"
-access_token<-"YOURACCESSTOKENHERE"
-access_token_secret<-"YOURACCESSTOKENSECRETHERE"
-```
+# load rtweet
 
-
-Authenticate Yourself with Twitter API
-========================================================
-&nbsp;
-
-```r
 library(rtweet)
-create_token(app=app_name, consumer_key=consumer_key, consumer_secret=consumer_secret, access_token=access_token,
-access_secret=access_token_secret,
-set_renv = TRUE)
+
+# create credentials as objects (these are FAKE CREDENTIALS)
+# you need to replace them with your own.
+
+api_key <- "aafghaioeriokjasfkljhsa"
+api_secret_key <- "234897234kasdflkjashk"
+
+# replace "my_awesome_app" with the name of YOUR app below
+
+token <- create_token(
+  app = "my_awesome_app",
+  consumer_key = api_key,
+  consumer_secret = api_secret_key)
+
+# after you run the code above, a browser window will open asking you to authorize the app. 
+# Once you do, you can begin making calls
 ```
+
 
 Your First API Call
 ========================================================
 &nbsp;
 
 ```r
-korea_tweets<-search_tweets("#Korea", n=3000, include_rts = FALSE)
+covid_19_tweets<-search_tweets("coronavirus", n=4000)
 ```
 
 
@@ -209,147 +272,153 @@ Browse the Results
 &nbsp;
 
 ```r
-names(korea_tweets)
+names(covid_19_tweets)
 ```
 
 
 Browse the Results
 ========================================================
 &nbsp;
-<img src="named_variables.png" height="500" />
+
+```r
+head(covid_19_tweets$text)
+```
+
 
 Browse the Results
 ========================================================
-&nbsp;
+<img src="covid_texts.png" height="600" />
 
-```r
-head(korea_tweets$text)
-```
 
-<img src="korea_tweets.png" height="500" />
-
-Plot the Results
+Plot Results by Time
 ========================================================
-&nbsp;
+class: small-code
+
 
 ```r
-ts_plot(korea_tweets, "3 hours") +
+ts_plot(covid_19_tweets, "secs") +
   ggplot2::theme_minimal() +
   ggplot2::theme(plot.title = ggplot2::element_text(face = "bold")) +
   ggplot2::labs(
     x = NULL, y = NULL,
-    title = "Frequency of Tweets about Korea from the Past Day",
-    subtitle = "Twitter status (tweet) counts aggregated using three-hour intervals",
+    title = "Frequency of Tweets about Covid-19 Around 1pm, May 3, 2020",
+    subtitle = "Tweet counts aggregated by second",
     caption = "\nSource: Data collected from Twitter's REST API via rtweet"
   )
 ```
 
-Plot the Results
+Plot Results by Time
 ========================================================
 &nbsp;
-<img src="tsplot.png" height="500" />
+
+<img src="tsplot.png" height="600" />
 
 Next, Let's Search by Location
 ========================================================
+class: small-code
 &nbsp;
 
 ```r
-nk_tweets <- search_tweets("korea",
+covid_geo_tweets <- search_tweets("coronavirus",
   "lang:en", geocode = lookup_coords("usa"), 
-  n = 1000, type="recent", include_rts=FALSE
+  n = 3000, type="recent", include_rts=FALSE
   )
-geocoded <- lat_lng(nk_tweets)
+geocoded <- lat_lng(covid_geo_tweets)
 ```
 
 
 Plot
 ========================================================
+class: small-code
 &nbsp;
+
 
 ```r
 par(mar = c(0, 0, 0, 0))
-maps::map("state", lwd = .25)
-with(geocoded, points(lng, lat, pch = 20, cex = .75, col = rgb(0, .3, .7, .75)))
+maps::map("world", lwd = .25)
+with(geocoded, points(lng, lat, pch = 20, cex = .50, col = rgb(0, .3, .7, .75)))
 ```
 
 
 Plot
 ========================================================
 &nbsp;
-<img src="map.png" height="500" />
+<img src="covid_map.png" height="600" />
 
 
 Get Tweets from Individual Account
 ========================================================
+class: small-code
 &nbsp;
 
 ```r
-sanders_tweets <- get_timelines(c("sensanders"), n = 5)
-head(sanders_tweets$text)
+trump_tweets <- get_timelines(c("realDonaldTrump
+"), n = 5)
+head(trump_tweets$text)
 ```
 
-Get Tweets from Individual Account
+Five Trump Tweets
 ========================================================
 &nbsp;
-<img src="Sanders.png" height="400" />
+<img src="trump_tweets.png" height="300" />
 
 
 Get General Information About a User
 ========================================================
+class: small-code
 &nbsp;
 
 ```r
-sanders_twitter_profile <- lookup_users("sensanders")
+obama_twitter_profile <- lookup_users("BarackObama")
 ```
 
 
 Browse Fields
 ========================================================
+class: small-code
 &nbsp;
 
 ```r
-sanders_twitter_profile$description
+obama_twitter_profile$description
 ```
 
 
 Browse Fields
 ========================================================
+class: small-code
 &nbsp;
 
 ```r
-sanders_twitter_profile$location
+obama_twitter_profile$location
 ```
 
 Browse Fields
 ========================================================
+class: small-code
 &nbsp;
 
 ```r
-sanders_twitter_profile$followers_count
+obama_twitter_profile$followers_count
 ```
 
 
 Get Users' Favorites
 ========================================================
+class: small-code
 &nbsp;
 
 ```r
-sanders_favorites<-get_favorites("sensanders", n=5)
-sanders_favorites$text
+obama_favorites<-get_favorites("BarackObama", n=5)
 ```
-
-Get Users' Favorites
-========================================================
-&nbsp;
-<img src="favorites.png" height="400" />
 
 
 Get Networks
 ========================================================
+class: small-code
 &nbsp;
 
 ```r
-sanders_follows<-get_followers("sensanders")
+watts_followers<-get_followers("duncanjwatts")
 ```
 
 
@@ -359,13 +428,13 @@ Check Rate Limits
 
 ```r
 rate_limits<-rate_limit()
-head(rate_limits[,1:4])
+head(rate_limits[50:55,1:4])
 ```
 
 Check Rate Limits
 ========================================================
 &nbsp;
-<img src="ratelimits.png" height="400" />
+<img src="rate_limits.png" height="400" />
 
 
 Get Trending Topics by Location
@@ -376,18 +445,13 @@ Get Trending Topics by Location
 get_trends("New York")
 ```
 
-Get Trending Topics by Location
-========================================================
-&nbsp;
-<img src="trendsny.png" height="400" />
-
 
 rtweet can even post tweets!
 ========================================================
 &nbsp;
 
 ```r
-post_tweet("I love APIs")
+post_tweet("This Lecture is SICSS-xy")
 ```
 &nbsp;  
 
@@ -397,83 +461,29 @@ Wrapping API Calls within a Loop
 ========================================================
 
 
-Wrapping API Calls within a Loop
-========================================================
-class: wrap-url
-&nbsp;
-
-```r
-#load list of twitter handles for elected officials
-elected_officials<-read.csv("https://cbail.github.io/Elected_Officials_Twitter_Handles.csv",stringsAsFactors = FALSE)
-head(elected_officials)
-```
-
-```
-                  name    screen_name
-1   Sen Luther Strange SenatorStrange
-2    Rep. Mike Johnson RepMikeJohnson
-3             Ted Budd     RepTedBudd
-4    Adriano Espaillat   RepEspaillat
-5 Rep. Blunt Rochester  RepBRochester
-6  Nanette D. Barragán    RepBarragan
-```
-
-
-Wrapping API Calls within a Loop
-========================================================
-class: wrap-url
-
-```r
-#create empty container to store tweets for each elected official
-elected_official_tweets<-as.data.frame(NULL)
-
-for(i in 1:nrow(elected_officials)){
-  
-  #pull tweets
-  tweets<-get_timeline(elected_officials$screen_name[i], n=100)
-  
-  #populate dataframe
-  elected_official_tweets<-rbind(elected_official_tweets, tweets)
-  
-  #pause for one second to further prevent rate limiting
-  Sys.sleep(1)
-  
-  #print number/iteration for debugging/monitoring progress
-  print(i)
-}
-```
-
-
-
 
 There Are R Packages for Other APIs
 ========================================================
 &nbsp;
 
-**Here are a few: `RgoogleMaps`, `Rfacebook`, `rOpenSci`(this one combines many different APIs e.g. the Internet Archive),  `WDI`,`rOpenGov`,`rtimes`**
+Here are a few: **`RgoogleMaps`, `googlelanguageR`,`rOpenSci,  `WDI`,`rOpenGov`,`rtimes`**
 
-**Many more are available but not yet on CRAN (install from github or using devtools)**
+Many more are available but not yet on CRAN (install from github or using devtools)
 
 There Are Also APIs That do Analysis for You!
 ========================================================
 &nbsp;
 
-**For example, visualization (`plotly`)**
+For example, visualization **`plotly`** 
 
 
 Challenges of Working with APIs
 ========================================================
 
 
-A List of APIs of Interest
+A SICSS-sourced list of APIs for CSS
 ========================================================
 &nbsp;
-
-https://www.programmableweb.com/ https://github.com/toddmotto/public-apis  
-
-https://apilist.fun/
-
-https://ropensci.org/packages/
 
 https://docs.google.com/spreadsheets/d/1ZEr3okdlb0zctmX0MZKo-gZKPsq5WGn1nJOxPV7al-Q/edit?usp=sharing
 
