@@ -24,11 +24,9 @@ The majority of the coding work presented at the 2020 SICSS will employ R. Howev
   
 If you cannot afford datacamp, check out Chris Bail's Intro to R slides at [http://www.chrisbail.net/p/learn-comp-soc.html](http://www.chrisbail.net/p/learn-comp-soc.html), or Charles Lanfear's course at University of Washington [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/). This course includes videos of lectures, slides, and assignments. You can also check out Code Academy at [Learn R](https://www.codecademy.com/learn/learn-r) or Data Carpentry at [R for Social Science](https://datacarpentry.org/r-socialsci/).
 
-## Reading
+## General readings
 
 Our institute will bring together people from many fields, and therefore we think that asking you to do some reading before you arrive will help us use our time together more effectively.  First, we ask you to read Matt's book, [Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com), which is a broad introduction to computational social science. Parts of this book will be review for most of you, but if we all read this book ahead of time, then we can use our time together for more advanced topics.
-
-Also, for students with little or no exposure to sociology, economics, or political science, we have assembled a collection of exemplary papers in the core areas addressed by the Russell Sage Foundation. Neither your work nor the work we develop together at the institute need map neatly onto these categories, but if those with less exposure to social science read these, we will increase the chances of interdisciplinary cross-pollination, which we view as critical to the future of computational social science.
 
 ## Computing environment
 
@@ -45,7 +43,9 @@ Before SICSS you should install a modern, stable-release version of [R](https://
 You may need to create accounts on other platforms as well.  If so, we will post that information here.
 
 
-## Other reading List
+## Reading List
+
+For students with little or no exposure to sociology, economics, or political science, we have assembled a collection of exemplary papers in the core areas addressed by the Russell Sage Foundation. Neither your work nor the work we develop together at the institute need map neatly onto these categories, but if those with less exposure to social science read these, we will increase the chances of interdisciplinary cross-pollination, which we view as critical to the future of computational social science.
 
 ### Future of Work
   - Granovetter, Mark S. 1973. "The Strength of Weak Ties." American Journal of Sociology 78(6), pp.1360???80.
