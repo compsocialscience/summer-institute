@@ -149,10 +149,10 @@ wikipedia_page
 ```
 
 ```
-{xml_document}
+{html_document}
 <html class="client-nojs" lang="en" dir="ltr">
-[1] <head>\n<meta http-equiv="Content-Type" content="text/html; charset=UTF-8 ...
-[2] <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject  ...
+[1] <head>\n<meta http-equiv="Content-Type" content="text/html; charset= ...
+[2] <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-sub ...
 ```
 
 Parsing HTML
@@ -202,10 +202,10 @@ head(section_of_wikipedia)
 
 ```
 $node
-<pointer: 0x7ff85ac20960>
+<pointer: 0x7fac43e9c750>
 
 $doc
-<pointer: 0x7ff85c914e30>
+<pointer: 0x7fac43e65030>
 ```
 
 Extracting the Table
@@ -234,7 +234,7 @@ When the XPath Fails...
 ========================================================
 
 
-A More Complicated Page: www.duke.edu
+A More Complicated Page
 ========================================================
 &nbsp; 
 <img src="First_CSS.png" height="600" />
