@@ -37,3 +37,13 @@
   image: /assets/images/KyleBeattie.jpg
   bio: "Kyle Beattie is a professor and researcher of Political Science and English as a Second Language. He obtained his BA in Political Science from Humboldt State University and his MA in Teaching: TESOL from the University of Southern California. Here is a list of his recent research. Currently, he is a PhD student at the University of Alberta in the Department of Political Science specializing in International Relations and Comparative Politics. His doctoral dissertation focuses on the field of corruption studies. Whereas most of the discipline of corruption studies has largely focused on developing world corruption, he is interested in the types of corruption that emanate from the developed world. These forms of corruption, which are often much more sophisticated, include illegal wars, economic sanctions, fiat currency manipulation, the UN veto vote, and others. He is also an amateur self-taught programmer and avid language learner. He speaks and researches in English, Spanish, and Arabic. Here is a link to his personal website to find out more."
   website:
+
+- name: Enes Abanoz
+  image: /assets/images/EnesAbanoz.jpg
+  bio: "Enes Abanoz is an assistant professor in School for Communication at Ondokuz Mayıs University, Turkey where he has been faculty member since 2018. He has been worked as an assistant professor at Woosong University, South Korea in the 2018-2019 academic year. Enes Abanoz completed his Ph.D. at the Marmara University and his undergraduate studies at Istanbul Commerce University. During his Ph.D. education, he had been as a visiting researcher in Digital Media, Networks & Political Communication (DiMeNet) at University of Pennsylvania and Social Media & Political Participation (SMaPP) at New York University. His research interests lie in the area of Graph Theory, Computational Communication and Social Media, ranging from theory to implementations."
+  website:
+
+- name: Bilal Salaymeh
+  image: /assets/images/BilalSaleymi.png
+  bio: "Bilal Salaymeh is a Ph.D. student in the International Relations and Political Science program at the Graduate Institute of International and Development Studies IHEID in Genève. He holds a BA and MS in International Relations. His research interests revolve around: the relations between authoritarian political regimes’ nature and possibilities of transition/change; post-conflict state/peacebuilding, SSR and CVE; and armed non-state actors, with a solid background in politics of the Middle East and experience in policy-oriented research. Bilal is interested in the emerging computational social science approaches and their potential to advance political research."
+  website:
