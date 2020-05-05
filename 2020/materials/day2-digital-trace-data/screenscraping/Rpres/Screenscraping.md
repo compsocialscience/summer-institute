@@ -1,10 +1,9 @@
-
 <style>
-
 
 .reveal section p {
   color: black;
   font-size: .7em;
+  font-weight: normal;
   font-family: 'Helvetica'; #this is the font/color of text in slides
 }
 
@@ -15,12 +14,36 @@
 .section .reveal p {
     color: black;
     position: relative;
+    font-family: 'Helvetica';
+    font-weight: normal;
     top: 4%;}
+   
+ 
+ /* section titles */
+.reveal h1 { 
+  color: black;
+  position: relative;
+  font-weight: normal;
+  font-family: 'Helvetica'; 
+  top: 4%
+}    
 
+ 
+/* slide titles */
+.reveal h3 { 
+  color: black;
+  font-weight: normal;
+  font-family: 'Helvetica'; 
+}    
+
+.small-code pre code {
+  font-size: 1.2em;
+}
 
 .wrap-url pre code {
   word-wrap:break-word;
 }
+
 
 </style>
 
@@ -31,9 +54,9 @@ author: Chris Bail
 date: Duke University
 autosize: true
 transition: fade  
-  website: https://www.chrisbail.net  
-  github: https://github.com/cbail  
-  Twitter: https://www.twitter.com/chris_bail
+  Website: https://www.chrisbail.net  
+  Twitter: https://www.twitter.com/chris_bail  
+  Github: https://github.com/cbail 
 
 
 What is Screen-Scraping?
@@ -53,7 +76,7 @@ Is Screen-Scraping Legal?
 
 
 
-Warning: Screen-Scraping is Frustrating
+Screen-Scraping is Frustrating
 ========================================================
 
 
@@ -102,6 +125,7 @@ What a Web Page Looks like to a Computer
 Downloading HTML
 ========================================================
 class: wrap-url
+
 &nbsp;
 
 
@@ -109,7 +133,9 @@ class: wrap-url
 
 
 ```r
-wikipedia_page<-read_html("https://en.wikipedia.org/wiki/World_Health_Organization_ranking_of_health_systems_in_2000")
+wikipedia_page<-
+
+read_html("https://en.wikipedia.org/wiki/World_Health_Organization_ranking_of_health_systems_in_2000")
 ```
 
 
@@ -125,15 +151,15 @@ wikipedia_page
 ```
 {xml_document}
 <html class="client-nojs" lang="en" dir="ltr">
-[1] <head>\n<meta http-equiv="Content-Type" content="text/html; charset= ...
-[2] <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-sub ...
+[1] <head>\n<meta http-equiv="Content-Type" content="text/html; charset=UTF-8 ...
+[2] <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject  ...
 ```
 
 Parsing HTML
 ========================================================
 &nbsp;
 
-<img src="html_tree.png" height="300" />
+<img src="html_tree.png" height="400" />
 
 
 Parsing HTML
@@ -163,36 +189,42 @@ The XPath (Right Click, copy XPath)
 
 Using the XPath
 ========================================================
+class: small-code
 &nbsp;
 
 ```r
-section_of_wikipedia<-html_node(wikipedia_page, xpath='//*[@id="mw-content-text"]/div/table[2]')
+section_of_wikipedia<-
+  html_node(wikipedia_page, 
+            xpath='//*[@id="mw-content-text"]/div/table')
+
 head(section_of_wikipedia)
 ```
 
 ```
 $node
-<pointer: 0x7fdd9808a2f0>
+<pointer: 0x7ff85ac20960>
 
 $doc
-<pointer: 0x7fdd9557c430>
+<pointer: 0x7ff85c914e30>
 ```
 
 Extracting the Table
 ========================================================
+class: small-code
 &nbsp;
 
 
 ```r
 health_rankings<-html_table(section_of_wikipedia)
+
 head(health_rankings[,(1:2)])
 ```
 
 ```
               Country Attainment of goals / Health / Level (DALE)
-1         Afghanistan                                         168
+1         Afghanistan                                         164
 2             Albania                                         102
-3             Algeria                                          84
+3             Algeria                                          44
 4             Andorra                                          10
 5              Angola                                         165
 6 Antigua and Barbuda                                          48
@@ -214,27 +246,31 @@ Selector Gadget
 
 http://selectorgadget.com/
 
-Parsing With the CSS Selector
+Parsing with the CSS Selector
 ========================================================
 <img src="Second_CSS.png" height="600" />
 
 
 
-Parsing With the CSS Selector
+Parsing with the CSS Selector
 ========================================================
+class: small-code
 &nbsp; 
 
 
 ```r
-duke_page<-read_html("https://www.duke.edu")
-duke_events<-html_nodes(duke_page, css="li:nth-child(1) .epsilon")
+duke_page<-
+  read_html("https://www.duke.edu")
+duke_events<-
+  html_nodes(duke_page, css="li:nth-child(1) .epsilon")
+
 html_text(duke_events)
 ```
 
 ```
-[1] "Is There a Limit to Human Endurance? Science Says Yes\n\n\t\t\t\t\t\t\t"      
-[2] "ADF Musicians Concert "                                                       
-[3] "Duke Fuqua Insights: What Your Digital Footprint Says About Credit Worthiness"
+[1] "Duke Experts: A Trusted Source for Policymakers\n\n\t\t\t\t\t\t\t"
+[2] "Zoom: An Open Forum"                                              
+[3] "Best Practices for Online Teaching"                               
 ```
 
 
@@ -290,6 +326,7 @@ remDr$navigate("https://www.duke.edu")
 
 Navigate to the Search Bar
 ========================================================
+class: small-code
 &nbsp;
 
 
@@ -299,6 +336,7 @@ search_box <- remDr$findElement(using = 'css selector', 'fieldset input')
 
 Input a Search
 ========================================================
+class: small-code
 &nbsp;
 
 
@@ -309,37 +347,6 @@ search_box$sendKeysToElement(list("data science", "\uE007"))
 
 Screenscraping Within a Loop
 ========================================================
-
-
-Screenscraping Within a Loop 
-========================================================
-
-Example (non-functional) code:
-
-
-```r
-#create list of websites to scrape
-my_list_of_websites<-c("www.duke.edu","www.penn.edu")
-
-#create place to store text data
-text_data<-as.data.frame(NULL)
-
-#loop
-for(i in 1: length(my_list_of_websites)){
-  
-  #read in page and extract text
-  page<-read_html("https://www.duke.edu")
-  events<-html_nodes(page, css="li:nth-child(1) .epsilon")
-  text<-html_text(events)
-  
-  #store text in dataset created above
-  text_data<-rbind(text_data,text)
-  
-  #print iteration for de-bugging
-  print(i)
-}
-```
-
 
 
 When Should I Use Screen-Scraping?
