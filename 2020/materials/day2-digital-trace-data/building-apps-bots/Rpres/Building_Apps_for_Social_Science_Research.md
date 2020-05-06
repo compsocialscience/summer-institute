@@ -244,13 +244,13 @@ Shiny
 
 Shiny is a (relatively) new tool that enables people to build, compile, and host interactive apps natively within RStudio
 
-<img src="shiny.png" height="600" />
+<img src="shiny.png" height="400" />
 
 
 Example 
 ========================================================
 
-<embed width="1000" height="600" src="https://vac-lshtm.shinyapps.io/ncov_tracker/">
+<embed width="9000" height="500" src="https://vac-lshtm.shinyapps.io/ncov_tracker/">
 
 Check out the R code [here](https://github.com/eparker12/nCoV_tracker).
 
@@ -299,7 +299,6 @@ Linking to Cloud Servers
 
 Google's Flutter SDK
 ========================================================
-&nbsp;
 
 <img src="Flutter.png">
 
@@ -320,13 +319,11 @@ Using Bots to Study Social Media & Polarization
 
 Using Bots to Study Social Media & Polarization
 ========================================================
-&nbsp;
 
 Using Bots to Study Social Media & Polarization
 ========================================================
-&nbsp;
 
-<img src="Bail_research_design.png" height="600" />
+<img src="Bail_research_design.png" height="500" />
 
 [Bail et al. 2018](https://www.pnas.org/content/115/37/9216)
 
@@ -335,7 +332,8 @@ Using Bots to Study Social Media & Polarization
 Using Bots to Study Social Media & Polarization
 ========================================================
 
-<img src="figure_1.png" height="400" />
+<img src="figure_1.png" height="400" />  
+[Bail et al. 2018](https://www.pnas.org/content/115/37/9216)
 
 
 How Do I Build a Bot?
@@ -368,13 +366,13 @@ Making a Bot Interactive
 Making a Bot Interactive
 ========================================================
   
-  <img src="Munger.png" height="600" />
+  <img src="Munger.png" height="500" />
 
 Making a Bot Interactive
 ========================================================
 &nbsp;
 
-<img src="Munger_flow.png" height="600" />
+<img src="Munger_flow.png" height="500" />
 
 From [Munger, 2017](https://link.springer.com/article/10.1007/s11109-016-9373-5)
 
