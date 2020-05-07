@@ -1,8 +1,9 @@
-
 <style>
+
 .reveal section p {
   color: black;
   font-size: .7em;
+  font-weight: normal;
   font-family: 'Helvetica'; #this is the font/color of text in slides
 }
 
@@ -13,26 +14,49 @@
 .section .reveal p {
     color: black;
     position: relative;
+    font-family: 'Helvetica';
+    font-weight: normal;
     top: 4%;}
+   
+ 
+ /* section titles */
+.reveal h1 { 
+  color: black;
+  position: relative;
+  font-weight: normal;
+  font-family: 'Helvetica'; 
+  top: 4%
+}    
 
+ 
+/* slide titles */
+.reveal h3 { 
+  color: black;
+  font-weight: normal;
+  font-family: 'Helvetica'; 
+}    
 
+.small-code pre code {
+  font-size: 1.2em;
+}
 
 </style>
 
 
-Basic Text Analysis
+
+Basics of Text Analysis
 ========================================================
 author: Chris Bail 
 date: Duke University
 autosize: true
 transition: fade  
   website: https://www.chrisbail.net  
+  Twitter: https://www.twitter.com/chris_bail  
   github: https://github.com/cbail  
-  Twitter: https://www.twitter.com/chris_bail
 
 ========================================================
 
-# **CLEANING TEXT**
+# **WRANGLING TEXT**
 
 Character Encoding
 ========================================================
@@ -42,16 +66,39 @@ Character Encoding
 &nbsp;
 <img src="character-viewer.png" height="400" />
 
+UTF-8
+========================================================
+&nbsp;
+<img src="utf8.jpg" height="400" />
+
+Character Encoding Over Time
+========================================================
+&nbsp;
+<img src="encoding_over_time.png" height="400" />
+
 
 GREP
 ========================================================
 
+
 GREP
+========================================================
+
+Globally search a regular expression and print
+
+Regular Expression
+========================================================
+
+A pattern that describes a set of strings, e.g.
+
+
+It's GREP-tastic!
 ========================================================
 &nbsp;
 
+
 ```r
-duke_web_scrape<- "Class of 2018: Senior Stories of Discovery, Learning and Serving\n\n\t\t\t\t\t\t\t" 
+duke_web_scrape<- "Duke Experts: A Trusted Source for Policymakers\n\n\t\t\t\t\t\t\t" 
 ```
 
 grepl
@@ -59,7 +106,7 @@ grepl
 &nbsp;
 
 ```r
-grepl("Class", duke_web_scrape)
+grepl("Experts", duke_web_scrape)
 ```
 
 ```
@@ -76,7 +123,7 @@ gsub("\t", "", duke_web_scrape)
 ```
 
 ```
-[1] "Class of 2018: Senior Stories of Discovery, Learning and Serving\n\n"
+[1] "Duke Experts: A Trusted Source for Policymakers\n\n"
 ```
 
 gsub (2 patterns)
@@ -88,27 +135,30 @@ gsub("\t|\n", "", duke_web_scrape)
 ```
 
 ```
-[1] "Class of 2018: Senior Stories of Discovery, Learning and Serving"
+[1] "Duke Experts: A Trusted Source for Policymakers"
 ```
 
 More GREP
 ========================================================
+class: small-code
 &nbsp;
 
 ```r
-some_text<-c("This","Professor","is","not","so","great")
-some_text[grep("^[P]", some_text)]
+some_text<-c("Friends","don't","let","friends","make","wordclouds")
+
+some_text[grep("^[F]", some_text)]
 ```
 
 ```
-[1] "Professor"
+[1] "Friends"
 ```
 
 Regex Cheat Sheet
 ========================================================
-&nbsp;
 
-http://www.rstudio.com/wp-content/uploads/2016/09/RegExCheatsheet.pdf
+<img src="regex.png" height="400" />
+
+Link [here](http://www.rstudio.com/wp-content/uploads/2016/09/RegExCheatsheet.pdf)
 
 
 Escaping Text
@@ -117,9 +167,10 @@ Escaping Text
 
 ```r
 text_chunk<-c("[This Professor is not so Great]")
-gsub("\","", text_chunk)
+gsub("[","", text_chunk)
 ```
-
+&nbsp;  
+<img src="regex_no.png" height="100" />
 
 Escaping Text
 ========================================================
@@ -144,7 +195,26 @@ Tokenization
 Tokenization
 ========================================================
 
-<img src="token.png" height="400" />
+
+```r
+<sentence>
+  
+<word>Friends</word
+
+<word>don't</word>
+
+<word>let</word>
+
+<word>friends</word>
+
+<word>make</word>
+
+<word>word</word>
+
+<word>clouds</word>
+
+</sentence>
+```
 
 N-grams
 ========================================================
@@ -463,6 +533,19 @@ tidy_trump_DTM<-
   count(created_at, word) %>%
   cast_dtm(created_at, word, n)
 ```
+
+
+Other great resources
+========================================================
+&nbsp;  
+
+Julia Silge's https://www.tidytextmining.com/  
+
+Ken Benoit's https://quanteda.io/
+
+Jurafsky and Martin's textbook: https://web.stanford.edu/~jurafsky/slp3/
+
+
 
 
 

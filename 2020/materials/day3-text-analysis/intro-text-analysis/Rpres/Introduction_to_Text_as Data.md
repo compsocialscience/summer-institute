@@ -1,7 +1,9 @@
 <style>
+
 .reveal section p {
   color: black;
   font-size: .7em;
+  font-weight: normal;
   font-family: 'Helvetica'; #this is the font/color of text in slides
 }
 
@@ -12,39 +14,50 @@
 .section .reveal p {
     color: black;
     position: relative;
+    font-family: 'Helvetica';
+    font-weight: normal;
     top: 4%;}
+   
+ 
+ /* section titles */
+.reveal h1 { 
+  color: black;
+  position: relative;
+  font-weight: normal;
+  font-family: 'Helvetica'; 
+  top: 4%
+}    
 
+ 
+/* slide titles */
+.reveal h3 { 
+  color: black;
+  font-weight: normal;
+  font-family: 'Helvetica'; 
+}    
+
+.small-code pre code {
+  font-size: 1.2em;
+}
 
 </style>
 
 
-History of Quantitative Text Analysis
+Intro to Text Analysis
 ========================================================
 author: Chris Bail 
 date: Duke University
 autosize: true
 transition: fade  
   website: https://www.chrisbail.net  
+  Twitter: https://www.twitter.com/chris_bail  
   github: https://github.com/cbail  
-  Twitter: https://www.twitter.com/chris_bail
 
 
-Our Schedule for Today
+WWI
 ========================================================
-&nbsp;
 
-Time | Activity
-------------- | -------------
-9:15-9:30AM | History of Quantitative Text Analysis
-9:30-9:45AM | Basic Text Analysis/GREP  
-9:45-10:00AM | Dictionary-Based Text Analysis
-10:00-10:15AM | Coffee Break  
-10:15-11:15PM | Topic Models/Structural Topic Models
-11:15-11:20 | Break
-11:20-12:30PM | Text Networks 
-12:30-1:30PM | Lunch  
-1:30-4:00PM | Group Exercise  
-4:00-5:30PM | Ned Smith (Kellog) on Livestream
+<img src="ww1.jpg" height="500" />
 
 
 Harold Laswell
@@ -53,19 +66,19 @@ Harold Laswell
 <img src="laswell.jpg" height="500" />
 
 
-Harold Laswell
+Harold Laswell (1938)
 ========================================================
 &nbsp; 
 
-"We may classify references into categories," wrote Laswell in 1938, " according to the understanding which prevails among those who are accustomed to the symbols. References used in interviews may be quantified by counting the number of references which fall into each category during a selected period of time (or per thousand words uttered)."
+"We may classify references into categories according to the understanding which prevails among those who are accustomed to the symbols. References used in interviews may be quantified by counting the number of references which fall into each category during a selected period of time (or per thousand words uttered)."
 
 
-
-Ahead of His Time?
+Ahead of his time?
 ========================================================
-&nbsp;
 
-In 1935- and at the age of 21-Laswell was developing methods that tracked the association between word utterances and physiological reactions (e.g. pulse rate, electrical conductivity of the skin, and blood pressure)
+<img src="pulse_machine.jpg" height="500" />
+
+
 
 
 
@@ -96,6 +109,7 @@ Time | Activity
 1981 | Weintraub counts parts of speech
 1985 | Schrodt Introduces Automated Event Coding
 1986 | Pennebaker develops LIWC
+1988 | First Latent Semantic Analysis Patent
 1989 | Franzosi brings Quantitative Narrative Analysis to Social Science
 
 
@@ -105,19 +119,26 @@ Timeline of Quantitative Text Analysis
 
 Time | Activity
 ------------- | -------------
-1998 | First Topic Models Developed
-1998 | Mohr conducts first Quantitative Analysis of Worldviews
+1998 | Mohr's Quantitative Analysis of Culture
 1999 | Bearman et al. apply Network Methods to Narratives
 2001 | Blei et al. develop LDA
-2003 | MALLET created
-2005 | Quin et al. use analyze political speeches using topic models
-2010 | King/Hopkins Bring Topic Models into mainstream
+2002 | MALLET created
+2005 | Quinn et al. use analyze political speeches using topic models
+2009 | New Directions in Text Conference
+2010 | King/Hopkins Bring Supervised Learning into mainstream
 2010 | Tools for Text Workshop at Washington
 
 An Interdisciplinary Field!
 ========================================================
 &nbsp;
 
+Opening Black Boxes
+========================================================
+&nbsp;
+
+How do we Move from Words to Numbers?
+========================================================
+&nbsp;
 
 
 
