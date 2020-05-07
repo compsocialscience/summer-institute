@@ -193,7 +193,7 @@ Workflow of a Social Media Survey App
 Workflow of the Viralgorithm
 ========================================================
 
-<img src="Final App Work Flow.png" height="600" />
+<img src="Final App Work Flow.png" height="500" />
 
 
 
@@ -366,11 +366,10 @@ Making a Bot Interactive
 Making a Bot Interactive
 ========================================================
   
-  <img src="Munger.png" height="500" />
+<img src="Munger.png" height="500" />
 
 Making a Bot Interactive
 ========================================================
-&nbsp;
 
 <img src="Munger_flow.png" height="500" />
 
@@ -401,7 +400,7 @@ Ethical Issues in App & Bot-Based Research
 
 Ethical Issues in App & Bot-Based Research
 ========================================================
-<img src="cambridge.jpg" height="600" />
+<img src="cambridge.jpg" height="400" />
 
 
 
