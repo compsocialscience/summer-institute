@@ -1,24 +1,52 @@
-- name: Drioui Chaimae
+- name: Boureima Adamou
+  image: 
+  bio: 
+ 
+- name: Giorgio Barnabò
+  image: 
+  bio: 
+  
+- name: Chaimae Drioui
   image: /2020/montreal/images/DRIOUI.Photo.jpg    
   bio: "Drioui Chaimae is a PhD candidate at National Institute of Statistics and Applied Economics (INSEA), Morocco. She is a state engineer in statistics and demography, graduated from INSEA. She is also a member of the GES_3D laboratory (Gender, economics, statistics, demography and sustainable development). Her PhD study is interested in the analysis of fertility and reproductive health with a gender perspective."
+
+- name: Shruti Kulkami
+  image: 
+  bio: 
   
-- name: Firmin Zinvi
-  image: /2020/montreal/images/Firmin.png   
-  bio: "Firmin Zinvi is PhD candidate in demography at University of Montreal. He holds a master’s degree in demography at the Institut de Formation et de Recherche Démographiques in Cameroon and a bachelor’s degree in statistics at École nationale supérieure de statistique et d’économie appliquées in Ivory Coast. His research focuses on fertility, female employment, reproductive health and demographic dividend in Sub-Saharan Africa. He is also interested on quantitative methods such as longitudinal analysis, structural equation models, spatial analysis and most recently bayesian analysis." 
+- name: Matthew Martin
+  image: 
+  bio: 
+  
+- name: David Pelletier
+  image:    
+  bio: 
 
 - name: Julian Posada
   image: /2020/montreal/images/Julian_posada.png   
   bio: "Julian Posada is a Ph.D. student at the Faculty of Information and a Junior Fellow of Massey College. His research focuses on the personal networks of workers of digital labour platforms that produce, label, and verify data for artificial intelligence systems. It combines theories and methods from the sociology of work and social networks, and the political economy of platforms. Prior to joining the University of Toronto, he worked as a research assistant for the Laboratory for Computer Science (LRI) of the French National Centre for Scientific Research (CNRS). He holds a master's degree in sociology form the School for Advanced Studies in the Social Sciences and a bachelor's degree in the humanities from Sorbonne University."
 
-- name: Nima Zahedinameghi
-  image: /2020/montreal/images/Nima_Photo.JPG    
-  bio: "Nima Zahedinameghi earned a Ph.D. in sociology from Laval University. He comes to data science from a social science background where he has received both quantitative and theoretical training in the field. His current research agenda revolves around the combined application of social and complex systems theory and formal methods such as agent-based modeling and computational techniques. Methodologically, he is interested in using artificial intelligence for the study of human behavior in large-scale social systems. Nima also has a keen interest in data science as an overarching discipline for conducting interdisciplinary research in different aspects of society, politics, and economics. His current research includes a work-in-progress that provides ontological compatibility between sociology and other computational fields such as information science, and data science."
-
 - name: Xavier St-Denis
   image: /2020/montreal/images/xaxier_stdenis.png    
   bio: "Xavier St-Denis is an economic sociologist currently working as a Postdoctoral Fellow in the Department of Sociology at the University of Toronto, Scarborough. He completed his graduate work at McGill University and spent two years conducting research in the Income Statistics Division at Statistics Canada, where he developed an expertise in the use of administrative and integrated datasets to explore new questions of high policy relevance. His research focuses on labour markets, stratification, careers, organizations, and comparative political economy using quantitative methods. In his most recent work, he explores the drivers of trends in job stability in Canada, the UK and Germany, and the consequences of job hopping on hiring outcomes in different US occupations. In addition, his postdoctoral research builds on work he conducted in parallel to his PhD on the drivers of intergenerational income transmission in Canada. He is currently dedicating some of his time to research on labour market inequality in the context of COVID-19."
 
+- name: Yang Teoh
+  image: 
+  bio: 
+
+- name: Zedan Xu
+  image: 
+  bio: 
+  
 - name: Baturay Yurtbay
   image: /2020/montreal/images/Baturay Yurtbay.jpg  
-  bio: "I studied Political Science and International Relations at Yeditepe University, Istanbul, Turkey, and took a double major in Sociology at the same university. During my education, I also attended various universities such as The Hague University of Applied Sciences as an Erasmus student, Beijing Language and Culture University for the purposes of learning Mandarin, and University of Oslo for Comparative Social Science Summer School. After my Bachelor’s with honours from both departments, I had an internship at the Grand National Assembly of Turkey. I obtained a scholarship and took a Master’s at the Department of War Studies at King's College London, and then graduated with an honour’s degree from KCL in 2016. During my MA, I worked about peace processes in Turkey by evaluating the socio-political steps in this process by attempting to understand governmental responses and the reactions of terrorist actions. I have been research assistant in the Department of Sociology at Yeditepe University since 2016 where I do my doctoral study. I also studied in the department of Politics and International Relations as recognised student at University of Oxford between 2019-2020 for my doctoral studies. I am also doing postgrad diploma program in Terrorism Studies at University of St Andrews and enrolled 3-years Associateship of King’s College (AKC) program at King’s College London. My main research areas are political sociology, terrorism studies, sociology of war and social movements. Until this day, I organised several certificate programs as a lecturer, called “Sociology of War” and “Social Dimensions of War and Terrorism” in the Department of Sociology at Yeditepe University, written several articles and a book, attended different conferences İn Istanbul, Barcelona and Lancaster as presenter and given talks in the Social Science Colloquium in the Sociology Department at Yeditepe University. My doctoral research focuses on exploring the institutional responses and counter-terrorism strategies developed by Turkey and the United Kingdom in the aftermath of the terrorist attacks, 2003 Istanbul and 2005 London terrorist attacks, organized by Al-Qaeda. The research questions to what extent do the institutional responses and counter-terrorism-strategies of Turkey and the UK were successful. The research also aims at analysing perceptions and explanations of survivors to these terrorist attacks by conducting field researches in Istanbul and London. I plan to defend my thesis in September 2020."
-  
+  bio: "I studied Political Science and International Relations at Yeditepe University, Istanbul, Turkey, and took a double major in Sociology at the same university. During my education, I also attended various universities such as The Hague University of Applied Sciences as an Erasmus student, Beijing Language and Culture, and University of Oslo for Comparative Social Science Summer School. I hold a Master at the Department of War Studies at King's College London. During my MA, I worked about peace processes in Turkey by evaluating the socio-political steps in this process by attempting to understand governmental responses and the reactions of terrorist actions. I have been research assistant in the Department of Sociology at Yeditepe University since 2016 where I do my doctoral study. I also studied in the department of Politics and International Relations as recognised student at University of Oxford between 2019-2020 for my doctoral studies. My main research areas are political sociology, terrorism studies, sociology of war and social movements. My doctoral research focuses on exploring the institutional responses and counter-terrorism strategies developed by Turkey and the United Kingdom in the aftermath of the terrorist attacks, 2003 Istanbul and 2005 London terrorist attacks. I plan to defend my thesis in September 2020."
+
+- name: Nima Zahedinameghi
+  image: /2020/montreal/images/Nima_Photo.JPG    
+  bio: "Nima Zahedinameghi earned a Ph.D. in sociology from Laval University. He comes to data science from a social science background where he has received both quantitative and theoretical training in the field. His current research agenda revolves around the combined application of social and complex systems theory and formal methods such as agent-based modeling and computational techniques. Methodologically, he is interested in using artificial intelligence for the study of human behavior in large-scale social systems. Nima also has a keen interest in data science as an overarching discipline for conducting interdisciplinary research in different aspects of society, politics, and economics. His current research includes a work-in-progress that provides ontological compatibility between sociology and other computational fields such as information science, and data science."
+
+- name: Firmin Zinvi
+  image: /2020/montreal/images/Firmin.png   
+  bio: "Firmin Zinvi is PhD candidate in demography at University of Montreal. He holds a master’s degree in demography at the Institut de Formation et de Recherche Démographiques in Cameroon and a bachelor’s degree in statistics at École nationale supérieure de statistique et d’économie appliquées in Ivory Coast. His research focuses on fertility, female employment, reproductive health and demographic dividend in Sub-Saharan Africa. He is also interested on quantitative methods such as longitudinal analysis, structural equation models, spatial analysis and most recently bayesian analysis." 
+
