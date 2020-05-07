@@ -24,7 +24,7 @@ Applicants should submit their application via this [Qualtrics link](https://sta
 
 We also ask applicants to upload the following documents: (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science, and (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. 
 
-**In order to be guaranteed full consideration, all application materials must be submitted by Monday, March 16, 2020.**  Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail in late March, and will ask participants to confirm their participation soon thereafter.
+**Applications were due May 1, 2020.** We will notify selected applicants through e-mail in mid-late May, and will ask participants to confirm their participation soon thereafter.
 
 Inquiries can be sent to [baysicss2020@gmail.com](mailto:baysicss2020@gmail.com).
 
