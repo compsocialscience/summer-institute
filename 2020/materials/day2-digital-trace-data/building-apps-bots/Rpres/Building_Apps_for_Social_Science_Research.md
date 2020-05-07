@@ -400,7 +400,7 @@ Ethical Issues in App & Bot-Based Research
 
 Ethical Issues in App & Bot-Based Research
 ========================================================
-<img src="cambridge.jpg" height="600" />
+<img src="cambridge.jpg" height="400" />
 
 
 
