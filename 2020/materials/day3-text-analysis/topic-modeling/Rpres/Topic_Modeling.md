@@ -1,8 +1,9 @@
-
 <style>
+
 .reveal section p {
   color: black;
   font-size: .7em;
+  font-weight: normal;
   font-family: 'Helvetica'; #this is the font/color of text in slides
 }
 
@@ -13,11 +14,34 @@
 .section .reveal p {
     color: black;
     position: relative;
+    font-family: 'Helvetica';
+    font-weight: normal;
     top: 4%;}
+   
+ 
+ /* section titles */
+.reveal h1 { 
+  color: black;
+  position: relative;
+  font-weight: normal;
+  font-family: 'Helvetica'; 
+  top: 4%
+}    
 
+ 
+/* slide titles */
+.reveal h3 { 
+  color: black;
+  font-weight: normal;
+  font-family: 'Helvetica'; 
+}    
 
+.small-code pre code {
+  font-size: 1.2em;
+}
 
 </style>
+
 
 
 Topic Modeling
@@ -27,8 +51,8 @@ date: Duke University
 autosize: true
 transition: fade  
   website: https://www.chrisbail.net  
-  github: https://github.com/cbail  
-  Twitter: https://www.twitter.com/chris_bail
+  Twitter: https://www.twitter.com/chris_bail  
+  github: https://github.com/cbail 
 
 What is Topic Modeling?
 ========================================================
@@ -44,57 +68,97 @@ Example: LDA of Scientific Abstracts
 
 Running Your First Topic Model
 ========================================================
+class: small-code
+
 
 ```r
 library(topicmodels)
+library(tm)
+
 data("AssociatedPress")
+
+inspect(AssociatedPress[1:5, 1:5])
+```
+
+```
+<<DocumentTermMatrix (documents: 5, terms: 5)>>
+Non-/sparse entries: 0/25
+Sparsity           : 100%
+Maximal term length: 10
+Weighting          : term frequency (tf)
+Sample             :
+      Terms
+Docs   aaron abandon abandoned abandoning abbott
+  [1,]     0       0         0          0      0
+  [2,]     0       0         0          0      0
+  [3,]     0       0         0          0      0
+  [4,]     0       0         0          0      0
+  [5,]     0       0         0          0      0
 ```
 
 
 Running Your First Topic Model
 ========================================================
+class: small-code
+
 
 ```r
-AP_topic_model<-LDA(AssociatedPress, k=10, control = list(seed = 321))
+AP_topic_model<-LDA(AssociatedPress, 
+                    k=10, 
+                    control = list(seed = 321))
 ```
 
 
 
 Running Your First Topic Model
 ========================================================
+class: small-code
+
 
 ```r
 library(tidytext)
 library(dplyr)
-library(ggplot2)
 
 AP_topics <- tidy(AP_topic_model, matrix = "beta")
 
 ap_top_terms <- 
   AP_topics %>%
-  group_by(topic) %>%
-  top_n(10, beta) %>%
-  ungroup() %>%
-  arrange(topic, -beta)
+    group_by(topic) %>%
+      top_n(10, beta) %>%
+        ungroup() %>%
+          arrange(topic, -beta)
 ```
 
 
 
 Plot
 ========================================================
+class: small-code
 
 ```r
+library(ggplot2)
+
 ap_top_terms %>%
   mutate(term = reorder(term, beta)) %>%
-  ggplot(aes(term, beta, fill = factor(topic))) +
-  geom_col(show.legend = FALSE) +
-  facet_wrap(~ topic, scales = "free") +
-  coord_flip()
+    mutate(topic = paste("Topic #", topic)) %>%
+    ggplot(aes(term, beta, fill = factor(topic))) +
+      geom_col(show.legend = FALSE) +
+        facet_wrap(~ topic, scales = "free") +
+          theme_minimal()+
+          theme(plot.title = 
+            element_text(hjust = 0.5, size=18))+
+          labs(
+            title = "Topic Model of AP News Articles",
+            caption = "Top Terms by Topic (betas)"
+          )+
+          ylab("")+
+          xlab("")+
+          coord_flip()
 ```
 
 Plot
 ========================================================
-<img src="AP plot.png" height="400" />
+<img src="ap_plot.png" height="500" />
 
 
 Reading Tea Leaves
@@ -106,32 +170,45 @@ Structural Topic Modeling
 
 <img src="stm_diagram.png" height="400" />
 
+See Roberts et al. [(2015)](https://www.structuraltopicmodel.com/). Also ,check out this [great shiny app] (https://cschwem2er.github.io/stminsights/)
 
-Political Blogs Data
+Political Blogs from 2008
 ========================================================
-
+class: small-code
+&nbsp;  
 
 ```r
-google_doc_id <- "1LcX-JnpGB0lU1iDnXnxB6WFqBywUKpew" # google file ID
-poliblogs<-read.csv(sprintf("https://docs.google.com/uc?id=%s&export=download", google_doc_id), stringsAsFactors = FALSE)
+google_doc_id <- "1LcX-JnpGB0lU1iDnXnxB6WFqBywUKpew" 
+
+poliblogs<-read.csv(
+  sprintf("https://docs.google.com/uc?id=%s&export=download", 
+          google_doc_id), stringsAsFactors = FALSE)
 ```
 
 
 Pre-Process
 ========================================================
+class: small-code
+&nbsp;  
 
 
 ```r
 library(stm)
-processed <- textProcessor(poliblogs$documents, metadata = poliblogs)
+processed <- textProcessor(poliblogs$documents, 
+                           metadata = poliblogs)
 ```
 
 Pre-Process
 ========================================================
+class: small-code
+&nbsp;  
 
 
 ```r
-out <- prepDocuments(processed$documents, processed$vocab, processed$meta)
+out <- prepDocuments(processed$documents, 
+                     processed$vocab, 
+                     processed$meta)
+
 docs <- out$documents
 vocab <- out$vocab
 meta <-out$meta
@@ -140,6 +217,8 @@ meta <-out$meta
 
 Running a Structural Topic Model
 ========================================================
+class: small-code
+&nbsp;  
 
 
 ```r
@@ -151,7 +230,8 @@ First_STM <- stm(documents = out$documents, vocab = out$vocab,
 
 Plot Top Words
 ========================================================
-
+class: small-code
+&nbsp;  
 
 ```r
 plot(First_STM)
@@ -163,6 +243,8 @@ Plot
 
 Find Exemplary Passages
 ========================================================
+class: small-code
+&nbsp;  
 
 
 ```r
@@ -174,6 +256,8 @@ findThoughts(First_STM, texts = poliblogs$documents,
 
 Choosing k
 ========================================================
+class: small-code
+&nbsp;  
 
 
 ```r
@@ -194,22 +278,33 @@ Working with Meta-Data
 
 Working with Meta-Data
 ========================================================
+class: small-code
+&nbsp;  
 
 ```r
-predict_topics<-estimateEffect(formula = 1:10 ~ rating + s(day), stmobj = First_STM, metadata = out$meta, uncertainty = "Global")
+predict_topics<-estimateEffect(formula = 1:10 ~
+                                rating + 
+                                s(day), 
+                                stmobj = First_STM, 
+                                metadata = out$meta, 
+                                uncertainty = "Global")
 ```
 
 Plot
 ========================================================
+class: small-code
+&nbsp;  
+
 
 ```r
-plot(predict_topics, covariate = "rating", topics = c(3, 5, 9),
- model = First_STM, method = "difference",
- cov.value1 = "Liberal", cov.value2 = "Conservative",
- xlab = "More Conservative ... More Liberal",
- main = "Effect of Liberal vs. Conservative",
- xlim = c(-.1, .1), labeltype = "custom",
- custom.labels = c('Topic 3', 'Topic 5','Topic 9'))
+plot(predict_topics, covariate = "rating", 
+     topics = c(3, 5, 9), model = First_STM, 
+     method = "difference",
+     cov.value1 = "Liberal", cov.value2 = "Conservative",
+     xlab = "More Conservative ... More Liberal",
+     main = "Effect of Liberal vs. Conservative",
+     xlim = c(-.1, .1), labeltype = "custom",
+     custom.labels = c('Topic 3', 'Topic 5','Topic 9'))
 ```
 
 
@@ -219,22 +314,43 @@ Plot
 
 Plot Topic Prevalence over Time
 ========================================================
-
+class: small-code
+&nbsp; 
 
 ```r
-plot(predict_topics, "day", method = "continuous", topics = 3,
-model = z, printlegend = FALSE, xaxt = "n", xlab = "Time (2008)")
-monthseq <- seq(from = as.Date("2008-01-01"),
-to = as.Date("2008-12-01"), by = "month")
-monthnames <- months(monthseq)
-axis(1,at = as.numeric(monthseq) - min(as.numeric(monthseq)),
-labels = monthnames)
+plot(predict_topics, "day", method = "continuous", 
+     topics = 3, model = z, printlegend = FALSE, 
+     xaxt = "n", xlab = "Time (2008)")
+     monthseq <- seq(from = as.Date("2008-01-01"),
+     to = as.Date("2008-12-01"), by = "month")
+     monthnames <- months(monthseq)
+     axis(1,at = as.numeric(monthseq) - 
+     min(as.numeric(monthseq)), labels = monthnames)
 ```
 
 
 Plot
 ========================================================
 <img src="topic over time.png" height="400" />
+
+LDAviz
+========================================================
+
+<img src="ldaviz.png" height="400" />
+
+Link to software [here](https://cran.r-project.org/web/packages/LDAvis/index.html). Also check out `toLDAvis` in the `stm` package
+
+
+Topic Models for Short Text
+========================================================
+
+stLDA-C (Tierney et al.)
+========================================================
+
+<img src="stlda_c.png" height="400" />
+
+Repo [here](https://github.com/g-tierney/stLDA-C_public)
+
 
 Limitations of Topic Models
 ========================================================
