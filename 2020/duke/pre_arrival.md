@@ -9,7 +9,7 @@ In order to use our time together efficiently, there are a number of things that
 
 ## Videos
 
-SICSS-Duke 2020 will be using a [flipped classroom model](https://en.wikipedia.org/wiki/Flipped_classroom) where you will watch videos of lectures before our meetings, and then we will use our time together for discussion and group activities. We expect to post about 10 hours worth of videos by May 15, 2020. If you'd like to have a sense of what these videos are like, you can watch our [lectures from 2019](https://compsocialscience.github.io/summer-institute/curriculum).
+SICSS-Duke 2020 will be using a [flipped classroom model](https://en.wikipedia.org/wiki/Flipped_classroom) where you will watch videos of lectures before our meetings, and then we will use our time together for discussion and group activities. We hope to start posting some videos around May 15, 2020. If you'd like to have a sense of what these videos are like, you can watch our [lectures from 2019](https://compsocialscience.github.io/summer-institute/curriculum).
 
 ## Coding
 
@@ -29,6 +29,10 @@ The Summer Institute will bring together people from many fields, and therefore 
 Some of the activities will require coding, and we will support R.  You are welcome to use other languages, but we cannot guarantee that we can support them.
 
 Before SICSS you should install a modern, stable-release version of [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/).  We will soon post a list of packages that we recommend as well.
+
+## Zoom videoconferencing
+
+We want to give you some videoconferencing information to make our meeting time go more smoothly. We will be using the videoconferencing software Zoom to facilitate small and large-group sessions during the first week of SICSS (see [schedule](https://compsocialscience.github.io/summer-institute/2020/duke/schedule)). You can join Zoom meetings using a phone or computer with a microphone and (ideally) a webcam. See this [tutorial](https://support.zoom.us/hc/en-us/articles/201362193-Joining-a-Meeting) for more information if you have not used Zoom before. This [article](https://thewirecutter.com/blog/professional-video-call-from-home/) contains some helpful advice on how to set up your device and space to improve your Zoom experience. (Note: though the article recommends external microphones and webcams, we DO NOT recommend or require you to purchase any equipment to participate in SICSS. In our experience, the microphones and webcams built into most modern laptops and phones are perfectly sufficient).
 
 ## Accounts
 
