@@ -89,7 +89,7 @@ Globally search a regular expression and print
 Regular Expression
 ========================================================
 
-A pattern that describes a set of strings, e.g.
+A pattern that describes a set of strings
 
 
 It's GREP-tastic!
@@ -207,14 +207,17 @@ What is a Corpus?
 
 Creating a Corpus
 ========================================================
-&nbsp;
+class: small-code
+&nbsp;  
 ```{r}
 load(url("https://cbail.github.io/Trump_Tweets.Rdata"))
-head(trumptweets$text)
+
+trumptweets$text[1]
 ```
 
 Creating a Corpus
 ========================================================
+class: small-code
 &nbsp;
 ```{r, eval=FALSE}
 install.packages("tm")
@@ -222,6 +225,7 @@ install.packages("tm")
 
 Creating a Corpus
 ========================================================
+class: small-code
 &nbsp;
 ```{r}
 library(tm)
@@ -237,7 +241,7 @@ TidyText
 
 TidyText
 ========================================================
-&nbsp;
+class: small-code
 ```{r}
 
 library(tidytext)
@@ -250,7 +254,8 @@ head(tidy_trump_tweets)
 
 TidyText is... tidy
 ========================================================
-&nbsp;
+class: small-code
+
 ```{r}
 tidy_trump_tweets %>%
   count(word) %>%
@@ -273,7 +278,7 @@ Stopwords
 
 Stopwords
 ========================================================
-
+class: small-code
 In `tm`:
 
 ```{r}
@@ -282,6 +287,7 @@ trump_corpus <- tm_map(trump_corpus, removeWords, stopwords("english"))
 
 Stopwords
 ========================================================
+class: small-code
 
 In `tidytext`:
 
@@ -293,7 +299,7 @@ In `tidytext`:
 
 Inspect Top Words Again
 ========================================================
-&nbsp;
+class: small-code
 
 ```{r}
 tidy_trump_tweets %>%
@@ -307,6 +313,7 @@ Remove Punctuation
 
 Remove Punctuation
 ========================================================
+class: small-code
 
 In `tm`:
 
@@ -318,6 +325,7 @@ trump_corpus <- tm_map(trump_corpus, content_transformer(removePunctuation))
 
 Remove Numbers
 ========================================================
+class: small-code
 
 In `tm`:
 
@@ -338,6 +346,7 @@ Word Case
 
 Word Case
 ========================================================
+class: small-code
 
 In `tm`:
 
@@ -354,6 +363,7 @@ Removing Whitespaces
 
 Removing Whitespaces
 ========================================================
+class: small-code
 
 In `tm`:
 
@@ -372,6 +382,7 @@ Stemming
 
 Stemming
 ========================================================
+class: small-code
 
 In `tm`:
 
@@ -392,17 +403,21 @@ library(SnowballC)
 
 The DTM
 ========================================================
+class: small-code
 
 In `tm`:
 
 ```{r}
-trump_DTM <- DocumentTermMatrix(trump_corpus, control = list(wordLengths = c(2, Inf)))
+trump_DTM <- 
+  DocumentTermMatrix(trump_corpus, control = list(wordLengths=c(2, Inf)))
+
 inspect(trump_DTM[1:5,3:8])
 
 ```
 
 The DTM
 ========================================================
+class: small-code
 
 In `tidytext`:
 

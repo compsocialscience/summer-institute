@@ -136,9 +136,19 @@ Opening Black Boxes
 ========================================================
 &nbsp;
 
-How do we Move from Words to Numbers?
+From Words to Numbers
 ========================================================
 &nbsp;
+
+
+
+Other Great Introductions
+========================================================
+&nbsp;
+
+Justin Grimmer & Brandon Stewart. Text as Data: The Promises and Pitfalls of Automated Content Analysis, Political Analysis.
+
+James Evans & Pedro Aceves. Machine Translation: Mining Text for Social Theory. Annual Review of Sociology.
 
 
 

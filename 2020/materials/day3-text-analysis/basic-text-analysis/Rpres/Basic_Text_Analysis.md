@@ -89,7 +89,7 @@ Globally search a regular expression and print
 Regular Expression
 ========================================================
 
-A pattern that describes a set of strings, e.g.
+A pattern that describes a set of strings
 
 
 It's GREP-tastic!
@@ -235,24 +235,22 @@ What is a Corpus?
 
 Creating a Corpus
 ========================================================
-&nbsp;
+class: small-code
+&nbsp;  
 
 ```r
 load(url("https://cbail.github.io/Trump_Tweets.Rdata"))
-head(trumptweets$text)
+
+trumptweets$text[1]
 ```
 
 ```
-[1] "Just met with UN Secretary-General António Guterres who is working hard to “Make the United Nations Great Again.” When the UN does more to solve conflicts around the world, it means the U.S. has less to do and we save money. @NikkiHaley is doing a fantastic job! https://t.co/pqUv6cyH2z"           
-[2] "America is a Nation that believes in the power of redemption. America is a Nation that believes in second chances - and America is a Nation that believes that the best is always yet to come! #PrisonReform https://t.co/Yk5UJUYgHN"                                                                     
-[3] "RT @SteveForbesCEO: .@realDonaldTrump speech on drug costs pays immediate dividends. New @Amgen drug lists at 30% less than expected. Middl…"                                                                                                                                                             
-[4] "We grieve for the terrible loss of life, and send our support and love to everyone affected by this horrible attack in Texas. To the students, families, teachers and personnel at Santa Fe High School – we are with you in this tragic hour, and we will be with you forever... https://t.co/LtJ0D29Hsv"
-[5] "School shooting in Texas. Early reports not looking good. God bless all!"                                                                                                                                                                                                                                 
-[6] "Reports are there was indeed at least one FBI representative implanted, for political purposes, into my campaign for president. It took place very early on, and long before the phony Russia Hoax became a “hot” Fake News story. If true - all time biggest political scandal!"                         
+[1] "Just met with UN Secretary-General António Guterres who is working hard to “Make the United Nations Great Again.” When the UN does more to solve conflicts around the world, it means the U.S. has less to do and we save money. @NikkiHaley is doing a fantastic job! https://t.co/pqUv6cyH2z"
 ```
 
 Creating a Corpus
 ========================================================
+class: small-code
 &nbsp;
 
 ```r
@@ -261,6 +259,7 @@ install.packages("tm")
 
 Creating a Corpus
 ========================================================
+class: small-code
 &nbsp;
 
 ```r
@@ -283,7 +282,7 @@ TidyText
 
 TidyText
 ========================================================
-&nbsp;
+class: small-code
 
 ```r
 library(tidytext)
@@ -308,7 +307,8 @@ head(tidy_trump_tweets)
 
 TidyText is... tidy
 ========================================================
-&nbsp;
+class: small-code
+
 
 ```r
 tidy_trump_tweets %>%
@@ -349,7 +349,7 @@ Stopwords
 
 Stopwords
 ========================================================
-
+class: small-code
 In `tm`:
 
 
@@ -359,6 +359,7 @@ trump_corpus <- tm_map(trump_corpus, removeWords, stopwords("english"))
 
 Stopwords
 ========================================================
+class: small-code
 
 In `tidytext`:
 
@@ -371,7 +372,7 @@ In `tidytext`:
 
 Inspect Top Words Again
 ========================================================
-&nbsp;
+class: small-code
 
 
 ```r
@@ -403,6 +404,7 @@ Remove Punctuation
 
 Remove Punctuation
 ========================================================
+class: small-code
 
 In `tm`:
 
@@ -415,6 +417,7 @@ trump_corpus <- tm_map(trump_corpus, content_transformer(removePunctuation))
 
 Remove Numbers
 ========================================================
+class: small-code
 
 In `tm`:
 
@@ -437,6 +440,7 @@ Word Case
 
 Word Case
 ========================================================
+class: small-code
 
 In `tm`:
 
@@ -454,6 +458,7 @@ Removing Whitespaces
 
 Removing Whitespaces
 ========================================================
+class: small-code
 
 In `tm`:
 
@@ -474,6 +479,7 @@ Stemming
 
 Stemming
 ========================================================
+class: small-code
 
 In `tm`:
 
@@ -496,12 +502,15 @@ library(SnowballC)
 
 The DTM
 ========================================================
+class: small-code
 
 In `tm`:
 
 
 ```r
-trump_DTM <- DocumentTermMatrix(trump_corpus, control = list(wordLengths = c(2, Inf)))
+trump_DTM <- 
+  DocumentTermMatrix(trump_corpus, control = list(wordLengths=c(2, Inf)))
+
 inspect(trump_DTM[1:5,3:8])
 ```
 
@@ -523,6 +532,7 @@ Docs around conflict fantast great guterr hard
 
 The DTM
 ========================================================
+class: small-code
 
 In `tidytext`:
 
