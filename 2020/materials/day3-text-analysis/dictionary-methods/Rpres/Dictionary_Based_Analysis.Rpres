@@ -205,7 +205,7 @@ economic_tweets <-
   trumptweets %>%
     filter(str_detect(text, economic_dictionary))
 
-head(economic_tweets$text, 3)
+head(economic_tweets$text, 2)
 ```
 
 Sentiment Analysis

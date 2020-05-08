@@ -198,13 +198,12 @@ economic_tweets <-
   trumptweets %>%
     filter(str_detect(text, economic_dictionary))
 
-head(economic_tweets$text, 3)
+head(economic_tweets$text, 2)
 ```
 
 ```
 [1] "Great talk with my friend President Mauricio Macri of Argentina this week. He is doing such a good job for Argentina. I support his vision for transforming his country’s economy and unleashing its potential!"                                                         
 [2] "The Washington Post and CNN have typically written false stories about our trade negotiations with China. Nothing has happened with ZTE except as it pertains to the larger trade deal. Our country has been losing hundreds of billions of dollars a year with China..."
-[3] "China and the United States are working well together on trade, but past negotiations have been so one sided in favor of China, for so many years, that it is hard for them to make a deal that benefits both countries. But be cool, it will all work out!"             
 ```
 
 Sentiment Analysis
@@ -236,12 +235,12 @@ head(get_sentiments("bing"))
 # A tibble: 6 x 2
   word       sentiment
   <chr>      <chr>    
-1 2-faced    negative 
-2 2-faces    negative 
-3 a+         positive 
-4 abnormal   negative 
-5 abolish    negative 
-6 abominable negative 
+1 2-faces    negative 
+2 abnormal   negative 
+3 abolish    negative 
+4 abominable negative 
+5 abominably negative 
+6 abominate  negative 
 ```
 
 
