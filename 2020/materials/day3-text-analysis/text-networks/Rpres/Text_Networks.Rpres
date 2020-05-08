@@ -1,8 +1,9 @@
-
 <style>
+
 .reveal section p {
   color: black;
   font-size: .7em;
+  font-weight: normal;
   font-family: 'Helvetica'; #this is the font/color of text in slides
 }
 
@@ -13,11 +14,34 @@
 .section .reveal p {
     color: black;
     position: relative;
+    font-family: 'Helvetica';
+    font-weight: normal;
     top: 4%;}
+   
+ 
+ /* section titles */
+.reveal h1 { 
+  color: black;
+  position: relative;
+  font-weight: normal;
+  font-family: 'Helvetica'; 
+  top: 4%
+}    
 
+ 
+/* slide titles */
+.reveal h3 { 
+  color: black;
+  font-weight: normal;
+  font-family: 'Helvetica'; 
+}    
 
+.small-code pre code {
+  font-size: 1.2em;
+}
 
 </style>
+
 
 
 Text Networks
@@ -27,8 +51,8 @@ date: Duke University
 autosize: true
 transition: fade  
   website: https://www.chrisbail.net  
-  github: https://github.com/cbail  
-  Twitter: https://www.twitter.com/chris_bail
+  Twitter: https://www.twitter.com/chris_bail  
+  github: https://github.com/cbail 
 
 What is a Network?
 ========================================================
@@ -112,7 +136,7 @@ Part of Speech Tagging Takes Time...
 sotu_first_speeches <- sotu %>% group_by(president) %>% slice(1L)
 ```
 
-PrepText
+PrepText w/Nouns
 ========================================================
 
 ```{r, message=FALSE, warning=FALSE}
@@ -120,7 +144,7 @@ prepped_sotu <- PrepText(sotu_first_speeches, groupvar = "president", textvar = 
 ```
 
 
-Creating Textnets
+Creating Textnets w/Nouns
 ========================================================
 
 ```{r}
@@ -129,7 +153,7 @@ sotu_text_network <- CreateTextnet(prepped_sotu)
 
 
 
-Visualize
+Visualize Textnet w/Nouns
 ========================================================
 
 ```{r, messages=FALSE, warning=FALSE}
@@ -152,7 +176,12 @@ saveWidget(vis, "sotu_textnet.html")
 ```
 
 
-Choosing Alpha
+Visualize Textnets w/adjectives
+========================================================
+
+
+
+Try Choosing a Lower Alpha
 ========================================================
 
 ```{r, messages=FALSE, warning=FALSE}
@@ -167,11 +196,28 @@ Interactive Visualization
 <embed width="1000" height="800" src="https://cbail.github.io/sotu_textnet.html">
 
 
+Word-Based Projection
+========================================================
+
+```{r, message=FALSE, warning=FALSE}
+
+prepped_sotu_words <- PrepText(sotu_first_speeches, groupvar = "president", textvar = "sotu_text", node_type = "words", tokenizer = "words", pos = "nouns", remove_stop_words = TRUE, compound_nouns = TRUE)
+
+#drop those that appear less than five times because of memory limitations
+prepped_and_trimmed<-prepped_sotu_words[prepped_sotu_words$count>5,]
+
+sotu_word_network <- CreateTextnet(prepped_and_trimmed)
+
+VisTextNet(sotu_word_network, alpha=.02)
+
+```
+
+
 Analyzing Text Networks
 ========================================================
 
 ```{r}
-sotu_communities <- TextCommunities(sotu_text_network)
+sotu_communities <- TextCommunities(sotu_word_network)
 head(sotu_communities)
 ```
 
