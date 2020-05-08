@@ -72,3 +72,24 @@
   image: /assets/images/TekinBaykiz.jpg
   bio: "Tekin Baykız is a research assistant in the Department of International Relations at Middle East Technical University (METU) in Turkey. Currently, he is a PhD candidate in the same department. He holds B.A. degrees in Computer Engineering and Computer Teaching from Ankara University and Gazi University respectively. Baykız also received a M.S. degree from Information Systems Program at METU. He worked as a researcher in the project titled “EU-GLOBAL: Transatlantic Perspectives in a Changing Global Context: Multilateralism through Regionalism”, which was financed under the European Union Seventh Framework Program. His research interests include Islamic Groups and Foreign Policy, Westernism and anti-Americanism in Turkish political thought."
   website: 
+
+- name: Imane Khaouja
+  image: /assets/images/ImaneKhaouja.png
+  bio: "Imane Khaouja is a Ph.D. student at Université Internationale de Rabat. Her thesis focuses on improving education and employability in Morocco using data science. She uses text analysis to identify required hard skills and soft kills in job postings to grasp job market needs. The analysis draws the big picture of the job market needs in Morocco which will help future job seeker and graduates to find a job."
+  website: 
+  
+- name: Nur Sevencan
+  image: /assets/images/NurSevencan.jpg
+  bio: "Nur Sevencan currently works at Yıldız Incubation Center as an entreprenurship specialist. She previously worked ad TRT World as a data analyst and a producer. As a group of volunteers from TRT world, she participated in Data for Refugees data challenge. Sevencan studied Economics as an undergrad and was enrolled in Istanbul Şehir University’s Masters program in Economics and Finance."
+  website: 
+  
+- name: Özen Baş
+  image: /assets/images/OzenBas.jpeg
+  bio: "Özen Baş is currently a Visiting Assistant Professor of New Media at Kadir Has University. She received her BA degrees in Sociology and Political Science & International Relations at Boğaziçi University and her doctorate in Mass Communications at the Media School at Indiana University. Her research interests include the uses of social media for political activism and collective action; visual communication, and affect. She uses quantitative social scientific methods, such as controlled experiments and quantitative content analysis."
+  website: 
+  
+  
+- name: Betül Özturan
+  image: /assets/images/BetulOzturan.JPG
+  bio: "Betül Özturan is MA student of Political Science at the University of Konstanz with specialization on International Administration and Conflict Management. She obtained her Bachelor degree from Boğaziçi University in Political Science and International Relations as well as her minor degree in Economics. Her research interests are civil wars and terrorism. She is currently learning social network analysis and text analysis methods to apply on her research."
+  website: 
