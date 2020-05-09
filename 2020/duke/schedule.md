@@ -5,5 +5,3 @@ schedule: true
 ---
 
 # Schedule
-
-All times are in Eastern Daylight Time.
