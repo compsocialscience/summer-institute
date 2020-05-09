@@ -43,7 +43,6 @@
 </style>
 
 
-
 Text Networks
 ========================================================
 author: Chris Bail 
@@ -52,7 +51,7 @@ autosize: true
 transition: fade  
   website: https://www.chrisbail.net  
   Twitter: https://www.twitter.com/chris_bail  
-  github: https://github.com/cbail 
+  github: https://github.com/cbail  
 
 What is a Network?
 ========================================================
@@ -64,27 +63,10 @@ What is a Network?
 
 Two-Mode Networks
 ========================================================
+<img src="TextNets_Diagram.png" height="500" />
 
-Two-Mode Networks
-========================================================
-<img src="moon_landing.png" height="00" />
+For a technical overview, see Bail [(2016)](https://www.pnas.org/content/pnas/113/42/11823.full.pdf?with-ds=yes) or Rule et al [(2015)](https://www.pnas.org/content/112/35/10837)
 
-Two-Mode Networks
-========================================================
-<img src="plot_one.png" height="400" />
-
-
-Two-Mode Networks
-========================================================
-<img src="plot_two.png" height="400" />
-
-From Words to Networks
-========================================================
-
-
-From Words to Networks
-========================================================
-<img src="bail_pnas.png" height="400" />
 
 
 State of the Union Addresses
@@ -104,50 +86,61 @@ Textnets
 Textnets
 ========================================================
 
-The `textnets` package provides the following functions:
+This package: 
 
-1) preparing texts for network analysis  
-2) creating text networks  
-3) visualizing text networks  
-4) detecting themes or "topics" within text networks  
+1) prepares texts for network analysis  
+2) creates text networks  
+3) visualizes text networks  
+4) detects themes or "topics" within text networks  
 
 Textnets
 ========================================================
+class: small-code
 
 ```{r, eval=FALSE, message=FALSE, warning=FALSE}
 library(devtools)
+
 install_github("cbail/textnets")
 ```
 
 
-
 Example: State of the Union Addresses
 ========================================================
-
-```{r, message=FALSE, warning=FALSE}
+class: small-code
+```{r, eval=FALSE, message=FALSE, warning=FALSE}
 library(textnets)
+
 data(sotu)
 ```
 
 Part of Speech Tagging Takes Time...
 ========================================================
-
-```{r, message=FALSE, warning=FALSE}
-sotu_first_speeches <- sotu %>% group_by(president) %>% slice(1L)
+class: small-code
+```{r, eval=FALSE,message=FALSE, warning=FALSE}
+sotu_first_speeches <- sotu %>% 
+                        group_by(president) %>% 
+                          slice(1L)
 ```
 
 PrepText w/Nouns
 ========================================================
-
-```{r, message=FALSE, warning=FALSE}
-prepped_sotu <- PrepText(sotu_first_speeches, groupvar = "president", textvar = "sotu_text", node_type = "groups", tokenizer = "words", pos = "nouns", remove_stop_words = TRUE, compound_nouns = TRUE)
-```
+class: small-code
+```{r, eval=FALSE,message=FALSE, warning=FALSE}
+prepped_sotu <- PrepText(sotu_first_speeches, 
+                         groupvar = "president", 
+                         textvar = "sotu_text", 
+                         node_type = "groups", 
+                         tokenizer = "words", 
+                         pos = "nouns", 
+                         remove_stop_words = TRUE,
+                         compound_nouns = TRUE)
+``` 
 
 
 Creating Textnets w/Nouns
 ========================================================
-
-```{r}
+class: small-code
+```{r, eval=FALSE}
 sotu_text_network <- CreateTextnet(prepped_sotu)
 ```
 
@@ -155,15 +148,21 @@ sotu_text_network <- CreateTextnet(prepped_sotu)
 
 Visualize Textnet w/Nouns
 ========================================================
-
-```{r, messages=FALSE, warning=FALSE}
-VisTextNet(sotu_text_network, label_degree_cut = 0)
+class: small-code
+```{r, eval=FALSE, messages=FALSE, warning=FALSE}
+VisTextNet(sotu_text_network, alpha=.1, label_degree_cut = 3)
 ```
+
+Visualize Textnet w/Nouns
+========================================================
+
+<img src="sotu_plot.png" height="400" />
+
 
 
 Interactive Visualization
 ========================================================
-
+class: small-code
 ```{r, eval=FALSE}
 library(htmlwidgets)
 vis <- VisTextNetD3(sotu_text_network, 
@@ -176,19 +175,6 @@ saveWidget(vis, "sotu_textnet.html")
 ```
 
 
-Visualize Textnets w/adjectives
-========================================================
-
-
-
-Try Choosing a Lower Alpha
-========================================================
-
-```{r, messages=FALSE, warning=FALSE}
-VisTextNet(sotu_text_network, alpha=.1, label_degree_cut = 2)
-```
-
-
 
 Interactive Visualization
 ========================================================
@@ -198,8 +184,8 @@ Interactive Visualization
 
 Word-Based Projection
 ========================================================
-
-```{r, message=FALSE, warning=FALSE}
+class: small-code
+```{r, echo=FALSE, eval=FALSE, message=FALSE, warning=FALSE}
 
 prepped_sotu_words <- PrepText(sotu_first_speeches, groupvar = "president", textvar = "sotu_text", node_type = "words", tokenizer = "words", pos = "nouns", remove_stop_words = TRUE, compound_nouns = TRUE)
 
@@ -213,34 +199,34 @@ VisTextNet(sotu_word_network, alpha=.02)
 ```
 
 
+<img src="word_projection.png" height="400" />
+
+
 Analyzing Text Networks
 ========================================================
-
-```{r}
+class: small-code
+```{r, eval=FALSE}
 sotu_communities <- TextCommunities(sotu_word_network)
+
 head(sotu_communities)
 ```
 
 Analyzing Text Networks
 ========================================================
+class: small-code
+```{r, eval=FALSE}
+top_words_modularity_classes <- 
+      InterpretText(sotu_text_network, prepped_sotu)
 
-```{r}
-top_words_modularity_classes <- InterpretText(sotu_text_network, prepped_sotu)
 head(top_words_modularity_classes, 10)
 ```
 
 Centrality Measures
 ========================================================
-
-```{r}
+class: small-code
+```{r, eval=FALSE}
 text_centrality <- TextCentrality(sotu_text_network)
 ```
-
-
-Next Steps with Textnets
-========================================================
-
-<img src="taylor.png" height="400" />
 
 
 
@@ -248,7 +234,3 @@ Next Steps with Textnets
 ========================================================
 
 <img src="signed_conservative.png" height="400" />
-
-
-
-

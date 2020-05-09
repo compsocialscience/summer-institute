@@ -1,32 +1,235 @@
-Text_Networks
-=======================
+<style>
 
+.reveal section p {
+  color: black;
+  font-size: .7em;
+  font-weight: normal;
+  font-family: 'Helvetica'; #this is the font/color of text in slides
+}
+
+
+.section .reveal .state-background {
+    background: white;}
+.section .reveal h1,
+.section .reveal p {
+    color: black;
+    position: relative;
+    font-family: 'Helvetica';
+    font-weight: normal;
+    top: 4%;}
+   
+ 
+ /* section titles */
+.reveal h1 { 
+  color: black;
+  position: relative;
+  font-weight: normal;
+  font-family: 'Helvetica'; 
+  top: 4%
+}    
+
+ 
+/* slide titles */
+.reveal h3 { 
+  color: black;
+  font-weight: normal;
+  font-family: 'Helvetica'; 
+}    
+
+.small-code pre code {
+  font-size: 1.2em;
+}
+
+</style>
+
+
+Text Networks
+========================================================
+author: Chris Bail 
+date: Duke University
+autosize: true
+transition: fade  
+  website: https://www.chrisbail.net  
+  Twitter: https://www.twitter.com/chris_bail  
+  github: https://github.com/cbail  
+
+What is a Network?
+========================================================
+
+What is a Network?
+========================================================
+
+<img src="Community_Structure2.jpg" height="400" />
+
+Two-Mode Networks
+========================================================
+<img src="TextNets_Diagram.png" height="500" />
+
+For a technical overview, see Bail [(2016)](https://www.pnas.org/content/pnas/113/42/11823.full.pdf?with-ds=yes) or Rule et al [(2015)](https://www.pnas.org/content/112/35/10837)
+
+
+
+State of the Union Addresses
+========================================================
+<img src="Rule1.png" height="400" />
+
+
+State of the Union Addresses
+========================================================
+<img src="Rule2.png" height="400" />
+
+
+Textnets
+========================================================
+
+
+Textnets
+========================================================
+
+This package: 
+
+1) prepares texts for network analysis  
+2) creates text networks  
+3) visualizes text networks  
+4) detects themes or "topics" within text networks  
+
+Textnets
+========================================================
+class: small-code
+
+
+```r
+library(devtools)
+
+install_github("cbail/textnets")
 ```
-Warning message:
-package ‘knitr’ was built under R version 3.5.2 
 
 
-processing file: Text_Networks.Rpres
-Loading required package: dplyr
+Example: State of the Union Addresses
+========================================================
+class: small-code
 
-Attaching package: 'dplyr'
+```r
+library(textnets)
 
-The following objects are masked from 'package:stats':
-
-    filter, lag
-
-The following objects are masked from 'package:base':
-
-    intersect, setdiff, setequal, union
-
-Loading required package: udpipe
-Loading required package: ggraph
-Loading required package: ggplot2
-Loading required package: networkD3
-Downloading udpipe model from https://raw.githubusercontent.com/jwijffels/udpipe.models.ud.2.4/master/inst/udpipe-ud-2.4-190531/english-ewt-ud-2.4-190531.udpipe to /Users/christopherandrewbail/Documents/GitHub/summer-institute/2020/materials/day3-text-analysis/text-networks/Rpres/english-ewt-ud-2.4-190531.udpipe
-Visit https://github.com/jwijffels/udpipe.models.ud.2.4 for model license details
-trying URL 'https://raw.githubusercontent.com/jwijffels/udpipe.models.ud.2.4/master/inst/udpipe-ud-2.4-190531/english-ewt-ud-2.4-190531.udpipe'
-Content type 'application/octet-stream' length 16477964 bytes (15.7 MB)
-==================================================
-downloaded 15.7 MB
+data(sotu)
 ```
+
+Part of Speech Tagging Takes Time...
+========================================================
+class: small-code
+
+```r
+sotu_first_speeches <- sotu %>% 
+                        group_by(president) %>% 
+                          slice(1L)
+```
+
+PrepText w/Nouns
+========================================================
+class: small-code
+
+```r
+prepped_sotu <- PrepText(sotu_first_speeches, 
+                         groupvar = "president", 
+                         textvar = "sotu_text", 
+                         node_type = "groups", 
+                         tokenizer = "words", 
+                         pos = "nouns", 
+                         remove_stop_words = TRUE,
+                         compound_nouns = TRUE)
+```
+
+
+Creating Textnets w/Nouns
+========================================================
+class: small-code
+
+```r
+sotu_text_network <- CreateTextnet(prepped_sotu)
+```
+
+
+
+Visualize Textnet w/Nouns
+========================================================
+class: small-code
+
+```r
+VisTextNet(sotu_text_network, alpha=.1, label_degree_cut = 3)
+```
+
+Visualize Textnet w/Nouns
+========================================================
+
+<img src="sotu_plot.png" height="400" />
+
+
+
+Interactive Visualization
+========================================================
+class: small-code
+
+```r
+library(htmlwidgets)
+vis <- VisTextNetD3(sotu_text_network, 
+                      height=300,
+                      width=400,
+                      bound=FALSE,
+                      zoom=FALSE,
+                      charge=-30)
+saveWidget(vis, "sotu_textnet.html")
+```
+
+
+
+Interactive Visualization
+========================================================
+
+<embed width="1000" height="800" src="https://cbail.github.io/sotu_textnet.html">
+
+
+Word-Based Projection
+========================================================
+class: small-code
+
+
+
+<img src="word_projection.png" height="400" />
+
+
+Analyzing Text Networks
+========================================================
+class: small-code
+
+```r
+sotu_communities <- TextCommunities(sotu_word_network)
+
+head(sotu_communities)
+```
+
+Analyzing Text Networks
+========================================================
+class: small-code
+
+```r
+top_words_modularity_classes <- 
+      InterpretText(sotu_text_network, prepped_sotu)
+
+head(top_words_modularity_classes, 10)
+```
+
+Centrality Measures
+========================================================
+class: small-code
+
+```r
+text_centrality <- TextCentrality(sotu_text_network)
+```
+
+
+
+Next Steps with Textnets
+========================================================
+
+<img src="signed_conservative.png" height="400" />
