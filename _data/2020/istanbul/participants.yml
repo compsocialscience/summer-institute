@@ -90,10 +90,15 @@
   
 - name: Betül Özturan
   image: /assets/images/BetulOzturan.JPG
-  bio: "Betül Özturan is a MA student of Political Science at the University of Konstanz with specialization on International Administration and Conflict Management. She obtained her Bachelor degree from Boğaziçi University in Political Science and International Relations as well as her minor degree in Economics. Her research interests are civil wars and terrorism. She is currently learning social network analysis and text analysis methods to apply on her research."
+  bio: "Betül Özturan is MA student of Political Science at the University of Konstanz. She is the research assistant to the Development Research Group there. She obtained her Bachelor degree from Boğaziçi University in Political Science and International Relations and her minor degree in Economics (2018). Her research interests are civil wars and terrorism. Her current research is on UN Peacekeeping mission's economic impact.  She is currently learning social network analysis and text analysis methods to apply on her research of foreign combatants in civil wars."
   website: 
 
 - name: Burak Özturan
-  image: /assets/images/BurakOzturan.jpg
+  image: /assets/images/BurakOzturan.png
   bio: "Burak is a second-year master student at the University of Konstanz in Social and Economic Data Science. He received his Economics B.A with an honors degree from Bogazici University. He stands on the ideal intersection point of social science, mathematics, and computer science for computational social science research. Currently, He is analyzing Turkish social media polarization through quantitative text analysis approaches. His research interests are political polarization, behavioral economics, collective action, and conflict studies."
+  website: 
+
+- name: Osman Zeki Gökçe
+  image: /assets/images/OsmanZekiGokce.jpg
+  bio: "Osman Zeki Gökçe is an Assistant Professor of Political Science and International Relations at İstanbul Medipol University. He earned both M.A. (2012) and Ph.D. (2018) degrees in Political Science from Sabancı University. He holds B.A. and M.A. degrees in Economics from Koç University. During the spring semester of 2017, he pursued his pre-doctoral research at Harvard University as a Visiting Fellow. His research interests lie in the intersection of quantitative political methodology and international relations focusing specifically on factors affecting the likelihood of interstate relations. His current research focuses on the role of energy dependence in shaping states’ foreign policy preferences and actions. As one of the important outputs of this research agenda, he compiled Global Energy Interdependence Dataset, presented in monadic and dyadic formats for the years between 1978 and 2014. He has also published interdisciplinary joint articles on social network and media analyses and their applications on subjects related to domestic and foreign policies of Turkey."
   website: 
