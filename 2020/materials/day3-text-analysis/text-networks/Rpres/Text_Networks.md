@@ -71,12 +71,12 @@ For a technical overview, see Bail [(2016)](https://www.pnas.org/content/pnas/11
 
 State of the Union Addresses
 ========================================================
-<img src="Rule1.png" height="400" />
+<img src="Rule1.png" height="500" />
 
 
 State of the Union Addresses
 ========================================================
-<img src="Rule2.png" height="400" />
+<img src="Rule2.png" height="500" />
 
 
 Textnets
@@ -162,7 +162,7 @@ VisTextNet(sotu_text_network, alpha=.1, label_degree_cut = 3)
 Visualize Textnet w/Nouns
 ========================================================
 
-<img src="sotu_plot.png" height="400" />
+<img src="sotu_plot.png" height="500" />
 
 
 
@@ -183,10 +183,6 @@ saveWidget(vis, "sotu_textnet.html")
 
 
 
-Interactive Visualization
-========================================================
-
-<embed width="1000" height="800" src="https://cbail.github.io/sotu_textnet.html">
 
 
 Word-Based Projection
@@ -195,7 +191,7 @@ class: small-code
 
 
 
-<img src="word_projection.png" height="400" />
+<img src="word_projection.png" height="500" />
 
 
 Analyzing Text Networks
@@ -232,4 +228,4 @@ text_centrality <- TextCentrality(sotu_text_network)
 Next Steps with Textnets
 ========================================================
 
-<img src="signed_conservative.png" height="400" />
+<img src="signed_conservative.png" height="500" />

@@ -53,10 +53,35 @@ transition: fade
   Twitter: https://www.twitter.com/chris_bail  
   github: https://github.com/cbail  
 
-What is a Network?
+
 ========================================================
 
-What is a Network?
+<img src="Summer Institute Logo.png" height="400" />
+
+
 ========================================================
 
-<img src="Community_Structure2.jpg" height="400" />
+<img src="LRM_EXPORT_8602215720423_20190626_150925382.jpeg" height="500" />
+
+
+========================================================
+
+
+<img src="laptops.jpg" height="500" />
+
+
+========================================================
+
+<img src="nick_stitch2.jpg" height="500" />
+
+========================================================
+
+
+<img src="IMG_1986.jpg" height="500" />
+
+
+========================================================
+
+<img src="Summer Institute Logo.png" height="400" />
+
+
