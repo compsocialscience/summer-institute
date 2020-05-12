@@ -15,8 +15,8 @@
   bio: 
   
 - name: Matthew Martin
-  image: 
-  bio: 
+  image: /2020/montreal/images/Mattew_Martin.jpg
+  bio: "Matthew Martin is a PhD Candidate in the Cognitive Informatics program at L'Université du Québec à Montréal (UQAM, Canada). He is also an analyst at The Decision Lab, a non-profit think-tank that uses behavioural science to improve decision-making. His research interest is in finding or creating the best tools for aiding decision-making and subjecting them to rigorous empirical analysis. He holds a Master's degree in psychology and a Bachelor's degree in cognitive science."
   
 - name: David Pelletier
   image:    
@@ -33,6 +33,10 @@
 - name: Yang Teoh
   image: 
   bio: 
+  
+- name: Robert Vidigal
+  image:/2020/montreal/images/robert-wp.jpg
+  bio: "Robert Vidigal is a Ph.D Candidate at the Department of Political Science, Stony Brook University, NY. His research focuses on Comparative Political Behavior, Political Communication, Political Psychology, Public Opinion, and Network Analysis. He is interested in how political communication influences voters behavior and political attitudes. Especially, citizens’ ability and motivations to learn and process new information."
 
 - name: Zedan Xu
   image: 
