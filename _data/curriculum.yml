@@ -47,7 +47,7 @@
         - link: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/03-ethics.pdf"
           text: "Slides"
     - name: "Ethics: Principles-based approach"
-      video: "https://www.youtube.com/watch?v=H_3qbmlZsp0"
+      video: "https://www.youtube.com/embed/H_3qbmlZsp0"
       sublinks:
         - link: "https://www.youtube.com/watch?v=H_3qbmlZsp0"
           text: "Video"
@@ -107,7 +107,7 @@
         - link: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/screenscraping/rmarkdown/Screenscraping.html"
           text: "Annotated Code"
     - name: "Application Programming Interfaces"
-      video: "https://www.youtube.com/watch?v=jKdzOAqpN3o&list=PL9UNgBC7ODr6nUdi9iL-h0Te9CbgKe78t&index=10&t=0s"
+      video: "https://www.youtube.com/embed/jKdzOAqpN3o"
       sublinks:
         - link: "https://www.youtube.com/watch?v=jKdzOAqpN3o&list=PL9UNgBC7ODr6nUdi9iL-h0Te9CbgKe78t&index=10&t=0s"
           text: "Video"
