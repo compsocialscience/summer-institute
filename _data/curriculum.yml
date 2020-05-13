@@ -218,10 +218,7 @@
   exercise_title: "Group exercise"
   exercise:
     - name: "Group Exercise"
-      resource: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/SICSS_survey_activity_2019.pdf"
-      resource: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/2019-06-13_mturk_data_clean.csv"
-      resource: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/2017_acs_data_clean.csv"
-
+      resource: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/SICSS_survey_activity_2019.md"
 
 - day: Day 5
   id: day_2019_5
