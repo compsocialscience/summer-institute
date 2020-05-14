@@ -217,53 +217,6 @@ Areas of difficulty:
 \begin{frame}
 
 \begin{center}
-\includegraphics[width=\textwidth]{figures/nyc_taxi_data}
-\end{center}
-
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-\begin{center}
-\includegraphics[width=1\textwidth]{figures/hustler_dropoff_wide.png}
-\end{center}
-
-\tiny{\url{http://research.neustar.biz/2014/09/15/riding-with-the-stars-passenger-privacy-in-the-nyc-taxicab-dataset/}}
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-\begin{center}
-\includegraphics[width=\textwidth]{figures/hustler_dropoff_uws.png}
-\end{center}
-
-\tiny{\url{http://research.neustar.biz/2014/09/15/riding-with-the-stars-passenger-privacy-in-the-nyc-taxicab-dataset/}}
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}[fragile]
-
-Data:\\
-\url{https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page}
-\pause
-
-\vfill
-Code:\\
-\begin{tiny}
-\begin{lstlisting} 
-SELECT dropoff_latitude, dropoff_longitude
-FROM tripData
-WHERE pickup_lat > 40.767249 AND pickup_lat < 40.768
-  AND pickup_lon > -73.996782 AND pickup_lon < -73.995538
-  AND HOUR(pickup_datetime) < 6
-  AND trip_distance > 5;
-\end{lstlisting}
-\end{tiny}
-
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-\begin{center}
 \includegraphics[width=\textwidth]{figures/aol_search}
 \end{center}
 
