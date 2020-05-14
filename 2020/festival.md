@@ -8,7 +8,7 @@ The SICSS Festival 2020 will take place Monday, June 22 - Friday, June 26, 2020.
 
 ## Using Empirica for high-throughput virtual lab experiments
 
-__Speaker:__ [Abdullah Almaatouq](www.amaatouq.com/) (SICSS-Princeton 17), [James Houghton](http://www.jamesphoughton.com/) (SICSS-Duke 20), and Nicolas Paton.
+__Speaker:__ [Abdullah Almaatouq](http://www.amaatouq.com/) (SICSS-Princeton 17), [James Houghton](http://www.jamesphoughton.com/) (SICSS-Duke 20), and Nicolas Paton.
 
 __Description:__ [Empirica](https://empirica.ly/) is a new open source software platform for developing and conducting synchronous and interactive human-subject experiments.  It has already been used by researchers around the world. This session will start with a live demonstration where participants will take part in a real-time experiment involving dozens of people.  Next, the data from that experiment will be downloaded and analyzed.  Thus, participants will have a behind-the-scenes, end-to-end experience with an experiment run with Emprica. Finally, there will be time for questions and discussion about Empirica and the future of experiments in the social sciences.
 
