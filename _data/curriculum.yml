@@ -194,7 +194,6 @@
           text: "Video"
         - link: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/01-survey-research-digital-age.pdf"
           text: "Slides"
-  events:
     - name: "Probability and non-probability sampling"
       video: "https://www.youtube.com/embed/9olwcCwxA9I" 
       sublinks:
