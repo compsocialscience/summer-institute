@@ -75,7 +75,7 @@
     - name: "Case study 1"
       resource: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/activity/ethics_case_study.pdf"
     - name: "Case study 2"
-      resouce: "https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf"       
+      resource: "https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf"       
 
 - day: Day 2
   id: day_2019_2
