@@ -70,12 +70,12 @@
           text: "Slides"
   exercise_title: "Group exercise"
   exercise:
-    - name: "Lesson Plan"
+    - name: "Lesson plan"
       resource: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/activity/lesson_plan_ethics.md"
-    - name: "Case Study 1"
+    - name: "Case study 1"
       resource: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/activity/ethics_case_study.pdf"
-    - name: "Case Study 2"
-      resource: "https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf"
+    - name: "Case study 2"
+      resouce: "https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf"       
 
 - day: Day 2
   id: day_2019_2
@@ -126,7 +126,7 @@
           text: "Annotated Code"
   exercise_title: "Group exercise"
   exercise:
-    - name: "Group Exercise"
+    - name: "Lesson plan"
       resource: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/Group_Exercise_Day_2.html"
 
 - day: Day 3
@@ -180,7 +180,7 @@
           text: "Annotated Code"
   exercise_title: "Group exercise"
   exercise:
-    - name: "Group Exercise"
+    - name: "Lesson plan"
       resource: "https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/SICSS_Group_Exercise_Day_3.html"
 
 - day: Day 4
@@ -215,7 +215,7 @@
           text: "Video"
         - link: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/04-combining-surveys-and-big-data.pdf"
           text: "Slides"
-    - name: "Group exercise introduction"
+    - name: "Introduction to the group exercise"
       video: "https://www.youtube.com/embed/2zIowhr1yyA"
       sublinks:
         - link: "https://youtu.be/2zIowhr1yyA"
@@ -224,7 +224,7 @@
           text: "Slides"
   exercise_title: "Group exercise"
   exercise:
-    - name: "Group Exercise"
+    - name: "Lesson plan"
       resource: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/SICSS_survey_activity_2019.md"
 
 - day: Day 5
@@ -252,7 +252,11 @@
           text: "Video"
         - link: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day5-mass-collaboration/03-ffchallenge_participate_activity.pdf"
           text: "Slides"
-
+  exercise_title: "Group exercise"
+  exercise:
+    - name: "Lesson plan"
+      resource: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration.md"
+          
 - day: Day 6
   id: day_2019_6
   topic: Experiments in the Digital Age
