@@ -1,7 +1,7 @@
 # Lesson Plan
 ## Summer Institutes in Computational Social Science 2020
 ## Day 5, Mass collaboration
-## Prepared by Matt Salganik and Ian Lundberg[^1]
+## Prepared by Matt Salganik and Ian Lundberg<sup>1</sup>
 
 ### Summary
 
@@ -47,4 +47,4 @@ Form groups of roughly 3 people randomly. You might consider distributing those 
 - If participants have trouble submitting, note that a basic submission file with the correct structure is provided in the files we sent them: ffchallenge_SICSS_2020/example_submission/example_for_upload.zip
 
 
-[^1]: This lesson plan draws on a previous version prepared with Alex Kindel. The [Fragile Families Challenge](https://doi.org/10.1073/pnas.1915006117) is a mass collaboration organized by Matt Salganik, Ian Lundberg, Alex Kindel, and Sara McLanahan, conducted with an additional 108 authors.
+<sup>1</sup> This lesson plan draws on a previous version prepared with Alex Kindel. The [Fragile Families Challenge](https://doi.org/10.1073/pnas.1915006117) is a mass collaboration organized by Matt Salganik, Ian Lundberg, Alex Kindel, and Sara McLanahan, conducted with an additional 108 authors.
