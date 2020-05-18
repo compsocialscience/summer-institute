@@ -6,16 +6,23 @@
 \usepackage{comment}
 \usepackage{url}
 
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%
-\title[]{Combining surveys and big data}
+\title[]{\textcolor{gray}{[Survey research in the digital age], [Probability and non-probability sampling], [Computer-administered interviews],} [Combining surveys and big data]\textcolor{gray}{, [Additions and extensions]}}
 \author[]{Matthew J. Salganik\\Department of Sociology\\Princeton University}
-\date[]{Summer Institutes in Computational Social Science\\2020
-\vfill
-\begin{flushleft}
-{\scriptsize
-The Summer Institutes in Computational Social Science is supported by grants from the Russell Sage Foundation and the Alfred P. Sloan Foundation.}
-\end{flushleft}
+\date[]{%Summer Institutes in Computational Social Science\\2020
+%\vfill
+%\begin{flushleft}
+%{\scriptsize
+%The Summer Institutes in Computational Social Science is supported by grants from the Russell Sage Foundation and the Alfred P. Sloan Foundation.}
+%\end{flushleft}
 \begin{flushright}
 \includegraphics[width=0.1\textwidth]{figures/cc-by.png}
 \end{flushright}
@@ -23,6 +30,28 @@ The Summer Institutes in Computational Social Science is supported by grants fro
 \begin{document}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \frame{\titlepage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+
+\begin{columns}
+\begin{column}{.40\textwidth}
+\includegraphics[width=\textwidth]{figures/salganik_bit_2018_cover}
+\end{column}%
+
+\hfill%
+
+\begin{column}{.60\textwidth}
+1) Introduction \\
+2) Observing behavior \\
+\textcolor{blue}{3) Asking questions} \\
+4) Running experiments \\
+5) Mass collaboration \\
+6) Ethics \\
+7) The future \\
+\end{column}%
+\end{columns}
+
+\end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
@@ -71,11 +100,60 @@ Note the different role of the big data in each case
 \begin{frame}
 
 \begin{center}
-\includegraphics[width=0.9\textwidth]{figures/blumenstock_predicting_2015_title}
+\includegraphics[width=0.6\textwidth]{figures/ansolabehere_validation_2012_title}
 \end{center}
 
 \vfill
-\url{http://dx.doi.org/10.1126/science.aac4420}
+\href{https://www.jstor.org/stable/23359641}{Ansolabehere and Hersh (2012)}
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+
+\begin{center}
+\includegraphics[width=0.6\textwidth]{figures/bitbybit3-13_ansolabehere_validation_2012_schematic}
+\end{center}
+
+\vfill
+\href{https://www.jstor.org/stable/23359641}{Ansolabehere and Hersh (2012)}
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+
+\begin{center}
+\includegraphics[width=0.2\textwidth]{figures/bitbybit3-13_ansolabehere_validation_2012_schematic}
+\end{center}
+Findings:
+\begin{itemize}
+\item Over-reporting of voting is rampant: almost half of non-voters reported voting, someone who reported voting had 80\% chance of actually voting
+\pause
+\item Over-reporting is not random; it is more common among high-income, well-educated, partisans engaged in civic affairs
+\pause
+\item Because of systematic over-reporting, differences between voters and nonvoters are smaller than they appear from surveys
+\pause
+\item Existing theories are better at predicting who will reporting voting than who will actually vote
+\end{itemize}
+\vfill
+\href{https://www.jstor.org/stable/23359641}{Ansolabehere and Hersh (2012)}
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+
+\begin{center}
+\includegraphics[width=0.6\textwidth]{figures/bitbybit3-12_found_survey_combined}
+\end{center}
+
+Note the different role of the big data in each case
+
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+
+\begin{center}
+\includegraphics[width=0.6\textwidth]{figures/blumenstock_predicting_2015_title}
+\end{center}
+
+\vfill
+\href{https://dx.doi/10.1126/science.aac4420}{Blumenstock, Cadamuro, and On (2015)}
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
@@ -150,218 +228,18 @@ Note the different role of the big data in each case
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
-\begin{center}
-\includegraphics[width=0.3\textwidth]{figures/khan_behavioral_2015_title}
-\pause
-\includegraphics[width=0.3\textwidth]{figures/blumenstock_calling_2014_title}
-\pause
-\includegraphics[width=0.3\textwidth]{figures/blumenstock_predicting_2015_title}
-\end{center}
-\pause
-\vfill
-The beginning is not the end . . . .
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-\begin{center}
-\includegraphics[width=0.8\textwidth]{figures/jean_combining_2016_title}
-\end{center}
-
-\vfill
-
-This paper is amazing and surprising (to me).  First a digression . . . .
-
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-Supervised learning:\\
-Lots of input-output pairs; goal is to develop a function that will predict the output from the input
-
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-\begin{center}
-\includegraphics[width=0.7\textwidth]{figures/blumenstock_predicting_2015_schematic_6}
-\end{center}
-\vfill
-See Chapter 3 of Salganik (2018)
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-\begin{center}
-\includegraphics[width=0.9\textwidth]{figures/king_how_2013_schematic}
-\end{center}
-\vfill
-See Chapter 2 of Salganik (2018)
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-\begin{center}
-\includegraphics[height=0.9\textheight]{figures/gz_banerji_schematic}
-\end{center}
-\vfill
-See Chapter 5 of Salganik (2018)
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-Supervised learning:\\
-Lots of input-output pairs; goal is to develop a function that will predict the output from the input
-
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-\Large{
-\begin{center}
-What if rather than engineering the features you could ``learn'' them automatically?
-\end{center}
-}
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-\begin{center}
-\includegraphics[width=0.8\textwidth]{figures/lecunn_deep_2015}
-\end{center}
-\vfill
-\url{http://dx.doi.org/10.1038/nature14539}
-
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-\begin{center}
-\includegraphics[width=0.6\textwidth]{figures/jean_combining_2016_title}
-\end{center}
-
-\pause
-
-\begin{center}
-\includegraphics[width=0.6\textwidth]{figures/vice_headline.png}
-\end{center}
-
-\vfill
-\url{http://dx.doi.org/10.1126/science.aaf7894}\\
-\url{https://motherboard.vice.com/en_us/article/artificial-intelligence-is-predicting-human-poverty-from-space}
-
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-Live demo:
-\url{https://www.google.com/maps/place/Kigali,+Rwanda/@-1.9546259,30.0345059,26517m/data=!3m2!1e3!4b1!4m5!3m4!1s0x19dca4258ed8e797:0xf32b36a5411d0bc8!8m2!3d-1.9705786!4d30.1044288}
-
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-But, most people had been using night lights
-\begin{center}
-\includegraphics[height=0.7\textheight]{figures/nyc_night}
-\end{center}
-
-\vfill
-\url{https://www.nasa.gov/multimedia/imagegallery/image_feature_2480.html}
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-Prior research:\\
-Nightlights + survey data to estimate wealth in places without surveys
-
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-Jean et al. (2016):\\
-Day pictures + Nightlights + survey data to estimate wealth in places without surveys
-
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-\begin{center}
-\includegraphics[width=0.4\textwidth]{figures/blumenstock_fighting_2016_fig}
-\end{center}
-
-\begin{itemize}
-\item Start with CNN pretrained on ImageNet (e.g. hampsters and weasels)
-\pause
-\item Train CNN to predict nightlights from day pictures (lots of training data)
-\end{itemize}
-
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-\begin{center}
-\includegraphics[width=0.4\textwidth]{figures/blumenstock_fighting_2016_fig}
-\end{center}
-
-\begin{itemize}
-\item Start with CNN pretrained on ImageNet (e.g. hampsters and weasels)
-\item Train CNN to predict nightlights from day pictures (lots of training data)
-\item Take features from CNN and train ridge regression to predict cluster mean survey response
-\end{itemize}
-
-\vfill
-
-\url{http://dx.doi.org/10.1126/science.aah5217}
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-\begin{center}
-\includegraphics[width=0.5\textwidth]{figures/jean_combining_2016_fig3}
-\end{center}
-
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-\begin{center}
-\includegraphics[width=0.9\textwidth]{figures/jean_combining_2016_fig5}
-\end{center}
-
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-\begin{center}
-\includegraphics[width=0.7\textwidth]{figures/zero_variable_cost_features}
-\end{center}
-
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-\begin{center}
-\includegraphics[width=0.7\textwidth]{figures/jean_predicting_github}
-\end{center}
-
-\vfill
-\url{https://github.com/nealjean/predicting-poverty}
-
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
 Wrap-up:
 \begin{itemize}
 \item Surveys and big data are compliments not substitutes
 \pause
 \item Sometime we do ``enriched asking'' and sometimes ``amplified asking'' (role of big data source is different in both cases)
 \pause
-\item Learn more: see ``what to read next'' in Ch 3 of Bit by Bit.
+\item Learn more: see ``what to read next'' in Ch 3 of \href{https://www.bitbybitbook.com/en/1st-ed/asking-questions/asking-what-to-read-next/}{\textit{Bit by Bit}}.
 \end{itemize}
 
 \end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame{\titlepage}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \end{document}

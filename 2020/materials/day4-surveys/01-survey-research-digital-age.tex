@@ -5,15 +5,23 @@
 \usepackage{framed}
 \usepackage{comment}
 
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%
-\title[]{Survey research in the digital age}
+\title[]{[Survey research in the digital age]\textcolor{gray}{, [Probability and non-probability sampling], [Computer-administered interviews], [Combining surveys and big data], [Additions and extensions]}}
 \author[]{Matthew J. Salganik\\Department of Sociology\\Princeton University}
-\date[]{Summer Institutes in Computational Social Science\\2020
-\vfill
-\begin{flushleft}
-{\scriptsize
-The Summer Institutes in Computational Social Science is supported by grants from the Russell Sage Foundation and the Alfred P. Sloan Foundation.}
-\end{flushleft}
+\date[]{%Summer Institutes in Computational Social Science\\2020
+%\vfill
+%\begin{flushleft}
+%{\scriptsize
+%The Summer Institutes in Computational Social Science is supported by grants from the Russell Sage Foundation and the Alfred P. Sloan Foundation.}
+%\end{flushleft}
 \begin{flushright}
 \vfill
 \includegraphics[width=0.1\textwidth]{figures/cc-by.png}
@@ -22,6 +30,28 @@ The Summer Institutes in Computational Social Science is supported by grants fro
 \begin{document}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \frame{\titlepage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+
+\begin{columns}
+\begin{column}{.40\textwidth}
+\includegraphics[width=\textwidth]{figures/salganik_bit_2018_cover}
+\end{column}%
+
+\hfill%
+
+\begin{column}{.60\textwidth}
+1) Introduction \\
+2) Observing behavior \\
+\textcolor{blue}{3) Asking questions} \\
+4) Running experiments \\
+5) Mass collaboration \\
+6) Ethics \\
+7) The future \\
+\end{column}%
+\end{columns}
+
+\end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
@@ -41,21 +71,13 @@ The Summer Institutes in Computational Social Science is supported by grants fro
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
-Schedule for today
-
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
 A few notes on my teaching:
 \begin{itemize}
 \item Anti-status quo bias
 \pause
 \item Anti-formality bias (formality is important, but just not right now)
 \pause
-\item Very brief to leave time for the activity
-\pause
-\item More information in Chapter 3 of \textit{Bit by Bit: Social Research in the Digital Age}: \url{https://www.bitbybitbook.com/en/1st-ed/asking-questions/}
+\item Very brief, more information in Ch. 3 of \href{https://www.bitbybitbook.com/en/1st-ed/asking-questions/}{\textit{Bit by Bit}}
 \end{itemize}
 
 \end{frame}
@@ -80,7 +102,7 @@ A few notes on my teaching:
 
 We will always need to ask
 \begin{itemize}
-\item limitations of big data (fubu vs. nufu-nubu)
+\item limitations of big data (fubu vs.\ nufu-nubu)
 \pause
 \item internal states vs. external states
 \pause
@@ -146,6 +168,24 @@ But how we are going to ask is going to change
 Total survey error framework
 \end{center}
 
+\end{frame}
+%%%%%%%%%%%%%%%%
+\begin{frame}
+\frametitle{Total survey error framework}
+
+Insight 1: Errors can come from bias or variance\\
+\pause
+\begin{center}
+\includegraphics[height=0.6\textheight]{figures/bitbybit3-1_bias-variance}
+\end{center}
+
+\end{frame}
+%%%%%%%%%%%%%%%%
+\begin{frame}
+\frametitle{Total survey error framework}
+
+Insight 2: Total survey error = measurement error + representation error \\ 
+\pause
 \begin{center}
 \includegraphics[width=0.6\textwidth]{figures/groves_total_2010_fig3}
 \end{center}
@@ -156,6 +196,7 @@ Total survey error framework
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
+\frametitle{Case study of total survey error framework}
 
 \begin{center}
 \includegraphics[width=0.6\textwidth]{figures/trump_oath}
@@ -167,6 +208,7 @@ Total survey error framework
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
+\frametitle{Case study of total survey error framework}
 
 \begin{center}
 \includegraphics[width=0.5\textwidth]{figures/aapor_2016_election_evaluation}
@@ -178,6 +220,7 @@ Total survey error framework
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
+\frametitle{Case study of total survey error framework}
 
 \begin{itemize}
 \item National polls were generally correct and accurate by historical standards.
@@ -190,6 +233,7 @@ Total survey error framework
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
+\frametitle{Case study of total survey error framework}
 
 ``There are a number of reasons as to why polls under-estimated support for Trump. The explanations for which we found the most evidence are:''
 \begin{itemize}
@@ -207,22 +251,14 @@ Full report: \url{http://www.aapor.org/Education-Resources/Reports/An-Evaluation
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
-
-\begin{center}
-\includegraphics[width=0.6\textwidth]{figures/groves_total_2010_fig3}
-\end{center}
-
-\vfill
-\small{\href{https://dx.doi.org/10.1093/poq/nfq065}{Groves and Lyberg 2010, Fig 3}}
-
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
+\frametitle{Conclusion}
 
 Wrapping up:
 \pause
 \begin{itemize}
-\item Total survey error framework helps us organize all the things that can go wrong
+\item Total survey error framework 1st key insight: errors can be caused by bias or variance
+\pause
+\item Total survey error framework 2nd key insight: errors can be related to representation and measurement
 \pause
 \item Total survey error framework also helps us think about how digital age can create new opportunities (who to ask and how to ask)
 \pause 
@@ -231,15 +267,7 @@ Wrapping up:
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-\begin{center}
-\Large Questions?
-\end{center}
-
-\end{frame}
+\frame{\titlepage}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
 
 \end{document}

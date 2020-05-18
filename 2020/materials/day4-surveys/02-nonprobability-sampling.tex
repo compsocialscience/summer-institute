@@ -10,16 +10,23 @@
   {\left.\begin{aligned}}
   {\end{aligned}\right\rbrace}
 
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%
-\title[]{Probability and non-probability sampling}
+\title[]{\textcolor{gray}{[Survey research in the digital age],} [Probability and non-probability sampling], \textcolor{gray}{[Computer-administered interviews], [Combining surveys and big data], [Additions and extensions]}}
 \author[]{Matthew J. Salganik\\Department of Sociology\\Princeton University}
-\date[]{Summer Institutes in Computational Social Science\\2020
-\vfill
-\begin{flushleft}
-{\scriptsize
-The Summer Institutes in Computational Social Science is supported by grants from the Russell Sage Foundation and the Alfred P. Sloan Foundation.}
-\end{flushleft}
+\date[]{%Summer Institutes in Computational Social Science\\2020
+%\vfill
+%\begin{flushleft}
+%{\scriptsize
+%The Summer Institutes in Computational Social Science is supported by grants from the Russell Sage Foundation and the Alfred P. Sloan Foundation.}
+%\end{flushleft}
 \begin{flushright}
 \includegraphics[width=0.1\textwidth]{figures/cc-by.png}
 \end{flushright}
@@ -27,6 +34,28 @@ The Summer Institutes in Computational Social Science is supported by grants fro
 \begin{document}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \frame{\titlepage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+
+\begin{columns}
+\begin{column}{.40\textwidth}
+\includegraphics[width=\textwidth]{figures/salganik_bit_2018_cover}
+\end{column}%
+
+\hfill%
+
+\begin{column}{.60\textwidth}
+1) Introduction \\
+2) Observing behavior \\
+\textcolor{blue}{3) Asking questions} \\
+4) Running experiments \\
+5) Mass collaboration \\
+6) Ethics \\
+7) The future \\
+\end{column}%
+\end{columns}
+
+\end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
@@ -77,9 +106,10 @@ The Summer Institutes in Computational Social Science is supported by grants fro
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
-Main insight from probability samples:\\
+Main insights from probability sampling:\\
 \begin{itemize}
 \item How you collect your data impacts how you make inference
+\pause
 \item Focus on properties of estimators not properties samples
 \end{itemize}
 
@@ -192,7 +222,7 @@ Imagine that you want to estimate the average height of Princeton students.\\
 \item Males (n= 20): Average height: 180cm
 \item Females (n=40): Average heigh: 170cm
 \end{itemize}
-\textcolor{green}{What is your estimate of the average height? (think-pair-share)}
+\textcolor{green}{What is your estimate of the average height?}
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -215,9 +245,11 @@ How could this go wrong?
 \end{center}
 
 \begin{center}
-\includegraphics[width=0.5\textwidth]{figures/xboxlogo}
+\includegraphics[width=0.3\textwidth]{figures/xboxlogo}
 \end{center}
 
+\vfill
+\href{https://doi.org/10.1016/j.ijforecast.2014.06.001}{Wang et al (2015)}
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
@@ -237,14 +269,6 @@ How could this go wrong?
 
 \begin{center}
 \includegraphics[width=0.8\textwidth]{figures/bitbybit3-8_wang_forecasting_2015_fig2_and_3}
-\end{center}
-
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-\begin{center}
-\includegraphics[width=0.9\textwidth]{figures/goel_online_2017_title}
 \end{center}
 
 \end{frame}
@@ -272,6 +296,8 @@ Wrap-up:
 \end{itemize}
 
 \end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame{\titlepage}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \end{document}
