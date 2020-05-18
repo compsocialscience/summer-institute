@@ -18,8 +18,7 @@ In this activity, participants will take part in a simulated Fragile Families Ch
 To prepare for this activity you should:
 
 - Complete the terms and conditions (link coming soon) for data access. Ian Lundberg will send you the data files. Contact him with questions.
-- Participants will receive the data exactly as you do. Direct them to complete the terms and conditions one day in advance of the activity.
-- Familiarize yourself with the files. They include components to support participants who may be falling behind, including a pre-prepared data file.
+- Participants will receive the data from us exactly as you do. Familiarize yourself with the files. They include components to support participants who may be falling behind, including a pre-prepared data file.
 - Watch the video in which Matt introduces the activity (see the [curriculum](https://compsocialscience.github.io/summer-institute/curriculum) page)
 - Optional: Learn more about the Fragile Families Challenge from the [published paper](https://doi.org/10.1073/pnas.1915006117) or from the [project website](http://www.fragilefamilieschallenge.org/).
 - Optional: Watch videos from the [Fragile Families Challenge Scientific Workshop](https://www.youtube.com/channel/UCjluzrRT8fqXCx3qHjQAb5A)
@@ -31,6 +30,7 @@ Form groups of roughly 3 people randomly. You might consider distributing those 
 
 ### Rough schedule
 
+- One day in advance of the activity, direct your participants to complete the terms and conditions (link coming soon). Ian will send them the data as he sent it to you.
 - Participants watch pre-recorded videos (in advance of activity)
 - In groups, participants prepare a data file for analysis (1 hour)
 - Break
