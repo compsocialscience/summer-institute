@@ -5,28 +5,55 @@
 - date: 2020-06-15
   name: "<b>Introduction and Ethics</b>"
   events:
-    - name: "12:00 - 19:00 CET Online activities (more details coming soon)"
+    - name: "12.30 - 13.00 Introduction and logistics (*Zoom*)"
+    - name: "13.00 - 14.00 Small group lunches (*Zoom*)"
+    - name: "14.00 - 14.30 Break"
+    - name: "14.30 - 15.30 Guest speaker [Argyri Panezi](https://compsocialscience.github.io/summer-institute/2020/maastricht/people) (*Zoom*)"
+    - name: "15.30 - 15.45 Introduction to the group exercise (*Zoom*)"
+    - name: "15.45 - 17.30 Group exercise (*Zoom*)"
+    - name: "17.30 - 17.45 Break"
+    - name: "17.45 - 19.00 Keynote speaker [Johan Bollen](https://compsocialscience.github.io/summer-institute/2020/maastricht/people) (*Zoom*)"
     
     
 - date: 2020-06-16
   name: "<b>Digital Trace Data</b>"
   events:
-    - name: "12:00 - 19:00 CET Online activities (more details coming soon)"
+    - name: "12.00 - 13.00 Guest speaker [Günes Acar](https://compsocialscience.github.io/summer-institute/2020/maastricht/people) (*Zoom*)"
+    - name: "13.00 - 14.00 Small group lunches (*Zoom*)"
+    - name: "14.00 - 14.30 Break"
+    - name: "14.45 - 15.00 Introduction to the group exercise (*Zoom*)"
+    - name: "15.00 - 18.00 Group exercise (*Zoom*)"
+    - name: "18.00 - 19.00 Whole group debrief about group excercise (*Zoom*)"
     
 - date: 2020-06-17
   name: "<b>Automated text analysis</b>"
   events:
-    - name: "12:00 - 19:00 CET Online activities (more details coming soon)"
+    - name: "12.00 - 13.00 Guest speaker [Frank Fagan](https://compsocialscience.github.io/summer-institute/2020/maastricht/people) (*Zoom*)"
+    - name: "13.00 - 14.00 Small group lunches (*Zoom*)"
+    - name: "14.00 - 14.30 Break"
+    - name: "14.45 - 15.00 Introduction to the group exercise (*Zoom*)"
+    - name: "15.00 - 18.00 Group exercise (*Zoom*)"
+    - name: "18.00 - 19.00 Whole group debrief about group excercise (*Zoom*)"
     
 - date: 2020-06-18
   name: "<b>Surveys in the Digital Age</b>"
   events:
-    - name: "12:00 - 19:00 CET Online activities (more details coming soon)"
+    - name: "12.00 - 13.00 Guest speaker TBA (*Zoom*)"
+    - name: "13.00 - 14.00 Small group lunches (*Zoom*)"
+    - name: "14.00 - 14.30 Break"
+    - name: "14.45 - 15.00 Introduction to the group exercise (*Zoom*)"
+    - name: "15.00 - 18.00 Group exercise (*Zoom*)"
+    - name: "18.00 - 19.00 Whole group debrief about group excercise (*Zoom*)"
     
 - date: 2020-06-19
   name: "<b>Network Analysis in Law</b>"
   events:
-    - name: "12:00 - 19:00 CET Online activities (more details coming soon)"
+    - name: "12.00 - 13.00 Guest speaker TBA (*Zoom*)" 
+    - name: "13.00 - 14.00 Small group lunches (*Zoom*)" 
+    - name: "14.00 - 14.30 Break"
+    - name: "14.30 - 16.00 Workshop: Introduction Gephi  (*Zoom*)"
+    - name: "16.00 - 16.30 Break"
+    - name: "16.30 - 17.30 Whole group discussion on network analysis in law (*Zoom*)"
     
 - date: 2020-06-20
   name: Day off
@@ -37,16 +64,37 @@
 - date: 2020-06-22
   name: "<b>Experiments in the Digital Age</b>"
   events:
-    - name: "12:00 - 19:00 CET Online activities (more details coming soon)"
+    - name: "12.00 - 13.00 Guest speaker [Amalia Alvarez Benjumea](https://compsocialscience.github.io/summer-institute/2020/maastricht/people) (*Zoom*)" 
+    - name: "13.00 - 14.00 Small group lunches (*Zoom*)" 
+    - name: "14.00 - 14.30 Break"
+    - name: "14.30 - 16.00 Workshop: Introduction Otree (*Zoom*)"
+    - name: "16.00 - 16.30 Break"
+    - name: "16.30 - 17.30 Finalizing group formation for Week 2 projects (*Zoom*)"
     
 - date: 2020-06-23
   name: "<b>Work on group projects</b>"
+  events:
+    - name: "13.00 - 14.00 Small group lunches (*Zoom*)" 
+    - name: "17.00 - 18.00 Whole group updates on Week 2 research projects (*Zoom*)"
 
 - date: 2020-06-24
   name: "<b>Work on group projects</b>"
+  events:
+    - name: "13.00 - 14.00 Small group lunches (*Zoom*)" 
+    - name: "16.00 - 17.30 Possible panel discussion (*Zoom*)"
+    - name: "17.30 - 18.00 Break"
+    - name: "18.00 - 19.00 Whole group updates on Week 2 research projects (*Zoom*)"
 
 - date: 2020-06-25
   name: "<b>Work on group projects</b>"
+  events:
+    - name: "13.00 - 14.00 Small group lunches (*Zoom*)" 
+    - name: "17.00 - 18.00 Whole group updates on Week 2 research projects (*Zoom*)"
 
 - date: 2020-06-26
   name: "<b>Present Group Projects</b>"
+  events:
+    - name: "14.00 - 16.00 Group Projects Presentations (*Zoom*)"
+    - name: "16.00 - 16.30 Break"
+    - name: "16.30 - 18.30 Group Projects Presentations (*Zoom*)"
+    - name: "18.30 - 18.45 Closing remarks (*Zoom*)"
