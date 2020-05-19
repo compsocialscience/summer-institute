@@ -1,3 +1,7 @@
+- name: Taiwo Amoo 
+  image: /2020/montreal/images/Taiwo_Amoo.png
+  bio: "Taiwo Amoo is a PhD candidate in Computer Science at University of Lagos. His research interests include development and application of machine learning techniques to mine machine generated data and also leverages spatio-temporal models for solving social problems. He underwent his research internship at MainOne where he was involved in several data mining related tasks on system logs. Recently, he was selected as a winner of the MTN Academic Research Design and Innovation Challenge. He is currently the founder of LogTech which leverages machine learning to anticipate failures in intermediary devices in the network using logs and trouble tickets."
+
 - name: Boureima Adamou
   image: 
   bio: 
