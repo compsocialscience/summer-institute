@@ -33,7 +33,15 @@ experts:
 localspeakers:
   title: Local Speakers
   people:
-
+    - name: Merih Angın
+      image: /assets/images/MerihAngin.jpg
+      bio: "Merih Angın is an Assistant Professor at the International Relations Department of Koç University. Previously, she was a Postdoctoral Fellow at the Weatherhead Center for International Affairs of Harvard University, a postdoctoral research fellow at the Blavatnik School of Government of the University of Oxford, and a visiting scholar at the Mortara Center for International Studies of the Edmund A. Walsh School of Foreign Service at Georgetown University. Dr. Angın holds a PhD degree in International Relations/Political Science from the Graduate Institute of International and Development Studies (IHEID), an M.Sc. degree in International Relations from METU, and a Bachelor’s degree in Economics from Bilkent University. Her research interests lie in the areas of international political economy, international organizations, international development, international financial institutions, investment arbitration, political economy of privatization, migration, quantitative methods, agent-based modelling, machine learning, artificial intelligence and computational social sciences. Her research on IMF lending has recently been awarded the European Commission’s Marie Skłodowska-Curie Actions Individual Fellowship, as well as the Scientific and Technological Research Council of Turkey’s International Fellowship for Outstanding Researchers for 3 years."
+      website: 
+    - name: Albert Ali Salah
+      image: /assets/images/AlbertAliSalah.jpg
+      bio: "Albert Ali Salah received his PhD degree at Boğaziçi University in Turkey. Having worked as a researcher at Centrum Wiskunde & Informatica (CWI), University of Amsterdam, Boğaziçi University and Nagoya University, he is currently a professor and chair of the Social and Affective Computing group at Utrecht University, Dept. of Information and Computing Sciences. His research focuses on the development of computational systems that can interpret and model social and affective signals, and thus exhibit and understand human behaviour. He was the scientific coordinator of the Data for Refugees (D4R) Challenge, a mobile data challenge to improve the living conditions of Syrian refugees in Turkey. He has co-authored over 200 publications on multimodal interfaces, pattern recognition, computer vision, and computer analysis of human behavior. Albert has received the inaugural EBF European Biometrics Research Award (2006), BUVAK Award of Research Excellence (2014), and the BAGEP Award of the Science Academy (2016). He serves as an associate editor of several journals, including IEEE Trans. Affective Computing, JAISE, Int. Journal on Human-Computer Studies, and IEEE Trans. Cognitive and Developmental Systems. He is a Senior Member of IEEE, and a member of ACM."
+      website: 
+      
 participants:
   title: Participants
   people:
