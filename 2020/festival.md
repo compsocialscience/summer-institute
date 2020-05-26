@@ -8,7 +8,7 @@ The SICSS Festival 2020 will take place Monday, June 22 - Friday, June 26, 2020.
 
 ## Panel discussion on teaching computational social science
 
-__Speaker:__ [Matti Nelimarkka](https://matti.mante.li/) (SICSS-Princeton 17) and [Rochelle Terman](http://rochelleterman.com/) (SICSS-Princeton 17)
+__Speakers:__ [Matti Nelimarkka](https://matti.mante.li/) (SICSS-Princeton 17) and [Rochelle Terman](http://rochelleterman.com/) (SICSS-Princeton 17)
 
 __Moderator:__ Matthew Salganik
 
@@ -22,7 +22,7 @@ __Archiving:__ This talk will be recorded and archived.
 
 ## Using Empirica for high-throughput virtual lab experiments
 
-__Speaker:__ [Abdullah Almaatouq](http://www.amaatouq.com/) (SICSS-Princeton 17), [James Houghton](http://www.jamesphoughton.com/) (SICSS-Duke 20), and Nicolas Paton.
+__Speakers:__ [Abdullah Almaatouq](http://www.amaatouq.com/) (SICSS-Princeton 17), [James Houghton](http://www.jamesphoughton.com/) (SICSS-Duke 20), and Nicolas Paton.
 
 __Description:__ [Empirica](https://empirica.ly/) is a new open source software platform for developing and conducting synchronous and interactive human-subject experiments.  It has already been used by researchers around the world. This session will start with a live demonstration where participants will take part in a real-time experiment involving dozens of people.  Next, the data from that experiment will be downloaded and analyzed.  Thus, participants will have a behind-the-scenes, end-to-end experience with an experiment run with Emprica. Finally, there will be time for questions and discussion about Empirica and the future of experiments in the social sciences.
 
@@ -31,5 +31,19 @@ __Open to:__ Up to 30 registered participants: Registration form coming soon
 __Time:__ Wednesday, June 24, 2020. 1-2:30pm EDT
 
 __Preparatory materials:__ All registered participants are strongly encouraged to work through and watch Empirica videos A - E (link coming soon), which will require them to [install software](https://empirica.ly/docs/quick-start.html) on their computers.
+
+__Archiving:__ This talk will be recorded and archived.
+
+## Opportunities and challenges with industry collaborations
+
+__Invited Speakers:__ [Dave Holtz](https://www.daveholtz.net/) (SICSS-Duke 18) and [Sanaz Mobasseri](https://www.sanazmobasseri.com/) (SICSS-Duke 18)
+
+__Moderator:__ Matthew Salganik
+
+__Description:__ Most big data sources are controlled by companies, and many computational social scientists struggle to get access to these data. These panelists, who have experience collaborating with companies on research projects, will share insights about initiating, developing, and maintaining productive collaborations between researchers and companies. They will discuss practical issues, such as negotiating data usage agreements and navigating legal considerations for both parties, as well as describe potential risks and ethical issues created by these collaborations. There will be time for questions from the audience.
+
+__Open to:__ Unlimited registered participants: Link registration form coming soon
+
+__Time:__ Friday, June 26, 2020. 10-11am EDT
 
 __Archiving:__ This talk will be recorded and archived.
