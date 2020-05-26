@@ -1,12 +1,12 @@
 - date: 2020-06-15
   name: "<b>Introduction and Ethics</b>"
   events:
-    - name: "<b>Welcome Lunch and Research Speed Dating</b>"
-      time: "11:00 - 14:30"
+    - name: "<b>Welcome and Introductions</b>"
+      time: "10:30 - 12:30"
     - name: "<b>Break</b>"
-      time: "14:30 - 14:45"
+      time: "12:30 - 13:00"
     - name: "<b>Group exercises</b>"
-      time: "14:45 - 16:00"
+      time: "13:00 - 16:00"
 
 
 - date: 2020-06-16
@@ -16,7 +16,7 @@
     - name: "<b>Activities on Digital Trace Data</b>"
       time: "10:00 - 11:45"
     - name: "<b>Group Lunch</b>"
-      time: "12:00 - 1:00"
+      time: "12:00 - 13:00"
     - name: "<b>Applying Digital Trace Data</b> (Michael Kenwick)"
       time: "13:30 - 15:00"
 
@@ -35,7 +35,7 @@
   events:
     - name: "<b>Lessons on Surveys in the Digital Age</b>"
       time: "10:00 - 11:45"
-    - name: "<b>Lunch and Research Speed Dating</b>"
+    - name: "<b>Lunch and Research Speed Sharing </b>"
       time: "12:00 - 14:00"
     - name: "<b>Guest Speaker</b> (Daniel Hopkins)"
       time: "16:00 - 17:30"
@@ -43,12 +43,14 @@
 - date: 2020-06-19
   name: "<b>Network Analysis</b>"
   events:
+    - name: "<b>Logistics"
+      time: "10:00 - 10:30"
     - name: "<b>Lessons on Network Analysis</b> (with Katherine Ognyanova)"
-      time: "10:00 - 11:45"
-    - name: "<b>Lunch</b>"
-      time: "12:00 - 13:00"
-    - name: "<b>TBD</b>"
-      time: "13:00 - 17:30"
+      time: "10:30 - 12:30"
+    - name: "<b>Break</b>"
+      time: "12:30 - 13:00"
+    - name: "<b>Exercise using Network Analysis</b>"
+      time: "13:00 - 16:30"
 
 - date: 2020-06-22
   name: "<b>Experiments in the Digital Age</b>"
