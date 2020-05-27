@@ -4,7 +4,7 @@ version: 2.1
 jobs:
   build:
     docker:
-      - image: circleci/ruby:2.4.4-node
+      - image: circleci/ruby:2.5.1-node
         environment:
           BUNDLER_VERSION: 2.0.1
     steps:
