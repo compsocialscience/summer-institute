@@ -8,6 +8,8 @@ The SICSS Festival 2020 will take place Monday, June 22 - Friday, June 26, 2020.
 
 ## Panel discussion on teaching computational social science
 
+__Time:__ Monday, June 22. 10-11am EDT
+
 __Speakers:__ [Matti Nelimarkka](https://matti.mante.li/) (SICSS-Princeton 17) and [Rochelle Terman](http://rochelleterman.com/) (SICSS-Princeton 17)
 
 __Moderator:__ Matthew Salganik
@@ -16,11 +18,11 @@ __Description:__ Teaching computational social science at both the undergraduate
 
 __Open to:__ Unlimited registered participants: Link to registration form coming soon
 
-__Time:__ Monday, June 22. 10-11am EDT
-
 __Archiving:__ This talk will be recorded and archived.
 
 ## Using Empirica for high-throughput virtual lab experiments
+
+__Time:__ Wednesday, June 24, 2020. 1-2:30pm EDT
 
 __Speakers:__ [Abdullah Almaatouq](http://www.amaatouq.com/) (SICSS-Princeton 17), [James Houghton](http://www.jamesphoughton.com/) (SICSS-Duke 20), and Nicolas Paton.
 
@@ -28,36 +30,35 @@ __Description:__ [Empirica](https://empirica.ly/) is a new open source software 
 
 __Open to:__ Up to 30 registered participants: Registration form coming soon
 
-__Time:__ Wednesday, June 24, 2020. 1-2:30pm EDT
-
 __Preparatory materials:__ All registered participants are strongly encouraged to work through and watch Empirica videos A - E (link coming soon), which will require them to [install software](https://empirica.ly/docs/quick-start.html) on their computers.
 
 __Archiving:__ This talk will be recorded and archived.
 
 ## Creating open sources software as part of an academic career
 
+__Time:__ Thursday, June 25, 2020. 11am-12pm EDT
+
 __Speakers:__ [Ryan Gallagher](https://ryanjgallagher.github.io/) (SICSS-Duke 18), [Anne Helby Petersen](https://biostat.ku.dk/staff_/?pure=en/persons/395810) (SICSS-Duke 18), and [Carsten Schwemmer](https://www.carstenschwemmer.com/) (SICSS-Duke 18)
 
 __Moderator:__ Matthew Salganik
 
 __Description:__ Almost all computational social science depends on open source software, yet very few computational social scientists actually contribute to open source software.  These panelists will share their experiences developing open source software as part of an academic career, and they will offer advice for others who want to contribute to existing open source projects or start new ones.  There will be time for questions from the audience.
-Open to: Unlimited registered participants: Link registration form coming soon
 
-__Time:__ Thursday, June 25, 2020. 11am-12pm EDT
+__Open to:__ Unlimited registered participants: Link registration form coming soon
 
 __Archiving:__ This talk will be recorded and archived.
 
 
 ## Opportunities and challenges with industry collaborations
 
-__Invited Speakers:__ [Dave Holtz](https://www.daveholtz.net/) (SICSS-Duke 18) and [Sanaz Mobasseri](https://www.sanazmobasseri.com/) (SICSS-Duke 18)
+__Time:__ Friday, June 26, 2020. 10-11am EDT
+
+__Speakers:__ [Dave Holtz](https://www.daveholtz.net/) (SICSS-Duke 18) and [Sanaz Mobasseri](https://www.sanazmobasseri.com/) (SICSS-Duke 18)
 
 __Moderator:__ Matthew Salganik
 
 __Description:__ Most big data sources are controlled by companies, and many computational social scientists struggle to get access to these data. These panelists, who have experience collaborating with companies on research projects, will share insights about initiating, developing, and maintaining productive collaborations between researchers and companies. They will discuss practical issues, such as negotiating data usage agreements and navigating legal considerations for both parties, as well as describe potential risks and ethical issues created by these collaborations. There will be time for questions from the audience.
 
 __Open to:__ Unlimited registered participants: Link registration form coming soon
-
-__Time:__ Friday, June 26, 2020. 10-11am EDT
 
 __Archiving:__ This talk will be recorded and archived.
