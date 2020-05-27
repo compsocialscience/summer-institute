@@ -34,6 +34,20 @@ __Preparatory materials:__ All registered participants are strongly encouraged t
 
 __Archiving:__ This talk will be recorded and archived.
 
+## Creating open sources software as part of an academic career
+
+__Speakers:__ [Ryan Gallagher](https://ryanjgallagher.github.io/) (SICSS-Duke 18), [Anne Helby Petersen](https://biostat.ku.dk/staff_/?pure=en/persons/395810) (SICSS-Duke 18), and [Carsten Schwemmer](https://www.carstenschwemmer.com/) (SICSS-Duke 18)
+
+__Moderator:__ Matthew Salganik
+
+__Description:__ Almost all computational social science depends on open source software, yet very few computational social scientists actually contribute to open source software.  These panelists will share their experiences developing open source software as part of an academic career, and they will offer advice for others who want to contribute to existing open source projects or start new ones.  There will be time for questions from the audience.
+Open to: Unlimited registered participants: Link registration form coming soon
+
+__Time:__ Thursday, June 25, 2020. 11am-12pm EDT
+
+__Archiving:__ This talk will be recorded and archived.
+
+
 ## Opportunities and challenges with industry collaborations
 
 __Invited Speakers:__ [Dave Holtz](https://www.daveholtz.net/) (SICSS-Duke 18) and [Sanaz Mobasseri](https://www.sanazmobasseri.com/) (SICSS-Duke 18)
