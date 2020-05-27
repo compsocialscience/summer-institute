@@ -56,3 +56,10 @@ teachingassistants:
       image: /assets/images/tyler_mcdaniel.JPG
       bio: Tyler is a PhD student studying sociology at Stanford University. His current research focuses on school policies and individuals’ daily experiences with segregation. Using survey data, he compares racial and socioeconomic segregation experienced - in locations such as friends’ homes, places of worship, and shopping centers - by students who make different school choices. Broadly, he is interested in spatial inequalities, meritocracy, and predictive algorithms.
      
+#partners:
+ # title: Community Partners
+  #people: 
+   # - name: Code for America
+    #  image: /assets/images/cfa_logo.png
+     # bio: Code for America helps government work for those who need it most. Our current projects includes making safety net program applications quick and easy, connecting people who need help with getting their tax refunds to Volunteer Income Tax Assistance (VITA) volunteers, and automating the clearance of criminal records so that people have greater access to jobs and housing. Our goal for the Summer Institute is to contrast the post-COVID influx of [GetCalFresh](http://www.getcalfresh.org/) (food stamp) applications with earlier applications. In what ways are new applicants and their circumstances distinctive from those in the past? What new challenges may today’s applicants be facing that ought to be receiving greater attention from policymakers or the media? Specifically, we would like to 1) identify these compositional changes and surface new challenges individuals may be facing, 2) highlight these through interactive visualizations and other content for a major revision to the [Supplemental Nutrition Assistance Program (SNAP) stories microsite](https://snapstories.codeforamerica.org/), and 3) explore research collaborations academic participants may want to pursue with us. 
+      #website: https://www.codeforamerica.org/
