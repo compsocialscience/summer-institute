@@ -6,62 +6,58 @@
 - date: 2020-06-15
   name: "<b>Introduction and Ethics</b>"
   events:
-    - name: "<b>Group Formation and Discussion on Ethics</b>"
+    - name: "<b>Introductions and Group Formation</b>"
+      time: "10:30 - 11:00"
+    - name: "<b>Discussion on Ethics</b>"
       time: "11:00 - 12:00"
     - name: "<b>Lunch</b>"
       time: "12:00 - 13:00"
-    - name: "<b>Tutorial Session (Akin Unver)</b>"
-      time: "13:00 - 15:00"
+    - name: "<b>Research Presentation: Using Mobile Phones for Human Behaviour Understanding by Albert Ali Salah</b>"
+      time: "13:00 - 14:30"
       
 - date: 2020-06-16
-  name: "<b>Digital Trace Data</b>"
+  name: "<b>Digital Trace Data and Computational Journalism</b>"
   events:
     - name: "<b>Discussion on Digital Trace Data</b>"
       time: "11:00 - 12:00"
     - name: "<b>Lunch</b>"
       time: "12:00 - 13:00"
-    - name: "<b>Tutorial Session (Pinar Dag)</b>"
+    - name: "<b>Tutorial Session on Computational Journalism by Pinar Dag</b>"
       time: "13:00 - 15:00"
 
 - date: 2020-06-17
-  name: "<b>Text as Data</b>"
-  events:
-    - name: "<b>Discussion on Text as Data</b>"
-      time: "11:00 - 12:00"
-    - name: "<b>Lunch</b>"
-      time: "12:00 - 13:00"
-    - name: "<b>Tutorial Session (Ahmet Kurnaz)</b>"
-      time: "13:00 - 15:00"
-
-- date: 2020-06-18
-  name: "<b>Surveys in the Digital Age</b>"
+  name: "<b>Surveys and Text as Data</b>"
   events:
     - name: "<b>Discussion on Surveys in the Digital Age</b>"
       time: "11:00 - 12:00"
     - name: "<b>Lunch</b>"
       time: "12:00 - 13:00"
-    - name: "<b>Tutorial Session (Matti Nelimarkka)</b>"
+    - name: "<b>Tutorial Session on Computational Text Analysis by Ahmet Kurnaz</b>"
+      time: "13:00 - 15:00"
+
+- date: 2020-06-18
+  name: "<b>Geo-Spatial Data Analysis</b>"
+  events:
+    - name: "<b>Lunch</b>"
+      time: "12:00 - 13:00"
+    - name: "<b>Tutorial Session on Migration Route Spatial Forecasting  by Akin Unver</b>"
       time: "13:00 - 15:00"
 
 - date: 2020-06-19
-  name: "<b>Network Analysis</b>"
+  name: "<b>Social Network Analysis</b>"
   events:
-    - name: "<b>Lecture on Social Network Analysis</b>"
-      time: "11:00 - 12:00"
     - name: "<b>Lunch</b>"
       time: "12:00 - 13:00"
-    - name: "<b>Tutorial Session (Onur Varol)</b>"
+    - name: "<b>Tutorial Session on Identifying Networks of Social Bots on Twitter Conversations by Onur Varol</b>"
       time: "13:00 - 15:00"
 
 - date: 2020-06-20
-  name: "<b>Agent-Based Simulation Modeling</b>"
+  name: "<b>Agent-based Modelling and Simulation</b>"
   events:
-    - name: "<b>Guest Speaker (Albert Ali Salah)</b>"
-      time: "11:00 - 12:00"
     - name: "<b>Lunch</b>"
       time: "12:00 - 13:00"
-    - name: "<b>Tutorial Session (Merih Angin)</b>"
-      time: "14:30 - 16:00"
+    - name: "<b>Tutorial Session on An Agent-Based Model of IMF Program Design by Merih Angin</b>"
+      time: "13:00 - 15:00"
 
 - date: 2020-06-22
   name: "<b>Work on Group Projects</b>"
