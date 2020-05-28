@@ -12,8 +12,8 @@
       time: "11:00 - 12:00"
     - name: "<b>Lunch</b>"
       time: "12:00 - 13:00"
-    - name: "<b>Research Presentation: Using Mobile Phones for Human Behaviour Understanding by Albert Ali Salah</b>"
-      time: "13:00 - 14:30"
+    - name: "<b>Research Presentation:</b> Using Mobile Phones for Human Behaviour Understanding *by [Albert Ali Salah](http://www.staff.science.uu.nl/~salah006/)*"
+      time: "13:00 - 15:00"
       
 - date: 2020-06-16
   name: "<b>Digital Trace Data and Computational Journalism</b>"
@@ -22,7 +22,7 @@
       time: "11:00 - 12:00"
     - name: "<b>Lunch</b>"
       time: "12:00 - 13:00"
-    - name: "<b>Tutorial Session on Computational Journalism by Pinar Dag</b>"
+    - name: "<b>Tutorial Session:</b> Computational Journalism *by [Pinar Dag](https://twitter.com/pinardag)*"
       time: "13:00 - 15:00"
 
 - date: 2020-06-17
@@ -32,7 +32,7 @@
       time: "11:00 - 12:00"
     - name: "<b>Lunch</b>"
       time: "12:00 - 13:00"
-    - name: "<b>Tutorial Session on Computational Text Analysis by Ahmet Kurnaz</b>"
+    - name: "<b>Tutorial Session:</b> Computational Text Analysis *by [Matti Nelimarkka](https://matti.mante.li/)*"
       time: "13:00 - 15:00"
 
 - date: 2020-06-18
@@ -40,7 +40,7 @@
   events:
     - name: "<b>Lunch</b>"
       time: "12:00 - 13:00"
-    - name: "<b>Tutorial Session on Migration Route Spatial Forecasting  by Akin Unver</b>"
+    - name: "<b>Tutorial Session:</b> Migration Route Spatial Forecasting *by [Akin Unver](https://www.akinunver.org/)*"
       time: "13:00 - 15:00"
 
 - date: 2020-06-19
@@ -48,7 +48,7 @@
   events:
     - name: "<b>Lunch</b>"
       time: "12:00 - 13:00"
-    - name: "<b>Tutorial Session on Identifying Networks of Social Bots on Twitter Conversations by Onur Varol</b>"
+    - name: "<b>Tutorial Session:</b> Identifying Networks of Social Bots on Twitter Conversations *by [Onur Varol](http://www.onurvarol.com/)*"
       time: "13:00 - 15:00"
 
 - date: 2020-06-20
@@ -56,7 +56,7 @@
   events:
     - name: "<b>Lunch</b>"
       time: "12:00 - 13:00"
-    - name: "<b>Tutorial Session on An Agent-Based Model of IMF Program Design by Merih Angin</b>"
+    - name: "<b>Tutorial Session:</b> An Agent-Based Model of IMF Program Design *by [Merih Angin](https://womenalsoknowstuff.com/profile/merih-angin-1)*"
       time: "13:00 - 15:00"
 
 - date: 2020-06-22
@@ -95,6 +95,6 @@
   name: "<b>Present Group Projects</b>"
   events:
     - name: "<b>Presentations</b>"
-      time: "13:00 - 15:00"
+      time: "12:00 - 14:00"
     - name: "<b>Conclusion </b>"
-      time: "15:00 - 15:30"
+      time: "14:00 - 14:30"
