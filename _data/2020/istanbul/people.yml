@@ -45,6 +45,9 @@ localspeakers:
       image: /assets/images/OnurVarol.jpg
       bio: "Dr. Onur Varol is an Assistant Professor at the Sabanci University Faculty of Engineering and Natural Sciences and Principal Investigator at the VIRAL Lab. His research focuses on developing techniques to analyze online behaviors to improve individual well-being and address societal problems using online data. Prior to joining Sabanci University, he was a postdoctoral researcher at Northeastern University at the Center for Complex Network Research. He completed his PhD in Informatics at Indiana University, Bloomington (USA). His thesis focuses on the analysis of manipulation and threats on social media and he was awarded the 2018 University Distinguished Ph.D. Dissertation Award. He has developed a system called Botometer to detect social bots on Twitter and his team ranked top 3 worldwide at the 2015 DARPA Bot Detection Challenge. Efforts on studying social bots yield publications on prestigious venues such as International Conference of Web and Social Media (ICWSM), Nature Communications, World Wide Web (WWW) conference, and Communications of the ACM."
       website: 
+    - name: Pinar Dag
+      image: /assets/images/PinarDag.png
+      bio: "Pınar Dağ is a lecturer at New Media Department of Kadir Has University. Since 2017, she has been teaching at Galatasaray University Faculty of Communication as a visiting lecturer. Pınar Dağ took her bachelor's degree in economics and her master's degree in journalism at the London School of Journalism. She was elected a member of the 2019 Leadership Academy for Women in Digital Media by The Poynter Institute. She is one of the founding members of the Open Data and Data Journalism Association established in 2016. Her research interests are Data Literacy, Data Journalism, Open Data, Data Visualization, Big Data, Data Management, Data Analysis."
 
 participants:
   title: Participants
