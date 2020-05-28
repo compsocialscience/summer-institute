@@ -40,10 +40,6 @@ teachingassistants:
       image: /assets/images/emily_grabowski.jpeg
       bio: Emily Grabowski is a PhD student in linguistics at UC Berkeley. Her research combines computational and experimental approaches to investigate the relationship between speech perception and production. She also explores applications of machine learning to speech, including the use of supervised and unsupervised methods to discover structure and applications in speech.
   
-    - name: Irene Farah
-      image: /assets/images/Irene_farah.png
-      bio: Irene is a PhD student in City & Regional Planning at UC Berkeley. Irene’s interests lie at the intersection of sociology, public health, and urban analytics. Her current research examines how macro socioeconomic and political structures affect low-income individuals’ health outcomes in cities. In particular, the role that big corporations play in structuring the food environment and how it affects ultra-processed food exposure at different spatial scales.
-    
     - name: Mahnaz Roshanaei 
       image: /assets/images/mahnaz_roshanaei.jpg
       bio: Mahnaz is a Postdoc research fellow at Stanford University.  She is a computer scientist with data science skills who is interested to collaborate across disciplines and develop and apply statistical and machine learning methods on social science issues. Her current research focuses on applying computational methods to understand behavioral, network and smartphone data to explore how the individuals’ characteristics and behavior shape their position in, or effect on, social networks. Mahnaz is broadly interested in Machine learning and Causal inference to reason better with behavioral and network data to solve societal problems.
