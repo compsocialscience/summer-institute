@@ -4,36 +4,40 @@
 - day: Day 1
   id: day_2020_1
   topic: Introduction and Ethics
-  events:
-    - name: "Introduction to Computational Social Science"
+  event_title: "Introduction to Computational Social Science"
+  event:
       video: "https://www.youtube.com/embed/zGG9wPl1C5E"
       sublinks:
         - link: "https://youtu.be/zGG9wPl1C5E"
           text: "Video"
         - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/02-intro-computational-social-science.pdf"
           text: "Slides"
-    - name: "Why SICSS?"
+  event_title: "Why SICSS?"
+  event:
       video: "https://www.youtube.com/embed/K6HzpZMcaQw"
       sublinks:
         - link: "https://youtu.be/K6HzpZMcaQw"
           text: "Video"
         - link: "https://compsocialscience.github.io/summer-institute/2020/materials/day1-intro-ethics/bail_why_sicss/Why_SICSS.html#/"
           text: "Slides"
-    - name: "Ethics: Part 1"
+  event_title: "Ethics: Part 1"
+  event:
       video: "https://www.youtube.com/embed/A-5QaX5ZiK8"
       sublinks:
         - link: "https://youtu.be/A-5QaX5ZiK8"
           text: "Video"
         - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/ethics_part1.pdf"
           text: "Slides"
-    - name: "Ethics: Part 2"
+  event_title: "Ethics: Part 2"
+  event:
       video: "https://www.youtube.com/embed/TT6dOQMKHhA"
       sublinks:
         - link: "https://youtu.be/TT6dOQMKHhA"
           text: "Video"
         - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/ethics_part2.pdf"
           text: "Slides"
-    - name: "Ethics Additions and Extensions"
+  event_title: "Ethics Additions and Extensions"
+  event:
       video: "https://www.youtube.com/embed/lJyK6kXeDbc"
       sublinks:
         - link: "https://youtu.be/lJyK6kXeDbc"
