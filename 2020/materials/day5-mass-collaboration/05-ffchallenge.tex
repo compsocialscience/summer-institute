@@ -1,56 +1,113 @@
-\documentclass{beamer}
-\usetheme{default}
-\usepackage{tikz}
-\usetikzlibrary{arrows,shapes.arrows,positioning,shapes}
-\usepackage{graphicx}
-\usepackage{hyperref}
+\documentclass[aspectratio=169]{beamer}
+\usepackage{color,amsmath}
+\usepackage{subfigure}
+\usepackage{booktabs}
+\usepackage{framed}
 \usepackage{comment}
+\usepackage{hyperref}
+\usepackage{ulem}
+
 \usepackage{tikz}
-\beamertemplatenavigationsymbolsempty
 \usetikzlibrary{arrows,shapes.arrows,positioning,shapes}
-\newcommand\red[1]{{\color{red}#1}}
-\newcommand\bred[1]{{\color{red}\textbf{#1}}}
+\newcommand\E{\text{E}}
 \newcommand\blue[1]{{\color{blue}#1}}
 \newcommand\bblue[1]{{\color{blue}\textbf{#1}}}
-\newcommand\green[1]{{\color{olive}#1}}
-\newcommand\bgreen[1]{{\color{olive}\textbf{#1}}}
 \newcommand\black[1]{{\color{black}#1}}
 \newcommand\white[1]{{\color{white}#1}}
-\newcommand\E{\text{E}}
-\newcommand\V{\text{V}}
-\renewcommand\P{\text{P}}
+\usepackage{amsmath}
 
-\title{The Fragile Families Challenge}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
 
-\author{{\small Matthew Salganik, Ian Lundberg, Alex Kindel, Sara McLanahan,\\and people from around the world}}
+%\usetheme{default}
+%\beamertemplatenavigationsymbolsempty
+%\usetikzlibrary{arrows,shapes.arrows,positioning,shapes}
+%\usepackage{graphicx}
+%\usepackage{hyperref}
+%\usepackage{comment}
+%\usepackage{ulem}
+%
+%\newcommand\red[1]{{\color{red}#1}}
+%\newcommand\bred[1]{{\color{red}\textbf{#1}}}
+%\newcommand\V{\text{V}}
+%\renewcommand\P{\text{P}}
+%
 
-%\institute[]
-%{
-%  Department of Sociology, Office of Population Research, \& \\Center for Research on Child Wellbeing, Princeton University}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\title[]{\textcolor{gray}{[Introduction to mass collaboration], [Human computation], [Open call], [Distributed data collection],} \newline [Fragile Families Challenge]}
+\author[]{Matthew J. Salganik\\Department of Sociology\\Princeton University}
+\date[]{%Summer Institutes in Computational Social Science\\2020
+%\vfill
+%\begin{flushleft}
+%{\scriptsize
+%The Summer Institutes in Computational Social Science is supported by grants from the Russell Sage Foundation and the Alfred P. Sloan Foundation.}
+%\end{flushleft}
+\begin{flushright}
+\includegraphics[width=0.1\textwidth]{figures/cc-by.png}
+\end{flushright}
+}
+\begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame{\titlepage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
 
-\date{Summer Institutes in Computational Social Science\\June 21, 2019 \\ \vfill
-\begin{flushleft}{\scriptsize
-Fragile Families Challenge is supported by the Russell Sage Foundation. Board of Advisors: Jeanne Brooks-Gunn, Kathryn Edin, Barbara Engelhardt, Irwin Garfinkel, Moritz Hardt, Dean Knox, Nicholas Lemann, Karen Levy, Sara McLanahan, Arvind Narayanan, Timothy Nelson, Matthew Salganik, Brandon Stewart \& Duncan Watts.} \includegraphics[width=0.05\textwidth]{figures/cc-by.png}
+\begin{columns}
+\begin{column}{.40\textwidth}
+\includegraphics[width=\textwidth]{figures/salganik_bit_2018_cover}
+\end{column}%
+
+\hfill%
+
+\begin{column}{.60\textwidth}
+1) Introduction \\
+2) Observing behavior \\
+3) Asking questions \\
+4) Running experiments \\
+\textcolor{blue}{5) Mass collaboration} \\
+6) Ethics \\
+7) The future \\
+\end{column}%
+\end{columns}
+
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+
+\begin{center}
+\only<1>{\includegraphics[width=0.9\textwidth]{figures/mass_collaboration_schematic}}
+\only<2>{\includegraphics[width=0.9\textwidth]{figures/mass_collaboration_schematic_open_call}}
+\end{center}
+
+\vfill
+Fig 5.4 (\href{https://www.bitbybitbook.com/}{Salganik 2018})
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\title{Measuring the Predictability of Life Outcomes with a Scientific Mass Collaboration}
+
+\author{{\small Matthew Salganik, Ian Lundberg, Alex Kindel, Sara McLanahan,\\and the participants in the Fragile Families Challenge}}
+
+\institute[]{}
+\date{\vfill
+\begin{flushleft}{\tiny Funding for FFCWS provided by NICHD (R01HD36916, R01HD39135, R01HD40421) and a consortium of private foundations, including the Robert Wood Johnson Foundation. Funding for FFC provided by the Russell Sage Foundation, NSF, \& the Overdeck Fund. FFC Board of Advisors: Jeanne Brooks-Gunn, Kathryn Edin, Barbara Engelhardt, Irwin Garfinkel, Moritz Hardt, Dean Knox, Nicholas Lemann, Karen Levy, Sara McLanahan, Arvind Narayanan, Timothy Nelson, Matthew Salganik, Brandon Stewart \& Duncan Watts.}
 \end{flushleft}
 }
 
-%\pgfdeclareimage[height=1cm]{university-logo}{ff_logo.jpg}
-%\logo{\pgfuseimage{university-logo}}
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{document}
-
 \begin{frame}
   \titlepage
 \end{frame}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Introduction}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
 \begin{center}
-\includegraphics[width=0.7\textwidth]{figures/wikipedia_logo}
+\includegraphics[width=0.6\textwidth]{figures/wikipedia_logo}
 \end{center}
 
 \end{frame}
@@ -58,7 +115,7 @@ Fragile Families Challenge is supported by the Russell Sage Foundation. Board of
 \begin{frame}
 
 \begin{center}
-\includegraphics[width=\textwidth]{figures/lander_initial_2001_title}
+\includegraphics[width=0.9\textwidth]{figures/lander_initial_2001_title}
 \end{center}
 
 \vfill
@@ -69,7 +126,7 @@ Fragile Families Challenge is supported by the Russell Sage Foundation. Board of
 \begin{frame}
 
 \begin{center}
-\includegraphics[height=\textheight]{figures/lander_initial_2001_authors}
+\includegraphics[height=0.9\textheight]{figures/lander_initial_2001_authors}
 \end{center}
 
 \end{frame}
@@ -100,29 +157,32 @@ Fragile Families Challenge is supported by the Russell Sage Foundation. Board of
 \only<10>{\includegraphics[height=\textheight]{figures/aad_combined_2015_authors_10}}%
 \only<11>{\includegraphics[height=\textheight]{figures/aad_combined_2015_authors_11}}%
 \only<12>{\includegraphics[height=\textheight]{figures/aad_combined_2015_authors_12}}%
-\only<13>{\includegraphics[height=\textheight]{figures/aad_combined_2015_authors_13}}%
-\only<14>{\includegraphics[height=\textheight]{figures/aad_combined_2015_authors_14}}%
-\only<15>{\includegraphics[height=\textheight]{figures/aad_combined_2015_authors_15}}%
-\only<16>{\includegraphics[height=\textheight]{figures/aad_combined_2015_authors_16}}%
-\only<17>{\includegraphics[height=\textheight]{figures/aad_combined_2015_authors_17}}%
-\only<18>{\includegraphics[height=\textheight]{figures/aad_combined_2015_authors_18}}%
-\only<19>{\includegraphics[height=\textheight]{figures/aad_combined_2015_authors_19}}%
-\only<20>{\includegraphics[height=\textheight]{figures/aad_combined_2015_authors_20}}%
-\only<21>{\includegraphics[height=\textheight]{figures/aad_combined_2015_authors_21}}%
-\only<22>{\includegraphics[height=\textheight]{figures/aad_combined_2015_authors_22}}%
-\only<23>{\includegraphics[height=\textheight]{figures/aad_combined_2015_authors_23}}%
-\only<24>{\includegraphics[height=\textheight]{figures/aad_combined_2015_authors_24}}%
-\only<25>{\includegraphics[height=\textheight]{figures/aad_combined_2015_authors_25}}%
+\only<13>{\includegraphics<13>[height=\textheight]{figures/aad_combined_2015_authors_13}}%
+\only<14>{\includegraphics<14>[height=\textheight]{figures/aad_combined_2015_authors_14}}%
+\only<15>{\includegraphics<15>[height=\textheight]{figures/aad_combined_2015_authors_15}}%
+\only<16>{\includegraphics<16>[height=\textheight]{figures/aad_combined_2015_authors_16}}%
+\only<17>{\includegraphics<17>[height=\textheight]{figures/aad_combined_2015_authors_17}}%
+\only<18>{\includegraphics<18>[height=\textheight]{figures/aad_combined_2015_authors_18}}%
+\only<19>{\includegraphics<19>[height=\textheight]{figures/aad_combined_2015_authors_19}}%
+\only<20>{\includegraphics<20>[height=\textheight]{figures/aad_combined_2015_authors_20}}%
+\only<21>{\includegraphics<21>[height=\textheight]{figures/aad_combined_2015_authors_21}}%
+\only<22>{\includegraphics<22>[height=\textheight]{figures/aad_combined_2015_authors_22}}%
+\only<23>{\includegraphics<23>[height=\textheight]{figures/aad_combined_2015_authors_23}}%
+\only<24>{\includegraphics<24>[height=\textheight]{figures/aad_combined_2015_authors_24}}%
+\only<25>{\includegraphics<25>[height=\textheight]{figures/aad_combined_2015_authors_25}}
 \end{center}
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
-Fragile Families Challenge
+\begin{center}
+\includegraphics[width=\textwidth]{figures/ffc_masthead}
+\Large{Fragile Families Challenge}
+\end{center}
 
 \end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 \centering
 \begin{tikzpicture}[x = .5\textwidth, y = .5\textheight]
@@ -192,20 +252,30 @@ Fragile Families Challenge
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
-Why should we care about the predictability of social outcomes?\pause
+\begin{center}
+\LARGE{
+$ \hat{y} \quad \& \quad \hat{\beta}$
+}
+\end{center}
+
+\vfill
+\small{Mullainathan and Spiess (2017): \url{http://dx.doi.org/10.1257/jep.31.2.87}}
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+
+We should care about the predictability of social outcomes\pause
 \begin{itemize}
 \item Scientific reasons \pause
 \begin{itemize}
-\item Basic social fact \pause
-\item Leads to discovery
+\item Basic social fact
+\item Discovery \pause
 \end{itemize}
-\pause
 \item Policy reasons
-\end{itemize}
-
 \begin{center}
-\includegraphics[width=0.8\textwidth]{figures/hurley_can_2018_title}
+\includegraphics[width=0.8\textwidth]{figures/hurley_can_2018_title} 
 \end{center}
+\end{itemize}
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%
@@ -227,8 +297,8 @@ Why should we care about the predictability of social outcomes?\pause
 \begin{frame}
 
 \begin{center}
-\only<1>{\includegraphics[width=\textwidth]{figures/ff_design_public_b9}}
-\only<2>{\includegraphics[width=\textwidth]{figures/ff_design_public2}}
+\only<1>{\includegraphics[width=0.8\textwidth]{figures/ff_design_public_b9}}
+\only<2>{\includegraphics[width=0.8\textwidth]{figures/ff_design_public2}}
 \end{center}
 
 \end{frame}
@@ -262,13 +332,13 @@ Outcomes
 %%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
-459 researchers applied to participate. Many worked in interdisciplinary teams. Goal: Make a prediction that minimizes mean square error on the hold-out set
+457 researchers applied to participate. Many worked in interdisciplinary teams. Goal: Make a prediction that minimizes mean square error on the hold-out set
 \begin{equation*}
 MSE_{\text{holdout}} = \frac{\sum_{i \in \text{holdout}} (\hat{y}_i - y_i)^2}{n_{holdout}}
 \end{equation*}
 
 \vfill
-More on privacy and ethics audit: \url{https://arxiv.org/abs/1809.00103}
+More on privacy and ethics audit: \href{https://doi.org/10.1177/2378023118813023}{Lundberg et al.\ (2019)}
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
@@ -319,8 +389,8 @@ Before I show the results, let's vote . . . .
 \begin{frame}
 
 \begin{center}
-\only<1>{\includegraphics[width=0.95\textwidth]{figures/materialhardship_scatter_best_benchmark}}%
-\only<2>{\includegraphics[width=0.95\textwidth]{figures/allcontinuous_scatter_best_benchmark}}%
+\only<1>{\includegraphics[width=0.7\textwidth]{figures/materialhardship_scatter_best_benchmark}} %
+\only<2>{\includegraphics[width=0.9\textwidth]{figures/allcontinuous_scatter_best_benchmark}} %
 \end{center}
 
 \end{frame}
@@ -328,8 +398,8 @@ Before I show the results, let's vote . . . .
 \begin{frame}
 
 \begin{center}
-\only<1>{\includegraphics[width=0.95\textwidth]{figures/eviction_density_best_benchmark}}%
-\only<2>{\includegraphics[width=0.95\textwidth]{figures/allbinary_density_best_benchmark}}%
+\only<1>{\includegraphics[width=0.7\textwidth]{figures/eviction_density_best_benchmark}} %
+\only<2>{\includegraphics[width=0.9\textwidth]{figures/allbinary_density_best_benchmark}} %
 \end{center}
 
 \end{frame}
@@ -337,7 +407,7 @@ Before I show the results, let's vote . . . .
 \begin{frame}
 
 \begin{center}
-\Large{What can we learn looking at the all the predictions?}
+\Large{What can we learn looking at all the predictions?}
 \end{center}
 
 \end{frame}
@@ -353,12 +423,12 @@ Before I show the results, let's vote . . . .
 \begin{frame}
 
 \begin{center}
-\includegraphics[width=0.30\textheight]{figures/materialHardship_ysort_mse_unit_outcome_xsort_mse_account_outcome.pdf}
-\includegraphics[width=0.30\textheight]{figures/gpa_ysort_mse_unit_outcome_xsort_mse_account_outcome.pdf}
-\includegraphics[width=0.30\textheight]{figures/grit_ysort_mse_unit_outcome_xsort_mse_account_outcome.pdf}
-\includegraphics[width=0.30\textheight]{figures/eviction_ysort_mse_unit_outcome_xsort_mse_account_outcome.pdf}
-\includegraphics[width=0.30\textheight]{figures/jobtraining_ysort_mse_unit_outcome_xsort_mse_account_outcome.pdf}
-\includegraphics[width=0.30\textheight]{figures/layoff_ysort_mse_unit_outcome_xsort_mse_account_outcome.pdf}
+\includegraphics[width=0.20\textwidth]{figures/materialHardship_ysort_mse_unit_outcome_xsort_mse_account_outcome.pdf}
+\includegraphics[width=0.20\textwidth]{figures/gpa_ysort_mse_unit_outcome_xsort_mse_account_outcome.pdf}
+\includegraphics[width=0.20\textwidth]{figures/grit_ysort_mse_unit_outcome_xsort_mse_account_outcome.pdf} \\
+\includegraphics[width=0.20\textwidth]{figures/eviction_ysort_mse_unit_outcome_xsort_mse_account_outcome.pdf}
+\includegraphics[width=0.20\textwidth]{figures/jobtraining_ysort_mse_unit_outcome_xsort_mse_account_outcome.pdf}
+\includegraphics[width=0.20\textwidth]{figures/layoff_ysort_mse_unit_outcome_xsort_mse_account_outcome.pdf}
 \end{center}
 
 \end{frame}
@@ -366,7 +436,7 @@ Before I show the results, let's vote . . . .
 \begin{frame}
 
 \begin{center}
-\Large{What do these results mean?}
+\Large{What do these results mean for policy makers?}
 \end{center}
 
 \end{frame}
@@ -374,46 +444,45 @@ Before I show the results, let's vote . . . .
 \begin{frame}
 
 \begin{itemize}
-\item Is it possible to get better predictive performance for this data and prediction task?
-\pause
-\item Why is the unpredictability so high even using modern machine learning methods and what many social scientists would consider to be large and high-quality data?
+\item Machine learning is not magic\pause
+\item Transparent evaluation of any algorithm is needed \pause
+\item Complex models may not outperform simple models
 \end{itemize}
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-Why is the unpredictability so high even using modern machine learning methods and what many social scientists would consider to be large and high-quality data?
-\begin{itemize}
-\item Not enough cases \pause
-\item Measurement error in existing variables (particularly outcomes) \pause
-\item Important unmeasured variables 
-\end{itemize}
-
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
 \begin{center}
-\Large{How can we learn about important measurement error and unmeasured variables?}
+\Large{What do these results mean for researchers?}
 \end{center}
 
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+
+Researchers must reconcile an ``understanding/prediction'' paradox \pause
+\begin{itemize}
+\item We don't understand much \pause
+\item Prediction is not a good measure of understanding \pause
+\item Our current understanding is correct but incomplete
+\end{itemize}
+
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+
+\begin{center}
+{\Large How can we expand our understanding?}\\ 
+\vspace{0.5in}
+\pause
+{\Large In-depth, semi-structured interviews}
+\end{center}
+
+\vfill
+Dark matter interview team: Rachel M. Brown-Weinstock, Bobbi Brashear, Kristin Catena, Susan Clampet-Lundquist, Sophie Damas, Katie Donnalley, Kaitlin Edin-Nelson, Kathryn Edin, Alexus Fraser, Sarah Gold, Ashley Hyman, Daniel Kim, Ian Lundberg, Abigail MacLean, Collin ``Ren'' MacLean, Stefanie Mavronis, Timothy Nelson, Matthew Salganik, Naomi Shifrin, and Vicki Yang.
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-\begin{center}
-\only<1>{\includegraphics[width=\textwidth]{figures/darkmatter_interview_sampling_talk_1}}%
-\only<2>{\includegraphics[width=\textwidth]{figures/darkmatter_interview_sampling_talk_2}}%
-\only<3>{\includegraphics[width=\textwidth]{figures/darkmatter_interview_sampling_talk_3}}%
-\only<4>{\includegraphics[width=\textwidth]{figures/darkmatter_interview_sampling_talk_4}}%
-\only<5>{\includegraphics[width=\textwidth]{figures/darkmatter_interview_sampling_talk_5}}%
-\only<6>{\includegraphics[width=\textwidth]{figures/darkmatter_interview_sampling_talk_6}}%
-\only<7>{\includegraphics[width=\textwidth]{figures/darkmatter_interview_sampling_talk_7}}%
-\end{center}
-
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
 \begin{center}
@@ -425,40 +494,66 @@ Why is the unpredictability so high even using modern machine learning methods a
 \begin{frame}
 
 \begin{center}
-\Large{What's next?}
+\includegraphics[width=0.9\textwidth]{figures/salganik_measuring_2020_title_authors}
 \end{center}
+
+\vfill
+\url{https://doi.org/10.1073/pnas.1915006117}\\
+See also Garip (2020) ``What failure to predict life outcomes can teach us'' \url{https://doi.org/10.1073/pnas.2003390117}
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
-Next steps:
-\begin{itemize}
-\item One community paper (including all code and predictions) \pause
-\item Special issue of \textit{Socius}
+\href{https://journals.sagepub.com/topic/collections-srd/srd-1-fragile_families/srd}{Special Collection of \textit{Socius} about the Fragile Families Challenge}
 \begin{itemize}
 \item 12 submitted manuscripts from Challenge participants (all with accompanying code and computing environment) \pause
 \item 3 papers from our group \pause
 \begin{itemize}
-\item ``Privacy, ethics, and data access: A case study of the Fragile Families Challenge'' by Lundberg, Narayanan, Levy, \& Salganik, \url{https://arxiv.org/abs/1809.00103} \pause
-\item ``Improving metadata infrastructure for complex surveys: Insights from the Fragile Families Challenge'' by Kindel, Catena, Hartshorne, Jaeger, Koffman, McLanahan, Phillips, Rouhani, Vinh, \& Salganik, \url{https://osf.io/93ywg/} \pause
-\item ``Successes and struggles with computational reproducibility in the Fragile Families Challenge'' by Liu \& Salganik
+\item ``\href{https://doi.org/10.1177/2378023118813023}{Privacy, ethics, and data access: A case study of the Fragile Families Challenge}'' by Lundberg, Narayanan, Levy, \& Salganik \pause
+\item ``\href{https://doi.org/10.1177/2378023118817378}{Improving metadata infrastructure for complex surveys: Insights from the Fragile Families Challenge}'' by Kindel, Catena, Hartshorne, Jaeger, Koffman, McLanahan, Phillips, Rouhani, Vinh, \& Salganik \pause
+\item ``\href{https://doi.org/10.1177/2378023119849803}{Successes and struggles with computational reproducibility in the Fragile Families Challenge}'' by Liu \& Salganik
 \end{itemize}
 \end{itemize}
-\end{itemize}
-
-\end{frame}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-{\Large
-\begin{center}
-Questions
-\end{center}
-}
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
 
+This project creates more questions than it answers. A few next questions: \pause
+\begin{itemize}
+\item What is the dark matter? (Dark matter team) \pause
+\item What are the implications of these findings for causal inference? (Ian Lundberg et al.) \pause
+\item How predictable are the other 1,500 outcomes in the year 15 data? (Emily Cantrell, Pranay Anchuri) \pause
+\item What are the implications of these findings for policy makers considering using algorithmic predictions in high-stakes decisions? (Mihir Kshirsagar et al.) \pause
+\end{itemize}
+\pause
+A new class:
+\begin{itemize}
+\item COS 597E/SOC 555 Limits to Prediction (Fall 2020), Taught by Arvind Narayanan and Matthew Salganik
+\end{itemize}
+
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+
+\begin{center}
+\LARGE{
+$ \hat{y} \quad \& \quad \hat{\beta}$
+}
+\end{center}
+
+\vfill
+\small{Mullainathan and Spiess (2017): \url{http://dx.doi.org/10.1257/jep.31.2.87}}
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+
+\begin{center}
+\includegraphics[width=0.6\textwidth]{figures/wikipedia_logo}
+\end{center}
+
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
 \end{document}
+
