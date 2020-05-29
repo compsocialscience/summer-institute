@@ -1,1 +1,19 @@
-- name:
+- name: "Alessandro Ferrara"
+  image: /assets/images/maas-AlessandroFerrara.jpg
+  bio: "Alessandro is a PhD student in Political and Social Sciences at the European University Institute. He earned an MSc in Economics and Social sciences from Bocconi University and has worked in the Education directorate of the OECD for two years. His main research interests are in social stratification, non-cognitive skills and migration. His dissertation focuses on the causes and consequences of migrant optimism in educational transitions. His work draws on a combination of quantitative methods, including network analysis and causal inference."
+
+- name: "Haroun Rahimi"
+  image: /assets/images/maas-HarounRahimi.jpg
+  bio: "Haroun Rahimi has obtained his Ph.D. in Law from the University of Washington. Rahimi is an Assistant Professor at the American University of Afghanistan. Rahimi's research focuses on economic laws, institutional development, and institutional reform in the context of less developed countries. Rahimi's dissertation, titled Formalizing Informal Credit and Trade Institutions: How to Create Effective Economic Institutions in Afghanistan and Beyond has been awarded the 2018 Outstanding Dissertation Award by the University of Washington School of Law. Rahimi's research has appeared in reputable local and international journals. Rahimi has also collaborated as an independent consultant with several research firms and policy think tanks conducting research and delivering seminars on institutional development and good governance in the Afghan context. Currently, Rahimi is working on the legal history of Afghanistan and the ways that legal transplantation is legitimized in Muslim countries."
+
+- name: "Rok Hrzic"
+  image: /assets/images/maas-RokHrzic.jpg
+  bio: "Rok Hrzic is a physician by training and holds MSc degrees in Epidemiology and in Governance and Leadership in European Public Health from Maastricht University. He has experience with novel data sources and analysis methods in public health, in particular utilizing hospital information systems and insurance claims datasets in the area of rare diseases, and indicators of population health and health system performance. He is an affiliated doctoral student with the International Max Planck Research School on Population, Health and Data Science, pursuing a thesis on determinants of mortality convergence in the European Union."
+
+- name: "Rossana Ducato"
+  image: /assets/images/maas-RossanaDucato.png
+  bio: "Rossana Ducato is lecturer in European IT Law by Design at UCLouvain. On the 1st of July she will join the School of Law of the University of Aberdeen as a lecturer in IT Law & Regulation. Rossana has a Ph.D. in European and Comparative Legal Studies from the University of Trento. Her research interests include privacy and data protection, intellectual property, empirical legal studies, and legal design."
+
+- name: "Valentina Golunova"
+  image: /assets/images/maas-ValentinaGolunova.png
+  bio: "Valentina Golunova is a PhD candidate at the Faculty of Law of Maastricht University. Her research interests lie at the intersection of fundamental rights and digital innovations. In the course of her PhD project, Valentina examines recent transformations of the EU intermediary liability framework in light of the need to afford effective protection of freedom of expression. She seeks to employ computational methods to study the impact of algorithmic content moderation on online content diversity. Furthermore, her goal is to test technical feasibility of safeguards that can be implemented to ensure free expression on the Internet."

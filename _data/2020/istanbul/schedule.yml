@@ -1,3 +1,100 @@
-- date: 2020-07-28
+- date: 2020-05-31
   events:
-    - name: "Schedule coming soon..."
+    - name: "<b>Meet and Greet<b>"
+      time: "15:00-16:00"
+    
+- date: 2020-06-15
+  name: "<b>Introduction and Ethics</b>"
+  events:
+    - name: "<b>Introductions and Group Formation</b>"
+      time: "10:30 - 11:00"
+    - name: "<b>Discussion on Ethics</b>"
+      time: "11:00 - 12:00"
+    - name: "<b>Lunch</b>"
+      time: "12:00 - 13:00"
+    - name: "<b>Research Presentation:</b> Using Mobile Phones for Human Behaviour Understanding *by [Albert Ali Salah](http://www.staff.science.uu.nl/~salah006/)*"
+      time: "13:00 - 15:00"
+      
+- date: 2020-06-16
+  name: "<b>Digital Trace Data</b>"
+  events:
+    - name: "<b>Discussion on Digital Trace Data</b>"
+      time: "11:00 - 12:00"
+    - name: "<b>Lunch</b>"
+      time: "12:00 - 13:00"
+    - name: "<b>Tutorial Session:</b> Computational Journalism *by [Pinar Dag](https://twitter.com/pinardag)*"
+      time: "13:00 - 15:00"
+
+- date: 2020-06-17
+  name: "<b>Digital Surveys and Text as Data</b>"
+  events:
+    - name: "<b>Discussion on Surveys in the Digital Age</b>"
+      time: "11:00 - 12:00"
+    - name: "<b>Lunch</b>"
+      time: "12:00 - 13:00"
+    - name: "<b>Tutorial Session:</b> Computational Text Analysis *by [Matti Nelimarkka](https://matti.mante.li/)*"
+      time: "13:00 - 15:00"
+
+- date: 2020-06-18
+  name: "<b>Geo-Spatial Data Analysis</b>"
+  events:
+    - name: "<b>Lunch</b>"
+      time: "12:00 - 13:00"
+    - name: "<b>Tutorial Session:</b> Migration Route Spatial Forecasting *by [Akin Unver](https://www.akinunver.org/)*"
+      time: "13:00 - 15:00"
+
+- date: 2020-06-19
+  name: "<b>Social Network Analysis</b>"
+  events:
+    - name: "<b>Lunch</b>"
+      time: "12:00 - 13:00"
+    - name: "<b>Tutorial Session:</b> Identifying Networks of Social Bots on Twitter Conversations *by [Onur Varol](http://www.onurvarol.com/)*"
+      time: "13:00 - 15:00"
+
+- date: 2020-06-20
+  name: "<b>Agent-based Modelling and Simulation</b>"
+  events:
+    - name: "<b>Lunch</b>"
+      time: "12:00 - 13:00"
+    - name: "<b>Tutorial Session:</b> An Agent-Based Model of IMF Program Design *by [Merih Angin](https://womenalsoknowstuff.com/profile/merih-angin-1)*"
+      time: "13:00 - 15:00"
+
+- date: 2020-06-22
+  name: "<b>Work on Group Projects</b>"
+  events:
+    - name: "<b>Lunch and Guest Speaker</b>"
+      time: "12:00 - 13:30"
+    - name: "<b>Office Hour</b>"
+      time: "13:30 - 14:30"
+
+- date: 2020-06-23
+  name: "<b>Work on Group Projects</b>"
+  events:
+    - name: "<b>Lunch and Guest Speaker</b>"
+      time: "12:00 - 13:30"
+    - name: "<b>Office Hour</b>"
+      time: "13:30 - 14:30"
+
+- date: 2020-06-24
+  name: "<b>Work on Group Projects</b>"
+  events:
+    - name: "<b>Lunch and Guest Speaker</b>"
+      time: "12:00 - 13:30"
+    - name: "<b>Office Hour</b>"
+      time: "13:30 - 14:30"
+
+- date: 2020-06-25
+  name: "<b>Work on Group Projects</b>"
+  events:
+    - name: "<b>Lunch and Guest Speaker</b>"
+      time: "12:00 - 13:30"
+    - name: "<b>Office Hour</b>"
+      time: "13:30 - 14:30"
+      
+- date: 2020-06-26
+  name: "<b>Present Group Projects</b>"
+  events:
+    - name: "<b>Presentations</b>"
+      time: "12:00 - 14:00"
+    - name: "<b>Conclusion </b>"
+      time: "14:00 - 14:30"

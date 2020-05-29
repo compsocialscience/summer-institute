@@ -1,3 +1,7 @@
+- name: Taiwo Amoo 
+  image: /2020/montreal/images/Taiwo_Amoo.png
+  bio: "Taiwo Amoo is a PhD candidate in Computer Science at University of Lagos. His research interests include development and application of machine learning techniques to mine machine generated data and also leverages spatio-temporal models for solving social problems. He underwent his research internship at MainOne where he was involved in several data mining related tasks on system logs. Recently, he was selected as a winner of the MTN Academic Research Design and Innovation Challenge. He is currently the founder of LogTech which leverages machine learning to anticipate failures in intermediary devices in the network using logs and trouble tickets."
+
 - name: Boureima Adamou
   image: 
   bio: 
@@ -5,6 +9,10 @@
 - name: Giorgio Barnabò
   image: 
   bio: 
+  
+- name: Fatim Diabagaté 
+  image: /2020/montreal/images/Fatim_diabate.jpg
+  bio: "Fatim Diabagaté is a PhD candidate in economics at Université de Montréal. She holds a Master's in Statistics and Economics. Her research focuses on labour mobility, immigration and housing. More specifically, her current orientation addresses information issues about workers actual skills, how immigration affects public debt and the impact of parents' homeownership on kids' long-term outcomes. She is interested in deepening her skills in computational science for ongoing projects on gender wage gap using machine learning algorithms."
   
 - name: Chaimae Drioui
   image: /2020/montreal/images/DRIOUI.Photo.jpg    
@@ -15,12 +23,12 @@
   bio: 
   
 - name: Matthew Martin
-  image: 
-  bio: 
+  image: /2020/montreal/images/Mattew_Martin.jpg
+  bio: "Matthew Martin is a PhD Candidate in the Cognitive Informatics program at L'Université du Québec à Montréal (UQAM, Canada). He is also an analyst at The Decision Lab, a non-profit think-tank that uses behavioural science to improve decision-making. His research interest is in finding or creating the best tools for aiding decision-making and subjecting them to rigorous empirical analysis. He holds a Master's degree in psychology and a Bachelor's degree in cognitive science."
   
 - name: David Pelletier
-  image:    
-  bio: 
+  image: /2020/montreal/images/David_Pelletier_photo.jpeg   
+  bio: "David Pelletier is a postdoctoral researcher at McGill University’s Sociology Department and is also affiliated with INRS and Université de Montréal. Trained in demography, he uses surveys and administrative data to study family dynamics and inequality in the Canadian context, but also in the United States and Europe."
 
 - name: Julian Posada
   image: /2020/montreal/images/Julian_posada.png   
@@ -33,6 +41,10 @@
 - name: Yang Teoh
   image: 
   bio: 
+  
+- name: Robert Vidigal
+  image: /2020/montreal/images/robert-wp.jpg
+  bio: "Robert Vidigal is a Ph.D Candidate at the Department of Political Science, Stony Brook University, NY. His research focuses on Comparative Political Behavior, Political Communication, Political Psychology, Public Opinion, and Network Analysis. He is interested in how political communication influences voters behavior and political attitudes. Especially, citizens’ ability and motivations to learn and process new information."
 
 - name: Zedan Xu
   image: 
