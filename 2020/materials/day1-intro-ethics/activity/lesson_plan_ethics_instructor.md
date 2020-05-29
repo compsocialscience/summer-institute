@@ -49,6 +49,7 @@ Possible follow-up questions:
 - Here's a case where researchers used diplomatic cables that were released by Private Manning to WikiLeaks: https://doi.org/10.1093/pan/mpv005. How are these cases similar or different? What do you think about the decision of these researchers?
 
 Question 5) Would you personally use this data?
+
 Possible follow-up questions:
 - Many of the questions above could be used here.
 
@@ -71,3 +72,5 @@ These times assume that you have 1 hours 45 minutes.  If you have less or more t
 ### Notes
 
 - There is another case study that you could use [Alternative case study (Field experiments on voting)](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/activity/ethics_case_study.pdf).  If you use this case study, you should also read the original [Gerber et al. article](https://isps.yale.edu/sites/default/files/publication/2012/12/ISPS08-001.pdf).
+
+- Try to encourage participants to use the topics covered in SICSS (e.g., respect for persons, beneficence, justice, respect for law and public interest) in their discussion.
