@@ -52,8 +52,57 @@
 
     
 - day: Day 2
-  id: day_2
+  id: day_2020_2
   topic: Collecting Digital Trace Data
+  events:
+    - name: "What is digital trace data?"
+      video: "https://youtu.be/uuSWQN7uYhk"
+      sublinks:
+        - link: "https://youtu.be/uuSWQN7uYhk"
+          text: "Video"
+        - link: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/what-is-digital-trace-data/What_is_Digital_Trace_Data.html"
+          text: "Slides"
+    - name: "Strengths and weakness of digital trace data"
+      video: "https://youtu.be/b8XTtBnENfo"
+      sublinks:
+        - link: "https://youtu.be/b8XTtBnENfo"
+          text: "Video"
+        - link: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/strengths-weaknesses/Rpres/Strengths_and_Weaknesses.html"
+          text: "Slides"
+        - link: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/strengths-weaknesses/rmarkdown/Strengths_and_Weaknesses.html"
+          text: "Annotated Code"
+    - name: "Application Programming Interfaces"
+      video: "https://youtu.be/jde_c7pB5U8"
+      sublinks:
+        - link: "https://youtu.be/jde_c7pB5U8"
+          text: "Video"
+        - link: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/apis/Rpres/APIs.html"
+          text: "Slides"
+        - link: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/apis/rmarkdown/Application_Programming_interfaces.html"
+          text: "Annotated Code"
+    - name: "Screen Scraping"
+      video: "https://www.youtube.com/embed/4KeK73JMVwM"
+      sublinks:
+        - link: "https://youtu.be/4KeK73JMVwM"
+          text: "Video"
+        - link: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/screenscraping/Rpres/Screenscraping.html"
+          text: "Slides"
+        - link: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/screenscraping/rmarkdown/Screenscraping.html"
+          text: "Annotated Code"
+    - name: "Building Apps and Bots for Social Science Research"
+      video: "https://www.youtube.com/embed/Ypx6lYReHSM"
+      sublinks:
+        - link: "https://youtu.be/Ypx6lYReHSM"
+          text: "Video"
+        - link: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/building-apps-bots/Rpres/Building_Apps_for_Social_Science_Research.html"
+          text: "Slides"
+        - link: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/building-apps-bots/rmarkdown/Building_Apps_and_Bots_for%20Social_Science_Research.html"
+          text: "Annotated Code"
+  exercise_title: "Group exercise"
+  exercise:
+    - name: "Lesson plan"
+      resource: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/Group_Exercise_Day_2.html"
+
     
 - day: Day 3
   id: day_3
