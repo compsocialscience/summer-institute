@@ -20,6 +20,20 @@ __Open to:__ Unlimited registered participants: Link to registration form coming
 
 __Archiving:__ This talk will be recorded and archived.
 
+## Panel discussion on diversity in computational social science
+
+__Time:__ 60 minutes, time to be determined
+
+__Speakers:__ [Taylor W. Brown](https://www.taylorwhittenbrown.com/) (SICSS-Princeton 17, SICSS-Duke 18, SICSS-Oxford 19), [Naniette H. Coleman](https://www.naniettecoleman.com/) (SICSS-Princeton 19), and [Tina Law](https://tinalaw1.github.io/) (SICSS-Duke 18)
+
+__Moderator:__ Matthew Salganik
+
+__Description:__ In order to thrive, the field of computational social science requires contributions from people from different intellectual backgrounds and different life experiences. The panelists will discuss their own efforts to increase diversity in computational social science, describe why they think this work is important, explain what other efforts are underway now, and what they think should be done in the future.  There will also be time for the audience to submit written questions to be asked by the moderator.
+
+__Open to:__ Unlimited registered participants: Link registration form coming soon
+
+__Archiving:__ This talk will be recorded and archived.
+
 ## Using Empirica for high-throughput virtual lab experiments
 
 __Time:__ Wednesday, June 24, 2020. 1-2:30pm EDT
