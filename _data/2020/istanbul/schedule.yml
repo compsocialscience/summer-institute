@@ -2,7 +2,10 @@
   events:
     - name: "<b>Meet and Greet<b>"
       time: "15:00-16:00"
-    
+      
+- date: 2020-06-01 - 2020-06-14 
+  name: "<b>Pre-SICSS Period<b>"
+       
 - date: 2020-06-15
   name: "<b>Introduction and Ethics</b>"
   events:
@@ -59,6 +62,9 @@
     - name: "<b>Tutorial Session:</b> An Agent-Based Model of IMF Program Design *by [Merih Angin](https://womenalsoknowstuff.com/profile/merih-angin-1)*"
       time: "13:00 - 15:00"
 
+- date: 2020-06-21
+  name: "<b>Day Off</b>"
+  
 - date: 2020-06-22
   name: "<b>Work on Group Projects</b>"
   events:
