@@ -13,21 +13,21 @@
         - link: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/02-intro-computational-social-science.pdf"
           text: "Slides"
     - name: "Why SICSS?"
-      video: "https://youtu.be/embed/K6HzpZMcaQw"
+      video: "https://www.youtube.com/embed/K6HzpZMcaQw"
       sublinks:
         - link: "https://youtu.be/K6HzpZMcaQw"
           text: "Video"
         - link: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/03-ethics.pdf"
           text: "Slides"
     - name: "Ethics: Part 1"
-      video: "https://youtu.be/embed/A-5QaX5ZiK8"
+      video: "https://www.youtube.com/embed/A-5QaX5ZiK8"
       sublinks:
         - link: "https://youtu.be/A-5QaX5ZiK8"
           text: "Video"
         - link: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/03-ethics.pdf"
           text: "Slides"
     - name: "Ethics: Part 2"
-      video: "https://youtu.be/embed/TT6dOQMKHhA"
+      video: "https://www.youtube.com/embed/TT6dOQMKHhA"
       sublinks:
         - link: "https://youtu.be/TT6dOQMKHhA"
           text: "Video"
@@ -56,7 +56,7 @@
   topic: Collecting Digital Trace Data
   events:
     - name: "What is digital trace data?"
-      video: "https://youtu.be/embed/uuSWQN7uYhk"
+      video: "https://www.youtube.com/embed/uuSWQN7uYhk"
       sublinks:
         - link: "https://youtu.be/uuSWQN7uYhk"
           text: "Video"
@@ -65,14 +65,14 @@
     - name: "Strengths and weakness of digital trace data"
       video: "https://youtu.be/embed/b8XTtBnENfo"
       sublinks:
-        - link: "https://youtu.be/b8XTtBnENfo"
+        - link: "https://www.youtube.com/b8XTtBnENfo"
           text: "Video"
         - link: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/strengths-weaknesses/Rpres/Strengths_and_Weaknesses.html"
           text: "Slides"
         - link: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/strengths-weaknesses/rmarkdown/Strengths_and_Weaknesses.html"
           text: "Annotated Code"
     - name: "Application Programming Interfaces"
-      video: "https://youtu.be/embed/jde_c7pB5U8"
+      video: "https://www.youtube.com/embed/jde_c7pB5U8"
       sublinks:
         - link: "https://youtu.be/jde_c7pB5U8"
           text: "Video"
