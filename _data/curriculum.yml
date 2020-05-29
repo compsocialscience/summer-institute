@@ -5,7 +5,7 @@
   id: day_2020_1
   topic: Introduction and Ethics
   events:
-    - name: "Introduction to computational social science"
+    - name: "Introduction to Computational Social Science"
       video: "https://www.youtube.com/embed/zGG9wPl1C5E"
       sublinks:
         - link: "https://youtu.be/zGG9wPl1C5E"
@@ -33,7 +33,14 @@
           text: "Video"
         - link: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/04-areas-of-difficulty.pdf"
           text: "Slides"
-    - name: "Introduction to the group exercise"
+    - name: "Ethics: Part 3"
+      video: "https://www.youtube.com/embed/lJyK6kXeDbc"
+      sublinks:
+        - link: "https://youtu.be/lJyK6kXeDbc"
+          text: "Video"
+        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/04-areas-of-difficulty.pdf"
+          text: "Slides"
+    - name: "Introduction to the Group Exercise"
       video: "https://www.youtube.com/embed/8gZ1Ect958M"
       sublinks:
         - link: "https://youtu.be/8gZ1Ect958M"
@@ -62,7 +69,7 @@
           text: "Video"
         - link: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/what-is-digital-trace-data/What_is_Digital_Trace_Data.html"
           text: "Slides"
-    - name: "Strengths and weakness of digital trace data"
+    - name: "Strengths and Weakness of Digital Trace Data"
       video: "https://youtu.be/embed/b8XTtBnENfo"
       sublinks:
         - link: "https://www.youtube.com/b8XTtBnENfo"
@@ -90,7 +97,7 @@
         - link: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/screenscraping/rmarkdown/Screenscraping.html"
           text: "Annotated Code"
     - name: "Building Apps and Bots for Social Science Research"
-      video: "https://www.youtube.com/embed/Ypx6lYReHSM"
+      video: "https://www.youtube.com/embed/3wjYcIOpBgU"
       sublinks:
         - link: "https://youtu.be/Ypx6lYReHSM"
           text: "Video"
