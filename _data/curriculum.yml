@@ -64,7 +64,7 @@
     - name: "Strengths and Weakness of Digital Trace Data"
       video: "https://www.youtube.com/embed/b8XTtBnENfo"
       sublinks:
-        - link: "https://www.youtube.com/b8XTtBnENfo"
+        - link: "https://www.youtube.com/watch?v=b8XTtBnENfo"
           text: "Video"
         - link: "https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/strengths-weaknesses/Rpres/Strengths_and_Weaknesses.html"
           text: "Slides"
@@ -91,7 +91,7 @@
     - name: "Building Apps and Bots for Social Science Research"
       video: "https://www.youtube.com/embed/3wjYcIOpBgU"
       sublinks:
-        - link: "https://youtu.be/Ypx6lYReHSM"
+        - link: "https://www.youtube.com/watch?v=3wjYcIOpBgU"
           text: "Video"
         - link: "https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/building-apps-bots/Rpres/Building_Apps_for_Social_Science_Research.html"
           text: "Slides"
