@@ -35,3 +35,5 @@ There is no participant preparation before this activity.
 ### Notes
 
 - Talking about ethics can be difficult for some people. Please keep an open mind, and remember that reasonable people can disagree on many of these topics.
+
+- Try to practice using the concepts that you learned in the discussion.
