@@ -2,34 +2,34 @@
   id: day_2020
   
 - day: Day 1
-  id: day_2019_1
+  id: day_2020_1
   topic: Introduction and Ethics
   events:
     - name: "Introduction to computational social science"
-      video: "https://www.youtube.com/embed/EF7X9wwl0q4"
+      video: "https://youtu.be/zGG9wPl1C5E"
       sublinks:
-        - link: "https://youtu.be/EF7X9wwl0q4"
+        - link: "https://youtu.be/zGG9wPl1C5E"
           text: "Video"
         - link: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/02-intro-computational-social-science.pdf"
           text: "Slides"
     - name: "Why SICSS?"
-      video: "https://www.youtube.com/embed/ae_NQFvF1Dc"
+      video: "https://youtu.be/K6HzpZMcaQw"
       sublinks:
-        - link: "https://youtu.be/H_3qbmlZsp0"
+        - link: "https://youtu.be/K6HzpZMcaQw"
           text: "Video"
         - link: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/03-ethics.pdf"
           text: "Slides"
-    - name: "Ethics: Principles-based approach"
-      video: "https://www.youtube.com/embed/H_3qbmlZsp0"
+    - name: "Ethics: Part 1"
+      video: "https://youtu.be/A-5QaX5ZiK8"
       sublinks:
-        - link: "https://www.youtube.com/watch?v=H_3qbmlZsp0"
+        - link: "https://youtu.be/A-5QaX5ZiK8"
           text: "Video"
         - link: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/03-ethics.pdf"
           text: "Slides"
-    - name: "Four areas of difficulty: informed consent, informational risk, privacy, and making decisions in the face of     uncertainty"
-      video: "https://www.youtube.com/embed/75qv8d8SXW0"
+    - name: "Ethics: Part 2"
+      video: "https://youtu.be/TT6dOQMKHhA"
       sublinks:
-        - link: "https://youtu.be/75qv8d8SXW0"
+        - link: "https://youtu.be/TT6dOQMKHhA"
           text: "Video"
         - link: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day1-intro-ethics/04-areas-of-difficulty.pdf"
           text: "Slides"
