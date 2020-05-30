@@ -1,8 +1,8 @@
-- date: All times are in Istanbul Time and All program will be Zoom-based.
+- date: All times are local Istanbul Time and All program will be Zoom-based.
 
 - date: 2020-05-31
   events:
-    - name: "<b>Meet and Greet<b>"
+    - name: "Meet and Greet"
       time: "15:00-16:00"
       
 - date: 2020-06-01 - 2020-06-14 
@@ -74,7 +74,7 @@
   events:
     - name: "Lunch and Alumni Talk"
       time: "12:00 - 13:30"
-    - name: "<b>Office Hour</b>"
+    - name: "Office Hour"
       time: "13:30 - 14:30"
 
 - date: 2020-06-23
