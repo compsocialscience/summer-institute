@@ -182,72 +182,20 @@ Fig 5.4 (\href{https://www.bitbybitbook.com/}{Salganik 2018})
 \end{center}
 
 \end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
-\centering
-\begin{tikzpicture}[x = .5\textwidth, y = .5\textheight]
-\node at (-1,-1) {};
-\node at (1,1) {};
-\node[font = \Large] at (0,.8) {An overly simple view of stratification research.};
-\onslide<1-1>{
-	\node[font = \Huge] at (0,.5) {$Y = \white{\underbrace{\black{\E\left(Y\mid \vec{X}\right)}}} + \epsilon$};
-}
-\onslide<8->{
-	\node[font = \Huge] at (0,.5) {$Y = \underbrace{\E\left(Y\mid \vec{X}\right)} + \hspace{5pt}\epsilon$};
-}
-\onslide<2-3>{
-	\node[font = \Huge] at (0,.5) {$\blue{Y} = \white{\underbrace{\black{\E\left(Y\mid \vec{X}\right)}}} + \epsilon$};
-}
-\onslide<4-5,7>{
-	\node[font = \Huge] at (0,.5) {$Y = \blue{\underbrace{\E\left(Y\mid \vec{X}\right)}} + \epsilon$};
-}
-\onslide<6>{
-	\node[font = \Huge] at (0,.5) {$Y = \blue{\underbrace{\beta_1X_1 + \beta_2X_2}} + \epsilon$};
-}
-\onslide<8-9>{
-	\node[font = \Huge] at (0,.5) {$Y = \underbrace{\E\left(Y\mid \vec{X}\right)} +\blue{\hspace{5pt}\epsilon}$};
-}
-\onslide<2-3>{
-	\node[font = \Large,blue,anchor=west] (attainment) at (-1,.2) {\bblue{Attainment}};
-	\draw[->, line width = 1.5pt, blue] (-.6,0.4) -- (attainment);
-}
-\onslide<3-3>{
-	\node[font = \Large,blue,anchor = west,align=left] (achievement) at (-1,0) {-- Academic\\\hspace{13pt}achievement};
-	\node[font = \Large,blue,anchor = west] (occupation) at (-1,-.22) {-- Occupation};
-	\node[font = \Large,blue,anchor = west] (income) at (-1,-.37) {-- Income};
-}
-\onslide<4-9>{
-	\node[font = \Large,black,anchor = west,align=left] (achievement) at (-1,0) {-- Academic\\\hspace{13pt}achievement};
-	\node[font = \Large,black,anchor = west] (occupation) at (-1,-.22) {-- Occupation};
-	\node[font = \Large,black,anchor = west] (income) at (-1,-.37) {-- Income};
-}
-\onslide<4->{
-	\node[font = \Large,anchor=west] (attainment) at (-1,.2) {\textbf{Attainment}};
-	\draw[->, line width = 1.5pt] (-.6,0.4) -- (attainment);
-}
-\onslide<4-7>{
-	\node[font = \Large,blue,anchor=north,align=center] (predictable) at (0.04,.15) {\bblue{Predictable}\\\bblue{component}};
-	\draw[->, line width = 1.5pt, blue] (0.04, 0.25) -- (predictable);
-}
-\onslide<8->{
-	\node[font = \Large,anchor=north,align=center] (predictable) at (0.04,.15) {\textbf{Predictable}\\\textbf{component}};
-	\draw[->, line width = 1.5pt] (0.04, 0.25) -- (predictable);
-}
-\onslide<8-9>{
-	\node[font = \Large,align=center,blue] (unpredictable) at (.7,.1) {\bblue{Unpredictable}\\\bblue{component}};
-	\draw[->, line width = 1.5pt, blue] (.63,0.4) -- (unpredictable);
-}
-\onslide<10->{
-	\node[font = \Large,align=center] (unpredictable) at (.7,.1) {\textbf{Unpredictable}\\\textbf{component}};
-	\draw[->, line width = 1.5pt] (0.63,0.4) -- (unpredictable);
-}
-\onslide<10->{
-	\node[font = \Large,anchor = west] at (-1.05,-.25) {Theories focus on the predictable component, but};
-}
-\onslide<10->{
-	\node[font = \Large,anchor = west] at (-1.05,-.4) {empirically the unpredictable component dominates};
-}
-\end{tikzpicture}
+
+Life course researchers have:
+\begin{itemize}
+\item described social patterns
+\item theorized important factors
+\item estimated causal effects
+\end{itemize}
+
+\pause
+\vfill
+How well can we predict individual life outcomes?
+
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
@@ -259,7 +207,7 @@ $ \hat{y} \quad \& \quad \hat{\beta}$
 \end{center}
 
 \vfill
-\small{Mullainathan and Spiess (2017): \url{http://dx.doi.org/10.1257/jep.31.2.87}}
+\href{https://dx.doi.org/10.1257/jep.31.2.87}{Mullainathan and Spiess (2017)}
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
@@ -332,27 +280,13 @@ Outcomes
 %%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
-457 researchers applied to participate. Many worked in interdisciplinary teams. Goal: Make a prediction that minimizes mean square error on the hold-out set
-\begin{equation*}
-MSE_{\text{holdout}} = \frac{\sum_{i \in \text{holdout}} (\hat{y}_i - y_i)^2}{n_{holdout}}
-\end{equation*}
-
-\vfill
-More on privacy and ethics audit: \href{https://doi.org/10.1177/2378023118813023}{Lundberg et al.\ (2019)}
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
+457 researchers applied to participate. Many worked in interdisciplinary teams.
+\pause
 Using a large, high-quality social science dataset collected since birth and modern machine learning methods, how accurately can we predict outcomes from children, parents, and families?
 
 \begin{equation*}
 R^2_{holdout} = 1 - \frac{\sum_{i \in \text{holdout}} (\hat{y}_i - y_i)^2}{\sum_{i \in \text{holdout}} (\bar{y}_{train} - y_i)^2}
 \end{equation*}
-
-\pause 
-\vfill
-
-Before I show the results, let's vote . . . .
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%
@@ -382,25 +316,30 @@ Before I show the results, let's vote . . . .
 
 \vfill 
 
-\onslide<2>{Green line: 4 variable linear regression model}
+\onslide<2>{Green line: 4 variable regression model}
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
 \begin{center}
-\only<1>{\includegraphics[width=0.7\textwidth]{figures/materialhardship_scatter_best_benchmark}} %
-\only<2>{\includegraphics[width=0.9\textwidth]{figures/allcontinuous_scatter_best_benchmark}} %
+\only<1>{\includegraphics[width=0.6\textwidth]{figures/salganik_measuring_2020_fig3b}} %
+\only<2>{\includegraphics[width=0.9\textwidth]{figures/salganik_measuring_2020_fig3bd}} %
 \end{center}
 
+\vfill
+Fig 3, \href{https://doi.org/10.1073/pnas.1915006117}{Salganik et al.\ (2020)}
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
 \begin{center}
-\only<1>{\includegraphics[width=0.7\textwidth]{figures/eviction_density_best_benchmark}} %
-\only<2>{\includegraphics[width=0.9\textwidth]{figures/allbinary_density_best_benchmark}} %
+\only<1>{\includegraphics[width=0.6\textwidth]{figures/salganik_measuring_2020_fig3e}} %
+\only<2>{\includegraphics[width=0.9\textwidth]{figures/salganik_measuring_2020_fig3eg}} %
 \end{center}
+
+\vfill
+Fig 3, \href{https://doi.org/10.1073/pnas.1915006117}{Salganik et al.\ (2020)}
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -415,22 +354,22 @@ Before I show the results, let's vote . . . .
 \begin{frame}
 
 \begin{center}
-\includegraphics[height=0.90\textheight]{figures/materialHardship_ysort_mse_unit_outcome_xsort_mse_account_outcome.pdf}
+\includegraphics[width=0.90\textwidth]{figures/salganik_measuring_2020_fig4a}
 \end{center}
 
+\vfill
+Fig 4, \href{https://doi.org/10.1073/pnas.1915006117}{Salganik et al.\ (2020)}
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
+
 \begin{center}
-\includegraphics[width=0.20\textwidth]{figures/materialHardship_ysort_mse_unit_outcome_xsort_mse_account_outcome.pdf}
-\includegraphics[width=0.20\textwidth]{figures/gpa_ysort_mse_unit_outcome_xsort_mse_account_outcome.pdf}
-\includegraphics[width=0.20\textwidth]{figures/grit_ysort_mse_unit_outcome_xsort_mse_account_outcome.pdf} \\
-\includegraphics[width=0.20\textwidth]{figures/eviction_ysort_mse_unit_outcome_xsort_mse_account_outcome.pdf}
-\includegraphics[width=0.20\textwidth]{figures/jobtraining_ysort_mse_unit_outcome_xsort_mse_account_outcome.pdf}
-\includegraphics[width=0.20\textwidth]{figures/layoff_ysort_mse_unit_outcome_xsort_mse_account_outcome.pdf}
+\includegraphics[height=0.90\textheight]{figures/salganik_measuring_2020_fig4}
 \end{center}
 
+\vfill
+Fig 4, \href{https://doi.org/10.1073/pnas.1915006117}{Salganik et al.\ (2020)}
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
@@ -520,23 +459,6 @@ See also Garip (2020) ``What failure to predict life outcomes can teach us'' \ur
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
-This project creates more questions than it answers. A few next questions: \pause
-\begin{itemize}
-\item What is the dark matter? (Dark matter team) \pause
-\item What are the implications of these findings for causal inference? (Ian Lundberg et al.) \pause
-\item How predictable are the other 1,500 outcomes in the year 15 data? (Emily Cantrell, Pranay Anchuri) \pause
-\item What are the implications of these findings for policy makers considering using algorithmic predictions in high-stakes decisions? (Mihir Kshirsagar et al.) \pause
-\end{itemize}
-\pause
-A new class:
-\begin{itemize}
-\item COS 597E/SOC 555 Limits to Prediction (Fall 2020), Taught by Arvind Narayanan and Matthew Salganik
-\end{itemize}
-
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
 \begin{center}
 \LARGE{
 $ \hat{y} \quad \& \quad \hat{\beta}$
@@ -544,7 +466,7 @@ $ \hat{y} \quad \& \quad \hat{\beta}$
 \end{center}
 
 \vfill
-\small{Mullainathan and Spiess (2017): \url{http://dx.doi.org/10.1257/jep.31.2.87}}
+\href{https://dx.doi.org/10.1257/jep.31.2.87}{Mullainathan and Spiess (2017)}
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
@@ -554,6 +476,21 @@ $ \hat{y} \quad \& \quad \hat{\beta}$
 \end{center}
 
 \end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\title[]{\textcolor{gray}{[Introduction to mass collaboration], [Human computation], [Open call], [Distributed data collection],} \newline [Fragile Families Challenge]}
+\author[]{Matthew J. Salganik\\Department of Sociology\\Princeton University}
+\date[]{%Summer Institutes in Computational Social Science\\2020
+%\vfill
+%\begin{flushleft}
+%{\scriptsize
+%The Summer Institutes in Computational Social Science is supported by grants from the Russell Sage Foundation and the Alfred P. Sloan Foundation.}
+%\end{flushleft}
+\begin{flushright}
+\includegraphics[width=0.1\textwidth]{figures/cc-by.png}
+\end{flushright}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame{\titlepage}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \end{document}
 
