@@ -1,106 +1,110 @@
+- date: All times are local Istanbul Time and All program will be Zoom-based.
+
 - date: 2020-05-31
   events:
-    - name: "<b>Meet and Greet<b>"
+    - name: "Meet and Greet"
       time: "15:00-16:00"
       
 - date: 2020-06-01 - 2020-06-14 
-  name: "<b>Pre-SICSS Period<b>"
+  name: Pre-SICSS Period
        
 - date: 2020-06-15
-  name: "<b>Introduction and Ethics</b>"
+  name: Introduction and Ethics
   events:
-    - name: "<b>Introductions and Group Formation</b>"
+    - name: "Introductions and Group Formation"
       time: "10:30 - 11:00"
-    - name: "<b>Discussion on Ethics</b>"
+    - name: "Discussion on Ethics"
       time: "11:00 - 12:00"
-    - name: "<b>Lunch</b>"
+    - name: "Lunch"
       time: "12:00 - 13:00"
-    - name: "<b>Research Presentation:</b> Using Mobile Phones for Human Behaviour Understanding *by [Albert Ali Salah](http://www.staff.science.uu.nl/~salah006/)*"
+    - name: "Research Presentation: Using Mobile Phones for Human Behaviour Understanding *by [Albert Ali Salah](http://www.staff.science.uu.nl/~salah006/)*"
       time: "13:00 - 15:00"
       
 - date: 2020-06-16
-  name: "<b>Digital Trace Data</b>"
+  name: Digital Trace Data
   events:
-    - name: "<b>Discussion on Digital Trace Data</b>"
+    - name: "Discussion on Digital Trace Data"
       time: "11:00 - 12:00"
-    - name: "<b>Lunch</b>"
+    - name: "Lunch"
       time: "12:00 - 13:00"
-    - name: "<b>Tutorial Session:</b> Computational Journalism *by [Pinar Dag](https://twitter.com/pinardag)*"
+    - name: "Tutorial Session: Computational Journalism *by [Pinar Dag](https://twitter.com/pinardag)*"
       time: "13:00 - 15:00"
 
 - date: 2020-06-17
-  name: "<b>Digital Surveys and Text as Data</b>"
+  name: Digital Surveys and Text as Data
   events:
-    - name: "<b>Discussion on Surveys in the Digital Age</b>"
+    - name: "Discussion on Surveys in the Digital Age"
       time: "11:00 - 12:00"
-    - name: "<b>Lunch</b>"
+    - name: "Lunch"
       time: "12:00 - 13:00"
-    - name: "<b>Tutorial Session:</b> Computational Text Analysis *by [Matti Nelimarkka](https://matti.mante.li/)*"
+    - name: "Tutorial Session: Computational Text Analysis *by [Matti Nelimarkka](https://matti.mante.li/)*"
       time: "13:00 - 15:00"
 
 - date: 2020-06-18
-  name: "<b>Geo-Spatial Data Analysis</b>"
+  name: Mass Collaboration and Geo-Spatial Data Analysis
   events:
-    - name: "<b>Lunch</b>"
+    - name: "Discussion on Mass Collaboration"
+      time: "11:00 - 12:00"
+    - name: "Lunch"
       time: "12:00 - 13:00"
-    - name: "<b>Tutorial Session:</b> Migration Route Spatial Forecasting *by [Akin Unver](https://www.akinunver.org/)*"
+    - name: "Tutorial Session: Migration Route Spatial Forecasting *by [Akin Unver](https://www.akinunver.org/)*"
       time: "13:00 - 15:00"
 
 - date: 2020-06-19
-  name: "<b>Social Network Analysis</b>"
+  name: Social Network Analysis
   events:
-    - name: "<b>Lunch</b>"
+    - name: "Lunch"
       time: "12:00 - 13:00"
-    - name: "<b>Tutorial Session:</b> Identifying Networks of Social Bots on Twitter Conversations *by [Onur Varol](http://www.onurvarol.com/)*"
+    - name: "Tutorial Session: Identifying Networks of Social Bots on Twitter Conversations *by [Onur Varol](http://www.onurvarol.com/)*"
       time: "13:00 - 15:00"
 
 - date: 2020-06-20
-  name: "<b>Agent-based Modelling and Simulation</b>"
+  name: Agent-based Modelling and Simulation
   events:
-    - name: "<b>Lunch</b>"
+    - name: "Lunch"
       time: "12:00 - 13:00"
-    - name: "<b>Tutorial Session:</b> An Agent-Based Model of IMF Program Design *by [Merih Angin](https://womenalsoknowstuff.com/profile/merih-angin-1)*"
+    - name: "Tutorial Session: An Agent-Based Model of IMF Program Design *by [Merih Angin](https://womenalsoknowstuff.com/profile/merih-angin-1)*"
       time: "13:00 - 15:00"
 
 - date: 2020-06-21
-  name: "<b>Day Off</b>"
+  name: Day Off
   
 - date: 2020-06-22
-  name: "<b>Work on Group Projects</b>"
+  name: Work on Group Projects and Alumni Talks
   events:
-    - name: "<b>Lunch and Guest Speaker</b>"
+    - name: "Lunch and Alumni Talk"
       time: "12:00 - 13:30"
-    - name: "<b>Office Hour</b>"
+    - name: "Office Hour"
       time: "13:30 - 14:30"
 
 - date: 2020-06-23
-  name: "<b>Work on Group Projects</b>"
+  name: Work on Group Projects and Alumni Talks
   events:
-    - name: "<b>Lunch and Guest Speaker</b>"
+    - name: "Lunch and Alumni Talk"
       time: "12:00 - 13:30"
-    - name: "<b>Office Hour</b>"
+    - name: "Office Hour"
       time: "13:30 - 14:30"
 
 - date: 2020-06-24
-  name: "<b>Work on Group Projects</b>"
+  name: Work on Group Projects and Alumni Talks
   events:
-    - name: "<b>Lunch and Guest Speaker</b>"
+    - name: "Lunch and Alumni Talk"
       time: "12:00 - 13:30"
-    - name: "<b>Office Hour</b>"
+    - name: "Office Hour"
       time: "13:30 - 14:30"
 
 - date: 2020-06-25
-  name: "<b>Work on Group Projects</b>"
+  name: Work on Group Projects and Alumni Talks
   events:
-    - name: "<b>Lunch and Guest Speaker</b>"
+    - name: "Lunch and Alumni Talk"
       time: "12:00 - 13:30"
-    - name: "<b>Office Hour</b>"
+    - name: "Office Hour"
       time: "13:30 - 14:30"
       
 - date: 2020-06-26
-  name: "<b>Present Group Projects</b>"
+  name: Present Group Projects
   events:
-    - name: "<b>Presentations</b>"
+    - name: "Presentations"
       time: "12:00 - 14:00"
-    - name: "<b>Conclusion </b>"
+    - name: "Conclusion"
       time: "14:00 - 14:30"
