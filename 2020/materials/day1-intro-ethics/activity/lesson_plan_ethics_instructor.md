@@ -74,3 +74,7 @@ These times assume that you have 1 hours 45 minutes.  If you have less or more t
 - There is another case study that you could use [Alternative case study (Field experiments on voting)](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/activity/ethics_case_study.pdf).  If you use this case study, you should also read the original [Gerber et al. article](https://isps.yale.edu/sites/default/files/publication/2012/12/ISPS08-001.pdf).
 
 - Try to encourage participants to use the topics covered in SICSS (e.g., respect for persons, beneficence, justice, respect for law and public interest) in their discussion.
+
+### Acknowledgments
+
+This activity was designed with input from participants and TAs from SICSS 2017-2019, especially Yo-Yo Chen, Janet Xu, and Simone Zhang.

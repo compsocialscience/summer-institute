@@ -37,3 +37,7 @@ There is no participant preparation before this activity.
 - Talking about ethics can be difficult for some people. Please keep an open mind, and remember that reasonable people can disagree on many of these topics.
 
 - Try to practice using the concepts that you learned in the discussion.
+
+### Acknowledgments
+
+This activity was designed with input from participants and TAs from SICSS 2017-2019, especially Yo-Yo Chen, Janet Xu, and Simone Zhang.
