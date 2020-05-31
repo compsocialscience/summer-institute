@@ -1,6 +1,3 @@
-- day: Virtual SICSS 2020
-  id: day_2020
-  
 - day: Day 1
   id: day_2020_1
   topic: Introduction and Ethics
@@ -106,8 +103,6 @@
 - day: Day 3
   id: day_3
   topic: Automated Text Analysis
-  events:
-  - name: "Coming soon"
 
 - day: Day 4
   id: day_4
