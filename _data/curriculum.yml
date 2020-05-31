@@ -106,6 +106,8 @@
 - day: Day 3
   id: day_3
   topic: Automated Text Analysis
+  events:
+  - name: "Coming soon"
 
 - day: Day 4
   id: day_4
