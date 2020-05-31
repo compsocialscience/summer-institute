@@ -29,7 +29,7 @@
       time: "11:00 - 12:00"
     - name: "Lunch"
       time: "12:00 - 13:00"
-    - name: "Tutorial Session: Computational Journalism *by [Pinar Dag](https://twitter.com/pinardag)*"
+    - name: "Tutorial Session: [Data Journalism in Antropogene](https://docs.google.com/document/d/1JwMTz2JxHNFW0T4o6SmQyyARhyPmsPLRcSmTDxuNu_8/edit?usp=sharing) *by [Pinar Dag](https://twitter.com/pinardag)*"
       time: "13:00 - 15:00"
 
 - date: 2020-06-17
@@ -59,7 +59,8 @@
       time: "11:00 - 12:00"
     - name: "Lunch"
       time: "12:00 - 13:00"
-    - name: "Tutorial Session: Identifying Networks of Social Bots on Twitter Conversations *by [Onur Varol](http://www.onurvarol.com/)*"
+    - name: "Tutorial Session: [Identifying Networks of Social Bots on Twitter Conversations](https://github.com/virallab/SICSS_Tutorial
+) *by [Onur Varol](http://www.onurvarol.com/)*"
       time: "13:00 - 15:00"
 
 - date: 2020-06-20
