@@ -1,7 +1,4 @@
-- day: Virtual SICSS 2020
-  id: day_2020
-  
-- day: Day 1
+  - day: Day 1
   id: day_2020_1
   topic: Introduction and Ethics
   events:
@@ -105,21 +102,19 @@
     
 - day: Day 3
   id: day_3
-  topic: Automated Text Analysis
-  events:
-  - name: "Coming soon"
+  topic: Automated Text Analysis (coming soon)
 
 - day: Day 4
   id: day_4
-  topic: Surveys in the Digital Age
+  topic: Surveys in the Digital Age (coming soon)
 
 - day: Day 5
   id: day_5
-  topic: Mass Collaboration
+  topic: Mass Collaboration (coming soon)
 
 - day: Day 6
   id: day_6
-  topic: Experiments
+  topic: Experiments (coming soon)
 
 - day: Archived materials from 2019 are available below
   id: day_2019_0
