@@ -5,8 +5,12 @@
       time: "10:30 - 12:30"
     - name: "<b>Break</b>"
       time: "12:30 - 13:00"
-    - name: "<b>Group exercises</b>"
-      time: "13:00 - 16:00"
+    - name: "<b>Activity on Ethics</b>"
+      time: "13:00 - 15:00"
+    - name: "<b>Break</b>"
+      time: "15:00 - 15:15"
+    - name: "<b>Introduce Digital Trace Data and Debrief</b>"
+      time: "15:15 - 16:30"
 
 
 - date: 2020-06-16
