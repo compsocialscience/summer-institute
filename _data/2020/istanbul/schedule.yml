@@ -1,20 +1,45 @@
 - date: All times are local Istanbul Time and All program will be Zoom-based.
 
 - date: 2020-05-31
+  name: Introduction to Pre-SICSS Period
   events:
-    - name: "Meet and Greet"
+    - name: "Meet and Introduce [Pre-SICSS Tasks](http://www.ninarva.com/markdowns/pre_SICSS_Istanbul.html#welcome)"
       time: "15:00-16:00"
+ 
+- date: 2020-06-02
+  name: Work on Pre-SICSS Tasks and Dinner Talks
+  events:
+    - name: "Dinner Talks"
+      time: "19:30 - 20:15"
+     
+- date: 2020-06-05
+  name: Work on Pre-SICSS Tasks and Dinner Talks
+  events:
+    - name: "Dinner Talks"
+      time: "19:30 - 20:15"   
       
-- date: 2020-06-01 - 2020-06-14 
-  name: Pre-SICSS Period
+- date: 2020-06-09
+  name: Work on Pre-SICSS Tasks and Dinner Talks
   events:
-    - name: "[Pre-SICSS Tasks](http://www.ninarva.com/markdowns/pre_SICSS_Istanbul.html#welcome)"
-       
+    - name: "Dinner Talks"
+      time: "19:30 - 20:15"
+      
+- date: 2020-06-12
+  name: Work on Pre-SICSS Tasks and Dinner Talks
+  events:
+    - name: "Dinner Talks"
+      time: "19:30 - 20:15"   
+
+- date: 2020-06-14
+  name: Group Formation and Evaluation of Pre-SICSS Tasks
+  events:
+    - name: "Dinner Talks"
+      time: "15:00 - 16:00"   
+      
 - date: 2020-06-15
-  name: Introduction and Ethics
+  name:  Ethics
   events:
-    - name: "Introductions and Group Formation"
-      time: "10:30 - 11:00"
+  
     - name: "[Discussion on Ethics](https://compsocialscience.github.io/summer-institute/curriculum)"
       time: "11:00 - 12:00"
     - name: "Lunch"
