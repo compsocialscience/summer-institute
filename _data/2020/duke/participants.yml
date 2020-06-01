@@ -104,6 +104,11 @@
   bio: "Sam is a PhD student in Computer Science at UC Berkeley working at the intersection of human-computer interaction and machine learning. Her research interests include computational social choice, participatory design (especially applied to AI/ML), social computing and data ethics. She is interested in how these topics can inform the design of algorithmic systems that support, rather than replace, individual and collective human decision-making. In current projects she has been applying this perspective to studies of machine translation systems and mechanism design for public school assignment."
   website: "https://srobert4.github.io"
 
+- name: Amber Spry
+  image: /assets/images/amberSpry.jpg
+  bio: "Dr. Amber Spry is an Assistant Professor in the Department of Politics and the Department of African and African American Studies at Brandeis University.  Amber's research examines the relationship between identity and political attitudes and behavior.  She uses innovative survey design methods to demonstrate how inferences about group political attitudes may  differ depending on how individuals are asked to self-identify.  In 2015-2016 Amber was a visiting scholar at the Massachusetts Institute of Technology, and her work has been supported by the National Science Foundation and the Russell Sage Foundation.  Amber earned her Ph.D. in Political Science at Columbia University."
+  website: "https://amberspry.com/"
+  
 - name: Dror Walter
   image: /assets/images/drorValt.jpg
   bio: "Dr. Walter’s research is centered on the intersection between classic media effects theories, and novel computational social science methods. His research addresses the ways computational methods such as network analysis, unsupervised machine learning, and supervised machine learning can aid in the identification and measurement of frames in online political communication. He applies these methods and theories to the study of misinformation campaigns (in health and politics), international communication, political extremism, and election campaigns."
