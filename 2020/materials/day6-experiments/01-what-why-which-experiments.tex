@@ -5,16 +5,18 @@
 \usepackage{framed}
 \usepackage{comment}
 
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%
-\title[]{What, why, and which experiments?}
+\title[]{[What, why, and which experiments?], \newline \textcolor{gray}{[Moving beyond simple experiments], [Making it happen], \newline [Zero variable cost data and MusicLab], [3 Rs]}}
 \author[]{Matthew J. Salganik\\Department of Sociology\\Princeton University}
-\date[]{Summer Institutes in Computational Social Science\\June 22, 2019
-\vfill
-\begin{flushleft}
-{\scriptsize
-The Summer Institutes in Computational Social Science is supported by grants from the Russell Sage Foundation and the Alfred P. Sloan Foundation.}
-\end{flushleft}
+\date[]{
 \begin{flushright}
 \includegraphics[width=0.1\textwidth]{figures/cc-by.png}
 \end{flushright}
@@ -23,12 +25,6 @@ The Summer Institutes in Computational Social Science is supported by grants fro
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \frame{\titlepage}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-Schedule
-
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
 \begin{figure}
@@ -44,8 +40,15 @@ Schedule
 
 \begin{figure}
   \centering
-  \includegraphics[width = \textwidth]{figures/restivo_experimental_2012_schematic}
+  \includegraphics[width = 0.7\textwidth]{figures/restivo_experimental_2012_schematic}
 \end{figure}
+
+\pause
+\begin{itemize}
+\item People who received barnstar edited less afterwards \pause
+\item People in control group edited even less \pause
+\item Not having a control group would lead to exactly the wrong conclusion
+\end{itemize}
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -73,6 +76,7 @@ What's different?
 %%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
+A note on terminology:\\
 Perturb and observe experiments vs randomized controlled experiments
 
 \end{frame}
@@ -82,10 +86,7 @@ Perturb and observe experiments vs randomized controlled experiments
 ``It's like you don't harass women, you don't steal, and you've got to have a control group. This is one of the things that you can lose your job for at Harrah's not running a control group.''
 Gary Loveman, CEO Harrah's
 
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
+\pause
 \begin{itemize}
 \item Sometimes we create a randomized controlled experiment by creating a treatment group 
 \item Sometimes we create a randomized controlled experiment by creating a control group
@@ -103,14 +104,7 @@ Gary Loveman, CEO Harrah's
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-\begin{center}
-\LARGE Questions? 
-\end{center}
-
-\end{frame}
+\frame{\titlepage}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
-
 
 \end{document}
