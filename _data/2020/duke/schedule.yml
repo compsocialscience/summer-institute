@@ -29,7 +29,7 @@
     - name: "1:30 - 3:00 Group excercise (*Zoom*)"
     - name: "3:00 - 3:15 Whole group debrief about group excercise (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
-    - name: "4:00 - 5:30 Possible guest speaker"
+    - name: "4:00 - 5:30 Dan Ariely: Title TBA"
 
 - date: 2020-06-17
   name: Automated Text Analysis
@@ -43,7 +43,6 @@
     - name: "1:30 - 3:00 Group excercise(*Zoom*)"
     - name: "3:00 - 3:15 Whole group debrief about group excercise (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
-    - name: "4:00 - 5:30 Possible guest speaker"
 
 - date: 2020-06-18
   name: Surveys in the Digital Age
@@ -57,7 +56,6 @@
     - name: "1:15 - 3:00 Afternoon group excercise (*Zoom*)"
     - name: "3:00 - 3:15 Whole group debrief about group excercise (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
-    - name: "4:00 - 5:30 Possible guest speaker"
 
 - date: 2020-06-19
   name: Mass collaboratation and machine learning
@@ -71,7 +69,6 @@
     - name: "1:15 - 3:15 Continue participating in the Fragile Families Challenge (*Zoom*)"
     - name: "3:15 - 3:30 Whole group debrief about group excercise (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
-    - name: "4:00 - 5:30 Possible guest speaker"
 
 - date: 2020-06-20
   name: Day off
@@ -81,18 +78,12 @@
 
 - date: 2020-06-22
   name: Work on group projects (optional) and/or participate in SICSS Festival
-  events:
-    - name: "4:00 - 5:30 Possible guest speaker"
 
 - date: 2020-06-23
   name: Work on group projects (optional) and/or participate in SICSS Festival
-  events:
-    - name: "4:00 - 5:30 Possible guest speaker"
 
 - date: 2020-06-24
   name: Work on group projects (optional) and/or participate in SICSS Festival
-  events:
-    - name: "4:00 - 5:30 Possible guest speaker"
 
 - date: 2020-06-25
   name: Work on group projects (optional) and/or participate in SICSS Festival
