@@ -1,4 +1,15 @@
 {% if page.sidebar != "hide" %}
+{% if page.sidebar.first %}
+  <div class="col-md-4">
+    <ul class="nav flex-column">
+    {% for link in page.sidebar %}
+      <li class="nav-item">
+        <a class="nav-link" href="{{ link.url }}">{{ link.name }}</a>
+      </li>
+    {% endfor %}
+    </ul>
+  </div>
+{% else %}
 <!-- detail page sidebar -->
 {% if page.partner_site %}
 {% assign urlparts = page.url | split: "/" %}
@@ -62,37 +73,6 @@
     </ul>
     </li>
     {% endfor %}
-  </ul>
-{% endif %}
-
-
-<!-- curriculum sidebar -->
-{% if page.layout == 'curriculum' %}
-  <ul class="nav flex-column">
-    <li class="nav-item">
-      <a class="nav-link active" href="#overview">Overview</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#day_1">Introduction and Ethics</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#day_2">Collecting Digital Trace Data</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#day_3">Automated Text Analysis</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#day_4">Surveys in the Digital Age</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#day_5">Mass Collaboration</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#day_6">Experiments in the Digital Age</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#bonus_lectures">Bonus Lectures by Leaders in the Field</a>
-    </li>
   </ul>
 {% endif %}
 
@@ -164,4 +144,5 @@
   </ul>
 </div>
 {% endif %}
-{% endif %}
+{% endif %}{% comment %} // sidebar is not array or hash {% endcomment %}
+{% endif %}{% comment %} // sidebar is not "hide" {% endcomment %}
