@@ -18,7 +18,7 @@ We have already conducted a survey with a large MTurk sample with questions simi
     - break for lunch while data is being collected on MTurk
     - 1 hour and 45 minutes in the afternoon
       - 15 minutes: validate survey responses and pay MTurk data
-      - 60 minutes: analyze data
+      - 60 minutes: analyze a larger dataset that we collected for you
       - 30 minutes: discuss activity
 
 ## During group activity
