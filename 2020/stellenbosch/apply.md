@@ -19,9 +19,6 @@ Participation is restricted to registered Masters and Doctoral students and juni
 
 ---
 
-Applicants must submit a curriculum vitae. All applications must also provide information regarding their readiness to participate in SICSS-Stellenbosch virtually.
-
-**In order to be guaranteed full consideration, all application materials must be submitted before 31 May 2020. Successful applicants will be notified by 3 June 2020.**
-In order to apply, please submit your documents on <a href="https://airtable.com/shrD3a7aoxr8NvnFa">this</a> form.
+**Applications for SICSS-Stellenbosch 2020 have closed. Successful applicants will be notified by 3 June 2020.**
 
 Enquiries can be sent to <a href="mailto:sicss-stellenbosch@mail.suinformatics.com">sicss-stellenbosch@mail.suinformatics.com</a>.

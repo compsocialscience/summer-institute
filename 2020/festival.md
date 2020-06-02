@@ -8,9 +8,9 @@ The SICSS Festival 2020 will take place Monday, June 22 - Friday, June 26, 2020.
 
 ## Panel discussion on teaching computational social science
 
-__Time:__ Monday, June 22, 2020. 10-11am EDT
+__Time:__ Monday, June 22, 2020. 12-1pm EDT
 
-__Speakers:__ [Matti Nelimarkka](https://matti.mante.li/) (SICSS-Princeton 17) and [Rochelle Terman](http://rochelleterman.com/) (SICSS-Princeton 17)
+__Speakers:__ [Matti Nelimarkka](https://matti.mante.li/) (SICSS-Princeton 17), [Rochelle Terman](http://rochelleterman.com/) (SICSS-Princeton 17), and [Jae Yeon Kim](https://jaeyk.github.io/) (SICSS-Princeton 19)
 
 __Moderator:__ Matthew Salganik
 

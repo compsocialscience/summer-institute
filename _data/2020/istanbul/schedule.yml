@@ -1,23 +1,48 @@
 - date: All times are local Istanbul Time and All program will be Zoom-based.
 
 - date: 2020-05-31
+  name: Introduction to Pre-SICSS Period
   events:
-    - name: "Meet and Greet"
+    - name: "Meet and Introduce [Pre-SICSS Tasks](http://www.ninarva.com/markdowns/pre_SICSS_Istanbul.html#welcome)"
       time: "15:00-16:00"
+ 
+- date: 2020-06-02
+  name: Work on Pre-SICSS Tasks and Dinner Talks
+  events:
+    - name: "Debrief and Small Group Dinner Talks"
+      time: "19:30 - 20:15"
+     
+- date: 2020-06-05
+  name: Work on Pre-SICSS Tasks and Dinner Talks
+  events:
+    - name: "Debrief and Small Group Dinner Talks"
+      time: "19:30 - 20:15"   
       
-- date: 2020-06-01 - 2020-06-14 
-  name: Pre-SICSS Period
+- date: 2020-06-09
+  name: Work on Pre-SICSS Tasks and Dinner Talks
   events:
-    - name: "[Pre-SICSS Tasks](http://www.ninarva.com/markdowns/pre_SICSS_Istanbul.html#welcome)"
-       
+    - name: "Debrief and Small Group Dinner Talks"
+      time: "19:30 - 20:15"
+      
+- date: 2020-06-12
+  name: Work on Pre-SICSS Tasks and Dinner Talks
+  events:
+    - name: "Debrief and Small Group Dinner Talks"
+      time: "19:30 - 20:15"   
+
+- date: 2020-06-14
+  name: Group Formation and Evaluation of Pre-SICSS Tasks
+  events:
+    - name: "Closing Pre-SICSS and Whole Group Meeting"
+      time: "15:00 - 16:00"   
+      
 - date: 2020-06-15
-  name: Introduction and Ethics
+  name:  Ethics
   events:
-    - name: "Introductions and Group Formation"
-      time: "10:30 - 11:00"
+  
     - name: "[Discussion on Ethics](https://compsocialscience.github.io/summer-institute/curriculum)"
       time: "11:00 - 12:00"
-    - name: "Lunch"
+    - name: "Small Group Lunches(optional)"
       time: "12:00 - 13:00"
     - name: "Tutorial Session: Using Mobile Phones for Human Behaviour Understanding *by [Albert Ali Salah](http://www.staff.science.uu.nl/~salah006/)*"
       time: "13:00 - 15:00"
@@ -27,7 +52,7 @@
   events:
     - name: "[Discussion on Digital Trace Data](https://compsocialscience.github.io/summer-institute/curriculum)"
       time: "11:00 - 12:00"
-    - name: "Lunch"
+    - name: "Small Group Lunches(optional)"
       time: "12:00 - 13:00"
     - name: "Tutorial Session: [Data Journalism in Antropogene](https://docs.google.com/document/d/1JwMTz2JxHNFW0T4o6SmQyyARhyPmsPLRcSmTDxuNu_8/edit?usp=sharing) *by [Pinar Dag](https://twitter.com/pinardag)*"
       time: "13:00 - 15:00"
@@ -37,7 +62,7 @@
   events:
     - name: "[Discussion on Surveys in the Digital Age](https://compsocialscience.github.io/summer-institute/curriculum)"
       time: "11:00 - 12:00"
-    - name: "Lunch"
+    - name: "Small Group Lunches(optional)"
       time: "12:00 - 13:00"
     - name: "Tutorial Session: Computational Text Analysis *by [Matti Nelimarkka](https://matti.mante.li/)*"
       time: "13:00 - 15:00"
@@ -47,7 +72,7 @@
   events:
     - name: "[Discussion on Mass Collaboration](https://compsocialscience.github.io/summer-institute/curriculum)"
       time: "11:00 - 12:00"
-    - name: "Lunch"
+    - name: "Small Group Lunches(optional)"
       time: "12:00 - 13:00"
     - name: "Tutorial Session: Migration Route Spatial Forecasting *by [Akin Unver](https://www.akinunver.org/)*"
       time: "13:00 - 15:00"
@@ -57,7 +82,7 @@
   events:
     - name: "[Discussion on Network Analysis](http://codingsocialscience.org/book/r1/node56.html)"
       time: "11:00 - 12:00"
-    - name: "Lunch"
+    - name: "Small Group Lunches(optional)"
       time: "12:00 - 13:00"
     - name: "Tutorial Session: [Identifying Networks of Social Bots on Twitter Conversations](https://github.com/virallab/SICSS_Tutorial
 ) *by [Onur Varol](http://www.onurvarol.com/)*"
@@ -68,7 +93,7 @@
   events:
     - name: "[Discussion on Simulations and Complex Systems](http://codingsocialscience.org/book/r1/node95.html)"
       time: "11:00 - 12:00"
-    - name: "Lunch"
+    - name: "Small Group Lunches(optional)"
       time: "12:00 - 13:00"
     - name: "Tutorial Session: An Agent-Based Model of IMF Program Design *by [Merih Angin](https://womenalsoknowstuff.com/profile/merih-angin-1)*"
       time: "13:00 - 15:00"
@@ -79,28 +104,28 @@
 - date: 2020-06-22
   name: Work on Group Projects and Alumni Talks
   events:
-    - name: "Lunch and Alumni Talk"
+    - name: "Whole Group Lunch and Alumni Talk"
       time: "12:00 - 13:30"
 
 
 - date: 2020-06-23
   name: Work on Group Projects and Alumni Talks
   events:
-    - name: "Lunch and Alumni Talk"
+    - name: "Whole Group Lunch and Alumni Talk"
       time: "12:00 - 13:30"
 
 
 - date: 2020-06-24
   name: Work on Group Projects and Alumni Talks
   events:
-    - name: "Lunch and Alumni Talk"
+    - name: "Whole Group Lunch and Alumni Talk"
       time: "12:00 - 13:30"
 
 
 - date: 2020-06-25
   name: Work on Group Projects and Alumni Talks
   events:
-    - name: "Lunch and Alumni Talk"
+    - name: "Whole Group Lunch and Alumni Talk"
       time: "12:00 - 13:30"
 
       

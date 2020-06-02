@@ -10,6 +10,9 @@ Science. It is powered by [GitHub Pages](https://pages.github.com/),
   * [Default](#default)
   * [Home](#home)
 * [Navigation Links](#navigation-links)
+* [Sidebar](#sidebar)
+  * [Hiding the sidebar](#hiding-the-sidebar)
+  * [Customizing the sidebar](#customizing-the-sidebar)
 * [Adding Additional Pages](#adding-additional-pages)
 * [Homepage](#homepage)
 * [Adding a partner location](#adding-a-partner-location)
@@ -52,6 +55,34 @@ Curriculum example:
 ```
 
 Keep in mind that this `YAML` file controls both the generation of the sidebar and the video listing as well.
+
+# Sidebar
+
+By default, the sidebar links will be automatically generated for pages with
+a `layout` of: `people`, `locations`, or `host`. Additionally, if a page has
+set `partner_site`, then it will also have a sidebar automatically generated.
+
+## Hiding the sidebar
+
+You can hide the sidebar by adding the following to a page's front matter:
+```yaml
+sidebar: hide
+```
+
+## Customizing the sidebar
+
+You can also completely customize the sidebar updating the page's front
+matter to list the links for the sidebar:
+
+```yaml
+sidebar:
+  - name: "Link to anchor in current page"
+    url: "#anchor"
+  - name: "Link to another page"
+    url: "/summer-institute/curriculum"
+  - name: "Link to another site"
+    url: "https://www.allourideas.org/"
+```
 
 # Location specific pages
 

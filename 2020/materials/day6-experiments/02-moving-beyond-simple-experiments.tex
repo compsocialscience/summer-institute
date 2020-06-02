@@ -5,16 +5,18 @@
 \usepackage{framed}
 \usepackage{comment}
 
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%
-\title[]{Moving beyond simple experiments}
+\title[]{\textcolor{gray}{[What, why, and which experiments?]}, \newline [Moving beyond simple experiments], \textcolor{gray}{[Making it happen], \newline [Zero variable cost data and MusicLab], [3 Rs]}}
 \author[]{Matthew J. Salganik\\Department of Sociology\\Princeton University}
-\date[]{Summer Institutes in Computational Social Science\\June 22, 2019
-\vfill
-\begin{flushleft}
-{\scriptsize
-The Summer Institutes in Computational Social Science is supported by grants from the Russell Sage Foundation and the Alfred P. Sloan Foundation.}
-\end{flushleft}
+\date[]{
 \begin{flushright}
 \includegraphics[width=0.1\textwidth]{figures/cc-by.png}
 \end{flushright}
@@ -23,6 +25,28 @@ The Summer Institutes in Computational Social Science is supported by grants fro
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \frame{\titlepage}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+
+\begin{columns}
+\begin{column}{.40\textwidth}
+\includegraphics[width=\textwidth]{figures/salganik_bit_2018_cover}
+\end{column}%
+
+\hfill%
+
+\begin{column}{.60\textwidth}
+1) Introduction \\
+2) Observing behavior \\
+3) Asking questions \\
+\textcolor{blue}{4) Running experiments} \\
+5) Mass collaboration \\
+6) Ethics \\
+7) The future \\
+\end{column}%
+\end{columns}
+
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
 \Large{
@@ -112,7 +136,7 @@ If you want to move beyond simple experiments:
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
-Validity
+Validity \pause
 \begin{itemize}
 \item statistical conclusion validity
 \item internal validity
@@ -124,7 +148,7 @@ Validity
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
-Heterogeneous treatment effects 
+Heterogeneous treatment effects \pause
 \begin{itemize}
 \item lots of people, lots of pre-treatment information: stop treating people like widgets
 \pause
@@ -137,7 +161,7 @@ Heterogeneous treatment effects
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
-Mechanisms
+Mechanisms \pause
 \begin{itemize}
 \item Not as easy as scurry and limes, ``Enough already about black box experiments''  \textcolor{blue}{\href{http://dx.doi.org/10.1177/0002716209351526}{Green et al (2010)}}
 \pause
@@ -159,15 +183,7 @@ This is particularly important if you want to partner with the powerful.  But it
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-\Large{
-\begin{center}
-Questions?
-\end{center}
-}
-
-\end{frame}
+\frame{\titlepage}
 %%%%%%%%%%%%%%%%%%%%%%%
 
 
