@@ -9,7 +9,7 @@
       time: "13:00 - 15:00"
     - name: "<b>Break</b>"
       time: "15:00 - 15:15"
-    - name: "<b>Introduce Digital Trace Data and Debrief</b>"
+    - name: "<b>Introduce Digital Trace Data and Debrief on Day 1</b>"
       time: "15:15 - 16:30"
 
 
@@ -17,13 +17,15 @@
   name: "<b>Digital Trace Data</b>"
   events:
 
-    - name: "<b>Activity on Digital Trace Data</b>"
+    - name: "<b>Welcome and Activity on Digital Trace Data Phase 1</b>"
       time: "10:00 - 11:45"
     - name: "<b>Group Lunch</b>"
       time: "12:00 - 13:00"
-    - name: "<b>Applying Digital Trace Data</b> (Michael Kenwick)"
+    - name: "<b>Applications with Geographic Data</b> (Michael Kenwick)"
       time: "13:30 - 15:00"
-    - name: "<b>Activity on Digital Trace Data</b>"
+    - name: "<b>Activity on Digital Trace Phase 2 Data</b>"
+      time: "15:30 - 17:00
+    - name: "<b>Debrief on Day Two</b>"
       time: "15:30 - 17:00"
 
 - date: 2020-06-17
