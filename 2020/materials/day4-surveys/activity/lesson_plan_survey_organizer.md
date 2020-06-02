@@ -1,7 +1,7 @@
 # Lesson Plan for Organizers
 ## Summer Institutes in Computational Social Science 2020
-## Day 4, Surveys
-## Prepared by Matt Salganik and Robin Lee
+Day 4, Surveys  
+Prepared by Matt Salganik and Robin Lee
 
 ### Summary
 
@@ -29,20 +29,13 @@ Form groups of 3 people. We changed the recommendation of groups of 5 to 3 this 
 
 ### Schedule
 
-2 hour and 45 minutes
-1 hour in the morning
-1 hour and 45 minutes in the afternoon
+2 hour and 45 minutes total: 1 hour in the morning, 1 hour and 45 minutes in the afternoon
 
--- 
-60 minutes: Prepare and deploy surveys
-
-Break for lunch while data is being collected
-
-15 minutes: Validate survey responses and pay MTurk data
-
-60 minutes: Analyze data
-
-30 minutes: Discuss activity
+- 60 minutes: Prepare and deploy surveys
+- Break for lunch while data is being collected
+- 15 minutes: Validate survey responses and pay MTurk data
+- 60 minutes: Analyze data 
+- 30 minutes: Discuss activity
 
 For morning activity, there should be sufficient time when participants start with our template survey. Participants may choose to select their own questions from other survey questions and implement different set of questions on Google survey. However, they should at least allocate 30 minutes to deploy a complete survey on MTurk.
 
@@ -92,7 +85,7 @@ In August 2018, the ATP switched from telephone to address-based recruitment. In
 
 The U.S. Postal Service’s Delivery Sequence File has been estimated to cover as much as 98% of the population, although some studies suggest that the coverage could be in the low 90%range.
 
-![Recruitment methods for the panel respondents](ATP_panel_recruitment.png)
+![Recruitment methods for the panel respondents](https://www.pewresearch.org/methods/wp-content/uploads/sites/10/2019/12/12.12.19_ATP-update.png?resize=640,510)
 
 #### Administration of the survey
 
