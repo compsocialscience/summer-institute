@@ -1,3 +1,68 @@
-- date: 2020-07-28
+- date: "Schedule Overview"
   events:
-    - name: "Schedule coming soon..."
+    - name: "SICSS-Stellenbosch is held virtually using a combination of asynchronous video lectures, semi-synchronous group exercises and synchronous group feedback sessions. Each day follows roughly the same schedule, as shown in this section."
+    - name: "Morning: Approximately 2h of video lectures to be watched privately to prepare for the afternoon and evening sessions."
+    - name: "Afternoon: Group exercise to be completed in small groups of participants using Slack and Zoom to coordinate and work through the exercise."
+    - name: "Evening (17:30-18:30): One-hour synchronous session with all participants to review the day's activities."
+
+- date: "Monday 8 June 2020"
+  events:
+    - name: "Welcome and Introduction"
+    - name: "Introduction to R and R Studio"
+
+- date: "Tuesday 9 June 2020"
+  events:
+    - name: "Data Transformation in R"
+
+- date: "Wednesday 10 June 2020"
+  events:
+    - name: "Working with Data"
+
+- date: "Thursday 11 June 2020"
+  events:
+    - name: "Data Types in R"
+
+- date: "Friday 12 June 2020"
+  events:
+    - name: "Data Visualisation"
+
+- date: "Monday 15 June 2020"
+  events:
+    - name: "Introduction to Computational Social Science"
+    - name: "Why SICSS"
+    - name: "Ethics in CSS"
+    - name: "Four Areas of Difficulty"
+
+- date: "Tuesday 16 June 2020"
+  events:
+    - name: "Collecting Digital Trace Data"
+    - name: "Strengths and Weaknesses of Digital Trace Data"
+    - name: "Screen Scraping"
+    - name: "APIs"
+
+- date: "Wednesday 17 June 2020"
+  events:
+    - name: "History of Quantitative Text Analysis"
+    - name: "Basic Text Analysis"
+    - name: "Dictionary Based Text Analysis"
+    - name: "Topic Models"
+    - name: "Text Networks"
+
+- date: "Thursday 18 June 2020"
+  events:
+    - name: "Git for Data Analysis"
+    - name: "Social Network Analysis"
+    - name: "Modelling and Machine Learning"
+
+- date: "Friday 19 June 2020"
+  events:
+    - name: "Survey Research in the Digital Age"
+    - name: "Sampling"
+    - name: "Computer Administered Interviews"
+    - name: "Combining Surveys and Big Data"
+    - name: "Experiments in the Digital Age"
+
+- date: "Monday 22 - Friday 26 June"
+  events:
+    - name: "SICSS Festival"
+    - name: "Guest Lectures (to be announced)"
