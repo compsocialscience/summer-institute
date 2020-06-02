@@ -32,11 +32,10 @@ We have already conducted a survey with a large MTurk sample with questions simi
   
 ### Afternoon session: 
 1. After the data has been collected, validate survey and pay MTurk workers. 
-  - Remove all personally-identifying information, i.e. the MTurk worker ID:
   - Download the CSV of responses from Google Forms.
-  - If you used an attention screener, delete responses that did not meet the criteria.
   - Check to make sure that all of your MTurk workers actually took the survey by comparing the list of Worker IDs provided in the survey data against the Worker IDs recorded by the MTurk platform. [2] 
-  - Pay MTurk workers that complete valid survey. 
+  - Pay MTurk workers that completed valid surveys. 
+  - If you used an attention screener, delete responses that did not meet the criteria.
   - Remove redundant entries, if any.
   - After you have used the Worker ID data to validate answers and to remove redundant entries, delete it from your dataset. The Worker ID is a unique string that can be used to personally identify people.
   
