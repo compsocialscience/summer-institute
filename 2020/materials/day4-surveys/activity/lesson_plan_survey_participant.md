@@ -4,6 +4,7 @@ Summer Institute in Computational Social Science 2020
 
 How accurate are estimates from non-probability-based online surveys? Can results from online surveys administered to non-probability-based samples generalize to the broader population? In this activity, we will conduct a survey on MTurk workers and try a variety of estimation techniques. Then, we will compare our estimates to those that come from high-quality probability-based samples used by the Pew Research Center.
 In the process, we will gain experience with writing survey questionnaires, creating surveys on Google Forms, publishing surveys on MTurk, data wrangling, implementing various weighting methods, and thinking about broader issues related to survey errors and data quality. Please read the entire activity before beginning.
+
 Note: This assignment uses Google Forms as the survey tool because it is free. See appendix for comments about using Qualtrics, a more sophisticated platform that requires payment or institutional support.
 
 ## Before group activity
@@ -31,7 +32,7 @@ We have already conducted a survey with a large MTurk sample with questions simi
   - (Optional) Decide what validation techniques to check responses quality
   - Make sure you preview the survey on Google Forms before you publish it on MTurk. Check if it can be completed within 6 minute. 
   
-2. Deploy your survey to MTurk. We estimate that the survey will take about 6 minutes, and we would like to pay an hourly wage of $15 per hour so you should pay $1.50 per completed survey. (Getting great survey results from MTurk and Google Forms)
+2. Deploy your survey to MTurk. We estimate that the survey will take about 6 minutes, and we would like to pay an hourly wage of $15 per hour so you should pay $1.50 per completed survey. 
   - For participants of SICSS-Duke: We have created MTurk accounts for you to use. Please create your tasks from these accounts with the pre-loaded funds. If you use your own account for data collection, we won't be able to reimburse you.
   - If you do not have funds allocated for MTurk, you may ask other participants and your friends and family to fill in the survey to construct a non-probability-based sample.
   
@@ -39,8 +40,8 @@ We have already conducted a survey with a large MTurk sample with questions simi
 1. After the data has been collected, validate survey and pay MTurk workers. 
   - Download the CSV of responses from Google Forms.
   - Check to make sure that all of your MTurk workers actually took the survey by comparing the list of Worker IDs provided in the survey data against the Worker IDs recorded by the MTurk platform. [2] 
-  - Pay MTurk workers that completed valid surveys. 
   - If you used an attention screener, delete responses that did not meet the criteria.
+  - Pay MTurk workers that completed valid surveys. 
   - Remove redundant entries, if any.
   - After you have used the Worker ID data to validate answers and to remove redundant entries, delete it from your dataset. The Worker ID is a unique string that can be used to personally identify people.
   
@@ -54,13 +55,10 @@ We have already conducted a survey with a large MTurk sample with questions simi
   - Due to the time constraint, it is unlikely that there will be sufficient time for model-based stratification. We provide the instruction on how to do them in the code [here](survey_activity_2020_solution.Rmd). 
 
 
-## Tips and additional resources
-  -   You might want to divide the work among group members, including creating the survey on Google Forms, reshaping data files, breaking up the analysis into modular functions, etc.
+## Additional resources
   -   [Here](https://psrc.princeton.edu/our-services/using-mturk) are some more resources on web surveys and [here](https://mturkpublic.s3.amazonaws.com/docs/MTURK_BP.pdf) is Amazon's best practices for MTurk Requesters.
   -   [Here](https://doi.org/10.1177/2515245917747656) is a paper about practical tips for ethical data sharing.
   -   [Here](https://arxiv.org/pdf/1809.00103.pdf) is a case study of some of the issues that come up with data sharing.
-
-## Further reading
   -   Dutwin and Buskirk. ["Apples to Oranges or Gala versus Golden Delicious?: Comparing Data Quality of Nonprobability Internet Samples to Low Response Rate Probability Samples"](https://academic.oup.com/poq/article/81/S1/213/3749202/Apples-to-Oranges-or-Gala-versus-Golden-Delicious)
   -   Baker et al. ["Summary Report of the AAPOR Task Force on Non-probability Sampling"](https://academic.oup.com/jssam/article/1/2/90/941418/Summary-Report-of-the-AAPOR-Task-Force-on-Non)
   -   Kalton and Flores-Cervantes ["Weighting methods"](http://www.jos.nu/Articles/abstract.asp?article=192081)
