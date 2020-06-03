@@ -17,8 +17,8 @@ In this activity, participants will work in groups to deploy an attitude survey 
 
 ### Instruction preparation
 
-To prepare for this activity you should: [UPDATE with New Link & Estimate how much per group]
-- Read the [slides](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/05-intro-to-activity.pdf) that I will use to introduce the activity
+To prepare for this activity you should: 
+- Read the [slides](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day4-surveys/05-intro-to-activity.pdf) that I will use to introduce the activity
 - Read the [paper](https://5harad.com/papers/dirtysurveys.pdf) that inspired this activity
 - Prepare one temporary MTurk account for each group that will be collecting data (if funding is available to support this data collection)
 - Set up collaboration tools on programming exercise 
@@ -41,18 +41,6 @@ For morning activity, there should be sufficient time when participants start wi
 
 For afternoon activity, participants may choose to use our clean data to practice making comparison graphs and cell-based post-stratification. We have provided template code. We estimate it will take close to one hour to analyze data starting from a clean data and use our template code. However, if participants choose to continue with questions that are not from our template, they would need to obtain the survey benchmark estimate on their own. Also, it is likely that they would spend more time on data wrangling. 
 
-### Activity Checklist for Participants
-- Decide on questions to replicate based on example template
-- Type in questions in Google Form
-- Include consent statement
-- Include MTurk worker ID in Google Form
-- Include demographics questions based on American Community Survey examples [include link]
-- (Optional) Decide what validation techniques to check responses quality
-- Test run your survey to see if it can be completed in 6 minutes
-- Create an MTurk Task ($1.5 per task for a 6 minute survey to ensure $15/hour wage)
-- Pay Turk Workers
-- (Optional) Validate responses 
-
 ### Key Tasks for Organizers and TA if you do use MTurk for data collection
 - Double-check groups have included consent statement and Turk worker ID in the survey by 11:15 AM
 - Double-check groups have paid Turk workers by 2PM
@@ -74,7 +62,7 @@ For afternoon activity, participants may choose to use our clean data to practic
 
 ### Sources of Survey Questions
 
-We draw the questions from Pew Research. To minimize the need to do data wrangling, we only picked questions that yield binary responses. 
+We draw the questions from Pew Research. To minimize the need to do data wrangling, we only picked questions that yield binary responses. Below is a summary of the methodology. Read more about the methodology [here](https://www.pewresearch.org/methods/u-s-survey-research/american-trends-panel/). 
 
 #### Recruitment
 The current respondents were recruited through both phone call survey and mail-in forms.
