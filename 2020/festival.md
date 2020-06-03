@@ -16,7 +16,7 @@ __Moderator:__ Matthew Salganik
 
 __Description:__ Teaching computational social science at both the undergraduate and graduate level presents a number of challenging pedagogical questions. How should we teach a class with students from different disciplinary backgrounds?  What is the role of programming in computational social science education? How should computational social science courses fit into a larger curriculum?  The panelists will address these questions---and others---first in a moderated conversation and then will take questions from the audience.   
 
-__Open to:__ Unlimited registered participants: Link to registration form coming soon
+__Open to:__ Unlimited registered participants: [Registration form](https://forms.gle/mCdyY2VPZdLGjqKTA)
 
 __Archiving:__ This talk will be recorded and archived.
 
@@ -30,7 +30,7 @@ __Moderator:__ Matthew Salganik
 
 __Description:__ In order to thrive, the field of computational social science requires contributions from people from different intellectual backgrounds and different life experiences. The panelists will discuss their own efforts to increase diversity in computational social science, describe why they think this work is important, explain what other efforts are underway now, and what they think should be done in the future.  There will also be time for the audience to submit written questions to be asked by the moderator.
 
-__Open to:__ Unlimited registered participants: Link registration form coming soon
+__Open to:__ Unlimited registered participants: [Registration form](https://forms.gle/vxH5i1FgKfKXzP8P7)
 
 __Archiving:__ This talk will be recorded and archived.
 
@@ -42,13 +42,13 @@ __Speakers:__ [Abdullah Almaatouq](http://www.amaatouq.com/) (SICSS-Princeton 17
 
 __Description:__ [Empirica](https://empirica.ly/) is a new open source software platform for developing and conducting synchronous and interactive human-subject experiments.  It has already been used by researchers around the world. This session will start with a live demonstration where participants will take part in a real-time experiment involving dozens of people.  Next, the data from that experiment will be downloaded and analyzed.  Thus, participants will have a behind-the-scenes, end-to-end experience with an experiment run with Emprica. Finally, there will be time for questions and discussion about Empirica and the future of experiments in the social sciences.
 
-__Open to:__ Up to 30 registered participants: Registration form coming soon
+__Open to:__ Up to 30 registered participants: [Registration form](https://forms.gle/eziGBbMQE4VxP1tT9)
 
 __Preparatory materials:__ All registered participants are strongly encouraged to work through and watch Empirica videos A - E (link coming soon), which will require them to [install software](https://empirica.ly/docs/quick-start.html) on their computers.
 
 __Archiving:__ This talk will be recorded and archived.
 
-## Creating open sources software as part of an academic career
+## Creating open source software as part of an academic career
 
 __Time:__ Thursday, June 25, 2020. 11am-12pm EDT
 
@@ -58,7 +58,7 @@ __Moderator:__ Matthew Salganik
 
 __Description:__ Almost all computational social science depends on open source software, yet very few computational social scientists actually contribute to open source software.  These panelists will share their experiences developing open source software as part of an academic career, and they will offer advice for others who want to contribute to existing open source projects or start new ones.  There will be time for questions from the audience.
 
-__Open to:__ Unlimited registered participants: Link registration form coming soon
+__Open to:__ Unlimited registered participants: [Registration form](https://forms.gle/AUF65qz4sZmVve288)
 
 __Archiving:__ This talk will be recorded and archived.
 
@@ -73,6 +73,6 @@ __Moderator:__ Matthew Salganik
 
 __Description:__ Most big data sources are controlled by companies, and many computational social scientists struggle to get access to these data. These panelists, who have experience collaborating with companies on research projects, will share insights about initiating, developing, and maintaining productive collaborations between researchers and companies. They will discuss practical issues, such as negotiating data usage agreements and navigating legal considerations for both parties, as well as describe potential risks and ethical issues created by these collaborations. There will be time for questions from the audience.
 
-__Open to:__ Unlimited registered participants: Link registration form coming soon
+__Open to:__ Unlimited registered participants: [Registration form](https://forms.gle/j8qkaSysvzJgAoB38)
 
 __Archiving:__ This talk will be recorded and archived.
