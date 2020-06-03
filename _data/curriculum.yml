@@ -1,6 +1,6 @@
 - day: Day 1
   id: day_2020_1
-  topic: "[Introduction and Ethics](#day-1)"
+  topic: [Introduction and Ethics](#day-1)
   events:
     - name: "Introduction to Computational Social Science"
       video: "https://www.youtube.com/embed/zGG9wPl1C5E"
@@ -49,7 +49,7 @@
     
 - day: Day 2
   id: day_2020_2
-  topic: "[Collecting Digital Trace Data](#day-2)"
+  topic: [Collecting Digital Trace Data](#day-2)
   events:
     - name: "What is digital trace data?"
       video: "https://www.youtube.com/embed/uuSWQN7uYhk"
@@ -102,19 +102,19 @@
     
 - day: Day 3
   id: day_3
-  topic: "[Automated Text Analysis (coming soon)](#day-3)"
+  topic: [Automated Text Analysis (coming soon)](#day-3)
 
 - day: Day 4
   id: day_4
-  topic: "[Surveys in the Digital Age (coming soon)](#day-4)"
+  topic: [Surveys in the Digital Age (coming soon)](#day-4)
 
 - day: Day 5
   id: day_5
-  topic: "[Mass Collaboration (coming soon)](#day-5)"
+  topic: [Mass Collaboration (coming soon)](#day-5)
 
 - day: Day 6
   id: day_6
-  topic: "[Experiments (coming soon)]](#day-6)"
+  topic: [Experiments (coming soon)]](#day-6)
 
 - day: Archived materials from 2019 are available below
   id: day_2019_0
