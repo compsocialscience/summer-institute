@@ -9,6 +9,9 @@
   events:
     - name: "Welcome and Introduction"
     - name: "Introduction to R and R Studio"
+  events:
+  - name: "This session is based around chapters 2,4,6, and 8 of R 4 Data Science. It is important that you work through the chapters completely to understand the important basics fo working in R before we move forward with more advanced concepts. First, as shown in the video, download R and Rstudio."
+  - name: "There are no exercises for this session, your task is to get setup with R and RStudio and work through the above chapters before we start working with the tidyverse tomorrow."
 
 - date: "Tuesday 9 June 2020"
   events:
