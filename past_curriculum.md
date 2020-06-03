@@ -1,9 +1,9 @@
 ---
-layout: curriculum
+layout: past_curriculum
 title: Learning Materials from Past Years
 subtitle: Open source teaching and learning resources for computational social science.
 sidebar:
-  - name: "Current year materials"
+  - name: "Materials from the latest year"
     url: "/summer-institute/curriculum"
   - name: "Visiting speakers"
     url: "https://www.youtube.com/playlist?list=PL9UNgBC7ODr4iBr8nspxJKmZY85OXG8a3"
