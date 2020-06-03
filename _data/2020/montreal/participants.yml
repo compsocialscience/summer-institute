@@ -7,8 +7,8 @@
   bio: 
  
 - name: Giorgio Barnabò
-  image: 
-  bio: 
+  image: /2020/montreal/images/Foto_GiorgioBarnabò.jpg
+  bio: "Giorgio Barnabò graduated in Applied Statistics and is now a Ph.D. candidate in Data Science at the Department of Cumputer Engineering, Sapienza University, Rome - Italy. His research focuses on Algorithmic Fairness, and Affirmative Action policies. Recently, he started applying advanced NLP techniques (i.e. Bert like language models) to online contents in order to study how narratives are created and spread in the online world."
   
 - name: Fatim Diabagaté 
   image: /2020/montreal/images/Fatim_diabate.jpg
@@ -25,6 +25,10 @@
 - name: Matthew Martin
   image: /2020/montreal/images/Mattew_Martin.jpg
   bio: "Matthew Martin is a PhD Candidate in the Cognitive Informatics program at L'Université du Québec à Montréal (UQAM, Canada). He is also an analyst at The Decision Lab, a non-profit think-tank that uses behavioural science to improve decision-making. His research interest is in finding or creating the best tools for aiding decision-making and subjecting them to rigorous empirical analysis. He holds a Master's degree in psychology and a Bachelor's degree in cognitive science."
+  
+- name: Georges Alain Tchango Ngalé 
+  image: /2020/montreal/images/Photo_Georges.jpg
+  bio: "Georges Alain Tchango Ngalé est actuellement candidat au PhD en démographie à l’Université de Montréal et participe aux activités de recherche dans le cadre du projet « Trajectoires de participation des immigrants et des immigrantes à la société québécoise » (TrajIPaQ) du département de démographie. Dans le cadre de son projet de thèse, il s’intéresse aux relations entre la santé des immigrants et leur participation/intégration au sein de la société québécoise, et mobilise pour ce faire une approche méthodologique mixte. Plus globalement, ses champs d’intérêt heuristique portent sur la santé des populations et les violences basées sur le genre, en essayant de suivre autant que possible une perspective croisée entre le parcours de vie et l’intersectionnalité."
   
 - name: David Pelletier
   image: /2020/montreal/images/David_Pelletier_photo.jpeg   
