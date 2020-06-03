@@ -71,7 +71,7 @@ Pew Research created the American Trends Panel in 2014. Between 2014 and 2017, t
 
 In August 2018, the ATP switched from telephone to address-based recruitment. Invitations were sent to a random, address-based sample (ABS) of households selected from the U.S. Postal Service’s Delivery Sequence File. In each household, the adult with the next birthday was asked to go online to complete a survey, at the end of which they were invited to join the panel. Households without internet access were instructed to return a postcard. These households were contacted by telephone and sent a tablet and free internet service if they agreed to participate. 
 
-The U.S. Postal Service’s Delivery Sequence File has been estimated to cover as much as 98% of the population, although some studies suggest that the coverage could be in the low 90%range.
+The U.S. Postal Service’s Delivery Sequence File has been estimated to cover as much as 98% of the population, although some studies suggest that the coverage could be in the low 90% range.
 
 ![Recruitment methods for the panel respondents](https://www.pewresearch.org/methods/wp-content/uploads/sites/10/2019/12/12.12.19_ATP-update.png?resize=640,510)
 
