@@ -5,7 +5,7 @@ Prepared by Matt Salganik and Robin Lee
 
 ### Summary
 
-In this activity, participants will work in groups to deploy an attitude survey to Amazon Mechanical Turk (MTurk).  Then, they can use a data set that we have pre-collected from MTurk and weight the data to attempt to recover estimates from a high-quality probability sample. This survey is a US-centric.  
+In this activity, participants will work in groups to deploy an attitude survey to Amazon Mechanical Turk (MTurk).  Then, they can use a data set that we have pre-collected from MTurk and weight the data to attempt to recover estimates from a high-quality probability sample. This survey is US-centric.  
 
 ### Learning objectives
 
