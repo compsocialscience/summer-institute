@@ -1,46 +1,62 @@
 - date: "Schedule Overview"
   events:
     - name: "SICSS-Stellenbosch is held virtually using a combination of asynchronous video lectures, semi-synchronous group exercises and synchronous group feedback sessions. Each day follows roughly the same schedule, as shown in this section."
-    - name: "Morning: Approximately 2h of video lectures to be watched privately to prepare for the afternoon and evening sessions."
-    - name: "Afternoon: Group exercise to be completed in small groups of participants using Slack and Zoom to coordinate and work through the exercise."
-    - name: "Evening (17:30-18:30): One-hour synchronous session with all participants to review the day's activities."
+    - name: "**Morning**<br/>Approximately 2h of video lectures to be watched privately to prepare for the afternoon and evening sessions."
+    - name: "**Afternoon**<br/>Group exercise to be completed in small groups of participants using Slack and Zoom to coordinate and work through the exercise."
+    - name: "**Evening (17:30-18:30)**<br/>One-hour synchronous session with all participants to review the day's activities."
 
-- date: "Monday 8 June 2020"
+- date: "Week One: Introduction to R"
   events:
-    - name: "Welcome and Introduction"
-    - name: "Introduction to R and R Studio"
+    - name: "**About the Exercises**<br/>It is important that you work through the chapters completely to understand all of the important concepts (both those covered in the session and the rest covered in the chapter). Afterwards, we have extracted a number of relevant exercises from the chapter to work through. For these exercises you can use the provided notebooks and data [here](https://github.com/dougaparry/Intro-to-R) to get started (download the full repo as a zip file). While the solutions for the exercises can be found on the Internet, we encourage you to work through the exercises using the chapter first to get used to solving problems with R."
 
-- date: "Tuesday 9 June 2020"
+- date: "Day One (Monday 8 June 2020)"
+  events:
+    - name: "**09:00-10:00** Welcome and Introduction"
+    - name: "Introduction to R and R Studio"
+    - name: "This session is based around chapters 2, 4, 6, and 8 of R 4 Data Science. It is important that you work through the chapters completely to understand the basics of working in R before we move forward with more advanced concepts. First, as shown in the video, download and install R and Rstudio. There are no exercises for this session, your task is to get setup with R and RStudio and work through the relevant chapters before we start working with the tidyverse tomorrow."
+    - name: "_Relevant Chapters:_ [Chapter 2](https://r4ds.had.co.nz/explore-intro.html), [Chapter 4](https://r4ds.had.co.nz/workflow-basics.html), [Chapter 6](https://r4ds.had.co.nz/workflow-scripts.html), [Chapter 8](https://r4ds.had.co.nz/workflow-projects.html)."  
+
+- date: "Day Two (Tuesday 9 June 2020)"
   events:
     - name: "Data Transformation in R"
+    - name: "_Relevant Chapters:_ [Chapter 5](https://r4ds.had.co.nz/transform.html)."
+    - name: "_Exercises available [here](https://github.com/dougaparry/Intro-to-R/blob/master/Exercises/1_Tuesday.md)._"
 
-- date: "Wednesday 10 June 2020"
+- date: "Day Three (Wednesday 10 June 2020)"
   events:
-    - name: "Working with Data"
+    - name: "Working with Data in R"
+    - name: "_Relevant Chapters:_ [Chapter 11](https://r4ds.had.co.nz/data-import.html), [Chapter 12](https://r4ds.had.co.nz/tidy-data.html), [Chapter 13](https://r4ds.had.co.nz/relational-data.html)."
+    - name: "_Exercises available [here](https://github.com/dougaparry/Intro-to-R/blob/master/Exercises/2_Wednesday.md)._"
 
-- date: "Thursday 11 June 2020"
+- date: "Day Four (Thursday 11 June 2020)"
   events:
     - name: "Data Types in R"
+    - name: "_Relevant Chapters:_ [Chapter 14](https://r4ds.had.co.nz/strings.html), [Chapter 15](https://r4ds.had.co.nz/factors.html), [Chapter 16](https://r4ds.had.co.nz/dates-and-times.html), [Chapter 20](https://r4ds.had.co.nz/vectors.html)." 
+    - name: "_Exercises available [here](https://github.com/dougaparry/Intro-to-R/blob/master/Exercises/3_Thursday.md)._"
 
-- date: "Friday 12 June 2020"
+- date: "Day Five (Friday 12 June 2020)"
   events:
     - name: "Data Visualisation"
+    - name: "_Relevant Chapters:_ [Chapter 3](https://r4ds.had.co.nz/data-visualisation.html), [Chapter 28](https://r4ds.had.co.nz/graphics-for-communication.html)."
+    - name: "_Exercises available [here](https://github.com/dougaparry/Intro-to-R/blob/master/Exercises/4_Friday.md)_"
 
-- date: "Monday 15 June 2020"
+- date: "Week Two: Introduction to Computational Social Science"
+
+- date: "Day Six (Monday 15 June 2020)"
   events:
     - name: "Introduction to Computational Social Science"
     - name: "Why SICSS"
     - name: "Ethics in CSS"
     - name: "Four Areas of Difficulty"
 
-- date: "Tuesday 16 June 2020"
+- date: "Day Seven (Tuesday 16 June 2020)"
   events:
     - name: "Collecting Digital Trace Data"
     - name: "Strengths and Weaknesses of Digital Trace Data"
     - name: "Screen Scraping"
     - name: "APIs"
 
-- date: "Wednesday 17 June 2020"
+- date: "Day Eight (Wednesday 17 June 2020)"
   events:
     - name: "History of Quantitative Text Analysis"
     - name: "Basic Text Analysis"
@@ -48,13 +64,13 @@
     - name: "Topic Models"
     - name: "Text Networks"
 
-- date: "Thursday 18 June 2020"
+- date: "Day Nine (Thursday 18 June 2020)"
   events:
     - name: "Git for Data Analysis"
     - name: "Social Network Analysis"
     - name: "Modelling and Machine Learning"
 
-- date: "Friday 19 June 2020"
+- date: "Day Ten (Friday 19 June 2020)"
   events:
     - name: "Survey Research in the Digital Age"
     - name: "Sampling"
@@ -62,7 +78,9 @@
     - name: "Combining Surveys and Big Data"
     - name: "Experiments in the Digital Age"
 
-- date: "Monday 22 - Friday 26 June"
+- date: "Week Three: SICSS Festival"
+
+- date: "Days 11-15 (Monday 22 - Friday 26 June 2020)"
   events:
     - name: "SICSS Festival"
     - name: "Guest Lectures (to be announced)"
