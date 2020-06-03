@@ -11,11 +11,7 @@
     - name: "Introduction to R and R Studio"
   events:
   - name: "This session is based around chapters 2, 4, 6, and 8 of R 4 Data Science. It is important that you work through the chapters completely to understand the basics of working in R before we move forward with more advanced concepts. First, as shown in the video, download and install R and Rstudio. There are no exercises for this session, your task is to get setup with R and RStudio and work through the relevant chapters before we start working with the tidyverse tomorrow."
-  - name: "Relevant Chapters"
-  - name: "[Chapter 2](https://r4ds.had.co.nz/explore-intro.html)"
-  - name: "[Chapter 4](https://r4ds.had.co.nz/workflow-basics.html)"
-  - name: "[Chapter 6](https://r4ds.had.co.nz/workflow-scripts.html)"
-  - name: "[Chapter 8](https://r4ds.had.co.nz/workflow-projects.html)"  
+  - name: "Relevant Chapters: [Chapter 2](https://r4ds.had.co.nz/explore-intro.html), [Chapter 4](https://r4ds.had.co.nz/workflow-basics.html), [Chapter 6](https://r4ds.had.co.nz/workflow-scripts.html), [Chapter 8](https://r4ds.had.co.nz/workflow-projects.html)"  
 
 - date: "Tuesday 9 June 2020"
   events:
