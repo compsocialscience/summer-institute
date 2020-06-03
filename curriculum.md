@@ -3,9 +3,21 @@ layout: curriculum
 title: Learning Materials
 subtitle: Open source teaching and learning resources for computational social science.
 sidebar:
+  - name: "Day 1"
+    url: "#day-1"
+  - name: "Day 2"
+    url: "#day-2"
+  - name: "Day 3"
+    url: "#day-3"
+  - name: "Day 4"
+    url: "#day-4"
+  - name: "Day 5"
+    url: "#day-5"
+  - name: "Day 6"
+    url: "#day-6"
   - name: "Visiting speakers"
     url: "https://www.youtube.com/playlist?list=PL9UNgBC7ODr4iBr8nspxJKmZY85OXG8a3"
-  - name: "Lectures from previous years"
+  - name: "Previous years"
     url: "/summer-institute/past_curriculum"
 ---
 

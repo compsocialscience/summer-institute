@@ -1,4 +1,4 @@
-- day: 2019 SICSS Day 1
+- day: SICSS 2019 Day 1
   id: day_2019_1
   topic: Introduction and Ethics
   events:
@@ -47,7 +47,7 @@
     - name: "Case study 2"
       resource: "https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf"       
 
-- day: 2019 SICSS Day 2
+- day: SICSS 2019 Day 2
   id: day_2019_2
   topic: Collecting Digital Trace Data
   events:
@@ -99,7 +99,7 @@
     - name: "Lesson plan"
       resource: "https://compsocialscience.github.io/summer-institute/2019/materials/day2-digital-trace-data/Group_Exercise_Day_2.html"
 
-- day: 2019 SICSS Day 3
+- day: SICSS 2019 Day 3
   id: day_2019_3
   topic: Automated Text Analysis
   events:
@@ -153,7 +153,7 @@
     - name: "Lesson plan"
       resource: "https://compsocialscience.github.io/summer-institute/2019/materials/day3-text-analysis/SICSS_Group_Exercise_Day_3.html"
 
-- day: 2019 SICSS Day 4
+- day: SICSS 2019 Day 4
   id: day_2019_4
   topic: Surveys in the Digital Age
   events:
@@ -197,7 +197,7 @@
     - name: "Lesson plan"
       resource: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/SICSS_survey_activity_2019.md"
 
-- day: 2019 SICSS Day 5
+- day: SICSS 2019 Day 5
   id: day_2019_5
   topic: Mass Collaboration
   events:
@@ -227,7 +227,7 @@
     - name: "Lesson plan"
       resource: "https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration.md"
           
-- day: 2019 SICSS Day 6
+- day: SICSS 2019 Day 6
   id: day_2019_6
   topic: Experiments in the Digital Age
   events:
