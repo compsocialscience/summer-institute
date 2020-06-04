@@ -34,12 +34,12 @@ Form groups of 3 people. We changed the recommendation of groups of 5 to 3 this 
 - 60 minutes: Prepare and deploy surveys
 - Break for lunch while data is being collected
 - 15 minutes: Validate survey responses and pay MTurk data
-- 60 minutes: Analyze data 
+- 60 minutes: Analyze data that we collected for participants.
 - 30 minutes: Discuss activity
 
-For morning activity, there should be sufficient time when participants start with our template survey. Participants may choose to select their own questions from other survey questions and implement different set of questions on Google survey. However, they should at least allocate 30 minutes to deploy a complete survey on MTurk.
+For morning activity, participants will spend 30 minutes creating a survey based on our template. In the template Google Forms, we have already typed up consent statement, attention checkers and demographic information. Once the survey has been created, they will spend 30 minutes to deploy a complete survey on MTurk.
 
-For afternoon activity, participants may choose to use our clean data to practice making comparison graphs and cell-based post-stratification. We have provided template code. We estimate it will take close to one hour to analyze data starting from a clean data and use our template code. However, if participants choose to continue with questions that are not from our template, they would need to obtain the survey benchmark estimate on their own. Also, it is likely that they would spend more time on data wrangling. 
+For afternoon activity, participants will validate the MTurk responses and then analyze the data we previously collected. We have provided template code. We estimate it will take close to one hour to analyze data starting from a clean data and use our template code. 
 
 ### Key Tasks for Organizers and TA if you do use MTurk for data collection
 - Double-check groups have included consent statement and Turk worker ID in the survey by 11:15 AM
@@ -51,13 +51,14 @@ For afternoon activity, participants may choose to use our clean data to practic
 - What are some trade-offs of using Mechanical Turk to recruit survey participants? Take a look at tasks available for MTurk workers. You don’t need to provide your name or address to view the tasks list. 
 - What would be the trade-offs between using self-administration survey and telephone interviewing?
 - What issues have you noticed while you’re implementing survey in Google Form that might affect how respondents answered the questions?
+- How important is it to open-source data that you have collected with other resesarchers?
+- What are things we should keep when open-sourcing data?
 
 ### Notes
 
-- Participants may choose to use questions from our template survey or implement their own. 
 - If you are collecting data when many people in the United States might be asleep (or not on MTurk), the data collection might be slower.  You can relax the location requirement if you wish.  The data we collected was from people in the United States, and your participants can do their analysis on that dataset.
 - If you do not have money for MTurk fees, you can have participants take the surveys that were created by other groups. You can also ask participants to distribute surveys with their friends and family since this activity is about recovering estimates from non-probability sampling. 
-- Due to constraint in time and change towards remote collaboration, the survey activity will not ask participants to archive and release of data. However, we will provide short tutorial to cover the concept and steps. 
+- Due to constraint in time and change towards remote collaboration, the survey activity will not ask participants to archive and release of data.
 - Please help participants have realistic expectations of what can be completed during this activity. It is likely that participants do not have time to complete model-based post-stratification. 
 
 ### Sources of Survey Questions
