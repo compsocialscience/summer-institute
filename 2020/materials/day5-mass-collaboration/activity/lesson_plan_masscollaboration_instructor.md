@@ -21,6 +21,7 @@ Well in advance of the activity (we recommend at least one full day), participan
 - Visit your [switchboard](https://opr.princeton.edu/archive/restricted/Switchboard.aspx) and sign up for access to the Fragile Families and Child Wellbeing Study. When asked about your plans for using the data, write "I will be participating in the Fragile Families Challenge as part of SICSS." You may also include any additional plans for using the data.
 - We approve these applications manually. Wait for an email from us.
 - Once approved, we will email you a zipped folder containing the Challenge files. These data are available on the [OPR data archive](https://opr.princeton.edu/archive/restricted/Default.aspx), but the folder we will email you contains additional helper files.
+- To open the zipped folder, you will need a password that we will post on Slack. Contact Ian Lundberg with questions.
 
 Familiarize yourself with the files. They include components to support participants who may be falling behind, including a pre-prepared data file.
 
