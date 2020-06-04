@@ -102,11 +102,83 @@
     
 - day: Day 3
   id: day_3
-  topic: "Automated Text Analysis (coming soon)"
+  topic: "Automated Text Analysis"  
+  events:
+    - name: "Introduction to text analysis"
+      video: "https://www.youtube.com/embed/pLsC4UyzX_U"
+      sublinks:
+        - link: "https://www.youtube.com/watch?v=pLsC4UyzX_U"
+          text: "Video"
+        - link: "https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/intro-text-analysis/Rpres"
+          text: "Slides"
+    - name: "Basics of Text Analysis"
+      video: "https://www.youtube.com/embed/TAlO-5NJB7I"
+      sublinks:
+        - link: "https://www.youtube.com/watch?v=TAlO-5NJB7I"
+          text: "Video"
+        - link: "https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/basic-text-analysis/Rpres"
+          text: "Slides"
+    - name: "Dictionary-Based Text Analysis"
+      video: "https://www.youtube.com/embed/wSIi2ZRKjaE"
+      sublinks:
+        - link: "https://www.youtube.com/watch?v=wSIi2ZRKjaE"
+          text: "Video"
+        - link: "https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/dictionary-methods/Rpres"
+          text: "Slides"
+    - name: "Topic Modeling"
+      video: "https://www.youtube.com/embed/T2ZRBi1oUME"
+      sublinks:
+        - link: "https://www.youtube.com/watch?v=T2ZRBi1oUME"
+          text: "Video"
+        - link: "https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/topic-modeling/Rpres/Topic_Modeling.html"
+          text: "Slides"
+    - name: "Text Networks"
+      video: "https://www.youtube.com/embed/-2dBI2ULcQw"
+      sublinks:
+        - link: "https://www.youtube.com/watch?v=-2dBI2ULcQw"
+          text: "Video"
+        - link: "https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/text-networks/Rpres"
+          text: "Slides"
 
 - day: Day 4
   id: day_4
-  topic: "Surveys in the Digital Age (coming soon)"
+  topic: "Surveys in the Digital Age"
+  events:
+    - name: "Survey research in the digital age"
+      video: "https://www.youtube.com/embed/j8fJGV17Hcg"
+      sublinks:
+        - link: "https://www.youtube.com/watch?v=j8fJGV17Hcg"
+          text: "Video"
+        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day4-surveys/01-survey-research-digital-age.pdf"
+          text: "Slides"
+    - name: "Probability and non-probability sampling"
+      video: "https://www.youtube.com/embed/SLAi9v5CCnM"
+      sublinks:
+        - link: "https://www.youtube.com/watch?v=SLAi9v5CCnM"
+          text: "Video"
+        - link: "https://github.com/compsocialscience/summer-institute/tree/master/2020/materials/day4-surveys/02-nonprobability-sampling.pdf"
+          text: "Slides"
+    - name: "Computer-administered interviews"
+      video: "https://www.youtube.com/embed/HT1bQ3Bh79w"
+      sublinks:
+        - link: "https://www.youtube.com/watch?v=HT1bQ3Bh79w"
+          text: "Video"
+        - link: "https://github.com/compsocialscience/summer-institute/tree/master/2020/materials/day4-surveys/03-computer-administered-interviews.pdf"
+          text: "Slides"
+    - name: "Combining surveys and big data"
+      video: "https://www.youtube.com/embed/_vecQs7aB6o"
+      sublinks:
+        - link: "https://www.youtube.com/watch?v=_vecQs7aB6o"
+          text: "Video"
+        - link: "https://github.com/compsocialscience/summer-institute/tree/master/2020/materials/day4-surveys/04-combining-surveys-and-big-data.pdf"
+          text: "Slides"
+    - name: "Additions and extension"
+      video: "https://www.youtube.com/embed/97gahprIIOI"
+      sublinks:
+        - link: "https://www.youtube.com/watch?v=97gahprIIOI"
+          text: "Video"
+        - link: "https://github.com/compsocialscience/summer-institute/tree/master/2020/materials/day4-surveys/05-survey-additions-extensions.pdf"
+          text: "Slides"
 
 - day: Day 5
   id: day_5
