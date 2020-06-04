@@ -78,7 +78,10 @@
     - name: "<b>Lunch and Guest Speaker</b> (Simone Zhang)"
       time: "12:00 - 13:30"
     - name: "<b>Work on Group Projects</b>"
-      time: "13:30 - 17:00"
+      time: "13:30 - 15:30"
+    - name: "<b>(Encouraged) Panel discussion on diversity in computational social science. [Register here](https://docs.google.com/forms/d/e/1FAIpQLSdPaMXABgLvHtukNVVRanBbKyr7S3aNmC_OyBmSot8Gx9TzbA/viewform)
+</b>"
+      time: "15:30 - 17:00"
 
 - date: 2020-06-24
   name: "<b>Work on Group Projects</b>"
