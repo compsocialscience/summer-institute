@@ -1,4 +1,4 @@
-# Lesson Plan
+# Lesson Plan for Participants
 ## Summer Institutes in Computational Social Science 2020
 ## Day 5, Mass collaboration
 ## Prepared by Matt Salganik and Ian Lundberg
