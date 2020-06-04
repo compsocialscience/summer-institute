@@ -1,5 +1,6 @@
 ---
 layout: curriculum
+curriculum_data_path: past_curriculum/curriculum
 title: Learning Materials from SICSS 2019
 subtitle: Open source teaching and learning resources for computational social science.
 sidebar:
