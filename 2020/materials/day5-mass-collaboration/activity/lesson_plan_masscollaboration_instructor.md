@@ -34,6 +34,8 @@ As the local organizer, you may optionally want to learn more about the Challeng
 
 The Fragile Families and Child Wellbeing Study is a dataset of real people who have selflessly opened up their lives to us for the last 15 years so that their experiences can contribute to scientific research. By participating in the Fragile Families Challenge, you become a collaborator in this project. It is of the utmost importance that you respect the families in the data by using what they have told us responsibly.
 
+You can read more about our approach to ethical data access in our [paper](https://doi.org/10.1177%2F2378023118813023) on the topic.
+
 ### Group formation
 
 Form groups of roughly 3 people randomly. You might consider distributing those with the most predictive modeling experience across groups.
