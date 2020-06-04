@@ -3,11 +3,11 @@
 ## Activity, Day 4: Non-probability-based Surveys in Practice
 ## Matthew Salganik & Robin Lee [1]
 
-Please read the entire activity before beginning.
+Please read the entire lesson plan before beginning.
 
 ## Summary
 
-How accurate are estimates from non-probability-based online surveys? In this activity, you will conduct a survey of MTurk workers, produce unweighted and weighted estimates, and then compare your estimates to those that come from high-quality probability-based sample. This activity was inspired by a paper written by Sharad Goel, Adam Obeng, and David Rothschild: [Online, Opt-in Surveys: Fast and Cheap, but are they Accurate?](https://5harad.com/papers/dirtysurveys.pdf). The survey that you will partially replicate was done by the [Pew Research Center](https://www.pewresearch.org/) on [public attitudes toward computer algorithms](https://www.pewresearch.org/internet/2018/11/16/public-attitudes-toward-computer-algorithms/).
+How accurate are estimates from non-probability-based online surveys? In this activity, you will conduct a survey of MTurk workers, produce unweighted and weighted estimates, and then compare your estimates to those that come from high-quality probability-based sample. This activity was inspired by a paper written by Sharad Goel, Adam Obeng, and David Rothschild: [Online, Opt-in Surveys: Fast and Cheap, but are they Accurate?](https://5harad.com/papers/dirtysurveys.pdf) The survey that you will partially replicate was done by the [Pew Research Center](https://www.pewresearch.org/) on [public attitudes toward computer algorithms](https://www.pewresearch.org/internet/2018/11/16/public-attitudes-toward-computer-algorithms/).
 
 ### Learning objectives
 
