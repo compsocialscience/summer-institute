@@ -13,3 +13,4 @@ An important element of the Summer Institute is the participant-led group projec
 
 - Canbolat, S., Kocacik, M.A., Shahin, E., (2019). Democratic Peace Theory in Their Mind: Political Psychology of Trump and Obama on Modern Democracies and Non-Democracies. Paper presented at the ISA Midwest Annual Conference 2019, St. Louis.
 
+- Asik, G., Kurnaz, A., (2019). Violence against women among Syrian refugees: Open Source Evidence. Working Project.
