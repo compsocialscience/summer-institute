@@ -104,28 +104,28 @@
   id: day_3
   topic: "Automated Text Analysis"  
   events:
-    - name: "Introduction to text analysis"
+    - name: "An introduction to text analysis"
       video: "https://www.youtube.com/embed/pLsC4UyzX_U"
       sublinks:
         - link: "https://www.youtube.com/watch?v=pLsC4UyzX_U"
           text: "Video"
-        - link: "https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/intro-text-analysis/Rpres"
+        - link: "https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/intro-text-analysis/Rpres/Introduction_to_Text_as Data.html"
           text: "Slides"
-    - name: "Basics of Text Analysis"
+    - name: "Text Analysis Basics"
       video: "https://www.youtube.com/embed/TAlO-5NJB7I"
       sublinks:
         - link: "https://www.youtube.com/watch?v=TAlO-5NJB7I"
           text: "Video"
-        - link: "https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/basic-text-analysis/Rpres"
+        - link: "https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/basic-text-analysis/Rpres/Basic_Text_Analysis.html"
           text: "Slides"
     - name: "Dictionary-Based Text Analysis"
       video: "https://www.youtube.com/embed/wSIi2ZRKjaE"
       sublinks:
         - link: "https://www.youtube.com/watch?v=wSIi2ZRKjaE"
           text: "Video"
-        - link: "https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/dictionary-methods/Rpres"
+        - link: "https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/dictionary-methods/Rpres/Dictionary_Based_Analysis.html"
           text: "Slides"
-    - name: "Topic Modeling"
+    - name: "Topic Models"
       video: "https://www.youtube.com/embed/T2ZRBi1oUME"
       sublinks:
         - link: "https://www.youtube.com/watch?v=T2ZRBi1oUME"
@@ -137,7 +137,7 @@
       sublinks:
         - link: "https://www.youtube.com/watch?v=-2dBI2ULcQw"
           text: "Video"
-        - link: "https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/text-networks/Rpres"
+        - link: "https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/text-networks/Rpres/Text_Networks.html"
           text: "Slides"
 
 - day: Day 4
