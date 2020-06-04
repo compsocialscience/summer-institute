@@ -68,6 +68,12 @@ In the debrief, here are some possible starter questions:
 - If participants have trouble submitting, note that a basic submission file with the correct structure is provided in the files we sent them: ffchallenge_SICSS_2020/example_submission/example_for_upload.zip
 
 
+### A note about scoring
+
+The online submission site scores submissions on the leaderboard set (530 cases, 1/8 of the sample). Participants are able to view their score on this set for each submission. In the original Challenge, we ultimately scored participants one time on the holdout set (1,591 cases). You may also want to score submissions on the holdout set one time at the end of the exercise. This will require manual coordination with the central organizers. If you want to do this, message Ian Lundberg to tell him the time at which your exercise will end. If we can coordinate the schedule successfully, Ian can score all submissions on the leaderboard at this time using the holdout data and email the scores to you. Because this is a manual process, it is possible that there will be problems.
+
+If coordination is difficult, scoring on the holdout set may not be necessary. For pedagogical purposes, it may suffice for participants at SICSS to see their score on the leaderboard set, which will happen automatically in real time.
+
 ### Acknowledgments
 
 This lesson plan draws on a previous version prepared with Alex Kindel. The [Fragile Families Challenge](https://doi.org/10.1073/pnas.1915006117) is a mass collaboration organized by Matt Salganik, Ian Lundberg, Alex Kindel, and Sara McLanahan, conducted with an additional 108 authors.
