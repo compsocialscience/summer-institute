@@ -1,4 +1,10 @@
 {% assign curriculums = data.curriculum %}
+{% if page.curriculum_data_path %}
+  {% include get_data_by_path.inc data=data path=page.curriculum_data_path %}
+  {% if data_by_path %}
+    {% assign curriculums = data_by_path %}
+  {% endif %}
+{% endif %}
 
 {% for curriculum in curriculums %}
   <div class="row" id="{{curriculum.id}}">
@@ -8,7 +14,7 @@
     </div>
     {% if curriculum.events %}
       {% for event in curriculum.events %}
-        {% if event %} 
+        {% if event %}
         <div class="col-lg-12">
           <div class="card border-0 mb-5">
             <div class="card-header bg-white border-0">
@@ -29,7 +35,7 @@
             </div>
           </div>
         </div>
-        {% endif %} 
+        {% endif %}
       {% endfor %}
     {% endif %}
     {% if curriculum.exercise %}
