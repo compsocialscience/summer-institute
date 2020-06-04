@@ -24,6 +24,10 @@ Well in advance of the activity, you will need to apply for data access.
 
 Shortly before the activity, watch the video in which Matt introduces the activity (see the [curriculum](https://compsocialscience.github.io/summer-institute/curriculum) page)
 
+### Ethics: A brief note
+
+The Fragile Families and Child Wellbeing Study is a dataset of real people who have selflessly opened up their lives to us for the last 15 years so that their experiences can contribute to scientific research. By participating in the Fragile Families Challenge, you become a collaborator in this project. It is of the utmost importance that you respect the families in the data by using what they have told us responsibly.
+
 ### Rough schedule
 
 - 1 hour: Prepare a data file for analysis
