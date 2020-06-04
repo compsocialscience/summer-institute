@@ -28,9 +28,9 @@ There is no participant preparation before this activity.
 
 - 15 minutes: Introduce activity and form groups of about 4 people
 
-- 60 minutes: read and discuss case study in small groups; answer the four questions plus one more: "Would you used the hacked data in your research?"
+- 60 minutes: read and discuss case study in small groups; answer the four questions plus one more: "Would you use the hacked data in your research?"
 
-- 30 minutes: guided discussed of case study by all participants lead by local organizer (try to discover and highlight the similarities and differences between groups)
+- 30 minutes: guided discussion of case study by all participants lead by local organizer
 
 ### Notes
 
