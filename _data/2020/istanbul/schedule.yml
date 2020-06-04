@@ -41,62 +41,62 @@
   events:
   
     - name: "[Discussion on Ethics](https://compsocialscience.github.io/summer-institute/curriculum)"
-      time: "11:00 - 12:00"
-    - name: "Small Group Lunches(optional)"
-      time: "12:00 - 13:00"
+      time: "15:00 - 16:00"
+    - name: "Coffee Break"
+      time: "16:00 - 16:30"
     - name: "Tutorial Session: Using Mobile Phones for Human Behaviour Understanding *by [Albert Ali Salah](http://www.staff.science.uu.nl/~salah006/)*"
-      time: "13:00 - 15:00"
+      time: "16:30 - 18:00"
       
 - date: 2020-06-16
   name: Digital Trace Data
   events:
     - name: "[Discussion on Digital Trace Data](https://compsocialscience.github.io/summer-institute/curriculum)"
-      time: "11:00 - 12:00"
-    - name: "Small Group Lunches(optional)"
-      time: "12:00 - 13:00"
+      time: "15:00 - 16:00"
+    - name: "Coffee Break"
+      time: "16:00 - 16:30"
     - name: "Tutorial Session: [Data Journalism in Antropogene](https://docs.google.com/document/d/1JwMTz2JxHNFW0T4o6SmQyyARhyPmsPLRcSmTDxuNu_8/edit?usp=sharing) *by [Pinar Dag](https://twitter.com/pinardag)*"
-      time: "13:00 - 15:00"
+      time: "16:30 - 18:00"
 
 - date: 2020-06-17
   name: Digital Surveys and Text as Data
   events:
     - name: "[Discussion on Surveys in the Digital Age](https://compsocialscience.github.io/summer-institute/curriculum)"
-      time: "11:00 - 12:00"
-    - name: "Small Group Lunches(optional)"
-      time: "12:00 - 13:00"
+      time: "15:00 - 16:00"
+    - name: "Coffee Break"
+      time: "16:00 - 16:30"
     - name: "Tutorial Session: Computational Text Analysis *by [Matti Nelimarkka](https://matti.mante.li/)*"
-      time: "13:00 - 15:00"
+      time: "16:30 - 18:00"
 
 - date: 2020-06-18
   name: Mass Collaboration and Geo-Spatial Data Analysis
   events:
     - name: "[Discussion on Mass Collaboration](https://compsocialscience.github.io/summer-institute/curriculum)"
-      time: "11:00 - 12:00"
-    - name: "Small Group Lunches(optional)"
-      time: "12:00 - 13:00"
+      time: "15:00 - 16:00"
+    - name: "Coffee Break"
+      time: "16:00 - 16:30"
     - name: "Tutorial Session: Migration Route Spatial Forecasting *by [Akin Unver](https://www.akinunver.org/)*"
-      time: "13:00 - 15:00"
+      time: "16:30 - 18:00"
 
 - date: 2020-06-19
   name: Social Network Analysis
   events:
     - name: "[Discussion on Network Analysis](http://codingsocialscience.org/book/r1/node56.html)"
-      time: "11:00 - 12:00"
-    - name: "Small Group Lunches(optional)"
-      time: "12:00 - 13:00"
+      time: "15:00 - 16:00"
+    - name: "Coffee Break"
+      time: "16:00 - 16:30"
     - name: "Tutorial Session: [Identifying Networks of Social Bots on Twitter Conversations](https://github.com/virallab/SICSS_Tutorial
 ) *by [Onur Varol](http://www.onurvarol.com/)*"
-      time: "13:00 - 15:00"
+      time: "16:30 - 18:00"
 
 - date: 2020-06-20
   name: Agent-based Modelling and Simulation
   events:
     - name: "[Discussion on Simulations and Complex Systems](http://codingsocialscience.org/book/r1/node95.html)"
-      time: "11:00 - 12:00"
-    - name: "Small Group Lunches(optional)"
-      time: "12:00 - 13:00"
+      time: "15:00 - 16:00"
+    - name: "Coffee Break"
+      time: "16:00 - 16:30"
     - name: "Tutorial Session: An Agent-Based Model of IMF Program Design *by [Merih Angin](https://womenalsoknowstuff.com/profile/merih-angin-1)*"
-      time: "13:00 - 15:00"
+      time: "16:30 - 18:00"
 
 - date: 2020-06-21
   name: Day Off
@@ -104,29 +104,29 @@
 - date: 2020-06-22
   name: Work on Group Projects and Alumni Talks
   events:
-    - name: "Whole Group Lunch and Alumni Talk"
-      time: "12:00 - 13:30"
+    - name: "Coffee and Alumni Talk with [Türkoğlu, D., Odabaş, M., Tunaoğlu, D., Yavaş, M.](https://compsocialscience.github.io/summer-institute/2019/istanbul/projects)"
+      time: "16:00 - 17:00"
 
 
 - date: 2020-06-23
   name: Work on Group Projects and Alumni Talks
   events:
-    - name: "Whole Group Lunch and Alumni Talk"
-      time: "12:00 - 13:30"
+    - name: "Coffee and Alumni Talk with [Canbolat, S., Kocacik, M.A., Shahin, E.](https://compsocialscience.github.io/summer-institute/2019/istanbul/projects)"
+      time: "16:00 - 17:00"
 
 
 - date: 2020-06-24
   name: Work on Group Projects and Alumni Talks
   events:
-    - name: "Whole Group Lunch and Alumni Talk"
-      time: "12:00 - 13:30"
+    - name: "Coffee and Alumni Talk with [Asik, G., Kurnaz, A.](https://compsocialscience.github.io/summer-institute/2019/istanbul/projects)"
+      time: "16:00 - 17:00"
 
 
 - date: 2020-06-25
   name: Work on Group Projects and Alumni Talks
   events:
-    - name: "Whole Group Lunch and Alumni Talk"
-      time: "12:00 - 13:30"
+    - name: "Coffee and Alumni Talk with [Kekulluoglu, D.](https://compsocialscience.github.io/summer-institute/2019/istanbul/projects)"
+      time: "16:00 - 17:00"
 
       
 - date: 2020-06-26
