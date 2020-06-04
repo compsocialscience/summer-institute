@@ -87,11 +87,9 @@
   name: "<b>Work on Group Projects</b>"
   events:
     - name: "<b>Work on Group Projects</b>"
-      time: "09:00 - 11:45"
-    - name: "<b>Lunch and Guest Speaker</b> (Adam Thal, How to Survey Political Elites)"
-      time: "12:00 - 13:30"
-    - name: "<b>Work on Group Projects</b>"
-      time: "13:30 - 17:00"
+      time: "09:00 - 15:30"
+    - name: "<b>Guest Speaker</b> (Adam Thal, How to Survey Political Elites)"
+      time: "15:30 - 16:45"
 
 - date: 2020-06-25
   name: "<b>Work on Group Projects</b>"
