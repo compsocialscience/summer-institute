@@ -109,7 +109,7 @@
       sublinks:
         - link: "https://www.youtube.com/watch?v=pLsC4UyzX_U"
           text: "Video"
-        - link: "https://github.com/compsocialscience/summer-institute/tree/master/2020/materials/day3-text-analysis/intro-text-analysis/Rpres"
+        - link: "https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/intro-text-analysis/Rpres/Introduction_to_Text_as%20Data.html"
           text: "Slides"
     - name: "Text Analysis Basics"
       video: "https://www.youtube.com/embed/TAlO-5NJB7I"
