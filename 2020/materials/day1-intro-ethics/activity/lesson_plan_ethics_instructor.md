@@ -41,33 +41,33 @@ Possible follow-up questions:
 - Journalists are often supervised by editors. Would it make the project more ethically permissible if these researchers had some third-party ethical review from an organization like an IRB?
 - Journalists doing investigative reporting often work to expose wrong-doing. Some academic research is like that and some is not. Does it matter about the specific nature of the research?
 
-Question 4) Researchers will nearly always claim that their research will have a net public benefit and thus their methods are justified. Who gets to decide is that is accurate in any given case?
+Question 4) Researchers will nearly always claim that their research will have a net public benefit and thus their methods are justified. Who gets to decide if that is accurate in any given case?
 
 Possible follow-up questions:
 - If they used the data and you were reviewing the paper for a journal, would you accept it?
 - If you were going to use the data, how would you describe it in an ethical appendix?
 - Here's a case where researchers used diplomatic cables that were released by Private Manning to WikiLeaks: https://doi.org/10.1093/pan/mpv005. How are these cases similar or different? What do you think about the decision of these researchers?
 
-Question 5) Would you personally use this data?
+Question 5) Would you personally use these data?
 
 Possible follow-up questions:
 - Many of the questions above could be used here.
 
 ### Group information
 
-There is no specific guidance about how the groups should be formed; purely randomly should work well for this activity.
+There is no specific guidance about how the groups should be formed; purely random should work well for this activity.
 
-We have not had a virtual SICSS before so we are not sure what is the ideal group size.  We would recommend trying this with groups of between 3 and 5 people.
+We have not had a virtual SICSS before, so we are not sure what is the ideal group size.  We would recommend trying this with groups of between 3 and 5 people.
 
 ### Rough schedule
 
-These times assume that you have 1 hours 45 minutes.  If you have less or more time, you can just inflate or deflate times as needed.
+These times assume that you have 1 hour 45 minutes.  If you have less or more time, you can just inflate or deflate times as needed.
 
 - 15 minutes: Form groups and introduce activity
 
-- 60 minutes: read and discuss case study in small groups
+- 60 minutes: Read and discuss case study in small groups
 
-- 30 minutes: guided discussed of case study by all participants lead by local organizer (try to discover and highlight the similarities and differences between groups)
+- 30 minutes: Guided discussion of case study by all participants lead by local organizer (try to discover and highlight the similarities and differences between groups)
 
 ### Notes
 
