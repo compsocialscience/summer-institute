@@ -3,15 +3,6 @@
 ## Day 1, Ethics
 ## Prepared by Matthew Salganik, Robin Lee, and Ian Lundberg
 
-### Summary
-
-In this activity, participants will split into small groups, discuss a case study, and then all come together to debrief and discuss.
-
-### Learning objectives
-
-- Participants will practice identifying ethical issues in real or proposed research, discussing ethical issues with colleagues, and proposing changes in research design to improve ethical balance.  
-- Participants will get a chance to get to know each other on the first day.
-
 ### Instructor preparation
 
 To prepare for this activity you should:
@@ -59,22 +50,8 @@ There is no specific guidance about how the groups should be formed; purely rand
 
 We have not had a virtual SICSS before, so we are not sure what is the ideal group size.  We would recommend trying this with groups of between 3 and 5 people.
 
-### Rough schedule
-
-These times assume that you have 1 hour 45 minutes.  If you have less or more time, you can just inflate or deflate times as needed.
-
-- 15 minutes: Form groups and introduce activity
-
-- 60 minutes: Read and discuss case study in small groups
-
-- 30 minutes: Guided discussion of case study by all participants lead by local organizer (try to discover and highlight the similarities and differences between groups)
-
 ### Notes
 
 - There is another case study that you could use [Alternative case study (Field experiments on voting)](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/activity/ethics_case_study.pdf).  If you use this case study, you should also read the original [Gerber et al. article](https://isps.yale.edu/sites/default/files/publication/2012/12/ISPS08-001.pdf).
 
 - Try to encourage participants to use the topics covered in SICSS (e.g., respect for persons, beneficence, justice, respect for law and public interest) in their discussion.
-
-### Acknowledgments
-
-This activity was designed with input from participants and TAs from SICSS 2017-2019, especially Yo-Yo Chen, Janet Xu, and Simone Zhang.
