@@ -23,7 +23,7 @@ Well in advance of the activity (we recommend at least two full days), you will 
 - Once approved, we will email you a zipped folder containing the Challenge files. These data are available on the [OPR data archive](https://opr.princeton.edu/archive/restricted/Default.aspx), but the folder we will email you contains additional helper files.
 - To open the zipped folder, you will need a password that we will post on Slack. Contact your local organizer or Ian Lundberg with questions.
 
-Shortly before the activity, watch the video in which Matt introduces the activity (link coming soon).
+Shortly before the activity, watch the video in which Matt introduces the activity, which will be posted on the [curriculum section of the SICSS website](https://compsocialscience.github.io/summer-institute/curriculum).
 
 ### Ethics: A brief note
 
