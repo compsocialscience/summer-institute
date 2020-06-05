@@ -44,7 +44,7 @@ AT THE END OF THE ACTIVITY, DELETE THE DATA FILES. It is important that the data
 
 There are three sets of resources that may be helpful: those about making a submission, those about the Fragile Families Challenge, and those about the broader Fragile Families and Child Wellbeing Study.
 
-Resources about preparing data and making a submission.
+Resources about preparing data and making a submission
 - Here are some tips about [data preparation](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/activity/SICSS_FFC_datacleaning_tips.pdf).
 - To learn about the variables included in the data files, you might use the [metadata explorer](http://metadata.fragilefamilies.princeton.edu/) or refer to survey [questionnaires and other documentation](https://fragilefamilies.princeton.edu/data-and-documentation/public-data-documentation).
 - If you have trouble submitting, compare the file you are attempting to submit to our [example for upload](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/activity/example_for_upload.zip). Often errors occur when the numbers are in a different format, the column names are incorrect, or the directory structure of the zipped folder is incorrect. It is important that the zipped folder has no subdirectories.
