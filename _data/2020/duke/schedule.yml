@@ -12,8 +12,8 @@
     - name: "11:30 - 12:00 Break"
     - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
     - name: "1:00 - 1:30 Break"
-    - name: "1:30 - 1:45 Introduction to the group exercise (*Zoom*)"
-    - name: "1:45 - 2:45 Small group discussion of [Case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf) (*Zoom*)"
+    - name: "1:30 - 1:45 Introduction to the group exercise [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/activity/lesson_plan_ethics_participant.md) [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/activity/lesson_plan_ethics_instructor.md) (*Zoom*)"
+    - name: "1:45 - 2:45 Small group discussion of [case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf) (*Zoom*)"
     - name: "2:45 - 3:15 Whole group debrief about case study (*Zoom*)"
     - name: "3:15 - 3:45 Debrief and logistics (*Zoom*)"
 
@@ -25,7 +25,7 @@
     - name: "11:30 - 12:00 Break"
     - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
     - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 1:30 Introduction to the group exercise [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/activity/lesson_plan_ethics_participant.md) [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/activity/lesson_plan_ethics_instructor.md)(*Zoom*)"
+    - name: "1:15 - 1:30 Introduction to the group exercise (*Zoom*)"
     - name: "1:30 - 3:00 Group excercise (*Zoom*)"
     - name: "3:00 - 3:15 Whole group debrief about group excercise (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
@@ -48,7 +48,7 @@
   name: Surveys in the Digital Age
   events:
     - name: "10:00 - 10:15 Logistics (*Zoom*)"
-    - name: "10:15 - 10:30 Introduction to the group exercise (*Zoom*)"
+    - name: "10:15 - 10:30 Introduction to the group exercise [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day4-surveys/activity/lesson_plan_survey_participant.md) [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day4-surveys/activity/lesson_plan_survey_instructor.md) (*Zoom*)"
     - name: "10:30 - 11:30 Morning group excercise (*Zoom*)"
     - name: "11:30 - 12:00 Break"
     - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
