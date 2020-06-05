@@ -10,12 +10,12 @@ In this activity, you will take part in a simulated Fragile Families Challenge. 
 ### Learning objectives
 
 - Practice converting raw survey data to a suitable format
-- Practice machine learning for predictive modeling
+- Practice creating machine learning for predictive modeling
 - Experience the common task method
 
 ### Preparation
 
-Well in advance of the activity, you will need to apply for data access.
+Well in advance of the activity (we recommend at least two full days), you will need to apply for data access.
 
 - Register for an account on the [OPR data archive](https://opr.princeton.edu/archive/restricted/Default.aspx)
 - Visit your [switchboard](https://opr.princeton.edu/archive/restricted/Switchboard.aspx) and sign up for access to the Fragile Families and Child Wellbeing Study. When asked about your plans for using the data, write "I will be participating in the Fragile Families Challenge as part of SICSS." You may also include any additional plans for using the data.
@@ -23,7 +23,7 @@ Well in advance of the activity, you will need to apply for data access.
 - Once approved, we will email you a zipped folder containing the Challenge files. These data are available on the [OPR data archive](https://opr.princeton.edu/archive/restricted/Default.aspx), but the folder we will email you contains additional helper files.
 - To open the zipped folder, you will need a password that we will post on Slack. Contact your local organizer or Ian Lundberg with questions.
 
-Shortly before the activity, watch the video in which Matt introduces the activity (see the [curriculum](https://compsocialscience.github.io/summer-institute/curriculum) page)
+Shortly before the activity, watch the video in which Matt introduces the activity (link coming soon).
 
 ### Ethics: A brief note
 
@@ -42,23 +42,23 @@ AT THE END OF THE ACTIVITY, DELETE THE DATA FILES. It is important that the data
 
 ### Resources
 
-There are three sets of resources that may be helpful: those about making a submission, those about the Fragile Families Challenge, and those about the broader Fragile Families and Child Wellbeing Study.
+There are three sets of resources that may be helpful.
 
-Resources about preparing data and making a submission
+Resources about preparing data and making a submission:
 - Here are some tips about [data preparation](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/activity/SICSS_FFC_datacleaning_tips.pdf).
-- To learn about the variables included in the data files, you might use the [metadata explorer](http://metadata.fragilefamilies.princeton.edu/) or refer to survey [questionnaires and other documentation](https://fragilefamilies.princeton.edu/data-and-documentation/public-data-documentation).
+- To learn about the variables included in the data files, you might use: the [metadata explorer](http://metadata.fragilefamilies.princeton.edu/), use the accompanying [R](https://cran.r-project.org/web/packages/ffmetadata/index.html) and [Python](https://github.com/fragilefamilieschallenge/ffmetadata-py) packages, and/or refer to survey [questionnaires and other documentation](https://fragilefamilies.princeton.edu/data-and-documentation/public-data-documentation).
 - If you have trouble submitting, compare the file you are attempting to submit to our [example for upload](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/activity/example_for_upload.zip). Often errors occur when the numbers are in a different format, the column names are incorrect, or the directory structure of the zipped folder is incorrect. It is important that the zipped folder has no subdirectories.
 
-Resources about the Fragile Families Challenge
+Resources about the Fragile Families Challenge:
 - The [published paper](https://doi.org/10.1073/pnas.1915006117)
 - The [project website](http://www.fragilefamilieschallenge.org/)
 - Videos from the [Fragile Families Challenge Scientific Workshop](https://www.youtube.com/channel/UCjluzrRT8fqXCx3qHjQAb5A)
 - A [Special Collection of _Socius_](https://journals.sagepub.com/topic/collections-srd/srd-1-fragile_families/srd) in which participants summarize the approaches they used in the Challenge.
 
-Resources about the broader Fragile Families and Child Wellbeing Study
+Resources about the broader Fragile Families and Child Wellbeing Study:
 - Study [website](https://fragilefamilies.princeton.edu/)
 - Database of [research papers](https://ffpubs.princeton.edu/) using the data
 
 ### Acknowledgments
 
-This lesson plan draws on a previous version prepared with Alex Kindel. The [Fragile Families Challenge](https://doi.org/10.1073/pnas.1915006117) is a mass collaboration organized by Matt Salganik, Ian Lundberg, Alex Kindel, and Sara McLanahan, conducted with an additional 108 authors.
+This activity was designed with input from participants and TAs from SICSS 2017 - 2019, especially Yo-Yo Chen, Janet Xu, and Alex Kindel, as well as participants at many Fragile Families Challenge Getting Started Workshops. The [Fragile Families Challenge](https://doi.org/10.1073/pnas.1915006117) is a mass collaboration organized by Matt Salganik, Ian Lundberg, Alex Kindel, and Sara McLanahan involving hundreds of researchers.

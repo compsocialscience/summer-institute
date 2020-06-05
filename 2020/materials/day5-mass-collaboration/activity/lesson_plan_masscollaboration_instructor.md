@@ -5,15 +5,15 @@
 
 This document assumes that you have also read the [lesson plan for participants](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md).
 
-### Instruction preparation
+### Instructor preparation
 
-Well in advance of the activity (we recommend at least one full day), participants will need to apply for data access. We recommend that you go through the data application process even sooner so that you can help participants.
+Well in advance of the activity (we recommend at least two full days), participants will need to apply for data access. We recommend that you apply for data access even sooner so that you can help participants.
 
-Familiarize yourself with the data files. They include components to support participants who may be falling behind, including a pre-prepared data file.
+Familiarize yourself with the data files that you receive. They include components to support participants who may be falling behind, including a pre-prepared data file.
 
 ### Ethics: Guidelines for instructors
 
-Remind your participants of the importance of using the data ethically. The reason projects like the Fragile Families Challenge are possible is because those who share their data trust that researchers will use it appropriately. As the local organizer, you have some power to set norms about holding the data in a secure location while working with it, not seeking to identify any individuals, and deleting the data when the analysis is complete.
+Remind your participants of the importance of using the data ethically. The reason projects like the Fragile Families Challenge are possible is because those who share their data trust that researchers will use it appropriately. As the local organizer, you have some power to set norms about holding the data in a secure location while working with it, not seeking to identify any individuals, and deleting the data when the analysis is complete.  We recommend that you remind participants to delete their data files at the end of the activity.
 
 ### Group formation
 
@@ -21,7 +21,7 @@ Form groups of roughly 3 people randomly. You might consider distributing those 
 
 ### A note about scoring
 
-The online submission site scores submissions on the leaderboard set (530 cases, 1/8 of the sample). Participants are able to view their score on this set for each submission. In the original Challenge, we ultimately scored participants one time on the holdout set (1,591 cases). You may also want to score submissions on the holdout set one time at the end of the exercise. This will require manual coordination with the central organizers. If you want to do this, message Ian Lundberg to tell him the time at which your exercise will end. If we can coordinate the schedule successfully, Ian can score all submissions on the leaderboard at this time using the holdout data and email the scores to you. Because this is a manual process, it is possible that there will be problems.
+The [online submission site](https://codalab.fragilefamilieschallenge.org/competitions/28) scores submissions on the leaderboard set (530 cases, 1/8 of the sample). Participants are able to view their score on this set for each submission. In the original Challenge, we ultimately scored participants one time on the holdout set (1,591 cases). You may also want to score submissions on the holdout set one time at the end of the exercise. This will require manual coordination with the central organizers. If you want to do this, message Ian Lundberg to tell him the time at which your exercise will end. If we can coordinate the schedule successfully, Ian can score all submissions on the leaderboard at this time using the holdout data and email the scores to you. Because this is a manual process, it is possible that there will be problems.
 
 If coordination is difficult, scoring on the holdout set may not be necessary. For pedagogical purposes, it may suffice for participants at SICSS to see their score on the leaderboard set, which will happen automatically in real time.
 
@@ -36,6 +36,6 @@ In the debrief, here are some possible starter questions:
 - If you were organizing this mass collaboration, what would you change to make the experience better?
 - Are there other questions we might tackle more successfully by working together than by working alone?
 
-### Acknowledgments
+### Notes
 
-This lesson plan draws on a previous version prepared with Alex Kindel. The [Fragile Families Challenge](https://doi.org/10.1073/pnas.1915006117) is a mass collaboration organized by Matt Salganik, Ian Lundberg, Alex Kindel, and Sara McLanahan, conducted with an additional 108 authors.
+- This activity is modular so you could just do the afternoon part using the data file that we have already prepared.
