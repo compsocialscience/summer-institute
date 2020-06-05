@@ -1,5 +1,5 @@
 - day: Day 1
-  id: day_2020_1
+  id: day_1
   topic: "Introduction and Ethics"
   events:
     - name: "Introduction to Computational Social Science"
@@ -48,7 +48,7 @@
 
     
 - day: Day 2
-  id: day_2020_2
+  id: day_2
   topic: "Collecting Digital Trace Data"
   events:
     - name: "What is digital trace data?"
