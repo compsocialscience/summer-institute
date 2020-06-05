@@ -35,17 +35,30 @@ You can read more about our approach to ethical data access in our [paper](https
 
 - 1 hour: Prepare a data file for analysis
 - Break. If you are not happy with your prepared data file, we recommend using the cleaned file that we provided in the folder we emailed you. This will allow you to proceed to the next step.
-- 2 hours: In groups, build predictive models and submit to the [submission site](https://codalab.fragilefamilieschallenge.org/competitions/28)
+- 2 hours: In groups, build predictive models and submit to the [submission site](https://codalab.fragilefamilieschallenge.org/competitions/28). Do not expect to try many different sophisticated models in the time available. A good approach would be to focus on just one outcome of interest and try models of increasing complexity after successfully submitting a basic linear model to the leaderboard.
 - 15 minutes: Whole group debrief for your site
 
 AT THE END OF THE ACTIVITY, DELETE THE DATA FILES. It is important that the data not sit on a local machine unnecessarily. If you would like access to the data for future research, you can download the data at any time from the OPR Data Archive.
 
-### Notes
+### Resources
 
-- Do not expect to try many different sophisticated models in the time available. A good approach would be to focus on just one outcome of interest and try models of increasing complexity after successfully submitting a basic linear model to the leaderboard.
-- This activity requires a lot of data wrangling and R fluency.
+There are three sets of resources that may be helpful: those about making a submission, those about the Fragile Families Challenge, and those about the broader Fragile Families and Child Wellbeing Study.
+
+Resources about preparing data and making a submission.
 - Here are some tips about [data preparation](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/activity/SICSS_FFC_datacleaning_tips.pdf).
 - If you have trouble submitting, compare the file you are attempting to submit to our [example for upload](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/activity/example_for_upload.zip). Often errors occur when the numbers are in a different format, the column names are incorrect, or the directory structure of the zipped folder is incorrect. It is important that the zipped folder has no subdirectories.
+
+Resources about the Fragile Families Challenge
+- The [published paper](https://doi.org/10.1073/pnas.1915006117)
+- The [project website](http://www.fragilefamilieschallenge.org/)
+- Videos from the [Fragile Families Challenge Scientific Workshop](https://www.youtube.com/channel/UCjluzrRT8fqXCx3qHjQAb5A)
+- A [Special Collection of _Socius_](https://journals.sagepub.com/topic/collections-srd/srd-1-fragile_families/srd) in which participants summarize the approaches they used in the Challenge.
+
+Resources about the broader Fragile Families and Child Wellbeing Study
+- Study [website](https://fragilefamilies.princeton.edu/)
+- Database of [research papers](https://ffpubs.princeton.edu/) using the data
+- Interactive [metadata explorer](http://metadata.fragilefamilies.princeton.edu/)
+- Survey [questionnaires and other documentation](https://fragilefamilies.princeton.edu/data-and-documentation/public-data-documentation)
 
 ### Acknowledgments
 
