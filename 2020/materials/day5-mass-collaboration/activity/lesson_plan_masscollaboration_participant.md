@@ -45,7 +45,7 @@ AT THE END OF THE ACTIVITY, DELETE THE DATA FILES. It is important that the data
 - Do not expect to try many different sophisticated models in the time available. A good approach would be to focus on just one outcome of interest and try models of increasing complexity after successfully submitting a basic linear model to the leaderboard.
 - This activity requires a lot of data wrangling and R fluency.
 - Here are some tips about [data preparation](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/activity/SICSS_FFC_datacleaning_tips.pdf).
-- If you have trouble submitting, note that a basic submission file with the correct structure is provided in the files we sent: ffchallenge_SICSS_2020/example_submission/example_for_upload.zip
+- If you have trouble submitting, compare the file you are attempting to submit to our [example for upload](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/activity/example_for_upload.zip). Often errors occur when the numbers are in a different format, the column names are incorrect, or the directory structure of the zipped folder is incorrect. It is important that the zipped folder has no subdirectories.
 
 ### Acknowledgments
 
