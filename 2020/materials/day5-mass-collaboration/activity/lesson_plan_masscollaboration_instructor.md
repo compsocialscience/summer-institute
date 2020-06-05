@@ -7,15 +7,9 @@ This document assumes that you have also read the [lesson plan for participants]
 
 ### Instruction preparation
 
-Well in advance of the activity (we recommend at least one full day), participants will need to apply for data access. We recommend that you go through the data application process in advance of that to familiarize yourself.
+Well in advance of the activity (we recommend at least one full day), participants will need to apply for data access. We recommend that you go through the data application process even sooner so that you can help participants.
 
 Familiarize yourself with the data files. They include components to support participants who may be falling behind, including a pre-prepared data file.
-
-As the local organizer, you may optionally want to learn more about the Challenge.
-
-- Watch the video in which Matt introduces the activity (see the [curriculum](https://compsocialscience.github.io/summer-institute/curriculum) page)
-- Learn more about the Fragile Families Challenge from the [published paper](https://doi.org/10.1073/pnas.1915006117) or from the [project website](http://www.fragilefamilieschallenge.org/).
-- Watch videos from the [Fragile Families Challenge Scientific Workshop](https://www.youtube.com/channel/UCjluzrRT8fqXCx3qHjQAb5A)
 
 ### Ethics: Guidelines for instructors
 
