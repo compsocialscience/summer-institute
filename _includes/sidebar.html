@@ -1,7 +1,6 @@
 {% if page.sidebar != "hide" %}
 {% if page.sidebar.first %}
-  <!-- Removing the col-md-4 here -->
-  <!-- <div class="col-md-4"> -->
+  <div class="col-md-4">
     <ul class="nav flex-column">
     {% for link in page.sidebar %}
       <li class="nav-item">
@@ -9,7 +8,7 @@
       </li>
     {% endfor %}
     </ul>
-  <!-- </div> -->
+  </div>
 {% else %}
 <!-- detail page sidebar -->
 {% if page.partner_site %}
@@ -17,8 +16,7 @@
 {% assign year = urlparts[1] %}
 {% assign location = urlparts[2] %}
 {% assign sidebar = site.data[year][location].sidebar %}
-  <!-- Removing the col-md-4 here -->
-  <!-- <div class="col-md-4"> -->
+  <div class="col-md-4">
     <ul class="nav flex-column">
       <li class="nav-item">
         <a class="nav-link" href="{{page.dir | prepend: site.baseurl}}">Overview</a>
@@ -50,7 +48,7 @@
       {% endfor %}
     </ul>
     </ul>
-  <!-- </div> -->
+  </div>
 {% endif %}
 
 <!-- locations sidebar -->
@@ -81,8 +79,7 @@
 <!-- people sidebar -->
 {% if page.layout == 'people' %}
   {% if page.partner_site %}
-    <!-- Removing the col-md-4 here -->
-    <!-- <div class="col-md-4"> -->
+    <div class="col-md-4">
       <ul class="nav flex-column">
         {% if data.people %}
           {% for group in data.people %}
@@ -92,10 +89,9 @@
           {% endfor %}
         {% endif %}
       </ul>
-    <!-- </div> -->
+    </div>
   {% else %}
-    <!-- Removing the col-md-4 here -->
-    <!-- <div class="col-md-4"> -->
+    <div class="col-md-4">
       <ul class="nav flex-column" id="accordionMenu">
         {% for year in locations_by_year %}
           <li class="nav-item">
@@ -119,14 +115,13 @@
           </li>
           {% endfor %}
         </ul>
-    <!-- </div> -->
+    </div>
   {% endif %}
 {% endif %}
 
 <!-- host sidebar -->
 {% if page.layout == 'host' %}
-<!-- Removing the col-md-4 here -->
-<!-- <div class="col-md-4"> -->
+<div class="col-md-4">
   <ul class="nav flex-column">
     <li class="nav-item">
       <a class="nav-link" href="#overview">Overview</a>
@@ -147,7 +142,7 @@
       <a class="nav-link" href="#frequently_asked">Frequently Asked Questions</a>
     </li>
   </ul>
-<!-- </div> -->
+</div>
 {% endif %}
 {% endif %}{% comment %} // sidebar is not array or hash {% endcomment %}
 {% endif %}{% comment %} // sidebar is not "hide" {% endcomment %}
