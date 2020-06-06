@@ -39,12 +39,12 @@
           text: "Slides"
   exercise_title: "Group exercise"
   exercise:
-    - name: "Lesson plan"
-      resource: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/activity/lesson_plan_ethics.md"
-    - name: "Case study 1"
-      resource: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/activity/ethics_case_study.pdf"
-    - name: "Case study 2"
-      resource: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/activity/Patreon-Case-Study.pdf"       
+    - name: "Lesson plan (participants)"
+      resource: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/activity/lesson_plan_ethics_participant.md"
+    - name: "Lesson plan (instructors)"
+      resource: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/activity/lesson_plan_ethics_instructor.md"
+    - name: "Case study"
+      resource: "https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf"       
 
     
 - day: Day 2
@@ -179,10 +179,22 @@
           text: "Video"
         - link: "https://github.com/compsocialscience/summer-institute/tree/master/2020/materials/day4-surveys/05-survey-additions-extensions.pdf"
           text: "Slides"
+  exercise_title: "Group exercise"
+  exercise:
+    - name: "Lesson plan (participants)"
+      resource: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day4-surveys/activity/lesson_plan_survey_participant.md"
+    - name: "Lesson plan (instructors)"
+      resource: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day4-surveys/activity/lesson_plan_survey_instructor.md"
 
 - day: Day 5
   id: day_5
-  topic: "Mass Collaboration (coming soon)"
+  topic: "Mass Collaboration (coming soon)"  
+  exercise_title: "Group exercise"
+  exercise:
+    - name: "Lesson plan (participants)"
+      resource: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md"
+    - name: "Lesson plan (instructors)"
+      resource: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_instructor.md"
 
 - day: Day 6
   id: day_6
