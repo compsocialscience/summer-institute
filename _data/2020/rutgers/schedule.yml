@@ -30,11 +30,17 @@
   name: "<b>Text as Data</b>"
   events:
     - name: "<b>Activity using Text as Data</b>"
-      time: "10:00 - 11:45"
+      time: "10:00 - 12:00"
+    - name: "<b>Break</b>"
+      time: "12:00 - 12:30"
     - name: "<b>Group Lunch Discussions</b>"
       time: "12:30 - 1:30"
     - name: "<b>Classification and Bias: The Case of Hate Speech Detection Algorithms</b> (Thomas Davidson)"
       time: "14:00 - 15:30"
+    - name: "<b>Break</b>"
+      time: "15:30 - 16:00"
+    - name: "<b>Debrief on Text as Data Activity and Lessons</b>"
+      time: "16:00 - 16:45"
 
 - date: 2020-06-18
   name: "<b>Surveys in the Digital Age</b>"
