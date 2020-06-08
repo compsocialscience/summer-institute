@@ -23,6 +23,7 @@ Participants will gain experience with the following activities:
 - Read [Chapter 3 in *Bit by Bit*](https://www.bitbybitbook.com/en/1st-ed/asking-questions/)
 - Read the [Mathematical notes in Chapter 3 in *Bit by Bit*](https://www.bitbybitbook.com/en/1st-ed/asking-questions/sampling-mathematical/)
 - Read the paper that motivated this activity: [Online, Opt-in Surveys: Fast and Cheap, but are they Accurate?](https://5harad.com/papers/dirtysurveys.pdf) by Goel et al. In this paper, the researchers conduct an opt-in, non-probability survey of people on MTurk. They compared the raw sample estimates and those made after various weighting adjustments to estimates that come from surveys using probability-based sampling methods.
+- Read [Intro to Poststratification](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day4-surveys/activity/introduction_to_poststratificiation.md)
 
 ### Activity schedule
 - 2 hour and 45 minutes
