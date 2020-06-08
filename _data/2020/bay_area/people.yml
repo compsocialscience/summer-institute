@@ -81,6 +81,11 @@ participants:
       image: /assets/images/claire_daviss.png
       bio: "Claire Daviss is a PhD student in sociology at Stanford University. Her research interests include gender inequality, work and employment, and quantitative methods. Her current research focuses on long-term trends in employers' preferences for workers of different genders, drawing on longitudinal data from a large online labor marketplace. She's excited to learn more about how computational methods can be utilized for academic and community-engaged research."
 
+    - name: Ernesto Gutiérrez Topete
+      image: /assets/images/ernesto_gutierrez_topete.png
+      bio: "Ernesto Gutiérrez Topete is a PhD student in Hispanic Linguistics at UC Berkeley. His research is focused on Spanish-English bilingualism, code-switching, and Spanish in the US. His work falls within the subdisciplines of sociophonetics and psycholinguistics. Through a variationist approach, the research he conducts is primarily experimental and quantitative."
+      website: https://sites.google.com/berkeley.edu/egutierrez
+
     - name: Isaac Dalke 
       image: /assets/images/isaac_dalke.png
       bio: "Isaac is a graduate student in the sociology department at UC-Berkeley. His current work pairs traditional interpretive techniques and computational text analysis to investigate decision-making practices around who to release from prison in California. More broadly, he is interested in expertise and the art of governing, with an eye to the consequences of state bureaucratic practices for those whose lives hinge on them."
