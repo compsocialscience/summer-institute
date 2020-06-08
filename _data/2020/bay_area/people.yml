@@ -90,7 +90,7 @@ participants:
       bio: "Krista Schnell is a PhD student in sociology at University of California, Berkeley. Her areas of interest include inequality, gender, and sport. Her master’s research was on how and why women transition into technical careers later in life through coding bootcamps--and she strongly believes there should be greater diversity in tech! She is currently looking forward to her dissertation."
       
     - name: Landon Schnabel
-      image: /assets/images/landon_schnabel.png
+      image: https://raw.githubusercontent.com/compsocialscience/summer-institute/master/assets/images/landon_schnabel.png
       bio: "Landon Schnabel is a postdoctoral fellow in the Polarization and Social Change Lab at Stanford and the incoming Rosenthal Assistant Professor of Sociology at Cornell. He studies inequality and why it persists. Current projects consider factors like religion, philanthropy, and seemingly positive stereotypes that ostensibly compensate for inequality—by providing social, psychological, and/or material benefits to subordinated groups—but can paradoxically end up legitimating and reinforcing it."
       website: https://landonschnabel.com/
       
@@ -104,7 +104,7 @@ participants:
       bio: "Purnima Padmanabhan is a PhD student in Neuroscience at The Johns Hopkins School of Medicine. Her current work investigates how perception and valuation of effort and reward affect the engagement and efficacy of physical rehabilitation in neurological disorders. Broadly, she is interested in emotional and social decision making, and how we can translate our knowledge in neural correlates of reward sensitivities to bring about long-lasting improvement in social and cognitive behavior. She is particularly interested in developing a large-scale data-driven approach to  devise positive behavior change strategies in persons facing neuropsychiatric challenges."
       
     - name: Terresa Eun
-      image: /assets/images/terresa_eun.png
+      image: https://raw.githubusercontent.com/compsocialscience/summer-institute/master/assets/images/terresa_eun.png
       bio: "Terresa Eun is a PhD student in sociology at Stanford University. Her current research explores the rise in pain in the United States. More broadly, she is interested in the intersection of health and inequality, and she looks forward to applying computational social science tools to understand such topics as the intergenerational transfer of wealth through health (and vice versa) and the relationship between health, status, and organizations."
 
 partners:
