@@ -115,6 +115,10 @@ participants:
     - name: Terresa Eun
       image: https://raw.githubusercontent.com/compsocialscience/summer-institute/master/assets/images/terresa_eun.png
       bio: "Terresa Eun is a PhD student in sociology at Stanford University. Her current research explores the rise in pain in the United States. More broadly, she is interested in the intersection of health and inequality, and she looks forward to applying computational social science tools to understand such topics as the intergenerational transfer of wealth through health (and vice versa) and the relationship between health, status, and organizations."
+      
+    - name: Vanessa Böhm
+      image: /assets/images/vanessa_boehm.png
+      bio: "Vanessa Böhm is a postdoc at UC Berkeley and Lawrence Berkeley National Lab. Her current research is centered around developing machine learning and statistical methods that specifically meet the needs of scientific applications. While she is a cosmologist by training, she is interested in expanding her work to more useful causes. Topics that she is excited about include promoting social equity and creating equal opportunities, sustainability and transforming transportation systems."
 
 partners:
   title: Community Partners
