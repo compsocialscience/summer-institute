@@ -56,6 +56,14 @@ participants:
   title: Participants
   people:
   
+    - name: Abbie Nelson
+      image: /assets/images/abbie_nelson.png
+      bio: "Abbie Nelson is a Phd student in social work at Michigan State University.  She is a Licensed Clinical Social Worker with over ten years of experience. Her clinical focus has been trauma, sexual abuse, and domestic violence. Her research interests include developing holistic, culturally competent interventions for domestic violence survivors as well as the structural role of patriarchy and domestic violence. She also studies the connection between mental health and nutrition and is an active yoga instructor and triathlete. She is eager to learn more about how to bring computational social science to the discipline of social work."
+  
+    - name: Brian Kim
+      image: /assets/images/brian_kim.png
+      bio: "Brian Heseung Kim is a Ph.D. student in quantitative Education Policy at the University of Virginia. His research focuses on supporting students of diverse backgrounds through major decision-making junctures in higher education like the college application process and the post-graduation job application process. He hopes to leverage natural language processing methods to tap into the wealth of text and audio data generated every day in education, as well as predictive analytics to improve the responsiveness and personalization of student support systems."
+  
     - name: Brooke Staveland
       image: /assets/images/brooke_staveland.png
       bio: "Brooke Staveland is a Ph.D. student in Neuroscience at the University of California - Berkeley. She currently uses electrocorticography to study the neurobiology of anxiety, but in the past has used statistical and machine learning methods to look for meaningful treatment groups across a wide range of mental health diagnoses. Most broadly, Brooke hopes to apply computational methods in order to improve mental health treatment and maintenance."
@@ -69,6 +77,10 @@ participants:
       bio: "Cheng Ren a Ph.D. student in Social Welfare, with Designated Emphasis in Computational and Data Science and Engineering Program, and is also a data consultant for the D-Lab at UC Berkeley. He applies data science tools to improve the welfare system. His research interests are community engagement and assessment, nonprofit development, migrant well-being, community database, and computational social welfare. He is also a big fan of geographic information systems."
       website: https://chengren.github.io/
 
+    - name: Claire Daviss
+      image: /assets/images/claire_daviss.png
+      bio: "Claire Daviss is a PhD student in sociology at Stanford University. Her research interests include gender inequality, work and employment, and quantitative methods. Her current research focuses on long-term trends in employers' preferences for workers of different genders, drawing on longitudinal data from a large online labor marketplace. She's excited to learn more about how computational methods can be utilized for academic and community-engaged research."
+
     - name: Isaac Dalke 
       image: /assets/images/isaac_dalke.png
       bio: "Isaac is a graduate student in the sociology department at UC-Berkeley. His current work pairs traditional interpretive techniques and computational text analysis to investigate decision-making practices around who to release from prison in California. More broadly, he is interested in expertise and the art of governing, with an eye to the consequences of state bureaucratic practices for those whose lives hinge on them."
@@ -76,6 +88,24 @@ participants:
     - name: Krista Schnell
       image: /assets/images/krista_schnell.png
       bio: "Krista Schnell is a PhD student in sociology at University of California, Berkeley. Her areas of interest include inequality, gender, and sport. Her master’s research was on how and why women transition into technical careers later in life through coding bootcamps--and she strongly believes there should be greater diversity in tech! She is currently looking forward to her dissertation."
+      
+    - name: Landon Schnabel
+      image: /assets/images/landon_schnabel.png
+      bio: "Landon Schnabel is a postdoctoral fellow in the Polarization and Social Change Lab at Stanford and the incoming Rosenthal Assistant Professor of Sociology at Cornell. He studies inequality and why it persists. Current projects consider factors like religion, philanthropy, and seemingly positive stereotypes that ostensibly compensate for inequality—by providing social, psychological, and/or material benefits to subordinated groups—but can paradoxically end up legitimating and reinforcing it."
+      website: https://landonschnabel.com/
+      
+    - name: Nabamallika Dehingia
+      image: /assets/images/nabamallika_dehingia.png
+      bio: "Nabamallika Dehingia is a PhD student in Global Health at UC San Diego. Her current research focusses on using machine learning models for understanding women’s health in low resource settings. She is interested in using text data from social media platforms to measure public opinion on gender."
+      website: http://geh.ucsd.edu/team/nabamallika-dehingia/
+      
+    - name: Purnima Padmanabhan
+      image: /assets/images/purnima_padmanabhan.png
+      bio: "Purnima Padmanabhan is a PhD student in Neuroscience at The Johns Hopkins School of Medicine. Her current work investigates how perception and valuation of effort and reward affect the engagement and efficacy of physical rehabilitation in neurological disorders. Broadly, she is interested in emotional and social decision making, and how we can translate our knowledge in neural correlates of reward sensitivities to bring about long-lasting improvement in social and cognitive behavior. She is particularly interested in developing a large-scale data-driven approach to  devise positive behavior change strategies in persons facing neuropsychiatric challenges."
+      
+    - name: Terresa Eun
+      image: /assets/images/terresa_eun.png
+      bio: "Terresa Eun is a PhD student in sociology at Stanford University. Her current research explores the rise in pain in the United States. More broadly, she is interested in the intersection of health and inequality, and she looks forward to applying computational social science tools to understand such topics as the intergenerational transfer of wealth through health (and vice versa) and the relationship between health, status, and organizations."
 
 partners:
   title: Community Partners
