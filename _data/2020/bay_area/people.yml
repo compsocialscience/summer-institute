@@ -107,7 +107,12 @@ participants:
       image: https://raw.githubusercontent.com/compsocialscience/summer-institute/master/assets/images/landon_schnabel.png
       bio: "Landon Schnabel is a postdoctoral fellow in the Polarization and Social Change Lab at Stanford and the incoming Rosenthal Assistant Professor of Sociology at Cornell. He studies inequality and why it persists. Current projects consider factors like religion, philanthropy, and seemingly positive stereotypes that ostensibly compensate for inequality—by providing social, psychological, and/or material benefits to subordinated groups—but can paradoxically end up legitimating and reinforcing it."
       website: https://landonschnabel.com/
-      
+
+    - name: Meredith Meacham 
+      image: /assets/images/meredith_meacham.png
+      bio: Meredith Meacham is an Assistant Professor in the Department of Psychiatry and Behavioral Sciences at the University of California San Francisco. She is an epidemiologist and social scientist with a current focus on digital media as a tool for expanding access to healthcare and examining contemporary health behaviors, especially substance use and mental health. She is currently working on projects examining engagement with and trust in peer-generated online health information and novel knowledge production systems related to cannabis legalization.
+      website: www.meredithmeacham.com
+
     - name: Nabamallika Dehingia
       image: /assets/images/nabamallika_dehingia.png
       bio: "Nabamallika Dehingia is a PhD student in Global Health at UC San Diego. Her current research focusses on using machine learning models for understanding women’s health in low resource settings. She is interested in using text data from social media platforms to measure public opinion on gender."
