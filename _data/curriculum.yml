@@ -188,42 +188,42 @@
 
 - day: Day 5
   id: day_5
-  topic: "Mass Collaboration (coming soon)"
+  topic: "Mass Collaboration"
   events:
     - name: "Introduction to Mass Collaboration"
       video: "https://www.youtube.com/embed/4BaVal2fwOI"
       sublinks:
         - link: "https://youtube.com//watch?v=4BaVal2fwOI"
           text: "Video"
-        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day4-surveys/01-survey-research-digital-age.pdf"
+        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/01-mass-collaboration.pdf"
           text: "Slides"    
     - name: "Human Computation"
       video: "https://www.youtube.com/embed/ZI95vV7Co38"
       sublinks:
         - link: "https://youtube.com//watch?v=ZI95vV7Co38"
           text: "Video"
-        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day4-surveys/01-survey-research-digital-age.pdf"
+        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/02-human_computation.pdf"
           text: "Slides"  
     - name: "Open Call"
       video: "https://www.youtube.com/embed/5AwS7T7LUlw"
       sublinks:
         - link: "https://youtube.com//watch?v=5AwS7T7LUlw"
           text: "Video"
-        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day4-surveys/01-survey-research-digital-age.pdf"
+        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/03-open_call.pdf"
           text: "Slides"   
     - name: "Distributed Data Collection"
       video: "https://www.youtube.com/embed/S0foUGRnYIo"
       sublinks:
         - link: "https://youtube.com//watch?v=S0foUGRnYIo"
           text: "Video"
-        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day4-surveys/01-survey-research-digital-age.pdf"
+        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/04-distributed_data_collection.pdf"
           text: "Slides"
     - name: "Fragile Families Challenge"
       video: "https://www.youtube.com/embed/ZI95vV7Co38"
       sublinks:
         - link: "https://youtube.com//watch?v=ZI95vV7Co38"
           text: "Video"
-        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day4-surveys/01-survey-research-digital-age.pdf"
+        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/05-ffchallenge.pdf"
           text: "Slides"  
   exercise_title: "Group exercise"
   exercise:
@@ -234,8 +234,43 @@
 
 - day: Day 6
   id: day_6
-  topic: "Experiments (coming soon)"
-
+  topic: "Experiments"
+  events:
+    - name: "What, why, and which experiments?"
+      video: "https://www.youtube.com/embed/hKiKiWbeD6I"
+      sublinks:
+        - link: "https://youtube.com//watch?v=hKiKiWbeD6I"
+          text: "Video"
+        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day6-experiments/01-what-why-which-experiments.pdf"
+          text: "Slides" 
+    - name: "Moving beyond simple experiments"
+      video: "https://www.youtube.com/embed//cYyu5Ex0twE"
+      sublinks:
+        - link: "https://youtube.com//watch?v=/cYyu5Ex0twE"
+          text: "Video"
+        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day6-experiments/02-moving-beyond-simple-experiments.pdf"
+          text: "Slides"
+    - name: "Four strategies for making experiments happen"
+      video: "https://www.youtube.com/embed/KDLFigGDORY"
+      sublinks:
+        - link: "https://youtube.com//watch?v=KDLFigGDORY"
+          text: "Video"
+        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day6-experiments/03-making-it-happen.pdf"
+          text: "Slides"
+    - name: "Zero variable cost data and musiclab"
+      video: "https://www.youtube.com/embed/4BaVal2fwOI"
+      sublinks:
+        - link: "https://youtube.com//watch?v=4BaVal2fwOI"
+          text: "Video"
+        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day6-experiments/04-zero-variable-cost.pdf"
+          text: "Slides"
+    - name: "3Rs"
+      video: "https://www.youtube.com/embed/aQPce-WgJBY"
+      sublinks:
+        - link: "https://youtube.com//watch?v=aQPce-WgJBY"
+          text: "Video"
+        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day6-experiments/05-three-rs.pdf"
+          text: "Slides"          
 - day: Bonus Lectures by Leaders in the Field
   id: bonus_lectures
   topic: 
