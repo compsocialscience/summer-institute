@@ -77,6 +77,11 @@ participants:
       bio: "Cheng Ren a Ph.D. student in Social Welfare, with Designated Emphasis in Computational and Data Science and Engineering Program, and is also a data consultant for the D-Lab at UC Berkeley. He applies data science tools to improve the welfare system. His research interests are community engagement and assessment, nonprofit development, migrant well-being, community database, and computational social welfare. He is also a big fan of geographic information systems."
       website: https://chengren.github.io/
 
+    - name: Chirag Modi
+      image: /assets/images/chirag_modi.png
+      bio: Chirag Modi is a graduating Physics PhD student at UC Berkeley. His primary research is focused on computational cosmology and developing statistical methods for scientific analysis using machine learning. He is equally interested in expanding his work and contributing to social topics, particularly public policy, social equity and climate change. He is currently working on developing causal inference techniques to evaluate the impact of policy interventions.
+      Website: https://modichirag.github.io/
+
     - name: Claire Daviss
       image: /assets/images/claire_daviss.png
       bio: "Claire Daviss is a PhD student in sociology at Stanford University. Her research interests include gender inequality, work and employment, and quantitative methods. Her current research focuses on long-term trends in employers' preferences for workers of different genders, drawing on longitudinal data from a large online labor marketplace. She's excited to learn more about how computational methods can be utilized for academic and community-engaged research."
