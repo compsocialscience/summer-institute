@@ -51,7 +51,7 @@
   id: day_2
   topic: "Collecting Digital Trace Data"
   events:
-    - name: "What is digital trace data?"
+    - name: "What is Digital Trace Data?"
       video: "https://www.youtube.com/embed/uuSWQN7uYhk"
       sublinks:
         - link: "https://youtu.be/uuSWQN7uYhk"
@@ -104,7 +104,7 @@
   id: day_3
   topic: "Automated Text Analysis"  
   events:
-    - name: "An introduction to text analysis"
+    - name: "An Introduction to Text Analysis"
       video: "https://www.youtube.com/embed/pLsC4UyzX_U"
       sublinks:
         - link: "https://www.youtube.com/watch?v=pLsC4UyzX_U"
@@ -144,42 +144,42 @@
   id: day_4
   topic: "Surveys in the Digital Age"
   events:
-    - name: "Survey research in the digital age"
+    - name: "Survey Research in the Digital Age"
       video: "https://www.youtube.com/embed/j8fJGV17Hcg"
       sublinks:
         - link: "https://www.youtube.com/watch?v=j8fJGV17Hcg"
           text: "Video"
         - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day4-surveys/01-survey-research-digital-age.pdf"
           text: "Slides"
-    - name: "Probability and non-probability sampling"
+    - name: "Probability and Non-Probability Sampling"
       video: "https://www.youtube.com/embed/SLAi9v5CCnM"
       sublinks:
         - link: "https://www.youtube.com/watch?v=SLAi9v5CCnM"
           text: "Video"
         - link: "https://github.com/compsocialscience/summer-institute/tree/master/2020/materials/day4-surveys/02-nonprobability-sampling.pdf"
           text: "Slides"
-    - name: "Computer-administered interviews"
+    - name: "Computer-Administered Interviews"
       video: "https://www.youtube.com/embed/HT1bQ3Bh79w"
       sublinks:
         - link: "https://www.youtube.com/watch?v=HT1bQ3Bh79w"
           text: "Video"
         - link: "https://github.com/compsocialscience/summer-institute/tree/master/2020/materials/day4-surveys/03-computer-administered-interviews.pdf"
           text: "Slides"
-    - name: "Combining surveys and big data"
+    - name: "Combining Surveys and Big Data"
       video: "https://www.youtube.com/embed/_vecQs7aB6o"
       sublinks:
         - link: "https://www.youtube.com/watch?v=_vecQs7aB6o"
           text: "Video"
         - link: "https://github.com/compsocialscience/summer-institute/tree/master/2020/materials/day4-surveys/04-combining-surveys-and-big-data.pdf"
           text: "Slides"
-    - name: "Additions and extension"
+    - name: "Additions and Extension"
       video: "https://www.youtube.com/embed/97gahprIIOI"
       sublinks:
         - link: "https://www.youtube.com/watch?v=97gahprIIOI"
           text: "Video"
         - link: "https://github.com/compsocialscience/summer-institute/tree/master/2020/materials/day4-surveys/05-survey-additions-extensions.pdf"
           text: "Slides"
-  exercise_title: "Group exercise"
+  exercise_title: "Group Exercise"
   exercise:
     - name: "Lesson plan (participants)"
       resource: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day4-surveys/activity/lesson_plan_survey_participant.md"
@@ -236,31 +236,31 @@
   id: day_6
   topic: "Experiments"
   events:
-    - name: "What, why, and which experiments?"
+    - name: "What, Why, and Which Experiments?"
       video: "https://www.youtube.com/embed/hKiKiWbeD6I"
       sublinks:
         - link: "https://youtube.com//watch?v=hKiKiWbeD6I"
           text: "Video"
         - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day6-experiments/01-what-why-which-experiments.pdf"
           text: "Slides" 
-    - name: "Moving beyond simple experiments"
+    - name: "Moving Beyond Simple Experiments"
       video: "https://www.youtube.com/embed//cYyu5Ex0twE"
       sublinks:
         - link: "https://youtube.com//watch?v=/cYyu5Ex0twE"
           text: "Video"
         - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day6-experiments/02-moving-beyond-simple-experiments.pdf"
           text: "Slides"
-    - name: "Four strategies for making experiments happen"
+    - name: "Four Strategies for Making Experiments Happen"
       video: "https://www.youtube.com/embed/KDLFigGDORY"
       sublinks:
         - link: "https://youtube.com//watch?v=KDLFigGDORY"
           text: "Video"
         - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day6-experiments/03-making-it-happen.pdf"
           text: "Slides"
-    - name: "Zero variable cost data and musiclab"
-      video: "https://www.youtube.com/embed/4BaVal2fwOI"
+    - name: "Zero Variable Cost Data and Musiclab"
+      video: "https://www.youtube.com/embed/rAGMpZuU3RU"
       sublinks:
-        - link: "https://youtube.com//watch?v=4BaVal2fwOI"
+        - link: "https://youtube.com//watch?v=rAGMpZuU3RU"
           text: "Video"
         - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day6-experiments/04-zero-variable-cost.pdf"
           text: "Slides"
