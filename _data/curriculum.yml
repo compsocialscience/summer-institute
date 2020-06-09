@@ -190,6 +190,27 @@
   id: day_5
   topic: "Mass Collaboration (coming soon)"
   events:
+    - name: "Introduction to Mass Collaboration"
+      video: "https://www.youtube.com/embed/4BaVal2fwOI"
+      sublinks:
+        - link: "https://youtube.com//watch?v=4BaVal2fwOI"
+          text: "Video"
+        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day4-surveys/01-survey-research-digital-age.pdf"
+          text: "Slides"    
+    - name: "Human Computation"
+      video: "https://www.youtube.com/embed/ZI95vV7Co38"
+      sublinks:
+        - link: "https://youtube.com//watch?v=ZI95vV7Co38"
+          text: "Video"
+        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day4-surveys/01-survey-research-digital-age.pdf"
+          text: "Slides"  
+    - name: "Open Call"
+      video: "https://www.youtube.com/embed/5AwS7T7LUlw"
+      sublinks:
+        - link: "https://youtube.com//watch?v=5AwS7T7LUlw"
+          text: "Video"
+        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day4-surveys/01-survey-research-digital-age.pdf"
+          text: "Slides"   
     - name: "Distributed Data Collection"
       video: "https://www.youtube.com/embed/S0foUGRnYIo"
       sublinks:
@@ -197,6 +218,13 @@
           text: "Video"
         - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day4-surveys/01-survey-research-digital-age.pdf"
           text: "Slides"
+    - name: "Fragile Families Challenge"
+      video: "https://www.youtube.com/embed/ZI95vV7Co38"
+      sublinks:
+        - link: "https://youtube.com//watch?v=ZI95vV7Co38"
+          text: "Video"
+        - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day4-surveys/01-survey-research-digital-age.pdf"
+          text: "Slides"  
   exercise_title: "Group exercise"
   exercise:
     - name: "Lesson plan (participants)"
