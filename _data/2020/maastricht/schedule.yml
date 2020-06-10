@@ -11,8 +11,8 @@
     - name: "13.00 - 14.00 Small group lunches (*Zoom*)"
     - name: "14.00 - 14.30 Break"
     - name: "14.30 - 15.30 Guest speaker [Argyri Panezi](https://compsocialscience.github.io/summer-institute/2020/maastricht/people) (*Zoom*)"
-    - name: "15.30 - 15.45 Introduction to the group exercise (*Zoom*)"
-    - name: "15.45 - 17.30 Group exercise (*Zoom*)"
+    - name: "15.30 - 15.45 Introduction to the group exercise: [Lesson plan](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/activity/lesson_plan_ethics_participant.md) (*Zoom*)"
+    - name: "15.45 - 17.30 Group exercise: [Case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf) (*Zoom*)"
     - name: "17.30 - 17.45 Break"
     - name: "17.45 - 19.00 Keynote speaker [Johan Bollen](https://compsocialscience.github.io/summer-institute/2020/maastricht/people) (*Zoom*)"
     
@@ -23,9 +23,9 @@
     - name: "12.00 - 13.00 Guest speaker [Günes Acar](https://compsocialscience.github.io/summer-institute/2020/maastricht/people) (*Zoom*)"
     - name: "13.00 - 14.00 Small group lunches (*Zoom*)"
     - name: "14.00 - 14.30 Break"
-    - name: "14.45 - 15.00 Introduction to the group exercise (*Zoom*)"
+    - name: "14.45 - 15.00 Introduction to the group exercise: [Lesson plan](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/Group_Exercise_Day_2.html) (*Zoom*)"
     - name: "15.00 - 18.00 Group exercise (*Zoom*)"
-    - name: "18.00 - 19.00 Whole group debrief about group excercise (*Zoom*)"
+    - name: "18.00 - 19.00 Whole group debrief about group exercise (*Zoom*)"
     
 - date: 2020-06-17
   name: "<b>Automated text analysis</b>"
@@ -35,7 +35,7 @@
     - name: "14.00 - 14.30 Break"
     - name: "14.45 - 15.00 Introduction to the group exercise (*Zoom*)"
     - name: "15.00 - 18.00 Group exercise (*Zoom*)"
-    - name: "18.00 - 19.00 Whole group debrief about group excercise (*Zoom*)"
+    - name: "18.00 - 19.00 Whole group debrief about group exercise (*Zoom*)"
     
 - date: 2020-06-18
   name: "<b>Surveys in the Digital Age</b>"
@@ -45,7 +45,7 @@
     - name: "14.00 - 14.30 Break"
     - name: "14.45 - 15.00 Introduction to the group exercise (*Zoom*)"
     - name: "15.00 - 18.00 Group exercise (*Zoom*)"
-    - name: "18.00 - 19.00 Whole group debrief about group excercise (*Zoom*)"
+    - name: "18.00 - 19.00 Whole group debrief about group exercise (*Zoom*)"
     
 - date: 2020-06-19
   name: "<b>Network Analysis in Law</b>"
@@ -70,7 +70,7 @@
     - name: "12.00 - 13.00 Guest speaker [Amalia Alvarez Benjumea](https://compsocialscience.github.io/summer-institute/2020/maastricht/people) (*Zoom*)" 
     - name: "13.00 - 14.00 Small group lunches (*Zoom*)" 
     - name: "14.00 - 14.30 Break"
-    - name: "14.30 - 16.00 Workshop: Introduction Otree (*Zoom*)"
+    - name: "14.30 - 16.00 Workshop: Introduction oTree (*Zoom*)"
     - name: "16.00 - 16.30 Break"
     - name: "16.30 - 17.30 Finalizing group formation for Week 2 projects (*Zoom*)"
     
