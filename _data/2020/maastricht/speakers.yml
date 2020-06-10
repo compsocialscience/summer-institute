@@ -13,12 +13,12 @@
   bio: "Frank Fagan is an Associate Professor of Law at EDHEC Business School and a member of the Legal EDHEC research center. He teaches and writes about contracts, corporations, torts, attorney ethics, and the First Amendment. Work in progress includes empirical analysis of the complete corpus of U.S. contractual good faith case law and theoretical analysis of the strengths and limitations of algorithms in law."
   website: https://ssrn.com/author=468606
 
-- name: "Johan Bollen"
-  image: /assets/images/maas-JohanBollen.jpg
-  bio: "Johan Bollen is a professor of informatics at Indiana University . He was formerly a staff scientist at the Los Alamos National Laboratory from 2005-2009, and an Assistant Professor at the Department of Computer Science of Old Dominion University from 2002 to 2005. He obtained his PhD in Experimental Psychology from the Vrije Universiteit Brussel (VUB) in 2001. He has published more than 75 articles on computational social science, social complexity, health, well-being, machine learning, and informetrics. His research has been funded by the NSF, DARPA, IARPA, EDA, NASA, and Andrew W. Mellon Foundation. Johan lives in Bloomington, Indiana with his wife and daughter. In his free time he enjoys P90x and DJing in the local Bloomington clubs as DJ Angst (with his colleague E-trash aka Luis Rocha)."
-  website: https://homes.luddy.indiana.edu/jbollen/
-
 - name: "Gijs van Dijck"
   image: /assets/images/maas-Gijs.jpg
   bio: "Gijs van Dijck is an empirical legal scholar who specializes in tort law, insolvency law, and contract law. He uses empirical legal research methods and data sciences methods, network analysis in particular, to analyze legal issues. Research topics include the role of non-monetary relief in tort law, apologies and law, the effects tort law has on behavior, class actions, funding mechanisms in bankruptcies, and legal analytics ('big data'). He has taught courses on tort law, contract law, property law, legal methodology, and empirical legal research. Van Dijck has published in top journals including the Journal of Empirical Legal Studies and the Oxford Journal of Legal Studies. He has been a speaker at various conferences, including ones at Oxford, Harvard, Yale, Duke and Cornell. He was a visiting scholar at Stanford University in 2011.  He is Professor of Private Law, Director of M-EPLI, researcher at the Maastricht Law and Tech Lab, and Principal Investigator at BISS Institute, Smart Services Campus."
   website: https://www.maastrichtuniversity.nl/gijs.vandijck
+
+- name: "Johan Bollen"
+  image: /assets/images/maas-JohanBollen.jpg
+  bio: "Johan Bollen is a professor of informatics at Indiana University . He was formerly a staff scientist at the Los Alamos National Laboratory from 2005-2009, and an Assistant Professor at the Department of Computer Science of Old Dominion University from 2002 to 2005. He obtained his PhD in Experimental Psychology from the Vrije Universiteit Brussel (VUB) in 2001. He has published more than 75 articles on computational social science, social complexity, health, well-being, machine learning, and informetrics. His research has been funded by the NSF, DARPA, IARPA, EDA, NASA, and Andrew W. Mellon Foundation. Johan lives in Bloomington, Indiana with his wife and daughter. In his free time he enjoys P90x and DJing in the local Bloomington clubs as DJ Angst (with his colleague E-trash aka Luis Rocha)."
+  website: https://homes.luddy.indiana.edu/jbollen/
