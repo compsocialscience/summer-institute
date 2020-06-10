@@ -20,7 +20,7 @@ speakers:
       website: https://dennisfeehan.org/
     
     - name: Johannes C. Eichstaedt
-      image: /assets/images/johannes_eichstaedt.jpeg
+      image: /assets/images/johannes_eichstaedt.jpg
       bio: Johannes C. Eichstaedt is a computational social scientist. He is jointly appointed as the Ram and Vijay Shriram HAI Faculty Fellow, and an Assistant Professor (Research) in the Psychology Department. Johannes obtained his Ph.D. in Psychology and has been a Senior Research Associate at the Positive Psychology Center at the University of Pennsylvania. In 2011 he co-founded and led the World Well-Being Project, bringing together computer scientists and psychologists, which has since attracted $3.9m in funding. Before joining the social sciences, Johannes did research in particle physics with an M.S. from the University of Chicago. In 2014, he was elected an Emerging Leader in Science & Society by the American Association for Advancement of Science (AAAS). In his non-academic time he practices Tai Chi and goes on long-distance hikes.
       website: http://jeichstaedt.com/
       
@@ -130,6 +130,11 @@ participants:
     - name: Isaac Dalke 
       image: /assets/images/isaac_dalke.png
       bio: "Isaac is a graduate student in the sociology department at UC-Berkeley. His current work pairs traditional interpretive techniques and computational text analysis to investigate decision-making practices around who to release from prison in California. More broadly, he is interested in expertise and the art of governing, with an eye to the consequences of state bureaucratic practices for those whose lives hinge on them."
+      
+      
+    - name: Jeff Sheng 
+      image: /assets/images/jeff_sheng.jpg
+      bio: "Jeff Sheng is a PhD Candidate in Sociology and MS Graduate ('20) in Computer Science at Stanford University. His dissertation project examines the influence of technology on social movements, particularly the way the Internet and social computing have affected activism for LGBT rights over the past two decades. He also recently completed a research internship with the social media company Twitch on a collaborative paper examining the ways weak ties become strong ties on that platform. At a broader level, his research uses both qualitative, quantitative, and CSS methodologies to better understand how social media technologies shape culture, networks, and political change."
 
     - name: Krista Schnell
       image: /assets/images/krista_schnell.png
