@@ -56,7 +56,7 @@
       time: "16:00 - 16:30"
     - name: "Tutorial Session: [Data Journalism in Antropogene](https://docs.google.com/document/d/1JwMTz2JxHNFW0T4o6SmQyyARhyPmsPLRcSmTDxuNu_8/edit?usp=sharing) *by [Pinar Dag](https://twitter.com/pinardag)*"
       time: "16:30 - 18:00"
-    - name: "[SICSS-Duke Guest Speaker](https://compsocialscience.github.io/summer-institute/2020/duke/schedule): Dan Ariely - Title TBA (optional)"
+    - name: "[SICSS-Duke Guest Speaker](https://compsocialscience.github.io/summer-institute/2020/duke/schedule): [Dan Ariely](http://danariely.com/) - Title TBA (optional)"
       time: "23:00 - 24:00"
 - date: 2020-06-17
   name: Digital Surveys and Text as Data
@@ -133,6 +133,8 @@
       time: "16:00 - 17:00"
     - name: "[SICSS Festival](https://compsocialscience.github.io/summer-institute/2020/festival): *Creating open source software as part of an academic career* (optional)"
       time: "18:00 - 19:00"
+    - name: "[SICSS-Duke Guest Speaker](https://compsocialscience.github.io/summer-institute/2020/duke/schedule): [Elizabeth E. Bruch](https://mhbsd.net/) - Title TBA (optional)"
+      time: "23:00 - 24:00"
       
 - date: 2020-06-26
   name: Present Group Projects
