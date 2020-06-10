@@ -18,6 +18,26 @@ speakers:
       image: /assets/images/dennis_feehan.jpeg
       bio: Dennis Feehan is a demographer and quantitative social scientist. His research interests lie at the intersection of networks, demography, and quantitative methodology. He's an Assistant Professor of Demography at the University of California, Berkeley. In the summer of 2015, he finished his Ph.D. at Princeton’s Office of Population Research, and he spent the fall of 2015 as a Research Scientist at Facebook.
       website: https://dennisfeehan.org/
+    
+    - name: Johannes C. Eichstaedt
+      image: /assets/images/johannes_eichstaedt.jpeg
+      bio: Johannes C. Eichstaedt is a computational social scientist. He is jointly appointed as the Ram and Vijay Shriram HAI Faculty Fellow, and an Assistant Professor (Research) in the Psychology Department. Johannes obtained his Ph.D. in Psychology and has been a Senior Research Associate at the Positive Psychology Center at the University of Pennsylvania. In 2011 he co-founded and led the World Well-Being Project, bringing together computer scientists and psychologists, which has since attracted $3.9m in funding. Before joining the social sciences, Johannes did research in particle physics with an M.S. from the University of Chicago. In 2014, he was elected an Emerging Leader in Science & Society by the American Association for Advancement of Science (AAAS). In his non-academic time he practices Tai Chi and goes on long-distance hikes.
+      website: http://jeichstaedt.com/
+      
+    - name: Luke Terra 
+      image: /assets/images/luke_terra.jpg
+      bio: Luke directs the Community Engaged Learning and Research (CELR) division at the Haas Center for Public Service. The CELR team supports faculty and students in connecting teaching and research to broader public concerns through service-learning courses, community-engaged internships, and community-based research. Luke received his doctorate in history of education and international comparative education at the Stanford Graduate School of Education. His research focuses on teaching and learning in secondary history and civics classrooms. Luke’s dissertation explored the development of a common history curriculum in Northern Ireland, and the challenges of teaching history in a post-conflict context. Prior to his doctoral work, Luke managed international partnerships for the Center for Civic Education, supporting civic educators in Eastern Europe, the Balkans, Malawi, India and Indonesia. He previously served as assistant director of the Center for Service and Learning at Colorado College, where he worked with student service organizations, community organizations, and faculty interested in community engagement.
+      website: https://haas.stanford.edu/people/luke-terra
+
+    - name: Sameer B. Srivastava
+      image: /assets/images/sameer_srivastava.jpg
+      bio: Sameer B. Srivastava is the Harold Furst Chair in Management Philosophy and Values at Berkeley Haas. He is also affiliated with UC Berkeley Sociology. His research unpacks the complex interrelationships among the culture of social groups, the cognition of individuals within these groups, and the connections that people forge within and across groups. Much of his work is set in organizational contexts, where he uses computational methods to examine how culture, cognition, and networks independently and jointly relate to career outcomes. His work has been published in scholarly journals such as American Journal of Sociology, American Sociological Review, Administrative Science Quarterly, Management Science, and Organization Science. It has been covered in media outlets, including The New York Times, The Economist, Fortune, The Wall Street Journal, Financial Times, and Forbes. He teaches a popular MBA elective course, Power and Politics in Organizations, and co-directs the Berkeley-Stanford Computational Culture Lab. 
+      website: https://haas.berkeley.edu/faculty/srivastava-sameer/
+      
+    - name: Sharad Goel
+      image: /assets/images/sharad_goel.png
+      bio: Sharad Goel is an assistant professor at Stanford in the Department of Management Science & Engineering, in the School of Engineering. He also has courtesy appointments in Computer Science, Sociology, and the Law School. His primary area of research is computational social science, an emerging discipline at the intersection of computer science, statistics, and the social sciences. Sharad is particularly interested in applying modern computational and statistical techniques to understand and improve public policy. Sharad is the founder and executive director of the Stanford Computational Policy Lab, a team of researchers, data scientists, and journalists that addresses policy problems through technical innovation. 
+      website: https://5harad.com/   
       
 organizers:
   title: Organizers
@@ -110,6 +130,11 @@ participants:
     - name: Isaac Dalke 
       image: /assets/images/isaac_dalke.png
       bio: "Isaac is a graduate student in the sociology department at UC-Berkeley. His current work pairs traditional interpretive techniques and computational text analysis to investigate decision-making practices around who to release from prison in California. More broadly, he is interested in expertise and the art of governing, with an eye to the consequences of state bureaucratic practices for those whose lives hinge on them."
+      
+      
+    - name: Jeff Sheng 
+      image: /assets/images/jeff_sheng.jpg
+      bio: "Jeff Sheng is a PhD Candidate in Sociology and MS Graduate ('20) in Computer Science at Stanford University. His dissertation project examines the influence of technology on social movements, particularly the way the Internet and social computing have affected activism for LGBT rights over the past two decades. He also recently completed a research internship with the social media company Twitch on a collaborative paper examining the ways weak ties become strong ties on that platform. At a broader level, his research uses both qualitative, quantitative, and CSS methodologies to better understand how social media technologies shape culture, networks, and political change."
 
     - name: Krista Schnell
       image: /assets/images/krista_schnell.png
