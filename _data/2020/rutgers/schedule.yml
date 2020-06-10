@@ -39,7 +39,7 @@
       time: "14:00 - 15:30"
     - name: "<b>Break</b>"
       time: "15:30 - 16:00"
-    - name: "<b>Debrief on Text as Data Activity and Lessons</b>"
+    - name: "<b>Debrief on Text as Data Activity</b>"
       time: "16:00 - 16:45"
 
 - date: 2020-06-18
@@ -51,7 +51,7 @@
       time: "12:15 - 13:15"
     - name: "<b>Activity on Surveys in the Ditigal Age</b>"
       time: "13:30 - 15:45" 
-    - name: "<b>Polarization and Nationalization of America's State Parties: An Analysis of State Party Platforms, 1918-2017</b> (Daniel Hopkins (joint work with Eric Schickler)"
+    - name: "<b>Polarization and Nationalization of America's State Parties: An Analysis of State Party Platforms, 1918-2017</b> (Daniel Hopkins, joint work with Eric Schickler)"
       time: "16:00 - 17:30"
 
 - date: 2020-06-19
@@ -94,7 +94,7 @@
   events:
     - name: "<b>Work on Group Projects</b>"
       time: "09:00 - 15:30"
-    - name: "<b>Guest Speaker</b> (Adam Thal, How to Survey Political Elites)"
+    - name: "<b>How to Survey Political Elites</b> (Adam Thal)"
       time: "15:30 - 16:45"
 
 - date: 2020-06-25
