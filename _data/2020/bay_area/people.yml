@@ -11,6 +11,14 @@ faculty:
       bio: David Harding (Ph.D. Harvard, 2005) is a Professor of Sociology and Faculty Director, Social Science D-Lab at at University of California, Berkeley. David J. Harding has taught quantitative methods for over ten years at both the University of Michigan and UC Berkeley. In his own research, he has used various methods for causal inference, including propensity score matching, sensitivity analysis, inverse probability of treatment weighting, panel data models, regression with residuals, field experiments, and natural experiments. His recent work has appeared in the American Sociological Review, American Journal of Sociology, Social Forces, Proceedings of the National Academy of Science, and Nature Human Behaviour, among other journals.
       website: https://sociology.berkeley.edu/faculty/david-j-harding
 
+speakers: 
+  title: Speakers 
+  people:
+    - name: Dennis Feehan
+      image: /assets/images/dennis_feehan.jpeg
+      bio: Dennis Feehan is a demographer and quantitative social scientist. His research interests lie at the intersection of networks, demography, and quantitative methodology. He's an Assistant Professor of Demography at the University of California, Berkeley. In the summer of 2015, he finished his Ph.D. at Princeton’s Office of Population Research, and he spent the fall of 2015 as a Research Scientist at Facebook.
+      website: https://dennisfeehan.org/
+      
 organizers:
   title: Organizers
   people:
@@ -62,7 +70,7 @@ participants:
     
     - name: Allison Jiang 
       image: /assets/images/allison_jiang.png
-      bio: Allison Jiang is a PhD student in Economics at University of California, Berkeley. She is interested in Behavioral Economics with applications in real world settings. Her research focuses on identifying behavioral biases and examining how they affect decision making. More specifically, her current research is about helping individuals alleviate obesity and digital addiction. 
+      bio: "Allison Jiang is a PhD student in Economics at University of California, Berkeley. She is interested in Behavioral Economics with applications in real world settings. Her current research focuses helping individuals alleviate obesity and digital addiction."
   
     - name: Brian Kim
       image: /assets/images/brian_kim.png
