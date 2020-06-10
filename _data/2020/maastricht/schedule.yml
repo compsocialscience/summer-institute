@@ -48,12 +48,13 @@
 - date: 2020-06-19
   name: "<b>Network Analysis in Law</b>"
   events:
-    - name: "12.00 - 13.00 Guest speaker TBA (*Zoom*)" 
+    - name: "12.00 - 13.00 Lecture on network analysis by [Gijs van Dijck](https://compsocialscience.github.io/summer-institute/2020/maastricht/people) (*Zoom*)" 
     - name: "13.00 - 14.00 Small group lunches (*Zoom*)" 
     - name: "14.00 - 14.30 Break"
-    - name: "14.30 - 16.00 Workshop: Introduction Gephi  (*Zoom*)"
+    - name: "14.30 - 16.00 Workshop: Introduction Gephi by [Constanta Rosca](https://compsocialscience.github.io/summer-institute/2020/maastricht/people) (*Zoom*)"
     - name: "16.00 - 16.30 Break"
-    - name: "16.30 - 17.30 Whole group discussion on network analysis in law (*Zoom*)"
+    - name: "16.30 - 18.30 Group exercise (*Zoom*)"
+    - name: "18.30 - 19.00 Reporting back the results of group exercises (*Zoom*)"
     
 - date: 2020-06-20
   name: Day off
