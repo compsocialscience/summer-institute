@@ -50,10 +50,6 @@
   image: /2020/montreal/images/robert-wp.jpg
   bio: "Robert Vidigal is a Ph.D Candidate at the Department of Political Science, Stony Brook University, NY. His research focuses on Comparative Political Behavior, Political Communication, Political Psychology, Public Opinion, and Network Analysis. He is interested in how political communication influences voters behavior and political attitudes. Especially, citizens’ ability and motivations to learn and process new information."
 
-- name: Dan Xu
-  image: 
-  bio: "Dan Xu is a doctoral student in Information at the University of Toronto. His research focuses on misinformation propagation in homogeneous and heterogeneous social networks. He is particularly interested in how misinformation shapes people's political attitudes and behaviors, and hence contributes to political polarization and ideological segregation."
-  
 - name: Baturay Yurtbay
   image: /2020/montreal/images/Baturay Yurtbay.jpg  
   bio: "I studied Political Science and International Relations at Yeditepe University, Istanbul, Turkey, and took a double major in Sociology at the same university. During my education, I also attended various universities such as The Hague University of Applied Sciences as an Erasmus student, Beijing Language and Culture, and University of Oslo for Comparative Social Science Summer School. I hold a Master at the Department of War Studies at King's College London. During my MA, I worked about peace processes in Turkey by evaluating the socio-political steps in this process by attempting to understand governmental responses and the reactions of terrorist actions. I have been research assistant in the Department of Sociology at Yeditepe University since 2016 where I do my doctoral study. I also studied in the department of Politics and International Relations as recognised student at University of Oxford between 2019-2020 for my doctoral studies. My main research areas are political sociology, terrorism studies, sociology of war and social movements. My doctoral research focuses on exploring the institutional responses and counter-terrorism strategies developed by Turkey and the United Kingdom in the aftermath of the terrorist attacks, 2003 Istanbul and 2005 London terrorist attacks. I plan to defend my thesis in September 2020."
@@ -66,3 +62,7 @@
   image: /2020/montreal/images/Firmin.png   
   bio: "Firmin Zinvi is PhD candidate in demography at University of Montreal. He holds a master’s degree in demography at the Institut de Formation et de Recherche Démographiques in Cameroon and a bachelor’s degree in statistics at École nationale supérieure de statistique et d’économie appliquées in Ivory Coast. His research focuses on fertility, female employment, reproductive health and demographic dividend in Sub-Saharan Africa. He is also interested on quantitative methods such as longitudinal analysis, structural equation models, spatial analysis and most recently bayesian analysis." 
 
+- name: Dan Xu
+  image: 
+  bio: "Dan Xu is a doctoral student in Information at the University of Toronto. His research focuses on misinformation propagation in homogeneous and heterogeneous social networks. He is particularly interested in how misinformation shapes people's political attitudes and behaviors, and hence contributes to political polarization and ideological segregation."
+  
