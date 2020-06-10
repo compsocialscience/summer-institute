@@ -7,7 +7,7 @@
 
 To prepare for this activity you should:
 - Carefully read the [lesson plan for participants](lesson_plan_survey_participant.md) and the reading assignments included in it.
-- Prepare one temporary MTurk account for each group that will be collecting data (if funding is available to support this data collection)
+- If you have funds to support MTurk data collection for this activity, prepare one temporary MTurk account for each group that will be collecting data.  If you don't have funds, you can still do many of the other parts of this activity (e.g., create the survey, analyze the dataset that we have collected).
 - Optional: Set up collaboration tools for programming exercise
 
 ### Group formation
