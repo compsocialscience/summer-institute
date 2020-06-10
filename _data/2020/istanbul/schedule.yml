@@ -1,9 +1,14 @@
 - date: All times are local Istanbul Time and All program will be Zoom-based.
 
+- date: "Pre-SICSS Period: Tasks and Dinner Talks"
+  events:
+    - name: "**[Pre-SICSS Tasks](http://www.ninarva.com/markdowns/pre_SICSS_Istanbul.html#welcome)**<br/>Theory and practise rarely meet in the real world. Therefore instead of writing tutorials which are long, fancy and full with nice codes, we are going to suggest three introductory guides and two abstract case studies, and provide guidance every week till SICSS via zoom and Slack. The tasks cover data collection, cleaning and reporting. We are leaving the analysis to SICSS weeks."
+    - name: "**Dinner Talks**<br/> While working Pre-SICSS tasks, informal small group dinner talks will be organized to share our experiences, discuss on project ideas, talk about SICSS materials, and chat on participant's questions."
+
 - date: 2020-05-31
   name: Introduction to Pre-SICSS Period
   events:
-    - name: "Meet and Introduce [Pre-SICSS Tasks](http://www.ninarva.com/markdowns/pre_SICSS_Istanbul.html#welcome)"
+    - name: "Meet and Introduce Pre-SICSS Tasks"
       time: "15:00-16:00"
  
 - date: 2020-06-02
@@ -35,7 +40,12 @@
   events:
     - name: "Closing Pre-SICSS and Whole Group Meeting"
       time: "15:00 - 16:00"   
-      
+ 
+- date: "SICSS-Istanbul First Week: Discussions and Tutorials"
+  events:
+    - name: "**Discussion Sessions**<br/>[SICSS Learning materials[(https://compsocialscience.github.io/summer-institute/curriculum) will be covered during the discussion sessions. Participants are expected to watch the relevant vidoes on the website before coming to the discussion session. Relevant links is provided on the schedule. The aim is to underline important points in the materials, to discuss participant's questions and to prepare participants for Tutorial sessions."
+    - name: "**Tutorial Sessions**<br/> After the discussion sessions, our Lecturers will organize tutorial sessions in which Participants will gain hands-on experience on different methods and will have an opportunity to see how to design a research"
+
 - date: 2020-06-15
   name:  Ethics
   events:
@@ -101,13 +111,19 @@
 
 - date: 2020-06-21
   name: Day Off
-  
+
+- date: "SICSS-Istanbul Second Week: Projects and Alumni Talks"
+  events:
+    - name: "**Projects**<br/> This week is only devoted to work on  group projects or individual projects. Participants will be expected to report their progressions every morning."
+    - name: "**Alumni Talks**<br/> During the alumni talks, Participants from last year will talk about their [ongoing projects](https://compsocialscience.github.io/summer-institute/2019/istanbul/projects) and will share their experiences during and after SICSS-Istanbul."
+    - name: "**[SICSS Festival](https://compsocialscience.github.io/summer-institute/2020/festival)**<br/> Additonal to SICSS-Istanbul Alumni talks, SICSS-Duke will organize The SICSS Festival in which alumni from all SICSS locations are hosting events such as tutorials, panel discussions, or debates. The only requirement to participate SICSS-Festival is filling the registration form. Detailed information can be found in its website. SICSS-Istanbul participants can find transformed times in this schedule."
+
 - date: 2020-06-22
   name: Work on Group Projects and Alumni Talks
   events:
     - name: "Coffee and Alumni Talk with [Türkoğlu, D., Odabaş, M., Tunaoğlu, D., Yavaş, M.](https://compsocialscience.github.io/summer-institute/2019/istanbul/projects)"
       time: "16:00 - 17:00"
-    - name: "[SICSS Festival](https://compsocialscience.github.io/summer-institute/2020/festival): *Panel discussion on teaching computational social science* (optional)"
+    - name: "[SICSS Festival](https://compsocialscience.github.io/summer-institute/2020/festival): *Panel discussion on teaching computational social science* (optional-[Registration](https://docs.google.com/forms/d/e/1FAIpQLScap0v97dcppONFXMu4l5yCTMkZYLqTg7tRsLzoBi05OOsD4Q/viewform))"
       time: "19:00 - 20:00"
 
 
@@ -116,7 +132,7 @@
   events:
     - name: "Coffee and Alumni Talk with [Canbolat, S., Kocacik, M.A., Shahin, E.](https://compsocialscience.github.io/summer-institute/2019/istanbul/projects)"
       time: "16:00 - 17:00"
-    - name: "[SICSS Festival](https://compsocialscience.github.io/summer-institute/2020/festival): *Panel discussion on diversity in computational social science* (optional)"
+    - name: "[SICSS Festival](https://compsocialscience.github.io/summer-institute/2020/festival): *Panel discussion on diversity in computational social science* (optional-[Registration](https://docs.google.com/forms/d/e/1FAIpQLSdPaMXABgLvHtukNVVRanBbKyr7S3aNmC_OyBmSot8Gx9TzbA/viewform))"
       time: "22:30 - 23:30"
 
 - date: 2020-06-24
@@ -131,7 +147,7 @@
   events:
     - name: "Coffee and Alumni Talk with [Kekulluoglu, D., Ghmari, S., Sodaci, H.](https://compsocialscience.github.io/summer-institute/2019/istanbul/people)"
       time: "16:00 - 17:00"
-    - name: "[SICSS Festival](https://compsocialscience.github.io/summer-institute/2020/festival): *Creating open source software as part of an academic career* (optional)"
+    - name: "[SICSS Festival](https://compsocialscience.github.io/summer-institute/2020/festival): *Creating open source software as part of an academic career* (optional-[Registration](https://docs.google.com/forms/d/e/1FAIpQLSec9yD4vwgIf8MmcMmQl6ykyCnr0aL8bekY8o4BjxNkRa5u8g/viewform))"
       time: "18:00 - 19:00"
     - name: "[SICSS-Duke Guest Speaker](https://compsocialscience.github.io/summer-institute/2020/duke/schedule): [Elizabeth E. Bruch](https://mhbsd.net/) - Title TBA (optional)"
       time: "23:00 - 24:00"
@@ -143,5 +159,5 @@
       time: "12:00 - 14:00"
     - name: "Conclusion"
       time: "14:00 - 14:30"
-    - name: "[SICSS Festival](https://compsocialscience.github.io/summer-institute/2020/festival): *Opportunities and challenges with industry collaborations* (optional)"
+    - name: "[SICSS Festival](https://compsocialscience.github.io/summer-institute/2020/festival): *Opportunities and challenges with industry collaborations* (optional-[Registration](https://docs.google.com/forms/d/e/1FAIpQLSeF_D2NJyS1lvFMX-tTv1qBEK2K69mx_IdarbUxhyKgGd-RuA/viewform))"
       time: "17:00 - 18:00"
