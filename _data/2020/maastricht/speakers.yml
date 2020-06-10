@@ -8,6 +8,11 @@
   bio: "Argyri is Assistant Professor of Law and Technology at IE Law School. Her research interests include access to knowledge, digitization, and AI."
   website: https://www.ie.edu/law-school/faculty-research/faculty/argyri-panezi/
 
+- name: "Constanta Rosca"
+  image: /assets/images/maas-Constanta.jpg
+  bio: "Constanta Rosca is a PhD researcher in Digital Legal Studies at the Maastricht Law and Tech Lab (Maastricht University). Constanta Rosca holds a LL.B. in European Law (cum laude, 2017) and a LL.M. in European Law (cum laude, 2018) from Maastricht University. During her studies at Maastricht University, Constanta participated in the research excellence programme MaRBLE, lead the team in charge of the Ambassador Lectures project and was a teaching fellow for Introduction to International and European Law, International and European Law, SMEI (States, Markets and European Integration) and Comparative Contract Law. Constanta is also the co-coordinator of the Python Club. The Python Club is an initiative to support the development of programming and data analysis skills amongst researchers at the Faculty of Law."
+  website: https://www.maastrichtuniversity.nl/constanta.rosca
+
 - name: "Frank Fagan"
   image: /assets/images/maas-FrankFagan.jpg
   bio: "Frank Fagan is an Associate Professor of Law at EDHEC Business School and a member of the Legal EDHEC research center. He teaches and writes about contracts, corporations, torts, attorney ethics, and the First Amendment. Work in progress includes empirical analysis of the complete corpus of U.S. contractual good faith case law and theoretical analysis of the strengths and limitations of algorithms in law."
@@ -17,6 +22,11 @@
   image: /assets/images/maas-Gijs.jpg
   bio: "Gijs van Dijck is an empirical legal scholar who specializes in tort law, insolvency law, and contract law. He uses empirical legal research methods and data sciences methods, network analysis in particular, to analyze legal issues. Research topics include the role of non-monetary relief in tort law, apologies and law, the effects tort law has on behavior, class actions, funding mechanisms in bankruptcies, and legal analytics ('big data'). He has taught courses on tort law, contract law, property law, legal methodology, and empirical legal research. Van Dijck has published in top journals including the Journal of Empirical Legal Studies and the Oxford Journal of Legal Studies. He has been a speaker at various conferences, including ones at Oxford, Harvard, Yale, Duke and Cornell. He was a visiting scholar at Stanford University in 2011.  He is Professor of Private Law, Director of M-EPLI, researcher at the Maastricht Law and Tech Lab, and Principal Investigator at BISS Institute, Smart Services Campus."
   website: https://www.maastrichtuniversity.nl/gijs.vandijck
+
+- name: "Gunes Acar"
+  bio: "Gunes is a FWO postdoctoral fellow at KU Leuven's COSIC research group. His research interests involve web tracking measurement, anonymous communications, and IoT privacy and security. Gunes obtained his PhD at KU Leuven in 2017, and was a postdoctoral researcher between 2017 and 2019 at Princeton University's Center for Information Technology Policy."
+  website: https://scholar.google.com/citations?user=B6yKiPQAAAAJ&hl=en
+
 
 - name: "Johan Bollen"
   image: /assets/images/maas-JohanBollen.jpg
