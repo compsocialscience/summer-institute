@@ -12,7 +12,7 @@
 
 - date: 2020-06-16
   name: "Collecting Digital Trace Data"
-    events:
+  events:
       - name: "1:00 - 1:30 Logistics and introduction to group exercise (*Zoom*)"
       - name: "1:30 - 3:00 Group excercise (*Zoom*)"
       - name: "3:00 - 3:15 Whole group debrief about group excercise (*Zoom*)"
@@ -22,7 +22,7 @@
 
 - date: 2020-06-17
   name: "Automated Text Analysis"
-    events:
+  events:
       - name: "1:00 - 1:30 Logistics and Introduction to the group exercise (*Zoom*)"
       - name: "1:30 - 3:15 Group excercise(*Zoom*)"
       - name: "3:15 - 3:30 Whole group debrief about group excercise (*Zoom*)"
@@ -32,7 +32,7 @@
       
 - date: 2020-06-18
   name: "Surveys in the Digital Age"
-    events:
+  events:
       - name: "10:00 - 10:15 Logistics (*Zoom*)"
       - name: "10:15 - 10:30 Introduction to the group exercise (*Zoom*)"
       - name: "10:30 - 11:30 Morning group excercise (*Zoom*)"
@@ -46,7 +46,7 @@
 
 - date: 2020-06-19
   name: "Mass collaboratation and machine learning"
-    events:
+  events:
       - name: "10:00 - 10:15 Logistics (*Zoom*)"
       - name: "10:15 - 10:30 Introduction to the group exercise (*Zoom*)"
       - name: "10:30 - 11:30 Participate in the Fraglie Families Challenge (*Zoom*)"
@@ -71,11 +71,11 @@
 
 - date: 2020-06-23
   name: Work on partner projects and participate in SICSS Festival (optional)
-      - name: "4:00 - 5:00 Dennis Feehan, UC Berkeley"
+      - name: "4:00 - 5:00 Dennis Feehan, UC Berkeley (Demography)"
       - name: "5:00 - 5:30 Debrief and logistics (*Zoom*)"
 
 - date: 2020-06-24
-   name: Work on partner projects and participate in SICSS Festival (optional)
+  name: Work on partner projects and participate in SICSS Festival (optional)
       - name: "4:00 - 5:00 Speaker TBD"
       - name: "5:00 - 5:30 Debrief and logistics (*Zoom*)"
 
@@ -86,7 +86,7 @@
 
 - date: 2020-06-26
   name: Work on partner projects and participate in SICSS Festival (optional)
-      - name: "4:00 - 5:00 Susan Athey, Stanford Graduate School of Business"
+      - name: "4:00 - 5:00 Susan Athey, Stanford (Graduate School of Business)"
       - name: "5:00 - 5:30 Project Check-Ins (*Zoom*)"
 
 - date: 2020-06-27
@@ -97,20 +97,20 @@
 
 - date: 2020-06-29
   name: Work on partner projects
-      - name: "4:00 - 5:00 Rob Reich, Stanford University"
+      - name: "4:00 - 5:00 Rob Reich, Stanford University (Political Science)"
       - name: "5:00 - 5:30 Debrief and logistics (*Zoom*)"
 
 - date: 2020-06-30
   name: Work on partner projects
-      - name: "4:00 - 5:00 Eli Ben-Michael, UC Berkeley"
+      - name: "4:00 - 5:00 Eli Ben-Michael, UC Berkeley (Statistics)"
       - name: "5:00 - 5:30 Debrief and logistics (*Zoom*)"
 
 - date: 2020-07-01
-   name: Work on partner projects
+  name: Work on partner projects
       - name: "4:00 - 5:00 Speaker TBD"
       - name: "5:00 - 5:30 Debrief and logistics (*Zoom*)"
 
 - date: 2020-07-02
-   name: PPP (Partner Project Presentations)
+  name: PPP (Partner Project Presentations)
       - name: "4:00 - 5:30 Final Presentations"
       - name: "5:30 - 6:00 Closing Remarks (*Zoom*)"    
