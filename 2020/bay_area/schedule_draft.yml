@@ -2,7 +2,7 @@
   name: "Introduction and Ethics"
   events:
     - name: "1:00 - 1:20 Welcome to BAY-SICSS and Logistics (*Zoom*)"
-    - name: "1:20 - 2:00 Introductory Remarks from David Harding, UC Berkeley D-Lab (*Zoom*)"
+    - name: "1:20 - 2:00 Introductory remarks from David Harding, UC Berkeley D-Lab (*Zoom*)"
     - name: "2:00 - 3:00 Small Group Discussion [Lesson Plan](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/small_group_discussions.md)"
     - name: "3:00 - 3:45 Break"
     - name: "3:45 - 4:00 Introduction to the group exercise (*Zoom*)"
@@ -13,31 +13,23 @@
 - date: 2020-06-16
   name: "Collecting Digital Trace Data"
     events:
-      - name: "10:00 - 10:15 Logistics (*Zoom*)"
-      - name: "10:15 - 11:30 Small group discussions (*Zoom*)"
-      - name: "11:30 - 12:00 Break"
-      - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
-      - name: "1:00 - 1:15 Break"
-      - name: "1:15 - 1:30 Introduction to the group exercise (*Zoom*)"
+      - name: "1:00 - 1:30 Logistics and introduction to group exercise (*Zoom*)"
       - name: "1:30 - 3:00 Group excercise (*Zoom*)"
       - name: "3:00 - 3:15 Whole group debrief about group excercise (*Zoom*)"
-      - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
-      - name: "4:00 - 5:30 Possible guest speaker"
-
+      - name: "3:15 - 4:00 Break"
+      - name: "4:00 - 5:00 Johannes Eichstadt, Stanford University"
+      - name: "5:00 - 5:15 Debrief and logistics (*Zoom)"
 
 - date: 2020-06-17
   name: "Automated Text Analysis"
     events:
-      - name: "10:00 - 10:15 Logistics (*Zoom*)"
-      - name: "10:15 - 11:30 Small group discussions (*Zoom*)"
-      - name: "11:30 - 12:00 Break"
-      - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
-      - name: "1:00 - 1:15 Break"
-      - name: "1:15 - 1:30 Introduction to the group exercise (*Zoom*)"
-      - name: "1:30 - 3:00 Group excercise(*Zoom*)"
-      - name: "3:00 - 3:15 Whole group debrief about group excercise (*Zoom*)"
-      - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
-      - name: "4:00 - 5:30 Possible guest speaker
+      - name: "1:00 - 1:30 Logistics and Introduction to the group exercise (*Zoom*)"
+      - name: "1:30 - 3:15 Group excercise(*Zoom*)"
+      - name: "3:15 - 3:30 Whole group debrief about group excercise (*Zoom*)"
+      - name: "3:30 - 4:30 Break"
+      - name: "4:30 - 5:30 Sharad Goel, Stanford University"
+      - name: "5:30 - 5:45 Debrief and logistics (*Zoom)"
+      
 - date: 2020-06-18
   name: "Surveys in the Digital Age"
     events:
@@ -51,6 +43,7 @@
       - name: "3:00 - 3:15 Whole group debrief about group excercise (*Zoom*)"
       - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
       - name: "4:00 - 5:30 Possible guest speaker
+
 - date: 2020-06-19
   name: "Mass collaboratation and machine learning"
     events:
@@ -72,22 +65,52 @@
   name: Day off
 
 - date: 2020-06-22
-  name: Work on group projects (optional) and/or participate in SICSS Festival
-      - name: "4:00 - 5:30 Possible guest speaker"
+  name: Work on partner projects and participate in SICSS Festival (optional)
+      - name: "4:00 - 5:00 Luke Terra, Stanford University"
+      - name: "5:00 - 5:30 Debrief and logistics (*Zoom*)"
 
 - date: 2020-06-23
-  name: Work on group projects (optional) and/or participate in SICSS Festival
-      - name: "4:00 - 5:30 Possible guest speaker"
+  name: Work on partner projects and participate in SICSS Festival (optional)
+      - name: "4:00 - 5:00 Dennis Feehan, UC Berkeley"
+      - name: "5:00 - 5:30 Debrief and logistics (*Zoom*)"
 
 - date: 2020-06-24
-  name: Work on group projects (optional) and/or participate in SICSS Festival
-      - name: "4:00 - 5:30 Possible guest speaker"
+   name: Work on partner projects and participate in SICSS Festival (optional)
+      - name: "4:00 - 5:00 Speaker TBD"
+      - name: "5:00 - 5:30 Debrief and logistics (*Zoom*)"
 
 - date: 2020-06-25
-  name: Work on group projects (optional) and/or participate in SICSS Festival
-      - name: "4:00 - 5:30 Possible guest speaker"
+  name: Work on partner projects and participate in SICSS Festival (optional)
+      - name: "4:00 - 5:00 Sameer Srivastava, UC Berkeley (Haas School of Business)"
+      - name: "5:00 - 5:30 Debrief and logistics (*Zoom*)"
 
 - date: 2020-06-26
-  name: Present group projects
-    - name: "12:00 - 4:00 Present group projects (*Zoom*)"
-    - name: "4:00 - 4:30 Debrief and conclusion"
+  name: Work on partner projects and participate in SICSS Festival (optional)
+      - name: "4:00 - 5:00 Susan Athey, Stanford Graduate School of Business"
+      - name: "5:00 - 5:30 Project Check-Ins (*Zoom*)"
+
+- date: 2020-06-27
+  name: Day off
+
+- date: 2020-06-28
+  name: Day off
+
+- date: 2020-06-29
+  name: Work on partner projects
+      - name: "4:00 - 5:00 Rob Reich, Stanford University"
+      - name: "5:00 - 5:30 Debrief and logistics (*Zoom*)"
+
+- date: 2020-06-30
+  name: Work on partner projects
+      - name: "4:00 - 5:00 Eli Ben-Michael, UC Berkeley"
+      - name: "5:00 - 5:30 Debrief and logistics (*Zoom*)"
+
+- date: 2020-07-01
+   name: Work on partner projects
+      - name: "4:00 - 5:00 Speaker TBD"
+      - name: "5:00 - 5:30 Debrief and logistics (*Zoom*)"
+
+- date: 2020-07-02
+   name: PPP (Partner Project Presentations)
+      - name: "4:00 - 5:30 Final Presentations"
+      - name: "5:30 - 6:00 Closing Remarks (*Zoom*)"    
