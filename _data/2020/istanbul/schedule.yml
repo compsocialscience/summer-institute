@@ -47,7 +47,7 @@
     - name: "**Tutorial Sessions**<br/> After the discussion sessions, our Lecturers will organize tutorial sessions in which Participants will gain hands-on experience on different methods and will have an opportunity to see how to design a research in computational social science."
 
 - date: 2020-06-15
-  name:  Ethics
+  name:  Ethics and Computational Social Science
   events:
   
     - name: "[Discussion on Ethics](https://compsocialscience.github.io/summer-institute/curriculum#day_1)"
@@ -70,7 +70,7 @@
       time: "23:00 - 24:00"
       
 - date: 2020-06-17
-  name: Digital Surveys and Geo-Spatial Data Analysis 
+  name: Digital Surveys and Geo-Spatial Data  
   events:
     - name: "[Discussion on Surveys in the Digital Age](https://compsocialscience.github.io/summer-institute/curriculum#day_4)"
       time: "15:00 - 16:00"
@@ -101,7 +101,7 @@
       time: "16:30 - 18:00"
 
 - date: 2020-06-20
-  name: Agent-based Modelling and Simulation
+  name: Computational Simulation and Agent-based Model 
   events:
     - name: "[Discussion on Simulations and Complex Systems](http://codingsocialscience.org/book/r1/node95.html)"
       time: "15:00 - 16:00"
