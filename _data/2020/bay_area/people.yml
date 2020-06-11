@@ -24,6 +24,11 @@ speakers:
       image: /assets/images/dennis_feehan.jpeg
       bio: Dennis Feehan is a demographer and quantitative social scientist. His research interests lie at the intersection of networks, demography, and quantitative methodology. He's an Assistant Professor of Demography at the University of California, Berkeley. In the summer of 2015, he finished his Ph.D. at Princeton’s Office of Population Research, and he spent the fall of 2015 as a Research Scientist at Facebook.
       website: https://dennisfeehan.org/
+      
+    - name: Eli Ben-Michael
+      image: /assets/images/eli_ben_michael.jpg
+      bio: "Eli Ben-Michael is a PhD candidate in statistics at U.C. Berkeley. Previously, he studied at Columbia University where he earned a bachelor's degree in computer science and statistics. Drawing from computational statistics, optimization, and machine learning, he works on developing methods for causal inference and applying them to problems in the social sciences."
+      website: https://ebenmichael.github.io/
     
     - name: Johannes C. Eichstaedt
       image: /assets/images/johannes_eichstaedt.jpg
