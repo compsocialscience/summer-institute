@@ -18,9 +18,9 @@
 </style>
 
 
-Group Projects
+Research Speed Dating
 ========================================================
-author: Chris Bail/Matt Salganik, 
+author: Chris Bail, 
 date: SICSS
 autosize: true
 transition: none
@@ -121,7 +121,7 @@ Timeline for this week
 ========================================================
 &nbsp;
 
-Monday afternoon: refine group project idea  
+Monday: develop group project ideas and make research teams
 
 Tuesday morning: write brief (<1 page) proposal 
 
@@ -132,7 +132,7 @@ Tuesday afternoon-Thursday night: work on group projects
 Friday (all day): group presentations (with feedback)
 
 
-REQUIRED Deliverable
+Deliverable
 ========================================================
 &nbsp;
 
@@ -171,73 +171,15 @@ Read the Googlesheet
 &nbsp;
 
 
-```r
-#read in interests from google sheet
-library(googlesheets)
-our_interests<-gs_url("https://docs.google.com/spreadsheets/d/1RIeYYvtzEX2kkrXspP2npWBSd9_rRqtw6RywlGvCpsU/edit#gid=0")	
-#organizer, enter your site's sheet name below
-results<-gs_read(our_interests, ws="Sample")
+
+
+
+
+
+
+
+
 ```
-
-Identify Maximally similar
-========================================================
-&nbsp;
-
-
-```r
-#create distance matrix
-rownames(results) <- results$Name
-dmatrix <- dist(results, method = "euclidean") 
-fit <- hclust(dmatrix, method="ward.D") 
-# display dendogram
-plot(fit) 
-groups <- cutree(fit, k=5) # cut tree into 5 clusters
-# draw dendogram with cut points for groups 
-rect.hclust(fit, k=5, border="red")
+Error in library(googlesheets) : 
+  there is no package called 'googlesheets'
 ```
-
-
-Simulate Random Groups
-========================================================
-&nbsp;
-
-
-```r
-final<-as.data.frame(NULL)
-data$names<-NULL
-library(dplyr)
-library(vegan)
-for (i in 1:1000){
-test<-sample_n(results, 4)
-names<-paste(test$Name, collapse=",")
-diversity_score<-diversity(unlist(test[,c(2:ncol(test))]))
-data<-cbind(names, diversity_score)
-final<-rbind(final, data)
-print(i)
-}
-```
-
-Identify maximally diverse groups
-========================================================
-&nbsp;
-
-
-```r
-final$diversity_score<-as.character(final$diversity_score)
-final$diversity_score<-as.numeric(final$diversity_score)
-final<-final[order(final$diversity_score, decreasing=TRUE),]
-head(final, 10)
-```
-
-
-Go!
-========================================================
-&nbsp;
-
-Meet in maximally similar and dissimilar groups for 30 minutes. Site organizer will create googlesheet where project ideas will be listed. At the end of each 30 minutes period, one group representative should write the name of the project and a brief (less than three sentence description). After the end of the exercise, put your name next to the research project that you are most excited about joining. 
-
-
-
-
-
-
