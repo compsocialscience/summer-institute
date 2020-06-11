@@ -35,30 +35,21 @@
 - date: 2020-06-18
   name: "Surveys in the Digital Age"
   events:
-    - name: "10:00 - 10:15 Logistics (*Zoom*)"
-    - name: "10:15 - 10:30 Introduction to the group exercise (*Zoom*)"
-    - name: "10:30 - 11:30 Morning group excercise (*Zoom*)"
-    - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
-    - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 3:00 Afternoon group excercise (*Zoom*)"
-    - name: "3:00 - 3:15 Whole group debrief about group excercise (*Zoom*)"
-    - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
-    - name: "4:00 - 5:30 Possible guest speaker"
+    - name: "1:00 - 1:30 Logistics and Introduction to the group exercise (*Zoom*)"
+    - name: "1:30 - 2:30 Group excercise, Part 1 (*Zoom*)"
+    - name: "2:30 - 3:00 Break"
+    - name: "3:00 - 4:45 Meet the Partners: HopeLab, No More Silence"
+    - name: "4:45 - 5:30 Group excercise, Part 2 (*Zoom*)"
+    - name: "5:30 - 6:00 Debrief and logistics (*Zoom*)"
 
 - date: 2020-06-19
   name: "Mass collaboratation and machine learning"
   events:
-    - name: "10:00 - 10:15 Logistics (*Zoom*)"
-    - name: "10:15 - 10:30 Introduction to the group exercise (*Zoom*)"
-    - name: "10:30 - 11:30 Participate in the Fraglie Families Challenge (*Zoom*)"
-    - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
-    - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 3:15 Continue participating in the Fragile Families Challenge (*Zoom*)"
-    - name: "3:15 - 3:30 Whole group debrief about group excercise (*Zoom*)"
-    - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
-    - name: "4:00 - 5:30 Possible guest speaker"
+    - name: "1:00 - 1:30 Logistics and Introduction to the Fraglie Families Challenge (*Zoom*)"
+    - name: "1:30 - 3:30 Participate in the Fraglie Families Challenge (*Zoom*)"
+    - name: "3:30 - 4:00 Break (*Zoom*)"
+    - name: "4:00 - 5:30 Meet the Partners: Pangea Lab/UCSF, Code for America, DonorsChoose"
+    - name: "5:30 - 6:00 Debrief and logistics (*Zoom*)"
 
 - date: 2020-06-20
   name: Day off
