@@ -20,7 +20,7 @@
 - date: 2020-06-16
   name: Collecting Digital Trace Data
   events:
-    - name: "10:00 - 10:15 Logistics and Intro to Group Exercise (*Zoom*)"
+    - name: "10:00 - 10:15 Logistics and Intro to [Group Exercise](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day2-digital-trace-data/Group-Exercise-Day-_2.html) (*Zoom*)"
     - name: "10:15 - 11:30 Designing a Research Question with Digital Trace Data(*Zoom*)"
     - name: "11:30 - 12:00 Break"
     - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
