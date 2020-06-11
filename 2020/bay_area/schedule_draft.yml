@@ -1,15 +1,14 @@
 - date: 2020-06-15
   name: "Introduction and Ethics"
   events:
-    - name: "1:00 - 10:30 Introduction and logistics (*Zoom*)"
-    - name: "1:30 - 11:30 Small group discusions (*Zoom*)"
-    - name: "2:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
-    - name: "1:00 - 1:30 Break"
-    - name: "1:30 - 1:45 Introduction to the group exercise (*Zoom*)"
-    - name: "1:45 - 2:45 Small group discussion of [Case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf) (*Zoom*)"
-    - name: "2:45 - 3:15 Whole group debrief about case study (*Zoom*)"
-    - name: "3:15 - 3:45 Debrief and logistics (*Zoom*)"
+    - name: "1:00 - 1:20 Welcome to BAY-SICSS and Logistics (*Zoom*)"
+    - name: "1:20 - 2:00 Introductory Remarks from David Harding, UC Berkeley D-Lab (*Zoom*)"
+    - name: "2:00 - 3:00 Small Group Discussion [Lesson Plan](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/small_group_discussions.md)"
+    - name: "3:00 - 3:45 Break"
+    - name: "3:45 - 4:00 Introduction to the group exercise (*Zoom*)"
+    - name: "4:00 - 4:45 Small group discussion of [Case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf) (*Zoom*)"
+    - name: "4:45 - 5:00 Whole group debrief about case study (*Zoom*)"
+    - name: "5:00 - 6:00 Debrief, logistics, and Virtual Happy Hour (*Zoom*)"
 
 - date: 2020-06-16
   name: "Collecting Digital Trace Data"
