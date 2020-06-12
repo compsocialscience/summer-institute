@@ -52,7 +52,7 @@ __Archiving:__ This talk will be recorded and archived.
 
 __Time:__ Wednesday, June 24, 2020, 10–11:15am EDT
 
-__Speakers:__ [Johan Bollen](https://homes.luddy.indiana.edu/jbollen/) [Dean Eckles](https://www.deaneckles.com/)
+__Speakers:__ [Johan Bollen](https://homes.luddy.indiana.edu/jbollen/) and [Dean Eckles](https://www.deaneckles.com/)
 
 __Moderators:__ [Mark Cliffe](https://think.ing.com/author/mark-cliffe/) and [Monika Leszczynska](https://empiricalcontracts.com/) (SICSS-Princeton 19, SICSS-Maastricht 20)
 
