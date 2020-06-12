@@ -38,7 +38,7 @@ __Archiving:__ This talk will be recorded and archived.
 
 __Time:__ Two sessions. Wednesday, June 24, 2020. 1-2:30pm EDT and Friday, June 26, 2020. 10-11:30am EDT.
 
-__Speakers:__ [Abdullah Almaatouq](http://www.amaatouq.com/) (SICSS-Princeton 17), [Joshua Becker](https://www.joshua-becker.com/) (SICSS-Princeton 17), [James Houghton](http://www.jamesphoughton.com/) (SICSS-Duke 20), Nicolas Paton.
+__Speakers:__ [Abdullah Almaatouq](http://www.amaatouq.com/) (SICSS-Princeton 17), [Joshua Becker](https://www.joshua-becker.com/) (SICSS-Princeton 17), [James Houghton](http://www.jamesphoughton.com/) (SICSS-Duke 20), and Nicolas Paton.
 
 __Description:__ [Empirica](https://empirica.ly/) is a new open source software platform for developing and conducting synchronous and interactive human-subject experiments.  It has already been used by researchers around the world. This session will start with a live demonstration where participants will take part in a real-time experiment involving dozens of people.  Next, the data from that experiment will be downloaded and analyzed.  Thus, participants will have a behind-the-scenes, end-to-end experience with an experiment run with Emprica. Finally, there will be time for questions and discussion about Empirica and the future of experiments in the social sciences. **This session is targeted toward beginner users.** See Friday for an advanced session.
 
@@ -54,7 +54,7 @@ __Time:__ Wednesday, June 24, 2020, 10–11:15am EDT
 
 __Speakers:__ [Johan Bollen](https://homes.luddy.indiana.edu/jbollen/) [Dean Eckles](https://www.deaneckles.com/)
 
-__Moderators:__ [Mark Cliffe](https://think.ing.com/author/mark-cliffe/), [Monika Leszczynska](https://empiricalcontracts.com/) (SICSS-Princeton 19, SICSS-Maastricht 20)
+__Moderators:__ [Mark Cliffe](https://think.ing.com/author/mark-cliffe/) and [Monika Leszczynska](https://empiricalcontracts.com/) (SICSS-Princeton 19, SICSS-Maastricht 20)
 
 __Description:__ Computational Social Science offers tools that can assist both policy makers and the private sector in the design and implementation of measures to address the economic and social challenges posed by COVID-19. How can the growing sources of (alternative) data and data science be used in a meaningful and responsible way, i.e. providing reliable and practical knowledge without compromising privacy and safety of people whose data is collected and analyzed? What are the methodological and regulatory solutions that could be applied to address the challenges and mitigate the risks? Our panelists will share their experience and ideas on these issues. There will also be enough time for questions from the audience.
 
@@ -68,7 +68,7 @@ __Archiving:__ This talk will be recorded and archived.
 
 __Time:__ Wednesday, June 24, 2020. Time coming soon.
 
-__Speakers:__ [Vissého Adjiwanou]() (SICSS-Princeton 17, SICSS-Cape Town 18, SICSS-Cape Town 19, SICSS-Montreal 20), [Nicolò Cavalli] (https://www.sociology.ox.ac.uk/graduate/nicolo-cavalli.html) (SICSS-Duke 18, SICSS-Oxford 19), [Ridhi Kashyap](https://www.nuffield.ox.ac.uk/people/profiles/ridhi-kashyap/) (SICSS-Princeton 17, SICSS-Oxford 19),  [Francesco Rampazzo](https://francescorampazzo.com/) (SICSS-Duke 18)
+__Speakers:__ [Vissého Adjiwanou](https://sociologie.uqam.ca/corps-professoral/professeurs-es/professeur/adjiwanou.visseho/) (SICSS-Princeton 17, SICSS-Cape Town 18, SICSS-Cape Town 19, SICSS-Montreal 20), [Nicolò Cavalli](https://www.sociology.ox.ac.uk/graduate/nicolo-cavalli.html) (SICSS-Duke 18, SICSS-Oxford 19), [Ridhi Kashyap](https://www.nuffield.ox.ac.uk/people/profiles/ridhi-kashyap/) (SICSS-Princeton 17, SICSS-Oxford 19),  and [Francesco Rampazzo](https://francescorampazzo.com/) (SICSS-Duke 18)
 
 __Description:__ Coming soon.
 
