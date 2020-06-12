@@ -149,10 +149,10 @@ wikipedia_page
 ```
 
 ```
-{html_document}
+{xml_document}
 <html class="client-nojs" lang="en" dir="ltr">
-[1] <head>\n<meta http-equiv="Content-Type" content="text/html; charset= ...
-[2] <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-sub ...
+[1] <head>\n<meta http-equiv="Content-Type" content="text/html; charset=UTF-8 ...
+[2] <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject  ...
 ```
 
 Parsing HTML
@@ -202,10 +202,10 @@ head(section_of_wikipedia)
 
 ```
 $node
-<pointer: 0x7fac43e9c750>
+<pointer: 0x7fc0a1453580>
 
 $doc
-<pointer: 0x7fac43e65030>
+<pointer: 0x7fc0a14a5cd0>
 ```
 
 Extracting the Table
@@ -268,9 +268,9 @@ html_text(duke_events)
 ```
 
 ```
-[1] "Duke Experts: A Trusted Source for Policymakers\n\n\t\t\t\t\t\t\t"
-[2] "Zoom: An Open Forum"                                              
-[3] "Best Practices for Online Teaching"                               
+[1] "Living While Black Symposium to Address National and Campus Issues\n\n\t\t\t\t\t\t\t"                                       
+[2] "Virtual CAPS Workshop: Emerging from the Shadows: The Clinical Implications of COVID-19 on the Black Duke Student Community"
+[3] "Duke President Vincent Price Addresses the Fall Semester"                                                                   
 ```
 
 
