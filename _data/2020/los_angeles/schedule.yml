@@ -20,3 +20,13 @@
     - name: "1:15 - 2:45 Group Discussion + [Exercise](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/Group_Exercise_Day_2.html) (In Zoom break-out rooms) "
     - name: "3:00 - 4:00 Guest Speaker: Bryor Snfjella) (In Zoom full group)"
     - name: "4:00 - 4:30 OPTIONAL: Open Office Hours (getting started with Slack, R, Q & A)"
+
+- date: 2020-06-16
+  name: Introduction to Supervised Machine Learning
+  events:
+    - name: "10:00 - 10:15 Outline the Day (*Zoom*)"
+    - name: "10:15 - 11:00 Lecture: Supervised Machine Learning (*In Zoom full group*)"
+    - name: "11:00 - 11:30 Small Group Discussions (*In Zoom break-out room*)"
+    - name: "11:30 - 1:15 Break"
+    - name: "1:30 - 3:00 Group Discussion + Exercise"
+    - name: "3:00 - 3:45 Debrief"
