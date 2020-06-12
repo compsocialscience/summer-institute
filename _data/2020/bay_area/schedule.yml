@@ -112,6 +112,11 @@
     - name: "5:00 - 5:30 Debrief and logistics (*Zoom*)"
 
 - date: 2020-07-02
+  name: Work on project presentations
+  events:
+    - name: "5:00 - 5:30 Debrief and logistics (*Zoom*)"    
+
+- date: 2020-07-03
   name: PPP (Partner Project Presentations)
   events:
     - name: "4:00 - 5:30 Final Presentations"

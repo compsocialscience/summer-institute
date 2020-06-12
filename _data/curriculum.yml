@@ -198,9 +198,9 @@
         - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/01-mass-collaboration.pdf"
           text: "Slides"    
     - name: "Human Computation"
-      video: "https://www.youtube.com/embed/ZI95vV7Co38"
+      video: "https://www.youtube.com/embed/5ymW5War-P8"
       sublinks:
-        - link: "https://youtube.com//watch?v=ZI95vV7Co38"
+        - link: "https://youtube.com//watch?v=5ymW5War-P8"
           text: "Video"
         - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/02-human_computation.pdf"
           text: "Slides"  
@@ -244,9 +244,9 @@
         - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day6-experiments/01-what-why-which-experiments.pdf"
           text: "Slides" 
     - name: "Moving Beyond Simple Experiments"
-      video: "https://www.youtube.com/embed//cYyu5Ex0twE"
+      video: "https://www.youtube.com/embed/cYyu5Ex0twE"
       sublinks:
-        - link: "https://youtube.com//watch?v=/cYyu5Ex0twE"
+        - link: "https://www.youtube.com/watch?v=cYyu5Ex0twE"
           text: "Video"
         - link: "https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day6-experiments/02-moving-beyond-simple-experiments.pdf"
           text: "Slides"
