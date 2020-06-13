@@ -15,7 +15,7 @@ output:
 
 This tutorial is designed to introduce you to the basics of text analysis in R. It provides a foundation for future tutorials that cover more advanced topics in automated text analysis such as topic modeling and network-based text analysis. This tutorial assumes basic knowledge about R and other skills described in previous tutorials at the link above.
 
-# Character Encoding
+## Character Encoding
 
 One of the first things that is important to learn about quantitative text analysis is to most computer programs, texts or strings also have a numerical basis called character encoding. Character encoding is a style of writing text in computer code that helps programs such as web browsers figure out how to display text. There are presently dozens of different types of character encoding that resulted not only from advances in computing technology---and the development of different styles for different operating systems---but also for different languages (and even new languages such as emoji). The figure below illustrates a form of character encoding called "Latin Extended-B" which was developed for representing text in languages derived from Latin (which of course excludes a number of important languages)
 
@@ -26,11 +26,11 @@ One of the first things that is important to learn about quantitative text analy
 Why should you care that text can be created using different forms of character encoding? Well, if you have scraped a large amount of data from multiple websites---or multiple social media sites--- you may find that your data exist in multiple types of character encoding, and this can create a big hassle (see the figure below). Before we begin working with a text-based dataset, it is useful to either a) make sure every text uses the same character encoding; or b) use a tool to force or coerce all text into a single character encoding. The `Encoding` and `inconv` functions in base R can be very useful for the latter purposes. Note, however, that the latter function may create "place holders" for characters that it cannot process. For example, if an old version of character encoding is applied to text that contains emoji, the emoji may appear as strings of seeminly incoherent symbols and punctuation marks.
 
 <br>
-![](encoding_over_time.png){width=600px}
+![](encoding_over_time.png){width=500px}
 
 Inconsistent character encoding is one of the most common pitfalls for those attempting to learn how to perform quantitative text analysis in R, but there are no easy solutions. If you try to run the code below and receive error messages such as `invalid multibyte string`, this is indicative of a character encoding issue that you will most likely need to resolve using one of the imperfect steps above. 
 
-# GREP
+## GREP
 
 Another important tool for working with text is GREP, which stands for "Globally search a Regular Expression and Print." In laymans terms, GREP is a tool that helps you search for the presence of a string of characters that matches a pattern.
 
@@ -67,7 +67,7 @@ gsub("\t|\n", "", duke_web_scrape)
 GREP-style commands also include a wildcard which can be used to, for example, find all words in a string that start with a certain character, such as "F":
 
 ```{r}
-some_text<-c("Friends","don't","let","friends","make","wordclouds")
+some_text<-c("Friends","don'tt","let","friends","make","wordclouds")
 some_text[grep("^[F]", some_text)]
 ```
 
@@ -87,7 +87,7 @@ gsub('\\[|\\]',"", text_chunk)
 ```
 
 
-# Tokenization
+## Tokenization
 
 Another important concept that is necessary to master to perform quantitative text analysis is Tokenization. Tokenization refers to the way you are definining the unit of analysis. This might include words, sequences of words, or entire sentences. The figure below provides an example of one way to tokenize a simple sentence.
 
@@ -96,7 +96,9 @@ Another important concept that is necessary to master to perform quantitative te
   
 <word>Friends</word
 
-<word>don't</word>
+<word>do</word>
+
+<word>not</word>
 
 <word>let</word>
 
@@ -114,7 +116,7 @@ Another important concept that is necessary to master to perform quantitative te
 
 This figure illustrates the most common way of tokenizing a text---by individual word. Many techniques in quantitative text analysis also analyze what are known as "n-grams" however. Ngrams are simply sequences of words with length "n." For example, the sentence above could be written in ngram form as "Friends don't let", "don't let friends", "friends make word" and so on. N-grams can be useful when word-order is important, as I will discuss in additional detail below. For now, let me give you a simple example: "I hate the president" and "I'd hate to be the president."
 
-# Creating a Corpus
+## Creating a Corpus
 
 Another unique feature of quantitative text analysis is that it typically requires new data formats that allow algorithms to quickly compare one document to a lot of other documents in order to identify patterns in word usage that can be used to identify latent themes, or address the overall popularity of a word or words in a single document vs. a group of documents. One of the most common data formats in the field of Natural Language Processing is a corpus. 
 
@@ -141,7 +143,7 @@ trump_corpus
 
 As this output shows, we've created a corpus with 3,196 documents, where each document is one of Trump's tweets. You may also notice that the `Corpus` object can also store metadata such as information about the names of the author of each document of or the date each document was produced (though we are not storing any such meta data here.
 
-# Tidy-Text
+## Tidy-Text
 
 An important alternative to Corpus object has emerged in recent years in the form of `tidytext`. Instead of saving a group of documents and associated meta data, text that is in `tidytext` format contains one word per row, and each row also includes additional information about the name of the document where the word appears, and the order in which the words appear.
 
@@ -172,7 +174,7 @@ tidy_trump_tweets %>%
 
 Not very informative or interesting that the most frequent word used by trump is "the" is it? This brings us to our next subject: text pre-processing.
 
-# Text Pre-Processing
+## Text Pre-Processing
 
 Before we begin running quantitative analyses of text, we first need to decide precisely which type of text should be included in our analyses. For example, as the code above showed, very common words such as "the" are often not very informative. That is, we typically do not care if one author uses the word "the" more often than another in most forms of quantitative text analysis, but we might care a lot about how many times a politician uses the word "economy" on Twitter.
 
