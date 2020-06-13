@@ -7,7 +7,9 @@
 
 To prepare for this activity you should:
 - Carefully read the [lesson plan for participants](lesson_plan_survey_participant.md) and the reading assignments included in it.
-- If you have funds to support MTurk data collection for this activity, prepare one temporary MTurk account for each group that will be collecting data.  If you don't have funds, you can still do many of the other parts of this activity (e.g., create the survey, analyze the dataset that we have collected).
+- If you don't have funds, you can still do many of the other parts of this activity (e.g., create the survey, analyze the dataset that we have collected).
+- [Prolific](https://www.prolific.co/) is an alternative to MTurk. 
+- Both MTurk and Prolific have tightened up verification and account security. Thus it would be best for organizers to ensure participants have accounts set-up and funds prepared a few days before the activity. 
 - Optional: Set up collaboration tools for programming exercise
 
 ### Group formation
