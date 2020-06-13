@@ -47,6 +47,7 @@ Participants will gain experience with the following activities:
   - We estimate that the survey will take about 6 minutes, and we would like to pay an hourly wage of $15 per hour so you should pay $1.50 per completed survey.
   - For participants of SICSS-Duke: We have created MTurk accounts for you to use. Please create your tasks from these accounts with the pre-loaded funds. If you use your own account for data collection, we won't be able to reimburse you.
   - If you do not have funds allocated for MTurk, you may ask other participants and your friends and family to fill in the survey to construct a non-probability-based sample.
+  - An alternative to Amazon Mechanical Turk is [Prolific](https://www.prolific.co/)
 
 ### Afternoon session:
 1. After the data has been collected, validate survey and pay MTurk workers (15 minutes).
