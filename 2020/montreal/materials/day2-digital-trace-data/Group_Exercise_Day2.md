@@ -1,5 +1,5 @@
 
-# "SICSS Group Exercise Day 2"
+# SICSS Group Exercise Day 2
 
 ## Prepared by Chris Bail
 
