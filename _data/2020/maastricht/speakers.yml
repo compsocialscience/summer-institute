@@ -5,7 +5,7 @@
 
 - name: "Argyri Panezi"
   image: /assets/images/maas-ArgyriPanezi.jpg
-  bio: "Argyri is Assistant Professor of Law and Technology at IE Law School. Her research interests include access to knowledge, digitization, and AI."
+  bio: "Argyri is Assistant Professor of Law and Technology at IE Law School and research fellow at the Digital Civil Society Lab at Stanford PACS. Her research interests include access to knowledge, digitization, and AI. She is examining digital civil society interactions with libraries and other cultural heritage institutions, as well as electronic access to public institutions (mostly courts) and the relevant legal frameworks incentivizing distributed methods for building a content infrastructure accessible online. Her current work focuses on access to court material. She explores legal and ethical issues around e-justice and legal innovation more generally. She is also exploring regulatory challenges for FOSS that form part of critical digital infrastructure. Argyri has previously written on digitization, on copyright issues related to digital libraries, and on the European legal framework applicable to cultural heritage institutions. Argyri holds a Ph.D. from the European University Institute, and studied at the University of Athens and at Harvard Law School."
   website: https://www.ie.edu/law-school/faculty-research/faculty/argyri-panezi/
 
 - name: "Constanta Rosca"
@@ -28,8 +28,12 @@
   bio: "Gunes is a FWO postdoctoral fellow at KU Leuven's COSIC research group. His research interests involve web tracking measurement, anonymous communications, and IoT privacy and security. Gunes obtained his PhD at KU Leuven in 2017, and was a postdoctoral researcher between 2017 and 2019 at Princeton University's Center for Information Technology Policy."
   website: https://scholar.google.com/citations?user=B6yKiPQAAAAJ&hl=en
 
-
 - name: "Johan Bollen"
   image: /assets/images/maas-JohanBollen.jpg
   bio: "Johan Bollen is a professor of informatics at Indiana University . He was formerly a staff scientist at the Los Alamos National Laboratory from 2005-2009, and an Assistant Professor at the Department of Computer Science of Old Dominion University from 2002 to 2005. He obtained his PhD in Experimental Psychology from the Vrije Universiteit Brussel (VUB) in 2001. He has published more than 75 articles on computational social science, social complexity, health, well-being, machine learning, and informetrics. His research has been funded by the NSF, DARPA, IARPA, EDA, NASA, and Andrew W. Mellon Foundation. Johan lives in Bloomington, Indiana with his wife and daughter. In his free time he enjoys P90x and DJing in the local Bloomington clubs as DJ Angst (with his colleague E-trash aka Luis Rocha)."
   website: https://homes.luddy.indiana.edu/jbollen/
+
+- name: "Philipp Chapkovski"
+  image: /assets/images/maas-Philipp.jpg
+  bio: "Philipp is a postdoctoral fellow at HSE-Moscow, International lab for the behavioral and experimental economics. His main research topics are collective sanctions, social conformity and methodological issues with running experiments online using crowdsourcing platforms (Amazon mTurk, Prolific and Yandex.Toloka). Philip received his PhD in Sociology from the European University Institute, Florence, and was a postdoctoral researcher in the University of Zurich."
+  website: https://chapkovski.github.io/
