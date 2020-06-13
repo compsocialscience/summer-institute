@@ -68,6 +68,8 @@ Participants will gain experience with the following activities:
   - Baker et al. ["Summary Report of the AAPOR Task Force on Non-probability Sampling"](https://academic.oup.com/jssam/article/1/2/90/941418/Summary-Report-of-the-AAPOR-Task-Force-on-Non)
   - Kalton and Flores-Cervantes ["Weighting methods"](http://www.jos.nu/Articles/abstract.asp?article=192081)
   - Berinsky, Margolis, and Sances ["Separating the Shirkers from the Workers? Making Sure Respondents Pay Attention on Self‐Administered Surveys"](https://doi.org/10.1111/ajps.12081)
+  - [Target Estimation and Adjustment Weighting for Survey Nonresponse and Sampling Bias](https://www.cambridge.org/core/books/target-estimation-and-adjustment-weighting-for-survey-nonresponse-and-sampling-bias/B28F1B4CC17B42D513EC3E0356926C23)
+  - [Pewmethods R package](https://github.com/pewresearch/pewmethods)
 
 ## Appendix: Qualtrics-specific instructions
 -   If you are using Qualtrics instead of Google Forms, you do not have to include a question on the survey asking for MTurk Worker ID. Instead, you can verify survey completion by generating a unique validation code for each survey respondent, and have them enter that on MTurk instead.
