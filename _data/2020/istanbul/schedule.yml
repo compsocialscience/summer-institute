@@ -70,24 +70,20 @@
       time: "23:00 - 24:00"
       
 - date: 2020-06-17
-  name: Digital Surveys and Geo-Spatial Data  
+  name: Digital Surveys and Mass Collaboration 
   events:
     - name: "[Discussion on Surveys in the Digital Age](https://compsocialscience.github.io/summer-institute/curriculum#day_4)"
       time: "15:00 - 16:00"
     - name: "Coffee Break"
       time: "16:00 - 16:30"
-    - name: "Tutorial Session: Migration Route Spatial Forecasting *by [Akin Unver](https://www.akinunver.org/)*"
+     - name: "[Discussion on Mass Collaboration](https://compsocialscience.github.io/summer-institute/curriculum#day_5)"
       time: "16:30 - 18:00"
 
 - date: 2020-06-18
-  name: Mass Collaboration and Text as Data
+  name: Automated Text Analysis
   events:
-    - name: "[Discussion on Mass Collaboration](https://compsocialscience.github.io/summer-institute/curriculum#day_5)"
-      time: "15:00 - 16:00"
-    - name: "Coffee Break"
-      time: "16:00 - 16:30"
-    - name: "Tutorial Session: [Computational Text Analysis](https://compsocialscience.github.io/summer-institute/curriculum#day_3) *by [Matti Nelimarkka](https://matti.mante.li/)*"
-      time: "16:30 - 18:00"
+    - name: "Tutorial Session: [Automated Text Analysis](https://compsocialscience.github.io/summer-institute/curriculum#day_3) *by Ahmet Kurnaz*"
+      time: "17:00 - 18:30"
 
 - date: 2020-06-19
   name: Social Network Analysis
