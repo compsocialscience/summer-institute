@@ -1,8 +1,8 @@
----
-title: "SICSS Group Exercise Day 2"
-author : Prepared by Chris Bail
-output: html_document
----
+
+# "SICSS Group Exercise Day 2"
+
+## Prepared by Chris Bail
+
 
 The videos associated with Day 2 of SICSS 2020 covered a broad range of topics including screen-scraping, working with APIs, and building apps and bots for social science research. Some of you have already had experience with some these issues-- but for others, this may have been your first time collecting digital trace data. This group exercise is designed to find a balance between practicing rudimentary skills (for those of you with little or no experience in this area) an cutting edge techniques (for those of you with extensive expertise in this area). As an added bonus, this exercise not only challenges you to practice your coding skills, but to think about how to ask questions that contribute new knowledge to social science theory as well.
 
