@@ -1,8 +1,7 @@
----
-title: "SICSS Exercice de Groupe, Jour 2"
-author: Préparé par Vissého Adjiwanou et Robert Djogbenou
-output: html_document
----
+# SICSS Exercice de Groupe, Jour 2
+
+## Préparé par Vissého Adjiwanou et Robert Djogbenou
+
 
 Les vidéos associées au jour 2 du SICSS 2020 ont couvert un large éventail de sujets, notamment le grattage d'écran, le travail avec les API et la création d'applications et de robots pour la recherche en sciences sociales. Certains d'entre vous ont déjà eu l'expérience de certains de ces problèmes, mais pour d'autres, il s'agit peut-être de votre première collecte de données de trace numérique. Cet exercice de groupe est conçu pour trouver un équilibre entre la pratique de compétences rudimentaires (pour ceux d'entre vous ayant peu ou pas d'expérience dans ce domaine) et des techniques de pointe (pour ceux d'entre vous ayant une expertise approfondie dans ce domaine). En prime, cet exercice vous met non seulement au défi de mettre en pratique vos compétences en codage, mais aussi de réfléchir à la manière de poser des questions qui apportent également de nouvelles connaissances à la théorie des sciences sociales. 
 
