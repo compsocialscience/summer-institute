@@ -19,9 +19,9 @@
 - date: 2020-06-15
   name: Introduction and Ethics
   events:
-    - name: "[ADVANCE Watch Ethics : Part 1 & 2](https://compsocialscience.github.io/summer-institute/curriculum#day_1)"
-    - name: "10:00 - 10:30 Introduction to SICSS and logistics by [Dr. Vissého Adjiwanou](https://sociologie.uqam.ca/corps-professoral/professeurs-es/professeur/adjiwanou.visseho/)in [Zoom](https://uqam.zoom.us/j/7123857324)"
-    - name: "10:30 - 11:30 Small group discusions in [Zoom break-out rooms](https://uqam.zoom.us/j/7123857324)"
+    - name: "ADVANCE watch [Ethics : Part 1 & 2](https://compsocialscience.github.io/summer-institute/curriculum#day_1)"
+    - name: "10:00 - 10:30 Introduction to SICSS and logistics by [Dr. Vissého Adjiwanou](https://sociologie.uqam.ca/corps-professoral/professeurs-es/professeur/adjiwanou.visseho/) in [Zoom](https://uqam.zoom.us/j/7123857324)"
+    - name: "10:30 - 11:30 Small group discusions [English lesson plan](https://github.com/compsocialscience/summer-institute/blob/master/2020/montreal/materials/day1-intro-ethics/small_group_discussions.md) or [French lesson plan](https://github.com/compsocialscience/summer-institute/blob/master/2020/montreal/materials/day1-intro-ethics/discussion_de_petits_groupe.md) in [Zoom break-out rooms](https://uqam.zoom.us/j/7123857324)"
     - name: "11:30 - 12:00 Break"
     - name: "12:00 - 1:00 Small group lunches (optional) [Zoom](https://uqam.zoom.us/j/7123857324)"
     - name: "1:00 - 1:30 Break"
@@ -33,7 +33,7 @@
 - date: 2020-06-16
   name: Collecting Digital Trace Data
   events:
-    - name: "[ADVANCE Watch Collecting Digital Trace Data](https://compsocialscience.github.io/summer-institute/curriculum#day_2)"
+    - name: "ADVANCE watch [Collecting Digital Trace Data](https://compsocialscience.github.io/summer-institute/curriculum#day_2)"
     - name: "10:00 - 10:15 Logistics in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
     - name: "10:15 - 11:30 Small group discussions in [Zoom break-out rooms](https://uqam.zoom.us/j/7123857324)"
     - name: "11:30 - 12:00 Break"
@@ -48,7 +48,7 @@
 - date: 2020-06-17
   name: Automated Text Analysis
   events:
-    - name: "[ADVANCE Watch Automated Text Analysis](https://compsocialscience.github.io/summer-institute/curriculum#day_3)"
+    - name: "ADVANCE watch [Automated Text Analysis](https://compsocialscience.github.io/summer-institute/curriculum#day_3)"
     - name: "10:00 - 10:15 Logistics in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
     - name: "10:15 - 11:30 Small group discussions [Zoom](https://uqam.zoom.us/j/7123857324)"
     - name: "11:30 - 12:00 Break"
@@ -63,7 +63,7 @@
 - date: 2020-06-18
   name: Surveys in the Digital Age
   events:
-    - name: "[ADVANCE Watch Surveys in the Digital Age](https://compsocialscience.github.io/summer-institute/curriculum#day_4)"
+    - name: "ADVANCE watch [Surveys in the Digital Age](https://compsocialscience.github.io/summer-institute/curriculum#day_4)"
     - name: "10:00 - 10:15 Logistics in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
     - name: "10:15 - 10:30 Introduction to the group exercise in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
     - name: "10:30 - 11:30 Morning group exercise  in [Zoom break-out rooms](https://uqam.zoom.us/j/7123857324)"
@@ -78,8 +78,8 @@
 - date: 2020-06-19
   name: Unsupervised Machine Learning and Social Network Analysis
   events:
-    - name: "[ADVANCE Watch Unsupervised Machine Learning](https://compsocialscience.github.io/summer-institute/curriculum#day_3)"
-    - name: "[ADVANCE Watch Social Network Analysis](http://codingsocialscience.org/book/r1/node56.html)"
+    - name: "ADVANCE watch [Unsupervised Machine Learning](https://compsocialscience.github.io/summer-institute/curriculum#day_3)"
+    - name: "ADVANCE watch [Social Network Analysis](http://codingsocialscience.org/book/r1/node56.html)"
     - name: "10:00 - 10:15 Logistics in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
     - name: "10:15 - 10:30 Introduction to the group exercise in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
     - name: "10:30 - 11:30 Morning group exercise in [Zoom break-out rooms](https://uqam.zoom.us/j/7123857324)"
