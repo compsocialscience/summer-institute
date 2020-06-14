@@ -127,7 +127,7 @@ sotu_text_network <- CreateTextnet(prepped_sotu)
 The textnets package includes two functions to visualize text networks created in the previous steps. The `VisualizeText` function creates a network diagram where nodes are colored by their cluster or modularity class (see previous section). In many cases, text networks will be very dense (that is, there will be a very large number of edges because most documents share at least one word). Visualizing text networks therefore creates inherent challenges, because such dense networks are very cluttered. To make text networks more readable, the `VisTextNet` function employs a "network backbone" technique which deletes edges using a disparity filter algorithm to trim edges that are not informative. By default, the function uses a tuning parameter called alpha which is set to .25. The user can specify different levels of alpha to trim more or less of the network. The `VisTextNet` function also includes an argument that determines which nodes will be labeled, since network visualizations with too many node labels can be difficult to interpret. The user specifies an argument called `label_degree_cut` which specifies the degree, or number of connections, that nodes should have to get labeled. For example, if the user only wants nodes that have at least 0 connections to other nodes to be labeled, they would use the following code:
 
 ```{r, eval=FALSE, message=FALSE, warning=FALSE}
-VisTextNet(sotu_text_network, label_degree_cut = 0, eval=FALSE)
+VisTextNet(sotu_text_network, label_degree_cut = 0)
 ```
 <br>
 ![](sotu_plot.png){width=600px}
