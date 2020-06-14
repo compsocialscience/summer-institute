@@ -1,14 +1,14 @@
 # Lesson plan for instructors
 ## Summer Institute in Computational Social Science 2020
 ## Activity, Day 4: Non-probability-based Surveys in Practice
-## Matthew Salganik & Robin Lee [1]
+## Original plan Matthew Salganik & Robin Lee [1], modifications by Nick Camp, Jae Yeon Kim, and Jaren Haber 
+
+### This lesson plan replaces data collection with MTurk by having participants use pre-existing sources of data: either SICSS Duke's MTurk Survey Results, or publicly available data.
 
 ### Instructor preparation
 
 To prepare for this activity you should:
 - Carefully read the [lesson plan for participants](lesson_plan_survey_participant.md) and the reading assignments included in it.
-- If you have funds to support MTurk data collection for this activity, prepare one temporary MTurk account for each group that will be collecting data.  If you don't have funds, you can still do many of the other parts of this activity (e.g., create the survey, analyze the dataset that we have collected).
-- Optional: Set up collaboration tools for programming exercise
 
 ### Group formation
 
@@ -21,19 +21,11 @@ Form groups of about 3 people. We changed the recommendation of groups of 5 to 3
 ### Potential Discussion Questions
 
 When you come back for the group discussion, here are some possible questions:
-- How close were the estimates for this activity to the estimates from Pew?  What do you think might be causing some of these differences? How could you test this speculations?
+- (If using estimates from Pew): How close were the estimates for this activity to the estimates from Pew?  What do you think might be causing some of these differences? How could you test this speculations?
 - What issues have you noticed while you’re implementing survey in Google Form that might affect how respondents answered the questions?
 - How important is it to open-source data that you have collected with other researchers?
 - What are things we should keep in mind when open-sourcing data?
-- Does this actvity change how you think about your own research or the project you might want to do in week 2?
-
-### Notes
-
-- This activity is modular. You could easily do the afternoon part without doing the morning part.
-- If you are collecting data when many people in the United States might be asleep (or not on MTurk), the data collection might be slower.  You can relax the location requirement if you wish.  The data we collected was from people in the United States, and your participants can do their analysis on that dataset.
-- If you do not have money for MTurk fees, you can have participants take the surveys that were created by other groups. You can also ask participants to distribute surveys with their friends and family since this activity is about recovering estimates from non-probability sampling.
-- Due to constraint in time and change towards remote collaboration, the survey activity will not ask participants to archive and release their data.  However, this is a good change to remind participants that they should think about open and reproducible research and they will be expected to use those practices for the projects they start in week 2.
-- Please help participants have realistic expectations of what can be completed during this activity. It is likely that participants do not have time to complete model-based post-stratification.
+- Does this actvity change how you think about your own research going forward?
 
 ### More information about Pew Research Center methodology
 
