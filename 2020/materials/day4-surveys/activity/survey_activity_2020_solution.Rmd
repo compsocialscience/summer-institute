@@ -332,7 +332,7 @@ data_factor <- data %>% mutate_all(funs(as.factor))
 # Now we will regress each survey answer on demographic characteristics and
 # use those model parameters to generate predicted probabilities for each group
 # loop through each survey answer and store each vector of pred.probs
-# in a 160 x 44 matrix 
+# in a 160 x 22 matrix 
 # but first, write a warning function for later to make sure 
 # that all estimates are 0 to 1 inclusive
 prob_range_warning <- function(predictions){
@@ -343,9 +343,9 @@ prob_range_warning <- function(predictions){
     warning("some predictions more than one")
     } 
 }
-# create a character vector of the 44 question names
+# create a character vector of the 22 question names
 # these question names can be found in the column names of the data
-relevant_questions <- colnames(data)[!colnames(data) %in% c("sex", "age_cat", "region", "race")]
+relevant_questions <- colnames(data)[!colnames(data) %in% c("sex", "age_cat", "region", "race","educ")]
 # create container
 model_predictions <- as.data.frame(matrix(nrow = nrow(population_counts), 
                                           ncol = length(relevant_questions), NA))
@@ -353,10 +353,14 @@ colnames(model_predictions) <- relevant_questions
 # loop through
 for (i in relevant_questions) {
   # get outcome
-  outcome <- data_factor[ , i]
+  outcome <- data_factor[ , i] %>% as.vector()
+  colnames(outcome) <- "outcome"
   # fit model
+  temp_df <- data_factor %>% select(sex, age_cat, region, race) %>%
+    cbind(outcome)
+
   model <- glm(outcome ~ sex + age_cat + region + race, 
-             data = data_factor,
+             data = temp_df,
              family = binomial(link = "logit"))
   # create predicted probabilities
   reg_predicted_values <- predict(model, newdata = population_counts, type = "response")
@@ -443,12 +447,15 @@ mrp_model_predictions <- as.data.frame(matrix(nrow = nrow(population_counts),
 colnames(mrp_model_predictions) <- relevant_questions
 # loop through model fitting and prediction
 for (i in relevant_questions) {
-  outcome <- data_factor[ , i]
+  outcome <- data_factor[ , i] 
+  colnames(outcome) <- "outcome"
+  temp_df <- data %>% select(sex, age_cat, race, region) %>%
+    cbind(outcome)
   # fit -- note that this is using default priors
   # nested the model name in "capture.out" to silently fit
   output <- capture.output(multilevel_model <-
                           glmer(outcome ~ sex + (1|age_cat) + (1|race) +
-                          (1|region), data = data, family = binomial(link = "logit")))
+                          (1|region), data = temp_df, family = binomial(link = "logit")))
   # predict
   mrp_predictions <- predict(multilevel_model,
                                        newdata = population_counts, type = "response")
