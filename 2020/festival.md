@@ -42,7 +42,7 @@ __Speakers:__ [Abdullah Almaatouq](http://www.amaatouq.com/) (SICSS-Princeton 17
 
 __Description:__ [Empirica](https://empirica.ly/) is a new open source software platform for developing and conducting synchronous and interactive human-subject experiments.  It has already been used by researchers around the world. This session will start with a live demonstration where participants will take part in a real-time experiment involving dozens of people.  Next, the data from that experiment will be downloaded and analyzed.  Thus, participants will have a behind-the-scenes, end-to-end experience with an experiment run with Emprica. Finally, there will be time for questions and discussion about Empirica and the future of experiments in the social sciences. **This session is targeted toward beginner users.** See Friday for an advanced session.
 
-__Open to:__ Up to 30 registered participants: [Registration form](https://forms.gle/eziGBbMQE4VxP1tT9)
+__Open to:__ 60 registered participants. Registration is full.
 
 __Preparatory materials:__ All registered participants are strongly encouraged to work through and watch Empirica videos A - E (link coming soon), which will require them to [install software](https://empirica.ly/docs/quick-start.html) on their computers.
 
