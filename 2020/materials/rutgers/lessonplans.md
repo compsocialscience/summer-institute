@@ -2,7 +2,7 @@
 
 
 ## Day 1- Ethics
-Summary [Slides](https://docs.google.com/presentation/d/1ZTszDTgw-ySFoWuDWnMYhpmF_Ncn9yxlo1RMzi1V_EQ/edit?usp=sharing)
+Welcome [Slides](https://docs.google.com/presentation/d/1cbgMv9rj778X-U0R1M4st-MYEf0UK5A9NA61ytNLk0Y/edit?usp=sharing); Ethics Summary [Slides](https://docs.google.com/presentation/d/1ZTszDTgw-ySFoWuDWnMYhpmF_Ncn9yxlo1RMzi1V_EQ/edit?usp=sharing)
 Participant [Lesson Plan](https://docs.google.com/document/d/1WKAbKqmgKTMndPkTWb3KlstPfHItxnNTM5BRWe5c4yM/edit?usp=sharing)
 
 ## Day 2- Digital Trace Data
