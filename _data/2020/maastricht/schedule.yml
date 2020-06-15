@@ -1,5 +1,9 @@
 - date: All times are in Central European Summer Time
 
+- date: Register for the invited talks
+  events:
+    - name: "SICSS-Maastricht invited talks are open to the public. Check the full schedule [here](https://twitter.com/CatalinaGoanta/status/1271400012606570496) and register for specific days using [this form](https://legal.typeform.com/to/iSdfHQ). All the times are in CEST. "
+
 - date: 2020-06-14
   events:
     - name: "17:00 Meet-and-greet (based on this [model](https://medium.com/swlh/how-to-run-a-zoom-cocktail-party-and-have-better-classes-conferences-and-meetings-too-dc2c5b58f8be)) (*Zoom*)"
@@ -23,8 +27,8 @@
     - name: "12.00 - 13.00 Guest speaker [Günes Acar](https://compsocialscience.github.io/summer-institute/2020/maastricht/people) (*Zoom*)"
     - name: "13.00 - 14.00 Small group lunches (*Zoom*)"
     - name: "14.00 - 14.30 Break"
-    - name: "14.45 - 15.00 Introduction to the group exercise: [Lesson plan](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/maastricht/day-2-digital-trace-data-maastricht.md) (*Zoom*)"
-    - name: "15.00 - 18.00 Group exercise (*Zoom*)"
+    - name: "14.45 - 15.00 Introduction to the group exercise (*Zoom*)"
+    - name: "15.00 - 18.00 Group exercise: [Lesson plan](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/maastricht/day-2-digital-trace-data-maastricht.md) (*Zoom*)"
     - name: "18.00 - 19.00 Whole group debrief about group exercise (*Zoom*)"
     
 - date: 2020-06-17
@@ -34,17 +38,17 @@
     - name: "13.00 - 14.00 Small group lunches (*Zoom*)"
     - name: "14.00 - 14.30 Break"
     - name: "14.45 - 15.00 Introduction to the group exercise (*Zoom*)"
-    - name: "15.00 - 18.00 Group exercise [Lesson Plan](https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/Group-Exercise-Day-3.html) (*Zoom*)"
+    - name: "15.00 - 18.00 Group exercise: [Lesson Plan](https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/Group-Exercise-Day-3.html) (*Zoom*)"
     - name: "18.00 - 19.00 Whole group debrief about group exercise (*Zoom*)"
     
 - date: 2020-06-18
   name: "<b>Surveys in the Digital Age</b>"
   events:
-    - name: "12.00 - 13.00 Guest speaker TBA (*Zoom*)"
+    - name: "12.00 - 13.00 Guest speaker [Monika Leszczynska](https://compsocialscience.github.io/summer-institute/2020/maastricht/people) (*Zoom*)"
     - name: "13.00 - 14.00 Small group lunches (*Zoom*)"
     - name: "14.00 - 14.30 Break"
     - name: "14.45 - 15.00 Introduction to the group exercise (*Zoom*)"
-    - name: "15.00 - 18.00 Group exercise (*Zoom*)"
+    - name: "15.00 - 18.00 Group exercise: [Lesson Plan](https://docs.google.com/document/d/1pued03M2yJ4T_B-XyGJFWMmpLeU3oqOwLQLx-NEbHaE/edit?usp=sharing) (*Zoom*)"
     - name: "18.00 - 19.00 Whole group debrief about group exercise (*Zoom*)"
     
 - date: 2020-06-19
@@ -53,9 +57,9 @@
     - name: "12.00 - 13.00 Lecture on network analysis by [Gijs van Dijck](https://compsocialscience.github.io/summer-institute/2020/maastricht/people) (*Zoom*)" 
     - name: "13.00 - 14.00 Small group lunches (*Zoom*)" 
     - name: "14.00 - 14.30 Break"
-    - name: "14.30 - 16.00 Workshop: Introduction Gephi by [Constanta Rosca](https://compsocialscience.github.io/summer-institute/2020/maastricht/people) (*Zoom*)"
+    - name: "14.30 - 16.00 Workshop: Introduction Gephi by [Constanta Rosca](https://compsocialscience.github.io/summer-institute/2020/maastricht/people): [Lesson Plan](https://drive.google.com/file/d/1yjDA-Fyw1WT2-p65kvIfOzniX5ifaITI/view) (*Zoom*)"
     - name: "16.00 - 16.30 Break"
-    - name: "16.30 - 18.30 Group exercise (*Zoom*)"
+    - name: "16.30 - 18.30 Group exercise: [Lesson Plan](https://drive.google.com/file/d/1yjDA-Fyw1WT2-p65kvIfOzniX5ifaITI/view) (*Zoom*)"
     - name: "18.30 - 19.00 Reporting back the results of group exercises (*Zoom*)"
     
 - date: 2020-06-20
@@ -70,7 +74,7 @@
     - name: "12.00 - 13.00 Guest speaker [Amalia Alvarez Benjumea](https://compsocialscience.github.io/summer-institute/2020/maastricht/people) (*Zoom*)" 
     - name: "13.00 - 14.00 Small group lunches (*Zoom*)" 
     - name: "14.00 - 14.30 Break"
-    - name: "14.30 - 16.00 Workshop: Introduction oTree (*Zoom*)"
+    - name: "14.30 - 16.00 Workshop: Introduction oTree by [Philipp Chapkovski](https://compsocialscience.github.io/summer-institute/2020/maastricht/people) (*Zoom*)"
     - name: "16.00 - 16.30 Break"
     - name: "16.30 - 17.30 Finalizing group formation for Week 2 projects (*Zoom*)"
     
