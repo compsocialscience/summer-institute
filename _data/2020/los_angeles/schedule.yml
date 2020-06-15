@@ -18,7 +18,7 @@
     - name: "10:45 - 11:45 Lecture: Intro to Digital Trace Data and Group Exercise (*In Zoom full group*)"
     - name: "11:45 - 1:15 Break"
     - name: "1:15 - 2:45 Group Discussion + [Exercise](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/Group_Exercise_Day_2.html) (In Zoom break-out rooms) "
-    - name: "3:00 - 4:00 Guest Speaker: Bryor Snfjella) (In Zoom full group)"
+    - name: "3:00 - 4:00 Guest Speaker: Bryor Snfjella [UCLA] (In Zoom full group)"
     - name: "4:00 - 4:30 OPTIONAL: Open Office Hours (getting started with Slack, R, Q & A)"
 
 - date: 2020-06-16
@@ -40,7 +40,7 @@
     - name: "11:00 - 11:30 Small Group Discussions (*In Zoom break-out room*)"
     - name: "11:30 - 1:15 Break"
     - name: "1:30 - 3:00 Group Discussion + Exercise"
-    - name: "3:00 - 4:00 Guest Speaker: Keith Chen (In Zoom full group)"
+    - name: "3:00 - 4:00 Guest Speaker: Keith Chen [UCLA] (In Zoom full group)"
     - name: "4:00 - 4:30 OPTIONAL: Open Office Hours"
       
 - date: 2020-06-18
@@ -51,7 +51,7 @@
     - name: "11:00 - 11:30 Small Group Discussions (*In Zoom break-out room*)"
     - name: "11:30 - 1:15 Break"
     - name: "1:30 - 3:00 Group Discussion + Exercise (*In Zoom break-out room*)"
-    - name: "3:00 - 3:45 Guest Speaker: Natasha Quadlin (*In Zoom full group*)"
+    - name: "3:00 - 3:45 Guest Speaker: Natasha Quadlin [Ohio State] (*In Zoom full group*)"
     - name: "3:45 - 4:00 Speaker Q & A"
   
 - date: 2020-06-19
@@ -62,6 +62,41 @@
     - name: "10:00 - 10:15 Outline the Day (*Zoom*)"
     - name: "10:15 - 11:15 Case Study (*In Zoom break-out room*)"
     - name: "11:15 - 12:00 Break"
-    - name: "12:00-1:15 Panel: AI & Ethics by Sarah Brayne, Emily Dentone, and Alex Hanna (*In Zoom full group*)"
+    - name: "12:00-1:15 Panel: AI & Ethics by Sarah Brayne [UT-Austin], Emily Dentone [Google], and Alex Hanna [Google] (*In Zoom full group*)"
     - name: "1:15 - 2:00 Debrief and Week 2 Prep"
     - name: "2:00 - 4:00 Work On Projects"
+
+ - date: 2020-06-22
+  name: Research Projects 
+  events:
+    - name: "10:00 - 12:00 Group Work Time (*Zoom*)"
+    - name: "12:00 - 1:30 Break"
+    - name: "1:30-3:00 Participant Flash Talks (Optional Participation; Required Attendance)"
+
+- date: 2020-06-23
+  name: Group Work Time 
+  events:
+    - name: "10:00 - 12:00 Group Work Time (*Zoom*)"
+    - name: "12:00 - 1:30 Break"
+    - name: "1:30-3:00 Group Work Time; Office Hours by Appointment (*Zoom*)"
+
+- date: 2020-06-24
+  name: Group Work Time 
+  events:
+    - name: "10:00 - 12:00 Group Work Time (*Zoom*)"
+    - name: "12:00 - 1:30 Break"
+    - name: "1:30-3:00 Group Work Time; Office Hours by Appointment (*Zoom*)"
+
+- date: 2020-06-25
+  name: Group Work Time 
+  events:
+    - name: "10:00 - 12:00 Group Work Time (*Zoom*)"
+    - name: "12:00 - 1:30 Break"
+    - name: "1:30-3:00 Group Work Time; Office Hours by Appointment (*Zoom*)"
+
+- date: 2020-06-26
+  name: Group Work Time 
+  events:
+    - name: "10:00 - 12:00 Group Work Time (*Zoom*)"
+    - name: "12:00 - 1:30 Break"
+    - name: "1:30-3:00 Group Work Time; Office Hours by Appointment (*Zoom*)"
