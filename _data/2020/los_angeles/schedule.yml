@@ -72,4 +72,32 @@
     - name: "10:00 - 12:00 Group Work Time (*Zoom*)"
     - name: "12:00 - 1:30 Break"
     - name: "1:30-3:00 Participant Flash Talks [Required Attendance/Optional Participation] (*Zoom*)"
+ 
+ - date: 2020-06-23
+  name: Research Projects
+  events:
+    - name: "10:00 - 12:00 Group Work Time (*Zoom*)"
+    - name: "12:00 - 1:30 Break"
+    - name: "1:30-3:00 Group work Time"
+  
+  - date: 2020-06-24
+  name: Research Projects
+  events:
+    - name: "10:00 - 12:00 Group Work Time (*Zoom*)"
+    - name: "12:00 - 1:30 Break"
+    - name: "1:30-3:00 Group Work Time/Office Hours"
+  
+  - date: 2020-06-25
+  name: Research Projects
+  events:
+    - name: "10:00 - 12:00 Group Work Time (*Zoom*)"
+    - name: "12:00 - 1:30 Break"
+    - name: "1:30-3:00 Group Work Time"
     
+    
+  - date: 2020-06-25
+  name: Research Projects
+  events:
+    - name: "10:00 - 12:00 Group Work Time (*Zoom*)"
+    - name: "12:00 - 1:30 Break"
+    - name: "1:30-3:00 Group Work Time"
