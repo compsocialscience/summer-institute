@@ -98,7 +98,8 @@
 - name: Matthew P. Robertson
   image: /assets/images/matthewRobertson.png
   bio: "Matthew P. Robertson is a PhD student in the School of Politics and International Relations at the Australian National University. His doctoral research uses computational methods and process tracing to study China's organ transplantation industry. His work seeks to answer empirical questions, while also using the case to explore the political logic of state control over citizen bodies in the PRC."
-
+  website: "https://matthewprobertson.wordpress.com/"
+  
 - name: Samantha Robertson
   image: /assets/images/samanthaRobertson.jpg
   bio: "Sam is a PhD student in Computer Science at UC Berkeley working at the intersection of human-computer interaction and machine learning. Her research interests include computational social choice, participatory design (especially applied to AI/ML), social computing and data ethics. She is interested in how these topics can inform the design of algorithmic systems that support, rather than replace, individual and collective human decision-making. In current projects she has been applying this perspective to studies of machine translation systems and mechanism design for public school assignment."
