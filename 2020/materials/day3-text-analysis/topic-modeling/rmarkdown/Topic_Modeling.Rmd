@@ -227,6 +227,15 @@ There are some nice R packages for producing interactive visualization of topic 
 
 ![](ldaviz.png)
 
+## Topic Models for Short Text
+
+A major limitation of topic models is that they tend to perform very poorly on short texts, such as Tweets. There have been a number of recent attempts to address this problem, and Graham Tierney has developed a very nice solution called [stLDA-C](https://github.com/g-tierney/stLDA-C). 
+
+The stLDA-C model is an extension of the LDA topic model to Twitter data with repeated tweets by the same user. The basic framework is that instead of a document (tweet) covering many topics, it has just a single topic. Each user has a distribution over topics and all words in the tweet are a draw from the same distribution over words. To map from LDA to this topic model, documents become Twitter users and words become tweets. 
+
+We also have added unsupervised clustering of users. Each user's distribution over topics is a draw from a small number of unknown Dirichlet distributions. We can learn which users discuss similar topics simultaneously with learning the topics themselves. This also helps with classifying users who tweet infrequently by accounting for the fact that we have less data on them in the estimation procedure. 
+
+[Here](https://github.com/g-tierney/stLDA-C_public) is a link to the repo where you can try out the code: 
 
 ## Limitations of Topic Models
 

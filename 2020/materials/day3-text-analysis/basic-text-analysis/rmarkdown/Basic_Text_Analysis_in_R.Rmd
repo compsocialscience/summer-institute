@@ -7,7 +7,6 @@ output:
 ---
 
 <br>
-**[Text as Data Course](https://cbail.github.io/textasdata/Text_as_Data.html)**   
 **Chris Bail, PhD**  
 **Duke University**  
 [www.chrisbail.net](http://www.chrisbail.net)  
@@ -16,19 +15,22 @@ output:
 
 This tutorial is designed to introduce you to the basics of text analysis in R. It provides a foundation for future tutorials that cover more advanced topics in automated text analysis such as topic modeling and network-based text analysis. This tutorial assumes basic knowledge about R and other skills described in previous tutorials at the link above.
 
-# Character Encoding
+## Character Encoding
 
 One of the first things that is important to learn about quantitative text analysis is to most computer programs, texts or strings also have a numerical basis called character encoding. Character encoding is a style of writing text in computer code that helps programs such as web browsers figure out how to display text. There are presently dozens of different types of character encoding that resulted not only from advances in computing technology---and the development of different styles for different operating systems---but also for different languages (and even new languages such as emoji). The figure below illustrates a form of character encoding called "Latin Extended-B" which was developed for representing text in languages derived from Latin (which of course excludes a number of important languages)
 
 <br>
-![](character-viewer.png)
+![](character-viewer.png){width=400px}
 <br>
 
-Why should you care that text can be created using different forms of character encoding? Well, if you have scraped a large amount of data from multiple websites---or multiple social media sites--- you may find that your data exist in multiple types of character encoding, and this can create a big hassle. Before we begin working with a text-based dataset, it is useful to either a) make sure every text uses the same character encoding; or b) use a tool to force or coerce all text into a single character encoding. The `Encoding` and `inconv` functions in base R can be very useful for the latter purposes. Note, however, that the latter function may create "place holders" for characters that it cannot process. For example, if an old version of character encoding is applied to text that contains emoji, the emoji may appear as strings of seeminly incoherent symbols and punctuation marks.
+Why should you care that text can be created using different forms of character encoding? Well, if you have scraped a large amount of data from multiple websites---or multiple social media sites--- you may find that your data exist in multiple types of character encoding, and this can create a big hassle (see the figure below). Before we begin working with a text-based dataset, it is useful to either a) make sure every text uses the same character encoding; or b) use a tool to force or coerce all text into a single character encoding. The `Encoding` and `inconv` functions in base R can be very useful for the latter purposes. Note, however, that the latter function may create "place holders" for characters that it cannot process. For example, if an old version of character encoding is applied to text that contains emoji, the emoji may appear as strings of seeminly incoherent symbols and punctuation marks.
+
+<br>
+![](encoding_over_time.png){width=500px}
 
 Inconsistent character encoding is one of the most common pitfalls for those attempting to learn how to perform quantitative text analysis in R, but there are no easy solutions. If you try to run the code below and receive error messages such as `invalid multibyte string`, this is indicative of a character encoding issue that you will most likely need to resolve using one of the imperfect steps above. 
 
-# GREP
+## GREP
 
 Another important tool for working with text is GREP, which stands for "Globally search a Regular Expression and Print." In laymans terms, GREP is a tool that helps you search for the presence of a string of characters that matches a pattern.
 
@@ -37,13 +39,13 @@ To demonstrate why you need to learn some GREP, let's return to an issue we enco
 Let's create a character string that includes such characters as follows (the meaning of the text isn't important- this was scraped from the Duke University web page "Events" section):
 
 ```{r}
-duke_web_scrape<- "Class of 2018: Senior Stories of Discovery, Learning and Serving\n\n\t\t\t\t\t\t\t" 
+duke_web_scrape<- "Duke Experts: A Trusted Source for Policy Makers\n\n\t\t\t\t\t\t\t" 
 ```
 
-Once again, GREP-style commands search for a certain pattern. For example, let's write some code that determines whether the word "Class" is part of our string using the `grepl` function in base R:
+Once again, GREP-style commands search for a certain pattern. For example, let's write some code that determines whether the word "Experts" is part of our string using the `grepl` function in base R:
 
 ```{r}
-grepl("Class", duke_web_scrape)
+grepl("Experts", duke_web_scrape)
 ```
 
 The text within quotes is the pattern we are trying to find, and the second argument is the string we want to search within. The output tells us that there was one occurrence of "Class."
@@ -62,11 +64,11 @@ We can also pass two arguments at once using the `|` separator as follows:
 gsub("\t|\n", "", duke_web_scrape)
 ```
 
-GREP-style commands also include a wildcard which can be used to, for example, find all words in a string that start with a certain letter, such as "P":
+GREP-style commands also include a wildcard which can be used to, for example, find all words in a string that start with a certain character, such as "F":
 
 ```{r}
-some_text<-c("This","Professor","is","not","so","great")
-some_text[grep("^[P]", some_text)]
+some_text<-c("Friends","don'tt","let","friends","make","wordclouds")
+some_text[grep("^[F]", some_text)]
 ```
 
 [Here](http://www.rstudio.com/wp-content/uploads/2016/09/RegExCheatsheet.pdf) is a useful cheatsheet that includes more examples of how to use GREP to find patterns in text.
@@ -75,7 +77,7 @@ GREP commands are fairly straight forward, and much more powerful and useful for
 
 ```{r, eval=FALSE}
 text_chunk<-c("[This Professor is not so Great]")
-gsub("\","", text_chunk)
+gsub("[","", text_chunk)
 ```
 
 We receive an error message when we run the code above because the `\` character has a literal meaning to R because it is part of something called a regular expression. To remove this character, and other characters like it, we need to "escape" the character using single quotation marks wraped around a double `\\` as follows:
@@ -85,18 +87,36 @@ gsub('\\[|\\]',"", text_chunk)
 ```
 
 
-
-# Tokenization
+## Tokenization
 
 Another important concept that is necessary to master to perform quantitative text analysis is Tokenization. Tokenization refers to the way you are definining the unit of analysis. This might include words, sequences of words, or entire sentences. The figure below provides an example of one way to tokenize a simple sentence.
 
-<br>
-![](token.png)
+```{r, eval=FALSE}
+<sentence>
+  
+<word>Friends</word
+
+<word>do</word>
+
+<word>not</word>
+
+<word>let</word>
+
+<word>friends</word>
+
+<word>make</word>
+
+<word>word</word>
+
+<word>clouds</word>
+
+</sentence>
+```
 <br>
 
-This figure illustrates the most common way of tokenizing a text---by individual word. Many techniques in quantitative text analysis also analyze what are known as "n-grams" however. Ngrams are simply sequences of words with length "n." For example, the sentence above could be written in ngram form as "the quick brown", "quick brown fox", "brown fox jumps" and so on. N-grams can be useful when word-order is important, as I will discuss in additional detail below. For now, let me give you a simple example: "I hate the president" and "I'd hate to be the president."
+This figure illustrates the most common way of tokenizing a text---by individual word. Many techniques in quantitative text analysis also analyze what are known as "n-grams" however. Ngrams are simply sequences of words with length "n." For example, the sentence above could be written in ngram form as "Friends don't let", "don't let friends", "friends make word" and so on. N-grams can be useful when word-order is important, as I will discuss in additional detail below. For now, let me give you a simple example: "I hate the president" and "I'd hate to be the president."
 
-# Creating a Corpus
+## Creating a Corpus
 
 Another unique feature of quantitative text analysis is that it typically requires new data formats that allow algorithms to quickly compare one document to a lot of other documents in order to identify patterns in word usage that can be used to identify latent themes, or address the overall popularity of a word or words in a single document vs. a group of documents. One of the most common data formats in the field of Natural Language Processing is a corpus. 
 
@@ -123,7 +143,7 @@ trump_corpus
 
 As this output shows, we've created a corpus with 3,196 documents, where each document is one of Trump's tweets. You may also notice that the `Corpus` object can also store metadata such as information about the names of the author of each document of or the date each document was produced (though we are not storing any such meta data here.
 
-# Tidy-Text
+## Tidy-Text
 
 An important alternative to Corpus object has emerged in recent years in the form of `tidytext`. Instead of saving a group of documents and associated meta data, text that is in `tidytext` format contains one word per row, and each row also includes additional information about the name of the document where the word appears, and the order in which the words appear.
 
@@ -136,12 +156,12 @@ install.packages("tidytext")
 Now let's load our database of Trump tweets into `tidytext` format--- since the `tidytext` package is part of the `tidyverse`, which is a family of packages that work well together in R that includes other popular packages such as `dplyr` and `ggplot2` we will use the "piping" style of coding (`%>%`) associated with such packages:
 
 ```{r, warning=FALSE, message=FALSE}
-
 library(tidytext)
 library(dplyr)
 tidy_trump_tweets<- trumptweets %>%
     select(created_at,text) %>%
     unnest_tokens("word", text)
+head(tidy_trump_tweets)
 ```
 
 A major advantage of `tidytext` format is that once the text has been tidy-ed, regular R functions can be used to analyze it instead of the specialized functions necessary to analyze a Corpus object. For example, to count the most popular words in Trump's tweets, we can do the following:
@@ -154,7 +174,7 @@ tidy_trump_tweets %>%
 
 Not very informative or interesting that the most frequent word used by trump is "the" is it? This brings us to our next subject: text pre-processing.
 
-# Text Pre-Processing
+## Text Pre-Processing
 
 Before we begin running quantitative analyses of text, we first need to decide precisely which type of text should be included in our analyses. For example, as the code above showed, very common words such as "the" are often not very informative. That is, we typically do not care if one author uses the word "the" more often than another in most forms of quantitative text analysis, but we might care a lot about how many times a politician uses the word "economy" on Twitter.
 

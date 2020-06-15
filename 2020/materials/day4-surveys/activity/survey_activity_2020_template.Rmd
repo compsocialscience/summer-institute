@@ -19,25 +19,14 @@ knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
 library(tidyverse)
 library(lme4)
 
-# set your working directory
-# setwd("~/user/working_directory")
-
 # load cleaned data file for survey results
-data <- read.csv("https://github.com/compsocialscience/summer-institute/raw/master/2019/materials/day4-surveys/activity/2019-06-13_mturk_data_clean.csv")
-## not using education or political attention check, so drop these vars
-## (you can use these if you want!)
-data <- data %>% select(-attention1, -educ)
-
-## NOTE: if you are using your own survey results, you will need to 
-## do some wrangling before you can match with the benchmark or acs data
-## for a walkthrough, see https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/activity/mturk_data_cleaning.Rmd
+data <- read_csv("https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2020/materials/day4-surveys/activity/2020_06_clean_mturk_data.csv")
 
 # load external information -- in this case, population info
-census <- read.csv("https://github.com/compsocialscience/summer-institute/raw/master/2019/materials/day4-surveys/activity/2017_acs_data_clean.csv")
+census <- read_csv("https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2020/materials/day4-surveys/activity/2017_acs_data_clean.csv")
 
 # load pew benchmarks
-pew <- read.csv("https://github.com/compsocialscience/summer-institute/raw/master/2019/materials/day4-surveys/activity/2019_pew_benchmark_data.csv", 
-                col.names = c("qid", "label", "pew_estimate", "source"))
+pew <- read_csv("https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2020/materials/day4-surveys/activity/pew_benchmark_question_source_sicss_2020.csv")
 pew <- pew %>% select(qid, pew_estimate)
 ```
 
@@ -53,12 +42,13 @@ First, we'll just take the mean of the whole sample for each question. This appr
 # take the mean of survey responses in mturk data
 ## remove demographic variables (factor vars)
 ## get column means
-mturk_means <- data %>% select(-sex, -race, -age_cat, -region) %>%
-  summarise_all(~mean(., na.rm = T))
-
-# reshape from wide to long
-## with columns for questions (call this qid) and for mean
-mturk_means <- mturk_means %>% gather(qid, mean)
+mturk_means <- data %>% select(-sex, -race, -age_cat, -region, -educ) %>%
+  summarise_all(~mean(., na.rm = T)) %>%
+## reshape from wide to long using tidyr package
+## with columns for questions (call this qid) and for mean 
+## having the data in long format makes it easier to merge with the pew estimate for plotting figure 1
+  pivot_longer(COVIDNEWSSWITCH.1:ALG_JOBCANDIDATE.1, names_to = "qid", 
+               values_to = "mean")
 
 # preview
 head(mturk_means)
@@ -74,7 +64,7 @@ head(mturk_means)
 mean_est <- inner_join(pew, mturk_means, by = c("qid"))
 head(mean_est)
 
-# make function for plot
+# make function for Figure 1
 plot_comparison <- function(est_table, method, caption){
   graph <-  ggplot(est_table, 
                    aes(x = pew_estimate, y = method)) + 
@@ -91,7 +81,6 @@ plot_comparison <- function(est_table, method, caption){
 plot_comparison(est_table = mean_est, 
                 method = mean_est$mean, 
                 caption = "Non-weighted estimates from MTurk")
-
 ```
 
 ## 1.3) Plot distribution of estimation-benchmark differences 
@@ -259,23 +248,16 @@ Plot both your new group means and the estimated means against the Pew benchmark
 ## 4.1) Predict group means with simple regression model; combine with group weights to create weighted means
 
 ```{r}
-
-
 ```
 
 ## 4.2) Plot estimated means against benchmarks
 
 ```{r}
-
-
 ```
 
 ## 4.3) Plot distribution of estimation-benchmark differences 
 
 ```{r}
-
-
-
 ```
 
 
@@ -286,8 +268,6 @@ Plot both your new group means and the estimated means against the Pew benchmark
 Which questions worked well and which didn't? Which methods worked well for which questions?
 
 ```{r}
-
-
 ```
 
 \newpage
@@ -297,29 +277,19 @@ Which questions worked well and which didn't? Which methods worked well for whic
 ### 5.1) Predict group means with multi-level regression model; combine with group weights to create weighted means
 
 ```{r}
-
-
 ```
 
 ### 5.2) Plot estimated means against benchmarks
 
 ```{r}
-
-
-
 ```
 
 ### 5.3) Plot distribution of estimation-benchmark differences
 
 ```{r}
-
-
-
 ```
 
 ### 5.4) Compare differences from MRP with other methods
 
 ```{r}
-
-
 ```

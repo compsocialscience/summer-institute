@@ -111,6 +111,8 @@
           text: "Video"
         - link: "https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/intro-text-analysis/Rpres/Introduction_to_Text_as%20Data.html"
           text: "Slides"
+        - link: "https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/intro-text-analysis/rmarkdown/Introduction_to_Text_Analysis.html"
+          text: "Annotated Code"
     - name: "Text Analysis Basics"
       video: "https://www.youtube.com/embed/TAlO-5NJB7I"
       sublinks:
@@ -118,6 +120,8 @@
           text: "Video"
         - link: "https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/basic-text-analysis/Rpres/Basic_Text_Analysis.html"
           text: "Slides"
+        - link: "https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/basic-text-analysis/rmarkdown/Basic_Text_Analysis_in_R.html"
+          text: "Annotated Code"
     - name: "Dictionary-Based Text Analysis"
       video: "https://www.youtube.com/embed/wSIi2ZRKjaE"
       sublinks:
@@ -125,6 +129,8 @@
           text: "Video"
         - link: "https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/dictionary-methods/Rpres/Dictionary_Based_Analysis.html"
           text: "Slides"
+        - link: "https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/dictionary-methods/rmarkdown/Dictionary-Based_Text_Analysis.html"
+          text: "Annotated Code"
     - name: "Topic Models"
       video: "https://www.youtube.com/embed/T2ZRBi1oUME"
       sublinks:
@@ -132,6 +138,8 @@
           text: "Video"
         - link: "https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/topic-modeling/Rpres/Topic_Modeling.html"
           text: "Slides"
+        - link: "https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/topic-modeling/rmarkdown/Topic_Modeling.html"
+          text: "Annotated Code"
     - name: "Text Networks"
       video: "https://www.youtube.com/embed/-2dBI2ULcQw"
       sublinks:
@@ -139,6 +147,8 @@
           text: "Video"
         - link: "https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/text-networks/Rpres/Text_Networks.html"
           text: "Slides"
+        - link: "https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/text-networks/rmarkdown/Text_Networks.html"
+          text: "Annotated Code"
 
 - day: Day 4
   id: day_4
