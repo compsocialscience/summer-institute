@@ -6,7 +6,9 @@
   events:
     - name: "Join our Slack Channel (check email)"
     - name: "Add your projet idea to the google sheet (check email)"
-    
+    - name: "GitHub: In this virtual event, many participants at SICSS use GitHub to collaborate. If you do not yet have one, you should [create a GitHub account](https://github.com/join). If you are a student, we recommend that you apply for a [GitHub Student Developer Pack](https://education.github.com/pack)."
+    - name: "Daily feedback : Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeKh7tXuylFbayOHTJMcGwP3coljPWsuWqCNAV9hx62Ir0-rg/viewform?vc=0&c=0&w=1) after class.
+
 - date: 2020-06-8
   name: Courses posted online
   events:
