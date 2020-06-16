@@ -86,12 +86,12 @@
   events:
     - name: "ADVANCE watch [Machine Learning](https://compsocialscience.github.io/summer-institute/curriculum#day_3)"
     - name: "ADVANCE watch [Social Network Analysis](http://codingsocialscience.org/book/r1/node56.html)"
-    - name: "10:00 - 10:15 Lecture: Introduction to machine learning in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
-    - name: "10:15 - 11:00 Lecture: Linear regression in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
-    - name: "11:00 - 11:30 Interactive exercise: Predicting house prices in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
-    - name: "11:30 - 12:00 Lecture: Features and overfitting in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
+    - name: "10:00 - 10:15 Lecture: Introduction to machine learning by [Will Hamilton](https://williamleif.github.io/) in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
+    - name: "10:15 - 11:00 Lecture: Linear regression by [Will Hamilton](https://williamleif.github.io/) in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
+    - name: "11:00 - 11:30 Interactive exercise: Predicting house prices in [Zoom break-out rooms](https://uqam.zoom.us/j/7123857324)"
+    - name: "11:30 - 12:00 Lecture: Features and overfitting in by [Will Hamilton](https://williamleif.github.io/) in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
     - name: "12:00 - 1:30 Small group lunches (optional) in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
-    - name: "1:30 - 2:30 Lecture: Classification and neural networks in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
+    - name: "1:30 - 2:30 Lecture: Classification and neural networks by [Will Hamilton](https://williamleif.github.io/) in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
     - name: "2:30 - 4:00 Interactive exercise: Text classification in [Zoom break-out rooms](https://uqam.zoom.us/j/7123857324)"
     - name: "4:00 - 4:30 Debrief and logistics in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
     
