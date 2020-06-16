@@ -82,8 +82,12 @@
 - date: 2020-06-18
   name: Automated Text Analysis
   events:
+    - name: "Small Group Discussions"
+      time: "15:00 - 16:15"
+    - name: "Coffee Break"
+      time: "16:15 - 16:45"
     - name: "Tutorial Session: [Automated Text Analysis](https://compsocialscience.github.io/summer-institute/curriculum#day_3) *by Ahmet Kurnaz*"
-      time: "17:00 - 18:30"
+      time: "16:45 - 18:30"
 
 - date: 2020-06-19
   name: Social Network Analysis
