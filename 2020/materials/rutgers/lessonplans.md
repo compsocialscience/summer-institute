@@ -9,3 +9,5 @@ Participant [Lesson Plan](https://docs.google.com/document/d/1WKAbKqmgKTMndPkTWb
 Summary [Slides](https://docs.google.com/presentation/d/1thXlkDgBd_MptJD8AGq8C2rI0lkU6V5O4oJ66JLUtBY/edit?usp=sharing); Participant [Lesson Plan](https://docs.google.com/document/d/1AIe8RawYsu02SeByzslayjdWO69-bi45yxZBbXLrAtw/edit?usp=sharing); 
 See also [coding examples](https://drive.google.com/drive/folders/1qLE91Upx8whd9GFJ6PcCj405bLYrnEw0?usp=sharing) for screen scraping, rtweet, tuber, and shiny 
 
+## Day 3- Text as Data
+Participant [Lesson Plan](https://docs.google.com/document/d/1SMCulQDz36mXIKA8dz3sStuGpXrgPsZ2IEE8i4TApUo/edit?usp=sharing)
