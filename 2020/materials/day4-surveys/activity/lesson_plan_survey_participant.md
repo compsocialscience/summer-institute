@@ -60,7 +60,7 @@ Participants will gain experience with the following activities:
 
 2. Analyze the data we previously collected (60 minutes).
   - Cost constraints mean that each group can only collect a small number of responses.  Therefore, we have collected one large dataset that all the groups can analyze. Download the data that we collected with this [questionnaire] (https://docs.google.com/forms/d/e/1FAIpQLSf_FRPaGbeqgVAOasEgSHjGIIYiaFoT8JHd-AW-5aEI4adWrQ/formResponse) from MTurk workers [here](2020_06_clean_mturk_data.csv).
-  - Compare the raw (unweighted) estimates to the [results found by Pew](pew_benchmark_question_source_sicss_2020.csv) [3]. Next compare the estimates after doing [cell-based post-stratification]. Use [this template](survey_activity_2020_template.Rmd) as you work through these steps.  The template will help you replicate Figures 1 and 2 from Goel et al. and avoid some common pitfalls.
+  - Compare the raw (unweighted) estimates to the [results found by Pew](pew_benchmark_question_source_sicss_2020.csv) [3]. Next compare the estimates after doing [cell-based post-stratification](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day4-surveys/activity/introduction_to_poststratificiation.md). Use [this template](survey_activity_2020_template.Rmd) as you work through these steps.  The template will help you replicate Figures 1 and 2 from Goel et al. and avoid some common pitfalls.
   - Due to the time constraint, you won't be able to do techniques as complicated in the paper by Goel et al. However, those sections are marked as optional extension in the template code, and we provide the instruction on how to do them in the code [here](survey_activity_2020_solution.Rmd).
 
 ## Additional resources
