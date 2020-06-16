@@ -26,7 +26,7 @@
   name: "Automated Text Analysis"
   events:
     - name: "1:00 - 1:30 Logistics and Introduction to the group exercise"
-    - name: "1:30 - 3:15 Group excercise"
+    - name: "1:30 - 3:15 [Group Exercise](https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/Group-Exercise-Day-3.html) (*Zoom*)"
     - name: "3:15 - 3:30 Whole group debrief about group excercise"
     - name: "3:30 - 4:30 Break"
     - name: "4:30 - 5:30 Sharad Goel, Stanford University"
@@ -46,7 +46,7 @@
   name: "Mass collaboratation and machine learning"
   events:
     - name: "1:00 - 1:30 Logistics and Introduction to the Fraglie Families Challenge"
-    - name: "1:30 - 3:30 Participate in the Fraglie Families Challenge"
+    - name: "1:30 - 3:30 Participate in the Fraglie Families Challenge [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md), [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_instructor.md) (*Zoom*)"
     - name: "3:30 - 4:00 Break"
     - name: "4:00 - 5:30 Meet the Partners: Pangea Lab/UCSF, Code for America, DonorsChoose"
     - name: "5:30 - 6:00 Debrief and logistics"
