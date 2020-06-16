@@ -19,11 +19,12 @@ Well in advance of the activity (we recommend at least two full days), you will 
 
 - Register for an account on the [OPR data archive](https://opr.princeton.edu/archive/restricted/Default.aspx)
 - Visit your [switchboard](https://opr.princeton.edu/archive/restricted/Switchboard.aspx) and sign up for access to the Fragile Families and Child Wellbeing Study. When asked about your plans for using the data, write "I will be participating in the Fragile Families Challenge as part of SICSS." You may also include any additional plans for using the data.
-- We approve these applications manually. Wait for an email from us.
-- Once approved, we will email you a zipped folder containing the Challenge files. These data are available on the [OPR data archive](https://opr.princeton.edu/archive/restricted/Default.aspx), but the folder we will email you contains additional helper files.
-- To open the zipped folder, you will need a password that we will post on Slack. Contact your local organizer or Ian Lundberg with questions.
+- We approve these applications manually. There will be a lag before the next steps.
+- Once approved, you may receive an email from the Fragile Families Study. They will direct you to the files stored on the [OPR data archive](https://opr.princeton.edu/archive/restricted/Default.aspx), but for our activity we are going to use a tailored set of files instead (see below).
+- You will receive an email from Ian Lundberg with the data tailored to our activity. Ian's email will come through Princeton's Secure Send system. You will have to make an account to download; it will walk you through the steps.
+- Download the zipped data folder. To open the zipped folder, you will need a password that we will post on Slack. Contact your local organizer or Ian Lundberg with questions.
 
-Shortly before the activity, watch the video in which Matt introduces the activity, which will be posted on the [curriculum section of the SICSS website](https://compsocialscience.github.io/summer-institute/curriculum).
+Before the activity, watch the video in which Matt introduces the activity, which will be posted on the [curriculum section of the SICSS website](https://compsocialscience.github.io/summer-institute/curriculum).
 
 ### Ethics: A brief note
 
