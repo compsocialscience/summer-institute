@@ -24,9 +24,9 @@ __Archiving:__ This talk will be recorded and archived.
 
 __Time:__ Tuesday, June 23, 2020. 3:30-4:30pm EDT
 
-__Speakers:__ [Taylor W. Brown](https://www.taylorwhittenbrown.com/) (SICSS-Princeton 17, SICSS-Duke 18, SICSS-Oxford 19), [Naniette H. Coleman](https://www.naniettecoleman.com/) (SICSS-Princeton 19), and [Tina Law](https://tinalaw1.github.io/) (SICSS-Duke 18)
+__Speakers:__ [Naniette H. Coleman](https://www.naniettecoleman.com/) (SICSS-Princeton 19)
 
-__Moderator:__ [Matthew Salganik](https://www.princeton.edu/~mjs3/) (SICSS-Princeton 17, SICSS-Duke 18, SICSS-Princeton 19, SICSS-Duke 20)
+__Moderator:__ [Matthew Salganik](https://www.princeton.edu/~mjs3/) (SICSS-Princeton 17, 19, SICSS-Duke 18, 20)
 
 __Description:__ In order to thrive, the field of computational social science requires contributions from people from different intellectual backgrounds and different life experiences. The panelists will discuss their own efforts to increase diversity in computational social science, describe why they think this work is important, explain what other efforts are underway now, and what they think should be done in the future.  There will also be time for the audience to submit written questions to be asked by the moderator.
 
@@ -56,7 +56,7 @@ __Time:__ Wednesday, June 24, 2020. 11:30am-12:30pm EDT
 
 __Speakers:__ [Nicolò Cavalli](https://www.sociology.ox.ac.uk/graduate/nicolo-cavalli.html) (SICSS-Duke 18, SICSS-Oxford 19), [Ridhi Kashyap](https://www.nuffield.ox.ac.uk/people/profiles/ridhi-kashyap/) (SICSS-Princeton 17, SICSS-Oxford 19),  and [Francesco Rampazzo](https://francescorampazzo.com/) (SICSS-Duke 18)
 
-__Moderator:__ [Vissého Adjiwanou](https://sociologie.uqam.ca/corps-professoral/professeurs-es/professeur/adjiwanou.visseho/) (SICSS-Princeton 17, SICSS-Cape Town 18, SICSS-Cape Town 19, SICSS-Montreal 20)
+__Moderator:__ [Vissého Adjiwanou](https://sociologie.uqam.ca/corps-professoral/professeurs-es/professeur/adjiwanou.visseho/) (SICSS-Princeton 17, SICSS-Cape Town 18, 19, SICSS-Montreal 20)
 
 __Description:__ The panel will begin with a broad introduction to digital and computational approaches to demography.  Next, panelists will present examples drawing on some of their own work  of digital and computational approaches to demographic research in two areas: 1) migration and 2) digital inequality and its implications for demographic processes.  Following these specific examples, the panel will reflect on future directions for digital demography, both in the context of the promises and perils of this emerging area in demographic research, as well as in relation to its role within the broader computational social science community.  We aim for this conversation to include a wider discussion between panelists and participants, and encourage broad participation from those within computational social science, demography and population studies communities. 
 
@@ -84,7 +84,7 @@ __Time:__ Thursday, June 25, 2020. 11am-12pm EDT
 
 __Speakers:__ [Ryan Gallagher](https://ryanjgallagher.github.io/) (SICSS-Duke 18), [Anne Helby Petersen](https://biostat.ku.dk/staff_/?pure=en/persons/395810) (SICSS-Duke 18), and [Carsten Schwemmer](https://www.carstenschwemmer.com/) (SICSS-Duke 18)
 
-__Moderator:__ [Matthew Salganik](https://www.princeton.edu/~mjs3/) (SICSS-Princeton 17, SICSS-Duke 18, SICSS-Princeton 19, SICSS-Duke 20)
+__Moderator:__ [Matthew Salganik](https://www.princeton.edu/~mjs3/) (SICSS-Princeton 17, 19, SICSS-Duke 18, 20)
 
 __Description:__ Almost all computational social science depends on open source software, yet very few computational social scientists actually contribute to open source software.  These panelists will share their experiences developing open source software as part of an academic career, and they will offer advice for others who want to contribute to existing open source projects or start new ones.  There will be time for questions from the audience.
 
@@ -110,7 +110,7 @@ __Time:__ Friday, June 26, 2020. 10-11am EDT
 
 __Speakers:__ [Dave Holtz](https://www.daveholtz.net/) (SICSS-Duke 18) and [Sanaz Mobasseri](https://www.sanazmobasseri.com/) (SICSS-Duke 18)
 
-__Moderator:__ [Matthew Salganik](https://www.princeton.edu/~mjs3/) (SICSS-Princeton 17, SICSS-Duke 18, SICSS-Princeton 19, SICSS-Duke 20)
+__Moderator:__ [Matthew Salganik](https://www.princeton.edu/~mjs3/) (SICSS-Princeton 17, 19, SICSS-Duke 18, 20)
 
 __Description:__ Most big data sources are controlled by companies, and many computational social scientists struggle to get access to these data. These panelists, who have experience collaborating with companies on research projects, will share insights about initiating, developing, and maintaining productive collaborations between researchers and companies. They will discuss practical issues, such as negotiating data usage agreements and navigating legal considerations for both parties, as well as describe potential risks and ethical issues created by these collaborations. There will be time for questions from the audience.
 
