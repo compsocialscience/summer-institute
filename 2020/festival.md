@@ -34,20 +34,6 @@ __Open to:__ Unlimited registered participants: [Registration form](https://form
 
 __Archiving:__ This talk will be recorded and archived.
 
-## Using Empirica for high-throughput virtual lab experiments
-
-__Time:__ Two sessions. Wednesday, June 24, 2020. 1-2:30pm EDT and Friday, June 26, 2020. 10-11:30am EDT.
-
-__Speakers:__ [Abdullah Almaatouq](http://www.amaatouq.com/) (SICSS-Princeton 17), [Joshua Becker](https://www.joshua-becker.com/) (SICSS-Princeton 17), [James Houghton](http://www.jamesphoughton.com/) (SICSS-Duke 20), and Nicolas Paton.
-
-__Description:__ [Empirica](https://empirica.ly/) is a new open source software platform for developing and conducting synchronous and interactive human-subject experiments.  It has already been used by researchers around the world. This session will start with a live demonstration where participants will take part in a real-time experiment involving dozens of people.  Next, the data from that experiment will be downloaded and analyzed.  Thus, participants will have a behind-the-scenes, end-to-end experience with an experiment run with Emprica. Finally, there will be time for questions and discussion about Empirica and the future of experiments in the social sciences. **This session is targeted toward beginner users.** See Friday for an advanced session.
-
-__Open to:__ 60 registered participants. Registration is full.
-
-__Preparatory materials:__ All registered participants are strongly encouraged to work through and watch Empirica videos A - E (link coming soon), which will require them to [install software](https://empirica.ly/docs/quick-start.html) on their computers.
-
-__Archiving:__ This talk will be recorded and archived.
-
 ## Computational social science to address the (post) COVID-19 reality
 
 __Time:__ Wednesday, June 24, 2020, 10–11:15am EDT
@@ -66,16 +52,31 @@ __Archiving:__ This talk will be recorded and archived.
 
 ## Panel discussion on digital and computational demography
 
-__Time:__ Wednesday, June 24, 2020. Time coming soon.
+__Time:__ Wednesday, June 24, 2020. 11:30am-12:30pm EDT
 
-__Speakers:__ [Vissého Adjiwanou](https://sociologie.uqam.ca/corps-professoral/professeurs-es/professeur/adjiwanou.visseho/) (SICSS-Princeton 17, SICSS-Cape Town 18, SICSS-Cape Town 19, SICSS-Montreal 20), [Nicolò Cavalli](https://www.sociology.ox.ac.uk/graduate/nicolo-cavalli.html) (SICSS-Duke 18, SICSS-Oxford 19), [Ridhi Kashyap](https://www.nuffield.ox.ac.uk/people/profiles/ridhi-kashyap/) (SICSS-Princeton 17, SICSS-Oxford 19),  and [Francesco Rampazzo](https://francescorampazzo.com/) (SICSS-Duke 18)
+__Speakers:__ [Nicolò Cavalli](https://www.sociology.ox.ac.uk/graduate/nicolo-cavalli.html) (SICSS-Duke 18, SICSS-Oxford 19), [Ridhi Kashyap](https://www.nuffield.ox.ac.uk/people/profiles/ridhi-kashyap/) (SICSS-Princeton 17, SICSS-Oxford 19),  and [Francesco Rampazzo](https://francescorampazzo.com/) (SICSS-Duke 18)
 
-__Description:__ Coming soon.
+__Moderator:__ [Vissého Adjiwanou](https://sociologie.uqam.ca/corps-professoral/professeurs-es/professeur/adjiwanou.visseho/) (SICSS-Princeton 17, SICSS-Cape Town 18, SICSS-Cape Town 19, SICSS-Montreal 20)
 
-__Open to:__ Coming soon.
+__Description:__ The panel will begin with a broad introduction to digital and computational approaches to demography.  Next, panelists will present examples drawing on some of their own work  of digital and computational approaches to demographic research in two areas: 1) migration and 2) digital inequality and its implications for demographic processes.  Following these specific examples, the panel will reflect on future directions for digital demography, both in the context of the promises and perils of this emerging area in demographic research, as well as in relation to its role within the broader computational social science community.  We aim for this conversation to include a wider discussion between panelists and participants, and encourage broad participation from those within computational social science, demography and population studies communities. 
 
-__Archiving:__ Coming soon.
+__Open to:__ Unlimited registered participants: [Registration form](https://forms.gle/iwvB2v4wcr1P9Gxc9)
 
+__Archiving:__ This talk will be recorded and archived.
+
+## Using Empirica for high-throughput virtual lab experiments
+
+__Time:__ Two sessions. Wednesday, June 24, 2020. 1-2:30pm EDT and Friday, June 26, 2020. 10-11:30am EDT.
+
+__Speakers:__ [Abdullah Almaatouq](http://www.amaatouq.com/) (SICSS-Princeton 17), [Joshua Becker](https://www.joshua-becker.com/) (SICSS-Princeton 17), [James Houghton](http://www.jamesphoughton.com/) (SICSS-Duke 20), and Nicolas Paton.
+
+__Description:__ [Empirica](https://empirica.ly/) is a new open source software platform for developing and conducting synchronous and interactive human-subject experiments.  It has already been used by researchers around the world. This session will start with a live demonstration where participants will take part in a real-time experiment involving dozens of people.  Next, the data from that experiment will be downloaded and analyzed.  Thus, participants will have a behind-the-scenes, end-to-end experience with an experiment run with Emprica. Finally, there will be time for questions and discussion about Empirica and the future of experiments in the social sciences.
+
+__Open to:__ 60 registered participants. Registration is full.
+
+__Preparatory materials:__ All registered participants are strongly encouraged to work through and watch [Empirica videos A - E](https://www.youtube.com/playlist?list=PLPQelvUwyVgiawBDk3Sp74QMfL8RPgORW), which will require them to [install software](https://empirica.ly/docs/quick-start.html) on their computers.
+
+__Archiving:__ This talk will be recorded and archived.
 
 ## Creating open source software as part of an academic career
 
@@ -88,6 +89,18 @@ __Moderator:__ [Matthew Salganik](https://www.princeton.edu/~mjs3/) (SICSS-Princ
 __Description:__ Almost all computational social science depends on open source software, yet very few computational social scientists actually contribute to open source software.  These panelists will share their experiences developing open source software as part of an academic career, and they will offer advice for others who want to contribute to existing open source projects or start new ones.  There will be time for questions from the audience.
 
 __Open to:__ Unlimited registered participants: [Registration form](https://forms.gle/AUF65qz4sZmVve288)
+
+__Archiving:__ This talk will be recorded and archived.
+
+## Measuring cultural change in digital trace data using diversification rates
+
+__Time:__ Thursday, June 25, 2020. 12:30-1:30 EDT.
+
+__Speakers:__ [Bernard Koch](https://soc.ucla.edu/grads/bernard-koch) (SICSS-Los Angeles 19, 20)
+
+__Description:__ How do we measure cultural change? Through the birth and death of “cultural lineages” (e.g., hashtags, consumer goods, or musical artists), digital trace data allows us to observe cultural change at population scale over time. This tutorial introduces a statistical framework to identify and explain culturally important historical events through changes in the diversity of cultural lineages over time. Users will learn how to run an unsupervised machine learning model called ___LiteRate___ to identify statistically significant shifts in cultural diversity, as well as more restricted models to test theoretical hypotheses about the causes of these events. The tutorial will be accessible to a broad audience.
+
+__Open to:__ Unlimited registered participants: [Registration form](https://forms.gle/kZZPF2jviYbfy8T6A)
 
 __Archiving:__ This talk will be recorded and archived.
 

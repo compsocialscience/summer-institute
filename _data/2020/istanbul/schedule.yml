@@ -54,7 +54,7 @@
       time: "15:00 - 16:00"
     - name: "Coffee Break"
       time: "16:00 - 16:30"
-    - name: "Tutorial Session: [Using Mobile Phones for Human Behaviour Understanding](https://drive.google.com/file/d/1deMHQqB6EVlOGCjJ2bH4RLwJHFCOrS_-/view?usp=sharing) *by [Albert Ali Salah](http://www.staff.science.uu.nl/~salah006/)*"
+    - name: "Tutorial Session: [Using Mobile Phones for Human Behaviour Understanding](https://drive.google.com/drive/folders/1vtLa_i8sF2I2HiF9SSumNEgW-YtB8nns?usp=sharing) *by [Albert Ali Salah](http://www.staff.science.uu.nl/~salah006/)*"
       time: "16:30 - 18:00"
       
 - date: 2020-06-16
@@ -82,8 +82,12 @@
 - date: 2020-06-18
   name: Automated Text Analysis
   events:
+    - name: "Small Group Discussions"
+      time: "15:00 - 16:15"
+    - name: "Coffee Break"
+      time: "16:15 - 16:45"
     - name: "Tutorial Session: [Automated Text Analysis](https://compsocialscience.github.io/summer-institute/curriculum#day_3) *by Ahmet Kurnaz*"
-      time: "17:00 - 18:30"
+      time: "16:45 - 18:30"
 
 - date: 2020-06-19
   name: Social Network Analysis

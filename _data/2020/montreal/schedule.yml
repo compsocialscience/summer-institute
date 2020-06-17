@@ -16,7 +16,7 @@
     - name: "Tuesday: [Collecting Digital Trace Data](https://compsocialscience.github.io/summer-institute/curriculum#day_2)"
     - name: "Wednesday: [Automated Text Analysis](https://compsocialscience.github.io/summer-institute/curriculum#day_3)"
     - name: "Thursday: [Surveys in the Digital Age](https://compsocialscience.github.io/summer-institute/curriculum#day_4)"
-    - name: "Friday: [Unsupervised Machine Learning](https://compsocialscience.github.io/summer-institute/curriculum#day_3) and [Social Network Analysis](http://codingsocialscience.org/book/r1/node56.html)"
+    - name: "Friday: [Machine Learning](https://compsocialscience.github.io/summer-institute/curriculum#day_3) and [Social Network Analysis](http://codingsocialscience.org/book/r1/node56.html)"
  
 - date: "SICSS-Montréal First Week: Discussions and Exercises"
   events:
@@ -41,15 +41,15 @@
   events:
     - name: "ADVANCE watch [Collecting Digital Trace Data](https://compsocialscience.github.io/summer-institute/curriculum#day_2)"
     - name: "10:00 - 10:15 Logistics and Intro to [Group Exercise (English version)](https://github.com/compsocialscience/summer-institute/blob/master/2020/montreal/materials/day2-digital-trace-data/Group_Exercise_Day2.md) or [French version](https://github.com/compsocialscience/summer-institute/blob/master/2020/montreal/materials/day2-digital-trace-data/exercice_2.md) in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
-    - name: "10:15 - 11:30 Small group discussions in [Zoom break-out rooms](https://uqam.zoom.us/j/7123857324)"
+    - name: "10:15 - 11:30 Small group discussions for designing a Research Question with Digital Trace Data in [Zoom break-out rooms](https://uqam.zoom.us/j/7123857324)"
     - name: "11:30 - 12:00 Break"
     - name: "12:00 - 1:00 Small group lunches (optional) in [Zoom break-out rooms](https://uqam.zoom.us/j/7123857324)"
     - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 1:30 Introduction to the [group exercise](https://github.com/compsocialscience/summer-institute/blob/master/2020/montreal/materials/day2-digital-trace-data/exercice_2.md) in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
-    - name: "1:30 - 3:00 [Group exercise](https://github.com/compsocialscience/summer-institute/blob/master/2020/montreal/materials/day2-digital-trace-data/exercice_2.md) in [Zoom break-out rooms](https://uqam.zoom.us/j/7123857324)"
-    - name: "3:00 - 3:15 Whole group debrief about [group exercise](https://github.com/compsocialscience/summer-institute/blob/master/2020/montreal/materials/day2-digital-trace-data/exercice_2.md) in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
+    - name: "1:15 - 1:30 Introduction to the [Group Exercise (English version)](https://github.com/compsocialscience/summer-institute/blob/master/2020/montreal/materials/day2-digital-trace-data/Group_Exercise_Day2.md) or [French version](https://github.com/compsocialscience/summer-institute/blob/master/2020/montreal/materials/day2-digital-trace-data/exercice_2.md) in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
+    - name: "1:30 - 3:00 [Group Exercise (English version)](https://github.com/compsocialscience/summer-institute/blob/master/2020/montreal/materials/day2-digital-trace-data/Group_Exercise_Day2.md) or [French version](https://github.com/compsocialscience/summer-institute/blob/master/2020/montreal/materials/day2-digital-trace-data/exercice_2.md) (collecting Digital Trace Data) in [Zoom break-out rooms](https://uqam.zoom.us/j/7123857324)"
+    - name: "3:00 - 3:30 Whole group debrief about [group exercise](https://github.com/compsocialscience/summer-institute/blob/master/2020/montreal/materials/day2-digital-trace-data/exercice_2.md) (Strengths & Benefits plus Hybrid Designs) in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
     - name: "3:30 - 3:45 Debrief and logistics in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
-    - name: "4:00 - 5:30 Guest speaker : [Stephane Helleringer](https://www.jhsph.edu/faculty/directory/profile/3136/st-phane-helleringer) in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
+    - name: "4:00 - 5:30 Guest speaker : [Stephane Helleringer](https://www.jhsph.edu/faculty/directory/profile/3136/st-phane-helleringer) : [Computer vision methods to improve age measurement in low-income countries](https://www.demographic-research.org/volumes/vol40/9/40-9.pdf) ([in Zoom full group](https://uqam.zoom.us/j/7123857324))"
 
 - date: 2020-06-17
   name: Automated Text Analysis
@@ -82,21 +82,19 @@
     - name: "4:00 - 5:30 Guest speaker : [Will Hamilton](https://williamleif.github.io/) in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
 
 - date: 2020-06-19
-  name: Unsupervised Machine Learning and Social Network Analysis
+  name: Machine Learning and Social Network Analysis
   events:
-    - name: "ADVANCE watch [Unsupervised Machine Learning](https://compsocialscience.github.io/summer-institute/curriculum#day_3)"
+    - name: "ADVANCE watch [Machine Learning](https://compsocialscience.github.io/summer-institute/curriculum#day_3)"
     - name: "ADVANCE watch [Social Network Analysis](http://codingsocialscience.org/book/r1/node56.html)"
-    - name: "10:00 - 10:15 Logistics in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
-    - name: "10:15 - 10:30 Introduction to the group exercise in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
-    - name: "10:30 - 11:30 Morning group exercise in [Zoom break-out rooms](https://uqam.zoom.us/j/7123857324)"
-    - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Small group lunches (optional) in [Zoom break-out rooms](https://uqam.zoom.us/j/7123857324)"
-    - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 3:00 Afternoon group excercise in [Zoom break-out rooms](https://uqam.zoom.us/j/7123857324)"
-    - name: "3:00 - 3:15 Whole group debrief about group exercise in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
-    - name: "3:30 - 3:45 Debrief and logistics in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
-    - name: "4:00 - 5:30 Possible guest speaker in [Zoom full group](https://uqam.zoom.us/j/7123857324)" 
-
+    - name: "10:00 - 10:15 Lecture: Introduction to machine learning by [Will Hamilton](https://williamleif.github.io/) in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
+    - name: "10:15 - 11:00 Lecture: Linear regression by [Will Hamilton](https://williamleif.github.io/) in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
+    - name: "11:00 - 11:30 Interactive exercise: Predicting house prices in [Zoom break-out rooms](https://uqam.zoom.us/j/7123857324)"
+    - name: "11:30 - 12:00 Lecture: Features and overfitting in by [Will Hamilton](https://williamleif.github.io/) in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
+    - name: "12:00 - 1:30 Small group lunches (optional) in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
+    - name: "1:30 - 2:30 Lecture: Classification and neural networks by [Will Hamilton](https://williamleif.github.io/) in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
+    - name: "2:30 - 4:00 Interactive exercise: Text classification in [Zoom break-out rooms](https://uqam.zoom.us/j/7123857324)"
+    - name: "4:00 - 4:30 Debrief and logistics in [Zoom full group](https://uqam.zoom.us/j/7123857324)"
+    
 - date: 2020-06-20
   name: Day off
 
