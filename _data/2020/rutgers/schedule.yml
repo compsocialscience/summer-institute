@@ -67,6 +67,8 @@
 - date: 2020-06-22
   name: "<b>Experiments in the Digital Age</b>"
   events:
+    - name: "<b>Tutorial on ggplot with Carrie</b>"
+      time: "9:15 - 10:00"
     - name: "<b>Activity on Digital Experiments</b>"
       time: "10:00 - 11:45"
     - name: "<b>Convenience Samples in Experimental Research</b> (Yanna Krupnikov)"
@@ -77,6 +79,8 @@
 - date: 2020-06-23
   name: "<b>Work on Group Projects</b>"
   events:
+    - name: "<b>Tutorial on MTurk with Analia</b>"
+      time: "9:15 - 10:00"
     - name: "<b>Work on Group Projects</b>"
       time: "09:00 - 11:45"
     - name: "<b>Why's the Power Out? Organizational Responsiveness to Everyday Requests, Questions, and Complaints</b> (Simone Zhang)"
