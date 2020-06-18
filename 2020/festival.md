@@ -6,6 +6,8 @@ layout: page
 
 The SICSS Festival 2020 will take place Monday, June 22 - Friday, June 26, 2020. During the festival, alumni from all SICSS locations would host events such as tutorials, panel discussions, or debates.  These events will all be online.  SICSS Festival events will be open to either current SICSS participants (at any location) or anyone that is interested; the choice of audience will be driven by the topic, learning objectives, and preferences of presenters.  If you are a SICSS alumni and would like to host an event in the festival, please send us an email with a rough sketch of your idea.  We will be adding events to this website as they are finalized.
 
+# Monday
+
 ## Panel discussion on teaching computational social science
 
 __Time:__ Monday, June 22, 2020. 12-1pm EDT
@@ -20,6 +22,8 @@ __Open to:__ Unlimited registered participants: [Registration form](https://form
 
 __Archiving:__ This talk will be recorded and archived.
 
+# Tuesday
+
 ## Panel discussion on diversity in computational social science
 
 __Time:__ Tuesday, June 23, 2020. 3:30-4:30pm EDT
@@ -33,6 +37,8 @@ __Description:__ In order to thrive, the field of computational social science r
 __Open to:__ Unlimited registered participants: [Registration form](https://forms.gle/vxH5i1FgKfKXzP8P7)
 
 __Archiving:__ This talk will be recorded and archived.
+
+# Wednesday
 
 ## Computational social science to address the (post) COVID-19 reality
 
@@ -64,19 +70,21 @@ __Open to:__ Unlimited registered participants: [Registration form](https://form
 
 __Archiving:__ This talk will be recorded and archived.
 
-## Using Empirica for high-throughput virtual lab experiments
+## Using Empirica for high-throughput virtual lab experiments (Session 1)
 
-__Time:__ Two sessions. Wednesday, June 24, 2020. 1-2:30pm EDT and Friday, June 26, 2020. 10-11:30am EDT.
+__Time:__ Wednesday, June 24, 2020. 1-2:30pm EDT
 
 __Speakers:__ [Abdullah Almaatouq](http://www.amaatouq.com/) (SICSS-Princeton 17), [Joshua Becker](https://www.joshua-becker.com/) (SICSS-Princeton 17), [James Houghton](http://www.jamesphoughton.com/) (SICSS-Duke 20), and Nicolas Paton.
 
 __Description:__ [Empirica](https://empirica.ly/) is a new open source software platform for developing and conducting synchronous and interactive human-subject experiments.  It has already been used by researchers around the world. This session will start with a live demonstration where participants will take part in a real-time experiment involving dozens of people.  Next, the data from that experiment will be downloaded and analyzed.  Thus, participants will have a behind-the-scenes, end-to-end experience with an experiment run with Emprica. Finally, there will be time for questions and discussion about Empirica and the future of experiments in the social sciences.
 
-__Open to:__ 60 registered participants. Registration is full.
+__Open to:__ 30 registered participants. Registration is full.
 
 __Preparatory materials:__ All registered participants are strongly encouraged to work through and watch [Empirica videos A - E](https://www.youtube.com/playlist?list=PLPQelvUwyVgiawBDk3Sp74QMfL8RPgORW), which will require them to [install software](https://empirica.ly/docs/quick-start.html) on their computers.
 
 __Archiving:__ This talk will be recorded and archived.
+
+# Thursday
 
 ## Creating open source software as part of an academic career
 
@@ -104,6 +112,22 @@ __Open to:__ Unlimited registered participants: [Registration form](https://form
 
 __Archiving:__ This talk will be recorded and archived.
 
+## What Can the SICSS Community Do to Recognize and Eradicate Anti-Black Racism in Computational Social Science?
+
+__Time:__ Thursday, June 25. 2-3 PM EDT
+
+__Organizers:__ [Tina Law](https://tinalaw1.github.io/) (SICSS-Duke 18) and [Taylor W. Brown](https://www.taylorwhittenbrown.com/) (SICSS-Princeton 17, SICSS-Duke 18, SICSS-Oxford 19) 
+
+__Description:__ Right now, protests are taking place around the world in response to the murders of George Floyd, Breonna Taylor, Ahmaud Arbery, Tony McDade, Rayshard Brooks, and countless other Black lives, and many necessary conversations are being had about anti-Black racism. As members of the SICSS community, what can we do to recognize and eradicate anti-Black racism in our own field? Computational social science is a relatively new field with a lot of potential for positive social change. It is also a field born out of two long-standing disciplines--computer science and social science--that have histories of marginalizing Black scholarship and contributing to anti-Black policies and programs. What are the opportunities and challenges that we face as computational social scientists when it comes to addressing anti-Black racism? And, how can the SICSS community leverage our unique strength as a global network of teachers and scholars to combat anti-Black racism? This discussion and planning session is open to SICSS participants and alumni who are interested in actively tackling these questions together.
+
+__Open to:__ SICSS participants and alumni. Unlimited number of registered participants. [Registration form](https://forms.gle/5tDxuRJRUg7GWBVZA)
+
+__Format:__ Discussion & planning session; note that this is not a panel, active participation is encouraged.
+
+__Archiving:__ This event will NOT be recorded or archived.
+
+# Friday
+
 ## Opportunities and challenges with industry collaborations
 
 __Time:__ Friday, June 26, 2020. 10-11am EDT
@@ -115,5 +139,19 @@ __Moderator:__ [Matthew Salganik](https://www.princeton.edu/~mjs3/) (SICSS-Princ
 __Description:__ Most big data sources are controlled by companies, and many computational social scientists struggle to get access to these data. These panelists, who have experience collaborating with companies on research projects, will share insights about initiating, developing, and maintaining productive collaborations between researchers and companies. They will discuss practical issues, such as negotiating data usage agreements and navigating legal considerations for both parties, as well as describe potential risks and ethical issues created by these collaborations. There will be time for questions from the audience.
 
 __Open to:__ Unlimited registered participants: [Registration form](https://forms.gle/j8qkaSysvzJgAoB38)
+
+__Archiving:__ This talk will be recorded and archived.
+
+## Using Empirica for high-throughput virtual lab experiments (Session 2)
+
+__Time:__ Friday, June 26, 2020. 10-11:30am EDT.
+
+__Speakers:__ [Abdullah Almaatouq](http://www.amaatouq.com/) (SICSS-Princeton 17), [Joshua Becker](https://www.joshua-becker.com/) (SICSS-Princeton 17), [James Houghton](http://www.jamesphoughton.com/) (SICSS-Duke 20), and Nicolas Paton.
+
+__Description:__ [Empirica](https://empirica.ly/) is a new open source software platform for developing and conducting synchronous and interactive human-subject experiments.  It has already been used by researchers around the world. This session will start with a live demonstration where participants will take part in a real-time experiment involving dozens of people.  Next, the data from that experiment will be downloaded and analyzed.  Thus, participants will have a behind-the-scenes, end-to-end experience with an experiment run with Emprica. Finally, there will be time for questions and discussion about Empirica and the future of experiments in the social sciences.
+
+__Open to:__ 30 registered participants. Registration is full.
+
+__Preparatory materials:__ All registered participants are strongly encouraged to work through and watch [Empirica videos A - E](https://www.youtube.com/playlist?list=PLPQelvUwyVgiawBDk3Sp74QMfL8RPgORW), which will require them to [install software](https://empirica.ly/docs/quick-start.html) on their computers.
 
 __Archiving:__ This talk will be recorded and archived.
