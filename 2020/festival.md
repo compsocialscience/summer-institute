@@ -14,7 +14,7 @@ __Time:__ Monday, June 22, 2020. 12-1pm EDT
 
 __Speakers:__ [Matti Nelimarkka](https://matti.mante.li/) (SICSS-Princeton 17), [Rochelle Terman](http://rochelleterman.com/) (SICSS-Princeton 17), and [Jae Yeon Kim](https://jaeyk.github.io/) (SICSS-Princeton 19)
 
-__Moderator:__ [Matthew Salganik](https://www.princeton.edu/~mjs3/) (SICSS-Princeton 17, SICSS-Duke 18, SICSS-Princeton 19, SICSS-Duke 20)
+__Moderator:__ [Matthew Salganik](https://www.princeton.edu/~mjs3/) (SICSS-Princeton 17, 19, SICSS-Duke 18, 20)
 
 __Description:__ Teaching computational social science at both the undergraduate and graduate level presents a number of challenging pedagogical questions. How should we teach a class with students from different disciplinary backgrounds?  What is the role of programming in computational social science education? How should computational social science courses fit into a larger curriculum?  The panelists will address these questions---and others---first in a moderated conversation and then will take questions from the audience.   
 
@@ -28,7 +28,7 @@ __Archiving:__ This talk will be recorded and archived.
 
 __Time:__ Tuesday, June 23, 2020. 1-2 EDT.
 
-__Speakers:__ [Bernard Koch](https://soc.ucla.edu/grads/bernard-koch) (SICSS-Los Angeles 19, 20)
+__Speaker:__ [Bernard Koch](https://soc.ucla.edu/grads/bernard-koch) (SICSS-Los Angeles 19, 20)
 
 __Description:__ How do we measure cultural change? Through the birth and death of “cultural lineages” (e.g., hashtags, consumer goods, or musical artists), digital trace data allows us to observe cultural change at population scale over time. This tutorial introduces a statistical framework to identify and explain culturally important historical events through changes in the diversity of cultural lineages over time. Users will learn how to run an unsupervised machine learning model called ___LiteRate___ to identify statistically significant shifts in cultural diversity, as well as more restricted models to test theoretical hypotheses about the causes of these events. The tutorial will be accessible to a broad audience.
 
@@ -40,7 +40,7 @@ __Archiving:__ This talk will be recorded and archived.
 
 __Time:__ Tuesday, June 23, 2020. 3:30-4:30pm EDT
 
-__Speakers:__ [Naniette H. Coleman](https://www.naniettecoleman.com/) (SICSS-Princeton 19)
+__Speaker:__ [Naniette H. Coleman](https://www.naniettecoleman.com/) (SICSS-Princeton 19)
 
 __Moderator:__ [Matthew Salganik](https://www.princeton.edu/~mjs3/) (SICSS-Princeton 17, 19, SICSS-Duke 18, 20)
 
