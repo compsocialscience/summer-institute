@@ -75,8 +75,8 @@
     - name: "Four Strategies for Making Experiments Happen. [Video](https://youtube.com//watch?v=KDLFigGDORY). [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day6-experiments/03-making-it-happen.pdf)."
     - name: "Zero Variable Cost Data and Musiclab. [Video](https://youtube.com//watch?v=rAGMpZuU3RU). [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day6-experiments/04-zero-variable-cost.pdf)."
     - name: "3Rs. [Video](https://youtube.com//watch?v=aQPce-WgJBY). [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day6-experiments/05-three-rs.pdf)."
-    - name: "Social Network Analysis. [Video](https://youtu.be/k6qoLbAbG78). [Intoduction to the Exercise](https://youtu.be/B3g_-irQ47k)."
-    - name: "Introduction to Git for Data Analysis with R. [Video](). [Rmd]()."
+    - name: "Social Network Analysis. [Video](https://youtu.be/k6qoLbAbG78). [Intoduction to the Exercise](https://youtu.be/B3g_-irQ47k). [Exercise](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/stellenbosch/SNA-Exercise.Rmd)."
+    - name: "Introduction to Git for Data Analysis with R. [Video](https://youtu.be/3id84i6JThQ). [Rmd](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/stellenbosch/Intro-to-Git.Rmd)."
 
 - date: 2020-06-19
   events:
