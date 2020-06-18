@@ -351,6 +351,7 @@ model_predictions <- as.data.frame(matrix(nrow = nrow(population_counts),
                                           ncol = length(relevant_questions), NA))
 colnames(model_predictions) <- relevant_questions
 # loop through
+# TODO: when renaming the outcome column, different versions of R seem to have inconsistency
 for (i in relevant_questions) {
   # get outcome
   outcome <- data_factor[ , i] %>% as.vector()
