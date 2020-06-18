@@ -12,3 +12,6 @@ See also [coding examples](https://drive.google.com/drive/folders/1qLE91Upx8whd9
 ## Day 3- Text as Data
 Summary [Slides](https://docs.google.com/presentation/d/1rLe9LYK8wq-DsME3BtU2qDutEVWXeEIn9Bd_yjetwlU/edit?usp=sharing); 
 Participant [Lesson Plan](https://docs.google.com/document/d/1SMCulQDz36mXIKA8dz3sStuGpXrgPsZ2IEE8i4TApUo/edit?usp=sharing)
+
+## Day 4- Machine Learning and Surveys
+Intro [Slides](https://docs.google.com/presentation/d/1VHZbCX3h3SHTYUEJlDYOde2NE5Ic0MTe2E-9-m0LYxM/edit?usp=sharing); Surveys [Overview](https://docs.google.com/presentation/d/1wPISO1r3Y81VfkoWXomH1v5FIMjkTQ4Y6VIByvs6sNQ/edit?usp=sharing); Machine Learning Tutorial; Survey Activity
