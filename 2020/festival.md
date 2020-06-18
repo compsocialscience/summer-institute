@@ -24,6 +24,18 @@ __Archiving:__ This talk will be recorded and archived.
 
 # Tuesday
 
+## Measuring cultural change in digital trace data using diversification rates
+
+__Time:__ Tuesday, June 23, 2020. 1-2 EDT.
+
+__Speakers:__ [Bernard Koch](https://soc.ucla.edu/grads/bernard-koch) (SICSS-Los Angeles 19, 20)
+
+__Description:__ How do we measure cultural change? Through the birth and death of “cultural lineages” (e.g., hashtags, consumer goods, or musical artists), digital trace data allows us to observe cultural change at population scale over time. This tutorial introduces a statistical framework to identify and explain culturally important historical events through changes in the diversity of cultural lineages over time. Users will learn how to run an unsupervised machine learning model called ___LiteRate___ to identify statistically significant shifts in cultural diversity, as well as more restricted models to test theoretical hypotheses about the causes of these events. The tutorial will be accessible to a broad audience.
+
+__Open to:__ Unlimited registered participants: [Registration form](https://forms.gle/kZZPF2jviYbfy8T6A)
+
+__Archiving:__ This talk will be recorded and archived.
+
 ## Panel discussion on diversity in computational social science
 
 __Time:__ Tuesday, June 23, 2020. 3:30-4:30pm EDT
@@ -97,18 +109,6 @@ __Moderator:__ [Matthew Salganik](https://www.princeton.edu/~mjs3/) (SICSS-Princ
 __Description:__ Almost all computational social science depends on open source software, yet very few computational social scientists actually contribute to open source software.  These panelists will share their experiences developing open source software as part of an academic career, and they will offer advice for others who want to contribute to existing open source projects or start new ones.  There will be time for questions from the audience.
 
 __Open to:__ Unlimited registered participants: [Registration form](https://forms.gle/AUF65qz4sZmVve288)
-
-__Archiving:__ This talk will be recorded and archived.
-
-## Measuring cultural change in digital trace data using diversification rates
-
-__Time:__ Thursday, June 25, 2020. 12:30-1:30 EDT.
-
-__Speakers:__ [Bernard Koch](https://soc.ucla.edu/grads/bernard-koch) (SICSS-Los Angeles 19, 20)
-
-__Description:__ How do we measure cultural change? Through the birth and death of “cultural lineages” (e.g., hashtags, consumer goods, or musical artists), digital trace data allows us to observe cultural change at population scale over time. This tutorial introduces a statistical framework to identify and explain culturally important historical events through changes in the diversity of cultural lineages over time. Users will learn how to run an unsupervised machine learning model called ___LiteRate___ to identify statistically significant shifts in cultural diversity, as well as more restricted models to test theoretical hypotheses about the causes of these events. The tutorial will be accessible to a broad audience.
-
-__Open to:__ Unlimited registered participants: [Registration form](https://forms.gle/kZZPF2jviYbfy8T6A)
 
 __Archiving:__ This talk will be recorded and archived.
 
