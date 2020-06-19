@@ -139,8 +139,11 @@
   events:
     - name: "Coffee and Alumni Talk with [Asik, G., Kurnaz, A.](https://compsocialscience.github.io/summer-institute/2019/istanbul/projects)"
       time: "15:30 - 16:30"
-
-
+    - name: "Small Group Discussions(Optional)"
+      time: "15:30 - 16:30"
+    - name: "Tutorial Session: [R Markdown](https://rmarkdown.rstudio.com/) *by Ahmet Kurnaz*"
+      time: "15:30 - 16:30"
+      
 - date: 2020-06-25
   name: Work on Group Projects and Alumni Talks
   events:
