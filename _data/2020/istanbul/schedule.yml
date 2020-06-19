@@ -82,7 +82,7 @@
 - date: 2020-06-18
   name: Automated Text Analysis
   events:
-    - name: "Tutorial Session: [Automated Text Analysis](https://compsocialscience.github.io/summer-institute/curriculum#day_3) *by Ahmet Kurnaz*"
+    - name: "Tutorial Session: [Automated Text Analysis I](https://compsocialscience.github.io/summer-institute/curriculum#day_3) *by Ahmet Kurnaz*"
       time: "16:30 - 18:00"
 
 - date: 2020-06-19
@@ -95,7 +95,9 @@
     - name: "Tutorial Session: [Identifying Networks of Social Bots on Twitter Conversations](https://github.com/virallab/SICSS_Tutorial
 ) *by [Onur Varol](http://www.onurvarol.com/)*"
       time: "16:30 - 18:00"
-
+    - name: "Tutorial Session: [Automated Text Analysis II](http://www.ninarva.com/markdowns/s0.html) *by Ahmet Kurnaz*"
+      time: "21:00 - 22:00"
+      
 - date: 2020-06-20
   name: Computational Simulation and Agent-based Model 
   events:
