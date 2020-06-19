@@ -102,7 +102,7 @@ __Archiving:__ This talk will be recorded and archived.
 
 __Time:__ Thursday, June 25, 2020. 11am-12pm EDT
 
-__Speakers:__ [Ryan Gallagher](https://ryanjgallagher.github.io/) (SICSS-Duke 18), [Anne Helby Petersen](https://biostat.ku.dk/staff_/?pure=en/persons/395810) (SICSS-Duke 18), and [Carsten Schwemmer](https://www.carstenschwemmer.com/) (SICSS-Duke 18)
+__Speakers:__ [Ryan Gallagher](https://ryanjgallagher.github.io/) (SICSS-Duke 18, SICSS-Boston 19), [Anne Helby Petersen](https://biostat.ku.dk/staff_/?pure=en/persons/395810) (SICSS-Duke 18), and [Carsten Schwemmer](https://www.carstenschwemmer.com/) (SICSS-Duke 18, SICSS-Bamberg 19)
 
 __Moderator:__ [Matthew Salganik](https://www.princeton.edu/~mjs3/) (SICSS-Princeton 17, 19, SICSS-Duke 18, 20)
 
@@ -131,7 +131,7 @@ __Archiving:__ Recording and archiving of this talk is TBD.
 
 __Time:__ Thursday, June 25. 2-3 PM EDT
 
-__Organizers:__ [Tina Law](https://tinalaw1.github.io/) (SICSS-Duke 18) and [Taylor W. Brown](https://www.taylorwhittenbrown.com/) (SICSS-Princeton 17, SICSS-Duke 18, SICSS-Oxford 19) 
+__Organizers:__ [Tina Law](https://tinalaw1.github.io/) (SICSS-Duke 18, SICSS-Chicago 19) and [Taylor W. Brown](https://www.taylorwhittenbrown.com/) (SICSS-Princeton 17, SICSS-Duke 18, SICSS-Oxford 19) 
 
 __Description:__ Right now, protests are taking place around the world in response to the murders of George Floyd, Breonna Taylor, Ahmaud Arbery, Tony McDade, Rayshard Brooks, and countless other Black lives, and many necessary conversations are being had about anti-Black racism. As members of the SICSS community, what can we do to recognize and eradicate anti-Black racism in our own field? Computational social science is a relatively new field with a lot of potential for positive social change. It is also a field born out of two long-standing disciplines--computer science and social science--that have histories of marginalizing Black scholarship and contributing to anti-Black policies and programs. What are the opportunities and challenges that we face as computational social scientists when it comes to addressing anti-Black racism? And, how can the SICSS community leverage our unique strength as a global network of teachers and scholars to combat anti-Black racism? This discussion and planning session is open to SICSS participants and alumni who are interested in actively tackling these questions together.
 
@@ -147,7 +147,7 @@ __Archiving:__ This event will NOT be recorded or archived.
 
 __Time:__ Friday, June 26, 2020. 10-11am EDT
 
-__Speakers:__ [Dave Holtz](https://www.daveholtz.net/) (SICSS-Duke 18) and [Sanaz Mobasseri](https://www.sanazmobasseri.com/) (SICSS-Duke 18)
+__Speakers:__ [Dave Holtz](https://www.daveholtz.net/) (SICSS-Duke 18) and [Sanaz Mobasseri](https://www.sanazmobasseri.com/) (SICSS-Duke 18, SICSS-Boston 19)
 
 __Moderator:__ [Matthew Salganik](https://www.princeton.edu/~mjs3/) (SICSS-Princeton 17, 19, SICSS-Duke 18, 20)
 
