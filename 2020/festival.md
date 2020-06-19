@@ -42,13 +42,13 @@ __Time:__ Tuesday, June 23, 2020. 3:30-4:30pm EDT
 
 __Speaker:__ [Naniette H. Coleman](https://www.naniettecoleman.com/) (SICSS-Princeton 19)
 
-__Moderator:__ [Matthew Salganik](https://www.princeton.edu/~mjs3/) (SICSS-Princeton 17, 19, SICSS-Duke 18, 20)
+__Host:__ [Matthew Salganik](https://www.princeton.edu/~mjs3/) (SICSS-Princeton 17, 19, SICSS-Duke 18, 20)
 
-__Description:__ In order to thrive, the field of computational social science requires contributions from people from different intellectual backgrounds and different life experiences. The panelists will discuss their own efforts to increase diversity in computational social science, describe why they think this work is important, explain what other efforts are underway now, and what they think should be done in the future.  There will also be time for the audience to submit written questions to be asked by the moderator.
+__Description:__ In order to thrive, the field of computational social science requires contributions from diverse scholars. This discussion will address this broad challenge in a specific setting: the creation of SICSS-Howard/Mathematica, the first SICSS located at a Historically Black College or University (HBCU). Although this site has been postponed until 2021 due to COVID, it still serves as a useful case study for discussion. The discussion will focus on efforts to increase diversity in computational social science, why this work is important, and what should be done in the future. There will also be time for the audience to submit written questions to be asked by the host.
 
 __Open to:__ Unlimited registered participants: [Registration form](https://forms.gle/vxH5i1FgKfKXzP8P7)
 
-__Archiving:__ This talk will be recorded and archived.
+__Archiving:__ This talk will be recorded. We will determine after the event whether it will be archived.
 
 # Wednesday
 
