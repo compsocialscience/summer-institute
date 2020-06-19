@@ -12,7 +12,7 @@ The SICSS Festival 2020 will take place Monday, June 22 - Friday, June 26, 2020.
 
 __Time:__ Monday, June 22, 2020. 12-1pm EDT
 
-__Speakers:__ [Matti Nelimarkka](https://matti.mante.li/) (SICSS-Princeton 17), [Rochelle Terman](http://rochelleterman.com/) (SICSS-Princeton 17), and [Jae Yeon Kim](https://jaeyk.github.io/) (SICSS-Princeton 19)
+__Speakers:__ [Matti Nelimarkka](https://matti.mante.li/) (SICSS-Princeton 17, SICSS-Helsinki 18, SICSS-Kadir Has 19, SICSS-Istanbul 20), [Rochelle Terman](http://rochelleterman.com/) (SICSS-Princeton 17, SICSS-Chicago 19), and [Jae Yeon Kim](https://jaeyk.github.io/) (SICSS-Princeton 19, SICSS-Bay Area 20)
 
 __Moderator:__ [Matthew Salganik](https://www.princeton.edu/~mjs3/) (SICSS-Princeton 17, 19, SICSS-Duke 18, 20)
 
@@ -86,7 +86,7 @@ __Archiving:__ This talk will be recorded and archived.
 
 __Time:__ Wednesday, June 24, 2020. 1-2:30pm EDT
 
-__Speakers:__ [Abdullah Almaatouq](http://www.amaatouq.com/) (SICSS-Princeton 17), [Joshua Becker](https://www.joshua-becker.com/) (SICSS-Princeton 17), [James Houghton](http://www.jamesphoughton.com/) (SICSS-Duke 20), and Nicolas Paton.
+__Speakers:__ [Abdullah Almaatouq](http://www.amaatouq.com/) (SICSS-Princeton 17), [Joshua Becker](https://www.joshua-becker.com/) (SICSS-Princeton 17, SICSS-Chicago 18), [James Houghton](http://www.jamesphoughton.com/) (SICSS-Duke 20), and Nicolas Paton.
 
 __Description:__ [Empirica](https://empirica.ly/) is a new open source software platform for developing and conducting synchronous and interactive human-subject experiments.  It has already been used by researchers around the world. This session will start with a live demonstration where participants will take part in a real-time experiment involving dozens of people.  Next, the data from that experiment will be downloaded and analyzed.  Thus, participants will have a behind-the-scenes, end-to-end experience with an experiment run with Emprica. Finally, there will be time for questions and discussion about Empirica and the future of experiments in the social sciences.
 
