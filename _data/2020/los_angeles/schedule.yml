@@ -67,10 +67,45 @@
     - name: "2:00 - 4:00 Work On Projects"
 
 - date: 2020-06-22
-  name: Research Projects Festival
+  name: Research Projects and Festival
   events:
     - name: "[Festival Activities](https://compsocialscience.github.io/summer-institute/2020/festival)"
     - name: "10:00 - 12:00 Group Work Time (*Zoom*)"
     - name: "12:00 - 1:30 Break"
     - name: "1:30-3:30 Participant Flash Talks [Required Attendance/Optional Participation] (*Zoom*)"
-   
+
+- date: 2020-06-23
+  name: Research Projects and Festival
+  events:
+    - name: "[Festival Activities](https://compsocialscience.github.io/summer-institute/2020/festival)"
+    - name: "10:00 - 12:00 Group Work Time (*Zoom*)"
+    - name: "12:00 - 1:30 Break"
+    - name: "1:30-3:30 Group Work Time (*Zoom*)"
+    - name: "1:30-3:30 Office Hours [Required Once] (*Zoom*)"
+
+- date: 2020-06-24
+  name: Research Projects and Festival
+  events:
+    - name: "[Festival Activities](https://compsocialscience.github.io/summer-institute/2020/festival)"
+    - name: "10:00 - 12:00 Group Work Time (*Zoom*)"
+    - name: "12:00 - 1:30 Break"
+    - name: "1:30-3:30 Group Work Time (*Zoom*)"
+    - name: "1:30-3:30 Office Hours [Required Once] (*Zoom*)"
+
+- date: 2020-06-25
+  name: Research Projects and Festival
+  events:
+    - name: "[Festival Activities](https://compsocialscience.github.io/summer-institute/2020/festival)"
+    - name: "10:00 - 12:00 Group Work Time (*Zoom*)"
+    - name: "12:00 - 1:30 Break"
+    - name: "1:30-3:30 Group Work Time (*Zoom*)"
+    - name: "1:30-3:30 Office Hours [Required Once] (*Zoom*)"
+
+- date: 2020-06-26
+  name: Research Projects and Festival
+  events:
+    - name: "[Festival Activities](https://compsocialscience.github.io/summer-institute/2020/festival)"
+    - name: "10:00 - 12:00 Group Work Time (*Zoom*)"
+    - name: "12:00 - 1:30 Break"
+    - name: "1:30-3:30 Group Work Time (*Zoom*)"
+    - name: "1:30-3:30 Office Hours [Required Once] (*Zoom*)"
