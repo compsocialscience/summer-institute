@@ -81,7 +81,7 @@
     - name: "10:00 - 12:00 Group Work Time (*Zoom*)"
     - name: "12:00 - 1:30 Break"
     - name: "1:30-3:30 Group Work Time (*Zoom*)"
-    - name: "1:30-3:30 Office Hours [Required Once] (*Zoom*)"
+    - name: "1:30-3:30 Office Hours [Required Twice] (*Zoom*)"
 
 - date: 2020-06-24
   name: Research Projects and Festival
@@ -90,7 +90,7 @@
     - name: "10:00 - 12:00 Group Work Time (*Zoom*)"
     - name: "12:00 - 1:30 Break"
     - name: "1:30-3:30 Group Work Time (*Zoom*)"
-    - name: "1:30-3:30 Office Hours [Required Once] (*Zoom*)"
+    - name: "1:30-3:30 Office Hours [Required Twice] (*Zoom*)"
 
 - date: 2020-06-25
   name: Research Projects and Festival
@@ -99,7 +99,7 @@
     - name: "10:00 - 12:00 Group Work Time (*Zoom*)"
     - name: "12:00 - 1:30 Break"
     - name: "1:30-3:30 Group Work Time (*Zoom*)"
-    - name: "1:30-3:30 Office Hours [Required Once] (*Zoom*)"
+    - name: "1:30-3:30 Office Hours [Required Twice] (*Zoom*)"
 
 - date: 2020-06-26
   name: Research Projects and Festival
@@ -108,4 +108,4 @@
     - name: "10:00 - 12:00 Group Work Time (*Zoom*)"
     - name: "12:00 - 1:30 Break"
     - name: "1:30-3:30 Group Work Time (*Zoom*)"
-    - name: "1:30-3:30 Office Hours [Required Once] (*Zoom*)"
+    - name: "1:30-3:30 Office Hours [Required Twice] (*Zoom*)"
