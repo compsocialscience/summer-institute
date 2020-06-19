@@ -112,6 +112,21 @@ __Open to:__ Unlimited registered participants: [Registration form](https://form
 
 __Archiving:__ This talk will be recorded and archived.
 
+## Panel discussion on the non-academic job market in computational social science
+
+__Time:__ Thursday, June 25, 2020. 12:30-2pm EDT
+
+__Speakers:__ [Sudhir Venkatesh](https://sociology.columbia.edu/content/sudhir-venkatesh) (Director of Computational Social Science, Twitter & William B. Ransford Professor of Sociology & African American Studies, Columbia University), [Pablo Barberá](http://pablobarbera.com/) (Research Scientist, Facebook & Associate Professor, Department of Political Science & International Relations, University of Southern California), and [Antje Kirchner](https://www.rti.org/expert/antje-kirchner) (SICSS-Princeton 17, SICSS-RTI 19, Research Survey Methodologist, RTI International)
+
+__Moderator:__ [Chris Bail](https://www.chrisbail.net/) (SICSS-Princeton 17, 19, SICSS-Duke 18, 20)
+
+__Description:__ Computational social science leads to a wide range of interdisciplinary job opportunities outside academia. These panelists will share their experiences in industry settings and will offer thoughts about how an academic research program in the field could lead to a variety of fulfilling careers.
+
+__Open to:__ Unlimited registered participants: [Registration form](https://forms.gle/MoHBCmgQoUSZQhTFA)
+
+__Archiving:__ Recording and archiving of this talk is TBD.
+
+
 ## What Can the SICSS Community Do to Recognize and Eradicate Anti-Black Racism in Computational Social Science?
 
 __Time:__ Thursday, June 25. 2-3 PM EDT
