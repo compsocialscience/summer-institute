@@ -17,10 +17,10 @@ Participant [Lesson Plan](https://docs.google.com/document/d/1SMCulQDz36mXIKA8dz
 Intro [Slides](https://docs.google.com/presentation/d/1VHZbCX3h3SHTYUEJlDYOde2NE5Ic0MTe2E-9-m0LYxM/edit?usp=sharing); Surveys [Overview](https://docs.google.com/presentation/d/1wPISO1r3Y81VfkoWXomH1v5FIMjkTQ4Y6VIByvs6sNQ/edit?usp=sharing); Machine Learning [Tutorial](https://drive.google.com/drive/folders/1T7mtuLAg4u345IKaVzQ98makW6t4XPlg?usp=sharing); Survey [Activity](https://docs.google.com/document/d/1Za8MmLW__T_FostV0NSUzQ6PEFR0d1PvigRKJxxcOiQ/edit?usp=sharing)
 
 ## Day 5- Network Analyses
-[Activity](https://drive.google.com/drive/folders/1ogHw2txX_1BC1ECNW1Z2ikeM4QodoGGJ)
+[Link to Speaker R code](http://bit.ly/sicss-net-r); [Link to all Speaker materials](http://bit.ly/sicss-net); [Activity](https://drive.google.com/drive/folders/1ogHw2txX_1BC1ECNW1Z2ikeM4QodoGGJ); [Slides](https://docs.google.com/presentation/d/1Niwu5scNOP2nWNu6Y2tFWGWes9PwF9nrAmHjduRCGUo/edit?usp=sharing)
 
 ## Day 6- Experiments
-[Link to Speaker R code](http://bit.ly/sicss-net-r); [Link to all Speaker materials](http://bit.ly/sicss-net); [Activity](https://drive.google.com/drive/folders/1ogHw2txX_1BC1ECNW1Z2ikeM4QodoGGJ); [Activity](https://docs.google.com/document/d/1qAS5h2lhvElQW5HPUbGtX4Tl8jX6QskqiUd_VSNm2yE/edit?usp=sharing)
+[Activity](https://docs.google.com/document/d/1qAS5h2lhvElQW5HPUbGtX4Tl8jX6QskqiUd_VSNm2yE/edit?usp=sharing)
 
 ## Day 7-9: Group Projects
 
