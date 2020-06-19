@@ -48,25 +48,27 @@
   events:
     - name: "10:00 - 10:15 Logistics (*Zoom*)"
     - name: "10:15 - 10:30 Introduction to the group exercise [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day4-surveys/activity/lesson_plan_survey_participant.md) [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day4-surveys/activity/lesson_plan_survey_instructor.md) (*Zoom*)"
-    - name: "10:30 - 11:30 Morning group excercise (*Zoom*)"
+    - name: "10:30 - 11:30 Morning group exercise (*Zoom*)"
     - name: "11:30 - 12:00 Break"
     - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
     - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 3:00 Afternoon group excercise (*Zoom*)"
-    - name: "3:00 - 3:15 Whole group debrief about group excercise (*Zoom*)"
+    - name: "1:15 - 3:00 Afternoon group exercise (*Zoom*)"
+    - name: "3:00 - 3:15 Break"
+    - name: "3:15 - 3:30 Whole group debrief about group exercise (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
 
 - date: 2020-06-19
-  name: Mass collaboratation and machine learning
+  name: Mass collaboration and machine learning
   events:
     - name: "10:00 - 10:15 Logistics (*Zoom*)"
-    - name: "10:15 - 10:30 Introduction to the group exercise [Video (link coming soon)] [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/06-ffchallenge_participate_activity.pdf) (*Zoom*)"
+    - name: "10:15 - 10:30 Introduction to the group exercise [Video](https://www.youtube.com/watch?v=ZI95vV7Co38) [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/06-ffchallenge_participate_activity.pdf) (*Zoom*)"
     - name: "10:30 - 11:30 Participate in the Fraglie Families Challenge [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md), [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_instructor.md) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
     - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
     - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 3:15 Continue participating in the Fragile Families Challenge (*Zoom*)"
-    - name: "3:15 - 3:30 Whole group debrief about group excercise (*Zoom*)"
+    - name: "1:15 - 3:00 Continue participating in the Fragile Families Challenge (*Zoom*)"
+    - name: "3:00 - 3:15 Break"
+    - name: "3:15 - 3:30 Whole group debrief about group exercise (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
 
 - date: 2020-06-20
@@ -79,7 +81,7 @@
   name: Work on group projects (optional) and/or participate in SICSS Festival
   events:
     - name: "10:00 - 10:30 Research Speed Dating Logistics (*Zoom*), [Slides for Instructors](https://compsocialscience.github.io/summer-institute/2020/materials/research-speed-dating/Speed_Dating.html#/)"
-    - name: "10:15 - 11:30 Research Speed Dating Maximally Similar Groups (*Zoom*)"    
+    - name: "10:15 - 11:30 Research Speed Dating Maximally Similar Groups (*Zoom*)"
     - name: "12:00 - 1:00 Panel discussion on teaching computational social science. Details on the [Festival page](https://compsocialscience.github.io/summer-institute/2020/festival)"
     - name: "1:15 - 3:30 Research Speed Dating Maximally Dissimilar Groups (*Zoom*)"
 

@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
 
 <meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
@@ -268,6 +269,7 @@ code {
 }
 img {
   max-width:100%;
+  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -329,7 +331,6 @@ summary {
   border: none;
   display: inline-block;
   border-radius: 4px;
-  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -366,22 +367,22 @@ summary {
 </div>
 
 
-<p>Our curriculum for text analysis covered a broad range of techniques for analyzing unstructured text. Yesterday, the group exercise was designed to help you get to know each other better and explore possible topics for a group research project that you might launch during the second week by designing a study that would employ digital trace data. Today, we are going to have a more structured group exercise designed to compare the strengths and weaknesses of different text analysis techniques when they are applied to the same dataset.</p>
+<p>Our curriculum for text analysis covered a broad range of techniques for analyzing unstructured text. Yesterday, the group exercise was designed to help you get to know each other better and explore possible topics for a group research project that you might launch during the second week by designing a study that would employ digital trace data. Today, we are going to have a more structured group exercise designed to compare the strengths and weaknesses of different text analysis techniques when they are applied to a single dataset.</p>
 <ol style="list-style-type: decimal">
 <li><p>Everyone will be randomized into groups of 5 people.</p></li>
 <li><p>Load the dataframe of tweets by President Trump that we analyzed during the discussion of Dictionary-Based text methods:</p></li>
 </ol>
 <pre class="r"><code>load(url(&quot;https://cbail.github.io/Trump_Tweets.Rdata&quot;))</code></pre>
-<p>Note that this data frame also includes counts of the number of times each of his tweets were retweeted or “liked.”</p>
+<p>Note that this data frame also includes counts of the number of times each of his tweets were retweeted or “liked.” NOTE: IF YOU PREFER TO USE A DATASET YOUR GROUP COLLECTED DURING YESTERDAY’S EXERCISE, IT IS OK TO USE THIS AS WELL.</p>
 <ol start="3" style="list-style-type: decimal">
-<li><p>Use at least two of the techniques we discussed this morning to pull out features from the text of Trump’s tweets (e.g. substantive themes, topics, sentiment).</p></li>
-<li><p>Work together to identify whether any features of Trump’s Twitter language predict the number of retweets or likes his messages receive.</p></li>
+<li><p>Use at least two of the techniques discussed in the videos to pull out features from the text of Trump’s tweets (e.g. substantive themes, topics, sentiment), or the text-based dataset you collected yesterday.</p></li>
+<li><p>Work together to identify whether any features of Trump’s Twitter language predict the number of retweets or likes his messages receive. If you are working with other Twitter data, feel free to predict likes by other users as well.</p></li>
 <li><p>Load the dataframe of daily approval ratings for President Trump from the five-thirty-eight website’s github:</p></li>
 </ol>
 <pre class="r"><code>trump_approval&lt;-read.csv(&quot;https://projects.fivethirtyeight.com/trump-approval-data/approval_topline.csv&quot;)</code></pre>
 <ol start="6" style="list-style-type: decimal">
 <li><p>Work together to determine whether there are any features of Trump’s Twitter language that have an association with his overall approval ratings.</p></li>
-<li><p>Produce a visualization that describes the findings of your analysis. .</p></li>
+<li><p>Produce a visualization that describes the findings of your analysis and share it in our slack channel with a brief description of what you did.</p></li>
 </ol>
 
 

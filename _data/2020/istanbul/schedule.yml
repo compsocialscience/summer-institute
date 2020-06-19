@@ -64,7 +64,7 @@
       time: "15:00 - 16:00"
     - name: "Coffee Break"
       time: "16:00 - 16:30"
-    - name: "Tutorial Session: [Data Journalism in Antropogene](https://docs.google.com/document/d/1JwMTz2JxHNFW0T4o6SmQyyARhyPmsPLRcSmTDxuNu_8/edit?usp=sharing) *by [Pinar Dag](https://twitter.com/pinardag)*"
+    - name: "Group Project Meetings"
       time: "16:30 - 18:00"
     - name: "[SICSS-Duke Guest Speaker](https://compsocialscience.github.io/summer-institute/2020/duke/schedule): [Dan Ariely](http://danariely.com/) - Title TBA (optional)"
       time: "23:00 - 24:00"
@@ -82,8 +82,8 @@
 - date: 2020-06-18
   name: Automated Text Analysis
   events:
-    - name: "Tutorial Session: [Automated Text Analysis](https://compsocialscience.github.io/summer-institute/curriculum#day_3) *by Ahmet Kurnaz*"
-      time: "17:00 - 18:30"
+    - name: "Tutorial Session: [Automated Text Analysis I](https://compsocialscience.github.io/summer-institute/curriculum#day_3) *by Ahmet Kurnaz*"
+      time: "16:30 - 18:00"
 
 - date: 2020-06-19
   name: Social Network Analysis
@@ -95,7 +95,9 @@
     - name: "Tutorial Session: [Identifying Networks of Social Bots on Twitter Conversations](https://github.com/virallab/SICSS_Tutorial
 ) *by [Onur Varol](http://www.onurvarol.com/)*"
       time: "16:30 - 18:00"
-
+    - name: "Tutorial Session: [Automated Text Analysis II](http://www.ninarva.com/markdowns/s0.html) *by Ahmet Kurnaz*"
+      time: "21:00 - 22:00"
+      
 - date: 2020-06-20
   name: Computational Simulation and Agent-based Model 
   events:
@@ -137,8 +139,11 @@
   events:
     - name: "Coffee and Alumni Talk with [Asik, G., Kurnaz, A.](https://compsocialscience.github.io/summer-institute/2019/istanbul/projects)"
       time: "15:30 - 16:30"
-
-
+    - name: "Small Group Discussions(Optional)"
+      time: "15:30 - 16:30"
+    - name: "Tutorial Session: [R Markdown](https://rmarkdown.rstudio.com/) *by Ahmet Kurnaz*"
+      time: "15:30 - 16:30"
+      
 - date: 2020-06-25
   name: Work on Group Projects and Alumni Talks
   events:

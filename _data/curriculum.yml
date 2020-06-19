@@ -132,9 +132,9 @@
         - link: "https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/dictionary-methods/rmarkdown/Dictionary-Based_Text_Analysis.html"
           text: "Annotated Code"
     - name: "Topic Models"
-      video: "https://www.youtube.com/embed/T2ZRBi1oUME"
+      video: "https://www.youtube.com/embed/IUAHUEy1V0Q"
       sublinks:
-        - link: "https://www.youtube.com/watch?v=T2ZRBi1oUME"
+        - link: "https://www.youtube.com/watch?v=IUAHUEy1V0Q"
           text: "Video"
         - link: "https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/topic-modeling/Rpres/Topic_Modeling.html"
           text: "Slides"
