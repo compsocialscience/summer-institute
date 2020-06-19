@@ -75,18 +75,22 @@
       time: "12:00 - 13:30"
     - name: "<b>Finalize Groups for Research Projects</b>"
       time: "14:00 - 16:00"
+    - name: "<b>Debrief on group projects</b>"
+      time: "16:30"
 
 - date: 2020-06-23
   name: "<b>Work on Group Projects</b>"
   events:
+    - name: "<b>Work on Group Projects</b>"
+      time: "open morning work time"
     - name: "<b>Tutorial on MTurk with Analia</b>"
       time: "9:15 - 10:00"
-    - name: "<b>Work on Group Projects</b>"
-      time: "09:00 - 11:45"
+    - name: "<b>Full Session: Checking in on Group Projects</b>"
+      time: "11:30"
     - name: "<b>Why's the Power Out? Organizational Responsiveness to Everyday Requests, Questions, and Complaints</b> (Simone Zhang)"
       time: "12:00 - 13:30"
     - name: "<b>Work on Group Projects</b>"
-      time: "13:30 - 15:30"
+      time: "open afternoon work time"
     - name: "<b>(Encouraged) Panel discussion on diversity in computational social science. [Register here](https://docs.google.com/forms/d/e/1FAIpQLSdPaMXABgLvHtukNVVRanBbKyr7S3aNmC_OyBmSot8Gx9TzbA/viewform)
 </b>"
       time: "15:30 - 17:00"
@@ -95,7 +99,11 @@
   name: "<b>Work on Group Projects</b>"
   events:
     - name: "<b>Work on Group Projects</b>"
-      time: "09:00 - 15:30"
+      time: "open morning and afternoon work time"
+    - name: "<b>Tutorial on Loops (30-40 minutes)</b>"
+      time: "9:30"
+    - name: "<b>Full Session: Checking in on Group Projects</b>"
+      time: "14:45"
     - name: "<b>How to Survey Political Elites</b> (Adam Thal)"
       time: "15:30 - 16:45"
 
@@ -103,16 +111,18 @@
   name: "<b>Work on Group Projects</b>"
   events:
     - name: "<b>Work on Group Projects</b>"
-      time: "09:00 - 11:45"
+      time: "open morning work time"
+    - name: "<b>Full Session: Checking in on Group Projects</b>"
+      time: "11:15"
     - name: "<b>Lunch Discussion with Guest Speaker</b> (Arvind Narayanan)"
       time: "12:00 - 13:30"
     - name: "<b>Work on Group Projects</b>"
-      time: "13:30 - 17:00"
+      time: "open afternoon work time"
 
 - date: 2020-06-26
   name: "<b>Present Group Projects</b>"
   events:
     - name: "<b>Presentations</b>"
-      time: "10:00 - 12:30"
-    - name: "<b>Closing Lunch</b>"
-      time: "13:00 - 15:00"
+      time: "10:00"
+    - name: "<b>Closing Session</b>"
+      time: "TBD"
