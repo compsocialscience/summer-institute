@@ -46,6 +46,7 @@ AT THE END OF THE ACTIVITY, DELETE THE DATA FILES. It is important that the data
 There are three sets of resources that may be helpful.
 
 Resources about preparing data and making a submission:
+- [Submission site](https://codalab.fragilefamilieschallenge.org/competitions/28)
 - Here are some tips about [data preparation](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/activity/SICSS_FFC_datacleaning_tips.pdf).
 - To learn about the variables included in the data files, you might use: the [metadata explorer](http://metadata.fragilefamilies.princeton.edu/), use the accompanying [R](https://cran.r-project.org/web/packages/ffmetadata/index.html) and [Python](https://github.com/fragilefamilieschallenge/ffmetadata-py) packages, and/or refer to survey [questionnaires and other documentation](https://fragilefamilies.princeton.edu/data-and-documentation/public-data-documentation).
 - This [blog post](https://www.fragilefamilieschallenge.org/upload-your-contribution/) shows step-by-step how to zip and upload a submission.
