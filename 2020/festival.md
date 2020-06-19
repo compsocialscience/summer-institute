@@ -36,7 +36,7 @@ __Open to:__ Unlimited registered participants: [Registration form](https://form
 
 __Archiving:__ This talk will be recorded and archived.
 
-## Panel discussion on diversity in computational social science
+## Discussion on diversity in computational social science
 
 __Time:__ Tuesday, June 23, 2020. 3:30-4:30pm EDT
 
