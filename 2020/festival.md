@@ -12,7 +12,7 @@ The SICSS Festival 2020 will take place Monday, June 22 - Friday, June 26, 2020.
 
 __Time:__ Monday, June 22, 2020. 12-1pm EDT
 
-__Speakers:__ [Matti Nelimarkka](https://matti.mante.li/) (SICSS-Princeton 17, SICSS-Helsinki 18, SICSS-Kadir Has 19, SICSS-Istanbul 20), [Rochelle Terman](http://rochelleterman.com/) (SICSS-Princeton 17, SICSS-Chicago 19), and [Jae Yeon Kim](https://jaeyk.github.io/) (SICSS-Princeton 19, SICSS-Bay Area 20)
+__Speakers:__ [Matti Nelimarkka](https://matti.mante.li/) (SICSS-Princeton 17, SICSS-Helsinki 18, SICSS-Kadir Has 19, SICSS-Istanbul 20), [Rochelle Terman](http://rochelleterman.com/) (SICSS-Princeton 17), and [Jae Yeon Kim](https://jaeyk.github.io/) (SICSS-Princeton 19, SICSS-Bay Area 20)
 
 __Moderator:__ [Matthew Salganik](https://www.princeton.edu/~mjs3/) (SICSS-Princeton 17, 19, SICSS-Duke 18, 20)
 
