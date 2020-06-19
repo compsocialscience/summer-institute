@@ -1,5 +1,5 @@
 # Lesson plan for participants
-## Summer Institute in Computational Social Science 2020
+## Summer Institute in Computational Social Science 2021 (updated based on 2020)
 ## Activity, Day 4: Non-probability-based Surveys in Practice
 ## Matthew Salganik & Robin Lee [1]
 
@@ -38,16 +38,15 @@ Participants will gain experience with the following activities:
 ### Morning session:
 1. Create a questionnaire on Google Forms. When you are done, your questionnaire will look a bit like [this one](https://docs.google.com/forms/d/e/1FAIpQLSeBrHa4c5r_DcewQJWE9vrAeqpfN7mxx9QWZO852ItAOL22tA/viewform) (30 minutes).
   - Start with our template questionnaire that already contains a consent statement, attention check questions, and questions about demographics. You will obtain the link for editing access to this template on our Slack workspace. Make a copy of the template.
-  - Fill in section 2 with survey questions from the Pew Research Center [topline report](https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2018/11/PI_2018.11.16_algorithms_TOPLINE.pdf) from their study on [public attitudes toward computer algorithms](https://www.pewresearch.org/internet/2018/11/16/public-attitudes-toward-computer-algorithms/). You should add to your questionnaire all the questions binary response options. We focused on the binary response options because those make the analysis in the afternoon easier.  There are 6 binary questions: ALG1, SM3, V1Q1, V2Q3, V3Q3, V4Q3.
+  - Fill in section 2 with survey questions from the Pew Research Center [topline report](https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2018/11/PI_2018.11.16_algorithms_TOPLINE.pdf) from their study on [public attitudes toward computer algorithms](https://www.pewresearch.org/internet/2018/11/16/public-attitudes-toward-computer-algorithms/). You should add to your questionnaire all the questions binary response options. We focused on the binary response options because those make the analysis in the afternoon easier.  There are 6 binary questions: ALG1, SM3, V1Q3, V2Q3, V3Q3, V4Q3.
   - Pilot test the questionnaire and confirm that can be completed within 6 minute.
 
 2. Deploy your survey to Amazon Mechanical Turk (30 minutes).
   - You will request a task as "Survey Link".
   - [Here](https://blog.mturk.com/tutorial-getting-great-survey-results-from-mturk-and-google-forms-da4993d878df) is a blog post tutorial on how to a deploy Google Forms questionnaire on MTurk.
-  - We estimate that the survey will take about 6 minutes, and we would like to pay an hourly wage of $15 per hour so you should pay $1.50 per completed survey.
+  - We estimate that the survey will take about 6 minutes, and we would like to pay an hourly wage of $15 per hour so you should pay $1.50 per completed survey. When figuring out how many responses you want to collect, please factor in the [MTurk fee](https://www.mturk.com/pricing).
   - For participants of SICSS-Duke: We have created MTurk accounts for you to use. Please create your tasks from these accounts with the pre-loaded funds. If you use your own account for data collection, we won't be able to reimburse you.
   - If you do not have funds allocated for MTurk, you may ask other participants and your friends and family to fill in the survey to construct a non-probability-based sample.
-  - An alternative to Amazon Mechanical Turk is [Prolific](https://www.prolific.co/)
 
 ### Afternoon session:
 1. After the data has been collected, validate survey and pay MTurk workers (15 minutes).
@@ -59,7 +58,7 @@ Participants will gain experience with the following activities:
   - After you have used the Worker ID data to validate answers and to remove redundant entries, delete it from your dataset. The Worker ID is a unique string that can be used to personally identify people.
 
 2. Analyze the data we previously collected (60 minutes).
-  - Cost constraints mean that each group can only collect a small number of responses.  Therefore, we have collected one large dataset that all the groups can analyze. Download the data that we collected with this [questionnaire] (https://docs.google.com/forms/d/e/1FAIpQLSf_FRPaGbeqgVAOasEgSHjGIIYiaFoT8JHd-AW-5aEI4adWrQ/formResponse) from MTurk workers [here](2020_06_clean_mturk_data.csv).
+  - Cost constraints mean that each group can only collect a small number of responses.  Therefore, we have collected one large dataset that all the groups can analyze. Download the data that we collected with this [questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSf_FRPaGbeqgVAOasEgSHjGIIYiaFoT8JHd-AW-5aEI4adWrQ/formResponse) from MTurk workers [here](2020_06_clean_mturk_data.csv).
   - Compare the raw (unweighted) estimates to the [results found by Pew](pew_benchmark_question_source_sicss_2020.csv) [3]. Next compare the estimates after doing [cell-based post-stratification](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day4-surveys/activity/introduction_to_poststratificiation.md). Use [this template](survey_activity_2020_template.Rmd) as you work through these steps.  The template will help you replicate Figures 1 and 2 from Goel et al. and avoid some common pitfalls.
   - Due to the time constraint, you won't be able to do techniques as complicated in the paper by Goel et al. However, those sections are marked as optional extension in the template code, and we provide the instruction on how to do them in the code [here](survey_activity_2020_solution.Rmd).
 
@@ -71,6 +70,8 @@ Participants will gain experience with the following activities:
   - Berinsky, Margolis, and Sances ["Separating the Shirkers from the Workers? Making Sure Respondents Pay Attention on Self‐Administered Surveys"](https://doi.org/10.1111/ajps.12081)
   - [Target Estimation and Adjustment Weighting for Survey Nonresponse and Sampling Bias](https://www.cambridge.org/core/books/target-estimation-and-adjustment-weighting-for-survey-nonresponse-and-sampling-bias/B28F1B4CC17B42D513EC3E0356926C23)
   - [Pewmethods R package](https://github.com/pewresearch/pewmethods)
+  - An alternative to Amazon Mechanical Turk is [Prolific](https://www.prolific.co/)
+
 
 ## Appendix: Qualtrics-specific instructions
 -   If you are using Qualtrics instead of Google Forms, you do not have to include a question on the survey asking for MTurk Worker ID. Instead, you can verify survey completion by generating a unique validation code for each survey respondent, and have them enter that on MTurk instead.
