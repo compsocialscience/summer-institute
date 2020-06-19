@@ -67,9 +67,42 @@
     - name: "2:00 - 4:00 Work On Projects"
 
 - date: 2020-06-22
-  name: Research Projects
+  name: Research Projects/Festival
   events:
+    - name: "[Festival Activities](https://compsocialscience.github.io/summer-institute/2020/festival)"
     - name: "10:00 - 12:00 Group Work Time (*Zoom*)"
     - name: "12:00 - 1:30 Break"
-    - name: "1:30-3:00 Participant Flash Talks [Required Attendance/Optional Participation] (*Zoom*)"
-    
+    - name: "1:30-3:30 Participant Flash Talks [Required Attendance/Optional Participation] (*Zoom*)"
+   
+
+- date: 2020-06-23
+  name: Research Projects/Festival
+  events:
+    - name: "[Festival Activities](https://compsocialscience.github.io/summer-institute/2020/festival)"
+    - name: "10:00 - 12:00 Group Work Time (*Zoom*)"
+    - name: "12:00 - 1:30 Break"
+    - name: "1:30-3:30 Group Work Time [Office Hours by appointment with Bernie, Alina, Pablo and Mike] [REQUIRED ONCE] (*Zoom*)"
+
+- date: 2020-06-24
+  name: Research Projects/Festival
+  events:
+     - name: "[Festival Activities](https://compsocialscience.github.io/summer-institute/2020/festival)"
+    - name: "10:00 - 12:00 Group Work Time (*Zoom*)"
+    - name: "12:00 - 1:30 Break"
+    - name: "1:30-3:30 Group Work Time [Office Hours by appointment with Bernie, Alina, Pablo and Mike] [REQUIRED ONCE] (*Zoom*)"
+
+- date: 2020-06-25
+  name: Research Projects/Festival
+  events:
+     - name: "[Festival Activities](https://compsocialscience.github.io/summer-institute/2020/festival)"
+    - name: "10:00 - 12:00 Group Work Time (*Zoom*)"
+    - name: "12:00 - 1:30 Break"
+    - name: "1:30-3:30 Group Work Time [Office Hours by appointment with Bernie, Alina, Pablo and Mike] [REQUIRED ONCE] (*Zoom*)"
+
+- date: 2020-06-26
+  name: Research Projects/Festival
+  events:
+    - name: "[Festival Activities](https://compsocialscience.github.io/summer-institute/2020/festival)"
+    - name: "10:00 - 12:00 Group Work Time (*Zoom*)"
+    - name: "12:00 - 1:30 Break"
+    - name: "1:30-3:30 Group Work Time [Office Hours by appointment with Bernie, Alina, Pablo and Mike] [REQUIRED ONCE] (*Zoom*)"
