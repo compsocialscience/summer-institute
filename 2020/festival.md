@@ -124,7 +124,7 @@ __Description:__ Computational social science leads to a wide range of interdisc
 
 __Open to:__ Unlimited registered participants: [Registration form](https://forms.gle/MoHBCmgQoUSZQhTFA)
 
-__Archiving:__ Recording and archiving of this talk is TBD.
+__Archiving:__ This event will NOT be recorded or archived.
 
 
 ## What Can the SICSS Community Do to Recognize and Eradicate Anti-Black Racism in Computational Social Science?
