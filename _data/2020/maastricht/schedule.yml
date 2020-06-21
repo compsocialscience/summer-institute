@@ -75,7 +75,8 @@
   name: "<b>Experiments in the Digital Age</b>"
   events:
     - name: "12.00 - 13.00 Guest speaker [Amalia Alvarez Benjumea](https://compsocialscience.github.io/summer-institute/2020/maastricht/people) (*Zoom*)" 
-    - name: "13.00 - 14.00 Small group lunches (*Zoom*)" 
+    - name: "13.00 - 13.15 Break"
+    - name: "13.15 - 14.00 Small group lunches (*Zoom*)" 
     - name: "14.00 - 14.30 Break"
     - name: "14.30 - 16.00 Workshop: Introduction oTree by [Philipp Chapkovski](https://compsocialscience.github.io/summer-institute/2020/maastricht/people) (*Zoom*)"
     - name: "16.00 - 16.30 Break"
@@ -85,21 +86,19 @@
   name: "<b>Work on group projects</b>"
   events:
     - name: "13.00 - 14.00 Small group lunches (*Zoom*)" 
-    - name: "17.00 - 18.00 Whole group updates on Week 2 research projects (*Zoom*)"
+    - name: "17.00 - 18.00 Office hours (*Zoom*)"
 
 - date: 2020-06-24
   name: "<b>Work on group projects</b>"
   events:
-    - name: "13.00 - 14.00 Small group lunches (*Zoom*)" 
-    - name: "16.00 - 17.30 Possible panel discussion (*Zoom*)"
-    - name: "17.30 - 18.00 Break"
-    - name: "18.00 - 19.00 Whole group updates on Week 2 research projects (*Zoom*)"
+    - name: "16.00 - 17.15 Panel debate on Computational social science to address the (post) COVID-19 reality (*Zoom*). More details [here](https://compsocialscience.github.io/summer-institute/2020/festival)"
+    - name: "18.00 - 19.00 Office hours (*Zoom*)"
 
 - date: 2020-06-25
   name: "<b>Work on group projects</b>"
   events:
     - name: "13.00 - 14.00 Small group lunches (*Zoom*)" 
-    - name: "17.00 - 18.00 Whole group updates on Week 2 research projects (*Zoom*)"
+    - name: "17.00 - 18.00 Office hourse (*Zoom*)"
 
 - date: 2020-06-26
   name: "<b>Present Group Projects</b>"
