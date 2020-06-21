@@ -6,7 +6,9 @@ layout: page
 
 The SICSS Festival 2020 will take place Monday, June 22 - Friday, June 26, 2020. During the festival, alumni from all SICSS locations would host events such as tutorials, panel discussions, or debates.  These events will all be online.  SICSS Festival events will be open to either current SICSS participants (at any location) or anyone that is interested; the choice of audience will be driven by the topic, learning objectives, and preferences of presenters.  If you are a SICSS alumni and would like to host an event in the festival, please send us an email with a rough sketch of your idea.  We will be adding events to this website as they are finalized.
 
-# Monday
+Jump to a day: [Monday.](#monday) [Tuesday.](#tuesday) [Wednesday.](#wednesday) [Thursday.](#thursday) [Friday.](#friday)
+
+# Monday <a name="monday"></a>
 
 ## Panel discussion on teaching computational social science
 
@@ -22,7 +24,7 @@ __Open to:__ Unlimited registered participants: [Registration form](https://form
 
 __Archiving:__ This talk will be recorded and archived.
 
-# Tuesday
+# Tuesday <a name="tuesday"></a>
 
 ## Measuring cultural change in digital trace data using diversification rates
 
@@ -50,7 +52,7 @@ __Open to:__ Unlimited registered participants: [Registration form](https://form
 
 __Archiving:__ This talk will be recorded. We will determine after the event whether it will be archived.
 
-# Wednesday
+# Wednesday <a name="wednesday"></a>
 
 ## Computational social science to address the (post) COVID-19 reality
 
@@ -96,7 +98,7 @@ __Preparatory materials:__ All registered participants are strongly encouraged t
 
 __Archiving:__ This talk will be recorded and archived.
 
-# Thursday
+# Thursday <a name="thursday"></a>
 
 ## Creating open source software as part of an academic career
 
@@ -141,7 +143,7 @@ __Format:__ Discussion & planning session; note that this is not a panel, active
 
 __Archiving:__ This event will NOT be recorded or archived.
 
-# Friday
+# Friday <a name="friday"></a>
 
 ## Opportunities and challenges with industry collaborations
 

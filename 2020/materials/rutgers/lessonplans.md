@@ -25,3 +25,6 @@ Intro [Slides](https://docs.google.com/presentation/d/1VHZbCX3h3SHTYUEJlDYOde2NE
 ## Day 7-9: Group Projects
 
 ## Day 10: Group Presentations
+
+## Tutorials
+Loops in R [Materials](https://drive.google.com/drive/folders/1OJfUKHfaN78NYwr2kysNx9bq7nKQeEyp?usp=sharing)
