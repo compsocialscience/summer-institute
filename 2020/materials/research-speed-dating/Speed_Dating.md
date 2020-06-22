@@ -207,5 +207,5 @@ class: small-code
 
 
 ```
-Error in gzfile(file, "rb") : cannot open the connection
+Error in filter(., name != "SAMPLE NAME.") : object 'name' not found
 ```

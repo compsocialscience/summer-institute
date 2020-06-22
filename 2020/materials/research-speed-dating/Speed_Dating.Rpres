@@ -212,7 +212,7 @@ dat <- clean_names(dat)
 dat <- dat %>% replace(is.na(.), 0)
 dat <- dat %>% filter(name != "SAMPLE NAME.")
 #select variables needed for group creation
-dat <- dat %>% select(-c(email, any_specific_proposed_ideas))
+dat <- dat %>% select(-c(email))
 ```
 
 Identify Maximally similar
