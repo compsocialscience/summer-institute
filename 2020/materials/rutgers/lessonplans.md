@@ -23,6 +23,7 @@ Intro [Slides](https://docs.google.com/presentation/d/1VHZbCX3h3SHTYUEJlDYOde2NE
 [Slides](https://docs.google.com/presentation/d/1npbXtVK3gXGIOL4FYajGGda6yDNVuPSvQKoj4CgR914/edit?usp=sharing) [Activity](https://docs.google.com/document/d/1qAS5h2lhvElQW5HPUbGtX4Tl8jX6QskqiUd_VSNm2yE/edit?usp=sharing)
 
 ## Day 7-9: Group Projects
+[Schedule Overview](https://docs.google.com/presentation/d/1pi6CelgVWDYycgl81KUipfmtS4IGl13uBMD6G1GVgto/edit?usp=sharing)
 
 ## Day 10: Group Presentations
 
