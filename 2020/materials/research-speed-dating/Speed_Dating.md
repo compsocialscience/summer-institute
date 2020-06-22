@@ -207,5 +207,38 @@ class: small-code
 
 
 ```
-Error in filter(., name != "SAMPLE NAME.") : object 'name' not found
+processing file: Speed_Dating.Rpres
+
+Attaching package: 'janitor'
+
+The following objects are masked from 'package:stats':
+
+    chisq.test, fisher.test
+
+Reading from "SICSS Research Speed-Dating"
+Range "'Sample'"
+Quitting from lines 201-216 (Speed_Dating.Rpres) 
+Error: Assigned data `values` must be compatible with existing data.
+ℹ Error occurred for column `email`.
+x Can't convert <double> to <character>.
+Backtrace:
+     █
+  1. ├─knitr::knit(...)
+  2. │ └─knitr:::process_file(text, output)
+  3. │   ├─base::withCallingHandlers(...)
+  4. │   ├─knitr:::process_group(group)
+  5. │   └─knitr:::process_group.block(group)
+  6. │     └─knitr:::call_block(x)
+  7. │       └─knitr:::block_exec(params)
+  8. │         ├─knitr:::in_dir(...)
+  9. │         └─knitr:::evaluate(...)
+ 10. │           └─evaluate::evaluate(...)
+ 11. │             └─evaluate:::evaluate_call(...)
+ 12. │               ├─evaluate:::timing_fn(...)
+ 13. │               ├─base:::handle(...)
+ 14. │               ├─base::withCallingHandlers(...)
+ 15. │               ├─base::withVisible(eval(expr, envir, enclos))
+ 16. │               └─base::eval(expr, envir, enclos)
+ 17. │                 
+Execution halted
 ```

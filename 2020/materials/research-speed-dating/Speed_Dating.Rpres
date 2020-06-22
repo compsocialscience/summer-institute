@@ -197,7 +197,7 @@ Read the Googlesheet
 class: small-code 
 &nbsp;
 
-```{r, message = FALSE, echo=FALSE, warnings = FALSE}
+```{r, message = FALSE, echo=FALSE, warning = FALSE}
 library(googlesheets4)
 library(janitor)
 library(naniar)
@@ -205,7 +205,7 @@ gs4_deauth()
 #link
 ss <- "https://docs.google.com/spreadsheets/d/1B_ezJHdxCM1wgPpUUaCHDTpwNOZV7XtPXkmGDY9Ift4/edit#gid=0"
 #organizers, change the sheet name to your specific site
-dat <- read_sheet(ss, sheet = "Duke")
+dat <- read_sheet(ss, sheet = "Sample")
 #clean variable names
 dat <- clean_names(dat)
 #replace NAs with 0s
