@@ -22,7 +22,7 @@ __Description:__ Teaching computational social science at both the undergraduate
 
 __Open to:__ Unlimited registered participants: [Registration form](https://forms.gle/mCdyY2VPZdLGjqKTA)
 
-__Archiving:__ This talk will be recorded and archived. The recording is [here](https://www.youtube.com/watch?v=WbIubhwEXO4).
+__Archiving:__ This talk will be recorded and archived. The recording is [here](https://www.youtube.com/watch?v=ntXDMNABa_E).
 
 # Tuesday <a name="tuesday"></a>
 
