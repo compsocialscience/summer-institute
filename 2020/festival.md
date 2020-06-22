@@ -118,7 +118,7 @@ __Archiving:__ This talk will be recorded and archived.
 
 __Time:__ Thursday, June 25, 2020. 12:30-2pm EDT
 
-__Speakers:__ [Sudhir Venkatesh](https://sociology.columbia.edu/content/sudhir-venkatesh) (Director of Computational Social Science, Twitter & William B. Ransford Professor of Sociology & African American Studies, Columbia University), [Pablo Barberá](http://pablobarbera.com/) (Research Scientist, Facebook & Associate Professor, Department of Political Science & International Relations, University of Southern California), and [Antje Kirchner](https://www.rti.org/expert/antje-kirchner) (SICSS-Princeton 17, SICSS-RTI 19, Research Survey Methodologist, RTI International)
+__Speakers:__ [Sudhir Venkatesh](https://sociology.columbia.edu/content/sudhir-venkatesh) (Lead Social Scientist, Twitter & William B. Ransford Professor of Sociology & African American Studies, Columbia University), [Pablo Barberá](http://pablobarbera.com/) (Research Scientist, Facebook & Associate Professor, Department of Political Science & International Relations, University of Southern California), and [Antje Kirchner](https://www.rti.org/expert/antje-kirchner) (SICSS-Princeton 17, SICSS-RTI 19, Research Survey Methodologist, RTI International)
 
 __Moderator:__ [Chris Bail](https://www.chrisbail.net/) (SICSS-Princeton 17, 19, SICSS-Duke 18, 20)
 
@@ -163,7 +163,7 @@ __Archiving:__ This talk will be recorded and archived.
 
 __Time:__ Friday, June 26, 2020. 10-11:30am EDT.
 
-__Speakers:__ [Abdullah Almaatouq](http://www.amaatouq.com/) (SICSS-Princeton 17), [Joshua Becker](https://www.joshua-becker.com/) (SICSS-Princeton 17), [James Houghton](http://www.jamesphoughton.com/) (SICSS-Duke 20), and Nicolas Paton.
+__Speakers:__ [Abdullah Almaatouq](http://www.amaatouq.com/) (SICSS-Princeton 17), [Joshua Becker](https://www.joshua-becker.com/) (SICSS-Princeton 17, SICSS-Chicago 18), [James Houghton](http://www.jamesphoughton.com/) (SICSS-Duke 20), and Nicolas Paton.
 
 __Description:__ [Empirica](https://empirica.ly/) is a new open source software platform for developing and conducting synchronous and interactive human-subject experiments.  It has already been used by researchers around the world. This session will start with a live demonstration where participants will take part in a real-time experiment involving dozens of people.  Next, the data from that experiment will be downloaded and analyzed.  Thus, participants will have a behind-the-scenes, end-to-end experience with an experiment run with Emprica. Finally, there will be time for questions and discussion about Empirica and the future of experiments in the social sciences.
 
