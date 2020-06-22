@@ -20,8 +20,11 @@ Intro [Slides](https://docs.google.com/presentation/d/1VHZbCX3h3SHTYUEJlDYOde2NE
 [Link to Speaker R code](http://bit.ly/sicss-net-r); [Link to all Speaker materials](http://bit.ly/sicss-net); [Activity](https://drive.google.com/drive/folders/1ogHw2txX_1BC1ECNW1Z2ikeM4QodoGGJ); [Slides](https://docs.google.com/presentation/d/1Niwu5scNOP2nWNu6Y2tFWGWes9PwF9nrAmHjduRCGUo/edit?usp=sharing)
 
 ## Day 6- Experiments
-[Activity](https://docs.google.com/document/d/1qAS5h2lhvElQW5HPUbGtX4Tl8jX6QskqiUd_VSNm2yE/edit?usp=sharing)
+[Slides](https://docs.google.com/presentation/d/1npbXtVK3gXGIOL4FYajGGda6yDNVuPSvQKoj4CgR914/edit?usp=sharing) [Activity](https://docs.google.com/document/d/1qAS5h2lhvElQW5HPUbGtX4Tl8jX6QskqiUd_VSNm2yE/edit?usp=sharing)
 
 ## Day 7-9: Group Projects
 
 ## Day 10: Group Presentations
+
+## Tutorials
+Loops in R [Materials](https://drive.google.com/drive/folders/1OJfUKHfaN78NYwr2kysNx9bq7nKQeEyp?usp=sharing)

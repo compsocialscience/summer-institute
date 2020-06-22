@@ -6,7 +6,9 @@ layout: page
 
 The SICSS Festival 2020 will take place Monday, June 22 - Friday, June 26, 2020. During the festival, alumni from all SICSS locations would host events such as tutorials, panel discussions, or debates.  These events will all be online.  SICSS Festival events will be open to either current SICSS participants (at any location) or anyone that is interested; the choice of audience will be driven by the topic, learning objectives, and preferences of presenters.  If you are a SICSS alumni and would like to host an event in the festival, please send us an email with a rough sketch of your idea.  We will be adding events to this website as they are finalized.
 
-# Monday
+Jump to a day: [Monday.](#monday) [Tuesday.](#tuesday) [Wednesday.](#wednesday) [Thursday.](#thursday) [Friday.](#friday)
+
+# Monday <a name="monday"></a>
 
 ## Panel discussion on teaching computational social science
 
@@ -22,7 +24,7 @@ __Open to:__ Unlimited registered participants: [Registration form](https://form
 
 __Archiving:__ This talk will be recorded and archived.
 
-# Tuesday
+# Tuesday <a name="tuesday"></a>
 
 ## Measuring cultural change in digital trace data using diversification rates
 
@@ -36,21 +38,21 @@ __Open to:__ Unlimited registered participants: [Registration form](https://form
 
 __Archiving:__ This talk will be recorded and archived.
 
-## Panel discussion on diversity in computational social science
+## Discussion on diversity in computational social science
 
 __Time:__ Tuesday, June 23, 2020. 3:30-4:30pm EDT
 
 __Speaker:__ [Naniette H. Coleman](https://www.naniettecoleman.com/) (SICSS-Princeton 19)
 
-__Moderator:__ [Matthew Salganik](https://www.princeton.edu/~mjs3/) (SICSS-Princeton 17, 19, SICSS-Duke 18, 20)
+__Host:__ [Matthew Salganik](https://www.princeton.edu/~mjs3/) (SICSS-Princeton 17, 19, SICSS-Duke 18, 20)
 
-__Description:__ In order to thrive, the field of computational social science requires contributions from people from different intellectual backgrounds and different life experiences. The panelists will discuss their own efforts to increase diversity in computational social science, describe why they think this work is important, explain what other efforts are underway now, and what they think should be done in the future.  There will also be time for the audience to submit written questions to be asked by the moderator.
+__Description:__ In order to thrive, the field of computational social science requires contributions from diverse scholars. This discussion will address this broad challenge in a specific setting: the creation of SICSS-Howard/Mathematica, the first SICSS located at a Historically Black College or University (HBCU). Although this site has been postponed until 2021 due to COVID, it still serves as a useful case study for discussion. The discussion will focus on efforts to increase diversity in computational social science, why this work is important, and what should be done in the future. There will also be time for the audience to submit written questions to be asked by the host.
 
 __Open to:__ Unlimited registered participants: [Registration form](https://forms.gle/vxH5i1FgKfKXzP8P7)
 
-__Archiving:__ This talk will be recorded and archived.
+__Archiving:__ This talk will be recorded. We will determine after the event whether it will be archived.
 
-# Wednesday
+# Wednesday <a name="wednesday"></a>
 
 ## Computational social science to address the (post) COVID-19 reality
 
@@ -96,7 +98,7 @@ __Preparatory materials:__ All registered participants are strongly encouraged t
 
 __Archiving:__ This talk will be recorded and archived.
 
-# Thursday
+# Thursday <a name="thursday"></a>
 
 ## Creating open source software as part of an academic career
 
@@ -116,7 +118,7 @@ __Archiving:__ This talk will be recorded and archived.
 
 __Time:__ Thursday, June 25, 2020. 12:30-2pm EDT
 
-__Speakers:__ [Sudhir Venkatesh](https://sociology.columbia.edu/content/sudhir-venkatesh) (Director of Computational Social Science, Twitter & William B. Ransford Professor of Sociology & African American Studies, Columbia University), [Pablo Barberá](http://pablobarbera.com/) (Research Scientist, Facebook & Associate Professor, Department of Political Science & International Relations, University of Southern California), and [Antje Kirchner](https://www.rti.org/expert/antje-kirchner) (SICSS-Princeton 17, SICSS-RTI 19, Research Survey Methodologist, RTI International)
+__Speakers:__ [Sudhir Venkatesh](https://sociology.columbia.edu/content/sudhir-venkatesh) (Lead Social Scientist, Twitter & William B. Ransford Professor of Sociology & African American Studies, Columbia University), [Pablo Barberá](http://pablobarbera.com/) (Research Scientist, Facebook & Associate Professor, Department of Political Science & International Relations, University of Southern California), and [Antje Kirchner](https://www.rti.org/expert/antje-kirchner) (SICSS-Princeton 17, SICSS-RTI 19, Research Survey Methodologist, RTI International)
 
 __Moderator:__ [Chris Bail](https://www.chrisbail.net/) (SICSS-Princeton 17, 19, SICSS-Duke 18, 20)
 
@@ -124,7 +126,7 @@ __Description:__ Computational social science leads to a wide range of interdisc
 
 __Open to:__ Unlimited registered participants: [Registration form](https://forms.gle/MoHBCmgQoUSZQhTFA)
 
-__Archiving:__ Recording and archiving of this talk is TBD.
+__Archiving:__ This event will NOT be recorded or archived.
 
 
 ## What Can the SICSS Community Do to Recognize and Eradicate Anti-Black Racism in Computational Social Science?
@@ -141,7 +143,7 @@ __Format:__ Discussion & planning session; note that this is not a panel, active
 
 __Archiving:__ This event will NOT be recorded or archived.
 
-# Friday
+# Friday <a name="friday"></a>
 
 ## Opportunities and challenges with industry collaborations
 
@@ -161,7 +163,7 @@ __Archiving:__ This talk will be recorded and archived.
 
 __Time:__ Friday, June 26, 2020. 10-11:30am EDT.
 
-__Speakers:__ [Abdullah Almaatouq](http://www.amaatouq.com/) (SICSS-Princeton 17), [Joshua Becker](https://www.joshua-becker.com/) (SICSS-Princeton 17), [James Houghton](http://www.jamesphoughton.com/) (SICSS-Duke 20), and Nicolas Paton.
+__Speakers:__ [Abdullah Almaatouq](http://www.amaatouq.com/) (SICSS-Princeton 17), [Joshua Becker](https://www.joshua-becker.com/) (SICSS-Princeton 17, SICSS-Chicago 18), [James Houghton](http://www.jamesphoughton.com/) (SICSS-Duke 20), and Nicolas Paton.
 
 __Description:__ [Empirica](https://empirica.ly/) is a new open source software platform for developing and conducting synchronous and interactive human-subject experiments.  It has already been used by researchers around the world. This session will start with a live demonstration where participants will take part in a real-time experiment involving dozens of people.  Next, the data from that experiment will be downloaded and analyzed.  Thus, participants will have a behind-the-scenes, end-to-end experience with an experiment run with Emprica. Finally, there will be time for questions and discussion about Empirica and the future of experiments in the social sciences.
 
