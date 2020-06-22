@@ -180,7 +180,7 @@ token <- create_token(
 
 Now, we can take full advantage of all of the many useful functions within the `rtweet` function for collecting data from Twitter. Let's begin by extracting 4,000 tweets that use that mention "coronavirus."
 
-```{r, echo=FALSE}
+```{r}
 library(rtweet)
 covid_19_tweets<-search_tweets("coronavirus", n=4000)
 ```
@@ -360,20 +360,20 @@ This code would take some time to run, of course, since we are collected 100 twe
 
 There is one more skill that will be useful for you to have in order to work with Twitter data. Very often, we want to track trends over time or subset our data according to different time periods. If we browse the variable that describes the time each tweet was created, however, we see that it is not in a format that we can easily work with in r:
 
-```{r}
+```{r, eval=FALSE}
 head(for_analysis$created_at)
 ```
 
 To manage these types of string variables that describe dates, it is often very useful to convert them into a variable of class "date." There are several ways to do this in R, but here is the way to do it using the `as.Date` function in base R. 
 
-```{r}
+```{r, eval=FALSE}
 for_analysis$date<-as.Date(for_analysis$created_at, format="%Y-%m-%d")
 head(for_analysis$date)
 ```
 
 Now, we can subset the data using conventional techniques. For example, if we wanted to only look at tweets for August, we could do this:
 
-```{r}
+```{r, eval=FALSE}
 august_tweets<-for_analysis[for_analysis$date>"2018-07-31"&
                               for_analysis$date<"2018-09-01",]
 ```
