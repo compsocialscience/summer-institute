@@ -36,7 +36,7 @@ __Description:__ How do we measure cultural change? Through the birth and death 
 
 __Open to:__ Unlimited registered participants: [Registration form](https://forms.gle/kZZPF2jviYbfy8T6A)
 
-__Archiving:__ This talk will be recorded and archived.
+__Archiving:__ This talk will be recorded. We will determine after the event whether it will be archived.
 
 ## Discussion on diversity in computational social science
 
