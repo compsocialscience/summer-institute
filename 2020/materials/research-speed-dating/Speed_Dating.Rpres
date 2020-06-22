@@ -194,18 +194,30 @@ https://tinyurl.com/y867xb4s
 
 Read the Googlesheet
 ========================================================
+class: small-code 
 &nbsp;
 
 ```{r, message = FALSE, echo=FALSE, warnings = FALSE}
-library(tidyverse)
-
-dat <- readRDS("dat.RDS")
-
-glimpse(dat)
+library(googlesheets4)
+library(janitor)
+library(naniar)
+gs4_deauth()
+#link
+ss <- "https://docs.google.com/spreadsheets/d/1B_ezJHdxCM1wgPpUUaCHDTpwNOZV7XtPXkmGDY9Ift4/edit#gid=0"
+#organizers, change the sheet name to your specific site
+dat <- read_sheet(ss, sheet = "Duke")
+#clean variable names
+dat <- clean_names(dat)
+#replace NAs with 0s
+dat <- dat %>% replace(is.na(.), 0)
+dat <- dat %>% filter(name != "SAMPLE NAME.")
+#select variables needed for group creation
+dat <- dat %>% select(-c(email, any_specific_proposed_ideas))
 ```
 
 Identify Maximally similar
 ========================================================
+class: small-code 
 &nbsp;
 
 ```{r, eval=TRUE, echo = FALSE}
@@ -229,6 +241,7 @@ rect.hclust(fit, k=5, border="red")
 
 Simulate Random Groups
 ========================================================
+class: small-code 
 &nbsp;
 
 ```{r, eval=TRUE, echo = FALSE}
@@ -268,4 +281,4 @@ Go!
 ========================================================
 &nbsp;
 
-Meet in maximally similar and dissimilar groups for 30 minutes. Site organizer will create googlesheet where project ideas will be listed. At the end of each 30 minutes period, one group representative should write the name of the project and a brief (less than three sentence description). After the end of the exercise, put your name next to the research project that you are most excited about joining. google doc: https://tinyurl.com/y7pwpgvo 
+Meet in maximally similar and dissimilar groups for 30 minutes. Site organizer will create googlesheet where project ideas will be listed. At the end of each 30 minutes period, one group representative should write the name of the project and a brief (less than three sentence description). After the end of the exercise, put your name next to the research project that you are most excited about joining. Click on the link to the google doc for your site here: https://tinyurl.com/y867xb4s 

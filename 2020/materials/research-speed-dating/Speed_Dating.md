@@ -131,7 +131,7 @@ Research Speed-dating
 1. Maximally similar clusters come up with a group project (30 min)  
 2. Maximally different clusters come up with a group project (30 min)  
 3. We start a new google doc. Each person takes 5 minutes to write down their favorite group project idea  
-4. Everyone puts there name next to the group project they want to join  
+4. Everyone puts their name next to the group project they want to join  
 
 
 Research Speed-dating
@@ -188,12 +188,13 @@ Let's crowdsource a list of our research interests
 Place the name of a research interest in the first column of this
 document, and write a "1" across all research interests you have:
 
-https://bit.ly/2WIrIYh
+https://tinyurl.com/y867xb4s
 
 
 
 Read the Googlesheet
 ========================================================
+class: small-code 
 &nbsp;
 
 
@@ -206,6 +207,5 @@ Read the Googlesheet
 
 
 ```
-Error in curl::curl_fetch_memory(url, handle = handle) : 
-  Timeout was reached: [docs.google.com] Operation timed out after 10002 milliseconds with 0 out of 0 bytes received
+Error in gzfile(file, "rb") : cannot open the connection
 ```
