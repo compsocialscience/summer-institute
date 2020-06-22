@@ -102,6 +102,8 @@
       time: "open morning and afternoon work time"
     - name: "<b>(Optional) Tutorial on Loops (30-40 minutes)</b>"
       time: "9:30"
+    - name: "<b>(Optional) Tutorial- Intro to Screen Scraping (targeted toward beginners)</b>"
+      time: "12:30"
     - name: "<b>Full Session: Checking in on Group Projects</b>"
       time: "14:45"
     - name: "<b>How to Survey Political Elites</b> (Adam Thal)"
