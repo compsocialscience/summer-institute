@@ -24,6 +24,8 @@ __Open to:__ Unlimited registered participants: [Registration form](https://form
 
 __Archiving:__ This talk will be recorded and archived. The recording is [here](https://www.youtube.com/watch?v=ntXDMNABa_E).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ntXDMNABa_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Tuesday <a name="tuesday"></a>
 
 ## Measuring cultural change in digital trace data using diversification rates
