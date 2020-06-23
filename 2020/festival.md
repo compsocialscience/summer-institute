@@ -27,6 +27,7 @@ __Archiving:__ This talk will be recorded and archived. [Video](https://www.yout
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ntXDMNABa_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+<br/>
 
 # Tuesday <a name="tuesday"></a>
 
@@ -59,6 +60,7 @@ __Archiving:__ This talk will be recorded and archived. [Video](https://www.yout
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FYES4RCRaZw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+<br/>
 
 # Wednesday <a name="wednesday"></a>
 
