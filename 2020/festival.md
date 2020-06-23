@@ -60,7 +60,7 @@ __Time:__ Wednesday, June 24, 2020, 10–11:15am EDT
 
 __Speakers:__ [Johan Bollen](https://homes.luddy.indiana.edu/jbollen/) and [Dean Eckles](https://www.deaneckles.com/)
 
-__Moderators:__ [Mark Cliffe](https://think.ing.com/author/mark-cliffe/) and [Monika Leszczynska](https://empiricalcontracts.com/) (SICSS-Princeton 19, SICSS-Maastricht 20)
+__Moderators:__ [Maria Ferreira Sequeda](https://think.ing.com/author/maria-ferreira-sequeda/) and [Monika Leszczynska](https://empiricalcontracts.com/) (SICSS-Princeton 19, SICSS-Maastricht 20)
 
 __Description:__ Computational Social Science offers tools that can assist both policy makers and the private sector in the design and implementation of measures to address the economic and social challenges posed by COVID-19. How can the growing sources of (alternative) data and data science be used in a meaningful and responsible way, i.e. providing reliable and practical knowledge without compromising privacy and safety of people whose data is collected and analyzed? What are the methodological and regulatory solutions that could be applied to address the challenges and mitigate the risks? Our panelists will share their experience and ideas on these issues. There will also be enough time for questions from the audience.
 
