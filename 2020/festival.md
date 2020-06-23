@@ -22,7 +22,7 @@ __Description:__ Teaching computational social science at both the undergraduate
 
 __Open to:__ Unlimited registered participants: [Registration form](https://forms.gle/mCdyY2VPZdLGjqKTA)
 
-__Archiving:__ This talk will be recorded and archived. The recording is [here](https://www.youtube.com/watch?v=ntXDMNABa_E).
+__Archiving:__ This talk will be recorded and archived. [Video](https://www.youtube.com/watch?v=ntXDMNABa_E)
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ntXDMNABa_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -40,7 +40,7 @@ __Description:__ How do we measure cultural change? Through the birth and death 
 
 __Open to:__ Unlimited registered participants: [Registration form](https://forms.gle/kZZPF2jviYbfy8T6A)
 
-__Archiving:__ This talk will be recorded. We will determine after the event whether it will be archived.
+__Archiving:__ This talk will not be archived.
 
 ## Discussion on diversity in computational social science
 
@@ -54,7 +54,11 @@ __Description:__ In order to thrive, the field of computational social science n
 
 __Open to:__ Unlimited registered participants: [Registration form](https://forms.gle/vxH5i1FgKfKXzP8P7)
 
-__Archiving:__ This talk will be recorded. We will determine after the event whether it will be archived.
+__Archiving:__ This talk will be recorded and archived. [Video](https://www.youtube.com/watch?v=FYES4RCRaZw)
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FYES4RCRaZw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 # Wednesday <a name="wednesday"></a>
 
