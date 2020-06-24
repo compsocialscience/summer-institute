@@ -28,4 +28,4 @@ Intro [Slides](https://docs.google.com/presentation/d/1VHZbCX3h3SHTYUEJlDYOde2NE
 ## Day 10: Group Presentations
 
 ## Tutorials
-Loops in R [Materials](https://drive.google.com/drive/folders/1OJfUKHfaN78NYwr2kysNx9bq7nKQeEyp?usp=sharing); Screen Scraping [Materials](https://drive.google.com/file/d/1uxbG2--uOGjOTImw0aNQT166vR2EHoOg/view?usp=sharing). For screen scraping, you will need Google Chrome and [SelectorGadget](https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb?hl=en) installed.
+Loops in R [Materials](https://drive.google.com/drive/folders/1OJfUKHfaN78NYwr2kysNx9bq7nKQeEyp?usp=sharing); Screen Scraping [Materials](https://drive.google.com/file/d/1387zG8CZ4ARdqRCCy5MAGWdbk67Z3R2d/view?usp=sharing). For screen scraping, you will need Google Chrome and [SelectorGadget](https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb?hl=en) installed.
