@@ -76,7 +76,7 @@ __Description:__ Computational Social Science offers tools that can assist both 
 
 Co-organized with the [Maastricht Law and Tech Lab](https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab), [ING](https://www.ing.com/), and the [Think Forward Initiative](https://www.thinkforwardinitiative.com/)
 
-__Open to:__ Unlimited registered participants: [Registration form](https://legal.typeform.com/to/ZOb9SY)
+__Open to:__ Unlimited registered participants. Registration has closed.
 
 __Archiving:__ This talk will be recorded and archived.
 
