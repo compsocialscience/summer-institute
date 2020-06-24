@@ -20,7 +20,7 @@ __Moderator:__ [Matthew Salganik](https://www.princeton.edu/~mjs3/) (SICSS-Princ
 
 __Description:__ Teaching computational social science at both the undergraduate and graduate level presents a number of challenging pedagogical questions. How should we teach a class with students from different disciplinary backgrounds?  What is the role of programming in computational social science education? How should computational social science courses fit into a larger curriculum?  The panelists will address these questions---and others---first in a moderated conversation and then will take questions from the audience.   
 
-__Open to:__ Unlimited registered participants: [Registration form](https://forms.gle/mCdyY2VPZdLGjqKTA)
+__Open to:__ Unlimited registered participants: Registration has closed.
 
 __Archiving:__ This talk will be recorded and archived. [Video](https://www.youtube.com/watch?v=ntXDMNABa_E)
 
@@ -39,7 +39,7 @@ __Speaker:__ [Bernard Koch](https://soc.ucla.edu/grads/bernard-koch) (SICSS-Los 
 
 __Description:__ How do we measure cultural change? Through the birth and death of “cultural lineages” (e.g., hashtags, consumer goods, or musical artists), digital trace data allows us to observe cultural change at population scale over time. This tutorial introduces a statistical framework to identify and explain culturally important historical events through changes in the diversity of cultural lineages over time. Users will learn how to run an unsupervised machine learning model called ___LiteRate___ to identify statistically significant shifts in cultural diversity, as well as more restricted models to test theoretical hypotheses about the causes of these events. The tutorial will be accessible to a broad audience.
 
-__Open to:__ Unlimited registered participants: [Registration form](https://forms.gle/kZZPF2jviYbfy8T6A)
+__Open to:__ Unlimited registered participants: Registration has closed.
 
 __Archiving:__ This talk will not be archived.
 
@@ -53,7 +53,7 @@ __Host:__ [Matthew Salganik](https://www.princeton.edu/~mjs3/) (SICSS-Princeton 
 
 __Description:__ In order to thrive, the field of computational social science needs contributions from diverse scholars. This discussion will address this broad challenge in a specific setting: the creation of SICSS-Howard/Mathematica (links to [website](https://compsocialscience.github.io/summer-institute/2020/howard-mathematica/), form to join the [email list](https://docs.google.com/forms/d/e/1FAIpQLSfD7YNUdhhngu4glivO2CAzKX1ief6p2Yyj2B49cdwgk-qwCA/viewform?usp=sf_link), and [Facebook page](https://www.facebook.com/SICSS.Howard.Mathematica)), the first SICSS located at a Historically Black College or University (HBCU). Although this site has been postponed until 2021 due to COVID-19, it still serves as a useful case study for discussion. The discussion will focus on efforts to increase diversity in computational social science, why this work is important, and what should be done in the future. There will also be time for the audience to submit written questions to be asked by the host.
 
-__Open to:__ Unlimited registered participants: [Registration form](https://forms.gle/vxH5i1FgKfKXzP8P7)
+__Open to:__ Unlimited registered participants: Registration has closed.
 
 __Archiving:__ This talk will be recorded and archived. [Video](https://www.youtube.com/watch?v=FYES4RCRaZw)
 
@@ -90,7 +90,7 @@ __Moderator:__ [Vissého Adjiwanou](https://sociologie.uqam.ca/corps-professoral
 
 __Description:__ The panel will begin with a broad introduction to digital and computational approaches to demography.  Next, panelists will present examples drawing on some of their own work  of digital and computational approaches to demographic research in two areas: 1) migration and 2) digital inequality and its implications for demographic processes.  Following these specific examples, the panel will reflect on future directions for digital demography, both in the context of the promises and perils of this emerging area in demographic research, as well as in relation to its role within the broader computational social science community.  We aim for this conversation to include a wider discussion between panelists and participants, and encourage broad participation from those within computational social science, demography and population studies communities. 
 
-__Open to:__ Unlimited registered participants: [Registration form](https://forms.gle/iwvB2v4wcr1P9Gxc9)
+__Open to:__ Unlimited registered participants: Registration has closed.
 
 __Archiving:__ This talk will be recorded and archived.
 
@@ -102,7 +102,7 @@ __Speakers:__ [Abdullah Almaatouq](http://www.amaatouq.com/) (SICSS-Princeton 17
 
 __Description:__ [Empirica](https://empirica.ly/) is a new open source software platform for developing and conducting synchronous and interactive human-subject experiments.  It has already been used by researchers around the world. This session will start with a live demonstration where participants will take part in a real-time experiment involving dozens of people.  Next, the data from that experiment will be downloaded and analyzed.  Thus, participants will have a behind-the-scenes, end-to-end experience with an experiment run with Emprica. Finally, there will be time for questions and discussion about Empirica and the future of experiments in the social sciences.
 
-__Open to:__ 30 registered participants. Registration is full.
+__Open to:__ 30 registered participants. Registration has closed.
 
 __Preparatory materials:__ All registered participants are strongly encouraged to work through and watch [Empirica videos A - E](https://www.youtube.com/playlist?list=PLPQelvUwyVgiawBDk3Sp74QMfL8RPgORW), which will require them to [install software](https://empirica.ly/docs/quick-start.html) on their computers.
 
