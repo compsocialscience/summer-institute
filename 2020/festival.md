@@ -120,6 +120,18 @@ __Moderator:__ [Matthew Salganik](https://www.princeton.edu/~mjs3/) (SICSS-Princ
 
 __Description:__ Almost all computational social science depends on open source software, yet very few computational social scientists actually contribute to open source software.  These panelists will share their experiences developing open source software as part of an academic career, and they will offer advice for others who want to contribute to existing open source projects or start new ones.  There will be time for questions from the audience.
 
+__Software by the speakers__:
+
+[Ryan Gallagher](https://ryanjgallagher.github.io/)
+- Python packages: [CorEx topic model](https://github.com/gregversteeg/corex_topic), [Word shifterator](https://github.com/ryanjgallagher/shifterator)
+
+[Anne Helby Petersen](https://biostat.ku.dk/staff_/?pure=en/persons/395810)
+- R packages: dataMaid [package](https://github.com/ekstroem/dataMaid) and [paper](https://www.jstatsoft.org/article/view/v090i06), [causalDisco](https://github.com/annennenne/causaldisco) (in progress), [PCADSC](https://github.com/annennenne/PCADSC).
+- R shiny apps: [causalDisco webtool](https://biostatistics.dk/causalDisco/), [autopoet haiku generator](http://autopoet.io/)
+
+[Carsten Schwemmer](https://www.carstenschwemmer.com/)
+- R packages: [Stminsights](https://cschwem2er.github.io/stminsights/), [Imgrec](https://cschwem2er.github.io/imgrec/), [Pathways](https://cschwem2er.github.io/pathways/)
+
 __Open to:__ Unlimited registered participants: [Registration form](https://forms.gle/AUF65qz4sZmVve288)
 
 __Archiving:__ This talk will be recorded and archived.
