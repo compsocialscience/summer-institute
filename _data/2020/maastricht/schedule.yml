@@ -101,9 +101,9 @@
     - name: "17.00 - 18.00 Office hourse (*Zoom*)"
 
 - date: 2020-06-26
-  name: "<b>Present Group Projects</b>"
+  name: "<b>Group Projects Presentations</b>"
   events:
-    - name: "14.00 - 16.00 Group Projects Presentations (*Zoom*)"
-    - name: "16.00 - 16.30 Break"
-    - name: "16.30 - 18.30 Group Projects Presentations (*Zoom*)"
-    - name: "18.30 - 18.45 Closing remarks (*Zoom*)"
+    - name: "16.00 - 17.00 Group Project Presentation (*Zoom*)"
+    - name: "17.00 - 17.15 Break"
+    - name: "17.15 - 18.15 Group Project Presentation (*Zoom*)"
+    - name: "18.15 - 18.30 Closing remarks (*Zoom*)"
