@@ -78,7 +78,12 @@ Co-organized with the [Maastricht Law and Tech Lab](https://www.maastrichtuniver
 
 __Open to:__ Unlimited registered participants. Registration has closed.
 
-__Archiving:__ This talk will be recorded and archived.
+__Archiving:__ This talk will be recorded and archived. [Video](https://youtu.be/7d-Dq0e1JJ0).
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7d-Dq0e1JJ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br/>
 
 ## Panel discussion on digital and computational demography
 
