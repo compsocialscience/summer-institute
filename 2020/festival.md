@@ -142,7 +142,7 @@ __Software by the speakers__:
 [Carsten Schwemmer](https://www.carstenschwemmer.com/)
 - R packages: [Stminsights](https://cschwem2er.github.io/stminsights/), [Imgrec](https://cschwem2er.github.io/imgrec/), [Pathways](https://cschwem2er.github.io/pathways/)
 
-__Open to:__ Unlimited registered participants: [Registration form](https://forms.gle/AUF65qz4sZmVve288)
+__Open to:__ Unlimited registered participants. Registration has closed.
 
 __Archiving:__ This talk will be recorded and archived.
 
