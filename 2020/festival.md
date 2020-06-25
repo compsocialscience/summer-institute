@@ -142,7 +142,7 @@ __Software by the speakers__:
 [Carsten Schwemmer](https://www.carstenschwemmer.com/)
 - R packages: [Stminsights](https://cschwem2er.github.io/stminsights/), [Imgrec](https://cschwem2er.github.io/imgrec/), [Pathways](https://cschwem2er.github.io/pathways/)
 
-__Open to:__ Unlimited registered participants. Registration has closed.
+__Open to:__ Unlimited registered participants: Registration has closed.
 
 __Archiving:__ This talk will be recorded and archived.
 
@@ -156,7 +156,7 @@ __Moderator:__ [Chris Bail](https://www.chrisbail.net/) (SICSS-Princeton 17, 19,
 
 __Description:__ Computational social science leads to a wide range of interdisciplinary job opportunities outside academia. These panelists will share their experiences in industry settings and will offer thoughts about how an academic research program in the field could lead to a variety of fulfilling careers.
 
-__Open to:__ Unlimited registered participants: [Registration form](https://forms.gle/MoHBCmgQoUSZQhTFA)
+__Open to:__ Unlimited registered participants: Registration has closed.
 
 __Archiving:__ This event will NOT be recorded or archived.
 
@@ -169,7 +169,7 @@ __Organizers:__ [Tina Law](https://tinalaw1.github.io/) (SICSS-Duke 18, SICSS-Ch
 
 __Description:__ Right now, protests are taking place around the world in response to the murders of George Floyd, Breonna Taylor, Ahmaud Arbery, Tony McDade, Rayshard Brooks, and countless other Black lives, and many necessary conversations are being had about anti-Black racism. As members of the SICSS community, what can we do to recognize and eradicate anti-Black racism in our own field? Computational social science is a relatively new field with a lot of potential for positive social change. It is also a field born out of two long-standing disciplines--computer science and social science--that have histories of marginalizing Black scholarship and contributing to anti-Black policies and programs. What are the opportunities and challenges that we face as computational social scientists when it comes to addressing anti-Black racism? And, how can the SICSS community leverage our unique strength as a global network of teachers and scholars to combat anti-Black racism? This discussion and planning session is open to SICSS participants and alumni who are interested in actively tackling these questions together.
 
-__Open to:__ SICSS participants and alumni. Unlimited number of registered participants. [Registration form](https://forms.gle/5tDxuRJRUg7GWBVZA)
+__Open to:__ SICSS participants and alumni. Unlimited number of registered participants. Registration has closed.
 
 __Format:__ Discussion & planning session; note that this is not a panel, active participation is encouraged.
 
