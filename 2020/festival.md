@@ -92,7 +92,12 @@ __Description:__ The panel will begin with a broad introduction to digital and c
 
 __Open to:__ Unlimited registered participants: Registration has closed.
 
-__Archiving:__ This talk will be recorded and archived.
+__Archiving:__ This talk will be recorded and archived. [Video](https://youtu.be/BueR-DPy484)
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BueR-DPy484" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br/>
 
 ## Using Empirica for high-throughput virtual lab experiments (Session 1)
 
