@@ -194,7 +194,12 @@ __Description:__ Most big data sources are controlled by companies, and many com
 
 __Open to:__ Unlimited registered participants. Registration has closed.
 
-__Archiving:__ This talk will be recorded and archived.
+__Archiving:__ This talk will be recorded and archived. [Video](https://www.youtube.com/watch?v=QI3b8-9N5eY)
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QI3b8-9N5eY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br/>
 
 ## Using Empirica for high-throughput virtual lab experiments (Session 2)
 
@@ -204,7 +209,7 @@ __Speakers:__ [Abdullah Almaatouq](http://www.amaatouq.com/) (SICSS-Princeton 17
 
 __Description:__ [Empirica](https://empirica.ly/) is a new open source software platform for developing and conducting synchronous and interactive human-subject experiments.  It has already been used by researchers around the world. This session will start with a live demonstration where participants will take part in a real-time experiment involving dozens of people.  Next, the data from that experiment will be downloaded and analyzed.  Thus, participants will have a behind-the-scenes, end-to-end experience with an experiment run with Emprica. Finally, there will be time for questions and discussion about Empirica and the future of experiments in the social sciences.
 
-__Open to:__ 30 registered participants. Registration is full.
+__Open to:__ 30 registered participants. Registration has closed.
 
 __Preparatory materials:__ All registered participants are strongly encouraged to work through and watch [Empirica videos A - E](https://www.youtube.com/playlist?list=PLPQelvUwyVgiawBDk3Sp74QMfL8RPgORW), which will require them to [install software](https://empirica.ly/docs/quick-start.html) on their computers.
 
