@@ -163,9 +163,10 @@
 - date: 2020-06-26
   name: Present Group Projects
   events:
-    - name: "Presentations ([Registration Form](https://tapanyemre.typeform.com/to/LeRzJIvC)"
+    - name: "Presentations"
       time: "14:00 - 16:00"
-    - name: "Conclusion"
+    - name: "**A typology of fact-checking organizations in Turkey**<br/> [Using Twitter data](https://sadettindemirel.github.io/factcheckers/analiz.html), we analyzed 6 fact-checking organizations in Turkey. We classified Turkish fact-checking ecosystem by using Quantitative Text Analysis, Network Analysis, and Structural Topic Modelling. [Our results](https://sadettindemirel.github.io/factcheckers/findings.html) reveal the fragmented and diverse structure of fact-checking organizations in Turkey. *[by Enes Abanoz, Ezgi Siir Kibris, Sadettin Demirel, Tekin Baykiz](https://compsocialscience.github.io/summer-institute/2020/istanbul/people)*"
+    - name: "**Examining On-Line Radical Discourse in Civil War Context, The Case of Salafi Madkhalies Discourse in the Libyan Civil War on Twitter**<br/> This research is explanatory in nature and considered to be a pilot study for further inquiries. It aims to examine the discourse and narrative of the Salafi Madkhalies in the social media, in the context of Libyan ongoing civil war. *[by Leo Bauer & Bilal Salaymeh](https://compsocialscience.github.io/summer-institute/2020/istanbul/people)*"
+    - name: "**Analyzing Covid-19 in Moroccan Newspapers**<br/> In our project we investigate the stakeholders that were involved in fighting the corona-virus in Morocco. We collect Moroccan news papers from several websites. Then we use natural language processing to detect and define entities that were involved in fighting the pandemic in Morocco. *[by Ibtissam Makdoun and Imane Khaouja](https://compsocialscience.github.io/summer-institute/2020/istanbul/people)*"
+    - name: "After Party (small breakout rooms)"
       time: "16:00 - 16:30"
-    - name: "[SICSS Festival](https://compsocialscience.github.io/summer-institute/2020/festival): *Opportunities and challenges with industry collaborations* ([Registration](https://docs.google.com/forms/d/e/1FAIpQLSeF_D2NJyS1lvFMX-tTv1qBEK2K69mx_IdarbUxhyKgGd-RuA/viewform))"
-      time: "17:00 - 18:00"
