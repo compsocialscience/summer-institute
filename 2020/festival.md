@@ -192,7 +192,7 @@ __Moderator:__ [Matthew Salganik](https://www.princeton.edu/~mjs3/) (SICSS-Princ
 
 __Description:__ Most big data sources are controlled by companies, and many computational social scientists struggle to get access to these data. These panelists, who have experience collaborating with companies on research projects, will share insights about initiating, developing, and maintaining productive collaborations between researchers and companies. They will discuss practical issues, such as negotiating data usage agreements and navigating legal considerations for both parties, as well as describe potential risks and ethical issues created by these collaborations. There will be time for questions from the audience.
 
-__Open to:__ Unlimited registered participants: [Registration form](https://forms.gle/j8qkaSysvzJgAoB38)
+__Open to:__ Unlimited registered participants. Registration has closed.
 
 __Archiving:__ This talk will be recorded and archived.
 
