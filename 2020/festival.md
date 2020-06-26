@@ -144,7 +144,12 @@ __Software by the speakers__:
 
 __Open to:__ Unlimited registered participants: Registration has closed.
 
-__Archiving:__ This talk will be recorded and archived.
+__Archiving:__ This talk will be recorded and archived. [Video](https://youtu.be/FpNEBQua0FA)
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FpNEBQua0FA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br/>
 
 ## Panel discussion on the non-academic job market in computational social science
 
