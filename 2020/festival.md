@@ -22,7 +22,7 @@ __Description:__ Teaching computational social science at both the undergraduate
 
 __Open to:__ Unlimited registered participants: Registration has closed.
 
-__Archiving:__ This talk will be recorded and archived. [Video](https://www.youtube.com/watch?v=ntXDMNABa_E)
+__Archiving:__ This talk will be recorded and archived. [Video](https://www.youtube.com/watch?v=ntXDMNABa_E&list=PL9UNgBC7ODr6eZkwB6W0QSzpDs46E8WPN)
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ntXDMNABa_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -55,7 +55,7 @@ __Description:__ In order to thrive, the field of computational social science n
 
 __Open to:__ Unlimited registered participants: Registration has closed.
 
-__Archiving:__ This talk will be recorded and archived. [Video](https://www.youtube.com/watch?v=FYES4RCRaZw)
+__Archiving:__ This talk will be recorded and archived. [Video](https://www.youtube.com/watch?v=FYES4RCRaZw&list=PL9UNgBC7ODr6eZkwB6W0QSzpDs46E8WPN)
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FYES4RCRaZw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -78,7 +78,7 @@ Co-organized with the [Maastricht Law and Tech Lab](https://www.maastrichtuniver
 
 __Open to:__ Unlimited registered participants. Registration has closed.
 
-__Archiving:__ This talk will be recorded and archived. [Video](https://youtu.be/7d-Dq0e1JJ0).
+__Archiving:__ This talk will be recorded and archived. [Video](https://youtu.be/7d-Dq0e1JJ0&list=PL9UNgBC7ODr6eZkwB6W0QSzpDs46E8WPN).
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7d-Dq0e1JJ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -97,7 +97,7 @@ __Description:__ The panel will begin with a broad introduction to digital and c
 
 __Open to:__ Unlimited registered participants: Registration has closed.
 
-__Archiving:__ This talk will be recorded and archived. [Video](https://youtu.be/BueR-DPy484)
+__Archiving:__ This talk will be recorded and archived. [Video](https://youtu.be/BueR-DPy484&list=PL9UNgBC7ODr6eZkwB6W0QSzpDs46E8WPN)
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BueR-DPy484" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -144,7 +144,7 @@ __Software by the speakers__:
 
 __Open to:__ Unlimited registered participants: Registration has closed.
 
-__Archiving:__ This talk will be recorded and archived. [Video](https://youtu.be/FpNEBQua0FA)
+__Archiving:__ This talk will be recorded and archived. [Video](https://youtu.be/FpNEBQua0FA&list=PL9UNgBC7ODr6eZkwB6W0QSzpDs46E8WPN)
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FpNEBQua0FA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -194,7 +194,7 @@ __Description:__ Most big data sources are controlled by companies, and many com
 
 __Open to:__ Unlimited registered participants. Registration has closed.
 
-__Archiving:__ This talk will be recorded and archived. [Video](https://www.youtube.com/watch?v=QI3b8-9N5eY)
+__Archiving:__ This talk will be recorded and archived. [Video](https://www.youtube.com/watch?v=QI3b8-9N5eY&list=PL9UNgBC7ODr6eZkwB6W0QSzpDs46E8WPN)
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QI3b8-9N5eY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -213,7 +213,7 @@ __Open to:__ 30 registered participants. Registration has closed.
 
 __Preparatory materials:__ All registered participants are strongly encouraged to work through and watch [Empirica videos A - E](https://www.youtube.com/playlist?list=PLPQelvUwyVgiawBDk3Sp74QMfL8RPgORW), which will require them to [install software](https://empirica.ly/docs/quick-start.html) on their computers.
 
-__Archiving:__ This talk will be recorded and archived. [Video](https://www.youtube.com/watch?v=-nzhD1Br-FM)
+__Archiving:__ This talk will be recorded and archived. [Video](https://www.youtube.com/watch?v=-nzhD1Br-FM&list=PL9UNgBC7ODr6eZkwB6W0QSzpDs46E8WPN)
 
 <div class="embed-responsive embed-responsive-16by9"> <a name="empirica_video"></a>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-nzhD1Br-FM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
