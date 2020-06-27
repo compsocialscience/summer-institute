@@ -213,9 +213,9 @@ __Open to:__ 30 registered participants. Registration has closed.
 
 __Preparatory materials:__ All registered participants are strongly encouraged to work through and watch [Empirica videos A - E](https://www.youtube.com/playlist?list=PLPQelvUwyVgiawBDk3Sp74QMfL8RPgORW), which will require them to [install software](https://empirica.ly/docs/quick-start.html) on their computers.
 
-__Archiving:__ This talk will be recorded and archived. [Video](https://www.youtube.com/watch?v=-nzhD1Br-FM&list=PL9UNgBC7ODr6eZkwB6W0QSzpDs46E8WPN)
+__Archiving:__ This talk will be recorded and archived. [Video](https://www.youtube.com/watch?v=NGBDgVWp0jc&list=PL9UNgBC7ODr6eZkwB6W0QSzpDs46E8WPN)
 
 <div class="embed-responsive embed-responsive-16by9"> <a name="empirica_video"></a>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-nzhD1Br-FM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NGBDgVWp0jc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br/>
