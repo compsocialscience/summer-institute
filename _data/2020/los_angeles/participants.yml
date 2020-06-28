@@ -1,12 +1,16 @@
 
 - name: Margarita Boyarskaya
-  image: /assets/images/Margarita_Boyarskaya_UCLA.jpeg
+  image: /assets/images/Margarita_Boyskaya_UCLA.jpeg
   bio: "Margarita Boyarskaya is a PhD student at NYU Stern Technology, Operations, and Statistics group working on causal models for algorithmic fairness. She holds a B.Sc. and a M.Sc. in theoretical mathematics from Moscow State University. Previously, Margarita was an intern with the FATE group at Microsoft Research."
 
 - name: Tania Cabello-Hutt
-  image: /assets/images/Tania_Cabello_Hunt_UCLA.jpg
+  image: /assets/images/Tania_Cabello_Hutt_UCLA.jpg
   bio: "Tania Cabello-Hutt is a Ph.D. student in Sociology at the University of North Carolina-Chapel Hill. Her main research interest is in gender inequality in the labor market, focusing on the transition to parenthood. For her dissertation, she draws on online data and experimental methods to study how 'family-friendly' benefits and workplaces shape discrimination against mothers and potential mothers. In collaborative projects, she examines gender and racial discrimination in hiring as well as family and employment trajectories over the life course."
 
+- name: Oscar Contreras
+  image: /assets/images/Oscar_Contreras_UCLA.jpeg
+  bio: "My focus is on computational methods to study and predict crime patterns and criminal networks."
+  
 - name: Kimberly Clair
   image: /assets/images/Kimberly_Clair_UCLA.jpg
   bio: "Kimberly Clair is a postdoctoral research fellow at the UCLA Semel Institute for Neuroscience & Human Behavior with training in ethnography (PhD, Gender Studies) and survey/administrative data analysis (MS, Community Health Sciences). Her research uses mixed methods to improve health services for trauma survivors, migrants, incarcerated youth, and veterans. Her current research examines factors associated with changes in health service use among homeless-experienced veterans who transition into supportive housing. She is interested in using computational social science to identify new data sources and innovative methods for evaluating clients’ experiences with health interventions."
@@ -24,15 +28,15 @@
   bio: "Hannah Hertenstein is a doctoral student in the school of sociology at the University of California, Irvine. Her research interests are in education inequality, school choice, and organizational ecology. Before coming to UC Irvine, she conducted research projects that involved geospatial analysis of school closures in Arizona. Hannah received her BA in sociology at the University of Arizona in 2019."
 
 - name: Cybele Kappos
-  image: /assets/images/Cybele_Kappos_UCLA.pdf
-  bio: "There was an error with this bio and it will appear here soon."
+  image: /assets/images/Cybele_Kappos_UCLA.jpg
+  bio: "Cybele Kappos is a Ph.D. student in Political Science at UCLA. Her research broadly focuses on democracy in the European Union. She is interested in disentangling how national interests and actors interact with the unique, supranational structure of the EU. She hopes to synthesize several different methodologies in her work including text analysis and supervised machine learning to understand the nuances of political discourse."
 
 - name: Benji Kaveladze
-  image: /assets/images/Benji_Kaveladze_UCLA.png
+  image: /assets/images/Benji_Kaveladze_UCLA.jpg
   bio: "Benji Kaveladze is a PhD student in Psychological Science at UC Irvine. He studies online mental health support communities, aiming to learn how to improve user experiences on these spaces."
 
 - name: Hye Min Kim
-  image: /assets/images/Hye_Min_Kim.jpeg
+  image: /assets/images/Hye_Min_Kim_UCLA.jpeg
   bio: "Hye Min Kim is a doctoral candidate at the USC Annenberg School for Communication. She earned her B.A. in Mass Communication and M.A. in Communication from Yonsei University in Seoul, South Korea. During her undergraduate years, she spent a year studying abroad at UCLA and she also worked as a news assistant intern at the CNN Seoul office for a semester. Her research interest revolves around the intersection of health, psychology, media, and communication, embracing diverse methodologies including experiment, survey, and computational methods. Her recent work explores psychological aspects of information seeking and processing as well as public discourse on social media especially about contentious health and other social issues."
 
 - name: Delaney Knorr
@@ -55,9 +59,13 @@
   image: /assets/images/Jieun_Park_UCLA.jpg
   bio: "Jieun is a Ph.D. student in political science at UCLA. Prior to UCLA, she was a profession researcher at Korea National Diplomatic Academy and Association of World Election Bodies. She completed a masters in International Relations at Seoul National University and a Bachelor degree in International Relations at Australian National University. Her research explores populism and anti-immigration sentiment. She is particularly interested in studying xenophobia/anti-immigration sentiment in Asian countries and the attitudes toward racial minorities in Western countries. Her ongoing project examines the causes of the attitudinal changes toward Asian immigrants in the US and Australia by analyzing survey results and text data of news coverage. She has published her work in Romanian Journal of Electoral Studies and presented at various conferences including MPSA, WPSA, and IPSA."
 
-- name: Fariba Siddiq
-  image: /assets/images/Fariba_Siddiq_UCLA.jpg
-  bio: "Fariba Siddiq is a Ph.D. student in Urban Planning at the University of California, Los Angeles specializing in transportation policy and planning. She is a graduate student researcher at the UCLA Institute of Transportation Studies. Her research interests lie in travel behavior, transportation equity and transportation and land use interaction."
+- name: Jieun Park
+  image: /assets/images/Jieun_Park_UCLA.jpg
+  bio: "Jieun is a Ph.D. student in political science at UCLA. Prior to UCLA, she was a profession researcher at Korea National Diplomatic Academy and Association of World Election Bodies. She completed a masters in International Relations at Seoul National University and a Bachelor degree in International Relations at Australian National University. Her research explores populism and anti-immigration sentiment. She is particularly interested in studying xenophobia/anti-immigration sentiment in Asian countries and the attitudes toward racial minorities in Western countries. Her ongoing project examines the causes of the attitudinal changes toward Asian immigrants in the US and Australia by analyzing survey results and text data of news coverage. She has published her work in Romanian Journal of Electoral Studies and presented at various conferences including MPSA, WPSA, and IPSA."
+
+- name: Nripsuta Ani Saxena
+  image: /assets/images/Ani_Saxena_UCLA.jpg
+  bio: "I am a PhD student in Computer Science at the University of Southern California. My research interests are, broadly, fairness in machine learning, AI for Social Good, and questions at the intersection of psychology and CS."
 
 - name: Gilad Wenig
   image: /assets/images/placeholderPic.png
@@ -68,5 +76,5 @@
   bio: "Valerie Wirtschafter is a Ph.D. candidate in political science at the University of California, Los Angeles. Her research interests include social media, public opinion, violent crime, post-conflict development, and quantitative methods. Her dissertation focuses on the effects of crowd-sourcing crime data through social media on political attitudes and perceptions of insecurity in Rio de Janeiro, Brazil. In this project, she utilizes both text analysis on hundred of thousands of social media posts and an online experiment."
 
 - name: Alexandra Wollum
-  image: /assets/images/Allie_Wollumn_UCLA.jpg
+  image: /assets/images/Allie_Wollum_UCLA.jpg
   bio: "Alexandra Wollum is a PhD student in the Community Health Sciences Department at the University of California, Los Angeles. She studies the intersection of social norms, social structures, and social movements on reproductive health. She received a MPH from the University of Washington in Global Health concentrating on health metrics and evaluation and a Bachelor’s degree from Tufts University in International Relations and Community Health."
