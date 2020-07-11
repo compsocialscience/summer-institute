@@ -71,4 +71,4 @@ Yes.  Here are some [sample budgets](https://docs.google.com/spreadsheets/d/1_2B
 
 - _Do you have any tips for how to run a partner location?_
 
-Yes.  Here's some [advice about running a partner location] (link coming soon).
+Yes.  Here's some [advice about running a partner location](https://github.com/compsocialscience/summer-institute/blob/master/partner_location_suggestions.md).
