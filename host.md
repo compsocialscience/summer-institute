@@ -4,53 +4,13 @@ title: Host a Partner Location
 subtitle: Application overview and process.
 ---
 
-<div id="hosting_a_partner_location"></div>
-
 ### Hosting a partner location
 
 Starting in 2018, the Summer Institutes in Computational Social Science (SICSS) began including partner locations in order to increase the number of participants. The Summer Institute is two weeks long and partner locations typically involve: 1) live-streamed lectures on topics ranging from automated text analysis to ethics; 2) training exercises to reinforce key ideas from lectures; 3) live-streamed research talks from leaders in the field; and 4) participant-led group research projects. This model has been used successfully at universities and companies around the world.
 
 The Summer Institutes are highly modular and the open source curriculum can be adapted to the skills and interests at each location. The minimum budget to support a partner location is about $15,000 but depends on local conditions. Here are some [sample budgets](https://docs.google.com/spreadsheets/d/1_2BimdmWNLSVYqTmwrEZcQxv3j3LCyU0hQyW0vZYCk8/edit?usp=sharing). If you have more questions about budgeting—or grants that may be available to support partner locations—please contact us at rsfcompsocsci@gmail.com.
-            
+
 In order to ensure quality and consistency, all partner locations must have a former participant of SICSS as one of the local organizers. If you don’t have any SICSS alumni at your organization, you can contact us about finding a former participant that could collaborate with you. For example, in 2019 Matti Nelimarkka (SICSS ‘17) collaborated with Akın Ünver to run a partner location in [Istanbul, Turkey](https://compsocialscience.github.io/summer-institute/2019/istanbul/) (Kadir Has University).
-
-<div id="previous_partner_locations"></div>
-
-### Previous Partner Locations
-
-<br/>
-
-<!-- <p><img src="https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2019/sicss_collage.png" alt="Collage of partner location" /></p> -->
-
-##### 2018
-
-There were 7 partner locations in 2018:
-[Hunter College](https://compsocialscience.github.io/summer-institute/2018/hunter-nyc/), 
-[New York University](https://compsocialscience.github.io/summer-institute/2018/nyu-nyc/), 
-[Northwestern University](https://compsocialscience.github.io/summer-institute/2018/chicago/), 
-[University of Cape Town](https://compsocialscience.github.io/summer-institute/2018/capetown/), 
-[University of Colorado](https://compsocialscience.github.io/summer-institute/2018/boulder), 
-[University of Helsinki](https://compsocialscience.github.io/summer-institute/2018/helsinki), 
-[University of Washington](https://compsocialscience.github.io/summer-institute/2018/seattle/)
-
-##### 2019
-
-There were 11 partner locations in 2019:
-[University of Bamberg](https://compsocialscience.github.io/summer-institute/2019/bamberg/), 
-[Boston, MA (MIT)](https://compsocialscience.github.io/summer-institute/2019/boston/), 
-[Cape Town, South Africa (University of Cape Town)](https://compsocialscience.github.io/summer-institute/2019/capetown), 
-[Chicago, IL (Northwestern University)](https://compsocialscience.github.io/summer-institute/2019/chicago/), 
-[Istanbul, Turkey (Kadir Has University)](https://compsocialscience.github.io/summer-institute/2019/istanbul/), 
-[Los Angeles, CA (UCLA)](https://compsocialscience.github.io/summer-institute/2019/los-angeles/), 
-[Monterrey, Mexico (Universidad Autónoma de Nuevo León)](https://compsocialscience.github.io/summer-institute/2019/monterrey/), 
-[Oxford, United Kingdom (Oxford University)](https://compsocialscience.github.io/summer-institute/2019/oxford/), 
-[New York, NY (Hunter College-CUNY)](https://compsocialscience.github.io/summer-institute/2019/hunter-nyc/), 
-[Research Triangle Park, NC (RTI International)](https://compsocialscience.github.io/summer-institute/2019/rtp/), 
-[Zürich, Switzerland (ETH Zürich)](https://compsocialscience.github.io/summer-institute/2019/ethzurich/)
-
-<br/>
-
-<div id="mission_and_guiding_principles"></div>
 
 ### Mission and guiding principles
 
@@ -58,23 +18,53 @@ The mission of the Summer Institutes in Computational Social Science is to provi
 
 As we work toward this mission, we will be guided by the following principles:
 
-- The training provided by SICSS will be free to participants.
+1. The training provided by SICSS will be free to participants.  
 
-- All materials that organizers develop will be released open source.
+2. All materials that organizers develop will be released open source.
 
-- Funders and partners will have no impact on content. Our firewall between funding and content will be modeled on high-quality news organizations, such as the *New York Times* and *National Public Radio*.
+3. Funders and partners will have no impact on content. Our firewall between funding and content will be modeled on high-quality news organizations, such as the _New York Times_ and _National Public Radio_.
 
-<br/>
 
-<div id="how_to_apply"></div>
+### Previous Partner Locations
+
+##### 2018
+
+There were 7 partner locations in 2018:
+[Hunter College](https://compsocialscience.github.io/summer-institute/2018/hunter-nyc/),
+[New York University](https://compsocialscience.github.io/summer-institute/2018/nyu-nyc/),
+[Northwestern University](https://compsocialscience.github.io/summer-institute/2018/chicago/),
+[University of Cape Town](https://compsocialscience.github.io/summer-institute/2018/capetown/),
+[University of Colorado](https://compsocialscience.github.io/summer-institute/2018/boulder),
+[University of Helsinki](https://compsocialscience.github.io/summer-institute/2018/helsinki),
+[University of Washington](https://compsocialscience.github.io/summer-institute/2018/seattle/)
+
+##### 2019
+
+There were 11 partner locations in 2019:
+[University of Bamberg](https://compsocialscience.github.io/summer-institute/2019/bamberg/),
+[Boston, MA (MIT)](https://compsocialscience.github.io/summer-institute/2019/boston/),
+[Cape Town, South Africa (University of Cape Town)](https://compsocialscience.github.io/summer-institute/2019/capetown),
+[Chicago, IL (Northwestern University)](https://compsocialscience.github.io/summer-institute/2019/chicago/),
+[Istanbul, Turkey (Kadir Has University)](https://compsocialscience.github.io/summer-institute/2019/istanbul/),
+[Los Angeles, CA (UCLA)](https://compsocialscience.github.io/summer-institute/2019/los-angeles/),
+[Monterrey, Mexico (Universidad Autónoma de Nuevo León)](https://compsocialscience.github.io/summer-institute/2019/monterrey/),
+[Oxford, United Kingdom (Oxford University)](https://compsocialscience.github.io/summer-institute/2019/oxford/),
+[New York, NY (Hunter College-CUNY)](https://compsocialscience.github.io/summer-institute/2019/hunter-nyc/),
+[Research Triangle Park, NC (RTI International)](https://compsocialscience.github.io/summer-institute/2019/rtp/),
+[Zürich, Switzerland (ETH Zürich)](https://compsocialscience.github.io/summer-institute/2019/ethzurich/)
+
+##### 2020
+
+There were 8 partner location in 2020: [SICSS-Bay Area](https://compsocialscience.github.io/summer-institute/2020/bay_area/), [SICSS-Istanbul](https://compsocialscience.github.io/summer-institute/2020/istanbul/), [SICSS-Maastricht](https://compsocialscience.github.io/summer-institute/2020/maastricht/), [SICSS-Montreal](https://compsocialscience.github.io/summer-institute/2020/montreal/), [SICSS-Rutgers](https://compsocialscience.github.io/summer-institute/2020/rutgers/), [SICSS-Stellenbosch](https://compsocialscience.github.io/summer-institute/2020/stellenbosch/), [SICSS-Los Angeles](https://compsocialscience.github.io/summer-institute/2020/los_angeles/), and [WICSS-Tuscon](https://compsocialscience.github.io/summer-institute/2020/tucson/).
+
+### How to Apply
+
+In order to apply to host a partner site, please submit [this form](https://docs.google.com/document/d/1E_9pcF3D7qbMUqKdGm8-bokOa_32l-dBylzT8HYviBA/edit?usp=sharing) to rsfcompsocsci[at]gmail[dot]com.  We do not yet have deadlines for applying to host a location for SICSS 2021.
+
 
 ### How to Apply
 
 In order to apply to host a partner site, please submit [this form](https://docs.google.com/document/d/1E_9pcF3D7qbMUqKdGm8-bokOa_32l-dBylzT8HYviBA/edit?usp=sharing) to rsfcompsocsci@gmail.com by November 1st, 2019. We will make our best effort to get back to you by November 15th, 2019.
-
-<br/>
-
-<div id="frequently_asked"></div>
 
 ### Frequently asked questions
 
@@ -88,7 +78,7 @@ That’s fine. Each year we have locations spread around the world. A common str
 
 ##### How can I learn more about what it is like at a partner location?
 
-At the end of each year, we write a post-mortem that describes what went well and what could be better at each of the partner locations. Here’s our [2018 post-mortem](https://msalganik.wordpress.com/2018/08/07/summer-institutes-in-computational-social-science-2018-post-mortem/). Also, here are some articles and blog posts about the Summer Institutes:
+At the end of each year, we write a post-mortem that describes what went well and what could be better at each of the partner locations. Here's our [2018 post-mortem](https://msalganik.wordpress.com/2018/08/07/summer-institutes-in-computational-social-science-2018-post-mortem/) and our [2019 post-mortem](https://msalganik.wordpress.com/2019/09/19/summer-institutes-in-computational-social-science-2019-post-mortem/). Also, here are some articles and blog posts about the Summer Institutes:
 
 - [Summer institute advances social science in the digital age](https://www.princeton.edu/news/2019/07/16/summer-institute-advances-social-science-digital-age)
 - [Using Data Science to Solve Social Science Dilemmas: Exploring the promises and problems of big data at the Summer Institute In Computational Social Science](https://www.rti.org/insights/using-data-science-solve-social-science-dilemmas)
@@ -99,4 +89,8 @@ At the end of each year, we write a post-mortem that describes what went well an
 
 ##### Do you have any sample budgets?
 
-Yes. Here are some [sample budgets](https://docs.google.com/spreadsheets/d/1_2BimdmWNLSVYqTmwrEZcQxv3j3LCyU0hQyW0vZYCk8/edit?usp=sharing) for a partner location with 20 participants. However, you will need to adjust the numbers to align with the costs at your location.
+Yes. Here are some [sample budgets](https://docs.google.com/spreadsheets/d/1_2BimdmWNLSVYqTmwrEZcQxv3j3LCyU0hQyW0vZYCk8/edit?usp=sharing) for an in-person partner location with 20 participants. However, you will need to adjust the numbers to align with the costs at your location.
+
+##### _Do you have any tips for how to run a partner location?_
+
+Yes.  Here's some [advice about running a partner location](https://github.com/compsocialscience/summer-institute/blob/master/partner_location_suggestions.md).
