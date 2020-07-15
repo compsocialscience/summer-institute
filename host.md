@@ -59,7 +59,7 @@ There were 8 partner location in 2020: [SICSS-Bay Area](https://compsocialscienc
 
 ### How to Apply
 
-In order to apply to host a partner site, please submit [this form](https://docs.google.com/document/d/1E_9pcF3D7qbMUqKdGm8-bokOa_32l-dBylzT8HYviBA/edit?usp=sharing) to rsfcompsocsci[at]gmail[dot]com.  We do not yet have deadlines for applying to host a location for SICSS 2021.
+In order to apply to host a partner site, please complete [this application](https://docs.google.com/document/d/12S49nMOtPJb_h6OZkEuexjuQEubIPRa06r9TddIyF5Q/edit?usp=sharing) and send it to rsfcompsocsci[at]gmail[dot]com.  We do not yet have deadlines for applying to host a location for SICSS 2021.
 
 
 ### How to Apply
