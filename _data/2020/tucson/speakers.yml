@@ -18,15 +18,15 @@
   bio: "My research is in formal semantics with a special focus on the indigenous languages of Mesoamerica, languages on which I have done many years of fieldwork. I am particularly excited about using tools from the natural language processing world to speed the annotation, documentation, and description of endangered languages."
   website: https://linguistics.arizona.edu/user/robert-henderson
   
-- name: Javier Osorio
-  image: /assets/images/javier_osorio.jpg
-  bio: "Javier Osorio is an Assistant Professor in the School of Government and Public Policy at the University of Arizona. His research focused on understanding the micro-foundations and dynamics of political and criminal violence in Latin America. To address this research agenda, he uses natural language processing, quasi-experimental and experimental techniques, geographic information systems, and big data analytics."
-  website: https://sgpp.arizona.edu/people/javier-osorio
-
 - name: Samara Klar
   image: /assets/images/Samara_Klar.jpg
   bio: "Samara Klar is an Associate Professor of Political Science at the University of Arizona School of Government & Public Policy. Dr. Klar studies why voters support policies and candidates, especially given the influence of their personal and social identities, their social networks, and their information environments. Her award-winning book, Independent Politics: How American Disdain Leads to Political Inaction (Cambridge University Press 2016), explains why so many Americans identify as politically independent and what the consequences are for American democracy."
   website: http://samaraklar.com/
+  
+- name: Javier Osorio
+  image: /assets/images/javier_osorio.jpg
+  bio: "Javier Osorio is an Assistant Professor in the School of Government and Public Policy at the University of Arizona. His research focused on understanding the micro-foundations and dynamics of political and criminal violence in Latin America. To address this research agenda, he uses natural language processing, quasi-experimental and experimental techniques, geographic information systems, and big data analytics."
+  website: https://sgpp.arizona.edu/people/javier-osorio
   
 - name: Fernando Sanchez
   image: /assets/images/Fernando_Sanchez_lowRes_Square.jpg
