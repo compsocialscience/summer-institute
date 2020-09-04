@@ -6,6 +6,9 @@ In addition to the main videos and course materials developed by SICSS Co-Founde
 
 Matti Nelimarkka and Akin Unver, taught in English using R
 
+#### Pre-SICSS: Tasks
+- Theory and practise rarely meet in the real world. Therefore instead of writing tutorials which are long, fancy and full with nice codes, we are going to suggest three introductory guides and two abstract case studies, and provide guidance every week till SICSS via zoom and Slack. The tasks cover data collection, cleaning and reporting. We are leaving the analysis to SICSS weeks. [Tasks](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/istanbul/pre-SICSS%20tasks.md)
+
 #### Day 1: Introduction and Ethics
 - What is research ethics and why it matters? A global perspective [Slides](https://urldefense.proofpoint.com/v2/url?u=https-3A__github.com_compsocialscience_summer-2Dinstitute_raw_master_2019_istanbul_material_ethics.pptx&d=DwIGaQ&c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&r=MT-Z8xM6IWJcuwrMhSS_orYu7NXahq6npuGw-mSN924&m=QEYf9cwWx9lcuK9gAxPyHiaA3al45OOGH5CAesCZG7I&s=B03rM77JvWOqLXC-W6or1m2FdNqeK-8xY-r0gOR0yng&e= )
 

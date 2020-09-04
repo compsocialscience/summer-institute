@@ -25,6 +25,10 @@ speakers:
       bio: Dennis Feehan is a demographer and quantitative social scientist. His research interests lie at the intersection of networks, demography, and quantitative methodology. He's an Assistant Professor of Demography at the University of California, Berkeley. In the summer of 2015, he finished his Ph.D. at Princeton’s Office of Population Research, and he spent the fall of 2015 as a Research Scientist at Facebook.
       website: https://dennisfeehan.org/
       
+    - name: Aniket Kesari 
+      image: /assets/images/aniket_kesari.jpg 
+      bio: Aniket Kesari is a postdoctoral scholar at UC Berkeley's D-Lab. He completed his PhD at Berkeley Law, where he specialized in Law & Economics, and he is also a JD candidate at Yale University. During graduate school, he was a Google Policy Fellow at Engine, a Data Science for Social Good Fellow at the University of Chicago, an a Technology Policy Intern at GitHub. His primary research interests lie in law & technology, data science and public policy. His current research agenda focuses on using data science to answer questions in privacy and cybercrime law.
+      
     - name: Eli Ben-Michael
       image: /assets/images/eli_ben_michael.jpg
       bio: "Eli Ben-Michael is a PhD candidate in statistics at U.C. Berkeley. Previously, he studied at Columbia University where he earned a bachelor's degree in computer science and statistics. Drawing from computational statistics, optimization, and machine learning, he works on developing methods for causal inference and applying them to problems in the social sciences."
@@ -65,7 +69,7 @@ organizers:
   people:
     - name: Jae Yeon Kim
       image: /assets/images/jae_yeon_kim.png
-      bio: Jae Yeon Kim is a PhD candidate in Political Science, a D-Lab data science fellow, and a data science education program fellow at UC Berkeley. He uses behavioral science, statistics, and data science tools to study how people think and behave with a focus on diversity and inclusion issues. His award-winning dissertation applies computational, statistical, and qualitative methods to understand what unites racial minority groups in the United States. His most recent research interest is narrowing the gap between the ethics and practice of using machine learning.
+      bio: Jae Yeon Kim is a PhD candidate in Political Science, a D-Lab data science fellow, and a data science education program fellow at UC Berkeley. He uses data science to advance social science research on diversity inclusion. His award-winning dissertation applies computational, statistical, and qualitative methods to understand what unites racial minority groups in the United States. His most recent research investigates intersectional bias in hate speech and abusive language datasets.
       website: https://jaeyk.github.io/
 
     - name: Jaren Haber

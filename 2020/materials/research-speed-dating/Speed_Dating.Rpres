@@ -188,7 +188,7 @@ Let's crowdsource a list of our research interests
 Place the name of a research interest in the first column of this
 document, and write a "1" across all research interests you have:
 
-https://tinyurl.com/y867xb4s
+https://tinyurl.com/y9lgnl5y
 
 
 
@@ -201,6 +201,7 @@ class: small-code
 library(googlesheets4)
 library(janitor)
 library(naniar)
+library(tidyverse)
 gs4_deauth()
 #link
 ss <- "https://docs.google.com/spreadsheets/d/1B_ezJHdxCM1wgPpUUaCHDTpwNOZV7XtPXkmGDY9Ift4/edit#gid=0"
@@ -208,11 +209,13 @@ ss <- "https://docs.google.com/spreadsheets/d/1B_ezJHdxCM1wgPpUUaCHDTpwNOZV7XtPX
 dat <- read_sheet(ss, sheet = "Sample")
 #clean variable names
 dat <- clean_names(dat)
-#replace NAs with 0s
-dat <- dat %>% replace(is.na(.), 0)
-dat <- dat %>% filter(name != "SAMPLE NAME.")
+dat <- dat %>% filter(name != "SAMPLE STUDENT")
 #select variables needed for group creation
 dat <- dat %>% select(-c(email))
+#replace NAs with 0s
+dat <- dat %>% replace(is.na(.), 0)
+
+glimpse(dat)
 ```
 
 Identify Maximally similar
@@ -268,7 +271,8 @@ Identify maximally diverse groups
 &nbsp;
 
 ```{r, eval=TRUE, echo = FALSE}
-
+#organizers, people may be assigned to more than one group 
+#they should choose or you should assign them to one 
 final$diversity_score<-as.character(final$diversity_score)
 final$diversity_score<-as.numeric(final$diversity_score)
 final<-final[order(final$diversity_score, decreasing=TRUE),]
