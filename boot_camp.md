@@ -10,14 +10,24 @@ Jump to a topic: [Welcome.](#welcome) [Installing R Studio.](#install) [R Basics
 
 # Welcome <a name="welcome"></a>
 
-## Panel discussion on teaching computational social science
-
 This video introduces you to SICSS boot camp, explains our philosophy, and tells you how to get started
 
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/QB5ypzhIMA8" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 
 # Installing RStudio <a name="install"></a>
 
+Learn how to install both the R software and Rstudio and customize your interface.
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/ulIv0NiVTs4" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 
 # R Basics <a name="basics"></a>
