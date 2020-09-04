@@ -6,7 +6,8 @@ layout: page
 
 SICSS Boot camp is an online training program designed to provide you with beginner level skills in coding so that you can follow the more advanced curriculum we teach at the partner locations of the Summer Institutes in Computational Social Science. The videos and materials linked below are designed for *complete beginners.* To learn more-- or get started--click on the "Welcome to Boot Camp" video below.
 
-Jump to a topic: [Welcome.](#welcome) [Installing R Studio.](#install) [R Basics.](#basics) [Data "Wrangling".](#wrangling) [Visualization.](#visualization)[Basic Programming](#programming)[Modelling](#modelling)[Communicating and Collaborating](#communicate)
+Jump to a topic: 
+[Welcome.](#welcome) [Installing R Studio.](#install) [R Basics.](#basics) [Data "Wrangling".](#wrangling) [Visualization.](#visualization)[Basic Programming](#programming)[Modelling](#modelling)[Communicating and Collaborating](#communicate)
 
 # Welcome <a name="welcome"></a>
 
