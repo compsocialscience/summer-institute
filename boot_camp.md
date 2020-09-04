@@ -1,10 +1,10 @@
 ---
-title: SICSS Festival 2020
-subtitle: "June 22 - June 26, 2020"
+title: SICSS Boot Camp (Beta)
+subtitle: 
 layout: page
 ---
 
-The SICSS Festival 2020 will take place Monday, June 22 - Friday, June 26, 2020. During the festival, alumni from all SICSS locations would host events such as tutorials, panel discussions, or debates.  These events will all be online.  SICSS Festival events will be open to either current SICSS participants (at any location) or anyone that is interested; the choice of audience will be driven by the topic, learning objectives, and preferences of presenters.  If you are a SICSS alumni and would like to host an event in the festival, please send us an email with a rough sketch of your idea.  We will be adding events to this website as they are finalized.
+SICSS Boot camp is an online training program designed to provide you with beginner level skills in coding so that you can follow the more advanced curriculum we teach at the partner locations of the Summer Institutes in Computational Social Science. The videos and materials linked below are designed for *complete beginners.* To learn more-- or get started--click on the "Welcome to Boot Camp" video below.
 
 Jump to a day: [Monday.](#monday) [Tuesday.](#tuesday) [Wednesday.](#wednesday) [Thursday.](#thursday) [Friday.](#friday)
 
