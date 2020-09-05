@@ -6,19 +6,20 @@ layout: page
 
 SICSS Boot camp is an online training program designed to provide you with beginner level skills in coding so that you can follow the more advanced curriculum we teach at the partner locations of the Summer Institutes in Computational Social Science. The videos and materials linked below are designed for *complete beginners* and are best viewed as a sequence since each video builds upon content introduced in previous tutorials. To learn more-- or get started--click on the "Welcome to Boot Camp" video below.
 
-Jump to a topic: 
+Jump to a topic: <br />
 [Welcome](#welcome)<br />
 [Installing R Studio](#install) <br />
 [R Basics](#basics) <br />
 [Data "Wrangling"](#wrangling) <br />
 [Visualization](#visualization)<br />
 [Basic Programming](#programming)<br />
-[Modelling](#modelling)<br />
+[Modeling](#modeling)<br />
 [Communicating and Collaborating](#communicate)<br />
+<br />
 
 # Welcome to Boot Camp <a name="welcome"></a>
 
-This video introduces you to SICSS boot camp, explains our philosophy, and tells you how to get started.
+This video introduces you to SICSS boot camp, explains our philosophy, and tells you how to get started (2:44).
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QB5ypzhIMA8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -29,7 +30,7 @@ This video introduces you to SICSS boot camp, explains our philosophy, and tells
 
 # Installing RStudio <a name="install"></a>
 
-An introduction to open-source software that teaches you how to install both R and Rstudio and customize your interface.  
+An introduction to open-source software that teaches you how to install both R and Rstudio and customize your interface (14:11).  
 
 
 <div class="embed-responsive embed-responsive-16by9">
@@ -41,7 +42,7 @@ Additional Resources: [Installing Rstudio on Windows/Mac](https://rstudio-educat
 
 # R Basics <a name="basics"></a>
 
-Create and name different types of objects (e.g. vectors and dataframes) and learn about different classes of objects (e.g. numeric vs. string) as well as special features that make RStudio easier to use.
+Create and name different types of objects (e.g. vectors and dataframes) and learn about different classes of objects (e.g. numeric vs. string) as well as special features that make RStudio easier to use (17:36).
 
 
 <div class="embed-responsive embed-responsive-16by9">
@@ -57,7 +58,7 @@ Additional Resources: [R for Data Science (Chapter 4)](https://r4ds.had.co.nz/wo
 
 # Data "Wrangling"<a name="wrangling"></a>
 
-Learn how to clean, reshape, and restructure data with the tidyverse
+Learn how to clean, reshape, and restructure data with the tidyverse (22:45).
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sXVP9256JSQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -102,7 +103,7 @@ Additional Resources: [R for Data Science (Chapters 17-21)](https://r4ds.had.co.
 
 
 
-# Modelling <a name="modelling"></a>
+# Modelling <a name="modeling"></a>
 
 Bivariate plots, multivariate regression, and more!
 
