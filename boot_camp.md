@@ -54,6 +54,7 @@ Materials from Video: [Coronavirus Tweets Dataset](https://compsocialscience.git
 
 Additional Resources: [R for Data Science (Chapter 4)](https://r4ds.had.co.nz/workflow-basics.html)
 
+Exercises: COMING SOON!
 
 
 # Data "Wrangling"<a name="wrangling"></a>
@@ -69,11 +70,12 @@ Materials from Video: [Apple Mobility Dataset](https://compsocialscience.github.
 
 Additional Resources: [R for Data Science (Chapters 9-13)](https://r4ds.had.co.nz/wrangle-intro.html)
 
+Exercises: COMING SOON!
 
 
 # Visualization <a name="visualization"></a>
 
-Learn how to visualize your data using ggplot
+Learn how to visualize your data using ggplot (30:54)
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G2lMBNkbggg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -84,15 +86,16 @@ Materials from Video: [Apple Mobility .csv file](https://compsocialscience.githu
 
 Additional Resources: [R for Data Science (Chapters 3 & 28)](https://r4ds.had.co.nz/data-visualisation.html)
 
+Exercises: COMING SOON!
 
 
 
 # Basic Programming <a name="programming"></a>
 
-Write functions, loops, and learn how to debug your code
+Write functions, loops, and learn how to debug your code (28:32)
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXVP9256JSQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iP1SU5zBIxE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br/>
 
@@ -101,19 +104,23 @@ Materials from Video: [Senators Dataset](https://compsocialscience.github.io/sum
 
 Additional Resources: [R for Data Science (Chapters 17-21)](https://r4ds.had.co.nz/program-intro.html)
 
+Exercises: COMING SOON!
 
 
 # Modelling <a name="modeling"></a>
 
-Bivariate plots, multivariate regression, and more!
+Bivariate plots, multivariate regression, and more (14:32)!
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXVP9256JSQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ql_vfdAec2Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br/>
 
 Materials from Video: [Opioid Dataset](https://compsocialscience.github.io/summer-institute/assets/datasets/Wapo_Opioid_Data.Rdata)
+
 Additional Resources: [R for Data Science (Chapters 22-25)](https://r4ds.had.co.nz/model-intro.html)
+
+Exercises: COMING SOON!
 
 
 # Communicating and Collaborating <a name="communicate"></a>
@@ -121,10 +128,12 @@ Additional Resources: [R for Data Science (Chapters 22-25)](https://r4ds.had.co.
 RMarkdown, Rpres, Shiny and Github
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXVP9256JSQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/98IcckSOfnw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br/>
 
 Additional Resources: [R for Data Science (Chapters 26 & 27)](https://r4ds.had.co.nz/communicate-intro.html)
+
+Exercises: COMING SOON!
 
 
