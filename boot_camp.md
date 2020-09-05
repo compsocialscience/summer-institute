@@ -32,6 +32,8 @@ Learn how to install both the R software and Rstudio and customize your interfac
 
 # Data "Wrangling"<a name="wrangling"></a>
 
+[Video](https://www.youtube.com/watch?v=vVcH_OvrLEM)
+
 
 # Visualization <a name="visualization"></a>
 
