@@ -4,7 +4,7 @@ subtitle:
 layout: page
 ---
 
-SICSS Boot camp is an online training program designed to provide you with beginner level skills in coding so that you can follow the more advanced curriculum we teach at the partner locations of the Summer Institutes in Computational Social Science. The videos and materials linked below are designed for *complete beginners* and are best consumed as a sequence. To learn more-- or get started--click on the "Welcome to Boot Camp" video below.
+SICSS Boot camp is an online training program designed to provide you with beginner level skills in coding so that you can follow the more advanced curriculum we teach at the partner locations of the Summer Institutes in Computational Social Science. The videos and materials linked below are designed for *complete beginners* and are best viewed as a sequence since each video builds upon content introduced in previous tutorials. To learn more-- or get started--click on the "Welcome to Boot Camp" video below.
 
 Jump to a topic: 
 [Welcome](#welcome)</br>
@@ -16,7 +16,7 @@ Jump to a topic:
 [Modelling](#modelling)
 [Communicating and Collaborating](#communicate)
 
-# Welcome <a name="welcome"></a>
+# Welcome to Boot Camp <a name="welcome"></a>
 
 This video introduces you to SICSS boot camp, explains our philosophy, and tells you how to get started.
 
