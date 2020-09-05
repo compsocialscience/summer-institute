@@ -37,6 +37,7 @@ An introduction to open-source software that teaches you how to install both R a
 </div>
 <br/>
 
+Additional Resources: [Installing Rstudio on Windows/Mac](https://rstudio-education.github.io/hopr/starting.html)
 
 # R Basics <a name="basics"></a>
 
@@ -48,6 +49,11 @@ Create and name different types of objects (e.g. vectors and dataframes) and lea
 </div>
 <br/>
 
+Materials from Video: [Coronavirus Tweets Dataset](https://compsocialscience.github.io/summer-institute/assets/datasets/Coronavirus_Tweets.Rdata)
+
+Additional Resources: [R for Data Science (Chapter 4)](https://r4ds.had.co.nz/workflow-basics.html)
+
+
 
 # Data "Wrangling"<a name="wrangling"></a>
 
@@ -57,6 +63,11 @@ Learn how to clean, reshape, and restructure data with the tidyverse
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sXVP9256JSQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br/>
+
+Materials from Video: [Apple Mobility Dataset](https://compsocialscience.github.io/summer-institute/assets/datasets/Apple_Mobility_Data.Rdata)
+
+Additional Resources: [R for Data Science (Chapters 9-13)](https://r4ds.had.co.nz/wrangle-intro.html)
+
 
 
 # Visualization <a name="visualization"></a>
@@ -68,6 +79,13 @@ Learn how to visualize your data using ggplot
 </div>
 <br/>
 
+Materials from Video: [Apple Mobility .csv file](https://compsocialscience.github.io/summer-institute/assets/datasets/apple_mobility_data.csv)
+
+Additional Resources: [R for Data Science (Chapters 3 & 28)](https://r4ds.had.co.nz/data-visualisation.html)
+
+
+
+
 # Basic Programming <a name="programming"></a>
 
 Write functions, loops, and learn how to debug your code
@@ -76,6 +94,13 @@ Write functions, loops, and learn how to debug your code
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sXVP9256JSQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br/>
+
+
+Materials from Video: [Senators Dataset](https://compsocialscience.github.io/summer-institute/assets/datasets/Senators_Data.Rdata)
+
+Additional Resources: [R for Data Science (Chapters 17-21)](https://r4ds.had.co.nz/program-intro.html)
+
+
 
 # Modelling <a name="modelling"></a>
 
@@ -86,6 +111,10 @@ Bivariate plots, multivariate regression, and more!
 </div>
 <br/>
 
+Materials from Video: [Opioid Dataset](https://compsocialscience.github.io/summer-institute/assets/datasets/Wapo_Opioid_Data.Rdata)
+Additional Resources: [R for Data Science (Chapters 22-25)](https://r4ds.had.co.nz/model-intro.html)
+
+
 # Communicating and Collaborating <a name="communicate"></a>
 
 RMarkdown, Rpres, Shiny and Github
@@ -94,4 +123,7 @@ RMarkdown, Rpres, Shiny and Github
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sXVP9256JSQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br/>
+
+Additional Resources: [R for Data Science (Chapters 26 & 27)](https://r4ds.had.co.nz/communicate-intro.html)
+
 
