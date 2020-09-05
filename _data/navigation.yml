@@ -2,6 +2,8 @@
   url: "/"
 - name: Locations
   url: "/locations"
+- name: Boot Camp (Beta)
+  url: "/boot_camp"
 - name: Learn Online
   url: "/curriculum"
 - name: People
