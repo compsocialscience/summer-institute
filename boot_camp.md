@@ -59,12 +59,11 @@ Learn how to clean, reshape, and restructure data with the tidyverse
 <br/>
 
 
-
 # Visualization <a name="visualization"></a>
 
 Learn how to visualize your data using ggplot
 
-div class="embed-responsive embed-responsive-16by9">
+<div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sXVP9256JSQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br/>
@@ -73,7 +72,7 @@ div class="embed-responsive embed-responsive-16by9">
 
 Write functions, loops, and learn how to debug your code
 
-div class="embed-responsive embed-responsive-16by9">
+<div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sXVP9256JSQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br/>
@@ -82,7 +81,7 @@ div class="embed-responsive embed-responsive-16by9">
 
 Bivariate plots, multivariate regression, and more!
 
-div class="embed-responsive embed-responsive-16by9">
+<div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sXVP9256JSQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br/>
@@ -91,7 +90,7 @@ div class="embed-responsive embed-responsive-16by9">
 
 RMarkdown, Rpres, Shiny and Github
 
-div class="embed-responsive embed-responsive-16by9">
+<div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sXVP9256JSQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br/>
