@@ -14,7 +14,7 @@ Jump to a topic:
 This video introduces you to SICSS boot camp, explains our philosophy, and tells you how to get started
 
 
-[Video](https://www.youtube.com/embed/QB5ypzhIMA8)
+[Video](https://www.youtube.com/watch?v=QB5ypzhIMA8)
 
 
 # Installing RStudio <a name="install"></a>
@@ -22,13 +22,13 @@ This video introduces you to SICSS boot camp, explains our philosophy, and tells
 Learn how to install both the R software and Rstudio and customize your interface.
 
 
-[Video](https://www.youtube.com/embed/ulIv0NiVTs4)
+[Video](https://www.youtube.com/watch?v=ulIv0NiVTs4)
 
 
 
 # R Basics <a name="basics"></a>
 
-
+[Video](https://www.youtube.com/watch?v=vVcH_OvrLEM)
 
 # Data "Wrangling"<a name="wrangling"></a>
 
