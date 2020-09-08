@@ -23,7 +23,7 @@ Applicants must submit the following documents: (i) a curriculum vitae, (ii) a s
 
 To apply, please fill out the [application form](https://forms.gle/A9ahpBgYttsAV6zG6).
 
-**To be guaranteed full consideration, all application materials must be submitted before July 1, 2020
+**To be guaranteed full consideration, all application materials must be submitted before November 1, 2020
 
 Inquiries can be sent to wicss.tucson@gmail.com.
 
