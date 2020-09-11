@@ -1,1 +1,0 @@
-<div>Due to COVID-19, some locations of the 2020 Summer Institutes in Computational Social Science have become virtual events and others have been postponed until 2021. Please see the <a href="https://docs.google.com/document/d/1KWpsk34K87dy6j25CTwAbRgMeFLivilPj_08av51ddk/edit?usp=sharing">SICSS COVID-19 FAQs</a> for more information.</div>
