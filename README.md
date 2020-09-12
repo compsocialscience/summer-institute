@@ -88,6 +88,12 @@ sidebar:
 
 Each location should have it's own unique directory within the file structure. This means, that each location will have a specific directory filled with `YAML` data in `_data/{year}`, as well as a directory of Markdown files in the appropriate year at the root of the project. For simplicity, when creating a new location, we recommend copying the settings from an existing location as a starting point.
 
+## Customizing how the location appears on the locations page
+
+By adding "apply_button: hidden" in `location.yml`, that location's Apply button will be hidden on the location list page, the global apply screen, and the sidebar for that location.
+
+The order of the locations is determined first by the location's order key in their `location.yml` file  (e.g., order: 99) and secondly by the location's title. In other words, the "title" is the the tie break.
+
 # Adding Additional Location Detail Pages
 
 You're free to add additional pages by created a new Markdown file in the directory that would map to the URL that you desire. For example, `/duke/2017/models.md` would be available at the URL `duke/2017/models`.
