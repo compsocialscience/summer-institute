@@ -3,11 +3,11 @@
   events:
 
 - date: 2021-01-05
-  name: "Experiments"
+  name: "Surveys and Experiments"
   events:
 
 - date: 2021-01-06
-  name: "Digital Traces"
+  name: "Digital Traces: APIs and Web Scraping"
   events:
 
 - date: 2021-01-07
@@ -15,7 +15,7 @@
   events:
 
 - date: 2021-01-08
-  name: "Machine Learning and Text"
+  name: "Machine Learning and Text Analysis"
   events:
 
 - date: 2021-01-09
