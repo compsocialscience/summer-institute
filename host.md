@@ -73,7 +73,7 @@ That’s fine. Each year we have locations spread around the world. A common str
 
 ##### How can I learn more about what it is like at a partner location?
 
-At the end of each year, we write a post-mortem that describes what went well and what could be better at each of the partner locations. Here's our [2018 post-mortem](https://msalganik.wordpress.com/2018/08/07/summer-institutes-in-computational-social-science-2018-post-mortem/) and our [2019 post-mortem](https://msalganik.wordpress.com/2019/09/19/summer-institutes-in-computational-social-science-2019-post-mortem/). Also, here are some articles and blog posts about the Summer Institutes:
+At the end of each year, we write a post-mortem that describes what went well and what could be better at each of the partner locations. Here are our post-mortems from [2018](https://msalganik.wordpress.com/2018/08/07/summer-institutes-in-computational-social-science-2018-post-mortem/), [2019](https://msalganik.wordpress.com/2019/09/19/summer-institutes-in-computational-social-science-2019-post-mortem/), and [2020](https://msalganik.wordpress.com/2020/08/19/summer-institutes-in-computational-social-science-2020-post-mortem/). Also, here are some articles and blog posts about the Summer Institutes:
 
 - [Summer institute advances social science in the digital age](https://www.princeton.edu/news/2019/07/16/summer-institute-advances-social-science-digital-age)
 - [Using Data Science to Solve Social Science Dilemmas: Exploring the promises and problems of big data at the Summer Institute In Computational Social Science](https://www.rti.org/insights/using-data-science-solve-social-science-dilemmas)
