@@ -81,6 +81,7 @@ At the end of each year, we write a post-mortem that describes what went well an
 - [Professor Maria Rodriguez and Princeton-based Institute Bring Computational Social Science Researchers to Silberman](https://sssw.hunter.cuny.edu/professor-maria-rodriguez-and-princeton-based-institute-bring-computational-social-science-researchers-to-silberman/)
 - [‘A great measure of our success is the community that SICSS creates’. Chris Bail and Matt Salganik on the Summer Institute in Computational Social Science](https://ocean.sagepub.com/bloga-great-measure-of-our-success-is-the-community-that-sicss-creates-chris-bail-and-matt-salganik-on-the-summer-institute-in-computational-social-science)
 - [New ways of thinking about social science research. My time at the Summer Institute in Computational Social Science](https://ocean.sagepub.com/blog/new-ways-of-thinking-about-social-science-research-my-time-at-the-summer-institute-in-computational-social-science)
+- [BAY-SICSS: Bridging Computational Social Scientists and Practitioners for Social Good](https://bids.berkeley.edu/news/bay-sicss-bridging-computational-social-scientists-and-practitioners-social-good)
 
 ##### Do you have any sample budgets?
 
