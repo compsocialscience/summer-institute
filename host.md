@@ -6,7 +6,7 @@ subtitle: Application overview and process.
 
 ### Hosting a partner location
 
-Starting in 2018, the Summer Institutes in Computational Social Science (SICSS) began including partner locations in order to increase the number of participants. The Summer Institute is two weeks long and partner locations typically involve: 1) live-streamed lectures on topics ranging from automated text analysis to ethics; 2) training exercises to reinforce key ideas from lectures; 3) live-streamed research talks from leaders in the field; and 4) participant-led group research projects. This model has been used successfully at universities and companies around the world.
+Starting in 2018, the Summer Institutes in Computational Social Science (SICSS) began including partner locations in order to increase the number of participants. The Summer Institute is two weeks long and partner locations typically involve: 1) pre-recorded or live-streamed lectures on topics ranging from automated text analysis to ethics; 2) training exercises to reinforce key ideas from lectures; 3) live-streamed research talks from leaders in the field; and 4) participant-led group research projects. This model has been used successfully at universities and companies around the world.
 
 The Summer Institutes are highly modular and the open source curriculum can be adapted to the skills and interests at each location. The minimum budget to support a partner location is about $15,000 but depends on local conditions. Here are some [sample budgets](https://docs.google.com/spreadsheets/d/1_2BimdmWNLSVYqTmwrEZcQxv3j3LCyU0hQyW0vZYCk8/edit?usp=sharing). If you have more questions about budgeting—or grants that may be available to support partner locations—please contact us at rsfcompsocsci@gmail.com.
 
@@ -23,7 +23,6 @@ As we work toward this mission, we will be guided by the following principles:
 2. All materials that organizers develop will be released open source.
 
 3. Funders and partners will have no impact on content. Our firewall between funding and content will be modeled on high-quality news organizations, such as the _New York Times_ and _National Public Radio_.
-
 
 ### Previous Partner Locations
 
@@ -59,7 +58,7 @@ There were 8 partner location in 2020: [SICSS-Bay Area](https://compsocialscienc
 
 ### How to Apply
 
-In order to apply to host a partner site, please complete [this application](https://docs.google.com/document/d/12S49nMOtPJb_h6OZkEuexjuQEubIPRa06r9TddIyF5Q/edit?usp=sharing) and send it to rsfcompsocsci[at]gmail[dot]com.  We do not yet have deadlines for applying to host a location for SICSS 2021.
+In order to apply to host a partner site, please complete [this application](https://docs.google.com/document/d/12S49nMOtPJb_h6OZkEuexjuQEubIPRa06r9TddIyF5Q/edit?usp=sharing) and send it to rsfcompsocsci[at]gmail[dot]com.  **Applications to host a partner site in 2021 are due on Monday, November 16th by 5pm**. We will aim to provide a reponse to your application by Monday, December 7th.
 
 ### Frequently asked questions
 
