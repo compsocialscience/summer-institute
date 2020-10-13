@@ -107,4 +107,8 @@ Yes. Here are some [sample budgets](https://docs.google.com/spreadsheets/d/1_2Bi
 
 ##### Do you have any tips for how to run a partner location?
 
-Yes.  Here's some [advice about running a partner location](https://github.com/compsocialscience/summer-institute/blob/master/partner_location_suggestions.md).
+Yes. Here's some [advice about running a partner location](https://github.com/compsocialscience/summer-institute/blob/master/partner_location_suggestions.md).
+
+##### How long should our partner location run?
+
+That's up to you based on what you think makes sense in your context. The standard SICSS is two weeks: one week for instructor-led training and one week for participant-led group research projects. However, in the past, we have had one week partner locations that just focus on the instructor-led training. We've also had three week partner locations. Some added an extra week to allow more time for the participant-led group research projects and some added a one week "bootcamp" before the first week of SICSS.
