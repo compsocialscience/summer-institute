@@ -11,6 +11,8 @@ sidebar:
     url: "#mission-and-guiding-principles"
   - name: Previous Partner Locations
     url: "#previous-partner-locations"
+  - name: Eligibility
+    url: "#eligibility"  
   - name: How to Apply
     url: "#how-to-apply"
   - name: Frequently asked questions
@@ -69,11 +71,13 @@ There were 7 partner locations in 2018:
 [University of Helsinki](https://compsocialscience.github.io/summer-institute/2018/helsinki),
 [University of Washington](https://compsocialscience.github.io/summer-institute/2018/seattle/)
 
+### Eligibility
+
+We expect that all applicants to host a partner location will have a strong pre-existing connection to the SICSS program. If you have not hosted a SICSS partner location previously or did not participate in a SICSS program with Matt and Chris, please email us before applying.
+
 ### How to Apply
 
-In order to apply to host a partner site, please complete [this application](https://docs.google.com/document/d/12S49nMOtPJb_h6OZkEuexjuQEubIPRa06r9TddIyF5Q/edit?usp=sharing) and send it to rsfcompsocsci[at]gmail[dot]com. We expect that all applicants to host a partner location will have a strong pre-existing connection to the SICSS program. If you have not hosted a SICSS partner location previously or did not participate in a SICSS program with Matt and Chris, please email us before applying.
-
-**Applications to host a partner site in 2021 are due on Monday, November 16, 2020 by 5pm ET**. We will aim to provide a response to your application by Monday, December 7th.
+In order to apply to host a partner site, please complete [this application](https://docs.google.com/document/d/12S49nMOtPJb_h6OZkEuexjuQEubIPRa06r9TddIyF5Q/edit?usp=sharing) and send it to rsfcompsocsci[at]gmail[dot]com. **Applications to host a partner site in 2021 are due on Monday, November 16, 2020 by 5pm ET**. We will aim to provide a response to your application by Monday, December 7th.
 
 ### Frequently asked questions
 
