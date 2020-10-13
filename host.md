@@ -2,6 +2,19 @@
 layout: host
 title: Host a Partner Location
 subtitle: Application overview and process.
+sidebar:
+  - name: Overview
+    url: "#overview"
+  - name: Hosting a partner location
+    url: "#hosting-a-partner-location"
+  - name: Mission and guiding principles
+    url: "#mission-and-guiding-principles"
+  - name: Previous Partner Locations
+    url: "#previous-partner-locations"
+  - name: How to Apply
+    url: "#how-to-apply"
+  - name: Frequently asked questions
+    url: "#frequently-asked-questions"
 ---
 
 ### Hosting a partner location
