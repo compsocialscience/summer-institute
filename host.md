@@ -73,7 +73,7 @@ There were 7 partner locations in 2018:
 
 ### Eligibility
 
-We expect that all applicants to host a partner location will have a strong pre-existing connection to the SICSS program. If you have not hosted a SICSS partner location previously or did not participate in a SICSS program with Matt and Chris, please email us before applying.
+We expect that all applicants to host a partner location will have a strong pre-existing connection to the SICSS program. If you have not hosted a SICSS partner location previously or did not participate in a SICSS program with Matt and Chris, please email us before applying.  Also, all applications should include at least one faculty member (even if that faculty member does not have a strong pre-existing connection to SICSS).
 
 ### How to Apply
 
