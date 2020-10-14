@@ -12,7 +12,9 @@ sidebar:
   - name: Previous Partner Locations
     url: "#previous-partner-locations"
   - name: Eligibility
-    url: "#eligibility"  
+    url: "#eligibility"
+  - name: "Call for applications 2021"
+    url: "#call-for-applications-2021"
   - name: How to Apply
     url: "#how-to-apply"
   - name: Frequently asked questions
@@ -74,6 +76,27 @@ There were 7 partner locations in 2018:
 ### Eligibility
 
 We expect that all applicants to host a partner location will have a strong pre-existing connection to the SICSS program. If you have not hosted a SICSS partner location previously or did not participate in a SICSS program with Matt and Chris, please email us before applying.  Also, all applications should include at least one faculty member (even if that faculty member does not have a strong pre-existing connection to SICSS).
+
+### Call for applications 2021
+
+Dear friend of SICSS,
+
+Thank you for your interest in hosting a SICSS partner location even in the midst of all the difficulty in the world. We are excited about SICSS 2021, but the shadow created by COVID looms large over the event.
+
+After much deliberation, we are moving forward with the assumption that SICSS-Princeton 2021 will be a virtual event. We also expect that all partner locations will be virtual as well. We are not exactly excited about this choice, but we think it is the right one, based on our experience organizing 3 in-person SICSSes, 1 virtual SICSS, and supporting about 30 partner locations (some of which were in person and some of which were virtual). Quite simply, we think there is too much risk and uncertainty around an in-person SICSS this summer, and we know that virtual SICSS events can work quite well.
+
+When thinking about SICSS-Princeton, we considered three different options: plan for in-person, simultaneously plan for in-person and virtual, and plan for virtual. Naturally, our preferred option would be to have an in-person event like we had at Princeton in 2017 and 2019 and Duke in 2018. Unfortunately, we think that will not be possible this summer; restrictions created by COVID-19 would make any in-person event quite different. Also, planning for an in-person event in the midst of a pandemic creates enormous complexity and adds a great deal of risk for our participants, our organizers, and SICSS as a whole. During one of the first SICSS events, we had a participant that almost needed to go to the hospital. Fortunately, we were able to resolve that situation, but that experience clarified for us that bringing participants to an event places an important responsibility on the organizer to ensure health and wellbeing. We are not confident that we can do that this summer. For example, we are not confident that we can ensure rapid testing if one of our participants might be infected with COVID, nor are we confident that we could provide housing for quarantine if one our participants gets sick, nor are we confident that we could provide housing if travel restrictions are changed during SICSS-Princeton. For these reasons and many others, we are not confident now that we can responsibly host an in-person event this summer.
+
+Another option would be to plan for both an in-person event and a virtual event simultaneously, and then decide later. Unfortunately, this approach creates a lot more work and a lot more uncertainty. We think we should launch the call for applications in January with a clear in-person/virtual decision, and we don’t think we will be in a position to be sure at that time. For example, we would plan to have participants stay in the dorms at Princeton, and Princeton has already told us that there is substantial uncertainty around the dorms this summer because Princeton might have expanded classes this summer. Another reason not to postpone the virtual/in-person decision is that we want to give you a definite answer so that you can plan for your partner locations.
+
+That brings us to the final option, the one we’ve decided: a virtual SICSS. We ran SICSS-Duke virtually this summer, as did seven partner locations. It turned out to be much better than we expected, and many partner locations reported something similar (Post-mortem: https://msalganik.wordpress.com/2020/08/19/summer-institutes-in-computational-social-science-2020-post-mortem/). Also, now that we all have experience running virtual SICSSes and doing virtual teaching, we are expecting that virtual SICSS in 2021 will be even better. We look forward to working with the SICSS community to take advantage of the opportunities created by the virtual format, such as the SICSS Festival (https://sicss.io/2020/festival).  
+
+We are accepting applications for two types of SICSS location: 1 week virtual and 2 week virtual. The grant for a 2 week virtual location is $8,200 ($7,000 for organizer honorarium and $1,200 for TA salary). The grant for a 1 week virtual location is $6,450 ($5,250 for the organizer honorarium and $1,200 for TA salary).  These amounts can be split between multiple people. For example, a site can have multiple organizers who split the honorarium. However, because of fundraising difficulties for SICSS caused by COVID-19, we expect that we may not be able to fund all partner locations this year. Therefore, if you can raise funds locally that would help us allocate our limited funds to places that cannot raise funds locally.
+
+We are grateful to the entire SICSS community for everything that you have done to help SICSS grow and thrive. We suspect that many people will be disappointed by the idea of a virtual SICSS in 2021, and we are too. But we are also confident that this is the right thing for the long-term success of SICSS. If you are not able to host a partner location because of COVID-19 or you are not excited about hosting a virtual location, we completely understand and we look forward to having you contribute to SICSS 2021 in some other way.
+
+Thank you,
+Chris and Matt
 
 ### How to Apply
 
