@@ -1,7 +1,9 @@
 - date: 2021-01-04
-  name: "Introduction and Ethics"
+  name: "Welcome and Ethics"
   events:
-
+    - name: "10:00 - 12:00 Introductions"
+    - name: "12:00 - 12:30 Break"
+    
 - date: 2021-01-05
   name: "Surveys and Experiments"
   events:
