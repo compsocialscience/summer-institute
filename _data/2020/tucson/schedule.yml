@@ -3,27 +3,48 @@
 - date: 2021-01-04
   name: "Welcome and Ethics"
   events:
-    - name: "10:00 - 12:00 Introductions"
+    - name: "10:00 - 11:00 Introduction to computational social science"
+    - name: "11:00 - 12:00 Meet-n-greet
     - name: "12:00 - 12:30 Break"
-    - name: "12:30 - 2:30 Ethics in Computational Social Science ([Annie Boustead])(https://sgpp.arizona.edu/people/anne-boustead)"
-    - name: "2:30 - 3:30 Research Roundtable"
+    - name: "12:30 - 2:30 Ethics in CSS w/ [Annie Boustead](https://sgpp.arizona.edu/people/anne-boustead)"
+    - name: "2:30 - 3:30 Research roundtable
  
 - date: 2021-01-05
   name: "Surveys and Experiments"
   events:
+    - name: "10:00 - 12:00 Introductions"
+    - name: "12:00 - 12:30 Break"
+    - name: "12:30 - 2:30 "
+    - name: "2:30 - 3:30 Research Roundtable
 
 - date: 2021-01-06
   name: "Digital Traces: APIs and Web Scraping"
   events:
+    - name: "10:00 - 12:00 Introductions"
+    - name: "12:00 - 12:30 Break"
+    - name: "12:30 - 2:30 "
+    - name: "2:30 - 3:30 Research Roundtable
 
 - date: 2021-01-07
   name: "Social Networks and Agent-Based Models"
   events:
+    - name: "10:00 - 12:00 Introductions"
+    - name: "12:00 - 12:30 Break"
+    - name: "12:30 - 2:30 "
+    - name: "2:30 - 3:30 Research Roundtable
 
 - date: 2021-01-08
   name: "Machine Learning and Text Analysis"
   events:
+    - name: "10:00 - 12:00 Introductions"
+    - name: "12:00 - 12:30 Break"
+    - name: "12:30 - 2:30 "
+    - name: "2:30 - 3:30 Research Roundtable
 
 - date: 2021-01-09
   name: "Geographic Information Systems"
   events:
+    - name: "10:00 - 12:00 Introductions"
+    - name: "12:00 - 12:30 Break"
+    - name: "12:30 - 2:30 "
+    - name: "2:30 - 3:30 Research Roundtable
