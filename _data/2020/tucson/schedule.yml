@@ -8,23 +8,49 @@
     - name: "12:00 - 12:30 Break"
     - name: "12:30 - 2:30 Ethics in CSS w/ [Annie Boustead](https://sgpp.arizona.edu/people/anne-boustead)"
     - name: "2:30 - 3:30 Research Roundtable"
- 
+
 - date: 2021-01-05
   name: "Surveys and Experiments"
   events:
+    - name: "10:00 - 11:00 Random and non-random sampling w/ [Samara Klar](http://samaraklar.com/)"
+    - name: "11:00 - 12:00 Programming and administering surveys w/ [Samara Klar](http://samaraklar.com/)"
+    - name: "12:00 - 12:30 Break"
+    - name: "12:30 - 1:30 Externally-valid experiments w/ [Frank Gonzalez](https://sgpp.arizona.edu/people/frank-gonzalez)"
+    - name: "1:30 - 2:30 Conjoint experiments w/ [Frank Gonzalez](https://sgpp.arizona.edu/people/frank-gonzalez)"
+    - name: "2:30 - 3:30 Research Roundtable"
 
 - date: 2021-01-06
   name: "Digital Traces: APIs and Web Scraping"
   events:
+    - name: "10:00 - 11:00 Digital traces and consturct validity w/ [Yotam Shmargad](http://www.yotamshmargad.com/)"
+    - name: "11:00 - 12:00 Social media APIs w/ [Yotam Shmargad](http://www.yotamshmargad.com/)"
+    - name: "12:00 - 12:30 Break"
+    - name: "12:30 - 2:30 Scraping the web w/ [Thomas Davidson](https://www.thomasrdavidson.com/)"
+    - name: "2:30 - 3:00 Break"
+    - name: "2:30 - 3:30 KEYNOTE: Social structure and community detection w/ [Ronald Breiger](http://www.u.arizona.edu/~breiger)"
 
 - date: 2021-01-07
   name: "Social Networks and Agent-Based Models"
   events:
+    - name: "10:00 - 11:00 Social network analysis w/ [Yotam Shmargad](http://www.yotamshmargad.com/)"
+    - name: "11:00 - 12:00 Snowball sampling w/ [Yotam Shmargad](http://www.yotamshmargad.com/)
+    - name: "12:00 - 12:30 Break"
+    - name: "12:30 - 2:30 Agent-based modeling w/ [Thomas Davidson](https://www.thomasrdavidson.com/)"
+    - name: "2:30 - 3:00 Break"
+    - name: "3:00 - 4:00 Social event"
 
 - date: 2021-01-08
   name: "Machine Learning and Text Analysis"
   events:
+    - name: "10:00 - 12:00 Natural language processing w/ [Robert Henderson](https://linguistics.arizona.edu/user/robert-henderson)"
+    - name: "12:00 - 12:30 Break"
+    - name: "12:30 - 2:30 Event coding using NLP and ML w/ [Javier Osorio](https://sgpp.arizona.edu/people/javier-osorio)"
+    - name: "2:30 - 3:30 Research Roundtable"
 
 - date: 2021-01-09
-  name: "Geographic Information Systems"
+  name: "Geographic Information Systems and Remote Sensing"
   events:
+    - name: "10:00 - 12:00 Learning systems in land-use change analysis w/ [Fernando Sanchez](https://geography.arizona.edu/people/fernando-sanchez)"
+    - name: "12:00 - 12:30 Break"
+    - name: "12:30 - 1:30 Research roundtable"
+    - name: "1:30 - 2:00 Concluding remarks"
