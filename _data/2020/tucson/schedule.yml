@@ -1,9 +1,13 @@
+- date: All times are in Mountain Time
+
 - date: 2021-01-04
   name: "Welcome and Ethics"
   events:
     - name: "10:00 - 12:00 Introductions"
     - name: "12:00 - 12:30 Break"
-    
+    - name: "12:30 - 2:30 Ethics in Computational Social Science ([Annie Boustead])(https://sgpp.arizona.edu/people/anne-boustead)"
+    - name: "2:30 - 3:30 Research Roundtable"
+ 
 - date: 2021-01-05
   name: "Surveys and Experiments"
   events:
