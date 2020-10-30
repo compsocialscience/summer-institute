@@ -1,10 +1,10 @@
 ---
 title: SICSS Boot Camp (Beta)
-subtitle: 
-layout: page
+subtitle:
+layout: bootcamp
 ---
 
-SICSS Boot camp is an online training program designed to provide you with beginner level skills in coding so that you can follow the more advanced curriculum we teach at the partner locations of the Summer Institutes in Computational Social Science. The videos and materials linked below are designed for *complete beginners* and are best viewed as a sequence since each video builds upon content introduced in previous tutorials. To learn more-- or get started--click on the "Welcome to Boot Camp" video below.
+<!-- SICSS Boot camp is an online training program designed to provide you with beginner level skills in coding so that you can follow the more advanced curriculum we teach at the partner locations of the Summer Institutes in Computational Social Science. The videos and materials linked below are designed for *complete beginners* and are best viewed as a sequence since each video builds upon content introduced in previous tutorials. To learn more-- or get started--click on the "Welcome to Boot Camp" video below.
 
 [Welcome to Boot Camp](#welcome)<br />
 [Installing R Studio](#install) <br />
@@ -29,7 +29,7 @@ This video introduces you to SICSS boot camp, explains our philosophy, and tells
 
 # Installing RStudio <a name="install"></a>
 
-An introduction to open-source software that teaches you how to install both R and Rstudio and customize your interface (14:11).  
+An introduction to open-source software that teaches you how to install both R and Rstudio and customize your interface (14:11).
 
 
 <div class="embed-responsive embed-responsive-16by9">
@@ -135,4 +135,4 @@ Additional Resources: [R for Data Science (Chapters 26 & 27)](https://r4ds.had.c
 
 Exercises: COMING SOON!
 
-
+ -->
