@@ -1,13 +1,46 @@
 {% assign curriculums = data.curriculum %}
 {% if page.curriculum_data_path %}
-  {% include get_data_by_path.inc data=data path=page.curriculum_data_path %}
-  {% if data_by_path %}
-    {% assign curriculums = data_by_path %}
-  {% endif %}
+    {% include get_data_by_path.inc data=data path=page.curriculum_data_path %}
+    {% if data_by_path %}
+        {% assign curriculums = data_by_path %}
+    {% endif %}
 {% endif %}
 
 {% for curriculum in curriculums %}
-  <div class="row" id="{{curriculum.id}}">
+<div class="row" id="{{curriculum.id}}">
+    <div class="col-sm-12">
+        <hr class="mt-5 mb-4"/>
+        <h3 class="h3 mb-4">{{curriculum.day}}:
+            {{curriculum.topic}}</h3>
+    </div>
+    <!--/col-->
+</div>
+{% if curriculum.events %}
+    {% for event in curriculum.events %}
+        {% if event %}
+            <div class="row">
+                <div class="col-md-8">
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <iframe width="560" height="315" src={{event.video}} frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <h3>{{event.name}}</h3>
+                    <ul class="nav flex-column">
+                        {% if event.sublinks %}
+                            {% for sublink in event.sublinks %}
+                                <li class="nav-item">
+                                    <a href={{sublink.link}} class="nav-link">{{sublink.text}}</a>
+                                </li>
+                            {% endfor %}
+                        {% endif %}
+                    </ul>
+                </div>
+            </div>
+        {% endif %}
+    {% endfor %}
+{% endif %}
+  {% comment %} <div class="row" id="{{curriculum.id}}">
     <div class="col-sm-12">
       <hr class="mt-5 mb-4">
       <h3 class="h3 mb-4">{{curriculum.day}}: {{curriculum.topic}}</h3>
@@ -53,6 +86,5 @@
         </div>
       </div>
     {% endif %}
-  </div>
+  </div> {% endcomment %}
   {% endfor %}
-</div>
