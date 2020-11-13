@@ -7,6 +7,8 @@ partner_site: duke
 
 An important element of the Summer Institute is the participant-led group projects that begin in the second week and often continue long after the Summer Institute ends.  Some of the results from these projects will be posted here when they are complete.
 
+-  Schwemmer C., Knight C., Bello-Pardo E.D., Oklobdzija S., Schoonvelde M., Lockhart J.W. (2020) [Diagnosing Gender Bias in Image Recognition Systems](https://dx.doi.org/10.1177/2378023120967171) _Socius_.
+
 - Bello-Pardo, E., Law, T., Gallagher, N., Fesler, L., & Pozzana, I. (2019). Medium is the Message? Understanding the effects of different communication mediums on political behavior and public opinion in the digital age. Paper presented at the Midwestern Political Science Association Conference (MPSA), Chicago IL.
 
 - Holtz, D., Mobasseri, S., Munyikwa, Z., & Xu, J. (2020). Cracking the Coding Interview. Paper presented at the International Conference on Computational Social Science (IC2S2), Virtual conference.
