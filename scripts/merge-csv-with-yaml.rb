@@ -1,3 +1,6 @@
+# This is likely a one-time use script. It merged our yaml data on people with
+# a CSV that Chris created in part from the yaml data but that included
+# additional information like research_interests, organization, etc.
 require 'csv'
 require 'yaml'
 require 'securerandom'
