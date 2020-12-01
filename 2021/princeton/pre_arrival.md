@@ -1,19 +1,19 @@
 ---
 layout: location_detail
-partner_site: duke
+partner_site: princeton
 ---
 
 # Pre-arrival
 
-In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS-Duke 2020. Our TAs will host office hours through Slack to support you as you work through these pre-arrival materials.
+In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS-Princeton 2021. Our TAs will host office hours through Slack to support you as you work through these pre-arrival materials.
 
 ## Videos
 
-SICSS-Duke 2020 will be using a [flipped classroom model](https://en.wikipedia.org/wiki/Flipped_classroom) where you will watch videos of lectures before our meetings, and then we will use our time together for discussion and group activities. We hope to start posting some videos around May 15, 2020. If you'd like to have a sense of what these videos are like, you can watch our [lectures from 2019](https://compsocialscience.github.io/summer-institute/curriculum).
+SICSS-Princeton 2021 will be using a [flipped classroom model](https://en.wikipedia.org/wiki/Flipped_classroom) where you will watch [videos of lectures](https://compsocialscience.github.io/summer-institute/curriculum) before our meetings, and then we will use our time together for discussion and group activities.
 
 ## Coding
 
-The majority of the coding work presented at the 2020 SICSS will employ R.  However, you are welcome to employ a language of your choice, such as Python, Julia, or other languages that are commonly used by computational social scientists. If you would like to work in R, we recommend that you complete the free [RStudio Primers](https://rstudio.cloud/learn/primers), which can be supplemented by the open access book _[R for Data Science](https://r4ds.had.co.nz/)_ by Garrett Grolemund and Hadley Wickham.  RStudio Primers cover 6 topics: The Basics, Working with Data, Visualize Data, Tidy Your Data, Iterate, and Write Functions.  If you already feel comfortable with these topics (either in R or some other language), then you do not need to complete these Primers.
+The majority of the coding work presented at the 2021 SICSS will employ R.  However, you are welcome to employ a language of your choice, such as Python, Julia, or other languages that are commonly used by computational social scientists. If you would like to work in R, we recommend that you complete the free [RStudio Primers](https://rstudio.cloud/learn/primers), which can be supplemented by the open access book _[R for Data Science](https://r4ds.had.co.nz/)_ by Garrett Grolemund and Hadley Wickham.  RStudio Primers cover 6 topics: The Basics, Working with Data, Visualize Data, Tidy Your Data, Iterate, and Write Functions.  If you already feel comfortable with these topics (either in R or some other language), then you do not need to complete these Primers.
 
 If you would like more practice after completing the RStudio Primers, some other materials that we can recommend are:
 - [R for Social Science](https://datacarpentry.org/r-socialsci/), Data Carpentry.  
@@ -36,7 +36,7 @@ We want to give you some videoconferencing information to make our meeting time 
 
 ## Accounts
 
-- Slack: Before participating at SICSS-Duke 2020 you should have an account in the SICSS 2020 Slack workspace.  If you have not used Slack before, you should review these [getting started[(https://slack.com/help/categories/360000049043-Getting-started)] materials.  Slack can be hard to use at first, but we've found that it is the best way to enable everyone to collaborate.
+- Slack: Before participating at SICSS-Princeton 2021, you should have an account in the SICSS 2021 Slack workspace.  If you have not used Slack before, you should review these [getting started[(https://slack.com/help/categories/360000049043-Getting-started)] materials.  Slack can be hard to use at first, but we've found that it is the best way to enable everyone to collaborate.
 
 - GitHub: Many participants at SICSS use GitHub to collaborate.  If you do not yet have one, you should [create a GitHub account](https://github.com/join).  If you are a student, we recommend that you apply for a [GitHub Student Developer Pack](https://education.github.com/pack).
 
@@ -44,6 +44,6 @@ You may need to create accounts on other platforms as well.  If so, we will post
 
 ## Office hours
 
-Our [TAs](https://compsocialscience.github.io/summer-institute/2020/duke/people#teaching_assistants) will host weekly office hours in the SICSS 2020 Slack.  You can find information about the office hours in the SICSS 2020 Slack channel #pre-office-hours.
+Our [TAs](https://compsocialscience.github.io/summer-institute/2021/princeton/people#teaching_assistants) will host weekly office hours in the SICSS 2021 Slack.  You can find information about the office hours in the SICSS 2021 Slack channel #pre-office-hours.
 
-If you are not able to attend during the regularly scheduled office hours or have any questions about office hours, please contact Robin Lee, one of our [TAs](https://compsocialscience.github.io/summer-institute/2020/duke/people#teaching_assistants).
+If you are not able to attend during the regularly scheduled office hours or have any questions about office hours, please contact ______, one of our [TAs](https://compsocialscience.github.io/summer-institute/2021/princeton/people#teaching_assistants).
