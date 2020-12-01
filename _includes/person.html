@@ -6,7 +6,7 @@
   {% else %}
     {% assign image_url = include.person.image | prepend: site.baseurl %}
   {% endif %}
-  <img src="{{ image_url }}" alt="Image of {{ include.person.name }}" class="mr-5 rounded" width="150">
+  <img loading="lazy" src="{{ image_url }}" alt="Image of {{ include.person.name }}" class="mr-5 rounded" width="150">
   {% endif %}
   <div class="media-body">
     <h5 class="mt-0 font-weight-bold">
