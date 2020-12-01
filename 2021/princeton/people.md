@@ -1,5 +1,5 @@
 ---
 layout: location_detail
-partner_site: duke
+partner_site: princeton
 people: true
 ---
