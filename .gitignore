@@ -3,6 +3,7 @@ _site/
 .jekyll-metadata
 .bundle/
 vendor/
+/node_modules/
 *.swp
 *.aux
 *.log
