@@ -23,6 +23,4 @@ const particpantsIndex = "./assets/json/all-people-index.json";
     });
   });
   fs.writeFileSync(particpantsIndex, JSON.stringify(idx));
-  console.info(idx.search("calvin"));
-  // console.info(JSON.stringify(idx));
 })();
