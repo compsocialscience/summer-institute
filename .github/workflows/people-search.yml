@@ -1,7 +1,7 @@
 name: People search updates
 on:
   schedule:
-    - cron: '12 * * * *'
+    - cron: '12 */2 * * *'
 jobs:
   build:
 
