@@ -31,10 +31,11 @@ jobs:
       env:
         CI: true
     - run: yarn run download-form-responses && yarn run build-index
-    - run: |-
+    - name: Commit any updates or additions
+      run: |-
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
         git add assets/images
-        timestamp=$(data -u)
+        timestamp=$(date -u)
         git commit -a -m "Latest data: ${timestamp}" || exit 0
         git push
