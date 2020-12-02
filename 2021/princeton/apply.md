@@ -11,7 +11,7 @@ partner_site: princeton
 
 ---
 
-Participation is restricted to ______. However, there are no restrictions based on citizenship, country of study, or country of employment.  About ______ participants will be invited.
+Participation is restricted to \_\_\_\_\_. However, there are no restrictions based on citizenship, country of study, or country of employment.  About \_\_\_\_\_ participants will be invited.
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R programming language. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours during the two months before the Institute.
 
@@ -23,11 +23,11 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 ---
 
-Applicants must submit the following documents: ______.
+Applicants must submit the following documents: \_\_\_\_\_.
 
-**In order to be guaranteed full consideration, all application materials must be submitted by ______.** All application materials must be submitted through the [Fluxx system run by the Russell Sage Foundation](https://rsf.fluxx.io/user_sessions/new), and it can take up to two business days for your Fluxx account to be created. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail in ______, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by \_\_\_\_\_.** All application materials must be submitted through the [Fluxx system run by the Russell Sage Foundation](https://rsf.fluxx.io/user_sessions/new), and it can take up to two business days for your Fluxx account to be created. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail in \_\_\_\_\_, and will ask participants to confirm their participation very soon thereafter.
 
-Inquiries can be sent to ______.
+Inquiries can be sent to \_\_\_\_\_.
 
 <br />
 ### Application Frequently Asked Questions
