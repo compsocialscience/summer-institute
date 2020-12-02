@@ -1,8 +1,7 @@
 name: People search updates
 on:
-  push:
-    branches:
-      - people-search
+  schedule:
+    - cron: '40 * * * *'
 jobs:
   build:
 
