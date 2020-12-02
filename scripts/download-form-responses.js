@@ -46,8 +46,8 @@ async function downloadImage(url) {
       if (timestampDate.getMonth() >= 9) {
         year += 1;
       }
-      let imagePath = await downloadImage(record.photo);
       if (record.first_name && record.last_name) {
+        let imagePath = await downloadImage(record.photo);
         records.push({
           id: `${record.timestamp}-${record.first_name}`,
           name: `${record.first_name} ${record.last_name}`,

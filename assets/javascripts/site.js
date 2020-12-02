@@ -39,6 +39,9 @@ function setupParticipantSearch() {
       );
       var resultHtml = results.map((result) => {
         let person = window.allPeople.find((p) => p.id === result.ref);
+        if (!person) {
+          return "";
+        }
         let website =
           person.website ||
           person.webpage ||
