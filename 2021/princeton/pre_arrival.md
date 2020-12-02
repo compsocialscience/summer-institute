@@ -46,4 +46,4 @@ You may need to create accounts on other platforms as well.  If so, we will post
 
 Our [TAs](https://compsocialscience.github.io/summer-institute/2021/princeton/people#teaching_assistants) will host weekly office hours in the SICSS 2021 Slack.  You can find information about the office hours in the SICSS 2021 Slack channel #pre-office-hours.
 
-If you are not able to attend during the regularly scheduled office hours or have any questions about office hours, please contact ______, one of our [TAs](https://compsocialscience.github.io/summer-institute/2021/princeton/people#teaching_assistants).
+If you are not able to attend during the regularly scheduled office hours or have any questions about office hours, please contact \_\_\_\_\_, one of our [TAs](https://compsocialscience.github.io/summer-institute/2021/princeton/people#teaching_assistants).
