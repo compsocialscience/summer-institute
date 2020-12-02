@@ -1,0 +1,59 @@
+{% include setup_data.html %}
+{% include setup_locations_by_year.inc %}
+<!doctype html>
+<html lang="en">
+  <head>
+    {% include header.html %}
+  </head>
+  <body class="sub-page">
+    {% include navbar.html %}
+    {% include hero_secondary.html %}
+  <!-- Start content -->
+  <section>
+    <div class="container">
+      <div class="row">
+        {% include sidebar.html %}
+        <div class="col-sm-8">
+          <div class="alert alert-secondary border-0 my-5">
+            <form id="participant_search_form">
+              <div class="input-group">
+                <input name="q" type="text" class="form-control" placeholder="Search people" aria-label="Search" aria-describedby="searchHelp">
+                <div class="input-group-append">
+                  <button class="btn btn-outline-secondary" type="submit" id="button-addon2">Search</button>
+                </div><!--/input-group-append -->
+              </div><!--/input-group -->
+              <small id="searchHelp" class="form-text text-muted">You can search by organization, research interests, or discipline with "organization:princeton", "research_interests:race", "discipline:journalism".</small>
+            </form>
+          </div>
+
+          <div class="row d-none" id="people_search_results_container">
+            <div class="col-sm-12">
+              <h2 class="display-4">Search Results</h2>
+              <hr />
+              <br />
+              <div id="people_search_results"></div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-12">
+              <h2 class="display-4">Leadership</h2>
+              <hr />
+              <br />
+            </div>
+            <div class="col-sm-12">
+            {% for leader in data.leadership %}
+              {% include person.html person=leader %}
+            {% endfor %}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <script>
+    var allPeople = {{ data.all-people-2017-2020 | jsonify }};
+    allPeople = allPeople.concat({{ data.all-people-post-2020 | jsonify}});
+  </script>
+    {% include footer.html %}
+</body>
+</html>
