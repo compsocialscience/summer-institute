@@ -38,14 +38,11 @@ SICSS-Princeton 2021 will be using a [flipped classroom model](https://en.wikipe
 
 ### R
 
-Some of the activities will require coding, and we will support R. You are welcome to use other languages, but we cannot guarantee that we can support them.
-
-Before SICSS you should install a modern, stable-release version of [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/).
+Some of the activities will require coding, and we will support R. You are welcome to use other languages, but we cannot guarantee that we can support them. Before SICSS you should install a modern, stable-release version of [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/).
 
 ### Zoom
 
-SICSS-Princeton is a virtual event, and we will use Zoom.
-We want to give you some videoconferencing information to make our meeting time go more smoothly. We will be using the videoconferencing software Zoom to facilitate small and large-group sessions during the first week of SICSS (see [schedule](https://compsocialscience.github.io/summer-institute/2021/princeton/schedule)). You can join Zoom meetings using a phone or computer with a microphone and (ideally) a webcam. See this [tutorial](https://support.zoom.us/hc/en-us/articles/201362193-Joining-a-Meeting) for more information if you have not used Zoom before. This [article](https://thewirecutter.com/blog/professional-video-call-from-home/) contains some helpful advice on how to set up your device and space to improve your Zoom experience. (Note: though the article recommends external microphones and webcams, we DO NOT recommend or require you to purchase any equipment to participate in SICSS. In our experience, the microphones and webcams built into most modern laptops and phones are perfectly sufficient).
+SICSS-Princeton is a virtual event, and we will use Zoom. You can join Zoom meetings using a phone or computer with a microphone and (ideally) a webcam. This [article](https://thewirecutter.com/blog/professional-video-call-from-home/) contains some helpful advice on how to set up your device and space to improve your Zoom experience. (Note: though the article recommends external microphones and webcams, we DO NOT recommend or require that you purchase any equipment to participate in SICSS. In our experience, the microphones and webcams built into most modern laptops and phones are perfectly sufficient).
 
 ### Slack
 
