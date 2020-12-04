@@ -59,7 +59,11 @@ function setupParticipantSearch() {
         return `<div class="media mb-5">
             ${image}
             <div class="media-body">
-              <h5 class="mt-0 font-weight-bold">${name}</h5>
+              <h5 class="mt-0 font-weight-bold">${name}${
+          person.category
+            ? ` <span class="badge badge-secondary">${person.category}</span>`
+            : ""
+        }</h5>
               ${person.bio}
             </div>
           </div>`;
