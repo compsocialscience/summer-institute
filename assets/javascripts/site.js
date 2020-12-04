@@ -37,20 +37,37 @@ function setupParticipantSearch() {
       var results = searchIndex.search(
         ev.target.querySelector("input[name=q]").value
       );
-      var resultHtml = results.map((result) => {
-        let person = window.allPeople.find((p) => p.id === result.ref);
-        if (!person) {
+      var mostRecentPeopleByName = {};
+      var names = results.map((result) => {
+        var person = window.allPeople.find((p) => p.id === result.ref);
+        if (
+          !mostRecentPeopleByName[person.name] ||
+          mostRecentPeopleByName[person.name].year < person.year
+        ) {
+          mostRecentPeopleByName[person.name] = person;
+        }
+        return person.name;
+      });
+      var displayedNames = {};
+      var resultHtml = names.map((personName) => {
+        if (!personName) {
           return "";
         }
+        var person = mostRecentPeopleByName[personName];
+        if (!person || displayedNames[personName]) {
+          return "";
+        }
+        displayedNames[personName] = true;
         let website =
           person.website ||
           person.webpage ||
           person.twitter ||
           person.linkedin ||
           person.google_scholar;
-        let image =
-          person.image &&
-          `<img loading="lazy" src="${person.image}" alt="Image of ${person.name}" class="mr-5 rounded" width="150">`;
+        let image = '<div style="width: 150px" class="mr-5"></div>';
+        if (person.image) {
+          image = `<img loading="lazy" src="${person.image}" alt="Image of ${person.name}" class="mr-5 rounded" width="150">`;
+        }
         let name = person.name;
         if (website) {
           name = `<a href="${website}" target="_blank" rel="noopener noreferrer">${name}</a>`;
@@ -58,7 +75,11 @@ function setupParticipantSearch() {
         return `<div class="media mb-5">
             ${image}
             <div class="media-body">
-              <h5 class="mt-0 font-weight-bold">${name}</h5>
+              <h5 class="mt-0 font-weight-bold">${name}${
+          person.category
+            ? ` <span class="badge badge-secondary">${person.category}</span>`
+            : ""
+        }</h5>
               ${person.bio}
             </div>
           </div>`;
