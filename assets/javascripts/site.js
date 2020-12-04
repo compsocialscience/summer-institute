@@ -48,9 +48,10 @@ function setupParticipantSearch() {
           person.twitter ||
           person.linkedin ||
           person.google_scholar;
-        let image =
-          person.image &&
-          `<img loading="lazy" src="${person.image}" alt="Image of ${person.name}" class="mr-5 rounded" width="150">`;
+        let image = '<div style="width: 150px" class="mr-5"></div>';
+        if (person.image) {
+          image = `<img loading="lazy" src="${person.image}" alt="Image of ${person.name}" class="mr-5 rounded" width="150">`;
+        }
         let name = person.name;
         if (website) {
           name = `<a href="${website}" target="_blank" rel="noopener noreferrer">${name}</a>`;
