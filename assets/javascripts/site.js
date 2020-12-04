@@ -37,11 +37,27 @@ function setupParticipantSearch() {
       var results = searchIndex.search(
         ev.target.querySelector("input[name=q]").value
       );
-      var resultHtml = results.map((result) => {
-        let person = window.allPeople.find((p) => p.id === result.ref);
-        if (!person) {
+      var mostRecentPeopleByName = {};
+      var names = results.map((result) => {
+        var person = window.allPeople.find((p) => p.id === result.ref);
+        if (
+          !mostRecentPeopleByName[person.name] ||
+          mostRecentPeopleByName[person.name].year < person.year
+        ) {
+          mostRecentPeopleByName[person.name] = person;
+        }
+        return person.name;
+      });
+      var displayedNames = {};
+      var resultHtml = names.map((personName) => {
+        if (!personName) {
           return "";
         }
+        var person = mostRecentPeopleByName[personName];
+        if (!person || displayedNames[personName]) {
+          return "";
+        }
+        displayedNames[personName] = true;
         let website =
           person.website ||
           person.webpage ||
