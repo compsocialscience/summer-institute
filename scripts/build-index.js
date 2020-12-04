@@ -12,7 +12,7 @@ const particpantsIndex = "./assets/json/all-people-index.json";
   records = [...oldRecords, ...records];
   let idx = lunr(function () {
     this.ref("id");
-    this.field("name");
+    this.field("name", { boost: 2 });
     this.field("bio");
     this.field("organization");
     this.field("research_interests");
