@@ -36,7 +36,19 @@
           </div>
           <div class="row">
             <div class="col-sm-12">
-              <h2 class="display-4">Leadership</h2>
+              <h2 class="display-4">Founding Directors</h2>
+              <hr />
+              <br />
+            </div>
+            <div class="col-sm-12">
+            {% for leader in data.founders %}
+              {% include person.html person=leader %}
+            {% endfor %}
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-12">
+              <h2 class="display-4">Leadership Team</h2>
               <hr />
               <br />
             </div>
