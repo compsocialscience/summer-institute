@@ -3,11 +3,9 @@ layout: location_detail
 partner_site: princeton
 ---
 
-<h1 class="display-4">Apply</h1>
-<br />
+# Apply
 
-### Eligibility
-### <a name="eligibility"></a>
+## Eligibility
 
 ---
 
@@ -17,9 +15,7 @@ The Summer Institute aims to bring together computational social scientists acro
 
 We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, attempt to account for an applicant’s career stage and previous educational opportunities.
 
-<br />
-### How To Apply
-### <a name="how_to_apply"></a>
+## How To Apply
 
 ---
 
@@ -29,9 +25,7 @@ Applicants must submit the following documents: (i) a curriculum vitae, (ii) a s
 
 Inquiries can be sent to rsfcompsocsci@gmail.com.
 
-<br />
-### Application Frequently Asked Questions
-### <a name="faq"></a>
+## Application Frequently Asked Questions
 
 ---
 
