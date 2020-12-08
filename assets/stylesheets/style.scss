@@ -52,6 +52,10 @@ body {
   text-decoration: underline;
 }
 
+.location-list-item .card-img-top {
+  object-fit: cover;
+}
+
 /*
   enable responsive font sizes
   https://christianoliff.com/blog/bootstrap-with-rfs
