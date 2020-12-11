@@ -1,6 +1,6 @@
 ---
 layout: location_detail
-partner_site: ucla
+partner_site: los_angeles
 ---
 
 # Apply

@@ -1,5 +1,5 @@
 ---
 layout: location_detail
-partner_site: zurich
+partner_site: ethzurich
 people: true
 ---
