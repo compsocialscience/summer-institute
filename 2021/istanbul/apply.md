@@ -27,4 +27,4 @@ All application materials must be submitted through the [SICSS-Istanbul applicat
 
 We will notify applicants solely through e-mail by March 15, 2021, and will ask participants to confirm their participation very soon thereafter.
 
-**Inquiries can be sent to sicss.istanbul@gmail.com.**
+Inquiries can be sent to **[sicss.istanbul@gmail.com](mailto:sicss.istanbul@gmail.com)**
