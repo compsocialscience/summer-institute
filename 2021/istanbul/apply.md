@@ -23,7 +23,7 @@ Applicants must submit the following documents:
 
 **In order to be guaranteed full consideration, all application materials must be submitted before February 22, 2021. Applications that are not complete by the deadline may not receive full consideration.**  
 
-All application materials must be submitted through the (SICSS-Istanbul application form)[https://forms.gle/BdfNzvxvthKbPnjS6].
+All application materials must be submitted through the [SICSS-Istanbul application form](https://forms.gle/BdfNzvxvthKbPnjS6).
 
 We will notify applicants solely through e-mail by March 15, 2021, and will ask participants to confirm their participation very soon thereafter.
 
