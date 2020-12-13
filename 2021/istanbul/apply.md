@@ -21,7 +21,9 @@ Applicants must submit the following documents:
 (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science, 
 (iii) one writing sample or research proposal (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author.
 
-**In order to be guaranteed full consideration, all application materials must be submitted before February 22, 2021. Applications that are not complete by the deadline may not receive full consideration. All application materials must be submitted through the SICSS-Istanbul application form.** 
+**In order to be guaranteed full consideration, all application materials must be submitted before February 22, 2021. Applications that are not complete by the deadline may not receive full consideration.**  
+
+All application materials must be submitted through the (SICSS-Istanbul application form)[https://forms.gle/BdfNzvxvthKbPnjS6].
 
 We will notify applicants solely through e-mail by March 15, 2021, and will ask participants to confirm their participation very soon thereafter.
 
