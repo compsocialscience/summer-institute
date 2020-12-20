@@ -9,13 +9,13 @@ sidebar:
     url: "#hosting-a-partner-location"
   - name: Mission and guiding principles
     url: "#mission-and-guiding-principles"
-  - name: Previous Partner Locations
+  - name: Previous partner locations
     url: "#previous-partner-locations"
   - name: Eligibility
     url: "#eligibility"
   - name: "Call for applications 2021"
     url: "#call-for-applications-2021"
-  - name: How to Apply
+  - name: How to apply
     url: "#how-to-apply"
   - name: Frequently asked questions
     url: "#frequently-asked-questions"
@@ -41,7 +41,7 @@ As we work toward this mission, we will be guided by the following principles:
 
 3. Funders and partners will have no impact on content. Our firewall between funding and content will be modeled on high-quality news organizations, such as the _New York Times_ and _National Public Radio_.
 
-### Previous Partner Locations
+### Previous partner locations
 
 ##### 2020
 
@@ -98,7 +98,7 @@ We are grateful to the entire SICSS community for everything that you have done 
 Thank you,
 Chris and Matt
 
-### How to Apply
+### How to apply
 
 In order to apply to host a partner site, please complete [this application](https://docs.google.com/document/d/12S49nMOtPJb_h6OZkEuexjuQEubIPRa06r9TddIyF5Q/edit?usp=sharing) and send it to rsfcompsocsci[at]gmail[dot]com. **Applications to host a partner site in 2021 are due on Monday, November 16, 2020 by 5pm ET**. We will aim to provide a response to your application by Monday, December 7th.
 
