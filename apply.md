@@ -4,7 +4,7 @@ title: Apply
 subtitle: Application overview and process
 ---
 
-### How To Apply
+### How to Apply
 
 ---
 
