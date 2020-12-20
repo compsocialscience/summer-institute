@@ -5,23 +5,23 @@ subtitle: Application overview and process.
 sidebar:
   - name: Overview
     url: "#overview"
-  - name: Hosting a partner location
+  - name: Hosting a Partner Location
     url: "#hosting-a-partner-location"
-  - name: Mission and guiding principles
+  - name: Mission and Guiding Principles
     url: "#mission-and-guiding-principles"
-  - name: Previous partner locations
+  - name: Previous Partner Locations
     url: "#previous-partner-locations"
   - name: Eligibility
     url: "#eligibility"
-  - name: "Call for applications 2021"
+  - name: "Call for Applications 2021"
     url: "#call-for-applications-2021"
-  - name: How to apply
+  - name: How to Apply
     url: "#how-to-apply"
-  - name: Frequently asked questions
+  - name: Frequently Asked Questions
     url: "#frequently-asked-questions"
 ---
 
-### Hosting a partner location
+### Hosting a Partner Location
 
 Starting in 2018, the Summer Institutes in Computational Social Science (SICSS) began including partner locations in order to increase the number of participants. The Summer Institute is two weeks long and partner locations typically involve: 1) pre-recorded or live-streamed lectures on topics ranging from automated text analysis to ethics; 2) training exercises to reinforce key ideas from lectures; 3) live-streamed research talks from leaders in the field; and 4) participant-led group research projects. This model has been used successfully at universities and companies around the world.
 
@@ -29,7 +29,7 @@ The Summer Institutes are highly modular and the open source curriculum can be a
 
 In order to ensure quality and consistency, all partner locations must have a former participant of SICSS as one of the local organizers. If you don’t have any SICSS alumni at your organization, you can contact us about finding a former participant that could collaborate with you. For example, in 2019 Matti Nelimarkka (SICSS ‘17) collaborated with Akın Ünver to run a partner location in [Istanbul, Turkey](https://compsocialscience.github.io/summer-institute/2019/istanbul/) (Kadir Has University).
 
-### Mission and guiding principles
+### Mission and Guiding Principles
 
 The mission of the Summer Institutes in Computational Social Science is to provide open, high-quality training in computational social science to researchers around the world in order to accelerate the growth of the field and ensure that it develops practices that are in the long-term interests of science and society.
 
@@ -77,7 +77,7 @@ There were 7 partner locations in 2018:
 
 We expect that all applicants to host a partner location will have a strong pre-existing connection to the SICSS program. If you have not hosted a SICSS partner location previously or did not participate in a SICSS program with Matt and Chris, please email us before applying.  Also, all applications should include at least one faculty member (even if that faculty member does not have a strong pre-existing connection to SICSS).
 
-### Call for applications 2021
+### Call for Applications 2021
 
 Dear friend of SICSS,
 
@@ -98,11 +98,11 @@ We are grateful to the entire SICSS community for everything that you have done 
 Thank you,
 Chris and Matt
 
-### How to apply
+### How to Apply
 
 In order to apply to host a partner site, please complete [this application](https://docs.google.com/document/d/12S49nMOtPJb_h6OZkEuexjuQEubIPRa06r9TddIyF5Q/edit?usp=sharing) and send it to rsfcompsocsci[at]gmail[dot]com. **Applications to host a partner site in 2021 are due on Monday, November 16, 2020 by 5pm ET**. We will aim to provide a response to your application by Monday, December 7th.
 
-### Frequently asked questions
+### Frequently Asked Questions
 
 ##### What if I can’t run the partner location during the scheduled dates?
 
