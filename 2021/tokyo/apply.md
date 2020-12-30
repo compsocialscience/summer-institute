@@ -18,7 +18,7 @@ partner_site: tokyo
 </ol>
 Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.</p>
 <br>
-<p>このワークショップは、修士過程および博士課程の学生、ポスドク、勤務10年以内の企業研究者、博士取得後5年以内の大学教員の方を対象とします。国籍や研究活動されている国に関わらず、ご参加いただけます。SICSS-Tokyoでは、応募していただいた方の中から約20人ほどご招待する予定です。文理問わず、あらゆる分野からの応募をお待ちしております。</p>
+<p>このワークショップは、修士課程および博士課程の学生、ポスドク、勤務10年以内の企業研究者、博士取得後5年以内の大学教員の方を対象とします。国籍や研究活動されている国に関わらず、ご参加いただけます。SICSS-Tokyoでは、応募していただいた方の中から約20人ほどご招待する予定です。文理問わず、あらゆる分野からの応募をお待ちしております。</p>
 <p>参加者の選考にあたっては以下の点を重視します。
 <ol>
   <li>計算社会科学（Computational Social Science）に関連した研究および教育活動</li>
@@ -41,7 +41,7 @@ Further, when making our evaluations, we attempt to account for an applicant’s
 You can write in English or Japanses. Co-authored work is acceptable for the writing sample (3), but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. All applications must include an e-mail. </p>
 <p><b>All application materials must be submitted through <a href="https://forms.gle/sqku6UP7GKmQ8YGD9">the Google form</a>.</b> In order to be guaranteed full consideration, all application materials must be submitted before Friday, March 12 2021. We will notify applicants solely through e-mail by April 5, 2021, and will ask participants to confirm their participation very soon thereafter.</p>
 
-<p>Inquiries can be sent to sicsstokyo2020@gmail.com.</p>
+<p>Inquiries can be sent to sicsstokyo2021@gmail.com.</p>
 
 <br>
 <p>応募者は以下の書類を提出してください。
