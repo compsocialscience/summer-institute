@@ -15,11 +15,8 @@ La participation est limitée aux doctorants, chercheurs postdoctoraux, professe
 
 Nous accueillons les candidats de tous horizons et domaines d'études, en particulier les candidats de groupes actuellement sous-représentés en sciences sociales informatiques. Nous évaluons les candidats selon plusieurs dimensions: 1) la recherche et l'enseignement dans le domaine des sciences sociales informatiques 2) les contributions aux biens publics, telles que la création de logiciels open source, la conservation d'ensembles de données publiques et la création d'opportunités éducatives pour les autres 3) la probabilité de bénéficier de la participation 4) probabilité de contribuer à l'expérience éducative des autres participants 5) possibilité de diffuser les sciences sociales computationnelles à de nouvelles communautés intellectuelles et à de nouveaux domaines de recherche. De plus, les candidats qui développent 6) des intérêts de recherche sur les pays en développement en particulier en Afrique subsaharienne ou 7) sont fonctionnels en français sont encouragés à postuler. Finalement, lors de nos évaluations, nous essayerons de tenir compte du stade de carrière du candidat et des opportunités de formation antérieures.
 
-<br />
-### How To Apply
-### <a name="how_to_apply"></a>
 
----
+# How To Apply
 
 Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science, (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. All applications must include an e-mail and an alternative means of contact (e.g., phone number). 
 
