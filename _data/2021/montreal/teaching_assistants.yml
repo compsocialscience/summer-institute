@@ -1,1 +1,8 @@
-- name:
+- name: Robert Djogbenou
+  image: /2020/montreal/images/Robert_Djogbenou.JPG  
+  bio: " Robert Djogbenou is a PhD candidate in the department of Demography at Université de Montréal. His research interests include reproductive health in sub-Saharan Africa and family dynamics, integration of immigrants, migration in Canada. In the realm of computational methods, he is particularly interested in machine learning techniques and the use of social media data."
+  website: https://twitter.com/RobertDjogbenou
+  
+- name: Nima Zahedinameghi
+  image: /2020/montreal/images/Nima_Photo.JPG    
+  bio: "Nima Zahedinameghi earned a Ph.D. in sociology from Laval University. He comes to data science from a social science background where he has received both quantitative and theoretical training in the field. His current research agenda revolves around the combined application of social and complex systems theory and formal methods such as agent-based modeling and computational techniques. Methodologically, he is interested in using artificial intelligence for the study of human behavior in large-scale social systems. Nima also has a keen interest in data science as an overarching discipline for conducting interdisciplinary research in different aspects of society, politics, and economics. His current research includes a work-in-progress that provides ontological compatibility between sociology and other computational fields such as information science, and data science."
