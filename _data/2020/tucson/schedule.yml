@@ -8,7 +8,8 @@
 - date: 2021-01-04
   name: "Introduction and Ethics"
   events:
-    - name: "10:00 - 12:00 Introduction to computational social science"
+    - name: "10:00 - 11:00 Introduction to computational social science"
+    - name: "11:00 - 12:00 The Sense of Privacy w/ [Laura Brandimarte](http://www.u.arizona.edu/~lbrandimarte/index.html)"
     - name: "12:00 - 12:30 Break"
     - name: "12:30 - 2:30 Ethics in CSS w/ [Annie Boustead](https://sgpp.arizona.edu/people/anne-boustead)"
     - name: "2:30 - 3:30 Research roundtable"
