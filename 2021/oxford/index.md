@@ -9,7 +9,7 @@ From Monday, June 14 to Friday, June 25, 2021, [Nuffield College](https://www.nu
 
 During the first week we will follow a largely instructional program which will involve taught workshops (and group exercises) in the morning, reflections and discussion groups based on the material provided by the other (main and partner) SICCS sites over lunch and in the early afternoon, followed by research talks and introductions to specific areas of computational social science from Oxford and beyond. This will also include speakers from industry, government and those who conduct computational social science research in a variety of settings, not limited to academia.
 
-**We will also be hosting a jointly organized seminar series in conjunction with SICSS-London**
+**We will also be hosting a jointly organized seminar series in conjunction with SICSS-London.**
 
 The second week will focus solely on group based participant-led research projects, with funding available to build the foundations of teams and ideas which can produce publishable work, with input from the conveners. 
 
@@ -19,7 +19,7 @@ Following an introduction to 'Ethics, Open Science and Reproducible Research Pip
 2. Web scraping;
 3. Digital field experiments;
 4. Machine learning;
-5. Agent based modelling and natural language processing.
+5. Agent based modelling.
 
 There will be ample opportunities for students to discuss their ideas and research with the organizers, other participants, and visiting speakers. Because we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute will be released open source.
 
