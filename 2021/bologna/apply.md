@@ -16,11 +16,7 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 ## How To Apply
 
 Applicants must submit the following documents (all uploads must be in PDF or MS Word document format):
-(i) Your curriculum vitae (max 2 pages)
-(ii) A statement describing any current research and your interest in computational social science (max 1 page, single-spaced)
-(iii) In the second week, you will be asked to present and develop a project using computational methods. Please submit your proposed project here (max 2 pages, single-spaced)
-(iv) A writing sample (no more than 35 pages). Co-authored work is acceptable – please describe the contributions of each individual author (2-3 sentences) 
-(v) Applicants who are graduate students or postdoctoral researchers must submit 2 (two) letters of recommendation from faculty advisors. Letters of recommendation should be as informative as possible about your standing in your program, general ability, research potential, and (if applicable) special interest in computational social science. 
+(i) Your curriculum vitae (max 2 pages). (ii) A statement describing any current research and your interest in computational social science (max 1 page, single-spaced). (iii) In the second week, you will be asked to present and develop a project using computational methods. Please submit your proposed project here (max 2 pages, single-spaced). (iv) A writing sample (no more than 35 pages). Co-authored work is acceptable – please describe the contributions of each individual author (2-3 sentences). (v) Applicants who are graduate students or postdoctoral researchers must submit 2 (two) letters of recommendation from faculty advisors. Letters of recommendation should be as informative as possible about your standing in your program, general ability, research potential, and (if applicable) special interest in computational social science. 
 
 All applications must include an e-mail and second means of contact (e.g., alternative email or phone number). 
 
