@@ -11,6 +11,6 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is restricted to doctoral students, postdoctoral researchers, and untenured faculty. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. All participants are expected to fully attend and participate in the entire program.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2021/rutgers/apply) are due March 22, 2020 at http://bit.ly/sicss-RU-apply. Applicants will be notified by April 15, 2020. Inquiries may be sent to sicssrutgers@gmail.com. 
+[Application materials](https://compsocialscience.github.io/summer-institute/2021/rutgers/apply) are due March 22, 2020 at [http://bit.ly/sicss-RU-apply](http://bit.ly/sicss-RU-apply). Applicants will be notified by April 15, 2020. Inquiries may be sent to sicssrutgers@gmail.com. 
 
 Note that due to the COVID-19 pandemic, all SICSS events will take place online.
