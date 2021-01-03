@@ -1,7 +1,7 @@
 ---
 layout: host
 title: Host a Partner Location
-subtitle: Application overview and process.
+subtitle: Application overview and process
 sidebar:
   - name: Overview
     url: "#overview"
