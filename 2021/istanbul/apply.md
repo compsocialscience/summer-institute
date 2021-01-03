@@ -17,9 +17,10 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 ## How To Apply
 
 Applicants must submit the following documents: 
-(i) a curriculum vitae, 
-(ii) a statement (maximum three pages) describing both any current research and your interest in computational social science, 
-(iii) one writing sample or research proposal (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author.
+* a curriculum vitae, 
+* a personal statement (max 2 pages) describing both any current research and your interest in computational social science, 
+* a research statement (max 2 pages) outlining your project that you would like to conduct during SICSS Istanbul, 
+* a writing sample or research proposal (max 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author.
 
 **In order to be guaranteed full consideration, all application materials must be submitted before February 22, 2021. Applications that are not complete by the deadline may not receive full consideration.**  
 
