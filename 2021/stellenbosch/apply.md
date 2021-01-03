@@ -13,8 +13,8 @@ The Summer Institute aims to bring together computational social scientists acro
 
 ## How To Apply
 
-Applicants must complete the application form available at https://airtable.com/shrL7tV2GTVhMKnt0.
+Applicants must complete the application form available [here](https://airtable.com/shrL7tV2GTVhMKnt0).
 
-**In order to be guaranteed full consideration, all application materials must be submitted by 6 June 2021, 23:59 SAST.** All application materials must be submitted through https://airtable.com/shrL7tV2GTVhMKnt0. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by 14 June 2021, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by 6 June 2021, 23:59 SAST.** All application materials must be submitted through [the online submission form](https://airtable.com/shrL7tV2GTVhMKnt0). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by 14 June 2021, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to sicss-stellenbosch@mail.suinformatics.com.
