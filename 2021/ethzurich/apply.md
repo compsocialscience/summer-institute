@@ -31,3 +31,5 @@ Applicants must submit the following documents:
 - All applications must include an e-mail and an alternative means of contact (e.g., phone number).
 
 In order to be guaranteed full consideration, all application materials must be submitted by **Monday, March 22, 2021** and must be submitted through[ Google Form](https://forms.gle/YmM55gcmfAjZxGwN7). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by **April 22, 2022**, and will ask participants to confirm their participation by the end of April.
+
+Inquiries can be sent to sicss.ethz2021@gmail.com.
