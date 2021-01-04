@@ -20,4 +20,4 @@ Applicants must submit the following documents: (i) personal statement (maximum 
 
 **In order to be guaranteed full consideration, all application materials must be submitted by 11:59pm EST on Wednesday, March 31st.** All application materials must be submitted through [the SICSS-Howard/Mathematica application form](https://docs.google.com/forms/d/e/1FAIpQLSdxu2B-ab2KI8dea6Lfz_A8z0stMwS-_CtWytsqHRW1ThVMzw/viewform). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by Wednesday, April 14th, and will ask participants to confirm their participation very soon thereafter. All applicants will be notified regardless of outcome.
 
-Inquiries can be sent to  sicss.howard.mathematica@gmail.com.
+Inquiries can be sent to  sicss.howard.mathematica@gmail.com
