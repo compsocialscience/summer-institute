@@ -1,8 +1,8 @@
 - name: Chris Barrie
-  bio: Christopher Barrie is a political sociologist of protest and conflict, specializing in the Middle East and North Africa (MENA). He currently holds the position of Postdoctoral Prize Research Fellow in Sociology at Nuffield College, University of Oxford. He is particularly interested in combining qualitative field-based methods with computational techniques.
+  bio: Christopher Barrie is a political sociologist specializing in the study of protest, conflict, and communication. His regional specialism is the Middle East and North Africa (MENA). He is Lecturer in Computational Sociology at the School of Social & Political Science, University of Edinburgh.
   image: /assets/images/cbarrie.png
-  website: https://cjbarrie.github.io/
-
+  website: https://cjbarrie.xyz
+  
 - name: Charles Rahal
   bio: Charles is a social science methodologist and applied social data scientist with a background in high-dimensional econometrics, having completed his PhD in 2016. He is particularly interested in unique data origination processes, be they unstructured or otherwise, and is an advocate for open source and reproducible academic research. He presently teaches 'Python for Sociologists' and 'Replication', both in Michaelmas term, although he has also recently given workshops and guest lectures on the themes of 'An Introduction to Machine Learning' and 'An Introduction to the Command Line'.
   image: /assets/images/RahalCharles.png
