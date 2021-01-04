@@ -12,7 +12,7 @@ The Summer Institute will bring together people from many fields and backgrounds
 - Watch lecture videos
 - Prepare your computing environment
 
-TAs will host office hours through Slack to support you as you work through these pre-arrival materials.
+Teaching assistants will host office hours through Slack to support you as you work through these pre-arrival materials.
 
 ## Reading
 
@@ -28,11 +28,11 @@ If you would like more practice after completing the Boot Camp videos, some othe
 - [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/), Taught by Charles Lanfear at University of Washington. This course includes videos of lectures, slides, and assignments.
 - [Learn R](https://www.codecademy.com/learn/learn-r), Code Academy.
 
-Please note that the majority of the coding work presented at SICSS-Zürich 2021 will employ R. You are welcome to employ a language of your choice, such as Python, Julia, or other languages that are commonly used by computational social scientists.  However, we cannot support those languages.
+Please note that the majority of the coding work presented at SICSS-Zürich 2021 will employ R. You are welcome to employ a language of your choice, such as Python, Julia, or other languages that are commonly used by computational social scientists. However, we cannot support those languages.
 
 ## Lecture videos
 
-SICSS-Zürich 2021 will be using a [flipped classroom model](https://en.wikipedia.org/wiki/Flipped_classroom).  Therefore, you should watch [videos of lectures](https://sicss.io/curriculum) before our meetings, and then we will use our time together for discussion and group activities.
+SICSS-Zürich 2021 will be using a [flipped classroom model](https://en.wikipedia.org/wiki/Flipped_classroom). Therefore, you should watch [videos of lectures](https://sicss.io/curriculum) before our meetings, and then we will use our time together for discussion and group activities.
 
 ## Computing environment
 
@@ -46,7 +46,7 @@ SICSS-Zürich 2021 is a virtual event, and we will use Zoom. You can join Zoom 
 
 ### Slack
 
-Before participating at SICSS-Zürich 2021, you should have an account in the SICSS 2021 Slack workspace.  If you have not used Slack before, you should review these [getting started](https://slack.com/help/categories/360000049043-Getting-started) materials.  Slack can be hard to use at first, but we've found that it is the best way to enable everyone to collaborate.
+Before participating at SICSS-Zürich 2021, you should have an account in the SICSS 2021 Slack workspace. If you have not used Slack before, you should review these [getting started](https://slack.com/help/categories/360000049043-Getting-started) materials. Slack can be hard to use at first, but we've found that it is the best way to enable everyone to collaborate.
 
 ### GitHub
 
@@ -54,4 +54,4 @@ Many participants at SICSS use GitHub to collaborate. If you do not yet have one
 
 ## Office hours
 
-The SICSS-Princeton [TAs](https://sicss.io/2021/princeton/people#teaching_assistants) will host weekly office hours in the SICSS 2021 Slack. You can find information about the office hours in the SICSS 2021 Slack channel #pre-office-hours. If you are not able to attend during the regularly scheduled office hours or have any questions about office hours, please contact one of the [TAs](https://sicss.io/2021/princeton/people#teaching_assistants).
+The SICSS-Princeton [teaching assistants](https://sicss.io/2021/princeton/people#teaching_assistants) will host weekly office hours in the SICSS 2021 Slack. You can find information about the office hours in the SICSS 2021 Slack channel #pre-office-hours. If you are not able to attend during the regularly scheduled office hours or have any questions about office hours, please contact one of the [teaching assitants](https://sicss.io/2021/princeton/people#teaching_assistants).
