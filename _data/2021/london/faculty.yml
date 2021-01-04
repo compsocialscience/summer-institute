@@ -1,6 +1,6 @@
 - name: Andrea Baronchelli
   image: /assets/images/AndreaBaronchelli.png
-  bio: Andrea is a Reader in Mathematics at City, University of London and Economic Data Science theme lead at The Alan Turing Institute. Andrea researches self-organisation and emerging phenomena in social and economic systems. In particular, coordination and spreading phenomena on social networks, behaviour change, blockchain and cryptos, online marketplaces, human mobility, and fundamental problems in network science.
+  bio: "Andrea is a Reader in Mathematics at City, University of London and Economic Data Science theme lead at The Alan Turing Institute. Andrea researches self-organisation and emerging phenomena in social and economic systems. In particular, coordination and spreading phenomena on social networks, behaviour change, blockchain and cryptos, online marketplaces, human mobility, and fundamental problems in network science."
   website: https://sites.google.com/site/andreabaronchelli/
 
 - name: Joshua Becker
@@ -10,7 +10,7 @@
 
 - name: Nicola Perra
   image: /assets/images/NicolaPerra.jpg
-  bio: "Nicola is an Associate Professor (Reader) in Network Science at the Business School of Greenwich University, London, UK."
+  bio: "Nicola is an Associate Professor (Reader) in Network Science at the Business School of Greenwich University, London, UK. Nicola's research focuses on human dynamics, big-data analytics, network science, and mathematical/digital epidemiology. In particular, his interests lie on the characterization and modeling of dynamical processes unfolding on time-varying and multiplex networks, human adaptive behaviors, data-driven modeling of infectious diseases, and the study of Online/Offline Social Networks."
   website: http://www.nicolaperra.com/
 
 - name: Milena Tsvetkova
