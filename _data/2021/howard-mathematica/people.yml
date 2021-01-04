@@ -4,11 +4,14 @@ faculty:
 speakers:
   title: Speakers
 
-teaching_assistants:
-  title: Teaching assistants
-
 participants:
   title: Participants
 
 organizers:
   title: Organizer
+
+teaching_assistants:
+  title: Teaching Assistants
+  
+event_staff:
+  title: Event Staff
