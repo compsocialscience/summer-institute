@@ -17,6 +17,6 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 Applicants must submit the following documents: (1) A short statement (no more than 300 words) that summarizes your research interests, your achievements, and potential contributions to the event; (2) your CV; (3) a publication or writing sample that best represents your research ability and interests; and (4) contact information of faculty advisors.
 
-**In order to be guaranteed full consideration, all application materials must be submitted by April 1 2021.** All application materials must be submitted through [Google form](https://docs.google.com/forms/d/1FhX1xZu4VeEH3AnO15sDdqD0Oqb46jg8dnXq1F0U2Aw/edit). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by the end of April, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by April 1 2021.** All application materials must be submitted through [Google form](https://forms.gle/LiAFEw4bPgSYKUxH8). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by the end of April, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to sicss.beijing@gmail.com.
