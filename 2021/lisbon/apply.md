@@ -19,4 +19,4 @@ Applicants must submit the following documents: (i) a curriculum vitae, (ii) a s
 
 **In order to be guaranteed full consideration, all application materials must be submitted by Wednsday, March 31, 2021.** All application materials must be submitted through [google form](https://docs.google.com/forms/d/e/1FAIpQLSfx3h0uGVodkPIKulC6GDBKVMKsAMO6Wm1Ze4K7hJKXcv2XJg/viewform). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by Wednsday, April 21, 2021, and will ask participants to confirm their participation very soon thereafter.
 
-Inquiries can be sent to qiwei.han@novasbe.pt, rs.filipa@gmail.com, alessandro.gambetti@novasbe.pt or nickmao1994@gmail.com.
+Inquiries can be sent to qiwei.han@novasbe.pt.
