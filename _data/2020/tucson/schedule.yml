@@ -17,8 +17,8 @@
 - date: 2021-01-05
   name: "Surveys and Experiments"
   events:
-    - name: "10:00 - 11:00 Random and non-random sampling w/ [Samara Klar](http://samaraklar.com/)"
-    - name: "11:00 - 12:00 Programming and administering surveys w/ [Samara Klar](http://samaraklar.com/)"
+    - name: "10:00 - 11:00 Random and non-random sampling w/ [Samara Klar](http://samaraklar.com/) ([materials](https://github.com/thesickish/WICSS/tree/main/Day%202%20-%20Surveys))"
+    - name: "11:00 - 12:00 Programming and administering surveys w/ [Samara Klar](http://samaraklar.com/) ([materials](https://github.com/thesickish/WICSS/tree/main/Day%202%20-%20Surveys))"
     - name: "12:00 - 12:30 Break"
     - name: "12:30 - 1:30 Externally-valid experiments w/ [Frank Gonzalez](https://sgpp.arizona.edu/people/frank-gonzalez) ([materials](https://github.com/thesickish/WICSS/tree/main/Day%202%20-%20Experiments))"
     - name: "1:30 - 2:30 Conjoint experiments w/ [Frank Gonzalez](https://sgpp.arizona.edu/people/frank-gonzalez) ([materials](https://github.com/thesickish/WICSS/tree/main/Day%202%20-%20Experiments))"
