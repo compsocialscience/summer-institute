@@ -20,7 +20,7 @@ Nous accueillons les candidats de tous horizons et domaines d'études, en partic
 
 Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science, (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. All applications must include an e-mail and an alternative means of contact (e.g., phone number). 
 
-**In order to be guaranteed full consideration, all application materials must be submitted through the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeSdCa_7kwpXbCGS8T4YfuYXcqj5fW4yVReHnU0I9dwlbd3rA/viewform?vc=0&c=0&w=1&flr=0&gxids=7628) by Monday, February 22, 2021 at 11:59**. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail in mid-April, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted through the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeSdCa_7kwpXbCGS8T4YfuYXcqj5fW4yVReHnU0I9dwlbd3rA/viewform?vc=0&c=0&w=1&flr=0&gxids=7628) by Friday, April 2, 2021 at 11:59 pm**. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail in mid-April, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to <sicss.montreal@gmail.com>.
 
