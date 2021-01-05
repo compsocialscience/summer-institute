@@ -1,3 +1,76 @@
-- date: 2021-06-14
+- date: All times are in British Summer Time (BST)
+- date: The current schedule is preliminary
+
+- date: 2021-06-13
   events:
-    - name: "Schedule coming soon..."
+    - name: "5:00pm Meet-and-greet"
+    
+- date: 2021-06-14
+  name: Introduction and Ethics
+  events:
+    - name: "9:00 - 9:30 Housekeeping, introductions"
+    - name: "10:00 - 12:00 Introduction to reproducible workflows"
+    - name: "12:00 - 1:00 Lunch"
+    - name: "1:30 - 3:30 Ethics with exercise"
+    - name: "4:00 - 6:00 Research talks"
+    
+- date: 2021-06-15
+  name: Working with digital data - web scraping and APIs
+  events:
+    - name: "9:00 - 12:00 Workshop"
+    - name: "12:00 - 1:00 Lunch"
+    - name: "1:30 - 3:30 Group exercise"
+    - name: "4:00 - 6:00 Research talks"    
+
+- date: 2021-06-16
+  name: Non-probability samples
+  events:
+    - name: "9:00 - 12:00 Workshop"
+    - name: "12:00 - 1:00 Lunch"
+    - name: "1:30 - 3:30 Group exercise"
+    - name: "4:00 - 6:00 Research talks"   
+
+- date: 2021-06-17
+  name: Text as data 
+  events:
+    - name: "9:00 - 12:00 Workshop"
+    - name: "12:00 - 1:00 Lunch"
+    - name: "1:30 - 3:30 Group exercise"
+    - name: "4:00 - 6:00 Research talks"   
+
+- date: 2021-06-18
+  name: Machine learning + computer vision 
+  events:
+    - name: "9:00 - 12:00 Workshop"
+    - name: "12:00 - 1:00 Lunch"
+    - name: "1:30 - 3:30 Group exercise"
+    - name: "4:00 - 6:00 Research talks"   
+
+- date: 2021-06-19
+  name: Geospatial data and analysis 
+  events:
+    - name: "9:00 - 11:00 Workshop"
+    - name: "11:30 - 13:00 Group exercise" 
+
+- date: 2021-06-21
+  name: Group projects
+  events:
+    - name: "9:00 - 12:00 Brainstorming/sorting for group formation in the morning"
+    - name: "12:00 - 1:00 Lunch"
+    - name: "1:30 - 3:30 Groups work on projects"
+    - name: "4:00 - 6:00 Research talks"  
+
+- date: 2021-06-22
+  name: Group projects
+
+- date: 2021-06-23
+  name: Group projects
+
+- date: 2021-06-24
+  name: Group projects  
+  
+ - date: 2021-06-21
+  name: Present group projects
+  events:
+    - name: "12:00 - 4:00 Present group projects"
+    - name: "4:00 - 4:30 Debrief and conclusion"   
