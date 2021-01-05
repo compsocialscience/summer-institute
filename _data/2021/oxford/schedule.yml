@@ -1,4 +1,4 @@
-- date: All times are in British Summer Time (BST)
+- date: All times are in British Summer Time 
 
 - date: The current schedule is preliminary
 
@@ -40,7 +40,7 @@
     - name: "4:00 - 6:00 Research talks"   
 
 - date: 2021-06-18
-  name: Machine learning + computer vision 
+  name: Machine learning and computer vision 
   events:
     - name: "9:00 - 12:00 Workshop"
     - name: "12:00 - 1:00 Lunch"
@@ -69,9 +69,9 @@
 
 - date: 2021-06-24
   name: Group projects  
-  
- - date: 2021-06-21
+
+- date: 2021-06-21
   name: Present group projects
   events:
     - name: "12:00 - 4:00 Present group projects"
-    - name: "4:00 - 4:30 Debrief and conclusion"   
+    - name: "4:00 - 4:30 Debrief and conclusion"
