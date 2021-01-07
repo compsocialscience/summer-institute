@@ -1,1 +1,6 @@
-- name: 
+- name: Matti Nelimarkka
+  image: /assets/images/MattiNelimarkka.jpeg
+  bio: "Matti Nelimarkka teaches computational social science at the University of Helsinki, [Centre for Social Data Science](https://www.helsinki.fi/en/faculty-of-social-sciences/centre-for-social-data-science-csds).
+  He leads the Helsinki Social Computing research group, which focuses both on digital democracy and use of digital and computational methods in social sciences.
+  He is about to publish a new computational social science text book [Coding Social Science](http://codingsocialscience.org/) via SAGE Publishing."
+  website: https://me.mante.li

@@ -5,7 +5,7 @@ partner_site: rutgers
 
 # Pre-arrival
 
-The Summer Institute will bring together people from many fields and backgrounds. In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS-Rutgers 2021.
+The Summer Institute will bring together people from many fields and backgrounds. Since the Summer Institute will involve hands-on data analysis, we strongly encourage all participants to develop a basic familiarity with data analysis software. In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS-Rutgers 2021.
 
 - Complete the pre-read
 - Complete coding bootcamp (if needed)
@@ -27,6 +27,7 @@ If you would like more practice after completing the Boot Camp videos, some othe
 - [R for Social Science](https://datacarpentry.org/r-socialsci/), Data Carpentry.  
 - [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/), Taught by Charles Lanfear at University of Washington. This course includes videos of lectures, slides, and assignments.
 - [Learn R](https://www.codecademy.com/learn/learn-r), Code Academy.
+- [Rutgers Library Resources](https://libguides.rutgers.edu/data/data_R), The Rutgers University Library offers a seres of workshops on using R for data analysis. We recommend completing the workshops on R for data analysis and R data wrangling.
 
 Please note that the majority of the coding work presented at SICSS-Rutgers 2021 will employ R. You are welcome to employ a language of your choice, such as Python, Julia, or other languages that are commonly used by computational social scientists.  However, we cannot support those languages.
 

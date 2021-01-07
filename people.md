@@ -1,5 +1,5 @@
 ---
 layout: people_search
 title: People
-subtitle: Participants are Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D.
+subtitle: Search our community of nearly 1,000 graduate students, post-docs, professors, and scholars outside academia
 ---

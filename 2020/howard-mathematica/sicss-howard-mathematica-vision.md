@@ -17,7 +17,7 @@ storied U Street and Howard Theatre and two miles from the U.S. Capitol. Howard 
 <i>SICSS-Howard/Mathematica: Lifting New Voices to Address Ethics and Equity in AI with Mathematica</i> is yet another way that Howard continues its commitment to the context of our founding – an unwavering question to balance the scales for the 
 disenfranchised, and promote an American that is devoid of inequalities.  Howard has existed to address a plethora of 
 disparities that disproportionately affect the African-American population wherever it may occur.  AI presents a rapidly 
-evolving frontier where new voices are needed more than ever to promote <i>Veritas and Utilitias</i> (Truth and Service).
+evolving frontier where new voices are needed more than ever to promote <i>Veritas and Utilitas</i> (Truth and Service).
 
 “Howard University’s founding of SICSS-Howard/Mathematica: Lifting New Voices to Address Ethics and Equity in AI with Mathematica is yet another way that Howard continues its commitment to the context of our founding—an unwavering question to balance the scales for the disenfranchised, and promote an America that is devoid of inequalities,” says Howard University President Wayne A. I. Frederick.
 

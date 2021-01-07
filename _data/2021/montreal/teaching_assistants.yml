@@ -1,1 +1,8 @@
-- name:
+- name: Robert Djogbenou
+  image: /2020/montreal/images/Robert_Djogbenou.JPG  
+  bio: "Robert Djogbenou is a PhD candidate in the department of Demography at the Université de Montréal. His research uses computational approaches to study immigrants’ socio-cultural integration in Canada. His other interests include reproductive health and family dynamics in sub-Saharan Africa. He is affiliated with the Lab on quantitative and computational social science at the Université du Québec à Montréal."
+  website: https://twitter.com/RobertDjogbenou
+  
+- name: Nima Zahedinameghi
+  image: /2020/montreal/images/Nima_Photo.JPG    
+  bio: "Nima Zahedinameghi is a postdoctoral researcher at the Lab on quantitative and computational social science at the Université du Québec à Montréal. He earned a Ph.D. in sociology from Laval University. His current research agenda revolves around the combined application of social and complex systems theory and formal methods such as agent-based modelling and computational techniques. Methodologically, he is interested in using artificial intelligence for the study of human behavior in large-scale social systems."
