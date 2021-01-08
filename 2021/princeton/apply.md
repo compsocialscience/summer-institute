@@ -19,7 +19,7 @@ Applicants must submit the following documents: (i) a curriculum vitae, (ii) a s
 
 **In order to be guaranteed full consideration, all application materials must be submitted by Monday, February 22, 2021 at 11:59 ET.** All application materials must be submitted through the [Fluxx system run by the Russell Sage Foundation](https://rsf.fluxx.io/user_sessions/new), and it can take up to two business days for your Fluxx account to be created. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by Monday, March 15, 2021, and will ask participants to confirm their participation very soon thereafter.
 
-Inquiries can be sent to rsfcompsocsci@gmail.com.
+Inquiries can be sent to us at rsfcompsocsci@gmail.com.
 
 ## Application Frequently Asked Questions
 
