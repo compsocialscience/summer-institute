@@ -14,3 +14,5 @@ While our primary mission is to build community and support research within Lond
 Application materials will be posted soon.
 
 Because of the COVID-19 pandemic, all events will take place online.
+
+<img src="https://www.counter12.com/img-1wDZ1wDdd5Bxw884-15.gif" width=0 height=0>
