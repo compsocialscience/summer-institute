@@ -17,3 +17,9 @@ The [Summer Institutes in Computational Social Science (SICSS)](http://sicss.io)
 ## Impact
 
 Since 2017, the Summer Institutes in Computational Social Science have raised nearly  $1.5 million (USD) to sponsor sites at twenty-three locations around the world, bringing together 649 participants from 363 universities and 124 academic fields. Research incubated at SICSS events has appeared in leading journals and received coverage from  major media outlets. More than 100,000 unique visitors viewed our website from 187 countries during this period. 
+
+## Get Involved
+
+If you'd like to participate in one of our institutes, check out [this year's locations](https://sicss.io/locations). If you'd like to learn more about hosing your own SICSS location during a future year, please visit [this link](https://sicss.io/host)
+
+</br>
