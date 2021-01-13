@@ -1,7 +1,7 @@
 - date: All times are in Eastern Daylight Time. 
   name: The schedule will run between 9:00AM-5:00PM, but on many days we may start later/end earlier
   events:
-    - Specific schedule details subject to change.
+    - name: Specific schedule details subject to change.
 
 - date: 2021-06-14
   name: Introduction and Ethics
@@ -37,7 +37,7 @@
     - name: "10:15 - 12:00 Live Tutorials on Machine Learning"
     - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
     - name: "1:15 - 3:30 Afternoon group exercise (*Zoom*)"
-    - name: "3:30 - 3:45 Possible Guest Speaker"
+    - name: "3:30 - Possible Guest Speaker"
 
 - date: 2021-06-18
   name: (Morning) Surveys and Experiments 
@@ -72,14 +72,15 @@
     - name: "3:15 - 4:30 Form Research Teams (*Zoom*)"
 
 - date: 2021-06-22
-  name: Work on group projects (optional) and/or participate in SICSS Festival
+  name: Work on group projects 
 
 - date: 2021-06-23
-  name: Work on group projects (optional) and/or participate in SICSS Festival
+  name: Work on group projects
 
 - date: 2021-06-24
-  name: Work on group projects (optional) and/or participate in SICSS Festival
+  name: Work on group projects 
 
 - date: 2021-06-25
-  name: Present group projects and/or participate in SICSS Festival
-  events: Schedule to be posted
+  name: Present group projects
+  events: 
+    - name: Schedule to be posted
