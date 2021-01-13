@@ -43,9 +43,7 @@
   name: (Morning) Surveys and Experiments 
   events:
     - name: "10:00 - 10:15 Logistics (*Zoom*)"
-    - name: "10:15 - 10:30 Introduction to the group exercise [Video](https://www.youtube.com/watch?v=ZI95vV7Co38) [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/06-ffchallenge_participate_activity.pdf) (*Zoom*)"
-    - name: "10:30 - 11:30 Participate in the Fraglie Families Challenge [Lesson plan (participants)] (link coming soon) (*Zoom*)"
-    - name: "11:30 - 12:00 Break"
+    - name: "10:15 - 12:00 Group Exercise (*Zoom*)"
     - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
 
 - date: 2021-06-18
