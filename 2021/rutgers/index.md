@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: rutgers
 main: true
-image: /assets/images/rutgerslibrary.jpg
+image: /assets/images/RutgersUniversity.jpg
 ---
 
 From Monday, June 14 to Friday, June 25, 2021, Rutgers University will hold a virtual session of the Summer Institute in Computational Social Science. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
