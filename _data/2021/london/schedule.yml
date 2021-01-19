@@ -12,6 +12,7 @@
 
 - date: 2021-06-15
   name: Collecting Digital Trace Data
+  events:
     - name: "10:00 - 4pm Discussion and Exercises"
 
 - date: 2021-06-16
