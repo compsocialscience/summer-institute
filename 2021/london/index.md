@@ -11,8 +11,9 @@ The instructional program will involve lectures, group problem sets, and partici
 
 While our primary mission is to build community and support research within London and the UK, participation is open to all early career researchers. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science.  Participants are expected to fully attend and participate in the entire program.
 
-Application materials will be posted soon.
+Participants with less experience in social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R or Python programming language. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours before the Institute.
 
 [Application materials](https://compsocialscience.github.io/summer-institute/2021/london/apply) are due Friday, March 19, 2021.
+
 
 <img src="https://www.counter12.com/img-1wDZ1wDdd5Bxw884-15.gif" width=0 height=0>
