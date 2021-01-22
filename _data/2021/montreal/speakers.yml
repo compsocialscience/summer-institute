@@ -1,12 +1,12 @@
-- name: Anatoliy Gruzd
-  image: /2021/montreal/Photos/Anatoliy_Gruzd_profile.jpg
-  bio: "Anatoliy Gruzd is a Canada Research Chair (CRC) in Privacy-Preserving Digital Technologies, an Associate Professor at the Ted Rogers School of Information Technology Management and the Director of Research at the Social Media Lab at Ryerson University. He is also a Member of the Royal Society of Canada’s College of New Scholars, Artists and Scientists, a co-editor of a multidisciplinary journal on Big Data and Society, and a founding co-chair of the International Conference on Social Media and Society. As a computational social scientist, Dr. Gruzd’s research broadly explores how social media platforms are changing the ways in which people and organizations communicate, collaborate, disseminate information and misinformation, conduct business and form communities online, and how these changes impact society. Dr. Gruzd’s expertise lies in studying online communities and social networks, and developing new computational methods and tools to study public discourse on social media sites in a wide variety of domains."
-  website: https://www.ryerson.ca/information-technology-management/faculty-research/anatoliy-gruzd/
-
 - name: Ashton Anderson
   image: /2021/montreal/Photos/Ashton Anderson.jpeg
   bio: "Ashton Anderson is an Assistant Professor of Computer Science at the University of Toronto, where he is also a Faculty Affiliate with both the Vector Institute and the Schwartz-Reisman Institute for Technology and Society. He received his PhD from Stanford University in 2015 and completed a postdoctoral appointment at Microsoft Research NYC in 2017. His research in computational social science encompasses a diverse range of questions at the intersection of AI, data, and society. His work has appeared in top-tier venues including the Proceedings of the National Academy of Sciences, Management Science, and the International Conference on Machine Learning. He received a best paper runner-up award at WWW 2014, was invited to the 2016 TKDD Special Issue of Best Papers of KDD 2016, and won the 2012–2015 Google PhD Fellowship in Social Computing."
   website: http://www.cs.toronto.edu/~ashton/
+
+- name: Anatoliy Gruzd
+  image: /2021/montreal/Photos/Anatoliy_Gruzd_profile.jpg
+  bio: "Anatoliy Gruzd is a Canada Research Chair (CRC) in Privacy-Preserving Digital Technologies, an Associate Professor at the Ted Rogers School of Information Technology Management and the Director of Research at the Social Media Lab at Ryerson University. He is also a Member of the Royal Society of Canada’s College of New Scholars, Artists and Scientists, a co-editor of a multidisciplinary journal on Big Data and Society, and a founding co-chair of the International Conference on Social Media and Society. As a computational social scientist, Dr. Gruzd’s research broadly explores how social media platforms are changing the ways in which people and organizations communicate, collaborate, disseminate information and misinformation, conduct business and form communities online, and how these changes impact society. Dr. Gruzd’s expertise lies in studying online communities and social networks, and developing new computational methods and tools to study public discourse on social media sites in a wide variety of domains."
+  website: https://www.ryerson.ca/information-technology-management/faculty-research/anatoliy-gruzd/
 
 - name: Éric Lacourse
   image: /2021/montreal/Photos/Eric_Larcoux.jpg
