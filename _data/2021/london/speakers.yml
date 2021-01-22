@@ -1,1 +1,10 @@
-- name: Coming Soon!
+- name: Viktoria Spaiser
+  image: /assets/images/ViktoriaSpaiser.jpg
+  bio: "Viktoria is an Associate Professor in Sustainability Research and Computational Social Sciences. She is also affiliated with the Leeds Institute for Data Analytics (LIDA) and the Priestley International Centre for Climate in Leeds. Before her time at Leeds, she worked as a postdoctoral researcher at the Stockholm Institute for Futures Studies and at the Department of Mathematics, Uppsala University in Sweden. Viktoria's current research focuses on how societies can make a rapid, fair and empowering transition to zero-emissions / zero-pollution and specifically how normative change initiated by climate change movements such as Fridays for Future can contribute to social tipping in the response to the climate crisis. In her research she uses computational social science approaches such as Agent Based Modelling, Natural Language Processing of large-scale textual data e.g. from Twitter, Dynamical Systems Modelling etc."
+  website: https://www.viktoriaspaiser.com/
+  
+- name: Ken Benoit
+  image: /assets/images/KenBenoit.jpg
+  bio: "Kenneth Benoit is Professor of Computational Social Science in the Department of Methodology at the London School of Economics and Political Science, and Professor (Part-time) in the School of Politics and International Relations, Australian National University. He has previously held positions in the Department of Political Science at Trinity College Dublin and at the Central European University (Budapest). He received his Ph.D. (1998) from Harvard University, Department of Government."
+  website: https://kenbenoit.net/
+  
