@@ -15,7 +15,7 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 ## How To Apply
 
-Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science, (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. Applicants who are current students should provide the name of one reference letter writer. 
+Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science, (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. 
 
 **In order to be guaranteed full consideration, all application materials must be submitted by Friday, March 19, 2021.** All application materials must be submitted through the following google form: [https://forms.gle/HmVx9GFxWEUFyQ29A](https://forms.gle/HmVx9GFxWEUFyQ29A) .  Applications that are not complete by the deadline may not receive full consideration. We will notify applicants through e-mail by Monday, March 29, 2021, and will ask participants to confirm their participation very soon thereafter.
 
