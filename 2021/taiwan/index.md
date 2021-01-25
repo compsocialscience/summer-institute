@@ -1,6 +1,6 @@
 ---
 layout: location_detail
-partner_site: chengchi
+partner_site: taiwan
 main: true
 image: /assets/images/chengchi.jpg
 ---
