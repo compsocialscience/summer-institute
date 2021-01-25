@@ -18,4 +18,5 @@ SICSS-Howard/Mathematica is groundbreaking for a number of reasons. Most notably
 
 Because of the COVID-19 pandemic, all events will take place online.
 
-Join our [Email List](https://docs.google.com/forms/d/e/1FAIpQLSfD7YNUdhhngu4glivO2CAzKX1ief6p2Yyj2B49cdwgk-qwCA/viewform) for the most up to date information on SICSS-Howard/Mathematica.
+Join our [Email List](https://docs.google.com/forms/d/e/1FAIpQLSfD7YNUdhhngu4glivO2CAzKX1ief6p2Yyj2B49cdwgk-qwCA/viewform) for the most up to date information on SICSS-Howard/Mathematica, or visit us on [Facebook](https://www.facebook.com/SICSS.Howard.Mathematica) and [Twitter](https://twitter.com/sicss_howard).  
+
