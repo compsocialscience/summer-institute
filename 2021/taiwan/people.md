@@ -1,5 +1,5 @@
 ---
 layout: location_detail
-partner_site: chengchi
+partner_site: taiwan
 people: true
 ---
