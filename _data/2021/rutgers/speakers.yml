@@ -1,1 +1,11 @@
-- name:
+- name: Christopher Fariss
+  image: /assets/images/farissChris.jpg
+  bio: "Christopher Fariss is Assistant Professor in the Department of Political Science at the University of Michigan."
+  website: http://cfariss.com/
+
+- name: Zhanna Terechshenko
+  image: /assets/images/terechshenkoZhanna.jpg
+  bio: "Zhanna Terechshenko is a Postdoctoral Fellow at the Center for Social Media and Politics at New York University."
+  website: http://zterechshenko.com/
+  
+- name: More to be added soon!
