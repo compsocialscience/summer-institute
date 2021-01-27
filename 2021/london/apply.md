@@ -7,7 +7,7 @@ partner_site: london
 
 ## Eligibility
 
-While our primary mission is to build community and support research within London and the UK, participation is open to all early career researchers.
+While our primary mission is to build community and support research within London and the UK, participation is open to all early career researchers.  About 20 participants will be invited.
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R programming language. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours during the two months before the Institute.
 
