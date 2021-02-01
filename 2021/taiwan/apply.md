@@ -12,7 +12,7 @@ The Summer Institute aims to bring together computational social scientists acro
 We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research 6) potential topic related to Taiwanese contexts. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
 
 ## How to Apply
-Applications will be open on February 1st, 2021. Details will be available on the same date.
+Applications is now open. Please submit via the following form: https://forms.gle/aHZaRG2whYM8LAh7A 
 
 Applicants must submit the following documents: 1) Resume/CV and 2) Application form
 In order to be guaranteed full consideration, all application materials must be submitted by March 1st, 2021. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by March 31st, 2021, and will ask participants to confirm their participation by paying a $1,000 NTD deposit (fully refundable at the completion of the program) within 7-day period.
