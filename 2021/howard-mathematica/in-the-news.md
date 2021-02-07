@@ -17,6 +17,11 @@ image: /assets/images/howard.jpg
 <br><font size = "1">(Posted by <a href="https://ocean.sagepub.com/blog/diversity/uncovering-new-keys-to-countering-anti-black-racism-and-inequity-using-computational-social-science">SAGEOcean</a>)</font>
 
 
+<u>Howard University and Mathematica to Host Computational Social Science Institute</u>
+<br><font color="grey"><font size="2">February 4, 2021</font></font> 
+<br><i><font size = "2">New program will focus on countering anti-Black racism and inequity  </font></i> 
+<br><font size = "1">(Posted by <a href="https://www.mathematica.org/news/howard-university-and-mathematica-to-host-computational-social-science-instituteutm_source=acoustic&utm_medium=email&utm_campaign=email&utm_content=SICSS%20020521%20(1)">Mathematica</a>)</font>
+
 
 
 
