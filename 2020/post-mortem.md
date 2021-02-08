@@ -15,7 +15,8 @@ We’ve just completed the 2020 [Summer Institutes in Computational Social Scien
 - [SICSS-Maastricht](#maastricht) organized by Monika Leszczyńska (SICSS-Princeton 19) and Catalina Goanta
 - [SICSS-Montreal](#montreal) organized by Vissého Adjiwanou (SICSS-Cape Town 18, 19, SICSS-Princeton 17) and Julie Hussin
 - [SICSS-Rutgers](#rutgers) organized by Katherine McCabe (SICSS-Princeton 19), Hana Shepherd, and Kira Sanbonmatsu
-- [SICSS-Stellenbosch](#stellenbosch) organized by Aldu Cornelissen (SICSS Cape Town 18), Douglas Parry (SICSS Cape Town 19), and Richard Barnett (SICSS Cape Town 18)
+- [SICSS-Stellenbosch](#stellenbosch) organized by Aldu Cornelissen (SICSS-Cape Town 18), Douglas Parry (SICSS-Cape Town 19), and Richard Barnett (SICSS-Cape Town 18)
+- [WICSS-Tucson](#tucson) organized by Thomas Davidson (SICSS-Princeton 19) and Yotam Shmargad
 - [SICSS-UCLA](#los_angeles) organized by Alina Arseniev-Koehler (SICSS-University of Washington 18, SICSS-UCLA 19), Jennie E. Brand (SICSS-UCLA 19), Pablo Geraldo Bastías (SICSS-UCLA 19), and Bernard Koch (SICSS-UCLA 19)
 
 In addition to the locations that happened virtually, we have 13 locations postponed because of COVID: SICSS-Beijing, SICSS-Chicago, SICSS-Copenhagen, SICSS-HSE University, SICSS-Helsinki, SICSS-Howard-Mathematica, SICSS-Konstanz, SICSS-Milano, SICSS-NYU, SICSS-Oxford, SICSS-Paris, SICSS-Princeton-CITP, and SICSS-Tokyo.
@@ -621,6 +622,62 @@ Several of our participants engaged with the SICSS-Festival to a greater or less
 ### 6. Concluding Remarks
 
 Overall feedback received from participants was very positive and we are delighted to have been able to bring SICSS back to Africa. While we experienced a few technical glitches here and there, and made a few mistakes as we transitioned to virtual, we believe that our event was a success and we look forward to holding it again in future, either virtually, or as time allows, in person.
+
+<hr />
+
+<h2 class="display-4" id="tucson">WICSS-Tucson</h2>
+
+This is the post-mortem for the Winter Institute in Computational Social Science, hosted virtually by the University of Arizona between January 3-9, 2021. We have organized the post-mortem into three sections: 1) Promotion, Selection, and Onboarding, 2) Main Event, and 3) Participant Feedback.
+
+### 1. Promotion, Selection, and Onboarding
+
+We initially planned to host an in-person event that would include between 20-30 participants. As the other 2020 SICSS sites started canceling or moving their site to a virtual format to slow the spread of the novel coronavirus, we were fortunate to be able to delay our decision because our site would take place over Winter (in 2021) rather than Summer. We eventually made our decision to move to a virtual format too after consulting with several folks at the University of Arizona and the main SICSS organizers Chris Bail and Matthew Salganik.
+
+We promoted the event on Twitter on several occasions throughout 2020, starting with the [initial announcement of the SICSS partner sites](https://twitter.com/thesickish/status/1214248334719737856) in January. We did a [second round of promotion](https://twitter.com/thomasrdavidson/status/1251933944192413696) in April once opening up the application process, which initially had a deadline of July 1st. We had a [third round of promotion](https://twitter.com/thomasrdavidson/status/1277684212934545409) before that deadline in late June, after the completion of the main SICSS site at Duke. We did not end up receiving many applications before the July 1st deadline, likely because 1) the event was still several months away and 2) the pandemic made it difficult for people to make plans far in advance.
+
+In September, we decided to extend the application deadline to November 1st and [promoted the new deadline on Twitter](https://twitter.com/thesickish/status/1306225149893459968). One week before the new deadline, we [promoted the event on Twitter one last time](https://twitter.com/thesickish/status/1319273564881612805), announcing the speakers that we had lined up for the week. We also reached out to departments at the University of Arizona and Arizona State University to solicit their help in promoting the event. Finally, we posted the event on several academic listservs. This was an effective method, but possibly shaped the composition of our applicant pool. A high proportion of our applicants, and consequently our participants, were housed in political science departments. In the end, we received just under 100 applications, including a few duplicates.
+
+To select the final set of participants from the application pool, each of the organizers went through the list of applicants on their own and scored each applicant as No/Yes/Maybe. The applicants’ CV, research statement, and writing sample were used to make these decisions. The organizers met twice to calibrate our criteria, compare scores, and decide on the final set of participants. Several applicants were excluded because they had previously participated in other SICSS sites. Another topic of discussion during these meetings was the possibility of increasing the set of participants beyond the initial limit of 30. This was one of the most significant advantages of having a virtual site, since it allowed us to include a larger and more diverse set of participants. We decided to limit our pool to 45 participants because we were concerned that 1) it would be difficult for us to manage a larger group and 2) it could make it challenging for participants to form meaningful connections with one another. In the end, we accepted 45 participants, 41 of whom ended up attending the institute. 
+
+Of those who accepted, 22 reported identified as female (54%), one as non-binary, and 18 as male. 19% of our applicants were from universities outside of the United States. Several different disciplines were represented among our participants, including social work, information science, business, and environmental studies. Political science (44%), sociology (12%), and communications (10%) were the largest groups. The majority of participants were graduate students (78%). Four Junior faculty members and four post-docs made up the remainder of the participants. 
+
+After confirming with the speakers about providing sessions for WICSS-Tucson, the organizers set up virtual meetings with the speakers to discuss the contents and scope of what they would present. The organizers also set up a Google Drive folder where speakers could upload any slides, readings, and code that they planned to use during their sessions. One of our site’s TAs went through the code, all of which was in R, and attempted to run it and produced an introductory script that we shared with participants about 10 days before the institute began. We asked our participants to run this script to ensure that all necessary packages were installed before the institute and that they obtained the necessary API authentications in advance. Our site’s other TA created links on Zoom and Wonder that we would use for the main event. We sent an email to accepted participants with information to help them prepare, including a link to the [SICSS-Bootcamp tutorials](https://twitter.com/chris_bail/status/1303496513918771203).
+
+### 2. Main Event
+The Winter Institute began with a virtual meet-and-greet on January 3rd. The meet-and-greet included four 15-minute sessions where participants were randomly divided up into Zoom breakout rooms of 3 or 4 people. Both organizers and both TAs attended the meet-and-greet along with several of the week’s speakers and a large majority of the site’s participants. The idea to have a meet-and-greet was the product of an initial meeting between the organizers and the TAs to plan the site. Both TAs had attended SICSS-Duke virtually over the summer and suggested adding a meet-and-greet, which turned out to be a great idea.
+
+The week included guest speaker sessions, research roundtables where participants discussed their own ideas, a keynote, a virtual social event, and breaks. The guest speaker sessions and keynote were held over Zoom, while the research roundtables and breaks were held over Wonder. The virtual social event used both platforms. Switching between platforms went pretty smoothly, though a couple of participants reported having issues with Wonder. The morning of the first day included brief introductions by all of the participants, which ended up taking longer than expected by about half an hour. All of the guest speakers for the day were informed and accommodated the time change. However, this longer morning did not include any breaks, something that came up in the daily survey that we corrected on the following days.
+
+Later in the week, two of the guest speaker sessions also went longer than expected. When it was time to switch to the next activity, we polled participants to gauge whether they wanted to continue with the session or move on to the next activity (a research roundtable). Both times, a majority of participants voted to continue with the session, though a sizable minority voted for the research roundtables. In the end, we went with the majority and continued with the guest speaker sessions, though some participants reported wanting more research roundtables in the survey that we sent out at the end of the week. In hindsight, we could have set up two tracks, one for continuing the guest speaker sessions (on Zoom) and another for the research roundtables (on Wonder).
+
+All in all, participants were engaged throughout the week. The organizers and TAs used Slack and private chat over Zoom to make adjustments in real-time, while also accommodating more structural program changes (more breaks, fewer research roundtables) through the daily surveys and Zoom polls. Because the event was held over Winter break, there was only enough time for a single week’s worth of activities. While the institute provided participants with opportunities to learn and socialize with each other at a unique time of the year for SICSS, the event was shorter and did not offer as many opportunities for participants to apply what they learned (as other sites typically do in the second week). This tradeoff is important to consider for other sites that are planning to host a Winter institute.
+
+We found there to be clear costs and benefits of a virtual site. Starting with the benefits, the format allowed us to admit a larger, more diverse pool of applicants than originally anticipated. We did not have to spend any time dealing with logistics and other issues that might arise in an in-person event. This allowed the organizers and TAs to focus their attention on developing the materials and interacting with the participants. There are costs to having a virtual site, including difficulty networking with others in more informal ways and research discussions not translating too well in an online space.  
+
+### 3. Participant Feedback
+
+We conducted daily surveys to get feedback from our participants about how we could improve the site. We used the same format as prior SICSS daily surveys. Each day the organizers and the TAs met before the first session to discuss the survey responses and to talk about any changes we wanted to make. We received a total of 41 responses over the week. Additionally, we sent out a survey at the end of the event. We received 20 responses for this final survey (49% response rate). 
+
+In general, participants reported having a very positive experience. They reported learning a lot of new content, enjoying the lectures, and appreciating the opportunity to interact with one another. They also highly valued the help from the two TAs. 
+
+Below is a summary of the issues raised by participants, how we addressed them, and some takeaways that may help future sites.
+
+- We didn’t have enough breaks in our schedule. Several participants raised this issue and we addressed it by adding 10-minute breaks into longer sessions. Participants appreciated this change. 
+
+  - Takeaway: Ensure there are frequent breaks in the online schedule.
+  
+- The breaks also provided a valuable opportunity for interaction between participants. While some were a little confused by Wonder at the beginning, several remarked that they enjoyed the more informal structure of the exchanges. One issue that made interactions more difficult was differences in time zones. By the time we finished for the day, it was very late in Europe and locations further to the east, so some participants in these locations tended not to join the end-of-the-day activities.
+
+  - Takeaway: Provide ample opportunities for networking in online events. Consider spacing these out at different times if people from multiple time zones are participating.
+  
+- We organized research roundtables, where participants could discuss their research ideas in small groups. The feedback on these was mixed. Some participants valued the experience and wanted more of it, while others did not like the discussion’s directed nature and preferred more “organic” interactions.
+
+  - Takeaway: If we organized this event in the future, it might be better to give participants the option of either engaging in a more focused discussion (e.g., discussing research ideas, giving short flash talks) or having the chance to socialize more informally. 
+  - In addition, some participants also requested more moderation of the research roundtables. Overall, this format needs more work to be effective in an online setting.
+  
+- We did not systematically record sessions, assuming that folks would participate synchronously. We recorded some workshops when requested. A couple of participants noted that they appreciated the recordings. For example, one mentioned using the recordings to catch up due to a bad internet connection.
+
+  - Takeaway: Determine a recording policy in advance and be consistent.
 
 <hr />
 
