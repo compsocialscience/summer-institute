@@ -665,16 +665,16 @@ Below is a summary of the issues raised by participants, how we addressed them, 
 - We didn’t have enough breaks in our schedule. Several participants raised this issue and we addressed it by adding 10-minute breaks into longer sessions. Participants appreciated this change. 
 
   - Takeaway: Ensure there are frequent breaks in the online schedule.
-  
+
 - The breaks also provided a valuable opportunity for interaction between participants. While some were a little confused by Wonder at the beginning, several remarked that they enjoyed the more informal structure of the exchanges. One issue that made interactions more difficult was differences in time zones. By the time we finished for the day, it was very late in Europe and locations further to the east, so some participants in these locations tended not to join the end-of-the-day activities.
 
   - Takeaway: Provide ample opportunities for networking in online events. Consider spacing these out at different times if people from multiple time zones are participating.
-  
+ 
 - We organized research roundtables, where participants could discuss their research ideas in small groups. The feedback on these was mixed. Some participants valued the experience and wanted more of it, while others did not like the discussion’s directed nature and preferred more “organic” interactions.
 
   - Takeaway: If we organized this event in the future, it might be better to give participants the option of either engaging in a more focused discussion (e.g., discussing research ideas, giving short flash talks) or having the chance to socialize more informally. 
   - In addition, some participants also requested more moderation of the research roundtables. Overall, this format needs more work to be effective in an online setting.
-  
+
 - We did not systematically record sessions, assuming that folks would participate synchronously. We recorded some workshops when requested. A couple of participants noted that they appreciated the recordings. For example, one mentioned using the recordings to catch up due to a bad internet connection.
 
   - Takeaway: Determine a recording policy in advance and be consistent.
