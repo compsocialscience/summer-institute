@@ -1,10 +1,12 @@
-- name: Mohsen Mosleh
-  image: /assets/images/MoslehM.jpg
-  bio: Mohsen Mosleh is a Lecturer (Assistant Professor) at the Science, Innovation, Technology, and Entrepreneurship Department, University of Exeter Business School and a Research Affiliate at MIT. Mohsen was a Postdoctoral Fellow at the MIT Sloan School of Management as well as the Department of Psychology at Yale University. Prior to his postdoctoral studies, Mohsen received his PhD from Stevens Institute of Technology in Systems Engineering with a minor in data science. Mohsen’s research interests lie at the intersection of computational/data science and cognitive/social science. In particular, he studies how information and misinformation spread on social media, collective decision-making, and cooperation.
-  website: http://mohsenmosleh.com/
-  
 - name: Morgan R. Frank
   image: /assets/images/morganFrank.jpg
   bio: Morgan Frank is an Assistant Professor at the School of Computing and Information at the University of Pittsburgh, a Research Affiliate at the MIT Media Lab, and a Digital Fellow at the Stanford Institute for Human-Centered Artificial Intelligence. Morgan is interested in the complexity of AI, the future of work, and the socio-economic consequences of technological change. While many studies focus on phenotypic labor trends, Morgan’s recent research examines how genotypic skill-level processes around AI impact individuals and society. Combining labor research with investigations into the nature of AI research and the social or societal implications of AI adoption, Morgan hopes to inform our understanding of AI’s impact. Morgan has a PhD from MIT’s Media Lab, was a postdoc at MIT IDSS and the IDE,  and has a masters degree in applied mathematics from the University of Vermont where he was a member of the Computational Story Lab.
   website: http://www.pitt.edu/~mrfrank/
   
+
+- name: Mohsen Mosleh
+  image: /assets/images/MoslehM.jpg
+  bio: Mohsen Mosleh is a Lecturer (Assistant Professor) at the Science, Innovation, Technology, and Entrepreneurship Department, University of Exeter Business School and a Research Affiliate at MIT. Mohsen was a Postdoctoral Fellow at the MIT Sloan School of Management as well as the Department of Psychology at Yale University. Prior to his postdoctoral studies, Mohsen received his PhD from Stevens Institute of Technology in Systems Engineering with a minor in data science. Mohsen’s research interests lie at the intersection of computational/data science and cognitive/social science. In particular, he studies how information and misinformation spread on social media, collective decision-making, and cooperation.
+  website: http://mohsenmosleh.com/
+  
+
