@@ -26,6 +26,6 @@ Applicants must submit the following documents:
 4) Graduate students must also submit the contact information of one academic or industry reference (this is optional for postdoctoral scholars, faculty, and industry professionals)
 
 
-**In order to be guaranteed full consideration, all application materials must be submitted by April, 15, 2021.** All application materials must be submitted through Google Forms (available soon). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail in early May, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by March 30, 2021.** All application materials must be submitted through email at sicss.chicago@gmail.com. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail in mid-April, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to sicss.chicago@gmail.com.
