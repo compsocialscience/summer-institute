@@ -13,6 +13,6 @@ We invite applications from graduate students, postdoctoral researchers, and unt
 
 Participants with less experience in social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R or Python programming language. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours before the Institute.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2021/chicago/apply) should be received by April 15th, 2021.
+[Application materials](https://compsocialscience.github.io/summer-institute/2021/chicago/apply) should be received by March 30, 2021 at sicss.chicago@gmail.com
 
 Because of the COVID-19 pandemic, all events will take place online.
