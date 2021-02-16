@@ -60,11 +60,15 @@
   events:
     - name: "10:00 - 10:15 Logistics (*Zoom*)"
     - name: "10:15 - 10:30 Introduction to the group exercise [Video](https://www.youtube.com/watch?v=ZI95vV7Co38) [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/06-ffchallenge_participate_activity.pdf) (*Zoom*)"
-
-**re copy code here**
-
-
-
+    - name: "10:30 - 11:30 Participate in the Fraglie Families Challenge [Lesson plan (participants)] (link coming soon) (*Zoom*)"
+    - name: "11:30 - 12:00 Break"
+    - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
+    - name: "1:00 - 1:15 Break"
+    - name: "1:15 - 3:00 Continue participating in the Fragile Families Challenge (*Zoom*)"
+    - name: "3:00 - 3:15 Break"
+    - name: "3:15 - 3:30 Whole group debrief about group exercise (*Zoom*)"
+    - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
+    
 - date: 2021-06-28
   name: Invited speakers and workshop on individual projects 
   events:
