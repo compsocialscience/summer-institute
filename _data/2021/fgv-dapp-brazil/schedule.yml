@@ -29,6 +29,7 @@
     - name: "2:30 - 3:30 Discussing Strengths & Benefits plus Hybrid Designs (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
     - name: "3:45 - 4:00 Break"
+    - name: "4:00 - 4:45 GUEST-SPEAKER: Patrícia Rossini: Politics, Social Media, and Uncivility"
 
 - date: 2021-06-16
   name: Automated Text Analysis
@@ -40,20 +41,22 @@
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 3:30 Group Exercise (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
+    - name: "4:00 - 4:45 Workshop: Automated Text Analysis with Spacy and LDAviz, Lucas Roberto (FGV DAPP)"
 
 - date: 2021-06-17
   name: Surveys in the Digital Age
   events:
     - name: "10:00 - 10:15 Logistics (*Zoom*)"
-    - name: "10:15 - 10:30 Introduction to the group exercise [Lesson plan (participants)] (link coming soon) (*Zoom*)"
-    - name: "10:30 - 11:30 Morning group exercise (*Zoom*)"
-    - name: "11:30 - 12:00 Break"
+    - name: "10:15 - 11:00: Tutorial on Facebook Ads (Danilo Carvalho)" 
+    - name: "11:00 - 10:15 Introduction to the group exercise [Lesson plan (participants)] (link coming soon) (*Zoom*)"
+    - name: "11:15 - 12:00 Morning group exercise (*Zoom*)"
     - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 3:00 Afternoon group exercise (*Zoom*)"
     - name: "3:00 - 3:15 Break"
     - name: "3:15 - 3:30 Whole group debrief about group exercise (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
+    - name: "4:00 - 4:45 GUEST-SPEAKER: Cezar Zucco: Conduction digital and survey experiments in Brazil" 
 
 - date: 2021-06-18
   name: Mass collaboration and machine learning
@@ -68,6 +71,8 @@
     - name: "3:00 - 3:15 Break"
     - name: "3:15 - 3:30 Whole group debrief about group exercise (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
+    - name: "4:00 - 4:45 GUEST-SPEAKER: Thiago Marzagão: Data Science and Machine Learning in the Brazilian Government" 
+
 
 - date: 2021-06-19
   name: Day off
@@ -76,6 +81,15 @@
   name: Day off
 
 - date: 2021-06-21
+  name: "DAPP Day and Base dos Dados"
+  events:
+    - name:  "10:00 - 12:00 - Apresentação de Metodologia Linguística, Dalby/Danilo"
+    - name: "1:30 - 3:00 - Implementação de Metodologia Linguística, LR/Poly"
+    - name: "3:00 - 3:45 - WORKSHOP: Ricardo Dahis - A Base dos Dados"
+    - name: "4:00 - 4:15 - FGV DAPP Call for Proposals"
+  
+- date: 2021-06-22
+ 
   name: Work on group projects (optional) and/or participate in SICSS Festival
   events:
     - name: "10:00 - 10:30 Research Speed Dating Logistics (*Zoom*), [Slides for Instructors] (link coming soon)"
@@ -83,17 +97,19 @@
     - name: "1:15 - 3:15 Research Speed Dating Maximally Dissimilar Groups (*Zoom*)"
     - name: "3:15 - 3:30 Group Debrief (join research teams) (*Zoom*)"
 
-- date: 2021-06-22
-  name: Work on group projects (optional) and/or participate in SICSS Festival
-
 - date: 2021-06-23
-  name: Work on group projects (optional) and/or participate in SICSS Festival
+  name: Roundtable and Work on group projects (optional)
+  events: 
+    - name: "Roundtable:  Computational Social Science in the Academia (With Ernesto Calvo, Rochelle Terman, and Marco Aurélio Ruediger)"
 
 - date: 2021-06-24
-  name: Work on group projects (optional) and/or participate in SICSS Festival
+  name: Roundtable and Work on group projects (optional)
+  events:
+    - name: "10:00 - 12:00 - Roundtable:  Computational Social Science and the Industry"
 
 - date: 2021-06-25
-  name: Present group projects and/or participate in SICSS Festival
+  name: Roundtable and Present group projects 
   events:
-    - name: "12:00 - 4:00 Present group projects (*Zoom*)"
-    - name: "4:00 - 4:30 Debrief and conclusion"
+    - name: "10:00 - 12:00 - Roundtable:  Computational Social Science and Data Journalism - With Cecíllia Oliveira (Fogo Cruzado), Cristina Tardáguilla (Agência Lupa), and Natália Leão (Gênero e Número)"
+    - name: "14:00 - 5:00 Present group projects (*Zoom*)"
+    - name: "5:00 - 4:30 Debrief and conclusion"
