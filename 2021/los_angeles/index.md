@@ -11,6 +11,6 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 30 participants will be invited, and participants are expected to fully attend and participate in the entire program.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2021/los_angeles/apply) are due March 15, 2021.
+[Application materials](https://compsocialscience.github.io/summer-institute/2021/los_angeles/apply) are due March 25, 2021.
 
 Because of the COVID-19 pandemic, all events will take place online.
