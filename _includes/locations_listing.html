@@ -1,4 +1,5 @@
 {% if include.location_data and include.location_data.title %}
+{% include breadcrumb.html %}
   <div class="col-sm-6 mb-5 location-list-item">
     <div class="card border-0" id="{{include.location_data.link}}_{{include.location_data.year}}">
       {% if include.location_data.image %}
