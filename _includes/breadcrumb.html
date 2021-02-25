@@ -1,4 +1,4 @@
-{% assign breadcrumbs = page.path | replace: "_", " " | remove: ".md" | remove: "index" | split: "/" %}
+{% assign breadcrumbs = page.path | remove: ".md" | remove: "index" | split: "/" %}
 
 <div class="container">
     <div class="row">
@@ -10,9 +10,9 @@
                     {% assign relative_breadcrumb_arr = breadcrumbs | slice:0, forloop.index %}
                     {% assign relative_breadcrumb_str = relative_breadcrumb_arr | join: "/" %}
                         {% if forloop.last %}
-                            <li class="breadcrumb-item active" aria-current="page">{{ breadcrumb | capitalize }}</li>
+                            <li class="breadcrumb-item active" aria-current="page">{{ breadcrumb | replace: "_", " " | capitalize }}</li>
                         {% else %}
-                            <li class="breadcrumb-item"><a href="/{{site.baseurl}}{{relative_breadcrumb_str}}">{{ breadcrumb | capitalize }}</a></li>
+                            <li class="breadcrumb-item"><a href="/{{site.baseurl}}{{relative_breadcrumb_str}}">{{ breadcrumb | replace: "_", " " | capitalize }}</a></li>
                         {% endif %}
                     {% endfor %}
                 </ol>
