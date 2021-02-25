@@ -8,11 +8,11 @@
   name: Introduction and Ethics
   events:
     - name: "10:00 - 10:30 Introduction and logistics (*Zoom*)"
-    - name: "10:30 - 11:30 Small group discussions [Lesson plan (participants)] (link coming soon)) (*Zoom*)"
+    - name: "10:30 - 11:30 Small group discussions [Lesson plan] (link coming soon)) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
     - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
     - name: "1:00 - 1:30 Break"
-    - name: "1:30 - 1:45 Introduction to the group exercise [Lesson plan (participants)] (link coming soon) [Lesson plan (instructors)] (link coming soon) (*Zoom*)"
+    - name: "1:30 - 1:45 Introduction to the group exercise [Lesson plan] (link coming soon) [Lesson plan - instructors] (link coming soon) (*Zoom*)"
     - name: "1:45 - 2:45 Small group discussion of [case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf) (*Zoom*)"
     - name: "2:45 - 3:15 Whole group debrief about case study (*Zoom*)"
     - name: "3:15 - 3:45 Debrief and logistics (*Zoom*)"
@@ -29,7 +29,7 @@
     - name: "2:30 - 3:30 Discussing Strengths & Benefits plus Hybrid Designs (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
     - name: "3:45 - 4:00 Break"
-    - name: "4:00 - 4:45 GUEST-SPEAKER: Patrícia Rossini: Politics, Social Media, and Uncivility"
+    - name: "4:00 - 4:45 GUEST-SPEAKER: **Patrícia Rossini**: Politics, Social Media, and Uncivility"
 
 - date: 2021-06-16
   name: Automated Text Analysis
@@ -41,7 +41,7 @@
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 3:30 Group Exercise (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
-    - name: "4:00 - 4:45 Workshop: Automated Text Analysis with Spacy and LDAviz, Lucas Roberto (FGV DAPP)"
+    - name: "4:00 - 4:45 Workshop: Automated Text Analysis with Spacy and LDAviz, Lucas Roberto (FGV DAPP)(optional)"
 
 - date: 2021-06-17
   name: Surveys in the Digital Age
@@ -56,7 +56,7 @@
     - name: "3:00 - 3:15 Break"
     - name: "3:15 - 3:30 Whole group debrief about group exercise (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
-    - name: "4:00 - 4:45 GUEST-SPEAKER: Cezar Zucco: Conduction digital and survey experiments in Brazil" 
+    - name: "4:00 - 4:45 GUEST-SPEAKER: **Cezar Zucco**:  Conducting Digital and Survey Experiments in Brazil" 
 
 - date: 2021-06-18
   name: Mass collaboration and machine learning
@@ -71,7 +71,7 @@
     - name: "3:00 - 3:15 Break"
     - name: "3:15 - 3:30 Whole group debrief about group exercise (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
-    - name: "4:00 - 4:45 GUEST-SPEAKER: Thiago Marzagão: Data Science and Machine Learning in the Brazilian Government" 
+    - name: "4:00 - 4:45 GUEST-SPEAKER: **Thiago Marzagão**: Data Science and Machine Learning in the Brazilian Government" 
 
 
 - date: 2021-06-19
@@ -84,9 +84,11 @@
   name: "DAPP Day and Base dos Dados"
   events:
     - name:  "10:00 - 12:00 - Apresentação de Metodologia Linguística, Dalby/Danilo"
+    - name: "12:00 - 1:30 Break"
     - name: "1:30 - 3:00 - Implementação de Metodologia Linguística, LR/Poly"
-    - name: "3:00 - 3:45 - WORKSHOP: Ricardo Dahis - A Base dos Dados"
-    - name: "4:00 - 4:15 - FGV DAPP Call for Proposals"
+    - name: "3:00 - 3:30 - FGV DAPP Call for Proposals"
+    - name: "3:30 - 4:00 Break"
+    - name: "4:00 - 4:45 - WORKSHOP: **Ricardo Dahis** - A Base dos Dados"
   
 - date: 2021-06-22
  
@@ -100,12 +102,12 @@
 - date: 2021-06-23
   name: Roundtable and Work on group projects (optional)
   events: 
-    - name: "Roundtable:  Computational Social Science in the Academia (With Ernesto Calvo, Rochelle Terman, and Marco Aurélio Ruediger)"
+    - name: "Roundtable:  Computational Social Science in the Academia - With Ernesto Calvo (ilCSS-UMD), Rochelle Terman (UChicago), and Marco Aurélio Ruediger(FGV-DAPP)"
 
 - date: 2021-06-24
   name: Roundtable and Work on group projects (optional)
   events:
-    - name: "10:00 - 12:00 - Roundtable:  Computational Social Science and the Industry"
+    - name: "10:00 - 12:00 - Roundtable:  Computational Social Science and the Industry (Facebook, Microsoft and Folha de Sao Paulo (TBD))"
 
 - date: 2021-06-25
   name: Roundtable and Present group projects 
