@@ -7,10 +7,10 @@ html {
 }
 body {
   background: #f1f1f1;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 .jumbotron {
-  background-image: url('../images/hero-accent.jpg');
+  background-image: url("../images/hero-accent.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center bottom;
@@ -36,7 +36,7 @@ body {
   width: 150px;
 }
 .nav .active {
-  background: rgba(255,255,255,0.75);
+  background: rgba(255, 255, 255, 0.75);
   color: #005ec4;
   display: inline-flex;
   border-radius: 4px;
@@ -48,7 +48,7 @@ body {
 }
 
 .link-dark-bg:hover {
-  color: rgba(255,255,255,0.75);
+  color: rgba(255, 255, 255, 0.75);
   text-decoration: underline;
 }
 
@@ -100,4 +100,14 @@ body {
   .close {
     font-size: calc(1.275rem + 0.3vw);
   }
+}
+
+.breadcrumb {
+  background: none;
+}
+
+.breadcrumb:last-child {
+  color: gray;
+  text-decoration: none;
+  cursor: default;
 }
