@@ -15,4 +15,4 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 Applications is now open. Please submit via the following [form](https://forms.gle/aHZaRG2whYM8LAh7A) 
 
 Applicants must submit the following documents: 1) Resume/CV and 2) Application form
-In order to be guaranteed full consideration, all application materials must be submitted by March 1st, 2021. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by March 31st, 2021, and will ask participants to confirm their participation by paying a $1,000 NTD deposit (fully refundable at the completion of the program) within 7-day period.
+In order to be guaranteed full consideration, all application materials must be submitted by March 15th, 2021. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by March 31st, 2021, and will ask participants to confirm their participation by paying a $1,000 NTD deposit (fully refundable at the completion of the program) within 7-day period.
