@@ -7,7 +7,7 @@ partner_site: fgv-dapp-brazil
 
 ## Eligibility
 
-Participation is restricted to graduate students (master and doctoral programs), postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. Because we are interested in building a community of computational social scientists in Brazil, we are particularly interested in applicants from Brazil, or currently working on Brazilian Institutions. However, there are no restrictions based on citizenship, country of study, or country of employment. About 20 participants will be invited.
+Participation is restricted to graduate students (master and doctoral programs), postdoctoral researchers, untenured faculty within 7 years of their Ph.D., and computational social scientists working on NGOs. Because we are interested in building a community of computational social scientists in Brazil, we are particularly interested in applicants from Brazil, or currently working on Brazilian Institutions. However, there are no restrictions based on citizenship, country of study, or country of employment. About 20 participants will be invited.
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Previous programming skills are important, but it is not mandatory for your application to be considered. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R programming language. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours during the two months before the Institute.
 
