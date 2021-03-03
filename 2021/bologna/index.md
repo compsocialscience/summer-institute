@@ -11,6 +11,6 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. Twelve (12) participants will be invited and expected to fully attend and participate in the entire program.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2021/bologna/apply) are due 15 February 2021 (midnight, GMT+1).
+[Application materials](https://compsocialscience.github.io/summer-institute/2021/bologna/apply) are due 12 March 2021 (midnight, GMT+1).
 
 Because of the COVID-19 pandemic, all events will take place online.

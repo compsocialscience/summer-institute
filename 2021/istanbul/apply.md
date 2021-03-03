@@ -7,7 +7,7 @@ partner_site: istanbul
 
 ## Eligibility
 
-Participation is restricted to advanced graduate students, postdoctoral researchers, and early career faculties. However, there are no restrictions based on citizenship, country of study, or country of employment. About 20 participants will be invited. 
+Participation is restricted to advanced graduate students, postdoctoral researchers, and early career faculties. However, there are no restrictions based on citizenship, country of study, or country of employment. About 10-15 participants will be invited. 
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R programming language. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours during the two months before the Institute.
 
@@ -17,11 +17,12 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 ## How To Apply
 
 Applicants must submit the following documents: 
-(i) a curriculum vitae, 
-(ii) a statement (maximum three pages) describing both any current research and your interest in computational social science, 
-(iii) one writing sample or research proposal (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author.
+* a curriculum vitae, 
+* a personal statement (max 2 pages) describing both any current research and your interest in computational social science, 
+* a research statement (max 2 pages) outlining your project that you would like to conduct during SICSS Istanbul, 
+* a writing sample or research proposal (max 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author.
 
-**In order to be guaranteed full consideration, all application materials must be submitted before February 22, 2021. Applications that are not complete by the deadline may not receive full consideration.**  
+**In order to be guaranteed full consideration, all application materials must be submitted before February 28, 2021. Applications that are not complete by the deadline may not receive full consideration.**  
 
 All application materials must be submitted through the [SICSS-Istanbul application form](https://forms.gle/BdfNzvxvthKbPnjS6).
 

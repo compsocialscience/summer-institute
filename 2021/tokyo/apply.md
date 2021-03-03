@@ -7,7 +7,7 @@ partner_site: tokyo
 
 ## Eligibility
 
-<p>Participation is restricted to master students, PhD studnets, postdoctoral researchers, corporate researchers who have worked for 10 years or less, and untenured faculty within 5 years of their PhD. However, there are no restrictions based on citizenship, country of study, or country of employment. About 20 participants will be invited. We welcome applicants from all backgrounds and fields of study.</p>
+<p>Participation is restricted to master students, PhD students, postdoctoral researchers, corporate researchers who have worked for 10 years or less, and untenured faculty within 5 years of their PhD. However, there are no restrictions based on citizenship, country of study, or country of employment. About 20 participants will be invited. We welcome applicants from all backgrounds and fields of study.</p>
 <p>We evaluate applicants along a number of dimensions:
 <ol>
   <li>research and teaching in the area of computational social science,</li>

@@ -20,6 +20,6 @@ Applicants must submit the following documents (all uploads must be in PDF or MS
 
 All applications must include an e-mail and second means of contact (e.g., alternative email or phone number). 
 
-**In order to be guaranteed full consideration, all application materials must be submitted by 15 February 2021 (midnight, GMT+1)** All application materials must be submitted through [Google Forms](https://forms.gle/wAfCkSQKqbTcdNma7). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by 1 March 2021, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by 12 March 2021 (midnight, GMT+1)** All application materials must be submitted through [Google Forms](https://forms.gle/wAfCkSQKqbTcdNma7). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by 26 March 2021, and will ask participants to confirm their participation very soon thereafter.
 
-Inquiries can be sent to SICSS-Bologna[at]unibo[.]it.
+Inquiries can be sent to sicss-bologna[at]unibo[.]it.

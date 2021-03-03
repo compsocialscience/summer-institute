@@ -1,3 +1,62 @@
-- date: 2021-06-14
+- date: All times are in UK local (BST)
+- date: More details coming soon!
+
+- date: 2021-06-13
   events:
-    - name: "Schedule coming soon..."
+    - name: "TBD Meet-and-greet (based on this [model](https://medium.com/swlh/how-to-run-a-zoom-cocktail-party-and-have-better-classes-conferences-and-meetings-too-dc2c5b58f8be)) (*Zoom*)"
+
+- date: 2021-06-14
+  name: Introduction and Ethics
+  events:
+    - name: "10:00 - 4pm Discussion and Exercises"
+
+- date: 2021-06-15
+  name: Collecting Digital Trace Data
+  events:
+    - name: "10:00 - 4pm Discussion and Exercises"
+
+- date: 2021-06-16
+  name: Automated Text Analysis
+  events:
+    - name: "10:00 - 4pm Discussion and Exercises"
+
+- date: 2021-06-17
+  name: Surveys in the Digital Age
+  events:
+    - name: "10:00 - 4pm Discussion and Exercises"
+
+- date: 2021-06-18
+  name: Computational Models and Virtual Lab Experiments
+  events:
+    - name: "10:00 - 4pm Discussion and Exercises"
+
+- date: 2021-06-19
+  name: Day off
+
+- date: 2021-06-20
+  name: Day off
+
+- date: 2021-06-21
+  name: Group projects and/or SICSS Festival
+  events:
+    - name: "10:00 - 4pm Coworking and workshops"
+
+- date: 2021-06-22
+  name: Group projects and/or SICSS Festival
+  events:
+    - name: "10:00 - 4pm Coworking and workshops"
+
+- date: 2021-06-23
+  name: Group projects and/or SICSS Festival
+  events:
+    - name: "10:00 - 4pm Coworking and workshops"
+
+- date: 2021-06-24
+  name: Group projects and/or SICSS Festival
+  events:
+    - name: "10:00 - 4pm Coworking and workshops"
+
+- date: 2021-06-25
+  name: Group projects and/or SICSS Festival
+  events:
+    - name: "10:00 - 4pm Coworking and workshops"

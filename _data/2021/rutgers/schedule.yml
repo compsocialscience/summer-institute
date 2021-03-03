@@ -1,3 +1,84 @@
-- date: 2021-06-14
+- date: All times are in Eastern Daylight Time. 
+  name: The schedule will run between 9:00AM-5:00PM, but on many days we may start later/end earlier
   events:
-    - name: "Schedule coming soon..."
+    - name: Specific schedule details subject to change.
+
+- date: 2021-06-14
+  name: Introduction and Ethics
+  events:
+    - name: "10:00 - 10:30 Introduction and logistics (*Zoom*)"
+    - name: "10:30 - 11:30 Small group discussions (*Zoom*)"
+    - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
+    - name: "1:30 - 3:15 Small Group Exercise on Ethics"
+    - name: "3:15 - 4:30 Preview of Digital Trace Data (*Zoom*)"
+
+- date: 2021-06-15
+  name: Collecting Digital Trace Data
+  events:
+    - name: "10:00 - 10:15 Logistics and introduction to group exercise (*Zoom*)"
+    - name: "10:15 - 12:00 Designing a Research Question with Digital Trace Data (*Zoom*)"
+    - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
+    - name: "1:00 - 3:15 Collecting Digital Trace Data (*Zoom*)"
+    - name: "3:30 -  Possible Guest Speaker"
+
+- date: 2021-06-16
+  name: Automated Text Analysis
+  events:
+    - name: "10:00 - 10:15 Logistics and introduction to group exercise (*Zoom*)"
+    - name: "10:15 - 12:00 Group Exercise (*Zoom*)"
+    - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
+    - name: "1:15 - 3:30 Group Exercise (*Zoom*)"
+    - name: "3:30 - Possible Guest Speaker (*Zoom*)"
+
+- date: 2021-06-17
+  name: Machine Learning
+  events:
+    - name: "10:00 - 10:15 Logistics (*Zoom*)"
+    - name: "10:15 - 12:00 Live Tutorials on Machine Learning"
+    - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
+    - name: "1:15 - 3:30 Afternoon group exercise (*Zoom*)"
+    - name: "3:30 - Possible Guest Speaker"
+
+- date: 2021-06-18
+  name: (Morning) Surveys and Experiments 
+  events:
+    - name: "10:00 - 10:15 Logistics (*Zoom*)"
+    - name: "10:15 - 12:00 Group Exercise (*Zoom*)"
+    - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
+
+- date: 2021-06-18
+  name: (Afternoon) Network Analysis 
+  events:
+    - name: "1:00- Network Analysis Tutorials"
+
+- date: 2021-06-19
+  name: Day off
+
+- date: 2021-06-20
+  name: Day off
+  
+- date: 2021-06-21
+  name: (Morning) Network Analysis Continued
+  events:
+    - name: "10:00 - 12:00 Network Analysis Exercises"
+
+
+- date: 2021-06-21
+  name: (Afternoon) Form Research Groups
+  events:
+    - name: "1:15 - 3:15 Research Speed Networking (*Zoom*)"
+    - name: "3:15 - 4:30 Form Research Teams (*Zoom*)"
+
+- date: 2021-06-22
+  name: Work on group projects 
+
+- date: 2021-06-23
+  name: Work on group projects
+
+- date: 2021-06-24
+  name: Work on group projects 
+
+- date: 2021-06-25
+  name: Present group projects
+  events: 
+    - name: Schedule to be posted
