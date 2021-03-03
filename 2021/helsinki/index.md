@@ -24,7 +24,7 @@ We focus on four broad families of computational social science
  1. simulations and complex systems
  1. interactive systems
 
-In addition we discuss crosscutting themes such as
+In addition, we discuss crosscutting themes such as
  1. asking research questions through computational means
  1. data collection and management
  1. ethics

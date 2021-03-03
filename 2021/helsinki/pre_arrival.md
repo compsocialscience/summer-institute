@@ -6,7 +6,7 @@ partner_site: helsinki
 # Pre-arrival
 
 The Summer Institute will bring together people from many fields and backgrounds.
-In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS-Helsinki 2021.
+To use our time together efficiently, there are a number of things that you should do before participating in SICSS-Helsinki 2021.
 
 - Complete the pre-read
 - Complete coding bootcamp (if needed)
@@ -17,7 +17,7 @@ TAs will host office hours through Slack to support you as you work through thes
 
 ## Reading
 
-In order to prepare for SICSS-Helsinki 2021, you should read Matti Nelimarkka's forthcoming book: [Coding Social Science](http://codingsocialscience.org/).
+To prepare for SICSS-Helsinki 2021, you should read Matti Nelimarkka's forthcoming book: [Coding Social Science](http://codingsocialscience.org/).
 We will assign detailed reading assigments.
 
 In addition, other SICSS follow Matt Salganik’s book, *[Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com)* and we recommend browsing it on spesific topics. ([Read online](https://www.bitbybitbook.com/en/1st-ed/preface/) or purchase from [Amazon](https://www.amazon.com/Bit-Social-Research-Digital-Age/dp/0691158649), [Barnes & Noble](https://www.barnesandnoble.com/w/bit-by-bit-matthew-salganik/1125483924), [IndieBound](https://www.indiebound.org/book/9780691158648), or [Princeton University Press](https://press.princeton.edu/books/paperback/9780691196107/bit-by-bit)).
@@ -36,16 +36,16 @@ If you would like more practice after completing the Boot Camp videos, some othe
 - [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/), Taught by Charles Lanfear at University of Washington. This course includes videos of lectures, slides, and assignments.
 - [Learn R](https://www.codecademy.com/learn/learn-r), Code Academy.
 
-Please note that the majority of the coding work presented at SICSS-Helsinki 2021 will employ R or Python.
+Please note that most of the coding work presented at SICSS-Helsinki 2021 will employ R or Python.
 You are welcome to employ a language of your choice, such as Julia, Java or other languages that are commonly used by computational social scientists.
 However, we cannot support those languages.
 
-For SICSS Helsinki, we do assigned homeworks from Coding Social Science.
+For SICSS Helsinki, we do assign homework from Coding Social Science.
 
 ## Lecture videos
 
 SICSS-Helsinki 2021 will be using a [flipped classroom model](https://en.wikipedia.org/wiki/Flipped_classroom).
-Therefore, you should read assigned papers and chapters before each meetings, and then we will use our time together for discussion and group activities.
+Therefore, you should read assigned papers and chapters before each meeting, and then we will use our time together for discussion and group activities.
 
 ## Computing environment
 
