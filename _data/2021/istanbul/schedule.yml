@@ -1,7 +1,8 @@
 - date: All times are local Istanbul Time and All program will be Zoom-based.
 
 - date: 2021-05-30
-- name:  Welcome Event
+  name:  Welcome Event
+  events:
     - name: "Zoom Welcome session and the commencement of the pre-SICSS period."
 
 - date: "Pre-SICSS Period: Coding and Reading Tasks"
@@ -10,50 +11,61 @@
     - name: "**Coffee Talks**<br/> While working Pre-SICSS tasks, informal small group coffee talks will be organized to share our experiences, discuss on project ideas, talk about SICSS materials, and chat on participant's questions."
 
 - date: 2021-06-01
-  events: Small Group Office Hours and Paper Talks for two weeks
-
+  name: Small Group Office Hours and Paper Talks for two weeks
+  events:
+  
 - date: 2021-06-13
-- name: Pre-SICSS Wrap-up session to evaluate the tasks and leisure
-
+  name: Pre-SICSS Wrap-up session to evaluate the tasks and leisure
+  events:
+  
 
 - date: "First Week of ‘Real SICSS’: Workshops and Group Discussions"
-- name: This week will be full of lectures and small group discussions. We will use the flipped classroom model to follow some of the SICSS curriculum. Additionally, we will organize method workshops with hands-on experience. You will also have speed dating sessions to establish your group for the second week program and you are expected to report your group members and a short description of your group project at the end of the week.
-
+  name: This week will be full of lectures and small group discussions. We will use the flipped classroom model to follow some of the SICSS curriculum. Additionally, we will organize method workshops with hands-on experience. You will also have speed dating sessions to establish your group for the second week program and you are expected to report your group members and a short description of your group project at the end of the week.
+  events:
 
 - date: 2021-06-14
-- name: Introduction to curriculum and group discussions on Ethics
-
+  name: Introduction to curriculum and group discussions on Ethics
+  events:
+  
 - date: 2021-06-15
-- name: Text as Data
+  name: Text as Data
+  events:
 
 - date: 2021-06-16
-- name: Networks and Bots
-
+  name: Networks and Bots
+  events:
+  
 - date: 2021-06-17
-- name: Location and Geospatial Analysis
-
+  name: Location and Geospatial Analysis
+  events:
+  
 - date: 2021-06-18
-- name: Social Media as Event Data and Research Speed Dating
-
+  name: Social Media as Event Data and Research Speed Dating
+  events:
+  
 - date: 2021-06-20
-- name: Last day for declaring group members and project proposals
-
+  name: Last day for declaring group members and project proposals
+  events:
 
 - date: Second Week of ‘Real SICSS’: Group Projects and Alumni Sessions
-- name: This week will be focused on group work projects. Up until this date, you should have an idea of which participants you’d like to team up with and the research question that you’ll work on. Teams that people built in previous SICSS_Istanbul events have flourished into full-fledged research groups, presenting their SICSS papers at APSA, ASA and beyond! 
+  name: This week will be focused on group work projects. Up until this date, you should have an idea of which participants you’d like to team up with and the research question that you’ll work on. Teams that people built in previous SICSS_Istanbul events have flourished into full-fledged research groups, presenting their SICSS papers at APSA, ASA and beyond! 
 
 
 - date: 2021-06-21
   name: Short presentation of project proposals and Alumni Session
+  events:
   
 - date: 2021-06-22
   name: Office Hour and Alumni Session
+  events:
   
 - date: 2021-06-23
   name: Office Hour and Alumni Session
-
+  events:
+  
 - date: 2021-06-24
   name: Office Hour and Alumni Session
+  events:
   
 - date: 2021-06-25
   name: Research presentations from each group and the final day of SICSS
