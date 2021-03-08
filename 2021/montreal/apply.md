@@ -21,8 +21,7 @@ Nous accueillons les candidats de tous horizons et domaines d'études, en partic
 Applicants must submit the following documents: 
 
 -  a curriculum vitae (CV),
--  a statement (maximum 3 pages) describing both any current research and your interest in computational social science,
--  (or) one writing sample (no more than 35 pages). 
+-  a statement (maximum 3 pages) describing both any current research and your interest in computational social science or one writing sample (no more than 35 pages). The writing sample is optional.
 
 **The materials can be submitted in English or French**. Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. All applications must include an e-mail and an alternative means of contact (e.g., phone number). 
 
