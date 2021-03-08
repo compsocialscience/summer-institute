@@ -19,9 +19,9 @@
   events:
   
 
-- date: "First Week of ‘Real SICSS’: Workshops and Group Discussions"
-  name: This week will be full of lectures and small group discussions. We will use the flipped classroom model to follow some of the SICSS curriculum. Additionally, we will organize method workshops with hands-on experience. You will also have speed dating sessions to establish your group for the second week program and you are expected to report your group members and a short description of your group project at the end of the week.
+- date: "First Week of ‘Real SICSS’"
   events:
+     - name: "**Workshops and Group Discussions**<br/>This week will be full of lectures and small group discussions. We will use the flipped classroom model to follow some of the SICSS curriculum. Additionally, we will organize method workshops with hands-on experience. You will also have speed dating sessions to establish your group for the second week program and you are expected to report your group members and a short description of your group project at the end of the week."
 
 - date: 2021-06-14
   name: Introduction to curriculum and group discussions on Ethics
@@ -47,8 +47,9 @@
   name: Last day for declaring group members and project proposals
   events:
 
-- date: "Second Week of ‘Real SICSS’: Group Projects and Alumni Sessions"
-  name: This week will be focused on group work projects. Up until this date, you should have an idea of which participants you’d like to team up with and the research question that you’ll work on. Teams that people built in previous SICSS_Istanbul events have flourished into full-fledged research groups, presenting their SICSS papers at APSA, ASA and beyond! 
+- date: "Second Week of ‘Real SICSS’"
+  events:
+     - name: "**Group Projects and Alumni Sessions**<br/> This week will be focused on group work projects. Up until this date, you should have an idea of which participants you’d like to team up with and the research question that you’ll work on. Teams that people built in previous SICSS_Istanbul events have flourished into full-fledged research groups, presenting their SICSS papers at APSA, ASA and beyond!"
 
 
 - date: 2021-06-21
