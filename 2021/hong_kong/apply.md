@@ -7,7 +7,7 @@ partner_site: hong_kong
 
 ## Eligibility
 
-Participation is restricted to \_\_\_\_\_. However, there are no restrictions based on citizenship, country of study, or country of employment. About 10-15 participants will be invited.
+Participation is restricted to **graduate students, postdoctoral researchers, and junior faculty**. However, there are no restrictions based on citizenship, country of study, or country of employment. About 10-15 participants will be invited.
 
 Be aware that main events will be held in the morning and evenings at Hong Kong Time (UTC+08:00).
 
