@@ -35,7 +35,7 @@ teaching_assistants:
     - name: Zanele Munyikwa
       image: /assets/images/zanele.jpg
       bio: "Zanele Munyikwa is a Ph.D. candidate in Information Technologies at the MIT Sloan School of Management. She is also a research affiliate at the MIT Initiative on the Digital Economy and a graduate research affiliate of the Stanford Digital Economy lab. Zanele has a BS in Computer Science from Duke University and was a Research Fellow at Stanford Graduate School of Business prior to her Ph.D. Her research interests are at the intersection of information systems, economics, and computer science. She studies labor and employment in the digital economy. For example, one ongoing project investigates the effect of internet access on local employment, and another examines human-machine collaboration in the workplace."    
-      website: www.zanelemunyikwa.com
+      website: http://www.zanelemunyikwa.com
       
     - name: Demetrius Murphy
       image: /assets/images/demetriusMurphy.jpeg
