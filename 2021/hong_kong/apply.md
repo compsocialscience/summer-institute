@@ -12,7 +12,7 @@ Participation is restricted to **graduate students, postdoctoral researchers, an
 Be aware that main events will be held in the morning and evenings at Hong Kong Time (UTC+08:00).
 
 - Mornings: site-specific group projects
-- Evenings: lectures from the central location (Princeton)
+- Evenings: lectures from the central location (@Princeton)
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R programming language. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours during the two months before the Institute.
 
@@ -24,11 +24,8 @@ Applicants must submit the following documents:
 
 1. A letter of application explaining your research area and interest in attending SICSS-HK (maximum 3 pages);
 2. your CV;
-3. a publication or writing sample that best represents your research ability and interests; and 
-4. contact information of a faculty advisor if you are a student or postdoctoral research (we may contact your advisor for further information but no recommendation letter is needed to prepare in advance).
+3. a publication or writing sample that best represents your research ability and interests.
 
+**In order to be guaranteed full consideration, all application materials must be submitted by April 15.** All application materials must be submitted through [Google Form](https://forms.gle/i9uq6ugGLoJTJwTn7). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by **April 23**, and will ask participants to confirm their participation very soon thereafter.
 
-
-**In order to be guaranteed full consideration, all application materials must be submitted by April 15.** All application materials must be submitted through \_\_\_\_\_. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by **April 23**, and will ask participants to confirm their participation very soon thereafter.
-
-Inquiries can be sent to \_\_\_\_\_.
+Inquiries can be sent to sicss.hongkong@gmail.com.
