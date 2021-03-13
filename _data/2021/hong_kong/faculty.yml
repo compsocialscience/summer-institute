@@ -1,16 +1,16 @@
 - name: Han Zhang
-  image: /assets/images/yanLeng_new.jpeg
+  image: /assets/images/hanZhang.JPG
   bio: "Han Zhang is an Assistant Professor in Division of Social Science, The Hong Kong University of Science and Technology (HKUST). He obtained his Ph.D. in Sociology at Princeton University in 2020, under the supervision of Matthew Salganik. He obtained His B.S. in Computer Science and B.A. in History, 2013, from Peking University. His research spans computational social science, social movements, and quantitative methods."
   website: https://hanzhang.xyz/
 
 
 - name: Jaemin Lee
-  image: /assets/images/jaeminlLee.png 
+  image: /assets/images/jaeminLee.png
   bio: "Jaemin Lee is an Assistant Professor of Sociology at The Chinese University of Hong Kong (CUHK). He obtained his Ph.D. in Sociology at Duke University in 2020. His research aims to understand various substantive topics including political polarization, product diffusion, friendship segregation, and intergroup relations. Methodologically, he uses agent-based modeling, field experiments, and longitudinal network analysis."
   website: http://www.jaeminlee.org/
 
 
 - name: Haohan Chen
-  image: /assets/images/haohanChen.png
+  image: /assets/images/haohanChen.jpg
   bio: "Haohan Chen is currently a postdoctoral fellow at the Center for Social Media and Politics at New York University. He received my PhD in Political Science and MS in Statistical Science from Duke University in December 2019. He will join the Department of Politics and Public Administration at University of Hong Kong in August 2021. His substantive research focuses on political behavior and political communication under both authoritarian and democratic contexts. My methodological research focuses on machine learning methods (particularly Bayesian statistical learning) for text and network data from social media."
   website: https://haohanchen.github.io/
