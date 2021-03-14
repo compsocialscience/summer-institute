@@ -14,7 +14,7 @@ image: /assets/images/howard.jpg
 
 <u>Howard University/Mathematica Summer Institute in Computational Social Science (SICSS) </u>
 <br><font color="grey"><font size="2">March 1, 2021</font></font> 
-<br><i><font size = "2">SICSS-Howard/Mathematica to host a virtual round-table at the upcoming Pacific Sociological Association Conference held from March 17-21, 2021 </font</i> 
+<br><i><font size = "2">SICSS-Howard/Mathematica to host a virtual round-table at the upcoming Pacific Sociological Association Conference held from March 17-21, 2021 </font></i> 
 <br><font size = "1">(Posted by <a href="https://www.pacificsoc.org/9672?utm_source=rss&utm_medium=rss&utm_campaign=howard-university-mathematica-summer-institute-in-computational-social-science-sicss">The Pacific Sociological Association</a>)</font>
 
 
