@@ -34,9 +34,34 @@ function setupParticipantSearch() {
     searchResultsCont.classList.remove("d-none");
     var searchResultsEl = document.getElementById("people_search_results");
     if (searchIndex) {
-      var results = searchIndex.search(
-        ev.target.querySelector("input[name=q]").value
-      );
+      let queries = [
+        ...ev.target.querySelectorAll(
+          "input[name=q], input[name='addl_query']"
+        ),
+      ].map((i) => i.value);
+      let allResults = queries.map((q) => searchIndex.search(q));
+
+      // create hash of result ref and number of queries it shows up in
+      let resultCountByRef = {};
+      for (let i = 0; i < allResults.length; i++) {
+        for (let j = 0; j < allResults[i].length; j++) {
+          let ref = allResults[i][j].ref;
+          if (!resultCountByRef[ref]) {
+            resultCountByRef[ref] = 0;
+          }
+          resultCountByRef[ref] += 1;
+        }
+      }
+
+      // While looping through the first result set, only add items to results
+      // that in are in all result sets.
+      let results = [];
+      for (let i = 0; i < allResults[0].length; i++) {
+        let ref = allResults[0][i].ref;
+        if (resultCountByRef[ref] === queries.length) {
+          results.push(allResults[0][i]);
+        }
+      }
       var mostRecentPeopleByName = {};
       var names = results.map((result) => {
         var person = window.allPeople.find((p) => p.id === result.ref);
@@ -85,10 +110,53 @@ function setupParticipantSearch() {
           </div>`;
       });
       searchResultsEl.innerHTML = resultHtml.join(" ");
+      let zeroResultsEl = document.getElementById(
+        "zero_searches_results_found"
+      );
+      let someResultsEl = document.getElementById("search_results_listing");
       if (results.length === 0) {
-        searchResultsEl.innerHTML = "<p>No search results for your search.</p>";
+        zeroResultsEl.classList.remove("d-none");
+        someResultsEl.classList.add("d-none");
+      } else {
+        zeroResultsEl.classList.add("d-none");
+        someResultsEl.classList.remove("d-none");
       }
     }
   });
 }
 setupParticipantSearch();
+
+function setupSearchFilter() {
+  function updateSearchFormFields(ev) {
+    let searchForm = document.getElementById("participant_search_form");
+    let form = ev.target.closest("[data-js-search-filter]");
+    let checked = [...form.querySelectorAll(":checked")];
+    let queries = {};
+    for (let i = 0; i < checked.length; i++) {
+      if (!queries[checked[i].name]) {
+        queries[checked[i].name] = [];
+      }
+      queries[checked[i].name].push(`${checked[i].name}:${checked[i].value}`);
+    }
+    newQueries = Object.values(queries).map((q) => q.join(" "));
+    searchForm
+      .querySelectorAll("input[type='hidden']")
+      .forEach((e) => e.remove());
+    for (let i = 0; i < newQueries.length; i++) {
+      let input = document.createElement("input");
+      input.setAttribute("type", "hidden");
+      input.setAttribute("name", "addl_query");
+      input.setAttribute("value", newQueries[i]);
+      searchForm.append(input);
+    }
+    searchForm.querySelector("[type='submit']").click();
+  }
+
+  on("change", "[data-js-search-filter]", updateSearchFormFields);
+  on("reset", "[data-js-search-filter]", function (ev) {
+    setTimeout(function () {
+      updateSearchFormFields(ev);
+    }, 0);
+  });
+}
+setupSearchFilter();

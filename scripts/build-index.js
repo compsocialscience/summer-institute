@@ -13,6 +13,9 @@ const particpantsIndex = "./assets/json/all-people-index.json";
   let idx = lunr(function () {
     this.ref("id");
     this.field("name", { boost: 2 });
+    this.field("year");
+    this.field("site");
+    this.field("category");
     this.field("bio");
     this.field("organization");
     this.field("research_interests");
