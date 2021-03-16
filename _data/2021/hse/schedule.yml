@@ -1,3 +1,84 @@
-- date: 2021-06-14
+- date: This is a preliminary program, some details are subject to change. All times are in Central European Time.
+
+- date: 2021-06-13
   events:
-    - name: "Schedule coming soon..."
+    - name: "18:00 Meet-and-greet (based on this [model](https://medium.com/swlh/how-to-run-a-zoom-cocktail-party-and-have-better-classes-conferences-and-meetings-too-dc2c5b58f8be)) (*Zoom*)"
+
+- date: 2021-06-14
+  name: Introduction and Ethics
+  events:
+    - name: "12:00 - 12:30 Introduction and logistics (*Zoom*)"
+    - name: "12:30 - 13:30 Small group discussions (*Zoom*)"
+    - name: "13:30 - 14:00 Break"
+    - name: "14:00 - 15:00 Small group lunches (optional) (*Zoom*)"
+    - name: "15:00 - 15:30 Break"
+    - name: "15:30 - 15:45 Introduction to the group exercise (*Zoom*)"
+    - name: "15:45 - 16:45 Small group discussion of [case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf) (*Zoom*)"
+    - name: "16:45 - 17:15 Whole group debrief about case study (*Zoom*)"
+    - name: "17:15 - 17:30 Break"
+    - name: "17:30 - 19:00 Guest speaker (TBA) (*Zoom*)"
+    - name: "19:00 - 19:15 Debrief and logistics (*Zoom*)"
+
+- date: 2021-06-15
+  name: Collecting Digital Trace Data
+  events:
+    - name: "12:00 - 12:15 Logistics and introduction (*Zoom*)"
+    - name: "12:15 - 13:30 Designing a Research Question with Digital Trace Data (*Zoom*)"
+    - name: "13:30 - 14:00 Break"
+    - name: "14:00 - 15:30 Collecting Digital Trace Data (*Zoom*)"
+    - name: "15:30 - 16:30 Discussing Strengths & Benefits plus Hybrid Designs (*Zoom*)"
+    - name: "16:30 - 16:45 Break"    
+    - name: "16:45 - 18:15 Guest speaker (TBA) (*Zoom*)" 
+    - name: "18:15 - 18:30 Debrief and logistics (*Zoom*)"
+
+- date: 2021-06-16
+  name: Automated Text Analysis
+  events:
+    - name: "12:00 - 12:15 Logistics and introduction to group exercise (*Zoom*)"
+    - name: "12:15 - 13:30 Group Exercise based on the pre-recorded lectures [(Day 3)](https://sicss.io/curriculum)(*Zoom*)"
+    - name: "13:30 - 14:00 Break"
+    - name: "14:00 - 15:00 Participant flash talks (encouraged) (*Zoom*)"
+    - name: "15:00 - 15:15 Break"
+    - name: "15:15 - 17:30 Group Exercise (*Zoom*)"
+    - name: "17:30 - 17:45 Break"
+    - name: "17:45 - 19:15 Guest speaker (TBA) (*Zoom*)"
+    - name: "19:15 - 19:30 Debrief and logistics (*Zoom*)"
+
+- date: 2021-06-17
+  name: Surveys in the Digital Age
+  events:
+    - name: "12:00 - 12:15 Logistics (*Zoom*)"
+    - name: "12:15 - 12:30 Introduction to the group exercise (*Zoom*)"
+    - name: "12:30 - 13:30 Morning group exercise (*Zoom*)"
+    - name: "13:30 - 14:00 Break"
+    - name: "14:00 - 15:00 Participant flash talks (encouraged) (*Zoom*)"
+    - name: "15:00 - 15:15 Break"
+    - name: "15:15 - 17:00 Afternoon group exercise (*Zoom*)"
+    - name: "17:00 - 17:15 Break"
+    - name: "17:15 -17:30 Whole group debrief about group exercise (*Zoom*)"
+    - name: "17:30 - 17:45 Debrief and logistics (*Zoom*)"
+
+- date: 2021-06-18
+  name: Mass collaboration and machine learning
+  events:
+    - name: "12:00 - 12:15 Logistics (*Zoom*)"
+    - name: "12:15 - 12:30 Introduction to the group exercise [Video](https://www.youtube.com/watch?v=ZI95vV7Co38) [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/06-ffchallenge_participate_activity.pdf) (*Zoom*)"
+    - name: "12:30 - 13:30 Participate in the Fragile Families Challenge (*Zoom*)"
+    - name: "13:30 - 14:00 Break"
+    - name: "14:00 - 15:00 Participant flash talks (encouraged) (*Zoom*)"
+    - name: "15:00 - 15:15 Break"
+    - name: "15:15 - 17:00 Continue participating in the Fragile Families Challenge (*Zoom*)"
+    - name: "17:00 - 17:15 Break"
+    - name: "17:15 - 17:30 Whole group debrief about group exercise (*Zoom*)"
+    - name: "17:30 - 17:45 Debrief and logistics (*Zoom*)"
+
+- date: 2021-06-19
+  name: Closing day
+    - name: "12:00 - 12:15 Logistics (*Zoom*)"
+    - name: "12:15 - 13:30 Computational studies of childhood and education (*Zoom*)"
+    - name: "1:30 - 14:00 Break"   
+    - name: "14:00 - 15:00 Participant flash talks (encouraged) (*Zoom*)"   
+    - name: "15:00 - 15:30 Break"   
+    - name: "15:30 - 17:00 Guest speaker (TBA) (*Zoom*)"    
+    - name: "17:00 - 17:15 Break"   
+    - name: "17:15 - 17:45 Debrief and Conclusion (*Zoom*)"
