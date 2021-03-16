@@ -102,6 +102,24 @@ body {
   }
 }
 
+.collapse-caret {
+  display: block;
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1IiBoZWlnaHQ9IjEwIiB2aWV3Qm94PSIwIDAgNSAxMCI+CiAgPHBvbHlnb24gZmlsbD0iI0JDQkNCQyIgZmlsbC1ydWxlPSJldmVub2RkIiBwb2ludHM9IjAgMCA1IDUgMCAxMCIvPgo8L3N2Zz4K");
+  background-size: 5px 10px;
+  background-repeat: no-repeat;
+  background-position: left center;
+  width: 16px;
+  height: 16px;
+  content: "";
+  margin-right: 4px;
+  transition: transform 0.3s;
+  transform-origin: 20% 50%;
+  transform: rotate(90deg);
+}
+.btn-collapse-toggle.collapsed .collapse-caret {
+  transform: rotate(0deg);
+}
+
 .breadcrumb {
   background: none;
 }
