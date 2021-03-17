@@ -1,0 +1,50 @@
+organizers:
+  title: Organizers
+  people:
+    - name: Yan Leng
+      image: /assets/images/yanLeng_new.jpeg
+      bio: "Yan Leng is an assistant professor in the McCombs School of Business, the University of Texas at Austin. She graduated from MIT Media Lab in May, 2020. She holds master degrees in Computer Science and Transportation Engineering, both from MIT. Yan is a network scientist working on social science problems. Her research lies in the intersection of machine learning, network theory, and causal inference. She uses large-scale behavioral data to understand collective human behavior over social networks and builds computational techniques for solving societal and organizational issues."
+      website: http://web.mit.edu/yleng/www/
+
+
+    - name: Tian Yang
+      image: /assets/images/tianYang.png	
+      bio: "Tian Yang is a PhD Candidate at the Annenberg School for Communication at the University of Pennsylvania. He is interested in applying methods in computational social science to study political communication across the globe, especially in China and the US. Particularly, he looks at how today’s high-choice media environment influences the public’s information behaviors. His research employs various approaches, including network analysis, online experiments, natural experiments, etc."
+      website: https://www.asc.upenn.edu/people/students/tian-yang
+
+
+    - name: Yuan Yuan
+      image: /assets/images/yuanYuan.jpg	
+      bio: "Yuan Yuan is a PhD Candidate in the Institute for Data, Systems, and Society (IDSS) at Massachusetts Institute of Technology. He will be joining the Purdue Krannert School of Management in Fall 2021. He researches social and economic networks by applying cutting-edge computational methods, including machine learning, causal inference, and experimental design, to large-scale network data. He is especially interested in how social ties are formed and stabilized, and how social ties mediate social contagion, social exchange, prosocial behavior, and information diffusion. Yuan’s thesis advisor is Prof. Sandy Pentland. Yuan considers himself as a computational social scientist who cares a lot about research methodology."
+      website: https://www.mit.edu/~yuan2/
+
+localspeakers:
+  title: Speakers
+  people:
+    - name: Chris Bail
+      image: /assets/images/chris2019.jpg
+      bio: Chris Bail is Professor of Sociology and Public Policy at Duke University where he directs the Polarization Lab. He is also affiliated with the Interdisciplinary Data Science Program, the Duke Network Analysis Center, and the Duke Population Research Institute. His research examines political polarization, culture and social psychology using tools from the  field of computational social science. He is the author of <a href="https://press.princeton.edu/books/paperback/9780691173634/terrified">Terrified&#58; How Anti-Muslim Fringe Organizations Became Mainstream</a>.
+      website: http://www.chrisbail.net/
+
+    - name: Morgan R. Frank
+      image: /assets/images/morganFrank.jpg
+      bio: Morgan Frank is an Assistant Professor at the School of Computing and Information at the University of Pittsburgh, a Research Affiliate at the MIT Media Lab, and a Digital Fellow at the Stanford Institute for Human-Centered Artificial Intelligence. Morgan is interested in the complexity of AI, the future of work, and the socio-economic consequences of technological change. While many studies focus on phenotypic labor trends, Morgan’s recent research examines how genotypic skill-level processes around AI impact individuals and society. Combining labor research with investigations into the nature of AI research and the social or societal implications of AI adoption, Morgan hopes to inform our understanding of AI’s impact. Morgan has a PhD from MIT’s Media Lab, was a postdoc at MIT IDSS and the IDE,  and has a masters degree in applied mathematics from the University of Vermont where he was a member of the Computational Story Lab.
+      website: http://www.pitt.edu/~mrfrank/
+
+    - name: Mohsen Mosleh
+      image: /assets/images/MoslehM.jpg
+      bio: Mohsen Mosleh is a Lecturer (Assistant Professor) at the Science, Innovation, Technology, and Entrepreneurship Department, University of Exeter Business School and a Research Affiliate at MIT. Mohsen was a Postdoctoral Fellow at the MIT Sloan School of Management as well as the Department of Psychology at Yale University. Prior to his postdoctoral studies, Mohsen received his PhD from Stevens Institute of Technology in Systems Engineering with a minor in data science. Mohsen’s research interests lie at the intersection of computational/data science and cognitive/social science. In particular, he studies how information and misinformation spread on social media, collective decision-making, and cooperation.
+      website: http://mohsenmosleh.com/
+
+    - name: Alex (Sandy) Pentland
+      image: /assets/images/APentland.jpg
+      bio: Professor Alex 'Sandy' Pentland directs the MIT Connection Science and Human Dynamics labs and previously helped create and direct the MIT Media Lab and the Media Lab Asia in India. He is one of the most-cited scientists in the world, and Forbes recently declared him one of the '7 most powerful data scientists in the world' along with Google founders and the Chief Technical Officer of the United States. He co-led the World Economic Forum discussion in Davos that led to the EU privacy regulation GDPR, and was central in forging the transparency and accountability mechanisms in the UN's Sustainable Development Goals. He has received numerous awards and prizes such as the McKinsey Award from Harvard Business Review, the 40th Anniversary of the Internet from DARPA, and the Brandeis Award for work in privacy. He is a founding member of advisory boards for Google, AT&T, Nissan, and the UN Secretary General, a serial entrepreneur who has co-founded more than a dozen companies including social enterprises such as the Data Transparency Lab and the Harvard-ODI-MIT DataPop Alliance. He is a member of the U.S. National Academy of Engineering and leader within the World Economic Forum.
+      website: https://www.media.mit.edu/people/sandy/overview/
+
+    - name: More speakers TBA...
+
+
+participants:
+  title: Participants
+  people:
+    - name: TBA...
