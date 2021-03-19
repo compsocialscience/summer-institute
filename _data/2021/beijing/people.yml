@@ -32,7 +32,7 @@ localspeakers:
       website: http://www.pitt.edu/~mrfrank/
 
     - name: Zhiyuan Liu
-      image: /assets/images/ZhiyuanLiu.jpg
+      image: /assets/images/ZhiyuanLiu.png
       bio: Zhiyuan Liu is an associate professor at the Department of Computer Science and Technology, Tsinghua University. He received his Ph.D. degree in Computer Science from Tsinghua in 2011. His research interests include representation learning, knowledge graphs and social computation, and has published more than 90 papers in top-tier conferences and journals of AI and NLP including ACL, IJCAI and AAAI, cited by more than 13,000 according to Google Scholar. He is the recipient of the Excellent Doctoral Dissertation of Tsinghua University, the Excellent Doctoral Dissertation of CAAI (Chinese Association for Artificial Intelligence), MIT Technology Review Innovators Under 35 China (MIT TR-35 China), BAAI Young Scientist. He serves as area chairs of ACL, EMNLP, COLING, IJCNLP, etc.
       website: http://nlp.csai.tsinghua.edu.cn/~lzy/
     
