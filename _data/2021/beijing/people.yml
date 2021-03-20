@@ -21,6 +21,13 @@ organizers:
 localspeakers:
   title: Speakers
   people:
+  
+  
+    - name: Yong-Yeol (YY) Ahn
+      image: /assets/images/YYAhn.jpg
+      bio: Yong-Yeol (YY) Ahn is an Associate Professor at Indiana University School of Informatics, Computing, and Engineering and a Visiting Professor at MIT. Before joining Indiana University, he worked as a postdoctoral research associate at the Center for Complex Network Research at Northeastern University and as a visiting researcher at the Center for Cancer Systems Biology at Dana-Farber Cancer Institute after earning his PhD in Statistical Physics from KAIST in 2008. His research focuses on complex social and biological systems by developing and applying network science and machine learning methods to a wide range of domains, including large-scale social phenomena, health, inequality, neuroscience, culture, and science of science. He is a recipient of several awards including Microsoft Research Faculty Fellowship and LinkedIn Economic Graph Challenge.
+      website: http://yongyeol.com
+      
     - name: Chris Bail
       image: /assets/images/chris2019.jpg
       bio: Chris Bail is Professor of Sociology and Public Policy at Duke University where he directs the Polarization Lab. He is also affiliated with the Interdisciplinary Data Science Program, the Duke Network Analysis Center, and the Duke Population Research Institute. His research examines political polarization, culture and social psychology using tools from the  field of computational social science. He is the author of <a href="https://press.princeton.edu/books/paperback/9780691173634/terrified">Terrified&#58; How Anti-Muslim Fringe Organizations Became Mainstream</a>.
