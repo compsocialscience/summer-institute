@@ -11,11 +11,33 @@ image: /assets/images/howard.jpg
 
 ---
 
+<u>SICSS-Howard/Mathematica Teaching Assistants announced </u>
+<br><font color="grey"><font size="2">March 18, 2021</font></font> 
+<br><i><font size = "2">We are happy to announce that Zanele Munyikwa and Demetrius Murphy have been selected to serve as Teaching Assistants for SICSS-Howard/Mathematica this summer. As TAs, they will conduct office hours before and during the institute, and guide participants through research exercises. Learn more about Zanele and Demetrius on the People page of our website.  </font></i> 
+<br><font size = "1">(Posted by <a >SICSS-Howard/Mathematica</a>)</font>
 
-<u>Howard University/Mathematica Summer Institute in Computational Social Science (SICSS) </u>
-<br><font color="grey"><font size="2">March 1, 2021</font></font> 
-<br><i><font size = "2">SICSS-Howard/Mathematica to host a virtual round-table at the upcoming Pacific Sociological Association Conference held from March 17-21, 2021 </font></i> 
-<br><font size = "1">(Posted by <a href="https://www.pacificsoc.org/9672?utm_source=rss&utm_medium=rss&utm_campaign=howard-university-mathematica-summer-institute-in-computational-social-science-sicss">The Pacific Sociological Association</a>)</font>
+<u>SICSS-Howard/Mathematica Teaching Assistants announced </u>
+<br><font color="grey"><font size="2">March 18, 2021</font></font> 
+<br><i><font size = "2">We are happy to announce that Zanele Munyikwa and Demetrius Murphy have been selected to serve as Teaching Assistants for SICSS-Howard/Mathematica this summer. As TAs, they will conduct office hours before and during the institute, and guide participants through research exercises. Learn more about Zanele and Demetrius on the People page of our website.  </font></i> 
+<br><font size = "1">(Posted by <a >SICSS-Howard/Mathematica</a>)</font>
+
+
+<u>SICSS-Howard/Mathematica to table at Pacific Sociological Association Conference </u>
+<br><font color="grey"><font size="2">March 15, 2021</font></font> 
+<br><i><font size = "2">SICSS-Howard/Mathematica will be hosting a virtual round-table at the 92nd Annual Meeting of the Pacific Sociological Association, held from March 17-21, 2021. </font></i> 
+<br><font size = "1">(Posted by <a >SICSS-Howard/Mathematica</a>)</font>
+
+
+<u>Summer schedule posted </u>
+<br><font color="grey"><font size="2">March 11, 2021</font></font> 
+<br><i><font size = "2">The SICSS-Howard-Mathematica 2021 schedule is live on our website! This agenda contains information about each day's activities, including group exercises and case studies. Guest speaker announcements, and opening and closing activities will be posted soon.  Stay tuned! </font></i> 
+<br><font size = "1">(Posted by <a >SICSS-Howard/Mathematica</a>)</font>
+
+
+<u>Faculty Sponsors announced </u>
+<br><font color="grey"><font size="2">March 8, 2021</font></font> 
+<br><i><font size = "2">We are excited to announce that Terri Adams, Ph.D. and Bahiyyah Muhammad, Ph.D. have both signed on as SICSS-Howard/Mathematica’s inaugural faculty co-sponsors. Learn more about Professor Adams, Professor Muhammad, and Howards Sociology and Criminal Justice Department on the People page of our website. </font></i> 
+<br><font size = "1">(Posted by <a >SICSS-Howard/Mathematica</a>)</font>
 
 
 <u>Uncovering new keys to countering anti-Black racism and inequity using computational social science</u>
