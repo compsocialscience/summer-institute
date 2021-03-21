@@ -14,10 +14,10 @@ image: /assets/images/howard.jpg
 <u>Discussion on Diversity in Computational Social Science </u>
 <br><font color="grey"><font size="2">March 18, 2021</font></font> 
 <br><i><font size = "2">Naniette Coleman (SICSS-Princeton 19'), local organizer of SICSS-Howard/Mathematica, in discussion with Matt Salganik (SICSS-Princeton 17, 19, SICSS-Duke 18, 20) co-founder of SICSS, about diversity in the field of computational social science.</font></i> 
-<br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/">SICSS-Howard/Mathematica</a>)</font>
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ntXDMNABa_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+<br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/">SICSS-Howard/Mathematica</a>)</font>
 
 
 
