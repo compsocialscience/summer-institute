@@ -1,8 +1,8 @@
-
 ---
 layout: location_detail
 partner_site: beijing
 ---
+
 ## 计算社会科学暑期学校 （北京分会场2021）
 
 **时间**：2021年6月14日（周一）至6月25日（周五）
