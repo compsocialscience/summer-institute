@@ -39,6 +39,6 @@ Yong-Yeol（YY）Ahn是印第安纳大学信息，计算和工程学院的副教
 [**Yi Bu**](https://buyi08.wixsite.com/yi-bu)
 步一，北京大学信息管理系助理教授、研究员，博士生导师。北京大学管理学学士，美国印第安纳大学理学硕士、信息学博士。从事信息计量学和科学评价相关研究，具体研究方向包括科学合作的时序特征、引文影响力评估和科学知识图谱绘制等。在SSCI/SCI期刊上发表论文数十篇。
 
-**官网（含申请链接）**：https://sicss.io/2021/beijing/
+**官网（含申请链接）**：[https://sicss.io/2021/beijing/](https://sicss.io/2021/beijing/)
 **申请截止日期**：2021年4月1日
 **咨询邮箱**: sicss.beijing@gmail.com
