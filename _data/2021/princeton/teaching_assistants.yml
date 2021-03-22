@@ -1,9 +1,14 @@
-- name: Emily Cantrell
-  image: /assets/images/EmilyCantrell.jpeg
-  bio: Emily Cantrell is a doctoral student in Sociology and Social Policy at Princeton University. She received her bachelor’s degree from Denison University in 2017, where she designed her own major in Human Development and Social Policy with a focus on socioeconomic inequality in the United States. Prior to beginning her graduate work, Emily worked at Child Trends, a research organization that evaluates programs and policies to improve the lives of children and families. Her current projects include a collaboration to assess the predictability of life trajectories using thousands of machine learning strategies, building on findings from the <a href="https://www.fragilefamilieschallenge.org/">Fragile Families Challenge</a>.
-  website: https://www.linkedin.com/in/emily-cantrell/
-
 - name: Fatima Alqabandi
-  image: /assets/images/FatimaAlqabandi.jpeg
+  image: /assets/images/fatima_alqabandi.jpeg
   bio: Fatima Alqabandi is a doctoral student in Sociology at Duke University. She is part of the Polarization Lab, the Duke Network Analysis Center, and, more recently, she has co-founded the Duke Computational Social Science Working Group. Her current projects include running online social experiments to explore self-censorship and political polarization, as well as using agent-based modeling to better understand the dynamics of radicalization. She hopes to continue to integrate computational methods and machine learning into social scientific research.
   website: https://www.linkedin.com/in/fatima-alqabandi-a09a904a/
+
+- name: Emily Cantrell
+  image: /assets/images/EmilyCantrell.jpeg
+  bio: Emily Cantrell is a doctoral student in Sociology and Social Policy at Princeton University. She received her bachelor’s degree from Denison University in 2017, where she designed her own major in Human Development and Social Policy with a focus on socioeconomic inequality in the United States. Prior to beginning her graduate work, Emily worked at Child Trends, a research organization that evaluates programs and policies to improve the lives of children and families. Her current projects include a collaboration to assess the predictability of life trajectories using hundreds of machine learning strategies, building on findings from the <a href="https://www.fragilefamilieschallenge.org/">Fragile Families Challenge</a>.
+  website: https://www.linkedin.com/in/emily-cantrell/
+
+- name: Megan Kang
+  image: /assets/images/megan_kang.jpeg
+  bio: Megan Kang is a PhD student in Sociology at Princeton University. She studies the consequences of violence on disadvantaged communities, with the goal of identifying effective and humane ways of reducing inequality in safety and well-being. Prior to joining Princeton, she was a Teach for America corps member in Detroit and then worked on a large-scale social experiment aimed at reducing gun violence at the UChicago Crime Lab. Megan is interested in how computational social science can leverage qualitative insights, and is committed to finding ethical ways to use AI in public policy. Her past and current projects involve using in-depth interviews to find out why the Fragile Families prediction challenge yielded poor predictions of youth outcomes, the application of computer vision on police camera footage, and an evaluation of the use of algorithms to identify men at high risk of violence involvement to receive intensive social services.
+  website: https://sociology.princeton.edu/people/megan-kang
