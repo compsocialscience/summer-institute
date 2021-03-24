@@ -5,10 +5,12 @@
 {% assign sites_group_1 = data.all-people-2017-2020 | map: "site" | uniq | sort %}
 {% assign sites_group_2 = data.all-people-post-2020 | map: "site" | uniq | sort %}
 {% assign all_sites = sites_group_1 | concat: sites_group_2 %}
+{% assign all_sites = all_sites | sort | uniq %}
 
 {% assign category_group_1 = data.all-people-2017-2020 | map: "category" | uniq | sort %}
 {% assign category_group_2 = data.all-people-post-2020 | map: "category" | uniq | sort %}
 {% assign all_categories = category_group_1 | concat: category_group_2 %}
+{% assign all_categories = all_categories | sort | uniq %}
 
 <form data-js-search-filter>
 <p><a class="d-flex align-items-center font-weight-bolder btn-collapse-toggle" data-toggle="collapse" href="#collapseYear" role="button" aria-expanded="false" aria-controls="{{ include.uniqueid }}-collapseYear"><span class="collapse-caret"></span><span>Year</span></a></p>
