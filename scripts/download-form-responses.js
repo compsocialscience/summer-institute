@@ -52,7 +52,7 @@ async function downloadImage(url) {
           id: `${record.timestamp}-${record.first_name}`,
           name: `${record.first_name} ${record.last_name}`,
           image: imagePath,
-          year,
+          year: String(year),
           ...record,
         });
       }
