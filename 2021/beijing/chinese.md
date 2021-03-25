@@ -54,6 +54,6 @@ Yong-Yeol（YY）Ahn是印第安纳大学信息，计算和工程学院的副教
 
 **官网（含申请链接）**：[https://sicss.io/2021/beijing/](https://sicss.io/2021/beijing/)
 
-**申请截止日期**：2021年4月1日
+**申请截止日期**：~~2021年4月1日~~2021年4月7日
 
 **咨询邮箱**: sicss.beijing@gmail.com
