@@ -26,10 +26,9 @@
 <p><a class="d-flex align-items-center font-weight-bolder btn-collapse-toggle collapsed" data-toggle="collapse" href="#collapseLocation" role="button" aria-expanded="false" aria-controls="collapseLocation"><span class="collapse-caret"></span><span>Location</span></a></p>
 <div id="collapseLocation" class="collapse ml-3">
   {% for site in all_sites %}
-    {% assign site_display = site | capitalize %}
     <div class="form-group form-check">
-      <input type="checkbox" name="site" class="form-check-input" value="{{ site | escape }}" id="{{ include.uniqueid }}-site-filter-{{ site | slugify  }}">
-      <label for="{{ include.uniqueid }}-site-filter-{{ site | slugify  }}" class="form-check-label">{{ data.locations_by_slug[site].title | default: site_display }}</label>
+      <input type="checkbox" name="site" class="form-check-input" value="{{ site | slugify }}" id="{{ include.uniqueid }}-site-filter-{{ site | slugify  }}">
+      <label for="{{ include.uniqueid }}-site-filter-{{ site | slugify  }}" class="form-check-label">{{ site }}</label>
     </div>
   {% endfor %}
 </div>

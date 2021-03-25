@@ -22,6 +22,14 @@ const particpantsIndex = "./assets/json/all-people-index.json";
     this.field("position");
     this.field("discipline");
     records.forEach((record) => {
+      if (record.site) {
+        record.site = String(record.site)
+          .toLowerCase()
+          .replace(/[\s:\/\(\)]+/g, "-") // Replace spaces and special chars with -
+          .replace(/\-\-+/g, "-") // Replace multiple - with single -
+          .replace(/^-+/, "") // Trim - from start of text
+          .replace(/-+$/, ""); // Trim - from end of text
+      }
       this.add(record);
     });
   });
