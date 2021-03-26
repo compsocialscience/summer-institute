@@ -14,7 +14,20 @@ faculty:
 speakers: 
   title: Speakers 
   people:
-    - name: Coming Soon!
+    - name: Ruha Benjamin, Ph.D
+      image: /assets/images/RuhaBenjamin.jpg
+      bio: "Ruha Benjamin is Professor of African American Studies at Princeton University, Founding Director of the Ida B. Wells Just Data Lab, and author of the award-winning book <i>Race After Technology: Abolitionist Tools for the New Jim Code</i> among many other publications. Her work investigates the social dimensions of science, medicine, and technology with a focus on the relationship between innovation and inequity, health and justice, knowledge and power. Ruha earned a BA from Spelman College, MA and PhD in Sociology from UC Berkeley, and completed postdoctoral fellowships at UCLA’s Institute for Society & Genetics and Harvard’s Science, Technology and Society Program. She is the recipient of numerous awards and fellowships including from the American Council of Learned Societies, National Science Foundation, Marguerite Casey Foundation 2020 Freedom Scholar Award, and the President’s Award for Distinguished Teaching at Princeton."
+      website: https://www.ruhabenjamin.com/
+      
+    - name: Naomi Sugie, Ph.D
+      image: /assets/images/NaomiSugie.jpg
+      bio: "Naomi F. Sugie is an Associate Professor in the Criminology, Law and Society Department (and by courtesy, the Sociology Department) at the University of California, Irvine (UC Irvine).  Her research focuses on issues of punishment, inequality, and new technologies for research with traditionally hard-to-reach groups.  Her recent projects focus on reentry from prison and the consequences of criminal justice contact for employment, mental health, and political participation. In a recent study, the Newark Smartphone Reentry Project, she used a phone application to examine daily job search and employment experiences of men recently released from prison in Newark, NJ. This project collected data through real-time surveys, GPS location estimates, and call/text logs.  Currently, she is collaborating with an interdisciplinary team to develop a phone application to understand housing needs among precariously housed and homeless Veterans. She is also working with faculty and students at UC Irvine, through the <a href="https://prisonpandemic.uci.edu">PrisonPandemic Project</a>, to document and disseminate stories from incarcerated people in CA about living through COVID-19. Her work is published in journals including <i>American Journal of Sociology, American Sociological Review, Criminology, Demography, Social Forces, Social Problems,</i> and <i>Sociological Methods and Research,</i> and has been supported by the <i>National Institutes of Health, National Institute of Justice,</i> and <i>National Science Foundation</i>. Sugie earned a Ph.D. in Sociology and Social Policy, as well as a specialization in Demography, from Princeton University."
+      website: https://faculty.sites.uci.edu/nsugie/ 
+      
+    - name: Chris Wheat, Ph.D
+      image: /assets/images/ChrisWheat.jpg
+      bio: "Chris Wheat is the Co-President for the JPMorgan Chase Institute. Prior to joining JPMCI, he served as the Director of Analytics at a financial technology startup, where he led the development of advanced analytics algorithms. He previously was an Assistant Professor at the MIT Sloan School of Management and at the Center for Urban Entrepreneurship and Economic Development at Rutgers Business School. As a faculty member, he taught and researched topics in strategy, entrepreneurship, global microfinance, economic sociology, and social network analysis. Chris earned a B.S.E. in Mechanical & Aerospace Engineering from Princeton University, an M.S. in Computer Science from Stanford University, an M.A. in Sociology from Harvard University, and a Ph.D. in Organizational Behavior from Harvard University."
+      website: https://www.jpmorganchase.com/institute 
      
 participants: 
   title: Participants
