@@ -11,6 +11,8 @@ image: /assets/images/howard.jpg
 
 ---
 
+
+
 <u>SICSS-Howard/Mathematica Teaching Assistants announced </u>
 <br><font color="grey"><font size="2">March 18, 2021</font></font> 
 <br><i><font size = "2">We are happy to announce that Zanele Munyikwa and Demetrius Murphy have been selected to serve as Teaching Assistants for SICSS-Howard/Mathematica this summer. As TAs, they will conduct office hours before and during the institute, and guide participants through research exercises. Learn more about Zanele and Demetrius on the People page of our website.  </font></i> 
@@ -31,7 +33,7 @@ image: /assets/images/howard.jpg
 
 <u>Faculty Sponsors announced </u>
 <br><font color="grey"><font size="2">March 8, 2021</font></font> 
-<br><i><font size = "2">We are excited to announce that Terri Adams, Ph.D. and Bahiyyah Muhammad, Ph.D. have both signed on as SICSS-Howard/Mathematica’s inaugural faculty co-sponsors. Learn more about Professor Adams, Professor Muhammad, and Howards Sociology and Criminal Justice Department on the People page of our website. </font></i> 
+<br><i><font size = "2">We are excited to announce that Terri Adams, Ph.D. and Bahiyyah Muhammad, Ph.D. have both signed on as SICSS-Howard/Mathematica’s inaugural faculty co-sponsors. Learn more about Professor Adams, Professor Muhammad, and Howard's Sociology and Criminal Justice Department on the People page of our website. </font></i> 
 <br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/people">SICSS-Howard/Mathematica</a>)</font>
 
 
