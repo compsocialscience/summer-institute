@@ -11,6 +11,15 @@ image: /assets/images/howard.jpg
 
 ---
 
+<u>Interview with Dr. Bahiyyah Muhammad, faculty co-sponsor </u> 
+<br><font color="grey"><font size="2">March 29, 2021</font></font> 
+<br><i><font size = "2">Get to know one of SICSS-Howard/Mathematica’s founding faculty sponsors, Dr. Bahiyyah Muhammad, in this energetic and inspiring video. She shares her thoughts on computational social science and its intersection with her extensive research on the effects of parental incarceration on children in this one-on-one interview with SICSS-Howard/Mathematica lead organizer Naniette Coleman. </font></i> 
+<div class="embed-responsive embed-responsive-16by9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2WRhoRgmvvc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+</div>
+<br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/people">SICSS-Howard/Mathematica</a>)</font> 
+
+
 <u>Free Copy of Bit by Bit available to all SICSS-Howard/Mathematica participants  </u>
 <br><font color="grey"><font size="2">March 28, 2021</font></font> 
 <br><i><font size = "2"> All SICSS-Howard/Mathematica participants will receive a FREE copy of Bit by Bit: Social Research in the Digital Age, written by SICSS co-founder Matt Salganik thanks to sponsor Mathematica. It will serve as a textbook for the program, and is "an invaluable resource for social scientists who want to harness the research potential of big data and a must-read for data scientists interested in applying the lessons of social science to tomorrow's technologies” (Princeton University Press). </font></i> 
@@ -33,15 +42,6 @@ image: /assets/images/howard.jpg
 <br><font color="grey"><font size="2">March 28, 2021</font></font> 
 <br><i><font size = "2">Ruha Benjamin, Ph.D., Princeton University Professor, author of the award-winning book Race After Technology: Abolitionist Tools for the New Jim Code, and founder of the Ida B. Wells Just Data Lab, will be a featured speaker at SICSS-Howard/Mathematica this summer. Learn more about Dr. Benjamin on the People page of our website. </font></i> 
 <br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/people">SICSS-Howard/Mathematica</a>)</font>
-
-
-<u>Interview with Dr. Bahiyyah Muhammad, faculty co-sponsor </u> 
-<br><font color="grey"><font size="2">March 28, 2021</font></font> 
-<br><i><font size = "2">Get to know one of SICSS-Howard/Mathematica’s founding faculty sponsors, Dr. Bahiyyah Muhammad, in this energetic and inspiring video. She shares her thoughts on computational social science and its intersection with her extensive research on the effects of parental incarceration on children in this one-on-one interview with SICSS-Howard/Mathematica lead organizer Naniette Coleman. </font></i> 
-<div class="embed-responsive embed-responsive-16by9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2WRhoRgmvvc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-</div>
-<br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/people">SICSS-Howard/Mathematica</a>)</font> 
 
 
 <u>SICSS-Howard/Mathematica Teaching Assistants announced </u>
