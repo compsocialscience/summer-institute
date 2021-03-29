@@ -20,4 +20,6 @@ Participation is restricted to graduate students, postdoctoral researchers, and 
 
 To ensure full consideration, please submit your [Application materials](https://compsocialscience.github.io/summer-institute/2021/beijing/apply) by ~~April 1, 2021~~ April 7, 2021. You can still submit your application after the deadline, but full consideration will not be guaranteed.
 
+Participation is free of charge.
+
 Because of the COVID-19 pandemic, all events will take place online.
