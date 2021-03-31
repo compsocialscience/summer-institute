@@ -41,7 +41,7 @@ async function downloadImage(url) {
     );
     for await (const record of parser) {
       // Work with each record
-      let timestampDate = fecha.parse(record.timestamp, "M/D/YYYY HH:mm:ss");
+      let timestampDate = fecha.parse(record.timestamp, "M/D/YYYY H:mm:ss");
       let year = timestampDate.getFullYear();
       if (timestampDate.getMonth() >= 9) {
         year += 1;
