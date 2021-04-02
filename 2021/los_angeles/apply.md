@@ -26,7 +26,7 @@ Applicants must submit the following documents:
  - A possible topic, method, or question you would like to focus on for a collaborative project
 
 
-**In order to be guaranteed full consideration, all application materials must be submitted by March 25, 2021.** All application materials must be submitted through TBD. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by ~~April 3rd, 2021~~, and will ask participants to confirm their participation very soon thereafter. **NOTE: Due to a high number of applications we will be notifying applicants by April 5th, 2021. Sorry for the inconvenience.**
+**In order to be guaranteed full consideration, all application materials must be submitted by March 25, 2021.** All application materials must be submitted through TBD. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by ~~April 3rd, 2021~~, and will ask participants to confirm their participation very soon thereafter. **NOTE: Due to a high number of applications we will be notifying applicants by April 7th, 2021. Sorry for the inconvenience.**
 
 **[Click here to apply](https://forms.gle/Pbnm55o1WghZMCFB8)**
 
