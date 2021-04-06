@@ -35,7 +35,7 @@ function slugify(string) {
         record.site = slugify(record.site);
       }
       if (record.category) {
-        record.category = slugify(record.category);
+        record.category = slugify(record.category).replace("-", "");
       }
       this.add(record);
     });

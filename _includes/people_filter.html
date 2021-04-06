@@ -37,7 +37,7 @@
 <div id="collapseInvolvement" class="collapse ml-3">
   {% for category in all_categories %}
     <div class="form-group form-check">
-      <input type="checkbox" name="+category" class="form-check-input" value="{{ category | slugify }}" id="{{ include.uniqueid }}-category-filter-{{ category | slugify }}">
+      <input type="checkbox" name="category" class="form-check-input" value="{{ category | slugify | replace: '-', '' }}" id="{{ include.uniqueid }}-category-filter-{{ category | slugify }}">
       <label for="{{ include.uniqueid }}-category-filter-{{ category | slugify }}" class="form-check-label">{{ category | capitalize }}</label>
     </div>
   {% endfor %}
