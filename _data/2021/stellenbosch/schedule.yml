@@ -1,3 +1,32 @@
 - date: 2021-06-28
   events:
-    - name: "Schedule coming soon..."
+    - name: Welcome and Introduction
+    - name: Introduction to RStudio
+- date: 2021-06-29
+  events:
+    - name: Data Transformation
+- date: 2021-06-30
+  events:
+    - name: Working with Data
+- date: 2021-07-01
+  events:
+    - name: Data Types in R
+- date: 2021-07-02
+  events:
+    - name: Data Visualisation
+- date: 2021-07-05
+  events:
+    - name: Ethics
+- date: 2021-07-06
+  events:
+    - name: Collecting Digital Trace Data
+- date: 2021-07-07
+  events:
+    - name: Automated Text Analysis
+- date: 2021-07-08
+  events:
+    - name: Surveys in the Digital Age
+- date: 2021-07-09
+  events:
+    - name: Experiments
+    - name: Closure and Thanks
