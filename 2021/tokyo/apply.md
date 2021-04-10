@@ -39,7 +39,7 @@ Further, when making our evaluations, we attempt to account for an applicant’s
   <li>one writing sample (no more than 20 pages).</li>
 </ol>
 You can write in English or Japanses. Co-authored work is acceptable for the writing sample (3), but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. All applications must include an e-mail. </p>
-<p><b>All application materials must be submitted through <a href="https://forms.gle/sqku6UP7GKmQ8YGD9">the Google form</a>.</b> In order to be guaranteed full consideration, all application materials must be submitted before Friday, March 12 2021. We will notify applicants solely through e-mail by April 5, 2021, and will ask participants to confirm their participation very soon thereafter.</p>
+<p>The application for SICSS-Tokyo in 2021 has been closed.</p>
 
 <p>Inquiries can be sent to sicsstokyo2021@gmail.com.</p>
 
@@ -52,6 +52,6 @@ You can write in English or Japanses. Co-authored work is acceptable for the wri
  </ol>
 英語、日本語、どちらか扱いやすい言語でご記載ください。3のWriting sampleに関して、共著のものでも構いません。その場合、ご自身を含む各著者の貢献について明記したメモを添付することをおすすめします。応募にあたり、必ずe-mailアドレスを１にご記載ください。</p>
 
-<p><b>すべての応募書類は、<a href="https://forms.gle/sqku6UP7GKmQ8YGD9">こちらのGoogle form</a>より提出してください。</b> 応募締め切りは、2021年3月12日(金)です。すべての書類を期日までにご提出ください。応募していただいた方には、2021年4月5日までにメールにてご招待の有無をご連絡させていただきます。その際、参加の確認を取らせていただく予定です。</p>
+<p>2021年度のSICSS-Tokyoの応募は締め切らせていただきました。</p>
 
 <p>ご質問はこちらまで。sicsstokyo2021@gmail.com</p>
