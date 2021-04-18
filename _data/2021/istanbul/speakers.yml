@@ -1,6 +1,6 @@
 - name: Kemal Oflazer
   image: /assets/images/KemalOflazer.jpg
-  bio: Kemal Oflazer received his PhD in Computer Science from Carnegie Mellon University in Pittsburgh, PA, USA, and his MS in Computer Science and BS in Electrical and Electronics Engineering degrees from Middle East Technical University in Ankara, Turkey. Heis currently a faculty member at Carnegie Mellon University – Qatar,
+  bio: "Kemal Oflazer received his PhD in Computer Science from Carnegie Mellon University in Pittsburgh, PA, USA, and his MS in Computer Science and BS in Electrical and Electronics Engineering degrees from Middle East Technical University in Ankara, Turkey. Heis currently a faculty member at Carnegie Mellon University – Qatar,
         where he is also the Associate Dean for Research.  He has held visiting positions at
         Computing Research Laboratory at New Mexico State University, and at
         the Language Technologies Institute, Carnegie Mellon University,
@@ -31,12 +31,12 @@
         recently been working on applying NLP in educational settings on
         techniques such as interactive reading, question generation, question
         similarity detection and  question answering on technical domains with
-        an eye towards developing automated course assistants.
+        an eye towards developing automated course assistants."
   website: https://www.andrew.cmu.edu/user/ko/
 
 - name: Erdem Yörük
   image: /assets/images/ErdemYörük.jpg
-  bio: Erdem Yörük is an Associate Professor inthe Department of Sociology at Koç University and an Associate Member in the Department of Social Policy and Intervention at University of Oxford. He is the principal investigator of the ERC-funded project 'Emerging Welfare' (The New Politics of Welfare: Towards an 'Emerging Markets' Welfare State Regime) (emw.ku.edu.tr). He is also a member of Young Academy of Europe and an associate editor of EuropeanReview. He holds a PhD from the Department of Sociology at Johns HopkinsUniversity (2012), an MA in Sociology and a BSc in Electrical and Electronics Engineering from Boğaziçi University. His work focuses on social welfare and social policy, social movements, political sociology, and comparative and historical sociology. His work has been supported by the National Science Foundation (NSF), Ford Foundation, European Commission Marie Curie CIG, European Research Council, European Commission Twinning Action Grants (socialcomquant.ku.edu.tr), and the Science Academy of Turkey BAGEP. His articles have appeared in World Development, Governance, Politics & Society, New Left Review, Current Sociology, South Atlantic Quarterly, International Journal of Communication, Social Policy and Administration, Social Indicators Research, among others. His book, ‘The Politics of the Welfare State in Turkey’ is forthcoming from the University of Michigan Press.
+  bio: "Erdem Yörük is an Associate Professor inthe Department of Sociology at Koç University and an Associate Member in the Department of Social Policy and Intervention at University of Oxford. He is the principal investigator of the ERC-funded project 'Emerging Welfare' (The New Politics of Welfare: Towards an 'Emerging Markets' Welfare State Regime) (emw.ku.edu.tr). He is also a member of Young Academy of Europe and an associate editor of EuropeanReview. He holds a PhD from the Department of Sociology at Johns HopkinsUniversity (2012), an MA in Sociology and a BSc in Electrical and Electronics Engineering from Boğaziçi University. His work focuses on social welfare and social policy, social movements, political sociology, and comparative and historical sociology. His work has been supported by the National Science Foundation (NSF), Ford Foundation, European Commission Marie Curie CIG, European Research Council, European Commission Twinning Action Grants (socialcomquant.ku.edu.tr), and the Science Academy of Turkey BAGEP. His articles have appeared in World Development, Governance, Politics & Society, New Left Review, Current Sociology, South Atlantic Quarterly, International Journal of Communication, Social Policy and Administration, Social Indicators Research, among others. His book, ‘The Politics of the Welfare State in Turkey’ is forthcoming from the University of Michigan Press."
   website:
 
 - name:
