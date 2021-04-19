@@ -9,20 +9,6 @@
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-
-    <!-- Bootstrap CSS -->
-    <link
-      rel="stylesheet"
-      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
-      crossorigin="anonymous"
-    />
-    <link
-      href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i&display=swap"
-      rel="stylesheet"
-    />
-    <link rel="stylesheet" href="style.css" />
-
     <title>Summer Institute in Computational Social Science — Locations</title>
   </head>
   <body class="sub-page">
@@ -51,9 +37,7 @@
             ></iframe>
           </div>
         </div>
-        <!--/col-->
       </div>
-      <!--/row-->
 
       <div class="row">
         <div class="col-sm-12">
@@ -77,222 +61,45 @@
           {% endfor %}
           </ul>
           <div class="tab-content" id="myTabContent">
-            <div
-              class="tab-pane fade show active"
-              id="year2020"
-              role="tabpanel"
-              aria-labelledby="year2020-tab"
-            >
+            {% for year in locations_by_year %}
+              {% if forloop.first == true %}
+              <div class="tab-pane fade show active" id="year{{year.year}}" role="tabpanel" aria-labelledby="year{{year.year}}-tab">
+              {% else %}
+              <div class="tab-pane fade" id="year{{year.year}}" role="tabpanel" aria-labelledby="year{{year.year}}-tab">
+              {% endif %}
               <div class="row">
                 <div class="col-sm-12">
-                  <h3>2020</h3>
+                  <h3>{{year.year}}</h3>
                 </div>
-                <!--/col-sm-12-->
-                <div class="col-sm-4 mb-5">
-                  <div class="card border-0" id="bamberg">
-                    <img
-                      class="card-img-top"
-                      src="images/bamberg.jpg"
-                      alt="Find a location"
-                    />
-                    <div class="card-body">
-                      <h5 class="card-title">University of Bamberg</h5>
-                      <h6 class="card-subtitle mb-4 text-muted">
-                        Bamberg, Germany
-                      </h6>
-                      <a
-                        href="bamberg.html"
-                        class="btn btn-dark btn-sm stretched-link"
-                        >Learn More</a
-                      >
+                  {% for year_location in year.locations %}
+                      <!-- <script>
+                        var data = {{year_location | json}}
+                        setTimeout(function () {
+                         console.log('FIRING THIS ONE')
+                         console.log(data)
+                        }, 20);
+                      </script> -->
+                    <div class="col-sm-4 mb-5">
+                      <div class="card border-0" id="bamberg">
+                        <img class="card-img-top" src="images/bamberg.jpg" alt="Find a location" />
+                        <div class="card-body">
+                          <h5 class="card-title">University of Bamberg</h5>
+                          <h6 class="card-subtitle mb-4 text-muted">
+                            {{year_location.image}}
+                            Bamberg, Germany
+                          </h6>
+                          <a href="bamberg.html" class="btn btn-dark btn-sm stretched-link">Learn More</a>
+                        </div>
+                        <!-- /card-body -->
+                      </div>
+                      <!-- /card -->
                     </div>
-                    <!-- /card-body -->
-                  </div>
-                  <!-- /card -->
-                </div>
-                <!-- /col -->
-
-                <div class="col-sm-4 mb-5">
-                  <div class="card border-0" id="boston">
-                    <img
-                      class="card-img-top"
-                      src="images/location.jpg"
-                      alt="Find a location"
-                    />
-                    <div class="card-body">
-                      <h5 class="card-title">
-                        Massachusetts Institute of Technology
-                      </h5>
-                      <h6 class="card-subtitle mb-4 text-muted">
-                        Boston, Massachusetts
-                      </h6>
-
-                      <a href="#" class="btn btn-dark btn-sm stretched-link"
-                        >Learn More</a
-                      >
-                    </div>
-                    <!-- /card-body -->
-                  </div>
-                  <!-- /card -->
-                </div>
-                <!-- /col -->
-
-                <div class="col-sm-4 mb-5">
-                  <div class="card border-0" id="boulder">
-                    <img
-                      class="card-img-top"
-                      src="images/location.jpg"
-                      alt="Find a location"
-                    />
-                    <div class="card-body">
-                      <h5 class="card-title">University of Colorado Boulder</h5>
-                      <h6 class="card-subtitle mb-4 text-muted">
-                        Boulder, Colorado
-                      </h6>
-
-                      <a href="#" class="btn btn-dark btn-sm stretched-link"
-                        >Learn More</a
-                      >
-                    </div>
-                    <!-- /card-body -->
-                  </div>
-                  <!-- /card -->
-                </div>
-                <!-- /col -->
-
-                <div class="col-sm-4 mb-5">
-                  <div class="card border-0" id="cape_town">
-                    <img
-                      class="card-img-top"
-                      src="images/location.jpg"
-                      alt="Find a location"
-                    />
-                    <div class="card-body">
-                      <h5 class="card-title">University of Cape Town</h5>
-                      <h6 class="card-subtitle mb-4 text-muted">
-                        Cape Town, South Africa
-                      </h6>
-
-                      <a href="#" class="btn btn-dark btn-sm stretched-link"
-                        >Learn More</a
-                      >
-                    </div>
-                    <!-- /card-body -->
-                  </div>
-                  <!-- /card -->
-                </div>
-                <!-- /col -->
+                    <!-- /col -->
+                  {% endfor %}
               </div>
               <!-- /row -->
             </div>
-            <div
-              class="tab-pane fade"
-              id="year2019"
-              role="tabpanel"
-              aria-labelledby="year2019-tab"
-            >
-              <div class="row">
-                <div class="col-sm-12">
-                  <h3>2019</h3>
-                </div>
-                <!--/col-sm-12-->
-                <div class="col-sm-4 mb-5">
-                  <div class="card border-0" id="chicago">
-                    <img
-                      class="card-img-top"
-                      src="images/location.jpg"
-                      alt="Find a location"
-                    />
-                    <div class="card-body">
-                      <h5 class="card-title">Northwestern University</h5>
-                      <h6 class="card-subtitle mb-4 text-muted">
-                        Chicago, Illinois
-                      </h6>
-
-                      <a href="#" class="btn btn-dark btn-sm stretched-link"
-                        >Learn More</a
-                      >
-                    </div>
-                    <!-- /card-body -->
-                  </div>
-                  <!-- /card -->
-                </div>
-                <!-- /col -->
-
-                <div class="col-sm-4 mb-5">
-                  <div class="card border-0" id="durham">
-                    <img
-                      class="card-img-top"
-                      src="images/location.jpg"
-                      alt="Find a location"
-                    />
-                    <div class="card-body">
-                      <h5 class="card-title">Duke University</h5>
-                      <h6 class="card-subtitle mb-4 text-muted">
-                        Durham, North Carolina
-                      </h6>
-
-                      <a href="#" class="btn btn-dark btn-sm stretched-link"
-                        >Learn More</a
-                      >
-                    </div>
-                    <!-- /card-body -->
-                  </div>
-                  <!-- /card -->
-                </div>
-                <!-- /col -->
-
-                <div class="col-sm-4 mb-5">
-                  <div class="card border-0" id="helsinki">
-                    <img
-                      class="card-img-top"
-                      src="images/location.jpg"
-                      alt="Find a location"
-                    />
-                    <div class="card-body">
-                      <h5 class="card-title">
-                        Aalto University, University of Helsinki, Helsinki
-                        Institute for Information Technology HIIT, Rajapinta ry
-                      </h5>
-                      <h6 class="card-subtitle mb-4 text-muted">
-                        Helsinki, Finland
-                      </h6>
-
-                      <a href="#" class="btn btn-dark btn-sm stretched-link"
-                        >Learn More</a
-                      >
-                    </div>
-                    <!-- /card-body -->
-                  </div>
-                  <!-- /card -->
-                </div>
-                <!-- /col -->
-
-                <div class="col-sm-4 mb-5">
-                  <div class="card border-0" id="istanbul">
-                    <img
-                      class="card-img-top"
-                      src="images/location.jpg"
-                      alt="Find a location"
-                    />
-                    <div class="card-body">
-                      <h5 class="card-title"></h5>
-                      <h6 class="card-subtitle mb-4 text-muted">
-                        Istanbul, Turkey
-                      </h6>
-
-                      <a href="#" class="btn btn-dark btn-sm stretched-link"
-                        >Learn More</a
-                      >
-                    </div>
-                    <!-- /card-body -->
-                  </div>
-                  <!-- /card -->
-                </div>
-                <!-- /col -->
-              </div>
-              <!-- /row -->
-            </div>
+            {% endfor %}
             <div
               class="tab-pane fade"
               id="contact"
