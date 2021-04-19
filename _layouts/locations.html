@@ -72,6 +72,8 @@
                   <h3>{{year.year}}</h3>
                 </div>
                   {% for year_location in year.locations %}
+                  {% assign location_data = year_location.location %}
+                  {% assign apply_data = year_location.apply %}
                       <!-- <script>
                         var data = {{year_location | json}}
                         setTimeout(function () {
@@ -81,9 +83,11 @@
                       </script> -->
                     <div class="col-sm-4 mb-5">
                       <div class="card border-0" id="bamberg">
-                        <img class="card-img-top" src="images/bamberg.jpg" alt="Find a location" />
+                        <div class="embed-responsive embed-responsive-16by9">
+                          <img class="embed-responsive-item card-img-top" src="{{location_data.image}}" alt="Find a location" loading="lazy" />
+                        </div>
                         <div class="card-body">
-                          <h5 class="card-title">University of Bamberg</h5>
+                          <h5 class="card-title">{{location_data.title}}</h5>
                           <h6 class="card-subtitle mb-4 text-muted">
                             {{year_location.image}}
                             Bamberg, Germany
