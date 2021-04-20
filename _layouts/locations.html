@@ -89,7 +89,7 @@
                           </div>
                           <div class="card-body">
                             <h5 class="card-title">{{location_data.title}}</h5>
-                            <h6 class="card-subtitle mb-4 text-muted">
+                            <h6 class="card-subtitle mb-2 text-muted">
                               {{location_data.subtitle}}
                             </h6>
                             <p class="card-text">{{location_data.description}}</p>
@@ -145,65 +145,6 @@
       </div>
       <!--/container-->
     </section>
-
-    <footer class="bg-dark py-5">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-2">
-            <a class="" href="index.html">
-              <img src="images/sicss-logo.svg" width="" height="30" alt="" />
-            </a>
-            <p class="text-light py-3"><small>&copy; 2019 SICSS</small></p>
-          </div>
-          <!--/col-->
-          <div class="col-sm-10">
-            <ul class="nav justify-content-end">
-              <li class="nav-item">
-                <a class="nav-link text-light" href="index.html"
-                  >Home <span class="sr-only">(current)</span></a
-                >
-              </li>
-              <li class="nav-item">
-                <a class="nav-link text-light" href="locations.html"
-                  >Locations</a
-                >
-              </li>
-              <li class="nav-item">
-                <a class="nav-link text-light" href="curriculum.html"
-                  >Curriculum</a
-                >
-              </li>
-              <li class="nav-item">
-                <a class="nav-link text-light" href="people.html">People</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link text-light" href="apply.html">Apply</a>
-              </li>
-            </ul>
-          </div>
-          <!--/col-->
-        </div>
-        <!--/row-->
-      </div>
-      <!--/container-->
-    </footer>
-
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script
-      src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-      integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-      crossorigin="anonymous"
-    ></script>
-    <script
-      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-      integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
-      crossorigin="anonymous"
-    ></script>
-    <script
-      src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
-      integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
-      crossorigin="anonymous"
-    ></script>
+    {% include footer.html %}
   </body>
 </html>
