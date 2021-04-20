@@ -4,35 +4,25 @@
 <html lang="en">
   <head>
     {% include header.html %}
-    <!-- Required meta tags -->
-    <meta charset="utf-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
-    />
-    <title>Summer Institute in Computational Social Science — Locations</title>
   </head>
   <body class="sub-page">
     {% include navbar.html %}
-    {% include hero_secondary.html %} {% include breadcrumb.html %}
+    <!-- Start content -->
+    {% include hero_secondary.html %}
+    
+    {% include breadcrumb.html %}
     <div class="container">
       <div class="row">
         <div class="col-sm-12">
           <h2 class="display-4">Locations, past and present</h2>
           <p class="lead">
-            Starting in 2018, the Summer Institutes in Computational Social
-            Science (SICSS) began including partner locations in order to
-            increase the number of participants.
+            {{content}}
           </p>
         </div>
       </div>
       <div class="row">
         <div class="col-sm-12 mb-5">
-          <div class="embed-responsive embed-responsive-16by9">
-            <iframe
-              src="https://www.google.com/maps/d/embed?mid=1209PanKId92WptsFB62RO_BvpFcOg7kp"
-            ></iframe>
-          </div>
+          {% include map.html %}
         </div>
       </div>
 
