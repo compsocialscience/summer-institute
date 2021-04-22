@@ -37,12 +37,12 @@
             {% if forloop.first == true %}
               <li class="nav-item">
                 <a class="nav-link active" id="year{{year.year}}-tab" data-toggle="tab" href="#year{{year.year}}" role="tab" aria-controls="year{{year.year}}"
-                  aria-selected="true">{{year.year}}</a>
+                  aria-selected="true" style="background-color: #F1F1F1;">{{year.year}}</a>
               </li>
             {% else %}
               <li class="nav-item">
                 <a class="nav-link" id="year{{year.year}}-tab" data-toggle="tab" href="#year{{year.year}}" role="tab" aria-controls="year{{year.year}}"
-                  aria-selected="false">{{year.year}}</a>
+                  aria-selected="false" style="background-color: #F1F1F1;">{{year.year}}</a>
               </li>
             {% endif %}
           {% endfor %}
