@@ -36,10 +36,12 @@
 <p><a class="d-flex align-items-center font-weight-bolder btn-collapse-toggle collapsed" data-toggle="collapse" href="#collapseInvolvement" role="button" aria-expanded="false" aria-controls="collapseInvolvement"><span class="collapse-caret"></span><span>Involvement</span></a></p>
 <div id="collapseInvolvement" class="collapse ml-3">
   {% for category in all_categories %}
+    {% if category and category != "" %}
     <div class="form-group form-check">
       <input type="checkbox" name="category" class="form-check-input" value="{{ category | slugify | replace: '-', '' }}" id="{{ include.uniqueid }}-category-filter-{{ category | slugify }}">
       <label for="{{ include.uniqueid }}-category-filter-{{ category | slugify }}" class="form-check-label">{{ category | capitalize }}</label>
     </div>
+    {% endif %}
   {% endfor %}
 </div>
 
