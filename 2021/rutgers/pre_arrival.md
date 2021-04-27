@@ -12,9 +12,13 @@ The Summer Institute will bring together people from many fields and backgrounds
 - Watch lecture videos
 - Prepare your computing environment
 
-TAs will host office hours through Slack to support you as you work through these pre-arrival materials leading up to the institute. To facilitate the completion of these pre-arrival materials, we have provided a suggested schedule. Note: even if you have an existing familiarity with R, we recommend at least skimming the R videos because some of the content may exercise different "R muscles" than you are used to using. For those that are brand new or a beginner in R, we do not expect that you will become experts after going through these materials. The materials will provide you with a foundation to help facilitate participation in the institute. During the institute, we will assume all participants are familiar with these pre-arrival materials. Familiarity does not mean mastery, but hopefully it will mean that you feel curious and inspired by the materials to practice the skills and pursue research using the skills. 
+TAs will host office hours through Slack to support you as you work through these pre-arrival materials leading up to the institute. **To facilitate the completion of these pre-arrival materials, we have provided a suggested schedule [here](https://docs.google.com/document/d/1QrgE91WxHey1ORX1VJ_n4bRKfSmPmC17cI4g9Jzlzug/edit).** 
 
-## Coding Boot Camp
+Note: even if you have an existing familiarity with R, we recommend at least skimming the R videos because some of the content may exercise different "R muscles" than you are used to using. For those that are brand new or a beginner in R, we do not expect that you will become experts after going through these materials. The materials will provide you with a foundation to help facilitate participation in the institute. During the institute, we will assume all participants are familiar with these pre-arrival materials. Familiarity does not mean mastery, but hopefully it will mean that you feel curious and inspired by the materials to practice the skills and pursue research using the skills. 
+
+## Materials covered during pre-arrival 
+
+### Coding Boot Camp
 
 The [SICSS Boot Camp](https://sicss.io/boot_camp) is an online training program created by Chris Bail to provide you with beginner level skills in coding so that you can follow the more advanced curriculum we teach at SICSS. The videos and materials are designed for complete beginners and are best viewed as a sequence since each video builds upon content introduced in previous tutorials. If you are already familiar with the topics in these videos, you do not need to complete them.
 
@@ -27,15 +31,15 @@ If you would like more practice after completing the Boot Camp videos, some othe
 
 Please note that the majority of the coding work presented at SICSS-Rutgers 2021 will employ R. You are welcome to employ a language of your choice, such as Python, Julia, or other languages that are commonly used by computational social scientists.  However, we cannot support those languages.
 
-## Lecture videos
+### Lecture videos
 
 SICSS-Rutgers 2021 will be using a [flipped classroom model](https://en.wikipedia.org/wiki/Flipped_classroom).  Therefore, you should watch [videos of lectures](https://sicss.io/curriculum) before our meetings, and then we will use our time together for discussion and group activities.
 
-## Reading
+### Reading
 
 In order to prepare for SICSS-Rutgers 2021, you should read Matt Salganik’s book, *[Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com)* ([Read online](https://www.bitbybitbook.com/en/1st-ed/preface/) or purchase from [Amazon](https://www.amazon.com/Bit-Social-Research-Digital-Age/dp/0691158649), [Barnes & Noble](https://www.barnesandnoble.com/w/bit-by-bit-matthew-salganik/1125483924), [IndieBound](https://www.indiebound.org/book/9780691158648), or [Princeton University Press](https://press.princeton.edu/books/paperback/9780691196107/bit-by-bit)). Parts of this book, which is a broad introduction to computational social science, will be review for most of you, but if we all read this book ahead of time, then we can use our time together for more advanced topics.
 
-## Computing environment
+## Computing environment and Communication Platforms
 
 ### R
 
