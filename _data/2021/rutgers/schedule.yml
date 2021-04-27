@@ -6,11 +6,11 @@
 - date: 2021-06-14
   name: Introduction and Ethics
   events:
-    - name: "10:00 - 10:30 Introduction and logistics (*Zoom*)"
-    - name: "10:30 - 11:30 Small group discussions (*Zoom*)"
+    - name: "10:00 - 11:00 Introduction and logistics (*Zoom*)"
+    - name: "11:00 - 12:00 Small group discussions (*Zoom*)"
     - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
     - name: "1:30 - 3:15 Small Group Exercise on Ethics"
-    - name: "3:15 - 4:30 Preview of Digital Trace Data (*Zoom*)"
+    - name: "3:30 - 5:00 Talk from Vivek Singh (*Zoom*)"
 
 - date: 2021-06-15
   name: Collecting Digital Trace Data
@@ -28,7 +28,7 @@
     - name: "10:15 - 12:00 Group Exercise (*Zoom*)"
     - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
     - name: "1:15 - 3:30 Group Exercise (*Zoom*)"
-    - name: "3:30 - Possible Guest Speaker (*Zoom*)"
+    - name: "3:30 - Talk by Chris Fariss (*Zoom*)"
 
 - date: 2021-06-17
   name: Machine Learning
@@ -37,19 +37,19 @@
     - name: "10:15 - 12:00 Live Tutorials on Machine Learning"
     - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
     - name: "1:15 - 3:30 Afternoon group exercise (*Zoom*)"
-    - name: "3:30 - Possible Guest Speaker"
+    - name: "3:30 - Talk by In Song Kim"
 
 - date: 2021-06-18
   name: (Morning) Surveys and Experiments 
   events:
     - name: "10:00 - 10:15 Logistics (*Zoom*)"
     - name: "10:15 - 12:00 Group Exercise (*Zoom*)"
-    - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
+    - name: "12:30 - 2:00 Talk by Dan Nielson (*Zoom*)"
 
 - date: 2021-06-18
   name: (Afternoon) Network Analysis 
   events:
-    - name: "1:00- Network Analysis Tutorials"
+    - name: "2:30- 5:00 Network Analysis Tutorials"
 
 - date: 2021-06-19
   name: Day off
@@ -61,6 +61,7 @@
   name: (Morning) Network Analysis Continued
   events:
     - name: "10:00 - 12:00 Network Analysis Exercises"
+    - name: "12:15- 1:30 Talk by Matthew Weber"
 
 
 - date: 2021-06-21
@@ -71,12 +72,18 @@
 
 - date: 2021-06-22
   name: Work on group projects 
+  events:
+    - name: "12:30 - 2:00 Talk by Zhanna Terechshenko
 
 - date: 2021-06-23
   name: Work on group projects
+  events:
+    - name: "12:30 - 2:00 Talk by Munmun De Choudhury
 
 - date: 2021-06-24
   name: Work on group projects 
+  events:
+    - name: "12:30 - 2:00 Talk by Hana Shepherd
 
 - date: 2021-06-25
   name: Present group projects
