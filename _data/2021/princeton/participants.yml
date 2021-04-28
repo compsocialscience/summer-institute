@@ -28,6 +28,11 @@
   bio: "Ajua Duker is a fourth-year PhD student at Yale University primarily working under Dr. Jennifer Richeson. Ajua's research is primarily focused on the link between discrimination and health disparities. In her most recent work, she leverages the emotion regulation literature to test different emotion regulation strategies as interventions that might offset the deleterious affective outcomes that follow contending with past experiences of discrimination."
   website: https://scholar.google.com/citations?user=8VpQZAgAAAAJ&hl=en
 
+- name: Marcos Gallo
+  bio: "Marcos Gallo researches the neuroscience of poverty and discrimination. His motivation directly stems from his experiences growing up in a disadvantaged neighborhood in Brazil. He has a background in Economics, including an MSc from Shanghai Jiao Tong University. When he started his studies at Brigham Young University, he became determined to dedicate his career to helping inform and create effective policies to lift those in poverty."
+  image: /assets/images/Marcos_Gallo.jpeg
+  website: linkedin.com/in/marcos-gallo
+
 - name: Orestes Hastings
   image: /assets/images/Pat_Hastings.png
   bio: "Orestes “Pat” Hastings is an Assistant Professor of Sociology at Colorado State University. He received his PhD in Sociology from the University of California, Berkeley. Pat's research broadly explores the mechanisms and processes through which economic inequalities become social inequalities, especially in the contexts of the families and parenting."
@@ -91,10 +96,6 @@
   image: /assets/images/Nozomi_Nakajima.jpeg
   bio: "Nozomi is a PhD candidate in Education Policy & Program Evaluation at Harvard University. She studies how families, schools, and policymakers make educational decisions, and the consequences of these decisions on social inequality. Previously, Nozomi worked at the World Bank. She holds a master’s degree in Statistics from Harvard University."
   website: https://nozominakajima.github.io/
-
-- name: Marcos Nazareth Gallo
-  bio: "Marcos Nazareth Gallo is a graduate student in Social and Decision Neuroscience at California Institute of Technology."
-  image: /assets/images/blank_square.png
 
 - name: Matthew Osborne
   image: /assets/images/Matthew_Osborne.png
