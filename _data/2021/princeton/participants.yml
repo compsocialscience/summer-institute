@@ -30,7 +30,7 @@
 
 - name: Orestes Hastings
   image: /assets/images/Pat_Hastings.png
-  bio: “Orestes ``Pat`` Hastings is an Assistant Professor of Sociology at Colorado State University. He received his PhD in Sociology from the University of California, Berkeley. Pat's research broadly explores the mechanisms and processes through which economic inequalities become social inequalities, especially in the contexts of the families and parenting.”
+  bio: “Orestes "Pat" Hastings is an Assistant Professor of Sociology at Colorado State University. He received his PhD in Sociology from the University of California, Berkeley. Pat's research broadly explores the mechanisms and processes through which economic inequalities become social inequalities, especially in the contexts of the families and parenting.”
   website: https://ophastings.com
 
 - name: Matt Hauer
@@ -39,11 +39,12 @@
   website: https://mathewhauer.com
 
 - name: Andrey Indukaev
-  image: /assets/images/Andre_Indukaev.jpeg
+  image: /assets/images/Andrey_Indukaev.jpeg
   bio: “Andrey Indukaev is a postdoctoral researcher at Aleksanteri Institute at the University of Helsinki. He received his PhD in Sociology from École Normale Supérieure Paris-Saclay. He combines perspectives of STS, economic and political sociology to study policies promoting innovation and digitalization, as well as political action mediated by digital technology. He also works on making machine-learning workflows compatible with the research approaches of qualitative social science and humanities.”
   website: https://researchportal.helsinki.fi/en/persons/andrey-indukaev
 
 - name: Olivia Johnson
+  image: /assets/images/blank_square.png
   bio: “Olivia Johnson is an assistant professor in the department of Human Development and Consumer Sciences at University of Houston.”
 
 - name: Anne Kavalerchik
