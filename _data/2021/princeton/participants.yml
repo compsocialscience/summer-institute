@@ -54,7 +54,7 @@
 
 - name: Katherine Keith
   image: /assets/images/Katherine_Keith.jpeg
-  bio: “Katherine Keith is a final-year PhD student in the College of Information and Computer Sciences at the University of Massachusetts Amherst. Working with her advisor, Brendan O'Connor, her research expands methods in machine learning and natural language processing to social data science goals including: obtaining social measurements from text data, aggregating said measurements in a statistically rigorous manner, and improving causal estimations from text. She has also applied these NLP methods to applications such automatic event extraction from news archives and studying the language of economic decision making.”
+  bio: “Katherine Keith is a final-year PhD student in the College of Information and Computer Sciences at the University of Massachusetts Amherst. Working with her advisor, Brendan O`Connor, her research expands methods in machine learning and natural language processing to social data science goals including: obtaining social measurements from text data, aggregating said measurements in a statistically rigorous manner, and improving causal estimations from text. She has also applied these NLP methods to applications such automatic event extraction from news archives and studying the language of economic decision making.”
   website: https://kakeith.github.io/
 
 - name: Allison Koh
