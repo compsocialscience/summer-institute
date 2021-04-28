@@ -69,9 +69,14 @@
 
 - date: 2021-06-23
   name: Group Projects Work
+  events:
+    - name: "16:00 - 18:00 Research Talk: TBC"
+
 
 - date: 2021-06-24
   name: Group Projects Work
+  events:
+    - name: "16:00 - 18:00 Research Talk: Robin Lovelace"
 
 - date: 2021-06-25
   name: Present group projects
