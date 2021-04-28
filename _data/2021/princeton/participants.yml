@@ -1,21 +1,21 @@
 - name: Sandra Aguilar Gomez
   image: /assets/images/Sandra_Aguilar_Gomez.jpeg
-  bio: Sandra Aguilar-Gomez is an incoming postdoctoral scholar at the Center for Global Transformation (CGT) at UC San Diego. Next year (Fall 2022), she will join Universidad de Los Andes as an Assistant Professor of Economics. She holds a Ph.D. in Sustainable Development from Columbia University. She works mainly on environmental and development economics. Her interests lie primarily in understanding the consequences of environmental change and the challenges governments face in implementing policies in contexts with underlying structural inequalities or weak institutions. She is currently working on the economics of air pollution control and the impacts of temperature on financial outcomes and hospital management. On the development economics side, she is currently studying gender disparities in labor markets both in Mexico and the United States, as well as women’s health in Tanzania and Mexico.
+  bio: "Sandra Aguilar-Gomez is an incoming postdoctoral scholar at the Center for Global Transformation (CGT) at UC San Diego. Next year (Fall 2022), she will join Universidad de Los Andes as an Assistant Professor of Economics. She holds a Ph.D. in Sustainable Development from Columbia University. She works mainly on environmental and development economics. Her interests lie primarily in understanding the consequences of environmental change and the challenges governments face in implementing policies in contexts with underlying structural inequalities or weak institutions. She is currently working on the economics of air pollution control and the impacts of temperature on financial outcomes and hospital management. On the development economics side, she is currently studying gender disparities in labor markets both in Mexico and the United States, as well as women’s health in Tanzania and Mexico."
   website: https://sandraaguilargomez.com/
 
 - name: Jacy Anthis
   image: /assets/images/Jacy_Anthis.jpeg
-  bio: Jacy is a PhD student at University of Chicago and co-founder of Sentience Institute. His 2018 book, The End of Animal Farming, analyzes plant-based and cell-cultured food technologies. He has presented his research in over 20 countries, and it has been featured in The Guardian, Forbes, Vox, and other media.
+  bio: "Jacy is a PhD student at University of Chicago and co-founder of Sentience Institute. His 2018 book, The End of Animal Farming, analyzes plant-based and cell-cultured food technologies. He has presented his research in over 20 countries, and it has been featured in The Guardian, Forbes, Vox, and other media."
   website: https://www.jacyanthis.com
 
 - name: Carolina Coimbra Vieira
   image: /assets/images/Carolina_Coimbra.jpeg
-  bio: Carolina is a Ph.D. student at Max Planck Institute for Demographic Research in Rostock, Germany. She received her B.Sc. and M.Sc. in Computer Science from Universidade Federal de Minas Gerais (UFMG) in Brazil. Carolina’s research focuses on the interdisciplinary between computer science and the use of social media data to study the bidirectional relation between migration and cultural diffusion.
+  bio: "Carolina is a Ph.D. student at Max Planck Institute for Demographic Research in Rostock, Germany. She received her B.Sc. and M.Sc. in Computer Science from Universidade Federal de Minas Gerais (UFMG) in Brazil. Carolina’s research focuses on the interdisciplinary between computer science and the use of social media data to study the bidirectional relation between migration and cultural diffusion."
   website: https://www.linkedin.com/in/carolina-coimbra-vieira-b5a1b4ba/
 
 - name: Ari Decter-Frain
   image: /assets/images/Ari_Decter-Frain.png
-  bio: Ari is a doctoral student in Policy Analysis and Management at Cornell University. He works on using new kinds of data to study demographic processes, and on methods for measuring political behavior. He was a 2020 Data Science for Social Good Fellow at the University of Washington. He also holds an MSc from the London School of Economics, and a BA from the University of Winnipeg in his home country of Canada.
+  bio: "Ari is a doctoral student in Policy Analysis and Management at Cornell University. He works on using new kinds of data to study demographic processes, and on methods for measuring political behavior. He was a 2020 Data Science for Social Good Fellow at the University of Washington. He also holds an MSc from the London School of Economics, and a BA from the University of Winnipeg in his home country of Canada."
   website: https://aridecterfrain.com/
 
 - name: Sebastian Deri
@@ -25,5 +25,28 @@
 
 - name: Ajua Duker
   image: /assets/images/Ajua_Duker.jpeg
-  bio: "Ajua Duker is a fourth-year PhD student at Yale University primarily working under Dr. Jennifer Richeson. Ajua's research is primarily focused on the link between discrimination and health disparities. In her most recent work, she leverages the emotion regulation literature to test different emotion regulation strategies as interventions that might offset the deleterious affective outcomes that follow contending with past experiences of discrimination." 
+  bio: "Ajua Duker is a fourth-year PhD student at Yale University primarily working under Dr. Jennifer Richeson. Ajua's research is primarily focused on the link between discrimination and health disparities. In her most recent work, she leverages the emotion regulation literature to test different emotion regulation strategies as interventions that might offset the deleterious affective outcomes that follow contending with past experiences of discrimination."
   website: https://scholar.google.com/citations?user=8VpQZAgAAAAJ&hl=en
+
+- name: Orestes Hastings
+  image: /assets/images/Pat_Hastings.png
+  bio: “Orestes ``Pat`` Hastings is an Assistant Professor of Sociology at Colorado State University. He received his PhD in Sociology from the University of California, Berkeley. Pat's research broadly explores the mechanisms and processes through which economic inequalities become social inequalities, especially in the contexts of the families and parenting.”
+  website: https://ophastings.com
+
+- name: Matt Hauer
+  image: /assets/images/Matt_Hauer.jpeg
+  bio: “Matt Hauer is an Assistant Professor of Sociology at Florida State University. His research focuses on the demographic implications of climate change with a focus on how sea-level rise will influence future human migration patterns. His research merges large georeferenced social and census data with large georeferenced physical science datasets.”
+  website: https://mathewhauer.com
+
+- name: Andrey Indukaev
+  image: /assets/images/Andre_Indukaev.jpeg
+  bio: “Andrey Indukaev is a postdoctoral researcher at Aleksanteri Institute at the University of Helsinki. He received his PhD in Sociology from École Normale Supérieure Paris-Saclay. He combines perspectives of STS, economic and political sociology to study policies promoting innovation and digitalization, as well as political action mediated by digital technology. He also works on making machine-learning workflows compatible with the research approaches of qualitative social science and humanities.”
+  website: https://researchportal.helsinki.fi/en/persons/andrey-indukaev
+
+- name: Olivia Johnson
+  bio: “Olivia Johnson is an assistant professor in the department of Human Development and Consumer Sciences at University of Houston.”
+
+- name: Anne Kavalerchik
+  image: /assets/images/Anne_Kavalerchik.png
+  bio: “Anne is a fellow of the Complex Networks and Systems NSF Research Traineeship program and a doctoral student in the departments of sociology and informatics at Indiana University. She uses social network analysis and other quantitative methods to study knowledge production and scientific innovation.”
+  website: https://www.linkedin.com/in/anne-kavalerchik/
