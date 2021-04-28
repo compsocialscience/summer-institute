@@ -12,7 +12,7 @@
     - name: "9:45 - 10:00 Housekeeping"
     - name: "10:00 - 13:00 Lecture: Introduction to reproducible workflows"
     - name: "13:00 - 14:00 Lunch"
-    - name: "14:00 - 16:00 Workshop: Ethics and reproducible workflows"
+    - name: "14:00 - 16:00 Exercise: Ethics and reproducible workflows"
     - name: "16:00 - 18:00 Oxford-London Joint Research Talk: David Lazer"
     
 - date: 2021-06-15
@@ -37,7 +37,7 @@
   events:
     - name: "10:00 - 13:00 Lecture: Introduction to Text as Data"
     - name: "13:00 - 14:00 Lunch"
-    - name: "14:00 - 16:00 Workshop: Text as Data"
+    - name: "14:00 - 16:00 Exercise: Text as Data"
     - name: "16:00 - 18:00 Research Talk: Laura Nelson"
 
 - date: 2021-06-18
