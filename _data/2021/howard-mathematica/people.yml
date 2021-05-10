@@ -57,6 +57,11 @@ lunchtime talks:
       image: /assets/images/CalPolicyLab.png
       bio: "The California Policy Lab is a non-partisan research institute based at the University of California. Our mission is to improve the lives of Californians by generating evidence that transforms public policy. We do this by forming lasting partnerships between government and California’s flagship public universities to harness the power of research and administrative data."
       website: https://www.capolicylab.org/
+      
+    - name: The University of California's Publisher Negotiation Team
+      image: /assets/images/BerkeleyLibrary.jpg
+      bio:
+      website: 
      
 participants: 
   title: Participants
