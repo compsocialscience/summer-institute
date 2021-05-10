@@ -50,7 +50,7 @@ lunchtime talks:
       
     - name: The Data Nutrition Project
       image: /assets/images/DataNutrition.png
-      bio: "Founded in 2018 through the Assembly Fellowship, The Data Nutrition Project takes inspiration from nutritional labels on food, aiming to build labels that highlight the key ingredients in a dataset such as meta-data and populations, as well as unique or anomalous features regarding distributions, missing data, and comparisons to other ‘ground truth’ datasets.      
+      bio: "Founded in 2018 through the Assembly Fellowship, The Data Nutrition Project takes inspiration from nutritional labels on food, aiming to build labels that highlight the key ingredients in a dataset such as meta-data and populations, as well as unique or anomalous features regarding distributions, missing data, and comparisons to other ‘ground truth’ datasets."      
       website: https://datanutrition.org/ 
       
     - name: California Policy Lab
