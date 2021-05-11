@@ -1,3 +1,8 @@
+- name: Doğuş Kuran
+  image: /assets/images/DogusKuran.jpeg
+  bio: Doğuş Kuran is the CEO of SabancıDX, overseeing the company’s digital transformation operations in the field of advanced analytics, cloud services and cyber security. Previously he served in senior executive positions at Cisco, Microsoft, Ericsson and Accenture, before being appointed as the Executive Vice-President and Chief Customer Officer at Turkcell in charge of the company’s customer and business analytics, data scientist development program, and artificial intelligence-based customer engagement projects. He specializes in large-scale business applications of A.I.-driven data science, as well as mass-training of data scientists for a large portfolio of advanced business and industry analytics roles.
+  website:
+  
 - name: Kemal Oflazer
   image: /assets/images/KemalOflazer.jpg
   bio: "Kemal Oflazer received his PhD in Computer Science from Carnegie Mellon University in Pittsburgh, PA, USA, and his MS in Computer Science and BS in Electrical and Electronics Engineering degrees from Middle East Technical University in Ankara, Turkey. Heis currently a faculty member at Carnegie Mellon University – Qatar,
@@ -61,7 +66,4 @@
         She is a former recipient of Handelsbanken Wallander postdoctoral scholarship in Sweden (2015), Young Investigator Award in Italy (2018), and she is the 2019 recipient of the Young Researcher Award in Sweden. Özge writes monthly columns at the newspaper Swedish Daily (Svenska Dagbladet)."
   website: https://twitter.com/ozge_oner
 
-- name:
-  image:
-  bio:
-  website:
+
