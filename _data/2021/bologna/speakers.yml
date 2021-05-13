@@ -3,6 +3,7 @@
   website: https://esoc.princeton.edu/about-us/people/roland-adorjani
 
 - name: Abdullah Almaatouq
+  image: /assets/images/AAlmaatouq.jpg
   bio: "Abdullah Almaatouq is an Assistant Professor of Information Technology at the MIT Sloan School of Management. His research focuses on the mechanisms of decision-making in networked environments where decisions are influenced by interactions with others. He holds dual MS and a PhD from MIT and a BSc from the University of Southampton."
   website: http://www.amaatouq.com
 
@@ -23,6 +24,7 @@
   website: https://www.sociology.ox.ac.uk/people/ridhi-kashyap#tab-2366051
   
 - name: Francesco Rampazzo
+  image: /assets/images/FRampazzo.jpg
   bio: "Francesco Rampazzo is a Career Development Fellow in Marketing and Consumer Demography at the Saïd Business School, the Leverhulme Centre for Demographic Science, and Nuffield College at the University of Oxford. He is a demographer with a broad range of research interests, which include digital and computational demography with applications in fertility, migration, and survey research."
   website: https://francescorampazzo.com
 
@@ -31,5 +33,6 @@
   website: 
 
 - name: Milena Tsvetkova
+  image: /assets/images/MTsvetkova.jpg
   bio: "Milena Tsvetkova is Assistant Professor of Computational Social Science at the Department of Methodology at the London School of Economics and Political Science. She completed her PhD in Sociology at Cornell University and postdoctoral research at the Oxford Internet Institute. In her research, she uses large-scale web-based social interaction experiments, network analysis of online data, and agent-based modeling to investigate fundamental social phenomena such as cooperation, social contagion, segregation, and inequality."
   website: http://tsvetkova.me/
