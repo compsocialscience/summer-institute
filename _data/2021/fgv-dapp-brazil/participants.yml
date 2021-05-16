@@ -1,1 +1,19 @@
-- name:
+- name: Beatriz	Milz
+  bio: "Beatriz Milz is a doctoral student in Environmental Science at the University of São Paulo, in Brazil. Her research is about the transparency of information on water resources management. Beatriz holds an MS in sciences from the Federal University of São Paulo, and a bachelor's degree in environmental management from the University of São Paulo. She is involved with some projects, communities, and events related to the R programming language, such as R-Ladies, Latin-R, useR! 2021, satRday São Paulo, and so on."
+  image: /assets/images/beatrizmilz.jpg
+
+- name: Davi Moreira
+  bio: "Researcher and M&E Specialist. In 2017 I was awarded the CAPES Ph.D. Thesis Prize in Political Science and International Relations. My academic work addresses Political Methodology, Data Science, Text as Data, and Comparative Politics."
+  image: /assets/images/davimoreira.JPG
+ 
+- name: Guilherme	Marques
+  bio: "Guilherme Marques is a political scientist, researcher, and consultant at Getulio Vargas Foundation (FGV) and a doctoral student at Brazilian Army Command and General Staff College. His primary research interests concern defense economics, data-driven policymaking, and the interrelationship between military spending and development."
+  image: /assets/images/guilhermemarques.jpg
+ 
+- name: Jonas Araujo
+  bio: "Mestrado pelo Programa de Pós-Graduação em Ciências Sociais da Pontifícia Universidade Católica do Rio de Janeiro, onde desenvolveu pesquisa sobre qualidade da democracia, tendo como foco uma ouvidoria de polícia no Rio de Janeiro. Atualmente sou doutorando no mesmo programa onde desenvolvo pesquisa acerca das percepções sobre a meritocracia."
+  image: /assets/images/jonas.jpg
+   
+- name: Juliana Brandão
+  bio: "Juliana Brandão is a Graduate Student at the University of Pará at the Economics Post Graduation Program, CAPES scholarship. Also, She has experience in prediction models in the state bank of Pará, and VAR models for comparative analysis in international macroeconomic data and public data, using R and time series econometrics. Nowadays, is a participant in the Social Equity Laboratory of University of Pará, developing models and impact analysis of public policies on income."
+  image: /assets/images/julianabrandao.jpg 
