@@ -1,10 +1,12 @@
 - name: Beatriz	Milz
   bio: "Beatriz Milz is a doctoral student in Environmental Science at the University of São Paulo, in Brazil. Her research is about the transparency of information on water resources management. Beatriz holds an MS in sciences from the Federal University of São Paulo, and a bachelor's degree in environmental management from the University of São Paulo. She is involved with some projects, communities, and events related to the R programming language, such as R-Ladies, Latin-R, useR! 2021, satRday São Paulo, and so on."
   image: /assets/images/beatrizmilz.jpg
+  website: https://beatrizmilz.com/about.html
 
 - name: Davi Moreira
   bio: "Researcher and M&E Specialist. In 2017 I was awarded the CAPES Ph.D. Thesis Prize in Political Science and International Relations. My academic work addresses Political Methodology, Data Science, Text as Data, and Comparative Politics."
   image: /assets/images/davimoreira.JPG
+  website: https://davimoreira.com/
  
 - name: Guilherme	Marques
   bio: "Guilherme Marques is a political scientist, researcher, and consultant at Getulio Vargas Foundation (FGV) and a doctoral student at Brazilian Army Command and General Staff College. His primary research interests concern defense economics, data-driven policymaking, and the interrelationship between military spending and development."
