@@ -1,3 +1,8 @@
+- name: Amanda	Domingos
+  bio: "Amanda is a PhD student in Political Science at the Federal University of Pernambuco. Her areas of research have focused on the subnational variation of public policies and distributive politics in Brazilian municipalities. She is also interested in open and reproducible research. And is a co-director of the Métodos em Pauta initiative."
+  image: /assets/images/amandadomingos.jpg
+  website: https://amandadomingos.github.io/
+
 - name: Beatriz	Milz
   bio: "Beatriz Milz is a doctoral student in Environmental Science at the University of São Paulo, in Brazil. Her research is about the transparency of information on water resources management. Beatriz holds an MS in sciences from the Federal University of São Paulo, and a bachelor's degree in environmental management from the University of São Paulo. She is involved with some projects, communities, and events related to the R programming language, such as R-Ladies, Latin-R, useR! 2021, satRday São Paulo, and so on."
   image: /assets/images/beatrizmilz.jpg
@@ -7,6 +12,14 @@
   bio: "Researcher and M&E Specialist. In 2017 I was awarded the CAPES Ph.D. Thesis Prize in Political Science and International Relations. My academic work addresses Political Methodology, Data Science, Text as Data, and Comparative Politics."
   image: /assets/images/davimoreira.JPG
   website: https://davimoreira.com/
+  
+- name: Fernanda	Alvares Freire
+  bio: "Fernanda Alvares Freire is currently pursuing a PhD in Ancient History at the University of Münster, Germany. Her research employs Social Network analytical methods to investigate the patterns of social interaction represented in the documents of a large archive of papyri from the 3rd century BCE. She holds a BA and MA degree in History from the University of Brasília, Brazil."
+  image: /assets/images/fernandaalves.JPG
+  
+- name: Gabriel	Suchodolski
+  bio: "Gabriel L. Suchodolski is a PhD candidate in sociology at UCLA. He is broadly interested in development, politics, and collective action. His dissertation uses comparative-historical methods to explain land titling outcomes in Brazil and India. His other work uses ethnography to understand patronage, contention, and deforestation in the Amazon."
+  image: /assets/images/gabrielsuc.jpeg
  
 - name: Guilherme	Marques
   bio: "Guilherme Marques is a political scientist, researcher, and consultant at Getulio Vargas Foundation (FGV) and a doctoral student at Brazilian Army Command and General Staff College. His primary research interests concern defense economics, data-driven policymaking, and the interrelationship between military spending and development."
@@ -43,7 +56,11 @@
 - name: Luiz Paulo	Carvalho
   bio: "My name is Luiz Paulo Carvalho and I am a PhD student in Informatics at the Federal University of Rio de Janeiro (UFRJ). Currently researching Computational Ethics and Resistance Ethics, my scope is to analyze, evaluate and improve the Ethics and Computing scenario in Brazil, with social justice, inclusion, sustainability and human emancipation"
   image: /assets/images/luizpaulo.jpg
-  
+
+- name: Marcela	Canavarro
+  bio: "Marcela Canavarro is a researcher at FGV DAPP. Her background is in Journalism, having worked for different media outlets in Brazil and abroad. She has applied computational methods to her doctoral research, focused on networked political mobilization, and is now interested in internet regulation and political economy approaches to data, platformization, and digital labor."
+  image: /assets/images/marcelacan.jpg
+
 - name: Marcelo Alves
   bio: "Professor at the Superior School of Propaganda and Marketing and associated researcher at Lamide (Media & Democracy Lab). Marcelo holds a doctoral degree in Communication from the Fluminense Federal University, Rio de Janeiro. He has published original papers on on several journals, including Information, Communication and Society and New Media and Society, focusing on political communication, digital culture and datafication. Recently he was co-author of an article on Brazilian alternative media, published in TripleC. He is the author of the book #VaipraCuba: a gênese das redes de direita no Facebook, which investigates the early formation of far-right movements during the Brazilian presidential election of 2014."
   image: /assets/images/marceloalves.jpg
