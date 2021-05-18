@@ -41,10 +41,18 @@ async function downloadImage(url) {
     );
     for await (const record of parser) {
       // Work with each record
-      let timestampDate = fecha.parse(record.timestamp, "MM/D/YYYY HH:mm:ss");
+      record.timestamp = record.timestamp.replace(/ 0:/, ' 1:'); // Work around fecha bug
+      let timestampDate = fecha.parse(record.timestamp, "M/D/YYYY H:mm:ss");
       let year = timestampDate.getFullYear();
       if (timestampDate.getMonth() >= 9) {
         year += 1;
+      }
+      if (record.category.match(/speaker/i)) {
+        record.category = "speaker";
+      } else if (record.category.match(/organizer/i)) {
+        record.category = "organizer";
+      } else if (record.category.match(/participant/i)) {
+        record.category = "participant";
       }
       if (record.first_name && record.last_name) {
         let imagePath = await downloadImage(record.photo);
@@ -52,7 +60,7 @@ async function downloadImage(url) {
           id: `${record.timestamp}-${record.first_name}`,
           name: `${record.first_name} ${record.last_name}`,
           image: imagePath,
-          year,
+          year: String(year),
           ...record,
         });
       }

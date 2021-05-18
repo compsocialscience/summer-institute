@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
 
 <meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
@@ -268,6 +269,7 @@ code {
 }
 img {
   max-width:100%;
+  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -329,7 +331,6 @@ summary {
   border: none;
   display: inline-block;
   border-radius: 4px;
-  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -412,7 +413,7 @@ summary {
 <pre class="r"><code>some_text&lt;-c(&quot;Friends&quot;,&quot;don'tt&quot;,&quot;let&quot;,&quot;friends&quot;,&quot;make&quot;,&quot;wordclouds&quot;)
 some_text[grep(&quot;^[F]&quot;, some_text)]</code></pre>
 <pre><code>## [1] &quot;Friends&quot;</code></pre>
-<p><a href="http://www.rstudio.com/wp-content/uploads/2016/09/RegExCheatsheet.pdf">Here</a> is a useful cheatsheet that includes more examples of how to use GREP to find patterns in text.</p>
+<p><a href="https://github.com/rstudio/cheatsheets/blob/master/regex.pdf">Here</a> is a useful cheatsheet that includes more examples of how to use GREP to find patterns in text.</p>
 <p>GREP commands are fairly straight forward, and much more powerful and useful for subsetting rows or columns within larger datasets. There is one more concept which is important for you to grasp about GREP, however, which is that certain characters such as <code>&quot;</code> confuse the techniques. For example</p>
 <pre class="r"><code>text_chunk&lt;-c(&quot;[This Professor is not so Great]&quot;)
 gsub(&quot;[&quot;,&quot;&quot;, text_chunk)</code></pre>
@@ -516,6 +517,8 @@ head(tidy_trump_tweets)</code></pre>
 <p><strong>Stopwords</strong></p>
 <p>Common words such as “the”, “and”, “bot”, “for”, “is”, etc. are often described as “stop words,” meaning that they should not be included in a quantitative text analysis. Removing stop words is fairly easy regardless of whether you are working with a Corpus object or a tidytext object assuming you are working with a widely used language such as English. Let’s begin with the former, using the <code>tm_map</code> function as follows:</p>
 <pre class="r"><code>trump_corpus &lt;- tm_map(trump_corpus, removeWords, stopwords(&quot;english&quot;))</code></pre>
+<pre><code>## Warning in tm_map.SimpleCorpus(trump_corpus, removeWords,
+## stopwords(&quot;english&quot;)): transformation drops documents</code></pre>
 <p>In <code>tidytext</code> we can remove stopwords as follows:</p>
 <pre class="r"><code> data(&quot;stop_words&quot;)
     tidy_trump_tweets&lt;-tidy_trump_tweets %&gt;%
@@ -544,11 +547,15 @@ head(tidy_trump_tweets)</code></pre>
 <p>Another common step in pre-processing text is to remove all punctuation marks. This is generally considered important, since to an algorithm the punctuation mark “,” will assume a unique numeric identity just like the term “economy.” It is often therefore advisable to remove punctuation marks in an automated text analysis, but there are also a number of cases where this can be problematic. Consider the phrase, “Let’s eat, Grandpa” vs. “Lets eat Grandpa.”</p>
 <p>To remove punctuation marks within a <code>Corpus</code> object, we use this code:</p>
 <pre class="r"><code>trump_corpus &lt;- tm_map(trump_corpus, content_transformer(removePunctuation))</code></pre>
+<pre><code>## Warning in tm_map.SimpleCorpus(trump_corpus,
+## content_transformer(removePunctuation)): transformation drops documents</code></pre>
 <p>An advantage of <code>tidytext</code> is that it removes punctuation automatically.</p>
 <p><strong>Removing Numbers</strong></p>
 <p>In many texts, numbers can carry significant meaning. Consider, for example, a text about the 4th of July. On the other hand, many numbers add little to the meaning of a text, and so it has become commonplace in the field of natural language processing to remove them from an analysis.</p>
 <p>One can remove numbers from a <code>Corpus</code> object as follows:</p>
 <pre class="r"><code>trump_corpus &lt;- tm_map(trump_corpus, content_transformer(removeNumbers))</code></pre>
+<pre><code>## Warning in tm_map.SimpleCorpus(trump_corpus,
+## content_transformer(removeNumbers)): transformation drops documents</code></pre>
 <p>This is also very easy in <code>tidytext</code> using basic <code>grep</code> commands (note the <code>&quot;\\b\\d+\\b&quot;</code> text here tells R to remove all numeric digits and the ‘-’ sign means grep excludes them rather than includes them):</p>
 <pre class="r"><code>tidy_trump_tweets&lt;-tidy_trump_tweets[-grep(&quot;\\b\\d+\\b&quot;, tidy_trump_tweets$word),]</code></pre>
 <p><strong>Word Case</strong></p>
@@ -558,6 +565,8 @@ head(tidy_trump_tweets)</code></pre>
 <p><strong>Removing Whitespaces</strong></p>
 <p>Often, a single white space or group of whitespaces can also be considered to be a “word” within a corpus. To prevent this, do the following with a <code>Corpus</code> object:</p>
 <pre class="r"><code>trump_corpus &lt;- tm_map(trump_corpus, content_transformer(stripWhitespace))</code></pre>
+<pre><code>## Warning in tm_map.SimpleCorpus(trump_corpus,
+## content_transformer(stripWhitespace)): transformation drops documents</code></pre>
 <p>In <code>tidytext</code> we can use the <code>gsub</code> function again as follows (s+ describes a blank space)</p>
 <pre class="r"><code>tidy_trump_tweets$word &lt;- gsub(&quot;\\s+&quot;,&quot;&quot;,tidy_trump_tweets$word)</code></pre>
 <p><strong>Stemming</strong></p>

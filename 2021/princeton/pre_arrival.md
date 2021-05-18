@@ -32,7 +32,9 @@ Please note that the majority of the coding work presented at SICSS-Princeton 20
 
 ## Lecture videos
 
-SICSS-Princeton 2021 will be using a [flipped classroom model](https://en.wikipedia.org/wiki/Flipped_classroom).  Therefore, you should watch [videos of lectures](https://compsocialscience.github.io/summer-institute/curriculum) before our meetings, and then we will use our time together for discussion and group activities.
+SICSS-Princeton 2021 will be using a [flipped classroom model](https://en.wikipedia.org/wiki/Flipped_classroom).  Therefore, you should watch [videos of lectures](https://compsocialscience.github.io/summer-institute/curriculum) before our meetings, and then we will use our time together for discussion and group activities.  
+
+Some of Matt's videos overlap with the material from _Bit by Bit_.  You are welcome to either watch these videos or skip them, but you should watch Matt's videos about additions and extensions, and these are clearly labeled.
 
 ## Computing environment
 

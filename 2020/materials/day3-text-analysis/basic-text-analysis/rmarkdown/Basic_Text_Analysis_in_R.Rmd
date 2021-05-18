@@ -71,7 +71,7 @@ some_text<-c("Friends","don'tt","let","friends","make","wordclouds")
 some_text[grep("^[F]", some_text)]
 ```
 
-[Here](http://www.rstudio.com/wp-content/uploads/2016/09/RegExCheatsheet.pdf) is a useful cheatsheet that includes more examples of how to use GREP to find patterns in text.
+[Here](https://github.com/rstudio/cheatsheets/blob/master/regex.pdf) is a useful cheatsheet that includes more examples of how to use GREP to find patterns in text.
 
 GREP commands are fairly straight forward, and much more powerful and useful for subsetting rows or columns within larger datasets. There is one more concept which is important for you to grasp about GREP, however, which is that certain characters such as `"` confuse the techniques. For example
 

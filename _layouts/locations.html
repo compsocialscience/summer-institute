@@ -9,40 +9,64 @@
     {% include navbar.html %}
     <!-- Start content -->
     {% include hero_secondary.html %}
-
+    
     {% include breadcrumb.html %}
     <div class="container">
       <div class="row">
-        <div class="col-md-4">
-          {% include sidebar.html %}
-        </div>
-        <div class="col-sm-8">
+        <div class="col-sm-12">
           <h2 class="display-4">Locations, past and present</h2>
-          <div class="row">
-            <div class="col-sm-12">
-              {{content}}
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-12 mb-5">
-              {% include map.html  %}
-            </div>
-          </div>
-        <div class="row">
-          {% include locations_two_column.html %}
+          <p class="lead">
+            {{content}}
+          </p>
         </div>
       </div>
+      <div class="row">
+        <div class="col-sm-12 mb-5">
+          {% include map.html %}
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-sm-12">
+          <ul
+            class="nav nav-tabs mb-5 d-none d-sm-flex"
+            id="myTab"
+            role="tablist"
+          >
+          {% for year in locations_by_year %}
+            {% if forloop.first == true %}
+              <li class="nav-item">
+                <a class="nav-link active" id="year{{year.year}}-tab" data-toggle="tab" href="#year{{year.year}}" role="tab" aria-controls="year{{year.year}}"
+                  aria-selected="true" style="background-color: #F1F1F1;">{{year.year}}</a>
+              </li>
+            {% else %}
+              <li class="nav-item">
+                <a class="nav-link" id="year{{year.year}}-tab" data-toggle="tab" href="#year{{year.year}}" role="tab" aria-controls="year{{year.year}}"
+                  aria-selected="false" style="background-color: #F1F1F1;">{{year.year}}</a>
+              </li>
+            {% endif %}
+          {% endfor %}
+          </ul>
+          {% include locations_tab_pages.html %}
+        </div>
       </div>
     </div>
 
-    <section class="bg-secondary text-white py-5" style="margin-bottom: 0">
-      <div class="container>
+    <section class="bg-secondary text-white py-5 mt-5">
+      <div class="container">
         <div class="row">
           <div class="col-sm-12">
-            <h2 class="display-5 text-center text-uppercase font-weight-light">Apply to a host location</h2>
-            <p class="text-center lead">You can host a partner location of the Summer Institutes of Computational Social Science (SICSS) at your university,
-            company, NGO, or government agency.</p>
-            <p class=text-center><a href="https://compsocialscience.github.io/summer-institute/host#hosting_a_partner_location" class="btn btn-dark">Learn More</a></p>
+            <h2 class="display-5 text-center text-uppercase font-weight-light">
+              Host a Location
+            </h2>
+            <p class="text-center lead">
+              You can host a partner location of the Summer Institutes of
+              Computational Social Science (SICSS) at your university, company,
+              NGO, or government agency.
+            </p>
+            <p class="text-center">
+              <a href="host.html" class="btn btn-dark">Learn More</a>
+            </p>
           </div>
         </div>
       </div>

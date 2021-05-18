@@ -30,9 +30,9 @@ If you would like more practice after completing the Boot Camp videos, some othe
 
 Please note that the majority of the coding work presented at SICSS-Oxford 2021 will employ R. You are welcome to employ a language of your choice, such as Python, Julia, or other languages that are commonly used by computational social scientists.  However, we cannot support those languages.
 
-## Lecture videos
+## Content Delivery
 
-SICSS-Oxford 2021 will be using a [flipped classroom model](https://en.wikipedia.org/wiki/Flipped_classroom).  Therefore, you should watch [videos of lectures](https://sicss.io/curriculum) before our meetings, and then we will use our time together for discussion and group activities.
+SICSS-Oxford 2021 will be delivered using live online lectures, with built in time for exercises and discussion. The centrally hosted pre-sessional materials will use a [flipped classroom model](https://en.wikipedia.org/wiki/Flipped_classroom).
 
 ## Computing environment
 
