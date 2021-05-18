@@ -28,7 +28,6 @@
     - name: "1:15 - 2:30 Collecting Digital Trace Data (*Zoom*)"
     - name: "2:30 - 3:30 Discussing Strengths & Benefits plus Hybrid Designs (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
-    - name: "3:45 - 4:00 Break"
 
 - date: 2021-06-23
   name: Automated Text Analysis
@@ -73,37 +72,45 @@
   name: Invited speakers and workshop on individual projects 
   events:
     - name: "10:00 - 12:15 Milena Tsvetkova (*Zoom*)"
-    - name: "12:30 - 13:45 Group lunch (Introductions) (*Zoom*)"
+    - name: "12:15 - 12:30 Break"    
+    - name: "12:30 - 13:45 Brown Bag Seminar: Workshop 2 Individual Projects (*Zoom*)"
+    - name: "13:45 - 14:00 Break"
     - name: "14:00 - 16:30 Roland Adorjani (*Zoom*)"
 
 - date: 2021-06-29
   name: Invited speakers and workshop on individual projects 
   events:
     - name: "10:00 - 11:30 Cesar Hidalgo (*Zoom*)"
-    - name: "12:00 - 14:00 Brown bag seminar: Presentations and 4 workshopping individual projects (*Zoom*)"
+    - name: "11:30 - 12:30 Break"    
+    - name: "12:30 - 14:30 Brown Bag Seminar: Workshop 3 Individual Projects (*Zoom*)"
+    - name: "14:30 - 15:00 Break"
     - name: "15:00 - 16:30 Abdullah Almaatouq (*Zoom*)"
+    - name: "16:30 - 17:00 Break"
     - name: "17:00 - 18:30 Rachael Tatman (*Zoom*)"
 
 - date: 2021-06-30
-
   name: Invited speakers and workshop on individual projects 
   events:
     - name: "10:00 - 12:15 Gian Maria Campedelli (*Zoom*)"
-    - name: "12:30 - 14:30 Brown bag seminar: Presentations and workshopping 4 individual projects (*Zoom*)"
-    - name: "15:00 - 16:15 tbc (*Zoom*)"
+    - name: "12:15 - 12:30 Break"
+    - name: "12:30 - 14:30 Brown Bag Seminar: Workshop 3 Individual Projects (*Zoom*)"
+    - name: "14:30 - 17:00 Break"
     - name: "17:00 - 18:30 Chris Albon (*Zoom*)"
 
 - date: 2021-07-01
   name: Invited speakers and workshop on individual projects 
   events:
     - name: "10:00 - 12:15 Sönke Ehret (*Zoom*)"
-    - name: "12:30 - 13:45 Brown bag seminar: Presentations and workshopping 2 individual projects (*Zoom*)"
+    - name: "12:15 - 12:30 Break"
+    - name: "12:30 - 13:45 Brown Bag Seminar: Workshop 2 Individual Projects (*Zoom*)"
+    - name: "13:45 - 14:00 Break"
     - name: "14:00 - 16:30 Francesco Rampazzo (*Zoom*)"
 
 - date: 2021-07-02
   name: Invited speakers and workshop on individual projects 
   events:
     - name: "10:00 - 12:15 Ridhi Kashyap (*Zoom*)"
-    - name: "12:30 - 13:45 Brown bag seminar: Presentations and workshopping 2 individual projects (*Zoom*)"
-    - name: "14:00 - 15:00 tbc (*Zoom*)"
-    - name: "14:00 - 15:00 Debriefing and Salutations (*Zoom*)"
+    - name: "12:15 - 12:30 Break"
+    - name: "12:30 - 13:45 Brown Bag Seminar: Workshop 2 Individual Projects (*Zoom*)"
+    - name: "13:45 - 14:00 Break"
+    - name: "14:00 - 14:30 Debriefing and Salutations (*Zoom*)"
