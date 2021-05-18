@@ -14,7 +14,7 @@
     - name: "15.30 - 15.45 Introduction to the group exercise: [Lesson plan](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/activity/lesson_plan_ethics_participant.md) (*Zoom*)"
     - name: "15.45 - 17.30 Group exercise: [Case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf) (*Zoom*)"
     - name: "17.30 - 17.45 Break"
-    - name: "17.45 - 19.00 Keynote speaker (*Zoom*)"
+    - name: "17.45 - 19.00 Keynote speaker: Michael A. Livermore (*Zoom*)"
     
     
 - date: 2021-06-15
@@ -31,7 +31,7 @@
 - date: 2021-06-16
   name: "<b>Automated text analysis</b>"
   events:
-    - name: "12.00 - 13.00 Guest speaker (*Zoom*)"
+    - name: "12.00 - 13.00 Guest speaker: Daniel Preotiuc (*Zoom*)"
     - name: "13.00 - 13.15 Break"
     - name: "13.15 - 14.15 Small group lunches (*Zoom*)"
     - name: "14.15 - 14.45 Break"
@@ -42,7 +42,7 @@
 - date: 2021-06-17
   name: "<b>Surveys in the Digital Age</b>"
   events:
-    - name: "12.00 - 13.00 Guest speaker (*Zoom*)"
+    - name: "12.00 - 13.00 Guest speaker: Angela Dorrough (*Zoom*)"
     - name: "13.00 - 13.15 Break"
     - name: "13.15 - 14.15 Small group lunches (*Zoom*)"
     - name: "14.15 - 14.45 Break"
@@ -51,15 +51,15 @@
     - name: "18.00 - 19.00 Whole group debrief about group exercise (*Zoom*)"
     
 - date: 2021-06-18
-  name: "<b>Predictions and Systematic Literature Review</b>"
+  name: "<b>Legal Predictions</b>"
   events:
-    - name: "12.00 - 13.00 Lecture on prediction studies in law  (*Zoom*)" 
-    - name: "13.00 - 14.00 Small group lunches (*Zoom*)" 
-    - name: "14.00 - 14.30 Break"
-    - name: "14.30 - 16.00 Systematic Literature Review (*Zoom*)"
-    - name: "16.00 - 16.30 Break"
-    - name: "16.30 - 18.30 Group exercise (*Zoom*)"
-    - name: "18.30 - 19.00 Reporting back the results of group exercises (*Zoom*)"
+    - name: "12.00 - 13.00 Guest speaker: Gijs van Dijck (*Zoom*)" 
+    - name: "13.00 - 13.15 Break"
+    - name: "13.15 - 14.15 Small group lunches (*Zoom*)" 
+    - name: "14.15 - 14.45 Break"
+    - name: "14.45 - 15.00 Introduction to the group exercise (*Zoom*)"
+    - name: "15.00 - 18.00 Group exercise (*Zoom*)"
+    - name: "18.00 - 19.00 Whole group debrief about group exercise (*Zoom*)"
     
 - date: 2021-06-19
   name: Day off
