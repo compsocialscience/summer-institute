@@ -113,48 +113,60 @@
   bio: "Zhaomeng Niu is a postdoctoral fellow in Behavioral Sciences at Rutgers Cancer Insititute of New Jersey. She received her PhD from Washington State University. Her research interests include social media interventions, human-computer interaction, and health communication."
   website: 
   
-- name: 
-  image: /assets/images/
-  bio: ""
-  website: 
+- name: Francisco Olivos
+  image: /assets/images/Francisco_Olivos.jpeg
+  bio: "Francisco Olivos is a PhD candidate at The Chinese University of Hong Kong. He will join the Department of Sociology and Social Policy at Lingnan University, Hong Kong. He also obtained a master's degree in Sociology and Social Research from Utrecht University. His research interests are cultural sociology, education, stratification, and subjective well-being."
+  website: https://twitter.com/fjolivos
   
-- name: 
-  image: /assets/images/
-  bio: ""
-  website: 
+- name: Salomey Osei
+  image: /assets/images/Salomey_Osei.jpeg
+  bio: "Salomey holds a Master of Philosophy in Applied Mathematics from the Kwame Nkrumah University of Science and Technology. She is the Research lead of unsupervised methods for Ghana NLP and a co organizer for the Women in Machine Learning and Data Science (WiMLDS) Accra chapter. She is also passionate about mentoring students, especially females in STEM and her long term goal is to share her knowledge with others by lecturing."
+  website: https://twitter.com/NanaYaaSally
 
-- name: 
-  image: /assets/images/
-  bio: ""
+- name: Nick Paulson
+  image: /assets/images/Nick_Paulson.jpeg
+  bio: "Nick Paulson is a doctoral student in the Center for the Study of Higher and Postsecondary Education at the University of Michigan. His research focuses on the role of postsecondary curriculum requirements like general education courses in long-term outcomes ranging from the labor market to democratic participation."
+  website: https://twitter.com/nick__paulson
+  
+- name: Annamaria Prati
+  image: /assets/images/Annamaria_Prati.jpeg
+  bio: "Annamaria Prati is a doctoral student in the Political Science department at Washington University in St. Louis. Her current research seeks to develop quantitative methods for international relations research. She holds a B.A. from Stanford University, a M.A. from University of Chicago, and a M.A. from Columbia University."
   website: 
   
-- name: 
-  image: /assets/images/
-  bio: ""
-  website: 
-  
-- name: 
-  image: /assets/images/
-  bio: ""
+- name: Ian Reynolds
+  image: /assets/images/Ian_Reynolds.jpeg
+  bio: "Ian Reynolds is a PhD student at American University School of International Service. His research focuses on how socio-historical processes generate the parameters for the adoption of artificial intelligence in US national security decision-making. He is also interested in exploring how interpretive and computational methodologies can be paired in social science research."
   website:
   
-- name: 
-  image: /assets/images/
-  bio: ""
-  website: 
+- name: Alexandra Ruth
+  image: /assets/images/Alexandra_Ruth.jpeg
+  bio: "Ali Ruth is a PhD candidate in Health Policy & Bioethics at the Johns Hopkins Bloomberg School of Public Health. Her research interests include food insecurity, vaccine policy, and research ethics. Her dissertation research focuses on vaccine access and equity for older adults in the U.S. Previously, she worked as a Senior Research Assistant at the International Food Policy Research Institute."
+  website: https://twitter.com/AliRRuth
   
-- name: 
-  image: /assets/images/
-  bio: ""
-  website: 
+- name: Elisabeth Silver
+  image: /assets/images/Elisabeth_Silver.jpeg
+  bio: "Elisabeth Silver is a doctoral student in Industrial/Organizational Psychology at Rice University. Her research merges computational and experimental methods to study workplace diversity and discrimination. Prior to graduate school, she worked as a research analyst at Columbia University Medical Center. Elisabeth holds a BS from the University of Michigan."
+  website: https://scholar.google.com/citations?user=JrigXcIAAAAJ
   
-- name: 
-  image: /assets/images/
-  bio: ""
-  website:  
+- name: Eric Stokan
+  image: /assets/images/Eric_Stokan.jpeg
+  bio: "Eric Stokan is assistant professor of political science at the University of Maryland Baltimore County (UMBC) and a faculty affiliate with the Indiana University Metropolitan Governance and Management Transitions Lab (MGMT) as well as at the Center for Urban Studies at Wayne State University. His research focuses on explaining tradeoffs of local governments between economic development, sustainability, and social equity policies, as well as evaluating the programmatic effectiveness of these policies which is currently supported by the U.S. Department of Housing and Urban Development (HUD)."
+  website:  https://twitter.com/Ericjstokan
 
-
-
+- name: Michael Strawbridge
+  image: /assets/images/Michael_Strawbridge
+  bio: "Michael is a PhD student in political science at Rutgers University who earned his B.A. from Beloit College. His primary field is American politics, with interests in Black political behavior and public opinion, political communication, and political psychology. Michael is interested in survey methodology, text analysis, and experiments."
+  website: https://twitter.com/MjStrawbridge
+  
+- name: Ryan Wang
+  image: /assets/images/Ryan_Wang.jpeg
+  bio: "Ryan Wang is a Ph. D. student majoring in Mass Communications and minoring in Social Data Analytics at Penn State. His broad research interests aim at investigating the development of ICTs and the backbone Internet infrastructure, and their interlocked impacts on political polarization and economic development within a spatial structure."
+  website: https://twitter.com/ryn_wang
+  
+- name: Pengfei Zhao
+  image: /assets/images/Pengfei_Zhao.jpeg
+  bio: "Pengfei Zhao is a first-year Ph.D. student in communication at Cornell University. Her research interest lies at the intersection of new communication technology, interpersonal communication, and well-being."
+  website:  https://twitter.com/Pengfei70302943
 
 
 - name: More to be added soon!
