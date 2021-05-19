@@ -1,5 +1,5 @@
+name: Ce calendrier est encore préliminaire
 name: Semaine 1: Formation intensive à R
-- date: 2021-06-07
 - date: 2021-06-07
   name: Introduction à R, RStudio et RMarkdown
   events:
@@ -35,3 +35,93 @@ name: Semaine 1: Formation intensive à R
     - name: "9:30 - 12:30 Formation (Zoom)"
     - name: "12:30 - 1:30 Pause"
     - name: "1:30 - 3:30 Labo (Zoom)"      
+- date: 2021-06-12
+  name: Congé
+- date: 2021-06-13
+  name: Congé
+name: Semaine 2: SICSS - Formation
+- date: 2021-06-14
+  name: Introduction, Collecte de données digitales (webscrapping, API)
+  events:
+    - name: "9:00 - 9:30 Arrivée"
+    - name: "9:30 - 10:00 Introduction"
+    - name: "10:00 - 11:00 Retour sur la vidéo du cours (Zoom)"
+    - name: "11:00 - 12:30 Labo (Zoom)"
+    - name: "12:30 - 1:30 Pause - courte formation: Github (1)"
+    - name: "1:30 - 3:30 Travail en équipe (Zoom)"
+    - name: "3:30 - 4:00 Conférencier"
+- date: 2021-06-15
+  name: Analyse quantitative de texte
+  events:
+    - name: "9:00 - 9:30 Debriefing"
+    - name: "9:30 - 10:30 Retour sur la vidéo du cours (Zoom)"
+    - name: "10:30 - 12:30 Labo (Zoom)"
+    - name: "12:30 - 1:30 Pause - courte formation: "
+    - name: "1:30 - 3:30 Travail en équipe (Zoom)"
+    - name: "3:30 - 4:00 Conférencier"   
+- date: 2021-06-16
+  name: "Enquêtes à l'ère numérique"
+  events:
+    - name: "9:00 - 9:30 Debriefing"
+    - name: "9:30 - 10:30 Retour sur la vidéo du cours (Zoom)"
+    - name: "10:30 - 12:30 Labo (Zoom)"
+    - name: "12:30 - 1:30 Pause - courte formation: A définir"
+    - name: "1:30 - 3:30 Travail en équipe (Zoom)"
+    - name: "3:30 - 4:00 Conférencier"     
+- date: 2021-06-17
+  name: Apprentissage automatique (machine learning)
+  events:
+    - name: "9:00 - 9:30 Debriefing"
+    - name: "9:30 - 10:30 Retour sur la vidéo du cours (Zoom)"
+    - name: "10:30 - 12:30 Labo (Zoom)"
+    - name: "12:30 - 1:30 Pause - courte formation: A définir"
+    - name: "1:30 - 3:30 Travail en équipe (Zoom)"
+    - name: "3:30 - 4:00 Conférencier"   
+- date: 2021-06-18
+  name: Éthique 
+  events:
+    - name: "9:00 - 9:30 Debriefing"
+    - name: "9:30 - 10:30 Retour sur la vidéo du cours (Zoom)"
+    - name: "10:30 - 12:30 Labo (Zoom)"
+    - name: "12:30 - 1:30 Pause - courte formation: A définir"
+    - name: "1:30 - 3:30 Travail en équipe (Zoom)"
+    - name: "3:30 - 4:00 Conférencier"  
+- date: 2021-06-19
+  name: Congé 
+- date: 2021-06-20
+  name: Congé 
+name: "Semaine 3: SICSS - Projets d'équipes"
+- date: 2021-06-21
+  name: Formation équipe
+  events:
+    - name: "9:00 - 9:30 Arrivée"
+    - name: "9:30 - 12:30 Formation des équipes"
+    - name: "12:30 - 1:30 Pause"
+    - name: "1:30 - 3:30 Projet en équipe (Zoom)"
+- date: 2021-06-22
+  name: Formation équipe
+  events:
+    - name: "9:00 - 9:30 Arrivée"
+    - name: "9:30 - 12:30 Projet en équipe (Zoom)"
+    - name: "12:30 - 1:30 Pause"
+    - name: "1:30 - 3:30 Projet en équipe (Zoom)"
+- date: 2021-06-23
+  name: Formation équipe
+  events:
+    - name: "9:00 - 9:30 Arrivée"
+    - name: "9:30 - 12:30 Projet en équipe (Zoom)"
+    - name: "12:30 - 1:30 Pause"
+    - name: "1:30 - 3:30 Projet en équipe (Zoom)"
+- date: 2021-06-24
+  name: Formation équipe
+  events:
+    - name: "9:00 - 9:30 Arrivée"
+    - name: "9:30 - 12:30 Projet en équipe (Zoom)"
+    - name: "12:30 - 1:30 Pause"
+    - name: "1:30 - 3:30 Projet en équipe (Zoom)"    
+- date: 2021-06-25
+  name: Formation équipe
+  events:
+    - name: "9:00 - 9:30 Arrivée"
+    - name: "9:30 - 12:30 Présentation des projets d'équipe (Zoom)"
+    - name: "12:30 - 1:30 Debriefing et clôture (Zoom)"   
