@@ -26,7 +26,7 @@
   image: /assets/images/guilhermemarques.jpg
  
 - name: Jonas Araujo
-  bio: "Mestrado pelo Programa de Pós-Graduação em Ciências Sociais da Pontifícia Universidade Católica do Rio de Janeiro, onde desenvolveu pesquisa sobre qualidade da democracia, tendo como foco uma ouvidoria de polícia no Rio de Janeiro. Atualmente sou doutorando no mesmo programa onde desenvolvo pesquisa acerca das percepções sobre a meritocracia."
+  bio: "Jonas holds a master's degree in the Graduate Program in Social Sciences at the Pontifical Catholic University of Rio de Janeiro. His main research agenda focuses on the quality of democracy, particularly on the police ombudsman in Rio de Janeiro. He is currently a Ph.D. student at the same program researching perceptions about meritocracy in Brazil. "
   image: /assets/images/jonas.jpg
    
 - name: Juliana Brandão
@@ -54,7 +54,7 @@
   website: https://www.linkedin.com/in/luanacalzavara/ 
   
 - name: Luiz Paulo	Carvalho
-  bio: "My name is Luiz Paulo Carvalho and I am a PhD student in Informatics at the Federal University of Rio de Janeiro (UFRJ). Currently researching Computational Ethics and Resistance Ethics, my scope is to analyze, evaluate and improve the Ethics and Computing scenario in Brazil, with social justice, inclusion, sustainability and human emancipation"
+  bio: "My name is Luiz Paulo Carvalho and I am a PhD student in Informatics at the Federal University of Rio de Janeiro (UFRJ). Currently researching Computational Ethics and Ethics of Resistance, my scope is to analyze, evaluate and improve the Ethics and Computing scenario in Brazil, with social justice, inclusion, sustainability and human emancipation"
   image: /assets/images/luizpaulo.jpg
 
 - name: Marcela	Canavarro
@@ -65,6 +65,11 @@
   bio: "Professor at the Superior School of Propaganda and Marketing and associated researcher at Lamide (Media & Democracy Lab). Marcelo holds a doctoral degree in Communication from the Fluminense Federal University, Rio de Janeiro. He has published original papers on on several journals, including Information, Communication and Society and New Media and Society, focusing on political communication, digital culture and datafication. Recently he was co-author of an article on Brazilian alternative media, published in TripleC. He is the author of the book #VaipraCuba: a gênese das redes de direita no Facebook, which investigates the early formation of far-right movements during the Brazilian presidential election of 2014."
   image: /assets/images/marceloalves.jpg
   website: https://marceloalves.netlify.app/
+
+- name: Marcus	Torres
+  bio: "Marcus is a Ph.D. student in Political Science at the Federal University of Pernambuco. He researches political determinants for local social outcomes. He is particularly interested in applying text-as-data analysis, machine learning, and network analysis to measure and analyze political dynasties' effects on gaining federal resources in Brazilian municipalities."
+  image: /assets/images/marcustorres.jpg
+  website: https://marcustorresz.github.io/
 
 
 - name: Marina Merlo
