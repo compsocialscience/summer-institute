@@ -1,40 +1,45 @@
-# name: Ce calendrier est encore préliminaire
+# name: Ce calendrier est sujette à changement
 # name: Semaine 1 Formation intensive à R
 - date: 2021-06-07
   name: Introduction à R, RStudio et RMarkdown
   events:
     - name: "9:00 - 9:30 : Arrivée"
-    - name: "9:30 - 12:30 Formation (Zoom)"
-    - name: "12:30 - 1:30 Pause"
-    - name: "1:30 - 3:30 Labo (Zoom)"
+    - name: "9:30 - 11:15 Formation (Zoom)"
+    - name: "11:15 - 11:30 Pause (Zoom)"
+    - name: "11:30 - 12:30 Labo (Zoom)"
+    - name: "Exercices à rendre"
 - date: 2021-06-08
   name: Transformation des données
   events:
     - name: "9:00 - 9:30 : Debriefing"
-    - name: "9:30 - 12:30 Formation (Zoom)"
-    - name: "12:30 - 1:30 Pause"
-    - name: "1:30 - 3:30 Labo (Zoom)"
+    - name: "9:30 - 11:15 Formation (Zoom)"
+    - name: "11:15 - 11:30 Pause (Zoom)"
+    - name: "11:30 - 12:30 Labo (Zoom)"
+    - name: "Exercices à rendre"
 - date: 2021-06-09
   name: Visualisation
   events:
     - name: "9:00 - 9:30 : Debriefing"
-    - name: "9:30 - 12:30 Formation (Zoom)"
-    - name: "12:30 - 1:30 Pause"
-    - name: "1:30 - 3:30 Labo (Zoom)"
+    - name: "9:30 - 11:15 Formation (Zoom)"
+    - name: "11:15 - 11:30 Pause (Zoom)"
+    - name: "11:30 - 12:30 Labo (Zoom)"
+    - name: "Exercices à rendre"
 - date: 2021-06-10
   name: Modélisation
   events:
     - name: "9:00 - 9:30 : Debriefing"
-    - name: "9:30 - 12:30 Formation (Zoom)"
-    - name: "12:30 - 1:30 Pause"
-    - name: "1:30 - 3:30 Labo (Zoom)"
+    - name: "9:30 - 11:15 Formation (Zoom)"
+    - name: "11:15 - 11:30 Pause (Zoom)"
+    - name: "11:30 - 12:30 Labo (Zoom)"
+    - name: "Exercices à rendre"
 - date: 2021-06-11
-  name: Introduction aux données de texte
+  name: Programmation / Introduction aux données de texte
   events:
     - name: "9:00 - 9:30 : Debriefing"
-    - name: "9:30 - 12:30 Formation (Zoom)"
-    - name: "12:30 - 1:30 Pause"
-    - name: "1:30 - 3:30 Labo (Zoom)"
+    - name: "9:30 - 11:15 Formation (Zoom)"
+    - name: "11:15 - 11:30 Pause (Zoom)"
+    - name: "11:30 - 12:30 Labo (Zoom)"
+    - name: "Exercices à rendre"
 - date: 2021-06-12
   name: Congé
 - date: 2021-06-13
