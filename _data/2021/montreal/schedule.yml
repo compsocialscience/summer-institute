@@ -1,9 +1,9 @@
-# name: Ce calendrier est sujet à changement
-# name: Semaine 1 Formation intensive à R
+name: Ce calendrier est sujet à changement
+name: Semaine 1 Formation intensive à R
 - date: 2021-06-07
   name: Introduction à R, RStudio et RMarkdown
   events:
-    - name: "9:00 - 9:30 : Arrivée"
+    - name: "9:00 - 9:30 Arrivée"
     - name: "9:30 - 11:15 Formation (Zoom)"
     - name: "11:15 - 11:30 Pause (Zoom)"
     - name: "11:30 - 12:30 Labo (Zoom)"
@@ -11,7 +11,7 @@
 - date: 2021-06-08
   name: Transformation des données
   events:
-    - name: "9:00 - 9:30 : Debriefing"
+    - name: "9:00 - 9:30 Debriefing"
     - name: "9:30 - 11:15 Formation (Zoom)"
     - name: "11:15 - 11:30 Pause (Zoom)"
     - name: "11:30 - 12:30 Labo (Zoom)"
@@ -19,7 +19,7 @@
 - date: 2021-06-09
   name: Visualisation
   events:
-    - name: "9:00 - 9:30 : Debriefing"
+    - name: "9:00 - 9:30 Debriefing"
     - name: "9:30 - 11:15 Formation (Zoom)"
     - name: "11:15 - 11:30 Pause (Zoom)"
     - name: "11:30 - 12:30 Labo (Zoom)"
@@ -27,7 +27,7 @@
 - date: 2021-06-10
   name: Modélisation
   events:
-    - name: "9:00 - 9:30 : Debriefing"
+    - name: "9:00 - 9:30 Debriefing"
     - name: "9:30 - 11:15 Formation (Zoom)"
     - name: "11:15 - 11:30 Pause (Zoom)"
     - name: "11:30 - 12:30 Labo (Zoom)"
@@ -35,7 +35,7 @@
 - date: 2021-06-11
   name: Programmation / Introduction aux données de texte
   events:
-    - name: "9:00 - 9:30 : Debriefing"
+    - name: "9:00 - 9:30 Debriefing"
     - name: "9:30 - 11:15 Formation (Zoom)"
     - name: "11:15 - 11:30 Pause (Zoom)"
     - name: "11:30 - 12:30 Labo (Zoom)"
@@ -44,7 +44,7 @@
   name: Congé
 - date: 2021-06-13
   name: Congé
-# name: Semaine 2: SICSS - Formation
+name: Semaine 2 SICSS - Formation
 - date: 2021-06-14
   name: Introduction, Collecte de données digitales (webscrapping, API)
   events:
@@ -95,7 +95,7 @@
   name: Congé
 - date: 2021-06-20
   name: Congé
-# name: "Semaine 3: SICSS - Projets d'équipes"
+name: "Semaine 3 SICSS - Projets d'équipes"
 - date: 2021-06-21
   name: Formation des équipes
   events:
