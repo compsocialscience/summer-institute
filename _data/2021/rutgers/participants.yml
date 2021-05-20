@@ -21,7 +21,6 @@
 - name: Mehri E. Baloochi
   image: /assets/images/Mehri_Baloochi.jpeg
   bio: "Mehri is pursuing a PhD in Organizational Behaviour at the University of Manitoba. She holds a Master’s degree in MBA from University of Tehran, and she has worked as an HR practitioner in several leading companies in Iran. Her research interests are focused on the new world of work, gig workers, resilience, and virtual identity. Her current research focuses on discrimination in online gig-work platforms."
-  website: 
   
 - name: Kelsey Edmond
   image: /assets/images/Kelsey_Edmond.jpeg
@@ -46,7 +45,6 @@
 - name: Stacey Greene
   image: /assets/images/Stacey_Greene.jpeg
   bio: "Stacey Greene is an assistant professor of political science at Rutgers University. She studies intergroup politics among and between racial/ethnic minorities in the United States."
-  website: 
 
 - name: V. Tibet Gur
   image: /assets/images/VTibet_Gur
@@ -71,10 +69,8 @@
 - name: Hyerim Jo
   image: /assets/images/Hyerim_Jo.jpeg
   bio: "Hyerim Jo is a Ph.D. candidate in the Department of Communication at the University at Albany. Using quantitative research methods including text mining, her research focuses on the production and consumption of mediated messages in various contexts such as health, science, and environment, as well as their impacts on audiences."
-  website: 
 
 - name: Stephanie Kang
-  image:
   bio: "Stephanie is a postdoctoral fellow in the Department of Political Science at the University of California, Davis. She uses formal theory and quantitative data analysis to study defense cooperation between countries. Her research has been funded by the Fulbright Program, the Korea Foundation, and the Department of Education."
   website: https://stephanie-kang.com/
 
@@ -86,12 +82,10 @@
 - name: India Lenear
   image: /assets/images/India_Lenear
   bio: "India S. Lenear is currently a doctoral student at Rutgers University at New Brunswick. Her work broadly studies Women and politics, American politics, and American Political Theory. More specifically, she focuses on Black politics, identity politics, and Black feminism(s). Her research examines Black women’s political behavior, engagement, and participation through Black feminist theoretical lenses. She holds a BA in Political Science from North Carolina Central University."
-  website: 
   
 - name: YiJyun Lin
   image: /assets/images/YiJyun_Lin.jpeg
   bio: "YiJyun Lin recently defended her doctoral dissertation entitled “Identifying Spatiotemporal Effects of Climate Variability on Civil Conflicts.” Her long-term research agenda concerns the use of machine learning and spatial methods to collect and analyze text and image data on the effects of climate change on local environmental degradation, resource scarcity, anti-immigration attitudes, and the emerging contentious politics."
-  website: 
   
 - name: Shuning Lu
   image: /assets/images/Shuning_Lu.jpeg
@@ -111,7 +105,6 @@
 - name: Zhaomeng Niu
   image: /assets/images/Zhaomeng_Niu.png
   bio: "Zhaomeng Niu is a postdoctoral fellow in Behavioral Sciences at Rutgers Cancer Insititute of New Jersey. She received her PhD from Washington State University. Her research interests include social media interventions, human-computer interaction, and health communication."
-  website: 
   
 - name: Francisco Olivos
   image: /assets/images/Francisco_Olivos.jpeg
@@ -131,12 +124,10 @@
 - name: Annamaria Prati
   image: /assets/images/Annamaria_Prati.jpeg
   bio: "Annamaria Prati is a doctoral student in the Political Science department at Washington University in St. Louis. Her current research seeks to develop quantitative methods for international relations research. She holds a B.A. from Stanford University, a M.A. from University of Chicago, and a M.A. from Columbia University."
-  website: 
   
 - name: Ian Reynolds
   image: /assets/images/Ian_Reynolds.jpeg
   bio: "Ian Reynolds is a PhD student at American University School of International Service. His research focuses on how socio-historical processes generate the parameters for the adoption of artificial intelligence in US national security decision-making. He is also interested in exploring how interpretive and computational methodologies can be paired in social science research."
-  website:
   
 - name: Alexandra Ruth
   image: /assets/images/Alexandra_Ruth.jpeg
@@ -167,6 +158,5 @@
   image: /assets/images/Pengfei_Zhao.jpeg
   bio: "Pengfei Zhao is a first-year Ph.D. student in communication at Cornell University. Her research interest lies at the intersection of new communication technology, interpersonal communication, and well-being."
   website:  https://twitter.com/Pengfei70302943
-
 
 - name: More to be added soon!
