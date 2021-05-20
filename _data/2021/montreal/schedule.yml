@@ -1,5 +1,5 @@
-name: Ce calendrier est sujet à changement
-name: Semaine 1 Formation intensive à R
+# name: Ce calendrier est sujet à changement
+# name: Semaine 1 Formation intensive à R
 - date: 2021-06-07
   name: Introduction à R, RStudio et RMarkdown
   events:
@@ -44,7 +44,7 @@ name: Semaine 1 Formation intensive à R
   name: Congé
 - date: 2021-06-13
   name: Congé
-name: Semaine 2 SICSS - Formation
+# name: Semaine 2 SICSS - Formation
 - date: 2021-06-14
   name: Introduction, Collecte de données digitales (webscrapping, API)
   events:
@@ -95,7 +95,7 @@ name: Semaine 2 SICSS - Formation
   name: Congé
 - date: 2021-06-20
   name: Congé
-name: "Semaine 3 SICSS - Projets d'équipes"
+# name: "Semaine 3 SICSS - Projets d'équipes"
 - date: 2021-06-21
   name: Formation des équipes
   events:
