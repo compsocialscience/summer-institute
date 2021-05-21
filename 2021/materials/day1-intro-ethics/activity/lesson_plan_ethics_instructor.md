@@ -1,12 +1,12 @@
 # Lesson Plan
-## Summer Institutes in Computational Social Science 2020
+## Summer Institutes in Computational Social Science 2021
 ## Day 1, Ethics
-## Prepared by Matthew Salganik, Robin Lee, and Ian Lundberg
+## Prepared by Megan Kang and Matt Salganik
 
 ### Instructor preparation
 
 To prepare for this activity you should:
-- Read the [lesson plan for participants](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/activity/lesson_plan_ethics_participants.md).
+- Read the [lesson plan for participants](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_participants.md).
 - Read the case study: [Case study (Hacked data)](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf)
 - Think about some possible questions that you could use in the discussion, in addition to the questions assigned in the activity.
 
@@ -48,10 +48,8 @@ Possible follow-up questions:
 
 There is no specific guidance about how the groups should be formed; purely random should work well for this activity.
 
-We have not had a virtual SICSS before, so we are not sure what is the ideal group size.  We would recommend trying this with groups of between 3 and 5 people.
+We would recommend trying this with groups of between 3 and 5 people.
 
 ### Notes
-
-- There is another case study that you could use [Alternative case study (Field experiments on voting)](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/activity/ethics_case_study.pdf).  If you use this case study, you should also read the original [Gerber et al. article](https://isps.yale.edu/sites/default/files/publication/2012/12/ISPS08-001.pdf).
 
 - Try to encourage participants to use the topics covered in SICSS (e.g., respect for persons, beneficence, justice, respect for law and public interest) in their discussion.

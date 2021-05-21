@@ -1,7 +1,7 @@
 # Lesson Plan
-## Summer Institutes in Computational Social Science 2020
+## Summer Institutes in Computational Social Science 2021
 ## Day 1, Ethics
-## Prepared by Matthew Salganik, Robin Lee, and Ian Lundberg
+## Prepared by Megan Kang and Matt Salganik
 
 ### Summary
 
@@ -40,4 +40,4 @@ There is no participant preparation before this activity.
 
 ### Acknowledgments
 
-This activity was designed with input from participants and TAs from SICSS 2017-2019, especially Yo-Yo Chen, Janet Xu, and Simone Zhang.
+This activity was designed with input from participants and TAs from SICSS 2017-2020, especially Yo-Yo Chen, Janet Xu, Simone Zhang, Robin Lee, and Ian Lundberg.
