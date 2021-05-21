@@ -1,9 +1,9 @@
 # Lesson Plan for Instructors
-## Summer Institutes in Computational Social Science 2020
+## Summer Institutes in Computational Social Science 2021
 ## Day 5, Mass collaboration
-## Prepared by Matt Salganik and Ian Lundberg
+## Prepared by Emily Cantrell and Matt Salganik
 
-This document assumes that you have also read the [lesson plan for participants](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md).
+This document assumes that you have also read the [lesson plan for participants](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md).
 
 ### Instructor preparation
 
@@ -13,7 +13,7 @@ Familiarize yourself with the data files that you receive. They include componen
 
 ### Ethics: Guidelines for instructors
 
-Remind your participants of the importance of using the data ethically. The reason projects like the Fragile Families Challenge are possible is because those who share their data trust that researchers will use it appropriately. As the local organizer, you have some power to set norms about holding the data in a secure location while working with it, not seeking to identify any individuals, and deleting the data when the analysis is complete.  We recommend that you remind participants to delete their data files at the end of the activity.
+Remind your participants of the importance of using the data ethically. The reason projects like the Fragile Families Challenge are possible is because those who share their data trust that researchers will use it appropriately. As the local organizer, you have some power to set norms about handling data safely, not seeking to identify any individuals, and deleting the data when the analysis is complete.  Please remind participants to delete their data files at the end of the activity.
 
 ### Group formation
 
@@ -21,9 +21,9 @@ Form groups of roughly 3 people randomly. You might consider distributing those 
 
 ### A note about scoring
 
-The [online submission site](https://codalab.fragilefamilieschallenge.org/competitions/28) scores submissions on the leaderboard set (530 cases, 1/8 of the sample). Participants are able to view their score on this set for each submission. In the original Challenge, we ultimately scored participants one time on the holdout set (1,591 cases). You may also want to score submissions on the holdout set one time at the end of the exercise. This will require manual coordination with the central organizers. If you want to do this, message Ian Lundberg to tell him the time at which your exercise will end. If we can coordinate the schedule successfully, Ian can score all submissions on the leaderboard at this time using the holdout data and email the scores to you. Because this is a manual process, it is possible that there will be problems.
+The [online submission site](https://codalab.fragilefamilieschallenge.org/competitions/28) scores submissions on the leaderboard set (530 cases, 1/8 of the sample). Participants are able to view their score on this set for each submission. In the original Challenge, we ultimately scored participants one time on the holdout set (1,591 cases). You may also want to score submissions on the holdout set one time at the end of the exercise. This will require manual coordination with the central organizers. If you want to do this, message Emily Cantrell to tell her the time at which your exercise will end. If we can coordinate the schedule successfully, Emily can score all submissions on the leaderboard at this time using the holdout data and email the scores to you. Because this is a manual process, it is possible that there will be problems.
 
-If coordination is difficult, scoring on the holdout set may not be necessary. For pedagogical purposes, it may suffice for participants at SICSS to see their score on the leaderboard set, which will happen automatically in real time.
+If coordination is difficult, scoring on the holdout is not be necessary. For pedagogical purposes, it may suffice for participants at SICSS to see their score on the leaderboard set, which will happen automatically in real time.
 
 ### How to debrief
 
@@ -38,4 +38,5 @@ In the debrief, here are some possible starter questions:
 
 ### Notes
 
-- This activity is modular so you could just do the afternoon part using the data file that we have already prepared.
+- Many participants struggle with data preparation. Learning about data preparation is one of the learning objectives of the activity, but if you want to skip that part, you can have them work with the data file that we have already prepared.
+- The schedule that we proposed for participants in modular: before lunch prepare your data and after lunch build your model and submit to the leaderboard. Many participants really enjoying getting a set of predictions uploaded to the leaderboard and seeing their score. So if they seem to struggle to get the data prepared before lunch, you can encourage them to switch to working with the data file that we have already prepared.
