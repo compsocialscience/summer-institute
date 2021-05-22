@@ -17,7 +17,7 @@ Form groups of about 3 people. We think small groups are better for remote colla
 
 If you are going to fund data collection for your participants, please note that the more groups you have, the higher the costs of data collection.
 
-### Key Tasks for Organizers and TA if you do use MTurk for data collection
+### Key Tasks for intructors and TA if you do use MTurk for data collection
 
 - The organizer should double-check that groups have paid Turk workers by 2PM. Sometimes there is a question about whether the worker should be paid or not. When in doubt, we encourage you to just pay the worker.
 
@@ -35,7 +35,7 @@ When you come back for the group discussion, here are some possible questions:
 - This activity is modular. You could easily do the afternoon part without doing the morning part.
 - If you are collecting data when many people in the United States might be asleep (or not on MTurk), the data collection might be slower.  You can relax the location requirement if you wish.  The data we collected was from people in the United States, and your participants can do their analysis on that pre-collected dataset.
 - If you do not have money for MTurk fees, you can have participants take the surveys that were created by other groups. You can also ask participants to distribute surveys with their friends and family since this activity is about recovering estimates from non-probability sampling.
-- Due to constraint in time and change towards remote collaboration, the survey activity will not ask participants to archive and release their data.  However, this is a good change to remind participants that they should think about open and reproducible research and they will be expected to use those practices for the projects they start in week 2.
+- Due to constraint in time and change towards remote collaboration, the survey activity will not ask participants to archive and release their data.  You can review those materials from previous years [here](https://github.com/compsocialscience/summer-institute/blob/master/2019/materials/day4-surveys/06-intro-to-open-sourcing-data.pdf).  However, this is a good change to remind participants that they should think about open and reproducible research and they will be expected to use those practices for the projects they start in week 2.
 - Please help participants have realistic expectations of what can be completed during this activity. It is likely that participants do not have time to complete model-based post-stratification.
 
 ### More information about Pew Research Center methodology
