@@ -28,7 +28,13 @@
 - name: Jonas Araujo
   bio: "Jonas holds a master's degree in the Graduate Program in Social Sciences at the Pontifical Catholic University of Rio de Janeiro. His main research agenda focuses on the quality of democracy, particularly on the police ombudsman in Rio de Janeiro. He is currently a Ph.D. student at the same program researching perceptions about meritocracy in Brazil. "
   image: /assets/images/jonas.jpg
-   
+ 
+ 
+- name: Jean Prado
+  bio: "Jhey! I'm Jean, passionate about data science, strategic communication and in facilitating great conversations. I currently work at Greenpeace Brazil, where I'm responsible for developing audience research and social media analysis. I'm also a co-organizer of R-Ladies São Paulo. I've graduated in Journalism at the São Paulo State University (Unesp) with an exchange program at the University of Victoria (Canada), where I studied media, politics and technology & society. My research interests include social networks, misinformation and audience analysis. "
+  image: /assets/images/jeanprado.jpg
+ 
+ 
 - name: Juliana Brandão
   bio: "Juliana Brandão is a Graduate Student at the University of Pará at the Economics Post Graduation Program, CAPES scholarship. Also, She has experience in prediction models in the state bank of Pará, and VAR models for comparative analysis in international macroeconomic data and public data, using R and time series econometrics. Nowadays, is a participant in the Social Equity Laboratory of University of Pará, developing models and impact analysis of public policies on income."
   image: /assets/images/julianabrandao.jpg 
@@ -106,7 +112,11 @@
 - name: Patricia Pavessi
   bio: "Antropóloga, Docente e Pesquisadora dos DCSO e PGCS /UFES, coordenadora do Laboratório de Estudos de Identidades e Tecnologias (LEIDTEC/UFES), integrante do Grupo Interinstitucional de Estudos de Cibercultura e do Grupo Estudos do Consumo. Tem experiência e interesse em Etnografia Digital e Computacional, Ciência Social Computacional, Consumo de Tecnologias de Informação e Propaganda Computacional."
   image: /assets/images/patriciapavessi.jpg
-  
+ 
+   
+- name: Tanise Brandão
+  bio: "Tanise Brandão Bussmann is Professor of Macroeconomics at Federal University of Pampa, but currently works at the department of Economic Studies at the Brazilian Antitrust Authority (CADE). Previously made a bootcamp of webdevelopment and now is in a data science bootcamp. Like working with brazilian databases, specially with microdata, like Census and PNAD."
+  image: /assets/images/tanisebrandao.jpg
   
 - name: Victoria	Oldemburgo de Mello
   bio: "Victoria Oldemburgo de Mello is pursuing a master's degree in experimental psychology at the University of Toronto. She received her BA in psychology from the Federal University of Santa Catarina. Currently, she is interested in how individual differences relate to social media use and the consequences of social media use for well-being and affective polarization."
