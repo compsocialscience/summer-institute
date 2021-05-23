@@ -110,11 +110,12 @@
 - date: 2021-06-23
   name: Computational Text Analysis with R Walkthrough
   events:
-      time: "20:00-23:00"
+      - time: "20:00-23:00"
+      
 - date: 2021-06-24
   name: Social Media as Spatial Conflict Event Data 
   events:
-      time: "20:00-23:00"
+      - time: "20:00-23:00"
       
 - date: 2021-06-25
   name: Research presentations from each group and the final day of SICSS
