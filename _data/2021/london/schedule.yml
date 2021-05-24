@@ -9,11 +9,13 @@
   name: Introduction and Ethics
   events:
     - name: "10:00 - 4pm Discussion and Exercises"
+    - name: "4pm - 6pm Guest Speaker:  David Lazer"
 
 - date: 2021-06-15
   name: Collecting Digital Trace Data
   events:
     - name: "10:00 - 4pm Discussion and Exercises"
+    - name: "4pm - 6pm Guest Speaker: Ken Benoit"
 
 - date: 2021-06-16
   name: Automated Text Analysis
@@ -45,16 +47,19 @@
   name: Group projects and/or SICSS Festival
   events:
     - name: "10:00 - 4pm Coworking and workshops"
+    - name: "4pm - 6pm Guest Speaker: Eszter Hargittai"
 
 - date: 2021-06-23
   name: Group projects and/or SICSS Festival
   events:
     - name: "10:00 - 4pm Coworking and workshops"
+    - name: "10:00 - 11:30 Guest Speaker:  Peaks Krafft"
 
 - date: 2021-06-24
   name: Group projects and/or SICSS Festival
   events:
     - name: "10:00 - 4pm Coworking and workshops"
+    - name: "1:00 - 2:30 Guest Speaker: Viktoria Spaiser"
 
 - date: 2021-06-25
   name: Group projects and/or SICSS Festival
