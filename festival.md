@@ -1,16 +1,18 @@
 ---
-title: SICSS Festival 2020
-subtitle: "June 22 - June 26, 2020"
+title: SICSS Festival
+subtitle: ""
 layout: page
 ---
+
+# 2020 
 
 The 2020 SICSS Festival took place from Monday, June 22 - Friday, June 26, 2020. During the festival, alumni from all SICSS locations hosted a variety of events such as tutorials, panel discussions, or debates.  These events were all held online due to COVID-19.  SICSS Festival events were open to current SICSS participants (at any location) or anyone that is interested; the choice of audience was driven by the topic, learning objectives, and preferences of presenters.  If you are a SICSS alumni and would like to host an event for a future festival, please send SICSS leadership a rough sketch of your idea. 
 
 Jump to a day: [Monday.](#monday) [Tuesday.](#tuesday) [Wednesday.](#wednesday) [Thursday.](#thursday) [Friday.](#friday)
 
-# Monday <a name="monday"></a>
+## Monday <a name="monday"></a>
 
-## Panel discussion on teaching computational social science
+### Panel discussion on teaching computational social science
 
 __Time:__ Monday, June 22, 2020. 12-1pm EDT
 
@@ -29,9 +31,9 @@ __Archiving:__ This talk will be recorded and archived. [Video](https://www.yout
 </div>
 <br/>
 
-# Tuesday <a name="tuesday"></a>
+## Tuesday <a name="tuesday"></a>
 
-## Measuring cultural change in digital trace data using diversification rates
+### Measuring cultural change in digital trace data using diversification rates
 
 __Time:__ Tuesday, June 23, 2020. 1-2 EDT.
 
@@ -43,7 +45,7 @@ __Open to:__ Unlimited registered participants: Registration has closed.
 
 __Archiving:__ This talk will not be archived.
 
-## Discussion on diversity in computational social science
+### Discussion on diversity in computational social science
 
 __Time:__ Tuesday, June 23, 2020. 3:30-4:30pm EDT
 
@@ -62,9 +64,9 @@ __Archiving:__ This talk will be recorded and archived. [Video](https://www.yout
 </div>
 <br/>
 
-# Wednesday <a name="wednesday"></a>
+## Wednesday <a name="wednesday"></a>
 
-## Computational social science to address the (post) COVID-19 reality
+### Computational social science to address the (post) COVID-19 reality
 
 __Time:__ Wednesday, June 24, 2020, 10–11:15am EDT
 
@@ -85,7 +87,7 @@ __Archiving:__ This talk will be recorded and archived. [Video](https://www.yout
 </div>
 <br/>
 
-## Panel discussion on digital and computational demography
+### Panel discussion on digital and computational demography
 
 __Time:__ Wednesday, June 24, 2020. 11:30am-12:30pm EDT
 
@@ -104,7 +106,7 @@ __Archiving:__ This talk will be recorded and archived. [Video](https://www.yout
 </div>
 <br/>
 
-## Using Empirica for high-throughput virtual lab experiments (Session 1)
+### Using Empirica for high-throughput virtual lab experiments (Session 1)
 
 __Time:__ Wednesday, June 24, 2020. 1-2:30pm EDT
 
@@ -118,9 +120,9 @@ __Preparatory materials:__ All registered participants are strongly encouraged t
 
 __Archiving:__ See the video from the [second session](#empirica_video) covering the same material.
 
-# Thursday <a name="thursday"></a>
+## Thursday <a name="thursday"></a>
 
-## Creating open source software as part of an academic career
+### Creating open source software as part of an academic career
 
 __Time:__ Thursday, June 25, 2020. 11am-12pm EDT
 
@@ -151,7 +153,7 @@ __Archiving:__ This talk will be recorded and archived. [Video](https://www.yout
 </div>
 <br/>
 
-## Panel discussion on the non-academic job market in computational social science
+### Panel discussion on the non-academic job market in computational social science
 
 __Time:__ Thursday, June 25, 2020. 12:30-2pm EDT
 
@@ -166,7 +168,7 @@ __Open to:__ Unlimited registered participants: Registration has closed.
 __Archiving:__ This event will NOT be recorded or archived.
 
 
-## What Can the SICSS Community Do to Recognize and Eradicate Anti-Black Racism in Computational Social Science?
+### What Can the SICSS Community Do to Recognize and Eradicate Anti-Black Racism in Computational Social Science?
 
 __Time:__ Thursday, June 25. 2-3 PM EDT
 
@@ -180,9 +182,9 @@ __Format:__ Discussion & planning session; note that this is not a panel, active
 
 __Archiving:__ This event will NOT be recorded or archived.
 
-# Friday <a name="friday"></a>
+## Friday <a name="friday"></a>
 
-## Opportunities and challenges with industry collaborations
+### Opportunities and challenges with industry collaborations
 
 __Time:__ Friday, June 26, 2020. 10-11am EDT
 
@@ -201,7 +203,7 @@ __Archiving:__ This talk will be recorded and archived. [Video](https://www.yout
 </div>
 <br/>
 
-## Using Empirica for high-throughput virtual lab experiments (Session 2)
+### Using Empirica for high-throughput virtual lab experiments (Session 2)
 
 __Time:__ Friday, June 26, 2020. 10-11:30am EDT.
 
