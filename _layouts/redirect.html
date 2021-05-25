@@ -4,7 +4,7 @@
     <meta http-equiv="refresh" content="1;url={{site.baseurl}}{{ page.redirect }}"/>
     <link rel="canonical" href="{{site.baseurl}}{{ page.redirect }}"/>
     <script type="text/javascript">
-            window.location.href = "{{site.baseurl}}{{ page.redirect }}"
+            window.location.href = "{{site.baseurl}}{{ page.redirect }}" {% if page.include_hash %} + location.hash {% endif %}
     </script>
     <title>Page Redirection</title>
 </head>
