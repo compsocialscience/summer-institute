@@ -1,4 +1,5 @@
 - name: Roland Adorjani
+  image: /assets/images/RAdorjani.jpg
   bio: "Roland Adorjani is a PhD candidate at University College Dublin in Computational Social Science, previously ESOC Sr. Research Specialist at the Princeton School of Public and International Affairs, and also data scientist with opening.io in the domain of recruitment technology. He works on computational social science, machine learning, and cultural sociology to study the spread of fake news, trolling, and disinformation on social media."
   website: https://esoc.princeton.edu/about-us/people/roland-adorjani
 
@@ -8,6 +9,7 @@
   website: http://www.amaatouq.com
 
 - name: Gian Maria Campedelli
+  image: /assets/images/GMCampedelli.jpg
   bio: "Gian Maria Campedelli is a postdoctoral research fellow in Computational Sociology and Criminology at the University of Trento. He holds a Ph.D. in Criminology from Università Cattolica in Milan, and from 2016 to 2019 he worked as a research fellow at Transcrime - the Joint Research Centre on Transnational Crime of Università Cattolica, University of Bologna and University of Perugia. In 2018 he also held a visiting research scholar position at Carnegie Mellon University - School of Computer Science. His research interests focus on the development and application of computational methods for the study of terrorism and organized crime, with specific expertise in complex networks and machine learning."
   website: https://sites.google.com/site/gianmariacampedelli
 
