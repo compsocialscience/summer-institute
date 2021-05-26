@@ -15,7 +15,7 @@ In this activity, you will take part in a simulated Fragile Families Challenge. 
 
 ### Preparation
 
-Well in advance of the activity (we recommend at least two full days), you will need to apply for data access.
+Well in advance of the activity (we recommend at least two full days), you will need to apply for data access. Please note that the Fragile Families team will be out of the office on May 31, June 18, and July 5, 2021 for holidays, so data access cannot be approved on these days.
 
 - Register for an account on the [OPR data archive](https://opr.princeton.edu/archive/restricted/Default.aspx)
 - Visit your [switchboard](https://opr.princeton.edu/archive/restricted/Switchboard.aspx) and sign up for access to the Fragile Families and Child Wellbeing Study. When asked about your plans for using the data, write "I will be participating in the Fragile Families Challenge as part of SICSS." You may also include any additional plans for using the data.
