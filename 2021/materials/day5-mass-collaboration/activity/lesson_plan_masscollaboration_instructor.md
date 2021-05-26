@@ -7,7 +7,7 @@ This document assumes that you have also read the [lesson plan for participants]
 
 ### Instructor preparation
 
-Well in advance of the activity (we recommend at least two full days), participants will need to apply for data access. We recommend that you apply for data access even sooner so that you can help participants.
+Well in advance of the activity (we recommend at least two full business days), participants will need to apply for data access. We recommend that you apply for data access yourself even sooner so that you can help participants. Please note that the Fragile Families team will be out of the office on May 31, June 18, and July 5, 2021 for holidays, so data access cannot be approved on these days.   
 
 Familiarize yourself with the data files that you receive. They include components to support participants who may be falling behind, including a pre-prepared data file.
 
@@ -39,4 +39,4 @@ In the debrief, here are some possible starter questions:
 ### Notes
 
 - Many participants struggle with data preparation. Learning about data preparation is one of the learning objectives of the activity, but if you want to skip that part, you can have them work with the data file that we have already prepared.
-- The schedule that we proposed for participants in modular: before lunch prepare your data and after lunch build your model and submit to the leaderboard. Many participants really enjoying getting a set of predictions uploaded to the leaderboard and seeing their score. So if they seem to struggle to get the data prepared before lunch, you can encourage them to switch to working with the data file that we have already prepared.
+- The schedule that we proposed for participants is modular: before lunch prepare your data, and after lunch build your model and submit to the leaderboard. Many participants really enjoy uploading predictions to the leaderboard and seeing their score, so if they seem to struggle to get the data prepared before lunch, you can encourage them to switch to working with the data file that we have already prepared.
