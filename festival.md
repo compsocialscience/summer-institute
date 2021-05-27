@@ -1,6 +1,6 @@
 ---
 title: SICSS Festival
-subtitle: "Tutorials, discussions, and debates about computational social science lead by the SICSS community."
+subtitle: "Tutorials, discussions, and debates about computational social science lead by the SICSS community"
 layout: page
 ---
 
