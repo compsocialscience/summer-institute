@@ -9,7 +9,7 @@ In this activity, participants will split into small groups, discuss a case stud
 
 ### Learning objectives
 
-- Participants will practice identifying ethical issues in real or proposed research, discussing ethical issues with colleagues, and proposing changes in research design to improve ethical balance.  
+- Participants will practice identifying ethical issues in real or proposed research and discussing ethical issues with colleagues.  
 - Participants will get a chance to get to know each other on the first day.
 
 ### Participant preparation

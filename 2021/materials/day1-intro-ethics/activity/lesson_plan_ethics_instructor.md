@@ -42,7 +42,8 @@ Possible follow-up questions:
 Question 5) Would you personally use these data?
 
 Possible follow-up questions:
-- Many of the questions above could be used here.
+- Have you ever faced a choice like this?  How did you decide?
+- Many of the questions above could be used here as well.
 
 ### Group information
 
