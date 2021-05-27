@@ -6,27 +6,11 @@ layout: page
 
 The SICSS Festival is a series of online events such as tutorials, panel discussions, and debates. Festival events are typically run with SICSS alumni and open everyone.  The goals of the SICSS Festival are to provide new learning opportunities for people interested in computational social science, to provide a venue for community building across SICSS partner locations, and to provide an opportunity for SICSS alumni to share their expertise.
 
-# 2021
-## Monday, June 21 - Friday, June 25
+# 2021: Monday, June 21 - Friday, June 25
 
-## Monday
-{: #monday-2021}
+More information coming soon.
 
-## Tuesday
-{: #tuesday-2021}
-
-## Wednesday
-{: #wednesday-2021}
-
-## Thursday
-{: #thursday-2021}
-
-## Friday
-{: #friday-2021}
-
-
-# 2020 
-## Monday, June 22 - Friday, June 26
+# 2020: Monday, June 22 - Friday, June 26
 
 Jump to a day: [Monday.](#monday) [Tuesday.](#tuesday) [Wednesday.](#wednesday) [Thursday.](#thursday) [Friday.](#friday)
 
