@@ -10,6 +10,17 @@ The SICSS Festival is a series of online events such as tutorials, panel discuss
 
 More information coming soon.
 
+## Thursday <a name="thursday"></a>
+
+### Taking Quantitative Description Seriously
+
+__Time:__ Thursday, June 24, 2021. 1-2pm EDT
+
+__Speakers:__ [Kevin Munger] (https://polisci.la.psu.edu/people/kmm7999), [Andy Guess] (https://politics.princeton.edu/people/andrew-m-guess), and [Eszter Hargittai] (http://www.eszter.com/)
+
+__Open to:__ Unlimited registered participants
+
+
 # 2020: Monday, June 22 - Friday, June 26
 
 Jump to a day: [Monday.](#monday) [Tuesday.](#tuesday) [Wednesday.](#wednesday) [Thursday.](#thursday) [Friday.](#friday)
