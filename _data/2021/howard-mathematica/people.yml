@@ -40,7 +40,13 @@ speakers:
       website: https://www.jpmorganchase.com/institute/about/leadership/chris-wheat 
       
 
-     
+roundtable discussions:
+  title: Roundtable Discussions
+  people:
+    - name: Mathematica
+      image: /assets/images/MathematicaLogo.png
+      bio: "Mathematica is the insight partner that illuminates the path to progress for public- and private-sector changemakers. We apply expertise at the intersection of data, methods, policy, and practice, translating big questions into deep insights that weather the toughest tests. Driven by our mission to improve public well-being, we collaborate closely with our clients to improve programs, refine strategies, and enhance understanding."     
+      website: https://mathematica.org/
      
 lunchtime talks:
   title: Bite-Sized Lunchtime Talks
@@ -50,7 +56,7 @@ lunchtime talks:
       bio: "Black in AI is a place for sharing ideas, fostering collaborations and discussing initiatives to increase the presence of Black people in the field of Artificial Intelligence."     
       website: https://blackinai.github.io/#/
       
-    - name: VaryCSS
+    - name: vary CSS
       image: /assets/images/VaryCSS.png
       bio: "Computational Social Science is an exciting new field of research, and we think it should be diverse and inclusive as it grows. To this end, we provide links to resources, which are intended to support new and emerging CSS scholars currently underrepresented in the field. We also maintain a database of these scholars, which can be used for collaboration and networking, or for finding new voices to speak at conferences, on panels, and in workshop tutorials. These resources are compiled and updated by the CSS community."
       website: http://varycss.org/
