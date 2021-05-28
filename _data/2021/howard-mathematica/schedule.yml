@@ -23,7 +23,6 @@
     - name: "1:45 - 2:45 Small group discussion of [case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf) (*Zoom*)"
     - name: "2:45 - 3:15 Whole group debrief about case study (*Zoom*)"
     - name: "3:15 - 3:45 Debrief and logistics (*Zoom*)"
-    - name: "4:00 - 5:30 Speaker TBD - live session to include Q&A and office hours"
 
 - date: 2021-06-15
   name: Collecting Digital Trace Data
@@ -31,13 +30,12 @@
     - name: "10:00 - 10:15 Logistics and introduction to group exercise (*Zoom*)"
     - name: "10:15 - 11:30 Designing a Research Question with Digital Trace Data (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Small group lunches or participant flash talks (encouraged) (*Zoom*)"
+    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: Black in AI (encouraged) (*Zoom*)"
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 2:30 Collecting Digital Trace Data (*Zoom*)"
     - name: "2:30 - 3:30 Discussing Strengths & Benefits plus Hybrid Designs (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
-    - name: "3:45 - 4:00 Break"
-    - name: "4:00 - 5:30 Speaker TBD - live session to include Q&A and office hours"
+  
 
 - date: 2021-06-16
   name: Automated Text Analysis
@@ -45,11 +43,10 @@
     - name: "10:00 - 10:15 Logistics and introduction to group exercise (*Zoom*)"
     - name: "10:15 - 11:30 Group Exercise (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Small group lunches or participant flash talks (encouraged) (*Zoom*)"
+    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: The Data Nutrition Project (encouraged) (*Zoom*)"
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 3:30 Group Exercise (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
-    - name: "4:00 - 5:30 Speaker TBD - live session to include Q&A and office hours"
 
 - date: 2021-06-17
   name: Surveys in the Digital Age
@@ -58,13 +55,12 @@
     - name: "10:15 - 10:30 Introduction to the group exercise [Lesson plan (participants)] (link coming soon) (*Zoom*)"
     - name: "10:30 - 11:30 Morning group exercise (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Small group lunches or participant flash talks (encouraged) (*Zoom*)"
+    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: The California Policy Lab (encouraged) (*Zoom*)"
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 3:00 Afternoon group exercise (*Zoom*)"
     - name: "3:00 - 3:15 Break"
     - name: "3:15 - 3:30 Whole group debrief about group exercise (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
-    - name: "4:00 - 5:30 Speaker TBD - live session to include Q&A and office hours"
 
 - date: 2021-06-18
   name: Mass collaboration and machine learning
@@ -73,13 +69,12 @@
     - name: "10:15 - 10:30 Introduction to the group exercise [Video](https://www.youtube.com/watch?v=ZI95vV7Co38) [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/06-ffchallenge_participate_activity.pdf) (*Zoom*)"
     - name: "10:30 - 11:30 Participate in the Fragile Families Challenge [Lesson plan (participants)] (link coming soon) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Small group lunches or participant flash talks (encouraged) (*Zoom*)"
+    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: Ghana Fact (encouraged) (*Zoom*)"
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 3:00 Continue participating in the Fragile Families Challenge (*Zoom*)"
     - name: "3:00 - 3:15 Break"
     - name: "3:15 - 3:30 Whole group debrief about group exercise (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
-    - name: "4:00 - 5:30 Speaker TBD - live session to include Q&A and office hours"
 
 - date: 2021-06-19
   name: Day off
@@ -90,33 +85,43 @@
 - date: 2021-06-21
   name: Work on group projects and participate in SICSS Festival
   events:
-  - name: "10:00 - 4:00 TBD"
-  - name: "4:00 - 5:30 Speaker TBD - live session to include Q&A and office hours"
+  - name: "10:00 - 12:00 TBD"
+  - name: "12:00 - 1:00 Small group lunches or participant flash talks (encouraged) (*Zoom*)
+  - name: "1:00 - 4:00 TBD"
+  - name: "4:00 - 5:30 Ruha Benjamin, Ph.D., Associate Professor of African American Studies, Princeton University - live session to include Q&A and office hours"
 
 - date: 2021-06-22
   name: Work on group projects and participate in SICSS Festival
   events:
-  - name: "10:00 - 4:00 TBD"
-  - name: "4:00 - 5:30 Speaker TBD - live session to include Q&A and office hours"
+  - name: "10:00 - 12:00 TBD"
+  - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: The University of California's Publisher Negotiation Team (encouraged) (*Zoom*)"
+  - name: "1:00 - 4:00 TBD" 
+  - name: "4:00 - 5:30 Chris Wheat, Ph.D., Co-President, JP Morgan Chase Institute - live session to include Q&A and office hours"
 
 - date: 2021-06-23
   name: Work on group projects and participate in SICSS Festival
   events:
-  - name: "10:00 - 4:00 TBD"
-  - name: "4:00 - 5:30 Speaker TBD - live session to include Q&A and office hours"
+  - name: "10:00 - 12:00 TBD"
+  - name: "12:00 - 1:00 Live Mathematica Roundtable (encouraged) (*Zoom)"
+  - name: "1:00 - 4:00 TBD"
+  - name: "4:00 - 5:30 Naomi Sugie, Ph.D., Associate Professor of Criminology, Law, and Society, University of California Irvine - live session to include Q&A and office hour"
 
 - date: 2021-06-24
   name: Work on group projects and participate in SICSS Festival
   events:
   - name: "10:00 - 4:00 TBD"
-  - name: "4:00 - 5:30 Speaker TBD - live session to include Q&A and office hours"
+  - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: vary CSS (encouraged) (*Zoom)" 
+  - name: "1:00 - 4:00 TBD"
+  - name: "4:00 - 5:30 Laura Nelson, Ph.D., Assistant Professor of Sociology, Northeastern University - live session to include Q&A and office hour"
 
 - date: 2021-06-25
   name: Present group projects and participate in SICSS Festival
   events:
   - name: "10:00 - 12:00 TBD"
-  - name: "12:00 - 4:00 Present group projects (*Zoom*)"
-  - name: "4:00 - 4:30 Debrief and conclusion"
+  - name: "12:00 - 1:00 Live lunchtime address and Q&A, Paul Decker, President and Chief Executive Officer, Mathematica"
+  - name: "1:00 - 1:15 Break"
+  - name: "1:15 - 4:15 Present group projects (*Zoom*)"
+  - name: "4:15 - 4:30 Debrief and conclusion"
   - name: "4:30 - 4:45 Break"
-  - name: "4:45 - 6:15 Closing Event" 
+  - name: "4:45 - 6:15 SICSS-Howard/Mathematica 2021 Keynote Address, Timnit Gebru, Ph.D., Co-founder, Black in AI"
     
