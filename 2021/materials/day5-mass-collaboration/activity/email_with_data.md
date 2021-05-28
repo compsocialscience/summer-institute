@@ -6,6 +6,8 @@ Data files for the Fragile Families Challenge activity at SICSS 2021 are attache
 
 Once you download the zipped folder, you will need a password to open it. That password will be distributed on Slack in the "#general" channel.
 
+Please do not share the files with anyone. When you have finished the activity, please delete the files. 
+
 You can read more about this activity in the lesson plan: https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md
 
 If you have any problems, please contact your local organizer or me via email or Slack.
