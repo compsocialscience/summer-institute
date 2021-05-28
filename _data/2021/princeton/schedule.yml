@@ -8,15 +8,14 @@
   name: Introduction and Ethics
   events:
     - name: "10:00 - 10:30 Introduction and logistics (*Zoom*)"
-    - name: "10:30 - 11:30 Small group discussions [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small_group_discussions.md)) (*Zoom*)"
+    - name: "10:30 - 11:30 Small group discussions [Lesson plan (participants)] (link coming soon)) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
     - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
     - name: "1:00 - 1:30 Break"
-    - name: "1:30 - 1:45 Introduction to the group exercise [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_participant.md) [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_instructor.md) (*Zoom*)"
+    - name: "1:30 - 1:45 Introduction to the group exercise [Lesson plan (participants)] (link coming soon) [Lesson plan (instructors)] (link coming soon) (*Zoom*)"
     - name: "1:45 - 2:45 Small group discussion of [case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf) (*Zoom*)"
     - name: "2:45 - 3:15 Whole group debrief about case study (*Zoom*)"
-    - name: "3:20 - 3:45 Debrief and logistics (*Zoom*)"
-    - name: "3:45 - 4:00 [Apply for data access for Fragile Families Challenge activity](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md#preparation)"
+    - name: "3:15 - 3:45 Debrief and logistics (*Zoom*)"
 
 - date: 2021-06-15
   name: Collecting Digital Trace Data
@@ -61,7 +60,7 @@
   events:
     - name: "10:00 - 10:15 Logistics (*Zoom*)"
     - name: "10:15 - 10:30 Introduction to the group exercise [Video](https://www.youtube.com/watch?v=ZI95vV7Co38) [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/06-ffchallenge_participate_activity.pdf) (*Zoom*)"
-    - name: "10:30 - 11:30 Participate in the Fraglie Families Challenge [Lesson plan (participants)] (link coming soon) (*Zoom*)"
+    - name: "10:30 - 11:30 Participate in the Fraglie Families Challenge [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md#deleting-the-files-after-use) [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_instructor.md) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
     - name: "12:00 - 1:00 Participant flash talks (encouraged) (*Zoom*)"
     - name: "1:00 - 1:15 Break"
@@ -69,9 +68,9 @@
     - name: "3:00 - 3:15 Break"
     - name: "3:15 - 3:30 Whole group debrief about group exercise (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
+    - name: "3:45 - 4:00 [Delete](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md#deleting-the-files-after-use) the Fragile Families data from your computer"
     - name: "5:00 - 6:30 Munmun de Choudhury Guest Lecture"
-
-
+    
 - date: 2021-06-19
   name: Day off
 
