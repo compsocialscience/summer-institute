@@ -38,6 +38,8 @@ You can read more about our approach to ethical data access in our [paper](https
 - 2 hours: In groups, build predictive models and submit to the [submission site](https://codalab.fragilefamilieschallenge.org/competitions/28). Do not expect to try many different sophisticated models in the time available. A good approach would be to focus on just one outcome of interest and try models of increasing complexity after successfully submitting a basic linear model to the leaderboard.
 - 15 minutes: Whole group debrief for your site
 
+
+### Deleting the files after use
 AT THE END OF THE ACTIVITY, DELETE THE DATA FILES. It is important that the data not sit on a local machine unnecessarily. If you would like access to the data for future research, you can download the data at any time from the OPR Data Archive.
 
 ### Resources
