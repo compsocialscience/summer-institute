@@ -7,9 +7,9 @@ This document assumes that you have also read the [lesson plan for participants]
 
 ### Instructor preparation
 
-Well in advance of the activity (we recommend at least two full business days), participants will need to apply for data access. We recommend that you apply for data access yourself even sooner so that you can help participants. Please note that the Fragile Families team will be out of the office on May 31, June 18, and July 5, 2021 for holidays, so data access cannot be approved on these days.   
+Well in advance of the activity, participants will need to apply for data access. For locations that are holding their event the week of June 14, please ask participants to apply for data access by June 10. If there are participants who are unable to apply for the data by June 10, we recommend building a few minutes for the data application process into the end of your schedule on the first day. For locations that are holding their event another week, let Emily (e.cantrell@princeton.edu) know what day you plan to do the FFC activity, and we will check with the Fragile Families team about their availability to determine what deadline you should tell participants. We recommend that you apply for data access yourself as soon as possible so that you can help participants if they have questions. 
 
-Familiarize yourself with the data files that you receive. They include components to support participants who may be falling behind, including a pre-prepared data file.
+Familiarize yourself with the data files after you receive the ones we will share with you through the Secure Send system. They include components to support participants who may be falling behind, including a pre-prepared data file.
 
 ### Ethics: Guidelines for instructors
 
@@ -21,9 +21,9 @@ Form groups of roughly 3 people randomly. You might consider distributing those 
 
 ### A note about scoring
 
-The [online submission site](https://codalab.fragilefamilieschallenge.org/competitions/28) scores submissions on the leaderboard set (530 cases, 1/8 of the sample). Participants are able to view their score on this set for each submission. In the original Challenge, we ultimately scored participants one time on the holdout set (1,591 cases). You may also want to score submissions on the holdout set one time at the end of the exercise. This will require manual coordination with the central organizers. If you want to do this, message Emily Cantrell to tell her the time at which your exercise will end. If we can coordinate the schedule successfully, Emily can score all submissions on the leaderboard at this time using the holdout data and email the scores to you. Because this is a manual process, it is possible that there will be problems.
+The [online submission site](https://codalab.fragilefamilieschallenge.org/competitions/28) scores submissions on the leaderboard set (530 cases, 1/8 of the sample). Participants are able to view their score on this set for each submission. In the original Challenge, we ultimately scored participants one time on the holdout set (1,591 cases). You may also want to score submissions on the holdout set one time at the end of the exercise. This will require manual coordination with the central organizers. If you want to do this, contact Emily (e.cantrell@princeton.edu) to tell her the time at which your exercise will end. If we can coordinate the schedule successfully, Emily can score all submissions on the leaderboard around this time using the holdout data and email the scores to you. Because this is a manual process, it is possible that there will be problems.
 
-If coordination is difficult, scoring on the holdout is not be necessary. For pedagogical purposes, it may suffice for participants at SICSS to see their score on the leaderboard set, which will happen automatically in real time.
+If coordination is difficult, scoring on the holdout is not necessary. For pedagogical purposes, it suffices for participants at SICSS to see their score on the leaderboard set, which will happen automatically in real time.
 
 ### How to debrief
 
