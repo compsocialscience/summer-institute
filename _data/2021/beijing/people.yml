@@ -159,6 +159,11 @@ participants:
     image: /assets/images/Shiyang-Xiao
     bio: "Shiyang Xiao is a PhD student in Maxwell School of Citizenship and Public Affairs at Syracuse University. Her research interest lies at the intersection of public administration and data science. She applies big data methods to explore the decision-making process, the implementation, and the evaluation of public policies."
 
+  - name: Chao Yang
+    image: /assets/images/Chao-Yang.png
+    bio: Chao Yang is an associate professor at the Department of Automation, East China University of Science and Technology. She received the B.S. degree in theoretical and applied mechanics from Peking University in 2009 and the Ph.D. degree in electronic and computer engineering from the Hong Kong University of Science and Technology in 2013. Her research interests include sensor scheduling in networked control systems, privacy in cooperative networked systems, and opinion dynamics in social network. Her interest toward social science seeks to integrate the tools from theories of networked control systems and  theories of complex networks with the practical models in social science.
+    website: "https://chaoyang2013.github.io/"
+    
   - name: Yanni Yang
     image: /assets/images/Yanni-Yang
     bio: "I am currently a Postdoc in The Hong Kong Polytechnic University. My PhD study mainly focused on pervasive human behavior and object monitoring with publications in ACM Ubicomp, IEEE TMC, IEEE Secon. Now I am also interested in healthcare-related and ocean-related computational social science."
