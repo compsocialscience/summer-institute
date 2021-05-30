@@ -11,6 +11,27 @@ faculty:
       bio: "Dr. Bahiyyah Muhammad is an Associate Professor of Criminology in the Department of Sociology at Howard University (HU) in the District of Columbia (DC). She is an expert on mass incarceration and the collateral consequences on families, specifically focused on resilience among children of incarcerated parents.  Her recent work explores the culture among families and children who maintain bonds during long-term imprisonment and death by incarceration.  Her future research  agenda includes ethnographic methodologies to uncover the “culture of mass incarceration”."         
       website: https://gs.howard.edu/content/bahiyyah-muhammad
       
+opening:
+  title: Opening Speaker
+    - name: Dr. Wayne A.I. Frederick
+      image: /assets/images/WayneAIFrederick.jpeg
+      bio: "Dr. Wayne A. I. Frederick was appointed the seventeenth president of Howard University in 2014. He previously served as Provost and Chief Academic Officer.  Most recently, the Howard University Board of Trustees selected Dr. Frederick to serve as the distinguished Charles R. Drew Professor of Surgery. A distinguished scholar and administrator, Dr. Frederick has advanced Howard University's commitment to student opportunity, academic innovation, public service, and fiscal stability. Early in his tenure as president, Dr. Frederick pursued initiatives to streamline and strengthen university operations. He has overseen a series of reform efforts, including the expansion of academic offerings, establishing innovative programs to support student success and the modernization of university facilities. As an undergraduate, Dr. Frederick was admitted to Howard University's B.S./M.D. dual degree program. He completed the requirements for both degrees in six years, allowing him to earn his Bachelor of Science degree and his medical degree by the age of 22. He also earned a Master of Business Administration from Howard University's School of Business in 2011. Following his post-doctoral research and surgical oncology fellowships at the University of Texas MD Anderson Cancer Center, Dr. Frederick began his academic career as associate director of the Cancer Center at the University of Connecticut. Upon his return to Howard University, his academic positions included associate dean in the College of Medicine, division chief in the Department of Surgery, director of the Cancer Center and deputy provost for Health Sciences." 
+      website: https://www2.howard.edu/about/president
+      
+closing:
+  title: Closing Speaker
+    - name: Paul Decker
+      image: /assets/images/PaulDecker.jpeg
+      bio: "Paul Decker is a nationally recognized expert in policy research, data analytics, education, and labor policy. For three decades, he has been working to improve public well-being through the use of evidence to improve programs and policy. As president and CEO of Mathematica, Decker sets the company’s vision and strategy, oversees its operation and management, and shapes its values and standards. During his tenure as CEO, Decker has expanded and diversified the company’s operations and maintained its commitment to rigor and objectivity in new and evolving areas of research and analysis. Decker is Associate Editor for the Journal of Policy Analysis and Management and a past president of the Association for Public Policy Analysis and Management, where he also co-chaired the organization’s strategic planning committee and served on the policy council. He serves as a trustee and chair for the Committee for Economic Development’s Subcommittee on Workforce Issues. Decker writes and speaks regularly on trends in the policy research field, chairs the government relations committee of CEO Connection, and has testified before Congress, served as an expert adviser to both the U.S. and Canadian governments, and published widely in peer-reviewed journals. Decker holds a Ph.D. in economics from the Johns Hopkins University and serves as chair of development on the board of advisers of the Thomas Jefferson Public Policy Program at the College of William and Mary, his undergraduate alma mater."
+      website: https://www.mathematica.org/staff/paul-decker 
+      
+keynote:
+  title: Keynote Speaker 
+    - name: Timnit Gebru, Ph.D
+      image: /assets/images/TimnitGebru.jpg
+      bio: "Timnit Gebru is a computer scientist whose work explores algorithmic bias and the ethical implications of data mining projects. Timnit is an advocate for diversity in technology and is the cofounder of Black in AI, a community of black researchers working in artificial intelligence. She seeks both to increase diversity in the field of AI and to reduce the negative impacts of racial bias in training data used for human-centric machine learning models."
+      website: https://ai.stanford.edu/~tgebru/ 
+      
 speakers: 
   title: Speakers 
   people:
@@ -18,12 +39,7 @@ speakers:
       image: /assets/images/RuhaBenjamin.jpg
       bio: "Ruha Benjamin is Professor of African American Studies at Princeton University, Founding Director of the Ida B. Wells Just Data Lab, and author of the award-winning book Race After Technology: Abolitionist Tools for the New Jim Code among many other publications. Her work investigates the social dimensions of science, medicine, and technology with a focus on the relationship between innovation and inequity, health and justice, knowledge and power. Ruha earned a BA from Spelman College, MA and PhD in Sociology from UC Berkeley, and completed postdoctoral fellowships at UCLA’s Institute for Society & Genetics and Harvard’s Science, Technology and Society Program. She is the recipient of numerous awards and fellowships including from the American Council of Learned Societies, National Science Foundation, Marguerite Casey Foundation 2020 Freedom Scholar Award, and the President’s Award for Distinguished Teaching at Princeton."
       website: https://www.ruhabenjamin.com/
-      
-    - name: Timnit Gebru, Ph.D
-      image: /assets/images/TimnitGebru.jpg
-      bio: "Timnit Gebru is a computer scientist whose work explores algorithmic bias and the ethical implications of data mining projects. Timnit is an advocate for diversity in technology and is the cofounder of Black in AI, a community of black researchers working in artificial intelligence. She seeks both to increase diversity in the field of AI and to reduce the negative impacts of racial bias in training data used for human-centric machine learning models."
-      website: https://ai.stanford.edu/~tgebru/ 
-      
+     
     - name: Laura Nelson, Ph.D
       image: /assets/images/LauraNelson.jpg
       bio: "Laura Nelson is an assistant professor of sociology at Northeastern University, soon to be an assistant professor at the University of British Columbia. She received her PhD in sociology from UC Berkeley, and has been a postdoctoral fellow at Northwestern University and UC Berkeley Data Science and Digital Humanities. She uses computational tools, principally automated text analysis, to study social movements, culture, gender, institutions, and organizations. She has published in outlets including such as Sociological Methods & Research, Mobilization, Gender & Society, and Poetics."
@@ -38,8 +54,7 @@ speakers:
       image: /assets/images/ChrisWheat.jpg
       bio: "Chris Wheat is the Co-President for the JPMorgan Chase Institute. Prior to joining JPMCI, he served as the Director of Analytics at a financial technology startup, where he led the development of advanced analytics algorithms. He previously was an Assistant Professor at the MIT Sloan School of Management and at the Center for Urban Entrepreneurship and Economic Development at Rutgers Business School. As a faculty member, he taught and researched topics in strategy, entrepreneurship, global microfinance, economic sociology, and social network analysis. Chris earned a B.S.E. in Mechanical & Aerospace Engineering from Princeton University, an M.S. in Computer Science from Stanford University, an M.A. in Sociology from Harvard University, and a Ph.D. in Organizational Behavior from Harvard University."
       website: https://www.jpmorganchase.com/institute/about/leadership/chris-wheat 
-      
-
+     
 roundtable discussions:
   title: Roundtable Discussions
   people:
@@ -84,7 +99,7 @@ participants:
      bio: "Originally from Dallas, Texas, I earned my bachelor’s degree in Biological Sciences (with a specialization in Endocrinology) from The University of Chicago. Prior to Washington University in St. Louis, I was working at The National Institutes of Health as an Intramural Research Fellow. With my MPH/MBA degrees in global health epidemiology and supply chain + operations, I am interested in the integration of preventative health and business on an international sector. Currently, as a PhD student, I am interested in Clinical Research and improving Clinical Trial diversity domestically and globally.  As a daughter of immigrants, from Germany and Nigeria, I am motivated to pursue a career that allows me to utilize data analytics to use health outcomes and strengthen health systems in emerging markets throughout the developing world."
      
    - name: Abiodun Atoloye
-     image: /assets/images/AdiodunAtoloye.jpeg
+     image: /assets/images/AbiodunAtoloye.jpeg
      bio: "Abiodun Atoloye is a Postdoctoral Research Associate with Rudd Center for Food Policy and Obesity, University of Connecticut. She studies the interactions between individual and environmental factors both as determinants of and solutions to poor nutrition outcomes using a mixed-method research approach, community-based research approach, geo-narrative, policy analyses, and innovative measurement tools. Her interest spans addressing access to affordable and nutritious food in different settings including the food pantry and banking system, farmers’ market, and family childcare homes. She is also interested in using advanced data analysis techniques as an alternative method to understand factors influencing food-related decisions among low-resource individuals."
      
    - name: Kimberley Baxter
@@ -124,7 +139,7 @@ participants:
      bio: "Nicole is currently an Assistant Professor  in the Department of Sociology and Criminology at Howard University. She received her Doctoral degree from the University of Nevada Las Vegas in the Department of Sociology in 2020. She obtained an M.A. in Sociology in 2017 and B.A. in Sociology in 2015 from the University of Nevada Las Vegas. In 2013, she received an A.A. in Criminal Justice after serving six years of active duty in the United States Air Force as Military Police. She is a proud advocate for social justice and is committed to teaching with such emphasis in topics such as race and ethnic studies, sociology of poverty, problems of the black community, and research methods."
      
    - name: Erika Meza
-     image: /assets/images/ErikaMeza.jpg
+     image: /assets/images/ErikaMeza.jpeg 
      bio: "Erika is a doctoral student in Epidemiology and Translational Science at the University of California, San Francisco. Her work applies causal inference methods to evaluate social determinants of cognitive aging in older adults. Erika holds a BS in Applied Mathematics from Loyola Marymount University and an MPH from Columbia University."
   
    - name: Rashun Miles
