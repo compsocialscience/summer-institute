@@ -11,19 +11,19 @@
     - name: "1:45 - 2:45 Small group discussion of [case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf)"
     - name: "2:45 - 3:15 Whole group debrief about case study (*Zoom*)"
     - name: "3:15 - 3:45 Break"
-    - name: "4:00 - 5:00 Workshop: Daniel Trielli (SICSS-Chicago)."
+    - name: "4:00 - 5:00 Workshop: Algorith Accountability, Daniel Trielli (Northwestern University and SICSS-Chicago)."
 
 - date: 2021-06-15
   name: Collecting Digital Trace Data
   events:
-    - name: "10:00 - 10:15 Logistics and introduction to group exercise (*Zoom*)"
-    - name: "10:15 - 11:30 Designing a Research Question with Digital Trace Data (*Zoom*)"
-    - name: "11:30 - 12:00 Break"
+    - name: "10:00 - 10:15 Logistics and introduction to group exercise"
+    - name: "10:15 - 11:30 Phase 1: Designing a Research Question with Digital Trace Data (Small Groups)"
+    - name: "11:30 - 12:00 Phase 1: Discussing the Research Questions and Data (Everybody) "
     - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
     - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 2:30 Collecting Digital Trace Data (*Zoom*)"
-    - name: "2:30 - 3:30 Discussing Strengths & Benefits plus Hybrid Designs (*Zoom*)"
-    - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
+    - name: "1:15 - 2:30 Phase 2: Discussing Strengths & Benefits plus Hybrid Designs with Digital Trace Data (Small Groups)"
+    - name: "2:30 - 3:30 Discussing Strengths & Benefits plus Hybrid Designs (Everybody)"
+    - name: "3:30 - 3:45 Debrief and logistics"
     - name: "3:45 - 4:00 Break"
     - name: "4:00 - 4:45 GUEST-SPEAKER: **Patrícia Rossini**: Politics, Social Media, and Uncivility"
 
@@ -31,13 +31,12 @@
   name: Automated Text Analysis
   events:
     - name: "10:00 - 10:15 Logistics and introduction to group exercise (*Zoom*)"
-    - name: "10:15 - 11:30 Group Exercise (*Zoom*)"
+    - name: "10:15 - 11:30 Workshop: Automated Text Analysis with Spacy and LDAviz, Lucas Roberto (FGV DAPP)"
     - name: "11:30 - 12:00 Break"
     - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
     - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 3:30 Group Exercise (*Zoom*)"
-    - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
-    - name: "4:00 - 4:45 Workshop: Automated Text Analysis with Spacy and LDAviz, Lucas Roberto (FGV DAPP)(optional)"
+    - name: "1:15 - 3:00 Text Analysis Group Exercise (Small Group)"
+    - name: "3:30 - 4:00 Debrief and logistics (*Zoom*)"
 
 - date: 2021-06-17
   name: Surveys in the Digital Age
