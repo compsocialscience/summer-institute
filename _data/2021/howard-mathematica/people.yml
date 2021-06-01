@@ -28,15 +28,15 @@ closing:
       website: https://www.mathematica.org/staff/paul-decker
     
 keynote:
-  title: Keynote Speaker 
+  title: SICSS-Howard/Mathematica 2021 Keynote Speaker 
   people:
     - name: Timnit Gebru, Ph.D
-      image: /assets/images/TimnitGebru.jpg
+      image: /assets/images/TimnitGebru.jpeg
       bio: "Timnit Gebru is a computer scientist whose work explores algorithmic bias and the ethical implications of data mining projects. Timnit is an advocate for diversity in technology and is the cofounder of Black in AI, a community of black researchers working in artificial intelligence. She seeks both to increase diversity in the field of AI and to reduce the negative impacts of racial bias in training data used for human-centric machine learning models."
       website: https://ai.stanford.edu/~tgebru/ 
       
 speakers: 
-  title: Speakers 
+  title: Guest Speakers 
   people:
     - name: Ruha Benjamin, Ph.D
       image: /assets/images/RuhaBenjamin.jpg
@@ -186,7 +186,7 @@ participants:
      bio: "Sri Yeswanth (Yash) Tadimalla (He,Him,His) is a doctoral student at UNC Charlotte, under the Interdisciplinary track in the College of Computing and Informatics. His research  explores understanding various forms of inequities in the fields of computing and education through an intersectional lens. He is currently assisting various research projects under the Center for Education Innovation (CEI) in CCI and is also a member of the HCI Lab. He holds a B.Tech in Computer Engineering from Hyderabad Institute of Technology and Management. Prior to his advocacy work in the North Carolina Region, he served under various UN SDG related initiatives advocating for equitable education practices across multiple countries in South-east Asia." 
      
    - name: Maxine Van Doren
-     image: 
+     image: /assets/images/MaxineVanDoren.jpeg
      bio: "Maxine Van Doren is a licensed speech-language pathologist currently pursuing a PhD in Linguistics at the University of California, San Diego. Her dissertation examines the effects of language structure on voice quality in speakers with and without voice disorders. Clinically, she is interested in developing linguistically-informed diagnostic tools for culturally and linguistically diverse patients with voice disorders." 
     
    - name: Soazic Elise Wang Sonne
