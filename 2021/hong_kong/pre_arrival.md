@@ -10,6 +10,7 @@ The Summer Institute will bring together people from many fields and backgrounds
 - Complete the pre-read
 - Complete coding bootcamp (if needed)
 - Watch lecture videos
+- Prepare flash talks
 - Prepare your computing environment
 
 TAs will host office hours through Slack to support you as you work through these pre-arrival materials.
@@ -33,6 +34,10 @@ Please note that the majority of the coding work presented at SICSS@Hong Kong 20
 ## Lecture videos
 
 SICSS@Hong Kong 2021 will be using a [flipped classroom model](https://en.wikipedia.org/wiki/Flipped_classroom).  Therefore, you should watch [videos of lectures](https://sicss.io/curriculum) before our meetings, and then we will use our time together for discussion and group activities.
+
+## Flash talks
+
+It is not a formal research talk, but rather a causal talk about your interests of using computational social science in your field, what kinds of topics you want to work on (one or two concrete examples, trying to draw other participants' interests), and challenges you have faced; 20 minutes max for each participant. Think of this as an opportunity to find collaborators.
 
 ## Computing environment
 
