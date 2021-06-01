@@ -8,13 +8,13 @@
   name: Introduction and Ethics
   events:
     - name: "12:00 - 12:30 Introduction and logistics (*Zoom*)"
-    - name: "12:30 - 13:30 Small group discussions (*Zoom*)"
+    - name: "12:30 - 13:30 Small group discussions [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small_group_discussions.md)(*Zoom*)"
     - name: "13:30 - 14:00 Break"
     - name: "14:00 - 15:00 Small group lunches (optional) (*Zoom*)"
     - name: "15:00 - 15:30 Break"
     - name: "15:30 - 15:45 Introduction to the group exercise (*Zoom*)"
-    - name: "15:45 - 16:45 Small group discussion of [case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf) (*Zoom*)"
-    - name: "16:45 - 17:15 Whole group debrief about case study (*Zoom*)"
+    - name: "15:45 - 16:45 Small group discussion of [case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf), based on the pre-recorded lectures [Day 1](https://sicss.io/curriculum) or 'Ethics' chapter in the [Bit-by-Bit book by Matthew Salganik](https://www.bitbybitbook.com/). Lesson plan (participants)[https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_participant.md] (*Zoom*)"
+    - name: "16:45 - 17:15 Whole group debrief about the case study (*Zoom*)"
     - name: "17:15 - 17:30 Break"
     - name: "17:30 - 18:30 Ivan Smirnov. Common pitfalls in quantitative research (*Zoom*)"
     - name: "19:00 - 19:15 Debrief and logistics (*Zoom*)"
@@ -26,13 +26,13 @@
     - name: "12:15 - 13:30 Designing a Research Question with Digital Trace Data (*Zoom*)"
     - name: "13:30 - 14:00 Break"
     - name: "14:00 - 15:30 Collecting Digital Trace Data (*Zoom*)"
-    - name: "15:30 - 16:30 Discussing Strengths & Benefits plus Hybrid Designs (*Zoom*)"
+    - name: "15:30 - 16:30 Discussing Strengths & Benefits plus Hybrid Designs based the pre-recorded lectures [Day 2](https://sicss.io/curriculum) (*Zoom*)"
     - name: "16:30 - 17:45 Break"    
     - name: "17:45 - 19:15 Guest speaker: Rene Kizilcec. Topic TBA (*Zoom*)" 
     - name: "19:15 - 19:20 Debrief and logistics (*Zoom*)"
 
 - date: 2021-06-16
-  name: Automated Text Analysis
+  name: Automated Text Analysis and Networks Science
   events:
     - name: "12:00 - 12:15 Logistics and introduction to group exercise (*Zoom*)"
     - name: "12:15 - 13:30 Group Exercise based on the pre-recorded lectures [(Day 3)](https://sicss.io/curriculum)(*Zoom*)"
@@ -49,7 +49,7 @@
   events:
     - name: "12:00 - 12:15 Logistics (*Zoom*)"
     - name: "12:15 - 12:30 Introduction to the group exercise (*Zoom*)"
-    - name: "12:30 - 13:30 Morning group exercise (*Zoom*)"
+    - name: "12:30 - 13:30 Morning group exercise based on the pre-recorded lectures [Day 4](https://sicss.io/curriculum) (*Zoom*)"
     - name: "13:30 - 14:00 Break"
     - name: "14:00 - 15:00 Participant flash talks (encouraged) (*Zoom*)"
     - name: "15:00 - 15:15 Break"
@@ -65,9 +65,9 @@
   events:
     - name: "12:00 - 12:15 Logistics (*Zoom*)"
     - name: "12:15 - 12:30 Introduction to the group exercise [Video](https://www.youtube.com/watch?v=ZI95vV7Co38) [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/06-ffchallenge_participate_activity.pdf) (*Zoom*)"
-    - name: "12:30 - 13:30 Participate in the Fragile Families Challenge (*Zoom*)"
+    - name: "12:30 - 13:30 Participate in the Fragile Families Challenge [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md#lesson-plan-for-participants) (*Zoom*)"
     - name: "13:30 - 14:00 Break"
-    - name: "14:00 - 15:00 Participant flash talks (encouraged) (*Zoom*)"
+    - name: "14:00 - 15:00 Continue participating in the Fragile Families Challenge (*Zoom*)"
     - name: "15:00 - 15:15 Break"
     - name: "15:15 - 17:00 Continue participating in the Fragile Families Challenge (*Zoom*)"
     - name: "17:00 - 17:15 Break"
@@ -78,7 +78,7 @@
   name: Closing day
   events:
     - name: "12:00 - 12:15 Logistics (*Zoom*)"
-    - name: "12:15 - 13:45 Computational studies of childhood and education (*Zoom*)"
+    - name: "12:15 - 13:45 Participant flash talks (encouraged) (*Zoom*)"
     - name: "13:45 - 14:00 Break"
     - name: "14:00 - 15:30 Participant flash talks (encouraged) (*Zoom*)"
     - name: "15:30 - 16:30 Break"
