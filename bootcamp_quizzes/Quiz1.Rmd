@@ -48,7 +48,7 @@ some_vector <- c(25555,342343,123123123,4234234,53243234,54324234,5421111,123123
 <br>
 
 
-**4. For the remainder of this quiz, we'll look at a dataframe called `congress`. Run the code below to download the dataset from a Github site.
+**4. For the remainder of this quiz, we'll look at a dataframe called `congress` that describes characteristics of U.S. elected officials. We will use this dataset for many subsequent questions in these bootcamp quizzes as well. Run the code below to download the dataset from a Github site.
 
 ```{r message=FALSE, echo=TRUE}
 load(url('https://dssoc.github.io/datasets/congress.RData'))
@@ -75,3 +75,6 @@ load(url('https://dssoc.github.io/datasets/congress.RData'))
 **7. Who are the oldest members of congress?**
 
 <br>
+
+Thanks to Devin Cornell and Taylor Brown for helping to create these quizzes!
+
