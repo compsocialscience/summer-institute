@@ -1,3 +1,72 @@
+- date: All times are in Hong Kong Time; *Schedule is Tentative*
+
 - date: 2021-06-14
+  name: Introduction and Ethics
+    - name: "10:00 - 11:00 Meet-and-greet"
+    - name: "11:15 - 12:15 Participant flash talks (encouraged)"
+    - name: "12:30 - 1:30 Break"
+    - name: "13:30 - 13:45 Introduction to the group exercise [Lesson plan (participants)] (link coming soon) [Lesson plan (instructors)] (link coming soon) "
+    - name: "13:45 - 14:45 Small group discussion on ethics[case study](link coming soon)"
+    - name: "14:45 - 15:15 Whole group debrief about case study "
+    - name: "15:15 - 15:45 Debrief and logistics "
+
+- date: 2021-06-15
+  name: Collecting Digital Trace Data
   events:
-    - name: "Schedule coming soon..."
+    - name: "9:00 - 9:45 Participant flash talks (encouraged)"
+    - name: "10:00 - 11:00 Talk by King-wa Fu"
+    - name: "13:30 - 15:30 Small group discussion on Digital Trace Data; Strengths & Benefits plus Hybrid Designs "
+    - name: "15:30 - 16:45 Debrief and logistics "
+
+- date: 2021-06-16
+  name: Automated Text Analysis
+  events:
+    - name: "9:00 - 10:00 Participant flash talks (encouraged)"
+    - name: "10:15 - 11:15 Logistics and introduction to group exercise "
+    - name: "11:15 - 12:15 Group Exercise "
+    - name: "20:00 - 21:00 Small group discussion on promise and pitfall in text analysis"
+
+- date: 2021-06-17
+  name: Site-specific topics--image analysis
+  events:
+    - name: "9:00 - 10:00 Talk by Yongren Shi"
+    - name: "10:15 - 11:30 Talk by instructor (Han Zhang) "
+    - name: "11:30 - 12:15 Discussions"
+    - name: "20:00 - 21:00 Participant flash talks (encouraged) "
+
+- date: 2021-06-18
+  name: Site-specific topics--polarization or networks
+  events:
+    - name: "9:00 - 10:00 Participant flash talks (encouraged) "
+    - name: "10:15 - 11:30 Talk by instructor "
+    - name: "11:30 - 12:15 Discussions"
+
+- date: 2021-06-19
+  name: Day off
+
+- date: 2021-06-20
+  name: Day off
+
+- date: 2021-06-21
+  name: Site-specific topics--polarization or networks
+  events:
+    - name: "10:00 - 11:00 Talk by Liang Hai (live)"
+    - name: "11:15 - 12:30 Talk by instructor"
+    - name: "13:30 - 17:30 Research Speed Dating Maximally Dissimilar Groups "
+    - name: "20:00 - 21:00 Group Debrief (join research teams) "
+
+- date: 2021-06-22
+  name: Work on group projects (optional) and/or participate in SICSS Festival
+
+- date: 2021-06-23
+  name: Work on group projects (optional) and/or participate in SICSS Festival
+  events:
+    - name: "9:00 - 10:00 Talk by Yuan Yuan (live)"
+
+- date: 2021-06-24
+  name: Work on group projects (optional) and/or participate in SICSS Festival
+
+- date: 2021-06-25
+  name: Present group projects and/or participate in SICSS Festival
+  events:
+    - name: "9:00 - 12:00 Present group project proposal "
