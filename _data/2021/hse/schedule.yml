@@ -8,12 +8,12 @@
   name: Introduction and Ethics
   events:
     - name: "12:00 - 12:30 Introduction and logistics (*Zoom*)"
-    - name: "12:30 - 13:30 Small group discussions [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small_group_discussions.md)(*Zoom*)"
+    - name: "12:30 - 13:30 Small group discussions [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small_group_discussions.md) (*Zoom*)"
     - name: "13:30 - 14:00 Break"
     - name: "14:00 - 15:00 Small group lunches (optional) (*Zoom*)"
     - name: "15:00 - 15:30 Break"
     - name: "15:30 - 15:45 Introduction to the group exercise (*Zoom*)"
-    - name: "15:45 - 16:45 Small group discussion of [case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf), based on the pre-recorded lectures [Day 1](https://sicss.io/curriculum) or 'Ethics' chapter in the [Bit-by-Bit book by Matthew Salganik](https://www.bitbybitbook.com/). Lesson plan (participants)[https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_participant.md] (*Zoom*)"
+    - name: "15:45 - 16:45 Small group discussion of [case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf), based on the pre-recorded lectures [Day 1](https://sicss.io/curriculum) or 'Ethics' chapter in the [Bit-by-Bit book by Matthew Salganik](https://www.bitbybitbook.com/). [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_participant.md) (*Zoom*)"
     - name: "16:45 - 17:15 Whole group debrief about the case study (*Zoom*)"
     - name: "17:15 - 17:30 Break"
     - name: "17:30 - 18:30 Ivan Smirnov. Common pitfalls in quantitative research (*Zoom*)"
@@ -35,9 +35,9 @@
   name: Automated Text Analysis and Networks Science
   events:
     - name: "12:00 - 12:15 Logistics and introduction to group exercise (*Zoom*)"
-    - name: "12:15 - 13:30 Group Exercise based on the pre-recorded lectures [(Day 3)](https://sicss.io/curriculum)(*Zoom*)"
+    - name: "12:15 - 13:30 Group Exercise based on the pre-recorded lectures [(Day 3)](https://sicss.io/curriculum) (*Zoom*)"
     - name: "13:30 - 14:00 Break"
-    - name: "14:00 - 15:00 Group Exercise based on the pre-recorded lectures [(Day 3)](https://sicss.io/curriculum)(*Zoom*)"
+    - name: "14:00 - 15:00 Group Exercise based on the pre-recorded lectures [(Day 3)](https://sicss.io/curriculum) (*Zoom*)"
     - name: "15:00 - 15:30 Break"
     - name: "15:30 - 17:00 Sofia Dokuka. Social network analysis: research design (*Zoom*)"
     - name: "17:30 - 17:45 Break"
