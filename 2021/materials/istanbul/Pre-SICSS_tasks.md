@@ -140,8 +140,11 @@ There are two popular libraries to handle data in the R environment. The first o
 What should you do in this task?
 
 • Read your Twitter and web datasets.
+
 • Subset your data by using a keyword, a time interval, a user name for the Twitter dataset.
+
 • Order your data alphabetically and by weekday! You can use [lubridate](https://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html) for date-time operations.
+
 • Understand what is a merge operation and merge your datasets based on a textual trait.
 
 ### Here are some tutorials to data wrangling with R:
@@ -149,6 +152,7 @@ What should you do in this task?
 • [Data Wrangling](https://www.youtube.com/watch?v=sXVP9256JSQ&list=PL9UNgBC7ODr46RSz88DCelUdhkLSpRrfZ&index=4)
 
 ### Required Packages: 
+
 • [data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html)
    
 • [dplyr](https://dplyr.tidyverse.org/)
@@ -164,8 +168,11 @@ Once you finished with strings in your dataset, you go beyond and discover your 
 What should you do in this task?
 
 • Create a quanteda corpus object based on Twitter dataset text column. Assign date and tweet ID as metadata
+
 • Clean all punctuation except hashtags and mentions in the text variable. It is quite easy and well documented on the Internet; however, I suggest you should think about the problem. Instead of thinking it as a whole, divide it into small pieces and start bit by bit! For example, think about removing only one type of character and create a pattern.
+
 • Create a document feature matrix from your corpus and find top 10 frequent terms.
+
 • Weight your dfm by using tf-idf scheme
 
 ### Here are some tutorials to collect web data with R:
@@ -187,17 +194,23 @@ The second essential skill you should learn is working with [markdowns](https://
 Last but not least, if you are fluent with basic R, you could produce great data products with [Shiny](https://shiny.rstudio.com/). It is not the most straightforward interface library, but you should give it a try once you are ready!
 
 What should you do in this task?
+
 • Load you datasets you created in Task 4.
+
 • Create a new Rmd document in RStudio
+
 • Display your results in a markdown document with explanations. In addition to quanteda’s pretty plots, you could include histograms or even a network of tweeters!
+
 • Display your results in an HTML document
 
 ### Here are some tutorials to data visualization and reporting with R:
 
 • [Data Visualization](https://www.youtube.com/watch?v=G2lMBNkbggg&t=4s)
+
 • [Communicate and Collaborate](https://www.youtube.com/watch?v=98IcckSOfnw&list=PL9UNgBC7ODr46RSz88DCelUdhkLSpRrfZ&index=8)
 
 ### Required Packages: 
+
 • [ggplot2 package](https://ggplot2.tidyverse.org/)
    
 • [markdowns](https://rmarkdown.rstudio.com/)
