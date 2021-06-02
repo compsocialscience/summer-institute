@@ -8,7 +8,7 @@
 
 - date: "Pre-SICSS Period: Coding and Reading Tasks"
   events:
-    - name: "**[Pre-SICSS Tasks](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS_tasks)**<br/>This 2-week pre-SICSS period will feature a number of essential computational social science readings, along with programming foundation modules to bridge everyone’s diverse skill set. Even if you have excellent programming skills, please go along with us through this period, so that when the actual SICSS begins, you’ll already have a good sense of common problems and skill sets, so that you can get an understanding of who to partner with during the second week of SICSS, where groups will come up with their own research questions and work on it for an entire week."
+    - name: "**[Pre-SICSS Tasks](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS_tasks.md)**<br/>This 2-week pre-SICSS period will feature a number of essential computational social science readings, along with programming foundation modules to bridge everyone’s diverse skill set. Even if you have excellent programming skills, please go along with us through this period, so that when the actual SICSS begins, you’ll already have a good sense of common problems and skill sets, so that you can get an understanding of who to partner with during the second week of SICSS, where groups will come up with their own research questions and work on it for an entire week."
     - name: "**Code Walkthrough Sessions**<br/> While working Pre-SICSS tasks, coding walkthrough sessions will be held on our tasks. Participants will have a chance to replicate the codes on their desk to improve their coding experience."
 
 - date: 2021-05-31
@@ -16,11 +16,11 @@
   events: 
       - name: "Networking"
         time: "19:30-20:00"
-      - name: "Getting data via APIs"
+      - name: "Getting data via APIs (Twitter, Youtube)"
         time: "20:00-21:00"
       - name: "Short Break"
         time: "21:00-21:10"  
-      - name: "Getting data with Screen Scraping"
+      - name: "Getting data with Screen Scraping(Facebook,Instagram, Eksisozluk, Reddit)"
         time: "21:10-22:00"
       - name: "Networking"
         time: "22:00-22:30"       
@@ -49,11 +49,11 @@
   events: 
       - name: "Networking"
         time: "19:30-20:00"
-      - name: "A tutorial on data.table package"
+      - name: "Data wrangling with data.table package"
         time: "20:00-21:00"
       - name: "Short Break"
         time: "21:00-21:10"  
-      - name: "A tutorial on dplyr&lubridate packages"
+      - name: "Data wrangling with dplyr&lubridate packages"
         time: "21:10-22:00"
       - name: "Networking"
         time: "22:00-22:30"       
@@ -66,11 +66,11 @@
   events: 
       - name: "Networking"
         time: "19:30-20:00"
-      - name: "A tutorial on quanteda package-1"
+      - name: "Text Analysis with quanteda package-1"
         time: "20:00-21:00"
       - name: "Short Break"
         time: "21:00-21:10"  
-      - name: "A tutorial on quanteda package-2"
+      - name: "Text Analysis with quanteda package-2"
         time: "21:10-22:00"
       - name: "Networking"
         time: "22:00-22:30"       
@@ -82,11 +82,11 @@
   events: 
       - name: "Networking"
         time: "19:30-20:00"
-      - name: "A tutorial on ggplot2 package"
+      - name: "Data Visualization with ggplot2 package"
         time: "20:00-21:00"
       - name: "Short Break"
         time: "21:00-21:10"  
-      - name: "A tutorial on markdowns and shiny"
+      - name: "Reporting with markdowns and shiny"
         time: "21:10-22:00"
       - name: "Networking"
         time: "22:00-22:30"       
