@@ -127,9 +127,9 @@ simply copy it from your browser. However, you should open the [inspector](https
 • [Web Scraping with rvest](https://www.dataquest.io/blog/web-scraping-in-r-rvest/)
 
 ### Required Packages: 
-• [rvest](https://rvest.tidyverse.org/articles/rvest.html), 
+• [rvest](https://rvest.tidyverse.org/articles/rvest.html)
    
-• [RSelenium](https://cran.r-project.org/web/packages/RSelenium/vignettes/basics.html), 
+• [RSelenium](https://cran.r-project.org/web/packages/RSelenium/vignettes/basics.html)
    
 • [data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html)
 
@@ -152,5 +152,4 @@ simply copy it from your browser. However, you should open the [inspector](https
 • [Edelmann, A., Wolff, T., Montagne, D., & Bail, C. A. (2020). Computational Social Science and Sociology. Annual Review of Sociology, 46(1).](https://doi.org/10.1146/annurev-soc-121919-054621)
 
   
-### NOTICE: All of the recommendations are based on our experience; therefore they can be highly subjective. We do not argue that the packages&approaches we are 
-  suggesting in this document are the best ones. However, we are using some of them for a long time, and they have been handy.
+### NOTICE: All of the recommendations are based on our experience; therefore they can be highly subjective. We do not argue that the packages&approaches we are suggesting in this document are the best ones. However, we are using some of them for a long time, and they have been handy.
