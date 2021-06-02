@@ -8,46 +8,91 @@
 
 - date: "Pre-SICSS Period: Coding and Reading Tasks"
   events:
-    - name: "**[Pre-SICSS Tasks](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/istanbul/pre-SICSS%20tasks.md)**<br/>This 2-week pre-SICSS period will feature a number of essential computational social science readings, along with programming foundation modules to bridge everyone’s diverse skill set. Even if you have excellent programming skills, please go along with us through this period, so that when the actual SICSS begins, you’ll already have a good sense of common problems and skill sets, so that you can get an understanding of who to partner with during the second week of SICSS, where groups will come up with their own research questions and work on it for an entire week."
+    - name: "**[Pre-SICSS Tasks](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS_tasks)**<br/>This 2-week pre-SICSS period will feature a number of essential computational social science readings, along with programming foundation modules to bridge everyone’s diverse skill set. Even if you have excellent programming skills, please go along with us through this period, so that when the actual SICSS begins, you’ll already have a good sense of common problems and skill sets, so that you can get an understanding of who to partner with during the second week of SICSS, where groups will come up with their own research questions and work on it for an entire week."
     - name: "**Code Walkthrough Sessions**<br/> While working Pre-SICSS tasks, coding walkthrough sessions will be held on our tasks. Participants will have a chance to replicate the codes on their desk to improve their coding experience."
 
 - date: 2021-05-31
-  name: Code Walkthrough on Task 1
+  name: Code Walkthrough on Task 1 and 2
   events: 
-      - name: "Networking (Optional)"
+      - name: "Networking"
         time: "19:30-20:00"
-      - name: "Session 1"
+      - name: "Getting data via APIs"
         time: "20:00-21:00"
       - name: "Short Break"
         time: "21:00-21:10"  
-      - name: "Session 2"
+      - name: "Getting data with Screen Scraping"
         time: "21:10-22:00"
-      - name: "Networking (Optional)"
+      - name: "Networking"
         time: "22:00-22:30"       
-        
-- date: 2021-06-02
-  name: Code Walkthrough Sessions
-  events: 
-      - name: "Task 2"
-        time: "20:00-23:00"
+      - name: "[Replication Codes](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Codes%20for%20Code-Through%20Session%201-2_2021.Rmd)"
+      - name: "Related SICSS Learning Material: [Day 2-Collecting Digital Trace Data](https://sicss.io/curriculum)"
 
+- date: 2021-06-02
+  name: Q&A Session on Task 1 and 2
+  events: 
+      - name: "Networking"
+        time: "19:30-20:00"
+      - name: "Q&A on APIs"
+        time: "20:00-21:00"
+      - name: "Short Break"
+        time: "21:00-21:10"  
+      - name: "Q&A on Screen Scraping"
+        time: "21:10-22:00"
+      - name: "Networking"
+        time: "22:00-22:30"       
+      - name: "[Replication Codes](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Codes%20for%20Code-Through%20Session%201-2_2021.Rmd)"
+      - name: "Related SICSS Learning Material: [Day 2-Collecting Digital Trace Data](https://sicss.io/curriculum)"
+
+      
 - date: 2021-06-07
-  name: Code Walkthrough Sessions
+  name: Code Walkthrough Session on Task 3
   events: 
-      - name: "Task 3"
-        time: "20:00-23:00"
-        
+      - name: "Networking"
+        time: "19:30-20:00"
+      - name: "A tutorial on data.table package"
+        time: "20:00-21:00"
+      - name: "Short Break"
+        time: "21:00-21:10"  
+      - name: "A tutorial on dplyr&lubridate packages"
+        time: "21:10-22:00"
+      - name: "Networking"
+        time: "22:00-22:30"       
+      - name: "[Replication Codes]()"
+      - name: "Related SICSS Learning Material: [Data “Wrangling”](https://sicss.io/boot_camp/)"
+
+
 - date: 2021-06-09
-  name: Code Walkthrough Sessions
+  name: Code Walkthrough Session on Task 4
   events: 
-      - name: "Task 4"
-        time: "20:00-23:00"
+      - name: "Networking"
+        time: "19:30-20:00"
+      - name: "A tutorial on quanteda package-1"
+        time: "20:00-21:00"
+      - name: "Short Break"
+        time: "21:00-21:10"  
+      - name: "A tutorial on quanteda package-2"
+        time: "21:10-22:00"
+      - name: "Networking"
+        time: "22:00-22:30"       
+      - name: "[Replication Codes]()"
+      - name: "Related SICSS Learning Material: [Day 3-Automated Text Analysis](https://sicss.io/boot_camp/)"
         
 - date: 2021-06-11
-  name: Code Walkthrough Sessions
+  name: Code Walkthrough Session on Task 5
   events: 
-      - name: "Task 5"
-        time: "20:00-23:00"
+      - name: "Networking"
+        time: "19:30-20:00"
+      - name: "A tutorial on ggplot2 package"
+        time: "20:00-21:00"
+      - name: "Short Break"
+        time: "21:00-21:10"  
+      - name: "A tutorial on markdowns and shiny"
+        time: "21:10-22:00"
+      - name: "Networking"
+        time: "22:00-22:30"       
+      - name: "[Replication Codes]()"
+      - name: "Related SICSS Learning Material: ["Visualization" and "Communicating and Collaborating"](https://sicss.io/boot_camp/)"     
+        
        
 
 - date: "First Week of ‘Real SICSS’"
@@ -57,7 +102,7 @@
 - date: 2021-06-14
   name: First day of SICSS
   events:
-     - name: Introduction to curriculum and Evaluation the Pre-SICSS Tasks
+     - name: What is Computational Social Science?
        time: "17:00-18:00"
      - name: Coffee Break
        time: "18:00-18:30"
