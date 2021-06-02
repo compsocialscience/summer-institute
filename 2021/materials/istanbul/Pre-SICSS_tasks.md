@@ -14,10 +14,12 @@ When it comes to our Pre-SICSS tasks, we provide you with practical experience o
 individually (or in a group setting) considering different learning curves in our cohort.  We believe that learning to code is an individual process, but some 
 would see a benefit to solve tasks in a group setting. Therefore, we are leaving the decision of doing our tasks individually or in a group setting to you.  
 
-To help you in this process, Ahmet Kurnaz will organize code walkthrough sessions for each task. Thus, participants will have a chance to replicate the codes on 
+To help you in this process, [Ahmet Kurnaz](https://sicss2021.slack.com/archives/D0248VAJCRE) will organize code walkthrough sessions for each task. Thus, 
+participants will have a chance to replicate the codes on 
 their desk to improve their coding experience. 
 
-Additionally, you can request an one-to-one office hour from Emre Tapan when you get stuck and need support. We strongly suggest that when you face a bug or 
+Additionally, you can request an one-to-one office hour from [Emre Tapan](https://sicss2021.slack.com/archives/D01GW4RAZ9B#) when you get stuck and need support. 
+We strongly suggest that when you face a bug or 
 difficulty, instead of immediately asking it, you should try to solve your problems by searching on [StackOverflow](https://stackoverflow.com/questions/tagged/r)! 
 
 We are listing some helpful links you would need to look at while solving our tasks: 
