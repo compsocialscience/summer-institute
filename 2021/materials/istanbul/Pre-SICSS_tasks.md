@@ -60,9 +60,7 @@ In the digital age, collecting data is more accessible than conventional social 
 (https://www.youtube.com/watch?v=uuSWQN7uYhk) while you are sleeping! The Internet is full of data and waiting for you to collect them.
 
 One of the common data collection methods is using [Application Programming Interfaces](https://www.youtube.com/watch?v=jde_c7pB5U8&feature=youtu.be). Most of the 
-social networking platforms such as [Twitter](https://developer.twitter.com/en), [YouTube](https://developers.google.com/youtube) and [Facebook]
-(https://developers.facebook.com/) provides their data with an API. To use an [API](https://compsocialscience.github.io/summer-institute/2020/materials/day2-
-digital-trace-data/apis/Rpres/APIs.html#/), you should obtain credentials and comply with the terms of service.
+social networking platforms such as [Twitter](https://developer.twitter.com/en), [YouTube](https://developers.google.com/youtube) and [Facebook](https://developers.facebook.com/) provides their data with an API. To use an [API](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/apis/Rpres/APIs.html#/), you should obtain credentials and comply with the terms of service.
 
 
 What should you do in this task?
@@ -78,8 +76,7 @@ able to finish this task in two days.
 
 • Read [here](https://developer.twitter.com/en/docs/basics/rate-limiting) what are the limitations of Twitter API’s
 
-• Decide on some interesting hashtag and use is as a search term to crawl 20K tweets and store them in a [data.table](https://cran.r-
-project.org/web/packages/data.table/vignettes/datatable-intro.html). You should decide whether you want to use Streaming API or Search API and understand the 
+• Decide on some interesting hashtag and use is as a search term to crawl 20K tweets and store them in a [data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html). You should decide whether you want to use Streaming API or Search API and understand the 
 difference!
 
 • Save your data.
@@ -97,8 +94,7 @@ difference!
 
 ## Task 2 - Data collection: Screen Scraping (First Week: Wednesday - Friday)
 
-In most of the cases, websites you would like to obtain data from may not have APIs. One of the alternative data collection methods is using [web scraping]
-(https://www.youtube.com/watch?v=LjTZNmBjC5Q&feature=youtu.be). Web scraping is the “[free](https://en.wikipedia.org/wiki/Free_software)” way of obtaining data 
+In most of the cases, websites you would like to obtain data from may not have APIs. One of the alternative data collection methods is using [web scraping](https://www.youtube.com/watch?v=LjTZNmBjC5Q&feature=youtu.be). Web scraping is the “[free](https://en.wikipedia.org/wiki/Free_software)” way of obtaining data 
 from the Internet. However, still, you should be careful about ethical and legal issues. You should leave some time between page requests to prevent an unintended 
 DoS attack.
 
@@ -109,10 +105,8 @@ In this task, you should get data from your favourite website. You should read t
 enough time between new requests while scraping the web!
 
 To understand web scraping and be successful at it, you should know at least [basic HTML structure](https://www.w3schools.com/html/html_intro.asp). In addition, 
-you need to learn what are [a tag - HTML element-](https://www.learn-html.org/en/Basic_Elements), [css selector]
-(https://www.w3schools.com/cssref/css_selectors.asp) and [xpath](https://www.w3schools.com/xml/xpath_syntax.asp). Note you don’t have to write xpath, you can 
-simply copy it from your browser. However, you should open the [inspector](https://developer.mozilla.org/en-
-US/docs/Tools/Page_Inspector/How_to/Open_the_Inspector)!
+you need to learn what are [a tag - HTML element-](https://www.learn-html.org/en/Basic_Elements), [css selector](https://www.w3schools.com/cssref/css_selectors.asp) and [xpath](https://www.w3schools.com/xml/xpath_syntax.asp). Note you don’t have to write xpath, you can 
+simply copy it from your browser. However, you should open the [inspector](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Open_the_Inspector)!
 
 • HTML Scrape: Go to a page you are interested in and scrape it by using rvest.
 
@@ -154,8 +148,7 @@ US/docs/Tools/Page_Inspector/How_to/Open_the_Inspector)!
 • [Unver, A. (2019). Computational IR: What Coding, Programming and Internet Research Can Do for the Discipline? All Azimuth: A Journal of Foreign Policy and Peace 
   Vol. 8, No. 2.](https://doi.org/10.20991/allazimuth.476433)
 
-• [Edelmann, A., Wolff, T., Montagne, D., & Bail, C. A. (2020). Computational Social Science and Sociology. Annual Review of Sociology, 46(1).]
-  (https://doi.org/10.1146/annurev-soc-121919-054621)
+• [Edelmann, A., Wolff, T., Montagne, D., & Bail, C. A. (2020). Computational Social Science and Sociology. Annual Review of Sociology, 46(1).](https://doi.org/10.1146/annurev-soc-121919-054621)
 
   
 ### NOTICE: All of the recommendations are based on our experience; therefore they can be highly subjective. We do not argue that the packages&approaches we are 
