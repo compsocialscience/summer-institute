@@ -115,7 +115,7 @@ simply copy it from your browser. However, you should open the [inspector](https
 
 • Extract information from the pages.
 
-• Assign each <p> element to a row in a data.table. 
+• Assign each < p > element to a row in a data.table. 
    
 • Create date, group, title and URL variables in your data. 
    
