@@ -16,11 +16,11 @@
   events: 
       - name: "Networking"
         time: "19:30-20:00"
-      - name: "Getting data via APIs (Twitter, Youtube)"
+      - name: "Getting data via APIs (Twitter)"
         time: "20:00-21:00"
       - name: "Short Break"
         time: "21:00-21:10"  
-      - name: "Getting data with Screen Scraping(Facebook,Instagram, Eksisozluk, Reddit)"
+      - name: "Getting data with Screen Scraping(Facebook,Instagram, Eksisozluk)"
         time: "21:10-22:00"
       - name: "Networking"
         time: "22:00-22:30"       
@@ -28,19 +28,19 @@
       - name: "Related SICSS Learning Material: [Day 2-Collecting Digital Trace Data](https://sicss.io/curriculum)"
 
 - date: 2021-06-02
-  name: Q&A Session on Task 1 and 2
+  name: Code Walkthrough on Task 1 and 2
   events: 
       - name: "Networking"
         time: "19:30-20:00"
-      - name: "Q&A on APIs"
+      - name: "Getting data from YouTube and Reddit"
         time: "20:00-21:00"
       - name: "Short Break"
         time: "21:00-21:10"  
-      - name: "Q&A on Screen Scraping"
+      - name: "Q&A on Collecting Digital Trace Data"
         time: "21:10-22:00"
       - name: "Networking"
         time: "22:00-22:30"       
-      - name: "[Replication Codes](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Codes%20for%20Code-Through%20Session%201-2_2021.Rmd)"
+      - name: "[Replication Codes](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Reddit%20and%20Youtube.Rmd)"
       - name: "Related SICSS Learning Material: [Day 2-Collecting Digital Trace Data](https://sicss.io/curriculum)"
 
       
