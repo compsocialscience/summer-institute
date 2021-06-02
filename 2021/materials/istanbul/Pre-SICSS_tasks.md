@@ -41,8 +41,11 @@ We thought that completing a whole data project before SICSS would make you read
 Every data project generally has four critical milestones. These are:
 
 • Data collection (using APIs or scraping)
+
 • Data cleaning
+
 • Data analysis
+
 • Reporting 
 
 We created 5 tasks for you. First, you will collect data from the web. You may choose a website or a social media platform as a datasource. Depending on your 
