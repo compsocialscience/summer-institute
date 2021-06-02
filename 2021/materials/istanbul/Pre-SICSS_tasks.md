@@ -5,9 +5,7 @@
 Pre-SICSS tasks require basic knowledge of R. Therefore, we are assuming that you finished [SICSS Boot Camp](https://sicss.io/boot_camp/) which is an online 
 training program designed to provide you with beginner level skills in coding. The videos and materials are designed for complete beginners and are best viewed as 
 a sequence since each video builds upon content introduced in previous tutorials. After you complete the tutorials, you are ready to learn [SICSS Lecture 
-Materials](https://sicss.io/curriculum). [SICSS Lecture Materials](https://sicss.io/curriculum) provides state-of-the art training in a range of different areas in 
-computational social science from ethics to text analysis and mass collaboration. You can find videos, slides, code, and teaching exercises. These lectures also 
-assume a basic, working knowledge of the R language.
+Materials](https://sicss.io/curriculum) which provides state-of-the art training in a range of different areas in computational social science from ethics to text analysis and mass collaboration. You can find videos, slides, code, and teaching exercises. These lectures also assume a basic, working knowledge of the R language.
 
 When it comes to our Pre-SICSS tasks, we provide you with practical experience of Day 2 (Collecting Digital Trace Data) and Day 3(Automated Text Analysis) of 
 [SICSS Lecture Materials](https://sicss.io/curriculum). In our Pre-SICSS tasks, we are extending Day 2 and 3 exercises, and providing more time to finish them 
