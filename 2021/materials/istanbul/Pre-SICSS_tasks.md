@@ -56,8 +56,7 @@ are expected to clean, manipulate and report the data you obtained from the web.
 
 ## Task 1 - Data collection: API (First Week: Monday - Wednesday)
 
-In the digital age, collecting data is more accessible than conventional social science methods. You can literally gather [digital trace data]
-(https://www.youtube.com/watch?v=uuSWQN7uYhk) while you are sleeping! The Internet is full of data and waiting for you to collect them.
+In the digital age, collecting data is more accessible than conventional social science methods. You can literally gather [digital trace data](https://www.youtube.com/watch?v=uuSWQN7uYhk) while you are sleeping! The Internet is full of data and waiting for you to collect them.
 
 One of the common data collection methods is using [Application Programming Interfaces](https://www.youtube.com/watch?v=jde_c7pB5U8&feature=youtu.be). Most of the 
 social networking platforms such as [Twitter](https://developer.twitter.com/en), [YouTube](https://developers.google.com/youtube) and [Facebook](https://developers.facebook.com/) provides their data with an API. To use an [API](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/apis/Rpres/APIs.html#/), you should obtain credentials and comply with the terms of service.
@@ -129,7 +128,9 @@ simply copy it from your browser. However, you should open the [inspector](https
 
 ### Required Packages: 
 • [rvest](https://rvest.tidyverse.org/articles/rvest.html), 
+   
 • [RSelenium](https://cran.r-project.org/web/packages/RSelenium/vignettes/basics.html), 
+   
 • [data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html)
 
 
