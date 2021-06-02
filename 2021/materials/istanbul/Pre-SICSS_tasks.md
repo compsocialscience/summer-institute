@@ -22,16 +22,10 @@ difficulty, instead of immediately asking it, you should try to solve your probl
 
 We are listing some helpful links you would need to look at while solving our tasks: 
 
-- [R Studio Education](https://education.rstudio.com/) is a great place to start to learn R. No one is born a data scientist. Every person who works with R today 
-   was once a complete beginner. No matter how much you know about the R ecosystem already, you’ll always have more to learn.
-- [SICSS Boot Camp](https://sicss.io/boot_camp/) is an online training program designed to provide you with beginner level skills in coding so that you can follow 
-  the more advanced curriculum we teach at the partner locations of the Summer Institutes in Computational Social Science. The videos and materials are designed  
-  for complete beginners and are best viewed as a sequence since each video builds upon content introduced in previous tutorials.
-- [SICSS Lecture Materials](https://sicss.io/curriculum) provides state-of-the art training in a range of different areas in computational social science from 
-  ethics to text analysis and mass collaboration. You can find videos, slides, code, and teaching exercises. These lectures assume a basic, working knowledge of  
-  the R language. Therefore, before watching the videos, 
-- [Alternative Curriculum](https://github.com/compsocialscience/summer-institute/blob/master/_data/alternative_curriculum.md) is produced by organizers of SICSS  
-  partner sites to serve the needs of different audiences. 
+- [R Studio Education](https://education.rstudio.com/) is a great place to start to learn R. No one is born a data scientist. Every person who works with R today was once a complete beginner. No matter how much you know about the R ecosystem already, you’ll always have more to learn.
+- [SICSS Boot Camp](https://sicss.io/boot_camp/) is an online training program designed to provide you with beginner level skills in coding so that you can follow the more advanced curriculum we teach at the partner locations of the Summer Institutes in Computational Social Science. The videos and materials are designed for complete beginners and are best viewed as a sequence since each video builds upon content introduced in previous tutorials.
+- [SICSS Lecture Materials](https://sicss.io/curriculum) provides state-of-the art training in a range of different areas in computational social science from ethics to text analysis and mass collaboration. You can find videos, slides, code, and teaching exercises. These lectures assume a basic, working knowledge of the R language. Therefore, before watching the videos, 
+- [Alternative Curriculum](https://github.com/compsocialscience/summer-institute/blob/master/_data/alternative_curriculum.md) is produced by organizers of SICSS partner sites to serve the needs of different audiences. 
 
 ## Data Project Steps 
 
