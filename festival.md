@@ -26,11 +26,11 @@ __Open to:__ Unlimited registered participants
 
 __Time:__ Friday, June 25, 2021. 9am-1pm EDT
 
-__Speakers:__ [Abullah Almaatouq (MIT Sloan, Empirica founder & developer)](http://www.amaatouq.com/), [Joshua Becker (UCL School of Management, tutorial author)](https://www.joshua-becker.com/), and [Sam Dupret (UCL School of Management, tutorial author)](https://www.mgmt.ucl.ac.uk/people/samueldupret)
+__Speakers:__ [Abullah Almaatouq](http://www.amaatouq.com/) (MIT Sloan, Empirica founder & developer), [Joshua Becker](https://www.joshua-becker.com/) (UCL School of Management, tutorial author), and [Sam Dupret](https://www.mgmt.ucl.ac.uk/people/samueldupret) (UCL School of Management, tutorial author)
 
 __Description:__ This is a self-guided, do-it-yourself workshop that will get you up and running with virtual lab experiments.  Empirica is a platform built on ReactJS, but participants do not need to know javascript to complete the tutorial. Our tutorial is designed to be self-sufficient for anyone with strong coding skills who can learn on the go.  Knowledge of basic HTML is helpful.  Participants will first watch a set of [introductory videos](https://youtube.com/playlist?list=PLPQelvUwyVgiawBDk3Sp74QMfL8RPgORW) (about 10 mins) that provide a conceptual overview.  Participants will then proceed through a [written tutorial](https://docs.empirica.ly/guides/tutorial-your-first-experiment) that will walk them step-by-step through building a multi-player experiment with chatrooms and automated bots. Faculty members will be available in Slack during the workshop period to help participants through the workshop, answer technical questions. Participants who complete the tutorial early are welcome to stick around and pose any questions on their mind about topics like data collection and subject recruitment. Outside the workshop period, the Empirica community slack remains available for general discussion and questions both with the faculty and other community members. While Empirica can run on Windows, we strongly recommend a Linux/MacOS terminal and these will be made available upon request.
 
-__References:__
+__References:__ <br />
 https://link.springer.com/article/10.3758/s13428-020-01535-9  <br />
 https://www.youtube.com/watch?v=4AoSohMmv_Y&list=PLPQelvUwyVgiawBDk3Sp74QMfL8RPgORW&index=13  <br />
 https://docs.empirica.ly/guides/tutorial-your-first-experiment  <br />
