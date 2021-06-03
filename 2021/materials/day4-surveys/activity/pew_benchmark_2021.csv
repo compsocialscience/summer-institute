@@ -1,4 +1,4 @@
-﻿qid,label,estimate,source,start_date
+﻿qid,label,pew_estimate,source,start_date
 twitter,Please tell me if you ever use any of the following. Do you ever use... ,0.232323232,https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2021/04/PI_2021.04.07_Social-Media-Use_TOPLINE.pdf,25-Jan-21
 instagram,Please tell me if you ever use any of the following. Do you ever use... ,0.4,https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2021/04/PI_2021.04.07_Social-Media-Use_TOPLINE.pdf,25-Jan-21
 facebook,Please tell me if you ever use any of the following. Do you ever use... ,0.69,https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2021/04/PI_2021.04.07_Social-Media-Use_TOPLINE.pdf,25-Jan-21
