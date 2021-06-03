@@ -3,15 +3,15 @@
 - date: 2021-05-30
   name:  Welcome Event
   events:
-    - name: "18:00-19:00 Zoom Welcome session and the commencement of the pre-SICSS period."
+    - name: "18:00-19:00 Zoom Welcome session and the commencement of the pre-SICSS period"
 
 - date: "Pre-SICSS Period: Completing a whole data project"
   events:
     - name: "**[Pre-SICSS Tasks](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS_tasks.md)**<br/>This 2-week pre-SICSS period will feature a number of essential computational social science readings, along with programming foundation modules to bridge everyone’s diverse skill set. Even if you have excellent programming skills, please go along with us through this period, so that when the actual SICSS begins, you’ll already have a good sense of common problems and skill sets, so that you can get an understanding of who to partner with during the second week of SICSS, where groups will come up with their own research questions and work on it for an entire week."
-    - name: "**Code Walkthrough Sessions**<br/> While working Pre-SICSS tasks, coding walkthrough sessions will be held on our tasks. Participants will have a chance to replicate the codes on their desk to improve their coding experience."
+    - name: "**[Code Walkthrough Sessions](https://github.com/compsocialscience/summer-institute/tree/master/2021/materials/istanbul)**<br/> While working Pre-SICSS tasks, coding walkthrough sessions will be held on our tasks. Participants will have a chance to replicate the codes on their desk to improve their coding experience."
 
 - date: 2021-05-31
-  name: "Code Walkthrough: Collecting Digital Trace Data - 1" 
+  name: "Code Walkthrough: Collecting Digital Trace Data-1" 
   events: 
       - name: "19:30-20:00 Networking on Wonder"
       - name: "20:00-21:00 Getting data via APIs (Twitter)"
@@ -22,7 +22,7 @@
       - name: "SICSS Learning Material: [Day 2-Collecting Digital Trace Data](https://sicss.io/curriculum)"
 
 - date: 2021-06-02
-  name: "Code Walkthrough: Collecting Digital Trace Data - 2"
+  name: "Code Walkthrough: Collecting Digital Trace Data-2"
   events: 
       - name: "19:30-20:00 Networking on Wonder"
       - name: "20:00-21:00 Getting data from YouTube and Reddit"
@@ -172,20 +172,6 @@
   name: Group Projects Presentations and Farewell
   events:
     - name: "17:00-20:00 Group Projects Presentations"
-    
-    
- 
- 
- 
-
- 
-
-
- 
-
-
- 
-
 
 
  
