@@ -6,13 +6,13 @@
     - name: "Zoom Welcome session and the commencement of the pre-SICSS period."
       time: "18:00-19:00"
 
-- date: "Pre-SICSS Period: Coding and Reading Tasks"
+- date: "Pre-SICSS Period: Completing a whole data project"
   events:
     - name: "**[Pre-SICSS Tasks](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS_tasks.md)**<br/>This 2-week pre-SICSS period will feature a number of essential computational social science readings, along with programming foundation modules to bridge everyone’s diverse skill set. Even if you have excellent programming skills, please go along with us through this period, so that when the actual SICSS begins, you’ll already have a good sense of common problems and skill sets, so that you can get an understanding of who to partner with during the second week of SICSS, where groups will come up with their own research questions and work on it for an entire week."
     - name: "**Code Walkthrough Sessions**<br/> While working Pre-SICSS tasks, coding walkthrough sessions will be held on our tasks. Participants will have a chance to replicate the codes on their desk to improve their coding experience."
 
 - date: 2021-05-31
-  name: Code Walkthrough on Task 1 and 2
+  name: Code Walkthrough: Collecting Digital Trace Data - 1
   events: 
       - name: "Networking"
         time: "19:30-20:00"
@@ -25,10 +25,10 @@
       - name: "Networking"
         time: "22:00-22:30"       
       - name: "[Replication Codes](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Codes%20for%20Code-Through%20Session%201-2_2021.Rmd)"
-      - name: "Related SICSS Learning Material: [Day 2-Collecting Digital Trace Data](https://sicss.io/curriculum)"
+      - name: "SICSS Learning Material: [Day 2-Collecting Digital Trace Data](https://sicss.io/curriculum)"
 
 - date: 2021-06-02
-  name: Code Walkthrough on Task 1 and 2
+  name: Code Walkthrough: Collecting Digital Trace Data - 2
   events: 
       - name: "Networking"
         time: "19:30-20:00"
@@ -41,11 +41,11 @@
       - name: "Networking"
         time: "22:00-22:30"       
       - name: "[Replication Codes](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Reddit%20and%20Youtube.Rmd)"
-      - name: "Related SICSS Learning Material: [Day 2-Collecting Digital Trace Data](https://sicss.io/curriculum)"
+      - name: "SICSS Learning Material: [Day 2-Collecting Digital Trace Data](https://sicss.io/curriculum)"
 
       
 - date: 2021-06-08
-  name: Code Walkthrough Session on Task 3
+  name: Code Walkthrough: Data "Wrangling"
   events: 
       - name: "Networking"
         time: "19:30-20:00"
@@ -58,11 +58,11 @@
       - name: "Networking"
         time: "22:00-22:30"       
       - name: "[Replication Codes]()"
-      - name: "Related SICSS Learning Material: [Data “Wrangling”](https://sicss.io/boot_camp/)"
+      - name: "SICSS Learning Material: [Data “Wrangling”](https://sicss.io/boot_camp/)"
 
 
 - date: 2021-06-09
-  name: Code Walkthrough Session on Task 4
+  name: Code Walkthrough: Automated Text Analysis
   events: 
       - name: "Networking"
         time: "19:30-20:00"
@@ -75,10 +75,10 @@
       - name: "Networking"
         time: "22:00-22:30"       
       - name: "[Replication Codes]()"
-      - name: "Related SICSS Learning Material: [Day 3-Automated Text Analysis](https://sicss.io/boot_camp/)"
+      - name: "SICSS Learning Material: [Day 3-Automated Text Analysis](https://sicss.io/boot_camp/)"
         
 - date: 2021-06-11
-  name: Code Walkthrough Session on Task 5
+  name: Code Walkthrough: Data Visualization and Reporting
   events: 
       - name: "Networking"
         time: "19:30-20:00"
@@ -91,29 +91,38 @@
       - name: "Networking"
         time: "22:00-22:30"       
       - name: "[Replication Codes]()"
-      - name: "Related SICSS Learning Material: [Visualization-Communicating and Collaborating](https://sicss.io/boot_camp/)"     
+      - name: "SICSS Learning Material: [Visualization-Communicating and Collaborating](https://sicss.io/boot_camp/)"     
         
        
-
 - date: "First Week of ‘Real SICSS’"
   events:
      - name: "**Workshops and Group Discussions**<br/>This week will be full of lectures and small group discussions. We will use the flipped classroom model to follow some of the SICSS curriculum. Additionally, we will organize method workshops with hands-on experience. You will also have speed dating sessions to establish your group for the second week program and you are expected to report your group members and a short description of your group project at the end of the week."
 
 - date: 2021-06-14
-  name: First day of SICSS
+  name: Introduction and Ethics
   events:
-     - name: What is Computational Social Science?
-       time: "17:00-18:00"
-     - name: Coffee Break
-       time: "18:00-18:30"
-     - name: Group discussions on Ethics
-       time: "18:30-20:00"
+     - name: "Welcome again and Evaluation of Pre-SICSS period"
+       time: "17:00-17:30"
+     - name: "Small group discussions: [What is Computational Social Science?](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small_group_discussions.md)
+       time: "17:30-18:00"
+     - name: "Full group discussion: [What is Computational Social Science?](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small_group_discussions.md)"
+       time: "18:00-18:15"
+     - name: "Coffee Break on Wonder"
+       time: "18:15-18:45"
+     - name: "Introduction to [the Ethics group exercise](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_participant.md)"
+       time: "18:45-19:00"
+     - name: "Small group discussions on Ethics: [Case Study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf)"
+       time: "19:00-19:30"
+     - name: "Full group discussion on Ethics"
+       time: "19:30-20:00"
+     - name: "SICSS Learning Material: [Day 1-Introduction and Ethics](https://sicss.io/curriculum)"
        
 - date: 2021-06-15
-  name: Automated Methods of Protest Event Collection 
+  name: Research Talk
   events:
-     - name: "**Tutorial Session by [Erdem Yoruk, Ali Hürriyetoğlu, Fırat Duruşan, Çağrı Yoltar](https://emw.ku.edu.tr/people/)**<br/> Protest event analysis is the most common approach for social movement scholars as it is an unobtrusive and context-sensitive technique that can convert unstructured matter into large volumes of data, in a cross-national, cross-time and cross-issue comparative character. The use of digitized new sources and automated approaches to collect protest events information has accelerated in the 2000s. The selection bias problem, substantial labor costs, and generalizability problems associated with manual coding have constituted the demand conditions for automated methods. What makes automation possible was the big data revolution, which generated vast amounts of news sources digitally available to researchers. Besides, the unprecedented computational power that was built by new generations of processors finally enabled the application of artificial intelligence techniques that had been developed long ago. Henceforth, several very large projects were formed to apply fully or semi-automated methods to collect contentious political event data from news sources, such as GDELT, ICEWS, EMBERS and SPEED, POLCON, and MMAD. In this presentation, we will describe the potentials and challenges of using artificial intelligence to understand social movements and then I will present the new bottom-up methodological approach that has adopted by our European Research Council (ERC) funded project to overcome these challenges."
-       time: "17:00-20:00"
+     - name: "**Title**: Automated Methods of Protest Event Collection"
+     - name: "**Presenters**: [Erdem Yoruk, Ali Hürriyetoğlu, Fırat Duruşan, Çağrı Yoltar](https://emw.ku.edu.tr/people/)"
+     - name: "**Description**: Protest event analysis is the most common approach for social movement scholars as it is an unobtrusive and context-sensitive technique that can convert unstructured matter into large volumes of data, in a cross-national, cross-time and cross-issue comparative character. The use of digitized new sources and automated approaches to collect protest events information has accelerated in the 2000s. The selection bias problem, substantial labor costs, and generalizability problems associated with manual coding have constituted the demand conditions for automated methods. What makes automation possible was the big data revolution, which generated vast amounts of news sources digitally available to researchers. Besides, the unprecedented computational power that was built by new generations of processors finally enabled the application of artificial intelligence techniques that had been developed long ago. Henceforth, several very large projects were formed to apply fully or semi-automated methods to collect contentious political event data from news sources, such as GDELT, ICEWS, EMBERS and SPEED, POLCON, and MMAD. In this presentation, we will describe the potentials and challenges of using artificial intelligence to understand social movements and then I will present the new bottom-up methodological approach that has adopted by our European Research Council (ERC) funded project to overcome these challenges."
      - name: "**[Readings](https://drive.google.com/drive/folders/1odn_5mzw2oC4Ftw4n3Chqypp0LI5wBId?usp=sharing)**"
     
 - date: 2021-06-16
