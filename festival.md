@@ -20,6 +20,8 @@ __Speakers:__ [Kevin Munger](https://polisci.la.psu.edu/people/kmm7999), [Andy G
 
 __Open to:__ Unlimited registered participants
 
+[Register here](https://forms.gle/tRF7ttu4RoQKxfAJ7)
+
 ## Friday <a name="friday"></a>
 
 ### Creating your own virtual lab experiment with Empirica
@@ -39,6 +41,8 @@ __References:__ <br />
 [Empirica tutorial: Your First Experiment](https://docs.empirica.ly/guides/tutorial-your-first-experiment)  <br />
 
 __Open to:__ Unlimited registered participants
+
+[Register here](https://forms.gle/QDgPF25g8P5VJ6te7 )
 
 
 # 2020: Monday, June 22 - Friday, June 26
