@@ -12,7 +12,7 @@
     - name: "**Code Walkthrough Sessions**<br/> While working Pre-SICSS tasks, coding walkthrough sessions will be held on our tasks. Participants will have a chance to replicate the codes on their desk to improve their coding experience."
 
 - date: 2021-05-31
-  name: Code Walkthrough: Collecting Digital Trace Data - 1
+  name: "Code Walkthrough: Collecting Digital Trace Data - 1" 
   events: 
       - name: "Networking"
         time: "19:30-20:00"
@@ -28,7 +28,7 @@
       - name: "SICSS Learning Material: [Day 2-Collecting Digital Trace Data](https://sicss.io/curriculum)"
 
 - date: 2021-06-02
-  name: Code Walkthrough: Collecting Digital Trace Data - 2
+  name: "Code Walkthrough: Collecting Digital Trace Data - 2"
   events: 
       - name: "Networking"
         time: "19:30-20:00"
@@ -45,7 +45,7 @@
 
       
 - date: 2021-06-08
-  name: Code Walkthrough: Data "Wrangling"
+  name: "Code Walkthrough: Data Wrangling"
   events: 
       - name: "Networking"
         time: "19:30-20:00"
@@ -62,7 +62,7 @@
 
 
 - date: 2021-06-09
-  name: Code Walkthrough: Automated Text Analysis
+  name: "Code Walkthrough: Automated Text Analysis"
   events: 
       - name: "Networking"
         time: "19:30-20:00"
@@ -78,7 +78,7 @@
       - name: "SICSS Learning Material: [Day 3-Automated Text Analysis](https://sicss.io/boot_camp/)"
         
 - date: 2021-06-11
-  name: Code Walkthrough: Data Visualization and Reporting
+  name: "Code Walkthrough: Data Visualization and Reporting"
   events: 
       - name: "Networking"
         time: "19:30-20:00"
@@ -103,7 +103,7 @@
   events:
      - name: "Welcome again and Evaluation of Pre-SICSS period"
        time: "17:00-17:30"
-     - name: "Small group discussions: [What is Computational Social Science?](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small_group_discussions.md)
+     - name: "Small group discussions: [What is Computational Social Science?](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small_group_discussions.md)"
        time: "17:30-18:00"
      - name: "Full group discussion: [What is Computational Social Science?](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small_group_discussions.md)"
        time: "18:00-18:15"
@@ -126,22 +126,24 @@
      - name: "**[Readings](https://drive.google.com/drive/folders/1odn_5mzw2oC4Ftw4n3Chqypp0LI5wBId?usp=sharing)**"
     
 - date: 2021-06-16
-  name: Microgeography of Ethnic Enclaves 
-  events:
-     - name: "**Tutorial Session by [Özge Öner](https://www.landecon.cam.ac.uk/directory/ozge-oner-dr)**<br/> TBA"
-       time: "17:00-20:00"
+  name: Research Talk
+  events: 
+     - name: "**Title**: Microgeography of Ethnic Enclaves"
+     - name: "**Presenter**: [Özge Öner](https://www.landecon.cam.ac.uk/directory/ozge-oner-dr)"
        
 - date: 2021-06-17
-  name: Characterizing the Nature of Online Political Conversations at Scale 
+  name: Research Talk
   events:
-      - name: "**Tutorial Session by [Ceren Budak](http://cbudak.com/index.html)**<br/> In this talk, I will summarize two studies on citizen participation in political discussions online. In one, I will focus on the substance of such discussions and show how Twitter users frame immigration discourse. I will report on the issue-generic, issue-specific, and narrative frames we identified using supervised learning techniques and show how users' ideology and region impact framing, and how a message's framing influences its audience responses. In the second part of the talk, I will focus on the style of political conversations. Focusing on Reddit this time, I will show how norms of toxicity in political discussions are sustained and reproduced, shaping how citizens engage online."
-        time: "17:00-20:00"
+      - name: "**Title**: Characterizing the Nature of Online Political Conversations at Scale"
+      - name: "**Presenter**: [Ceren Budak](http://cbudak.com/index.html)"
+      - name: "**Description**: In this talk, I will summarize two studies on citizen participation in political discussions online. In one, I will focus on the substance of such discussions and show how Twitter users frame immigration discourse. I will report on the issue-generic, issue-specific, and narrative frames we identified using supervised learning techniques and show how users' ideology and region impact framing, and how a message's framing influences its audience responses. In the second part of the talk, I will focus on the style of political conversations. Focusing on Reddit this time, I will show how norms of toxicity in political discussions are sustained and reproduced, shaping how citizens engage online."
         
 - date: 2021-06-18
-  name: Big Data for Studying Human Migration 
+  name: Research Talk
   events:
-      - name: "**Tutorial Session by [Tuba Bircan](https://www.tubabircan.com/)**<br/> Traditional statistical data on international migration suffers from the problems (gaps) of inconsistency in definitions, differences in geographical coverage, absence of reasons for migration, timeliness and limitations in demographic characteristics. The global-level migration indicators are relatively under-developed; hence, countries are expected to improve capacity to generate timely, reliable, and comparable data on migration to help guide policy makers in devising evidence-based policies and plans of action to tackle migration aspects of the Social Development Goals. Although there is a novel list of potential data sources that could provide valuable, real-time insights, these remain largely understudied for the time being. To be more specific , the data collected or originated by international institutes and the dissemination of this data faces sensitivity obstacles linked to legal terms, purpose of the data, etc. Likewise, some administrative data collected by national and international organisations (e.g. data on recently arrived migrants, percentage of immigrants who have taken part in integration initiatives, longitudinal studies of integration measures) exists but is not available to many researchers and policy-makers. Finally, new sources of data and Big Data (e.g. mobile phone records, social media data, satellite data, etc.) exist and it could be used to fill some of the gaps of the traditional data. There are commercial and/or privacy issues to solve for having access to that data and substantial research and analysis are required before it can meet policy requirements. Overall improving migration data is a crucial step to improving migration governance since better data is needed in order to bring about sustainable social and economic development and national migrant data strategies are needed to inform good policies. This talk will discuss the existing gaps and shortcomings of the international migration statistics and the potential utilisation of Big Data analytics for bridging these gaps. More specifically, mobile phone data, social media data and earth observation data potentials will be explored with specific examples for developing migration indicators for stock and flows as well as some socio-economic integration. Big Data use for humanitarian aid (related to migration and refugees) and the ethical concerns will also be discussed elaborately."
-        time: "17:00-20:00"
+      - name: "**Title**: Big Data for Studying Human Migration "
+      - name: "**Presenter**: [Tuba Bircan](https://www.tubabircan.com/)"
+      - name: "**Description**: Traditional statistical data on international migration suffers from the problems (gaps) of inconsistency in definitions, differences in geographical coverage, absence of reasons for migration, timeliness and limitations in demographic characteristics. The global-level migration indicators are relatively under-developed; hence, countries are expected to improve capacity to generate timely, reliable, and comparable data on migration to help guide policy makers in devising evidence-based policies and plans of action to tackle migration aspects of the Social Development Goals. Although there is a novel list of potential data sources that could provide valuable, real-time insights, these remain largely understudied for the time being. To be more specific , the data collected or originated by international institutes and the dissemination of this data faces sensitivity obstacles linked to legal terms, purpose of the data, etc. Likewise, some administrative data collected by national and international organisations (e.g. data on recently arrived migrants, percentage of immigrants who have taken part in integration initiatives, longitudinal studies of integration measures) exists but is not available to many researchers and policy-makers. Finally, new sources of data and Big Data (e.g. mobile phone records, social media data, satellite data, etc.) exist and it could be used to fill some of the gaps of the traditional data. There are commercial and/or privacy issues to solve for having access to that data and substantial research and analysis are required before it can meet policy requirements. Overall improving migration data is a crucial step to improving migration governance since better data is needed in order to bring about sustainable social and economic development and national migrant data strategies are needed to inform good policies. This talk will discuss the existing gaps and shortcomings of the international migration statistics and the potential utilisation of Big Data analytics for bridging these gaps. More specifically, mobile phone data, social media data and earth observation data potentials will be explored with specific examples for developing migration indicators for stock and flows as well as some socio-economic integration. Big Data use for humanitarian aid (related to migration and refugees) and the ethical concerns will also be discussed elaborately."
       - name: "**[Readings](https://drive.google.com/file/d/1GABVSOjlSqu1l8HgajbzkArmoUTDsfCW/view?usp=sharing)**"
   
 - date: 2021-06-19
@@ -158,32 +160,38 @@
      - name: "**Group Projects and Alumni Sessions**<br/> This week will be focused on group work projects. Up until this date, you should have an idea of which participants you’d like to team up with and the research question that you’ll work on. Teams that people built in previous SICSS_Istanbul events have flourished into full-fledged research groups, presenting their SICSS papers at APSA, ASA and beyond!"
 
 - date: 2021-06-21
-  name: Artificial Intelligence and Data Analytics Ecosystem in the MENA Region 
+  name: Industry Talk
   events:
-     - name: "**Industry Talk with [Doğuş Kuran](https://sicss.io/2021/istanbul/people)**<br/>"
-       time: "17:00-20:00"
+     - name: "**Title**: Artificial Intelligence and Data Analytics Ecosystem in the MENA Region "
+     - name: "**Presenter**: [Doğuş Kuran](https://sicss.io/2021/istanbul/people)"
        
 - date: 2021-06-22
-  name: Natural Language Processing and Applications to Computational Social Science 
+  name: Method Talk 
   events:
-     - name: "**Tutorial Session by [Kemal Oflazer](https://www.andrew.cmu.edu/user/ko/)**<br/> This talk will introduce the participants to basic concepts and techniques of Natural Language Processing in an interactive fashion and will highlight aspect to Turkish that make it a challenge. It will then provide an overview of NLP applications in social sciences."
-       time: "17:00-20:00"
+     - name: "**Title**: Natural Language Processing and Applications to Computational Social Science"
+     - name: "**Presenter**: [Kemal Oflazer](https://www.andrew.cmu.edu/user/ko/)"
+     - name: "**Description**: This talk will introduce the participants to basic concepts and techniques of Natural Language Processing in an interactive fashion and will highlight aspect to Turkish that make it a challenge. It will then provide an overview of NLP applications in social sciences."
+     - name: "17:00-20:00"
        
 - date: 2021-06-23
-  name: Computational Text Analysis with R Walkthrough
+  name: Code Walkthrough
   events:
-      - time: "20:00-23:00"
+     - name: "**Title**: Computational Text Analysis using R"
+     - name: "**Presenter**: [Ahmet Kurnaz](https://sicss.io/2021/istanbul/people)"
+     - name: "20:00-22:00"
       
 - date: 2021-06-24
-  name: Social Media as Spatial Conflict Event Data 
+  name: Book Talk
   events:
-      - time: "20:00-23:00"
-      
+     - name: "**Title**: Social Media as Spatial Conflict Event Data"
+     - name: "**Presenter**: [Akin Unver and Ahmet Kurnaz](https://sicss.io/2021/istanbul/people)"
+     - name: "20:00-22:00"
+     
 - date: 2021-06-25
   name: Research presentations from each group and the final day of SICSS
   events:
     - name: "Presentations"
-      time: "17:00-20:00"
+    - name: "17:00-20:00"
     
     
  
