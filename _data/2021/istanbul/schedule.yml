@@ -3,8 +3,7 @@
 - date: 2021-05-30
   name:  Welcome Event
   events:
-    - name: "Zoom Welcome session and the commencement of the pre-SICSS period."
-      time: "18:00-19:00"
+    - name: "18:00-19:00 Zoom Welcome session and the commencement of the pre-SICSS period."
 
 - date: "Pre-SICSS Period: Completing a whole data project"
   events:
@@ -14,22 +13,22 @@
 - date: 2021-05-31
   name: "Code Walkthrough: Collecting Digital Trace Data - 1" 
   events: 
-      - name: "19:30-20:00 Networking"
+      - name: "19:30-20:00 Networking on Wonder"
       - name: "20:00-21:00 Getting data via APIs (Twitter)"
       - name: "21:00-21:10 Short Break"
       - name: "21:10-22:00 Getting data with Screen Scraping(Facebook,Instagram, Eksisozluk)"
-      - name: "22:00-22:30 Networking"
+      - name: "22:00-22:30 Networking on Wonder"
       - name: "[Replication Codes](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Codes%20for%20Code-Through%20Session%201-2_2021.Rmd)"
       - name: "SICSS Learning Material: [Day 2-Collecting Digital Trace Data](https://sicss.io/curriculum)"
 
 - date: 2021-06-02
   name: "Code Walkthrough: Collecting Digital Trace Data - 2"
   events: 
-      - name: "19:30-20:00 Networking"
+      - name: "19:30-20:00 Networking on Wonder"
       - name: "20:00-21:00 Getting data from YouTube and Reddit"
       - name: "21:00-21:10 Short Break"
       - name: "21:10-22:00 Q&A on Collecting Digital Trace Data"
-      - name: "22:00-22:30 Networking"
+      - name: "22:00-22:30 Networking on Wonder"
       - name: "[Replication Codes](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Reddit%20and%20Youtube.Rmd)"
       - name: "SICSS Learning Material: [Day 2-Collecting Digital Trace Data](https://sicss.io/curriculum)"
 
@@ -37,11 +36,11 @@
 - date: 2021-06-08
   name: "Code Walkthrough: Data Wrangling"
   events: 
-      - name: "19:30-20:00 Networking"
+      - name: "19:30-20:00 Networking on Wonder"
       - name: "20:00-21:00 Data wrangling with data.table package"
       - name: "21:00-21:10 Short Break"
       - name: "21:10-22:00 Data wrangling with dplyr&lubridate packages"
-      - name: "22:00-22:30 Networking"
+      - name: "22:00-22:30 Networking on Wonder"
       - name: "[Replication Codes]()"
       - name: "SICSS Learning Material: [Data “Wrangling”](https://sicss.io/boot_camp/)"
 
@@ -49,22 +48,22 @@
 - date: 2021-06-09
   name: "Code Walkthrough: Automated Text Analysis"
   events: 
-      - name: "19:30-20:00 Networking"
+      - name: "19:30-20:00 Networking on Wonder"
       - name: "20:00-21:00 Text Analysis with quanteda package-1"
       - name: "21:00-21:10 Short Break"
       - name: "21:10-22:00 Text Analysis with quanteda package-2"
-      - name: "22:00-22:30 Networking"
+      - name: "22:00-22:30 Networking on Wonder"
       - name: "[Replication Codes]()"
       - name: "SICSS Learning Material: [Day 3-Automated Text Analysis](https://sicss.io/boot_camp/)"
         
 - date: 2021-06-11
   name: "Code Walkthrough: Data Visualization and Reporting"
   events: 
-      - name: "19:30-20:00 Networking"
+      - name: "19:30-20:00 Networking on Wonder"
       - name: "20:00-21:00 Data Visualization with ggplot2 package"
       - name: "21:00-21:10 Short Break"
       - name: "21:10-22:00 Reporting with markdowns and shiny"
-      - name: "22:00-22:30 Networking"
+      - name: "22:00-22:30 Networking on Wonder"
       - name: "[Replication Codes]()"
       - name: "SICSS Learning Material: [Visualization-Communicating and Collaborating](https://sicss.io/boot_camp/)"     
         
@@ -139,6 +138,7 @@
 - date: 2021-06-21
   name: Industry Talk and Work on Group Projects
   events:
+     - name: "16:00-17:00 Office Hour for Group Projects on Wonder"  
      - name: "17:00-20:00 **Artificial Intelligence and Data Analytics Ecosystem in the MENA Region**"  
      - name: "**[Doğuş Kuran](https://sicss.io/2021/istanbul/people)**"
 
@@ -146,6 +146,7 @@
 - date: 2021-06-22
   name: Method Talk and Work on Group Projects
   events:
+     - name: "16:00-17:00 Office Hour for Group Projects on Wonder"  
      - name: "17:00-20:00 **Natural Language Processing and Applications to Computational Social Science**"
      - name: "**[Kemal Oflazer](https://www.andrew.cmu.edu/user/ko/)**"
      - name: "**Description**: This talk will introduce the participants to basic concepts and techniques of Natural Language Processing in an interactive fashion and will highlight aspect to Turkish that make it a challenge. It will then provide an overview of NLP applications in social sciences."
@@ -154,6 +155,7 @@
 - date: 2021-06-23
   name: Code Walkthrough and Work on Group Projects
   events:
+     - name: "19:00-20:00 Office Hour for Group Projects on Wonder"  
      - name: "20:00-22:00 **Computational Text Analysis using R**"
      - name: "**[Ahmet Kurnaz](https://sicss.io/2021/istanbul/people)**"
 
@@ -161,6 +163,7 @@
 - date: 2021-06-24
   name: Book Talk and Work on Group Projects
   events:
+     - name: "19:00-20:00 Office Hour for Group Projects on Wonder"  
      - name: "20:00-22:00 **Social Media as Spatial Conflict Event Data**"
      - name: "**[Akin Unver and Ahmet Kurnaz](https://sicss.io/2021/istanbul/people)**"
 
