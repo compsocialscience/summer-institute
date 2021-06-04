@@ -16,11 +16,15 @@ More information coming soon.
 
 __Time:__ Thursday, June 24, 2021. 1-2pm EDT
 
-__Speakers:__ [Kevin Munger](https://polisci.la.psu.edu/people/kmm7999), [Andy Guess](https://politics.princeton.edu/people/andrew-m-guess), and [Eszter Hargittai](http://www.eszter.com/)
+__Speakers:__ [Andy Guess](https://politics.princeton.edu/people/andrew-m-guess)(Assistant Professor of Politics and Public Affairs at Princeton), [Eszter Hargittai](http://www.eszter.com/) (Professor of Communication and Media Research at the University of Zurich), and [Jen Pan](http://jenpan.com/) (Assistant Professor of Communication, Political Science and Sociology at Stanford University)
+
+__Moderator:__ [Kevin Munger](https://polisci.la.psu.edu/people/kmm7999) (Assistant Professor of Political Science and Social Data Analytics at Penn State)
+
+__Description:__ We introduce the rationale  for a new peer-reviewed  scholarly  journal,  the Journal of Quantitative  Description: Digital Media. The journal is intended to create  a  new  venue  for  research  on  digital  media  and address several deficiencies  in  the  current  social science   publishing   landscape.  First, descriptive  research  is  undersupplied  and  undervalued. Second, research questions  too  often only reflect  dominant  theories  and received  wisdom. Third,  journals  are  constrained  by  unnecessary  boundaries  defined  by discipline,  geography,  and length.  Fourth,  peer  review  is  inefficient  and unnecessarily  burdensome  for  both  referees  and authors.  We  outline  the journal’s scope and structure, which is open access, fee-free and relies on a Letter of Inquiry (LOI) model. Quantitative description can appeal to social scientists of all stripes  and is a crucial  methodology for understanding the continuing evolution  of  digital  media  and its  relationship  to  important questions of interest to computational social  scientists.
 
 __Open to:__ Unlimited registered participants
 
-[Register here](https://forms.gle/tRF7ttu4RoQKxfAJ7)
+Register here](https://forms.gle/tRF7ttu4RoQKxfAJ7)
 
 ## Friday <a name="friday"></a>
 
@@ -42,7 +46,17 @@ __References:__ <br />
 
 __Open to:__ Unlimited registered participants
 
-[Register here](https://forms.gle/QDgPF25g8P5VJ6te7 )
+[Register here](https://forms.gle/QDgPF25g8P5VJ6te7)
+
+### Title: Using images and video data for social science: Challenges and opportunities
+
+__Time:__ TBA
+
+__Speakers:__ [Bryce Dietrich](http://www.brycejdietrich.com/index.html) (Assistant Professor of Social Science Informatics at the University of Iowa), [Laura Nelson] (Assistant Professor of Sociology at Northeastern University)(http://www.lauraknelson.com/p/blog-page.html), [Michelle Torres](http://smtorres.org/) (Assistant Professor of Political Science at Rice), and [Han Zhang](https://hanzhang.xyz/) (Assistant Professor in Division of Social Science at The Hong Kong University of Science and Technology )
+
+__Moderator:__ [Thomas Davidson](https://www.thomasrdavidson.com/) (Assistant Professor of Sociology at Rutgers University)
+
+__Description:__ Social life is increasingly mediated through images and video and recent advances in machine learning make it possible to analyze these data at scale. It has become commonplace for computational social scientists to work with text and other complex, unstructured data, but we are only just seeing work that uses computational methods to study images and video. This panel focuses on this innovative area of research, exploring how scholars are using such data in cutting-edge research and the technical and ethical challenges involved in such analyses.
 
 
 # 2020: Monday, June 22 - Friday, June 26
