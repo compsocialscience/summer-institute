@@ -24,7 +24,7 @@ __Description:__ We introduce the rationale  for a new peer-reviewed  scholarly 
 
 __Open to:__ Unlimited registered participants
 
-Register here](https://forms.gle/tRF7ttu4RoQKxfAJ7)
+[Register here](https://forms.gle/tRF7ttu4RoQKxfAJ7)
 
 ## Friday <a name="friday"></a>
 
