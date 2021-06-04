@@ -40,12 +40,12 @@ Participants will gain experience with the following activities:
   - Start with our template questionnaire. You will obtain the link for editing access to this template on our Slack workspace.  Make a copy of the template.  The template already contains a consent statement, attention check questions, and questions about demographics.
   - Add your contact information to the consent statement.
   - Fill in section 2 of the template with survey questions from the [Pew Research Center](https://www.pewresearch.org/) about [policy priorities](https://www.pewresearch.org/politics/2021/01/28/economy-and-covid-19-top-the-publics-policy-agenda-for-2021/) and [social media use](https://www.pewresearch.org/internet/2021/04/07/social-media-use-in-2021/).
-  - Within your group, pilot test the questionnaire and confirm that it can be completed within 6 minutes.
+  - Within your group, pilot test the questionnaire and confirm that it can be completed within 7 minutes.
 
 2. Deploy your survey to Amazon Mechanical Turk (30 minutes).
   - You will request a task as "Survey Link".
   - [Here](https://blog.mturk.com/tutorial-getting-great-survey-results-from-mturk-and-google-forms-da4993d878df) is a blog post tutorial on how to a deploy Google Forms questionnaire on MTurk.
-  - We estimate that the survey will take about 6 minutes, and we would like to pay an hourly wage of $15 per hour so you should pay $1.50 per completed survey. When figuring out how many responses you want to collect, please factor in the [MTurk fee](https://www.mturk.com/pricing).
+  - We estimate that the survey will take about 7 minutes, and we would like to pay an hourly wage of $15 per hour so you should pay $1.75 per completed survey. When figuring out how many responses you want to collect, please factor in the [MTurk fee](https://www.mturk.com/pricing).
   - For participants of SICSS-Princeton: We have created MTurk accounts for you to use. Please create your tasks from these accounts with the pre-loaded funds. If you use your own account for data collection, we won't be able to reimburse you.
   - If you do not have funds allocated for MTurk, you can analyze the dataset we collected for you.
 
