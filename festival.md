@@ -48,7 +48,7 @@ __Open to:__ Unlimited registered participants
 
 [Register here](https://forms.gle/QDgPF25g8P5VJ6te7)
 
-### Title: Using images and video data for social science: Challenges and opportunities
+### Using images and video data for social science: Challenges and opportunities
 
 __Time:__ TBA
 
