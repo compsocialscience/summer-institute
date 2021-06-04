@@ -19,7 +19,7 @@ TAs will host office hours through Slack to support you as you work through thes
 
 In order to prepare for SICSS@Hong Kong 2021, you should read Matt Salganik’s book, *[Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com)* ([Read online](https://www.bitbybitbook.com/en/1st-ed/preface/) or purchase from [Amazon](https://www.amazon.com/Bit-Social-Research-Digital-Age/dp/0691158649), [Barnes & Noble](https://www.barnesandnoble.com/w/bit-by-bit-matthew-salganik/1125483924), [IndieBound](https://www.indiebound.org/book/9780691158648), or [Princeton University Press](https://press.princeton.edu/books/paperback/9780691196107/bit-by-bit)). Parts of this book, which is a broad introduction to computational social science, will be review for most of you, but if we all read this book ahead of time, then we can use our time together for more advanced topics.
 
-## Coding Boot Camp
+## Coding Boot Camp (if needed)
 
 The [SICSS Boot Camp](https://sicss.io/boot_camp) is an online training program created by Chris Bail to provide you with beginner level skills in coding so that you can follow the more advanced curriculum we teach at SICSS. The videos and materials are designed for complete beginners and are best viewed as a sequence since each video builds upon content introduced in previous tutorials. If you are already familiar with the topics in these videos, you do not need to complete them.
 
@@ -33,11 +33,11 @@ Please note that the majority of the coding work presented at SICSS@Hong Kong 20
 
 ## Lecture videos
 
-SICSS@Hong Kong 2021 will be using a [flipped classroom model](https://en.wikipedia.org/wiki/Flipped_classroom).  Therefore, you should watch [videos of lectures](https://sicss.io/curriculum) before our meetings, and then we will use our time together for discussion and group activities.
+SICSS@Hong Kong 2021 will be using a **[flipped classroom model](https://en.wikipedia.org/wiki/Flipped_classroom)**.  Therefore, you should watch [videos of lectures](https://sicss.io/curriculum) before our meetings, and then **we will use our time together for discussion and group activities**.
 
 ## Flash talks
 
-It is not a formal research talk, but rather a causal talk about your interests of using computational social science in your field, what kinds of topics you want to work on (one or two concrete examples, trying to draw other participants' interests), and challenges you have faced; 20 minutes max for each participant. Think of this as an opportunity to find collaborators.
+You should prepare a short (20 minutes) talk. It is not a formal research talk, but rather a causal talk about your interests of using computational social science in your field, kinds of topics you want to work on (one or two concrete examples, trying to draw other participants' interests), recent articles you find most exciting about, or challenges you have faced. Think of this as an opportunity to find collaborators.
 
 ## Computing environment
 
