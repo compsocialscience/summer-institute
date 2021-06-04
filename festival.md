@@ -52,7 +52,7 @@ __Open to:__ Unlimited registered participants
 
 __Time:__ TBA
 
-__Speakers:__ [Bryce Dietrich](http://www.brycejdietrich.com/index.html) (Assistant Professor of Social Science Informatics at the University of Iowa), [Laura Nelson] (Assistant Professor of Sociology at Northeastern University)(http://www.lauraknelson.com/p/blog-page.html), [Michelle Torres](http://smtorres.org/) (Assistant Professor of Political Science at Rice), and [Han Zhang](https://hanzhang.xyz/) (Assistant Professor in Division of Social Science at The Hong Kong University of Science and Technology )
+__Speakers:__ [Bryce Dietrich](http://www.brycejdietrich.com/index.html) (Assistant Professor of Social Science Informatics at the University of Iowa), [Laura Nelson](http://www.lauraknelson.com/p/blog-page.html) (Assistant Professor of Sociology at Northeastern University), [Michelle Torres](http://smtorres.org/) (Assistant Professor of Political Science at Rice), and [Han Zhang](https://hanzhang.xyz/) (Assistant Professor in Division of Social Science at The Hong Kong University of Science and Technology)
 
 __Moderator:__ [Thomas Davidson](https://www.thomasrdavidson.com/) (Assistant Professor of Sociology at Rutgers University)
 
