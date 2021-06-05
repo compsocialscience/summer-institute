@@ -25,7 +25,7 @@ SICSS@Hong Kong 2021 will be using a **[flipped classroom model](https://en.wiki
 
 ## Flash talks
 
-You should prepare a short (20 minutes) talk. It is not a formal research talk, but rather a causal talk about your interests of using computational social science in your field, kinds of topics you want to work on (one or two concrete examples, trying to draw other participants' interests), recent articles you find most exciting about, or challenges you have faced. Think of this as an opportunity to find collaborators.
+You should prepare a short (maximum 20 minutes) talk. It does not necessarily have to be a formal research talk. It can be a casual talk about your interests of using computational social science in your field, kinds of topics you want to work on (one or two concrete examples, trying to draw other participants’ interests), recent articles you find most exciting about, or challenges you have faced. Think of this as an opportunity to find collaborators.
 
 
 
