@@ -16,7 +16,7 @@
 - date: 2021-06-07
   name: Introduction à R, RStudio et RMarkdown
   events:
-    - name: "_Vidéos concernées sur Datacamp :_ [Introduction to R](https://learn.datacamp.com/courses/free-introduction-to-r), [Introduction to the Tidyverse](https://learn.datacamp.com/courses/introduction-to-the-tidyverse)"
+    - name: "_Vidéos concernées sur Datacamp :_ [Introduction to R](https://learn.datacamp.com/courses/free-introduction-to-r), [Writing Efficient R Code](https://learn.datacamp.com/courses/writing-efficient-r-code), [Reporting with R Markdown](https://learn.datacamp.com/courses/reporting-with-rmarkdown), [Introduction to the Tidyverse](https://learn.datacamp.com/courses/introduction-to-the-tidyverse)."
     - name: "9:00 - 9:30 Arrivée"
     - name: "9:30 - 11:15 Formation (Zoom)"
     - name: "11:15 - 11:30 Pause (Zoom)"
@@ -26,6 +26,7 @@
 - date: 2021-06-08
   name: Transformation des données
   events:
+    - name: "_Vidéos concernées sur Datacamp :_ [Exploratory Data Analysis in R](https://learn.datacamp.com/courses/exploratory-data-analysis-in-r), [Case Study: Exploratory Data Analysis in R](https://learn.datacamp.com/courses/case-study-exploratory-data-analysis-in-r)"
     - name: "9:00 - 9:30 Debriefing"
     - name: "9:30 - 11:15 Formation (Zoom)"
     - name: "11:15 - 11:30 Pause (Zoom)"
@@ -35,6 +36,7 @@
 - date: 2021-06-09
   name: Visualisation
   events:
+    - name: "_Vidéos concernées sur Datacamp :_ [Introduction to Data Visualization with ggplot2](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-ggplot2), [Intermediate Data Visualization with ggplot2](https://learn.datacamp.com/courses/intermediate-data-visualization-with-ggplot2)."
     - name: "9:00 - 9:30 Debriefing"
     - name: "9:30 - 11:15 Formation (Zoom)"
     - name: "11:15 - 11:30 Pause (Zoom)"
@@ -44,6 +46,8 @@
 - date: 2021-06-10
   name: Modélisation
   events:
+    - name: "_Vidéos concernées sur Datacamp :_ [Introduction to Statistical Modeling in R](https://learn.datacamp.com/courses/introduction-to-statistical-modeling-in-r), [Modeling with Data in the Tidyverse](https://learn.datacamp.com/courses/modeling-with-data-in-the-tidyverse), [Intermediate Statistical Modeling in R](https://learn.datacamp.com/courses/intermediate-statistical-modeling-in-r)."
+    - name: "9:00 - 9:30 Debriefing"."
     - name: "9:00 - 9:30 Debriefing"
     - name: "9:30 - 11:15 Formation (Zoom)"
     - name: "11:15 - 11:30 Pause (Zoom)"
@@ -53,6 +57,7 @@
 - date: 2021-06-11
   name: Programmation / Introduction aux données de texte
   events:
+    #- name: "_Vidéos concernées sur Datacamp :_ [Introduction to R](https://learn.datacamp.com/courses/free-introduction-to-r), [Introduction to the Tidyverse](https://learn.datacamp.com/courses/introduction-to-the-tidyverse)"
     - name: "9:00 - 9:30 Debriefing"
     - name: "9:30 - 11:15 Formation (Zoom)"
     - name: "11:15 - 11:30 Pause (Zoom)"
@@ -63,6 +68,9 @@
   name: Congé
 - date: 2021-06-13
   name: Congé
+  
+- date: "Deuxième semaine : Introduction aux sciences sociales computationnelles et conférenciers invités"
+
 # name: Semaine 2 SICSS - Formation
 - date: 2021-06-14
   name: Introduction, Collecte de données digitales (webscrapping, API)
@@ -114,6 +122,9 @@
   name: Congé
 - date: 2021-06-20
   name: Congé
+  
+- date: "Troisième semaine : Festival SICSS et Projets d'équipes"
+
 # name: "Semaine 3 SICSS - Projets d'équipes"
 - date: 2021-06-21
   name: Formation des équipes
