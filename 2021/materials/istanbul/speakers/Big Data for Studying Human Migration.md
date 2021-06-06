@@ -9,47 +9,47 @@ Traditional statistical data on international migration suffers from the problem
 #### Suggested Readings
 
 • Ahmad-Yar, A. W., & Bircan, T. (2021). Anatomy of a Misfit: International Migration
-Statistics. Sustainability, 13(7), 4032.
+Statistics. Sustainability, 13(7), 4032. <p>
 • Bircan, T., Purkayastha, D., Ahmad-Yar, A.W., Lotter, K., Dello Iakono, C., Göler, D.,
 Stanek, M., & Yilmaz, S., Solano, G., & Ünver, Ö. (2020). Gaps in Migration Research.
 Review of migration theories and the quality and compatibility of migration data on
 the national and international level (Deliverable n°2.1). Leuven: HumMingBird
-project 870661 – H2020.
+project 870661 – H2020. <p>
 • Blumenstock, J.E., Fafchamps, M., Eagle, N. (2015). Airtime transfers and mobile
 communications: Evidence in the aftermath of natural disasters. J. Dev.
-Econ. 120, 157– 181.
+Econ. 120, 157– 181. <p>
 • Böhme, M. H., Gröger, A., Stöhr, T. (2020). Searching for a better life: Predicting
 international migration with online search keywords. Journal of Development
-Economics, Elsevier, vol. 142(C).
+Economics, Elsevier, vol. 142(C). <p>
 • Hughes, C., Zagheni, E., Abel, G., Wiśniowski, A., Sorichetta, A., Weber, I., Tatem, A.J.
 (2016). Inferring Migrations: Traditional Methods and New Approaches Based on
 Mobile Phone, Social Media, and Other Big Data; European Commission: Brussels,
-Belgium.
+Belgium. <p>
 • Oliver, N., et al (2020). Mobile phone data and COVID-19: Missing an opportunity?
-ArXiv:2003.12347 [Cs]. https://arxiv.org/ftp/arxiv/papers/2003/2003.12347.pdf
+ArXiv:2003.12347 [Cs]. https://arxiv.org/ftp/arxiv/papers/2003/2003.12347.pdf <p>
 • Pepe, E., et al. (2020). COVID-19 outbreak response: a first assessment of mobility
 changes in Italy following national lockdown. medRxiv. doi:
-10.1101/2020.03.22.20039933.
+10.1101/2020.03.22.20039933. <p>
 • Quinn, J.A., Nyhan, M.N., Navarro, C., Coluccia, D., Bromley, L. and Oroz. M.L. (2018).
 Humanitarian applications of machine learning with remote-sensing data: review
 and case study in refugee settlement mapping. Philosophical Transactions of the
 Royal Society A: Mathematical, Physical and Engineering Sciences,
-376(2128):20170363.
+376(2128):20170363. <p>
 • Ruktanonchai, N.W. et al. (2020). Assessing the impact of coordinated COVID-19 exit
-strategies across Europe. Science.
+strategies across Europe. Science. <p>
 • Salah, A.A., Pentland, A., Lepri, B. & Letouzé, E. (2019) .Guide to Mobile Data
-Analytics in Refugee Scenarios. Springer.
+Analytics in Refugee Scenarios. Springer. <p>
 • Sîrbu, A., Andrienko, G., Andrienko, N. et al. Human migration: the big data
-perspective. Int J Data Sci Anal (2020). doi: 10.1007/s41060-020-00213-5
+perspective. Int J Data Sci Anal (2020). doi: 10.1007/s41060-020-00213-5 <p>
 • State, B., Rodriguez, M., Helbing, D., Zagheni, E. (2014). Migration of professionals to
-the U.S.— evidence from Linkedln data, Social Informatics, 531-274.
+the U.S.— evidence from Linkedln data, Social Informatics, 531-274. <p>
 • Taylor, L., & Meissner, F. (2019). A crisis of opportunity: Market-making, big data,
-and the consolidation of migration as risk. Antipode, 52(1), 270–290.
+and the consolidation of migration as risk. Antipode, 52(1), 270–290. <p>
 • Vinceti, M. et al. (2020). Lockdown timing and efficacy in controlling COVID-19 using
-mobile 257 phone tracking. EClinicalMedicine. doi:10.1016/j.eclinm.2020.100457
+mobile 257 phone tracking. EClinicalMedicine. doi:10.1016/j.eclinm.2020.100457 <p>
 • Zagheni, E., Weber, I. (2012). You are where you e-mail: using e-mail data to
-estimate international migration rates. In WebSci, pages 348-351.
+estimate international migration rates. In WebSci, pages 348-351. <p>
 • Zagheni, E., V.R.K. Garimella, I. Weber, & B. State. (2014). “Inferring international
 and internal migration patterns from twitter data.” In Proceedings of the companion
 publication of the 23rd international conference on World wide web companion,
-439–444. International World Wide Web Conferences Steering Committee.
+439–444. International World Wide Web Conferences Steering Committee. <p>
