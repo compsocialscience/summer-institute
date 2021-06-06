@@ -1,4 +1,4 @@
-### Big Data for Studying Human Migration\
+### Big Data for Studying Human Migration
 
 ### Tuba Bircan
 
