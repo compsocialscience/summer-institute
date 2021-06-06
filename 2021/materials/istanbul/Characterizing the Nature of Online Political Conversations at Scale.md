@@ -1,6 +1,6 @@
 ### Characterizing the Nature of Online Political Conversations at Scale
 
-### Ceren Budak
+### [Ceren Budak](http://cbudak.com/index.html)
 
 #### Abstract
 
