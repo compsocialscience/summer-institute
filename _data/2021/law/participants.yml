@@ -64,9 +64,6 @@ She holds a Master's Degree in Economics of International Institutions and a Bac
   bio: "Noam Kolt is a doctoral candidate at the University of Toronto Faculty of Law. His research focuses on contract law, computational text analysis, and the governance of artificial intelligence. Noam was appointed an inaugural Schwartz Reisman Institute for Technology and Society Graduate Fellow and held an Ethics of AI Graduate Research Fellowship at the University of Toronto Centre for Ethics. Noam’s scholarship has been published or is forthcoming in the Berkeley Technology Law Journal, Yale Law & Policy Review, International Journal of Constitutional Law, and Melbourne University Law Review."
   website: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3448175
   
-- name: Sandra Hahn
-  bio: "I am a PhD candidate in Economic Sociology at the Lisbon School of Economics and Management (ISEG), which is part of the University of Lisbon. I studied Journalism and I have a Master's Degree in Latin America Studies with concentration in Political Science." 
-
 - name: Siyun Jiang
   image: /assets/images/SiyunJiang.jpg
   bio: "Siyun is a Ph.D. candidate in the Department of Government and an M.A. in Statistics student in the Department of Statistics and Data Science at the University of Texas at Austin. She broadly studies political economy and judicial politics with causal inference methods and text analysis. Her dissertation is on the impact of political centralization and local bureaucratic resistance in China’s judicial system. Before joining in UT, she lived and studied in Mainland China, Taiwan, Thailand and Hong Kong."
@@ -81,4 +78,8 @@ She holds a Master's Degree in Economics of International Institutions and a Bac
   image: /assets/images/WuHao.png
   bio: "Wu Hao is a PhD student in the Department of Computing Science at the University of Aberdeen. His research focuses on automatising the justification process of the query result in an argumentation system and optimising the efficiency of related algorithms.  His interests also lie in functional programming and data analysis."
   website:
+  
+- name: Sandra Hahn
+  bio: "I am a PhD candidate in Economic Sociology at the Lisbon School of Economics and Management (ISEG), which is part of the University of Lisbon. I studied Journalism and I have a Master's Degree in Latin America Studies with concentration in Political Science." 
+
  
