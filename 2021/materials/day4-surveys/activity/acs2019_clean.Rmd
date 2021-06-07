@@ -1,7 +1,7 @@
 ---
 title: "ACS 2019 Data Cleaning"
 author: "Lai Wei ^[based on codes by Cambria Naslund and Janet Xu]"
-date: "05/28/2021"
+date: "06/07/2021"
 output: html_document
 ---
 
@@ -21,24 +21,16 @@ acs <- read.csv("/Users/weilai/Downloads/usa_00001.csv")
 #   REGION 	        Region code
 #   PERWT 	        Person weight
 #   AGE 	          Age
-#   EDUC 	          Educational attainment
 #   SEX 	          Sex
 #   HISPAN      	  Recoded detailed Hispanic origin
 #   RACE          	Recoded detailed race code
 # select relevant variables
-acs <- acs %>% select(REGION,PERWT,AGE,EDUC,SEX,HISPAN,RACE)
+acs <- acs %>% select(REGION,PERWT,AGE,SEX,HISPAN,RACE)
 # rename variables
-colnames(acs) <- c("region", "perwt", "age", "educ", "sex", "hisp", "race")
+colnames(acs) <- c("region", "perwt", "age", "sex", "hisp", "race")
 # recode variables using IPUMS codebook
 ## matching to variables/labels/categories from survey activity
 acs <- acs %>% mutate(sex = recode(sex, `1`="Male", `2`="Female"),
-                      educ = recode(educ,
-                                    `6`="high school graduate", 
-                                    `7` = "some college or associate's degree", `8`= "some college or associate's degree", 
-                                    `9`="some college or associate's degree", 
-                                    `10`="bachelor's degree", 
-                                    `11`="postgraduate or professional degree",
-                                    .default = "no high school diploma"),
                       hisp = recode(hisp, `0` = "not spanish/hispanic/latino",`9`="not spanish/hispanic/latino", .default = "hispanic"), 
                       race = recode(race, `1` = "white", 
                                     `2` = "black", 
@@ -65,9 +57,9 @@ acs <- acs %>% mutate(race = as.factor(
   ifelse(hisp == "hispanic", "hispanic", 
          race)))
 # calculate population of each demographic group
-## group by sex, age_cat, race, educ, and region
+## group by sex, age_cat, race, and region
 ## sum perwt (person weights) to get POP
-acs_grouped <- acs %>% group_by(sex, age_cat, race, educ, region) %>%
+acs_grouped <- acs %>% group_by(sex, age_cat, race, region) %>%
   summarise(POP = sum(perwt))
 # check total population (these should match)
 sum(acs_grouped$POP) 
