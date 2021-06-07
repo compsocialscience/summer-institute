@@ -10,6 +10,22 @@ The SICSS Festival is a series of online events such as tutorials, panel discuss
 
 More information coming soon.
 
+## Tuesday <a name="tuesday"></a>
+
+### Using images and video data for social science: Challenges and opportunities
+
+__Time:__ Tuesday, June 22, 2021. 11am-12pm EDT
+
+__Speakers:__ [Bryce Dietrich](http://www.brycejdietrich.com/index.html) (Assistant Professor of Social Science Informatics at the University of Iowa), [Laura Nelson](http://www.lauraknelson.com/p/blog-page.html) (Assistant Professor of Sociology at Northeastern University), [Michelle Torres](http://smtorres.org/) (Assistant Professor of Political Science at Rice), and [Han Zhang](https://hanzhang.xyz/) (Assistant Professor in Division of Social Science at The Hong Kong University of Science and Technology)
+
+__Moderator:__ [Thomas Davidson](https://www.thomasrdavidson.com/) (Assistant Professor of Sociology at Rutgers University)
+
+__Description:__ Social life is increasingly mediated through images and video and recent advances in machine learning make it possible to analyze these data at scale. It has become commonplace for computational social scientists to work with text and other complex, unstructured data, but we are only just seeing work that uses computational methods to study images and video. This panel focuses on this innovative area of research, exploring how scholars are using such data in cutting-edge research and the technical and ethical challenges involved in such analyses.
+
+__Open to:__ Unlimited registered participants
+
+[Register here](https://forms.gle/FaBQ1afa9nNdAppw8)
+
 ## Thursday <a name="thursday"></a>
 
 ### Taking Quantitative Description Seriously
@@ -47,16 +63,6 @@ __References:__ <br />
 __Open to:__ Unlimited registered participants
 
 [Register here](https://forms.gle/QDgPF25g8P5VJ6te7)
-
-### Using images and video data for social science: Challenges and opportunities
-
-__Time:__ TBA
-
-__Speakers:__ [Bryce Dietrich](http://www.brycejdietrich.com/index.html) (Assistant Professor of Social Science Informatics at the University of Iowa), [Laura Nelson](http://www.lauraknelson.com/p/blog-page.html) (Assistant Professor of Sociology at Northeastern University), [Michelle Torres](http://smtorres.org/) (Assistant Professor of Political Science at Rice), and [Han Zhang](https://hanzhang.xyz/) (Assistant Professor in Division of Social Science at The Hong Kong University of Science and Technology)
-
-__Moderator:__ [Thomas Davidson](https://www.thomasrdavidson.com/) (Assistant Professor of Sociology at Rutgers University)
-
-__Description:__ Social life is increasingly mediated through images and video and recent advances in machine learning make it possible to analyze these data at scale. It has become commonplace for computational social scientists to work with text and other complex, unstructured data, but we are only just seeing work that uses computational methods to study images and video. This panel focuses on this innovative area of research, exploring how scholars are using such data in cutting-edge research and the technical and ethical challenges involved in such analyses.
 
 
 # 2020: Monday, June 22 - Friday, June 26
