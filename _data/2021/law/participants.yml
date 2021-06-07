@@ -12,6 +12,13 @@
   image: /assets/images/AnnaSekuła.JPG
   bio: "Anna is a PhD candidate in Comparative Analysis of Institutions, Economics and Law at the University of Turin and Collegio Carlo Alberto, Italy. In her work she focuses on the dynamics of change in legal pluralism and studies developments in human and environmental rights litigation across jurisdictions. She is also interested in methodology and philosophy of law and economics." 
   website: 
+  
+- name: Antonella Zarra
+  image: /assets/images/AntonellaZarra.jpeg
+  bio: "Antonella Zarra is a doctoral researcher at Hamburg University within the European Doctorate in Law and Economics (EDLE), a joint programme by Erasmus University Rotterdam, Bologna University and Hamburg University. 
+Her doctoral project deals with the regulation of artificial intelligence. Through the lenses of law and economics, she scrutinizes the economic and legal incentives that would justify any policy intervention in the use of automated decision-making systems, with a specific focus on liability issues, data ownership and AI trustworthiness. Her further research interests include empirical legal studies, sustainability and gender equality.
+She holds a Master's Degree in Economics of International Institutions and a Bachelor's Degree in Economics and Management from Bocconi University, Italy. She was a visiting student at the Chengchi University of Taipei, Taiwan."
+  website: https://scholar.google.com/citations?user=UODicKMAAAAJ&hl=it
 
 - name: Antonio Davola
   image: /assets/images/AntonioDavola.jpeg
@@ -37,6 +44,11 @@
   image: /assets/images/IlyaIlin.jpg
   bio: "Ilya is a Junior Research Fellow in IT Law and Ph.D. student of the School of Law at the Tartu University (Estonia). He holds a Master’s degree in Information Technology Law from the University of Tartu and a Specialist’s degree in Law from the St. Petersburg State Engineering and Economic University (Russia). His area of research concerns the legal aspects of Natural Language Processing (NLP) development. Within research, he explores the application of various NLP techniques and their components, such as speech and voice, in the information technology sphere from the perspective of intellectual property and data protection law. "
   website: https://www.etis.ee/CV/Ilya_Ilin/eng  
+  
+- name: Katharina Luckner
+  image: /assets/images/KatharinaLuckner.jpeg
+  bio: "Katharina is a PhD student at the Institute of Law and Economics, University of Hamburg. She is part of an interdisciplinary research group on international law and behavioral economics. In her dissertation, she is interested in the influence of social movements on international law; she studies the interdependencies of the law, social norms and people through social simulations and experiments."
+  website: 
   
 - name: Łukasz Szoszkiewicz
   image: /assets/images/ŁukaszSzoszkiewicz.jpg
