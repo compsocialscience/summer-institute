@@ -26,7 +26,7 @@ data <- read_csv("https://raw.githubusercontent.com/compsocialscience/summer-ins
 census <- read_csv("https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2021/materials/day4-surveys/activity/2019_acs_data_clean.csv")
 # load pew benchmarks
 pew <- read_csv("https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2021/materials/day4-surveys/activity/pew_benchmark_2021.csv")
-pew <- pew %>% dplyr::select(qid, estimate)
+pew <- pew %>% dplyr::select(qid, pew_estimate)
 ```
 
 \newpage
@@ -41,7 +41,7 @@ First, we'll just take the mean of the whole sample for each question. This appr
 # take the mean of survey responses in mturk data
 ## remove demographic variables (factor vars)
 ## get column means
-mturk_means <- data %>% dplyr::select(-sex, -race, -age_cat, -region, -educ) %>%
+mturk_means <- data %>% dplyr::select(-sex, -race, -age_cat, -region) %>%
   summarise_all(~mean(., na.rm = T)) %>%
 ## reshape from wide to long using tidyr package
 ## with columns for questions (call this qid) and for mean 
@@ -202,7 +202,7 @@ if (sum(population_counts$group_weight) != 1) {
   print("weights don't sum to one")
 }
 ## Step 3: calculate group means for each question response
-sample_counts <- data %>% dplyr::select(-educ) %>%
+sample_counts <- data  %>%
   group_by(sex, region, age_cat, race) %>%
   summarise_all(list(~mean(.,na.rm = T)))
 ## Step 4: check how many empty cells there are
@@ -297,7 +297,7 @@ for (col in colnames(data_factor)) {
 # Now we will regress each survey answer on demographic characteristics and
 # use those model parameters to generate predicted probabilities for each group
 # loop through each survey answer and store each vector of pred.probs
-# in a 160 x 22 matrix 
+# in a 160 x 30 matrix 
 # but first, write a warning function for later to make sure 
 # that all estimates are 0 to 1 inclusive
 prob_range_warning <- function(predictions){
@@ -310,7 +310,7 @@ prob_range_warning <- function(predictions){
 }
 # create a character vector of the 30 question names
 # these question names can be found in the column names of the data
-relevant_questions <- colnames(data)[!colnames(data) %in% c("sex", "age_cat", "region", "race","educ")]
+relevant_questions <- colnames(data)[!colnames(data) %in% c("sex", "age_cat", "region", "race")]
 # create container
 model_predictions <- as.data.frame(matrix(nrow = nrow(population_counts), 
                                           ncol = length(relevant_questions), NA))
