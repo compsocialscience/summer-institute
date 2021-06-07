@@ -1,4 +1,4 @@
-- date: All times are in **Beijing** time
+- date: "All times are in Beijing time"
   
 - date: 2021-06-14
   events:
@@ -43,6 +43,11 @@
     - name: "10:00 - 11:00 Participants' research presentation: Anfan, Anmol, Chao, Zhuo "
     - name: "21:00 - 23:00 YY Ahn speaks at SICSS Beijing + 1:1 meetings"
 
+- date: 2021-06-22
+  events:
+    - name: "9:00 - 11:00 Yi Bu speaks at SICSS Beijing + 1:1 meetings"
+    - name: "21:00 - 21:55 Participants' research presentation: ChengJun, Chenshuo, Guang, Sophie"
+    - name: "22:00 - 22:55 Participants discuss team projects (organized by each team separately; each team can schedule extra meeting/discussion)"
 
 - date: 2021-06-23
   events:
