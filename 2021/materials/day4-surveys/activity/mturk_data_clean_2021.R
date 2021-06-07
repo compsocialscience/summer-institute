@@ -94,12 +94,10 @@ processed <- processed %>% mutate(region = ifelse(state %in% northeast, "northea
                                                                 ifelse(state %in% west, "west", NA))))) %>%
   # drop state for privacy
   dplyr::select(-state)
-# recode educ to match categories in cleaned ACS data
-processed <- processed %>% mutate(educ = recode_factor(educ, "No schooling completed" = "no high school diploma", 
-                                                       "Nursery or Preschool through Grade 12 (no high school diploma)" = "no high school diploma", 
-                                                       "High school graduate (including GED or alternative credential)" = "high school graduate",
-                                                       "Some college or Associate's Degree (for example: AA, AS)" = "some college or associate's degree",
-                                                       "Bachelor's degree (for example: BA, BS)" = "bachelor's degree",
-                                                       "Postgraduate or professional degree, including Master's, Doctorate, medical, or law degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)" = "postgraduate or professional degree"))
-## Step 3: Save cleaned mturk data
+
+
+## Step 3: Remove respondents with missingness in demographics
+processed <- processed %>% drop_na(region,age_cat,race,sex)
+
+## Step 4: Save cleaned mturk data
 write_csv(processed, "2021_clean_mturk_data.csv")
