@@ -23,6 +23,11 @@
   bio: "Elizaveta Evmenova is a PhD student in applied mathematics at Saint Petersburg State University (SPSU) and works at ITMO University. Her research interests include problem of community detection in graph structures, especially attributed networks. Elizaveta also studies analysis of directed signed graphs and node ranking problem of signed graphs. She is also interested in edge predictability classification problem in ordinary graphs."
   website: 
   
+- name: Ksenia Eritsyan
+  image: /assets/images/Eritsyan.jpg
+  bio: "Ksenia Eritsyan is an Associate Professor in Sociology Department at HSE University - Saint-Petersburg and holding a Ph.D. in Social Psychology. She is also affiliated with several NGOs where she's responsible for research activities and integration of their results in prevention interventions."
+  website: https://twitter.com/Ksenia_Eritsyan
+  
 - name: Linna Fu
   image: /assets/images/LinnaFu.PNG
   bio: "Linna Fu is a master student at the Higher School of Economics. She earned one M.Sc. in the Applied Psychology from the Chinese University of Hong Kong (Shenzhen) in 2020. Now her research focuses on the comparative social research about gender inequality and Asian cultural values."
@@ -67,7 +72,17 @@
   image: /assets/images/Rykov.jpg
   bio: "I am a research fellow at the Centre for Population Health Sciences, Nanyang Technological University (Singapore). I have background in quantitative social science, digital health, and internet studies. I am interested in digital phenotyping research using behavioral and physiological data from wearable sensors for detection of cardiometabolic and mental disorders."
   website: https://scholar.google.com/citations?user=hOxcaCcAAAAJ&hl=en
-  
+
+- name: Sangam Kumar Singh
+  image: /assets/images/Singh.jpg
+  bio: "Sangam Kumar Singh is a Product Owner at Ericsson, who works on Zero-Emission Product fulfilling Environmental Commitments for Sustainable Operation, offering Improved Network Connectivity for a Superior User Experience and delivering Substantial Savings. He is also a Professional Member of the British Computer Society (BCS), The Chartered Institute for IT. He has a Double MSc in Big Data Systems and E-Business & Innovation from Higher School of Economics, Russia and Lancaster University, U.K. His past research revolved around Computational Social Science - Social Network Evolution and Social Media link Prediction, and his future interest lies in leveraging Identification Technologies and AI in Social Science."
+  website: https://www.linkedin.com/in/sangamsingh09/
+
+- name: Ilya Sulzhytski
+  image: /assets/images/Sulzhytski.jpg
+  bio: "I am a sociologist, PhD in Sociology from Belarus with the research focus in computational social science and digital sociology, with an interest in memory studies and cultural sociology . I have skills in data science, machine learning, and the Python programming language."
+  website: https://www.facebook.com/ilya.sulzhitsky/
+
 - name: Angelika Tsivinskaya
   image: /assets/images/Tsivinskaya.jpg
   bio: "Angelika Tsivinskaya is a junior researcher in Center for Institutional Analysis of Science & Education, European University at Saint Petersburg (Russia). Her research interest lies at areas such as statistical analysis, science of science and CSS with focus on Higher education institutions."
