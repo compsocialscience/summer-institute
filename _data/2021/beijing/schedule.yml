@@ -1,6 +1,7 @@
 - date: "All times are in Beijing time"
   
 - date: 2021-06-14
+  name: ""
   events:
     - name: "8:00 - 8:25 Introduction and logistics"
     - name: "8:30 - 9:25 Speeding dating"
@@ -8,24 +9,28 @@
     - name: "21:00 - 22:30 Sandy Pentland speaks at SICSS Beijing + Q&A"
 
 - date: 2021-06-15
+  name: ""
   events:
     - name: "8:30 - 9:25 Speeding dating"
     - name: "9:30 - 10:55 Reading group: Machine learning and networks"
     - name: "21:00 - 22:30 Shan Huang speaks at SICSS Beijing + Q&A"
 
 - date: 2021-06-16
+  name: ""
   events:
     - name: "8:30 - 9:25 Speeding dating"
     - name: "9:30 - 10:55 Reading group: Social contagion and collective intelligence"
     - name: "21:00 - 23:00 Nynke Niezink speaks at SICSS Beijing + 1:1 meetings"
 
 - date: 2021-06-17
+  name: ""
   events:
     - name: "8:30 - 9:25 Speeding dating"
     - name: "9:30 - 10:55 Reading group: Misinformation and polorization"
     - name: "21:00 - 23:00 Chris Bail speaks at SICSS Beijing + 1:1 meetings"
     
 - date: 2021-06-18
+  name: ""
   events:
     - name: "8:30 - 9:55 Group project research idea pitch"
     - name: "10:00 - 11:55 Zhiyuan Liu speaks at SICSS Beijing + 1:1 meetings"
@@ -38,29 +43,34 @@
   name: Day off
 
 - date: 2021-06-21
+  name: ""
   events:
     - name: "8:30 - 9:55 Participants discuss team projects (organized by each team separately; each team can schedule extra meeting/discussion)"
     - name: "10:00 - 11:00 Participants' research presentation: Anfan, Anmol, Chao, Zhuo "
     - name: "21:00 - 23:00 YY Ahn speaks at SICSS Beijing + 1:1 meetings"
 
 - date: 2021-06-22
+  name: ""
   events:
     - name: "9:00 - 11:00 Yi Bu speaks at SICSS Beijing + 1:1 meetings"
-    - name: "21:00 - 21:55 Participants' research presentation: ChengJun, Chenshuo, Guang, Sophie"
+    - name: "21:00 - 21:55 Participants' research presentation: Cheng-Jun, Chenshuo, Guang, Sophie"
     - name: "22:00 - 22:55 Participants discuss team projects (organized by each team separately; each team can schedule extra meeting/discussion)"
 
 - date: 2021-06-23
+  name: ""
   events:
     - name: "8:30 - 9:25 Participants discuss team projects (organized by each team separately; each team can schedule extra meeting/discussion)"
     - name: "9:30 - 11:00 Participants' research presentation: Jasmine, Kunru, Sachin, Shengchun, Shiyao, Xiangyu"
     - name: "21:00 - 23:00 Mohsen Mosleh speaks at SICSS Beijing + 1:1 meetings"
 
 - date: 2021-06-24
+  name: ""
   events:
     - name: "8:30 - 9:25 Participants discuss team projects (organized by each team separately; each team can schedule extra meeting/discussion)"
     - name: "9:30 - 11:00 Participants' research presentation: Xiduo, Xin, Yanni, Yingdan, Yiyan, Zhaowen"
     - name: "21:00 - 23:00 Morgan Frank speaks at SICSS Beijing + 1:1 meetings"
 
 - date: 2021-06-25
+  name: ""
   events:
     - name: "8:00 - 11:00 Group project presentation + closing"
