@@ -83,12 +83,7 @@
   bio: “Fuat is a PhD candidate at the Sociology Department of Koç University, and a researcher at the European Commission funded Social ComQuant project. He graduated with a B.S. degree in Economics from Boğaziçi University (2015) and received his master’s degree with quantitative research on the relationship between anti-immigrant attitudes and labor precarity in Europe (2018) from İstanbul Şehir University. He currently works on the relationship between social movements, their targets and social assistance programs. He is interested in advanced quantitative techniques on causal inference.”
   website:
 
-- name: Özgür	Önal
-  image: /assets/images/1vs4ev1qE2GQ4wlvLyiOXiwMel12btsDy.jpeg
-  bio: “Özgür hold a Master of Design degree in Industrial Product Design with the thesis research in the field of “Human Centered Design” and BSc. degree in Computer Science Engineering. He has part-time lectured for the  Information Design course and psychology for the game design course in different universities before.”
-  website: http://products.ozguronal.com/
-
-- name: Oğuzhan	İzmir
-  image: 
-  bio: "Oğuzhan İzmir is a master's student in International Relations. He is interested in the use of computational methods in Border Studies."
-  website: 
+#- name: Oğuzhan	İzmir
+#  image: 
+#  bio: "Oğuzhan İzmir is a master's student in International Relations. He is interested in the use of computational methods in Border Studies."
+#  website: 
