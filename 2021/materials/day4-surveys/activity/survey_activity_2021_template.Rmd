@@ -41,7 +41,7 @@ First, we'll just take the mean of the whole sample for each question. This appr
 # take the mean of survey responses in mturk data
 ## remove demographic variables (factor vars)
 ## get column means
-mturk_means <- data %>% dplyr::select(-sex, -race, -age_cat, -region, -educ) %>%
+mturk_means <- data %>% dplyr::select(-sex, -race, -age_cat, -region) %>%
   summarise_all(~mean(., na.rm = T)) %>%
 ## reshape from wide to long using tidyr package
 ## with columns for questions (call this qid) and for mean 
