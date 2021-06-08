@@ -8,26 +8,25 @@
 - date: "Pre-SICSS Period: Completing a whole data project"
   events:
     - name: "**[Why we have a Pre-SICSS Period?](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS%20Tasks/Introduction.md)**<br/>This 2-week pre-SICSS period will feature a number of essential computational social science readings, along with programming foundation modules to bridge everyone’s diverse skill set. Even if you have excellent programming skills, please go along with us through this period, so that when the actual SICSS begins, you’ll already have a good sense of common problems and skill sets, so that you can get an understanding of who to partner with during the second week of SICSS, where groups will come up with their own research questions and work on it for an entire week."
-    - name: "**[What are Pre-SICSS Tasks?](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS%20Tasks/Introduction.md)**<br/>Pre-SICSS tasks provide you with practical experience of [SICSS Boot Camp](https://sicss.io/boot_camp/), Day 2 (Collecting Digital Trace Data), and Day 3(Automated Text Analysis) of [SICSS Lecture Materials](https://sicss.io/curriculum). We extended Day 2 and 3 exercises and provided more time to finish them individually (or in a group setting), considering different learning curves in our cohort. We believe that learning to code is a unique process for everyone. However, some would see a benefit in solving tasks in a group setting. Therefore, we are leaving the decision of doing our tasks individually or in a group setting to you."
+    - name: "**[What are Pre-SICSS Tasks?](https://github.com/compsocialscience/summer-institute/tree/master/2021/materials/istanbul/Pre-SICSS%20Tasks)**<br/>Pre-SICSS tasks provide you with practical experience of [SICSS Boot Camp](https://sicss.io/boot_camp/), Day 2 (Collecting Digital Trace Data), and Day 3(Automated Text Analysis) of [SICSS Lecture Materials](https://sicss.io/curriculum). We extended Day 2 and 3 exercises and provided more time to finish them individually (or in a group setting), considering different learning curves in our cohort. We believe that learning to code is a unique process for everyone. However, some would see a benefit in solving tasks in a group setting. Therefore, we are leaving the decision of doing our tasks individually or in a group setting to you."
     - name: "**[What are Code Walkthrough Sessions?](https://github.com/compsocialscience/summer-institute/tree/master/2021/materials/istanbul/Replication%20Codes)**<br/> While working on Pre-SICSS tasks, coding walkthrough sessions will be held on our tasks. Thus, participants will have a chance to replicate the codes on their desks to improve their coding experience."
-    - name: "[Task 1 - Data collection via API:](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS%20Tasks/Task%201%20-%20Data%20collection:%20API.md) First Week (Monday - Wednesday)"
-    - name: "[Task 2 - Data collection via Screen Scraping:](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS%20Tasks/Task%202%20-%20Data%20collection:%20Screen%20Scraping.md) First Week (Wednesday - Friday)"
-    - name: "[Task 3 - Data Wrangling:](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS%20Tasks/Task%203%20-%20Data%20Wrangling.md) Second Week (Monday - Tuesday)"
-    - name: "[Task 4 - Text Analysis:](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS%20Tasks/Task%204%20-%20Text%20Analysis.md) Second Week (Wednesday-Thursday)"
-    - name: "[Task 5 - Reporting:](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS%20Tasks/Task%205%20-%20Reporting.md) Second Week (Friday)"
-    - name: "[Suggested Reading List](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS%20Tasks/Task%205%20-%20Reporting.md) Second Week (Friday)"
+    - name: "* [Task 1 - Data collection via API:](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS%20Tasks/Task1_Data-collection-API.md) First Week (Monday - Wednesday)"
+    - name: "* [Task 2 - Data collection via Screen Scraping:](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS%20Tasks/Task2_Data-collection_ScreenScraping.md) First Week (Wednesday - Friday)"
+    - name: "* [Task 3 - Data Wrangling:](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS%20Tasks/Task3_DataWrangling.md) Second Week (Monday - Tuesday)"
+    - name: "* [Task 4 - Text Analysis:](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS%20Tasks/Task4_TextAnalysis.md) Second Week (Wednesday-Thursday)"
+    - name: "* [Task 5 - Reporting:](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS%20Tasks/Task5_Reporting.md) Second Week (Friday)"
+    - name: "* [Suggested Reading List](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS%20Tasks/Reading_List.md)"
 
 - date: 2021-05-31
   name: "Code Walkthrough: Collecting Digital Trace Data-1" 
   events: 
-      - name: "[Task 1](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS%20Tasks/Task%201%20-%20Data%20collection:%20API.md)"
       - name: "19:30-20:00 Networking on Wonder"
       - name: "20:00-21:00 Getting data via APIs (Twitter)"
       - name: "21:00-21:10 Short Break"
       - name: "21:10-22:00 Getting data via Screen Scraping(Facebook,Instagram, Eksisozluk)"
       - name: "22:00-22:30 Networking on Wonder"
-      - name: "[Replication Codes](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Replication%20Codes_Task%201-2.Rmd)"
-      - name: "SICSS Learning Material: [Day 2-Collecting Digital Trace Data](https://sicss.io/curriculum)"
+      - name: "* [Replication Codes](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Replication%20Codes_Task%201-2.Rmd)"
+      - name: "* SICSS Learning Material: [Day 2-Collecting Digital Trace Data](https://sicss.io/curriculum)"
 
 - date: 2021-06-02
   name: "Code Walkthrough: Collecting Digital Trace Data-2"
@@ -37,8 +36,8 @@
       - name: "21:00-21:10 Short Break"
       - name: "21:10-22:00 Q&A on Collecting Digital Trace Data"
       - name: "22:00-22:30 Networking on Wonder"
-      - name: "[Replication Codes](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Replication%20Codes_Reddit-Youtube.Rmd)"
-      - name: "SICSS Learning Material: [Day 2-Collecting Digital Trace Data](https://sicss.io/curriculum)"
+      - name: "* [Replication Codes](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Replication%20Codes_Reddit-Youtube.Rmd)"
+      - name: "* SICSS Learning Material: [Day 2-Collecting Digital Trace Data](https://sicss.io/curriculum)"
 
       
 - date: 2021-06-08
@@ -49,31 +48,31 @@
       - name: "21:00-21:10 Short Break"
       - name: "21:10-22:00 Data wrangling with [data.table package](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html)"
       - name: "22:00-22:30 Networking on Wonder"
-      - name: "[Replication Codes](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Replication%20Codes_Data%20Wrangling.Rmd)"
-      - name: "SICSS Learning Material: [Data “Wrangling”](https://sicss.io/boot_camp/)"
+      - name: "* [Replication Codes](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Replication%20Codes/Data%20Wrangling.Rmd)"
+      - name: "* SICSS Learning Material: [Data “Wrangling”](https://sicss.io/boot_camp/)"
 
 
 - date: 2021-06-09
   name: "Code Walkthrough: Automated Text Analysis"
   events: 
       - name: "19:30-20:00 Networking on Wonder"
-      - name: "20:00-21:00 Text Analysis with quanteda package-1"
+      - name: "20:00-21:00 Text Analysis with [quanteda package](https://quanteda.io/articles/pkgdown/quickstart.html)-1"
       - name: "21:00-21:10 Short Break"
-      - name: "21:10-22:00 Text Analysis with quanteda package-2"
+      - name: "21:10-22:00 Text Analysis with [quanteda package](https://quanteda.io/articles/pkgdown/quickstart.html)-2"
       - name: "22:00-22:30 Networking on Wonder"
-      - name: "[Replication Codes]()"
-      - name: "SICSS Learning Material: [Day 3-Automated Text Analysis](https://sicss.io/boot_camp/)"
+      - name: "* [Replication Codes]()"
+      - name: "* SICSS Learning Material: [Day 3-Automated Text Analysis](https://sicss.io/boot_camp/)"
         
 - date: 2021-06-11
   name: "Code Walkthrough: Data Visualization and Reporting"
   events: 
       - name: "19:30-20:00 Networking on Wonder"
-      - name: "20:00-21:00 Data Visualization with ggplot2 package"
+      - name: "20:00-21:00 Data Visualization with [ggplot2 package](https://ggplot2.tidyverse.org/index.html)"
       - name: "21:00-21:10 Short Break"
-      - name: "21:10-22:00 Reporting with markdowns and shiny"
+      - name: "21:10-22:00 Reporting with [markdowns](https://rmarkdown.rstudio.com/) and [shiny](https://shiny.rstudio.com/)"
       - name: "22:00-22:30 Networking on Wonder"
-      - name: "[Replication Codes]()"
-      - name: "SICSS Learning Material: [Visualization-Communicating and Collaborating](https://sicss.io/boot_camp/)"     
+      - name: "* [Replication Codes]()"
+      - name: "* SICSS Learning Material: [Visualization-Communicating and Collaborating](https://sicss.io/boot_camp/)"     
         
        
 - date: "First Week of ‘Real SICSS’"
@@ -90,16 +89,14 @@
      - name: "18:45-19:00 Introduction to [the Ethics group exercise](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_participant.md)"
      - name: "19:00-19:30 Small group discussions on Ethics: [Case Study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf)"
      - name: "19:30-20:00 Full group discussion on Ethics"
-     - name: "SICSS Learning Material: [Day 1-Introduction and Ethics](https://sicss.io/curriculum)"
+     - name: "* SICSS Learning Material: [Day 1-Introduction and Ethics](https://sicss.io/curriculum)"
        
 - date: 2021-06-15
   name: Research Talk and Research Dating
   events:
      - name: "16:00-17:00 Research Dating on Wonder"
      - name: "17:00-20:00 **Automated Methods of Protest Event Collection** by [Erdem Yoruk, Ali Hürriyetoğlu, Fırat Duruşan, Çağrı Yoltar](https://emw.ku.edu.tr/people/)"
-     - name: "[Abstract](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/speakers/ErdemYoruk.md)"    
-     - name: "[Readings](https://drive.google.com/drive/folders/1odn_5mzw2oC4Ftw4n3Chqypp0LI5wBId?usp=sharing)"
-
+     - name: "* [Abstract](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/speakers/ErdemYoruk.md) & [Readings](https://drive.google.com/drive/folders/1odn_5mzw2oC4Ftw4n3Chqypp0LI5wBId?usp=sharing)"    
      
 - date: 2021-06-16
   name: Research Talk and Research Dating
@@ -112,16 +109,14 @@
   events:
       - name: "16:00-17:00 Research Dating on Wonder"
       - name: "17:00-20:00 **Characterizing the Nature of Online Political Conversations at Scale** by [Ceren Budak](http://cbudak.com/index.html)"
-      - name: "[Abstract](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/speakers/CerenBudak.md)"
+      - name: "* [Abstract](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/speakers/CerenBudak.md)"
       
 - date: 2021-06-18
   name: Research Talk and Research Dating
   events:
       - name: "16:00-17:00 Research Dating on Wonder"
       - name: "17:00-20:00 **Big Data for Studying Human Migration** by [Tuba Bircan](https://www.tubabircan.com/)"
-      - name: "[Abstract](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/speakers/TubaBircan.md)"     
-      - name: "[Readings](https://drive.google.com/file/d/1GABVSOjlSqu1l8HgajbzkArmoUTDsfCW/view?usp=sharing)"
-
+      - name: "* [Abstract and Readings](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/speakers/TubaBircan.md)"     
       
 - date: 2021-06-19
   name: Off Day
@@ -135,22 +130,19 @@
 - date: "Second Week of ‘Real SICSS’"
   events:
      - name: "**Guest Talks**<br/>  We believe that social science research and industry will collaborate more in the future. Computational social science methods allows academic researchers to work closely with industry compared to the past. Therefore, we will organize an industry talk with an eminent figure in Turkish innovation industry to see other side of the coin. Additionally, we will have an eminent figure of Turkish Natural Language Processing to learn the state-of-the-art NLP applications in social sciences."
-     - name: "**Work on Group Projects**<br/> This week will be mainly focused on group work projects. Up until this date, you should have an idea of which participants you’d like to team up with and the research question that you’ll work on. Teams that people built in previous SICSS_Istanbul events have flourished into full-fledged research groups, presenting their SICSS papers at APSA, ASA and beyond!"
+     - name: "**Work on Group Projects and Flash Talks**<br/> This week will be mainly focused on group work projects. Up until this date, you should have an idea of which participants you’d like to team up with and the research question that you’ll work on. Teams that people built in previous SICSS_Istanbul events have flourished into full-fledged research groups, presenting their SICSS papers at APSA, ASA and beyond!"
 
 - date: 2021-06-21
   name: Industry Talk and Work on Group Projects
   events:
      - name: "16:00-17:00 Office Hour and Flash Talks of Group Projects on Wonder"  
-     - name: "17:00-20:00 **Artificial Intelligence and Data Analytics Ecosystem in the MENA Region**"  
-     - name: "**[Doğuş Kuran](https://sicss.io/2021/istanbul/people)**"
-
+     - name: "17:00-20:00 **Artificial Intelligence and Data Analytics Ecosystem in the MENA Region** by [Doğuş Kuran](https://sicss.io/2021/istanbul/people)"  
     
 - date: 2021-06-22
   name: Method Talk and Work on Group Projects
   events:
      - name: "16:00-17:00 Office Hour and Flash Talks of Group Projects on Wonder"  
-     - name: "17:00-20:00 **Natural Language Processing and Applications to Computational Social Science**"
-     - name: "**[Kemal Oflazer](https://www.andrew.cmu.edu/user/ko/)**"
+     - name: "17:00-20:00 **Natural Language Processing and Applications to Computational Social Science by [Kemal Oflazer](https://www.andrew.cmu.edu/user/ko/)"
      - name: "**Description**: This talk will introduce the participants to basic concepts and techniques of Natural Language Processing in an interactive fashion and will highlight aspect to Turkish that make it a challenge. It will then provide an overview of NLP applications in social sciences."
 
        
@@ -158,9 +150,8 @@
   name: Code Walkthrough and Work on Group Projects
   events:
      - name: "19:00-20:00 Office Hour and Flash Talks of Group Projects on Wonder"  
-     - name: "20:00-22:00 **Computational Text Analysis using R**"
-     - name: "**[Ahmet Kurnaz](https://sicss.io/2021/istanbul/people)**"
-
+     - name: "20:00-22:00 **Computational Text Analysis using R** by [Ahmet Kurnaz](https://sicss.io/2021/istanbul/people)"
+     
       
 - date: 2021-06-24
   name: Work on Group Projects
