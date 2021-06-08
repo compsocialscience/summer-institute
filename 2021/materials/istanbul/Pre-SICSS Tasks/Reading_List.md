@@ -1,4 +1,4 @@
-## READING LIST
+## Suggested Reading List
 
 • [Grimmer, J. (2015). We Are All Social Scientists Now: How Big Data, Machine Learning, and Causal Inference Work Together. PS: Political Science & Politics, 
   48(01), 80–83.](https://doi.org/10.1017/S1049096514001784)
