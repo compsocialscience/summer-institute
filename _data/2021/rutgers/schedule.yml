@@ -15,11 +15,12 @@
 - date: 2021-06-15
   name: Collecting Digital Trace Data
   events:
-    - name: "10:00 - 10:15 Logistics and introduction to group exercise"
-    - name: "10:15 - 12:00 Designing a Research Question with Digital Trace Data"
-    - name: "12:00 - 1:00 Small group lunches (optional)"
-    - name: "1:00 - 3:15 Collecting Digital Trace Data"
-    - name: "3:30 -  Live Tutorial"
+    - name: "10:00 - 10:15 Logistics"
+    - name: "10:15 - 11:45 Tutorials on Screen Scraping and APIs"
+    - name: "11:45 - 12:30 Lunch break"
+    - name: "12:30 - 1:30 Tutorial Twitter API"
+    - name: "1:45 - 2:30 Small Group Exercise: Design Research Question"
+    - name: "2:45 - 5:00 Collect and Describe Digital Trace Data"
 
 - date: 2021-06-16
   name: Automated Text Analysis
