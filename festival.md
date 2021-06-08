@@ -44,7 +44,7 @@ __Open to:__ 30 registered participants
 
 __Time:__ Thursday, June 24, 2021. 1-2pm EDT
 
-__Speakers:__ [Andy Guess](https://politics.princeton.edu/people/andrew-m-guess)(Assistant Professor of Politics and Public Affairs at Princeton), [Eszter Hargittai](http://www.eszter.com/) (Professor of Communication and Media Research at the University of Zurich), and [Jen Pan](http://jenpan.com/) (Assistant Professor of Communication, Political Science and Sociology at Stanford University)
+__Speakers:__ [Andy Guess](https://politics.princeton.edu/people/andrew-m-guess) (Assistant Professor of Politics and Public Affairs at Princeton), [Eszter Hargittai](http://www.eszter.com/) (Professor of Communication and Media Research at the University of Zurich), and [Jen Pan](http://jenpan.com/) (Assistant Professor of Communication, Political Science and Sociology at Stanford University)
 
 __Moderator:__ [Kevin Munger](https://polisci.la.psu.edu/people/kmm7999) (Assistant Professor of Political Science and Social Data Analytics at Penn State)
 
