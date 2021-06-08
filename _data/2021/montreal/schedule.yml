@@ -87,7 +87,7 @@
     - name: "11:00 - 12:30 Labo (Zoom)"
     - name: "12:30 - 1:30 Pause - courte formation: Github (1)"
     - name: "1:30 - 3:30 Travail en équipe (Zoom)"
-    - name: "3:30 - 5:00 Conférencier : [Ashton Anderson](http://www.cs.toronto.edu/~ashton/)"
+    - name: "3:30 - 5:00 Conférencier : [Ashton Anderson](http://www.cs.toronto.edu/~ashton/) ([**The Cultural Structure of Online Platforms**](https://drive.google.com/file/d/1VdFu6ZrLVqzjydNAXfVO5Ij7Q9W5nlnq/view))"
 - date: 2021-06-15
   name: Analyse quantitative de texte
   events:
@@ -116,7 +116,7 @@
     - name: "10:30 - 12:30 Labo (Zoom)"
     - name: "12:30 - 1:30 Pause - courte formation: A définir"
     - name: "1:30 - 3:30 Travail en équipe (Zoom)"
-    - name: "3:30 - 5:00 Conférencier : [Éric Lacourse](https://recherche.umontreal.ca/nos-chercheurs/repertoire-des-professeurs/chercheur/is/in14715/)"
+    - name: "3:30 - 5:00 Conférencier : [Éric Lacourse](https://recherche.umontreal.ca/nos-chercheurs/repertoire-des-professeurs/chercheur/is/in14715/) ([**Algorithmes d’apprentissage et modèles statistiques**](https://drive.google.com/file/d/1fdJTWYW2df90Mm19eMcvQpRL-27Ai2Fx/view))"
 - date: 2021-06-17
   name: Apprentissage automatique (machine learning)
   events:
