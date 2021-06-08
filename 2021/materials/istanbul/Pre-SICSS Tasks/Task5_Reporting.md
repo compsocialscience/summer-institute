@@ -1,4 +1,4 @@
-## Task 5 - Reporting (Second Week: Friday)
+## Task 5 - Reporting Data (Second Week: Friday)
 
 One of the most dominant sides of the R is reporting the data. [ggplot2 package](https://ggplot2.tidyverse.org/) would provide diverse options from basic scatterplots to drawing complex maps and networks. Once you understand how to build a basic plot with ggplot, it is quite easy to solve any problem and produce classy graphics. You should learn how to use it!
 The second essential skill you should learn is working with [markdowns](https://rmarkdown.rstudio.com/). You could effortlessly produce documents like [this one](https://rmarkdown.rstudio.com/flexdashboard/index.html).
