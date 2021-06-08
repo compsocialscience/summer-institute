@@ -7,16 +7,24 @@
 
 - date: "Pre-SICSS Period: Completing a whole data project"
   events:
-    - name: "**[Pre-SICSS Tasks](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS_tasks.md)**<br/>This 2-week pre-SICSS period will feature a number of essential computational social science readings, along with programming foundation modules to bridge everyone’s diverse skill set. Even if you have excellent programming skills, please go along with us through this period, so that when the actual SICSS begins, you’ll already have a good sense of common problems and skill sets, so that you can get an understanding of who to partner with during the second week of SICSS, where groups will come up with their own research questions and work on it for an entire week."
-    - name: "**[Code Walkthrough Sessions](https://github.com/compsocialscience/summer-institute/tree/master/2021/materials/istanbul)**<br/> While working Pre-SICSS tasks, coding walkthrough sessions will be held on our tasks. Participants will have a chance to replicate the codes on their desk to improve their coding experience."
+    - name: "**[Why we have a Pre-SICSS Period?](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS%20Tasks/Introduction.md)**<br/>This 2-week pre-SICSS period will feature a number of essential computational social science readings, along with programming foundation modules to bridge everyone’s diverse skill set. Even if you have excellent programming skills, please go along with us through this period, so that when the actual SICSS begins, you’ll already have a good sense of common problems and skill sets, so that you can get an understanding of who to partner with during the second week of SICSS, where groups will come up with their own research questions and work on it for an entire week."
+    - name: "**[What are Pre-SICSS Tasks?](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS%20Tasks/Introduction.md)**<br/>Pre-SICSS tasks provide you with practical experience of [SICSS Boot Camp](https://sicss.io/boot_camp/), Day 2 (Collecting Digital Trace Data), and Day 3(Automated Text Analysis) of [SICSS Lecture Materials](https://sicss.io/curriculum). We extended Day 2 and 3 exercises and provided more time to finish them individually (or in a group setting), considering different learning curves in our cohort. We believe that learning to code is a unique process for everyone. However, some would see a benefit in solving tasks in a group setting. Therefore, we are leaving the decision of doing our tasks individually or in a group setting to you."
+    - name: "**[What are Code Walkthrough Sessions?](https://github.com/compsocialscience/summer-institute/tree/master/2021/materials/istanbul/Replication%20Codes)**<br/> While working on Pre-SICSS tasks, coding walkthrough sessions will be held on our tasks. Thus, participants will have a chance to replicate the codes on their desks to improve their coding experience."
+    - name: "[Task 1 - Data collection via API:](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS%20Tasks/Task%201%20-%20Data%20collection:%20API.md) First Week (Monday - Wednesday)"
+    - name: "[Task 2 - Data collection via Screen Scraping:](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS%20Tasks/Task%202%20-%20Data%20collection:%20Screen%20Scraping.md) First Week (Wednesday - Friday)"
+    - name: "[Task 3 - Data Wrangling:](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS%20Tasks/Task%203%20-%20Data%20Wrangling.md) Second Week (Monday - Tuesday)"
+    - name: "[Task 4 - Text Analysis:](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS%20Tasks/Task%204%20-%20Text%20Analysis.md) Second Week (Wednesday-Thursday)"
+    - name: "[Task 5 - Reporting:](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS%20Tasks/Task%205%20-%20Reporting.md) Second Week (Friday)"
+    - name: "[Suggested Reading List](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS%20Tasks/Task%205%20-%20Reporting.md) Second Week (Friday)"
 
 - date: 2021-05-31
   name: "Code Walkthrough: Collecting Digital Trace Data-1" 
   events: 
+      - name: "[Task 1](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS%20Tasks/Task%201%20-%20Data%20collection:%20API.md)"
       - name: "19:30-20:00 Networking on Wonder"
       - name: "20:00-21:00 Getting data via APIs (Twitter)"
       - name: "21:00-21:10 Short Break"
-      - name: "21:10-22:00 Getting data with Screen Scraping(Facebook,Instagram, Eksisozluk)"
+      - name: "21:10-22:00 Getting data via Screen Scraping(Facebook,Instagram, Eksisozluk)"
       - name: "22:00-22:30 Networking on Wonder"
       - name: "[Replication Codes](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Replication%20Codes_Task%201-2.Rmd)"
       - name: "SICSS Learning Material: [Day 2-Collecting Digital Trace Data](https://sicss.io/curriculum)"
@@ -37,11 +45,11 @@
   name: "Code Walkthrough: Data Wrangling"
   events: 
       - name: "19:30-20:00 Networking on Wonder"
-      - name: "20:00-21:00 Data wrangling with data.table package"
+      - name: "20:00-21:00 Data wrangling with [tidyverse](https://www.tidyverse.org/)"
       - name: "21:00-21:10 Short Break"
-      - name: "21:10-22:00 Data wrangling with dplyr&lubridate packages"
+      - name: "21:10-22:00 Data wrangling with [data.table package](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html)"
       - name: "22:00-22:30 Networking on Wonder"
-      - name: "[Replication Codes]()"
+      - name: "[Replication Codes](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Replication%20Codes_Data%20Wrangling.Rmd)"
       - name: "SICSS Learning Material: [Data “Wrangling”](https://sicss.io/boot_camp/)"
 
 
