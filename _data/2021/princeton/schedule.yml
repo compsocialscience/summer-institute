@@ -21,7 +21,7 @@
 - date: 2021-06-15
   name: Collecting Digital Trace Data
   events:
-    - name: "10:00 - 10:15 Logistics and introduction to [group exercise]([Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day2-digital-trace-data/Group_Exercise_Day_2.html)) (*Zoom*)"
+    - name: "10:00 - 10:15 Logistics and introduction to [group exercise]([Lesson plan (participants)](https://compsocialscience.github.io/summer-institute/2021/materials/day2-digital-trace-data/Group_Exercise_Day_2.html)) (*Zoom*)"
     - name: "10:15 - 11:30 Identify a Research Question with Digital Trace Data (*Zoom*)"
     - name: "11:30 - 12:00 Break"
     - name: "12:00 - 1:00 Participant flash talks (encouraged) (*Zoom*)"
@@ -34,7 +34,7 @@
 - date: 2021-06-16
   name: Automated Text Analysis
   events:
-    - name: "10:00 - 10:15 Logistics and introduction to [group exercise](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day2-digital-trace-data/Group-Exercise-Day-3.html) (*Zoom*)"
+    - name: "10:00 - 10:15 Logistics and introduction to [group exercise](https://compsocialscience.github.io/summer-institute/2021/materials/day3-text-analysis/Group-Exercise-Day-3.html) (*Zoom*)"
     - name: "10:15 - 11:30 Extract Features from Trump Tweets (*Zoom*)"
     - name: "11:30 - 12:00 Break"
     - name: "12:00 - 1:00 Participant flash talks (encouraged) (*Zoom*)"
