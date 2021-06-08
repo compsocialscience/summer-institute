@@ -1,4 +1,4 @@
-## Task 1 - Data collection: API (First Week: Monday - Wednesday)
+## Task 1 - Data collection via API (First Week: Monday - Wednesday)
 
 In the digital age, collecting data is more accessible than conventional social science methods. You can literally gather [digital trace data](https://www.youtube.com/watch?v=uuSWQN7uYhk) while you are sleeping! The Internet is full of data and waiting for you to collect them.
 
