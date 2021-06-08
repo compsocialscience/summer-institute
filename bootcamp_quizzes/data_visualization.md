@@ -1,7 +1,11 @@
 **Additional Resources:**
 
--   [R4DS Chapters 17-21:
-    Programming](https://r4ds.had.co.nz/program-intro.html)
+-   [R for Data Science Chapter 13: Relational
+    data](https://r4ds.had.co.nz/relational-data.html)
+-   [R for Data Science Chapter 3: Data
+    visualization](https://r4ds.had.co.nz/data-visualisation.html)
+-   [R for Data Science Chapter 28: Graphics for
+    communication](https://r4ds.had.co.nz/graphics-for-communication.html)
 -   [R for Data Science Chapter 16: Dates and
     times](https://r4ds.had.co.nz/dates-and-times.html)
 
@@ -9,70 +13,78 @@
 this quiz**
 
 ``` r
+library(tidyverse)
 load(url('https://dssoc.github.io/datasets/congress.RData'))
 ```
-
-<br/>
 
 ## Questions
 
 <br>
 
-\*\*1. In your own words, describe what a function is and provide one
-example of how you might use it in a data science <br/>
-
-**2. Packages in R can contain many useful functions/commands. If you
-didn’t know what a certain function did, or how it worked, where within
-RStudio would you look to learn more / see example code? Where would you
-look outside RStudio?**
+**1. Create a bar plot to show the average ages of democrat and
+republican congress members. Now do the same for M and F genders (this
+second part should include members of all parties).**
 
 <br/>
 
-**3. Write a function that takes a character vector as an argument and
-returns a character vector containing the first letters of each element
-in the original vector. To show that it works, test it on the character
-vector `sentence` defined below.**
+**2. Create two bar charts: one that shows the total number of social
+media accounts among democrats and republicans (Twitter, Facebook,
+YouTube), and one that shows the average number of accounts
+per-politician for each party. Which political party has more social
+media accounts? Which party has a higher per-politician average?**
 
-``` r
-sentence <- c('you', 'only', 'understand', 'data', 'if', 'data', 'is', 'tidy')
-# your answer here
-```
-
-<br/>
-
-**4. Create your own function which accepts a birthyear vector and
-returns an approximate current age, then use it on the `birthyear`
-column of the `congress` dataframe to create a new `age` column with
-`mutate`.**
-
-Note: functions used inside mutate accept single columns from the
-original dataframe and return a column or vector of the same size. This
-is a valuable tool for developing your workflow.
+Note: there are several ways to accomplish this. You could use `gather`
+again and then `group_by` and `summarise` within politician and then
+within party, or you could use `mutate` to get counts for each politican
+and then average by party. Any other approach is also fine.
 
 <br/>
 
-**5. Write a function that accepts a date string and returns the day of
-the week it corresponds to, then use it to create a new column of
-`congress` representing the weekday of the birth of each politician
-using `mutate`.**
+**3. Use an inner join to combine the columns of the `committees`
+dataframe with the columns of `congress`, and create a plot showing the
+average number of committees that democrats and republicans belong to.
+Next create a plot showing the averages by gender (note: this second
+part should include members of other parties as well).**
 
 <br/>
 
-**6. Write a function that accepts a dataframe with the columns
-`birthday` and `full_name`, and prints the names and ages of the `k`
-oldest *representatives* in congress (i.e. not including senators) using
-a “for loop”. In this sense, `k` is an arbitrary number that should be
-given as an argument to the function - set the default value to be 5. If
-you use the dataframe as the first argument, you can use the pipe
-operator (“%\>%”) to pass the dataframe directly to the function. Define
-your function such that you can use it like this:
-`congress %>% print_oldest(3)`.**
+**4. Create a bar plot showing the number of members that belong to the
+10 largest congressional committees (i.e. committees with the largest
+number of members). The bars should be sorted based on committee
+sizes.**
+
+Note: Our standard for visualizations is that each plot should have axis
+labels, all labels must be readable, and we should easily be able to
+tell what your figure is showing. Failure to do this will result in
+point deductions.
 
 <br/>
 
-**7. Starting with the function from the previous question, change it
-such that if k \> 5, it only prints the first 5. Test isusing this code:
-`congress %>% print_oldest(100)`.**
+**5. Create a single bar plot that shows the average age of the
+committees with the 5 highest and lowest average ages. The bars should
+be sorted based on average committee ages. Which committees have the
+highest and lowest average ages?**
+
+<br/>
+
+**6. Create a line graph showing the total number of politician births
+in each decade since the 1930’s, with separate lines for senate and
+house members (see the `type` column). The labels on your x-axis should
+look like “1930’s”, “1940’s”, and so on, and your legend should show
+values “Senator” and “Representative” (i.e. not `rep` and `sen`).**
+
+Note: The plotted lines may not be continuous if there were no births in
+some decades.
+
+<br/>
+
+**7. Create a bar chart showing the frequency of politician births by
+month and another bar chart showing politician births by weekday. The
+x-labels should be month names and weekday names, respectively, and
+appear in chronological order.**
+
+Note: you can use the `lubridate` package methods to get weekday and
+month names.
 
 <br/>
 
