@@ -8,8 +8,6 @@ The SICSS Festival is a series of online events such as tutorials, panel discuss
 
 # 2021: Monday, June 21 - Friday, June 25
 
-More information coming soon.
-
 ## Tuesday <a name="tuesday"></a>
 
 ### Using images and video data for social science: Challenges and opportunities
