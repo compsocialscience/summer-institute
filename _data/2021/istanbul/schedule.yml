@@ -60,7 +60,7 @@
       - name: "21:00-21:10 Short Break"
       - name: "21:10-22:00 Text Analysis with [quanteda package](https://quanteda.io/articles/pkgdown/quickstart.html)-2"
       - name: "22:00-22:30 Networking on Wonder"
-      - name: "* [Replication Codes]()"
+      - name: "* [Replication Codes](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Replication%20Codes/Automated%20Text%20Analysis.Rmd)"
       - name: "* SICSS Learning Material: [Day 3-Automated Text Analysis](https://sicss.io/boot_camp/)"
         
 - date: 2021-06-11
