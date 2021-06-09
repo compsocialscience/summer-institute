@@ -38,13 +38,13 @@ __Open to:__ 30 registered participants
 
 ## Wednesday 
 
-### CSS Job Market Panel
+### Computational social science Job Market Panel
 
 __Time:__ Wednesday, June 23, 2021. 12-1pm EDT
 
 __Speakers:__ TBA
 
-__Moderator:__ [Chris Bail](https://www.chrisbail.net/) (SICSS-Princeton 17, 19, 21 SICSS-Duke 18, 20)
+__Moderator:__ [Chris Bail](https://www.chrisbail.net/) (SICSS-Princeton 17, 19, 21, SICSS-Duke 18, 20)
 
 __Open to:__ Unlimited registered participants
 
