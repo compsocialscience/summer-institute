@@ -8,7 +8,7 @@ The SICSS Festival is a series of online events such as tutorials, panel discuss
 
 # 2021: Monday, June 21 - Friday, June 25
 
-## Tuesday <a name="tuesday"></a>
+## Tuesday 
 
 ### Using images and video data for social science: Challenges and opportunities
 
@@ -36,7 +36,21 @@ __Open to:__ 30 registered participants
 
 [Register here](https://forms.gle/2uWTZ4A6AAjobkrt5)
 
-## Thursday <a name="thursday"></a>
+## Wednesday 
+
+### CSS Job Market Panel
+
+__Time:__ Wednesday, June 23, 2021. 12-1pm EDT
+
+__Speakers:__ TBA
+
+__Moderator:__ [Chris Bail](https://www.chrisbail.net/) (SICSS-Princeton 17, 19, 21 SICSS-Duke 18, 20)
+
+__Open to:__ Unlimited registered participants
+
+[Register here](https://forms.gle/ixdR3wC4WzRRwpBS7)
+
+## Thursday 
 
 ### Taking Quantitative Description Seriously
 
@@ -52,7 +66,7 @@ __Open to:__ Unlimited registered participants
 
 [Register here](https://forms.gle/tRF7ttu4RoQKxfAJ7)
 
-## Friday <a name="friday"></a>
+## Friday 
 
 ### Creating your own virtual lab experiment with Empirica
 
