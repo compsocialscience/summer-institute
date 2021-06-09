@@ -16,26 +16,27 @@
   events:
     - name: "[Day 1: Pre-arrival videos & corresponding slides](https://sicss.io/curriculum)"
     - name: "10:00 - 10:30 Introduction and logistics (*Zoom*)"
-    - name: "10:30 - 11:30 Small group discussions [Lesson plan (participants)] (link coming soon)) (*Zoom*)"
+    - name: "10:30 - 11:30 Small group discussions [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small_group_discussions.md) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
     - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: Getting the most out of your SICSS experience - a panel discussion with SICSS alums of color (encouraged) (*Zoom*)"
     - name: "1:00 - 1:30 Break"
-    - name: "1:30 - 1:45 Introduction to the group exercise [Lesson plan (participants)] (link coming soon) [Lesson plan (instructors)] (link coming soon) (*Zoom*)"
+    - name: "1:30 - 1:45 Introduction to the group exercise [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_participant.md); [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_instructor.md) (*Zoom*)"
     - name: "1:45 - 2:45 Small group discussion of [case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf) (*Zoom*)"
     - name: "2:45 - 3:15 Whole group debrief about case study (*Zoom*)"
     - name: "3:15 - 3:45 Debrief and logistics (*Zoom*)"
+    - name: "3:45 - 4:00 [Apply](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md#preparation) for data access for Fragile Families Challenge activity if you haven't already"
 
 - date: 2021-06-15
   name: "Day 2: Collecting Digital Trace Data"
   events:
     - name: "[Day 2: Pre-arrival videos, corresponding slides, & annotated code](https://sicss.io/curriculum)"
-    - name: "10:00 - 10:15 Logistics and introduction to group exercise (*Zoom*)"
-    - name: "10:15 - 11:30 Designing a Research Question with Digital Trace Data (*Zoom*)"
+    - name: "10:00 - 10:15 Logistics and introduction to [group exercise](https://compsocialscience.github.io/summer-institute/2021/materials/day2-digital-trace-data/Group_Exercise_Day_2.html) (*Zoom*)"
+    - name: "10:15 - 11:30 Identify a Research Question with Digital Trace Data (*Zoom*)"
     - name: "11:30 - 12:00 Break"
     - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: Black in AI (encouraged) (*Zoom*)"
     - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 2:30 Collecting Digital Trace Data (*Zoom*)"
-    - name: "2:30 - 3:30 Discussing Strengths & Benefits plus Hybrid Designs (*Zoom*)"
+    - name: "1:15 - 2:30 Develop a Sampling Frame (*Zoom*)"
+    - name: "2:30 - 3:30 Populate the Sampling Frame with Screen-Scraping (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
   
 
@@ -43,12 +44,12 @@
   name: "Day 3: Automated Text Analysis"
   events:
     - name: "[Day 3: Pre-arrival videos, corresponding slides, & annotated code](https://sicss.io/curriculum)"
-    - name: "10:00 - 10:15 Logistics and introduction to group exercise (*Zoom*)"
-    - name: "10:15 - 11:30 Group Exercise (*Zoom*)"
+    - name: "10:00 - 10:15 Logistics and introduction to [group exercise](https://compsocialscience.github.io/summer-institute/2021/materials/day3-text-analysis/Group-Exercise-Day-3.html) (*Zoom*)"
+    - name: "10:15 - 11:30 Extract Features from Trump Tweets (*Zoom*)"
     - name: "11:30 - 12:00 Break"
     - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: The Data Nutrition Project (encouraged) (*Zoom*)"
     - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 3:30 Group Exercise (*Zoom*)"
+    - name: "1:15 - 3:30 Predict Features of Tweets associated with Retweets and Produce Visualization (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
 
 - date: 2021-06-17
@@ -56,7 +57,7 @@
   events:
     - name: "[Day 4: Pre-arrival videos & corresponding slides](https://sicss.io/curriculum)"
     - name: "10:00 - 10:15 Logistics (*Zoom*)"
-    - name: "10:15 - 10:30 Introduction to the group exercise [Lesson plan (participants)] (link coming soon) (*Zoom*)"
+    - name: "10:15 - 10:30 [Introduction to the group exercise](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/intro-to-activity.pdf), [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/lesson_plan_survey_participants.md); [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/lesson_plan_survey_instructor.md) (*Zoom*)"
     - name: "10:30 - 11:30 Morning group exercise (*Zoom*)"
     - name: "11:30 - 12:00 Break"
     - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: The California Policy Lab (encouraged) (*Zoom*)"
@@ -72,14 +73,15 @@
     - name: "[Day 5: Pre-arrival videos & corresponding slides](https://sicss.io/curriculum)"
     - name: "10:00 - 10:15 Logistics (*Zoom*)"
     - name: "10:15 - 10:30 Introduction to the group exercise [Video](https://www.youtube.com/watch?v=ZI95vV7Co38) [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/06-ffchallenge_participate_activity.pdf) (*Zoom*)"
-    - name: "10:30 - 11:30 Participate in the Fragile Families Challenge [Lesson plan (participants)] (link coming soon) (*Zoom*)"
+    - name: "10:30 - 11:30 Participate in the Fragile Families Challenge activity [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md#lesson-plan-for-participants); [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_instructor.md#lesson-plan-for-instructors) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: Ghana Fact (encouraged) (*Zoom*)"
+    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: FactSpace West Africa and FakeNetAI (encouraged) (*Zoom*)"
     - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 3:00 Continue participating in the Fragile Families Challenge (*Zoom*)"
+    - name: "1:15 - 3:00 Continue participating in the Fragile Families Challenge activity (*Zoom*)"
     - name: "3:00 - 3:15 Break"
     - name: "3:15 - 3:30 Whole group debrief about group exercise (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
+    - name: "3:45 - 4:00 [Delete](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md#deleting-the-files-after-use) the Fragile Families data from your computer"
 
 - date: 2021-06-19
   name: Day off
