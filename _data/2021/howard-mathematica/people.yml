@@ -87,7 +87,7 @@ lunchtime talks:
       
     - name: The Data Nutrition Project
       image: /assets/images/DataNutrition2.png
-      bio: "Founded in 2018 through the Assembly Fellowship, The Data Nutrition Project takes inspiration from nutritional labels on food, aiming to build labels that highlight the key ingredients in a dataset such as meta-data and populations, as well as unique or anomalous features regarding distributions, missing data, and comparisons to other ‘ground truth’ datasets."      
+      bio: "Our belief is that deeper transparency into dataset health can lead to better data decisions, which in turn lead to better AI. Founded in 2018 through the Assembly Fellowship, The Data Nutrition Project takes inspiration from nutritional labels on food, aiming to build labels that highlight the key ingredients in a dataset such as meta-data and populations, as well as unique or anomalous features regarding distributions, missing data, and comparisons to other ‘ground truth’ datasets."      
       website: https://datanutrition.org/ 
       
     - name: The California Policy Lab
@@ -108,6 +108,7 @@ lunchtime talks:
     - name: Wiki Education 
       image: /assets/images/WikiEdu.png
       bio: "Wiki Education serves as the bridge between academia and Wikipedia. A small 501(c)(3) nonprofit, we run programs that seek to build connections between universities and Wikipedia and other Wikimedia projects in the United States and Canada. In our most established program, Wiki Education supports the Wikipedia Education Program in the United States and Canada. Since 2010, university instructors participating in the program have assigned their students to add content to course-related articles on Wikipedia. Students gain key 21st century skills like media literacy, writing and research development, and critical thinking, while content gaps on Wikipedia get filled thanks to students’ efforts."
+      website: https://wikiedu.org/ 
      
 participants: 
   title: Participants
