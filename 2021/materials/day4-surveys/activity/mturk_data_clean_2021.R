@@ -71,7 +71,8 @@ table(processed$race_ethnicity, processed$hispanic)
 processed <- processed %>% mutate(race1 = ifelse(processed$hispanic == "Yes", "hispanic",
                                                  ifelse(processed$race_ethnicity == "Black or African American", "black",
                                                         ifelse(processed$race_ethnicity == "Asian or Asian-American", "asian",
-                                                               ifelse(processed$race_ethnicity == "White", "white", "other")))))
+                                                               ifelse(processed$race_ethnicity == "Native Hawaiian or Pacific Islander","asian",
+                                                                   ifelse(processed$race_ethnicity == "White", "white", "other"))))))
 processed <- processed %>% dplyr::select(-race_ethnicity, -hispanic) %>% mutate(race = race1) %>% dplyr::select(-race1)
 # age into categories
 processed <- processed %>% mutate(age_cat = ifelse(processed$age >= 18 & processed$age <= 29, "18 - 29", 
@@ -98,6 +99,14 @@ processed <- processed %>% mutate(region = ifelse(state %in% northeast, "northea
 
 ## Step 3: Remove respondents with missingness in demographics
 processed <- processed %>% drop_na(region,age_cat,race,sex)
+
+## ACS does not currently allow for an “other” response to sex
+## That means that we can’t use the ACS data for post-stratification for these respondents
+## You are welcome to find some other way to include these respondents if you would like
+## This example helps illustrate how post-stratification depends on having population counts collected by others
+processed <- processed %>% filter(sex!="other")
+
+
 
 ## Step 4: Save cleaned mturk data
 write_csv(processed, "2021_clean_mturk_data.csv")
