@@ -98,6 +98,10 @@ lunchtime talks:
       image: /assets/images/FactSpace.png
       bio: "Synthetic media, or deepfake technology is advancing rapidly and developing into a powerful disinformation tool, and few organizations or individuals are protected against this evolving threat. FactSpace West Africa and FakeNetAI, backed by Facebook, The International Fact-Checking Network, and UC Berkeley have partnered to combat deepfake attacks. Their deepfake detection solution, powered by cutting edge artificial intelligence technology, accurately and quickly detects deepfakes, protecting users against the economic and societal harms that deepfakes pose."
       website: https://ghanafact.com/category/deepfakes/ 
+      
+    - name: Wiki Education 
+      image: /assets/images/WikiEdu.png
+      bio: "Wiki Education serves as the bridge between academia and Wikipedia. A small 501(c)(3) nonprofit, we run programs that seek to build connections between universities and Wikipedia and other Wikimedia projects in the United States and Canada. In our most established program, Wiki Education supports the Wikipedia Education Program in the United States and Canada. Since 2010, university instructors participating in the program have assigned their students to add content to course-related articles on Wikipedia. Students gain key 21st century skills like media literacy, writing and research development, and critical thinking, while content gaps on Wikipedia get filled thanks to students’ efforts."
      
 participants: 
   title: Participants
