@@ -27,6 +27,11 @@ census <- read_csv("https://raw.githubusercontent.com/compsocialscience/summer-i
 # load pew benchmarks
 pew <- read_csv("https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2021/materials/day4-surveys/activity/pew_benchmark_2021.csv")
 pew <- pew %>% dplyr::select(qid, pew_estimate)
+
+# add one variable that denotes the group the question belongs
+pew[1:11,"type"] <- "media"
+pew[12:30,"type"] <- "priority"
+
 ```
 
 \newpage
@@ -64,7 +69,7 @@ head(mean_est)
 plot_comparison <- function(est_table, method, caption){
   graph <-  ggplot(est_table, 
                    aes(x = pew_estimate, y = method)) + 
-  geom_point() + 
+  geom_point(aes(color = type)) + 
   labs(x = "Estimates from Pew", y = caption) +
   scale_x_continuous(limits = c(0,1)) + 
   scale_y_continuous(limits = c(0,1)) + 
@@ -88,8 +93,8 @@ mean_est$diff <- abs(mean_est$mean - mean_est$pew_estimate)
 # function for plotting difference
 plot_diff <- function(est_table){
   diff_graph <- ggplot(est_table, aes(x = diff)) + 
-  geom_histogram(aes(y = (..count..)/sum(..count..)), binwidth = .025, 
-                 colour = "black", fill = "white") + 
+  geom_histogram(aes(y = (..count..)/sum(..count..),fill=type), binwidth = .025, 
+                 colour = "black") + 
   theme_bw() + 
   geom_vline(aes(xintercept = median(diff)), linetype = "longdash") + 
   labs(x = "absolute difference", y = "density") + 
@@ -392,6 +397,8 @@ colMeans(apply(all_diff[ ,-1], 2, FUN = function(x){x^2}))
 # calculate average difference across all methods for each question
 all_diff$avg_diff <- apply(all_diff[ ,-1], 1, FUN = mean)
 all_diff[,c("qid", "avg_diff")]
+
+inner_join(all_diff,pew,by="qid") %>% group_by(type) %>% summarise(avg_diff = mean(avg_diff))
 ```
 
 \newpage
