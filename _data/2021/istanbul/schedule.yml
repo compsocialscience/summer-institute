@@ -77,11 +77,11 @@
 - date: 2021-06-11
   name: "Code Walkthrough: Data Visualization and Reporting"
   events: 
-      - name: "19:30-20:00 Networking on Wonder"
+      - name: "19:00-20:00 Networking on Wonder"
       - name: "20:00-21:00 Data Visualization with [ggplot2 package](https://ggplot2.tidyverse.org/index.html)"
       - name: "21:00-21:10 Short Break"
       - name: "21:10-22:00 Reporting with [markdowns](https://rmarkdown.rstudio.com/) and [shiny](https://shiny.rstudio.com/)"
-      - name: "22:00-22:30 Networking on Wonder"
+      - name: "22:00-22:30 Evaluation of Pre-SICSS Period"
       - name: "* [Replication Codes]()"
       - name: "* SICSS Learning Material: [Visualization-Communicating and Collaborating](https://sicss.io/boot_camp/)"     
         
