@@ -32,7 +32,7 @@ __Speakers:__ [Austin van Loon](https://sociology.stanford.edu/people/austin-van
 
 __Description:__ The increased availability of machine-readable text provides a unique opportunity for social scientists, granting us unprecedented access to many aspects of both historical and contemporary social life. This tutorial aims to introduce researchers to text analysis in Python, an open-source programming language. Specifically, the tutorial consists of a conceptual overview of the core analytic challenges of harnessing text data, how to access Twitter data through the new Twitter API v2, pre-processing text data, and a few conceptually accessible methods for quantitatively analyzing text (closed- and open-vocabulary analysis of unigram frequencies). We will walk through a publicly available Google Colab notebook that can be run in one’s browser without the download of any software (coming soon). Example code for using various Twitter API endpoints (assuming one has an API key) will be provided, along with code to scrape some of that same data from a public GitHub repository (and does not require an API key).
 
-__Open to:__ 30 registered participants
+__Open to:__ 45 registered participants
 
 [Register here](https://forms.gle/2uWTZ4A6AAjobkrt5)
 
