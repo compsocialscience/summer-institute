@@ -36,7 +36,7 @@ Participants will gain experience with the following activities:
 
 ## During group activity
 ### Morning session:
-1. Create a questionnaire on Google Forms. When you are done, your questionnaire will look a bit like [this one] (LINK COMING SOON) (30 minutes).
+1. Create a questionnaire on Google Forms. When you are done, your questionnaire will look a bit like [this one] (https://docs.google.com/forms/d/18CylqlRUWLk5apBd0w7WxpKd3yMY30euu_diW0IJryw/prefill) (30 minutes).
   - Start with our template questionnaire. You will obtain the link for editing access to this template on our Slack workspace.  Make a copy of the template.  The template already contains a consent statement, attention check questions, and questions about demographics.
   - Add your contact information to the consent statement.
   - Fill in section 2 of the template with survey questions from the [Pew Research Center](https://www.pewresearch.org/) about [policy priorities](https://www.pewresearch.org/politics/2021/01/28/economy-and-covid-19-top-the-publics-policy-agenda-for-2021/) and [social media use](https://www.pewresearch.org/internet/2021/04/07/social-media-use-in-2021/).
@@ -59,7 +59,7 @@ Participants will gain experience with the following activities:
   - After you have used the Worker ID data to validate answers and to remove redundant entries, delete it from your dataset. The Worker ID is a unique string that can be used to personally identify people.
 
 2. Analyze the data we previously collected (60 minutes).
-  - Cost constraints mean that each group can only collect a small number of responses.  Therefore, we have pre-collected one large dataset that all the groups can analyze. Note that for the political priority questions which have four potential answers, we have transformed the answers into binary in our data cleaning step where we coded "TOP PRIORITY" as "1" and all other responses as "0". Download the data that we collected with this [questionnaire] (LINK COMING SOON) from MTurk workers [here] (LINK COMING SOON).  
+  - Cost constraints mean that each group can only collect a small number of responses.  Therefore, we have pre-collected one large dataset that all the groups can analyze. Note that for the political priority questions which have four potential answers, we have transformed the answers into binary in our data cleaning step where we coded "TOP PRIORITY" as "1" and all other responses as "0". Download the data that we collected with this [questionnaire] (https://docs.google.com/forms/d/18CylqlRUWLk5apBd0w7WxpKd3yMY30euu_diW0IJryw/prefill) from MTurk workers [here] (LINK COMING SOON).  
   - Compare the raw (unweighted) estimates to the [results found by Pew](pew_benchmark_2021.csv) [3]. Next compare the estimates after doing [cell-based post-stratification](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/introduction_to_poststratificiation.md). Use [this template](survey_activity_2021_template.Rmd) as you work through these steps.  The template will help you replicate Figures 1 and 2 from Goel et al. and avoid some common pitfalls.
   - Due to the time constraint, you won't be able to do techniques as complicated in the paper by Goel et al. However, those sections are marked as optional extension in the template code, and we provide the instruction on how to do them in the code [here](survey_activity_2021_solution.Rmd).
 
