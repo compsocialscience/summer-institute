@@ -409,10 +409,17 @@ inner_join(all_diff,pew,by="qid") %>% group_by(type) %>% summarise(avg_diff = me
 ### 5.1) Predict group means with multi-level regression model; combine with group weights to create weighted means
 
 ```{r}
+## Note that given the small sample size and small effect of demographic variables, it is very likely that the random effects have convergence issues. Still, we keep the codes for demonstration purposes. In real research settings where these warnings occur, you should either collect more samples or tune the models.
+
+## Students are welcome to tune the mixed effects model to remove the convergence warnings should they encounter it. The ways include switch variables from random effect to fixed effect if the estimated random effect has small variance, and change the estimation algorithm.
+
+
+
 ## if using Bayesian estimation for multi-level model, you will need to load rstanarm
 ## note that Bayesian estimation is more computationally intensive/takes longer
 # library(rstanarm)  
 # create container
+outcome_outputs <- vector("list",30)
 mrp_model_predictions <- as.data.frame(matrix(nrow = nrow(population_counts), 
                                           ncol = length(relevant_questions), NA))
 colnames(mrp_model_predictions) <- relevant_questions
@@ -434,6 +441,8 @@ for (i in relevant_questions) {
   prob_range_warning(mrp_predictions)
   # feed into dataframe
   mrp_model_predictions[ , i] <- mrp_predictions
+  
+  outcome_outputs[[i]] <- output
 }
 ##################### Bayesian version with STAN #################################################
 # library(rstanarm)
