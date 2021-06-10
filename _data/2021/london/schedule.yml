@@ -21,7 +21,7 @@
     - name: "4pm - 6pm Guest Speaker:  David Lazer"
 
 - date: 2021-06-15
-  name: "Collecting Digital Trace Data"
+  name: "Collecting Digital Trace Data (Background Lectures)[https://drive.google.com/drive/folders/1g3CPaXfSFbLcKDKaRsQ8pz2hTGc7XkW7]"
   events:
     - name: "10:00 - 11:00 Intro and logistics (Faculty leader: Nicola Perra) (*Zoom)"
     - name: "11:00 - 11:15 Break"
@@ -55,7 +55,7 @@
     - name: "3:45 - 4:00 Logistics & Empirica install (*Zoom*)"
     
 - date: 2021-06-18
-  name: "Computational Models and Virtual Lab Experiments"
+  name: "Computational Models and Virtual Lab Experiments (Background Lectures)[https://www.youtube.com/playlist?list=PLdPzfPMWiAaqRF_veYlskgX1c9DKVXVKw]"
   events:
     - name: "10:00 - 11:00 Intro & discussion (Faculty leaders: Joshua Becker & Milena Tsvetkova) (*Zoom*)"
     - name: "11:00 - 12:00 Empirica tutorial Part 1a: a basic guessing game (*Zoom*) [Completed Code](https://github.com/empiricaly/your-first-experiment/tree/1/customised-the-task)"
@@ -73,26 +73,30 @@
 - date: 2021-06-21
   name: Group projects and/or SICSS Festival
   events:
-    - name: "10:00 - 4pm Research 'speed dating', group formation, coworking and workshops"
+    - name: "10:00 - 12:00 Research 'speed dating', group formation, coworking and workshops"
+    - name: "12:00 - 2:00 Coworking and workshops"
+    - name: "2:00 - 3:30 Faculty talk:  Andrea Baronchelli"
+    - name: "2:00 - 3:30 Coworking and workshops"
 
 - date: 2021-06-22
   name: Group projects and/or SICSS Festival
   events:
-    - name: "10:00 - 4pm Coworking and workshops"
-    - name: "4pm - 6pm Guest Speaker: Eszter Hargittai"
+    - name: "10:00 - 4:00 Coworking and workshops"
+    - name: "4:00 - 6:00 Guest Speaker: Eszter Hargittai"
 
 - date: 2021-06-23
   name: Group projects and/or SICSS Festival
   events:
-    - name: "10:00 - 4pm Coworking and workshops"
     - name: "10:00 - 11:30 Guest Speaker:  Peaks Krafft"
+    - name: "11:30 - 4:00 Coworking and workshops"
 
 - date: 2021-06-24
   name: Group projects and/or SICSS Festival
   events:
-    - name: "10:00 - 4pm Coworking and workshops"
+    - name: "10:00 - 2:30 Coworking and workshops"
     - name: "1:00 - 2:30 Guest Speaker: Viktoria Spaiser"
-
+    - name: "2:30 - 4:00 Coworking and workshops"
+    
 - date: 2021-06-25
   name: Group projects and/or SICSS Festival
   events:
