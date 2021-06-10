@@ -9,22 +9,28 @@
 # Step 1: Load MTurk survey data
 
 ### Before loading data
-# - Dropped responses that did not select "I agree" on consent check
-# - Dropped duplicates, responses that did not pass attention screening questions
-# - Deleted MTurk worker ID, consent check, and timestamp variables
+
 # - Rename column names 
 
 
-
-
-
 ### Load data and tidy
-# - Rename responses into 1 and 0 for opinion questions
-# - Rename responses to match match names in Pew benchmark and cleaned ACS data for demographics questions
 
 
 library(tidyverse)
-raw <- read_csv("sicss_survey.csv")
+raw <- read_csv("SICSS Survey 2021.csv")
+
+# - Dropped responses that did not select "I agree" on consent check
+# - Dropped duplicates, responses that did not pass attention screening questions
+# - Deleted MTurk worker ID, consent check, and timestamp variables
+
+raw <- raw %>% filter(consent == "I agree.")
+raw <- raw %>% distinct(id,.keep_all = T)
+raw <- raw %>% filter(ac1 == "Barack Obama") %>% filter(ac2 == "Somewhat approve")
+raw <- raw %>% select(-ac1,-ac2,-id,-consent,-Timestamp)
+
+# - Rename responses into 1 and 0 for opinion questions
+# - Rename responses to match match names in Pew benchmark and cleaned ACS data for demographics questions
+
 
 # Step 1: rename responses into 1 and 0 values
 processed <- raw %>% mutate(twitter = recode(twitter,`Yes` = 1, `No` = 0), 
