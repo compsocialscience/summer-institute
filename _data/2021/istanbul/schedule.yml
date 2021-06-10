@@ -93,7 +93,7 @@
 - date: 2021-06-14
   name: Introduction and Ethics
   events:
-     - name: "17:00-17:30 Welcome again and Evaluation of Pre-SICSS period"
+     - name: "17:00-17:30 Welcome again and Introduction to the Curriculum"
      - name: "17:30-18:00 Small group discussions: [What is Computational Social Science?](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small_group_discussions.md)"
      - name: "18:00-18:15 Full group discussion: [What is Computational Social Science?](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small_group_discussions.md)"
      - name: "18:15-18:45 Coffee Break on Wonder"
@@ -155,14 +155,11 @@
      - name: "16:00-17:00 Office Hour and Flash Talks of Group Projects on Wonder"  
      - name: "17:00-20:00 **Natural Language Processing and Applications to Computational Social Science** by [Kemal Oflazer](https://www.andrew.cmu.edu/user/ko/)"
      - name: "**Description**: This talk will introduce the participants to basic concepts and techniques of Natural Language Processing in an interactive fashion and will highlight aspect to Turkish that make it a challenge. It will then provide an overview of NLP applications in social sciences."
-
        
 - date: 2021-06-23
   name: Work on Group Projects
   events:
-     - name: "16:00-17:00 Office Hour and Flash Talks of Group Projects on Wonder"  
-#    - name: "20:00-22:00 **Computational Text Analysis using R** by [Ahmet Kurnaz](https://sicss.io/2021/istanbul/people)"
-     
+     - name: "16:00-17:00 Office Hour and Flash Talks of Group Projects on Wonder"       
       
 - date: 2021-06-24
   name: Work on Group Projects
