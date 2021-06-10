@@ -104,6 +104,10 @@ lunchtime talks:
       image: /assets/images/FactSpace.png
       bio: "Synthetic media, or deepfake technology is advancing rapidly and developing into a powerful disinformation tool, and few organizations or individuals are protected against this evolving threat. FactSpace West Africa and FakeNetAI, backed by Facebook, The International Fact-Checking Network, and UC Berkeley have partnered to combat deepfake attacks. Their deepfake detection solution, powered by cutting edge artificial intelligence technology, accurately and quickly detects deepfakes, protecting users against the economic and societal harms that deepfakes pose."
       website: https://ghanafact.com/category/deepfakes/ 
+      
+    - name: Wiki Education 
+      image: /assets/images/WikiEdu.png
+      bio: "Wiki Education serves as the bridge between academia and Wikipedia. A small 501(c)(3) nonprofit, we run programs that seek to build connections between universities and Wikipedia and other Wikimedia projects in the United States and Canada. In our most established program, Wiki Education supports the Wikipedia Education Program in the United States and Canada. Since 2010, university instructors participating in the program have assigned their students to add content to course-related articles on Wikipedia. Students gain key 21st century skills like media literacy, writing and research development, and critical thinking, while content gaps on Wikipedia get filled thanks to students’ efforts."
      
 participants: 
   title: Participants
@@ -216,10 +220,16 @@ organizers:
       image: /assets/images/nanietteColeman.jpg
       bio: "Naniette H. Coleman is a PhD candidate in the Sociology Department at the University of California Berkeley and a UC-National Lab In-Residence Graduate Fellow at Los Alamos National Lab. Since 2016 Naniette has directed the AAC&U award winning Interdisciplinary Research Group on Privacy at Berkeley. Naniette is an affiliate of the Institute for the Study of Societal Issues, the Center for Long-term Cybersecurity, and the Center for Technology, Society, and Policy at Berkeley as well as the Belfer Center for Science and International Affairs, and Berkman-Klein Center for the Internet and Society at Harvard University. Naniette’s research sits at the intersection of the sociology of culture and organizations and focuses on cybersecurity, surveillance, and privacy in the US context. Specifically Naniette’s research examines how organizations assess risk, make decisions, and respond to data breaches and organizational compliance with state, federal, and international privacy laws.  Naniette holds a Master of Public Administration with a specialization in Democracy, Politics, and Institutions from the Harvard Kennedy School of Government, and both an M.A. in Economics and a B.A. in Communication from the University at Buffalo, SUNY.  A non-traditional student, Naniette’s prior professional experience includes local, state, and federal service, as well as work for two international organizations, and two universities."
       website: http://naniettecoleman.com
+      
+planning_team:
+  title: Planning Team
+  people:
+    - name: Coming Soon!
     
 teaching_assistants:
   title: Teaching Assistants 
   people:      
+    - name: Coming Soon!
       
 event_staff:
   title: Event Staff
