@@ -3,19 +3,27 @@
 - date: 2021-06-12
   name: Praxis to Power Pre-Institute
   events: 
-    - name: "10:00am - 5:00pm TBD"
+    - name: "10:00 - 11:45 Welcome, Praxis to Power Day 1 Introduction and logistics (*Zoom*)"
+    - name: "11:45 - 12:00 Break"
+    - name: "12:00 - 1:00 Personal Experiences of African Americans in the Academy, with Terri Adams-Fuller, Ph.D, Britany Gatewood, Brandon Hogan, Bahiyyah Muhammad (*Zoom*)"
+    - name: "1:15 - 1:45 Choosing Self-Care in a Hostile World (*Zoom*)"
+    - name: "1:45 - 2:00 Break"
+    - name: "2:00 - 5:00 Making Computational Methods Accessible: R big picture (tidyverse) + data wrangling with Jae Yeon Kim, Ph.D., Assistant Professor, KDI School of Public Policy and Management [Workshop materials](https://github.com/jaeyk/sicss-howard-r-boot-camp)(*Zoom*)"
 
 - date: 2021-06-13
   name: Praxis to Power Pre-Institute
   events:
-    - name: "10:00am - 5:00pm TBD"
-    - name: "5:00 Meet-and-greet (based on this [model](https://medium.com/swlh/how-to-run-a-zoom-cocktail-party-and-have-better-classes-conferences-and-meetings-too-dc2c5b58f8be)) (*Zoom*)"
+    - name: "10:00 - 11:00 Praxis to Power Day 2 Introduction and logistics (*Zoom*)"
+    - name: "2:00 - 5:00 Making Computational Methods Accessible: data visualization with Jae Yeon Kim, Ph.D., Assistant Professor, KDI School of Public Policy and Management [Workshop materials](https://github.com/jaeyk/sicss-howard-r-boot-camp) (*Zoom*)"
+    - name: "5:00 - 5:15 Break"
+    - name: "5:15 - 6:15 SICSS-Howard/Mathematica Kick-off and Opening Plenary: President Wayne A.I. Frederick, Howard University (*Zoom*)"
+    - 
     
 - date: 2021-06-14
   name: "Day 1: Introduction and Ethics"
   events:
     - name: "[Day 1: Pre-arrival videos & corresponding slides](https://sicss.io/curriculum)"
-    - name: "10:00 - 10:30 Introduction and logistics (*Zoom*)"
+    - name: "10:00 - 10:30 Institute Introduction and logistics (*Zoom*)"
     - name: "10:30 - 11:30 Small group discussions [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small_group_discussions.md) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
     - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: Getting the most out of your SICSS experience - a panel discussion with SICSS alums of color (encouraged) (*Zoom*)"
