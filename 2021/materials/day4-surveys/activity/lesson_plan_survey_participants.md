@@ -37,7 +37,7 @@ Participants will gain experience with the following activities:
 ## During group activity
 ### Morning session:
 1. Create a questionnaire on Google Forms. When you are done, your questionnaire will look a bit like [this one](https://docs.google.com/forms/d/18CylqlRUWLk5apBd0w7WxpKd3yMY30euu_diW0IJryw/prefill) (30 minutes).
-  - Start with our template questionnaire. You will obtain the link for editing access to this template on our Slack workspace.  Make a copy of the template.  The template already contains a consent statement, attention check questions, and questions about demographics.
+  - Start with our template questionnaire. You will obtain the link for editing access to this template on our Slack workspace.  Click the right-top corner to make a copy of the template and edit. PLEASE DO NOT edit the original template! The template already contains a consent statement, attention check questions, and questions about demographics.
   - Add your contact information to the consent statement.
   - Fill in section 2 of the template with survey questions from the [Pew Research Center](https://www.pewresearch.org/) about [policy priorities](https://www.pewresearch.org/politics/2021/01/28/economy-and-covid-19-top-the-publics-policy-agenda-for-2021/) and [social media use](https://www.pewresearch.org/internet/2021/04/07/social-media-use-in-2021/).
   - Within your group, pilot test the questionnaire and confirm that it can be completed within 7 minutes.
