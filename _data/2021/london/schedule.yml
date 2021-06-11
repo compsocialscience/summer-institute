@@ -21,9 +21,8 @@
     - name: "4pm - 6pm Guest Speaker:  David Lazer"
 
 - date: 2021-06-15
-  name: "Collecting Digital Trace Data"
+  name: "Collecting Digital Trace Data [Background Lectures](https://drive.google.com/drive/folders/1g3CPaXfSFbLcKDKaRsQ8pz2hTGc7XkW7)"
   events:
-    - name: " (Background Lectures)[https://drive.google.com/drive/folders/1g3CPaXfSFbLcKDKaRsQ8pz2hTGc7XkW7] "
     - name: "10:00 - 11:00 Intro and logistics (Faculty leader: Nicola Perra) (*Zoom*)"
     - name: "11:00 - 11:15 Break"
     - name: "11:15 - 12:00 Work on projects (familiarize with API and define research questions) (*Zoom)"
@@ -44,7 +43,7 @@
 - date: 2021-06-17
   name: "Surveys in the Digital Age"
   events:
-    - name: "10:00 - 10:30 Intro & ogistics (Faculty leader: Joshua Becker) [Introduction to the group exercise](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/intro-to-activity.pdf), [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/lesson_plan_survey_participants.md); [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/lesson_plan_survey_instructor.md) (*Zoom*)"
+    - name: "10:00 - 10:30 Intro & logistics (Faculty leader: Joshua Becker) [Introduction to the group exercise](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/intro-to-activity.pdf), [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/lesson_plan_survey_participants.md); [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/lesson_plan_survey_instructor.md) (*Zoom*)"
     - name: "10:30 - 11:30 Morning group exercise (*Zoom*)"
     - name: "11:30 - 12:00 Break"
     - name: "12:00 - 1:00 Participant flash talks (encouraged) (*Zoom*)"
@@ -56,9 +55,8 @@
     - name: "3:45 - 4:00 Logistics & Empirica install (*Zoom*)"
     
 - date: 2021-06-18
-  name: "Computational Models and Virtual Lab Experiments"
+  name: "Computational Models and Virtual Lab Experiments [Background Lectures](https://www.youtube.com/playlist?list=PLdPzfPMWiAaqRF_veYlskgX1c9DKVXVKw)"
   events:
-    - name: " (Background Lectures)[https://www.youtube.com/playlist?list=PLdPzfPMWiAaqRF_veYlskgX1c9DKVXVKw] "
     - name: "10:00 - 11:00 Intro & discussion (Faculty leaders: Joshua Becker & Milena Tsvetkova) (*Zoom*)"
     - name: "11:00 - 12:00 Empirica tutorial Part 1a: a basic guessing game (*Zoom*) [Completed Code](https://github.com/empiricaly/your-first-experiment/tree/1/customised-the-task)"
     - name: "12:00 - 1:00 Group lunches (optional) (*Zoom*)"
