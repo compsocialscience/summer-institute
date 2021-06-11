@@ -33,7 +33,7 @@
   name: "<b>Automated text analysis</b>"
   events:  
     - name: "11.45 - 12.00 Introduction to the group exercise (*Zoom*)"
-    - name: "12.00 - 15.00 Group exercise: [Lesson Plan](https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/Group-Exercise-Day-3.html) (*Zoom*)"
+    - name: "12.00 - 15.00 Group exercise: [Lesson Plan](https://sicss.io/2021/materials/day3-text-analysis/Group-Exercise-Day-3.html) (*Zoom*)"
     - name: "15.00 - 16.00 Guest speaker: Daniel Preotiuc (*Zoom*)"
     - name: "16.00 - 16.30 Break"   
     - name: "16.30 - 17.30 Whole group debrief about group exercise (*Zoom*)"
