@@ -10,34 +10,34 @@
     - name: "8:00 - 8:25 Introduction and logistics"
     - name: "8:30 - 9:25 Speed dating"
     - name: "9:30 - 10:55 Reading group: Introduction to networks"
-    - name: "21:00 - 22:30 Sandy Pentland speaks at SICSS Beijing (Topic: Idea Flow and Economic Growth) + Q&A (open to the public; registration link TBA)"
+    - name: "21:00 - 22:30 Sandy Pentland speaks at SICSS Beijing (Topic: Idea Flow and Economic Growth) + Q&A (talk open to the public; registration link TBA)"
 
 - date: 2021-06-15
   name: ""
   events:
     - name: "8:30 - 9:25 Speed dating"
     - name: "9:30 - 10:55 Reading group: Machine learning and networks"
-    - name: "21:00 - 22:00 Subhayan Mukerjee speaks at SICSS Beijing + Q&A (open to participants only)"
+    - name: "21:00 - 22:00 Subhayan Mukerjee speaks at SICSS Beijing + Q&A (talk open to participants only)"
 
 - date: 2021-06-16
   name: ""
   events:
     - name: "8:30 - 9:25 Speed dating"
     - name: "9:30 - 10:55 Reading group: Social contagion and collective intelligence"
-    - name: "21:00 - 23:00 Nynke Niezink speaks at SICSS Beijing + 1:1 meetings"
+    - name: "21:00 - 23:00 Nynke Niezink speaks at SICSS Beijing + 1:1 meetings (talk open to the public; registration link TBA)"
 
 - date: 2021-06-17
   name: ""
   events:
     - name: "8:30 - 9:25 Speed dating"
-    - name: "9:30 - 10:55 Reading group: Misinformation and polorization (open to the public; registration link TBA)"
-    - name: "21:00 - 23:00 Chris Bail speaks at SICSS Beijing (Breaking the Social Media Prism: How to Make our Platforms Less Polarizing) + 1:1 meetings"
+    - name: "9:30 - 10:55 Reading group: Misinformation and polorization"
+    - name: "21:00 - 23:00 Chris Bail speaks at SICSS Beijing (Breaking the Social Media Prism: How to Make our Platforms Less Polarizing) + 1:1 meetings (talk open to the public; registration link TBA)"
     
 - date: 2021-06-18
   name: ""
   events:
     - name: "8:30 - 9:55 Group project research idea pitch"
-    - name: "10:00 - 11:55 Zhiyuan Liu speaks at SICSS Beijing + 1:1 meetings (open to the public; registration link TBA)"
+    - name: "10:00 - 11:55 Zhiyuan Liu speaks at SICSS Beijing + 1:1 meetings (talk open to the public; registration link TBA)"
     - name: "21:00 - 23:00 Groups formed for the second week research team projects"
 
 - date: 2021-06-19
@@ -51,7 +51,7 @@
   events:
     - name: "8:30 - 9:55 Participants discuss team projects (organized by each team separately; each team can schedule extra meeting/discussion)"
     - name: "10:00 - 11:00 Participants' research presentation: Anfan, Anmol, Guang, Zhuo"
-    - name: "21:00 - 23:00 YY Ahn speaks at SICSS Beijing (Understanding texts and networks with neural language models) + 1:1 meetings (open to the public; registration link TBA)"
+    - name: "21:00 - 23:00 YY Ahn speaks at SICSS Beijing (Understanding texts and networks with neural language models) + 1:1 meetings (talk open to the public; registration link TBA)"
 
 - date: 2021-06-22
   name: ""
@@ -65,14 +65,14 @@
   events:
     - name: "8:30 - 9:25 Participants discuss team projects (organized by each team separately; each team can schedule extra meeting/discussion)"
     - name: "9:30 - 11:00 Participants' research presentation: Kunru, Sachin, Shengchun, Shiyang, Jasmine"
-    - name: "21:00 - 23:00 Mohsen Mosleh speaks at SICSS Beijing (Inaccurate and Biased Information on Social Media) + 1:1 meetings (open to the public; registration link TBA)"
+    - name: "21:00 - 23:00 Mohsen Mosleh speaks at SICSS Beijing (Inaccurate and Biased Information on Social Media) + 1:1 meetings (talk open to the public; registration link TBA)"
 
 - date: 2021-06-24
   name: ""
   events:
     - name: "8:30 - 9:25 Participants discuss team projects (organized by each team separately; each team can schedule extra meeting/discussion)"
     - name: "9:30 - 11:00 Participants' research presentation: Xiduo, Yanni, Yingdan, Yiyan, Xiangyu"
-    - name: "21:00 - 23:00 Morgan Frank speaks at SICSS Beijing (Universal resilience patterns in labor markets) + 1:1 meetings (open to the public; registration link TBA)"
+    - name: "21:00 - 23:00 Morgan Frank speaks at SICSS Beijing (Universal resilience patterns in labor markets) + 1:1 meetings (talk open to the public; registration link TBA)"
 
 - date: 2021-06-25
   name: ""
