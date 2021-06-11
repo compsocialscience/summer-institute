@@ -5,18 +5,30 @@
   events: 
     - name: "10:00 - 11:45 Welcome, Praxis to Power Day 1 Introduction and logistics (*Zoom*)"
     - name: "11:45 - 12:00 Break"
-    - name: "12:00 - 1:00 Personal Experiences of African Americans in the Academy, with Terri Adams-Fuller, Ph.D., Britany Gatewood, Ph.D.,  Brandon Hogan, Ph.D.,  & Bahiyyah Muhammad, Ph.D. (*Zoom*)"
-    - name: "1:00 - 1:15 Break" 
-    - name: "1:15 - 1:45 Choosing Self-Care in a Hostile World, Meckell Milburn, MA, NBC-HWC, CWP, Revolutionary Healing (*Zoom*) [slides] [handout] [video]"
-    - name: "1:45 - 2:00 Break"
-    - name: '2:00 - 5:00 "Making Computational Methods Accessible: R big picture (tidyverse) + data wrangling" 
+    - name: '12:00 - 1:00 "Personal Experiences of African Americans in the Academy (*Zoom*)" 
     
-     - Jae Yeon Kim, Ph.D., Assistant Professor, Korea Development Institute School of Public Policy and Management [Workshop materials](https://github.com/jaeyk/sicss-howard-r-boot-camp) (*Zoom*)'
+     - Terri Adams-Fuller, Ph.D., Inaugural  SICSS-H/M Faculty Co-Sponsor, Associate Professor, Department  of Sociology and Anthropology, and Interim Director, NOAA Cooperative Science Center for Atmospheric Sciences & Meteorology at Howard University
+     
+     - Britany Gatewood, Ph.D., Adjunct Lecturer, Department of Sociology at Georgetown University
+     
+     - Brandon Hogan, Ph.D., Associate Professor, Department of Sociology at Howard University
+     
+     - Bahiyyah Muhammad, Ph.D. Inaugural  SICSS-H/M Faculty Co-Sponsor, Associate Professor, Department of Sociology and Anthropology at Howard University'
+     
+    - name: "1:00 - 1:15 Break" 
+    - name: '1:15 - 1:45 "Choosing Self-Care in a Hostile World" (*Zoom*) (slides) (handout) (video)
+    
+      - Meckell Milburn, MA, NBC-HWC, CWP, Revolutionary Healing'
+      
+    - name: "1:45 - 2:00 Break"
+    - name: '2:00 - 5:00 "Making Computational Methods Accessible: R big picture (tidyverse) + data wrangling" (*Zoom*) (video) [(Workshop materials)](https://github.com/jaeyk/sicss-howard-r-boot-camp)
+    
+      - Jae Yeon Kim, Ph.D., Assistant Professor, Korea Development Institute School of Public Policy and Management'
 
 - date: 2021-06-13
   name: Praxis to Power Pre-Institute
   events:
-    - name: "10:00 - 11:00 Praxis to Power Day 2 Introduction and logistics (*Zoom*) [video]"
+    - name: "10:00 - 11:00 Praxis to Power Day 2 Introduction and logistics (*Zoom*) [(video)]"
     - name: "11:00 - 2:00 Open Office Hours, or SICSS-Howard/Mathematica Exclusive Content Review (on your own), or Pre-Arrival Material Review (on your own)
     
     
@@ -31,112 +43,118 @@
               
                 - [Day 1: Introduction and Ethics, Day 2: Collecting Digital Trace Data, Day 3: Automated Text Analysis, Day 4: Surveys in the Digital Age, Day 5: Mass collaboration and machine learning, & OPTIONAL Day 6: Experiments](https://sicss.io/curriculum)
               
-                - Bit by Bit by Matt Salganik [textbook](https://www.bitbybitbook.com/en/1st-ed/preface/) / [video interview about text for SICSS-Howard/Mathematica 2021](https://youtu.be/jl__M596Crs)
+                - Bit by Bit by Matt Salganik [(textbook)](https://www.bitbybitbook.com/en/1st-ed/preface/) [(video)](https://youtu.be/jl__M596Crs)
+                
                 
                 
                 
           **Get to know the SICSS & SICSS-Howard/Mathematica 2021 Inaugural Planning Team**
           
+          
+                - SICSS at Age 5: An Interview with Co-Founders Chris Bail and Matt Salganik for SICSS-Howard/Mathematica 2021 [(video)](https://youtu.be/PGhI39loSYg)
               
-                - Terri Adams, Ph.D., Inaugural SICSS-H/M Faculty Co-Sponsor, Professor, Department  of Sociology and Criminology, and Interim Director, NOAA Cooperative Science Center for Atmospheric Sciences & Meteorology at Howard University [video](https://youtu.be/2R_w-PQbPD0)
+                - Terri Adams, Ph.D., Inaugural SICSS-H/M Faculty Co-Sponsor, Professor, Department  of Sociology and Criminology, and Interim Director, NOAA Cooperative Science Center for Atmospheric Sciences & Meteorology at Howard University [(video)](https://youtu.be/2R_w-PQbPD0)
               
-                - Bahiyyah Muhammad, Ph.D.,  Inaugural  SICSS-H/M Faculty Co-Sponsor, Associate Professor, Department of Sociology and Criminology, Howard University [video](https://youtu.be/2WRhoRgmvvc)
+                - Bahiyyah Muhammad, Ph.D.,  Inaugural  SICSS-H/M Faculty Co-Sponsor, Associate Professor, Department of Sociology and Criminology, Howard University [(video)](https://youtu.be/2WRhoRgmvvc)
               
-                - Calvin Hadley, Inaugural SICSS-H/M Event Co-Sponsor, Senior Advisor for Strategic Initiatives, Office of the President, Howard University [video](https://youtu.be/y-dp19EpEcU)
+                - Calvin Hadley, Inaugural SICSS-H/M Event Co-Sponsor, Senior Advisor for Strategic Initiatives, Office of the President, Howard University [[video)](https://youtu.be/y-dp19EpEcU)]
               
-                - Akira Bell,  Inaugural SICSS-H/M Event Co-Sponsor, Senior Vice President; Chief Information Officer, Mathematica [video](https://youtu.be/BVRDqmDMT-0)
+                - Akira Bell,  Inaugural SICSS-H/M Event Co-Sponsor, Senior Vice President; Chief Information Officer, Mathematica [(video)](https://youtu.be/BVRDqmDMT-0)
               
-                - Naniette H. Coleman, Inaugural SICSS-H/M Organizer, SICSS-Princeton 2019 Alumna, PhD Candidate Sociology, UC Berkeley [website](https://www.naniettecoleman.com/)
+                - Naniette H. Coleman, Inaugural SICSS-H/M Organizer, SICSS-Princeton 2019 Alumna, PhD Candidate Sociology, UC Berkeley [(website)](https://www.naniettecoleman.com/)
                 
-                - SICSS at Age 5: An Interview with Co-Founders Chris Bail and Matt Salganik for SICSS-Howard/Mathematica 2021 [video](https://youtu.be/PGhI39loSYg)
-                
+              
+              
                 
           **Changing the Game**
           
               
-                - Reimagining Social Institutions: Higher Education, an SSRC panel moderated by Alondra Nelson, Ph.D. [video](https://youtu.be/PdsdS4wnaG4)
+                - Reimagining Social Institutions: Higher Education, an SSRC and SAGE publishing panel moderated by Alondra Nelson, Ph.D. [(video)](https://youtu.be/PdsdS4wnaG4)
                 
                 - Black in AI, board member panel [video](https://youtu.be/uUyNd3yjTv8)
               
-                - Discussion on Diversity in Computational Social Science, SICSS Alumni Festival 2020 [video](https://www.youtube.com/watch?v=FYES4RCRaZw&t=2s)
+                - Discussion on Diversity in Computational Social Science, SICSS Alumni Festival 2020 [(video)](https://www.youtube.com/watch?v=FYES4RCRaZw&t=2s)
               
                 - Uncovering New Keys to Countering Anti-Black Racism and Inequity Using Computational Social Science, [SAGE Ocean blog](https://ocean.sagepub.com/blog/diversity/uncovering-new-keys-to-countering-anti-black-racism-and-inequity-using-computational-social-science)"
              
-    - name: "2:00 - 5:00 Making Computational Methods Accessible: data visualization with Jae Yeon Kim, Ph.D., Assistant Professor, Korea Development Institute School of Public Policy and Management [Workshop materials](https://github.com/jaeyk/sicss-howard-r-boot-camp) (*Zoom*) [video]"
+    - name: '2:00 - 5:00 "Making Computational Methods Accessible: data visualization and teaching CSS" (*Zoom*) [Workshop materials](https://github.com/jaeyk/sicss-howard-r-boot-camp)
+    
+      - Jae Yeon Kim, Ph.D., Assistant Professor, Korea Development Institute School of Public Policy and Management'
+      
     - name: "5:00 - 5:15 Break"
-    - name: "5:15 - 6:15 SICSS-Howard/Mathematica Kick-off and Opening Plenary: President Wayne A.I. Frederick, Howard University (*Zoom*) [video]"
+    - name: "5:15 - 6:15 SICSS-Howard/Mathematica Kick-off and Opening Plenary: President Wayne A.I. Frederick, Howard University (*Zoom*) (video)"
 
     
 - date: 2021-06-14
   name: "Day 1: Introduction and Ethics"
   events:
     - name: "[Day 1: Pre-arrival videos & corresponding slides](https://sicss.io/curriculum)"
-    - name: "10:00 - 10:30 Institute Introduction and logistics (*Zoom*) [video]"
+    - name: "10:00 - 10:30 Institute Introduction and logistics (*Zoom*) [(video)]"
     - name: "10:30 - 11:30 Small group discussions [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small_group_discussions.md) (*Zoom*) [video]"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: Getting the most out of your SICSS experience - a panel discussion with SICSS alums of color (encouraged) (*Zoom*) [video] [slides]"
+    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: Getting the most out of your SICSS experience - a panel discussion with SICSS alums of color (encouraged) (*Zoom*) (video) (slides)"
     - name: "1:00 - 1:30 Break"
-    - name: "1:30 - 1:45 Introduction to the group exercise [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_participant.md); [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_instructor.md) (*Zoom*) [video]"
-    - name: "1:45 - 2:45 Small group discussion of [case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf) (*Zoom*) [video]"
-    - name: "2:45 - 3:15 Whole group debrief about case study (*Zoom*) [video]"
-    - name: "3:15 - 3:45 Debrief and logistics (*Zoom*) [video]"
+    - name: "1:30 - 1:45 Introduction to the group exercise [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_participant.md); [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_instructor.md) (*Zoom*) (video)"
+    - name: "1:45 - 2:45 Small group discussion of [case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf) (*Zoom*) (video)"
+    - name: "2:45 - 3:15 Whole group debrief about case study (*Zoom*) (video)"
+    - name: "3:15 - 3:45 Debrief and logistics (*Zoom*) (video)"
     - name: "3:45 - 4:00 [Apply](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md#preparation) for data access for Fragile Families Challenge activity if you haven't already"
 
 - date: 2021-06-15
   name: "Day 2: Collecting Digital Trace Data"
   events:
     - name: "[Day 2: Pre-arrival videos, corresponding slides, & annotated code](https://sicss.io/curriculum)"
-    - name: "10:00 - 10:15 Logistics and introduction to [group exercise](https://compsocialscience.github.io/summer-institute/2021/materials/day2-digital-trace-data/Group_Exercise_Day_2.html) (*Zoom*) [video]"
-    - name: "10:15 - 11:30 Identify a Research Question with Digital Trace Data (*Zoom*) [video]"
+    - name: "10:00 - 10:15 Logistics and introduction to [group exercise](https://compsocialscience.github.io/summer-institute/2021/materials/day2-digital-trace-data/Group_Exercise_Day_2.html) (*Zoom*) (video)"
+    - name: "10:15 - 11:30 Identify a Research Question with Digital Trace Data (*Zoom*) (video)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: Wiki Education (encouraged) (*Zoom*) [video] [slides]"
+    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: Wiki Education (encouraged) (*Zoom*) (video) (slides)"
     - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 2:30 Develop a Sampling Frame (*Zoom*) [video]"
-    - name: "2:30 - 3:30 Populate the Sampling Frame with Screen-Scraping (*Zoom*) [video]"
-    - name: "3:30 - 3:45 Debrief and logistics (*Zoom* [video])"
+    - name: "1:15 - 2:30 Develop a Sampling Frame (*Zoom*) (video)"
+    - name: "2:30 - 3:30 Populate the Sampling Frame with Screen-Scraping (*Zoom*) (video)"
+    - name: "3:30 - 3:45 Debrief and logistics (*Zoom*) (video)"
   
 
 - date: 2021-06-16
   name: "Day 3: Automated Text Analysis"
   events:
     - name: "[Day 3: Pre-arrival videos, corresponding slides, & annotated code](https://sicss.io/curriculum)"
-    - name: "10:00 - 10:15 Logistics and introduction to [group exercise](https://compsocialscience.github.io/summer-institute/2021/materials/day3-text-analysis/Group-Exercise-Day-3.html) (*Zoom*) [video]"
-    - name: "10:15 - 11:30 Extract Features from Trump Tweets (*Zoom*) [video]"
+    - name: "10:00 - 10:15 Logistics and introduction to [group exercise](https://compsocialscience.github.io/summer-institute/2021/materials/day3-text-analysis/Group-Exercise-Day-3.html) (*Zoom*) (video)"
+    - name: "10:15 - 11:30 Extract Features from Trump Tweets (*Zoom*) (video)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: The Data Nutrition Project (encouraged) (*Zoom*) [video] [slides]"
+    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: The Data Nutrition Project (encouraged) (*Zoom*) (video) (slides)"
     - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 3:30 Predict Features of Tweets associated with Retweets and Produce Visualization (*Zoom*) [video]"
-    - name: "3:30 - 3:45 Debrief and logistics (*Zoom*) [video]"
+    - name: "1:15 - 3:30 Predict Features of Tweets associated with Retweets and Produce Visualization (*Zoom*) (video)"
+    - name: "3:30 - 3:45 Debrief and logistics (*Zoom*) (video)"
 
 - date: 2021-06-17
   name: "Day 4: Surveys in the Digital Age"
   events:
     - name: "[Day 4: Pre-arrival videos & corresponding slides](https://sicss.io/curriculum)"
-    - name: "10:00 - 10:15 Logistics (*Zoom*) [video]"
-    - name: "10:15 - 10:30 [Introduction to the group exercise](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/intro-to-activity.pdf), [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/lesson_plan_survey_participants.md); [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/lesson_plan_survey_instructor.md) (*Zoom*) [video]"
-    - name: "10:30 - 11:30 Morning group exercise (*Zoom*) [video]"
+    - name: "10:00 - 10:15 Logistics (*Zoom*) (video)"
+    - name: "10:15 - 10:30 [Introduction to the group exercise](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/intro-to-activity.pdf), [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/lesson_plan_survey_participants.md); [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/lesson_plan_survey_instructor.md) (*Zoom*) (video)"
+    - name: "10:30 - 11:30 Morning group exercise (*Zoom*) (video)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: The California Policy Lab (encouraged) (*Zoom*) [video] [slides]"
+    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: The California Policy Lab (encouraged) (*Zoom*) (video) (slides)"
     - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 3:00 Afternoon group exercise (*Zoom*) [video]"
+    - name: "1:15 - 3:00 Afternoon group exercise (*Zoom*) (video)"
     - name: "3:00 - 3:15 Break"
-    - name: "3:15 - 3:30 Whole group debrief about group exercise (*Zoom*) [video]"
-    - name: "3:30 - 3:45 Debrief and logistics (*Zoom*) [video]"
+    - name: "3:15 - 3:30 Whole group debrief about group exercise (*Zoom*) (video)"
+    - name: "3:30 - 3:45 Debrief and logistics (*Zoom*) (video)"
 
 - date: 2021-06-18
   name: "Day 5: Mass collaboration and machine learning"
   events:
     - name: "[Day 5: Pre-arrival videos & corresponding slides](https://sicss.io/curriculum)"
     - name: "10:00 - 10:15 Logistics (*Zoom*)"
-    - name: "10:15 - 10:30 Introduction to the group exercise [Video](https://www.youtube.com/watch?v=ZI95vV7Co38) [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/06-ffchallenge_participate_activity.pdf) (*Zoom*) [video]"
-    - name: "10:30 - 11:30 Participate in the Fragile Families Challenge activity [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md#lesson-plan-for-participants); [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_instructor.md#lesson-plan-for-instructors) (*Zoom*) [video]"
+    - name: "10:15 - 10:30 Introduction to the group exercise [Video](https://www.youtube.com/watch?v=ZI95vV7Co38) [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/06-ffchallenge_participate_activity.pdf) (*Zoom*) (video)"
+    - name: "10:30 - 11:30 Participate in the Fragile Families Challenge activity [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md#lesson-plan-for-participants); [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_instructor.md#lesson-plan-for-instructors) (*Zoom*) (video)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: FactSpace West Africa and FakeNetAI (encouraged) (*Zoom*) [video] [slides]"
+    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: FactSpace West Africa and FakeNetAI (encouraged) (*Zoom*) (video) (slides)"
     - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 3:00 Continue participating in the Fragile Families Challenge activity (*Zoom*) [video]"
+    - name: "1:15 - 3:00 Continue participating in the Fragile Families Challenge activity (*Zoom*) (video)"
     - name: "3:00 - 3:15 Break"
-    - name: "3:15 - 3:30 Whole group debrief about group exercise (*Zoom*) [video]"
-    - name: "3:30 - 3:45 Debrief and logistics (*Zoom*) [video]"
+    - name: "3:15 - 3:30 Whole group debrief about group exercise (*Zoom*) (video)"
+    - name: "3:30 - 3:45 Debrief and logistics (*Zoom*) (video)"
     - name: "3:45 - 4:00 [Delete](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md#deleting-the-files-after-use) the Fragile Families data from your computer"
     - name: "4:00 - 5:00 Data assurance checks (*Zoom*)"
 
@@ -151,45 +169,45 @@
   events:
   - name: "10:00 - 10:15 Logistics (*Zoom*)"
   - name: "10:15 - 12:00 TBD"
-  - name: "12:00 - 1:00 Small group lunches or participant flash talks (encouraged) (*Zoom*) [video]"
+  - name: "12:00 - 1:00 Small group lunches or participant flash talks (encouraged) (*Zoom*) (video)"
   - name: "1:00 - 4:00 TBD"
-  - name: "4:00 - 5:30 Ruha Benjamin, Ph.D., Associate Professor of African American Studies, Princeton University - live session to include Q&A and office hours (*Zoom*) [video] [slides]"
+  - name: "4:00 - 5:30 Ruha Benjamin, Ph.D., Associate Professor of African American Studies, Princeton University - live session to include Q&A and office hours (*Zoom*) (video) (slides)"
 
 - date: 2021-06-22
   name: "Day 7: Work on group projects and participate in SICSS Festival"
   events:
   - name: "10:00 - 10:15 Logistics (*Zoom*)"
   - name: "10:15 - 12:00 TBD"
-  - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: The University of California's Publisher Negotiation Team (encouraged) (*Zoom*) [video] [slides]"
+  - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: The University of California's Publisher Negotiation Team (encouraged) (*Zoom*) (video) (slides)"
   - name: "1:00 - 4:00 TBD" 
-  - name: "4:00 - 5:30 Chris Wheat, Ph.D., Co-President, JP Morgan Chase Institute - live session to include Q&A and office hours (*Zoom*) [video] [slides]"
+  - name: "4:00 - 5:30 Chris Wheat, Ph.D., Co-President, JP Morgan Chase Institute - live session to include Q&A and office hours (*Zoom*) (video) (slides)"
 
 - date: 2021-06-23
   name: "Day 8: Work on group projects and participate in SICSS Festival"
   events:
   - name: "10:00 - 10:15 Logistics (*Zoom*)"
   - name: "10:15 - 12:00 TBD"
-  - name: "12:00 - 1:00 Live Mathematica Roundtable (encouraged) (*Zoom*) [video]"
+  - name: "12:00 - 1:00 Live Mathematica Roundtable (encouraged) (*Zoom*) (video)"
   - name: "1:00 - 4:00 TBD"
-  - name: "4:00 - 5:30 Naomi Sugie, Ph.D., Associate Professor of Criminology, Law, and Society, University of California Irvine - live session to include Q&A and office hour (*Zoom*) [video] [slides]"
+  - name: "4:00 - 5:30 Naomi Sugie, Ph.D., Associate Professor of Criminology, Law, and Society, University of California Irvine - live session to include Q&A and office hour (*Zoom*) (video) (slides)"
 
 - date: 2021-06-24
   name: "Day 9: Work on group projects and participate in SICSS Festival"
   events:
   - name: "10:00 - 10:15 Logistics (*Zoom*)"
   - name: "10:15 - 4:00 TBD"
-  - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: vary CSS (encouraged) (*Zoom*) [video] [slides]" 
+  - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: vary CSS (encouraged) (*Zoom*) (video) (slides)" 
   - name: "1:00 - 4:00 TBD"
-  - name: "4:00 - 5:30 Laura Nelson, Ph.D., Assistant Professor of Sociology, Northeastern University - live session to include Q&A and office hour (*Zoom*) [video] [slides]"
+  - name: "4:00 - 5:30 Laura Nelson, Ph.D., Assistant Professor of Sociology, Northeastern University - live session to include Q&A and office hour (*Zoom*) (video) (slides)"
 
 - date: 2021-06-25
   name: "Day 10: Present group projects and participate in SICSS Festival"
   events:
   - name: "10:00 - 10:15 Logistics"
   - name: "10:15 - 10:30 Break"
-  - name: "10:30 - 12:00 SICSS-Howard/Mathematica 2021 Keynote Address, Timnit Gebru, Ph.D., Co-founder, Black in AI (*Zoom*) [video]"
+  - name: "10:30 - 12:00 SICSS-Howard/Mathematica 2021 Keynote Address, Timnit Gebru, Ph.D., Co-founder, Black in AI (*Zoom*) (video)"
   - name: "12:00 - 1:30 Final work on group projects"
-  - name: "1:30 - 4:30 Present group projects (*Zoom*) [video]"
-  - name: "4:30 - 5:00 Closing Plenary address and Q&A, Paul Decker, President and Chief Executive Officer, Mathematica (*Zoom*) [video]"
+  - name: "1:30 - 4:30 Present group projects (*Zoom*) (video)"
+  - name: "4:30 - 5:00 Closing Plenary address and Q&A, Paul Decker, President and Chief Executive Officer, Mathematica (*Zoom*) (video)"
   - name: "5:00 - 5:15 Break"
   - name: "5:15 - 5:45 Debrief and conclusion"
