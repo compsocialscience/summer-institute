@@ -34,13 +34,15 @@ __Open to:__ 45 registered participants
 
 [Register here](https://forms.gle/2uWTZ4A6AAjobkrt5)
 
-### Computational social science Job Market Panel
+### Panel discussion on the non-academic job market in computational social science
 
 __Time:__ Wednesday, June 23, 2021. 12-1pm EDT
 
 __Speakers:__ TBA
 
 __Moderator:__ [Chris Bail](https://www.chrisbail.net/) (SICSS-Princeton 17, 19, 21, SICSS-Duke 18, 20)
+
+__Description:__ Computational social science leads to a wide range of interdisciplinary job opportunities outside academia. These panelists will share their experiences in industry settings and will offer thoughts about how an academic research program in the field could lead to a variety of fulfilling careers.
 
 __Open to:__ Unlimited registered participants
 
