@@ -41,21 +41,21 @@ localspeakers:
       image: /assets/images/morganFrank.jpg
       bio: Morgan Frank is an Assistant Professor at the School of Computing and Information at the University of Pittsburgh, a Research Affiliate at the MIT Media Lab, and a Digital Fellow at the Stanford Institute for Human-Centered Artificial Intelligence. Morgan is interested in the complexity of AI, the future of work, and the socio-economic consequences of technological change. While many studies focus on phenotypic labor trends, Morgan’s recent research examines how genotypic skill-level processes around AI impact individuals and society. Combining labor research with investigations into the nature of AI research and the social or societal implications of AI adoption, Morgan hopes to inform our understanding of AI’s impact. Morgan has a PhD from MIT’s Media Lab, was a postdoc at MIT IDSS and the IDE,  and has a masters degree in applied mathematics from the University of Vermont where he was a member of the Computational Story Lab.
       website: http://www.pitt.edu/~mrfrank/
-      
-    - name: Subhayan Mukerjee 
-      image: /assets/images/SubhayanMukerjee.jpeg
-      bio: "Subhayan Mukerjee is an assistant professor at the Department of New Media and Communications of the National University of Singapore. A computational social scientist by training, he is interested in understanding the relationship between digital technologies and human behavior using network analysis, statistical inference, agent based modeling, and online experiments. He holds an MA and PhD from the Annenberg School for Communication of the University of Pennsylvania. Prior to that he received a BE in Computer Science and MSc in Mathematics from BITS Pilani in India."
-      website: https://profile.nus.edu.sg/fass/cnmsm/
 
     - name: Zhiyuan Liu
       image: /assets/images/zhiyuanLiu.png
       bio: Zhiyuan Liu is an associate professor at the Department of Computer Science and Technology, Tsinghua University. He received his Ph.D. degree in Computer Science from Tsinghua in 2011. His research interests include representation learning, knowledge graphs and social computation, and has published more than 90 papers in top-tier conferences and journals of AI and NLP including ACL, IJCAI and AAAI, cited by more than 13,000 according to Google Scholar. He is the recipient of the Excellent Doctoral Dissertation of Tsinghua University, the Excellent Doctoral Dissertation of CAAI (Chinese Association for Artificial Intelligence), MIT Technology Review Innovators Under 35 China (MIT TR-35 China), BAAI Young Scientist. He serves as area chairs of ACL, EMNLP, COLING, IJCNLP, etc.
       website: http://nlp.csai.tsinghua.edu.cn/~lzy/
-    
+
     - name: Mohsen Mosleh
       image: /assets/images/MoslehM.jpg
       bio: Mohsen Mosleh is a Lecturer (Assistant Professor) at the Science, Innovation, Technology, and Entrepreneurship Department, University of Exeter Business School and a Research Affiliate at MIT. Mohsen was a Postdoctoral Fellow at the MIT Sloan School of Management as well as the Department of Psychology at Yale University. Prior to his postdoctoral studies, Mohsen received his PhD from Stevens Institute of Technology in Systems Engineering with a minor in data science. Mohsen’s research interests lie at the intersection of computational/data science and cognitive/social science. In particular, he studies how information and misinformation spread on social media, collective decision-making, and cooperation.
       website: http://mohsenmosleh.com/
+
+    - name: Subhayan Mukerjee 
+      image: /assets/images/SubhayanMukerjee.jpeg
+      bio: "Subhayan Mukerjee is an assistant professor at the Department of New Media and Communications of the National University of Singapore. A computational social scientist by training, he is interested in understanding the relationship between digital technologies and human behavior using network analysis, statistical inference, agent based modeling, and online experiments. He holds an MA and PhD from the Annenberg School for Communication of the University of Pennsylvania. Prior to that he received a BE in Computer Science and MSc in Mathematics from BITS Pilani in India."
+      website: https://profile.nus.edu.sg/fass/cnmsm/
 
     - name: Nynke Niezink
       image: /assets/images/nynkeNiezink.jpg
@@ -96,6 +96,11 @@ participants:
     image: /assets/images/Zhaowen-Guo
     bio: "Zhaowen Guo is pursuing a PhD in political science at University of Washington. Her work has centered around how information and technology impact public discourses, government accountability, and social behavior. She draws on a mix-method approach with a particular interest in connecting formal models with computational social science methods. Prior to joining University of Washington, she holds a master's degree in political science at Columbia University with Chinese Government Scholarship, and a bachelor's degree in political science at Fudan University."
     website: "https://www.linkedin.com/in/zhaowen-guo-20535312a/"
+
+  - name: Shengchun Huang
+    image: /assets/images/Xinyi-Wang
+    bio: "Shengchun Huang is a doctoral student at the Annenberg School for Communication at the University of Pennsylvania. She is is interested in digital news consumption, algorithm driven aggregators/platforms, and social effects in the high-choice media environment. Before joining Annenberg, she received her B.A. degree in communication from Renmin University of China and M.A. degree in journalism and communications from Tsinghua University."
+    website: "https://www.asc.upenn.edu/people/graduate-student/shengchun-huang"
 
   - name: Sachin Kumar
     image: /assets/images/Sachin-Kumar
@@ -181,3 +186,18 @@ participants:
   - name: Kunru Zou
     image: /assets/images/Kunru-Zou
     bio: "Kunru Zou is a doctoral student in finance at the Nanyang Business School in Nanyang Technological University. His research interest include corporate finance, privatization, corporate social responsibility. Methodologically, he is interested in econometric analysis with geographical variation. He is also interested in textual analysis and machine learning. Before coming to Singapore, he received his bachelor degree in Maths and master degree in Finance both from Sun Yat-sen University."
+    
+    
+teaching_assistants:
+  title: Teaching Assistants
+  people:
+
+  - name: Shengchun Huang
+    image: /assets/images/ShengchunHuang
+    bio: "Shengchun Huang is a doctoral student at the Annenberg School for Communication at the University of Pennsylvania. She is is interested in digital news consumption, algorithm driven aggregators/platforms, and social effects in the high-choice media environment. Before joining Annenberg, she received her B.A. degree in communication from Renmin University of China and M.A. degree in journalism and communications from Tsinghua University."
+    website: "https://www.asc.upenn.edu/people/graduate-student/shengchun-huang"
+
+  - name: Xinyi Wang
+    image: /assets/images/Xinyi-Wang
+    bio: "Xinyi Wang studies communication and media effects in the context of health and mental wellbeing. Her research aims to understand the influence of the current media environment on people’s daily and long-term health decision-making. With a focus on psychosocial individual differences, she is particularly interested in the consequence of “triggering media content” to vulnerable populations (i.e., depression, addiction). In the long term, she aims to develop persuasive media content that promotes healthier lifestyles. Her research combines a variety of methods (i.e., self-report, fMRI, physiological measures, mobile application intervention) to expand the understanding of health behavior into multiple facets."
+    website: "https://twitter.com/indeed_xinyi"
