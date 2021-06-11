@@ -242,7 +242,7 @@ planning_team:
 teaching_assistants:
   title: Teaching Assistants 
   people:      
-    - name: Coming Soon!
+    <img class="SICSS-Howard/Mathematica TAs" src="assets/images/HowardMathematicaTAs.jpeg" />
       
 event_staff:
   title: Event Staff
