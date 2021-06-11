@@ -21,9 +21,10 @@
     - name: "4pm - 6pm Guest Speaker:  David Lazer"
 
 - date: 2021-06-15
-  name: "Collecting Digital Trace Data (Background Lectures)[https://drive.google.com/drive/folders/1g3CPaXfSFbLcKDKaRsQ8pz2hTGc7XkW7] "
+  name: "Collecting Digital Trace Data"
   events:
-    - name: "10:00 - 11:00 Intro and logistics (Faculty leader: Nicola Perra) (*Zoom)"
+    - name: " (Background Lectures)[https://drive.google.com/drive/folders/1g3CPaXfSFbLcKDKaRsQ8pz2hTGc7XkW7] "
+    - name: "10:00 - 11:00 Intro and logistics (Faculty leader: Nicola Perra) (*Zoom*)"
     - name: "11:00 - 11:15 Break"
     - name: "11:15 - 12:00 Work on projects (familiarize with API and define research questions) (*Zoom)"
     - name: "12:00 - 1:00 Group lunches (optional) (*Zoom*)"
@@ -55,8 +56,9 @@
     - name: "3:45 - 4:00 Logistics & Empirica install (*Zoom*)"
     
 - date: 2021-06-18
-  name: "Computational Models and Virtual Lab Experiments (Background Lectures)[https://www.youtube.com/playlist?list=PLdPzfPMWiAaqRF_veYlskgX1c9DKVXVKw] "
+  name: "Computational Models and Virtual Lab Experiments"
   events:
+    - name: " (Background Lectures)[https://www.youtube.com/playlist?list=PLdPzfPMWiAaqRF_veYlskgX1c9DKVXVKw] "
     - name: "10:00 - 11:00 Intro & discussion (Faculty leaders: Joshua Becker & Milena Tsvetkova) (*Zoom*)"
     - name: "11:00 - 12:00 Empirica tutorial Part 1a: a basic guessing game (*Zoom*) [Completed Code](https://github.com/empiricaly/your-first-experiment/tree/1/customised-the-task)"
     - name: "12:00 - 1:00 Group lunches (optional) (*Zoom*)"
