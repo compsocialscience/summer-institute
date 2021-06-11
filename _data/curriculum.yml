@@ -149,6 +149,10 @@
           text: "Slides"
         - link: "https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/text-networks/rmarkdown/Text_Networks.html"
           text: "Annotated Code"
+  exercise_title: "Group exercise"
+  exercise:
+    - name: "Lesson plan"
+      resource: "https://sicss.io/2021/materials/day3-text-analysis/Group-Exercise-Day-3.html"
 
 - day: Day 4
   id: day_4
