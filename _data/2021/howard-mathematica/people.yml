@@ -4,12 +4,12 @@ faculty:
     - name: Terri Adams, Ph.D
       image: /assets/images/TerriAdams.jpg
       bio: "Terri Adams, Ph.D. is a Professor in the Department of Sociology and Criminology, and Interim Director at the NOAA Cooperative Science Center for Atmospheric Sciences & Meteorology at Howard University. She is also the lead investigator of the decision-support team for the “Building Extreme Weather Resiliency Through Improved Weather and Climate Prediction and Public Response Strategies” project supported by the National Foundation’s Partnerships in International Research and Education Program. Dr. Adams’ research takes an interdisciplinary approach to examine issues that have both theoretical and practical implications. Her specific research interests include emergency management, policing, gender studies, and the impact of trauma and disasters on individuals and organizations.  Her most recent work centers on the decision-making processes of both individuals and organizations in the face of natural disasters.  In addition to her academic work, she has served as a research consultant for a number of agencies and non-profit organizations including: The Police Executive Leadership Program at Johns Hopkins University, the Williams Institute, the DC Metropolitan Police Department, the National Organization of Black Law Enforcement Executives, the Prince George’s Center for Youth and Family Research, the Young Ladies of Tomorrow Inc., and the Fraternal Order of Police Metropolitan Police Labor Committee."      
-      website: https://profiles.howard.edu/profile/41046/terri-adams
+      website: https://ncas.howard.edu/directory/terri-adams-ph-d/
       
     - name: Bahiyyah Muhammad, Ph.D
       image: /assets/images/BahiyyahMuhammad.jpg
       bio: "Dr. Bahiyyah Muhammad is an Associate Professor of Criminology in the Department of Sociology at Howard University (HU) in the District of Columbia (DC). She is an expert on mass incarceration and the collateral consequences on families, specifically focused on resilience among children of incarcerated parents.  Her recent work explores the culture among families and children who maintain bonds during long-term imprisonment and death by incarceration.  Her future research  agenda includes ethnographic methodologies to uncover the “culture of mass incarceration”."         
-      website: https://gs.howard.edu/content/bahiyyah-muhammad
+      website: https://gs.howard.edu/content/bahiyyah-muhammad 
       
 opening:
   title: Opening Plenary Speaker
@@ -229,7 +229,15 @@ organizers:
 planning_team:
   title: Planning Team
   people:
-    - name: Coming Soon!
+    - name: Akira Bell
+      image: /assets/images/AkiraBell.jpeg
+      bio: "Akira Bell is Mathematica’s senior vice president and chief information officer. She oversees technology infrastructure and governance and leads strategy for delivering innovation in support of client and internal business function needs. Before joining Mathematica in 2018, Bell led the IT function for Aramark’s higher education business unit. Previously, she served as a divisional chief information officer within the Hess Corporation and held various program management, application development, and technology consulting roles with UnitedHealth, IBM Global Services, and PricewaterhouseCoopers. While at Hess, she guided IT strategy during the acquisition of its retail division by Marathon Speedway and was part of the team recognized by CIO magazine with a CIO100 Award for delivering innovative IT solutions during Hurricane Sandy recovery. Bell earned a B.S.E. in operations research from Princeton University, where she serves as an alumni mentor for women in science, technology, engineering, and mathematics."
+      website: https://www.mathematica.org/staff/akira-bell 
+      
+    - name: Calvin Hadley
+      image: /assets/images/CalvinHadley.jpg
+      bio: "Calvin J. Hadley serves as the Senior Advisor for Strategic Initiatives in the Office of the President at Howard University. As Senior Advisor for Strategic Initiatives on the President's Senior Leadership Team, Hadley works to broker strategic partnerships that advance the University's mission, Truth and Service. Since joining Howard in 2014, he's negotiated numerous partnerships along several student programs. The most notable of these include Howard's partnership with Google and Amazon Studios to create the Howard West Campus in Silicon Valley, and the Howard Entertainment Campus in Hollywood. Partnerships with the District of Columbia Public Schools also led to the creation of a dual-enrollment program that allows high school juniors and seniors to earn college credit at Howard University. A lecture series with Congressman Elijah Cummings, former director of the FBI James Comey, former Mayor of Washington D.C. Vincent Gray, and others." 
+      website: https://www2.howard.edu/about/president/staff 
     
 teaching_assistants:
   title: Teaching Assistants 
