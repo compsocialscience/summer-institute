@@ -82,7 +82,6 @@
       - name: "21:00-21:10 Short Break"
       - name: "21:10-22:00 Reporting with [markdowns](https://rmarkdown.rstudio.com/) and [shiny](https://shiny.rstudio.com/)"
       - name: "22:00-22:30 Evaluation of Pre-SICSS Period"
-      - name: "* [Replication Codes]()"
       - name: "* SICSS Learning Material: [Visualization-Communicating and Collaborating](https://sicss.io/boot_camp/)"     
         
        
@@ -140,7 +139,7 @@
 
 - date: "Second Week of ‘Real SICSS’"
   events:
-     - name: "**Guest Talks**<br/>  We believe that social science research and industry will collaborate more in the future. Computational social science methods allows academic researchers to work closely with industry compared to the past. Therefore, we will organize an industry talk with an eminent figure in Turkish innovation industry to see other side of the coin. Additionally, we will have an eminent figure of Turkish Natural Language Processing to learn the state-of-the-art NLP applications in social sciences."
+     - name: "**Guest Talks**<br/>  We believe that social science research and industry will collaborate more in the future. Computational social science methods allows academic researchers to work closely with industry compared to the past. Therefore, we will organize an industry talk with an eminent figure in Turkish innovation industry to see other side of the coin. We will also host an eminent figure of Turkish Natural Language Processing to learn the state-of-the-art NLP applications in social sciences. Additionally, we will have an alumni talk to discuss on an ongoing research started at the last year of SICSS."
      - name: "**Work on Group Projects and Flash Talks**<br/> This week will be mainly focused on group work projects. Up until this date, you should have an idea of which participants you’d like to team up with and the research question that you’ll work on. Teams that people built in previous SICSS_Istanbul events have flourished into full-fledged research groups, presenting their SICSS papers at APSA, ASA and beyond!"
 
 - date: 2021-06-21
@@ -157,10 +156,11 @@
      - name: "**Description**: This talk will introduce the participants to basic concepts and techniques of Natural Language Processing in an interactive fashion and will highlight aspect to Turkish that make it a challenge. It will then provide an overview of NLP applications in social sciences."
        
 - date: 2021-06-23
-  name: Work on Group Projects
+  name: Alumni Talk and Work on Group Projects
   events:
-     - name: "16:00-17:00 Office Hour and Flash Talks of Group Projects on Wonder"       
-      
+     - name: "16:00-17:00 Office Hour and Flash Talks of Group Projects on Wonder" 
+     - name: "17:00-18:30 Alumni Talk with Burak Ozturan"
+
 - date: 2021-06-24
   name: Work on Group Projects
   events:
