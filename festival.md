@@ -8,8 +8,6 @@ The SICSS Festival is a series of online events such as tutorials, panel discuss
 
 # 2021: Monday, June 21 - Friday, June 25
 
-## Tuesday 
-
 ### Using images and video data for social science: Challenges and opportunities
 
 __Time:__ Tuesday, June 22, 2021. 11am-12pm EDT
@@ -36,8 +34,6 @@ __Open to:__ 45 registered participants
 
 [Register here](https://forms.gle/2uWTZ4A6AAjobkrt5)
 
-## Wednesday 
-
 ### Computational social science Job Market Panel
 
 __Time:__ Wednesday, June 23, 2021. 12-1pm EDT
@@ -49,8 +45,6 @@ __Moderator:__ [Chris Bail](https://www.chrisbail.net/) (SICSS-Princeton 17, 19,
 __Open to:__ Unlimited registered participants
 
 [Register here](https://forms.gle/ixdR3wC4WzRRwpBS7)
-
-## Thursday 
 
 ### Taking Quantitative Description Seriously
 
@@ -66,15 +60,13 @@ __Open to:__ Unlimited registered participants
 
 [Register here](https://forms.gle/tRF7ttu4RoQKxfAJ7)
 
-## Friday 
-
 ### Creating your own virtual lab experiment with Empirica
 
 __Time:__ Friday, June 25, 2021. 9am-1pm EDT
 
-__Speakers:__ [Abullah Almaatouq](http://www.amaatouq.com/) (MIT Sloan, Empirica founder & developer), [Joshua Becker](https://www.joshua-becker.com/) (UCL School of Management, tutorial author), and [Sam Dupret](https://www.mgmt.ucl.ac.uk/people/samueldupret) (UCL School of Management, tutorial author)
+__Speakers:__ [Abdullah Almaatouq](http://www.amaatouq.com/) (MIT Sloan, Empirica founder & developer), [Joshua Becker](https://www.joshua-becker.com/) (UCL School of Management, tutorial author), and [Sam Dupret](https://www.mgmt.ucl.ac.uk/people/samueldupret) (UCL School of Management, tutorial author)
 
-__Description:__ This is a self-guided, do-it-yourself workshop that will enable you to create virtual lab experiments with [Empirica](https://empirica.ly/).  Empirica is an open-source framework that makes creating virtual lab experiments more fun and less painful.  During this event, participants will first watch a set of [introductory videos](https://youtube.com/playlist?list=PLPQelvUwyVgiawBDk3Sp74QMfL8RPgORW) (about 10 mins) that provide a conceptual overview.  Participants will then proceed through a [written tutorial](https://docs.empirica.ly/guides/tutorial-your-first-experiment) that will walk them step-by-step through building a multi-player experiment with chatrooms and automated bots.  Upon completing the tutorial, participants will have created an experiment that they can further customize and that is ready to deploy to real research participants.  Faculty members with extensive experience using Empirica for research—and other workshop participants—will be available in the Empirica Slack during the workshop period to help participants through the tutorial and answer more general questions, both about Empirica and related topics like subject recruitment.  Outside the workshop period, the Empirica Slack remains available for general discussion and questions both with the faculty and other community members. 
+__Description:__ This is a self-guided, do-it-yourself workshop that will enable you to create virtual lab experiments with [Empirica](https://empirica.ly/).  Empirica is an open-source framework that makes creating virtual lab experiments more fun and less painful.  During this event, participants will first watch a set of [introductory videos](https://youtube.com/playlist?list=PLPQelvUwyVgiawBDk3Sp74QMfL8RPgORW) (about 10 mins) that provide a conceptual overview.  Participants will then proceed through a [written tutorial](https://docs.empirica.ly/guides/tutorial-your-first-experiment) that will walk them step-by-step through building a multi-player experiment with chatrooms and automated bots.  Upon completing the tutorial, participants will have created an experiment that they can further customize and that is ready to deploy to real research participants.  Faculty members with extensive experience using Empirica for research—and other workshop participants—will be available in the Empirica Slack during the workshop period to help participants through the tutorial and answer more general questions, both about Empirica and related topics like subject recruitment.  Outside the workshop period, the Empirica Slack remains available for general discussion and questions both with the faculty and other community members.
 
 __Expected programming background:__ Empirica is a platform built on ReactJS, but participants do not need to know javascript to complete the tutorial. The tutorial is designed to be self-sufficient for anyone with strong coding skills who can learn on the go.  Knowledge of basic HTML is helpful.  
 
@@ -178,7 +170,7 @@ __Speakers:__ [Nicolò Cavalli](https://www.sociology.ox.ac.uk/graduate/nicolo-c
 
 __Moderator:__ [Vissého Adjiwanou](https://sociologie.uqam.ca/corps-professoral/professeurs-es/professeur/adjiwanou.visseho/) (SICSS-Princeton 17, SICSS-Cape Town 18, 19, SICSS-Montreal 20)
 
-__Description:__ The panel will begin with a broad introduction to digital and computational approaches to demography.  Next, panelists will present examples drawing on some of their own work  of digital and computational approaches to demographic research in two areas: 1) migration and 2) digital inequality and its implications for demographic processes.  Following these specific examples, the panel will reflect on future directions for digital demography, both in the context of the promises and perils of this emerging area in demographic research, as well as in relation to its role within the broader computational social science community.  We aim for this conversation to include a wider discussion between panelists and participants, and encourage broad participation from those within computational social science, demography and population studies communities. 
+__Description:__ The panel will begin with a broad introduction to digital and computational approaches to demography.  Next, panelists will present examples drawing on some of their own work  of digital and computational approaches to demographic research in two areas: 1) migration and 2) digital inequality and its implications for demographic processes.  Following these specific examples, the panel will reflect on future directions for digital demography, both in the context of the promises and perils of this emerging area in demographic research, as well as in relation to its role within the broader computational social science community.  We aim for this conversation to include a wider discussion between panelists and participants, and encourage broad participation from those within computational social science, demography and population studies communities.
 
 __Open to:__ Unlimited registered participants: Registration has closed.
 
@@ -255,7 +247,7 @@ __Archiving:__ This event will NOT be recorded or archived.
 
 __Time:__ Thursday, June 25. 2-3 PM EDT
 
-__Organizers:__ [Tina Law](https://tinalaw1.github.io/) (SICSS-Duke 18, SICSS-Chicago 19) and [Taylor W. Brown](https://www.taylorwhittenbrown.com/) (SICSS-Princeton 17, SICSS-Duke 18, SICSS-Oxford 19) 
+__Organizers:__ [Tina Law](https://tinalaw1.github.io/) (SICSS-Duke 18, SICSS-Chicago 19) and [Taylor W. Brown](https://www.taylorwhittenbrown.com/) (SICSS-Princeton 17, SICSS-Duke 18, SICSS-Oxford 19)
 
 __Description:__ Right now, protests are taking place around the world in response to the murders of George Floyd, Breonna Taylor, Ahmaud Arbery, Tony McDade, Rayshard Brooks, and countless other Black lives, and many necessary conversations are being had about anti-Black racism. As members of the SICSS community, what can we do to recognize and eradicate anti-Black racism in our own field? Computational social science is a relatively new field with a lot of potential for positive social change. It is also a field born out of two long-standing disciplines--computer science and social science--that have histories of marginalizing Black scholarship and contributing to anti-Black policies and programs. What are the opportunities and challenges that we face as computational social scientists when it comes to addressing anti-Black racism? And, how can the SICSS community leverage our unique strength as a global network of teachers and scholars to combat anti-Black racism? This discussion and planning session is open to SICSS participants and alumni who are interested in actively tackling these questions together.
 
