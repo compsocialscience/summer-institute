@@ -240,8 +240,7 @@ planning_team:
       website: https://www2.howard.edu/about/president/staff 
     
 teaching_assistants:
-  title: Teaching Assistants 
-  people:      
+  title: Teaching Assistants      
     <img class="SICSS-Howard/Mathematica TAs" src="assets/images/HowardMathematicaTAs.jpeg" />
       
 event_staff:
