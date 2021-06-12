@@ -2,53 +2,59 @@
 
 - date: 2021-06-13
   events:
-    - name: "5:00pm Meet-and-greet (based on this [model](https://medium.com/swlh/how-to-run-a-zoom-cocktail-party-and-have-better-classes-conferences-and-meetings-too-dc2c5b58f8be)) (*Zoom*)"
+    - name: "5:00 - 6:00pm Meet-and-greet (*Zoom*) (you have received the link over email)"
 
 - date: 2021-06-14
   name: Introduction and Ethics
   events:
     - name: "10:00 - 10:30 Introduction and logistics (*Zoom*)"
-    - name: "10:30 - 11:30 Small group discussions [Lesson plan (participants)] (link coming soon)) (*Zoom*)"
+    - name: "10:30 - 11:30 Small group discussions [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small_group_discussions.md) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
     - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
     - name: "1:00 - 1:30 Break"
-    - name: "1:30 - 1:45 Introduction to the group exercise [Lesson plan (participants)] (link coming soon) [Lesson plan (instructors)] (link coming soon) (*Zoom*)"
+    - name: "1:30 - 1:45 Introduction to the group exercise [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_participant.md); [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_instructor.md) (*Zoom*)"
     - name: "1:45 - 2:45 Small group discussion of [case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf) (*Zoom*)"
     - name: "2:45 - 3:15 Whole group debrief about case study (*Zoom*)"
-    - name: "3:15 - 3:45 Debrief and logistics (*Zoom*)"
+    - name: "3:20 - 3:45 Debrief and logistics (*Zoom*)"
+    - name: "3:45 - 4:00 [Apply](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md#preparation) for data access for Fragile Families Challenge activity if you haven't already"
 
 - date: 2021-06-15
   name: Collecting Digital Trace Data
   events:
-    - name: "10:00 - 10:15 Logistics and introduction to group exercise (*Zoom*)"
-    - name: "10:15 - 11:30 Designing a Research Question with Digital Trace Data (*Zoom*)"
+    - name: "10:00 - 10:15 Logistics and introduction to [group exercise](https://compsocialscience.github.io/summer-institute/2021/materials/day2-digital-trace-data/Group_Exercise_Day_2.html) (*Zoom*)"
+    - name: "10:15 - 11:30 Identify a Research Question with Digital Trace Data (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Participant flash talks (encouraged) (*Zoom*)"
+    - name: "12:00 - 12:15 Flash talk by Marcos Gallo (*Zoom*)"
+    - name: "12:15 - 12:30 Flash talk by Katherine Keith (*Zoom*)"
+    - name: "12:30 - 12:45 Flash talk by Killian McLoughlin (*Zoom*)"
     - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 2:30 Collecting Digital Trace Data (*Zoom*)"
-    - name: "2:30 - 3:30 Discussing Strengths & Benefits plus Hybrid Designs (*Zoom*)"
+    - name: "1:15 - 2:30 Develop a Sampling Frame (*Zoom*)"
+    - name: "2:30 - 3:30 Populate the Sampling Frame with Screen-Scraping (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
     - name: "3:45 - 4:00 Break"
 
 - date: 2021-06-16
   name: Automated Text Analysis
   events:
-    - name: "10:00 - 10:15 Logistics and introduction to group exercise (*Zoom*)"
-    - name: "10:15 - 11:30 Group Exercise (*Zoom*)"
+    - name: "10:00 - 10:15 Logistics and introduction to [group exercise](https://compsocialscience.github.io/summer-institute/2021/materials/day3-text-analysis/Group-Exercise-Day-3.html) (*Zoom*)"
+    - name: "10:15 - 11:30 Extract Features from Trump Tweets (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Participant flash talks (encouraged) (*Zoom*)"
+    - name: "12:00 - 12:15 Flash talk by Tamara van der Does (*Zoom*)"
+    - name: "12:15 - 12:30 Flash talk by Yash Tadimalla (*Zoom*)"
     - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 3:30 Group Exercise (*Zoom*)"
+    - name: "1:15 - 3:30 Predict Features of Tweets associated with Retweets and Produce Visualization (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
 
 - date: 2021-06-17
   name: Surveys in the Digital Age
   events:
     - name: "10:00 - 10:15 Logistics (*Zoom*)"
-    - name: "10:15 - 10:30 Introduction to the group exercise [Lesson plan (participants)] (link coming soon) (*Zoom*)"
+    - name: "10:15 - 10:30 [Introduction to the group exercise](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/intro-to-activity.pdf), [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/lesson_plan_survey_participants.md); [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/lesson_plan_survey_instructor.md) (*Zoom*)"
     - name: "10:30 - 11:30 Morning group exercise (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Participant flash talks (encouraged) (*Zoom*)"
+    - name: "12:00 - 12:15 Flash talk by Nozomi Nakajima (*Zoom*)"
+    - name: "12:15 - 12:30 Flash talk by Carolina Coimbra Vieira (*Zoom*)"
+    - name: "12:30 - 12:45 Flash talk by Andrey Indukaev (*Zoom*)"
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 3:00 Afternoon group exercise (*Zoom*)"
     - name: "3:00 - 3:15 Break"
@@ -60,16 +66,17 @@
   events:
     - name: "10:00 - 10:15 Logistics (*Zoom*)"
     - name: "10:15 - 10:30 Introduction to the group exercise [Video](https://www.youtube.com/watch?v=ZI95vV7Co38) [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/06-ffchallenge_participate_activity.pdf) (*Zoom*)"
-    - name: "10:30 - 11:30 Participate in the Fraglie Families Challenge [Lesson plan (participants)] (link coming soon) (*Zoom*)"
+    - name: "10:30 - 11:30 Participate in the Fragile Families Challenge actvity [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md#lesson-plan-for-participants); [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_instructor.md#lesson-plan-for-instructors) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Participant flash talks (encouraged) (*Zoom*)"
+    - name: "12:00 - 12:15 Flash talk by Mario Molina (*Zoom*)"
+    - name: "12:15 - 12:30 Flash talk by Luca Maria Pesando, 'Harnessing the Potential of Online Searches for Understanding the Impact of COVID-19 on Intimate Partner Violence in Italy' (*Zoom*)"
     - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 3:00 Continue participating in the Fragile Families Challenge (*Zoom*)"
+    - name: "1:15 - 3:00 Continue participating in the Fragile Families Challenge activity (*Zoom*)"
     - name: "3:00 - 3:15 Break"
     - name: "3:15 - 3:30 Whole group debrief about group exercise (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
+    - name: "3:45 - 4:00 [Delete](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md#deleting-the-files-after-use) the Fragile Families data from your computer"
     - name: "5:00 - 6:30 Munmun de Choudhury Guest Lecture"
-    
 
 - date: 2021-06-19
   name: Day off

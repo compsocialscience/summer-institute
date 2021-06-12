@@ -1,114 +1,107 @@
-- date: All times are in Pacific Daylight Time
-
-- date: 2021-06-19-2020-06-20
-  events:
-    - name: "(PRE-SICSS) [Complete R Datacamp](https://www.datacamp.com/onboarding/learn?technology=sql) (or send us some of your R Code)"
-    - name: "(PRE-SICSS Watch [Ethics Part 1](https://www.youtube.com/watch?v=A-5QaX5ZiK8&feature=youtu.be) (*Zoom*)"
-    - name: "(PRE-SICSS Watch [Ethics Part 2](https://www.youtube.com/watch?v=TT6dOQMKHhA&feature=youtu.be) (*Zoom*)"
-    - name: "(PRE-SICSS) Watch [Collecting Digital Trace Data](https://www.youtube.com/watch?v=uuSWQN7uYhk#action=share)"
-    - name: "(PRE-SICSS) Join Our Slack Channel (Check Email)"
-    - name: "(PRE-SICSS) Add yourself to the Introduction Spreadsheet (Check Email)"
+- date: All times are in Pacific Daylight Time, and times are subject to change depending on speaker availability. 
 
 
 - date: 2021-06-21
   name: Introduction to Digital Trace Data
   events:
-    - name: "10:00 - 10:15 Introduction to SICSS and the California Center For Population Research by Dr. Jennie Brand (*Zoom*)"
-    - name: "10:15 - 11:25 Introductions (What is Computational Social Science) (*In Zoom break-out rooms*"
-    - name: "10:25 - 10:45 Introductions (What is Computational Social Science) (*In Zoom full group*)"
+    - name: "10:00 - 10:20 Introduction to SICSS, Computational Social Science, and the California Center For Population Research by Dr. Jennie Brand (*In Zoom full group*)"
+    - name: "10:20 - 10:40 Introductions (What is Computational Social Science) (*In rounds of Zoom break-out rooms*) "
     - name: "10:45 - 11:45 Lecture: Collecting Digital Data (e.g., via Webscraping, APIs, Mturk) (*In Zoom full group*)"
-    - name: "11:45 - 1:15 Break"
-    - name: "1:15 - 2:45 Project Speed Dating (*In Zoom breakout rooms*)"
-    - name: "3:00 - 4:00 Guest Speaker: TBD (In Zoom full group)"
-    - name: "4:00 - 4:30 OPTIONAL: Open Office Hours (getting started with Slack, R, Q & A)"
+    - name: "11:45 - 12:45 Break"
+    - name: "12:45 - 1:15 Lecture: Collecting Digital Data (e.g., via Webscraping, APIs, Mturk) (*In Zoom full group*)"
+    - name: "1:15 - 2:30 Project Speed Dating (*In Zoom breakout rooms*)"
+    - name: "2:30 - 4:00 Guest Speaker: TBD (*In Zoom full group*)"
+    - name: "4:00 - 4:30 OPTIONAL: Open Office Hours on Zoom (getting started with Slack, R, Q & A)"
 
 - date: 2021-06-22
   name: Digitial Trace Data Workday
   events:
-    - name: "10:00 - 10:15 Outline the Day (*Zoom*)"
-    - name: "10:15 - 11:30 [Data Collection Exercise](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/Group_Exercise_Day_2.html) (In Zoom break-out rooms)"
-    - name: "11:30 - 1:15 Break"
-    - name: "1:15 - 3:00 Guest Speaker Panel: Computational Social Science in Industry TBD (In Zoom full group)"
+    - name: "10:00 - 10:15 Outline the Day (*In Zoom full group*)"
+    - name: "10:15 - 11:45 Data Collection Exercise (*In Zoom full group*)"
+    - name: "11:45 - 12:45 Break"
+    - name: "12:45 - 1:15 Review Data Collection Exercise"
+    - name: "1:15 - 2:45 Guest Speaker Panel: Computational Social Science in Industry TBD (*In Zoom full group*)"
     - name: "3:00 - 3:45 Project Time"
     - name: "3:45 - 4:00 Debrief"
   
 - date: 2021-06-23
   name: Introduction to Causal Inference (Potential Outcomes + Experiments)
   events:
-    - name: "10:00 - 10:15 Outline the Day (*Zoom*)"
+    - name: "10:00 - 10:15 Outline the Day (*Zoom full group*)"
     - name: "10:15 - 11:00 Lecture: Potential Outcomes (*In Zoom full group*)"
     - name: "11:00 - 11:30 Small Group Discussions (*In Zoom break-out room*)"
     - name: "11:30 - 1:15 Break"
     - name: "1:30 - 3:00 Group Discussion + Exercise"
     - name: "3:00 - 4:00 Guest Speaker: TBD (In Zoom full group)"
-    - name: "4:00 - 4:30 OPTIONAL: Open Office Hours"
+    - name: "4:00 - 4:30 OPTIONAL: Open Office Hours on Zoom"
       
 - date: 2022-06-24
   name: Project Day
   events:
-    - name: "10:00 - 10:30 CSS Skills Workshop: TBD(*Zoom*)"
-    - name: "10:30 - 11:30 Project Time (*In Zoom break-out room*)"
-    - name: "11:30 - 1:15 Break"
-    - name: "1:30 - 3:00 Project Time (*In Zoom break-out room*)"
-    - name: "3:00 - 3:45 Guest Speaker: TBD (*In Zoom full group*)"
-    - name: "3:45 - 4:00 Speaker Q & A"
+    - name: "10:00 - 10:30 CSS Skills Workshop: TBD (*In Zoom full group*)"
+    - name: "10:30 - 11:45 Project Time (*In Zoom break-out room*)"
+    - name: "11:45 - 12:45 Break"
+    - name: "12:45 - 1:45 Guest Speaker: TBD (*In Zoom full group*)"
+    - name: "1:45 - 2:00 Speaker Q & A"
+    - name: "2:00 - 4:00 Project Time and Project Check in with an Organizer (*In Zoom break-out room*)"
   
 - date: 2021-06-25
   name: Introduction to Causal Inference (DAGS + Observational Data)
   events:
-    - name: "10:00 - 10:15 Outline the Day (*Zoom*)"
+    - name: "10:00 - 10:15 Outline the Day (*In Zoom full group*)"
     - name: "10:15 - 11:00 Lecture: DAGs + Observational Data (*In Zoom full group*)"
-    - name: "11:00 - 11:30 Small Group Discussions (*In Zoom break-out room*)"
-    - name: "11:30 - 1:15 Break"
-    - name: "1:30 - 3:00 Group Discussion + Exercise"
-    - name: "3:00 - 4:00 OPTIONAL: Open Office Hours"
+    - name: "11:00 - 11:45 Small Group Discussions (*In Zoom break-out room*)"
+    - name: "11:45 - 12:45 Break"
+    - name: "12:45 - 2:00 Group Discussion + Exercise (*In Zoom break-out room*)"
+    - name: "2:00 - 4:00  CSS Skills Workshop *In Zoom full group*"
 
 - date: 2021-06-28
   name: Introduction to Text Analysis + Unsupervised Learning
   events:
-    - name: "10:00 - 10:15 Outline the Day (*Zoom*)"
+    - name: "10:00 - 10:15 Outline the Day (*In Zoom full group*)"
     - name: "10:15 - 11:00 Lecture: Text Analysis (*In Zoom full group*)"
-    - name: "11:00 - 11:30 Small Group Discussions (*In Zoom break-out room*)"
-    - name: "11:30 - 1:15 Break"
-    - name: "1:30 - 3:00 Group Discussion + Exercise"
-    - name: "3:00 - 4:00 Guest Speaker: TBD (In Zoom full group)"
-    - name: "4:00 - 4:30 OPTIONAL: Open Office Hours"
+    - name: "11:00 - 11:45 Small Group Discussions + Exercise (*In Zoom break-out room*)"
+    - name: "11:45 - 12:45 Break"
+    - name: "12:45 - 3:00 Project Time (*In Zoom break-out room*)"
+    - name: "3:00 - 4:00 Guest Speaker: TBD (*In Zoom full group*)"
+    - name: "4:00 - 4:30 OPTIONAL: Open Office Hours on Zoom"
       
 - date: 2021-06-29
   name: Text Analysis Activity
   events:
-    - name: "10:00 - 10:30 CSS Skills Workshop (*Zoom*)"
-    - name: "10:30 - 11:30 Project Time (*In Zoom break-out room*)"
-    - name: "11:30 - 1:15 Break"
-    - name: "1:30 - 3:00 Text Analysis Activity (*In Zoom break-out room*)"
-    - name: "3:00 - 4:30 Project Time (*In Zoom break-out rooms*)"
+    - name: "10:00 - 10:30 CSS Skills Workshop (*In Zoom full group*)"
+    - name: "10:30 - 11:45 Text Analysis Activity (*In Zoom break-out room*)"
+    - name: "11:45 - 12:45 Break"
+    - name: "12:45 - 2:45 Project Time (*In Zoom break-out rooms*)"
+    - name: "3:00 - 4:00 Lecture: Text Analysis (*In Zoom full group*)"
  
  
 - date: 2021-06-30
   name: Introduction to Supervised Machine Learning
   events:
     - name: "10:00 - 10:15 Outline the Day (*Zoom*)"
-    - name: "10:15 - 11:00 Lecture: Supervised ML (*In Zoom full group*)"
-    - name: "11:00 - 11:30 Small Group Discussions (*In Zoom break-out room*)"
-    - name: "11:30 - 1:15 Break"
-    - name: "1:30 - 3:00 Group Discussion + Exercise"
-    - name: "3:00 - 4:00 Guest Speaker: TBD (In Zoom full group)"
+    - name: "10:15 - 11:15 Lecture: Supervised ML (*In Zoom full group*)"
+    - name: "11:15 - 11:45 Discussion (*In Zoom full group*)"
+    - name: "11:45 - 12:45 Break"
+    - name: "12:45 - 3:00 Group Exercise (*In Zoom break-out rooms*)"
+    - name: "3:00 - 4:00 Guest Speaker: TBD (*In Zoom full group*)"
     - name: "4:00 - 4:30 OPTIONAL: Open Office Hours"
     
           
 - date: 2021-07-01
   name: Project Day
   events:
-    - name: "10:00 - 10:30 CSS Skills Workshop (*Zoom*)"
-    - name: "10:30 - 11:30 Project Time (*In Zoom break-out room*)"
-    - name: "11:30 - 1:15 Break"
-    - name: "1:30 - 4:00 Project Time (*In Zoom break-out room*)"
+    - name: "10:00 - 10:45 Lecture: Supervised ML (*In Zoom full group*)"
+    - name: "10:45 - 11:45 Project Time (*In Zoom break-out room*)"
+    - name: "11:45 - 12:45 Break"
+    - name: "12:45 - 4:00 Project Time (*In Zoom break-out room*)"
     
 - date: 2021-07-02
   name: Project Day and Presentations
   events:
-    - name: "10:00 - 10:30 CSS Skills Workshop (*Zoom*)"
-    - name: "10:30 - 11:30 Project Time (*In Zoom break-out room*)"
-    - name: "11:30 - 1:15 Break"
-    - name: "1:30 - 2:30 Project Time (*In Zoom break-out room*)"
-    - name: "2:30 - 4: Presentations (*Zoom*)"
+    - name: "10:00 - 10:30 CSS Skills Workshop (*In Zoom full group*)"
+    - name: "10:30 - 11:45 Project Time (*In Zoom break-out room*)"
+    - name: "11:45 - 12:45 Break"
+    - name: "12:45 - 2:30 Project Time (*In Zoom break-out room*)"
+    - name: "2:30 - 4:00 Presentations (*In Zoom full group*)"
+    - name: "4:00 - 4:10 Farewells (*In Zoom full group*)"

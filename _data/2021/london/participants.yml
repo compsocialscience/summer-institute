@@ -10,6 +10,10 @@
   image: /assets/images/1vEK2JrqU_tiAXVRh0MmYKaBDhtVMAb7n.jpeg
   bio: Ana Macanovic is a PhD student at the Department of Sociology, Utrecht University and ICS. She has a background in sociology and behavioural economics. Her research is concerned with cooperation of agents in extra-legal environments. Currently, she is exploring reputation systems in cryptomarkets utilizing text mining methods.
   
+- name: Anastasia Menshikova
+  image: /assets/images/1GBu-ilSAxj6ZOD5_5_yT8iM2JW3bwOyM.jpeg
+  bio: I am from Russia, I started studying sociology and computational social science there and continued in the Netherlands. I am currently doing a PhD in Analytical Sociology in Sweden, at the Institute for Analytical Sociology. In my research I apply NLP methods to study anti-immigration discourse
+  
 - name: Aradhna Kaushal
   image: /assets/images/1_2oGkBMmVXp6BjFbDJ1W_5av8gU6iimJ.jpeg
   bio: I am a public health epidemiologist at UCL evaluating the role of social media interventions for promoting cancer screening and early diagnosis of cancer. I am increasingly coming face-to-face with very large data sets which require computational methods to analyse and process.
@@ -17,6 +21,10 @@
 - name: Damiano Maria Morando
   image: /assets/images/1qxrYNOug-fNzHGjDo2B7gHNs7iN7jm3Z.jpeg
   bio: Damiano Maria Morando is a PhD candidate in Management at Imperial College Business School.  Before joining Imperial College, Damiano did an internship in a venture capital firm in Milan, focused on technology transfer. His Doctoral Thesis focuses on online networking behaviour as a tool for entrepreneurs to facilitate the accrual of early stage financing.
+
+- name: Dominik Schindler
+  image: /assets/images/Schindler_Photo.jpg
+  bio: Dominik Schinder has studied mathematics and digital media in Heidelberg, Berlin and London and is going to start a PhD project in Applied Mathematics at Imperial College London. Drawing from dynamical network analysis and machine learning, Dominik will analyse far-right digital countercultures in collaboration with the Weizenbaum Institute in Berlin.
   
 - name: Jason Burton
   image: /assets/images/1smrVHd7eMNJ8Jcy0h321IQcebYAYcD7R.jpeg
@@ -26,17 +34,28 @@
   image: /assets/images/1l1BxZgVpLjCsqlMyOA61YPRy138Di1LR.jpeg
   bio: Judah Axelrod is an MSc student in Data Science at the London School of Economics. His research interests are centered around fairness and bias in machine learning and natural language processing applications. Judah previously studied Economics at Rutgers University and worked in antitrust economics and competition policy.
   
+- name: Katharina Lawall
+  bio: Katharina Lawall is a PhD candidate at the London School of Economics. She works on political behaviour, campaigns and gender. Katharina uses survey and field experiments, and has experience partnering with civil society organisations, political parties and campaigns. She is interested in combining computational social science approaches with online experiments.
+  
 - name: Lana Bilalova
   image: /assets/images/1U7UQ0pMEZqpyuh2bEEBwHZ2Z4HlfGena.png
   bio: Lana Bilalova is a PhD Candidate at the London School of Economics and Political Science and a researcher at Justice Interactions and Peacebuilding project.  She uses text as data methods to study political communication and mass media. She has a background in political science, international relations, and mathematical economics.
+  
+- name: Luc Rocher
+  image: /assets/images/1eGX_vYjxhH0Q-re6vtJaT6dn9XfN0iVX.jpeg
+  bio: Luc is a postdoctoral researcher at Imperial College London, using large-scale computational modeling to study the transformation of digital societies by algorithms. Luc's research directions include the limits of privacy and anonymity in the modern age, challenging the technical and legal adequacy of current de-identification techniques; the reliability of machine learning for stylometry in social media; the rise of pricing algorithms in online markets.
   
 - name: Luning Sun
   image: /assets/images/1ofjquXE97QtSINF5O23657Dcumx7AHXS.jpeg
   bio: Luning Sun is a Research Associate at the Cambridge Judge Business School. He received his PhD from the Department of Psychology, University of Cambridge. Luning is interested in the development of psychometric tests and their applications in educational, occupational and clinical settings. His post-doctoral research has been focusing on the new forms of assessment that are enabled by the advancement in psychometric theories and techniques.
   
+- name: Manuel Tonneau
+  image: /assets/images/1VNgy0adh00u2Q9MK9gW-91-eb0w2VNIT.jpeg
+  bio: Manuel is a data science consultant at the World Bank and a research engineer in the CSS team of the Centre Marc Bloch in Berlin. He holds an MSc in Statistics from ENSAE Paris and an MSc in Economics from Humboldt University of Berlin.
+  
 - name: Melody Sepahpour-Fard
   image: /assets/images/1Wq82WCL6zBx-LCfKZkVlW4EWxatMbARx.jpeg
-  bio: Melody Sepahpour-Fard has a background in psychology and linguistics. She is currently a social psychology master's student in a European programme (Global-MINDS). Soon, she will join the Centre for Research Training (CRT) programme in Foundations of Data Science at the University of Limerick. She will study opinion-based networks on social media to better understand social polarization around immigration.
+  bio: Melody Sepahpour-Fard is an incoming PhD student at the Centre for Research Training in Foundations of Data Science, University of Limerick. Her research interests broadly lie in between Social Psychology and NLP. For her doctoral thesis, she will explore opinion-based networks on social media to better measure social polarisation around immigration. She has previously studied Psychology and Language Sciences, and is currently finishing a Social Psychology European master's programme (named Global-MINDS).
   
 - name: Michael Geers
   image: /assets/images/1EIMoOrNtl7b48hRhR6Fo1rv3YihF_D8h.jpeg

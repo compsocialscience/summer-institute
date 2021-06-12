@@ -7,19 +7,20 @@
   name: Introduction and Ethics
   events:
     - name: "10:00 - 11:00 Introduction and logistics"
-    - name: "11:00 - 12:00 Small group discussions"
-    - name: "12:00 - 1:00 Small group lunches (optional)"
-    - name: "1:30 - 3:15 Small Group Exercise on Ethics"
+    - name: "11:00 - 12:30 Small group discussions"
+    - name: "12:30 - 1:30 Small group lunches (optional)"
+    - name: "1:30 - 3:15 Small Group Exercise on Ethics. [Activity](https://docs.google.com/document/d/1NWSXZNkqLwpk6OgaNrXR3_LN0AMWdbSM7NbItHkixNw/edit?usp=sharing); [Case Study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf)"
     - name: "3:30 - 5:00 Talk from Vivek Singh"
 
 - date: 2021-06-15
   name: Collecting Digital Trace Data
   events:
-    - name: "10:00 - 10:15 Logistics and introduction to group exercise"
-    - name: "10:15 - 12:00 Designing a Research Question with Digital Trace Data"
-    - name: "12:00 - 1:00 Small group lunches (optional)"
-    - name: "1:00 - 3:15 Collecting Digital Trace Data"
-    - name: "3:30 -  Possible Guest Speaker"
+    - name: "10:00 - 10:15 Logistics"
+    - name: "10:15 - 11:45 Tutorials on Screen Scraping and APIs"
+    - name: "11:45 - 12:30 Lunch break"
+    - name: "12:30 - 1:30 Tutorial Twitter API"
+    - name: "1:45 - 2:30 Small Group Exercise: Design Research Question"
+    - name: "2:45 - 5:00 Collect and Describe Digital Trace Data"
 
 - date: 2021-06-16
   name: Automated Text Analysis
@@ -49,7 +50,7 @@
 - date: 2021-06-18
   name: (Afternoon) Network Analysis 
   events:
-    - name: "2:30- 5:00 Network Analysis Tutorials"
+    - name: "2:15- 5:00 Live Network Analysis Tutorial"
 
 - date: 2021-06-19
   name: Day off
@@ -61,14 +62,15 @@
   name: (Morning) Network Analysis Continued
   events:
     - name: "10:00 - 12:00 Network Analysis Exercises"
-    - name: "12:15 - Talk by Matthew Weber"
+    - name: "12:00 - 1:00 Small group lunches (optional)"
+    - name: "1:00 - 2:00 Talk by Matthew Weber"
 
 
 - date: 2021-06-21
   name: (Afternoon) Form Research Groups
   events:
-    - name: "1:15 - 3:15 Research Speed Networking"
-    - name: "3:15 - 4:30 Form and Meet with Research Teams"
+    - name: "2:15 - 3:15 Research Speed Networking"
+    - name: "3:15 - 5:30 Form and Meet with Research Teams"
 
 - date: 2021-06-22
   name: Work on group projects

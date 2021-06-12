@@ -1,109 +1,80 @@
 - date: All times are in Central Europe Time
 
-- date: 2021-06-20
-  events:
-    - name: "5:00pm Meet-and-greet (based on this [model](https://medium.com/swlh/how-to-run-a-zoom-cocktail-party-and-have-better-classes-conferences-and-meetings-too-dc2c5b58f8be)) (*Zoom*)"
-
 - date: 2021-06-21
   name: Introduction and Ethics
   events:
-    - name: "10:00 - 10:30 Introduction and logistics (*Zoom*)"
-    - name: "10:30 - 11:30 Small group discussions [Lesson plan (participants)] (link coming soon)) (*Zoom*)"
-    - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
-    - name: "1:00 - 1:30 Break"
-    - name: "1:30 - 1:45 Introduction to the group exercise [Lesson plan (participants)] (link coming soon) [Lesson plan (instructors)] (link coming soon) (*Zoom*)"
-    - name: "1:45 - 2:45 Small group discussion of [case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf) (*Zoom*)"
-    - name: "2:45 - 3:15 Whole group debrief about case study (*Zoom*)"
-    - name: "3:15 - 3:45 Debrief and logistics (*Zoom*)"
+    - name: "10:00 - 10:15	Introduction: SICSS-Bologna (*Zoom*)"
+    - name: "10:15 - 11:45	Ethics parts 1 & 2 (*Zoom*)"
+    - name: "12:30 - 13:30	Brown bag seminar: Workshop Individual Projects (*Zoom*)"
+    - name: "14:00 - 15:15	Intro + Small groups: [case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf) (*Zoom*)"
+    - name: "15:15 - 16:00	Group discussion (*Zoom*)"
 
 - date: 2021-06-22
   name: Collecting Digital Trace Data
   events:
-    - name: "10:00 - 10:15 Logistics and introduction to group exercise (*Zoom*)"
-    - name: "10:15 - 11:30 Designing a Research Question with Digital Trace Data (*Zoom*)"
-    - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
-    - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 2:30 Collecting Digital Trace Data (*Zoom*)"
-    - name: "2:30 - 3:30 Discussing Strengths & Benefits plus Hybrid Designs (*Zoom*)"
-    - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
-    - name: "3:45 - 4:00 Break"
+    - name: "10:15 - 11:45	Strengths and Weaknesses of Trace Data (*Zoom*)"
+    - name: "12:30 - 13:30	Brown bag seminar: Workshop Individual Projects (*Zoom*)"
+    - name: "14:00 - 15:15	Intro + Small groups: Apps (*Zoom*)"
+    - name: "15:15 - 16:00	Group discussion (*Zoom*)"
 
 - date: 2021-06-23
   name: Automated Text Analysis
   events:
-    - name: "10:00 - 10:15 Logistics and introduction to group exercise (*Zoom*)"
-    - name: "10:15 - 11:30 Group Exercise (*Zoom*)"
-    - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
-    - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 3:30 Group Exercise (*Zoom*)"
-    - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
+    - name: "10:15 - 11:45	Text analysis + discussion (*Zoom*)"
+    - name: "12:30 - 14:30	Brown bag seminar: Workshop Individual Projects (*Zoom*)"
+    - name: "14:00 - 15:15	Intro + Small groups(*Zoom*)"
+    - name: "15:15 - 16:00	Group discussion (*Zoom*)"
 
 - date: 2021-06-24
   name: Surveys in the Digital Age
   events:
-    - name: "10:00 - 10:15 Logistics (*Zoom*)"
-    - name: "10:15 - 10:30 Introduction to the group exercise [Lesson plan (participants)] (link coming soon) (*Zoom*)"
-    - name: "10:30 - 11:30 Morning group exercise (*Zoom*)"
-    - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
-    - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 3:00 Afternoon group exercise (*Zoom*)"
-    - name: "3:00 - 3:15 Break"
-    - name: "3:15 - 3:30 Whole group debrief about group exercise (*Zoom*)"
-    - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
-
+    - name: "10:15 - 11:15	Surveys (*Zoom*)"
+    - name: "11:15 - 12:00	Small group activity (*Zoom*)"
+    - name: "12:30 - 13:30	Brown bag seminar: Workshop Individual Projects (*Zoom*)"
+    - name: "14:00 - 15:00	Mass Collaboration (*Zoom*)"
+    - name: "15:00 - 16:00	Group activity (*Zoom*)"
+    
 - date: 2021-06-25
   name: Mass collaboration and machine learning
   events:
-    - name: "10:00 - 10:15 Logistics (*Zoom*)"
-    - name: "10:15 - 10:30 Introduction to the group exercise [Video](https://www.youtube.com/watch?v=ZI95vV7Co38) [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/06-ffchallenge_participate_activity.pdf) (*Zoom*)"
-    - name: "10:30 - 11:30 Participate in the Fraglie Families Challenge [Lesson plan (participants)] (link coming soon) (*Zoom*)"
-    - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
-    - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 3:00 Continue participating in the Fragile Families Challenge (*Zoom*)"
-    - name: "3:00 - 3:15 Break"
-    - name: "3:15 - 3:30 Whole group debrief about group exercise (*Zoom*)"
-    - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
+    - name: "10:15-11:15	Experiments (*Zoom*)"
+    - name: "11:15-12:00	Small group activity (*Zoom*)"
+    - name: "12:30-13:30	Brown bag seminar: Workshop Individual Projects (*Zoom*)"
+    - name: "14:00-15:00	Zero Variable cost (*Zoom*)"
+    - name: "15:00-15:30	3 Rs (*Zoom*)"
+    - name: "15:30-16:00	Group discussion (*Zoom*)"
     
 - date: 2021-06-28
   name: Invited speakers and workshop on individual projects 
   events:
-    - name: "10:00 - 12:15 Milena Tsvetkova (*Zoom*)"
-    - name: "12:30 - 13:45 Group lunch (Introductions) (*Zoom*)"
-    - name: "14:00 - 16:30 Roland Adorjani (*Zoom*)"
+    - name: "10:00 - 12:15 Milena Tsvetkova: Studying Social Interactions and Groups Online (*Zoom*)"
+    - name: "12:30 - 13:30 Brown Bag Seminar: Workshop Individual Projects (*Zoom*)"
+    - name: "14:00 - 16:30 Roland Adorjani: Top-Down Management Leaves Detectable Patterns inInfluence Operation Topic Choices (*Zoom*)"
 
 - date: 2021-06-29
   name: Invited speakers and workshop on individual projects 
   events:
-    - name: "10:00 - 11:30 Cesar Hidalgo (*Zoom*)"
-    - name: "12:00 - 14:00 Brown bag seminar: Presentations and 4 workshopping individual projects (*Zoom*)"
-    - name: "15:00 - 16:30 Abdullah Almaatouq (*Zoom*)"
-    - name: "17:00 - 18:30 Rachael Tatman (*Zoom*)"
+    - name: "10:00 - 11:30 Cesar Hidalgo: How Humans Judge Machines (*Zoom*)"
+    - name: "12:30 - 14:30 Brown Bag Seminar: Workshop Individual Projects (*Zoom*)"
+    - name: "15:00 - 16:30 Abdullah Almaatouq: In search for Synergy in the Task Space (*Zoom*)"
+    - name: "17:00 - 18:30 Rachael Tatman: Rules aren't dead: Hybrid ML and rule based systems for practical, trustworthy NLP (*Zoom*)"
 
 - date: 2021-06-30
-
   name: Invited speakers and workshop on individual projects 
   events:
-    - name: "10:00 - 12:15 Gian Maria Campedelli (*Zoom*)"
-    - name: "12:30 - 14:30 Brown bag seminar: Presentations and workshopping 4 individual projects (*Zoom*)"
-    - name: "15:00 - 16:15 tbc (*Zoom*)"
-    - name: "17:00 - 18:30 Chris Albon (*Zoom*)"
+    - name: "10:00 - 12:15 Gian Maria Campedelli:Complex networks, AI and computational methods for terrorism research: applications and challenges (*Zoom*)"
+    - name: "12:30 - 14:30 Brown Bag Seminar: Workshop  Individual Projects (*Zoom*)"
+    - name: "17:00 - 18:30 Chris Albon: Machine Learning at Wikimedia? (*Zoom*)"
 
 - date: 2021-07-01
   name: Invited speakers and workshop on individual projects 
   events:
-    - name: "10:00 - 12:15 Sönke Ehret (*Zoom*)"
-    - name: "12:30 - 13:45 Brown bag seminar: Presentations and workshopping 2 individual projects (*Zoom*)"
-    - name: "14:00 - 16:30 Francesco Rampazzo (*Zoom*)"
+    - name: "10:00 - 12:15 Sönke Ehret:Online Experiments and Virtual Labs: Issues, Trends, and Practical Matters (*Zoom*)"
+    - name: "12:30 - 13:45 Brown Bag Seminar: Workshop Individual Projects (*Zoom*)"
+    - name: "14:00 - 16:30 Francesco Rampazzo: Following a Trail of Breadcrumbs: a Study of Migration through Digital Traces (*Zoom*)"
 
 - date: 2021-07-02
   name: Invited speakers and workshop on individual projects 
   events:
-    - name: "10:00 - 12:15 Ridhi Kashyap (*Zoom*)"
-    - name: "12:30 - 13:45 Brown bag seminar: Presentations and workshopping 2 individual projects (*Zoom*)"
-    - name: "14:00 - 15:00 tbc (*Zoom*)"
-    - name: "14:00 - 15:00 Debriefing and Salutations (*Zoom*)"
+    - name: "10:00 - 12:15 Ridhi Kashyap: Demography and the Digital Revolution: Promises and Pitfalls of a Changing Data Ecosystem (*Zoom*)"
+    - name: "12:15 - 12:30 SICSS Salutation"

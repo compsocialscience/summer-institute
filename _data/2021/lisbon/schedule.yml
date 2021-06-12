@@ -1,3 +1,104 @@
-- date: 2021-06-14
+- date: All times are in Western European Summer Time (UTC+01:00)
+
+- date: 2021-06-13
   events:
-    - name: "Schedule coming soon..."
+    - name: "5:00 - 6:00pm Meet-and-greet (*Zoom*)"
+
+- date: 2021-06-14
+  name: Introduction and Ethics
+  events:
+    - name: "10:00 - 10:30 Introduction and logistics (*Zoom*)"
+    - name: "10:30 - 11:30 Small group discussions [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small_group_discussions.md) (*Zoom*)"
+    - name: "11:30 - 12:00 Break"
+    - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
+    - name: "1:00 - 1:30 Break"
+    - name: "1:30 - 1:45 Introduction to the group exercise [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_participant.md); [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_instructor.md) (*Zoom*)"
+    - name: "1:45 - 2:45 Small group discussion of [case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf) (*Zoom*)"
+    - name: "2:45 - 3:15 Whole group debrief about case study (*Zoom*)"
+    - name: "3:20 - 3:45 Debrief and logistics (*Zoom*)"
+    - name: "3:45 - 4:00 [Apply](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md#preparation) for data access for Fragile Families Challenge activity if you haven't already"
+
+- date: 2021-06-15
+  name: Collecting Digital Trace Data
+  events:
+    - name: "10:00 - 10:15 Logistics and introduction to group exercise (*Zoom*)"
+    - name: "10:15 - 11:30 Designing a Research Question with Digital Trace Data (*Zoom*)"
+    - name: "11:30 - 12:00 Break"
+    - name: "12:00 - 1:00 Participant flash talks (encouraged) (*Zoom*)"
+    - name: "1:00 - 1:15 Break"
+    - name: "1:15 - 2:30 Collecting Digital Trace Data (*Zoom*)"
+    - name: "2:30 - 3:30 Discussing Strengths & Benefits plus Hybrid Designs (*Zoom*)"
+    - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
+    - name: "3:45 - 4:00 Break"
+    - name: "4:30 - 6:00 Talk by Prof. Joana Sa"
+
+- date: 2021-06-16
+  name: Automated Text Analysis
+  events:
+    - name: "10:00 - 10:15 Logistics and introduction to group exercise (*Zoom*)"
+    - name: "10:15 - 11:30 Group Exercise (*Zoom*)"
+    - name: "11:30 - 12:00 Break"
+    - name: "12:00 - 1:00 Participant flash talks (encouraged) (*Zoom*)"
+    - name: "1:00 - 1:15 Break"
+    - name: "1:15 - 3:30 Group Exercise (*Zoom*)"
+    - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
+
+- date: 2021-06-17
+  name: Surveys in the Digital Age
+  events:
+    - name: "10:00 - 10:15 Logistics (*Zoom*)"
+    - name: "10:15 - 10:30 Introduction to the group exercise [Lesson plan (participants)] (link coming soon) (*Zoom*)"
+    - name: "10:30 - 11:30 Morning group exercise (*Zoom*)"
+    - name: "11:30 - 12:00 Break"
+    - name: "12:00 - 1:00 Participant flash talks (encouraged) (*Zoom*)"
+    - name: "1:00 - 1:15 Break"
+    - name: "1:15 - 3:00 Afternoon group exercise (*Zoom*)"
+    - name: "3:00 - 3:15 Break"
+    - name: "3:15 - 3:30 Whole group debrief about group exercise (*Zoom*)"
+    - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
+    - name: "4:30 - 6:00 Talk by Moinul Zaber"
+
+- date: 2021-06-18
+  name: Mass collaboration and machine learning
+  events:
+    - name: "10:00 - 10:15 Logistics (*Zoom*)"
+    - name: "10:15 - 10:30 Introduction to the group exercise [Video](https://www.youtube.com/watch?v=ZI95vV7Co38) [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/06-ffchallenge_participate_activity.pdf) (*Zoom*)"
+    - name: "10:30 - 11:30 Participate in the Fragile Families Challenge [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md#lesson-plan-for-participants); [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_instructor.md#lesson-plan-for-instructors) (*Zoom*)"
+    - name: "11:30 - 12:00 Break"
+    - name: "12:00 - 1:00 Participant flash talks (encouraged) (*Zoom*)"
+    - name: "1:00 - 1:15 Break"
+    - name: "1:15 - 3:00 Continue participating in the Fragile Families Challenge (*Zoom*)"
+    - name: "3:00 - 3:15 Break"
+    - name: "3:15 - 3:30 Whole group debrief about group exercise (*Zoom*)"
+    - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
+    - name: "3:45 - 4:00 [Delete](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md#deleting-the-files-after-use) the Fragile Families data from your computer"
+    
+
+- date: 2021-06-19
+  name: Day off
+
+- date: 2021-06-20
+  name: Day off
+
+- date: 2021-06-21
+  name: Work on group projects (optional) and/or participate in SICSS Festival
+  events:
+    - name: "10:00 - 10:30 Research Speed Dating Logistics (*Zoom*), [Slides for Instructors] (link coming soon)"
+    - name: "10:15 - 11:30 Research Speed Dating Maximally Similar Groups (*Zoom*)"
+    - name: "1:15 - 3:15 Research Speed Dating Maximally Dissimilar Groups (*Zoom*)"
+    - name: "3:15 - 3:30 Group Debrief (join research teams) (*Zoom*)"
+
+- date: 2021-06-22
+  name: Work on group projects (optional) and/or participate in SICSS Festival
+
+- date: 2021-06-23
+  name: Work on group projects (optional) and/or participate in SICSS Festival
+
+- date: 2021-06-24
+  name: Work on group projects (optional) and/or participate in SICSS Festival
+
+- date: 2021-06-25
+  name: Present group projects and/or participate in SICSS Festival
+  events:
+    - name: "12:00 - 4:00 Present group projects (*Zoom*)"
+    - name: "4:00 - 4:30 Debrief and conclusion"
