@@ -89,7 +89,9 @@
   events:
     - name: "10:00 - 10:30 Research Speed Dating Logistics (*Zoom*), [Slides for Instructors] (link coming soon)"
     - name: "10:30 - 11:45 Research Speed Dating Maximally Similar Groups (*Zoom*)"
+    - name: "11:45 - 1:15 Break"
     - name: "1:15 - 2:30 Research Speed Dating Maximally Dissimilar Groups (*Zoom*)"
+    - name: "2:30 - 2:45 Break"
     - name: "2:45 - 3:00 Group Debrief (join research teams) (*Zoom*)"
 
 - date: 2021-06-22
