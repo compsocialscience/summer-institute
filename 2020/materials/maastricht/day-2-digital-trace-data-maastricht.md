@@ -1,11 +1,11 @@
 # Lesson Plan
-## SICSS-Maastricht 2020
+## SICSS-Maastricht 2021
 ## Day 2, Digital Trace Data
 ## Based on activity for Day 2 at SICSS-Duke
 
 ### Introduction
 
-The videos associated with Day 2 of SICSS 2020 covered a broad range of topics including screen-scraping, working with APIs, and building apps and bots for social science research. Some of you have already had experience with some of these issues-- but for others, this may have been your first time collecting digital trace data. This group exercise is designed to find a balance between practicing rudimentary skills (for those of you with little or no experience in this area) and cutting edge techniques (for those of you with extensive expertise in this area). As an added bonus, this exercise not only challenges you to practice your coding skills, but to think about how to ask legal research questions that could be addressed using digital trace data (see also the Note below). For those of you who does not have a legal background, you can practice formulating research questions that contribute new knowledge to social science theory.
+The videos associated with Day 2 of SICSS 2021 covered a broad range of topics including screen-scraping, working with APIs, and building apps and bots for social science research. Some of you have already had experience with some of these issues-- but for others, this may have been your first time collecting digital trace data. This group exercise is designed to find a balance between practicing rudimentary skills (for those of you with little or no experience in this area) and cutting edge techniques (for those of you with extensive expertise in this area). As an added bonus, this exercise not only challenges you to practice your coding skills, but to think about how to ask legal research questions that could be addressed using digital trace data (see also the Note below). For those of you who does not have a legal background, you can practice formulating research questions that contribute new knowledge to social science theory.
 
 ### Activity
 
