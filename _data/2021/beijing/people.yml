@@ -42,6 +42,11 @@ localspeakers:
       bio: Morgan Frank is an Assistant Professor at the School of Computing and Information at the University of Pittsburgh, a Research Affiliate at the MIT Media Lab, and a Digital Fellow at the Stanford Institute for Human-Centered Artificial Intelligence. Morgan is interested in the complexity of AI, the future of work, and the socio-economic consequences of technological change. While many studies focus on phenotypic labor trends, Morgan’s recent research examines how genotypic skill-level processes around AI impact individuals and society. Combining labor research with investigations into the nature of AI research and the social or societal implications of AI adoption, Morgan hopes to inform our understanding of AI’s impact. Morgan has a PhD from MIT’s Media Lab, was a postdoc at MIT IDSS and the IDE,  and has a masters degree in applied mathematics from the University of Vermont where he was a member of the Computational Story Lab.
       website: http://www.pitt.edu/~mrfrank/
 
+    - name: Shan Huang
+      image: /assets/images/shanHuang.png
+      bio: Shan Huang is an assistant professor at the Faculty of Business and Economics at the University of Hong Kong. From 2018 to 2020, she was an assistant professor at the Foster School of Business at the University of Washington, Seattle. She is a digital fellow at MIT Initiative on Digital Economy and Stanford Digital Economy Lab. Her research focuses on the digital economy, social networks, and business analytics (e.g., A/B testing). Shan’s current work aims to understand the business value and social implications of new social media. Specifically, her studies examine how social advertising and social referral affect product virality, how emotions shape online content diffusion, and how weak ties can or cannot break people out of the echo chamber, in massive social networks. She has a particular interest in understanding how certain phenomena vary across individuals, social ties, products, and markets, using population-scale datasets and large-scale field experiments, and uses various research methodologies (e.g., large-scale networked randomized field experiments, machine learning, network analysis, econometrics) to pursue her research agenda. Shan’s research has been published in prominent management journals, including Marketing Science and the Journal of Management Information Systems. She has been collaborating closely with the leading tech firms (e.g., Tencent) to understand cutting-edge digital phenomena and their implications for business and society. Shan received a bachelor’s degree from Tsinghua University, a master’s degree from the University of British Columbia, and a Ph.D. from the MIT Sloan School of Management.
+      website: https://www.shanhhuang.com/
+
     - name: Zhiyuan Liu
       image: /assets/images/zhiyuanLiu.png
       bio: Zhiyuan Liu is an associate professor at the Department of Computer Science and Technology, Tsinghua University. He received his Ph.D. degree in Computer Science from Tsinghua in 2011. His research interests include representation learning, knowledge graphs and social computation, and has published more than 90 papers in top-tier conferences and journals of AI and NLP including ACL, IJCAI and AAAI, cited by more than 13,000 according to Google Scholar. He is the recipient of the Excellent Doctoral Dissertation of Tsinghua University, the Excellent Doctoral Dissertation of CAAI (Chinese Association for Artificial Intelligence), MIT Technology Review Innovators Under 35 China (MIT TR-35 China), BAAI Young Scientist. He serves as area chairs of ACL, EMNLP, COLING, IJCNLP, etc.
@@ -98,7 +103,7 @@ participants:
     website: "https://www.linkedin.com/in/zhaowen-guo-20535312a/"
 
   - name: Shengchun Huang
-    image: /assets/images/Xinyi-Wang
+    image: /assets/images/Shengchun_Huang.jpeg
     bio: "Shengchun Huang is a doctoral student at the Annenberg School for Communication at the University of Pennsylvania. She is is interested in digital news consumption, algorithm driven aggregators/platforms, and social effects in the high-choice media environment. Before joining Annenberg, she received her B.A. degree in communication from Renmin University of China and M.A. degree in journalism and communications from Tsinghua University."
     website: "https://www.asc.upenn.edu/people/graduate-student/shengchun-huang"
 
@@ -193,7 +198,7 @@ teaching_assistants:
   people:
 
   - name: Shengchun Huang
-    image: /assets/images/ShengchunHuang
+    image: /assets/images/Shengchun_Huang.jpeg
     bio: "Shengchun Huang is a doctoral student at the Annenberg School for Communication at the University of Pennsylvania. She is is interested in digital news consumption, algorithm driven aggregators/platforms, and social effects in the high-choice media environment. Before joining Annenberg, she received her B.A. degree in communication from Renmin University of China and M.A. degree in journalism and communications from Tsinghua University."
     website: "https://www.asc.upenn.edu/people/graduate-student/shengchun-huang"
 
