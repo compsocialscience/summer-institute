@@ -37,6 +37,11 @@ Alberto Barradas Chacón is currently a doctoral candidate and university assist
 
 <img src="https://user-images.githubusercontent.com/31765300/120938781-efb7b700-c714-11eb-922a-1874adbd5ec4.jpg" width="150">
 
+### Bantel, Ivo
+
+Ivo is a PhD student in Political Science at the University of Zurich and a member of the University of Zurich's Digital Democracy Lab. His research focuses affective polarization in multi-party systems; his wider research interests include European far-right politics, political violence and terrorism, natural language processing, quantitative text analysis, and computational social science methods.
+
+
 ### Bello, Piera
 
 Piera Bello is a postdoctoral fellow at the University of Zurich. She received her PhD from the Università della Svizzera italiana (USI). Before joining the University of Zurich, she worked as a postdoctoral fellow at University College London and Ca' Foscari University of Venice. Her primary research interests are in gender economics, pension economics and political economy. Her recent papers investigate the functioning of annuity markets.
