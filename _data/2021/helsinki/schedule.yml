@@ -1,13 +1,14 @@
 - date: 2021-06-14
-  name: ""
+  name: "Starting of SICSS"
   events:
     - name: "9:30 - 10:00 SICSS introduction"
     - name: "10:00 - 11:00 Ethics chapter review and conceptual exercise"
     - name: "11:00 - 12:00 Validity and reliability chapter review and conceptual exercise"
     - name: "12:00 - 13:30 Virtual lunch"
     - name: "13:30 - 15:30 Software libraries"
-    - name: "15:30 - 16:00 Break"
-    - name: "16:00 - 17:00 Live stream from Princeton sometime as well"
+    - name: "15:30 - 16:00 Day wrapup"
+    - name: "16:00 - 17:00 Break"
+    - name: "17:00 - 17:30 Voluntary: Follow SICSS Princeton introduction"
 - date: 2021-06-15
   name: "Data science"
   events:
@@ -37,8 +38,8 @@
     - name: "13:00 - 13:30 Introdoction to programming task"
     - name: "13:30 - 15:00 Working on programming tasks"
     - name: "15:00 - 15:30 Break"
-    - name: "15:30 - 16:00 Project week planning"
-    - name: "16:00 - 17:00 Day wrapup"
+    - name: "15:30 - 17:00 Project week planning"
+    - name: "17:00 - 17:30 Day wrapup"
 - date: 2021-06-18
   name: "Interactive systems"
   events:
@@ -49,7 +50,7 @@
     - name: "13:30 - 15:00 Working on programming tasks"
     - name: "15:00 - 15:30 Break"
     - name: "15:30 - 17:00 Project pairing"
-    - name: "17:00 - 18:00 Day wrapup"
+    - name: "17:00 - 17:30 Day wrapup"
 - date: 2021-06-19
   name: ""
   events:
@@ -69,7 +70,7 @@
     - name: "9:30 - 10:00 Meeting with advisers"
     - name: "12:00 - 13:00 Virtual lunch"
     - name: "15:30 - 16:00 Meeting with advisers"
-    - name: "16:00 - 17:00 Visiting lecture: Trading zones in computational social science (Juho Pääkkönen, Samuli Reijula, Matti Nelimarkka)"
+    - name: "16:00 - 17:00 Visiting lecture: Trading zones in computational social science (Juho PÃ¤Ã¤kkÃ¶nen, Samuli Reijula, Matti Nelimarkka)"
 - date: 2021-06-23
   name: ""
   events:
