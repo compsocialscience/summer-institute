@@ -12,12 +12,12 @@
     - name: "10:30 - 11:30 Small group discussions [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small_group_discussions.md) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
     - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
-    - name: "1:00 - 1:30 Break"
-    - name: "1:30 - 1:45 Introduction to the group exercise [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_participant.md); [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_instructor.md) (*Zoom*)"
-    - name: "1:45 - 2:45 Small group discussion of [case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf) (*Zoom*)"
-    - name: "2:45 - 3:15 Whole group debrief about case study (*Zoom*)"
-    - name: "3:20 - 3:45 Debrief and logistics (*Zoom*)"
-    - name: "3:45 - 4:00 Wrap up & Logistics"
+    - name: "1:00 - 1:15 Break"
+    - name: "1:15 - 1:30 Introduction to the group exercise [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_participant.md); [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_instructor.md) (*Zoom*)"
+    - name: "1:30 - 2:30 Small group discussion of [case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf) (*Zoom*)"
+    - name: "2:30 - 3:00 Whole group debrief about case study (*Zoom*)"
+    - name: "3:00 - 3:30 Break"
+    - name: "3:30 - 4:00 Wrap up & Logistics (*Zoom*)"
     - name: "4pm - 6pm Guest Speaker:  David Lazer"
 
 - date: 2021-06-15
@@ -29,8 +29,8 @@
     - name: "11:15 - 12:00 Work on projects (familiarize with API and define research questions) (*Zoom)"
     - name: "12:00 - 1:00 Group lunches (optional) (*Zoom*)"
     - name: "1:00 – 2:00 Work on Projects (collect  and assess data) (*Zoom*)"    
-    - mame: "2:00 — 2:30 Epidemic modeling overview (Nicola) (*Zoom)"
-    - name: "2:30 – 4:00 Work on projects (*Zoom)"
+    - mame: "2:00 — 2:30 Epidemic modeling overview (Nicola) (*Zoom*)"
+    - name: "2:30 – 4:00 Work on projects (*Zoom*)"
     - name: "4:00 - 6:00 Guest Speaker: Ken Benoit"
 
 - date: 2021-06-16
