@@ -244,6 +244,5 @@ teaching_assistants:
       
 event_staff:
   title: Event Staff
-  people:
-    - name: Coming Soon!
+    <img class="SICSS-Howard/Mathematica Event Staff" src="/assets/images/HowardEventStaff.jpeg" />
     
