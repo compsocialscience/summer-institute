@@ -50,7 +50,7 @@ __Open to:__ Unlimited registered participants
 
 ### Panel discussion on the (many) paths to computational social science research in law
 
-__Time:__ Wednesday, June 23, 2021. 12-1pm EDT, 6-7:30pm CEST
+__Time:__ Wednesday, June 23, 2021. 12-1:30pm EDT, 6-7:30pm CEST
 
 __Speakers:__ [Masha Medvedeva](https://www.rug.nl/staff/m.medvedeva/research), [Jens Frankenreiter](https://millstein.law.columbia.edu/people/jens-frankenreiter), [Thales Bertaglia](https://thalesbertaglia.com/)
 
