@@ -8,7 +8,7 @@ organizers:
 
       - name: Yunus Emre Tapan
         image: /assets/images/YEmreTapan.JPG
-        bio: “Yunus Emre Tapan is a Ph.D. Student in Political Science at Northeastern University. He has a Master’s degree in Middle East Studies from Middle Eastern Technical University and a Bachelor’s degree in Economics from Bogazici University. His research sits at the intersection of data science and social sciences. He specializes in social network analysis and computational text analysis to study online extremist communities and non-state actors with a particular focus on how they radicalize. He is a graduate of ICPSR Summer Program in 2020 as one of the recipients of the Scholarship for Political Science Research.”
+        bio: “Yunus Emre Tapan, a graduate of SICSS-Helsinki-18, is a Ph.D. Student in Political Science at Northeastern University. Emre earned his B.A. in Economics from Bogazici University and his M.Sc. in Middle East Studies from METU. His research sits at the intersection of data science and social sciences. He specializes in social network analysis and computational text analysis to study online extremist communities and non-state actors with a particular focus on how they radicalize. He is a graduate of ICPSR Summer Program in 2020 as one of the recipients of the Scholarship for Political Science Research.”
         website:
 
       - name: Ahmet Kurnaz
@@ -16,8 +16,8 @@ organizers:
         bio: “Ahmet is a PhD candidate at Çanakkale 18 Mart University’s Department of Political Science. Ahmet comes from a computer science background and has advanced knowledge of R. He works on polarisation and political communication online and specialises in text mining and analysis. He was a visiting researcher at the Oxford Internet Institute in 2017 and 2018, and the University of Maryland, College Park in 2015. He was a teaching assistant of SICSS-Istanbul in 2019.”
         website:
 
-localspeakers:
-  title: Speakers
+industry speakers:
+  title: Industry Speakers
   people:
   
       - name: Doğuş Kuran
@@ -25,6 +25,10 @@ localspeakers:
         bio: Doğuş Kuran is the CEO of SabancıDX, overseeing the company’s digital transformation operations in the field of advanced analytics, cloud services and cyber security. Previously he served in senior executive positions at Cisco, Microsoft, Ericsson and Accenture, before being appointed as the Executive Vice-President and Chief Customer Officer at Turkcell in charge of the company’s customer and business analytics, data scientist development program, and artificial intelligence-based customer engagement projects. He specializes in large-scale business applications of A.I.-driven data science, as well as mass-training of data scientists for a large portfolio of advanced business and industry analytics roles.
         website:
 
+academic speakers:
+  title: Lecturers
+  people:
+  
       - name: Kemal Oflazer
         image: /assets/images/KemalOflazer.jpg
         bio: "Kemal Oflazer received his PhD in Computer Science from Carnegie Mellon University in Pittsburgh, PA, USA, and his MS in Computer Science and BS in Electrical and Electronics Engineering degrees from Middle East Technical University in Ankara, Turkey. Heis currently a faculty member at Carnegie Mellon University – Qatar,
@@ -59,7 +63,12 @@ localspeakers:
               similarity detection and  question answering on technical domains with
               an eye towards developing automated course assistants."
         website: https://www.andrew.cmu.edu/user/ko/
-
+        
+      - name: Ceren Budak
+        image: /assets/images/CerenBudak.jpg
+        bio: "Ceren Budak is an Assistant Professor of Information at the School of Information and an Assistant Professor of Electrical Engineering and Computer Science at the University of Michigan. Her research interests lie in the area of computational social science. She utilizes network science, machine learning, and crowdsourcing methods and draws from scientific knowledge across multiple social science communities to contribute computational methods to the field of political communication."
+        website: http://cbudak.com/index.html
+        
       - name: Erdem Yörük
         image: /assets/images/ErdemYörük.jpg
         bio:  "Erdem Yörük is an Associate Professor in the Department of Sociology at Koç University and an Associate Member in the Department of Social Policy and Intervention at University of Oxford.
@@ -68,11 +77,6 @@ localspeakers:
                His work focuses on social welfare and social policy, social movements, political sociology, and comparative and historical sociology. His work has been supported by the National Science Foundation (NSF), Ford Foundation, European Commission Marie Curie CIG, European Research Council, European Commission Twinning Action Grants (socialcomquant.ku.edu.tr), and the Science Academy of Turkey BAGEP.
                His articles have appeared in World Development, Governance, Politics & Society, New Left Review, Current Sociology, South Atlantic Quarterly, International Journal of Communication, Social Policy and Administration, Social Indicators Research, among others. His book, ‘The Politics of the Welfare State in Turkey’ is forthcoming from the University of Michigan Press."
         website: https://emw.ku.edu.tr/?staff=erdem-yoruk
-
-      - name: Ceren Budak
-        image: /assets/images/CerenBudak.jpg
-        bio: "Ceren Budak is an Assistant Professor of Information at the School of Information and an Assistant Professor of Electrical Engineering and Computer Science at the University of Michigan. Her research interests lie in the area of computational social science. She utilizes network science, machine learning, and crowdsourcing methods and draws from scientific knowledge across multiple social science communities to contribute computational methods to the field of political communication."
-        website: http://cbudak.com/index.html
 
       - name: Tuba Bircan
         image: /assets/images/TubaBircan.jpg
@@ -90,7 +94,7 @@ alumni speakers:
 
   - name: Burak Ozturan
     image: /assets/images/BurakOzturan.png
-    bio: "TBA"    
+    bio: "Burak Özturan is a Ph.D. Student in Network Science at Northeastern University, a graduate of SICSS-Istanbul-20. He will receive a master degree in Data Science at the University of Konstanz (Germany) this summer. He completed a bachelor in Economics at Boğaziçi University with honours. Currently, he is investigating the online vaccine disinformation on Twittersphere, where he exploits the social network analysis and the computational text analysis techniques. He has given numerous lectures on programming languages, statistics, and social science research methods. He presented his research at ECPR-20 (European Consortium for Political Research) and will present at the Networks 2021 conference."    
     website: 
 
     
