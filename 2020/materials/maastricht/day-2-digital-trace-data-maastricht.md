@@ -31,7 +31,5 @@ You have 3 hours for this task. It is up to your group how you allocate this tim
 
 ### Notes
 
-- Since the use of digital trace data in legal research is still rare, I have started a [Google doc](https://docs.google.com/document/d/1Iv0hZJgiGQdsGoiH_OqB_7OSeK2ViVV8yg5FLErD5B8/edit?usp=sharing) where I put various ideas for such legal research but also already existing research or research in progress that I have heard about. This document is still developing and we encourage you to add other examples of research or simply digital trace data sources (eg., good APIs giving access to case law in a specific country) that could be useful for legal research. I hope we will keep adding resources there also after SICSS!
-
 - Our TAs - Bogdan Covrig and Thales Bertaglia - will be available either on Slack or Zoom to help you out if you get stuck with the task. They are really eager to help and also learn what you are working on, so simply DM them on Slack if you have any questions. 
 
