@@ -46,7 +46,7 @@
 - name: Nora Kirkizh
   image: /assets/images/Kirkizh.jpeg
   bio: "Nora Kirkizh is a doctoral researcher at GESIS, Department of Computational Social Science and a PhD student at TU Munich, Chair of Computational Social Science and Big Data. Her interests include political behavior, experiments and computational methods. Nora uses digital trace data to study peoples' political attitudes, polarization, and media diets."
-  website: norakirkizh.github.io
+  website: https://norakirkizh.github.io/
 
 - name: Hanna Marhunova
   image: /assets/images/Marhunova.jpg
