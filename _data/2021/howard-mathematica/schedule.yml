@@ -93,10 +93,11 @@
   name: "Day 1: Introduction and Ethics"
   events:
     - name: "[Day 1: Pre-arrival videos & corresponding slides](https://sicss.io/curriculum)"
+    - name: '9:00 - 10:00 "R" Office hours with Mathematica TAs (as needed) (*Zoom*)'
     - name: "10:00 - 10:30 Institute Introduction and logistics (*Zoom*)(You have received the Zoom link for the day over email) (video) "
     - name: "10:30 - 11:30 Small group discussions [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small_group_discussions.md) (*Zoom*) (video)"
     - name: "11:30 - 12:00 Break"
-    - name: '12:00 - 1:00 "Getting the most out of your SICSS experience" - Roundtable discussion with SICSS alums of color  (*Zoom*) (video) (slides)'
+    - name: '12:00 - 1:00 "Getting the most out of your SICSS experience" - Roundtable discussion with SICSS alums of color  (*Zoom*) (video) (slides) + "R" Office hours with Mathematica TAs (as needed) (*Zoom*)'
     - name: "1:00 - 1:30 Break"
     - name: "1:30 - 1:45 Introduction to the group exercise [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_participant.md); [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_instructor.md) (*Zoom*) (video)"
     - name: "1:45 - 2:45 Small group discussion of [case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf) (*Zoom*) (video)"
@@ -108,10 +109,11 @@
   name: "Day 2: Collecting Digital Trace Data"
   events:
     - name: "[Day 2: Pre-arrival videos, corresponding slides, & annotated code](https://sicss.io/curriculum)"
+    - name: '9:00 - 10:00 "R" Office hours with Mathematica TAs (as needed) (*Zoom*)'
     - name: "10:00 - 10:15 Logistics and introduction to [group exercise](https://compsocialscience.github.io/summer-institute/2021/materials/day2-digital-trace-data/Group_Exercise_Day_2.html) (*Zoom*) (video)"
     - name: "10:15 - 11:30 Identify a Research Question with Digital Trace Data (*Zoom*) (video)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: Wiki Education (encouraged) (*Zoom*) (video) (slides)"
+    - name: '12:00 - 1:00 Bite-Sized Lunchtime Talk: Wiki Education (encouraged) (*Zoom*) (video) (slides) + "R" Office hours with Mathematica TAs (as needed) (*Zoom*)'
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 2:30 Develop a Sampling Frame (*Zoom*) (video)"
     - name: "2:30 - 3:30 Populate the Sampling Frame with Screen-Scraping (*Zoom*) (video)"
@@ -122,10 +124,11 @@
   name: "Day 3: Automated Text Analysis"
   events:
     - name: "[Day 3: Pre-arrival videos, corresponding slides, & annotated code](https://sicss.io/curriculum)"
+    - name: '9:00 - 10:00 "R" Office hours with Mathematica TAs (as needed) (*Zoom*)'
     - name: "10:00 - 10:15 Logistics and introduction to [group exercise](https://compsocialscience.github.io/summer-institute/2021/materials/day3-text-analysis/Group-Exercise-Day-3.html) (*Zoom*) (video)"
     - name: "10:15 - 11:30 Extract Features from Trump Tweets (*Zoom*) (video)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: The Data Nutrition Project (encouraged) (*Zoom*) (video) (slides)"
+    - name: '12:00 - 1:00 Bite-Sized Lunchtime Talk: The Data Nutrition Project (encouraged) (*Zoom*) (video) (slides) + "R" Office hours with Mathematica TAs (as needed) (*Zoom*)'
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 3:30 Predict Features of Tweets associated with Retweets and Produce Visualization (*Zoom*) (video)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*) (video)"
@@ -134,11 +137,12 @@
   name: "Day 4: Surveys in the Digital Age"
   events:
     - name: "[Day 4: Pre-arrival videos & corresponding slides](https://sicss.io/curriculum)"
+    - name: '9:00 - 10:00 "R" Office hours with Mathematica TAs (as needed) (*Zoom*)'
     - name: "10:00 - 10:15 Logistics (*Zoom*) (video)"
     - name: "10:15 - 10:30 [Introduction to the group exercise](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/intro-to-activity.pdf), [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/lesson_plan_survey_participants.md); [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/lesson_plan_survey_instructor.md) (*Zoom*) (video)"
     - name: "10:30 - 11:30 Morning group exercise (*Zoom*) (video)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: The California Policy Lab (encouraged) (*Zoom*) (video) (slides)"
+    - name: '12:00 - 1:00 Bite-Sized Lunchtime Talk: The California Policy Lab (encouraged) (*Zoom*) (video) (slides) + "R" Office hours with Mathematica TAs (as needed) (*Zoom*)'
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 3:00 Afternoon group exercise (*Zoom*) (video)"
     - name: "3:00 - 3:15 Break"
@@ -149,11 +153,12 @@
   name: "Day 5: Mass collaboration and machine learning"
   events:
     - name: "[Day 5: Pre-arrival videos & corresponding slides](https://sicss.io/curriculum)"
+    - name: '9:00 - 10:00 "R" Office hours with Mathematica TAs (as needed) (*Zoom*)'
     - name: "10:00 - 10:15 Logistics (*Zoom*)"
     - name: "10:15 - 10:30 Introduction to the group exercise [Video](https://www.youtube.com/watch?v=ZI95vV7Co38) [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/06-ffchallenge_participate_activity.pdf) (*Zoom*) (video)"
     - name: "10:30 - 11:30 Participate in the Fragile Families Challenge activity [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md#lesson-plan-for-participants); [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_instructor.md#lesson-plan-for-instructors) (*Zoom*) (video)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: FactSpace West Africa and FakeNetAI (encouraged) (*Zoom*) (video) (slides)"
+    - name: '12:00 - 1:00 Bite-Sized Lunchtime Talk: FactSpace West Africa and FakeNetAI (encouraged) (*Zoom*) (video) (slides) + "R" Office hours with Mathematica TAs (as needed) (*Zoom*)'
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 3:00 Continue participating in the Fragile Families Challenge activity (*Zoom*) (video)"
     - name: "3:00 - 3:15 Break"
