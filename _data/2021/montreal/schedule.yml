@@ -75,7 +75,8 @@
 - date: 2021-06-14
   name: Introduction, Collecte de données digitales (webscrapping, API)
   events:
-    - name: "_Vidéos à regarder_"
+    - name: "_Cours, données et exercices disponibles [ici](https://github.com/visseho/Cours_SICSS_Montreal/tree/main/Semaine2_Formation_CSS/Jour1.2_Collecte_donnees_digitales)._"
+    - name: "Exercices à rendre"
    # - name: "Qu'est-ce que les données de trace numérique? [Video](https://youtu.be/uuSWQN7uYhk). [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/what-is-digital-trace-data/What_is_Digital_Trace_Data.html)."
    # - name: "Forces et faiblesses des données de trace numérique. [Video](https://www.youtube.com/watch?v=b8XTtBnENfo). [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/strengths-weaknesses/Rpres/Strengths_and_Weaknesses.html). [Annotated Code](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/strengths-weaknesses/rmarkdown/Strengths_and_Weaknesses.html)."
    # - name: "Application Programming Interfaces. [Video](https://youtu.be/jde_c7pB5U8). [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/apis/Rpres/APIs.html). [Annotated Code](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/apis/rmarkdown/Application_Programming_interfaces.html)."
@@ -91,7 +92,7 @@
 - date: 2021-06-15
   name: Analyse quantitative de texte
   events:
-    - name: "_Vidéos à regarder_"
+    - name: "_Cours, données et exercices disponibles [ici](https://github.com/visseho/Cours_SICSS_Montreal/tree/main/Semaine2_Formation_CSS/Jour2.2_Analyse_donnees_digitales)._"
    # - name: "Une introduction à l'analyse de texte. [Video](https://www.youtube.com/watch?v=pLsC4UyzX_U). [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/intro-text-analysis/Rpres/Introduction_to_Text_as%20Data.html). [Annotated Code](https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/intro-text-analysis/rmarkdown/Introduction_to_Text_Analysis.html)."
    # - name: "Bases de l'analyse de texte. [Video](https://www.youtube.com/watch?v=TAlO-5NJB7I). [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/basic-text-analysis/Rpres/Basic_Text_Analysis.html). [Annotated Code](https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/basic-text-analysis/rmarkdown/Basic_Text_Analysis_in_R.html)."
    # - name: "Analyse de texte basée sur un dictionnaire. [Video](https://www.youtube.com/watch?v=wSIi2ZRKjaE). [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/dictionary-methods/Rpres/Dictionary_Based_Analysis.html). [Annotated Code](https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/dictionary-methods/rmarkdown/Dictionary-Based_Text_Analysis.html)."
