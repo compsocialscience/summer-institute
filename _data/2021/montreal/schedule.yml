@@ -76,18 +76,20 @@
   name: Introduction, Collecte de données digitales (webscrapping, API)
   events:
     - name: "_Cours, données et exercices disponibles [ici](https://github.com/visseho/Cours_SICSS_Montreal/tree/main/Semaine2_Formation_CSS/Jour1.2_Collecte_donnees_digitales)._"
-    - name: "Exercices à rendre"
+    - name: "Lecture : Chapitre 1 du livre *[Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com)* ([Read online](https://www.bitbybitbook.com/en/1st-ed/preface/) de Matthews Salganik"
    # - name: "Qu'est-ce que les données de trace numérique? [Video](https://youtu.be/uuSWQN7uYhk). [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/what-is-digital-trace-data/What_is_Digital_Trace_Data.html)."
    # - name: "Forces et faiblesses des données de trace numérique. [Video](https://www.youtube.com/watch?v=b8XTtBnENfo). [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/strengths-weaknesses/Rpres/Strengths_and_Weaknesses.html). [Annotated Code](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/strengths-weaknesses/rmarkdown/Strengths_and_Weaknesses.html)."
    # - name: "Application Programming Interfaces. [Video](https://youtu.be/jde_c7pB5U8). [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/apis/Rpres/APIs.html). [Annotated Code](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/apis/rmarkdown/Application_Programming_interfaces.html)."
    # - name: "Webscrapping. [Video](https://youtu.be/LjTZNmBjC5Q). [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/screenscraping/Rpres/Screenscraping.html). [Annotated Code](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/screenscraping/rmarkdown/Screenscraping.html)."
    # - name: "Création d'applications et de bots pour la recherche en sciences sociales. [Video](https://www.youtube.com/watch?v=3wjYcIOpBgU). [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/building-apps-bots/Rpres/Building_Apps_for_Social_Science_Research.html). [Annotated Code](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/building-apps-bots/rmarkdown/Building_Apps_and_Bots_for%20Social_Science_Research.html)."
-    - name: "9:00 - 9:30 Arrivée"
-    - name: "9:30 - 10:00 Introduction"
-    - name: "10:00 - 11:00 Retour sur la vidéo du cours (Zoom)"
-    - name: "11:00 - 12:30 Labo (Zoom)"
-    - name: "12:30 - 1:30 Pause - courte formation: Github (1)"
-    - name: "1:30 - 3:30 Travail en équipe (Zoom)"
+    - name: "9:30 - 10:00 Présentation"
+    - name: "10:00 - 11:30 Cours (Zoom)"
+    - name: "11:30 - 11:45 Pause"
+    - name: "11:45 - 12:45 Labo (Zoom)"
+    - name: "12:45 - 1:30 Pause - Dejeuner"
+    - name: "1:30 - 3:00 Travail en équipe (Zoom)"
+    - name: "3:00 - 3:15 Restittution des travaux d'équipe (Zoom)"
+    - name: "3:15 - 3:30 Pause, changement de la salle Zoom"
     - name: "3:30 - 5:00 Conférencier : [Ashton Anderson](http://www.cs.toronto.edu/~ashton/) ([**The Cultural Structure of Online Platforms**](https://drive.google.com/file/d/1VdFu6ZrLVqzjydNAXfVO5Ij7Q9W5nlnq/view))"
 - date: 2021-06-15
   name: Analyse quantitative de texte
