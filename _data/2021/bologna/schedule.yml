@@ -63,6 +63,7 @@
   events:
     - name: "10:00 - 12:15 Gian Maria Campedelli:Complex networks, AI and computational methods for terrorism research: applications and challenges (*Zoom*)"
     - name: "12:30 - 14:30 Brown Bag Seminar: Workshop  Individual Projects (*Zoom*)"
+    - name: "15:00 - 16:30 Francesco Rampazzo: Following a Trail of Breadcrumbs: a Study of Migration through Digital Traces (*Zoom*)"
     - name: "17:00 - 18:30 Chris Albon: Machine Learning at Wikimedia? (*Zoom*)"
 
 - date: 2021-07-01
@@ -70,7 +71,6 @@
   events:
     - name: "10:00 - 12:15 Sönke Ehret:Online Experiments and Virtual Labs: Issues, Trends, and Practical Matters (*Zoom*)"
     - name: "12:30 - 13:45 Brown Bag Seminar: Workshop Individual Projects (*Zoom*)"
-    - name: "14:00 - 16:30 Francesco Rampazzo: Following a Trail of Breadcrumbs: a Study of Migration through Digital Traces (*Zoom*)"
 
 - date: 2021-07-02
   name: Invited speakers and workshop on individual projects 
