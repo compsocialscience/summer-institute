@@ -95,6 +95,12 @@ I am a PhD candidate in the Environmental Policy Lab at ETH Zürich with an inte
 
 <img src="https://user-images.githubusercontent.com/31765300/120939038-27732e80-c716-11eb-9df2-ee60b8d31963.jpeg" width="150">
 
+### Licht, Hauke
+
+Hauke is a PhD student at the University of Zurich, Department of Political Science. He studies how electoral competition shapes political discourse and he is interested in the role that rhetoric strategies play in democratic representation more generally. In his research, he develops and applies text-as-data and natural language processing methods to address these questions.
+
+<img src="https://user-images.githubusercontent.com/31765300/121482422-71396e80-c9cd-11eb-9243-cf5c6d54876f.jpeg" width="150">
+
 ### Martínez-Cantó, Javier
 
 Javier Martínez-Cantó is a post-doctoral researcher in the research group on Comparative Politics at the University of Konstanz. Before, he developed his doctorate at the University of Bamberg. His research interests are party organization, legislative behavior and multi-level politics. In his research, he seek to understand how political parties make decisions, and how these influence the behavior of rank-and-file members, legislators and party elites.
@@ -119,5 +125,9 @@ Tuhina is a Senior Researcher at the King George's Medical University, Lucknow, 
 
 <img src="https://user-images.githubusercontent.com/31765300/120939052-378b0e00-c716-11eb-9b4d-3b3c73e41192.jpg" width="150">
 
+### Roesti, Matthias
 
+Matthias is pursuing a PhD in Economics at the University of St. Gallen. His research interests cover the empirical exploration of a range of questions surrounding adaption of green technologies, covert environmental policy lobbying through media advertisements, and the spread of conspiracy theories via the internet. He holds an MPhil in Economics from the University of Oxford, and a BSc in Economics from the University of Bern.
+
+<img src="https://user-images.githubusercontent.com/31765300/121482764-b8bffa80-c9cd-11eb-820f-3b7f711d5ac2.png" width="150">
 
