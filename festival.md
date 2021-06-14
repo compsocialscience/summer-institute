@@ -32,7 +32,7 @@ __Description:__ The increased availability of machine-readable text provides a 
 
 __Open to:__ 45 registered participants
 
-[Register here](https://forms.gle/2uWTZ4A6AAjobkrt5)
+Registration closed 
 
 ### Panel discussion on the non-academic job market in computational social science
 
