@@ -68,7 +68,7 @@ __Description:__ This tutorial will teach participants how to build simple deep 
 
 __Expected background and computing environment:__ This is an advanced tutorial. Participants will need (at least two of): a basic understanding of causal inference, a basic understanding of supervised machine learning, and intermediate to advanced proficiency in some programming language to get the most out of it. No prior knowledge of deep learning is expected. The tutorial will be taught in Python, but the Tensorflow port for R is very, very similar so ideas will transfer.  The tutorial will be taught in Colaboratory, an interactive notebook environment provided by Google. When you start a Colab session, Google provides you a virtual machine with a GPU, making it a great environment to get started with deep learning. Participants won't need to install anything on their computer, but they will need a gmail or Google hosted email account to use Colab.
 
-Open to: Unlimited registered participants 
+__Open to:__ Unlimited registered participants 
 
 [Register here](https://forms.gle/b1EV5W6g9hrkbiRJA) 
 
