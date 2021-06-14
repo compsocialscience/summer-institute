@@ -12,7 +12,7 @@ Elliott Ash is Assistant Professor at ETH Zurich Department of Social Sciences, 
 ### [Malka Guillot](http://malkaguillot.weebly.com/)
 Malka Guillot is a postdoctoral associate in the Law, Economics, and Data Science Group in the Lab of Law & Economics at ETH Zurich. Malka teaches introduction to machine learning applied to policy questions at ETH. She has a background in public economics, where she investigates income inequality and taxation. She is interested in application of machine learning and natural language processing in public economics. In 2018, she received her Ph.D. in economics at the Paris School of Economics (France). 
 
-### Philine Widmer
+### [Philine Widmer](https://philinew.github.io/)
 Philine Widmer is a Ph.D. student in Economics at the University of St.Gallen. She works on topics in media economics and development economics. She is enthusiastic about bringing machine learning and natural language processing to politico-economic questions. She has been a teaching assistant for various subjects (including introductory data science, political economics, and microeconomics).
 
 ## Guest Speakers
