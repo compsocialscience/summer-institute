@@ -127,10 +127,10 @@ participants:
         bio: “Venia Veselovsky recently completed his undergraduate degree in mathematics and international relations at the University of Toronto, and next year will start his MSc at EPFL in Digital Humanities. Venia’s research at the CSS Lab at UofT has focused on social media and music sharing. In the future, he hopes to study computational international relations.”
         website:
 
-      - name: Ece	Mutlu
-        image: /assets/images/1d_FuiChDuvS8HbbWzD5J7r5dnA25mdrg.jpeg
-        bio: “Ece Mutlu is a doctoral student in the University of Central Florida industrial engineering department, and is associated with the Complex Adaptive Systems Laboratory. She has broad interests in human decision-making and information diffusion studies. Her dissertation explores the effect of network topology on social contagion dynamics. Mutlu holds an M.Sc. in chemical engineering from Bogazici University in Turkey.”
-        website: https://www.linkedin.com/in/ece-mutlu-aa16b85a/
+#     - name: Ece	Mutlu
+#       image: /assets/images/1d_FuiChDuvS8HbbWzD5J7r5dnA25mdrg.jpeg
+#        bio: “Ece Mutlu is a doctoral student in the University of Central Florida industrial engineering department, and is associated with the Complex Adaptive Systems Laboratory. She has broad interests in human decision-making and information diffusion studies. Her dissertation explores the effect of network topology on social contagion dynamics. Mutlu holds an M.Sc. in chemical engineering from Bogazici University in Turkey.”
+#       website: https://www.linkedin.com/in/ece-mutlu-aa16b85a/
 
       - name: Umut Duygu
         image: /assets/images/UmutDuygu.jpeg
@@ -187,9 +187,5 @@ participants:
         bio: “Fuat is a PhD candidate at the Sociology Department of Koç University, and a researcher at the European Commission funded Social ComQuant project. He graduated with a B.S. degree in Economics from Boğaziçi University (2015) and received his master’s degree with quantitative research on the relationship between anti-immigrant attitudes and labor precarity in Europe (2018) from İstanbul Şehir University. He currently works on the relationship between social movements, their targets and social assistance programs. He is interested in advanced quantitative techniques on causal inference.”
         website:
 
-      - name: Oğuzhan	İzmir
-        image: 
-        bio: "Oğuzhan İzmir is a master's student in International Relations. He is interested in the use of computational methods in Border Studies."
-        website: 
     
 
