@@ -83,6 +83,10 @@ Till received his PhD in sociology from Yale University in 2019 and is a postdoc
 
 <img src="https://user-images.githubusercontent.com/31765300/120939129-c9931680-c716-11eb-82a5-e36424077e53.png" width="150">
 
+### Kantorowicz, Jarek  
+
+Jarek is an assistant professor at Leiden University. He obtained his PhD within the European Doctorate in Law & Economics from the University of Hamburg, Erasmus University Rotterdam, and the University of Bologna. His works on topics related to political economy, institutional economics, environmental politics, and economics, and empirical legal studies.
+
 ### Kubli, Maël
 
 Maël is a political scientist at the University of Zurich he started working as Developer for the Digital Democracy Lab in the summer 2019. In addition, he is a doctoral student at the Department of Political Science since the beginning of 2021, where he is involved in the research project: "Problem Definition in the Digital Democracy". He is familiar with different programming languages such as R, HTML, CSS, Bash and more and his research focuses on the challenges, implications, and dynamics of digital technologies on democracy as well as computational social science.
