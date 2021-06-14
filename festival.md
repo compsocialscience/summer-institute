@@ -58,6 +58,20 @@ __Description:__ Three panelists represent three inspiring examples of interdisc
 
 [Register here](https://maastrichtuniversity.zoom.us/meeting/register/tJAufuuorj4pHNPKZElKXdZ7rI0QAENVXfdg)
 
+### Tutorial on deep learning for causal inference
+
+__Time:__ Thursday, June 24, 2021. 11am-12:30pm EDT
+
+__Speakers:__ [Bernard Koch](https://soc.ucla.edu/grads/bernard-koch) (SICSS-Los Angeles 19, 20, 21)
+
+__Description:__ This tutorial will teach participants how to build simple deep learning models for causal inference. Although this literature is still quite young, neural networks have the potential to extend causal inference to new settings where confounding is high-dimensional, non-linear, time-varying or even encoded in text, images, and networks. The tutorial will begin with 30 minutes of discussion on what deep learning is and how deep learning can be used for adjustment in observational causal inference, followed by 40 minutes of instruction on how to build your own custom deep learning models in Tensorflow 2. No prior knowledge of Tensorflow or neural networks is necessary, so this is also a great opportunity if you just want to get your feet wet with deep learning for the first time.
+
+__Expected background and computing environment:__ This is an advanced tutorial. Participants will need (at least two of): a basic understanding of causal inference, a basic understanding of supervised machine learning, and intermediate to advanced proficiency in some programming language to get the most out of it. No prior knowledge of deep learning is expected. The tutorial will be taught in Python, but the Tensorflow port for R is very, very similar so ideas will transfer.  The tutorial will be taught in Colaboratory, an interactive notebook environment provided by Google. When you start a Colab session, Google provides you a virtual machine with a GPU, making it a great environment to get started with deep learning. Participants won't need to install anything on their computer, but they will need a gmail or Google hosted email account to use Colab.
+
+Open to: Unlimited registered participants 
+
+[Register here](https://forms.gle/b1EV5W6g9hrkbiRJA) 
+
 ### Taking Quantitative Description Seriously
 
 __Time:__ Thursday, June 24, 2021. 1-2pm EDT
