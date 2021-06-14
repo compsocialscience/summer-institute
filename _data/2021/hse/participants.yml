@@ -46,7 +46,7 @@
 - name: Nora Kirkizh
   image: /assets/images/Kirkizh.jpeg
   bio: "Nora Kirkizh is a doctoral researcher at GESIS, Department of Computational Social Science and a PhD student at TU Munich, Chair of Computational Social Science and Big Data. Her interests include political behavior, experiments and computational methods. Nora uses digital trace data to study peoples' political attitudes, polarization, and media diets."
-  website: norakirkizh.github.io
+  website: https://norakirkizh.github.io/
 
 - name: Hanna Marhunova
   image: /assets/images/Marhunova.jpg
@@ -91,7 +91,7 @@
 - name: Olga Vilkova
   image: /assets/images/Vilkova.jpg
   bio: "Olga Vilkova is currently pursuing a PhD in Economic Sociology at Higher School of Economics, Russia. Her research interests lie in the field of inequality and professional success on online labor markets. Her studies are based on mixed approach where conventional sociological methods are balanced with computational techniques (web-scraping)."
-  website: Linkedin.com/pub/olga-vilkova/98/602/329
+  website: http://linkedin.com/pub/olga-vilkova/98/602/329
 
 - name: Nan Zhang
   image: /assets/images/NanZhang.jpg

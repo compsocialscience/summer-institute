@@ -22,8 +22,7 @@
   events:
     - name: "10:15 - 11:45	Text analysis + discussion (*Zoom*)"
     - name: "12:30 - 14:30	Brown bag seminar: Workshop Individual Projects (*Zoom*)"
-    - name: "14:00 - 15:15	Intro + Small groups(*Zoom*)"
-    - name: "15:15 - 16:00	Group discussion (*Zoom*)"
+    - name: "15:00 - 16:00	Activity: Text Analysis (*Zoom*)"
 
 - date: 2021-06-24
   name: Surveys in the Digital Age

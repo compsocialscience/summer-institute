@@ -83,6 +83,10 @@ Till received his PhD in sociology from Yale University in 2019 and is a postdoc
 
 <img src="https://user-images.githubusercontent.com/31765300/120939129-c9931680-c716-11eb-82a5-e36424077e53.png" width="150">
 
+### Kantorowicz, Jarek  
+
+Jarek is an assistant professor at Leiden University. He obtained his PhD within the European Doctorate in Law & Economics from the University of Hamburg, Erasmus University Rotterdam, and the University of Bologna. His works on topics related to political economy, institutional economics, environmental politics, and economics, and empirical legal studies.
+
 ### Kubli, Maël
 
 Maël is a political scientist at the University of Zurich he started working as Developer for the Digital Democracy Lab in the summer 2019. In addition, he is a doctoral student at the Department of Political Science since the beginning of 2021, where he is involved in the research project: "Problem Definition in the Digital Democracy". He is familiar with different programming languages such as R, HTML, CSS, Bash and more and his research focuses on the challenges, implications, and dynamics of digital technologies on democracy as well as computational social science.
@@ -94,6 +98,12 @@ Maël is a political scientist at the University of Zurich he started working as
 I am a PhD candidate in the Environmental Policy Lab at ETH Zürich with an interdisciplinary background, having previously studied social anthropology, geography and environmental science. My research investigates the relationship between land use, livelihoods and global supply chains, with a specific focus on the effectiveness and equity of zero deforestation initiatives in the cattle sector of the Brazilian Amazon. To understand these issues, I primarily use econometric and network analysis approaches to analyse data that is either remotely sensed or collected from the field. However, I am increasingly drawn towards data science techniques, such as web scraping and machine learning and am excited to learn more through the SICSS!
 
 <img src="https://user-images.githubusercontent.com/31765300/120939038-27732e80-c716-11eb-9df2-ee60b8d31963.jpeg" width="150">
+
+### Licht, Hauke
+
+Hauke is a PhD student at the University of Zurich, Department of Political Science. He studies how electoral competition shapes political discourse and he is interested in the role that rhetoric strategies play in democratic representation more generally. In his research, he develops and applies text-as-data and natural language processing methods to address these questions.
+
+<img src="https://user-images.githubusercontent.com/31765300/121482422-71396e80-c9cd-11eb-9243-cf5c6d54876f.jpeg" width="150">
 
 ### Martínez-Cantó, Javier
 
@@ -119,5 +129,9 @@ Tuhina is a Senior Researcher at the King George's Medical University, Lucknow, 
 
 <img src="https://user-images.githubusercontent.com/31765300/120939052-378b0e00-c716-11eb-9b4d-3b3c73e41192.jpg" width="150">
 
+### Roesti, Matthias
 
+Matthias is pursuing a PhD in Economics at the University of St. Gallen. His research interests cover the empirical exploration of a range of questions surrounding adaption of green technologies, covert environmental policy lobbying through media advertisements, and the spread of conspiracy theories via the internet. He holds an MPhil in Economics from the University of Oxford, and a BSc in Economics from the University of Bern.
+
+<img src="https://user-images.githubusercontent.com/31765300/121482764-b8bffa80-c9cd-11eb-820f-3b7f711d5ac2.png" width="150">
 

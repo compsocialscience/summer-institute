@@ -24,14 +24,13 @@
     - name: "10:00 - 10:15 Logistics and introduction to [group exercise](https://compsocialscience.github.io/summer-institute/2021/materials/day2-digital-trace-data/Group_Exercise_Day_2.html) (*Zoom*)"
     - name: "10:15 - 11:30 Identify a Research Question with Digital Trace Data (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 12:15 Flash talk by Marcos Gallo (*Zoom*)"
-    - name: "12:15 - 12:30 Flash talk by Katherine Keith (*Zoom*)"
-    - name: "12:30 - 12:45 Flash talk by Killian McLoughlin (*Zoom*)"
+    - name: "12:00 - 12:15 Flash talk by Marcos Gallo (optional) (*Zoom*)"
+    - name: "12:15 - 12:30 Flash talk by Katherine Keith (optional) (*Zoom*)"
+    - name: "12:30 - 12:45 Flash talk by Killian McLoughlin (optional) (*Zoom*)"
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 2:30 Develop a Sampling Frame (*Zoom*)"
     - name: "2:30 - 3:30 Populate the Sampling Frame with Screen-Scraping (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
-    - name: "3:45 - 4:00 Break"
 
 - date: 2021-06-16
   name: Automated Text Analysis
@@ -39,8 +38,9 @@
     - name: "10:00 - 10:15 Logistics and introduction to [group exercise](https://compsocialscience.github.io/summer-institute/2021/materials/day3-text-analysis/Group-Exercise-Day-3.html) (*Zoom*)"
     - name: "10:15 - 11:30 Extract Features from Trump Tweets (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 12:15 Flash talk by Tamara van der Does (*Zoom*)"
-    - name: "12:15 - 12:30 Flash talk by Yash Tadimalla (*Zoom*)"
+    - name: "12:00 - 12:15 Flash talk by Tamara van der Does, 'Measuring Boundary Rhetoric' (optional) (*Zoom*)"
+    - name: "12:15 - 12:30 Flash talk by Yash Tadimalla (optional) (*Zoom*)"
+    - name: "12:30 - 12:45 Flash talk by Jacy Reese Anthis (optional) (*Zoom*)"
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 3:30 Predict Features of Tweets associated with Retweets and Produce Visualization (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
@@ -52,9 +52,9 @@
     - name: "10:15 - 10:30 [Introduction to the group exercise](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/intro-to-activity.pdf), [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/lesson_plan_survey_participants.md); [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/lesson_plan_survey_instructor.md) (*Zoom*)"
     - name: "10:30 - 11:30 Morning group exercise (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 12:15 Flash talk by Nozomi Nakajima (*Zoom*)"
-    - name: "12:15 - 12:30 Flash talk by Carolina Coimbra Vieira (*Zoom*)"
-    - name: "12:30 - 12:45 Flash talk by Andrey Indukaev (*Zoom*)"
+    - name: "12:00 - 12:15 Flash talk by Nozomi Nakajima (optional) (*Zoom*)"
+    - name: "12:15 - 12:30 Flash talk by Carolina Coimbra Vieira, 'The Role of Migration in Shaping Cultural Proximity across Countries: Evidence from Facebook Data on National Cuisines' (optional) (*Zoom*)"
+    - name: "12:30 - 12:45 Flash talk by Andrey Indukaev (optional) (*Zoom*)"
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 3:00 Afternoon group exercise (*Zoom*)"
     - name: "3:00 - 3:15 Break"
@@ -68,8 +68,8 @@
     - name: "10:15 - 10:30 Introduction to the group exercise [Video](https://www.youtube.com/watch?v=ZI95vV7Co38) [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/06-ffchallenge_participate_activity.pdf) (*Zoom*)"
     - name: "10:30 - 11:30 Participate in the Fragile Families Challenge actvity [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md#lesson-plan-for-participants); [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_instructor.md#lesson-plan-for-instructors) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 12:15 Flash talk by Mario Molina (*Zoom*)"
-    - name: "12:15 - 12:30 Flash talk by Luca Maria Pesando, 'Harnessing the Potential of Online Searches for Understanding the Impact of COVID-19 on Intimate Partner Violence in Italy' (*Zoom*)"
+    - name: "12:00 - 12:15 Flash talk by Mario Molina (optional) (*Zoom*)"
+    - name: "12:15 - 12:30 Flash talk by Luca Maria Pesando, 'Harnessing the Potential of Online Searches for Understanding the Impact of COVID-19 on Intimate Partner Violence in Italy' (optional) (*Zoom*)"
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 3:00 Continue participating in the Fragile Families Challenge activity (*Zoom*)"
     - name: "3:00 - 3:15 Break"
@@ -88,9 +88,11 @@
   name: Work on group projects (optional) and/or participate in SICSS Festival
   events:
     - name: "10:00 - 10:30 Research Speed Dating Logistics (*Zoom*), [Slides for Instructors] (link coming soon)"
-    - name: "10:15 - 11:30 Research Speed Dating Maximally Similar Groups (*Zoom*)"
-    - name: "1:15 - 3:15 Research Speed Dating Maximally Dissimilar Groups (*Zoom*)"
-    - name: "3:15 - 3:30 Group Debrief (join research teams) (*Zoom*)"
+    - name: "10:30 - 11:45 Research Speed Dating Maximally Similar Groups (*Zoom*)"
+    - name: "11:45 - 1:15 Break"
+    - name: "1:15 - 2:30 Research Speed Dating Maximally Dissimilar Groups (*Zoom*)"
+    - name: "2:30 - 2:45 Break"
+    - name: "2:45 - 3:00 Group Debrief (join research teams) (*Zoom*)"
 
 - date: 2021-06-22
   name: Work on group projects (optional) and/or participate in SICSS Festival

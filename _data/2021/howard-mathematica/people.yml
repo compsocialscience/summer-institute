@@ -59,7 +59,7 @@ speakers:
       website: https://www.jpmorganchase.com/institute/about/leadership/chris-wheat 
      
 roundtable discussions:
-  title: Roundtable Discussions
+  title: '"Real Talk" Roundtable Discussions'
   people:
     - name: Howard University
       image: /assets/images/HowardULogo.png
@@ -71,6 +71,9 @@ roundtable discussions:
       bio: "Mathematica is the insight partner that illuminates the path to progress for public- and private-sector changemakers. We apply expertise at the intersection of data, methods, policy, and practice, translating big questions into deep insights that weather the toughest tests. Driven by our mission to improve public well-being, we collaborate closely with our clients to improve programs, refine strategies, and enhance understanding."     
       website: https://mathematica.org/
       
+    - name: SICSS
+      image: /assets/images/sicss-logo.png
+      bio: "The Summer Institutes in Computational Social Science (SICSS) were created to provide free training to the next generation of researchers at the intersection of social science and data science— and to incubate cutting-edge research across disciplinary boundaries. Participants at each institute a) hear lectures by leading scholars in the field on a range of subjects from automated text analysis to experiments on social media platforms; b) participate in group training exercises; and c) launch interdisciplinary research projects. SICSS thus aims to provide open, high-quality training in computational social science to researchers around the world in order to accelerate the growth of the field and ensure that it develops practices that are in the long-term interests of science and society. Lectures are live-streamed to all SICSS sites from a central location and supported via a vibrant online community that includes open-source education materials that can be used for further self-study or as a model for computational social science courses within other organizations."
      
 lunchtime talks:
   title: Bite-Sized Lunchtime Talks
@@ -116,10 +119,6 @@ participants:
    - name: Luyi Adesanya 
      image: /assets/images/LuyiAdesanya.jpeg
      bio: "Originally from Dallas, Texas, I earned my bachelor’s degree in Biological Sciences (with a specialization in Endocrinology) from The University of Chicago. Prior to Washington University in St. Louis, I was working at The National Institutes of Health as an Intramural Research Fellow. With my MPH/MBA degrees in global health epidemiology and supply chain + operations, I am interested in the integration of preventative health and business on an international sector. Currently, as a PhD student, I am interested in Clinical Research and improving Clinical Trial diversity domestically and globally.  As a daughter of immigrants, from Germany and Nigeria, I am motivated to pursue a career that allows me to utilize data analytics to use health outcomes and strengthen health systems in emerging markets throughout the developing world."
-     
-   - name: Anas Askar
-     image: /assets/images/AnasAskar.jpeg
-     bio: "Anas Askar recently completed a PhD in Sociology & Criminology at Howard University. Research interests include green criminology, disaster research, and second-generation Muslims. During his doctoral student tenure, he was a fellow of NOAA Cooperative Science Center in Atmospheric Sciences and Meteorology (NCAS-M)." 
      
    - name: Abiodun Atoloye
      image: /assets/images/AbiodunAtoloye.jpeg 
@@ -222,7 +221,7 @@ organizers:
   title: Organizer
   people:
     - name: Naniette H. Coleman
-      image: /assets/images/nanietteColeman.jpg
+      image: /assets/images/NanietteHeadshot.jpeg
       bio: "Naniette H. Coleman is a PhD candidate in the Sociology Department at the University of California Berkeley and a UC-National Lab In-Residence Graduate Fellow at Los Alamos National Lab. Since 2016 Naniette has directed the AAC&U award winning Interdisciplinary Research Group on Privacy at Berkeley. Naniette is an affiliate of the Institute for the Study of Societal Issues, the Center for Long-term Cybersecurity, and the Center for Technology, Society, and Policy at Berkeley as well as the Belfer Center for Science and International Affairs, and Berkman-Klein Center for the Internet and Society at Harvard University. Naniette’s research sits at the intersection of the sociology of culture and organizations and focuses on cybersecurity, surveillance, and privacy in the US context. Specifically Naniette’s research examines how organizations assess risk, make decisions, and respond to data breaches and organizational compliance with state, federal, and international privacy laws.  Naniette holds a Master of Public Administration with a specialization in Democracy, Politics, and Institutions from the Harvard Kennedy School of Government, and both an M.A. in Economics and a B.A. in Communication from the University at Buffalo, SUNY.  A non-traditional student, Naniette’s prior professional experience includes local, state, and federal service, as well as work for two international organizations, and two universities."
       website: http://naniettecoleman.com
       
@@ -240,11 +239,10 @@ planning_team:
       website: https://www2.howard.edu/about/president/staff 
     
 teaching_assistants:   
-  title: Teaching Assistants
+  title: Teaching Assistants (Mathematica)
     <img class="SICSS-Howard/Mathematica TAs" src="/assets/images/HowardMathematicaTAs.jpeg" />
       
 event_staff:
-  title: Event Staff
-  people:
-    - name: Coming Soon!
+  title: Event Staff (Coleman Research Lab)
+    <img class="SICSS-Howard/Mathematica Event Staff" src="/assets/images/HowardEventStaff.jpeg" />
     

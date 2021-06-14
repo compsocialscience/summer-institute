@@ -156,16 +156,16 @@
      - name: "**Description**: This talk will introduce the participants to basic concepts and techniques of Natural Language Processing in an interactive fashion and will highlight aspect to Turkish that make it a challenge. It will then provide an overview of NLP applications in social sciences."
        
 - date: 2021-06-23
-  name: Alumni Talk and Work on Group Projects
-  events:
-     - name: "16:00-17:00 Office Hour and Flash Talks of Group Projects on Wonder" 
-     - name: "17:00-18:30 Alumni Talk with Burak Ozturan"
-
-- date: 2021-06-24
   name: Work on Group Projects
   events:
-     - name: "16:00-17:00 Office Hour and Flash Talks of Group Projects on Wonder"  
+     - name: "16:00-17:00 Office Hour and Flash Talks of Group Projects on Wonder" 
 
+- date: 2021-06-24
+  name: Alumni Talk and Work on Group Projects
+  events:
+     - name: "16:00-17:00 Office Hour and Flash Talks of Group Projects on Wonder"  
+     - name: "17:00-18:30 **COVID-19 Twitter Database: Turkish Sample** by [Burak Ozturan](https://sicss.io/2021/istanbul/people)"
+     - name: "* [Abstract and Codes](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/speakers/BurakOzturan.md)"
      
 - date: 2021-06-25
   name: Group Projects Presentations and Farewell

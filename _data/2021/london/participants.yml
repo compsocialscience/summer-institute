@@ -2,10 +2,6 @@
   image: /assets/images/1EEHGoUdvI3wLjnMt3RNsn04PFs1HVXj4.jpeg
   bio: Alejandro studies the self, role identities, and contemporary work arrangements in his PhD at the Munich School of Management of the LMU Munich. In his projects he uses surveys, experiments, and digital traces. He holds a BSc and an MSc in Psychology from the UNAM (Mexico) and the LMU respectively.
   
-- name: Amna Anwar
-  image: /assets/images/1uEQqwy4T2k08yqGK_k5YjZU_36Ws1m-x.jpeg
-  bio: Amna Anwar is a PhD student in Pervasive Computing and Data Science at Nottingham Trent University. She holds a Bachelor's in Computing BSc (Hons). Amna's research interests are in using Natural Language Processing and ubiquitous technologies for crime prevention with the main focus of work being a PhD study investigating how technology fusion can be used to improve the safety of vulnerable individuals. Amna applies novel sentiment analysis tools in conjunction with audio sensors on edge computing devices to detect violent or harmful language; specifically in domestic violence cases.
-  
 - name: Ana Macanovic
   image: /assets/images/1vEK2JrqU_tiAXVRh0MmYKaBDhtVMAb7n.jpeg
   bio: Ana Macanovic is a PhD student at the Department of Sociology, Utrecht University and ICS. She has a background in sociology and behavioural economics. Her research is concerned with cooperation of agents in extra-legal environments. Currently, she is exploring reputation systems in cryptomarkets utilizing text mining methods.
@@ -21,6 +17,10 @@
 - name: Damiano Maria Morando
   image: /assets/images/1qxrYNOug-fNzHGjDo2B7gHNs7iN7jm3Z.jpeg
   bio: Damiano Maria Morando is a PhD candidate in Management at Imperial College Business School.  Before joining Imperial College, Damiano did an internship in a venture capital firm in Milan, focused on technology transfer. His Doctoral Thesis focuses on online networking behaviour as a tool for entrepreneurs to facilitate the accrual of early stage financing.
+
+- name: Darren Cook
+  image: /assets/images/1peBkt19v5CoaaGjCA9HV8IQv1Eopr3JU.jpeg
+  bio: Darren Cook is a PhD candidate at the University of Liverpool. He has masters degrees in both Investigative Psychology and Decision Making under Uncertainty. His doctoral thesis combines psychology and computer science, where he uses data science and domain expertise to develop scalable social science models to examine conversations.
 
 - name: Dominik Schindler
   image: /assets/images/Schindler_Photo.jpg
@@ -52,6 +52,10 @@
 - name: Manuel Tonneau
   image: /assets/images/1VNgy0adh00u2Q9MK9gW-91-eb0w2VNIT.jpeg
   bio: Manuel is a data science consultant at the World Bank and a research engineer in the CSS team of the Centre Marc Bloch in Berlin. He holds an MSc in Statistics from ENSAE Paris and an MSc in Economics from Humboldt University of Berlin.
+
+- name: Maria del Rio Chanona
+  image: /assets/images/1a1IhbypxhlodHflmsLgEkwjro0KXbXh2.jpeg
+  bio: I am a JSMF postdoc at the Complexity Science Hub in Vienna. Previously I did my PhD at INET, Oxford. My research topics are on networks, shock propagation, and labor market
   
 - name: Melody Sepahpour-Fard
   image: /assets/images/1Wq82WCL6zBx-LCfKZkVlW4EWxatMbARx.jpeg

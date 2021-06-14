@@ -48,6 +48,16 @@ __Open to:__ Unlimited registered participants
 
 [Register here](https://forms.gle/ixdR3wC4WzRRwpBS7)
 
+### Panel discussion on the (many) paths to computational social science research in law
+
+__Time:__ Wednesday, June 23, 2021. 12-1:30pm EDT, 6-7:30pm CEST
+
+__Speakers:__ [Masha Medvedeva](https://www.rug.nl/staff/m.medvedeva/research), [Jens Frankenreiter](https://millstein.law.columbia.edu/people/jens-frankenreiter), [Thales Bertaglia](https://thalesbertaglia.com/)
+
+__Description:__ Three panelists represent three inspiring examples of interdisciplinary research in law. These panelists will share their experiences in learning new skills, motivations to pursue computational research, and challenges in creating innovative research agendas.
+
+[Register here](https://maastrichtuniversity.zoom.us/meeting/register/tJAufuuorj4pHNPKZElKXdZ7rI0QAENVXfdg)
+
 ### Taking Quantitative Description Seriously
 
 __Time:__ Thursday, June 24, 2021. 1-2pm EDT
