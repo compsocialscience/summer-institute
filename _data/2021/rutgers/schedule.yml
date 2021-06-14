@@ -16,7 +16,7 @@
   name: Collecting Digital Trace Data
   events:
     - name: "10:00 - 10:15 Logistics"
-    - name: "10:15 - 11:45 Tutorials on Screen Scraping and APIs" [Tutorial files](https://drive.google.com/file/d/1WUcblvJBdUEBqiMXJCsC07jh-yHZkH1l/view?usp=sharing)
+    - name: "10:15 - 11:45 Tutorials on Screen Scraping and APIs [Tutorial files](https://drive.google.com/file/d/1WUcblvJBdUEBqiMXJCsC07jh-yHZkH1l/view?usp=sharing)"
     - name: "11:45 - 12:30 Lunch break"
     - name: "12:30 - 1:30 Tutorial Twitter API"
     - name: "1:45 - 2:30 Small Group Exercise: Design Research Question"
@@ -36,15 +36,15 @@
   events:
     - name: "10:00 - 10:15 Logistics"
     - name: "10:15 - 12:00 Live Tutorials on Machine Learning"
-    - name: "12:00 - 1:00 Small group lunches (optional)"
-    - name: "1:15 - 3:30 Afternoon group exercise"
+    - name: "12:00 - 1:00 Small Group lunches (optional)"
+    - name: "1:15 - 3:30 Afternoon Group exercise"
     - name: "3:30 - Talk by In Song Kim"
 
 - date: 2021-06-18
   name: (Morning) Surveys and Experiments 
   events:
     - name: "10:00 - 10:30 Logistics"
-    - name: "10:30 - 12:00 Group Exercise"
+    - name: "10:30 - 12:00 Experiment Group Exercise"
     - name: "12:30 - 2:00 Talk by Dan Nielson"
 
 - date: 2021-06-18
@@ -61,7 +61,8 @@
 - date: 2021-06-21
   name: (Morning) Network Analysis Continued
   events:
-    - name: "10:00 - 12:00 Network Analysis Exercises"
+    - name: "10:00 - 12:15 Logistics"
+    - name: "10:15 - 12:00 Network Group Exercise"
     - name: "12:00 - 1:00 Small group lunches (optional)"
     - name: "1:00 - 2:00 Talk by Matthew Weber"
 
