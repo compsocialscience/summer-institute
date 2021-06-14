@@ -16,7 +16,7 @@
   name: Collecting Digital Trace Data
   events:
     - name: "10:00 - 10:15 Logistics"
-    - name: "10:15 - 11:45 Tutorials on Screen Scraping and APIs [Tutorial files](https://drive.google.com/file/d/1WUcblvJBdUEBqiMXJCsC07jh-yHZkH1l/view?usp=sharing)"
+    - name: "10:15 - 11:45 Tutorials on Screen Scraping and APIs [Tutorial files](https://drive.google.com/file/d/1WUcblvJBdUEBqiMXJCsC07jh-yHZkH1l/view?usp=sharing);[Activity](https://docs.google.com/document/d/1AIe8RawYsu02SeByzslayjdWO69-bi45yxZBbXLrAtw/edit?usp=sharing)"
     - name: "11:45 - 12:30 Lunch break"
     - name: "12:30 - 1:30 Tutorial Twitter API"
     - name: "1:45 - 2:30 Small Group Exercise: Design Research Question"
