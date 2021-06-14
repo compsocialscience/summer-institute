@@ -93,7 +93,7 @@
   name: "Day 1: Introduction and Ethics"
   events:
     - name: "[Day 1: Pre-arrival videos & corresponding slides](https://sicss.io/curriculum) [(Takeaway Sheet)](https://docs.google.com/document/d/1LJfGgzdPzBcJNGSsFZcMH79nPKAxu6CIUT55Gygqkkc/edit?usp=sharing)"
-    - name: "9:00 - 10:00 R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)(You have received the Zoom link for the day over email)"
+    - name: "9:00 - 10:00 R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "10:00 - 10:30 Institute Introduction and logistics (*Zoom*)(You have received the Zoom link for the day over email) (video) "
     - name: "10:30 - 11:30 Small group discussions [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small_group_discussions.md) (*Zoom*) (video)"
     - name: "11:30 - 12:00 Break"
@@ -109,8 +109,8 @@
   name: "Day 2: Collecting Digital Trace Data"
   events:
     - name: "[Day 2: Pre-arrival videos, corresponding slides, & annotated code](https://sicss.io/curriculum)"
-    - name: "9:00 - 10:00 R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)"
-    - name: "10:00 - 10:15 Logistics and introduction to [group exercise](https://compsocialscience.github.io/summer-institute/2021/materials/day2-digital-trace-data/Group_Exercise_Day_2.html) (*Zoom*) (video)"
+    - name: "9:00 - 10:00 R and Python Office hours with Mathematica TAs (as needed) (*Zoom*) (You have received the Zoom link for the day over email)"
+    - name: "10:00 - 10:15 Logistics and introduction to [group exercise](https://compsocialscience.github.io/summer-institute/2021/materials/day2-digital-trace-data/Group_Exercise_Day_2.html) (*Zoom*)(video) "
     - name: "10:15 - 11:30 Identify a Research Question with Digital Trace Data (*Zoom*) (video)"
     - name: "11:30 - 12:00 Break"
     - name: '12:00 - 1:00 Bite-Sized Lunchtime Talk: Wiki Education (encouraged) (*Zoom*) [(video)](https://youtu.be/m0FszWPsRYE) (Q&A) (slides) OR R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)'
@@ -174,8 +174,9 @@
   name: Day off
 
 - date: 2021-06-21
-  name: "Day 6: Work on group projects and participate in [SICSS Festival](https://sicss.io/festival)"
+  name: "Day 6: Work on group projects and participate in SICSS Festival"
   events:
+  - name: "[SICSS Festival: a series of online events such as tutorials, panel discussions, and debates](https://sicss.io/festival)"
   - name: "10:00 - 10:15 Logistics (*Zoom*)"
   - name: "10:15 - 12:00 Work on group projects"
   - name: "12:00 - 1:00 Small group lunches or participant flash talks (encouraged) (*Zoom*) (video)"
@@ -185,6 +186,7 @@
 - date: 2021-06-22
   name: "Day 7: Work on group projects and participate in [SICSS Festival](https://sicss.io/festival)"
   events:
+  - name: "[SICSS Festival: a series of online events such as tutorials, panel discussions, and debates](https://sicss.io/festival)"
   - name: "10:00 - 10:15 Logistics (*Zoom*)"
   - name: "10:15 - 12:00 Work on group projects"
   - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: The University of California's Publisher Negotiation Team (encouraged) (*Zoom*) [(video)](https://youtu.be/euXlS8Ybo3Q) (Q&A) (slides)"
@@ -194,6 +196,7 @@
 - date: 2021-06-23
   name: "Day 8: Work on group projects and participate in [SICSS Festival](https://sicss.io/festival)"
   events:
+  - name: "[SICSS Festival: a series of online events such as tutorials, panel discussions, and debates](https://sicss.io/festival)"
   - name: "10:00 - 10:15 Logistics (*Zoom*)"
   - name: "10:15 - 12:00 Work on group projects"
   - name: "12:00 - 1:00 Live Mathematica Roundtable (encouraged) (*Zoom*) (video)"
@@ -203,6 +206,7 @@
 - date: 2021-06-24
   name: "Day 9: Work on group projects and participate in [SICSS Festival](https://sicss.io/festival)"
   events:
+  - name: "[SICSS Festival: a series of online events such as tutorials, panel discussions, and debates](https://sicss.io/festival)"
   - name: "10:00 - 10:15 Logistics (*Zoom*)"
   - name: "10:15 - 4:00 Work on group projects"
   - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: vary CSS (encouraged) (*Zoom*) [(video)](https://youtu.be/q1MXHf5x7Nk) (Q&A) (slides)" 
@@ -212,6 +216,7 @@
 - date: 2021-06-25
   name: "Day 10: Present group projects and participate in [SICSS Festival](https://sicss.io/festival)"
   events:
+  - name: "[SICSS Festival: a series of online events such as tutorials, panel discussions, and debates](https://sicss.io/festival)"
   - name: "10:00 - 10:15 Logistics"
   - name: "10:15 - 10:30 Break"
   - name: "10:30 - 12:00 SICSS-Howard/Mathematica 2021 Keynote Address, Timnit Gebru, Ph.D., Co-founder, Black in AI (*Zoom*) (video)"
