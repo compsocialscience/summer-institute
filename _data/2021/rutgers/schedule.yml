@@ -15,7 +15,7 @@
 - date: 2021-06-15
   name: Collecting Digital Trace Data
   events:
-    - name: "10:00 - 10:15 Logistics"
+    - name: "10:00 - 10:15 Logistics [Slides](https://docs.google.com/presentation/d/1MitII6kdE_z589YFWR9N-Vp9qYUEt1xyUwEu3B3Z-io/edit?usp=sharing)"
     - name: "10:15 - 11:45 Tutorials on Screen Scraping and APIs [Tutorial files](https://drive.google.com/file/d/1WUcblvJBdUEBqiMXJCsC07jh-yHZkH1l/view?usp=sharing); [Activity](https://docs.google.com/document/d/1AIe8RawYsu02SeByzslayjdWO69-bi45yxZBbXLrAtw/edit?usp=sharing)"
     - name: "11:45 - 12:30 Lunch break"
     - name: "12:30 - 1:30 Tutorial Twitter API [Tutorial Files](https://drive.google.com/drive/folders/1s53qqelse8iA00mb9bk-3DcM5d5yIRYT?usp=sharing)"
