@@ -26,9 +26,10 @@
   name: Automated Text Analysis
   events:
     - name: "10:00 - 10:15 Logistics and introduction to group exercise"
-    - name: "10:15 - 12:00 Group Exercise"
-    - name: "12:00 - 1:00 Small group lunches (optional)"
-    - name: "1:15 - 3:30 Group Exercise"
+    - name: "10:15 - 12:00 Group Exercise, Session I [Activity Prompt](https://drive.google.com/file/d/1Avp5tDKz7B_07EzAY_E5KNiGbUQnFWvK/view?usp=sharing)"
+    - name: "12:00 - 1:00 Lunch"
+    - name: "1:00 - 2:00 Group Exercise, Session II"
+    - name: "2:00 - 3:15 Group Presentations and Discussion"
     - name: "3:30 - Talk by Chris Fariss"
 
 - date: 2021-06-17
