@@ -6,7 +6,7 @@
 ### Instructor preparation
 
 To prepare for this activity you should:
-- Carefully read the [lesson plan for participants](lesson_plan_survey_participant.md) and the reading assignments included in it.
+- Carefully read the [lesson plan for participants](lesson_plan_survey_participants.md) and the reading assignments included in it.
 - This activity has three main elements: 1) creating the questionnaire; 2) collecting some data; and 3) analyzing a larger dataset that we have pre-collected for you. From the instructor perspective, step 2 can be the most complicated. At SICSS-Princeton, we will have participants deploy their survey to MTurk, and we will provide them with accounts pre-loaded with funds (say $50 per account). If you don't have funds to support this you are welcome to skip the data collection step and just focus on steps (1) and (3). Also, if you have funds and you want to use an alternative platform, such as [Prolific](https://www.prolific.co/), that is OK; this activity is not specific to MTurk.
 - If you want to provide your participants pre-loaded accounts, both MTurk and Prolific have tightened up verification and account security. Therefore, we recommend that you create these accounts a few days before the activity and we expect that your participants may run into problems accessing them.
 - This activity will involve each group doing some programming.  You could explore setting up some kind of collaborative coding environment, but don't have plans to do that at SICSS-Princeton.
