@@ -26,12 +26,11 @@
     - name: "12:15 - 12:45 Benefits & Weaknesses of Digital Trace Data plus Hybrid Designs (*Zoom*)"
     - name: "12:45 - 13:30 Reddit as a source of data (*Zoom*)"
     - name: "13:30 - 14:00 Break"
-    - name: "14:00 - 16:00 Group Exercise: Collecting Digital Trace Data (Reddit) (*Zoom*)"
-    - name: "16:00 - 16:15 Break"   
-    - name: "16:15 - 16:45 Whole group debrief about the group exercise. Discussing Benefits & Weaknesses of Digital Trace Data based the pre-recorded lectures [Day 2](https://sicss.io/curriculum) (*Zoom*)"
+    - name: "14:00 - 15:45 Group Exercise: Collecting Digital Trace Data (Reddit). [Lesson plan (participants)](https://docs.google.com/document/d/1LS7rDYQvd2-lr6sf6Z5uwqTQvIKeAT0UbAJY_a9mLmM/edit?usp=sharing) (*Zoom*)"
+    - name: "15:45 - 16:00 Break"   
+    - name: "16:00 - 16:45 Whole group debrief about the group exercise. Discussing Benefits & Weaknesses of Digital Trace Data based the pre-recorded lectures [Day 2](https://sicss.io/curriculum) (*Zoom*)"
     - name: "16:45 - 17:45 Break"    
     - name: "17:45 - 19:15 Guest speaker: Rene Kizilcec. Randomized Field Experiments in Online Learning (*Zoom*)" 
-    - name: "19:15 - 19:20 Debrief and logistics (*Zoom*)"
 
 - date: 2021-06-16
   name: Automated Text Analysis and Networks Science
