@@ -23,13 +23,13 @@
   name: Collecting Digital Trace Data
   events:
     - name: "12:00 - 12:15 Logistics and introduction (*Zoom*)"
-    - name: "12:15 - 12:45 Benefits & Weaknesses of Digital Trace Data plus Hybrid Designs (*Zoom*)"
-    - name: "12:45 - 13:30 Reddit as a source of data (*Zoom*)"
+    - name: "12:15 - 12:45 Benefits & Weaknesses of Digital Trace Data plus Hybrid Designs. [Slides](https://www.dropbox.com/s/kiwwnwzl025x7do/Digital%20traces%20data%20Sivak%202021.pptx?dl=0) (*Zoom*)"
+    - name: "12:45 - 13:30 Reddit as a source of data [Slides](https://docs.google.com/presentation/d/13qF39XsRVnDkS-sXOPR3UFwI3gXEtfGlRn8_5jX2Tw0/edit?usp=sharing) (*Zoom*)"
     - name: "13:30 - 14:00 Break"
     - name: "14:00 - 15:45 Group Exercise: Collecting Digital Trace Data (Reddit). [Lesson plan (participants)](https://docs.google.com/document/d/1LS7rDYQvd2-lr6sf6Z5uwqTQvIKeAT0UbAJY_a9mLmM/edit?usp=sharing) (*Zoom*)"
-    - name: "15:45 - 16:00 Break"   
-    - name: "16:00 - 16:45 Whole group debrief about the group exercise. Discussing Benefits & Weaknesses of Digital Trace Data based the pre-recorded lectures [Day 2](https://sicss.io/curriculum) (*Zoom*)"
-    - name: "16:45 - 17:45 Break"    
+    - name: "15:45 - 16:30 Break"   
+    - name: "16:30 - 17:15 Whole group debrief about the group exercise. Discussing Benefits & Weaknesses of Digital Trace Data based the pre-recorded lectures [Day 2](https://sicss.io/curriculum) (*Zoom*)"
+    - name: "17:15 - 17:45 Break"    
     - name: "17:45 - 19:15 Guest speaker: Rene Kizilcec. Randomized Field Experiments in Online Learning (*Zoom*)" 
 
 - date: 2021-06-16
