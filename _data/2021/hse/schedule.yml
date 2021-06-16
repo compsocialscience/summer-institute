@@ -47,19 +47,19 @@
 - date: 2021-06-17
   name: Surveys in the Digital Age
   events:
-    - name: "12:00 - 12:15 Logistics (*Zoom*)"
-    - name: "12:15 - 12:30 [Introduction to the group exercise](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/intro-to-activity.pdf) (*Zoom*)"
-    - name: "12:30 - 13:30 Non-probability-based Surveys in Practice: group exercise based on the pre-recorded lectures [Day 4](https://sicss.io/curriculum). [Lesson plan (participants)](https://docs.google.com/document/d/1-Q6GcFTM_WDiEHOmjgQmfG7yWeWueNXhBE9VbvjlAWo/edit?usp=sharing) (*Zoom*)"
-    - name: "13:30 - 14:00 Break"
-    - name: "14:00 - 14:15 Flash-talk: Alex Knorre. Where people shoot? Spatial analysis of gun violence in Philadelphia (*Zoom*)"
-    - name: "14:15 - 15:00 Participant flash talks (encouraged) (*Zoom*)"
-    - name: "15:00 - 15:15 Break"
-    - name: "15:15 - 17:00 Continue participating in the group exercise (*Zoom*)"
+    - name: "12:00 - 12:05 Logistics (*Zoom*)"
+    - name: "12:05 - 12:20 [Introduction to the group exercise](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/intro-to-activity.pdf) (*Zoom*)"
+    - name: "12:20 - 13:20 Non-probability-based Surveys in Practice: group exercise based on the pre-recorded lectures [Day 4](https://sicss.io/curriculum). [Lesson plan (participants)](https://docs.google.com/document/d/1-Q6GcFTM_WDiEHOmjgQmfG7yWeWueNXhBE9VbvjlAWo/edit?usp=sharing) (*Zoom*)"
+    - name: "13:20 - 14:00 Break"
+    - name: "14:00 - 14:20 Flash-talk: Alex Knorre. Where people shoot? Spatial analysis of gun violence in Philadelphia (*Zoom*)"
+    - name: "14:20 - 14:40 Flash talk: Nora Kirkizh. Can Website Choices Predict Political Issue Preferecnes? (*Zoom*)"
+    - name: "14:40 - 15:00 Flash talk: Nan Zhang. Linking Twitter Handles to Survey Data: Outline of a study design and potential empirical application (*Zoom*)"
+    - name: "15:00 - 15:30 Break"
+    - name: "15:30 - 17:00 Continue participating in the group exercise (*Zoom*)"
     - name: "17:00 - 17:15 Whole group debrief about the group exercise (*Zoom*)"
     - name: "17:15 - 17:45 Break"    
     - name: "17:45 - 18:45 Ivan Smirnov. How to publish a computational social science paper? (*Zoom*)"
-    - name: "18:45 - 19:00 Debrief and logistics (*Zoom*)"
-
+    
 - date: 2021-06-18
   name: Mass collaboration and machine learning
   events:
@@ -68,11 +68,10 @@
     - name: "12:30 - 13:30 Participate in the Fragile Families Challenge [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md#lesson-plan-for-participants), [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_instructor.md#lesson-plan-for-instructors) (*Zoom*)"
     - name: "13:30 - 14:00 Break"
     - name: "14:00 - 15:00 Continue participating in the Fragile Families Challenge (*Zoom*)"
-    - name: "15:00 - 15:15 Break"
-    - name: "15:15 - 17:00 Continue participating in the Fragile Families Challenge (*Zoom*)"
-    - name: "17:00 - 17:15 Break"
-    - name: "17:15 - 17:30 Whole group debrief about group exercise (*Zoom*)"
-    - name: "17:30 - 17:45 Debrief and logistics (*Zoom*)"
+    - name: "15:00 - 15:30 Break"
+    - name: "15:30 - 17:00 Continue participating in the Fragile Families Challenge (*Zoom*)"
+    - name: "17:00 - 17:30 Break"
+    - name: "17:30 - 18:00 Whole group debrief about group exercise (*Zoom*)"
 
 - date: 2021-06-19
   name: Closing day
