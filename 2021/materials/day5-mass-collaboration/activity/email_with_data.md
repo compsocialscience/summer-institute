@@ -6,7 +6,7 @@ Data files for the Fragile Families Challenge activity at SICSS 2021 are attache
 
 Please do not share the files with anyone. When you have finished the activity, please delete the files. 
 
-You can read more about this activity in the lesson plan: https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md
+You can read more about this activity in the lesson plan: https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md
 
 If you have any problems, please contact your local organizer or me (e.cantrell@princeton.edu) via email or Slack. We are excited to see what we all produce together in this activity!
 
