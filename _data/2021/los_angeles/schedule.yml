@@ -38,7 +38,7 @@
 - date: 2021-06-24
   name: Project Day
   events:
-    - name: "10:00 - 10:30 CSS Skills Workshop: TBD (*In Zoom full group*)"
+    - name: "10:00 - 10:30 CSS Skills Workshop on Bash (*In Zoom full group*)"
     - name: "10:30 - 11:45 Project Time (*In Zoom break-out room*)"
     - name: "11:45 - 12:45 Break"
     - name: "12:45 - 2:00 Guest Speaker: TBD (*In Zoom full group*)"
@@ -68,7 +68,7 @@
 - date: 2021-06-29
   name: Text Analysis Activity
   events:
-    - name: "10:00 - 10:30 CSS Skills Workshop (*In Zoom full group*)"
+    - name: "10:00 - 10:30 CSS Skills Workshop on GitHub (*In Zoom full group*)"
     - name: "10:30 - 11:45 Text Analysis Activity (*In Zoom break-out room*)"
     - name: "11:45 - 12:45 Break"
     - name: "12:45 - 2:45 Project Time (*In Zoom break-out rooms*)"
@@ -98,8 +98,7 @@
 - date: 2021-07-02
   name: Project Day and Presentations
   events:
-    - name: "10:00 - 10:30 CSS Skills Workshop (*In Zoom full group*)"
-    - name: "10:30 - 11:45 Project Time (*In Zoom break-out room*)"
+    - name: "10:00 - 11:45 Project Time (*In Zoom break-out room*)"
     - name: "11:45 - 12:45 Break"
     - name: "12:45 - 2:30 Project Time (*In Zoom break-out room*)"
     - name: "2:30 - 4:00 Presentations (*In Zoom full group*)"
