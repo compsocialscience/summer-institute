@@ -123,7 +123,7 @@
 - date: 2021-06-16
   name: "Day 3: Automated Text Analysis"
   events:
-    - name: "[Day 3: Pre-arrival videos, corresponding slides, & annotated code](https://sicss.io/curriculum) [(Takeaway Sheet])(https://docs.google.com/document/d/1BT4LUe6Pikzyenm4g211rNHMEzhu0C53LKNntIDFAdo/edit?usp=sharing)"
+    - name: "[Day 3: Pre-arrival videos, corresponding slides, & annotated code](https://sicss.io/curriculum) [(Takeaway Sheet)](https://docs.google.com/document/d/1BT4LUe6Pikzyenm4g211rNHMEzhu0C53LKNntIDFAdo/edit?usp=sharing)"
     - name: "9:00 - 10:00 R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "10:00 - 10:15 Logistics and introduction to [group exercise](https://compsocialscience.github.io/summer-institute/2021/materials/day3-text-analysis/Group-Exercise-Day-3.html) (*Zoom*) (video)"
     - name: "10:15 - 11:30 Extract Features from Trump Tweets (*Zoom*)"
