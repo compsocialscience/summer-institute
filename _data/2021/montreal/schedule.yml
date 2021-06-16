@@ -112,7 +112,7 @@
 - date: 2021-06-16
   name: "Enquêtes à l'ère numérique"
   events:
-    - name: "_Vidéos à regarder_"
+   # - name: "_Vidéos à regarder_"
     #- name: "La recherche par sondage à l'ère numérique. [Video](https://www.youtube.com/watch?v=j8fJGV17Hcg). [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day4-surveys/01-survey-research-digital-age.pdf)."
     #- name: "Échantillonnage probabiliste et non probabiliste. [Video](https://www.youtube.com/watch?v=SLAi9v5CCnM). [Slides](https://github.com/compsocialscience/summer-institute/tree/master/2020/materials/day4-surveys/02-nonprobability-sampling.pdf)."
     #- name: "Entretiens administrés par ordinateur. [Video](https://www.youtube.com/watch?v=HT1bQ3Bh79w). [Slides](https://github.com/compsocialscience/summer-institute/tree/master/2020/materials/day4-surveys/03-computer-administered-interviews.pdf)."
@@ -141,7 +141,7 @@
 - date: 2021-06-18
   name: Éthique
   events:
-    - name: "_Vidéos à regarder_"
+   # - name: "_Vidéos à regarder_"
    # - name: "Éthique. [Video Partie 1](https://youtu.be/A-5QaX5ZiK8). [Slides Partie 1](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/ethics_part1.pdf)." 
     #- name: "Éthique. [Video Partie 2](https://youtu.be/TT6dOQMKHhA). [Slides Partie 2](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/ethics_part2.pdf)."
     #- name: "Éthique. [Video Ajouts et Extensions](https://youtu.be/lJyK6kXeDbc). [Slides Ajouts et Extensions](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/ethics_additions_extensions.pdf)."
