@@ -36,15 +36,13 @@
   name: Automated Text Analysis and Networks Science
   events:
     - name: "12:00 - 12:15 Logistics and introduction to group exercise (*Zoom*)"
-    - name: "12:15 - 13:30 Group Exercise based on the pre-recorded lectures [(Day 3)](https://sicss.io/curriculum). [Lesson plan (participants)](https://docs.google.com/document/d/1JGilW7WKmXtFNtrBc51WmL-pRMZ7bz-vpxKclx68lWM/edit?usp=sharing) (*Zoom*)"
-    - name: "13:30 - 14:00 Break"
-    - name: "14:00 - 15:00 Continue participating in the group exercise (*Zoom*)"
-    - name: "15:00 - 15:15 Whole group debrief about the group exercise"
-    - name: "15:15 - 15:30 Break"
-    - name: "15:30 - 17:00 Sofia Dokuka. Social network analysis: research design (*Zoom*)"
-    - name: "17:30 - 17:45 Break"
+    - name: "12:15 - 14:00 Group Exercise based on the pre-recorded lectures [(Day 3)](https://sicss.io/curriculum). [Lesson plan (participants)](https://docs.google.com/document/d/1JGilW7WKmXtFNtrBc51WmL-pRMZ7bz-vpxKclx68lWM/edit?usp=sharing) (*Zoom*)"
+    - name: "14:00 - 14:45 Break"
+    - name: "14:45 - 15:15 Whole group debrief about the group exercise"
+    - name: "15:15 - 15:45 Break"
+    - name: "15:45 - 17:00 Sofia Dokuka. Social network analysis: research design (*Zoom*)"
+    - name: "17:00 - 17:45 Break"
     - name: "17:45 - 19:15 Guest lecture: Sune Lehmann. Modeling temporal communication networks and dynamical processes [(abstract)](https://docs.google.com/presentation/d/15gF1O6CKo8Q2VFvlgk1NdzGTkyeKrKSHFSxc23IdSX4/edit?usp=sharing) (*Zoom*)"
-    - name: "19:15 - 19:30 Debrief and logistics (*Zoom*)"
 
 - date: 2021-06-17
   name: Surveys in the Digital Age
