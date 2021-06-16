@@ -102,29 +102,27 @@
      - name: "* SICSS Learning Material: [Day 1-Introduction and Ethics](https://sicss.io/curriculum)"
        
 - date: 2021-06-15
-  name: Research Talk and Research Dating
+  name: Research Dating
   events:
-     - name: "16:00-17:00 Research Dating on Wonder"
-     - name: "17:00-20:00 **Automated Methods of Protest Event Collection** by [Erdem Yoruk, Ali Hürriyetoğlu, Fırat Duruşan, Çağrı Yoltar](https://emw.ku.edu.tr/people/)"
-     - name: "* [Abstract](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/speakers/ErdemYoruk.md) & [Readings](https://drive.google.com/drive/folders/1odn_5mzw2oC4Ftw4n3Chqypp0LI5wBId?usp=sharing)"    
-     
+     - name: "16:00-18:00 Research Dating on Gather"
+  
 - date: 2021-06-16
   name: Research Talk and Research Dating
   events: 
-     - name: "16:00-17:00 Research Dating on Wonder"
+     - name: "16:00-17:00 Research Dating on Gather"
      - name: "17:00-20:00 **Microgeography of Ethnic Enclaves** by [Özge Öner](https://www.landecon.cam.ac.uk/directory/ozge-oner-dr)"
      
 - date: 2021-06-17
   name: Research Talk and Research Dating
   events:
-      - name: "16:00-17:00 Research Dating on Wonder"
+      - name: "16:00-17:00 Research Dating on Gather"
       - name: "17:00-20:00 **Characterizing the Nature of Online Political Conversations at Scale** by [Ceren Budak](http://cbudak.com/index.html)"
       - name: "* [Abstract](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/speakers/CerenBudak.md)"
       
 - date: 2021-06-18
   name: Research Talk and Research Dating
   events:
-      - name: "16:00-17:00 Research Dating on Wonder"
+      - name: "16:00-17:00 Research Dating on Gather"
       - name: "17:00-20:00 **Big Data for Studying Human Migration** by [Tuba Bircan](https://www.tubabircan.com/)"
       - name: "* [Abstract and Readings](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/speakers/TubaBircan.md)"     
       
@@ -156,9 +154,11 @@
      - name: "**Description**: This talk will introduce the participants to basic concepts and techniques of Natural Language Processing in an interactive fashion and will highlight aspect to Turkish that make it a challenge. It will then provide an overview of NLP applications in social sciences."
        
 - date: 2021-06-23
-  name: Work on Group Projects
+  name: Research Talk and Work on Group Projects
   events:
      - name: "16:00-17:00 Office Hour and Flash Talks of Group Projects on Wonder" 
+     - name: "17:00-20:00 **Automated Methods of Protest Event Collection** by [Erdem Yoruk, Ali Hürriyetoğlu, Fırat Duruşan, Çağrı Yoltar](https://emw.ku.edu.tr/people/)"
+     - name: "* [Abstract](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/speakers/ErdemYoruk.md) & [Readings](https://drive.google.com/drive/folders/1odn_5mzw2oC4Ftw4n3Chqypp0LI5wBId?usp=sharing)"    
 
 - date: 2021-06-24
   name: Alumni Talk and Work on Group Projects
