@@ -20,8 +20,8 @@
     - name: "10:15 - 11:45 Data Collection Exercise (*In Zoom full group*)"
     - name: "11:45 - 12:45 Break"
     - name: "12:45 - 1:15 Review Data Collection Exercise"
-    - name: "1:15 - 2:45 Guest Speaker Panel: Computational Social Science in Industry TBD (*In Zoom full group*)"
-    - name: "3:00 - 3:45 Project Time: brainstorm project groups and ideas"
+    - name: "1:15 - 2:45 Guest Speaker Panel: Computational Social Science in Industry with George Berry and Allison McGrath, moderated by Bernard Koch (*In Zoom full group*)"
+    - name: "3:00 - 3:45 Project Time: Brainstorm project groups and ideas (*In Zoom break-out rooms*)"
     - name: "3:45 - 4:00 Debrief"
   
 - date: 2021-06-23
@@ -31,8 +31,8 @@
     - name: "10:15 - 11:00 Lecture: Potential Outcomes (*In Zoom full group*)"
     - name: "11:00 - 11:30 Small Group Discussions (*In Zoom break-out room*)"
     - name: "11:30 - 1:15 Break"
-    - name: "1:30 - 3:00 Group Discussion + Exercise"
-    - name: "3:00 - 4:00 Project Time: finalize project groups, post abstract and list of group members to our #projects channel in Slack"
+    - name: "1:30 - 3:00 Group Discussion + Exercise (*In Zoom break-out room*)"
+    - name: "3:00 - 4:00 Project Time: Finalize project groups, post abstract and list of group members to our #projects channel in Slack (*In Zoom break-out room*)"
     - name: "4:00 - 4:30 OPTIONAL: Open Office Hours on Zoom"
       
 - date: 2021-06-24
