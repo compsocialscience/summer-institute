@@ -18,21 +18,21 @@
   name: Automated Text Analysis
   events:
     - name: "9:00 - 11:30 [Group activity](https://sicss.io/2020/materials/day3-text-analysis/Group-Exercise-Day-3.html)"
-    - name: "19:30 - 21:10 Participant flash talks (5 slots)"
+    - name: "19:30 - 20:50 Participant flash talks (4 slots)"
 
 - date: 2021-06-17
   name: Site-specific topics--automated image analysis
   events:
     - name: "9:00 - 10:00 Talk by Yongren Shi"
-    - name: "10:15 - 11:15 Talk by instructor (Han Zhang) "
-    - name: "19:30 - 21:10 Participant flash talks  (5 slots)"
+    - name: "10:15 - 11:00 Talk by instructor (Han Zhang)"
+    - name: "11:15 - 11:45 Short exercise (potential)"
+    - name: "19:30 - 20:50 Participant flash talks  (4 slots)"
 
 - date: 2021-06-18
   name: Site-specific topics--experiments
   events:
-    - name: "9:00 - 9:45 Participant flash talks (2 slots) "
-    - name: "10:00 - 11:00 Talk by instructor (Jaemin Lee)"
-    - name: "11:15 - 12:15 Discussions"
+    - name: "9:30 - 10:30 Talk by instructor (Jaemin Lee)"
+    - name: "10:45 - 11:45 Participant flash talks (3 slots) "
 
 - date: 2021-06-19
   name: Day off
@@ -45,7 +45,7 @@
   events:
     - name: "09:00 - 10:00 Talk by instructor (Haohan Chen)"
     - name: "10:15 - 11:15 Talk by Liang Hai"
-    - name: "11:30 - 17:30 Research Speed Dating (optional)"
+    - name: "1:30 - 17:30 Research Speed Dating (optional; on slack)"
     - name: "19:30 - 20:30 Group Debrief (join research teams) "
 
 - date: 2021-06-22
