@@ -81,7 +81,7 @@ Remember: This is a learning activity so try whatever you want and don't expect 
 \begin{frame}
 
 \begin{itemize}
-\item Start with our template and create your survey
+\item Start with our template and create your questionnaire
 \end{itemize}
 
 \end{frame}
@@ -100,7 +100,7 @@ The template includes:
 \end{itemize}
 
 \vfill
-You will need to add the questions from the Pew surveys
+The template is designed to save you time.  You will need to add the questions from the Pew surveys
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
@@ -248,17 +248,6 @@ Note:
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-Three increasingly sophisticated ways to make group estimate $\hat{\bar{y}}_h$.  You won't have time to do all of these:
-\begin{itemize}
-\item simple cell-based poststratification
-\item model-based poststratification
-\item multilevel regression postratification (Mr. P)
-\end{itemize}
-
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{Data}
 
 \begin{itemize}
@@ -333,93 +322,16 @@ $h$ is a group described by a unique combination of gender (2 groups) $\times$ a
 %%%%%%%%%%%%%%%
 \begin{frame}
 
-For the activity, it would be great if you could complete doing simple cell-based poststratifiaction.  The following slides are if you have extra time and want to try other methods.
+For the activity, it would be great if you could complete doing simple cell-based poststratifiaction.  
 
-\end{frame}
-%%%%%%%%%%%%%%%
-\begin{frame}{Model-based poststratification}
-
-\begin{equation*}
-\hat{\bar{y}}_{post} = \sum_{h=1}^H \frac{N_h}{N} \hat{\bar{y}}_h
-\end{equation*}
-where
-$\hat{\bar{y}}_h$ comes from an individual-level model
-
-\begin{align*}
-Pr(y_i = 1) = logit^{-1} (\beta_0 + \\
- \beta_{male} \cdot male_i+ \\
- \beta_{30-49} \cdot 30-49_i + \beta_{50 - 64} \cdot 50-64_i+ \beta_{65+} \cdot 65_i +\\
- \beta_{afr-am} \cdot afam_i + \beta_{as-am} \cdot asam_i+ \beta_{hispanic} \cdot hisp_i + \beta_{other} \cdot other_i + \\
- \beta_{midwest} \cdot midwest_i + \beta_{south} \cdot south_i + \beta_{west} \cdot west_i)
-\end{align*}
-
-\end{frame}
-%%%%%%%%%%%%%%%%%
-\begin{frame}{Mr. P}
-
-\begin{center}
-\only<1>{\includegraphics[width=0.6\textwidth]{figures/park_bayesian_2004_title}}
-\only<2>{\includegraphics[width=\textwidth]{figures/park_bayesian_2004_abstract}}
-\end{center}
-
-\vfill
-\url{https://www.jstor.org/stable/25791784} \\ See also Gelman and Hill (2007), Chapter 14 (``Multilevel logistic regression'')
-
-\end{frame}
-%%%%%%%%%%%%
-\begin{frame}{Mr. P.}
-
-$\hat{\bar{y}}_h$ comes from an individual-level model
-
-\begin{align*}
-Pr(y_i = 1) = logit^{-1} (\beta_0 + \\
- \beta_{male} \cdot male_i + \\
- \alpha_{k[i]}^{age} + \\
- \alpha_{k[i]}^{race} + \\
- \alpha_{k[i]}^{region})
-\end{align*}
-
-\begin{align*}
-\alpha_{k}^{age} \sim N(0, \sigma^2_{age}) \text{ for } k = 1, \ldots, 4 \\
-\alpha_{k}^{race} \sim N(0, \sigma^2_{race}) \text{ for } k = 1, \ldots, 5 \\
-\alpha_{k}^{region}  \sim N(0, \sigma^2_{region}) \text{ for } k = 1, \ldots, 4
-\end{align*}
-
-Priors determined by RStanarm (\url{https://cran.r-project.org/web/packages/rstanarm/vignettes/priors.html})
-
-\end{frame}
-
-% Talk about two models fighting, shrinking coefficients toward 0
-%%%%%%%%%%%%%%
-\begin{frame}{To learn more about Mr. P.}
-
-{\footnotesize
-Generally optimistic:
+At the end of these slides there is more information on these other methods:
 \begin{itemize}
-\item Park, Gelman, and Bafumi. 2004. ``\textcolor{blue}{\href{https://www.jstor.org/stable/25791784}{Bayesian Multilevel Estimation with Poststratification: State-Level Estimates from National Polls}}.'' \textit{Political Analysis}.
-\item Lax and Phillips. 2009. ``\textcolor{blue}{\href{https://www.jstor.org/stable/25193870}{How should we estimate public opinion in the states?}}'' \textit{American Journal of Political Science}.
-\item Ghitza and Gelman. 2013. ``\textcolor{blue}{\href{https://www.jstor.org/stable/23496652}{Deep Interactions with MRP: Election Turnout and Voting Patterns Among Small Electoral Subgroups}}.'' \textit{American Journal of Political Science}.
-\item Warshaw and Rodden. 2012. ``\textcolor{blue}{\href{http://www.jstor.org/stable/10.1017/s0022381611001204}{How should we measure district-level public opinion on individual issues?}}'' \textit{Journal of Politics}.
-\item Downs et al. 2018. ``\textcolor{blue}{\href{https://doi.org/10.1093/aje/kwy070}{Multilevel Regression and Poststratification: A Modelling Approach to Estimating Population Quantities From Highly Selected Survey Samples}}.'' \textit{American Journal of Epidemiology}.
+\item model-based poststratification
+\item multilevel regression postratification (Mr. P)
 \end{itemize}
-Generally cautious:
-\begin{itemize}
-\item Buttice and Highton. 2013. ``\textcolor{blue}{\href{http://www.jstor.org/stable/24572674}{How Does Multilevel Regression and Poststratification Perform with Conventional National Surveys?}}'' \textit{Political Analysis}.
-\end{itemize}
-}
 
 \end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\begin{frame}{Notes}
-%
-%\begin{itemize}
-%\item Modeling allows you to make more estimates for smaller groups \pause
-%\item These techniques is widely used by modern pollsters (e.g., YouGov) and political scientists \pause
-%\item You will not finish this activity.  That's OK.
-%
-%\end{itemize}
-%\end{frame}
-%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
 Our recommended work flow:
@@ -607,10 +519,123 @@ Our recommended work flow:
 \item Deploy to MTurk
 \item Take a break
 \item Validate and pay workers
-\item Analyze the much larger sample that we have collected for you
+\item Analyze the much larger sample that we have collected for you, starting with our code scaffolding
+\end{itemize}
+\pause
+\vfill
+This activity is our attempt to cover as much of surveys as we can given the constraints of the virtual learning
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+
+Let's get started 
+\begin{itemize}
+\item Questions?
+\pause
+\item Announcements from Lai?
+\pause
+\item Assign 6 groups with stratified systematic sampling
+\begin{itemize}
+\item Who has recent experience deploying something to MTurk? \pause
+\item Who has recent experience writing a questionnaire? 
+\end{itemize}
 \end{itemize}
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Appendix}
+
+Appendix with more information about 
+\begin{itemize}
+\item model-based poststratification
+\item multilevel regression postratification (Mr. P)
+\end{itemize}
+
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Model-based poststratification}
+
+\begin{equation*}
+\hat{\bar{y}}_{post} = \sum_{h=1}^H \frac{N_h}{N} \hat{\bar{y}}_h
+\end{equation*}
+where
+$\hat{\bar{y}}_h$ comes from an individual-level model
+
+\begin{align*}
+Pr(y_i = 1) = logit^{-1} (\beta_0 + \\
+ \beta_{male} \cdot male_i+ \\
+ \beta_{30-49} \cdot 30-49_i + \beta_{50 - 64} \cdot 50-64_i+ \beta_{65+} \cdot 65_i +\\
+ \beta_{afr-am} \cdot afam_i + \beta_{as-am} \cdot asam_i+ \beta_{hispanic} \cdot hisp_i + \beta_{other} \cdot other_i + \\
+ \beta_{midwest} \cdot midwest_i + \beta_{south} \cdot south_i + \beta_{west} \cdot west_i)
+\end{align*}
+
+\end{frame}
+%%%%%%%%%%%%%%%%%
+\begin{frame}{Mr. P}
+
+\begin{center}
+\only<1>{\includegraphics[width=0.6\textwidth]{figures/park_bayesian_2004_title}}
+\only<2>{\includegraphics[width=\textwidth]{figures/park_bayesian_2004_abstract}}
+\end{center}
+
+\vfill
+\url{https://www.jstor.org/stable/25791784} \\ See also Gelman and Hill (2007), Chapter 14 (``Multilevel logistic regression'')
+
+\end{frame}
+%%%%%%%%%%%%
+\begin{frame}{Mr. P.}
+
+$\hat{\bar{y}}_h$ comes from an individual-level model
+
+\begin{align*}
+Pr(y_i = 1) = logit^{-1} (\beta_0 + \\
+ \beta_{male} \cdot male_i + \\
+ \alpha_{k[i]}^{age} + \\
+ \alpha_{k[i]}^{race} + \\
+ \alpha_{k[i]}^{region})
+\end{align*}
+
+\begin{align*}
+\alpha_{k}^{age} \sim N(0, \sigma^2_{age}) \text{ for } k = 1, \ldots, 4 \\
+\alpha_{k}^{race} \sim N(0, \sigma^2_{race}) \text{ for } k = 1, \ldots, 5 \\
+\alpha_{k}^{region}  \sim N(0, \sigma^2_{region}) \text{ for } k = 1, \ldots, 4
+\end{align*}
+
+Priors determined by RStanarm (\url{https://cran.r-project.org/web/packages/rstanarm/vignettes/priors.html})
+
+\end{frame}
+
+% Talk about two models fighting, shrinking coefficients toward 0
+%%%%%%%%%%%%%%
+\begin{frame}{To learn more about Mr. P.}
+
+{\footnotesize
+Generally optimistic:
+\begin{itemize}
+\item Park, Gelman, and Bafumi. 2004. ``\textcolor{blue}{\href{https://www.jstor.org/stable/25791784}{Bayesian Multilevel Estimation with Poststratification: State-Level Estimates from National Polls}}.'' \textit{Political Analysis}.
+\item Lax and Phillips. 2009. ``\textcolor{blue}{\href{https://www.jstor.org/stable/25193870}{How should we estimate public opinion in the states?}}'' \textit{American Journal of Political Science}.
+\item Ghitza and Gelman. 2013. ``\textcolor{blue}{\href{https://www.jstor.org/stable/23496652}{Deep Interactions with MRP: Election Turnout and Voting Patterns Among Small Electoral Subgroups}}.'' \textit{American Journal of Political Science}.
+\item Warshaw and Rodden. 2012. ``\textcolor{blue}{\href{http://www.jstor.org/stable/10.1017/s0022381611001204}{How should we measure district-level public opinion on individual issues?}}'' \textit{Journal of Politics}.
+\item Downs et al. 2018. ``\textcolor{blue}{\href{https://doi.org/10.1093/aje/kwy070}{Multilevel Regression and Poststratification: A Modelling Approach to Estimating Population Quantities From Highly Selected Survey Samples}}.'' \textit{American Journal of Epidemiology}.
+\end{itemize}
+Generally cautious:
+\begin{itemize}
+\item Buttice and Highton. 2013. ``\textcolor{blue}{\href{http://www.jstor.org/stable/24572674}{How Does Multilevel Regression and Poststratification Perform with Conventional National Surveys?}}'' \textit{Political Analysis}.
+\end{itemize}
+}
+
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\begin{frame}{Notes}
+%
+%\begin{itemize}
+%\item Modeling allows you to make more estimates for smaller groups \pause
+%\item These techniques is widely used by modern pollsters (e.g., YouGov) and political scientists \pause
+%\item You will not finish this activity.  That's OK.
+%
+%\end{itemize}
+%\end{frame}
+%%%%%%%%%%%%%%%%%%%
+
 
 \end{document}
