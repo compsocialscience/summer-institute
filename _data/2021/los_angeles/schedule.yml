@@ -41,8 +41,7 @@
     - name: "10:00 - 10:30 CSS Skills Workshop: TBD (*In Zoom full group*)"
     - name: "10:30 - 11:45 Project Time (*In Zoom break-out room*)"
     - name: "11:45 - 12:45 Break"
-    - name: "12:45 - 1:45 Guest Speaker: TBD (*In Zoom full group*)"
-    - name: "1:45 - 2:00 Speaker Q & A"
+    - name: "12:45 - 2:00 Guest Speaker: TBD (*In Zoom full group*)"
     - name: "2:00 - 4:00 Project Time and Project Check in with an Organizer (*In Zoom break-out room*)"
   
 - date: 2021-06-25
@@ -53,7 +52,7 @@
     - name: "11:00 - 11:45 Small Group Discussions (*In Zoom break-out room*)"
     - name: "11:45 - 12:45 Break"
     - name: "12:45 - 2:00 Group Discussion + Exercise (*In Zoom break-out room*)"
-    - name: "2:00 - 4:00  CSS Skills Workshop *In Zoom full group*"
+    - name: "2:00 - 4:00  Project Time (*In Zoom break-out room*)
 
 - date: 2021-06-28
   name: Introduction to Text Analysis + Unsupervised Learning
