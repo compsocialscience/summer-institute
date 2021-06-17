@@ -110,7 +110,7 @@
     - name: "3:15 - 3:30 Pause, changement de la salle Zoom"
     - name: "3:30 - 5:00 Conférencier : [Anatoliy Gruzd](https://www.ryerson.ca/information-technology-management/faculty-research/anatoliy-gruzd/) ([**Computational Approaches to Studying Anti-Social Behavior in Social Media**](https://drive.google.com/file/d/1ghsTv6rzBlNs60q1K9ps3Yi1LAQh7k5q/view))"
 - date: 2021-06-16
-  name: "Enquêtes à l'ère numérique"
+  name: "Apprentissage automatique (machine learning)"
   events:
    # - name: "_Vidéos à regarder_"
     #- name: "La recherche par sondage à l'ère numérique. [Video](https://www.youtube.com/watch?v=j8fJGV17Hcg). [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day4-surveys/01-survey-research-digital-age.pdf)."
@@ -127,7 +127,7 @@
     - name: "3:15 - 3:30 Pause, changement de la salle Zoom"
     - name: "3:30 - 5:00 Conférencier : [Éric Lacourse](https://recherche.umontreal.ca/nos-chercheurs/repertoire-des-professeurs/chercheur/is/in14715/) ([**Algorithmes d’apprentissage et modèles statistiques**](https://drive.google.com/file/d/1fdJTWYW2df90Mm19eMcvQpRL-27Ai2Fx/view))"
 - date: 2021-06-17
-  name: Apprentissage automatique (machine learning)
+  name: "Enquêtes à l'ère numérique"
   events:
     - name: "9:30 - 10:00 Présentation"
     - name: "10:00 - 11:30 Cours (Zoom)"
