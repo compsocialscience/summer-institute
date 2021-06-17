@@ -33,12 +33,12 @@
     - name: "3:30 - Talk by Chris Fariss"
 
 - date: 2021-06-17
-  name: Machine Learning
+  name: Machine Learning for Prediction and Classification
   events:
-    - name: "10:00 - 10:15 Logistics"
+    - name: "10:00 - 10:15 Logistics [Slides](https://docs.google.com/presentation/d/1az2RSNqgskiYsGl5JHLUh8vKHfm5xzq4bvhWDZpUvik/edit?usp=sharing)"
     - name: "10:15 - 12:00 Live Tutorials on Machine Learning [Materials](https://drive.google.com/drive/folders/1L3oLGPapZujZelwRD6lnsaNMIeOZx5Ok?usp=sharing)"
-    - name: "12:00 - 1:00 Small Group lunches (optional)"
-    - name: "1:00 - 3:15 Afternoon Group exercise"
+    - name: "12:00 - 1:00 Lunch Break"
+    - name: "1:00 - 3:15 Afternoon Group exercise [Activity](https://docs.google.com/document/d/1QIlUdM5ayCMhBX9T2HlJC8JUm0xU5C04jbtL090JF6M/edit?usp=sharing)"
     - name: "3:30 - Talk by In Song Kim"
 
 - date: 2021-06-18
@@ -46,6 +46,7 @@
   events:
     - name: "10:00 - 10:30 Logistics"
     - name: "10:30 - 12:00 Experiment Group Exercise"
+    - name: "12:00 - 12:30 Break"
     - name: "12:30 - 2:00 Talk by Dan Nielson"
 
 - date: 2021-06-18
