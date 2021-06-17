@@ -2,7 +2,9 @@ This is the message that participants receive in the email that sends them the d
 
 __Subject:__ SICSS Mass Collaboration Activity: Fragile Families Challenge Data Files
 
-Data files for the Fragile Families Challenge activity at SICSS 2021 are attached within a zipped folder. These files take the information from the Office of Population Research Data Archive and provide additional helper files. Each directory contains a readme. The password to open the zipped folder will be distributed on Slack in the "#general" channel.
+Hello SICSS participant, 
+
+Data files for the Fragile Families Challenge activity at SICSS 2021 are attached within a zipped folder. These files take the information from the Office of Population Research Data Archive and provide additional helper files. Each directory contains a readme. The password to open the zipped folder will be distributed prior to the activity by your local site organizers via Slack or Zoom. 
 
 Please do not share the files with anyone. When you have finished the activity, please delete the files. 
 
