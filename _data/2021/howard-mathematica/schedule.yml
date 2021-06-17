@@ -94,15 +94,15 @@
   events:
     - name: "[Day 1: Pre-arrival videos & corresponding slides](https://sicss.io/curriculum) [(Takeaway Sheet)](https://docs.google.com/document/d/1LJfGgzdPzBcJNGSsFZcMH79nPKAxu6CIUT55Gygqkkc/edit?usp=sharing)"
     - name: "9:00 - 10:00 R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)"
-    - name: "10:00 - 10:30 Institute Introduction and logistics (*Zoom*)(You have received the Zoom link for the day over email) (video) "
+    - name: "10:00 - 10:30 Institute Introduction and logistics (*Zoom*) [(video)](https://youtu.be/psQlBLbDQ58) "
     - name: "10:30 - 11:30 Small group discussions [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small_group_discussions.md) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
     - name: '12:00 - 1:00 "Getting the most out of your SICSS experience" - Roundtable discussion with SICSS alums of color  (*Zoom*) [(video)](https://youtu.be/Amp5OUV9h4Q) OR R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)'
     - name: "1:00 - 1:30 Break"
     - name: "1:30 - 1:45 Introduction to the group exercise [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_participant.md); [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_instructor.md) (*Zoom*) (video)"
     - name: "1:45 - 2:45 Small group discussion of [case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf) (*Zoom*)"
-    - name: "2:45 - 3:15 Whole group debrief about case study (*Zoom*) (video)"
-    - name: "3:15 - 3:45 Debrief and logistics (*Zoom*) (video)"
+    - name: "2:45 - 3:15 Whole group debrief about case study (*Zoom*) [(video)](https://youtu.be/twaAJUEuvyQ)"
+    - name: "3:15 - 3:45 Debrief and logistics (*Zoom*)"
     - name: "3:45 - 4:00 [Apply](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md#preparation) for data access for Fragile Families Challenge activity if you haven't already"
 
 - date: 2021-06-15
@@ -110,14 +110,14 @@
   events:
     - name: "[Day 2: Pre-arrival videos, corresponding slides, & annotated code](https://sicss.io/curriculum) [(Takeaway Sheet)](https://docs.google.com/document/d/13lPvBhJwo2P_xH-2Hu6avews-isoYoEBV8i4r4_-gtk/edit?usp=sharing)"
     - name: "9:00 - 10:00 R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)"
-    - name: "10:00 - 10:15 Logistics and introduction to [group exercise](https://compsocialscience.github.io/summer-institute/2021/materials/day2-digital-trace-data/Group_Exercise_Day_2.html) (*Zoom*)(video) "
+    - name: "10:00 - 10:15 Logistics and introduction to [group exercise](https://compsocialscience.github.io/summer-institute/2021/materials/day2-digital-trace-data/Group_Exercise_Day_2.html) (*Zoom*) [(video)](https://youtu.be/A6MGt58eff4) "
     - name: "10:15 - 11:30 Identify a Research Question with Digital Trace Data (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: '12:00 - 1:00 Bite-Sized Lunchtime Talk: Wiki Education (encouraged) (*Zoom*) [(video)](https://youtu.be/m0FszWPsRYE) (Q&A) (slides) OR R, Python, and STATA Office hours with Mathematica TAs (as needed) (*Zoom*)'
+    - name: '12:00 - 1:00 Bite-Sized Lunchtime Talk: Wiki Education (encouraged) (*Zoom*) [(video)](https://youtu.be/m0FszWPsRYE) [(Q&A)](https://youtu.be/v5buN9DDcqk) (slides) OR R, Python, and STATA Office hours with Mathematica TAs (as needed) (*Zoom*)'
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 2:30 Develop a Sampling Frame (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "2:30 - 3:30 Populate the Sampling Frame with Screen-Scraping (*Zoom*)"
-    - name: "3:30 - 3:45 Debrief and logistics (*Zoom*) (video)"
+    - name: "3:30 - 3:45 Debrief and logistics (*Zoom*) [(video)](https://youtu.be/jwgPg-8tVkU)"
   
 
 - date: 2021-06-16
@@ -125,13 +125,13 @@
   events:
     - name: "[Day 3: Pre-arrival videos, corresponding slides, & annotated code](https://sicss.io/curriculum) [(Takeaway Sheet)](https://docs.google.com/document/d/1BT4LUe6Pikzyenm4g211rNHMEzhu0C53LKNntIDFAdo/edit?usp=sharing)"
     - name: "9:00 - 10:00 R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)"
-    - name: "10:00 - 10:15 Logistics and introduction to [group exercise](https://compsocialscience.github.io/summer-institute/2021/materials/day3-text-analysis/Group-Exercise-Day-3.html) (*Zoom*) (video)"
+    - name: "10:00 - 10:15 Logistics and introduction to [group exercise](https://compsocialscience.github.io/summer-institute/2021/materials/day3-text-analysis/Group-Exercise-Day-3.html) (*Zoom*) [(video)](https://youtu.be/pWxOXMnOimY)"
     - name: "10:15 - 11:30 Extract Features from Trump Tweets (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: '12:00 - 1:00 Bite-Sized Lunchtime Talk: The Data Nutrition Project (encouraged) (*Zoom*) [(video)](https://youtu.be/wxZ3smIsp4A) (Q&A) (slides) OR R, Python, and STATA Office hours with Mathematica TAs (as needed) (*Zoom*)'
+    - name: '12:00 - 1:00 Bite-Sized Lunchtime Talk: The Data Nutrition Project (encouraged) (*Zoom*) [(video)](https://youtu.be/wxZ3smIsp4A) [(Q&A)](https://youtu.be/-RG8U81puC8) (slides) OR R, Python, and STATA Office hours with Mathematica TAs (as needed) (*Zoom*)'
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 3:30 Predict Features of Tweets associated with Retweets and Produce Visualization (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
-    - name: "3:30 - 3:45 Debrief and logistics (*Zoom*) (video)"
+    - name: "3:30 - 3:45 Debrief and logistics (*Zoom*) [(video)](https://youtu.be/DmwWERMunVw)"
 
 - date: 2021-06-17
   name: "Day 4: Surveys in the Digital Age"
