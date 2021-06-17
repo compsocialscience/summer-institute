@@ -35,7 +35,7 @@ You can read more about our approach to ethical data access in our [paper](https
 
 - 1 hour: In groups, prepare a data file for analysis. **Before you do any coding, spend at least 5 minutes discussing your plans as a group**. 
 - Break. If you are not happy with your prepared data file, we recommend using the cleaned file that we provided in the folder we emailed you. This will allow you to proceed to the next step.
-- 1 hour & 55 minutes: In groups, build predictive models and submit to the [submission site](https://codalab.fragilefamilieschallenge.org/competitions/36).    
+- 1 hour & 40 minutes: In groups, build predictive models and submit to the [submission site](https://codalab.fragilefamilieschallenge.org/competitions/36).    
       - Again, before you do any coding, spend at least 5 minutes discussing your plans as a group.    
       - Tip: Do not expect to try many different sophisticated models in the time available. A good approach would be to focus on just one outcome of interest and try models of increasing complexity after successfully submitting a basic linear model to the leaderboard.     
 - 5 minutes: Reflect with your small group: What are you taking away from this activity? 
