@@ -5,7 +5,7 @@
   events: 
     - name: "10:00 - 11:45 Welcome, Praxis to Power Day 1 Introduction and logistics (*Zoom*) [(video)](https://youtu.be/8F_xW0jf7UM)"
     - name: "11:45 - 12:00 Break"
-    - name: '12:00 - 1:00 "Personal Experiences of African Americans in the Academy" - Faculty Roundtable (*Zoom*) 
+    - name: '12:00 - 1:00 "Personal Experiences of African Americans in the Academy" - Faculty Roundtable (*Zoom*) [(video)](https://youtu.be/cnnKem7HiuI)
     
      - Terri Adams-Fuller, Ph.D., Professor, Department  of Sociology and Anthropology, and Interim Director, NOAA Cooperative Science Center for Atmospheric Sciences & Meteorology, Howard University
      
@@ -97,7 +97,7 @@
     - name: "10:00 - 10:30 Institute Introduction and logistics (*Zoom*)(You have received the Zoom link for the day over email) (video) "
     - name: "10:30 - 11:30 Small group discussions [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small_group_discussions.md) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: '12:00 - 1:00 "Getting the most out of your SICSS experience" - Roundtable discussion with SICSS alums of color  (*Zoom*) (video) (slides) OR R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)'
+    - name: '12:00 - 1:00 "Getting the most out of your SICSS experience" - Roundtable discussion with SICSS alums of color  (*Zoom*) [(video)](https://youtu.be/Amp5OUV9h4Q) OR R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)'
     - name: "1:00 - 1:30 Break"
     - name: "1:30 - 1:45 Introduction to the group exercise [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_participant.md); [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_instructor.md) (*Zoom*) (video)"
     - name: "1:45 - 2:45 Small group discussion of [case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf) (*Zoom*)"
@@ -115,7 +115,7 @@
     - name: "11:30 - 12:00 Break"
     - name: '12:00 - 1:00 Bite-Sized Lunchtime Talk: Wiki Education (encouraged) (*Zoom*) [(video)](https://youtu.be/m0FszWPsRYE) (Q&A) (slides) OR R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)'
     - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 2:30 Develop a Sampling Frame (*Zoom*))"
+    - name: "1:15 - 2:30 Develop a Sampling Frame (*Zoom*)"
     - name: "2:30 - 3:30 Populate the Sampling Frame with Screen-Scraping (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*) (video)"
   
@@ -146,7 +146,7 @@
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 3:00 Afternoon group exercise (*Zoom*)"
     - name: "3:00 - 3:15 Break"
-    - name: "3:15 - 3:30 Whole group debrief about group exercise (*Zoom*)"
+    - name: "3:15 - 3:30 Whole group debrief about group exercise (*Zoom*) (video)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*) (video)"
 
 - date: 2021-06-18
