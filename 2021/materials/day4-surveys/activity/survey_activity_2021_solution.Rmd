@@ -26,6 +26,9 @@ data <- read_csv("https://raw.githubusercontent.com/compsocialscience/summer-ins
 census <- read_csv("https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2021/materials/day4-surveys/activity/2019_acs_data_clean.csv")
 # load pew benchmarks
 pew <- read_csv("https://raw.githubusercontent.com/compsocialscience/summer-institute/master/2021/materials/day4-surveys/activity/pew_benchmark_2021.csv")
+
+# You can find more info about the pew benchmark under "source" and "label" variable, which we will drop in the analysis.
+
 pew <- pew %>% dplyr::select(qid, pew_estimate)
 
 # add one variable that denotes the group the question belongs
