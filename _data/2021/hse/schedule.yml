@@ -16,15 +16,15 @@
     - name: "15:45 - 16:45 Small group discussion of [case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf), based on the pre-recorded lectures [Day 1](https://sicss.io/curriculum) or 'Ethics' chapter in the [Bit-by-Bit book by Matthew Salganik](https://www.bitbybitbook.com/). [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_participant.md), [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_instructor.md) (*Zoom*)"
     - name: "16:45 - 17:15 Whole group debrief about the case study (*Zoom*)"
     - name: "17:15 - 17:30 Break"
-    - name: "17:30 - 18:30 Ivan Smirnov. Common pitfalls in quantitative research (*Zoom*)"
+    - name: "17:30 - 18:30 Ivan Smirnov. Common pitfalls in quantitative research. [Slides](https://www.dropbox.com/s/biy3c4zwd8llqqc/Common%20pitfalls%20in%20quantitative%20research.pdf?dl=0) (*Zoom*)"
     - name: "19:00 - 19:15 Debrief and logistics (*Zoom*)"
 
 - date: 2021-06-15
   name: Collecting Digital Trace Data
   events:
     - name: "12:00 - 12:15 Logistics and introduction (*Zoom*)"
-    - name: "12:15 - 12:45 Benefits & Weaknesses of Digital Trace Data plus Hybrid Designs. [Slides](https://www.dropbox.com/s/kiwwnwzl025x7do/Digital%20traces%20data%20Sivak%202021.pptx?dl=0) (*Zoom*)"
-    - name: "12:45 - 13:30 Reddit as a source of data [Slides](https://docs.google.com/presentation/d/13qF39XsRVnDkS-sXOPR3UFwI3gXEtfGlRn8_5jX2Tw0/edit?usp=sharing) (*Zoom*)"
+    - name: "12:15 - 12:45 Elizaveta Sivak. Benefits & Weaknesses of Digital Trace Data plus Hybrid Designs. [Slides](https://www.dropbox.com/s/kiwwnwzl025x7do/Digital%20traces%20data%20Sivak%202021.pptx?dl=0) (*Zoom*)"
+    - name: "12:45 - 13:30 Elizaveta Sivak. Reddit as a source of data [Slides](https://docs.google.com/presentation/d/13qF39XsRVnDkS-sXOPR3UFwI3gXEtfGlRn8_5jX2Tw0/edit?usp=sharing) (*Zoom*)"
     - name: "13:30 - 14:00 Break"
     - name: "14:00 - 15:45 Group Exercise: Collecting Digital Trace Data (Reddit). [Lesson plan (participants)](https://docs.google.com/document/d/1LS7rDYQvd2-lr6sf6Z5uwqTQvIKeAT0UbAJY_a9mLmM/edit?usp=sharing) (*Zoom*)"
     - name: "15:45 - 16:30 Break"   
@@ -58,7 +58,7 @@
     - name: "15:30 - 17:00 Continue participating in the group exercise (*Zoom*)"
     - name: "17:00 - 17:15 Whole group debrief about the group exercise (*Zoom*)"
     - name: "17:15 - 17:45 Break"    
-    - name: "17:45 - 18:45 Ivan Smirnov. How to publish a computational social science paper? (*Zoom*)"
+    - name: "17:45 - 18:45 Ivan Smirnov. How to publish a computational social science paper? [Slides](https://www.dropbox.com/s/p2vf02s3wwy2649/How%20to%20write%20a%20computational%20social%20science%20paper.pdf?dl=0) (*Zoom*)"
     
 - date: 2021-06-18
   name: Mass collaboration and machine learning
