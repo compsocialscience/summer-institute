@@ -63,7 +63,8 @@
     - name: "12:00 - 1:00 Group lunches (optional) (*Zoom*)"
     - name: "1:00 - 2:00 Empirica tutorial Part 1b: custommizing (*Zoom*) [Completed Code](https://github.com/empiricaly/your-first-experiment/tree/2/finish-estimation-task)"
     - name: "2:00 - 3:00 Empirica tutorial Part 2: adding chats (*Zoom*) [Completed Code](https://github.com/empiricaly/your-first-experiment/tree/3/adding-chats)"
-    - name: "3:00 - 4:00 Empirica tutorial Part 3: adding bots (*Zoom) [Completed Code](https://github.com/empiricaly/your-first-experiment/tree/4/adding-bots)"
+    - name: "3:00 - 3:45 Empirica tutorial Part 3: adding bots (*Zoom) [Completed Code](https://github.com/empiricaly/your-first-experiment/tree/4/adding-bots)"
+    - name: "3:45 - 4:00 Wrap-Up"
 
 - date: 2021-06-19
   name: Day off
