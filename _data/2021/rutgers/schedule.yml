@@ -44,15 +44,15 @@
 - date: 2021-06-18
   name: (Morning) Surveys and Experiments 
   events:
-    - name: "10:00 - 10:30 Logistics"
-    - name: "10:30 - 12:00 Experiment Group Exercise"
+    - name: "10:00 - 10:45 Logistics and introduction [Slides](https://docs.google.com/presentation/d/1YrWkAhx5ErcJmo4XjJeVQBbRnyR3NGxh9e-cu00BQmQ/edit?usp=sharing)"
+    - name: "10:45 - 12:00 Experiment Group Exercise [Activity](https://docs.google.com/document/d/1uLFgopxJspkblKNkmnKILYWAtgPa48kfxWMmkZ5MARQ/edit?usp=sharing)"
     - name: "12:00 - 12:30 Break"
     - name: "12:30 - 2:00 Talk by Dan Nielson"
 
 - date: 2021-06-18
   name: (Afternoon) Network Analysis 
   events:
-    - name: "2:15- 5:00 Live Network Analysis Tutorial [Tutorial materials](https://kateto.net/workshops/sicss/sicss2021.zip)"
+    - name: "2:15- 5:00 Live Network Analysis Tutorial [Tutorial slides](https://kateto.net/workshops/sicss/Networks%20Analysis%20SICSS%20-%20Ognyanova%20-%202021.pdf) [Tutorial code](https://kateto.net/workshops/sicss/Network%20Analysis%20SICSS%202021.R)"
 
 - date: 2021-06-19
   name: Day off
