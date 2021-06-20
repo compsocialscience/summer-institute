@@ -136,8 +136,8 @@
 - date: 2021-06-17
   name: "Day 4: Surveys in the Digital Age"
   events:
-    - name: "[Day 4: Pre-arrival videos & corresponding slides](https://sicss.io/curriculum)"
-    - name: "9:00 - 10:00 R, Python, and STATA Office hours with Mathematica TAs (as needed) (*Zoom*) [(Takeaway Sheet)](https://docs.google.com/document/d/13VMEezGWPVXdsS2QPZrBlZ6dVKeg8C7fCPV7qEc1RWY/edit?ts=60c51e86)"
+    - name: "[Day 4: Pre-arrival videos & corresponding slides](https://sicss.io/curriculum) [(Takeaway Sheet)](https://docs.google.com/document/d/13VMEezGWPVXdsS2QPZrBlZ6dVKeg8C7fCPV7qEc1RWY/edit?ts=60c51e86)"
+    - name: "9:00 - 10:00 R, Python, and STATA Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "10:00 - 10:15 Logistics (*Zoom*) (video)"
     - name: "10:15 - 10:30 [Introduction to the group exercise](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/intro-to-activity.pdf), [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/lesson_plan_survey_participants.md); [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/lesson_plan_survey_instructor.md) (*Zoom*) (video)"
     - name: "10:30 - 11:30 Morning group exercise (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
@@ -152,7 +152,7 @@
 - date: 2021-06-18
   name: "Day 5: Mass collaboration and machine learning"
   events:
-    - name: "[Day 5: Pre-arrival videos & corresponding slides](https://sicss.io/curriculum)"
+    - name: "[Day 5: Pre-arrival videos & corresponding slides](https://sicss.io/curriculum) [(Takeaway Sheet)](https://docs.google.com/document/d/13aojCBDBCIpMhaNzlBcRCc1WPkVpaBx61Obx5qnbWQA/edit?usp=sharing)"
     - name: "9:00 - 10:00 R, Python, and STATA Office hours with Mathematica TAs (as needed) (*Zoom*) (You have received the Zoom link for today over email and Slack)"
     - name: "10:00 - 10:15 Logistics (*Zoom*) [(video)](https://youtu.be/7g-6NjUVGYU)"
     - name: "10:15 - 10:30 Introduction to the group exercise [Video](https://www.youtube.com/watch?v=ZI95vV7Co38) [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/06-ffchallenge_participate_activity.pdf) (*Zoom*) [(video)](https://youtu.be/7g-6NjUVGYU)"
