@@ -143,34 +143,35 @@
 - date: 2021-06-21
   name: Industry Talk and Work on Group Projects
   events:
-     - name: "16:00-17:00 Office Hour and Flash Talks of Group Projects on Wonder"  
+     - name: "16:00-17:00 Office Hour and Flash Talks of Group Projects"  
      - name: "17:00-20:00 **Artificial Intelligence and Data Analytics Ecosystem in the MENA Region** by [Doğuş Kuran](https://sicss.io/2021/istanbul/people)"  
     
 - date: 2021-06-22
   name: Method Talk and Work on Group Projects
   events:
-     - name: "16:00-17:00 Office Hour and Flash Talks of Group Projects on Wonder"  
+     - name: "16:00-17:00 Office Hour and Flash Talks of Group Projects"  
      - name: "17:00-20:00 **Natural Language Processing and Applications to Computational Social Science** by [Kemal Oflazer](https://www.andrew.cmu.edu/user/ko/)"
      - name: "**Description**: This talk will introduce the participants to basic concepts and techniques of Natural Language Processing in an interactive fashion and will highlight aspect to Turkish that make it a challenge. It will then provide an overview of NLP applications in social sciences."
        
 - date: 2021-06-23
   name: Research Talk and Work on Group Projects
   events:
-     - name: "16:00-17:00 Office Hour and Flash Talks of Group Projects on Wonder" 
+     - name: "16:00-17:00 Office Hour and Flash Talks of Group Projects" 
      - name: "17:00-20:00 **Automated Methods of Protest Event Collection** by [Erdem Yoruk, Ali Hürriyetoğlu, Fırat Duruşan, Çağrı Yoltar](https://emw.ku.edu.tr/people/)"
      - name: "* [Abstract](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/speakers/ErdemYoruk.md) & [Readings](https://drive.google.com/drive/folders/1odn_5mzw2oC4Ftw4n3Chqypp0LI5wBId?usp=sharing)"    
 
 - date: 2021-06-24
   name: Alumni Talk and Work on Group Projects
   events:
-     - name: "16:00-17:00 Office Hour and Flash Talks of Group Projects on Wonder"  
-     - name: "17:00-18:30 **COVID-19 Twitter Database: Turkish Sample** by [Burak Ozturan](https://sicss.io/2021/istanbul/people)"
-     - name: "* [Abstract and Codes](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/speakers/BurakOzturan.md)"
+     - name: "16:00-17:00 Office Hour and Flash Talks of Group Projects"  
+     - name: "17:00-18:00 **COVID-19 Twitter Database: Turkish Sample** by [Burak Ozturan](https://sicss.io/2021/istanbul/people) -- * [Abstract and Codes](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/speakers/BurakOzturan.md)"
+     - name: "18:00-19:00 **Using mixed-methods to study Twitter activism-The case of Persian Twitter** by [Hossein Kermani](https://hosseinkermani.weebly.com/) -- * [Abstract](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/speakers/HosseinKermani.md#using-mixed-methods-to-study-twitter-activism-the-case-of-persian-twitter)"
      
 - date: 2021-06-25
-  name: Group Projects Presentations and Farewell
+  name: Group Projects Presentations and Alumni Event
   events:
-    - name: "17:00-20:00 Group Projects Presentations"
+    - name: "17:00-19:00 Group Projects Presentations"
+    - name: "19:00-20:00 SICSS-Istanbul Alumni Event"
 
 
  
