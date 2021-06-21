@@ -127,8 +127,8 @@ Research Speed-dating
 ========================================================
 &nbsp;  
 
-1. Maximally similar clusters come up with a group project (30 min)  
-2. Maximally different clusters come up with a group project (30 min)  
+1. Maximally similar clusters come up with a group project (75 min)  
+2. Maximally different clusters come up with a group project (75 min)  
 3. We start a new google doc. Each person takes 5 minutes to write down their favorite group project idea  
 4. Everyone puts their name next to the group project they want to join  
 
@@ -219,16 +219,16 @@ Identify maximally diverse groups
 
 ```
                        names diversity_score
-688          M W,D F,N L,M I        4.787492
-554          M I,R L,A B,N L        4.779123
-637          R L,N L,A B,M I        4.779123
-791          R L,A B,N L,M I        4.779123
-91  D F,Mercy Makpor,A B,N L        4.744932
-199          M I,R L,C H,N L        4.736198
-307          N L,R L,C H,M I        4.736198
-385 K G,Mercy Makpor,M W,N L        4.736198
-583 N L,A B,Mercy Makpor,M I        4.736198
-671          A B,N B,N L,R L        4.736198
+29           N L,R L,C H,M W        4.779123
+93           R L,A B,D F,M W        4.779123
+321          M I,D F,N L,R L        4.770685
+480          A B,N L,M W,K G        4.770685
+957          A B,C H,M W,N L        4.770685
+250          N L,A B,D F,M I        4.762174
+260          D M,N L,R L,M W        4.762174
+400          N L,M W,N B,R L        4.762174
+610 M W,M I,N L,Mercy Makpor        4.762174
+939          R L,N L,M W,N B        4.762174
 ```
 
 
@@ -236,4 +236,4 @@ Go!
 ========================================================
 &nbsp;
 
-Meet in maximally similar and dissimilar groups for 30 minutes. Site organizer will create googlesheet where project ideas will be listed. At the end of each 30 minutes period, one group representative should write the name of the project and a brief (less than three sentence description). After the end of the exercise, put your name next to the research project that you are most excited about joining. Click on the link to the google doc for your site here: https://tinyurl.com/SICSSSpeedDating2021 
+Meet in maximally similar and dissimilar groups for 75 minutes. Site organizer will create googlesheet where project ideas will be listed. At the end of each 75 minutes period, one group representative should write the name of the project and a brief (less than three sentence description). After the end of the exercise, put your name next to the research project that you are most excited about joining. Click on the link to the google doc for your site here: https://tinyurl.com/SICSSSpeedDating2021 
