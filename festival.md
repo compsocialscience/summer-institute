@@ -12,9 +12,9 @@ The SICSS Festival is a series of online events such as tutorials, panel discuss
 
 __Time:__ Tuesday, June 22, 2021. 11am-12pm EDT
 
-__Speakers:__ [Bryce Dietrich](http://www.brycejdietrich.com/index.html) (Assistant Professor of Social Science Informatics at the University of Iowa), [Laura Nelson](http://www.lauraknelson.com/p/blog-page.html) (Assistant Professor of Sociology at Northeastern University), [Michelle Torres](http://smtorres.org/) (Assistant Professor of Political Science at Rice), and [Han Zhang](https://hanzhang.xyz/) (Assistant Professor in Division of Social Science at The Hong Kong University of Science and Technology)
+__Speakers:__ [Bryce Dietrich](http://www.brycejdietrich.com/index.html) (Assistant Professor of Social Science Informatics at the University of Iowa), [Laura Nelson](http://www.lauraknelson.com/p/blog-page.html) (Assistant Professor of Sociology at Northeastern University), [Michelle Torres](http://smtorres.org/) (Assistant Professor of Political Science at Rice), and [Han Zhang](https://hanzhang.xyz/) (SICSS-Hong Kong 21; Assistant Professor in Division of Social Science at The Hong Kong University of Science and Technology)
 
-__Moderator:__ [Thomas Davidson](https://www.thomasrdavidson.com/) (Assistant Professor of Sociology at Rutgers University)
+__Moderator:__ [Thomas Davidson](https://www.thomasrdavidson.com/) (SICSS-Princeton 19; Assistant Professor of Sociology at Rutgers University)
 
 __Description:__ Social life is increasingly mediated through images and video and recent advances in machine learning make it possible to analyze these data at scale. It has become commonplace for computational social scientists to work with text and other complex, unstructured data, but we are only just seeing work that uses computational methods to study images and video. This panel focuses on this innovative area of research, exploring how scholars are using such data in cutting-edge research and the technical and ethical challenges involved in such analyses.
 
@@ -26,21 +26,21 @@ __Open to:__ Unlimited registered participants
 
 __Time:__ Tuesday, June 22, 2021. 1pm-2pm EDT
 
-__Speakers:__ [Austin van Loon](https://sociology.stanford.edu/people/austin-van-loon) (SICSS-Princeton 19)
+__Speaker:__ [Austin van Loon](https://sociology.stanford.edu/people/austin-van-loon) (SICSS-Princeton 19; Ph.D. student in Sociology at Stanford University)
 
 __Description:__ The increased availability of machine-readable text provides a unique opportunity for social scientists, granting us unprecedented access to many aspects of both historical and contemporary social life. This tutorial aims to introduce researchers to text analysis in Python, an open-source programming language. Specifically, the tutorial consists of a conceptual overview of the core analytic challenges of harnessing text data, how to access Twitter data through the new Twitter API v2, pre-processing text data, and a few conceptually accessible methods for quantitatively analyzing text (closed- and open-vocabulary analysis of unigram frequencies). We will walk through a publicly available Google Colab notebook that can be run in one’s browser without the download of any software (coming soon). Example code for using various Twitter API endpoints (assuming one has an API key) will be provided, along with code to scrape some of that same data from a public GitHub repository (and does not require an API key).
 
 __Open to:__ 45 registered participants
 
-Registration closed 
+Registration closed
 
 ### Panel discussion on the non-academic job market in computational social science
 
 __Time:__ Wednesday, June 23, 2021. 12-1pm EDT
 
-__Speakers:__ Dr. Aruna Balakrishnan (Head of Health & Identity Experience Research at Twitter) and Dr. Gonzolo Rivero (Associate Director of Data Labs at the Pew Research Center) 
+__Speakers:__ Dr. Aruna Balakrishnan (Head of Health & Identity Experience Research at Twitter) and Dr. Gonzolo Rivero (Associate Director of Data Labs at the Pew Research Center)
 
-__Moderator:__ [Chris Bail](https://www.chrisbail.net/) (SICSS-Princeton 17, 19, 21, SICSS-Duke 18, 20)
+__Moderator:__ [Chris Bail](https://www.chrisbail.net/) (SICSS-Princeton 17, 19, 21, SICSS-Duke 18, 20; Professor of Sociology and Public Policy at Duke University)
 
 __Description:__ Computational social science leads to a wide range of interdisciplinary job opportunities outside academia. These panelists will share their experiences in industry settings and will offer thoughts about how an academic research program in the field could lead to a variety of fulfilling careers.
 
@@ -52,9 +52,11 @@ __Open to:__ Unlimited registered participants
 
 __Time:__ Wednesday, June 23, 2021. 12-1:30pm EDT, 6-7:30pm CEST
 
-__Speakers:__ [Masha Medvedeva](https://www.rug.nl/staff/m.medvedeva/research), [Jens Frankenreiter](https://millstein.law.columbia.edu/people/jens-frankenreiter), [Thales Bertaglia](https://thalesbertaglia.com/)
+__Speakers:__ [Masha Medvedeva](https://www.rug.nl/staff/m.medvedeva/research) (Ph.D. student at University of Groningen), [Jens Frankenreiter](https://millstein.law.columbia.edu/people/jens-frankenreiter) (Postdoctoral Fellow at Columbia Law School), [Thales Bertaglia](https://thalesbertaglia.com/) (Ph.D. student at Maastricht University)
 
 __Description:__ Three panelists represent three inspiring examples of interdisciplinary research in law. These panelists will share their experiences in learning new skills, motivations to pursue computational research, and challenges in creating innovative research agendas.
+
+Event organized by [SICSS-Law 21](https://sicss.io/2021/law/)
 
 [Register here](https://maastrichtuniversity.zoom.us/meeting/register/tJAufuuorj4pHNPKZElKXdZ7rI0QAENVXfdg)
 
@@ -62,15 +64,15 @@ __Description:__ Three panelists represent three inspiring examples of interdisc
 
 __Time:__ Thursday, June 24, 2021. 11am-12:30pm EDT
 
-__Speakers:__ [Bernard Koch](https://soc.ucla.edu/grads/bernard-koch) (SICSS-Los Angeles 19, 20, 21)
+__Speakers:__ [Bernard Koch](https://soc.ucla.edu/grads/bernard-koch) (SICSS-Los Angeles 19, 20, 21;  Ph.D. student in Sociology at UCLA)
 
 __Description:__ This tutorial will teach participants how to build simple deep learning models for causal inference. Although this literature is still quite young, neural networks have the potential to extend causal inference to new settings where confounding is high-dimensional, non-linear, time-varying or even encoded in text, images, and networks. The tutorial will begin with 30 minutes of discussion on what deep learning is and how deep learning can be used for adjustment in observational causal inference, followed by 40 minutes of instruction on how to build your own custom deep learning models in Tensorflow 2. No prior knowledge of Tensorflow or neural networks is necessary, so this is also a great opportunity if you just want to get your feet wet with deep learning for the first time.
 
 __Expected background and computing environment:__ This is an advanced tutorial. Participants will need (at least two of): a basic understanding of causal inference, a basic understanding of supervised machine learning, and intermediate to advanced proficiency in some programming language to get the most out of it. No prior knowledge of deep learning is expected. The tutorial will be taught in Python, but the Tensorflow port for R is very, very similar so ideas will transfer.  The tutorial will be taught in Colaboratory, an interactive notebook environment provided by Google. When you start a Colab session, Google provides you a virtual machine with a GPU, making it a great environment to get started with deep learning. Participants won't need to install anything on their computer, but they will need a gmail or Google hosted email account to use Colab.
 
-__Open to:__ Unlimited registered participants 
+__Open to:__ Unlimited registered participants
 
-[Register here](https://forms.gle/b1EV5W6g9hrkbiRJA) 
+[Register here](https://forms.gle/b1EV5W6g9hrkbiRJA)
 
 ### Taking Quantitative Description Seriously
 
@@ -78,9 +80,9 @@ __Time:__ Thursday, June 24, 2021. 1-2pm EDT
 
 __Speakers:__ [Andy Guess](https://politics.princeton.edu/people/andrew-m-guess) (Assistant Professor of Politics and Public Affairs at Princeton), [Eszter Hargittai](http://www.eszter.com/) (Professor of Communication and Media Research at the University of Zurich), and [Jen Pan](http://jenpan.com/) (Assistant Professor of Communication, Political Science and Sociology at Stanford University)
 
-__Moderator:__ [Kevin Munger](https://polisci.la.psu.edu/people/kmm7999) (Assistant Professor of Political Science and Social Data Analytics at Penn State)
+__Moderator:__ [Kevin Munger](https://polisci.la.psu.edu/people/kmm7999) (SICSS-Princeton 19; Assistant Professor of Political Science and Social Data Analytics at Penn State)
 
-__Description:__ We introduce the rationale  for a new peer-reviewed  scholarly  journal,  the Journal of Quantitative  Description: Digital Media. The journal is intended to create  a  new  venue  for  research  on  digital  media  and address several deficiencies  in  the  current  social science   publishing   landscape.  First, descriptive  research  is  undersupplied  and  undervalued. Second, research questions  too  often only reflect  dominant  theories  and received  wisdom. Third,  journals  are  constrained  by  unnecessary  boundaries  defined  by discipline,  geography,  and length.  Fourth,  peer  review  is  inefficient  and unnecessarily  burdensome  for  both  referees  and authors.  We  outline  the journal’s scope and structure, which is open access, fee-free and relies on a Letter of Inquiry (LOI) model. Quantitative description can appeal to social scientists of all stripes  and is a crucial  methodology for understanding the continuing evolution  of  digital  media  and its  relationship  to  important questions of interest to computational social  scientists.
+__Description:__ We introduce the rationale for a new peer-reviewed scholarly journal, the [Journal of Quantitative Description: Digital Media](https://journalqd.org/). The journal is intended to create a new venue for research on digital media and address several deficiencies in the current social science publishing landscape. First, descriptive research is undersupplied and undervalued. Second, research questions too often only reflect dominant theories and received  wisdom. Third, journals are constrained by unnecessary boundaries defined by discipline, geography, and length. Fourth, peer review is inefficient and unnecessarily burdensome for both referees and authors. We outline the journal’s scope and structure, which is open access, fee-free and relies on a Letter of Inquiry (LOI) model. Quantitative description can appeal to social scientists of all stripes and is a crucial methodology for understanding the continuing evolution of digital media and its relationship to important questions of interest to computational social scientists.
 
 __Open to:__ Unlimited registered participants
 
@@ -90,7 +92,7 @@ __Open to:__ Unlimited registered participants
 
 __Time:__ Friday, June 25, 2021. 9am-1pm EDT
 
-__Speakers:__ [Abdullah Almaatouq](http://www.amaatouq.com/) (MIT Sloan, Empirica founder & developer), [Joshua Becker](https://www.joshua-becker.com/) (UCL School of Management, tutorial author), and [Sam Dupret](https://www.mgmt.ucl.ac.uk/people/samueldupret) (UCL School of Management, tutorial author)
+__Speakers:__ [Abdullah Almaatouq](http://www.amaatouq.com/) (SICSS-Princeton 17; MIT Sloan, Empirica founder & developer), [Joshua Becker](https://www.joshua-becker.com/) (SICSS-Princeton 17, SICSS-Chicago 18, SICSS-London 21; UCL School of Management, tutorial author), and [Sam Dupret](https://www.mgmt.ucl.ac.uk/people/samueldupret) (UCL School of Management, tutorial author)
 
 __Description:__ This is a self-guided, do-it-yourself workshop that will enable you to create virtual lab experiments with [Empirica](https://empirica.ly/).  Empirica is an open-source framework that makes creating virtual lab experiments more fun and less painful.  During this event, participants will first watch a set of [introductory videos](https://youtube.com/playlist?list=PLPQelvUwyVgiawBDk3Sp74QMfL8RPgORW) (about 10 mins) that provide a conceptual overview.  Participants will then proceed through a [written tutorial](https://docs.empirica.ly/guides/tutorial-your-first-experiment) that will walk them step-by-step through building a multi-player experiment with chatrooms and automated bots.  Upon completing the tutorial, participants will have created an experiment that they can further customize and that is ready to deploy to real research participants.  Faculty members with extensive experience using Empirica for research—and other workshop participants—will be available in the Empirica Slack during the workshop period to help participants through the tutorial and answer more general questions, both about Empirica and related topics like subject recruitment.  Outside the workshop period, the Empirica Slack remains available for general discussion and questions both with the faculty and other community members.
 
