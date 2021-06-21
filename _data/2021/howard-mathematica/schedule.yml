@@ -138,15 +138,15 @@
   events:
     - name: "[Day 4: Pre-arrival videos & corresponding slides](https://sicss.io/curriculum) [(Takeaway Sheet)](https://docs.google.com/document/d/13VMEezGWPVXdsS2QPZrBlZ6dVKeg8C7fCPV7qEc1RWY/edit?ts=60c51e86)"
     - name: "9:00 - 10:00 R, Python, and STATA Office hours with Mathematica TAs (as needed) (*Zoom*)"
-    - name: "10:00 - 10:15 Logistics (*Zoom*) (video)"
+    - name: "10:00 - 10:15 Logistics (*Zoom*) [(video)](https://youtu.be/SWHpen8P2js)"
     - name: "10:15 - 10:30 [Introduction to the group exercise](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/intro-to-activity.pdf), [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/lesson_plan_survey_participants.md); [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/lesson_plan_survey_instructor.md) (*Zoom*) (video)"
     - name: "10:30 - 11:30 Morning group exercise (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: '12:00 - 1:00 Bite-Sized Lunchtime Talk: The California Policy Lab (encouraged) (*Zoom*) [(video)](https://youtu.be/POVOuJJy7Zo) (Q&A) [(slides)](https://drive.google.com/file/d/19-VJ6GbOihLLVHMr5o8mV19D6EjCju75/view?usp=sharing) OR R, Python, and STATA Office hours with Mathematica TAs (as needed) (*Zoom*)'
+    - name: '12:00 - 1:00 Bite-Sized Lunchtime Talk: The California Policy Lab (encouraged) (*Zoom*) [(video)](https://youtu.be/POVOuJJy7Zo) [(Q&A)](https://youtu.be/zSsXdT07dMU) [(slides)](https://drive.google.com/file/d/19-VJ6GbOihLLVHMr5o8mV19D6EjCju75/view?usp=sharing) OR R, Python, and STATA Office hours with Mathematica TAs (as needed) (*Zoom*)'
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 3:00 Afternoon group exercise (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "3:00 - 3:15 Break"
-    - name: "3:15 - 3:30 Whole group debrief about group exercise (*Zoom*) (video)"
+    - name: "3:15 - 3:30 Whole group debrief about group exercise (*Zoom*) [(video)](https://youtu.be/njoJFSC5SlI)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*) (video)"
 
 - date: 2021-06-18
@@ -162,8 +162,8 @@
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 3:00 Continue participating in the Fragile Families Challenge activity (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "3:00 - 3:15 Break"
-    - name: "3:15 - 3:30 Whole group debrief about group exercise (*Zoom*)"
-    - name: "3:30 - 3:45 Debrief and logistics (*Zoom*) (video)"
+    - name: "3:15 - 3:30 Whole group debrief about group exercise (*Zoom*) [(video)](https://youtu.be/B1zMT_XzGFE)"
+    - name: "3:30 - 3:45 Debrief and logistics (*Zoom*) (see above video)"
     - name: "3:45 - 4:00 [Delete](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md#deleting-the-files-after-use) the Fragile Families data from your computer"
     - name: "4:00 - 5:00 Juneteenth Celebration with DJ ROC (*Zoom*)"
 
