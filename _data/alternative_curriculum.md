@@ -2,6 +2,34 @@
 
 In addition to the main videos and course materials developed by SICSS Co-Founders Chris Bail and Matt Salganik, organizers of SICSS partner sites have produced a variety of alternative curricula that serve the needs of different audiences. For example, some of these materials present code in alternative languages such as Python, and others are directed at non-American audiences. Click on the links below to explore these materials in detail.
 
+### 2021
+
+#### Howard/Mathematica 
+- [Materials](https://sicss.io/2021/howard-mathematica/schedule) 
+- [Recorded videos](https://www.youtube.com/channel/UCIWamztabv6n47NSBZTYa2g/videos)
+
+#### Istanbul 
+- [Materials](https://sicss.io/2021/istanbul/schedule) 
+- [Recorded videos](https://www.youtube.com/channel/UCuLtVSsjOcGyI0Rz1rCB5Gg/videos)
+
+#### Rutgers
+- [Materials](https://sicss.io/2021/rutgers/schedule) 
+
+#### Higher School of Economics
+- [Materials](https://sicss.io/2021/hse/schedule) 
+
+#### London
+- [Materials](https://sicss.io/2021/london/schedule) 
+
+#### Montreal
+- [Materials](https://sicss.io/2021/montreal/schedule) 
+
+#### Stellenbosch
+- [Materials](https://sicss.io/2021/stellenbosch/schedule) 
+
+
+### 2020 
+
 ### Istanbul, Turkey (Kadir Has University)
 
 Matti Nelimarkka and Akin Unver, taught in English using R
