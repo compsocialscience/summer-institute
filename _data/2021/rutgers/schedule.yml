@@ -52,7 +52,7 @@
 - date: 2021-06-18
   name: (Afternoon) Network Analysis 
   events:
-    - name: "2:15- 5:00 Live Network Analysis Tutorial [Tutorial slides](https://kateto.net/workshops/sicss/Networks%20Analysis%20SICSS%20-%20Ognyanova%20-%202021.pdf) [Tutorial code](https://kateto.net/workshops/sicss/Network%20Analysis%20SICSS%202021.R)"
+    - name: "2:15- 5:00 Live Network Analysis Tutorial [Tutorial slides](https://kateto.net/workshops/sicss/Networks%20Analysis%20SICSS%20-%20Ognyanova%20-%202021.pdf); [Tutorial code](https://kateto.net/workshops/sicss/Network%20Analysis%20SICSS%202021.R)"
 
 - date: 2021-06-19
   name: Day off
@@ -64,7 +64,7 @@
   name: (Morning) Network Analysis Continued
   events:
     - name: "10:00 - 10:15 Logistics [Slides](https://docs.google.com/presentation/d/1IYw2zlabDLlHIMfP1pnC3Y7FxBRqC9QB-tdQRHmwyPk/edit?usp=sharing)"
-    - name: "10:15 - 12:00 Network Group Exercise [Activity](https://drive.google.com/file/d/1UVHPYtFEpOu8iu7S7MghhPAJtJ5LLyyd/view?usp=sharing) [Code](https://kateto.net/workshops/sicss/Network%20Twitter%20example%20SICSS%202021.R) [Data](http://kateto.net/workshops/sicss/data/sicss_twitter.RData)"
+    - name: "10:15 - 12:00 Network Group Exercise [Activity](https://drive.google.com/file/d/1UVHPYtFEpOu8iu7S7MghhPAJtJ5LLyyd/view?usp=sharing); [Code](https://kateto.net/workshops/sicss/Network%20Twitter%20example%20SICSS%202021.R); [Data](http://kateto.net/workshops/sicss/data/sicss_twitter.RData)"
     - name: "12:00 - 1:00 Small group lunches (optional)"
     - name: "1:00 - 2:00 Talk by Matthew Weber"
 
