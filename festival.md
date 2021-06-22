@@ -32,6 +32,8 @@ __Description:__ The increased availability of machine-readable text provides a 
 
 __Open to:__ 45 registered participants
 
+__Materials:__[Google Colab notebook](https://bit.ly/3vNQ6oh)
+
 Registration closed
 
 ### Panel discussion on the non-academic job market in computational social science
