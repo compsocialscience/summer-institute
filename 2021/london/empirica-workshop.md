@@ -19,6 +19,8 @@ Then, follow the tutorial **step 4** above.  If you followed along the Windows v
 
 When you're ready, move to **step 6** and actually work through the tutorial.  You'll edit the code you made in step 4 according to the instructions in the tutorial.  If you follow the tutorial perfectly, it will work.  If you hit an error or a blank screen.. you'll need to debug.  In Firefox/Chrome you can right-click on the page to "inspect" and then see a Javascript 'console'.  This will show output for client-side errors.  Your Mac/Linux terminal will show you server-side errors.  With a lot of registered participants, we can't necessarily provide hands-on guidance for every error (though we'll try) but please post screenshots in the #debug channel and maybe someone from the community can help if we're too busy.  But before you do that, you know the drill: hunt for missing semicolons or quotation marks, typos in syntax or commands.  
 
+### Coding "Checkpoints"
+
 In case you're working in teams and one person falls behind, we've created 'checkpoints' as Git branches.  To use these, open your terminal, and enter the following commands: 
 ```
 cd ~ 
@@ -28,6 +30,9 @@ git branch -a
 ```
 
 These commands let you clone the repository and view branches.  Then, you switch to branches with the command `git switch 0/create-empirica-app` or `git switch 1/getting-started` to jump to various points in the tutorial.  Note, the branch name refers to the completed code for the section, e.g. `git switch 4/chats` will get you completed code for an experiment with chats. You can then ***import** 'experiment-as-code' in the Empirica console* for those branches with a yaml file, as in `4/chats` containing the file `4-factors.yaml`.
+
+### Slack Channels
+Find us in the main &#35;sicss-fest-2021 channel for general discussion and questions related to Empirica and the tutorial specifically.  Use the &#35;debug channel to post questions about general errors e.g. with javascript.  Use the &#35;windows-to-linux channel to discuss connecting to a cloud linux server from Windows, and the &#35;windows-native channel for using Windows natively or with WSL2.  Use the &#35;mac-os channel for mac discussion. 
 
 # System Setup: Mac/Linux
 
