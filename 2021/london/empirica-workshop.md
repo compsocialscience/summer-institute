@@ -9,18 +9,40 @@
 
 # How to use this tutorial
 
-After following the instructions below for 'system setup', you might be asking:  how do I actually do all this?  This section provides a brief overview of how everything works.
+First, follow the **steps 1 through 3** above, using the instructions below to get your system set up for either Mac/Linux or Windows.
+
+Then, follow the tutorial **step 4** above.  If you followed along the Windows video, you did this.  This step will create a template of an app (you do this with `npx create-empirica-app`) using the Meteor/ReactJS web development framework.  Now, all you have to do is customize the files.
+
+**Step 5** invites you to stop and explore.  This is a good idea.  Ask us and each other questions in Slack if you feel confused.  
+
+*How's it work?*  Running the "meteor" command will start up a "local" web serer accessible through localhost:3000 or ip.address:3000 (where "ip.address" is the IP address of the cloud server we provided) because it's running on port 3000 of your system.  See wikipedia for [more info on ports](https://en.wikipedia.org/wiki/Port_(computer_networking)) and general [web dev](https://en.wikipedia.org/wiki/Meteor_(web_framework)).  So when you visit localhost:3000 you see what an experimental subject sees, and when you visit localhost:3000/admin you get the experimenter panel.  A password was automatically generated in the terminal when you ran the `meteor` command.
+
+When you're ready, move to **step 6** and actually work through the tutorial.  You'll edit the code you made in step 4 according to the instructions in the tutorial.  If you follow the tutorial perfectly, it will work.  If you hit an error or a blank screen.. you'll need to debug.  In Firefox/Chrome you can right-click on the page to "inspect" and then see a Javascript 'console'.  This will show output for client-side errors.  Your Mac/Linux terminal will show you server-side errors.  With a lot of registered participants, we can't necessarily provide hands-on guidance for every error (though we'll try) but please post screenshots in the #debug channel and maybe someone from the community can help if we're too busy.  But before you do that, you know the drill: hunt for missing semicolons or quotation marks, typos in syntax or commands.  
+
+In case you're working in teams and one person falls behind, we've created 'checkpoints' as Git branches.  To use these, open your terminal, and enter the following commands: 
+```
+cd ~ 
+git clone https://github.com/empiricaly/your-first-experiment
+cd your-first-experiment
+git branch -a
+```
+
+These commands let you clone the repository and view branches.  Then, you switch to branches with the command `git switch 0/create-empirica-app` or `git switch 1/getting-started` to jump to various points in the tutorial.  Note, the branch name refers to the completed code for the section, e.g. `git switch 4/chats` will get you completed code for an experiment with chats. You can then *import 'experiment-as-code' in the Empirica console* for those branches with a yaml file, as in `4/chats` containing the file `4-factors.yaml`.
 
 # System Setup: Mac/Linux
 
 ### Mac/Linux 1. Install Meteor:
 For a Mac or Linux system, open the 'terminal' app and enter the following commands.
-    curl https://install.meteor.com/ | sh
+```
+curl https://install.meteor.com/ | sh
+```
 
 ### Mac/Linux 2. Install NPM *ON MAC*:
 For a Mac, enter the following commands in terminal.  For Linux, use your appropriate installer (e.g. apt install).
-    brew update
-    brew install node
+```
+brew update
+brew install node
+```
 
 # System Setup: Windows
 
@@ -38,9 +60,19 @@ You may find it easier to set up a linux cloud server with a service such as Ama
 In fact, cloud servers are so cheap and easy, that we spun up one each for everyone who registered today.  See instructions below on how to access your cloud server and begin development.
 
 ### Cloud Server Setup Instructions
-
+See this video:  [https://youtu.be/1jpHXho1EiE](https://youtu.be/1jpHXho1EiE) *Note: it's 20 mins, only because it takes some time for the install to run, during which I tell you about research with Empirica.  You can follow along and be set up by the end.*
 1. Post a message in the &#35;server-request channel and someone will send you an IP address via direct message within a few minutes.  This IP address is unique to your server, so don't share it!  (NOTE: cloud servers will be automatically deleted after this workshop.  If you want to continue working on yours past the scheduled time, just let us know.)
 2.  Install VS Code (Visual Studio Code) on your Windows system. [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
 3.  Add the "Remote - SSH" extension: [https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
 4.  Connect to your remote server within VS Code (*username*: sicss *password*: sicss2021)
+5.  Install meteor: 
+```
+curl https://install.meteor.com/ | sh
+```
+6. Install NPM:
+```
+sudo apt update
+sudo apt install npm
+```
+
 
