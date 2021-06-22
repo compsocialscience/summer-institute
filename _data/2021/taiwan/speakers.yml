@@ -6,7 +6,7 @@ Her research interests lie in national health accounts formulation and estimatio
 out-of-pocket medical spending, and patient behavior. She has been working with
 Taiwan’s National Health Insurance claims data as well as several other national
 datasets over the past ten years." 
-  image: 
+  image: /assets/images/ChristyPu.jpeg
   website: 
   
 - name: Cheng-Te Li (李政德)
@@ -19,6 +19,7 @@ datasets over the past ten years."
   and Natural Language Processing. Problems he aims to tackle are inspired by real-world 
   applications with Massive Datasets. He currently leads the Networked Artificial Intelligence 
   Laboratory (NetAI Lab) at NCKU."
+  image: /assets/images/LiChengTe.png
 
 - name: Hsuan-Wei (Wayne) Lee
   bio: "Hsuan-Wei (Wayne) Lee is an Assistant Research Fellow at the Institute of Sociology, 
@@ -30,6 +31,20 @@ datasets over the past ten years."
   kinds of networks, especially social systems, their characteristics, formation, evolution, 
   and often predictions of system behavior. He has publications in Physical Review E, Social Science Research, 
   PloS ONE, Journal of Complex Systems, and Social Network."
+  image: /assets/images/HsuanWeiWayneLee.png
   
 - name: Hsuan-lei Shao
-- name: 楊子霆
+  bio: "Hsuan-Lei Shao(邵軒磊) is an Associate Professor at Dept. of East Asian Studies, 
+  National Taiwan Normal University. His Ph.D. degree (2009) is from National Chengchi University, 
+  in International Affairs and China Studies. His research interests are inter-displinary, 
+  which are Politics, Text Mining, Machine/Deep Learning and Social Media (FB) Analysis, 
+  Legal Analytics. More information: Lab. of Legal Analysis: https://reurl.cc/ZGjn93 ; His recent published work: https://reurl.cc/Gmmz43"
+  image: /assets/images/ShaoHsuanLei.png
+  website: https://web.ntnu.edu.tw/~hlshao/107_DH/index.html
+  
+- name: Tzu-Ting Yang 
+  bio: "Tzu-Ting Yang (楊子霆) is Associate Research Fellow at the Institute of Economics, Academia Sinica. 
+  He received his Ph.D. in Economics from Vancouver School f Economics, University of British Columbia 
+  in 2015. His research fields are public economics, labor economics, and health economics. 
+  His researches usually apply causal inference methods and large-scale dataset to answer important policy questions."
+  image: /assets/images/YangTzuTing.png
