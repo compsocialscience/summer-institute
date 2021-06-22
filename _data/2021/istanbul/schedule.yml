@@ -172,7 +172,17 @@
   events:
     - name: "17:00-19:00 Group Projects Presentations"
     - name: "19:00-20:00 SICSS-Istanbul Alumni Event"
+    
 
+- date: Group Projects
+  name: 
+  events:
+    - name: "**Social Movements in a time of the Pandemic** by Erman Ermihan, Gizem Kaya, Busra Mahmutoglu"
+    - name: "**Covid Vaccine Perception in Turkey** by Ozgur Can Seckin, Aybuke Atalay, Umut Duygu, Ege Otenen"
+    - name: "**An Analysis on Party Manifestos** by Didar Tutan, Cigdem Unal, Venia Veselovsky, Oguzhan Izmir"
+    - name: "**Ideology and perception of conflict in the U.S. over the Palestine issue** by Selim Yaman, Ahmet Yusuf Aydın, M. Fuat Kına"
+    - name: "**Fear and Loathing during the Pandemic: the changes in what we listen to in response to macroeconomic indicators** by Elif Ece Sozer, Yasemin Taskin Alp, Hakan Ozalp"
+    
 
  
 
