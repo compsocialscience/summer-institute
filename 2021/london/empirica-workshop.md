@@ -33,7 +33,14 @@ WSL2 is a modern tool introduced by Microsoft to facilitate the use of common we
 Instructions: [https://docs.empirica.ly/getting-started/setup/windows-instructions](https://docs.empirica.ly/getting-started/setup/windows-instructions)
 
 ### Windows option 3:  **Linux cloud server**
-You may find it easier to set up a linux cloud server with a service such as Amazon Web Services or DigitalOcean.  Many of these provide a free trial tier that is sufficient for today's exercise.
+You may find it easier to set up a linux cloud server with a service such as Amazon Web Services or DigitalOcean.  Many of these provide a free trial tier that is sufficient for today's exercise.  Cloud servers also some advantages in testing during development, because it's easier to demo your app on the internet to share with peers.
 
-If none of the options above work for you, and you don't have access to a cloud server, we can provide one.  Just post a message in the &#35;server-request channel and someone will be with you in a few minutes.
+In fact, cloud servers are so cheap and easy, that we spun up one each for everyone who registered today.  See instructions below on how to access your cloud server and begin development.
+
+### Cloud Server Setup Instructions
+
+1. Post a message in the &#35;server-request channel and someone will send you an IP address via direct message within a few minutes.  This IP address is unique to your server, so don't share it!  (NOTE: cloud servers will be automatically deleted after this workshop.  If you want to continue working on yours past the scheduled time, just let us know.)
+2.  Install VS Code (Visual Studio Code) on your Windows system. [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
+3.  Add the "Remote - SSH" extension: [https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
+4.  Connect to your remote server within VS Code (*username*: sicss *password*: sicss2021)
 
