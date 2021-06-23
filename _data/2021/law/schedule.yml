@@ -96,7 +96,11 @@
 - date: 2021-06-25
   name: "<b>Group Projects Presentations</b>"
   events:
-    - name: "14.00 - 15.00 Group Project Presentation (*Zoom*)"
+    - name: "13.00 - 13.45 Group Project Presentation (*Zoom*)"
+    - name: "13.45 - 14.00 Break"
+    - name: "14.00  - 14.45 Group Project Presentation (*Zoom*)"
+    - name: "14.45 - 15.00 Break"
+    - name: "15.00 - 15.45 Group Project Presentation (*Zoom*)"
     - name: "15.00 - 16.00 Break"
-    - name: "16.00 - 17.00 Group Project Presentation (*Zoom*)"
-    - name: "17.00 - 17.15 Closing remarks (*Zoom*)"
+    - name: "16.00 - 16.45 Group Project Presentation (*Zoom*)"
+    - name: "16.45 - 17.15 Closing remarks (*Zoom*)"
