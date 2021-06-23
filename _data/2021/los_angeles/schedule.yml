@@ -59,11 +59,11 @@
   name: Introduction to Text Analysis + Unsupervised Machine-Learning
   events:
     - name: "10:00 - 10:15 Outline the Day (*In Zoom full group*)"
-    - name: "10:15 - 11:00 Lecture: Text Analysis (*In Zoom full group*)"
-    - name: "11:00 - 11:45 Small Group Discussions + Exercise (*In Zoom break-out room*)"
+    - name: "10:15 - 11:30 Lecture: Text Analysis (*In Zoom full group*)"
+    - name: "11:30 - 11:45 Small Group Discussions + Exercise (*In Zoom break-out room*)"
     - name: "11:45 - 1:00 Break"
     - name: "1:00 - 1:30 Guest Speaker: Savannah Larimore (SICSS-UW 2018) (*In Zoom full group*)"
-    - name: "1:30 - 4:00 Project Time (*In Zoom full group*)"
+    - name: "1:30 - 4:00 Project Time (*In Zoom break-out rooms*)"
     - name: "4:00 - 4:30 OPTIONAL: Open Office Hours on Zoom"
       
 - date: 2021-06-29
