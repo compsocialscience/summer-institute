@@ -2,7 +2,7 @@
 
 
 - date: 2021-06-21
-  name: Introduction to Digital Trace Data
+  name: Introduction to Digital Trace Data (e.g., via Webscraping, APIs, Mturk)
   events:
     - name: "10:00 - 10:20 Introduction to SICSS, Computational Social Science, and the California Center For Population Research by Dr. Jennie Brand (*In Zoom full group*)"
     - name: "10:20 - 10:40 Introductions (What is Computational Social Science) (*In rounds of Zoom break-out rooms*) "
@@ -14,7 +14,7 @@
     - name: "4:00 - 4:30 OPTIONAL: Open Office Hours on Zoom (getting started with Slack, R, Q & A)"
 
 - date: 2021-06-22
-  name: Digitial Trace Data Workday
+  name: Introduction to Digital Trace Data (e.g., via Webscraping, APIs, Mturk)
   events:
     - name: "10:00 - 10:15 Outline the Day (*In Zoom full group*)"
     - name: "10:15 - 11:45 Data Collection Exercise (*In Zoom full group*)"
@@ -42,7 +42,7 @@
     - name: "10:00 - 11:00 Lecture: The Landscape of Approaches to Text Analysis (*In Zoom full group*)"
     - name: "11:00 - 11:30 CSS Skills Workshop on Bash (*In Zoom full group*)"
     - name: "11:30 - 1:00 Break"
-    - name: "1:00 - 2:00 Text Analysis Discussion and Activity (*In Zoom break-out room*)"
+    - name: "1:00 - 2:00 Text Analysis Discussion and Exercise (*In Zoom break-out room*)"
     - name: "2:00 - 4:00 Project Time and Project Check in with an Organizer (*In Zoom break-out room*)"
   
 - date: 2021-06-25
@@ -70,7 +70,7 @@
   name: Text Analysis + Unsupervised Machine-Learning
   events:
     - name: "10:00 - 10:30 CSS Skills Workshop on GitHub (*In Zoom full group*)"
-    - name: "10:30 - 11:45 Text Analysis Activity (*In Zoom break-out room*)"
+    - name: "10:30 - 11:45 Text Analysis Exercise (*In Zoom break-out room*)"
     - name: "11:45 - 12:45 Break"
     - name: "12:45 - 2:45 Project Time (*In Zoom break-out rooms*)"
     - name: "3:00 - 4:00 Lecture: Text Analysis (*In Zoom full group*)"
