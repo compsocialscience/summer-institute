@@ -165,34 +165,34 @@
 - date: 2021-06-21
   name: Formation des équipes
   events:
-    - name: "9:00 - 9:30 Arrivée"
-    - name: "9:30 - 12:30 Formation des équipes"
+    - name: "9:30 - 10:00 Arrivée"
+    - name: "10:00 - 12:30 Formation des équipes"
     - name: "12:30 - 1:30 Pause"
     - name: "1:30 - 3:30 Projet en équipe (Zoom)"
 - date: 2021-06-22
   name: Projet en équipe
   events:
-    - name: "9:00 - 9:30 Arrivée"
-    - name: "9:30 - 12:30 Projet en équipe (Zoom)"
+    - name: "9:30 - 10:00 Arrivée"
+    - name: "10:00 - 12:30 Projet en équipe (Zoom)"
     - name: "12:30 - 1:30 Pause"
     - name: "1:30 - 3:30 Projet en équipe (Zoom)"
 - date: 2021-06-23
   name: Projet en équipe
   events:
-    - name: "9:00 - 9:30 Arrivée"
-    - name: "9:30 - 12:30 Projet en équipe (Zoom)"
+    - name: "9:30 - 10:00 Arrivée"
+    - name: "10:00 - 12:30 Projet en équipe (Zoom)"
     - name: "12:30 - 1:30 Pause"
     - name: "1:30 - 3:30 Projet en équipe (Zoom)"
 - date: 2021-06-24
   name: Projet en équipe
   events:
-    - name: "9:00 - 9:30 Arrivée"
-    - name: "9:30 - 12:30 Projet en équipe (Zoom)"
+    - name: "9:30 - 10:00 Arrivée"
+    - name: "10:00 - 12:30 Projet en équipe (Zoom)"
     - name: "12:30 - 1:30 Pause"
     - name: "1:30 - 3:30 Projet en équipe (Zoom)"
 - date: 2021-06-25
   name: Présentation des projets
   events:
-    - name: "9:00 - 9:30 Arrivée"
-    - name: "9:30 - 12:30 Présentation des projets d'équipe (Zoom)"
+    - name: "9:30 - 10:00 Arrivée"
+    - name: "10:00 - 12:30 Présentation des projets d'équipe (Zoom)"
     - name: "12:30 - 1:30 Debriefing et clôture (Zoom)"
