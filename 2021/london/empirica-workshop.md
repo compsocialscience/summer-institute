@@ -29,7 +29,9 @@ cd your-first-experiment
 git branch -a
 ```
 
-These commands let you clone the repository and view branches.  Then, you switch to branches with the command `git switch 0/create-empirica-app` or `git switch 1/getting-started` to jump to various points in the tutorial.  Note, the branch name refers to the completed code for the section, e.g. `git switch 4/chats` will get you completed code for an experiment with chats. You can then ***import** 'experiment-as-code' in the Empirica console* for those branches with a yaml file, as in `4/chats` containing the file `4-factors.yaml`.
+These commands let you clone the repository and view branches.  Then, you switch to branches with the command `git switch 0/create-empirica-app` or `git switch 1/getting-started` to jump to various points in the tutorial.  Note, the branch name refers to the completed code for the section, e.g. `git switch 4/chats` will get you completed code for an experiment with chats. You can then ***import** 'experiment-as-code' in the Empirica console* for those branches with a yaml file, as in `4/chats` containing the file `4-factors.yaml`.  
+
+Finally, in order to run Empirica from a git clone (vs with `npx create-empirica-app`) you must run the command `meteor npm install` to install any dependencies.
 
 ### Slack Channels
 Find us in the main &#35;sicss-fest-2021 channel for general discussion and questions related to Empirica and the tutorial specifically.  Use the &#35;debug channel to post questions about general errors e.g. with javascript.  Use the &#35;windows-to-linux channel to discuss connecting to a cloud linux server from Windows, and the &#35;windows-native channel for using Windows natively or with WSL2.  Use the &#35;mac-os channel for mac discussion. 
