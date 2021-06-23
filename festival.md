@@ -40,7 +40,7 @@ Registration closed
 
 __Time:__ Wednesday, June 23, 2021. 12-1pm EDT
 
-__Speakers:__ Dr. Aruna Balakrishnan (Head of Health & Identity Experience Research at Twitter) and Dr. Gonzolo Rivero (Associate Director of Data Labs at the Pew Research Center)
+__Speakers:__ Dr. Aruna Balakrishnan (Head of Health & Identity Experience Research at Twitter) and Dr. Gonzalo Rivero (Associate Director of Data Labs at the Pew Research Center)
 
 __Moderator:__ [Chris Bail](https://www.chrisbail.net/) (SICSS-Princeton 17, 19, 21, SICSS-Duke 18, 20; Professor of Sociology and Public Policy at Duke University)
 
