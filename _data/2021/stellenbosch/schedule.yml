@@ -2,7 +2,7 @@
   events:
     - name: "SICSS-Stellenbosch is held virtually using a combination of asynchronous video lectures, semi-synchronous group exercises and synchronous group feedback sessions. Each day follows roughly the same schedule, as shown in this section."
     - name: "**Morning**<br/>A synchronous session with the organisers introducing the day's content followed by approximately 2h of video lectures to be watched privately to prepare for the afternoon sessions."
-    - name: "**Afternoon**<br/>Group exercise to be completed in small groups of participants using Slack and Zoom to coordinate and work through the exercise followed by a synchronous session with the organisers to review the exercises for the day."
+    - name: "**Afternoon**<br/>Group exercise to be completed in small groups of participants using Slack and MS Teams to coordinate and work through the exercise followed by a synchronous session with the organisers to review the exercises for the day."
 
 - date: "Week One: Introduction to R"
   events:
