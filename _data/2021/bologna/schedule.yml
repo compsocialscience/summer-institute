@@ -25,7 +25,7 @@
     - name: "15:00 - 16:00	Activity: Text Analysis"
 
 - date: 2021-06-24
-  name: Surveys in the Digital Age
+  name: Surveys and Mass Collaboration in the Digital Age
   events:
     - name: "10:15 - 11:15	Surveys"
     - name: "11:15 - 12:00	Small group activity"
@@ -34,7 +34,7 @@
     - name: "15:00 - 16:00	Group activity"
 
 - date: 2021-06-25
-  name: Mass collaboration and machine learning
+  name: Experiments
   events:
     - name: "10:15-11:15	Experiments"
     - name: "11:15-12:00	Small group activity"
