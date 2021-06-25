@@ -5,6 +5,10 @@ main: true
 image: /assets/images/beijing.jpg
 ---
 
+<img src="sicss-beijing-2021cohorts.png" alt="drawing" width="200"/>
+
+![drawing](drawing.jpg)
+
 From Monday, June 14 to Friday, June 25, 2021, the Summer Institute in Computational Social Science, Beijing site will be virtually held. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
 
 The instructional program will involve lectures, reading group seminars, and participant-led research projects. There will also be outside speakers who conduct computational social science research in a variety of settings, such as academia, industry, and government. A site-specific focus at this partner institute will be 
