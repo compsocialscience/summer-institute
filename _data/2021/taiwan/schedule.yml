@@ -4,7 +4,7 @@
   name: Introduction and Ethics
   events:
     - name: "9:30 - 10:35 Introduction and Opening" 
-    - name: "10:55 - 12:00 Ethics: Discussion Activity [Lesson plan (participants)] (https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small_group_discussions.md))"
+    - name: "10:55 - 12:00 Ethics: Discussion Activity [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small_group_discussions.md))"
     - name: "12:00 - 13:00 Lunch & optional small group discussion"
     - name: "13:00 - 15:00 The Promise of Text Mining By Prof. Hsuan-lei Shao 邵軒磊	[slides](https://drive.google.com/file/d/1ni4At1B2tyalo5N-ZKO21mo5gCbnOvY2/view)"
     - name: "15:00 - 15:15 Debrief and Logistics"
@@ -13,7 +13,7 @@
 - date: 2021-06-29
   name: API & Automated Text Analysis
   events:
-    - name: "9:30 - 10:35 Watch [2020 SICSS Festival talk on computational and digital demography] (https://www.youtube.com/watch?v=BueR-DPy484&list=PL9UNgBC7ODr6eZkwB6W0QSzpDs46E8WPN), followed by group discussion" 
+    - name: "9:30 - 10:35 Watch [2020 SICSS Festival talk on computational and digital demography](https://www.youtube.com/watch?v=BueR-DPy484&list=PL9UNgBC7ODr6eZkwB6W0QSzpDs46E8WPN), followed by group discussion" 
     - name: "10:55 - 12:00 Application Programming Interfaces Group Activity"
     - name: "12:00 - 13:00 Lunch & optional small group discussion"
     - name: "13:00 - 14:30 An Introduction to Text Analysis Text Analysis Basics"
