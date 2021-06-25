@@ -5,7 +5,7 @@ main: true
 image: /assets/images/beijing.jpg
 ---
 
-<img src="sicss-beijing-2021cohorts.png" alt="drawing" width="200"/>
+<img src="/assets/images/sicss-beijing-2021cohorts.png" alt="drawing" width="200"/>
 
 ![drawing](drawing.jpg)
 
