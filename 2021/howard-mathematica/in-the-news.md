@@ -44,12 +44,6 @@ image: /assets/images/howard.jpg
 <br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/people">SICSS-Howard/Mathematica</a>)</font>
 
 
-<u>SICSS-Howard/Mathematica Teaching Assistants announced </u>
-<br><font color="grey"><font size="2">March 18, 2021</font></font> 
-<br><i><font size = "2">We are happy to announce that Zanele Munyikwa and Demetrius Murphy have been selected to serve as Teaching Assistants for SICSS-Howard/Mathematica this summer. As TAs, they will conduct office hours before and during the institute, and guide participants through research exercises. Learn more about Zanele and Demetrius on the People page of our website.  </font></i> 
-<br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/people">SICSS-Howard/Mathematica</a>)</font>
-
-
 <u>SICSS-Howard/Mathematica to table at Pacific Sociological Association Conference </u>
 <br><font color="grey"><font size="2">March 15, 2021</font></font> 
 <br><i><font size = "2">SICSS-Howard/Mathematica will be hosting a virtual round-table at the 92nd Annual Meeting of the Pacific Sociological Association, held from March 17-21, 2021. </font></i> 
