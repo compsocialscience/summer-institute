@@ -16,8 +16,8 @@
     - name: "9:30 - 10:35 Watch [2020 SICSS Festival talk on computational and digital demography](https://www.youtube.com/watch?v=BueR-DPy484&list=PL9UNgBC7ODr6eZkwB6W0QSzpDs46E8WPN), followed by group discussion [Day 2 Slides](https://docs.google.com/presentation/d/1xh2Ps4Po2j97pTLhzJHPbbkMV_Ibvpiqm8KFXTN0Ly0/edit#slide=id.p)" 
     - name: "10:55 - 12:00 Application Programming Interfaces Group Activity"
     - name: "12:00 - 13:00 Lunch & optional small group discussion"
-    - name: "13:00 - 14:30 An Introduction to Text Analysis Text Analysis Basics"
-    - name: "14:30 - 15:00 Text Analysis: Activity [Lesson plan](https://sicss.io/2021/materials/day3-text-analysis/Group-Exercise-Day-3.html)"
+    - name: "13:00 - 14:00 An Introduction to Text Analysis Text Analysis Basics [Code along Rmd](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/taiwan/day2_text_basic_dictionary.Rmd)"
+    - name: "14:00 - 15:00 Text Analysis: Activity [Lesson plan](https://sicss.io/2021/materials/day3-text-analysis/Group-Exercise-Day-3.html)"
     - name: "15:00 - 15:15 Debrief and Logistics"
     
 - date: 2021-06-30
