@@ -26,6 +26,15 @@
   image: /assets/images/Nicole_Han_image - Nicole Han.jpg
   bio: Nicole Han is a Ph.D. student in the Department of Psychological & Brain Sciences at UCSB. Her main research interest lies in understanding the mechanisms, both shared and distinct, that humans and machines use to perform visual tasks. She has worked on investigating the degree to which different facial features contribute to the guidance of the first (and most critical) eye movements onto faces. She utilized deep-learning techniques to improve the quality of visual prostheses with limited resolutions. Her dissertation topic is aiming to understand how our perception of another person's direction of gaze affects where and what we attend to in real-world environments. In addition, she is working on training computer vision models to understand human visual attention (gaze direction). In general, she is interested in combining measurements of human behavior (psychophysics, eye tracking), computational neuroscience, and machine learning techniques to identify the neural, cognitive, and perceptual mechanisms underlying critical visual tasks.
   
+
+- name: Michelle Io-Low
+  image: /assets/images/michelle_iolow - Michelle Io-Low.jpg
+  bio: My name is Michelle Io-Low. I am a PhD candidate Stony Brook University's Department of Political Science. Broadly speaking, my research interests centers around public opinion and political behavior. Much of my work centers around understanding how people form opinions related to economic inequality. I am studying how political ideology, political emotions, and political identities affect beliefs about inequality and redistribution, and the relevant political behaviors.
+  
+- name: Joyce Yanru Jiang
+  image: /assets/images/Yanru_Jiang_image - Joyce Jiang.jpg
+  bio: I'm Joyce Yanru Jiang, current PhD student in Communication at UCLA, specialize in the intersection of political communication and computational method. I’m interested in understanding how social media could positively or negatively affect the marginalized communities in a democratic society. I also emphasize on using social movement as an empirical approach for my research. The computational methods I commonly use include NLP, computer vision, network analysis, clustering, etc.
+
 - name: Yunxin Li
   image: /assets/images/Yunxin_Li_Image - Yunxin Li.jpg
   bio: Yunxin Li is a Ph.D. Candidate in the history department of Stanford. Her research focuses on the political, social, and gender history of early China, as well as classical Chinese texts and manuscripts. She is interested in using digital methods for historical research, especially network, spatial, and text analysis.  
@@ -38,14 +47,6 @@
   image: /assets/images/Kathryn_McConnell_image - Kathryn McConnell.png
   bio: Kathryn is a PhD candidate at Yale School of the Environment where she studies environmental sociology. Her dissertation examines the effects of wildfire damage on migration and settlement patterns across the United States, and draws on both geospatial and qualitative methods.   
 
-- name: Michelle Io-Low
-  image: /assets/images/michelle_iolow - Michelle Io-Low.jpg
-  bio: My name is Michelle Io-Low. I am a PhD candidate Stony Brook University's Department of Political Science. Broadly speaking, my research interests centers around public opinion and political behavior. Much of my work centers around understanding how people form opinions related to economic inequality. I am studying how political ideology, political emotions, and political identities affect beliefs about inequality and redistribution, and the relevant political behaviors.
-  
-- name: Joyce Yanru Jiang
-  image: /assets/images/Yanru_Jiang_image - Joyce Jiang.jpg
-  bio: I'm Joyce Yanru Jiang, current PhD student in Communication at UCLA, specialize in the intersection of political communication and computational method. I’m interested in understanding how social media could positively or negatively affect the marginalized communities in a democratic society. I also emphasize on using social movement as an empirical approach for my research. The computational methods I commonly use include NLP, computer vision, network analysis, clustering, etc.
-  
 - name: Geidy Mendez
   image: /assets/images/IMG_4348 - Geidy Mendez.JPG
   bio: Geidy Mendez is a rising second year Ph.D. Political Science student at the University of California- Irvine. Her research concentrates on Race and Ethnicity Politics, focusing on Latinx identity politics. She is interested in observing the relationship between socialization, immigration, and political behavior among different generations of Latinx identifying people in the United States. She hopes to use both qualitative and quantitative methods to tell the story of generational political thought and behavior. She received her undergraduate from Rutgers University - New Jersey. She is a first-generation Guatemalan from East Orange, New Jersey.
