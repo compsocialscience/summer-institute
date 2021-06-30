@@ -27,7 +27,7 @@ Further, when making our evaluations, we attempt to account for an applicant’s
 
 ## How to Apply
 
-Applicants must submit the following documents:
+Applicants must submit the following documents: 
 
  * Brief statement of participation, i.e., why do you wish to attend SICSS Helsinki? (max 300 words)
  * Curriculum vitae
