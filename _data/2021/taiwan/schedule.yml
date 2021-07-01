@@ -52,33 +52,28 @@
 - date: 2021-07-05
   name: Research Project
   events:
-    - name: "9:30 - 10:35 Research Pairing Activity 2" 
-    - name: "10:55 - 12:00 Research Project"
-    - name: "12:00 - 13:00 Lunch & optional small group discussion"
-    - name: "13:00 - 15:00 Watch another recorded session of SICSS festival, followed by group discussion"
-    - name: "15:15 - 16:00 Research Project" 
+    - name: "9:30 - 10:30 Research Pairing Activity 2" 
+    - name: "10:45 - 12:00 Research Project"
+    - name: "13:00 - 15:00 Optional: Watch another recorded session of SICSS festival, followed by group discussion"
 
 
 - date: 2021-07-06
   name: Research Project + Speaker Session
   events:
     - name: "10:00 - 12:00 Speaker Session: Cheng-Te Li" 
-    - name: "12:00 - 13:00 Lunch & optional small group discussion"
     - name: "13:00 - 16:00 Research Project"
 
 - date: 2021-07-07
   name: Research Project
   events:
-    - name: "9:30 - 12:00 Research Project" 
-    - name: "12:00 - 13:00 Lunch & optional small group discussion"
-    - name: "13:00 - 14:20 Mid-Point Flash Talks + Feedback"
-    - name: "14:40 - 16:00 Mid-Point Flash Talks + Feedback"
+    - name: "10:30 - 12:00 Research Project" 
+    - name: "13:00 - 15:20 Mid-Point Flash Talks + Feedback"
+    - name: "15:30 - 17:00 Guest Speaker: Tse-Yu Lin"
 
 - date: 2021-07-08
   name: Research Project + Speaker Session
   events:
     - name: "9:30 - 12:00 Research Project" 
-    - name: "12:00 - 13:00 Lunch & optional small group discussion"
     - name: "13:00 - 15:00 Speaker Session: Tzu-Ting Yang"
     - name: "15:15 - 16:00 Research Project" 
 
