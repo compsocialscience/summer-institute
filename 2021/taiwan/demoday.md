@@ -22,9 +22,9 @@ This year the SICSS-Taiwan organizing team collaborated with the International C
 
 ## Schedule 
 
-- 09:30 - 09:35 | Introduction |  
-- 09:35 - 09:50 | Speech by 連賢明 老師 | 
-- 09:50 - 10:05 | Speech by 陳人豪 老師 | 
+- 09:30 - 09:35 | Introduction   
+- 09:35 - 09:50 | Speech by 連賢明 老師 
+- 09:50 - 10:05 | Speech by 陳人豪 老師 
 - 10:05 - 10:15 | Break 
 - 10:10 - 10:40 | Group 1 宜儒，佳蓁，先灝 | Interdisciplinary Collaboration: Using a Content Analysis of Children's Books as an Example 
 - 10:45 - 11:15 | Group 2 博謙、毓章、舜翔、先灝、振辰 | 未來台灣私立大學倒閉之模擬分析 | A simulation study on the future exiting scenarios of private universities in Taiwan 
