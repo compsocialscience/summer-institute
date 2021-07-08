@@ -7,10 +7,10 @@ title: Demo Day
 
 ## SICSS Taiwan 2021 Demo Day
 On Friday July 9th 2021, we will host a demo day in which our SICSS-Taiwan participants will share their project carried out in the past four days. 
-Event will be conducted primarily in Mandarin Chinese and open to the public. 
+Event will be conducted primarily in Mandarin Chinese and open to the public. And English simultaneous interpretation service is available. 
 RSVP for the event [here](https://princeton.zoom.us/meeting/register/tJModeuhrTkjGNRSBesjCJ27IgEKdVSiZurK). 
 
-2021 年七月九號 9:30 上午到 3:30 下午將舉行資訊化社會科學台灣工作坊的成果發表會。學員們將分享他們過去四天做的研究專題。這個為公開活動，請在[這裡報名](https://princeton.zoom.us/meeting/register/tJModeuhrTkjGNRSBesjCJ27IgEKdVSiZurK)
+2021 年七月九號 9:30 上午到 3:30 下午將舉行資訊化社會科學台灣工作坊的成果發表會。學員們將分享他們過去四天做的研究專題。這個為公開活動，請在[這裡報名].中文活動、英文同步翻譯(https://princeton.zoom.us/meeting/register/tJModeuhrTkjGNRSBesjCJ27IgEKdVSiZurK)
 
 ## About SICSS-Taiwan 
 SICSS-Taiwan is a two-week intensive event for junior faculty, post-docs and graduate students in the fields of social science and data science. 
@@ -28,7 +28,7 @@ This year the SICSS-Taiwan organizing team collaborated with the International C
 - 10:05 - 10:15 | Break 
 - 10:10 - 10:40 | Group 1 宜儒，佳蓁，先灝 | Interdisciplinary Collaboration: Using a Content Analysis of Children's Books as an Example 
 - 10:45 - 11:15 | Group 2 博謙、毓章、舜翔、先灝、振辰 | 未來台灣私立大學倒閉之模擬分析 | A simulation study on the future exiting scenarios of private universities in Taiwan 
-- 11:20 - 11:50 | Group 3 毓辰、佳蓉、Emily | An exploratory analysis on anti-Asian and counter Hate tweets** 
+- 11:20 - 11:50 | Group 3 毓辰、佳蓉、Emily | An exploratory analysis on anti-Asian and counter Hate tweets 
 - 11:50 - 13:00 | Break 
 - 13:00 - 13:30 | Group 4 佩榮、宇慧、雅惠 | 國中山野教育登山經驗分析 | Text analysis of reflective essays of indigenous middle schoolers in hiking/backpacking courses 
 - 13:30 - 14:00 | Group 5 冠儒 | COVID-19 and Music Preference on Spotify
