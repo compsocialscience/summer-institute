@@ -34,4 +34,4 @@ This year the SICSS-Taiwan organizing team collaborated with the International C
 - 13:30 - 14:00 | Group 5 冠儒 | COVID-19 and Music Preference on Spotify
 - 14:00 - 14:15 | Break
 - 14:15 - 14:45 | Group 6 高賢、怡安、喻能、宇珊 | Pandemic parenting: Social Media as the last resort of the burnout 
-- 14:45 - 15:15 | Group 7 Sinead, Galong，健豪 | **COVID-19疫苗的媒體報導分析** | News coverage framing of COVID-19 vaccine in Taiwan 
+- 14:45 - 15:15 | Group 7 Sinead, Galong，健豪 | COVID-19疫苗的媒體報導分析 | News coverage framing of COVID-19 vaccine in Taiwan 
