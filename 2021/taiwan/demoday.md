@@ -17,7 +17,7 @@ SICSS-Taiwan is a two-week intensive event for junior faculty, post-docs and gra
 The first week is core SICSS curriculum based on flipped-classroom learning model. During the second week, similar to a multiple-day research-oriented hackathon, participants embarked on a project idea. 
 This year the SICSS-Taiwan organizing team collaborated with the International College of Innovation (ICI) and the Department of Sociology of National Chengchi University as our local affliates.
 
-## Time 
+## Time (Taiwan Timezone UTC +8)
 9:30AM - 3:30PM Friday July 9th 2021, we will have break time on 12:00 - 13:00 
 
 ## Schedule 
