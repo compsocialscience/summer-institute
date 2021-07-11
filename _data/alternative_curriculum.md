@@ -17,6 +17,7 @@ In addition to the main videos and course materials developed by SICSS Co-Founde
 
 #### Higher School of Economics
 - [Materials](https://sicss.io/2021/hse/schedule) 
+- [Recorded videos](https://www.youtube.com/channel/UCZs3cb8xelfGXUfuWdBXGhA)
 
 #### London
 - [Materials](https://sicss.io/2021/london/schedule) 
@@ -26,6 +27,9 @@ In addition to the main videos and course materials developed by SICSS Co-Founde
 
 #### Stellenbosch
 - [Materials](https://sicss.io/2021/stellenbosch/schedule) 
+
+#### Zurich
+- [Materials](https://github.com/computational-social-science-zurich/sicss-zurich)
 
 
 ### 2020 
