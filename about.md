@@ -20,6 +20,6 @@ Since 2017, the Summer Institutes in Computational Social Science have raised ne
 
 ## Get Involved
 
-If you'd like to participate in one of our institutes, check out [this year's locations](https://sicss.io/locations). If you'd like to learn more about hosing your own SICSS location during a future year, please visit [this link](https://sicss.io/host). If you'd like to see what we've learned about the best-practices of running a SICSS site, check out our crowd-sourced post-mortems [here](https://sicss.io/2020/post-mortem)
+If you'd like to participate in one of our institutes, check out [this year's locations](https://sicss.io/locations). If you'd like to learn more about hosting your own SICSS location during a future year, please visit [this link](https://sicss.io/host). If you'd like to see what we've learned about the best-practices of running a SICSS site, check out our crowd-sourced post-mortems [here](https://sicss.io/2020/post-mortem)
 
 <br/><br/>
