@@ -24,7 +24,7 @@
   events:
     - name: "12:00 - 12:15 Logistics and introduction"
     - name: "12:15 - 12:45 Elizaveta Sivak. Benefits & Weaknesses of Digital Trace Data plus Hybrid Designs. [Slides](https://www.dropbox.com/s/kiwwnwzl025x7do/Digital%20traces%20data%20Sivak%202021.pptx?dl=0)"
-    - name: "12:45 - 13:30 Elizaveta Sivak. Reddit as a source of data [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/hse/SICSS%20HSE%202021%20Reddit%20Sivak.pdf) [Code](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/hse/reddit_.html)"
+    - name: "12:45 - 13:30 Elizaveta Sivak. Reddit as a source of data [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/hse/SICSS%20HSE%202021%20Reddit%20Sivak.pdf), [Code](https://sicss.io/2021/materials/hse/reddit_.html)"
     - name: "13:30 - 14:00 Break"
     - name: "14:00 - 15:45 Group Exercise: Collecting Digital Trace Data (Reddit). [Lesson plan (participants)](https://docs.google.com/document/d/1LS7rDYQvd2-lr6sf6Z5uwqTQvIKeAT0UbAJY_a9mLmM/edit?usp=sharing)"
     - name: "15:45 - 16:30 Break"   
