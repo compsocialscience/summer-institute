@@ -26,7 +26,7 @@ In addition to the main videos and course materials developed by SICSS Co-Founde
 #### Montreal
 - [Materials](https://sicss.io/2021/montreal/schedule) 
 
-### Oxford
+#### Oxford
 - [Materials](https://github.com/ruettenauer/SICSS-Spatial)
 
 #### Rutgers
