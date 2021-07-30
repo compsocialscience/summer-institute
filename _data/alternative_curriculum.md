@@ -11,7 +11,7 @@ In addition to the main videos and course materials developed by SICSS Co-Founde
 #### Higher School of Economics
 - [Materials](https://sicss.io/2021/hse/schedule) 
 - [Recorded videos](https://www.youtube.com/channel/UCZs3cb8xelfGXUfuWdBXGhA)
-- 
+
 #### Howard/Mathematica 
 - [Materials](https://sicss.io/2021/howard-mathematica/schedule) 
 - [Recorded videos](https://www.youtube.com/channel/UCIWamztabv6n47NSBZTYa2g/videos)
