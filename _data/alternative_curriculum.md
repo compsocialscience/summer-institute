@@ -4,6 +4,14 @@ In addition to the main videos and course materials developed by SICSS Co-Founde
 
 ### 2021
 
+#### Helsinki
+- [Materials](http://codingsocialscience.org/)
+- [Exercises](https://github.com/codingsocialscience/intensive-course)
+
+#### Higher School of Economics
+- [Materials](https://sicss.io/2021/hse/schedule) 
+- [Recorded videos](https://www.youtube.com/channel/UCZs3cb8xelfGXUfuWdBXGhA)
+- 
 #### Howard/Mathematica 
 - [Materials](https://sicss.io/2021/howard-mathematica/schedule) 
 - [Recorded videos](https://www.youtube.com/channel/UCIWamztabv6n47NSBZTYa2g/videos)
@@ -12,18 +20,17 @@ In addition to the main videos and course materials developed by SICSS Co-Founde
 - [Materials](https://sicss.io/2021/istanbul/schedule) 
 - [Recorded videos](https://www.youtube.com/channel/UCuLtVSsjOcGyI0Rz1rCB5Gg/videos)
 
-#### Rutgers
-- [Materials](https://sicss.io/2021/rutgers/schedule) 
-
-#### Higher School of Economics
-- [Materials](https://sicss.io/2021/hse/schedule) 
-- [Recorded videos](https://www.youtube.com/channel/UCZs3cb8xelfGXUfuWdBXGhA)
-
 #### London
 - [Materials](https://sicss.io/2021/london/schedule) 
 
 #### Montreal
 - [Materials](https://sicss.io/2021/montreal/schedule) 
+
+### Oxford
+- [Materials](https://github.com/ruettenauer/SICSS-Spatial)
+
+#### Rutgers
+- [Materials](https://sicss.io/2021/rutgers/schedule) 
 
 #### Stellenbosch
 - [Materials](https://sicss.io/2021/stellenbosch/schedule) 
