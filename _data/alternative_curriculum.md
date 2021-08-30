@@ -11,6 +11,14 @@ In addition to the main videos and course materials developed by SICSS Co-Founde
 #### Higher School of Economics
 - [Materials](https://sicss.io/2021/hse/schedule) 
 - [Recorded videos](https://www.youtube.com/channel/UCZs3cb8xelfGXUfuWdBXGhA)
+- [Guest lecture: Rene Kizilcec, Randomized Field Experiments in Online Learning](https://youtu.be/retX_cnW1os)
+- [Guest lecture: Sune Lehmann](https://youtu.be/au7jsAad4nY)
+- [Guest lecture: Munmun de Choudhury](https://youtu.be/8diSTxPqh80)
+- [Sofia Dokuka, Social network analysis: research design](https://youtu.be/tEzUP2XztR8)
+- [Ivan Smirnov, How to publish a computational social science paper?](https://youtu.be/GKktvbAsHUY)
+- [Ivan Smirnov,  Common pitfalls in quantitative research](https://youtu.be/2M5ZqgIb7_s)
+- [Elizaveta Sivak, Tutorial “Reddit as a data source” Code and description](https://sicss.io/2021/materials/hse/reddit_.html)
+- [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/hse/SICSS%20HSE%202021%20Reddit%20Sivak.pdf)
 
 #### Howard/Mathematica 
 - [Materials](https://sicss.io/2021/howard-mathematica/schedule) 
