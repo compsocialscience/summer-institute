@@ -11,6 +11,11 @@ image: /assets/images/howard.jpg
 
 ---
 
+<u>OPINION: A lack of diversity in research and analytics is not just unethical — it is dangerous </u>
+<br><font color="grey"><font size="2">July 20, 2021</font></font> 
+<br><i><font size = "2">We must create better school pipelines for people of color in STEM fields; read more in this op-ed by Wayne A.I. Frederick and Paul Decker </font></i> 
+<br><font size = "1">(Posted by <a href="https://hechingerreport.org/opinion-a-lack-of-diversity-in-research-and-analytics-is-not-just-unethical-it-is-dangerous/">The Hechinger Report</a>)</font>
+
 <u>Interview with Dr. Bahiyyah Muhammad, faculty co-sponsor </u> 
 <br><font color="grey"><font size="2">March 29, 2021</font></font> 
 <br><i><font size = "2">Get to know one of SICSS-Howard/Mathematica’s founding faculty sponsors, Dr. Bahiyyah Muhammad, in this energetic and inspiring video. She shares her thoughts on computational social science and its intersection with her extensive research on the effects of parental incarceration on children in this one-on-one interview with SICSS-Howard/Mathematica lead organizer Naniette Coleman. </font></i> 
