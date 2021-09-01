@@ -13,7 +13,7 @@ image: /assets/images/howard.jpg
 
 <u>OPINION: A lack of diversity in research and analytics is not just unethical — it is dangerous </u>
 <br><font color="grey"><font size="2">July 20, 2021</font></font> 
-<br><i><font size = "2">We must create better school pipelines for people of color in STEM fields; read more in this op-ed by Wayne A.I. Frederick and Paul Decker </font></i> 
+<br><i><font size = "2">"We must create better school pipelines for people of color in STEM fields" - read more in this op-ed by Wayne A.I. Frederick, M.D., MBA, F.A.C.S., President of Howard University and Paul Decker, Ph.D., President and CEO of Mathematica. </font></i> 
 <br><font size = "1">(Posted by <a href="https://hechingerreport.org/opinion-a-lack-of-diversity-in-research-and-analytics-is-not-just-unethical-it-is-dangerous/">The Hechinger Report</a>)</font>
 
 <u>Interview with Dr. Bahiyyah Muhammad, faculty co-sponsor </u> 
