@@ -55,6 +55,7 @@ This was our first year accepting applications for an event that everyone knew w
 After participants are accepted we begin to onboard them into the program and provide them with pre-arrival materials. The goal is to have them arrive at SICSS ready to learn. The onboarding process went smoothly and we have no major changes to recommend.
 
 *Onboarding emails*
+
 We added all participants and staff to a Google group and sent out an email to the group with the following pre-arrival logistics:
 
 - A request that participants fill out a Google form (the “onboarding survey”) to provide bio information for our website. In prior years, the onboarding survey we used was only for the SICSS-Princeton or SICSS-Duke location, and other locations created their own surveys if desired. This year, we had a SICSS-wide onboarding survey used by all locations. This new SICSS-wide onboarding survey automatically fills a new part of the website: a directory of all past SICSS participants. However, the survey does not automatically fill the “people” page for each location (e.g., https://sicss.io/2021/princeton/people). We manually copied the survey responses to post bios on the SICSS-Princeton “people” page.
@@ -67,6 +68,7 @@ After a couple of email reminders, everyone completed the Google form.
 There were a few subsequent onboarding emails: (1) an announcement about the virtual meet-and-greet scheduled for Sunday night of the first week, (2) instructions for applying for data access for the Fragile Families Challenge activity, and (3) a final reminder about the contents of the earlier emails (pre-arrival materials to complete, meet-and-greet time, and Fragile Families data application instructions).   
 
 *Office hours*
+
 Another component of the pre-arrival support is office hours run by our TAs. These office hours are open to participants at all SICSS locations. We provided 5 weeks of office hours from 5 TAs. We tried to spread out different times so that people from different time zones can attend at least one if needed. Few attended the sessions. For the ones who attended, TAs helped with troubleshooting technical issues or addressing any other questions they had.
 
 *T-shirts or other SWAG*
