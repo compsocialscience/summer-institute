@@ -1578,7 +1578,7 @@ Attendee composition
     - Our attendees were from various disciplines, such as Computer science, education, political science, social work, and so on. Attendees tried to share their expertise and previous projects that are related to computational social science in 15 minutes, and discussion/QA 15 minutes on Friday of Week 1.
 
 
-**Week 1 and 2 **
+**Week 1 and 2**
  - Guest lectures
     - Successes
       - Two rounds of lecture and Q&A. Our guest lecture is 2 hours long. We divided it into two sessions so that we have two rounds of Q&A. 
@@ -1614,7 +1614,6 @@ Attendee composition
 
 **Post-SICSS**
 - In order to maintain the community beyond the two week workshop, we have been (or will be) doing the following 
-- 1:
   - Organizing committee is meeting with attendees 1:1s for 45 to 60 minutes to discuss whether their expectations were fulfilled, whether/how they aim to continue on their research projects, and what suggestions they have to improve SICSS.
   - During 1:1s, some attendees, especially women, expressed that SICSS-Taiwan provided them with opportunities to build confidence in trying out computational methods.
 - In-person meet-up
