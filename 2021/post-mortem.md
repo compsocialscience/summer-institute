@@ -141,6 +141,86 @@ After each event was over, we posted about each event on Twitter.  We also sent 
 After SICSS was over, we worked to get participants their SWAG through Swagpack.  We also encouraged them to apply for the post-SICSS grants, and we encouraged them to stay in touch with the SICSS community through our Slack and Facebook groups.
 
 
+
+
+
+<hr />
+
+<h2 class="display-4" id="beijing">SICSS-Beijing</h2>
+
+
+
+We’ve divided the post-mortem into 6 main sections: 1) outreach and application process; 2) pre-arrival and onboarding; 3) first week; 4) second week (group projects); 5) post-departure. 6) Challenge of online format. 
+
+### 1. Outreach and application process
+We first made decisions on the main theme of our summer institute to be network science and the format of the first week to be reading groups with four topics, including introduction and models; machine learning; social contagion/collective intelligence, and misinformation/polarization. Due to the format, it is especially important to attract great and diverse participants. We advertised our events to a large and diverse group, both in the US, China, Singapore, and India. In the US, Singapore and India, we reached to faculty that we thought might know interested participants. In China, we advertised both through maillists, wechat groups, Sina weibo, and wechat public accounts, the latter three are especially effective formats in attracting applicants in China. We made a special effort to reach out to faculty in different departments, other than departments where the three organizers are from.  
+
+For the application process, we used google form. To ease the application review process, we require 200 words about achievements, potential contributions, and research keywords. In reflection, we think this makes the review process especially efficient in balancing research interests. We also required CV, statement and writing samples. We only require contact information of referees without an actual recommendation letter. We think this can reduce the burden from application and the information collected is already sufficient for selection and evaluation. 
+
+We have received 150 applications from 113 organizations. We receive 24% more female than male applicants. 50% of our applicants are PhD students, 24% are master students, 8% are assistant professors, 4% are postdoctoral researchers, 3% are associate professors, with the remaining are research staff. We add the background of our applications in Figure 1. 
+
+In the application review process, we use a scoring system. Two organizers will review each applicant. We then sort applicants according to the average scores. During the review process, we account for diversity of research interests and whether they can create a synergy in collaborations. 
+
+
+<img src="https://i.ibb.co/BwzTKkK/beijing.png" alt="" width="600">
+Figure 1. Background of applications. 
+
+
+### 2. Pre-arrival and onboarding
+
+On April 21, we sent our decision letter to the admitted applicants. To confirm their participation, we asked them whether they could fully attend our event. In that email, we also provided a rough schedule of our event—which contains the plan of invited speakers and meeting opportunities with speakers, and the format of participant-led activities (which included reading groups, participant presentations, and group projects). We believe that a sketch of the event is essential to convince their full commitment to our event at this stage. Out of 30 admitted participants, about 25 accepted our admissions.
+
+Besides acquiring their confirmation, we also built a slack channel. Once they committed full participation, they would be invited to a slack channel. We attempted to employ this channel to send quick messages and facilitate informal interaction. However, it did not work well—the software is not ubiquitously adopted in East Asia. Meanwhile, participants seem to like to prefer one-to-one private online messages. Meanwhile, due to the low rate of adaption, announcements were still primarily communicated by emails—we were not fully confident whether our messages reach all participants from our slack channel.
+
+The major pre-arrival task for our participants was to design their reading groups. Our three organizers, according to the site theme (“network science”), came up with several topics that participants could freely select from when they received the admission letters. We put them into four groups that satisfy their interests, consider their backgrounds, and balance the participant disciplines in each group. We then asked them to set the format of reading groups and compiled a reading list for each group in May. Only half of our groups finished the task and sent the list back on time. Indeed, it is not too realistic to ask participants to work too much before the event, especially the group task, particularly given that they did not know each other, and our participants were mostly busy senior PhDs or junior professors. We should lower our expectations on pre-arrival tasks.
+
+Meanwhile, we asked our participants to give us their preferences on private meetings with invited speakers, and their willingness to present their own work in the second week. We asked each participant to list at most four speakers (ordered) he/she wanted to meet. And this way of assigning private meetings works pretty well. No one complained about the fairness of our assignment.
+
+Finally, to help our participants easily identify helpful information, we compiled a “handbook” (a google doc) which contains the schedule, the zoom link, the reading list, and all arrangements. We sent it to our participants 3 days before the event. An advantage of this kind of handbook is that this is editable and we could easily change content even after we sent the read-only link to our participants.
+
+### 3. First week
+
+Our first week is composed of four main components - speed dating, reading group, guest lectures, and group project formation. From Monday to Thursday, we host a speed dating session, a reading group session, and a guest lecture session every day. Friday is mainly for group project formation.
+
+Speed dating was designed to encourage interactions among participants. In this online format, we miss many naturally occurring interactions, which would be extremely beneficial for them to get to know the research interests of each other and establish academic connections. We therefore designed this speed dating session. We shuffled participants into zoom breakout rooms. Each breakout room contains 3-4 participants. They were encouraged to discuss either research or personal interests. After a few sessions of speed dating, participants got to know and make friends with each other. 
+
+Reading groups are lectures led by each pre-assigned group. We had four reading groups so every group had about 7 people. Each group was asked to present a topic in network science — introduction and models; machine learning; social contagion/collective intelligence, and misinformation/polarization. Each reading group session lasted for 90 minutes. The reading group materials turned out to be high-quality and provided guideline participants to explore their group project topics. 
+
+On Friday of the first week, participants have two 90-minute speed-dating-like sessions to discuss research ideas for the group project. We used a google spreadsheet for those who have concrete research ideas to write them down. Each research idea corresponded to a breakout room. Other participants joined the break rooms to explore the research idea that interested them the most. By the end of Friday, most participants found their group and started working on the project. We had six groups in total. Most groups had diverse participant backgrounds, which was what I hoped to see. 
+
+We have 10 guest lectures throughout our event. The topics covered agent based modeling for networks, statistical models for networks, machine learning for networks, diversity and networks, misinformation, networks for scientific collaboration, social influence and social media. These topics were highly relevant to network science and participants’ research interests.
+
+We accommodated 1:1 sessions following each guest lecture. Each session lasted for 1 hour and contained 4 slots. In each time slot, 1-3 participants met with the speaker, asking each question regarding their talk or other general questions. They met in one breakout room. At the same time, participants who did not sign up for the 1:1 entered other breakout rooms. We asked them to brainstorm research ideas in the first week and worked with team members on projects in the second week.
+
+
+### 4. Second week
+
+Our second week is composed of three main components - group projects, guest lectures, and participant presentations. From Monday to Thursday, we host a group project meeting session, a participant presentation session, and a guest lecture session. Friday is mainly for the group project final presentation.
+
+The group project meeting session is mainly designed to help participants to meet each other every day to proceed with the projects. They discussed their projects in their breakout rooms separately. 
+
+About 20 participants signed up to present their own research projects. Each talk lasted for 15 minutes including Q&A. Both talks and participant feedback were in general high quality. 
+
+On the last day, we asked all groups to present their projects. Each group presentation lasted for 30 minutes; and we encouraged 15 minutes’ presentation plus 15 minutes’ Q&A. Most group projects have made good progress — they either presented very detailed research project proposals or preliminary results.
+
+At the end of the last day, we hosted a small social event. We took photos on zoom and officially said good-bye. 
+
+### 5. Post-departure 
+After SICSS was over, we encouraged participants to apply for the post-SICSS grants, and we encouraged them to stay in touch with the SICSS community through our Slack and Facebook groups. Our participants also plan to organize an offline meetup in Beijing. 
+
+### 6. Challenge of online format
+Here are some challenges we encountered from organizing our site:
+- How to attract people to a two-week online event (intriguing topic; high-quality speakers)
+- How to let people stay for two weeks (community-building; some rules to regulate attendance)
+- How to inform participants of all relevant information (an online dynamic handbook; email notifications)
+- How to build community virtually (abundant social events; high-quality participants)
+- How to ask participants to work before the event (it is hard to do; lower the expectation)
+- How to avoid zoom hacking and online talk accidents (prepare plan B; pretest the software)
+- How to ask participants to organize their group projects (put one hour in each day of the second week as compulsory group project time to let them work together so that they were mindful of other groups’ progress; free to attend/quit a group)
+
+
+
+
 <hr />
 
 <h2 class="display-4" id="bologna">SICSS-Bologna</h2>
@@ -1470,72 +1550,156 @@ Attendee composition
     - Is their project idea clear, specific and feasible?
     - Do they have specific learning goals?
     - How unique is their academic and work experience?
-Have they articulated specific suggestions that might make the virtual environment of SICSS 2021 better?
-Do they have strong potential in academic research?
-Do they show a track record in collaboration? Would they provide learning opportunities to other attendees?
-Correlation of the three organizers' scores is quite low. 
+    - Have they articulated specific suggestions that might make the virtual environment of SICSS 2021 better?
+    - Do they have strong potential in academic research?
+    - Do they show a track record in collaboration? Would they provide learning opportunities to other attendees?
+  - Correlation of the three organizers' scores is quite low. 
 
 
-We encouraged attendees to form groups at the stage of applications. This was an intentional choice because we believed this method would drive up group registration as well as encourage attendees to begin thinking about potential projects they want to work on in week 2. Around half of our attendees had formed groups at the time of registration. 
-We accepted 25 attendees and decided to hire 1 applicant as our TA. We had a waitlist of 10. All accepted applicants made a security deposit of NTD $1,000 (USD$35). One had to withdraw because of parental commitment. One did not show up and make any communication. In total, we had 24 participants including our TA. 
-Lesson learned
-In 2022, we plan to repeat our design of encouraging formation of groups prior to the event. 
-We should formulate scoring criteria among organizers prior to giving the scores. 
-Week 1
-Group activities
-On the following topics, we followed the main SICSS materials on group activities.
-Successes
-In the ethics discussion activities, which is the first ice-breaker between participants, each group had lively dialogue based on their background knowledge. Each group had unique opinions to share when emerging back to the big group. 
-Curriculum
-We had the Application Programming Interfaces, Text Analysis, and Screen scraping/crawler group activities in the first week. We not only lectured the materials but also demoed the coding process for attendees. Attendees practiced doing these skills, and thought of potential research projects which may apply the natural language processing techniques.
-Challenges
-At the beginning of the code-along sessions, the familiarity level differences had some members doing the required task slowly and some others finding the course too easy for them. We soon adjusted the settings of the breakout rooms based on their proficiency — one for those who followed the steps of the tutorials and another for advanced attendees to discuss more on the topic.
-Flash talks
-Our attendees were from various disciplines, such as Computer science, education, political science, social work, and so on. Attendees tried to share their expertise and previous projects that are related to computational social science in 15 minutes, and discussion/QA 15 minutes on Friday of Week 1.
+- We encouraged attendees to form groups at the stage of applications. This was an intentional choice because we believed this method would drive up group registration as well as encourage attendees to begin thinking about potential projects they want to work on in week 2. Around half of our attendees had formed groups at the time of registration. 
+
+- We accepted 25 attendees and decided to hire 1 applicant as our TA. We had a waitlist of 10. All accepted applicants made a security deposit of NTD $1,000 (USD$35). One had to withdraw because of parental commitment. One did not show up and make any communication. In total, we had 24 participants including our TA. 
+
+- Lesson learned
+  - In 2022, we plan to repeat our design of encouraging formation of groups prior to the event. 
+  - We should formulate scoring criteria among organizers prior to giving the scores. 
+
+**Week 1**
+
+- Group activities
+  - On the following topics, we followed the main SICSS materials on group activities.
+  - Successes
+    - In the ethics discussion activities, which is the first ice-breaker between participants, each group had lively dialogue based on their background knowledge. Each group had unique opinions to share when emerging back to the big group. 
+  - Curriculum
+    - We had the Application Programming Interfaces, Text Analysis, and Screen scraping/crawler group activities in the first week. We not only lectured the materials but also demoed the coding process for attendees. Attendees practiced doing these skills, and thought of potential research projects which may apply the natural language processing techniques.
+  - Challenges
+    - At the beginning of the code-along sessions, the familiarity level differences had some members doing the required task slowly and some others finding the course too easy for them. We soon adjusted the settings of the breakout rooms based on their proficiency — one for those who followed the steps of the tutorials and another for advanced attendees to discuss more on the topic.
+  - Flash talks
+    - Our attendees were from various disciplines, such as Computer science, education, political science, social work, and so on. Attendees tried to share their expertise and previous projects that are related to computational social science in 15 minutes, and discussion/QA 15 minutes on Friday of Week 1.
 
 
-Week 1 and 2 
-Guest lectures
-Successes
-Two rounds of lecture and Q&A. Our guest lecture is 2 hours long. We divided it into two sessions so that we have two rounds of Q&A. 
-Most guest speakers delivered quality talks and generated a high amount of interaction during the Q&A sessions. 
-Challenges
-Our speaker roster was not gender-balanced. We had 5 men and 1 woman as guest speakers. Some attendees gave suggestions on a list of women researchers that we can reach out to in the future SICSS-Taiwan events. 
-Lesson learned
-Some guest speakers did not establish the right understanding of who the audience was, resulting in talks that are below expectation. 
-Attendees suggested organizers explicitly frame how the talks fit under the umbrella concept of computational social science to help the audience make connections between the guest lectures and the main SICSS curriculum. 
-We will build a list of researchers in computational social science from the input of SICSS-Taiwan 2021 participants for us to build a gender-balanced speaker roster in 2022.
-Delayed viewing of SICSS Festival
-This year, we tried to participate in the festival by viewing the recorded talks on YouTube. We allocated 1.5 hours where the first 10 minute was an introduction, followed by 40 minutes of watching the video on our own, and 40 minutes of discussion of the materials. It was a new format for most attendees and worked well virtually. It is a useful method to account for time zone differences from most other sites as well as provides enough time for facilitators to prepare discussion questions. 
-The two talks we watched and discussed are Digital and computational demography (2020) and Deep learning and causal inference (2021).
-Because we want to have some group activities in addition to the research project in week 2 to formulate discussion outside of the research group, we had some guest lectures and viewing of the SICSS festival in both weeks 1 and 2. Some attendees expressed that the amount of time on guest lectures during week 2 meant less time for them to work on week 2 projects. In 2022, we should be mindful of this trade-off, possibly limiting the total time on non-project session to 15% of week 2.     
+**Week 1 and 2 **
+ - Guest lectures
+    - Successes
+      - Two rounds of lecture and Q&A. Our guest lecture is 2 hours long. We divided it into two sessions so that we have two rounds of Q&A. 
+      - Most guest speakers delivered quality talks and generated a high amount of interaction during the Q&A sessions. 
+    - Challenges
+      - Our speaker roster was not gender-balanced. We had 5 men and 1 woman as guest speakers. Some attendees gave suggestions on a list of women researchers that we can reach out to in the future SICSS-Taiwan events. 
+    - Lesson learned
+      - Some guest speakers did not establish the right understanding of who the audience was, resulting in talks that are below expectation. 
+      - Attendees suggested organizers explicitly frame how the talks fit under the umbrella concept of computational social science to help the audience make connections between the guest lectures and the main SICSS curriculum. 
+      - We will build a list of researchers in computational social science from the input of SICSS-Taiwan 2021 participants for us to build a gender-balanced speaker roster in 2022.
+ - Delayed viewing of SICSS Festival
+    - This year, we tried to participate in the festival by viewing the recorded talks on YouTube. We allocated 1.5 hours where the first 10 minute was an introduction, followed by 40 minutes of watching the video on our own, and 40 minutes of discussion of the materials. It was a new format for most attendees and worked well virtually. It is a useful method to account for time zone differences from most other sites as well as provides enough time for facilitators to prepare discussion questions. 
+    - The two talks we watched and discussed are Digital and computational demography (2020) and Deep learning and causal inference (2021).
+- Because we want to have some group activities in addition to the research project in week 2 to formulate discussion outside of the research group, we had some guest lectures and viewing of the SICSS festival in both weeks 1 and 2. Some attendees expressed that the amount of time on guest lectures during week 2 meant less time for them to work on week 2 projects. In 2022, we should be mindful of this trade-off, possibly limiting the total time on non-project session to 15% of week 2.     
 
-Week 2
-Research projects 
-21 of our 24 participants were involved in a research project. They formed 7 groups in total.
-In our application process, we encourage applicants to formulate their own research project and group. 
-At the beginning of the research speed matching process, 13 participants have formed groups and decided on tentative topics. All of them still participated in the matching process to discuss different topics. During the break out rooms in the speed matching process, some attendees enjoyed the opportunities beyond their original group members, while few felt awkward and did not enjoy the structureless process. 
-Group formation process took place in both the speed dating segment and informal segment. 
-We had a mid-point presentation on Wednesday afternoon where groups shared briefly on their progress. Many groups received relevant feedback from other attendees during this time. Many groups were able to act on the feedback to make their projects better in the next two days. We believe the feedback exchanged in this mid-point presentation was very helpful and will keep this feature in the future. 
-Case of TA’s group
-During the speed matching process, TA decided to join two attendees for sharing mutual topics of interest. 
-Formed by members from diverse disciplines, the group had a clear division of labor and members shared the methodologies and techniques during discussion.
-On the demo day, the three members respectively presented the question, result and implication parts.
-After the SICSS workshop, the group members have been cooperating to continue the preliminary group work.  
-Demo Day
-Public event, peak attendance was around 65 participants. Participants from SICSS-Hong Kong and SICSS-Tokyo also joined the talks throughout the day.
+**Week 2**
+
+- Research projects 
+  - 21 of our 24 participants were involved in a research project. They formed 7 groups in total.
+  - In our application process, we encourage applicants to formulate their own research project and group. 
+  - At the beginning of the research speed matching process, 13 participants have formed groups and decided on tentative topics. All of them still participated in the matching process to discuss different topics. During the break out rooms in the speed matching process, some attendees enjoyed the opportunities beyond their original group members, while few felt awkward and did not enjoy the structureless process. 
+  - Group formation process took place in both the speed dating segment and informal segment. 
+  - We had a mid-point presentation on Wednesday afternoon where groups shared briefly on their progress. Many groups received relevant feedback from other attendees during this time. Many groups were able to act on the feedback to make their projects better in the next two days. We believe the feedback exchanged in this mid-point presentation was very helpful and will keep this feature in the future. 
+- Case of TA’s group
+  - During the speed matching process, TA decided to join two attendees for sharing mutual topics of interest. 
+  - Formed by members from diverse disciplines, the group had a clear division of labor and members shared the methodologies and techniques during discussion.
+  - On the demo day, the three members respectively presented the question, result and implication parts.
+  - After the SICSS workshop, the group members have been cooperating to continue the preliminary group work.  
+- Demo Day
+  - Public event, peak attendance was around 65 participants. Participants from SICSS-Hong Kong and SICSS-Tokyo also joined the talks throughout the day.
 7 groups presented their work. Each group had 30 minutes for talk and Q&A.
 
 
-Post-SICSS
-In order to maintain the community beyond the two week workshop, we have been (or will be) doing the following 
-1:
-Organizing committee is meeting with attendees 1:1s for 45 to 60 minutes to discuss whether their expectations were fulfilled, whether/how they aim to continue on their research projects, and what suggestions they have to improve SICSS.
-During 1:1s, some attendees, especially women, expressed that SICSS-Taiwan provided them with opportunities to build confidence in trying out computational methods.
-In-person meet-up
+**Post-SICSS**
+- In order to maintain the community beyond the two week workshop, we have been (or will be) doing the following 
+- 1:
+  - Organizing committee is meeting with attendees 1:1s for 45 to 60 minutes to discuss whether their expectations were fulfilled, whether/how they aim to continue on their research projects, and what suggestions they have to improve SICSS.
+  - During 1:1s, some attendees, especially women, expressed that SICSS-Taiwan provided them with opportunities to build confidence in trying out computational methods.
+- In-person meet-up
 Attendees suggested ideas for in-person meet-ups at the closing activity. 
-Follow up events/study groups online
+- Follow up events/study groups online
 We are using past talks from SICSS (starting with Brandon Stewart’s talk on topic models in 2019) to have bi-weekly online study group. 
+
+
+<hr />
+
+<h2 class="display-4" id="tokyo">SICSS-Tokyo</h2>
+
+
+SICSS-Tokyo took place from July 12-16, 2021, as a one-week event. The organizers were Hirokazu Shirado and Makiko Nakamuro and the teaching assistant was Atsushi Ueshima. We hosted the site virtually via Zoom. This was the first time for SICSS-Tokyo. The post-mortem discusses our application process, onboarding, event week, and self-review.
+
+### Application Process
+We prepared the SICSS-Tokyo website in December 2020. In addition to the English version, we included the Japanese version on the website because we were concerned that some Japanese candidates might hesitate to apply due to the language barrier. In fact, we received a couple of emails to ask about what language we would use during the application period. 
+
+We began our outresearch in February 2021. To recruit a wide range of participants, we sent the advertisement to several professional email lists as well as posted on social media via organizers’ networks. We also sent the ad to the applicants of the SICSS-Tokyo 2020 that we had canceled due to the COVID-19 pandemic. However, we had difficulty finding effective outreach because the concept of “computational social science” was less common yet in Japan. (We’re also afraid that it might be mistakenly understood because the term is translated into “calculational” social science in Japanese). There is room for improvement in outreach (see below).
+
+Our application deadline was March 12, 2021, and we informed participants we would get back to them by early April. The application asked for name, email address, institution, career stage, discipline, preferred language (English or Japanese), as well as a CV, research statement, and writing sample. We had optional fields for gender. We did not require letters of recommendation. We created a free Gmail account for the institution and used a google form to gather the information.
+
+We received 19 applications and accepted 17. Surprisingly to us, over 25% of applications came outside of Japan, such as the USA and South Korea, even with the time difference. Next time, we should advertise SICSS-Tokyo not only to researchers who live in Japan, but also to junior researchers worldwide who are interested in the contents of SICSS-Tokyo.
+
+Each organizer and TA went through all applications and evaluated whether to accept them separately. Because our evaluation was the same, we did not need further meetings to achieve a consensus. Three applicants (including 19) submitted their applications after the due date. We evaluated them as well as the other applicants. We completed the selection process by March 20. 
+
+### Onboarding
+We let the applicants know the result on March 22 and confirm the attendance of accepted applicants via another google form. All the 17 applicants accepted our offer, but eventually, one canceled just before the event due to a change of their university’s schedule. As a result, SICSS-Tokyo had 16 participants. We created a google group for SICSS-Tokyo and used the mailing list as well as Slack to inform participants of the pre-requirement and updated schedule. We also requested participants to provide a picture and a short bio for the SICSS website using the mailing list. One participant did not provide the information because their institution did not allow them. We needed the mailing list even with Slack because not all the participants were familiar with Slack. 
+
+The main organizer (Hirokazu Shirado) and the TA (Atsushi Ueshima) had weekly one-hour meetings from May 31 through July 21. The meetings helped us prepare the event contents, check the progress on time, and share improvements. 
+
+### Event week
+SICSS-Tokyo was a one-week event in 2021, from July 12-16. We decided on this period considering the typical academic schedule in Japan, where a semester ends in mid-July. However, some participants could not attend the event fully because they needed to participate in classes and tests. This schedule change of their universities happened because of the pandemic situation and the Olympics in Japan.
+
+We set up three goals of participants for SICSS-Tokyo 2021:
+Learn about computational social science and its techniques
+Develop their research ideas in computational social science
+Develop their academic network
+In doing so, we provided them three components: live lectures, research-idea discussions, and participants’ talks. We decided not to run analytical and programming exercises because we found a considerable variation in participants’ interests and programming skills. Instead, we laid weight on developing research concepts in SCISS-Tokyo. We also decided to give live lectures rather than recorded ones.
+
+Our schedule was as follow: 
+Day1: we had welcome remarks; an intro lecture (Hiro), Hirokazu Shirado’s research talk (Hiro), and each participant’s short research talk (Atsushi).
+Day 2: we had a digital trace data lecture (Hiro), discussions on digital trace data (Hiro), and an automated text analysis lecture (Atsushi).
+Day 3: we had an experiments lecture (Hiro), discussions on experiments (Hiro), and an in-class experiment (Hiro).
+Day 4: we had a surveys lecture (Hiro), discussions on surveys (Atsushi), and an ethics lecture (Atsushi).
+Day 5: we had a frontier of computational social science lecture (Hiro) and each participant’s research idea pitch (Hiro).
+The name in brackets presents who led the component. When we completed the SICSS-Tokyo, we asked them to give us the post-survey.
+
+### Self-review
+Overall, participants actively engaged in all the lectures and discussions. They gave many questions and comments on each content. More importantly, these questions and comments allowed the participants to go forward with their own work or/and find a new research direction. Thus, we think the event structure worked well for our goals of SICSS-Tokyo. If we run an offline two-week event, we might have wanted to add guest lectures and participant-led research projects. Also, we might like to exchange some topics such as surveys with social network analysis and machine learning to fit the participants’ interests. It might be better to ask participants in advance their priority to learn in SICSS. 
+
+We found several details that we might want to change:
+We had two discussions in the ethics lecture, but the second discussion (about research improvements from ethical perspectives) was not as active as others. We might need to focus on one discussion (about why one study is ethically acceptable, but the other is not) in the lecture. 
+We should have prepared a more extended time slot for participants’ research idea pitch on the last day. We prepared 1.5 hours, but it actually took 2.5 hours for 14 talks (two participants did not give a talk). 
+Some participants were not familiar with Slack. To make the online space more active, we might want to give a short task for all participants to use Slack at the beginning of the event. 
+
+
+<hr />
+
+<h2 class="display-4" id="zurich">SICSS-zurich</h2>
+
+SICSS-Zürich was hosted at the Center for Law and Economics (CLE) of the Department of Social Sciences (DGESS) at the ETH Zürich. This was the CLE’s second Summer Institute partnership. We were a fully self-funded, virtual partner with an synchronous one-week program (14-18 June 2021).
+The post-mortem follows the following (basically temporal) order: application process, developing the program, pre-arrival/onboarding, first week, and debrief/departure.   
+
+### APPLICATION PROCESS
+We mostly advertised SICSS in Switzerland: 1/ internally in DGESS & MTEC (among PhD students, post-docs, and faculty) 2/ externally in other top Swiss economics and political science department (mostly at San Gallen and University of Zürich). We also used the department’s website and social media presence.For the applications, although some other partner locations used FLUXX, we opted for the more basic but sufficient Google Forms. We were happy with the quantity and the quality of the participants: we could select around 20 participants, focused toward economics and political science applications.
+For the application itself, we would make a few small tweaks to the application itself: we did not ask for a letter of recommendation but asked students to describe their attributes/skills/projects.
+
+### DEVELOPING THE PROGRAM
+In designing and developing the program, we relied on the input of previous participants, speakers, and the SICSS community. We were driven by a self-imposed constraint: we wanted to teach in python as this is the common first language of the teachers. We wanted to have both some teaching inputs, and give the participants some real experience of the tools and concepts. We also wanted to divide the days between zoom and non-zoom time (at least for the students. We ended up with a mixed schedule: teaching inputs in the morning, afternoon working in groups on a problem set, recap on the exercises in the late afternoon.
+
+### PRE-ARRIVAL/ONBOARDING
+We told the students that the summer school would require some knowledge of python even though they could always work in R if needed. Yet, it seems that this information was not really taken seriously. We could have taken a more proactive approach and require that they follow an introduction to python. To cope with that, we dedicated the first afternoon to learning the basics of python (& jupyter notebook) to put everyone on the same page.
+We also circulated a Slack workspace to all participants and organizers. It was also actively used as the main means of communication (meeting links, webpages, papers, further discussions). We did not organize a social event, as we thought that everyone would have already had a lot of screen time.
+
+### FIRST WEEK
+The first week was very similar to the schedules of many other partners. We used the mornings to discuss more deeply some of the key issues of Statistical Learning (Monday); Data Collection (Tuesday); Machine Learning( (Wednesday); Text Analysis (Thursday), and Computer Vision (Friday). We allocated these based on our distribution of skill sets and interest. We did 2 main deviations from Princeton's curricula: statistical learning was more of an introduction, discussing the difference between machine learning and causal inference approach. The lower content of the Monday morning was put to the benefit of an introduction to python (and pandas) in the afternoon. Then, on Friday, we covered computer vision: we were excited to present some new-to-social scientists methods.
+We started every day at 9:30 and ended at 5 pm.
+
+The afternoons were organized around the activities which uniformly followed the small group activities and returning to a large group to debrief. The most successful approach was to group students together based on common research questions & diverse technical skills: this way, they could learn from each other as well. This was largely successful although by the end of the week, it was clear that if we could have mixed up the pedagogy, that might have been appreciated. We also benefited from important inputs from participants, who presented some computing tools that they found useful (julia, docker container...).
+
+We overall thought that the online nature was ok, but that it was limited by the time that everyone can spend interaction through a screen. It seems that our slack channel was more useful than the previous year, which shows that there is at least some substitutability. One important content that the participants really liked was that everyone was contributing to the content, providing interesting resources, tools and approaches to the daily subject of interest: these resources were curated and made available on our github.
+
+### POST-SICSS
+The slack channel remained active for a few weeks but seems dead by now.
 
 
 
