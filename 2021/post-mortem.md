@@ -35,7 +35,7 @@ The purpose of this document is to describe a) what we did, b) what we think wor
 
 This document includes post-mortem reports from all of our locations in order to facilitate comparisons. As you will see, different sites did things differently, and we think that this kind of customization was an important part of how we were successful.
 
-<h2 class="display-4" id="princeton">SICSS-Princeton organized by Chris Bail and Matthew Salganik</h2>
+<h2 class="display-4" id="princeton">SICSS-Princeton</h2>
 
 We’ve divided the post-mortem into 6 main sections: 1) outreach and application process; 2) pre-arrival and onboarding; 3) first week; 4) second week (group projects); 5) second week (SICSS Festival); 6) post-departure.
 
