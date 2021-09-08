@@ -8,7 +8,7 @@ layout: about
 
 **Published on:** Sep 5, 2021
 
-We’ve just completed the 2021 [Summer Institutes in Computational Social Science](https://sicss.io/). The purpose of the Summer Institutes is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institutes are for both social scientists (broadly conceived) and data scientists (broadly conceived). This summer all of our Institutes were virtual because of COVID-19, but we will still refer to them by their planned physical location. In addition to SICSS-Princeton, which was organized by Chris Bail and Matthew Salganik, there were 20 partner locations run by SICSS alumni.
+We’ve just completed the 2021 [Summer Institutes in Computational Social Science](https://sicss.io/). The purpose of the Summer Institutes is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institutes are for both social scientists (broadly conceived) and data scientists (broadly conceived). This summer all of our Institutes were virtual because of COVID-19, but we will still refer to them by their planned physical location. In addition to [SICSS-Princeton](#princeton), which was organized by Chris Bail and Matthew Salganik, there were 20 partner locations run by SICSS alumni.
 
 - [SICSS-Beijing](#beijing) organized by Yan Leng, Tian Yang and Yuan Yuan.
 - [SICSS-Bologna](#bologna) organized by Filippo Andreatta, Giampiero Giacomello, Marco Albertini, and Matthew Loveless
@@ -35,7 +35,7 @@ The purpose of this document is to describe a) what we did, b) what we think wor
 
 This document includes post-mortem reports from all of our locations in order to facilitate comparisons. As you will see, different sites did things differently, and we think that this kind of customization was an important part of how we were successful.
 
-<h2 class="display-4" id="duke">SICSS-Princeton organized by Chris Bail and Matthew Salganik</h2>
+<h2 class="display-4" id="princeton">SICSS-Princeton organized by Chris Bail and Matthew Salganik</h2>
 
 We’ve divided the post-mortem into 6 main sections: 1) outreach and application process; 2) pre-arrival and onboarding; 3) first week; 4) second week (group projects); 5) second week (SICSS Festival); 6) post-departure.
 
