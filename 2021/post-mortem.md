@@ -638,6 +638,7 @@ Two weeks before the SICSS, we sent them reminders to watch videos of the lectur
 We tried to communicate the expected skill level via a set of exercises students should finish before SICSS starts. However, based on feedback survey responses it seems that about half of the responders did not feel sufficiently prepared for the instruction and project weeks, citing lack of time or noting that they should have read and exercise programming more.
 
 Action point: 
+
 We could have people read lecture materials and watch videos further prior to the event (say, 4 weeks before), and send a reminder one or two weeks prior to the event.
 
 The technical background is mixed; some people are pretty good at coding but others are not. We can send special reminders to people that are relatively unskillful at coding to watch the coding bootcamp material and practice.
@@ -676,14 +677,15 @@ Students may find that it would be more helpful to have office hours. Currently 
 
 ### 6. Final Remarks
 
-*Outreach*
+Outreach:
+
 Do more social media advertising. Currently it’s mostly refined to universities through email chains.
 
-*Plan and Time*
+Plan and Time:
 
 If we are going to have a flip-classroom model next year, one potential idea is to wait for two weeks and start around the middle of July, when most Chinese universities finish their semester. Of course this depends on whether we want to recruit mainland Chinese as a major source of applicants.
 
-*Time of SICSS Festivals*
+Time of SICSS Festivals:
 
 Currently the time zones make it very hard for people in Asia time zone to participate. It’s all after midnight; some of them are around 2AM. Of course people can watch the recordings later, but recordings are not available until the next week. So students cannot discuss what they have participated in because very few can stay up to that late.
 
