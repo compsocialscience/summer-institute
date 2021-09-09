@@ -1375,7 +1375,7 @@ It was challenging to a two-week long summer institute completely online, but we
  
 Ilya Kashintsky plotted where SICSS-Oxford participants and organisers where coming from and live. 
 
-<img src="https://i.ibb.co/7SvPk9m/ox1.png" alt="" width="600">
+<img src="https://i.ibb.co/GWP8nfm/ox1.png" alt="" width="600">
 
 Smiling faces after two weeks of SICSS-Oxford. 
 
