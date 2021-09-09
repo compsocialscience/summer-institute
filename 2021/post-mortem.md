@@ -1321,7 +1321,7 @@ This event is made possible thanks to the involvement of former SICSS alumni who
 We divided this document into (1) Outreach and application process, (2) Pre-arrival and onboarding, (3) First Week, (4) Second Week, (5) Post-Departure, (6) General Notes. 
 
 
-### Outreach and application process
+### 1. Outreach and application process
  
 Outreach: 
 
@@ -1352,8 +1352,6 @@ We asked the participants every day to fill a survey providing feedback on how i
 In the second week, we worked on the research projects. We started by dividing the participants in clusters performing a minimum/maximum similarity clustering. We spent Monday morning by letting participants speak in breakout rooms and organise themselves in teams. In the following days, the groups used their Zoom accounts to work collaboratively. We organised coffee breaks at 11.00 am and 15.00 pm to answer questions and discuss research ideas with participants. The groups were heterogeneous in terms of affiliations as well as in terms of disciplinary background. We continued to have research talks during the second week, too. We heard from Eszter Hargittai (ETH – joint talk with SICSS-London), Peaks Krafft (UAL Creative Computing Institute – joint talk with SICSS-London), Viktoria Spaiser (University of Leeds - joint talk with SICSS-London), and Robin Lovelace (University of Leeds). 
  
 On the last afternoon of the institute, we had presentations of the projects. Most of the participants were eager to continue working on their projects. We were truly impressed by the high quality of the presentations and the proof of concepts presented given that it was all done online in an extremely short time-frame. An overview of the projects is as follows:
-
-4.1 Projects 
 
 - Exploring recent tweets about the Spanish enclave of Ceuta, William Allen (University of Oxford), Katharina Tittel (Sciences Po Paris), Yuru Li (University of Bremen), Mobarak Hossain (University of Oxford)
 
