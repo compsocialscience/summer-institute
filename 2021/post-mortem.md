@@ -975,7 +975,7 @@ We could put more emphasis on ensuring that participants understand the level of
 One idea is to send a separate email focused only on expectations for participant coding skills and/or provide a two day crash course before the summer school to those with no experience. We think this would be even more effective in circumstances where SICSS is held in person. 
  
  
-### Week 1
+### 3. Week 1
  
 **General Info:**
  
@@ -1023,7 +1023,7 @@ Due to changes in Prolific policy, we did not manage to complete the tasks on Da
 Overall, we had a very enthusiastic team of organisers and TAs that kept up the mood of the summer school. The atmosphere was informal and collaborative, and there was a lot of enthusiasm for the group projects on Week 2.
  
  
-### Week 2
+### 4. Week 2
  
 **Schedule:**
  
@@ -1043,7 +1043,7 @@ It would have been a good idea to advertise the project presentations more widel
  
 The panel discussion lasted 2 hours and with three panelists and a general topic of career directions in SICSS-Law this could have been a shorter session.
  
-### 3. Logistics
+### 5. Logistics
  
 Zoom: we had three Zoom links in total. One for all the invited talks, one for the lunch sessions and group activities, and one for the keynote and panel discussion, which were opened to the public. We originally thought that the guest talks would be attended by some of the faculty members, but in the end these were only attended by SICSS-Law participants and we could have used a single Zoom link. The lunch and group activities Zoom was set to enable participants to move between the breakout rooms freely and to share their screens when needed. 
  
@@ -1106,7 +1106,7 @@ Thanks to the 2020 experience of virtual collaboration, this year the technologi
  
 The experience from the organizers and staff is also quite positive. This is the first time we have made the program and there are many issues that we do not perceive. For example, the administrative process in Portugal is quite slow to get approval from the university, which has delayed the organizations. This would not be the case anymore had if we would organize it again because this is just a one-time problem. Also, the CSS community in Portugal and Spain is not as strong as in many other parts of the world. Therefore, we aim to do a better promotion job in the next year to let more people be aware of the program and to apply. We like our participants a lot, but it would be great if we could have more, to create a dynamic and diverse community.
  
-### Post-departure
+### 4. Post-departure
 
 The participants have received their swag from the SICSS program. Also, there are several of them asking about the participation certificate. We consulted with the SICSS, and it does not seem to have one. We decided to report to the school to issue the certificate instead. I would suggest SICSS considering issuing a program-wide participation certificate, as in many European universities, it is somehow required to justify the time spent during the program.  Next time, we also would like to invite more organizers preferably from other countries like Spain to help us to establish the program in Iberia.
 
