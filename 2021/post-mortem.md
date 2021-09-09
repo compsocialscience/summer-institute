@@ -1040,8 +1040,7 @@ It would have been a good idea to advertise the project presentations more widel
  
 The panel discussion lasted 2 hours and with three panelists and a general topic of career directions in SICSS-Law this could have been a shorter session.
  
- 
-## 3. Logistics
+### 3. Logistics
  
 Zoom: we had three Zoom links in total. One for all the invited talks, one for the lunch sessions and group activities, and one for the keynote and panel discussion, which were opened to the public. We originally thought that the guest talks would be attended by some of the faculty members, but in the end these were only attended by SICSS-Law participants and we could have used a single Zoom link. The lunch and group activities Zoom was set to enable participants to move between the breakout rooms freely and to share their screens when needed. 
  
