@@ -1143,6 +1143,7 @@ Mike’s notes: Joshua makes great points throughout. I agree that integrating s
 
 In the run-up, I think the co-operation of the faculty team also came in handy in lots of places - for example, in dividing responsibilities for funding TAs, sifting through applications and making tough choices at the margins, leading first-week activities, and so on. Also, I was incredibly impressed with Joshua’s leadership throughout the process, and he made sure there were no gaps throughout the two weeks. However, I think there could have been better ways to use the faculty team together. Our contributions tended to be a bit cloistered, without any integration. On some days where I wasn’t the assigned leader, I was essentially an observer (and perhaps vice versa). But I think this was mostly due to the virtual nature of the conference, and I felt more in touch with the folks who were also more involved in the planning. Had we been in person, and planning more explicitly, it perhaps would have felt easier to work together. 
 
+### First Week
 
 **MONDAY**
 
