@@ -1673,7 +1673,7 @@ Some participants were not familiar with Slack. To make the online space more ac
 
 <hr />
 
-<h2 class="display-4" id="zurich">SICSS-zurich</h2>
+<h2 class="display-4" id="zurich">SICSS-Zurich</h2>
 
 SICSS-Zürich was hosted at the Center for Law and Economics (CLE) of the Department of Social Sciences (DGESS) at the ETH Zürich. This was the CLE’s second Summer Institute partnership. We were a fully self-funded, virtual partner with an synchronous one-week program (14-18 June 2021).
 The post-mortem follows the following (basically temporal) order: application process, developing the program, pre-arrival/onboarding, first week, and debrief/departure.   
