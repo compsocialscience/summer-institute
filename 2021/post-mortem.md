@@ -1565,7 +1565,7 @@ Attendee composition
   - In 2022, we plan to repeat our design of encouraging formation of groups prior to the event. 
   - We should formulate scoring criteria among organizers prior to giving the scores. 
 
-**Week 1**
+### Week 1
 
 - Group activities
   - On the following topics, we followed the main SICSS materials on group activities.
@@ -1579,7 +1579,7 @@ Attendee composition
     - Our attendees were from various disciplines, such as Computer science, education, political science, social work, and so on. Attendees tried to share their expertise and previous projects that are related to computational social science in 15 minutes, and discussion/QA 15 minutes on Friday of Week 1.
 
 
-**Week 1 and 2**
+### Week 1 and 2
  - Guest lectures
     - Successes
       - Two rounds of lecture and Q&A. Our guest lecture is 2 hours long. We divided it into two sessions so that we have two rounds of Q&A. 
@@ -1595,7 +1595,7 @@ Attendee composition
     - The two talks we watched and discussed are Digital and computational demography (2020) and Deep learning and causal inference (2021).
 - Because we want to have some group activities in addition to the research project in week 2 to formulate discussion outside of the research group, we had some guest lectures and viewing of the SICSS festival in both weeks 1 and 2. Some attendees expressed that the amount of time on guest lectures during week 2 meant less time for them to work on week 2 projects. In 2022, we should be mindful of this trade-off, possibly limiting the total time on non-project session to 15% of week 2.     
 
-**Week 2**
+### Week 2
 
 - Research projects 
   - 21 of our 24 participants were involved in a research project. They formed 7 groups in total.
@@ -1613,7 +1613,7 @@ Attendee composition
 7 groups presented their work. Each group had 30 minutes for talk and Q&A.
 
 
-**Post-SICSS**
+### Post-SICSS
 - In order to maintain the community beyond the two week workshop, we have been (or will be) doing the following 
   - Organizing committee is meeting with attendees 1:1s for 45 to 60 minutes to discuss whether their expectations were fulfilled, whether/how they aim to continue on their research projects, and what suggestions they have to improve SICSS.
   - During 1:1s, some attendees, especially women, expressed that SICSS-Taiwan provided them with opportunities to build confidence in trying out computational methods.
