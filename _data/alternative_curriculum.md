@@ -23,6 +23,12 @@ In addition to the main videos and course materials developed by SICSS Co-Founde
 #### Howard/Mathematica 
 - [Materials](https://sicss.io/2021/howard-mathematica/schedule) 
 - [Recorded videos](https://www.youtube.com/channel/UCIWamztabv6n47NSBZTYa2g/videos)
+- [Takeaway Sheet: Day 1 Introduction and Ethics](https://docs.google.com/document/d/1LJfGgzdPzBcJNGSsFZcMH79nPKAxu6CIUT55Gygqkkc/edit?usp=sharing)
+- [Takeaway sheet: Day 2 Collecting Digital Trace Data](https://docs.google.com/document/d/13lPvBhJwo2P_xH-2Hu6avews-isoYoEBV8i4r4_-gtk/edit?usp=sharing)
+- [Takeaway Sheet: Day 3 Automated Text Analysis](https://docs.google.com/document/d/1BT4LUe6Pikzyenm4g211rNHMEzhu0C53LKNntIDFAdo/edit?usp=sharing)
+- [Takeaway Sheet: Day 4 Surveys in the Digital Age](https://docs.google.com/document/d/13VMEezGWPVXdsS2QPZrBlZ6dVKeg8C7fCPV7qEc1RWY/edit?usp=sharing)
+- [Takeaway Sheet: Day 5 Mass Collaboration](https://docs.google.com/document/d/13aojCBDBCIpMhaNzlBcRCc1WPkVpaBx61Obx5qnbWQA/edit?usp=sharing)
+- [SAGE Ocean Blog Post: Uncovering new keys to countering anti-Black racism and inequity using computational social science](https://ocean.sagepub.com/blog/diversity/uncovering-new-keys-to-countering-anti-black-racism-and-inequity-using-computational-social-science)
 
 #### Istanbul 
 - [Materials](https://sicss.io/2021/istanbul/schedule) 
