@@ -9,8 +9,8 @@
 - date: 2021-06-14
   name: Introduction and Ethics
   events:
-    - name: "9:45 - 10:00 Housekeeping"
-    - name: "10:00 - 13:00 Lecture: Introduction to reproducible workflows"
+    - name: "10:15 - 10:30 Housekeeping"
+    - name: "10:30 - 13:00 Lecture: Introduction to reproducible workflows"
     - name: "13:00 - 14:00 Lunch"
     - name: "14:00 - 16:00 Exercise: Reproducible workflows"
     - name: "16:00 - 18:00 Oxford-London Joint Research Talk: David Lazer"
@@ -30,10 +30,9 @@
     - name: "10:00 - 13:00 Lecture: Introduction to Non-Probability Samples"
     - name: "13:00 - 14:00 Lunch"
     - name: "14:00 - 16:00 Exercise: Non-Probability Samples"
-    - name: "16:00 - 18:00 Research Talk: Hanna Furnas" 
-- date: 2021-06-17
 
-  name: Text as data 
+- date: 2021-06-17
+  name: Text as Data 
   events:
     - name: "10:00 - 13:00 Lecture: Introduction to Text as Data"
     - name: "13:00 - 14:00 Lunch"
@@ -46,7 +45,7 @@
     - name: "10:00 - 13:00 Lecture: Introduction to ML and Computer Vision"
     - name: "13:00 - 14:00 Lunch"
     - name: "14:00 - 16:00 Exercise: ML and Computer Vision"
-    - name: "16:00 - 18:00 Research Talk: Saul Newman" 
+    - name: "16:00 - 17:00 Research Talk: Saul Newman" 
 
 - date: 2021-06-19
   name: Geospatial data and analysis 
@@ -57,7 +56,7 @@
 - date: 2021-06-21
   name: Group Projects Work
   events:
-    - name: "10:00 - 13:00 Brainstorming/sorting for group formation in the morning"
+    - name: "10:00 - 13:00 Brainstorming/sorting for group formation"
     - name: "13:00 - 14:00 Lunch"
     - name: "14:00 - 16:00 Groups work on projects"
     - name: "16:00 - 18:00 Research Talk: Alexandra A. Siegel" 
@@ -72,7 +71,6 @@
   events:
     - name: "10:00 - 12:00 Oxford-London Joint Research Talk: Peaks Krafft"
 
-
 - date: 2021-06-24
   name: Group Projects Work
   events:
@@ -82,5 +80,5 @@
 - date: 2021-06-25
   name: Present group projects
   events:
-    - name: "12:00 - 16:00 Present group projects"
-    - name: "16:00 - 16:30 Debrief and conclusion"
+    - name: "14:00 - 17:00 Present group projects"
+    - name: "17:00 - 17:30 Debrief and conclusion"

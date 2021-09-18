@@ -1,17 +1,17 @@
 # Lesson Plan
-## SICSS-Maastricht 2020
+## SICSS-Maastricht 2021
 ## Day 2, Digital Trace Data
 ## Based on activity for Day 2 at SICSS-Duke
 
 ### Introduction
 
-The videos associated with Day 2 of SICSS 2020 covered a broad range of topics including screen-scraping, working with APIs, and building apps and bots for social science research. Some of you have already had experience with some of these issues-- but for others, this may have been your first time collecting digital trace data. This group exercise is designed to find a balance between practicing rudimentary skills (for those of you with little or no experience in this area) and cutting edge techniques (for those of you with extensive expertise in this area). As an added bonus, this exercise not only challenges you to practice your coding skills, but to think about how to ask legal research questions that could be addressed using digital trace data (see also the Note below). For those of you who does not have a legal background, you can practice formulating research questions that contribute new knowledge to social science theory.
+The videos associated with Day 2 of SICSS 2021 covered a broad range of topics including screen-scraping, working with APIs, and building apps and bots for social science research. Some of you have already had experience with some of these issues-- but for others, this may have been your first time collecting digital trace data. This group exercise is designed to find a balance between practicing rudimentary skills (for those of you with little or no experience in this area) and cutting edge techniques (for those of you with extensive expertise in this area). As an added bonus, this exercise not only challenges you to practice your coding skills, but to think about how to ask legal research questions that could be addressed using digital trace data (see also the Note below). For those of you who does not have a legal background, you can practice formulating research questions that contribute new knowledge to social science theory.
 
 ### Activity
 
 - You will be assigned to groups of 4-5 people. If possible, we will make sure that in each group there is a person with some experience with collecting digital trace data and/or coding.
 
-- Within your groups, work together (on Zoom or on Slack) to identify a research question that you believe can be answered using digital trace data. You will not have time to answer this question in full today. However, you have watched already 8 flash talks with various ideas for research projects and discuss them over the lunch breaks. You could treat this task as a follow up on those discussions and maybe your conversation today will eventually lead to a group project during the second week of SICSS. It is equally-- or even more likely- it may not. One of the reasons this step is so open-ended is that I want to encourage you to get to know each other, learn from each other, and practice asking questions together.
+- Within your groups, work together (on Zoom or on Slack) to identify a research question that you believe can be answered using digital trace data. You will not have time to answer this question in full today. However, you have watched already 6 flash talks with various ideas for research projects and discuss them over the lunch breaks. You could treat this task as a follow up on those discussions and maybe your conversation today will eventually lead to a group project during the second week of SICSS. It is equally-- or even more likely- it may not. One of the reasons this step is so open-ended is that I want to encourage you to get to know each other, learn from each other, and practice asking questions together.
 
 - Identify a sampling frame to help you answer this research question. For example, if your question is about politics, your sampling frame might be a list of elected officials on Twitter.
 
@@ -30,8 +30,6 @@ The videos associated with Day 2 of SICSS 2020 covered a broad range of topics i
 You have 3 hours for this task. It is up to your group how you allocate this time, including taking breaks. 
 
 ### Notes
-
-- Since the use of digital trace data in legal research is still rare, I have started a [Google doc](https://docs.google.com/document/d/1Iv0hZJgiGQdsGoiH_OqB_7OSeK2ViVV8yg5FLErD5B8/edit?usp=sharing) where I put various ideas for such legal research but also already existing research or research in progress that I have heard about. This document is still developing and we encourage you to add other examples of research or simply digital trace data sources (eg., good APIs giving access to case law in a specific country) that could be useful for legal research. I hope we will keep adding resources there also after SICSS!
 
 - Our TAs - Bogdan Covrig and Thales Bertaglia - will be available either on Slack or Zoom to help you out if you get stuck with the task. They are really eager to help and also learn what you are working on, so simply DM them on Slack if you have any questions. 
 

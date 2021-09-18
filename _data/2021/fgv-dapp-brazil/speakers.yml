@@ -24,11 +24,9 @@
   bio: " Rochelle Terman is an Assistant Professor in the Department of Political Science at the University of Chicago. She specializes in international relations, with an emphasis on international norms, human rights, and the Muslim world. She teaches computational social science at both the undergraduate and graduate levels, including Computational Tools for Social Science. She is a certified instructor with Software Carpentry and Data Carpentry."
   website: http://rochelleterman.com/
  
- 
-- name: Ricardo Dahis
-  image: /assets/images/dahis.jpg
-  bio: "Ricardo is a PhD candidate in Economics at Northwestern University, and co-founder of Base dos Dados. His research focuses on decentralization, public service delivery, deforestation, and racial inequality."
-  website: https://www.ricardodahis.com/
+- name: Fernanda Scovino
+  image: /assets/images/scovino.jpeg
+  bio: "Fernanda Scovino é cofundadora da Base dos Dados e trabalha como Coordenadora Técnica de Governança de Dados na Prefeitura do Rio de Janeiro. Atualmente é também conselheira executiva do Laboratório de Inovação em Políticas Públicas e membro do GT da Sociedade Civil para Governo Aberto da CGU. Formada em Matemática Aplicada pela FGV-EMAp, trabalhou com ciência de dados na Impulso-gov, Elogroup e CTS/FGV."
  
 - name: Cecilia Olliveira
   image: /assets/images/Cecilia.png
@@ -41,10 +39,18 @@
   website: 
  
 - name: Natália Leão
-  image: /assets/images/Natalia.jpg
+  image: /assets/images/Natalia.jpeg
   bio: "Natália Leão is the Head of the Research and Data Department at Gênero and Número, and a Ph.D Student in Sociology at Iesp-Uerj. She works on issues of  gender, race and class inequalities, based on data collection and analysis, since 2007."
   website: 
   
 - name: Daniel Trielli
   bio: "Daniel Trielli is a PhD student at the Media, Technology and Society program at Northwestern. He is researching computational journalism and how news reaches the public in our increasingly algorithmically-defined world."
   image: /2019/chicago/images/trielli.jpg
+  
+- name: Henrique Lorea
+  bio: "Henrique is currently a Data Analytics Tech Manager at PicPay, where he leads a team of data analysts whose purpose is to generate value for business with data. Prior to his 5-year experience  in financial services, Henrique has worked as a data scientist at Pensa, a big data analytics initiative from Rio City Hall, focused on solving urban problems with data. He holds a Bachelor's degree in Architecture and Urbanism and a Master's degree in Urban and Regional Planning."
+  image: /assets/images/henrique.jpg
+
+- name: Daniel Mariani
+  bio: "Formado em ciência biológicas em 2009 pela USP. Trabalhou em estudos genéticos e de transtornos psiquiátricos no Hospital das Clínicas até 2015 quando iniciou carreira no jornalismo de dados no Nexo Jornal. Em 2017 foi para a Folha de São Paulo onde formou o DeltaFolha editoria focada em dados do jornal."
+  image: /assets/images/daniel_mariani.jpg_small

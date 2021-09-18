@@ -11,6 +11,11 @@ image: /assets/images/howard.jpg
 
 ---
 
+<u>OPINION: A lack of diversity in research and analytics is not just unethical — it is dangerous </u>
+<br><font color="grey"><font size="2">July 20, 2021</font></font> 
+<br><i><font size = "2">"We must create better school pipelines for people of color in STEM fields" - read more in this joint op-ed by Wayne A.I. Frederick, M.D., MBA, F.A.C.S., President of Howard University and Paul Decker, Ph.D., President and CEO of Mathematica. </font></i> 
+<br><font size = "1">(Posted by <a href="https://hechingerreport.org/opinion-a-lack-of-diversity-in-research-and-analytics-is-not-just-unethical-it-is-dangerous/">The Hechinger Report</a>)</font>
+
 <u>Interview with Dr. Bahiyyah Muhammad, faculty co-sponsor </u> 
 <br><font color="grey"><font size="2">March 29, 2021</font></font> 
 <br><i><font size = "2">Get to know one of SICSS-Howard/Mathematica’s founding faculty sponsors, Dr. Bahiyyah Muhammad, in this energetic and inspiring video. She shares her thoughts on computational social science and its intersection with her extensive research on the effects of parental incarceration on children in this one-on-one interview with SICSS-Howard/Mathematica lead organizer Naniette Coleman. </font></i> 
@@ -41,12 +46,6 @@ image: /assets/images/howard.jpg
 <u>Ruha Benjamin announced as SICSS-Howard/Mathematica speaker  </u>
 <br><font color="grey"><font size="2">March 28, 2021</font></font> 
 <br><i><font size = "2">Ruha Benjamin, Ph.D., Princeton University Professor, author of the award-winning book Race After Technology: Abolitionist Tools for the New Jim Code, and founder of the Ida B. Wells Just Data Lab, will be a featured speaker at SICSS-Howard/Mathematica this summer. Learn more about Dr. Benjamin on the People page of our website. </font></i> 
-<br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/people">SICSS-Howard/Mathematica</a>)</font>
-
-
-<u>SICSS-Howard/Mathematica Teaching Assistants announced </u>
-<br><font color="grey"><font size="2">March 18, 2021</font></font> 
-<br><i><font size = "2">We are happy to announce that Zanele Munyikwa and Demetrius Murphy have been selected to serve as Teaching Assistants for SICSS-Howard/Mathematica this summer. As TAs, they will conduct office hours before and during the institute, and guide participants through research exercises. Learn more about Zanele and Demetrius on the People page of our website.  </font></i> 
 <br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/people">SICSS-Howard/Mathematica</a>)</font>
 
 

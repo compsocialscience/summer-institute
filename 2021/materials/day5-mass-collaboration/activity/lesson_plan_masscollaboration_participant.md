@@ -33,9 +33,12 @@ You can read more about our approach to ethical data access in our [paper](https
 
 ### Rough schedule
 
-- 1 hour: Prepare a data file for analysis
+- 1 hour: In groups, prepare a data file for analysis. **Before you do any coding, spend at least 5 minutes discussing your plans as a group**. 
 - Break. If you are not happy with your prepared data file, we recommend using the cleaned file that we provided in the folder we emailed you. This will allow you to proceed to the next step.
-- 2 hours: In groups, build predictive models and submit to the [submission site](https://codalab.fragilefamilieschallenge.org/competitions/28). Do not expect to try many different sophisticated models in the time available. A good approach would be to focus on just one outcome of interest and try models of increasing complexity after successfully submitting a basic linear model to the leaderboard.
+- 1 hour & 40 minutes: In groups, build predictive models and submit to the [submission site](https://codalab.fragilefamilieschallenge.org/competitions/36).    
+      - Again, before you do any coding, spend at least 5 minutes discussing your plans as a group.    
+      - Tip: Do not expect to try many different sophisticated models in the time available. A good approach would be to focus on just one outcome of interest and try models of increasing complexity after successfully submitting a basic linear model to the leaderboard.     
+- 5 minutes: Reflect with your small group: What are you taking away from this activity? 
 - 15 minutes: Whole group debrief for your site
 
 
@@ -47,7 +50,7 @@ AT THE END OF THE ACTIVITY, DELETE THE DATA FILES. It is important that the data
 There are three sets of resources that may be helpful.
 
 Resources about preparing data and making a submission:
-- [Submission site](https://codalab.fragilefamilieschallenge.org/competitions/28)
+- [Submission site](https://codalab.fragilefamilieschallenge.org/competitions/36)
 - Here are some tips about [data preparation](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/SICSS_FFC_datacleaning_tips.pdf).
 - To learn about the variables included in the data files, you might use: the [metadata explorer](http://metadata.fragilefamilies.princeton.edu/), use the accompanying [R](https://cran.r-project.org/web/packages/ffmetadata/index.html) and [Python](https://github.com/fragilefamilieschallenge/ffmetadata-py) packages, and/or refer to survey [questionnaires and other documentation](https://fragilefamilies.princeton.edu/data-and-documentation/public-data-documentation).
 - This [blog post](https://www.fragilefamilieschallenge.org/upload-your-contribution/) shows step-by-step how to zip and upload a submission.
