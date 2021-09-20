@@ -16,9 +16,22 @@ image: /assets/images/howard.jpg
 <br><i><font size = "2">"We must create better school pipelines for people of color in STEM fields" - read more in this joint op-ed by Wayne A.I. Frederick, M.D., MBA, F.A.C.S., President of Howard University and Paul Decker, Ph.D., President and CEO of Mathematica. </font></i> 
 <br><font size = "1">(Posted by <a href="https://hechingerreport.org/opinion-a-lack-of-diversity-in-research-and-analytics-is-not-just-unethical-it-is-dangerous/">The Hechinger Report</a>)</font>
 
+
+<u> Timnit Gebru announced as SICSS-Howard/Mathematica speaker </u>
+<br><font color="grey"><font size="2">March 29, 2021</font></font> 
+<br><i><font size = "2"> Timnit Gebru, Ph.D., co-founder of Black in AI and World's 50 Greatest Leaders - Fortune, will deliver the keynote address for SICSS-Howard/Mathematica this summer. Dr. Gebru is a computer scientist whose research and advocacy focus on algorithmic bias and improving diversity in the field of artificial intelligence. She tirelessly sounded the alarm about ethical transgressions while working in the industry, and was recently named one of Fortune’s World’s 50 Greatest Leaders. Learn more about Dr. Gebru on the People page of our website. </font></i> 
+<br><i><font size = "2"> Update - Timnit Gebru's Keynote Address has now been posted <a href="https://youtu.be/ML2LOttMGes">here</a>! </font></i>  
+<br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/people">SICSS-Howard/Mathematica</a>)</font>
+
+<u> Laura Nelson announced as SICSS-Howard/Mathematica speaker </u>
+<br><font color="grey"><font size="2">March 29, 2021</font></font> 
+<br><i><font size = "2"> Laura K. Nelson, Ph.D., Assistant Professor of Sociology at Northeastern University, will be a featured speaker at SICSS-Howard/Mathematica this summer. She uses computational tools, principally automated text analysis, to study social movements, culture, gender, institutions, and organizations. Learn more about Dr. Nelson on the People page of our website. </font></i> 
+<br><i><font size = "2"> Update - Laura Nelson's <a href="https://youtu.be/sZsjzksiD2M">lecture</a> and <a href="https://youtu.be/Up1DrzzhDzw">Q&A</a> have now been posted! </font></i>
+<br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/people">SICSS-Howard/Mathematica</a>)</font>
+
 <u>Interview with Dr. Bahiyyah Muhammad, faculty co-sponsor </u> 
 <br><font color="grey"><font size="2">March 29, 2021</font></font> 
-<br><i><font size = "2">Get to know one of SICSS-Howard/Mathematica’s founding faculty sponsors, Dr. Bahiyyah Muhammad, in this energetic and inspiring video. She shares her thoughts on computational social science and its intersection with her extensive research on the effects of parental incarceration on children in this one-on-one interview with SICSS-Howard/Mathematica lead organizer Naniette Coleman. </font></i> 
+<br><i><font size = "2"> Get to know one of SICSS-Howard/Mathematica’s founding faculty sponsors, Dr. Bahiyyah Muhammad, in this energetic and inspiring video. She shares her thoughts on computational social science and its intersection with her extensive research on the effects of parental incarceration on children in this one-on-one interview with SICSS-Howard/Mathematica lead organizer Naniette Coleman. </font></i> 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2WRhoRgmvvc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 </div>
