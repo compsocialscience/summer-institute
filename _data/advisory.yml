@@ -1,0 +1,23 @@
+- name: Advisory 1
+  image: /assets/images/rhody_photo.jpg
+  bio: "advisory bio"
+
+- name: Advisory 2
+  image: /assets/images/rhody_photo.jpg
+  bio: "advisory bio"
+
+- name: Advisory 3
+  image: /assets/images/rhody_photo.jpg
+  bio: "advisory bio"
+
+- name: Advisory 4
+  image: /assets/images/rhody_photo.jpg
+  bio: "advisory bio"
+
+- name: Advisory 5
+  image: /assets/images/rhody_photo.jpg
+  bio: "advisory bio"
+
+- name: Advisory 6
+  image: /assets/images/rhody_photo.jpg
+  bio: "advisory bio"

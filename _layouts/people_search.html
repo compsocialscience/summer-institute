@@ -70,6 +70,18 @@
           </div>
           <div class="row">
             <div class="col-sm-12">
+              <h2 class="display-4">Advisory Council</h2>
+              <hr />
+              <br />
+            </div>
+            <div class="col-sm-12">
+            {% for advisor in data.advisory %}
+              {% include person.html person=advisor %}
+            {% endfor %}
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-12">
               <h2 class="display-4">Leadership Team</h2>
               <hr />
               <br />
