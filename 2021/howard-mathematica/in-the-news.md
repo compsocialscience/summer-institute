@@ -21,25 +21,8 @@ image: /assets/images/howard.jpg
 <br><i><font size = "2">"Didn’t make it to SICSS-Howard/Mathematica? You can still follow along! All event videos are now posted, including logistics sessions, group activities, guest speaker lectures, Q&A sessions, and more. The videos are linked next to each event on our Schedule & Materials page. </font></i>
 <br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/">SICSS-Howard/Mathematica</a>)</font>
 
-<u>Introducing SICSS-Howard/Mathematica 2021’s participants </u>
-<br><font color="grey"><font size="2">May 15, 2021</font></font> 
-<br><i><font size = "2">"Learn more about SICSS-Howard/Mathematica’s participants on our people page! The cohort consists of doctoral students, pre-tenure faculty, and postdoctoral scholars from HBCUs and PWIs all over the country and the world. Our participants represent a plethora of fields including sociology, psychology, journalism, linguistics, African American studies, STEM, public health, policy, and economics! </font></i>
-<br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/">SICSS-Howard/Mathematica</a>)</font>
-
-<u>Paul Decker to deliver SICSS-Howard/Mathematica’s Closing Plenary speech </u>
-<br><font color="grey"><font size="2">July 20, 2021</font></font> 
-<br><i><font size = "2">"Paul Decker, Ph.D., President and CEO of Mathematica, will deliver SICSS-Howard/Mathematica’s Closing Plenary address on Friday, June 25th, 2021. Decker is an expert in data analytics and has worked to improve public well-being through the use of evidence to improve programs and policy. His speech and Q&A will conclude the two-week institute and congratulate attendees on their newfound computational social science knowledge. </font></i>
- <br><i><font size = "2"> Update - Paul Decker's Closing Plenary has now been posted <a href="https://youtu.be/l8qH8HuhOqk">here</a>! </font></i>
-<br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/">SICSS-Howard/Mathematica</a>)</font>
-
-<u>Dr. Wayne A.I. Frederick to deliver SICSS-Howard/Mathematica’s Opening Plenary speech </u>
-<br><font color="grey"><font size="2">July 20, 2021</font></font> 
-<br><i><font size = "2">"Wayne A.I. Frederick, M.D., MBA, F.A.C.S., President of Howard University, will address SICSS-Howard/Mathematica participants during the institute’s opening plenary and official kick-off on Sunday, June 13th, 2021. Dr. Frederick will introduce attendees to Howard University, co-sponsor of the institute and the first HBCU to ever host a SICSS partner site, in addition to setting a tone of inspiration and motivation for the two weeks to follow. </font></i>
-<br><i><font size = "2"> Update - Dr. Wayne A.I. Frederick's Opening Plenary has now been posted <a href="https://youtu.be/bovJL9GazRo">here</a>! </font></i>
-<br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/">SICSS-Howard/Mathematica</a>)</font>
-
 <u>Interview with Terri Adams, faculty co-sponsor </u>
-<br><font color="grey"><font size="2">March 28, 2021</font></font> 
+<br><font color="grey"><font size="2">June 10, 2021</font></font> 
 <br><i><font size = "2">Watch this new video to learn more about our inaugural faculty co-sponsor at Howard University, Dr. Terri Adams. She shares her path to the professoriate, her past and current research work, and her perspectives on computational social science, in this one-on-one interview with SICSS-Howard/Mathematica lead organizer Naniette Coleman. </font></i>
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2R_w-PQbPD0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
@@ -47,7 +30,7 @@ image: /assets/images/howard.jpg
 <br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/">SICSS-Howard/Mathematica</a>)</font>
 
 <u>Interview with Calvin Hadley, Howard University Event Sponsor of SICSS-Howard/Mathematica </u>
-<br><font color="grey"><font size="2">March 28, 2021</font></font> 
+<br><font color="grey"><font size="2">June 10, 2021</font></font> 
 <br><i><font size = "2">Get to know representatives from SICSS-Howard/Mathematica’s host organizations in this next installation of our interview series. Calvin Hadley serves as Senior Advisor for Strategic Initiatives in the Office of the President at Howard University. Learn more about his work in the President’s office, his journey to being a doctoral student at Howard, and his commitment to supporting the first SICSS at an HBCU. </font></i>
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y-dp19EpEcU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
@@ -55,20 +38,37 @@ image: /assets/images/howard.jpg
 <br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/">SICSS-Howard/Mathematica</a>)</font>
 
 <u>Interview with Akira Bell, Mathematica Event Sponsor of SICSS-Howard/Mathematica </u>
-<br><font color="grey"><font size="2">March 28, 2021</font></font> 
+<br><font color="grey"><font size="2">June 10, 2021</font></font> 
 <br><i><font size = "2">Get to know representatives from SICSS-Howard/Mathematica’s host organizations in this next installation of our interview series. Akira Bell is Senior Vice President and Chief Information Officer of Mathematica. Learn more about her academic path in the STEM field, her professional motivations, and her commitment to supporting the first SICSS at an HBCU. </font></i>
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BVRDqmDMT-0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 </div>
 <br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/">SICSS-Howard/Mathematica</a>)</font>
 
+<u>Introducing SICSS-Howard/Mathematica 2021’s participants </u>
+<br><font color="grey"><font size="2">May 15, 2021</font></font> 
+<br><i><font size = "2">"Learn more about SICSS-Howard/Mathematica’s participants on our people page! The cohort consists of doctoral students, pre-tenure faculty, and postdoctoral scholars from HBCUs and PWIs all over the country and the world. Our participants represent a plethora of fields including sociology, psychology, journalism, linguistics, African American studies, STEM, public health, policy, and economics! </font></i>
+<br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/">SICSS-Howard/Mathematica</a>)</font>
+
+<u>Paul Decker to deliver SICSS-Howard/Mathematica’s Closing Plenary speech </u>
+<br><font color="grey"><font size="2">May 15, 2021</font></font> 
+<br><i><font size = "2">"Paul Decker, Ph.D., President and CEO of Mathematica, will deliver SICSS-Howard/Mathematica’s Closing Plenary address on Friday, June 25th, 2021. Decker is an expert in data analytics and has worked to improve public well-being through the use of evidence to improve programs and policy. His speech and Q&A will conclude the two-week institute and congratulate attendees on their newfound computational social science knowledge. </font></i>
+ <br><i><font size = "2"> Update - Paul Decker's Closing Plenary has now been posted <a href="https://youtu.be/l8qH8HuhOqk">here</a>! </font></i>
+<br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/">SICSS-Howard/Mathematica</a>)</font>
+
+<u>Dr. Wayne A.I. Frederick to deliver SICSS-Howard/Mathematica’s Opening Plenary speech </u>
+<br><font color="grey"><font size="2">May 15, 2021</font></font> 
+<br><i><font size = "2">"Wayne A.I. Frederick, M.D., MBA, F.A.C.S., President of Howard University, will address SICSS-Howard/Mathematica participants during the institute’s opening plenary and official kick-off on Sunday, June 13th, 2021. Dr. Frederick will introduce attendees to Howard University, co-sponsor of the institute and the first HBCU to ever host a SICSS partner site, in addition to setting a tone of inspiration and motivation for the two weeks to follow. </font></i>
+<br><i><font size = "2"> Update - Dr. Wayne A.I. Frederick's Opening Plenary has now been posted <a href="https://youtu.be/bovJL9GazRo">here</a>! </font></i>
+<br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/">SICSS-Howard/Mathematica</a>)</font>
+
 <u>Announcing Bite-Sized Lunchtime Talks at SICSS-Howard/Mathematica </u>
-<br><font color="grey"><font size="2">March 28, 2021</font></font> 
+<br><font color="grey"><font size="2">April 16, 2021</font></font> 
 <br><i><font size = "2">Introducing SICSS-Howard/Mathematica’s Bite-Sized Lunchtime Talks, in which participants have live sessions during the program’s lunchtime hour with organizations and individuals doing pertinent work in the sphere of computational social science. Featured events include a panel with board members of Black in AI, and talks by Data Nutrition and VaryCSS. These lunchtime talks are unique to the SICSS-Howard/Mathematica site - we look forward to tuning in with you this summer! </font></i>
 <br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/">SICSS-Howard/Mathematica</a>)</font>
 
 <u>SICSS-Howard/Mathematica announces two-day pre-institute, Praxis to Power </u>
-<br><font color="grey"><font size="2">March 28, 2021</font></font> 
+<br><font color="grey"><font size="2">April 16, 2021</font></font> 
 <br><i><font size = "2">From June 12 to June 13, participants of SICSS-Howard/Mathematica will attend a two-day pre-institute meant to introduce them to the program. Praxis to Power is the first pre-institute to be held at a SICSS, and is focused on reducing the impact of imposter syndrome on people of color in academic spaces. Participants will be guided through learning and practicing foundational tech skills required for computational social science work, reviewing pre-recorded content, building community with each other, and fostering a safe and welcoming learning environment for the next two weeks. Find the details on our Schedule & Materials page. </font></i>
 <br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/">SICSS-Howard/Mathematica</a>)</font>
 
@@ -92,9 +92,8 @@ image: /assets/images/howard.jpg
 </div>
 <br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/people">SICSS-Howard/Mathematica</a>)</font> 
 
-
 <u>Free Copy of Bit by Bit available to all SICSS-Howard/Mathematica participants  </u>
-<br><font color="grey"><font size="2">March 28, 2021</font></font> 
+<br><font color="grey"><font size="2">March 29, 2021</font></font> 
 <br><i><font size = "2"> All SICSS-Howard/Mathematica participants will receive a FREE copy of Bit by Bit: Social Research in the Digital Age, written by SICSS co-founder Matt Salganik thanks to sponsor Mathematica. It will serve as a textbook for the program, and is "an invaluable resource for social scientists who want to harness the research potential of big data and a must-read for data scientists interested in applying the lessons of social science to tomorrow's technologies” (Princeton University Press). </font></i>
 <br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/">SICSS-Howard/Mathematica</a>)</font>
 
