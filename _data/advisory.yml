@@ -14,6 +14,10 @@
   image: /assets/images/JenniferPan.jpg
   bio: "Jennifer Pan is an Assistant Professor of Political Science, Communications, and Sociology at Stanford University. She studies authoritarian politics using experimental and computational methods with large-scale datasets in China and Saudi Arabia. Her work has been published in prestigious journals such as Science, supported by the National Science Foundation, and recognized by awards from the International Communication Association."
 
+- name: Matthew Salganik
+  image: /assets/images/matt.gif
+  bio: "Matthew Salganik is Professor of Sociology at Princeton University, and he is affiliated with several of Princeton's interdisciplinary research centers: the Office of Population Research, the Center for Information Technology Policy, the Center for Health and Wellbeing, and the Center for Statistics and Machine Learning. His research interests include social networks and computational social science. He is the author of the forthcoming book *Bit by Bit: Social Research in the Digital Age.*."
+
 - name: Duncan Watts
   image: /assets/images/duncan.jpg
   bio: "Duncan Watts is the Stevens University Professor at the University of Pennsylvania, where he is also professor of Computer and Information Science (SEAS), Communications (Annenberg), and Operations, Information, and Decisions (Wharton). Watts is a founding figure in the field of computational social science. His work in social network theory, collective dynamics, and diffusion models has been cited more than 100,000 times."
