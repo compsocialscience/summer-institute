@@ -18,7 +18,7 @@ image: /assets/images/howard.jpg
 
 <u>All SICSS-Howard/Mathematica videos are now posted! </u>
 <br><font color="grey"><font size="2">July 1, 2021</font></font> 
-<br><i><font size = "2">"Didn’t make it to SICSS-Howard/Mathematica? You can still follow along! All event videos are now posted, including logistics sessions, group activities, guest speaker lectures, Q&A sessions, and more. The videos are linked next to each event on our Schedule & Materials page. </font></i>
+<br><i><font size = "2">Didn’t make it to SICSS-Howard/Mathematica? You can still follow along! All event videos are now posted, including logistics sessions, group activities, guest speaker lectures, Q&A sessions, and more. The videos are linked next to each event on our Schedule & Materials page. </font></i>
 <br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/">SICSS-Howard/Mathematica</a>)</font>
 
 <u>Interview with Terri Adams, faculty co-sponsor </u>
@@ -52,13 +52,13 @@ image: /assets/images/howard.jpg
 
 <u>Paul Decker to deliver SICSS-Howard/Mathematica’s Closing Plenary speech </u>
 <br><font color="grey"><font size="2">May 15, 2021</font></font> 
-<br><i><font size = "2">"Paul Decker, Ph.D., President and CEO of Mathematica, will deliver SICSS-Howard/Mathematica’s Closing Plenary address on Friday, June 25th, 2021. Decker is an expert in data analytics and has worked to improve public well-being through the use of evidence to improve programs and policy. His speech and Q&A will conclude the two-week institute and congratulate attendees on their newfound computational social science knowledge. </font></i>
+<br><i><font size = "2">Paul Decker, Ph.D., President and CEO of Mathematica, will deliver SICSS-Howard/Mathematica’s Closing Plenary address on Friday, June 25th, 2021. Decker is an expert in data analytics and has worked to improve public well-being through the use of evidence to improve programs and policy. His speech and Q&A will conclude the two-week institute and congratulate attendees on their newfound computational social science knowledge. </font></i>
  <br><i><font size = "2"> Update - Paul Decker's Closing Plenary has now been posted <a href="https://youtu.be/l8qH8HuhOqk">here</a>! </font></i>
 <br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/">SICSS-Howard/Mathematica</a>)</font>
 
 <u>Dr. Wayne A.I. Frederick to deliver SICSS-Howard/Mathematica’s Opening Plenary speech </u>
 <br><font color="grey"><font size="2">May 15, 2021</font></font> 
-<br><i><font size = "2">"Wayne A.I. Frederick, M.D., MBA, F.A.C.S., President of Howard University, will address SICSS-Howard/Mathematica participants during the institute’s opening plenary and official kick-off on Sunday, June 13th, 2021. Dr. Frederick will introduce attendees to Howard University, co-sponsor of the institute and the first HBCU to ever host a SICSS partner site, in addition to setting a tone of inspiration and motivation for the two weeks to follow. </font></i>
+<br><i><font size = "2">Wayne A.I. Frederick, M.D., MBA, F.A.C.S., President of Howard University, will address SICSS-Howard/Mathematica participants during the institute’s opening plenary and official kick-off on Sunday, June 13th, 2021. Dr. Frederick will introduce attendees to Howard University, co-sponsor of the institute and the first HBCU to ever host a SICSS partner site, in addition to setting a tone of inspiration and motivation for the two weeks to follow. </font></i>
 <br><i><font size = "2"> Update - Dr. Wayne A.I. Frederick's Opening Plenary has now been posted <a href="https://youtu.be/bovJL9GazRo">here</a>! </font></i>
 <br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/">SICSS-Howard/Mathematica</a>)</font>
 
@@ -74,19 +74,19 @@ image: /assets/images/howard.jpg
 
 <u>Timnit Gebru announced as SICSS-Howard/Mathematica speaker </u>
 <br><font color="grey"><font size="2">March 29, 2021</font></font> 
-<br><i><font size = "2"> Timnit Gebru, Ph.D., co-founder of Black in AI and World's 50 Greatest Leaders - Fortune, will deliver the keynote address for SICSS-Howard/Mathematica this summer. Dr. Gebru is a computer scientist whose research and advocacy focus on algorithmic bias and improving diversity in the field of artificial intelligence. She tirelessly sounded the alarm about ethical transgressions while working in the industry, and was recently named one of Fortune’s World’s 50 Greatest Leaders. Learn more about Dr. Gebru on the People page of our website. </font></i>
+<br><i><font size = "2">Timnit Gebru, Ph.D., co-founder of Black in AI and World's 50 Greatest Leaders - Fortune, will deliver the keynote address for SICSS-Howard/Mathematica this summer. Dr. Gebru is a computer scientist whose research and advocacy focus on algorithmic bias and improving diversity in the field of artificial intelligence. She tirelessly sounded the alarm about ethical transgressions while working in the industry, and was recently named one of Fortune’s World’s 50 Greatest Leaders. Learn more about Dr. Gebru on the People page of our website. </font></i>
 <br><i><font size = "2"> Update - Timnit Gebru's Keynote Address has now been posted <a href="https://youtu.be/ML2LOttMGes">here</a>! </font></i>
 <br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/people">SICSS-Howard/Mathematica</a>)</font>
 
 <u>Laura Nelson announced as SICSS-Howard/Mathematica speaker </u>
 <br><font color="grey"><font size="2">March 29, 2021</font></font> 
-<br><i><font size = "2"> Laura K. Nelson, Ph.D., Assistant Professor of Sociology at Northeastern University, will be a featured speaker at SICSS-Howard/Mathematica this summer. She uses computational tools, principally automated text analysis, to study social movements, culture, gender, institutions, and organizations. Learn more about Dr. Nelson on the People page of our website. </font></i>
+<br><i><font size = "2">Laura K. Nelson, Ph.D., Assistant Professor of Sociology at Northeastern University, will be a featured speaker at SICSS-Howard/Mathematica this summer. She uses computational tools, principally automated text analysis, to study social movements, culture, gender, institutions, and organizations. Learn more about Dr. Nelson on the People page of our website. </font></i>
 <br><i><font size = "2"> Update - Laura Nelson's <a href="https://youtu.be/sZsjzksiD2M">lecture</a> and <a href="https://youtu.be/Up1DrzzhDzw">Q&A</a> have now been posted! </font></i>
 <br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/people">SICSS-Howard/Mathematica</a>)</font>
 
 <u>Interview with Dr. Bahiyyah Muhammad, faculty co-sponsor </u> 
 <br><font color="grey"><font size="2">March 29, 2021</font></font> 
-<br><i><font size = "2"> Get to know one of SICSS-Howard/Mathematica’s founding faculty sponsors, Dr. Bahiyyah Muhammad, in this energetic and inspiring video. She shares her thoughts on computational social science and its intersection with her extensive research on the effects of parental incarceration on children in this one-on-one interview with SICSS-Howard/Mathematica lead organizer Naniette Coleman. </font></i>
+<br><i><font size = "2">Get to know one of SICSS-Howard/Mathematica’s founding faculty sponsors, Dr. Bahiyyah Muhammad, in this energetic and inspiring video. She shares her thoughts on computational social science and its intersection with her extensive research on the effects of parental incarceration on children in this one-on-one interview with SICSS-Howard/Mathematica lead organizer Naniette Coleman. </font></i>
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2WRhoRgmvvc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -94,13 +94,13 @@ image: /assets/images/howard.jpg
 
 <u>Free Copy of Bit by Bit available to all SICSS-Howard/Mathematica participants  </u>
 <br><font color="grey"><font size="2">March 29, 2021</font></font> 
-<br><i><font size = "2"> All SICSS-Howard/Mathematica participants will receive a FREE copy of Bit by Bit: Social Research in the Digital Age, written by SICSS co-founder Matt Salganik thanks to sponsor Mathematica. It will serve as a textbook for the program, and is "an invaluable resource for social scientists who want to harness the research potential of big data and a must-read for data scientists interested in applying the lessons of social science to tomorrow's technologies” (Princeton University Press). </font></i>
+<br><i><font size = "2">All SICSS-Howard/Mathematica participants will receive a FREE copy of Bit by Bit: Social Research in the Digital Age, written by SICSS co-founder Matt Salganik thanks to sponsor Mathematica. It will serve as a textbook for the program, and is "an invaluable resource for social scientists who want to harness the research potential of big data and a must-read for data scientists interested in applying the lessons of social science to tomorrow's technologies” (Princeton University Press). </font></i>
 <br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/">SICSS-Howard/Mathematica</a>)</font>
 
 
 <u>Naomi Sugie announced as SICSS-Howard/Mathematica speaker  </u>
 <br><font color="grey"><font size="2">March 28, 2021</font></font> 
-<br><i><font size = "2"> Naomi Sugie, Ph.D., Professor at University of California Irvine, will be a featured speaker at SICSS-Howard/Mathematica this summer. Her research focuses on issues of punishment, inequality, and the use of new technologies for research with traditionally hard-to-reach groups. Learn more about Dr. Sugie on the People page of our website. </font></i>
+<br><i><font size = "2">Naomi Sugie, Ph.D., Professor at University of California Irvine, will be a featured speaker at SICSS-Howard/Mathematica this summer. Her research focuses on issues of punishment, inequality, and the use of new technologies for research with traditionally hard-to-reach groups. Learn more about Dr. Sugie on the People page of our website. </font></i>
 <br><i><font size = "2"> Update - Naomi Sugie's <a href="https://youtu.be/IoOQZUa_Akw">lecture</a> and <a href="https://youtu.be/H6HABb6uOs0">Q&A</a> have now been posted! </font></i>
 <br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/people">SICSS-Howard/Mathematica</a>)</font>
 
