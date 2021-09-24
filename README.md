@@ -13,6 +13,7 @@ Science. It is powered by [GitHub Pages](https://pages.github.com/),
 * [Sidebar](#sidebar)
   * [Hiding the sidebar](#hiding-the-sidebar)
   * [Customizing the sidebar](#customizing-the-sidebar)
+* [Post-Mortems](#post-mortems)
 * [Adding Additional Pages](#adding-additional-pages)
 * [Homepage](#homepage)
 * [Adding a partner location](#adding-a-partner-location)
@@ -83,6 +84,29 @@ sidebar:
   - name: "Link to another site"
     url: "https://www.allourideas.org/"
 ```
+# Post-Mortems
+
+To add a post-mortem, three files are needed:
+
+1. The `sidebar.yml` for the locations even for a particular year, with the following entries (eg. Tokyo 2021):
+
+```
+- name: "Post Mortem"
+  url: "post-mortem"
+  link: '#tokyo'
+```
+
+2. The location will also need a `post_mortem.yml` file, with the following entry:
+
+```
+- title: Post-Mortem
+```
+
+3. The parent year (in this scenario `2021`) will also need a `post-mortem.md` file in it's root, as a sibling to the `index.md` file. This `post-mortem.md` file will contain all of the markdown for that year's post mortems.
+
+In addition, be sure when you are writing the markdown for each event's post mortem, that you include a title tag, with the corresponding anchor id, associated to the `link` value you created in the `sidebar.yml`. In this case `link: '#tokyo'` would anchor to the corresponding title tag in the post mortem's markdown:
+
+`<h2 class="display-4" id="tokyo">Tokyo</h2>`
 
 # Location specific pages
 
