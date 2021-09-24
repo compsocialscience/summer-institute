@@ -575,7 +575,7 @@ In general, despite all the challenges of the online format (lack of naturally o
 
 <hr />
 
-<h2 class="display-4" id="hse">SICSS-Helsinki</h2>
+<h2 class="display-4" id="helsinki">SICSS-Helsinki</h2>
 
 University of Helsinki hosted a Summer Institute in Computational Social Science, following the one week of instruction and one week of student project work. During the instruction week followed Coding Social Science, the textbook developed by Matti Nelimarkka and discussed research ethics, validity and reliability questions, data science, network analysis, simulation models and interactive systems for social science research. We ended the second week already on Thursday to accommodate for Midsummer – a Nordic holiday on Friday.
 
