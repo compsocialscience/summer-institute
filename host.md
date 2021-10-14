@@ -49,7 +49,7 @@ For a much more detailed description of the process of hosting a partner locatio
 
 Dear friend of SICSS,
 
-We are very pleased to announce this call for applications to host SICSS partner locations in 2022. Though we hope that some organizers will be able to host in-person events, we recognize that the COVID pandemic continues to create significant challenges throughout the world and therefore also welcome applications for virtual events. Though virtual events do not allow for the depth of connections that might be created by in-person events, they also broaden access to the field towards those who might not be fortunate enough to live near a partner location-- or cannot afford to travel one. 
+We are very pleased to announce this call for applications to host SICSS partner locations in 2022. Though we hope that some organizers will be able to host in-person events, we recognize that the COVID pandemic continues to create significant challenges throughout the world and therefore also welcome applications for virtual events. Though virtual events may not allow for the depth of connections that might be created by in-person events, they also broaden access to the field towards those who might not be fortunate enough to live near a partner location-- or cannot afford to travel one. 
 
 We are proud to announce that we will once again be able to provide financial support to those who wish to host partner locations thanks to the generous support of the funders described below. Unfortunately, the number of sites we expect to fund this year may be lower than years past due to funding limitations. Therefore, we are particularly hopeful that some partner location organizers may be able to self-sponsor their location via their own universities or organizations-- or through developing partnerships with non-profit organizations or corportations (as an increasing number of organizers have done in the past few years). 
 
@@ -72,7 +72,7 @@ That’s fine. [SICSS 2018 in Boulder, Colorado](https://compsocialscience.githu
 
 ##### What if I want to host a partner location in a different time zone from other locations?
 
-That’s fine. Each year we have locations spread around the world. A common strategy is to watch the recordings of the lectures rather than the livestreamed version.
+That’s fine. Each year we have locations spread around the world. 
 
 ##### How can I learn more about what it is like at a partner location?
 
