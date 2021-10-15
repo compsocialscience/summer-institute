@@ -2,7 +2,12 @@
 
 In addition to the main videos and course materials developed by SICSS Co-Founders Chris Bail and Matt Salganik, organizers of SICSS partner sites have produced a variety of alternative curricula that serve the needs of different audiences. For example, some of these materials present code in alternative languages such as Python, and others are directed at non-American audiences. Click on the links below to explore these materials in detail.
 
+
 ### 2021
+
+#### NLP Curriculum
+
+- [Videoes and Materials](https://nlp-css-201-tutorials.github.io/nlp-css-201-tutorials/)
 
 #### Helsinki
 - [Materials](http://codingsocialscience.org/)
