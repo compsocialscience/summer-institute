@@ -53,12 +53,15 @@ We are very pleased to announce this call for applications to host SICSS partner
 
 We are proud to announce that we will once again be able to provide financial support to those who wish to host partner locations thanks to the generous support of the funders described below. Unfortunately, the number of sites we expect to fund this year may be lower than years past due to funding limitations. Therefore, we are particularly hopeful that some partner location organizers may be able to self-sponsor their location via their own universities or organizations-- or through developing partnerships with non-profit organizations or corportations (as an increasing number of organizers have done in the past few years). 
 
-Applications selected for financial support will receive $12,920 to support the cost of food, room rental fees, a TA, and an honorarium for the organizer or organizers (note, if there are multiple organizers, the honorarium amount must be split between them), 
+Applications selected for financial support will receive $12,920 to support the cost of food, room rental fees, a TA, and an honorarium for the organizer or organizers (note, if there are multiple organizers, the honorarium amount must be split between them). Sites that propose an event less than one week will receive a smaller grant depending on its length and the resources required 
 
 Regardless of whether you apply for funding or self-sponsor a SICSS location, please complete the short application form below. If you have any questions, please consult the F.A.Q. below and-- if this does not address your question-- please email us at rsfcompsocsci@gmail.com
 
+Applications will be reviewed by the brand new SICSS advisory council, which will aim to fulfill our goal of expanding access to training in the field to new audiences as much as possible.
+
 With very best wishes,
 Chris Bail
+Director, SICSS
 
 ### How to Apply
 
