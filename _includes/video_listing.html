@@ -1,0 +1,23 @@
+<div class="row">
+    {% for video in site.data.videos_sample %}
+        <div class="col-sm-4 mb-4 col-video">
+            <div class="card position-relative">
+                <img
+                src="{{ video.preview }}"
+                class="card-img-top"
+                alt="placeholder"
+                />
+                <div class="card-body">
+                <h6 class="card-title">
+                    <a href="video.html" class="stretched-link">{{ video.title }}</a>
+                </h6>
+                <p class="card-text">
+                    <small>{{ video.duration }}</small>
+                </p>
+                </div>
+            </div>
+    <!--/card-->
+    </div>
+    <!--/col-->
+    {% endfor %}
+</div>
