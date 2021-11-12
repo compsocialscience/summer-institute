@@ -3,7 +3,7 @@
   content: Professor Matthew Salganik of Princeton University gives an introduction to the interdisciplinary field of computational social science, which employs digital data sources and machine learning to study human behavior
   duration: "27:18"
   keywords: key, word, list, for, seo
-  programming_lang:
+  programming_lang: 
   venue: Duke University
   location: Durham, North Carolina
   author: Matthew Salganik
@@ -44,9 +44,9 @@
   content: Duke Professor Chris Bail explains how to install R and RStudio as part of the coding boot camp for the Summer Institutes in Computational Social Science.
   duration: "14:01"
   keywords: key, word, list, for, seo
-  programming_lang:
+  programming_lang: R
   venue: Duke University
-  location: Durham, North Carolina
+  location: Test Location 2
   author: Chris Bail
   author_title: Professor
   is_bootcamp: true
