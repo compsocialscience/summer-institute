@@ -148,7 +148,13 @@ Antje Kirchner, Craig Hill, Alan Blatecky, Helen Jang, and Jacqueline Olich, tau
 - A Brief Introduction to Machine Learning [Slides](https://urldefense.proofpoint.com/v2/url?u=https-3A__github.com_compsocialscience_summer-2Dinstitute_blob_master_2019_materials_speaker-2Dslides_GeorgiyBobashevSlides.pdf&d=DwIGaQ&c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&r=MT-Z8xM6IWJcuwrMhSS_orYu7NXahq6npuGw-mSN924&m=QEYf9cwWx9lcuK9gAxPyHiaA3al45OOGH5CAesCZG7I&s=uWkryCDdu7V3u6jOsm5WIupLiyuIi253DGh26VPf1KA&e= )
 - Synthetic Populations Workshop [Slides](https://urldefense.proofpoint.com/v2/url?u=https-3A__github.com_compsocialscience_summer-2Dinstitute_blob_master_2019_materials_speaker-2Dslides_SynthPopSlides.pdf&d=DwIGaQ&c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&r=MT-Z8xM6IWJcuwrMhSS_orYu7NXahq6npuGw-mSN924&m=QEYf9cwWx9lcuK9gAxPyHiaA3al45OOGH5CAesCZG7I&s=5qmYfbG1dhT6WqElZsXIcKf6uomeAH7bdy2L_BkHyeQ&e= )
 
+#### Useful Content Created Outside of SICSS
+ 
+[Dave Rand's Lecture "An Introduction to Evolutionary Game Theory](https://www.youtube.com/watch?v=JkmHKmZE8wY&t=1s&ab_channel=DavidRand)
+ 
 #### License
 
 All slides are released under a <a href="https://urldefense.proofpoint.com/v2/url?u=https-3A__creativecommons.org_licenses_by_4.0_&d=DwIGaQ&c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&r=MT-Z8xM6IWJcuwrMhSS_orYu7NXahq6npuGw-mSN924&m=QEYf9cwWx9lcuK9gAxPyHiaA3al45OOGH5CAesCZG7I&s=fC60_FlQtTz_4mvF0hFmNBgsndqrp2VIhMEeVah65ck&e= ">CC-BY</a> license, and all code is released under an <a href="https://urldefense.proofpoint.com/v2/url?u=https-3A__en.wikipedia.org_wiki_MIT-5FLicense&d=DwIGaQ&c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&r=MT-Z8xM6IWJcuwrMhSS_orYu7NXahq6npuGw-mSN924&m=QEYf9cwWx9lcuK9gAxPyHiaA3al45OOGH5CAesCZG7I&s=dF0Ou8Ou6QMZOpGsjNvJl3VcA-U-ZPk3v8mMvo3Nsh4&e= ">MIT</a> license.
+
+
 
