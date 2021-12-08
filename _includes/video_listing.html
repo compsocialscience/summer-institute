@@ -1,23 +1,19 @@
 <div class="row">
-    {% for video in site.videos %}
-        <div class="col-sm-4 mb-4 col-video">
-            <div class="card position-relative">
-                <img
-                src="{{ video.preview }}"
-                class="card-img-top"
-                alt="placeholder"
-                />
-                <div class="card-body">
-                <h6 class="card-title">
-                    <a href="{{ video.url }}" class="stretched-link">{{ video.title }}</a>
-                </h6>
-                <p class="card-text">
-                    <small>{{ video.duration }}</small>
-                </p>
-                </div>
-            </div>
-    <!--/card-->
+  {% for video in site.videos %}
+  <div class="col-sm-4 mb-4 col-video">
+    <div class="card position-relative">
+      <img src="{{ video.preview }}" class="card-img-top" alt="placeholder" />
+      <div class="card-body">
+        <h6 class="card-title">
+          <a href="{{ video.url }}" class="stretched-link">{{ video.title }}</a>
+        </h6>
+        <p class="card-text">
+          <small>{{ video.duration }}</small>
+        </p>
+      </div>
     </div>
-    <!--/col-->
-    {% endfor %}
+    <!--/card-->
+  </div>
+  <!--/col-->
+  {% endfor %}
 </div>

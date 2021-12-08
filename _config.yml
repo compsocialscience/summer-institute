@@ -34,13 +34,12 @@ exclude:
   - node_modules
 
 collections:
- videos:
-  output: true
-  permalink: /videos/:name
+  videos:
+    output: true
+    permalink: /overview/:name
 
 defaults:
-  - 
-    scope:
+  - scope:
       path: ""
       type: "videos"
     values:

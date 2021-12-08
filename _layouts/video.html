@@ -1,68 +1,137 @@
-<div class="container">
-    <div class="row">
-    <div class="col-sm-12">
-        <div class="embed-responsive embed-responsive-16by9">
-        <!-- embed_url: -->
-        <iframe width="" height="" src="https://www.youtube.com/embed/QB5ypzhIMA8" frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen></iframe>
-        </div><!--/embed-->
-    </div><!--/col-->
-    </div><!--/row-->
-    <div class="row justify-content-around pt-5">
-    <div class="col-sm-6">
-        <h2>title:</h2>
-        
-        <!--  if content:  -->
-        <p class="lead">content:</p>
-        <!-- else description -->
-        <p class="lead">description_seo:</p>
+{% include setup_data.html %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include header.html %}
+  </head>
 
-        <!--  where materials:  -->
-        <div class="list-group mb-4">
-        <div class="list-group-item list-group-item-light text-uppercase"><strong>Materials</strong></div>
-        <!--  loop materials:  -->
-        <a href="materials:url:" class="list-group-item list-group-item-action">materials:title:</a>
-        </div>
+  <body class="sub-page">
+    {% include navbar.html %}
+    <!-- Start content -->
+    {% include hero_secondary.html %}
+    <!--/jumbotron-->
+    {% include breadcrumb.html %}
 
-        <!--  where resources:  -->
-        <div class="list-group mb-5">
-        <div class="list-group-item list-group-item-light text-uppercase"><strong>Resources</strong></div>
-        <!--  loop resources:  -->
-        <a href="resources:url:" class="list-group-item list-group-item-action">resources:title:</a>
-        </div>
+    <!-- Start content -->
+    <section>
+      <div class="container">
+        <div class="row">
+          {% comment %} sidebar {% endcomment %}
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-12">
+                <div class="embed-responsive embed-responsive-16by9">
+                  <!-- embed_url: -->
+                  <iframe
+                    width=""
+                    height=""
+                    src="{{ page.embed_url }}"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen
+                  ></iframe>
+                </div>
+                <!--/embed-->
+              </div>
+              <!--/col-->
+            </div>
+            <!--/row-->
+            <div class="row justify-content-around pt-5">
+              <div class="col-sm-6">
+                <h2>{{ page.title }}</h2>
 
-        <!--  where exercises:  -->
-        <div class="list-group mb-5">
-        <div class="list-group-item list-group-item-light text-uppercase"><strong>Exercises</strong></div>
-        <!--  loop exercises:  -->
-        <a href="exercises:url:" class="list-group-item list-group-item-action">exercises:title:</a>
-        </div>
+                <!--  if content:  -->
+                <p class="lead">{{ page.content }}</p>
+                <!-- else description -->
+                {% comment %}
+                <p class="lead">description_seo:</p>
+                {% endcomment %}
 
-        <!--  where code:  -->
-        <div class="list-group mb-5">
-        <div class="list-group-item list-group-item-light text-uppercase"><strong>Code</strong></div>
-        <!--  loop code:  -->
-        <a href="code:url:" class="list-group-item list-group-item-action">code:title:</a>
-        </div>
+                <!--  where materials:  -->
+                <div class="list-group mb-4">
+                  <div
+                    class="list-group-item list-group-item-light text-uppercase"
+                  >
+                    <strong>Materials</strong>
+                  </div>
+                  <!--  loop materials:  -->
+                  <a
+                    href="materials:url:"
+                    class="list-group-item list-group-item-action"
+                    >materials:title:</a
+                  >
+                </div>
 
+                <!--  where resources:  -->
+                <div class="list-group mb-5">
+                  <div
+                    class="list-group-item list-group-item-light text-uppercase"
+                  >
+                    <strong>Resources</strong>
+                  </div>
+                  <!--  loop resources:  -->
+                  <a
+                    href="resources:url:"
+                    class="list-group-item list-group-item-action"
+                    >resources:title:</a
+                  >
+                </div>
 
-    </div>
-    <div class="col-sm-4 pb-5">
-        <div class="card">
-        <div class="card-body">
-            <h5 class="card-title">venue:</h5>
-            <h6 class="card-subtitle mb-2 text-muted">location:</h6>
-            <!--  where author:  -->
-            <p class="card-text">author:, author_title:</p>
-            <p class="card-text">date_published:</p>
-            <p class="card-text small">duration:</p>
+                <!--  where exercises:  -->
+                <div class="list-group mb-5">
+                  <div
+                    class="list-group-item list-group-item-light text-uppercase"
+                  >
+                    <strong>Exercises</strong>
+                  </div>
+                  <!--  loop exercises:  -->
+                  <a
+                    href="exercises:url:"
+                    class="list-group-item list-group-item-action"
+                    >exercises:title:</a
+                  >
+                </div>
+
+                <!--  where code:  -->
+                <div class="list-group mb-5">
+                  <div
+                    class="list-group-item list-group-item-light text-uppercase"
+                  >
+                    <strong>Code</strong>
+                  </div>
+                  <!--  loop code:  -->
+                  <a
+                    href="code:url:"
+                    class="list-group-item list-group-item-action"
+                    >code:title:</a
+                  >
+                </div>
+              </div>
+              <div class="col-sm-4 pb-5">
+                <div class="card">
+                  <div class="card-body">
+                    <h5 class="card-title">venue:</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">location:</h6>
+                    <!--  where author:  -->
+                    <p class="card-text">author:, author_title:</p>
+                    <p class="card-text">date_published:</p>
+                    <p class="card-text small">duration:</p>
+                  </div>
+                  <!--  where programming_lang:  -->
+                  <div class="card-footer">
+                    <span class="badge badge-light">programming_lang:</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!--/container-->
         </div>
-        <!--  where programming_lang:  -->
-        <div class="card-footer">
-            <span class="badge badge-light">programming_lang:</span>
-        </div>
-        </div>
-    </div>
-    </div>
-</div><!--/container-->
+      </div>
+    </section>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    {% include footer.html %}
+  </body>
+</html>
