@@ -1,5 +1,5 @@
 <div class="row">
-    {% for video in site.data.videos_sample %}
+    {% for video in site.videos %}
         <div class="col-sm-4 mb-4 col-video">
             <div class="card position-relative">
                 <img
@@ -9,7 +9,7 @@
                 />
                 <div class="card-body">
                 <h6 class="card-title">
-                    <a href="video.html" class="stretched-link">{{ video.title }}</a>
+                    <a href="{{ video.url }}" class="stretched-link">{{ video.title }}</a>
                 </h6>
                 <p class="card-text">
                     <small>{{ video.duration }}</small>

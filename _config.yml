@@ -32,3 +32,16 @@ exclude:
   - documentation
   - scripts
   - node_modules
+
+collections:
+ videos:
+  output: true
+  permalink: /videos/:name
+
+defaults:
+  - 
+    scope:
+      path: ""
+      type: "videos"
+    values:
+      layout: "video"
