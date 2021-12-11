@@ -1,7 +1,6 @@
 ---
 title: Introduction to Computational Social Science
 description_seo: description for seo and card use
-content: Professor Matthew Salganik of Princeton University gives an introduction to the interdisciplinary field of computational social science, which employs digital data sources and machine learning to study human behavior
 duration: "27:18"
 keywords: key, word, list, for, seo
 programming_lang:
@@ -11,7 +10,7 @@ author: Matthew Salganik
 author_title: Professor
 is_bootcamp: false
 is_main: true
-date_published: 2021-11-29 00:00:00
+date_published: 2021-11-29
 poster: video_poster_thumbnail.jpg
 is_featured: false
 is_published: true
@@ -20,23 +19,11 @@ preview: https://i.ytimg.com/vi/zGG9wPl1C5E/hqdefault.jpg
 video_url: https://www.youtube.com/watch?v=zGG9wPl1C5E
 embed_url: https://www.youtube.com/embed/zGG9wPl1C5E
 materials:
-  - title: Slides for the video
-    url: https://www.google.com
-  - title: Data set for video
-    url: https://www.google.com
+  - title: Slides
+    url: https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/02-intro-computational-social-science.pdf
 resources:
-  - title: Article link
-    url: https://www.google.com
-  - title: Journal link
-    url: https://www.google.com
 exercises:
-  - title: Quiz
-    url: https://www.google.com
-  - title: Another quiz
-    url: https://www.google.com
 code:
-  - title: Code title
-    url: https://www.google.com
-  - title: Another code title
-    url: https://www.google.com
 ---
+
+Professor Matthew Salganik of Princeton University gives an introduction to the interdisciplinary field of computational social science, which employs digital data sources and machine learning to study human behavior
