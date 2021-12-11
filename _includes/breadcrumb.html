@@ -10,7 +10,11 @@
                     {% assign relative_breadcrumb_arr = breadcrumbs | slice:0, forloop.index %}
                     {% assign relative_breadcrumb_str = relative_breadcrumb_arr | join: "/" %}
                         {% if forloop.last %}
+                            {% if page.title %}
+                            <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
+                            {% else %}                           
                             <li class="breadcrumb-item active" aria-current="page">{{ breadcrumb | replace: "_", " " | capitalize | replace: "-", " " }}</li>
+                            {% endif %}
                         {% elsif breadcrumb == '_videos' %}
                             <li class="breadcrumb-item"><a href="{{site.baseurl | append: "/overview/" }}">Overview</a></li>
                         {% else %}
