@@ -41,13 +41,16 @@
                 <h2>{{ page.title }}</h2>
 
                 <!--  if content:  -->
-                <p class="lead">{{ page.content }}</p>
+                {% if page.content %}
+                <p class="lead">{{page.content}}</p>
+                {% endif %}
                 <!-- else description -->
                 {% comment %}
                 <p class="lead">description_seo:</p>
                 {% endcomment %}
 
                 <!--  where materials:  -->
+                {% if page.materials %}
                 <div class="list-group mb-4">
                   <div
                     class="list-group-item list-group-item-light text-uppercase"
@@ -55,14 +58,18 @@
                     <strong>Materials</strong>
                   </div>
                   <!--  loop materials:  -->
+                  {% for material in page.materials %}
                   <a
-                    href="materials:url:"
+                    href="{{material.url}}"
                     class="list-group-item list-group-item-action"
-                    >materials:title:</a
+                    >{{material.title}}</a
                   >
+                  {% endfor %}
                 </div>
+                {% endif %}
 
                 <!--  where resources:  -->
+                {% if page.resources %}
                 <div class="list-group mb-5">
                   <div
                     class="list-group-item list-group-item-light text-uppercase"
@@ -70,14 +77,18 @@
                     <strong>Resources</strong>
                   </div>
                   <!--  loop resources:  -->
+                  {% for resource in page.resources %}
                   <a
-                    href="resources:url:"
+                    href="{{resource.url}}"
                     class="list-group-item list-group-item-action"
-                    >resources:title:</a
+                    >{{resource.title}}</a
                   >
+                  {% endfor %}
                 </div>
+                {% endif %}
 
                 <!--  where exercises:  -->
+                {% if page.exercises %}
                 <div class="list-group mb-5">
                   <div
                     class="list-group-item list-group-item-light text-uppercase"
@@ -85,14 +96,18 @@
                     <strong>Exercises</strong>
                   </div>
                   <!--  loop exercises:  -->
+                  {% for exercise in page.exercises %}
                   <a
-                    href="exercises:url:"
+                    href="{{exercise.url}}"
                     class="list-group-item list-group-item-action"
-                    >exercises:title:</a
+                    >{{exercise.title}}</a
                   >
+                  {% endfor %}
                 </div>
+                {% endif %}
 
                 <!--  where code:  -->
+                {% if page.code %}
                 <div class="list-group mb-5">
                   <div
                     class="list-group-item list-group-item-light text-uppercase"
@@ -100,27 +115,48 @@
                     <strong>Code</strong>
                   </div>
                   <!--  loop code:  -->
+                  {% for code in page.code %}
                   <a
-                    href="code:url:"
+                    href="{{code.url}}"
                     class="list-group-item list-group-item-action"
-                    >code:title:</a
+                    >{{code.title}}</a
                   >
+                  {% endfor %}
                 </div>
+                {% endif %}
               </div>
               <div class="col-sm-4 pb-5">
                 <div class="card">
                   <div class="card-body">
-                    <h5 class="card-title">venue:</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">location:</h6>
+                    {% if page.venue %}
+                    <h5 class="card-title">Venue: {{page.venue}}</h5>
+                    {% endif %} {% if page.location %}
+                    <h6 class="card-subtitle mb-2 text-muted">
+                      Location: {{page.location}}
+                    </h6>
+                    {% endif %}
+
                     <!--  where author:  -->
-                    <p class="card-text">author:, author_title:</p>
-                    <p class="card-text">date_published:</p>
-                    <p class="card-text small">duration:</p>
+                    {% if page.author %}
+                    <p class="card-text">
+                      Author: {{page.author}}, {{page.author_title}}
+                    </p>
+                    {% endif %} {% if page.date_published %}
+                    <p class="card-text">
+                      Date Published: {{page.date_published}}
+                    </p>
+                    {% endif %} {% if page.duration %}
+                    <p class="card-text small">Duration: {{page.duration}}</p>
+                    {% endif %}
                   </div>
                   <!--  where programming_lang:  -->
+                  {% if page.programming_lang %}
                   <div class="card-footer">
-                    <span class="badge badge-light">programming_lang:</span>
+                    <span class="badge badge-light"
+                      >{{page.programming_lang}}</span
+                    >
                   </div>
+                  {% endif %}
                 </div>
               </div>
             </div>
