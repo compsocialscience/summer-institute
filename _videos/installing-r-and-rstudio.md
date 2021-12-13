@@ -2,16 +2,15 @@
 title: Installing R and RStudio
 description_seo: description for seo and card use
 duration: "14:01"
-keywords: key, word, list, for, seo
+keywords:
 programming_lang: R
 venue: Duke University
-location: Test Location 2
+location:
 author: Chris Bail
 author_title: Professor
 is_bootcamp: true
 date_published:
-has_order: 02
-link: installing-r-and-rstudio
+has_order: 2
 preview: https://i.ytimg.com/vi/ulIv0NiVTs4/hqdefault.jpg
 video_url: https://www.youtube.com/watch?v=ulIv0NiVTs4
 embed_url: https://www.youtube.com/embed/ulIv0NiVTs4
