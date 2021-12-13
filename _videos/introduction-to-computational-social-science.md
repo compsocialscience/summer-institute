@@ -1,6 +1,6 @@
 ---
 title: Introduction to Computational Social Science
-description_seo: description for seo and card use
+description_seo:
 duration: "27:18"
 keywords: key, word, list, for, seo
 programming_lang:
@@ -9,12 +9,8 @@ location: Durham, North Carolina
 author: Matthew Salganik
 author_title: Professor
 is_bootcamp: false
-is_main: true
-date_published: 2021-11-29
-poster: video_poster_thumbnail.jpg
-is_featured: false
-is_published: true
-has_order: 02
+date_published:
+has_order: 01
 preview: https://i.ytimg.com/vi/zGG9wPl1C5E/hqdefault.jpg
 video_url: https://www.youtube.com/watch?v=zGG9wPl1C5E
 embed_url: https://www.youtube.com/embed/zGG9wPl1C5E

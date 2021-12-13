@@ -9,11 +9,7 @@ location: Test Location 2
 author: Chris Bail
 author_title: Professor
 is_bootcamp: true
-is_main: false
-date_published: 2021-11-29 00:00:00
-poster: video_poster_thumbnail.jpg
-is_featured: false
-is_published: true
+date_published:
 has_order: 02
 link: installing-r-and-rstudio
 preview: https://i.ytimg.com/vi/ulIv0NiVTs4/hqdefault.jpg
