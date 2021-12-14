@@ -1,0 +1,33 @@
+<div class="row">
+  {% assign all_videos = site.videos | sort: "has_order" %} {% for video in
+  all_videos %} {% if video.is_bootcamp %}
+  <div class="col-sm-4 mb-4 col-video">
+    <div class="card position-relative">
+      <img src="{{ video.preview }}" class="card-img-top" alt="placeholder" />
+      <div class="card-body">
+        <h6 class="card-title">
+          <a href="{{ video.url }}" class="stretched-link">{{ video.title }}</a>
+        </h6>
+        <p class="card-text">
+          <small>{{ video.duration }}</small>
+        </p>
+      </div>
+    </div>
+  </div>
+  {% endif %} {% endfor %} {% for video in all_videos %} {% if video.is_bootcamp
+  == false %}
+  <div class="col-sm-4 mb-4 col-video">
+    <div class="card position-relative">
+      <img src="{{ video.preview }}" class="card-img-top" alt="placeholder" />
+      <div class="card-body">
+        <h6 class="card-title">
+          <a href="{{ video.url }}" class="stretched-link">{{ video.title }}</a>
+        </h6>
+        <p class="card-text">
+          <small>{{ video.duration }}</small>
+        </p>
+      </div>
+    </div>
+  </div>
+  {% endif %} {% endfor %}
+</div>
