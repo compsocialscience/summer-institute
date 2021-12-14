@@ -11,9 +11,9 @@ author_title: Professor
 is_bootcamp: false
 date_published:
 has_order: 14
-preview: https://i.ytimg.com/vi/2dBI2ULcQw/hqdefault.jpg
-video_url: https://www.youtube.com/watch?v=2dBI2ULcQw
-embed_url: https://www.youtube.com/embed/2dBI2ULcQw
+preview: https://i.ytimg.com/vi/-2dBI2ULcQw/hqdefault.jpg
+video_url: https://www.youtube.com/watch?v=-2dBI2ULcQw
+embed_url: https://www.youtube.com/embed/-2dBI2ULcQw
 materials:
   - title: Slides
     url: https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/text-networks/Rpres/Text_Networks.html
