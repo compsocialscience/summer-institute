@@ -4,7 +4,7 @@ description_seo: description for seo and card use
 duration: "14:01"
 keywords:
 programming_lang: R
-venue: Duke University
+venue:
 location:
 author: Chris Bail
 author_title: Professor
