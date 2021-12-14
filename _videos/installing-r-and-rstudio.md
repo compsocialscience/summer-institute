@@ -10,7 +10,7 @@ author: Chris Bail
 author_title: Professor
 is_bootcamp: true
 date_published:
-has_order: 2
+has_order: 02
 preview: https://i.ytimg.com/vi/ulIv0NiVTs4/hqdefault.jpg
 video_url: https://www.youtube.com/watch?v=ulIv0NiVTs4
 embed_url: https://www.youtube.com/embed/ulIv0NiVTs4
