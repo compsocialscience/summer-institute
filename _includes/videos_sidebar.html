@@ -6,14 +6,38 @@
       collaboration.</small
     >
   </div>
-  <div class="list-group mb-4"></div>
+  <div class="list-group mb-4">
+    <div class="card text-white position-relative mb-2">
+      <img src="{{"/assets/images/bg-sidebar-01.png" | prepend: site.baseurl }}" class="card-img" alt="overlay image">
+      <div class="card-img-overlay">
+        <h5 class="card-title">
+          <a href="{{ "/boot_camp" | prepend: site.baseurl }}" class="stretched-link text-light">Bootcamp</a>
+        </h5>
+      </div>
+    </div>
+    <div class="card text-white position-relative mb-2">
+      <img src="{{"/assets/images/bg-sidebar-02.png" | prepend: site.baseurl }}" class="card-img" alt="overlay image">
+      <div class="card-img-overlay">
+        <h5 class="card-title">
+          <a href="{{ "/curriculum" | prepend: site.baseurl }}" class="stretched-link text-light">Main Curriculum</a>
+        </h5>
+      </div>
+    </div>
+    <div class="card text-white position-relative mb-2">
+      <img src="{{"/assets/images/bg-sidebar-03.png" | prepend: site.baseurl }}" class="card-img" alt="overlay image">
+      <div class="card-img-overlay">
+        <h5 class="card-title">
+          <a href="https://github.com/compsocialscience/summer-institute/blob/master/_data/alternative_curriculum.md" class="stretched-link text-light" target="_blank" rel="noopener noreferrer">Partner Location Materials</a>
+        </h5>
+      </div>
+    </div>
+  </div>
   {% comment %}
   <div class="list-group-item"><strong>Programing Languages</strong></div>
   <a href="#" class="list-group-item list-group-item-action">Rust</a>
   <a href="#" class="list-group-item list-group-item-action">Go</a>
   <a href="#" class="list-group-item list-group-item-action">Python</a> {%
   endcomment %}
-
   <!--/list-group-->
 
   <div class="list-group mb-4">
