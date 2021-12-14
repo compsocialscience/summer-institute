@@ -10,7 +10,7 @@
                     {% assign relative_breadcrumb_arr = breadcrumbs | slice:0, forloop.index %}
                     {% assign relative_breadcrumb_str = relative_breadcrumb_arr | join: "/" %}
                         {% if forloop.last %}
-                            {% if page.title %}
+                            {% if page.title and breadcrumbs contains "_videos" %}
                             <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
                             {% else %}                           
                             <li class="breadcrumb-item active" aria-current="page">{{ breadcrumb | replace: "_", " " | capitalize | replace: "-", " " }}</li>
