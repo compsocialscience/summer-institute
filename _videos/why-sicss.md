@@ -1,22 +1,22 @@
 ---
-title: Introduction to Computational Social Science
+title: Why SICSS?
 description_seo:
-duration: "27:18"
+duration: "25:33"
 keywords: key, word, list, for, seo
 programming_lang:
 venue:
 location:
-author: Matthew Salganik
+author: Chris Bail
 author_title: Professor
 is_bootcamp: false
 date_published:
-has_order: 1
-preview: https://i.ytimg.com/vi/zGG9wPl1C5E/hqdefault.jpg
-video_url: https://www.youtube.com/watch?v=zGG9wPl1C5E
-embed_url: https://www.youtube.com/embed/zGG9wPl1C5E
+has_order: 2
+preview: https://i.ytimg.com/vi/K6HzpZMcaQw/hqdefault.jpg
+video_url: https://www.youtube.com/watch?v=K6HzpZMcaQw
+embed_url: https://www.youtube.com/embed/K6HzpZMcaQw
 materials:
   - title: Slides
-    url: https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/02-intro-computational-social-science.pdf
+    url: https://compsocialscience.github.io/summer-institute/2020/materials/day1-intro-ethics/bail_why_sicss/Why_SICSS.html#/
 resources:
 exercises:
   - title: Lesson plan (participants)
@@ -28,4 +28,4 @@ exercises:
 code:
 ---
 
-Professor Matthew Salganik of Princeton University gives an introduction to the interdisciplinary field of computational social science, which employs digital data sources and machine learning to study human behavior.
+Professor Chris Bail from Duke University discusses why the Summer Institutes in Computational Social Science were founded, and how you can use this online research to learn more about this new field that fuses data science with social science.

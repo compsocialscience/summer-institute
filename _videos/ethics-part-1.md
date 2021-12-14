@@ -1,7 +1,7 @@
 ---
-title: Introduction to Computational Social Science
+title: "Ethics: Part 1"
 description_seo:
-duration: "27:18"
+duration: "33:33"
 keywords: key, word, list, for, seo
 programming_lang:
 venue:
@@ -10,13 +10,13 @@ author: Matthew Salganik
 author_title: Professor
 is_bootcamp: false
 date_published:
-has_order: 1
-preview: https://i.ytimg.com/vi/zGG9wPl1C5E/hqdefault.jpg
-video_url: https://www.youtube.com/watch?v=zGG9wPl1C5E
-embed_url: https://www.youtube.com/embed/zGG9wPl1C5E
+has_order: 3
+preview: https://i.ytimg.com/vi/A-5QaX5ZiK8/hqdefault.jpg
+video_url: https://www.youtube.com/watch?v=A-5QaX5ZiK8
+embed_url: https://www.youtube.com/embed/A-5QaX5ZiK8
 materials:
   - title: Slides
-    url: https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/02-intro-computational-social-science.pdf
+    url: https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/ethics_part1.pdf
 resources:
 exercises:
   - title: Lesson plan (participants)
@@ -28,4 +28,4 @@ exercises:
 code:
 ---
 
-Professor Matthew Salganik of Princeton University gives an introduction to the interdisciplinary field of computational social science, which employs digital data sources and machine learning to study human behavior.
+In part 1 of 2 videos, Professor Matthew Salganik from Princeton University discusses ethical issues in the field of Computational Social Science.
