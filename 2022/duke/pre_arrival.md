@@ -39,7 +39,7 @@ Some of the activities will require coding, and we will support R. You are welco
 
 ### Slack
 
-Before participating at XXXX, you should have an account in the XXXX Slack workspace.  If you have not used Slack before, you should review these [getting started](https://slack.com/help/categories/360000049043-Getting-started) materials.  Slack can be hard to use at first, but we've found that it is the best way to enable everyone to collaborate.
+Before participating at SICSS-Duke 2022, you should have an account in the SICSS 2022 Slack workspace.  If you have not used Slack before, you should review these [getting started](https://slack.com/help/categories/360000049043-Getting-started) materials.  Slack can be hard to use at first, but we've found that it is the best way to enable everyone to collaborate.
 
 ### GitHub
 
@@ -47,4 +47,4 @@ Many participants at SICSS use GitHub to collaborate. If you do not yet have one
 
 ## Office hours
 
-The SICSS-XXXXX [TAs](https://sicss.io/2021/duke/people#teaching_assistants) will host weekly office hours in the SICSS 2022 Slack. You can find information about the office hours in the SICSS 2022 Slack channel #pre-office-hours. If you are not able to attend during the regularly scheduled office hours or have any questions about office hours, please contact one of the [TAs](https://sicss.io/2021/princeton/people#teaching_assistants).
+The SICSS-Duke [TAs](https://sicss.io/2021/duke/people#teaching_assistants) will host weekly office hours in the SICSS 2022 Slack. You can find information about the office hours in the SICSS 2022 Slack channel #pre-office-hours. If you are not able to attend during the regularly scheduled office hours or have any questions about office hours, please contact one of the [TAs](https://sicss.io/2021/princeton/people#teaching_assistants).
