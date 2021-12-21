@@ -1,0 +1,27 @@
+faculty:
+  title: Faculty
+  people:
+    - name: Lanu Kim
+      image: 
+      bio: Lanu Kim is an assistant professor in [the school of humanities and social sciences](https://hss.kaist.ac.kr/boards/view/fulltime_professor_en/89) and a joint professor in [the school of computing](https://cs.kaist.ac.kr/people/view?idx=620&kind=faculty&menu=171), Korea Advanced Institute of Science and Technology (KAIST).
+      website: https://lanukim.github.io/
+      
+    - name: Wonjae Lee
+      image:
+      bio:
+      website: 
+      
+    - name: Jae Yeon Kim 
+      image: /assets/images/kim_jae_yeon.jpg
+      bio: Jae Yeon Kim is an Assistant Professor of Data Science at the KDI School of Public Policy. He is also affiliated with the SNF Agora Institute at Johns Hopkins University, where he was a pre- and postdoctoral fellow. He received his PhD in political science from the University of California-Berkeley, where he was a Senior Data Science Fellow at Social Science D-Lab. He studies the intersection of identity, inequality, civic engagement, and political participation, drawing primarily on computational, experimental, and archival methods. He has published widely in leading political science and computational social science journals. He co-developed [MapAgora](https://snfagora.github.io/MapAgora/), an R package that helps collect, process, and combine various data on U.S. nonprofits at scale. He also wrote an open-access textbook for computational methods titled ["Computational Thinking for Social Scientists."](https://jaeyk.github.io/comp_thinking_social_science/) Kim co-organized the San Francisco Bay Area Summer Institute in Computational Social Science (BAY-SICSS) with the theme of bridging computational social scientists and practitioners for social good.
+      website: https://jaeyk.github.io/
+
+
+speakers: 
+  title: Speakers 
+  people:
+  
+    - name: Eric Giannella
+      image: image: /assets/images/eric_giannella.png
+      bio: Eric Giannella is Data Science Director at Code for America, a nonprofit organization that helps government can work for the people, by the people, in the digital age. He is a social scientist turned data scientist. He’s done research in a variety of settings, spanning government, small and large tech companies, and nonprofits. Most recently, he was at the California Department of Justice working to make data more widely available for the public, journalists, and academics. He has published on social support, justice reform, and technology and society. Eric has a Ph.D. in Sociology from UC Berkeley, and an M.S. and B.A. from Stanford.
+      website: https://www.codeforamerica.org/people/eric-giannella/
