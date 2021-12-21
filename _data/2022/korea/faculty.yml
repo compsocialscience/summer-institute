@@ -1,1 +1,17 @@
-- name: 
+faculty:
+  title: Faculty
+  people:
+    - name: Lanu Kim
+      image: 
+      bio: Lanu Kim is an assistant professor in [the school of humanities and social sciences](https://hss.kaist.ac.kr/boards/view/fulltime_professor_en/89) and a joint professor in [the school of computing](https://cs.kaist.ac.kr/people/view?idx=620&kind=faculty&menu=171), Korea Advanced Institute of Science and Technology (KAIST).
+      website: https://lanukim.github.io/
+      
+    - name: Wonjae Lee
+      image:
+      bio:
+      website: 
+      
+    - name: Jae Yeon Kim 
+      image: /assets/images/kim_jae_yeon.jpg
+      bio: Jae Yeon Kim is an Assistant Professor of Data Science at the KDI School of Public Policy. He is also affiliated with the SNF Agora Institute at Johns Hopkins University, where he was a pre- and postdoctoral fellow. He received his PhD in political science from the University of California-Berkeley, where he was a Senior Data Science Fellow at Social Science D-Lab. He studies the intersection of identity, inequality, civic engagement, and political participation, drawing primarily on computational, experimental, and archival methods. He has published widely in leading political science and computational social science journals. He co-developed [MapAgora](https://snfagora.github.io/MapAgora/), an R package that helps collect, process, and combine various data on U.S. nonprofits at scale. He also wrote an open-access textbook for computational methods titled ["Computational Thinking for Social Scientists."](https://jaeyk.github.io/comp_thinking_social_science/) Kim co-organized the San Francisco Bay Area Summer Institute in Computational Social Science (BAY-SICSS) in 2020.       
+      website: https://jaeyk.github.io/
