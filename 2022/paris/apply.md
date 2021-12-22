@@ -23,7 +23,7 @@ When making our evaluations, we attempt to account for an applicant’s career s
 
 Applicants must submit the following documents:
 
-* CV including an e-mail address and an alternative means of contact (e.g., phone number) and with no picture to mitigate potential halo effects
+* CV including an e-mail address and an alternative means of contact (e.g., phone number) and without picture
 * Statement of intent (maximum two pages) describing research interests and how they can benefit from computational methods
 * OPTIONAL (if travel allowance required): justification for travel allowance including exemplary itinerary and required costs.
 
