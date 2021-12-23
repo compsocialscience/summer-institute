@@ -11,4 +11,4 @@ The instructional program will involve lectures, coding workshops, and participa
 
 Participation is restricted to advanced Master students, PhD students, postdoctoral researchers and early career stage faculty. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science, such as women and scholars from the African continent. Housing and a couple of meals can be covered by us. We can also grant a travel allowance to students who are in need for it. About 25 participants will be invited. Participants are expected to fully attend and participate in the entire two-week program.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2022/paris/apply) are due March 20th.
+[Application materials](https://compsocialscience.github.io/summer-institute/2022/paris/apply) are due March 20.
