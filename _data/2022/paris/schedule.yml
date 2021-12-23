@@ -1,3 +1,102 @@
-- date: June 20, 2022
+- date: 2022-06-19
+  name:  THIS SCHEDULE IS TENTATIVE!
   events:
-    - name: "Schedule coming soon..."
+    - name: "14:00 – 18:00 : Arrival at accomodation"
+    - name: "19:00 : Welcome dinner"
+    
+- date: 2022-06-20
+  name: Introduction and Logistics
+  events:
+    - name: "09:00 - 12:00 What are Computational Social Sciences?"
+    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 16:00 Ethical Considerations in CSS Research"
+    - name: "16:00 - 16:30 Coffee Break"
+    - name: "16:30 - 17:30 'Speed Dating'"
+    - name: "18:00 : Guest Speaker TBA
+    
+- date: 2022-06-21
+  name: Building Data Bases in the Digital World
+  events:
+    - name: "09:00 - 12:00 How is the web written and how to collect data on it?"
+    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 16:00 Group Exercise : Web Scraping"
+    - name: "16:00 - 16:30 Coffee Break"
+    - name: "16:30 - 17:30 'Speed Dating'"
+    - name: "18:00 : Guest Speaker TBA
+    
+- date: 2022-06-22
+  name: Building Data Bases in the Digital World
+  events:
+    - name: "09:00 - 12:00 Regular Expressions"
+    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 16:00 (Even more) Web Scraping"
+    - name: "16:00 - 16:30 Coffee Break"
+    - name: "16:30 - 17:30 'Speed Dating'"
+    - name: "18:00 : Guest Speaker TBA
+    
+- date: 2022-06-23
+  name: Analyzing those Data
+  events:
+    - name: "09:00 - 12:00 Natural Language Processing"
+    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 16:00 Group Exercise : NLP"
+    - name: "16:00 - 16:30 Coffee Break"
+    - name: "16:30 - 17:30 'Speed Dating'"
+    - name: "18:00 : Guest Speaker TBA
+
+- date: 2022-06-24
+  name: Analyzing those Data
+  events:
+    - name: "09:00 - 12:00 Natural Language Processing"
+    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 16:00 Group Exercise : NLP"
+    - name: "16:00 - 16:30 Coffee Break"
+    - name: "16:30 - 17:30 'Speed Dating'"
+    - name: "18:00 : Guest Speaker TBA
+
+- date: 2022-06-25
+  name: off-day
+
+- date: 2022-06-26
+  name: off-day
+
+- date: 2022-06-27
+  name: Research Designs and Group Projects
+  events:
+    - name: "09:00 - 12:00 ABM"
+    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 18:00 Group Projects – take breaks as you wish"
+    - name: "18:00 : Guest Speaker TBA"
+    
+- date: 2022-06-28
+  name: Research Designs and Group Projects
+  events:
+    - name: "09:00 - 12:00 Online Experiments"
+    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 18:00 Group Projects – take breaks as you wish"
+    - name: "18:00 : Guest Speaker TBA"
+
+- date: 2022-06-29
+  name: Research Designs and Group Projects
+  events:
+    - name: "09:00 - 12:00 SNA"
+    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 18:00 Group Projects – take breaks as you wish"
+    - name: "18:00 : Guest Speaker TBA"
+    
+- date: 2022-06-30
+  name: Research Designs and Group Projects
+  events:
+    - name: "09:00 - 12:00 Group Projects – take breaks as you wish"
+    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 18:00 Group Projects – take breaks as you wish"
+    - name: "18:00 : Guest Speaker TBA"
+    
+- date: 2022-07-01
+  name: Closing Day
+  events:
+    - name: "09:00 - 12:00 Group Projects – take breaks as you wish"
+    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 15:00 Group Projects – take breaks as you wish"
+    - name: "15:00 - 18:00 Presentation of Group Projects"
+    - name: "18:00 : Farewell Dinner ; Prizes for Best Projects are Awarded"
