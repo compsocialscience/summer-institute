@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: singapore
 main: true
-image: /assets/images/nus.jpg
+image: /assets/images/singapore.jpg
 ---
 
 From June 13 to June 24, 2022, the [Faculty of Arts & Social Sciences](https://fass.nus.edu.sg/) and the [Centre for Trusted Internet & Community](https://ctic.nus.edu.sg/) will sponsor the Summer Institute in Computational Social Science, to be held at [the National University of Singapore (NUS)](https://www.nus.edu.sg/). The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and early career faculty members interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
