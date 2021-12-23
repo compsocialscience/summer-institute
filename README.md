@@ -17,6 +17,7 @@ Science. It is powered by [GitHub Pages](https://pages.github.com/),
 * [Adding Additional Pages](#adding-additional-pages)
 * [Homepage](#homepage)
 * [Adding a partner location](#adding-a-partner-location)
+* [Videos](#videos)
 * [Admin Documentation](#admin-documentation)
 
 # Layouts
@@ -212,6 +213,22 @@ Example steps for creating a new partner location for 2018 at Northwestern Unive
   once both of these files are created appropriately, it will trigger a new listing on the global `Apply` page, and also create an `Apply` button on the location's listing on the `Locations` page.
 
 8. Additional images for the partner site may be added to the `images/` directory within that location directory.
+
+# Videos
+
+Video files are located in the `_videos` folder. The title for each video is going to be the direct link for that video. For example, `welcome-to-boot-camp.md` will auto-generate this link `https://sicss.io/overview/welcome-to-boot-camp` for that specific video. To add a video file, just drop in a `video-file-name-here.md` file in this folder.
+
+Order-wise, since the current videos have no `date_published` dates, manual orders for each video is set with `has_order`. Bootcamp videos are displayed first, in their respective `has_order` values, followed by non-bootcamp videos. If `has_order` is not set, it will take precedence over other videos (order-wise).
+
+For YouTube links and previews, they are set like this (`welcome-to-boot-camp` example):
+
+```
+preview: https://i.ytimg.com/vi/QB5ypzhIMA8/hqdefault.jpg
+video_url: https://www.youtube.com/watch?v=QB5ypzhIMA8
+embed_url: https://www.youtube.com/embed/QB5ypzhIMA8
+```
+
+Once you find the YouTube link of a video, you can paste that into `video_url`. The unique video ID is at the end, for the example above, it is `QB5ypzhIMA8`. Simply replace that unique video ID for both `preview` and `embed_url` to easily embed the YouTube video and image preview.
 
 ## Google Map
 
