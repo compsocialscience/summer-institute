@@ -1,6 +1,6 @@
 - name: Etienne Ollion
   image: /assets/images/etienne_ollion.png
-  bio: Étienne Ollion is a CNRS research fellow and an Professor in Sociology at l’École Polytechnique. His research focuses on politics, and he integrates digital data to more classic data sources and methods.
+  bio: Étienne Ollion is a CNRS research fellow and Professor of Sociology at École Polytechnique. His research focuses on politics, and he integrates digital data to more classic data sources and methods.
   website: www.ollion.cnrs.fr
   
 - name: Germain Gauthier
@@ -10,5 +10,5 @@
   
 - name: Felix Lennert
   image: /assets/images/felix_lennert.JPG
-  bio: Felix Lennert is a PhD candidate in Sociology at École Polytechnique under the supervision of Étienne Ollion. He holds an M.Sc. in Computational Social Science from Linköping Universitet. His research interest centers around political polarization and its underlying processes which he studies using large-scale social media data and a diverse toolbox of computational methods.
+  bio: Felix Lennert is a PhD candidate in Sociology at École Polytechnique under the supervision of Étienne Ollion. He holds an M.Sc. in Computational Social Science from Linköping Universitet. His research interest centers around political polarization and its underlying processes which he studies using large-scale social media data and a diverse set of computational methods.
   
