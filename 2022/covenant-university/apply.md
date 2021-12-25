@@ -5,7 +5,7 @@ partner_site: covenant-university
 
 # Apply
 
-## Eligibility
+
 
 Participation is restricted to master’s and PhD students, postdoctoral researchers, untenured faculty within five years of their PhD. There are no restrictions based on citizenship, country of study, or employment, but we will prioritise applicants from African countries. There is no registration fee for participating in SICSS-Nigeria, and most of the costs will be covered. The language of instruction will be English.
 
