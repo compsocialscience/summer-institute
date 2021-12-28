@@ -11,7 +11,7 @@ During the first week we will follow a largely instructional program which will 
 
 The second week will focus solely on group based participant-led research projects, with funding available to build the foundations of teams and ideas which can produce publishable work, with input from the conveners. 
 
-While the list is subject to change, we intend to hold instructional workshops on topics such as;
+While the list is subject to change, we intend to hold instructional workshops on topics such as:
 
 1. Reproducible research and ethics;
 2. Web scraping and text as data;
