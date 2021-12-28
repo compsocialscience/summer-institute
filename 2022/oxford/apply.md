@@ -33,11 +33,11 @@ Inquiries can be sent to sicss.oxford[at]nuffield.ox.ac.uk.
 
 ## Application Frequently Asked Questions
 
-#### Can I apply to more than one Summer Institute location?
+##### Can I apply to more than one Summer Institute location?
 
 Yes, but not at the same time. For example, you can apply to SICSS-Oxford, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.
 
-#### Can I participate in SICSS-Oxford if I have already participated in SICSS at another location?
+##### Can I participate in SICSS-Oxford if I have already participated in SICSS at another location?
 
 No. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
 
