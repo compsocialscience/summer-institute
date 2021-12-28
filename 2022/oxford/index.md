@@ -22,4 +22,6 @@ While the list is subject to change, we intend to hold instructional workshops o
 
 Participation is restricted to postgraduate research, doctoral and early career researchers (within 7 years of PhD completion). We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 25 participants will be invited, and participants are expected to fully attend, participate and engage in the entire program.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2022/oxford/apply) are due \_\_\_\_\_.
+**[Application materials](https://compsocialscience.github.io/summer-institute/2022/oxford/apply) are due tba.**
+
+For any questions, please contact us at sicss.oxford[at]nuffield.ox.ac.uk.
