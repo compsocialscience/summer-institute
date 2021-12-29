@@ -13,4 +13,4 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About fifteen participants will be invited, and participants are expected to fully attend and participate in the entire two-week program.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2022/korea/apply) are due May 2, 2022.
+[Application materials](https://compsocialscience.github.io/summer-institute/2022/korea/apply) are due March 31, 2022 (KST).
