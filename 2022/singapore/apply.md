@@ -15,11 +15,16 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 ## How To Apply
 
-Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science, (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. Applicants who are graduate students or postdoctoral researchers must submit two letters of recommendation from faculty advisors. Letters of recommendation should be as informative as possible about your standing in your program, general ability, research potential, and (if applicable) special interest in computational social science. All applications must include an e-mail and an alternative means of contact (e.g., phone number).
+To apply, applicants must submit the following documents via email to [sicss.singapore@gmail.com](sicss.singapore@gmail.com) with **SICSS Singapore 2022 Application** as the subject.
 
-**In order to be guaranteed full consideration, all application materials must be submitted by Monday, February 21, 2022.** All application materials must be submitted through email. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by \_\_\_\_\_, and will ask participants to confirm their participation very soon thereafter.
+1. a curriculum vitae
+2. a statement (maximum 500 words) describing both any current research and your interest in computational social science
+3. one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences in the email body describing the contributions of each individual author.
+4. Applicants who are graduate students or postdoctoral researchers must submit the contact information of one faculty advisor. **Letters of recommendation are not required at this point.**
 
-Inquiries can be sent to [mukerjee@nus.edu.sg](mailto:mukerjee@nus.edu.sg).
+**In order to be guaranteed full consideration, all application materials must be submitted by Monday, February 21, 2022.** All application materials must be submitted through email. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 4, 2022, and will ask participants to confirm their participation very soon thereafter.
+
+Inquiries can be sent to [sicss.singapore@gmail.com](sicss.singapore@gmail.com).
 
 ## Application Frequently Asked Questions
 
