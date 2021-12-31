@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: amu
 main: true
-image: /assets/images/poznan.jpg
+image: /assets/images/amu-website.JPG
 ---
 
 From June 20 to July 1, 2022, the Faculty of Law and Administration at Adam Mickiewicz University will sponsor the Summer Institute in Computational Social Science, to be held completely virtually. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
