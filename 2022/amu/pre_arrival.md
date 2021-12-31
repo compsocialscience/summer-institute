@@ -18,7 +18,7 @@ Teaching Assistants will host office hours through Slack to support you as you w
 
 In order to prepare for SICSS-AMU 2022, you should read Matt Salganik’s book, *[Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com)* ([Read online](https://www.bitbybitbook.com/en/1st-ed/preface/) or purchase from [IndieBound](https://www.indiebound.org/book/9780691158648), [Princeton University Press](https://press.princeton.edu/books/paperback/9780691196107/bit-by-bit)), or [Amazon](https://www.amazon.com/Bit-Social-Research-Digital-Age/dp/0691158649), [Barnes & Noble](https://www.barnesandnoble.com/w/bit-by-bit-matthew-salganik/1125483924). Parts of this book, which is a broad introduction to computational social science, will be review for most of you, but if we all read this book ahead of time, then we can use our time together for more advanced topics.
 
-## Coding Boot Camp
+## SICSS regular Boot Camp
 
 The [SICSS Boot Camp](https://sicss.io/boot_camp) is an online training program created by Chris Bail to provide you with beginner level skills in coding so that you can follow the more advanced curriculum we teach at SICSS. The videos and materials are designed for complete beginners and are best viewed as a sequence since each video builds upon content introduced in previous tutorials. If you are already familiar with the topics in these videos, you do not need to complete them.
 
@@ -30,6 +30,10 @@ If you would like more practice after completing the Boot Camp videos, some othe
 
 Please note that the majority of the coding work presented at SICSS-AMU will employ R. You are welcome to employ a language of your choice, such as Python, Julia, or other languages that are commonly used by computational social scientists. However, we cannot support those languages.
 
+## SICSS-AMU Boot Camp
+
+All participants of SICSS-AMU will be invited to join in our Live Boot Camp, where our Teaching Assistants will show more advance issues about coding, statistics and mathematics in areas, which will be the subject of our summer school. We believe, this introductory course will help to better understand our scheduled lectures.
+Live Boot Camp will take place two week before SICSS-AMU in the form of three Zoom meetings, more informations will be publish via SICSS 2022 Slack channel.
 
 ## Computing environment
 
@@ -51,4 +55,4 @@ Many participants at SICSS use GitHub to collaborate. If you do not yet have one
 
 ## Office hours
 
-The SICSS-AMU [Teaching Assistants](https://sicss.io/2022/duke/people#teaching_assistants) will host weekly office hours in the SICSS 2022 Slack. You can find information about the office hours in the SICSS 2022 Slack channel #pre-office-hours. If you are not able to attend during the regularly scheduled office hours or have any questions about office hours, please contact one of the [Teaching Assistants](https://sicss.io/2022/duke/people#teaching_assistants).
+The SICSS-AMU [Teaching Assistants](https://sicss.io/2022/duke/people#teaching_assistants) will host weekly office hours in the form of Zoom meeting. You can find all necessary information about the office hours in the SICSS 2022 Slack channel #pre-office-hours. If you are not able to attend during the regularly scheduled office hours or have any questions about office hours, please contact our supervisor of Teaching Assistants (Jędrzej Wydra, e-mail: jedrzej.wydra@amu.edu.pl).
