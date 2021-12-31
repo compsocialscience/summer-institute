@@ -9,10 +9,10 @@ The Summer Institute will bring together people from many fields and backgrounds
 
 - Complete the pre-institute readings
 - Complete coding bootcamp (if needed)
-- Watch lecture videos
+- Join in our SICSS-AMU Boot Camp (recommended)
 - Prepare your computing environment
 
-Teaching Assistants will host office hours through Slack to support you as you work through these pre-arrival materials.
+Teaching Assistants will host office hours through Zoom to support you as you work through these pre-arrival materials.
 
 ## Reading
 
