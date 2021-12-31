@@ -55,4 +55,4 @@ Many participants at SICSS use GitHub to collaborate. If you do not yet have one
 
 ## Office hours
 
-The SICSS-AMU [Teaching Assistants](https://sicss.io/2022/duke/people#teaching_assistants) will host weekly office hours in the form of Zoom meeting. You can find all necessary information about the office hours in the SICSS 2022 Slack channel #pre-office-hours. If you are not able to attend during the regularly scheduled office hours or have any questions about office hours, please contact our supervisor of Teaching Assistants (Jędrzej Wydra, e-mail: jedrzej.wydra@amu.edu.pl).
+The SICSS-AMU [Teaching Assistants](https://sicss.io/2022/duke/people#teaching_assistants) will host weekly office hours in the form of Zoom meetings. You can find all necessary information about the office hours in the SICSS 2022 Slack channel #pre-office-hours. If you are not able to attend during the regularly scheduled office hours or have any questions about office hours, please contact our supervisor of Teaching Assistants (Jędrzej Wydra, e-mail: jedrzej.wydra@amu.edu.pl).
