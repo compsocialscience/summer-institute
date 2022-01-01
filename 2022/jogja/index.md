@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: jogja
 main: true
-image: /assets/images/jogja.jpg
+image: /assets/images/uiijogja.jpg
 ---
 
 From July 18 to July 29, 2022, Center of Data Science, Department of Informatics at Universitas Islam Indonesia will sponsor the Summer Institute in Computational Social Science, to be held at Universitas Islam Indonesia as a hybrid event. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
