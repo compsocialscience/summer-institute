@@ -1,12 +1,12 @@
-- name: Eliott Ash
+- name: Elliott Ash
   image: 
-  bio:
-  website: 
+  bio: Elliott Ash is Assistant Professor of Law, Economics, and Data Science at ETH Zurich. His research focuses on empirical analysis of the law and legal system using techniques from econometrics, natural language processing, and machine learning.
+  website: http://elliottash.com
   
 - name: Marie Bergström
   image: 
   bio: Marie Bergström is a Permanent Researcher at the French National Institute for Demography. Her work deals with online dating. 
-  website: 
+  website: https://www.ined.fr/en/research/researchers/Bergström+Marie
   
 - name: Julia Cagé
   image: 
@@ -45,6 +45,6 @@
   
 - name: Paola Tubaro
   image: 
-  bio: 
-  website: 
+  bio: Paola Tubaro is CNRS Senior Research Fellow at the Laboratoire Interdisciplinaire des Sciences du Numérique (LISN). Her research focuses on the digital platform economy, the global supply networks of the artificial intelligence industry, the role of human labour in the development of automation, and inequalities in access to data. 
+  website: https://databigandsmall.com/
  
