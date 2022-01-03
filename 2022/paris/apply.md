@@ -12,11 +12,12 @@ Participation is **restricted to Ph.D. students, postdoctoral researchers, and e
 The Summer Institute aims to bring together computational social scientists across different levels of technical experience. The **language of instruction will be English**, for which we require a good reading and speaking command. Participants **need to be familiar with at least one scripting language** before the meeting. **Courses will be mostly taught in R.** Participants with little experience with coding in R are expected to complete a SICSS training program upfront. Participants with less experience with social science research are expected to complete additional readings in advance of the summer institute (material will be provided). 
 
 In addition to experience with/interest in CSS, we shall evaluate applicants along several dimensions:
-Research and teaching in the area of computational social science
-Contributions to public goods, such as creating open-source software, curating public datasets, and creating educational opportunities for others
-Likelihood to benefit from participation
-Likelihood to contribute to the educational experience of other participants
-Potential to disseminate computational social science to new intellectual communities and areas of research.
+
+* Research and teaching in the area of computational social science
+* Contributions to public goods, such as creating open-source software, curating public datasets, and creating educational opportunities for others
+* Likelihood to benefit from participation
+* Likelihood to contribute to the educational experience of other participants
+* Potential to disseminate computational social science to new intellectual communities and areas of research
 
 When selecting the applications, we will take into account the applicant’s career stage and previous educational opportunities.
 
