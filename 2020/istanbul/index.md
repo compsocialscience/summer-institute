@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: istanbul
 main: true
-image: /assets/images/istanbul.jpg
+image: /2021/materials/istanbul/istanbul.jpeg
 ---
 
 **Update: Because of COVID-19, SICSS-Istanbul will be switched from an in-person event to a virtual event.**

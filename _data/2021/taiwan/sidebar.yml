@@ -6,3 +6,8 @@
   url: "people"
 - name: Schedule & Materials
   url: "schedule"
+- name: Demo Day
+  url: "demoday"
+- name: "Post Mortem"
+  url: "post-mortem"
+  link: '#taipei'

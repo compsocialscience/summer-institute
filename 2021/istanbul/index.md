@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: istanbul
 main: true
-image: /assets/images/istanbul.jpg
+image: /2021/materials/istanbul/istanbul.jpeg
 ---
 
 From Tuesday, June 1 to Friday, June 25, 2021, Kadir Has University will host a virtual partner event of Summer Institute in Computational Social Science. In addition to the SICSS core sponsors, SICSS-Istanbul is sponsored by Kadir Has University.  The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and early career faculties interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).

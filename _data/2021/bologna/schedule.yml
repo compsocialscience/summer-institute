@@ -25,7 +25,7 @@
     - name: "15:00 - 16:00	Activity: Text Analysis"
 
 - date: 2021-06-24
-  name: Surveys in the Digital Age
+  name: Surveys and Mass Collaboration in the Digital Age
   events:
     - name: "10:15 - 11:15	Surveys"
     - name: "11:15 - 12:00	Small group activity"
@@ -34,14 +34,11 @@
     - name: "15:00 - 16:00	Group activity"
 
 - date: 2021-06-25
-  name: Mass collaboration and machine learning
+  name: Experiments
   events:
     - name: "10:15-11:15	Experiments"
     - name: "11:15-12:00	Small group activity"
     - name: "12:30-13:30	Brown bag seminar: Workshop Individual Projects"
-    - name: "14:00-15:00	Zero Variable cost"
-    - name: "15:00-15:30	3 Rs"
-    - name: "15:30-16:00	Group discussion"
 
 - date: 2021-06-28
   name: Invited speakers and workshop on individual projects
@@ -70,7 +67,7 @@
   name: Invited speakers and workshop on individual projects
   events:
     - name: "10:00 - 12:15 Sönke Ehret:Online Experiments and Virtual Labs: Issues, Trends, and Practical Matters"
-    - name: "12:30 - 13:45 Brown Bag Seminar: Workshop Individual Projects"
+    - name: "12:30 - 14:30 Brown Bag Seminar: Workshop Individual Projects"
 
 - date: 2021-07-02
   name: Invited speakers and workshop on individual projects

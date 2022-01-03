@@ -9,104 +9,22 @@
     {% include navbar.html %}
     <!-- Start content -->
     {% include hero_secondary.html %}
-    </div>
     <!--/jumbotron-->
     {% include breadcrumb.html %}
-    <div class="container">
-      <div class="row">
-        <div class="col-md-8">
-          <p class="lead pb-5">
-            We provide state-of-the art training in a range of different areas
-            in computational social science from ethics to text analysis and
-            mass collaboration.
-          </p>
-        </div>
-        <!--/col-->
-      </div>
-      <!--/row-->
-      <div class="row">
-        <div class="col-md-6">
-          <div class="card">
-            <img
-              src="assets/images/coding-02.jpg"
-              alt="Computer"
-              class="card-img-top"
-            />
-            <div class="card-body">
-              <h5 class="card-title">Bootcamp Materials</h5>
-              <p class="card-text">
-                The SICSS Bootcamp is an online training program designed to
-                provide you with beginner level skills in coding so that you can
-                follow the more advanced curriculum we teach at the partner
-                locations of the Summer Institutes in Computational Social
-                Science.
-              </p>
-              <a href="boot_camp" class="btn btn-primary">Bootcamp Materials</a>
-            </div>
-            <!--/card-body-->
-          </div>
-          <!--/card-->
-        </div>
-        <!--/col-->
-        <div class="col-md-6">
-          <div class="card">
-            <img
-              src="assets/images/coding-01.jpg"
-              alt="Computer"
-              class="card-img-top"
-            />
-            <div class="card-body">
-              <h5 class="card-title">Main Curriculum</h5>
-              <p class="card-text">
-                The SICSS materials are the training materials used at the
-                SICSS central location. These materials are designed for
-                graduate students, postdocs, and junior faculty from both the
-                social and data sciences. They assume knowledge of the materials
-                in the SICSS bootcamp.
-              </p>
-              <a href="curriculum" class="btn btn-primary">Main Curriculum</a>
-            </div>
-            <!--/card-body-->
-          </div>
-          <!--/card-->
-        </div>
-        <!--/col-->
-      </div>
-      <!--/row-->
-      <hr class="my-5" />
-      <div class="row justify-content-md-center mb-5">
-        <div class="col-md-12">
-          <div class="card mb-3">
-            <div class="row no-gutters">
-              <div class="col-md-4">
-                <img
-                  src="assets/images/partner-location-01.jpg"
-                  class="card-img card-img-top"
-                  alt="Partner location"
-                />
-              </div>
-              <div class="col-md-8">
-                <div class="card-body">
-                  <h5 class="card-title">Partner Location Materials</h5>
-                  <p class="card-text">
-                    In addition to the materials used at the SICSS central
-                    location, many partner locations develop their own materials
-                    covering different topics or with different levels of depth.
-                  </p>
-                  <a href="https://github.com/compsocialscience/summer-institute/blob/master/_data/alternative_curriculum.md" class="btn btn-primary"
-                    >Partner Location Materials</a
-                  >
-                </div>
-              </div>
-            </div>
-          </div>
+
+    <!-- Start content -->
+    <section>
+      <div class="container">
+        <div class="row">
+          {% comment %} sidebar {% endcomment %} {% include videos_sidebar.html
+          %}
+          <div class="col-sm-8">{% include video_listing.html %}</div>
         </div>
       </div>
-    </div>
-    <!--/container-->
+    </section>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-     {% include footer.html %}
+    {% include footer.html %}
   </body>
 </html>

@@ -10,7 +10,13 @@
                     {% assign relative_breadcrumb_arr = breadcrumbs | slice:0, forloop.index %}
                     {% assign relative_breadcrumb_str = relative_breadcrumb_arr | join: "/" %}
                         {% if forloop.last %}
-                            <li class="breadcrumb-item active" aria-current="page">{{ breadcrumb | replace: "_", " " | capitalize }}</li>
+                            {% if page.title and breadcrumbs contains "_videos" %}
+                            <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
+                            {% else %}                           
+                            <li class="breadcrumb-item active" aria-current="page">{{ breadcrumb | replace: "_", " " | capitalize | replace: "-", " " }}</li>
+                            {% endif %}
+                        {% elsif breadcrumb == '_videos' or breadcrumb == 'boot_camp' %}
+                            <li class="breadcrumb-item"><a href="{{site.baseurl | append: "/overview/" }}">Overview</a></li>
                         {% else %}
                             <li class="breadcrumb-item"><a href="/{{site.baseurl}}{{relative_breadcrumb_str}}">{{ breadcrumb | replace: "_", " " | capitalize }}</a></li>
                         {% endif %}

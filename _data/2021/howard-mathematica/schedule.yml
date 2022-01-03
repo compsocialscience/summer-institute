@@ -97,7 +97,18 @@
     - name: "10:00 - 10:30 Institute Introduction and logistics (*Zoom*) [(video)](https://youtu.be/psQlBLbDQ58) "
     - name: "10:30 - 11:30 Small group discussions [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small_group_discussions.md) (*Zoom*) [(video)](https://youtu.be/KTBov0oin_w)"
     - name: "11:30 - 12:00 Break"
-    - name: '12:00 - 1:00 "Getting the most out of your SICSS experience" - Roundtable discussion with SICSS alums of color  (*Zoom*) [(video)](https://youtu.be/Amp5OUV9h4Q) OR R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)'
+    - name: '12:00 - 1:00 "Getting the most out of your SICSS experience" - Roundtable discussion with SICSS alums of color  (*Zoom*) [(video)](https://youtu.be/Amp5OUV9h4Q) OR R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)
+    
+       - Jae Yeon Kim (SICSS-Princeton 2019, organizer of SICSS-Bay Area 2020)
+     
+       - Zanele Munyikwa (SICSS-Duke 2018)
+     
+       - Demetrius Murphy (SICSS-Duke 2020)
+     
+       - Malebo Sephodi (SICSS-Stellenbosch 2020)
+     
+       - Naniette Coleman (SICSS-Princeton 2019, organizer of SICSS-Howard/Mathematica 2021)'
+       
     - name: "1:00 - 1:30 Break"
     - name: "1:30 - 1:45 Introduction to the group exercise [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_participant.md); [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/activity/lesson_plan_ethics_instructor.md) (*Zoom*) [(video)](https://youtu.be/Mv4syN26MOQ)"
     - name: "1:45 - 2:45 Small group discussion of [case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf) (*Zoom*)"
@@ -142,7 +153,7 @@
     - name: "10:15 - 10:30 [Introduction to the group exercise](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/intro-to-activity.pdf), [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/lesson_plan_survey_participants.md); [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day4-surveys/activity/lesson_plan_survey_instructor.md) (*Zoom*) (video)"
     - name: "10:30 - 11:30 Morning group exercise (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: '12:00 - 1:00 Bite-Sized Lunchtime Talk: The California Policy Lab (encouraged) (*Zoom*) (video and Q&A not available) [(slides)](https://drive.google.com/file/d/19-VJ6GbOihLLVHMr5o8mV19D6EjCju75/view?usp=sharing) OR R, Python, and STATA Office hours with Mathematica TAs (as needed) (*Zoom*)'
+    - name: '12:00 - 1:00 Bite-Sized Lunchtime Talk: The California Policy Lab (encouraged) (*Zoom*) (video and Q&A not available) [(slides)](https://drive.google.com/file/d/1pQFSG4F1yf5Me3Nc6yMaZOT40OEg1xEN/view?usp=sharing) OR R, Python, and STATA Office hours with Mathematica TAs (as needed) (*Zoom*)'
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 3:00 Afternoon group exercise (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "3:00 - 3:15 Break"
@@ -181,51 +192,65 @@
   - name: "10:15 - 10:45 Break"
   - name: "10:45 - 11:45 Round 1-6 (ten minutes each) (*Zoom*)"
   - name: "11:45 - 12:00 Break"
-  - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: Black in AI (encouraged) (*Zoom*) [(video)](https://youtu.be/uUyNd3yjTv8) (Q&A) (slides)"
-  - name: "1:00 - 2:30 Break"
-  - name: "2:30 - 3:30 Round 1-6 (ten minutes each) (*Zoom*)"
+  - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: Black in AI (encouraged) (*Zoom*) [(video)](https://youtu.be/uUyNd3yjTv8) [(Q&A)](https://youtu.be/1EWSzqOG4oY)"
+  - name: "1:00 - 2:30 Break [(short video before starting)](https://youtu.be/jUc0gURyxU0)"
+  - name: "2:30 - 3:30 Round 7-12 (ten minutes each) (*Zoom*)"
   - name: "3:30 - 3:45 Break"
-  - name: "3:45 - 4:00 Group debrief (join research teams) (*Zoom*) (video)"
-  - name: "4:00 - 5:30 Ruha Benjamin, Ph.D., Associate Professor of African American Studies, Princeton University - live session to include Q&A and office hours (*Zoom*) [(video)](https://youtu.be/qDWpPcILRtQ) (Q&A)"
+  - name: "3:45 - 4:00 Group debrief (join research teams) (*Zoom*) [(video)](https://youtu.be/N_uUx66jyHs)"
+  - name: "4:00 - 5:30 Ruha Benjamin, Ph.D., Associate Professor of African American Studies, Princeton University - live session to include Q&A and office hours (*Zoom*) (video, Q&A, and slides not available)"
 
 - date: 2021-06-22
   name: "Day 7: Work on group projects and participate in SICSS Festival"
   events:
   - name: "Mathematica TAs are available via email for consultation (please see Slack)"
-  - name: "10:00 - 10:15 Logistics (*Zoom*) (video)"
+  - name: "10:00 - 10:15 Logistics (*Zoom*) [(video)](https://youtu.be/9IRfltpb5C8)"
   - name: "10:15 - 12:00 Work on group projects"
-  - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: The University of California's Publisher Negotiation Team (encouraged) (*Zoom*) [(video)](https://youtu.be/euXlS8Ybo3Q) (Q&A) (slides)"
+  - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: The University of California's Publisher Negotiation Team (encouraged) (*Zoom*) [(video)](https://youtu.be/euXlS8Ybo3Q) [(Q&A)](https://youtu.be/XX2GRc0SgJM) (slides)"
   - name: "1:00 - 4:00 Work on group projects" 
-  - name: "4:00 - 5:30 Chris Wheat, Ph.D., Co-President, JP Morgan Chase Institute - live session to include Q&A and office hours (*Zoom*) [(video)](https://youtu.be/lLVOGLDK97o) (Q&A) (slides)"
+  - name: "4:00 - 5:30 Chris Wheat, Ph.D., Co-President, JP Morgan Chase Institute - live session to include Q&A and office hours (*Zoom*) [(video)](https://youtu.be/lLVOGLDK97o) [(Q&A)](https://youtu.be/DUOl-bGotyc)"
 
 - date: 2021-06-23
   name: "Day 8: Work on group projects and participate in SICSS Festival"
   events:
   - name: "Mathematica TAs are available via email for consultation (please see Slack)"
-  - name: "10:00 - 10:30 Logistics (*Zoom*) (video)"
+  - name: "10:00 - 10:30 Logistics (*Zoom*) [(video)](https://youtu.be/aVgiNC_KByw)"
   - name: "10:30 - 12:00 Work on group projects"
-  - name: "12:00 - 1:00 Live Mathematica Roundtable (encouraged) (*Zoom*) (video not available)"
+  - name: "12:00 - 1:00 Live Mathematica Roundtable (encouraged) (*Zoom*) (video not available)
+     
+     - Lauren Amos, Senior Researcher
+     
+     - Naihobe Gonzalez, Senior Researcher
+     
+     - Cleo Jacobs Johnson, Senior Researcher
+     
+     - Otis Jennings, Principal Data Scientist
+     
+     - Paul Shattuck, Senior Fellow
+     
+     - Shaun N. Stevenson, Research Associate"
+     
   - name: "1:00 - 4:00 Work on group projects"
-  - name: "4:00 - 5:30 Naomi Sugie, Ph.D., Associate Professor of Criminology, Law, and Society, University of California Irvine - live session to include Q&A and office hour (*Zoom*) [(video)](https://youtu.be/IoOQZUa_Akw) (Q&A) (slides)"
+  - name: "4:00 - 5:30 Naomi Sugie, Ph.D., Associate Professor of Criminology, Law, and Society, University of California Irvine - live session to include Q&A and office hour (*Zoom*) [(video)](https://youtu.be/IoOQZUa_Akw) [(Q&A)](https://youtu.be/H6HABb6uOs0) (slides)"
 
 - date: 2021-06-24
   name: "Day 9: Work on group projects and participate in SICSS Festival"
   events:
   - name: "Mathematica TAs are available via email for consultation (please see Slack)"
-  - name: "10:00 - 10:30 Logistics (*Zoom*) (video)"
+  - name: "10:00 - 10:30 Logistics (*Zoom*) [(video)](https://youtu.be/C2Yf6D58ipU)"
   - name: "10:30 - 12:00 Work on group projects"
-  - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: vary CSS (encouraged) (*Zoom*) [(video)](https://youtu.be/q1MXHf5x7Nk) (Q&A) (slides)" 
+  - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk: vary CSS (encouraged) (*Zoom*) [(video)](https://youtu.be/q1MXHf5x7Nk) [(Q&A)](https://youtu.be/hwM9lSLEKds)" 
   - name: "1:00 - 4:00 Work on group projects"
-  - name: "4:00 - 5:30 Laura Nelson, Ph.D., Assistant Professor of Sociology, Northeastern University - live session to include Q&A and office hour (*Zoom*) [(video)](https://youtu.be/sZsjzksiD2M) (Q&A) (slides)"
+  - name: "4:00 - 5:30 Laura Nelson, Ph.D., Assistant Professor of Sociology, Northeastern University - live session to include Q&A and office hour (*Zoom*) [(video)](https://youtu.be/sZsjzksiD2M) [(Q&A)](https://youtu.be/Up1DrzzhDzw) (slides)"
 
 - date: 2021-06-25
   name: "Day 10: Present group projects and participate in SICSS Festival"
   events:
   - name: "Mathematica TAs are available via email for consultation (please see Slack)"
-  - name: "10:00 - 10:30 Logistics (video)"
-  - name: "10:30 - 12:00 SICSS-Howard/Mathematica 2021 Keynote Address, Timnit Gebru, Ph.D., Co-founder, Black in AI (*Zoom*) (video)"
-  - name: "12:00 - 1:30 Final work on group projects"
-  - name: "1:30 - 4:30 Present group projects (*Zoom*) (video)"
-  - name: "4:30 - 5:00 Closing Plenary address and Q&A, Paul Decker, President and Chief Executive Officer, Mathematica (*Zoom*) (video)"
+  - name: "10:00 - 10:30 Logistics [(video)](https://youtu.be/QE4H1C6a6hw)"
+  - name: "10:30 - 12:00 SICSS-Howard/Mathematica 2021 Keynote Address, Timnit Gebru, Ph.D., Co-founder, Black in AI (*Zoom*) [(video)](https://youtu.be/ML2LOttMGes)"
+  - name: "12:00 - 12:30 Break"
+  - name: "12:30 - 12:50 Overview of Group and Individual Project Presentations"
+  - name: "12:50 - 4:20 Group and Individual Project Presentations (*Zoom*)"
+  - name: "4:20 - 5:00 Closing Plenary address and Q&A, Paul Decker, President and Chief Executive Officer, Mathematica (*Zoom*) [(video)](https://youtu.be/l8qH8HuhOqk)"
   - name: "5:00 - 5:15 Break"
-  - name: "5:15 - 5:45 Debrief and conclusion"
+  - name: "5:15 - 5:45 SICSS-Howard/Mathematica Final Debrief and conclusion"

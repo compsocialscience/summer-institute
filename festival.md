@@ -18,9 +18,14 @@ __Moderator:__ [Thomas Davidson](https://www.thomasrdavidson.com/) (SICSS-Prince
 
 __Description:__ Social life is increasingly mediated through images and video and recent advances in machine learning make it possible to analyze these data at scale. It has become commonplace for computational social scientists to work with text and other complex, unstructured data, but we are only just seeing work that uses computational methods to study images and video. This panel focuses on this innovative area of research, exploring how scholars are using such data in cutting-edge research and the technical and ethical challenges involved in such analyses.
 
-__Open to:__ Unlimited registered participants
+__Open to:__ Unlimited registered participants. Registration has closed.
 
-[Register here](https://forms.gle/FaBQ1afa9nNdAppw8)
+__Archiving:__ This talk will be recorded and archived. [Video](https://youtu.be/FBjx7urvuw8)
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FBjx7urvuw8" title="Using images and video data for social science" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br/>
 
 ### Introduction to Text Analysis in Python: A Hands-on Tutorial
 
@@ -30,11 +35,16 @@ __Speaker:__ [Austin van Loon](https://sociology.stanford.edu/people/austin-van-
 
 __Description:__ The increased availability of machine-readable text provides a unique opportunity for social scientists, granting us unprecedented access to many aspects of both historical and contemporary social life. This tutorial aims to introduce researchers to text analysis in Python, an open-source programming language. Specifically, I’ll seek to cover: using the new Twitter API v2, pre-processing text, visualizing patterns in data, and a few conceptually accessible methods for quantitatively analyzing unigram frequencies (the “dictionary method” and differential language analysis). The tutorial is divided between a publicly available Google Colab notebook (see below) which provides documented, step-by-step example code, and a live session in which I review key points from the notebook and discuss the methods explored therein more analytically.
 
-__Open to:__ 45 registered participants
-
 __Materials:__ [Google Colab notebook](https://bit.ly/3vNQ6oh)
 
-Registration closed
+__Open to:__ 45 registered participants. Registration has closed.
+
+__Archiving:__ This talk will be recorded and archived. [Video](https://youtu.be/ohleQALSrfQ)
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ohleQALSrfQ" title="Introduction to text analysis in python" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br/>
 
 ### Panel discussion on the non-academic job market in computational social science
 
@@ -46,9 +56,9 @@ __Moderator:__ [Chris Bail](https://www.chrisbail.net/) (SICSS-Princeton 17, 19,
 
 __Description:__ Computational social science leads to a wide range of interdisciplinary job opportunities outside academia. These panelists will share their experiences in industry settings and will offer thoughts about how an academic research program in the field could lead to a variety of fulfilling careers.
 
-__Open to:__ Unlimited registered participants
+__Open to:__ Unlimited registered participants. Registration has closed.
 
-[Register here](https://forms.gle/ixdR3wC4WzRRwpBS7)
+__Archiving:__ This talk will not be archived.
 
 ### Panel discussion on the (many) paths to computational social science research in law
 
@@ -60,8 +70,6 @@ __Description:__ Three panelists represent three inspiring examples of interdisc
 
 Event organized by [SICSS-Law 21](https://sicss.io/2021/law/)
 
-[Register here](https://maastrichtuniversity.zoom.us/meeting/register/tJAufuuorj4pHNPKZElKXdZ7rI0QAENVXfdg)
-
 ### Tutorial on deep learning for causal inference
 
 __Time:__ Thursday, June 24, 2021. 11am-12:30pm EDT
@@ -72,9 +80,16 @@ __Description:__ This tutorial will teach participants how to build simple deep 
 
 __Expected background and computing environment:__ This is an advanced tutorial. Participants will need (at least two of): a basic understanding of causal inference, a basic understanding of supervised machine learning, and intermediate to advanced proficiency in some programming language to get the most out of it. No prior knowledge of deep learning is expected. The tutorial will be taught in Python, but the Tensorflow port for R is very, very similar so ideas will transfer.  The tutorial will be taught in Colaboratory, an interactive notebook environment provided by Google. When you start a Colab session, Google provides you a virtual machine with a GPU, making it a great environment to get started with deep learning. Participants won't need to install anything on their computer, but they will need a gmail or Google hosted email account to use Colab.
 
-__Open to:__ Unlimited registered participants
+__Materials:__ [Tutorial](https://colab.research.google.com/drive/1Z4lm419eKPEwS6KltSmBs8qMtEnPf7Rl?usp=sharing); [More tutorials on deep learning for causal inference](https://github.com/kochbj/Deep-Learning-for-Causal-Inference)
 
-[Register here](https://forms.gle/b1EV5W6g9hrkbiRJA)
+__Open to:__ Unlimited registered participants. Registration has closed.
+
+__Archiving:__ This talk will be recorded and archived. [Video](https://youtu.be/v9uf9rDYEMg)
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v9uf9rDYEMg" title="Tutorial on deep learning for causal inference" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br/>
 
 ### Taking Quantitative Description Seriously
 
@@ -86,9 +101,14 @@ __Moderator:__ [Kevin Munger](https://polisci.la.psu.edu/people/kmm7999) (SICSS-
 
 __Description:__ We introduce the rationale for a new peer-reviewed scholarly journal, the [Journal of Quantitative Description: Digital Media](https://journalqd.org/). The journal is intended to create a new venue for research on digital media and address several deficiencies in the current social science publishing landscape. First, descriptive research is undersupplied and undervalued. Second, research questions too often only reflect dominant theories and received  wisdom. Third, journals are constrained by unnecessary boundaries defined by discipline, geography, and length. Fourth, peer review is inefficient and unnecessarily burdensome for both referees and authors. We outline the journal’s scope and structure, which is open access, fee-free and relies on a Letter of Inquiry (LOI) model. Quantitative description can appeal to social scientists of all stripes and is a crucial methodology for understanding the continuing evolution of digital media and its relationship to important questions of interest to computational social scientists.
 
-__Open to:__ Unlimited registered participants
+__Open to:__ Unlimited registered participants. Registration has closed.
 
-[Register here](https://forms.gle/tRF7ttu4RoQKxfAJ7)
+__Archiving:__ This talk will be recorded and archived. [Video](https://youtu.be/o4gD9qtF8-Q)
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o4gD9qtF8-Q" title="Taking Quantitative Description Seriously" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br/>
 
 ### Creating your own virtual lab experiment with Empirica
 
@@ -106,9 +126,7 @@ __References:__ <br />
 [Empirica: a virtual lab for high-throughput macro-level experiments](https://link.springer.com/article/10.3758/s13428-020-01535-9)  <br />
 [Empirica tutorial: Your First Experiment](https://docs.empirica.ly/guides/tutorial-your-first-experiment)  <br />
 
-__Open to:__ Unlimited registered participants
-
-[Register here](https://forms.gle/QDgPF25g8P5VJ6te7)
+__Open to:__ Unlimited registered participants. Registration has closed.
 
 
 # 2020: Monday, June 22 - Friday, June 26

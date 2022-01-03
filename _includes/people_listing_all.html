@@ -1,11 +1,21 @@
 <div class="row">
   <div class="col-sm-12">
-    <h2 class="display-4">Founding Directors</h2>
+    <h2 class="display-4">Director</h2>
     <hr />
     <br />
   </div>
   {% for leader in data.founders %}
     {% include person.html person=leader %}
+  {% endfor %}
+</div>
+<div class="row">
+  <div class="col-sm-12">
+    <h2 class="display-4">Advisory Council</h2>
+    <hr />
+    <br />
+  </div>
+  {% for advisor in data.advisory %}
+    {% include person.html person=advisor %}
   {% endfor %}
 </div>
 <div class="row">
