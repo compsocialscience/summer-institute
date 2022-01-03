@@ -15,9 +15,11 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 ## How To Apply
 
-**In order to be guaranteed full consideration, all application materials must be submitted by February 28, 2022.** All application materials must be submitted through \_\_\_\_\_. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by March 30, and will ask participants to confirm their participation very soon thereafter.
+Applicants must submit the following documents: Resume, Statement of Purpose, and fill out the [online form](https://forms.office.com/r/3UqWsA8HrF).
 
-Inquiries can be sent to \_\_\_\_\_.
+**In order to be guaranteed full consideration, all application materials must be submitted by February 28, 2022.** All application materials must be submitted through the [online form](https://forms.office.com/r/3UqWsA8HrF). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by March 30, and will ask participants to confirm their participation very soon thereafter.
+
+Inquiries can be sent to ask-c2s2@iiit.ac.in.
 
 ## Application Frequently Asked Questions
 
