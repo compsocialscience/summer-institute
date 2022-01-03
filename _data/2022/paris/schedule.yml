@@ -6,7 +6,7 @@
     - name: "13:30 - 14:30 Ethics in Scraping"
     - name: "14:45 - 16:30 Gig workers and women in AI (Paola Tubaro)"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 : Matt Salganik"
+    - name: "17:00 - 18:30 Matt Salganik"
     - name: "18:30 - 21:00 Welcome dinner"
     
 - date: 2022-06-21
@@ -16,7 +16,7 @@
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Exercise"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 : Marie Bergström"
+    - name: "17:00 - 18:30 Marie Bergström"
     
 - date: 2022-06-22
   name: Data Collection
@@ -25,7 +25,7 @@
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Exercise"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 : Julia Cagé"
+    - name: "17:00 - 18:30 Julia Cagé"
     
 - date: 2022-06-23
   name: Data Collection
@@ -34,7 +34,7 @@
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Exercise"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 : Gloria Genaro (tentative)"
+    - name: "17:00 - 18:30 Gloria Genaro (tentative)"
 
 - date: 2022-06-24
   name: Data Collection
@@ -43,7 +43,7 @@
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:00 - 16:30 Group Exercise"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 : Liva Ralaivola (tentative)"
+    - name: "17:00 - 18:30 Liva Ralaivola (tentative)"
 
 - date: 2022-06-25
   name: off-day
@@ -58,7 +58,7 @@
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 : David Garcia"
+    - name: "17:00 - 18:30 David Garcia"
     
 - date: 2022-06-28
   name: Data Analysis
@@ -67,7 +67,7 @@
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 : Ivaylo Petev"
+    - name: "17:00 - 18:30 Ivaylo Petev"
 
 - date: 2022-06-29
   name: Data Analysis
@@ -76,7 +76,7 @@
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 : Elliott Ash (tentative)"
+    - name: "17:00 - 18:30 Elliott Ash (tentative)"
     
 - date: 2022-06-30
   name: Data Analysis
@@ -85,7 +85,7 @@
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 : Guillaume Hollard (tentative)"
+    - name: "17:00 - 18:30 Guillaume Hollard (tentative)"
     
 - date: 2022-07-01
   name: Final day
