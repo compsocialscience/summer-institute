@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: india
 main: true
-image: /assets/images/india.jpg
+image: /assets/images/iiith.jpeg
 ---
 
 From July 11 to July 25, 2022, IIIT Hyderabad will hold the Summer Institute in Computational Social Science in India. The purpose of the Summer Institute is to bring together UG research students, graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
