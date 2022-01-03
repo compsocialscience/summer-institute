@@ -19,7 +19,8 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 この夏期プログラムは、あらゆる技能レベルの計算社会学者を一堂に会することを目的にしています。事前準備として、社会科学の経験が少ない方にはいくつかの文献、プログラミングの経験が少ない方にはオンラインのSICSS boot campを用意しています。参加者の方の事前準備は、SICSSのTAが随時サポートします。
 
 参加者の選考にあたっては以下の点を重視します。1) 計算社会科学（Computational Social Science）に関連した研究および教育活動, 2)オープンソースのソフトウェアや共用のデータセットを作る、ワークショップを開催するなどの社会貢献活動, 3) 参加の重要度, 4) 他の参加者への貢献, 5) 今後計算社会学のネットワークを広げていける可能性。これらに加え、応募者の現在のキャリアや今までの教育経験を考慮にいれます。
-  
+
+
 ## How To Apply
 
 Applicants must submit the following documents:
