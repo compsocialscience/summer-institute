@@ -19,4 +19,4 @@ The Paris Summer Institute is geared toward Ph.D. students, postdoctoral researc
 
 Housing and some meals will be paid for by grants from CREST. We will also offer a few travel allowances to participants who would need (and request) one. About 20 participants will be invited. Participants are expected to fully attend and participate in the entire two-week program.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2022/paris/apply) are due March 20.
+[Application materials](https://compsocialscience.github.io/summer-institute/2022/paris/apply) are due February 28.
