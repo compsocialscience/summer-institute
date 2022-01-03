@@ -7,7 +7,7 @@ partner_site: paris
 
 ## Eligibility
 
-Participation is **restricted to Ph.D. students, postdoctoral researchers, and early career-stage faculties from Europe and Africa. Advanced Master students may also apply.** We explicitly encourage applicants from all backgrounds, especially applicants from groups currently under-represented in computational social science.*
+Participation is **restricted to Ph.D. students, postdoctoral researchers, and early career-stage faculties from Europe and Africa. Advanced Master students may also apply.** We explicitly encourage applicants from all backgrounds, especially applicants from groups currently under-represented in computational social science.
 
 The Summer Institute aims to bring together computational social scientists across different levels of technical experience. The **language of instruction will be English**, for which we require a good reading and speaking command. Participants **need to be familiar with at least one scripting language** before the meeting. **Courses will be mostly taught in R.** Participants with little experience with coding in R are expected to complete a SICSS training program upfront. Participants with less experience with social science research are expected to complete additional readings in advance of the summer institute (material will be provided). 
 
