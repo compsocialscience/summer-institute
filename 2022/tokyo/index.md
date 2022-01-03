@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: tokyo
 main: true
-image: /assets/images/tokyo.jpg
+image: /assets/images/tokyo2.jpg
 ---
 
 From August 1 to August 5, 2022, the Summer Institute in Computational Social Science at Tokyo (SICSS-Tokyo) will be held virtually. The purpose of SICSS-Tokyo is to bring together master students, graduate students, postdoctoral researchers, beginning faculty, and corporate researchers interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
