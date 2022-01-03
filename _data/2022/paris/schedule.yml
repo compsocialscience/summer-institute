@@ -1,45 +1,49 @@
 - date: 2022-06-20
   name: Introduction and Logistics
   events:
-    - name: "13:00 - 14:00 Arrival"
-    - name: "14:00 - 17:00 What are Computational Social Sciences?"
-    - name: "18:00 : Welcome Dinner"
+    - name: "09:30 - 12:00 : What are Computational Social Sciences?"
+    - name: "12:00 - 13:30 Lunch Break"
+    - name: "13:30 - 14:30 Ethics in Scraping"
+    - name: "14:45 - 16:30 Gig workers and women in AI (Paola Tubaro)"
+    - name: "16:30 - 17:00 Coffee Break"
+    - name: "17:00 - 18:30 : Matt Salganik (online)"
+    - name: "18:30 - 21:00 : Welcome dinner"
     
 - date: 2022-06-21
   name: Data Collection
   events:
     - name: "09:30 - 12:00 How is the web written and how to collect data on it?"
-    - name: "12:00 - 13:00 Lunch Break"
-    - name: "13:30 - 16:00 Group Exercise"
-    - name: "16:00 - 17:00 Coffee Break"
+    - name: "12:00 - 13:30 Lunch Break"
+    - name: "13:30 - 16:30 Group Exercise"
+    - name: "16:30 - 17:00 Coffee Break"
     - name: "17:00 - 18:30 : Marie Bergström"
     
 - date: 2022-06-22
   name: Data Collection
   events:
-    - name: "09:30 - 12:00 Regular Expressions"
+    - name: "09:30 - 12:00 Scraping structured formats"
     - name: "12:00 - 13:30 Lunch Break"
-    - name: "13:30 - 16:00 Group Exercise"
-    - name: "16:00 - 17:00 Coffee Break"
+    - name: "13:30 - 16:30 Group Exercise"
+    - name: "16:30 - 17:00 Coffee Break"
     - name: "17:00 - 18:30 : Julia Cagé"
     
 - date: 2022-06-23
-  name: Data Analysis
+  name: Data Collection
   events:
-    - name: "09:00 - 12:00 Natural Language Processing"
+    - name: "09:30 - 12:00 Scraping unstructured formats"
     - name: "12:00 - 13:30 Lunch Break"
-    - name: "13:30 - 16:00 Group Exercise"
-    - name: "16:00 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 : "
+    - name: "13:30 - 16:30 Group Exercise"
+    - name: "16:30 - 17:00 Coffee Break"
+    - name: "17:00 - 18:30 : Gloria Genaro (tentative)"
 
 - date: 2022-06-24
   name: Data Analysis
   events:
-    - name: "09:00 - 12:00 Natural Language Processing"
+    - name: "09:30 - 12:00 Natural Language Processing"
     - name: "12:00 - 13:30 Lunch Break"
-    - name: "13:00 - 16:00 Group Exercise"
-    - name: "16:00 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 : "
+    - name: "13:00 - 16:30 Group Exercise"
+    - name: "16:30 - 17:00 Coffee Break"
+    - name: "17:00 - 18:30 : Liva Ralaivola (tentative)"
 
 - date: 2022-06-25
   name: off-day
@@ -48,42 +52,43 @@
   name: off-day
 
 - date: 2022-06-27
-  name: Quantitative Descriptives
+  name: Data Analysis
   events:
-    - name: "09:00 - 12:00 Lecture"
+    - name: "09:30 - 12:00 Natural Language Processing"
     - name: "12:00 - 13:30 Lunch Break"
-    - name: "13:30 - 17:00 Group Projects – take breaks as you wish"
-    - name: "17:00 - 18:30 : "
+    - name: "13:30 - 16:30 Group Projects"
+    - name: "16:30 - 17:00 Coffee Break"
+    - name: "17:00 - 18:30 : David Garcia (online)"
     
 - date: 2022-06-28
-  name: Forecasting/Nowcasting
+  name: TBA
   events:
-    - name: "09:00 - 12:00 Lecture"
+    - name: "09:30 - 12:00 Lecture"
     - name: "12:00 - 13:30 Lunch Break"
-    - name: "13:30 - 17:00 Group Projects – take breaks as you wish"
-    - name: "17:00 - 18:30 : David Garcia"
+    - name: "13:30 - 16:30 Group Projects"
+    - name: "16:30 - 17:00 Coffee Break"
+    - name: "17:00 - 18:30 : Ivaylo Petev"
 
 - date: 2022-06-29
   name: Agent-based Modeling
   events:
-    - name: "09:00 - 12:00 Lecture (Gianluca Manzo)"
+    - name: "09:30 - 12:00 Lecture (Gianluca Manzo)"
     - name: "12:00 - 13:30 Lunch Break"
-    - name: "13:30 - 17:00 Group Projects – take breaks as you wish"
-    - name: "17:00 - 18:30 : "
+    - name: "13:30 - 16:30 Group Projects"
+    - name: "16:30 - 17:00 Coffee Break"
+    - name: "17:00 - 18:30 : Elliott Ash (tentative)"
     
 - date: 2022-06-30
   name: Experiments
   events:
-    - name: "09:30 - 12:00 Lecture (Guillaume Hollard)"
+    - name: "09:30 - 12:00 Lecture (Marc Keuschnigg. tentative)"
     - name: "12:00 - 13:30 Lunch Break"
-    - name: "13:30 - 17:00 Group Projects – take breaks as you wish"
-    - name: "17:00 - 18:30 : Marc Keuschnigg"
+    - name: "13:30 - 16:30 Group Projects"
+    - name: "16:30 - 17:00 Coffee Break"
+    - name: "17:00 - 18:30 : Guillaume Hollard (tentative)"
     
 - date: 2022-07-01
-  name: Polarization
+  name: Final day
   events:
-    - name: "09:30 - 12:00 Lecture (Lucas Girard)"
-    - name: "12:00 - 13:30 Lunch Break"
-    - name: "13:30 - 15:00 Group Projects – take breaks as you wish"
-    - name: "15:00 - 18:00 Presentation of Group Projects"
-    - name: "18:00 : Farewell Dinner ; Prizes for Best Projects are Awarded"
+    - name: "09:00 - 12:00 Presentations"
+    - name: "12:00 - 13:30 Farewell lunch"
