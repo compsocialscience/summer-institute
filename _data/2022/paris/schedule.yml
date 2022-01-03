@@ -37,7 +37,7 @@
     - name: "17:00 - 18:30 : Gloria Genaro (tentative)"
 
 - date: 2022-06-24
-  name: Data Analysis
+  name: Data Collection
   events:
     - name: "09:30 - 12:00 Natural Language Processing"
     - name: "12:00 - 13:30 Lunch Break"
@@ -61,27 +61,27 @@
     - name: "17:00 - 18:30 : David Garcia"
     
 - date: 2022-06-28
-  name: TBA
+  name: Data Analysis
   events:
-    - name: "09:30 - 12:00 Lecture"
+    - name: "09:30 - 12:00 TBA"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
     - name: "17:00 - 18:30 : Ivaylo Petev"
 
 - date: 2022-06-29
-  name: Agent-based Modeling
+  name: Data Analysis
   events:
-    - name: "09:30 - 12:00 Lecture (Gianluca Manzo)"
+    - name: "09:30 - 12:00 Agent-based Modeling (Gianluca Manzo)"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
     - name: "17:00 - 18:30 : Elliott Ash (tentative)"
     
 - date: 2022-06-30
-  name: Experiments
+  name: Data Analysis
   events:
-    - name: "09:30 - 12:00 Lecture (Marc Keuschnigg, tentative)"
+    - name: "09:30 - 12:00 Experiments (Marc Keuschnigg, tentative)"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
