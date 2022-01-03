@@ -29,7 +29,7 @@ Applicants must submit the following documents:
 * A statement of intent (maximum one page) describing their research interests and how they would benefit from this summer school.
 * (if travel allowance required): justification for travel allowance, including for instance an exemplary itinerary and a summary of potential expenses
 
-**In order to be guaranteed consideration, all application materials must be submitted by March 20, 2022.** All application materials must be submitted through the following Google Form \[insert link\]. We will notify applicants solely through e-mail by April 10, 2022, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed consideration, all application materials must be submitted by February 28, 2022.** All application materials must be submitted through the following Google Form \[insert link\]. We will notify applicants solely through e-mail by March 15, 2022, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to SICSSParis@gmail.com.
 
