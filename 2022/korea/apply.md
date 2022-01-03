@@ -7,19 +7,19 @@ partner_site: korea
 
 ## Eligibility
 
-Participation is restricted to \_\_\_\_\_. However, there are no restrictions based on citizenship, country of study, or country of employment. About \_\_\_\_\_ participants will be invited.
+Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. However, there are no restrictions based on citizenship, country of study, or country of employment. About 15 participants will be invited. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science.
 
-The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours during the two months before the Institute.
+The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be supported by teaching assistants during the Summer Institute.
 
-We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
+We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
 
 ## How To Apply
 
-Applicants must submit the following documents: \_\_\_\_\_
+We also ask applicants to upload the following documents: (i) a curriculum vitae (in English), (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science (in English/Korean), and (iii) one writing sample (no more than 35 pages; in English/Korean). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. Optionally, if you don't have a good writing sample yet, you can submit a well-documented research project website (e.g., GitHub repositories with a README file explaining the file structure, the project goal, procedures, and key outcomes).
 
-**In order to be guaranteed full consideration, all application materials must be submitted by \_\_\_\_\_.** All application materials must be submitted through \_\_\_\_\_. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by \_\_\_\_\_, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by March 31, 2022 (KST). The invitation emails will be sent by April 30, 2022 (KST).** All application materials must be submitted through \_\_\_\_\_. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by sicss.korea@gmail.com, and will ask participants to confirm their participation very soon thereafter.
 
-Inquiries can be sent to \_\_\_\_\_.
+Inquiries can be sent to sicss.korea@gmail.com.
 
 ## Application Frequently Asked Questions
 

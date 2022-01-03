@@ -1,58 +1,45 @@
-- date: 2022-06-19
-  name:  THIS SCHEDULE IS TENTATIVE!
-  events:
-    - name: "14:00 – 18:00 : Arrival at accomodation"
-    - name: "19:00 : Welcome dinner"
-    
 - date: 2022-06-20
   name: Introduction and Logistics
   events:
-    - name: "09:00 - 12:00 What are Computational Social Sciences?"
-    - name: "12:00 - 13:00 Lunch Break"
-    - name: "13:00 - 16:00 Ethical Considerations in CSS Research"
-    - name: "16:00 - 16:30 Coffee Break"
-    - name: "16:30 - 17:30 'Speed Dating'"
-    - name: "18:00 : Guest Speaker TBA
+    - name: "13:00 - 14:00 Arrival"
+    - name: "14:00 - 17:00 What are Computational Social Sciences?"
+    - name: "18:00 : Welcome Dinner"
     
 - date: 2022-06-21
-  name: Building Data Bases in the Digital World
+  name: Data Collection
   events:
-    - name: "09:00 - 12:00 How is the web written and how to collect data on it?"
+    - name: "09:30 - 12:00 How is the web written and how to collect data on it?"
     - name: "12:00 - 13:00 Lunch Break"
-    - name: "13:00 - 16:00 Group Exercise : Web Scraping"
-    - name: "16:00 - 16:30 Coffee Break"
-    - name: "16:30 - 17:30 'Speed Dating'"
-    - name: "18:00 : Guest Speaker TBA
+    - name: "13:30 - 16:00 Group Exercise"
+    - name: "16:00 - 17:00 Coffee Break"
+    - name: "17:00 - 18:30 : Marie Bergström"
     
 - date: 2022-06-22
-  name: Building Data Bases in the Digital World
+  name: Data Collection
   events:
-    - name: "09:00 - 12:00 Regular Expressions"
-    - name: "12:00 - 13:00 Lunch Break"
-    - name: "13:00 - 16:00 (Even more) Web Scraping"
-    - name: "16:00 - 16:30 Coffee Break"
-    - name: "16:30 - 17:30 'Speed Dating'"
-    - name: "18:00 : Guest Speaker TBA
+    - name: "09:30 - 12:00 Regular Expressions"
+    - name: "12:00 - 13:30 Lunch Break"
+    - name: "13:30 - 16:00 Group Exercise"
+    - name: "16:00 - 17:00 Coffee Break"
+    - name: "17:00 - 18:30 : Julia Cagé"
     
 - date: 2022-06-23
-  name: Analyzing those Data
+  name: Data Analysis
   events:
     - name: "09:00 - 12:00 Natural Language Processing"
-    - name: "12:00 - 13:00 Lunch Break"
-    - name: "13:00 - 16:00 Group Exercise : NLP"
-    - name: "16:00 - 16:30 Coffee Break"
-    - name: "16:30 - 17:30 'Speed Dating'"
-    - name: "18:00 : Guest Speaker TBA
+    - name: "12:00 - 13:30 Lunch Break"
+    - name: "13:30 - 16:00 Group Exercise"
+    - name: "16:00 - 17:00 Coffee Break"
+    - name: "17:00 - 18:30 : "
 
 - date: 2022-06-24
-  name: Analyzing those Data
+  name: Data Analysis
   events:
     - name: "09:00 - 12:00 Natural Language Processing"
-    - name: "12:00 - 13:00 Lunch Break"
-    - name: "13:00 - 16:00 Group Exercise : NLP"
-    - name: "16:00 - 16:30 Coffee Break"
-    - name: "16:30 - 17:30 'Speed Dating'"
-    - name: "18:00 : Guest Speaker TBA
+    - name: "12:00 - 13:30 Lunch Break"
+    - name: "13:00 - 16:00 Group Exercise"
+    - name: "16:00 - 17:00 Coffee Break"
+    - name: "17:00 - 18:30 : "
 
 - date: 2022-06-25
   name: off-day
@@ -61,42 +48,42 @@
   name: off-day
 
 - date: 2022-06-27
-  name: Research Designs and Group Projects
+  name: Quantitative Descriptives
   events:
-    - name: "09:00 - 12:00 ABM"
-    - name: "12:00 - 13:00 Lunch Break"
-    - name: "13:00 - 18:00 Group Projects – take breaks as you wish"
-    - name: "18:00 : Guest Speaker TBA"
+    - name: "09:00 - 12:00 Lecture"
+    - name: "12:00 - 13:30 Lunch Break"
+    - name: "13:30 - 17:00 Group Projects – take breaks as you wish"
+    - name: "17:00 - 18:30 : "
     
 - date: 2022-06-28
-  name: Research Designs and Group Projects
+  name: Forecasting/Nowcasting
   events:
-    - name: "09:00 - 12:00 Online Experiments"
-    - name: "12:00 - 13:00 Lunch Break"
-    - name: "13:00 - 18:00 Group Projects – take breaks as you wish"
-    - name: "18:00 : Guest Speaker TBA"
+    - name: "09:00 - 12:00 Lecture"
+    - name: "12:00 - 13:30 Lunch Break"
+    - name: "13:30 - 17:00 Group Projects – take breaks as you wish"
+    - name: "17:00 - 18:30 : David Garcia"
 
 - date: 2022-06-29
-  name: Research Designs and Group Projects
+  name: Agent-based Modeling
   events:
-    - name: "09:00 - 12:00 SNA"
-    - name: "12:00 - 13:00 Lunch Break"
-    - name: "13:00 - 18:00 Group Projects – take breaks as you wish"
-    - name: "18:00 : Guest Speaker TBA"
+    - name: "09:00 - 12:00 Lecture (Gianluca Manzo)"
+    - name: "12:00 - 13:30 Lunch Break"
+    - name: "13:30 - 17:00 Group Projects – take breaks as you wish"
+    - name: "17:00 - 18:30 : "
     
 - date: 2022-06-30
-  name: Research Designs and Group Projects
+  name: Experiments
   events:
-    - name: "09:00 - 12:00 Group Projects – take breaks as you wish"
-    - name: "12:00 - 13:00 Lunch Break"
-    - name: "13:00 - 18:00 Group Projects – take breaks as you wish"
-    - name: "18:00 : Guest Speaker TBA"
+    - name: "09:30 - 12:00 Lecture"
+    - name: "12:00 - 13:30 Lunch Break"
+    - name: "13:30 - 17:00 Group Projects – take breaks as you wish"
+    - name: "17:00 - 18:30 : Marc Keuschnigg"
     
 - date: 2022-07-01
-  name: Closing Day
+  name: Polarization
   events:
-    - name: "09:00 - 12:00 Group Projects – take breaks as you wish"
-    - name: "12:00 - 13:00 Lunch Break"
+    - name: "09:30 - 12:00 Lecture (Lucas Girard)"
+    - name: "12:00 - 13:30 Lunch Break"
     - name: "13:00 - 15:00 Group Projects – take breaks as you wish"
     - name: "15:00 - 18:00 Presentation of Group Projects"
     - name: "18:00 : Farewell Dinner ; Prizes for Best Projects are Awarded"
