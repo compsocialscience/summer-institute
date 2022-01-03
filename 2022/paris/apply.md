@@ -24,7 +24,7 @@ When selecting the applications, we will take into account the applicant’s car
 
 ## How To Apply
 
-**In order to be guaranteed consideration, all application materials must be submitted by February 28, 2022.** All application materials must be submitted through the **following Google Form \[insert link\]**. We will notify applicants solely through e-mail by March 15, 2022, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed consideration, all application materials must be submitted by February 28, 2022.** All application materials must be submitted through the **following [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSek0jeJC5NDvZDpiMrKVkEcERVtEI5lWasD_rs9NM6IVHvNkQ/viewform?usp=sf_link)**. We will notify applicants solely through e-mail by March 15, 2022, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to SICSSParis@gmail.com.
 
