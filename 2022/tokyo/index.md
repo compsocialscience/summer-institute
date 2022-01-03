@@ -15,6 +15,7 @@ Participation is restricted to master students, PhD studnets, postdoctoral resea
 
 Inquiries can be sent to sicsstokyo2022@gmail.com.
 
+
 ---
 
 2022年8月1日から8月5日にかけて、Summer Institute in Computational Social Science のサテライト・ワークショップSICSS-Tokyoを、オンライン上で行います。SICSS-Tokyoでは、主に日本にいる若手研究者が計算社会科学（Computational Social Science）の方法論を体系的に学び、情報共有、研究活動を始める場を提供します。この夏期ワークショップは、（広義の）社会科学および（広義の）データ・サイエンスを対象とします。
