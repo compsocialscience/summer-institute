@@ -32,7 +32,7 @@ Applicants must submit the following documents:
 
 You can write in English or Japanses. Co-authored work is acceptable for the writing sample (3), but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. All applications must include an e-mail.
 
-**In order to be guaranteed full consideration, all application materials must be submitted by March 11, 2022. All application materials must be submitted through <a href=https://forms.gle/CkYEX3MYVKXBaeiy6>this google form</a>.** Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 1, 2022, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by March 11, 2022. All application materials must be submitted through [this google form](https://forms.gle/CkYEX3MYVKXBaeiy6).** Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 1, 2022, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to sicsstokyo2022@gmail.com.
 
@@ -45,7 +45,7 @@ Inquiries can be sent to sicsstokyo2022@gmail.com.
  </ol>
 <p>英語、日本語、どちらか扱いやすい言語でご記載ください。(3)に関して、共著のものでも構いません。その場合、ご自身を含む各著者の貢献について明記したメモを添付することをおすすめします。応募にあたり、必ずe-mailアドレスを(1)にご記載ください。</p>
 
-**応募締め切りは、２０２２年３月１１日になります。すべての応募書類は <a href=https://forms.gle/CkYEX3MYVKXBaeiy6>こちらのグーグルフォーム</a>から提出してください.** 応募者の方には、２０２２年４月１日までに合否の連絡をさせていただきます。
+**応募締め切りは、２０２２年３月１１日になります。すべての応募書類は、[こちらのグーグルフォーム](https://forms.gle/CkYEX3MYVKXBaeiy6)から提出してください.** 応募者の方には、２０２２年４月１日までに合否の連絡をさせていただきます。
 
 ご質問がある場合は、sicsstokyo2022@gmail.comにご連絡ください。
 
