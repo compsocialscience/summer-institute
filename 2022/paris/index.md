@@ -15,7 +15,7 @@ Topics covered include data collection (website scraping, cleaning, and restruct
 
 Participants will have ample opportunities to discuss their ideas and research with the organizers, with other participants, as well as with the dozen of guest speakers. Because we are committed to open and reproducible research, all materials created for the Summer Institute will be released open-source.
 
-The Paris Summer Institute is geared **toward Ph.D. students, postdoctoral researchers, and early career stage faculties. Advanced Master students may also apply. We welcome applicants from all backgrounds, especially applicants from groups currently under-represented in computational social science. Although we will prioritize applicants from Europe, we are also keen on building bridges across continents. Scholars from Africa are thus highly encouraged to apply and their travel costs can be covered.** 
+**The Paris Summer Institute is geared toward Ph.D. students, postdoctoral researchers, and early career stage faculties. Advanced Master students may also apply. We welcome applicants from all backgrounds, especially applicants from groups currently under-represented in computational social science. Although we will prioritize applicants from Europe, we are also keen on building bridges across continents. Scholars from Africa are thus highly encouraged to apply and their travel costs can be covered.** 
 
 Housing and some meals will be paid for by grants from CREST. We will also offer a few travel allowances to participants who would need (and request) one. About 20 participants will be invited. Participants are expected to fully attend and participate in the entire two-week program.
 
