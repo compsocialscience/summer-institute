@@ -22,6 +22,11 @@
   image: /assets/images/gloria_genaro.jpg
   bio: Glora Genaro is a postdoctoral student at the Immigration Policy Lab at ETH Zurich. Her research focuses on current challenges of democratic societies in Western Europe and in the US where she studies the demand and supply of populism, electoral responses to immigration, and emotions in politics. 
   website: http://gloriagennaro.rbind.io
+  
+- name: Guillaume Hollard
+  image: /assets/images/guillaume_hollard.jpg
+  bio: Guillaume Hollard is a Senior Researcher at CNRS and Professor of Economics at École Polytechnique. 
+  website: https://sites.google.com/site/webpagehollard/
    
 - name: Marc Keuschnigg
   image: /assets/images/marc_keuschnigg.jpg
@@ -42,6 +47,11 @@
   image: /assets/images/liva_ralaivola.jpg
   bio: Liva Ralaivola is the head of the Criteo Research Lab. There, they develop cutting-edge machine learning tools for online marketing. Formerly, he was a full professor in Computer Science at Aix-Marseille Université (currently on leave). 
   website: https://pageperso.lis-lab.fr/~liva.ralaivola/doku.php
+  
+- name: Matthew Salganik
+  image: /assets/images/matt.gif
+  bio: Matthew Salganik is Professor of Sociology at Princeton University, and he serves as the Director of the Center for Information Technology Policy. He is also affiliated with several of Princeton's interdisciplinary research centers including the Office of Population Research and the Center for Statistics and Machine Learning. His research interests include social networks and computational social science. He is the author of <a href="https://www.bitbybitbook.com/">Bit by Bit&#58; Social Research in the Digital Age</a>.
+  website: https://www.princeton.edu/~mjs3/
   
 - name: Paola Tubaro
   image: /assets/images/paola_tubaro.jpg

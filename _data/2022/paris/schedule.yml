@@ -74,7 +74,7 @@
 - date: 2022-06-30
   name: Experiments
   events:
-    - name: "09:30 - 12:00 Lecture"
+    - name: "09:30 - 12:00 Lecture (Guillaume Hollard)"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 17:00 Group Projects – take breaks as you wish"
     - name: "17:00 - 18:30 : Marc Keuschnigg"
@@ -84,6 +84,6 @@
   events:
     - name: "09:30 - 12:00 Lecture (Lucas Girard)"
     - name: "12:00 - 13:30 Lunch Break"
-    - name: "13:00 - 15:00 Group Projects – take breaks as you wish"
+    - name: "13:30 - 15:00 Group Projects – take breaks as you wish"
     - name: "15:00 - 18:00 Presentation of Group Projects"
     - name: "18:00 : Farewell Dinner ; Prizes for Best Projects are Awarded"
