@@ -4,4 +4,6 @@ partner_site: jias
 schedule: true
 ---
 
-# Schedule
+# Schedule & Materials
+Monday, 20 June 2022
+- Schedule coming soon...
