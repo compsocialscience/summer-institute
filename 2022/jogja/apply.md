@@ -15,8 +15,11 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 ## How To Apply
 
-Applicants must submit the following documents: 1) curriculum vitae 2) research statement (1-3 pages; be sure you include your immediate plans after SICSS-Jogja)
-3) one writing sample (either published or unpublished, 35 pages max).
+Applicants must submit the following documents: 
+
+- curriculum vitae
+- a statement (1-3 pages). It should describe your research, interest in computational science science, and immediate plans after SICSS-Jogja.
+- one writing sample (either published or unpublished, 35 pages max). Co-authored work is acceptable, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author in your writing sample/statement.
 
 **In order to be guaranteed full consideration, all application materials must be submitted by Friday, March 18, 2022, 11:59 pm AoE (Anywhere on Earth).** All application materials must be submitted through \_\_\_\_\_. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by May 2022, and will ask participants to confirm their participation very soon thereafter.
 
