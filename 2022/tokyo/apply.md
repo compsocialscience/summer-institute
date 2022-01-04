@@ -30,7 +30,7 @@ Applicants must submit the following documents:
   <li>one writing sample (no more than 20 pages).</li>
 </ol>
 
-You can write in English or Japanses. Co-authored work is acceptable for the writing sample (3), but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. All applications must include an e-mail.
+You can write in English or Japanse. Co-authored work is acceptable for the writing sample (3), but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. All applications must include an e-mail.
 
 **In order to be guaranteed full consideration, all application materials must be submitted by March 11, 2022 through [this google form](https://forms.gle/CkYEX3MYVKXBaeiy6).** Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 1, 2022, and will ask participants to confirm their participation very soon after that.
 
