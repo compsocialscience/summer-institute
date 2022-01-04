@@ -15,4 +15,4 @@ Application materials are due 11:59pm SAST on Thursday, 31 March 2022.
 
 Join our [email list](https://docs.google.com/forms/d/e/1FAIpQLScjZFlnGEBKvI8chmG1b69T-sARBqe_3ctAwzyG6NCEe62sVg/viewform?usp=sf_link) and follow us on [twitter](https://twitter.com/sicss_jias).
 
-*Due to the uncertainties brought on by the pandemic the structure of events are subject to change. We hope to follow a hybrid structure. Online participation is not restricted while In-person participation will be limited as day-participation to participants who are able to travel to JIAS.Online participation is not restricted while in-person participation will be limited to day participants who are able to travel to JIAS.
+*Due to the uncertainties brought on by the pandemic the structure of events are subject to change. We hope to follow a hybrid structure. Online participation is not restricted while in-person participation will be limited as day-participation to participants who are able to travel to JIAS.Online participation is not restricted while in-person participation will be limited to day participants who are able to travel to JIAS.
