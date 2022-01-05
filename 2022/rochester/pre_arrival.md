@@ -44,7 +44,7 @@ SICSS-University of Rochester 2021 will be using a [flipped classroom model](htt
 
 ## Computing environment
 
-### R
+### Programming
 
 Some of the activities will require coding, and we will support Python and R. You are welcome to use other languages, but we cannot guarantee that we can support them. Before SICSS you should install a modern, stable-release version of [Python, Anaconda distribution](https://www.anaconda.com/products/individual), [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/).
 
