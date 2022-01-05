@@ -26,4 +26,4 @@ Students will have ample opportunities to discuss their ideas and research with 
 
 **[Application materials](https://compsocialscience.github.io/summer-institute/2022/rochester/apply) are due by Friday, March 18th, 2022.**
 
-Participation is restricted to advanced undergraduates, Master's students, PhD students, Postdoctoral researchers, and assistant professors (within 7 years of their Ph.D.). We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. Participants are expected to fully attend and participate in the entire two-week program.
+Participation is restricted to advanced undergraduates, Master's students, PhD students, Postdoctoral researchers, and assistant professors (within 7 years of their PhD). We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. Participants are expected to fully attend and participate in the entire two-week program.
