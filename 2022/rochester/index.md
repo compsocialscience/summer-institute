@@ -26,4 +26,4 @@ Students will have ample opportunities to discuss their ideas and research with 
 
 Details for applications will be shared soon. Applications are due by March 31st, 2022.
 
-Participation is restricted to advanced undergraduates, Master's students, PhD students, Postdoctoral researchers, and assistant professors (in the first 3 years of their careers). We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. Participants are expected to fully attend and participate in the entire two-week program.
+Participation is restricted to advanced undergraduates, Master's students, PhD students, Postdoctoral researchers, and assistant professors (within 7 years of their Ph.D.). We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. Participants are expected to fully attend and participate in the entire two-week program.
