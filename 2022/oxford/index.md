@@ -20,8 +20,8 @@ While the list is subject to change, we intend to hold instructional workshops o
 5. Machine learning;
 6. Geospatial analysis and visualisation.
 
-Participation is restricted to postgraduate research, doctoral and early career researchers (within 7 years of PhD completion). We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 25 participants will be invited, and participants are expected to fully attend, participate and engage in the entire program.
+Participation is restricted to postgraduate research, doctoral and early career researchers (within 7 years of PhD completion). We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 25 participants will be invited, and participants are expected to fully attend, participate and engage in the entire program. Meals and refreshments will be provided free of cost for all participants at SICSS-Oxford during the event. Depending on secured funding, we hope to cover accommodation and travel costs (up to a set cap) for those attending from outside Oxford.
 
-**[Application materials](https://compsocialscience.github.io/summer-institute/2022/oxford/apply) are due tba.**
+**[Application materials](https://compsocialscience.github.io/summer-institute/2022/oxford/apply) are due March 07, 23:59 (UK time).**
 
 For any questions, please contact us at sicss.oxford[at]nuffield.ox.ac.uk.

@@ -15,7 +15,9 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 ## How To Apply
 
-Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research, your interest in computational science science, as well as why you would like to attend SICSS-Oxford (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable but when submitting co-authored work we recommend you include a few sentences describing the contribution of each individual author to the work. **Applications must be submitted as one combined PDF file by email to sicss.oxford[at]nuffield.ox.ac.uk and are due by tba.**
+Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research, your interest in computational science science, as well as why you would like to attend SICSS-Oxford (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable but when submitting co-authored work we recommend you include a few sentences describing the contribution of each individual author to the work. 
+
+**Applications must be submitted as one combined PDF file by email to sicss.oxford[at]nuffield.ox.ac.uk and are due by March 07, 23:59 (UK time).**
 
 Please also include in the body of your e-mail some basic data in this structured format (please copy and paste):
 
