@@ -15,7 +15,7 @@ TAs will host office hours through Slack and GoogleMeet to support you as you wo
 
 ## Reading
 
-In order to prepare for SICSS-Covenant University 2022, you should read Matt Salganik’s book, *[Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com)* ([Read online](https://www.bitbybitbook.com/en/1st-ed/preface/) or purchase from [IndieBound](https://www.indiebound.org/book/9780691158648), [Princeton University Press](https://press.princeton.edu/books/paperback/9780691196107/bit-by-bit)), or [Amazon](https://www.amazon.com/Bit-Social-Research-Digital-Age/dp/0691158649), [Barnes & Noble](https://www.barnesandnoble.com/w/bit-by-bit-matthew-salganik/1125483924). Parts of this book, which is a broad introduction to computational social science, will be reviewed for most of you, but if we all read this book ahead of time, then we can use our time together for more advanced topics.
+In order to prepare for SICSS-Nigeria 2022, you should read Matt Salganik’s book, *[Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com)* ([Read online](https://www.bitbybitbook.com/en/1st-ed/preface/) or purchase from [IndieBound](https://www.indiebound.org/book/9780691158648), [Princeton University Press](https://press.princeton.edu/books/paperback/9780691196107/bit-by-bit)), or [Amazon](https://www.amazon.com/Bit-Social-Research-Digital-Age/dp/0691158649), [Barnes & Noble](https://www.barnesandnoble.com/w/bit-by-bit-matthew-salganik/1125483924). Parts of this book, which is a broad introduction to computational social science, will be reviewed for most of you, but if we all read this book ahead of time, then we can use our time together for more advanced topics.
 
 ## Coding Boot Camp
 
@@ -29,7 +29,7 @@ Other materials that we can recommend are:
 - [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/), Taught by Charles Lanfear at University of Washington. This course includes videos of lectures, slides, and assignments.
 - [Learn R](https://www.codecademy.com/learn/learn-r), Code Academy.
 
-Please note that most of the coding work presented at SICSS-Covenant University will employ R. You are welcome to employ a language of your choice, such as Python, Julia, or other languages commonly used by computational social scientists. However, we cannot support those languages.
+Please note that most of the coding work presented at SICSS-Nigeria will employ R. You are welcome to employ a language of your choice, such as Python, Julia, or other languages commonly used by computational social scientists. However, we cannot support those languages.
 
 
 ## Computing environment
@@ -41,7 +41,7 @@ Some of the activities will require coding, and we will support R. You are welco
 
 ### Slack
 
-Before participating at SICSS-Covenant University 2022, you should have an account in the SICSS 2022 Slack workspace. If you have not used Slack before, you should review these [getting started](https://slack.com/help/categories/360000049043-Getting-started) materials. Slack can be hard to use at first, but we’ve found that it is the best way to enable everyone to collaborate.
+Before participating at SICSS-Nigeria 2022, you should have an account in the SICSS 2022 Slack workspace. If you have not used Slack before, you should review these [getting started](https://slack.com/help/categories/360000049043-Getting-started) materials. Slack can be hard to use at first, but we’ve found that it is the best way to enable everyone to collaborate.
 
 ### GitHub
 
