@@ -11,8 +11,7 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. We welcomed applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About thirty participants were invited, and participants were expected to fully attend and participate in the entire program.
 
-SICSS-Howard/Mathematica is groundbreaking for a number of reasons. Most notably because it is the first Summer Institute held at a Historically Black College or University (HBCU). It also has the benefit of a deeply invested partner, Mathematica. and a topical focus on antiblack racism and inequity.
-
+SICSS-Howard/Mathematica is groundbreaking for a number of reasons: 1) we are the first Summer Institute held at a Historically Black College or University (HBCU), 2) we have the benefit of a deeply invested partner, Mathematica, and finally 3) we have a topical focus on antiblack racism and inequity. 
 
 [Application materials](https://compsocialscience.github.io/summer-institute/2022/howard-mathematica/apply) are due 11:59pm EST on March 31st.
 
