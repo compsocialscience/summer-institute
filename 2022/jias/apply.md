@@ -15,7 +15,7 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 ## How To Apply
 
-Applicants must submit the following documents: 1) Curriculum Vitae 2) A motivation letter and a brief research statement (maximum 500 words)
+Applicants must submit the following documents: 1) Curriculum Vitae 2) A motivation letter 3) A brief research statement (maximum 500 words)
 
 **In order to be guaranteed full consideration, all application materials must be submitted by 11:59 PM (SAST) on Thursday, 31 March, 2022.** All application materials must be submitted through the [The SICSS-JIAS Application Form](https://docs.google.com/forms/d/e/1FAIpQLSeuJFRwAotssskdPaVLY3xeepCC-D6PySONvV3vy_PGUSn8ig/viewform?usp=sf_link). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through email by Friday, 15 April 2022, and will ask participants to confirm their participation very soon thereafter.
 Inquiries can be sent to sicss.jias@gmail.com.
