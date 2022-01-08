@@ -1,3 +1,8 @@
+- name: Steven S. Skiena 
+  image: /assets/images/StevenSkiena.jpg
+  bio: "Steven is a Distinguished Teaching Professor of Computer Science at Stony Brook University. He was co-founder and the Chief Science Officer of General Sentiment, a social media and news analytics company. His research interests include algorithm design, data science and their applications to biology. Skiena is the author of several popular books in the fields of algorithms, programming, and data science. The Algorithm Design Manual is widely used as an undergraduate text in algorithms and within the tech industry for job interview preparation."
+  website: https://www3.cs.stonybrook.edu/~skiena/
+  
 - name: Jason J. Jones 
   image: /assets/images/JasonJones.jpg
   bio: "Jason is an Associate Professor at Stony Brook University, Department of Sociology with a doctorate in Psychology, post-doctorate work in Political Science and a Bachelor's degree in Computer Science. He tries to embody the best of what it means to be interdisciplinary in academia. In his work, he takes advantage of massive datasets to re-examine what we think we know about human behavior. For example, he had collaborated with Facebook to conduct experiments regarding social norms around voting - each experiment generating data from millions of participants.  In another collaboration, he and his colleagues re-imagine and redefine Granovetter's \"strength of weak ties\" hypothesis by taking into account the work histories and social networks of millions of people around the world.  Broadly, his research interests involve the application of computational social science to predict political, health, and other social behaviors."
@@ -22,3 +27,8 @@
   image: /assets/images/NurvirtaMonarizqa.jpg
   bio: "Mona is a Data Scientist, working for Microsoft and currently residing in Bellevue, across the lake from Seattle. She is an alumna of Urban Science + Progress at New York University and Information Technology at Gadjah Mada University. She loves playing with data and visualization, especially when it comes to data for greater good. Besides data analytics, sometimes she does web design and digital illustrations and she likes to share her work on Medium."
   website: https://nmonarizqa.github.io/
+
+- name: George Berry
+  image: /assets/images/GeorgeBerry.jpg
+  bio: "George is a sociologist, data scientist, experimentalist, and builder. His academic interests include social contagion, homophily in networks, online conversations, and experimental design. He currently works as a Machine Learning Engineer at Blue Rose Research, where he focuses on modeling and measurement."
+  website: https://georgeberry.github.io/
