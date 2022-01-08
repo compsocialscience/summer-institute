@@ -23,9 +23,8 @@ Applicants must submit the following documents:
 
 **The materials can be submitted in English or Portuguese.**  Co-authored work is acceptable for the writing sample (3), but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. 
 
-**In order to be guaranteed full consideration, all application materials must be submitted by April 1.** All application materials must be submitted through \_\_\_\_\_. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by early May, and will ask participants to confirm their participation very soon thereafter.
-
-Inquiries can be sent to \_\_\_\_\_.
+**In order to be guaranteed full consideration, all application materials must be submitted by April 2.**  All application materials must be submitted through [google forms](https://docs.google.com/forms/d/e/1FAIpQLSeJz-Fr5dPeEPZlyRP0scuo71LnL_caNI6Ykugn2NYJ0vozYQ/viewform?usp=sf_link). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by early may, and will ask participants to confirm their participation very soon thereafter.
+Inquiries can be sent to:  sicss2021.dappbrasil@gmail.com.
 
 ## Application Frequently Asked Questions
 
