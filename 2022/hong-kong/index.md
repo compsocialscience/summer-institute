@@ -11,4 +11,4 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is restricted to graduate students, postdoctoral researchers, and junior faculty. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 10-15 participants will be invited, and participants are expected to fully attend and participate in the entire two-week program.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2022/hong-kong/apply) are due \_\_\_\_\_.
+[Application materials](https://compsocialscience.github.io/summer-institute/2022/hong-kong/apply) and due dates are TBA.
