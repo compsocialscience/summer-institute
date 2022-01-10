@@ -7,7 +7,7 @@ partner_site: ndsu
 
 ## Eligibility
 
-Participation is restricted to \_\_\_\_\_. However, there are no restrictions based on citizenship, country of study, or country of employment. About \_\_\_\_\_ participants will be invited.
+Participation is restricted to doctoral students, postdoctoral researchers, and early career faculty memembers. However, there are no restrictions based on citizenship, country of study, or country of employment. 
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours during the two months before the Institute.
 
@@ -15,11 +15,11 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 ## How To Apply
 
-Applicants must submit the following documents: \_\_\_\_\_
+Applicants must submit the following documents: (i) a curriculum vitae, (ii) a research statement (two pages, maximum) detailing your current position and research interests, experience and/or interest in computational social science, and reasons for applying to the institute and (iii) one writing sample, not exceeding 35 pages. The writing sample can be published or unpublished working paper, seminar paper, or prospectus. It need not demonstrate knowledge of computational social science. A successful working paper will amplify the other parts of your application by showcasing substantive interests, computational interest or skill, and/or your general research skills.
 
-**In order to be guaranteed full consideration, all application materials must be submitted by \_\_\_\_\_.** All application materials must be submitted through \_\_\_\_\_. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by \_\_\_\_\_, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by March 25, 2022 through [the form here](https://forms.gle/JhYhzwzqSoYqiznJ6).** Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 15 2022, and will ask participants to confirm their participation very soon thereafter.
 
-Inquiries can be sent to \_\_\_\_\_.
+Inquiries can be sent to sicss.ndsu@gmail.com.
 
 ## Application Frequently Asked Questions
 
