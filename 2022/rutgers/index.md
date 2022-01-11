@@ -11,6 +11,6 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is restricted to doctoral students, postdoctoral researchers, and untenured faculty. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 20-35 participants will be invited, and participants are expected to fully attend in person and participate in the entire two-week program. We are currently unable to provide travel and lodging funds for institute participants.
 
-Application materials are due March 22, 2021 at http://bit.ly/sicss-RU-apply. Applicants will be notified by April 15, 2021. Inquiries may be sent to sicssrutgers@gmail.com.
+Application materials are due March 22, 2022 at http://bit.ly/sicss-RU-apply. Applicants will be notified by April 15, 2022. Inquiries may be sent to sicssrutgers@gmail.com.
 
 While this event is currently planned to be held in person, the event may be shifted online if necessaru due to COVID-19 restrictions.
