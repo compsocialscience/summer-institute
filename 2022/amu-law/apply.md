@@ -22,7 +22,7 @@ Applicants must submit the following documents (all in .doc or .pdf):
 
 **In order to be guaranteed full consideration, all application materials must be submitted by 1 April 2022 (GMT+1).** All application materials must be submitted through https://forms.gle/xBrwcbbbqfzw7Pdu9. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by 10 April 2022, and will ask participants to confirm their participation very soon thereafter.
 
-Inquiries can be sent to sicss.amu@gmail.com.
+Inquiries can be sent to sicss@amu.edu.pl.
 
 ## Application Frequently Asked Questions
 
