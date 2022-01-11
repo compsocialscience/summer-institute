@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: jias
 main: true
-image: /assets/images/johannesburg.jpg
+image: /assets/images/jias_johannesburg.jpg
 ---
 
 From 20 June to 8 July, 2022, [The Johannesburg Institute for Advanced Study (JIAS)](https://jias.joburg/) will sponsor the Summer Institute in Computational Social Science, to be held in hybrid format. The first two weeks will be carried online. The third week will be in-person at JIAS, Johannesburg, South Africa*. The purpose of the Summer Institute is to bring together postgraduate students and postdoctoral researchers interested in critical computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
