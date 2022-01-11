@@ -60,10 +60,10 @@
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 [David Garcia](https://dgarcia.eu): TBA"
+    - name: "17:00 - 18:30 [David Garcia](https://dgarcia.eu): Validating Social Media Emotion Measurement Across Levels of Behavior"
     
 - date: 2022-06-28
-  name: Data Analysis
+  name: Natural Language Processing
   events:
     - name: "09:30 - 12:00 [Lucas Girard](https://faculty.crest.fr/lgirard/): Measuring Ideological Segregation from Text"
     - name: "12:00 - 13:30 Lunch Break"
