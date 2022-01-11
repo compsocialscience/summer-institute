@@ -16,7 +16,7 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 ## How To Apply
 
-Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum two pages) describing both any current research, your interest in computational social science, as well as why you would like to attend SICSS-Edinburgh (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable but when submitting co-authored work we recommend you include a few sentences describing the contribution of each individual author to the work. **Application materials must be submitted as one combined PDF file.** The form to apply can be found by following this [link](https://edinburgh.eu.qualtrics.com/jfe/form/SV_9MIXau1IVq5kq46)
+Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum two pages) describing both any current research, your interest in computational social science, as well as why you would like to attend SICSS-Edinburgh (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable but when submitting co-authored work we recommend you include a few sentences describing the contribution of each individual author to the work. **Application materials must be submitted as one combined PDF file.** The form to apply can be found by following this [link](https://edinburgh.eu.qualtrics.com/jfe/form/SV_9MIXau1IVq5kq46) 
 
 **In order to be guaranteed full consideration, all application materials must be submitted by 23:59, April 11, 2022.** 
 
