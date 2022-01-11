@@ -13,4 +13,4 @@ The instructional program will involve lectures, group problem sets, and interac
 
 We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 20 participants will be invited, and participants are required to fully attend and participate in the entire two-week program.
 
-More information on [application materials](https://compsocialscience.github.io/summer-institute/2022/odissei/apply) and deadlines will follow.
+[Application materials](https://compsocialscience.github.io/summer-institute/2022/odissei/apply) are due February 28.
