@@ -1,18 +1,20 @@
 - date: 2022-06-20
   name: Introduction
   events:
-    - name: "09:30 - 12:00 What are Computational Social Sciences?"
+    - name: "09:30 - 10:30 What are Computational Social Sciences?"
+    - name: "10:30 - 11:00 Logistics"
+    - name: "11:00 - 12:00 Getting to Know Each Other"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 14:30 Ethics in Scraping"
-    - name: "14:45 - 16:30 Gig workers and women in AI (Paola Tubaro)"
+    - name: "14:45 - 16:30 Gig Workers and Women in AI (Paola Tubaro)"
     - name: "16:30 - 17:00 Coffee Break"
     - name: "17:00 - 18:30 Matt Salganik"
-    - name: "18:30 - 21:00 Welcome dinner"
+    - name: "18:30 - 21:00 Welcome Dinner"
     
 - date: 2022-06-21
   name: Data Collection
   events:
-    - name: "09:30 - 12:00 How is the web written and how to collect data on it?"
+    - name: "09:30 - 12:00 How is the Web Written and How to Collect Data on it?"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Exercise"
     - name: "16:30 - 17:00 Coffee Break"
@@ -21,7 +23,7 @@
 - date: 2022-06-22
   name: Data Collection
   events:
-    - name: "09:30 - 12:00 Scraping structured formats"
+    - name: "09:30 - 12:00 Scraping Structured Formats"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Exercise"
     - name: "16:30 - 17:00 Coffee Break"
@@ -30,7 +32,7 @@
 - date: 2022-06-23
   name: Data Collection
   events:
-    - name: "09:30 - 12:00 Scraping unstructured formats"
+    - name: "09:30 - 12:00 Scraping Unstructured Formats"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Exercise"
     - name: "16:30 - 17:00 Coffee Break"
@@ -63,7 +65,7 @@
 - date: 2022-06-28
   name: Data Analysis
   events:
-    - name: "09:30 - 12:00 TBA"
+    - name: "09:30 - 12:00 Polarization (Lucas Girard)"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
