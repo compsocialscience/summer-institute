@@ -1,51 +1,51 @@
 - date: 2022-06-20
   name: Introduction
   events:
-    - name: "09:30 - 10:30 What are Computational Social Sciences?"
+    - name: "09:30 - 10:30 [Étienne Ollion](www.ollion.cnrs.fr): What are Computational Social Sciences?"
     - name: "10:30 - 11:00 Logistics"
     - name: "11:00 - 12:00 Getting to Know Each Other"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 14:30 Ethics in Scraping"
-    - name: "14:45 - 16:30 Gig Workers and Women in AI (Paola Tubaro)"
+    - name: "14:45 - 16:30 [Paola Tubaro](https://databigandsmall.com/): Gig Workers and Women in AI"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 Matt Salganik"
+    - name: "17:00 - 18:30 [Matthew Salganik](https://www.princeton.edu/~mjs3/): TBA"
     - name: "18:30 - 21:00 Welcome Dinner"
     
 - date: 2022-06-21
   name: Data Collection
   events:
-    - name: "09:30 - 12:00 How is the Web Written and How to Collect Data on it?"
+    - name: "09:30 - 12:00 [Étienne Ollion](www.ollion.cnrs.fr): How is the Web Written and How to Collect Data on it?"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Exercise"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 Marie Bergström"
+    - name: "17:00 - 18:30 [Marie Bergström](https://www.ined.fr/en/research/researchers/Bergström+Marie): TBA"
     
 - date: 2022-06-22
   name: Data Collection
   events:
-    - name: "09:30 - 12:00 Scraping Structured Formats"
+    - name: "09:30 - 12:00 [Étienne Ollion](www.ollion.cnrs.fr): Scraping Structured Formats"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Exercise"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 Julia Cagé"
+    - name: "17:00 - 18:30 [Julia Cagé](): TBA"
     
 - date: 2022-06-23
   name: Data Collection
   events:
-    - name: "09:30 - 12:00 Scraping Unstructured Formats"
+    - name: "09:30 - 12:00 [Étienne Ollion](www.ollion.cnrs.fr): Scraping Unstructured Formats"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Exercise"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 Gloria Genaro (tentative)"
+    - name: "17:00 - 18:30 [Gloria Gennaro](http://gloriagennaro.rbind.io): TBA (tentative)"
 
 - date: 2022-06-24
   name: Data Collection
   events:
-    - name: "09:30 - 12:00 Natural Language Processing"
+    - name: "09:30 - 12:00 [Étienne Ollion](www.ollion.cnrs.fr): Natural Language Processing"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:00 - 16:30 Group Exercise"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 Liva Ralaivola (tentative)"
+    - name: "17:00 - 18:30 [Liva Ralaivola](https://pageperso.lis-lab.fr/~liva.ralaivola/doku.php): TBA (tentative)"
 
 - date: 2022-06-25
   name: off-day
@@ -56,38 +56,38 @@
 - date: 2022-06-27
   name: Data Analysis
   events:
-    - name: "09:30 - 12:00 Natural Language Processing"
+    - name: "09:30 - 12:00 [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/): Natural Language Processing"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 David Garcia"
+    - name: "17:00 - 18:30 [David Garcia](https://dgarcia.eu): TBA"
     
 - date: 2022-06-28
   name: Data Analysis
   events:
-    - name: "09:30 - 12:00 Measuring Ideological Segregation from Text (Lucas Girard)"
+    - name: "09:30 - 12:00 [Lucas Girard](https://faculty.crest.fr/lgirard/): Measuring Ideological Segregation from Text"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 Ivaylo Petev"
+    - name: "17:00 - 18:30 [Ivaylo Petev](https://www.ipetev.org): TBA"
 
 - date: 2022-06-29
   name: Data Analysis
   events:
-    - name: "09:30 - 12:00 Agent-based Modeling (Gianluca Manzo)"
+    - name: "09:30 - 12:00 [Gianluca Manzo](https://www.gemass.fr/manzo/): Agent-based Modeling"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 Elliott Ash (tentative)"
+    - name: "17:00 - 18:30 [Elliott Ash](http://elliottash.com): TBA (tentative)"
     
 - date: 2022-06-30
   name: Data Analysis
   events:
-    - name: "09:30 - 12:00 Experiments (Marc Keuschnigg, tentative)"
+    - name: "09:30 - 12:00 Marc Keuschnigg](https://www.keuschnigg.org): Experiments (tentative)"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 Guillaume Hollard (tentative)"
+    - name: "17:00 - 18:30 [Guillaume Hollard](https://sites.google.com/site/webpagehollard/): TBA (tentative)"
     
 - date: 2022-07-01
   name: Final day
