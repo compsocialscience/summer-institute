@@ -1,7 +1,7 @@
 - date: 2022-06-20
-  name: Introduction
+  name: What are Computational Social Sciences?
   events:
-    - name: "09:30 - 10:30 [Étienne Ollion](www.ollion.cnrs.fr): What are Computational Social Sciences?"
+    - name: "09:30 - 10:30 [Étienne Ollion](www.ollion.cnrs.fr): Lecture"
     - name: "10:30 - 11:00 Logistics"
     - name: "11:00 - 12:00 Getting to Know Each Other"
     - name: "12:00 - 13:30 Lunch Break"
@@ -12,36 +12,36 @@
     - name: "18:30 - 21:00 Welcome Dinner"
     
 - date: 2022-06-21
-  name: Data Collection
+  name: How is the Web Written and How to Collect Data on it?
   events:
-    - name: "09:30 - 12:00 [Étienne Ollion](www.ollion.cnrs.fr): How is the Web Written and How to Collect Data on it?"
+    - name: "09:30 - 12:00 [Étienne Ollion](www.ollion.cnrs.fr): Lecture"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Exercise"
     - name: "16:30 - 17:00 Coffee Break"
     - name: "17:00 - 18:30 [Marie Bergström](https://www.ined.fr/en/research/researchers/Bergström+Marie): TBA"
     
 - date: 2022-06-22
-  name: Data Collection
+  name: Scraping Structured Formats
   events:
-    - name: "09:30 - 12:00 [Étienne Ollion](www.ollion.cnrs.fr): Scraping Structured Formats"
+    - name: "09:30 - 12:00 [Étienne Ollion](www.ollion.cnrs.fr): Lecture"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Exercise"
     - name: "16:30 - 17:00 Coffee Break"
     - name: "17:00 - 18:30 [Julia Cagé](): TBA"
     
 - date: 2022-06-23
-  name: Data Collection
+  name: Scraping Unstructured Formats
   events:
-    - name: "09:30 - 12:00 [Étienne Ollion](www.ollion.cnrs.fr): Scraping Unstructured Formats"
+    - name: "09:30 - 12:00 [Étienne Ollion](www.ollion.cnrs.fr): Lecture"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Exercise"
     - name: "16:30 - 17:00 Coffee Break"
     - name: "17:00 - 18:30 [Gloria Gennaro](http://gloriagennaro.rbind.io): TBA (tentative)"
 
 - date: 2022-06-24
-  name: Data Collection
+  name: Natural Language Processing
   events:
-    - name: "09:30 - 12:00 [Étienne Ollion](www.ollion.cnrs.fr): Natural Language Processing"
+    - name: "09:30 - 12:00 [Étienne Ollion](www.ollion.cnrs.fr): Lecture"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:00 - 16:30 Group Exercise"
     - name: "16:30 - 17:00 Coffee Break"
@@ -54,9 +54,9 @@
   name: off-day
 
 - date: 2022-06-27
-  name: Data Analysis
+  name: Natural Language Processing
   events:
-    - name: "09:30 - 12:00 [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/): Natural Language Processing"
+    - name: "09:30 - 12:00 [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/): Lecture"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
@@ -72,18 +72,18 @@
     - name: "17:00 - 18:30 [Ivaylo Petev](https://www.ipetev.org): The Economic Penalty of Discrimination -- Evidence from Online Platforms"
 
 - date: 2022-06-29
-  name: Data Analysis
+  name: Agent-Based Modeling
   events:
-    - name: "09:30 - 12:00 [Gianluca Manzo](https://www.gemass.fr/manzo/): Agent-based Modeling"
+    - name: "09:30 - 12:00 [Gianluca Manzo](https://www.gemass.fr/manzo/): Lecture"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
     - name: "17:00 - 18:30 [Elliott Ash](http://elliottash.com): TBA (tentative)"
     
 - date: 2022-06-30
-  name: Data Analysis
+  name: Experiments
   events:
-    - name: "09:30 - 12:00 [Marc Keuschnigg](https://www.keuschnigg.org): Experiments (tentative)"
+    - name: "09:30 - 12:00 [Marc Keuschnigg](https://www.keuschnigg.org): Lecture (tentative)"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
