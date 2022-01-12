@@ -1,1 +1,14 @@
-- name:
+- name: Sudarshan Iyengar
+  bio: Associate Professor, Computer Sciene and Engineerng, Indian Institute of Technology Ropar, India.
+  image: /assets/images/srs_iyengar.jpg
+  website: https://scholar.google.com/citations?user=hy7n9kEAAAAJ&hl=en
+  
+- name: Kazutoshi Sasahara
+  bio: Associate Professor, Tokyo Institute of Technology, Tokyo, Japan.
+  image: /assets/images/kazutoshi_sasahara.jpg
+  website: https://scholar.google.co.jp/citations?user=1-CMHnwAAAAJ&hl=ja
+
+- name: Valentina Parma
+  bio: Monell Chemical Senses Center
+  image: /assets/images/valentina_parma.jpg
+  website: https://monell.org/valentina-parma/
