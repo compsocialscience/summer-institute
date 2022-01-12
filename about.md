@@ -18,6 +18,8 @@ The [Summer Institutes in Computational Social Science (SICSS)](http://sicss.io)
 
 Since 2017, the Summer Institutes in Computational Social Science have raised nearly  $1.5 million (USD) to sponsor sites at twenty-three locations around the world, bringing together 649 participants from 363 universities and 124 academic fields. Research incubated at SICSS events has appeared in leading journals and received coverage from  major media outlets. More than 100,000 unique visitors viewed our website from 187 countries during this period. We have almost made considerable progress towards expanding access to training among traditional under-represented groups in the field, including an alumni-led initiative called  [Varycss.org](https://varycss.org).
 
+SICSS participants have created over 100 projects that grew from the program, ranging from papers to software to community building initiatives. [Click here](https://sicss.io/projects) to see some past projects.
+
 ## Get Involved
 
 If you'd like to participate in one of our institutes, check out [this year's locations](https://sicss.io/locations). If you'd like to learn more about hosting your own SICSS location during a future year, please visit [this link](https://sicss.io/host). If you'd like to see what we've learned about the best-practices of running a SICSS site, check out our crowd-sourced post-mortems [here](https://sicss.io/2020/post-mortem)

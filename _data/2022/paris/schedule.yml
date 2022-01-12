@@ -1,49 +1,51 @@
 - date: 2022-06-20
-  name: Introduction
+  name: What are Computational Social Sciences?
   events:
-    - name: "09:30 - 12:00 What are Computational Social Sciences?"
+    - name: "09:30 - 10:30 Lecture ([Étienne Ollion](www.ollion.cnrs.fr))"
+    - name: "10:30 - 11:00 Logistics"
+    - name: "11:00 - 12:00 Getting to Know Each Other"
     - name: "12:00 - 13:30 Lunch Break"
-    - name: "13:30 - 14:30 Ethics in Scraping"
-    - name: "14:45 - 16:30 Gig workers and women in AI (Paola Tubaro)"
+    - name: "13:30 - 14:30 [Étienne Ollion](www.ollion.cnrs.fr): Ethics in Scraping"
+    - name: "14:45 - 16:30 [Paola Tubaro](https://databigandsmall.com/): The Ethics of AI -- Micro-tasking and Micro-Workers"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 Matt Salganik"
-    - name: "18:30 - 21:00 Welcome dinner"
+    - name: "17:00 - 18:30 [Matthew Salganik](https://www.princeton.edu/~mjs3/): The (Un)Predictability of Life Outcomes"
+    - name: "18:30 - 21:00 Welcome Dinner"
     
 - date: 2022-06-21
-  name: Data Collection
+  name: How is the Web Written and How to Collect Data on it?
   events:
-    - name: "09:30 - 12:00 How is the web written and how to collect data on it?"
+    - name: "09:30 - 12:00 Lecture ([Étienne Ollion](www.ollion.cnrs.fr))"
     - name: "12:00 - 13:30 Lunch Break"
-    - name: "13:30 - 16:30 Group Exercise"
+    - name: "13:30 - 16:30 Group Exercise ([Felix Lennert](https://felix-lennert.netlify.app) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/))"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 Marie Bergström"
+    - name: "17:00 - 18:30 [Marie Bergström](https://www.ined.fr/en/research/researchers/Bergström+Marie): The New Laws of Love -- Studying Online Dating with Big Data"
     
 - date: 2022-06-22
-  name: Data Collection
+  name: Scraping Structured Formats
   events:
-    - name: "09:30 - 12:00 Scraping structured formats"
+    - name: "09:30 - 12:00 Lecture ([Étienne Ollion](www.ollion.cnrs.fr))"
     - name: "12:00 - 13:30 Lunch Break"
-    - name: "13:30 - 16:30 Group Exercise"
+    - name: "13:30 - 16:30 Group Exercise ([Felix Lennert](https://felix-lennert.netlify.app) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/))"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 Julia Cagé"
+    - name: "17:00 - 18:30 [Julia Cagé](https://juliacage.com): TBA"
     
 - date: 2022-06-23
-  name: Data Collection
+  name: Scraping Unstructured Formats
   events:
-    - name: "09:30 - 12:00 Scraping unstructured formats"
+    - name: "09:30 - 12:00 Lecture ([Étienne Ollion](www.ollion.cnrs.fr))"
     - name: "12:00 - 13:30 Lunch Break"
-    - name: "13:30 - 16:30 Group Exercise"
+    - name: "13:30 - 16:30 Group Exercise ([Felix Lennert](https://felix-lennert.netlify.app) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/))"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 Gloria Genaro (tentative)"
+    - name: "17:00 - 18:30 [Gloria Gennaro](http://gloriagennaro.rbind.io): TBA"
 
 - date: 2022-06-24
-  name: Data Collection
+  name: Natural Language Processing
   events:
-    - name: "09:30 - 12:00 Natural Language Processing"
+    - name: "09:30 - 12:00 Lecture ([Étienne Ollion](www.ollion.cnrs.fr))"
     - name: "12:00 - 13:30 Lunch Break"
-    - name: "13:00 - 16:30 Group Exercise"
+    - name: "13:00 - 16:30 Group Exercise ([Felix Lennert](https://felix-lennert.netlify.app) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/))"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 Liva Ralaivola (tentative)"
+    - name: "17:00 - 18:30 [Liva Ralaivola](https://pageperso.lis-lab.fr/~liva.ralaivola/doku.php): TBA"
 
 - date: 2022-06-25
   name: off-day
@@ -52,40 +54,40 @@
   name: off-day
 
 - date: 2022-06-27
-  name: Data Analysis
+  name: Natural Language Processing
   events:
-    - name: "09:30 - 12:00 Natural Language Processing"
+    - name: "09:30 - 12:00 Lecture ([Germain Gauthier](https://pinchofdata.github.io/germaingauthier/))"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 David Garcia"
+    - name: "17:00 - 18:30 [David Garcia](https://dgarcia.eu): Validating Social Media Emotion Measurement Across Levels of Behavior"
     
 - date: 2022-06-28
-  name: Data Analysis
+  name: Natural Language Processing
   events:
-    - name: "09:30 - 12:00 TBA"
+    - name: "09:30 - 12:00 [Lucas Girard](https://faculty.crest.fr/lgirard/): Measuring Ideological Segregation from Text"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 Ivaylo Petev"
+    - name: "17:00 - 18:30 [Ivaylo Petev](https://www.ipetev.org): The Economic Penalty of Discrimination -- Evidence from Online Platforms"
 
 - date: 2022-06-29
-  name: Data Analysis
+  name: Agent-Based Modeling
   events:
-    - name: "09:30 - 12:00 Agent-based Modeling (Gianluca Manzo)"
+    - name: "09:30 - 12:00 Lecture ([Gianluca Manzo](https://www.gemass.fr/manzo/)) "
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 Elliott Ash (tentative)"
+    - name: "17:00 - 18:30 [Elliott Ash](http://elliottash.com): TBA"
     
 - date: 2022-06-30
-  name: Data Analysis
+  name: Social Experiments in a Digital World
   events:
-    - name: "09:30 - 12:00 Experiments (Marc Keuschnigg, tentative)"
+    - name: "09:30 - 12:00 Lecture ([Marc Keuschnigg](https://www.keuschnigg.org))"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 Guillaume Hollard (tentative)"
+    - name: "17:00 - 18:30 [Guillaume Hollard](https://sites.google.com/site/webpagehollard/): TBA"
     
 - date: 2022-07-01
   name: Final day

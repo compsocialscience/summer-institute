@@ -13,6 +13,12 @@ The Summer Institute will bring together people from many fields and backgrounds
 
 TAs will host office hours through Slack to support you as you work through these pre-arrival materials.
 
+Note: even if you have an existing familiarity with R, we recommend at least skimming the R videos because some of the content may exercise different "R muscles" than you are used to using. For those that are brand new or a beginner in R, we do not expect that you will become experts after going through these materials. The materials will provide you with a foundation to help facilitate participation in the institute. During the institute, we will assume all participants are familiar with these pre-arrival materials. Familiarity does not mean mastery, but hopefully it will mean that you feel curious and inspired by the materials to practice the skills and pursue research using the skills.
+
+## Lecture videos
+
+SICSS-Rutgers 2022 will be using a [flipped classroom model](https://en.wikipedia.org/wiki/Flipped_classroom). Therefore, you should watch [videos of lectures](https://sicss.io/curriculum) before our meetings, and then we will use our time together for discussion and group activities.
+
 ## Reading
 
 In order to prepare for SICSS-Rutgers 2022, you should read Matt Salganik’s book, *[Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com)* ([Read online](https://www.bitbybitbook.com/en/1st-ed/preface/) or purchase from [IndieBound](https://www.indiebound.org/book/9780691158648), [Princeton University Press](https://press.princeton.edu/books/paperback/9780691196107/bit-by-bit)), or [Amazon](https://www.amazon.com/Bit-Social-Research-Digital-Age/dp/0691158649), [Barnes & Noble](https://www.barnesandnoble.com/w/bit-by-bit-matthew-salganik/1125483924). Parts of this book, which is a broad introduction to computational social science, will be review for most of you, but if we all read this book ahead of time, then we can use our time together for more advanced topics.
@@ -47,4 +53,4 @@ Many participants at SICSS use GitHub to collaborate. If you do not yet have one
 
 ## Office hours
 
-The SICSS-Duke [TAs](https://sicss.io/2022/duke/people#teaching_assistants) will host weekly office hours in the SICSS 2022 Slack. You can find information about the office hours in the SICSS 2022 Slack channel #pre-office-hours. If you are not able to attend during the regularly scheduled office hours or have any questions about office hours, please contact one of the [TAs](https://sicss.io/2022/duke/people#teaching_assistants).
+The SICSS-Duke [TAs](https://sicss.io/2022/duke/people#teaching_assistants) will host weekly office hours in the SICSS 2022 Slack. You can find information about the office hours in the SICSS 2022 Slack channel #pre-office-hours. If you are not able to attend during the regularly scheduled office hours or have any questions about office hours, please contact one of the [TAs](https://sicss.io/2022/duke/people#teaching_assistants). The SICSS-Rutgers TAs will also hold office hours as the institute approaches.

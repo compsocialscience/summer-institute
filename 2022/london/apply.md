@@ -15,7 +15,7 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 ## How To Apply
 
-Applicants must submit the following documents: An up-to-date CV and 
+Applicants must submit the following documents: An up-to-date CV.
 
 **In order to be guaranteed full consideration, all application materials must be submitted by March 25, 2022. All application materials must be submitted through https://forms.gle/HmVx9GFxWEUFyQ29A. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by sicsslondon@gmail.com, and will ask participants to confirm their participation very soon thereafter.
 

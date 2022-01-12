@@ -5,7 +5,7 @@ main: true
 image: /assets/images/paris.jpg
 ---
 
-From June 20 to July 1, 2022, the [Center for Research in Economics and Statistics](https://crest.science) (a joint venture between ENSAE and l’Ecole Polytechnique) will sponsor the Summer Institute in Computational Social Science. 
+From June 20 to July 1, 2022, the [Center for Research in Economics and Statistics](https://crest.science) will sponsor the Summer Institute in Computational Social Science. 
 
 The purpose of the Summer Institute is to bring together scholars interested in computational social science. The Summer Institute is open to social scientists, and computer scientists (a few seats will be reserved for people working professionally at this intersection, such as data journalists).
 

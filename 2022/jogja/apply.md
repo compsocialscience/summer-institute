@@ -7,7 +7,7 @@ partner_site: jogja
 
 ## Eligibility
 
-Participation is restricted to postgraduate students (both Master's and Doctoral degrees), junior/untenured faculty members (without a PhD or within 3 years of their PhDs), postdoctoral researchers, and professional researchers. However, there are no restrictions based on citizenship, country of study, or country of employment. About 20-30 participants will be invited.
+Participation is restricted to postgraduate students (both Master's and Doctoral degrees), junior/untenured faculty members (without a PhD or within 3 years of their PhDs), postdoctoral researchers, and researchers working at NGOs or government agencies. However, there are no restrictions based on citizenship, country of study, or country of employment. About 20-30 participants will be invited.
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours during the two months before the Institute.
 
@@ -15,10 +15,13 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 ## How To Apply
 
-Applicants must submit the following documents: 1) curriculum vitae 2) research statement (1-3 pages; be sure you include your immediate plans after SICSS-Jogja)
-3) one writing sample (either published or unpublished, 35 pages max).
+Applicants must submit the following documents: 
 
-**In order to be guaranteed full consideration, all application materials must be submitted by Friday, March 18, 2022, 11:59 pm AoE (Anywhere on Earth).** All application materials must be submitted through \_\_\_\_\_. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by May 2022, and will ask participants to confirm their participation very soon thereafter.
+- curriculum vitae
+- a statement (1-3 pages). It should describe your research, interest in computational social science, and immediate plans after SICSS-Jogja.
+- one writing sample (either published or unpublished, 35 pages max). Co-authored work is acceptable, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author in your writing sample/statement.
+
+**In order to be guaranteed full consideration, all application materials must be submitted by Friday, March 18, 2022, 11:59 pm AoE (Anywhere on Earth).** All application materials must be submitted through [https://uii.id/sicss-jogja](https://stonybrookuniversity.co1.qualtrics.com/jfe/form/SV_bJeCsqH1H1VLjaC). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by May 2022, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to sicss-jogja@uii.ac.id.
 

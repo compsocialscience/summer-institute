@@ -5,7 +5,7 @@ partner_site: sydney
 
 # Pre-arrival
 
-The Summer Institute will bring together people from many fields and backgrounds. In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS-Sydney 2022.
+The Institute will bring together people from many fields and backgrounds. In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS-Sydney 2022.
 
 - Complete the pre-institute readings
 - Complete coding bootcamp (if needed)

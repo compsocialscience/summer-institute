@@ -22,7 +22,7 @@ To apply, applicants must submit the following documents via email to [sicss.sin
 3. one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences in the email body describing the contributions of each individual author.
 4. applicants who are graduate students or postdoctoral researchers must submit the contact information of one faculty advisor. **Letters of recommendation are not required at this point.**
 
-**In order to be guaranteed full consideration, all application materials must be submitted by Monday, February 21, 2022.** All application materials must be submitted through email. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 4, 2022, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by Monday, February 21, 2022 AoE (Anywhere on Earth).** All application materials must be submitted through email. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 4, 2022, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to [sicss.singapore@gmail.com](sicss.singapore@gmail.com).
 

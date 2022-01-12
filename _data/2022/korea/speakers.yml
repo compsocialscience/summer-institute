@@ -1,3 +1,13 @@
+- name: Hyejin Youn
+  image: /assets/images/hyejinyoun.jpg
+  bio: Hyejin Youn is an associate professor at Kellogg School of Management at Northwestern University, and Northwestern Institute on Complex Systems (NICO). She is also an external faculty at Santa Fe Institute. Before Northwestern, she was a research fellow at Harvard Kennedy School, and at MIT Media Lab, and a senior research fellow at Mathematical Institute at University of Oxford, and Institute for New Economic Thinking at the Oxford Martin School. Her PhD is in Statistical Physics at KAIST. Her research aims to develop a mathematical and computational framework to understand complex systems.
+  website: http://hyoun.me/
+
+- name: Sung Eun Kim 
+  image: /assets/images/sungeunkim.jpeg
+  bio: Sung Eun Kim is an Associate Professor of Political Science and International Relations at Korea University. She received her PhD in political science from Columbia University. She specializes in international political economy, with a focus on the intersection of domestic politics and international relations. Her research examines the relationships between and among economic globalization, information, political elites and individual political behavior, drawing upon a wide array of quantitative and text-based data. 
+  website: https://sungeunkim.com/
+  
 - name: Daegon Cho 
   image: /assets/images/daegon_cho.jpg
   bio: Daegon Cho is an Ewon Associate Professor of Information Systems at KAIST College of Business. He received a PhD in information systems and management from Carnegie Mellon University’s Heinz College. His research topics are business analytics, economics of IT, and applications of AI/ML to businesses. His research appeared at Information Systems Research, Marketing Science, Production and Operations Management, and Journal of the AIS and other journals.

@@ -18,24 +18,29 @@
   bio: David Garcia is Full Professor for Computational Behavioral and Social Sciences at TU Graz. His research analyzes human behavior through digital traces and deals with topics such as emotions, polarization, inequality, and privacy. 
   website: https://dgarcia.eu
 
-- name: Gloria Genaro
+- name: Gloria Gennaro
   image: /assets/images/gloria_genaro.jpg
-  bio: Glora Genaro is a Postdoctoral Student at the Immigration Policy Lab at ETH Zurich. Her research focuses on current challenges of democratic societies in Western Europe and in the US where she studies the demand and supply of populism, electoral responses to immigration, and emotions in politics. 
+  bio: Glora Gennaro is a Postdoctoral Student at the Immigration Policy Lab at ETH Zurich. Her research focuses on current challenges of democratic societies in Western Europe and in the US where she studies the demand and supply of populism, electoral responses to immigration, and emotions in politics. 
   website: http://gloriagennaro.rbind.io
+  
+- name: Lucas Girard
+  image: /assets/images/lucas_girard.jpg
+  bio: Lucas Girard has recently acquired his Ph.D. in Economics at CREST and is a Lecturer at ENSAE Paris. His research interest is in the field of econometrics. He develops and applies measures for segregation/polarization and investigates the construction of non-asymptomatic confidence intervals.
+  website: https://faculty.crest.fr/lgirard/
   
 - name: Guillaume Hollard
   image: /assets/images/guillaume_hollard.jpg
-  bio: Guillaume Hollard is a Senior Researcher at CNRS, Professor of Economics at École Polytechnique, where he also serves as the Vice President of the Economics department.  
+  bio: Guillaume Hollard is a Senior Researcher at CNRS and Professor of Economics at École Polytechnique, where he also serves as the Vice President of the Economics department.  
   website: https://sites.google.com/site/webpagehollard/
    
 - name: Marc Keuschnigg
   image: /assets/images/marc_keuschnigg.jpg
-  bio: Marc Keuschnigg is Professor of Sociology at Leipzig University and Associate Professor at The Institute for Analytical Sociology at Linköping University. His research deals with cultural dynamics, social norms, and spatial inequality. 
+  bio: Marc Keuschnigg is Professor of Sociology at Leipzig University and Associate Professor at Linköping University. His research deals with cultural dynamics, social norms, and spatial inequality. 
   website: https://www.keuschnigg.org
   
 - name: Gianluca Manzo
   image: /assets/images/gianluca_manzo.jpg
-  bio: Gianluca Manzo is Professor of Sociology at Sorbonne University. His research is of theoretical and empirical nature. The former revolves around meta-theoretical reflections on sociological theorization, the latter with a broad range of topics such as educational inequalities, relative deprivation, status hierarchies, and, more recently, innovation diffusion and migration dynamics.
+  bio: Gianluca Manzo is Professor of Sociology at Sorbonne University. His research is of theoretical and empirical nature. The former revolves around meta-theoretical reflections on sociological theorization, the latter is concerned with a broad range of topics such as educational inequalities, relative deprivation, status hierarchies, and, more recently, innovation diffusion and migration dynamics.
   website: https://www.gemass.fr/manzo/
   
 - name: Ivaylo Petev
