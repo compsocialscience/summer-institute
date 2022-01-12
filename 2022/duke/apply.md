@@ -7,7 +7,7 @@ partner_site: duke
 
 ## Eligibility
 
-SICSS-Duke is designed for Ph.D. students, postdoctoral researchers, and faculty that are within 7 years of receiving their Ph.D. or are untenured. In exceptional situations, we may accept applicants who do not meet this criteria exactly. There are no restrictions based on citizenship, country of study, or country of employment. About 30 participants will be invited.
+SICSS-Duke is designed for Ph.D. students, postdoctoral researchers, and faculty that are within 7 years of receiving their Ph.D. or are untenured. In exceptional situations, we may accept applicants who do not meet this criteria exactly. There are no restrictions based on citizenship, country of study, or country of employment. About 20 participants will be invited.
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours during the two months before the Institute.
 
