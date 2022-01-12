@@ -13,8 +13,8 @@ The SICSS-JIAS instructional programme will involve lectures, group problem sets
 
 Participation is restricted to registered masters and doctoral students, postdoctoral researchers and researchers working outside of academia. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. Approximately 20 participants will be invited, and participants are expected to fully attend and participate in the entire three-week programme.
 
-Application materials are due 11:59pm SAST on Thursday, 31 March 2022.
+Application materials are due 11:59pm SAST (GMT+2) on Thursday, 31 March 2022.
 
 Join our [email list](https://docs.google.com/forms/d/e/1FAIpQLScjZFlnGEBKvI8chmG1b69T-sARBqe_3ctAwzyG6NCEe62sVg/viewform?usp=sf_link) and follow us on [twitter](https://twitter.com/sicss_jias).
 
-*Due to the uncertainties brought on by the pandemic the structure of events is subject to change. We hope to follow a hybrid format. The first two weeks will take place online. The third week will combine online and in-person participation. Online participation is not restricted while in-person will be limited to participants who are able to travel to JIAS. In-person participants will be provided with meals daily. We hope to provide accommodation for participants outside of Johannesburg but within South Africa. 
+*Due to the uncertainties brought on by the pandemic the structure of events is subject to change. We hope to follow a hybrid format. The first two weeks will take place online. The third week will combine online and in-person participation. Online participation is not restricted while in-person will be limited to participants who are able to travel to JIAS. In-person participants will be provided with meals daily. We hope to provide accommodation for participants outside of Johannesburg but within South Africa.  
