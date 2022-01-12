@@ -18,11 +18,7 @@ organisers:
 
     - name: Siphesihle Sithungu
       image: /assets/images/jias_siphesihle.jpg
-
-speakers:
-  title: Speakers
-  people: 
-    - name: Coming soon
+      bio: Siphesihle Sithungu is a Computer Science lecturer and doctoral candidate at the University of Johannesburg, South Africa. He is also an author and has published articles in international conferences and journals. His research interests are Intelligent Agents, Machine Learning and Nature Inspired Artificial Intelligence.
 
 guest_assistants:
   title: Guest Assistants
@@ -31,8 +27,9 @@ guest_assistants:
 
     - name: Sven Lampe
 
-    - name: More TA's TBA
+    - name: More GAs TBA
 
-participants:
+participants: 
   title: Participants
-
+  people:
+   - name: Coming soon...
