@@ -7,7 +7,7 @@ partner_site: roma-tor-vergata
 
 ## Eligibility
 
-Participation is restricted to graduate students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. However, there are no restrictions based on citizenship, country of study, or country of employment. About 20 participants will be invited.
+Undergraduate, Masters and Ph.D. students are welcome to apply, as well as postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. There are no restrictions based on citizenship, country of study, or country of employment. About 20 participants will be invited.
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours during the two months before the Institute.
 
