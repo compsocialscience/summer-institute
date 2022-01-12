@@ -20,6 +20,11 @@ organisers:
       image: /assets/images/jias_siphesihle.jpg
       bio: Siphesihle Sithungu is a Computer Science lecturer and doctoral candidate at the University of Johannesburg, South Africa. He is also an author and has published articles in international conferences and journals. His research interests are Intelligent Agents, Machine Learning and Nature Inspired Artificial Intelligence.
 
+speakers:
+  title: Speakers
+  people:
+    - name: Coming Soon...
+
 guest_assistants:
   title: Guest Assistants
   people:
