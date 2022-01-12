@@ -27,7 +27,7 @@
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Exercise ([Felix Lennert](felix-lennert.netlify.app) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/))"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 [Julia Cagé](): TBA"
+    - name: "17:00 - 18:30 [Julia Cagé](https://juliacage.com): TBA"
     
 - date: 2022-06-23
   name: Scraping Unstructured Formats
@@ -36,7 +36,7 @@
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Exercise ([Felix Lennert](felix-lennert.netlify.app) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/))"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 [Gloria Gennaro](http://gloriagennaro.rbind.io): TBA (tentative)"
+    - name: "17:00 - 18:30 [Gloria Gennaro](http://gloriagennaro.rbind.io): TBA"
 
 - date: 2022-06-24
   name: Natural Language Processing
@@ -45,7 +45,7 @@
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:00 - 16:30 Group Exercise ([Felix Lennert](felix-lennert.netlify.app) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/))"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 [Liva Ralaivola](https://pageperso.lis-lab.fr/~liva.ralaivola/doku.php): TBA (tentative)"
+    - name: "17:00 - 18:30 [Liva Ralaivola](https://pageperso.lis-lab.fr/~liva.ralaivola/doku.php): TBA"
 
 - date: 2022-06-25
   name: off-day
@@ -78,16 +78,16 @@
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 [Elliott Ash](http://elliottash.com): TBA (tentative)"
+    - name: "17:00 - 18:30 [Elliott Ash](http://elliottash.com): TBA"
     
 - date: 2022-06-30
   name: Social Experiments in a Digital World
   events:
-    - name: "09:30 - 12:00 Lecture (([Marc Keuschnigg](https://www.keuschnigg.org))"
+    - name: "09:30 - 12:00 Lecture ([Marc Keuschnigg](https://www.keuschnigg.org))"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 [Guillaume Hollard](https://sites.google.com/site/webpagehollard/): TBA (tentative)"
+    - name: "17:00 - 18:30 [Guillaume Hollard](https://sites.google.com/site/webpagehollard/): TBA"
     
 - date: 2022-07-01
   name: Final day
