@@ -34,3 +34,7 @@ Yes, but not at the same time. For example, you can apply to SICSS-Delhi, and th
 #### Can I participate in SICSS-Delhi if I have already participated in SICSS at another location?
 
 No. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
+
+#### Do I need to be familiar with any programming language?
+
+Yes. If your application gets accepted, then we would expect that at the time of the event, you have some basic knowledge of programming in Python. 
