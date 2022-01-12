@@ -17,7 +17,7 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both your current research, your interest in computational social science, and why you want to attend SICSS (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. 
 
-All application materials must be submitted by **February 18th** through [this link](https://docs.google.com/forms/d/e/1FAIpQLSfIZRe-80BAlSZtsg7q7yGZqRAj3nHKtJ_r6gXBpmIOLmFddg/viewform). Applications that are not complete by the deadline may not receive full consideration.
+All application materials must be submitted by **February 28th** through [this link](https://docs.google.com/forms/d/e/1FAIpQLSfIZRe-80BAlSZtsg7q7yGZqRAj3nHKtJ_r6gXBpmIOLmFddg/viewform). Applications that are not complete by the deadline may not receive full consideration.
 
 ## Application Frequently Asked Questions
 
