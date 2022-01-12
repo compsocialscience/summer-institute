@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: odissei
 main: true
-image: /assets/images/amsterdam.jpg
+image: /assets/images/odissei-rotterdam.jpg
 ---
 
 From June 20 to July 1, 2022, ODISSEI will host a Summer Institute in Computational Social Science in the Netherlands. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and early career researchers interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
