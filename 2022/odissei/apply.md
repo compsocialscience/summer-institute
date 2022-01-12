@@ -11,11 +11,20 @@ Our primary target audience is postdoctoral researchers, PhD students and advanc
 
 About 20 participants will be invited. The Summer School is open to participants from outside of the Netherlands. There are no restrictions based on citizenship, country of study, or country of employment.
 
-We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science throughout the ODISSEI community. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
+We evaluate applicants along a number of dimensions: 
+- research and teaching in the area of computational social science 
+- contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 
+- likelihood to benefit from participation 
+- likelihood to contribute to the educational experience of other participants 
+- potential to spread computational social science throughout the ODISSEI community.
+ 
+Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
 
 ## How To Apply
 
-More information on the application process to follow. 
+In order to be guaranteed consideration, applicants must submit a CV and a short statement of motivation (max 600 words).  All application materials must be submitted by **February 28, 2022** through the following [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdhgsPpHFDcSWItj8RH54SbhUbCc4dXStzc-wxNh2zWvguF9Q/viewform). We will notify applicants solely through e-mail by March 15, 2022, and will ask participants to confirm their participation very soon thereafter.
+
+Inquiries can be sent to sicss@odissei-data.nl
 
 ## Application Frequently Asked Questions
 

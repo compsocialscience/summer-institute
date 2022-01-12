@@ -3,11 +3,12 @@ layout: location_detail
 partner_site: covenant-university
 ---
 
-SICSS-Nigeria will cover the cost of a return economy-class flight to and from Covenant University for all accepted participants (coming from Nigeria). Due to funding limitations, we can only provide travel assistance up to a fixed cap. Accepted participants are encouraged to search for additional funding to cover all other travel-associated costs. In addition to travel assistance, all the accepted participants will be accommodated at one of the Postgraduate halls of residence at Covenant University. Meals (up to a set cap) for all participants will also be served during the institute. All student participants should be vaccinated against COVID-19, and we will ensure that all measures to curtail the spread of COVID-19 are fully adhered to during the institute.
+SICSS-Nigeria will cover the cost of a return economy-class flight to and from Covenant University for all international participants. Due to funding limitations, we can only provide travel assistance up to a fixed cap. Accepted participants are encouraged to search for additional funding to cover all other travel-associated costs. In addition to travel assistance, all the accepted participants will be accommodated at one of the Postgraduate halls of residence at Covenant University. Meals (up to a set cap) for all participants will also be served during the institute. All student participants should be vaccinated against COVID-19, and we will ensure that all measures to curtail the spread of COVID-19 are fully adhered to during the institute.
 
 Due to funding limitations:
-•	we are not able to provide reimbursement for meals or other incidental expenses.
-•	we are only able to reimburse international economy-class costs. We are not able to reimburse participants for local transportation costs, including transport from applicants home to the airport.
+
+- we are not able to provide reimbursement for meals or other incidental expenses.
+- we are only able to reimburse international economy-class costs. We are not able to reimburse participants for local transportation costs, including transport from applicants home to the airport.
 
 Inquiries can be sent to cepder@covenantuniversity.edu.ng
 

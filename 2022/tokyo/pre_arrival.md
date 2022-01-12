@@ -65,7 +65,7 @@ The SICSS-Duke [TAs](https://sicss.io/2022/duke/people#teaching_assistants) will
 
 ### テキストブック
 
-SICSS-Tokyo 2022への準備として、事前にMatt Salganikの本 *[Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com)* ([オンライン版](https://www.bitbybitbook.com/en/1st-ed/preface/)、 または[Amazon.co.jp 英語版](https://www.amazon.co.jp/Bit-Social-Research-Digital-English-ebook/dp/B072MPFXX2)、 [Amazon.co.jp 日本語版](https://www.amazon.co.jp/%E3%83%93%E3%83%83%E3%83%88%E3%83%BB%E3%83%90%E3%82%A4%E3%83%BB%E3%83%93%E3%83%83%E3%83%88-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E7%A4%BE%E4%BC%9A%E8%AA%BF%E6%9F%BB%E5%85%A5%E9%96%80-%E3%83%9E%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%BBJ-%E3%82%B5%E3%83%AB%E3%82%AC%E3%83%8B%E3%83%83%E3%82%AF/dp/4641174482/))をお読みください。SICSS-Tokyo 2021では、この本を基にレクチャーやグループアクティビティを行います。また、テキストブックの内容をより理解する上で、[過去のレクチャービデオ](https://sicss.io/curriculum)をご参照することをおすすめします。
+SICSS-Tokyo 2022への準備として、事前にMatt Salganikの本 *[Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com)* ([オンライン版](https://www.bitbybitbook.com/en/1st-ed/preface/)、 または[Amazon.co.jp 英語版](https://www.amazon.co.jp/Bit-Social-Research-Digital-English-ebook/dp/B072MPFXX2)、 [Amazon.co.jp 日本語版](https://www.amazon.co.jp/%E3%83%93%E3%83%83%E3%83%88%E3%83%BB%E3%83%90%E3%82%A4%E3%83%BB%E3%83%93%E3%83%83%E3%83%88-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E7%A4%BE%E4%BC%9A%E8%AA%BF%E6%9F%BB%E5%85%A5%E9%96%80-%E3%83%9E%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%BBJ-%E3%82%B5%E3%83%AB%E3%82%AC%E3%83%8B%E3%83%83%E3%82%AF/dp/4641174482/))をお読みください。SICSS-Tokyo 2022では、この本を基にレクチャーやグループアクティビティを行います。また、テキストブックの内容をより理解する上で、[過去のレクチャービデオ](https://sicss.io/curriculum)をご参照することをおすすめします。
 
 
 ### プログラミング演習
@@ -92,7 +92,7 @@ SICSS-Tokyo 2022は、オンライン・イベントです。Zoomを使います
 
 #### Slack
 
-SICSS-Tokyo 2022参加する前に、SCISS 2022用のSlackワークスペースにアカウントを作っていただきます。もしSlackを使ったことがなければ、[こちら](https://slack.com/help/categories/360000049043-Getting-started)をご参考ください。
+SICSS-Tokyo 2022参加する前に、SICSS 2022用のSlackワークスペースにアカウントを作っていただきます。もしSlackを使ったことがなければ、[こちら](https://slack.com/help/categories/360000049043-Getting-started)をご参考ください。
 
 #### GitHub
 

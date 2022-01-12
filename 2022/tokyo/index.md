@@ -2,14 +2,14 @@
 layout: location_detail
 partner_site: tokyo
 main: true
-image: /assets/images/tokyo.jpg
+image: /assets/images/tokyo2.jpg
 ---
 
-From August 1 to August 5, 2022, the Summer Institute in Computational Social Science at Tokyo (SICSS-Tokyo) will be held virtually. The purpose of SICSS-Tokyo is to bring together master students, graduate students, postdoctoral researchers, beginning faculty, and corporate researchers interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
+From August 1 to August 5, 2022, we will virtually hold the Summer Institute in Computational Social Science at Tokyo (SICSS-Tokyo). The purpose of SICSS-Tokyo is to bring together master students, graduate students, postdoctoral researchers, beginning faculty, and corporate researchers interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
 
-The instructional program will involve lectures and group problem sets in both English and Japanese. All events will take place online. Topics covered include the analysis of digital trace data, online surveys, digital experiments, and ethics. There will be ample opportunities for students to discuss their ideas and research with the organizers and other participants in collaboration with the other SICSS sites. Because we are committed to open and reproducible research, all materials created by faculty and students for SICSS-Tokyo will be released open source.
+The instructional program will involve lectures and group problem sets in both English and Japanese. All events will take place online. Topics covered include analyzing digital trace data, online surveys, digital experiments, and ethics. Participants will have ample opportunities to discuss their ideas and research with the organizers and other participants in collaboration with the other SICSS sites. Because we are committed to open and reproducible research, all materials created by faculty and students for SICSS-Tokyo will be released open-source.
 
-Participation is restricted to master students, PhD studnets, postdoctoral researchers, corporate researchers who have worked for 10 years or less, and untenured faculty within 5 years of their PhD. About 20 participants will be invited, and participants are expected to fully attend and participate in the entire program. There is no cost for participating in the Summer Institute. We welcome applicants from all backgrounds and fields of study.
+Participation is restricted to master students, Ph.D. students, postdoctoral researchers, corporate researchers who have worked for ten years or less, and untenured faculty within five years of their Ph.D. We will invite about 20 participants and expect them to fully attend and participate in the entire program. There is no cost for participating in the Summer Institute. We welcome applicants from all backgrounds and fields of study.
 
 [Application materials](https://compsocialscience.github.io/summer-institute/2022/tokyo/apply) are due Friday, March 11, 2022.
 
