@@ -13,8 +13,8 @@ sidebar:
     url: "#handbook-organizers"
   - name: Eligibility
     url: "#eligibility"
-  - name: "Call for Applications 2021"
-    url: "#call-for-applications-2021"
+  - name: "Call for Applications 2022"
+    url: "#call-for-applications-2022"
   - name: How to Apply
     url: "#how-to-apply"
   - name: Frequently Asked Questions
@@ -65,7 +65,7 @@ Director, SICSS
 
 ### How to Apply
 
-In order to apply to host a partner site, please complete [this application](https://docs.google.com/document/d/12S49nMOtPJb_h6OZkEuexjuQEubIPRa06r9TddIyF5Q/edit?usp=sharing) and send it to rsfcompsocsci[at]gmail[dot]com. **Applications to host a partner site in 2021 are due on Monday, November 23, 2021 by 5pm ET**. We will aim to provide a response to your application by Monday, December 7th.
+In order to apply to host a partner site, please complete [this application](https://docs.google.com/document/d/12S49nMOtPJb_h6OZkEuexjuQEubIPRa06r9TddIyF5Q/edit?usp=sharing) and send it to rsfcompsocsci[at]gmail[dot]com. **Applications to host a partner site in 2022 are due on Monday, November 23, 2021 by 5pm ET**. We will aim to provide a response to your application by Monday, December 7th.
 
 ### Frequently Asked Questions
 
