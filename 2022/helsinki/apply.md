@@ -34,6 +34,6 @@ Applicants must submit the following documents:
  * Letter of intent (2-3 pages), please highlight how SICSS Helsinki can help your research activities
  * Writing example, such as a published paper or manuscript
 
-Details on application produceres will be added in February.
+For full consideration, submit your application by **March 28th** via [online form](https://docs.google.com/forms/d/e/1FAIpQLSeZFNExFLNE-DoynCQHRsXQdAq76JqBi8Ci9ExeeayOSVzbdg/viewform?usp=sf_link).
 
 Inquiries can be sent to grp-dcm-teaching@helsinki.fi.
