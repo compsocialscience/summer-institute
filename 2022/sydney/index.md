@@ -29,4 +29,4 @@ In addition to the Institute’s program, participants will be invited to partic
 
 We invite applications from PhD students, postdoctoral researchers and early career faculty within 5 years of PhD conferral. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently underrepresented in computational social science. SICSS-Sydney aims to select around 25 participants, all of whom are expected to fully attend the entire two-week program.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2022/sydney/apply) should be received by **15 March, 2022**.
+[Application materials](https://compsocialscience.github.io/summer-institute/2022/sydney/apply) should be received by **15 March, 2022**. For inquiries, contact sicss.admin@sydney.edu.au
