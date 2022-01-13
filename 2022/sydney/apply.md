@@ -19,7 +19,7 @@ Applicants must submit the following documents: (1) a curriculum vitae, (2) a st
 
 **In order to be guaranteed full consideration, all application materials must be received by 15 March, 2022 (23:59 AEDT).** Application materials must be submitted through Google forms (link forthcoming). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants through e-mail by mid-April, and will ask participants to confirm their participation shortly thereafter.
 
-Inquiries can be sent to Olga Boichak at olga.boichak[at]sydney.edu.au
+Inquiries can be sent to sicss.admin@sydney.edu.au
 
 ## Application Frequently Asked Questions
 
