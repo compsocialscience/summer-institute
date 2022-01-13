@@ -3,12 +3,19 @@ layout: location_detail
 partner_site: covenant-university
 ---
 
-SICSS-Nigeria will cover the cost of a return economy-class flight to and from Covenant University for all international participants. Due to funding limitations, we can only provide travel assistance up to a fixed cap. Accepted participants are encouraged to search for additional funding to cover all other travel-associated costs. In addition to travel assistance, all the accepted participants will be accommodated at one of the Postgraduate halls of residence at Covenant University. Meals (up to a set cap) for all participants will also be served during the institute. All student participants should be vaccinated against COVID-19, and we will ensure that all measures to curtail the spread of COVID-19 are fully adhered to during the institute.
 
-Due to funding limitations:
+## Travel 
 
-- we are not able to provide reimbursement for meals or other incidental expenses.
-- we are only able to reimburse international economy-class costs. We are not able to reimburse participants for local transportation costs, including transport from applicants home to the airport.
+SICSS-Nigeria will cover the cost of a return economy-class flight to and from Covenant University for international participants. Due to funding limitations, we can only provide travel assistance up to a fixed cap for participants coming from outside Nigeria. We are not able to reimburse participants for local transportation costs, including transport from participants’ homes to the airport, COVID-19 test costs or others. Accepted participants are encouraged to search for additional funding to cover other travel-associated costs.
+
+## Accommodation & Meals
+
+All accepted participants will be accommodated at one of the Postgraduate halls of residence at Covenant University. Meals (up to a set cap) for all participants will also be served during the institute.
+
+
+## COVID-19 Safety Protocols
+
+All participants should be vaccinated against COVID-19. Participants will be required to wear nose masks during the institute. Additionally, all measures to curtail the spread of COVID-19 are fully adhered to during the institute.
 
 Inquiries can be sent to cepder@covenantuniversity.edu.ng
 
@@ -29,7 +36,7 @@ In addition to the cost of local travel, participants would be expected to pay t
 
 #### Is it possible to get reimbursed for the cost of travel if I’m planning to drive?
 
-No. Unfortunately, we will only be able to reimburse your international flight costs.
+No. Unfortunately, we will only reimburse international flight costs.
 
 #### If I fly and then take a cab, can you reimburse me for both?
 
