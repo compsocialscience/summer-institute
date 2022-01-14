@@ -7,7 +7,7 @@ partner_site: covenant-university
 
 
 
-Participation is restricted to master’s and PhD students, postdoctoral researchers, untenured faculty within five years of their PhD. There are no restrictions based on citizenship, country of study, or employment, but we will prioritise applicants from African countries. There is no registration fee for participating in SICSS-Nigeria, and most of the costs will be covered. The language of instruction will be English.
+Participation is restricted to master’s and PhD students, postdoctoral researchers, untenured faculty within five years of their PhD. There are no restrictions based on citizenship, country of study, or employment, but we will prioritise applicants from African countries. There is no registration fee for participating in SICSS-Covenant, and most of the costs will be covered. The language of instruction will be English.
 
 We welcome applicants from all backgrounds, fields of study, and countries within Africa. We strongly encourage women, residents in Northern Nigeria, and other minority groups to apply. About 20 participants will be invited, and participants are expected to fully attend, participate, and engage in the entire program.
 
@@ -27,7 +27,7 @@ Applications will be evaluated based on:
 Applicants must submit the following documents:
 
 -	A curriculum vitae
--	A statement of participation, i.e., why do you wish to attend SICSS-Nigeria? (max 300 words)
+-	A statement of participation, i.e., why do you wish to attend SICSS-Covenant? (max 300 words)
 -	A letter of intent (max two pages) describing your current research interests, future plans and how these intersect with the goals of this partner location.
 -	Links to two or more recent projects – these could include research publications, an online application developed by the applicant, or a tutorial led by the applicant.
 
@@ -39,9 +39,9 @@ Inquiries can be sent to cepder@covenantuniversity.edu.ng
 
 #### Can I apply to more than one Summer Institute location?
 
-Yes, you can apply to more than one Summer Institute location, but not simultaneously. For example, you can apply to SICSS-Covenant University, and then if you are not accepted, you can apply to one of the other locations if it has a later deadline. However, you cannot have applications under review at two locations simultaneously.
+Yes, you can apply to more than one Summer Institute location, but not simultaneously. For example, you can apply to SICSS-Covenant, and then if you are not accepted, you can apply to one of the other locations if it has a later deadline. However, you cannot have applications under review at two locations simultaneously.
 
-#### Can I participate in SICSS-Covenant University if I have already participated in SICSS at another location?
+#### Can I participate in SICSS-Covenant if I have already participated in SICSS at another location?
 
 No. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
 
