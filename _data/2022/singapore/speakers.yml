@@ -12,5 +12,10 @@
   image: /assets/images/jisun.jpg
   bio: "Jisun AN is an Assistant Professor at the School of Computing and Information Systems, Singapore Management University (SMU-SCIS). She is a member of SODA (Social Data and AI) lab, where she develops AI and NLP methods to understand, predict, and nudge online human behavior and to tackle various social problems, from media bias and framing, polarization, online hate, to healthy lifestyle and urban changes. Before joining SMU-SCIS, she was a scientist at Qatar Computing Research Institute, HBKU, and she received her Ph.D. in Computer Science from the University of Cambridge, UK. She is an associate editor of EPJ Data Science and has served as a PC chair for ICWSM'22. She has been a member of the PC of major computer science conferences and computational social science conferences, including WWW 2016-21, ICWSM 2012-21, ACL 2019-21, EMNLP 2019-21,  and IC2S2 2016-21."
   website: https://jisun.me/
+  
+- name: Prasanta Bhattacharya
+  image: /assets/images/prasanta.jpg
+  bio: "Prasanta Bhattacharya is a Research Scientist & Innovation Lead with the Social and Cognitive Computing Department at the Institute of High Performance Computing (IHPC), a flagship interdisciplinary research institute of A*STAR, which is a leading science, tech and research organisation in Singapore. He also serves as an Adjunct Assistant Professor with the NUS Business School (Dept. of Analytics and Operations) where he teaches graduate and executive-level courses on AI, business analytics, and network science. He is a quantitative researcher working on solving complex social and business problems using network science, psychographic and behavioral analytics, and has a deep interest in data consulting and in creating data-driven AI solutions for emerging markets."
+  website: https://prasantabhattacharya.github.io/
 
 - name: More speakers TBC.
