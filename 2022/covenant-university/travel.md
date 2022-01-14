@@ -6,7 +6,7 @@ partner_site: covenant-university
 
 ## Travel 
 
-SICSS-Nigeria will cover the cost of a return economy-class flight to and from Covenant University for international participants. Due to funding limitations, we can only provide travel assistance up to a fixed cap for participants coming from outside Nigeria. We are not able to reimburse participants for local transportation costs, including transport from participants’ homes to the airport, COVID-19 test costs or others. Accepted participants are encouraged to search for additional funding to cover other travel-associated costs.
+SICSS-Covenant will cover the cost of a return economy-class flight to and from Covenant University for international participants. Due to funding limitations, we can only provide travel assistance up to a fixed cap for participants coming from outside Nigeria. We are not able to reimburse participants for local transportation costs, including transport from participants’ homes to the airport, COVID-19 test costs or others. Accepted participants are encouraged to search for additional funding to cover other travel-associated costs.
 
 ## Accommodation & Meals
 
