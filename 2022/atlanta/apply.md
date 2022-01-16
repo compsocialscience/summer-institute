@@ -25,7 +25,8 @@ Applicants must submit the following documents:
 
 4) Graduate students must also submit the contact information of one academic or industry reference (this requirement is optional for postdoctoral scholars, faculty, and industry professionals)
 
-**In order to be guaranteed full consideration, all application materials must be submitted by March 30, 2022.** All application materials must be submitted through <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScKm7KTyyDlpmN1w0Rbv-j3WYf4ukG2T5tspUtaVI6_fHvMPg/viewform?embedded=true" width="640" height="999" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants by e-mail by mid-April, and we will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by March 30, 2022.** All materials must be submitted through 
+[the SICSS-Atlanta Application portal](https://forms.gle/EBFB6rKqbHmN45nn6). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants by e-mail by mid-April, and we will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to csearcy@gsu.edu.
 
