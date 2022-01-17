@@ -17,13 +17,13 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 Applicants must submit the following documents:
 
-1) A letter of application explaining your research area and interest in attending SICSS Chicago
+1) A statement explaining your research area(s) and interest in attending SICSS-Atlanta (Max 500 words)
 
-2) A publication or writing sample that best represents your research
+2) Your most recent CV
 
-3) Your CV
+3) A publication or writing sample that best represents your research
 
-4) Graduate students must also submit the contact information of one academic or industry reference (this requirement is optional for postdoctoral scholars, faculty, and industry professionals)
+4) Graduate students must also submit the contact information of one academic or industry reference (this requirement is optional for postdoctoral scholars, faculty, and industry professionals). Please include the contact's name, title, institution, and email address.
 
 **In order to be guaranteed full consideration, all application materials must be submitted by March 30, 2022.** All materials must be submitted through the 
 [SICSS-Atlanta Application portal](https://forms.gle/EBFB6rKqbHmN45nn6). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants by e-mail by mid-April, and we will ask participants to confirm their participation very soon thereafter.
@@ -39,3 +39,7 @@ Yes, but not at the same time. For example, you can apply to SICSS-Atlanta, and 
 #### Can I participate in SICSS-Atlanta if I have already participated in SICSS at another location?
 
 No. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
+
+#### Will travel or lodging be provided at the SICSS-Atlanta site?
+
+No. Applicants who work or study in the Atlanta metropolitan area will be prioritized for the SICSS-Atlanta program. However, those who are qualified and willing to pay for their own travel and living expenses during the program will be considered. <strong>All participants are expected to attend in-person for the full two weeks of the program.</strong>
