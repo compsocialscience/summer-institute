@@ -32,7 +32,7 @@ Applicants must submit the following documents:
 
 **All application materials must be submitted through the [application form]() by March 18.** Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 1 and ask participants to confirm their participation very soon after that.
 
-Inquiries can be sent to cepder@covenantuniversity.edu.ng
+Inquiries can be sent to cepder.sicss@covenantuniversity.edu.ng
 
 ## Application Frequently Asked Questions
 
