@@ -7,7 +7,7 @@ partner_site: hong-kong
 
 ## Eligibility
 
-Participation is restricted to **graduate students, postdoctoral researchers, and junior faculty**. However, there are no restrictions based on citizenship, country of study, or country of employment. About 10-15 participants will be invited.
+We encourage **graduate students, postdoctoral researchers, and junior faculty** to apply. Advanced students will also be considered. There are no restrictions based on citizenship, country of study, or country of employment.
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours during the two months before the Institute.
 
@@ -18,8 +18,8 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 Applicants must submit the following documents: 
 
 1. A letter of application explaining your research area and interest in attending SICSS-HK (maximum 3 pages);
-2. your CV;
-3. a publication or writing sample that best represents your research ability and interests.
+2. Your CV;
+3. A publication or writing sample that best represents your research ability and interests.
 
 **In order to be guaranteed full consideration, all application materials must be submitted by April 1.** All application materials must be submitted through [Google Form](https://forms.gle/i9uq6ugGLoJTJwTn7). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants through e-mail ask participants to confirm their participation very soon thereafter.
 
