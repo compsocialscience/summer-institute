@@ -24,7 +24,7 @@ Further, when making our evaluations, we attempt to account for an applicant’s
 
 In order to be guaranteed consideration, applicants must submit a CV and a short statement of motivation (max 600 words).  All application materials must be submitted by **February 28, 2022** through the following [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdhgsPpHFDcSWItj8RH54SbhUbCc4dXStzc-wxNh2zWvguF9Q/viewform). We will notify applicants solely through e-mail by March 15, 2022, and will ask participants to confirm their participation very soon thereafter.
 
-Inquiries can be sent to sicss@odissei-data.nl
+Inquiries can be sent to [sicss@odissei-data.nl](mailto:sicss@odissei-data.nl)
 
 ## Application Frequently Asked Questions
 
