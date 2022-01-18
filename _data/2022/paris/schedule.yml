@@ -37,7 +37,7 @@ Broadcasts, 2002-2020"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Exercise ([Felix Lennert](https://felix-lennert.netlify.app) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/))"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 [Gloria Gennaro](http://gloriagennaro.rbind.io): TBA"
+    - name: "17:00 - 18:30 [Liva Ralaivola](https://pageperso.lis-lab.fr/~liva.ralaivola/doku.php): Privacy and Fairness in AdTech and Beyond"
 
 - date: 2022-06-24
   name: Natural Language Processing
@@ -46,7 +46,8 @@ Broadcasts, 2002-2020"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:00 - 16:30 Group Exercise ([Felix Lennert](https://felix-lennert.netlify.app) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/))"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 [Liva Ralaivola](https://pageperso.lis-lab.fr/~liva.ralaivola/doku.php): TBA"
+    - name: "17:00 - 18:30 [Elliott Ash](http://elliottash.com): Advances in Natural Language Processing"
+
 
 - date: 2022-06-25
   name: off-day
@@ -79,7 +80,7 @@ Broadcasts, 2002-2020"
     - name: "12:00 - 13:30 Lunch Break"
     - name: "13:30 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 [Elliott Ash](http://elliottash.com): TBA"
+    - name: "17:00 - 18:30 [Gloria Gennaro](http://gloriagennaro.rbind.io): Randomized Digital Experiments"
     
 - date: 2022-06-30
   name: Social Experiments in a Digital World
