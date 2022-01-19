@@ -7,7 +7,7 @@ partner_site: covenant-university
 
 
 
-Participation is restricted to master’s and PhD students, postdoctoral researchers, untenured faculty within five years of their PhD. There are no restrictions based on citizenship, country of study, or employment, but we will prioritise applicants from African countries. There is no registration fee for participating in SICSS-Covenant, and most of the costs will be covered. The language of instruction will be English.
+Participation is open to master’s and PhD students, postdoctoral researchers, untenured faculty within five years of their PhD. There are no restrictions based on citizenship, country of study, or employment, but we will prioritise applicants from African countries. There is no registration fee for participating in SICSS-Covenant, and most of the costs will be covered. The language of instruction will be English.
 
 We welcome applicants from all backgrounds, fields of study, and countries within Africa. We strongly encourage women, residents in Northern Nigeria, and other minority groups to apply. About 20 participants will be invited, and participants are expected to fully attend, participate, and engage in the entire program.
 
