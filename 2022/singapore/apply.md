@@ -7,7 +7,7 @@ partner_site: singapore
 
 ## Eligibility
 
-SICSS-Singapore is designed for and restricted to Ph.D. students, postdoctoral researchers, and faculty members that are within 7 years of receiving their Ph.D. or are untenured. However, there are no restrictions based on citizenship, country of study, or country of employment. About 20 participants will be invited.
+SICSS-Singapore is designed for and restricted to graduate students (including masters students who have a prominent research requirement in their degree programme), postdoctoral researchers, and faculty members that are within 7 years of receiving their Ph.D. or are untenured. However, there are no restrictions based on citizenship, country of study, or country of employment. About 20 participants will be invited.
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours during the two months before the Institute.
 
