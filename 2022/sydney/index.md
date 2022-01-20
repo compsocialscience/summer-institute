@@ -10,7 +10,7 @@ From 20 June to 1 July, 2022 the [Sydney Social Sciences and Humanities Advanced
 At the Sydney location, we have a specific interest and in-house expertise in the following topics, although this is not an exhaustive list:
 - climate communication and disaster resilience;
 -	disinformation and influence operations;
--	artificial intelligence and the future of work;
+-	smart cities and the future of work;
 -	online safety and digital disengagement;
 -	digital cultures and creative digital practice.
 
