@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: atlanta
 main: true
-image: /assets/images/atlanta.jpg
+image: /assets/images/ATL_Jackson_Street_Image_resized.jpg
 ---
 
 From June 19 to June 29, 2022, the Andrew Young School of Policy Studies will sponsor the Summer Institute in Computational Social Science, to be held at Georgia State University. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
