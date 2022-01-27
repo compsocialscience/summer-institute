@@ -28,7 +28,7 @@ Applicants must submit the following documents:
 **In order to be guaranteed full consideration, all application materials must be submitted by March 30, 2022 through the 
 [SICSS-Atlanta Application](https://forms.gle/EBFB6rKqbHmN45nn6) portal.** Applications that are not complete by the deadline will not receive full consideration. We will notify applicants by mid-April if they've been selected to participate. All invitees will have to confirm their participation very soon thereafter.
 
-Inquiries about the SICSS-Atlanta site can be sent to <csearcy@gsu.edu>.
+Inquiries about the SICSS-Atlanta site can be sent to <sicss.atlanta@gmail.com>.
 
 ## Application Frequently Asked Questions
 
