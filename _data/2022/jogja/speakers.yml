@@ -7,6 +7,11 @@
   image: /assets/images/JasonJones.jpg
   bio: "Jason is an Associate Professor at Stony Brook University, Department of Sociology with a doctorate in Psychology, post-doctorate work in Political Science and a Bachelor's degree in Computer Science. He tries to embody the best of what it means to be interdisciplinary in academia. In his work, he takes advantage of massive datasets to re-examine what we think we know about human behavior. For example, he had collaborated with Facebook to conduct experiments regarding social norms around voting - each experiment generating data from millions of participants.  In another collaboration, he and his colleagues re-imagine and redefine Granovetter's \"strength of weak ties\" hypothesis by taking into account the work histories and social networks of millions of people around the world.  Broadly, his research interests involve the application of computational social science to predict political, health, and other social behaviors."
   website: https://jasonjones.ninja/
+  
+- name: Alëna Aksënova
+  image: /assets/images/AlenaAksenova.jpg
+  bio: "Alëna is a linguist at Google, where she works on topics related to speech processing and automatic speech recognition. Prior to joining Google, she focused on formal language theory and its applications. She received her Ph.D. in Computational Linguistics from Stony Brook University."
+  website: https://research.google/people/107050/
 
 - name: Ismail Fahmi 
   image: /assets/images/IsmailFahmi.jpg
