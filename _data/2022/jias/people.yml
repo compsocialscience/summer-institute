@@ -38,14 +38,28 @@ speakers:
     - image: /assets/images/jias_rumman.jpg
     - bio: "Dr. Rumman Chowdhury’s passion lies at the intersection of artificial intelligence and humanity. She is a pioneer in the field of applied algorithmic ethics, creating cutting-edge socio-technical solutions for ethical, explainable and transparent AI. She is currently the Director of META (ML Ethics, Transparency, and Accountability) team at Twitter, leading a team of applied researchers and engineers to identify and mitigate algorithmic harms on the platform. Previously, she was CEO and founder of Parity, an enterprise algorithmic audit platform company. She formerly served as Global Lead for Responsible AI at Accenture Applied Intelligence.  In her work as Accenture’s Responsible AI lead, she led the design of the Fairness Tool, a first-in-industry algorithmic tool to identify and mitigate bias in AI systems. Dr. Chowdhury co-authored a Harvard Business Review piece on its influences and impact. Dr. Chowdhury is dedicated to cultivating and growing the next wave of technology-forward companies enabling the responsible use of emerging technologies. She is a General Partner (and founder) of the Parity Responsible Innovation venture capital fund. She also serves as a mentor for the Creative Destruction Lab and as a board member of Startups and Society. Dr. Chowdhury is deeply engaged in AI global policy, serving as a board member of the UK Center for Data Ethics and Innovation, and on UNESCO’s Broadband Commission for Sustainable Development. She has helped shape policy - as advisor to the UK House of Lords Parliamentary group on AI, in her testimony to the FTC, New York City Algorithmic Commission, the UN, OECD, Partnership on AI, and other global AI and ethics organizations. As service to the field and the larger community, she serves on the board of Oxford University’s Commission on AI and Governance,  AI4All, a group dedicated to drawing underrepresented groups into STEM, the SSRC’s Just Tech Advisory Group, the University of Virginia’s Data Science Program, and Patterns, a data science journal by the publishers of Cell. Rumman has been featured in international media, including the Wall Street Journal, Financial Times, Harvard Business Review, NPR, MIT Sloan Magazine, MIT Technology Review, BBC, Axios, Cheddar TV, CRN, The Verge, Fast Company, Quartz, Corrierre Della Serra, Optio, Australian Broadcasting Channel and Nikkei Business Times. She is a member of BrainTrust, a community of experts for Protocol, a tech magazine by Politico. She was named one of BBC’s 100 Women, recognized as one of the Bay Area’s top 40 under 40, and honored to be inducted to the British Royal Society of the Arts (RSA). She has also been named by Forbes as one of Five Who are Shaping AI. Dr. Chowdhury holds two undergraduate degrees from MIT, a master's degree in Quantitative Methods of the Social Sciences from Columbia University, and a doctorate in political science from the University of California, San Diego."
 
+    - name: Bhaso Ndzendze
+    - image: /assets/images/jias_bhaso.jpg
+    - bio: "Bhaso Ndzendze is a Senior Lecturer and Head of Department: Politics and International Relations at the University of Johannesburg. Dr Ndzendze is also founder and head of the 4IR and Digital Policy Research Unit at the University of Johannesburg, and a digital policy fellow at the Berlin-based African Policy Research Institute. He is author of two books on artificial intelligence and international relations and is editor in chief of the journal Digital Policy Studies. His scholarship and opinion on technology, society and digital policy has appeared in numerous edited books and the press."
+
+    - name: Thomas Kgokolo
+    - image: /assets/images/jias_thomas.jpg
+    - bio: ""
+    
+    - name: Tendani Mulanga Chimboza
+    - image: /assets/images/jias_tendani.jpg
+    - bio: "Tendani Mulanga Chimboza  is studying towards a PhD in information systems (IS). She holds a Masters in Communications from the University of the Western Cape. Her research activities revolve around digital ethics, ICTs for Social Justice, ICT Policy, and Dimension 2 of the CMM [Cybersecurity Culture and Society]."
+    
 guest_assistants:
   title: Guest Assistants
   people:
     - name: Xolani Makhubele
-
+    - image: /assets/images/jias_xolani.jpg
+    - bio: "Xolani Makhubele is an actuarial specialist by profession and currently works as a data scientist at Telkom. He has special interest in Banking, Insurance, Healthcare and Telecommunication industries. Xolani believes in the rising of leaders who are technologically equipped and prepared for the fourth industrial revolution."
+    
     - name: Sven Lampe
-
-    - name: More GAs TBC
+    - image: /assets/images/jias_sven.jpg
+    - bio: "Sven Lampe works as a research assistant at the Carl von Ossietzky University Oldenburg in the Very Large Business Applications department with Prof. Dr.-Ing. Jorge Marx Gómez. He is responsible for the organizational project management in research field 1 of the project Wärmewende Nordwest. After graduating from high school in 2005, he served in the Air Force for ten years. Sven studied a two-subject bachelor with the subject combination computer science and German language and literature studies. He holds a Master of Science in Computer Science and his research interests are in the heat transition as part of the energy transition; artificial intelligence, especially in evolutionary algorithms; and theoretical computer science with a focus on logic and automata theory."
 
 participants: 
   title: Participants
