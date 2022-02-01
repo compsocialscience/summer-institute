@@ -17,7 +17,7 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 Applicants must submit the following documents: (i) CV; (ii) 2-page, double-spaced statement of interest 
 
-**In order to be guaranteed full consideration, all application materials must be submitted by March 31, 2022.** All application materials must be submitted to [insert google form link]. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 7, 2022, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by March 31, 2022.** All application materials must be submitted to https://forms.gle/yP8nCibm6WjMh4St6. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 7, 2022, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to sicss.penn@gmail.com
 
