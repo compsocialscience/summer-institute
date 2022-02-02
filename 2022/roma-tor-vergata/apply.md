@@ -27,9 +27,9 @@ Applicants must submit the following documents:
 
 (ii) a statement (max 250 words) describing both any current research and your interest in computational social science. 
 
-Writing sample is optional. Recommendation letter is waived. Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend including a few sentences describing the contributions of each individual author. All applications must include an e-mail and an alternative means of contact, like a phone number, in case your email is unreachable.
-
-**In order to be guaranteed full consideration, all application materials must be submitted by 07/04/2022.** All application materials must be submitted through a Google Form, the link of which would be available from the 31/01/2022. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by 26/04/2022, and will ask participants to confirm their participation very soon thereafter.
+Writing sample is optional. Recommendation letter is waived. Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend including a few sentences describing the contributions of each individual author. All applications must include a valid and active email address where the applicant can be reached.
+ 
+**In order to be guaranteed full consideration, all application materials must be submitted by April 7, 2022.** All application materials must be submitted through this link: https://bit.ly/SICSS-TV. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 26, 2022, and will ask participants to confirm their participation soon thereafter.
 
 Inquiries can be sent to siccs.torvergata2022@gmail.com.
 
