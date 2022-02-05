@@ -14,6 +14,6 @@ During the four-week bootcamp from June 20, 2022 to July 17, 2022, participants 
 
 ## Part II: Summer Institute (hybrid program, including online live + in-person formats) 
 
-During the two-week component, participants will meet from 9AM to 4PM for a total of 11 days.   
+During the two-week component, participants will meet from 9AM to 5PM for a total of 11 days.   
 - Online: July 18 (Monday) - July 22 (Friday), July 25 (Monday) - July 27 (Wednesday) 
 - In-Person: July 28 (Thursday) - July 30 (Saturday) at Cheng-Chi University, Taipei
