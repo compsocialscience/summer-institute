@@ -19,4 +19,4 @@ During the two-week component, participants will meet from 9AM to 5PM for a tota
 - In-Person: July 28 (Thursday) - July 30 (Saturday) at Cheng-Chi University, Taipei
 
 ## Tentative Schedule
-Please see this [google sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8YmdjbkhUWkUAG5k2X8ZYIsNJv7fpfYVzu-fmmwe9TT1CpRruPqQUnIQIL_dsPSpCFYKnoMajxgdL/pubhtml?gid=821446428&single=true)
+Please see this [google sheet for our program schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8YmdjbkhUWkUAG5k2X8ZYIsNJv7fpfYVzu-fmmwe9TT1CpRruPqQUnIQIL_dsPSpCFYKnoMajxgdL/pubhtml?gid=821446428&single=true).
