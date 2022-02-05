@@ -1,9 +1,11 @@
 - name: Apply
   url: "apply"
-- name: Schedule
-  url: "schedule"
+- name: Program
+  url: "program"
 - name: FAQ
   url: "faq"  
+- name: Schedule & Materials
+  url: "schedule"
 - name: People
   url: "people"
 - name: Pre-arrival
