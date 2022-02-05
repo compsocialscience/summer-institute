@@ -17,3 +17,6 @@ During the four-week bootcamp from June 20, 2022 to July 17, 2022, participants 
 During the two-week component, participants will meet from 9AM to 5PM for a total of 11 days.   
 - Online: July 18 (Monday) - July 22 (Friday), July 25 (Monday) - July 27 (Wednesday) 
 - In-Person: July 28 (Thursday) - July 30 (Saturday) at Cheng-Chi University, Taipei
+
+## Tentative Schedule
+Please see this (google sheet)[https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8YmdjbkhUWkUAG5k2X8ZYIsNJv7fpfYVzu-fmmwe9TT1CpRruPqQUnIQIL_dsPSpCFYKnoMajxgdL/pubhtml?gid=821446428&single=true]
