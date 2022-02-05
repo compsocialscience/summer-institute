@@ -1,8 +1,12 @@
 - name: Apply
   url: "apply"
-- name: Pre-arrival
-  url: "pre_arrival"
+- name: Schedule
+  url: "schedule"
+- name: FAQ
+  url: "faq"  
 - name: People
   url: "people"
-- name: Schedule & Materials
-  url: "schedule"
+- name: Pre-arrival
+  url: "pre_arrival"
+- name: Contact Us
+  url: "contact"
