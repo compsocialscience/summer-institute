@@ -1,3 +1,40 @@
+- date: All times are in Central European Summer Time, https://www.timeanddate.com/time/zones/cest. All events are held in Zoom.
+
+- date: July 17, 2022
+  events:
+    - name: "18:00 Meet-and-greet"
+
 - date: July 18, 2022
   events:
-    - name: "Schedule coming soon..."
+    - name: "What is computational social science (CSS) really? *by Ivan Smirnov*"
+    - name: "How digital trace data could help to answer social science questions? *by Ivan Smirnov*"
+    - name: "Introduction to using the Twitter API to collect insane amounts of data. *by Suhem Parack*"
+   
+- date: July 19, 2022
+  events:
+    - name: "Harnessing web scraping and APIs to collect data. *by Jana Lasser*"
+    - name: "Digitally powered surveys. *by Jana Lasser*"
+
+- date: July 20, 2022
+  events:
+    - name: "Combining surveys and Big Data. *by David Garcia*"
+    - name: "Introduction to networks in CSS. *by Markus Strohmaier*"
+   
+- date: July 21, 2022
+  events:
+    - name: "How to write a (good!) CSS paper. *by Ivan Smirnov*"
+    - name: "Visualize your data: DOs and DON’Ts. *by Jana Lasser*"
+
+- date: July 22, 2022
+  events:
+    - name: "Potential pitfalls and problems for awesome CSS projects. *by Ivan Smirnov*"
+    - name: "Ethical dimensions of CSS research. *by Jana Lasser*"
+
+-date: July 25, 2022
+  events:
+    - name: "Working on CSS projects in teams"
+    - name: "TBA *by Chris Bail*"
+
+-date: July 26–29, 2022
+  events:
+    - name: "Working on CSS projects in teams"
