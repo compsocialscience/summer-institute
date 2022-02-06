@@ -1,11 +1,3 @@
-faculty:
-  title: Faculty
-  people:
-    - name: 
-      image: 
-      bio: 
-      website:
-      
 speakers: 
   title: Guest Speakers 
   people:
@@ -32,16 +24,8 @@ organizers:
 youth_board:
   title: Youth Organizing Board
   people:
-    - name: 
-      image: 
-      bio: 
-      website: 
-      
-    - name: 
-      image:
-      bio: 
-      website: 
-      
+    - name: Coming soon
+   
 teaching_assistants:
   title: Teaching Assistants 
   people:
