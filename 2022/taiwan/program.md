@@ -6,6 +6,7 @@ title: Program
 
 ---
 
+# Program
 We have designed a 6-week learning program. We will cover text as data, website scraping, online experiments, machine learning, data visualization and ethics in computational social science.
 
 ## Part I: Bootcamp (Online courses, self-paced) 
