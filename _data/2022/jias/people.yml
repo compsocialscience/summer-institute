@@ -80,7 +80,14 @@ speakers:
     - name: Tendani Mulanga Chimboza
       image: /assets/images/jias_tendani.jpg
       bio: "Tendani Mulanga Chimboza  is studying towards a PhD in information systems (IS). She holds a Masters in Communications from the University of the Western Cape. Her research activities revolve around digital ethics, ICTs for Social Justice, ICT Policy, and Dimension 2 of the CMM [Cybersecurity Culture and Society]."
-    
+
+teaching_assistants:
+  title: "Teaching Assistants"
+  people:
+    - name: Sven Lampe
+      image: /assets/images/jias_sven.jpg
+      bio: "Sven Lampe works as a research assistant at the Carl von Ossietzky University Oldenburg in the Very Large Business Applications department with Prof. Dr.-Ing. Jorge Marx Gómez. He is responsible for the organizational project management in research field 1 of the project Wärmewende Nordwest. After graduating from high school in 2005, he served in the Air Force for ten years. Sven studied a two-subject bachelor with the subject combination computer science and German language and literature studies. He holds a Master of Science in Computer Science and his research interests are in the heat transition as part of the energy transition; artificial intelligence, especially in evolutionary algorithms; and theoretical computer science with a focus on logic and automata theory."
+
 guest_assistants:
   title: Guest Assistants
   people:
@@ -88,9 +95,6 @@ guest_assistants:
       image: /assets/images/jias_xolani.jpeg
       bio: "Xolani Makhubele is an actuarial specialist by profession and currently works as a data scientist at Telkom. He has special interest in Banking, Insurance, Healthcare and Telecommunication industries. Xolani believes in the rising of leaders who are technologically equipped and prepared for the fourth industrial revolution."
     
-    - name: Sven Lampe
-      image: /assets/images/jias_sven.jpg
-      bio: "Sven Lampe works as a research assistant at the Carl von Ossietzky University Oldenburg in the Very Large Business Applications department with Prof. Dr.-Ing. Jorge Marx Gómez. He is responsible for the organizational project management in research field 1 of the project Wärmewende Nordwest. After graduating from high school in 2005, he served in the Air Force for ten years. Sven studied a two-subject bachelor with the subject combination computer science and German language and literature studies. He holds a Master of Science in Computer Science and his research interests are in the heat transition as part of the energy transition; artificial intelligence, especially in evolutionary algorithms; and theoretical computer science with a focus on logic and automata theory."
 
 participants: 
   title: Participants
