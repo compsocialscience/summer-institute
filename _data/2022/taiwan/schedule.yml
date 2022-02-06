@@ -1,3 +1,18 @@
-- date: July 18, 2022
+- date: June 20, 2022 ~ July 3, 2022
   events:
-    - name: "Schedule coming soon..."
+    - name: "Bootcamp - R"
+- date: June 29, 2022
+  events:
+    - name: "Bootcamp - Assignment 1 Due"
+- date: July 4, 2022 ~ July 17, 2022
+  events:
+    - name: "Bootcamp - Intro to Computational Social Science"
+- date: July 13, 2022
+  events:
+    - name: "Bootcamp - Assignment 2 Due"
+- date: July 18, 2022 ~ July 27, 2022
+  events:
+    - name: "SICSS-Taiwan 2022 Online"
+- date: July 28, 2022 ~ July 30, 2022
+  events:
+    - name: "SICSS-Taiwan 2022 In-Person @ Chengchi University"
