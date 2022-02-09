@@ -37,3 +37,18 @@ No. Every year we have more applicants than we can accept, and we would like eve
 #### Do I need to be familiar with any programming language?
 
 Yes. If your application gets accepted, then we would expect that at the time of the event, you have some basic knowledge of programming in Python. 
+
+#### Is the summer institute for social scientists or data scientists?
+
+Both. As the programme focuses on computational social science, which is an intersection of social science and computer science, therefore all the lectures and tutorials will focus on both the aspects.
+
+#### Is there any fees to participate in SICSS-Delhi?
+
+No. There is no fees for participation in SICSS-Delhi. Moreover it is being conducted virtually, therefore there will not be any transportation/food/accomodation expenses involved in otherwise phyiscal event. 
+
+
+#### Is there any preference to the candidates based on their qualification
+
+No. We aim to include a diverse set of participants, ranging from undergraduate students to young industry professionals.
+
+
