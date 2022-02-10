@@ -16,3 +16,7 @@ Our instructional program involves lectures, group problem sets, and participant
 Participation is restricted to graduate students (including both master and PhD students), postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About fifteen participants will be invited, and participants are expected to fully attend and participate in the entire two-week program held at KAIST.
 
 [Application materials](https://compsocialscience.github.io/summer-institute/2022/korea/apply) are due March 31, 2022 (KST).
+
+## Online Information Session for Prospective Participants 
+
+Lanu Kim (KAIST) and Jae Yeon Kim (KDIS) will hold an online information session for prospective participants. You can join us via [this zoom link](https://us02web.zoom.us/j/85809514390?pwd=VHpjSmRGSFAzM1hoVWxXTGZPNTBzdz09) on March 4, 2022 12:00 PM (KST). Also, please RVSP to participate this event via [this Google form](https://forms.gle/oggB7vJY8CCeTvkF8) by March 1, 2022.
