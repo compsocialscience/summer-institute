@@ -21,6 +21,10 @@ We also ask applicants to upload the following documents: (i) a curriculum vitae
 
 Inquiries can be sent to sicss.korea@gmail.com.
 
+## Online Information Session for Prospective Participants 
+
+Lanu Kim (KAIST) and Jae Yeon Kim (KDIS) will hold an online information session for prospective participants. You can join us via [this zoom link](https://us02web.zoom.us/j/85809514390?pwd=VHpjSmRGSFAzM1hoVWxXTGZPNTBzdz09) on March 4, 2022 12:00 PM (KST). Also, please RVSP to participate this event via [this Google form](https://forms.gle/oggB7vJY8CCeTvkF8) by March 1, 2022.
+
 ## Application Frequently Asked Questions
 
 #### Can I apply to more than one Summer Institute location?
