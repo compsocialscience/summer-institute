@@ -32,3 +32,17 @@ layout: page
 | Larimore, Savannah; Kennedy, Ian; Haskett, Breon; Arseniev-Koehler; Alina | "Reconsidering Annotator Disagreement about Racist Language: Noise or Signal?" | Proceedings of the Ninth International Workshop on Natural Language Processing for Social Media | <https://doi.org/10.18653/v1/2021.socialnlp-1.7> | Seattle 2018 |
 | Abdullah Almaatouq; M. Amin Rahimian; Jason W. Burton;  Abdulla Alhajri | When Social Influence Promotes the Wisdom of Crowds | Available at SSRN: 3633309 | <https://dx.doi.org/10.2139/ssrn.3633309> | Princeton 2019 |
 | 
+
+---
+
+###Software
+
+---
+
+
+| Creators | Project Name | Link | SICSS Affiliation |
+| -------- | ------------ | ---- | ----------------- |
+| Anfan Chen, Yong hu | Digital Media Data Initiative | <http://saas.socialsensor.top/#/login> | Beijing 2021 |
+| Bellows, Laura | -nicknamez- file | <https://www.laura-bellows.com/software> | Rutgers 2021 |
+| Almaatouq, Abdullah; Paton, Nicolas | Empirica | <https://empirica.ly/> | Princeton 2017 |
+| Barrie, Christopher | academictwitteR | <https://github.com/cjbarrie/academictwitteR> | Oxford 2019 |
