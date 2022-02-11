@@ -35,7 +35,7 @@ layout: page
 
 ---
 
-###Software
+### Software
 
 ---
 
@@ -43,6 +43,9 @@ layout: page
 | Creators | Project Name | Link | SICSS Affiliation |
 | -------- | ------------ | ---- | ----------------- |
 | Anfan Chen, Yong hu | Digital Media Data Initiative | <http://saas.socialsensor.top/#/login> | Beijing 2021 |
+| | | | |
 | Bellows, Laura | -nicknamez- file | <https://www.laura-bellows.com/software> | Rutgers 2021 |
+| | | | |
 | Almaatouq, Abdullah; Paton, Nicolas | Empirica | <https://empirica.ly/> | Princeton 2017 |
+| | | | |
 | Barrie, Christopher | academictwitteR | <https://github.com/cjbarrie/academictwitteR> | Oxford 2019 |
