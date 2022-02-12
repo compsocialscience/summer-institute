@@ -10,6 +10,11 @@ image: /assets/images/howard.jpg
 <br />
 
 ---
+<u>BLOG: Innovative ‘Bite-Sized Lunchtime Talks’ Offer Unique Opportunity for SICSS-Howard/Mathematica Participants To See Data at Work </u>
+<br><font color="grey"><font size="2">Feb 10, 2022</font></font> 
+<br><i><font size = "2">Presenters in SICSS-Howard/Mathematica's "Bite-Sized Lunchtime Talks" discussed improving knowledge equity, diversifying the AI community, fighting misinformation, and much more! Experience them for yourself in this fourth of nine Sage Methodspace blogs by Naniette H. Coleman, the founder and lead organizer of SICSS-Howard/Mathematica, and Maddy Chen, event assistant. Presenters: Wiki Education, the Data Nutrition Project, California Policy Lab, FakeNet AI and FactSpace West Africa, Black in AI, the University of California Publisher Negotiation Team, and vary CSS.</font></i>
+<br><font size = "1">(Posted by <a href="https://www.methodspace.com/blog/innovative-bite-sized-lunchtime-talks-offer-unique-opportunity-for-sicss-howardmathematica-participants-to-see-data-at-work">Sage Methodspace</a>)</font>
+
 <u>BLOG: Wayne A.I. Frederick Delivers Opening Plenary Address for SICSS-Howard/Mathematica 2021 </u>
 <br><font color="grey"><font size="2">Feb 7, 2022</font></font> 
 <br><i><font size = "2">Hear from SICSS-H/M opening plenary speaker and Howard University President Wayne A.I. Frederick M.D. in this third of nine Sage Methodspace blogs by Naniette H. Coleman, the founder and lead organizer of SICSS-Howard/Mathematica, and Nianyao (Amber) Du, event assistant. Dr. Frederick emphasized the importance of diversity and representation to all the participants, and shared how computational social science interacted with his professional world.</font></i>
