@@ -20,7 +20,7 @@
 
 - name: Caron Chen
   image: /assets/images/CaronChen.jpeg
-  bio: "Dr Haohui \“Caron\” Chen is a computational social scientist working for CSIRO's Data61. His multidisciplinary background including GIS, remote sensing, machine learning and statistical modelling allows him to build computational models to solve real-world problems at scale. In the early stage of his research career, Caron focused on disaster management, where he analysed 9.7 million geo-tagged tweets and found social media activities geographically correlated with reported damage during Hurricane Sandy. In the past four years, he has been obsessed with the future of work study. He and his colleagues created the Data61 Australian Skills Dashboard: skills.csiro.au"
+  bio: "Dr Haohui “Caron” Chen is a computational social scientist working for CSIRO's Data61. His multidisciplinary background including GIS, remote sensing, machine learning and statistical modelling allows him to build computational models to solve real-world problems at scale. In the early stage of his research career, Caron focused on disaster management, where he analysed 9.7 million geo-tagged tweets and found social media activities geographically correlated with reported damage during Hurricane Sandy. In the past four years, he has been obsessed with the future of work study. He and his colleagues created the Data61 Australian Skills Dashboard: skills.csiro.au"
   website: https://people.csiro.au/C/C/Caronhaohui-Chen
   
 - name: Andrew Reeson
