@@ -49,11 +49,11 @@ Yes, SSSHARC and other SICSS partners will have seed funding and mentoring avail
 
 #### Will SICSS-Sydney still go ahead in case of pandemic restrictions?
 
-We are monitoring the situation and will offer a remote mode of instruction to selected participants unable to travel to Sydney due to pandemic restrictions.
+We are monitoring the situation and will offer a hybrid/remote mode of instruction to selected participants unable to travel to Sydney due to pandemic restrictions.
 
 #### I would really like to attend, but do not have institutional funding for travel and accommodation in Sydney. What are my options?
 
 SSSHARC will provide up to 10 needs-based grants of up to $1000 AUD to assist with travel and accommodation costs for participants from outside the Greater Sydney area. If you would like to be considered for assistance funding, please indicate this in your application.
 
 #### Can I apply if I live outside of Australia and New Zealand?
-SICSS-Sydney will prioritise participants from Australia and New Zealand to build regional capabilities in the field of computational social science. Researchers who live outside Australia and New Zealand are welcome to apply, however they will be expected to attend the SICSS-Sydney program in person (barring pandemic contingencies). If you are not planning to travel at this time, you may consider applying for one of the virtual-only or hybrid programs: [Aachen-Graz](https://sicss.io/2022/aachen-graz/), [FGV-DAPP Brazil](https://sicss.io/2022/fgv-dapp-brazil/), [Haifa](https://sicss.io/2022/haifa/), [Hong Kong](https://sicss.io/2022/hong-kong/), or [Tokyo](https://sicss.io/2022/tokyo/).
+SICSS-Sydney will prioritise participants from Australia and New Zealand to build regional capabilities in the field of computational social science. Researchers who live outside Australia and New Zealand are welcome to apply if they have research links to Australia (e.g., collaborations).
