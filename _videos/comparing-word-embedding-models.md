@@ -20,4 +20,6 @@ exercises:
 code:
 ---
 
+NLP and CSS 201: Beyond the Basics
+
 Connor Gilroy and Sandeep Soni demonstrate an extension of the use of word embedding models by fitting multiple models on a social science corpus (using gensim’s word2vec implementation), then aligning and comparing those models.
