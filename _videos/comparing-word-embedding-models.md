@@ -8,7 +8,7 @@ venue:
 location:
 author: Connor Gilroy and Sandeep Soni
 author_title: Professor
-is_bootcamp: true
+is_bootcamp: false
 date_published: 02/14/2022
 has_order: 
 preview: https://i.ytimg.com/vi/WbzPZZKJRJA/hqdefault.jpg
