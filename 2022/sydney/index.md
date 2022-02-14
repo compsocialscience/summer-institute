@@ -18,8 +18,8 @@ During the first week, we will follow a largely instructional program which will
 
 Topics covered include digital data collection, text as data, digital surveys and field experiments, mass collaboration, and ethics. At the Sydney location, we specifically focus on the following areas of computational social science:
 - network analysis;
+- text-as-data;
 - machine learning;
-- corpus linguistics;
 - agent-based modelling;
 - data visualisation.
 
