@@ -7,10 +7,10 @@ partner_site: korea
 
 ## Eligibility
 
-Participation is restricted to graduate students (including both master and PhD students), postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. However, there are no restrictions based on citizenship, country of study, or country of employment. About 15 participants will be invited. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science.
+Participation is restricted to graduate students (including master and PhD students), postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. If you are an undergraduate student with substantial research experience, you are encouraged to apply. We also receive applications from incoming PhD students.  We welcome applicants from all backgrounds and fields of study, especially those currently under-represented groups in computational social science. About fifteen participants will be invited, and participants are expected to fully attend and participate in the entire two-week program held at KAIST.
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be supported by teaching assistants during the Summer Institute.
-
+ 
 We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
 
 ## How To Apply
