@@ -9,7 +9,7 @@ location:
 author: Maria Antoniak
 author_title: Professor
 is_bootcamp: false
-date_published: 02/14/2022
+date_published: 
 has_order: 
 preview: https://i.ytimg.com/vi/UmyOhl9AciIA/hqdefault.jpg
 video_url: https://www.youtube.com/watch?v=UmyOhl9AciI

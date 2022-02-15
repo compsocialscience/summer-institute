@@ -9,7 +9,7 @@ location:
 author: Andrew Halterman
 author_title: Professor
 is_bootcamp: false
-date_published: 02/14/2022
+date_published:
 has_order: 
 preview: https://i.ytimg.com/vi/sUtthdcPyhc/hqdefault.jpg
 video_url: https://www.youtube.com/watch?v=sUtthdcPyhc
