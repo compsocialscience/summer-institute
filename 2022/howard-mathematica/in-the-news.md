@@ -10,6 +10,11 @@ image: /assets/images/howard.jpg
 <br />
 
 ---
+<u>BLOG: Notable Scholars and Business Leaders Share Research and Inspiration with Next Generation of Computational Social Scientists </u>
+<br><font color="grey"><font size="2">Feb 14, 2022</font></font> 
+<br><i><font size = "2">Four brilliant guest speakers presented their data-driven social science research at SICSS-Howard/Mathematica 2021: Ruha Benjamin, Laura Nelson, Naomi Sugie, and Chris Wheat. Learn about them and their work in this fifth blog of nine Sage Methodspace Blogs by Naniette H. Coleman, the founder and lead organizer of SICSS-Howard/Mathematica, and Kristina Hiraishi, event assistant. Participants engaged in the discussion of discriminatory biases built into various technologies, data collection of small businesses during the COVID-19 pandemic, re-entry into the job force for incarcerated people, and categorization of social identities and systems of power.</font></i>
+<br><font size = "1">(Posted by <a href="https://www.methodspace.com/blog/notable-scholars-and-business-leaders-share-research-and-inspiration-with-next-generation-of-computational-social-scientists">Sage Methodspace</a>)</font>
+
 <u>BLOG: Innovative ‘Bite-Sized Lunchtime Talks’ Offer Unique Opportunity for SICSS-Howard/Mathematica Participants To See Data at Work </u>
 <br><font color="grey"><font size="2">Feb 10, 2022</font></font> 
 <br><i><font size = "2">Presenters in SICSS-Howard/Mathematica's "Bite-Sized Lunchtime Talks" discussed improving knowledge equity, diversifying the AI community, fighting misinformation, and much more! Experience them for yourself in this fourth of nine Sage Methodspace blogs by Naniette H. Coleman, the founder and lead organizer of SICSS-Howard/Mathematica, and Maddy Chen, event assistant. Presenters: Wiki Education, the Data Nutrition Project, California Policy Lab, FakeNet AI and FactSpace West Africa, Black in AI, the University of California Publisher Negotiation Team, and vary CSS.</font></i>
