@@ -1,5 +1,5 @@
 ---
-title: Tutorial 4: Beyond the Bag of Words: Text Analysis with Contextualized Topic Models
+title: "Tutorial 4: Beyond the Bag of Words: Text Analysis with Contextualized Topic Models"
 description_seo: 
 duration: "59:45"
 keywords:

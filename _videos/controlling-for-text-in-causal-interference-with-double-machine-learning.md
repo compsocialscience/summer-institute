@@ -1,5 +1,5 @@
 ---
-title: Tutorial 3: Controlling for Text in Causal Inference with Double Machine Learning
+title: "Tutorial 3: Controlling for Text in Causal Inference with Double Machine Learning"
 description_seo: 
 duration: "1:02:06"
 keywords:

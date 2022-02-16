@@ -1,5 +1,5 @@
 ---
-title: Tutorial 5: BERT for Computational Social Scientists
+title: "Tutorial 5: BERT for Computational Social Scientists"
 description_seo: 
 duration: "1:00:15"
 keywords:
@@ -11,7 +11,7 @@ author_title: Professor
 is_bootcamp: false
 date_published: 
 has_order: 
-preview: https://i.ytimg.com/vi/UmyOhl9AciIA/hqdefault.jpg
+preview: https://i.ytimg.com/vi/UmyOhl9AciI/hqdefault.jpg
 video_url: https://www.youtube.com/watch?v=UmyOhl9AciI
 embed_url: https://www.youtube.com/embed/UmyOhl9AciI
 materials:

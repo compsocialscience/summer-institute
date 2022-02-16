@@ -1,5 +1,5 @@
 ---
-title: Tutorial 2: Extracting Information from Documents
+title: "Tutorial 2: Extracting Information from Documents"
 description_seo: 
 duration: "58:19"
 keywords:
@@ -10,7 +10,7 @@ author: Andrew Halterman
 author_title: Professor
 is_bootcamp: false
 date_published:
-has_order: 
+has_order: 31
 preview: https://i.ytimg.com/vi/sUtthdcPyhc/hqdefault.jpg
 video_url: https://www.youtube.com/watch?v=sUtthdcPyhc
 embed_url: https://www.youtube.com/embed/sUtthdcPyhc

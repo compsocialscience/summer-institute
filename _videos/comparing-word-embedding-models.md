@@ -1,5 +1,5 @@
 ---
-title: Tutorial 1: Comparing Word Embedding Models
+title: "Tutorial 1: Comparing Word Embedding Models"
 description_seo: 
 duration: "1:00:41"
 keywords:
