@@ -6,42 +6,58 @@
 
 - date: July 18, 2022
   events:
-    - name: "What is computational social science (CSS) really? *by Ivan Smirnov*"
-    - name: "How digital trace data could help to answer social science questions? *by Ivan Smirnov*"
-    - name: "Guest lecture: Introduction to using the Twitter API to collect insane amounts of data *by Suhem Parack*"
+    - name: "09:30 What is computational social science (CSS) really? *by Ivan Smirnov*"
+    - name: "10:30 Exercises/Group activity"
+    - name: "12:00 Lunch"
+    - name: "13:00 How digital trace data could help to answer social science questions? *by Ivan Smirnov*"
+    - name: "14:30 Guest lecture: Introduction to using the Twitter API to collect insane amounts of data *by Suhem Parack*"
    
 - date: July 19, 2022
   events:
-    - name: "Harnessing web scraping and APIs to collect data *by Jana Lasser*"
-    - name: "Digitally powered surveys *by Jana Lasser*"
+    - name: "09:30 Harnessing web scraping and APIs to collect data *by Jana Lasser*"
+    - name: "10:30 Exercises/Group activity"
+    - name: "12:00 Lunch"
+    - name: "13:00 Digitally powered surveys *by Jana Lasser*"
+    - name: "14:30 Exercises/Group activity"
 
 - date: July 20, 2022
   events:
-    - name: "Combining surveys and Big Data *by David Garcia*"
-    - name: "Introduction to networks in CSS *by Markus Strohmaier*"
+    - name: "09:30 Combining surveys and Big Data *by David Garcia*"
+    - name: "10:30 Exercises/Group activity"
+    - name: "12:00 Lunch"
+    - name: "13:00 Introduction to networks in CSS *by Markus Strohmaier*"
+    - name: "14:30 Exercises/Group activity"
    
 - date: July 21, 2022
   events:
-    - name: "How to write a (good!) CSS paper *by Ivan Smirnov*"
-    - name: "Visualize your data: DOs and DON’Ts *by Jana Lasser*"
+    - name: "09:30 How to write a (good!) CSS paper *by Ivan Smirnov*"
+    - name: "10:30 Exercises/Group activity"
+    - name: "12:00 Lunch"
+    - name: "13:00 Visualize your data: DOs and DON’Ts *by Jana Lasser*"
+    - name: "14:30 Exercises/Group activity"
 
 - date: July 22, 2022
   events:
-    - name: "Potential pitfalls and problems for awesome CSS projects *by Ivan Smirnov*"
-    - name: "Ethical dimensions of CSS research *by Jana Lasser*"
+    - name: "09:30 Potential pitfalls and problems for awesome CSS projects *by Ivan Smirnov*"
+    - name: "10:30 Exercises/Group activity"
+    - name: "12:00 Lunch"
+    - name: "13:00 Ethical dimensions of CSS research *by Jana Lasser*"
+    - name: "14:30 Exercises/Group activity"
 
 - date: July 25, 2022
   events:
     - name: "Work on group projects"
-    - name: "Guest lecture: TBA *by Chris Bail*"
+    - name: "16:00 Guest lecture: TBA"
 
 - date: July 26, 2022
   events:
     - name: "Work on group projects"
+    - name: "16:00 Guest lecture: TBA"
 
 - date: July 27, 2022
   events:
     - name: "Work on group projects"
+    - name: "16:00 Guest lecture: TBA"
 
 - date: July 28, 2022
   events:
