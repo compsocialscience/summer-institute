@@ -10,6 +10,11 @@ image: /assets/images/howard.jpg
 <br />
 
 ---
+<u>BLOG: Timnit Gebru, PhD, one of Fortune’s Top 25 Leaders in the world, Delivers Keynote Address for SICSS-Howard/Mathematica 2021 </u>
+<br><font color="grey"><font size="2">Feb 17, 2022</font></font> 
+<br><i><font size = "2">Timnit Gebru PhD, one of Fortune’s Top 25 Leaders in the world, was the inaugural SICSS-Howard/Mathematica Keynote Speaker. A retrospective of Dr. Gebru’s address is the focus of this sixth of nine Sage Methodspace blogs by Naniette H. Coleman, the founder and lead organizer of SICSS-Howard/Mathematica, and Amanda Lee, event and communications assistant. Dr. Gebru shared her path studying computer science and the making of Black in AI.</font></i>
+<br><font size = "1">(Posted by <a href="https://www.methodspace.com/blog/timnit-gebru-phd-one-of-fortunes-top-25-leaders-in-the-world-delivers-keynote-address-for-sicss-howardmathematica-2021">Sage Methodspace</a>)</font>
+
 <u>BLOG: Notable Scholars and Business Leaders Share Research and Inspiration with Next Generation of Computational Social Scientists </u>
 <br><font color="grey"><font size="2">Feb 14, 2022</font></font> 
 <br><i><font size = "2">Four brilliant guest speakers presented their data-driven social science research at SICSS-Howard/Mathematica 2021: Ruha Benjamin, Laura Nelson, Naomi Sugie, and Chris Wheat. Learn about them and their work in this fifth blog of nine Sage Methodspace Blogs by Naniette H. Coleman, the founder and lead organizer of SICSS-Howard/Mathematica, and Kristina Hiraishi, event assistant. Participants engaged in the discussion of discriminatory biases built into various technologies, data collection of small businesses during the COVID-19 pandemic, re-entry into the job force for incarcerated people, and categorization of social identities and systems of power.</font></i>
