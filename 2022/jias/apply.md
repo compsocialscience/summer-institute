@@ -28,5 +28,6 @@ Inquiries can be sent to sicss.jias@gmail.com.
 
 Yes, but not at the same time. For example, you can apply to SICSS-JIAS/IPATC, and then if you
 are not accepted you can apply to one of the other locations if it has a later deadline. However,
-you cannot have applications under review at two locations simultaneously.  #### Can I
-participate in SICSS-JIAS/IPATC if I have already participated in SICSS at another location?  No. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once.
+you cannot have applications under review at two locations simultaneously.  
+#### Can I participate in SICSS-JIAS/IPATC if I have already participated in SICSS at another location?  
+No. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once.
