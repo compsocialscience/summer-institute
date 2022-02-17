@@ -5,23 +5,36 @@ main: true
 image: /assets/images/chengchi.jpg
 ---
 
-The Russel Sage Foundation and the International College of Innovation (ICI) of National Chengchi University will sponsor the Summer Institute in Computational Social Science - Taiwan (SICSS-Taiwan). The purpose of SICSS-Taiwan is to bring together people interested in applying data science and computational methods to better understand human behaviors and social phenomena. We aim to facilitate inclusive learning and effective collaboration in computational social science. 
+The Summer Institute in Computational Social Science - Taiwan (**“SICSS Taiwan”**), the Russel Sage Foundation and the International College of Innovation of National Chengchi University will host a 6-week training program (the **“Program”**) in the summer of 2022, which aims to promote computational social science and the cross-disciplinary collaboration between social science and data science. Below is an overview of our mission, participants and program. 
 
-The target audience of our six-week program is graduate students, researchers and professionals with backgrounds in data science and/or social sciences. We will select a cohort of 25 participants who are motivated to be in an interdisciplinary community of learners and collaborators. We especially welcome applicants new to computational social science. Other than deposit, there is no registration fee and participants will receive subsidies in housing and transportation for the in-person component. 
+## Mission
 
-The six-week program consists of two components: a self-paced, fully remote learning bootcamp from June 20 to July 17, and a synchronous and hybrid program from July 18 to July 30. The program features flipped-classroom and participant-driven learning. 
+The mission of the Program is to bring together people who are interested in applying data science and computational methods to better understand human behaviors and social phenomena. Through the Program, we hope to facilitate inclusive learning and effective collaboration in the field of computational social science.
 
-During the bootcamp, SICSS-Taiwan organizers will help participants build common set of language in computational social science research questions and data science skills. Participants should budget 5-10 hours weekly during this phase.  
+## Participants
 
-From July 18 to July 30, participants will participate in lectures, group problem sets, code-along tutorials, collaborative discussion activities, lightning talks, and participant-led projects. Topics covered include text as data, website scraping, digital field experiments, machine learning, and ethics. In the second half of the two-week program, participants will form 3-5 person teams to develop research or tutorial projects related to computational social science.  
+The ideal participants of our 6-week Program would be graduate students, researchers, academic faculty and professionals with backgrounds in data science and/or social sciences. Prospective participants will have to apply to our Program. We will admit a cohort of 25 participants to the Program after a rigorous selection process. Our past participants came from either social science or data science (or computer science), or in some cases, a combination of both backgrounds. When selecting our participants, we focus on their experience in using data to solve problems, interest in learning computational social science, and willingness to collaborate with others from different backgrounds. 
 
-Because we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute will be released open source.
+## Program
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2022/taiwan/apply) will be announced at the end of January, 2022. 
+Our Program will be hosted from Jun 20, 2022 through July 30, 2022. It consists of a 4-week bootcamp and a 2-week live hybrid program. The last three days of the hybrid program, July 28 to July 30, will be hosted in person at National Chengchi University. For a summary of the Program, please refer to the Table 1 below and to our [**Schedule**](https://bit.ly/csstaiwan2022) section.  
 
-We are hosting monthly 30 min info sessions online from December to March. You can [subscribe to our email updates](https://docs.google.com/forms/d/e/1FAIpQLSd_rtXqZHelZ1RlJYJi4oBB95gL0kza0vWlyNcqF5UnXg7gUw/viewform?usp=sf_link) regarding the upcoming SICSS-Taiwan information.
+| Component      | Dates       | Format      | Content    | Notes |
+| :-------------- | :--------- | :---------- | :----------|:------|
+|Bootcamp|6/20/2022 - 7/17/2022|Self-paged, remote learning program|Programming Language R & Fundamentals of Computational Social Science |We’ll host office hours for questions. |
+|Hybrid Program|7/18/2022 - 7/30/2022|Hybrid program of live online and in-person sessions |Guest lectures, Group Problem Sets, Tutorials, Lightning Talks, and Group Projects |In-person sessions: 7/28, 7/29 and 7/30 |
 
-If you have any question, please contact us at sicss.taiwan.2021@gmail.com 
+The whole Program is free of charge to our participants. We also offer subsidies in housing and transportation allowances for our participants for the 3-day in-person sessions. Please note that we do require a deposit of NTD 1,500 from each participant, which will be returned at the end of the Program if a participant maintains the required attendance rate.    
+
+Because we are committed to open and reproducible research, all materials created by faculty and our participants for SICSS Taiwan will be released open source.
 
 
+## Conclusion
 
+We are excited to welcome new participants to join our Program and our growing cross-disciplinary community!  
+
+To Apply, please click [HERE](https://bit.ly/34B0iIV) for our application form. 
+
+To help you understand our Program and our application, we are hosting monthly 30 min information sessions online from December to April. You can [subscribe to our email updates](https://docs.google.com/forms/d/e/1FAIpQLSd_rtXqZHelZ1RlJYJi4oBB95gL0kza0vWlyNcqF5UnXg7gUw/viewform?usp=sf_link) regarding the upcoming SICSS Taiwan information sessions.
+
+If you have any questions, please contact us at sicss.taiwan.2021@gmail.com. We look forward to hearing from you! 

@@ -29,7 +29,7 @@ Applicants must submit the following documents:
 
 Writing sample is optional. Recommendation letter is waived. Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend including a few sentences describing the contributions of each individual author. All applications must include a valid and active email address where the applicant can be reached.
  
-**In order to be guaranteed full consideration, all application materials must be submitted by April 7, 2022.** All application materials must be submitted through this link: https://bit.ly/SICSS-TV. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 26, 2022, and will ask participants to confirm their participation soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by April 7, 2022.** All application materials must be submitted through this [link](https://bit.ly/SICSS-TV). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 26, 2022, and will ask participants to confirm their participation soon thereafter.
 
 Inquiries can be sent to siccs.torvergata2022@gmail.com.
 

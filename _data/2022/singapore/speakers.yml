@@ -1,3 +1,8 @@
+- name: Sandra González-Bailón
+  image: /assets/images/sgb.jpg
+  bio: "Dr. Sandra González-Bailón is an Associate Professor at the Annenberg School for Communication, and affiliated faculty at the Warren Center for Network and Data Sciences. Her research lies at the intersection of network science, data mining, computational tools, and political communication. Her applied research looks at how online networks shape exposure to information, with implications for how we think about political engagement, mobilization dynamics, information diffusion, and news consumption.  Her articles have appeared in journals like PNAS, Nature, Science, Political Communication, The Journal of Communication, and Social Networks, among others. She is the author of the book Decoding the Social World (MIT Press, 2017) and co-editor of The Oxford Handbook of Networked Communication (OUP, 2020). She serves as Associate Editor for the journals Social Networks, EPJ Data Science, and The International Journal of Press/Politics, and she is a member of the Board of Reviewing Editors for Science. She leads the research group DiMeNet (/daɪmnet/) — acronym for Digital Media, Networks, and Political Communication."
+  website: https://sandragonzalezbailon.net/
+
 - name: Kokil Jaidka
   image: /assets/images/jaidka.jpg
   bio: "Dr. Kokil Jaidka is an Assistant Professor in Computational Communication at the National University of Singapore. Her research interests lie in developing computational models of persuasive and argumentative language and building social media platforms that better facilitate constructive conversations. Her research has been published in Nature Human Behaviour, Journal of Computer-Mediated Communication, and Journal of Communication, among other venues."
@@ -18,4 +23,7 @@
   bio: "Dr. Prasanta Bhattacharya is a Research Scientist and Innovation Lead with the Social and Cognitive Computing Dept. at the Institute of High Performance Computing (IHPC), A*STAR Singapore, where he works on network science and behavioral analytics. Prasanta holds a Ph.D in Information Systems from the Department of Information Systems and Analytics, National University of Singapore, where he studied network science with a special focus on predictive and inferential methods in large social networks. His current research agenda aims at understanding the role of big data in emerging social and business applications from finance, education and healthcare. Prasanta actively collaborates with major industry partners from around the world, and has presented his research in leading computer science, information systems and marketing science venues."
   website: https://prasantabhattacharya.github.io/
 
-- name: More speakers TBC.
+- name: Suhem Parack
+  image: /assets/images/suhem.jpg
+  bio: "Suhem Parack is a Staff Developer Advocate at Twitter. He helps students and academic researchers with their research using the Twitter API. Before joining Twitter, he was a Solutions Architect at Amazon."
+  website: https://developer.twitter.com/en

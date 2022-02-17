@@ -14,11 +14,19 @@ Our target audience is data scientists and social scientists who are in academia
 1) Academia: master students, PhD students, post-docs, faculty and researchers 
 2) Industry: applied social scientists and data scientists with at least one year of working experience
 
-We have 3 days of in-person component. While there are no restrictions based on citizenship, country of study, or country of employment in our application selection process, there may be travel restriction and quarantine requirements due to COVID-19. About 24 participants will be invited.
+We have 3 days of in-person component. While there are no restrictions based on citizenship, country of study, or country of employment in our application selection process, there may be travel restriction and quarantine requirements due to COVID-19. 25 participants will be invited.
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete additional training in R. Learners doing this preparatory work will be supported by organizing team and teaching assistants one month prior to the program
 
-We welcome applicants from all backgrounds and fields of study, especially applicants new to computational social science. We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
+We welcome applicants from all backgrounds and fields of study, especially applicants new to computational social science. We evaluate applicants along a number of dimensions: 
+
+- research and teaching in the area of computational social science
+- contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others
+- likelihood to benefit from participation 
+- likelihood to contribute to the educational experience of other participants 
+- potential to spread computational social science to new intellectual communities and areas of research. 
+ 
+Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
 
 # 申請條件
 ## 研習營目標：
@@ -26,11 +34,11 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 2） 多元背景的社會科學與資料科學的研究者與實作者，共同合力針對有公共性的資料進行跨領域合作，完成一份專案。
 
 ## 目標族群：
-台灣學術界與業界之社會科學家與資料科學家(碩士以上學生) 
+台灣學術界與業界之社會科學家與資料科學家
 
 ## 申請資格：
 1） 學界：台灣大專院校碩士以上學生、博士、博後、講師、教授與學術研究者 (將全額補助)
-2） 業界：台灣應用社會科學家與資料科學家一年以上 (將全額補助)
+2） 業界：台灣資料科學家工作一年以上 (將全額補助)
 
 ## 錄取要求：
 錄取者須承諾全程參加營隊訓練與實作，並於一周之內回覆並繳保證金(NTD1500)，全程參加後全額退還。
@@ -38,16 +46,5 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 ## How To Apply
 
-Application process will be announced at the end of January.
+We require resume，a research statement, and supporting materials in your application. Submit your application form [HERE](https://bit.ly/34B0iIV). We are opening the application on Feb 12, 2022. We review on rolling basis. Deadline is April 17, 2022. 
 
-Inquiries can be sent to sicss.taiwan.2021@gmail.com 
-
-## Application Frequently Asked Questions
-
-#### Can I apply to more than one Summer Institute location?
-
-Yes, but not at the same time. For example, you can apply to SICSS-Taiwan, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.
-
-#### Can I participate in SICSS-Taiwan if I have already participated in SICSS at another location?
-
-No. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
