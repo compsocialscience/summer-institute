@@ -1,21 +1,9 @@
-faculty:
-  title: Faculty
-  people:
-    - name: Bongani Ngqulunga
-      image: /assets/images/jias_bongani.jpg
-      bio: "Dr Bongani Ngqulunga, who is the director of the institute is an academic, public
-      sector administrator and author.  Prior to joining JIAS, he worked in the South African
-      Presidency for more than a decade.  He holds a PhD in Sociology from Brown University in
-      the United States and three degrees from the University of KwaZulu-Natal.  His appointment
-      at JIAS became effective in June 2018.  In the same month, Dr Ngqulunga won the Alan Paton
-      Award for non-fiction for his book <i>The Man Who Found the ANC: A Biography of Pixley ka
-      Isaka Seme</i> (Penguin, 2018)."
 organisers:
   title: Organisers
   people:
     - name: malebo sephodi
       image: /assets/images/jias_malebo.jpg
-      bio: "malebo sephodi is a South African Feminist writer and scholar. She is a doctoral
+      bio: "malebo sephodi (she/they) is a South African Feminist writer and scholar. She is a doctoral
       candidate in the Information Systems Department at the University of Cape Town and a 2020
       writing fellow at the Johannesburg Institute for Advanced Study. She is interested in the
       intersections of society and digital technology. malebo's interdisciplinary work focuses on
@@ -31,6 +19,33 @@ organisers:
     - name: Siphesihle Sithungu
       image: /assets/images/jias_siphesihle.jpg
       bio: Siphesihle Sithungu is a Computer Science lecturer and doctoral candidate at the University of Johannesburg, South Africa. He is also an author and has published articles in international conferences and journals. His research interests are Intelligent Agents, Machine Learning and Nature Inspired Artificial Intelligence.
+
+faculty:
+  title: Faculty
+  people:
+    - name:
+      image: /assets/images/jias_jias.png
+    - name: Bongani Ngqulunga
+      image: /assets/images/jias_bongani.jpg
+      bio: "Dr Bongani Ngqulunga, who is the director of the Johannesburg Institute for
+      Advanced Study, is an academic, public sector administrator and author.  Prior to joining JIAS, he worked in the South African
+      Presidency for more than a decade.  He holds a PhD in Sociology from Brown University in
+      the United States and three degrees from the University of KwaZulu-Natal.  His appointment
+      at JIAS became effective in June 2018.  In the same month, Dr Ngqulunga won the Alan Paton
+      Award for non-fiction for his book <i>The Man Who Found the ANC: A Biography of Pixley ka
+      Isaka Seme</i> (Penguin, 2018)."
+    - name:
+      image: /assets/images/jias_IPATC.jpg
+    - name: Siphamandla Zondi
+      image: /assets/images/jias_zondi.jpg
+      bio: "Siphamandla Zondi (him/they) is acting director of the Institute for Pan-African
+      Thought and Conversation and acting co-director of the Institute for Global African Affairs
+      at University of Johannesburg. He is also with Department of Politics and International
+      Relations at the same university teaching introduction to politics at undergraduate level
+      and research methodology at postgraduate level. He is a commissioner on the National
+      Planning Commission of South Africa and a chair of the SA BRICS Think Tank. His broad
+      research interest is decolonising power, being and ways of knowing."
+
 
 speakers:
   title: Speakers
@@ -51,8 +66,8 @@ speakers:
 
     - name: Chenai Chair
       image: /assets/images/jias_chenai.jpg
-      bio: "Chenai Chair  is the Special Advisor on Africa Mradi Innovation at Mozilla Foundation. She is an expert on the intersection of digital technology and gender. She has built her expertise with extensive experience in work that is focused on understanding the impact of technology in society through research and public policy assessment. Her work draws on principles of feminism in assessing digital technology. She has developed projects focused on privacy, data protection and AI as Mozilla 2019/2020 fellow - available on mydatarights.africa.  She also led the research on Women's Rights Online as the Web Foundation's gender and digital rights research manager. She has worked on issues of access within the digital divide as a Researcher at Research ICT Africa (RIA).  She also works as a consultant on research projects focused on digital rights,  including assessing the state of digital identity in Zimbabwe and developed recommendations for digital rights literacy in Southern Africa.  Chenai holds a Masters in Social Science degree focused on Global Studies from the University of Cape Town. You can learn more about Chenai on www.chenai.africa."
-      website: https://mydatarights.africa/about-us/
+      bio: "Chenai Chair  is the Special Advisor on Africa Mradi Innovation at Mozilla Foundation. She is an expert on the intersection of digital technology and gender. She has built her expertise with extensive experience in work that is focused on understanding the impact of technology in society through research and public policy assessment. Her work draws on principles of feminism in assessing digital technology. She has developed projects focused on privacy, data protection and AI as Mozilla 2019/2020 fellow - available on mydatarights.africa.  She also led the research on Women's Rights Online as the Web Foundation's gender and digital rights research manager. She has worked on issues of access within the digital divide as a Researcher at Research ICT Africa (RIA).  She also works as a consultant on research projects focused on digital rights,  including assessing the state of digital identity in Zimbabwe and developed recommendations for digital rights literacy in Southern Africa.  Chenai holds a Masters in Social Science degree focused on Global Studies from the University of Cape Town."
+      website: https://www.chenai.africa
 
     - name: Rumman Chowdhury
       image: /assets/images/jias_rumman.jpeg
@@ -73,20 +88,10 @@ speakers:
       bio: "Dr Bhaso Ndzendze is a Senior Lecturer and Head of Department: Politics and International Relations at the University of Johannesburg. Dr Ndzendze is also founder and head of the 4IR and Digital Policy Research Unit at the University of Johannesburg, and a digital policy fellow at the Berlin-based African Policy Research Institute. He is author of two books on artificial intelligence and international relations and is editor in chief of the journal Digital Policy Studies. His scholarship and opinion on technology, society and digital policy has appeared in numerous edited books and the press."
       website: https://bhasondzendze.co.za/
 
-    - name: Thomas Kgokolo
-      image: /assets/images/jias_thomas.jpeg
-      bio: ""
-    
     - name: Tendani Mulanga Chimboza
       image: /assets/images/jias_tendani.jpg
       bio: "Tendani Mulanga Chimboza  is studying towards a PhD in information systems (IS). She holds a Masters in Communications from the University of the Western Cape. Her research activities revolve around digital ethics, ICTs for Social Justice, ICT Policy, and Dimension 2 of the CMM [Cybersecurity Culture and Society]."
 
-teaching_assistants:
-  title: "Teaching Assistants"
-  people:
-    - name: Sven Lampe
-      image: /assets/images/jias_sven.jpg
-      bio: "Sven Lampe works as a research assistant at the Carl von Ossietzky University Oldenburg in the Very Large Business Applications department with Prof. Dr.-Ing. Jorge Marx Gómez. He is responsible for the organizational project management in research field 1 of the project Wärmewende Nordwest. After graduating from high school in 2005, he served in the Air Force for ten years. Sven studied a two-subject bachelor with the subject combination computer science and German language and literature studies. He holds a Master of Science in Computer Science and his research interests are in the heat transition as part of the energy transition; artificial intelligence, especially in evolutionary algorithms; and theoretical computer science with a focus on logic and automata theory."
 
 guest_assistants:
   title: Guest Assistants
