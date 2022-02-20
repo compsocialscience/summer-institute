@@ -10,6 +10,11 @@ image: /assets/images/howard.jpg
 <br />
 
 ---
+<u>BLOG: Mathematica’s Paul Decker PhD Delivers Closing Plenary Address for SICSS-Howard/Mathematica 2021 </u>
+<br><font color="grey"><font size="2">Feb 19, 2022</font></font> 
+<br><i><font size = "2">Paul Decker Ph.D., President and Chief Executive Officer of Mathematica and nationally recognized expert on policy research, addressed SICSS-Howard/Mathematica 2021 participants in the closing plenary address. Learn about the evolution of data-driven policy and the importance of occupying both the computational science and social science spheres in this seventh of nine Sage Methodspace blogs by Naniette H. Coleman, the founder and lead organizer of SICSS-Howard/Mathematica, and Ava Wu, event and communications assistant.</font></i>
+<br><font size = "1">(Posted by <a href="https://www.methodspace.com/blog/mathematicas-paul-decker-phd-delivers-closing-plenary-address-for-sicss-howardmathematica-2021">Sage Methodspace</a>)</font>
+
 <u>BLOG: Timnit Gebru, PhD, one of Fortune’s Top 25 Leaders in the world, Delivers Keynote Address for SICSS-Howard/Mathematica 2021 </u>
 <br><font color="grey"><font size="2">Feb 17, 2022</font></font> 
 <br><i><font size = "2">Timnit Gebru PhD, one of Fortune’s Top 25 Leaders in the world, was the inaugural SICSS-Howard/Mathematica Keynote Speaker. A retrospective of Dr. Gebru’s address is the focus of this sixth of nine Sage Methodspace blogs by Naniette H. Coleman, the founder and lead organizer of SICSS-Howard/Mathematica, and Amanda Lee, event and communications assistant. Dr. Gebru shared her path studying computer science and the making of Black in AI.</font></i>
