@@ -10,6 +10,11 @@ image: /assets/images/howard.jpg
 <br />
 
 ---
+<u>BLOG: Finding Personal Restoration through Computational Social Science at Howard University</u>
+<br><font color="grey"><font size="2">Feb 21, 2022</font></font> 
+<br><i><font size = "2">Experience the life-changing journey of one SICSS-Howard/Mathematica 2021 participant in this eighth of nine Sage Methodspace blogs. Rashun Miles, Ph.D. student in the Department of Social Welfare at the University of Mississippi, and affiliate of the Ricardo Brennand Institute in Recife, Brazil, shares how SICSS-H/M 2021 offered him an unexpected chance to connect on a deeper level with people who have shared life experiences and are passionate about changing the world.</font></i>
+<br><font size = "1">(Posted by <a href="https://www.methodspace.com/blog/finding-personal-restoration-through-computational-social-science-at-howard-university">Sage Methodspace</a>)</font>
+
 <u>BLOG: Mathematica’s Paul Decker PhD Delivers Closing Plenary Address for SICSS-Howard/Mathematica 2021</u>
 <br><font color="grey"><font size="2">Feb 19, 2022</font></font> 
 <br><i><font size = "2">Paul Decker Ph.D., President and Chief Executive Officer of Mathematica and nationally recognized expert on policy research, addressed SICSS-Howard/Mathematica 2021 participants in the closing plenary address. Learn about the evolution of data-driven policy and the importance of occupying both the computational science and social science spheres in this seventh of nine Sage Methodspace blogs by Naniette H. Coleman, the founder and lead organizer of SICSS-Howard/Mathematica, and Ava Wu, event and communications assistant.</font></i>
