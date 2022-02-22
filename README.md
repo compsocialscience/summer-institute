@@ -230,6 +230,14 @@ embed_url: https://www.youtube.com/embed/QB5ypzhIMA8
 
 Once you find the YouTube link of a video, you can paste that into `video_url`. The unique video ID is at the end, for the example above, it is `QB5ypzhIMA8`. Simply replace that unique video ID for both `preview` and `embed_url` to easily embed the YouTube video and image preview.
 
+When adding a title to the video file, if the title contains a colon (:) (Or any other special characters), ensure that the title is encapsulated within quotation marks. If not, the video will not properly show up. For example, this title would cause errors:
+
+`title: Tutorial 1: Comparing Word Embedding Models`
+
+To fix this, let's add quotations marks:
+
+`title: "Tutorial 1: Comparing Word Embedding Models"`
+
 ## Google Map
 
 The map is an embed of google maps api. You can add new users to the map as editors, so long as they also have a google account. Be sure to groom this list of editors, and not to have more editors than are necessary.
