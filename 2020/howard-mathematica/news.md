@@ -6,7 +6,7 @@ title: News
 image: /assets/images/howard.jpg
 ---
 
-<h1 class="display-4">News</h1>
+<h1 class="display-4">In the News</h1>
 <br />
 
 ---
