@@ -1,3 +1,9 @@
+- date: 2022-06-19
+  name: What are Computational Social Sciences?
+  events:
+    - name: "14:00 - 18:00 Arrival at Residency"
+    - name: "18:30 - 21:00 Welcome Dinner"
+    
 - date: 2022-06-20
   name: What are Computational Social Sciences?
   events:
@@ -9,7 +15,6 @@
     - name: "14:45 - 16:30 [Paola Tubaro](https://databigandsmall.com/): The Ethics of AI -- Micro-tasking and Micro-Workers"
     - name: "16:30 - 17:00 Coffee Break"
     - name: "17:00 - 18:30 [Matthew Salganik](https://www.princeton.edu/~mjs3/): The (Un)Predictability of Life Outcomes"
-    - name: "18:30 - 21:00 Welcome Dinner"
     
 - date: 2022-06-21
   name: How is the Web Written and How to Collect Data on it?
@@ -90,9 +95,9 @@ Broadcasts, 2002-2020"
     - name: "13:30 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
     - name: "17:00 - 18:30 [Guillaume Hollard](https://sites.google.com/site/webpagehollard/): TBA"
+    - name: "19:00 - 22:00 Farewell Dinner"
     
 - date: 2022-07-01
   name: Final day
   events:
     - name: "09:00 - 12:00 Presentations"
-    - name: "12:00 - 13:30 Farewell lunch"
