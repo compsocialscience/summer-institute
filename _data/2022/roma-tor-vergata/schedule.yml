@@ -47,7 +47,7 @@
     - name: "Introduction to Computational Social Science. [Video](https://youtu.be/zGG9wPl1C5E). [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/02-intro-computational-social-science.pdf)."
     - name: "Why SICSS? [Video](https://youtu.be/K6HzpZMcaQw). [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day1-intro-ethics/bail_why_sicss/Why_SICSS.html#/)."
     - name: "Ethics. [Video Part 1](https://youtu.be/A-5QaX5ZiK8). [Slides Part 1](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/ethics_part1.pdf). [Video Part Two](https://youtu.be/TT6dOQMKHhA). [Slides Part Two](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/ethics_part2.pdf). [Video Additions and Extensions](https://youtu.be/lJyK6kXeDbc). [Slides Additions and Extensions](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/ethics_additions_extensions.pdf)."
-    - name: "_Exercises available coming soon..._"
+    - name: "_Exercises available [here](https://github.com/compsocialscience/summer-institute/blob/master/2022/materials/roma-tor-vergata/week_2_monday_exercise.md)._"
 
 - date: 2022-07-26
   events:
@@ -56,7 +56,7 @@
     - name: "Application Programming Interfaces. [Video](https://youtu.be/jde_c7pB5U8). [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/apis/Rpres/APIs.html). [Annotated Code](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/apis/rmarkdown/Application_Programming_interfaces.html)."
     - name: "Screen Scraping. [Video](https://youtu.be/LjTZNmBjC5Q). [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/screenscraping/Rpres/Screenscraping.html). [Annotated Code](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/screenscraping/rmarkdown/Screenscraping.html)."
     - name: "Building Apps and Bots for Social Science Research. [Video](https://www.youtube.com/watch?v=3wjYcIOpBgU). [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/building-apps-bots/Rpres/Building_Apps_for_Social_Science_Research.html). [Annotated Code](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/building-apps-bots/rmarkdown/Building_Apps_and_Bots_for%20Social_Science_Research.html)."
-    - name: "_Exercises available coming soon..._"
+    - name: "_Exercises available [here](https://github.com/compsocialscience/summer-institute/blob/master/2022/materials/roma-tor-vergata/week_2_tuesday_exercise.md)._"
 
 - date: 2022-07-27
   events:
@@ -65,7 +65,7 @@
     - name: "Dictionary-Based Text Analysis. [Video](https://www.youtube.com/watch?v=wSIi2ZRKjaE). [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/dictionary-methods/Rpres/Dictionary_Based_Analysis.html). [Annotated Code](https://compsocialscience.github.io/summer-institute/2021/materials/day3-text-analysis/dictionary-methods/rmarkdown/Dictionary-Based_Text_Analysis.html)."
     - name: "Topic Models. [Video](https://www.youtube.com/watch?v=T2ZRBi1oUME). [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/topic-modeling/Rpres/Topic_Modeling.html). [Annotated Code](https://compsocialscience.github.io/summer-institute/2021/materials/day3-text-analysis/topic-modeling/rmarkdown/Topic_Modeling.html)."
     - name: "Text Networks. [Video](https://www.youtube.com/watch?v=-2dBI2ULcQw). [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/text-networks/Rpres/Text_Networks.html). [Annotated Code](https://compsocialscience.github.io/summer-institute/2021/materials/day3-text-analysis/text-networks/rmarkdown/Text_Networks.html)."
-    - name: "_Exercises available coming soon..._"
+    - name: "_Exercises available [here](https://github.com/compsocialscience/summer-institute/blob/master/2022/materials/roma-tor-vergata/week_2_wednesday_exercise.md)._"
 
 - date: 2022-07-28
   events:
