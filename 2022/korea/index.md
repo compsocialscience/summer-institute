@@ -17,6 +17,6 @@ Participation is restricted to graduate students (including master and PhD stude
 
 [Application materials](https://compsocialscience.github.io/summer-institute/2022/korea/apply) are due March 31, 2022 (KST).
 
-## Online Information Session for Prospective Participants 
+**Online Information Session for Prospective Participants**
 
 Lanu Kim (KAIST) and Jae Yeon Kim (KDIS) will hold an online information session for prospective participants. You can join us via [this zoom link](https://us02web.zoom.us/j/85809514390?pwd=VHpjSmRGSFAzM1hoVWxXTGZPNTBzdz09) on March 4, 2022 12:00 PM (KST). Also, please RVSP to participate this event via [this Google form](https://forms.gle/oggB7vJY8CCeTvkF8) by March 1, 2022.

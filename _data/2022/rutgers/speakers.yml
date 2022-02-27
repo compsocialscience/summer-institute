@@ -1,1 +1,14 @@
-- name:
+- name: Melissa Dreier
+  image: /assets/images/MelissaDreier.png
+  bio: "Clinical Psychology PhD student at Rutgers University."
+
+- name: Jessica Hamilton
+  image: /assets/images/JessicaHamilton.JPG
+  bio: "Assistant Professor of Psychology at Rutgers University."
+  website: https://www.thehamiltonlab.org/lab-director
+
+- name: Sarah Shugars
+  image: /assets/images/ShugarsSarah.JPG
+  bio: "CDS Moore-Sloan Faculty Fellow at NYU’s Center for Data Science."
+  website: https://sarahshugars.com/
+

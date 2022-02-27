@@ -11,7 +11,7 @@ The Summer Institute will bring together people from many fields and backgrounds
 - Complete coding bootcamp (if needed)
 - Prepare your computing environment
 
-TAs will host office hours through Slack to support you as you work through these pre-arrival materials.
+Our TA will host office hours through Slack to support you as you work through these pre-arrival materials.
 
 ## Reading
 
@@ -47,4 +47,4 @@ Many participants at SICSS use GitHub to collaborate. If you do not yet have one
 
 ## Office hours
 
-The SICSS-Duke [TAs](https://sicss.io/2022/duke/people#teaching_assistants) will host weekly office hours in the SICSS 2022 Slack. You can find information about the office hours in the SICSS 2022 Slack channel #pre-office-hours. If you are not able to attend during the regularly scheduled office hours or have any questions about office hours, please contact one of the [TAs](https://sicss.io/2022/duke/people#teaching_assistants).
+SICSS-Atlanta will host weekly office hours in the SICSS 2022 Slack starting in mid-April. You can find information about the office hours in the SICSS 2022 Slack channel #pre-office-hours. If you are not able to attend during the regularly scheduled office hours or have any questions about office hours, please contact Olga Churkina at ochurkina1@student.gsu.edu.
