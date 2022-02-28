@@ -16,12 +16,14 @@ The [Summer Institutes in Computational Social Science (SICSS)](http://sicss.io)
 
 ## Impact
 
-Since 2017, the Summer Institutes in Computational Social Science have raised nearly  $1.5 million (USD) to sponsor sites at twenty-three locations around the world, bringing together 649 participants from 363 universities and 124 academic fields. Research incubated at SICSS events has appeared in leading journals and received coverage from  major media outlets. More than 100,000 unique visitors viewed our website from 187 countries during this period. We have almost made considerable progress towards expanding access to training among traditional under-represented groups in the field, including an alumni-led initiative called  [Varycss.org](https://varycss.org).
+Since 2017, the Summer Institutes in Computational Social Science have raised over $1.5 million (USD) to sponsor sites at fifty-three locations around the world, bringing together 1,046 participants from 500 universities and 150 academic fields. Research incubated at SICSS events has appeared in leading journals and received coverage from  major media outlets. More than 150,000 unique visitors viewed our website from 198 countries during this period. We have almost made considerable progress towards expanding access to training among traditional under-represented groups in the field, including an alumni-led initiative called [Varycss.org](https://varycss.org).
 
-SICSS participants have created over 100 projects that grew from the program, ranging from papers to software to community building initiatives. [Click here](https://sicss.io/projects) to see some past projects.
+An unofficial 2021 self-study revealed that SICSS participants have created over 100 projects born out of past SICSS, ranging from papers to software to community building initiatives. [Click here](https://sicss.io/projects) to see a non-comprehensive list of some past projects.
+
+In September 2021, with support from the Russell Sage Foundation and the Alfred P. Sloan Foundation, the SSRC awarded 25 research grants to teams of participants in SICSS-2021. Projects spanned a wide number of disciplines and geographic focus areas, and comprise a small sample of the growing body of work that has emerged from SICSS. [Click here](https://www.ssrc.org/programs/digital-culture/the-summer-institutes-in-computational-social-science/sicss-research-grantees/) to view the 2021 SICSS Research Grantees.
 
 ## Get Involved
 
-If you'd like to participate in one of our institutes, check out [this year's locations](https://sicss.io/locations). If you'd like to learn more about hosting your own SICSS location during a future year, please visit [this link](https://sicss.io/host). If you'd like to see what we've learned about the best-practices of running a SICSS site, check out our crowd-sourced post-mortems [here](https://sicss.io/2020/post-mortem)
+If you'd like to participate in one of our institutes, check out [this year's locations](https://sicss.io/locations). If you'd like to learn more about hosting your own SICSS location during a future year, please visit [this link](https://sicss.io/host). If you'd like to see what we've learned about the best-practices of running a SICSS site, check out our crowd-sourced post-mortems [here](https://sicss.io/2021/post-mortem)
 
 <br/><br/>
