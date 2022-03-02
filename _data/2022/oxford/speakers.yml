@@ -1,1 +1,29 @@
-- name:
+- name: Pawel Adrjan
+  image: /assets/images/Pawel_Adrjan.jpg
+  bio: "Pawel Adrjan is Head of EMEA Research at the global job site Indeed, where he develops actionable insights on the labour market to help businesses and policy makers make better decisions. During his time at Indeed, he has led innovative research on the transformation of the world of work and has collaborated with leading economics think tanks and international organisations. His analyses feature regularly in the media. Over the last two decades, Pawel has worked in Europe and the US, holding senior positions in risk management at Goldman Sachs and Barclays in New York and London. He is a Research Fellow in Economics at Regent’s Park College, Oxford, and a member of the Research Advisory Board at Open For Business, a coalition of global companies dedicated to LGBT+ inclusion. Pawel holds degrees from the University of Pennsylvania and the University of Warwick, as well as a PhD in Economics from the University of Oxford."
+  website: https://sites.google.com/site/paweladrjaneconomics/
+
+- name: Nicola Barban
+  image: /assets/images/barban.jpg
+  bio: "Nicola is a Professor of Demography at the University of Bologna and an international co-investigator of the ESRC Research Centre on Micro-Social Change (MiSoC). He is the Principal investigator of the ERC Consolidator Grant GENPOP: Genes, genealogies and the evolution of demographic change and social inequality. His research interests include Quantitative methods in social sciences, Sociogenomics, Demography, Social interactions, Life course, and Migration and Ethnicity."
+  website: http://nicolabarban.com/  
+
+- name: Ben Goldacre
+  image: /assets/images/Goldacre.jpg
+  bio: "Ben is a doctor, academic, writer, and broadcaster. He trained in medicine at Oxford and UCL, in psychiatry at the Maudsley, and in epidemiology at LSHTM. His academic and policy work is in informatics, epidemiology and evidence based medicine, where he works on various problems including variation in care, better uses of routinely collected electronic health data, evidence-based social policy, access to clinical trial data, efficient trial design, and retracted papers."
+  website: https://www.phc.ox.ac.uk/team/ben-goldacre 
+
+- name: Neave O'Clery
+  image: /assets/images/OCleryNeave.jpg
+  bio: "Originally from Dublin, Neave is currently Associate Professor at the Centre for Advanced Spatial Analysis (CASA) at University College London. Her group focuses on studying the processes underlying economic development and the emergence of complexity for cities, often using tools from graph theory and network science. She was previously a Senior Research Fellow at the Mathematical Institute at the University of Oxford where she established a new group working at the interface of mathematics, data science and development/urban issues." 
+  website: http://neaveoclery.com/
+  
+- name: Carsten Schwemmer
+  image: /assets/images/schwemmer.jpg
+  bio: "Carsten is a Senior Researcher and Team Leader for Designed Digital Data at GESIS, Computational Social Science Department. His research focuses on applying computational methods for ethnic minority & gender studies, digital media, political communication and sociotechnical systems. I am particularly interested in methods related to natural language processing, image recognition and data mining."
+  website: https://www.carstenschwemmer.com/
+
+- name: Andrew Stephen
+  image: /assets/images/Andrew_Stephen.jpg
+  bio: "Andrew is a leading academic voice on the future of the marketing, media, and advertising industries. He has a particular interest in issues that lie at the intersections of marketing, consumer behaviour, and technology—particularly artificial intelligence. He is a strong proponent of the use of data-centric, analytics-enabled, evidence-based approaches to marketing practice. His research over the last decade has made significant contributions to our understandings of digital marketing, social media, and advertising. For this work, he’s regularly recognised by the American Marketing Association as one of the top marketing academics in the world, and the N1 in the UK. He’s also been featured as one of the top 40 business school professors under 40 by Poets and Quants (in 2015) and has won numerous awards for research excellence."
+  website: https://www.sbs.ox.ac.uk/about-us/people/andrew-stephen
