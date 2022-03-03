@@ -1,8 +1,8 @@
 - date: "Schedule Overview"
   events:
-    - name: "SICSS-Roma Tor Vergata is held virtually using a combination of asynchronous video lectures, semi-synchronous group exercises and synchronous group feedback sessions. Each day follows roughly the same schedule, as shown in this section."
-    - name: "**Morning**<br/>A synchronous session with the organisers introducing the day's content followed by approximately 2h of video lectures to be watched privately to prepare for the afternoon sessions."
-    - name: "**Afternoon**<br/>Group exercise to be completed in small groups of participants using Slack and MS Teams to coordinate and work through the exercise followed by a synchronous session with the organisers to review the exercises for the day."
+    - name: "SICSS - Roma Tor Vergata will be held fully in person this year. Classes will roughly follow the same schedule, as shown in this section."
+    - name: "**Morning**<br/>An in-class session with the organizers introducing the day’s content followed by lectures and demonstrations."
+    - name: "**Afternoon**<br/>Exercises to be completed in smaller groups of participants, followed by a plenary session with the organizers to review the exercises for the day."
 
 - date: "Week One: Introduction to R"
   events:
