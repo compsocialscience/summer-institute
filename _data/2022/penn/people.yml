@@ -1,68 +1,85 @@
-faculties:
-  title: Faculties
+organizers:
+  title: Organizers
   people:
     - name: Xi Song 
-      image: 
+      image: /assets/images/penn2022_song.jpg
       bio: "Xi Song is an Associate Professor of Sociology and a faculty member of the Graduate Group in Demography at University of Pennsylvania. Her research interests include social stratification and mobility, social inequality, population studies, and quantitative methodology. Her current research examines social, economic, and demographic processes that govern the persistence of inequality across life stages and generations from the 18th century to the present."
       website: https://sociology.sas.upenn.edu/people/xi-song
   
     - name: Daniel Hopkins
-      image: 
+      image: /assets/images/penn2022_hopkins_daniel.jpg
       bio: "Daniel J. Hopkins is a Professor in the University of Pennsylvania's Department of Political Science, and he holds a secondary appointment in the Annenberg School for Communication. His research focuses on political behavior, with special emphasis on American politics, voting, racial and ethnic politics, local politics, and research methods. His research has employed a variety of statistical and computational methods to analyze texts. The author of 47 academic articles and the 2018 book The Increasingly United States: How and Why American Political Behavior Nationalized, Hopkins also regularly writes about American politics for the website FiveThirtyEight.com. Professor Hopkins received his Ph.D. from Harvard University in 2007. He subsequently was a post-doctoral fellow at Yale University and an Assistant and then Associate Professor at Georgetown University."
       website: www.danhopkins.org
   
     - name: Hanming Fang
-      image: 
+      image: /assets/images/penn2022_Hanming Fang.jpg
       bio: "Hanming Fang is Joseph M. Cohen Term Professor of Economics at the University of Pennsylvania. He is an applied microeconomist with broad theoretical and empirical interests focusing on public economics, including topics such as discrimination, social insurance, and welfare reform, health insurance markets, and population aging."
       website: https://web.sas.upenn.edu/hfang/
 
-organizers:
-  title: Organizers
-  people:
-    - name: Tian Yang
-      image: 
-      bio: "Tian Yang is a Ph.D. Candidate at the Annenberg School for Communication at the University of Pennsylvania. He is interested in applying methods in computational social science to study political communication across the globe, especially in China and the US. Particularly, he looks at how today’s high-choice media environment influences the public’s information behaviors. His research employs various approaches, including network analysis, online experiments, natural experiments, etc."
-      website: https://www.asc.upenn.edu/people/graduate-student/tian-yang
-  
     - name: Alejandra Regla-Vargas  
-      image: 
+      image: /assets/images/penn2022_areglavargascrop.jfif
       bio: "Alejandra Regla-Vargas is a Ph.D. student in Sociology at the University of Pennsylvania. Her broad research interests include digital culture, race/ethnicity, and online social networks."
       website: https://sociology.sas.upenn.edu/people/regla-vargas
   
     - name: Shengchun Huang
-      image: 
+      image: /assets/images/penn2022_Shengchun Huang.jpg
       bio: "Shengchun Huang is a doctoral student at the Annenberg School for Communication at the University of Pennsylvania. She is interested in digital news consumption, algorithm-driven aggregators/platforms, and social effects in the high-choice media environment. She applies a variety of computational methods in research work, including network analysis, Markov chains, word embedding and nlp, etc."
       website: https://www.asc.upenn.edu/people/graduate-student/shengchun-huang
   
+    - name: Tian Yang
+      image: /assets/images/penn2022_Tian.jpg
+      bio: "Tian Yang is a Ph.D. Candidate at the Annenberg School for Communication at the University of Pennsylvania. He is interested in applying methods in computational social science to study political communication across the globe, especially in China and the US. Particularly, he looks at how today’s high-choice media environment influences the public’s information behaviors. His research employs various approaches, including network analysis, online experiments, natural experiments, etc."
+      website: https://www.asc.upenn.edu/people/graduate-student/tian-yang
+  
     - name: Eugenio Paglino
-      image: 
+      image: /assets/images/penn2022_Eugeno.jfif
       bio: "Eugenio is a second-year Ph.D. student in Demography at the University of Pennsylvania. He holds a BSc and a MSc in Economics and Social Sciences from Bocconi University. Before becoming a PhD candidate, he worked as a research assistant at the Netherlands Interdisciplinary Demographic Institute and the Dondena Center for Research on Social Dynamics and Public Policy. His broad research interests include the interactions between population and the environment, migration, the computational social sciences, and inequality. He loves visualizing data and is interested in studying ways in which data visualization can help researchers to communicate more clearly and to reach a wider audience."
       website: https://www.pop.upenn.edu/bio/eugenio-paglino
 
 speakers: 
   title: Guest Speakers 
   people:
-    - name: Coming soon...
+    - name: Lyle Ungar
+      image: /assets/images/penn2022_LyleUngar.jpg
+      bio: "Lyle H. Ungar is a machine learning researcher and professor of Computer and Information Science at the University of Pennsylvania. He is also affiliated with the psychology department at the university. His research group develops scalable machine learning and text mining methods for use in natural language processing, psychology, and medical research. Projects ranged from crowd-sourced decision making to mining social media to better understand connections between mental and physical well-being."
+      website: https://www.cis.upenn.edu/~ungar/
+  
+    - name: Yphtach Lelkes
+      image: /assets/images/penn2022_Yphtach_Lelkes.jpg
+      bio: "Yphtach (Yph) Lelkes is an Associate Professor at the Annenberg School for Communication. He studies the structure, dynamics, and causes of political attitudes, with a particular emphasis in polarization and American politics. His work lies at the intersection of public opinion, political psychology, and political communication."
+      website: https://www.ylelkes.com/
+  
+    - name: Brandon Stewart
+      image: /assets/images/penn2022_stewart.jpg
+      bio: "Brandon Stewart is an Assistant Professor in the Department of Sociology and is also affiliated with the Department of Politics and the Office of Population Research.  He develops new quantitative statistical methods for applications across the social sciences.  Methodologically his focus is in tools which facilitate automated text analysis and model complex heterogeneity in regression.  Many recent applications of these methods have centered on using large corpora of text to better understand propaganda in contemporary China."
+      website: https://scholar.princeton.edu/bstewart
+  
+    - name: Junming Huang
+      image: /assets/images/penn2022_junming.jpg
+      bio: "Junming Huang is an Associate Research Scientist at the Paul and Marcia Wythes Center on Contemporary China, Princeton University. His research interests lie in causal inference, science of science, statistics analysis and social networks. "
+      website: http://www.junminghuang.com/
+  
+    - name: More coming soon...
 
 tas:
   title: Teaching Assistants
   people:
     - name: Tian Yang
-      image: 
+      image: /assets/images/penn2022_Tian.jpg
       bio: "Tian Yang is a Ph.D. Candidate at the Annenberg School for Communication at the University of Pennsylvania. He is interested in applying methods in computational social science to study political communication across the globe, especially in China and the US. Particularly, he looks at how today’s high-choice media environment influences the public’s information behaviors. His research employs various approaches, including network analysis, online experiments, natural experiments, etc."
       website: https://www.asc.upenn.edu/people/graduate-student/tian-yang
   
     - name: Alejandra Regla-Vargas  
-      image: 
+      image: /assets/images/penn2022_areglavargascrop.jfif
       bio: "Alejandra Regla-Vargas is a Ph.D. student in Sociology at the University of Pennsylvania. Her broad research interests include digital culture, race/ethnicity, and online social networks."
       website: https://sociology.sas.upenn.edu/people/regla-vargas
   
     - name: Shengchun Huang
-      image: 
+      image: /assets/images/penn2022_Shengchun Huang.jpg
       bio: "Shengchun Huang is a doctoral student at the Annenberg School for Communication at the University of Pennsylvania. She is interested in digital news consumption, algorithm-driven aggregators/platforms, and social effects in the high-choice media environment. She applies a variety of computational methods in research work, including network analysis, Markov chains, word embedding and nlp, etc."
       website: https://www.asc.upenn.edu/people/graduate-student/shengchun-huang
   
     - name: Eugenio Paglino
-      image: 
+      image: /assets/images/penn2022_Eugeno.jfif
       bio: "Eugenio is a second-year Ph.D. student in Demography at the University of Pennsylvania. He holds a BSc and a MSc in Economics and Social Sciences from Bocconi University. Before becoming a PhD candidate, he worked as a research assistant at the Netherlands Interdisciplinary Demographic Institute and the Dondena Center for Research on Social Dynamics and Public Policy. His broad research interests include the interactions between population and the environment, migration, the computational social sciences, and inequality. He loves visualizing data and is interested in studying ways in which data visualization can help researchers to communicate more clearly and to reach a wider audience."
       website: https://www.pop.upenn.edu/bio/eugenio-paglino
