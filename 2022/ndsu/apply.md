@@ -17,7 +17,7 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 Applicants must submit the following documents: (i) a curriculum vitae, (ii) a research statement (two pages, maximum) detailing your current position and research, experience, and/or interest in computational social science, and (iii) a short statement of why you're applying to the summer institute and what you hope to get out of it.
 
-**In order to be guaranteed full consideration, all application materials must be submitted by March 25, 2022 through [this online form](https://forms.gle/JhYhzwzqSoYqiznJ6).** Applications that are not complete by the deadline may not receive full consideration. We will notify applicants through e-mail by April 15 2022, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by April 10, 2022 through [this online form](https://forms.gle/JhYhzwzqSoYqiznJ6).** Applications that are not complete by the deadline may not receive full consideration. We will notify applicants through e-mail by April 20 2022, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to sicss.ndsu@gmail.com.
 
