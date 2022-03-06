@@ -10,6 +10,16 @@ image: /assets/images/howard.jpg
 <br />
 
 ---
+<u>Celebrating Black History Month With SICSS-Howard/Mathematica</u>
+<br><font color="grey"><font size="2">March 4, 2022</font></font> 
+<br><i><font size = "2">Sage Publishing spotlights the work of SICSS-Howard/Mathematica 2021, the first Summer Institute in Computational Social Science held at a Historically Black College or University, for Black History Month.</font></i>
+<br><font size = "1">(Posted by <a href="https://email.sagepub.com/optiext/optiextension.dll?ID=4AB4ByPGb5ZEYx9FKkCuL9ct64Df1oOsYBdb5UiL9W09btBOXMLi_ncznLOp4aZzoOhNCrHHvq9AcoB6ny8MrJRJPUnOP">Sage Methodspace</a>)</font>
+
+<u>Howard University and Mathematica Now Accepting Applications for 2022 Summer Institute in Computational Social Science</u>
+<br><font color="grey"><font size="2">Feb 28, 2022</font></font> 
+<br><i><font size = "2">Howard University and Mathematica formally announce a plan to once again host a Summer Institute in Computational Social Science at Howard University.</font></i>
+<br><font size = "1">(Posted by <a href="https://www.mathematica.org/news/howard-university-and-mathematica-now-accepting-applications-for-2022-summer-institute">Mathematica</a>)</font>
+
 <u>BLOG: Finding Personal Restoration through Computational Social Science at Howard University</u>
 <br><font color="grey"><font size="2">Feb 21, 2022</font></font> 
 <br><i><font size = "2">Experience the life-changing journey of one SICSS-Howard/Mathematica 2021 participant in this eighth of nine Sage Methodspace blogs. Rashun Miles, Ph.D. student in the Department of Social Welfare at the University of Mississippi, and affiliate of the Ricardo Brennand Institute in Recife, Brazil, shares how SICSS-H/M 2021 offered him an unexpected chance to connect on a deeper level with people who have shared life experiences and are passionate about changing the world.</font></i>
