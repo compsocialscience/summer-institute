@@ -16,9 +16,11 @@
     <section>
       <div class="container">
         <div class="row">
-          {% comment %} sidebar {% endcomment %} {% include videos_sidebar.html
-          %}
-          <div class="col-sm-8">{% include video_listing.html %}</div>
+          {% include videos_sidebar.html %}
+          <div class="col-sm-8">
+            {% include video_search.html %}
+            {% include video_listing.html %}
+          </div>
         </div>
       </div>
     </section>
