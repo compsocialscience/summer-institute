@@ -19,9 +19,40 @@
     {% include no_matches.html %}
   </div>
 
-  {%- comment -%}FIXME: use this to build a server-side JSON index for lunr{%- endcomment -%}
+  {%- comment -%}
+  Generate data to feed to lunr.
+
+  It would be nice to have a pregenerated server-side lunr index rather than feeding raw data here
+  and having lunr generate it in-browser. GH Pages does not support custom plugins so doing so would
+  involve some additional custom build steps either to build the Jekyll site ourselves (rather than
+  the built-in GH Jekyll support we get for free, OR to run a custom build command, similar to
+  generating people search data, to generate the lunr index.
+
+  As compared to the people data, however, our video data lives primarily in Markdown files, which
+  makes adding new files easy. A custom build command would need to consume the markdown files
+  somehow so that it could generate the lunr index.
+
+  The below code
+    - finds the "videos" collection (defined in config.yml) so that we can use its metadata
+    - iterates all videos
+    - for each video, iterates the "search_keys" metadata item from our collection
+    - within each video/key iteration, outputs a JS key: value pair for that item
+
+  The end result is an array of JS objects that contain all of the data that Lunr will read. If we
+  need more lunr search factors, those can be added to config.yml (so that they will be generated
+  here) and the relevant JS file will also need to be updated to know about these search factors.
+  {%- endcomment -%}
+  {%- assign video_collection = site.collections | where: "label", "videos" | first -%}
   <script>
-  VIDEO_JSON = {{ site.videos | jsonify }};
+  VIDEO_JSON = [
+  {%- for video in all_videos -%}
+  {
+    {%- for key in video_collection.search_keys -%}
+  {{ key }}:{{ video[key] | jsonify }},
+    {%- endfor -%}
+  },
+  {%- endfor -%}
+  ];
   </script>
 
 </div>
