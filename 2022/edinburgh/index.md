@@ -9,15 +9,15 @@ From June 13 to June 24, 2022, the School of Social and Political Sciences, the 
 
 The provisional instructional program includes lectures and workshops on the following topics:
     
-    Reproducible workflows, data carpentry;
-    APIs, Web scraping, digital research methods;
-    Networks and network analysis;
-    Social networks and simulations;
-    Computational text analysis and natural language processing;
-    Machine learning and prediction
+- Reproducible workflows, data carpentry;
+- APIs, Web scraping, digital research methods;
+- Networks and network analysis;
+- Social networks and simulations;
+- Computational text analysis and natural language processing;
+- Machine learning and prediction
 
 
-There will also be outside speakers who conduct computational social science research in a variety of settings, such as academia, industry, and government. The program will also emphasize how qualitative techniques can complement quantitative research, and vice versa. There will be ample opportunities for students to discuss their ideas and research with the organizers, other participants, and visiting speakers. Because we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute will be released open source.
+There will also be outside speakers who conduct computational social science research in a variety of settings, such as academia, industry, and government. The program will also emphasize how qualitative techniques can complement quantitative research, and vice versa. There will be ample opportunities for students to discuss their ideas and research with the organizers, other participants, and visiting speakers. The second week is devoted to group projects during which participants will be able to work in small teams to produce a piece of computational research. Because we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute will be released open source.
 
 Participation is restricted to postgraduate research, doctoral, post-doctoral, and early-career researchers (PhD +7). We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. From 20-25 participants will be invited, and participants are expected to fully attend and participate in the entire two-week program.
 
