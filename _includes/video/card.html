@@ -1,7 +1,7 @@
 {%- comment -%}
 A single video "card" used on the video listing page.
 {%- endcomment -%}
-<div class="col-sm-4 mb-4 col-video">
+<div id="video-{{ include.video.slug }}" class="col-sm-4 mb-4 col-video video-card">
   <div class="card position-relative">
     <img src="{{ include.video.preview }}" class="card-img-top" alt="placeholder" />
     <div class="card-body">

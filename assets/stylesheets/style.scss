@@ -129,3 +129,11 @@ body {
   text-decoration: none;
   cursor: default;
 }
+
+/* video search results */
+#video-listing-container.is-searching .video-card {
+  display: none;
+}
+#video-listing-container.is-searching .video-result {
+  display: block;
+}

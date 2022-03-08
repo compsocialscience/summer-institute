@@ -133,10 +133,6 @@ function setupParticipantSearch() {
   });
 }
 
-// fires on DOM load to set up the participant (people) search
-setupParticipantSearch();
-
-
 // set up the search filtering behavior - only fires on the "people" page (aka, the page that has
 // the #participant_search_form element
 function setupSearchFilter() {
@@ -181,5 +177,88 @@ function setupSearchFilter() {
   });
 }
 
-// executed on DOM load
+// setup video searching
+function setupVideoSearch() {
+  const ids = {
+    search: 'video-search-form',
+    container: 'video-listing-container',
+  };
+  const classes = {
+    searching: 'is-searching',
+    results: 'with-video-results',
+    noResults: 'no-video-results',
+    result: 'video-result',
+    video: 'video-card',
+  };
+  let searchEl = document.getElementById(ids.search);
+  let containerEl = document.getElementById(ids.container);
+  let searchIndex = null;
+
+  // don't do anything if we're not on the video search page
+  if (!searchEl || !containerEl || !VIDEO_JSON) {
+    return;
+  }
+
+  // setup the lunr search index
+  // FIXME replace this with a server-side generated lunr index
+  searchIndex = lunr(function () {
+    this.field('title');
+    this.field('content');
+    this.field('author');
+    this.ref('slug');
+    VIDEO_JSON.forEach((video) => this.add(video) );
+  });
+
+  // when submitting a query:
+  //
+  // - remove all 'video-result' classes from all video elements
+  // - if the query is non-blank
+  //   - run a lunr search to find matches
+  //   - if any match
+  //     - add a 'with-video-results' class to the container
+  //      - add a 'video-result' class to each matching video
+  //   - otherwise, add a 'no-video-results' class to the container
+  // - otherwise
+  //   - remove 'with-video-results' and 'no-video-results' from the container
+  on("submit", `#${ids.search}`, function (ev) {
+    ev.preventDefault();
+    let query = ev.target.querySelector("input[name=q]").value.trim();
+
+    // whether or not there's a query, remove all classes from any previously-found video results
+    containerEl.querySelectorAll(`.${classes.video}`).forEach((item) => item.classList.remove(classes.result));
+
+    // remove any with-results and no-results classes
+    containerEl.classList.remove(classes.searching, classes.results, classes.noResults);
+
+    // if we don't have a search index or a query, there's nothing more to do
+    if (!searchIndex || !query) {
+      return;
+    }
+
+    // we have a query and a search index; run the search!
+    containerEl.classList.add(classes.searching);
+    let results = searchIndex.search(query);
+
+    // we found some results
+    if (results.length > 0) {
+      containerEl.classList.add(classes.results);
+      console.log(results);
+      results.forEach((result) => {
+        const resultEl = document.getElementById(`video-${result.ref}`);
+        if (resultEl) {
+          resultEl.classList.add(classes.result);
+        }
+      });
+    }
+
+    // no results
+    else {
+      containerEl.classList.add(classes.noResults);
+    }
+  });
+}
+
+// execute setup functions on DOM load
+setupParticipantSearch();
 setupSearchFilter();
+setupVideoSearch();

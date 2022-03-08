@@ -1,4 +1,4 @@
-<div class="row">
+<div id="video-listing-container" class="row">
   {% assign all_videos = site.videos | sort: "has_order" %}
 
   {%- comment -%} List Bootcamp videos first {%- endcomment -%}
@@ -14,5 +14,10 @@
       {% include video/card.html video=video %}
     {% endif %}
   {% endfor %}
+
+  {%- comment -%}FIXME: use this to build a server-side JSON index for lunr{%- endcomment -%}
+  <script>
+  VIDEO_JSON = {{ site.videos | jsonify }};
+  </script>
 
 </div>
