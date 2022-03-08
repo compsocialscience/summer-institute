@@ -137,3 +137,9 @@ body {
 #video-listing-container.is-searching .video-result {
   display: block;
 }
+#video-search-no-matches {
+  display: none;
+}
+#video-listing-container.no-video-results #video-search-no-matches {
+  display: block;
+}

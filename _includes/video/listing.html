@@ -15,6 +15,10 @@
     {% endif %}
   {% endfor %}
 
+  <div class="col-sm-12" id="video-search-no-matches">
+    {% include no_matches.html %}
+  </div>
+
   {%- comment -%}FIXME: use this to build a server-side JSON index for lunr{%- endcomment -%}
   <script>
   VIDEO_JSON = {{ site.videos | jsonify }};
