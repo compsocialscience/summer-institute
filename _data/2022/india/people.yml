@@ -1,5 +1,5 @@
 faculty:
-  title: Co-organizers
+  title: Organizers
   people:
     - name: Prof. Ponnurangam Kumaraguru
       image: /assets/images/pk.png
@@ -16,6 +16,10 @@ faculty:
     - name: Prof. Rajiv Ratn Shah
       image: /assets/images/rajiv_ratn_shah.png
       bio: IIIT Delhi
+      
+    - name: Ms. Megha Arora
+      image: /assets/images/megha_arora.png
+      bio: Palantir Technologies
 
 speakers:
   title: Speakers
