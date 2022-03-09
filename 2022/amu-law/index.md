@@ -5,13 +5,15 @@ main: true
 image: /assets/images/amu-website.JPG
 ---
 
-From June 20 to July 1, 2022, the Faculty of Law and Administration at Adam Mickiewicz University will sponsor the Summer Institute in Computational Social Science, to be held completely virtually. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
+From June 20 to July 1, 2022, the Faculty of Law and Administration together with the Faculty of Mathematics and Computer Science of Adam Mickiewicz University will sponsor the Summer Institute in Computational Social Science, to be held completely virtually. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
 
 The instructional program will involve lectures, group problem sets, and participant-led research projects. There will also be outside speakers who conduct computational social science research in a variety of settings, such as academia, industry, and government. A site-specific focus at this partner institute will be **legal science**. Topics covered include (but are not limited to): 
 
-* Text as data, including but not limited to legal texts; 
-* Digital field experiments; 
-* Application of computational sciences in law (broadly conceived) and their ethical challenges, e.g. profiling algorithms, human rights indicators.
+*	Application of statistics and R-programming in law;
+*	Predictive analytics, e.g. judgements prediction, risk assessment;
+*	Social media as research tools for social sciences;
+*	A survey in legal research;
+*	Text as data, including but not limited to legal texts.
 
 There will be ample opportunities for students to discuss their ideas and research with the organizers, other participants, and visiting speakers. Because we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute will be released open source.
 
