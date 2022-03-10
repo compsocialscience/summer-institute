@@ -59,6 +59,11 @@ speakers:
       bio: "Junming Huang is an Associate Research Scientist at the Paul and Marcia Wythes Center on Contemporary China, Princeton University. His research interests lie in causal inference, science of science, statistics analysis and social networks. "
       website: http://www.junminghuang.com/
   
+    - name: Emilio Zagheni
+      image: /assets/images/penn2022_emilio.jfif
+      bio: "Emilio Zagheni is Executive Director of the Max Planck Institute for Demographic Research (MPIDR) and Affiliate Associate Professor of Sociology at the University of Washington, where he served as Training Director of the Center for Studies in Demography and Ecology. He received his Ph.D. in Demography (2010) and M.A. in Statistics (2008) from U.C. Berkeley. Zagheni is best known for his work on combining digital trace data and traditional sources to track and understand migrations and to advance population science. In 2016 he received the Trailblazer Award for Demographic Analysis from the European Association for Population Studies for his role in developing the field of Digital and Computational Demography. As co-chair of the Digital Demography Panel of the International Union for the Scientific Study of Population, he has played a key role in favoring collaboration and exchange between demographers, statisticians and computational social scientists."
+      website: https://zagheni.net/index.html
+
     - name: More coming soon...
 
 tas:
