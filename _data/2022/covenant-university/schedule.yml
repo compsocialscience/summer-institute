@@ -3,7 +3,6 @@
     - name: "**09:00-18:00** Arrivals"
     - name: "**18:00-** Welcome Dinner"
 
-
 - date: 2022-06-20
   events:
     - name: "**09:00-11:30** Opening Ceremony"
@@ -14,7 +13,6 @@
     - name: "**15:30-18:00** Logistics and AOB"
     - name: "**18:00-** Dinner"
     - name: "Required Readings:_ []()"  
-
 
 - date: 2022-06-21
   events:
@@ -52,9 +50,8 @@
     - name: "**14:00-15:30** Invited Talk <br/> Mass Collaboration"
     - name: "**15:30-18:00** Group Exercises"
     - name: "**18:00-** Dinner"
-    - name: "Required Readings:_ <br/> [Characterizing low effort responding among young African adults recruited via Facebook advertising](https://doi.org/10.1371/journal.pone.0250303)"  
-	
-	
+    - name: "Required Readings: <br/> [Characterizing low effort responding among young African adults recruited via Facebook advertising (https://doi.org/10.1371/journal.pone.0250303)"
+
 - date: 2022-06-24
   events:
     - name: "**09:00-09:15** Housekeeping and Announcements."
@@ -69,14 +66,14 @@
 
 
 - date: 2022-06-27
-  events:	
+  events:
     - name: "**09:00-09:15** Housekeeping and Announcements."
     - name: "**09:15-13:00** Group Exercises"
     - name: "**13:00-14:00** Lunch"
     - name: "**14:00-16:30** Group Exercises"
     - name: "**16:30-18:00** Invited Talk"
     - name: "**18:00-** Dinner"
-	
+
 - date: 2022-06-28
   events:
     - name: "**09:00-09:15** Housekeeping and Announcements."
@@ -85,7 +82,7 @@
     - name: "**14:00-16:30** Group Exercises"
     - name: "**16:30-18:00** Invited Talk"
     - name: "**18:00-** Dinner"
-	
+
 - date: 2022-06-29
   events:
     - name: "**09:00-09:15** Housekeeping and Announcements."
