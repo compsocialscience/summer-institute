@@ -1,3 +1,100 @@
-- date: June 17, 2022
+- date: 2022-06-19
   events:
-    - name: "Schedule coming soon..."
+    - name: "**09:00-18:00** Arrivals"
+    - name: "**18:00-** Welcome Dinner"
+
+
+- date: 2022-06-20
+  events:
+    - name: "**09:00-11:30** Opening Ceremony"
+    - name: "**11:30-12:15** Introduction to Computational Social Science<br/>[Watch the Video on YouTube](https://youtu.be/MYvXXL075mw)."
+    - name: "**12:15-13:00** Panel Discussion <br/> Computer Science meets Social science"
+    - name: "**13:00-14:00** Lunch"
+    - name: "**14:00-15:30** Invited Presentations"
+    - name: "**15:30-18:00** Logistics and AOB"
+    - name: "**18:00-** Dinner"
+	
+    - name: "Required Readings:_ []()"  
+
+
+- date: 2022-06-21
+  events:
+    - name: "**09:00-09:15** Housekeeping and Announcements."
+    - name: "**09:15-10:30** Happy House"
+    - name: "**10:30-12:00** Introduction to Bibliometric Analysis <br/>This session will introduce participants to bibliometric analysis using data from Scopus database."
+    - name: "**12:00-13:00** Tutorials"
+    - name: "**13:00-14:00** Lunch"
+    - name: "**14:00-15:30** Tutorials/Flash Talks"
+    - name: "**15:30-18:00** Group Exercises"
+    - name: "**18:00-** Dinner"
+	
+    - name: "Required Readings:_ []()"  
+
+
+- date: 2022-06-22
+  events:
+    - name: "**09:00-09:15** Housekeeping and Announcements."
+    - name: "**09:15-10:30** Happy House"
+    - name: "**10:30-12:00** Introduction to Internet Search Data."
+    - name: "**12:00-13:00** Tutorials"
+    - name: "**13:00-14:00** Lunch"
+    - name: "**14:00-15:30** Tutorials/Flash Talks"
+    - name: "**15:30-18:00** Group Exercises"
+    - name: "**18:00-** Dinner"
+	
+    - name: "Required Readings:_ []()"  
+  
+  
+- date: 2022-06-23
+  events:
+    - name: "**09:00-09:15** Housekeeping and Announcements"
+    - name: "**09:15-10:30** Happy House"
+    - name: "**10:30-12:00** Social Survey meets Online Survey | Machine Learning."
+    - name: "**12:00-13:00** Tutorials"
+    - name: "**13:00-14:00** Lunch"
+    - name: "**14:00-15:30** Invited Talk <br/> Mass Collaboration"
+    - name: "**15:30-18:00** Group Exercises"
+    - name: "**18:00-** Dinner"
+	
+    - name: "Required Readings:_ <br/> [Characterizing low effort responding among young African adults recruited via Facebook advertising](https://doi.org/10.1371/journal.pone.0250303)"  
+	
+	
+- date: 2022-06-24
+  events:
+    - name: "**09:00-09:15** Housekeeping and Announcements."
+    - name: "**09:15-10:30** Happy House"
+    - name: "**10:30-12:00** Text Analysis"
+    - name: "**12:00-13:00** Tutorials"
+    - name: "**13:00-14:00** Lunch"
+    - name: "**14:00-15:30** Tutorials/Flash Talks"
+    - name: "**15:30-18:00** Group Exercises"
+    - name: "**18:00-** Dinner"
+	
+    - name: "Required Readings:_ []()"  
+
+
+- date: 2022-06-27
+  events:	
+    - name: "**09:00-09:15** Housekeeping and Announcements."
+    - name: "**09:15-13:00** Group Exercises"
+    - name: "**13:00-14:00** Lunch"
+    - name: "**14:00-16:30** Group Exercises"
+    - name: "**16:30-18:00** Invited Talk"
+    - name: "**18:00-** Dinner"
+	
+- date: 2022-06-28
+  events:
+    - name: "**09:00-09:15** Housekeeping and Announcements."
+    - name: "**09:15-13:00** Group Exercises"
+    - name: "**13:00-14:00** Lunch"
+    - name: "**14:00-16:30** Group Exercises"
+    - name: "**16:30-18:00** Invited Talk"
+    - name: "**18:00-** Dinner"
+	
+- date: 2022-06-29
+  events:
+    - name: "**09:00-09:15** Housekeeping and Announcements."
+    - name: "**09:15-13:00** Group Exercises"
+    - name: "**13:00-13:15** Break"
+    - name: "**13:15-15:15** Group Exercises"
+    - name: "**15:15-** Closing Dinner and Goodbye."
