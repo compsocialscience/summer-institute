@@ -6,7 +6,7 @@
 - date: 2022-06-20
   events:
     - name: "**09:00-11:30** Opening Ceremony"
-    - name: "**11:30-12:15** Introduction to Computational Social Science<br/>[Watch the Video on YouTube](https://youtu.be/MYvXXL075mw)."
+    - name: "**11:30-12:15** Introduction to Computational Social Science<br/>"
     - name: "**12:15-13:00** Panel Discussion <br/> Computer Science meets Social science"
     - name: "**13:00-14:00** Lunch"
     - name: "**14:00-15:30** Invited Presentations"
@@ -50,7 +50,7 @@
     - name: "**14:00-15:30** Invited Talk <br/> Mass Collaboration"
     - name: "**15:30-18:00** Group Exercises"
     - name: "**18:00-** Dinner"
-    - name: "Required Readings: <br/> [Characterizing low effort responding among young African adults recruited via Facebook advertising (https://doi.org/10.1371/journal.pone.0250303)"
+    - name: "Required Readings: <br/> [Characterizing low effort responding among young African adults recruited via Facebook advertising](https://doi.org/10.1371/journal.pone.0250303)"
 
 - date: 2022-06-24
   events:
