@@ -11,5 +11,5 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is restricted to **graduate students, postdoctoral researchers, and junior faculty**. Advanced undergraduate students will also be considered. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. The SICSS at Hong Kong will be organized on a small-group basis to ensure the quality of learning and networking. Prior experience with computational methods is a plus but not required. The event’s working language is English, therefore proficiency in English will be needed. Participants are expected to fully attend and participate in the entire two-week program.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2022/hong-kong/apply) are due **April 1**. Inquiries can be sent to **sicss.hongkong@gmail.com**
+[Application materials](https://compsocialscience.github.io/summer-institute/2022/hong-kong/apply) are due **April 15**. Inquiries can be sent to **sicss.hongkong@gmail.com**
 
