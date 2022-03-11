@@ -21,7 +21,7 @@ Applicants must submit the following documents:
 2. Your CV;
 3. A publication or writing sample that best represents your research ability and interests.
 
-**In order to be guaranteed full consideration, all application materials must be submitted by April 1.** All application materials must be submitted through [Google Form](https://forms.gle/i9uq6ugGLoJTJwTn7). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants through e-mail ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by April 15.** All application materials must be submitted through [Google Form](https://forms.gle/i9uq6ugGLoJTJwTn7). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants through e-mail ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to **sicss.hongkong@gmail.com**.
 
