@@ -20,7 +20,7 @@ Applicants must submit the following documents (all in .doc or .pdf):
 + a statement of participation (max 2 pages) or a short film (up to one minunte) i.e., why do you wish to attend SICSS-AMU/Law, your current research interests, future plans and how these intersect with the goals of this partner location?, 
 + links to recent projects – these could include research publications, an online application developed by the applicant, or a tutorial led by the applicant.
 
-**In order to be guaranteed full consideration, all application materials must be submitted by 1 April 2022 (GMT+1).** All application materials must be submitted through [Online application form](https://sicss.web.amu.edu.pl/). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by 10 April 2022, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by 1 May 2022 (GMT+1) - the deadline has been extended.** All application materials must be submitted through [Online application form](https://sicss.web.amu.edu.pl/). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by 10 May 2022, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to sicss@amu.edu.pl.
 
