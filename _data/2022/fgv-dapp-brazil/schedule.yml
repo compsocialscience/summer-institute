@@ -1,3 +1,113 @@
-- date: June 19, 2022
+- date: All times are in Brazilian (Brasilia - Federal District) Time
+
+- date: 2021-06-20
+  name: Introduction and Ethics
   events:
-    - name: "Schedule coming soon..."
+    - name: "10:00 - 11:00 Introduction and logistics"
+    - name: "11:00 - 12:00 Small group discussions [Lesson Instructions](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small_group_discussions.md)"
+    - name: "12:00 - 12:30 Break"
+    - name: "12:30 - 1:30 Small group lunches (optional)"
+    - name: "1:30 - 1:45 Break"
+    - name: "1:45 - 2:00 Introduction to the group exercise  [Lesson Instructions](https://docs.google.com/document/d/1cES1QVfAzEk90J6l__Uf26RGHHyL5VmJ5EZJGsBs_jw/edit)"
+    - name: "2:00 - 3:00 Small group discussion of [case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf)"
+    - name: "3:00 - 3:30 Whole group debrief about case study (*Zoom*)"
+    - name: "3:30 - 4:00 Break"
+    
+
+- date: 2021-06-21
+  name: Collecting Digital Trace Data
+  events:
+    - name: "10:00 - 10:15 Logistics and introduction to group exercise [Lesson Instructions](https://docs.google.com/document/d/1EB39VqUOurqBB_5KJQovwEFgLdQsg9Yq_uChw-TQtD8/edit#heading=h.fekk35dbtfd)"
+    - name: "10:15 - 11:30 Phase 1: Designing a Research Question with Digital Trace Data (Small Groups) "
+    - name: "11:30 - 12:00 Phase 1: Discussing the Research Questions and Data (Everybody) "
+    - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
+    - name: "1:00 - 1:15 Break"
+    - name: "1:15 - 2:30 Phase 2: Discussing Strengths & Benefits plus Hybrid Designs with Digital Trace Data (Small Groups)"
+    - name: "2:30 - 3:30 Discussing Strengths & Benefits plus Hybrid Designs (Everybody)"
+    - name: "3:30 - 3:45 Debrief and logistics"
+    - name: "3:45 - 4:00 Break"
+    - name: "4:00 - 4:45 GUEST-SPEAKER: **Pablo Boczowski**"
+
+- date: 2021-06-22
+  name: Automated Text Analysis
+  events:
+    - name: "10:00 - 10:15 Logistics and introduction to group exercise (*Zoom*)"
+    - name: "10:15 - 11:30 Workshop: Automated Text Analysis with Spacy and LDAviz, Lucas Roberto (FGV DAPP)"
+    - name: "11:30 - 12:00 Break"
+    - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
+    - name: "1:00 - 1:15 Break"
+    - name: "1:15 - 3:00 Text Analysis Group Exercise (Small Group) [Lesson Instructions](https://docs.google.com/document/d/1q6y2G0SPuum6gG-If911c5LdGKRBra8YqJ5Ce6JyYW4/edit)"
+    - name: "3:30 - 4:00 Debrief and logistics (*Zoom*)"
+    - name: "4:00 - 4:45 GUEST-SPEAKER: **Leonardo Nascimento**:" 
+    
+
+
+- date: 2021-06-23
+  name: Surveys in the Digital Age
+  events:
+    - name: "10:00 - 10:15 Logistics (*Zoom*)"
+    - name: "10:15 - 11:00: Tutorial on Facebook Ads (Danilo Carvalho)" 
+    - name: "11:00 - 11:15 Introduction to the group exercise (*Zoom*)  [Lesson Instructions](https://docs.google.com/document/d/1qWxzeoSg0Awmqb5xrJqN0S4MpuOnOGilKbNiR1xe44E/edit?usp=sharing)"
+    - name: "11:15 - 12:30 Morning group exercise (*Zoom*)"
+    - name: "12:30 - 1:30 Small group lunches (optional) (*Zoom*)"
+    - name: "1:30 - 1:45 Break"
+    - name: "1:45 - 3:00 Afternoon group exercise (*Zoom*)"
+    - name: "3:00 - 3:30 Whole group debrief about group exercise (*Zoom*)"
+    - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
+    - name: "4:00 - 4:45 GUEST-SPEAKER: **Alexandra Siegel**:" 
+
+- date: 2021-06-24
+  name: Mass collaboration and machine learning
+  events:
+    - name: "10:00 - 10:15 Logistics (*Zoom*)"
+    - name: "10:15 - 10:30 Introduction to the group exercise [Video](https://www.youtube.com/watch?v=ZI95vV7Co38) [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/06-ffchallenge_participate_activity.pdf) (*Zoom*)"
+    - name: "10:30 - 11:30 Participate in the Fragile Families Challenge [Lesson plan (participants)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md#lesson-plan-for-participants); [Lesson plan (instructors)](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_instructor.md#lesson-plan-for-instructors) (*Zoom*)"
+    - name: "11:30 - 12:00 Break"
+    - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
+    - name: "1:00 - 1:15 Break"
+    - name: "1:15 - 3:00 Continue participating in the Fragile Families Challenge (*Zoom*)"
+    - name: "3:00 - 3:15 Break"
+    - name: "3:15 - 3:30 Whole group debrief about group exercise (*Zoom*)"
+    - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
+    - name: "3:45 - 4:00 [Delete](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md#deleting-the-files-after-use) the Fragile Families data from your computer"
+
+
+- date: 2021-06-25
+  name: Day off
+
+- date: 2021-06-26
+  name: Day off
+
+- date: 2021-06-27
+    name: Research Speed Dating
+  events:
+    - name: "10:00 - 10:30 Research Speed Dating Logistics (*Zoom*), [Slides for Instructors](https://tiagoventura.github.io/sicss_presentation/slides-research-speed-dating#1)"
+    - name: "10:30 - 11:30 Research Speed Dating Maximally Similar Groups (*Zoom*)"
+    - name: "11:30 - 12:00 Presenting Research Ideas (Everybody)"
+    - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
+    - name: "1:00 - 1:15 Break"
+    - name: "1:15 - 2:15 Research Speed Dating Maximally Dissimilar Groups (*Zoom*)"
+    - name: "2:15 - 2:45 Presenting Research Ideas (Everybody)"
+    - name: "2:45 - 3:00 Break"
+    - name: "3:00 - 3:30 Group Debrief (join research teams) (*Zoom*)"
+
+- date: 2021-06-28
+  name: Workshop in NLP + Work on Group Projects
+  events:
+    - name: "10:00 - 11:00:  Workshop on Modern NLP Techniques with Lucas Roberto."
+    - name: "Rest of the day: Work on your group projects"
+    - name: "3:00 - 3:30- Five minutes for each group to update on the projects"
+
+- date: 2021-06-29
+  name: Workshop in Social Network Models + Work on Group Projects
+  events:
+    - name: "10:00 - 11:00:  Workshop on Social Network Models in Python with Polyana Barbosa"
+    - name: "Rest of the day: Work on your group projects"
+    - name: "3:00 - 3:30- Five minutes for each group to update on the projects"
+  
+- date: 2021-06-30
+  name: Workshop + Present group projects 
+  events:
+    - name: "10:00 - 11:00:  Workshop on Online Surveys and Poststratification with Fernando Meireles"
+    - name: "14:00 - 16:00 Present group projects (*Zoom*)"
+    - name: "16:00 - 17:00 Conclusion e Virtual Happy Hour"
