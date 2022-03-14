@@ -17,6 +17,6 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science, (iii) one writing sample (no more than 35 pages). 
 
-In order to be guaranteed full consideration, all application materials must be submitted by Tuesday, 5 April 2022, 11:59 CET. All application materials must be submitted through Google Forms (<em>Google Forms link coming soon</em>. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by 17 April 2022, and will ask participants to confirm their participation very soon thereafter.
+In order to be guaranteed full consideration, all application materials must be submitted by Tuesday, 5 April 2022, 11:59 CET. All application materials must be submitted through [Google Forms](https://forms.gle/bMmKbwkLJzqfZta5A). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by 17 April 2022, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to sicssmaas@gmail.com.
