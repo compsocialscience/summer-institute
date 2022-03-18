@@ -45,6 +45,19 @@ video_listing:
       - title
       - content
       - author
+  filters:
+    - name: Programming Languages
+      key: programming_lang
+      # "names" is an optional key; used to rename items for display on the filter list. The value
+      # used in the video file will be slugified first, then looked up in this dictionary. If a
+      # value is found here, it will be used, otherwise the item in the file will be used as-is.
+      names:
+        css: CSS
+        r: R
+        python: Python
+        rust: Rust
+    - name: Authors
+      key: author
 
 defaults:
   - scope:

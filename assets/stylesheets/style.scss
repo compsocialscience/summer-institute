@@ -130,6 +130,14 @@ body {
   cursor: default;
 }
 
+/* video filtering */
+.video-filter .badge {
+  display: none;
+}
+.video-filter.active .badge {
+  display: inline-block;
+}
+
 /* video search results */
 #video-listing-container.is-searching .video-card {
   display: none;
