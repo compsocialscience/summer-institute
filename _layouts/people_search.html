@@ -39,14 +39,7 @@
 
           <div class="row d-none" id="people_search_results_container">
             <div class="col-sm-12 d-none" id="zero_searches_results_found">
-              <div class="alert alert-info my-5" role="alert">
-                <h4 class="alert-heading">No Matches Found</h4>
-                <ul>
-                  <li>Check the spelling of your keyword</li>
-                  <li>Try an alternate word or selection</li>
-                  <li>Try entering fewer kewords or selections</li>
-                </ul>
-              </div>
+              {% include no_matches.html %}
             </div>
 
             <div class="col-sm-12" id="search_results_listing">

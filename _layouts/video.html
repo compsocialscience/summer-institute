@@ -158,9 +158,9 @@
                   <!--  where programming_lang:  -->
                   {% if page.programming_lang %}
                   <div class="card-footer">
-                    <span class="badge badge-light"
-                      >{{page.programming_lang}}</span
-                    >
+                    {%- for lang in page.programming_lang -%}
+                    <span class="badge badge-light">{{ lang }}</span>
+                    {%- endfor -%}
                   </div>
                   {% endif %}
                 </div>
