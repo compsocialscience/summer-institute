@@ -220,7 +220,11 @@ function setupVideoSearch() {
   //   - remove 'with-video-results' and 'no-video-results' from the container
   on("submit", `#${ids.search}`, function (ev) {
     ev.preventDefault();
-    let query = ev.target.querySelector("input[name=q]").value.trim();
+    let queries = [
+      ...ev.target.querySelectorAll(
+        "input[name=q], input[name='addl_query']"
+      ),
+    ].map((i) => i.value);
 
     // whether or not there's a query, remove all classes from any previously-found video results
     containerEl.querySelectorAll(`.${classes.video}`).forEach((item) => item.classList.remove(classes.result));
@@ -229,13 +233,35 @@ function setupVideoSearch() {
     containerEl.classList.remove(classes.searching, classes.results, classes.noResults);
 
     // if we don't have a search index or a query, there's nothing more to do
-    if (!searchIndex || !query) {
+    if (!searchIndex || queries.length == 0) {
       return;
     }
 
     // we have a query and a search index; run the search!
     containerEl.classList.add(classes.searching);
-    let results = searchIndex.search(query);
+    let allResults = queries.map((q) => searchIndex.search(q));
+
+    // create hash of result ref and number of queries it shows up in
+    let resultCountByRef = {};
+    for (let i = 0; i < allResults.length; i++) {
+      for (let j = 0; j < allResults[i].length; j++) {
+        let ref = allResults[i][j].ref;
+        if (!resultCountByRef[ref]) {
+          resultCountByRef[ref] = 0;
+        }
+        resultCountByRef[ref] += 1;
+      }
+    }
+
+    // While looping through the first result set, only add items to results
+    // that in are in all result sets.
+    let results = [];
+    for (let i = 0; i < allResults[0].length; i++) {
+      let ref = allResults[0][i].ref;
+      if (resultCountByRef[ref] === queries.length) {
+        results.push(allResults[0][i]);
+      }
+    }
 
     // we found some results
     if (results.length > 0) {
@@ -256,11 +282,60 @@ function setupVideoSearch() {
   });
 }
 
+// set up filtering for video categories
 function setupVideoFilter() {
-  on('click', '.video-filter-group .video-filter', function (ev) {
+  const searchForm = document.getElementById('video-search-form');
+  const filterSel = '.video-filter-group .video-filter';
+  const activeClass = 'active';
+  const activeSel = `${filterSel}.${activeClass}`;
+  let filterSchedule = null;
+
+  // shouldn't be necessary since the click events will only attach to elements on the video page,
+  // and they are what trigger any actual work in this method... but it also is good to be sure.
+  if (!searchForm) {
+    return;
+  }
+
+  function updateSearchFormFields() {
+    let activeFilters = [...document.querySelectorAll(activeSel)];
+    let queries = {};
+    let newQueries = [];
+
+    // for each filter clicked, build an array of queries for that filter aspect to be OR'd
+    // together by lunr.
+    activeFilters.forEach((el) => {
+      const key = el.getAttribute('data-filter-key');
+      const value = el.getAttribute('data-filter-value');
+      if (!queries[key]) {
+        queries[key] = [];
+      }
+      queries[key].push(`${key}:${value}`);
+    });
+
+    // newQueries will be an array like:
+    // Array [ "programming_lang:css programming_lang:R", "author:Chris Bail" ]
+    newQueries = Object.values(queries).map((q) => q.join(" "));
+
+    // add each query as a hidden input to the main search form, and submit it
+    searchForm
+      .querySelectorAll("input[type='hidden']")
+      .forEach((e) => e.remove());
+    for (let i = 0; i < newQueries.length; i++) {
+      let input = document.createElement("input");
+      input.setAttribute("type", "hidden");
+      input.setAttribute("name", "addl_query");
+      input.setAttribute("value", newQueries[i]);
+      searchForm.append(input);
+    }
+    searchForm.querySelector("[type='submit']").click();
+  }
+
+  on('click', filterSel, function (ev) {
     ev.preventDefault();
     let filterEl = ev.target;
-    filterEl.classList.toggle('active');
+    filterEl.classList.toggle(activeClass);
+    clearTimeout(filterSchedule);
+    filterSchedule = setTimeout(updateSearchFormFields, 300);
   });
 }
 

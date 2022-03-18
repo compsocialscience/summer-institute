@@ -41,11 +41,25 @@
   need more lunr search factors, those can be added to config.yml (so that they will be generated
   here).
   {%- endcomment -%}
-  {%- assign keys = site.video_listing.search.keys | push: site.video_listing.search.ref -%}
+
+  {%- comment -%}
+  Generate a list of keys we need from each video. Start with the search keys, then iterate the
+  filter keys and add those to the list, one at a time. These will be used as the fields that lunr
+  indexes. Finally, add the ref itself, so that it's included in the JSON data that lunr consumes.
+
+  NOTE: we could use the `| concat` filter instead of iterating, if we were using Jekyll > 4.
+  {%- endcomment -%}
+  {%- assign search_keys = site.video_listing.search.keys -%}
+  {%- assign filter_keys = site.video_listing.filters | map: "key" -%}
+  {%- for filter_key in filter_keys -%}
+    {%- assign search_keys = search_keys | push: filter_key -%}
+  {%- endfor -%}
+  {%- assign keys = search_keys | push: site.video_listing.search.ref -%}
+
   <script>
   VIDEO_LISTING = {
     ref: {{ site.video_listing.search.ref | jsonify }},
-    fields: {{ site.video_listing.search.keys | jsonify }},
+    fields: {{ search_keys | jsonify }},
     data: [
     {%- for video in all_videos -%}
     {

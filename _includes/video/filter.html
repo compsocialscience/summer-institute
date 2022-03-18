@@ -43,6 +43,8 @@ standardize the capitalization for that item across all video files.
 
 <a href="#"
    id="video-filter-{{ filter_slug }}-{{ item_slug }}"
+   data-filter-key="{{ filter.key }}"
+   data-filter-value="{{ item }}"
    class="video-filter list-group-item list-group-item-action d-flex justify-content-between align-items-center"
 >{{ item_disp }} <span class="badge badge-light badge-pill">✔</span></a>
 {% endfor %}
