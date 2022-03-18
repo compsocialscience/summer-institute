@@ -42,7 +42,7 @@ youth_board:
   people:
     - name: "Yu-Chen Dai"
       image: /assets/images/Yu-ChenDai.jpg
-      bio: "Yu-Chen Dai is a graduate of Feng Chia University in the Department of Information Engineering and Computer Science. His research interests analyze the malicious behaviors on social media, including information manipulation and disinformation. Currently, he focuses on using network structure and user behaviors to identify the sockpuppets in social media. He is honored to be a participant in SICSS Taiwan 2021 cooperates with different field scientists to explore and learn computational social science. He is expecting to let more people know, "What is computational social science?", "What can data do?" and mix our skills to find the interesting thing in the world."
+      bio: "Yu-Chen Dai is a graduate of Feng Chia University in the Department of Information Engineering and Computer Science. His research interests analyze the malicious behaviors on social media, including information manipulation and disinformation. Currently, he focuses on using network structure and user behaviors to identify the sockpuppets in social media. He is honored to be a participant in SICSS Taiwan 2021 cooperates with different field scientists to explore and learn computational social science. He is expecting to let more people know, \"What is computational social science?\", \"What can data do?\" and mix our skills to find the interesting thing in the world."
       website: https://www.linkedin.com/in/yu-chen-dai
     - name: "Fu-Ying Lin"
       image: /assets/images/FuyingLin.png
