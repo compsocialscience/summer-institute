@@ -1,18 +1,16 @@
 <div id="video-listing-container" class="row">
   {% assign all_videos = site.videos | sort: "has_order" %}
+  {% assign bootcamp_videos = all_videos | where: "is_bootcamp", true %}
+  {% assign other_videos = all_videos | where: "is_bootcamp", false %}
 
   {%- comment -%} List Bootcamp videos first {%- endcomment -%}
-  {% for video in all_videos %}
-    {% if video.is_bootcamp %}
-      {% include video/card.html video=video %}
-    {% endif %}
+  {% for video in bootcamp_videos %}
+    {% include video/card.html video=video %}
   {% endfor %}
 
   {%- comment -%} List non-bootcamp videos next {%- endcomment -%}
-  {% for video in all_videos %}
-    {% if video.is_bootcamp == false %}
-      {% include video/card.html video=video %}
-    {% endif %}
+  {% for video in other_videos %}
+    {% include video/card.html video=video %}
   {% endfor %}
 
   <div class="col-sm-12" id="video-search-no-matches">
