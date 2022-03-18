@@ -256,7 +256,16 @@ function setupVideoSearch() {
   });
 }
 
+function setupVideoFilter() {
+  on('click', '.video-filter-group .video-filter', function (ev) {
+    ev.preventDefault();
+    let filterEl = ev.target;
+    filterEl.classList.toggle('active');
+  });
+}
+
 // execute setup functions on DOM load
 setupParticipantSearch();
 setupSearchFilter();
 setupVideoSearch();
+setupVideoFilter();
