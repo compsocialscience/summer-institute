@@ -30,27 +30,32 @@
   makes adding new files easy. A custom build command would need to consume the markdown files
   somehow so that it could generate the lunr index.
 
-  The below code
-    - finds the "videos" collection (defined in config.yml) so that we can use its metadata
-    - iterates all videos
-    - for each video, iterates the "search_keys" metadata item from our collection
-    - within each video/key iteration, outputs a JS key: value pair for that item
+  The below code creates a VIDEO_LISTING object that uses data from the site configuration's custom
+  `video_listing` variable. It will contain:
+    - ref: the name of the aspect of each video to be used as the unique identifier
+    - fields: the video fields to search using keyowrd search
+    - data: a JS object created by iterating each video and plucking out only the keys that we need
+      (the ref and fields from above)
 
   The end result is an array of JS objects that contain all of the data that Lunr will read. If we
   need more lunr search factors, those can be added to config.yml (so that they will be generated
-  here) and the relevant JS file will also need to be updated to know about these search factors.
+  here).
   {%- endcomment -%}
-  {%- assign video_collection = site.collections | where: "label", "videos" | first -%}
+  {%- assign keys = site.video_listing.search.keys | push: site.video_listing.search.ref -%}
   <script>
-  VIDEO_JSON = [
-  {%- for video in all_videos -%}
-  {
-    {%- for key in video_collection.search_keys -%}
-  {{ key }}:{{ video[key] | jsonify }},
+  VIDEO_LISTING = {
+    ref: {{ site.video_listing.search.ref | jsonify }},
+    fields: {{ site.video_listing.search.keys | jsonify }},
+    data: [
+    {%- for video in all_videos -%}
+    {
+      {%- for key in keys -%}
+      {{ key }}:{{ video[key] | jsonify }},
+      {%- endfor -%}
+    },
     {%- endfor -%}
-  },
-  {%- endfor -%}
-  ];
+    ],
+  };
   </script>
 
 </div>

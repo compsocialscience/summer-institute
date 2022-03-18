@@ -195,18 +195,16 @@ function setupVideoSearch() {
   let searchIndex = null;
 
   // don't do anything if we're not on the video search page
-  if (!searchEl || !containerEl || !VIDEO_JSON) {
+  if (!searchEl || !containerEl || !VIDEO_LISTING) {
     return;
   }
 
   // setup the lunr search index
   // FIXME replace this with a server-side generated lunr index
   searchIndex = lunr(function () {
-    this.field('title');
-    this.field('content');
-    this.field('author');
-    this.ref('slug');
-    VIDEO_JSON.forEach((video) => this.add(video) );
+    this.ref(VIDEO_LISTING.ref);
+    VIDEO_LISTING.fields.forEach((field) => this.field(field) );
+    VIDEO_LISTING.data.forEach((video) => this.add(video) );
   });
 
   // when submitting a query:

@@ -37,8 +37,11 @@ collections:
   videos:
     output: true
     permalink: /overview/:name
-    search_keys:
-      - slug
+
+video_listing:
+  search:
+    ref: slug
+    keys:
       - title
       - content
       - author
