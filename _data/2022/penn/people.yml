@@ -49,6 +49,11 @@ speakers:
       bio: "Yphtach (Yph) Lelkes is an Associate Professor at the Annenberg School for Communication. He studies the structure, dynamics, and causes of political attitudes, with a particular emphasis in polarization and American politics. His work lies at the intersection of public opinion, political psychology, and political communication."
       website: https://www.ylelkes.com/
   
+    - name: Katherine Ognyanova
+      image: /assets/images/penn2022_Katya.jpg
+      bio: "Katherine (Katya) Ognyanova studies the effects of social influence on civic and political behavior, confidence in institutions, information exposure/evaluation, and public opinion formation. Her methodological expertise is in computational social science, network science, and survey research. Her recent work examines the links between misinformation exposure and political trust. Ognyanova is one of the founders and a principal investigator for The COVID States Project – a large multi-university initiative exploring the social and political implications of the COVID-19 pandemic."
+      website: https://kateto.net/
+  
     - name: Brandon Stewart
       image: /assets/images/penn2022_stewart.jpg
       bio: "Brandon Stewart is an Assistant Professor in the Department of Sociology and is also affiliated with the Department of Politics and the Office of Population Research.  He develops new quantitative statistical methods for applications across the social sciences.  Methodologically his focus is in tools which facilitate automated text analysis and model complex heterogeneity in regression.  Many recent applications of these methods have centered on using large corpora of text to better understand propaganda in contemporary China."
@@ -63,6 +68,11 @@ speakers:
       image: /assets/images/penn2022_emilio.jfif
       bio: "Emilio Zagheni is Executive Director of the Max Planck Institute for Demographic Research (MPIDR) and Affiliate Associate Professor of Sociology at the University of Washington, where he served as Training Director of the Center for Studies in Demography and Ecology. He received his Ph.D. in Demography (2010) and M.A. in Statistics (2008) from U.C. Berkeley. Zagheni is best known for his work on combining digital trace data and traditional sources to track and understand migrations and to advance population science. In 2016 he received the Trailblazer Award for Demographic Analysis from the European Association for Population Studies for his role in developing the field of Digital and Computational Demography. As co-chair of the Digital Demography Panel of the International Union for the Scientific Study of Population, he has played a key role in favoring collaboration and exchange between demographers, statisticians and computational social scientists."
       website: https://zagheni.net/index.html
+
+    - name: Will Wang
+      image: /assets/images/penn2022_Will.jpg
+      bio: "Will Wang is a Principal Researcher in the Office of the Chief Economist at Microsoft Research. He is also a Visiting Scholar in the Marketing Department at the Wharton School at the University of Pennsylvania. His research interests are in Industrial Organization and Applied Microeconomics. Recently my research has focused on the economics of cloud computing and empirical market design. "
+      website: https://sites.google.com/site/willpeichunwang/
 
     - name: More coming soon...
 
