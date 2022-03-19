@@ -21,7 +21,7 @@ Applicants must submit the following documents:
 - a statement (1-3 pages). It should describe your research, interest in computational social science, and immediate plans after SICSS-Jogja.
 - one writing sample (either published or unpublished, 35 pages max). Co-authored work is acceptable, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author in your writing sample/statement.
 
-**In order to be guaranteed full consideration, all application materials must be submitted by Friday, March 18, 2022, 11:59 pm AoE (Anywhere on Earth).** All application materials must be submitted through [https://uii.id/sicss-jogja](https://stonybrookuniversity.co1.qualtrics.com/jfe/form/SV_bJeCsqH1H1VLjaC). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by May 2022, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by ~~Friday, March 18, 2022,~~ (extended to) Thursday, March 31, 2022 at 11:59 pm AoE (Anywhere on Earth).** All application materials must be submitted through [https://uii.id/sicss-jogja](https://stonybrookuniversity.co1.qualtrics.com/jfe/form/SV_bJeCsqH1H1VLjaC). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by May 2022, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to sicss-jogja@uii.ac.id.
 
