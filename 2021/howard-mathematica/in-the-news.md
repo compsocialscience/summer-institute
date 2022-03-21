@@ -118,6 +118,12 @@ image: /assets/images/howard.jpg
 <br><font size = "1">(Posted by <a href="https://sicss.io/2021/howard-mathematica/people">SICSS-Howard/Mathematica</a>)</font>
 
 
+<u>SICSS-Howard/Mathematica participated in the Pacific Sociology Grad Fair</u>
+<br><font color="grey"><font size="2">March 20, 2021</font></font> 
+<br><i><font size = "2">SICSS-Howard/Mathematica participated in the Pacific Sociology Grad Fair (virtually). </font></i>
+<br><font size = "1">(Posted by <a href="https://www.pacificsoc.org/2021-conference">The Pacific Sociological Association</a>)</font>
+
+
 <u>SICSS-Howard/Mathematica to table at Pacific Sociological Association Conference </u>
 <br><font color="grey"><font size="2">March 15, 2021</font></font> 
 <br><i><font size = "2">SICSS-Howard/Mathematica will be hosting a virtual round-table at the 92nd Annual Meeting of the Pacific Sociological Association, held from March 17-21, 2021. </font></i>
