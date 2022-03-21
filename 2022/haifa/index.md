@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: haifa
 main: true
-image: /assets/images/haifa.jpg
+image: /assets/images/Haifa2.jpg
 ---
 
 From July 3 to July 14, 2022, \_\_\_\_\_ will sponsor the Summer Institute in Computational Social Science, to be held virtually. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
