@@ -60,21 +60,27 @@
     - name: "**13:00-14:00** Lunch"
     - name: "**14:00-15:30** Tutorials/Flash Talks"
     - name: "**15:30-18:00** Group Exercises"
-    - name: "**18:00-** Dinner"
-    - name: "Required Readings:_ []()"  
+    - name: "**18:00-** Dinner" 
   
   
 - date: 2022-06-23
   events:
     - name: "**09:00-09:15** Housekeeping and Announcements"
-    - name: "**09:15-10:30** Happy Hour"
-    - name: "**10:30-12:00** Social Survey meets Online Survey | Machine Learning."
+    - name: "**09:15-10:30** Happy Hour
+    <br/> 
+    <br/> 
+    Required Readings:
+    
+    - [Characterizing low effort responding among young African adults recruited via Facebook advertising](https://doi.org/10.1371/journal.pone.0250303)
+    
+    - [Evaluating sampling biases from third-party reporting as a method for improving survey measures of sensitive behaviors](https://www.sciencedirect.com/science/article/abs/pii/S0378873316300454)"
+     
+    - name: "**10:30-12:00** Social Survey meets Online Survey || Machine Learning."
     - name: "**12:00-13:00** Tutorials"
     - name: "**13:00-14:00** Lunch"
     - name: "**14:00-15:30** Invited Talk <br/> Mass Collaboration"
     - name: "**15:30-18:00** Group Exercises"
     - name: "**18:00-** Dinner"
-    - name: "Required Readings: <br/> [Characterizing low effort responding among young African adults recruited via Facebook advertising](https://doi.org/10.1371/journal.pone.0250303)"
 
 - date: 2022-06-24
   events:
@@ -86,7 +92,6 @@
     - name: "**14:00-15:30** Tutorials/Flash Talks"
     - name: "**15:30-18:00** Group Exercises"
     - name: "**18:00-** Dinner"
-    - name: "Required Readings:_ []()"  
 
 
 - date: 2022-06-27
