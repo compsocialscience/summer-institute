@@ -44,7 +44,17 @@
 - date: 2022-06-22
   events:
     - name: "**09:00-09:15** Housekeeping and Announcements."
-    - name: "**09:15-10:30** Happy Hour"
+    - name: "**09:15-10:30** Happy Hour
+    <br/> 
+    <br/> 
+    Required Readings:
+    
+    - [Using search queries to understand health information needs in Africa](https://ojs.aaai.org/index.php/ICWSM/article/view/3360)
+
+    - [Searching for HIV and AIDS health information in South Africa, 2004-2019: Analysis of Google and Wikipedia search trends](https://doi.org/10.2196/29819)
+
+    - [Google trends and water conservation awareness: the internet’s contribution in South Africa](https://doi.org/10.1080/03736245.2021.1901239)"
+    
     - name: "**10:30-12:00** Introduction to Internet Search Data."
     - name: "**12:00-13:00** Tutorials"
     - name: "**13:00-14:00** Lunch"
