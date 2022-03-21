@@ -1,1 +1,34 @@
-- name:
+- name: Timothy Graham
+  image: /assets/images/TimGraham.png
+  bio: "Dr Timothy Graham is Senior Lecturer in Digital Media at the Queensland University of Queensland (QUT). His research combines computational methods with social theory to study online networks and platforms, with a particular interest in online bots and trolls, disinformation, and online ratings and rankings devices. He develops open source software tools for social media data analysis, and has published in journals such as Information, Communication & Society, Information Polity, Big Data & Society, and Social Media + Society. In 2021, Tim was announced as an ARC Discovery Early Career Researcher Award recipient and was awarded funding for his project, Combating Coordinated Inauthentic Behaviour on Social Media."
+  website: https://www.qut.edu.au/about/our-people/academic-profiles/timothy.graham
+
+- name: Jason Thompson
+  image: /assets/images/JThompson.jpg
+  bio: "A/Prof Thompson works at the University of Melbourne’s Transport, Health and Urban Design (THUD) Research Laboratory within the Melbourne School of Design. Here, he focuses on the translation of research into practice across the areas of urban design, transportation safety, public health, post-injury rehabilitation, public policy, and health system design. His work has pioneered the use of agent-based models and computational social science in areas of traditional health and insurance system design, urban design, infectious disease, and transportation safety. A/Prof Thompson holds a PhD in Medicine, Masters in Clinical Psychology, and a Bachelor of Science with Honours and is a current Australian Research Council Discovery Early Career Award (DECRA) Fellow." 
+  website: https://msd.unimelb.edu.au/about/our-people/academic/jason-thompson
+
+- name: Marian-Andrei Rizoiu
+  image: /assets/images/Rizoiu.png
+  bio: "Dr Marian-Andrei Rizoiu is a Senior Lecturer in Behavioral Data Science at the University of Technology Sydney. He is interested in stochastic behavioural modelling of human actions online, at the intersection of applied statistics, artificial intelligence and social data science. He leads the Behavioral Data Science lab, which studies human attention dynamics in the online environment, the emergence of influence and opinion polarisation. Marian-Andrei’s research has been funded by Facebook Research and Defence Science and Technology (DST). His work has appeared in the PNAS, PLOS ONE, PLOS Computations Biology, WWW, NeurIPS, IJCAI, and CIKM."
+  website: https://www.rizoiu.eu
+
+- name: Claire Mason
+  image: /assets/images/ClaireMason.jpeg
+  bio: "Dr Claire Mason is a Principal Research Scientist at CSIRO's Data61. Her applied research supports agility and resilience in the Australian workforce by capturing novel sources of data about the changing labour market which inform the choices of job seekers, educators and employment services providers. Claire's research has been covered by mainstream media outlets such as the ABC's 7:30 Report, The Australian, The Financial Review and The Conversation and published in scientific journals such as the Journal of Applied Psychology, PLOS One, Leadership Quarterly, Journal of Organizational Behavior, Journal of Occupational Health Psychology and Small Group Research."
+  website: https://people.csiro.au/M/C/Claire-Mason
+
+- name: Caron Chen
+  image: /assets/images/CaronChen.jpeg
+  bio: "Dr Haohui “Caron” Chen is a computational social scientist working for CSIRO's Data61. His multidisciplinary background including GIS, remote sensing, machine learning and statistical modelling allows him to build computational models to solve real-world problems at scale. In the early stage of his research career, Caron focused on disaster management, where he analysed 9.7 million geo-tagged tweets and found social media activities geographically correlated with reported damage during Hurricane Sandy. In the past four years, he has been obsessed with the future of work study. He and his colleagues created the Data61 Australian Skills Dashboard: skills.csiro.au"
+  website: https://people.csiro.au/C/C/Caronhaohui-Chen
+  
+- name: Andrew Reeson
+  image: /assets/images/AndrewReeson.jpg
+  bio: "Dr Andrew Reeson is a Research Team Leader at CSIRO’s Data61. In his research, he applies behavioural science with econometric modelling to address issues of national significance to Australia. After a mis-spent youth taking biology at Oxford he switched to economics in order to focus on some of the more challenging aspects of real-world problems. In recent years he has shifted his focus to the digital economy, including modelling the potential impact of technology on employment and future skills demand. He is also researching how digital platforms should be designed and implemented to support efficient and equitable data sharing."
+  website: https://people.csiro.au/r/a/andrew-reeson
+    
+- name: Simon Musgrave
+  image: /assets/images/SimonMusgrave.jpg
+  bio: "Dr Simon Musgrave was a member of the linguistics program at Monash University from 2003 until 2020. His research interests included the use of computational tools in linguistic research and the relationship between linguistics and digital humanities. He was involved in the Australian National Corpus project, an important piece of digital research infrastructure, and has been a member of the executive of the Australasian Association for Digital Humanities since 2015. Simon currently is part of the team delivering various language-related infrastructures including the Australian Text Analytics Platform and the Language Data Commons of Australia." 
+  website: https://lens.monash.edu/@simon-musgrave

@@ -1,3 +1,69 @@
+- date: All times are in Central European Summer Time, https://www.timeanddate.com/time/zones/cest. All events are held in Zoom.
+
+- date: July 17, 2022
+  events:
+    - name: "Meet-and-greet"
+
 - date: July 18, 2022
   events:
-    - name: "Schedule coming soon..."
+    - name: "09:30 What is computational social science (CSS) really? *by Ivan Smirnov*"
+    - name: "10:30 Exercises/Group activity"
+    - name: "12:00 Lunch"
+    - name: "13:00 How digital trace data could help to answer social science questions? *by Ivan Smirnov*"
+    - name: "14:30 Guest lecture: Introduction to using the Twitter API to collect insane amounts of data *by Suhem Parack*"
+   
+- date: July 19, 2022
+  events:
+    - name: "09:30 Harnessing web scraping and APIs to collect data *by Jana Lasser*"
+    - name: "10:30 Exercises/Group activity"
+    - name: "12:00 Lunch"
+    - name: "13:00 Digitally powered surveys *by Jana Lasser*"
+    - name: "14:30 Exercises/Group activity"
+
+- date: July 20, 2022
+  events:
+    - name: "09:30 Combining surveys and Big Data *by David Garcia*"
+    - name: "10:30 Exercises/Group activity"
+    - name: "12:00 Lunch"
+    - name: "13:00 Introduction to networks in CSS *by Markus Strohmaier*"
+    - name: "14:30 Exercises/Group activity"
+   
+- date: July 21, 2022
+  events:
+    - name: "09:30 How to write a (good!) CSS paper *by Ivan Smirnov*"
+    - name: "10:30 Exercises/Group activity"
+    - name: "12:00 Lunch"
+    - name: "13:00 Visualize your data: DOs and DON’Ts *by Jana Lasser*"
+    - name: "14:30 Exercises/Group activity"
+
+- date: July 22, 2022
+  events:
+    - name: "09:30 Potential pitfalls and problems for awesome CSS projects *by Ivan Smirnov*"
+    - name: "10:30 Exercises/Group activity"
+    - name: "12:00 Lunch"
+    - name: "13:00 Ethical dimensions of CSS research *by Jana Lasser*"
+    - name: "14:30 Exercises/Group activity"
+
+- date: July 25, 2022
+  events:
+    - name: "Work on group projects"
+    - name: "16:00 Guest lecture *by Chris Bail*"
+
+- date: July 26, 2022
+  events:
+    - name: "Work on group projects"
+    - name: "16:00 Guest lecture *by Roberta Sinatra*"
+
+- date: July 27, 2022
+  events:
+    - name: "Work on group projects"
+    - name: "16:00 Guest lecture *by Alina Arseniev-Koehler*"
+
+- date: July 28, 2022
+  events:
+    - name: "Work on group projects"
+
+- date: July 29, 2022
+  events:
+    - name: "Project presentations"
+    - name: "Debrief and Conclusion"

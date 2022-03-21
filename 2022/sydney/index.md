@@ -10,7 +10,7 @@ From 20 June to 1 July, 2022 the [Sydney Social Sciences and Humanities Advanced
 At the Sydney location, we have a specific interest and in-house expertise in the following topics, although this is not an exhaustive list:
 - climate communication and disaster resilience;
 -	disinformation and influence operations;
--	artificial intelligence and the future of work;
+-	smart cities and the future of work;
 -	online safety and digital disengagement;
 -	digital cultures and creative digital practice.
 
@@ -18,8 +18,8 @@ During the first week, we will follow a largely instructional program which will
 
 Topics covered include digital data collection, text as data, digital surveys and field experiments, mass collaboration, and ethics. At the Sydney location, we specifically focus on the following areas of computational social science:
 - network analysis;
+- text-as-data;
 - machine learning;
-- corpus linguistics;
 - agent-based modelling;
 - data visualisation.
 

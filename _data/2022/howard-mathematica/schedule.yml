@@ -2,43 +2,182 @@
     
 - date: 2022-06-18
   name: Praxis to Power
+  events: 
+    - name: "10:00 - 11:45 Welcome, Praxis to Power Day 1 Introduction and logistics"
+    - name: "11:45 - 12:00 Break"
+    - name: '12:00 - 1:00 "Personal Experiences of African Americans in the Academy" - Faculty Roundtable'
+    - name: "1:00 - 1:15 Break"
+    - name: "1:15 - 1:45 TBD"
+    - name: "1:45 - 2:00 Break"
+    - name: "2:00 - 5:00 TBD"
+
 
 - date: 2022-06-19
-  name: Praxis to Power
+  name: Praxis to Power /Juneteenth
+  events:
+    - name: "10:00 - 11:00 Praxis to Power Day 2 Introduction and logistics"
+    - name: "11:00 - 2:00 Open Office Hours, or SICSS-Howard/Mathematica Exclusive Content Review (on your own), or Pre-Arrival Material Review (on your own)
+    
+    
+          **Open Office Hours (*Zoom*)**
+    
+    
+    
+          **Review Pre-arrival materials**
+                
+                
+                
+          **Get to know the SICSS & SICSS-Howard/Mathematica 2022 Inaugural Planning Team**
+                  
+                  
+                  
+          **Changing the Game**"
+
+
+
+    - name: "2:00 - 5:00 TBD" 
+    - name: "5:00 - 5:15 Break"
+    - name: "5:15 - 6:15 SICSS-Howard/Mathematica Kick-off and Opening Plenary and Q&A - TBD"
+
   
 - date: 2022-06-20
   name: Day 1
+  events:
+    - name: "9:00 - 10:00"
+    - name: "10:00 - 10:30"
+    - name: "10:30 - 11:30"
+    - name: "11:30 - 12:00"
+    - name: "12:00 - 1:00" 
+    - name: "1:00 - 1:30"
+    - name: "1:30 - 1:45"
+    - name: "1:45 - 2:45"
+    - name: "2:45 - 3:15"
+    - name: "3:15 - 3:45"
+    - name: "3:45 - 4:00"
+
   
 - date: 2022-06-21
   name: Day 2
+  events:
+    - name: "9:00 - 10:00"
+    - name: "10:00 - 10:15"
+    - name: "10:15 - 11:30"
+    - name: "11:30 - 12:00"
+    - name: "12:00 - 1:00"
+    - name: "1:00 - 1:15"
+    - name: "1:15 - 2:30"
+    - name: "2:30 - 3:30"
+    - name: "3:30 - 3:45"
+  
   
 - date: 2022-06-22
   name: Day 3
+  events:
+    - name: "9:00 - 10:00"
+    - name: "10:00 - 10:15"
+    - name: "10:15 - 11:30"
+    - name: "11:30 - 12:00"
+    - name: "12:00 - 1:00"
+    - name: "1:00 - 1:15"
+    - name: "1:15 - 3:30"
+    - name: "3:30 - 3:45"
+
 
 - date: 2022-06-23
   name: Day 4
+  events:
+    - name: "9:00 - 10:00"
+    - name: "10:00 - 10:15"
+    - name: "10:15 - 10:30"
+    - name: "10:30 - 11:30"
+    - name: "11:30 - 12:00"
+    - name: "12:00 - 1:00"
+    - name: "1:00 - 1:15"
+    - name: "1:15 - 3:00"
+    - name: "3:00 - 3:15"
+    - name: "3:15 - 3:30"
+    - name: "3:30 - 3:45"
+
 
 - date: 2022-06-24
   name: Day 5
+  events:
+    - name: "9:00 - 10:00"
+    - name: "10:00 - 10:15"
+    - name: "10:15 - 10:30"
+    - name: "10:30 - 11:30"
+    - name: "11:30 - 12:00"
+    - name: "12:00 - 1:00"
+    - name: "1:00 - 1:15"
+    - name: "1:15 - 3:00"
+    - name: "3:00 - 3:15"
+    - name: "3:15 - 3:30"
+    - name: "3:30 - 3:45"
+    - name: "3:45 - 4:00"
+    - name: "4:00 - 5:00"
+
 
 - date: 2022-06-25
   name: Day Off
   
+  
 - date: 2022-06-26
   name: Day Off
 
+
 - date: 2022-06-27
   name: Day 6
+  events:
+    - name: "10:00 - 10:15"
+    - name: "10:15 - 10:45"
+    - name: "10:45 - 11:45"
+    - name: "11:45 - 12:00"
+    - name: "12:00 - 1:00"
+    - name: "1:00 - 2:30"
+    - name: "2:30 - 3:30"
+    - name: "3:30 - 3:45"
+    - name: "3:45 - 4:00"
+    - name: "4:00 - 5:30"
+    
   
 - date: 2022-06-28
   name: Day 7
-  
+  events:
+    - name: "10:00 - 10:15"
+    - name: "10:15 - 12:00"
+    - name: "12:00 - 1:00"
+    - name: "1:00 - 4:00"
+    - name: "4:00 - 5:30"
+    
+    
 - date: 2022-06-29
   name: Day 8
+  events:
+    - name: "10:00 - 10:30"
+    - name: "10:30 - 12:00"
+    - name: "12:00 - 1:00"
+    - name: "1:00 - 4:00"
+    - name: "4:00 - 5:30"
+
 
 - date: 2022-06-30
   name: Day 9
+  events:
+    - name: "10:00 - 10:30"
+    - name: "10:30 - 12:00"
+    - name: "12:00 - 1:00"
+    - name: "1:00 - 4:00"
+    - name: "4:00 - 5:30"
+    
 
 - date: 2022-07-01
   name: Day 10
-  
+  events:
+    - name: "10:00 - 10:30"
+    - name: "10:30 - 12:00"
+    - name: "12:00 - 12:30"
+    - name: "12:30 - 12:50"
+    - name: "12:50 - 4:20"
+    - name: "4:20 - 5:00"
+    - name: "5:00 - 5:15"
+    - name: "5:15 - 5:45"

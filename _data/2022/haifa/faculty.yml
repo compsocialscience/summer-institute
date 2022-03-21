@@ -1,0 +1,29 @@
+- name: Baruch Eitam
+  bio: 
+  image: /assets/images/Baruch_Eitam.jpg
+  website: https://sites.google.com/view/mcl-haifa/home
+
+- name: Pavel Goldstein
+  bio: "I have completed , Master in Biostatistics and PhD in pain neuroscience. During my PhD studies, I was exposed to the field of pain research that is still overflowed with endless debates about basic questions: how we measure pain? What causes pain? How we treat pain? Completing graduate studies I found myself at the Prof. Tor Wager’s lab, leading projects with a focus on digital solutions for chronic pain. In 2019 I founded Integrative Pain Laboratory at the University of Haifa to gather novel understanding of chronic pain conditions, developing new ways of measuring, preventing and treating chronic pain."
+  image: /assets/images/Goldstein_pavel.jpg
+  website: https://hw.haifa.ac.il/en/people/sph/pavel-goldstein
+
+- name: Mor Peleg
+  bio: Mor Peleg is Full Professor of information systems, Chair of the BSc Data Science program and head of the University of Haifa’s Data Science Center, former Chair of the Department of Information Systems. She is Editor-in-Chief of the Journal of Biomedical Informatics, Editorial Board Member of Methods of Information in Medicine and is International Fellow of the American College of Medical Informatics  and Fellow of the International Academy of Health Sciences Informatics. 
+  image: /assets/images/Mor2019-Maysq2.jpg
+  website: https://sites.google.com/hevra.haifa.ac.il/mpeleg
+
+- name: Tali Kristal
+  bio: Tali Kristal is Professor of Sociology at University of Haifa. The central focus of her research is on how and why positions in the economy such as organizations, industries, occupations, classes, and the relations between them, shape the evolution of economic inequality, and how these vary across time and countries.
+  image: /assets/images/Tali_Kristal.jpg
+  website: https://www.talikristal.com
+  
+- name: Daphna Canetti
+  bio: I am a professor of political psychology and the Dean of the Herta and Paul Amir Faculty of Social Sciences at the University of Haifa. My research focuses on the micro-foundations of political conflicts in the Middle East and elsewhere. I am particularly interested in the impact of individual-level exposure to cyber-terrorism and political violence on war/peace attitudes. I study psycho-political responses to multiple acts of political violence and terrorism. Methodologically, I use controlled randomized field experiments, spatial analysis, survey experiments, bio-political and physiological-political research.
+  image: /assets/images/Daphna-Canetti.jpg
+  website: https://daphnacanetti.com
+  
+- name: Tamir Gadot
+  bio:
+  image: /assets/images/Tamir_Gadot.jpg
+  website: 

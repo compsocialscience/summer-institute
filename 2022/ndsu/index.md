@@ -11,4 +11,4 @@ The instructional program will involve in-person and self-paced online lectures,
 
 Participation is restricted to graduate students, postdoctoral researchers, and early-career faculty. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 20 participants will be invited, and participants are expected to fully attend and participate in the entire two-week program.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2022/ndsu/apply) are due by March 25, 2022, 23:59 PM CST.
+[Application materials](https://compsocialscience.github.io/summer-institute/2022/ndsu/apply) are due by April 10, 2022, 23:59 PM CST.

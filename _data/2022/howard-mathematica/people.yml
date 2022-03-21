@@ -3,7 +3,7 @@ faculty:
   people:
     - name: Terri Adams, Ph.D.
       image: /assets/images/TerriAdams.jpg
-      bio: "Terri Adams, Ph.D. is a Professor in the Department of Sociology and Criminology at Howard University, and she currently serves as the Associate Dean for Research with the Graduate School. Additionally, she serves as the Deputy Director of the NOAA Cooperative Science Center for Atmospheric Sciences and Meteorology (NCAS-M) at the university. In addition to her administrative duties, Dr. Adams’ conducts research that takes a multidisciplinary approach to examine issues that have both theoretical and practical implications. Her specific research interests include emergency management, policing, violence, and the impact of trauma and disasters on individuals and organizations. Her most recent work centers on the decision-making processes of both individuals and organizations in the face of crisis events. Her most recent publication, Policing in Disasters: Stress, Resilience, and the Challenges of Emergency Management is co-authored with Dr. Leigh Anderson."      
+      bio: "Terri Adams, Ph.D. is a Professor in the Department of Sociology and Criminology at Howard University, and she currently serves as the Associate Dean for Research with the Graduate School. Additionally, she serves as the Deputy Director of the NOAA Cooperative Science Center for Atmospheric Sciences and Meteorology (NCAS-M) at the university. In addition to her administrative duties, Dr. Adams’ conducts research that takes a multidisciplinary approach to examine issues that have both theoretical and practical implications. Her specific research interests include emergency management, policing, violence, and the impact of trauma and disasters on individuals and organizations. Her most recent work centers on the decision-making processes of both individuals and organizations in the face of crisis events. Her most recent publication, Policing in Disasters: Stress, Resilience, and the Challenges of Emergency Management is co-authored with Dr. Leigh Anderson."
       website: https://profiles.howard.edu/profile/41046/terri-adams
 
 opening:
@@ -26,10 +26,36 @@ speakers:
   people:
     - name: Coming soon...
 
+roundtable discussions:
+  title: '"Real Talk" Roundtable Discussions'
+  people:
+    - name: Howard University
+      image: /assets/images/HowardULogo.png
+      bio: "Howard University has long held a commitment to the study of disadvantaged persons in American society and throughout the world. The goal is the elimination of inequities related to race, color, social, economic and political circumstances. As the only truly comprehensive predominantly Black university, Howard is one of the major engineers of change in our society. Through its traditional and cutting-edge academic programs, the University seeks to improve the circumstances of all people in the search for peace and justice on earth."
+      website: https://home.howard.edu/ 
+      
+    - name: Mathematica
+      image: /assets/images/MathematicaStackedLogo.jpeg
+      bio: "Mathematica is the insight partner that illuminates the path to progress for public- and private-sector changemakers. We apply expertise at the intersection of data, methods, policy, and practice, translating big questions into deep insights that weather the toughest tests. Driven by our mission to improve public well-being, we collaborate closely with our clients to improve programs, refine strategies, and enhance understanding."     
+      website: https://mathematica.org/
+      
+    - name: SICSS
+      image: /assets/images/sicss-logo.png
+      bio: "The Summer Institutes in Computational Social Science (SICSS) were created to provide free training to the next generation of researchers at the intersection of social science and data science— and to incubate cutting-edge research across disciplinary boundaries. Participants at each institute a) hear lectures by leading scholars in the field on a range of subjects from automated text analysis to experiments on social media platforms; b) participate in group training exercises; and c) launch interdisciplinary research projects. SICSS thus aims to provide open, high-quality training in computational social science to researchers around the world in order to accelerate the growth of the field and ensure that it develops practices that are in the long-term interests of science and society. Lectures are live-streamed to all SICSS sites from a central location and supported via a vibrant online community that includes open-source education materials that can be used for further self-study or as a model for computational social science courses within other organizations."
+      website: https://sicss.io/about
+
 lunchtime talks:
   title: Bite-Sized Lunchtime Talks
   people:
-    - name: Coming soon...
+    - name: Cite Black Women
+      image: /assets/images/Cite_Black_Women.png
+      bio: "It's simple: Cite Black Women. We have been producing knowledge since we blessed this earth. We theorize, we innovate, we revolutionize the world. We do not need mediators. We do not need interpreters. It's time to disrupt the canon. It's time to upturn the erasures of history. It's time to give credit where credit is due. We must reconfigure the politics of knowledge production by engaging in a radical praxis of citation that acknowledges and honors Black women’s transnational intellectual production."
+      website: https://www.citeblackwomencollective.org/
+  
+    - name: vary CSS
+      image: /assets/images/VaryCSS.png
+      bio: "Computational Social Science is an exciting new field of research, and we think it should be diverse and inclusive as it grows. To this end, we provide links to resources, which are intended to support new and emerging CSS scholars currently underrepresented in the field. We also maintain a database of these scholars, which can be used for collaboration and networking, or for finding new voices to speak at conferences, on panels, and in workshop tutorials. These resources are compiled and updated by the CSS community."
+      website: http://varycss.org/
 
 participants: 
   title: Participants

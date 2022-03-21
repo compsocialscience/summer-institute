@@ -1,0 +1,62 @@
+speakers: 
+  title: Guest Speakers 
+  people:
+    - name: Coming soon...
+
+participants: 
+  title: Participants
+  people:
+   - name: Coming soon...
+
+organizers:
+  title: Organizers
+  people:
+    - name: "Yu-Hui Chang"
+      image: /assets/images/yuhuiC2022.jpg
+      bio: "Yu-Hui is an assistant professor in the Center for Teacher Education at National Sun Yat-sen University. She is proud to be one of the participants in SICSS Taiwan 2021 to relearn new lenses and approaches in revisiting social science studies. As the Learning Experience Chair of SICSS Taiwan 2022, she is looking forward to encouraging more collaborative fun within interdisciplinary social scientists and data scientists to play with data and respond to social needs. She will be moderating a discord server for fellow learners of computational social science. A personal fun fact is that she is equally as adept at reading minds with her third eye as she is at reading data."
+      website: https://twitter.com/yhuiChang
+    - name: "Tsai-Yen Han"
+      image: /assets/images/TsaiYenHan.jpg
+      bio: "Tsai-Yen is a postdoctoral research fellow in the National Academy for Educational Research. She received her Ph.D. from the Department of Sociology at Rutgers University in 2021. She is passionate about using computational methods and approaches to study the social sciences. As the Admission Chair of SICSS Taiwan 2022, she is dedicated to fostering a research community interested in computational social science. Her research utilizes quantitative and qualitative methods to explore gender and inequality in public health, reproduction, and education. Her current research project is to examine the gendered decisions in undergraduate fields of study."
+      website: https://www.linkedin.com/in/tsaiyenhan/
+    - name: "Robin Lee"
+      image: /assets/images/RobinLee.jpg
+      bio: "Robin Lee is a PhD student in Sociology at Princeton University. He is the Lead Organizer of SICSS-Taiwan 2022. He worked in the New York Times and United Health Care in data analytics. He is interested in organizational sociology, technology studies, content moderation, and fairness in machine learning. Robin is passionate about creating communities for newcomers in programming and data science. He is the co-founder of Taiwanese Data Professionals. He began learning violin online during the pandemic. He enjoys hiking and skiing."
+      website: https://twitter.com/RobinCRLee
+    - name: "Chung-Pei Pien"
+      image: /assets/images/PienChungPei.jpg
+      bio: "Chung-Pei is an assistant professor in the International College of Innovation. He is the University Partnership Chair of SICSS Taiwan 2022. He received his PhD in Sociology from Texas A&M University. His research areas include science and technology research, energy and sustainable environment, experts and technology politics and interpretable policy analysis. In his former life, he was a journalist."
+      website: https://twitter.com/pienici
+    - name: "Cecilia Liu"
+      image: /assets/images/CeciliaLiu.jpeg
+      bio: "Cecilia Liu is the Chief of Staff and Finance Chair of SICSS-Taiwan 2022. She received her Juris Doctor degree from University of Pennsylvania Law School in 2015. In her previous life, she was a transactional lawyer in New York and Taipei for more than ten years. She is interested in the issues of gender inequality in STEM fields and passionate about encouraging more girls and women to join the tech space. She began practicing horseback riding and tennis after moving to the States (never too late!) and has been enjoying the hobbies a lot during the pandemic. Fun fact about her: she is an avid cook and was once responsible for daily meals of a team of 40 volunteers in Chimei island of Penghu while doing community outreach."
+      website: https://www.linkedin.com/in/pcecilialiu/
+    - name: "Ming-Hung Wang"
+      image: /assets/images/MingHungWang.jpg
+      bio: "Ming-Hung Wang is an assistant professor in the Department of Computer Science and Information Engineering of National Chung Cheng University, Taiwan. He is the Program Chair of SICSS-Taiwan 2022. He received his PhD degree in Electrical Engineering from National Taiwan University in 2017. He is the PI of Digital Society and Security Lab (DIGI-SSL). The group uses data science and computational methodology to investigate issues related to computational social science and network security. Currently, his team is working on integrating statistical learning, graph theory, and data visualization to understand information dissemination and information operation on large-scale social media platforms (Facebook, PTT, Instagram, Tiktok, etc.). Their daily works include analyzing the source of the dis/misinformation, identifying malicious accounts/sockpuppets, and exploring various social media security issues.In his free time, he loves playing guitar. His favorite bands are 伍佰 & China Blue and Oasis. He is a loyal baseball fan although he can only pitch at 100km/h."
+      website: https://sites.google.com/view/mhwang    
+      
+
+youth_board:
+  title: Youth Organizing Board
+  people:
+    - name: "Yu-Chen Dai"
+      image: /assets/images/Yu-ChenDai.jpg
+      bio: "Yu-Chen Dai is a graduate of Feng Chia University in the Department of Information Engineering and Computer Science. His research interests analyze the malicious behaviors on social media, including information manipulation and disinformation. Currently, he focuses on using network structure and user behaviors to identify the sockpuppets in social media. He is honored to be a participant in SICSS Taiwan 2021 cooperates with different field scientists to explore and learn computational social science. He is expecting to let more people know, \"What is computational social science?\", \"What can data do?\" and mix our skills to find the interesting thing in the world."
+      website: https://www.linkedin.com/in/yu-chen-dai
+    - name: "Fu-Ying Lin"
+      image: /assets/images/FuyingLin.png
+      bio: "Fu-Ying Lin has been working as a language instructor for over a decade, from high school to tertiary institutes in different countries, including Taiwan, Turkey, and Germany. Currently, she works as Education Fellow at the Wikimedia Foundation, responsible for the higher education discovery project with the focus of understanding the current challenges and opportunities in higher education. She holds a Ph.D. in corpus linguistics from Freie Universität Berlin. She is an advocate of free knowledge and open access, and interested in applying data to management. She feels honored and excited to be part of SCISS Taiwan 2022, where she can cooperate with scientists from different fields and learn computational social science. In her free time, she likes cooking, baking, watching movies, listening to music, and doing kickbox training."
+      website: https://www.linkedin.com/in/fu-ying-lin-79825725/
+    - name: "Wei-Yu Chen"
+      image: /assets/images/AliceChen.jpeg
+      bio: "Wei-Yu is an operation specialist in Uber Eats. She majors in Political Science at National Taiwan University and discovered the importance and passion for data science while working. She plays a marketing role in SICSS-Taiwan, hoping to arouse more people's attention to the spark generated by the collision of data science and social science through different social media. In her spare time, she enjoys reading books, watching movies, cooking, photography, hiking, and loves to challenge things she has never tried before."
+      website: https://www.linkedin.com/in/chen-wei-yu-abb076132/
+   
+teaching_assistants:
+  title: Teaching Assistants 
+  people:
+    - name: Coming soon...
+
+
+

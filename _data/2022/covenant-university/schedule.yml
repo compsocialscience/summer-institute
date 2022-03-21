@@ -1,3 +1,103 @@
-- date: June 17, 2022
+- date: 2022-06-19
   events:
-    - name: "Schedule coming soon..."
+    - name: "**09:00-18:00** Arrivals"
+    - name: "**18:00-** Welcome Dinner"
+
+- date: 2022-06-20
+  events:
+    - name: "**09:00-11:30** Opening Ceremony"
+    - name: "**11:30-12:15** Introduction to Computational Social Science<br/>"
+    - name: "**12:15-13:00** Panel Discussion <br/> Computer Science meets Social science"
+    - name: "**13:00-14:00** Lunch"
+    - name: "**14:00-15:30** Invited Presentations"
+    - name: "**15:30-18:00** Logistics and AOB"
+    - name: "**18:00-** Dinner"
+    - name: "Required Readings:_ []()"  
+
+- date: 2022-06-21
+  events:
+    - name: "**09:00-09:15** Housekeeping and Announcements."
+    - name: "**09:15-10:30** Happy House"
+    - name: "**10:30-12:00** North and South: *Naming practices and the hidden dimension of global disparities in knowledge production.*
+    
+    Contemporary social sciences aim to be diverse and inclusive, yet traces of historical supremacy persist in scientific practices. One such practice is geographical references in article titles. This presentation will highlight important North-South gaps in knowledge production using more than half a million social science research articles indexed by Scopus (1996 to 2020)."
+    
+    - name: "**12:00-13:00** Tutorials"
+    - name: "**13:00-14:00** Lunch"
+    - name: "**14:00-15:30** Tutorials/Flash Talks"
+    - name: "**15:30-18:00** Group Exercises"
+    - name: "**18:00-** Dinner"
+    - name: "Required Readings:
+    
+    - [North and South: Naming practices and the hidden dimension of global disparities in knowledge production](https://www.pnas.org/doi/abs/10.1073/pnas.2119373119)
+
+    - [Bibliometric analysis of global migration health research in peer-reviewed literature (2000–2016)](https://doi.org/10.1186/s12889-018-5689-x)
+
+    - [A bibliometric analysis of childhood immunization research productivity in Africa since the onset of the Expanded Program on Immunization in 1974](https://doi.org/10.1186/1741-7015-11-66)
+    
+    - [A bibliometric analysis of COVID-19 research in Africa](http://dx.doi.org/10.1136/bmjgh-2021-005690)"
+
+
+- date: 2022-06-22
+  events:
+    - name: "**09:00-09:15** Housekeeping and Announcements."
+    - name: "**09:15-10:30** Happy House"
+    - name: "**10:30-12:00** Introduction to Internet Search Data."
+    - name: "**12:00-13:00** Tutorials"
+    - name: "**13:00-14:00** Lunch"
+    - name: "**14:00-15:30** Tutorials/Flash Talks"
+    - name: "**15:30-18:00** Group Exercises"
+    - name: "**18:00-** Dinner"
+    - name: "Required Readings:_ []()"  
+  
+  
+- date: 2022-06-23
+  events:
+    - name: "**09:00-09:15** Housekeeping and Announcements"
+    - name: "**09:15-10:30** Happy House"
+    - name: "**10:30-12:00** Social Survey meets Online Survey | Machine Learning."
+    - name: "**12:00-13:00** Tutorials"
+    - name: "**13:00-14:00** Lunch"
+    - name: "**14:00-15:30** Invited Talk <br/> Mass Collaboration"
+    - name: "**15:30-18:00** Group Exercises"
+    - name: "**18:00-** Dinner"
+    - name: "Required Readings: <br/> [Characterizing low effort responding among young African adults recruited via Facebook advertising](https://doi.org/10.1371/journal.pone.0250303)"
+
+- date: 2022-06-24
+  events:
+    - name: "**09:00-09:15** Housekeeping and Announcements."
+    - name: "**09:15-10:30** Happy House"
+    - name: "**10:30-12:00** Text Analysis"
+    - name: "**12:00-13:00** Tutorials"
+    - name: "**13:00-14:00** Lunch"
+    - name: "**14:00-15:30** Tutorials/Flash Talks"
+    - name: "**15:30-18:00** Group Exercises"
+    - name: "**18:00-** Dinner"
+    - name: "Required Readings:_ []()"  
+
+
+- date: 2022-06-27
+  events:
+    - name: "**09:00-09:15** Housekeeping and Announcements."
+    - name: "**09:15-13:00** Group Exercises"
+    - name: "**13:00-14:00** Lunch"
+    - name: "**14:00-16:30** Group Exercises"
+    - name: "**16:30-18:00** Invited Talk"
+    - name: "**18:00-** Dinner"
+
+- date: 2022-06-28
+  events:
+    - name: "**09:00-09:15** Housekeeping and Announcements."
+    - name: "**09:15-13:00** Group Exercises"
+    - name: "**13:00-14:00** Lunch"
+    - name: "**14:00-16:30** Group Exercises"
+    - name: "**16:30-18:00** Invited Talk"
+    - name: "**18:00-** Dinner"
+
+- date: 2022-06-29
+  events:
+    - name: "**09:00-09:15** Housekeeping and Announcements."
+    - name: "**09:15-13:00** Group Exercises"
+    - name: "**13:00-13:15** Break"
+    - name: "**13:15-15:15** Group Exercises"
+    - name: "**15:15-** Closing Dinner and Goodbye."

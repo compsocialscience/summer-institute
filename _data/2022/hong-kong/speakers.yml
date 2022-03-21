@@ -1,1 +1,22 @@
-- name:
+- name: Tarani Chandola
+  image: /assets/images/taranichandola.jpeg
+  bio: "Tarani is a professor of medical sociology and the director of the Methods Hub in the Faculty of the Social Sciences at the University of Hong Kong. He obtained his DPhil in Sociology from Nuffield College, University of Oxford. His research is primarily on the social determinants of health, focusing on health inequalities and psychosocial factors, and the analysis of longitudinal cohort studies."
+  website: https://sociology.hku.hk/people/tarani-chandola/
+
+
+- name: Thomas R. Davidson
+  image: /assets/images/thomasdavidson.jpeg
+  bio: "Tom Davidson is an assistant professor of sociology at Rutgers University—New Brunswick. He received his PhD in sociology from Cornell University. His research and teaching interests include political sociology and social movements, culture, and social networks. He specializes in using computational methods including natural language processing and machine-learning to analyze data collected from social media platforms."
+  website: https://www.thomasrdavidson.com/
+
+
+- name: Bo Huang
+  image: /assets/images/huangbo.jpeg
+  bio: "Bo Huang is a professor in the Department of Geography and Resource Management, Associate Director of Institute of Space and Earth Information Science, and a co-director of the Computational Social Science Laboratory at the Chinese University of Hong Kong. He obtained his PhD from the Chinese Academy of Sciences. He uses geospatial big data to address urban environmental problems."
+  website: https://www.grm.cuhk.edu.hk/en/profile/bhuang/
+
+
+- name: Ka-Yuet Liu
+  image: /assets/images/KaYuetLiu.jpeg
+  bio: "Ka-Yuet Liu is an associate professor of sociology at UCLA. She received her D.Phil in Sociology from Nuffield College, University of Oxford. Her research applies data science methods and social network analysis to epidemiological questions. Her major test cases are the diffusion of health conditions that people don't typically associate with network processes."
+  website: https://sites.google.com/view/kayuet-liu

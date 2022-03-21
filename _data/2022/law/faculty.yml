@@ -1,1 +1,11 @@
-- name: 
+
+
+- name: Monika Leszczyńska
+  image: /assets/images/monikaLeszczynska.jpg
+  bio: "Monika Leszczyńska is Assistant Professor of Empirical Legal Research at the Maastricht University Faculty of Law, Netherlands. She received her PhD in law from University of Bonn (Germany). In her research, she uses laboratory and online experiments as well as content analysis to deliver evidence-based insights to legal decision-makers on the impact of law on human behavior. Among others, she has researched how gender quotas influence group cooperation. She also studies how individuals make decisions in the online environment, i.e., how zero-price offers affect people’s decisions about their contractual rights and privacy. This research project has been funded by a Marie Skłodowska-Curie Individual Fellowship."
+  website: https://empiricalcontracts.com/
+
+- name: Hellen van der Kroef
+  image: /assets/images/Hellen.png
+  bio: "Hellen van der Kroef is a PhD researcher at Maastricht University Faculty of Law who works on multilingual legal automation to assist in EU law-making. She studied European and International law in Toulouse and Barcelona and web development in Amsterdam. Additionally, she worked as a translator and proofreader in Dutch, English, German, French and Spanish."
+  website: https://www.maastrichtuniversity.nl/p70078507
