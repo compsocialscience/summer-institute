@@ -25,6 +25,10 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
 
+Due to the fluctuating COVID situation and potential changes in travel policies, we have chosen to keep SICSS Helsinki online this year.
+We do our best to accommodate for various timezones during the two-week period.
+We have also developed various mechanism to support engagement and peer-interaction to make online activities as social and community building as possible
+
 ## How to Apply
 
 Applicants must submit the following documents:

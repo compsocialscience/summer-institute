@@ -11,7 +11,6 @@ At Helsinki we are especially working on topics such as
  * political communication
  * media & politics
  * digital democracy
- * crisis narratives
  * interactive prototype development
  * validity and reliability in computational social science
 
@@ -35,6 +34,10 @@ The instructional program will include one month long pre-SICSS activity to ensu
 
 There will be ample opportunities for students to discuss their ideas and research with the organizers, other participants, and visiting speakers. Because we are committed to open and reproducible research, all materials created by faculty for the Summer Institute will be released open source.
 
-We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 20 participants will be invited, and participants are expected to fully attend and participate in the entire two-week program.
+We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science.
+About 20 participants will be invited, and participants are expected to fully attend and participate in the entire two-week program.
+Due to the fluctuating COVID situation and potential changes in travel policies, we have chosen to keep SICSS Helsinki online this year.
+We do our best to accommodate for various timezones during the two-week period.
+We have also developed various mechanism to support engagement and peer-interaction to make online activities as social and community building as possible.
 
 [Application materials](https://compsocialscience.github.io/summer-institute/2022/helsinki/apply) are due early March 28th.
