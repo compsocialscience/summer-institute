@@ -18,13 +18,13 @@
   events:
     - name: "**09:00-09:15** Housekeeping and Announcements."
     - name: "**09:15-10:30** Happy House"
-    - name: "**10:30-12:00** Introduction to Bibliometric Analysis <br/>This session will introduce participants to bibliometric analysis using data from Scopus database."
+    - name: "**10:30-12:00** North and South: Naming practices and the hidden dimension of global disparities in knowledge production <br/>This session will introduce participants to bibliometric analysis using data from Scopus database."
     - name: "**12:00-13:00** Tutorials"
     - name: "**13:00-14:00** Lunch"
     - name: "**14:00-15:30** Tutorials/Flash Talks"
     - name: "**15:30-18:00** Group Exercises"
     - name: "**18:00-** Dinner"
-    - name: "Required Readings:_ []()"  
+    - name: "Required Readings: <br/> [North and South: Naming practices and the hidden dimension of global disparities in knowledge production](https://www.pnas.org/doi/abs/10.1073/pnas.2119373119)"
 
 
 - date: 2022-06-22
