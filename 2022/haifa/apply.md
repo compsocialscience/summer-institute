@@ -7,19 +7,21 @@ partner_site: haifa
 
 ## Eligibility
 
-Participation is restricted to \_\_\_\_\_. However, there are no restrictions based on citizenship, country of study, or country of employment. About \_\_\_\_\_ participants will be invited.
+Applications from PhD candidates and postdoctoral researchers will be given priority but applications from faculty members will also be considered. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. There are no restrictions based on citizenship, country of study, or country of employment. Up to 25 participants will be invited.
+This Summer Institute targets aspiring computational social scientists with standard graduate-level education in quantitative methods (i.e., ANOVA and linear regression). Yet learning of more advanced methods (machine learning) will begin from the get-go and in parallel to learning the basics of Python. As such, participants with stronger background in quantitative analyses may also enjoy the Summer Institute. For specifics, see PROGRAM LINK.
 
-The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours during the two months before the Institute.
-
-We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
+We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science such as females, specific disciplines, and minorities. We evaluate applicants along a few dimensions: 1) potential for conducting future research in the area of computational social science 2) likelihood to benefit from participation 3) likelihood to contribute to the educational experience of other participants 4) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
 
 ## How To Apply
 
-Applicants must submit the following documents: \_\_\_\_\_
+Applicants are required to submit the following information using the electronic application form: 
+A.	Academic information Affiliation, Highest academic degree attained, pursuing which degree, what year (e.g., year in graduate school), *all* previously completed    quantitative courses (both frontal and online), *all* previously completed programming courses; Current focus of research, representative publication(s) [if applicable].
+B.	Personal information: Age, Gender, Marital status [number of children if applicable], Country and place of birth, Minority group membership (e.g., Druze). 
+C.	A 1-page statement of why computational methods in social sciences attract you personally, why they are applicable to the topics you are studying or intend to study, demonstrate an idea. Do not fear being wrong (technically), showcase your aspirations.
 
-**In order to be guaranteed full consideration, all application materials must be submitted by \_\_\_\_\_.** All application materials must be submitted through \_\_\_\_\_. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by \_\_\_\_\_, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration please complete the application form by May 1st ** All application materials must be submitted through \_\_\_\_\_. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by \_\_\_\_\_, and will ask participants to confirm their participation very soon thereafter.
 
-Inquiries about SICSS-Haifa can be sent to Tamir Gadot tamirgadot@gmail.com.
+Inquiries can be sent to \_\_\_\_\_.
 
 ## Application Frequently Asked Questions
 
@@ -30,3 +32,6 @@ Yes, but not at the same time. For example, you can apply to SICSS-Haifa, and th
 #### Can I participate in SICSS-Haifa if I have already participated in SICSS at another location?
 
 No. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
+
+#### Will travel or lodging be provided at the SICSS-Haifa site?
+No. Applicants who work or study in or close to Haifa area and/or the north of Israel in general will be prioritized for the SICSS-Haifa program. However, those who are qualified and willing to pay for their own travel during the program will be happily considered. All participants are expected to attend in-person for the full two weeks of the program.
