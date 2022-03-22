@@ -1,9 +1,9 @@
-- name: "Diego Alburez-Gutierrez"
-  image: /assets/images/diego.JPG
+- name: Diego Alburez-Gutierrez
+  image: 
   bio: "Diego Alburez-Gutierrez (PhD in Demography, London School of Economics 2018) is a Research Scientist at the Max Planck Institute for Demographic Research, where he specialises in inter-generational demography. His work integrates non-traditional data (e.g., from digital or computational sources) with established demographic sources (e.g. censuses and population registers)."
   website: http://alburez.me/
 
 - name: Tim Riffe
-  image: /assets/images/tim_riffe.jpg
+  image: 
   bio: "Tim Riffe is a demographer, with a research focus in data, formal methods, mortality, population health, data visualization, and open science. He is currently an Ikerbasque Research Fellow and Visiting Professor at the University of the Basque Country. In 2020 he founded the COVerAGE Database, a global demographic database of COVID-19 cases, deaths, tests, and vaccinations, which has underpinned efforts to monitor the pandemic at the WHO, UN-DESA, UNICEF, and in the global health literature. He also serve on the WHO / UN-DESA Technical Advisory Group for COVID-19 Excess Mortality, where his primary contribution aims to characterize age patterns of COVID-19 direct mortality and all-cause excess mortality for 2020, based on combining various global datasets. He regularly teach short workshops on R programming, demography, and data visualization in programs such as BSSD, EDSD, PHDS, and others."
   website: https://twitter.com/timriffe1/
