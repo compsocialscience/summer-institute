@@ -39,7 +39,7 @@
     
     - name: "**12:00-13:00** Tutorials"
     - name: "**13:00-14:00** Lunch"
-    - name: "**14:00-15:30** Tutorial: [Quasi]-automated search strategy development and article screening in R"
+    - name: "**14:00-15:30** Tutorial: [Quasi]-automated search strategy development and article screening in R with [litsearchr](https://doi.org/10.1111/2041-210X.13268) and [revtools](https://doi.org/10.1002/jrsm.1374)"
     - name: "**15:30-18:00** Group Exercises"
     - name: "**18:00-** Dinner"
 
