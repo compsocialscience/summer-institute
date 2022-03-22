@@ -10,6 +10,12 @@
   website: https://www.thomasrdavidson.com/
 
 
+- name: Ashley Gromis
+  image: /assets/images/agromis.png
+  bio: "Ashley Gromis is a postdoctoral research associate at the Eviction Lab of Princeton University. She completed her PhD in sociology at the University of California, Los Angeles. Her research focuses on how social networks and local communities provide the social context for individual decisions and events that aggregate to form macro-level patterns across space and time."
+  website: https://sociology.princeton.edu/people/ashley-gromis
+
+
 - name: Bo Huang
   image: /assets/images/huangbo.jpeg
   bio: "Bo Huang is a professor in the Department of Geography and Resource Management, Associate Director of Institute of Space and Earth Information Science, and a co-director of the Computational Social Science Laboratory at the Chinese University of Hong Kong. He obtained his PhD from the Chinese Academy of Sciences. He uses geospatial big data to address urban environmental problems."
