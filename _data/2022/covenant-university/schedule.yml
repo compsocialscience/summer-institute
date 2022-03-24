@@ -68,7 +68,15 @@
 - date: 2022-06-23
   events:
     - name: "**09:00-09:15** Housekeeping and Announcements."
-    - name: "**09:15-10:30** Happy Hour"
+    - name: "**09:15-10:30** Happy Hour
+    <br/> 
+    <br/> 
+    Required Readings:
+    
+    - [Can a 280-character message explain stock returns? Evidence from South Africa](https://doi.org/10.1108/MF-12-2021-0598)
+
+    - [Characterising Different Communities of Twitter Users: Migrants and Natives](https://doi.org/10.1007/978-3-030-93409-5_12)"
+    
     - name: "**10:30-12:00** Text Analysis"
     - name: "**12:00-13:00** Tutorials"
     - name: "**13:00-14:00** Lunch"
