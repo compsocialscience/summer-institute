@@ -40,4 +40,4 @@ Due to the fluctuating COVID situation and potential changes in travel policies,
 We do our best to accommodate for various timezones during the two-week period.
 We have also developed various mechanism to support engagement and peer-interaction to make online activities as social and community building as possible.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2022/helsinki/apply) are due early March 28th.
+[Application materials](https://compsocialscience.github.io/summer-institute/2022/helsinki/apply) are due Wednesday 30th.
