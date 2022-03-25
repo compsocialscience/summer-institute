@@ -92,6 +92,22 @@ speakers:
       image: /assets/images/jias_tendani.jpg
       bio: "Tendani Mulanga Chimboza  is studying towards a PhD in information systems (IS). She holds a Masters in Communications from the University of the Western Cape. Her research activities revolve around digital ethics, ICTs for Social Justice, ICT Policy, and Dimension 2 of the CMM [Cybersecurity Culture and Society]."
 
+    - name: Vukosi Marivate
+      bio: Prof. Vukosi Marivate is the ABSA UP Chair of Data Science at the University of Pretoria. He is an Associate Professor of Computer Science. Vukosi works on developing Machine Learning/Artificial Intelligence methods to extract insights from data. A large part of his work over the last few years has been in the intersection of Machine Learning and Natural Language Processing. Vukosi's work in this area focuses on techniques to improve tools for and availability of data for local languages or low resource languages. Vukosi is a co-founder of Deep Learning Indaba (https://deeplearningindaba.com/). He currently serves as a chief investigator on the Masakhane NLP project (https://www.masakhane.io/) and on the steering committee of the Lacuna Fund (https://lacunafund.org/). As part of his vision for Data Science, Vukosi is interested in Data Science for Social Impact (https://dsfsi.github.io/), using local challenges as a springboard for research. In this area, Vukosi has worked on projects in science, energy, public safety and utilities. Vukosi is a co-founder of the Deep Learning Indaba, the largest Machine Learning/Artificial Intelligence workshop on the African continent, aiming to strengthen African Machine Learning.
+      website: https://dsfsi.github.io
+      image: /assets/images/jias_vukosi.png
+
+    - name: Lindiwe Matlali
+      bio: coming soon
+      image: /assets/images/jias_placeholder.png
+      website: https://africateengeeks.co.za/
+
+    - name: Ari Melenciano
+      bio: coming soon
+      image: /assets/images/jias_placeholder.png
+      website: https://www.ariciano.com/
+
+
 
 guest_assistants:
   title: Guest Assistants
