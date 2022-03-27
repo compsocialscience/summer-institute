@@ -3,9 +3,14 @@
   image: /assets/images/Amit_Donner.jpg
   website:
 
-- name: Igor Kleiner
-
+- name: Igor Kleion
+  bio: Research Areas:Queuing theory, Image processing.
+  image: /assets/images/Igor-kleiner.jpg
+  website: https://stat.hevra.haifa.ac.il/index.php/en/ph-d-students/igor-kleiner
 
 
 
 - name: Tomer Sidi
+  bio: Research Areas: Machine Learning, Deep Learning, Computational Structural Biology.
+  image:
+  website:
