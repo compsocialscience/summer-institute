@@ -19,9 +19,9 @@ A.	Academic information Affiliation, Highest academic degree attained, pursuing 
 B.	Personal information: Age, Gender, Marital status [number of children if applicable], Country and place of birth, Minority group membership (e.g., Druze). 
 C.	A 1-page statement of why computational methods in social sciences attract you personally, why they are applicable to the topics you are studying or intend to study, demonstrate an idea. Do not fear being wrong (technically), showcase your aspirations.
 
-**In order to be guaranteed full consideration please complete the application form by May 1st ** All application materials must be submitted through \_\_\_\_\_. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by \_\_\_\_\_, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration please complete the application form by May 1st ** All application materials must be submitted through [SICSS-Haifa Application](https://forms.gle/FCXuMwWmjddcCwTc6). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by sicss-haifa@hevra.haifa.ac.il, and will ask participants to confirm their participation very soon thereafter.
 
-Inquiries can be sent to \_\_\_\_\_.
+Inquiries can be sent to sicss-haifa@hevra.haifa.ac.il.
 
 ## Application Frequently Asked Questions
 
