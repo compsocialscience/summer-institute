@@ -15,6 +15,7 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 ## How To Apply
 
 Applicants are required to submit the following information using the electronic application form: 
+
 A.	Academic information Affiliation, Highest academic degree attained, pursuing which degree, what year (e.g., year in graduate school), *all* previously completed    quantitative courses (both frontal and online), *all* previously completed programming courses; Current focus of research, representative publication(s) [if applicable].
 
 B.	Personal information: Age, Gender, Marital status [number of children if applicable], Country and place of birth, Minority group membership (e.g., Druze). 
