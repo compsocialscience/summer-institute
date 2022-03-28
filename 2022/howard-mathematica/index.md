@@ -15,6 +15,6 @@ SICSS-Howard/Mathematica is groundbreaking for a number of reasons: 1) we were t
 
 [Application materials](https://compsocialscience.github.io/summer-institute/2022/howard-mathematica/apply) are due 11:59pm EST on ~~March 31st~~ April 17th.
 
-Because of the COVID-19 pandemic, event location (in-person vs online) will be determined closer to the event date.
+Because of the COVID-19 pandemic, all events took place online.
 
 Join our [email list](https://docs.google.com/forms/d/e/1FAIpQLSfD7YNUdhhngu4glivO2CAzKX1ief6p2Yyj2B49cdwgk-qwCA/viewform) for the most up to date information on SICSS-Howard/Mathematica, or follow us on [Facebook](https://www.facebook.com/SICSS.Howard.Mathematica) and [Twitter](https://twitter.com/sicss_howard).
