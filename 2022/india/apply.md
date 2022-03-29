@@ -17,7 +17,7 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 Applicants must submit the following documents: (a) Resume (b) A statement of purpose (around 500-1000 words) (c) Relevant experience in Computational Social Science. 
 
-**In order to be guaranteed full consideration, all application materials must be submitted by March 30, 2022.** All application materials must be submitted through the [online form](https://forms.office.com/r/3UqWsA8HrF). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by end of April, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by May 31, 2022.** All application materials must be submitted through the [online form](https://forms.office.com/r/3UqWsA8HrF). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by end of April, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to pk[dot]guru[at]iiit[dot]ac[dot]in.
 
