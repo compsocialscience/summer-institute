@@ -5,7 +5,18 @@
   events: 
     - name: "10:00 - 11:45 Welcome, Praxis to Power Day 1 Introduction and logistics (*Zoom*)"
     - name: "11:45 - 12:00 Break"
-    - name: '12:00 - 1:00 "Personal Experiences of African Americans in the Academy" - Howard Faculty Roundtable (*Zoom*)'
+    - name: '12:00 - 1:00 "Personal Experiences of African Americans in the Academy" - Howard Faculty Roundtable (*Zoom*)
+    
+     - MODERATOR: Naniette Coleman (SICSS-Princeton 2019, organizer of SICSS-Howard/Mathematica 2020-present)
+     
+     - Speaker TBA
+     
+     - Speaker TBA
+     
+     - Speaker TBA
+     
+     - Speaker TBA'
+        
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 1:45 TBA (*Zoom*)"
     - name: "1:45 - 2:00 Break"
@@ -13,28 +24,51 @@
 
 
 - date: 2022-06-19
-  name: Praxis to Power /Juneteenth
+  name: Praxis to Power / Juneteenth
   events:
     - name: "10:00 - 11:00 Praxis to Power Day 2 Introduction and logistics (*Zoom*)"
     - name: "11:00 - 2:00 Open Office Hours with Organizers (*Zoom*), or SICSS-Howard/Mathematica Exclusive Content Review (on your own), or Pre-Arrival Material Review (on your own)
     
-    
-          **Open Office Hours (*Zoom*)**
-    
-    
-    
+   
           **Review Pre-arrival materials**
+          
+          
+                - [Bootcamp](https://sicss.io/boot_camp/)
+              
+                - [Day 1: Introduction and Ethics, Day 2: Collecting Digital Trace Data, Day 3: Automated Text Analysis, Day 4: Surveys in the Digital Age, Day 5: Mass collaboration and machine learning, & OPTIONAL Day 6: Experiments](https://sicss.io/curriculum)
+              
+                - Bit by Bit by Matt Salganik [(textbook)](https://www.bitbybitbook.com/en/1st-ed/preface/) / [(video)](https://youtu.be/jl__M596Crs)
+    
+    
                 
+          **Get to know the SICSS & SICSS-Howard/Mathematica Planning Team**
+          
+                  
+                - SICSS at Age 5: An Interview with Co-Founders Chris Bail and Matt Salganik for SICSS-Howard/Mathematica 2021 [(video)](https://youtu.be/PGhI39loSYg)
                 
+                - Terri Adams, Ph.D., Faculty Co-Sponsor & Professor, Department of Sociology and Criminology, and Interim Director, NOAA Cooperative Science Center for Atmospheric Sciences & Meteorology at Howard University [(video)](https://youtu.be/2R_w-PQbPD0)
                 
-          **Get to know the SICSS & SICSS-Howard/Mathematica 2022 Inaugural Planning Team**
+                - Calvin Hadley, Event Co-Sponsor & Senior Advisor for Strategic Initiatives, Office of the President, Howard University [(video)](https://youtu.be/y-dp19EpEcU)
+                
+                - Akira Bell, Event Co-Sponsor & Senior Vice President; Chief Information Officer, Mathematica [(video)](https://youtu.be/BVRDqmDMT-0)
+                
+                - Naniette H. Coleman, Lead Organizer & SICSS-Princeton 2019 Alumna, PhD Candidate Sociology, UC Berkeley [(website)](https://www.naniettecoleman.com/)
+  
+            
                   
-                  
-                  
-          **Changing the Game**"
-
-
-
+          **Changing the Game**
+          
+          
+               - Discussion on Diversity in Computational Social Science, SICSS Alumni Festival 2020 [(video)](https://youtu.be/FYES4RCRaZw)
+               
+               - Uncovering New Keys to Countering Anti-Black Racism and Inequity Using Computational Social Science, [SAGE Ocean blog](https://ocean.sagepub.com/blog/diversity/uncovering-new-keys-to-countering-anti-black-racism-and-inequity-using-computational-social-science)
+               
+               - The Future of Computational Social Science is Black: Welcome to SICSS-Howard/Mathematica 2021, [Sage Methodspace blog](https://www.methodspace.com/blog/tag/The+Future+of+Computational+Social+Science+is+Black)
+               
+               - Inside an Initiative to Diversify the Field of Computational Social Science, [On the Evidence: A Mathematica Podcast](https://www.mathematica.org/blogs/inside-an-initiative-to-diversify-the-field-of-computational-social-science)
+               
+               - A lack of diversity in research and analytics is not just unethical — it is dangerous by Wayne A.I. Frederick and Paul Decker, [OP-ED](https://hechingerreport.org/opinion-a-lack-of-diversity-in-research-and-analytics-is-not-just-unethical-it-is-dangerous/)"
+          
     - name: "2:00 - 5:00 R Workshop (*Zoom*)" 
     - name: "5:00 - 5:15 Break"
     - name: "5:15 - 6:15 SICSS-Howard/Mathematica Kick-off and Opening Plenary and Q&A: Speaker TBA (*Zoom*)"
@@ -43,40 +77,44 @@
 - date: 2022-06-20
   name: "Day 1: Introduction and Ethics"
   events:
+    - name: "[Day 1: Pre-arrival videos & corresponding slides](https://sicss.io/curriculum) [(Takeaway Sheet)](https://docs.google.com/document/d/1LJfGgzdPzBcJNGSsFZcMH79nPKAxu6CIUT55Gygqkkc/edit?usp=sharing)"
     - name: "9:00 - 10:00 R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "10:00 - 10:30 Institute Introduction and logistics (*Zoom*)"
     - name: "10:30 - 11:30 Small group discussions (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: '12:00 - 1:00 “Getting the most out of your SICSS experience” - Roundtable discussion with SICSS alums of color OR R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)
+    - name: '12:00 - 1:00 "Getting the most out of your SICSS experience" - Roundtable discussion with SICSS alums of color (*Zoom*) OR R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)
     
         - MODERATOR: Naniette Coleman (SICSS-Princeton 2019, organizer of SICSS-Howard/Mathematica 2020-present)
         
-        - Speaker TBA
+        - Nicole Jenkins, Ph.D., Assistant Professor, Department of Sociology and Criminology, Howard University
         
-        - Speaker TBA
+        - Maxine Van Doren, Ph.D. student, Linguistics, UC San Diego
+        
+        - Speaker TBA 
         
         - Speaker TBA 
         
         - Speaker TBA'
         
     - name: "1:00 - 1:30 Break"
-    - name: "1:30 - 1:45 Introduction to the group exercise (*Zoom*)"
+    - name: "1:30 - 1:45 Introduction to the group exercise Lesson plan (participants); Lesson plan (instructors) (*Zoom*)"
     - name: "1:45 - 2:45 Small group discussion of case study (*Zoom*)"
     - name: "2:45 - 3:15 Whole group debrief about case study (*Zoom*)"
     - name: "3:15 - 3:45 Debrief and logistics (*Zoom*)"
-    - name: "3:45 - 4:00 Introduction to new SICSS-Howard/Mathematica site data project"
+    - name: "3:45 - 4:00 Introduction to new SICSS-Howard/Mathematica site project"
 
   
 - date: 2022-06-21
   name: "Day 2: Collecting Digital Trace Data"
   events:
+    - name: "[Day 2: Pre-arrival videos, corresponding slides, & annotated code](https://sicss.io/curriculum) [(Takeaway Sheet)](https://docs.google.com/document/d/13lPvBhJwo2P_xH-2Hu6avews-isoYoEBV8i4r4_-gtk/edit?usp=sharing)"
     - name: "9:00 - 10:00 R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "10:00 - 10:15 Logistics and introduction to group exercise (*Zoom*)"
-    - name: "10:15 - 11:30 Identify a Research Question with Digital Trace Data OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
+    - name: "10:15 - 11:30 Identify a Research Question with Digital Trace Data (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk OR R, Python, and STATA Office hours with Mathematica TAs (as needed) (*Zoom*)"
+    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk (*Zoom*) OR R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 2:30 Develop a Sampling Frame OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
+    - name: "1:15 - 2:30 Develop a Sampling Frame (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "2:30 - 3:30 Populate the Sampling Frame with Screen-Scraping (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
   
@@ -84,11 +122,23 @@
 - date: 2022-06-22
   name: Day 3
   events:
+    - name: "[Day 3: Pre-arrival videos, corresponding slides, & annotated code](https://sicss.io/curriculum) [(Takeaway Sheet)](https://docs.google.com/document/d/1BT4LUe6Pikzyenm4g211rNHMEzhu0C53LKNntIDFAdo/edit?usp=sharing)"
     - name: "9:00 - 10:00 R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "10:00 - 10:15 Logistics and introduction to group exercise (*Zoom*)"
     - name: "10:15 - 11:30 Extract Features from Tweets (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk (encouraged) (*Zoom*) OR R, Python, and STATA Office hours with Mathematica TAs (as needed) (*Zoom*)"
+    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk (encouraged) (*Zoom*) OR R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)
+      
+        - MODERATOR: TBA
+        
+        - Speaker TBA 
+        
+        - Speaker TBA 
+        
+        - Speaker TBA 
+        
+        - Speaker TBA"
+             
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 3:30 Predict Features of Tweets associated with Retweets and Produce Visualization (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
@@ -97,12 +147,13 @@
 - date: 2022-06-23
   name: Day 4
   events:
-    - name: "9:00 - 10:00 R, Python, and STATA Office hours with Mathematica TAs (as needed) (*Zoom*)"
+    - name: "[Day 4: Pre-arrival videos & corresponding slides](https://sicss.io/curriculum) [(Takeaway Sheet)](https://docs.google.com/document/d/13VMEezGWPVXdsS2QPZrBlZ6dVKeg8C7fCPV7qEc1RWY/edit?ts=60c51e86)"
+    - name: "9:00 - 10:00 R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "10:00 - 10:15 Logistics (*Zoom*)"
-    - name: "10:15 - 10:30 Introduction to the group exercise (*Zoom*)"
+    - name: "10:15 - 10:30 Introduction to the group exercise, Lesson plan (participants); Lesson plan (instructors) (*Zoom*)"
     - name: "10:30 - 11:30 Morning group exercise (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk (encouraged) (*Zoom*) OR R, Python, and STATA Office hours with Mathematica TAs (as needed) (*Zoom*)"
+    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk (encouraged) (*Zoom*) OR R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 3:00 Afternoon group exercise (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "3:00 - 3:15 Break"
@@ -113,16 +164,17 @@
 - date: 2022-06-24
   name: Day 5
   events:
-    - name: "9:00 - 10:00 R, Python, and STATA Office hours with Mathematica TAs (as needed) (*Zoom*)"
+    - name: "[Day 5: Pre-arrival videos & corresponding slides](https://sicss.io/curriculum) [(Takeaway Sheet)](https://docs.google.com/document/d/13aojCBDBCIpMhaNzlBcRCc1WPkVpaBx61Obx5qnbWQA/edit?usp=sharing)"
+    - name: "9:00 - 10:00 R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "10:00 - 10:15 Logistics (*Zoom*)"
     - name: "10:15 - 10:30 Introduction to the group exercise (*Zoom*)"
-    - name: "10:30 - 11:30 Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
+    - name: "10:30 - 11:30 Participate in SICSS-H/M mass collaboration activity (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk (encouraged) (*Zoom*)  OR R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)"
+    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk (encouraged) (*Zoom*) OR R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 3:00 Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
+    - name: "1:15 - 3:00 Continue participating in SICSS-H/M mass collaboration activity (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "3:00 - 3:15 Break"
-    - name: "3:15 - 3:30 Whole group debrief about group exercise (*Zoom*)"
+    - name: "3:15 - 3:30 Whole group debrief about SICSS-H/M mass collaboration activity (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
 
 
