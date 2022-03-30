@@ -57,7 +57,11 @@
     
     - [Systematic Delineation of Media Polarity on COVID-19 Vaccines in Africa: Computational Linguistic Modeling Study](https://doi.org/10.2196/22916)"
     
-    - name: "**10:30-12:00** Can a 280-character message explain stock returns? *Evidence from South Africa*"
+    - name: "**10:30-12:00** Can a 280-character message explain stock returns? *Evidence from South Africa.*
+    <br/> 
+    <br/> 
+    The role of investor sentiment in financial markets has been acknowledged in the literature. In particular, previous work suggests that noise traders are often driven by sentiment rather than fundamental information. This presentation will uncover the link between tweet features and market features using 140 South African companies and a dataset of firm-level Twitter messages extracted from Bloomberg from 1 January 2015 to 31 March 2020."
+    
     - name: "**12:00-13:00** Tutorials"
     - name: "**13:00-14:00** Lunch"
     - name: "**14:00-15:30** Invited Presentation"
