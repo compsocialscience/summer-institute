@@ -13,7 +13,9 @@ The SICSS-JIAS/IPATC instructional programme will involve lectures, group proble
 
 Participation is restricted to registered masters and doctoral students, postdoctoral researchers and researchers working outside of academia. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. Approximately 20 participants will be invited, and participants are expected to fully attend and participate in the entire three-week programme.
 
-**Application materials are due 11:59pm SAST (GMT+2) on Thursday, 31 March 2022.**
+**Application materials are due 11:59pm SAST (GMT+2) on ~~Thursday, 31 March, 2022~~**
+
+**Monday, 4 April, 2022.**
 
 Follow us on [twitter](https://twitter.com/sicss_jias) and
 [instagram](https://www.instagram.com/sicss.jias/).
