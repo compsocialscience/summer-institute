@@ -17,7 +17,7 @@ video_url: https://www.youtube.com/watch?v=IZG0iv7bdyM
 embed_url: https://www.youtube.com/embed/IZG0iv7bdyM
 materials:
  - title: "Slides + Code"
- - url: https://colab.research.google.com/drive/1_jvL1t9PA2dERKbEm9pCnBS0sbW7B1AW?usp=sharing
+   url: https://colab.research.google.com/drive/1_jvL1t9PA2dERKbEm9pCnBS0sbW7B1AW?usp=sharing
 resources:
 exercises:
 code:
