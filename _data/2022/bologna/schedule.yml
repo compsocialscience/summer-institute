@@ -1,3 +1,49 @@
-- date: 6 June 2022
+- date: All times are in Central Europe Time
+
+- date: 2022-06-06
+  name: Introduction and Ethics [online]
+  events:
+    - name: "9:30 - 10:00	Welcome & organization [F. Andreatta // G. Giacomello]"
+    - name: "10:00 - 10:45	Ethics (on line material)"
+    - name: "11:00 - 11:40	Presentation/Discussion/Exercise [Elena Esposito]"
+    - name: "11:45 - 14:00  Break/Lunch"
+    - name: "14:00 - 15:00	LAB - Intro-summary to R environment [1*TA] + Data linkage/merging in R [1*TA]"
+    - name: "15:30 - 16:30	TA Office hours [TA*2]" 
+
+- date: 2022-06-07
+  name: Collecting Digital Trace Data [online]
+  events:
+    - name: "10:00 - 10:45	Collecting Digital Trace Data" 
+    - name: "11:00 - 11:40	Presentation/Discussion/Exercise [Marco Albertini]"
+    - name: "11:45 - 14:00  Break/Lunch"
+    - name: "14:00 - 15:00	LAB Twitter scraping [1*TA] + Web scraping [1*TA]"
+    - name: "15:30 - 16:30	TA Office hours [TA*2]" 
+
+- date: 2022-06-08
+  name: Automated Text Analysis [online]
+  events:
+    - name: "10:00 - 10:45	Automated Text Analysis"
+    - name: "11:00 - 11:40	Presentation/Discussion/Exercise [Luca Pinto]"
+    - name: "11:45 - 14:00  Break/Lunch"
+    - name: "14:00 - 15:00	LAB Word Clouds with R [1*TA] + Topic modellling  [1*TA]"
+    - name: "15:30 - 16:30	TA Office hours [TA*2]" 
+
+- date: 2022-06-09
+  name: Surveys and Mass Collaboration in the Digital Age [online]
+  events:
+    - name: "10:00 - 10:45	Surveys and Mass Collaboration"
+    - name: "11:00 - 11:40	Presentation/Discussion/Exercise  [Oltion Preka]"
+    - name: "11:45 - 14:00  Break/Lunch"
+    - name: "14:00 - 15:00	LAB amazon Mturk exercise [1 TA]"
+    - name: "15:30 - 16:30	TA Office hours [TA*2]" 
+
+- date: 2022-06-10
+  name: Experiments [online]
+  events:
+    - name: "10:00 - 10:45	Experiments"
+    - name: "11:00 - 11:40	Presentation/Discussion/Exercise  [Chiara Binelli]"
+    - name: "Time to travel to Bologna!" 
+
+- date: 2022-06-13
   events:
     - name: "Schedule coming soon..."
