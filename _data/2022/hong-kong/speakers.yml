@@ -32,3 +32,9 @@
   image: /assets/images/KaYuetLiu.jpeg
   bio: "Ka-Yuet Liu is an associate professor of sociology at UCLA. She received her D.Phil in Sociology from Nuffield College, University of Oxford. Her research applies data science methods and social network analysis to epidemiological questions. Her major test cases are the diffusion of health conditions that people don't typically associate with network processes."
   website: https://sites.google.com/view/kayuet-liu
+  
+
+- name: Zachary C. Steinert-Threlkeld
+  image: /assets/images/Steinert-Threlkeld.jpeg
+  bio: "Zachary C. Steinert-Threlkeld is an assistant professor of Public Policy at the UCLA Luskin School of Public Affairs. He received his Ph.D. in political science from UC San Diego in 2016. studies protest dynamics using natural language processing, computer vision, and large-scale simulations. He has studied protests around the world, including Arab Spring, protests in East Asia, and South America."
+  website: https://zacharyst.com/
