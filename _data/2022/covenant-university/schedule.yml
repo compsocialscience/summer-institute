@@ -5,8 +5,8 @@
 
 - date: 2022-06-20
   events:
-    - name: "**09:00-11:30** Opening Ceremony"
-    - name: "**11:30-12:15** Introduction to Computational Social Science<br/>"
+    - name: "**09:00-11:00** Opening Ceremony"
+    - name: "**11:00-12:15** Introduction to Computational Social Science<br/>"
     - name: "**12:15-13:00** Panel Discussion <br/> Computer Science meets Social science"
     - name: "**13:00-14:00** Lunch"
     - name: "**14:00-15:30** Invited Presentations"
@@ -78,6 +78,8 @@
     Required Readings:
     
     - [Using search queries to understand health information needs in Africa](https://ojs.aaai.org/index.php/ICWSM/article/view/3360)
+    
+    - [COVID-19 Misinformation Spread in Eight Countries: Exponential Growth Modeling Study](https://doi.org/10.2196/24425)
 
     - [Searching for HIV and AIDS health information in South Africa, 2004-2019: Analysis of Google and Wikipedia search trends](https://doi.org/10.2196/29819)
 
