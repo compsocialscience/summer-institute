@@ -11,7 +11,7 @@ image: /assets/images/howard.jpg
 
 ---
 <u>Celebrating Black History Month With SICSS-Howard/Mathematica</u>
-<br><font color="grey"><font size="2">March 4, 2022</font></font> 
+<br><font color="grey"><font size="2">Mar 4, 2022</font></font> 
 <br><i><font size = "2">Sage Publishing spotlights the work of SICSS-Howard/Mathematica 2021, the first Summer Institute in Computational Social Science held at a Historically Black College or University, for Black History Month.</font></i>
 <br><font size = "1">(Posted by <a href="https://email.sagepub.com/optiext/optiextension.dll?ID=4AB4ByPGb5ZEYx9FKkCuL9ct64Df1oOsYBdb5UiL9W09btBOXMLi_ncznLOp4aZzoOhNCrHHvq9AcoB6ny8MrJRJPUnOP">Sage Methodspace</a>)</font>
 
@@ -70,3 +70,7 @@ image: /assets/images/howard.jpg
 </p>
 <font size = "1">(Posted by <a href="https://twitter.com/sicss_howard">SICSS-H/M</a>)</font>
 
+<br><u>Inside an Initiative to Diversify the Field of Computational Social Science</u>
+<br><font color="grey"><font size="2">Oct 13, 2021</font></font> 
+<br><i><font size = "2">This episode of On the Evidence focuses on a creative initiative designed to build a more diverse pipeline of researchers who use methods and tools from data science and social science. Earlier this year, Howard University and Mathematica sponsored a free, two-week training for graduate students, postdoctoral researchers, and beginning faculty in the fields of data science and social science. The training was part of a broader instructional program held at 20 sites across the globe called the Summer Institutes in Computational Social Science (SICSS). The Howard-Mathematica SICSS was unique in that it was the first site to be hosted by a historically Black college or university (Howard) and the first to focus on anti-Black racism and inequity.</font></i>
+<br><font size = "1">(Posted by <a href="https://www.google.com/url?q=https://www.mathematica.org/blogs/inside-an-initiative-to-diversify-the-field-of-computational-social-science&sa=D&source=docs&ust=1649015890937659&usg=AOvVaw2BHTyEQ5_r0rL2l29BQ7yJ">Mathematica</a>)</font>
