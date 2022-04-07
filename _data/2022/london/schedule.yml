@@ -4,9 +4,9 @@
 
 - date: 2022-06-13
   name: "Introduction and Ethics"
-  name: "Location - ICBS Room LTG"
-  name: "Faculty Leader - Michael Yeomans"
   events:
+    - name: "Location - ICBS Room LTG"
+    - name: "Faculty Leader - Michael Yeomans"
     - name: "9:00  - 10:00 Welcome and breakfast"
     - name: "10:00 - 11:00 Introduction and logistics"
     - name: "11:00 - 12:00 Small group breakouts"
@@ -17,9 +17,9 @@
 
 - date: 2022-06-14
   name: "Collecting Digital Trace Data"
-  name: "Location - ICBS Room LTUG"
-  name: "Faculty Leader - Joshua Becker & Nicola Perra"
   events:
+    - name: "Location - ICBS Room LTUG"
+    - name: "Faculty Leader - Joshua Becker & Nicola Perra"
     - name: "9:00  - 10:00 Welcome and breakfast"
     - name: "10:00 - 12:00 Code Tutorial - APIs and Web Scraping"
     - name: "12:00 - 1:00  Break for Lunch (provided)"
@@ -28,9 +28,9 @@
 
 - date: 2022-06-15
   name: "Text as Data"
-  name: "Location - ICBS Room LTG"
-  name: "Faculty Leader - Michael Yeomans"
   events:
+    - name: "Location - ICBS Room LTG"
+    - name: "Faculty Leader - Michael Yeomans"
     - name: "9:00  - 10:00 Welcome and breakfast"
     - name: "10:00 - 12:00 Code tutorial - Extracting Features from Text"
     - name: "12:00 - 1:00  Break for Lunch (provided)"
@@ -39,9 +39,9 @@
 
  - date: 2022-06-16
   name: "Surveys in a Digital Age"
-  name: "Location - ICBS Room LTG"
-  name: "Faculty Leader - Joshua Becker"
   events:
+    - name: "Location - ICBS Room LTG"
+    - name: "Faculty Leader - Joshua Becker"
     - name: "9:00  - 10:00 Welcome and breakfast"
     - name: "10:00 - 11:00 Tutorial on prolific"
     - name: "11:00 - 12:00 Survey design and launch"
@@ -52,9 +52,9 @@
 
 - date: 2022-06-17
   name: "Network analysis"
-  name: "Location - ICBS Room LTUG"
-  name: "Faculty Leader - Nicola Perra"
   events:
+    - name: "Location - ICBS Room LTUG"
+    - name: "Faculty Leader - Nicola Perra"
     - name: "9:00 - 10:00 Welcome and breakfast"
     - name: "10:00 - 12:00 Code tutorial - Modeling contagion with networks"
     - name: "12:00 - 1:00 Break for Lunch (provided)"
@@ -63,9 +63,9 @@
 
 - date: 2022-06-20
   name: "Project Group Formation"
-  name: "Location - ICBS Room LTG"
-  name: "Faculty Leader - Michael Yeomans & Joshua Becker"
   events:
+    - name: "Location - ICBS Room LTG"
+    - name: "Faculty Leader - Michael Yeomans & Joshua Becker"
     - name: "9:00  - 10:00 Welcome and breakfast"
     - name: "10:00 - 12:00 Project Group Introductions and Topic Brainstorming"
     - name: "12:00 - 1:00  Break for Lunch (provided)"
@@ -74,9 +74,9 @@
 
 - date: 2022-06-21
   name: "Project Group Work Days"
-  name: "Location - ICBS Room LTUG"
-  name: "Faculty Leader - Michael Yeomans & Joshua Becker"
   events:
+    - name: "Location - ICBS Room LTUG"
+    - name: "Faculty Leader - Michael Yeomans & Joshua Becker"
     - name: "9:00  - 10:00 Welcome and breakfast"
     - name: "10:00 - 12:00 Project Group Breakouts"
     - name: "12:00 - 1:00  Break for Lunch (provided)"
@@ -86,9 +86,9 @@
 
 - date: 2022-06-22
   name: "Project Group Work Days"
-  name: "Location - ICBS Room LG19B"
-  name: "Faculty Leader - Michael Yeomans & Joshua Becker"
   events:
+    - name: "Location - ICBS Room LG19B"
+    - name: "Faculty Leader - Michael Yeomans & Joshua Becker"
     - name: "9:00  - 10:00 Welcome and breakfast"
     - name: "10:00 - 11:00 Project Group Breakouts"
     - name: "11:00 - 12:00 Student-led methods tutorials (encouraged) "
@@ -98,9 +98,9 @@
 
 - date: 2022-06-23
   name: "Project Group Work Days"
-  name: "Location - ICBS Room LTG"
-  name: "Faculty Leader - Michael Yeomans & Joshua Becker"
   events:
+    - name: "Location - ICBS Room LTG"
+    - name: "Faculty Leader - Michael Yeomans & Joshua Becker"
     - name: "9:00  - 10:00 Welcome and breakfast"
     - name: "10:00 - 11:00 Project Group Breakouts"
     - name: "11:00 - 12:00 Student-led methods tutorials (encouraged) "
@@ -110,9 +110,9 @@
 
 - date: 2022-06-24
   name: "Final Presentation Day"
-  name: "Location - ICBS Room LTUG"
-  name: "Faculty Leader - Michael Yeomans & Joshua Becker"
   events:
+    - name: "Location - ICBS Room LTUG"
+    - name: "Faculty Leader - Michael Yeomans & Joshua Becker"
     - name: "9:00  - 10:00 Welcome and breakfast"
     - name: "10:00 - 12:00 Project Group Breakouts"
     - name: "12:00 - 1:00  Break for Lunch (provided)"
