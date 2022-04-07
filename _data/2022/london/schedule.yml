@@ -24,9 +24,8 @@
     - name: "9:00  - 10:00 Welcome and breakfast"
     - name: "10:00 - 12:00 Code Tutorial - APIs and Web Scraping"
     - name: "12:00 - 1:00  Break for Lunch (provided)"
-    - name: "1:00  - 3:00  Small group exercise - scraping "
-    - name: "3:00  - 4:00  Ethics Case Study - whole group debrief & discussion"
-    - name: "4:00  - 5:00  Tutorial - Ethics in machine learning"
+    - name: "1:00  - 4:00  Small group exercise - scraping hackathon"
+    - name: "4:00  - 5:00  Hackathon group presentations"
 
 - date: 2022-06-15
   name: "Text as Data"
@@ -40,7 +39,7 @@
     - name: "4:00  - 5:00  Hackathon group presentations"
 
  - date: 2022-06-16
-  name: "Online Experiments"
+  name: "Surveys in a Digital Age"
   name: "Location - ICBS Room LTG"
   name: "Faculty Leader - Joshua Becker"
   events:
@@ -53,7 +52,7 @@
     - name: "4:00  - 5:00  Survey results group presentations"
 
 - date: 2022-06-17
-  name: "Online Experiments"
+  name: "Network analysis"
   name: "Location - ICBS Room LTUG"
   name: "Faculty Leader - Nicola Perra"
   events:
