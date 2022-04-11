@@ -27,7 +27,10 @@ closing:
 speakers: 
   title: Guest Speakers 
   people:
-    - name: Coming soon...
+    - name: Kyla McMullen, Ph.D.
+      image: /assets/images/Kyla_McMullen.png
+      bio: "Dr. Kyla McMullen earned her Bachelor of Science in Computer Science from the University of Maryland, Baltimore County (UMBC), where she was also a Meyerhoff Scholar.  She earned her Masters and Ph.D. degrees in Computer Science and Engineering from the University of Michigan (2007-2012)."
+      website: http://kylamcmullen.com/
 
 roundtable discussions:
   title: '"Real Talk" Roundtable Discussions'
