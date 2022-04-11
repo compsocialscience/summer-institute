@@ -1,3 +1,11 @@
+---
+layout: location_detail
+partner_site: taiwan
+travel: true
+title: Contact Us
+
+---
+
 You can find us through the following social media
 - [YouTube](https://www.youtube.com/channel/UCZbU6pmPftz0iJWrAltSssw)
 - [Facebook](https://www.facebook.com/SICSSTaiwan)
