@@ -32,7 +32,7 @@
   name: Surveys and Mass Collaboration in the Digital Age [online]
   events:
     - name: "10:00 - 10:45	Surveys and Mass Collaboration"
-    - name: "11:00 - 11:40	Presentation/Discussion/Exercise  [Oltion Preka]"
+    - name: "11:00 - 11:40	Presentation/Discussion/Exercise  [Luca Pinto]"
     - name: "11:45 - 14:00  Break/Lunch"
     - name: "14:00 - 15:00	LAB amazon Mturk exercise [1 TA]"
     - name: "15:30 - 16:30	TA Office hours [TA*2]" 
@@ -45,5 +45,38 @@
     - name: "Time to travel to Bologna!" 
 
 - date: 2022-06-13
+  name: Student Presentations and Guest Lectures [in person at UNIBO]
   events:
-    - name: "Schedule coming soon..."
+    - name: "10:00 - 12:15/:30	Student Project Presentations [x3]"
+    - name: "13:00 - 14:00  Brown Bag Lunch"
+    - name: "15:30 - 16:30	LAB - Small group work/Discussion on students' projects [3* TA + Marco Albertini]" 
+    - name: "16:30 - 18:30  Chris Albon - Machine Learning at Wikimedia"
+    - name: "20:30 - 00:00  Conference Dinner"
+    
+- date: 2022-06-14
+  name: Student Presentations and Guest Lectures [in person at UNIBO]
+  events:
+    - name: "10:00 - 12:15/:30	International Speaker [tba]"
+    - name: "13:00 - 14:00  Brown Bag Lunch"
+    - name: "14:00 - 15:30  Student Project Presentations [x3]"
+    - name: "15:30 - 16:30	LAB - Small group work/Discussion on students' projects [3* TA + Giampiero Giacomello]"
+    - name: "16:30 - 18:30  Rachel Tatman - Natural Language Processing"
+
+- date: 2022-06-15
+  name: Student Presentations and Guest Lectures [in person at UNIBO]
+  events:
+    - name: "10:00 - 12:15/:30	Felix Torpf - Big Data in Genomics"
+    - name: "13:00 - 14:00  Brown Bag Lunch"
+    - name: "14:00 - 15:30  Student Project Presentations [x3]"
+    - name: "15:30 - 16:30	LAB - Small group work/Discussion on students' projects [3* TA]"
+
+- date: 2022-06-16
+  name: Student Presentations and Guest Lectures [in person at UNIBO]
+  events:
+    - name: "10:00 - 12:15/:30	Annalisa Pelizza - University of Bologna"
+    - name: "13:00 - 14:00  Brown Bag Lunch"
+    - name: "14:00 - 15:30  Student Project Presentations [x3]"
+    - name: "15:30 - 16:30	LAB - Small group work/Discussion on students' projects [3* TA]"
+
+    
+    
