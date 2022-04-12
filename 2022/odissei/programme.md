@@ -18,7 +18,7 @@ Participants will need to develop their knowledge and skills in a relatively sho
 
 SICSS-ODISSEI will run from Monday 20 June to Friday 1 July 2022. Both weeks, from Monday to Friday, participants will learn about computational social science in-person in the Netherlands. The regular days of teaching will be at the campus of the Erasmus University of Rotterdam, Burgemeester Oudlaan 50. There may be some site visits to ODISSEI partners during the summer school, which will be confirmed at a later date. 
 
-During the first week, the following topics will be covered: Introduction to ODISSEI, Machine learning, Network Analysis, Benchmarking. 
+During the first week, the following topics will be covered: Introduction to ODISSEI, Machine learning, Network Analysis, Benchmarking. Please see the [schedule](https://sicss.io/2022/odissei/schedule) for more details. 
 
 In the second week of the summer school, participants will be able to make full use of the ODISSEI infrastructure through a full scale benchmarking challenge, during which they will be put into teams and challenged to work on and submit solutions to a real-life prediction problem that social scientists and policy makers are grappling with. An example topic would be to predict educational or labour market outcomes. For an example of such a social science benchmark that was organised a few years ago see the Fragile Families Challenge in the onboarding reading. 
 
