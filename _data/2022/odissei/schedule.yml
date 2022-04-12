@@ -1,3 +1,5 @@
+- date: Week 1
+
 - date: Monday June 20, 2022
   name: "Introduction to SICSS-ODISSEI"
   events:
@@ -30,7 +32,30 @@
     - name: "Speaker: [dr. Paulina Pankowska](https://research.vu.nl/en/persons/paulina-karolina-pankowska)"
     - name: "On Friday, the participants will have a social event and dinner together nearby. There is also the possibility of drinks afterward, for those who are interested."
     
-- date: "Second week: Monday June 27 to Friday July 1"
+- date: Saturday June 25, 2022
+  name: "Day off"   
+ 
+- date: Sunday June 26, 2022
+  name: "Day off" 
+
+- date: Week 2
   name: "Benchmarking challenge"
   event:
-    - name: "In the second week of the summer school, participants will be able to make full use of the ODISSEI infrastructure through a full scale benchmarking challenge, during which they will be put into teams and challenged to work on and submit solutions to a real-life prediction problem that social scientists and policy makers are grappling with. An example topic would be to predict educational or labour market outcomes. For an example of such a social science benchmark that was organised a few years ago see the Fragile Families Challenge in the onboarding reading."
+    - name: "In the second week of the summer school (June 27-July 1), participants will be able to make full use of the ODISSEI infrastructure through a full scale benchmarking challenge, during which they will be put into teams and challenged to work on and submit solutions to a real-life prediction problem that social scientists and policy makers are grappling with. An example topic would be to predict educational or labour market outcomes. For an example of such a social science benchmark that was organised a few years ago see the Fragile Families Challenge in the onboarding reading."
+    
+- date: Monday June 27, 2022
+  name: "Benchmarking challenge"
+ 
+- date: Tuesday June 28, 2022
+  name: "Benchmarking challenge"
+  
+- date: Wednesday June 29, 2022
+  name: "Benchmarking challenge"
+  
+- date: Thursday June 30, 2022
+  name: "Benchmarking challenge"
+  
+- date: Friday July 1, 2022
+  name: "Benchmarking challenge"
+  event:
+    - name: "On Friday 1 July, SICSS-ODISSEI will provide the participants with a closing dinner and drinks, for those who are interested."
