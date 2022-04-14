@@ -28,6 +28,7 @@ The whole Program is free of charge to our participants. We also offer subsidies
 
 Because we are committed to open and reproducible research, all materials created by faculty and our participants for SICSS Taiwan will be released open source.
 
+We welcome potential applicants to find partners to work on your project and apply as a group (組團報名).  Subject to our funding in 2022, we may provide childcare service for our participants. Please [contact us](mailto:sicss.taiwan.2021@gmail.com) for further details if you may need such service. 
 
 ## Conclusion
 
