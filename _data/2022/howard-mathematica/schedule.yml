@@ -7,27 +7,37 @@
     - name: "11:45 - 12:00 Break"
     - name: '12:00 - 1:00 "Personal Experiences of African Americans in the Academy" - Howard Faculty Roundtable (*Zoom*)
     
-     - MODERATOR: Naniette Coleman (SICSS-Princeton 2019, organizer of SICSS-Howard/Mathematica 2020-present)
+      - MODERATOR: Naniette Coleman (SICSS-Princeton 2019, organizer of SICSS-Howard/Mathematica 2020-present)
      
-     - Speaker TBA
+      - Speaker TBA
      
-     - Speaker TBA
+      - Speaker TBA
      
-     - Speaker TBA
+      - Speaker TBA
      
-     - Speaker TBA'
+      - Speaker TBA'
         
     - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 1:45 TBA (*Zoom*)"
-    - name: "1:45 - 2:00 Break"
-    - name: "2:00 - 5:00 R Workship (*Zoom*)"
+    - name: "1:15 - 2:15 TBA (*Zoom*)"
+    - name: "2:15 - 2:30 Break"
+    - name: "2:30 - 5:30 R Workship (*Zoom*)"
 
 
 - date: 2022-06-19
   name: Praxis to Power / Juneteenth
   events:
     - name: "10:00 - 11:00 Praxis to Power Day 2 Introduction and logistics (*Zoom*)"
-    - name: "11:00 - 2:00 Open Office Hours with Organizers (*Zoom*), or SICSS-Howard/Mathematica Exclusive Content Review (on your own), or Pre-Arrival Material Review (on your own)
+    - name: '11:00 - 12:00 SICSS-H/M 2021 Funded Alumni Research in Progress Panel
+    
+      - MODERATOR: Naniette Coleman (SICSS-Princeton 2019, organizer of SICSS-Howard/Mathematica 2020-present)
+        
+      - Speaker "The Impact of Masks on Assessments of Facial Expressions of Pain" - Troy Dildine, Regina Ebo, Yondu Mori, Rashun Miles
+        
+      - Speaker TBA "Global Crowns: Emotions Surrounding Natural Hair of Black Women around the Globe" - Nicole Jenkins, Yash Tadimalla
+        
+      - Speaker TBA "Pre-service Sentiment: Analyzing Transcripts from a Student Avatar Experiment in Classroom Management Simulations" - Todd Hall, Vivian Wong'
+        
+    - name: "12:00 - 2:00 Open Office Hours with Organizers (*Zoom*), or SICSS-Howard/Mathematica Exclusive Content Review (on your own), or Pre-Arrival Material Review (on your own)
     
    
           **Review Pre-arrival materials**
@@ -63,14 +73,20 @@
                
                - Uncovering New Keys to Countering Anti-Black Racism and Inequity Using Computational Social Science, [SAGE Ocean blog](https://ocean.sagepub.com/blog/diversity/uncovering-new-keys-to-countering-anti-black-racism-and-inequity-using-computational-social-science)
                
-               - The Future of Computational Social Science is Black: Welcome to SICSS-Howard/Mathematica 2021, [Sage Methodspace blog](https://www.methodspace.com/blog/tag/The+Future+of+Computational+Social+Science+is+Black)
+               - The Future of Computational Social Science is Black: Welcome to SICSS-Howard/Mathematica 2021, [SAGE Methodspace blog](https://www.methodspace.com/blog/tag/The+Future+of+Computational+Social+Science+is+Black)
                
                - Inside an Initiative to Diversify the Field of Computational Social Science, [On the Evidence: A Mathematica Podcast](https://www.mathematica.org/blogs/inside-an-initiative-to-diversify-the-field-of-computational-social-science)
                
-               - A lack of diversity in research and analytics is not just unethical — it is dangerous by Wayne A.I. Frederick and Paul Decker, [OP-ED](https://hechingerreport.org/opinion-a-lack-of-diversity-in-research-and-analytics-is-not-just-unethical-it-is-dangerous/)"
+               - A lack of diversity in research and analytics is not just unethical — it is dangerous by Wayne A.I. Frederick and Paul Decker, [Heckinger Report OP-ED](https://hechingerreport.org/opinion-a-lack-of-diversity-in-research-and-analytics-is-not-just-unethical-it-is-dangerous/)
+               
+               - Reimagining Social Institutions: Higher Education, an SSRC and SAGE publishing panel moderated by Alondra Nelson, Ph.D. [(video)](https://youtu.be/PdsdS4wnaG4)
+
+               - Black in AI, board member panel [(video)](https://youtu.be/uUyNd3yjTv8)
+               
+               - Building the Public Interest Technology by Jenny Toomey & Latanya Sweeney, [Stanford Social Innovation Review](https://ssir.org/articles/entry/building_the_public_interest_technology_infrastructure_of_the_future#)"
+               
           
     - name: "2:00 - 5:00 R Workshop (*Zoom*)" 
-    - name: "5:00 - 5:15 Break"
 
   
 - date: 2022-06-20
@@ -99,6 +115,7 @@
     - name: "2:45 - 3:15 Whole group debrief about case study (*Zoom*)"
     - name: "3:15 - 3:45 Debrief and logistics (*Zoom*)"
     - name: "3:45 - 4:00 Introduction to new SICSS-Howard/Mathematica site project"
+    - name: "4:00 - 4:15 Break"
 
   
 - date: 2022-06-21
@@ -124,18 +141,7 @@
     - name: "10:00 - 10:15 Logistics and introduction to group exercise (*Zoom*)"
     - name: "10:15 - 11:30 Extract Features from Tweets (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk (encouraged) (*Zoom*) OR R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)
-      
-        - MODERATOR: TBA
-        
-        - Speaker TBA 
-        
-        - Speaker TBA 
-        
-        - Speaker TBA 
-        
-        - Speaker TBA"
-             
+    - name: "12:00 - 1:00 TBA"        
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 3:30 Predict Features of Tweets associated with Retweets and Produce Visualization (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
@@ -216,7 +222,18 @@
     - name: "Mathematica TAs are available via email for consultation (please see Slack)"
     - name: "10:00 - 10:30 Logistics (*Zoom*)"
     - name: "10:30 - 12:00 Work on group projects (*Zoom*)"
-    - name: "12:00 - 1:00 Live Mathematica Roundtable (encouraged) (*Zoom*)"
+    - name: "12:00 - 1:00 Live Mathematica Roundtable (encouraged) (*Zoom*)
+        
+        - MODERATOR: TBA
+        
+        - Speaker TBA
+        
+        - Speaker TBA
+        
+        - Speaker TBA
+        
+        - Speaker TBA"
+        
     - name: "1:00 - 4:00 Work on group projects (*Zoom*)"
     - name: '4:00 - 5:30 Kyla McMullen, Ph.D., Assistant Professor, University of Florida, "Using Uncommon data to understand society and its people" - LIVE session to include Q&A and office hour (*Zoom*)'
 
