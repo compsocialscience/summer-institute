@@ -62,7 +62,11 @@
     <br/> 
     The role of investor sentiment in financial markets has been acknowledged in the literature. In particular, previous work suggests that noise traders are often driven by sentiment rather than fundamental information. This presentation will uncover the link between tweet features and market features using 140 South African companies and a dataset of firm-level Twitter messages extracted from Bloomberg from 1 January 2015 to 31 March 2020."
     
-    - name: "**12:00-13:00** Tutorials"
+    - name: "**12:00-13:00** Tutorials
+    
+     - An Introduction to Text Analysis <a href='https://www.youtube.com/watch?v=pLsC4UyzX_U' target='_blank'>Watch video on Youtube</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/intro-text-analysis/Rpres/Introduction_to_Text_as%20Data.html' target='_blank'>Slides</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/intro-text-analysis/rmarkdown/Introduction_to_Text_Analysis.html' target='_blank'>Annotated Code</a>    
+    
+    "
     - name: "**13:00-14:00** Lunch"
     - name: "**14:00-15:30** Invited Presentation"
     - name: "**15:30-18:00** Group Exercises"
