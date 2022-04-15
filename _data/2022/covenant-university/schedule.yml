@@ -68,7 +68,9 @@
      
      - Text Analysis Basics <a href='https://www.youtube.com/watch?v=TAlO-5NJB7I' target='_blank'>Watch video on Youtube</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/basic-text-analysis/Rpres/Basic_Text_Analysis.html' target='_blank'>Slides</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/basic-text-analysis/rmarkdown/Basic_Text_Analysis_in_R.html' target='_blank'>Annotated Code</a>    
      
-     - Dictionary-Based Text Analysis <a href='https://www.youtube.com/watch?v=wSIi2ZRKjaE' target='_blank'>Watch video on Youtube</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/dictionary-methods/Rpres/Dictionary_Based_Analysis.html' target='_blank'>Slides</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/dictionary-methods/rmarkdown/Dictionary-Based_Text_Analysis.html' target='_blank'>Annotated Code</a>"
+     - Dictionary-Based Text Analysis <a href='https://www.youtube.com/watch?v=wSIi2ZRKjaE' target='_blank'>Watch video on Youtube</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/dictionary-methods/Rpres/Dictionary_Based_Analysis.html' target='_blank'>Slides</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/dictionary-methods/rmarkdown/Dictionary-Based_Text_Analysis.html' target='_blank'>Annotated Code</a>    
+     
+     - Topic Models <a href='https://www.youtube.com/watch?v=IUAHUEy1V0Q' target='_blank'>Watch video on Youtube</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/topic-modeling/Rpres/Topic_Modeling.html' target='_blank'>Slides</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/topic-modeling/rmarkdown/Topic_Modeling.html' target='_blank'>Annotated Code</a>"
      
     - name: "**13:00-14:00** Lunch"
     - name: "**14:00-15:30** Invited Presentation"
@@ -118,7 +120,9 @@
     
     - <a href='https://doi.org/10.1016/j.ssmph.2021.100836' target='_blank'>A scoping review on the use of machine learning in research on social determinants of health: Trends and research prospects</a>
     
-    - <a href='https://journals.sagepub.com/doi/abs/10.1177/0886260520960110' target='_blank'>Predicting the vulnerability of women to intimate partner violence in South Africa: Evidence from tree-based machine learning techniques</a>"
+    - <a href='https://journals.sagepub.com/doi/abs/10.1177/0886260520960110' target='_blank'>Predicting the vulnerability of women to intimate partner violence in South Africa: Evidence from tree-based machine learning techniques</a>
+    
+    - <a href='https://www.youtube.com/watch?v=j8fJGV17Hcg' target='_blank'>Survey Research in the Digital Age</a>, <a href='https://www.youtube.com/watch?v=SLAi9v5CCnM' target='_blank'>Probability and Non-Probability Sampling</a>, <a href='https://www.youtube.com/watch?v=_vecQs7aB6o' target='_blank'>Combining Surveys and Big Data</a>, <a href='https://www.youtube.com/watch?v=cYyu5Ex0twE' target='_blank'>Moving Beyond Simple Experiments</a>"
      
     - name: "**10:30-12:00** Social Survey meets Online Survey || Machine Learning."
     - name: "**12:00-13:00** Tutorials"
