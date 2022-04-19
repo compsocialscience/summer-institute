@@ -22,7 +22,7 @@ PM (SAST) on ~~Thursday, 31 March, 2022~~ Monday, 4 April, 2022.** All applicati
 submitted through the [The SICSS-JIAS Application
 Form](https://docs.google.com/forms/d/e/1FAIpQLSeuJFRwAotssskdPaVLY3xeepCC-D6PySONvV3vy_PGUSn8ig/viewform?usp=sf_link).
 Applications that are not complete by the deadline may not receive full consideration. We will
-notify applicants solely through email by end of April 2022, and will ask participants to confirm their participation very soon thereafter.
+notify applicants solely through email before end of April 2022, and will ask participants to confirm their participation very soon thereafter.
 Inquiries can be sent to sicss.jias@gmail.com.
 
 ## Application Frequently Asked Questions
