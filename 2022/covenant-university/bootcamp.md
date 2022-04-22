@@ -1,7 +1,7 @@
 ---
 layout: location_detail
 partner_site: covenant-university
-schedule: true
+bootcamp: true
 ---
 
 # Coding Bootcamp
