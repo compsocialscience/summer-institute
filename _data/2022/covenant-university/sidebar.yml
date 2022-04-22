@@ -1,12 +1,12 @@
 - name: Apply
   url: "apply"
-- name: Info
-  url: "pre_arrival"
-- name: Pre-arrival
-  url: "coding_bootcamp"
 - name: Travel
   url: "travel"
+- name: Pre-arrival
+  url: "pre_arrival"
+- name: Coding Bootcamp Schedule
+  url: "coding_bootcamp"
+- name: Program Schedule & Materials
+  url: "schedule"
 - name: People
   url: "people"
-- name: Schedule & Materials
-  url: "schedule"
