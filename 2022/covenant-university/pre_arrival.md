@@ -8,8 +8,8 @@ partner_site: covenant-university
 The Summer Institute will bring together people from many fields and backgrounds. In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS-Covenant 2022.
 
 - [Complete the pre-institute readings](#reading)
-- Complete coding bootcamp
-- Prepare your computing environment
+- [Complete coding bootcamp](#coding-boot-camp)
+- [Prepare your computing environment](#computing-environment)
 
 TAs will host office hours through Slack and GoogleMeet to support you as you work through these pre-arrival materials.
 
