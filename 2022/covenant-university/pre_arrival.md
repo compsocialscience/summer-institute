@@ -8,7 +8,7 @@ partner_site: covenant-university
 The Summer Institute will bring together people from many fields and backgrounds. In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS-Covenant 2022.
 
 - Complete the pre-institute readings
-- Complete coding bootcamp (if needed)
+- Complete coding bootcamp
 - Prepare your computing environment
 
 TAs will host office hours through Slack and GoogleMeet to support you as you work through these pre-arrival materials.
@@ -21,7 +21,17 @@ In order to prepare for SICSS-Covenant 2022, you should read Matt Salganik’s b
 
 The [SICSS Boot Camp](https://sicss.io/boot_camp) is an online training program created by Chris Bail to provide you with beginner-level skills in coding so that you can follow the more advanced curriculum we teach at SICSS. The videos and materials are designed for complete beginners and are best viewed as a sequence since each video builds upon content introduced in previous tutorials. If you are already familiar with the topics in these videos, you do not need to complete them.
 
-If you would like more practice after completing the Boot Camp videos, we highly recommend that you complete a set of courses on the R programming on DataCamp before the Institute. We have received generous support from <a href="https://www.datacamp.com/" target="_blank">DataCamp</a> to access over 360 interactive courses through <a href="https://datacamp.com/groups/education/" target="_blank">DataCamp for the Classroom</a>. DataCamp’s learn-by-doing methodology combines short expert videos and hands-on-the-keyboard exercises to help learners retain knowledge. DataCamp offers 350+ courses by expert instructors on topics such as importing data, data visualization, and machine learning. They’re constantly expanding their curriculum to keep up with the latest technology trends and to provide the best learning experience for all skill levels.
+If you are less familiar with R programming, we also highly recommend that you complete a set of courses on the R programming on DataCamp before the Institute. We have received generous support from <a href="https://www.datacamp.com/" target="_blank">DataCamp</a> to access over 360 interactive courses through <a href="https://datacamp.com/groups/education/" target="_blank">DataCamp for the Classroom</a>. DataCamp’s learn-by-doing methodology combines short expert videos and hands-on-the-keyboard exercises to help learners retain knowledge. DataCamp offers 350+ courses by expert instructors on topics such as importing data, data visualization, and machine learning. They’re constantly expanding their curriculum to keep up with the latest technology trends and to provide the best learning experience for all skill levels.
+
+#### Week 1 - Introduction to R programming (April 25 - May 8, 2022)
+
+
+#### Week 1 - Data management and wrangling in R (May 9 - May 15, 2022)
+
+#### Week 1 - Data visualisations with R (May 16 - May 22, 2022)
+
+#### Week 4 - Tidy data analysis with `tidyverse` (May 23 - May 29, 2022)
+
 
 Other materials that we can recommend are:
 - [RStudio Primers](https://rstudio.cloud/learn/primers), which can be supplemented by the open access book _[R for Data Science](https://r4ds.had.co.nz/)_ by Garrett Grolemund and Hadley Wickham
@@ -34,16 +44,16 @@ Please note that most of the coding work presented at SICSS-Covenant will employ
 
 ## Computing environment
 
-### R
+#### R
 
 Some of the activities will require coding, and we will support R. You are welcome to use other languages, but we cannot guarantee that we can support them. Before SICSS, you should install a modern, stable-release version of [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/).
 
 
-### Slack
+#### Slack
 
 Before participating at SICSS-Covenant 2022, you should have an account in the SICSS 2022 Slack workspace. If you have not used Slack before, you should review these [getting started](https://slack.com/help/categories/360000049043-Getting-started) materials. Slack can be hard to use at first, but we’ve found that it is the best way to enable everyone to collaborate.
 
-### GitHub
+#### GitHub
 
 Many participants at SICSS use GitHub to collaborate. If you do not yet have one, you should [create a GitHub account](https://github.com/join). If you are a student, we recommend that you apply for a [GitHub Student Developer Pack](https://education.github.com/pack).
 
