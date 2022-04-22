@@ -5,7 +5,7 @@
 - name: Pre-arrival
   url: "pre_arrival"
 - name: Bootcamp Schedule
-  url: "coding_bootcamp"
+  url: "bootcamp"
 - name: Program Schedule & Materials
   url: "schedule"
 - name: People
