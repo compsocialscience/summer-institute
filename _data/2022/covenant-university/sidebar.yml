@@ -4,7 +4,7 @@
   url: "travel"
 - name: Pre-arrival
   url: "pre_arrival"
-- name: Coding Bootcamp Schedule
+- name: Bootcamp Schedule
   url: "coding_bootcamp"
 - name: Program Schedule & Materials
   url: "schedule"
