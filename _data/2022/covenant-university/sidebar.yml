@@ -1,7 +1,9 @@
 - name: Apply
   url: "apply"
-- name: Pre-arrival
+- name: Info
   url: "pre_arrival"
+- name: Pre-arrival
+  url: "coding_bootcamp"
 - name: Travel
   url: "travel"
 - name: People
