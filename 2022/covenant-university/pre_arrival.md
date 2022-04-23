@@ -57,7 +57,7 @@ If you are less familiar with R programming, we also highly recommend that you c
 - Working with Data in the `tidyverse`
 - Categorical Data in the `tidyverse`
 
-     **Relevant reading:** R for Data Science _(<a href='https://r4ds.had.co.nz/tidy-data.html' target='_blank'>chapter 12</a>)_
+  **Relevant reading:** R for Data Science _(<a href='https://r4ds.had.co.nz/tidy-data.html' target='_blank'>chapter 12</a>)_
 
 Other materials that we can recommend are:
 - [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
