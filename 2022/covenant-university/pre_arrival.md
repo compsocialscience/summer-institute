@@ -23,33 +23,30 @@ The [SICSS Boot Camp](https://sicss.io/boot_camp) is an online training program 
 
 If you are less familiar with R programming, we also highly recommend that you complete a set of courses on the R programming on DataCamp before the Institute. We have received generous support from <a href="https://www.datacamp.com/" target="_blank">DataCamp</a> to access over 360 interactive courses through <a href="https://datacamp.com/groups/education/" target="_blank">DataCamp for the Classroom</a>. DataCamp’s learn-by-doing methodology combines short expert videos and hands-on-the-keyboard exercises to help learners retain knowledge. DataCamp offers 350+ courses by expert instructors on topics such as importing data, data visualization, and machine learning. They’re constantly expanding their curriculum to keep up with the latest technology trends and to provide the best learning experience for all skill levels.
 
-##### **Week 1 - Introduction to R programming (April 25 - May 8, 2022)**
+##### Week 1 - Introduction to R programming (April 25 - May 8, 2022)
 
 - Introduction to R
 - Introduction to Importing Data in R
 - Intermediate Importing Data in R
 - Introduction to Statistics in R
 
-##### **Week 2 - Data management and wrangling in R (May 9 - May 15, 2022)**
+##### Week 2 - Data management and wrangling in R (May 9 - May 15, 2022)
 
 - Cleaning Data in R
 - Programming with `dplyr`
 - Data Manipulation with `dplyr`
 - Joining Data with `dplyr`
 
-##### **Week 3 - Data visualisations with R (May 16 - May 22, 2022)**
+##### Week 3 - Data visualisations with R (May 16 - May 22, 2022)
 
 - Data Visualization in R
 - Introduction to Data Visualization with `ggplot2`
 - Intermediate Data Visualization with `ggplot2`
 - Visualization Best Practices in R
 
-    **Relevant reading:** 
+    **Relevant reading:** R for Stata Users _(chapters 14-16, pages 311-436)_, R for Data Science _( <a href='https://r4ds.had.co.nz/data-visualisation.html' target='_blank'>chapter 3</a>)_
 
-    - R for Stata Users, _Chapters 14-16 (pages 311-436)_
-    - R for Data Science, _<a href='https://r4ds.had.co.nz/data-visualisation.html' target='_blank'>Chapter 3</a>_
-
-##### **Week 4 - Tidy data analysis with `tidyverse` (May 23 - May 29, 2022)**
+##### Week 4 - Tidy data analysis with `tidyverse` (May 23 - May 29, 2022)
 
 - Introduction to the `tidyverse`
 - Communicating with Data in the `tidyverse`
