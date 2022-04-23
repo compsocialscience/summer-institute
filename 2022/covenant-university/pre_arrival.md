@@ -30,13 +30,17 @@ If you are less familiar with R programming, we also highly recommend that you c
 - Intermediate Importing Data in R
 - Introduction to Statistics in R
 
+    **Relevant reading:** R for Stata Users _(chapters 1-6, pages 1-116)_, R for Data Science _(<a href='https://r4ds.had.co.nz/data-import.html' target='_blank'>chapter 11</a>)_
+
 ##### Week 2 - Data management and wrangling in R (May 9 - May 15, 2022)
 
 - Cleaning Data in R
 - Programming with `dplyr`
 - Data Manipulation with `dplyr`
 - Joining Data with `dplyr`
-
+ 
+    **Relevant reading:** R for Stata Users _(chapters 7-12, pages 119-286)_, R for Data Science _(<a href='https://r4ds.had.co.nz/transform.html' target='_blank'>chapter 5</a>)_
+    
 ##### Week 3 - Data visualisations with R (May 16 - May 22, 2022)
 
 - Data Visualization in R
@@ -44,7 +48,7 @@ If you are less familiar with R programming, we also highly recommend that you c
 - Intermediate Data Visualization with `ggplot2`
 - Visualization Best Practices in R
 
-    **Relevant reading:** R for Stata Users _(chapters 14-16, pages 311-436)_, R for Data Science _( <a href='https://r4ds.had.co.nz/data-visualisation.html' target='_blank'>chapter 3</a>)_
+    **Relevant reading:** R for Stata Users _(chapters 14-16, pages 311-436)_, R for Data Science _(<a href='https://r4ds.had.co.nz/data-visualisation.html' target='_blank'>chapter 3</a>)_
 
 ##### Week 4 - Tidy data analysis with `tidyverse` (May 23 - May 29, 2022)
 
@@ -52,6 +56,8 @@ If you are less familiar with R programming, we also highly recommend that you c
 - Communicating with Data in the `tidyverse`
 - Working with Data in the `tidyverse`
 - Categorical Data in the `tidyverse`
+
+     **Relevant reading:** R for Data Science _(<a href='https://r4ds.had.co.nz/tidy-data.html' target='_blank'>chapter 12</a>)_
 
 Other materials that we can recommend are:
 - [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
