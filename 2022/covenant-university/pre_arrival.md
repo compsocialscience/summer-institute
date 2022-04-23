@@ -35,7 +35,7 @@ If you are less familiar with R programming, we also highly recommend that you c
 - Cleaning Data in R
 - Programming with `dplyr`
 - Data Manipulation with `dplyr`
-- Joining Data with dplyr
+- Joining Data with `dplyr`
 
 #### Week 3 - Data visualisations with R (May 16 - May 22, 2022)
 
