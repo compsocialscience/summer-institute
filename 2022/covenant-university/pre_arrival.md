@@ -47,7 +47,7 @@ If you are less familiar with R programming, we also highly recommend that you c
 **Relevant reading:** 
 
 - R for Stata Users, _Chapters 14-16 (pages 311-436)_
-- R for Data Science, _<a href='https://r4ds.had.co.nz/data-visualisation.html' target='_blank'>Chapter 3</a>
+- R for Data Science, _<a href='https://r4ds.had.co.nz/data-visualisation.html' target='_blank'>Chapter 3</a>_
 
 #### Week 4 - Tidy data analysis with `tidyverse` (May 23 - May 29, 2022)
 
