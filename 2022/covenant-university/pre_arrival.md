@@ -49,12 +49,12 @@ If you are less familiar with R programming, we also highly recommend that you c
 - R for Stata Users, _Chapters 14-16 (pages 311-436)_
 - R for Data Science, _<a href='https://r4ds.had.co.nz/data-visualisation.html' target='_blank'>Chapter 3</a>_
 
-#### Week 4 - Tidy data analysis with `tidyverse` (May 23 - May 29, 2022)
+##### Week 4 - Tidy data analysis with `tidyverse` (May 23 - May 29, 2022)
 
-- Introduction to the `Tidyverse`
-- Communicating with Data in the `Tidyverse`
-- Working with Data in the `Tidyverse`
-- Categorical Data in the `Tidyverse`
+- Introduction to the `tidyverse`
+- Communicating with Data in the `tidyverse`
+- Working with Data in the `tidyverse`
+- Categorical Data in the `tidyverse`
 
 Other materials that we can recommend are:
 - [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
