@@ -3,7 +3,9 @@
   bio: "Matti Nelimarkka leads the Helsinki Social Computing Group, an interdisciplinary group examining both computers and society. They explore digital democracy and politics in the digital era as well as computational techniques in social sciences, especially workflows and connections between social science theories and code. He is affiliated with the Faculty of Social Science, University of Helsinki, Department of Computer Science, Aalto University and Futurice, a Finnish software consultancy. He is about to publish a new computational social science text book Coding Social Science via SAGE Publishing."
   website: http://me.mante.li
 
-
+- name: Armin Sauermann
+  image: /assets/images/armin_sauermann.jpeg
+  bio: "Armin Sauermann is a researcher at the WZB Berlin Social Science Center. He recently completed his Sociology Masters at the University of Potsdam and will pursue his PhD. Armin analyzes large-scale observational data and is learning to collect and analyze internet-based data to study group processes and political extremism."
 
 - name: Jan Sodoge
   image: /assests/images/jan_sodoge.jpg
