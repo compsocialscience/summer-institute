@@ -27,9 +27,12 @@ opening:
    
    
 keynote:
-  title: SICSS-Howard/Mathematica 2022 Keynote Speaker 
+  title: SICSS-Howard/Mathematica 2022 Keynote Speakers 
   people:
-    - name: Coming soon...
+    - name: Safiya Umoja Noble, Ph.D.
+      image: /assets/images/Safiya_Noble.jpeg
+      bio: 'Dr. Safiya U. Noble is an internet studies scholar and Professor of Gender Studies and African American Studies at the University of California, Los Angeles (UCLA) where she serves as the Co-Founder and Faculty Director of the UCLA Center for Critical Internet Inquiry (C2i2). She holds affiliations in the School of Education & Information Studies, and is a Research Associate at the Oxford Internet Institute at the University of Oxford where she is a Commissioner on the Oxford Commission on AI & Good Governance (OxCAIGG). In 2021, she was recognized as a MacArthur Foundation Fellow (also known as the "Genius Award") for her ground-breaking work on algorithmic discrimination. In 2022, she was recognized as the inaugural NAACP-Archewell Digital Civil Rights Award recipient. Dr. Noble is a board member of the Cyber Civil Rights Initiative, serving those vulnerable to online harassment, and the Joint Center for Political and Economic Studies, the nation’s oldest Black think tank. She is the author of a best-selling book on racist and sexist algorithmic bias in commercial search engines, entitled Algorithms of Oppression: How Search Engines Reinforce Racism (NYU Press), which has been widely-reviewed in scholarly and popular publications.'
+      website: https://safiyaunoble.com/
 
 
 closing:
