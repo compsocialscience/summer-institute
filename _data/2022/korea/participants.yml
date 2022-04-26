@@ -34,6 +34,10 @@
   image: /assets/images/haoyun_lee.png
   bio: Hao-Yun Lee is a master’s student at the Graduate School of Culture Technology, KAIST. Her research interests lie in the field of user research. She received her bachelor's degree in industrial design from National Cheng Kung University, Taiwan.
 
+- name: JinTae Bae
+  image: /assets/images/jintae_bae.png
+  bio: JinTae Bae is a Master’s student in sociology at Korea University. His key research interest involves the interdisciplinary dialogue between cultural sociology and computational social science, geared towards investigating the cultural environment by leveraging novel computational methods and data. In his current thesis project, he is exploring the dynamics of collective depression narratives in an online mental health forum in the course of COVID-19 with various text analytic and network measures. Furthermore, he is also actively seeking how new computational methods provide opportunities in bridging the qualitative and quantitative social science paradigms
+  
 - name: Jennifer (Jung Min) Noh 
   image: /assets/images/jennifer_noh.png
   bio: Jennifer Noh is a PhD candidate at the Department of Psychiatry, University of Cambridge. Her PhD research focuses on the development of a mobile health-tracking system which can assess and predict the health and wellbeing of people with intellectual disabilities. ​To achieve this,  she aims to collate and analyse different sets of physiological and psychosocial data obtained from both smartphones and wearable wrist sensors. Before starting her PhD, she received her bachelor’s degree at York University (Canada) and master's degree from University College London (UK).
@@ -41,6 +45,10 @@
 - name: Wenyuan (Sophia) Lu 
   image: /assets/images/wenyuan_lu.JPG
   bio: Wenyuan (Sophia) Lu is the second-year global master student, KDI School of public policy and management/ Evans Public policy School, University of Washington.  Her research interests lie in economics history, labor economics and development economics. The current research topics focus on economics history about gender, human capital and early industrialization. She desires to utilize more computational science knowledge to solve the problems in the historical data collection and historical newspaper text analysis.
+
+- name: Ha Eun Choi
+  image: /assets/images/haeun_choi.png  
+  bio: Ha Eun is a PhD student in Political Science at Michigan State University. Her main research interests include gender and trade, public opinion on trade and economic policies, and international organizations. She is interested in using and learning more about computational methods including network and text analysis to understand the interdependencies and networks of various political actors as well as the diffusion of gender-related trade and economic policies across countries. 
 
 - name: Kadir Jun Ayhan 
   image: /assets/images/kadir_ayhan.png
