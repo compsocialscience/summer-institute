@@ -33,15 +33,15 @@
   bio: "Ahmet is a PhD student in Political Science at University of Rochester. He is interested in electoral politics, polarization,  public opinion and social media research. In his MA thesis he studied the relationship between electoral district magnitude and party system size in Europe and Turkey. Prior to his PhD, he studied Political Science and History at Bogazici (BA) and Sabanci (MA) Universities in Turkey."
   website: https://www.linkedin.com/in/a-arif-gunaydin-56971b1b8/
   
-- name: "Angel Hwang"
-  image: /assets/images/angel_hwang.jpeg
-  bio: "Angel Hsing-Chi Hwang’s research explores the role of emerging technology in the future of (team)work, culture, and human creativity. Through both quantitative and qualitative methods, she investigates how AI-empowered tools enhance innovation and team synergy at large scale on various platforms (e.g., virtual and mixed reality, text-based communication, and video chats), while addressing common challenges faced by marginalized individuals. "
-  website: https://angelhwang.github.io/
-  
 - name: "Pei-Hsun Hsieh"
   image: /assets/images/pei_hsun_hsieh.jpeg
   bio: "Pei-Hsun is a Ph.D. candidate in political science at Stony Brook University. His research interests lie at the boundary of political economy, political behavior, and political psychology. His research focuses on how social preferences and beliefs affect collective decision-making, collective actions (e.g., mitigating public health crises and climate change), and redistributive policies. He uses a variety of methods, including experiments, machine learning, and agent-based modeling. His dissertation explores how people make tradeoffs between other people’s freedoms and what is best for society overall."
   website: https://phsieh.com/
+  
+- name: "Angel Hwang"
+  image: /assets/images/angel_hwang.jpeg
+  bio: "Angel Hsing-Chi Hwang’s research explores the role of emerging technology in the future of (team)work, culture, and human creativity. Through both quantitative and qualitative methods, she investigates how AI-empowered tools enhance innovation and team synergy at large scale on various platforms (e.g., virtual and mixed reality, text-based communication, and video chats), while addressing common challenges faced by marginalized individuals. "
+  website: https://angelhwang.github.io/
   
 - name: "Arsal Imtiaz"
   image: /assets/images/arsal_imtiaz.jpeg
