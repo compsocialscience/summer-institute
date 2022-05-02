@@ -18,7 +18,7 @@
       - Speaker TBA'
         
     - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 2:15 TBA (*Zoom*)"
+    - name: "1:15 - 2:15 A Discussion of *Black Faces in High Spaces* with authors Dr. Randal Pinkett and Dr. Jeffrey Robinson (*Zoom*)"
     - name: "2:15 - 2:30 Break"
     - name: "2:30 - 5:30 R Workship (*Zoom*)"
 
@@ -31,11 +31,11 @@
     
       - MODERATOR: Naniette Coleman (SICSS-Princeton 2019, organizer of SICSS-Howard/Mathematica 2020-present)
         
-      - Speaker "The Impact of Masks on Assessments of Facial Expressions of Pain" - Troy Dildine, Regina Ebo, Yondu Mori, Rashun Miles
+      - Speaker: "The Impact of Masks on Assessments of Facial Expressions of Pain" - Troy Dildine, Regina Ebo, Yondu Mori, Rashun Miles
         
-      - Speaker TBA "Global Crowns: Emotions Surrounding Natural Hair of Black Women around the Globe" - Nicole Jenkins, Yash Tadimalla
+      - "Global Crowns: Emotions Surrounding Natural Hair of Black Women around the Globe" - Nicole Jenkins, Yash Tadimalla
         
-      - Speaker TBA "Pre-service Sentiment: Analyzing Transcripts from a Student Avatar Experiment in Classroom Management Simulations" - Todd Hall, Vivian Wong'
+      - "Pre-service Sentiment: Analyzing Transcripts from a Student Avatar Experiment in Classroom Management Simulations" - Todd Hall, Vivian Wong'
         
     - name: "12:00 - 2:00 Open Office Hours with Organizers (*Zoom*), or SICSS-Howard/Mathematica Exclusive Content Review (on your own), or Pre-Arrival Material Review (on your own)
     
@@ -126,7 +126,7 @@
     - name: "10:00 - 10:15 Logistics and introduction to group exercise (*Zoom*)"
     - name: "10:15 - 11:30 Identify a Research Question with Digital Trace Data (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk (*Zoom*) OR R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)"
+    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk (encouraged) (*Zoom*) OR R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 2:30 Develop a Sampling Frame (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "2:30 - 3:30 Populate the Sampling Frame with Screen-Scraping (*Zoom*)"
@@ -222,18 +222,7 @@
     - name: "Mathematica TAs are available via email for consultation (please see Slack)"
     - name: "10:00 - 10:30 Logistics (*Zoom*)"
     - name: "10:30 - 12:00 Work on group projects (*Zoom*)"
-    - name: "12:00 - 1:00 Live Mathematica Roundtable (encouraged) (*Zoom*)
-        
-        - MODERATOR: TBA
-        
-        - Speaker TBA
-        
-        - Speaker TBA
-        
-        - Speaker TBA
-        
-        - Speaker TBA"
-        
+    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk (encouraged) (*Zoom*)"  
     - name: "1:00 - 4:00 Work on group projects (*Zoom*)"
     - name: '4:00 - 5:30 Kyla McMullen, Ph.D., Assistant Professor, Computer Science, University of Florida, "Using Uncommon data to understand society and its people" - LIVE session to include Q&A and office hour (*Zoom*)'
 
