@@ -67,11 +67,16 @@
   image: /assets/images/caio_malaquias.png
   bio: "Caio Malaquias is a masters student in Political Science at Federal University of Pernambuco (Brazil). Caio is interested in using analytical frameworks and methodologies to evaluate and suggest decision-making processes, specially in public policies. He works on data collection and analysis and utilizes quantitative methods to create evidence-based decisions in public policies as well as to study conflict/coalitional dynamics, especially in multiparty presidentialism in Latin America."
   website: https://caiomalaquias.github.io/
-  
+ 
 - name: "Miguel Novo Villar"
   image: /assets/images/miguel_novo_villar.jpeg
   bio: "I am a retired student-athlete at the University of Rochester studying a master's in Data Science and graduating in December 2022. I am Spanish native from Aviles, Asturias and I completed a Bachelor in Computer Information Systems at Delta State University (MS). Among different, I am interested in GIS as I did a minor in Geospatial Systems and Intelligence and I will be interning at ESRI over the summer. Some topics that attract my attention in GIS are smart cities and sociopolitics."
   website: https://www.linkedin.com/in/miguelnovovillar/
+  
+- name: "Duy Pham"
+  image: /assets/images/duy_pham.jpeg
+  bio: "Duy Pham is a recent graduate at the University of Rochester - majoring in Data Science, Mathematics, and Economics. He seeks to apply Machine Learning methods in forecasting complex economic indicators and financial assets."
+  website: https://www.linkedin.com/in/duy-pham-a8386719b/
   
 - name: "Kepler Palacio-Soto"
   image: /assets/images/kepler_palacio_soto.jpeg
