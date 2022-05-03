@@ -5,7 +5,7 @@
   events: 
     - name: "10:00 - 11:45 Welcome, Praxis to Power Day 1 Introduction and logistics (*Zoom*)"
     - name: "11:45 - 12:00 Break"
-    - name: '12:00 - 1:00 "Personal Experiences of African Americans in the Academy" - Howard Faculty Roundtable (*Zoom*)
+    - name: '12:00 - 1:00 LIVE "Personal Experiences of African Americans in the Academy" - Howard Faculty Roundtable (*Zoom*)
     
       - MODERATOR: Naniette Coleman (SICSS-Princeton 2019, organizer of SICSS-Howard/Mathematica 2020-present)
      
@@ -97,7 +97,7 @@
     - name: "10:00 - 10:30 Institute Introduction and logistics (*Zoom*)"
     - name: "10:30 - 11:30 Small group discussions (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: '12:00 - 1:00 "Getting the most out of your SICSS experience" - Roundtable discussion with SICSS alums of color (*Zoom*) OR R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)
+    - name: '12:00 - 1:00 LIVE "Getting the most out of your SICSS experience" - Roundtable discussion with SICSS alums of color (*Zoom*) OR R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)
     
         - MODERATOR: Naniette Coleman (SICSS-Princeton 2019, organizer of SICSS-Howard/Mathematica 2020-present)
         
@@ -156,7 +156,12 @@
     - name: "10:15 - 10:30 Introduction to the group exercise, Lesson plan (participants); Lesson plan (instructors) (*Zoom*)"
     - name: "10:30 - 11:30 Morning group exercise (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk (encouraged) (*Zoom*) OR R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)"
+    - name: "12:00 - 1:00 BCT Partners Bite-Sized Lunchtime Talk (encouraged) (*Zoom*) OR R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)
+    
+        - [Dr. Randal Pinkett Chief Executive Officer, BCT Partners](https://www.bctpartners.com/about)
+        
+        - [Pete York, Chief Data Scientist, BCT Partners](https://www.bctpartners.com/about)"
+        
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 3:00 Afternoon group exercise (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "3:00 - 3:15 Break"
@@ -173,7 +178,12 @@
     - name: "10:15 - 10:30 Introduction to the group exercise (*Zoom*)"
     - name: "10:30 - 11:30 Participate in SICSS-H/M mass collaboration activity (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk (encouraged) (*Zoom*) OR R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)"
+    - name: "12:00 - 1:00 Research Data Management Team (UC Berkeley) Bite-Sized Lunchtime Talk (encouraged) (*Zoom*) OR R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)
+    
+        - [Anna Sackmann, Science Data & Engineering Librarian, UC Berkeley](https://researchdata.berkeley.edu/people/anna-sackmann)
+        
+        - [Erin D Foster, Service Lead, Research Data Management, UC Berkeley  Program](https://researchdata.berkeley.edu/people/erin-foster)"
+        
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 3:00 Continue participating in SICSS-H/M mass collaboration activity (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "3:00 - 3:15 Break"
@@ -196,7 +206,16 @@
     - name: '10:00 - 11:30 SICSS-Africa + African Descendents Inaugural Joint Panel: "Interrogating Data Collection Methods Focused on African and African Descendents Around the World: Problems, Realities, And Future Opportunities" (*Zoom*)'
     - name: "11:30 - 11:45 Break"
     - name: "11:45 - 12:00 Logistics and Research Speed Dating Logistics (*Zoom*)"
-    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk (encouraged) (*Zoom*)"
+    - name: "12:00 - 1:00 MITRE Bite-Sized Lunchtime Talk (encouraged) (*Zoom*)
+    
+        - Speaker TBA
+        
+        - Speaker TBA
+        
+        - Speaker TBA
+        
+        - Speaker TBA"
+        
     - name: "1:00 - 2:00 Round 1-6 (ten minutes each) (*Zoom*)"
     - name: "2:00 - 2:15 Break"
     - name: "2:15 - 3:15 Round 7-12 (*Zoom*)"
@@ -211,7 +230,20 @@
     - name: "Mathematica TAs are available via email for consultation (please see Slack)"
     - name: "10:00 - 10:15 Logistics (*Zoom*)"
     - name: "10:15 - 12:00 Work on group projects (*Zoom*)"
-    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk (encouraged) (*Zoom*)"
+    - name: '12:00 - 1:00 New Frontiers in Research and Technology: "The Future of Research and Equity in the Metaverse" Panel (encouraged) (*Zoom*)
+        
+        - MODERATOR: Naniette Coleman (SICSS-Princeton 2019, organizer of SICSS-Howard/Mathematica 2020-present)
+        
+        - Speaker TBA
+        
+        - Speaker TBA
+        
+        - Speaker TBA
+        
+        - Speaker TBA
+        
+        - Speaker TBA'
+        
     - name: "1:00 - 4:00 Work on group projects (*Zoom*)"
     - name: '4:00 - 5:30 Brandeis Marshall, Ph.D., Professor, Computer Science, Spelman University, "Data Conscience: Algorithmic Siege on Our Humanity" - LIVE session to include Q&A and office hour (*Zoom*)'
     
@@ -233,7 +265,10 @@
     - name: "Mathematica TAs are available via email for consultation (please see Slack)"
     - name: "10:00 - 10:30 Logistics (*Zoom*)"
     - name: "10:30 - 12:00 Work on group projects (*Zoom*)"
-    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk (encouraged) (*Zoom*)"
+    - name: "12:00 - 1:00 Office of Planning and Analysis (UC Berkeley) Bite-Sized Lunchtime Talk (encouraged) (*Zoom*)
+    
+        - [Lisa Garcia-Bedolla, Vice Provost for Graduate Studies and Dean of the Graduate Division, and a Professor in the Graduate School of Education](https://gse.berkeley.edu/lisa-garc%C3%ADa-bedolla)"
+        
     - name: "1:00 - 4:00 Work on group projects (*Zoom*)"
     - name: "4:00 - 5:30 Shawndra Hill, Ph.D., Senior lecturer, Marketing, Columbia Business School & Principal Scientist at Facebook in the Core Data Science Team, (Title TBA) - LIVE session to include Q&A and office hour (*Zoom*)"
     
