@@ -73,16 +73,16 @@
   bio: "I am a retired student-athlete at the University of Rochester studying a master's in Data Science and graduating in December 2022. I am Spanish native from Aviles, Asturias and I completed a Bachelor in Computer Information Systems at Delta State University (MS). Among different, I am interested in GIS as I did a minor in Geospatial Systems and Intelligence and I will be interning at ESRI over the summer. Some topics that attract my attention in GIS are smart cities and sociopolitics."
   website: https://www.linkedin.com/in/miguelnovovillar/
   
+- name: "Kepler Palacio-Soto"
+  image: /assets/images/kepler_palacio_soto.jpeg
+  bio: "Kepler Palacio-Soto is a third-year undergraduate at the University of Rochester pursuing a BS in Brain & Cognitive Sciences. His principal research interests include the neural correlates of social cognition and psychopathology, but he is also interested in leveraging big datasets for insights about social interactions, public mental health, and cultural dissolution. Currently, Kepler helps wrangle and analyze data for an ongoing study exploring the efficacy of varied cognitive reappraisal strategies in improving cardiovascular responses to social stress."
+  website: https://www.linkedin.com/in/kepler-palacio-soto-90192b1ab/
+ 
 - name: "Duy Pham"
   image: /assets/images/duy_pham.png
   bio: "Duy Pham is a recent graduate at the University of Rochester - majoring in Data Science, Mathematics, and Economics. He seeks to apply Machine Learning methods in forecasting complex economic indicators and financial assets."
   website: https://www.linkedin.com/in/duy-pham-a8386719b/
   
-- name: "Kepler Palacio-Soto"
-  image: /assets/images/kepler_palacio_soto.jpeg
-  bio: "Kepler Palacio-Soto is a third-year undergraduate at the University of Rochester pursuing a BS in Brain & Cognitive Sciences. His principal research interests include the neural correlates of social cognition and psychopathology, but he is also interested in leveraging big datasets for insights about social interactions, public mental health, and cultural dissolution. Currently, Kepler helps wrangle and analyze data for an ongoing study exploring the efficacy of varied cognitive reappraisal strategies in improving cardiovascular responses to social stress."
-  website: https://www.linkedin.com/in/kepler-palacio-soto-90192b1ab/
-    
 - name: "Xixi Xiao"
   image: /assets/images/xixi_xiao.png
   bio: "I’m a PhD student in accounting at the University of Rochester. I am broadly interested in the effects of information transfer on real decisions, the effect of information intermediaries on capital markets and firm behavior, and managerial learning."
