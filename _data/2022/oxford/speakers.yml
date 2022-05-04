@@ -27,3 +27,8 @@
   image: /assets/images/Andrew_Stephen.jpg
   bio: "Andrew is a leading academic voice on the future of the marketing, media, and advertising industries. He has a particular interest in issues that lie at the intersections of marketing, consumer behaviour, and technology—particularly artificial intelligence. He is a strong proponent of the use of data-centric, analytics-enabled, evidence-based approaches to marketing practice. His research over the last decade has made significant contributions to our understandings of digital marketing, social media, and advertising. For this work, he’s regularly recognised by the American Marketing Association as one of the top marketing academics in the world, and the N1 in the UK. He’s also been featured as one of the top 40 business school professors under 40 by Poets and Quants (in 2015) and has won numerous awards for research excellence."
   website: https://www.sbs.ox.ac.uk/about-us/people/andrew-stephen
+ 
+- name: Lena Voita
+  image: /assets/images/lena_voita_pic_sicss.jpg
+  bio: "Elena (Lena) Voita is a final-year PhD student at the University of Edinburgh supported by the Facebook PhD Fellowship award. Her research is mostly focused on understanding how neural networks learn to process natural language. Previously, Lena was a research scientist at Yandex Research and worked side by side with the Yandex Translate team. She also teaches NLP at the Yandex School of Data Analysis; the extended public version of (a part of) this course is available at [NLP Course For You](https://lena-voita.github.io/nlp_course.html)"
+  website: https://lena-voita.github.io/
