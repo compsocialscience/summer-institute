@@ -22,6 +22,11 @@
   image: /assets/images/yumingfang.png
   bio: "Yuming Fang is a third-year PhD student in the Hubbard School of Journalism and Mass Communication at the University of Minnesota. Her research interests are in health communication, specifically examining how individuals respond to health misinformation and misinformation correction interventions."
   website: https://twitter.com/yuming_fang/
+
+- name: Prasanna Humagain, Ph.D.
+  image: /assets/images/PrasannaHumagain.png
+  bio: "Prasanna Humagain is a postdoc research specialist at the Upper Great Plain Transportation Institute, NDSU. His research spans the areas of travel demand modeling, travel behavior, transportation planning, and tourists' behavior. He is also interested in understanding tourists' perceptions and informing planning & policy measures for sustainable development, as well as designing policies conducive to the physical and mental well-being of commuters." 
+  website: https://www.linkedin.com/in/prasanna-humagain-phd-b15585137/
   
 - name: Lei Jiang, Ph.D.
   image: /assets/images/leijiang.jpg
@@ -48,11 +53,6 @@
   bio: "Mir Rabby is a master’s student in the Department of Communication at North Dakota State University. His research interest lies in organizational and small group communication, such as anonymity, social influence, and group processes. He aims to employ computational methods (e.g., text mining) for analysis of interactional data."
   website: https://www.ndsu.edu/communication/about/masters_gtas/ 
   
-- name: Hao Xu
-  image: /assets/images/HaoXu.jpg
-  bio: "Hao Xu is a PhD Candidate in Hubbard School of Journalism and Mass Communication at the University of Minnesota and an incoming Lecturer in Marketing Communications in the School of Culture and Communication at the University of Melbourne, Australia. His research focuses on CSR communication, corporate social advocacy, and social media analytics."
-  website: https://twitter.com/_Hao_Xu/
-  
 - name: Michael Vosburg
   image: /assets/images/michaelvosburg.jpeg
   bio: "Michael Vosburg is a PhD student at North Dakota State University's Department of Communication. He has taught and practiced photojournalism in four states for more than 30 years. His research interest lies in visual communication. He hopes to develop concepts and theory about effects of visual communication."
@@ -62,5 +62,14 @@
   image: /assets/images/Kurtwilliam.jpg
   bio: "Kurt Williams is a STEM education researcher interested in improving educational equity by leveraging data for evidence-based policymaking. He is currently a PhD candidate in STEM Education at North Dakota State University and formerly an intern in the U.S. Department of Education Office of the Chief Data Officer."
   website: https://williakr.github.io/index.html
-  
+
+- name: Shuxi Wu
+  image: /assets/images/shuxi.jpg
+  bio: "Shuxi Wu is an M.A. student in the Asian Studies Program at the University of Oregon. Her disciplinary fields are anthropology and media studies, and her research interests are digital infrastructures in East Asia."
+  website: https://twitter.com/shuxiwu/
+ 
+ - name: Hao Xu
+  image: /assets/images/HaoXu.jpg
+  bio: "Hao Xu is a PhD Candidate in Hubbard School of Journalism and Mass Communication at the University of Minnesota and an incoming Lecturer in Marketing Communications in the School of Culture and Communication at the University of Melbourne, Australia. His research focuses on CSR communication, corporate social advocacy, and social media analytics."
+  website: https://twitter.com/_Hao_Xu/
   
