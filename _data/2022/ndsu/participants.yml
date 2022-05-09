@@ -1,1 +1,66 @@
-- name:
+- name: Maral Abdollahi
+  image: /assets/images/MaralAbdollahi.png
+  bio: "Maral Abdollahi is a doctoral candidate at the Hubbard School of Journalism and Mass Communication at the University of Minnesota. She has a master's degree from the University of Vienna. Maral studies consumers' perceptions and responses regarding virtual influencers. She is passionate about advertising, emerging technologies, and consumer psychology."
+  website: https://www.linkedin.com/in/maral-a-7a448797/
+
+- name: Jamie M. Chen, Ph.D.
+  image: /assets/images/jamiechen.png
+  bio: "Jamie M. Chen is from Department of Management and Marketing at North Dakota State University’s College of Business. With a Ph.D. degree in regional economics, Jamie has built an expertise in service management and digital marketing innovations. Her future research would focus on social media data mining (e.g., content analysis) to develop new business models."
+  website: https://www.researchgate.net/profile/Jamie-Chen-2/
+  
+- name: Emmanuel M. Dadzie
+  image: /assets/images/daz.JPG
+  bio: "Emmanuel Mylo Dadzie is a Ph.D. student in Communication at North Dakota State University.He aims at contributing to the realignment of democratic institutions in democracies indeveloping countries by researching the interaction of the communication of political actors,social psychology, and public policy. UNESCO WPF content development team member."
+  website: https://twitter.com/mylo_dadzie/
+
+- name: Jesse DeDeyne
+  image: /assets/images/JesseDeDeyne.jpeg
+  bio: "Jesse DeDeyne is a Ph.D. Candidate in Sociology at Baylor University in Waco, TX. His research interests include: religion (in particular Evangelical Protestants, and politically liberal Evangelical Protestants), politics (in particular split-ticket voting and disparate identities), and stratification at all levels. "
+  website: https://twitter.com/jessededeyne/
+  
+- name: Yuming Fang
+  image: /assets/images/yumingfang.png
+  bio: "Yuming Fang is a third-year PhD student in the Hubbard School of Journalism and Mass Communication at the University of Minnesota. Her research interests are in health communication, specifically examining how individuals respond to health misinformation and misinformation correction interventions."
+  website: https://twitter.com/yuming_fang/
+  
+- name: Lei Jiang, Ph.D.
+  image: /assets/images/leijiang.jpg
+  bio: "Lei Jiang is an assistant professor in the School of Education at North Dakota State University. His research interests focus on TESOL and bilingual education, educational leadership, and teacher education. His recent projects analyze both national large-scale data sets and ethnographic data to explore transnational students’ educational experiences, high school-to-college transition, and culturally sustaining school leadership."
+  website: https://twitter.com/LeiJiang01/
+  
+- name: Chetna Kuanr
+  image: /assets/images/ChetnaKuanr.jpg
+  bio: "Chetna Kuanr is a first year PhD student at Northeastern University's Department of Sociology. She holds an M.A in International Relations from The University of Chicago, an M.A in Political Science from Jawaharlal Nehru University and a B.A. in Economics (with honors) from University of Delhi. Substantively, her research focuses on examining the relationship between spatial and social boundaries to understand populism and social movements with a regional focus on South Asia. More broadly, she is interested in theories of urban sociology focused on the Global South and combining computational methods and machine learning with qualitative methods. Prior to entering the program, she worked as a Research Assistant for United Nations Development Programme, and The Chicago Center on Democracy."
+  website: https://cssh.northeastern.edu/student/chetna-kuanr/
+  
+- name: Wenhao Li
+  image: /assets/images/wenhaoli.png
+  bio: "Wenhao Li is an undergraduate senior at the University of Minnesota and an incoming graduate student of University of Chicago's computational social science master's program this fall. His research interests are the application of biostatistical methods to economics and the Developmental Dictatorship."
+  website: https://twitter.com/willlee62495429/
+
+- name: Loi A. Nguyen, Ph.D. 
+  image: /assets/images/LoiAnhNguyen.jpg
+  bio: "Loi A. Nguyen is an Assistant professor at Metropolitan State University. She holds a Ph.D. in Human Resource Development with a minor in Business Administration from University of Minnesota, Twin Cities. Her research has been published in books, and journals such as Management Learning, Journal of Economics and Development, Journal of Organisational Studies and Innovation."
+  website: https://sites.google.com/view/loi-anh-nguyen/home/
+  
+- name: Mir Rabby 
+  image: /assets/images/mirrabby.jpeg
+  bio: "Mir Rabby is a master’s student in the Department of Communication at North Dakota State University. His research interest lies in organizational and small group communication, such as anonymity, social influence, and group processes. He aims to employ computational methods (e.g., text mining) for analysis of interactional data."
+  website: https://www.ndsu.edu/communication/about/masters_gtas/ 
+  
+- name: Hao Xu
+  image: /assets/images/HaoXu.jpg
+  bio: "Hao Xu is a PhD Candidate in Hubbard School of Journalism and Mass Communication at the University of Minnesota and an incoming Lecturer in Marketing Communications in the School of Culture and Communication at the University of Melbourne, Australia. His research focuses on CSR communication, corporate social advocacy, and social media analytics."
+  website: https://twitter.com/_Hao_Xu/
+  
+- name: Michael Vosburg
+  image: /assets/images/michaelvosburg.jpeg
+  bio: "Michael Vosburg is a PhD student at North Dakota State University's Department of Communication. He has taught and practiced photojournalism in four states for more than 30 years. His research interest lies in visual communication. He hopes to develop concepts and theory about effects of visual communication."
+  website: https://twitter.com/michaelvosburg/
+
+- name: Kurt Williams
+  image: /assets/images/Kurtwilliam.jpg
+  bio: "Kurt Williams is a STEM education researcher interested in improving educational equity by leveraging data for evidence-based policymaking. He is currently a PhD candidate in STEM Education at North Dakota State University and formerly an intern in the U.S. Department of Education Office of the Chief Data Officer."
+  website: https://williakr.github.io/index.html/
+  
+  
