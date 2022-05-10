@@ -134,7 +134,12 @@ lunchtime talks:
       image: /assets/images/Harkness_AI.png
       bio: "The goal of harkness.ai is to improve interpersonal dynamics and communication in meetings whether they are hosted virtually or in person. Through machine learning algorithms and data visualization, we can empower facilitators to have better, more effective meetings that push the organization forward with confidence."
       website: https://www.harkness.ai/
-      
+    
+    - name: Just Tech program (SSRC)
+      image: /assets/images/Just_Tech.png
+      bio: "The Just Tech program foregrounds questions of power, justice, and the public impact of new technologies, investigating evidence of bias and harms while imagining and creating more just technological futures. Through the Just Tech Fellowship and digital platform, the program creates a new ecosystem of research and social engagement, one that enriches public discourse, informs public policy, and radically imagines just futures where social and public interests drive technological change, instead of the other way around."
+      website: https://www.ssrc.org/programs/just-tech/
+    
     - name: MITRE
       image: /assets/images/MITRE.png
       bio: "At MITRE, we solve problems for a safer world. Through our federally funded R&D centers and public-private partnerships, we work across government to tackle challenges to the safety, stability, and well-being of our nation."
