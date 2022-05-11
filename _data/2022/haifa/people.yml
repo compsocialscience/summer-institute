@@ -1,0 +1,58 @@
+faculty:
+  title: Organizers
+  people: 
+    - name: Baruch Eitam
+      bio: "Baruch Is a Professor of Psychology at the University of Haifa. His lab studies interactions between cognitive processes and reward/motivation in general. Key lines of research involve reinforcement from sensorimotor predictability and the mental prioritization of information by its relevance to the task at hand, as well as conscious perception. Before joining Haifa in mid-2011, Baruch attained his PhD at the Hebrew University (2009) and was a postdoctoral researcher at Columbia University (with Tory Higgins)."
+      image: /assets/images/Baruch_Eitam.jpg
+      website: https://sites.google.com/view/mcl-haifa/home
+
+    - name: Mor Peleg
+      bio: "Mor Peleg is Full Professor of information systems, Chair of the BSc Data Science program and head of the University of Haifa’s Data Science Center, former Chair of the Department of Information Systems. She is Editor-in-Chief of the Journal of Biomedical Informatics, Editorial Board Member of Methods of Information in Medicine and is International Fellow of the American College of Medical Informatics  and Fellow of the International Academy of Health Sciences Informatics." 
+      image: /assets/images/Mor2019-Maysq2.jpg
+      website: https://sites.google.com/hevra.haifa.ac.il/mpeleg
+      
+    - name: Pavel Goldstein
+      bio: "Pavel Goldstein is the Head of Integrative Pain (iPain) Laboratory, Head of MPH Biostatistics track at the School of Public Health, Social Welfare & Health Sciences Faculty, The University of Haifa.Pavel has completed Master's in Biostatistics and Ph.D. in Pain Neuroscience. In 2019 he founded the Integrative Pain Laboratory at the University of Haifa to gather a novel understanding of chronic pain conditions, developing new ways of measuring, preventing, and treating chronic pain. Pavel's research is essential for more than pure knowledge. Ultimately, his future research is driven by the need to integrate the academy and the industry. Providing data science consultations for medical device companies, academic researchers from multiple fields, and doctors, helped him to acquire a “common ground” between academic investigators, business representatives, and healthcare providers. When all parties see the advantage of combining the industrial drive to ‘get things done’ with clinical insights and the academic urge to ‘understand how it works’, the final outcomes improve significantly."
+      image: /assets/images/Goldstein_pavel.jpg
+      website: https://hw.haifa.ac.il/en/people/sph/pavel-goldstein
+
+    - name: Tali Kristal
+      bio: "Tali Kristal is Professor of Sociology at University of Haifa. The central focus of her research is on how and why positions in the economy such as organizations, industries, occupations, classes, and the relations between them, shape the evolution of economic inequality, and how these vary across time and countries."
+      image: /assets/images/Tali_Kristal.jpg
+      website: https://www.talikristal.com
+      
+    - name: Tamir Gadot
+      bio: "Tamir is the Administrative Manager of SICSS Haifa program and he is the Administrative Manager of DSRC – The University of Haifa’s Data Science Research Center and of CRI - Caesarea Rothschild Institute for Interdisciplinary Applications of Computer Science."
+      image: /assets/images/Tamir_Gadot.jpg
+      website: https://dsrc.haifa.ac.il 
+      
+speakers:
+  title: Teaching and project-tutoring staff
+  people:
+    - name: Amit Donner
+      bio: "I am currently completing my master’s degree in statistics at Haifa University. I have vast experience as a teaching assistant for a dozen courses in the university’s statistics department. These have varied from courses in probability and statistical theory to machine learning, statistical modeling and programming in Python and R. I also have experience helping social scientists to conceptualize, collect and analyze the statistical data they need for their research."
+      image: /assets/images/Amit_Donner.jpg
+      website:
+
+    - name: Igor Kleion
+      bio: "Research Areas: Queuing theory, Image processing."
+      image: /assets/images/Igor-kleiner.jpg
+      website: https://stat.hevra.haifa.ac.il/index.php/en/ph-d-students/igor-kleiner
+      
+    - name: Tomer Sidi
+      bio: "Research Areas: Machine Learning, Deep Learning, Computational Structural Biology."
+      image: /assets/images/Thomer-Sidi.jpg
+      website:
+
+Teaching Assistants:
+  title: Speakers
+  people:
+    - name: Dan Feldman
+      bio: "Director of the Robotics and Big Data Lab, and Senior Lecturer at the Computer Science Department University of Haifa."
+      image: /assets/images/Dan_Feldman.jpg
+      website: http://people.csail.mit.edu/dannyf
+
+    - name: Michael Friedman
+      bio: "I am an assistant professor (lecturer) in political science at the University of Haifa. Previously, I was a postdoctoral fellow at the Hebrew University. I have a PhD in political science, from the Massachusetts Institute of Technology (2019). I study religion and conflict in Israel and the Muslim world. My work combines big data approaches with experiments and in-depth interviews. My research has been published in multiple outlets including the American Sociological Review, Political Behavior, and the Journal of Conflict Resolution."
+      image: /assets/images/Michael_Freedman.jpg
+      website: http://mfreedman.mit.edu/

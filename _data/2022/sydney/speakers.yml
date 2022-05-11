@@ -8,6 +8,16 @@
   bio: "A/Prof Thompson works at the University of Melbourne’s Transport, Health and Urban Design (THUD) Research Laboratory within the Melbourne School of Design. Here, he focuses on the translation of research into practice across the areas of urban design, transportation safety, public health, post-injury rehabilitation, public policy, and health system design. His work has pioneered the use of agent-based models and computational social science in areas of traditional health and insurance system design, urban design, infectious disease, and transportation safety. A/Prof Thompson holds a PhD in Medicine, Masters in Clinical Psychology, and a Bachelor of Science with Honours and is a current Australian Research Council Discovery Early Career Award (DECRA) Fellow." 
   website: https://msd.unimelb.edu.au/about/our-people/academic/jason-thompson
 
+- name: Kate Lowrie
+  image: /assets/images/kate_lowrie.jpg
+  bio: "Kate Lowrie commenced her career in research ethics at The University of Queensland in 2008, before moving to Sydney where she worked at the Cancer Institute NSW and The Centre for Health Record Linkage (CHeReL). Kate has worked as a human ethics officer in the Research Portfolio at The University of Sydney since 2015. She has a particular interest in human research ethics as it applies to social media research and research in the mental health field."
+  website: https://www.sydney.edu.au/research/research-integrity-and-ethics.html
+  
+- name: Alan Hales
+  image: /assets/images/Alan_Hales.jpg
+  bio: "Alan Hales holds a Bachelor of Arts from the University of Newcastle and a Master of Management from Macquarie University.  After joining the University of Newcastle Research Division Alan held various research administration roles before securing the Manager, Research Compliance, Integrity and Policy position.  In this role Alan was responsible for human and animal ethics processes and was a senior advisor to the Human Research Ethics Committee and Animal Care and Ethics Committee for over ten years. Alan joined the University of Sydney as the Human Ethics Manager in 2021 and is the Chair of the HREC Executive while working closely with the University’s three human research ethics committees."
+  website: https://www.sydney.edu.au/research/research-integrity-and-ethics.html
+
 - name: Marian-Andrei Rizoiu
   image: /assets/images/Rizoiu.png
   bio: "Dr Marian-Andrei Rizoiu is a Senior Lecturer in Behavioral Data Science at the University of Technology Sydney. He is interested in stochastic behavioural modelling of human actions online, at the intersection of applied statistics, artificial intelligence and social data science. He leads the Behavioral Data Science lab, which studies human attention dynamics in the online environment, the emergence of influence and opinion polarisation. Marian-Andrei’s research has been funded by Facebook Research and Defence Science and Technology (DST). His work has appeared in the PNAS, PLOS ONE, PLOS Computations Biology, WWW, NeurIPS, IJCAI, and CIKM."

@@ -5,37 +5,97 @@ faculty:
       image: /assets/images/TerriAdams.jpg
       bio: "Terri Adams, Ph.D. is a Professor in the Department of Sociology and Criminology at Howard University, and she currently serves as the Associate Dean for Research with the Graduate School. Additionally, she serves as the Deputy Director of the NOAA Cooperative Science Center for Atmospheric Sciences and Meteorology (NCAS-M) at the university. In addition to her administrative duties, Dr. Adams’ conducts research that takes a multidisciplinary approach to examine issues that have both theoretical and practical implications. Her specific research interests include emergency management, policing, violence, and the impact of trauma and disasters on individuals and organizations. Her most recent work centers on the decision-making processes of both individuals and organizations in the face of crisis events. Her most recent publication, Policing in Disasters: Stress, Resilience, and the Challenges of Emergency Management is co-authored with Dr. Leigh Anderson."
       website: https://profiles.howard.edu/profile/41046/terri-adams
+   
+    - name: Naniette H. Coleman
+      image: /assets/images/NanietteHeadshot.jpeg
+      bio: "Naniette H. Coleman is a Ph.D. candidate in the Sociology Department at the University of California Berkeley and a UC-National Lab In-Residence Graduate Fellow at Los Alamos National Lab. Since 2016 Naniette has directed the AAC&U award winning Interdisciplinary Research Group on Privacy at Berkeley. Naniette is an affiliate of the Institute for the Study of Societal Issues, the Center for Long-term Cybersecurity, and the Center for Technology, Society, and Policy at Berkeley as well as the Belfer Center for Science and International Affairs, and Berkman-Klein Center for the Internet and Society at Harvard University. Naniette’s research sits at the intersection of the sociology of culture and organizations and focuses on cybersecurity, surveillance, and privacy in the US context. Specifically Naniette’s research examines how organizations assess risk, make decisions, and respond to data breaches and organizational compliance with state, federal, and international privacy laws.  Naniette holds a Master of Public Administration with a specialization in Democracy, Politics, and Institutions from the Harvard Kennedy School of Government, and both an M.A. in Economics and a B.A. in Communication from the University at Buffalo, SUNY.  A non-traditional student, Naniette’s prior professional experience includes local, state, and federal service, as well as work for two international organizations, and two universities."
+      website: http://naniettecoleman.com
+    
 
 opening:
   title: Opening Plenary Speaker 
   people:
-    - name: Coming soon...
-
+    - name: Wayne A. I. Frederick, M.D., MBA, F.A.C.S. 
+      image: /assets/images/WayneAIFrederick.jpeg
+      bio: "Dr. Wayne A. I. Frederick was appointed the seventeenth president of Howard University in 2014. He previously served as Provost and Chief Academic Officer.  Most recently, the Howard University Board of Trustees selected Dr. Frederick to serve as the distinguished Charles R. Drew Professor of Surgery. A distinguished scholar and administrator, Dr. Frederick has advanced Howard University's commitment to student opportunity, academic innovation, public service, and fiscal stability. Early in his tenure as president, Dr. Frederick pursued initiatives to streamline and strengthen university operations. He has overseen a series of reform efforts, including the expansion of academic offerings, establishing innovative programs to support student success and the modernization of university facilities. As an undergraduate, Dr. Frederick was admitted to Howard University's B.S./M.D. dual degree program. He completed the requirements for both degrees in six years, allowing him to earn his Bachelor of Science degree and his medical degree by the age of 22. He also earned a Master of Business Administration from Howard University's School of Business in 2011. Following his post-doctoral research and surgical oncology fellowships at the University of Texas MD Anderson Cancer Center, Dr. Frederick began his academic career as associate director of the Cancer Center at the University of Connecticut. Upon his return to Howard University, his academic positions included associate dean in the College of Medicine, division chief in the Department of Surgery, director of the Cancer Center and deputy provost for Health Sciences." 
+      website: https://www2.howard.edu/about/president
+      
+    - name: Anthony K. Wutoh, Ph.D., R.Ph.
+      image: /assets/images/Anthony_K_Wutoh.jpg
+      bio: "Anthony K. Wutoh, Ph.D., R.Ph. is the Provost of Howard University. He previously served in various roles at the University including as Dean of theCollege of Pharmacy and Assistant Provost for International Programs. Dr. Wutoh has also served as Director for the Center for Minority Health Services Research, and the Center of Excellence. Dr. Wutoh received a Bachelor of Arts degree in Biochemistry from the University of Maryland Baltimore County in 1987. He then completed a Bachelor of Science in Pharmacy, and Doctor of Philosophy in Pharmacy Administration (Pharmacoepidemiology) at the University of Maryland, Baltimore School of Pharmacy. Dr. Wutoh has varied research interests including pharmacoepidemiology, international health, health services/outcomes research, and evaluation of large population databases, particularly in the area of AIDS and HIV infection in older patients. Dr. Wutoh has received over $50 million dollars in grant funding from several sources including; NIH, CDC, USAID, HRSA, AHRQ and foundations, and has published numerous research articles on HIV disease, medication adherence, disease state management, and various other topics in respected research journals, including; the Journal of the American Medical Association, Health Services Research, AIDS & Behavior, the Journal of the National Medical Association, and the Journal of the American Pharmacists Association."
+      website: https://provost.howard.edu/about/administration#:~:text=D.%2C%20R.Ph.,and%20the%20Center%20of%20Excellencew
+   
+   
 keynote:
   title: SICSS-Howard/Mathematica 2022 Keynote Speaker 
   people:
     - name: Coming soon...
+
 
 closing:
   title: Closing Plenary Speaker 
   people:
     - name: Coming soon...
 
+
 speakers: 
   title: Guest Speakers 
   people:
-    - name: Coming soon...
+    - name: Shawndra B Hill, Ph.D.
+      image: /assets/images/Shawndra_Hill.jpeg
+      bio: "Dr. Shawndra Hill joined the Marketing Division at Columbia Business School as a part-time senior lecturer in September 2020. She received her PhD and MPhil in Information Systems from NYU's Stern School of Business in 2007 and 2003 respectively, and her BS in Mathematics from Spelman College and her BEE in Electrical Engineering from Georgia Institute of Technology  in 1995.  Presently, Shawndra Hill is also a Principal Scientist at Facebook in the Core Data Science Team in NYC. Prior to joining Facebook, she was (Senior) Principal Researcher at Microsoft Research in NYC and a professor in the Operations and Information Management Department at the Wharton School of the University of Pennsylvania. Broadly, she studies data mining, machine learning and statistical relational learning and their alignment with business problems. Specifically, she researches the value to companies of mining data on how consumers interact with each other on online platforms — for targeted marketing, advertising, health and fraud detection purposes. Her current research focuses on cross channel advertising and the resulting interactions between TV content and online (ad click) behaviors. Her past and present industry partners include AT&T Labs Research, ClearForest, and Siemens Energy & Automation."
+      website: https://www8.gsb.columbia.edu/cbs-directory/detail/sbh2146
+   
+    - name: Karen Levy, Ph.D., J.D.
+      image: /assets/images/Karen_Levy.jpg
+      bio: "Karen Levy is an assistant professor in the Department of Information Science at Cornell University, and associate member of the faculty of Cornell Law School. She researches how law and technology interact to regulate social life, with particular focus on social and organizational aspects of surveillance. Much of Dr. Levy's research analyzes the uses of monitoring for social control in various contexts, from long-haul trucking to intimate relationships. She is also interested in how data collection uniquely impacts, and is contested by, marginalized populations. Dr. Levy is also a fellow at the Data and Society Research Institute in New York City. She holds a Ph.D. in Sociology from Princeton University and a J.D. from Indiana University Maurer School of Law. Dr. Levy previously served as a law clerk in the United States Federal Courts."
+      website: https://sts.cornell.edu/karen-levy
+    
+    - name: Brandeis Marshall, Ph.D.
+      image: /assets/images/Brandeis_Marshall.jpeg
+      bio: "Brandeis teaches, speaks and writes about the impact of data practices on technology and society. Her work contributes to the data engineering, data science, and data/computer science education fields. Through Dr. Marshall’s data education firm DataedX, she guides current tech workers in building data equity skills. Her first book, Data Conscience: Algorithmic Siege on our Humanity, is expected to be released later in 2022. It unearths the interlocking computational and civic implications of data on digital processes, structures and institutions. Dr. Marshall holds a Ph.D. and Master of Science in Computer Science from Rensselaer Polytechnic Institute and a Bachelor of Science in Computer Science from the University of Rochester. She is on sabbatical leave from Spelman College, where she is a Full Professor of Computer Science."
+      website: https://www.brandeismarshall.com/ 
+      
+    - name: Kyla McMullen, Ph.D.
+      image: /assets/images/Kyla_McMullen.png
+      bio: 'Dr. Kyla McMullen earned her Bachelor of Science in Computer Science from the University of Maryland, Baltimore County (UMBC), where she was also a Meyerhoff Scholar. She earned her Masters and Ph.D. degrees in Computer Science and Engineering from the University of Michigan (2007-2012). While earning her Ph.D. she was also a faculty member at Wayne State University in Detroit, Michigan. At Wayne State University she taught computer literacy courses to over 2,000 students. Dr. McMullen is the first (and currently the only) woman of color to earn a Ph.D. in Computer Science and Engineering from the University of Michigan. She is currently a tenure-track faculty member in the University of Florida’s Computer & Information Sciences & Engineering Department. Dr. McMullen has a personal commitment to encouraging women and minorities to pursue careers in computing and other STEM fields. She is the author of "Beautiful, Black, and Brainy" and "Brilliant is the New Black" which showcase hundreds of exceptional young African Americans who excel in STEM fields and don’t fit the typical "scientist" stereotype.'
+      website: http://kylamcmullen.com/
+   
+    - name: Randal Pinkett, Ph.D.
+      image: /assets/images/Randal_Pinkett.jpeg
+      bio: 'Randal Pinkett, Ph.D., MBA, has established himself as an entrepreneur, speaker, author and scholar. He is the co-founder, chairman and CEO of BCT Partners, a global, multimillion-dollar research, training, consulting, technology, and data analytics firm. BCT’s mission is to provide insights about diverse people that lead to equity. The company has been recognized by Forbes as one of America’s Best Management Consulting Firms, Ernst & Young as EY Entrepreneur of the Year, Manage HR Magazine as a Top 10 Firm for Diversity & Inclusion, the Black Enterprise BE100s list of the nation’s largest African American-owned businesses, and the Inc. 5000 list of the fastest-growing private companies in America. Dr. Pinkett is an expert in several areas relating to emerging technologies, "big data" analytics, social innovation, culture, diversity, equity and inclusion (DEI), and is a regular contributor on MSNBC, CNN, and Fox Business News. An international public speaker, he is the author and co-author of several books including Data-Driven DEI: The Tools and Metrics You Need to Analyze, Measure and Improve Diversity, Equity & Inclusion, Black Faces in White Places: 10 Game-Changing Strategies to Achieve Success and Find Greatness, Black Faces in High Places: 10 Strategic Actions for Black Professionals to Reach the Top and Stay There, Campus CEO: The Student Entrepreneur’s Guide to Launching a Multimillion-Dollar Business, and No-Money Down CEO: How to Start Your Dream Business with Little or No Cash. He holds five degrees including: a B.S. in Electrical Engineering from Rutgers University; a M.S. in Computer Science from the University of Oxford in England; and a M.S. in Electrical Engineering, MBA, and Ph.D. from MIT.  Most notably, he was the first and only African-American to receive the prestigious Rhodes Scholarship at Rutgers University; he was inducted to the Academic All-America Hall of Fame, as a former high jumper, long jumper, sprinter and captain of the men’s track and field team; and he was the winner of NBC’s hit reality television show, "The Apprentice." A lifetime member of Alpha Phi Alpha Fraternity Incorporated, he is happily married to Natasha Williams-Pinkett and the proud father of two daughters, Amira and Aniyah, and two sons, Jaz and Marquis.'
+      website: https://www.randalpinkett.com/ 
+    
+    - name: Jeffrey Robinson, Ph.D.
+      image: /assets/images/Jeffrey_Robinson.jpeg
+      bio: "Jeffrey A. Robinson, Ph.D. is an award-winning business school professor, international speaker and entrepreneur. Since 2008, he has been a leading faculty member at Rutgers Business School where he is an associate professor of management and entrepreneurship and the Academic Director of The Center for Urban Entrepreneurship & Economic Development and research fellow of the Rutgers Advanced Institute for the Study of Entrepreneurship and Development. Through his research, business leadership and community activities he makes direct impacts corporate workplaces, entrepreneurs and economic development policy in the state of New Jersey and beyond. Emerging from his pioneering research, the New Jersey Social Entrepreneurship Institute and the CUEED Pipeline to Inclusive Innovation are national and international models for economic development and social problem solving using entrepreneurial approaches. He leads research on four National Science Foundation funded research projects related to inclusive innovation including the GEM Inclusion in Innovation Initiative (GEM i4). Dr. Robinson is the author of many articles and books on the topics of management, entrepreneurship and workforce diversity. He is the co-author along with Dr. Randal Pinkett of Black Faces in White Places: 10 Game-Changing Strategies to Achieve Success and Find Greatness (published by Harper Collins Leadership). In 2022, he and Dr. Pinkett will release Black Faces in High Places: 10 Strategic Actions for Black Professionals to Reach the Top and Stay There (also to be published by Harper Collins Leadership)."
+      website: https://www.business.rutgers.edu/faculty/jeffrey-robinson
+
+
+panels:
+  title: Panelists
+  people:
+    - name: Courtney D. Cogburn, Ph.D.
+      image: /assets/images/Courtney_Cogburn.jpg
+      bio: "Associate Professor Courtney D. Cogburn employs a transdisciplinary research strategy to improve the characterization and measurement of racism and in examining the role of racism in the production of racial inequities in health. She is also conducting research exploring the use of emerging technologies, including computational social science to examine patterns and psychosocial effects of cultural racism and how virtual reality experiences can lead to changes in attitudes, social perception and engagement (empathy, racial bias, structural competence and behavior). Dr. Cogburn is the lead creator of 1000 Cut Journey, an immersive virtual reality racism experience that was developed in collaboration with the Virtual Human Interaction Lab at Stanford University and which premiered at the Tribeca Film Festival in 2018. She is on the faculty of the Columbia Population Research Center and a core member of the Data Science Institute where she also co-chairs the Computational Social Science working group. Dr. Cogburn is also a faculty affiliate of the Center on African American Politics and Society. She directs the Cogburn Research Group and co-directs the Justice Equity + Tech (JE+T) Laboratory at Columbia University. Dr. Cogburn completed postdoctoral training at Harvard University in the Robert Wood Johnson Health & Society Scholar Program and at the Institute for Social Research at the University of Michigan. She received her Ph.D. in Education and Psychology, and MSW from the University of Michigan and her BA in Psychology from the University of Virginia. She is also a board member of the International Center Advocates Against Discrimination."
+      website: https://socialwork.columbia.edu/faculty-research/faculty/full-time/courtney-d-cogburn/
+      
+    - name: Kyla McMullen, Ph.D.
+      image: /assets/images/Kyla_McMullen.png
+      bio: 'Dr. Kyla McMullen earned her Bachelor of Science in Computer Science from the University of Maryland, Baltimore County (UMBC), where she was also a Meyerhoff Scholar. She earned her Masters and Ph.D. degrees in Computer Science and Engineering from the University of Michigan (2007-2012). While earning her Ph.D. she was also a faculty member at Wayne State University in Detroit, Michigan. At Wayne State University she taught computer literacy courses to over 2,000 students. Dr. McMullen is the first (and currently the only) woman of color to earn a Ph.D. in Computer Science and Engineering from the University of Michigan. She is currently a tenure-track faculty member in the University of Florida’s Computer & Information Sciences & Engineering Department. Dr. McMullen has a personal commitment to encouraging women and minorities to pursue careers in computing and other STEM fields. She is the author of "Beautiful, Black, and Brainy" and "Brilliant is the New Black" which showcase hundreds of exceptional young African Americans who excel in STEM fields and don’t fit the typical "scientist" stereotype.'
+      website: http://kylamcmullen.com/
+      
 
 roundtable discussions:
   title: '"Real Talk" Roundtable Discussions'
   people:
     - name: Howard University
-      image: /assets/images/HowardULogo.png
+      image: /assets/images/HowardULog.png
       bio: "Howard University has long held a commitment to the study of disadvantaged persons in American society and throughout the world. The goal is the elimination of inequities related to race, color, social, economic and political circumstances. As the only truly comprehensive predominantly Black university, Howard is one of the major engineers of change in our society. Through its traditional and cutting-edge academic programs, the University seeks to improve the circumstances of all people in the search for peace and justice on earth."
       website: https://home.howard.edu/ 
       
     - name: Mathematica
-      image: /assets/images/MathematicaStackedLogo.jpeg
+      image: /assets/images/MathematicaStackedLogo.png
       bio: "Mathematica is the insight partner that illuminates the path to progress for public- and private-sector changemakers. We apply expertise at the intersection of data, methods, policy, and practice, translating big questions into deep insights that weather the toughest tests. Driven by our mission to improve public well-being, we collaborate closely with our clients to improve programs, refine strategies, and enhance understanding."     
       website: https://mathematica.org/
       
@@ -43,24 +103,47 @@ roundtable discussions:
       image: /assets/images/sicss-logo.png
       bio: "The Summer Institutes in Computational Social Science (SICSS) were created to provide free training to the next generation of researchers at the intersection of social science and data science— and to incubate cutting-edge research across disciplinary boundaries. Participants at each institute a) hear lectures by leading scholars in the field on a range of subjects from automated text analysis to experiments on social media platforms; b) participate in group training exercises; and c) launch interdisciplinary research projects. SICSS thus aims to provide open, high-quality training in computational social science to researchers around the world in order to accelerate the growth of the field and ensure that it develops practices that are in the long-term interests of science and society. Lectures are live-streamed to all SICSS sites from a central location and supported via a vibrant online community that includes open-source education materials that can be used for further self-study or as a model for computational social science courses within other organizations."
       website: https://sicss.io/about
-
+ 
+ 
 lunchtime talks:
   title: Bite-Sized Lunchtime Talks
   people:
+    - name: BCT Partners
+      image: /assets/images/BCT_Partners.png
+      bio: "At BCT Partners, our greatest strength is our people. We care passionately about creating a diverse and equitable society. We combine this commitment with specialized expertise around topics such as unconscious bias and inclusive management and use insights from big data, machine learning, and precision analytics to develop solutions that lead to societal change."
+      website: https://www.bctpartners.com/
+    
     - name: Cite Black Women
       image: /assets/images/Cite_Black_Women.png
       bio: "It's simple: Cite Black Women. We have been producing knowledge since we blessed this earth. We theorize, we innovate, we revolutionize the world. We do not need mediators. We do not need interpreters. It's time to disrupt the canon. It's time to upturn the erasures of history. It's time to give credit where credit is due. We must reconfigure the politics of knowledge production by engaging in a radical praxis of citation that acknowledges and honors Black women’s transnational intellectual production."
       website: https://www.citeblackwomencollective.org/
-  
+      
+    - name: harkness.ai
+      image: /assets/images/Harkness_AI.png
+      bio: "The goal of harkness.ai is to improve interpersonal dynamics and communication in meetings whether they are hosted virtually or in person. Through machine learning algorithms and data visualization, we can empower facilitators to have better, more effective meetings that push the organization forward with confidence."
+      website: https://www.harkness.ai/
+      
+    - name: MITRE Social Justice
+      image: /assets/images/MITRE.png
+      bio: "The Social Justice Platform provides resources, data, tools, and frameworks that empower decision makers to create and sustain equitable solutions that bring positive change for a more just society. Our resources and insights are aimed at those looking to make a difference at the federal, state, and local levels."
+      website: https://sjp.mitre.org/
+   
+    - name: Research Data Management Team, UC Berkeley
+      image: /assets/images/Research_Data_Management_Team.png
+      bio: "UC Berkeley's Research Data Management Program is a collaborative campus-wide program led jointly by Research IT and the Library to help faculty, staff, and students manage research data throughout the research process. With our partners across campus, we offer a discipline-agnostic service that supports researchers as they find, generate, store, share, and archive their data."
+      website: https://researchdata.berkeley.edu/
+
     - name: vary CSS
       image: /assets/images/VaryCSS.png
       bio: "Computational Social Science is an exciting new field of research, and we think it should be diverse and inclusive as it grows. To this end, we provide links to resources, which are intended to support new and emerging CSS scholars currently underrepresented in the field. We also maintain a database of these scholars, which can be used for collaboration and networking, or for finding new voices to speak at conferences, on panels, and in workshop tutorials. These resources are compiled and updated by the CSS community."
       website: http://varycss.org/
 
+
 participants: 
   title: Participants
   people:
    - name: Coming soon...
+
 
 organizers:
   title: Organizer
@@ -69,6 +152,7 @@ organizers:
       image: /assets/images/NanietteHeadshot.jpeg
       bio: "Naniette H. Coleman is a PhD candidate in Sociology at the University of California Berkeley and a multi-year UC-National Laboratory Graduate Fellow (Los Alamos). She is the only social scientist selected for this distinction in the history of the program. Since 2016 Naniette has directed the AAC&U award winning Interdisciplinary Research Group on Privacy (Coleman Research Lab) at Berkeley. Naniette is an affiliate of the Institute for the Study of Societal Issues, the Center for Long-term Cybersecurity, and the Center for Technology, Society, and Policy at Berkeley as well as the Belfer Center for Science and International Affairs, and Berkman-Klein Center for the Internet and Society at Harvard University.  Naniette’s work sits at the intersection of the sociology of culture and organizations and focuses on cybersecurity, surveillance, and privacy in the US context. Specifically, Naniette’s research examines how organizations assess risk, make decisions, and respond to data breaches and organizational compliance with state, federal, and international privacy laws. Naniette holds a Master of Public Administration with a specialization in Democracy, Politics, and Institutions from the Harvard Kennedy School of Government, and both an M.A. in Economics and a B.A. in Communication from the University at Buffalo, SUNY. A non-traditional student, Naniette’s prior professional experience includes local, state, and federal service, as well as work for two international organizations, and two universities. "
       website: http://naniettecoleman.com
+
 
 planning_team:
   title: Planning Team
@@ -83,10 +167,12 @@ planning_team:
       bio: "Calvin J. Hadley serves as the Senior Advisor for Strategic Initiatives in the Office of the President at Howard University. Hadley works to broker strategic partnerships that advance the University's mission: Truth and Service. Since joining Howard in 2014, he's negotiated numerous partnerships along several student programs. The most notable of these include: Howard's partnership with Google and Amazon Studios to create the Howard West Campus in Silicon Valley and the Howard Entertainment Campus in Hollywood, a partnership with the District of Columbia Public Schools which led to the creation of a dual-enrollment program that allows high school juniors and seniors to earn college credit at Howard University, and a lecture series with Congressman Elijah Cummings, former Director of the FBI James Comey, former Mayor of Washington, D.C. Vincent Gray, and others." 
       website: https://www2.howard.edu/about/president/staff
 
+
 teaching_assistants:
   title: Teaching Assistants (Mathematica)
   people:
     - name: Coming soon...
+
 
 event_staff:
   title: Event Staff (Coleman Research Lab)

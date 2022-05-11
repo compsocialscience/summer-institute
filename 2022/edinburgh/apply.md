@@ -16,18 +16,13 @@ Participants with less experience in social science research will be expected to
 
 ## How To Apply
 
-Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement (maximum two pages) describing both any current research, your interest in computational social science, and why you would like to attend SICSS-Edinburgh (iii) one writing sample (no more than 35 pages). Co-authored work is acceptable but when submitting co-authored work we recommend you include a few sentences describing the contribution of each individual author to the work. **Application materials must be submitted as one combined PDF file.** The form to apply can be found by following this [link](https://edinburgh.eu.qualtrics.com/jfe/form/SV_9MIXau1IVq5kq46) 
+**APPLICATIONS ARE NOW CLOSED** 
 
-**In order to be guaranteed full consideration, all application materials must be submitted by 23:59 GMT, April 11, 2022.** 
-
-Inquiries can be sent to christopher.barrie[at]ed.ac.uk.
+Further inquiries can be sent to christopher.barrie[at]ed.ac.uk.
 
 ## Application Frequently Asked Questions
 
-#### Can I apply to more than one Summer Institute location?
+#### When will I hear back about my application?
 
-Yes, but not at the same time. For example, you can apply to SICSS-Edinburgh, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.
+We aim to notify successful applicants by the end of April.
 
-#### Can I participate in SICSS-Edinburgh if I have already participated in SICSS at another location?
-
-No. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.

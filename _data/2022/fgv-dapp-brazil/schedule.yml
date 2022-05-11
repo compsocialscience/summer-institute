@@ -1,6 +1,6 @@
 - date: All times are in Brazilian (Brasilia - Federal District) Time
 
-- date: 2021-06-20
+- date: 2022-06-20
   name: Introduction and Ethics
   events:
     - name: "10:00 - 11:00 Introduction and logistics"
@@ -14,7 +14,7 @@
     - name: "3:30 - 4:00 Break"
     
 
-- date: 2021-06-21
+- date: 2022-06-21
   name: Collecting Digital Trace Data
   events:
     - name: "10:00 - 10:15 Logistics and introduction to group exercise [Lesson Instructions](https://docs.google.com/document/d/1EB39VqUOurqBB_5KJQovwEFgLdQsg9Yq_uChw-TQtD8/edit#heading=h.fekk35dbtfd)"
@@ -28,7 +28,7 @@
     - name: "3:45 - 4:00 Break"
     - name: "4:00 - 4:45 GUEST-SPEAKER: **Pablo Boczowski**"
 
-- date: 2021-06-22
+- date: 2022-06-22
   name: Automated Text Analysis
   events:
     - name: "10:00 - 10:15 Logistics and introduction to group exercise (*Zoom*)"
@@ -42,7 +42,7 @@
     
 
 
-- date: 2021-06-23
+- date: 2022-06-23
   name: Surveys in the Digital Age
   events:
     - name: "10:00 - 10:15 Logistics (*Zoom*)"
@@ -56,7 +56,7 @@
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
     - name: "4:00 - 4:45 GUEST-SPEAKER: **Alexandra Siegel**:" 
 
-- date: 2021-06-24
+- date: 2022-06-24
   name: Mass collaboration and machine learning
   events:
     - name: "10:00 - 10:15 Logistics (*Zoom*)"
@@ -72,13 +72,13 @@
     - name: "3:45 - 4:00 [Delete](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day5-mass-collaboration/activity/lesson_plan_masscollaboration_participant.md#deleting-the-files-after-use) the Fragile Families data from your computer"
 
 
-- date: 2021-06-25
+- date: 2022-06-25
   name: Day off
 
-- date: 2021-06-26
+- date: 2022-06-26
   name: Day off
 
-- date: 2021-06-27
+- date: 2022-06-27
   name: Research Speed Dating
   events:
     - name: "10:00 - 10:30 Research Speed Dating Logistics (*Zoom*), [Slides for Instructors](https://tiagoventura.github.io/sicss_presentation/slides-research-speed-dating#1)"
@@ -91,14 +91,14 @@
     - name: "2:45 - 3:00 Break"
     - name: "3:00 - 3:30 Group Debrief (join research teams) (*Zoom*)"
 
-- date: 2021-06-28
+- date: 2022-06-28
   name: Workshop in NLP + Work on Group Projects
   events:
     - name: "10:00 - 11:00:  Workshop on Modern NLP Techniques with Lucas Roberto."
     - name: "Rest of the day: Work on your group projects"
     - name: "3:00 - 3:30- Five minutes for each group to update on the projects"
 
-- date: 2021-06-29
+- date: 2022-06-29
   name: Workshop in Social Network Models + Work on Group Projects
   events:
     - name: "10:00 - 11:00:  Workshop on Social Network Models in Python with Polyana Barbosa"
@@ -106,7 +106,7 @@
     - name: "3:00 - 3:30- Five minutes for each group to update on the projects"
   
 - date: 2021-06-30
-  name: Workshop + Present group projects 
+  name: Workshop on Poststratification + Present group projects 
   events:
     - name: "10:00 - 11:00:  Workshop on Online Surveys and Poststratification with Fernando Meireles"
     - name: "14:00 - 16:00 Present group projects (*Zoom*)"

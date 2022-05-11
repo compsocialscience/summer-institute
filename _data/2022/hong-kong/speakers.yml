@@ -10,6 +10,12 @@
   website: https://www.thomasrdavidson.com/
 
 
+- name: King-wa Fu
+  image: /assets/images/FuKingwa.jpeg
+  bio: "King-wa FU is an Associate Professor at the Journalism and Media Studies Centre of The University of Hong Kong. He obtained his PhD in journalism and media studies from the University of Hong Kong. His research interests include China’s information governance, media and political participation, computational social sciences, health and the media, and media use by the younger generation. He is the Principle Investigator of Weiboscope, WeChatscope, and ANTIELAB Research Data Archive."
+  website: https://jmsc.hku.hk/people/king-wa-fu/
+
+
 - name: Ashley Gromis
   image: /assets/images/agromis.png
   bio: "Ashley Gromis is a postdoctoral research associate at the Eviction Lab of Princeton University. She completed her PhD in sociology at the University of California, Los Angeles. Her research focuses on how social networks and local communities provide the social context for individual decisions and events that aggregate to form macro-level patterns across space and time."
@@ -26,3 +32,15 @@
   image: /assets/images/KaYuetLiu.jpeg
   bio: "Ka-Yuet Liu is an associate professor of sociology at UCLA. She received her D.Phil in Sociology from Nuffield College, University of Oxford. Her research applies data science methods and social network analysis to epidemiological questions. Her major test cases are the diffusion of health conditions that people don't typically associate with network processes."
   website: https://sites.google.com/view/kayuet-liu
+  
+
+- name: Christopher Lucas
+  image: /assets/images/christopherlucas.png
+  bio: "Christopher Lucas is an Assistant Professor in the Department of Political Science and a faculty affiliate with the Division of Computational & Data Sciences at Washington University in St. Louis. He received her Ph.D. in Political Science from Harvard University. Lucas studies methodology, political communication, and the media. His research develops and applies computational models for the statistical analysis of speech audio."
+  website: http://christopherlucas.org/
+
+
+- name: Zachary C. Steinert-Threlkeld
+  image: /assets/images/Steinert-Threlkeld.jpeg
+  bio: "Zachary Steinert-Threlkeld is an assistant professor of Public Policy at the UCLA Luskin School of Public Affairs. He received his Ph.D. in political science from UC San Diego. Steinert-Threlkeld’s work focuses on protest dynamics using natural language processing, computer vision, and large-scale simulations. He has studied protests around the world, including Arab Spring, protests in East Asia, and South America."
+  website: https://zacharyst.com/

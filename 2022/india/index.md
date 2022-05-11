@@ -11,4 +11,4 @@ The instructional program will involve lectures, group problem sets, and partici
 
 We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 40 participants will be invited, and participants are expected to attend in-person and participate for the full duration of the two-week program.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2022/india/apply) are due March 30.
+[Application materials](https://compsocialscience.github.io/summer-institute/2022/india/apply) are due May 31.

@@ -11,4 +11,6 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is restricted to Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About twelve (12) participants will be invited, and participants are expected to fully attend and participate in the entire two-week program.
 
+NB: The first week will be hosted online. The second week will be in person at the University of Bologna. Participants are expected to travel to Bologna to attend the second week. A greenpass or equivalent is required. Each participant will receive a reimbursement for documented expenses (hotel + travel) up to 500 euros.
+
 [Application materials](https://compsocialscience.github.io/summer-institute/2022/bologna/apply) are due 25 April 2022 (midnight, GMT+1).
