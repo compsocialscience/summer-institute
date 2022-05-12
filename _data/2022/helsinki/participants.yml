@@ -20,3 +20,12 @@
   name: Jon Järviniemi
   image: /assests/images/JonJärviniemi.jpg
   bio: "Jon Järviniemi is a doctoral researcher at the University of Helsinki. His research focuses on analyzing the development of populist political communication across party lines and on different political arenas. Furthermore, he is interested in what may have triggered the usage of populist communication among political actors."
+
+- name: Chaewon Yun
+  image: /assets/images/chaewon_yun.jpeg
+  bio: "Chaewon Yun is a master’s student in Computational Social Systems in RWTH Aachen. She worked as a software engineer in Samsung Electronics after studying Political Science and International Relations at Yonsei University. Current research interests include the impact of learning algorithms and building democratic community in digital space."
+  website: https://twitter.com/chaew0nyun
+
+- name: Maria Litova
+  image: /assests/images/Maria_Litova.jpg
+  bio: "Maria Litova is a research assistant at the Centre for Social Data Science, University of Helsinki, Finland. She got her first Master’s degree in Sociology and currently is a Master’s student at the University of Helsinki with major in Social Data Science. Maria is interested in natural language processing, machine learning, healthcare and medical data analysis, youth research and well-being issues."
