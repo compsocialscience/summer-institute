@@ -1,3 +1,119 @@
 - date: Monday, June 20 2022
   events:
-    - name: "Schedule coming soon..."
+    - name: "**10:00 - 11:00** An Introduction to Computational Social Science"
+    - name: 11:00 - 12:00 Why SICSS
+    - name: 13:00 - 14:00 Introduction and Logistics
+    - name: 14:00 - 14:15 Assigning to Groups
+    - name: 15:00 - 15:15 Break
+    - name: 15:15 - 16:15 Discussion on the Prescribed Book
+    - name: 16:15 - 17:00 Debrief and Reflections
+
+- date: Tuesday, June 21 2022
+  events:
+    - name: 09:45 Check-in
+    - name: 10:00 - 11:00 Lecture / Discussion with Bhaso Ndzendze
+    - name: 13:00 - 14:00 Group Session
+    - name: 14:00 - 15:00 Session
+    - name: 15:00 - 16:00 Break
+    - name: 16:00 - 17:00 Lecture / Discussion with Geci Karuri-Sebina
+
+- date: Wednesday, June 22 2022
+  events:
+    - name: 13:00 - 14:00 Group Session
+    - name: 14:00 - 15:00 Session
+    - name: 15:00 - 16:00 Sabelo
+    - name: 16:00 - 17:00 Lecture / Discussion with Chenai Chair
+
+- date: Thursday, June 23 2022
+  events:
+    - name: 13:00 - 14:00 Group Session
+    - name: 14:00 - 15:00 Adriana
+    - name: 15:00 - 16:00 Session
+    - name: 16:00 - 17:00 Lecture / Discussion with Tendani Chimboza
+
+- date: Friday, June 24 2022
+  events:
+    - name: 13:00 - 14:00 Session
+    - name: 14:15 Lecture
+    - name: 16:00 - 17:00 Lecture / Discussion with Lindiwe Matlali
+
+- date: Satureday - Sunday
+  name: Day off, submit book report
+
+- date: Monday, June 27 2022
+  name: Introduction and Ethics
+  events:
+    - name: Watch [Day 1 Video](https://sicss.io/curriculum)
+    - name: 13:00 - 13:15 Introduction to the group exercise lesson plan (participants)
+    - name: 13:15 - 14:15 Small group discussion on case study
+    - name: 14:15 - 15:15 Whole group debrief about the case study
+    - name: 15:15 - 15:45 Debrief and logistics
+    - name: 15:45 - 16:00 Break
+    - name: 16:00 - 17:00 **tba** 
+
+- date: Tuesday, June 28 2022
+  name: Collecting Digital Trace Data
+  events:
+    - name: Watch [Day 2 Video](https://sicss.io/curriculum)
+    - name: 13:00 - 13:15 Logistics and Introduction to Group Exercise
+    - name: 13:15 - 14:15 Identify a Research Question with Digital Trace Data
+    - name: 14:14 - 14:30 Break
+    - name: 14:30 - 15:30 Develop a Sampling Frame
+    - name: 15:30 - 16:30 Populate the Sampling Frame with Screen-Scraping
+    - name: 16:30 - 17:00 Debrief and logistics
+
+- date: Wednesday, June 29 2022
+  name: Automated Text Analysis
+  events:
+    - name: Watch [Day 3 Video](https://sicss.io/curriculum)
+    - name: 13:00 - 13:15 Logistics and Introduction to Group Exercise
+    - name: 13:15 - 14:15 Extract Features from Tweets
+    - name: 14:15 - 14:30 Break
+    - name: 14:30 - 15:30 Predict Features of Tweets associated with Retweets and Produce Visualization
+    - name: 15:30 - 16:00**" Questions, Debrief and logistics
+
+- date: Thursday, June 30 2022
+  name: Surveys in the Digital Age
+  events: 
+    - name: Watch [Day 4 Video](https://sicss.io/curriculum)
+    - name: 13:00 - 13:15 Logistics and Introduction to Group Exercise
+    - name: 13:15 - 14:15 Group Exercise
+    - name: 14:15 - 14:30 Break
+    - name: 14:30 - 15:30 Group Exercise
+    - name: 15:30 - 16:00 Debrief on Group Exercise
+
+- date: Friday, July 1 2022
+  name: Mass collaboration and machine learning
+  events:
+    - name: Watch [Day 5 Video](https://sicss.io/curriculum)
+    - name: 13:00 - 13:15 Introduction to Group Exercise
+    - name: 13:15 - 14:15 Participate in JIAS/IPATC mass collaboration activity
+    - name: 14:15 - 14:30 Break
+    - name: 14:30 - 15:30 IPATC presentation
+    - name: 15:30 - 16:00 Debrief
+
+- date: Satureday - Sunday
+  name: Break
+
+- date: Monday, July 4 2022
+  events:
+    - name: 10:00 - 11:00 Morning Lecture
+    - name: Work on Group Projects
+
+- date: Tuesday, July 5 2022
+  events:
+    - name: Work on Group Projects
+    - name: 14:00 - 15:00 Lecture by Vukosi Marivate
+    - name: 15:00 - 16:00 Lightning Talks (present research)
+
+- date: Wednesday, July 6 2022
+  events:
+    - name: Work on Group Projects
+
+- date: Thursday, July 7 2022
+  events:
+    - name: Work on Group Projects
+
+- date: Friday, July 8 2022
+  events:
+    - name: Final Presentations and Departures
