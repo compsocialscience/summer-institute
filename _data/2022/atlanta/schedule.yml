@@ -1,47 +1,47 @@
 - date: All times are Eastern Standard Time
 
-- date: 2022-06-19
+- date: 2022-06-20
   name: SICSS-Atlanta Welcome
   events:
   - name: "5:00pm - 7:00pm BBQ and Welcome"
 
-- date: 2022-06-20
+- date: 2022-06-21
   name: Introduction and Ethics
   events:
     - name: "10:00 - 11:00 Introductions & Announcements"
-    - name: "11:00 - 12:00 'Why SICSSS? & Ethics, Pt. 1'"
+    - name: "11:00 - 12:00 Why SICSSS? & Ethics, Pt. 1"
     - name: "12:00 - 1:30 Guest Lecturer & Lunch: TBA"
     - name: "1:30 - 2:30 Ethics, Pt. 2"
-    - name: "2:30 - 4:30 Group Work: Introduction, Work Session & Wrap-up"
+    - name: "2:30 - 4:30 Groups: Introduction, Work Session & Wrap-up"
 
-- date: 2022-06-21
+- date: 2022-06-22
   name: Collecting Digital Trace Data
   events:
     - name: "10:00 - 11:00 Announcements, Icebreaker, an Introduction to Digital Trace Data"
     - name: "11:00 - 12:00 Collecting Digital Trace Data"
     - name: "12:00 - 1:00 Introduction to Activity & Lunch"
     - name: "1:00 - 2:00 Guest Lecturer"
-    - name: "2:00 - 4:30 Group Work: Work Session & Wrap-up"
+    - name: "2:00 - 4:30 Groups: Work Session & Wrap-up"
 
 
-- date: 2022-06-22
+- date: 2022-06-23
   name: Text Analysis
   events:
     - name: "10:00 - 12:30 Announcments & Guest Lecturer"
     - name: "12:30 - 1:30 Lunch"
     - name: "1:30 - 2:00 Introduction to Activity"
-    - name: "2:00 - 4:30 Group Work: Work Session & Wrap-up"
+    - name: "2:00 - 4:30 Groups: Work Session & Wrap-up"
 
-- date: 2022-06-23
+- date: 2022-06-24
   name: Surveys 
   events:
     - name: "10:00 - 11:30 Announcements & Introduction to Surveys"
     - name: "11:30 - 12:00 Survey Launch"
     - name: "12:00 - 1:30 Guest Lecturer & Lunch"
     - name: "1:30 - 2:00 Surveys, Pt. 2"
-    - name: "2:00 - 4:30 Group Work: Work Session & Wrap-up"
+    - name: "2:00 - 4:30 Groups: Work Session & Wrap-up"
 
-- date: 2022-06-24
+- date: 2022-06-25
   name: Mass Collaboration & Experiments
   events:
     - name: "10:00 - 11:00 Announcements & Introduction to Mass Collaboration & Experiments"
@@ -50,25 +50,23 @@
     - name: "2:00 - 4:30 Group Formation For Week 2, Group Work"
 
 
-- date: 2022-06-25
-  name: Day off
-
 - date: 2022-06-26
   name: Day off
 
 - date: 2022-06-27
-  name: Group Projects
+  events:
+    - name: "10:00 - 11:30 Announcements & Guest Lecture"
+    - name: "11:30 - 1:00 Lunch"
+    - name: "1:00 - 4:30 Group Project Work"
 
 - date: 2022-06-28
-  name: Group Projects
+  name: Group Project Work
   
 - date: 2022-06-29
-  name: Group Projects
+  name: Group Project Work
   
 - date: 2022-06-30
-  name: Group Projects
-
-- date: 2022-07-01
   name: Project Presentations
   events:
-    - name: "10:00 - 2:00 Presentations & Farewell"
+    - name: "2:00 - 4:30 Presentations & Farewell"
+  

@@ -14,12 +14,7 @@ faculty:
 
 opening:
   title: Opening Plenary Speaker 
-  people:
-    - name: Wayne A. I. Frederick, M.D., MBA, F.A.C.S. 
-      image: /assets/images/WayneAIFrederick.jpeg
-      bio: "Dr. Wayne A. I. Frederick was appointed the seventeenth president of Howard University in 2014. He previously served as Provost and Chief Academic Officer.  Most recently, the Howard University Board of Trustees selected Dr. Frederick to serve as the distinguished Charles R. Drew Professor of Surgery. A distinguished scholar and administrator, Dr. Frederick has advanced Howard University's commitment to student opportunity, academic innovation, public service, and fiscal stability. Early in his tenure as president, Dr. Frederick pursued initiatives to streamline and strengthen university operations. He has overseen a series of reform efforts, including the expansion of academic offerings, establishing innovative programs to support student success and the modernization of university facilities. As an undergraduate, Dr. Frederick was admitted to Howard University's B.S./M.D. dual degree program. He completed the requirements for both degrees in six years, allowing him to earn his Bachelor of Science degree and his medical degree by the age of 22. He also earned a Master of Business Administration from Howard University's School of Business in 2011. Following his post-doctoral research and surgical oncology fellowships at the University of Texas MD Anderson Cancer Center, Dr. Frederick began his academic career as associate director of the Cancer Center at the University of Connecticut. Upon his return to Howard University, his academic positions included associate dean in the College of Medicine, division chief in the Department of Surgery, director of the Cancer Center and deputy provost for Health Sciences." 
-      website: https://www2.howard.edu/about/president
-      
+  people:   
     - name: Anthony K. Wutoh, Ph.D., R.Ph.
       image: /assets/images/Anthony_K_Wutoh.jpg
       bio: "Anthony K. Wutoh, Ph.D., R.Ph. is the Provost of Howard University. He previously served in various roles at the University including as Dean of theCollege of Pharmacy and Assistant Provost for International Programs. Dr. Wutoh has also served as Director for the Center for Minority Health Services Research, and the Center of Excellence. Dr. Wutoh received a Bachelor of Arts degree in Biochemistry from the University of Maryland Baltimore County in 1987. He then completed a Bachelor of Science in Pharmacy, and Doctor of Philosophy in Pharmacy Administration (Pharmacoepidemiology) at the University of Maryland, Baltimore School of Pharmacy. Dr. Wutoh has varied research interests including pharmacoepidemiology, international health, health services/outcomes research, and evaluation of large population databases, particularly in the area of AIDS and HIV infection in older patients. Dr. Wutoh has received over $50 million dollars in grant funding from several sources including; NIH, CDC, USAID, HRSA, AHRQ and foundations, and has published numerous research articles on HIV disease, medication adherence, disease state management, and various other topics in respected research journals, including; the Journal of the American Medical Association, Health Services Research, AIDS & Behavior, the Journal of the National Medical Association, and the Journal of the American Pharmacists Association."
@@ -27,9 +22,17 @@ opening:
    
    
 keynote:
-  title: SICSS-Howard/Mathematica 2022 Keynote Speaker 
+  title: SICSS-Howard/Mathematica 2022 Keynote Speakers 
   people:
-    - name: Coming soon...
+    - name: Paula Moreno
+      image: /assets/images/Paula_Moreno.jpeg
+      bio: "Paula Moreno founded and directs Manos Visibles, a nonprofit foundation established to promote social inclusion and peace building in Colombia. Moreno served on the Ford Foundation Board of Trustees. From 2007 to 2010, she served as the minister of culture in Colombia—the first Afro-Colombian woman and the youngest person to lead a cabinet-level ministry in the history of the country. In 2010, Moreno was selected by the Council of the Americas as one of the most influential young leaders in the region. The same year, she received the Order of Saint Charles for her work in government. In 2011, she was awarded the Order of the Aztec Eagle by Mexico’s President Felipe de Jesús Calderón Hinojosa for contributing to the improvement of Mexico-Colombia relations. She was a Yale World Fellow and has been a Hubert H. Humphrey Fellow for Urban and Regional Studies at the Massachusetts Institute of Technology. Moreno holds a degree in Italian language and culture from the Italian Institute of Culture and a bachelor of science in industrial engineering from the Autonomous University of Colombia. Studying the sustainable use of biodiversity by local communities in Colombia, Moreno earned a master of philosophy in management studies at the University of Cambridge."
+      website: https://www.fordfoundation.org/about/people/paula-moreno/
+    
+    - name: Safiya Umoja Noble, Ph.D.
+      image: /assets/images/Safiya_Noble.jpeg
+      bio: 'Dr. Safiya U. Noble is an internet studies scholar and Professor of Gender Studies and African American Studies at the University of California, Los Angeles (UCLA) where she serves as the Co-Founder and Faculty Director of the UCLA Center for Critical Internet Inquiry (C2i2). She holds affiliations in the School of Education & Information Studies, and is a Research Associate at the Oxford Internet Institute at the University of Oxford where she is a Commissioner on the Oxford Commission on AI & Good Governance (OxCAIGG). In 2021, she was recognized as a MacArthur Foundation Fellow (also known as the "Genius Award") for her ground-breaking work on algorithmic discrimination. In 2022, she was recognized as the inaugural NAACP-Archewell Digital Civil Rights Award recipient. Dr. Noble is a board member of the Cyber Civil Rights Initiative, serving those vulnerable to online harassment, and the Joint Center for Political and Economic Studies, the nation’s oldest Black think tank. She is the author of a best-selling book on racist and sexist algorithmic bias in commercial search engines, entitled Algorithms of Oppression: How Search Engines Reinforce Racism (NYU Press), which has been widely-reviewed in scholarly and popular publications.'
+      website: https://safiyaunoble.com/
 
 
 closing:
@@ -57,10 +60,14 @@ speakers:
       website: https://www.brandeismarshall.com/ 
       
     - name: Kyla McMullen, Ph.D.
-      image: /assets/images/Kyla_McMullen.png
+      image: /assets/images/Kyla_McMullen.jpg
       bio: 'Dr. Kyla McMullen earned her Bachelor of Science in Computer Science from the University of Maryland, Baltimore County (UMBC), where she was also a Meyerhoff Scholar. She earned her Masters and Ph.D. degrees in Computer Science and Engineering from the University of Michigan (2007-2012). While earning her Ph.D. she was also a faculty member at Wayne State University in Detroit, Michigan. At Wayne State University she taught computer literacy courses to over 2,000 students. Dr. McMullen is the first (and currently the only) woman of color to earn a Ph.D. in Computer Science and Engineering from the University of Michigan. She is currently a tenure-track faculty member in the University of Florida’s Computer & Information Sciences & Engineering Department. Dr. McMullen has a personal commitment to encouraging women and minorities to pursue careers in computing and other STEM fields. She is the author of "Beautiful, Black, and Brainy" and "Brilliant is the New Black" which showcase hundreds of exceptional young African Americans who excel in STEM fields and don’t fit the typical "scientist" stereotype.'
       website: http://kylamcmullen.com/
-   
+
+
+Praxis to power:
+  title: Praxis to Power Speakers
+  people:        
     - name: Randal Pinkett, Ph.D.
       image: /assets/images/Randal_Pinkett.jpeg
       bio: 'Randal Pinkett, Ph.D., MBA, has established himself as an entrepreneur, speaker, author and scholar. He is the co-founder, chairman and CEO of BCT Partners, a global, multimillion-dollar research, training, consulting, technology, and data analytics firm. BCT’s mission is to provide insights about diverse people that lead to equity. The company has been recognized by Forbes as one of America’s Best Management Consulting Firms, Ernst & Young as EY Entrepreneur of the Year, Manage HR Magazine as a Top 10 Firm for Diversity & Inclusion, the Black Enterprise BE100s list of the nation’s largest African American-owned businesses, and the Inc. 5000 list of the fastest-growing private companies in America. Dr. Pinkett is an expert in several areas relating to emerging technologies, "big data" analytics, social innovation, culture, diversity, equity and inclusion (DEI), and is a regular contributor on MSNBC, CNN, and Fox Business News. An international public speaker, he is the author and co-author of several books including Data-Driven DEI: The Tools and Metrics You Need to Analyze, Measure and Improve Diversity, Equity & Inclusion, Black Faces in White Places: 10 Game-Changing Strategies to Achieve Success and Find Greatness, Black Faces in High Places: 10 Strategic Actions for Black Professionals to Reach the Top and Stay There, Campus CEO: The Student Entrepreneur’s Guide to Launching a Multimillion-Dollar Business, and No-Money Down CEO: How to Start Your Dream Business with Little or No Cash. He holds five degrees including: a B.S. in Electrical Engineering from Rutgers University; a M.S. in Computer Science from the University of Oxford in England; and a M.S. in Electrical Engineering, MBA, and Ph.D. from MIT.  Most notably, he was the first and only African-American to receive the prestigious Rhodes Scholarship at Rutgers University; he was inducted to the Academic All-America Hall of Fame, as a former high jumper, long jumper, sprinter and captain of the men’s track and field team; and he was the winner of NBC’s hit reality television show, "The Apprentice." A lifetime member of Alpha Phi Alpha Fraternity Incorporated, he is happily married to Natasha Williams-Pinkett and the proud father of two daughters, Amira and Aniyah, and two sons, Jaz and Marquis.'
@@ -69,22 +76,27 @@ speakers:
     - name: Jeffrey Robinson, Ph.D.
       image: /assets/images/Jeffrey_Robinson.jpeg
       bio: "Jeffrey A. Robinson, Ph.D. is an award-winning business school professor, international speaker and entrepreneur. Since 2008, he has been a leading faculty member at Rutgers Business School where he is an associate professor of management and entrepreneurship and the Academic Director of The Center for Urban Entrepreneurship & Economic Development and research fellow of the Rutgers Advanced Institute for the Study of Entrepreneurship and Development. Through his research, business leadership and community activities he makes direct impacts corporate workplaces, entrepreneurs and economic development policy in the state of New Jersey and beyond. Emerging from his pioneering research, the New Jersey Social Entrepreneurship Institute and the CUEED Pipeline to Inclusive Innovation are national and international models for economic development and social problem solving using entrepreneurial approaches. He leads research on four National Science Foundation funded research projects related to inclusive innovation including the GEM Inclusion in Innovation Initiative (GEM i4). Dr. Robinson is the author of many articles and books on the topics of management, entrepreneurship and workforce diversity. He is the co-author along with Dr. Randal Pinkett of Black Faces in White Places: 10 Game-Changing Strategies to Achieve Success and Find Greatness (published by Harper Collins Leadership). In 2022, he and Dr. Pinkett will release Black Faces in High Places: 10 Strategic Actions for Black Professionals to Reach the Top and Stay There (also to be published by Harper Collins Leadership)."
-      website: https://www.business.rutgers.edu/faculty/jeffrey-robinson
+      website: https://www.business.rutgers.edu/faculty/jeffrey-robinson  
 
 
 panels:
   title: Panelists
   people:
+    - name: Andre Brock, Ph.D.
+      image: /assets/images/Andre_Brock.jpeg
+      bio: 'André Brock is an associate professor of media studies at Georgia Tech. He writes on Western technoculture, Black technoculture, and digital media. His scholarship examines Black and white representations in social media, videogames, weblogs, and other digital media. He has also published influential research on digital research methods. His award-winning book, "Distributed Blackness: African American Cybercultures", theorizes Black everyday lives as Black joy, mediated by networked digital technologies.'
+      website: https://andrebrock.academia.edu/
+    
     - name: Courtney D. Cogburn, Ph.D.
       image: /assets/images/Courtney_Cogburn.jpg
       bio: "Associate Professor Courtney D. Cogburn employs a transdisciplinary research strategy to improve the characterization and measurement of racism and in examining the role of racism in the production of racial inequities in health. She is also conducting research exploring the use of emerging technologies, including computational social science to examine patterns and psychosocial effects of cultural racism and how virtual reality experiences can lead to changes in attitudes, social perception and engagement (empathy, racial bias, structural competence and behavior). Dr. Cogburn is the lead creator of 1000 Cut Journey, an immersive virtual reality racism experience that was developed in collaboration with the Virtual Human Interaction Lab at Stanford University and which premiered at the Tribeca Film Festival in 2018. She is on the faculty of the Columbia Population Research Center and a core member of the Data Science Institute where she also co-chairs the Computational Social Science working group. Dr. Cogburn is also a faculty affiliate of the Center on African American Politics and Society. She directs the Cogburn Research Group and co-directs the Justice Equity + Tech (JE+T) Laboratory at Columbia University. Dr. Cogburn completed postdoctoral training at Harvard University in the Robert Wood Johnson Health & Society Scholar Program and at the Institute for Social Research at the University of Michigan. She received her Ph.D. in Education and Psychology, and MSW from the University of Michigan and her BA in Psychology from the University of Virginia. She is also a board member of the International Center Advocates Against Discrimination."
       website: https://socialwork.columbia.edu/faculty-research/faculty/full-time/courtney-d-cogburn/
       
     - name: Kyla McMullen, Ph.D.
-      image: /assets/images/Kyla_McMullen.png
+      image: /assets/images/Kyla_McMullen.jpg
       bio: 'Dr. Kyla McMullen earned her Bachelor of Science in Computer Science from the University of Maryland, Baltimore County (UMBC), where she was also a Meyerhoff Scholar. She earned her Masters and Ph.D. degrees in Computer Science and Engineering from the University of Michigan (2007-2012). While earning her Ph.D. she was also a faculty member at Wayne State University in Detroit, Michigan. At Wayne State University she taught computer literacy courses to over 2,000 students. Dr. McMullen is the first (and currently the only) woman of color to earn a Ph.D. in Computer Science and Engineering from the University of Michigan. She is currently a tenure-track faculty member in the University of Florida’s Computer & Information Sciences & Engineering Department. Dr. McMullen has a personal commitment to encouraging women and minorities to pursue careers in computing and other STEM fields. She is the author of "Beautiful, Black, and Brainy" and "Brilliant is the New Black" which showcase hundreds of exceptional young African Americans who excel in STEM fields and don’t fit the typical "scientist" stereotype.'
       website: http://kylamcmullen.com/
-      
+    
 
 roundtable discussions:
   title: '"Real Talk" Roundtable Discussions'
@@ -122,14 +134,19 @@ lunchtime talks:
       image: /assets/images/Harkness_AI.png
       bio: "The goal of harkness.ai is to improve interpersonal dynamics and communication in meetings whether they are hosted virtually or in person. Through machine learning algorithms and data visualization, we can empower facilitators to have better, more effective meetings that push the organization forward with confidence."
       website: https://www.harkness.ai/
-      
-    - name: MITRE Social Justice
+    
+    - name: Just Tech program (SSRC)
+      image: /assets/images/Just_Tech.png
+      bio: "The Just Tech program foregrounds questions of power, justice, and the public impact of new technologies, investigating evidence of bias and harms while imagining and creating more just technological futures. Through the Just Tech Fellowship and digital platform, the program creates a new ecosystem of research and social engagement, one that enriches public discourse, informs public policy, and radically imagines just futures where social and public interests drive technological change, instead of the other way around."
+      website: https://www.ssrc.org/programs/just-tech/
+    
+    - name: MITRE
       image: /assets/images/MITRE.png
-      bio: "The Social Justice Platform provides resources, data, tools, and frameworks that empower decision makers to create and sustain equitable solutions that bring positive change for a more just society. Our resources and insights are aimed at those looking to make a difference at the federal, state, and local levels."
-      website: https://sjp.mitre.org/
+      bio: "At MITRE, we solve problems for a safer world. Through our federally funded R&D centers and public-private partnerships, we work across government to tackle challenges to the safety, stability, and well-being of our nation."
+      website: https://www.mitre.org/
    
     - name: Research Data Management Team, UC Berkeley
-      image: /assets/images/Research_Data_Management_Team.png
+      image: /assets/images/Research_Data_Management.png
       bio: "UC Berkeley's Research Data Management Program is a collaborative campus-wide program led jointly by Research IT and the Library to help faculty, staff, and students manage research data throughout the research process. With our partners across campus, we offer a discipline-agnostic service that supports researchers as they find, generate, store, share, and archive their data."
       website: https://researchdata.berkeley.edu/
 
