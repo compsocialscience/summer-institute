@@ -9,9 +9,9 @@ schedule: true
 - date: "Notes"
   name: ""
   events:
-    - name: All times are in Singapore Time.
-    - name: Physical room venues will be updated on this page.
-    - name: All talks will be recorded.
+    - name: "All times are in Singapore Time."
+    - name: "Physical room venues will be updated on this page."
+    - name: "All talks will be recorded."
   
 - date: 2022-06-13
   name: ""
