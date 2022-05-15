@@ -120,20 +120,26 @@ roundtable discussions:
 lunchtime talks:
   title: Bite-Sized Lunchtime Talks
   people:
+  
+    - name: Africa Center for Strategic studies
+      image: /assets/images/Africa_center.png
+      bio: "Since its inception in 1999, the Africa Center has served as a forum for research, academic programs, and the exchange of ideas with the aim of enhancing citizen security by strengthening the effectiveness and accountability of African institutions."
+      website: https://africacenter.org/
+  
     - name: BCT Partners
       image: /assets/images/BCT_Partners.png
       bio: "At BCT Partners, our greatest strength is our people. We care passionately about creating a diverse and equitable society. We combine this commitment with specialized expertise around topics such as unconscious bias and inclusive management and use insights from big data, machine learning, and precision analytics to develop solutions that lead to societal change."
       website: https://www.bctpartners.com/
-    
+
+    - name: Campus-wide Institutional Survey Research and Data Collection (Graduate Division UC Berkeley) 
+      image: /assets/images/Berkeley_Graduate.png
+      bio: "The Graduate Division is committed to expanding the diversity of Berkeley’s student body, and supporting students from all backgrounds, especially those from underrepresented groups, in their academic, personal and professional journeys. We’re here to help you build community and make our campus your new home."
+      website: https://grad.berkeley.edu/
+
     - name: Cite Black Women
       image: /assets/images/Cite_Black_Women.png
       bio: "It's simple: Cite Black Women. We have been producing knowledge since we blessed this earth. We theorize, we innovate, we revolutionize the world. We do not need mediators. We do not need interpreters. It's time to disrupt the canon. It's time to upturn the erasures of history. It's time to give credit where credit is due. We must reconfigure the politics of knowledge production by engaging in a radical praxis of citation that acknowledges and honors Black women’s transnational intellectual production."
       website: https://www.citeblackwomencollective.org/
-      
-    - name: harkness.ai
-      image: /assets/images/Harkness_AI.png
-      bio: "The goal of harkness.ai is to improve interpersonal dynamics and communication in meetings whether they are hosted virtually or in person. Through machine learning algorithms and data visualization, we can empower facilitators to have better, more effective meetings that push the organization forward with confidence."
-      website: https://www.harkness.ai/
     
     - name: Just Tech program (SSRC)
       image: /assets/images/Just_Tech.png
