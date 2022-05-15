@@ -129,7 +129,10 @@
     - name: "10:00 - 10:15 Logistics and introduction to group exercise (*Zoom*)"
     - name: "10:15 - 11:30 Identify a Research Question with Digital Trace Data (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Just Tech program (SSRC) Bite-Sized Lunchtime Talk #1 (video) (Q+A) OR R, STATA, and Python Office hours with Mathematica TAs (as needed) (*Zoom*)"
+    - name: "12:00 - 1:00 Just Tech program (SSRC) Bite-Sized Lunchtime Talk #1 (video) (Q+A) OR R, STATA, and Python Office hours with Mathematica TAs (as needed) (*Zoom*)
+        
+        - [Dr. Michael Miller, Program Director for Social Science Research Council Just Tech Program](https://www.ssrc.org/staff/miller-michael/)"
+        
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 2:30 Develop a Sampling Frame (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "2:30 - 3:30 Populate the Sampling Frame with Screen-Scraping (*Zoom*)"
@@ -161,7 +164,7 @@
     - name: "11:30 - 12:00 Break"
     - name: "12:00 - 1:00 BCT Partners Bite-Sized Lunchtime Talk #3 (video) (Q+A) OR R, STATA, and Python Office hours with Mathematica TAs (as needed) (*Zoom*)
     
-        - [Dr. Randal Pinkett Chief Executive Officer, BCT Partners](https://www.bctpartners.com/about)
+        - [Dr. Randal Pinkett, Chief Executive Officer, BCT Partners](https://www.bctpartners.com/about)
         
         - [Pete York, Chief Data Scientist, BCT Partners](https://www.bctpartners.com/about)"
         
@@ -185,7 +188,7 @@
     
         - [Anna Sackmann, Science Data & Engineering Librarian, UC Berkeley](https://researchdata.berkeley.edu/people/anna-sackmann)
         
-        - [Erin D Foster, Service Lead, Research Data Management, UC Berkeley  Program](https://researchdata.berkeley.edu/people/erin-foster)"
+        - [Erin D Foster, Service Lead, Research Data Management, UC Berkeley Program](https://researchdata.berkeley.edu/people/erin-foster)"
         
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 3:00 Continue participating in SICSS-H/M mass collaboration activity (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
