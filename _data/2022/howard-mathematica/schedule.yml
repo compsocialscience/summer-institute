@@ -129,7 +129,7 @@
     - name: "10:00 - 10:15 Logistics and introduction to group exercise (*Zoom*)"
     - name: "10:15 - 11:30 Identify a Research Question with Digital Trace Data (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk (encouraged) (*Zoom*) OR R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)"
+    - name: "12:00 - 1:00 Just Tech program (SSRC) Bite-Sized Lunchtime Talk #1 (video) (Q+A) OR R, STATA, and Python Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 2:30 Develop a Sampling Frame (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "2:30 - 3:30 Populate the Sampling Frame with Screen-Scraping (*Zoom*)"
@@ -140,11 +140,11 @@
   name: "Day 3: Automated Text Analysis"
   events:
     - name: "[Day 3: Pre-arrival videos, corresponding slides, & annotated code](https://sicss.io/curriculum) [(Takeaway Sheet)](https://docs.google.com/document/d/1BT4LUe6Pikzyenm4g211rNHMEzhu0C53LKNntIDFAdo/edit?usp=sharing)"
-    - name: "9:00 - 10:00 R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)"
+    - name: "9:00 - 10:00 R, STATA, and Python Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "10:00 - 10:15 Logistics and introduction to group exercise (*Zoom*)"
     - name: "10:15 - 11:30 Extract Features from Tweets (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk (encouraged) (*Zoom*) OR R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)"        
+    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk #2 (video) (Q+A) OR R, STATA, and Python Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 3:30 Predict Features of Tweets associated with Retweets and Produce Visualization (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
@@ -154,12 +154,12 @@
   name: "Day 4: Surveys in the Digital Age"
   events:
     - name: "[Day 4: Pre-arrival videos & corresponding slides](https://sicss.io/curriculum) [(Takeaway Sheet)](https://docs.google.com/document/d/13VMEezGWPVXdsS2QPZrBlZ6dVKeg8C7fCPV7qEc1RWY/edit?ts=60c51e86)"
-    - name: "9:00 - 10:00 R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)"
+    - name: "9:00 - 10:00 R, STATA, and Python Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "10:00 - 10:15 Logistics (*Zoom*)"
     - name: "10:15 - 10:30 Introduction to the group exercise, Lesson plan (participants); Lesson plan (instructors) (*Zoom*)"
     - name: "10:30 - 11:30 Morning group exercise (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 BCT Partners Bite-Sized Lunchtime Talk (encouraged) (*Zoom*) OR R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)
+    - name: "12:00 - 1:00 BCT Partners Bite-Sized Lunchtime Talk #3 (video) (Q+A) OR R, STATA, and Python Office hours with Mathematica TAs (as needed) (*Zoom*)
     
         - [Dr. Randal Pinkett Chief Executive Officer, BCT Partners](https://www.bctpartners.com/about)
         
@@ -176,12 +176,12 @@
   name: "Day 5: Mass collaboration and machine learning"
   events:
     - name: "[Day 5: Pre-arrival videos & corresponding slides](https://sicss.io/curriculum) [(Takeaway Sheet)](https://docs.google.com/document/d/13aojCBDBCIpMhaNzlBcRCc1WPkVpaBx61Obx5qnbWQA/edit?usp=sharing)"
-    - name: "9:00 - 10:00 R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)"
+    - name: "9:00 - 10:00 R, STATA, and Python Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "10:00 - 10:15 Logistics (*Zoom*)"
     - name: "10:15 - 10:30 Introduction to the group exercise (*Zoom*)"
     - name: "10:30 - 11:30 Participate in SICSS-H/M mass collaboration activity (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Research Data Management Team (UC Berkeley) Bite-Sized Lunchtime Talk (encouraged) (*Zoom*) OR R and Python Office hours with Mathematica TAs (as needed) (*Zoom*)
+    - name: "12:00 - 1:00 Research Data Management Team (UC Berkeley) Bite-Sized Lunchtime Talk #4 (video) (Q+A) OR R, STATA, and Python Office hours with Mathematica TAs (as needed) (*Zoom*)
     
         - [Anna Sackmann, Science Data & Engineering Librarian, UC Berkeley](https://researchdata.berkeley.edu/people/anna-sackmann)
         
@@ -209,7 +209,7 @@
     - name: '10:00 - 11:30 SICSS-Africa + African Descendents Inaugural Joint Panel: "Interrogating Data Collection Methods Focused on African and African Descendents Around the World: Problems, Realities, And Future Opportunities" (*Zoom*)'
     - name: "11:30 - 11:45 Break"
     - name: "11:45 - 12:00 Logistics and Research Speed Dating Logistics (*Zoom*)"
-    - name: "12:00 - 1:00 MITRE Bite-Sized Lunchtime Talk (encouraged) (*Zoom*)
+    - name: "12:00 - 1:00 MITRE Bite-Sized Lunchtime Talk #5 (video) (Q+A) OR R, STATA, and Python Office hours with Mathematica TAs (as needed) (*Zoom*)
     
         - Speaker TBA
         
@@ -255,7 +255,7 @@
     - name: "Mathematica TAs are available via email for consultation (please see Slack)"
     - name: "10:00 - 10:30 Logistics (*Zoom*)"
     - name: "10:30 - 12:00 Work on group projects (*Zoom*)"
-    - name: "12:00 - 1:00 Office of Planning and Analysis (UC Berkeley) Bite-Sized Lunchtime Talk (encouraged) (*Zoom*)
+    - name: "12:00 - 1:00 Office of Planning and Analysis (UC Berkeley) Bite-Sized Lunchtime Talk #6 (encouraged) (*Zoom*)
     
         - [Lisa Garcia-Bedolla, Vice Provost for Graduate Studies and Dean of the Graduate Division, and Professor in the Graduate School of Education](https://gse.berkeley.edu/lisa-garc%C3%ADa-bedolla)"  
         
@@ -269,7 +269,7 @@
     - name: "Mathematica TAs are available via email for consultation (please see Slack)"
     - name: "10:00 - 10:30 Logistics (*Zoom*)"
     - name: "10:30 - 12:00 Work on group projects (*Zoom*)"
-    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk (encouraged) (*Zoom*)" 
+    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk #7 (video) (Q+A)  OR R, STATA, and Python Office hours with Mathematica TAs (as needed) (*Zoom*)" 
     - name: "1:00 - 4:00 Work on group projects (*Zoom*)"
     - name: "4:00 - 5:30 Shawndra Hill, Ph.D., Senior lecturer, Marketing, Columbia Business School & Principal Scientist at Facebook in the Core Data Science Team, (Title TBA) - LIVE session to include Q&A and office hour (*Zoom*)"
     
