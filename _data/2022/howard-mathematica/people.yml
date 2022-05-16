@@ -96,7 +96,11 @@ panels:
       image: /assets/images/Kyla_McMullen.jpg
       bio: 'Dr. Kyla McMullen earned her Bachelor of Science in Computer Science from the University of Maryland, Baltimore County (UMBC), where she was also a Meyerhoff Scholar. She earned her Masters and Ph.D. degrees in Computer Science and Engineering from the University of Michigan (2007-2012). While earning her Ph.D. she was also a faculty member at Wayne State University in Detroit, Michigan. At Wayne State University she taught computer literacy courses to over 2,000 students. Dr. McMullen is the first (and currently the only) woman of color to earn a Ph.D. in Computer Science and Engineering from the University of Michigan. She is currently a tenure-track faculty member in the University of Florida’s Computer & Information Sciences & Engineering Department. Dr. McMullen has a personal commitment to encouraging women and minorities to pursue careers in computing and other STEM fields. She is the author of "Beautiful, Black, and Brainy" and "Brilliant is the New Black" which showcase hundreds of exceptional young African Americans who excel in STEM fields and don’t fit the typical "scientist" stereotype.'
       website: http://kylamcmullen.com/
-    
+  
+    - name: Lebogang Ramafoko
+      image: /assets/images/Lebogang_Ramafoko.jpeg
+      bio: "Lebogang is currently the Executive Director of Oxfam South Africa. Lebogang is an outspoken feminist thinker and strategist, a sought-after speaker, facilitator, and trainer who is passionate about social justice particularly for young women and girls. Lebogang combines her own life experience as a black woman who grew up in Apartheid South Africa, thrust into activism at an early age and the skills she acquired through her training to speak out against injustice wherever she goes. She is one of the prominent media commentators and advocates on various social issues facing women in South Africa."
+      website: https://docs.google.com/document/d/1cs3rwShBjHTNd6AN8swy9eRR_fQrS0aA/edit?usp=sharing&ouid=112934598660812456864&rtpof=true&sd=true
 
 roundtable discussions:
   title: '"Real Talk" Roundtable Discussions'
@@ -133,7 +137,7 @@ lunchtime talks:
 
     - name: Campus-wide Institutional Survey Research and Data Collection (Graduate Division UC Berkeley) 
       image: /assets/images/Berkeley_Graduate.png
-      bio: "The Graduate Division is committed to expanding the diversity of Berkeley’s student body, and supporting students from all backgrounds, especially those from underrepresented groups, in their academic, personal and professional journeys. We’re here to help you build community and make our campus your new home."
+      bio: "The Graduate Division is committed to expanding the diversity of Berkeley’s student body, and supporting students from all backgrounds, especially those from underrepresented groups, in their academic, personal and professional journeys."
       website: https://grad.berkeley.edu/
 
     - name: Cite Black Women
