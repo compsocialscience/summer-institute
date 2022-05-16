@@ -24,14 +24,16 @@
     - name: "13:00 - 17:00 Afternoon session and group activities"
 
 - date: Thursday June 16, 2022
-  events: Experiments in the Digital Era
+  name: Experiments in the Digital Era
+  events:
     - name: "9:00 - 9:55 Morning session"
     - name: "10:00 - 11:55 Guest lecture (virtual) by Dr. Hai Liang (CUHK): Detection of Content Incivility and Its Causal Effects using Machine Learning"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 17:00 Afternoon session and group activities"
 
 - date: Friday June 17, 2022
-  events: Topic TBC
+  name: Topic TBC
+  events: 
     - name: "9:00 - 9:55 Morning session"
     - name: "10:00 - 11:55 Guest lecture (in person) by Dr. Prasanta Bhattacharya (A*STAR): Modeling the Dynamics of Social Networks and Behavior: Concepts, Methods and Applications"
     - name: "12:00 - 13:00 Lunch"
