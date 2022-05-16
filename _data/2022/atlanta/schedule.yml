@@ -10,7 +10,7 @@
   events:
     - name: "10:00 - 11:00 Introductions & Announcements"
     - name: "11:00 - 12:00 Why SICSSS? & Ethics, Pt. 1"
-    - name: "12:00 - 1:30 Guest Lecturer & Lunch: TBA"
+    - name: "12:00 - 1:30 Guest Lecturer & Lunch: Jesse Lecy, Urban Institute"
     - name: "1:30 - 2:30 Ethics, Pt. 2"
     - name: "2:30 - 4:30 Groups: Introduction, Work Session & Wrap-up"
 
@@ -20,15 +20,15 @@
     - name: "10:00 - 11:00 Announcements, Icebreaker, an Introduction to Digital Trace Data"
     - name: "11:00 - 12:00 Collecting Digital Trace Data"
     - name: "12:00 - 1:00 Introduction to Activity & Lunch"
-    - name: "1:00 - 2:00 Guest Lecturer"
+    - name: "1:00 - 2:00 Guest Lecturer: Omar Asensio, Georgia Tech"
     - name: "2:00 - 4:30 Groups: Work Session & Wrap-up"
 
 
 - date: 2022-06-23
   name: Text Analysis
   events:
-    - name: "10:00 - 12:30 Announcments & Guest Lecturer"
-    - name: "12:30 - 1:30 Lunch"
+    - name: "10:00 - 12:00 Text Analysis Workshop"
+    - name: "12:30 - 1:30 Lecture & Lunch: Charlotte Alexander, GSU Legal Analytics"
     - name: "1:30 - 2:00 Introduction to Activity"
     - name: "2:00 - 4:30 Groups: Work Session & Wrap-up"
 
@@ -37,7 +37,7 @@
   events:
     - name: "10:00 - 11:30 Announcements & Introduction to Surveys"
     - name: "11:30 - 12:00 Survey Launch"
-    - name: "12:00 - 1:30 Guest Lecturer & Lunch"
+    - name: "12:00 - 1:30 Guest Lecturer & Lunch: Dror Walter, GSU Digital Communication"
     - name: "1:30 - 2:00 Surveys, Pt. 2"
     - name: "2:00 - 4:30 Groups: Work Session & Wrap-up"
 
@@ -55,9 +55,10 @@
 
 - date: 2022-06-27
   events:
-    - name: "10:00 - 11:30 Announcements & Guest Lecture"
-    - name: "11:30 - 1:00 Lunch"
-    - name: "1:00 - 4:30 Group Project Work"
+    - name: "10:00 - 12:00 Announcements & Group Project Work"
+    - name: "12:00 - 1:00 Lunch"
+    - name: "1:00 - 2:00 Guest Lecture: Lauren Klein"
+    - name: "2:00 - 4:00 Group Project Work"
 
 - date: 2022-06-28
   name: Group Project Work
