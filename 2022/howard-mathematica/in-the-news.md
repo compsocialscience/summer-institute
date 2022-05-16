@@ -10,6 +10,11 @@ image: /assets/images/howard.jpg
 <br />
 
 ---
+<u>SICSS-Howard/Mathematica *free* two-week institute</u>
+<br><font color="grey"><font size="2">Mar 21, 2022</font></font> 
+<br><i><font size = "2">From June 18th to July 1st, 2022, Howard University and Mathematica will once again partner on the only Summer Institute in Computational Social Science (SICSS) at a Historically Black College and University.</font></i>
+<br><font size = "1">(Posted by <a href="https://www.pacificsoc.org/10197?utm_source=rss&utm_medium=rss&utm_campaign=sicss-howard-mathematica-free-two-week-institute">The Pacific Sociological Association</a>)</font>
+
 <u>Celebrating Black History Month With SICSS-Howard/Mathematica</u>
 <br><font color="grey"><font size="2">Mar 4, 2022</font></font> 
 <br><i><font size = "2">Sage Publishing spotlights the work of SICSS-Howard/Mathematica 2021, the first Summer Institute in Computational Social Science held at a Historically Black College or University, for Black History Month.</font></i>
