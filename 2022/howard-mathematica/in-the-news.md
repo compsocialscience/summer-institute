@@ -10,6 +10,11 @@ image: /assets/images/howard.jpg
 <br />
 
 ---
+<u>BLOG: SICSS-Howard/Mathematica Alumni Receive Inaugural Excellence in Computational Social Science Research Awards</u>
+<br><font color="grey"><font size="2">May 17, 2022</font></font> 
+<br><i><font size = "2">Support from SICSS-Howard/Mathematica did not end when the summer institute ended. Check these amazing projects and meet these fantastic awardees of Computational Social Science Research Award in this final blog of the SICSS-Howard/Mathematica 2021 Sage Methodspace blogs series, written by Naniette H. Coleman, the founder and lead organizer of SICSS-Howard/Mathematica, and Kristina Hiraishi, event assistant.</font></i>
+<br><font size = "1">(Posted by <a href="https://www.methodspace.com/blog/sicss-howardmathematica-alumni-receive-inaugural-excellence-in-computational-social-science-research-awards">Sage Methodspace</a>)</font>
+
 <u>SICSS-Howard/Mathematica <i>free</i> two-week institute</u>
 <br><font color="grey"><font size="2">Mar 21, 2022</font></font> 
 <br><i><font size = "2">From June 18th to July 1st, 2022, Howard University and Mathematica will once again partner on the only Summer Institute in Computational Social Science (SICSS) at a Historically Black College and University.</font></i>
