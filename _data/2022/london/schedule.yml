@@ -16,16 +16,6 @@
     - name: "4:00  - 5:00  Social Hour (optional)"
 
 - date: 2022-06-14
-  name: "Collecting Digital Trace Data (Lead by Profs. Becker & Perra)"
-  events:
-    - name: "Location - ICBS Room LTUG"
-    - name: "9:30  - 10:00 Light breakfast (optional)"
-    - name: "10:00 - 12:00 Code Tutorial - APIs and Web Scraping"
-    - name: "12:00 - 1:00  Break for Lunch (provided)"
-    - name: "1:00  - 3:30  Small group exercise - scraping hackathon"
-    - name: "3:30  - 4:30  Hackathon group presentations"
-
-- date: 2022-06-15
   name: "Text as Data (Lead by Prof. Yeomans)"
   events:
     - name: "Location - ICBS Room LTG"
@@ -33,6 +23,16 @@
     - name: "10:00 - 12:00 Code Tutorial - Extracting Features from Text"
     - name: "12:00 - 1:00  Break for Lunch (provided)"
     - name: "1:00  - 3:30  Small group exercise - text analysis hackathon"
+    - name: "3:30  - 4:30  Hackathon group presentations"
+
+- date: 2022-06-15
+  name: "Collecting Digital Trace Data (Lead by Profs. Becker & Perra)"
+  events:
+    - name: "Location - ICBS Room LTUG"
+    - name: "9:30  - 10:00 Light breakfast (optional)"
+    - name: "10:00 - 12:00 Code Tutorial - APIs and Web Scraping"
+    - name: "12:00 - 1:00  Break for Lunch (provided)"
+    - name: "1:00  - 3:30  Small group exercise - scraping hackathon"
     - name: "3:30  - 4:30  Hackathon group presentations"
 
 - date: 2022-06-16
@@ -44,8 +44,8 @@
     - name: "11:00 - 12:00 Survey design and launch"
     - name: "12:00 - 1:00  Break for Lunch (provided)"
     - name: "1:00  - 2:00  Code Tutorial - non-representative sampling"
-    - name: "2:00  - 3:30  Small group survey analysis"
-    - name: "3:30  - 4:30  Survey results group presentations"
+    - name: "2:00  - 4:00  Small group survey analysis & presentations"
+    - name: "4:00  - 5:30  Keynote Seminar - Neave O'Clery"
 
 - date: 2022-06-17
   name: "Network analysis (Lead by Prof. Perra)"
@@ -65,7 +65,7 @@
     - name: "10:00 - 12:00 Group Project Introduction and Topic Brainstorming Exercise"
     - name: "12:00 - 1:00  Break for Lunch (provided)"
     - name: "1:00  - 3:00  Group Project Proposals and Matchmaking"
-    - name: "3:00  - 5:00  Guest Keynote Seminar - Yves-Alexandre de Montjoye"
+    - name: "3:00  - 5:00  Keynote Seminar - Yves-Alexandre de Montjoye"
 
 - date: 2022-06-21
   name: "Group Project Work (Lead by Profs. Yeomans & Becker)"
@@ -76,7 +76,7 @@
     - name: "12:00 - 1:00  Break for Lunch (provided)"
     - name: "1:00  - 2:00  Tutorial on Project Funding and Presentation Guide"
     - name: "2:00  - 3:00  Group Project Breakouts"
-    - name: "3:00  - 5:00  Guest Keynote Seminar"
+    - name: "3:00  - 5:00  Keynote Seminar - Stephen Hansen"
 
 - date: 2022-06-22
   name: "Group Project Work (Lead by Profs. Yeomans & Becker)"
@@ -87,7 +87,7 @@
     - name: "11:00 - 12:00 Student-led methods tutorials (encouraged) "
     - name: "12:00 - 1:00  Break for Lunch (provided)"
     - name: "1:00  - 2:00  Group Project Breakouts"
-    - name: "2:00  - 4:00  Guest Keynote Seminar - Alex Sutherland"
+    - name: "2:00  - 4:00  Keynote Seminar - Alex Sutherland"
     - name: "4:00  - 5:00  Group Project Breakouts"
 
 - date: 2022-06-23
@@ -98,8 +98,8 @@
     - name: "10:00 - 11:00 Group Project Breakouts"
     - name: "11:00 - 12:00 Student-led methods tutorials (encouraged)"
     - name: "12:00 - 1:00  Break for Lunch (provided)"
-    - name: "1:00  - 3:00  SICSS London Alumni - project updates & social"
-    - name: "3:00  - 5:00  Guest Keynote Presentation"
+    - name: "1:00  - 3:00  Group Project Breakouts"
+    - name: "3:00  - 5:00  SICSS London Alumni - project updates & social"
 
 - date: 2022-06-24
   name: "Final Presentation Day (Lead by Profs. Yeomans & Becker)"
@@ -110,6 +110,3 @@
     - name: "12:00 - 1:00  Break for Lunch (provided)"
     - name: "2:00  - 4:00  Final Project presentations"
     - name: "4:00  - 5:00  Social Hour & wrap-up"
-
-
-
