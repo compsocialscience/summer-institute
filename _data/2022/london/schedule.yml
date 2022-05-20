@@ -22,8 +22,8 @@
     - name: "9:30  - 10:00 Light breakfast (optional)"
     - name: "10:00 - 12:00 Code Tutorial - Extracting Features from Text"
     - name: "12:00 - 1:00  Break for Lunch (provided)"
-    - name: "1:00  - 3:30  Small group exercise - text analysis hackathon"
-    - name: "3:30  - 4:30  Hackathon group presentations"
+    - name: "1:00  - 4:00  Small group exercise - text analysis hackathon"
+    - name: "4:00  - 5:00  Hackathon group presentations"
 
 - date: 2022-06-15
   name: "Collecting Digital Trace Data (Lead by Profs. Becker & Perra)"
@@ -32,8 +32,8 @@
     - name: "9:30  - 10:00 Light breakfast (optional)"
     - name: "10:00 - 12:00 Code Tutorial - APIs and Web Scraping"
     - name: "12:00 - 1:00  Break for Lunch (provided)"
-    - name: "1:00  - 3:30  Small group exercise - scraping hackathon"
-    - name: "3:30  - 4:30  Hackathon group presentations"
+    - name: "1:00  - 4:00  Small group exercise - scraping hackathon"
+    - name: "4:00  - 5:00  Hackathon group presentations"
 
 - date: 2022-06-16
   name: "Surveys in a Digital Age (Lead by Prof. Becker)"
@@ -45,7 +45,7 @@
     - name: "12:00 - 1:00  Break for Lunch (provided)"
     - name: "1:00  - 2:00  Code Tutorial - non-representative sampling"
     - name: "2:00  - 4:00  Small group survey analysis & presentations"
-    - name: "4:00  - 5:30  Keynote Seminar - Neave O'Clery"
+    - name: "4:00  - 5:30  Guest Keynote Seminar - Neave O'Clery"
 
 - date: 2022-06-17
   name: "Network analysis (Lead by Prof. Perra)"
@@ -54,8 +54,8 @@
     - name: "9:30  - 10:00 Light breakfast (optional)"
     - name: "10:00 - 12:00 Code Tutorial - Modeling contagion with networks"
     - name: "12:00 - 1:00  Break for Lunch (provided)"
-    - name: "1:00  - 3:30  Small group exercise - network analysis hackathon"
-    - name: "3:30  - 4:30  Hackathon group presentations"
+    - name: "1:00  - 4:00  Small group exercise - network analysis hackathon"
+    - name: "4:00  - 5:00  Hackathon group presentations"
 
 - date: 2022-06-20
   name: "Group Project Formation (Lead by Profs. Yeomans & Becker)"
@@ -65,7 +65,7 @@
     - name: "10:00 - 12:00 Group Project Introduction and Topic Brainstorming Exercise"
     - name: "12:00 - 1:00  Break for Lunch (provided)"
     - name: "1:00  - 3:00  Group Project Proposals and Matchmaking"
-    - name: "3:00  - 5:00  Keynote Seminar - Yves-Alexandre de Montjoye"
+    - name: "3:00  - 5:00  Guest Keynote Seminar - Yves-Alexandre de Montjoye"
 
 - date: 2022-06-21
   name: "Group Project Work (Lead by Profs. Yeomans & Becker)"
@@ -76,7 +76,7 @@
     - name: "12:00 - 1:00  Break for Lunch (provided)"
     - name: "1:00  - 2:00  Tutorial on Project Funding and Presentation Guide"
     - name: "2:00  - 3:00  Group Project Breakouts"
-    - name: "3:00  - 5:00  Keynote Seminar - Stephen Hansen"
+    - name: "3:00  - 5:00  Guest Keynote Seminar - Stephen Hansen"
 
 - date: 2022-06-22
   name: "Group Project Work (Lead by Profs. Yeomans & Becker)"
@@ -87,7 +87,7 @@
     - name: "11:00 - 12:00 Student-led methods tutorials (encouraged) "
     - name: "12:00 - 1:00  Break for Lunch (provided)"
     - name: "1:00  - 2:00  Group Project Breakouts"
-    - name: "2:00  - 4:00  Keynote Seminar - Alex Sutherland"
+    - name: "2:00  - 4:00  Guest Keynote Seminar - Alex Sutherland"
     - name: "4:00  - 5:00  Group Project Breakouts"
 
 - date: 2022-06-23
