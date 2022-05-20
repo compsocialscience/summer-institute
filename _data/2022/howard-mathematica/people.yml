@@ -16,6 +16,11 @@ faculty:
       bio: "Nicole is currently an Assistant Professor in the Department of Sociology and Criminology at Howard University. She received her Doctoral degree from the University of Nevada Las Vegas in the Department of Sociology in 2020. She obtained an M.A. in Sociology in 2017 and B.A. in Sociology in 2015 from the University of Nevada Las Vegas. In 2013, she received an A.A. in Criminal Justice after serving six years of active duty in the United States Air Force as Military Police. She is a proud advocate for social justice and is committed to teaching with such emphasis in topics such as race and ethnic studies, sociology of poverty, problems of the black community, and research methods."
       website: https://profiles.howard.edu/profile/58581/nicole-dezrea-jenkins
 
+    - name: Amy Yeboah Quarkume, Ph.D.
+      image: /assets/images/Amy_Yeboah_Quarkume.jpg
+      bio: "Dr. Amy Yeboah Quarkume, affectionally known as Dr. A, is a daughter of Africa, scholar, filmmaker and Associate Professor of Africana Studies in the Department of Afro-American Studies at Howard University. She holds a Ph.D. in African American Studies, two Masters of Arts in Sociology and African American Studies and a forthcoming Certificate in Data Science. Dr. A is an Andrew Mellon New Direction Fellow, invited presenter for Scribe Video Center’s Storyville series by the National Endowment for the Arts, and a White House Initiative HBCU All-Star Campus Mentor."
+      website: https://profiles.howard.edu/profile/43496/amy-yeboah-quarkume
+
 
 opening:
   title: Opening Plenary Speaker 
@@ -87,6 +92,11 @@ Praxis to power:
 panels:
   title: Panelists
   people:
+    - name: Vissého Adjiwanou, Ph.D.
+      image: /assets/images/Vissého_Adjiwanou.jpeg
+      bio: "Vissého Adjiwanou joined the academic staff of the Department of Sociology at the Université du Québec à Montréal (UQAM) in July 2018 as professor of Demography and Quantitative Methods. Previously, he has served as Senior Lecturer at the University of Cape Town in South Africa. He received a M.A in Statistics in 2001 from the National School of Statistics and Applied Economics (ENSEA-Cote d’Ivoire), a M.A in Economics of Development in 2003 at the Centre for Studies and Research on International Development (CERDI- France) and a Ph.D in Demography in 2013 from the Université de Montréal (Canada). His research focuses on population issues in sub-Saharan Africa, including fertility, family dynamics, gender inequality, and reproductive health. His most recent work has investigated the pattern and effect of step-parenting on children schooling and health in sub-Saharan Africa, and on the effect of remarriage on fertility in Malawi. He develops new research interests at the intersection of social science and computation science."
+      website: https://www.mcgill.ca/popcentre/people-0/associate-members-0/visseho-adjiwanou 
+      
     - name: Andre Brock, Ph.D.
       image: /assets/images/Andre_Brock.jpeg
       bio: 'André Brock is an associate professor of media studies at Georgia Tech. He writes on Western technoculture, Black technoculture, and digital media. His scholarship examines Black and white representations in social media, videogames, weblogs, and other digital media. He has also published influential research on digital research methods. His award-winning book, "Distributed Blackness: African American Cybercultures", theorizes Black everyday lives as Black joy, mediated by networked digital technologies.'
@@ -101,11 +111,22 @@ panels:
       image: /assets/images/Kyla_McMullen.jpg
       bio: 'Dr. Kyla McMullen earned her Bachelor of Science in Computer Science from the University of Maryland, Baltimore County (UMBC), where she was also a Meyerhoff Scholar. She earned her Masters and Ph.D. degrees in Computer Science and Engineering from the University of Michigan (2007-2012). While earning her Ph.D. she was also a faculty member at Wayne State University in Detroit, Michigan. At Wayne State University she taught computer literacy courses to over 2,000 students. Dr. McMullen is the first (and currently the only) woman of color to earn a Ph.D. in Computer Science and Engineering from the University of Michigan. She is currently a tenure-track faculty member in the University of Florida’s Computer & Information Sciences & Engineering Department. Dr. McMullen has a personal commitment to encouraging women and minorities to pursue careers in computing and other STEM fields. She is the author of "Beautiful, Black, and Brainy" and "Brilliant is the New Black" which showcase hundreds of exceptional young African Americans who excel in STEM fields and don’t fit the typical "scientist" stereotype.'
       website: http://kylamcmullen.com/
-  
+ 
+    - name: Bhaso Ndzendze, Ph.D.
+      image: /assets/images/Bhaso_Ndzendze.jpeg
+      bio: "Dr Bhaso Ndzendze is a Senior Lecturer and Head of Department: Politics and International Relations at the University of Johannesburg. Dr Ndzendze is also founder and head of the 4IR and Digital Policy Research Unit at the University of Johannesburg, and a digital policy fellow at the Berlin-based African Policy Research Institute. He is author of two books on artificial intelligence and international relations and is editor in chief of the journal Digital Policy Studies. His scholarship and opinion on technology, society and digital policy has appeared in numerous edited books and the press."
+      website: https://bhasondzendze.co.za/ 
+      
+    - name: Danielle Olson, Ph.D.
+      image: /assets/images/Danielle_Olson.jpeg
+      bio: "Dr. Danielle M. Olson is an AI/ML Human Factors Researcher at Apple based in Seattle, WA. She collaborates with technical and creative partners to inform how machine learning-powered products are built at Apple. She leads research to better understand the infinite ways human experiences with technologies can vary so that she can advocate for humans throughout the design and development process."
+      website: http://hellodanio.com/
+      
     - name: Lebogang Ramafoko
       image: /assets/images/Lebogang_Ramafoko.jpeg
       bio: "Lebogang is currently the Executive Director of Oxfam South Africa. Lebogang is an outspoken feminist thinker and strategist, a sought-after speaker, facilitator, and trainer who is passionate about social justice particularly for young women and girls. Lebogang combines her own life experience as a black woman who grew up in Apartheid South Africa, thrust into activism at an early age and the skills she acquired through her training to speak out against injustice wherever she goes. She is one of the prominent media commentators and advocates on various social issues facing women in South Africa."
       website: https://docs.google.com/document/d/1cs3rwShBjHTNd6AN8swy9eRR_fQrS0aA/edit?usp=sharing&ouid=112934598660812456864&rtpof=true&sd=true
+
 
 roundtable discussions:
   title: '"Real Talk" Roundtable Discussions'
@@ -129,7 +150,6 @@ roundtable discussions:
 lunchtime talks:
   title: Bite-Sized Lunchtime Talks
   people:
-  
     - name: Africa Center for Strategic studies
       image: /assets/images/Africa_center.png
       bio: "Since its inception in 1999, the Africa Center has served as a forum for research, academic programs, and the exchange of ideas with the aim of enhancing citizen security by strengthening the effectiveness and accountability of African institutions."
