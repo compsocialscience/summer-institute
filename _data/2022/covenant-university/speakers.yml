@@ -17,6 +17,11 @@
   image: /assets/images/tim_riffe.jpg
   bio: "<p align='justify'>Tim Riffe is a demographer, with a research focus in data, formal methods, mortality, population health, data visualization, and open science. He is currently an Ikerbasque Research Fellow and Visiting Professor at the University of the Basque Country. In 2020 he founded the COVerAGE Database, a global demographic database of COVID-19 cases, deaths, tests, and vaccinations, which has underpinned efforts to monitor the pandemic at the WHO, UN-DESA, UNICEF, and in the global health literature. He also serve on the WHO / UN-DESA Technical Advisory Group for COVID-19 Excess Mortality, where his primary contribution aims to characterize age patterns of COVID-19 direct mortality and all-cause excess mortality for 2020, based on combining various global datasets. He regularly teach short workshops on R programming, demography, and data visualization in programs such as BSSD, EDSD, PHDS, and others.</p>"
   website: https://twitter.com/timriffe1/
+  
+- name: Lebogang Ramafoko
+  image: /assets/images/LRamafoko.jpeg
+  bio: "<p align='justify'>Lebogang is currently the Executive Director of Oxfam South Africa. Lebogang is an outspoken feminist thinker and strategist, a sought-after speaker, facilitator, and trainer who is passionate about social justice particularly for young women and girls. Lebogang combines her own life experience as a black woman who grew up in Apartheid South Africa, thrust into activism at an early age and the skills she acquired through her training to speak out against injustice wherever she goes. She is one of the prominent media commentators and advocates on various social issues facing women in South Africa.</p>"
+  website: https://docs.google.com/document/d/1cs3rwShBjHTNd6AN8swy9eRR_fQrS0aA/edit?usp=sharing&ouid=112934598660812456864&rtpof=true&sd=true
 
 - name: Yudhvir Seetharam
   image: /assets/images/Yudhvir.png
