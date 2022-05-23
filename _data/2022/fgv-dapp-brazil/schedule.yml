@@ -34,15 +34,13 @@
   name: Automated Text Analysis
   events:
     - name: "10:00 - 10:15 Logistics and introduction to group exercise (*Zoom*)"
-    - name: "10:15 - 11:30 Workshop: Modern NLP Techniques, Lucas Roberto (FGV DAPP) (Zoom)"
-    - name: "11:30 - 12:00 Break"
+    - name: "10:15 - 11:30 Workshop: Modern NLP Techniques, Lucas Roberto (FGV DAPP) (Zoom)"    - name: "11:30 - 12:00 Break"
     - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 3:00 Text Analysis Group Exercise (Small Group) [Lesson Instructions](https://docs.google.com/document/d/1q6y2G0SPuum6gG-If911c5LdGKRBra8YqJ5Ce6JyYW4/edit)"
     - name: "3:30 - 4:00 Debrief and logistics (*Zoom*)"
     - name: "4:00 - 4:45 GUEST-SPEAKER: **Leonardo Nascimento**
-
-    
+   
 
 
 - date: 2022-06-23
