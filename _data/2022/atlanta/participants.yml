@@ -1,1 +1,8 @@
-- name:
+- name: "Amy Eremionkhale"
+  image: /assets/images/Amy Eremionkhale.jpeg
+  bio: "Amy Eremionkhale is a Clinical Assistant Professor of Economics at Georgia State University. Her current research focuses on the impact of price, income, and externalities on incentives for health care providers and on patient behaviors. Additionally, she does research on the impact of pricing on antimicrobial use and antimicrobial resistance." 
+  
+  - name: "Heather Offutt"
+  image: /assets/images/Heather offutt.jpg
+  bio: "Heather Offutt is an Associate Professor of Psychology at Georgia State University Cognitive Sciences program, and an associate member of the Neuroscience Institute. Her research focus is memory and decision-making in the legal context. She consults with trial attorneys in eyewitness identification cases and serves as an expert witness."  
+  website: https://cas.gsu.edu/profile/heather-kleider-offutt/
