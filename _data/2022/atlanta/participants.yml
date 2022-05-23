@@ -2,7 +2,56 @@
   image: /assets/images/Amy Eremionkhale.jpeg
   bio: "Amy Eremionkhale is a Clinical Assistant Professor of Economics at Georgia State University. Her current research focuses on the impact of price, income, and externalities on incentives for health care providers and on patient behaviors. Additionally, she does research on the impact of pricing on antimicrobial use and antimicrobial resistance." 
   
-  - name: "Heather Offutt"
+- name: "Heather Offutt"
   image: /assets/images/Heather offutt.jpg
   bio: "Heather Offutt is an Associate Professor of Psychology at Georgia State University Cognitive Sciences program, and an associate member of the Neuroscience Institute. Her research focus is memory and decision-making in the legal context. She consults with trial attorneys in eyewitness identification cases and serves as an expert witness."  
   website: https://cas.gsu.edu/profile/heather-kleider-offutt/
+ 
+- name: "Risa	Palm"
+  image: /assets/images/Risa Palm.jpeg
+  bio: "Risa Palm is a Professor of Urban Studies at Georgia State University and was provost from 2009-2019.  Her Ph.D. is in geography, and she does research on science communication.  She has three recent books on the impact of visual information about sea-level rise on the housing market in South Florida, and the use of various messages to affect vaccine hesitancy."  
+  website: https://urbaninstitute.gsu.edu/profile/risa-palm/
+  
+- name: "Ben Wills"
+  image: /assets/images/Ben Wills.jpg
+  bio: "Ben Curran Wills is a MS candidate in the School of History and Sociology under a Kranzberg Fellowship. He is interested in equity implications of telehealth and aligned business models, masculinities, financialization; and labor/future of work. Previously he was a (senior) project manager and research assistant at The Hastings Center, a bioethics think tank in New York, where he worked on ethics of public deliberation over wild release of genetically modified organisms, the impacts of returning genetic test results about autism, and public opinion of human-animal chimera research, among other projects."  
+  website: https://hsoc.gatech.edu/people/person/bencwills
+  
+- name: "Ivan	Flores Martinez"
+  image: /assets/images/Ivan Flores.jpg
+  bio: "Ivan Flores Martinez is doctoral student in the Public Policy Program at UNC Charlotte. He studies the dynamics of criminal violence in Mexico and its consequences on citizens´ wellbeing. Additionally, he uses NLP and transformer models to build new datasets about phenomena that is hard to quantify."  
+  website: https://webpages.charlotte.edu/ifloresm
+  
+- name: "Callie	Burt"
+  image: /assets/images/Callie Burt.jpg
+  bio: "Callie Burt is Associate Professor of Criminal Justice and Criminology at Georgia State University, and she is affiliated with several interdisciplinary research centers including GSU’s Center for Research on Interpersonal Violence (CRIV) and U of Washington’s Center for Studies in Demography and Ecology (CSDE). Her research interests include developmental and life-course criminology, social inequalities, and sociogenomics."  
+  website: https://callieburt.org
+  
+- name: "Thomas	Goldring"
+  image: /assets/images/Thomas Goldring.JPG
+  bio: "Thomas Goldring is the Director of Research at the Georgia Policy Labs. His research leverages research-practice partnerships with state agencies and school districts to build, support, and improve evidence-based decision-making that serves vulnerable populations in Georgia. He holds a PhD in public policy and management from Carnegie Mellon University."  
+  website: https://tgoldring.com/
+  
+- name: "Wendy Zhou"
+  image: /assets/images/Wendy Zhou.png
+  bio: "Wendy Weile Zhou is a Ph.D. Candidate in Communication at Georgia State University (GSU). Her research focuses on Chinese political discourse, digital journalism and transnational/diaspora media. She is also interested in applying mixed methods, e.g., qualitative discourse and quantitative sentiment/topic modeling/network analysis, for social media analysis. Before joining GSU, she served as the Chinese editor of Global Investigative Journalism Network (GIJN) and research assistant at the Journalism and Media Studies Center at the University of Hong Kong, where she earned a master’s degree in Journalism."  
+  
+- name: "Chris Thayer"
+  image: /assets/images/Chris Thayer.jpg
+  bio: "Chris Thayer is a Data Scientist with the Georgia Policy Labs specializing in data preparation, sensitive data de-identification, and policy communication. Their research interests include administrative data linkage and housing programs. Chris holds master’s degrees in public policy and city & regional planning from the Georgia Institute of Technology."  
+  
+- name: "Lorenzo Almada"
+  image: /assets/images/Lorenzo Almada.jpeg
+  bio: "Lorenzo Almada is a clinical assistant professor of economics at the Andrew Young School of Policy Studies at Georgia State University (GSU). He received his PhD in Economics from GSU in 2014 and spent 3 years as a Postdoctoral Research Scientist at the Columbia Population Research Center and Columbia University’s School of Social Work. Dr. Almada’s research interests focus primarily on policy-driven questions in the field of health economics centered around the effects of food assistance programs and social policies on diet-related outcomes."  
+  website: https://www.linkedin.com/in/lorenzo-nicolas-almada-87351242/
+  
+- name: "Eliza Oak"
+  image: /assets/images/Eliza Riley Oak.jpg
+  bio: "Eliza Oak is a second-year political science PhD student, also pursuing an MA in Statistics & Data Science, at Yale University. Her work broadly spans comparative politics, international political economy, and quantitative methods. Specifically, she's interested in questions related to the politics of blockchain and other emerging technologies, particularly in developing markets. She has used a variety of methods in her research, including applying machine learning techniques to collect and analyze text and image data, or analyzing original survey and experimental data. Prior to Yale, Eliza worked as a research associate at MIT’s Political Methodology Lab, and she holds a BA in political science from BYU."  
+  website: https://www.linkedin.com/in/eliza-riley-oak-322292109/
+  
+  
+  
+  
+  
+  
