@@ -42,3 +42,8 @@
   image: /assets/images/SimonMusgrave.jpg
   bio: "Dr Simon Musgrave was a member of the linguistics program at Monash University from 2003 until 2020. His research interests included the use of computational tools in linguistic research and the relationship between linguistics and digital humanities. He was involved in the Australian National Corpus project, an important piece of digital research infrastructure, and has been a member of the executive of the Australasian Association for Digital Humanities since 2015. Simon currently is part of the team delivering various language-related infrastructures including the Australian Text Analytics Platform and the Language Data Commons of Australia." 
   website: https://lens.monash.edu/@simon-musgrave
+  
+- name: Daniel Angus
+  image: /assets/images/DanielAngus.jpg
+  bio: "Daniel Angus is a Professor of Digital Communication, leader of the QUT Digital Media Research Centre’s Computational Communication and Culture Program, and Chair of Infrastructure within the ARC Centre of Excellence for Automated Decision Making and Society. His research examines issues at the intersection of technology and society, with a  focus on algorithms, misinformation, and new methods to study the digital society." 
+  website: https://www.qut.edu.au/about/our-people/academic-profiles/daniel.angus
