@@ -4,7 +4,8 @@
     - name: Specific schedule details subject to change.
 
 - date: June 20, 2022
-  events: Introduction and Ethics
+  name: Introduction and Ethics 
+  events:
     - name: "9:30 - 10:30 Introduction and logistics"
     - name: "10:30 - 11:30 Talk by SICSS Alums"
     - name: "11:30 - 12:30 Small group discussions"
@@ -12,7 +13,8 @@
     - name: "1:30 - 4:00 Small Group Exercise on Ethics."
  
 - date: June 21, 2022
-  events: Digital Trace Data
+  name: Digital Trace Data
+  events:
     - name: "9:00 - 9:30 Logistics" 
     - name: "9:30 - 12:00 Tutorials on Screen Scraping and APIs" 
     - name: "12:00 - 1:30 Lunch"
@@ -21,7 +23,8 @@
     - name: "4:00- Community Building Activity"
 
 - date: June 22, 2022
-  events: Text as Data
+  name: Text as Data 
+  events:
     - name: "9:00 - 9:30 Logistics"
     - name: "9:30 - 10:30 Highlights of Text as Data"
     - name: "10:30-11:30 Group Exercise, Session I"
@@ -40,7 +43,8 @@
     - name: "2:30 - 5:00 Afternoon Group Exercise"
 
 - date: June 24, 2022
-  events: Surveys and Experiments
+  name: Surveys and Experiments
+  events: 
     - name: "9:00 - 9:30 Logistics"
     - name: "9:30 - 10:15 Online Surveys"
     - name: "10:15 - 12:00 Group Exercise, Session I"
@@ -49,12 +53,13 @@
     - name: "2:30 - 3:00 Digital Experiments"
     - name: "3:00 - 4:30 Group Exercise, Session III"
  
- - date: June 25-26, 2022
+- date: June 25-26, 2022
   events:
     - name: "No meetings. Enjoy New Brunswick."
  
- - date: June 27, 2022
-  events: Group Formation
+- date: June 27, 2022
+  name: Group Formation
+  events: 
     - name: "9:30 - 10:00 Logistics."
     - name: "10:00 - 12:00 Group Formation."
     - name: "12:00 - 1:30 Talk by Jessica Hamilton and Melissa Dreier."
@@ -62,25 +67,29 @@
     - name: "2:30 - 5:00 Work with small groups"
 
 - date: June 28, 2022
-  events: Group work day
+  name: Group work day
+  events:
     - name: "9:00 - 12:00 Group work time"
     - name: "12:00 - 1:30 Talk by Tamar Mitts"
     - name: "1:30 - 2:30 Lunch"
     - name: "2:30 - 5:00 Group work time"
 
- - date: June 29, 2022
-  events: Group work day
+- date: June 29, 2022
+  name: Group work day
+  events: 
     - name: "9:00 - 12:00 Group work time"
     - name: "12:00 - 1:30 Talk by Gonzalo Rivero"
     - name: "1:30 - 2:30 Lunch"
     - name: "2:30 - 5:00 Group work time"
     
 - date: June 30, 2022
-  events: Group work day
+  name: Group work day
+  events: 
     - name: "9:00 - 12:00 Group work time"
     - name: "12:00 - 1:00 Lunch"
     - name: "1:00 - 5:00 Group work time"
     
 - date: July 1, 2022
-  events: Group Presentations
+  name: Group Presentations
+  events: 
     - name: "Schedule to be posted."
