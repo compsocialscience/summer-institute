@@ -17,7 +17,7 @@ All accepted participants will be accommodated at one of the Postgraduate halls 
 
 All participants should be vaccinated against COVID-19. Participants will be required to wear nose masks during the institute. Additionally, all measures to curtail the spread of COVID-19 will be fully adhered to during the institute.
 
-Inquiries can be sent to [cepder@covenantuniversity.edu.ng](cepder@covenantuniversity.edu.ng)
+Inquiries can be sent to [cepder.sicss@covenantuniversity.edu.ng](cepder.sicss@covenantuniversity.edu.ng)
 
 
 ## Travel Frequently Asked Questions

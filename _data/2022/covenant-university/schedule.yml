@@ -90,9 +90,11 @@
     <br/> 
     Required Readings:
     
+    - <a href='https://doi.org/10.1371/journal.pcbi.1008117' target='_blank'>Real-time estimation of disease activity in emerging outbreaks using internet search information</a>
+    
     - <a href='https://ojs.aaai.org/index.php/ICWSM/article/view/3360' target='_blank'>Using search queries to understand health information needs in Africa</a>
     
-    - <a href='https://doi.org/10.2196/24425' target='_blank'>COVID-19 misinformation sSpread in eight countries: Exponential growth modeling study</a>
+    - <a href='https://doi.org/10.2196/24425' target='_blank'>COVID-19 misinformation spread in eight countries: Exponential growth modeling study</a>
     
     - <a href='https://doi.org/10.2196/29819' target='_blank'>Searching for HIV and AIDS health information in South Africa, 2004-2019: Analysis of Google and Wikipedia search trends</a>
     
@@ -141,8 +143,24 @@
     - name: "**09:00-09:15** Housekeeping and Announcements."
     - name: "**09:15-13:00** Group Exercises"
     - name: "**13:00-14:00** Lunch"
-    - name: "**14:00-16:30** Group Exercises"
-    - name: "**16:30-18:00** Invited Talk"
+    - name: "**14:00-16:00** Group Exercises"
+    - name: "**16:00-18:00** SICSS-Africa + African Descendants Inaugural Joint Panel (with: 
+<a href='https://sicss.io/2022/jias' target='_blank'>SICSS-JIAS/IPATC</a>, <a href='https://sicss.io/2022/west-central-africa/' target='_blank'>SICSS-West/Central Africa</a> & <a href='https://sicss.io/2022/howard-mathematica/' target='_blank'>SICSS-Howard/Mathematica</a>): **Interrogating Data Collection Methods Focused on African and African Descendents Around the World:** *Problems, Realities, And Future Opportunities.* 
+    <br/> 
+    <br/> 
+ For Development interventions to solve current and future crises data must be reliable and of high quality. The reality is, concerns about data validity pose a significant bottleneck for generating theoretical insights into the complexity of issues peculiar to peoples of Africa and the African diaspora. Previous attempts at circumventing data challenges in Africa have relied on surveys, estimates, or models that often do not reflect the reality in many African countries. In order to have a robust discussion, certain questions must be asked: 
+ 
+ - What challenges exist in the collection of precise data?  
+ 
+ - How do these challenges affect how poverty indices and reports are generated? 
+ 
+ - What can stakeholders do to improve data quality?  
+ 
+ - What unique tools are available to collect more precise data that includes the perspectives of the communities studied? 
+   <br/> 
+   <br/> 
+This panel will discuss key challenges in the collection of precise data as well as how these challenges influence how African and African diaspora populations are studied and economic indices are generated. The panelists will draw from their unique expertise and experiences working with different forms of data to critically reflect/challenge current data collection methods, while highlighting innovative strategies for collecting data about Africans and the African diaspora."
+ 
     - name: "**18:00-** Dinner"
 
 - date: 2022-06-28
