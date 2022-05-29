@@ -20,8 +20,8 @@
   name: How is the Web Written and How to Collect Data on it?
   events:
     - name: "09:30 - 12:00 Lecture ([Étienne Ollion](www.ollion.cnrs.fr))"
-    - name: "12:00 - 13:30 Lunch Break"
-    - name: "13:30 - 16:30 Group Exercise ([Felix Lennert](https://felix-lennert.netlify.app) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/))"
+    - name: "12:00 - 14:00 Lunch Break"
+    - name: "14:00 - 16:30 Group Exercise ([Felix Lennert](https://felix-lennert.netlify.app) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/))"
     - name: "16:30 - 17:00 Coffee Break"
     - name: "17:00 - 18:30 [Marie Bergström](https://www.ined.fr/en/research/researchers/Bergström+Marie): The New Laws of Love -- Studying Online Dating with Big Data"
     
@@ -29,8 +29,8 @@
   name: Scraping Structured Formats
   events:
     - name: "09:30 - 12:00 Lecture ([Étienne Ollion](www.ollion.cnrs.fr))"
-    - name: "12:00 - 13:30 Lunch Break"
-    - name: "13:30 - 16:30 Group Exercise ([Felix Lennert](https://felix-lennert.netlify.app) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/))"
+    - name: "12:00 - 14:00 Lunch Break"
+    - name: "14:00 - 16:30 Group Exercise ([Felix Lennert](https://felix-lennert.netlify.app) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/))"
     - name: "16:30 - 17:00 Coffee Break"
     - name: "17:00 - 18:30 [Julia Cagé](https://juliacage.com): Hosting Media Bias -- Evidence from the Universe of French
 Broadcasts, 2002-2020"
@@ -39,8 +39,8 @@ Broadcasts, 2002-2020"
   name: Scraping Unstructured Formats
   events:
     - name: "09:30 - 12:00 Lecture ([Étienne Ollion](www.ollion.cnrs.fr))"
-    - name: "12:00 - 13:30 Lunch Break"
-    - name: "13:30 - 16:30 Group Exercise ([Felix Lennert](https://felix-lennert.netlify.app) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/))"
+    - name: "12:00 - 14:00 Lunch Break"
+    - name: "14:00 - 16:30 Group Exercise ([Felix Lennert](https://felix-lennert.netlify.app) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/))"
     - name: "16:30 - 17:00 Coffee Break"
     - name: "17:00 - 18:30 [Liva Ralaivola](https://pageperso.lis-lab.fr/~liva.ralaivola/doku.php): Privacy and Fairness in AdTech and Beyond"
 
@@ -48,8 +48,8 @@ Broadcasts, 2002-2020"
   name: Natural Language Processing
   events:
     - name: "09:30 - 12:00 Lecture ([Étienne Ollion](www.ollion.cnrs.fr))"
-    - name: "12:00 - 13:30 Lunch Break"
-    - name: "13:00 - 16:30 Group Exercise ([Felix Lennert](https://felix-lennert.netlify.app) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/))"
+    - name: "12:00 - 14:00 Lunch Break"
+    - name: "14:00 - 16:30 Group Exercise ([Felix Lennert](https://felix-lennert.netlify.app) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/))"
     - name: "16:30 - 17:00 Coffee Break"
     - name: "17:00 - 18:30 [Elliott Ash](http://elliottash.com): Advances in Natural Language Processing"
 
@@ -64,8 +64,8 @@ Broadcasts, 2002-2020"
   name: Natural Language Processing
   events:
     - name: "09:30 - 12:00 Lecture ([Germain Gauthier](https://pinchofdata.github.io/germaingauthier/))"
-    - name: "12:00 - 13:30 Lunch Break"
-    - name: "13:30 - 16:30 Group Projects"
+    - name: "12:00 - 14:00 Lunch Break"
+    - name: "14:00 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
     - name: "17:00 - 18:30 [David Garcia](https://dgarcia.eu): Validating Social Media Emotion Measurement Across Levels of Behavior"
     
@@ -73,8 +73,8 @@ Broadcasts, 2002-2020"
   name: Natural Language Processing
   events:
     - name: "09:30 - 12:00 [Lucas Girard](https://faculty.crest.fr/lgirard/): Measuring Ideological Segregation from Text"
-    - name: "12:00 - 13:30 Lunch Break"
-    - name: "13:30 - 16:30 Group Projects"
+    - name: "12:00 - 14:00 Lunch Break"
+    - name: "14:00 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
     - name: "17:00 - 18:30 [Ivaylo Petev](https://www.ipetev.org): The Economic Penalty of Discrimination -- Evidence from Online Platforms"
 
@@ -82,8 +82,8 @@ Broadcasts, 2002-2020"
   name: Agent-Based Modeling
   events:
     - name: "09:30 - 12:00 Lecture ([Gianluca Manzo](https://www.gemass.fr/manzo/)) "
-    - name: "12:00 - 13:30 Lunch Break"
-    - name: "13:30 - 16:30 Group Projects"
+    - name: "12:00 - 14:00 Lunch Break"
+    - name: "14:00 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
     - name: "17:00 - 18:30 [Gloria Gennaro](http://gloriagennaro.rbind.io): Randomized Digital Experiments"
     
@@ -91,8 +91,8 @@ Broadcasts, 2002-2020"
   name: Social Experiments in a Digital World
   events:
     - name: "09:30 - 12:00 Lecture ([Marc Keuschnigg](https://www.keuschnigg.org))"
-    - name: "12:00 - 13:30 Lunch Break"
-    - name: "13:30 - 16:30 Group Projects"
+    - name: "12:00 - 14:00 Lunch Break"
+    - name: "14:00 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
     - name: "17:00 - 18:30 [Guillaume Hollard](https://sites.google.com/site/webpagehollard/): TBA"
     - name: "19:00 - 22:00 Farewell Dinner"

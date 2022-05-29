@@ -1,12 +1,27 @@
+- name: Vissého Adjiwanou
+  image: /2019/capetown/images/Visseho.jpg
+  bio: "<p align='justify'>Vissého Adjiwanou is a professor of demography and quantitative and computational methods in the Department of Sociology at the Université du Québec à Montréal (UQAM), and adjunct professor at the Department of Demography (Université de Montréal). He directs the lab on quantitative and computational social science, aiming to use computational approaches and methods in population studies in sub-Saharan Africa. His primary research focuses on population issues in sub-Saharan Africa and Canada, including family dynamics, gender inequality and reproductive health, and integration of immigrants from SSA in Canada. His recent research focuses on understanding the African’s government response to Covid-19 in sub-Saharan Africa through the channel of Facebook data. He led the first SICSS in Africa in <a href=https://sicss.io/2018/capetown/ target='_blank'>2018</a> and <a href=https://sicss.io/2019/capetown/ target='_blank'>2019</a>.</p>"
+  website: https://www.mcgill.ca/popcentre/people-0/associate-members-0/visseho-adjiwanou
+
 - name: Diego Alburez-Gutierrez
   image: /assets/images/diego.JPG
   bio: "<p align='justify'>Diego Alburez-Gutierrez (PhD in Demography, London School of Economics 2018) is a Research Scientist at the Max Planck Institute for Demographic Research, where he specialises in inter-generational demography. His work integrates non-traditional data (e.g., from digital or computational sources) with established demographic sources (e.g. censuses and population registers).</p>"
   website: http://alburez.me/
 
+- name: Suhem Parack
+  image: /assets/images/parack2022.jpeg
+  bio: "<p align='justify'>Suhem Parack is a Staff Developer Advocate at Twitter. He helps students and academic researchers with their research using the Twitter API. Before joining Twitter, he was a Solutions Architect at Amazon.</p>"
+  website: https://twitter.com/suhemparack
+  
 - name: Tim Riffe
   image: /assets/images/tim_riffe.jpg
   bio: "<p align='justify'>Tim Riffe is a demographer, with a research focus in data, formal methods, mortality, population health, data visualization, and open science. He is currently an Ikerbasque Research Fellow and Visiting Professor at the University of the Basque Country. In 2020 he founded the COVerAGE Database, a global demographic database of COVID-19 cases, deaths, tests, and vaccinations, which has underpinned efforts to monitor the pandemic at the WHO, UN-DESA, UNICEF, and in the global health literature. He also serve on the WHO / UN-DESA Technical Advisory Group for COVID-19 Excess Mortality, where his primary contribution aims to characterize age patterns of COVID-19 direct mortality and all-cause excess mortality for 2020, based on combining various global datasets. He regularly teach short workshops on R programming, demography, and data visualization in programs such as BSSD, EDSD, PHDS, and others.</p>"
   website: https://twitter.com/timriffe1/
+  
+- name: Lebogang Ramafoko
+  image: /assets/images/LRamafoko.jpeg
+  bio: "<p align='justify'>Lebogang is currently the Executive Director of Oxfam South Africa. Lebogang is an outspoken feminist thinker and strategist, a sought-after speaker, facilitator, and trainer who is passionate about social justice particularly for young women and girls. Lebogang combines her own life experience as a black woman who grew up in Apartheid South Africa, thrust into activism at an early age and the skills she acquired through her training to speak out against injustice wherever she goes. She is one of the prominent media commentators and advocates on various social issues facing women in South Africa.</p>"
+  website: https://docs.google.com/document/d/1cs3rwShBjHTNd6AN8swy9eRR_fQrS0aA/edit?usp=sharing&ouid=112934598660812456864&rtpof=true&sd=true
 
 - name: Yudhvir Seetharam
   image: /assets/images/Yudhvir.png

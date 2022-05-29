@@ -13,4 +13,6 @@ Participation is restricted to graduate students (including masters students, pr
 
 [Application materials](https://compsocialscience.github.io/summer-institute/2022/singapore/apply) are due Monday, February 21, 2022.
 
-Because of the ongoing COVID-19 pandemic, we are currently planning the summer school to be hybrid in nature, with participants from Singapore being required to attend all events physically, while those outside Singapore joining virtually. This arrangement is tentative and may change depending on the evolving nature of the situation, and in response to restrictions that may be in place at the time of the event.
+~~Because of the ongoing COVID-19 pandemic, we are currently planning the summer school to be hybrid in nature, with participants from Singapore being required to attend all events physically, while those outside Singapore joining virtually. This arrangement is tentative and may change depending on the evolving nature of the situation, and in response to restrictions that may be in place at the time of the event.~~
+
+SICSS-Singapore is currently being planned as an in-person event. We therefore expect all participants to be physically present in Singapore. This arrangement is tentative and may change in response to COVID-19 restrictions that may be put in place at the time of the event.
