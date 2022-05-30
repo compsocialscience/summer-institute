@@ -3,7 +3,7 @@ organisers:
   people:
     - name: malebo sephodi
       image: /assets/images/jias_malebo.jpg
-      bio: "malebo sephodi (she/they) is a South African Feminist writer and scholar. She is a doctoral
+      bio: "malebo sephodi (she/they) is a South African Feminist writer and interdisciplinary scholar. She is a doctoral
       candidate in the Information Systems Department at the University of Cape Town. She is interested in the
       intersections of society and digital technology."
 
@@ -121,10 +121,20 @@ participants:
       image: /assets/images/1nt1NmMhJAZaOWqcUdvOy0T4fPsFPJd16.jpeg
       website: https://twitter.com/SNkoala
 
+    - name: Aubrey Mpungose
+      website: https://twitter.com/AubreyMabona
+      image: /assets/images/1XkDpQHCjutVQ9ge2qKUYyx22rKmBqcLV.jpeg
+      bio: "Aubrey Mpungose is a PhD student at the University of KwaZulu Natal. He is interested      in social/political theory, political participation, neighbourhood contexts and      behaviour/outcomes, and the broader field of political economy. "
+    
     - name: Phelokazi Mkungeka
       bio: "Phelokazi Mkungeka is a second year Master of Social Science with specialisation in     Sociology student at the University of the Free State. I work at Interdisciplinary Centre for     Digital Future at UFS we work in collaboration with the National Department of Health to     provide weekly updates of COVID-19. We are part of the social listening teams that deal with     COVID-19 to provide weekly updates."
       image: /assets/images/1NtEAi_ajZBvcrslEG6oHf-Se7taEmeFl.jpeg
 
+    - name: Samson Olaoluwa Faboye
+      bio: "Samson Faboye is pursing a PhD in Urban and Regional Planning at the University of      Johannesburg. His research investigates and portends the future relevance of traditional      governance systems within the context of South African Urbanity. "
+      image: /assets/images/1Lp1ZoJFDF6L1vMusSTB5EVK7yjNPoVIC.jpeg
+      website: https://twitter.com/Zamzung
+    
     - name: Zintathu Mazamane 
       bio: "Zintathu Mazamane is a managing director and development Specialist at Nzeru      Development Solutions - a consulting firm that provides advisory services related to      business and project development. She is also a candidate for a master of urban studies in      urban management at Witwatersrand University. Her interests lie in promoting inclusive      growth and equality by addressing structural biases embed in institutions and processes."
       image: /assets/images/jias_ZintathuMazamane.jpg
@@ -139,6 +149,11 @@ participants:
       image: /assets/images/1FTvx7D6_xG44jOpwhR6b2Il3Z1vllNSW.jpeg
       website: https://scholar.google.com/citations?hl=en&user=fGtN_AMAAAAJ
 
+    - name: LOIC ELNATHAN TIOKOU FANGANG  
+      bio: "Elnathan Tiokou is a current MSc degree student from the African Institute for      Mathematical Science (AIMS-CAMEROON), a member of KmerAI and a big enthusiast of Machine      Learning combine with Business. His research interest is currently Federated Learning(FL).      He is studying the Adversarial robustness in Federated Learning frameworks and provides some      recommendations to improve FL systems. He is open to any opportunities related to Machine      Learning or Business. "
+      image: /assets/images/1GDbrqd68GbHbp7J8zOJpie2J9BShSfBI.jpeg
+      website: https://www.linkedin.com/in/elnathan-tiokou/
+    
     - name: Angela Chukunzira 
       image: /assets/images/1WIFU9u0FPG0f76z08QP0MwkctM9_-DBy.jpeg
       bio: "Angela is affiliated to the Centre for Social Change at the University of
@@ -147,6 +162,15 @@ participants:
     - name: Nonkululeko Manyika
       bio: "I am a qualified professional with more than 10 years of experience in the private      sector namely; Construction, Financial Services (Banking and Insurance), Logistics and      heading up a Non-Profit Organization. Through my directorships I have gained a lot of      knowledge in the petroleum industry around legislative and governance in enabling a      successful investment vehicle benefiting the broader historically disadvantaged African      communities. My interests include computational science and healthcare with a focus on      marginalized communities. "
       image: /assets/images/jias_khosi.jpg
+
+    - name: Stuart Scott Morrison 
+      bio: "Stuart Morrison is an MA E-Science candidate at the University of Witwatersrand. He      has a background in International Relations, Political Science and Development Studies, with      a research interest in African conflict and governance. In his spare time Stuart works for      Africa Matters Initiative which is a youth-led African NGO."
+      image: /assets/images/1KQUk2EqEk4aqdzVacPbif9TxES6yYGb5.jpeg
+
+    - name: Lesedi Senamele Matlala
+      bio: "Lesedi is a presently a Researcher at JET Education Service. He holds a Master’s in      Public Policy, Monitoring and Evaluation; Postgraduate Diploma in Labour Law from the      University of Johannesburg (UJ). He is also a Doctorate candidate at the University of      Johannesburg. His main research areas are Evaluations of Educational/Learnership Programmes,      Policy Impact Assessment Studies; Socio-Economic Research and Surveys; Programme Monitoring      and Evaluations (M&E), Feasibility Studies. He has authored, and co-authored a few number of      publications, including academic journals, and conference papers and has presented at many      conferences. "
+      image: /assets/images/1hit909BJIER7S23Aa71dXIDvbUPA7Dos.jpeg
+      website: https://www.linkedin.com/in/lesedisenamelematlala/
 
     - name: Sandra Okonofua
       image: /assets/images/18mFVGnAml9K9AV2Ge0cJxwnLdlXjHKH5.jpeg
@@ -157,30 +181,6 @@ participants:
       bio: "Olaide Ojoniyi is a doctoral student at the Statistics and Population studies      department, University of the Western Cape, Cape Town. She is also a Statistical Coach with      the Division for Postgraduate Studies at the university. Her current research is on      adolescents' and young women's sexual and reproductive health. "
       image: /assets/images/18E42NkSWW6Bni0bk7MGGib-vlWCeCVjp.jpeg
       website: https://twitter.com/horllardanie
-
-    - name: Aubrey Mpungose
-      website: https://twitter.com/AubreyMabona
-      image: /assets/images/1XkDpQHCjutVQ9ge2qKUYyx22rKmBqcLV.jpeg
-      bio: "Aubrey Mpungose is a PhD student at the University of KwaZulu Natal. He is interested      in social/political theory, political participation, neighbourhood contexts and      behaviour/outcomes, and the broader field of political economy. "
-
-    - name: Samson Olaoluwa Faboye
-      bio: "Samson Faboye is pursing a PhD in Urban and Regional Planning at the University of      Johannesburg. His research investigates and portends the future relevance of traditional      governance systems within the context of South African Urbanity. "
-      image: /assets/images/1Lp1ZoJFDF6L1vMusSTB5EVK7yjNPoVIC.jpeg
-      website: https://twitter.com/Zamzung
-
-    - name: LOIC ELNATHAN TIOKOU FANGANG  
-      bio: "Elnathan Tiokou is a current MSc degree student from the African Institute for      Mathematical Science (AIMS-CAMEROON), a member of KmerAI and a big enthusiast of Machine      Learning combine with Business. His research interest is currently Federated Learning(FL).      He is studying the Adversarial robustness in Federated Learning frameworks and provides some      recommendations to improve FL systems. He is open to any opportunities related to Machine      Learning or Business. "
-      image: /assets/images/1GDbrqd68GbHbp7J8zOJpie2J9BShSfBI.jpeg
-      website: https://www.linkedin.com/in/elnathan-tiokou/
-
-    - name: Stuart Scott Morrison 
-      bio: "Stuart Morrison is an MA E-Science candidate at the University of Witwatersrand. He      has a background in International Relations, Political Science and Development Studies, with      a research interest in African conflict and governance. In his spare time Stuart works for      Africa Matters Initiative which is a youth-led African NGO."
-      image: /assets/images/1KQUk2EqEk4aqdzVacPbif9TxES6yYGb5.jpeg
-
-    - name: Lesedi Senamele Matlala
-      bio: "Lesedi is a presently a Researcher at JET Education Service. He holds a Master’s in      Public Policy, Monitoring and Evaluation; Postgraduate Diploma in Labour Law from the      University of Johannesburg (UJ). He is also a Doctorate candidate at the University of      Johannesburg. His main research areas are Evaluations of Educational/Learnership Programmes,      Policy Impact Assessment Studies; Socio-Economic Research and Surveys; Programme Monitoring      and Evaluations (M&E), Feasibility Studies. He has authored, and co-authored a few number of      publications, including academic journals, and conference papers and has presented at many      conferences. "
-      image: /assets/images/1hit909BJIER7S23Aa71dXIDvbUPA7Dos.jpeg
-      website: https://www.linkedin.com/in/lesedisenamelematlala/
 
     - name: Thabang Richard Motswaledi
       bio: "Thabang Richard Motswaledi is an emerging scholar at the North West University.      Recently graduated at the North West University his junior degree (Bachelor of social      sciences Hon in political studies) and currently pursuing a MA degree in political studies      in the school of governance at the North West University Vaal campus. He is actively      involved in academia with specific attention given to both political science and African      philosophy related research. "
