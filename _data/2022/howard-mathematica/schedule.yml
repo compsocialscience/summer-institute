@@ -27,7 +27,7 @@
 
         
     - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 2:15 A Discussion of *Black Faces in High Spaces: 10 Strategic Actions for Black Professionals to Reach the Top and Stay There* with authors Dr. Randal Pinkett and Dr. Jeffrey Robinson (*Zoom*)"
+    - name: "1:15 - 2:15 A Discussion of *Black Faces in High Places: 10 Strategic Actions for Black Professionals to Reach the Top and Stay There* with authors Dr. Randal Pinkett and Dr. Jeffrey Robinson [(video)](https://youtu.be/VO3HxvIPseM) (*Zoom*)"
     - name: "2:15 - 2:30 Break"
     - name: "2:30 - 5:30 R Workshop (*Zoom*)
 
@@ -184,7 +184,7 @@
     - name: "10:00 - 10:15 Logistics and introduction to group exercise (*Zoom*)"
     - name: "10:15 - 11:30 Identify a Research Question with Digital Trace Data (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk #1: Just Tech program (SSRC) (video) (LIVE Q+A) OR R, STATA, and Python Office hours with Mathematica TAs (as needed)
+    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk #1: Just Tech program (SSRC) (video) (LIVE Q+A) OR R, STATA, and Python Office hours with Mathematica TAs (as needed) (*Zoom*)
         
         - [Michael Miller Ph.D., Program Director for Social Science Research Council Just Tech Program](https://www.ssrc.org/staff/miller-michael/)"
         
@@ -202,7 +202,7 @@
     - name: "10:00 - 10:15 Logistics and introduction to group exercise (*Zoom*)"
     - name: "10:15 - 11:30 Extract Features from Tweets (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk #2: Cite Black Women Collective and varyCSS (video) (LIVE Q+A) OR R, STATA, and Python Office hours with Mathematica TAs (as needed)
+    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk #2: Cite Black Women Collective and varyCSS (video) (LIVE Q+A) OR R, STATA, and Python Office hours with Mathematica TAs (as needed) (*Zoom*)
     
       - [Christen A. Smith, Associate Professor of African and African Diaspora Studies and Anthropology & Director, Center for Women’s and Gender Studies, The University of Texas at Austin](https://liberalarts.utexas.edu/anthropology/faculty/cs23775)
       
@@ -224,7 +224,7 @@
     - name: "10:15 - 10:30 Introduction to the group exercise, Lesson plan (participants); Lesson plan (instructors) (*Zoom*)"
     - name: "10:30 - 11:30 Morning group exercise (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk #3: BCT Partners (video) (LIVE Q+A) OR R, STATA, and Python Office hours with Mathematica TAs (as needed)
+    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk #3: BCT Partners [(video)](https://youtu.be/UUveWXofc_w) (LIVE Q+A) OR R, STATA, and Python Office hours with Mathematica TAs (as needed) (*Zoom*)
     
         - [Randal Pinkett Ph.D., Chief Executive Officer, BCT Partners](https://www.bctpartners.com/about)
         
@@ -246,7 +246,7 @@
     - name: "10:15 - 10:30 Introduction to the group exercise (*Zoom*)"
     - name: "10:30 - 11:30 Participate in SICSS-H/M mass collaboration activity (*Zoom*) OR Content-specific Office hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk #4: Research Data Management Team (UC Berkeley) (video) (LIVE Q+A) OR R, STATA, and Python Office hours with Mathematica TAs (as needed)
+    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk #4: Research Data Management Team (UC Berkeley) [(video)](https://youtu.be/MqMExgnNa4E) (LIVE Q+A) OR R, STATA, and Python Office hours with Mathematica TAs (as needed) (*Zoom*)
         
         - [Erin D. Foster, Service Lead, Research Data Management Program, UC Berkeley](https://researchdata.berkeley.edu/people/erin-foster)  
         
@@ -271,7 +271,7 @@
   name: "Day 6: Work on group projects"
   events:
     - name: "Mathematica TAs are available via email for consultation (please see Slack)"
-    - name: '10:00 - 11:30 SICSS-Africa + African Descendants Inaugural Joint Panel: "Interrogating Data Collection Methods Focused on African and African Descendents Around the World: Problems, Realities, And Future Opportunities" (*Zoom*)
+    - name: '10:00 - 11:30 SICSS-Africa + African Descendants Inaugural Panel: “Interrogating data collection methods focused on African and African Descendants: Challenges and Opportunities” (*Zoom*)
       
       
       
@@ -294,7 +294,7 @@
   
     - name: "11:30 - 11:45 Break"
     - name: "11:45 - 12:00 Logistics and Research Speed Dating Logistics (*Zoom*)"
-    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk #5: MITRE (video) (LIVE Q+A) OR R, STATA, and Python Office hours with Mathematica TAs (as needed)
+    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk #5: MITRE (video) (LIVE Q+A) OR R, STATA, and Python Office hours with Mathematica TAs (as needed) (*Zoom*)
         
         - [Hannah De los Santos, Ph.D., Lead Data Scientist, Model-based Analytics Department, MITRE](https://www.researchgate.net/profile/Hannah-De-Los-Santos)
         
@@ -305,7 +305,7 @@
     - name: "2:15 - 3:15 Round 7-12 (*Zoom*)"
     - name: "3:15 - 3:30 Break"
     - name: "3:30 - 4:00 Group debrief (join research teams) (*Zoom*)"
-    - name: '4:00 - 5:30 [Karen Levy, Ph.D., Assistant Professor, Information Sciences, Cornell University](https://sts.cornell.edu/karen-levy), "Robotruckers: The Double Threat of AI for Low-Wage Work" (video) - LIVE session to include Q&A and office hour (*Zoom*)'
+    - name: '4:00 - 5:30 [Karen Levy, Ph.D., Assistant Professor, Information Sciences, Cornell University](https://sts.cornell.edu/karen-levy), "Robotruckers: The Double Threat of AI for Low-Wage Work" [(video)](https://youtu.be/mP3kCCV6WmM) - LIVE session to include Q&A and office hour (*Zoom*)'
     
   
 - date: 2022-06-28
@@ -336,7 +336,7 @@
         
         
     - name: "1:00 - 4:00 Work on group projects (*Zoom*)"
-    - name: '4:00 - 5:30 [Brandeis Marshall, Ph.D., Professor, Computer Science, Spelman University](https://www.brandeismarshall.com/), "Data Conscience: Algorithmic Siege on Our Humanity" (video) - LIVE session to include Q&A and office hour (*Zoom*)'
+    - name: '4:00 - 5:30 [Brandeis Marshall, Ph.D., Professor, Computer Science, Spelman University](https://www.brandeismarshall.com/), "Data Conscience: Algorithmic Siege on Our Humanity" [(video)](https://youtu.be/kTDYFMXAuNM) - LIVE session to include Q&A and office hour (*Zoom*)'
     
     
 - date: 2022-06-29
@@ -345,12 +345,12 @@
     - name: "Mathematica TAs are available via email for consultation (please see Slack)"
     - name: "10:00 - 10:30 Logistics (*Zoom*)"
     - name: "10:30 - 12:00 Work on group projects (*Zoom*)"
-    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk #6: Campus-Wide Institutional Survey Research and Data Collection (Graduate Division UC Berkeley) (video) (LIVE Q+A) OR R, Python, and STATA Office hours with Mathematica TAs (as needed) (video)
+    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk #6: Campus-Wide Institutional Survey Research and Data Collection (Graduate Division UC Berkeley) (video) (LIVE Q+A) OR R, Python, and STATA Office hours with Mathematica TAs (as needed) (*Zoom*)
     
         - [Lisa Garcia-Bedolla, Vice Provost for Graduate Studies, Dean of the Graduate Division, Professor in the Graduate School of Education](https://gse.berkeley.edu/lisa-garc%C3%ADa-bedolla)"  
         
     - name: "1:00 - 4:00 Work on group projects (*Zoom*)"
-    - name: '4:00 - 5:30 [Kyla McMullen, Ph.D., Assistant Professor, Computer Science, University of Florida](http://kylamcmullen.com/), "Using Uncommon data to understand society and its people" (video) - LIVE session to include Q&A and office hour (*Zoom*)'
+    - name: '4:00 - 5:30 [Kyla McMullen, Ph.D., Assistant Professor, Computer Science, University of Florida](http://kylamcmullen.com/), "Using Uncommon data to understand society and its people" [(video)](https://youtu.be/EGxZaL3VRpM) - LIVE session to include Q&A and office hour (*Zoom*)'
 
 
 - date: 2022-06-30
@@ -359,7 +359,7 @@
     - name: "Mathematica TAs are available via email for consultation (please see Slack)"
     - name: "10:00 - 10:30 Logistics (*Zoom*)"
     - name: "10:30 - 12:00 Work on group projects (*Zoom*)"
-    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk #7: Africa Center for Strategic Studies (video) (LIVE Q+A) OR R, Python, and STATA Office hours with Mathematica TAs (as needed) (video)
+    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk #7: Africa Center for Strategic Studies (video) (LIVE Q+A) OR R, Python, and STATA Office hours with Mathematica TAs (as needed) (video) (*Zoom*)
         
         - [Mark Duerksen, Ph.D., Research associate, Africa Center for Strategic Studies](https://africacenter.org/experts/dr-mark-duerksen/)" 
         
