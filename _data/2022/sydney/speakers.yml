@@ -47,3 +47,8 @@
   image: /assets/images/DanielAngus.jpg
   bio: "Daniel Angus is a Professor of Digital Communication, leader of the QUT Digital Media Research Centre’s Computational Communication and Culture Program, and Chair of Infrastructure within the ARC Centre of Excellence for Automated Decision Making and Society. His research examines issues at the intersection of technology and society, with a  focus on algorithms, misinformation, and new methods to study the digital society." 
   website: https://www.qut.edu.au/about/our-people/academic-profiles/daniel.angus
+  
+- name: Suhem Parack
+  image: /assets/images/Suhem_Parack.jpg
+  bio: "Suhem Parack is a Staff Developer Advocate for Academic Research at Twitter and helps students and researchers understand how to get Twitter data for their research."
+  website: https://dev.to/suhemparack

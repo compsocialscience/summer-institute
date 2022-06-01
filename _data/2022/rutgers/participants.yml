@@ -61,7 +61,7 @@
   website: https://twitter.com/GeorgeDQuinn
 
 - name: Casey Randazzo 
-  image: sicss22_randazzo_casey.jpg
+  image: /assets/images/sicss22_randazzo_casey.jpg
   bio: "Casey Randazzo is a doctoral student at Rutgers University School of Communication and Information Science. Casey investigates emotional contagion in online collectives in their efforts to promote or resist social change."
   website: https://twitter.com/caseyrandazzo
   
@@ -76,7 +76,7 @@
   website: https://www.polisci.rutgers.edu/cb-profile/andreyt 
 
 - name: Alice Timken
-  image: sicss22_timken_alice.png
+  image: /assets/images/sicss22_timken_alice.png
   bio: "Alice is a Ph.D. student in comparative politics and law and courts at the Maxwell School at Syracuse University studying institutions, judicial behavior, and access to justice in democracies."
   website: https://twitter.com/alicetimken
   
@@ -86,10 +86,6 @@
   website: https://vanky.co 
   
 - name: Gahwan Yoo 
-  image: 
-  bio: 
-  website:   
-  
-
-  
-  
+  image: /assets/images/sicss22_yoo_gahwan.jpg
+  bio: "Gahwan Yoo is a doctoral student in the Silver School of Social Work at New York University. Her  interests include mental health in immigrant/refugee communities, minority mental health, mental health disparities, and advocacy. She is also interested in using text as data, with a focus on mental health."
+  website: https://gahwan.com
