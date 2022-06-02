@@ -11,7 +11,7 @@
   name: Collecting digital trace data
   events:
     - name: "9:00 - 9:55 Morning session"
-    - name: "10:00 - 11:55 Guest lecture (virtual) by Suhem Parack (Twitter): Using the Twitter API for research"
+    - name: "10:00 - 11:55 Guest lecture (virtual) by Suhem Parack (Twitter): Getting started with academic research using the Twitter API v2"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 17:00 Afternoon session and group activities"
 
@@ -19,7 +19,7 @@
   name: Text as Data
   events:
     - name: "9:00 - 9:55 Morning session"
-    - name: "10:00 - 11:55 Guest lecture (virtual) by Dr. Jisun An (SMU): Title TBC"
+    - name: "10:00 - 11:55 Guest lecture (virtual) by Dr. Jisun An (SMU): Tackling social challenges with data science and AI"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 17:00 Afternoon session and group activities"
 
@@ -47,35 +47,35 @@
 - date: Sunday June 19, 2022
   name: "Day off"
 
-- date: Monday June 21, 2022
+- date: Monday June 20, 2022
   name: Project Development
   events:
     - name: "9:00 - 12:00 Participants work on group projects"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 17:00 Participants work on group projects"
 
-- date: Tuesday June 22, 2022
+- date: Tuesday June 21, 2022
   name: Project Development
   events:
     - name: "9:00 - 12:00 Participants work on group projects"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 17:00 Participants work on group projects"
 
-- date: Wednesday June 23, 2022
+- date: Wednesday June 22, 2022
   name: Project Development
   events:
     - name: "9:00 - 12:00 Participants work on group projects"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 17:00 Participants work on group projects"
 
-- date: Thursday June 24, 2022
+- date: Thursday June 23, 2022
   name: Project Development
   events:
     - name: "9:00 - 12:00 Participants work on group projects"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 17:00 Participants work on group projects"
 
-- date: Friday June 25, 2022
+- date: Friday June 24, 2022
   name: Project Presentations
   events:
     - name: "10:00 - 12:00 Closing keynote by Dr. Kokil Jaidka: From Noisy Data to Interpretation: the Next Frontier for the study of Southeast Asian online communities"

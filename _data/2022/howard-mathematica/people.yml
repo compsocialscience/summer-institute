@@ -18,7 +18,7 @@ faculty:
 
     - name: Amy Yeboah Quarkume, Ph.D.
       image: /assets/images/Amy_Yeboah_Quarkume.jpg
-      bio: "Dr. Amy Yeboah Quarkume, affectionally known as Dr. A, is a daughter of Africa, scholar, filmmaker and Associate Professor of Africana Studies in the Department of Afro-American Studies at Howard University. She holds a Ph.D. in African American Studies, two Masters of Arts in Sociology and African American Studies and a forthcoming Certificate in Data Science. Dr. A is an Andrew Mellon New Direction Fellow, invited presenter for Scribe Video Center’s Storyville series by the National Endowment for the Arts, and a White House Initiative HBCU All-Star Campus Mentor."
+      bio: "Dr. Amy Yeboah Quarkume, affectionately known as Dr. A, is a daughter of Africa, scholar, filmmaker, data scientist and Associate Professor of Africana Studies in the Department of Afro-American Studies at Howard University. She holds a Ph.D. in African American Studies, two Masters of Arts in Sociology and African American Studies, and a forthcoming Masters of Science degree in Data Science. Dr. Quarkume is an Andrew Mellon New Direction Fellow, Mellon Just Futures Initiative invited Social Justice Consortium partner, invited presenter for Scribe Video Center’s Storyville series by the National Endowment for the Arts, National Center for Atmospheric Research Innovator Fellow, and a White House Initiative HBCU All-Star Campus Mentor. Her work as a data scientist, centers around AI Bias, data inequality and environmental justice. Currently, she employs an Africana Studies framework to examine the intersections of race and technology. Dr. A is presently, co-facilitating the creation of the Center for Applied Data Science and Analytics (CADSA) advancing Howard University’s first major effort in becoming a hub for data science social impact research and training for the next generation of data scientists. She has published in the Journal of Women, Gender, and Families of Color; Mosaic Magazine; Black Scholar; CLA Journal and is currently working on her second book project Data Pollution and Savage Algorithms. She has also contributed to and been an invited guest on BET News, PBS NewsHour, Direct TV, American Radio Works, Al Jazeera America’s The Stream, Philadelphia Community Access Media, Roland Martin TV One News Show, and Mother Jones."
       website: https://profiles.howard.edu/profile/43496/amy-yeboah-quarkume
 
 
@@ -29,7 +29,7 @@ opening:
       image: /assets/images/Anthony_K_Wutoh.jpg
       bio: "Anthony K. Wutoh, Ph.D., R.Ph. is the Provost of Howard University. He previously served in various roles at the University including as Dean of the College of Pharmacy and Assistant Provost for International Programs. Dr. Wutoh has also served as Director for the Center for Minority Health Services Research, and the Center of Excellence. Dr. Wutoh received a Bachelor of Arts degree in Biochemistry from the University of Maryland Baltimore County in 1987. He then completed a Bachelor of Science in Pharmacy, and Doctor of Philosophy in Pharmacy Administration (Pharmacoepidemiology) at the University of Maryland, Baltimore School of Pharmacy. Dr. Wutoh has varied research interests including pharmacoepidemiology, international health, health services/outcomes research, and evaluation of large population databases, particularly in the area of AIDS and HIV infection in older patients. Dr. Wutoh has received over $50 million dollars in grant funding from several sources including; NIH, CDC, USAID, HRSA, AHRQ and foundations, and has published numerous research articles on HIV disease, medication adherence, disease state management, and various other topics in respected research journals, including; the Journal of the American Medical Association, Health Services Research, AIDS & Behavior, the Journal of the National Medical Association, and the Journal of the American Pharmacists Association."
       website: https://provost.howard.edu/about/administration#:~:text=D.%2C%20R.Ph.,and%20the%20Center%20of%20Excellencew
-   
+
    
 keynote:
   title: SICSS-Howard/Mathematica 2022 Keynote Speakers 
@@ -92,11 +92,6 @@ Praxis to power:
 panels:
   title: Panelists
   people:
-    - name: Vissého Adjiwanou, Ph.D.
-      image: /assets/images/Vissého_Adjiwanou.jpeg
-      bio: "Vissého Adjiwanou joined the academic staff of the Department of Sociology at the Université du Québec à Montréal (UQAM) in July 2018 as professor of Demography and Quantitative Methods. Previously, he has served as Senior Lecturer at the University of Cape Town in South Africa. He received a M.A in Statistics in 2001 from the National School of Statistics and Applied Economics (ENSEA-Cote d’Ivoire), a M.A in Economics of Development in 2003 at the Centre for Studies and Research on International Development (CERDI- France) and a Ph.D in Demography in 2013 from the Université de Montréal (Canada). His research focuses on population issues in sub-Saharan Africa, including fertility, family dynamics, gender inequality, and reproductive health. His most recent work has investigated the pattern and effect of step-parenting on children schooling and health in sub-Saharan Africa, and on the effect of remarriage on fertility in Malawi. He develops new research interests at the intersection of social science and computation science."
-      website: https://www.mcgill.ca/popcentre/people-0/associate-members-0/visseho-adjiwanou 
-      
     - name: Andre Brock, Ph.D.
       image: /assets/images/Andre_Brock.jpeg
       bio: 'André Brock is an associate professor of media studies at Georgia Tech. He writes on Western technoculture, Black technoculture, and digital media. His scholarship examines Black and white representations in social media, videogames, weblogs, and other digital media. He has also published influential research on digital research methods. His award-winning book, "Distributed Blackness: African American Cybercultures", theorizes Black everyday lives as Black joy, mediated by networked digital technologies.'
@@ -106,16 +101,26 @@ panels:
       image: /assets/images/Courtney_Cogburn.jpg
       bio: "Associate Professor Courtney D. Cogburn employs a transdisciplinary research strategy to improve the characterization and measurement of racism and in examining the role of racism in the production of racial inequities in health. She is also conducting research exploring the use of emerging technologies, including computational social science to examine patterns and psychosocial effects of cultural racism and how virtual reality experiences can lead to changes in attitudes, social perception and engagement (empathy, racial bias, structural competence and behavior). Dr. Cogburn is the lead creator of 1000 Cut Journey, an immersive virtual reality racism experience that was developed in collaboration with the Virtual Human Interaction Lab at Stanford University and which premiered at the Tribeca Film Festival in 2018. She is on the faculty of the Columbia Population Research Center and a core member of the Data Science Institute where she also co-chairs the Computational Social Science working group. Dr. Cogburn is also a faculty affiliate of the Center on African American Politics and Society. She directs the Cogburn Research Group and co-directs the Justice Equity + Tech (JE+T) Laboratory at Columbia University. Dr. Cogburn completed postdoctoral training at Harvard University in the Robert Wood Johnson Health & Society Scholar Program and at the Institute for Social Research at the University of Michigan. She received her Ph.D. in Education and Psychology, and MSW from the University of Michigan and her BA in Psychology from the University of Virginia. She is also a board member of the International Center Advocates Against Discrimination."
       website: https://socialwork.columbia.edu/faculty-research/faculty/full-time/courtney-d-cogburn/
-      
+    
+    - name: Susana Edjang
+      image: /assets/images/Susana_Edjang.jpeg
+      bio: 'Susana Edjang is a peace and security, international development, global health and policy expert who recently served as Minister Counselor on Security Council Affairs, at the Permanent Mission of Equatorial Guinea to the United Nations (UN), in New York. Previously, she was a Policy & Advocacy Specialist at the UN Population Fund (UNFPA) Liaison Office to the African Union and the Economic Commission for Africa in Addis Ababa, Ethiopia; was Economic, Social and Development Affairs Officer and as Project Manager for his signature movement Every Woman Every Child at the Executive Office of the UN Secretary-General, Ban Ki-moon. Before that, Susana was H4+ (UNAIDS, UNICEF, UNFPA, UN Women, WHO and the World Bank) Coordinator at the UNFPA to advance the health-related Millennium Development Goals by 2015, parliamentary advisor on global health and climate change at the UK Parliament, and promoted the institutional partnership between UK health institutions and their counterparts in Africa and Asia at THET, a UK NGO. Originally from Equatorial Guinea, Susana has co-founded and participates in various initiatives on global health and African Diaspora community innovation in Africa, Europe and Latin America. Susana is co-author of "Working in International Health" (OUP).'
+      website: https://royalafricansociety.org/about/council/ 
+   
     - name: Kyla McMullen, Ph.D.
       image: /assets/images/Kyla_McMullen.jpg
-      bio: 'Dr. Kyla McMullen earned her Bachelor of Science in Computer Science from the University of Maryland, Baltimore County (UMBC), where she was also a Meyerhoff Scholar. She earned her Masters and Ph.D. degrees in Computer Science and Engineering from the University of Michigan (2007-2012). While earning her Ph.D. she was also a faculty member at Wayne State University in Detroit, Michigan. At Wayne State University she taught computer literacy courses to over 2,000 students. Dr. McMullen is the first (and currently the only) woman of color to earn a Ph.D. in Computer Science and Engineering from the University of Michigan. She is currently a tenure-track faculty member in the University of Florida’s Computer & Information Sciences & Engineering Department. Dr. McMullen has a personal commitment to encouraging women and minorities to pursue careers in computing and other STEM fields. She is the author of "Beautiful, Black, and Brainy" and "Brilliant is the New Black" which showcase hundreds of exceptional young African Americans who excel in STEM fields and don’t fit the typical "scientist" stereotype.'
+      bio: 'Dr. Kyla McMullen earned her Bachelor of Science in Computer Science from the University of Maryland, Baltimore County (UMBC), where she was also a Meyerhoff Scholar. She earned her Masters and Ph.D. degrees in Computer Science and Engineering from the University of Michigan (2007-2012). While earning her Ph.D. she was also a faculty member at Wayne State University in Detroit, Michigan. At Wayne State University she taught computer literacy courses to over 2,000 students. Dr. McMullen is the first (and currently the only) woman of color to earn a Ph.D. in Computer Science and Engineering from the University of Michigan. She is currently a tenure-track faculty member in the University of Florida’s Computer & Information Sciences & Engineering Department. Dr. McMullen has a personal commitment to encouraging women and minorities to pursue careers in computing and other STEM fields. She is the author of "Beautiful, Black, and Brainy" and "Brilliant is the New Black" which showcase hundreds of exceptional young African Americans who excel in STEM fields and don’t fit the typical \"scientist\" stereotype.'
       website: http://kylamcmullen.com/
  
     - name: Bhaso Ndzendze, Ph.D.
       image: /assets/images/Bhaso_Ndzendze.jpeg
       bio: "Dr Bhaso Ndzendze is a Senior Lecturer and Head of Department: Politics and International Relations at the University of Johannesburg. Dr Ndzendze is also founder and head of the 4IR and Digital Policy Research Unit at the University of Johannesburg, and a digital policy fellow at the Berlin-based African Policy Research Institute. He is author of two books on artificial intelligence and international relations and is editor in chief of the journal Digital Policy Studies. His scholarship and opinion on technology, society and digital policy has appeared in numerous edited books and the press."
       website: https://bhasondzendze.co.za/ 
+      
+    - name: Felicia Odamtten
+      image: /assets/images/Felicia_Odamtten.png
+      bio: "Felicia is the Founder and Director of The Black Economists Network (T-BEN). As director, Felicia has overseen the meteoric growth in membership of T-BEN and formed strategic alliances with reputable private and public sector organisations both national and internationally, including The Royal Economic Society, Government Economic Service (UK), the Sadie Collective (USA) etc. She is also an Economist at the Resolution Foundation and was previously a fast stream Economist in the UK Government’s accelerated leadership development programme for talented graduates. Felicia is an accomplished public speaker who has sat on numerous panels and shared insights in discussions and debates. In 2019, Felicia was appointed by the UK Government Economic Services (GES) as Ambassador for its Civil Service fast stream recruitment scheme. Felicia is passionate about using economics to drive investments and positively impact society and communities. She believes this will support equitable distribution of global resources to improve lives and living conditions of people in developing countries with emphasis on the continent of Africa."
+      website: https://www.tben.co.uk/the-team
       
     - name: Danielle Olson, Ph.D.
       image: /assets/images/Danielle_Olson.jpeg
@@ -150,7 +155,7 @@ roundtable discussions:
 lunchtime talks:
   title: Bite-Sized Lunchtime Talks
   people:
-    - name: Africa Center for Strategic studies
+    - name: Africa Center for Strategic Studies
       image: /assets/images/Africa_center.png
       bio: "Since its inception in 1999, the Africa Center has served as a forum for research, academic programs, and the exchange of ideas with the aim of enhancing citizen security by strengthening the effectiveness and accountability of African institutions."
       website: https://africacenter.org/
@@ -194,7 +199,62 @@ lunchtime talks:
 participants: 
   title: Participants
   people:
-   - name: Coming soon...
+    - name: Andrea Adams
+      image: /assets/images/Andrea_Adams.jpg
+      
+    - name: Rafaela Araujo Rodrigues
+      image: /assets/images/Rafaela_Araujo_Rodrigues.jpg
+
+    - name: Nayantara Biswas
+      image: /assets/images/Nayantara_Biswas.jpeg
+    
+    - name: JoVontae Butts
+      image: /assets/images/JoVontae_Butts.jpg
+    
+    - name: Renee Clarke
+      image: /assets/images/Renee_Clarke.jpg
+ 
+    - name: Rumeysanur Erikli Dogan
+      image: /assets/images/Rumeysanur_Erikli_Dogan.jpg
+
+    - name: Grace Flores-Robles
+      image: /assets/images/Grace_Flores-Robles.jpeg
+ 
+    - name: Erica Goto
+      image: /assets/images/Erica_Goto.jpg
+
+    - name: Rebecca Hsu
+      image: /assets/images/Rebecca_Hsu.jpg
+
+    - name: Kristina Lee
+      image: /assets/images/Kristina_Lee.jpeg
+ 
+    - name: Daniel Lobo
+      image: /assets/images/Daniel_Lobo.jpg
+
+    - name: Amber Mackey
+      image: /assets/images/Amber_Mackey.png
+
+    - name: Jeremiah Muhammad
+      image: /assets/images/Jeremiah_Muhammad.jpeg
+
+    - name: Imani Munyaka
+      image: /assets/images/Imani_Munyaka.jpg
+
+    - name: Wan Nurul Naszeerah
+      image: /assets/images/Wan_Nurul_Naszeerah.jpg
+      
+    - name: Getamesay Shiwenzu Nigussie
+      image: /assets/images/Getamesay_Shiwenzu_Nigussie.jpg
+
+    - name: Shadya Sanders
+      image: /assets/images/Shadya_Sanders.jpeg
+
+    - name: Asha Yadav
+      image: /assets/images/Asha_Yadav.jpg
+      
+    - name: Bing-Jie Yen
+      image: /assets/images/Bing-Jie_Yen.png
 
 
 organizers:

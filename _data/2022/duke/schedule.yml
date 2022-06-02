@@ -1,108 +1,116 @@
 - date: 2022-06-19
   events:
-    - name: "Check In and Welcome Dinner (*Not open to public/No livestream*)"
+    - name: "4:00 - 5:00 Check In"
+    - name: "5:00 - 7:30 Durham Bulls Baseball Game"
+    - name: "8:00 - 10:00 Welcome Dinner"
 
 - date: 2022-06-20
   name: Introduction and Ethics
   events:
-    - name: "9:00 - 9:15 Logistics (*Not open to public/No livestream*)"
-    - name: "9:15 - 9:30 Introductions (*Not open to public/No livestream*)"
-    - name: "9:30 - 11:00 Speaker 1: Casey Fiesler (University of Colorado Boulder)"
-    - name: "11:00 - 11:15 Coffee Break"
-    - name: "11:15 - 12:00 Casey Fiesler continued"
-    - name: "12:00 - 1:00 Lunch"
-    - name: "1:00 - 2:30 Group Exercises"
-    - name: "2:30 - 3:00 Break"
-    - name: "3:00 - 4:30 Group Exercises"
-    - name: "4:30 - 5:00 Wrap Up"
-
-- date: 2022-06-21
-  name: Digital Trace Data
-  events:
-    - name: "9:00 - 9:15 Check In"
-    - name: "9:15 - 10:30 Speaker 1: Suhem Parack (Twitter)"
-    - name: "10:30 - 10:45 Coffee Break"
-    - name: "10:45 - 12:00 Speaker 2: Ridhi Kashyap (Oxford University)"
-    - name: "12:00 - 1:00 Lunch"
-    - name: "1:00 - 2:30 Group Exercises"
-    - name: "2:30 - 3:00 Break"
-    - name: "3:00 - 4:30 Group Exercises"
-    - name: "4:30 - 5:00 Wrap Up"
-
-- date: 2018-06-22
-  name: Text as Data
-  events:
-    - name: "9:00 - 9:15 Check In"
-    - name: "9:15 - 10:30 Speakers: Justin Grimmer (Stanford University) & Brandon Stewart (Princeton University)"
-    - name: "10:30 - 10:45 Coffee Break"
-    - name: "10:45 - 12:00 Justin Grimmer & Brandon Stewart continued"
-    - name: "12:00 - 1:00 Lunch"
-    - name: "1:00 - 2:30 Group Exercises"
-    - name: "2:30 - 3:00 Break"
-    - name: "3:00 - 4:30 Group Exercises"
-    - name: "4:30 - 5:00 Wrap Up"
-
-- date: 2018-06-23
-  name: Experiments in the Digital Era
-  events:
-    - name: "9:00 - 9:15 Check In"
-    - name: "9:15 - 11:00 Speaker 1: Chris Bail (Duke University)"
+    - name: "9:00 - 9:15 Logistics"
+    - name: "9:15 - 9:30 Introductions"
+    - name: "9:30 - 11:00 Chris Bail (Duke University)"
     - name: "11:00 - 11:15 Coffee Break"
     - name: "11:15 - 12:00 Chris Bail continued"
     - name: "12:00 - 1:00 Lunch"
-    - name: "1:00 - 2:30 Group Exercises"
+    - name: "1:00 - 2:30 Casey Fiesler (University of Colorado Boulder)"
     - name: "2:30 - 3:00 Break"
-    - name: "3:00 - 4:30 Group Exercises"
+    - name: "3:00 - 4:30 Casey Fiesler continued"
     - name: "4:30 - 5:00 Wrap Up"
+    - name: "6:00 - 7:00 Dinner"
 
-- date: 2018-06-24
-  name: Topic TBD
+- date: 2022-06-21
+  name: APIs and Digital Trace Data
   events:
     - name: "9:00 - 9:15 Check In"
-    - name: "9:15 - 9:30 Speaker Introductions"
-    - name: "9:30 - 11:00 Speaker"
-    - name: "11:00 - 11:15 Coffee Break"
-    - name: "11:15 - 12:00 Speaker Continued"
+    - name: "9:15 - 10:30 Suhem Parack (Twitter)"
+    - name: "10:30 - 10:45 Coffee Break"
+    - name: "10:45 - 12:00 Ridhi Kashyap (Oxford University)"
     - name: "12:00 - 1:00 Lunch"
     - name: "1:00 - 2:30 Group Exercises"
     - name: "2:30 - 3:00 Break"
     - name: "3:00 - 4:30 Group Exercises"
     - name: "4:30 - 5:00 Wrap Up"
+    - name: "6:00 - 7:00 Dinner"
+    
+- date: 2022-06-22
+  name: Text as Data
+  events:
+    - name: "9:00 - 9:15 Check In"
+    - name: "9:15 - 10:30 Justin Grimmer (Stanford University) & Brandon Stewart (Princeton University): Representing Text as Data"
+    - name: "10:30 - 10:45 Coffee Break"
+    - name: "10:45 - 12:00 Justin Grimmer & Brandon Stewart: Measurement and Causal Inference using Text as Data"
+    - name: "12:00 - 1:00 Lunch"
+    - name: "1:00 - 2:30 Group Exercises"
+    - name: "2:30 - 3:00 Break"
+    - name: "3:00 - 4:30 Group Exercises"
+    - name: "4:30 - 5:00 Wrap Up"
+    - name: "6:00 - 7:00 Dinner"
 
-- date: 2018-06-25
+- date: 2022-06-23
+  name: Experiments in the Digital Era
+  events:
+    - name: "9:00 - 9:15 Check In"
+    - name: "9:15 - 11:00 Lisa Argyle (Brigham Young University)"
+    - name: "11:00 - 11:15 Coffee Break"
+    - name: "11:15 - 12:00 Lisa Argyle continued"
+    - name: "12:00 - 1:00 Lunch"
+    - name: "1:00 - 2:30 Group Exercises"
+    - name: "2:30 - 3:00 Break"
+    - name: "3:00 - 4:30 Group Exercises"
+    - name: "4:30 - 5:00 Wrap Up"
+    - name: "6:00 - 7:00 Dinner"
+
+- date: 2022-06-24
+  name: Professionalization
+  events:
+    - name: "9:00 - 9:15 Check In"
+    - name: "9:15 - 11:00 Speaker TBD"
+    - name: "11:00 - 11:15 Coffee Break"
+    - name: "11:15 - 12:00 Speaker TBD"
+    - name: "12:00 - 1:00 Lunch"
+    - name: "1:00 - 2:30 Group Exercises"
+    - name: "2:30 - 3:00 Break"
+    - name: "3:00 - 4:30 Group Exercises"
+    - name: "4:30 - 5:00 Wrap Up"
+    - name: "6:00 - 7:00 Dinner"
+
+- date: 2022-06-25
   name: Day Off
 
-- date: 2018-06-26
+- date: 2022-06-26
   name: Day Off
 
-- date: 2018-06-27
+- date: 2022-06-27
   name: Project Development
   events:
     - name: "9:00 - 9:15 Check In"
     - name: "9:15 - 9:30 Introduction to Research Speed Dating Activity"
     - name: "9:30 - 11:00 Research Speed Dating"
     - name: "11:00 - 11:15 Coffee Break"
-    - name: "11:15 - 12:00 Research Speed Dating Continued"
+    - name: "11:15 - 12:00 Research Speed Dating Activity"
     - name: "12:00 - 1:00 Lunch"
     - name: "1:00 - 2:30 Project Group Formation"
     - name: "2:30 - 3:00 Break"
     - name: "3:00 - 4:30 Group Project Work"
     - name: "4:30 - 5:00 Wrap Up"
+    - name: "6:00 - 7:00 Dinner"
     
-- date: 2018-06-28
+- date: 2022-06-28
   name: Project Development
   events:
     - name: "9:00 - 9:15 Check In"
     - name: "9:15 - 11:00 Group Projects Work"
     - name: "11:00 - 11:15 Coffee Break"
-    - name: "11:15 - 12:00 Group Projects Work Continued"
+    - name: "11:15 - 12:00 Group Projects Work"
     - name: "12:00 - 1:00 Lunch"
     - name: "1:00 - 2:30 Group Projects Work"
     - name: "2:30 - 3:00 Break"
     - name: "3:00 - 4:30 Group Project Work"
     - name: "4:30 - 5:00 Wrap Up"
+    - name: "6:00 - 7:00 Dinner"
     
-- date: 2018-06-28
+- date: 2022-06-29
   name: Project Development
   events:
     - name: "9:00 - 9:15 Check In"
@@ -116,6 +124,6 @@
     - name: "4:30 - 5:00 Wrap Up"
     - name: "5:00 - 7:00 Farewell Dinner"
   
-- date: 2018-06-30
+- date: 2022-06-30
   events:
     - name: "Participants depart"
