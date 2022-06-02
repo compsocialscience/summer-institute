@@ -39,8 +39,8 @@
     - name: "9:30 - 10:00 Logistics"
     - name: "10:00 - 11:30 Live Tutorials on Machine Learning"
     - name: "12:00 - 1:30 Talk by Sarah Shugars"
-    - name: "1:30 - 2:30 Lunch"
-    - name: "2:30 - 5:00 Afternoon Group Exercise"
+    - name: "1:30 - 2:45 Lunch"
+    - name: "2:45 - 5:00 Afternoon Group Exercise"
 
 - date: June 24, 2022
   name: Surveys and Experiments
@@ -48,10 +48,10 @@
     - name: "9:00 - 9:30 Logistics"
     - name: "9:30 - 10:15 Online Surveys"
     - name: "10:15 - 12:00 Group Exercise, Session I"
-    - name: "12:00 - 1:00 Lunch"
-    - name: "1:00 - 2:00 Group Exercise, Session II"
-    - name: "2:30 - 3:00 Digital Experiments"
-    - name: "3:00 - 4:30 Group Exercise, Session III"
+    - name: "12:00 - 1:30 Lunch"
+    - name: "1:30 - 2:30 Group Exercise, Session II"
+    - name: "2:30 - 3:30 Digital Experiments"
+    - name: "3:30 - 4:30 Group Exercise, Session III"
  
 - date: June 25-26, 2022
   events:
@@ -70,9 +70,9 @@
   name: Group work day
   events:
     - name: "9:00 - 12:00 Group work time"
-    - name: "12:00 - 1:30 Talk by Tamar Mitts"
-    - name: "1:30 - 2:30 Lunch"
-    - name: "2:30 - 5:00 Group work time"
+    - name: "12:00 - 1:30 Lunch"
+    - name: "1:30 - 3:00 Group work time"
+    - name: "3:00 - 4:30 Talk by Tamar Mitts"
 
 - date: June 29, 2022
   name: Group work day
