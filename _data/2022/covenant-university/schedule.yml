@@ -77,7 +77,7 @@
      - Topic Models <a href='https://www.youtube.com/watch?v=IUAHUEy1V0Q' target='_blank'>Watch video on Youtube</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/topic-modeling/Rpres/Topic_Modeling.html' target='_blank'>Slides</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/topic-modeling/rmarkdown/Topic_Modeling.html' target='_blank'>Annotated Code</a>"
      
     - name: "**13:00-14:00** Lunch"
-    - name: "**14:00-15:30** Invited Presentation"
+    - name: "**14:00-15:30** Tutorial: Introduction to Regular Expressions (Regex) in R Presentation"
     - name: "**15:30-18:00** Group Exercises"
     - name: "**18:00-** Dinner"
     
