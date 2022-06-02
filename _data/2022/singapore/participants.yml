@@ -19,12 +19,16 @@
   bio: "Chuanhui Wu is currently attending as a Ph.D. candidate at Nanjing University, China, and also works as a joint PhD student at National University of Singapore. His main research interests include social media and consumer health informatics. His work appeared in several journals including Telematics and Informatics, Technological Forecasting & Social Change, and Electronic Commerce Research and Applications."
 
 - name: Fan Huang
-  image: /assets/images/chuanhui-sg.jpg
+  image: /assets/images/fan-sg.jpeg
   bio: "Fan Huang is currently pursuing a PhD in Computer Science at Singapore Management University. His current research focuses on computational approach to improve the explainability of Machine Learning models, the implementation scenarios would be mostly in the field of Natural Language Processing and Computational Social Science, e.g., Hate Speech Detection and so on."
   
 - name: Gerard Yeo
-  image: /assets/images/gerard-sg.jpg
+  image: /assets/images/gerard-sg.jpeg
   bio: "Gerard Yeo is a PhD student under the Integrative Sciences and Engineering Programme (ISEP) and Institute of Data Science (IDS) in the National University of Singapore (NUS). His research interests revolves around reasoning about emotions from various modalities using machine learning and computational methods. He holds a Bachelor and a Master degree in Psychology from NUS."
+
+- name: Huang Xin
+  image: /assets/images/huang-sg.jpg
+  bio: ""
 
 - name: Jamie Lo
   image: /assets/images/jamie-sg.jpg
@@ -55,11 +59,11 @@
   bio: "Research fellow at Social Service Research Centre"
 
 - name: Tianyu He
-  image: /assets/images/tianyu-sg.jpg
+  image: /assets/images/tianyu-sg.jpeg
   bio: "Assistant Professor at National University of Singapore Business School, Department of Management & Organisation. Her research aims to understand how people and different hierarchical structures influence conflict, cooperation, and coordination in organizational teams."
 
 - name: Trung Kien  Dang
-  image: /assets/images/trungkien-sg.jpg
+  image: /assets/images/trungkien-sg.png
   bio: "Kien is a PhD student at Saw Swee Hock School of Public Health, National University of Singapore working on machine learning in the intensive care unit. He is currently exploring the use of computational methods in social sciences and climate change. Outside of research Kien also enjoys doing software engineering/data science consulting and contributing to open source software."
 
 - name: Yen Kiat Chong
@@ -83,5 +87,5 @@
   bio: "Yuanyuan Wu is a doctoral student in the Department of Communication and New Media at National University of Singapore. Her research interests mainly extend to health-related misinformation, media psychology and media effect. She is particularly interested in exploring media related to alternative medicine."
 
 - name: Zicheng Wu
-  image: /assets/images/zicheng-sg.jpg
+  image: /assets/images/zicheng-sg.png
   bio: "Zicheng Zhu is a doctoral student in the Department of Communications and New Media at National University of Singapore. Her research interest includes digital well-being and game studies, lying at the intersection of communication and human-computer interaction. She is currently interested in understanding players' tension between play and non-play and helping people develop an intentional relationship with technology."  
