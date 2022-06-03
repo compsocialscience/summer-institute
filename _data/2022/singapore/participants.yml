@@ -27,7 +27,6 @@
   bio: "Gerard Yeo is a PhD student under the Integrative Sciences and Engineering Programme (ISEP) and Institute of Data Science (IDS) in the National University of Singapore (NUS). His research interests revolves around reasoning about emotions from various modalities using machine learning and computational methods. He holds a Bachelor and a Master degree in Psychology from NUS."
 
 - name: Huang Xin
-  image: /assets/images/huang-sg.jpg
   bio: ""
 
 - name: Jamie Lo
@@ -39,7 +38,6 @@
   bio: "Jinyu Tang is pursuing a Ph.D. in Information Studies at Nanjing University. She is currently a visiting research student in the Department of Communications and New Media at the National University of Singapore. She is particularly interested in how technologies could shape people’s life. She has a background in engineering and education."
 
 - name: Mahak Nagpal
-  image: /assets/images/mahak-sg.jpg
   bio: ""
 
 - name: Nathanael Sumaktoyo
@@ -47,7 +45,6 @@
   bio: "Nathanael Sumaktoyo is an Assistant Professor of Political Science at the National University of Singapore. He previously did postdoctoral fellowships at the University of Konstanz, Germany and the University of Notre Dame, USA. His research is on identity politics, political behavior, and political psychology. Methodologically, he is interested in experimental methods, causal inference, Bayesian analysis, and computational methods."
 
 - name: Pey Wen Liaw
-  image: /assets/images/peywen-sg.jpg
   bio: "Liaw Pey Wen is a Ph.D Student at the Department of Malay Studies, National University of Singapore. Her research investigates the Malay monarchy's utilization of digital media as its survival strategies. She receives her MA in Communication from National Chengchi University in Taiwan. She is recognised for in-depth writing about human-interest stories. She is also a member of Freedom Film Network."
 
 - name: Rakoon Piyanontalee
@@ -74,8 +71,7 @@
   image: /assets/images/yifei-sg.jpg
   bio: "Yifei Wang is a master’s student (by research) in communications and new media at the National University of Singapore. His works apply quantitative and computational methods to explore the interactive mechanisms between public opinion and public policy in an increasingly digitized society." 
 
-- name: Yeng Kiat Tan
-  image: /assets/images/yengkiat-sg.jpg
+- name: Ying Kiat Tan
   bio: "Ying Kiat is a PhD student at National University of Singapore’s School of Computing. His current research interest is to develop and apply computational tools on the issue of polarisation and echo chamber in the society. Prior to starting his PhD, he served for many years in Singapore’s public service."
 
 - name: Yipeng Xi
