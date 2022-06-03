@@ -39,15 +39,9 @@ speakers:
 
     - name: Rumman Chowdhury
       image: /assets/images/jias_rumman.jpeg
-      bio: "Dr Rumman Chowdhury is the director of [Twitter's ML Ethics, Transparency and
-      Accountability (META) team](https://blog.twitter.com/en_us/topics/company/2021/introducing-responsible-machine-learning-initiative). Dr Chowdhury is a pioneer in the field of applied algorithmic
-      ethics, creating cutting-edge socio-technical solutions for ethical, explainable and
-      transparent AI. At Twitter, she leads a team of applied researchers and engineers to
-      identify and mitigate algorithmic harms on the platform. Previously, she was CEO and
-      founder of Parity, an enterprise algorithmic audit platform company. She formerly served as
-      Global Lead for Responsible AI at Accenture Applied Intelligence. In her work as
-      Accenture’s Responsible AI lead, she led the design of the Fairness Tool, a
-      first-in-industry algorithmic tool to identify and mitigate bias in AI systems."
+      bio: "Dr Rumman Chowdhury is the director of <a
+      href='https://blog.twitter.com/en_us/topics/company/2021/introducing-responsible-machine-learning-initiative'>Twitter's
+      ML Ethics, Transparency and Accountability (META) team</a>. Dr Chowdhury is a pioneer in the field of applied algorithmic ethics, creating cutting-edge socio-technical solutions for ethical, explainable and transparent AI. At Twitter, she leads a team of applied researchers and engineers to identify and mitigate algorithmic harms on the platform. Previously, she was CEO and founder of Parity, an enterprise algorithmic audit platform company. She formerly served as Global Lead for Responsible AI at Accenture Applied Intelligence. In her work as Accenture’s Responsible AI lead, she led the design of the Fairness Tool, a  first-in-industry algorithmic tool to identify and mitigate bias in AI systems."
       website: http://www.rummanchowdhury.com/
 
     - name: Bhaso Ndzendze
