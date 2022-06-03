@@ -126,7 +126,12 @@ panels:
       image: /assets/images/Danielle_Olson.jpeg
       bio: "Dr. Danielle M. Olson is an AI/ML Human Factors Researcher at Apple based in Seattle, WA. She collaborates with technical and creative partners to inform how machine learning-powered products are built at Apple. She leads research to better understand the infinite ways human experiences with technologies can vary so that she can advocate for humans throughout the design and development process."
       website: http://hellodanio.com/
-      
+    
+    - name: Evans Osabuohien, Ph.D.
+      image: /assets/images/Evans_Osabuohien.png
+      bio: "Evans Osabuohien is a Professor of Economics and the Head of the Department of Economics & Development Studies at Covenant University, Nigeria. He is a fellow of the Alexander von Humboldt Foundation(AvH) and Swedish Institute. He coordinates the Research Linkage Programme between Witten/Herdecke University, Germany and Covenant University, Nigeria with funding from AvH. His primary research interest centres around development, institutional economics, and agricultural/land economics."
+      website: https://evansosabuohien.com/
+    
     - name: Lebogang Ramafoko
       image: /assets/images/Lebogang_Ramafoko.jpeg
       bio: "Lebogang is currently the Executive Director of Oxfam South Africa. Lebogang is an outspoken feminist thinker and strategist, a sought-after speaker, facilitator, and trainer who is passionate about social justice particularly for young women and girls. Lebogang combines her own life experience as a black woman who grew up in Apartheid South Africa, thrust into activism at an early age and the skills she acquired through her training to speak out against injustice wherever she goes. She is one of the prominent media commentators and advocates on various social issues facing women in South Africa."
