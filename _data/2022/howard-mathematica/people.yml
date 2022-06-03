@@ -116,12 +116,7 @@ panels:
       image: /assets/images/Bhaso_Ndzendze.jpeg
       bio: "Dr Bhaso Ndzendze is a Senior Lecturer and Head of Department: Politics and International Relations at the University of Johannesburg. Dr Ndzendze is also founder and head of the 4IR and Digital Policy Research Unit at the University of Johannesburg, and a digital policy fellow at the Berlin-based African Policy Research Institute. He is author of two books on artificial intelligence and international relations and is editor in chief of the journal Digital Policy Studies. His scholarship and opinion on technology, society and digital policy has appeared in numerous edited books and the press."
       website: https://bhasondzendze.co.za/ 
-      
-    - name: Felicia Odamtten
-      image: /assets/images/Felicia_Odamtten.png
-      bio: "Felicia is the Founder and Director of The Black Economists Network (T-BEN). As director, Felicia has overseen the meteoric growth in membership of T-BEN and formed strategic alliances with reputable private and public sector organisations both national and internationally, including The Royal Economic Society, Government Economic Service (UK), the Sadie Collective (USA) etc. She is also an Economist at the Resolution Foundation and was previously a fast stream Economist in the UK Government’s accelerated leadership development programme for talented graduates. Felicia is an accomplished public speaker who has sat on numerous panels and shared insights in discussions and debates. In 2019, Felicia was appointed by the UK Government Economic Services (GES) as Ambassador for its Civil Service fast stream recruitment scheme. Felicia is passionate about using economics to drive investments and positively impact society and communities. She believes this will support equitable distribution of global resources to improve lives and living conditions of people in developing countries with emphasis on the continent of Africa."
-      website: https://www.tben.co.uk/the-team
-      
+     
     - name: Danielle Olson, Ph.D.
       image: /assets/images/Danielle_Olson.jpeg
       bio: "Dr. Danielle M. Olson is an AI/ML Human Factors Researcher at Apple based in Seattle, WA. She collaborates with technical and creative partners to inform how machine learning-powered products are built at Apple. She leads research to better understand the infinite ways human experiences with technologies can vary so that she can advocate for humans throughout the design and development process."
