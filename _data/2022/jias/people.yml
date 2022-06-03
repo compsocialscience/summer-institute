@@ -39,16 +39,15 @@ speakers:
 
     - name: Rumman Chowdhury
       image: /assets/images/jias_rumman.jpeg
-      bio: "Dr Sibongiseni Thotsejane is a founding member of multi-award-winning FlavaLite
-      Innovations. She completed her PhD in Information Systems at the University of Cape Town
-      (UCT) on the topic of “Web Analytics strategy: a model for adopting and implementing
-      advanced Web Analytics” in conjunction with Ryerson University, Toronto, Canada. She has
-      more than 21 years of experience in ICT of which more than 16 years have been in ICT
-      Management, System Development, Innovation and Analysis in large organisations and in
-      start-up companies. She was a Commissioner in the South African Presidential Commission on
-      the Fourth Industrial Revolution (Industry 4.0 / 4IR). She is a frequent keynote speaker
-      nationally and internationally in leaders’ conferences on big data analytics, cybersecurity
-      and other fourth industrial revolution (4IR) related themes."
+      bio: "Dr Rumman Chowdhury is the director of [Twitter's ML Ethics, Transparency and
+      Accountability (META) team](https://blog.twitter.com/en_us/topics/company/2021/introducing-responsible-machine-learning-initiative). Dr Chowdhury is a pioneer in the field of applied algorithmic
+      ethics, creating cutting-edge socio-technical solutions for ethical, explainable and
+      transparent AI. At Twitter, she leads a team of applied researchers and engineers to
+      identify and mitigate algorithmic harms on the platform. Previously, she was CEO and
+      founder of Parity, an enterprise algorithmic audit platform company. She formerly served as
+      Global Lead for Responsible AI at Accenture Applied Intelligence. In her work as
+      Accenture’s Responsible AI lead, she led the design of the Fairness Tool, a
+      first-in-industry algorithmic tool to identify and mitigate bias in AI systems."
       website: http://www.rummanchowdhury.com/
 
     - name: Bhaso Ndzendze
