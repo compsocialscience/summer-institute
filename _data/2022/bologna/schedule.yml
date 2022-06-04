@@ -48,7 +48,7 @@
   name: Student Presentations and Guest Lectures [in person at UNIBO]
   events:
     - name: "10:00 - 12:15/:30	Student Project Presentations [x3]"
-    - name: "13:00 - 14:00  Brown Bag Lunch"
+    - name: "13:00 - 14:00  Lunch Time"
     - name: "15:30 - 16:30	LAB - Small group work/Discussion on students' projects [3* TA + Marco Albertini]" 
     - name: "16:30 - 18:30  Chris Albon - Machine Learning at Wikimedia"
     - name: "20:30 - 00:00  Conference Dinner"
@@ -57,15 +57,15 @@
   name: Student Presentations and Guest Lectures [in person at UNIBO]
   events:
     - name: "10:00 - 12:15/:30	Student Project Presentations [x3]"
-    - name: "13:00 - 14:00  Brown Bag Lunch"
+    - name: "13:00 - 14:00  Lunch Time"
     - name: "15:30 - 16:30	LAB - Small group work/Discussion on students' projects [3* TA + Giampiero Giacomello]"
     - name: "16:30 - 18:30  Rachel Tatman - Natural Language Processing"
 
 - date: 2022-06-15
   name: Student Presentations and Guest Lectures [in person at UNIBO]
   events:
-    - name: "10:00 - 12:15/:30	Felix Torpf - Big Data in Genomics"
-    - name: "13:00 - 14:00  Brown Bag Lunch"
+    - name: "10:00 - 12:15/:30	Professor Nicola Barban - Big data from the past: Internet-based genealogies and demographic research"
+    - name: "13:00 - 14:00  Lunch Time"
     - name: "14:00 - 15:30  Student Project Presentations [x3]"
     - name: "15:30 - 16:30	LAB - Small group work/Discussion on students' projects [3* TA]"
 
@@ -73,9 +73,6 @@
   name: Student Presentations and Guest Lectures [in person at UNIBO]
   events:
     - name: "10:00 - 12:15/:30	Annalisa Pelizza - [tba]"
-    - name: "13:00 - 14:00  Brown Bag Lunch"
+    - name: "13:00 - 14:00  Lunch Time"
     - name: "14:00 - 15:30  Student Project Presentations [x3]"
     - name: "15:30 - 16:30	LAB - Small group work/Discussion on students' projects [3* TA]"
-
-    
-    
