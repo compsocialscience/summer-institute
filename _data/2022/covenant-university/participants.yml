@@ -3,20 +3,25 @@
   bio: "<p align='justify'>Julius Ajayi is a PhD candidate in the Department of Transport Management at the Ladoke Akintola University of Technology, Nigeria. He is also a Research Associate at the Centre for Economic Policy and Development Research (CEPDeR), Nigeria. His research interests include Transport Equity, Policy Development and Sustainability. His Doctoral thesis focuses on the disparities in access to public transportation among population groups in a sub-Sahara African urban centre. Between 2016 and 2019, Julius led data-driven education advocacy across three geopolitical zones in Nigeria.</p>"
   website: https://scholar.google.com/citations?hl=en&user=XcHpoAoAAAAJ
 
-- name: Christiana Alex-Ojei
-  image: /assets/images/COjei.jpg
-  bio: "<p align='justify'>Christiana Alex-Ojei is a social demographer and statistician with interests in adolescent, maternal, child and family health. She is also interested in mixed methods and interdisciplinary research.</p>"
-  website: https://scholar.google.com/citations?user=dQwU69IAAAAJ&hl=en
-
 - name: Joshua Akinyemi
   image: /assets/images/JAkinyemi.jpg
   bio: "<p align='justify'>Joshua Akinyemi is a Senior Lecturer in the Department of Epidemiology and Medical Statistics, College of Medicine, University of Ibadan, Nigeria. His expertise spans statistical demography and applied biostatistics with additional interests in the burgeoning discipline of data science and allied topics such as statistical and machine learning. He has extensive experience in advanced statistical modelling and multi-country analysis of complex nationally-representative household surveys.</p>"
   website: https://scholar.google.com/citations?user=ImHGpY0AAAAJ&hl=en
+
+- name: Christiana Alex-Ojei
+  image: /assets/images/COjei.jpg
+  bio: "<p align='justify'>Christiana Alex-Ojei is a social demographer and statistician with interests in adolescent, maternal, child and family health. She is also interested in mixed methods and interdisciplinary research.</p>"
+  website: https://scholar.google.com/citations?user=dQwU69IAAAAJ&hl=en
   
 - name: Joseph David
   image: /assets/images/JDavid.jpg
   bio: "<p align='justify'>Joseph David is a Masters student in Economics at the Umaru Musa Yar’adua University, Katsina. His primary research interests include poverty and inequality, public finance, corruption, development economics and money laundering. Joseph’s current research focuses on the response of the level of poverty to different thresholds of debt stocks and debt burden in several African countries.</p>"
   website: https://twitter.com/SmallJosePhD
+  
+- name: Michael Ehinmowo
+  image: /assets/images/
+  bio: "<p align='justify'>Michael Ehinmowo is a master's student in the department of psychology at the University of Ibadan. His current research interest is at the nexus of mental health, collective behaviour, bioethics, and social policy. He is interested in employing emerging tools of computation in science.</p>"
+  
   
 - name: Marvellous Ngundu
   image: /assets/images/MNgundu.jpg
