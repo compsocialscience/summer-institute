@@ -7,7 +7,7 @@
     - name: "10:00 - 10:45	Ethics (on line material)"
     - name: "11:00 - 11:40	Presentation/Discussion/Exercise [Elena Esposito]"
     - name: "11:45 - 14:00  Break/Lunch"
-    - name: "14:00 - 15:00	LAB - Intro-summary to R environment [1*TA] + Data linkage/merging in R [1*TA]"
+    - name: "14:00 - 15:00	LAB - Basic: Data manipulation and visualization in R using tidyverse; Advanced: Git workflow and RStudio"
     - name: "15:30 - 16:30	TA Office hours [TA*2]" 
 
 - date: 2022-06-07
@@ -16,7 +16,7 @@
     - name: "10:00 - 10:45	Collecting Digital Trace Data" 
     - name: "11:00 - 11:40	Presentation/Discussion/Exercise [Marco Albertini]"
     - name: "11:45 - 14:00  Break/Lunch"
-    - name: "14:00 - 15:00	LAB Twitter scraping [1*TA] + Web scraping [1*TA]"
+    - name: "14:00 - 15:00	LAB - Basic: API and academic Twitter; Advanced: Task based on Wikipedia API"
     - name: "15:30 - 16:30	TA Office hours [TA*2]" 
 
 - date: 2022-06-08
@@ -25,7 +25,7 @@
     - name: "10:00 - 10:45	Automated Text Analysis"
     - name: "11:00 - 11:40	Presentation/Discussion/Exercise [Luca Pinto]"
     - name: "11:45 - 14:00  Break/Lunch"
-    - name: "14:00 - 15:00	LAB Word Clouds with R [1*TA] + Topic modellling  [1*TA]"
+    - name: "14:00 - 15:00	LAB - Basic: Web scraping with Rvest; Advanced: Task based YouTube API"
     - name: "15:30 - 16:30	TA Office hours [TA*2]" 
 
 - date: 2022-06-09
@@ -34,7 +34,7 @@
     - name: "10:00 - 10:45	Surveys and Mass Collaboration"
     - name: "11:00 - 11:40	Presentation/Discussion/Exercise  [Oltion Preka]"
     - name: "11:45 - 14:00  Break/Lunch"
-    - name: "14:00 - 15:00	LAB amazon Mturk exercise [1 TA]"
+    - name: "14:00 - 15:00	LAB - Basic: Sentiment analysis and topic modeling with tidytext; Advanced: Introduction to causal inference and statistical modeling in R"
     - name: "15:30 - 16:30	TA Office hours [TA*2]" 
 
 - date: 2022-06-10
