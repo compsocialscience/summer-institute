@@ -47,12 +47,12 @@
   website: https://www.linkedin.com/in/bhavye-j-bb3940202/
   
 - name: "Anukriti Choubey"
-  image: /assets/images/delhi_AnukritiChoubey.jpeg
+  image: /assets/images/delhi_AnukritiChoubey.JPG
   bio: "Anukriti Choubey holds masters from the Symbiosis International University in Economics specialization in Development Economics and is currently a Consultant in FICCI. In the prior engagement with the Confederation of Indian Industry (CII), she was part of the CII’s BRICS international department, particularly focusing on Russia. She has also worked with NITI Aayog, Pranab Mukherjee Foundation, and the Bureau of Research on Industry & Economic Fundamentals (BRIEF India). During these engagements, she had the opportunity to undertake a field-based (RCT) project appraisal of Tata Trust’s ‘Water-ATM’ in Haryana, this was part of the SmarTgram project, Environmental impact assessment of vehicle emissions in NCR region, extend research support to NITI Aayog’s SDG North-Eastern Index and SDG India-Dashboard Index, and appraised the Compulsory Registration Order scheme of Ministry of Electronics and Information technology." 
   website: https://www.linkedin.com/in/anukritichoubey21/
   
 - name: "Anurag Verma"
-  image: /assets/images/delhi_AnuragVerma.jpeg
+  image: /assets/images/delhi_AnuragVerma.jpg
   bio: "Anurag Verma is a post graduate student with Master of Public Policy programme at the  National Law School of India University. His dissertation project traces the evolution of election system in India in context of technological interventions. He is interested in application of computational methods in political science." 
   website: https://medium.com/@vermaanurag
   
@@ -84,5 +84,10 @@
 - name: "Purohit Ridhi"
   image: /assets/images/delhi_RidhiPurohit.jpg
   bio: "Ridhi Purohit is an incoming student at the Harris School of Public Policy for the MS in Computational Analysis and Public Policy program. Currently, she works as a Regulatory Compliance Consultant at Deloitte. In 2021, Ridhi completed a Graduate Certificate in Public Policy with the Takshashila Institution. Her interests include technology policy, spread of misinformation/disinformation in social media networks and human behaviour in socio-technical systems."
+  website: http://linkedin.com/in/ridhi-purohit
+  
+  - name: "Sanya Srivastava"
+  image: /assets/images/delhi_SanyaSrivastava.jpeg
+  bio: "Sanya Srivastava is a policy professional with an undergraduate degree in Economics and is currently a graduate student in the field of international development and public policy. She is passionate about strengthening governance structures and solving sustainable developmental challenges. Her current research interests lie in understanding the intersection between economic development, social progress and commercial growth through quantitative evidence and experience-based policies."
   website: http://linkedin.com/in/ridhi-purohit
 
