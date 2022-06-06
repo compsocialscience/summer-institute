@@ -1,8 +1,35 @@
 speakers: 
   title: Guest Speakers 
   people:
-    - name: Coming soon...
-
+    - name: Xuechunzi Bai
+      image: /assets/images/XuechunziBai.jpg
+      bio: "Bai (pronounced like bye) is a rising fifth-year Ph.D. student in the Department of Psychology at Princeton University. She holds a certificate in Statistics and Machine Learning and a joint degree in Social Policy from the School of Public and International Affairs. She is a graduate student fellow in the Program in Cognitive Science and the winner of the Prize Fellowship in the Social Sciences at Princeton. Her research examines how and why humans learn inaccurate stereotypes. Whenever she doesn't feel like researching, she likes walking my 100-pound big boy -- an Alaskan Mamalute -- Alpha around the Princeton campus."
+      website: https://www.xuechunzibai.com/
+    - name: Spe Chen
+      image: /assets/images/SpeChen.jpg
+      bio: "Spe Chen is a data and graphics journalist who recently relocated back to Taiwan, her home country, after working in newsrooms in Singapore, China and the U.S. for the past six years. She’s most recently a data visualization designer at Straits Times. She specializes in integrating data and visuals in storytelling to educate and entertain readers. Her works have been honored by the Society of News Design and Sigma Awards. She holds a post bachelor's certificate from The Lede Program of Columbia Journalism School and a Master's degree in Visual Tools to Empower Citizens from the University of Girona."
+      website: https://spepechen.github.io/
+    - name: Fu-Yin Cherng
+      image: /assets/images/Fu-YinCherng.png
+      bio: "Fu-Yin Cherng is a tenure-track assistant professor in the Department of Computer Science and Information Engineering at the National Chung Cheng University. She received her Ph.D. degree from the National Chiao Tung University in 2019. She conducted research at the University of California, Davis, as a postdoc in 2019 and École polytechnique fédérale de Lausanne (EPFL) from 2016 to 2017 as a doctoral research assistant. Her research interests include Human-Computer Interaction, Neuroergonomics, and Data-Driven Design. After a long day of working, Fu-Yin likes to play with her beloved cat and read various books, anime, and comics. “The Unbearable Lightness of Being” and “Mushishi” are the two must-reads if anyone asks her for recommendations."
+      website: https://fuyincherng.github.io/
+    - name: Peter Wang
+      image: /assets/images/PeterWolf.png
+      bio: "Peter Wang (mostly known as PeterWolf on the Internet) has been running Droidtown Linguistic Tech. - a company providing infrastructure tools for NLP (Natural Language Processing) - for over a decade. His daily work is a mixture of technical parts on computer science and humanity parts on human languages. His superpower is to twist the probability in the universe to bring up bugs in the software system. The talent is pretty handy in the development phase."
+      website: https://sites.google.com/site/peterwolftw/
+    - name: Daniel Kao
+      image: /assets/images/DanielKao.jpg
+      bio: "Daniel is currently pursuing a masters in GIS and Cartography from the University of Wisconsin. Graduated from UCSD with a bachelor's in Computer Science. He previously worked as a Principal Engineer at Commonwealth Magazine, and Software Engineer at The New York Times."
+      website: https://www.diplateevo.com/
+    - name: Marian-Andrei Rizoiu
+      image: /assets/images/MarianAndreiRizoiu.png
+      bio: "Dr Marian-Andrei Rizoiu is a Senior Lecturer in Behavioral Data Science at the University of Technology Sydney. He is interested in stochastic behavioral modeling of human actions online, at the intersection of applied statistics, artificial intelligence and social data science. He leads the Behavioral Data Science lab, which studies human attention dynamics in the online environment, the emergence of influence and opinion polarization. Marian-Andrei’s research has been funded by Facebook Research and Defence Science and Technology (DST). His work has appeared in PNAS, PLOS ONE, PLOS Computations Biology, WWW, NeurIPS, IJCAI, and CIKM."
+      website: https://www.rizoiu.eu/
+    - name: Hannah Waight
+      image: /assets/images/HannahWaight.jpg
+      bio: "Hannah Waight is a Postdoctoral Fellow at NYU’s Center for Social Media and Politics. Hannah studies state media coordination and manipulation in non-democratic contexts, especially contemporary China. She is particularly interested in what makes state propaganda visible and what makes state propaganda spread. Hannah has also previously written on the sociology of knowledge and the history of social thought. Hannah received her Ph.D. from Princeton University's sociology department in May 2022. She also has a Bachelor's and Master's degree in East Asian Studies, both from Harvard University. Hannah enjoys trees and rock climbing."
+      website: https://scholar.princeton.edu/hwaight/home
+    
 participants: 
   title: Participants
   people:
