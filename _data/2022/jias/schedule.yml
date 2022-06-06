@@ -9,14 +9,13 @@
     - name: 13:00 - 14:00 Introduction and logistics
     - name: 14:00 - 15:00 Group Discussion
     - name: 15:00 - 15:15 Assigning to groups
-    - name: 15:15 - 16:00 Discussion on the prescribed book (in groups)
-    - name: 16:00 - 16:30 Debrief and Reflections
+    - name: 15:15 - 15:30 Debrief and Reflections
 
 - date: Tuesday, June 21 2022
   events:
     - name: "10:00 - 12:00 Speaker 1: [Bhaso Ndzendze](https://bhasondzendze.co.za/) (University of Johannesburg)"
     - name: "12:00 - 13:00 Break or catch up on R resources"
-    - name: "13:00 - 15:00 Group meetings: work on book report"
+    - name: "13:00 - 15:00 Group meetings: work on book report (optional)"
     - name: "16:00 - 17:00 Speaker 2: Geci Karuri-Sebina (Wits University)"
 
 - date: Wednesday, June 22 2022
@@ -30,19 +29,19 @@
 - date: Thursday, June 23 2022
   events:
     - name: "14:00 - 15:00 Speaker 1: [Adriana Marais](https://www.adrianamarais.org/about/) (Proudly Human)"
-    - name: "15:00 - 16:00 Group meetings"
+    - name: "15:00 - 16:00 Group meetings (optional)"
     - name: "16:00 - 17:00 Speaker 2: Tendani Chimboza (University of Cape Town)"
 
 - date: Friday, June 24 2022
   events:
-    - name: "13:00 - 15:00 Group meetings: finalise book report"
+    - name: "13:00 - 15:00 Group meetings: finalise book report (optional)"
     - name: 15:00 - 16:00 Break or catch up on R resources
     - name: "16:00 - 17:00 Speaker: Lindiwe Matlali (teengeeks)"
 
 - date: Saturday - Sunday
   events:
     - name: Day off
-    - name: "**submit group book report**"
+    - name: "**submit group book report (optional)**"
 
 - date: Monday, June 27 2022
   name: Introduction and Ethics
@@ -50,9 +49,8 @@
     - name: Watch [Day 1 Video](https://sicss.io/curriculum) in your own time
     - name: 13:00 - 13:15 Introduction to the group exercise lesson plan (participants)
     - name: 13:15 - 14:15 Small group discussion on case study
-    - name: 14:15 - 15:15 Whole group debrief about the case study
-    - name: 15:15 - 15:45 Debrief and logistics
-    - name: 15:45 - 16:00 Break
+    - name: 14:15 - 14:30 Debrief and logistics
+    - name: 14:30 - 16:00 Break
     - name: "16:00 - 17:00 SICSS-Africa + African Descendents Inaugural Joint Panel: Interrogating
       Data Collection Methods Focused on African and African Descendents Around the World:
       Problems, Realities and Future Opportunities"
@@ -76,7 +74,6 @@
   events: 
     - name: Watch [Day 4 Video](https://sicss.io/curriculum) in your own time
     - name: 13:00 - 14:00 Discussion with Zimasa
-    - name: 14:00 - 15:00 Group exercise
     - name: "15:00 - 16:00 Lecture: Xolani Makhubele"
 
 - date: Friday, July 1 2022
@@ -84,7 +81,6 @@
   events:
     - name: Watch [Day 5 Video](https://sicss.io/curriculum) in your own time
     - name: 13:00 - 14:00 Discussion with Zimasa
-    - name: 14:00 - 15:00 Group exercise
     - name: "15:00 - 16:00 Lecture: Sven Lampe (Oldenburg University)"
 
 - date: Saturday - Sunday
