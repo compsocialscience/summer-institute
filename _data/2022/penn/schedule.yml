@@ -64,7 +64,8 @@
     - name: "10:00 - 11:00 Emilio Zagheni (Max Planck)"
     - name: "11:00 - 12:00 1-1/Team Work"
     - name: "12:00 - 1:30 Lunch"
-    - name: "1:30 - 5:00 Group Work"
+    - name: "1:30 - 4:00 Group Work"
+    - name: "4:00 - 5:00 Research Workshop"
     
 - date: 2022-06-22
   name: Project Development
