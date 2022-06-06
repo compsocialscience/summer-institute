@@ -2,7 +2,7 @@
   name: Introduction and ethics
   events:
     - name: "8:00 - 8:25 Introduction and logistics"
-    - name: "8:30 - 9:55 Opening Keynote (virtual) by Dr. Sandra Gonzalez-Bailon (UPenn): Key Questions in Computational Social Science. Register at [https://tinyurl.com/sandra-sicss-sg/](https://tinyurl.com/sandra-sicss-sg/)"
+    - name: "8:30 - 9:55 Opening Keynote (virtual) by Dr. Sandra Gonzalez-Bailon (UPenn): Key Questions in Computational Social Science."
     - name: "10:00 - 11:55 Morning session"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 17:00 Afternoon session and group activities"
@@ -11,7 +11,7 @@
   name: Collecting digital trace data
   events:
     - name: "9:00 - 9:55 Morning session"
-    - name: "10:00 - 11:55 Guest lecture (virtual) by Suhem Parack (Twitter): Getting started with academic research using the Twitter API v2. Register at [https://tinyurl.com/suhem-sicss-sg/](https://tinyurl.com/suhem-sicss-sg/)"
+    - name: "10:00 - 11:55 Guest lecture (virtual) by Suhem Parack (Twitter): Getting started with academic research using the Twitter API v2."
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 17:00 Afternoon session and group activities"
 
@@ -19,7 +19,7 @@
   name: Text as Data
   events:
     - name: "9:00 - 9:55 Morning session"
-    - name: "10:00 - 11:55 Guest lecture (virtual) by Dr. Jisun An (SMU): Tackling social challenges with data science and AI. Register at [https://tinyurl.com/jisun-sicss-sg/](https://tinyurl.com/jisun-sicss-sg/)"
+    - name: "10:00 - 11:55 Guest lecture (virtual) by Dr. Jisun An (SMU): Tackling social challenges with data science and AI."
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 17:00 Afternoon session and group activities"
 
@@ -27,7 +27,7 @@
   name: Experiments in the Digital Era
   events:
     - name: "9:00 - 9:55 Morning session"
-    - name: "10:00 - 11:55 Guest lecture (virtual) by Dr. Hai Liang (CUHK): Detection of Content Incivility and Its Causal Effects using Machine Learning. Register at [https://tinyurl.com/hai-sicss-sg/](https://tinyurl.com/hai-sicss-sg/)"
+    - name: "10:00 - 11:55 Guest lecture (virtual) by Dr. Hai Liang (CUHK): Detection of Content Incivility and Its Causal Effects using Machine Learning."
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 17:00 Afternoon session and group activities"
 
@@ -35,7 +35,7 @@
   name: Topic TBC
   events: 
     - name: "9:00 - 9:55 Morning session"
-    - name: "10:00 - 11:55 Guest lecture (in person) by Dr. Prasanta Bhattacharya (A*STAR): Modeling the Dynamics of Social Networks and Behavior: Concepts, Methods and Applications. Register at [https://tinyurl.com/prasanta-sicss-sg/](https://tinyurl.com/prasanta-sicss-sg/)"
+    - name: "10:00 - 11:55 Guest lecture (in person) by Dr. Prasanta Bhattacharya (A*STAR): Modeling the Dynamics of Social Networks and Behavior: Concepts, Methods and Applications."
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 16:30 Afternoon session and group activities"
     - name: "17:30 - 18:00 Dinner and social event"
@@ -78,6 +78,6 @@
 - date: Friday June 24, 2022
   name: Project Presentations
   events:
-    - name: "10:00 - 12:00 Closing keynote by Dr. Kokil Jaidka: From Noisy Data to Interpretation: the Next Frontier for the study of South Asian online communities. Register at [https://tinyurl.com/kokil-sicss-sg/](https://tinyurl.com/kokil-sicss-sg/)"
+    - name: "10:00 - 12:00 Closing keynote by Dr. Kokil Jaidka: From Noisy Data to Interpretation: the Next Frontier for the study of South Asian online communities."
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 17:00 Group presentations"
