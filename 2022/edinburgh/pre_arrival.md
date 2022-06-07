@@ -47,4 +47,4 @@ Many participants at SICSS use GitHub to collaborate. If you do not yet have one
 
 ## Office hours
 
-The SICSS-Duke [TAs](https://sicss.io/2022/edinburgh/people#teaching_assistants) will host weekly office hours in the SICSS 2022 Slack. You can find information about the office hours in the SICSS 2022 Slack channel #pre-office-hours. If you are not able to attend during the regularly scheduled office hours or have any questions about office hours, please contact one of the [TAs](https://sicss.io/2022/edinburgh/people#teaching_assistants).
+The SICSS-Edinburgh [TAs](https://sicss.io/2022/edinburgh/people#teaching_assistants) will host office hours in the SICSS-Edinburgh Slack. If you are not able to attend during the regularly scheduled office hours or have any questions about office hours, please contact one of the [TAs](https://sicss.io/2022/edinburgh/people#teaching_assistants).
