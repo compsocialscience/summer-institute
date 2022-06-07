@@ -85,7 +85,8 @@
 - date: June 30, 2022
   name: Group work day
   events: 
-    - name: "9:00 - 12:00 Group work time"
+    - name: "9:00 - 10:00 Group work time"
+    - name: "10:00 - 11:30 Talk by Robert Kubinec"
     - name: "12:00 - 1:00 Lunch"
     - name: "1:00 - 5:00 Group work time"
     
