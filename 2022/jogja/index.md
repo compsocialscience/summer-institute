@@ -11,4 +11,4 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is restricted to postgraduate students (both Master's and Doctoral degrees), junior/untenured faculty members (without a PhD or within 3 years of their PhDs), postdoctoral researchers, and researchers working at NGOs or government agencies. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 20-30 participants will be invited, and participants are expected to fully attend and participate in the entire two-week program either in-person or online.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2022/jogja/apply) are due ~~Friday, March 18, 2022,~~ (extended to) Thursday, March 31, 2022, 11:59 pm AoE (Anywhere on Earth).
+[Application materials](https://compsocialscience.github.io/summer-institute/2022/jogja/apply) are due Thursday, March 31, 2022, 11:59 pm AoE (Anywhere on Earth).
