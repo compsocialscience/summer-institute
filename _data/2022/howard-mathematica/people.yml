@@ -56,7 +56,7 @@ speakers:
   people:
     - name: Shawndra B Hill, Ph.D.
       image: /assets/images/Shawndra_Hill.jpeg
-      bio: "Dr. Shawndra Hill joined the Marketing Division at Columbia Business School as a part-time senior lecturer in September 2020. She received her PhD and MPhil in Information Systems from NYU's Stern School of Business in 2007 and 2003 respectively, and her BS in Mathematics from Spelman College and her BEE in Electrical Engineering from Georgia Institute of Technology  in 1995.  Presently, Shawndra Hill is also a Principal Scientist at Facebook in the Core Data Science Team in NYC. Prior to joining Facebook, she was (Senior) Principal Researcher at Microsoft Research in NYC and a professor in the Operations and Information Management Department at the Wharton School of the University of Pennsylvania. Broadly, she studies data mining, machine learning and statistical relational learning and their alignment with business problems. Specifically, she researches the value to companies of mining data on how consumers interact with each other on online platforms — for targeted marketing, advertising, health and fraud detection purposes. Her current research focuses on cross channel advertising and the resulting interactions between TV content and online (ad click) behaviors. Her past and present industry partners include AT&T Labs Research, ClearForest, and Siemens Energy & Automation."
+      bio: "Dr. Shawndra Hill joined the Marketing Division at Columbia Business School as a part-time senior lecturer in September 2020. She received her PhD and MPhil in Information Systems from NYU's Stern School of Business in 2007 and 2003 respectively, and her BS in Mathematics from Spelman College and her BEE in Electrical Engineering from Georgia Institute of Technology in 1995. Presently, Shawndra Hill is also a Principal Scientist and Manager in Tech. Prior to joining industry, she was a professor in the Operations and Information Management Department at the Wharton School of the University of Pennsylvania. Broadly, she studies data mining, machine learning and statistical relational learning and their alignment with business problems. Specifically, she researches the value to companies of mining data on how consumers interact with each other on online platforms — for targeted marketing, advertising, health and fraud detection purposes. Her current research focuses on cross channel advertising and the resulting interactions between TV content and online (ad click) behaviors."
       website: https://www8.gsb.columbia.edu/cbs-directory/detail/sbh2146
    
     - name: Karen Levy, Ph.D., J.D.
@@ -131,6 +131,10 @@ panels:
       image: /assets/images/Lebogang_Ramafoko.jpeg
       bio: "Lebogang is currently the Executive Director of Oxfam South Africa. Lebogang is an outspoken feminist thinker and strategist, a sought-after speaker, facilitator, and trainer who is passionate about social justice particularly for young women and girls. Lebogang combines her own life experience as a black woman who grew up in Apartheid South Africa, thrust into activism at an early age and the skills she acquired through her training to speak out against injustice wherever she goes. She is one of the prominent media commentators and advocates on various social issues facing women in South Africa."
       website: https://docs.google.com/document/d/1cs3rwShBjHTNd6AN8swy9eRR_fQrS0aA/edit?usp=sharing&ouid=112934598660812456864&rtpof=true&sd=true
+      
+    - name: Yahya Shaikh
+      image: /assets/images/Yahya_Shaikh.jpeg
+      website: https://www.linkedin.com/in/yahya-shaikh-45646752/
 
 
 roundtable discussions:
