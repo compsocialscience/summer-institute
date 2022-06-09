@@ -203,59 +203,100 @@ lunchtime talks:
 participants: 
   title: Participants
   people:
-    - name: Andrea Adams
+    - name: Andrea Adams 
       image: /assets/images/Andrea_Adams.jpg
-      
-    - name: Rafaela Araujo Rodrigues
-      image: /assets/images/Rafaela_Araujo_Rodrigues.jpg
+      bio: "Andrea Adams, Ph.D., J.D., M.B.A., is an Assistant Professor at UDC whose research is focused on data privacy, crowdsourcing, and gender-based violence. Andrea teaches ethics in the Criminal Justice Bachelors/Homeland Security Master’s program. Andrea is a Board Advisor for Red Dot Foundation, a crowdsourcing smartphone app that maps gender-based violence."
+      website: https://www.linkedin.com/in/andrea-adams-esq-03039162?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXrzrkTT4TG6KSZydV6i%2FXg%3D%3D
 
     - name: Nayantara Biswas
       image: /assets/images/Nayantara_Biswas.jpeg
+      bio: "Nayantara Biswas is a doctoral candidate in the Department of Economics at Clark University in Worcester, Massachusetts. Her research examines the impact of public policies on maternal and child health and labor outcomes in developing countries. She uses data-driven techniques in evidence-based policy research with a focus on equity."
+      website: https://nayantara.biswas.me/
     
     - name: JoVontae Butts
       image: /assets/images/JoVontae_Butts.jpg
+      bio: "JoVontae Butts is a PhD student at Florida State University, and was born and raised in Pontiac, Michigan. Unfortunately seeing great inequality as a young boy, has led to his great interest in the causes of inequalities and the measures that can be taken to combat them."
+      website: https://www.linkedin.com/in/jovontae-butts/
     
     - name: Renee Clarke
       image: /assets/images/Renee_Clarke.jpg
+      bio: "Renee Clarke is a clinical public health professional at University of California, Berkeley. She is passionate about improving the healthcare system in the United States, globally and hopes to combat the many healthcare disparities many systems encounter. She loves connecting with like minded individuals of all disciplines."
+      website: https://www.linkedin.com/in/reneecclarke/
  
     - name: Rumeysanur Erikli Dogan
       image: /assets/images/Rumeysanur_Erikli_Dogan.jpg
+      bio: "Rumeysanur Erikli Dogan is a Ph. D. student in the Sociology Department at the Marmara University. She received a double major in the Departments of Political Science and International Relations, and History at the Bogazici University, and earned her M.A in the Sociology and Social Anthropology Department at the CEU."
+      website: https://www.linkedin.com/in/rumeysanur-do%C4%9Fan-70425153/
 
     - name: Grace Flores-Robles
       image: /assets/images/Grace_Flores-Robles.jpeg
+      bio: "Grace Flores-Robles is a fourth year Psychology PhD student at the CUNY Graduate Center. Her research examines how people see and sanction system-level injustice."
+      website: http://www.cunybasp.org/students#flores-robles
  
     - name: Erica Goto
       image: /assets/images/Erica_Goto.jpg
+      bio: "Erica Goto is a human geographer who uses quantitative and qualitative data to understand the vulnerability, risk, and adaptive capacity of communities living in hazard-prone areas, and stakeholders' co-production of actionable knowledge."
+      website: https://www.researchgate.net/profile/Erica-Goto-3
 
     - name: Rebecca Hsu
       image: /assets/images/Rebecca_Hsu.jpg
+      bio: "Rebecca Hsu is an assistant professor of Economics at Howard University and their research interests are focused on crime and especially intimate partner violence."
+      website: https://linchihsu.weebly.com/
 
     - name: Kristina Lee
       image: /assets/images/Kristina_Lee.jpeg
+      bio: "Kristina E. Lee is a Ph.D. student in sociology at Northwestern University. Her research explores questions surrounding the utility of the state for addressing inequity through a focus on political sociology, race, transnationalism, and Blackness in Latin America. Her dissertation analyzes Mexican and Peruvian state strategies for Afro-descendant inclusion."
+      website: https://sociology.northwestern.edu/people/graduate-students/profiles/kristina-lee.html
  
     - name: Daniel Lobo
       image: /assets/images/Daniel_Lobo.jpg
+      bio: "Daniel Lobo is a PhD student in the Department of Sociology at UC Berkeley. As a cultural sociologist, he is interested in understanding the cultural processes of schools and firms that lead to the reproduction of inequality in education and the labor market."
+      website: https://www.linkedin.com/in/daniel-lobo-3a166763/
 
     - name: Amber Mackey
       image: /assets/images/Amber_Mackey.png
+      bio: "Amber Mackey is pursuing a Ph.D. in political science at the University of Pennsylvania. Her work examines policy, protest, and race and ethnic politics. In addition to working in the academy, Amber is dedicated to learning and teaching about data collection and advocacy work to others within her community."
+      website: https://www.linkedin.com/in/amber-m-24459818b/
 
     - name: Jeremiah Muhammad
       image: /assets/images/Jeremiah_Muhammad.jpeg
+      bio: "Jeremiah Muhammad is a second-year Ph.D. student at the University of Tennessee, Knoxville. His fields of concentration include American politics, comparative politics, and research methodology. Currently, Jeremiah researches the politics of crises and their impact on Black American political behavior."
+      website: https://www.linkedin.com/in/jmuhammad
 
     - name: Imani Munyaka
       image: /assets/images/Imani_Munyaka.jpg
-      
+      bio: "Imani Munyaka is an Assistant Professor at the University of California, San Diego in the Computer Science and Engineering department. Her research focuses on social equity in the areas of security, privacy and usability."
+      website: http://imanimunyaka.com
+     
     - name: Getamesay Shiwenzu Nigussie
       image: /assets/images/Getamesay_Shiwenzu_Nigussie.jpg
+      bio: "Getamesay Nigussie is an environmentalist and development practitioner with extensive research and development experience in agriculture, natural resources, and development studies. Getamesay is currently a Ph.D. student in Environmental science with research interests in sustainable groundwater and land management. Getamesay also has expertise in development studies, agricultural policy, and agrarian transformations."
+      website: https://www.linkedin.com/in/getamesay-nigussie-26a51138/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BdxwA7ntZSpah%2FEmvQx9B6w%3D%3D
+
+    - name: Susana Quiros
+      image: /assets/images/Susana_Quiros.jpg
+      bio: "Susana Quiros, has a PhD in Sociology and Demography from Penn State University. An Assistant Teaching Professor at the University of Missouri in the Department of Public Health, she investigates how legal status influences immigrant health, and how anti-immigrant policies may have multigenerational effects."
+      website: www.linkedin.com/in/susanaquiros
+
+    - name: Rafaela Araujo Rodrigues
+      image: /assets/images/Rafaela_Araujo_Rodrigues.jpg
+      bio: "Rafaela Rodrigues, is an S.J.D. Candidate at American University Washington College of Law. She holds an LL.M. in International Legal Studies with a specialization in Gender & Law and International Human Rights from the same institution. Her research focus on Domestic Workers, Gender, and Labor Law."
+      website: https://www.linkedin.com/in/rafaela-rodrigues-5274a4134/
 
     - name: Shadya Sanders
       image: /assets/images/Shadya_Sanders.jpeg
+      bio: "Dr. Sanders’ research investigates how natural hazards are communicated, perceived, and whether protective actions are taken by individuals at risk. Globally, her work aims to improve and re-develop risk communication methods, and forecasts specifically tailored for chronically underrepresented populations."
+      website: https://www.linkedin.com/in/shadya-sanders/
 
     - name: Asha Yadav
       image: /assets/images/Asha_Yadav.jpg
+      bio: "Asha Yadav is a doctoral candidate in Special Education and Clinical Sciences at the University of Oregon. Her research focuses on policies and practices that influence the abilities of families with children with disabilities from underprivileged and marginalized communities to attain adequate access and use of services in early childhood."
+      website: https://www.linkedin.com/in/yadavasha/
       
     - name: Bing-Jie Yen
       image: /assets/images/Bing-Jie_Yen.png
+      bio: "Bing-Jie’s scholarly niche is at the intersection of public health, economics, and data science. Her research applies quantitative method to healthcare accessibility and equity for vulnerable populations. In her ongoing dissertation, she makes longitudinal assessments of mental healthcare utilization and the risk of suicidal behaviors with causal inference methods."
+      website: https://www.linkedin.com/in/jennifer-bing-jie-yen/
 
 
 organizers:
