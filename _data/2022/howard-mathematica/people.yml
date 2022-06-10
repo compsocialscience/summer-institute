@@ -134,6 +134,7 @@ panels:
       
     - name: Yahya Shaikh
       image: /assets/images/Yahya_Shaikh.jpeg
+      bio: "Dr. Yahya Shaikh is a physician specializing in primary care and public health. His public health practice and training includes human rights and humanitarian assistance. His research has focused on the application of decolonizing methodologies in research. He previously served on a federal Task Force where he was focused on ensuring that the future of technology and health is equitably distributed. He is currently at MITRE where he is helping shape participatory methodologies for research and policy development."
       website: https://www.linkedin.com/in/yahya-shaikh-45646752/
 
 
@@ -276,7 +277,7 @@ participants:
     - name: Susana Quiros
       image: /assets/images/Susana_Quiros.jpg
       bio: "Susana Quiros, has a PhD in Sociology and Demography from Penn State University. An Assistant Teaching Professor at the University of Missouri in the Department of Public Health, she investigates how legal status influences immigrant health, and how anti-immigrant policies may have multigenerational effects."
-      website: www.linkedin.com/in/susanaquiros
+      website: https://www.linkedin.com/in/susanaquiros
 
     - name: Rafaela Araujo Rodrigues
       image: /assets/images/Rafaela_Araujo_Rodrigues.jpg
