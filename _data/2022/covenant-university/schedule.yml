@@ -172,7 +172,11 @@ This panel will discuss key challenges in the collection of precise data as well
   events:
     - name: "**09:00-09:15** Housekeeping and Announcements."
     - name: "**09:15-12:00** Group Exercises"
-    - name: "**12:00-14:00** Tutorial: Becoming a package developer: An Introduction"
+    - name: "**12:00-14:00** Becoming a package developer: An Introduction
+    <br/> 
+    <br/> 
+    R packages are an ideal way to package and distribute R code and data for re-use by others. In this session, with a live demo, we shall demystify the creation of an R package using automated tools like usethis. We will also uncover why to create a package (or not), how to improve your R package and your package development skills. The session will also highlight how to solve the challenges you will encounter in developing an R package. Lastly, we will discuss how to find your happy place in the world of R package development – as a devoted maintainer of one package or a valued contributor to dozens of packages."
+    
     - name: "**14:00-15:00** Lunch"
     - name: "**15:00-18:00** Invited Talk"
     - name: "**18:00-** Dinner"
