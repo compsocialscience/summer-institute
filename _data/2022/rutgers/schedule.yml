@@ -53,9 +53,13 @@
     - name: "2:30 - 3:30 Digital Experiments"
     - name: "3:30 - 4:30 Group Exercise, Session III"
  
-- date: June 25-26, 2022
+- date: June 25, 2022
   events:
     - name: "No meetings. Enjoy New Brunswick."
+
+- date: June 26, 2022
+  events:
+    - name: "No meetings. Enjoy New Brunswick." 
  
 - date: June 27, 2022
   name: Group Formation
