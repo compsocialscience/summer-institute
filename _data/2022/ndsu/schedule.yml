@@ -19,7 +19,7 @@
   name: Collecting Digital Trace Data
   events:
   - name: "9:30 - 10:00 Logistics"
-  - name: "10:00 - 11:30 Learning section"
+  - name: "10:00 - 11:30 Tutorial on web scraping"
   - name: "11:30 - noon Research speed-dating"
   - name: "noon - 13:30 Lunch time" 
   - name: "13:30 - 16:00 Small group activity"
@@ -30,7 +30,7 @@
   events:
   - name: "9:30 - 10:00 Logistics"
   - name: "10:00 - 11:00 Talk by Kaiping Chen (UW Madison)"
-  - name: "11:00 - 12:30 Learning section"
+  - name: "11:00 - 12:30 Tutorial on NLP and sentiment analysis"
   - name: "12:30 - 13:30 Lunch time"
   - name: "13:30 - 16:00 Small group activity"
   - name: "16:00 - 17:00 Participant research talks"
@@ -39,7 +39,7 @@
   name: Network Analysis   
   events:
   - name: "9:30 - 10:00 Logistics"
-  - name: "10:00 - noon Learning section"
+  - name: "10:00 - noon Tutorial on network analysis"
   - name: "noon - 13:30 Lunch time & speakers Dan Pemstein & Dane Mataic (NDSU) " 
   - name: "13:30 - 16:00 Small group activity"
   - name: "16:00 - 17:00 Participant research talks"
@@ -48,7 +48,7 @@
   name: Data Visualization 
   events:
   - name: "9:30 - 10:00 Logistics"
-  - name: "10:00 - 11:30 Learning section"
+  - name: "10:00 - 11:30 Tutorial on data visualization"
   - name: "11:30 - noon Group formation"
   - name: "noon - 13:30 Lunch time" 
   - name: "13:30 - 16:00 Small group activity"
@@ -68,7 +68,7 @@
   name: Supervised Machine Learning I & HPC Computing
   events:
   - name: "9:30 - 10:00 Logistics"
-  - name: "10:00 - 11:30 Learning section"
+  - name: "10:00 - 11:30 Learning session"
   - name: "11:30 - noon Group check-ins"
   - name: "noon - 13:30 Lunch time & talk by Tian Yang (Chinese U of Hong Kong)" 
   - name: "13:30 - 16:00 Group work time"
@@ -77,7 +77,7 @@
   name: Supervised Machine Learning II 
   events:
   - name: "9:30 - 10:00 Logistics"
-  - name: "10:00 - 11:30 Learning section"
+  - name: "10:00 - 11:30 Learning session"
   - name: "11:30 - noon Group check-ins"
   - name: "noon - 13:30 Lunch time & talk by S. Scott Graham (UT Austin)" 
   - name: "13:30 - 16:00 Group work time"
@@ -86,7 +86,7 @@
   name: Unsupervised Machine Learning
   events:
   - name: "9:30 - 10:00 Logistics"
-  - name: "10:00 - 11:30 Learning section"
+  - name: "10:00 - 11:30 Tutorial on cluster analysis & topic modeling"
   - name: "11:30 - noon Group check-ins"
   - name: "noon - 13:30 Lunch time & talk by Saif Shahin (Tilburg U)" 
   - name: "13:30 - 16:00 Group work time"
