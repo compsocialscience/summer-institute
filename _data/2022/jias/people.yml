@@ -3,7 +3,7 @@ organisers:
   people:
     - name: malebo sephodi
       image: /assets/images/jias_malebo.jpg
-      bio: "malebo sephodi (she/they) is a South African Feminist writer and scholar. She is a doctoral
+      bio: "malebo sephodi (she/they) is a South African Feminist writer and interdisciplinary scholar. She is a doctoral
       candidate in the Information Systems Department at the University of Cape Town. She is interested in the
       intersections of society and digital technology."
 
@@ -39,16 +39,9 @@ speakers:
 
     - name: Rumman Chowdhury
       image: /assets/images/jias_rumman.jpeg
-      bio: "Dr Sibongiseni Thotsejane is a founding member of multi-award-winning FlavaLite
-      Innovations. She completed her PhD in Information Systems at the University of Cape Town
-      (UCT) on the topic of “Web Analytics strategy: a model for adopting and implementing
-      advanced Web Analytics” in conjunction with Ryerson University, Toronto, Canada. She has
-      more than 21 years of experience in ICT of which more than 16 years have been in ICT
-      Management, System Development, Innovation and Analysis in large organisations and in
-      start-up companies. She was a Commissioner in the South African Presidential Commission on
-      the Fourth Industrial Revolution (Industry 4.0 / 4IR). She is a frequent keynote speaker
-      nationally and internationally in leaders’ conferences on big data analytics, cybersecurity
-      and other fourth industrial revolution (4IR) related themes."
+      bio: "Dr Rumman Chowdhury is the director of <a
+      href='https://blog.twitter.com/en_us/topics/company/2021/introducing-responsible-machine-learning-initiative'>Twitter's
+      ML Ethics, Transparency and Accountability (META) team</a>. Dr Chowdhury is a pioneer in the field of applied algorithmic ethics, creating cutting-edge socio-technical solutions for ethical, explainable and transparent AI. At Twitter, she leads a team of applied researchers and engineers to identify and mitigate algorithmic harms on the platform. Previously, she was CEO and founder of Parity, an enterprise algorithmic audit platform company. She formerly served as Global Lead for Responsible AI at Accenture Applied Intelligence. In her work as Accenture’s Responsible AI lead, she led the design of the Fairness Tool, a  first-in-industry algorithmic tool to identify and mitigate bias in AI systems."
       website: http://www.rummanchowdhury.com/
 
     - name: Bhaso Ndzendze
@@ -103,6 +96,18 @@ and beyond, as well as a sustainable future on Earth."
       image: /assets/images/jias_AdrianaMarais.jpg
       website: https://www.adrianamarais.org/about/
 
+    - name: Tapiwa Chagonda
+      image: /assets/images/jias_TapiwaChagonda.jpg
+      bio: "Tapiwa Chagonda completed his doctoral studies in 2011 which were focusing on the
+      survival strategies of workers in Harare, Zimbabwe during the 2000s – Zimbabwe’s turbulent
+      decade of hyperinflation and political crisis. In January 2013, Prof Chagonda was appointed
+      a senior lecturer in the Department of Sociology at the University of Johannesburg. In 2017,
+      he was promoted to Associate Professor. He is the Head of the Centre for Data Ethics (CDE)
+      under the Institute of Intelligent Systems (IIS) at the University of Johannesburg and is
+      also the Vice-Chair of UJ’s Senate Research Ethics Committee. Prof Tapiwa Chagonda is a
+      passionate teacher and in 2020, he was awarded the Faculty of Humanities Innovation in
+      Teaching Award."
+
 participants: 
   title: Participants
   people:
@@ -121,10 +126,20 @@ participants:
       image: /assets/images/1nt1NmMhJAZaOWqcUdvOy0T4fPsFPJd16.jpeg
       website: https://twitter.com/SNkoala
 
+    - name: Aubrey Mpungose
+      website: https://twitter.com/AubreyMabona
+      image: /assets/images/1XkDpQHCjutVQ9ge2qKUYyx22rKmBqcLV.jpeg
+      bio: "Aubrey Mpungose is a PhD student at the University of KwaZulu Natal. He is interested      in social/political theory, political participation, neighbourhood contexts and      behaviour/outcomes, and the broader field of political economy. "
+    
     - name: Phelokazi Mkungeka
       bio: "Phelokazi Mkungeka is a second year Master of Social Science with specialisation in     Sociology student at the University of the Free State. I work at Interdisciplinary Centre for     Digital Future at UFS we work in collaboration with the National Department of Health to     provide weekly updates of COVID-19. We are part of the social listening teams that deal with     COVID-19 to provide weekly updates."
       image: /assets/images/1NtEAi_ajZBvcrslEG6oHf-Se7taEmeFl.jpeg
 
+    - name: Samson Olaoluwa Faboye
+      bio: "Samson Faboye is pursing a PhD in Urban and Regional Planning at the University of      Johannesburg. His research investigates and portends the future relevance of traditional      governance systems within the context of South African Urbanity. "
+      image: /assets/images/1Lp1ZoJFDF6L1vMusSTB5EVK7yjNPoVIC.jpeg
+      website: https://twitter.com/Zamzung
+    
     - name: Zintathu Mazamane 
       bio: "Zintathu Mazamane is a managing director and development Specialist at Nzeru      Development Solutions - a consulting firm that provides advisory services related to      business and project development. She is also a candidate for a master of urban studies in      urban management at Witwatersrand University. Her interests lie in promoting inclusive      growth and equality by addressing structural biases embed in institutions and processes."
       image: /assets/images/jias_ZintathuMazamane.jpg
@@ -139,6 +154,18 @@ participants:
       image: /assets/images/1FTvx7D6_xG44jOpwhR6b2Il3Z1vllNSW.jpeg
       website: https://scholar.google.com/citations?hl=en&user=fGtN_AMAAAAJ
 
+    - name: LOIC ELNATHAN TIOKOU FANGANG  
+      bio: "Elnathan Tiokou is a Junior researcher who holds an MSc degree in Data Science from
+      AFRICAN INSTITUTE FOR MATHEMATICAL SCIENCES (AIMS-CAMEROON). He is interested in the
+      application of Data Science to improve social goods. Aside from Mathematical Sciences, he
+      inspires people with his tales, experiences, and accomplishments on a daily basis (<a
+      href='https://www.linkedin.com/in/elnathan-tiokou/'>LinkedIn</a>
+      and <a href='https://youtube.com/c/ElnathanTiokouFr'>YouTube</a>). He considers himself an experimenter and is open to options both within and outside of his
+field of studies, such as scholarships, internships, mentorships, and a variety of other
+opportunities." 
+      image: /assets/images/1GDbrqd68GbHbp7J8zOJpie2J9BShSfBI.jpeg
+      website: https://www.linkedin.com/in/elnathan-tiokou/ 
+    
     - name: Angela Chukunzira 
       image: /assets/images/1WIFU9u0FPG0f76z08QP0MwkctM9_-DBy.jpeg
       bio: "Angela is affiliated to the Centre for Social Change at the University of
@@ -148,31 +175,6 @@ participants:
       bio: "I am a qualified professional with more than 10 years of experience in the private      sector namely; Construction, Financial Services (Banking and Insurance), Logistics and      heading up a Non-Profit Organization. Through my directorships I have gained a lot of      knowledge in the petroleum industry around legislative and governance in enabling a      successful investment vehicle benefiting the broader historically disadvantaged African      communities. My interests include computational science and healthcare with a focus on      marginalized communities. "
       image: /assets/images/jias_khosi.jpg
 
-    - name: Sandra Okonofua
-      image: /assets/images/18mFVGnAml9K9AV2Ge0cJxwnLdlXjHKH5.jpeg
-      website: https://twitter.com/sandraokonofua
-      bio: "Sandra Okonofua is a doctoral student in Sociology at Yale University. She is      interested in interrogating patterns of educational inequality using critical computational      social science and qualitative methods to better understand the challenges Black (African &      African-African American) girls face in obtaining STEM credentials and embarking on STEM      careers. Before Yale, Sandra was a licensed school counselor and teacher. She is a graduate      of Dartmouth College, the University of Pennsylvania and Harvard University. "
-
-    - name: Olaide Olawumi Ojoniyi 
-      bio: "Olaide Ojoniyi is a doctoral student at the Statistics and Population studies      department, University of the Western Cape, Cape Town. She is also a Statistical Coach with      the Division for Postgraduate Studies at the university. Her current research is on      adolescents' and young women's sexual and reproductive health. "
-      image: /assets/images/18E42NkSWW6Bni0bk7MGGib-vlWCeCVjp.jpeg
-      website: https://twitter.com/horllardanie
-
-    - name: Aubrey Mpungose
-      website: https://twitter.com/AubreyMabona
-      image: /assets/images/1XkDpQHCjutVQ9ge2qKUYyx22rKmBqcLV.jpeg
-      bio: "Aubrey Mpungose is a PhD student at the University of KwaZulu Natal. He is interested      in social/political theory, political participation, neighbourhood contexts and      behaviour/outcomes, and the broader field of political economy. "
-
-    - name: Samson Olaoluwa Faboye
-      bio: "Samson Faboye is pursing a PhD in Urban and Regional Planning at the University of      Johannesburg. His research investigates and portends the future relevance of traditional      governance systems within the context of South African Urbanity. "
-      image: /assets/images/1Lp1ZoJFDF6L1vMusSTB5EVK7yjNPoVIC.jpeg
-      website: https://twitter.com/Zamzung
-
-    - name: LOIC ELNATHAN TIOKOU FANGANG  
-      bio: "Elnathan Tiokou is a current MSc degree student from the African Institute for      Mathematical Science (AIMS-CAMEROON), a member of KmerAI and a big enthusiast of Machine      Learning combine with Business. His research interest is currently Federated Learning(FL).      He is studying the Adversarial robustness in Federated Learning frameworks and provides some      recommendations to improve FL systems. He is open to any opportunities related to Machine      Learning or Business. "
-      image: /assets/images/1GDbrqd68GbHbp7J8zOJpie2J9BShSfBI.jpeg
-      website: https://www.linkedin.com/in/elnathan-tiokou/
-
     - name: Stuart Scott Morrison 
       bio: "Stuart Morrison is an MA E-Science candidate at the University of Witwatersrand. He      has a background in International Relations, Political Science and Development Studies, with      a research interest in African conflict and governance. In his spare time Stuart works for      Africa Matters Initiative which is a youth-led African NGO."
       image: /assets/images/1KQUk2EqEk4aqdzVacPbif9TxES6yYGb5.jpeg
@@ -181,6 +183,16 @@ participants:
       bio: "Lesedi is a presently a Researcher at JET Education Service. He holds a Master’s in      Public Policy, Monitoring and Evaluation; Postgraduate Diploma in Labour Law from the      University of Johannesburg (UJ). He is also a Doctorate candidate at the University of      Johannesburg. His main research areas are Evaluations of Educational/Learnership Programmes,      Policy Impact Assessment Studies; Socio-Economic Research and Surveys; Programme Monitoring      and Evaluations (M&E), Feasibility Studies. He has authored, and co-authored a few number of      publications, including academic journals, and conference papers and has presented at many      conferences. "
       image: /assets/images/1hit909BJIER7S23Aa71dXIDvbUPA7Dos.jpeg
       website: https://www.linkedin.com/in/lesedisenamelematlala/
+
+    - name: Sandra Okonofua
+      image: /assets/images/18mFVGnAml9K9AV2Ge0cJxwnLdlXjHKH5.jpeg
+      website: https://twitter.com/sandraokonofua
+      bio: "Sandra Okonofua is a doctoral student in Sociology at Yale University. She is interested in interrogating patterns of educational inequality using critical computational social science and qualitative methods to better understand the challenges Black (African & African-American) girls face in obtaining STEM credentials and embarking on STEM      careers. Before Yale, Sandra was a licensed school counselor and teacher. She is a graduate      of Dartmouth College, the University of Pennsylvania and Harvard University. "
+
+    - name: Olaide Olawumi Ojoniyi 
+      bio: "Olaide Ojoniyi is a doctoral student at the Statistics and Population studies      department, University of the Western Cape, Cape Town. She is also a Statistical Coach with      the Division for Postgraduate Studies at the university. Her current research is on      adolescents' and young women's sexual and reproductive health. "
+      image: /assets/images/18E42NkSWW6Bni0bk7MGGib-vlWCeCVjp.jpeg
+      website: https://twitter.com/horllardanie
 
     - name: Thabang Richard Motswaledi
       bio: "Thabang Richard Motswaledi is an emerging scholar at the North West University.      Recently graduated at the North West University his junior degree (Bachelor of social      sciences Hon in political studies) and currently pursuing a MA degree in political studies      in the school of governance at the North West University Vaal campus. He is actively      involved in academia with specific attention given to both political science and African      philosophy related research. "

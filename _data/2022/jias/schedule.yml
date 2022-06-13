@@ -2,22 +2,26 @@
   events:
     - name: 10:00 - 11:00 [An Introduction to Computational Social Science"](https://youtu.be/zGG9wPl1C5E)
     - name: 11:00 - 12:00 [Why SICSS](https://youtu.be/K6HzpZMcaQw)
+    - name: "12:00 - 13:00 SICSS at Age 5: An Interview with Co-Founders Chris Bail and Matt
+      Salganik for SICSS-Howard/Mathematica 2021 [(video) (courtesy of
+      SICSS-Howard/Mathematica)](https://youtu.be/PGhI39loSYg)"
+     
     - name: 13:00 - 14:00 Introduction and logistics
     - name: 14:00 - 15:00 Group Discussion
     - name: 15:00 - 15:15 Assigning to groups
-    - name: 15:15 - 16:00 Discussion on the prescribed book (in groups)
-    - name: 16:00 - 16:30 Debrief and Reflections
+    - name: 15:15 - 15:30 Debrief and Reflections
 
 - date: Tuesday, June 21 2022
   events:
-    - name: "09:45 Check-in"
     - name: "10:00 - 12:00 Speaker 1: [Bhaso Ndzendze](https://bhasondzendze.co.za/) (University of Johannesburg)"
-    - name: "11:00 - 13:00 Break or catch up on R resources"
-    - name: "13:00 - 15:00 Group meetings: work on book report"
+    - name: "12:00 - 13:00 Break or catch up on R resources"
+    - name: "13:00 - 15:00 Group meetings: work on book report (optional)"
     - name: "16:00 - 17:00 Speaker 2: Geci Karuri-Sebina (Wits University)"
 
 - date: Wednesday, June 22 2022
   events:
+    - name: "10:00 - 11:00 Digital Innovations and amplifying underrepresented voices in civic
+      tech [(video) (courtesy of CTIN and ICSCentre)](https://youtu.be/3d8AoGHEwws)"
     - name: "15:00 - 16:00 Speaker 1: [Sabelo Mhlambi](https://sabelo.mhlambi.com/about/) (Berkman-Klein Center for Internet and
       Society)"
     - name: "16:00 - 17:00 Speaker 2: [Chenai Chair](https://www.chenai.africa)  (Moz://a Foundation)"
@@ -25,53 +29,105 @@
 - date: Thursday, June 23 2022
   events:
     - name: "14:00 - 15:00 Speaker 1: [Adriana Marais](https://www.adrianamarais.org/about/) (Proudly Human)"
-    - name: "15:00 - 16:00 Group meetings"
+    - name: "15:00 - 16:00 Group meetings (optional)"
     - name: "16:00 - 17:00 Speaker 2: Tendani Chimboza (University of Cape Town)"
 
 - date: Friday, June 24 2022
   events:
-    - name: "13:00 - 15:00 Group meetings: finalise book report"
+    - name: "13:00 - 15:00 Group meetings: finalise book report (optional)"
     - name: 15:00 - 16:00 Break or catch up on R resources
     - name: "16:00 - 17:00 Speaker: Lindiwe Matlali (teengeeks)"
 
 - date: Saturday - Sunday
   events:
     - name: Day off
-    - name: "submit group book report"
+    - name: "**submit group book report (optional)**"
 
 - date: Monday, June 27 2022
   name: Introduction and Ethics
   events:
-    - name: Watch [Day 1 Video](https://sicss.io/curriculum)
+    - name: Watch [Day 1 Video](https://sicss.io/curriculum) in your own time
     - name: 13:00 - 13:15 Introduction to the group exercise lesson plan (participants)
     - name: 13:15 - 14:15 Small group discussion on case study
-    - name: 14:15 - 15:15 Whole group debrief about the case study
-    - name: 15:15 - 15:45 Debrief and logistics
-    - name: 15:45 - 16:00 Break
-    - name: 16:00 - 17:00 **tba** 
+    - name: 14:15 - 14:30 Debrief and logistics
+    - name: 14:30 - 16:00 Break
+    - name: "16:00 - 17:00 SICSS-Africa + African Descendents Inaugural Joint Panel: Interrogating
+      Data Collection Methods Focused on African and African Descendents Around the World:
+      Problems, Realities and Future Opportunities"
 
 - date: Tuesday, June 28 2022
   name: Collecting Digital Trace Data
   events:
-    - name: Watch [Day 2 Video](https://sicss.io/curriculum)
+    - name: Watch [Day 2 Video](https://sicss.io/curriculum) in your own time
+    - name: 13:00 - 14:00 Discussion with Zimasa
+    - name: "14:00 - 16:00 Lecture: Timothy Khan Aikins (University of Cape Town)"
 
 - date: Wednesday, June 29 2022
   name: Automated Text Analysis
   events:
-    - name: Watch [Day 3 Video](https://sicss.io/curriculum)
+    - name: Watch [Day 3 Video](https://sicss.io/curriculum) in your own time
+    - name: "13:00 - 14:30 Lecture: Franklin Tchakounté (University of Ngaoundere)"
+    - name: 15:00 - 16:00 Discussion with Zimasa
 
 - date: Thursday, June 30 2022
   name: Surveys in the Digital Age
   events: 
-    - name: Watch [Day 4 Video](https://sicss.io/curriculum)
+    - name: Watch [Day 4 Video](https://sicss.io/curriculum) in your own time
+    - name: 13:00 - 14:00 Discussion with Zimasa
+    - name: "15:00 - 16:00 Lecture: Xolani Makhubele"
 
 - date: Friday, July 1 2022
   name: Mass collaboration and machine learning
   events:
-    - name: Watch [Day 5 Video](https://sicss.io/curriculum)
+    - name: Watch [Day 5 Video](https://sicss.io/curriculum) in your own time
+    - name: 13:00 - 14:00 Discussion with Zimasa
+    - name: "15:00 - 16:00 Lecture: Sven Lampe (Oldenburg University)"
 
 - date: Saturday - Sunday
   name: Break
 
-- date: Monday, July 4 - Friday, July 8 2022
+- date: Monday, July 4 2022 
   name: In-person group projects
+  events:
+    - name: Paticipants arrive at accomodation
+    - name: 13:00 - 14:00 Lunch
+    - name: 15:00 - 17:00 Welcome, Logistics and Group allocations
+    - name: 18:00 - 19:00 Dinner
+
+- date: Tuesday, July 5 2022
+  events:
+    - name: 09:00 - 12:30 Group Project Discussion
+    - name: 13:00 - 13:30 Lunch
+    - name: "14:00 - 15:00 Lecture: [Vukosi Marivate](https://dsfsi.github.io/) (University of Pretoria)"
+    - name: 15:00 - 16:00 Lightning Talks
+    - name: 16:00 - 17:30 Group Projects
+    - name: 18:00 - 19:00 Dinner
+
+- date: Wednesday, July 6 2022
+  events:
+    - name: 09:00 - 10:00 Group Project
+    - name: "10:00 - 12:00 Lecture: [Tapiwa
+      Chagonda](https://www.uj.ac.za/members/tapiwa-chagonda/) (University of Johannesburg)"
+    - name: 13:00 - 14:00 Lunch
+    - name: 14:00 - 17:30 Group Project
+    - name: 18:00 - 19:00 Dinner
+
+- date: Thursday, July 7 2022
+  events:
+    - name: 09:00 - 10:00 Group Project
+    - name: "10:00 - 12:00 Lecture: Odilile Ayodele (University of Johannesburg)"
+    - name: 13:00 - 14:00 Lunch
+    - name: 14:00 - 17:30 Group Project
+    - name: 18:00 - 19:00 Dinner
+
+- date: Friday, July 8 2022
+  events:
+    - name: "09:00 - 10:00 Lecture: Courtesy of Howard/Mathematica"
+    - name: 11:00 - 12:00 Discussion Session
+    - name: 13:00 - 14:00 Lunch
+    - name: 14:00 - 17:30 Final Presentations
+    - name: 18:00 - 19:00 Dinner
+
+- date: Saturday, July 9 2022
+  events:
+    - name: Participants check out
