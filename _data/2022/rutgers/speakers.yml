@@ -1,3 +1,8 @@
+- name: P.M. Aronow
+  bio: "Associate Professor of Political Science, Statistics and Data Science, and Biostatistics at Yale University."
+  website: https://pmaronow.github.io/ 
+  
+
 - name: Melissa Dreier
   image: /assets/images/MelissaDreier.png
   bio: "Clinical Psychology PhD student at Rutgers University."
@@ -6,6 +11,11 @@
   image: /assets/images/JessicaHamilton.JPG
   bio: "Assistant Professor of Psychology at Rutgers University."
   website: https://www.thehamiltonlab.org/lab-director
+
+- name: Robert Kubinec
+  image: /assets/images/kubinecRobert.jpeg
+  bio: "Assistant Professor of Political Science at New York University Abu Dhabi"
+  website: https://www.robertkubinec.com/
 
 - name: Tamar Mitts
   image: /assets/images/TamarMitts.png

@@ -1,3 +1,100 @@
-- date: June 20, 2022
+- date: All times are in Eastern Daylight Time. 
+  name: The schedule will run between approximately 9:00AM-5:00PM.
   events:
-    - name: "Schedule coming soon. The institute will run on weekdays only."
+    - name: Specific schedule details subject to change.
+
+- date: June 20, 2022
+  name: Introduction and Ethics 
+  events:
+    - name: "9:30 - 10:30 Introduction and logistics"
+    - name: "10:30 - 11:30 Talk by SICSS Alums"
+    - name: "11:30 - 12:30 Small group discussions"
+    - name: "12:30 - 1:30 Lunch"
+    - name: "1:30 - 4:00 Small Group Exercise on Ethics."
+ 
+- date: June 21, 2022
+  name: Digital Trace Data
+  events:
+    - name: "9:00 - 9:30 Logistics" 
+    - name: "9:30 - 12:00 Tutorials on Screen Scraping and APIs" 
+    - name: "12:00 - 1:30 Lunch"
+    - name: "1:30 - 2:30 Small Group Exercise: Design Research Question"
+    - name: "2:30 - 4:00 Small Group Exercise: Collect and Describe Digital Trace Data"
+    - name: "4:00- Community Building Activity"
+
+- date: June 22, 2022
+  name: Text as Data 
+  events:
+    - name: "9:00 - 9:30 Logistics"
+    - name: "9:30 - 10:30 Highlights of Text as Data"
+    - name: "10:30-11:30 Group Exercise, Session I"
+    - name: "11:30 - 12:30 Lunch"
+    - name: "12:30 - 2:00 Talk by P.M. Aronow"
+    - name: "2:30 - 4:00 Group Exercise, Session II"
+    - name: "4:00 - 4:30 Group Presentations" 
+
+- date: June 23, 2022
+  name: Machine Learning for Prediction and Classification
+  events:
+    - name: "9:30 - 10:00 Logistics"
+    - name: "10:00 - 11:30 Live Tutorials on Machine Learning"
+    - name: "12:00 - 1:30 Talk by Sarah Shugars"
+    - name: "1:30 - 2:45 Lunch"
+    - name: "2:45 - 5:00 Afternoon Group Exercise"
+
+- date: June 24, 2022
+  name: Surveys and Experiments
+  events: 
+    - name: "9:00 - 9:30 Logistics"
+    - name: "9:30 - 10:15 Online Surveys"
+    - name: "10:15 - 12:00 Group Exercise, Session I"
+    - name: "12:00 - 1:30 Lunch"
+    - name: "1:30 - 2:30 Group Exercise, Session II"
+    - name: "2:30 - 3:30 Digital Experiments"
+    - name: "3:30 - 4:30 Group Exercise, Session III"
+ 
+- date: June 25, 2022
+  events:
+    - name: "No meetings. Enjoy New Brunswick."
+
+- date: June 26, 2022
+  events:
+    - name: "No meetings. Enjoy New Brunswick." 
+ 
+- date: June 27, 2022
+  name: Group Formation
+  events: 
+    - name: "9:30 - 10:00 Logistics."
+    - name: "10:00 - 12:00 Group Formation."
+    - name: "12:00 - 1:30 Talk by Jessica Hamilton and Melissa Dreier."
+    - name: "1:30 - 2:30 Lunch"
+    - name: "2:30 - 5:00 Work with small groups"
+
+- date: June 28, 2022
+  name: Group work day
+  events:
+    - name: "9:00 - 12:00 Group work time"
+    - name: "12:00 - 1:30 Lunch"
+    - name: "1:30 - 3:00 Group work time"
+    - name: "3:00 - 4:30 Talk by Tamar Mitts"
+
+- date: June 29, 2022
+  name: Group work day
+  events: 
+    - name: "9:00 - 12:00 Group work time"
+    - name: "12:00 - 1:30 Talk by Gonzalo Rivero"
+    - name: "1:30 - 2:30 Lunch"
+    - name: "2:30 - 5:00 Group work time"
+    
+- date: June 30, 2022
+  name: Group work day
+  events: 
+    - name: "9:00 - 10:00 Group work time"
+    - name: "10:00 - 11:30 Talk by Robert Kubinec"
+    - name: "12:00 - 1:00 Lunch"
+    - name: "1:00 - 5:00 Group work time"
+    
+- date: July 1, 2022
+  name: Group Presentations
+  events: 
+    - name: "Schedule to be posted."
