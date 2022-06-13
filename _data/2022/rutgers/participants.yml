@@ -21,19 +21,14 @@
   bio: "Melissa is a PhD student in the Hamilton Lab at Rutgers University. She studies how adolescent development intersects with a rise in mental health concerns, including suicide and other self-destructive behaviors. Before Rutgers, Melissa got her BA at Harvard University and completed a post-baccalaureate research coordinator position at Massachusetts General Hospital."
   website: https://twitter.com/DreierMelissa
 
-- name: Conor Gaughan 
-  image: /assets/images/sicss22_gaughan_conor.jpg
-  bio: "I am a 1st year PhD student in Politics at the University of Southampton. I specialise in the use of data science and computational techniques to map the social media networks of political elites in the U.K."
-  website: https://twitter.com/ConorGaughan2
-
 - name: Dhia Hammami
   image: 
   bio: 
   website: 
   
 - name: Mona Kleinberg
-  image: 
-  bio: 
+  image: /assets/images/MonaKleinberg.jpeg
+  bio: Mona is currently an Assistant Professor at the University of Massachusetts, Lowell and will take up a new faculty position at Queens College, CUNY in the Fall of 2022. Mona is keenly interested in the political effects of the incorporation of technology into routine cognitive functions. Her research addresses whether citizens can google their way through politics and examines what civic competence looks like when people use the internet as an extension of their mind. She is also interested in the intersection of race and new technology (e.g. the effect of internet use by marginalized groups on representation, and the connection between Facebook and ethnic conflict). 
   website:   
   
 - name: Samantha Koprowski
