@@ -18,10 +18,20 @@
   bio: "<p align='justify'>Stéphane Helleringer is a demographer with interests in a) the development of new methods to measure demographic trends in countries with limited data, and b) measuring the impact of epidemics on population health and mortality. He has conducted several trials of innovative approaches to collecting demographic data (e.g., computer vision). He has also worked extensively on the impact of HIV/AIDS, Polio, and Ebola in several African countries. Helleringer is currently the principal investigator of a multi-country study on adolescent and adult mortality in Malawi, Uganda, Guinea-Bissau, and Bangladesh. He recently initiated a panel study of behavioral change during the COVID-19 pandemic in Malawi. He is a member of the expert group advising the World Health Organization (WHO) on COVID-19 mortality assessment.</p>"
   website: https://nyuad.nyu.edu/en/academics/divisions/social-science/faculty/stephane-helleringer.html
 
+- name: Biandri Joubert
+  image: /assets/images/BJoubert.png
+  bio: "<p align='justify'>Biandri is a researcher in the field of international trade law and has recently submitted her PhD thesis for marking. She will defend her thesis later in the year. She started her research with a purely legal (doctrinal) research background before transitioning to a mixed methodology PhD research project which included a content analysis using R programming. The difficulty in finding resources that were relatable to a legal academic background prompted the design of her Open Life Sciences (OLS) project. She is currently based in Johannesburg where she conducts both academic research and research/consulting in the private sector. When not writing/researching, she is most likely fly fishing or talking about fly fishing.</p>"
+  website: https://twitter.com/biandri
+  
 - name: Sena Okuboyejo
   image: /assets/images/SOkuboyejo.jpeg
   bio: "<p align='justify'>Sena Okuboyejo holds a PhD in Management Information System; and is currently with the Nova Scotia Health Authority, Canada,  on the One Person One Record (OPOR) project. Her research interest lies in the intersection of technology, population health, and health behaviour modification.   She works with textual and unstructured data to understand perceptions and attitudes towards health issues.</p>"
   website: 
+
+- name: Olufunke Oladipupo
+  image: /assets/images/OOladipupo.PNG
+  bio: "<p align='justify'>Olufunke Oyejoke Oladipupo is a professor of Computer Science (Artificial intelligence and Data Management), Covenant University, Ota, Ogun State with reputable high-impact publications and 18 years university teaching experience. She holds B.Sc in Computer Science from the University of Ilorin, Kwara State,  M.Sc Computer Science from Obafemi Awolowo University, Ile-Ife and Ph.D. in Computer Science from Covenant University, Ota, Nigeria. Her research interests include Data mining, Machine Learning, Multi-Criteria Decision Making (MCDM), intelligent systems and Perceptual Computing in Education and Medical domains. She is professionally certified in IBM Predictive Analytic Modelling.  She is a member of the Computer Professional Registration Council of Nigeria. She is also a member of research bodies such as Multi-Criteria Decision Making (MCDM), and SMCS TC on Soft Computing.  She is a member of the Editorial Board of a number of local and international journals. She is happily married with Children.</p>"
+  website: https://scholar.google.com/citations?user=H8qpdfoAAAAJ&hl=en
   
 - name: Tim Riffe
   image: /assets/images/tim_riffe.jpg
@@ -42,3 +52,8 @@
   image: /assets/images/Yudhvir.png
   bio: "<p align='justify'>Yudhvir Seetharam is currently an Associate Professor in the School of Economics and Finance; and the Head of Analytics, Insights and Research for FNB Business. He holds a Ph.D from the University of the Witwatersrand in the field of behavioural finance and is extensively involved in both academia and practice, as evidenced by regular media engagements, memberships in societies and awards. <br/><br/> Yudhvir's area of focus is on the application of empirical (analytical) techniques to finance (broadly defined as both investments and corporate finance), with an emphasis on incorporating investor psychology/biases into these techniques. Interest in this field is relatively scarce in South Africa, but there has been growth over the past decade. While this area may seem broad, the underlying theme is on applying inter-disciplinary approaches in solving traditional problems in the financial field. As such, there are neighbouring applications in the field of Financial Technology (such as “big data” and “data science”) and in risk management. <br/><br/> He has published extensively in local and international journals, such as the Investment Analysts Journal, International Journal of Emerging Markets, Eurasian Business Review, inter alia. Yudhvir is an Editorial Board member of the Journal of Business Analytics; an Editor for Cogent Economics and Finance and Springer Nature: Business and Economics. He is also the Managing Editor for the South African Journal of Economic and Management Sciences.</p>"
   website: https://orcid.org/0000-0003-4409-1015
+  
+- name: Anelda van der Walt
+  image: /assets/images/AWalt.png
+  bio: "<p align='justify'>Anelda has a background in Bioinformatics but transitioned into transdisciplinary work over the last few years. In 2015 she founded a South African-based consultancy, Talarify, to support digital and computational capacity and community development within research settings in Africa. Her work focuses on open science, open educational resources, reproducible research, and communities of practice.</p>"
+  website: https://twitter.com/aneldavdw?lang=en-GB
