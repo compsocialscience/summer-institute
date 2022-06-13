@@ -3,7 +3,7 @@
   events:
     - name: "09:00 - 11:00 Welcome and introductions"
     - name: "11:00 - 13:00 Intro. data collection and ethics"
-    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 14:00 Lunch Break"
     - name: "14:00 - 16:00 APIs and web scraping"
     - name: "16:00 - 18:00 Research talk: Carolina Scarton"
     - name: "Today's materials [here](https://github.com/cjbarrie/sicss_22)"  
@@ -12,7 +12,7 @@
   name: Computational Social Science and Digital Research Methods
   events:
     - name: "10:00 - 13:00 "
-    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 14:00 Lunch Break"
     - name: "14:00 - 16:00 "       
     - name: "16:00 - 18:00 Research talk: Anita Gohdes"
 
@@ -20,7 +20,7 @@
   name: Networks
   events:
     - name: "10:00 - 13:00 "
-    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 14:00 Lunch Break"
     - name: "14:00 - 16:00 "       
     - name: "16:00 - 18:00 Research talk: Maria Wolters"
 
@@ -29,6 +29,7 @@
   events:
     - name: "10:00 - 12:00 Intro. CTA"
     - name: "12:00 - 13:00 ILCC Poster Session"
+    - name: "13:00 - 14:00 Lunch Break"
     - name: "14:00 - 16:00 NLP"       
     - name: "16:00 - 18:00 Research talk: Clare Llewellyn"
 
@@ -37,6 +38,7 @@
   events:
     - name: "10:00 - 13:00"
     - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 14:00 Lunch Break"
     - name: "14:00 - 16:00"       
     - name: "16:00 - 18:00 Research talk: Benjamin Bach"
     
