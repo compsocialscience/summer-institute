@@ -5,7 +5,7 @@ main: true
 image: /assets/images/helsinki.jpg
 ---
 
-From June 19 to June 29, 2022, Faculty of Social Science will sponsor the Summer Institute in Computational Social Science, to be held at the University of Helsinki. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and early career scholars interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
+From June 20 to July 1, 2022, Faculty of Social Science will sponsor the Summer Institute in Computational Social Science, to be held at the University of Helsinki. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and early career scholars interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
 
 At Helsinki we are especially working on topics such as
  * political communication
