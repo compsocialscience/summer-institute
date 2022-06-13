@@ -30,10 +30,15 @@ speakers:
   title: Teaching and project-tutoring staff
   people:
     - name: Amit Donner
-      bio: "I am currently completing my master’s degree in statistics at Haifa University. I have vast experience as a teaching assistant for a dozen courses in the university’s statistics department. These have varied from courses in probability and statistical theory to machine learning, statistical modeling and programming in Python and R. I also have experience helping social scientists to conceptualize, collect and analyze the statistical data they need for their research."
+      bio: "I am currently completing my master’s degree in statistics at Haifa University. I have vast experience as a teaching assistant for a dozen courses in the university’s statistics department. These have varied from courses in probability and statistical theory to machine learning, statistical modeling and programming in Python and R. I also have experience helping social scientists to conceptualize, collect and analyze the data they need for their research."
       image: /assets/images/Amit_Donner.jpg
       website:
 
+    - name: Eitan Hemed
+      bio: "I am a Senior PhD candidate in experimental Psychology, studying how the human mind evaluates the effect of motor actions on the environment. I will be taking part in the SICSS as a project tutor. I gained my programming experience during my graduate studies, following several years of working with multiple researchers in academia on developing behavioral experiments and pipelines for data processing and analysis. Additionally, I taught Python to graduate students on academic courses and workshops."
+      image: /assets/images/Eitan_Hemed.jpg
+      website: https://twitter.com/EitanHemed
+      
     - name: Igor Kleion
       bio: "Research Areas: Queuing theory, Image processing."
       image: /assets/images/Igor-kleiner.jpg
@@ -51,7 +56,7 @@ Teaching Assistants:
       bio: "Director of the Robotics and Big Data Lab, and Senior Lecturer at the Computer Science Department University of Haifa."
       image: /assets/images/Dan_Feldman.jpg
       website: http://people.csail.mit.edu/dannyf
-
+      
     - name: Michael Friedman
       bio: "I am an assistant professor (lecturer) in political science at the University of Haifa. Previously, I was a postdoctoral fellow at the Hebrew University. I have a PhD in political science, from the Massachusetts Institute of Technology (2019). I study religion and conflict in Israel and the Muslim world. My work combines big data approaches with experiments and in-depth interviews. My research has been published in multiple outlets including the American Sociological Review, Political Behavior, and the Journal of Conflict Resolution."
       image: /assets/images/Michael_Freedman.jpg

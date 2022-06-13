@@ -1,3 +1,9 @@
+- name: Abdullah Almaatouq
+  image: /assets/images/AbdullahAlmaatouq.jpeg
+  bio: "Abdullah Almaatouq is an assistant professor at the MIT Sloan School of Management. He obtained a PhD in Computational Science and Engineering and a dual master’s from MIT. Abdullah’s research lies at the intersection of computer science and human behavior, and focuses on collective intelligence and large-scale experimentation. His current work centers on questions related to whether and, if so, under what conditions groups exhibit superior performance outcomes relative to individuals."
+  website: http://amaatouq.io/
+
+
 - name: Tarani Chandola
   image: /assets/images/taranichandola.jpeg
   bio: "Tarani is a professor of medical sociology and the director of the Methods Hub in the Faculty of the Social Sciences at the University of Hong Kong. He obtained his DPhil in Sociology from Nuffield College, University of Oxford. His research is primarily on the social determinants of health, focusing on health inequalities and psychosocial factors, and the analysis of longitudinal cohort studies."
