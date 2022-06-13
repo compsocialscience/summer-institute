@@ -47,4 +47,4 @@ Many participants at SICSS use GitHub to collaborate. If you do not yet have one
 
 ## Office hours
 
-SICSS-Atlanta will host weekly office hours in the SICSS 2022 Slack starting in mid-April. You can find information about the office hours in the SICSS 2022 Slack channel #pre-office-hours. If you are not able to attend during the regularly scheduled office hours or have any questions about office hours, please contact Olga Churkina at ochurkina1@student.gsu.edu.
+SICSS-Atlanta will host weekly office hours in the SICSS 2022 Slack starting in May. You can find information about the office hours in the SICSS 2022 Slack channel #pre-office-hours. If you are not able to attend during the regularly scheduled office hours or have any questions about office hours, please contact Olga Churkina at <ochurkina1@gsu.edu>.

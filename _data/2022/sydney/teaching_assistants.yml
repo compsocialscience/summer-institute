@@ -1,1 +1,7 @@
-- name:
+- name: Justin Miller
+  image: /assets/images/Justin_Miller.jpg
+  bio: "Justin Miller is a PhD student at the University of Sydney. His area of interest is in natural language programming and its applications to social media. He has a Master of Data Science from Western Sydney University and has worked as a data scientist within the legal industry"
+
+- name: Jen Grinham
+  image: /assets/images/JenGrinham.png
+  bio: "Jen Grinham is a PhD student at the University of Sydney. Her research interests include data privacy, ethics, profiling, algorithmic bias, internet cultures, governance, digital media, and she is currently examining student data privacy risks created by educational technology companies. Jen has experience teaching in Digital Cultures at the University of Sydney, in the NSW Department of Education as an educator, an Instructional Leader for the NSW Australian History Syllabus, conducting professional development on technology, and with NSW Health in digital content."

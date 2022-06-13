@@ -1,13 +1,43 @@
+- name: Vissého Adjiwanou
+  image: /2019/capetown/images/Visseho.jpg
+  bio: "<p align='justify'>Vissého Adjiwanou is a professor of demography and quantitative and computational methods in the Department of Sociology at the Université du Québec à Montréal (UQAM), and adjunct professor at the Department of Demography (Université de Montréal). He directs the lab on quantitative and computational social science, aiming to use computational approaches and methods in population studies in sub-Saharan Africa. His primary research focuses on population issues in sub-Saharan Africa and Canada, including family dynamics, gender inequality and reproductive health, and integration of immigrants from SSA in Canada. His recent research focuses on understanding the African’s government response to Covid-19 in sub-Saharan Africa through the channel of Facebook data. He led the first SICSS in Africa in <a href=https://sicss.io/2018/capetown/ target='_blank'>2018</a> and <a href=https://sicss.io/2019/capetown/ target='_blank'>2019</a>.</p>"
+  website: https://www.mcgill.ca/popcentre/people-0/associate-members-0/visseho-adjiwanou
+
 - name: Diego Alburez-Gutierrez
   image: /assets/images/diego.JPG
   bio: "<p align='justify'>Diego Alburez-Gutierrez (PhD in Demography, London School of Economics 2018) is a Research Scientist at the Max Planck Institute for Demographic Research, where he specialises in inter-generational demography. His work integrates non-traditional data (e.g., from digital or computational sources) with established demographic sources (e.g. censuses and population registers).</p>"
   website: http://alburez.me/
 
+- name: Robert Yao Djogbenou
+  image: 
+  bio: "<p align='justify'>Robert Djogbenou is a PhD candidate in Demography at the Université de Montréal. He has a Post Graduate Program in Artificial Intelligence and Machine Learning at the University of Texas at Austin. His research uses computational approaches to study immigrants’ socio-cultural integration in Canada. His other interests include reproductive health and family dynamics in sub-Saharan Africa. He is affiliated with the Lab on quantitative and computational social science at the Université du Québec à Montréal.</p>"
+  website: 
+
+- name: Stephane Helleringer
+  image: /assets/images/Shelleringer.jpg
+  bio: "<p align='justify'>Stéphane Helleringer is a demographer with interests in a) the development of new methods to measure demographic trends in countries with limited data, and b) measuring the impact of epidemics on population health and mortality. He has conducted several trials of innovative approaches to collecting demographic data (e.g., computer vision). He has also worked extensively on the impact of HIV/AIDS, Polio, and Ebola in several African countries. Helleringer is currently the principal investigator of a multi-country study on adolescent and adult mortality in Malawi, Uganda, Guinea-Bissau, and Bangladesh. He recently initiated a panel study of behavioral change during the COVID-19 pandemic in Malawi. He is a member of the expert group advising the World Health Organization (WHO) on COVID-19 mortality assessment.</p>"
+  website: https://nyuad.nyu.edu/en/academics/divisions/social-science/faculty/stephane-helleringer.html
+
+- name: Sena Okuboyejo
+  image: /assets/images/SOkuboyejo.jpeg
+  bio: "<p align='justify'>Sena Okuboyejo holds a PhD in Management Information System; and is currently with the Nova Scotia Health Authority, Canada,  on the One Person One Record (OPOR) project. Her research interest lies in the intersection of technology, population health, and health behaviour modification.   She works with textual and unstructured data to understand perceptions and attitudes towards health issues.</p>"
+  website: 
+  
 - name: Tim Riffe
   image: /assets/images/tim_riffe.jpg
   bio: "<p align='justify'>Tim Riffe is a demographer, with a research focus in data, formal methods, mortality, population health, data visualization, and open science. He is currently an Ikerbasque Research Fellow and Visiting Professor at the University of the Basque Country. In 2020 he founded the COVerAGE Database, a global demographic database of COVID-19 cases, deaths, tests, and vaccinations, which has underpinned efforts to monitor the pandemic at the WHO, UN-DESA, UNICEF, and in the global health literature. He also serve on the WHO / UN-DESA Technical Advisory Group for COVID-19 Excess Mortality, where his primary contribution aims to characterize age patterns of COVID-19 direct mortality and all-cause excess mortality for 2020, based on combining various global datasets. He regularly teach short workshops on R programming, demography, and data visualization in programs such as BSSD, EDSD, PHDS, and others.</p>"
   website: https://twitter.com/timriffe1/
+  
+- name: Lebogang Ramafoko
+  image: /assets/images/LRamafoko.jpeg
+  bio: "<p align='justify'>Lebogang is currently the Executive Director of Oxfam South Africa. Lebogang is an outspoken feminist thinker and strategist, a sought-after speaker, facilitator, and trainer who is passionate about social justice particularly for young women and girls. Lebogang combines her own life experience as a black woman who grew up in Apartheid South Africa, thrust into activism at an early age and the skills she acquired through her training to speak out against injustice wherever she goes. She is one of the prominent media commentators and advocates on various social issues facing women in South Africa.</p>"
+  website: https://docs.google.com/document/d/1cs3rwShBjHTNd6AN8swy9eRR_fQrS0aA/edit?usp=sharing&ouid=112934598660812456864&rtpof=true&sd=true
 
+- name: Maëlle Salmon
+  image: /assets/images/msalmon.jpg
+  bio: "<p align='justify'> Maëlle Salmon is a R(esearch) Software Engineer, part-time with rOpenSci where she, among other things, maintains the guide <a href='https://devguide.ropensci.org/' target='_blank'> rOpenSci Packages: Development, Maintenance, and Peer Review </a>. She also created the <a href='https://blog.r-hub.io' target='_blank'>R-hub blog</a> and co-wrote the online book <a href='https://books.ropensci.org/http-testing' target='_blank'>HTTP testing in R</a> with Scott Chamberlain. She regularly contracts for various organizations, including research institutions, for developing or strengthening R packages. Maëlle has a PhD in Statistics. She lives in Nancy, France. Maëlle on <a href='https://github.com/maelle' target='_blank'>GitHub</a>, <a href='https://twitter.com/ma_salmon' target='_blank'>Twitter</a>, <a href='https://masalmon.eu/' target='_blank'>Website</a> </p>"
+  website: https://masalmon.eu/  
+  
 - name: Yudhvir Seetharam
   image: /assets/images/Yudhvir.png
   bio: "<p align='justify'>Yudhvir Seetharam is currently an Associate Professor in the School of Economics and Finance; and the Head of Analytics, Insights and Research for FNB Business. He holds a Ph.D from the University of the Witwatersrand in the field of behavioural finance and is extensively involved in both academia and practice, as evidenced by regular media engagements, memberships in societies and awards. <br/><br/> Yudhvir's area of focus is on the application of empirical (analytical) techniques to finance (broadly defined as both investments and corporate finance), with an emphasis on incorporating investor psychology/biases into these techniques. Interest in this field is relatively scarce in South Africa, but there has been growth over the past decade. While this area may seem broad, the underlying theme is on applying inter-disciplinary approaches in solving traditional problems in the financial field. As such, there are neighbouring applications in the field of Financial Technology (such as “big data” and “data science”) and in risk management. <br/><br/> He has published extensively in local and international journals, such as the Investment Analysts Journal, International Journal of Emerging Markets, Eurasian Business Review, inter alia. Yudhvir is an Editorial Board member of the Journal of Business Analytics; an Editor for Cogent Economics and Finance and Springer Nature: Business and Economics. He is also the Managing Editor for the South African Journal of Economic and Management Sciences.</p>"
