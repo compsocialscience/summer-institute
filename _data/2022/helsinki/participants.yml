@@ -8,7 +8,7 @@
   bio: "Armin Sauermann is a researcher at the WZB Berlin Social Science Center. He recently completed his Sociology Masters at the University of Potsdam and will pursue his PhD. Armin analyzes large-scale observational data and is learning to collect and analyze internet-based data to study group processes and political extremism."
 
 - name: Jan Sodoge
-  image: /assests/images/jan_sodoge.jpg
+  image: /assets/images/jan_sodoge.jpg
   bio: "Jan Sodoge is a doctoral researcher at the Helmholtz-Centre for Environmental Research working on the socio-economic dimensions of drought through text mining and participatory modeling"
   website: http://jsodoge.eu
 
@@ -17,7 +17,6 @@
   bio: "Elida Izani is a doctoral student in the Sociology department at Stockholm University. Her research focuses on the alignment between ideological beliefs and lifestyle preferences. She investigates this topic by using a combination of qualitative and computational methods."
 
 - name: Jon Järviniemi
-  image: /assests/images/JonJärviniemi.jpg
   bio: "Jon Järviniemi is a doctoral researcher at the University of Helsinki. His research focuses on analyzing the development of populist political communication across party lines and on different political arenas. Furthermore, he is interested in what may have triggered the usage of populist communication among political actors."
 
 - name: Chaewon Yun
@@ -30,16 +29,17 @@
   bio: "Maria Litova is a research assistant at the Centre for Social Data Science, University of Helsinki, Finland. She got her first Master’s degree in Sociology and currently is a Master’s student at the University of Helsinki with major in Social Data Science. Maria is interested in natural language processing, machine learning, healthcare and medical data analysis, youth research and well-being issues."
 
   name: Antero Olakivi
-  image: /assests/images/Antero Olakivi_E3F7622.jpg
+  image: /assets/images/Antero_Olakivi_E3F7622.jpg
   bio: "Antero Olakivi, D. Soc.Sc., is a postdoctoral researcher at the University of Helsinki, in the Centre of Excellence in Research on Ageing and Care. Olakivi’s research interests deal with intersecting inequalities in everyday life, especially in the context of care and care work, and with the methodology of social sciences."
 
 - name: Brooke Molokach
   image: /assets/images/Brooke_Molokach.jpg
   bio: "Brooke Molokach is a PhD student at the University of Delaware, researching the narrative features of political communication and societal fragmentation. Her interests include network dynamics, agent-based modeling, and natural language processing. Brooke holds an MA in International Affairs from American University and a BA from Yale University."
-  
+
 - name: Iuliia Smirnova
   image: /assets/images/Iuliia_Smirnova.jpg
   bio: "Iuliia Smirnova just completed her master's degree and holds a BA in political science from the St. Petersburg State University. She uses qualitative research methods such as comparative analysis, traditional document analysis and case study method to explore civil and political education, political culture, public policy and Russian politics."
 
 - name: Katri Sarkio
   bio: "Katri Sarkio is a doctoral researcher in Faculty of Educational Sciences, University of Helsinki. Her dissertation focuses on educational leadership, organizational culture, and innovative learning environments. She holds LSc in Digital Economy and MSc in Computer Science. Before, she worked inter alia in EIT Digital innovation ecosystem on educational development."
+  image: /assets/images/katri_sarkio.jpg
