@@ -5,7 +5,8 @@
     - name: "11:00 - 13:00 Intro. data collection and ethics"
     - name: "12:00 - 13:00 Lunch Break"
     - name: "14:00 - 16:00 APIs and web scraping"
-    - name: "16:00 - 18:00 Research talk: Carolina Scarton"    
+    - name: "16:00 - 18:00 Research talk: Carolina Scarton"
+    - name: "Today's materials [here](https://github.com/cjbarrie/sicss_22)"  
     
 - date: 2022-06-14
   name: Computational Social Science and Digital Research Methods
