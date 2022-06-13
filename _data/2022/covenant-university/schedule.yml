@@ -9,7 +9,12 @@
     - name: "**11:00-12:15** Introduction to Computational Social Science<br/>"
     - name: "**12:15-13:00** Panel Discussion <br/> Computer Science meets Social science"
     - name: "**13:00-14:00** Lunch"
-    - name: "**14:00-15:00** Invited Presentation: R for Social Sciences and Humanities"
+    - name: "**14:00-15:00** Invited Presentation: R for Social Sciences and Humanities
+    <br/> 
+    <br/> 
+    Over the last few years, free and open-source tools like R have become increasingly popular in research environments. The R programming language offers analysts a way to perform data manipulation and wrangling, analysis and modelling, and visualisation in one place. R can also be used to develop presentations, reports, books and even websites.
+    <br/> In this presentation, the speakers will introduce R as a tool for humanities and social science researchers. We will look at a handful of specific applications of R. We will also introduce the audience to useful resources, communities, and learning opportunities.
+    <br/> Finally, we will explore a case study where R was used as part of a PhD study to perform text mining on legal documents. This project also inspired the development of an open educational resource during a mentorship through Open Life Sciences (OLS) that aims to highlight the benefits of using R in the legal profession and research environments."
     - name: "**15:00-16:00** Invited Presentation: "
     - name: "**16:00-18:00** Logistics and AOB"
     - name: "**18:00-** Dinner"
