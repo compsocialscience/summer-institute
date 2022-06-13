@@ -2,7 +2,7 @@
   name: Ethics, Reproducibility, and Data Collection
   events:
     - name: "09:00 - 11:00 Welcome and introductions"
-    - name: "11:00 - 13:00 Intro. data collection and ethics"
+    - name: "11:00 - 13:00 Intro. CSS and ethics"
     - name: "13:00 - 14:00 Lunch Break"
     - name: "14:00 - 16:00 APIs and web scraping"
     - name: "16:00 - 18:00 Research talk: Carolina Scarton. 'Supporting professional fact-checking: Can NLP/AI help?'"
@@ -11,17 +11,17 @@
 - date: 2022-06-14
   name: Computational Social Science and Digital Research Methods
   events:
-    - name: "10:00 - 13:00 "
+    - name: "10:00 - 13:00 Intro. Computational Methods"
     - name: "13:00 - 14:00 Lunch Break"
-    - name: "14:00 - 16:00 "       
+    - name: "14:00 - 16:00 Intro. Qualitative Digital Research"       
     - name: "16:00 - 18:00 Research talk: Anita Gohdes. 'Civilian Signalling on Social Media During Civil War'"
 
 - date: 2022-06-15
   name: Networks
   events:
-    - name: "10:00 - 13:00 "
+    - name: "10:00 - 13:00 Network theory and social media network analysis"
     - name: "13:00 - 14:00 Lunch Break"
-    - name: "14:00 - 16:00 "       
+    - name: "14:00 - 16:00 Analyzing Twitter networks"       
     - name: "16:00 - 18:00 Research talk: Maria Wolters"
 
 - date: 2022-06-16
