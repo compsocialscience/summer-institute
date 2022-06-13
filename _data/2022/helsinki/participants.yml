@@ -12,8 +12,9 @@
   bio: "Jan Sodoge is a doctoral researcher at the Helmholtz-Centre for Environmental Research working on the socio-economic dimensions of drought through text mining and participatory modeling"
   website: http://jsodoge.eu
 
-  name: Jon Järviniemi
-  image: /assets/images/JonJärviniemi.jpg
+  
+- name: Jon Järviniemi
+  image: /assests/images/JonJärviniemi.jpg
   bio: "Jon Järviniemi is a doctoral researcher at the University of Helsinki. His research focuses on analyzing the development of populist political communication across party lines and on different political arenas. Furthermore, he is interested in what may have triggered the usage of populist communication among political actors."
 
 - name: Chaewon Yun
