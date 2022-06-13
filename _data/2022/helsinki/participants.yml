@@ -12,6 +12,10 @@
   bio: "Jan Sodoge is a doctoral researcher at the Helmholtz-Centre for Environmental Research working on the socio-economic dimensions of drought through text mining and participatory modeling"
   website: http://jsodoge.eu
 
+- name: Elida Izani
+  image: /assets/images/Elida_Izani.jpg
+  bio: "Elida Izani is a doctoral student in the Sociology department at Stockholm University. Her research focuses on the alignment between ideological beliefs and lifestyle preferences. She investigates this topic by using a combination of qualitative and computational methods."
+
 - name: Jon Järviniemi
   image: /assests/images/JonJärviniemi.jpg
   bio: "Jon Järviniemi is a doctoral researcher at the University of Helsinki. His research focuses on analyzing the development of populist political communication across party lines and on different political arenas. Furthermore, he is interested in what may have triggered the usage of populist communication among political actors."
@@ -37,5 +41,5 @@
   image: /assets/images/Iuliia_Smirnova.jpg
   bio: "Iuliia Smirnova just completed her master's degree and holds a BA in political science from the St. Petersburg State University. She uses qualitative research methods such as comparative analysis, traditional document analysis and case study method to explore civil and political education, political culture, public policy and Russian politics."
 
--name: Katri Sarkio
- bio: "Katri Sarkio is a doctoral researcher in Faculty of Educational Sciences, University of Helsinki. Her dissertation focuses on educational leadership, organizational culture, and innovative learning environments. She holds LSc in Digital Economy and MSc in Computer Science. Before, she worked inter alia in EIT Digital innovation ecosystem on educational development."
+- name: Katri Sarkio
+  bio: "Katri Sarkio is a doctoral researcher in Faculty of Educational Sciences, University of Helsinki. Her dissertation focuses on educational leadership, organizational culture, and innovative learning environments. She holds LSc in Digital Economy and MSc in Computer Science. Before, she worked inter alia in EIT Digital innovation ecosystem on educational development."
