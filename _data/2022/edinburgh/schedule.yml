@@ -37,7 +37,6 @@
   name: Machine learning and prediction
   events:
     - name: "10:00 - 13:00"
-    - name: "12:00 - 13:00 Lunch Break"
     - name: "13:00 - 14:00 Lunch Break"
     - name: "14:00 - 16:00"       
     - name: "16:00 - 18:00 Research talk: Benjamin Bach"
