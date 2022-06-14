@@ -32,16 +32,16 @@
     - name: "10:00 - 12:00 Intro. CTA"
     - name: "12:00 - 13:00 ILCC Poster Session"
     - name: "13:00 - 13:45 Lunch Break"
-    - name: "13:45 - 15:30 NLP"
+    - name: "13:45 - 15:30 Theory of text classification"
     - name: "15:30 - 16:00 Break"
     - name: "16:00 - 18:00 Research talk: Clare Llewellyn. 'Who, or what, influences you online?'"
 
 - date: 2022-06-17
   name: Machine learning and prediction
   events:
-    - name: "10:00 - 12:30"
+    - name: "10:00 - 12:30 Text classification in practice"
     - name: "12:30 - 13:30 Lunch Break"
-    - name: "13:30 - 15:30"       
+    - name: "13:30 - 15:30 Population- and individual-level prediction"       
     - name: "15:30 - 16:00 Break"
     - name: "16:00 - 18:00 Research talk: Benjamin Bach"
     
