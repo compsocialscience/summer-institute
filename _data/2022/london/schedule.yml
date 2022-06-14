@@ -30,20 +30,22 @@
   events:
     - name: "Location - ICBS Room LTG"
     - name: "9:30  - 10:00 Light breakfast (optional)"
-    - name: "10:00 - 12:00 Code Tutorial - APIs and Web Scraping"
+    - name: "10:00 - 11:30 Code Tutorial - APIs and Web Scraping"
+    - name: "11:30 - 12:00 Exercise overview & group formation
     - name: "12:00 - 1:00  Break for Lunch (provided)"
-    - name: "1:00  - 4:00  Small group exercise - scraping hackathon"
-    - name: "4:00  - 5:00  Hackathon group presentations"
+    - name: "1:00  - 3:30  Small group exercise - scraping hackathon"
+    - name: "3:30 - 4:30  Hackathon group presentations"
+    - name: "4:30 - 5:00  Alum talk by Katharina Lawall"
 
 - date: 2022-06-16
   name: "Surveys in a Digital Age (Lead by Prof. Becker)"
   events:
     - name: "Location - ICBS Room LTG"
     - name: "9:30  - 10:00 Light breakfast (optional)"
-    - name: "10:00 - 11:00 Online Survey Tutorial"
+    - name: "10:00 - 11:00 Online survey tutorial and exercise overview"
     - name: "11:00 - 12:00 Survey design and launch"
     - name: "12:00 - 1:00  Break for Lunch (provided)"
-    - name: "1:00  - 2:00  Code Tutorial - non-representative sampling"
+    - name: "1:00  - 1:30  Exercise overview on non-representative sampling"
     - name: "2:00  - 4:00  Small group survey analysis & presentations"
     - name: "4:00  - 5:30  Guest Keynote Seminar - Neave O'Clery"
 
