@@ -1,38 +1,58 @@
+- date: "Schedule Overview"
+  events:
+    - name: "ODISSEI-SICSS follows the regular structure of SICSS. Each day is broken into four sessions (unless otherwise stated in the programme), with a guest lecture and the end of each day. This standard daily schedule is as follows:"
+    - name: "09:00 - 10:30 Session 1"
+    - name: "10:30 - 11:00 Coffee break"
+    - name: "11:00 - 12:00 Session 2"
+    - name: "12:00 - 12:30 Lunch"
+    - name: "12:30 - 14:20 Session 3"
+    - name: "14:20 - 14:40 Coffee break"
+    - name: "14:40 - 16:00 Session 4"
+    - name: "16:00 - 17:00 Guest lectures"
+    - name: "The first week consists of lectures and hands-on assignments, covering a different topic each day. The second week consists of a group project."
+    - name: "Most course sessions will take place on the Erasmus Campus Woudestein, Burgemeester Oudlaan 50, Rotterdam. You can find information [here](https://www.eur.nl/en/campus/locations/campus-woudestein#directions) and download the campus map [here](https://www.eur.nl/en/media/2022-06-2022campus-plattegrond-33707)."
+
+
 - date: Week 1
 
 - date: Monday June 20, 2022
   name: "Introduction to SICSS-ODISSEI"
   events:
-    - name: "On the first day there will be an introduction to ODISSEI and its various elements including Microdata Services at Statistics Netherlands, the ODISSEI Secure Supercomputer, the LISS Panel, the ODISSEI portal and the various data collections that ODISSEI supports. The day will include a range of practical, hands-on exercises using the various services, getting participants acquainted with the Dutch data landscape, and how ODISSEI supports computational social science."
-    - name: "Speaker: [Dr. Tom Emery](https://www.eur.nl/people/tom-emery)"
-    - name: "On Monday, the participants will also have a collective dinner nearby to get to know each other. This welcome dinner will end around 21.00h, for those who need to travel back home."
+    - name: "Speaker: [Tom Emery](https://www.eur.nl/people/tom-emery)"
+    - name: "Programme starts at 10:00, rather than 9:00"
+    - name: "Location: Room: T3-13, [Mandeville building](https://goo.gl/maps/qHNoLv4gcb6s4mBp8)"
+    - name: "Guest lecture: Information Diffusion in Social Media, Adriana Iamnitchi"
+    - name: "18:00 - Social dinner at Bazar, [Witte de Withstraat 16](https://goo.gl/maps/RFhXzAD6u2sR8kab9)"
 
 - date: Tuesday June 21, 2022
-  name: "Introduction to Machine learning"
-  events:
-    - name: "ODISSEI brings together multiple data sources (administrative data, survey data, web data, etc) which allows researchers to construct multi-dimensional data which is often best analysed using Machine Learning techniques rather than traditional social science research methods. The data at CBS for example contains more than 10,000 variables so specifying the right model can be laborious. On this first day, participants will be introduced to Machine Learning and how it relates to traditional social research methods by experts from the eScience Center. The day will be interspersed with presentations by social scientists who have utilised Machine Learning in social research and hands-on experiments using data from ODISSEI."
-    - name: "Speaker: Expert from eScience center"
- 
-- date: Wednesday June 22, 2022
-  name: "Machine learning"
-  events:
-    - name: "On the second day of machine learning participants will be introduced to more advanced concepts in machine learning including deep learning and neural networks with an increased focus on worked examples that participants will be able to utilise in the second week of the program. Worked examples will show how to deploy machine learning approaches in both Python and R, how to troubleshoot problems, and evaluate models."
-    - name: "Speaker: Expert from eScience center"
-    
-- date: Thursday June 23, 2022
   name: "Introduction to Network Analysis"
   events:
-    - name: "Because ODISSEI enables intensive data linkage, network approaches are particularly useful when using ODISSEI infrastructure. This day introduces concepts and tools in network science. The objective of the day is that participants acquire hands-on knowledge on how to analyse social networks. Participants will be able to understand when a network approach is useful, understand the differences and similarities between a Complex Networks and a Social Network Analysis approach, describe network characteristics, and infer edges or node attributes."
-    - name: "Speaker: [Dr. Javier Garcia-Bernardo](https://www.uu.nl/staff/JGarciaBernardo)"
+    - name: "Speaker: [Javier Garcia-Bernardo](https://www.uu.nl/staff/JGarciaBernardo)"
+    - name: "Location: Room: T3-13, [Mandeville building](https://goo.gl/maps/qHNoLv4gcb6s4mBp8)"
+    - name: "Guest lecture: Population Scale Network Analysis, Eszter Bokányi"
+   
+- date: Wednesday June 22, 2022
+  name: "Introduction to Machine learning"
+  events:
+    - name: "Speaker: Expert from eScience center"
+    - name: "Location: Room: T3-13, [Mandeville building](https://goo.gl/maps/qHNoLv4gcb6s4mBp8)"
+    - name: "Guest lecture: TBC, Wouter van Atteveldt"
 
+- date: Thursday June 23, 2022
+  name: "Advanced Machine Learning"
+  events:
+    - name: "Speaker: Expert from eScience center"
+    - name: "Location: Room: C2-6, [Theil building](https://goo.gl/maps/znzaYXAbmNCCX84y8)"
+    - name: "Guest lecture: Using Machine Learning to estimate attrition, Joris Mulder"
     
 - date: Friday June 24, 2022
   name: "Introduction to benchmarking"
   events:
-    - name: "On the last day of the first week, a benchmarking workshop will be held, during which the students will be introduced to the concept of benchmarking and how this could be used in Social Sciences. The second part of the workshop will consist of a hands-on exercise, in which students will be given a simple prediction task (i.e., predicting a life outcome based on publicly available survey data) and will see how their proposed methods can be compared and assessed given a set of pre-defined matrices and criteria."
-    - name: "Speaker: [dr. Paulina Pankowska](https://research.vu.nl/en/persons/paulina-karolina-pankowska)"
-    - name: "On Friday June 24, the participants will have a social event and dinner together nearby. There is also the possibility of drinks afterward, for those who are interested."
-    
+    - name: "Speaker: [Paulina Pankowska](https://research.vu.nl/en/persons/paulina-karolina-pankowska)"
+    - name: "Location: Room: T3-13, [Mandeville building](https://goo.gl/maps/qHNoLv4gcb6s4mBp8)"
+    - name: "Guest lecture: Prediction & Causality in Social Science, Nate Breznau"
+    - name: "18:00 - Social dinner at Baek Food & Drinks - [Blaak 329](https://goo.gl/maps/HkEm9Diva9thHBzz7)"
+     
 - date: Saturday June 25, 2022
   name: "Day off"   
  
@@ -42,21 +62,41 @@
 - date: Week 2
   name: "Benchmarking challenge"
   events:
-    - name: "In the second week of the summer school (June 27-July 1), participants will be able to make full use of the ODISSEI infrastructure through a full scale benchmarking challenge, during which they will be put into teams and challenged to work on and submit solutions to a real-life prediction problem that social scientists and policy makers are grappling with. An example topic would be to predict educational or labour market outcomes. For an example of such a social science benchmark that was organised a few years ago see the Fragile Families Challenge in the onboarding reading."
+    - name: "In the second week of the summer school (June 27-July 1), participants will be able to make full use of the ODISSEI infrastructure through a full scale benchmarking challenge, during which they will be put into teams and challenged to work on and submit solutions to a real-life prediction problem that social scientists and policy makers are grappling with."
     
 - date: Monday June 27, 2022
   name: "Benchmarking challenge"
+  events:
+    - name: "9:30 - 11:30 Benchmarking kick-off with speakers from SCP and NIDI"
+    - name: "Location: [NIDI](https://nidi.nl/nl/contact/), [Lange Houtstraat 19](https://g.page/NIDI_KNAW?share) in the Hague"
+    - name: "11:30 - 14:00 Lunch and transfer back to Erasmus University Rotterdam"
+    - name: "14:00 - 16:30 Benchmarking challenge"
+    - name: "16:30 - 18:00 Guest lecture: Fragile Families, Matt Salgnanik"
+    - name: "Location: Room: T3-13, [Mandeville building](https://goo.gl/maps/qHNoLv4gcb6s4mBp8)"
+ 
  
 - date: Tuesday June 28, 2022
   name: "Benchmarking challenge"
+  event: 
+    - name: "9:00 - 17:00 Group project"
+    - name: "Location: Room: T3-13, [Mandeville building](https://goo.gl/maps/qHNoLv4gcb6s4mBp8)"
   
 - date: Wednesday June 29, 2022
   name: "Benchmarking challenge"
+  event: 
+    - name: "9:00 - 17:00 Group project"
+    - name: "Location: Room: T3-29, [Mandeville building](https://goo.gl/maps/qHNoLv4gcb6s4mBp8)"
   
 - date: Thursday June 30, 2022
   name: "Benchmarking challenge"
+  event: 
+    - name: "9:00 - 17:00 Group project"
+    - name: "Location: Room: T3-29, [Mandeville building](https://goo.gl/maps/qHNoLv4gcb6s4mBp8)"
+    - name: "18:00 - Social dinner at Stockholm - [Spaansekade 12](https://goo.gl/maps/fds6E31RFcGN8K9P9)"
   
 - date: Friday July 1, 2022
   name: "Benchmarking challenge"
   events:
-    - name: "On Friday 1 July, SICSS-ODISSEI will provide the participants with a closing dinner and drinks, for those who are interested."
+    - name: "9:00 - 12:00 Group project"
+    - name: "12:00 - 17:00 Presentations"
+    - name: "Location: Room: T3-29, [Mandeville building](https://goo.gl/maps/qHNoLv4gcb6s4mBp8)"
