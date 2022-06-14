@@ -1,3 +1,8 @@
+- name: Precious Adebola
+  image: /assets/images/PAdebola.jpg
+  bio: "<p align='justify'>Precious holds a Master of Public Health degree and is currently a Master's student in Bioinformatics at Covenant University. Her research interest lies at the nexus of technology and computation with biological and health data for improved health outcomes. Her current research focuses on the development of computational tools for the analysis of genomic data.</p>"
+  website: 
+  
 - name: Julius Ajayi
   image: /assets/images/JOAjayi.jpg
   bio: "<p align='justify'>Julius Ajayi is a PhD candidate in the Department of Transport Management at the Ladoke Akintola University of Technology, Nigeria. He is also a Research Associate at the Centre for Economic Policy and Development Research (CEPDeR), Nigeria. His research interests include Transport Equity, Policy Development and Sustainability. His Doctoral thesis focuses on the disparities in access to public transportation among population groups in a sub-Sahara African urban centre. Between 2016 and 2019, Julius led data-driven education advocacy across three geopolitical zones in Nigeria.</p>"
@@ -34,6 +39,16 @@
   image: /assets/images/MKalerwa.jpg
   bio: "<p align='justify'>Mary Muyonga is a PhD candidate at the Population Institute at the Department of Geography, Population and Environmental Studies at the University of Nairobi in Kenya. Prior to her doctoral studies, Mary obtained a Master's degree from the same Institute. Her research interests are migration and urbanisation and their interplay with development, and more recently, the use of alternative, emergent research methods in social science research.</p>"
   website: https://twitter.com/MaryMuyonga
+  
+- name: Augustine Ogbaji Otobi
+  image: /assets/images/AOOtobi.jpg
+  bio: "<p align='justify'>Augustine Ogbaji Otobi is an avid researcher who loves to use computational tools to investigate the WHY, WHEN, WHERE and HOW of events, patterns and systems represented by numbers. He bagged his first degree in Computer Science from the University of Calabar, Nigeria. He is a Master's Student, and his research area is Data Science/Machine Learning. His research spans climate-related issues, fraud and risk prediction in insurance, expert systems and distributed databases. He is looking forward to research collaborations to solve real-world problems and make human existence on earth hitch-free.</p>"
+  website: https://www.linkedin.com/in/augustine-ogbaji-otobi-166756103
+  
+- name: Ridwan Shittu
+  image: /assets/images/RShittu.jpg
+  bio: "<p align='justify'>Ridwan Shittu is a Master’s student in Medical Demography at the University of Ibadan in Nigeria and the founder of IgnitePeak Advanced Professional Consult. He is interested in exploring how big data and computational demographic techniques can be used to advance the study of behavioural and health inequality. His thesis work explores the pattern and rural-urban differential of maternal health care practice and childhood respiratory infection symptoms. Ridwan holds a Bachelor’s Degree in Demography and Social Statistics from Federal University Oye-Ekiti, Nigeria.</p>"
+  website: https://www.linkedin.com/in/olusola-r-shittu-b863541bb
 
 - name: Damian Kalu	Ude
   image: /assets/images/UDamian.jpg
