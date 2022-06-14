@@ -7,9 +7,9 @@
   events:
     - name: "**09:00-11:00** Opening Ceremony"
     - name: "**11:00-12:15** Introduction to Computational Social Science<br/>"
-    - name: "**12:15-13:00** Panel Discussion <br/> Computer Science meets Social science"
+    - name: "**12:15-13:00** New Methods for Social Science Research in the Digital Age"
     - name: "**13:00-14:00** Lunch"
-    - name: "**14:00-15:00** Invited Presentation: R for Social Sciences and Humanities
+    - name: "**14:00-15:00** R for Social Sciences and Humanities
     <br/> 
     <br/> 
     Over the last few years, free and open-source tools like R have become increasingly popular in research environments. The R programming language offers analysts a way to perform data manipulation and wrangling, analysis and modelling, and visualisation in one place. R can also be used to develop presentations, reports, books and even websites.
@@ -18,7 +18,6 @@
     - name: "**15:00-16:00** Invited Presentation: "
     - name: "**16:00-18:00** Logistics and AOB"
     - name: "**18:00-** Dinner"
-    - name: "Required Readings:_ []()"  
 
 - date: 2022-06-21
   events:
@@ -107,7 +106,7 @@
     - <a href='https://www.medrxiv.org/content/10.1101/2020.06.01.20118810v1' target='_blank'>Collecting data on HIV-related mortality during household surveys: a randomized validation study in Malawi</a>
     
     - *YouTube videos:* <a href='https://www.youtube.com/watch?v=j8fJGV17Hcg' target='_blank'>Survey Research in the Digital Age</a>, <a href='https://www.youtube.com/watch?v=SLAi9v5CCnM' target='_blank'>Probability and Non-Probability Sampling</a>, <a href='https://www.youtube.com/watch?v=_vecQs7aB6o' target='_blank'>Combining Surveys and Big Data</a>, <a href='https://www.youtube.com/watch?v=cYyu5Ex0twE' target='_blank'>Moving Beyond Simple Experiments</a>"
-    - name: "**10:30-11:00** Invited Presentation: Open science and reproducible research in the digital age"
+    - name: "**10:30-11:00** Open science and reproducible research in the digital age"
     - name: "**11:30-12:30** Collecting mortality data via mobile phone surveys in countries with limited civil registration and vital statistics (CRVs).
     <br/> 
     <br/> 
