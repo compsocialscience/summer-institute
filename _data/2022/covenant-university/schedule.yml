@@ -42,10 +42,10 @@
     <br/> 
     Contemporary social sciences aim to be diverse and inclusive, yet traces of historical supremacy persist in scientific practices. One such practice is geographical references in article titles. This presentation will highlight important North-South gaps in knowledge production using more than half a million social science research articles indexed by Scopus (1996 to 2020)."
     
-    - name: "**12:00-13:00** Tutorials"
+    - name: "**12:00-13:00** Group Exercises"
     - name: "**13:00-14:00** Lunch"
-    - name: "**14:00-15:30** Tutorial: [Quasi]-automated search strategy development and article screening in R with <a href='https://doi.org/10.1111/2041-210X.13268' target='_blank'>litsearchr</a> and <a href='https://doi.org/10.1002/jrsm.1374' target='_blank'>revtools</a>"
-    - name: "**15:30-18:00** Group Exercises"
+    - name: "**14:00-16:00** Group Exercises"
+    - name: "**16:00-18:00** Tutorial: Getting started with academic research using the Twitter API v2"
     - name: "**18:00-** Dinner"
 
 - date: 2022-06-22
@@ -82,8 +82,8 @@
      - Topic Models <a href='https://www.youtube.com/watch?v=IUAHUEy1V0Q' target='_blank'>Watch video on Youtube</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/topic-modeling/Rpres/Topic_Modeling.html' target='_blank'>Slides</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/topic-modeling/rmarkdown/Topic_Modeling.html' target='_blank'>Annotated Code</a>"
      
     - name: "**13:00-14:00** Lunch"
-    - name: "**14:00-15:30** Tutorial: Introduction to Regular Expressions (Regex) in R Presentation"
-    - name: "**15:30-18:00** Group Exercises"
+    - name: "**14:00-15:30** Group Exercises"
+    - name: "**15:30-18:00** Tutorial: Introduction to Regular Expressions (Regex) in R Presentation"
     - name: "**18:00-** Dinner"
     
     
@@ -183,7 +183,7 @@ This panel will discuss key challenges in the collection of precise data as well
     R packages are an ideal way to package and distribute R code and data for re-use by others. In this session, with a live demo, we shall demystify the creation of an R package using automated tools like usethis. We will also uncover why to create a package (or not), how to improve your R package and your package development skills. The session will also highlight how to solve the challenges you will encounter in developing an R package. Lastly, we will discuss how to find your happy place in the world of R package development – as a devoted maintainer of one package or a valued contributor to dozens of packages."
     
     - name: "**14:00-15:00** Lunch"
-    - name: "**15:00-18:00** Invited Talk"
+    - name: "**15:00-18:00** Group Exercises"
     - name: "**18:00-** Dinner"
 
 - date: 2022-06-29
