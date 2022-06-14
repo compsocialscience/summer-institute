@@ -39,9 +39,9 @@
 - date: 2022-06-17
   name: Machine learning and prediction
   events:
-    - name: "10:00 - 12:30 Text classification in practice"
-    - name: "12:30 - 13:30 Lunch Break"
-    - name: "13:30 - 15:30 Population- and individual-level prediction"       
+    - name: "10:00 - 13:30 Text classification in practice"
+    - name: "13:00 - 14:00 Lunch Break"
+    - name: "14:00 - 15:30 Population- and individual-level prediction"       
     - name: "15:30 - 16:00 Break"
     - name: "16:00 - 18:00 Research talk: Benjamin Bach"
     
