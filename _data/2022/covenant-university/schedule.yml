@@ -150,7 +150,7 @@
 - date: 2022-06-27
   events:
     - name: "**09:00-09:15** Housekeeping and Announcements."
-    - name: "**09:15-10:30** Tutorial: Spatial networks in R with {sfnetworks} and {tidygraph}"
+    - name: "**09:15-10:30** Tutorial: Spatial networks in R with `{sfnetworks}`"
     - name: "**10:30-13:00** Group Exercises"
     - name: "**13:00-14:00** Lunch"
     - name: "**14:00-16:00** Group Exercises"
