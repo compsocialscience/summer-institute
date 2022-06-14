@@ -15,13 +15,15 @@
     - name: "13:00 - 14:00 Lunch Break"
     - name: "14:00 - 16:00 Intro. Qualitative Digital Research"       
     - name: "16:00 - 18:00 Research talk: Anita Gohdes. 'Distract and Divert: How World Leaders Use Social Media During Contentious Politics'"
+    - name: "Today's materials [here](https://github.com/cjbarrie/sicss_22)"  
 
 - date: 2022-06-15
   name: Networks
   events:
-    - name: "10:00 - 13:00 Network theory and social media network analysis"
-    - name: "13:00 - 14:00 Lunch Break"
-    - name: "14:00 - 16:00 Analyzing Twitter networks"       
+    - name: "10:00 - 12:30 Network theory and social media network analysis"
+    - name: "12:30 - 13:30 Lunch Break"
+    - name: "13:30 - 15:30 Analyzing Twitter networks"
+    - name: "15:30 - 16:00 Break"
     - name: "16:00 - 18:00 Research talk: Maria Wolters. 'When Counting and Modelling is not Enough: Case Studies from Health Research'"
 
 - date: 2022-06-16
@@ -29,16 +31,18 @@
   events:
     - name: "10:00 - 12:00 Intro. CTA"
     - name: "12:00 - 13:00 ILCC Poster Session"
-    - name: "13:00 - 14:00 Lunch Break"
-    - name: "14:00 - 16:00 NLP"       
+    - name: "13:00 - 13:45 Lunch Break"
+    - name: "13:45 - 15:30 Theory of text classification"
+    - name: "15:30 - 16:00 Break"
     - name: "16:00 - 18:00 Research talk: Clare Llewellyn. 'Who, or what, influences you online?'"
 
 - date: 2022-06-17
   name: Machine learning and prediction
   events:
-    - name: "10:00 - 13:00"
-    - name: "13:00 - 14:00 Lunch Break"
-    - name: "14:00 - 16:00"       
+    - name: "10:00 - 12:30 Text classification in practice"
+    - name: "12:30 - 13:30 Lunch Break"
+    - name: "13:30 - 15:30 Population- and individual-level prediction"       
+    - name: "15:30 - 16:00 Break"
     - name: "16:00 - 18:00 Research talk: Benjamin Bach"
     
 
