@@ -7,11 +7,21 @@
   image: /assets/images/diego.JPG
   bio: "<p align='justify'>Diego Alburez-Gutierrez (PhD in Demography, London School of Economics 2018) is a Research Scientist at the Max Planck Institute for Demographic Research, where he specialises in inter-generational demography. His work integrates non-traditional data (e.g., from digital or computational sources) with established demographic sources (e.g. censuses and population registers).</p>"
   website: http://alburez.me/
+  
+- name: Laurie Baker
+  image: /assets/images/LBaker.JPG
+  bio: "<p align='justify'>Laurie is a disease ecologist and marine biologist by training. She earned her BSc and MSc in marine biology at the University of St. Andrews and Dalhousie University (MSc) respectively, and her doctorate in epidemiology at the University of Glasgow. Laurie is a certified RStudio Instructor with a keen interest in programming, data science, and the use of novel data sources in research. The core of her research focuses on spatial and temporal patterns in human and biological systems including disease spread, animal movement, and fisheries management.</p>"
+  website: https://lauriebaker.rbind.io/
 
 - name: Robert Yao Djogbenou
   image: 
   bio: "<p align='justify'>Robert Djogbenou is a PhD candidate in Demography at the Université de Montréal. He has a Post Graduate Program in Artificial Intelligence and Machine Learning at the University of Texas at Austin. His research uses computational approaches to study immigrants’ socio-cultural integration in Canada. His other interests include reproductive health and family dynamics in sub-Saharan Africa. He is affiliated with the Lab on quantitative and computational social science at the Université du Québec à Montréal.</p>"
   website: 
+
+- name: Andrea Gilardi
+  image: /assets/images/AGilardi.JPG
+  bio: "<p align='justify'>Andrea Gilardi is a Research Fellow in Statistics at the University of Milano - Bicocca, Department of Economics, Management and Statistics. He works mainly on spatial and spatio-temporal models for data on street networks (e.g. car crashes and ambulance interventions). He is a passionate R user and author of two R packages that ease the management of spatial data in R: osmextract and sfnetworks.</p>"
+  website: https://agila5.github.io/
 
 - name: Stephane Helleringer
   image: /assets/images/Shelleringer.jpg
