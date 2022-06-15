@@ -9,6 +9,7 @@
 - name: José-Miguel Bello Villarino
   image: /assets/images/JoseMiguel_BelloVillarino.jpg
   bio: "José-Miguel is a Research Fellow at the University of Sydney Law School and the Institutions programme of the ADM+S Centre of Excellence. His current research focuses on regulatory approaches to artificial intelligence, especially on how to deal with risks derived from the operation of AI systems from a comparative approach."
+  
 - name: Tayla Broadbridge
   image: /assets/images/Tayla_Broadbridge.jpg
   bio: "Tayla is a joint-PhD candidate in mathematics at the University of Adelaide and the University of Nottingham. Her research explores the presence and development of food deserts using agent-based modelling and data science approaches, with the goal of developing more effective interventions. Tayla received her honours degree in applied mathematics from the University of Adelaide."
@@ -47,8 +48,7 @@
   
 - name: Bogdan Mamaev
   image: /assets/images/Bogdan_Mamaev.jpg
-  bio: "Bogdan is a PhD candidate in Political Science at Griffith University's School of Government and International Relations. His research examines how political regimes, repression, and electoral manipulation impact claims-making, social movements, and contentious politics. His interests include the use of computational techniques to understand contention in restrictive
-political settings."
+  bio: "Bogdan is a PhD candidate in Political Science at Griffith University's School of Government and International Relations. His research examines how political regimes, repression, and electoral manipulation impact claims-making, social movements, and contentious politics. His interests include the use of computational techniques to understand contention in restrictive political settings."
   
 - name: Mark Riboldi
   image: /assets/images/Mark_Riboldi.jpg
