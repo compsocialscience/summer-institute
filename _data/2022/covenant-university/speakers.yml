@@ -19,7 +19,7 @@
   website: 
 
 - name: Andrea Gilardi
-  image: /assets/images/AGilardi.jpg
+  image: /assets/images/AGilardi.JPG
   bio: "<p align='justify'>Andrea Gilardi is a Research Fellow in Statistics at the University of Milano - Bicocca, Department of Economics, Management and Statistics. He works mainly on spatial and spatio-temporal models for data on street networks (e.g. car crashes and ambulance interventions). He is a passionate R user and author of two R packages that ease the management of spatial data in R: osmextract and sfnetworks.</p>"
   website: https://agila5.github.io/
 
