@@ -19,7 +19,7 @@
   name: Text as Data
   events:
     - name: "9:00 - 9:55 Morning session"
-    - name: "10:00 - 11:55 Guest lecture (virtual) by Dr. Jisun An (SMU): Tackling social challenges with data science and AI."
+    - name: "10:00 - 11:55 Guest lecture (virtual) by Dr. Jisun An (SMU): Tackling social challenges with data science and AI. [(video)](https://nus-sg.zoom.us/rec/share/Ue3gNgBQUUJu481pa59drby6ens2O3Del72Rj1icjyB8zqjaJTImv9ibZq2GZ5mx.qpghyIAWiKDa-9bi)"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 17:00 Afternoon session and group activities"
 
