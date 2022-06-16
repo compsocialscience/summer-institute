@@ -83,7 +83,7 @@
      
     - name: "**13:00-14:00** Lunch"
     - name: "**14:00-15:30** Group Exercises"
-    - name: "**15:30-18:00** Tutorial: Introduction to Regular Expressions (Regex) in R Presentation"
+    - name: "**15:30-18:00** Tutorial: Getting started with academic research using the Twitter API v2"
     - name: "**18:00-** Dinner"
     
     
@@ -153,7 +153,10 @@
     - name: "**10:30-12:00** Introduction to Internet Search Data."
     - name: "**12:00-13:00** Tutorial: Machine Learning for Beginners"
     - name: "**13:00-14:00** Lunch"
-    - name: "**14:00-16:00** Tutorial: Linking demographics and geography: *Using gridded population to gain spatial insights in R*"
+    - name: "**14:00-16:00** Tutorial: Linking demographics and geography: *Using gridded population to gain spatial insights in R*
+    <br/> 
+    <br/> 
+    Access to high-resolution population counts is key for local, national and international decision-making and intervention. It supports data-driven planning of critical infrastructures, such as schools, health facilities and transportation networks. WorldPop has developed modelling techniques to estimate population in grid cells of 100m by 100m by disaggregating census-based population totals for the entire world, leveraging the growing availability of products derived from satellite imagery. This level of detail offers the advantage of flexible aggregation of the population estimates within different administrative and functional units, for instance, school catchment areas and health zones. This session will cover the notion of gridded population, a data format at the crossroad of demography and geography. We will then have a brief overview of openly available satellite-imagery-based products that can be used for modelling gridding population and beyond, such as settlement maps. Finally, we will have some hands-on to extract information from a gridded population covering the following r packages for geospatial analysis: `sf` and `tmap`"
     - name: "**16:00-18:00** Group Exercises"
     - name: "**18:00-** Dinner" 
 
