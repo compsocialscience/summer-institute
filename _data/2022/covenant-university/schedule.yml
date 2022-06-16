@@ -113,7 +113,17 @@
     A key goal of HIV prevention and treatment programs worldwide is to end the epidemic of HIV/AIDS by 2030. However, there are limited representative data on HIV/AIDS mortality in many African countries. This presentation will highlight a novel method for collecting representative data on mortality in countries with limited civil registration and vital statistics."
     - name: "**12:30-13:00** Reflections"
     - name: "**13:00-14:00** Lunch"
-    - name: "**14:00-15:30** Tutorial: Automated building footprint extraction from advanced satellite imagery"
+    - name: "**14:00-15:30** Tutorial: Introduction to Spatial Data and Leaflet Mapping in R
+    <br/> 
+    <br/> 
+    This workshop introduces the `sf` package and creating interactive maps using the javascript library leaflet in R. At the end of the course, participants will become familiar with the basic types of spatial data and how to check the coordinate reference system using the sf package in R. Participants will also learn how to:
+    
+    - Build a static map using `sf` and `ggplot2` using `geom_sf`. 
+    
+    - Build a chloropleth map and map with points in R using the javascript library leaflet.
+    
+    - Customise a plot by changing the background tile, polygon colours and fill and adding pop up labels."
+    
     - name: "**15:30-18:00** Group Exercises"
     - name: "**18:00-** Dinner"
 
@@ -143,14 +153,18 @@
     - name: "**10:30-12:00** Introduction to Internet Search Data."
     - name: "**12:00-13:00** Tutorial: Machine Learning for Beginners"
     - name: "**13:00-14:00** Lunch"
-    - name: "**14:00-16:00** Tutorial: Maps with `{leaflet}`"
+    - name: "**14:00-16:00** Tutorial: Linking demographics and geography: *Using gridded population to gain spatial insights in R*"
     - name: "**16:00-18:00** Group Exercises"
     - name: "**18:00-** Dinner" 
 
 - date: 2022-06-27
   events:
     - name: "**09:00-09:15** Housekeeping and Announcements."
-    - name: "**09:15-10:30** Tutorial: Spatial networks in R with `{sfnetworks}`"
+    - name: "**09:15-10:30** Tutorial: `{sfnetwork}`: Tidy Geospatial Networks in RSpatial networks in R
+    <br/> 
+    <br/>    
+    Geospatial networks are graphs embedded in geographical space. That means that both the nodes and edges in the graph can be represented as geographic features: the nodes most commonly as points and the edges as linestrings. The structure and characteristics of geospatial networks go beyond standard graph topology, and therefore it is crucial to explicitly take space into account when analyzing them. The sfnetworks R package is created to facilitate such an integrated workflow. It brings together the sf package for spatial data science and the tidygraph package for standard graph analysis. The core of the package is a data structure that can be provided as input to both the graph analytical functions of tidygraph as well as the spatial analytical functions of sf, without the need for conversion. Additionally, it offers a set of geospatial network-specific functions, such as routines for shortest path calculation, network cleaning and topology modification."
+    
     - name: "**10:30-13:00** Group Exercises"
     - name: "**13:00-14:00** Lunch"
     - name: "**14:00-16:00** Group Exercises"
