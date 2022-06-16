@@ -20,3 +20,5 @@ Participants will have ample opportunities to discuss their ideas and research w
 Housing and some meals will be paid for by grants from CREST. We will also offer a few travel allowances to participants who would need (and request) one. About 20 participants will be invited. Participants are expected to fully attend and participate in the entire two-week program.
 
 [Application materials](https://compsocialscience.github.io/summer-institute/2022/paris/apply) are due February 28.
+
+The evening talks are open to the public. People who want to attend are asked to register upfront through the following [form](https://docs.google.com/forms/d/e/1FAIpQLScyKInktmrKQTJsAG-UQKiVrcz6RV8bLjmMT8ARKjjpA_C5yQ/viewform). The talks will take place on the premises of ENSAE, 5 Avenue Henri le Chatelier, 91120 Palaiseau in room Amphi 200. 
