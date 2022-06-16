@@ -1,3 +1,69 @@
-- date: June 19, 2022
+- date: All times are in Hong Kong Time; *Schedule is Tentative*
+- date: 2022-06-20
+  name: Introduction and Ethics
   events:
-    - name: "Schedule coming soon..."
+    - name: "9:30 - 10:30 Meet-and-greet (Opening remarks by Prof. CHIU Chi Yue, Dean of Social Science, CUHK)"
+    - name: "10:30 - 12:30 Small group exercise on ethics [case study](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day1-intro-ethics/activity/lesson_plan_ethics_participant.md)"
+    - name: "12:30 - 13:30 Talk by Bo Huang"
+
+- date: 2022-06-21
+  name: Collecting Digital Trace Data
+  events:
+    - name: "9:30 - 10:30 Talk by King-wa Fu"
+    - name: "10:45 - 12:15 [Small group exercise on Digital Trace Data](https://sicss.io/2020/materials/day2-digital-trace-data/Group_Exercise_Day_2.html)"
+    - name: "12:30 - 14:30 Research Speed Dating"
+
+- date: 2022-06-22
+  name: Automated Text Analysis
+  events:
+    - name: "9:30 - 10:30 Talk by Thomas Davidson"
+    - name: "10:30 - 12:30 [Group activity](https://sicss.io/2020/materials/day3-text-analysis/Group-Exercise-Day-3.html)"
+    - name: "12:30 - 14:30 Research Speed Dating"
+
+- date: 2022-06-23
+  name: Digital Field Experiment
+  events:
+    - name: "9:30 - 10:30 Talk by Abdullah Almaatouq"
+    - name: "10:45 - 11:45 Talk by instructor (Jaemin Lee)"
+
+- date: 2022-06-24
+  name: Automated Image Analysis/Computational Experiment
+  events:
+    - name: "8:00 - 9:15 International Panel Session: Hidden Career Paths [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSfT4mM3kkBLpBoBIwX6qrrbiH5XubAwVMtOirj9-OaPpTYkrg/viewform)"
+    - name: "9:30 - 11:00 Talk by instructor (Han Zhang)"
+    - name: "11:15 - 12:15 Group Debrief (join research teams)"
+    - name: "12:30 - 14:00 Talk by Ka-Yuet Liu and Ashley Gromis"
+
+- date: 2022-06-25
+  name: Day off
+
+- date: 2022-06-26
+  name: Day off
+
+- date: 2022-06-27
+  name: Social Networks/Surveys
+  events:
+    - name: "09:30 - 10:30 Talk by Tarani Chandola"
+    - name: Work on group projects (optional) and/or participate in SICSS Festival
+    
+- date: 2022-06-28
+  name: Audio Analysis
+  events:
+    - name: "09:30 - 10:30 Talk by Christopher Lucas"
+    - name: "10:45 - 11:45 Talk by Haohan Chen"
+    - name: Work on group projects (optional) and/or participate in SICSS Festival
+
+- date: 2022-06-29
+  name: Image Analysis/Field Experiment
+  events:
+    - name: "9:30 - 10:30 Talk by Zachary Steinert-Threlkeld"
+    - name: "10:45 - 11:45 Talk by David Hagmann"
+    - name: Work on group projects (optional) and/or participate in SICSS Festival
+
+- date: 2021-06-30
+  name: Present group projects and/or participate in SICSS Festival
+  events:
+    - name: "9:00 - 12:00 Present group project proposal and wrap-up discussions"
+
+    
+    
