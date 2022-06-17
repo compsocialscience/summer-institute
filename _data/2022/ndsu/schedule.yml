@@ -13,7 +13,6 @@
   - name: "11:30 - noon Research speed-dating"
   - name: "noon - 13:30 Lunch time"
   - name: "13:30 - 16:00 Small group activity"
-  - name: "16:00 - 17:00 Participant research talks"
   
 - date: June 21, 2022 
   name: Collecting Digital Trace Data
@@ -23,7 +22,7 @@
   - name: "11:30 - noon Research speed-dating"
   - name: "noon - 13:30 Lunch time" 
   - name: "13:30 - 16:00 Small group activity"
-  - name: "16:00 - 17:00 Participant research talks"
+  - name: "16:00 - 17:00 Participant research talks: Jamie Chen, Loi A. Nguyen"
   
 - date: June 22, 2022 
   name: Natural Language Processing  
@@ -33,7 +32,7 @@
   - name: "11:30 - noon Research speed-dating"
   - name: "noon - 13:30 Lunch time & talk by Kaiping Chen (UW Madison)"
   - name: "13:30 - 16:00 Small group activity"
-  - name: "16:00 - 17:00 Participant research talks"
+  - name: "16:00 - 17:00 Participant research talks: Hao Xu, Maral Abdollahi"
   
 - date: June 23, 2022 
   name: Network Analysis   
@@ -42,7 +41,7 @@
   - name: "10:00 - noon Tutorial on network analysis"
   - name: "noon - 13:30 Lunch time & speakers Dan Pemstein & Dane Mataic (NDSU) " 
   - name: "13:30 - 16:00 Small group activity"
-  - name: "16:00 - 17:00 Participant research talks"
+  - name: "16:00 - 17:00 Participant research talks: Prasanna Humagain, Sarah Thorngate"
   
 - date: June 24, 2022 
   name: Data Visualization 
@@ -53,7 +52,7 @@
   - name: "noon - 13:30 Lunch time" 
   - name: "13:30 - 14:30 Campus tour"
   - name: "14:30 - 16:00 Small group activity"
-  - name: "16:00 - 17:00 Participant research talks"
+  - name: "16:00 - 17:00 Participant research talks: Yuming Fang"
   
 - date: June 25, 2022 
   name: Day Off
