@@ -6,7 +6,7 @@
     - name: "13:00 - 14:00 Lunch Break"
     - name: "14:00 - 16:00 APIs and web scraping"
     - name: "16:00 - 18:00 Research talk: Carolina Scarton. 'Supporting professional fact-checking: Can NLP/AI help?'"
-    - name: "Today's materials [here](https://github.com/cjbarrie/sicss_22)"  
+    - name: "Today's materials [here](https://github.com/cjbarrie/sicss_22#day-1)"  
     - name: "Speaker slides [here](https://github.com/cjbarrie/sicss_22/blob/main/speaker_slides/scarton.pdf)"  
     
 - date: 2022-06-14
@@ -16,7 +16,7 @@
     - name: "13:00 - 14:00 Lunch Break"
     - name: "14:00 - 16:00 Intro. Qualitative Digital Research"       
     - name: "16:00 - 18:00 Research talk: Anita Gohdes. 'Distract and Divert: How World Leaders Use Social Media During Contentious Politics'"
-    - name: "Today's materials [here](https://github.com/cjbarrie/sicss_22)"
+    - name: "Today's materials [here](https://github.com/cjbarrie/sicss_22#day-2)"
 
 - date: 2022-06-15
   name: Networks
@@ -26,7 +26,7 @@
     - name: "13:30 - 15:30 Analyzing Twitter networks"
     - name: "15:30 - 16:00 Break"
     - name: "16:00 - 18:00 Research talk: Maria Wolters. 'When Counting and Modelling is not Enough: Case Studies from Health Research'"
-    - name: "Today's materials [here](https://github.com/cjbarrie/sicss_22)"  
+    - name: "Today's materials [here](https://github.com/cjbarrie/sicss_22#day-3)"  
     - name: "Speaker slides [here](https://github.com/cjbarrie/sicss_22/blob/main/speaker_slides/wolters.pdf)"  
 
 - date: 2022-06-16
@@ -38,7 +38,7 @@
     - name: "13:45 - 15:30 Theory of text classification"
     - name: "15:30 - 16:00 Break"
     - name: "16:00 - 18:00 Research talk: Clare Llewellyn. 'Who, or what, influences you online?'"
-    - name: "Today's materials [here](https://github.com/cjbarrie/sicss_22)"
+    - name: "Today's materials [here](https://github.com/cjbarrie/sicss_22#day-4)"
 
 - date: 2022-06-17
   name: Machine learning and prediction
@@ -49,7 +49,7 @@
     - name: "15:30 - 16:00 Break"
     - name: "16:00 - 18:00 Research talk: Benjamin Bach. 'Open Your Eyes: Finding Shapes for Your Data'"
     - name: "Speaker slides [here](https://docs.google.com/presentation/d/e/2PACX-1vTO5zOgRpw4u4XGVHiqXhmdIMQLpQGeUWWlRqvrdYBD2Z-A6JzNOBB0bmYVaoXZGu4oLlgXgWZ8xDFw/pub?start=false&loop=false&delayms=3000)"  
-    - name: "Today's materials [here](https://github.com/cjbarrie/sicss_22)"
+    - name: "Today's materials [here](https://github.com/cjbarrie/sicss_22#day-5)"
 
     
 
