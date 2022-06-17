@@ -31,14 +31,18 @@ opening:
       website: https://provost.howard.edu/about/administration#:~:text=D.%2C%20R.Ph.,and%20the%20Center%20of%20Excellencew
 
    
-keynote:
-  title: SICSS-Howard/Mathematica 2022 Keynote Speakers 
+motivational:
+  title: SICSS-Howard/Mathematica 2022 Motivational Speaker 
   people:
     - name: Paula Moreno
       image: /assets/images/Paula_Moreno.jpeg
       bio: "Paula Moreno founded and directs Manos Visibles, a nonprofit foundation established to promote social inclusion and peace building in Colombia. Moreno served on the Ford Foundation Board of Trustees. From 2007 to 2010, she served as the minister of culture in Colombia—the first Afro-Colombian woman and the youngest person to lead a cabinet-level ministry in the history of the country. In 2010, Moreno was selected by the Council of the Americas as one of the most influential young leaders in the region. The same year, she received the Order of Saint Charles for her work in government. In 2011, she was awarded the Order of the Aztec Eagle by Mexico’s President Felipe de Jesús Calderón Hinojosa for contributing to the improvement of Mexico-Colombia relations. She was a Yale World Fellow and has been a Hubert H. Humphrey Fellow for Urban and Regional Studies at the Massachusetts Institute of Technology. Moreno holds a degree in Italian language and culture from the Italian Institute of Culture and a bachelor of science in industrial engineering from the Autonomous University of Colombia. Studying the sustainable use of biodiversity by local communities in Colombia, Moreno earned a master of philosophy in management studies at the University of Cambridge."
       website: https://www.fordfoundation.org/about/people/paula-moreno/
-    
+
+
+keynote:
+  title: SICSS-Howard/Mathematica 2022 Keynote Speaker 
+  people:
     - name: Safiya Umoja Noble, Ph.D.
       image: /assets/images/Safiya_Umoja_Noble.jpg
       bio: 'Dr. Safiya U. Noble is an internet studies scholar and Professor of Gender Studies and African American Studies at the University of California, Los Angeles (UCLA) where she serves as the Co-Founder and Faculty Director of the UCLA Center for Critical Internet Inquiry (C2i2). She holds affiliations in the School of Education & Information Studies, and is a Research Associate at the Oxford Internet Institute at the University of Oxford where she is a Commissioner on the Oxford Commission on AI & Good Governance (OxCAIGG). In 2021, she was recognized as a MacArthur Foundation Fellow (also known as the "Genius Award") for her ground-breaking work on algorithmic discrimination. In 2022, she was recognized as the inaugural NAACP-Archewell Digital Civil Rights Award recipient. Dr. Noble is a board member of the Cyber Civil Rights Initiative, serving those vulnerable to online harassment, and the Joint Center for Political and Economic Studies, the nation’s oldest Black think tank. She is the author of a best-selling book on racist and sexist algorithmic bias in commercial search engines, entitled Algorithms of Oppression: How Search Engines Reinforce Racism (NYU Press), which has been widely-reviewed in scholarly and popular publications.'
