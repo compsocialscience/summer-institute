@@ -34,8 +34,8 @@
     - name: "11:30 - 12:00 Exercise overview & group formation"
     - name: "12:00 - 1:00  Break for Lunch (provided)"
     - name: "1:00  - 3:30  Small group exercise - scraping hackathon"
-    - name: "3:30 - 4:30  Hackathon group presentations"
-    - name: "4:30 - 5:00  Alum talk by Katharina Lawall"
+    - name: "3:30  - 4:30  Hackathon group presentations"
+    - name: "4:30  - 5:00  SICSS London alumnus talk - Katharina Lawall"
 
 - date: 2022-06-16
   name: "Surveys in a Digital Age (Lead by Prof. Becker)"
@@ -75,7 +75,7 @@
     - name: "9:30  - 10:00 Light breakfast (optional)"
     - name: "10:00 - 12:00 Group Project Breakouts"
     - name: "12:00 - 1:00  Break for Lunch (provided)"
-    - name: "1:00  - 2:00  Tutorial on Project Funding and Presentation Guide"
+    - name: "1:00  - 2:00  Group Project Breakouts"
     - name: "2:00  - 4:00  Guest Keynote Seminar - Stephen Hansen"
     - name: "4:00  - 5:00  Group Project Breakouts"
 
@@ -84,8 +84,7 @@
   events:
     - name: "Location - ICBS Room LG19B"
     - name: "9:30  - 10:00 Light breakfast (optional)"
-    - name: "10:00 - 11:00 Group Project Breakouts"
-    - name: "11:00 - 12:00 Student-led methods tutorials (encouraged) "
+    - name: "10:00 - 12:00 Group Project Breakouts"
     - name: "12:00 - 1:00  Break for Lunch (provided)"
     - name: "1:00  - 2:00  Group Project Breakouts"
     - name: "2:00  - 4:00  Guest Keynote Seminar - Alex Sutherland"
@@ -96,18 +95,19 @@
   events:
     - name: "Location - ICBS Room LTG"
     - name: "9:30  - 10:00 Light breakfast (optional)"
-    - name: "10:00 - 11:00 Group Project Breakouts"
-    - name: "11:00 - 12:00 Student-led methods tutorials (encouraged)"
+    - name: "10:00 - 12:00 Group Project Breakouts"
     - name: "12:00 - 1:00  Break for Lunch (provided)"
-    - name: "1:00  - 3:00  Group Project Breakouts"
-    - name: "3:00  - 5:00  SICSS London Alumni - project updates & social"
+    - name: "1:00  - 4:30  Group Project Breakouts"
+    - name: "4:30  - 5:00  SICSS London Alumnus talk - Ana Macanovic"
 
 - date: 2022-06-24
   name: "Final Presentation Day (Lead by Profs. Yeomans & Becker)"
   events:
     - name: "Location - ICBS Room LTUG"
     - name: "9:30  - 10:00 Light breakfast (optional)"
-    - name: "10:00 - 12:00 Group Project Breakouts"
-    - name: "12:00 - 1:00  Break for Lunch (provided)"
-    - name: "2:00  - 4:00  Final Project presentations"
-    - name: "4:00  - 5:00  Social Hour & wrap-up"
+    - name: "10:00 - 12:30 Group Project Breakouts"
+    - name: "12:30 - 1:30  Break for Lunch (provided)"
+    - name: "1:30  - 2:00  SICSS London Alumnus talk - Maria del Rio Chanona"
+    - name: "2:00  - 2:30  SICSS London Alumnus talk - Vincent Straub"
+    - name: "2:30  - 4:30  Final Project presentations"
+    - name: "4:30  - 5:00  Social Hour & wrap-up"
