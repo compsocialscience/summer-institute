@@ -8,7 +8,7 @@ faculty:
    
     - name: Naniette H. Coleman
       image: /assets/images/NanietteHeadshot.jpeg
-      bio: "Naniette H. Coleman is a Ph.D. candidate in the Sociology Department at the University of California Berkeley and a UC-National Lab In-Residence Graduate Fellow at Los Alamos National Lab. Since 2016 Naniette has directed the AAC&U award winning Interdisciplinary Research Group on Privacy at Berkeley. Naniette is an affiliate of the Institute for the Study of Societal Issues, the Center for Long-term Cybersecurity, and the Center for Technology, Society, and Policy at Berkeley as well as the Belfer Center for Science and International Affairs, and Berkman-Klein Center for the Internet and Society at Harvard University. Naniette’s research sits at the intersection of the sociology of culture and organizations and focuses on cybersecurity, surveillance, and privacy in the US context. Specifically Naniette’s research examines how organizations assess risk, make decisions, and respond to data breaches and organizational compliance with state, federal, and international privacy laws.  Naniette holds a Master of Public Administration with a specialization in Democracy, Politics, and Institutions from the Harvard Kennedy School of Government, and both an M.A. in Economics and a B.A. in Communication from the University at Buffalo, SUNY.  A non-traditional student, Naniette’s prior professional experience includes local, state, and federal service, as well as work for two international organizations, and two universities."
+      bio: "Naniette H. Coleman is a Ph.D. candidate in the Sociology Department at the University of California, Berkeley and a UC-National Lab In-Residence Graduate Fellow at Los Alamos National Lab. Since 2016, Naniette has directed the AAC&U award winning Interdisciplinary Research Group on Privacy at Berkeley. Naniette is an affiliate of the Institute for the Study of Societal Issues, the Center for Long-term Cybersecurity, and the Center for Technology, Society, and Policy at Berkeley as well as the Belfer Center for Science and International Affairs, and Berkman-Klein Center for the Internet and Society at Harvard University. Naniette’s research sits at the intersection of the sociology of culture and organizations and focuses on cybersecurity, surveillance, and privacy in the US context. Specifically Naniette’s research examines how organizations assess risk, make decisions, and respond to data breaches and organizational compliance with state, federal, and international privacy laws.  Naniette holds a Master of Public Administration with a specialization in Democracy, Politics, and Institutions from the Harvard Kennedy School of Government, and both an M.A. in Economics and a B.A. in Communication from the University at Buffalo, SUNY.  A non-traditional student, Naniette’s prior professional experience includes local, state, and federal service, as well as work for two international organizations, and two universities."
       website: http://naniettecoleman.com
  
     - name: Nicole Jenkins, Ph.D.
@@ -36,7 +36,7 @@ motivational:
   people:
     - name: Paula Moreno
       image: /assets/images/Paula_Moreno.jpeg
-      bio: "Paula Moreno founded and directs Manos Visibles, a nonprofit foundation established to promote social inclusion and peace building in Colombia. Moreno served on the Ford Foundation Board of Trustees. From 2007 to 2010, she served as the minister of culture in Colombia—the first Afro-Colombian woman and the youngest person to lead a cabinet-level ministry in the history of the country. In 2010, Moreno was selected by the Council of the Americas as one of the most influential young leaders in the region. The same year, she received the Order of Saint Charles for her work in government. In 2011, she was awarded the Order of the Aztec Eagle by Mexico’s President Felipe de Jesús Calderón Hinojosa for contributing to the improvement of Mexico-Colombia relations. She was a Yale World Fellow and has been a Hubert H. Humphrey Fellow for Urban and Regional Studies at the Massachusetts Institute of Technology. Moreno holds a degree in Italian language and culture from the Italian Institute of Culture and a bachelor of science in industrial engineering from the Autonomous University of Colombia. Studying the sustainable use of biodiversity by local communities in Colombia, Moreno earned a master of philosophy in management studies at the University of Cambridge."
+      bio: "Paula Moreno founded and directs Manos Visibles, a non-profit foundation established to promote social inclusion and peace building in Colombia. Moreno served on the Ford Foundation Board of Trustees. From 2007 to 2010, she served as the Minister of Culture in Colombia—the first Afro-Colombian woman and the youngest person to lead a cabinet-level ministry in the history of the country. In 2010, Moreno was selected by the Council of the Americas as one of the most influential young leaders in the region. The same year, she received the Order of Saint Charles for her work in government. In 2011, she was awarded the Order of the Aztec Eagle by Mexico’s President Felipe de Jesús Calderón Hinojosa for contributing to the improvement of Mexico-Colombia relations. She was a Yale World Fellow and has been a Hubert H. Humphrey Fellow for Urban and Regional Studies at the Massachusetts Institute of Technology. Moreno holds a degree in Italian language and culture from the Italian Institute of Culture and a bachelor of science in industrial engineering from the Autonomous University of Colombia. Studying the sustainable use of biodiversity by local communities in Colombia, Moreno earned a master of philosophy in management studies at the University of Cambridge."
       website: https://www.fordfoundation.org/about/people/paula-moreno/
 
 
@@ -65,7 +65,7 @@ speakers:
    
     - name: Karen Levy, Ph.D., J.D.
       image: /assets/images/Karen_Levy.jpg
-      bio: "Karen Levy is an assistant professor in the Department of Information Science at Cornell University, and associate member of the faculty of Cornell Law School. She researches how law and technology interact to regulate social life, with particular focus on social and organizational aspects of surveillance. Much of Dr. Levy's research analyzes the uses of monitoring for social control in various contexts, from long-haul trucking to intimate relationships. She is also interested in how data collection uniquely impacts, and is contested by, marginalized populations. Dr. Levy is also a fellow at the Data and Society Research Institute in New York City. She holds a Ph.D. in Sociology from Princeton University and a J.D. from Indiana University Maurer School of Law. Dr. Levy previously served as a law clerk in the United States Federal Courts."
+      bio: "Karen Levy is an Assistant Professor in the Department of Information Science at Cornell University, and associate member of the faculty of Cornell Law School. She researches how law and technology interact to regulate social life, with particular focus on social and organizational aspects of surveillance. Much of Dr. Levy's research analyzes the uses of monitoring for social control in various contexts, from long-haul trucking to intimate relationships. She is also interested in how data collection uniquely impacts, and is contested by, marginalized populations. Dr. Levy is also a fellow at the Data and Society Research Institute in New York City. She holds a Ph.D. in Sociology from Princeton University and a J.D. from Indiana University Maurer School of Law. Dr. Levy previously served as a law clerk in the United States Federal Courts."
       website: https://sts.cornell.edu/karen-levy
     
     - name: Brandeis Marshall, Ph.D.
@@ -98,7 +98,7 @@ panels:
   people:
     - name: Andre Brock, Ph.D.
       image: /assets/images/Andre_Brock.jpeg
-      bio: 'André Brock is an associate professor of media studies at Georgia Tech. He writes on Western technoculture, Black technoculture, and digital media. His scholarship examines Black and white representations in social media, videogames, weblogs, and other digital media. He has also published influential research on digital research methods. His award-winning book, "Distributed Blackness: African American Cybercultures", theorizes Black everyday lives as Black joy, mediated by networked digital technologies.'
+      bio: 'André Brock is an Associate Professor of media studies at Georgia Tech. He writes on Western technoculture, Black technoculture, and digital media. His scholarship examines Black and white representations in social media, videogames, weblogs, and other digital media. He has also published influential research on digital research methods. His award-winning book, "Distributed Blackness: African American Cybercultures", theorizes Black everyday lives as Black joy, mediated by networked digital technologies.'
       website: https://andrebrock.academia.edu/
     
     - name: Courtney D. Cogburn, Ph.D.
@@ -210,7 +210,7 @@ participants:
   people:
     - name: Andrea Adams 
       image: /assets/images/Andrea_Adams.jpg
-      bio: "Andrea Adams, Ph.D., J.D., M.B.A., is an Assistant Professor at UDC whose research is focused on data privacy, crowdsourcing, and gender-based violence. Andrea teaches ethics in the Criminal Justice Bachelors/Homeland Security Master’s program. Andrea is a Board Advisor for Red Dot Foundation, a crowdsourcing smartphone app that maps gender-based violence."
+      bio: "Andrea Adams, Ph.D., J.D., M.B.A., is an Assistant Professor at University of the District of Columbia whose research is focused on data privacy, crowdsourcing, and gender-based violence. Andrea teaches ethics in the Criminal Justice Bachelors/Homeland Security Master’s program. Andrea is a Board Advisor for Red Dot Foundation, a crowdsourcing smartphone app that maps gender-based violence."
       website: https://www.linkedin.com/in/andrea-adams-esq-03039162?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXrzrkTT4TG6KSZydV6i%2FXg%3D%3D
 
     - name: Nayantara Biswas
@@ -220,7 +220,7 @@ participants:
     
     - name: JoVontae Butts
       image: /assets/images/JoVontae_Butts.jpg
-      bio: "JoVontae Butts is a PhD student at Florida State University, and was born and raised in Pontiac, Michigan. Unfortunately seeing great inequality as a young boy, has led to his great interest in the causes of inequalities and the measures that can be taken to combat them."
+      bio: "I'm a Ph.D. student at Florida State University, born and raised in Pontiac, Michigan. Unfortunately, seeing great inequality as a young boy, I have great interest in the causes of inequalities and the measures that can be taken to combat them. "
       website: https://www.linkedin.com/in/jovontae-butts/
     
     - name: Renee Clarke
@@ -230,12 +230,12 @@ participants:
  
     - name: Rumeysanur Erikli Dogan
       image: /assets/images/Rumeysanur_Erikli_Dogan.jpg
-      bio: "Rumeysanur Erikli Dogan is a Ph. D. student in the Sociology Department at the Marmara University. She received a double major in the Departments of Political Science and International Relations, and History at the Bogazici University, and earned her M.A in the Sociology and Social Anthropology Department at the CEU."
+      bio: "Rumeysanur Erikli Dogan is a Ph.D. student in the Sociology Department at the Marmara University. She received a double major in the Departments of Political Science and International Relations, and History at the Bogazici University, and earned her M.A in the Sociology and Social Anthropology Department at the Central European University."
       website: https://www.linkedin.com/in/rumeysanur-do%C4%9Fan-70425153/
 
     - name: Grace Flores-Robles
       image: /assets/images/Grace_Flores-Robles.jpeg
-      bio: "Grace Flores-Robles is a fourth year Psychology PhD student at the CUNY Graduate Center. Her research examines how people see and sanction system-level injustice."
+      bio: "Grace Flores-Robles is a fourth year Psychology Ph.D. student at the City University of New York Graduate Center. Her research examines how people see and sanction system-level injustice."
       website: http://www.cunybasp.org/students#flores-robles
  
     - name: Erica Goto
@@ -245,7 +245,7 @@ participants:
 
     - name: Rebecca Hsu
       image: /assets/images/Rebecca_Hsu.jpg
-      bio: "Rebecca Hsu is an assistant professor of Economics at Howard University and their research interests are focused on crime and especially intimate partner violence."
+      bio: "Rebecca Hsu is an Assistant Professor of Economics at Howard University and their research interests are focused on crime and especially intimate partner violence."
       website: https://linchihsu.weebly.com/
 
     - name: Kristina Lee
@@ -255,7 +255,7 @@ participants:
  
     - name: Daniel Lobo
       image: /assets/images/Daniel_Lobo.jpg
-      bio: "Daniel Lobo is a PhD student in the Department of Sociology at UC Berkeley. As a cultural sociologist, he is interested in understanding the cultural processes of schools and firms that lead to the reproduction of inequality in education and the labor market."
+      bio: "Daniel Lobo is a Ph.D. student in the Department of Sociology at University of California, Berkeley. As a cultural sociologist, he is interested in understanding the cultural processes of schools and firms that lead to the reproduction of inequality in education and the labor market."
       website: https://www.linkedin.com/in/daniel-lobo-3a166763/
 
     - name: Amber Mackey
@@ -275,12 +275,12 @@ participants:
      
     - name: Getamesay Shiwenzu Nigussie
       image: /assets/images/Getamesay_Shiwenzu_Nigussie.jpg
-      bio: "Getamesay Nigussie is an environmentalist and development practitioner with extensive research and development experience in agriculture, natural resources, and development studies. Getamesay is currently a Ph.D. student in Environmental science with research interests in sustainable groundwater and land management. Getamesay also has expertise in development studies, agricultural policy, and agrarian transformations."
+      bio: "Getamesay Nigussie is an environmentalist and development practitioner with extensive research and development experience in agriculture, natural resources, and development studies. Getamesay is currently a Ph.D. student in Environmental science at Addis Ababa University, College of Natural and Computational Sciences with research interests in sustainable groundwater and land management. Getamesay also has expertise in development studies, agricultural policy, and agrarian transformations."
       website: https://www.linkedin.com/in/getamesay-nigussie-26a51138/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BdxwA7ntZSpah%2FEmvQx9B6w%3D%3D
 
     - name: Susana Quiros
       image: /assets/images/Susana_Quiros.jpg
-      bio: "Susana Quiros, has a PhD in Sociology and Demography from Penn State University. An Assistant Teaching Professor at the University of Missouri in the Department of Public Health, she investigates how legal status influences immigrant health, and how anti-immigrant policies may have multigenerational effects."
+      bio: "Susana Quiros, has a Ph.D. in Sociology and Demography from Pennsylvania State University. As an Assistant Teaching Professor at the University of Missouri in the Department of Public Health, she investigates how legal status influences immigrant health, and how anti-immigrant policies may have multigenerational effects."
       website: https://www.linkedin.com/in/susanaquiros
 
     - name: Asha Yadav
@@ -290,7 +290,7 @@ participants:
       
     - name: Bing-Jie Yen
       image: /assets/images/Bing-Jie_Yen.png
-      bio: "Bing-Jie’s scholarly niche is at the intersection of public health, economics, and data science. Her research applies quantitative method to healthcare accessibility and equity for vulnerable populations. In her ongoing dissertation, she makes longitudinal assessments of mental healthcare utilization and the risk of suicidal behaviors with causal inference methods."
+      bio: "Bing-Jie’s scholarly niche is at the intersection of public health, economics, and data science. Her research applies quantitative method to healthcare accessibility and equity for vulnerable populations. In her ongoing dissertation at Indiana University Bloomington, she makes longitudinal assessments of mental healthcare utilization and the risk of suicidal behaviors with causal inference methods."
       website: https://www.linkedin.com/in/jennifer-bing-jie-yen/
 
 
@@ -299,7 +299,7 @@ organizers:
   people:
     - name: Naniette H. Coleman
       image: /assets/images/NanietteHeadshot.jpeg
-      bio: "Naniette H. Coleman is a PhD candidate in Sociology at the University of California Berkeley and a multi-year UC-National Laboratory Graduate Fellow (Los Alamos). She is the only social scientist selected for this distinction in the history of the program. Since 2016 Naniette has directed the AAC&U award winning Interdisciplinary Research Group on Privacy (Coleman Research Lab) at Berkeley. Naniette is an affiliate of the Institute for the Study of Societal Issues, the Center for Long-term Cybersecurity, and the Center for Technology, Society, and Policy at Berkeley as well as the Belfer Center for Science and International Affairs, and Berkman-Klein Center for the Internet and Society at Harvard University.  Naniette’s work sits at the intersection of the sociology of culture and organizations and focuses on cybersecurity, surveillance, and privacy in the US context. Specifically, Naniette’s research examines how organizations assess risk, make decisions, and respond to data breaches and organizational compliance with state, federal, and international privacy laws. Naniette holds a Master of Public Administration with a specialization in Democracy, Politics, and Institutions from the Harvard Kennedy School of Government, and both an M.A. in Economics and a B.A. in Communication from the University at Buffalo, SUNY. A non-traditional student, Naniette’s prior professional experience includes local, state, and federal service, as well as work for two international organizations, and two universities. "
+      bio: "Naniette H. Coleman is a Ph.D. candidate in Sociology at the University of California, Berkeley and a multi-year UC-National Laboratory Graduate Fellow (Los Alamos). She is the only social scientist selected for this distinction in the history of the program. Since 2016, Naniette has directed the AAC&U award winning Interdisciplinary Research Group on Privacy (Coleman Research Lab) at Berkeley. Naniette is an affiliate of the Institute for the Study of Societal Issues, the Center for Long-term Cybersecurity, and the Center for Technology, Society, and Policy at Berkeley as well as the Belfer Center for Science and International Affairs, and Berkman-Klein Center for the Internet and Society at Harvard University.  Naniette’s work sits at the intersection of the sociology of culture and organizations and focuses on cybersecurity, surveillance, and privacy in the US context. Specifically, Naniette’s research examines how organizations assess risk, make decisions, and respond to data breaches and organizational compliance with state, federal, and international privacy laws. Naniette holds a Master of Public Administration with a specialization in Democracy, Politics, and Institutions from the Harvard Kennedy School of Government, and both an M.A. in Economics and a B.A. in Communication from the University at Buffalo, SUNY. A non-traditional student, Naniette’s prior professional experience includes local, state, and federal service, as well as work for two international organizations, and two universities. "
       website: http://naniettecoleman.com
 
 
@@ -308,7 +308,7 @@ planning_team:
   people:
     - name: Akira Bell
       image: /assets/images/AkiraBell.jpeg
-      bio: "Akira Bell is Mathematica’s senior vice president and chief information officer. She oversees technology infrastructure and governance and leads strategy for delivering innovation in support of client and internal business function needs. Before joining Mathematica in 2018, Bell led the IT function for Aramark’s higher education business unit. Previously, she served as a divisional chief information officer within the Hess Corporation and held various program management, application development, and technology consulting roles with UnitedHealth, IBM Global Services, and PricewaterhouseCoopers. While at Hess, she guided IT strategy during the acquisition of its retail division by Marathon Speedway and was part of the team recognized by CIO magazine with a CIO100 Award for delivering innovative IT solutions during Hurricane Sandy recovery. Bell earned a B.S.E. in operations research from Princeton University, where she serves as an alumni mentor for women in science, technology, engineering, and mathematics."
+      bio: "Akira Bell is Mathematica’s Senior Vice President and Chief Information Officer. She oversees technology infrastructure and governance and leads strategy for delivering innovation in support of client and internal business function needs. Before joining Mathematica in 2018, Bell led the IT function for Aramark’s higher education business unit. Previously, she served as a divisional Chief Information Officer within the Hess Corporation and held various program management, application development, and technology consulting roles with UnitedHealth, IBM Global Services, and PricewaterhouseCoopers. While at Hess, she guided IT strategy during the acquisition of its retail division by Marathon Speedway and was part of the team recognized by CIO magazine with a CIO100 Award for delivering innovative IT solutions during Hurricane Sandy recovery. Bell earned a B.S.E. in Operations Research from Princeton University, where she serves as an alumni mentor for women in Science, Technology, Engineering, and Mathematics."
       website: https://www.mathematica.org/staff/akira-bell 
       
     - name: Calvin Hadley
