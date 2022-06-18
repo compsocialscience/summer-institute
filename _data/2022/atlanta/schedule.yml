@@ -57,7 +57,7 @@
   events:
     - name: "10:00 - 12:00 Announcements & Group Project Work"
     - name: "12:00 - 1:00 Lunch"
-    - name: "1:00 - 2:00 Guest Lecture: <a href=https://github.com/compsocialscience/summer-institute/tree/master/assets/Sandeep Soni_Lauren F. Klein_Jacob Eisenstein.pdf>Lauren Klein</a>, Emory Digital Humanities Lab"
+    - name: "1:00 - 2:00 Guest Lecture: <a ../../../summer-institute/tree/master/assets/Sandeep Soni_Lauren F. Klein_Jacob Eisenstein.pdf>Lauren Klein</a>, Emory Digital Humanities Lab"
     - name: "2:00 - 4:00 Group Project Work"
 
 - date: 2022-06-28
