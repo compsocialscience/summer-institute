@@ -1,4 +1,4 @@
-- date: All times are in Central Standard Time (CST); *Schedule is subject to change*
+- date: All times are in Central Daylight Time (CDT); *Schedule is subject to change*
 
 - date: June 19, 2022
   name: Welcoming Dinner
@@ -8,12 +8,11 @@
 - date: June 20, 2022 
   name: Introduction & Ethics
   events:
-  - name: "9:30 - 10:00 Introduction and logistics"
-  - name: "10:00 - 11:30 Overview of CSS and ethics"
+  - name: "9:30 - 10:30 Introduction and logistics"
+  - name: "10:30 - 11:30 Overview of CSS and ethics"
   - name: "11:30 - noon Research speed-dating"
   - name: "noon - 13:30 Lunch time"
   - name: "13:30 - 16:00 Small group activity"
-  - name: "16:00 - 17:00 Participant research talks"
   
 - date: June 21, 2022 
   name: Collecting Digital Trace Data
@@ -23,17 +22,17 @@
   - name: "11:30 - noon Research speed-dating"
   - name: "noon - 13:30 Lunch time" 
   - name: "13:30 - 16:00 Small group activity"
-  - name: "16:00 - 17:00 Participant research talks"
+  - name: "16:00 - 17:00 Participant research talks: Jamie Chen, Loi A. Nguyen"
   
 - date: June 22, 2022 
   name: Natural Language Processing  
   events:
   - name: "9:30 - 10:00 Logistics"
-  - name: "10:00 - 11:00 Talk by Kaiping Chen (UW Madison)"
-  - name: "11:00 - 12:30 Tutorial on NLP and sentiment analysis"
-  - name: "12:30 - 13:30 Lunch time"
+  - name: "10:00 - 11:30 Tutorial on NLP and sentiment analysis"
+  - name: "11:30 - noon Research speed-dating"
+  - name: "noon - 13:30 Lunch time & talk by Kaiping Chen (UW Madison)"
   - name: "13:30 - 16:00 Small group activity"
-  - name: "16:00 - 17:00 Participant research talks"
+  - name: "16:00 - 17:00 Participant research talks: Hao Xu, Maral Abdollahi"
   
 - date: June 23, 2022 
   name: Network Analysis   
@@ -42,7 +41,7 @@
   - name: "10:00 - noon Tutorial on network analysis"
   - name: "noon - 13:30 Lunch time & speakers Dan Pemstein & Dane Mataic (NDSU) " 
   - name: "13:30 - 16:00 Small group activity"
-  - name: "16:00 - 17:00 Participant research talks"
+  - name: "16:00 - 17:00 Participant research talks: Prasanna Humagain, Sarah Thorngate, Lei Jiang"
   
 - date: June 24, 2022 
   name: Data Visualization 
@@ -51,8 +50,9 @@
   - name: "10:00 - 11:30 Tutorial on data visualization"
   - name: "11:30 - noon Group formation"
   - name: "noon - 13:30 Lunch time" 
-  - name: "13:30 - 16:00 Small group activity"
-  - name: "16:00 - 17:00 Participant research talks"
+  - name: "13:30 - 14:30 Campus tour"
+  - name: "14:30 - 16:00 Small group activity"
+  - name: "16:00 - 17:00 Participant research talks: Yuming Fang, Sara Bano"
   
 - date: June 25, 2022 
   name: Day Off

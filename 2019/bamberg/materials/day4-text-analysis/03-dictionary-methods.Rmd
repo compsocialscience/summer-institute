@@ -165,14 +165,14 @@ trumptweets %>% ggplot(aes(x = date, y = sentiment)) +
 knitr::include_graphics('figures/sentiment_diff.png')
 ```
 
-\tiny\url{{https://doi.org/10.1145/2512938.2512951}}
+[https://doi.org/10.1145/2512938.2512951](https://doi.org/10.1145/2512938.2512951)
 
 ## When to use dictionary-based approaches?
 
 - quality of dictionary-based methods depends heavily upon the match between learning-corpus and corpus of interest
 - creating your own dictionaries might often be the best option, but is time sensitive
 - if you are looking for specific things rather than for categorizing documents, dictionary methods often perform better than more sophisticated techniques (e.g. topic modeling)
-- computers-assisted methods can be helpful: https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12291
+- computers-assisted methods can be helpful: [https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12291](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12291)
 
 ##
 

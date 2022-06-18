@@ -26,6 +26,12 @@
   image: /assets/images/agromis.png
   bio: "Ashley Gromis is a postdoctoral research associate at the Eviction Lab of Princeton University. She completed her PhD in sociology at the University of California, Los Angeles. Her research focuses on how social networks and local communities provide the social context for individual decisions and events that aggregate to form macro-level patterns across space and time."
   website: https://sociology.princeton.edu/people/ashley-gromis
+  
+
+- name: David Hagmann
+  image: /assets/images/davidhagmann.jpeg
+  bio: "David Hagmann is an assistant professor at the Department of Management, The Hong Kong University of Science and Technology. He received his PhD from the Department of Social and Decision Sciences at Carnegie Mellon University. His research draws on experimental tools from psychology and economics to study how people engage with information and how this affects the decisions they make."
+  website: https://www.dhagmann.com/
 
 
 - name: Bo Huang
@@ -42,7 +48,7 @@
 
 - name: Christopher Lucas
   image: /assets/images/christopherlucas.png
-  bio: "Christopher Lucas is an Assistant Professor in the Department of Political Science and a faculty affiliate with the Division of Computational & Data Sciences at Washington University in St. Louis. He received her Ph.D. in Political Science from Harvard University. Lucas studies methodology, political communication, and the media. His research develops and applies computational models for the statistical analysis of speech audio."
+  bio: "Christopher Lucas is an Assistant Professor in the Department of Political Science and a faculty affiliate with the Division of Computational & Data Sciences at Washington University in St. Louis. He received his Ph.D. in Political Science from Harvard University. Lucas studies methodology, political communication, and the media. His research develops and applies computational models for the statistical analysis of speech audio."
   website: http://christopherlucas.org/
 
 
