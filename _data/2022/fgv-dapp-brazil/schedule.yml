@@ -1,9 +1,9 @@
 - date: All times are in Brazilian (Brasilia - Federal District) Time.
-  name: We intend to run our partner edition mostly in Portuguese.
+  name: We intend to run our partner edition mostly in Portuguese. 
 
 
 - date: 2022-06-20
-  name: Introduction and Ethics
+  name: Introduction and Ethics: Zoom [link](https://ide-fgv-br.zoom.us/j/96903346674?pwd=RmJUZUxVY3AydXNIM2h5OXErUG1Sdz09)
   events:
     - name: "10:00 - 11:00 Introduction and logistics"
     - name: "11:00 - 12:00 Small group discussions [Lesson plan](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small_group_discussions.md)"
@@ -16,7 +16,7 @@
     
 
 - date: 2022-06-21
-  name: Collecting Digital Trace Data
+  name: Collecting Digital Trace Data: Zoom [link](https://ide-fgv-br.zoom.us/j/96903346674?pwd=RmJUZUxVY3AydXNIM2h5OXErUG1Sdz09)
   events:
     - name: "10:00 - 10:15 Logistics and introduction to group exercise [Lesson Instructions](https://docs.google.com/document/d/1EB39VqUOurqBB_5KJQovwEFgLdQsg9Yq_uChw-TQtD8/edit#heading=h.fekk35dbtfd)"
     - name: "10:15 - 11:30 Designing a Research Question (Small Groups)"
@@ -33,7 +33,7 @@
 
 
 - date: 2022-06-22
-  name: Automated Text Analysis
+  name: Automated Text Analysis: Zoom [link](https://ide-fgv-br.zoom.us/j/96903346674?pwd=RmJUZUxVY3AydXNIM2h5OXErUG1Sdz09)
   events:
     - name: "10:00 - 10:15 Logistics and introduction to group exercise"
     - name: "10:15 - 11:30 Workshop: Modern NLP Techniques, Lucas Roberto (FGV DAPP)"
@@ -48,7 +48,7 @@
 
 
 - date: 2022-06-23
-  name: Surveys in the Digital Age
+  name: Surveys in the Digital Age: Zoom [link](https://ide-fgv-br.zoom.us/j/96903346674?pwd=RmJUZUxVY3AydXNIM2h5OXErUG1Sdz09)
   events:
     - name: "10:00 - 11:00: Tutorial on Facebook Ads"
     - name: "11:00 - 11:15: Introduction to the group exercise [Lesson Instructions](https://docs.google.com/document/d/1qWxzeoSg0Awmqb5xrJqN0S4MpuOnOGilKbNiR1xe44E/edit?usp=sharing)"
@@ -64,7 +64,7 @@
 
 
 - date: 2022-06-24
-  name: Research Speed Dating
+  name: Research Speed Dating: Zoom [link](https://ide-fgv-br.zoom.us/j/96903346674?pwd=RmJUZUxVY3AydXNIM2h5OXErUG1Sdz09)
   events:
     - name: "10:15 - 10:30 Research Speed Dating Logistics [Slides for Instructors](https://tiagoventura.github.io/sicss_presentation/slides-research-speed-dating#1)"
     - name: "10:15 - 11:30 Research Speed Dating Maximally Similar Groups"
@@ -78,14 +78,14 @@
   name: Day off
 
 - date: 2022-06-27
-  name: Workshop in Social Network Models + Work on Group Projects
+  name: Workshop in Social Network Models + Work on Group Projects: Zoom [link](https://ide-fgv-br.zoom.us/j/96903346674?pwd=RmJUZUxVY3AydXNIM2h5OXErUG1Sdz09)
   events:
     - name: "10:00 - 11:00 - Workshop on Social Networks with Polyana Barbosa"
     - name: "11:00 - 12:00 - Office hours for the workshop"
     - name: "Rest of the day: Work on your group projects"
 
 - date: 2022-06-28
-  name: Workshop Poststratification + Work on Group Projects
+  name: Workshop Poststratification + Work on Group Projects : Zoom [link](https://ide-fgv-br.zoom.us/j/96903346674?pwd=RmJUZUxVY3AydXNIM2h5OXErUG1Sdz09)
   events:
     - name: "10:00 - 11:00: Workshop on Poststratification Fernando Meireles"
     - name: "11:00 - 12:00 Office hours for the workshop"
@@ -93,13 +93,13 @@
 
 
 - date: 2022-06-29
-  name: Work on group projects (optional) 
+  name: Work on group projects (optional): Zoom [link](https://ide-fgv-br.zoom.us/j/96903346674?pwd=RmJUZUxVY3AydXNIM2h5OXErUG1Sdz09)
   events:
     - name: "All-day: group projects"
 
 
 - date: 2022-06-30
-  name: Work on group projects + Final Presentation
+  name: Work on group projects + Final Presentation: Zoom [link](https://ide-fgv-br.zoom.us/j/96903346674?pwd=RmJUZUxVY3AydXNIM2h5OXErUG1Sdz09)
   events:
     - name: "10:00 - 12:00: Office Hours: How to submit the SICSS project for the internal grant?"
     - name: "14:00 - 4:00: Present group projects - Invite all from SICSS 2021"
