@@ -1,4 +1,4 @@
-# Mateirials SICSS FGV DAPP Brazil
+# Materials SICSS FGV DAPP Brazil
 
 This doc links to the sources of all the materials used during the SICSS FGV DAPP Brazil 2022. Most of the materials are in portuguese. 
 
