@@ -14,11 +14,10 @@
   name: APIs and Digital Trace Data
   events:
     - name: "**09:00-9:30** Coffee/tea"
-    - name: "**9:30-10:30** Collecting digital trace data <br/> *Tristram Alexander*"
-    - name: "**10:30-12:00** Academic research using the Twitter API (workshop)
+    - name: "**9:30-11:00** Collecting digital trace data <br/> *Tristram Alexander*"
+    - name: "**11:00-12:30** Academic research using the Twitter API (workshop)
     <br/> *Suhem Parack*
     <br/> This workshop is open to the public, register [here](https://www.eventbrite.com.au/e/354293430187)"
-    - name: "**12:00-12:30** Collecting digital trace data <br/> *Tristram Alexander*"
     - name: "**12:30-13:00** Lunch break"
     - name: "**13:00-14:00** Research data management
     <br/> *Simon Musgrave, Ben Foley, Sam Hames*
