@@ -8,11 +8,22 @@
   bio: "<p align='justify'>Diego Alburez-Gutierrez (PhD in Demography, London School of Economics 2018) is a Research Scientist at the Max Planck Institute for Demographic Research, where he specialises in inter-generational demography. His work integrates non-traditional data (e.g., from digital or computational sources) with established demographic sources (e.g. censuses and population registers).</p>"
   website: http://alburez.me/
   
+- name: Lateef Amusa
+  image: /assets/images/LAMusa.JPG
+  bio: "<p align='justify'>Lateef Amusa is a Statistician and Data Scientist with a PhD in Applied Statistics from the University of Kwazulu-Natal, South Africa. He is a faculty member in the Department of Statistics, University of Ilorin, and currently a post-doctoral fellow in the Centre for Applied Data Science at the University of Johannesburg, South Africa. Lateef is a tech enthusiast and is mainly interested in big data analytics and machine learning. He attended the second SICSS held at the Unversity of Capetown in 2019.</p>"
+  website: 
+  
 - name: Laurie Baker
   image: /assets/images/LBaker.jpg
   bio: "<p align='justify'>Laurie is a disease ecologist and marine biologist by training. She earned her BSc and MSc in marine biology at the University of St. Andrews and Dalhousie University (MSc) respectively, and her doctorate in epidemiology at the University of Glasgow. Laurie is a certified RStudio Instructor with a keen interest in programming, data science, and the use of novel data sources in research. The core of her research focuses on spatial and temporal patterns in human and biological systems including disease spread, animal movement, and fisheries management.</p>"
   website: https://lauriebaker.rbind.io/
 
+
+- name: Édith Darin
+  image: /assets/images/EDarin.jpg
+  bio: "<p align='justify'>Édith Darin has been mapping and estimating population for the WorldPop research group at the University of Southampton since 2018. She developed tailored advanced statistical models to tackle outdated or incomplete population count mainly in sub-Saharan Africa. She led collaborations with the Burkina Faso and the Mali Statistics offices to fill the gaps in their census (2020 and 2022) caused by security challenges. To ensure open knowledge transfer she developed a one-week course on Bayesian population model for census support in close partnership with UNFPA and the Brazilian Statistics Office. Her work has been featured in several peer-reviewed publications (Remote Sensing, Nature Communications, Gates Open Research) and relayed by different institutions (Bill and Melinda Gates Foundation, GRID3, French Institute for Demography, UNFPA). Her background is in Statistics (Paris Graduate School of Economics, Statistics, and Finance), social sciences (École Normale Supérieure) and geographic systems (University of Southampton).</p>"
+  website: https://edarin.github.io/thatsme
+  
 - name: Robert Yao Djogbenou
   image: 
   bio: "<p align='justify'>Robert Djogbenou is a PhD candidate in Demography at the Université de Montréal. He has a Post Graduate Program in Artificial Intelligence and Machine Learning at the University of Texas at Austin. His research uses computational approaches to study immigrants’ socio-cultural integration in Canada. His other interests include reproductive health and family dynamics in sub-Saharan Africa. He is affiliated with the Lab on quantitative and computational social science at the Université du Québec à Montréal.</p>"
@@ -42,6 +53,11 @@
   image: /assets/images/OOladipupo.PNG
   bio: "<p align='justify'>Olufunke Oyejoke Oladipupo is a professor of Computer Science (Artificial intelligence and Data Management), Covenant University, Ota, Ogun State with reputable high-impact publications and 18 years university teaching experience. She holds B.Sc in Computer Science from the University of Ilorin, Kwara State,  M.Sc Computer Science from Obafemi Awolowo University, Ile-Ife and Ph.D. in Computer Science from Covenant University, Ota, Nigeria. Her research interests include Data mining, Machine Learning, Multi-Criteria Decision Making (MCDM), intelligent systems and Perceptual Computing in Education and Medical domains. She is professionally certified in IBM Predictive Analytic Modelling.  She is a member of the Computer Professional Registration Council of Nigeria. She is also a member of research bodies such as Multi-Criteria Decision Making (MCDM), and SMCS TC on Soft Computing.  She is a member of the Editorial Board of a number of local and international journals. She is happily married with Children.</p>"
   website: https://scholar.google.com/citations?user=H8qpdfoAAAAJ&hl=en
+
+- name: Victor Osamor
+  image: /assets/images/VOsamor.PNG
+  bio: "<p align='justify'>Victor C. Osamor is a Full Professor of Computer Science, former HOD, Computer and Information Sciences and past Coordinator/ Director of Covenant University Center for Information Technology (CU CIT). His research interests revolve around bioinformatics, and artificial intelligence, among others. He holds a PhD in Computer Science and a Post-Doctoral fellowship as Marie Curie Fellow at the University of Warsaw. Among other several successful awards, he is currently the Applied Research Coordinator for World bank-6 million dollar funded Covenant Applied Information and Communication - African Center of Excellence (CApIC-ACE) research grant project. He is also a co-author of Fundamentals of Computer Applications, a textbook widely used by University students.</p>"
+  website: https://scholar.google.com/citations?user=pTPrDxcAAAAJ&hl=en
   
 - name: Suhem Parack
   image: /assets/images/parack2022.jpeg
