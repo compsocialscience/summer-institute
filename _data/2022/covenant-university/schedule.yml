@@ -45,8 +45,7 @@
     
     - name: "**12:00-13:00** Group Exercises"
     - name: "**13:00-14:00** Lunch"
-    - name: "**14:00-16:00** Group Exercises"
-    - name: "**16:00-18:00** Tutorial: Getting started with academic research using the Twitter API v2"
+    - name: "**14:00-18:00** Group Exercises"
     - name: "**18:00-** Dinner"
 
 - date: 2022-06-22
