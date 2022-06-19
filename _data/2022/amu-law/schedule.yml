@@ -1,5 +1,10 @@
 - date: All times are in CEST (Warsaw time). The events will be held on Zoom (use the link provided on Slack).
 
+- date: Bootcamp materials
+  events:
+    - name "Please use the following Bootcamp materials to do the group excersises.  [Part1](https://sicss.web.amu.edu.pl/wp-content/uploads/2022/06/Part_I_Introduction_to_statistics_answers.html) | [Part2](https://sicss.web.amu.edu.pl/wp-content/uploads/2022/06/Part_II_Prediction_answers.html) | [Part3](https://sicss.web.amu.edu.pl/wp-content/uploads/2022/06/Part_III_Classification_answers.html) | [Part4](https://sicss.web.amu.edu.pl/wp-content/uploads/2022/06/Part_IV_Natural_Language_Processing_answers.html)"
+    - name "Suggested parts for the grop excersies - Monday - Part IV, Tuesday - Part I and Part II, Wednesday - Part III, Friday - Part II"  
+    
 - date: June 19 - Sunday, 2022
   events:
     - name: "17:00 - 18:30 Get together online"
@@ -7,14 +12,14 @@
 - date: June 20 - Monday, 2022
   events:
     - name: "12:00 – 12:30 – Introductory remarks from the organizers"
-    - name: "12:30 – 14:00 – Working with European Union Law as Data (Michal Ovádek)"
+    - name: "12:30 – 14:00 – Working with European Union Law as Data (Michal Ovádek) [Lesson plan here](https://sicss.web.amu.edu.pl/wp-content/uploads/2022/06/Working_with_European_Union_Law_as_Data.html)"
     - name: "14:00 – 14:45 – Lunch break (incl. breakout rooms to discuss ideas for group projects)"
     - name: "15:00 – 17:15 – Group exercise"
     - name: "17:15 - 17:45 – Feedback session (plenary) + wrap up"
 
 - date: June 21 - Tuesday, 2022
   events:
-    - name: "12:00 – 13:30 – Measuring human rights in Europe (David Reichel)"
+    - name: "12:00 – 13:30 – Measuring human rights in Europe (David Reichel) [Lesson plan here](https://sicss.web.amu.edu.pl/wp-content/uploads/2022/06/Measuring_human_rights_in_Europe.html)"
     - name: "13:30 – 14:30 – Lunch break (incl. breakout rooms to discuss ideas for group projects)"
     - name: "14:30 – 14:45 – Into to group exercise"
     - name: "14:45 – 17:15 – Group exercise"
@@ -22,7 +27,7 @@
 
 - date: June 22 - Wednesday, 2022
   events:
-    - name: "13:00 – 13:15 – Intro to group exercise"
+    - name: "13:00 – 13:15 – Intro to group exercise [Lesson plan here](https://sicss.web.amu.edu.pl/wp-content/uploads/2022/06/Psychological_Profiling_using_digital_footprints.html)"
     - name: "13:15 – 15:45 – Group exercise"
     - name: "15:45 – 16:15 – Coffee break"
     - name: "16:15 – 16:45 - Feedback session (plenary)"
@@ -30,7 +35,7 @@
 
 - date: June 23 - Thursday, 2022
   events:
-    - name: "12:30 - 12:45 – Intro into group exercise on designing the survey research [Lesson plan here] (https://docs.google.com/document/d/1ikc3WLLJqiYKr-sDUvSxpBgxt-w9lk6ZHpfTRA4dAuc/edit?usp=sharing)"
+    - name: "12:30 - 12:45 – Intro into group exercise on designing the survey research [Lesson plan here](https://docs.google.com/document/d/1ikc3WLLJqiYKr-sDUvSxpBgxt-w9lk6ZHpfTRA4dAuc/edit?usp=sharing)"
     - name: "12:45 - 14:15 – Group exercise – preparing an online survey"
     - name: "14:15 - 15:00 – Lunch break (incl. breakout rooms to discuss ideas for group projects)"
     - name: "15:00 - 16:15 - Brief analysis of the collected data in R"
