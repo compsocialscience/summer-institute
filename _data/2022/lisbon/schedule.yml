@@ -2,13 +2,14 @@
  
 - date: 2022-06-19
   events:
-    - name: "6:00 - 8:00pm Meet-and-greet at Rooftop Bar, Nova SBE campus"
+    - name: "6:00 - 8:00pm Meet-and-greet at Grande Onda (https://www.grandeonda.pt/) at Carcavelos beach"
  
 - date: 2022-06-20
   name: Introduction and Ethics
   events:
     - name: "10:00 - 10:15 Introduction and logistics"
-    - name: "10:15 - 11:00 Small group discussions"
+    - name: "10:15 - 10:45 Participants introduction and discussions"
+    - name: "10:45 - 11:00 Welcome message by Lénia Mestrinho, Executive Director of Data Science Knowledge Center at Nova SBE"
     - name: "11:00 - 11:20 Coffee break"
     - name: "11:20 - 12:00 Small group discussions "
     - name: "12:00 - 1:00 Lunch at school canteen"
@@ -32,7 +33,7 @@
     - name: "3:00 - 3:15 Break"
     - name: "3:15 - 3:30 Whole group debrief about group exercise"
     - name: "3:45 - 4:00 Debrief and logistics"
-    - name: "4:00 - 5:00 Social Hour (optional)"
+    - name: "4:00 - 5:00 Social Hour (optional), guest: Joao Baptista, Professor, Chair in Information Systems at Lancaster University Management School."
  
 - date: 2022-06-22
   name: Automated Text Analysis
@@ -45,7 +46,7 @@
     - name: "1:00 - 1:30 Lightning talk by participant (encouraged)"
     - name: "1:35 - 3:45 Group Exercise"
     - name: "3:45 - 4:00 Debrief and logistics"
-    - name: "4:00 - 5:00 Social Hour (optional)"
+    - name: "4:00 - 5:00 Social Hour (optional), guest: Daniela Schmitt, Assistant Professor of Quantitative Marketing at Nova SBE"
  
 - date: 2022-06-23
   name: Collecting Digital Trace Data
@@ -59,7 +60,7 @@
     - name: "1:35 - 2:45 Collecting Digital Trace Data"
     - name: "2:45 - 3:45 Discussing Strengths & Benefits plus Hybrid Designs"
     - name: "3:45 - 4:00 Debrief and logistics"
-    - name: "4:00 - 5:00 Social Hour (optional)"
+    - name: "4:00 - 5:00 Social Hour (optional), guest: Dan Tran, Invited Assistant Professor, Católica-Lisbon School of Business, SICSS-Lisbon 2021 alumnus"
  
 - date: 2022-06-24
   name: Machine Learning (by guest lecturer Prof. Jinjun Xiong)
@@ -91,12 +92,12 @@
     - name: "1:10 - 3:00 Research Speed Dating Maximally Dissimilar Groups"
     - name: "3:00 - 3:20 Coffee Break"
     - name: "3:20 - 4:00 Group Debrief (join research teams)"
-    - name: "4:00 - 5:00 Social Hour (optional) guest Prof. Rodrigo Belo"
+    - name: "4:00 - 5:00 Social Hour (optional) guest: Prof. Rodrigo Belo, Professor of Information Systems at Nova SBE/Rotterdam School of Management"
  
 - date: 2022-06-28
   name: Work on group projects
   events:
-    - name: "4:00 - 5:00 Social Hour (optional)"
+    - name: "4:00 - 5:00 Social Hour (optional) guest: Bernardo Costa, PhD student at Nova SBE, SICSS-Lisbon 2021 alumnus"
  
 - date: 2022-06-29
   name: Work on group projects

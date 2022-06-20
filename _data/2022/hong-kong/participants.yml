@@ -106,9 +106,21 @@
   website:
   
   
+- name: Wenyu LI
+  image: /assets/images/WenyuLI.jpeg
+  bio: "Wenyu LI is a PhD student in Geography and Resource Management at the Chinese University of Hong Kong. Wenyu is funded by the Computational Social Science PhD Fellowship Scheme of CUHK. She has a background in geography monitoring and geoinformation science. Her research interest includes resilience and sustainable development of cities. She currently applies quantitative and computational methods to evaluate the process of cities and generate their optimal pathways toward achieving SDGs."
+  website:
+
+  
 - name: Xiaotong LI
   image: /assets/images/XiaotongLI.jpeg
   bio: "Xiaotong LI is a Ph.D. student in the Division of Public Policy at Hong Kong University of Science and Technology. Her research interests broadly lie in health economics, primary healthcare and health policy. Currently, she is working on projects related to how various changes in policy and industry environment affect physician behaviors and how these behaviors, in turn, impact patient outcomes."
+  website:
+  
+  
+- name: Haixin MU
+  image: /assets/images/HaixinMU.jpg
+  bio: "Haixin MU is a Ph.D. student in School of Journalism and Communication, the Chinese University of Hong Kong. Apart from computational social science, she is also interested in gender and women's studies. Currently she is exploring perceived authenticity following the approach of computer-mediated communication."
   website:
   
   
@@ -124,6 +136,12 @@
   website:  
 
 
+- name: Samson YUEN
+  image: /assets/images/SamsonYuen.jpg
+  bio: "Samson Yuen is an Assistant Professor in the Department of Government and International Studies at Hong Kong Baptist University. He researches contentious politics, civil conflicts, public opinion, health and food politics, focusing particularly on East Asia. He holds a DPhil in Politics from Oxford University."
+  website:  https://sites.google.com/view/samsonyuen/
+  
+
 - name: Xiaoqian YUE
   image: /assets/images/XiaoqianYUE.png
   bio: "Xiaoqian YUE is a PhD candidate at the Chinese University of Hong Kong. Her research focuses on the use of computational methods in the study of human behaviour. She uses various computational methods, including social network analysis, computational textual analysis, and machine learning. She is currently studying the diffusion of innovations in government behaviour in social media."
@@ -135,4 +153,4 @@
   bio: "Zhaojin ZENG is an Assistant Professor in the Division of Arts and Humanities at Duke Kunshan University (DKU). He also holds the positions of Senior Research Scientist at the Center for the Study of Contemporary China and Faculty Fellow at the Data Science Research Center at DKU. His research draws on archives, quantitative data, and digital sources to examine the economic, business, and industrial history of modern China and the world. His teams are currently developing digital humanities projects on China's factory history and on global data governance practices."
   website:  
   
-  
+ 

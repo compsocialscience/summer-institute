@@ -15,8 +15,8 @@
 - date: 2022-06-21
   name: APIs and Digital Trace Data
   events:
-    - name: "**09:00-9:30** Coffee/tea"
-    - name: "**9:30-11:00** Collecting digital trace data <br/> *Tristram Alexander*"
+    - name: "**09:30-10:00** Coffee/tea"
+    - name: "**10:00-11:00** Collecting digital trace data <br/> *Tristram Alexander*"
     - name: "**11:00-12:30** Academic research using the Twitter API (workshop)
     <br/> *Suhem Parack*
     <br/> This workshop is open to the public, register [here](https://www.eventbrite.com.au/e/354293430187)
@@ -46,9 +46,9 @@
     - name: "**10:00-11:00** Mapping Online Problematic Content: Mixing Qualitative Approaches with State-of-the-art Machine Learning
        <br/> *Marian-Andrei Rizoiu*
        <br/> This workshop is open to the public, register [here](https://www.eventbrite.com.au/e/354455023517)"
-    - name: "**11:00-12:30** Surveys in the digital age <br/> *Olga Boichak*"
+    - name: "**11:00-12:30** Project work: composition of teams"
     - name: "**12:30-13:00** Lunch break"
-    - name: "**15:30-17:00** Project work: composition of teams, research design"
+    - name: "**15:30-17:00** Project work: research design"
     
 - date: 2022-06-24
   name: Computational Social Science Fair (Data61 Eveleigh campus)
@@ -88,6 +88,7 @@
     - name: "**12:30-13:00** Lunch break"
     - name: "**13:00-15:30** The Image Machine
        <br/> *Daniel Angus*
+       <br/> [Workshop materials](https://osf.io/preprints/socarxiv/2cwsu/)
        <br/> This workshop is open to the public, register [here](https://www.eventbrite.com.au/e/354484150637)"
     - name: "**15:30-17:00** Project work"
     

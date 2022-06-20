@@ -26,6 +26,7 @@
   events:
     - name: "9:30 - 10:30 Talk by Abdullah Almaatouq"
     - name: "10:45 - 11:45 Talk by instructor (Jaemin Lee)"
+    - name: "12:00 - 13:00 Mini Conference"
 
 - date: 2022-06-24
   name: Automated Image Analysis/Computational Experiment
@@ -45,24 +46,25 @@
   name: Social Networks/Surveys
   events:
     - name: "09:30 - 10:30 Talk by Tarani Chandola"
-    - name: Work on group projects (optional) and/or participate in SICSS Festival
+    - name: "10:45 - 11:45 Mini Conference"
+    - name: Work on group projects (optional)
     
 - date: 2022-06-28
   name: Audio Analysis
   events:
     - name: "09:30 - 10:30 Talk by Christopher Lucas"
     - name: "10:45 - 11:45 Talk by instructor (Haohan Chen)"
-    - name: Work on group projects (optional) and/or participate in SICSS Festival
+    - name: Work on group projects (optional) 
 
 - date: 2022-06-29
   name: Image Analysis/Field Experiment
   events:
     - name: "9:30 - 10:30 Talk by Zachary Steinert-Threlkeld"
     - name: "10:45 - 11:45 Talk by David Hagmann"
-    - name: Work on group projects (optional) and/or participate in SICSS Festival
+    - name: Work on group projects (optional) 
 
-- date: 2021-06-30
-  name: Present group projects and/or participate in SICSS Festival
+- date: 2022-06-30
+  name: Group Project Presentation
   events:
     - name: "9:00 - 12:00 Present group project proposal and wrap-up discussions"
 

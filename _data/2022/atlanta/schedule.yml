@@ -10,7 +10,7 @@
   events:
     - name: "10:00 - 11:00 Introductions & Announcements"
     - name: "11:00 - 12:00 Why SICSSS? & Ethics, Pt. 1"
-    - name: "12:00 - 1:30 Guest Lecturer & Lunch: <a href='https://link.springer.com/article/10.1007/s11266-022-00479-2' target='_blank'>>Jesse Lecy</a>, Urban Institute"
+    - name: "12:00 - 1:30 Guest Lecturer & Lunch: <a href='https://link.springer.com/article/10.1007/s11266-022-00479-2' target='_blank'>Jesse Lecy</a>, Urban Institute"
     - name: "1:30 - 2:30 Ethics, Pt. 2"
     - name: "2:30 - 4:30 Groups: Introduction, Work Session & Wrap-up"
 
@@ -57,7 +57,7 @@
   events:
     - name: "10:00 - 12:00 Announcements & Group Project Work"
     - name: "12:00 - 1:00 Lunch"
-    - name: "1:00 - 2:00 Guest Lecture: <a href='https://culturalanalytics.org/article/18841-abolitionist-networks-modeling-language-change-in-nineteenth-century-activist-newspaper' target='_blank'>>Lauren Klein</a>, Emory Digital Humanities Lab"
+    - name: "1:00 - 2:00 Guest Lecture: <a href='https://culturalanalytics.org/article/18841-abolitionist-networks-modeling-language-change-in-nineteenth-century-activist-newspaper' target='_blank'>Lauren Klein</a>, Emory Digital Humanities Lab"
     - name: "2:00 - 4:00 Group Project Work"
 
 - date: 2022-06-28
