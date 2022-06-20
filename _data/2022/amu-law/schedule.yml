@@ -1,7 +1,7 @@
 - date: All times are in CEST (Warsaw time). The events will be held on Zoom (use the link provided on Slack).
 
 - date: Bootcamp materials
-events:
+  events:
     - name: "Please use the following Bootcamp materials to do the group excersises.  [Part1](https://sicss.web.amu.edu.pl/wp-content/uploads/2022/06/Part_I_Introduction_to_statistics_answers.html) - [Part2](https://sicss.web.amu.edu.pl/wp-content/uploads/2022/06/Part_II_Prediction_answers.html) - [Part3](https://sicss.web.amu.edu.pl/wp-content/uploads/2022/06/Part_III_Classification_answers.html) - [Part4](https://sicss.web.amu.edu.pl/wp-content/uploads/2022/06/Part_IV_Natural_Language_Processing_answers.html)"
     - name: "Suggested parts for the grop excersies - Monday - Part IV, Tuesday - Part I and Part II, Wednesday - Part III, Friday - Part II"  
     
