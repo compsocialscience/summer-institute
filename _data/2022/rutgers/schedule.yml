@@ -16,11 +16,12 @@
   name: Digital Trace Data
   events:
     - name: "9:00 - 9:30 Logistics" 
-    - name: "9:30 - 12:00 Tutorials on Screen Scraping and APIs" 
+    - name: "9:30 - 11:00 Tutorials on Screen Scraping" 
+    - name: "11:15 - 12:00 Tutorials on Twitter APIs" 
     - name: "12:00 - 1:30 Lunch"
     - name: "1:30 - 2:30 Small Group Exercise: Design Research Question"
     - name: "2:30 - 4:00 Small Group Exercise: Collect and Describe Digital Trace Data"
-    - name: "4:00- Community Building Activity"
+    - name: "4:00- Community Building Activity in downtown New Brunswick"
 
 - date: June 22, 2022
   name: Text as Data 
