@@ -75,7 +75,9 @@
     - name: "9:30  - 10:00 Light breakfast (optional)"
     - name: "10:00 - 12:00 Group Project Breakouts"
     - name: "12:00 - 1:00  Break for Lunch (provided)"
-    - name: "1:00  - 5:00  Group Project Breakouts"
+    - name: "1:00  - 1:30  Tutorial on Spatial analysis - Yuerong Zhang"
+    - name: "1:30  - 2:00  Tutorial on preregistration - Mia Jovanova"
+    - name: "2:00  - 5:00  Group Project Breakouts"
 
 - date: 2022-06-22
   name: "Group Project Work (Lead by Profs. Yeomans & Becker)"
@@ -84,9 +86,8 @@
     - name: "9:30  - 10:00 Light breakfast (optional)"
     - name: "10:00 - 12:00 Group Project Breakouts"
     - name: "12:00 - 1:00  Break for Lunch (provided)"
-    - name: "1:00  - 2:00  Group Project Breakouts"
-    - name: "2:00  - 4:00  Guest Keynote Seminar - Alex Sutherland"
-    - name: "4:00  - 5:00  Group Project Breakouts"
+    - name: "1:00  - 3:00  Guest Keynote Seminar - Alex Sutherland"
+    - name: "3:00  - 5:00  Group Project Breakouts"
 
 - date: 2022-06-23
   name: "Group Project Work (Lead by Profs. Yeomans & Becker)"
@@ -95,7 +96,9 @@
     - name: "9:30  - 10:00 Light breakfast (optional)"
     - name: "10:00 - 12:00 Group Project Breakouts"
     - name: "12:00 - 1:00  Break for Lunch (provided)"
-    - name: "1:00  - 4:30  Group Project Breakouts"
+    - name: "1:00  - 1:30  Tutorial on large language models - Xia Zeng"
+    - name: "1:30  - 2:00  Tutorial on data visualisation - Mike Yeomans"
+    - name: "2:00  - 4:30  Group Project Breakouts"
     - name: "4:30  - 5:00  SICSS London Alumnus talk - Ana Macanovic"
 
 - date: 2022-06-24
