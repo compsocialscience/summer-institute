@@ -10,6 +10,11 @@ image: /assets/images/howard.jpg
 <br />
 
 ---
+<u>SICSS-Howard/Mathematica 2022 Research Grant Request for Proposal</u>
+<br><font color="grey"><font size="2">Jun 19, 2022</font></font> 
+<br><i><font size = "2">Funding from Mathematica will be available for research projects created by individual participants and participant teams from the SICSS-Howard/Mathematica 2022 & 2021 sites. Applications are open and due August 31.</font></i>
+<br><font size = "1">(Posted by <a href="https://docs.google.com/document/d/1KpvsbC6rKRyvAQYFScC7nDwO7fnjbmdS_vtXIhaASrE/edit">SICSS-Howard/Mathematica</a>)</font>
+
 <u>BLOG: SICSS-Howard/Mathematica Alumni Receive Inaugural Excellence in Computational Social Science Research Awards</u>
 <br><font color="grey"><font size="2">May 17, 2022</font></font> 
 <br><i><font size = "2">Support from SICSS-Howard/Mathematica did not end when the summer institute ended. Check these amazing projects and meet these fantastic awardees of Computational Social Science Research Award in this final blog of the SICSS-Howard/Mathematica 2021 Sage Methodspace blogs series, written by Naniette H. Coleman, the founder and lead organizer of SICSS-Howard/Mathematica, and Kristina Hiraishi, event assistant.</font></i>
