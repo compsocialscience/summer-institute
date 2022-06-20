@@ -7,40 +7,40 @@
   name: Introduction and Ethics 
   events:
     - name: "9:30 - 10:30 Introduction and logistics"
-    - name: "10:30 - 11:30 Talk by SICSS Alums"
+    - name: "10:30 - 11:30 Talk by SICSS Alums Michael FitzGerald and Katie Krumbholz"
     - name: "11:30 - 12:30 Small group discussions"
     - name: "12:30 - 1:30 Lunch"
-    - name: "1:30 - 4:00 Small Group Exercise on Ethics."
+    - name: "1:30 - 4:00 Small Group Exercise on Ethics: [Ethics Slides](https://docs.google.com/presentation/d/1DaCujBvMyoniAyLfX1zi8rqlf_LqYOtb/edit?usp=sharing&ouid=104885152488187255489&rtpof=true&sd=true), [Group Activity](https://docs.google.com/document/d/1TAHOtVTZLFMWpM5SQ9qJZGBvbLqYbn4P/edit?usp=sharing&ouid=104885152488187255489&rtpof=true&sd=true)   "
  
 - date: June 21, 2022
   name: Digital Trace Data
   events:
     - name: "9:00 - 9:30 Logistics" 
-    - name: "9:30 - 12:00 Tutorials on Screen Scraping and APIs" 
+    - name: "9:30 - 11:00 Tutorials on Screen Scraping" 
+    - name: "11:15 - 12:00 Tutorials on Twitter APIs" 
     - name: "12:00 - 1:30 Lunch"
     - name: "1:30 - 2:30 Small Group Exercise: Design Research Question"
     - name: "2:30 - 4:00 Small Group Exercise: Collect and Describe Digital Trace Data"
-    - name: "4:00- Community Building Activity"
+    - name: "4:00- Community Building Activity in downtown New Brunswick"
 
 - date: June 22, 2022
   name: Text as Data 
   events:
     - name: "9:00 - 9:30 Logistics"
-    - name: "9:30 - 10:30 Highlights of Text as Data"
-    - name: "10:30-11:30 Group Exercise, Session I"
-    - name: "11:30 - 12:30 Lunch"
-    - name: "12:30 - 2:00 Talk by P.M. Aronow"
-    - name: "2:30 - 4:00 Group Exercise, Session II"
-    - name: "4:00 - 4:30 Group Presentations" 
+    - name: "9:30 - 11:00 Highlights of Text as Data"
+    - name: "11:00-12:00 Group Exercise, Session I"
+    - name: "12:00 - 1:30 Lunch"
+    - name: "1:30 - 4:00 Group Exercise, Session II"
+    - name: "4:00 - 4:30 Group Presentations"
 
 - date: June 23, 2022
   name: Machine Learning for Prediction and Classification
   events:
     - name: "9:30 - 10:00 Logistics"
-    - name: "10:00 - 11:30 Live Tutorials on Machine Learning"
+    - name: "10:00 - 11:30 Live Tutorials on Machine Learning: [Tutorial Materials](https://drive.google.com/drive/folders/1nQzQwHLBBLJytDh2hs6j6y5U3HWNkvnd?usp=sharing)"
     - name: "12:00 - 1:30 Talk by Sarah Shugars"
     - name: "1:30 - 2:45 Lunch"
-    - name: "2:45 - 5:00 Afternoon Group Exercise"
+    - name: "2:45 - 5:00 Afternoon Group Exercise: [Group Exercise](https://docs.google.com/document/d/1lpQymyFCPKxrAsl_MPwJfjrZnAf8l5HfHBQqWln6-ro/edit?usp=sharing)"
 
 - date: June 24, 2022
   name: Surveys and Experiments
@@ -73,15 +73,17 @@
 - date: June 28, 2022
   name: Group work day
   events:
-    - name: "9:00 - 12:00 Group work time"
-    - name: "12:00 - 1:30 Lunch"
-    - name: "1:30 - 3:00 Group work time"
+    - name: "9:00 - 10:00 Group work time"
+    - name: "10:00 - 11:30 Talk by P.M. Aronow"
+    - name: "11:30 - 1:00 Lunch"
+    - name: "1:00 - 3:00 Group work time"
     - name: "3:00 - 4:30 Talk by Tamar Mitts"
 
 - date: June 29, 2022
   name: Group work day
   events: 
-    - name: "9:00 - 12:00 Group work time"
+    - name: "9:00 - 11:00 Group work time"
+    - name: "11:00 - 11:45 Tutorial on spatial data by Jeffrey Coltman-Cormier"
     - name: "12:00 - 1:30 Talk by Gonzalo Rivero"
     - name: "1:30 - 2:30 Lunch"
     - name: "2:30 - 5:00 Group work time"

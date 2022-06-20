@@ -10,10 +10,6 @@
   image: /assets/images/JoseMiguel_BelloVillarino.jpg
   bio: "José-Miguel is a Research Fellow at the University of Sydney Law School and the Institutions programme of the ADM+S Centre of Excellence. His current research focuses on regulatory approaches to artificial intelligence, especially on how to deal with risks derived from the operation of AI systems from a comparative approach."
   
-- name: Anne-Claire Bouton
-  image: /assets/images/AnneClaire_Bouton.jpg
-  bio: "Anne-Claire is a first year PhD candidate at the Queensland University of Technology Centre for Data Science. Her current research aims to employ Bayesian methods to sports science. Anne-Claire has a master’s degree in economics and finance and is passionate about the environmental and behavioural aspects of these fields."
-  
 - name: Tayla Broadbridge
   image: /assets/images/Tayla_Broadbridge.jpg
   bio: "Tayla is a joint-PhD candidate in mathematics at the University of Adelaide and the University of Nottingham. Her research explores the presence and development of food deserts using agent-based modelling and data science approaches, with the goal of developing more effective interventions. Tayla received her honours degree in applied mathematics from the University of Adelaide."
@@ -52,16 +48,7 @@
   
 - name: Bogdan Mamaev
   image: /assets/images/Bogdan_Mamaev.jpg
-  bio: "Bogdan is a PhD candidate in Political Science at Griffith University's School of Government and International Relations. His research examines how political regimes, repression, and electoral manipulation impact claims-making, social movements, and contentious politics. His interests include the use of computational techniques to understand contention in restrictive
-political settings."
-  
-- name: Mark Riboldi
-  image: /assets/images/Mark_Riboldi.jpg
-  bio: "Mark Riboldi is a PhD candidate and researcher at the University of Sydney’s Sydney Policy Lab, looking at the importance of community connection within civil society advocacy. Mark has a background as policy and communications specialist in politics, the community law sector, and with various advocacy groups."
-  
-- name: Najmeh Sajedianfard
-  image: /assets/images/Najmeh_Sajedianfard.jpg
-  bio: "Najmeh Sajedianfard holds a PhD in Economics and is a Research Associate at Shiraz University, Shiraz, Iran. Her research interest lies in social and economic networks, particularly international trade network, its dynamics, and evolution. At the moment, she is working on oil trade network, its environmental issues, and energy policies."
+  bio: "Bogdan is a PhD candidate in Political Science at Griffith University's School of Government and International Relations. His research examines how political regimes, repression, and electoral manipulation impact claims-making, social movements, and contentious politics. His interests include the use of computational techniques to understand contention in restrictive political settings."
   
 - name: Shima Saniei
   image: /assets/images/Shima_Saniei.jpg
