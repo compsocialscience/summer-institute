@@ -1,43 +1,35 @@
 - name: Huanyu BAO
   image: /assets/images/HuanyuBAO.JPG
   bio: "Huanyu BAO is a PhD Candidate at Nanyang Technological University, Singapore. Her research interests are health technology and public health communication. Specifically, how health technology can be used to benefit different social groups in both physical and mental health, and how to bridge inequalities in the field of health technology and big data. Currently, she is working on projects on (a) health apps and wearables use among the unprivileged in Singapore, (b) data absenteeism and data chauvinism on different social media platforms."
-  website:
   
   
 - name: Yun-Tzu CHANG
-  image: 
   bio: "Yun-Tzu CHANG is a first-year PhD student in Sociology at the University of Hong Kong (HKU). Before she joined HKU, she completed her Bachelor’s and M.Phil. degree in Sociology at the Chinese University of Hong Kong. Her current research interest and the focus of her PhD thesis is on the diasporic politics of overseas Chinese new migrants. Specifically, she intends to incorporate the extent to which and how technology is a mechanism that facilitates long-distance nationalism among overseas Chinese new migrants."
-  website:
   
   
 - name: Seong Hah CHO
   image: /assets/images/SeongHahCHO.jpg
   bio: "Seong is a final year PhD student at the Psychology department at the University of Hong Kong. His current research relates to using network analyses to predict the long term outcomes of stroke. His research interests are applying network analyses in order to understand misinformation and translate such research into actionable outcomes."
-  website: 
   
   
 - name: Guo (Jerry) CHENG
   image: /assets/images/GuoCHENG.jpg
-  bio: "Guo (Jerry) CHENG is a newly admitted student in UChicago’s Master program of Computational Social Science – Economics Track. He obtained his bachelor degree at the City University of Hong Kong, majoring in Finance, minoring in Mathematics and Computing. He has a keen interest in both empirical and theoretical research in economics, finance, public policy, sociology, etc., with cutting-edge computational techniques. Specific topics include CBDC, virtual banking, anti-money laundering, labor economics, innovation, etc."
-  website:  
+  bio: "Guo (Jerry) CHENG is a newly admitted student in UChicago’s Master program of Computational Social Science – Economics Track. He obtained his bachelor degree at the City University of Hong Kong, majoring in Finance, minoring in Mathematics and Computing. He has a keen interest in both empirical and theoretical research in economics, finance, public policy, sociology, etc., with cutting-edge computational techniques. Specific topics include CBDC, virtual banking, anti-money laundering, labor economics, innovation, etc." 
 
 
 - name: Tianwen DU
   image: /assets/images/TianwenDU.jpg
   bio: "Tianwen Du is currently an Academic Master student of Economics at Wuhan University. He obtained his bachelor’s degree in economics at Wuhan University and a double degree in Computer Science and Technology at Huazhong University of Science and Technology. His research interests include digital economy, information system, and using machine learning to make predictions or help with causal inference. His past research has focused on quantitative investment strategies and international financial markets."
-  website: 
 
 
 - name: Naikang FENG
   image: /assets/images/NaikangFENG.jpg
-  bio: "Naikang FENG is a PhD student in the the Department of Politics and Public Administration at the University of Hong Kong. She studies policy implementation and adaption with a focus on the policy role of street-level organizations (SLO) and bureaucrats (SLB). She is now working on a project on China’s food safety regulatory reform where she uses text-as-data methods to analyze the varieties and dynamics of instrument mix employed in frontline policy implementation."
-  website:  
+  bio: "Naikang FENG is a PhD student in the the Department of Politics and Public Administration at the University of Hong Kong. She studies policy implementation and adaption with a focus on the policy role of street-level organizations (SLO) and bureaucrats (SLB). She is now working on a project on China’s food safety regulatory reform where she uses text-as-data methods to analyze the varieties and dynamics of instrument mix employed in frontline policy implementation." 
 
 
 - name: Yiqing GAN
   image: /assets/images/YiqingGAN.jpg
   bio: "Yiqing Gan is a postdoctoral fellow in the Sociology Department and the Centre for Population Research at the Chinese University of Hong Kong. Her research interests lie primarily in the fields of family demography and migration. Specific topics include (a) the construction and change of people’s childbearing desire in the current era of low fertility, and (b) the impact of migration trajectories on people’s subjective well-being. She is keen to apply computational methods to explore the two classic research fields above."
-  website:
 
 
 - name: Jing GUO
@@ -130,10 +122,15 @@
   website:  
 
 
+- name: Marianne von Blomberg
+  image: 
+  bio: "Marianne is a Research Associate at Cologne University's Chair for Chinese Legal Culture. She examines how social credit systems strengthen, undermine, and transform the law and legal institutions in China. Currently, she is a visiting researcher at City University of Hong Kong's School of Law."
+  website: https://twitter.com/mariannehuashan
+
+
 - name: Shengbin WEI
   image: /assets/images/ShengbinWEI.jpg
-  bio: "Shengbin WEI is an MPhil student in the HKUST Social Science division. I am interested in quantitative history. I use historical multi-generational population datasets to study demographic behaviors in late imperial China. Besides traditional methods, I like exploring other approaches to study historical longitudinal datasets. I apply social network analysis to study personnel spatial mobility among officials in late imperial China with a government employee database."
-  website:  
+  bio: "Shengbin WEI is an MPhil student in the HKUST Social Science division. I am interested in quantitative history. I use historical multi-generational population datasets to study demographic behaviors in late imperial China. Besides traditional methods, I like exploring other approaches to study historical longitudinal datasets. I apply social network analysis to study personnel spatial mobility among officials in late imperial China with a government employee database." 
 
 
 - name: Samson YUEN
@@ -145,12 +142,9 @@
 - name: Xiaoqian YUE
   image: /assets/images/XiaoqianYUE.png
   bio: "Xiaoqian YUE is a PhD candidate at the Chinese University of Hong Kong. Her research focuses on the use of computational methods in the study of human behaviour. She uses various computational methods, including social network analysis, computational textual analysis, and machine learning. She is currently studying the diffusion of innovations in government behaviour in social media."
-  website:  
   
 
 - name: Zhaojin ZENG
   image: /assets/images/ZhaojinZENG.jpg
   bio: "Zhaojin ZENG is an Assistant Professor in the Division of Arts and Humanities at Duke Kunshan University (DKU). He also holds the positions of Senior Research Scientist at the Center for the Study of Contemporary China and Faculty Fellow at the Data Science Research Center at DKU. His research draws on archives, quantitative data, and digital sources to examine the economic, business, and industrial history of modern China and the world. His teams are currently developing digital humanities projects on China's factory history and on global data governance practices."
-  website:  
   
- 

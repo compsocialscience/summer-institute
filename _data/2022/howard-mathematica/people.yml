@@ -324,8 +324,12 @@ teaching_assistants:
 
 
 event_staff:
-  title: Event Staff (Coleman Research Lab)
-  people:
-    - name: Coming soon...
+  title: Event Staff (Coleman Research Lab & SICSS-alumni)
+    <img class="Coleman research lab" src="/assets/images/Coleman_research_lab.png" />
+    
+    <img class="Teaching fellow" src="/assets/images/Teaching_fellow.png" />
+    
+    <img class="R instructor" src="/assets/images/R_instructor.png" />
+    
 
 
