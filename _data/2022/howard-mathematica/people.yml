@@ -150,23 +150,23 @@ roundtable discussions:
       bio: "Howard University has long held a commitment to the study of disadvantaged persons in American society and throughout the world. The goal is the elimination of inequities related to race, color, social, economic and political circumstances. As the only truly comprehensive predominantly Black university, Howard is one of the major engineers of change in our society. Through its traditional and cutting-edge academic programs, the University seeks to improve the circumstances of all people in the search for peace and justice on earth."
       website: https://home.howard.edu/ 
     
-    <img class="Howard faculty" src="/assets/images/Howard_faculty.png" />
+  <img class="Howard faculty" src="/assets/images/Howard_faculty.png" />
       
     - name: Mathematica
       image: /assets/images/MathematicaStackedLogo.png
       bio: "Mathematica is the insight partner that illuminates the path to progress for public- and private-sector changemakers. We apply expertise at the intersection of data, methods, policy, and practice, translating big questions into deep insights that weather the toughest tests. Driven by our mission to improve public well-being, we collaborate closely with our clients to improve programs, refine strategies, and enhance understanding."     
       website: https://mathematica.org/
     
-    <img class="Mathematica" src="/assets/images/Mathematica.png" />
+  <img class="Mathematica" src="/assets/images/Mathematica.png" />
       
     - name: SICSS
       image: /assets/images/sicss-logo.png
       bio: "The Summer Institutes in Computational Social Science (SICSS) were created to provide free training to the next generation of researchers at the intersection of social science and data science— and to incubate cutting-edge research across disciplinary boundaries. Participants at each institute a) hear lectures by leading scholars in the field on a range of subjects from automated text analysis to experiments on social media platforms; b) participate in group training exercises; and c) launch interdisciplinary research projects. SICSS thus aims to provide open, high-quality training in computational social science to researchers around the world in order to accelerate the growth of the field and ensure that it develops practices that are in the long-term interests of science and society. Lectures are live-streamed to all SICSS sites from a central location and supported via a vibrant online community that includes open-source education materials that can be used for further self-study or as a model for computational social science courses within other organizations."
       website: https://sicss.io/about
     
-    <img class="Funded alumni" src="/assets/images/Funded_alumni.png" />
+  <img class="Funded alumni" src="/assets/images/Funded_alumni.png" />
     
-    <img class="Alumni experience" src="/assets/images/Alumni_experience.png" />
+  <img class="Alumni experience" src="/assets/images/Alumni_experience.png" />
  
  
 lunchtime talks:
