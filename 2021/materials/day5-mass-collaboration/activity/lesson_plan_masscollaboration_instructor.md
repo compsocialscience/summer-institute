@@ -9,7 +9,7 @@ This document assumes that you have also read the [lesson plan for participants]
 
 Well in advance of the activity, participants will need to apply for data access. Please reach out to the Fragile Families and Child Wellbeing Study team (ffdata@princeton.edu) a few weeks in advance to check on their availabilty to approve data access. You should require your participants to apply for data access at least a few days in advance of the activity, or possibly sooner if the FFCWS team has limited availability the week of your activity. We recommend that you apply for data access yourself as soon as possible so that you can help participants if they have questions. 
 
-Familiarize yourself with the data files after you receive the ones we will share with you through the Secure Send system. They include components to support participants who may be falling behind, including a pre-prepared data file.
+You will be able to download the FFC data files from the OPR website once you are granted persmission.
 
 ### Ethics: Guidelines for instructors
 
@@ -33,8 +33,3 @@ In the debrief, here are some possible starter questions:
 - What aspects of the exercise were successful from the standpoint of a participant?
 - If you were organizing this mass collaboration, what would you change to make the experience better?
 - Are there other questions we might tackle more successfully by working together than by working alone?
-
-### Notes
-
-- Many participants struggle with data preparation. Learning about data preparation is one of the learning objectives of the activity, but if you want to skip that part, you can have them work with the data file that we have already prepared.
-- The schedule that we proposed for participants is modular: before lunch prepare your data, and after lunch build your model and submit to the leaderboard. Many participants really enjoy uploading predictions to the leaderboard and seeing their score, so if they seem to struggle to get the data prepared before lunch, you can encourage them to switch to working with the data file that we have already prepared.
