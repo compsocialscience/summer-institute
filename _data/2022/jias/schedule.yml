@@ -141,12 +141,15 @@
     - name: "10:00 - 12:00 Lecture: Odilile Ayodele (University of Johannesburg)"
     - name: 13:00 - 14:00 Lunch
     - name: 14:00 - 17:30 Group Project
+    - name: "16:00 - 17:00 International Civil Society Centre: Digital Dialogue #5 ‘Hacking for
+      Good?’ [(register here)](https://icscentre.org/events/digital-dialogue-5-hacking-for-good/?)
+      (optional)"
     - name: 18:00 - 19:00 Dinner
 
 - date: Friday, 8 July 2022
   events:
-    - name: "09:00 - 10:00 Lecture: Courtesy of Howard/Mathematica"
-    - name: 11:00 - 12:00 Discussion Session
+    - name: "09:00 - 10:00 Lecture: Courtesy of SICSS-Howard/Mathematica"
+    - name: "11:00 - 12:00 Discussion session: Sibongiseni Thotsejane (University of Cape Town)"
     - name: 13:00 - 14:00 Lunch
     - name: 14:00 - 17:30 Final Presentations
     - name: 18:00 - 19:00 Dinner
