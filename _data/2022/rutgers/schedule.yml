@@ -27,8 +27,8 @@
   name: Text as Data 
   events:
     - name: "9:00 - 9:30 Logistics"
-    - name: "9:30 - 11:00 Highlights of Text as Data"
-    - name: "11:00-12:00 Group Exercise, Session I"
+    - name: "9:30 - 11:00 Highlights of Text as Data [Powerpoint](https://docs.google.com/presentation/d/1UkNzrQcSbUcPSUCNcqAgXkknApxV_vJm/edit?usp=sharing&ouid=104885152488187255489&rtpof=true&sd=true) [Materials](https://drive.google.com/drive/folders/1v_UcxablNccWJkVAmYCCYA-_WfgrODQT?usp=sharing)"
+    - name: "11:00-12:00 Group Exercise, Session I [Activity](https://docs.google.com/document/d/1OdwsAWOVQjTq6JQw88EQ9KA7ngZ3TxEI/edit?usp=sharing&ouid=104885152488187255489&rtpof=true&sd=true)"
     - name: "12:00 - 1:30 Lunch"
     - name: "1:30 - 4:00 Group Exercise, Session II"
     - name: "4:00 - 4:30 Group Presentations"
