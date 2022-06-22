@@ -1,33 +1,33 @@
 - date: Monday June 13, 2022
   name: Introduction and ethics
   events:
-    - name: "8:00 - 8:25 Introduction and logistics"
-    - name: "8:30 - 9:55 Opening Keynote (virtual) by Dr. Sandra Gonzalez-Bailon (UPenn): Key Questions in Computational Social Science. [(video)](https://nus-sg.zoom.us/rec/share/0xipL05rU6dF9cGH9Qo4J1wG7GjBoiAf-x8AhfiZ6ZruelV5x5Tmi00QPgXAM5iL.LRg8rApUeQ8dCcdU)"
-    - name: "10:00 - 11:55 Morning session"
+    - name: "8:00 - 8:30 Introduction and logistics"
+    - name: "8:30 - 10:00 Opening Keynote (virtual) by Dr. Sandra Gonzalez-Bailon (UPenn): Key Questions in Computational Social Science. [(video)](https://nus-sg.zoom.us/rec/share/0xipL05rU6dF9cGH9Qo4J1wG7GjBoiAf-x8AhfiZ6ZruelV5x5Tmi00QPgXAM5iL.LRg8rApUeQ8dCcdU)"
+    - name: "10:00 - 12:00 Morning session"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 17:00 Afternoon session and group activities"
 
 - date: Tuesday June 14, 2022
   name: Collecting digital trace data
   events:
-    - name: "9:00 - 9:55 Morning session"
-    - name: "10:00 - 11:55 Guest lecture (virtual) by Suhem Parack (Twitter): Getting started with academic research using the Twitter API v2."
+    - name: "9:00 - 10:00 Morning session"
+    - name: "10:00 - 12:00 Guest lecture (virtual) by Suhem Parack (Twitter): Getting started with academic research using the Twitter API v2."
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 17:00 Afternoon session and group activities"
 
 - date: Wednesday June 15, 2022
   name: Text as Data
   events:
-    - name: "9:00 - 9:55 Morning session"
-    - name: "10:00 - 11:55 Guest lecture (virtual) by Dr. Jisun An (SMU): Tackling social challenges with data science and AI. [(video)](https://nus-sg.zoom.us/rec/share/Ue3gNgBQUUJu481pa59drby6ens2O3Del72Rj1icjyB8zqjaJTImv9ibZq2GZ5mx.qpghyIAWiKDa-9bi)"
+    - name: "9:00 - 10:00 Morning session"
+    - name: "10:00 - 12:00 Guest lecture (virtual) by Dr. Jisun An (SMU): Tackling social challenges with data science and AI. [(video)](https://nus-sg.zoom.us/rec/share/Ue3gNgBQUUJu481pa59drby6ens2O3Del72Rj1icjyB8zqjaJTImv9ibZq2GZ5mx.qpghyIAWiKDa-9bi)"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 17:00 Afternoon session and group activities"
 
 - date: Thursday June 16, 2022
   name: Experiments in the Digital Era
   events:
-    - name: "9:00 - 9:55 Morning session"
-    - name: "10:00 - 11:55 Guest lecture (virtual) by Dr. Hai Liang (CUHK): Detection of Content Incivility and Its Causal Effects using Machine Learning."
+    - name: "9:00 - 9:10 Morning session"
+    - name: "10:00 - 12:00 Guest lecture (virtual) by Dr. Hai Liang (CUHK): Detection of Content Incivility and Its Causal Effects using Machine Learning. [(video)](https://nus-sg.zoom.us/rec/share/LxStbLjKrgZ9StgTEHHyOQLEPMYo-tdN4bJFa5zG2nXM-2KvfEl3DvC1WR3TAYXf.06TDwmcmX0lfmNYK)"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 17:00 Afternoon session and group activities"
 
@@ -35,7 +35,8 @@
   name: Analysis of Social Networks
   events: 
     - name: "9:00 - 9:55 Morning session"
-    - name: "10:00 - 11:55 Guest lecture (in person) by Dr. Prasanta Bhattacharya (A*STAR): Modeling the Dynamics of Social Networks and Behavior: Concepts, Methods and Applications."
+    - name: "10:00 - 11:55 Guest lecture (in person) by Dr. Prasanta Bhattacharya (A*STAR): Modeling the Dynamics of Social Networks and Behavior: Concepts, Methods and Applications. [(video)](https://nus-sg.zoom.us/rec/share/n9L7iV_bZn0QqZOZAZlzp0rhKfLVrP8THY1wKDkVm9Hwu6t23ly_VeEPQToF3sKq.7D4s8hML_IGRTmb6
+)"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 16:30 Afternoon session and group activities"
     - name: "17:30 - 18:00 Dinner and social event"
@@ -72,12 +73,13 @@
   name: Project Development
   events:
     - name: "9:00 - 12:00 Participants work on group projects"
-    - name: "12:00 - 13:00 Lunch"
-    - name: "13:00 - 17:00 Participants work on group projects"
+    - name: "12:00 - 13:30 Lunch"
+    - name: "13:30 - 14:30 A conversation about Open Science with Dr. Renwen Zhang, Dr. Aimee Pink and Dr. Subhayan Mukerjee"
+    - name: "14:30 - 17:00 Participants work on group projects"
 
 - date: Friday June 24, 2022
   name: Project Presentations
   events:
     - name: "10:00 - 12:00 Closing keynote by Dr. Kokil Jaidka: From Noisy Data to Interpretation: the Next Frontier for the study of South Asian online communities."
-    - name: "12:00 - 13:00 Lunch"
-    - name: "13:00 - 17:00 Group presentations"
+    - name: "12:00 - 13:30 Lunch"
+    - name: "13:30 - 16:30 Group presentations"

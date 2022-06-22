@@ -1,3 +1,7 @@
+- date: "General Information"
+  events: 
+    - name: "[MS Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmU4YTUyNjQtM2M2OS00OTgxLTg1MzAtZmI4OTdiYzI5MTU2%40thread.v2/0?context=%7b%22Tid%22%3a%22eb1a2102-5187-4080-9c89-ad82492c8d79%22%2c%22Oid%22%3a%2296f92062-5fbe-4cd1-be00-5a5aeef46626%22%7d)"
+    - name: "[Daily updates and activities](https://docs.google.com/document/d/1oatgSAVQ2TQzcRoCLcV6cw-yyRcEUv4Qt9MSNvUC-08/edit)"
 - date: Monday, 20 June 2022
   events:
     - name: 10:00 - 11:00 [An Introduction to Computational Social Science"](https://youtu.be/zGG9wPl1C5E)
@@ -22,9 +26,8 @@
   events:
     - name: "10:00 - 11:00 Digital Innovations and amplifying underrepresented voices in civic
       tech [(video) (courtesy of CTIN and ICSCentre)](https://youtu.be/3d8AoGHEwws)"
-    - name: "15:00 - 16:00 Speaker 1: [Sabelo Mhlambi](https://sabelo.mhlambi.com/about/) (Berkman-Klein Center for Internet and
+    - name: "15:00 - 17:00 Speaker 1: [Sabelo Mhlambi](https://sabelo.mhlambi.com/about/) (Berkman-Klein Center for Internet and
       Society)"
-    - name: "16:00 - 17:00 Speaker 2: [Chenai Chair](https://www.chenai.africa)  (Moz://a Foundation)"
 
 - date: Thursday, 23 June 2022
   events:
@@ -53,7 +56,26 @@
     - name: 14:30 - 16:00 Break
     - name: "16:00 - 17:00 SICSS-Africa + African Descendents Inaugural Joint Panel: Interrogating
       Data Collection Methods Focused on African and African Descendents Around the World:
-      Problems, Realities and Future Opportunities"
+      Problems, Realities and Future Opportunities
+
+
+        **Speakers**
+      
+          - [Bhaso Ndzendze, Ph.D.](https://bhasondzendze.co.za), Senior Lecturer and Head of Department, Politics and International Relations, University of Johannesburg [(slide)](https://docs.google.com/presentation/d/1vOVFjjH1CqJ6hG-9AZZTWsahHUGtZbKa/edit?usp=sharing&ouid=112934598660812456864&rtpof=true&sd=true) [(video)](https://youtu.be/MAV5azDk2Vs)
+         
+          - [Evans Osabuohien, Ph.D.](https://evansosabuohien.com/), Professor of Economics and Head of Department, Economics & Development Studies, Covenant University, Nigeria [(slide)](https://docs.google.com/presentation/d/1LJudPwHB2qHki8VXCNgLx_fqdBSIG244/edit?usp=sharing&ouid=112934598660812456864&rtpof=true&sd=true) [(video)](https://youtu.be/_Jny4h9RN4M)
+
+          - [Lebogang Ramafoko](https://docs.google.com/document/d/1cs3rwShBjHTNd6AN8swy9eRR_fQrS0aA/edit), Executive Director of Oxfam South Africa [(video)](https://youtu.be/phQb-p_8t18)
+          
+          - [Yahya Shaikh, M.D.](https://www.linkedin.com/in/yahya-shaikh-45646752), Principal Scientist, Connected Health Systems, MITRE [(slide)](https://docs.google.com/presentation/d/1TemY8bI8JfEnjPS6mk0ikaHgGU22p6XB/edit?usp=sharing&ouid=112934598660812456864&rtpof=true&sd=true) [(video)](https://youtu.be/vol058K8AvU)
+
+
+        
+        
+        **Moderator**
+      
+          - [Susana Edjang](https://royalafricansociety.org/about/council/), Mason Fellow, Harvard
+            Kennedy School of Government"
 
 - date: Tuesday, 28 June 2022
   name: Collecting Digital Trace Data
@@ -105,7 +127,7 @@
 
 - date: Wednesday, 6 July 2022
   events:
-    - name: 09:00 - 10:00 Group Project
+    - name: "09:00 - 10:00 Lecture: [Chenai Chair](https://www.chenai.africa)  (Moz://a Foundation)"
     - name: "10:00 - 12:00 Lecture: [Tapiwa
       Chagonda](https://www.uj.ac.za/members/tapiwa-chagonda/) (University of Johannesburg)"
     - name: 13:00 - 14:00 Lunch
@@ -118,12 +140,15 @@
     - name: "10:00 - 12:00 Lecture: Odilile Ayodele (University of Johannesburg)"
     - name: 13:00 - 14:00 Lunch
     - name: 14:00 - 17:30 Group Project
+    - name: "16:00 - 17:00 International Civil Society Centre: Digital Dialogue #5 ‘Hacking for
+      Good?’ [(register here)](https://icscentre.org/events/digital-dialogue-5-hacking-for-good/?)
+      (optional)"
     - name: 18:00 - 19:00 Dinner
 
 - date: Friday, 8 July 2022
   events:
-    - name: "09:00 - 10:00 Lecture: Courtesy of Howard/Mathematica"
-    - name: 11:00 - 12:00 Discussion Session
+    - name: "09:00 - 10:00 Lecture: Courtesy of SICSS-Howard/Mathematica"
+    - name: "11:00 - 12:00 Discussion session: Sibongiseni Thotsejane (University of Cape Town)"
     - name: 13:00 - 14:00 Lunch
     - name: 14:00 - 17:30 Final Presentations
     - name: 18:00 - 19:00 Dinner

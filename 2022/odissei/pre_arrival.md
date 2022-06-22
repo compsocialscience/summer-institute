@@ -22,6 +22,10 @@ In order to prepare for SICSS-ODISSEI 2022, you should read Matt Salganik’s bo
 #### Obligatory reading material:
 - Hofman, Jake M., et al. "Integrating explanation and prediction in computational social science." Nature 595.7866 (2021): 181-188. 
 - Liu, David M., and Matthew J. Salganik. "Successes and struggles with computational reproducibility: lessons from the fragile families challenge." Socius 5 (2019): 2378023119849803.
+- Salganik, Matthew J., Ian Lundberg, Alexander T. Kindel, Caitlin E. Ahearn, Khaled Al-Ghoneim, Abdullah Almaatouq, Drew M. Altschul et al. "Measuring the predictability of life outcomes with a scientific mass collaboration." Proceedings of the National Academy of Sciences 117, no. 15 (2020): 8398-8403.
+- Breznau, Nate, Eike Mark Rinke, Alexander Wuttke, Muna Adem, Jule Adriaans, Amalia Alvarez-Benjumea, Henrik Kenneth Andersen et al. "Observing many researchers using the same data and hypothesis reveals a hidden universe of uncertainty." (2021).
+- van der Laan, Jan, Marjolijn Das, Saskia te Riele, Edwin de Jonge, and Tom Emery. "Using a network of the whole population of the Netherlands to measure exposure to differing educational backgrounds." (2021).
+- Lugtig, Peter. "Panel attrition: separating stayers, fast attriters, gradual attriters, and lurkers." Sociological Methods & Research 43, no. 4 (2014): 699-723.
 
 #### Recommended material:
 - [Introduction to Data Science for Social Scientists](https://www.youtube.com/watch?v=jG6pdz4DQu8)

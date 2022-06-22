@@ -28,7 +28,7 @@
   image: /assets/images/Maria_Litova.jpg
   bio: "Maria Litova is a research assistant at the Centre for Social Data Science, University of Helsinki, Finland. She got her first Master’s degree in Sociology and currently is a Master’s student at the University of Helsinki with major in Social Data Science. Maria is interested in natural language processing, machine learning, healthcare and medical data analysis, youth research and well-being issues."
 
-  name: Antero Olakivi
+- name: Antero Olakivi
   image: /assets/images/Antero_Olakivi_E3F7622.jpg
   bio: "Antero Olakivi, D. Soc.Sc., is a postdoctoral researcher at the University of Helsinki, in the Centre of Excellence in Research on Ageing and Care. Olakivi’s research interests deal with intersecting inequalities in everyday life, especially in the context of care and care work, and with the methodology of social sciences."
 
@@ -41,5 +41,13 @@
   bio: "Iuliia Smirnova just completed her master's degree and holds a BA in political science from the St. Petersburg State University. She uses qualitative research methods such as comparative analysis, traditional document analysis and case study method to explore civil and political education, political culture, public policy and Russian politics."
 
 - name: Katri Sarkio
-  bio: "Katri Sarkio is a doctoral researcher in Faculty of Educational Sciences, University of Helsinki. Her dissertation focuses on educational leadership, organizational culture, and innovative learning environments. She holds LSc in Digital Economy and MSc in Computer Science. Before, she worked inter alia in EIT Digital innovation ecosystem on educational development."
   image: /assets/images/katri_sarkio.jpg
+  bio: "Katri Sarkio is a doctoral researcher in Faculty of Educational Sciences, University of Helsinki. Her dissertation focuses on educational leadership, organizational culture, and innovative learning environments. She holds LSc in Digital Economy and MSc in Computer Science. Before, she worked inter alia in EIT Digital innovation ecosystem on educational development."
+
+- name: Xin Zhou
+  image: /assets/images/Xin_Zhou.JPG
+  bio: "Xin Zhou is a master's student in Political Communication at the University of Gothenburg. After receiving his Bachelor's in Journalism in China, he had several years working in a business media as a journalist. His current research interests are propaganda, censorship, and political polarization. He usually prefers to explore this field mainly using quantitative research and computational methods."
+
+- name: Craig Ryder
+  image: /assets/images/Craig Ryder SICSS.jpg
+  bio: Craig Ryder is a digital anthropologist interested in startup and digital cultures, and the platformisation of information, especially in a Global South context. His PhD research at SOAS, University of London, is an ethnographic study into the information disorder in Sri Lanka. By investigating the influence of platform affordances on the dissemination of information and how information influencers reappropriate these affordances into their everyday practices, the project looks to disentangle the digital in a nation beleaguered by ethnic conflict, fake news and censorship. Craig is on a six month research exchange at University of Helsinki to develop skills in computational social sciences and digital methods.

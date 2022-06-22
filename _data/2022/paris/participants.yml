@@ -1,6 +1,6 @@
 - name: João Areal
   image: /assets/images/joao_areal.jpg
-  bio: João Areal is a PhD candidate in Political Science at the CDSS. He holds a Bachelor's degree in Politics and Philosophy from the University of Sheffield (UK) and a Master's degree in Social Sciences (Research) from the University of Amsterdam (NL). His master thesis explored the topic of affective polarisation in Brazil, focusing on the concept of negative political identities. During his time in Amsterdam, Joāo worked as a research assistant and undertook an internship at the Hot Politics Lab (https://www.hotpolitics.eu/), where he and his colleagues developed a measure of elite hostility using parliamentary speech data. Methodologically, his interests lie in the field of Computational Social Sciences, with a focus on automated text analysis. JoÃ£o's research interests include affective polarisation, positive and negative partisanship, comparative political behaviour, and Brazilian politics.
+  bio: João Areal is a PhD candidate in Political Science at the CDSS. He holds a Bachelor's degree in Politics and Philosophy from the University of Sheffield (UK) and a Master's degree in Social Sciences (Research) from the University of Amsterdam (NL). His master thesis explored the topic of affective polarisation in Brazil, focusing on the concept of negative political identities. During his time in Amsterdam, JoÃ£o worked as a research assistant and undertook an internship at the Hot Politics Lab (https://www.hotpolitics.eu/), where he and his colleagues developed a measure of elite hostility using parliamentary speech data. Methodologically, his interests lie in the field of Computational Social Sciences, with a focus on automated text analysis. JoÃ£o's research interests include affective polarisation, positive and negative partisanship, comparative political behaviour, and Brazilian politics.
   
 - name: Başak Bozkurt
   image: /assets/images/basak_bozkurt.jpg
@@ -33,7 +33,7 @@
   
 - name: Donia Kamel
   image: /assets/images/donia_kamel.jpg
-  bio: Donia Kamel is a first year PhD student in Economics at the Paris School of Economics. She is particularly interested in studying migration through the lens of big data and novel methods to understand the role of networks, mobility, assimilation, integration of refugees, intention to migrate and attitudes towards immigration and refugees.
+  bio: I am a first year PhD student in Economics at the Paris School of Economics. I am particularly interested in studying migration through the lens of big data and novel methods to understand the role of networks, mobility, assimilation, integration of refugees, intention to migrate and attitudes towards immigration and refugees.
   
 - name: Maël Lecoursonnais
   image: /assets/images/mael_lecoursonnais.jpg
@@ -47,7 +47,7 @@
   
 - name: Ana Lutzky  
   image: /assets/images/ana_lutzky.jpg
-  bio: A former specialized journalist on corporate responsibility and environment, Ana Lutzky shifted to a full-time data journalist role in 2018. She now leads Data Sup-Recherche at AEF news agency in Paris, which is leader in covering public policies. Teaming with another data journalist, they build a weekly data-driven newsletter that breaks stories about higher education and research. Inside this 80 journalists agency, she besides has a transversal role as she coordinates a network of around 10 colleagues, mixing journalists from the newsrooms and a developer and designer. They apply data skills on 5 main topics, education, housing, environment, social issues, and security. She also teaches data journalism at Université Polytechnique Hauts-de-France, where her students pursue a masters degree in information design and transmedia journalism.
+  bio: "A former specialized journalist on corporate responsibility and environment, Ana Lutzky shifted to a full-time data journalist role in 2018. She now leads Data Sup-Recherche at AEF news agency in Paris, which is leader in covering public policies. Teaming with another data journalist, they build a weekly data-driven newsletter that breaks stories about higher education and research. Inside this 80 journalists agency, she besides have a transversal role as she coordinates a network of around 10 colleagues, mixing journalists from the newsrooms and a developer/designer. They apply data skills on 5 main topics : education, housing, environment, social issues, and security. She also teaches data journalism at Université Polytechnique Hauts-de-France, where her students pursue a master's degree in information design and transmedia journalism."
   website: https://github.com/anouchk
 
 - name: Anastasia Magat
@@ -84,3 +84,11 @@
 - name: Sascha Grehl
   image: /assets/images/sascha_grehl.jpg
   bio: Sascha Grehl is a PhD candidate in sociology at Leipzig University. His research is concerned with how prosocial and antisocial behavior can be explained using evolutionary dynamics and taking into account recent findings in cognitive research. While initially experimental, he has recently also been exploring agent-based models and their potential for explanations in the social sciences.
+
+- name: Olga Suslova
+  image: assets/images/olga_suslova.jpg
+  bio: Olga Suslova is a PhD student in urban studies at the Laboratory Technology, Territories and Societies (CNRS, Ecole des Ponts ParisTech, Gustave Eiffel University). She holds a Master's degree in urban planning and studies from the Paris School of Urban Planning and a Diplôme in geography from the Ecole normale supérieure in Paris. Her current research examines postsocialist urban transformations in Saint Petersburg (Russia). 
+
+- name: Yann Goltrant
+  image: assets/images/yann_goltrant.jpg
+  bio: Yann Goltrant is a PhD candidate at University Paris-Dauphine. His research interest focus on the economic elites, and more specifically on the boards of directors. Building on data gathered from different sources (e.g. annual reports, Who's Who), he studies the careers of board members in the UK.

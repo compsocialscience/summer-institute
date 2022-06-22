@@ -15,8 +15,9 @@
     Over the last few years, free and open-source tools like R have become increasingly popular in research environments. The R programming language offers analysts a way to perform data manipulation and wrangling, analysis and modelling, and visualisation in one place. R can also be used to develop presentations, reports, books and even websites.
     <br/> In this presentation, the speakers will introduce R as a tool for humanities and social science researchers. We will look at a handful of specific applications of R. We will also introduce the audience to useful resources, communities, and learning opportunities.
     <br/> Finally, we will explore a case study where R was used as part of a PhD study to perform text mining on legal documents. This project also inspired the development of an open educational resource during a mentorship through Open Life Sciences (OLS) that aims to highlight the benefits of using R in the legal profession and research environments."
-    - name: "**15:00-16:00** Invited Presentation: "
-    - name: "**16:00-18:00** Logistics and AOB"
+    - name: "**15:00-16:00** From social scientist to computational social scientist: *Redefining research agenda in SSA*"
+    - name: "**16:00-17:30** Tutorial: Introduction to R for CSS"
+    - name: "**17:30-18:00** Announcements "
     - name: "**18:00-** Dinner"
 
 - date: 2022-06-21
@@ -37,15 +38,14 @@
     
     - <a href='https://doi.org/10.1186/1741-7015-11-66' target='_blank'>A bibliometric analysis of childhood immunization research productivity in Africa since the onset of the Expanded Program on Immunization in 1974</a>"
     
-    - name: "**10:30-12:00** North and South: *Naming practices and the hidden dimension of global disparities in knowledge production.*
+    - name: "**10:30-12:00** North and South: *Naming practices and the hidden dimension of global disparities in knowledge production.* [<a href='https://github.com/eolamijuwon/sicss-cu-2022/blob/main/Presentations/Day2_Alburez_North_south.pdf' target='_blank'>Slides</a>, <a href='https://github.com/alburezg/naming_practices_pnas' target='_blank'>Annotated Code</a>]
     <br/> 
     <br/> 
     Contemporary social sciences aim to be diverse and inclusive, yet traces of historical supremacy persist in scientific practices. One such practice is geographical references in article titles. This presentation will highlight important North-South gaps in knowledge production using more than half a million social science research articles indexed by Scopus (1996 to 2020)."
     
     - name: "**12:00-13:00** Group Exercises"
     - name: "**13:00-14:00** Lunch"
-    - name: "**14:00-16:00** Group Exercises"
-    - name: "**16:00-18:00** Tutorial: Getting started with academic research using the Twitter API v2"
+    - name: "**14:00-18:00** Group Exercises"
     - name: "**18:00-** Dinner"
 
 - date: 2022-06-22
@@ -83,13 +83,53 @@
      
     - name: "**13:00-14:00** Lunch"
     - name: "**14:00-15:30** Group Exercises"
-    - name: "**15:30-18:00** Tutorial: Introduction to Regular Expressions (Regex) in R Presentation"
+    - name: "**15:30-18:00** Tutorial: Getting started with academic research using the Twitter API v2"
     - name: "**18:00-** Dinner"
     
     
 - date: 2022-06-23
   events:
-    - name: "**09:00-09:15** Housekeeping and Announcements"
+    - name: "**09:00-09:15** Housekeeping and Announcements"    
+    - name: "**09:15-10:30** Research Happy Hour
+    <br/> 
+    <br/> 
+    Required Readings:
+    
+    - <a href='https://journals.sagepub.com/doi/abs/10.1177/0886260520960110' target='_blank'>Predicting the vulnerability of women to intimate partner violence in South Africa: Evidence from tree-based machine learning techniques</a>
+    
+    - <a href='https://www.sciencedirect.com/science/article/pii/S2352827321001117' target='_blank'>A scoping review on the use of machine learning in research on social determinants of health: Trends and research prospects</a>
+    
+    - <a href='https://doi.org/10.2196/24425' target='_blank'>COVID-19 misinformation spread in eight countries: Exponential growth modeling study</a>
+    
+    - <a href='https://doi.org/10.2196/29819' target='_blank'>Searching for HIV and AIDS health information in South Africa, 2004-2019: Analysis of Google and Wikipedia search trends</a>
+    
+    - <a href='https://doi.org/10.1038/s41467-022-28498-z' target='_blank'>Population-scale dietary interests during the COVID-19 pandemic</a>
+    
+    - <a href='https://doi.org/10.1177%2F08944393221095194' target='_blank'>Using Double Machine Learning to Understand Nonresponse in the Recruitment of a Mixed-Mode Online Panel</a>
+     
+    - <a href='https://doi.org/10.1080/03736245.2021.1901239' target='_blank'>Google trends and water conservation awareness: the internet’s contribution in South Africa</a>"
+    
+    - name: "**10:30-12:00** Predictive Analytics: An Overview with Practical Examples using R."
+    - name: "**12:00-13:00** Tutorial: Machine Learning for Beginners"
+    - name: "**13:00-14:00** Lunch"
+    - name: "**14:00-15:30** Tutorial: Introduction to Spatial Data and Leaflet Mapping in R
+    <br/> 
+    <br/> 
+    This workshop introduces the `sf` package and creating interactive maps using the javascript library leaflet in R. At the end of the course, participants will become familiar with the basic types of spatial data and how to check the coordinate reference system using the sf package in R. Participants will also learn how to:
+    
+    - Build a static map using `sf` and `ggplot2` using `geom_sf`. 
+    
+    - Build a chloropleth map and map with points in R using the javascript library leaflet.
+    
+    - Customise a plot by changing the background tile, polygon colours and fill and adding pop up labels."
+    
+    - name: "**15:30-18:00** Group Exercises"
+    - name: "**18:00-** Dinner"
+
+
+- date: 2022-06-24
+  events:
+    - name: "**09:00-09:15** Housekeeping and Announcements."
     - name: "**09:15-10:30** Research Happy Hour
     <br/> 
     <br/> 
@@ -113,44 +153,21 @@
     A key goal of HIV prevention and treatment programs worldwide is to end the epidemic of HIV/AIDS by 2030. However, there are limited representative data on HIV/AIDS mortality in many African countries. This presentation will highlight a novel method for collecting representative data on mortality in countries with limited civil registration and vital statistics."
     - name: "**12:30-13:00** Reflections"
     - name: "**13:00-14:00** Lunch"
-    - name: "**14:00-15:30** Tutorial: Automated building footprint extraction from advanced satellite imagery"
-    - name: "**15:30-18:00** Group Exercises"
-    - name: "**18:00-** Dinner"
-
-
-- date: 2022-06-24
-  events:
-    - name: "**09:00-09:15** Housekeeping and Announcements."
-    - name: "**09:15-10:30** Research Happy Hour
+    - name: "**14:00-16:00** Tutorial: Linking demographics and geography: *Using gridded population to gain spatial insights in R*
     <br/> 
     <br/> 
-    Required Readings:
-    
-    - <a href='https://journals.sagepub.com/doi/abs/10.1177/0886260520960110' target='_blank'>Predicting the vulnerability of women to intimate partner violence in South Africa: Evidence from tree-based machine learning techniques</a>
-    
-    - <a href='https://www.sciencedirect.com/science/article/pii/S2352827321001117' target='_blank'>A scoping review on the use of machine learning in research on social determinants of health: Trends and research prospects</a>
-    
-    - <a href='https://doi.org/10.2196/24425' target='_blank'>COVID-19 misinformation spread in eight countries: Exponential growth modeling study</a>
-    
-    - <a href='https://doi.org/10.2196/29819' target='_blank'>Searching for HIV and AIDS health information in South Africa, 2004-2019: Analysis of Google and Wikipedia search trends</a>
-    
-    - <a href='https://doi.org/10.1038/s41467-022-28498-z' target='_blank'>Population-scale dietary interests during the COVID-19 pandemic</a>
-    
-    - <a href='https://doi.org/10.1177%2F08944393221095194' target='_blank'>Using Double Machine Learning to Understand Nonresponse in the Recruitment of a Mixed-Mode Online Panel</a>
-     
-    - <a href='https://doi.org/10.1080/03736245.2021.1901239' target='_blank'>Google trends and water conservation awareness: the internet’s contribution in South Africa</a>"
-    
-    - name: "**10:30-12:00** Introduction to Internet Search Data."
-    - name: "**12:00-13:00** Tutorial: Machine Learning for Beginners"
-    - name: "**13:00-14:00** Lunch"
-    - name: "**14:00-16:00** Tutorial: Maps with `{leaflet}`"
+    Access to high-resolution population counts is key for local, national and international decision-making and intervention. It supports data-driven planning of critical infrastructures, such as schools, health facilities and transportation networks. WorldPop has developed modelling techniques to estimate population in grid cells of 100m by 100m by disaggregating census-based population totals for the entire world, leveraging the growing availability of products derived from satellite imagery. This level of detail offers the advantage of flexible aggregation of the population estimates within different administrative and functional units, for instance, school catchment areas and health zones. This session will cover the notion of gridded population, a data format at the crossroad of demography and geography. We will then have a brief overview of openly available satellite-imagery-based products that can be used for modelling gridding population and beyond, such as settlement maps. Finally, we will have some hands-on to extract information from a gridded population covering the following r packages for geospatial analysis: `sf` and `tmap`"
     - name: "**16:00-18:00** Group Exercises"
     - name: "**18:00-** Dinner" 
 
 - date: 2022-06-27
   events:
     - name: "**09:00-09:15** Housekeeping and Announcements."
-    - name: "**09:15-10:30** Tutorial: Spatial networks in R with `{sfnetworks}`"
+    - name: "**09:15-10:30** Tutorial: `{sfnetwork}`: Tidy Geospatial Networks in RSpatial networks in R
+    <br/> 
+    <br/>    
+    Geospatial networks are graphs embedded in geographical space. That means that both the nodes and edges in the graph can be represented as geographic features: the nodes most commonly as points and the edges as linestrings. The structure and characteristics of geospatial networks go beyond standard graph topology, and therefore it is crucial to explicitly take space into account when analyzing them. The sfnetworks R package is created to facilitate such an integrated workflow. It brings together the sf package for spatial data science and the tidygraph package for standard graph analysis. The core of the package is a data structure that can be provided as input to both the graph analytical functions of tidygraph as well as the spatial analytical functions of sf, without the need for conversion. Additionally, it offers a set of geospatial network-specific functions, such as routines for shortest path calculation, network cleaning and topology modification."
+    
     - name: "**10:30-13:00** Group Exercises"
     - name: "**13:00-14:00** Lunch"
     - name: "**14:00-16:00** Group Exercises"
