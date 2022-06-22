@@ -85,6 +85,16 @@ A Challenging Research Problem...
 <img src="Endogeneity.png" height="400" />
 
 
+
+Our Team
+========================================================
+&nbsp; 
+
+<img src="Collaborators picture.png" height="400" />
+
+
+
+
 The Power of Randomization
 ========================================================
 
