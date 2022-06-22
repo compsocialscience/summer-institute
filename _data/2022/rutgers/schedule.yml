@@ -26,32 +26,28 @@
 - date: June 22, 2022
   name: Text as Data 
   events:
-    - name: "9:00 - 9:30 Logistics"
-    - name: "9:30 - 11:00 Highlights of Text as Data"
-    - name: "11:00-12:00 Group Exercise, Session I"
-    - name: "12:00 - 1:30 Lunch"
-    - name: "1:30 - 4:00 Group Exercise, Session II"
-    - name: "4:00 - 4:30 Group Presentations"
+    - name: Postponed events
+
 
 - date: June 23, 2022
+  name: Text as Data 
+  events:
+    - name: "9:00 - 9:30 Logistics"
+    - name: "9:30 - 11:00 Highlights of Text as Data [Powerpoint](https://docs.google.com/presentation/d/1UkNzrQcSbUcPSUCNcqAgXkknApxV_vJm/edit?usp=sharing&ouid=104885152488187255489&rtpof=true&sd=true) [Materials](https://drive.google.com/drive/folders/1v_UcxablNccWJkVAmYCCYA-_WfgrODQT?usp=sharing)"
+    - name: "11:00-11:45 Group Exercise, Session I [Activity](https://docs.google.com/document/d/1OdwsAWOVQjTq6JQw88EQ9KA7ngZ3TxEI/edit?usp=sharing&ouid=104885152488187255489&rtpof=true&sd=true)"
+    - name: "12:00 - 1:30 Talk by Sarah Shugars"
+    - name: "1:30 - 2:30 Lunch Break"
+    - name: "1:30 - 4:00 Group Exercise, Session II"
+    - name: "4:00 - 4:30 Group Presentations"
+    
+- date: June 24, 2022
   name: Machine Learning for Prediction and Classification
   events:
-    - name: "9:30 - 10:00 Logistics"
-    - name: "10:00 - 11:30 Live Tutorials on Machine Learning: [Tutorial Materials](https://drive.google.com/drive/folders/1nQzQwHLBBLJytDh2hs6j6y5U3HWNkvnd?usp=sharing)"
-    - name: "12:00 - 1:30 Talk by Sarah Shugars"
-    - name: "1:30 - 2:45 Lunch"
-    - name: "2:45 - 5:00 Afternoon Group Exercise: [Group Exercise](https://docs.google.com/document/d/1lpQymyFCPKxrAsl_MPwJfjrZnAf8l5HfHBQqWln6-ro/edit?usp=sharing)"
-
-- date: June 24, 2022
-  name: Surveys and Experiments
-  events: 
     - name: "9:00 - 9:30 Logistics"
-    - name: "9:30 - 10:15 Online Surveys"
-    - name: "10:15 - 12:00 Group Exercise, Session I"
-    - name: "12:00 - 1:30 Lunch"
-    - name: "1:30 - 2:30 Group Exercise, Session II"
-    - name: "2:30 - 3:30 Digital Experiments"
-    - name: "3:30 - 4:30 Group Exercise, Session III"
+    - name: "9:30 - 11:30 Live Tutorials on Machine Learning: [Tutorial Materials](https://drive.google.com/drive/folders/1nQzQwHLBBLJytDh2hs6j6y5U3HWNkvnd?usp=sharing)"
+    - name: "11:30 - 1:00 Lunch Break"
+    - name: "1:00 - 4:00 Afternoon Group Exercise: [Group Exercise](https://docs.google.com/document/d/1lpQymyFCPKxrAsl_MPwJfjrZnAf8l5HfHBQqWln6-ro/edit?usp=sharing)"
+    - name: "4:00 -5:00 Summing up the first week, looking to group projects"
  
 - date: June 25, 2022
   events:
@@ -62,13 +58,14 @@
     - name: "No meetings. Enjoy New Brunswick." 
  
 - date: June 27, 2022
-  name: Group Formation
+  name: Surveys, Experiments, and Group Formation
   events: 
-    - name: "9:30 - 10:00 Logistics."
-    - name: "10:00 - 12:00 Group Formation."
+    - name: "9:00 - 9:30 Logistics."
+    - name: "9:30 - 10:15 Online Surveys and Experiments"
+    - name: "10:15 - 12:00 Group Exercise"
     - name: "12:00 - 1:30 Talk by Jessica Hamilton and Melissa Dreier."
     - name: "1:30 - 2:30 Lunch"
-    - name: "2:30 - 5:00 Work with small groups"
+    - name: "2:30 - 5:00 Group Formation"
 
 - date: June 28, 2022
   name: Group work day
