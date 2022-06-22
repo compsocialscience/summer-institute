@@ -108,7 +108,7 @@
     - name: "**10:30-12:00** Predictive Analytics: An Overview with Practical Examples using R."
     - name: "**12:00-13:00** Tutorial: Machine Learning for Beginners"
     - name: "**13:00-14:00** Lunch"
-    - name: "**14:00-15:30** Tutorial: Introduction to Spatial Data and Leaflet Mapping in R
+    - name: "**14:00-15:30** Tutorial: Introduction to Spatial Data and Leaflet Mapping in R  [<a href='https://github.com/LaurieLBaker/DSCA_leaflet_mapping_in_r' target='_blank'>Slides & Annotated Code</a>]
     <br/> 
     <br/> 
     This workshop introduces the `sf` package and creating interactive maps using the javascript library leaflet in R. At the end of the course, participants will become familiar with the basic types of spatial data and how to check the coordinate reference system using the sf package in R. Participants will also learn how to:
