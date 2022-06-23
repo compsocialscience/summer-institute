@@ -84,8 +84,7 @@
 - date: 2022-06-24
   name: Final day
   events:
-    - name: "10:00 - 12:00 Group work"
-    - name: "12:00 - 13:00 Presentations"
+    - name: "10:00 - 13:00 Group work"
     - name: "13:00 - 14:00 Lunch"
     - name: "14:00 - 17:00 Presentations"    
     - name: "19:00 - 21:00 Final dinner"    
