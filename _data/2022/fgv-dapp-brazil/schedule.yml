@@ -69,10 +69,16 @@
   name: Research Speed Dating 
   events:    
     - name: "Zoom [link](https://ide-fgv-br.zoom.us/j/96903346674?pwd=RmJUZUxVY3AydXNIM2h5OXErUG1Sdz09)"
-    - name: "10:15 - 10:30 Research Speed Dating Logistics [Slides for Instructors](https://tiagoventura.github.io/sicss_presentation/slides-research-speed-dating#1)"
-    - name: "10:15 - 11:30 Research Speed Dating Maximally Similar Groups"
-    - name: "1:15 - 3:15 Research Speed Dating Maximally Dissimilar Groups"
-    - name: "3:15 - 3:30 Group Debrief (join research teams)"
+    - name: "10:00 - 10:30 Research Speed Dating Logistics [Slides for Instructors](https://tiagoventura.github.io/sicss_presentation/slides-research-speed-dating#1)"
+    - name: "10:30 - 12:00 Research Speed Dating Maximally Similar Groups"
+    - name: "12:00 - 12:15 Break"
+    - name: "12:15 - 1:30 Small group lunches (optional)"
+    - name: "1:30 - 1:45 Break"
+    - name: "1:45 - 2:00 Instructions"
+    - name: "1:45 - 3:15 Research Speed Dating Maximally Dissimilar Groups"
+    - name: "3:15 - 3:45 Group Debrief (join research teams)"
+    - name: "4:00 - 5:00 HAPPY HOUR!"
+
 
 - date: 2022-06-25
   name: Day off
