@@ -39,7 +39,7 @@
   name: Text as Data
   events:
     - name: "9:00 - 9:15 Check In"
-    - name: "9:15 - 10:30 Justin Grimmer (Stanford University) & Brandon Stewart (Princeton University): Representing Text as Data"
+    - name: "9:15 - 10:30 Justin Grimmer (Stanford University) & Brandon Stewart (Princeton University): [Representing Text as Data](https://www.dropbox.com/s/9ms6xwfmdqnuehw/DukeSICSS_2022.pdf?dl=0)"
     - name: "10:30 - 10:45 Coffee Break"
     - name: "10:45 - 12:00 Justin Grimmer & Brandon Stewart: Measurement and Causal Inference using Text as Data"
     - name: "12:00 - 1:00 Lunch"
