@@ -59,7 +59,7 @@
     - name: "11:15 - 11:30 Coffee Break"
     - name: "11:30 - 12:00 Lisa Argyle: Experimental Possibilities of Generative Language Models"
     - name: "12:00 - 1:00 Lunch and Guest Lecture: Daniel Argyle, Natural Language Processing"
-    - name: "1:00 - 2:30 Group Exercises"
+    - name: "1:00 - 2:30 Group Exercises : [Mapping Career Pathways in Computational Social Science]((https://sicss.io/2022/material/professionalization/mapping_career_pathways.pdf)"
     - name: "2:30 - 3:00 Break"
     - name: "3:00 - 4:30 Group Exercises"
     - name: "4:30 - 5:00 Wrap Up"
@@ -70,9 +70,11 @@
   name: Professionalization
   events:
     - name: "9:00 - 9:15 Check In"
-    - name: "9:15 - 11:00 Speaker TBD"
-    - name: "11:00 - 11:15 Coffee Break"
-    - name: "11:15 - 12:00 Speaker TBD"
+    - name: "9:15 - 10:30 Chris Bail (Duke University): [How to Publish an Article in Computational Social Science](https://sicss.io/2022/material/professionalization/publishing_articles.pdf)"
+    - name: "10:30- 10:45 Coffee Break"
+    - name: "10:45 - 11:15 Chris Bail: [How to Get a Job in Computational Social Science](https://sicss.io/2022/material/professionalization/getting_a_job.pdf)"
+    - name: "11:15 - 11:30 Coffee Break"
+    - name: "11:30 - 12:00 Chris Bail: [How to Publish a Book in Computational Social Science](https://sicss.io/2022/material/professionalization/publishing_book.pdf)"
     - name: "12:00 - 1:00 Lunch"
     - name: "1:00 - 2:30 Group Exercises"
     - name: "2:30 - 3:00 Break"
