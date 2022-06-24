@@ -25,9 +25,9 @@
   name: APIs and Digital Trace Data
   events:
     - name: "9:00 - 9:15 Check In"
-    - name: "9:15 - 10:30 Ridhi Kashyap (Oxford University): Digital Trace Data Introduction"
+    - name: "9:15 - 10:30 Ridhi Kashyap (Oxford University): [Digital Trace Data Introduction](https://sicss.io/2022/materials/ridhi_kashyap/digital_trace_data_intro.pdf)"
     - name: "10:30 - 10:45 Coffee Break"
-    - name: "10:45 - 12:00 Ridhi Kashyap: Digital Trace Data Case Studies Using Social Media Advertising Data"
+    - name: "10:45 - 12:00 Ridhi Kashyap: [Digital Trace Data Case Studies Using Social Media Advertising Data](https://sicss.io/2022/materials/ridhi_kashyap/case_studies.pdf)"
     - name: "12:00 - 1:00 Lunch"
     - name: "1:00 - 2:30 Suhem Parack (Twitter)"
     - name: "2:30 - 3:00 Break"
