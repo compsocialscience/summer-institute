@@ -61,9 +61,11 @@
 - date: June 27, 2022
   name: Surveys, Experiments, and Group Formation
   events: 
-    - name: "9:00 - 9:30 Logistics."
-    - name: "9:30 - 10:15 Online Surveys and Experiments"
-    - name: "10:15 - 12:00 Group Exercise"
+    - name: "9:00 - 9:15 Logistics."
+    - name: "9:15 - 9:45 Online Surveys Overview"
+    - name: "9:45 - 10:15 Group Exercise on Online Survey Design"
+    - name: "10:15 - 11:00 Highlights on Digital Experiments"
+    - name: "11:00 - 12:00 Group Exercise on Experimental Design"
     - name: "12:00 - 1:30 Talk by Jessica Hamilton and Melissa Dreier."
     - name: "1:30 - 2:30 Lunch"
     - name: "2:30 - 5:00 Group Formation"
