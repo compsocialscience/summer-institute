@@ -16,7 +16,15 @@
   image: /assets/images/ahmedfouad_elhaddad.jpg
   bio: Ahmed Fouad El Haddad is currently pursuing a PhD in political science at Sciences Po Bordeaux. His work lies at the intersection of political economy and comparative politics. He uses quantitative and computational methods to study what drives policy reforms in non-democratic contexts. Ahmed Fouad holds a master's degree in political science and comparative sociology from the University of Bordeaux.
   website: https://scholar.google.com/citations?user=BTGediIAAAAJ&hl=en&oi=ao
-  
+
+- name: Yann Goltrant
+  image: assets/images/yann_goltrant.jpg
+  bio: Yann Goltrant is a PhD candidate at University Paris-Dauphine. His research interest focus on the economic elites, and more specifically on the boards of directors. Building on data gathered from different sources (e.g. annual reports, Who's Who), he studies the careers of board members in the UK.
+
+- name: Sascha Grehl
+  image: /assets/images/sascha_grehl.jpg
+  bio: Sascha Grehl is a PhD candidate in sociology at Leipzig University. His research is concerned with how prosocial and antisocial behavior can be explained using evolutionary dynamics and taking into account recent findings in cognitive research. While initially experimental, he has recently also been exploring agent-based models and their potential for explanations in the social sciences.
+
 - name: Joshua Hellyer
   image: /assets/images/joshua_hellyer.jpg
   bio: Joshua Hellyer is a doctoral researcher at the Mannheim Centre for European Social Research, where he studies the interplay between ethnic and “lookist” discrimination in the German labor market. His research interests are shaped by previous nonprofit work in his native Iowa and studies in urban planning and sociology.
@@ -77,18 +85,10 @@
   image: /assets/images/victoire_sessego.jpg
   bio: Victoire Sessego is a doctoral student in sociology at the ENS Paris-Saclay. Their research focuses on Do It Yourself practices among the upper middle classes in France. In their research, they use both qualitative and quantitative methods as they believe they should not be separated.
 
-- name: Nadine Zwiener-Collins
-  image: /assets/images/nadine_zwienercollins.jpg
-  bio: Nadine Zwiener-Collins is a postdoctoral researcher in Politics and Gender, Diversity and Equality at the Department of Political Science at the University of Salzburg, funded by the Land Salzburg. Her interests include gender differences in political interest, attitudes, and participation and teaching critical data literacy skills.
-
-- name: Sascha Grehl
-  image: /assets/images/sascha_grehl.jpg
-  bio: Sascha Grehl is a PhD candidate in sociology at Leipzig University. His research is concerned with how prosocial and antisocial behavior can be explained using evolutionary dynamics and taking into account recent findings in cognitive research. While initially experimental, he has recently also been exploring agent-based models and their potential for explanations in the social sciences.
-
 - name: Olga Suslova
   image: assets/images/olga_suslova.jpg
   bio: Olga Suslova is a PhD student in urban studies at the Laboratory Technology, Territories and Societies (CNRS, Ecole des Ponts ParisTech, Gustave Eiffel University). She holds a Master's degree in urban planning and studies from the Paris School of Urban Planning and a Diplôme in geography from the Ecole normale supérieure in Paris. Her current research examines postsocialist urban transformations in Saint Petersburg (Russia). 
 
-- name: Yann Goltrant
-  image: assets/images/yann_goltrant.jpg
-  bio: Yann Goltrant is a PhD candidate at University Paris-Dauphine. His research interest focus on the economic elites, and more specifically on the boards of directors. Building on data gathered from different sources (e.g. annual reports, Who's Who), he studies the careers of board members in the UK.
+- name: Nadine Zwiener-Collins
+  image: /assets/images/nadine_zwienercollins.jpg
+  bio: Nadine Zwiener-Collins is a postdoctoral researcher in Politics and Gender, Diversity and Equality at the Department of Political Science at the University of Salzburg, funded by the Land Salzburg. Her interests include gender differences in political interest, attitudes, and participation and teaching critical data literacy skills.
