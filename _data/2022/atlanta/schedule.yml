@@ -10,16 +10,16 @@
   events:
     - name: "10:00 - 11:00 Introductions & Announcements"
     - name: "11:00 - 12:00 Why SICSSS? & Ethics, Pt. 1"
-    - name: "12:00 - 1:30 Guest Lecturer & Lunch: <a href='https://link.springer.com/article/10.1007/s11266-022-00479-2' target='_blank'>Jesse Lecy</a>, Urban Institute"
+    - name: "12:00 - 1:30 Guest Lecturer & Lunch: <a href='https://link.springer.com/article/10.1007/s11266-022-00479-2' target='_blank'>Jesse Lecy</a>, <a href='https://docs.google.com/presentation/d/1bD6vmvdBxuXqG-YCwI2qiXvPTDQD7qT9/edit?usp=sharing&ouid=112202172115649364045&rtpof=true&sd=true' target='_blank'>Urban Institute</a>"
     - name: "1:30 - 2:30 Ethics, Pt. 2"
     - name: "2:30 - 4:30 Groups: <a href='https://drive.google.com/drive/folders/1tCkQ05E709nbQXv-9O8fY_Y5tQQgVauV?usp=sharing' target='_blank'>Introduction, Work Session & Wrap-up</a>"
 
 - date: 2022-06-22
   name: Collecting Digital Trace Data
   events:
-    - name: "10:00 - 11:00 Introduction to Digital Trace Data"
+    - name: "10:00 - 11:00 <a href='https://docs.google.com/presentation/d/1jqf99mNToJuV-uo6OOAyHrAxmCCEf1qV/edit?usp=sharing&ouid=112202172115649364045&rtpof=true&sd=true' target='_blank'>Introduction to Digital Trace Data</a>"
     - name: "11:00 - 12:00 Screen Scraping Workshop: <a href='https://github.com/asensio-lab/smart-cities-savannah' target='_blank'>Omar Asensio</a>, Georgia Tech"
-    - name: "12:00 - 1:00 Research Talk & Lunch"
+    - name: "12:00 - 1:00 <a href='https://docs.google.com/presentation/d/1hrQXLqsnTZ1XINDrwHDzNqu3ipgTXy5M/edit?usp=sharing&ouid=112202172115649364045&rtpof=true&sd=true' target='_blank'>Research Talk & Lunch</a>"
     - name: "1:00 - 2:00 <a href='https://docs.google.com/document/d/1dP2-toKYAo4p8nASqH2M1C9x9QjC37KQuljrAJwpvL0/edit?usp=sharing' target='_blank'>Introduction to Activity</a>"
     - name: "2:00 - 4:30 Groups: Work Session & Wrap-up"
 
@@ -35,7 +35,7 @@
 - date: 2022-06-24
   name: Surveys 
   events:
-    - name: "10:00 - 10:30 Announcements & Introduction to Surveys"
+    - name: "10:00 - 10:30 Announcements & <a href='https://docs.google.com/presentation/d/1g0hsHFiateIXjIwGJoStKpiSExznNnqq/edit?usp=sharing&ouid=112202172115649364045&rtpof=true&sd=true' target='_blank'>Introduction to Surveys</a>"
     - name: "10:30 - 12:00 <a href='https://docs.google.com/document/d/1HsCzgmJ24vMoLQx1KwoxxPeRmgQ24mMcKxactOOMNIw/edit?usp=sharing' target='_blank'>Survey Launch</a>"
     - name: "12:00 - 1:30 Guest Lecturer & Lunch: Dror Walter, GSU Digital Communication"
     - name: "1:30 - 2:00 Surveys, Pt. 2"
