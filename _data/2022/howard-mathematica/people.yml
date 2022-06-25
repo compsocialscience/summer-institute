@@ -144,12 +144,16 @@ panels:
 
 roundtable discussions:
   title: '"Real Talk" Roundtable Discussions'
+  
   people:
     - name: Howard University
       image: /assets/images/HowardULog.png
       bio: "Howard University has long held a commitment to the study of disadvantaged persons in American society and throughout the world. The goal is the elimination of inequities related to race, color, social, economic and political circumstances. As the only truly comprehensive predominantly Black university, Howard is one of the major engineers of change in our society. Through its traditional and cutting-edge academic programs, the University seeks to improve the circumstances of all people in the search for peace and justice on earth."
       website: https://home.howard.edu/ 
-      
+  
+  <img class="Howard faculty" src="/assets/images/Howard_faculty.png" />
+  
+  people:
     - name: Mathematica
       image: /assets/images/MathematicaStackedLogo.png
       bio: "Mathematica is the insight partner that illuminates the path to progress for public- and private-sector changemakers. We apply expertise at the intersection of data, methods, policy, and practice, translating big questions into deep insights that weather the toughest tests. Driven by our mission to improve public well-being, we collaborate closely with our clients to improve programs, refine strategies, and enhance understanding."     
@@ -309,15 +313,16 @@ planning_team:
 
 teaching_assistants:
   title: Teaching Assistants (Mathematica)
-  people:
-    - name: Coming soon...
+    <img class="Mathematica TA" src="/assets/images/Mathematica_TA.png" />
 
 
 event_staff:
   title: Event Staff (Coleman Research Lab & SICSS-alumni)
     <img class="Coleman research lab" src="/assets/images/Coleman_research_lab.png" />
     
+    
     <img class="Teaching fellow" src="/assets/images/Teaching_fellow.png" />
+    
     
     <img class="R instructor" src="/assets/images/R_instructor.png" />
     
