@@ -202,8 +202,9 @@ This panel will discuss key challenges in the collection of precise data as well
     R packages are an ideal way to package and distribute R code and data for re-use by others. In this session, with a live demo, we shall demystify the creation of an R package using automated tools like usethis. We will also uncover why to create a package (or not), how to improve your R package and your package development skills. The session will also highlight how to solve the challenges you will encounter in developing an R package. Lastly, we will discuss how to find your happy place in the world of R package development – as a devoted maintainer of one package or a valued contributor to dozens of packages."
     
     - name: "**14:00-15:00** Lunch"
-    - name: "**15:00-18:00** Group Exercises"
-    - name: "**18:00-** Dinner"
+    - name: "**15:00-16:00** Group Exercises"
+    - name: "**16:00-17:00** Building a Reproducible Workflow"
+    - name: "**17:00-** Dinner"
 
 - date: 2022-06-29
   events:
