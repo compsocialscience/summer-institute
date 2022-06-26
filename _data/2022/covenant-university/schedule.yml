@@ -165,7 +165,7 @@
 - date: 2022-06-27
   events:
     - name: "**09:00-09:15** Housekeeping and Announcements."
-    - name: "**09:15-10:30** Tutorial: `{sfnetwork}`: Tidy Geospatial Networks in RSpatial networks in R
+    - name: "**09:15-10:30** Tutorial: `{sfnetwork}`: Tidy Geospatial Networks in RSpatial networks in R [<a href='https://sfnetworks.github.io/SICSS-Covenant/slides' target='_blank'>Slides</a>, <a href='https://github.com/sfnetworks/SICSS-Covenant' target='_blank'>Annotated Code</a>]
     <br/> 
     <br/>    
     Geospatial networks are graphs embedded in geographical space. That means that both the nodes and edges in the graph can be represented as geographic features: the nodes most commonly as points and the edges as linestrings. The structure and characteristics of geospatial networks go beyond standard graph topology, and therefore it is crucial to explicitly take space into account when analyzing them. The sfnetworks R package is created to facilitate such an integrated workflow. It brings together the sf package for spatial data science and the tidygraph package for standard graph analysis. The core of the package is a data structure that can be provided as input to both the graph analytical functions of tidygraph as well as the spatial analytical functions of sf, without the need for conversion. Additionally, it offers a set of geospatial network-specific functions, such as routines for shortest path calculation, network cleaning and topology modification."
