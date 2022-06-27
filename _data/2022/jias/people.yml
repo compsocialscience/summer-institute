@@ -37,13 +37,6 @@ speakers:
       bio: "Chenai Chair  is the Special Advisor on Africa Mradi Innovation at Mozilla Foundation. She is an expert on the intersection of digital technology and gender. She has built her expertise with extensive experience in work that is focused on understanding the impact of technology in society through research and public policy assessment. Her work draws on principles of feminism in assessing digital technology. She has developed projects focused on privacy, data protection and AI as Mozilla 2019/2020 fellow - available on mydatarights.africa.  She also led the research on Women's Rights Online as the Web Foundation's gender and digital rights research manager. She has worked on issues of access within the digital divide as a Researcher at Research ICT Africa (RIA).  She also works as a consultant on research projects focused on digital rights,  including assessing the state of digital identity in Zimbabwe and developed recommendations for digital rights literacy in Southern Africa.  Chenai holds a Masters in Social Science degree focused on Global Studies from the University of Cape Town."
       website: https://www.chenai.africa
 
-    - name: Rumman Chowdhury
-      image: /assets/images/jias_rumman.jpeg
-      bio: "Dr Rumman Chowdhury is the director of <a
-      href='https://blog.twitter.com/en_us/topics/company/2021/introducing-responsible-machine-learning-initiative'>Twitter's
-      ML Ethics, Transparency and Accountability (META) team</a>. Dr Chowdhury is a pioneer in the field of applied algorithmic ethics, creating cutting-edge socio-technical solutions for ethical, explainable and transparent AI. At Twitter, she leads a team of applied researchers and engineers to identify and mitigate algorithmic harms on the platform. Previously, she was CEO and founder of Parity, an enterprise algorithmic audit platform company. She formerly served as Global Lead for Responsible AI at Accenture Applied Intelligence. In her work as Accenture’s Responsible AI lead, she led the design of the Fairness Tool, a  first-in-industry algorithmic tool to identify and mitigate bias in AI systems."
-      website: http://www.rummanchowdhury.com/
-
     - name: Bhaso Ndzendze
       image: /assets/images/jias_bhaso.jpeg
       bio: "Dr Bhaso Ndzendze is a Senior Lecturer and Head of Department: Politics and International Relations at the University of Johannesburg. Dr Ndzendze is also founder and head of the 4IR and Digital Policy Research Unit at the University of Johannesburg, and a digital policy fellow at the Berlin-based African Policy Research Institute. He is author of two books on artificial intelligence and international relations and is editor in chief of the journal Digital Policy Studies. His scholarship and opinion on technology, society and digital policy has appeared in numerous edited books and the press."
@@ -130,16 +123,6 @@ for digital governance and transformations and is active to design responsible A
 participants: 
   title: Participants
   people:
-    - name: Thizwilondi Madima
-      image: /assets/images/1UeHzeuevd4VHIln1oM41Owd3tgUWYMHu.jpeg
-      bio: "Dr Thizwilondi Madima is a scholar in African Studies and a lecturer at the University
-      of Venda. She is housed in the department of Indigenous Knowledge Systems and Heritage
-      Studies. She is a multidisciplinary, interdisciplinary, and transdisciplinary author and
-      researcher with academic publications. Her interest is in the preservation of cultural
-      heritage through digitisation and the decolonisation of the curriculum in institutions of
-      higher learning."
-
-
     - name: Sisanda Nkoala
       bio: "Dr Sisanda Nkoala is an interdisciplinary scholar with interests in language, rhetoric, media studies, and multlingualism. She is a senior lecturer at the Cape Peninsula University of Technology and holds a PhD in rhetoric studies from the University of Cape Town. Dr Nkoala is a former award winning broadcast journalist."
       image: /assets/images/1nt1NmMhJAZaOWqcUdvOy0T4fPsFPJd16.jpeg
@@ -163,10 +146,6 @@ participants:
       bio: "Zintathu Mazamane is a managing director and development Specialist at Nzeru      Development Solutions - a consulting firm that provides advisory services related to      business and project development. She is also a candidate for a master of urban studies in      urban management at Witwatersrand University. Her interests lie in promoting inclusive      growth and equality by addressing structural biases embed in institutions and processes."
       image: /assets/images/jias_ZintathuMazamane.jpg
 
-    - name: Silindile Nanzile Mlilo 
-      bio: "Silindile Nanzile Mlilo is Project Manager and Doctoral Researcher at the African      Centre for Migration & Society (ACMS), University of Witwatersrand in South Africa.      Silindile has over 6 years experience in extensive research and project management in both      academia and the NGO sector. In her role as Project Manager at ACMS, Silindile is      responsible for the management and monitoring of the Xenowatch project." 
-      image: /assets/images/1iL1CgxoI02_ByIeF2Vj4tIqSU-Mbr1w_.jpeg
-      website: https://www.linkedin.com/in/silindile-nanzile-mlilo-8b608184/
 
     - name: Barbara N Kayondo
       bio: "Barbara N Kayondo is PhD student at the University of Cape Town, South Africa. Her      research investigates how a mobile application can be used to enhance Electronic Health      Information System's compliance with Ugandan privacy regulations. She is also a lecturer of      Information Systems. "
