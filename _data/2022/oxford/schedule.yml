@@ -4,7 +4,7 @@
     - name: "5:00pm-7:00pm Welcome Pizza Party at the Nuffield JCR!"
 
 - date: July 4, 2022
-  name: Open Science
+  name: "Open Science"
   events:
     - name: "09:30-10:00 Coffee and Arrivals"
     - name: "10:00-11:30 Research Talk: Ben Goldacre"
@@ -15,7 +15,7 @@
     - name: "16:00-17:00 Research Talk Tom Douglas: on The Ethics of Predicting Behaviour"
 
 - date: July 5, 2022
-  name: Machine Learning
+  name: "Machine Learning"
   events:
     - name: "09:30-10:45 Workshop Mark Verhagen: Introduction to Machine Learning Part I"
     - name: "10:45-11:15 Coffee Break"
@@ -25,7 +25,7 @@
     - name: "16:00-18:00 Research Talk: Indeed"
 
 - date: July 6, 2022
-  name: Digital Trace and Geo-spatial Analysis
+  name: "Digital Trace and Geo-spatial Analysis"
   events:
     - name: "09:30-10:45 Workshop Ridhi Kashyap: Digital Trace Data"
     - name: "10:45-11:15 Coffee Break"
@@ -35,7 +35,7 @@
     - name: "16:00-18:00 Research Talk Douglas Leasure: Digital Trace Data and Migration"
 
 - date: July 7, 2022
-  name: Non-Random Probability Sampling and Post-Stratification
+  name: "Non-Random Probability Sampling and Post-Stratification"
   events:
     - name: "09:30-10:45 Workshop Oriol/Francesco: Non-Random Probability Sampling and Post-Stratification"
     - name: "10:45-11:15 Coffee Break"
@@ -45,7 +45,7 @@
     - name: "16:00-18:00 Research Talk: Meta"
 
 - date: July 8, 2022
-  name: Text As Data: Day 1
+  name: "Text As Data: Day 1"
   events:
     - name: "09:30-10:45 Workshop Blake Miller: Text as Data, Part 1"
     - name: "10:45-11:15 Coffee Break"
@@ -57,13 +57,13 @@
 
 
 - date: July 9, 2022
-  name: Text As Data: Day 2
+  name: "Text As Data: Day 2"
   events:
     - name: "09:30-12:30 Workshop Lena Voita: Text as Data, Part 3"
     - name: "12:30-14:00 Lunch with Lena: Q & A on Text as Data"
 
 - date: July 11, 2022
-  name: Mostly Group Projects!
+  name: "Mostly Group Projects!"
   events:  
     - name: "09:30-11:30 Workshop: Tommaso Batistoni on Experiments"
     - name: "11:00-12:30 Sorting into Project Groups"
@@ -72,7 +72,7 @@
     - name: "16:00-18:00 Research Talk: Amy Orben"
 
 - date: July 12, 2022
-  name: Mostly Group Projects!
+  name: "Mostly Group Projects!"
   events:  
     - name: "09:30-12:30 Project Work"
     - name: "12:30-14:00 Lunch at Nuffield College"
@@ -80,7 +80,7 @@
     - name: "16:00-18:00 Research Talk: Nicola Barban"
 
 - date: July 13, 2022
-  name: Mostly Group Projects!
+  name: "Mostly Group Projects!"
   events:  
     - name: "09:30-12:30 Project Work"
     - name: "12:30-14:00 Lunch at Nuffield College"
@@ -88,7 +88,7 @@
     - name: "16:00-18:00 Research Talk: TBC"
 
 - date: July 14, 2022
-  name: Mostly Group Projects!
+  name: "Mostly Group Projects!"
   events:  
     - name: "09:30-12:30 Project Work"
     - name: "12:30-14:00 Lunch at Nuffield College"
@@ -97,7 +97,7 @@
     - name: "19:00-??:00 Dinner at Nuffield College"
 
 - date: July 15, 2022
-  name: Mostly Group Projects!
+  name: "Mostly Group Projects!"
   events:  
     - name: "09:30-12:30 Neave O'Clery (Time TBC)/Project Work"
     - name: "12:30-14:00 Lunch at Nuffield College"
