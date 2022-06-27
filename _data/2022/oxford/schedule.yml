@@ -16,6 +16,7 @@
 
 - date: July 5, 2022
   name: Machine Learning
+  events:
     - name: "09:30-10:45 Workshop Mark Verhagen: Introduction to Machine Learning Part I"
     - name: "10:45-11:15 Coffee Break"
     - name: "11:15-12:30 Workshop Mark Verhagen: Introduction to Machine Learning Part II"
@@ -63,6 +64,7 @@
 
 - date: July 11, 2022
   name: Mostly Group Projects!
+  events:  
     - name: "09:30-11:30 Workshop: Tommaso Batistoni on Experiments"
     - name: "11:00-12:30 Sorting into Project Groups"
     - name: "12:30-14:00 Lunch at Nuffield College"
@@ -71,6 +73,7 @@
 
 - date: July 12, 2022
   name: Mostly Group Projects!
+  events:  
     - name: "09:30-12:30 Project Work"
     - name: "12:30-14:00 Lunch at Nuffield College"
     - name: "14:00-16:00 Project Work"
@@ -78,6 +81,7 @@
 
 - date: July 13, 2022
   name: Mostly Group Projects!
+  events:  
     - name: "09:30-12:30 Project Work"
     - name: "12:30-14:00 Lunch at Nuffield College"
     - name: "14:00-16:00 Project Work"
@@ -85,6 +89,7 @@
 
 - date: July 14, 2022
   name: Mostly Group Projects!
+  events:  
     - name: "09:30-12:30 Project Work"
     - name: "12:30-14:00 Lunch at Nuffield College"
     - name: "14:00-16:00 Project Work"
@@ -93,6 +98,7 @@
 
 - date: July 15, 2022
   name: Mostly Group Projects!
+  events:  
     - name: "09:30-12:30 Neave O'Clery (Time TBC)/Project Work"
     - name: "12:30-14:00 Lunch at Nuffield College"
     - name: "14:00-16:30 Project Presentations"
