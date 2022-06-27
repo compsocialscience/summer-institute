@@ -74,11 +74,17 @@
   bio: "My name is Sara Harba. A master’s Business Analytics graduate from the American University of Beirut. I graduated from the Lebanese American University with a degree in business. I like working with data and analytical tools to explore hidden insights. I am inspired to work hard and enhance my skills as my goal is to become a data scientist. My journey was never easy as an international student, I had to face many challenges, but I learned that no hard work goes unnoticed. I like to travel and explore new cultures because I believe that diversity leads to innovation and creativity."
   image: /assets/images/roma-tv/harba.JPG
   
+- name: Shazeda Ahmed
+  bio: "Shazeda is a doctoral candidate at the University of California Berkeley School of Information, and a postdoctoral researcher at Princeton University's Center for Information Technology Policy. Shazeda's doctoral dissertation investigates how tech firms and the Chinese government are collaborating on the country’s social credit system. Her additional work focuses on perceptions of algorithmic discrimination and emotion recognition technologies in China, as well as applications of artificial intelligence in Chinese courtrooms.She was a pre-doctoral fellow at two Stanford University research centers, the Institute for Human-Centered Artificial Intelligence (HAI) and the Center for International Security and Cooperation (CISAC), and has previously worked as a researcher for Upturn, the Mercator Institute for China Studies, Ranking Digital Rights, and the Citizen Lab, and the AI Now Institute."
+  image: /assets/images/roma-tv/shazeda.png
+  
 - name: Thiago Matheus
   bio: "I have been a Legislative Analyst at the Brazilian Chamber of Deputies since 2013, when I started my studies in Electoral Law and Political Science and developed my interest in applying statistical and computational sciences in this area. My research is focused on the relationships between electoral and party systems. The thesis of my current Professional Master seeks to study the coattail effect of local elections in the fragmentation of the Brazilian Legislative Branch. I am interested in research related to underrepresented groups in politics too. My educational background also includes a Bachelor's degree in Physics and Statistics, having completed a Master in Physics in 2008. I had professional experience as a Physics teacher at the Brasília Department of Education for two years and as a statistician at the Superior Labor Court between 2008 and 2013. In 2017, I obtained the bachelor's degree in law with a thesis that analyzed the proceedings in the National Congress of the project about the SNTV (Single Non-Transferable Vote)."
   image: /assets/images/roma-tv/thiagomatheus.jpg
   
 - name: Xiao Yin
+  bio:
+  image:
 
 - name: Yuyi Shen 
   bio: "I’m a second-year Master's student in Development Studies at the Geneva Graduate Institute and I graduated from the School of International Studies in Peking University as a bachelor of laws last summer. I'm Interested in food security and environmental protection. Currently I'm developing skills in statistical analysis/visualization and project management in order to be a better development practitioner in the future."
