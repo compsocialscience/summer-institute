@@ -114,29 +114,28 @@
     - name: "16:00 - 17:00 Optional Group Work Continuation"
 
 - date: Wednesday, 29 June 2022
-  name: Automated Text Analysis
+  name: Collecting Digital Trace Data Continued...
   events:
-    - name: "An Introduction to Text Analysis.
-      [Video](https://www.youtube.com/watch?v=pLsC4UyzX_U).
-      [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/intro-text-analysis/Rpres/Introduction_to_Text_as%20Data.html).
+    - name: "What is Digital Trace Data [Video](https://youtu.be/uuSWQN7uYhk).
+      [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/what-is-digital-trace-data/What_is_Digital_Trace_Data.html)."
+    - name: "Strengths and Weakness of Digital Trace Data.
+      [Video](https://www.youtube.com/watch?v=b8XTtBnENfo).
+      [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/strengths-weaknesses/Rpres/Strengths_and_Weaknesses.html).
       [Annotated
-      Code](https://compsocialscience.github.io/summer-institute/2021/materials/day3-text-analysis/intro-text-analysis/rmarkdown/Introduction_to_Text_Analysis.html)."
-    - name: "Text Analysis Basics. [Video](https://www.youtube.com/watch?v=TAlO-5NJB7I).
-      [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/basic-text-analysis/Rpres/Basic_Text_Analysis.html).
+      Code](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/strengths-weaknesses/rmarkdown/Strengths_and_Weaknesses.html)."
+    - name: "Application Programming Interfaces. [Video](https://youtu.be/jde_c7pB5U8).
+      [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/apis/Rpres/APIs.html).
       [Annotated
-      Code](https://compsocialscience.github.io/summer-institute/2021/materials/day3-text-analysis/basic-text-analysis/rmarkdown/Basic_Text_Analysis_in_R.html)."
-    - name: "Dictionary-Based Text Analysis. [Video](https://www.youtube.com/watch?v=wSIi2ZRKjaE).
-      [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/dictionary-methods/Rpres/Dictionary_Based_Analysis.html).
+      Code](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/apis/rmarkdown/Application_Programming_interfaces.html)."
+    - name: "Screen Scraping. [Video](https://youtu.be/LjTZNmBjC5Q).
+      [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/screenscraping/Rpres/Screenscraping.html).
       [Annotated
-      Code](https://compsocialscience.github.io/summer-institute/2021/materials/day3-text-analysis/dictionary-methods/rmarkdown/Dictionary-Based_Text_Analysis.html)."
-    - name: "Topic Models. [Video](https://www.youtube.com/watch?v=T2ZRBi1oUME).
-      [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/topic-modeling/Rpres/Topic_Modeling.html).
+      Code](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/screenscraping/rmarkdown/Screenscraping.html)."
+    - name: "Building Apps and Bots for Social Science Research.
+      [Video](https://www.youtube.com/watch?v=3wjYcIOpBgU).
+      [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/building-apps-bots/Rpres/Building_Apps_for_Social_Science_Research.html).
       [Annotated
-      Code](https://compsocialscience.github.io/summer-institute/2021/materials/day3-text-analysis/topic-modeling/rmarkdown/Topic_Modeling.html)."
-    - name: "Text Networks. [Video](https://www.youtube.com/watch?v=-2dBI2ULcQw).
-      [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/text-networks/Rpres/Text_Networks.html).
-      [Annotated
-      Code](https://compsocialscience.github.io/summer-institute/2021/materials/day3-text-analysis/text-networks/rmarkdown/Text_Networks.html)."
+      Code](https://compsocialscience.github.io/summer-institute/2020/materials/day2-digital-trace-data/building-apps-bots/rmarkdown/Building_Apps_and_Bots_for%20Social_Science_Research.html)."
     - name: "13:00 - 14:30 Lecture: Franklin Tchakounté (University of Ngaoundere)
 
 
@@ -145,10 +144,26 @@
     - name: "15:00 - 17:00 Group Exercise"
 
 - date: Thursday, 30 June 2022
-  name: 
+  name: Automated Text Analysis
   events:
+    - name: "An Introduction to Text Analysis.
+      [Video](https://www.youtube.com/watch?v=pLsC4UyzX_U).
+      [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/intro-text-analysis/Rpres/Introduction_to_Text_as%20Data.html).
+      [Annotated Code](https://compsocialscience.github.io/summer-institute/2021/materials/day3-text-analysis/intro-text-analysis/rmarkdown/Introduction_to_Text_Analysis.html)."
+    - name: "Text Analysis Basics. [Video](https://www.youtube.com/watch?v=TAlO-5NJB7I).
+      [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/basic-text-analysis/Rpres/Basic_Text_Analysis.html).
+      [Annotated Code](https://compsocialscience.github.io/summer-institute/2021/materials/day3-text-analysis/basic-text-analysis/rmarkdown/Basic_Text_Analysis_in_R.html)."
+    - name: "Dictionary-Based Text Analysis. [Video](https://www.youtube.com/watch?v=wSIi2ZRKjaE).
+      [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/dictionary-methods/Rpres/Dictionary_Based_Analysis.html).
+      [Annotated Code](https://compsocialscience.github.io/summer-institute/2021/materials/day3-text-analysis/dictionary-methods/rmarkdown/Dictionary-Based_Text_Analysis.html)."
+    - name: "Topic Models. [Video](https://www.youtube.com/watch?v=T2ZRBi1oUME).
+      [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/topic-modeling/Rpres/Topic_Modeling.html).
+      [Annotated Code](https://compsocialscience.github.io/summer-institute/2021/materials/day3-text-analysis/topic-modeling/rmarkdown/Topic_Modeling.html)."
+    - name: "Text Networks. [Video](https://www.youtube.com/watch?v=-2dBI2ULcQw).
+      [Slides](https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/text-networks/Rpres/Text_Networks.html).
+      [Annotated Code](https://compsocialscience.github.io/summer-institute/2021/materials/day3-text-analysis/text-networks/rmarkdown/Text_Networks.html)."
     - name: "Specific Support Consultations/ Catch up with Additional Resources"
-    - name: "13:00 - 14:00 Lecture: Xolani Makhubele"
+    - name: "13:00 - 15:30 Group Work"
     - name: "16:00 - 18:00 Suhem Parack (Twitter) [Resources to prepare for the
       session](https://drive.google.com/file/d/1DnJVbScYiTgIFu4cRHQ1D8Nhsz_8jDQf/view?usp=sharing)."
 
