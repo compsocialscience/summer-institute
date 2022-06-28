@@ -73,8 +73,7 @@
 - date: June 28, 2022
   name: Group work day
   events:
-    - name: "9:00 - 10:00 Group work time"
-    - name: "10:00 - 11:30 Talk by P.M. Aronow"
+    - name: "9:00 - 11:30 Group work time"
     - name: "11:30 - 1:00 Lunch"
     - name: "1:00 - 3:00 Group work time (First project milestone due)"
     - name: "3:00 - 4:30 Talk by Tamar Mitts"
@@ -94,7 +93,9 @@
     - name: "9:00 - 10:00 Group work time"
     - name: "10:00 - 11:30 Talk by Robert Kubinec"
     - name: "12:00 - 1:00 Lunch"
-    - name: "1:00 - 5:00 Group work time"
+    - name: "1:00 - 2:30 Group work time"
+    - name: "2:30 - 4:00 Talk by P.M. Aronow"
+    - name: "4:00 - 5:00 Group work time"
     
 - date: July 1, 2022
   name: Group Presentations
