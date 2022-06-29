@@ -171,6 +171,8 @@
 - date: Friday, 1 July 2022
   name: Mass collaboration and machine learning
   events:
+    - name: "[Chapter 5 in _Bit by Bit_](https://www.bitbybitbook.com/en/1st-ed/creating-mass-collaboration/dist-data-collection/)"
+    - name: "Watch:"
     - name: "Introduction to Mass Collaboration.
       [Video](https://www.youtube.com/watch?v=4BaVal2fwOI).
       [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/01-mass-collaboration.pdf)."
@@ -180,11 +182,14 @@
       [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/03-open_call.pdf)."
     - name: "Distributed Data Collection. [Video](https://www.youtube.com/watch?v=S0foUGRnYIo).
       [Slides](https://github.com/compsocialscience/summer-institute/blob/master/2020/materials/day5-mass-collaboration/04-distributed_data_collection.pdf)."
-    - name: "Introduction to New SICSS-Howard/Mathematica Site Project [(Introduction to Crown
-      Act)](https://youtu.be/2lHG16J2GXU) (Natural Hair Stories: [Nicole Jenkins
-      Ph.D.](https://youtu.be/z2o5Wk2GAKo), [Naniette Coleman](https://youtu.be/JOOci-H6dII))."
-    - name: "13:00 - 15:00 Group Exercise"
-    - name: "15:00 - 16:00 Lecture: Sven Lampe (Oldenburg University)"
+    - name: "Nicole Jenkins introduction to the [Crown Act: Mass Collaboration
+      Exercise](https://youtu.be/2lHG16J2GXU)
+
+
+      Black natural hair experiences by [Nicole Jenkins](https://youtu.be/z2o5Wk2GAKo) and
+      [Naniette Coleman](https://youtu.be/JOOci-H6dII)"
+    - name: "13:00 - 15:30 Group Exercise"
+    - name: "15:30 - 16:00 Group Allocation Exercise"
 
 - date: Saturday - Sunday
   name: Break
