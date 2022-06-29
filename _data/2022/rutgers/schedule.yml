@@ -81,11 +81,10 @@
 - date: June 29, 2022
   name: Group work day
   events: 
-    - name: "9:00 - 11:00 Group work time"
-    - name: "11:00 - 11:45 Tutorial on spatial data by Jeffrey Coltman-Cormier. [Tutorial Materials](https://drive.google.com/drive/folders/1WoTGuxhPx3ZdoocokOe0r7QdiAHeL5nY?usp=sharing)"
-    - name: "12:00 - 1:30 Talk by Gonzalo Rivero"
-    - name: "1:30 - 2:30 Lunch"
-    - name: "2:30 - 5:00 Group work time"
+    - name: "9:00 - 11:45 Group work time"
+    - name: "11:45 - 12:45 Tutorial on spatial data by Jeffrey Coltman-Cormier. [Tutorial Materials](https://drive.google.com/drive/folders/1WoTGuxhPx3ZdoocokOe0r7QdiAHeL5nY?usp=sharing)"
+    - name: "12:45 - 2:15 Lunch"
+    - name: "2:15 - 5:00 Group work time"
     
 - date: June 30, 2022
   name: Group work day
