@@ -1,3 +1,7 @@
+- name: Leila Gharavi
+  image: /assets/images/Leila_Gharavi.jpg
+  bio: "Leila Gharavi is a doctoral researcher in Social Sciences at the University of Helsinki. In her PhD journey, Leila will mainly detect human disposition towards natural and biophysical environment, based on a social psychological theory, taking humans’ textual footprints over the years as data."
+
 - name: Faeze Ghorbanpour
   image: /assets/images/Faeze_Ghorbanpour.jpeg
   bio: "Faeze Ghorbanpour is a research assistant at Sharif University of Technology, Iran. Her research focuses on analyzing social media and detecting fake news. Faeze's research interests include natural language processing, computational social sciences, and digital humanities. She received her master's degree from Sharif University in computer engineering and currently works for an artificial intelligence company in Iran as a machine learning specialist."
@@ -17,6 +21,7 @@
   bio: "Elida Izani is a doctoral student in the Sociology department at Stockholm University. Her research focuses on the alignment between ideological beliefs and lifestyle preferences. She investigates this topic by using a combination of qualitative and computational methods."
 
 - name: Jon Järviniemi
+  image: /assets/images/JonJarviniemi.jpg
   bio: "Jon Järviniemi is a doctoral researcher at the University of Helsinki. His research focuses on analyzing the development of populist political communication across party lines and on different political arenas. Furthermore, he is interested in what may have triggered the usage of populist communication among political actors."
 
 - name: Chaewon Yun
@@ -47,6 +52,10 @@
 - name: Xin Zhou
   image: /assets/images/Xin_Zhou.JPG
   bio: "Xin Zhou is a master's student in Political Communication at the University of Gothenburg. After receiving his Bachelor's in Journalism in China, he had several years working in a business media as a journalist. His current research interests are propaganda, censorship, and political polarization. He usually prefers to explore this field mainly using quantitative research and computational methods."
+
+- name: Rachel Bryant
+  image: /assets/images/Bryant_Rachel.png
+  bio: "Rachel has a Master of Public Administration and Nonprofit Management, and is currently pursuing a second Master's in Social Data Science at the University of Helskinki. She has worked for several international organizations and NGOs in the US, Germany, and Finland. She's interested in using data to help organizations solve different problems in the public sector."
 
 - name: Craig Ryder
   image: /assets/images/Craig Ryder SICSS.jpg
