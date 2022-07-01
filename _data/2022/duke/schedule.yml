@@ -25,9 +25,9 @@
   name: APIs and Digital Trace Data
   events:
     - name: "9:00 - 9:15 Check In"
-    - name: "9:15 - 10:30 Ridhi Kashyap (Oxford University): Digital Trace Data Introduction"
+    - name: "9:15 - 10:30 Ridhi Kashyap (Oxford University): [Digital Trace Data Introduction](https://sicss.io/2022/materials/ridhi_kashyap/digital_trace_data_intro.pdf)"
     - name: "10:30 - 10:45 Coffee Break"
-    - name: "10:45 - 12:00 Ridhi Kashyap: Digital Trace Data Case Studies Using Social Media Advertising Data"
+    - name: "10:45 - 12:00 Ridhi Kashyap: [Digital Trace Data Case Studies Using Social Media Advertising Data](https://sicss.io/2022/materials/ridhi_kashyap/case_studies.pdf)"
     - name: "12:00 - 1:00 Lunch"
     - name: "1:00 - 2:30 Suhem Parack (Twitter)"
     - name: "2:30 - 3:00 Break"
@@ -39,7 +39,7 @@
   name: Text as Data
   events:
     - name: "9:00 - 9:15 Check In"
-    - name: "9:15 - 10:30 Justin Grimmer (Stanford University) & Brandon Stewart (Princeton University): Representing Text as Data"
+    - name: "9:15 - 10:30 Justin Grimmer (Stanford University) & Brandon Stewart (Princeton University): [Representing Text as Data](https://www.dropbox.com/s/9ms6xwfmdqnuehw/DukeSICSS_2022.pdf?dl=0)"
     - name: "10:30 - 10:45 Coffee Break"
     - name: "10:45 - 12:00 Justin Grimmer & Brandon Stewart: Measurement and Causal Inference using Text as Data"
     - name: "12:00 - 1:00 Lunch"
@@ -55,7 +55,7 @@
     - name: "9:00 - 9:15 Check In"
     - name: "9:15 - 10:30 Lisa Argyle (Brigham Young University): Computational Advances in Social Science Experiments"
     - name: "10:30 - 10:45 Coffee Break"
-    - name: "10:45 - 11:15 Chris Bail (Duke University): Behind the Bot Study"
+    - name: "10:45 - 11:15 Chris Bail (Duke University): [Behind the Bot Study](https://sicss.io/2022/materials/behind_the_bot_study/Behind_the_bot.html)"
     - name: "11:15 - 11:30 Coffee Break"
     - name: "11:30 - 12:00 Lisa Argyle: Experimental Possibilities of Generative Language Models"
     - name: "12:00 - 1:00 Lunch and Guest Lecture: Daniel Argyle, Natural Language Processing"
@@ -70,11 +70,12 @@
   name: Professionalization
   events:
     - name: "9:00 - 9:15 Check In"
-    - name: "9:15 - 11:00 Speaker TBD"
-    - name: "11:00 - 11:15 Coffee Break"
-    - name: "11:15 - 12:00 Speaker TBD"
-    - name: "12:00 - 1:00 Lunch"
-    - name: "1:00 - 2:30 Group Exercises"
+    - name: "9:15 - 10:30 Chris Bail (Duke University): [How to Publish an Article in Computational Social Science](https://sicss.io/2022/materials/professionalization/publishing_articles.pdf)"
+    - name: "10:30 - 11:15 Chris Bail: [How to Get a Job in Computational Social Science](https://sicss.io/2022/materials/professionalization/getting_a_job.pdf)"
+    - name: "11:15 - 11:45 Chris Bail: [How to Get a Grant in Computational Social Science](https://sicss.io/2022/materials/professionalization/how_to_get_grants.pdf)"
+    - name: "11:45 - 12:15 Chris Bail: [How to Publish a Book in Computational Social Science](https://sicss.io/2022/materials/professionalization/publishing_book.pdf)"
+    - name: "12:15 - 1:00 Lunch"
+    - name: "1:00 - 2:30 Group Exercises: [Mapping Career Pathways in Computational Social Science](https://sicss.io/2022/materials/professionalization/mapping_career_pathways.pdf)"
     - name: "2:30 - 3:00 Break"
     - name: "3:00 - 4:30 Group Exercises"
     - name: "4:30 - 5:00 Wrap Up"
@@ -90,7 +91,7 @@
   name: Project Development
   events:
     - name: "9:00 - 9:15 Check In"
-    - name: "9:15 - 9:30 Introduction to Research Speed Dating Activity"
+    - name: "9:15 - 9:30 [Introduction to Research Speed Dating Activity](https://sicss.io/2022/materials/research-speed-dating/Speed_Dating_2021.html)"
     - name: "9:30 - 11:00 Research Speed Dating"
     - name: "11:00 - 11:15 Coffee Break"
     - name: "11:15 - 12:00 Research Speed Dating Activity"
@@ -123,11 +124,11 @@
     - name: "11:00 - 11:15 Coffee Break"
     - name: "11:15 - 12:00 Group Projects Work Continued"
     - name: "12:00 - 1:00 Lunch"
-    - name: "1:00 - 2:30 Group Project Final Presentations"
+    - name: "1:00 - 2:30 Group Projects Work Continued"
     - name: "2:30 - 3:00 Break"
     - name: "3:00 - 4:30 Group Project Final Presentations"
     - name: "4:30 - 5:00 Wrap Up"
-    - name: "5:00 - 7:00 Farewell Dinner"
+    - name: "6:00 - 8:00 Farewell Dinner"
   
 - date: 2022-06-30
   events:

@@ -24,7 +24,7 @@
   website: https://twitter.com/SmallJosePhD
   
 - name: Michael Ehinmowo
-  image: /assets/images/
+  image: /assets/images/Mic.jpg
   bio: "<p align='justify'>Michael Ehinmowo is a master's student in the department of psychology at the University of Ibadan. His current research interest is at the nexus of mental health, collective behaviour, bioethics, and social policy. He is interested in employing emerging tools of computation in science.</p>"
   
 - name: Victoria Okafor
@@ -33,8 +33,13 @@
   website: https://scholar.google.com/citations?user=By-AdooAAAAJ&hl=en
     
 - name: Oluwaseyi Olopade
-  image: /assets/images/
+  image: /assets/images/OOlopade.jpg
   bio: "<p align='justify'>Oluwaseyi Olopade is an early career researcher and a recent graduate of Financial Economics at the University of Johannesburg. Oluwaseyi’s current research aims to address the impact of out-of-pocket health expenditure and the state of well-being in Nigerian households. She holds an Honours Bachelor’s degree in Econometrics from the University of Johannesburg, and an undergraduate degree from Ajayi Crowther University.</p>"
+
+- name: Samuel Olumide
+  image: /assets/images/
+  bio: "<p align='justify'>Samuel Olumide is a master student and research assistant at the Department of Agricultural Economics at Ladoke Akintola University of Technology. Samuel is joining Department of Agricultural Economics at the University of Nebraska-Lincoln in the Fall of 2022 to continue his masters studies.</p>"
+  website: https://twitter.com/OlumideSamuel19
   
 - name: Marvellous Ngundu
   image: /assets/images/MNgundu.jpg
@@ -51,7 +56,7 @@
   website: https://www.linkedin.com/in/augustine-ogbaji-otobi-166756103
   
 - name: Ridwan Shittu
-  image: /assets/images/RShittu.jpg
+  image: /assets/images/Ridwan.jpg
   bio: "<p align='justify'>Ridwan Shittu is a Master’s student in Medical Demography at the University of Ibadan in Nigeria and the founder of IgnitePeak Advanced Professional Consult. He is interested in exploring how big data and computational demographic techniques can be used to advance the study of behavioural and health inequality. His thesis work explores the pattern and rural-urban differential of maternal health care practice and childhood respiratory infection symptoms. Ridwan holds a Bachelor’s Degree in Demography and Social Statistics from Federal University Oye-Ekiti, Nigeria.</p>"
   website: https://www.linkedin.com/in/olusola-r-shittu-b863541bb
 

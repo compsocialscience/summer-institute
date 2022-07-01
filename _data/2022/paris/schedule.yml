@@ -36,10 +36,10 @@
 Broadcasts, 2002-2020"
     
 - date: 2022-06-23
-  name: Scraping Unstructured Formats
+  name: Scraping unstructured formats & intro to Text as Data
   events:
-    - name: "09:30 - 12:00 Lecture ([Étienne Ollion](www.ollion.cnrs.fr))"
-    - name: "12:00 - 14:00 Lunch Break"
+    - name: "10:00 - 12:30 Lecture ([Étienne Ollion](www.ollion.cnrs.fr))"
+    - name: "12:30 - 14:00 Lunch Break"
     - name: "14:00 - 16:30 Group Exercise ([Felix Lennert](https://felix-lennert.netlify.app) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/))"
     - name: "16:30 - 17:00 Coffee Break"
     - name: "17:00 - 18:30 [Liva Ralaivola](https://pageperso.lis-lab.fr/~liva.ralaivola/doku.php): Privacy and Fairness in AdTech and Beyond"
@@ -47,8 +47,8 @@ Broadcasts, 2002-2020"
 - date: 2022-06-24
   name: Natural Language Processing
   events:
-    - name: "09:30 - 12:00 Lecture ([Germain Gauthier](https://pinchofdata.github.io/germaingauthier/))"
-    - name: "12:00 - 14:00 Lunch Break"
+    - name: "10:00 - 12:30 Lecture ([Germain Gauthier](https://pinchofdata.github.io/germaingauthier/))"
+    - name: "12:30 - 14:00 Lunch Break"
     - name: "14:00 - 16:30 Group Exercise ([Felix Lennert](https://felix-lennert.netlify.app) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/))"
     - name: "16:30 - 17:00 Coffee Break"
     - name: "17:00 - 18:30 [Elliott Ash](http://elliottash.com): Advances in Natural Language Processing"
@@ -63,8 +63,8 @@ Broadcasts, 2002-2020"
 - date: 2022-06-27
   name: Natural Language Processing
   events:
-    - name: "09:30 - 12:00 Lecture ([Germain Gauthier](https://pinchofdata.github.io/germaingauthier/))"
-    - name: "12:00 - 14:00 Lunch Break"
+    - name: "10:00 - 12:30 Lecture ([Germain Gauthier](https://pinchofdata.github.io/germaingauthier/))"
+    - name: "12:30 - 14:00 Lunch Break"
     - name: "14:00 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
     - name: "17:00 - 18:30 [David Garcia](https://dgarcia.eu): Validating Social Media Emotion Measurement Across Levels of Behavior"
@@ -72,8 +72,8 @@ Broadcasts, 2002-2020"
 - date: 2022-06-28
   name: Natural Language Processing
   events:
-    - name: "09:30 - 12:00 [Lucas Girard](https://faculty.crest.fr/lgirard/): Measuring Ideological Segregation from Text"
-    - name: "12:00 - 14:00 Lunch Break"
+    - name: "10:00 - 12:30 [Lucas Girard](https://faculty.crest.fr/lgirard/): Measuring Ideological Segregation from Text"
+    - name: "12:30 - 14:00 Lunch Break"
     - name: "14:00 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
     - name: "17:00 - 18:30 [Ivaylo Petev](https://www.ipetev.org): The Economic Penalty of Discrimination -- Evidence from Online Platforms"
@@ -81,8 +81,8 @@ Broadcasts, 2002-2020"
 - date: 2022-06-29
   name: Agent-Based Modeling
   events:
-    - name: "09:30 - 12:00 Lecture ([Gianluca Manzo](https://www.gemass.fr/manzo/)) "
-    - name: "12:00 - 14:00 Lunch Break"
+    - name: "10:00 - 12:30 Lecture ([Gianluca Manzo](https://www.gemass.fr/manzo/)) "
+    - name: "12:30 - 14:00 Lunch Break"
     - name: "14:00 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
     - name: "17:00 - 18:30 [Gloria Gennaro](http://gloriagennaro.rbind.io): Randomized Digital Experiments"
@@ -90,8 +90,8 @@ Broadcasts, 2002-2020"
 - date: 2022-06-30
   name: Social Experiments in a Digital World
   events:
-    - name: "09:30 - 12:00 Lecture ([Marc Keuschnigg](https://www.keuschnigg.org))"
-    - name: "12:00 - 14:00 Lunch Break"
+    - name: "10:00 - 12:30 Lecture ([Marc Keuschnigg](https://www.keuschnigg.org))"
+    - name: "12:30 - 14:00 Lunch Break"
     - name: "14:00 - 16:30 Group Projects"
     - name: "16:30 - 17:00 Coffee Break"
     - name: "17:00 - 18:30 [Étienne Ollion](www.ollion.cnrs.fr): The Augmented Social Scientist"
@@ -100,4 +100,4 @@ Broadcasts, 2002-2020"
 - date: 2022-07-01
   name: Final day
   events:
-    - name: "09:00 - 12:00 Presentations"
+    - name: "10:00 - 12:30 Presentations"

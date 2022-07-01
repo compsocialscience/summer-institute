@@ -65,13 +65,12 @@
   events:
     - name: "10:00 - 11:00 Lecture part 1"
     - name: "11:00 - 11:20 Coffee break"
-    - name: "11:20 - 12:00 Lecture part 2"
-    - name: "12:00 - 1:00 Lunch at school canteen"
-    - name: "1:00 - 1:30 Lightning talk by participant (encouraged)"
-    - name: "1:35 - 3:00 Goup exercise"
-    - name: "3:00 - 3:15 Break"
-    - name: "3:15 - 4:00 Continue on group exercise"
-    - name: "4:00 - 4:15 Debrief and logistics"
+    - name: "11:20 - 12:20 Lecture part 2"
+    - name: "12:20 - 1:10 Lunch at school canteen"
+    - name: "1:10 - 1:30 Lightning talk by participant (encouraged)"
+    - name: "1:30 - 3:45 Goup exercise"
+    - name: "3:45 - 4:00 Debrief and logistics"
+    - name: "4:00 - 4:20 Coffee Break"
     - name: "4:30 - 6:00 Talk by Prof. Jinjun Xiong"
  
 - date: 2022-06-25
@@ -83,22 +82,33 @@
 - date: 2022-06-27
   name: Work on group projects
   events:
-    - name: "10:00 - 10:15 Research Speed Dating Logistics"
-    - name: "10:00 - 10:20 Coffee break"
-    - name: "10:20 - 12:00 Research Speed Dating Maximally Similar Groups"
-    - name: "12:00 - 1:00 Lunch at school canteen"
-    - name: "1:10 - 3:00 Research Speed Dating Maximally Dissimilar Groups"
-    - name: "3:00 - 3:20 Coffee Break"
-    - name: "3:20 - 4:00 Group Debrief (join research teams)"
+    - name: "10:00 - 10:10 Research Speed Dating Logistics"
+    - name: "10:10 - 11:00 Research Speed Dating Maximally Similar Groups"
+    - name: "11:00 - 11:20 Coffee break"
+    - name: "11:20 - 12:20 Research Speed Dating Maximally Dissimilar Groups"
+    - name: "12:20 - 1:10 Lunch at school canteen"
+    - name: "1:15 - 1:30 Lightning talk by participant (encouraged)"
+    - name: "1:30 - 3:45 Work on group projects"
+    - name: "3:45 - 4:00 Group Debrief (join research teams)"
     - name: "4:00 - 5:00 Social Hour (optional) guest: Prof. Rodrigo Belo, Professor of Information Systems at Nova SBE/Rotterdam School of Management"
  
 - date: 2022-06-28
   name: Work on group projects
   events:
-    - name: "4:00 - 5:00 Social Hour (optional) guest: Bernardo Costa, PhD student at Nova SBE, SICSS-Lisbon 2021 alumnus"
+    - name: "10:00 - 10:10 Logistics"
+    - name: "10:10 - 11:00 Work on group projects"
+    - name: "11:00 - 11:20 Coffee break"
+    - name: "11:20 - 12:20 Work on group projects"
+    - name: "12:20 - 1:10 Lunch at school canteen"
+    - name: "1:15 - 1:30 Lightning talk by participant (encouraged)"
+    - name: "1:30 - 3:45 Work on group projects"
+    - name: "3:45 - 4:00 Group Debrief (join research teams)"
+    - name: "4:00 - 5:00 Social Hour (optional) guest: Maximilian Kaiser, PhD student at Frankfurt School of Finance and Management"
+    - name: "7:00 - 9:00pm Farewell Dinner (Location: Bairrices)"
  
 - date: 2022-06-29
   name: Work on group projects
   events:
-    - name: "4:00 - 5:00pm Research teams presentation and discussion (subject to change if participants need to leave at the same day"
-    - name: "7:00 - 9:00pm Farewell Dinner (Location TBD)"
+    - name: "3:00 - 4:00pm Research teams presentation and discussion"
+    - name: "4:00 - 5:00 Social Hour (optional) guest: Bernardo Costa, PhD student at Nova SBE, SICSS-Lisbon 2021 alumnus"
+    

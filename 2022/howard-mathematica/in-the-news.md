@@ -10,6 +10,16 @@ image: /assets/images/howard.jpg
 <br />
 
 ---
+<u>Female scientists don’t get the credit they deserve. A study proves it.</u>
+<br><font color="grey"><font size="2">Jun 22, 2022</font></font> 
+<br><i><font size = "2">Female scientists are “significantly less likely” than men to be credited as authors. SICSS-H/M Lunchtime speaker Professor Christen Smith, founder of Cite Black Women, discussed how women, and especially women of color, are under-cited and even excluded from authorship in this article.</font></i>
+<br><font size = "1">(Posted by <a href="https://www.washingtonpost.com/business/2022/06/22/women-scientists-authorship-credit-study/">The Washington Post</a>)</font>
+
+<u>Beyond the Numbers – Howard is Preparing to Educate the Next Generation of Black Data Scientists.</u>
+<br><font color="grey"><font size="2">Jun 21, 2022</font></font> 
+<br><i><font size = "2">The ability to understand and analyze data is increasingly important for people of color so we can use data to determine our own destiny. See what Naniette Coleman, founder of SICSS-Howard/Mathematica, has to say about data science and SICSS-H/M's role in training future Black data scientists.</font></i>
+<br><font size = "1">(Posted by <a href="https://magazine.howard.edu/stories/beyond-the-numbers">Howard Magazine</a>)</font>
+
 <u>SICSS-Howard/Mathematica 2022 Research Grant Request for Proposal</u>
 <br><font color="grey"><font size="2">Jun 19, 2022</font></font> 
 <br><i><font size = "2">Funding from Mathematica will be available for research projects created by individual participants and participant teams from the SICSS-Howard/Mathematica 2022 & 2021 sites. Applications are open and due August 31.</font></i>

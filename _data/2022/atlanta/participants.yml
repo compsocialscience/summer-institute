@@ -8,11 +8,6 @@
   bio: "Allyson Bachta is a PhD candidate at University of Massachusetts Boston. Her research lies at the intersection of intrastate political violence and education in post-conflict, polarized, and divided societies. She is specifically interested in examining how machine learning can support early conflict warning and prevention research."  
   website: https://www.linkedin.com/in/allyson-bachta-347b2244/
   
-- name: "Callie	Burt"
-  image: /assets/images/Callie Burt.jpg
-  bio: "Callie Burt is Associate Professor of Criminal Justice and Criminology at Georgia State University, and she is affiliated with several interdisciplinary research centers including GSU’s Center for Research on Interpersonal Violence (CRIV) and U of Washington’s Center for Studies in Demography and Ecology (CSDE). Her research interests include developmental and life-course criminology, social inequalities, and sociogenomics."  
-  website: https://callieburt.org
-  
 - name: "Can Chen"
   image: /assets/images/Can Chen.jpeg
   bio: "Can Chen is an associate professor in the Andrew Young School of Policy Studies at Georgia State University. His substantive research topic interests include infrastructure (transportation) finance and policy, disaster finance, and fiscal transparency. His methodological interests are causal research designs and emerging data sciences."  
@@ -53,10 +48,6 @@
   image: /assets/images/Jessie Liu.jpg
   bio: "Yuehan (Jessie) Liu is a Ph.D. candidate in the Department of Communication at Georgia State University. Her dissertation focuses on people's motivations to give social support on social media. Before coming to the Ph.D. program, Jessie studied Journalism at Michigan State University and earned her bachelor's and master's degrees."  
 
-- name: "Kayla McMinimy"
-  image: /assets/images/Kayla McMinimy.jpeg
-  bio: "Kayla McMinimy is a Public Communication PhD student at Georgia State University. She is a Craigie Fellow and is associated with the Transcultural Conflict and Violence Initiative. She studies politics, rhetoric, media/social media, and ideology."  
-  
 - name: "Eliza Oak"
   image: /assets/images/Eliza Riley Oak.jpg
   bio: "Eliza Oak is a second-year political science PhD student, also pursuing an MA in Statistics & Data Science, at Yale University. Her work broadly spans comparative politics, international political economy, and quantitative methods. Specifically, she's interested in questions related to the politics of blockchain and other emerging technologies, particularly in developing markets. She has used a variety of methods in her research, including applying machine learning techniques to collect and analyze text and image data, or analyzing original survey and experimental data. Prior to Yale, Eliza worked as a research associate at MIT’s Political Methodology Lab, and she holds a BA in political science from BYU."  
@@ -89,7 +80,7 @@
 - name: "Lauren Williams"
   image: /assets/images/Lauren Williams.jpeg
   bio: "Lauren Williams is a MS candidate for Business Analytics at Mercer University. Her research areas of interest include natural language processing, process optimization & logistics.  Previously, she was a research assistant at The University of Alabama, where she obtained her BS in marketing. The research was primarily operations based and focused on designing an equitable and effective food distribution system for Feeding America." 
-  website: www.linkedin.com/in/laurenkellywilliams
+  website: https://www.linkedin.com/in/laurenkellywilliams
   
 - name: "Ben Wills"
   image: /assets/images/Ben Wills.jpg

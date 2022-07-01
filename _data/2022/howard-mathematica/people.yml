@@ -52,7 +52,10 @@ keynote:
 closing:
   title: Closing Plenary Speaker 
   people:
-    - name: Coming soon...
+    - name: LaVerne H. Council
+      image: /assets/images/LaVerne_Council.png
+      bio: 'LaVerne H. Council began her career as an "intrapreneur" over 35 years ago, developing a name as a transformational leader; focusing people over product, outcomes over activity. She is a global operations and information technology strategist and change agent, and her experience as a global executive provides her a unique perspective as an influencer, advisor, and coach. She is a founder and the Chief Executive Officer (CEO) of Emerald One and a member of the board of directors for ConMed, Mathematica, March of Dimes, Concentrix, and GirlUp. LaVerne’s work as a global executive leader with organizations like Grant Thornton, Johnson & Johnson; Dell, Inc.; and Ernst & Young, LLC give her a unique perspective on the opportunities and challenges faced by both CxO executives and their employees. In her role as the Assistant Secretary for the Office of Information and Technology and Chief Information Officer at the Department of Veterans Affairs, LaVerne not only created the technology strategy, investment, and implementation for the largest civilian agency in the federal government, she transformed the executive leadership team to the most culturally diverse in the federal government. LaVerne focuses on the health of an organization, the cohesion of the team, and the strength of the individual, weaving the professional path with personal development. A volunteer since the age of 5, LaVerne advises leaders and teams on servant leadership, spotlighting the unique gifts each person brings to the team and using oneself to improve the lives of others.'
+      website: https://www.emeraldone.com/about-us
 
 
 speakers: 
@@ -65,7 +68,7 @@ speakers:
    
     - name: Karen Levy, Ph.D., J.D.
       image: /assets/images/Karen_Levy.jpg
-      bio: "Karen Levy is an Assistant Professor in the Department of Information Science at Cornell University, and associate member of the faculty of Cornell Law School. She researches how law and technology interact to regulate social life, with particular focus on social and organizational aspects of surveillance. Much of Dr. Levy's research analyzes the uses of monitoring for social control in various contexts, from long-haul trucking to intimate relationships. She is also interested in how data collection uniquely impacts, and is contested by, marginalized populations. Dr. Levy is also a fellow at the Data and Society Research Institute in New York City. She holds a Ph.D. in Sociology from Princeton University and a J.D. from Indiana University Maurer School of Law. Dr. Levy previously served as a law clerk in the United States Federal Courts."
+      bio: "Karen Levy is an Associate Professor in the Department of Information Science at Cornell University, and associate member of the faculty of Cornell Law School. She researches how law and technology interact to regulate social life, with particular focus on social and organizational aspects of surveillance. Much of Dr. Levy's research analyzes the uses of monitoring for social control in various contexts, from long-haul trucking to intimate relationships. She is also interested in how data collection uniquely impacts, and is contested by, marginalized populations. Dr. Levy is also a fellow at the Data and Society Research Institute in New York City. She holds a Ph.D. in Sociology from Princeton University and a J.D. from Indiana University Maurer School of Law. Dr. Levy previously served as a law clerk in the United States Federal Courts."
       website: https://sts.cornell.edu/karen-levy
     
     - name: Brandeis Marshall, Ph.D.
@@ -75,7 +78,7 @@ speakers:
       
     - name: Kyla McMullen, Ph.D.
       image: /assets/images/Kyla_McMullen.jpg
-      bio: 'Dr. Kyla McMullen earned her Bachelor of Science in Computer Science from the University of Maryland, Baltimore County (UMBC), where she was also a Meyerhoff Scholar. She earned her Masters and Ph.D. degrees in Computer Science and Engineering from the University of Michigan (2007-2012). While earning her Ph.D. she was also a faculty member at Wayne State University in Detroit, Michigan. At Wayne State University she taught computer literacy courses to over 2,000 students. Dr. McMullen is the first (and currently the only) woman of color to earn a Ph.D. in Computer Science and Engineering from the University of Michigan. She is currently a tenure-track faculty member in the University of Florida’s Computer & Information Sciences & Engineering Department. Dr. McMullen has a personal commitment to encouraging women and minorities to pursue careers in computing and other STEM fields. She is the author of "Beautiful, Black, and Brainy" and "Brilliant is the New Black" which showcase hundreds of exceptional young African Americans who excel in STEM fields and don’t fit the typical "scientist" stereotype.'
+      bio: 'Dr. Kyla McMullen earned her Bachelor of Science in Computer Science from the University of Maryland, Baltimore County (UMBC), where she was also a Meyerhoff Scholar. She earned her Masters and Ph.D. degrees in Computer Science and Engineering from the University of Michigan (2007-2012). While earning her Ph.D. she was also a faculty member at Wayne State University in Detroit, Michigan. At Wayne State University she taught computer literacy courses to over 2,000 students. Dr. McMullen is the first (and currently the only) woman of color to earn a Ph.D. in Computer Science and Engineering from the University of Michigan. She is currently a tenured faculty member in the University of Florida’s Computer & Information Sciences & Engineering Department. Dr. McMullen has a personal commitment to encouraging women and minorities to pursue careers in computing and other STEM fields. She is the author of "Beautiful, Black, and Brainy" and "Brilliant is the New Black" which showcase hundreds of exceptional young African Americans who excel in STEM fields and don’t fit the typical "scientist" stereotype.'
       website: http://kylamcmullen.com/
 
 
@@ -113,7 +116,7 @@ panels:
    
     - name: Kyla McMullen, Ph.D.
       image: /assets/images/Kyla_McMullen.jpg
-      bio: 'Dr. Kyla McMullen earned her Bachelor of Science in Computer Science from the University of Maryland, Baltimore County (UMBC), where she was also a Meyerhoff Scholar. She earned her Masters and Ph.D. degrees in Computer Science and Engineering from the University of Michigan (2007-2012). While earning her Ph.D. she was also a faculty member at Wayne State University in Detroit, Michigan. At Wayne State University she taught computer literacy courses to over 2,000 students. Dr. McMullen is the first (and currently the only) woman of color to earn a Ph.D. in Computer Science and Engineering from the University of Michigan. She is currently a tenure-track faculty member in the University of Florida’s Computer & Information Sciences & Engineering Department. Dr. McMullen has a personal commitment to encouraging women and minorities to pursue careers in computing and other STEM fields. She is the author of "Beautiful, Black, and Brainy" and "Brilliant is the New Black" which showcase hundreds of exceptional young African Americans who excel in STEM fields and don’t fit the typical \"scientist\" stereotype.'
+      bio: 'Dr. Kyla McMullen earned her Bachelor of Science in Computer Science from the University of Maryland, Baltimore County (UMBC), where she was also a Meyerhoff Scholar. She earned her Masters and Ph.D. degrees in Computer Science and Engineering from the University of Michigan (2007-2012). While earning her Ph.D. she was also a faculty member at Wayne State University in Detroit, Michigan. At Wayne State University she taught computer literacy courses to over 2,000 students. Dr. McMullen is the first (and currently the only) woman of color to earn a Ph.D. in Computer Science and Engineering from the University of Michigan. She is currently a tenured faculty member in the University of Florida’s Computer & Information Sciences & Engineering Department. Dr. McMullen has a personal commitment to encouraging women and minorities to pursue careers in computing and other STEM fields. She is the author of "Beautiful, Black, and Brainy" and "Brilliant is the New Black" which showcase hundreds of exceptional young African Americans who excel in STEM fields and don’t fit the typical \"scientist\" stereotype.'
       website: http://kylamcmullen.com/
  
     - name: Bhaso Ndzendze, Ph.D.
@@ -132,7 +135,7 @@ panels:
       website: https://evansosabuohien.com/
     
     - name: Lebogang Ramafoko
-      image: /assets/images/Lebogang_Ramafoko.jpeg
+      image: /assets/images/Lebogang_Ramafoko.jpg
       bio: "Lebogang is currently the Executive Director of Oxfam South Africa. Lebogang is an outspoken feminist thinker and strategist, a sought-after speaker, facilitator, and trainer who is passionate about social justice particularly for young women and girls. Lebogang combines her own life experience as a black woman who grew up in Apartheid South Africa, thrust into activism at an early age and the skills she acquired through her training to speak out against injustice wherever she goes. She is one of the prominent media commentators and advocates on various social issues facing women in South Africa."
       website: https://docs.google.com/document/d/1cs3rwShBjHTNd6AN8swy9eRR_fQrS0aA/edit?usp=sharing&ouid=112934598660812456864&rtpof=true&sd=true
       
@@ -144,12 +147,13 @@ panels:
 
 roundtable discussions:
   title: '"Real Talk" Roundtable Discussions'
+  
   people:
     - name: Howard University
       image: /assets/images/HowardULog.png
       bio: "Howard University has long held a commitment to the study of disadvantaged persons in American society and throughout the world. The goal is the elimination of inequities related to race, color, social, economic and political circumstances. As the only truly comprehensive predominantly Black university, Howard is one of the major engineers of change in our society. Through its traditional and cutting-edge academic programs, the University seeks to improve the circumstances of all people in the search for peace and justice on earth."
       website: https://home.howard.edu/ 
-      
+  
     - name: Mathematica
       image: /assets/images/MathematicaStackedLogo.png
       bio: "Mathematica is the insight partner that illuminates the path to progress for public- and private-sector changemakers. We apply expertise at the intersection of data, methods, policy, and practice, translating big questions into deep insights that weather the toughest tests. Driven by our mission to improve public well-being, we collaborate closely with our clients to improve programs, refine strategies, and enhance understanding."     
@@ -218,11 +222,6 @@ participants:
       bio: "Nayantara Biswas is a doctoral candidate in the Department of Economics at Clark University in Worcester, Massachusetts. Her research examines the impact of public policies on maternal and child health and labor outcomes in developing countries. She uses data-driven techniques in evidence-based policy research with a focus on equity."
       website: https://nayantara.biswas.me/
     
-    - name: JoVontae Butts
-      image: /assets/images/JoVontae_Butts.jpg
-      bio: "I'm a Ph.D. student at Florida State University, born and raised in Pontiac, Michigan. Unfortunately, seeing great inequality as a young boy, I have great interest in the causes of inequalities and the measures that can be taken to combat them. "
-      website: https://www.linkedin.com/in/jovontae-butts/
-    
     - name: Renee Clarke
       image: /assets/images/Renee_Clarke.jpg
       bio: "Renee Clarke is a clinical public health professional at University of California, Berkeley. She is passionate about improving the healthcare system in the United States, globally and hopes to combat the many healthcare disparities many systems encounter. She loves connecting with like minded individuals of all disciplines."
@@ -262,11 +261,6 @@ participants:
       image: /assets/images/Amber_Mackey.png
       bio: "Amber Mackey is pursuing a Ph.D. in political science at the University of Pennsylvania. Her work examines policy, protest, and race and ethnic politics. In addition to working in the academy, Amber is dedicated to learning and teaching about data collection and advocacy work to others within her community."
       website: https://www.linkedin.com/in/amber-m-24459818b/
-
-    - name: Jeremiah Muhammad
-      image: /assets/images/Jeremiah_Muhammad.jpeg
-      bio: "Jeremiah Muhammad is a second-year Ph.D. student at the University of Tennessee, Knoxville. His fields of concentration include American politics, comparative politics, and research methodology. Currently, Jeremiah researches the politics of crises and their impact on Black American political behavior."
-      website: https://www.linkedin.com/in/jmuhammad
 
     - name: Imani Munyaka
       image: /assets/images/Imani_Munyaka.jpg
@@ -319,15 +313,16 @@ planning_team:
 
 teaching_assistants:
   title: Teaching Assistants (Mathematica)
-  people:
-    - name: Coming soon...
+    <img class="Mathematica TA" src="/assets/images/Mathematica_TA.png" />
 
 
 event_staff:
   title: Event Staff (Coleman Research Lab & SICSS-alumni)
     <img class="Coleman research lab" src="/assets/images/Coleman_research_lab.png" />
     
+    
     <img class="Teaching fellow" src="/assets/images/Teaching_fellow.png" />
+    
     
     <img class="R instructor" src="/assets/images/R_instructor.png" />
     
