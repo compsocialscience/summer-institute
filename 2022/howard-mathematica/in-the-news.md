@@ -10,6 +10,12 @@ image: /assets/images/howard.jpg
 <br />
 
 ---
+<u>Naniette Coleman, University of California Berkeley – Diversifying the Hands that Combat Misinformation</u>
+<br><font color="grey"><font size="2">Jun 29, 2022</font></font> 
+<br><i><font size = "2">In this podcast, founder of SICSS-H/M Naniette Coleman shares how to diversify the hands that combat misinformation. In six years, hundreds of Berkeley affiliated students engaged in this innovative approach to counter misinformation.</font></i>
+<br><font size = "1">(Posted by <a href="https://academicminute.org/2022/06/naniette-coleman-university-of-california-berkeley-diversifying-the-hands-that-combat-misinformation-one-wikipedia-edit-button-click-at-a-time/">Academic Minute</a>)</font>
+
+
 <u>Female scientists don’t get the credit they deserve. A study proves it.</u>
 <br><font color="grey"><font size="2">Jun 22, 2022</font></font> 
 <br><i><font size = "2">Female scientists are “significantly less likely” than men to be credited as authors. SICSS-H/M Lunchtime speaker Professor Christen Smith, founder of Cite Black Women, discussed how women, and especially women of color, are under-cited and even excluded from authorship in this article.</font></i>
