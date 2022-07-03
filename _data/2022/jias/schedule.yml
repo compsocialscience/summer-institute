@@ -232,42 +232,46 @@
 - date: Monday, 4 July 2022 
   name: In-person group projects
   events:
-    - name: Paticipants arrive at accomodation
-    - name: 13:00 - 14:00 Lunch
-    - name: 15:00 - 17:00 Welcome, Logistics and Group allocations
+    - name: "08:00 - 12:30 Paticipants arrive at Accomodation"
+    - name: "13:00 - 14:00 Lunch"
+    - name: "14:00 - 16:15 Welcome and Logistics, JIAS Campus Tour, Group Work"
+    - name: "17:30 - 18:30 Meet and Greet with Siphamandla Zondi (IPATC, University of
+      Johannesburg)"
+    - name: "19:00 - 21:00 Reception Dinner"
 
 - date: Tuesday, 5 July 2022
   events:
-    - name: 09:00 - 12:30 Group Project Discussion
-    - name: 13:00 - 13:30 Lunch
+    - name: "09:00 - 10:00 Lecture: Emmanuel Olamijuwon (SICSS Covenant)"
+    - name: "10:00 - 12:30 Group Work"
+    - name: "13:00 - 13:30 Lunch"
     - name: "14:00 - 15:00 Lecture: [Vukosi Marivate](https://dsfsi.github.io/) (University of Pretoria)"
-    - name: 15:00 - 16:00 Lightning Talks
-    - name: 16:00 - 17:30 Group Projects
+    - name: "15:00 - 16:00 Group Work with Vukosi Marivate"
+    - name: "16:00 - 17:00 Group Work"
 
 - date: Wednesday, 6 July 2022
   events:
     - name: "09:00 - 10:00 Lecture: [Chenai Chair](https://www.chenai.africa)  (Moz://a Foundation)"
     - name: "10:00 - 12:00 Lecture: [Tapiwa
       Chagonda](https://www.uj.ac.za/members/tapiwa-chagonda/) (University of Johannesburg)"
-    - name: 13:00 - 14:00 Lunch
-    - name: 14:00 - 17:30 Group Project
+    - name: "13:00 - 14:00 Lunch"
+    - name: "14:00 - 17:00 Group Work"
 
 - date: Thursday, 7 July 2022
   events:
-    - name: 09:00 - 10:00 Group Project
-    - name: "10:00 - 12:00 Lecture: Odilile Ayodele (University of Johannesburg)"
-    - name: 13:00 - 14:00 Lunch
-    - name: 14:00 - 17:30 Group Project
+    - name: "09:00 - 10:00 Group Work"
+    - name: "10:00 - 11:00 Lecture: Odilile Ayodele (University of Johannesburg)"
+    - name: "13:00 - 14:00 Lunch"
+    - name: "14:00 - 17:00 Group Work"
     - name: "16:00 - 17:00 International Civil Society Centre: Digital Dialogue #5 ‘Hacking for
       Good?’ [(register here)](https://icscentre.org/events/digital-dialogue-5-hacking-for-good/?)
       (optional)"
 
 - date: Friday, 8 July 2022
   events:
-    - name: "09:00 - 10:00 Lecture: Courtesy of SICSS-Howard/Mathematica"
+    - name: "09:00 - 11:00 Final Presentations"
     - name: "11:00 - 12:00 Discussion session: Sibongiseni Thotsejane (University of Cape Town)"
-    - name: 13:00 - 14:00 Lunch
-    - name: 14:00 - 17:30 Final Presentations
+    - name: "13:00 - 14:00 Lunch"
+    - name: "15:00 - 16:30 Happy Hour"
 
 - date: Saturday, 9 July 2022
   events:
