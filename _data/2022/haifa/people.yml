@@ -48,6 +48,12 @@ speakers:
       bio: "Research Areas: Machine Learning, Deep Learning, Computational Structural Biology."
       image: /assets/images/Thomer-Sidi.jpg
       website:
+      
+    - name: Noga Aviad
+      bio: "I completed B.Sc. studies at BIU in computer science and neuroscience. I then worked for several years as a software developer in the high-tech industry, and returned to academia due to my curiosity about consciousness broadly and mindfulness in particular. My M.A. thesis used machine learning to analyze EEG data of meditators. Currently, I am extending this line of research in my Ph.D., using Complex Dynamical Systems approach to study mindfulness mechanisms."
+      image: /assets/images/Noga_Aviad.jpg
+      website:
+
 
 Teaching Assistants:
   title: Speakers
