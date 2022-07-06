@@ -2,10 +2,6 @@
   bio: "My name is Ariana Alexandra Stefania Mrejeru and I’m 21 years old. Currently I’m a student enrolled in Global Governance B.A. at university of Tor Vergata in Rome. One of my biggest passions is investigating my surroundings and understanding the reasons and the factors influencing specific situations. I value awareness and I think multidisciplinarity is the best way to achieve it. As said before, I’m still a student and so I’m still projecting my future day by day. Now I’m not able to clearly say what I want to do one day, but I can definitely answer what kind of person I want to be in the next few years. I would like to help people, working on society's dynamics. Although I'm still not sure how to do it, I strongly believe in cooperation and awareness as the means to achieve freedom."
   image: /assets/images/roma-tv/mrereju.jpeg
   
-- name: Brahim Alhiani
-  bio: "I recently got a PhD in Sociology and worked as an early-career professor of Sociology. I’m also an expert in data multivariate analysis and model in Social Sciences, and active member of “Social Sciences and Societal Transformations” Lab at the Faculty of Letters and Human Sciences, Cadi Ayyad University (Marrakech, Morocco) as well as a member in different national and international organizations like I.V.S.A. My main interests focus on Sociology of Work, Organization and Enterprises, especially gender equality in feminine cooperatives, and youth entrepreneurial culture, in addition to the questions of urban planning and teaching research methods."
-  image: /assets/images/roma-tv/brahimalhiani.jpg
-  
 - name: Camilla D’Onofrio
   bio: "I am a second-year student from the Undergraduate Degree in Global Governance, at the University of Rome Tor Vergata, currently majoring in Economics and Philosophy. I have attended a classical high school, focusing on humanities courses like Philosophy, Latin, and Ancient Greek. By studying Economics and Statistics, I developed a fascination for applied economic research. I became interested in learning more about decision-making processes and how economics influences them, also considering ethical and psychological implications.  In the future, I would like to pursue a Master’s Degree in Behavioral Economics, with a specific focus on the role played by this field in evidence-based policymaking. In addition, I am presently volunteering as a marketing team leader in Aiesec in Roma Tor Vergata, which has helped me build my leadership abilities and boost soft skills such as public speaking, problem-solving, time management, and teamwork."
   image: /assets/images/roma-tv/donofrio.jpg
@@ -25,6 +21,10 @@
 - name: Eric Shuman 
   bio: "I recently completed my PhD student in social psychology at the University of Groningen supervised by Eran Halperin, Tamar Saguy, and Martijn van Zomeren, and am about to begin my post-doc at NYU with Eric Knowles and Harvard University with Amit Goldenberg. My research interests include collective action, emotions, and intergroup power relations. In particular, I am interested in different types of collective action (e.g. nonviolent, nonnormative, violent). My research examines psychological factors that promote support for these types of action, but also the effects and effectiveness of these types of action at motivating historically advantaged groups to address inequality. I study the predictors and effects of collective action both using traditional psychological lab and survey experiments, but also by examining the dynamics and reactions to real-world protests in surveys and on social media."
   image: /assets/images/roma-tv/ericshuman.jpg
+  
+- name: Esra Saçli
+  bio: "My name is Esra Saçlı. I am a senior International Relations student from Istanbul, Turkey. For my studies, I moved to Ankara, where I focused on the social and political history of the Middle East, propaganda, and social theories apart from my regular curriculum. Additionally, during my exchange semester at the Humboldt University of Berlin, I started to be interested in forced migration and R. Due to my background in Economics, the latter inspired me to expand my quantitative research methods by taking small steps in Phyton and R. Therefore, having an opportunity to join the SICSS community and expand my vision in Computational Social Sciences is thrilling for me. I look forward to gaining a solid knowledge of these tools before a Master's degree program, instrumentalizing them in my future research on migration and meeting like-minded fellow researchers. Apart from my studies, I enjoy learning Italian and German, taking photographs, travelling and exploring sound art."
+  image: /assets/images/roma-tv/esra.jpg
   
 - name: Florian Schmid
   bio: "I am pursuing a bachelor’s degree in Sociology with a minor in Computer Science at Ludwig Maximilian University of Munich. I am currently writing my bachelor thesis about life satisfaction and physical attractiveness using quantitative methods. Apart from that, my research interests mainly extend to text mining, the use of Twitter data and game theory. Moreover, I work as a student assistant at the chair of Computational Social Science at Ludwig Maximilian University. There, I am involved in current research projects and support the organisation of a scientific workshop. One recurring theme in this context is the application of topic modeling to social science text data."
@@ -75,7 +75,8 @@
   image: /assets/images/roma-tv/harba.JPG
   
 - name: Shazeda Ahmed
-  bio: "Shazeda is a doctoral candidate at the University of California Berkeley School of Information, and a postdoctoral researcher at Princeton University's Center for Information Technology Policy. Shazeda's doctoral dissertation investigates how tech firms and the Chinese government are collaborating on the country’s social credit system. Her additional work focuses on perceptions of algorithmic discrimination and emotion recognition technologies in China, as well as applications of artificial intelligence in Chinese courtrooms.She was a pre-doctoral fellow at two Stanford University research centers, the Institute for Human-Centered Artificial Intelligence (HAI) and the Center for International Security and Cooperation (CISAC), and has previously worked as a researcher for Upturn, the Mercator Institute for China Studies, Ranking Digital Rights, and the Citizen Lab, and the AI Now Institute."
+  bio: 'Shazeda is a doctoral candidate at the University of California Berkeley School of Information, and a postdoctoral researcher at Princeton University's Center for Information Technology Policy. Shazeda's doctoral dissertation investigates how tech firms and the Chinese government are collaborating on the country’s social credit system. Her additional work focuses on perceptions of algorithmic discrimination and emotion recognition technologies in China, as well as applications of artificial intelligence in Chinese courtrooms.
+She was a pre-doctoral fellow at two Stanford University research centers, the Institute for Human-Centered Artificial Intelligence (HAI) and the Center for International Security and Cooperation (CISAC), and has previously worked as a researcher for Upturn, the Mercator Institute for China Studies, Ranking Digital Rights, and the Citizen Lab, and the AI Now Institute.'
   image: /assets/images/roma-tv/shazeda.png
   
 - name: Thiago Matheus
@@ -83,8 +84,6 @@
   image: /assets/images/roma-tv/thiagomatheus.jpg
   
 - name: Xiao Yin
-  bio:
-  image:
 
 - name: Yuyi Shen 
   bio: "I’m a second-year Master's student in Development Studies at the Geneva Graduate Institute and I graduated from the School of International Studies in Peking University as a bachelor of laws last summer. I'm Interested in food security and environmental protection. Currently I'm developing skills in statistical analysis/visualization and project management in order to be a better development practitioner in the future."
