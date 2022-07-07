@@ -1,3 +1,7 @@
+- date: Materials
+  events:
+  - name: "Some guest speakers' talks have been uploaded to [CUHK Social Science Soundbox YouTube Channel](https://www.youtube.com/c/CUHKSocialScienceSoundbox)"
+  
 - date: All times are in Hong Kong Time; *Schedule is Tentative*
 - date: 2022-06-20
   name: Introduction and Ethics
@@ -17,7 +21,7 @@
 - date: 2022-06-22
   name: Automated Text Analysis
   events:
-    - name: "9:30 - 10:30 Talk by Thomas Davidson"
+    - name: "9:30 - 10:30 Talk by Thomas Davidson [YouTube](https://youtu.be/ofUm0mm6JmY)"
     - name: "10:30 - 12:30 [Group activity](https://sicss.io/2020/materials/day3-text-analysis/Group-Exercise-Day-3.html)"
     - name: "12:30 - 14:30 Research Speed Dating"
 
@@ -34,7 +38,7 @@
     - name: "8:00 - 9:15 International Panel Session: Hidden Career Paths [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSfT4mM3kkBLpBoBIwX6qrrbiH5XubAwVMtOirj9-OaPpTYkrg/viewform)"
     - name: "9:30 - 11:00 Talk by instructor (Han Zhang)"
     - name: "11:15 - 12:15 Group Debrief (join research teams)"
-    - name: "12:30 - 14:00 Talk by Ka-Yuet Liu and Ashley Gromis"
+    - name: "12:30 - 14:00 Talk by Ka-Yuet Liu and Ashley Gromis [YouTube](https://youtu.be/dSnIicNeFe0)"
 
 - date: 2022-06-25
   name: Day off
@@ -52,14 +56,14 @@
 - date: 2022-06-28
   name: Audio Analysis
   events:
-    - name: "09:30 - 10:30 Talk by Christopher Lucas"
+    - name: "09:30 - 10:30 Talk by Christopher Lucas [YouTube](https://youtu.be/y-G7Sjayivc)"
     - name: "10:45 - 11:45 Talk by instructor (Haohan Chen)"
     - name: Work on group projects (optional) 
 
 - date: 2022-06-29
   name: Image Analysis/Field Experiment
   events:
-    - name: "9:30 - 10:30 Talk by Zachary Steinert-Threlkeld"
+    - name: "9:30 - 10:30 Talk by Zachary Steinert-Threlkeld [YouTube](https://youtu.be/_YWrTDmED0s)"
     - name: "10:45 - 11:45 Talk by David Hagmann"
     - name: Work on group projects (optional) 
 
