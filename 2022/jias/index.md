@@ -18,7 +18,7 @@ Participation is restricted to registered masters and doctoral students, postdoc
 **Monday, 4 April, 2022.**
 
 Follow us on [twitter](https://twitter.com/sicss_jias) and
-[instagram](https://www.instagram.com/sicss.jias/).
+[instagram](https://www.instagram.com/sicss.jias.ipatc/).
 
 *Due to the uncertainties brought on by the pandemic the structure of events is subject to change.
 We hope to follow a hybrid format. The first two weeks will take place online. The third week
