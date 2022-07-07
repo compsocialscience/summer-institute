@@ -22,7 +22,7 @@
     - name: "10:45-11:15 Coffee Break"
     - name: "11:15-12:30 Workshop Mark Verhagen: Introduction to Machine Learning Part II"
     - name: "12:30-14:00 Lunch at Nuffield College"
-    - name: "14:00-16:00 Top Secret Prediction Competition!"
+    - name: "14:00-16:00 [Top Secret Prediction Competition!](https://crahal.github.io/files/sicss_prediction_handout.html)"
     - name: "16:00-18:00 Research Talk: Indeed"
 
 - date: July 6, 2022
@@ -30,11 +30,11 @@
   events:
     - name: "09:30-10:45 Workshop Ridhi Kashyap: [Digital Trace Data](https://sicss.io/2022/materials/ridhi_kashyap/kashyap_digital_trace_data-oxford.pdf)"
     - name: "10:45-11:15 Coffee Break"
-    - name: "11:15-12:30 Workshop Douglas Leasure: Monitoring population displacement in Ukraine through social media activity"
+    - name: "11:15-12:30 Workshop Douglas Leasure: [Monitoring population displacement in Ukraine through social media activity](https://sicss.io/2022/materials/oxford/20220706_SICSS_Ukraine_daily_population_estimates.pdf)"
     - name: "12:30-14:00 Lunch at Nuffield College"
     - name: "14:00-15:15 Workshop Tobias Rüttenauer: [Geospatial Data](https://github.com/ruettenauer/SICSS-Spatial2022)" 
     - name: "15:15-16:45 Group exercise: Ridhi and Tobi"
-    - name: "17:00-18:00 Research Talk Douglas Leasure: Geospatial methods to estimate populations for census support"
+    - name: "17:00-18:00 Research Talk Douglas Leasure: [Geospatial methods to estimate populations for census support](https://sicss.io/2022/materials/oxford/20220706_SICSS_Geospatial_Population_Estimates.pdf)"
 
 - date: July 7, 2022
   name: "Non-Random Probability Sampling and Post-Stratification"
