@@ -8,6 +8,11 @@
   bio: "Nicola is a Professor of Demography at the University of Bologna and an international co-investigator of the ESRC Research Centre on Micro-Social Change (MiSoC). He is the Principal investigator of the ERC Consolidator Grant GENPOP: Genes, genealogies and the evolution of demographic change and social inequality. His research interests include Quantitative methods in social sciences, Sociogenomics, Demography, Social interactions, Life course, and Migration and Ethnicity."
   website: http://nicolabarban.com/  
   
+- name: Tommaso Batistoni 
+  image: /assets/images/Tommaso-Batistoni.jpg
+  bio: "Tommaso Batistoni is a Postdoctoral Researcher and Lead Programmer at the Centre for Experimental Social Sciences at Nuffield College. Tommaso’s main research areas are the evolution of cooperative behaviour in humans, the role of reputation in the resolution of large-scale social dilemmas, and the development of tools facilitating online experiments. His current work focuses on the interplay between scales of interactions (global vs local) in the production of public goods and the development of a package to extend the Python-based oTree framework to conduct experiments."
+  website: https://cess-nuffield.nuff.ox.ac.uk/people/staff/tommaso-batistoni/  
+  
 - name: Oriol J. Bosch
   image: /assets/images/oriol.jpg
   bio: "Oriol J. Bosch is a PhD candidate at the Department of Methodology at the London School of Economics. He is also a non-resident research fellow at the Research and Expertise Centre for Survey Methodology (RECSM – Universitat Pompeu Fabra). As a methodologist, Oriol focuses on understanding how to better collect and analyse attitudinal and behavioural data for the social sciences. He specialises in topics related to measurement quality, web and mobile surveys and the use of digital trace data and sensors/apps to enhance or substitute surveys, and the effect of these on data quality. His work has explored the impact on data quality of using novel data types to answer survey questions as images, voice memos and emojis. For his PhD, Oriol is developing and applying new methodologies to assess the errors of web tracking data and compare these with the ones of surveys."
@@ -22,6 +27,11 @@
   image: /assets/images/furnas_photo.jpeg
   bio: "Hannah Furnas is a research science manager on the Demography and Survey Science team at Meta where she leads a team focused on ads and business products and data transparency. Hannah has a PhD in Sociology and Demography from Penn State."
   website:  
+  
+- name: Ben Goldacre
+  image: /assets/images/Goldacre.jpg
+  bio: Ben is a doctor, academic, writer, and broadcaster. He trained in medicine at Oxford and UCL, in psychiatry at the Maudsley, and in epidemiology at LSHTM. His academic and policy work is in informatics, epidemiology and evidence based medicine, where he works on various problems including variation in care, better uses of routinely collected electronic health data, evidence-based social policy, access to clinical trial data, efficient trial design, and retracted papers. 
+  website: https://www.phc.ox.ac.uk/team/ben-goldacre   
   
 - name: Douglas Leasure
   image: /assets/images/doug_leasure.jpg

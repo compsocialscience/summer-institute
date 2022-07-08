@@ -30,7 +30,7 @@
   events:
     - name: "09:30-10:45 Workshop Ridhi Kashyap: [Digital Trace Data](https://sicss.io/2022/materials/ridhi_kashyap/kashyap_digital_trace_data-oxford.pdf)"
     - name: "10:45-11:15 Coffee Break"
-    - name: "11:15-12:30 Workshop Douglas Leasure: [Monitoring population displacement in Ukraine through social media activity](https://sicss.io/2022/materials/oxford/20220706_SICSS_Ukraine_daily_population_estimates.pdf)"
+    - name: "11:15-12:30 Workshop Douglas Leasure: [Monitoring population displacement in Ukraine through social media activity](https://sicss.io/2022/materials/oxford/20220706b_SICSS_Ukraine_daily_population_estimates.pdf)"
     - name: "12:30-14:00 Lunch at Nuffield College"
     - name: "14:00-15:15 Workshop Tobias Rüttenauer: [Geospatial Data](https://github.com/ruettenauer/SICSS-Spatial2022)" 
     - name: "15:15-16:45 Group exercise: Ridhi and Tobi"
@@ -49,9 +49,9 @@
 - date: July 8, 2022
   name: "Text As Data: Day 1"
   events:
-    - name: "09:30-10:45 Workshop Blake Miller: Text as Data, Part 1"
+    - name: "09:30-10:45 Workshop Blake Miller: [Text as Data, Part 1](https://github.com/blakeapm/SICSS-Oxford-2022)"
     - name: "10:45-11:15 Coffee Break"
-    - name: "11:15-12:30 Workshop Blake Miller: Text as Data, Part 2"
+    - name: "11:15-12:30 Workshop Blake Miller: [Text as Data, Part 2](https://github.com/blakeapm/SICSS-Oxford-2022)"
     - name: "12:30-14:00 Lunch at Nuffield College"
     - name: "14:00-16:00 Group Exercise: led by Blake Miller"
     - name: "16:00-18:00 Research Talk: Bo Zhao"
