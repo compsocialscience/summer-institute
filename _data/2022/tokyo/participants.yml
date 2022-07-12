@@ -1,1 +1,24 @@
-- name:
+- name: Neil Hwang
+  image: /assets/images/Neil_Hwang.jpeg
+  bio: "Kaveh Kadkhoda is an independent researcher. His present research primarily focuses on a deeper understanding of complex networks with machine learning and data mining. His career goal is to work where he can have the opportunity to conduct high-quality research while teaching and mentoring undergraduates and graduates."
+  website: https://twitter.com/KavehKadkhoda
+
+- name: Shogo Masaya
+  image: /assets/images/Shogo_Masaya.jpeg
+  bio: "Shogo Masaya works for an energy company, INPEX. His current interests include data processing, energy transformation and innovation. He received his Ph.D. from Delft University of Technology in applied physics."
+  website: https://
+
+- name: Makoto Takeuchi
+  image: /assets/images/Makoto_Takeuchi.jpeg
+  bio: "Makoto Takeuchi is a PhD student at the University of Tsukuba. He works for a web company as a data scientist. His research topics include statistics of human behavior and information diffusion. He is interested in understanding the dynamics of human activities and their application to recommendation and marketing."
+  website: https://scholar.google.com/citations?user=f3E9uncAAAAJ&hl=en
+
+- name: Honoka Toda
+  image: /assets/images/Honoka_Toda.jpeg
+  bio: "Honoka Toda works for NTT R&D, a Japanese IT company. She is interested in data science and social psychology. Her main research interests are altruistic behavior among groups and psychological factors."
+  website: https://twitter.com/toda00toda
+
+- name: Kaveh Kadkhoda Mohammadmosaferi
+  image: /assets/images/Kaveh_Kadkhoda_Mohammadmosaferi.jpeg
+  bio: "Neil Hwang is an Assistant Professor of Business and Information Technology at CUNY-Bronx Community College, and his research interests include network statistics, game theory with networks, and causal inference."
+  website: https://scholar.google.com/citations?user=rWxItvIAAAAJ&hl=en&oi=ao
