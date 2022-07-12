@@ -114,11 +114,20 @@ Education. He is currently Cameroonian representative of Responsibility in AI in
 his interests include cyber security and artificial intelligence. For now, he proposes strategies
 for digital governance and transformations and is active to design responsible AI security tools
     relying on collective intelligence from social technologies around people. "
+    
     - name: "Suhem Parack"
       image: /assets/images/Suhem_Parack.jpg
       bio: "Suhem Parack is a Staff Developer Advocate for Academic Research at Twitter and helps
       students and researchers understand how to get Twitter data for their research. "
       website: https://dev.to/suhemparack
+    
+    - name: "Sarah Mulombo Mulaji"
+      bio: "Sarah Mulombo Mulaji is a PhD candidate at the University of Cape Town, Department of Information Systems. Sarah is also a Senior Teaching and Research Assistant in the same department since 22020. Sarah's research interests involve information & cybersecurity management and distributed systems, like Blockchain, appplications in organisations and society. Sarah has co-authored some journal articles and conference papers."
+      image: /assets/images/jias_sarah_m.jpg
+
+    - name: "Timothy Khan Aikins"
+      bio: "Timothy Khan Aikins is a PhD candidate in Conservation Biology at the University of Cape Town, South Africa. Timothy is also Lecturer at the Department of Biodiversity Conservation and Management, University for Development Studies, Ghana. He is an Ecologist and work mainly on the interaction between animals, plants and soil. Timothy has an interest in ornithology and currently researching on the costs and benefits to trees hosting sociable weaver nest in the Kalahari Desert of South Africa."
+      image: /assets/images/jias_tim.jpg
 
 participants: 
   title: Participants
