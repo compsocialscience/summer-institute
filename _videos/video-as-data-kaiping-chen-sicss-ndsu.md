@@ -1,7 +1,7 @@
 ---
 title: Video as Data by Kaiping Chen at SICSS-NDSU 2022
 description_seo:
-duration: 45:05
+duration: "45:05"
 keywords: video, data, communication, ndsu
 programming_lang:
 venue:
