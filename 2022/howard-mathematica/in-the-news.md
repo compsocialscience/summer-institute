@@ -10,11 +10,15 @@ image: /assets/images/howard.jpg
 <br />
 
 ---
+<u>SICSS-Howard/Mathematica founder speaks at Final Virtual Day for SICSS site in South Africa</u>
+<br><font color="grey"><font size="2">Jul 10, 2022</font></font> 
+<br><i><font size = "2">Naniette Coleman, founder and organizer of SICSS-H/M, spoke at SICSS-JIAS/IPATC Final Virtual Day about new Crown Act Mass Collaboration Activity. Based on a project conceptualized by SICSS-H/M 2021 participant Nicole Jenkins and funded by SICSS-H/M, this mass collaboration activity offers participants a chance to think about data collection on an early stage project.</font></i>
+<br><font size = "1">(Posted by <a href="https://drive.google.com/file/d/1gArS5Pg-ID5nRe0P92zq0XY5aDCIXqNq/view?pli=1">SICSS-JIAS/IPATC</a>)</font>
+
 <u>Naniette Coleman, University of California Berkeley – Diversifying the Hands that Combat Misinformation</u>
 <br><font color="grey"><font size="2">Jun 29, 2022</font></font> 
 <br><i><font size = "2">In this podcast, founder of SICSS-H/M Naniette Coleman shares how to diversify the hands that combat misinformation. In six years, hundreds of Berkeley affiliated students engaged in this innovative approach to counter misinformation.</font></i>
 <br><font size = "1">(Posted by <a href="https://academicminute.org/2022/06/naniette-coleman-university-of-california-berkeley-diversifying-the-hands-that-combat-misinformation-one-wikipedia-edit-button-click-at-a-time/">Academic Minute</a>)</font>
-
 
 <u>Female scientists don’t get the credit they deserve. A study proves it.</u>
 <br><font color="grey"><font size="2">Jun 22, 2022</font></font> 
