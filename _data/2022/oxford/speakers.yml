@@ -62,3 +62,8 @@
   image: /assets/images/lena_voita_pic_sicss.jpg
   bio: "Elena (Lena) Voita is a final-year PhD student at the University of Edinburgh supported by the Facebook PhD Fellowship award. Her research is mostly focused on understanding how neural networks learn to process natural language. Previously, Lena was a research scientist at Yandex Research and worked side by side with the Yandex Translate team. She also teaches NLP at the Yandex School of Data Analysis; the extended public version of (a part of) this course is available at [NLP Course For You](https://lena-voita.github.io/nlp_course.html)"
   website: https://lena-voita.github.io/
+  
+- name: Bo Zhao
+  image: /assets/images/ox_bo_zhao.png
+  bio: "Bo completed a PhD in Computer Science and Informatics in 2016 at Cardiff University and worked as a postdoctoral research associate at the NIHR Leicester Biomedical Research Centre (Respiratory) supporting clinical studies on respiratory diseases before joining the University of Oxford and LCDS. He previously worked on several multi-disciplinary projects including national and regional COVID-19 related studies, breathomics sample collection and analysis and mass-spectrometry workflow automation. His current research interests lie primarily in semantic and sentiment text analysis, robust and dynamic data management, data visualisation and prediction, and gamifications in research studies."
+  website: https://www.demographicscience.ox.ac.uk/bo-zhao
