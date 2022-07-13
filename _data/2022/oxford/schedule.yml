@@ -67,7 +67,7 @@
 - date: July 11, 2022
   name: "Mostly Group Projects!"
   events:  
-    - name: "09:30-11:30 Workshop: Tommaso Batistoni on Experiments"
+    - name: "09:30-11:00 Workshop: Tommaso Batistoni on Experiments"
     - name: "11:00-12:30 Sorting into Project Groups"
     - name: "12:30-14:00 Lunch at Nuffield College"
     - name: "14:00-16:00 Project Work"
@@ -87,7 +87,7 @@
     - name: "09:30-12:30 Project Work"
     - name: "12:30-14:00 Lunch at Nuffield College"
     - name: "14:00-16:00 Project Work"
-    - name: "16:00-18:00 Research Talk: TBC"
+    - name: "16:00-18:00 College Tour"
 
 - date: July 14, 2022
   name: "Mostly Group Projects!"
@@ -95,12 +95,13 @@
     - name: "09:30-12:30 Project Work"
     - name: "12:30-14:00 Lunch at Nuffield College"
     - name: "14:00-16:00 Project Work"
-    - name: "16:00-18:00 Research Talk: TBC"
-    - name: "19:00-??:00 Dinner at Nuffield College"
+    - name: "16:00-18:00 Research Talk: Bo Zhao"
+    - name: "19:00  Dinner at Nuffield College"
 
 - date: July 15, 2022
   name: "Mostly Group Projects!"
   events:  
-    - name: "09:30-12:30 Neave O'Clery (Time TBC)/Project Work"
+    - name: "09:30-11:00 Research Talk: Neave O'Clery"
+    - name: "11:00-12:30 Project Work"
     - name: "12:30-14:00 Lunch at Nuffield College"
     - name: "14:00-16:30 Project Presentations"
