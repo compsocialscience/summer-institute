@@ -44,10 +44,10 @@
     - name: "13:00 - 15:30 Research Plan - Ahmad R. Pratama"
 
 - date: 2022-07-23
-  events: Day Off
+  events: "Day Off"
 
 - date: 2022-07-24
-  events: Day Off
+  events: "Day Off"
 
 - date: 2022-07-25
   events:
