@@ -17,7 +17,7 @@
     - name: "13:00 - 15:30 Data source, data collection, and web scraping - Arie Wahyu Wijayanto"
 
 - date: 2022-07-20
-  events: Webinar
+  events:
     - name: "8:00 - 8:15 Opening Speech - Fathul Wahid"
     - name: "8:15 - 9:45 Solving Societal Puzzles with Artificial Intelligence & Algorithms (Steven S. Skiena)"
     - name: "9:45 - 11:15 Why do we friend similar others in a diverse world? - Firman M. Firmansyah"
