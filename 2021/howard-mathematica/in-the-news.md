@@ -11,6 +11,11 @@ image: /assets/images/howard.jpg
 
 ---
 
+<u>SSRC Research Grantees Announced</u>
+<br><font color="grey"><font size="2">Sept 12, 2021</font></font> 
+<br><i><font size = "2">The Social Science Research Council (SSRC) awarded 25 research grants for SICSS 2021 participants, including 4 groups from SICSS-Howard/Mathematica. </font></i>
+<br><font size = "1">(Posted by <a href="https://www.ssrc.org/programs/digital-culture/the-summer-institutes-in-computational-social-science/sicss-research-grantees/">Social Science Research Council</a>)</font>
+
 <u>OPINION: A lack of diversity in research and analytics is not just unethical — it is dangerous </u>
 <br><font color="grey"><font size="2">July 20, 2021</font></font> 
 <br><i><font size = "2">"We must create better school pipelines for people of color in STEM fields" - read more in this joint op-ed by Wayne A.I. Frederick, M.D., MBA, F.A.C.S., President of Howard University and Paul Decker, Ph.D., President and CEO of Mathematica. </font></i>
