@@ -5,10 +5,10 @@
   name: Online 
   events:
     - name: "9:00 - 9:30 Opening" 
-    - name: "9:30 - 11:30 Ethics: Discussion Activity [Day 1 slides]"
+    - name: "9:30 - 11:30 Ethics: Discussion Activity [Lesson Guide](https://docs.google.com/document/d/1glwCyrssaXknbR2B8zkTpY6Vb9fElnfqy3ibivR2h5o/edit#heading=h.kzafqloi5dgh)"
     - name: "12:00 - 13:00 Lunch"
-    - name: "13:00 - 15:00 Text as Data [slides]"
-    - name: "15:00 - 17:00 By Dr. Marian-Andrei Rizoiu "
+    - name: "13:00 - 15:00 Text as Data [Basic: Code Along Rmd](https://github.com/compsocialscience/summer-institute/blob/0f99f66da32a7c2c3cfb2b1f85ba869777b4c9e0/2022/materials/taiwan/day1_text_basic_dictionary.Rmd) and [Advanced: Exercise Instruction](https://docs.google.com/document/d/1GpM_Qb7LlyjFLdsl1T4ID67rXPBvoIzmV9eBxzvfxfQ/edit)"
+    - name: "15:00 - 17:00 By Dr. Marian-Andrei Rizoiu"
     
 - date: 2022-07-19
   name: Online 
