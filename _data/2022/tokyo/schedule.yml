@@ -15,7 +15,7 @@
     - name: "9:00 - 11:00 Digital Trace Data (デジタルトレースデータ)"
     - name: "11:00 - 12:00 Discussion on Digital Trace Data (デジタルトレースデータに関する参加者間の議論)"
     - name: "12:00 - 13:00 Break (昼休憩)"
-    - name: "13:00 - 14:30 Automated Text Analysis (自動テクスト分析)"
+    - name: "13:00 - 14:30 Automated Text Analysis (テクスト分析)"
 
 - date: 2022-08-03
   name: Experiments (実験)
