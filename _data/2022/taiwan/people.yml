@@ -28,13 +28,92 @@ speakers:
     - name: Hannah Waight
       image: /assets/images/HannahWaight.jpg
       bio: "Hannah Waight is a Postdoctoral Fellow at NYU’s Center for Social Media and Politics. Hannah studies state media coordination and manipulation in non-democratic contexts, especially contemporary China. She is particularly interested in what makes state propaganda visible and what makes state propaganda spread. Hannah has also previously written on the sociology of knowledge and the history of social thought. Hannah received her Ph.D. from Princeton University's sociology department in May 2022. She also has a Bachelor's and Master's degree in East Asian Studies, both from Harvard University. Hannah enjoys trees and rock climbing."
-      website: https://scholar.princeton.edu/hwaight/home
+      website: https://hwaight.github.io/
     
 participants: 
   title: Participants
   people:
-   - name: Coming soon...
-
+   - name: Ning Chen
+     image: ./assets/images/1FVuoNOFv-Sldr9aEjyeXQdrIhlpm9EMG.heif
+     bio: "Ning Chen is a PhD student in the Department of Applied Economics at National Chung Hsing University. Her interests include livestock economics, farm animal welfare, and agricultural policy.  She holds an MA in Journalism and a BBA in Finance both from National Taiwan University.  Prior to beginning her PhD, Ning was a journalist with 10-year experience on agricultural and environmental issues."
+     website: 
+   - name: Yen-Ping Chang
+     image: ./assets/images/1f97Q1FLXeJxbqUjNOG3q8Z2liC55bmUk.jpeg
+     bio: "I’m an assistant professor in the psychology department of NTHU, Taiwan. My lab explores the roles of emotions in interpersonal communication and affiliation. You can find more info about our work at ericalab.com/ In addition to, and probably more than research, I love my family, cycling, music, and cats."
+     website: https://www.ericalab.com/
+   - name: Hung-Chieh Shen
+     image: ./assets/images/1bRTR7v69TOBmucyDiRVnbk7LRsAO3Wqn.jpeg
+     bio: "Hong-Chieh Shen is a graduate student at the School of the National Defense University, majoring in journalism. His research mainly about the network and frame of Chinese diplomats' discussion on Twitter. He was admitted to the Annual Conference Of The Chinese Communication Society. His research interest is natural language processing."
+     website: 
+   - name: Hung-Wen Tsai
+     image: ./assets/images/1h1nARGsJXlyjSj7H6GzmiYxQvHSMathP.jpeg
+     bio: "Hung-Wen Tsai received his bachelor's degree in Information Management from National Taiwan University. After graduation, he works as a Data Engineer/Analyst in the software industry and TA of an online data course. He is interested in applying advanced data analysis & modeling techniques in social science topics. He is also planning to apply for a quantitative social science master's program shortly."
+     website: https://www.linkedin.com/in/aidantsai/
+   - name: Chia Fang Cheng
+     image: 
+     bio: "Chia Fang Cheng is a Linguistic master student in National Tsing Hua University, Taiwan. She uses experimental approaches to explore the cognitive processing of tone sandhi in speech production. Her current research examines the temporal profile of tonal alternations in Taiwan Mandarin."
+     website: 
+   - name: Ming-June Yuan
+     image: ./assets/images/1dSTulhEgjQN_AM7dxpl0d8Ykufre0kyh.jpeg
+     bio: "Ming-June Yuan is currently pursuing a MA in Journalism  at National Defense University, Taiwan. His research focuses on computational methods for the study of social media communication. His current research focuses on the Russia-Ukraine war twitter communication of social networks."
+     website: 
+   - name: Tien-I Tsai
+     image: ./assets/images/13NMbJ7sGkLecifLikXO5oFvaq70Uz5lZ.jpeg
+     bio: "Tien-I Tsai is an Associate Professor of Library and Information Science at National Taiwan University. She obtained her Ph.D. from the University of Wisconsin—Madison. Her research focuses on information behavior, especially how individuals with diverse backgrounds seek information and work collaboratively to fulfill their learning objectives."
+     website: https://twitter.com/tienitsai
+   - name: Hsin-Yun Wang
+     image: ./assets/images/1mkLuUvy_tHEKy3eotVipDCA4mOZRECCj.jpeg
+     bio: "Hsin-Yun Wang is a 3rd-year doctoral student and a Ph.D. candidate in the Institute of Education at National Yang Ming Chiao Tung University (NYCU), Taiwan. Her research interest is to examine student-directed virtual reality (VR) co-creation for knowledge co-construction and co-creativity through various quantitative approaches including lag sequential analysis, social network analysis, and other techniques associated with learning analytics."
+     website: https://twitter.com/HsinyunWang
+   - name: Wei-Chun Tsao
+     image: ./assets/images/1ukuVMBh_RapA7cL9LVub-an18T2wbOpP.jpeg
+     bio: "Wei-Chun Tsao is a graduate student in Sociology at National Taiwan University and a research assistant at Institute of Ethnology, Academia Sinica. She has worked as a research assistant in various labs and projects after obtaining a bachelor’s degree in psychology from National Taiwan University. Her previous publications focused on family interactions, intergenerational relationships, and social changes in Taiwan. Currently, she is interested in text mining and interdisciplinary exploration of social issues using emerging data sources in addition to traditional survey data."
+     website: https://scholar.google.com.tw/citations?user=l9MBzo8AAAAJ&hl=zh-TW
+   - name: Sam Robbins
+     image: ./assets/images/1e4jIvGJnRwbhGL49XMzaBMJlwS7202UO.jpeg
+     bio: "Sam Robbins is a project coordinator at Open Culture Foundation and editor/translator at Taiwan Insight. He graduated with a masters degree in sociology from National Taiwan University and is interested in the intersects of digital technology and politics in Taiwan and Beyond."
+     website: https://twitter.com/helloitisSam
+   - name: Man-Lin Chen
+     image: ./assets/images/1UtW3_j2Eq_NX91JEBOoXdl7V6GwUSVkY.jpeg
+     bio: "Man-Lin is an undergraduate student in Economics at National Taiwan University. She also works as a research assistant in the Institute of Sociology at Academia Sinica. She is interested in social networks, including social media analysis, friendship dynamics, and peer effects. Currently, she is learning econometrics, computational sociology, and data science these interdisciplinary methods and knowledge."
+     website: 
+   - name: Yu-Yao Tseng
+     image: ./assets/images/1oJLMJQc7w_W1FYUVy8bPYzOK_G0OuQWj.jpeg
+     bio: "Yu-Yao Tseng is an engineer at Gsolar Solution Co., Ltd now. He graduated from the Master's Program of Green Energy Science and Technology at Feng Chia University. His research uses Python to write predictive model code to study the effects of big data. Besides, he also has a lot of interest in data science."
+     website: 
+   - name: Shinyin(Shin) Liu
+     image: ./assets/images/18NSM-u3I-PyGcAa_0WkqfTgbfQ9Nzh0U.jpeg
+     bio: "Shin Liu is a research associate at National Taiwan University and a freelancer who works with NGOs on different research projects. Shin was prior a social worker and an INGO worker. Her primary research interest focuses on children and youth social work and well-being, especially the marginal adolescents. She is also broadly interested in NGO service evaluation and re-design, and the application of social design and innovation in the helping professions. She believes in evidence practice and is passionate to explore any possible solution to real-world challenges, computational social science is one of them. Shin holds an MSW in social work and a BE in counseling."
+     website:
+   - name: Zih-Chun Su
+     image: ./assets/images/1PBl-guV2aBa75WzD-ufhlz7uJpvs4NSG.jpeg
+     bio: "Zih-Chun Su is PhD student of Graduate Institute of Photonics and Optoelectronics at National Taiwan University. His research interests include the silicon photonics, the optical data processing."
+     website:
+   - name: Adny Chou
+     image: ./assets/images/15egrJ8N2Ey5tihVYWTW53Y8AKUsK5rDL.jpeg
+     bio: "Andy Chou is a postdoctoral scholar at the Flagship Project in the Department of Sociology at National Taipei University. His research interests are economics of education, labor economics, and applied microeconomics."
+     website:
+   - name: Pei-Chiang Lee
+     image: 
+     bio: "Pei-Chiang Lee is a research assistant in the National Academy for Educational Research. He received his M.S.W. from the Department of Social Work at National Taiwan University. His research interests focus on the well-being and educational outcomes of students with disabilities, with special attention to their school-to-work transition and independent living. His current research project uses administrative data to explore the inequality of employment outcomes between university graduates with and without disabilities."
+     website:
+   - name: Che-Wei Hsu
+     image: ./assets/images/1HSGzI9n0m_nj6F-59U4uT7SoTMW5egQp.jpeg
+     bio: "Che-Wei Hsu is a data analyst at the National Academy for Educational Research. He received his M. S. in sociology from National Taiwan University. His research interests focus on the equality of education and the educational choices of students. He currently uses administrative data to study the college entrance policy in Taiwan."
+     website:
+   - name: Xin-You Chen
+     image: ./assets/images/1gPY6a3wK7Tt2aXDHrF_sZpeyrT_yu_vW.jpeg
+     bio: "I am a data analyst in Academia Sinica. I received my M.A. in contemporary China study program from National Tsing Hua University. My research interests focus on international relations, arms transfer, China influence, Taiwan–China relations. My ongoing project is “An empirical analysis of China’s arms transfer."
+     website: https://www.linkedin.com/in/%E4%BF%A1%E4%BD%91-%E9%99%B3-001045162/
+   - name: Morris Yang
+     image: ./assets/images/1YUZ1Fk1ZVXr8YmX7YIUsYrkT0d3RQhFW.jpeg
+     bio: "Morris Yang is a graduate student at NCCU’s College of Communication. He studies social media behavior relate to problematic speech and political polarization. He is particularly intrigued by how conspiracy evolves and disseminates, partly because of his discomfort with the online discourse on China-Taiwan tensions and identities. He also holds a BFA degree in motion pictures from NTUA. He faithfully loves the works of Jonathan Franzen and Alice Munro."
+     website: https://twitter.com/MorrisSHYang
+   - name: Yu Zhang
+     image: ./assets/images/1A7Mkg4LTrsMfoyJLbb6s9sRVXsJ32_K_.png
+     bio: "Yu Zhang is a graduate student in the Department of Computer Science and Information Engineering at National Central University (NCU), Taiwan. Before, he graduated from Graduate Institute for Social Transformation Studies at Shih Hsin University. His research interests are natural language processing, automatic question answering, text mining and analysis."
+     website:
+     
 organizers:
   title: Organizers
   people:
@@ -68,7 +147,7 @@ youth_board:
   title: Youth Organizing Board
   people:
     - name: "Yu-Chen Dai"
-      image: /assets/images/Yu-ChenDai.jpg
+      image: /assets/images/1bj7kBUbuekK1MUn0-Nirq1mAwPVnBLXq.jpeg
       bio: "Yu-Chen Dai is a graduate of Feng Chia University in the Department of Information Engineering and Computer Science. His research interests analyze the malicious behaviors on social media, including information manipulation and disinformation. Currently, he focuses on using network structure and user behaviors to identify the sockpuppets in social media. He is honored to be a participant in SICSS Taiwan 2021 cooperates with different field scientists to explore and learn computational social science. He is expecting to let more people know, \"What is computational social science?\", \"What can data do?\" and mix our skills to find the interesting thing in the world."
       website: https://www.linkedin.com/in/yu-chen-dai
     - name: "Fu-Ying Lin"
