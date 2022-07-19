@@ -34,9 +34,9 @@
   website: ""
 
 - name: Georg Ahnert
-  image: ""
-  bio: ""
-  website: ""
+  image: /assets/images/Georg_Ahnert.jpg
+  bio: "Georg is a postgrad student at RWTH Aachen University, Germany. He is currently working on Hindu nationalism and right wing extremism during an internship at the Computational Social Science Lab, Tokyo Institute of Technology. He is also interested in ML fairness and development cooperation."
+  website:
 
 - name: Jeehyun Park
   image: /assets/images/JeeHyun_Park.JPG
