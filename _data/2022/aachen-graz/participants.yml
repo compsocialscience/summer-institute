@@ -39,6 +39,8 @@
   image: /assets/images/az_3.jpg
   
 - name: "Mathias Angermaier"
+  image: /assets/images/az_3_0.jpg
+  website: https://www.linkedin.com/in/mathias-angermaier-5996351a5/
   bio: "I am a student at the University Graz/Technical University Graz in Computational Social Systems with a background in Computer Science and Economics. My research interest focuses on the analysis of various political and economic systems and their influence on individual decision-making via Agent-Based Modelling. Further interest lies in the analysis of societal phenomena with the motivation to computationally calculate parts of their outcome while they still evolve."
 
 - name: Yasaman Asgari
