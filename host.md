@@ -65,7 +65,7 @@ Director, SICSS
 
 ### How to Apply
 
-In order to apply to host a partner site, please complete [this application](https://docs.google.com/document/d/12S49nMOtPJb_h6OZkEuexjuQEubIPRa06r9TddIyF5Q/edit?usp=sharing) and send it to rsfcompsocsci[at]gmail[dot]com. **Applications to host a partner site in 2022 are due on Monday, November 23, 2021 by 5pm ET**. We will aim to provide a response to your application by Monday, December 7th.
+**Applications to host a partner site in 2023 are due on Friday, November 18 by 5pm EST. An updated call for applications will be circulated in September.** 
 
 ### Frequently Asked Questions
 
