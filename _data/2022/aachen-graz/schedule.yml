@@ -21,8 +21,6 @@
     - name: "12:00-13:00 Lunch"
     - name: "13:00-14:00 Guest lecture by *Anna Di Natale*: How to use Amazon Mechanical Turk to run digitally powered surveys"
     - name: "14:00-15:45 Exercise: Using Amazon Mechanical Turk to collect data"
-    - name: "15:45-16:00 Break"
-    - name: "16:00-17:30 Guest lecture by *Suhem Parack*: Introduction to using the Twitter API to collect insane amounts of data"
 
 - date: July 20, 2022
   events:
@@ -45,9 +43,8 @@ combine them with data from surveys"
 - date: July 22, 2022
   events:
     - name: "09:30-11:00 Lecture: Potential pitfalls and problems for awesome CSS projects"
-    - name: "11:00-12:30 Lecture: Ethical dimensions of CSS research"
-    - name: "12:30-13:30 Lunch"
-    - name: "13:30-15:30 Project idea generation & group formation"
+    - name: "11:00-14:30 Project idea generation & group formation"
+    - name: "14:30-16:00 Guest lecture by *Suhem Parack*: Introduction to using the Twitter API to collect insane amounts of data"
 
 - date: July 25, 2022
   events:
