@@ -65,7 +65,7 @@
     - name: "9:30 - 10:00 Coffee/tea break"
     - name: "10:00 - 11:30 Group Exercise"
     - name: "11:30 - 13:00 Lunch and networking"
-    - name: "13:00 - 16:00 SICSS Asia Pacific -Jogja, Singapore, Sydney, Taiwan- panel session"
+    - name: "13:00 - 15:00 SICSS Asia Pacific -Taiwan, Jogja, Korea, Singapore, Sydney- panel session"
 
 - date: 2022-07-27
   events:
@@ -75,17 +75,17 @@
     - name: "11:30 - 13:00 Lunch and networking"
     - name: "13:00 - 14:45 Participant Led-Sharing - Order: Damayanti, Syahrina, Akhtar, Taqwa"
     - name: "14:45 - 15:15 Coffee/tea break"
-    - name: "15:15 - 16:00 Participant Led-Sharing - Order: Fakhruzzaman, Karisma, Murnani, Jati"
+    - name: "15:15 - 16:00 Participant Led-Sharing - Order: Fakhruzzaman, Karisma, Ratnasari, Jati"
 
 - date: 2022-07-28
   events:
-    - name: "8:00 - 9:30 Building better speech recognition for everyone (Alëna Aksënova & Sandy Ritchie)"
-    - name: "9:30 - 10:00 Coffee/tea break"
     - name: "10:00 - 11:30 Group Exercise"
     - name: "11:30 - 13:00 Lunch and networking"
-    - name: "13:00 - 14:45 Participant Led-Sharing (Order: Khoiruddin, Ratnasari, Rahmadina, Kuncoro)"
+    - name: "13:00 - 14:45 Participant Led-Sharing - Order: Khoiruddin, Murnani, Rahmadina, Kuncoro"
     - name: "14:45 - 15:15 Coffee/tea break"
-    - name: "15:15 - 16:00 Participant Led-Sharing (Order: Prawira, Hasanah, Ayu, Permadi)"
+    - name: "15:15 - 16:00 Participant Led-Sharing - Order: Prawira, Hasanah, Ayu, Permadi"
+    - name: "16:00 - 20:00 Free time"
+    - name: "20:00 - 21:30 Building better speech recognition for everyone - Alëna Aksënova & Sandy Ritchie (full online)"
 
 - date: 2022-07-29
   events:
