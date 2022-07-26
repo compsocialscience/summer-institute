@@ -1,6 +1,6 @@
 - name: Wentao Xu
-  image: ""
-  bio: ""
+  image:
+  bio:
   website:
 
 - name: Neil Hwang
@@ -29,9 +29,9 @@
   website: https://scholar.google.com/citations?user=rWxItvIAAAAJ&hl=en&oi=ao
 
 - name: Zelda Marquardt
-  image: ""
-  bio: ""
-  website: ""
+  image:
+  bio:
+  website:
 
 - name: Georg Ahnert
   image: /assets/images/Georg_Ahnert.jpg
