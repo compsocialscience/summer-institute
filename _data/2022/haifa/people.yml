@@ -87,12 +87,12 @@ participants:
       website:
       
     - name: Alisa Kanterman
-      bio: ""
+      bio: " "
       image: /assets/images/Alisa_Kanterman.jpg
       website: https://sans.hevra.haifa.ac.il/
 
     - name: Ameed Saabneh
-      bio: ""
+      bio: " "
       image: /assets/images/Ameed_Saabneh.jpg
       website: https://sans.hevra.haifa.ac.il/
 
@@ -107,7 +107,7 @@ participants:
       website: 
 
     - name: Barak Zur
-      bio: ""
+      bio: " "
       image: /assets/images/Barak_Zur.jpeg
       website:
 
@@ -150,3 +150,4 @@ participants:
       bio: "I'm a Ph.D. student in the School of Political Science at the University of Haifa. My research focuses on studying political behavior, voting patterns among the public, parties and voters' political ideology. In my Ph.D. dissertation, I examine voting patterns and their determinants in Israel's political system in the 21st century. I pursued my B.A in economics and political science from the University of Haifa."
       image: /assets/images/Yaniv_Shapira.jpg
       website:
+=
