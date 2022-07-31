@@ -1,7 +1,7 @@
 - name: Wentao Xu
-  image:
-  bio:
-  website:
+  image: /assets/images/Wentao_Xu.jpeg
+  bio: "Wentao Xu is a Ph.D. candidate of Graduate School of Informatics at Nagoya University. He is the Tokai National Higher Education and Research System Interdisciplinary Frontier Next Generation Researcher and will join the Artificial Intelligence Research Institute of Zhejiang Lab in China as a post-doc. His research interests include social networks, misinformation, and developing methods for CSS research."
+  website: https://sites.google.com/view/myrainbowandsky
 
 - name: Neil Hwang
   image: /assets/images/Neil_Hwang.jpg
