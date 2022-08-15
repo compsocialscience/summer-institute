@@ -22,3 +22,8 @@
   image: /assets/images/anna_di_natale.jpg
   bio: "I am a PhD candidate at the Medical University of Vienna, Graz University of Technology and Complexity Science Hub. I am part of the Computational Social Science Lab Austria, led by David Garcia, where we study human behavior through digital traces. Previously, I have studied mathematics at the University of Bologna. I am mainly interested in approaching linguistic theories through data science and in the use of the insights gained in such process for the creation of novel NLP methods. In my PhD I study the linguistic idea of colexification from a computational point of view."
   website: "https://annadinatale.eu/"
+
+- name: Max Pellert
+  image: /assets/images/max_pellert.jpg
+  bio: "Max Pellert has a background in Cognitive Science and Economics (University of Vienna, Austria and University of Ljubljana, Slovenia). He was a doctoral researcher affiliated to Complexity Science Hub Vienna and Medical University of Vienna in the WWTF research group 'Emotional Well-Being in the Digital Society' lead by David Garcia (University of Konstanz). He works now as Assistant Researcher at Sony CSL Rome. His research focuses on analyzing the digital traces of individual and collective emotional behavior and affective expression on social media. He is broadly interested in the social sciences and uses traditional and novel computational methods to study emotion dynamics, belief updating, collective emotions and other interesting phenomena."
+  website: "https://mpellert.at/"
