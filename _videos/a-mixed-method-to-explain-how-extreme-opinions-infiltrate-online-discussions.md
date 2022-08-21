@@ -1,7 +1,7 @@
 ---
 title: "Slipping to the Extreme: A Mixed Method to Explain How Extreme Opinions Infiltrate Online Discussions"
 description_seo:
-duration: 1:22:38
+duration: "1:22:38"
 keywords: 
 programming_lang: 
 venue:
