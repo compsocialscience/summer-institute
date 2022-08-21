@@ -1,7 +1,7 @@
 ---
 title: The Promise and Challenges of Inductive Research Designs in Computational Social Science
 description_seo:
-duration: 51:26
+duration: "51:26"
 keywords: 
 programming_lang: 
 venue:
