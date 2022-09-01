@@ -1,7 +1,6 @@
 - title: Post-Mortem
 
 APPLICATION PROCESS
-
 Participation was restricted to Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. Nonetheless, there were no restrictions based on citizenship, country of study, or country of employment. The idea was to invite about twelve participants.
  Candidates were evaluated along different dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. To apply for the summer school, applicants had to submit the following documents: CV (max 2 pages), research statement (max 1 page, single-spaced), project proposal (max 2 pages, single-spaced), a writing sample (no more than 35 pages).
 
@@ -10,10 +9,7 @@ On May 10, we sent our decision letter to the admitted applicants. To confirm th
 Due to the withdrawal of two students, we ended with a total of 12 candidates.
 Once the admission procedure was over, we asked the participants to provide the organizers with a short biography and a picture to be included in the web site. During the weeks before the SICSS, we sent the participants several e-mails with detailed explanations regarding the schedule and the overall organization of the summer school.
 
-
-
 DEVELOPING THE PROGRAM
-
 We planned a 2-weeks program, with a first week fully online, and a second week with activities organized in the classrooms provided by the Department of Political Sciences of the University of Bologna (UniBo). Both weeks have been organised with the help of 3 Teaching Assistants with specific technical skills in Statistical Methodology, Text Analysis and Informatics.
 For development of the 2-weeks program, we wanted to balance two types of activities: lectures from selected experts and interactive learning through coding. 
 In the first online week we planned to engage guest experts to cover all the core topics in Computational Social Science. Lectures on the first week covered data collection, text analysis, digital surveys, digital experiments, and ethics of research. The second week was focused on guest researchers presenting larger CSS projects of in both private and academic environments.
@@ -24,31 +20,19 @@ We set up a Slack channel within the SICCS environment, to pin all the updates a
 We also included social activities for the second week in Bologna, with one covered dinner and one covered aperitif. The University of Bologna provided spaces of socialization. We gifted one thermal bottle and one SICCS and UniBo t-shirt to each student at the end of the School.
  
 FIRST WEEK
-
 The first week consisted fully of online activities. The week has been scheduled to provide to students the perception of a technical progression. Students were mostly coming from a background in Humanities, so we expected them to be more confident to humanities and data visualisation than statistical methodology. 
 On Monday, at 9 AM the Dean of the Department of Political Science of UniBo welcomed the students, and we run a general round of ice-breakers short presentations among the presents. The first lecture started on 10 AM, on the shift towards new CSS paradigm in the Ethics of Social Research. Laboratories in the afternoon touched two introductory topics. The Basic track covered pipeline programming in Tidyverse and ggplot. In particular, we showed to students functions as facet_wrap() for elegant multiple plots. The Advanced track guided the students to set up their Github account to R Studio and how to manage most of the functions of Git language for repository management. In this day, students spread equally to both Basic and Advanced tracks.
 From Tuesday to Thursday, we kept a lighter schedule, with Lectures starting at 10 AM until 12 AM, and Laboratories starting at 2 PM. Lectures involved often watching videos together, often with a comment from the guest lecturer. In some cases, lecturers asked to students to participate in a online activity. The response from students to online activities was good. 
 Usually, laboratories lasted from 1 hour to 2 hours. Only the first hour of the laboratory was mandatory for the student, while the second hour was dedicated to specific applications of the covered techniques. In these days, most of the students backed from Advanced track to the Basic. The Advanced track provided different skills for advanced API and concluded the mini course with a discussion on causal inference. The Basic track showed to students how to scrape reviews from Amazon with rvest, and then use the scraped scores to validate lexicons for Sentiment Analysis. As an example of Topic Modeling, Latent Dirichlet Allocation has been performed on R.
 Students actively participated in the laboratories, for example sharing their code on Zoom. Teaching assistants provided remote technical assistance to students at any hour of the day.
 On Friday, no laboratory has been scheduled, but guest lecturer Chiara Binelli provided an extensive online activity on online experiments.
+
 SECOND WEEK
 The second week of SICSS was held in the traditional format for the pre-pandemic world - in-person. The Department of Social and Political Sciences at the University of Bologna hosted activities during the second week. On June 13, the first day of the offline week in Bologna, we held a welcome dinner. 
-
 The line-up of speakers included foreign and Italian practitioners and academics working in the field of computational social sciences. On June 13, Chris Albon, director of machine learning at the Wikimedia Foundation, spoke to the participants of the institute. On June 14, language technology educator Rachael Tatman presented the latest achievements in Natural language processing. The participants were interested in aspects of working outside of the academy with a background in social sciences, cooperation with technical specialists in the implementation of joint projects, incorporation of the theory about human behavior from social sciences in data-driven initiatives, etc.
-
 Italian demographer Nicola Barban presented how digital data is used in contemporary demography. Annalisa Pelizza, in collaboration with Wouter Van Rossem, highlighted the importance of database structures operated by the EU states in profiling and framing migrants contacting with the European jurisdiction. Their lecture was accompanied by a short group exercise in network analysis.
-
 During the second week, participants presented their own projects, after which they had time to work on them, receiving advice from teaching assistants on issues related to data processing, the use of appropriate statistical tools, and further improvement of research design.
 
-
-
 DEBRIEF/DEPARTURE
-
 We realized that the formation of a schedule of hands-on sessions for two groups - basic and advanced, should not imply simultaneous classes. A number of topics covered in the advanced group were also relevant to the research projects of participants who chose to attend classes in the basic group. In the future, it would be better to draw up a schedule with consecutive classes.
-
 The closing of SICSS Bologna was accompanied by a farewell aperitivo. We also made a gift in the form of a t-shirt and a bottle for all participants, speakers, and organizers. 
-
-
-
-
-
