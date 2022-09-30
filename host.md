@@ -45,33 +45,28 @@ As we work toward this mission, we are guided by the following principles:
 
 For a much more detailed description of the process of hosting a partner location, please consult our [Handbook for Organizers](https://docs.google.com/document/d/1InRTZJPbh9P1Qnc1VBB7UxDflXaxNqhEygBnO7yGBoQ/edit?usp=sharing)
 
-### Call for Applications 2022
+### Call for Applications 2023
 
 Dear friend of SICSS,
 
-We are very pleased to announce this call for applications to host SICSS partner locations in 2022. Though we hope that some organizers will be able to host in-person events, we recognize that the COVID pandemic continues to create significant challenges throughout the world and therefore also welcome applications for virtual events. Though virtual events may not allow for the depth of connections that might be created by in-person events, they also broaden access to the field towards those who might not be fortunate enough to live near a partner location-- or cannot afford to travel one. 
+We are very pleased to announce this call for applications to host SICSS partner locations in 2023. In 2022, SICSS organizers hosted a mixture of virtual and in-person events. Although we hope that 2023 organizers will be able to host in-person events, we recognize that the COVID pandemic continues to create significant challenges throughout the world and therefore also welcome applications for virtual events. Though virtual events may not allow for the depth of connections that might be created by in-person events, they also broaden access to the field towards those who might not be fortunate enough to live near a partner location – or cannot afford to travel one.
 
-We are proud to announce that we will once again be able to provide financial support to those who wish to host partner locations thanks to the generous support of the funders described below. Unfortunately, the number of sites we expect to fund this year may be lower than years past due to funding limitations. Therefore, we are particularly hopeful that some partner location organizers may be able to self-sponsor their location via their own universities or organizations-- or through developing partnerships with non-profit organizations or corportations (as an increasing number of organizers have done in the past few years). 
+We are proud to announce that we will once again be able to provide financial support to those who wish to host partner locations thanks to the generous support of the funders described below. As in past years, our resources are limited — as much as we would love to fully fund every organizing team who submits an application to run a SICSS partner location, we will likely be unable to do so. Therefore, we encourage organizers who have capacity and means to do so to look into self-sponsoring their location via their own universities or organizations, or through developing partnerships with non-profit organizations or corporations.
 
-Applications selected for financial support will receive $12,920 to support the cost of food, room rental fees, a TA, and an honorarium for the organizer or organizers (note, if there are multiple organizers, the honorarium amount must be split between them). Sites that propose an event less than one week will receive a smaller grant depending on its length and the resources required 
+Applications selected for financial support will receive \$15,000 to support the cost of the institute — \$7,200 for honoraria (to be split between organizers and TAs); \$1,800 to support the cost of food and room rental fees; and \$5,000 to fund participant research projects. In 2023, we intend to fully fund six SICSS partner locations at this amount. If you require less funding than this amount (perhaps you are running a location that is only a week long, or are receiving funding from alternate sources), please indicate so on the application.
 
-Regardless of whether you apply for funding or self-sponsor a SICSS location, please complete the short application form below. If you have any questions, please consult the F.A.Q. below and-- if this does not address your question-- please email us at rsfcompsocsci@gmail.com
+Applications will be reviewed by SICSS leadership. Regardless of whether you apply for funding or self-sponsor a SICSS location, please complete the short application form below. If you have any questions, please consult the F.A.Q. below or email us at rsfcompsocsci@gmail.com.
 
-Applications will be reviewed by the brand new SICSS advisory council, which will aim to fulfill our goal of expanding access to training in the field to new audiences as much as possible.
+With very best wishes, Chris Bail, SICSS Director
 
-With very best wishes,
-Chris Bail
-Director, SICSS
 
 ### How to Apply
 
-**Applications to host a partner site in 2023 are due on Friday, November 18 by 5pm EST. An updated call for applications will be circulated in September.** 
+**Applications to host a partner site in 2023 are due on Friday, November 18 by 5pm EST. Please send completed [applications](https://docs.google.com/document/d/1ZHKR3PuRw9mqEmaikltHmyIm4_RQKkw_ysv3prjgCXk/edit?usp=sharing) to rsfcompsocsci@gmail.com** 
+
 
 ### Frequently Asked Questions
 
-##### What if I can’t run the partner location during the scheduled dates?
-
-That’s fine. [SICSS 2018 in Boulder, Colorado](https://compsocialscience.github.io/summer-institute/2018/boulder/) and [SICSS 2019 in Bamberg, Germany](https://compsocialscience.github.io/summer-institute/2019/bamberg/) both happened at different times from the other partner locations.
 
 ##### What if I want to host a partner location in a different time zone from other locations?
 
@@ -79,7 +74,7 @@ That’s fine. Each year we have locations spread around the world.
 
 ##### How can I learn more about what it is like at a partner location?
 
-At the end of each year, we write a post-mortem that describes what went well and what could be better at each of the partner locations. Here are our post-mortems from [2018](https://msalganik.wordpress.com/2018/08/07/summer-institutes-in-computational-social-science-2018-post-mortem/), [2019](https://msalganik.wordpress.com/2019/09/19/summer-institutes-in-computational-social-science-2019-post-mortem/), and [2020](https://msalganik.wordpress.com/2020/08/19/summer-institutes-in-computational-social-science-2020-post-mortem/). Also, here are some articles and blog posts about the Summer Institutes:
+At the end of each year, we write a post-mortem that describes what went well and what could be better at each of the partner locations. Here are our post-mortems from [2018](https://msalganik.wordpress.com/2018/08/07/summer-institutes-in-computational-social-science-2018-post-mortem/), [2019](https://msalganik.wordpress.com/2019/09/19/summer-institutes-in-computational-social-science-2019-post-mortem/), [2020](https://msalganik.wordpress.com/2020/08/19/summer-institutes-in-computational-social-science-2020-post-mortem/), and [2021](https://sicss.io/2021/post-mortem). Also, here are some articles and blog posts about the Summer Institutes:
 
 - [Summer institute advances social science in the digital age](https://www.princeton.edu/news/2019/07/16/summer-institute-advances-social-science-digital-age)
 - [Using Data Science to Solve Social Science Dilemmas: Exploring the promises and problems of big data at the Summer Institute In Computational Social Science](https://www.rti.org/insights/using-data-science-solve-social-science-dilemmas)
