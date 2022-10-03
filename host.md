@@ -35,7 +35,7 @@ The mission of the Summer Institutes in Computational Social Science is to provi
 
 As we work toward this mission, we are guided by the following principles:
 
-1. The training provided by SICSS will be free to participants.  
+1. The training provided by SICSS will be free to participants.
 
 2. Any materials that organizers develop will be released open source.
 
@@ -59,18 +59,15 @@ Applications will be reviewed by SICSS leadership. Regardless of whether you app
 
 With very best wishes, Chris Bail, SICSS Director
 
-
 ### How to Apply
 
-**Applications to host a partner site in 2023 are due on Friday, November 18 by 5pm EST. Please send completed [applications](https://docs.google.com/document/d/1ZHKR3PuRw9mqEmaikltHmyIm4_RQKkw_ysv3prjgCXk/edit?usp=sharing) to rsfcompsocsci@gmail.com** 
-
+**Applications to host a partner site in 2023 are due on Friday, November 18 by 5pm EST. Please send completed [applications](https://docs.google.com/document/d/1ZHKR3PuRw9mqEmaikltHmyIm4_RQKkw_ysv3prjgCXk/edit?usp=sharing) to rsfcompsocsci@gmail.com**
 
 ### Frequently Asked Questions
 
-
 ##### What if I want to host a partner location in a different time zone from other locations?
 
-That’s fine. Each year we have locations spread around the world. 
+That’s fine. Each year we have locations spread around the world.
 
 ##### How can I learn more about what it is like at a partner location?
 
