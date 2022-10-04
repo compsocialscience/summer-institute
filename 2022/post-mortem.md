@@ -6,7 +6,7 @@ layout: about
 
 <h2 class="display-4">Summer Institutes in Computational Social Science 2022 Post-mortem</h2>
 
-**Published on:** Sep 14, 2022
+**Published on:** October 3, 2022
 
 We’ve just completed the 2022 [Summer Institutes in Computational Social Science](https://sicss.io/). The purpose of the Summer Institutes is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institutes are for both social scientists (broadly conceived) and data scientists (broadly conceived). This summer we had a mixture of in-person institutes and virtual institutes across the world. In addition to [SICSS-Duke](#duke), which was organized by Chris Bail, there were 31 partner locations run by SICSS alumni.
 
