@@ -13,8 +13,8 @@ sidebar:
     url: "#handbook-organizers"
   - name: Eligibility
     url: "#eligibility"
-  - name: "Call for Applications 2022"
-    url: "#call-for-applications-2022"
+  - name: "Call for Applications 2023"
+    url: "#call-for-applications-2023"
   - name: How to Apply
     url: "#how-to-apply"
   - name: Frequently Asked Questions
@@ -53,7 +53,7 @@ We are very pleased to announce this call for applications to host SICSS partner
 
 We are proud to announce that we will once again be able to provide financial support to those who wish to host partner locations thanks to the generous support of the funders described below. As in past years, our resources are limited — as much as we would love to fully fund every organizing team who submits an application to run a SICSS partner location, we will likely be unable to do so. Therefore, we encourage organizers who have capacity and means to do so to look into self-sponsoring their location via their own universities or organizations, or through developing partnerships with non-profit organizations or corporations.
 
-Applications selected for financial support will receive \$15,000 to support the cost of the institute — \$7,200 for honoraria (to be split between organizers and TAs); \$1,800 to support the cost of food and room rental fees; and \$5,000 to fund participant research projects. In 2023, we intend to fully fund six SICSS partner locations at this amount. If you require less funding than this amount (perhaps you are running a location that is only a week long, or are receiving funding from alternate sources), please indicate so on the application.
+Applications selected for financial support will receive \$15,000 to support the cost of the institute — \$8,200 for honoraria (to be split between organizers and TAs); \$1,800 to support the cost of food and room rental fees; and \$5,000 to fund participant research projects. In 2023, we intend to fully fund six SICSS partner locations at this amount. If you require less funding than this amount (perhaps you are running a location that is only a week long, or are receiving funding from alternate sources), please indicate so on the application.
 
 Applications will be reviewed by SICSS leadership. Regardless of whether you apply for funding or self-sponsor a SICSS location, please complete the short application form below. If you have any questions, please consult the F.A.Q. below or email us at rsfcompsocsci@gmail.com.
 
