@@ -477,6 +477,12 @@ We received more than 100 applications from participants from different academic
 
 We assigned two reviewers for each application and distributed the screening task among all the members of the SICSS-Delhi Team. Every review resulted in some score, along with some comments. Based on the reviews obtained for each application, we took a decision (i.e., select, reject, or wait) through a rigorous discussion among our team for each application. Thus, an email was sent to all 25 selected applicants, and they were asked to fill out a Google form to confirm their participation. We also send emails to the waitlisted as well as rejected applicants. Out of our 25 selected applicants, a couple of them could not accept the offer due to some unavoidable circumstances; hence those two seats were occupied by the waitlisted candidates. Finally, the application statuses of the remaining waitlisted candidates were changed to rejected, and the same was informed to the candidates through an email. If we consider the statistics of our selected 25 participants in terms of educational background, 10 (i.e., 40%) were young industry professionals; six were pursuing Ph.D., four were doing Post-Docs, the remaining 8% (i.e., 2), and 4% (i.e., 1) are post-grads and under-grads students respectively. In the case of area of expertise, seven participants are from computer science, and a similar number of participants are from the Public Health sector. There were five participants from Economics backgrounds also. Besides these, we also had one participant each from Public Policy, Engineering, and statistics areas. 
 
+<img src="https://ibb.co/cQ25tQv" alt="" width="600">
+Figure 1. Educational Qualifications
+
+<img src="https://ibb.co/H25rvxv" alt="" width="600">
+Figure 2. Areas of Expertise
+
 ### 5. Onboarding
 
 After finalizing the participants for the summer institute, the next step was to initiate the onboarding process. The first task in this phase was to have the participant's profile on the SICSS people page and the SICSS-Delhi people page. For this, we emailed all the participants the Google form link shared by the SICSS core committee. In this way, we obtained the photo, bio, and profile link of almost all the participants and other details (although after sending several reminders for the same to some participants). Once we had all the required information about the participants, their profiles were added to the website's people page under the "Participants" category.  
@@ -499,7 +505,9 @@ __16th June:__ The day started with a discussion on the eco chambers that could 
 
 __17th June:__ On the final day, we had a hands-on tutorial in continuation of the last session of the previous day. The tutorial focused on different text analysis approaches to dealing with text written in Hindi. After this session, before starting the presentations for group projects, we created breakout sessions. We asked all the participants to prepare a presentation through discussion among their group members. They were expected to present an idea with some literature background and the suggested approach to bring the idea on board. We had some really good presentations from the participants, followed by the closing ceremony.  
 
-We had a very positive experience with the summer institute on the whole, despite having conducted it in online mode. We are incredibly thankful to the participants for their active involvement and for making it a success. We were satisfied with our decision to have it for one week as conducting an online program for a longer duration is quite challenging. Some of the glimpse of the summer institute, posted on Twitter for promotional purposes, can be seen below:
+We had a very positive experience with the summer institute on the whole, despite having conducted it in online mode. We are incredibly thankful to the participants for their active involvement and for making it a success. We were satisfied with our decision to have it for one week as conducting an online program for a longer duration is quite challenging. A of the glimpse of the summer institute, posted on Twitter for promotional purposes, can be seen below:
+
+<img src="https://ibb.co/Yy8yZqY" alt="" width="600">
 
 <h2 class="display-4" id="edinburgh">SICSS-Edinburgh</h2>
 
@@ -552,6 +560,17 @@ We plan for a three month check-in event online where groups can present group w
 It was a challenging thing to organize this. And writing this post-mortem makes its author (Chris Barrie) realize how much work went into its organization. Notwithstanding the Covid outbreak, which was handled as best as it could have been via a DIY hybrid setup, the event went smoothly and very successfully. 
 
 In future, the main Organizer Chris Barrie, notes that it’s worthwhile having a main organizing team of 2-3 in order to make delegation of work more simple. Given many are still working remotely, it was sometimes difficult to determine lines of communication required for effective delegation of tasks. Given Chris was the only Organizer who had organized before, he was also the only one aware of the contours of the event and what was required. This meant it was occasionally hard to communicate what needed to be done. This should be easier now that there are multiple organizers who have contributed to the event at Edinburgh. 
+
+### 7. Pictures
+
+<img src="https://ibb.co/Kxygb3B" alt="" width="600">
+Drinks at an Edinburgh pub 
+
+<img src="https://ibb.co/RTRrzcn" alt="" width="600">
+Final meal 
+
+<img src="https://ibb.co/qsT2F3F" alt="" width="600">
+Informatics poster event with participants 
 
 
 <h2 class="display-4" id="fgv-dapp-brazil">SICSS-FGV/DAPP Brazil</h2>
@@ -864,6 +883,9 @@ __Reflection:__ With a large number of participants, we weren’t able to give a
 
 For those staying in HK and available to socialize in person, we treated them with a luncheon on 1 pm, Sunday, June 26 at Chung Chi College Staff Club, CUHK. We were joined by five alumni of the 2021 SICSS-HK.
 
+<img src="https://ibb.co/D88mvsF" alt="" width="600">
+<img src="https://ibb.co/5MFFn9Y" alt="" width="600">
+
 ### 4. Second Week 
 
 #### Program 
@@ -907,6 +929,7 @@ Great memories. We believe that the 2022 SICSS-HK was successful particularly in
 * Outreach and application: The number of applications was doubled, in comparison to last year’s (hence we need a more efficient way to review materials).
 * Networking: Albeit the primary learning mode was online, we were able to create many networking opportunities by Gather (fluid video chat platform), buddy groups, and an offline luncheon. The luncheon was great to mix up “alumni” of the current and past participants. We can consider this kind of event to sustain the tradition onward.
 
+<img src="https://ibb.co/5sWRtwS" alt="" width="600">
 
 <h2 class="display-4" id="hyderabad">SICSS-Hyderabad</h2>
 
@@ -943,6 +966,8 @@ The first week of the summer school was a mix of guest lectures, hands-on tutori
 
 Coming to the guest lectures, we had distinguished speakers like [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ac.in/~niloy/) talking about tackling one of the most critical social issues of the time, Misinformation and that too during the Pandemic time. Then we had [Prof. Alison Noble](https://eng.ox.ac.uk/people/alison-noble/) talking about the emergence of Sonography via Data Science. [Dr Rajiv Ratn Shah](http://midas.iiitd.edu.in) from IIIT Delhi demonstrated various applications that leverage multimodal signals in solving the tasks. We also had [Suhem Parack](https://dev.to/suhemparack) from Twitter introducing participants to the Twitter Academic API and its attributes. Another prime aspect of learning the CSS or any other field involves evaluating your solutions. To fill the gap, [Aditya Medury](https://www.iitk.ac.in/new/aditya-medury) talked about correlation, association and causation, and we had [Fabricio Benevenuto](https://homepages.dcc.ufmg.br/~fabricio/) illustrating the deployment of a system in combating misinformation.
 
+<img src="https://ibb.co/YtCkT4b" alt="" width="600">
+
 We also conducted discussions and tutorials to encompass both theoretical and hands-on knowledge. For each discussion session happening the next day, participants were reminded to view the recorded lecture. The prime agenda of the discussion was to have an in-house discussion about the course where the assigned mentor prepared the extended content taking cues from the recorded video. Not only was each concept highlighted in the recorded version elaborated, but the session was meant to solve doubts and ask-answering questions. Next, each discussion session was followed by a hands-on tutorial session comprising rigorous training on the topics learnt. The first week had sessions related to ethics, collecting data from the web, understanding the pandas library via the lens of the Python language and learning tools to interpret or infer the survey results.
 
 Besides bombarding participants with the information, we also had dedicated hours in the schedule where they could put their thinking caps and come up with innovative ideas for the projects. The plan for the projects in the first week was solely to focus on formalizing the ideas and coming up with the todos to proceed with the same. Keeping the two weeks timeline in mind, we had an introductory session where we informed participants about the expectations and outcome of the projects. Since it was a group activity, we advised participants to utilize each other's expertise in forming the projects. Each project was handled by a TA that helped participants not only by brainstorming the ideas but also by directing them to think in the right direction. We kept two slots in the schedule for validation and feedback sessions with the panelists to measure progress. Not only this, but being an offline event, we encouraged participants to utilize the lunch and networking hours for one-on-one interactions with the speakers.
@@ -956,9 +981,13 @@ In a nutshell, the jam-packed week introduced participants to the following:
 * Discussions and hands-on tutorial sessions to introduce various methodologies of the CSS.
 * We hosted group activities to ice-break conversations among participants and created a healthy work environment for all. This included working on the projects and leading the paper reading discussions. 
 
+<img src="https://ibb.co/1vYTgv0" alt="" width="600">
+
 ### Week 2 (July 18, 2022 - July 22, 2022)
 
 A significant part of SICSS is participant-led group research projects during the second week. We kept numerous feedback/project work hours where students could spend time on their proposed ideas. Mentors/TAs were available at the venue to solve any form of queries and roadblocks. We also scheduled a mid-week project progress evaluation slot with the panelist. 
+
+<img src="https://ibb.co/BgZ9qMZ" alt="" width="600">
 
 Likewise, the previous week, we continued on the distinguished lecture series and discussion sessions. The week had [Micheal Bailey](https://research.facebook.com/people/bailey-michael/) and [Harshil Sahal](https://harshil.com) talking about the social networks and spatial mobility-evidences from Facebook in India, [Jisun An](https://jisun.me) from SMU speaking about tackling the social challenges with data science and AI. We also had [Munmun De Choudhary](https://www.google.com/search?client=safari&rls=en&q=Munmun+De+Choudhary&ie=UTF-8&oe=UTF-8) enlightening the audience about how to combat mental health via social media. [Rikin Gandhi](https://www.linkedin.com/in/rikingandhi/) introduced the niche area of digital green to the participants. We also had [Vasundhra Kaul](https://www.linkedin.com/in/vasundhara-kaul-19760a24/) talking about understanding data privacy through socio-legal lenses. The discussions and hands-on sessions taught various concepts like mass collaboration, conducting experiments and introduction to the causal inference libraries.
 
@@ -970,6 +999,8 @@ I liked all of them [guest speakers]. I learnt that what can be the research per
 
 Being the first edition of the SICSS, we have the vision to make it better for the coming year and feedback from the participants will aid in it. Last but not least, we conducted the certificate distribution ceremony, where we acknowledged and appreciated the dedication and sincerity participants showed during the timeline. We gave them participation certificates along with hoodies as a token from the SICSS community. Finally, we took loads of photos and said the final goodbye.
 
+<img src="https://ibb.co/4jv3X0z" alt="" width="600">
+<img src="https://ibb.co/NYTmDyq" alt="" width="600">
 
 <h2 class="display-4" id="jias-ipatc">SICSS-JIAS/IPATC</h2>
 
@@ -982,6 +1013,8 @@ We’ve divided the post-mortem into six main sections: 1) outreach and applicat
 Our application process took place between January and April 2022. We advertised our institute to a large, diverse group. We were intentional about prioritising applications from previously disadvantaged universities in South Africa (HBUs) and the disciplines of the social sciences. This meant deliberately having meetings with faculties in the specific institutions to share the information with their postgraduate networks. We also reached out to a varied network of scholars and universities and academic websites that serve the African continent. Websites such as Opportunity Desk and Academic Hive advertised on their platforms. Most of the applicants heard about our programme from their supervisors.
 
 We regularly met with site organisers from SICSS-Covenant in Nigeria, SICSS-Central/West Africa in Cameroon and SICSS-Howard Mathematica in the United States (US), through weekly support meetings. This was to build a strong network of Africans and African Descendants in Computational Social Science. This translated in the sites planning a joint event that would address data collection methods of Africans and African Descendants. Each site provided a panelist and we agreed on discussion points and how the event would run. We would pre-record the panelist opening statements and then host a live Q&A session at an agreed time. We all agreed to host it on 27 June 2022, this was the final week for most of the collaboration sites and the second for ours. All the sites were first-time organisers except for Naniette Coleman from SICSS-Howard/Mathematica who provided great tips and insights from a structure and  organisational point of view. Having this support group proved fruitful as it made the organising journey less lonely/daunting. Although each site had its own unique structure, we had a common thread and that was to amplify the voices of Africans and African Descendants in Computational Social Science.
+
+<img src="https://ibb.co/hLzFQ3g" alt="" width="600">
 
 Our applicants were expected to provide a detailed CV, Personal and Research statement of no more than 2000 words. Our application stream was slow and low and this could be due to the fact that in 2022 there were 32 sites who most had a virtual model as that allows for applicants to apply to a varied group of sites. Originally our application deadline was set for 31 March 2022 but was extended by a weekend to 04 April 2022. The extension helped the many applicants who missed the first deadline. Many sites such as ours considered in-person sessions, dependent on covid updates. We specified on the website that should restrictions adjust, we would be adopting a 100% virtual model.
 
@@ -1000,6 +1033,8 @@ Participants were required to send a report each week detailing their Bootcamp p
 ### Week One 
 
 We used MSTEAMS as our meeting platform. It is a widely used platform in South African universities. We also offered daily updates on a shared document where we posted resources from the theme of the day and the following day’s programme. This was a great addition to Slack, as the uptake of Slack proved to be slow.
+
+<img src="https://ibb.co/47Kx11J" alt="" width="600">
 
 The focus of this week was to deal with question of what Computational Social Science is and what it looks like in Africa since it is still a new field. We incorporated the lesson of research/experiments in the digital age for African researchers. The sessions dealt with the digital landscape of Africa, data collection methods, ICT4D, Decolonising Artificial Intelligence and the ethics and responsibility of African researchers. Sessions were also geared to speak to each of the participants’ research areas. We exposed the participants to varied scholars with different presentation and ideological approaches. Meetings were held once to twice a day to minimise digital fatigue and to allow participants to focus on their coding exercises. Participants were strongly encouraged to continue seeking one on one support.  
 
@@ -1022,6 +1057,8 @@ We updated the group exercises for context purposes and used a more African appr
 Our local partners supported our site with local travel grants and the Social Science Research Council (SSRC) assisted our international participants with flights to South Africa. The participants from Uganda and the US arrived on Sunday 3 July 2022 and were checked in at Pathways Guest House. Unfortunately, our Cameroon participant’s flight was overbooked and this caused a delay in his arrival.  All participants arrived early morning, Monday 4 July 2022, from different cities across South Africa. After participants settled in at Pathways Guesthouse, the UJ shuttle picked us up to have lunch on the JIAS campus. This was followed by a welcome from the JIAS director, a JIAS campus tour  and  a logistics meeting with the participants on their group work and the rest of the week. 
 
 On the same evening, IPATC hosted a welcome dinner where the participants had an opportunity to meet with the director. This is where it was communicated that participants would be appointed as junior fellows at IPATC and writing incentives were put into place for the institute’s group research output. 
+
+<img src="https://ibb.co/qNK6Xy7" alt="" width="600">
 
 Each day would begin with group work, followed by an in-person lecture then the group work would continue. Participants could use both the guest house conference facilities and the JIAS campus to work from. Most participants preferred alternating between the venues. 
 
@@ -1082,6 +1119,8 @@ In general, we divided the talks into three categories: main talks by either Fir
 
 Week 1 was mostly made up of lectures and workshops. Day 1 began with an introduction to computational social science and its ethics, delivered by Firman. In the afternoon session, Ahmad presented Surveys in the Digital Age, combining the third chapter of Salganik's Bit By Bit book with his personal experience in doing survey and big data research.
 
+<img src="https://ibb.co/kKKbLyd" alt="" width="600">
+
 On Day 2, Jason J. Jones gave lectures on how to design and run digital experiments and where to publish them. He also gave a hands-on experience of participating in an experiment study run on Qualtrics. Jason, together with the participants, also analyzed the data. In the afternoon session, Arie Wahyu Wijayanto and his student, Salwa Rizqina Putri, taught participants how to collect data from various sources on the internet using web scraping techniques. 
 
 Day 3 was an open webinar, which we will go over in more detail later.
@@ -1102,6 +1141,8 @@ We co-hosted this event with Universitas Islam Indonesia (UII) to commemorate it
 
 The number of questions that sparked discussions between participants and speakers during the webinar demonstrated that participants were very enthusiastic about the webinar. The webinar concluded with a quiz with prizes, which the participants eagerly participated in. This webinar's recording is available on YouTube at the following [link](https://www.youtube.com/watch?v=x3ayZc6HFJE).
 
+<img src="https://ibb.co/QnXjrYz" alt="" width="600">
+
 ### Week Two 
 
 We spent more time in week 2 allowing participants to discuss, work on, and present their group projects. Each day, we had one lightning talk from our guest speaker in between.
@@ -1111,6 +1152,8 @@ We spent more time in week 2 allowing participants to discuss, work on, and pres
 The main goal of lightning talks is to expose participants to various ideas of research in computational social science in various settings. As a result, we invited those from research institutions and industry.
 
 The first lightning talk was given by Nurvirta Monarizqa, a data scientist at Microsoft, Seattle. She shared her past research on spatial analysis and urban data science. The second lightning talk was given by Claudia Flores-Saviaga, a research fellow at Carnegie Endowment for International Peace. She shared her ongoing research on the collective actions systems to mitigate disinformation. The third lightning talk was delivered by Alëna Aksënova and Sandy Ritchie, linguists at Google New York and London, respectively. They shared how to build better speech recognition for everyone. All lightning talks took place in the morning, with the exception of the final one, which took place in the evening Indonesia time due to the speakers, organizers, and participants being from at least three different time zones (US, UK, and Indonesia).
+
+<img src="https://ibb.co/cxxxWMZ" alt="" width="600">
 
 In general, all lightning talks went well. Both participants and the speakers were happy. Participants get to know a wider application of computational methods. Speakers were happy seeing the interest of participants who asked lots and thoughtful questions. 
 
@@ -1150,6 +1193,7 @@ We cannot express how grateful we are to SICSS and SSRC, especially Chris Bail a
 
 Finally, apart from venue, infrastructure, and human resources for technical support during the main event and the open webinar session, we were also able to get mass media coverage through UII's network. SICSS-Jogja 2022 were reported by several online media such as [Beritabernas](https://beritabernas.com/pertama-di-indonesia-uii-terpilih-untuk-gelar-sicss-2022/) and [Jogpaper](https://www.jogpaper.net/sicss-cara-baru-mengolah-big-data-bidang-ilmu-sosial/), as well as two major newspapers in the region, [Republika](https://jurnal.republika.co.id/posts/167064/pertama-di-indonesia-fti-uii-gelar-sicss-jogja-2022) and Kedaulatan Rakyat.
 
+<img src="https://ibb.co/w06LcxM" alt="" width="600">
 
 <h2 class="display-4" id="korea">SICSS-Korea</h2>
 
@@ -1162,6 +1206,8 @@ In this post-mortem, we describe: 1) advertisement, outreach, and logistical pla
 Given our goal of establishing an enduring network of computational social scientists in and outside Korea across academic disciplines and sectors (e.g., academia, industry, and government), we first sought to engage with local academic institutions. KAIST is a premier STEM school in South Korea, and KDIS is a premier policy school in the country. We secured funding from both institutions to symbolize broad support for the very first Summer Institute in Computational Social Science in South Korea. It took a while to settle the total amount of funding. From both institutions, we confirmed the amount of funding and the possible usage of it around April, which delayed the specific planning of the summer institute. Despite the pandemic, we decided to host an in-person version of the institute at KAIST because the Korean government tracked and controlled the COVID-19 situation with relative success. 
 
 Our process of program development took place in three rounds (speakers, TAs, and participants). First and earliest, we reached out to potential guest speakers before their summer schedules were fully booked. 7 out of 11 contacted people accepted our invitations (64% yield rate). Four are domestic speakers (Korea University, Yonsei University, KAIST, and Naver), and three are international speakers (Northwestern, Code for America, and Twitter). As designed, these speakers are from various disciplines (political science, communication, business, network science, industry data science, civic tech) and institutions in and outside Korea and across multiple sectors (academia, the industry, and the government). After confirming the guest speakers, we recruited a total of three TAs (all graduate students) from Seoul National University (Korean male, sociology), KAIST (Korean male, culture technology), and KDI School (Ukranian male, finance). As for the KDI school TA, Jae Yeon Kim interviewed five applicants and examined their technical knowledge and fit with the program. We recruited TAs to have different programming skills; two TAs used R and one TA used Python as a primary programming language. Finally, to inform potential applicants regarding the application process, Lanu Kim and Jae Yeon Kim held an online information session for prospective participants on March 4, 2022. 61 people from 11 countries RSVPed to this information session (Figure 1 shows these people’s country and institutional backgrounds). We asked these people to share what they would like to know about the application process and the program and explained them the during the webinar held via zoom.
+
+<img src="https://ibb.co/4jK0MwW" alt="" width="600">
 
 As a result, over some months, we received 56 highly qualified applications from South Korea, the United States, the United Kingdom, and many other places. Lanu Kim and Jae Yeon Kim read these applications, created a long list of 22 candidates, and sent out 18 offers with the expectation of having 15 participants. However, all admitted applicants accepted the offers (100% yield rate). Our criteria for selection were as follows: 
 
@@ -1354,7 +1400,7 @@ Day 5 was lighter as compared to the previous days. The morning focused on live 
 
 Day 6 & Day 7 were weekend days off.
 
-### Second week 
+### 4. Second week 
 
 The second week of the workshop was primarily devoted to final group projects. A typical day was composed of lecture or live tutorial in the morning, guest lecture at noon, and group work time in the afternoon. It ran from 9:30 a.m. to 4:00 p.m. 
 
@@ -1362,11 +1408,11 @@ Day 8 covered basics of machine learning, followed by guest speaker Dr. Tian Yan
 
 Day 11, the last day of the institute, was devoted to group presentations. Each of the five groups gave a 15-min presentation, in which each member had a role. Other participants listened and gave feedback to the presenters. Participants accomplished incredible work during such a short time period, encompassing topics such as COVID-19 vaccine discussion, coffee drinking and stratification, education policy analysis, public perception of AI tech, and Yellow Stone flooding, see [here](https://github.com/shuninglu/sicss-ndsu/tree/main/Group%20projects). At the closing of the workshop, we encouraged participants to stay in touch by continuing their collaborative work and conversations. We also encouraged them to spread the word of SICSS-NDSU and hold SICSS workshops at their home institutions. 
 
-### Post-workshop activity 
+### 5. Post-workshop activity 
 
 After SICSS-NDSU was over, we secured additional funding from NDSU’s Department of Communication. We encouraged participants to apply for the post-SICSS-NDSU grants to continue their work during the workshop or embark on new projects by August 15, 2022. 
 
-### Challenges of our site 
+### 6. Challenges of our site 
 
 Here are some challenges we encountered from organizing SICSS-NDSU:
 
@@ -1374,6 +1420,10 @@ Here are some challenges we encountered from organizing SICSS-NDSU:
 * Due to the lack of training in computational social science, we were not able to hire a teaching assistant at SICSS-NDSU to help with troubleshooting and other logistic issues.
 * Due to the lack of funding, most guest speakers joined our site virtually on Zoom. We wish to invite each of them to the site and interact with our participants. 
 * COVID-19 exposure was a concern. 
+
+### 7. Group Photo 
+
+<img src="https://ibb.co/0qCt7xv" alt="" width="600">
 
 <h2 class="display-4" id="paris">SICSS-Paris</h2>
 
@@ -1448,6 +1498,9 @@ The evening talks were followed (except during the time of covid crisis) by drin
 
 Overall, we believe that the program worked well. As could be expected, not everyone was interested in all topics, some knew about some aspects, but the evaluation form we circulated shows that everyone got a lot out of the institute. 
 
+<img src="https://ibb.co/BNG7bpL" alt="" width="600">
+__Ratings from participants to SICSS__ (yes, there were other options, including negative ones)
+
 Still, adjustments could be made. Some have to do with teaching, topics, and packages and don’t need to be detailed here. The main change we will consider has to do with the schedule, which was maybe packed. The days were long, and if this has its plus sides (we cover more, more in-depth), it is also a bit intense. One suggestion we received was to remove some lectures from the second week, or maybe some evening talks (esp. since the latter tend to cut into the afternoon’s group work). 
 
 ### 4. Projects 
@@ -1455,6 +1508,8 @@ Still, adjustments could be made. Some have to do with teaching, topics, and pac
 With a bit of nudging, groups were formed quite easily. They covered a gamut of topics that ran from sexism in rap songs, partisan bias in news consumption, coverage of climate change in newspapers, success of scientific proposals in being funded, effects of #MeToo implicated actors on the outcome of movies, ....
 
 On the last day, the groups presented their ongoing work, and we gave them some comments. At the beginning of the summer school, we were approached by the editor of a European social sciences journal who said they would be interested in publishing a special issue on CSS, potentially with the papers produced by the different groups of the institute. We announced this early on, which had a positive effect on the overall motivation. We are now in the process of collecting abstracts to send a proposal to the editorial board. 
+
+<img src="https://ibb.co/6NQgVcY" alt="" width="600">
 
 <h2 class="display-4" id="roma-tor-vergata">SICSS-Roma Tor Vergata</h2>
 
@@ -1975,6 +2030,8 @@ __Food and Room__
 
 We had an abundance of snack food, and our lunch meals were quite satisfactory. We also had a quite large and modern classroom with powerful AC in which our participants had a chance to interact with each other comfortably.
 
+<img src="https://ibb.co/hMzLg8Q" alt="" width="600">
+
 __Research Talks__
 
 Possibly, in our (organizers’) opinion, the comparative advantage of our program was the high quality and research excellence of our speakers. Especially, the keynote speech delivered by Prof. Gary King of Harvard University received great praise from participants; and, throughout the event the quality of the talks motivated our participants to come up with thought-provoking questions.
@@ -2009,8 +2066,7 @@ __Scholarship for Accommodation__
 
 We tried to use our budget for the program as efficiently as possible; nevertheless, we could have increased the number of participants by up to 15% if we had a chance to cover expenses for accommodation for participants coming from other cities and countries. We will do our best to find a solution to this issue in the future.
 
-
-
+<img src="https://ibb.co/Vpbyx7q" alt="" width="600">
 
 
 
