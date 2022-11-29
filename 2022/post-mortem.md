@@ -122,46 +122,54 @@ According to the three surveys executed during the Institute, all presentations 
 
 We accepted with gratitude the feedback from participants who kept saying that there were two best things about the Institute: people (open-minded, enthusiastic and cooperative) and the possibility to grow (learning new research methods, and programming). We note that this was possible not only thanks to the support and funding from various institutions and thanks to highly-involved participants. We believe that this was achieved also by a committed group of organizers who looked out for each other and worked as one team, often beyond “working hours”.
 
-<hr />
+<img src="https://ibb.co/KNtMWTc" alt="" width="600">
+<img src="https://ibb.co/M7Bfm30" alt="" width="600">
 
+<hr />
 <h2 class="display-4" id="aachen-graz">SICSS-Aachen-Graz</h2>
 
 ### Programme design
 
+#### Content
+
 To design the program, we relied on the experiences of our two main organizers (Jana Lasser and Ivan Smirnov), who had either already organized a SICSS location (Ivan, HSE, 2021) or participated in one (Jana, Helsinki, 2021). We designed the programme alongside our strengths and research interests as computational social scientists and invited external speakers to bring diversity and fill in gaps. This included lectures offering a critical perspective on the state of the field of CSS, publishing CSS research and common pitfalls in CSS research projects as well as hands-on lectures on how to use APIs to collect data, how to run large-scale surveys on Amazon Mechanical turk and how to leverage large language models for CSS research. These lectures were complemented by two lectures by our senior organizers: an introduction to networks for CSS research from Markus Strohmaier and a lecture on how to combine large-scale surveys with digital trace data by David Garcia. We were also fortunate to welcome Suhem Parack to give us an introduction to using the Twitter API v2 to collect data for CSS research. Since both main organizers mainly work with Python, we decided to commit to teaching our SICSS location completely in Python, aiming to contribute teaching materials in Python to the collection of teaching materials of SICSS.
 
-**Content**
-To design the program, we relied on the experiences of our two main organizers (Jana Lasser and Ivan Smirnov), who had either already organized a SICSS location (Ivan, HSE, 2021) or participated in one (Jana, Helsinki, 2021). We designed the programme alongside our strengths and research interests as computational social scientists and invited external speakers to bring diversity and fill in gaps. This included lectures offering a critical perspective on the state of the field of CSS, publishing CSS research and common pitfalls in CSS research projects as well as hands-on lectures on how to use APIs to collect data, how to run large-scale surveys on Amazon Mechanical turk and how to leverage large language models for CSS research. These lectures were complemented by two lectures by our senior organizers: an introduction to networks for CSS research from Markus Strohmaier and a lecture on how to combine large-scale surveys with digital trace data by David Garcia. We were also fortunate to welcome Suhem Parack to give us an introduction to using the Twitter API v2 to collect data for CSS research. Since both main organizers mainly work with Python, we decided to commit to teaching our SICSS location completely in Python, aiming to contribute teaching materials in Python to the collection of teaching materials of SICSS.
+#### Venue
 
-**Venue**
 Our SICSS location was funded by a funding programme of TU Graz, dedicated to fund online teaching activities that are collaboratively hosted by two universities - in our case RWTH Aachen and TU Graz. We, therefore, planned our programme to take place completely online. We designed the outline of our programme similar to other SICSS locations, planning for one week of lectures and hands-on exercises, followed by one week of group project work with talks by guest lecturers in the evenings to have a common event every day.
 
 ### Before the summer school
 
-**Outreach**
+#### Outreach 
+
 We specifically advertised our SICSS location within our two host universities TU Graz and RWTH Aachen, since we wanted to attract students from the Computational Social Systems master’s programme at both universities. We, therefore, advertised the summer school in short pitches in relevant lectures during the winter semester and through mailing lists of lecturers and students of the master’s programme. In addition, we advertised our location over social media channels (Twitter and LinkedIn) as well as over the main SICSS website.
 
-**Applications**
+#### Applications
+
 We attracted a total of 71 applications. Students had to submit an academic CV and a motivation letter (1 page), describing their motivation to participate in our SICSS location and the potential benefit for their study and research career. We required no prior programming skills and no specific disciplinary background to apply. Students needed to have at least a bachelor’s degree to apply to our location. We also decided not to ask for recommendation letters. We believe that recommendation letters impose a disproportionate burden on students while there is little evidence of their usefulness.
 
 We aimed to admit 40 students, with guaranteed spots for students from TU and KFU Graz and RWTH Aachen in case they meet the minimum requirements and submit a complete application. We received a total of 5 applications from TU Graz and 3 from RWTH Aachen. The rest of the applications came from students enrolled at other universities. We also received a number of applications from PostDocs or people that had left academia. Given the choice of admitting a student or a non-student with similarly strong application materials, we decided to admit the student, since we felt they would benefit more from our summer school. We also paid special attention to applicants from groups that are underrepresented in CSS.
 
 We invited a total of 40 students to participate in our SICSS location. The disciplinary backgrounds of the people admitted to our location were very diverse, including students from political science (7), computer science (6), social science (5), psychology (5), computational social science (4), economics (3), collective intelligence (2) and physics, statistics, linguistics, data science, geography, engineering, journalism, and genders studies (1 student each). Similarly, the country of residence of our students was very diverse, with the rather high prevalence of German (8) and Austrian (5) students reflecting our increased outreach efforts in these countries, followed by the US (5), Morocco (3), UK (2), Russia (2) and Italy, South Africa, China, Portugal, Denmark, Switzerland, Argentina, Turkey, Korea, Belgium, France, Serbia, Greece and Iran (1 student each). Gender identities were almost balanced, with 22 participants identifying as male, 17 as female, and 1 as non-binary. Rejection rates were similarly balanced, with 52% of the rejected participants identifying as male, 45% as female, and 3% as neither.
 
-**Python crash course**
-We did not require any previous (Python) programming knowledge to enroll in our summer school. To get everybody up-to-speed regarding programming in Python, we offered a voluntary two-week Python crash course in the month before our summer school. The course consisted of a curated collection of online learning materials, tailored to fit the needs of participants in our summer school with introductions to general programming in Python (first week) and introductions to the libraries pandas, networkx, statsmodels and matplotlib in the second week. The Python crash course was supervised by two of our teaching assistants, Moritz Erlacher and Florian Hofer, who contributed a great deal of experience in teaching beginner-level programming courses in Python. Since we were aware that our participants had other study or work commitments in the month leading up to the summer school, we designed the Python crash course to be mainly self-paced learning with videos and exercises in Jupyter Notebooks. We offered office hours in the early mornings and late afternoons to help with questions regarding the exercises. The crash course was greatly appreciated by our participants and helped to equilibrate the level of programming skills across our participants at least a bit.
+#### Python crash course 
 
-**Onboarding**
-In addition to the Python crash course, we pointed students to the online learning materials provided by SICSS and asked them to apply for academic access to the Twitter API. We provided a guide on how to apply for academic access within the scope of our summer school, which was greatly appreciated by students. A total of 33 students applied for academic access and 6 of these applications were denied for unknown reasons.
+We did not require any previous (Python) programming knowledge to enroll in our summer school. To get everybody up-to-speed regarding programming in Python, we offered a voluntary two-week Python crash course in the month before our summer school. The course consisted of a curated collection of [online learning materials](https://github.com/rlcmtzc/SICSS-Python-Crash-Course), tailored to fit the needs of participants in our summer school with introductions to general programming in Python (first week) and introductions to the libraries pandas, networkx, statsmodels and matplotlib in the second week. The Python crash course was supervised by two of our teaching assistants, Moritz Erlacher and Florian Hofer, who contributed a great deal of experience in teaching beginner-level programming courses in Python. Since we were aware that our participants had other study or work commitments in the month leading up to the summer school, we designed the Python crash course to be mainly self-paced learning with videos and exercises in Jupyter Notebooks. We offered office hours in the early mornings and late afternoons to help with questions regarding the exercises. The crash course was greatly appreciated by our participants and helped to equilibrate the level of programming skills across our participants at least a bit.
+
+#### Onboarding
+
+In addition to the Python crash course, we pointed students to the [online learning materials](https://sicss.io/overview) provided by SICSS and asked them to apply for academic access to the Twitter API. We provided a guide on how to apply for academic access within the scope of our summer school, which was greatly appreciated by students. A total of 33 students applied for academic access and 6 of these applications were denied for unknown reasons.
 
 ### During the summer school
 
-**Instruction week**
+#### Instruction week 
+
 During the instruction week, we usually started with one lecture of 60-90 minutes at 9:30, followed by one hands-on exercise or group discussion for 90-120 minutes. We made sure to provide breaks of 10 minutes every 45-60 minutes since student feedback indicated that in the online setting it was often not easy to follow instructions for extended blocks of time. After a lunch break of 60 minutes, we had another lecture of 60-90 minutes, followed by a hands-on exercise of 90 minutes and a group discussion of 15-20 minutes to wrap up the day. We asked students for feedback every day, asking them “what did you like about today’s sessions” and “what could be improved”? We received very helpful comments and ideas on how to improve online collaboration from the students, which we tried to implement on the following day. Students indicated that they greatly appreciated that their feedback was promptly incorporated into our location’s organization. We also received a lot of very positive feedback, which was very uplifting to read when preparing the sessions for the next day.
 
 On Friday afternoon we hosted a brainstorming session of 2x60 minutes in random groups of four students each to generate project ideas. Students had to provide an idea title, short description, and responsible person for follow-up questions. This generated a total of 34 ideas. Students could then indicate their interest in working on one of these projects, with the aim of forming project groups of 3-4 students each for the project work in the following week.
 
-**Project week**
+#### Project week 
+
 We matched people into groups over the weekend between the instruction and project week and students could start working on their projects on Monday morning. We asked them to self-organize their working schedule during the project week, indicating that we expected approximately 5 hours of project work every day. The matching resulted in a total of 10 project groups. We split the supervision of the project groups between the two main lecturers such that each lecturer was responsible for supervising 5 groups. We asked groups to have daily check-ins of ~20 minutes every day. During these check-ins we met the groups in a video chat and helped them with a clearer definition of their research objectives and methods as well as methodological issues. In addition to the daily supervision check-ins, we provided programming support by teaching assistants, who offered office hours in the mornings and afternoons to help with programming questions. Projects were presented on the last day of the summer school. Every group had 10 minutes to present what they worked on plus five minutes of questions.
 
 **Guest speakers**
@@ -178,7 +186,7 @@ We invited a total of 8 guest speakers to host lectures, talks, and tutorials du
 
 When inviting our guest speakers, we tried to showcase cool research by young scholars in our field, as well as provide lectures on foundational aspects of CSS research by established researchers that complemented our lectures. We made sure that each guest lecturer had ample time for Q&A with the students and enjoyed lively discussions after the talks.
 
-**Social activities**
+#### Social activities 
 
 Next to the lectures, exercises, and project work, our student assistant Alina Kopkow organized voluntary social activities to give students the opportunity to get to know each other and the lectures in a non-work context.
 
@@ -192,15 +200,17 @@ In addition to these activities, we organized a Twitter list for all participant
 
 ### Logistics
 
-**Finances**
+#### Finances 
+
 We received a grant of 15,000€ from TU Graz to organize a “joint online course”. We used this money to hire four student assistants to help with the python programming crash course, python programming support during the summer school, and the organization of social activities. In addition, we paid honoraria of 500€ per lecture to our external speakers from these funds. Since our location was run completely online, we did not need funds for student accommodation or food. Initially, we wanted to compensate our two main organizers for their efforts as well, but this was not possible with these funds.
 
-**Communication**
+#### Communication 
 Our main communication channel during the summer school was the SICSS Slack platform. There, we created one main channel for our location, and two additional channels, one for programming support and one to collect links to useful information. In addition, we sent all important information and reminders for lectures by invited speakers over email.
 
-### Logistics
+### Lessons learned
 
-**Social aspects of online learning & interaction**
+#### Social aspects of online learning & interaction
+
 Our course was organized completely online to accommodate students from different locations. While this was very useful to attract many students from different locations it also resulted in some challenges regarding teaching and social interaction. We noticed early on in the daily student feedback that students needed many breaks to be able to follow lectures in an online setting for an extended period of time. We ended up introducing 10 minutes breaks every 30-40 minutes to help students withstand the “zoom fatigue”.
 
 We tried to offer a number of social activities around the core course activities. We noticed that participation in these activities was very low. This can probably be attributed to the fact that social activities were also purely online. Students were just exhausted after 6+ hours of online instruction every day and spending another 1-2 hours in front of a screen – even for social activities – was not very appealing to them. As for learning, since we think the social and networking aspects of the summer school are very important, we will probably integrate the social activities better into the course itself the next time we run it, at the expense of lectures and exercises.
@@ -211,15 +221,17 @@ As expected, offering the course as a free elective course in a purely online se
 
 Lastly, hands-on exercises and group projects involved a lot of programming. Providing students with programming help where needed was challenging in the online setting. Sharing screens and typing commands in a chat works to some extent, but it would be much easier to help students if lecturers could interact with them in an offline setting and help them on their laptops rather than through video chat.
 
-**JSON**
+#### JSON
+
 Many APIs return JSON as a response format. To be able to easily work with the data, it first needs to be converted to a tabular format. While we taught students about how to handle pandas data frames in the Python crash course, we did not properly teach them how to handle data in JSON format and how to convert JSON to data frames. This created a number of problems and delays when students had to work on their projects and a lot of demand for programming support during the project week. A learning from this is to provide a dedicated tutorial on how to handle data in JSON format in the future, and/or to provide dedicated functions that convert JSON to well-formatted CSV files for a number of APIs.
 
-**Group projects**
+#### Group projects
+
 One surprising observation was the homogeneity of group projects by our participants. All of them used Twitter as the main source of data. All of them applied sentiment analysis as the main or secondary method for analyzing data. Almost all of the projects were related to politics. This was despite our efforts to show during the lecture week how broad the CSS field could be and despite the fact that many other APIs were introduced. However, the Twitter API was in the focus of some of our lectures and exercises and it seems that using it was the easiest option for our participants.
 
 It could be that using the most familiar API was the only way to ensure that participants would be able to get some results given the time constraints of a project week. On the other hand, we feel that we didn’t pay enough attention to teaching participants how to choose a good research question and how to choose data sources/methods that would be the most appropriate to answer this question. Some participants mentioned that coming from a computational background they would like to learn more about social science, to learn how to choose a question, etc. Given the time constraints of a project week, we think the only solution would be to introduce a “proposal track” for projects in addition to a “practical track”. Creating a good research proposal would require work on selecting a good research question, exploring the relevant literature, thinking about the best data source and methods. However, properly done, these activities would easily consume the whole project week and that wouldn’t allow participants to try to get some data and perform preliminary analysis. We are not sure what would be the best compromise between providing a practical experience and devoting more time to general research competencies.
 
-**Final remarks**
+### Final remarks
 We have received overwhelmingly positive feedback after the school with participants emphasizing not only the quality of our content but also the special atmosphere of the school. We are not sure how to reproduce this because we don’t feel that we have done anything special and we are surprised by the positivity of feedback ourselves. However, we think that the fact that the school was run by two postdocs (not professors) might have contributed to that. This significantly reduced the distance between participants and lecturers and allowed us to openly talk about academic life, share our struggles, and critique the status quo. This openness seems to help to create a "we" feeling at the end of the school — as one participant put it in their feedback.
 
 <hr />
@@ -238,20 +250,24 @@ I organized the institute with the assistance of Cynthia Searcy, Georgia State�
 
 The section to follow concerns organizational processes and pre-arrival materials.
 
-**Funding**
+#### Funding
+
 SICSS ATL received $6,000 from the main site and over $10,000 from GSU. Money was spent in four key areas: TA stipend, meals, Prolific survey costs, and group project funding.
 
 The budget request from the main site was originally closer to 12k, but I limited it severely at their request, and I do have some personal regrets about doing so. I did not take an honorarium for organizing the institute and did end up spending nearly 2 thousand dollars of my own money on flights/daily transportation to fully engage with the institute. In the past, the organizer honorarium defrayed these expenses. It was particularly difficult for me to do this as a first-year faculty member who was new to 9-month contracts. I did so because I was worried that we wouldn’t get funding for the institute at all but was a little disappointed to hear that honorarium were still given to some sites but not others. Next year, I will request honoraria because 2 of the co-organizers are PhD students, and I would not ask them to give their time without any compensation.
 
-**Organization**
+#### Organization
+
 Cynthia and I met weekly from December through the summer institute, making sure all the logistical pieces were in place. Cynthia was enormously helpful during this process, since she had ready access to university listservs, knowledge of the campus and its vendors, and had more connections with area faculty than I did.
 
 We largely followed the procedures I previously used to organize SICSS Chicago for a number of years to good effect. We created a Gmail account for SICSS ATL communications, with the intention of being able to hand it off to any Atlanta-area institution that may wish to rotate in teaching SICSS.
 
-**Selection Process**
+#### Selection Process
+
 We opted for a high-effort application process to avoid attrition. We asked that participants give a research statement, a CV, a writing sample, and asked graduate students to provide contact information for a reference. We received 40 applications that we considered complete and plausible. We selected around 23 of these applications and with attrition had 20 participants complete the workshop (1 was no longer able to attend due to injury, 1 was not comfortable participating at the institute due to Covid-19, and 1had their partner test positive for Covid-19 during the institute and could not complete it). Participant recruitment focused on Atlanta area schools broadly construed, but participants came from Georgia State University, Georgia Tech, University of Massachusetts Boston, University of North Carolina Charlotte, the Georgia Policy Lab, University of Georgia, Yale University, University of Berkeley California, Mercer University, and Emory University. Participants were a healthy mix of professors, postdocs, and advanced graduate students.
 
-**Pre-arrival**
+#### Pre-arrival
+
 We offered the usual suite of pre-arrival materials for the institute. There was evidence that many of the participants did read Bit-by-Bit as requested, but participants generally did not make use of TA office hours or use the coding tutorials extensively before the institute. Consistent with previous years, 1-3 participants contacted the teaching assistant, Olga Churkina, for help before the institute. However, participants did use the materials provided on the SICSS website during the institute, often mentioning reviewing them the night before a new topic or using them while working on their group projects.
 
 ### Week 1
@@ -418,6 +434,8 @@ Our closing ceremony featured presentations of preliminary findings from all the
 
 We believe that our work has just begun at SICSS-Covenant. Over the coming months, we hope to support the groups to see their works through to dissemination and publication. We have also encouraged our participants to stay in touch with the SICSS community through our Slack channel, Facebook, WhatsApp group and participation in virtual group meetings.
 
+<hr />
+
 <h2 class="display-4" id="delhi">SICSS-Delhi</h2>
 
 Centre for Social and Behaviour Change (CSBC), Ashoka University, and CSIR-Central Scientific Instruments Organisation collectively hosted SICSS-Delhi (Summer Institute in Computational Social Science-Delhi) from 13th June 2022 to 17th June 2022.  For the first time, an Indian location served as one of the SICSS partner sites. We hosted the summer institute in virtual mode. Even though we were aware that doing SICSS in virtual mode has certain recognized obstacles, similar to other online learning programs, the choice was made with the COVID-19 outbreak's uncertainties in mind. Below, we have provided a few details and shared our experiences with every process involved in conducting the summer institute.
@@ -509,6 +527,8 @@ We had a very positive experience with the summer institute on the whole, despit
 
 <img src="https://ibb.co/Yy8yZqY" alt="" width="600">
 
+<hr />
+
 <h2 class="display-4" id="edinburgh">SICSS-Edinburgh</h2>
 
 We have divided this document, per guidelines, into sections relating to: 1) Outreach and application process; 2) Pre-arrival and onboarding; 3) First Week; 4) Second Week; 5) Post-Departure; 6) General Notes. 
@@ -572,6 +592,7 @@ Final meal
 <img src="https://ibb.co/qsT2F3F" alt="" width="600">
 Informatics poster event with participants 
 
+<hr />
 
 <h2 class="display-4" id="fgv-dapp-brazil">SICSS-FGV/DAPP Brazil</h2>
 
@@ -734,6 +755,7 @@ barriers in English are still huge in Brazil, so we think the students could par
 more with discussion and materials mostly in Portuguese. However, we should be more
 straightforward about that in our application requirements for future editions in Brazil.
 
+<hr />
 
 <h2 class="display-4" id="helsinki">SICSS-Helsinki</h2>
 
@@ -822,6 +844,8 @@ Overall, I consider that the core elements of the SICSS program are in place and
 Second area I feel we as SICSS should consider more is expectation management and continued program. The two-weeks serves as an intensive kickoff, but it should not be the last course participants take in computational social science – they journey must continue beyond this. We could help to identify future steps more and try to communicate this idea in the marketing more clearly.
 
 __Action point:__ I will invite SICSS Helsinki participants to my intensive courses in Network Analysis and Data Science taking place in January 2023. Sadly, we cannot offer these courses free of charge, but they are highly compensated in costs (75 euros each).
+
+<hr />
 
 <h2 class="display-4" id="hong-kong">SICSS-Hong Kong</h2>
 
@@ -931,6 +955,8 @@ Great memories. We believe that the 2022 SICSS-HK was successful particularly in
 
 <img src="https://ibb.co/5sWRtwS" alt="" width="600">
 
+<hr />
+
 <h2 class="display-4" id="hyderabad">SICSS-Hyderabad</h2>
 
 We've divided the post-mortem into five main sections: 1) Outreach and application process, 2) Pre-arrival and onboarding, 3) First week, 4) Second week, 5) Wrap-up. 
@@ -1001,6 +1027,8 @@ Being the first edition of the SICSS, we have the vision to make it better for t
 
 <img src="https://ibb.co/4jv3X0z" alt="" width="600">
 <img src="https://ibb.co/NYTmDyq" alt="" width="600">
+
+<hr />
 
 <h2 class="display-4" id="jias-ipatc">SICSS-JIAS/IPATC</h2>
 
@@ -1080,6 +1108,7 @@ Then it was time to celebrate and relax. JIAS organised a Braai and some wine at
 
 The participants are still using slack to communicate. Although convenient and cost-effective, we can’t stress enough the importance of having face to face sessions. An online-only summer school is not the best option, as digital fatigue quickly sets in and there is a risk of participants dropping out. A hybrid approach not only helps reduce costs but it also allows for a more flexible approach to summer school design. The three-week period may have been long and challenging overall, but for this beginner group, it proved fruitful. It may be possible to change the approach to one week online and two weeks face-to-face to avoid the difficulties of week two, even if it increases the cost. 
 
+<hr />
 
 <h2 class="display-4" id="jogja">SICSS-Jogja</h2>
 
@@ -1195,6 +1224,8 @@ Finally, apart from venue, infrastructure, and human resources for technical sup
 
 <img src="https://ibb.co/w06LcxM" alt="" width="600">
 
+<hr />
+
 <h2 class="display-4" id="korea">SICSS-Korea</h2>
 
 The first Korean partner site (SICSS-Korea) was co-organized by Lanu Kim, Wonjae Lee, and Jae Yeon Kim (SICSS-Princeton 2019 participant and BAY-SICSS 2020 co-organizer). The institute was held at the Korea Advanced Institute of Science and Technology (KAIST) from June 19 to June 29, 2022, and was co-hosted by the KAIST (School of Humanities and Social Sciences, Center for Digital Humanities and Computational Social Sciences, and Graduate School of Culture Technology) and the KDI School of Public Policy and Management (Applied Data Science Lab). Our goals for our site were to build a community of computational social scientists in and outside Korea and introduce participants to a wide range of computational social science work in academia, the industry, and the government. 
@@ -1246,6 +1277,8 @@ We provided moderate financial assistance to three selected teams based on the q
 ### Evaluations 
 
 Based on the exit survey, we knew that the SICSS-Korea was quite successful in multiple quantitative and qualitative measures. 12 out of 18 participants filled out the exit survey. Regarding the question on the program's quality, 75% of the participants said they are “VERY POSITIVE” in recommending the SICSS-Korea to other colleagues and friends. One participant commented that they learned from the SICSS-Korea “Many things. Each lecture and guest talk was eye-opening, and group practices and group projects taught me the practical difficulties and concerns that are difficult to learn from textbooks. I really learned a lot from informal conversations with the organizers and participants as well!” The same participant also commented that “ (1) I want to write a paper using one of the methods I learned through SICSS by learning more about it. (2) In the near future, I hope to learn more to be confident and knowledgeable enough to offer an introductory course on computational social science at my home institute.” Another participant expressed a similar enthusiasm: “I would pursue to grow to be a part of css fields and follow up-to-date fast-changing trends of computational methods.” All in all, the SICSS-Korea inspired a new generation of computational social scientists in and outside Korea and a strong network among them that could last even after the SICSS-Korea is over. We believe that our participants and their experience with the SICSS-Korea are the most valuable impact produced by the program. 
+
+<hr />
 
 <h2 class="display-4" id="lisbon">SICSS-Lisbon</h2>
 
@@ -1312,6 +1345,8 @@ Meanwhile, all participants are encouraged to attend the tutorials offered at IC
 
 We have prepared site swag for the participants have received their swag but it does not arrive on time. We instead decided to mail the swag to them. Meanwhile, we have prepared for the participation certificate signed by both organizers. In Europe, many universities may need the proof to cover the expenses. As this is the first year of on-site program, we find that having such a program at a nice location would be more useful than virtual format, because the face-to-face communication would be a key component of the program as well. In the next year, we hope we could keep promoting the SICSS in Iberia to have more participants and a growing CSS community.
 
+<hr />
+
 <h2 class="display-4" id="london">SICSS-London</h2>
 
 We’ve divided the post-mortem into 5 main sections: 1) outreach and application process; 2) pre-arrival and onboarding; 3) first week; 4) second week; 5) post-departure.
@@ -1355,6 +1390,8 @@ All five groups presented on Friday afternoon. The talks were excellent, and eve
 ### 5. Post-departure 
 
 After SICSS was over, we followed up with the students who submitted grant applications. We funded most of the projects - basically anyone who proposed something that came out of the camp itself, rather than asking for funding for the normal work they were doing before the camp. The students set up a WhatsApp group to stay in touch (tbh, the slack channel was not as active as we would have liked during the sessions, and basically went dormant after our last day together). We were swag-less, sadly. But I think the connections will outlast any mug. We will keep checking in periodically as we plan for next year (including looking for new organisers) and hopefully encourage more alumni connections if SICSS-London 2023 actually happens. 
+
+<hr />
 
 <h2 class="display-4" id="ndsu">SICSS-North Dakota State University</h2>
 
@@ -1424,6 +1461,8 @@ Here are some challenges we encountered from organizing SICSS-NDSU:
 ### 7. Group Photo 
 
 <img src="https://ibb.co/0qCt7xv" alt="" width="600">
+
+<hr />
 
 <h2 class="display-4" id="paris">SICSS-Paris</h2>
 
@@ -1511,6 +1550,8 @@ On the last day, the groups presented their ongoing work, and we gave them some 
 
 <img src="https://ibb.co/6NQgVcY" alt="" width="600">
 
+<hr />
+
 <h2 class="display-4" id="roma-tor-vergata">SICSS-Roma Tor Vergata</h2>
 
 SICSS-Roma Tor Vergata was organized by Laura Brandimarte (participant at SICSS-Lisbon 2021), Simone Borra and Gustavo Piga at the University of Rome Tor Vergata in Italy from July 18th to the 29th. Additional support and experience were provided by Alessio Huma in the early stages, and later on by Niranjan Nair (Pachu) and Vlad Simon as TAs during the sessions.
@@ -1558,6 +1599,8 @@ We dedicated the final Friday to group projects and concluding lightning talks. 
 ### 5. Concluding Remarks 
 
 Overall, we are proud to conclude that the first SICSS-Roma Tor Vergata was a success. It was a fun experience for the instructor, Laura, who is incredibly grateful to our excellent TAs for their huge help all throughout the Institute, and to her co-organizers, Simone and Gustavo, and the university for the support. Participants also indicated that they had a positive experience and that they would recommend our Institute to their friends.
+
+<hr />
 
 <h2 class="display-4" id="rutgers">SICSS-Rutgers</h2>
 
@@ -1608,6 +1651,7 @@ The 2022 event was the first time that SICSS-Rutgers was held in person on the N
 * __Have contingency plans for catering:__ While one can plan for catering an event well in advance and solicit participant information about dietary restrictions, it is always possible that something will not go right during a particular day. Think about how you will handle a situation where the catering does not arrive or does not accommodate a particular request.
 * __When possible, request funding for praticipant travel/boarding costs:__ An exciting aspect of SICSS is the opportunity for participants to meet with others outside of their subfield, discipline, or university. One way to make this possible is to provide for the travel and boarding arrangements of those coming to the institute from out of town. While there are no tuition or registration fees for SICSS by design, when possible, providing some amount of additional funding for participants can help make the event even more inclusive.
 
+<hr />
 
 <h2 class="display-4" id="singapore">SICSS-Singapore</h2>
 
@@ -1787,6 +1831,8 @@ their group projects. To that end, we will clarify in-person participation expec
 the application process and not accept participants who cannot commit to being physically
 present at the venue for the full two-week period.
 
+<hr />
+
 <h2 class="display-4" id="taiwan">SICSS-Taiwan</h2>
 
 We’ve divided the post-mortem into 4 main sections: 1) outreach and application process; 2) pre-arrival and onboarding; 3) first week; 4) second week (group projects).
@@ -1880,6 +1926,8 @@ One improvement over last year is that we had a session where organizing committ
 On Friday there were five groups presenting projects, and these groups involved 21 participants. The presentations and discussions were lively, and we think this is a great way to wrap-up the week.
 
 List of the group projects is as follow: Ivermectin Discourse in Social Media, Analysis of Web Forum on College Entrance Exams, Panel Data on Chinese Foreign Policy and Chinese Diplomats’ Tweets, Analysis on Graduate Student Theses and Dissertations in Taiwan, Analyzing the Press Release of Social Movement in Taiwan.
+
+<hr />
 
 <h2 class="display-4" id="tokyo">SICSS-Tokyo</h2>
 
@@ -1983,6 +2031,8 @@ positioning of the event for young researchers in Japan.
 * Some participants seem to struggle with using English in discussions. There is room for
 improvement to encourage non-English-native participants to participate more
 proactively in the lectures and discussions.
+
+<hr />
 
 <h2 class="display-4" id="rochester">SICSS-Rochester</h2>
 
