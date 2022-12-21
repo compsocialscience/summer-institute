@@ -128,7 +128,7 @@ We accepted with gratitude the feedback from participants who kept saying that t
 <hr />
 <h2 class="display-4" id="aachen-graz">SICSS-Aachen-Graz</h2>
 
-### Programme design
+### 1. Programme design
 
 #### Content
 
@@ -138,7 +138,7 @@ To design the program, we relied on the experiences of our two main organizers (
 
 Our SICSS location was funded by a funding programme of TU Graz, dedicated to fund online teaching activities that are collaboratively hosted by two universities - in our case RWTH Aachen and TU Graz. We, therefore, planned our programme to take place completely online. We designed the outline of our programme similar to other SICSS locations, planning for one week of lectures and hands-on exercises, followed by one week of group project work with talks by guest lecturers in the evenings to have a common event every day.
 
-### Before the summer school
+### 2. Before the summer school
 
 #### Outreach 
 
@@ -160,7 +160,7 @@ We did not require any previous (Python) programming knowledge to enroll in our 
 
 In addition to the Python crash course, we pointed students to the [online learning materials](https://sicss.io/overview) provided by SICSS and asked them to apply for academic access to the Twitter API. We provided a guide on how to apply for academic access within the scope of our summer school, which was greatly appreciated by students. A total of 33 students applied for academic access and 6 of these applications were denied for unknown reasons.
 
-### During the summer school
+### 3. During the summer school
 
 #### Instruction week 
 
@@ -198,7 +198,7 @@ At the end of the first week, we organized a hybrid treasure hunt in Graz and Aa
 
 In addition to these activities, we organized a Twitter list for all participants and lecturers of SICSS Aachen Graz to follow each other and network after the summer school. This was greatly appreciated and almost all of our participants are part of this list.
 
-### Logistics
+### 4. Logistics
 
 #### Finances 
 
@@ -207,7 +207,7 @@ We received a grant of 15,000€ from TU Graz to organize a “joint online cour
 #### Communication 
 Our main communication channel during the summer school was the SICSS Slack platform. There, we created one main channel for our location, and two additional channels, one for programming support and one to collect links to useful information. In addition, we sent all important information and reminders for lectures by invited speakers over email.
 
-### Lessons learned
+### 5. Lessons learned
 
 #### Social aspects of online learning & interaction
 
@@ -231,7 +231,7 @@ One surprising observation was the homogeneity of group projects by our particip
 
 It could be that using the most familiar API was the only way to ensure that participants would be able to get some results given the time constraints of a project week. On the other hand, we feel that we didn’t pay enough attention to teaching participants how to choose a good research question and how to choose data sources/methods that would be the most appropriate to answer this question. Some participants mentioned that coming from a computational background they would like to learn more about social science, to learn how to choose a question, etc. Given the time constraints of a project week, we think the only solution would be to introduce a “proposal track” for projects in addition to a “practical track”. Creating a good research proposal would require work on selecting a good research question, exploring the relevant literature, thinking about the best data source and methods. However, properly done, these activities would easily consume the whole project week and that wouldn’t allow participants to try to get some data and perform preliminary analysis. We are not sure what would be the best compromise between providing a practical experience and devoting more time to general research competencies.
 
-### Final remarks
+### 6. Final remarks
 We have received overwhelmingly positive feedback after the school with participants emphasizing not only the quality of our content but also the special atmosphere of the school. We are not sure how to reproduce this because we don’t feel that we have done anything special and we are surprised by the positivity of feedback ourselves. However, we think that the fact that the school was run by two postdocs (not professors) might have contributed to that. This significantly reduced the distance between participants and lecturers and allowed us to openly talk about academic life, share our struggles, and critique the status quo. This openness seems to help to create a "we" feeling at the end of the school — as one participant put it in their feedback.
 
 <hr />
@@ -240,13 +240,13 @@ We have received overwhelmingly positive feedback after the school with particip
 
 **Principle Organizer: Kat Albrecht**
 
-### Introduction
+### 1. Introduction
 
 SICSS Atlanta 2022 was held at Georgia State University in downtown Atlanta, specifically in the Andrew Young School of Policy Studies. This was a substantial undertaking since I had only arrived at GSU this academic year and did not have any connections on the campus or logistical knowledge of university policies. These barriers were overcome to have, what I consider, one of the best SICSS I’ve been part of to date (I had previously been organizing SICSS Chicago since 2018). We are also extremely proud to be, to our knowledge, one of the first partner sites to run in the Southern U.S. and were generally thrilled with the community support from our geo-co-located universities. We had participants and faculty speakers from a large number of area institutions and lots of interest in continuing SICSS ATL next year.
 
 I organized the institute with the assistance of Cynthia Searcy, Georgia State’s Associate Dean for Academic Innovation. The Dean of the Andrew Young School of Policy Studies, Sally Wallace, generously essentially excused Cynthia from other duties during SICSS so she could help me. As will become a theme in this report, the support of GSU was absolutely critical to the success of the institute.
 
-### Pre-arrival
+### 2. Pre-arrival
 
 The section to follow concerns organizational processes and pre-arrival materials.
 
@@ -270,7 +270,7 @@ We opted for a high-effort application process to avoid attrition. We asked that
 
 We offered the usual suite of pre-arrival materials for the institute. There was evidence that many of the participants did read Bit-by-Bit as requested, but participants generally did not make use of TA office hours or use the coding tutorials extensively before the institute. Consistent with previous years, 1-3 participants contacted the teaching assistant, Olga Churkina, for help before the institute. However, participants did use the materials provided on the SICSS website during the institute, often mentioning reviewing them the night before a new topic or using them while working on their group projects.
 
-### Week 1
+### 3. Week One
 
 We opened the institute with an outdoor reception at a local Atlanta eatery, where participants could optionally socialize before the first official day of the institute. Most participants attended this event, which seemed to be very positively received.
 
@@ -282,7 +282,7 @@ We had a healthy variety of local speakers with various expertise. Speakers at t
 
 We ran the institute from Tuesday-Saturday due the Juneteenth Holiday and covered the SICSS core curriculum. This was a later-stage change, and we would prefer to not run the institute on a Saturday next year, since it was more difficult for local attendees to be available. We did the full iteration of each group exercise in the afternoons, with consistent success across groups. On occasion, some groups did not finish entirely, but we were fine with this, since it was still a strong learning experience. We deviated from the SICSS main curriculum in offering a different activity for digital surveys, just as we did at SICSS Chicago. In our version of the exercise, participants generate research questions, build the surveys, collect pilot data, and analyze that data to produce visualizations. All project groups were successful in completing this ambitious exercise.
 
-### Week 2
+### 4. Week Two
 
 We used a modified version of the design sprint activity to facilitate group formation for Week 2. I opted to run the sprint on Easy Retro, a free, no-registration platform where individuals invited to the board can upload cards with their ideas. I had participants form random groups and generate project ideas for 25ish minutes. They added a description of those ideas to the Easy Retro board. I then shuffled the groups and again had them ideate for 25ish minutes. Following this, there was a 10-minute period where any individual could add an idea to the Easy Retro board. Once both sets of group ideas and any additional individual ideas were posted, participants were given 6 votes to vote for projects they were interested in. The top voted projects were then assigned tables in the room where participants could meet and discuss them and develop them further. 5 project groups emerged out of a combination of this exercise and earlier group activities and discussions from the week.
 
@@ -290,13 +290,13 @@ To close the institute, groups presented for 20-25 minutes on their work so far.
 
 Week 2 also featured some optional social events, including a hike on the weekend and a closing happy hour at a nearby restaurant. Participants, especially non-local participants, responded positively to these events.
 
-### Post-Institute
+### 5. Post-Institute
 
 After the close of the institute, we conducted the SICSS ATL local grant competition. We received 4 applications from 4 groups of SICSS ATL participants. We opted to fund two of those proposals, one studying the rhetorical and social constructions around Juneteenth as a holiday, and the other a survey experiment about school gun violence. Both projects received money to run surveys related to their goals and promised money to defray publication fees. We applied several criteria to getting the money: a timeline in which it must be spent, that the project has IRB approval, that the project be pre-registered, and that the data be made public if it is ethical to do so. Projects that were not awarded received substantial feedback and encouragement to carry on, regardless.
 
 A new feature we were happy to provide to participants this year was a SICSS 2022 LinkedIn badge that is easily updatable in the future, should any other sites/years want to use it.
 
-### Looking Ahead to SICSS ATL 2023
+### 6. Looking Ahead to SICSS ATL 2023
 
 I am already in progress with plans for SICSS ATL 2023. I am tentatively holding next year’s institute at Georgia Tech, with the help of the TA from SICSS ATL 2022, Olga Churkina, (who is dual enrolled at both GSU and Georgia Tech) and a Georgia Tech PhD student participant, Ryan Ellis, from SICSS ATL 2022. We are currently in the planning phase, building an advisory board of Georgia Tech faculty to assist in our organization efforts. I expect I will be rather involved in the daily runnings of the institute next year as well because it’s still early, but my long-term goal is to have Atlanta institutions trade off holding it with less involvement from me to maximize involvement across schools.
 
@@ -359,7 +359,7 @@ The closing of SICSS Bologna was accompanied by a farewell aperitivo. We also ma
 
 SICSS-Covenant was hosted by the Centre for Economic Policy and Development Research (CEPDeR) at Covenant University, Nigeria, from 19 to 29 June 2022. The 10-day Summer Institute in Computational Social Science (SICSS) dubbed SICSS-Covenant 2022 was the first ever SICSS to be held in Nigeria and the ECOWAS Region. It was also one of three SICSS sites in Africa in 2022. This post-mortem on SICSS Covenant 2022 is divided into five main sections: 1) outreach and application process; 2) coding bootcamp 3) pre-arrival and onboarding; 4) the summer institute; 5) closing ceremony, departure and post-departure.
 
-### Outreach and Application Process
+### 1. Outreach and Application Process
 
 We decided that our summer institute would focus primarily on the Sustainable Development Goals (SDGs), and we sought to explore how computational social science methods could contribute to better tracking of the progress towards the Sustainable Development Goals in African countries. We engaged two teaching assistants: one had prior experience with coordinating large academic events at Covenant University, while the other had a computer science background with significant coding experience. In choosing these two, we considered gender, their unique talents, and their potential to enrich the programme and effectively manage the diversities of the selected participants.
 
@@ -377,7 +377,7 @@ Three reviewers comprising one Covenant University faculty, a TA, and an organiz
 
 We then sorted applicants according to the average scores from the three reviewers. During the application review phase, we discovered many participants overestimated their proficiency in R/Python. In contrast, we realised that many of them only had some quantitative and statistical background but with very limited coding experience. We believe this issue cuts across Africa, especially because the computational social science (CSS) community in Africa is not as strong as in many other parts of the world. Based on our own evaluation of the applicants’ coding experience, we decided to follow a two-stage selection process in which applicants were first conditionally accepted and only given an unconditional offer once they had fully completed the coding bootcamp and demonstrated some proficiency in R-programming. This decision significantly reduced our pool of applicants to 29 conditionally accepted applicants who were enrolled in the coding bootcamp and 16 applicants who were offered an unconditional acceptance and ultimately attended the summer institute. Due to funding constraints and high regional flight costs, particularly from Malawi and Mozambique, three participants were invited but could not afford the flight cost to the summer institute even with partial funding.
 
-### Coding Bootcamp
+### 2. Coding Bootcamp
 
 After conditionally selecting our participants, we decided that our primary programming language would be R, given the relatively few numbers of conditionally accepted applicants who were familiar with or interested in using Python. We did not emphasise one programming language over the other during our outreach activities but think that our team’s collective area of expertise may have influenced the pool of applications we received. In the future, we hope to partner with more colleagues in Computer Science to enhance the representation and mutual benefit of both programming languages, even more so now with the integration of R and Rstudio (now Posit).
 
@@ -388,11 +388,11 @@ We received generous support from DataCamp to access over 360 interactive course
 The teaching assistants supported our conditionally accepted applicants. We also created a dedicated channel #sicss-covenant on Slack and asked the participants to reach us there if they required assistance with any aspect of the coding bootcamp. Participants did not access TA/computational help resources as often as we would have expected. We hypothesize that this may have occurred for a couple of reasons. First, the DataCamp virtual environment made learning fun, and there were hints for each exercise. Second, participants were hesitant about being the first to seek help in an open forum. In the future, we might ask participants to share the most challenging coding exercise that they managed to solve on their own and their winning solution on Slack. We think this may work well, given that participants are more willing to share their successes than failures. Also, knowing where they struggled and how they solved it may be helpful for other participants.
 We tracked the participants’ progress every week. We sent targeted emails based on whether they were on track (likely to complete the week’s exercise), stalled (yet to start the week’s exercise) or not started (not completed their registration on DataCamp). We also think the DataCamp leader board may have fostered healthy competition among our participants.
 
-### Pre-arrival and Onboarding
+### 3. Pre-arrival and Onboarding
 
 About three weeks to the start of the summer institute, we reviewed our applicants’ progress and unconditionally accepted those who have completed a significant number of courses. After the participants were unconditionally accepted, we begun to onboard them into the program. Our onboarding process included several steps, including gathering participant information and populating the people page. We shared a link to a Google form with the participants to fill out the “onboarding survey” to provide bio information for our website. We provided the participants with links to important sections of our website, including the schedule (with reading materials) and the people page (to know who is coming to SICSS-Covenant). We also included a link to the pre-arrival section of our location’s webpage and shared travel guidance to Covenant University and Nigeria (for international participants). We communicated with the participants primarily through email but also via the Slack channel. Due to the popularity of WhatsApp in our setting, our TAs also created and managed a WhatsApp group for emergency/informal updates.
 
-### Summer Institute
+### 4. Summer Institute
 
 In designing and developing the program, we relied on our collective experience as participants and a teaching assistant at SICSS-Cape Town, as well as our experience organising similar academic events. We set up goals that revolve around three blocks based on our applicants’ motivation: **training** of the next generation of computational social scientists who will be able to teach others and develop new tools; generate sound scholarly **research** evidence that leverages computational and digital tools to better understand the society and accelerate progress towards the SDG; build long-lasting academic/research **collaborations**.
 To achieve these objectives, we structured our programme to be composed of five components: a research happy hour, invited presentations, tutorials, joint programmes with other sites, and group projects.
@@ -422,7 +422,7 @@ Although the mass collaboration/experiments session and the fragile families cha
 A major part of SICSS is group research projects. Our experience from participating in previous SICSS has taught us that leaving the participants to develop CSS-focused research question, particularly among participants with limited CSS experience like ours, often leads to very ambitious projects. While it is important that participants also experience this research development phase, we decided that the most successful approach was to identify important research questions based on the topics covered during the summer institute. In line with this, we identified three important research questions that centre around different dimensions of the sustainable development goals (SDGs): good health and wellbeing (Goal 3), gender equality (Goal 5), and reduced inequalities (Goal 10).
 In choosing our final projects, we were conscious of financial constraints and only shared projects that did not require funding or fieldwork with the team. Before their assignment to groups, we asked the participants to select two CSS methods they were likely to use in their work. We then assign participants to work on the pre-defined projects based on their interests and technical strength. This way, the participants hit the ground running and were able to complete significant work in the little time available. The participants worked well together, and it was particularly exciting to see how they applied their skills to new problems.
 
-### Closing Ceremony, Departure and Post-Departure
+### 5. Closing Ceremony, Departure and Post-Departure
 
 **Closing Ceremony and Departure**
 
@@ -519,7 +519,7 @@ __14th June:__ On this day, our first session was on highlighting the impact of 
 
 __15th June:__ In the market and lemons theory framework, the third day of the summer institute was focused on gaining a deeper understanding of how stock markets operate. Several group activities were also conducted to demonstrate and educate stock market behavior.
 
-__16th June:__ The day started with a discussion on the eco chambers that could be seen on social media and a tutorial to help people comprehend the dynamic nature of opinion that results in such eco chambers. Additionally, we held two sessions with a strong emphasis on agent-based modeling and its practical application. The day's final session focused on issues when analyzing multilingual texts in languages with limited resources.
+__16th June:__ The day started with a discussion on the echo chambers that could be seen on social media and a tutorial to help people comprehend the dynamic nature of opinion that results in such eco chambers. Additionally, we held two sessions with a strong emphasis on agent-based modeling and its practical application. The day's final session focused on issues when analyzing multilingual texts in languages with limited resources.
 
 __17th June:__ On the final day, we had a hands-on tutorial in continuation of the last session of the previous day. The tutorial focused on different text analysis approaches to dealing with text written in Hindi. After this session, before starting the presentations for group projects, we created breakout sessions. We asked all the participants to prepare a presentation through discussion among their group members. They were expected to present an idea with some literature background and the suggested approach to bring the idea on board. We had some really good presentations from the participants, followed by the closing ceremony.  
 
@@ -531,7 +531,7 @@ We had a very positive experience with the summer institute on the whole, despit
 
 <h2 class="display-4" id="edinburgh">SICSS-Edinburgh</h2>
 
-We have divided this document, per guidelines, into sections relating to: 1) Outreach and application process; 2) Pre-arrival and onboarding; 3) First Week; 4) Second Week; 5) Post-Departure; 6) General Notes. 
+We have divided this document into sections relating to: 1) Outreach and application process; 2) Pre-arrival and onboarding; 3) First Week; 4) Second Week; 5) Post-Departure; 6) General Notes. 
 
 ### 1. Outreach and application process 
 
@@ -664,7 +664,7 @@ lectures due to any type of language barrier.
 
 For the first three days, we deviated very little from the main curriculum. We started with a smaller
 group discussion about CSS and expectations for our SICSS edition during the morning, and covered
-the Pantheon exercises during the afternoon. On the second day, we did the suggested scrapping
+the Pantheon exercises during the afternoon. On the second day, we did the suggested scraping
 exercise. And on the third day, we covered text analysis.
 
 There were, however, some changes in the activities on these three days. On the second day, we pushed
@@ -883,6 +883,7 @@ Action point is that we could have asked guest speakers to share their pedagogic
 | 4  | June 23      | Digital Field Experiment                | Mini conference      |
 | 5  | June 24      | Image Analysis/Computational Experiment | Making project teams |
 
+
 We began Day 1 with “meet and greet,” providing the overview of the workshop program. The Dean of the Faculty of Social Sciences at CUHK offered a great opening remark.
 
 We followed the standard SICSS modules and group exercise materials for the first four days. In “mini-conference” on Day 4, we allowed participants to introduce and present their work in 20 minutes. We had two presenters. Day 5 we encouraged and advised grouping for group projects, which we encouraged to present on the last day in Week 2. Organizers and TAs occasionally jumped into their breakout rooms to check and help the progress. 
@@ -921,6 +922,7 @@ For those staying in HK and available to socialize in person, we treated them wi
 | 8  | June 29      | Image Analysis                         | Group project      |
 | 9  | June 30      | Presentation/wrapup                    | Group project      |
 
+
 The second week we only had morning sessions, featuring guest speakers specialized in the respective area and released participants to work on their own group project. On Day 6, we had another session for “Mini-conference” for two participants to present their work.
 
 On the last day, we had a total of five groups presenting. 
@@ -932,6 +934,7 @@ On the last day, we had a total of five groups presenting.
 | Han Li, Wenyu Li, Hakimeh Nasiri, Huanyu Bao, Jessica Li   | mental health and social resilience during COVID-19        |
 | Xiaoqian Yue, Qing Lan, Shengbin Wei   |  Personnel flows in officialdom in China, 1880-1905   |
 | Tianwen Du, Guo Cheng, Xiaotong Li   | Knowledge sharing and online consultations: Evidence from online health communities   |
+
 
 The quality of presentation was, in fact, very good. All groups have come up with well-documented, well-thought, and executable plans for their projects.
 
