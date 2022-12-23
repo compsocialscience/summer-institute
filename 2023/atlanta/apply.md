@@ -15,11 +15,19 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 ## How To Apply
 
-Applicants must submit the following documents: \_\_\_\_\_
+Applicants must submit the following documents:
 
-**In order to be guaranteed full consideration, all application materials must be submitted by \_\_\_\_\_.** All application materials must be submitted through \_\_\_\_\_. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by \_\_\_\_\_, and will ask participants to confirm their participation very soon thereafter.
+1) A statement explaining your research area(s) and interest in attending SICSS-Atlanta (Max 500 words)
 
-Inquiries can be sent to \_\_\_\_\_.
+2) Your most recent CV
+
+3) A publication or writing sample that best represents your research
+
+4) Graduate students must also submit the contact information of one academic or industry reference (this requirement is optional for postdoctoral scholars, faculty, and industry professionals). Please include the contact’s name, title, institution, and email address.
+
+**In order to be guaranteed full consideration, all application materials must be submitted by March 30, 2023.** All application materials must be submitted through \_\_\_\_\_. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants by mid-April if they’ve been selected to participate. All invitees will have to confirm their participation very soon thereafter.
+
+Inquiries can be sent to <sicss.atlanta@gmail.com>.
 
 ## Application Frequently Asked Questions
 
