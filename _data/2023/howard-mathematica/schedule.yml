@@ -147,5 +147,85 @@
     - name: "3:45 - 4:00 Break"
     - name: "4:00 - 5:00"
     - name: "5:00 - 5:15 Logistics (*Zoom*) (video)"
- 
+
+
+- date: TBA
+  name: "Day 4: Surveys in the Digital Age"
+  events:
+    - name: "[Day 4: Pre-arrival Videos & Corresponding Slides](https://sicss.io/curriculum) [(Takeaway Sheet)](https://docs.google.com/document/d/13VMEezGWPVXdsS2QPZrBlZ6dVKeg8C7fCPV7qEc1RWY/edit?ts=60c51e86)"
+    - name: "Participant Zoom Links"
+    - name: "9:00 - 10:00 R, STATA, and Python Office Hours with Mathematica TAs (as needed) (*Zoom*)"
+    - name: "10:00 - 10:15 Logistics (*Zoom*) (video)"
+    - name: "10:15 - 10:30 Introduction to the Group Exercise Lesson Plan (participants) Lesson Plan (instructors) (*Zoom*) (video)"
+    - name: "10:30 - 11:30 Morning Group Exercise (*Zoom*) OR Content-Specific Office Hours with Mathematica TAs (as needed) (*Zoom*)"
+    - name: "11:30 - 12:00 Break"
+    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk #3: TBA (slides) (*Zoom*) (video) (LIVE Q&A) OR R, STATA, and Python Office Hours with Mathematica TAs (as needed) (*Zoom*)
+        
+        - TBA"
+        
+    - name: "1:00 - 1:15 Break"
+    - name: "1:15 - 3:00 Afternoon Group Exercise (*Zoom*) OR Content-Specific Office Hours with Mathematica TAs (as needed) (*Zoom*)"
+    - name: "3:00 - 3:15 Break"
+    - name: "3:15 - 3:45 Group Exercise Debrief and Logistics (*Zoom*) (video)"
+
+
+- date: TBA
+  name: "Day 5: Mass Collaboration and Machine Learning"
+  events:
+    - name: "[Day 5: Pre-arrival Videos & Corresponding Slides](https://sicss.io/curriculum) [(Takeaway Sheet)](https://docs.google.com/document/d/13aojCBDBCIpMhaNzlBcRCc1WPkVpaBx61Obx5qnbWQA/edit?usp=sharing)"
+    - name: "Participant Zoom Links"
+    - name: "9:00 - 10:00 R, STATA, and Python Office Hours with Mathematica TAs (as needed) (*Zoom*)"
+    - name: "10:00 - 10:15 Logistics (*Zoom*) (video)"
+    - name: "10:15 - 10:30 Introduction to the Group Exercise (*Zoom*) [(video)](https://youtu.be/yBSUz1CxXh8)"
+    - name: "10:30 - 11:30 Group Exercise Continuation: SICSS-H/M Mass Collaboration Activity Lesson Plan (participants) Lesson Plan (instructors) (*Zoom*) OR Content-Specific Office Hours with Mathematica TAs (as needed) (*Zoom*)"
+    - name: "11:30 - 12:00 Break"
+    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk #4: TBA (slides) (*Zoom*) (video) (LIVE Q&A) OR R, STATA, and Python Office Hours with Mathematica TAs (as needed) (*Zoom*)
+        
+        - TBA"
+   
+    - name: "1:00 - 1:15 Break"
+    - name: "1:15 - 3:00 Group Exercise Continuation: SICSS-H/M Mass Collaboration Activity (*Zoom*) (video) OR Content-Specific Office Hours with Mathematica TAs (as needed) (*Zoom*)"
+    - name: "3:00 - 3:15 Break"
+    - name: "3:15 - 3:45 Group Exercise Debrief and Logistics (*Zoom*) (video)"
+    - name: "3:45 - 5:30 Celebration with DJ ROC (*Zoom*)"
+
+
+- date: TBA
+  name: Day Off
   
+  
+- date: TBA
+  name: Day Off
+
+
+- date: TBA
+  name: "Day 6: Work on Group Projects"
+  events:
+    - name: "Mathematica TAs are Available via Email/Zoom for Consultation Starting on Tuesday"
+    - name: "Participant Zoom Links"
+    - name: "9:30 - 10:00 Logistics (*Zoom*) (video)"
+    - name: '10:00 - 11:30 SICSS-Africa + African Descendants Panel: TBA (Poster) (LIVE Q&A)
+      
+        **Speakers**
+          - TBA (slides) (video)
+          
+        **Moderator**
+          - TBA'
+        
+    - name: "11:30 - 11:45 Break"
+    - name: "11:45 - 12:00 Logistics and Research Speed Dating Logistics (*Zoom*) (video)"
+    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk #5: TBA (slides) (*Zoom*) (video) (LIVE Q&A)
+        
+        - TBA"
+    
+    - name: "1:00 - 1:15 Introduction to Speed Dating (*Zoom*)"
+    - name: "1:15 - 2:25 Speed Dating Exercise (*Zoom*)"
+    - name: "2:25 - 2:40 Break"
+    - name: "2:40 - 3:30 Family Free For All"
+    - name: "3:30 - 4:00 Group Debrief (Join Research Teams) (*Zoom*) (video)"
+    - name: '4:00 - 5:30 Featured Presentation #1: TBA (video) - LIVE Session to Include Q&A and Office Hours (slides) (*Zoom*) (LIVE Q&A)
+        
+        - TBA'
+    
+  
+
