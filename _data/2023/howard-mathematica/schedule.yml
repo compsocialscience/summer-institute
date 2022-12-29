@@ -227,6 +227,87 @@
     - name: '4:00 - 5:30 Featured Presentation #1: TBA (video) - LIVE Session to Include Q&A and Office Hours (slides) (*Zoom*) (LIVE Q&A)
         
         - TBA'
-    
-  
 
+
+- date: TBA
+  name: "Day 7: Work on Group Projects"
+  events:
+    - name: "Mathematica TAs are Available via Email/Zoom for Consultation (please see SCHEDULE)"
+    - name: "Participant Zoom Links"
+    - name: "9:30 - 10:00 Logistics (*Zoom*) (video)"
+    - name: "10:00 - 12:00 Work on Group Projects (*Zoom*)"
+    - name: '12:00 - 1:00 New Frontiers in Research and Technology: TBA Panel (LIVE Q&A)
+     
+        **Speakers**
+          - TBA (slides) (video)
+          
+        **Moderator**
+          - TBA'
+        
+    - name: "1:00 - 4:00 Work on Group Projects (*Zoom*)"
+    - name: '4:00 - 5:30 Featured Presentation #2: TBA (video) - LIVE Session to Include Q&A and Office Hours (slides) (*Zoom*) (LIVE Q&A)
+    
+        - TBA'
+
+- date: TBA
+  name: "Day 8: Work on Group Projects"
+  events:
+    - name: "Mathematica TAs are Available via Email/Zoom for Consultation (please see SCHEDULE)"
+    - name: "Participant Zoom Links"
+    - name: "9:30 - 10:00 Logistics (*Zoom*) (video)"
+    - name: "10:00 - 12:00 Work on Group Projects (*Zoom*)"
+    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk #6: TBA (*Zoom*) (video) (LIVE Q&A)
+    
+        - TBA"  
+        
+    - name: "1:00 - 4:00 Work on Group Projects (*Zoom*)"
+    - name: '4:00 - 5:30 Featured Presentation #3: TBA (video) - LIVE Session to Include Q&A and Office Hours (slides) (*Zoom*) (LIVE Q&A)
+    
+        - TBA'
+
+- date: TBA
+  name: "Day 9: Work on Group Projects"
+  events:
+    - name: "Mathematica TAs are Available via Email/Zoom for Consultation (please see SCHEDULE)"
+    - name: "Participant Zoom Links"
+    - name: "9:30 - 10:00 Logistics (*Zoom*) (video)"
+    - name: "10:00 - 11:30 Mathematica Roundtable (*Zoom*) (LIVE Q&A)
+    
+        **Speakers**
+          - TBA (video)
+          - TBA (video)
+          
+        **Moderator**
+          - TBA"
+        
+    - name: "11:30 - 12:00 Work on Group Projects (*Zoom*)"
+    - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk #7: TBA (*Zoom*) (video) (LIVE Q&A)
+    
+        - TBA"  
+        
+    - name: "1:00 - 4:00 Work on Group Projects (*Zoom*)"
+    - name: '4:00 - 5:30 Featured Presentation #4: TBA (video) - LIVE Session to Include Q&A and Office Hours (slides) (*Zoom*) (LIVE Q&A)
+    
+        - TBA'
+
+
+- date: TBA
+  name: "Day 10: Present Group Projects"
+  events:
+    - name: "Mathematica TAs are Available via Email/Zoom for Consultation (please see SCHEDULE)"
+    - name: "Participant Zoom Links"
+    - name: "9:30 - 10:00 Logistics (*Zoom*) (video)"
+    - name: "10:00 - 11:30 SICSS-Howard/Mathematica 2023 Keynote Address (*Zoom*) (video)
+    
+        - TBA"
+    
+    - name: "11:30 - 12:00 Break"
+    - name: "12:00 - 1:00 Work on Group Projects (*Zoom*)"
+    - name: "1:00 - 1:20 Overview of Group and Individual Project Presentations (*Zoom*) (video)"
+    - name: "1:20 - 4:00 Group and Individual Project Presentations (*Zoom*)"
+    - name: "4:00 - 5:00 Closing Plenary and Q&A, Mathematica (*Zoom*) (video)
+    
+        - TBA"
+        
+    - name: "5:00 - 5:15 Break"
+    - name: "5:15 - 5:45 SICSS-Howard/Mathematica Final Debrief and Conclusion (*Zoom*)"
