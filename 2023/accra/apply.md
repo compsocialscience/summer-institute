@@ -24,7 +24,7 @@ Applications will be evaluated based on:
 Applicants must submit the following documents:
 
 -	A curriculum vitae (max 4pages).
--	A motivation letter (max two pages) describing why do you wish to attend SICSS-Covenant, your current research interests, future plans and how these intersect with the goals of this partner location.
+-	A motivation letter (max two pages) describing why do you wish to attend SICSS-Accra, your current research interests, future plans and how these intersect with the goals of this partner location.
 -	A supporting letter from a supervisor/head of department/line manager/mentor that can attest to applicant's competence/potential and availability.
 
 
