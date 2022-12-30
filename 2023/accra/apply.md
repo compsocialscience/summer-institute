@@ -41,3 +41,7 @@ Yes, but not at the same time. For example, you can apply to SICSS-Accra, and th
 #### Can I participate in SICSS-Accra if I have already participated in SICSS at another location?
 
 No. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
+
+#### I have limited coding experience. Should I still apply?
+
+Yes, provided that you can demonstrate that you would have become proficient with coding before the Institute. Participants do not have to be proficient with coding during application but must become familiar with coding before attending the summer institute in June.
