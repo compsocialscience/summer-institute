@@ -28,7 +28,7 @@ Applicants must submit the following documents:
 -	A supporting letter from a supervisor/head of department/line manager/mentor that can attest to applicant's competence/potential and availability.
 
 
-**In order to be guaranteed full consideration, all application materials must be submitted by 17 March 2023.** All application materials must be submitted through \_\_\_\_\_. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by **10 April 2023**, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by 17 March 2023.** All application materials must be submitted online via [https://forms.gle/QUVcagQyFHucGoMD6](https://forms.gle/QUVcagQyFHucGoMD6). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by **10 April 2023**, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to \_\_\_\_\_.
 
