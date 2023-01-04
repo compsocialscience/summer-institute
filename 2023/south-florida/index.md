@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: south-florida
 main: true
-image: /assets/images/south-florida.jpg
+image: /assets/images/FAU_Jupiter.jpg
 ---
 
 From June 19 to June 30, 2023, the National Science Foundation and Wilkes Honors College will sponsor the Summer Institute in Computational Social Science, to be held at the MacArthur Campus of Florida Atlantic University in the seaside community of Jupiter. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
