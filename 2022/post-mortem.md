@@ -16,6 +16,7 @@ This page includes post-mortem reports from all locations in order to facilitate
 
 Skip to: 
 
+- [Overview](#overview)
 - [SICSS-AMU/Law](#amu-law)
 - [SICSS-Aachen-Graz](#aachen-graz)
 - [SICSS-Atlanta](#atlanta)
@@ -48,7 +49,7 @@ Skip to:
 - [SICSS-University of Rochester](#rochester)
 - [SICSS-West/Central Africa](#west-central-africa)
 
-## Overview 
+<h2 class="display-4" id="overview">Overview</h2>
 
 We pull out a few high-level points of commonality and difference between 2022 site-specific post-mortems. This is a selection of highlights, not a detailed document of procedures. The sites referenced in parentheses are only a sample of the sites that may have experienced/done something, as opposed to a full inventory – these parenthetical references to sites are intended to direct towards the site-specific post-mortem documents to read more. 
 
