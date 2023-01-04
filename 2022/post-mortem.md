@@ -12,7 +12,7 @@ We’ve just completed the 2022 [Summer Institutes in Computational Social Scien
 
 These post-mortems describe, for each site, a) how the Institute was run, b) what each site think worked well, and c) what each site will do differently next time. We hope that this will be useful to others organizing similar Summer Institutes or future organizers of SICSS sites. If you are interested in hosting a partner location of SICSS 2023 at your university, company, NGO, or governmental organization, please read our information for [potential partner locations](https://compsocialscience.github.io/summer-institute/host).
 
-This document includes post-mortem reports from all locations in order to facilitate comparisons, as well as an overview of key themes and takeaways. As you will see, different sites did things differently, and we think that this kind of customization was an important part of how we were successful.
+This page includes post-mortem reports from all locations in order to facilitate comparisons, as well as an overview of key themes and takeaways. As you will see, different sites did things differently, and we think that this kind of customization was an important part of how we were successful.
 
 Skip to: 
 
