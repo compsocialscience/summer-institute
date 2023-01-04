@@ -10,6 +10,12 @@ layout: about
 
 We’ve just completed the 2022 [Summer Institutes in Computational Social Science](https://sicss.io/). The purpose of the Summer Institutes is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institutes are for both social scientists (broadly conceived) and data scientists (broadly conceived). This summer we had a mixture of in-person institutes and virtual institutes across the world. In addition to [SICSS-Duke](#duke), which was organized by Chris Bail, there were 31 partner locations run by SICSS alumni.
 
+These post-mortems describe, for each site, a) how the Institute was run, b) what each site think worked well, and c) what each site will do differently next time. We hope that this will be useful to others organizing similar Summer Institutes or future organizers of SICSS sites. If you are interested in hosting a partner location of SICSS 2023 at your university, company, NGO, or governmental organization, please read our information for [potential partner locations](https://compsocialscience.github.io/summer-institute/host).
+
+This document includes post-mortem reports from all locations in order to facilitate comparisons, as well as an overview of key themes and takeaways. As you will see, different sites did things differently, and we think that this kind of customization was an important part of how we were successful.
+
+Skip to: 
+
 - [SICSS-AMU/Law](#amu-law)
 - [SICSS-Aachen-Graz](#aachen-graz)
 - [SICSS-Atlanta](#atlanta)
@@ -42,9 +48,85 @@ We’ve just completed the 2022 [Summer Institutes in Computational Social Scien
 - [SICSS-University of Rochester](#rochester)
 - [SICSS-West/Central Africa](#west-central-africa)
 
-The purpose of this document is to describe a) what we did, b) what we think worked well, and c) what we will do differently next time. We hope that this will be useful to other people organizing similar Summer Institutes. If you are interested in hosting a partner location of SICSS 2023 at your university, company, NGO, or governmental organization, please read our information for [potential partner locations](https://compsocialscience.github.io/summer-institute/host).
+## Overview 
 
-This document includes post-mortem reports from all of our locations in order to facilitate comparisons. As you will see, different sites did things differently, and we think that this kind of customization was an important part of how we were successful.
+We pull out a few high-level points of commonality and difference between 2022 site-specific post-mortems. This is a selection of highlights, not a detailed document of procedures. The sites referenced in parentheses are only a sample of the sites that may have experienced/done something, as opposed to a full inventory – these parenthetical references to sites are intended to direct towards the site-specific post-mortem documents to read more. 
+
+### Application & Outreach 
+
+* __Should the application request letter(s) of recommendation?__ Sites seemed to think intentionally about whether to have a high-effort or low-effort application. Specifically, many sites considered whether to request letters of recommendation. 
+    * Many sites (Aachen-Graz, Delhi, London, NDSU, Paris, among others) ultimately decided not to. Aachen-Graz sums up the reasoning behind this well: “ We believe that recommendation letters impose a disproportionate burden on students while there is little evidence of their usefulness.” Another reason for not requiring letters of recommendation was that they place a burden on the field (i.e. faculty who applicants request letters from). They may also discourage applications, which is important especially for sites that struggled with outreach and getting enough applications. 
+    * Some sites chose to, such as Covenant. They found it helpful at limiting the number of applications they had to screen and, overall, attribute part of the success of the program to the rigorous application process. (Similarly, although Atlanta did not request letters of recommendation, they did ask for contact information for a reference and attribute program success partly to rigorous application). 
+    * Edinburgh took a mid-way point and only required letters of recommendation for scholarships. 
+* __Who to admit?__ Sites established different eligibility criteria and priorities for admission. Particularly, some sites decided to limit the pool to graduate students, whereas others admitted faculty also (for example, NDSU) or people working in industry (Delhi). 
+    * __Undergrads:__ Roma Tor Vergata accepted undergraduates as well as grad students, and broadly gave a preference to applicants early in career and with little or no coding skills. They found that combining undergrads and grad students worked well overall, but note that undergrads appreciated lectures more and grad students appreciated the group projects more. Jogja did not accept undergrads in 2022 but noted that there were many undergrad applications – they recommend that sites consider expanding to this population in the future. One possible adaptation could be to request letters of recommendation for undergrads in order to ensure that they will be able to keep up with the content. 
+    * __Priorities:__ Sites personalized the admissions priorities: for example, Aachen-graz prioritized students as opposed to those who had already graduated, and both London and Paris prioritized students who were fairly local (for Paris, this meant within reach of train/bus, with an exception made for Africa). Aachen-Graz guaranteed spots for students at local universities if they met the eligibility criteria. 
+* __Was the content and level of the prep work sufficiently targeted for the Institute content?__ Some sites didn’t think so, although this could also be an issue with engagement. 
+    * The SICSS Helsinki organizers thought that this could be because participants didn’t know what they were supposed to be getting out of the boot camp, and will work in the future to more clearly articulate what type of tasks participants should be prepared for. 
+    * The SICSS Hong Kong organizers noted that the skills gained in the boot camp were not linked up to the contents of the workshop, and that next year they will ask guest speakers to share pedagogical contents or useful readings that they will integrate into the standard boot camp materials. 
+    * Because Roma Tor Vergata targeted their program entirely to people with little or no coding experience, they held the entire first week as an R Boot Camp. They noted that next year they will prepare some more advanced exercises to complement this bootcamp. 
+* __How to account for varying levels of technical proficiency within the Institute?__ Sites came up with different strategies for this challenge. Korea placed participants into groups with varying abilities and made sure that the least-skilled programmer was still playing a key team role. Bologna had two program tracks: basic coding and advanced. This worked well but they regretted having simultaneous classes – some of the basic content was also useful for the advanced track and vice versa. 
+* Other notes:
+    * Aachen-graz didn’t specifically teach folks in the bootcamp how to work with JSON files as part of calling APIs and found that this caused delays. 
+    
+### First Week
+
+* Sites reported that guest lectures overall went very well, even when the guest lectures were entirely on Zoom. Participants appreciated having abundant time left for Q&A. London found that it was very effective to offer small honoraria in exchange for the lectures. 
+* Most sites used the main location (this year, SICSS-Duke) schedule as a starting point, but personalized lectures according to individual organizer, participant, or regional interests. A few examples are:
+    * Delhi included lectures on stock markets and how they operated; the role of AI in public health; causality from computer science perspectives; and agent-based modeling. 
+    * Edinburgh had very successful “alternative research talks,” one which focused on generative music in Python 
+    * Brazil pushed students to focus on other web scraping tasks besides Twitter data, updated the experiments module to focus on Facebook Ads as a way to recruit survey participants, and focused on discussing Transformers in the NLP module. 
+    * Hong Kong included content on image and audio analysis. 
+    * JIAS/IPATC broadly themed their site around African narratives, such as in lectures on Decolonizing Artificial Intelligence and the ethics and responsibility of African researchers. 
+    * Singapore brought in speakers that applied computational social science to local and broadly Asian/Southeast Asian problems.  
+    * Covenant focused the site broadly on Sustainable Development Goals (SDGs) in Africa. 
+* Other notes:
+    * Taiwan experienced participant attrition the first week because participants did not expect the program to be so intensive. 
+
+### Second Week 
+
+* Organizers almost unanimously reported that the __second week, focused on group projects, went well.__ A few highlights: AMU/Law noted promising research projects that could lead to publication; at Rochester, groups produced drafts of papers. Hong Kong notes “all groups have come up with well-documented, well-thought, and executable plans for their projects.” 
+* How much space to leave for group projects versus continuing lecture-based programming? 
+    * FGV/DAPP Brazil took an approach of really emphasizing and leaving time for the research projects in the second week, as opposed to continuing other programming. They found this worked quite well and they had less attrition than last year. Similarly, the organizers of SICSS-Paris found that they had too much planned and received a request to do less lectures the second week. 
+    * On the other hand, London chose to continue programming in the second week in two avenues: (1) blitz talks from alumni, which went particularly well, and (2) talks requested by students after the first week. 
+* __Content area of topics.__ Many sites reported that participants’ projects had a wide diversity of topic areas. On the other hand, Aachen-graz experienced homogeneity of project topics – all used Twitter and were around politics. The organizers think this may be because of lack of ideas and pressure to produce something quickly, and thus suggest having both a “proposal track” and a “practical track.” 
+* Other notes:
+    * Sites suggested discussing explicit norms and guidelines (e.g. around potential opportunities for authorship) for if a group will adopt a project or body of work already begun by one of the participants (e.g. as part of their dissertation).
+
+### Other Program Facets
+
+* __Social activities__, lessons learned: Multiple sites expressed challenges hosting social activities on Zoom during a virtual Institute due to Zoom fatigue (Aachen-Graz). Other sites noted that social activities had to be scaled back or cancelled due to participants needing more down time during the workshop. Overall, though, almost every site had at least one well-attended social event. Covenant held a series of “Research Happy Hours” (students, in small groups, read papers and discuss, led by one designated leader) that were successful. 
+* __Post-program.__ Edinburgh planned a three-month check-in for people still working on their projects launched during SICSS and general research updates. Although many participant groups continue to work together, not many sites reported continued formal group engagement after the Institute. 
+* __Language.__ In countries where English is not spoken locally, sites had to make decisions about whether to host the Institute in full or in part in English. 
+    * Brazil opted to conduct the workshop mostly in Portuguese, though still had some lectures and trainings in English. They were concerned about English language fluency for these modules but found that this split ultimately worked out well (though they regretted not being more clear about this split in their application requirements). They believed that conducting the institute mostly in Portuguese allowed it to be more widely accessible. 
+    * Paris held the event in English, though they are aware there is an audience for a French-speaking SICSS because of a big French-speaking CSS community. 
+    * Tokyo posted application materials in both Japanese and English to expand outreach. 
+* __Collaboration with other sites.__ Some sites collaborated with other SICSS sites. For example, Covenant, Howard, and JIAS/IPATC linked to create a network of Africans and African Descendents in Computational Social Science; Jogja, Sydney, Taiwan, Korea, and Singapore co-hosted a SICSS Asia Pacific Panel Session. 
+* __Reflections on hosting online vs. Zoom.__ Sites that decided to host an entirely virtual institute reported challenges with Zoom fatigue (Aachen-Graz, Helsinki), collaborative coding (Taiwan), and power issues due to load shedding (JIAS/IPATC). To account for this, organizers tried to limit the amount of time on Zoom – either by hosting a one-week institute (Delhi) or by conducting the institute half in person and half in the classroom (Bologna). While not ideal for interaction, hosting a virtual institute allows a much wider audience to participate (Brazil found this important given the size of the country). Many sites that were held entirely in-person elected to have no video content (all in-person lectures), such as Atlanta, Hyderabad, and Korea; other sites had video lectures and found it worked well. 
+    * The SICSS-Rutgers post-mortem contains a helpful list of considerations for sites that have previously hosted virtual events and are thinking about pivoting to in-person. 
+    * Hong Kong used Gathertown for research speed dating (and Helsinki did last year). This worked overall well although participant interaction is out of the control of the organizers.
+
+### Miscellaneous Other Challenges 
+
+* __Visas.__ Programs recommend thinking about visa requirements in application criteria – for example, Paris admitted two students who did not get visas in time. 
+* __Time zones.__ AMU/Law recommended considering time zones when admitting students. Multiple sites reported challenges scheduling speakers given time differences (Jogja). 
+* Sites struggled with __financial constraints__, including having participant size limited due to not being able to offer money for accommodations (Jogja, Rochester). Organizers in Atlanta noted frustrations with spending personal resources and not paying PhD student organizers. 
+* Multiple sites had __Covid outbreaks__ – though these do not seem to have been too disruptive or expansive (Edinburgh, Paris). 
+* NDSU was not able to __find a TA__ due to the limited computational social science community in North Dakota.
+
+### Miscellaneous Other Successes 
+
+* Multiple sites found it helpful to regularly __receive participant feedback__ on programming and incorporate it immediately (such as through Keep, Start, Stop surveys). AMU/Law reported that daily Google form surveys helped organizers to quickly adapt, which was appreciated by students (Aachen-Graz). 
+* __Organizers:__ Aachen-Graz reported an openness and solidarity between organizers (who were post-docs) and students, which created a strong community. London really appreciated having multiple organizers with different skill sets. 
+* __Institutional support:__ Atlanta noted that the support of Georgia State University was essential for the Institute’s success – for example, in providing support from the Associate Dean for Academic Innovation (in utilizing pre-existing university list-servs and systems, securing a nice room, having university admin come to presentations, etc.).
+
+### Broad Highlights 
+
+* The Institute was hosted in multiple countries for the first time: Indonesia, Korea, Poland, etc.
+* SICSS-Jogja was covered in three media outlets! SICSS-Jogja also co-hosted a public webinar with Universitas Islam Indonesia that had over 400 attendees. 
+* Atlanta launched a successful SICSS Linkedin badge.
+* SICSS-Paris was approached by the editor of a European Social Sciences Journal who is interested in publishing a special issue on CSS, possibly with papers produced by different groups of the institute. SICSS-Paris organizers are encouraging groups to submit abstracts and found that this had a good effect on overall motivation. 
+* Covenant writes: “Ultimately, we were very happy with our cohort. It was particularly heart-warming for us to see the seriousness with which the participants engaged with all aspects of the programme, including the research happy hour, invited presentations, tutorials and group projects.”
 
 <h2 class="display-4" id="amu-law">SICSS-AMU/Law</h2>
 
