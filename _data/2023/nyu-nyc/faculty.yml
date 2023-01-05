@@ -1,1 +1,14 @@
-- name: 
+- name: Marya Gwadz
+  image: /assets/images/marya_gwadz.jpg
+  bio: "Marya Gwadz is Associate Dean for Research, Professor, Director of the Intervention Innovations Team Lab (IIT-Lab), and Interim Director of the C+M Silver Center at NYU Silver. She also serves as an Associate Director in the Transdisciplinary Research Methods Core in the NIDA-funded Center for Drug Use and HIV Research (CDUHR) at NYU School of Global Public Health. The main focus of Dr. Gwadz's research is the development and evaluation of potent, innovative, and culturally salient social/behavioral interventions to address racial/ethnic, socioeconomic, and gender inequity in health. Dr. Gwadz is an expert on the multiphase optimization strategy (MOST), a framework for developing efficient and cost-effective interventions with no inactive, poorly performing, or counter-productive elements. She is also an expert on adaptive trial designs, including sequential multiple assignment randomized trials (SMART)."
+  website: https://socialwork.nyu.edu/faculty-and-research/our-faculty/marya-gwadz.html/
+      
+- name: Amanda Ritchie
+  image: /assets/images/amanda_ritchie.jpg
+  bio: "Amanda Ritchie is a Director of Operations of the NYU Silver School of Social Work’s Constance and Martin Silver Center on Data Science and Social Equity (C+M Silver Center). In this role, Amanda provides strategic operational oversight to the C+M Silver Center that supports NYU Silver scholars conducting work in data science for social equity impact and in studies harnessing big data."
+  website: https://socialwork.nyu.edu/faculty-and-research/centers-and-institutes/c-m-silver-center.html/
+      
+- name: Gahwan Yoo 
+  image: /assets/images/sicss22_yoo_gahwan.jpg
+  bio: "Gahwan Yoo is a PhD student in the Silver School of Social Work at New York University. Her interests include mental health in immigrant/refugee communities, minority mental health, mental health disparities, and advocacy. She is also interested in using text as data and electronic health records in social work research, with a focus on mental health and mental health services."
+  website: https://gahwan.com/
