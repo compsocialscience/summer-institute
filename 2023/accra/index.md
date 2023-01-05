@@ -2,10 +2,10 @@
 layout: location_detail
 partner_site: accra
 main: true
-image: /assets/images/accra.jpg
+image: /assets/images/sicss_accra.jpeg
 ---
 
-From August 20 to September 2, 2023, the National Science Foundation and \_\_\_ will sponsor the Summer Institute in Computational Social Science, to be held at the Regional Institute for Population Studies at the University of Ghana. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
+The National Science Foundation will sponsor the Summer Institute in Computational Social Science, to be held at the Regional Institute for Population Studies at the University of Ghana, from August 20 to September 2, 2023. The Summer Institute will bring together postgraduate students, early-career academics and researchers. The Summer Institute is for computationally minded social scientists and data scientists (broadly conceived).
 
 This partner site is led by <a href="https://e.olamijuwon.com/" target="_blank">Emmanuel Olamijuwon</a>, Fidelia Dake and Lateef Amusa. SICSS-Accra is unique among partner locations in its focus on sustainable development goals. Throughout the duration of the Institute, we will explore how computational methods applied to digital data or traditional data sources can help us to better measure the progress of  African countries towards sustainable development goals. 
 
