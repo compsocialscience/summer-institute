@@ -1,10 +1,10 @@
-- name: Vision
+- name: SICSS-NYU Silver Vision
   url: "vision"
 - name: Apply
   url: "apply"
-- name: Pre-arrival
-  url: "pre_arrival"
 - name: People
   url: "people"
+- name: Pre-arrival
+  url: "pre_arrival"
 - name: Schedule & Materials
   url: "schedule"
