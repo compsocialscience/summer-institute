@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: template
 main: true
-image: /assets/images/calabar.jpg
+image: /assets/images/CALABAR2.jpg
 ---
 
 From June 26 to July 7, 2023, the National Science Foundation  will sponsor the Summer Institute in Computational Social Science, to be held at the University of Calabar. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
