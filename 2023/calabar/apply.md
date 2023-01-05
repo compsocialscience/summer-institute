@@ -19,7 +19,7 @@ Applicants must submit the following documents: \_\_\_\_\_
 
 **In order to be guaranteed full consideration, all application materials must be submitted by \_\_\_\_\_.** All application materials must be submitted through \_\_\_\_\_. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by \_\_\_\_\_, and will ask participants to confirm their participation very soon thereafter.
 
-Inquiries can be sent to \_\_\_\_\_.
+Inquiries can be sent to sicsscalabar@gmail.com
 
 ## Application Frequently Asked Questions
 
