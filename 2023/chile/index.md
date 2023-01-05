@@ -11,4 +11,4 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is restricted to graduate students (master and doctoral programs), postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. In exceptional situations, we may accept applications from undergraduate students who are concluding their degree and intend to pursue a postgraduate program in a related field.  We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 20 participants will be invited, and participants are expected to fully attend and participate in the entire two-week program.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2023/template/apply) are due \_\_\_\_\_.
+[Application materials](https://sicss.io/2023/chile/apply) are due April 28, 2023 at 23:59 CLT.
