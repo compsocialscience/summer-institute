@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: nyu-silver
 main: true
-image: /assets/images/nyu.jpg
+image: /assets/images/nyu_silver.jpg
 ---
 
 From June 20 to June 30, 2023, [the Constance and Martin Silver Center on Data Science and Social Equity](https://socialwork.nyu.edu/faculty-and-research/centers-and-institutes/c-m-silver-center.html) (C+M Silver Center) at [the New York University Silver School of Social Work](https://socialwork.nyu.edu/) will sponsor and host the Summer Institute in Computational Social Science, in partnership with New York University Silver School of Social Work. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science, with a focus on social equity and social good. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
