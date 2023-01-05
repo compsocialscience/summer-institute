@@ -1,3 +1,5 @@
+- name: Vision
+  url: "vision"
 - name: Apply
   url: "apply"
 - name: Pre-arrival
