@@ -5,7 +5,7 @@ main: true
 image: /assets/images/howard.jpg
 ---
 
-From July 15 - July 28, 2023, Howard University and Mathematica will sponsor the Summer Institute in Computational Social Science, virtually at Howard University. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived). <i>There is no cost to participate in SICSS-Howard/Mathematica.</i>
+From July 15 to July 28, 2023, Howard University and Mathematica will sponsor the Summer Institute in Computational Social Science, virtually at Howard University. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived). <i>There is no cost to participate in SICSS-Howard/Mathematica.</i>
 
 The instructional program involves lectures, group problem sets, and participant-led research projects. There are also outside speakers who conduct computational social science research in a variety of settings, such as academia, industry, and government. Topics covered include text as data, website scraping, digital field experiments, machine learning, and ethics. There are ample opportunities for students to discuss their ideas and research with the organizers, other participants, and visiting speakers. Because we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute are released open source.
 
