@@ -11,4 +11,4 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participants are generally graduate students, postdoctoral researchers, and faculty. In the latter group, preference will be given to those who are not yet tenured and/or are within 7 years of the receipt of their Ph.D. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 20-25 participants will be invited, and participants are expected to fully attend and participate in the entire two-week program.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2023/template/apply) are due Friday, March 3, 2023, at 11:59 ET.
+[Application materials](https://forms.gle/hSXnqDKHDcAqv38f7) are due Friday, March 3, 2023, at 11:59 ET.
