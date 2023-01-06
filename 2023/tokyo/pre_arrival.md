@@ -37,10 +37,6 @@ SICSS-Tokyoでは、Rを使ったプログラム課題を行います。Rのプ�
 いくつかのアクティビティはプログラミングする必要があります。SICSS-TokyoではRをコンピュータ言語としてサポートします。SICSSに参加される前に、[Rの最新安定版](https://www.r-project.org/)と[RStudio](https://rstudio.com/products/rstudio/download/)をご自身のコンピュータにインスールしてください。
 SICSS-Tokyoのプログラミング・アクティビティの際、他の言語(pythonなど)を使っていただいて構いません。ただしその場合、SICSS側で対応できない可能性があります。
 
-### Zoom
-
-SICSS-Tokyo 2023は、オンライン・イベントです。Zoomを使います。事前に、Zoomを使用する環境を整えておいてください。[こちらの記事](https://thewirecutter.com/blog/professional-video-call-from-home/)が、Zoomの使用環境を整えるのに役立つかもしれません。（記事ではマイクやウェブカムをおすすめしていますが、SICSSに参加するために新たに購入することはおすすめしません。通常のラップトップやスマートフォンで十分対応可能です。）
-
 ### Slack
 
 SICSS-Tokyoに参加する前に、SICSS 2023用のSlackワークスペースにアカウントを作っていただきます。もしSlackを使ったことがなければ、[こちら](https://slack.com/help/categories/360000049043-Getting-started)をご参考ください。
