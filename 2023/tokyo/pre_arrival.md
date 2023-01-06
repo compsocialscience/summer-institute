@@ -3,6 +3,51 @@ layout: location_detail
 partner_site: tokyo
 ---
 
+# 事前準備
+
+この夏季ワークショップでは、様々な分野や背景を持った方にご参加頂く予定です。ワークショップ期間の貴重な時間を効果的に使うため、SICSS-Tokyo 2023に参加していただく前に準備していただきたいことがいくつかあります。
+
+- テキストブック
+- プログラミング演習 (必要に応じて)
+- レクチャービデオ
+- ソフトウェアのインストール
+
+これらの事前準備に関して、SICSSのTAがSlackを通してサポートします。
+
+## テキストブック
+
+SICSS-Tokyo 2023への準備として、事前にMatt Salganikの本 *[Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com)* ([オンライン版](https://www.bitbybitbook.com/en/1st-ed/preface/)、 または[Amazon.co.jp 英語版](https://www.amazon.co.jp/Bit-Social-Research-Digital-English-ebook/dp/B072MPFXX2)、 [Amazon.co.jp 日本語版](https://www.amazon.co.jp/%E3%83%93%E3%83%83%E3%83%88%E3%83%BB%E3%83%90%E3%82%A4%E3%83%BB%E3%83%93%E3%83%83%E3%83%88-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E7%A4%BE%E4%BC%9A%E8%AA%BF%E6%9F%BB%E5%85%A5%E9%96%80-%E3%83%9E%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%BBJ-%E3%82%B5%E3%83%AB%E3%82%AC%E3%83%8B%E3%83%83%E3%82%AF/dp/4641174482/))をお読みください。SICSS-Tokyo 2023では、この本を基にレクチャーやグループアクティビティを行います。また、テキストブックの内容をより理解する上で、[過去のレクチャービデオ](https://sicss.io/curriculum)をご参照することをおすすめします。
+
+
+## プログラミング演習
+
+SICSS-Tokyoでは、Rを使ったプログラム課題を行います。Rのプログラミングスキルに不安を覚える方は、[SICSS Boot Camp](https://sicss.io/boot_camp)をご覧になることをおすすめします。SICSS-TokyoでR以外のプログラミング言語（pythonなど）を使っていただいても構いませんが、それらの言語についてのサポートはいたしかねます。
+
+もしBoot Campを終えた後、さらに計算社会科学におけるプログラミングを自習されたい場合は、以下をおすすめします。
+- [RStudio Primers](https://rstudio.cloud/learn/primers)。こちらは[R for Data Science](https://r4ds.had.co.nz/)のサポートページになります。 [日本語版](https://www.amazon.co.jp/R%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9-Hadley-Wickham/dp/487311814X).
+- [R for Social Science](https://datacarpentry.org/r-socialsci/).
+- [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/).
+- [Learn R](https://www.codecademy.com/learn/learn-r).
+
+
+## ソフトウェアのインストール
+
+### R
+
+いくつかのアクティビティはプログラミングする必要があります。SICSS-TokyoではRをコンピュータ言語としてサポートします。SICSSに参加される前に、[Rの最新安定版](https://www.r-project.org/)と[RStudio](https://rstudio.com/products/rstudio/download/)をご自身のコンピュータにインスールしてください。
+SICSS-Tokyoのプログラミング・アクティビティの際、他の言語(pythonなど)を使っていただいて構いません。ただしその場合、SICSS側で対応できない可能性があります。
+
+### Slack
+
+SICSS-Tokyoに参加する前に、SICSS 2023用のSlackワークスペースにアカウントを作っていただきます。もしSlackを使ったことがなければ、[こちら](https://slack.com/help/categories/360000049043-Getting-started)をご参考ください。
+
+### GitHub
+
+多くのSICSS参加者がGithubを使って共同作業をしています。もし[Githubのアカウント](https://github.com/join)をお持ちでなければ、事前に作ることをおすすめします。学生の方であれば、[GitHub Student Developer Pack](https://education.github.com/pack)がおすすめです。
+
+
+---
+
 # Pre-arrival
 
 The Summer Institute will bring together people from many fields and backgrounds. In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS-Tokyo 2023.
