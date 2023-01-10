@@ -7,7 +7,7 @@ partner_site: nyu-shanghai
 
 ## Eligibility
 
-Participation is restricted to \_\_\_\_\_. However, there are no restrictions based on citizenship, country of study, or country of employment. About \_\_\_\_\_ participants will be invited.
+Participation is restricted to  graduate students, postdoctoral researchers, and early career faculty. However, there are no restrictions based on citizenship, country of study, or country of employment. About 25 participants will be invited.
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours during the two months before the Institute.
 
@@ -15,11 +15,11 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 ## How To Apply
 
-Applicants must submit the following documents: \_\_\_\_\_
+Applicants must submit the following documents: 1) A cover letter that summarizes your research interests, your CSS background, and potential contributions to the event (in English, 300-500 words); 2) Your CV (in English; 3) A publication or writing sample that best represents your research around computational social science (English prefered). All documents should be combined into a single PDF, named as "NYU-Shanghai-Your First Name-Last Name.pdf"
 
-**In order to be guaranteed full consideration, all application materials must be submitted by \_\_\_\_\_.** All application materials must be submitted through \_\_\_\_\_. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by \_\_\_\_\_, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by 11:59 pm on May 5, 2023 (Beijing time).** All application materials must be submitted through [Google Form](https://forms.gle/fVm6ZprMH3AXBMZg9). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by shanghai.caser@nyu.edu, and will ask participants to confirm their participation very soon thereafter.
 
-Inquiries can be sent to \_\_\_\_\_.
+Inquiries can be sent to shanghai.caser@nyu.edu.
 
 ## Application Frequently Asked Questions
 
