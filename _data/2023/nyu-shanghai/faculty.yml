@@ -1,12 +1,12 @@
 - name: "Xiaogang Wu"
-  image: /assets/images/xiaogang_wu.png
+  image: /assets/images/xiaogang_wu.jpg
   bio: "Xiaogang Wu is Yufeng Global Professor of Social Science, the founding Director of the Center for Applied Social and Economic Research (CASER) at NYU Shanghai, and Professor of Sociology at New York University. He received his Ph.D. in sociology from UCLA  and has taught in the Hong Kong University of Science and Technology for 17 years before he joined NYU Shanghai in 2020. One of the CASER's focal areas of research is computational social science. His own research interests include social stratification and mobility, education, urban sociology, survey and quantitative methods."
   website: https://shanghai.nyu.edu/academics/faculty/directory/xiaogang-wu
 
 - name: "Yongjun Zhang"
   image: /assets/images/yongjun_zhang.jpg
   bio: "Yongjun Zhang is an Assistant Professor of sociology and institute for advanced computational science at Stony Brook University. Dr. Zhang's work combines statistical, network, and computational methods with big data to study social, political, and organizational behavior in the US and the globe. His current projects focus mainly on understanding human mobility, segregation, and polarization using near-population voter and consumer records, social media texts and images, and large-scale GPS data. He received his Ph.D. in sociology from the University of Arizona."
-  website: yongjunzhang.com
+  website: https://yongjunzhang.com
 
 - name: "Yongen Shi"
   image: /assets/images/yongren_shi.png
