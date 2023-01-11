@@ -40,6 +40,16 @@ closing:
 
 speakers: 
   title: Guest Speakers
+  people:
+    - name: Deen Freelon, Ph.D.
+      image: /assets/images/Deen_Freelon.jpg
+      bio: "Deen Freelon is an associate professor at the UNC Hussman School of Journalism and Media at the University of North Carolina and a principal researcher at the Center for Information, Technology, and Public Life (CITAP). His theoretical interests address how ordinary citizens use social media and other digital communication technologies for political purposes, paying particular attention to how identity characteristics (e.g. race, gender, ideology) influence these uses. Methodologically, he is interested in how computational research techniques can be used to answer some of the most fundamental questions of communication science. Freelon has worked at the forefront of political communication and computational social science for over a decade, coauthoring some of the first communication studies to apply computational methods to social media data. Computer programming lies at the heart of his research practice, which generates novel tools (and sometimes methods) to answer questions existing approaches cannot address. He developed his first research tool, ReCal, as part of his master’s thesis, and it has since been used by tens of thousands of researchers worldwide. His scholarship has been financially supported by grantmakers including the U.S. Institute of Peace, the Spencer Foundation, the Knight Foundation, and the Hewlett Foundation; and published in top-tier journals including Nature, Science, and the Proceedings of the National Academy of Sciences. Freelon earned his Ph.D. from the University of Washington in 2012 and formerly taught at American University in Washington, D.C."
+      website: http://hussman.unc.edu/directory/faculty/deen-freelon
+   
+    - name: Imani N. S. Munyaka, Ph.D.
+      image: /assets/images/Imani_Munyaka.jpeg
+      bio: "Imani Munyaka is an Assistant Professor at the University of California, San Diego in the Computer Science and Engineering department. Her research focuses on social equity in the areas of security, privacy and usability. She is an alum of SICSS-H/M 2022."
+      website: https://www.imanimunyaka.com/
 
 
 Praxis to power:
@@ -52,10 +62,37 @@ panels:
 
 roundtable discussions:
   title: '"Real Talk" Roundtable Discussions'
+  
+  people:
+    - name: Howard University
+      image: /assets/images/HowardULog.png
+      bio: "Howard University has long held a commitment to the study of disadvantaged persons in American society and throughout the world. The goal is the elimination of inequities related to race, color, social, economic and political circumstances. As the only truly comprehensive predominantly Black university, Howard is one of the major engineers of change in our society. Through its traditional and cutting-edge academic programs, the University seeks to improve the circumstances of all people in the search for peace and justice on earth."
+      website: https://home.howard.edu/ 
+  
+    - name: Mathematica
+      image: /assets/images/MathematicaStackedLogo.png
+      bio: "Mathematica is the insight partner that illuminates the path to progress for public- and private-sector changemakers. We apply expertise at the intersection of data, methods, policy, and practice, translating big questions into deep insights that weather the toughest tests. Driven by our mission to improve public well-being, we collaborate closely with our clients to improve programs, refine strategies, and enhance understanding."     
+      website: https://mathematica.org/
+      
+    - name: SICSS
+      image: /assets/images/sicss-logo.png
+      bio: "The Summer Institutes in Computational Social Science (SICSS) were created to provide free training to the next generation of researchers at the intersection of social science and data science— and to incubate cutting-edge research across disciplinary boundaries. Participants at each institute a) hear lectures by leading scholars in the field on a range of subjects from automated text analysis to experiments on social media platforms; b) participate in group training exercises; and c) launch interdisciplinary research projects. SICSS thus aims to provide open, high-quality training in computational social science to researchers around the world in order to accelerate the growth of the field and ensure that it develops practices that are in the long-term interests of science and society. Lectures are live-streamed to all SICSS sites from a central location and supported via a vibrant online community that includes open-source education materials that can be used for further self-study or as a model for computational social science courses within other organizations."
+      website: https://sicss.io/about
 
 
 lunchtime talks:
   title: Bite-Sized Lunchtime Talks
+  people:
+  
+    - name: The Data Nutrition Project
+      image: /assets/images/DataNutrition2.png
+      bio: "Our belief is that deeper transparency into dataset health can lead to better data decisions, which in turn lead to better AI. Founded in 2018 through the Assembly Fellowship, The Data Nutrition Project takes inspiration from nutritional labels on food, aiming to build labels that highlight the key ingredients in a dataset such as meta-data and populations, as well as unique or anomalous features regarding distributions, missing data, and comparisons to other ‘ground truth’ datasets."      
+      website: https://datanutrition.org/ 
+        
+    - name: vary CSS
+      image: /assets/images/VaryCSS.png
+      bio: "Computational Social Science is an exciting new field of research, and we think it should be diverse and inclusive as it grows. To this end, we provide links to resources, which are intended to support new and emerging CSS scholars currently underrepresented in the field. We also maintain a database of these scholars, which can be used for collaboration and networking, or for finding new voices to speak at conferences, on panels, and in workshop tutorials. These resources are compiled and updated by the CSS community."
+      website: http://varycss.org/
 
 
 participants: 
