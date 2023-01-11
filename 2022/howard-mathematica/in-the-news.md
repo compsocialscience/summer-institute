@@ -10,6 +10,21 @@ image: /assets/images/howard.jpg
 <br />
 
 ---
+<u>Immigrant Researcher Team Receives the 2022 SICSS-Howard/Mathematica Excellence in Computational Social Science Research Fund Award</u>
+<br><font color="grey"><font size="2">Dec 19, 2022</font></font> 
+<br><i><font size = "2">Susana Quiros, alongside Nayantara Biswas, Renee Clarke and Bing-Jie Yen, a research team born out of SICSS-Howard/Mathematica 2022 featuring four immigrant women, receive the SICSS-Howard/Mathematica Excellence in Computational Social Science Research Fund Award and share how the grant will open opportunities for their research.</font></i>
+<br><font size = "1">(Posted by <a href="https://www.linkedin.com/posts/susanaquiros_health-publichealth-publicpolicy-activity-7016484338884128768-cDEk?utm_source=share&utm_medium=member_desktop">Susana Quiros via Linkedin</a>)</font>
+
+<u>My Notes on Summer School in Computational Social Sciences</u>
+<br><font color="grey"><font size="2">Dec 19, 2022</font></font> 
+<br><i><font size = "2">SICSS-Howard/Mathematica 2022 alum Rumeysanur Erikli Dogan shares online resources for those interested in learning computational social science skills, featuring materials from SICSS and special talks from SICSS-Howard/Mathematica. Turkish version available as well.</font></i>
+<br><font size = "1">(Posted by <a href="https://www.digitalottomanstudies.com/post/summerschool">Digital Ottoman Studies</a>)</font>
+
+<u>Unsocial Media: Sociologist Chris Bail calls for a reset of our partisan digital divide</u>
+<br><font color="grey"><font size="2">Nov 14, 2022</font></font> 
+<br><i><font size = "2">Chris Bail, co-founder of the Summer Institutes in Computational Social Science, discusses the computational social science field and the impact of the first Summer Institute of Computational Social Science. The program has grown as participants have founded their own sites, including Naniette Coleman, who "founded a site at Howard University that focuses on anti-Black racism and inequity."</font></i>
+<br><font size = "1">(Posted by <a href="https://www.youtube.com/watch?v=wBWyoF5trgo">Duke Magazine</a>)</font>
+
 <u>SICSS-Howard/Mathematica founder speaks at Final Virtual Day for SICSS site in South Africa</u>
 <br><font color="grey"><font size="2">Jul 10, 2022</font></font> 
 <br><i><font size = "2">Naniette Coleman, founder and organizer of SICSS-H/M, spoke at SICSS-JIAS/IPATC Final Virtual Day about new Crown Act Mass Collaboration Activity. Based on a project conceptualized by SICSS-H/M 2021 participant Nicole Jenkins and funded by SICSS-H/M, this mass collaboration activity offers participants a chance to think about data collection on an early stage project.</font></i>
