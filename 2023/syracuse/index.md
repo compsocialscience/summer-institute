@@ -11,4 +11,4 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Graduate students (Masters and PhDs) and early career scholars from many different racial/ethnic, cultural, and religious backgrounds with various levels of skills in computational social science are encouraged to apply. SICSS-Syracuse aims to empower prospective participants who are traditionally underrepresented in the field of computational social science, including women and members of other minoritized communities, including different racial/ethnic groups, Indigenous individuals, immigrants, queer persons, and people with disabilities. About 10 participants will be invited, and participants are expected to fully attend and participate in the entire one-week program.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2023/template/apply) are due March 3rd, 2023.
+[Application materials](https://compsocialscience.github.io/summer-institute/2023/syracuse/apply) are due March 3rd, 2023.
