@@ -25,7 +25,7 @@ Applicants must submit the following documents:
 
 **In order to be guaranteed full consideration, all application materials must be submitted by February 17.** All application materials must be submitted through [SICSS-Istanbul application form](https://forms.gle/PeSDrQSp2gSzjxAU8). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail in early March, and will ask participants to confirm their participation very soon thereafter.
 
-Inquiries can be sent to **[sicss.istanbul@gmail.com](mailto:sicss.istanbul@gmail.com)**.
+Inquiries can be sent to **[sicss.istanbul@gmail.com](mailto:sicss.istanbul@gmail.com)**
 
 ## Application Frequently Asked Questions
 
