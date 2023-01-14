@@ -5,7 +5,7 @@ main: true
 image: /assets/images/edinburgh.jpg
 ---
 
-From June 12 to June 24, 2023, the Social Data Science Hub at the University of Edinburgh will host the Summer Institute in Computational Social Science, to be held **in person** at the University of Edinburgh. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and early career researchers interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived). This partner site is being led by [Christopher Barrie](https://www.cjbarrie.com/), [Tod Van Gunten](https://todvangunten.com/), and [Aybuke Atalay](https://www.sps.ed.ac.uk/staff/aybuke-atalay).
+From June 12 to June 23, 2023, the Social Data Science Hub at the University of Edinburgh will host the Summer Institute in Computational Social Science, to be held **in person** at the University of Edinburgh. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and early career researchers interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived). This partner site is being led by [Christopher Barrie](https://www.cjbarrie.com/), [Tod Van Gunten](https://todvangunten.com/), and [Aybuke Atalay](https://www.sps.ed.ac.uk/staff/aybuke-atalay).
 
 The provisional instructional program includes lectures and workshops on the following topics:
     
