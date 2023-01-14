@@ -21,7 +21,7 @@ In order to prepare for SICSS-Accra 2022, you should read Matt Salganik’s book
 
 The [SICSS Boot Camp](https://sicss.io/boot_camp) is an online training program created by Chris Bail to provide you with beginner-level skills in coding so that you can follow the more advanced curriculum we teach at SICSS. The videos and materials are designed for complete beginners and are best viewed as a sequence since each video builds upon content introduced in previous tutorials. If you are already familiar with the topics in these videos, you do not need to complete them.
 
-If you are less familiar with R programming, we also highly recommend that you complete a set of courses on the R programming on DataCamp before the Institute. We have received generous support from <a href="https://www.datacamp.com/" target="_blank">DataCamp</a> to access over 360 interactive courses through <a href="https://datacamp.com/groups/education/" target="_blank">DataCamp for the Classroom</a>. DataCamp’s learn-by-doing methodology combines short expert videos and hands-on-the-keyboard exercises to help learners retain knowledge. DataCamp offers 350+ courses by expert instructors on topics such as importing data, data visualization, and machine learning. They’re constantly expanding their curriculum to keep up with the latest technology trends and to provide the best learning experience for all skill levels.
+If you are less familiar with R programming, we also highly recommend that you complete a set of courses on the R programming on DataCamp before the Institute. 
 
 ##### Week 1-2 - Introduction to R programming (May 01 - May 12, 2023)
 
