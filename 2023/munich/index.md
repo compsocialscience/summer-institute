@@ -1,11 +1,10 @@
 ---
 layout: location_detail
 partner_site: munich
-main:
+image:
 
 ---
 ![LMU_image (winter)](https://user-images.githubusercontent.com/121235087/212948491-6cd3089a-8a9a-401b-b13a-f045a19ec4bd.png)
-
 
 From July 24 to August 4, 2023, \_\_\_\_\_ will sponsor the Summer Institute in Computational Social Science, to be held at the University of Munich. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
 
