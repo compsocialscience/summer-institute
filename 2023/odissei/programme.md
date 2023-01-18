@@ -4,6 +4,10 @@ partner_site: odissei
 title: Programme
 ---
 
+## Programme
+
+### Overview
+
 The SICSS-ODISSEI will show participants all the possibilities that ODISSEI has to offer in terms of facilities, tools and research support. SICSS-ODISSEI will not only focus on teaching participants relevant methodologies, theories and techniques for computational social science, but also allow participants to apply this knowledge using ODISSEI facilities, including executing a specific research project using microdata via the CBS Secure Remote Access Environment and an introduction to the [ODISSEI Secure Supercomputer](https://odissei-data.nl/en/using-the-odissei-secure-supercomputer-ossc/).
 
 Participants will be able to develop research ideas with other computational social scientists and turn these into exciting new projects that can be executed within ODISSEI. Participants will be supported by experts in the field and projects could be developed into further long-term research, a grant application or scientific publication.
@@ -12,7 +16,7 @@ Participants will get an introduction to working with CBS ([Statistics Netherlan
 
 Participants will need to develop their knowledge and skills in a relatively short period, so in preparation for the summer school participants are able to follow online workshops in data carpentry to enhance their skills prior to SICSS-ODISSEI.
 
-## Programme
+### Programme
 
 SICSS-ODISSEI will run from Monday 19 June to Friday 30 June 2023. Both weeks, from Monday to Friday, participants will learn about computational social science in-person in the Netherlands. The regular days of teaching will be at the campus of the Erasmus University of Rotterdam, Burgemeester Oudlaan 50. There may be some site visits to ODISSEI partners during the summer school, which will be confirmed at a later date.
 

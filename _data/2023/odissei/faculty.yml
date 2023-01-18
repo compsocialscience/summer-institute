@@ -5,8 +5,8 @@
   
 - name: "Paulina Pankowska"
   image: /assets/images/paulina_pankowska.jpeg
-  bio: "Dr. Paulina Pankowska is a postdoctoral researcher at the Sociology and Communication Science Departments of the Vrije Universiteit Amsterdam. Her research focuses on the topics of data and methods quality. She is currently involved in an ERC project investigating the problem of measurement error in the context of career and employment trajectories. She is also the task leader of the ODISSEI benchmarking task, which aims to organize an algorithm benchmark for the social sciences. The overarching goal of this project is to guide social science research towards a culture wherein different methods and techniques that are used to solve a specific problem are compared and evaluated objectively."
-  website: https://research.vu.nl/en/persons/paulina-karolina-pankowska
+  bio: "Dr. Paulina Pankowska is an assistant professor at the Sociology department of Utrecht University. Her research focuses on the topics of data and methods quality. She is currently working on a project investigating the quality of non-traditional data sources and on a project related to climate change sociology. She is also the task leader of the ODISSEI benchmarking task, which aims to organize an algorithm benchmark for the social sciences. The overarching goal of this project is to guide social science research towards a culture wherein different methods and techniques that are used to solve a specific problem are compared and evaluated objectively."
+  website: https://www.uu.nl/staff/PKPankowska
 
 - name: "Javier Garcia-Bernardo"
   image: /assets/images/javier_garciabernardo.jpg
@@ -14,15 +14,16 @@
   website: https://www.uu.nl/staff/JGarciaBernardo
   
 - name: "Erik-Jan van Kesteren (Utrecht University)"
-  bio: "To be added"
+  bio: "Coming soon"
   website: https://www.uu.nl/staff/EvanKesteren
   
 - name: "Gert Stulp (University of Groningen)"
-  bio: "To be added"
+  bio: "Coming soon"
   website: https://www.rug.nl/staff/g.stulp/
     
 - name: "Elizaveta Sivak (University of Groningen)"
-  bio: "To be added"
+  image: /assets/images/Elizaveta Sivak.jpg
+  bio: "Elizaveta Sivak is a sociologist and a computational social scientist. Currently, she is a PhD candidate at the University of Groningen, where she studies the predictability of fertility outcomes. Before that, she was the head of the Center for Modern Childhood Research at HSE University. Her research interests involve the predictability of life outcomes, predictions in social science in general, and using machine learning methods and digital traces data to study parenting and childhood."
   website: https://www.rug.nl/staff/e.sivak/cv?lang=en
   
 
