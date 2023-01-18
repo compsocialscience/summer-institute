@@ -1,1 +1,9 @@
-- name: 
+- name: Vissého Adjiwanou
+  image: /assets/images/Visseho.jpg
+  bio: "Vissého Adjiwanou is a professor of Demography and quantitative and computational methods in the Department of Sociology at the Université du Québec à Montréal (UQAM), and adjunct professor at the Department of Demography (Université de Montréal). He directs the Lab on quantitative and computational social science. He is also affiliated with the Centre on Population Dynamics (McGill University). He received an M.A in Statistics from the National School of Statistics and Applied Economics (ENSEA-Cote d’Ivoire), an M.A in Economics of Development at the Centre for Studies and Research on International Development (CERDI- France) and a PhD in Demography from the Université de Montréal (Canada). His research focusses on population issues in sub-Saharan Africa and in Canada, including fertility, family dynamics, gender inequality, reproductive health, and integration of immigrants from SSA in Canada."
+  website: https://sociologie.uqam.ca/corps-professoral/professeurs-es/professeur/adjiwanou.visseho/
+
+- name: Xavier St-Denis
+  image: /assets/images/Xavier_StDenis.png
+  bio: "Xavier St-Denis est professeur adjoint en études des populations à l'Institut national de la recherche scientifique (INRS), Centre UCS. Ses recherches portent sur la mobilité sociale, les inégalités socioéconomiques, les trajectoires professionnelles et éducatives, l'économie politique comparée, les statistiques sociales et les méthodes quantitatives. Avant de joindre l'INRS, il a effectué un stage postdoctoral à l'Université de Toronto et a travaillé comme chercheur à Statistique Canada."
+  website: https://inrs.ca/la-recherche/professeurs/xavier-st-denis/
