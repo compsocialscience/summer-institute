@@ -32,5 +32,5 @@ Inquiries can be sent to <sicss.montreal@gmail.com>.
 
 ### Applying to multiple locations
 ### <a name="applying_to_multiple_locations"></a>
-It is allowed to apply to more than one Summer Institute location, but not at the same time. For example, you can apply to SICSS-Princeton, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.
+It is allowed to apply to more than one Summer Institute location, but not at the same time. For example, you can apply to SICSS-Princeton, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously..
 
