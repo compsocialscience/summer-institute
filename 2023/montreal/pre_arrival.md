@@ -43,5 +43,5 @@ Before participating at SICSS-Montréal 2023, you should have an account in the 
 
 ### GitHub
 
-Many participants at SICSS use GitHub to collaborate. If you do not yet have one, you should [create a GitHub account](https://github.com/join). If you are a student, we recommend that you apply for a [GitHub Student Developer Pack](https://education.github.com/pack).](https://us04web.zoom.us/j/77714283535?pwd=crhbtRBKuhg0HmL1sLQo1AqhbehBer.1)
+Many participants at SICSS use GitHub to collaborate. If you do not yet have one, you should [create a GitHub account](https://github.com/join). If you are a student, we recommend that you apply for a [GitHub Student Developer Pack](https://education.github.com/pack).](https://us04web.zoom.us/j/77714283535?pwd=crhbtRBKuhg0HmL1sLQo1AqhbehBer.1).
 
