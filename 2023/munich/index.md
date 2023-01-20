@@ -1,7 +1,8 @@
 ---
 layout: location_detail
 partner_site: munich
-main: /asstes/images/[munich.pdf](https://github.com/compsocialscience/summer-institute/files/10466567/munich.pdf)
+main: /asstes/images/![munich](https://user-images.githubusercontent.com/121235087/213727596-ef45a284-bec3-4b37-a29f-161c149e66c4.jpg)
+
 
 ---
 ![LMU_image (winter)](https://user-images.githubusercontent.com/121235087/212948491-6cd3089a-8a9a-401b-b13a-f045a19ec4bd.png)
