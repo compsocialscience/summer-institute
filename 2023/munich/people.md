@@ -25,7 +25,7 @@ https://haim.it
 
 Alexander Wuttke
 
-![image001](https://user-images.githubusercontent.com/121235087/213726637-16616b78-679c-4944-9664-9324190c3dea.jpg)
+![image001](https://user-images.githubusercontent.com/121235087/213725916-844079cb-2608-4b95-a223-fb3bd5c182a2.jpg)
 
 Alexander Wuttke is the Juniorprofessor of Digitalization and Political Behavior at Ludwig Maximilian University of Munich. His research crosses disciplinary boundaries to explore democratic backsliding from the perspective of ordinary citizens. He is an advocate of Open Science practices and currently serves as the Journal of Politics’ Special Editor for Registered Reports.
 
