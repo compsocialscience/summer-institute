@@ -27,7 +27,7 @@ Participants will need to cover all travel costs themselves. However, ODISSEI ai
 
 ### How To Apply
 
-In order to be guaranteed consideration, applicants must submit a CV and a short statement of motivation (max 300 words) and fill in their details in the Google form. All application materials must be submitted no later than February 28, 2023 through the following <b>[Google form](https://external.ink?to=forms.gle/Z78MiKFWkVfm834h9)</b>. We will notify applicants solely through e-mail by March 15, 2023, and will ask participants to confirm their participation very soon thereafter.
+In order to be guaranteed consideration, applicants must submit a CV and a short statement of motivation (max 300 words) and fill in their details in the Google form. All application materials must be submitted no later than February 28, 2023 through the following <b>[Google form](https://forms.gle/Z78MiKFWkVfm834h9)</b>. We will notify applicants solely through e-mail by March 15, 2023, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to <sicss@odissei-data.nl>
 
