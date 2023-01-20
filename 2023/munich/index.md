@@ -1,7 +1,8 @@
 ---
 layout: location_detail
 partner_site: munich
-main: /asstes/images/![munich](https://user-images.githubusercontent.com/121235087/213727596-ef45a284-bec3-4b37-a29f-161c149e66c4.jpg)
+main: ![munich](https://user-images.githubusercontent.com/121235087/213728343-d9e8a803-f6ec-4512-b9ca-e9452bc93175.jpg)
+
 
 
 ---
