@@ -28,9 +28,9 @@ In order to prepare for SICSS-ODISSEI 2023, we recommend reading Matt Salganik�
 - Lugtig, Peter. “Panel attrition: separating stayers, fast attriters, gradual attriters, and lurkers.” Sociological Methods & Research 43, no. 4 (2014): 699-723.
 
 #### <b>Recommended material</b>:
-- [Introduction to Data Science for Social Scientists](https://external.ink?to=www.youtube.com/watch?v=jG6pdz4DQu8)
-- [Machine learning versus Statistics](https://external.ink?to=www.kdnuggets.com/2016/11/machine-learning-vs-statistics.html)
-- [Statistics versus Machine learning](https://external.ink?to=www.nature.com/articles/nmeth.4642)
+- [Introduction to Data Science for Social Scientists](https://www.youtube.com/watch?v=jG6pdz4DQu8)
+- [Machine learning versus Statistics](https://www.kdnuggets.com/2016/11/machine-learning-vs-statistics.html)
+- [Statistics versus Machine learning](https://www.nature.com/articles/nmeth.4642)
 
 ### Training
 
