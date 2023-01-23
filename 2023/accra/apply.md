@@ -27,9 +27,9 @@ Applicants must submit the following documents:
 -	A motivation letter (max two pages) describing why do you wish to attend SICSS-Accra, your current research interests, future plans and how these intersect with the goals of this partner location.
 -	A supporting letter from a supervisor/head of department/line manager/mentor that can attest to applicant's competence/potential and availability.
 
-We will formally start receiving applications from 23 January 2023 until **17 March 2023**. In order to be guaranteed full consideration, all application materials must be submitted online via <a href="https://forms.gle/QUVcagQyFHucGoMD6" target="_blank">https://forms.gle/QUVcagQyFHucGoMD6</a>. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by **10 April 2023** and ask participants to confirm their participation soon after.
+We will formally start receiving applications from 27 January 2023 until **17 March 2023**. In order to be guaranteed full consideration, all application materials must be submitted online via <a href="https://forms.gle/QUVcagQyFHucGoMD6" target="_blank">https://forms.gle/QUVcagQyFHucGoMD6</a>. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by **10 April 2023** and ask participants to confirm their participation soon after.
 
-Inquiries can be sent to \_\_\_\_\_.
+Inquiries can be sent to sicss@rips-ug.edu.gh.
 
 ## Application Frequently Asked Questions
 
