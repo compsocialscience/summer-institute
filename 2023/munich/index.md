@@ -1,7 +1,7 @@
 ---
 layout: location_detail
 partner_site: munich
-main: ![munich](https://user-images.githubusercontent.com/121235087/213728343-d9e8a803-f6ec-4512-b9ca-e9452bc93175.jpg)
+main: /assets/images/sicss_munich.png
 
 
 
