@@ -13,5 +13,5 @@ The instructional program for the Institute will involve lectures, group problem
 
 Registration for the workshop is free. There is also a limited number of financial assistance to cover participants travel expenses, meals, and accommodation during the Institute. Participation is open to master’s and PhD students, postdoctoral researchers, untenured faculty within five years of their PhD. We welcome applicants from all backgrounds, fields of study, and countries within Africa, especially applicants from groups currently under-represented in computational social science. About 20 participants will be invited, and participants are expected to fully attend, participate, and engage in the entire program. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute. Participants with less coding experience will be supported by teaching assistants to complete a set of courses on the R programming language using this platform before the Institute.
 
-**[Application materials](https://sicss.io/2023/accra/apply) will be accepted from January 23, 2023, until  on March 17, 2023.**
+**[Application materials](https://sicss.io/2023/accra/apply) will be accepted from January 27, 2023, until  on March 17, 2023.**
 
