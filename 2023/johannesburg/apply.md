@@ -7,7 +7,7 @@ partner_site: johannesburg
 
 ## Eligibility
 
-Participation is restricted to \_\_\_\_\_. However, there are no restrictions based on citizenship, country of study, or country of employment. About \_\_\_\_\_ participants will be invited.
+Participation is restricted to registered masters and doctoral students, postdoctoral researchers and researchers outside of academia. However, there are no restrictions based on citizenship, country of study, or country of employment. About 15 to 20 participants will be invited.
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours during the two months before the Institute.
 
@@ -15,11 +15,15 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 ## How To Apply
 
-Applicants must submit the following documents: \_\_\_\_\_
+Applicants must submit the following documents: 
 
-**In order to be guaranteed full consideration, all application materials must be submitted by \_\_\_\_\_.** All application materials must be submitted through \_\_\_\_\_. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by \_\_\_\_\_, and will ask participants to confirm their participation very soon thereafter.
+1. Curriculum Vitae
+2. A personal statement (maximum 1000 words)
+3. A brief research statement (maximum 500 words)
 
-Inquiries can be sent to \_\_\_\_\_.
+**In order to be guaranteed full consideration, all application materials must be submitted by 11:59pm (SAST) Friday 31 March, 2023.** All application materials must be submitted through the [SICSS-Johannesburg application form](https://forms.gle/TG88wL1iJZqNZfgC6). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by end of April 2023, and will ask participants to confirm their participation very soon thereafter.
+
+Inquiries can be sent to [sicss.johannesburg@gmail.com](mailto:sicss.johannesburg@gmail.com).
 
 ## Application Frequently Asked Questions
 
