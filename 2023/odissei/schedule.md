@@ -5,3 +5,5 @@ schedule: true
 ---
 
 # Schedule
+
+The day-to-day timetable will be posted soon. 
