@@ -15,4 +15,4 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is restricted. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. The chosen participants will be invited, and participants are expected to fully attend and participate in the entire two-week program.
 
-Information about the due date regarding the [Application materials](https://compsocialscience.github.io/summer-institute/2023/munich/apply) are coming soon.
+Information about the due date regarding the [Application materials](https://compsocialscience.github.io/summer-institute/2023/munich/apply) are coming soon
