@@ -1,7 +1,7 @@
 ---
 layout: location_detail
 partner_site: munich
-image: /assets/images/sicss_munich.png
+image: /assets/images/sicss_muenchen.jpg
 ---
 
 ![LMU_image (winter)](https://user-images.githubusercontent.com/121235087/212948491-6cd3089a-8a9a-401b-b13a-f045a19ec4bd.png)
