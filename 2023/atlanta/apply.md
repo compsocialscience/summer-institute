@@ -38,3 +38,7 @@ Yes, but not at the same time. For example, you can apply to SICSS-Atlanta, and 
 #### Can I participate in SICSS-Atlanta if I have already participated in SICSS at another location?
 
 No. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
+
+#### Will travel or lodging be provided at the SICSS-Atlanta site?
+
+No. Applicants who work or study in the Atlanta metropolitan area will be prioritized for the SICSS-Atlanta program. However, those who are qualified and willing to pay for their own travel and living expenses during the program will be considered. <strong>All participants are expected to attend in-person for the full two weeks of the program.</strong>
