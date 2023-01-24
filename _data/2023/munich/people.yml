@@ -1,1 +1,18 @@
 
+faculty:
+  title: Faculty
+  people:
+    - name: Carsten Schwemmer
+      image: /assets/images/cschwemmer_portrait.jpg
+      bio: "Carsten Schwemmer is a Professor of Sociology and Computational Social Sciences at the University of Munich. His work focuses on applying computational methods to interdisciplinary research in areas such as ethnic minority & gender studies, digital media, political sociology, and sociotechnical systems. He is particularly interested in methods related to natural language processing, image recognition, data mining, and network analysis."
+      website: https://www.carstenschwemmer.com/
+   
+    - name: Mario Haim
+      image: /assets/images/mhaim_portrait.jpeg
+      bio: "Since 2022, Mario Haim is a Professor and Chair of Communication Studies, especially Computational Communication Research, at LMU Munich. In both his research and teaching, He focusses mainly on topics of algorithmic influence. Employing methods common to Computational Communication Science, such topics include political communication, computational journalism, health communication, and algorithmic curation in media environments as well as general computational methods. After studying in Augsburg, Munich, and Helsinki, he gained his PhD at LMU Munich. Subsequently, Mario Haim was a Postdoctoral Fellow at the University of Stavanger, Norway, and an Assistant Professor (Juniorprofessor) at the University of Leipzig, Germany. 
+      website: https://haim.it
+   
+    - name: Alexander Wuttke
+      image: /assets/images/rawuttke_portrait.jpeg
+      bio: "Alexander Wuttke is the Juniorprofessor of Digitalization and Political Behavior at Ludwig Maximilian University of Munich. His research crosses disciplinary boundaries to explore democratic backsliding from the perspective of ordinary citizens. He is an advocate of Open Science practices and currently serves as the Journal of Politics’ Special Editor for Registered Reports.
+      website: https://www.gsi.uni-muenchen.de/lehreinheiten/ls-wuttke/index.html
