@@ -1,7 +1,7 @@
 ---
 layout: location_detail
 partner_site: munich
-image: /assets/images/sicss_muenchen.jpg
+image: /assets/images/muenchen.jpg
 ---
 
 From July 24 to August 4, 2023, the university of Munich will host a partner site for the Summer Institute in Computational Social Science. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
