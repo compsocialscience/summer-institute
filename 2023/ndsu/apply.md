@@ -13,16 +13,14 @@ The Summer Institute aims to bring together computational social scientists acro
 
 We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science; 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others; 3) likelihood to benefit from participation; 4) likelihood to contribute to the educational experience of other participants; 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
 
-## Funding for non-NDSU graduate students
-
-Thanks to the generous support from [Office of Research and Creative Activity (RCA)](https://www.ndsu.edu/research/) at NDSU, non-NDSU graduate students will receive travel grants to partially offset their travel or lodging costs.  
-
 
 ## How To Apply
 
 Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement of interest, describing your current research using computational social science and/or interest in computational social science for your future research (500 words maximum).
 
-**In order to be guaranteed full consideration, all application materials must be submitted by April 7, 2023.** All application materials must be submitted through [this online form](https://ndstate.co1.qualtrics.com/jfe/form/SV_5c1zBEm5dULIpLw). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 7, 2023, and will ask participants to confirm their participation very soon thereafter.
+**Travel grants for non-NDSU graduate students** Thanks to the generous support from [Office of Research and Creative Activity (RCA)](https://www.ndsu.edu/research/) at NDSU, non-NDSU graduate students are eligible to receive travel grants to partially offset their travel or lodging costs.  
+
+**In order to be guaranteed full consideration, all application materials must be submitted by April 7, 2023.** All application materials must be submitted through [this online form](https://ndstate.co1.qualtrics.com/jfe/form/SV_5c1zBEm5dULIpLw). Applications that are not completed by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 7, 2023, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to sicss.ndsu@gmail.com.
 
