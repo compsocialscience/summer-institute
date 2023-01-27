@@ -18,7 +18,7 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement of interest, describing your current research using computational social science and/or interest in computational social science for your future research (500 words maximum).
 
-**Travel grants for non-NDSU graduate students** Thanks to the generous support from [Office of Research and Creative Activity (RCA)](https://www.ndsu.edu/research/) at NDSU, non-NDSU graduate students are eligible to receive travel grants to partially offset their travel or lodging costs.  
+**Travel grants for non-NDSU graduate students.** Thanks to the generous support from [Office of Research and Creative Activity (RCA)](https://www.ndsu.edu/research/) at NDSU, non-NDSU graduate students are eligible to receive travel grants to partially offset their travel or lodging costs.  
 
 **In order to be guaranteed full consideration, all application materials must be submitted by April 7, 2023.** All application materials must be submitted through [this online form](https://ndstate.co1.qualtrics.com/jfe/form/SV_5c1zBEm5dULIpLw). Applications that are not completed by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 7, 2023, and will ask participants to confirm their participation very soon thereafter.
 
