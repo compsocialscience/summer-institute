@@ -1,1 +1,14 @@
-- name: 
+- name: Lena Hipp
+  image: /assets/images/berlin_2023_hipp.jpg
+  bio: ""
+  website: https://www.wzb.eu/en/persons/lena-hipp
+
+- name: Stefan Munnes
+  image: /assets/images/berlin_2023_munnes.jpg
+  bio: ""
+  website: https://www.wzb.eu/en/persons/stefan-munnes
+
+- name: Armin Sauermann
+  image: /assets/images/berlin_2023_sauermann.jpg
+  bio: ""
+  website: https://www.wzb.eu/en/persons/armin-sauermann
