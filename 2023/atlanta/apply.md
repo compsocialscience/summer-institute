@@ -25,7 +25,7 @@ Applicants must submit the following documents:
 
 4) Graduate students must also submit the contact information of one academic or industry reference (this requirement is optional for postdoctoral scholars, faculty, and industry professionals). Please include the contact’s name, title, institution, and email address.
 
-**In order to be guaranteed full consideration, all application materials must be submitted by March 30, 2023.** All application materials must be submitted through \_\_\_\_\_. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants by mid-April if they’ve been selected to participate. All invitees will have to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by March 31, 2023.** All application materials must be submitted through \_\_\_\_\_. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants by mid-April if they’ve been selected to participate. All invitees will have to confirm their participation very soon thereafter.
 
 Inquiries can be sent to <sicss.atlanta@gmail.com>.
 
@@ -38,3 +38,7 @@ Yes, but not at the same time. For example, you can apply to SICSS-Atlanta, and 
 #### Can I participate in SICSS-Atlanta if I have already participated in SICSS at another location?
 
 No. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
+
+#### Will travel or lodging be provided at the SICSS-Atlanta site?
+
+No. Applicants who work or study in the Atlanta metropolitan area will be prioritized for the SICSS-Atlanta program. However, those who are qualified and willing to pay for their own travel and living expenses during the program will be considered. <strong>All participants are expected to attend in-person for the full two weeks of the program.</strong>
