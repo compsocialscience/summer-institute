@@ -1,6 +1,7 @@
 ---
 layout: location_detail
 partner_site: munich
+main: true
 image: /assets/images/muenchen.jpg
 ---
 
