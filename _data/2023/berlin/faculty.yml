@@ -1,1 +1,14 @@
-- name: 
+- name: Lena Hipp
+  image: /assets/images/berlin_2023_hipp.jpg
+  bio: ""
+  website: https://www.wzb.eu/en/persons/lena-hipp
+
+- name: Stefan Munnes
+  image: /assets/images/berlin_2023_munnes.jpg
+  bio: "Sociologist and research fellow in the Work & Care research group at the WZB Berlin Social Science Center. Interested in all kinds of social inequality, such as gender related issues and Antisemitism. Furthermore, I am mainly engaged in computer-based methods, mainly (automatic) text analysis and graphical illustration. I like to share this knowledge and face new questions and challenges in a team."
+  website: https://www.wzb.eu/en/persons/stefan-munnes
+
+- name: Armin Sauermann
+  image: /assets/images/berlin_2023_sauermann.jpg
+  bio: ""
+  website: https://www.wzb.eu/en/persons/armin-sauermann
