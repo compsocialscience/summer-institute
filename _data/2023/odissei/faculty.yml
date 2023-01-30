@@ -13,15 +13,17 @@
   bio: "Dr. Javier Garcia-Bernardo is an assistant professor at Utrecht University in the Social Data Science (SoDa) team. Before that, he was a postdoc at the University of Amsterdam and at Charles University (CORPTAX), and a data scientist at the Tax Justice Network. In his research he applies computational models to understand social and economical systems. He completed his PhD in Political Economy at the CORPNET group (University of Amsterdam), and his MSc in Computer Science at the University of Vermont."
   website: https://www.uu.nl/staff/JGarciaBernardo
   
-- name: "Erik-Jan van Kesteren (Utrecht University)"
-  bio: "Coming soon"
+- name: "Erik-Jan van Kesteren"
+  image: /assets/images/od_23_fc_ejvk.jpeg
+  bio: "Dr. Erik-Jan van Kesteren is assistant professor of data science at Utrecht University, and the team lead for the ODISSEI Social Data Science team ([https://odissei-soda.nl/](https://odissei-soda.nl/)). His background is in social sciences and statistics, with a focus on computation; he has worked on a wide range of topics, such as structural equation modeling, high-performance computing, and Bayesian statistics. Erik-Jan is a strong proponent of open science, which he puts in practice in his projects with the SoDa team. There, he consults and works with many different researchers, on topics such as inequality, citizen science, agent-based modelling, and synthetic data."
   website: https://www.uu.nl/staff/EvanKesteren
   
-- name: "Gert Stulp (University of Groningen)"
-  bio: "Coming soon"
+- name: "Gert Stulp"
+  image: /assets/images/od_23_fc_gs.jpg
+  bio: "Gert Stulp is an associate professor at the department of Sociology at the University of Groningen. He studies causes of the variation in the number of children people have and would like to have, and employs diverse methods in his research including personal network data collection, simulation studies, and machine learning. He is also interested in how methods from data science methods can improve the social sciences."
   website: https://www.rug.nl/staff/g.stulp/
     
-- name: "Elizaveta Sivak (University of Groningen)"
+- name: "Elizaveta Sivak"
   image: /assets/images/Elizaveta Sivak.jpg
   bio: "Elizaveta Sivak is a sociologist and a computational social scientist. Currently, she is a PhD candidate at the University of Groningen, where she studies the predictability of fertility outcomes. Before that, she was the head of the Center for Modern Childhood Research at HSE University. Her research interests involve the predictability of life outcomes, predictions in social science in general, and using machine learning methods and digital traces data to study parenting and childhood."
   website: https://www.rug.nl/staff/e.sivak/cv?lang=en
