@@ -11,16 +11,16 @@ organizers:
   people:
     - name: Nanum Jeon
       image: /assets/images/nanum_prof.jpeg
-      bio: "Nanum Jeon is a Ph.D. student of Sociology and M.S. student of Statistics at UCLA, specializing in the areas of social stratification and gender inequality. Her research interests include (1) how disruptive events, such as job displacement, influence individuals, paying close attention to their labor market outcomes; (2) how social conditions, particularly cultural norms and the division of household labor, shape gender ideology and inequality; and (3) causal inference, quantitative and computational methods."
+      bio: "Nanum Jeon is a Ph.D. student of Sociology and M.S. student of Statistics at UCLA. She is also a student affiliate of the California Center for Population Research. Nanum Jeon specializes in the areas of social stratification and gender inequality. Her research interests include (1) how disruptive events, such as job displacement, influence individuals, paying close attention to their labor market outcomes; (2) how social conditions, particularly cultural norms and the division of household labor, shape gender ideology and inequality; and (3) causal inference, quantitative and computational methods."
       website: https://nanumjeon.org/
 
     - name: Tanvi Shinkre
       image: /assets/images/tanvi.jpeg
-      bio: "Tanvi Shinkre is a Ph.D. student in Statistics at UCLA, and a Student Affiliate of the California Center for Population Research. Her main research interests are in causal inference and social statistics, with a focus on analyzing different types of bias that arise in causal effect estimation. She is also interested in applications of causal methods in public policy settings."
+      bio: "Tanvi Shinkre is a Ph.D. student in Statistics at UCLA, and a student affiliate of the California Center for Population Research. Her main research interests are in causal inference and social statistics, with a focus on analyzing different types of bias that arise in causal effect estimation. She is also interested in applications of causal methods in public policy settings."
       
  - name: Christina Wilmot
       image: /assets/images/christina_wilmot_image - c w.JPG
-      bio: "Christina is a PhD student in sociology at UCLA. Previously, she studied computer science and worked as a software engineer at Google. She is interested in the varying intersections of technology and society, including using novel computational methods to analyze social information, studying online social behavior, and looking at the effects of the adoption of new technologies on a society. She also aims to make computational methods more accessible to social researchers from a variety of substantive and methodological fields."
+      bio: "Christina Wilmot is a Ph.D. student in sociology at UCLA. Previously, she studied computer science and worked as a software engineer at Google. She is interested in the varying intersections of technology and society, including using novel computational methods to analyze social information, studying online social behavior, and looking at the effects of the adoption of new technologies on a society. She also aims to make computational methods more accessible to social researchers from a variety of substantive and methodological fields."
       
 speakers: 
   title: Speakers 
