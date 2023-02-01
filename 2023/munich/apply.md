@@ -7,7 +7,7 @@ partner_site: munich
 
 ## Eligibility
 
-Appliactions for SICSS-Munich are open to graduate students (= master students), PhD candidates, Post-Docs, and Faculty. There are no restrictions based on citizenship, country of study, or country of employment. About 25 participants will be invited.
+Appliactions for SICSS-Munich are open to graduate (Master) students, PhD students, postdoctoral researchers, and faculty. There are no restrictions based on citizenship, country of study, or country of employment. About 25 participants will be invited.
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete an online boot camp. 
 
