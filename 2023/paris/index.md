@@ -5,8 +5,8 @@ main: true
 image: /assets/images/paris.jpg
 ---
 
-From June 19 to June 30, 2023, the Institut Polytechnique de Paris-CREST will sponsor a Summer Institute in Computational Social Sciences.
-The purpose of the Summer Institute is to bring together scholars interested in computational social science.
+From June 19 to June 30, 2023, the Institut Polytechnique de Paris-CREST will sponsor a Summer Institute in Computational Social Sciences. This has been made possible by the generous support of [Hi!PARIS](https://www.hi-paris.fr) and [Ecodec](https://labex-ecodec.ensae.fr).
+The purpose of the Summer Institute is to bring together scholars interested in Computational Social Science.
 
 The Summer Institute is open to social scientists, computer scientists, and a few seats will be reserved for people working professionally at this intersection (such as data journalists).
 The institute will involve lectures in the morning, lab sessions in the afternoon, and guest lectures in the evening. During the second week, the participants will take part in group work aimed at advancing a research project.
