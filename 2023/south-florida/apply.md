@@ -30,3 +30,10 @@ Yes, but not at the same time. For example, you can apply to SICSS-South Florida
 #### Can I participate in SICSS-South Florida if I have already participated in SICSS at another location?
 
 No. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
+
+#### What can I expect from SICSS-South Florida?
+
+You can learn more about [what to expect in SICSS-South Florida in this 8 min video.](http://www.youtube.com/watch?v=E0q5gdy-7Ps) 
+
+[![Quick video](https://img.youtube.com/vi/E0q5gdy-7Ps/0.jpg)](http://www.youtube.com/watch?v=E0q5gdy-7Ps "SICSS South Florida: An Introduction")
+
