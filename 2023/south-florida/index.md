@@ -15,8 +15,4 @@ SICSS participants are generally graduate students, postdoctoral researchers, an
 
 You can learn more about [what to expect in SICSS-South Florida in this 8 min video.](http://www.youtube.com/watch?v=E0q5gdy-7Ps) 
 
-<p align="center">
-  
-  [![Quick video](https://img.youtube.com/vi/E0q5gdy-7Ps/0.jpg)](http://www.youtube.com/watch?v=E0q5gdy-7Ps "SICSS South Florida: An Introduction")
-
-</p>
+[![Quick video](https://img.youtube.com/vi/E0q5gdy-7Ps/0.jpg)](http://www.youtube.com/watch?v=E0q5gdy-7Ps "SICSS South Florida: An Introduction")
