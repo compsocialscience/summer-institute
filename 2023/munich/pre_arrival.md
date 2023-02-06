@@ -13,7 +13,7 @@ The Summer Institute will bring together people from many fields and backgrounds
 
 ## Reading
 
-In order to prepare for SICSS-Munich, we recommend reading Matt Salganik’s book, *[Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com)* ([Read online](https://www.bitbybitbook.com/en/1st-ed/preface/). Parts of this book, which is a broad introduction to computational social science, will be review for many applicants, but if we all read this book ahead of time, then we can use our time together for more advanced topics.
+In order to prepare for SICSS-Munich, we recommend reading Matt Salganik’s book, *[Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com). Parts of this book, which is a broad introduction to computational social science, will be review for many applicants, but if we all read this book ahead of time, then we can use our time together for more advanced topics.
 
 ## Coding Boot Camp
 
