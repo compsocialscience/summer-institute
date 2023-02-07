@@ -25,7 +25,7 @@ Please submit your applications using [this Google Form](https://docs.google.com
 
 Inquiries can be sent to sicss.munich@gmail.com.
 
-## Application Frequently Asked Questions
+## Application - Frequently Asked Questions
 
 #### Can I apply to more than one Summer Institute location?
 
@@ -37,5 +37,5 @@ No. Every year we have more applicants than we can accept, and we would like eve
 
 #### In my application, can I submit a writing sample that is unrelated to Computational Social Science?
 
-Absolutely. SICSS-Munich invites applications from social scienctists who are still unfamiliar with Computational Social Science.
+Absolutely. SICSS-Munich invites applications from social scienctists (broadly conceived) who are still unfamiliar with Computational Social Science.
 
