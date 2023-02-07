@@ -11,7 +11,7 @@ The instructional program will involve lectures, group problem sets, and partici
 
 We are inviting applications from Graduate (Master) students, PhD students, postdoctoral researchers, and faculty. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. The chosen participants will be invited, and participants are expected to fully attend and participate in the entire two-week program.
 
-Information about the [Application materials](https://compsocialscience.github.io/summer-institute/2023/munich/apply) are now available.
+Information about the [application materials](https://compsocialscience.github.io/summer-institute/2023/munich/apply) are now available.
 
 Participating in the event will be free of charge. We are currently seeking out for additional funding sources and might be able to cover some additional expenses for a small number of participants. However, please note that as of now, we are unable to provide funding for housing or related expenses. You should therefore only consider an application if you or your institution will be able to cover these expenses. 
 
