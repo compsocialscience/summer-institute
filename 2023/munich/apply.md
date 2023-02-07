@@ -17,8 +17,8 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 Applicants must submit the following documents: 
 
-- Curriculum Vitae
-- a research statement, explaining your motivation for participating in SICSS-Munich (max. 2 pages)
+- a Curriculum Vitae (CV)
+- a motivation letter, explaining your motivation for participating in SICSS-Munich (1 page)
 - a writing sample, for instance a seminar paper, working paper, or publication (max. 35 pages)
 
 Please submit your applications using [this Google Form](https://docs.google.com/forms/d/10rdxMyNw8iuOLmnqQ0ODB-j6a-u-z2J26_oANmB8-as/).
