@@ -3,8 +3,6 @@ layout: location_detail
 partner_site: munich
 ---
 
-# Apply
-
 ## Eligibility
 
 Appliactions for SICSS-Munich are open to graduate (Master) students, PhD students, postdoctoral researchers, and faculty. There are no restrictions based on citizenship, country of study, or country of employment. About 25 participants will be invited.
