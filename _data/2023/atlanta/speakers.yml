@@ -7,3 +7,9 @@
   image: /assets/images/alfredo-deza.png
   bio: "Alfredo Deza is a software engineer at Microsoft and adjunct professor at Duke, speaker and author of several books about DevOps and Python, including Python For DevOps and Practical MLOps, and former Olympic athlete. With almost two decades of DevOps and software engineering experience, he teaches Machine Learning Engineering and gives lectures around the world about software development, personal development, and professional sports." 
   website: https://developer.microsoft.com/en-us/advocates/alfredo-deza
+  
+  - name: "Daniel Dench"
+  image: /assets/images/Daniel-Dench.jpeg
+  bio: "Daniel Dench is an assistant professor in the School of Economics and the <a href=https://econ.gatech.edu/HEAL>Health Economics & Analytics Lab (HEAL)</a> at the Georgia Institute of Technology. He works on issues related to tobacco and nicotine policy, school choice and enrollment mechanisms, and runs field experiments related to student motivation and cheating. In addition to Georgia Tech, Daniel is a faculty affiliate with Notre Dame's Lab for Economic Opportunity and is a research economist for the National Bureau of Economic Research." 
+  website: https://econ.gatech.edu/people/person/1103263e-f423-5a44-9c34-3f3083b87d12
+  
