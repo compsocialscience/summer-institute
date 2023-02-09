@@ -1,1 +1,9 @@
-- name:
+- name: "Charlotte Alexander"
+  image: /assets/images/Charlotte-Alexander.jpg
+  bio: "Charlotte S. Alexander holds the Connie D. and Ken McDaniel WomenLead Chair as an Associate Professor of Law and Analytics at the Robinson College of Business and the College of Law at Georgia State University. She founded and directs the university’s <a href=https://law.gsu.edu/faculty-centers/legal-analytics-innovation/>Legal Analytics Lab</a>, which brings together faculty from law, business, and data science to take on legal problems and questions using computational methods. Professor Alexander’s own scholarship focuses on civil litigation, and particularly employment litigation, using text mining, natural language processing, and machine learning to uncover patterns in case filing, progress, and resolution in both courts and private dispute resolution fora. She received her B.A. from Columbia University and her J.D. from Harvard Law School." 
+  website: https://law.gsu.edu/profile/charlotte-alexander/
+  
+  - name: "Alfredo Deza"
+  image: /assets/images/alfredo-deza.png
+  bio: "Alfredo Deza is a software engineer at Microsoft and adjunct professor at Duke, speaker and author of several books about DevOps and Python, including Python For DevOps and Practical MLOps, and former Olympic athlete. With almost two decades of DevOps and software engineering experience, he teaches Machine Learning Engineering and gives lectures around the world about software development, personal development, and professional sports." 
+  website: https://developer.microsoft.com/en-us/advocates/alfredo-deza
