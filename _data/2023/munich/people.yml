@@ -1,6 +1,7 @@
 faculty:
   title: Faculty
   people:
+  
     - name: Carsten Schwemmer
       image: /assets/images/cschwemmer_portrait.jpg
       bio: "Carsten Schwemmer is a Professor of Sociology and Computational Social Sciences at the University of Munich. His work focuses on applying computational methods to interdisciplinary research in areas such as ethnic minority & gender studies, digital media, political sociology, and sociotechnical systems. He is particularly interested in methods related to natural language processing, image recognition, data mining, and network analysis."
@@ -16,10 +17,11 @@ faculty:
       bio: "Alexander Wuttke is the Juniorprofessor of Digitalization and Political Behavior at Ludwig Maximilian University of Munich. His research crosses disciplinary boundaries to explore democratic backsliding from the perspective of ordinary citizens. He is an advocate of Open Science practices and currently serves as the Journal of Politics’ Special Editor for Registered Reports."
       website: https://www.gsi.uni-muenchen.de/lehreinheiten/ls-wuttke/index.html
       
-guest speakers:
+speakers: 
   title: Guest Speakers
   people:
+  
     - name: Jürgen Pfeffer
       image: /assets/images/juergen_pfeffer.jpg
       bio: "Jürgen Pfeffer is Professor of Computational Social Science at the Technical University of Munich. His research focuses on the analysis of large and dynamic socio-technical systems as well as the methodological, algorithmic and theoretical challenges that arise from these analyses. Pfeffer's research falls at the intersection of social and computer sciences."
-      website: http://www.pfeffer.at/
+
