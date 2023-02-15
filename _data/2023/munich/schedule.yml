@@ -1,3 +1,109 @@
 - date: July 24 to August 4, 2023
   events:
-    - name: "Schedule coming soon..."
+    - name: "Please note that this is a preliminiary schedule and subject to change."
+    
+  - date: 2023-07-24
+  - name: "Introduction and Ethics"
+    events:
+      - name: "09:00 - 10:30 Logistics and introduction to SICSS"
+      - name: "10:30 - 10:45 Coffee break"
+      - name: "10:45 - 12:15 Ethics"
+      - name: "12:15 - 12:30 Introduction to group exercise"
+      - name: "12:30 - 13:30 Lunch"
+      - name: "13:30 - 15:45 Group exercise"
+      - name: "15:45 - 16:00 Break"
+      - name: "16:00 - 17:30 Guest speaker (t.b.a)"
+      
+- date: 2023-07-25
+  - name: "Collecting Digital Trace Data"
+    events:
+      - name: "09:00 - 10:30 Logistics and collecting digital trace data (part 1)"
+      - name: "10:30 - 10:45 Coffee break"
+      - name: "10:45 - 12:15 Collecting digital trace data (part 2)"
+      - name: "12:15 - 12:30 Introduction to group exercise"
+      - name: "12:30 - 13:30 Lunch"
+      - name: "13:30 - 15:45 Group exercise"
+      - name: "15:45 - 16:00 Break"
+      - name: "16:00 - 17:30 Guest speaker (t.b.a)"
+      
+- date: 2023-07-26
+  - name: "Basics of automated text analysis"
+    events:
+      - name: "09:00 - 10:30 Logistics and basics of quantitative text analysis (part 1)"
+      - name: "10:30 - 10:45 Coffee break"
+      - name: "10:45 - 12:15 Basics of quantitative text analysis (part 2)"
+      - name: "12:15 - 12:30 Introduction to group exercise"
+      - name: "12:30 - 13:30 Lunch"
+      - name: "13:30 - 15:45 Group exercise"
+      - name: "15:45 - 16:00 Break"
+      - name: "16:00 - 17:30 Guest speaker (t.b.a)"
+      
+- date: 2023-07-27
+  - name: "Automated text analysis and machine learning"
+    events:
+      - name: "09:00 - 10:30 Logistics and automated text analysis and machine learning (part 1)"
+      - name: "10:30 - 10:45 Coffee break"
+      - name: "10:45 - 12:15 Automated text analysis and machine learning (part 2)"
+      - name: "12:15 - 12:30 Introduction to group exercise"
+      - name: "12:30 - 13:30 Lunch"
+      - name: "13:30 - 15:45 Group exercise"
+      - name: "15:45 - 16:00 Break"
+      - name: "16:00 - 17:30 Guest speaker (t.b.a)"
+      
+- date: 2023-07-28
+  - name: "Surveys in the Digital Age"
+    events:
+      - name: "09:00 - 10:30 Logistics and Surveys (Part 1)"
+      - name: "10:15 - 10:30 Coffee break"
+      - name: "10:30 - 11:30 Surveys (Part 2)"
+      - name: "11:30 - 12:00 Introduction to group exercise"
+      - name: "12:00 - 12:30 Begin group exercise"
+      - name: "12:30 - 13:30 Lunch"
+      - name: "13:30 - 15:45 Continue group exercise"
+      - name: "15:45 - 16:00 Break"
+      - name: "16:00 - 17:30 Guest speaker (t.b.a)"
+      
+- date: 2023-07-29
+  - name: "Transparent and reproducible research"
+    events:
+      - name: "09:00 - 10:30 Logistics and transparent research (part 1)"
+      - name: "10:30 - 10:45 Coffee break"
+      - name: "10:45 - 12:15 Transparent research (part 2)"
+      - name: "12:15 - 12:30 Logistics for second week"
+      - name: "Afternoon off"
+      
+
+- date: 2023-07-30
+  name: "Day off"
+
+      
+- date: 2023-07-31
+  - name: "Work on group projects"
+    events:
+      - name: "09:00 - 12:30 Logistics, speed dating and group formation"
+      - name: "12:30 - 13:30 Lunch"
+      - name: "13:30 - 15:00 Guest lecture (t.b.a)"
+
+      
+- date: 2023-08-01
+  - name: "Work on group projects"
+    events:
+      - name: "12:30 - 13:30 Lunch"
+      - name: "13:30 - 15:00 Guest lecture (t.b.a)"
+      
+- date: 2023-08-02
+  - name: "Work on group projects"
+    events:
+      - name: "12:30 - 13:30 Lunch"
+      
+- date: 2023-08-03
+  - name: "Present group projects"
+    events:
+      - name: "12:30 - 13:30 Lunch"
+      - name: "18:00 - 19:30 Closing dinner"
+ 
+- date: 2023-08-04
+  events:
+    - name: "Participants depart"
+    
+  
