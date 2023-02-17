@@ -1,1 +1,26 @@
-- name: 
+- name: Amaro Grassi
+  image: /assets/images/amarograssi.jpg
+  bio: "Amaro Grassi is a Project Coordinator at the School of Communication, Media and Information at Fundação Getulio Vargas (FGV ECMI). He is a PhD candidate in Political Science at the Institute of Social and Political Studies at the University of the State of Rio de Janeiro (IESP-UERJ), a Master in Sociology at the same institution, and has a major in Social Sciences at UFRGS."
+  website: 
+  
+- name: Danielle Sanches
+  image: /assets/images/danielle_sanches.png
+  bio: "Danielle Sanches is a professor at FGV ECMI and a PhD in History of Science at the École des Hautes Études en Sciences Sociales in cooperation with the Casa de Oswaldo Cruz/FioCruz. She currently works on Digital Methods, focusing on the influence of the algorithm culture on social practices."
+  
+- name: Denisson Silva
+  image: /assets/images/denisson_silva.jpg
+  bio: "Denisson holds a PhD in Political Science (UFMG), a Master's degree in Sociology and is a Social Scientist (UFAL). He has experience in Political Science, working mainly on the following themes: political parties, party migration, electoral results, and campaign financing. Researcher at the Center for Legislative Studies (CEL/UFMG), the Citizenship and Public Policy Group (UFAL), and research fellow at EMCI-FGV."
+  website: https:denissonsilva.com
+  
+- name: Lucas Roberto
+  image: /assets/images/lucas.png
+  bio: "Lucas Roberto da Silva is a professor and researcher at the School of Communication, Media and Information at Fundação Getulio Vargas (FGV ECMI), where he works on data extraction and analysis of social networks. He has a major in Mathematics at the Fluminense Federal University (UFF) and is a Master in Computer Science at the Department of Informatics in PUC-Rio. His main lines of research are Analysis of Social Networks and Natural Language Processing."  
+  
+- name: Polyana Barbosa
+  image: /assets/images/poly.png
+  bio: "Polyana Barboza is a professor working with data extraction and analysis on social networks at FGV ECMI. She has a major in Applied Mathematics at the School of Applied Mathematics of Fundação Getulio Vargas (FGV EMAp) and is a Master in Computer Science at the Pontifical Catholic University of Rio de Janeiro (PUC-Rio). Her main lines of research are Social Network Analysis in Digital Media and Multi-agent Systems in Software Engineering."
+  
+- name: Sabrina Almeida
+  image: /assets/images/sabrina_almeida_0.png
+  bio: "Sabrina Almeida is a political scientist. She has a PhD in Political Science (UFMG) and is a researcher and professor at FGV ECMI. She studies political behavior with an emphasis on participation and political intolerance, as well as research methods on social networks."
+ 
