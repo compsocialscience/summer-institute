@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: johannesburg
 main: true
-image: /assets/images/johannesburg_campus22.jpg
+image: /assets/images/johannesburg_campus.jpg
 
 ---
 
