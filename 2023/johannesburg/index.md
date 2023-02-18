@@ -3,7 +3,9 @@ layout: location_detail
 partner_site: johannesburg
 main: true
 image: /assets/images/johannesburg_campus.jpg
-
+img-license: '<a class="mw-mmv-license" href="https://creativecommons.org/licenses/by-sa/3.0" target="_blank">CC BY-SA 3.0</a>'
+img-author: 'Aurobindo Ogra'
+img-title: 'University of Johannesburg'
 ---
 
 From 26 June to 7 July, 2023, the University of Johannesburg and National Science Foundation will sponsor the Summer Institute in Computational Social Science, to be held in hybrid format. The purpose of the Summer Institute is to bring together postgraduate students, postdoctoral early career and independent researchers interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
