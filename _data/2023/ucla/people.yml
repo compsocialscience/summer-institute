@@ -1,0 +1,35 @@
+faculty:
+  title: Faculty
+  people:
+    - name: Jennie Brand
+      image: /assets/images/prof+brand+pic.jpeg
+      bio: "Jennie E. Brand is Professor of Sociology and Statistics at the University of California, Los Angeles (UCLA). She is Director of the California Center for Population Research (CCPR) and Co-Director of the Center for Social Statistics (CSS) at UCLA. She is Chair of the Methodology Section of the American Sociological Association (ASA), Chair-Elect of the Inequality, Poverty, and Mobility Section of ASA, and an elected Board Member of the International Sociological Association (ISA) Research Committee on Social Stratification and Mobility (RC28). She previously served on the councils of the ASA Methodology, Sociology of Education, and Inequality, Poverty, and Mobility sections. She was elected to the Sociological Research Association (SRA), an honor society for excellence in research, in 2019, and received the ASA Methodology Leo Goodman Mid-Career Award in 2016, and honorable mention for the ASA Inequality, Poverty, and Mobility William Julius Wilson Mid-Career Award in 2014. Prof. Brand is a member of the Technical Review Committee for the National Longitudinal Surveys Program at the Bureau of Labor Statistics. She was previously  a member of the Board of Overseers of the General Social Survey (GSS). She is Associate Editor of AAAS’s Science Advances, the open access extension of Science magazine, and serves on the editorial boards of Social Forces, Sociological Methodology, Sociological Methods and Research, Sociological Science, and Sociology Compass. She also previously served on the boards of American Sociological Review, Demography, and SAGE Research Methods. Prof. Brand studies social stratification and inequality, mobility, social demography, education, and methods for causal inference."
+      website: http://www.profjenniebrand.com/
+
+organizers:
+  title: Organizers
+  people:
+    - name: Nanum Jeon
+      image: /assets/images/nanum_prof.jpeg
+      bio: "Nanum Jeon is a Ph.D. student of Sociology and M.S. student of Statistics at UCLA. She is also a student affiliate of the California Center for Population Research. Nanum Jeon specializes in the areas of social stratification and gender inequality. Her research interests include (1) how disruptive events, such as job displacement, influence individuals, paying close attention to their labor market outcomes; (2) how social conditions, particularly cultural norms and the division of household labor, shape gender ideology and inequality; and (3) causal inference, quantitative and computational methods."
+      website: https://nanumjeon.org/
+
+    - name: Tanvi Shinkre
+      image: /assets/images/tanvi.jpeg
+      bio: "Tanvi Shinkre is a Ph.D. student in Statistics at UCLA, and a student affiliate of the California Center for Population Research. Her main research interests are in causal inference and social statistics, with a focus on analyzing different types of bias that arise in causal effect estimation. She is also interested in applications of causal methods in public policy settings."
+      
+    - name: Christina Wilmot
+      image: /assets/images/christina_wilmot_image - c w.JPG
+      bio: "Christina Wilmot is a Ph.D. student in sociology at UCLA. Previously, she studied computer science and worked as a software engineer at Google. She is interested in the varying intersections of technology and society, including using novel computational methods to analyze social information, studying online social behavior, and looking at the effects of the adoption of new technologies on a society. She also aims to make computational methods more accessible to social researchers from a variety of substantive and methodological fields."
+      
+speakers: 
+  title: Speakers 
+  people:
+
+teachingassistants:
+  title: Teaching Assistants 
+  people:
+
+participants: 
+  title: Participants
+  people:

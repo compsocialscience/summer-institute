@@ -1,7 +1,7 @@
 # Overview
 
 This site was originally created for Summer Institute in Computational Social
-Science. It is powered by [GitHub Pages](https://pages.github.com/),
+Science. It is currently powered by [GitHub Pages](https://pages.github.com/),
 [Jekyll](https://jekyllrb.com/), and [Bootstrap](http://getbootstrap.com/).
 
 # Table of Contents

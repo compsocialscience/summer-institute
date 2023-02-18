@@ -1,1 +1,21 @@
-- name:
+- name: Evelyne Brie
+  image: /assets/images/Brie.png
+  bio: "Evelyne Brie est professeure adjointe en science politique à l'Université Western. Elle détient un doctorat en science politique de l'Université de Pennsylvanie. Ses recherches portent sur l'opinion publique, le comportement électoral et l’économie politique, principalement en Allemagne et au Canada. Elle est chercheure affiliée au CAPFC (Centre d'analyse politique - Constitution Fédéralisme) et à la CLESSN (Chaire de leadership en enseignement des sciences sociales numériques). Elle a récemment publié l’ouvrage « Un pays divisé : identité, fédéralisme et régionalisme au Canada » aux Presses de l'Université Laval (à paraître aux Presses de l'Université de Toronto). Elle a précédemment travaillé en tant qu’analyste de données au City Lab Berlin et à Politics for Tomorrow."
+  website: www.evelynebrie.com
+- name: Nicole Denier
+  image: 
+  bio:
+  website: https://apps.ualberta.ca/directory/person/denier
+- name: Yannick Dufresne
+  image: 
+  bio:
+  website: yannick.dufresne@pol.ulaval.ca
+- name: Benjamin Guinaudeau
+  image: 
+  bio:
+  website: https://benguinaudeau.com/ 
+  
+- name: Matthew Salganik
+  image: /assets/images/matt.gif
+  bio: "Matthew Salganik is Professor of Sociology at Princeton University, and he serves as the Director of the Center for Information Technology Policy. He is also affiliated with several of Princeton's interdisciplinary research centers including the Office of Population Research and the Center for Statistics and Machine Learning. His research interests include social networks and computational social science. He is the author of (Bit by Bit: Social Research in the Digital Age)[https://www.bitbybitbook.com/en/1st-ed/introduction/]."
+  website: https://www.princeton.edu/~mjs3/

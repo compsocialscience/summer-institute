@@ -7,7 +7,7 @@ partner_site: south-florida
 
 ## Eligibility
 
-Participation is restricted to graduate students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. However, there are no restrictions based on citizenship, country of study, or country of employment. About 20-25 participants will be invited.
+Though participation in SICSS is typically restricted to graduate students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D, we will be considering applications from advanced undergraduates as well.  There are no restrictions based on citizenship, country of study, or country of employment. About 20-25 participants will be invited.
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours during the two months before the Institute.
 
@@ -30,3 +30,10 @@ Yes, but not at the same time. For example, you can apply to SICSS-South Florida
 #### Can I participate in SICSS-South Florida if I have already participated in SICSS at another location?
 
 No. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
+
+#### What can I expect from SICSS-South Florida?
+
+You can learn more about [what to expect in SICSS-South Florida in this 8 min video.](http://www.youtube.com/watch?v=E0q5gdy-7Ps) 
+
+[![Quick video](https://img.youtube.com/vi/E0q5gdy-7Ps/0.jpg)](http://www.youtube.com/watch?v=E0q5gdy-7Ps "SICSS South Florida: An Introduction")
+
