@@ -25,22 +25,22 @@
               {% assign image_url = page.image | prepend: site.baseurl %}
               {% endif %}
               {% if page.partner_site == "johannesburg" %}
-	      	{% if page.img-title %}
-          {% assign img-title = page.img-title %}
-          {% else %}
-          {% assign img-title = 'Image' %}
-          {% endif %}
-		<figure align='center'>
-              		<p align='center'>
-		              <img src="{{image_url}}" alt="{{page.partner_site}}" class="joburg translate-middle-x rounded mb-3">
-			      {% if page.img-license and page.img-author%}
-			      <figcaption style='text-align:center;'>{{img-title}} by {{page.img-author}}, licensed under {{page.img-license}}</figcaption>
-			      {% endif %}
-	        	</p>
-		</figure>
-	      {% else %}
-	              <img src="{{image_url}}" alt="{{page.partner_site}}" class="img-fluid rounded mb-3">
-	      {% endif %}	      		
+                  {% if page.img-title %}
+                  {% assign img-title = page.img-title %}
+                  {% else %}
+                  {% assign img-title = 'Image' %}
+                  {% endif %}
+                    <figure align='center'>
+                        <p align='center'>
+                            <img src="{{image_url}}" alt="{{page.partner_site}}" class="joburg translate-middle-x rounded mb-3">
+                            {% if page.img-license and page.img-author%}
+                              <figcaption style='text-align:center;'>{{img-title}} by {{page.img-author}}, licensed under {{page.img-license}}</figcaption>
+                            {% endif %}
+                        </p>
+                    </figure>
+              {% else %}
+                      <img src="{{image_url}}" alt="{{page.partner_site}}" class="img-fluid rounded mb-3">
+              {% endif %}	      		
               {% endif %}
               <h2 class="display-4">{{page.location}}</h2>
               {{content}}
