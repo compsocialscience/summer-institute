@@ -26,10 +26,10 @@
               {% endif %}
               {% if page.partner_site == "johannesburg" %}
 	      	{% if page.img-title %}
-		{% assign img-title = page.img-title %}
-		{% else %}
-		{% assign img-title = 'Image' %}
-		{% endif %}
+          {% assign img-title = page.img-title %}
+          {% else %}
+          {% assign img-title = 'Image' %}
+          {% endif %}
 		<figure align='center'>
               		<p align='center'>
 		              <img src="{{image_url}}" alt="{{page.partner_site}}" class="joburg translate-middle-x rounded mb-3">
