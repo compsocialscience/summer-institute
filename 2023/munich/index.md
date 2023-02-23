@@ -5,6 +5,8 @@ main: true
 image: /assets/images/muenchen.jpg
 ---
 
+## SICSS Munich 
+
 From July 24 to August 4, 2023, the Ludwig Maximilian University of Munich will host a partner site for the Summer Institute in Computational Social Science. The Summer Institute will bring together graduate students, postdoctoral researchers, and faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
 
 The instructional program will involve lectures, group problem sets, and participant-led research projects. We will have outside speakers who conduct computational social science research in a variety of settings, such as academia, industry, and government. Topics covered include the collection of digital trace data, automated text analysis, transparent and reproducible research, and ethics. There will be ample opportunities for students to discuss their ideas and research with the organizers, other participants, and visiting speakers. Because we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute will be released open source.
@@ -14,3 +16,11 @@ We are inviting applications from Graduate (Master) students, PhD students, post
 Information about the [application materials](https://compsocialscience.github.io/summer-institute/2023/munich/apply) are now available.
 
 Participating in the event will be free of charge. We are currently seeking out for additional funding sources and might be able to cover some additional expenses for a small number of participants. However, please note that as of now, we are unable to provide funding for housing or related expenses. You should therefore only consider an application if you or your institution will be able to cover these expenses. 
+
+## Our sponsors
+
+SICSS-Munich is generiously funded by the Bavarian Research Institute for Digital Transformation (BIDT). 
+
+BIDT, an Institute within the Bavarian Academy of Sciences and Humanities, contributes to a better understanding of digital transformation’s developments and challenges. Thereby, they provide the foundations which will shape society’s digital future responsibly, for the common good.
+
+<img class="img-responsive" alt="BIDT logo" src="{{ site.baseurl }}{% link 2023/munich/images/bidt_Wortmarke%20extended_pos_EN.png %}" width = "200">
