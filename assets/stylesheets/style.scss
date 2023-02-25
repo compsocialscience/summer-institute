@@ -74,9 +74,10 @@ figure figcaption {
   right: 10%;
   top: 91%;
   text-align: center;
+  max-width: 80%;
   padding: 2px;
   font-style: oblique;
-  font-size: smaller;
+  font-size: calc(.5rem + 0.3vw); 
   mix-blend-mode: hard-light;
 }
 /*
