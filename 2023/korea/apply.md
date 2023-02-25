@@ -28,10 +28,10 @@ Lanu Kim (KAIST), Jaehyuk Park (KDI School), and June Jeon (CNU) will hold an on
 
 ## 4. Application Frequently Asked Questions
 
-### (1) Can I apply to more than one Summer Institute location?
+__(1) Can I apply to more than one Summer Institute location?__
 
 Yes, but not at the same time. For example, you can apply to SICSS-Korea, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have applications under review at two locations simultaneously.
 
-### (2) Can I participate in SICSS-Korea if I have already participated in SICSS at another location?
+__(2) Can I participate in SICSS-Korea if I have already participated in SICSS at another location?__
 
 No. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
