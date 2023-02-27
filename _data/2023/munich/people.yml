@@ -21,6 +21,10 @@ speakers:
   title: Guest Speakers
   people:
   
+    - name: Frauke Kreuter
+      image: /assets/images/frauke_kreuter.png
+      bio: "Frauke Kreuter holds the Chair of Statistics and Data Science at LMU Munich, Germany and at the University of Maryland, USA, she is Co-director of the Social Data Science Center (SoDa) and faculty member in the Joint Program in Survey Methodology (JPSM). She is an elected fellow of the American Statistical Association, and received the Warren Mitofsky Innovators Award of the American Association for Public Opinion Research in 2020. In addition to her academic work, Professor Kreuter is the Founder of the International Program for Survey and Data Science (IPSDS), o-Founder of the Coleridge Initiative, and Co-Founder of the German language podcast Dig Deep."
+      
     - name: Jürgen Pfeffer
       image: /assets/images/juergen_pfeffer.jpg
       bio: "Jürgen Pfeffer is Professor of Computational Social Science at the Technical University of Munich. His research focuses on the analysis of large and dynamic socio-technical systems as well as the methodological, algorithmic and theoretical challenges that arise from these analyses. Pfeffer's research falls at the intersection of social and computer sciences."
