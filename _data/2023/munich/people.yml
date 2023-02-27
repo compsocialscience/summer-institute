@@ -21,6 +21,10 @@ speakers:
   title: Guest Speakers
   people:
   
+    - name: Andreas Jungherr
+      image: /assets/images/andreas_jungherr.jpeg
+      bio: "Andreas Jungherr holds the Chair for Governance of Complex and Innovative Technological Systems at the Institute for Political Science at the University of Bamberg. He studies the impact of digital media and artificial intelligence on politics and society. He has worked on the uses of digital media and technology by publics, political actors, and organizations in international comparison. He also addresses challenges for scientific research in realizing the potential of digital methods and computational social science while addressing methodological challenges in its integration into the social sciences. He is author of the books 'Digital Transformations of the Public Arena' (with Ralph Schroeder, 2022) and 'Retooling Politics: How Digital Media are Shaping Democracy' (with Gonzalo Rivero & Daniel Gayo-Avello, 2020)."      
+    
     - name: Frauke Kreuter
       image: /assets/images/frauke_kreuter.png
       bio: "Frauke Kreuter holds the Chair of Statistics and Data Science at LMU Munich, Germany and at the University of Maryland, USA, she is Co-director of the Social Data Science Center (SoDa) and faculty member in the Joint Program in Survey Methodology (JPSM). She is an elected fellow of the American Statistical Association, and received the Warren Mitofsky Innovators Award of the American Association for Public Opinion Research in 2020. In addition to her academic work, Professor Kreuter is the Founder of the International Program for Survey and Data Science (IPSDS), o-Founder of the Coleridge Initiative, and Co-Founder of the German language podcast Dig Deep."
