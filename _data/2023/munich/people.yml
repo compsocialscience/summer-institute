@@ -29,3 +29,6 @@ speakers:
       image: /assets/images/juergen_pfeffer.jpg
       bio: "Jürgen Pfeffer is Professor of Computational Social Science at the Technical University of Munich. His research focuses on the analysis of large and dynamic socio-technical systems as well as the methodological, algorithmic and theoretical challenges that arise from these analyses. Pfeffer's research falls at the intersection of social and computer sciences."
 
+    - name: Franziska Weeber
+      image: /assets/images/franziska_weeber.png
+      bio: "Franziska Weeber is a co-founder at textada, a machine learning-powered text annotation tool. Her work focuses on natural language processing and deep learning in low-resource social science applications. After her M.Sc. degree in Social and Economic Data Science, she held an Exist business start-up grant and was a research assistant at the University of Konstanz and the Heidelberg Academy of Sciences."
