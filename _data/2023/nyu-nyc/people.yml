@@ -29,17 +29,17 @@ speakers:
       
     - name: Alicia Boyd
       image: /assets/images/Alicia Boyd.jpeg
-      bio: "Alicia Boyd is a Postdoctoral Researcher at NYU PRIISM Center and a Quantitative Intersectional Researcher. She is an expert in developing pipelines and locating data from the margins, and bring it into central focus using machine learning techniques. She brings an encyclopedic knowledge about the history, theoretical frameworks, and methodological applications of Intersectionality and the opportunities and challenges of applying it within quantitative domains."
+      bio: "Alicia Boyd is a Postdoctoral Researcher at NYU PRIISM Center and a Quantitative Reflexive Intersectional Researcher. She is an expert in developing workflows, locating data from the margins, and bringing it into central focus while navigating data-centric processes. In addition, she brings an encyclopedic knowledge about the history, theoretical frameworks, and reflexive-intersectional methodological applications and the opportunities and challenges of applying it within quantitative domains."
       website: https://www.aliciaeboyd.com/
     
     - name: Megan A. Brown 
       image: /assets/images/Megan Brown.jpg
-      bio: "Megan A. Brown is a research scientist/data engineer for the NYU Center for Social Media and Politics. Megan's research is centered on the online information ecosystem. As research engineer, Brown collects and maintains large-scale collections of social media and digital trace data for the purposes of social science research. In her research endeavors, she studies cross-platform media manipulation, political bias in algorithmic systems, and the effect of platform governance and moderation policies on the spread of political content."
+      bio: "Megan A. Brown is a research scientist/data engineer for the NYU Center for Social Media and Politics. Megan's research is centered on the online information ecosystem. As a research engineer, Brown collects and maintains large-scale collections of social media and digital trace data for the purposes of social science research. In her research endeavors, she studies cross-platform media manipulation, political bias in algorithmic systems, and the effect of platform governance and moderation policies on the spread of political content."
       website: https://www.meganbrown.org/
       
     - name: Vicky Rampin 
       image: /assets/images/Vicky Rampin.jpg
-      bio: "Vicky Rampin is a librarian at NYU who specializes in data management and reproducibility. She advocates for open scholarship and works on open-source tools for qualitative analysis and computational reproducibility. She co-founded the LIS Scholarship Archive and is interested in gaming, crafting, and outdoor activities."
+      bio: "Vicky Rampin is the Librarian for Research Data Management and Reproducibility and the subject specialist for data science and computer science at New York University. Vicky supports researchers of all levels and disciplines in creating well-managed, reproducible scholarship through instruction, consultation, outreach, and infrastructure building. Her research centers on data and software preservation in service of long-term reproducibility, as well as how best to individualize reproducibility best practices. They loves all things open and contributes to a number of open projects as a part of her job at NYU and in her spare time."
       website: https://vicky.rampin.org/
       
 teachingassistants:
