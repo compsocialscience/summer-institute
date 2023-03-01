@@ -36,9 +36,7 @@ speakers:
       image: /assets/images/Alicia Boyd.jpeg
       bio: "Alicia Boyd is a Postdoctoral Researcher at NYU PRIISM Center and a Quantitative Reflexive Intersectional Researcher. She is an expert in developing workflows, locating data from the margins, and bringing it into central focus while navigating data-centric processes. In addition, she brings an encyclopedic knowledge about the history, theoretical frameworks, and reflexive-intersectional methodological applications and the opportunities and challenges of applying it within quantitative domains."
       website: https://www.aliciaeboyd.com/
-    
-    assets/images/Rumi_Chunara.png
-    
+        
     - name: Megan A. Brown 
       image: /assets/images/Megan Brown.jpg
       bio: "Megan A. Brown is a research scientist/data engineer for the NYU Center for Social Media and Politics. Megan's research is centered on the online information ecosystem. As a research engineer, Brown collects and maintains large-scale collections of social media and digital trace data for the purposes of social science research. In her research endeavors, she studies cross-platform media manipulation, political bias in algorithmic systems, and the effect of platform governance and moderation policies on the spread of political content."
