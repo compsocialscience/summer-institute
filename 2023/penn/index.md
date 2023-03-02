@@ -11,4 +11,4 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is restricted to Ph.D. students, post-doctoral researchers, and untenured faculty within 7 years of their Ph.D. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 20 participants will be invited, and participants are expected to fully attend and participate in the entire two-week program.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2023/penn/apply) are due **Friday, March 3rd, 2023, at 11:59 PM EST**.
+[Application materials](https://compsocialscience.github.io/summer-institute/2023/penn/apply) are due **Friday, March 13th, 2023, at 11:59 PM EST**.
