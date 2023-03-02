@@ -1,1 +1,21 @@
-- name:
+- name: Cuihua (Cindy) Shen
+  image: /assets/images/Shen_Cuihua.png
+  bio: "Dr. Cuihua (Cindy) Shen is a professor at the Department of Communication, University of California, Davis. Her research and teaching interests revolve around the structure and impact of social networks in various online platforms. Methodologically, she frequently uses digital footprint data (big data) in addition to surveys and experiments. Her work has won several Top Paper awards from the International Communication Association. Since 2017, she has served as the Chair and Vice Chair of the Computational Methods Interest Group of the International Communication Association. Currently, she is the Associate Editor of two journals: Journal of Computer-Mediated Communication and Computational Communication Research."
+  website: https://communication.ucdavis.edu/people/cuishen
+
+- name: Lei Guo
+  image: /assets/images/Lei_Guo.jpeg
+  bio: "Dr. Lei Guo is a professor at the School of Journalism, Fudan University (Shanghai). Previously, she was an associate professor in the Division of Emerging Media Studies at College of Communication, Boston University (BU), USA. She was also an affiliated faculty member at BU’s Department of Computer Science. In 2020, she was appointed as a founding faculty member at BU’s newly launched Faculty of Computing & Data Sciences. Her research focuses mainly on the development of media effects theories, news and information flow, and computational social science methodologies. Her studies have been published in a number of leading peer-reviewed journals such as Journal of Communication, Communication Research, New Media and Society, and Journalism & Mass Communication Quarterly (JMCQ)."
+  website: https://www.leiguo.net/
+
+- name: Poong Oh
+  image: /assets/images/Oh_Poong.jpg
+  bio: "Dr. Poong Oh is an assistant professor of the Wee Kim Wee School of Communication and Information (WKWSCI). Prior to joining NTU in 2017, he worked as a postdoctoral research fellow at Annenberg School for Communication, University of Pennsylvania. His research focuses on the evolutionary dynamics of social and collective actions and the roles of communication in it. Also, his research interest lies in advanced data analytic methods, including experimental social science, computational methods, and Bayesian analysis."
+  website: https://dr.ntu.edu.sg/cris/rp/rp00179
+
+- name: Subhayan Mukerjee
+  image: /assets/images/Mukerjee_2022.jpg
+  bio: "Dr. Subhayan Mukerjee is an Assistant Professor at the Department of Communications and New Media, and a principal investigator at the Centre for Trusted Internet and Community at the National University of Singapore. He researches online audiences using computational methods, and teaches courses in quantitative methods, programming, and data visualization."
+  website: https://www.subhayan.com/
+
+
