@@ -36,3 +36,7 @@ Yes, but not at the same time. For example, you can apply to SICSS-FGV/ECMI Braz
 #### Can I participate in SICSS-FGV/ECMI Brazil if I have already participated in SICSS at another location?
 
 No. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
+
+#### Will the activities be online?
+
+Yes, all SICSS Brazil activities will be developed online.
