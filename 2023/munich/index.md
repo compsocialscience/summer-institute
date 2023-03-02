@@ -24,3 +24,6 @@ SICSS-Munich is generiously funded by the Bavarian Research Institute for Digita
 BIDT, an Institute within the Bavarian Academy of Sciences and Humanities, contributes to a better understanding of digital transformation’s developments and challenges. Thereby, they provide the foundations which will shape society’s digital future responsibly, for the common good.
 
 <img class="img-responsive" alt="BIDT logo" src="https://github.com/compsocialscience/summer-institute/raw/master/2023/munich/images/bidt_Wortmarke_extended_pos_EN.png" width = "400">
+
+
+SICSS-Munich is also generiously funded by the Heinz & Sybille Laufer-Stiftung as well as the Faculty of Social Sciences, University of Munich.
