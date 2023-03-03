@@ -15,9 +15,11 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 ## How To Apply
 
+_(Note: The application window has been extended to March 13)._
+
 Applicants must submit the following documents:  (i) a curriculum vitae, (ii) a statement (maximum three pages) describing both any current research and your interest in computational social science, (iii) one writing sample (no more than 35 pages). In addition, graduate students will be asked to provide the contact information for one faculty referee (who will be contacted only for short-listed applicants).  Co-authored work is acceptable for the writing sample, but if you submit co-authored work, please include a few sentences describing the contributions of each individual author
 
-All application materials must be submitted through [our application portal](https://forms.gle/hSXnqDKHDcAqv38f7) between February 1 and March 3. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by March 15, and will ask participants to confirm their participation very soon thereafter.
+All application materials must be submitted through [our application portal](https://forms.gle/hSXnqDKHDcAqv38f7) between February 1 and **March 13.** Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by March 15, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to sicss.southflorida@gmail.com.
 
