@@ -23,7 +23,7 @@ speakers:
   title: Speakers 
   people:
     - name: Minerva Tantoco 
-      image: /assets/images/MinervaTantoco.jpeg
+      image: /assets/images/Minerva_Tantoco.jpeg
       bio: "Minerva Tantoco is an Innovator, investor, startup founder, author, advisor, and speaker on Ethical AI, cybersecurity, fintech and healthtech. Tantoco served as New York City’s first-ever Chief Technology Officer (CTO). Based on her efforts, New York City was named \"2016 Best Smart City\" and helped launch initiatives such as LinkNYC, CSforAll, and Internet of Things Guidelines, as well as promoting an inclusive, equitable tech ecosystem. Ms. Tantoco also served as Senior Product Manager at Palm, Chief Technology Officer at Merrill Lynch and UBS, and holds four US patents on intelligent workflow. Tantoco serves as a Trustee of the New York Hall of Science (nysci.org), Board of Directors, Vyv, Board Advisor to One Creation Embedded Privacy and Socure, and is currently Chief AI Officer at NYU McSilver Institute."
       website: https://mcsilver.nyu.edu/bio/minerva-tantoco/
       
@@ -33,17 +33,17 @@ speakers:
       website: http://rumichunara.github.io/
 
     - name: Alicia Boyd
-      image: /assets/images/Alicia Boyd.jpeg
+      image: /assets/images/Alicia_Boyd.jpeg
       bio: "Alicia Boyd is a Postdoctoral Researcher at NYU PRIISM Center and a Quantitative Reflexive Intersectional Researcher. She is an expert in developing workflows, locating data from the margins, and bringing it into central focus while navigating data-centric processes. In addition, she brings an encyclopedic knowledge about the history, theoretical frameworks, and reflexive-intersectional methodological applications and the opportunities and challenges of applying it within quantitative domains."
       website: https://www.aliciaeboyd.com/
         
     - name: Megan A. Brown 
-      image: /assets/images/Megan Brown.jpg
+      image: /assets/images/Megan_Brown.jpg
       bio: "Megan A. Brown is a research scientist/data engineer for the NYU Center for Social Media and Politics. Megan's research is centered on the online information ecosystem. As a research engineer, Brown collects and maintains large-scale collections of social media and digital trace data for the purposes of social science research. In her research endeavors, she studies cross-platform media manipulation, political bias in algorithmic systems, and the effect of platform governance and moderation policies on the spread of political content."
       website: https://www.meganbrown.org/
       
     - name: Vicky Rampin 
-      image: /assets/images/Vicky Rampin.jpg
+      image: /assets/images/Vicky_Rampin.jpg
       bio: "Vicky Rampin is the Librarian for Research Data Management and Reproducibility and the subject specialist for data science and computer science at New York University. Vicky supports researchers of all levels and disciplines in creating well-managed, reproducible scholarship through instruction, consultation, outreach, and infrastructure building. Her research centers on data and software preservation in service of long-term reproducibility, as well as how best to individualize reproducibility best practices. They loves all things open and contributes to a number of open projects as a part of her job at NYU and in her spare time."
       website: https://vicky.rampin.org/
 
