@@ -11,7 +11,7 @@ The instructional program will involve lectures, group problem sets, and partici
 
 SICSS participants are generally graduate students, postdoctoral researchers, and faculty. In SICSS-South Florida, we will consider advanced undergraduates as well.  Among faculty applicants, preference will be given to those who are not yet tenured and/or are within 7 years of the receipt of their Ph.D. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 20-25 participants will be invited, and participants are expected to fully attend and participate in the entire two-week program.
 
-[Application materials](https://forms.gle/hSXnqDKHDcAqv38f7) are now due by Monday, March 13, 2023, at 11:59 ET.
+[Application materials](https://forms.gle/hSXnqDKHDcAqv38f7) are now due by **Monday, March 13, 2023** at 11:59 ET.
 
 You can learn more about [what to expect in SICSS-South Florida in this 8 min video.](http://www.youtube.com/watch?v=E0q5gdy-7Ps) 
 
