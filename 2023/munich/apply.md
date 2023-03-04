@@ -19,9 +19,8 @@ Applicants must submit the following documents:
 - a motivation letter, explaining your motivation for participating in SICSS-Munich (1 page)
 - a writing sample, for instance a seminar paper, working paper, or publication (max. 35 pages)
 
-Please submit your applications using [this Google Form](https://docs.google.com/forms/d/10rdxMyNw8iuOLmnqQ0ODB-j6a-u-z2J26_oANmB8-as/).
 
-**In order to be guaranteed full consideration, all application materials must be submitted by March 3rd, 2023.** Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by the end of March 2023, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials had to be submitted by March 3rd, 2023.** Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by the end of March 2023, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to sicss.munich@gmail.com.
 
