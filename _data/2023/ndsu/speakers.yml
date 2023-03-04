@@ -2,6 +2,11 @@
   image: /assets/images/pemstein.jpg
   bio: "Dan Pemstein is a Professor of Political Science & Public Policy at North Dakota State University. He is a comparative political economist and methodologist who studies challenges that digital networks pose to democracy and develops tools to better measure qualities of democratic institutions. He is co-director of the Digital Society Project, co-developer of the Unified Democracy Scores, co-author of the Scythe Statistical Library, and serves as project manager for measurement methods, and steering committee member, for the Varieties of Democracy project."
   website: https://www.ndsu.edu/politicalscience/dr_daniel_pemstein/
+
+- name: Yini Zhang, Ph.D.
+  image: /assets/images/yinizhang.jpeg
+  bio: "Yini Zhang is an assistant professor in the Department of Communication at the University at Buffalo, State University of New York. She uses computational methods and big data to study social media and political communication. Her current research program centers around three questions: 1) within social media, how people express themselves and interact with each other, 2) as an ecosystem, how social media platforms relate to one another in terms of the flow of information, and 3) beyond social media, what can influence and be influenced by communication and interaction on social media."
+  website: https://www.buffalo.edu/cas/communication/faculty/zhang-yini.html
   
 - name: Alvin Zhou, Ph.D.
   image: /assets/images/AlvinZhou.jpg
