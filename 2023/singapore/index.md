@@ -11,4 +11,4 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is restricted to **graduate students (including masters students, preferably those with a prominent research component in their degree), postdoctoral researchers, untenured faculty within 7 years of their Ph.D, and researchers working in NGOs or government agencies.** We welcome applicants from all backgrounds and fields of study who have a strong interest in computational social science, especially applicants from groups currently under-represented in the field. About 20 participants will be invited. Participants are expected to fully attend and participate in the entire one-week program.
 
-[Application materials](./apply) are due on March 6, 2023.
+[Application materials](./apply) are due on ~~March 6~~ March 13, 2023.
