@@ -1,29 +1,10 @@
 - name: Aj Alvero
   image: /assets/images/ajalvero.jpeg
-  bio: AJ Alvero is a computational social scientist at the University of Florida Department of Sociology, Criminology & Law. His primary interests are in in language, race/ethnicity, culture, and education. His current research uses computational techniques to analyze college admissions essays and model the social patterns within them. AJ’s future research plans include investigations into machine translation and multilingualism, social media and counter hate speech, and more investigations into educational systems using data science. Prior to entering academia, AJ was a high school teacher in Miami, FL.
+  bio: 'AJ Alvero is a computational social scientist at the University of Florida Department of Sociology, Criminology & Law. His primary interests are in in language, race/ethnicity, culture, and education. His current research uses computational techniques to analyze college admissions essays and model the social patterns within them. AJ’s future research plans include investigations into machine translation and multilingualism, social media and counter hate speech, and more investigations into educational systems using data science. Prior to entering academia, AJ was a high school teacher in Miami, FL.'
   website: https://ajalvero.com
   
 - name: Deen Freelon
   image: /assets/images/deenfreelon.jpg
-  bio: Deen Freelon is an associate professor at the UNC Hussman School of Journalism and Media at the University of North Carolina and a principal researcher at the Center for Information, Technology, and Public Life (CITAP). His theoretical interests address how ordinary citizens use social media and other digital communication technologies for political purposes, paying particular attention to how identity characteristics (e.g. race, gender, ideology) influence these uses. Methodologically, he is interested in how computational research techniques can be used to answer some of the most fundamental questions of communication science.
+  bio: 'Deen Freelon is an associate professor at the UNC Hussman School of Journalism and Media at the University of North Carolina and a principal researcher at the Center for Information, Technology, and Public Life (CITAP). His theoretical interests address how ordinary citizens use social media and other digital communication technologies for political purposes, paying particular attention to how identity characteristics (e.g. race, gender, ideology) influence these uses. Methodologically, he is interested in how computational research techniques can be used to answer some of the most fundamental questions of communication science.'
   website: http://hussman.unc.edu/directory/faculty/deen-freelon
   
-- name: Danaë Metaxa
-  image: /assets/images/danaemetaxa.jpg
-  bio: Danaë Metaxa is an Assistant Professor at the University of Pennsylvania in the Computer and Information Science department, with a secondary appointment in the Annenberg School for Communication. Along with Andrew Head, they are the co-founder of the Penn HCI group. Prior to joining Penn, Dr. Metaxa was a postdoctoral scholar with the Stanford Center of Philanthropy and Civil Society’s Program on Democracy and the Internet, and a Ph.D. candidate in Computer Science at Stanford University. In their research, Dr. Metaxa studies bias and representation in algorithmic systems and content, focusing on high-stakes social settings like politics and employment, and in particular on the experiences of maginalized people.
-  website: https://metaxa.net
-  
-- name: Rebecca Weiss
-  image: /assets/images/rebeccaweiss.jpg
-  bio: Rebecca Weiss is an award-winning computational social scientist and data science leader. She has worked in academia and industry, applying innovative methods to large-scale data sets to better understand online environments and their behavioral consequences. As head of research and innovation at Mozilla, she created and incubated the Rally project, a privacy-preserving data platform leveraged by institutions including Princeton, Stanford, and The Markup to conduct research in the public interest. Before that, she founded the Firefox Data Science team and advanced Lean Data Practices as Mozilla’s director of data science. Weiss has held fellowships at the Berkman-Klein Center for Internet and Society at Harvard University and at the Brown Institute for Media Innovation (a joint effort between Stanford School of Engineering and Columbia School of Journalism).
-  website: https://citp.princeton.edu/citp-people/rebecca-weiss/
-  
-- name: Meredith Broussard
-  image: /assets/images/meredithbroussard.jpg
-  bio: Data journalist Meredith Broussard is an associate professor at the Arthur L. Carter Journalism Institute of New York University, research director at the NYU Alliance for Public Interest Technology, and the author of several books, including “More Than a Glitch: Confronting Race, Gender, and Ability Bias in Tech” and “Artificial Unintelligence: How Computers Misunderstand the World.” Her academic research focuses on artificial intelligence in investigative reporting and ethical AI, with a particular interest in using data analysis for social good.
-  website: https://meredithbroussard.com/about/
-
-- name: Rebecca Johnson
-  image: /assets/images/rebeccajohnson.jpg
-  bio: Rebecca Johnson is an Assistant Professor at Georgetown University’s McCourt School of Public Policy, where she teaches data science in the MS in Data Science for Public Policy and is affiliated with the Massive Data Institute and Department of Sociology. Rebecca is also a 2020-2021 Access to Justice Faculty Scholar with the American Bar Foundation, an academic affiliate with the federal Office of Evaluation Sciences, and a visiting Data Science Fellow with The Lab at DC. Her research studies how social service bureaucracies use a mix of data and discretion to decide who deserves help and focuses particularly on prioritization in K-12 schools. Substantively, she studies how underfunded K-12 districts navigate three forces: legal mandates about categories of students to prioritize, fiscal realities, and family advocacy.
-  website: https://www.rebeccajohnson.io
