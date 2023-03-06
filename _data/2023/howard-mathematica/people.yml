@@ -122,19 +122,19 @@ lunchtime talks:
       bio: "D-Lab 1) helps Berkeley graduate students, faculty, and staff move forward with world-class research in data intensive social science and humanities; 2) assists the Berkeley community with the full range of research development, research design and data acquisition. We offer guidance in statistical methods and results to data visualization and communication; 3) creates a learning community that teaches workshops and offers consultations." 
       website: https://dlab.berkeley.edu/
       
-    - name: Deloitte Center for Health Services and Health Equity Institute
+    - name: Deloitte Center for Health Solutions & the Deloitte Health Equity Institute
       image: /assets/images/Deloitte-Logo.png
-      bio: "Deloitte Center for Health Solutions: Discover unique perspectives on industry-transforming issues. Explore expert ideas around reshaping health care and life sciences to be more human-centered. Because better health care starts with better insight. Deloitte Health Equity Institute: Committed to healing. The mission of the Deloitte Health Equity Institute (DHEI) is advancing health equity to make an impact that matters. To do it, we’re creating cross-sector collaborations and tools aimed at addressing disparities in the drivers of health, racism and bias, and structural flaws in the health system. Our goal is to create exponential change that will lead to a world in which health isn't determined by race, gender, ability status, or zip code. One in which all people have the fair and just opportunity to achieve their full potential in every aspect of their health and well-being."
+      bio: "The mission of the Deloitte Health Equity Institute is advancing health equity to make an impact that matters. To do it, we’re creating cross-sector collaborations and tools aimed at addressing disparities in the drivers of health, racism and bias, and structural flaws in the health system. Our goal is to create exponential change that will lead to a world in which health isn't determined by race, gender, ability status, or zip code. One in which all people have the fair and just opportunity to achieve their full potential in every aspect of their health and well-being. "
       website: https://www2.deloitte.com/us/en/pages/life-sciences-and-health-care/topics/center-for-health-solutions.html?icid=nav2_center-for-health-solutions
       
-    - name: Federal Reserve Board
+    - name: Federal Reserve Board of Governors
       image: /assets/images/FRB-logo.jpeg
-      bio: "The Federal Reserve System is the central bank of the United States. It performs five general functions to promote the effective operation of the U.S. economy and, more generally, the public interest. The Federal Reserve 1) conducts the nation’s monetary policy to promote maximum employment, stable prices, and moderate long-term interest rates in the U.S. economy; 2) promotes the stability of the financial system and seeks to minimize and contain systemic risks through active monitoring and engagement in the U.S. and abroad; 3) promotes the safety and soundness of individual financial institutions and monitors their impact on the financial system as a whole; 4) fosters payment and settlement system safety and efficiency through services to the banking industry and the U.S. government that facilitate U.S.-dollar transactions and payments; and 5) promotes consumer protection and community development through consumer-focused supervision and examination, research and analysis of emerging consumer issues and trends, community economic development activities, and the administration of consumer laws and regulations."
+      bio: "The Federal Reserve System is the central bank of the United States. It performs five general functions to promote the effective operation of the U.S. economy and, more generally, the public interest."
       website: https://www.federalreserve.gov/
       
     - name: Los Alamos National Laboratory
       image: /assets/images/LANL-logo.png
-      bio: "Our mission is to solve national security challenges through simultaneous excellence. We achieve maximum impact on strategic national security priorities by integrating research and development solutions with operational excellence and community engagement. As a federally funded research and development center, Los Alamos National Laboratory aligns our strategic plan with priorities set by the Department of Energy's National Nuclear Security Administration (DOE NNSA) and key national strategy guidance documents. We execute work across all of DOE’s missions: national security, science, energy, and environmental management. Scientific and engineering capabilities developed through LANL’s stockpile research are part of what makes DOE and NNSA a science, technology, and engineering powerhouse for the nation."
+      bio: "The Los Alamos National Laboratory‘s mission is to solve national security challenges through simultaneous excellence. LANL achieves maximum impact on strategic national security priorities by integrating research and development solutions with operational excellence and community engagement."
       website: https://www.lanl.gov/
       
     - name: Polarization Lab
@@ -177,7 +177,7 @@ planning_team:
     - name: Calvin Hadley
       image: /assets/images/CalvinHadleyHeadshot.jpeg
       bio: "Calvin J. Hadley serves as the Senior Advisor for Strategic Initiatives in the Office of the President at Howard University. Hadley works to broker strategic partnerships that advance the University's mission: Truth and Service. Since joining Howard in 2014, he's negotiated numerous partnerships along several student programs. The most notable of these include: Howard's partnership with Google and Amazon Studios to create the Howard West Campus in Silicon Valley and the Howard Entertainment Campus in Hollywood, a partnership with the District of Columbia Public Schools which led to the creation of a dual-enrollment program that allows high school juniors and seniors to earn college credit at Howard University, and a lecture series with Congressman Elijah Cummings, former Director of the FBI James Comey, former Mayor of Washington, D.C. Vincent Gray, and others." 
-      website: https://www2.howard.edu/about/president/staff
+      website: https://president.howard.edu/about/staff
 
 
 teaching_assistants:
