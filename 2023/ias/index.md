@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: ias
 main: true
-image: /assets/images/ias.jpg
+image: /assets/images/ias_norrkoping.jpg
 ---
 
 From June 12 to June 23, 2023, the Institute for Analytical Sociology will sponsor the Summer Institute in Computational Social Science, to be held on the Norrköping Campus of Linköping University. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
