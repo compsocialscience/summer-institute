@@ -27,4 +27,9 @@
   image: /assets/images/rebeccajohnson.jpg
   bio: 'Rebecca Johnson is an Assistant Professor at Georgetown University’s McCourt School of Public Policy, where she teaches data science in the MS in Data Science for Public Policy and is affiliated with the Massive Data Institute and Department of Sociology. Rebecca is also a 2020-2021 Access to Justice Faculty Scholar with the American Bar Foundation, an academic affiliate with the federal Office of Evaluation Sciences, and a visiting Data Science Fellow with The Lab at DC. Her research studies how social service bureaucracies use a mix of data and discretion to decide who deserves help and focuses particularly on prioritization in K-12 schools. Substantively, she studies how underfunded K-12 districts navigate three forces: legal mandates about categories of students to prioritize, fiscal realities, and family advocacy.'
   website: https://www.rebeccajohnson.io
+
+- name: Sarah Sugars
+  image: /assets/images/sarahsugars.jpg
+  bio: 'Sarah Shugars (they/them/theirs) studies how everyday people talk about, engage with, and collectively shape the modern world around them. Bringing together computational communication and the principles of deliberative democracy, they develop new text and network methods in order to examine the relational nature of public life, the linguistic modes through which people express themselves, and the technological affordances which shape digital discourse. They are a first-generation to college student and are deeply committed to increasing access and equity in higher education.'
+  website: https://comminfo.rutgers.edu/shugars-sarah
  
