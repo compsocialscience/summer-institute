@@ -13,5 +13,5 @@ The instructional program for the Institute will involve lectures, group problem
 
 Registration for the workshop is free. Thanks to our generous sponsor, we will be able to cover accommodation and meals for all accepted participants. We also have limited scholarships to cover round-trip airfare for participants from other African countries. About 20 participants will be invited, and participants are expected to fully attend, participate, and engage in the entire program. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute. Participants with less coding experience will be supported by teaching assistants to complete a set of courses on the R programming language using this platform before the Institute.
 
-**[Application materials](https://sicss.io/2023/accra/apply) will be accepted from January 27, 2023, until  on <s>March 17</s> March 31, 2022.**
+**[Application materials](https://sicss.io/2023/accra/apply) will be accepted from January 27, 2023, until on <s>March 17</s> March 31, 2023.**
 
