@@ -1,1 +1,32 @@
-- name:
+- name: "Nicholas Christakis"
+  image: /assets/images/nicholas_christakis.jpg
+  bio: "Nicholas A. Christakis, MD, PhD, MPH, is a social scientist and physician at Yale University who conducts research in the fields of network science, biosocial science, and behavior genetics. His current work focuses on how human biology and health affect, and are affected by, social interactions and social networks. He directs the Human Nature Lab and is the Co-Director of the Yale Institute for Network Science. He is the Sterling Professor of Social and Natural Science at Yale University, appointed in the Departments of Sociology; Medicine; Ecology and Evolutionary Biology; Biomedical Engineering; and the School of Management."
+  website: http://www.nicholaschristakis.net
+
+- name: "Junming Huang"
+  image: "/assets/images/junming_huang.jpg"
+  bio: "Junming Huang is a research scientist at the Paul and Marcia Wythes Center on Contemporary China, Princeton University. His research interests lie in causal inference, science of science, statistics analysis and social networks. He was a Postdoctoral Research Associate at Center for Complex Network Research, Northeastern University since 2016, hosted by Albert-László Barabási. Junming's an assistant researcher at CompleX Lab, University of Electronic Science and Technology of China since 2014."
+  website: "http://www.junminghuang.com/"
+
+
+- name: "Esteban Moro"
+  image: "/assets/images/esteban_moro.jpg"
+  bio: "Esteban Moro is a Reseach Scientist in Connection Science, an associate professor at the Universidad Carlos III de Madrid in Spain, and a member of the Joint Institute UC3M Santander on Financial Big Data. He researches the intersection of big data and computational social science with special attention to human dynamics, collective intelligence, social networks, and urban mobility in problems like viral marketing, natural disaster management, and economic segregation in cities. His work has been featured in The Atlantic, The Washington Post, and The Wall Street Journal."
+  website: "http://estebanmoro.org/"
+
+- name: "Laura Nelson"
+  image: "/assets/images/laura_nelson.jpg"
+  bio: " Laura Nelson is an Assistant Professor at University of British Columbia who uses computational methods – principally text analysis, natural language processing, machine learning, and network analysis techniques – to study social movements, culture, gender, and organizations and institutions. She has developed and taught courses introducing social science and humanities students to computational methods and the scripting languages Python and R, data science courses, and graduate-level sociological theory. She is currently a co-PI on a million-dollar grant through the National Science Foundation to study the spread of gender-equity ideas related to STEM fields through higher education networks, primarily in the United States."
+  website: "https://www.lauraknelson.com/"
+
+- name: "Minsu Park"
+  image: "/assets/images/minsu_park.jpg"
+  bio: "Minsu Park is an Assistant Professor of Social Research and Public Policy at New York University Abu Dhabi (NYUAD) and an Affiliate Faculty at the Center for Data Science at New York University (NYU). He works in computational social science with a specialization in the consumption of culture, production of creative work, and social networks. His current research focuses on how informational and normative cues interact with an individual's preference to make a certain decision and how cultural preferences change over time—individually and globally. His research inhabits an interdisciplinary nexus between data science and social science, simultaneously drawing on and contributing to both. His work has been published in top-tier computer and information science conferences (e.g., ICWSM) and interdisciplinary journals (e.g., Nature Human Behaviour)."
+  website: "https://minsu-park.github.io/home/about/"
+
+- name: "Han Zhang"
+  image: "/assets/images/han_zhang.jpg"
+  bio: " Han Zhang is an Assistant Professor in Division of Social Science, The Hong Kong University of Science and Technology (HKUST). His research spans computational social science, social movements, social networks, and quantitative methods. His current projects focus on protests in China and global surveillance and its social impact."
+  website: "https://hanzhang.xyz/"
+
+

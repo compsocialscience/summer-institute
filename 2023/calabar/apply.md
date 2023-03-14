@@ -19,8 +19,8 @@ Applicants must submit the following documents: 1) a C.V.; 2) a brief statement 
 
 **In order to be guaranteed full consideration, all application materials must be submitted by March 5, 2023.** All application materials must be submitted through the Google Form. Begin your application by clicking<a href='https://forms.gle/FY9koD5qsiaDCtUcA'> APPLY</a> . Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 26, 2023, and will ask participants to confirm their participation very soon thereafter.
 
-
 Inquiries can be sent to sicsscalabar@gmail.com.
+
 =======
 
 
