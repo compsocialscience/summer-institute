@@ -17,14 +17,14 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 To apply, applicants shall submit the following documents via email to <mailto:sicss.singapore@gmail.com> with **SICSS Singapore 2023 Application** as the subject.
 
-1. a curriculum vitae
+1. a curriculum vitae (CV)
 2. a statement (maximum 600 words) describing both any current research, your interest in computational social science, and expectations from attending SICSS-Singapore 2023 (e.g. what you would like to learn from SICSS and what topics of computational social science you would like to explore more). 
 3. applicants who are graduate students or postdoctoral researchers must submit the contact information of one faculty advisor. **Letters of recommendation are not required at this point**.
 4. **(optional)** one writing sample that is no more than 35 pages. Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences in the email body describing the contributions of each individual author.
 
 
 
-**In order to be guaranteed full consideration, all application materials must be submitted by Monday March 6, 2023 AoE (Anywhere on Earth).** All application materials must be submitted through email. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 28, 2023, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by ~~Monday March 6~~ Monday March 13, 2023 AoE (Anywhere on Earth).** All application materials must be submitted through email. Applicants should include their name in all application file names. For example, the submitted CV should be named *FirstnameLastname_CV.pdf*. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 28, 2023, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to <mailto:sicss.singapore@gmail.com>.
 

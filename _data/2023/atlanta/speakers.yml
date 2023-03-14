@@ -1,1 +1,25 @@
-- name:
+- name: "Charlotte Alexander"
+  image: /assets/images/Charlotte-Alexander.jpg
+  bio: "Charlotte S. Alexander holds the Connie D. and Ken McDaniel WomenLead Chair as an Associate Professor of Law and Analytics at the Robinson College of Business and the College of Law at Georgia State University. She founded and directs the university’s <a href=https://law.gsu.edu/faculty-centers/legal-analytics-innovation/>Legal Analytics Lab</a>, which brings together faculty from law, business, and data science to take on legal problems and questions using computational methods. Professor Alexander’s own scholarship focuses on civil litigation, and particularly employment litigation, using text mining, natural language processing, and machine learning to uncover patterns in case filing, progress, and resolution in both courts and private dispute resolution fora. She received her B.A. from Columbia University and her J.D. from Harvard Law School." 
+  website: https://law.gsu.edu/profile/charlotte-alexander/
+  
+- name: "Raeda Anderson"
+  image: /assets/images/raeda-anderson.jpeg
+  bio: "Raeda Anderson is an experienced research scientist and data scientist at Shepherd Center and an Affiliate Professor in the Department of Sociology at Georgia State University. For over a decade, she has been working in Statistical Data Analysis, Student Development, Quantitative Research, Social Network Analysis, and Statistical coding (SPSS, STATA, SAS, MPlus, HLM7, and R) with the focus on the hospital & health care industry."
+  website: https://www.linkedin.com/in/raeda-anderson-phd-5aa56b37/
+  
+- name: "Daniel Dench"
+  image: /assets/images/Daniel-Dench.jpeg
+  bio: "Daniel Dench is an Assistant Professor in the School of Economics and the <a href=https://econ.gatech.edu/HEAL>Health Economics & Analytics Lab (HEAL)</a> at the Georgia Institute of Technology. He works on issues related to tobacco and nicotine policy, school choice and enrollment mechanisms, and runs field experiments related to student motivation and cheating. In addition to Georgia Tech, Daniel is a faculty affiliate with Notre Dame's Lab for Economic Opportunity and is a research economist for the National Bureau of Economic Research." 
+  website: https://econ.gatech.edu/people/person/1103263e-f423-5a44-9c34-3f3083b87d12
+  
+- name: "Alfredo Deza"
+  image: /assets/images/alfredo-deza.png
+  bio: "Alfredo Deza is a software engineer at Microsoft and an Adjunct Professor at Duke, speaker and author of several books about DevOps and Python, including Python For DevOps and Practical MLOps, and former Olympic athlete. With almost two decades of DevOps and software engineering experience, he teaches Machine Learning Engineering and gives lectures around the world about software development, personal development, and professional sports." 
+  website: https://developer.microsoft.com/en-us/advocates/alfredo-deza
+  
+- name: "Casey Wichman"
+  image: /assets/images/casey_wichman.jpeg
+  bio: "Casey Wichman is an Assistant Professor in the School of Economics at the Georgia Institute of Technology and a University Fellow at Resources for the Future. Prior to joining Georgia Tech, he served as the Research Director of the Energy & Environment Lab at the University of Chicago and as a Fellow at Resources for the Future in Washington, DC. He is an applied microeconomist working on issues at the intersection of environmental and public economics. His research spans water and energy demand management, valuation of environmental resources and infrastructure, urban transportation, understanding the drivers behind public goods provision and prosocial behavior, demand for outdoor recreation, and climate change." 
+  website: https://caseyjwichman.com/
+ 
