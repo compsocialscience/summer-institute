@@ -1,13 +1,12 @@
+- name: "Bart Bonikowski"
+  image: "/assets/images/bart_bonikowski.jpg"
+  bio: "Bart Bonikowski is an Associate Professor of Sociology and Politics at New York University and a Faculty Affiliate at NYU’s Center for Data Science. Relying on survey methods, computational text analysis, and experimental research, his work applies insights from cultural sociology to the study of politics in the United States and Europe, with a particular focus on nationalism, populism, and the rise of the radical right."
+  website: https://wp.nyu.edu/bonikowski/
+
 - name: "Nicholas Christakis"
   image: /assets/images/nicholas_christakis.jpg
   bio: "Nicholas A. Christakis, MD, PhD, MPH, is a social scientist and physician at Yale University who conducts research in the fields of network science, biosocial science, and behavior genetics. His current work focuses on how human biology and health affect, and are affected by, social interactions and social networks. He directs the Human Nature Lab and is the Co-Director of the Yale Institute for Network Science. He is the Sterling Professor of Social and Natural Science at Yale University, appointed in the Departments of Sociology; Medicine; Ecology and Evolutionary Biology; Biomedical Engineering; and the School of Management."
   website: http://www.nicholaschristakis.net
-
-- name: "Junming Huang"
-  image: "/assets/images/junming_huang.jpg"
-  bio: "Junming Huang is a research scientist at the Paul and Marcia Wythes Center on Contemporary China, Princeton University. His research interests lie in causal inference, science of science, statistics analysis and social networks. He was a Postdoctoral Research Associate at Center for Complex Network Research, Northeastern University since 2016, hosted by Albert-László Barabási. Junming's an assistant researcher at CompleX Lab, University of Electronic Science and Technology of China since 2014."
-  website: "http://www.junminghuang.com/"
-
 
 - name: "Esteban Moro"
   image: "/assets/images/esteban_moro.jpg"
@@ -28,5 +27,3 @@
   image: "/assets/images/han_zhang.jpg"
   bio: " Han Zhang is an Assistant Professor in Division of Social Science, The Hong Kong University of Science and Technology (HKUST). His research spans computational social science, social movements, social networks, and quantitative methods. His current projects focus on protests in China and global surveillance and its social impact."
   website: "https://hanzhang.xyz/"
-
-
