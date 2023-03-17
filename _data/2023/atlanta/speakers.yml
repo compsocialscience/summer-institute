@@ -1,8 +1,3 @@
-- name: "Charlotte Alexander"
-  image: /assets/images/Charlotte-Alexander.jpg
-  bio: "Charlotte S. Alexander holds the Connie D. and Ken McDaniel WomenLead Chair as an Associate Professor of Law and Analytics at the Robinson College of Business and the College of Law at Georgia State University. She founded and directs the university’s <a href=https://law.gsu.edu/faculty-centers/legal-analytics-innovation/>Legal Analytics Lab</a>, which brings together faculty from law, business, and data science to take on legal problems and questions using computational methods. Professor Alexander’s own scholarship focuses on civil litigation, and particularly employment litigation, using text mining, natural language processing, and machine learning to uncover patterns in case filing, progress, and resolution in both courts and private dispute resolution fora. She received her B.A. from Columbia University and her J.D. from Harvard Law School." 
-  website: https://law.gsu.edu/profile/charlotte-alexander/
-  
 - name: "Raeda Anderson"
   image: /assets/images/raeda-anderson.jpeg
   bio: "Raeda Anderson is an experienced research scientist and data scientist at Shepherd Center and an Affiliate Professor in the Department of Sociology at Georgia State University. For over a decade, she has been working in Statistical Data Analysis, Student Development, Quantitative Research, Social Network Analysis, and Statistical coding (SPSS, STATA, SAS, MPlus, HLM7, and R) with the focus on the hospital & health care industry."
