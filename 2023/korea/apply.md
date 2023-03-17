@@ -26,6 +26,8 @@ Inquiries can be sent to __sicss.korea@gmail.com__.
 
 Lanu Kim (KAIST), Jaehyuk Park (KDI School), and June Jeon (CNU) will hold an online information session for prospective participants. You can join us via [this zoom link](https://kaist.zoom.us/j/86329658488) on March 17th (Fri), 2023 11:00 AM (KST). Also, please RVSP to participate this event via [this Google form](https://forms.gle/nswBchuzdS4ApB6a9) by March 15th, 2023.
 
+You can find the slide for the online information session [here](https://drive.google.com/file/d/1KrhuNv3cJwjGtJrqLDFHf_a-1nQ80Te7/view?usp=share_link).
+
 ## 4. Application Frequently Asked Questions
 
 __(1) Can I apply to more than one Summer Institute location?__
