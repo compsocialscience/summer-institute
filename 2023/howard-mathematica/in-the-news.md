@@ -12,9 +12,9 @@ image: /assets/images/howard.jpg
 ---
 
 <u>Thanks to SICSS-H/M, the Future of Computational Social Science is Black Center for Global Development, DEI Speaker Series</u>
-<br><font color="grey"><font size="2">Feb 17, 2022</font></font> 
+<br><font color="grey"><font size="2">Feb 23, 2023</font></font> 
 <br><i><font size = "2">Drawing from SICSS-H/M experience, the presentation highlighted innovative methods to build and support underrepresented researchers in their strives to do social research on topics of pertinence to their communities.</font></i>
-<br><font size = "1">(Posted by <a href="https://www.methodspace.com/blog/timnit-gebru-phd-one-of-fortunes-top-25-leaders-in-the-world-delivers-keynote-address-for-sicss-howardmathematica-2021">Center for Global Development</a>)</font>
+<br><font size = "1">(Posted by <a href="https://www.cgdev.org/">Center for Global Development</a>)</font>
 
 <u>Howard University and Mathematica to Host Computational Social Science Institute: Program will continue its focus on countering anti-Black racism and inequity</u>
 <br><font color="grey"><font size="2">Jan 9, 2023</font></font> 
