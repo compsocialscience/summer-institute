@@ -5,6 +5,9 @@ partner_site: sydney
 
 # Apply
 
+**Update 3/20/23: SICSS-Sydney has been postponed, and will not take place during summer 2023. Please feel free to apply to other locations for this summer. Apologies for the inconvenience!**
+
+
 ## Eligibility
 
 We invite applications from PhD students, postdoctoral researchers and early career faculty within 5 years of PhD. Exceptional Master students in a research-track degree (e.g. MPhil) or those transitioning to a PhD program will also be considered. We are hoping to have wide participation from researchers from the humanities, social sciences and science backgrounds. There are no restrictions based on citizenship, residency status, or country of study/employment, but for this partner location in Sydney we will prioritise researchers based in Australia and New Zealand. About 25 participants will be invited, and participants are expected to fully attend, participate and engage in the entire program.
