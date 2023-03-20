@@ -10,6 +10,12 @@ image: /assets/images/howard.jpg
 <br />
 
 ---
+
+<u>Thanks to SICSS-H/M, the Future of Computational Social Science is Black</u>
+<br><font color="grey"><font size="2">Feb 23, 2023</font></font> 
+<br><i><font size = "2">Drawing from SICSS-H/M experience, the presentation highlighted innovative methods to build and support underrepresented researchers in their strives to do social research on topics of pertinence to their communities.</font></i>
+<br><font size = "1">(Posted by <a href="https://www.cgdev.org/"> the Center for Global Development</a>, DEI Speaker Series)</font>
+
 <u>Howard University and Mathematica to Host Computational Social Science Institute: Program will continue its focus on countering anti-Black racism and inequity</u>
 <br><font color="grey"><font size="2">Jan 9, 2023</font></font> 
 <br><i><font size = "2">Howard University and Mathematica are once again partnering on the only Summer Institute in Computational Social Science (SICSS) program hosted by a historically Black college or university.</font></i>

@@ -26,6 +26,14 @@ opening:
   title: Opening Plenary Speaker 
 
 
+motivational:
+  title: SICSS-Howard/Mathematica 2023 Motivational Speaker 
+  people:
+    - name: Henry C. McKoy, Jr., Ph.D.
+      image: /assets/images/Henry_McKoy.jpg
+      bio: "Dr. Henry C. McKoy, Jr. is the inaugural Director of the Office of State and Community Energy Programs (SCEP) in the United States Department of Energy. The newly created SCEP, within the Office of the Under Secretary for Infrastructure, manages $16 billion dollars in federal funding and supports the transition to an equitable clean energy economy by working with community-level implementation partners and State Energy Offices. SCEP manages the Weatherization Assistance Program, State Energy Program, Community Energy Programs, and Energy Future Grants. He is a seasoned professional in business, community and economic development, policy, government, finance, energy, philanthropy and the academic worlds. Prior to the Presidential appointment to the US DOE, Dr. McKoy served on the faculty at North Carolina Central University School of Business where he led the entrepreneurship program, with additional academic appointments at Duke, the UNC-Chapel Hill, and Harvard. He is a former senior banking executive, successful entrepreneur, and former Assistant Secretary of the NC Department of Commerce. Henry has been a Fellow of the Kenan Institute of Private Enterprise at UNC-Chapel Hill, an affiliated faculty of the Samuel DuBois Cook Center on Social Equity, as well as an Aspen Institute Scholar. McKoy has won many awards and honors. He has been a sought-after consultant by both government and private industry regarding inclusive entrepreneurship and economic development policy. He has also been an active economic development professional, focused on economic inclusivity in mixed-use real estate projects. He is a regular contributor to media – television, radio, and print. Dr. McKoy engages in over 120 media interviews annually with local, state, regional, national, and international media. He speaks on dozens of academic and public panels a year speaking on his research across the US, and publishes in peer-reviewed journals, as well as mass media publications. His most recent writing appears in the new book The Pandemic Divide: How Covid Increased Inequality in America (Duke University Press), where his chapter, Race, Entrepreneurship, and COVID-19: Black Small Business Survival in Prepandemic and Postpandemic America analyzes and speaks on the impact that COVID has had on the Black economic landscape. He holds degrees from UNC-Chapel Hill’s Kenan-Flagler Business School (B.S.), Duke’s Nicholas School of the Environment (M.S.), and UNC-Chapel Hill’s Department of City and Regional Planning with concentrations in Economic Development, Entrepreneurship, and Impact Economics and Investing (PhD)."
+      website: https://www.energy.gov/scep/person/henry-mckoy
+
 keynote:
   title: SICSS-Howard/Mathematica 2023 Keynote Speaker
 
@@ -117,6 +125,11 @@ lunchtime talks:
   title: Bite-Sized Lunchtime Talks
   people:
     
+    - name: Center for Global Development
+      image: /assets/images/CGD_logo-min.png
+      bio: "We work to reduce global poverty and improve lives through innovative economic research that drives better policy and practice by the world's top decision makers. We strive for excellence and intellectual rigor and believe global prosperity starts with smart policy based on evidence. Our work is nonpartisan and our recommendations are not influenced by our funders. We are willing to challenge powerful institutions and the status quo for better development practices. We are committed to transparency, diversity, and professional and personal integrity. We recognize the inherent dignity of all persons and pledge ourselves to creating and maintaining an environment that recognizes and respects diverse groups of individuals and their experiences. We value mutual respect, a collegial work place, and a healthy sense of humor."
+      website: https://www.cgdev.org/
+      
     - name: D-Lab
       image: /assets/images/D_Lab.jpg
       bio: "D-Lab 1) helps Berkeley graduate students, faculty, and staff move forward with world-class research in data intensive social science and humanities; 2) assists the Berkeley community with the full range of research development, research design and data acquisition. We offer guidance in statistical methods and results to data visualization and communication; 3) creates a learning community that teaches workshops and offers consultations." 
