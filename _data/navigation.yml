@@ -13,3 +13,5 @@
 - name: Apply
   type: "button"
   url: "/apply"
+- name: In the News
+  url: "/inthenews" 
