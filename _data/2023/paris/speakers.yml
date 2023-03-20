@@ -1,1 +1,24 @@
-- name:
+- name: Marie Bergström
+  image: /assets/images/marie_bergström.jpg
+  bio: Marie Bergström is a Permanent Researcher at the French National Institute for Demography. Her work deals with online dating which she investigates using digital data. 
+  website: https://www.ined.fr/en/research/researchers/Bergström+Marie
+  
+- name: Antonio Casilli
+  image: /assets/images/antonio_casilli.png
+  bio: Antonio Casilli is full professor of sociology at Telecom Paris and a researcher at the Interdisciplinary Institute on Innovation (i3), an institute of the French CNRS. His research focuses on social networks, digital platforms, digital labor and privacy.
+  website: https://casilli.fr/
+  
+- name: Laura K. Nelson
+  image: /assets/images/LauraNelson.jpg
+  bio: Laura Nelson is an Assistant Professor of Sociology at the University of British Columbia. In her research, she uses computational methods to study social movements, culture, gender, institutions, and the history of feminism.
+  website: https://www.lauraknelson.com
+  
+- name: Juan Pablo Pardo-Guerra
+  image: assets/images/juan_pablo_pardo_guerra.png
+  bio: Juan Pablo Pardo-Guerra is an Associate Professor at the University of California, San Diego. His research concerns markets and their location in contemporary societies with an emphasis on finance, knowledge, and organizations. 
+  website: https://pardoguerra.org
+  
+- name: Paola Tubaro
+  image: /assets/images/paola_tubaro.jpg
+  bio: Paola Tubaro is CNRS Senior Research Fellow at the Laboratoire Interdisciplinaire des Sciences du Numérique (LISN). Her research focuses on the digital platform economy, the global supply networks of the artificial intelligence industry, the role of human labour in the development of automation, and inequalities in access to data. 
+  website: https://databigandsmall.com/

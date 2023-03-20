@@ -5,11 +5,11 @@ partner_site: accra
 
 # Apply
 
-Participation is open to master’s and PhD students, postdoctoral researchers, untenured faculty within five years of their PhD. There are no restrictions based on citizenship, country of study, or employment, but we will prioritise applicants from African countries. There is no registration fee for participating in SICSS-Accra, and most of the costs will be covered. The language of instruction will be English.
+Participation is open to PhD students, postdoctoral researchers, untenured faculty within five years of their PhD. There are no restrictions based on citizenship, country of study, or employment, but we will prioritise applicants from African countries. There is no registration fee for participating in SICSS-Accra, and most of the costs will be covered. The language of instruction will be English.
 
 We welcome applicants from all backgrounds, fields of study, and countries within Africa. We strongly encourage women and other minority groups to apply. About 20 participants will be invited, and participants are expected to fully attend, participate, and engage in the entire program.
 
-Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute. Participants with less coding experience will be expected to complete a set of online learning modules on the R programming language. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours two months before the Institute.
+Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute. Participants with less coding experience will be expected to complete a set of online learning modules on the R programming language. Students requiring this preparatory work will be supported by a teaching assistant who will hold online office hours two months before the Institute.
 
 Applications will be evaluated based on: 
 -	Applicant’s professional and research experience. Preference will be given to postgraduate students and researchers/academics within five years of their PhD.
@@ -26,7 +26,7 @@ Applicants must submit the following documents:
 -	A motivation letter (max two pages) describing why do you wish to attend SICSS-Accra, your current research interests, future plans and how these intersect with the goals of this partner location.
 -	A supporting letter from a supervisor/head of department/line manager/mentor that can attest to applicant's competence/potential and availability.
 
-We will formally start receiving applications from 27 January 2023 until **17 March 2023**. In order to be guaranteed full consideration, all application materials must be submitted online via <a href="https://forms.gle/QUVcagQyFHucGoMD6" target="_blank">https://forms.gle/QUVcagQyFHucGoMD6</a>. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by **10 April 2023** and ask participants to confirm their participation soon after.
+We will formally start receiving applications from 27 January 2023 until **<s>March 18</s> March 31, 2023**. In order to be guaranteed full consideration, all application materials must be submitted online via <a href="https://forms.gle/QUVcagQyFHucGoMD6" target="_blank">https://forms.gle/QUVcagQyFHucGoMD6</a>. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by **<s>April 10</s> April 17, 2023** and ask participants to confirm their participation soon after.
 
 Inquiries can be sent to <a href="mailto:sicss@rips-ug.edu.gh" target="_blank">sicss@rips-ug.edu.gh</a>
 
@@ -35,7 +35,7 @@ Inquiries can be sent to <a href="mailto:sicss@rips-ug.edu.gh" target="_blank">s
 
 ### Who can apply?
 
-The summer institute is targeted at doctoral students, post-docs, and early career researchers interested in applying computational methods to solve pressing challenges on the African continent. Given the limited amount of funding available, we will only select excellent candidates with the potential to make the most out of the programme and candidates who have the potential to advance the field of computational social science on the African continent.
+The summer institute is targeted at doctoral students, post-docs, and early career researchers interested in applying computational methods to address critical challenges on the African continent. Given the limited amount of funding available, we will only select excellent candidates with the potential to make the most out of the programme and candidates who have the potential to advance the field of computational social science on the African continent.
 
 ### What is the level of the summer institute?
 
@@ -56,4 +56,4 @@ Yes, but not at the same time. For example, you can apply to SICSS-Accra, and th
 
 #### Can I participate in SICSS-Accra if I have already participated in SICSS at another location?
 
-No. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
+No. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once.

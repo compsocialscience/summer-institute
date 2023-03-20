@@ -1,6 +1,7 @@
 faculty:
   title: Faculty
   people:
+  
     - name: Carsten Schwemmer
       image: /assets/images/cschwemmer_portrait.jpg
       bio: "Carsten Schwemmer is a Professor of Sociology and Computational Social Sciences at the University of Munich. His work focuses on applying computational methods to interdisciplinary research in areas such as ethnic minority & gender studies, digital media, political sociology, and sociotechnical systems. He is particularly interested in methods related to natural language processing, image recognition, data mining, and network analysis."
@@ -15,3 +16,27 @@ faculty:
       image: /assets/images/awuttke_portrait.jpg
       bio: "Alexander Wuttke is the Juniorprofessor of Digitalization and Political Behavior at Ludwig Maximilian University of Munich. His research crosses disciplinary boundaries to explore democratic backsliding from the perspective of ordinary citizens. He is an advocate of Open Science practices and currently serves as the Journal of Politics’ Special Editor for Registered Reports."
       website: https://www.gsi.uni-muenchen.de/lehreinheiten/ls-wuttke/index.html
+      
+speakers: 
+  title: Guest Speakers
+  people:
+  
+    - name: Andreas Jungherr
+      image: /assets/images/andreas_jungherr.jpeg
+      bio: "Andreas Jungherr holds the Chair for Governance of Complex and Innovative Technological Systems at the Institute for Political Science at the University of Bamberg. He studies the impact of digital media and artificial intelligence on politics and society. He has worked on the uses of digital media and technology by publics, political actors, and organizations in international comparison. He also addresses challenges for scientific research in realizing the potential of digital methods and computational social science while addressing methodological challenges in its integration into the social sciences. He is author of the books 'Digital Transformations of the Public Arena' (with Ralph Schroeder, 2022) and 'Retooling Politics: How Digital Media are Shaping Democracy' (with Gonzalo Rivero & Daniel Gayo-Avello, 2020)."      
+    
+    - name: Frauke Kreuter
+      image: /assets/images/frauke_kreuter.png
+      bio: "Frauke Kreuter holds the Chair of Statistics and Data Science at LMU Munich, Germany and at the University of Maryland, USA, she is Co-director of the Social Data Science Center (SoDa) and faculty member in the Joint Program in Survey Methodology (JPSM). She is an elected fellow of the American Statistical Association, and received the Warren Mitofsky Innovators Award of the American Association for Public Opinion Research in 2020. In addition to her academic work, Professor Kreuter is the Founder of the International Program for Survey and Data Science (IPSDS), o-Founder of the Coleridge Initiative, and Co-Founder of the German language podcast Dig Deep."
+      
+    - name: Jürgen Pfeffer
+      image: /assets/images/juergen_pfeffer.jpg
+      bio: "Jürgen Pfeffer is Professor of Computational Social Science at the Technical University of Munich. His research focuses on the analysis of large and dynamic socio-technical systems as well as the methodological, algorithmic and theoretical challenges that arise from these analyses. Pfeffer's research falls at the intersection of social and computer sciences."
+
+    - name: Stefanie Walter
+      image: /assets/images/Walter_Stefanie.jpg
+      bio: "Stefanie Walter is Emmy Noether Fellow at the Department of Governance, Technical University of Munich, where she directs the research group ‘The media portrayal of majority and minority groups’. Her methodological focus is on quantitative methods and computational social science with a special interest in automated text and image analysis. Stefanie’s substantive research interests are in the area of political, climate and science communication. Together with her team she uses large scale text and image data to explore how the news media report on social groups based on nationality, gender, disability, religion, and sexual orientation, as well as the visual representation of climate change on social media. Stefanie holds a PhD in Political Science from the University of Mannheim and has previously worked as researcher at the University of Bremen's the Centre for Media, Communication and Information Research, the Institute of Journalism and Communication at the University of Hamburg, and the Mannheim Center for European Social Research."
+      
+    - name: Franziska Weeber
+      image: /assets/images/franziska_weeber.png
+      bio: "Franziska Weeber is a co-founder at textada, a machine learning-powered text annotation tool. Her work focuses on natural language processing and deep learning in low-resource social science applications. After her M.Sc. degree in Social and Economic Data Science, she held an Exist business start-up grant and was a research assistant at the University of Konstanz and the Heidelberg Academy of Sciences."

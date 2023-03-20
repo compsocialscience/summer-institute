@@ -1,1 +1,14 @@
-- name: 
+- name: Jacob Habinek
+  image: /assets/images/ias_jacob_habinek.jpeg
+  bio: Jacob Habinek is an associate professor at the Institute for Analytical Sociology and director of the Swedish Interdisciplinary Research School in Computational Social Science.  A computational and economic sociologist by training, his interests include the sociology of markets, science, and culture. His empirical research centers on the development of scientific disciplines, the dynamics of financial markets, and the selection of Nobel Prize laureates.
+  website: https://www.jacobhabinek.net/
+  
+- name: Anastasia Menshikova
+  image: /assets/images/ias_anastasia_menshikova.jpeg
+  bio: Anastasia Menshikova is a PhD student at the Institute for Analytical Sociology in Norrköping, Sweden. Her research focuses on discovering and explaining inequalities, biases, and discriminatory practices using textual digital traces. Besides that, she is interested in social and cultural change - how changes in individual opinions, beliefs and meanings lead to shifts at a collective level. She is generally curious about using computational text analysis to answer sociological questions.
+  website: https://liu.se/en/employee/aname20
+  
+- name: Elis Carlberg Larsson
+  image: /assets/images/ias_elis_carlberg_larsson.jpeg
+  bio: Elis Carlberg Larsson is a PhD student at the Institute for Analytical Sociology. In his research, he utilizes computational techniques, such as text analysis, agent-based modeling, and machine learning to analyze large-scale datasets, including Swedish register data and newspaper data. The aim of these analyses is to investigate various social mechanisms that operate in social systems.
+  website: https://liu.se/en/employee/elica96

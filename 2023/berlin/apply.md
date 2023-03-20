@@ -7,11 +7,11 @@ partner_site: berlin
 
 ## Eligibility
 
-Participation is restricted to 15. However, there are no restrictions based on citizenship, country of study, or country of employment. About 15 participants will be invited.
+We will invite about 15 participants. There are no restrictions based on citizenship, country of study, or country of employment.
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours during the two months before the Institute.
 
-We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
+We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
 
 ## How To Apply
 
@@ -21,9 +21,9 @@ Applicants must submit the following documents:
 
 2) Your most recent CV
 
-**In order to be guaranteed full consideration, all application materials must be submitted by March 31, 2023.** All application materials must be submitted through <sicss.2023@wzb.eu>. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 20, 2023, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by March 31, 2023.** All application materials must be submitted via our [LimeSurvey](https://poll.wzb.eu/index.php/613839?lang=en). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 20, 2023, and will ask participants to confirm their participation very soon thereafter.
 
-Inquiries can be sent to <sicss.2023@wzb.eu>.
+If you have any questions, feel free to contact us at <sicss.2023@wzb.eu>.
 
 ## Application Frequently Asked Questions
 

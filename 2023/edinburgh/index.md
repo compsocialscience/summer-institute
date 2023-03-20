@@ -7,6 +7,7 @@ image: /assets/images/edinburgh.jpg
 
 From June 12 to June 23, 2023, the Social Data Science Hub at the University of Edinburgh will host the Summer Institute in Computational Social Science, to be held **in person** at the University of Edinburgh. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and early career researchers interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived). This partner site is being led by [Christopher Barrie](https://www.cjbarrie.com/), [Tod Van Gunten](https://todvangunten.com/), and [Aybuke Atalay](https://www.sps.ed.ac.uk/staff/aybuke-atalay).
 
+## Program 
 The provisional instructional program includes lectures and workshops on the following topics:
     
 - Reproducible workflows, data carpentry;
@@ -19,6 +20,12 @@ The provisional instructional program includes lectures and workshops on the fol
 - Machine learning and prediction
 
 There will also be outside speakers who conduct computational social science research in a variety of settings, such as academia, industry, and government. There will be ample opportunities for students to discuss their ideas and research with the organizers, other participants, and visiting speakers. The second week is devoted to group projects during which participants will be able to work in small teams to produce a piece of computational research. Because we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute will be released open source.
+
+### Supervised projects
+
+This year we are innovating on the second week group work normally conducted by participants. In addition to this, participants will also have the chance to work on a set of pre-specified topics and datasets set by the instructors and/or speakers at SICSS-Edinburgh. This will give participants to work under the direct supervision of an established computational social scientist---and a chance potentially to publish something!
+
+## Eligibility
 
 Participation is generally restricted to postgraduate research, doctoral, post-doctoral, and early-career researchers (PhD +7). We will nonetheless consider applications from outstanding undergraduates. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. From 20-25 participants will be invited, and participants are expected to fully attend and participate in the entire two-week program.
 
