@@ -10,8 +10,8 @@
   url: "/festival"
 - name: About
   url: "/about"
+- name: In the News
+  url: "/in-the-news" 
 - name: Apply
   type: "button"
   url: "/apply"
-- name: In the News
-  url: "/inthenews" 
