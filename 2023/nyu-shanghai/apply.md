@@ -17,7 +17,7 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 Applicants must submit the following documents: 1) A cover letter that summarizes your research interests, your CSS background, and potential contributions to the event (in English, 300-500 words); 2) Your CV (in English); 3) A publication or writing sample that best represents your research around computational social science (English prefered). All documents should be combined into a single PDF, named as "NYU-Shanghai-Your First Name-Last Name.pdf"
 
-**In order to be guaranteed full consideration, all application materials must be submitted by 11:59 pm on May 5, 2023 (Beijing time).** All application materials must be submitted through [Google Form](https://forms.gle/fVm6ZprMH3AXBMZg9). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by shanghai.caser@nyu.edu, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by 11:59 pm on May 20, 2023 (Beijing time).** All application materials must be submitted through [Google Form](https://forms.gle/fVm6ZprMH3AXBMZg9). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by shanghai.caser@nyu.edu, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to shanghai.caser@nyu.edu.
 
