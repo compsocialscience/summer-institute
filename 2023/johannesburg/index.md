@@ -14,7 +14,7 @@ The instructional program will involve lectures, group problem sets and particip
 
 Participation is restricted to **registered masters and doctoral students, postdoctoral, early career and independent researchers**. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 15 - 20 participants will be invited, and participants are expected to fully attend and participate in the entire two week program.
 
-Application materials are due 11:59pm SAST (GMT+2) on Friday, 31 March, 2023
+Application materials are due 11:59pm SAST (GMT+2) on ~~Friday, 31 March, 2023~~ Friday 21 April, 2023.
 
 Follow us on [twitter](https://twitter.com/sicss_jhb) and [instagram](https://www.instagram.com/sicss.johannesburg/).
 
