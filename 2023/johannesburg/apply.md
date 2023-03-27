@@ -20,7 +20,7 @@ Applicants must submit the following documents:
 1. Curriculum Vitae
 2. Motivation (write as much and be as creative as you want)
 
-**In order to be guaranteed full consideration, all application materials must be submitted by 11:59pm (SAST) Friday 31 March, 2023.** All application materials must be submitted through the [SICSS-Johannesburg application form](https://forms.gle/TG88wL1iJZqNZfgC6). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by end of April 2023 and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by 11:59pm (SAST) ~~Friday 31 March, 2023~~ Friday 21 April 2023.** All application materials must be submitted through the [SICSS-Johannesburg application form](https://forms.gle/TG88wL1iJZqNZfgC6). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by end of April 2023 and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to [sicss.johannesburg@gmail.com](mailto:sicss.johannesburg@gmail.com).
 
