@@ -19,7 +19,7 @@ Applicants should submit the following documents via [Google Form](https://forms
 
 (i) a curriculum vitae; 
 
-(ii) a statement of interest (maximum two pages) describing your interest in computational social science; 
+(ii) research statement (maximum two pages) describing your interest in computational social science; 
 
 (iii) personal statement (maximum 1000 words) including any economic, cultural, and/or social experiences, and/or community service that shaped your interest in computational social science, your desire to attend the SICSS at NYU Silver, and how you intend to apply your experience after the Summer Institute. 
 
