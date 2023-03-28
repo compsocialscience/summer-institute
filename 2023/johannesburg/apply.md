@@ -9,7 +9,7 @@ partner_site: johannesburg
 
 Participation is restricted to registered masters and doctoral students, postdoctoral, early career and independent researchers. However, there are no restrictions based on citizenship, country of study or country of employment. About 15 to 20 participants will be invited.
 
-The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute and participants with less experience coding will be expected to complete the SICSS boot camp and attend compulsory group office hours. Students doing this preparatory work will be supported by a teaching assistant who will hold online group office hours during the June month before the Institute.
+The Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute and participants with less experience coding will be expected to complete the SICSS boot camp and attend compulsory group office hours. Students doing this preparatory work will be supported by a teaching assistant who will hold online group office hours during the June month before the Institute.
 
 We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
 
@@ -26,7 +26,7 @@ Inquiries can be sent to [sicss.johannesburg@gmail.com](mailto:sicss.johannesbur
 
 ## Application Frequently Asked Questions
 
-#### Can I apply to more than one Summer Institute location?
+#### Can I apply to more than one Institute location?
 
 Yes, but not at the same time. For example, you can apply to SICSS-Johannesburg, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.
 
