@@ -11,6 +11,6 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is restricted to graduate students, postdoctoral researchers, and early career faculty. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 25 participants will be invited, and participants are expected to fully attend and participate in the entire one-week program (**in person**). This event is free of charge. The participants are expected to cover their own travel and accommodation expenses during this event. **But CASER will provide scholarships for up to 10 participants to subsidize their lodging expenses. All participants will receive some meal allowances.**
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2023/nyu-shanghai/apply) are due 1:59 pm on May 5, 2023 (Beijing time).
+[Application materials](https://compsocialscience.github.io/summer-institute/2023/nyu-shanghai/apply) are due 1:59 pm on May 20, 2023 (Beijing time).
 
 For any questions, please contact us at shanghai.caser@nyu.edu

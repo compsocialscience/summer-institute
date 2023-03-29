@@ -26,12 +26,17 @@ speakers:
       image: /assets/images/Minerva_Tantoco.jpeg
       bio: "Minerva Tantoco is an Innovator, investor, startup founder, author, advisor, and speaker on Ethical AI, cybersecurity, fintech and healthtech. Tantoco served as New York City’s first-ever Chief Technology Officer (CTO). Based on her efforts, New York City was named \"2016 Best Smart City\" and helped launch initiatives such as LinkNYC, CSforAll, and Internet of Things Guidelines, as well as promoting an inclusive, equitable tech ecosystem. Ms. Tantoco also served as Senior Product Manager at Palm, Chief Technology Officer at Merrill Lynch and UBS, and holds four US patents on intelligent workflow. Tantoco serves as a Trustee of the New York Hall of Science (nysci.org), Board of Directors, Vyv, Board Advisor to One Creation Embedded Privacy and Socure, and is currently Chief AI Officer at NYU McSilver Institute."
       website: https://mcsilver.nyu.edu/bio/minerva-tantoco/
-      
+
     - name: Rumi Chunara
       image: /assets/images/Rumi_Chunara.png
       bio: "Rumi Chunara, PhD is an Associate Professor at NYU, where she directs the Center for Health Data Science. She is jointly appointed at the School of Global Public Health (in Biostatistics) and the Tandon School of Engineering (in Computer Science). Dr. Chunara's research focuses on developing computational and statistical approaches for acquiring, integrating and using data to improve population and public health. With her focus on public health, Dr. Chunara’s work covers individual, collective, environmental, and organizational factors that impact human populations. Her interdisciplinary approach incorporates data from social media, mobile phones, and other sources to address public health challenges and advance computer science."
       website: http://rumichunara.github.io/
-
+      
+    - name: Ravi Shroff
+      image: /assets/images/Ravi_Shroff.png
+      bio: "Ravi Shroff, PhD is an Assistant Professor at the Department of Applied Statistics, Social Science, and Humanities (﻿AS﻿H) at New York University's Steinhardt School, with an affiliated appointment at New York University's Center for Urban Science and Progress (CUSP). He is an affiliated researcher at the Stanford Computational Policy Lab, and a member of the Machine Learning for Good Lab at NYU. His interests are broadly related to computational social science, and in particular the development and application of statistical methods to measure and improve the equity and efficiency of decision-making."
+      website: http://www.rshroff.com/
+      
     - name: Alicia Boyd
       image: /assets/images/Alicia_Boyd.jpeg
       bio: "Alicia Boyd is a Postdoctoral Researcher at NYU PRIISM Center and a Quantitative Reflexive Intersectional Researcher. She is an expert in developing workflows, locating data from the margins, and bringing it into central focus while navigating data-centric processes. In addition, she brings an encyclopedic knowledge about the history, theoretical frameworks, and reflexive-intersectional methodological applications and the opportunities and challenges of applying it within quantitative domains."

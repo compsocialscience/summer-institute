@@ -1,1 +1,12 @@
-- name:
+- name: "Zhi Li"
+  image: /assets/images/zhi_li_nyush.jpg
+  bio: "Zhi Li is a PhD student in the Center for Applied Social and Economic Research (CASER) at NYU Shanghai and in the Department of Sociology at New York University. His research focuses on social inequality, networks and organizations, life course, and computational social science. He tries to analyze how social networks and organizations can shape social inequality across people’s life course and during social changes. His work has appeared in International Journal for Equity in Health, Social Psychiatry and Psychiatric Epidemiology, and Social Indicators Research."
+  website: https://caser.shanghai.nyu.edu/people/zhili/
+
+- name: "Conor McCutcheon"
+  image: /assets/images/conor_mccutcheon_nyush.jpg
+  bio: "Conor McCutcheon is a PhD student at the Center for Applied Social and Economic Research (CASER) at NYU Shanghai and the Department of Sociology at NYU. His research interests include social stratification, educational inequality, and social networks. His work focuses on the impact rapid economic development can have on social structure, particularly elite formation."
+  website: https://caser.shanghai.nyu.edu/people/conor-mccutcheon/
+
+
+
