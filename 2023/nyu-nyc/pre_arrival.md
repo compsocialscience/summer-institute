@@ -67,4 +67,4 @@ Many participants at SICSS use GitHub to collaborate. If you do not yet have one
 
 ## Office hours
 
-The SICSS-NYU Silver 2023 [organizers](https://sicss.io/2022/NYU Silver/people#teaching_assistants) will host office hours in the SICSS 2023 Slack. You can find information about the office hours in the SICSS 2023 Slack channel at #sicss-nyu-silver-officehours.
+The SICSS-NYU Silver 2023 [organizers](https://sicss.io/2023/nyu-nyc/people#teaching_assistants) will host office hours in the SICSS 2023 Slack. You can find information about the office hours in the SICSS 2023 Slack channel at #sicss-nyu-silver-officehours.
