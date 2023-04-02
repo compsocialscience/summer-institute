@@ -24,8 +24,10 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 Applicants must submit the following documents:
 
 -1) A C.V.
--2) A brief statement about why you wish to attend SICSS-Calabar (Not more than 500 words), and 
--3) A supporting letter from a supervisor/head of department/line manager/mentor that can attest to applicant's competence/potential and availability.
+-2) A brief statement about why you wish to attend SICSS-Calabar (Not more than 500 words),
+-3) Share a writing sample (this could be any piece of writing you own. Published or unpublished)
+-4) A supporting letter from a supervisor/head of department/line manager/mentor that can attest to applicant's competence/potential and availability.
+
 
 **In order to be guaranteed full consideration, all application materials must be submitted by <s>March 5</s> April 21, 2023.** All application materials must be submitted through the hyperlinked online Form. Begin your application by clicking<a href='https://www.cognitoforms.com/AcademicHive/sicsscalabarapplicationform'> APPLY</a> . Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 26, 2023, and will ask participants to confirm their participation very soon thereafter.
 
