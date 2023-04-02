@@ -11,4 +11,4 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is restricted to Postgraduate students (MSc, Ph.D.), early-career University Faculty, and Industry Professionals with an interest in applying data science techniques to addressing pressing social problems. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 20 participants will be invited, and participants are expected to fully attend and participate in the entire two-week program.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2023/calabar/apply) are due March 5, 2023.
+**[Application materials](https://compsocialscience.github.io/summer-institute/2023/calabar/apply) are due by <s>March 5</s> April 21, 2023.**
