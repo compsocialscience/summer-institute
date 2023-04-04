@@ -12,7 +12,8 @@ layout: about
 
 <u>Newhouse Postdoctoral Scholar to Co-Lead Summer Institute</u>
 <br><font color="grey"><font size="2">March 16, 2023</font></font> 
-<font size = "1">(Posted by <a href="https://news.syr.edu/blog/2023/03/16/newhouse-postdoctoral-scholar-to-co-lead-summer-institute/">Syracuse University News</a>)</font>
+<font size = "2">(Posted by <a href="https://news.syr.edu/blog/2023/03/16/newhouse-postdoctoral-scholar-to-co-lead-summer-institute/">Syracuse University News</a>)</font>
+<br>
 
 
 #### 2022 
