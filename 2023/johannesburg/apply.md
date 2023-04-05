@@ -20,7 +20,7 @@ Applicants must submit the following documents:
 1. Curriculum Vitae
 2. Motivation (write as much and be as creative as you want)
 
-**In order to be guaranteed full consideration, all application materials must be submitted by 11:59pm (SAST) ~~Friday 31 March, 2023~~ Friday 21 April, 2023.** All application materials must be submitted through the [SICSS-Johannesburg application form](https://forms.gle/TG88wL1iJZqNZfgC6). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by end of April 2023 and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by 11:59pm (SAST) ~~Friday 31 March, 2023~~ Friday 21 April, 2023.** All application materials must be submitted through the [SICSS-IPATC application form](https://forms.gle/TG88wL1iJZqNZfgC6). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by end of April 2023 and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to [malebog@uj.ac.za](mailto:malebog@uj.ac.za).
 
@@ -28,8 +28,8 @@ Inquiries can be sent to [malebog@uj.ac.za](mailto:malebog@uj.ac.za).
 
 #### Can I apply to more than one Institute location?
 
-Yes, but not at the same time. For example, you can apply to SICSS-Johannesburg, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.
+Yes, but not at the same time. For example, you can apply to SICSS-IPATC, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.
 
-#### Can I participate in SICSS-Johannesburg if I have already participated in SICSS at another location?
+#### Can I participate in SICSS-IPATC if I have already participated in SICSS at another location?
 
 No. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
