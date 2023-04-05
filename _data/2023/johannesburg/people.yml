@@ -2,5 +2,27 @@ organisers:
   title: Organiser
   people:
     - name: malebo sephodi
-      image: /assets/images/jias_malebo.jpg
+      image: /assets/images/2023/johannesburg/malebo.jpg
       bio: "malebo sephodi (she/they) is a South African Feminist writer and interdisciplinary scholar. She is a non-resident fellow at IPATC, University of Johannesburg and a doctoral candidate in the Information Systems Department at the University of Cape Town. She is interested in the intersections of society and digital technology." 
+
+facilitators:  
+  title: Faculty
+  people:
+    - name: Odilile Ayodele
+      image: /assets/images/2023/johannesburg/placeholder.png
+      bio: "Dr Odilile Ayodele is a Senior Researcher at the Institute for Pan-African Thought and Conversation (IPATC). She holds a D.Litt. et Phil in Political Studies at the University of Johannesburg (UJ), and obtained her BA, BA (Hons), an MA in International Relations from the University of the Witwatersrand in South Africa. She completed a Postdoctoral Research Fellowship at the South African Research Chair: African Diplomacy and Foreign Policy at UJ. Odilile is currently the convenor of the South African Association of Political Studies (SAAPS) research committee on international relations and diplomacy, an associate editor and book review editor of the Journal of BRICS Studies, as well as the book review editor of the African Journal of Political Science.  Her current research projects centre on Global Technopolitics including, the international relations of technology, and digital diplomacy in Africa."
+    
+speakers:
+  title: Speakers
+  people:
+
+participants:
+  title: Participants
+  people:
+
+interns:  
+  title: Interns
+  people:
+    - name: Blessing Mbalaka
+      image: /assets/images/2023/johannesburg/placeholder.png
+      bio: "Mr Blessing Mbalaka is a Junior Researcher at the Institute for Pan-Afrian Thought and Conversation. He holds an honours degree in Development Studies and majored in Anthropology, Development Studies and Public Management and Governance at the University of Johannesburg. Additionally, Blessing is a current MA candidate in development studies and has research interests in blockchain technology and AI. He is particularly interested in a critical outlook on the role and social impact these technologies can play in circumventing/causing social issues. He is an avid user of API usage and Algorithmic Auditing." 
