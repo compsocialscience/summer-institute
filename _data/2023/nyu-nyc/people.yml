@@ -28,9 +28,14 @@ speakers:
       website: https://mcsilver.nyu.edu/bio/minerva-tantoco/
 
     - name: Rumi Chunara
+      image: /assets/images/ConstantineKontokosta.png
+      bio: "Constantine E. Kontokosta, PhD, is an Associate Professor of Urban Science and Planning and Director of the Civic Analytics program at the NYU Marron Institute of Urban Management. He also directs the Urban Intelligence Lab and holds cross-appointments at the Center for Urban Science and Progress (CUSP) and the Department of Civil and Urban Engineering (CUE). He is affiliated faculty at the Wagner School of Public Service. Previously, he served as the inaugural Deputy Director of CUSP and Assistant Professor of Urban Informatics at CUSP and CUE, where he was part of the Center’s founding leadership team and designed, launched, and directed one of the first graduate programs in urban informatics."
+      website: http://rumichunara.github.io/
+      
+    - name: Constantine E. Kontokosta
       image: /assets/images/Rumi_Chunara.png
       bio: "Rumi Chunara, PhD is an Associate Professor at NYU, where she directs the Center for Health Data Science. She is jointly appointed at the School of Global Public Health (in Biostatistics) and the Tandon School of Engineering (in Computer Science). Dr. Chunara's research focuses on developing computational and statistical approaches for acquiring, integrating and using data to improve population and public health. With her focus on public health, Dr. Chunara’s work covers individual, collective, environmental, and organizational factors that impact human populations. Her interdisciplinary approach incorporates data from social media, mobile phones, and other sources to address public health challenges and advance computer science."
-      website: http://rumichunara.github.io/
+      website: https://engineering.nyu.edu/faculty/constantine-kontokosta
       
     - name: Ravi Shroff
       image: /assets/images/Ravi_Shroff.png
@@ -40,7 +45,7 @@ speakers:
     - name: Sadiq Patel
       image: /assets/images/SadiqPatel.jpeg
       bio: "Sadiq Patel, PhD is a data scientist and health technologist with experience in health AI, health data, and health economics. He currently works at Waymark, a health technology startup, where he leads a team that designs, builds, and deploys AI-informed data science products to improve care delivery for people receiving Medicaid. Sadiq has held research fellowships at Harvard Medical School and Microsoft AI for Good, worked as a senior product manager and team lead at Accenture, and taught through Teach for America. He holds a PhD and MS in Social Policy and Biostatistics from The University of Chicago and an MSW from the University of Michigan. He is also an Adjunct Professor at the University of Pennsylvania, teaching graduate level machine learning courses."
-      website: http://www.rshroff.com/
+      website: https://www.linkedin.com/in/patelsadiq
       
     - name: Alicia Boyd
       image: /assets/images/Alicia_Boyd.jpeg
