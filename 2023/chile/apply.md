@@ -20,7 +20,7 @@ Applicants must (i) submit their curriculum vitae and (ii) fill out a form descr
 
 
 **In order to be guaranteed full consideration, all application materials must be submitted by Friday, April 28, 2023 at 11:59 CLT**.  All application materials must be submitted through [this form](https://docs.google.com/forms/d/e/1FAIpQLSfylTVk_vJDevsuhfvBkA1IQGJwhDgDBeFGT49fjS_I1hIdxA/viewform)
-. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by Monday, May 19, 2023, and will ask participants to confirm their participation very soon thereafter.
+. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by June and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to [sicss.chile@gmail.com](sicss.chile@gmail.com)
 
