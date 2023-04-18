@@ -1,1 +1,75 @@
-- name:
+- name: "Thomas Chamberlain"
+  image: /assets/images/thomas_chamberlain.jpg
+  bio: "Thomas is pursuing a PhD in political science at the University of Rochester. His research uses quantitative methods with a focus on causal inference to study how historical events, institutions, and policies shape contemporary electoral competition in American politics. Previously, he studied political philosophy at Stanford University and worked in NYC politics."
+  website: https://thomasc23.github.io/website/
+  
+- name: "Yuen Ng Du"
+  image: /assets/images/yuen_ng_du.jpg
+  bio: "Yuen Ng (Aaron) Du is a graduating undergraduate at University of Rochester. Soon, he is joining Washington University in St. Louis as a PhD student in Political Science. His research interest concerns racial inequality and local politics in U.S. through statistical and computational methods."
+  website: https://www.linkedin.com/in/yuen-ng-du-wyi529/
+
+- name: "Olympia Mathiaparanam"
+  image: /assets/images/olympia_mathiaparanam.jpeg
+  bio: "Olympia Mathiaparanam is a PhD student in the Department of Brain and Cognitive Sciences at the University of Rochester. Her research examines how students learn fundamental STEM concepts. She uses developmental, cognitive, and computational methods to investigate her questions, and she is interested in how her research can help educators improve their instructional resources. Her most recent project applies the Markov Chain Monte Carlo method to better understand how students reason about variability in biological categories. Olympia holds a Bachelor of Science in psychology and biology from the University of Wisconsin-Madison."
+  website: https://www.linkedin.com/in/olympia-mathiaparanam-69765766
+  
+- name: "Emily McKinley"
+  image: /assets/images/emily_mckinley.jpg
+  bio: "Emily is a doctoral student at the University of California, Davis. Her research interests broadly encompass persuasion in health and political contexts, misinformation, and social influence processes. She is particularly interested in identifying and developing strategies to mitigate the spread of misinformation, as well as examining the the influence of social networks on health behaviors and attitudes. Prior to academia, she spent six years working as an operations, data analytics, and customer experience professional."
+  website: https://www.linkedin.com/in/emilykmckinley/
+  
+- name: "Eunseong Oh"
+  image: /assets/images/eunseong_oh.jpeg
+  bio: "Eunseong Oh is a doctoral student in Political Science at the University of California, Riverside. She studies American Politics and Mass Political Behavior, with a focus on deliberation and ideological polarization. Her current research applies network analysis to explore if and why politicians cooperate despite conflicting interests. "
+  website: https://www.linkedin.com/in/eunseong-oh-51732512b/
+  
+- name: "Md Mamunur Rashid"
+  image: /assets/images/md_mamunur_rashid.jpeg
+  bio: "Md Mamunur Rashid is a Ph.D. student in the Teaching, Curriculum, and Change program at the Warner School of Education, University of Rochester. He also works as a graduate assistant at the Center for Learning in the Digital Age (LiDA) at Warner. Previously, Mamunur attended the Fulbright Foreign Language Teaching Assistant program in 2017-18 at New York University, New York. His research interests include immersive learning, multimodal learning, cinematic films as a pedagogical tool, and artificial intelligence in education. Mamunur is also a photographer and a video maker."
+  website: https://www.linkedin.com/in/opumrshid/
+  
+- name: "Adam Roberts"
+  image: /assets/images/adam_roberts.jpeg
+  bio: "Adam Roberts is a Ph.D. student in Political Science at the University of Rochester. Adam's research interests lie in the areas of political economy and comparative politics. Specifically, his work examines corruption, inequality, and democratic erosion in developing countries. Previously, Adam received his B.A. from Brigham Young University with a double major in Political Science and Economics."
+  website: https://www.linkedin.com/in/adam-roberts-2017a3114/
+
+- name: "Monique Santoso"
+  image: /assets/images/monique_santoso.jpeg
+  bio: "Monique Santoso currently develops and evaluates cross-cultural health equity education programs to reduce discrimination, as well as conducting public health and neuroscience-informed legal research for state-level legislative action to create a safer cyberspace for children at the Harvard Chan School of Public Health and Boston Children’s Hospital. She is an incoming doctoral student in Communication at Stanford University, where her research will focus on how virtual reality (VR) influences learning, cognition, and behavior across ages, and how interactivity, vividness, and personalization of VR experiences shape climate change responses and partisan attitudes."
+  website: https://www.linkedin.com/in/mtsantoso/
+  
+- name: "Shirin Sultana"
+  image: /assets/images/shirin_sultana.jpeg
+  bio: "Shirin Sultana, Ph.D., is an Assistant Professor at the State University of New York-Brockport Department of Social Work. Dr. Sultana earned her Ph.D. from the Howard University School of Social Work, and MSSW from the University of Texas at Austin School of Social Work. Her research focuses on social support, coping and mental health of vulnerable and poor women. Dr. Sultana continues to publish and present at conferences both nationally and internationally."
+  website: https://www.linkedin.com/in/shirin-sultana-79141421/
+  
+- name: "Ebube Umeobi"
+  image: /assets/images/ebube_umeobi.jpg
+  bio: "Ebube is a Master's candidate in Data Science and Analytics at Buffalo State University. She holds a BS in Sociology from Covenant University, Nigeria, and a diverse research and work background on Nigerian peoples and organizations. Ebube has worked as a Researcher, Content Creator, UX Researcher, and Operations in the public and private sectors; analyzing climate studies, social determinants of health, and education for historically disadvantaged groups. Her overall research focuses on creating pilot-level development models through computational methods for policy-making, and sustainable community growth."
+  website: https://vanilaafro.com/
+
+- name: "Lion Wedel"
+  image: /assets/images/lion_wedel.jpg
+  bio: "Lion Wedel is a doctoral researcher at the Weizenbaum Institute for the Networked Society Berlin as part of the research group Digital News Dynamics. Before, he received a bachelor’s degree in Sociology and Economics at the Martin-Luther University Halle-Wittenberg and a master’s degree at the RWTH Aachen University in Computational Social Systems. Currently, he explores the methodological possibilities to analyze audio-visual content from the so-called “verticals” (e.g. TikTok) and how news dynamics on such platforms can be researched. He also researches the online presence of the incel community and how concepts such as de-platforming and radicalization can be investigated through them."
+  website: https://www.linkedin.com/in/lion-wedel-304861158/
+  
+- name: "Cyril Weerasooriya"
+  image: /assets/images/cyril_weerasooriya.jpeg
+  bio: "I’m Cyril, a PhD candidate at the Lab for Population Intelligence at RIT. I study how we can predict human disagreements during human annotation using machine learning. The work has been focused on using ML for offensive language identification in social media and political satire. This work is helpful when we want to model human disagreements, which is conventionally considered annotation noise. Following recent breakthroughs in machine learning research has shown instances where the algorithms being biased towards specific groups. My background is in computer science, natural language processing and computational social sciences."
+  website: http://cyrilw.com
+  
+- name: "Siyi Yin"
+  image: /assets/images/cyril_weerasooriya.jpeg
+  bio: "I’m a junior undergraduate student at the University of Rochester, majoring in Business Analytics and Political Science, and minoring in legal studies. I’m interested in social science, data science and machine learning, modeling in policy and economics. "
+  website: http://linkedin.com/in/siyi-yin-9638b21ab
+  
+- name: "Chen Zhang"
+  image: /assets/images/chen_zhang.jpg
+  bio: "As a passionate and creative early-stage researcher, Dr. Chen Zhang was trained in medicine, social science, and epidemiology. Dr. Zhang is currently an Assistant Professor at the School of Nursing, University of Rochester. She has participated in several NIH-funded projects focused on behavioral and biomedical interventions among vulnerable populations (e.g., female sex workers, children affected by AIDS, people living with HIV/AIDS, injected drug users, and men who have sex with men). Dr. Zhang’s current research focuses on reducing health disparities and health inequity among racial/minority who are at risk of HIV infection." 
+  website: https://son.rochester.edu/directory/czhang1/
+
+- name: "Zhihong Zhang"
+  image: /assets/images/zhihong_zhang.jpeg
+  bio: "Zhihong Zhang is a doctoral student in Nursing and a master student in Data Science at the University of Rochester. She is interested in analyzing clinical data to identify patterns within clinical problems and provide insights for clinical decision-making. In addition, she is also interested in analyzing national surveys or social media data to understand and predict health-related behaviors within certain social and environmental contexts."
+  website: https://www.linkedin.com/in/zhihong-zhang-670a8b26b/
+
