@@ -40,3 +40,12 @@ speakers:
     - name: Franziska Weeber
       image: /assets/images/franziska_weeber.png
       bio: "Franziska Weeber is a co-founder at textada, a machine learning-powered text annotation tool. Her work focuses on natural language processing and deep learning in low-resource social science applications. After her M.Sc. degree in Social and Economic Data Science, she held an Exist business start-up grant and was a research assistant at the University of Konstanz and the Heidelberg Academy of Sciences."
+
+    - name: Raphael H. Heiberger
+      image: /assets/images/rhheiberger_portrait.jpg
+      bio: "Raphael H. Heiberger is Tenure-Track Professor at the Institute for Social Sciences of the University of Stuttgart. He is head of the Computational Social Science lab. He received his PhD from the University of Bamberg (Germany, summa cum laude) and was visiting scholar at UCLA and a Fulbright-Fellow at UC Berkeley. He is a permanent member of the McFarland Lab at Stanford. Only recently, he was honored to become a Humboldt Fellow. His research is funded by the DFG Excellence Initiative, EU's Horizon programm, the BMBF, or the MKW in Baden-Württemberg. Besides various aspects of Social Network Analysis (dynamics, statistical modelling, theory), his research interests focus on applying Natural Language Processing and Machine Learning to social phenomena (e.g. career trajectories, markets and innovation, or political communication)."
+      
+      - name: Agnes Horvart
+      image: /assets/images/ahorvat_portrait.png
+      bio: ""
+      
