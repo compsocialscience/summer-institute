@@ -1,1 +1,21 @@
-- name:
+- name: Helena Mihaljevic
+  image: /assets/images/helena_mihaljevic.jpg
+  bio: "Helena Mihaljević is a mathematician by training and professor of Data Science at the Berlin University of Applied Sciences (HTW Berlin). Her research focuses on analyses of data and technologies, typically applying methods from machine and deep learning, natural language processing and statistics. She works in inter- and transdisciplinary projects that involve algorithmic methods and large data sets for the analysis of social or political phenomena, or projects that investigate the effect of data-driven and usually opaque algorithmic technologies on societal developments. She is interested in algorithmic detection and analysis of conspiracy theories and antisemitic speech in texts from online and social media."
+  website: https://www.htw-berlin.de/hochschule/personen/person/?eid=11889
+
+- name: CorrelAid
+  image: /assets/images/correlaid.jpg
+  bio: "CorrelAid is a non-partisan non-profit network of data science enthusiasts who want to change the world through data science. They dedicate their work to the social sector and those organizations that strive for making the world a better place. In order to improve data literacy in society, correlAid share their knowledge within their network and beyond and are always looking for ways to broaden our horizons.
+  CorrelAid value open knowledge management and transparency in their work wherever possible while complying with GDPR regulations and following strong principles of data ethics."
+  website: https://www.correlaid.org
+
+- name: Sophia Hunger
+  image: /assets/images/sophia_hunger.jpg
+  bio: "Sophia Hunger is a post-doctoral research fellow at the Center for Civil Society Research located at the WZB Berlin Social Science Center. She recieved her doctorate from the European University Institute in 2020. Her research focuses on protest movements, political engagement, party competition, political communication, and applied quantitative methods, particularly quantitative text analysis and automated event extraction Currently, Sophia Hunger's largest methodological undertaking is the automatization of Protest Event Analysis with cutting-edge methods in order to facilitate research on how protest shapes and affects modern societies. She is furthermore interested in developing new methods to measure positions, polarization, and resonance in political communication and public debate."
+  website: http://sophiahunger.eu/
+
+- name: Christian Rauh
+  image: /assets/images/christian_rauh.jpg
+  bio: "Christian Rauh is a senior researcher in the Global Governance unit of the WZB Berlin Social Science Center and a Professor for the 'Politics of Multilevel Governance' at the University of Potsdam. His research and teaching interests lie at the intersection of EU studies, international relations and comparative politics. Besides decision-making in the European Commission he is particularly interested in the public political debates about European and international institutions. Christian Rauh's work aims to combine solid theory with innovative empirical analysis. Luckily, this often involves the more immediate gratifications of a little programming, quantitative text analysis, and data visualization."
+  website: https://sites.google.com/site/christianrauh/
+
