@@ -1,6 +1,6 @@
 - name: "Thomas Chamberlain"
   image: /assets/images/thomas_chamberlain.JPG
-  bio: "Thomas is pursuing a PhD in political science at the University of Rochester. His research uses quantitative methods with a focus on causal inference to study how historical events, institutions, and policies shape contemporary electoral competition in American politics. Previously, he studied political philosophy at Stanford University and worked in NYC politics."
+  bio: "Thomas is pursuing a PhD in Political Science at the University of Rochester. His research uses quantitative methods with a focus on causal inference to study how historical events, institutions, and policies shape contemporary electoral competition in American politics. Previously, he studied political philosophy at Stanford University and worked in NYC politics."
   website: https://thomasc23.github.io/website/
   
 - name: "Yuen Ng Du"
@@ -10,7 +10,7 @@
 
 - name: "Olympia Mathiaparanam"
   image: /assets/images/olympia_mathiaparanam.jpeg
-  bio: "Olympia Mathiaparanam is a PhD student in the Department of Brain and Cognitive Sciences at the University of Rochester. Her research examines how students learn fundamental STEM concepts. She uses developmental, cognitive, and computational methods to investigate her questions, and she is interested in how her research can help educators improve their instructional resources. Her most recent project applies the Markov Chain Monte Carlo method to better understand how students reason about variability in biological categories. Olympia holds a Bachelor of Science in psychology and biology from the University of Wisconsin-Madison."
+  bio: "Olympia Mathiaparanam is a PhD student in the Department of Brain and Cognitive Sciences at the University of Rochester. Her research examines how students learn fundamental STEM concepts. She uses developmental, cognitive, and computational methods to investigate her questions, and she is interested in how her research can help educators improve their instructional resources. Her most recent project applies the Markov Chain Monte Carlo method to better understand how students’ reason about variability in biological categories. Olympia holds a Bachelor of Science in Psychology and Biology from the University of Wisconsin-Madison."
   website: https://www.linkedin.com/in/olympia-mathiaparanam-69765766
   
 - name: "Emily McKinley"
@@ -30,7 +30,7 @@
   
 - name: "Adam Roberts"
   image: /assets/images/adam_roberts.jpg
-  bio: "Adam Roberts is a Ph.D. student in Political Science at the University of Rochester. Adam's research interests lie in the areas of political economy and comparative politics. Specifically, his work examines corruption, inequality, and democratic erosion in developing countries. Previously, Adam received his B.A. from Brigham Young University with a double major in Political Science and Economics."
+  bio: "Adam Roberts is a Ph.D. student in Political Science at the University of Rochester. His research interests lie in the areas of political economy and comparative politics. Specifically, his work examines corruption, inequality, and democratic erosion in developing countries. Previously, he received his B.A. from Brigham Young University with a double major in Political Science and Economics."
   website: https://www.linkedin.com/in/adam-roberts-2017a3114/
 
 - name: "Monique Santoso"
@@ -50,17 +50,17 @@
 
 - name: "Lion Wedel"
   image: /assets/images/lion_wedel.jpg
-  bio: "Lion Wedel is a doctoral researcher at the Weizenbaum Institute for the Networked Society Berlin as part of the research group Digital News Dynamics. Before, he received a bachelor’s degree in Sociology and Economics at the Martin-Luther University Halle-Wittenberg and a master’s degree at the RWTH Aachen University in Computational Social Systems. Currently, he explores the methodological possibilities to analyze audio-visual content from the so-called “verticals” (e.g. TikTok) and how news dynamics on such platforms can be researched. He also researches the online presence of the incel community and how concepts such as de-platforming and radicalization can be investigated through them."
+  bio: "Lion Wedel is a doctoral researcher at the Weizenbaum Institute for the Networked Society Berlin as part of the research group Digital News Dynamics. Before, he received a Bachelor’s degree in Sociology and Economics at Martin-Luther University Halle-Wittenberg and a Master’s degree at the RWTH Aachen University in Computational Social Systems. Currently, he explores the methodological possibilities to analyze audio-visual content from the so-called “verticals” (e.g. TikTok) and how news dynamics on such platforms can be researched. He also researches the online presence of the incel community and how concepts such as de-platforming and radicalization can be investigated through them."
   website: https://www.linkedin.com/in/lion-wedel-304861158/
   
 - name: "Cyril Weerasooriya"
   image: /assets/images/cyril_weerasooriya.jpeg
-  bio: "I’m Cyril, a PhD candidate at the Lab for Population Intelligence at RIT. I study how we can predict human disagreements during human annotation using machine learning. The work has been focused on using ML for offensive language identification in social media and political satire. This work is helpful when we want to model human disagreements, which is conventionally considered annotation noise. Following recent breakthroughs in machine learning research has shown instances where the algorithms being biased towards specific groups. My background is in computer science, natural language processing and computational social sciences."
+  bio: "Cyril is a PhD candidate at the Lab for Population Intelligence at RIT.  He studies how to predict human disagreements during human annotation using machine learning. The work has been focused on using ML for offensive language identification in social media and political satire. This work is helpful when modeling human disagreements, which is conventionally considered annotation noise. Following recent breakthroughs in Machine Learning, research has shown instances where the algorithms being biased towards specific groups. His background is in Computer Science, Natural Language Processing and Computational Social Sciences."
   website: http://cyrilw.com
   
 - name: "Siyi Yin"
   image: /assets/images/siyi_yin.jpeg
-  bio: "I’m a junior undergraduate student at the University of Rochester, majoring in Business Analytics and Political Science, and minoring in legal studies. I’m interested in social science, data science and machine learning, modeling in policy and economics. "
+  bio: "Siyi is a junior undergraduate student at the University of Rochester, majoring in Business Analytics and Political Science, and minoring in Legal Studies. She is interested in Social Science, Data Science and Machine learning, modeling in policy and Economics."
   website: http://linkedin.com/in/siyi-yin-9638b21ab
   
 - name: "Chen Zhang"
