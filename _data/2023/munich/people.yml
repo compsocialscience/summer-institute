@@ -21,6 +21,15 @@ speakers:
   title: Guest Speakers
   people:
   
+   - name: Raphael H. Heiberger
+      image: /assets/images/rhheiberger_portrait.jpg
+      bio: "Raphael H. Heiberger is Tenure-Track Professor at the Institute for Social Sciences of the University of Stuttgart. He is head of the Computational Social Science lab. He received his PhD from the University of Bamberg (Germany, summa cum laude) and was visiting scholar at UCLA and a Fulbright-Fellow at UC Berkeley. He is a permanent member of the McFarland Lab at Stanford. Only recently, he was honored to become a Humboldt Fellow. His research is funded by the DFG Excellence Initiative, EU's Horizon programm, the BMBF, or the MKW in Baden-Württemberg. Besides various aspects of Social Network Analysis (dynamics, statistical modelling, theory), his research interests focus on applying Natural Language Processing and Machine Learning to social phenomena (e.g. career trajectories, markets and innovation, or political communication)."
+      
+   - name: Ágnes Horvárt
+      image: /assets/images/ahorvat_portrait.png
+      bio: "Ágnes Horvát is an Assistant Professor in Communication and Computer Science (by courtesy) at Northwestern University, where she directs the Technology and Social Behavior PhD program. Her research lies at the intersection of computational social science, social computing, and communication. Using interdisciplinary approaches from network and data science, her research group, the Lab on Innovation, Networks, and Knowledge (LINK), investigates how networks induce biased information production, sharing, and processing on digital platforms. For example, they study the impact of networks and diversity on scholarly communication, identify expressions of collective intelligence and opportunities for innovation in crowdsourcing communities, and develop tools to support creativity and predict success in culture industries. Professor Horvát received her PhD in Physics from the University of Heidelberg, Germany."
+      website: http://agneshorvat.info/
+      
     - name: Andreas Jungherr
       image: /assets/images/andreas_jungherr.jpeg
       bio: "Andreas Jungherr holds the Chair for Governance of Complex and Innovative Technological Systems at the Institute for Political Science at the University of Bamberg. He studies the impact of digital media and artificial intelligence on politics and society. He has worked on the uses of digital media and technology by publics, political actors, and organizations in international comparison. He also addresses challenges for scientific research in realizing the potential of digital methods and computational social science while addressing methodological challenges in its integration into the social sciences. He is author of the books 'Digital Transformations of the Public Arena' (with Ralph Schroeder, 2022) and 'Retooling Politics: How Digital Media are Shaping Democracy' (with Gonzalo Rivero & Daniel Gayo-Avello, 2020)."      
@@ -41,11 +50,4 @@ speakers:
       image: /assets/images/franziska_weeber.png
       bio: "Franziska Weeber is a co-founder at textada, a machine learning-powered text annotation tool. Her work focuses on natural language processing and deep learning in low-resource social science applications. After her M.Sc. degree in Social and Economic Data Science, she held an Exist business start-up grant and was a research assistant at the University of Konstanz and the Heidelberg Academy of Sciences."
 
-    - name: Raphael H. Heiberger
-      image: /assets/images/rhheiberger_portrait.jpg
-      bio: "Raphael H. Heiberger is Tenure-Track Professor at the Institute for Social Sciences of the University of Stuttgart. He is head of the Computational Social Science lab. He received his PhD from the University of Bamberg (Germany, summa cum laude) and was visiting scholar at UCLA and a Fulbright-Fellow at UC Berkeley. He is a permanent member of the McFarland Lab at Stanford. Only recently, he was honored to become a Humboldt Fellow. His research is funded by the DFG Excellence Initiative, EU's Horizon programm, the BMBF, or the MKW in Baden-Württemberg. Besides various aspects of Social Network Analysis (dynamics, statistical modelling, theory), his research interests focus on applying Natural Language Processing and Machine Learning to social phenomena (e.g. career trajectories, markets and innovation, or political communication)."
-      
-    - name: Ágnes Horvárt
-      image: /assets/images/ahorvat_portrait.png
-      bio: ""
       
