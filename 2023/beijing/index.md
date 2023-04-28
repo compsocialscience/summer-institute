@@ -11,6 +11,6 @@ The instructional program will involve lectures, guest speeches, group seminars 
 
 Participation is restricted to graduate students, postdoctoral researchers, and early career faculty. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 25 participants will be invited, and participants are expected to fully attend and participate in the offline entire two-week program in Beijing. This event is free of charge. The participants are expected to cover their own travel and accommodation expenses during this event. **But we will provide 300 RMB per day*12 days merit-based scholarships for up to 10 participants.**
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2023/beijing/apply) are due 11:59 pm on ~~May 1, 2023~~ May 7, 2023 (Beijing time). We will notify applicants solely through e-mail by sicss_beijing@163.com around June 9th，and will ask participants to confirm their participation very soon thereafter.
+[Application materials](https://compsocialscience.github.io/summer-institute/2023/beijing/apply) are due 11:59 pm on ~~May 1, 2023~~ May 7, 2023 (Beijing time). We will notify applicants solely through e-mail by sicss_beijing@163.com around June 9th, and will ask participants to confirm their participation very soon thereafter.
 
 For any questions, please contact us at sicss_beijing@163.com.
