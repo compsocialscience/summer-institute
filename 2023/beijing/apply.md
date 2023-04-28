@@ -20,7 +20,7 @@ Applicants must submit the following documents:
 2) A publication or writing sample that best represents your research around computational social science (either in English or Chinese)
 3) Your CV (either in English or Chinese)
 
-**In order to be guaranteed full consideration, all application materials must be submitted by 11:59 pm on May 1, 2023 (Beijing time).** All application materials must be submitted through [Google Form](https://forms.gle/8bSefiV5DWZmpaYv6) or [Wenjuanxing Form](https://www.wjx.top/vm/rxJeYPC.aspx#). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by sicss_beijing@163.com, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by 11:59 pm on ~~May 1, 2023~~ May 7, 2023 (Beijing time).** All application materials must be submitted through [Google Form](https://forms.gle/8bSefiV5DWZmpaYv6) or [Wenjuanxing Form](https://www.wjx.top/vm/rxJeYPC.aspx#). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by sicss_beijing@163.com around June 9th, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to sicss_beijing@163.com.
 
