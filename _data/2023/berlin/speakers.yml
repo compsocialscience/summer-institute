@@ -3,6 +3,13 @@
   bio: "Helena Mihaljević is a mathematician by training and professor of Data Science at the Berlin University of Applied Sciences (HTW Berlin). Her research focuses on analyses of data and technologies, typically applying methods from machine and deep learning, natural language processing and statistics. She works in inter- and transdisciplinary projects that involve algorithmic methods and large data sets for the analysis of social or political phenomena, or projects that investigate the effect of data-driven and usually opaque algorithmic technologies on societal developments. She is interested in algorithmic detection and analysis of conspiracy theories and antisemitic speech in texts from online and social media."
   website: https://www.htw-berlin.de/hochschule/personen/person/?eid=11889
 
+- name: Elizabeth Bruch
+  image: /assets/images/elizabeth_bruch.jpg
+  bio: "Elizabeth Bruch is an Associate Professor in Sociology and Complex Systems at the University of Michigan, and an External Faculty member at the Santa Fe Institute.
+  From 2017-2020, she led the Computational Social Science Initiative at the University of Michigan. Starting in 2023, she will be the Social Science Associate Director for the Michigan Institute for Data Science.
+  Her research focuses on the quantitative study of human behavior, and what it implies for larger scale social patterns."
+  website: https://mhbsd.net/
+
 - name: CorrelAid
   image: /assets/images/correlaid.jpg
   bio: "CorrelAid is a non-partisan non-profit network of data science enthusiasts who want to change the world through data science. They dedicate their work to the social sector and those organizations that strive for making the world a better place. In order to improve data literacy in society, correlAid share their knowledge within their network and beyond and are always looking for ways to broaden our horizons.
