@@ -17,3 +17,5 @@ Participation is restricted to **registered masters and doctoral students, postd
 Application materials are due 11:59pm SAST (GMT+2) on ~~Friday, 31 March, 2023~~ Friday 21 April, 2023.
 
 Follow us on [twitter](https://twitter.com/sicss_jhb) and [instagram](https://www.instagram.com/sicss.johannesburg/).
+
+Please note that this winter school has moved from hybrid to online format.
