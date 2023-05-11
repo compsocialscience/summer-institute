@@ -1,1 +1,71 @@
-- name:
+- name: Alexsandra Cavalcanti
+  bio: "Alexsandra Cavalcanti is a master's student of Political Science at the Federal University of Pernambuco. She is criminal lawyer and has experience on international humanitarian law. Her current research is about the general-raporteur amendments."
+  image: /assets/images/Alexsandra_Cavalcanti.jpeg
+
+- name: Baruque Rodrigues
+  bio: "Baruque Rodrigues is a PhD candidate at UFPE. Studies elections and electoral fraud. Worked as a Data Scientist at CGEE and CEPAL." 
+  image: /assets/images/Baruque_Rodrigues.jpg
+ 
+- name: Daniel Bonatto Seco
+  bio: "Daniel Bonatto Seco is a Digital Humanities MA student at UFRRJ, Research Fellow in CPDOC/FGV and Data Specialist at Tree Intelligence, a stakeholder management and consulting firm. Works in Natural Language Processing (NLP), Digital Collections, Network Science, Social Network Analysis (SNA), Social Listening and R&D." 
+  image: /assets/images/daniel_bonatto_seco.jpg
+  
+- name: Eliana Loureiro
+  bio: "Eliana Loureiro is a PhD student in Human and Social Sciences at UFABC. She is also a professor and coordinator at FAAP. She is interested in studying computational methods for research on social networks. Her dissertation is about the TikTok algorithm on the reach of fake news posts by presidential candidates during the 2022 elections."  
+  image: /assets/images/Eliana_Loureiro.jpg
+  
+- name: Guilherme Alves
+  bio: "Guilherme Alves is a Master's student in Political Science at The Institute of Social and Political Studies (IESP). He holds a BA in International Relations from the Federal Fluminense University (UFF). His research agenda focus mainly on the following topics: theories of democracy, information in democracies; manipulation and disinformation;"  
+  image: /assets/images/Guilherme_Alves.jpg
+  
+- name: João Camargos
+  bio: "João is currently an MA candidate in Political Science at the Federal University of Minas Gerais, Brazil. He is also a data analyst at the Instituto Ver: Pesquisa e Comunicação Estratégica. João's research is located in the subfield of Political Psychology, aiming to understand the dissemination of elite beliefs and their effects on behavior."  
+  image: /assets/images/João_Cardoso.jpeg
+  
+- name: João Gabriel Ribeiro Pessanha Leal 
+  bio: "PhD student in Public Health at the National School of Public Health Sergio Arouca (ENSP/FIOCRUZ). Conducts research and statistical analyses focused on databases of sociodemographic, demographic, health, and political behavior/attitude information. Predominantly studies determinants of public policies in Brazilian municipalities. Works on the following themes: Political Parties and Financing of Social Policies, with a focus on the Unified Health System (SUS); Federal Parliamentary Amendments and Financing of the SUS." 
+  image: /assets/images/João_Gabriel_R_P_Leal.jpg
+  
+- name: José Galdino Neto
+  bio: "José Francelino Galdino Neto is temporary lecturer in the Department of International Relations at the State University of Paraíba, and is a doctoral student in the Department of Political Science at the Federal University of Pernambuco. He has broad interests in international relations theories and foreign policy analysis. His thesis explores the existence of Latin American theories in International Relations. And he is also adjunct editor of the Journal of Scientific Initiation in International Relations at the Federal University of Paraíba." 
+  image: /assets/images/Jose_Francelino_Galdino_Neto.jpeg
+  
+- name: Kermesson Magalhães
+  bio: "Kermesson Magalhães is a PhD candidate in Communication Sciences at the NOVA University of Lisbon (ICNOVA) and a Foundation for Science and Technology (FCT) fellow. He studies user practices in social networks based on imitation and/or transformative reappropriation with traces of memetic logic, applying digital methods for qualitative research." 
+  image: /assets/images/Keo_Carlos_Magalhães.jpg
+  
+- name: Lucas Magalhães
+  bio: "Assistant Professor at the International Relations Department of the Brazilian Institute of Capital Markets in Belo Horizonte (Ibmec), teaching Public Policy Analysis. Holds a MSc in Political Science from UFMG, where he also works as a researcher at the Brazilian Justice Observatory." 
+  image: /assets/images/Lucas_Magalhães.png
+  
+- name: Mayres Pequeno
+  bio: "Mayres is a master's student in the Department of Political Science at UFPE, where she also conducts research in the Laboratory of Computational and Experimental Political Science. Currently, her research is focused on attitudes towards marginalized groups and preferences for electoral quotas, using experimental methods. Additionally, she has a bachelor's degree in Social Sciences and works as a Public Policy Evaluation as a Data Science Manager in Recife." 
+  image: /assets/images/MAYRES_LANE_PEQUENO_SANTOS_SILVA.jpg
+  
+- name: Mozara Rodrigues
+  bio: "Mozara Rodrigues is a political scientist graduated from Universidade Federal do Estado do Rio de Janeiro, where is currently pursuing a masters in political science. Her research focuses on democracy support in the Latin American region, using surveys and multivariate statistics to analyze the most important factors to increase the democracy support among citizens." 
+  image: /assets/images/mozara_souza.jpeg
+  
+- name: Pedro Amaral
+  bio: "Pedro Amaral is a researcher and project leader at Law and Technology Research Institute of Recife, focusing on privacy and surveillance. He is a Ph.D. student at Federal University of Pernambuco, researching on democratic oversighting the public security intelligence sector in the context of digitalized societies and tools of surveillance."  
+  image: /assets/images/Pedro_Amaral.jpg
+  
+- name: Reinaldo Silva
+  bio: "Project coordinator at Abraji (Brazilian Association of Investigative Journalism) - extensive experience in data journalism and data science for different organizations and transparency and open data projects for journalists and civil society. I coordinate data journalism and data science projects on the Judiciary (Ctrl+X - https://www.ctrlx.org.br/ - and Publique-se - https://publiquese.org.br/), on evidence-based investigations (CruzaGrafos - https://cruzagrafos.abraji.org.br/conteudo/metodologia/), and a partnership with Google News Initiative to collect documents of public interest to supply Pinpoint (https://journaliststudio.google.com/pinpoint/) - a reading project with OCR (Optical character recognition) to find entities in documents and audio transcription. In the last few months I have also started studying machine learning and Artificial Intelligence applied to journalism - as a fellow of Journalism/AI at Polis LSE (https://github.com/JournalismAI/attackdetector)." 
+  image: /assets/images/Reinaldo_Chaves.png
+  
+- name: Renan Mattos
+  bio: "Renan Mattos is a PhD student in Sociology at the Fluminense Federal University (PPGS-UFF), with a study period at the Nova Institute of Communication (ICNOVA). He is currently pursuing an MBA in Data Science at UFF and is a member of the research group Discourse, Social Networks, and Socio-political Identities (CPDA-UFRRJ) and the Digital Sociology Laboratory (UFF). His main lines of research are digital sociology, discourse analysis, and populism." 
+  image: /assets/images/20230509_2054_Renan_Alfenas.jpg
+  
+- name: Renata Zampronio
+  bio: "Renata Zampronio is a master student in the Pontifical Catholic University of São Paulo (PUC-SP) Social Science department. Her current research examines resistance practices of young latin migrant women at workplace. She holds a Bsc in Production engineering at University of São Paulo (USP) and she is a member of Latin American Council of Social Sciences (CLACSO) research group on Children and Youth." 
+  image: /assets/images/Renata_Zampronio.jpeg
+  
+- name: Tomás Borges
+  bio: "Tomás Borges is pursuing a Master's degree in Political Science at IESP-UERJ. He holds a BA in Foreign Languages Applied to International Relations at CEFET-RJ, with an exchange program at Sciences Po Strasbourg. His main interests include distributive politics, citizens' political behavior and social protection in developing countries. " 
+  image: /assets/images/Tomás_Paixão.jpeg
+  
+- name: Yulieth Martinez Villalba
+  bio: "Yulieth Martinez is a doctoral researcher in Political Science at the Federal University of Minas Gerais in Brazil. Her Ph.D. research focuses on understanding the determinants of emergency policymaking within Regional International Organizations during the COVID-19 pandemic. She is interested in researching Regional Integration, International Institutions, Gender, Comparative Studies, and Emergency Politics." 
+  image: /assets/images/Yulieth_Martínez.jpeg
