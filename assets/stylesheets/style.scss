@@ -60,6 +60,26 @@ body {
   align-self: center;
 }
 
+.joburg {
+  max-width: 80%;
+  height: auto;
+}
+figure {
+  position: relative;
+}
+figure figcaption {
+  background-color: #222;
+  color: white;
+  position: absolute;
+  right: 10%;
+  top: 91%;
+  text-align: center;
+  max-width: 80%;
+  padding: 2px;
+  font-style: oblique;
+  font-size: calc(.5rem + 0.3vw); 
+  mix-blend-mode: hard-light;
+}
 /*
   enable responsive font sizes
   https://christianoliff.com/blog/bootstrap-with-rfs

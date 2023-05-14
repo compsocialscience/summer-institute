@@ -1,3 +1,34 @@
-- date: June 20 to June 30, 2023
-  events:
-    - name: "Schedule coming soon..."
+- date: All times are Eastern Daylight Time
+
+- date: 2023-06-20
+  name: "Day 1: SICSS-NYU Silver Welcome & Digital Data Collection I"
+
+- date: 2023-06-21
+  name: "Day 2: Digital Data Collection II"
+  
+- date: 2023-06-22
+  name: "Day 3: TBA"
+
+- date: 2023-06-23
+  name: "Day 4: TBA"
+
+- date: 2023-06-24
+  name: Day off
+ 
+- date: 2023-06-25
+  name: Day off
+  
+- date: 2023-06-26
+  name: "Day 5: Work on Group Projects"
+  
+- date: 2023-06-27
+  name: "Day 6: Work on Group Projects"
+
+- date: 2023-06-28
+  name: "Day 7: Work on Group Projects"
+
+- date: 2023-06-29
+  name: "Day 8: Work on Group Projects"
+  
+- date: 2023-06-30
+  name: "Day 9: Group Project Presentations"

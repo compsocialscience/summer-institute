@@ -11,7 +11,7 @@ faculty:
       bio: "Naniette H. Coleman is a Ph.D. candidate in the Sociology Department at the University of California, Berkeley and a UC-National Lab In-Residence Graduate Fellow at Los Alamos National Lab. Since 2016, Naniette has directed the AAC&U award winning Interdisciplinary Research Group on Privacy at Berkeley. Naniette is an affiliate of the Institute for the Study of Societal Issues, the Center for Long-term Cybersecurity, and the Center for Technology, Society, and Policy at Berkeley as well as the Belfer Center for Science and International Affairs, and Berkman-Klein Center for the Internet and Society at Harvard University. Naniette’s research sits at the intersection of the sociology of culture and organizations and focuses on cybersecurity, surveillance, and privacy in the US context. Specifically Naniette’s research examines how organizations assess risk, make decisions, and respond to data breaches and organizational compliance with state, federal, and international privacy laws.  Naniette holds a Master of Public Administration with a specialization in Democracy, Politics, and Institutions from the Harvard Kennedy School of Government, and both an M.A. in Economics and a B.A. in Communication from the University at Buffalo, SUNY.  A non-traditional student, Naniette’s prior professional experience includes local, state, and federal service, as well as work for two international organizations, and two universities."
       website: http://naniettecoleman.com
    
-    - name: Rebecca (Linchi) Hsu
+    - name: Rebecca (Linchi) Hsu, Ph.D.
       image: /assets/images/rebecca_linchi_hsu.jpeg
       bio: "Dr. Rebecca Hsu is an Assistant Professor in the Department of Economics at Howard University, Washington, D.C. She has a Ph.D. in Economics from University of Washington, Seattle. Her research concentrates on household economics, intimate partner violence, and the economics of crime. She is currently working on projects on the CARES Act and domestic violence. She has published her research in journals such as Economic Inquiry, Review of Economics of the Household, Feminist Economics, Journal of Family and Economic Issues, and Journal of Economic Studies among others."
       website: https://profiles.howard.edu/lin-chi-hsu
@@ -20,15 +20,19 @@ faculty:
       image: /assets/images/Nicole_Jenkins.png
       bio: "Nicole is currently an Assistant Professor in the Department of Sociology and Criminology at Howard University. She received her Doctoral degree from the University of Nevada Las Vegas in the Department of Sociology in 2020. She obtained an M.A. in Sociology in 2017 and B.A. in Sociology in 2015 from the University of Nevada Las Vegas. In 2013, she received an A.A. in Criminal Justice after serving six years of active duty in the United States Air Force as Military Police. She is a proud advocate for social justice and is committed to teaching with such emphasis in topics such as race and ethnic studies, sociology of poverty, problems of the black community, and research methods."
       website: https://profiles.howard.edu/profile/58581/nicole-dezrea-jenkins
-
-    - name: Amy Yeboah Quarkume, Ph.D.
-      image: /assets/images/Amy_Yeboah_Quarkume.jpg
-      bio: "Dr. Amy Yeboah Quarkume, affectionately known as Dr. A, is a daughter of Africa, scholar, filmmaker, data scientist and Associate Professor of Africana Studies in the Department of Afro-American Studies at Howard University. She holds a Ph.D. in African American Studies, two Masters of Arts in Sociology and African American Studies, and a forthcoming Masters of Science degree in Data Science. Dr. Quarkume is an Andrew Mellon New Direction Fellow, Mellon Just Futures Initiative invited Social Justice Consortium partner, invited presenter for Scribe Video Center’s Storyville series by the National Endowment for the Arts, National Center for Atmospheric Research Innovator Fellow, and a White House Initiative HBCU All-Star Campus Mentor. Her work as a data scientist, centers around AI Bias, data inequality and environmental justice. Currently, she employs an Africana Studies framework to examine the intersections of race and technology. Dr. A is presently, co-facilitating the creation of the Center for Applied Data Science and Analytics (CADSA) advancing Howard University’s first major effort in becoming a hub for data science social impact research and training for the next generation of data scientists. She has published in the Journal of Women, Gender, and Families of Color; Mosaic Magazine; Black Scholar; CLA Journal and is currently working on her second book project Data Pollution and Savage Algorithms. She has also contributed to and been an invited guest on BET News, PBS NewsHour, Direct TV, American Radio Works, Al Jazeera America’s The Stream, Philadelphia Community Access Media, Roland Martin TV One News Show, and Mother Jones."
-      website: https://profiles.howard.edu/profile/43496/amy-yeboah-quarkume
+    
 
 opening:
   title: Opening Plenary Speaker 
 
+
+motivational:
+  title: SICSS-Howard/Mathematica 2023 Motivational Speaker 
+  people:
+    - name: Henry C. McKoy, Jr., Ph.D.
+      image: /assets/images/Henry_McKoy.jpg
+      bio: "Dr. Henry C. McKoy, Jr. is the inaugural Director of the Office of State and Community Energy Programs (SCEP) in the United States Department of Energy. The newly created SCEP, within the Office of the Under Secretary for Infrastructure, manages $16 billion dollars in federal funding and supports the transition to an equitable clean energy economy by working with community-level implementation partners and State Energy Offices. SCEP manages the Weatherization Assistance Program, State Energy Program, Community Energy Programs, and Energy Future Grants. He is a seasoned professional in business, community and economic development, policy, government, finance, energy, philanthropy and the academic worlds. Prior to the Presidential appointment to the US DOE, Dr. McKoy served on the faculty at North Carolina Central University School of Business where he led the entrepreneurship program, with additional academic appointments at Duke, the UNC-Chapel Hill, and Harvard. He is a former senior banking executive, successful entrepreneur, and former Assistant Secretary of the NC Department of Commerce. Henry has been a Fellow of the Kenan Institute of Private Enterprise at UNC-Chapel Hill, an affiliated faculty of the Samuel DuBois Cook Center on Social Equity, as well as an Aspen Institute Scholar. McKoy has won many awards and honors. He has been a sought-after consultant by both government and private industry regarding inclusive entrepreneurship and economic development policy. He has also been an active economic development professional, focused on economic inclusivity in mixed-use real estate projects. He is a regular contributor to media – television, radio, and print. Dr. McKoy engages in over 120 media interviews annually with local, state, regional, national, and international media. He speaks on dozens of academic and public panels a year speaking on his research across the US, and publishes in peer-reviewed journals, as well as mass media publications. His most recent writing appears in the new book The Pandemic Divide: How Covid Increased Inequality in America (Duke University Press), where his chapter, Race, Entrepreneurship, and COVID-19: Black Small Business Survival in Prepandemic and Postpandemic America analyzes and speaks on the impact that COVID has had on the Black economic landscape. He holds degrees from UNC-Chapel Hill’s Kenan-Flagler Business School (B.S.), Duke’s Nicholas School of the Environment (M.S.), and UNC-Chapel Hill’s Department of City and Regional Planning with concentrations in Economic Development, Entrepreneurship, and Impact Economics and Investing (PhD)."
+      website: https://www.energy.gov/scep/person/henry-mckoy
 
 keynote:
   title: SICSS-Howard/Mathematica 2023 Keynote Speaker
@@ -41,9 +45,20 @@ closing:
 speakers: 
   title: Guest Speakers
   people:
+  
+    - name: Naniette H. Coleman
+      image: /assets/images/NanietteHeadshot.jpeg
+      bio: "Naniette H. Coleman is a Ph.D. candidate in the Sociology Department at the University of California, Berkeley and a UC-National Lab In-Residence Graduate Fellow at Los Alamos National Lab. Since 2016, Naniette has directed the AAC&U award winning Interdisciplinary Research Group on Privacy at Berkeley. Naniette is an affiliate of the Institute for the Study of Societal Issues, the Center for Long-term Cybersecurity, and the Center for Technology, Society, and Policy at Berkeley as well as the Belfer Center for Science and International Affairs, and Berkman-Klein Center for the Internet and Society at Harvard University. Naniette’s research sits at the intersection of the sociology of culture and organizations and focuses on cybersecurity, surveillance, and privacy in the US context. Specifically Naniette’s research examines how organizations assess risk, make decisions, and respond to data breaches and organizational compliance with state, federal, and international privacy laws.  Naniette holds a Master of Public Administration with a specialization in Democracy, Politics, and Institutions from the Harvard Kennedy School of Government, and both an M.A. in Economics and a B.A. in Communication from the University at Buffalo, SUNY.  A non-traditional student, Naniette’s prior professional experience includes local, state, and federal service, as well as work for two international organizations, and two universities."
+      website: http://naniettecoleman.com
+      
     - name: Deen Freelon, Ph.D.
       image: /assets/images/Deen_Freelon.jpg
       bio: "Deen Freelon is an associate professor at the UNC Hussman School of Journalism and Media at the University of North Carolina and a principal researcher at the Center for Information, Technology, and Public Life (CITAP). His theoretical interests address how ordinary citizens use social media and other digital communication technologies for political purposes, paying particular attention to how identity characteristics (e.g. race, gender, ideology) influence these uses. Methodologically, he is interested in how computational research techniques can be used to answer some of the most fundamental questions of communication science. Freelon has worked at the forefront of political communication and computational social science for over a decade, coauthoring some of the first communication studies to apply computational methods to social media data. Computer programming lies at the heart of his research practice, which generates novel tools (and sometimes methods) to answer questions existing approaches cannot address. He developed his first research tool, ReCal, as part of his master’s thesis, and it has since been used by tens of thousands of researchers worldwide. His scholarship has been financially supported by grantmakers including the U.S. Institute of Peace, the Spencer Foundation, the Knight Foundation, and the Hewlett Foundation; and published in top-tier journals including Nature, Science, and the Proceedings of the National Academy of Sciences. Freelon earned his Ph.D. from the University of Washington in 2012 and formerly taught at American University in Washington, D.C."
+      website: http://hussman.unc.edu/directory/faculty/deen-freelon
+      
+    - name: Desmond U. Patton, Ph.D.
+      image: /assets/images/Desmond-Patton.jpg
+      bio: "Desmond Upton Patton studies the impact social media has on well-being, mental health, trauma, violence and grief for youth and adults of color. He leverages social work thinking, data science, qualitative methods, and community partnerships to develop strategies to support digital grief and trauma and reduce on and offline gun-related violence. Desmond Upton Patton is the Brian and Randi Schwartz University Professor and the thirty-first Penn Integrates Knowledge University Professor. He has joint appointments in the School of Social Policy & Practice and the Annenberg School for Communication along with a secondary appointment in the department of psychiatry in the Perelman School of Medicine."
       website: http://hussman.unc.edu/directory/faculty/deen-freelon
    
     - name: Imani N. S. Munyaka, Ph.D.
@@ -58,6 +73,37 @@ Praxis to power:
 
 panels:
   title: Panelists
+  people:
+  
+    - name: Ifeoma Ajunwa, J.D., Ph.D.
+      image: /assets/images/Ifeoma_Ajunwa.jpeg
+      bio: "Dr. Ifeoma Ajunwa, J.D., Ph.D., is an award-winning tenured law professor at the University of North Carolina School of Law. She is also the Founding Director of the Artificial Intelligence Decision-Making Research (AI-DR) Program at UNC Law and a Faculty Associate at the Berkman Klein Center at Harvard University since 2017. She is also a Visiting Fellow at Yale Law School (2022-2023). She was a 2019 recipient of the NSF CAREER Award and a 2018 recipient of the Derrick A. Bell Award from the Association of American Law Schools (AALS). Dr. Ajunwa’s research interests are at the intersection of law and technology with a particular focus on  the ethical governance of workplace technologies.  Dr. Ajunwa is a Founding Board Member of the Labor Tech Research Network which is an international group of scholars committed to the research of the ethics of AI used in the workplace and for labor. Dr. Ajunwa's writing has also been published in the NY Times, the Washington Post, the Atlantic, and the Harvard Business Review, among others. She is on twitter @iajunwa."
+      website: https://ifeomaajunwa.com/
+      
+    - name: Lindsey D. Cameron, Ph.D.
+      image: /assets/images/Lindsey_Cameron.jpeg
+      bio: "Lindsey D. Cameron is an assistant professor of management at the Wharton School, University of Pennsylvania. Her research focuses on how algorithmic management is changing the modern workplace, especially individual’s behaviors at work. Professor Cameron has an on-going, five-year ethnography of the largest employer in the gig economy, the ride-hailing industry, exploring how algorithms are fundamentally reshaping the nature of managerial control. She is currently studying how the COVID-19 pandemic is affecting gig workers on different platforms (e.g., TaskRabbit, Instacart, AmazonFlex) as well as examining how ride-hailing drivers on three continents navigate disputes. Professor Cameron’s work has been published in leading academic journals, including Organization Science, Journal of Applied Psychology, Organizational Behavior and Human Decision Process, Annual Review of Organizational Psychology and Organizational Behavior, and proceedings of the Association of Computing Machinery and the Academy of Management. She has also published opinion pieces in Fast Company, Kiplinger’s, and the Society of Human Resource Management’s flagship magazine People & Strategy and her research has been mentioned in numerous media outlets including Bloomberg, NPR’s Marketplace, Fast Company, the World Economic Forum, CNBC, Forbes, The Skim, and Inc."
+      website: https://lindseydcameron.com/
+    
+    - name: Charlotte Garden, J.D.
+      image: /assets/images/Charlotte_Garden.jpeg
+      bio: "Charlotte Garden is a Law professor at the University of Minnesota, and specializes in labor law, employment law, and constitutional law. Her interests include the intersection of workers' rights and the Constitution, and how law supports (or undermines) worker voice and power.  Prior to coming to the University of Minnesota, Professor Garden was a professor at Seattle University School of Law where she served as Co-Associate Dean for Research & Faculty Development. In 2016 she was a visiting professor at the University of Alabama School of Law. Professor Garden clerked for Judge Thomas L. Ambro of the U.S. Court of Appeals for the Third Circuit. She received her J.D. from NYU School of Law (2003) and her B.A. from McGill University (2000)."
+      website: https://law.umn.edu/profiles/charlotte-garden
+      
+    - name: Ezinne Nwankwo
+      image: /assets/images/Ezinne_Nwanko-min.jpg
+      bio: "Ezinne is a Ph.D. Student in Computer Science at UC Berkeley. Her research focuses on using statistics and machine learning (ML) as a way of understanding social issues and improving equity and access for underserved communities. She is interested in thinking about the intersection and limitations of causal inference, prediction, and mechanism design. Ezinne works on applications of ML that attempt to redistribute power and lead to distributive justice for communities, such as with resource allocation in government assistance programs and nonprofit organizations. Previously, she has worked on using AI applications for agriculture and with Covid-19 online misinformation spread. Prior to beginning her PhD at UC Berkeley in 2021, Ezinne received an M.S. in Statistics from Duke University, where she was advised by Jerry Reiter and Sayan Mukherjee, and a B.A. in Applied Math from Harvard University. Since May 2020, Ezinne has had the pleasure of serving as a general board member of Black in AI, where she supports the Black in AI Academic Program, started by Rediet Abebe, Moses Namara, and Daniel Nkemelu."
+      website: https://www.ezinnenwa.com/
+      
+    - name: Gabrielle Rejouis, J.D.
+      image: /assets/images/Gabrielle_Rejouis.png
+      bio: "Gabrielle Rejouis is an advocate for ending surveillance at work at United for Respect and the Athena Coalition. Before joining United for Respect, she managed the federal technology and antitrust lobbying portfolio at Color Of Change. She also worked at the Center on Privacy & Technology at Georgetown Law where she co-organized the Color of Surveillance: Monitoring Poor and Working People conference. Gabrielle received her J.D. from Georgetown Law with a Certificate in Refugee and Humanitarian Emergencies. She earned her B.A. in History from the New Jersey Institute of Technology where she was an Albert Dorman Honors scholar."
+      website: https://gufaculty360.georgetown.edu/s/contact/00336000014Ss51AAC/gabrielle-rejouis
+    
+    - name: Keith E. Sonderling, J.D.
+      image: /assets/images/Keith_Sonderling.jpeg
+      bio: "Keith E. Sonderling was confirmed by the U.S. Senate, with a bipartisan vote, to be a Commissioner on the U.S. Equal Employment Opportunity Commission (EEOC) in 2020. Until January of 2021, he served as the Commission’s Vice-Chair. His term expires July of 2024. Prior to his confirmation to the EEOC, Commissioner Sonderling served as the Acting and Deputy Administrator of the Wage and Hour Division at the U.S. Department of Labor. Before joining the Department of Labor in 2017, Commissioner Sonderling practiced Labor and Employment law in Florida. Commissioner Sonderling also serves as a Professional Lecturer in the Law at The George Washington University Law School, teaching employment discrimination. Since joining the EEOC, one of Commissioner Sonderling’s highest priorities is ensuring that artificial intelligence and workplace technologies are designed and deployed consistent with long-standing civil rights laws. Commissioner Sonderling has published numerous articles on the benefits and potential harms of using artificial intelligence-based technology in the workplace and speaks globally on these emerging issues."
+      website: https://www.eeoc.gov/keith-e-sonderling-commissioner
 
 
 roundtable discussions:
@@ -84,10 +130,30 @@ lunchtime talks:
   title: Bite-Sized Lunchtime Talks
   people:
     
+    - name: Center for Global Development
+      image: /assets/images/CGD_logo-min.png
+      bio: "We work to reduce global poverty and improve lives through innovative economic research that drives better policy and practice by the world's top decision makers. We strive for excellence and intellectual rigor and believe global prosperity starts with smart policy based on evidence. Our work is nonpartisan and our recommendations are not influenced by our funders. We are willing to challenge powerful institutions and the status quo for better development practices. We are committed to transparency, diversity, and professional and personal integrity. We recognize the inherent dignity of all persons and pledge ourselves to creating and maintaining an environment that recognizes and respects diverse groups of individuals and their experiences. We value mutual respect, a collegial work place, and a healthy sense of humor."
+      website: https://www.cgdev.org/
+      
     - name: D-Lab
       image: /assets/images/D_Lab.jpg
       bio: "D-Lab 1) helps Berkeley graduate students, faculty, and staff move forward with world-class research in data intensive social science and humanities; 2) assists the Berkeley community with the full range of research development, research design and data acquisition. We offer guidance in statistical methods and results to data visualization and communication; 3) creates a learning community that teaches workshops and offers consultations." 
       website: https://dlab.berkeley.edu/
+      
+    - name: Deloitte Center for Health Solutions & the Deloitte Health Equity Institute
+      image: /assets/images/Deloitte-Logo.png
+      bio: "The mission of the Deloitte Health Equity Institute is advancing health equity to make an impact that matters. To do it, we’re creating cross-sector collaborations and tools aimed at addressing disparities in the drivers of health, racism and bias, and structural flaws in the health system. Our goal is to create exponential change that will lead to a world in which health isn't determined by race, gender, ability status, or zip code. One in which all people have the fair and just opportunity to achieve their full potential in every aspect of their health and well-being. "
+      website: https://www2.deloitte.com/us/en/pages/life-sciences-and-health-care/topics/center-for-health-solutions.html?icid=nav2_center-for-health-solutions
+      
+    - name: Federal Reserve Board of Governors
+      image: /assets/images/FRB-logo.jpeg
+      bio: "The Federal Reserve System is the central bank of the United States. It performs five general functions to promote the effective operation of the U.S. economy and, more generally, the public interest."
+      website: https://www.federalreserve.gov/
+      
+    - name: Los Alamos National Laboratory
+      image: /assets/images/LANL-logo.png
+      bio: "The Los Alamos National Laboratory‘s mission is to solve national security challenges through simultaneous excellence. LANL achieves maximum impact on strategic national security priorities by integrating research and development solutions with operational excellence and community engagement."
+      website: https://www.lanl.gov/
       
     - name: Polarization Lab
       image: /assets/images/Polarization_Lab.png
@@ -97,7 +163,7 @@ lunchtime talks:
     - name: The Data Nutrition Project
       image: /assets/images/DataNutrition2.png
       bio: "Our belief is that deeper transparency into dataset health can lead to better data decisions, which in turn lead to better AI. Founded in 2018 through the Assembly Fellowship, The Data Nutrition Project takes inspiration from nutritional labels on food, aiming to build labels that highlight the key ingredients in a dataset such as meta-data and populations, as well as unique or anomalous features regarding distributions, missing data, and comparisons to other ‘ground truth’ datasets."      
-      website: https://datanutrition.org/ 
+      website: https://datanutrition.org/
         
     - name: vary CSS
       image: /assets/images/VaryCSS.png
@@ -129,7 +195,7 @@ planning_team:
     - name: Calvin Hadley
       image: /assets/images/CalvinHadleyHeadshot.jpeg
       bio: "Calvin J. Hadley serves as the Senior Advisor for Strategic Initiatives in the Office of the President at Howard University. Hadley works to broker strategic partnerships that advance the University's mission: Truth and Service. Since joining Howard in 2014, he's negotiated numerous partnerships along several student programs. The most notable of these include: Howard's partnership with Google and Amazon Studios to create the Howard West Campus in Silicon Valley and the Howard Entertainment Campus in Hollywood, a partnership with the District of Columbia Public Schools which led to the creation of a dual-enrollment program that allows high school juniors and seniors to earn college credit at Howard University, and a lecture series with Congressman Elijah Cummings, former Director of the FBI James Comey, former Mayor of Washington, D.C. Vincent Gray, and others." 
-      website: https://www2.howard.edu/about/president/staff
+      website: https://president.howard.edu/about/staff
 
 
 teaching_assistants:

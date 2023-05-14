@@ -11,16 +11,28 @@ Participation is restricted to Postgraduate students (MSc, Ph.D.), early-career 
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours during the two months before the Institute.
 
-We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
+We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions:
+-1) Research and teaching in the area of computational social science 
+-2) Contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 
+-3) Likelihood to benefit from participation 
+-4) Likelihood to contribute to the educational experience of other participants 
+-5) Potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
+
 
 ## How To Apply
 
-Applicants must submit the following documents: 1) a C.V.; 2) a brief statement about why you wish to attend SICSS-Calabar (Not more than 500 words), and 3) a writing sample.
+Applicants must submit the following documents:
 
-**In order to be guaranteed full consideration, all application materials must be submitted by March 5, 2023.** All application materials must be submitted through the Google Form. Begin your application by clicking<a href='https://forms.gle/FY9koD5qsiaDCtUcA'> APPLY</a> . Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 26, 2023, and will ask participants to confirm their participation very soon thereafter.
+-1) A C.V.
+-2) A brief statement about why you wish to attend SICSS-Calabar (Not more than 500 words),
+-3) Share a writing sample (this could be any piece of writing you own. Published or unpublished)
+-4) A supporting letter from a supervisor/head of department/line manager/mentor that can attest to applicant's competence/potential and availability.
 
 
-Inquiries can be sent to sicsscalabar@gmail.com.
+**In order to be guaranteed full consideration, all application materials must be submitted by <s>March 5</s> April 21, 2023.** All application materials must be submitted through the hyperlinked online Form. Begin your application by clicking<a href='https://www.cognitoforms.com/AcademicHive/sicsscalabarapplicationform'> APPLY</a> . Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 26, 2023, and will ask participants to confirm their participation very soon thereafter.
+
+Inquiries can be sent to <a href="mailto:sicsscalabar@gmail.com" target="_blank">sicsscalabar@gmail.com</a>
+
 =======
 
 
