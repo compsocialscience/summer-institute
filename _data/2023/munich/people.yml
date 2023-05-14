@@ -1,7 +1,7 @@
 faculty:
   title: Faculty
   people:
-  
+ 
     - name: Carsten Schwemmer
       image: /assets/images/cschwemmer_portrait.jpg
       bio: "Carsten Schwemmer is a Professor of Sociology and Computational Social Sciences at the University of Munich. His work focuses on applying computational methods to interdisciplinary research in areas such as ethnic minority & gender studies, digital media, political sociology, and sociotechnical systems. He is particularly interested in methods related to natural language processing, image recognition, data mining, and network analysis."
