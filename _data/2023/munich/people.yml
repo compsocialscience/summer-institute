@@ -63,7 +63,7 @@ participants:
       bio: "Since 2018, I am a student at LMU Munich, where I received my B. A. in Political Science and Economics in 2021 and I am currently enrolled in the Political Science Master’s degree. Additionally, I work as Research Assistant at the chair for Empirical Political Research and Policy Analysis. Here, I am involved in research projects focusing primarily on third-party interventions in civil wars as well as the armaments of warring parties and their effects on civil war intensity and duration."
       
     - name: Maximilian Haag
-      image: /assets/images/mhaag_portrait.jpg
+      image: /assets/images/mhaag_portrait.JPG
       bio: "Max is a doctoral researcher in the EUPLEX project and a doctoral candidate at the Geschwister-Scholl-Institute of Political Science at LMU Munich. His research interests include legislative politics and decision-making in the EU. Additionally, Max is interested in automated data collection and exploring the possibilities of programming for producing transparent, reproducible and interactive research."
       
     - name: Fabian Heindl
@@ -76,7 +76,7 @@ participants:
       bio: "I am a research associate at the Chair of Political Sociology at the Otto-Friedrich-University Bamberg. After completing my bachelor’s degree in political science at the University of Mannheim, I moved to the Otto-Friedrich-University Bamberg to successfully complete my master’s degree in political science and to study sociology. My research interests are located in the areas of quantitative methods with a particular focus on political behaviour, but also migration policy and immigration. I am doing my doctoral thesis on the political behaviour of the first and second generation of migrants."
       
     - name: Tilman Kerl
-      image: /assets/images/tkerl_portrait.jpg
+      image: /assets/images/tkerl_portrait.JPG
       bio: "Tilman is currently in his second year of his Data Science Master's program at TU Wien and works part-time as a software engineer. He has worked on diverse projects in software engineering, data science and management consulting involving data management, -strategy, -engineering, ML, and NLP. In his free time, he volunteers for CorrelAid, attends concerts or goes bouldering. Particular research interests include bias detections in and XAI of LLMs."
       website: https://www.linkedin.com/in/tilman-kerl/
       
@@ -109,7 +109,7 @@ participants:
       bio: "Nadja Ozornina is a master's student at Ludwig Maximilian University of Munich. Her research interests include political communication, topic modeling, and the application of big data in communication research. In October 2023, she will join the team of the research project on the impact of humor in communication on political decision-making in the context of climate change (KLIMA-MEMES) at the Department of Media and Communication of LMU."
       
     - name: Dylan Paltra
-      image: /assets/images/dpaltra_portrait.jpg
+      image: /assets/images/dpaltra_portrait.JPG
       bio: "My name is Dylan Paltra and I obtained my Bachelor’s degree in Political Science from the University of Mannheim in 2021. At the moment, I am finishing up my Master’s at the University of Zurich. My thesis investigates how citizens perceive their own online news media consumption in comparison to the actual media bias they encounter online. My general research interests revolve around the online political behavior of both citizens and elites. To gain a better understanding of this subject, I employ computational methods like machine learning and deep learning."
       website: https://dpaltra.com/
 
