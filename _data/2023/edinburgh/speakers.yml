@@ -7,3 +7,28 @@
   image: /assets/images/bjornross.jpg
   bio: Björn Ross is a Lecturer (Assistant Professor) in Computational Social Science at the University of Edinburgh School of Informatics, in the Institute for Language, Cognition and Computation. In his research, he primarily uses computational methods from agent-based modelling, natural language processing and social network analysis to study social media and related technologies. A key focus of his research is to explore different aspects of social media, such as misinformation, hate speech, and the malicious use of automation (bots), as well as how social media can be used effectively for social good, such as in crisis communication.
   website: https://sweb.inf.ed.ac.uk/bross3/
+  
+- name: Akın Ünver
+  image: assets/images/akin_unver.jpg
+  bio: "Akin Unver is an associate professor of International Relations at Ozyegin University, specializing in conflict research, computational methods and digital crisis communication. He is a fellow of Carnegie Endowment's Digital Democracy Network and serves as a member of TikTok's MENA-T Security Advisory Council. Previously he served as a Research Associate at the Center for Technology and Global Affairs, Oxford University and a Senior Research Fellow at GUARD (Global Urban Analytics for Resilient Defence) at the Alan Turing Institute. He is the author of ‘Defining Turkey’s Kurdish Question: Discourse and Politics Since 1990’ (Routledge Series in Middle Eastern Politics). He is the Istanbul organizer of the Summer Institute in Computational Social Science (SICSS) and the founder of the Istanbul Twitter Developers' Community."
+  website: https://www.akinunver.org/
+
+- name: Abdullah Almaatouq
+  image: assets/images/Abdullah_Almaatouq.jpeg
+  bio: bdullah Almaatouq is a computational social scientist and Assistant Professor at the MIT Sloan School of Management. His research focuses on improving cooperation, coordination, and collective intelligence in decision-making systems, such as teams, committees, crowds, markets, and elections. Abdullah also explores ways to advance social and behavioral research methodology through innovative research designs and theory-building strategies, with the ultimate goal of developing a deeper understanding of collective decision systems and how to design them effectively in various contexts. 
+  website: http://amaatouq.io/
+
+- name: Paola Tubaro 
+  image: assets/images/Paola_Tubaro.jpg
+  bio: Paola Tubaro is Research Professor in sociology and technology at the National Centre for Scientific Research (Centre National de la Recherche Scientifique, CNRS) on the Paris-Saclay campus. She was previously a Reader in economic sociology at the University of Greenwich, London. Her research is inter-disciplinary and leverages synergies between sociology, network science, machine learning and artificial intelligence. She is currently researching the place of human labour in the global production networks of artificial intelligence, and the social conditions of digital platform work in French- and Spanish-speaking countries. She has also extensively published in the fields of data methodologies and research ethics.
+  website: https://www.chu.cam.ac.uk/fellows/dr-paola-tubaro/
+
+- name: Dilara Keküllüoğlu
+  image: assets/images/dilarakekullugoglu.jpeg
+  bio: Dilara is a Research Associate (Postdoc) at School of Informatics, University of Edinburgh in Scotland, UK. She is currently working on a Responsible AI project where she aims to make socio-technical organizations answerable for the automated actions they take where these actions can harm people.  Her research interests are responsible AI, privacy on social media, human computer interaction, computational social science. She has a PhD from School of Informatics, University of Edinburgh with a thesis titled “Analysing Privacy in Online Social Media” (Supervised by Walid Magdy and Kami Vaniea). Her PhD focused on privacy on social media, especially unintended disclosures and user understanding of privacy controls.
+  website: https://dilarakkl.github.io/
+
+- name: Ugur Ozdemir
+  image: assets/images/ugur.jpg
+  bio: Ugur is a Lecturer in Quantitative Political Science at the University of Edinburgh. His research interests include comparative political behavior, formal models of electoral politics, and quantitative methods. He is a dedicated advocate of bridging the gap between theoretical modeling and empirical analysis. 
+  website: https://uozdemir.net/
