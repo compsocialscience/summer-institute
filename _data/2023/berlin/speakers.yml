@@ -1,28 +1,37 @@
 - name: Helena Mihaljevic
   image: /assets/images/helena_mihaljevic.jpg
-  bio: "Helena Mihaljević is a mathematician by training and professor of Data Science at the Berlin University of Applied Sciences (HTW Berlin). Her research focuses on analyses of data and technologies, typically applying methods from machine and deep learning, natural language processing and statistics. She works in inter- and transdisciplinary projects that involve algorithmic methods and large data sets for the analysis of social or political phenomena, or projects that investigate the effect of data-driven and usually opaque algorithmic technologies on societal developments. She is interested in algorithmic detection and analysis of conspiracy theories and antisemitic speech in texts from online and social media."
+  bio: "Helena Mihaljević is a mathematician by training and professor of Data Science at the Berlin University of Applied Sciences (HTW Berlin). Her research focuses on analyses of data and technologies, typically applying methods from machine and deep learning, natural language processing and statistics. She works in inter- and transdisciplinary projects that involve algorithmic methods and large data sets for the analysis of social or political phenomena, or projects that investigate the effect of data-driven and usually opaque algorithmic technologies on societal developments. She is interested in algorithmic detection and analysis of conspiracy theories and antisemitic speech in texts from online and social media.
+
+  03/07 Exploring the Benefits and Challenges of Automated Classification of Political Short Texts: A Case Study of Conspiracy Theory and
+Antisemitic Narratives"
   website: https://www.htw-berlin.de/hochschule/personen/person/?eid=11889
 
-- name: Elizabeth Bruch
+  - name: Elizabeth Bruch
   image: /assets/images/elizabeth_bruch.jpg
   bio: "Elizabeth Bruch is an Associate Professor in Sociology and Complex Systems at the University of Michigan, and an External Faculty member at the Santa Fe Institute.
   From 2017-2020, she led the Computational Social Science Initiative at the University of Michigan. Starting in 2023, she will be the Social Science Associate Director for the Michigan Institute for Data Science.
-  Her research focuses on the quantitative study of human behavior, and what it implies for larger scale social patterns."
+  Her research focuses on the quantitative study of human behavior, and what it implies for larger scale social patterns.
+  
+  04/07 Competition in Online Dating Markets"
   website: https://mhbsd.net/
 
 - name: CorrelAid
   image: /assets/images/correlaid.jpg
-  bio: "CorrelAid is a non-partisan non-profit network of data science enthusiasts who want to change the world through data science. They dedicate their work to the social sector and those organizations that strive for making the world a better place. In order to improve data literacy in society, correlAid share their knowledge within their network and beyond and are always looking for ways to broaden our horizons.
-  CorrelAid value open knowledge management and transparency in their work wherever possible while complying with GDPR regulations and following strong principles of data ethics."
-  website: https://www.correlaid.org
+  bio: "Sebastian Zezulka is a PhD student in the reserach group "Epistemology and Ethics of Machine Learning" in the Cluster of Excellence "Machine Learning for Science" at the University of Tübingen. His work focuses on methodological questions of fair machine learning, bringing together insights from philosophy of science, evidence-based policy making, and machine learning. In 2017, an internship brought him to CorrelAid. After working in the project team and the local chapter Stuttgart, he was board member for education in 2022. Since the end of 2022, he acts as the chair of the board of CorrelAid. CorrelAid is a non-partisan non-profit network of data science enthusiasts who want to change the world through data science. They dedicate their work to the social sector and those organizations that strive for making the world a better place.
+  
+  05/07 Data4Good - data science with and for non-profits"
+  website: https://www.correlaid.org/about/
 
 - name: Sophia Hunger
   image: /assets/images/sophia_hunger.jpg
-  bio: "Sophia Hunger is a post-doctoral research fellow at the Center for Civil Society Research located at the WZB Berlin Social Science Center. She recieved her doctorate from the European University Institute in 2020. Her research focuses on protest movements, political engagement, party competition, political communication, and applied quantitative methods, particularly quantitative text analysis and automated event extraction Currently, Sophia Hunger's largest methodological undertaking is the automatization of Protest Event Analysis with cutting-edge methods in order to facilitate research on how protest shapes and affects modern societies. She is furthermore interested in developing new methods to measure positions, polarization, and resonance in political communication and public debate."
+  bio: "Sophia Hunger is professor of Computational Social Sciences at the University of Bremen and research fellow at the Center for Civil Society Research. Until April 2023 she was a postdoctoral researcher at the Center and involved in a research project on protest and political radicalization in Germany, after receiving her doctorate from the European University Institute in 2020. Her research focuses on protest movements, political engagement, party competition, political communication, and applied quantitative methods, particularly quantitative text analysis and automated event extraction. Currently, her largest methodological undertaking is the automatization of Protest Event Analysis with cutting-edge methods in order to facilitate research on how protest shapes and affects modern societies. She is furthermore interested in developing new methods to measure positions, polarization, and resonance in political communication and public debate.
+  
+  06/07 Automatic protest event analysis"
   website: http://sophiahunger.eu/
 
 - name: Christian Rauh
   image: /assets/images/christian_rauh.jpg
-  bio: "Christian Rauh is a senior researcher in the Global Governance unit of the WZB Berlin Social Science Center and a Professor for the 'Politics of Multilevel Governance' at the University of Potsdam. His research and teaching interests lie at the intersection of EU studies, international relations and comparative politics. Besides decision-making in the European Commission he is particularly interested in the public political debates about European and international institutions. Christian Rauh's work aims to combine solid theory with innovative empirical analysis. Luckily, this often involves the more immediate gratifications of a little programming, quantitative text analysis, and data visualization."
+  bio: "Christian Rauh is a senior researcher in the Global Governance unit of the WZB Berlin Social Science Center and a Professor for the 'Politics of Multilevel Governance' at the University of Potsdam. His research and teaching interests lie at the intersection of EU studies, international relations and comparative politics. His is particularly interested in decision-making of the European Commission and the public political debates about European and international institutions. Christian's work aims to combine solid theory with innovative empirical analysis - often involving web scraping, quantitative text analysis, and advanced data visualization.
+  
+  07/07 How web scraping and large-N text analyses can shed light on (European Union) politics"
   website: https://sites.google.com/site/christianrauh/
-
