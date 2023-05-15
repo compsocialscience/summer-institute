@@ -7,11 +7,6 @@
   image: /assets/images/IMG_20220830_140515061_1 - Simon Ullrich.jpg
   bio: "Simon Ullrich is a PhD student at the University of Copenhagen's Center for Social Data Science. He studies controversies around the green energy transition in a research approach that combines digital methods, SNA, and netnography."   
  
-- name: Humeyra Biricik 
-  image:  
-  bio: "Humeyra Biricik is a Doctoral student in Politics at the University of Oxford. Her research interests include the interactions between political Islamists and Naqshbandi tariqas in Turkey, the role of women in Turkish politics, as well as the evolution of political rhetoric used by right-wing Turkish political party leaders."  
- 
- 
 - name: Darja Wischerath 
   image: /assets/images/IMG_20221014_102945 - Darja Wischerath.jpg
   bio: "Darja Wischerath is a PhD candidate at the University of Bath. Her research explores how belief in conspiracy theories can lead to violence and violent extremism through the mediating factors of psychological needs, social networks, and ideological narratives. They primarily use online text data and text mining for their analyses."    
@@ -49,10 +44,6 @@
 - name: Siyu Liang 
   image: /assets/images/IMG_1916 - SIYU LIANG.JPG
   bio: "Siyu Liang is a PhD student in Political Science at the University of California, Los Angeles. Her research utilizes computational methods to study how the media shapes public opinion in the US and China. Methodologically, she is interested in text analysis, natural language processing, and social networks. Siyu received her BA in Political Science and Statistics from UW-Madison in 2021."    
-
-- name: Cecilia Rollano 
-  image:  
-  bio: "Cecilia Rollano is a lecturer and researcher at the UNED in Spain, where she is working on her thesis on digital identity. She holds a degree in Pedagogy and her research interests include computational methods, platforms, gender and video games, among others."   
 
 - name: Jose Manuel Camacho Rodriguez  
   image: /assets/images/profile_pic - Jos‚ Manuel Camacho Rodr¡guez.jpg
@@ -127,3 +118,16 @@
   image: /assets/images/Andr‚ K. Rodarte - Andr‚ Rodarte.jpg
   bio: "André is a second-year PhD student at the University of Texas at Austin (School of Journalism and Media). He holds an MPhil in the Sociology of Media and Culture (St. Edmund’s College, University of Cambridge) and an undergraduate degree in Social Communication (ESPM, Brazil). He is a graduate research fellow of the Propaganda Research Team at the Center of Media Engagement. His research interests include political representation, media sociology, and computational propaganda, with an empirical focus on Latin America."  
   website:
+
+- name: Humeyra Biricik 
+  image: /assets/images/sicss-logo.png 
+  bio: "Humeyra Biricik is a Doctoral student in Politics at the University of Oxford. Her research interests include the interactions between political Islamists and Naqshbandi tariqas in Turkey, the role of women in Turkish politics, as well as the evolution of political rhetoric used by right-wing Turkish political party leaders."  
+ 
+ - name: Selin Akaraci 
+  image: /assets/images/sicss-logo.png
+  bio: "Selin is an urban planner and public health researcher, holding a PhD in public health. She is currently a postdoctoral research fellow at Queens University Belfast, examines the relationship between built environment features and non-communicable diseases. Selin is also investigating the potential use of AI methods to semi-automate evidence synthesis."  
+  website: 
+  
+ - name: Cecilia Rollano 
+  image: /assets/images/sicss-logo.png 
+  bio: "Cecilia Rollano is a lecturer and researcher at the UNED in Spain, where she is working on her thesis on digital identity. She holds a degree in Pedagogy and her research interests include computational methods, platforms, gender and video games, among others."   
