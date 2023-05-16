@@ -1,1 +1,34 @@
-- name:
+- name: Yan Qu, Ph.D.
+  image: /assets/images/YanQu.jpg
+  bio: "Yan Qu is an incoming Assistant Professor in the Department of Communication at the University of Maryland College Park. His research takes a social network perspective to examine public relations issues, with a focus on personal social networks and public engagement. Yan formerly worked as a postdoctoral associate at the University of Minnesota."
+  website: https://twitter.com/yanqu123?lang=en
+
+- name: S M Sarwar
+  image: /assets/images/smsawar.png
+  bio: "S M Sarwar is now working as a graduate research assistant and pursuing his M.S. in computer science at the University of Texas Rio Grande Valley in Texas, USA. He will be graduating in Summer 2023. He has been serving as Vice Chair at IEEE Corpus Christi Section."
+  website: https://www.linkedin.com/in/smsnobin77/
+  
+- name: Nick Dusek
+  image: /assets/images/NickDusek.jpg
+  bio: "Nick Dusek is a Research Computing Facilitator at North Dakota State University's Center for Computationally Assisted Science and Technology, where he assists faculty, staff, and students in leveraging high-performance and advanced computing resources for research and teaching."
+  website: https://github.com/ndusek
+  
+- name: Dan Card, Ph.D.
+  image: /assets/images/dancard.jpg
+  bio: "Dan Card is an assistant professor in the Department of Writing Studies at the University of Minnesota-Twin Cities, where he teaches courses in technical communication and rhetoric. Broadly speaking, his research explores the complex relationship between communication, technology, and the production and circulation of information and arguments in digital environments."
+  website: https://danieljcard.com/
+  
+- name: Haley Netherton-Morrison
+  image: /assets/images/Haley.jpeg
+  bio: "Haley Netherton-Morrison is a Ph.D. Candidate in Ecology, Evolution, and Behavior at Boise State University. Her research interests focus on the application of social science theory to natural resource issues and the promotion of sustainable working landscapes. Currently, she seeks to understand public perceptions to inform decision-making in changing landscapes."
+  website: https://www.boisestate.edu/hes/people/haley-netherton/#profile
+  
+- name: Zakia Sabnam
+  image: /assets/images/zakia.jpg
+  bio: "Zakia Sabnam is a master’s student in the Communication department at North Dakota State University. She is an enthusiast of all things related to cyberspace and AI. With a deep curiosity for the online world, Zakia's research interests revolve around exploring the fascinating and dynamic subcultures that exist within cyberspace."
+  website: https://www.linkedin.com/in/zakia-sabnam/
+  
+- name: Adamu Timothy Jaafaru
+  image: /assets/images/timms.png
+  bio: "Pursuing a DBA at Metro State University, Tim leverages his MIS Master's and over 20-year banking sector experience in corporate financial systems. He also shares his expertise as an adjunct professor at Minnesota State Community College."
+  
