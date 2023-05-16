@@ -47,8 +47,20 @@ Keynote Speakers:
          
       - name: Christopher Barrie
         image: /assets/images/barrie_2022.jpg
-        bio: Christopher Barrie is Lecturer in Computational Sociology at the University of Edinburgh. He specializes in the study of protest, conflict, and communication. He is particularly interested in advancing the use of use digital trace, news, and communications data to study populations that have traditionally been 'hard-to-reach' in the empirical social sciences.
+        bio: "Christopher Barrie is Lecturer in Computational Sociology at the University of Edinburgh. He specializes in the study of protest, conflict, and communication. He is particularly interested in advancing the use of use digital trace, news, and communications data to study populations that have traditionally been 'hard-to-reach' in the empirical social sciences."
         website: https://www.cjbarrie.com         
+
+       - name: Milos Popovic
+         image: /assets/images/2023/Istanbul/MilosPopovic.jpeg
+         bio: "He is a leading data visualization specialist on Twitter and a Data Analyst at Booking.com in Amsterdam. He uses R to create maps that make sense of big data. His portfolio includes over 300 maps! According to NodeXL, He is among the Top 10 dataviz and R contributor on Twitter."
+         website: https://milospopovic.net/
+
+       - name: Ingmar Weber
+         image: /assets/images/2023/Istanbul/IngmarWeber.jpeg
+         bio: "Ingmar is an Alexander von Humboldt Professor in AI at Saarland University. Within the department of computer science, he is currently building up a new team working on “Societal Computing”. This interdisciplinary area comprises (i) computing of society, i.e. the measurement of different social phenomena, in particular using non-traditional data sources, and (ii) computing for society, i.e. working with partners on implementing solutions to help address societal challenges."     
+         website: https://ingmarweber.de/
+        
+  
 
 Participants:
   title: Participants
