@@ -29,9 +29,7 @@ instructors:
          image: /assets/images/YEmreTapan.jpg
          bio: "Yunus Emre Tapan, a graduate of SICSS-Helsinki-18, is a Ph.D. Student in Political Science at Northeastern University. He studied Economics in his B.A. at Bogazici University and Middle East Studies in his M.Sc. at METU. His research sits at the intersection of data science and social sciences. He specializes in social network analysis and computational text analysis to study online extremist communities and non-state actors with a particular focus on how they radicalize. He is a graduate of ICPSR Summer Program in 2020 as one of the recipients of the Scholarship for Political Science Research."
          website: https://tapanyemre.github.io/
-
-title: Bootcamp Instructor 
-  people:
+         
        - name: Ahmet Kurnaz
          image: /2019/istanbul/images/Ahmet_Kurnaz.png
          bio: "Ahmet is a computer engineer with a PhD in Political Science, specializing in R programming language. His research focuses on polarization and political communication in the digital age, with an emphasis on deep learning applications in social science analysis, digital politics, and elections. In addition, Ahmet has conducted research as a visiting scholar at the Oxford Internet Institute and the University of Maryland, College Park. His work aims to shed light on the complex relationship between technology and politics and to provide insights that can help to shape policy and decision-making."
@@ -47,8 +45,20 @@ Keynote Speakers:
          
       - name: Christopher Barrie
         image: /assets/images/barrie_2022.jpg
-        bio: Christopher Barrie is Lecturer in Computational Sociology at the University of Edinburgh. He specializes in the study of protest, conflict, and communication. He is particularly interested in advancing the use of use digital trace, news, and communications data to study populations that have traditionally been 'hard-to-reach' in the empirical social sciences.
+        bio: "Christopher Barrie is Lecturer in Computational Sociology at the University of Edinburgh. He specializes in the study of protest, conflict, and communication. He is particularly interested in advancing the use of use digital trace, news, and communications data to study populations that have traditionally been 'hard-to-reach' in the empirical social sciences."
         website: https://www.cjbarrie.com         
+
+       - name: Milos Popovic
+         image: /assets/images/2023/Istanbul/MilosPopovic.jpeg
+         bio: "He is a leading data visualization specialist on Twitter and a Data Analyst at Booking.com in Amsterdam. He uses R to create maps that make sense of big data. His portfolio includes over 300 maps! According to NodeXL, He is among the Top 10 dataviz and R contributor on Twitter."
+         website: https://milospopovic.net/
+
+       - name: Ingmar Weber
+         image: /assets/images/2023/Istanbul/IngmarWeber.jpeg
+         bio: "Ingmar is an Alexander von Humboldt Professor in AI at Saarland University. Within the department of computer science, he is currently building up a new team working on “Societal Computing”. This interdisciplinary area comprises (i) computing of society, i.e. the measurement of different social phenomena, in particular using non-traditional data sources, and (ii) computing for society, i.e. working with partners on implementing solutions to help address societal challenges."     
+         website: https://ingmarweber.de/
+        
+  
 
 Participants:
   title: Participants
@@ -148,4 +158,3 @@ Participants:
          image: /assets/images/2023/Istanbul/GevherYesevi.jpg
          bio: "Gevher is a data scientist and consultant with expertise in energy systems. She holds a Bachelor's degree in Industrial Engineering and is pursuing a Master's degree in AI at Ozyegin University. Gevher has worked on a range of consultancy projects for energy systems and building automated machine learning modules for time series forecasting. Her research interests include behavior modeling in bilateral negotiations and time series forecasting."
          website:
-
