@@ -1,4 +1,4 @@
-organizers:
+faculty organizers:
   title: Faculty
   people:
       - name: Akın Ünver
@@ -22,7 +22,7 @@ organizers:
         bio:  "Başak Taraktaş is an Assistant Professor of Political Science at Bogazici University. She received her PhD in political science from the University of Pennsylvania in 2016. Before coming to Bogazici, She worked as a postdoc at Northwestern’s Buffett Institute for Global Affairs for two years and as a research analyst at FutureMap. Her research centers on collective action and opinion dynamics. Much of her work is set in the contexts of regimes, and contentious politics, where she combine computational methods (such as, agent-based models, network analysis, and text analysis) and qualitative research to unpack the effect of ideology and ideational beliefs on cooperation. She is particularly interested in adaptations of complexity theory and dynamical systems in social sciences.Her current project, Dia-Pol, is supported by Marie Curie Individual Fellowship 2020 grant. Dia-Pol studies the conditions under which polarization follows from social media interactions among social movements and their countermovements and the themes on which these interactions foster dialogue. "
         website: https://basaktaraktas.com/
 
-instructors:
+student organizers:
   title: Organizer and Bootcamp Instructor 
   people:
        - name: Yunus Emre Tapan
@@ -30,7 +30,8 @@ instructors:
          bio: "Yunus Emre Tapan, a graduate of SICSS-Helsinki-18, is a Ph.D. Student in Political Science at Northeastern University. He studied Economics in his B.A. at Bogazici University and Middle East Studies in his M.Sc. at METU. His research sits at the intersection of data science and social sciences. He specializes in social network analysis and computational text analysis to study online extremist communities and non-state actors with a particular focus on how they radicalize. He is a graduate of ICPSR Summer Program in 2020 as one of the recipients of the Scholarship for Political Science Research."
          website: https://tapanyemre.github.io/
 
-title: Bootcamp Instructor 
+instructors:
+  title: Bootcamp Instructor
   people:
        - name: Ahmet Kurnaz
          image: /2019/istanbul/images/Ahmet_Kurnaz.png
@@ -47,8 +48,20 @@ Keynote Speakers:
          
       - name: Christopher Barrie
         image: /assets/images/barrie_2022.jpg
-        bio: Christopher Barrie is Lecturer in Computational Sociology at the University of Edinburgh. He specializes in the study of protest, conflict, and communication. He is particularly interested in advancing the use of use digital trace, news, and communications data to study populations that have traditionally been 'hard-to-reach' in the empirical social sciences.
+        bio: "Christopher Barrie is Lecturer in Computational Sociology at the University of Edinburgh. He specializes in the study of protest, conflict, and communication. He is particularly interested in advancing the use of use digital trace, news, and communications data to study populations that have traditionally been 'hard-to-reach' in the empirical social sciences."
         website: https://www.cjbarrie.com         
+
+       - name: Milos Popovic
+         image: /assets/images/2023/Istanbul/MilosPopovic.jpeg
+         bio: "He is a leading data visualization specialist on Twitter and a Data Analyst at Booking.com in Amsterdam. He uses R to create maps that make sense of big data. His portfolio includes over 300 maps! According to NodeXL, He is among the Top 10 dataviz and R contributor on Twitter."
+         website: https://milospopovic.net/
+
+       - name: Ingmar Weber
+         image: /assets/images/2023/Istanbul/IngmarWeber.jpeg
+         bio: "Ingmar is an Alexander von Humboldt Professor in AI at Saarland University. Within the department of computer science, he is currently building up a new team working on “Societal Computing”. This interdisciplinary area comprises (i) computing of society, i.e. the measurement of different social phenomena, in particular using non-traditional data sources, and (ii) computing for society, i.e. working with partners on implementing solutions to help address societal challenges."     
+         website: https://ingmarweber.de/
+        
+  
 
 Participants:
   title: Participants
@@ -148,4 +161,3 @@ Participants:
          image: /assets/images/2023/Istanbul/GevherYesevi.jpg
          bio: "Gevher is a data scientist and consultant with expertise in energy systems. She holds a Bachelor's degree in Industrial Engineering and is pursuing a Master's degree in AI at Ozyegin University. Gevher has worked on a range of consultancy projects for energy systems and building automated machine learning modules for time series forecasting. Her research interests include behavior modeling in bilateral negotiations and time series forecasting."
          website:
-
