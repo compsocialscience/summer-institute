@@ -22,25 +22,22 @@ faculty organizers:
         bio:  "Başak Taraktaş is an Assistant Professor of Political Science at Bogazici University. She received her PhD in political science from the University of Pennsylvania in 2016. Before coming to Bogazici, She worked as a postdoc at Northwestern’s Buffett Institute for Global Affairs for two years and as a research analyst at FutureMap. Her research centers on collective action and opinion dynamics. Much of her work is set in the contexts of regimes, and contentious politics, where she combine computational methods (such as, agent-based models, network analysis, and text analysis) and qualitative research to unpack the effect of ideology and ideational beliefs on cooperation. She is particularly interested in adaptations of complexity theory and dynamical systems in social sciences.Her current project, Dia-Pol, is supported by Marie Curie Individual Fellowship 2020 grant. Dia-Pol studies the conditions under which polarization follows from social media interactions among social movements and their countermovements and the themes on which these interactions foster dialogue. "
         website: https://basaktaraktas.com/
 
-student organizers:
-  title: Organizer and Bootcamp Instructor 
+instructors:
+  title: Bootcamp Instructors
   people:
        - name: Yunus Emre Tapan
          image: /assets/images/YEmreTapan.jpg
          bio: "Yunus Emre Tapan, a graduate of SICSS-Helsinki-18, is a Ph.D. Student in Political Science at Northeastern University. He studied Economics in his B.A. at Bogazici University and Middle East Studies in his M.Sc. at METU. His research sits at the intersection of data science and social sciences. He specializes in social network analysis and computational text analysis to study online extremist communities and non-state actors with a particular focus on how they radicalize. He is a graduate of ICPSR Summer Program in 2020 as one of the recipients of the Scholarship for Political Science Research."
          website: https://tapanyemre.github.io/
-
-instructors:
-  title: Bootcamp Instructor
-  people:
        - name: Ahmet Kurnaz
          image: /2019/istanbul/images/Ahmet_Kurnaz.png
          bio: "Ahmet is a computer engineer with a PhD in Political Science, specializing in R programming language. His research focuses on polarization and political communication in the digital age, with an emphasis on deep learning applications in social science analysis, digital politics, and elections. In addition, Ahmet has conducted research as a visiting scholar at the Oxford Internet Institute and the University of Maryland, College Park. His work aims to shed light on the complex relationship between technology and politics and to provide insights that can help to shape policy and decision-making."
          website:
 
 
-Keynote Speakers:
-  title: Keynote Speakers
+Speakers:
+  title: Speakers
+  people:
        - name: Anita Gohdes
          image: /assets/images/2023/Istanbul/AnitaGohdes.jpeg
          bio: "Anita Gohdes is Professor of International and Cyber Security at the Hertie School. Her research focuses on contentious politics in the cyber realm, with a current emphasis on large-scale quantitative analyses of state behaviour. Previously, she was Assistant Professor of International Relations at the University of Zurich, and postdoctoral research fellow at Harvard Kennedy School's Belfer Center International Security Program. Since 2009, she has worked for the California-based non-profit organisation Human Rights Data Analysis Group. She currently advises the German Federal Foreign Office, and has consulted for the World Bank and the United Nations on security and state fragility. Her doctoral dissertation (University of Mannheim) was awarded the German Dissertation Award in the Social Sciences by the Körber Foundation, and the Walter Isard Dissertation Award by the Peace Science Society."
@@ -63,8 +60,10 @@ Keynote Speakers:
         
   
 
-Participants:
+
+participants:
   title: Participants
+  people:
        - name: Dilge Iris Girgin
          image: /assets/images/2023/Istanbul/IrisGirgin.JPG
          bio: "Dilge Iris Girgin is an upcoming PhD student at the University of Chicago, with a background in International Relations and Sociology. She completed her MPhil in Politics and International Studies from the University of Cambridge and currently serves as a research associate at the CFPPR. Her research interests include the study of transnational repression."
