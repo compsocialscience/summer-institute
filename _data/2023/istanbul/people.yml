@@ -36,8 +36,8 @@ instructors:
          website:
 
 
-Keynote Speakers:
-  title: Keynote Speakers
+Speakers:
+  title: Speakers
        - name: Anita Gohdes
          image: /assets/images/2023/Istanbul/AnitaGohdes.jpeg
          bio: "Anita Gohdes is Professor of International and Cyber Security at the Hertie School. Her research focuses on contentious politics in the cyber realm, with a current emphasis on large-scale quantitative analyses of state behaviour. Previously, she was Assistant Professor of International Relations at the University of Zurich, and postdoctoral research fellow at Harvard Kennedy School's Belfer Center International Security Program. Since 2009, she has worked for the California-based non-profit organisation Human Rights Data Analysis Group. She currently advises the German Federal Foreign Office, and has consulted for the World Bank and the United Nations on security and state fragility. Her doctoral dissertation (University of Mannheim) was awarded the German Dissertation Award in the Social Sciences by the Körber Foundation, and the Walter Isard Dissertation Award by the Peace Science Society."
@@ -60,7 +60,7 @@ Keynote Speakers:
         
   
 
-Participants:
+participants:
   title: Participants
        - name: Dilge Iris Girgin
          image: /assets/images/2023/Istanbul/IrisGirgin.JPG
