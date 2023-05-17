@@ -23,7 +23,7 @@ organizers:
         website: https://basaktaraktas.com/
 
 instructors:
-  title: Organizer and Bootcamp Instructor 
+  title: Bootcamp Instructors 
   people:
        - name: Yunus Emre Tapan
          image: /assets/images/YEmreTapan.jpg
@@ -38,6 +38,7 @@ instructors:
 
 Speakers:
   title: Speakers
+  people:
        - name: Anita Gohdes
          image: /assets/images/2023/Istanbul/AnitaGohdes.jpeg
          bio: "Anita Gohdes is Professor of International and Cyber Security at the Hertie School. Her research focuses on contentious politics in the cyber realm, with a current emphasis on large-scale quantitative analyses of state behaviour. Previously, she was Assistant Professor of International Relations at the University of Zurich, and postdoctoral research fellow at Harvard Kennedy School's Belfer Center International Security Program. Since 2009, she has worked for the California-based non-profit organisation Human Rights Data Analysis Group. She currently advises the German Federal Foreign Office, and has consulted for the World Bank and the United Nations on security and state fragility. Her doctoral dissertation (University of Mannheim) was awarded the German Dissertation Award in the Social Sciences by the Körber Foundation, and the Walter Isard Dissertation Award by the Peace Science Society."
@@ -58,10 +59,9 @@ Speakers:
          bio: "Ingmar is an Alexander von Humboldt Professor in AI at Saarland University. Within the department of computer science, he is currently building up a new team working on “Societal Computing”. This interdisciplinary area comprises (i) computing of society, i.e. the measurement of different social phenomena, in particular using non-traditional data sources, and (ii) computing for society, i.e. working with partners on implementing solutions to help address societal challenges."     
          website: https://ingmarweber.de/
         
-  
-
 participants:
   title: Participants
+  people:
        - name: Dilge Iris Girgin
          image: /assets/images/2023/Istanbul/IrisGirgin.JPG
          bio: "Dilge Iris Girgin is an upcoming PhD student at the University of Chicago, with a background in International Relations and Sociology. She completed her MPhil in Politics and International Studies from the University of Cambridge and currently serves as a research associate at the CFPPR. Her research interests include the study of transnational repression."
