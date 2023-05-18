@@ -25,6 +25,7 @@ organizers:
 instructors:
   title: Bootcamp Instructors 
   people:
+  
        - name: Yunus Emre Tapan
          image: /assets/images/YEmreTapan.jpg
          bio: "Yunus Emre Tapan, a graduate of SICSS-Helsinki-18, is a Ph.D. Student in Political Science at Northeastern University. He studied Economics in his B.A. at Bogazici University and Middle East Studies in his M.Sc. at METU. His research sits at the intersection of data science and social sciences. He specializes in social network analysis and computational text analysis to study online extremist communities and non-state actors with a particular focus on how they radicalize. He is a graduate of ICPSR Summer Program in 2020 as one of the recipients of the Scholarship for Political Science Research."
@@ -35,9 +36,8 @@ instructors:
          bio: "Ahmet is a computer engineer with a PhD in Political Science, specializing in R programming language. His research focuses on polarization and political communication in the digital age, with an emphasis on deep learning applications in social science analysis, digital politics, and elections. In addition, Ahmet has conducted research as a visiting scholar at the Oxford Internet Institute and the University of Maryland, College Park. His work aims to shed light on the complex relationship between technology and politics and to provide insights that can help to shape policy and decision-making."
          website:
 
-
 Speakers:
-  title: Speakers
+  title: Guest Speakers
   people:
        - name: Anita Gohdes
          image: /assets/images/2023/Istanbul/AnitaGohdes.jpeg
