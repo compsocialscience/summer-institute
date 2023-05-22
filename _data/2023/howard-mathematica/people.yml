@@ -36,7 +36,12 @@ motivational:
 
 keynote:
   title: SICSS-Howard/Mathematica 2023 Keynote Speaker
-
+  people:
+    - name: Latanya Sweeney, Ph.D.
+      image: /assets/images/Latanya_Sweeney.jpeg
+      bio: "Professor of the Practice of Government and Technology at the Harvard Kennedy School and in the Harvard Faculty of Arts and Sciences, Editor-in-Chief of Technology Science, and the founding Director of the Public Interest Tech Lab, Data Privacy Lab, and the Tech Science Program at Harvard. Sweeney creates and uses technology to assess and solve societal, political and governance problems, and teaches others how to do the same. She pioneered the field known as data privacy and her work is cited in the HIPAA Privacy Rule and other federal privacy regulations worldwide. Her work on discrimination in online ads ignited the new research area known as algorithmic fairness. She is an elected fellow of the American College of Medical Informatics, with more than 100 academic publications, 3 patents, 7000 academic citations, and 3 company spin-offs. She has received numerous professional, academic and lifetime achievement awards and testified before federal and international government bodies. Among other federal appointments, Sweeney formerly served as the Chief Technology Officer at the U.S. Federal Trade Commission. In 2018, Harvard launched its new Program in Technology Science, which prepares students for jobs as technologists that work in the public interest. The program is based on Sweeney's prior success at teaching students to scientifically assess unforeseen consequences in technology and to work in civil society organizations, government, and technology companies. Sweeney joined with 50 scholars worldwide to launch the Technology Science Initiative to promote the approach broadly. Sweeney earned her Ph.D. in computer science from MIT in 2001, being the first black woman to do so. Before joining Harvard as a faculty member, Sweeney was the Distinguished Professor of Computer Science and Policy at Carnegie Mellon University, where she taught computer science, technology and policy from 1998 to 2011. She and her spouse currently serve as the X.D. and Nancy Yang Faculty Deans of Currier House at Harvard College. Professor Sweeney also serves as a member of the inaugural global Technology Policy Council of the Association for Computing Machinery, the world's largest association of computer scientists and professionals."
+      website: https://latanyasweeney.org/  
+   
 
 closing:
   title: Closing Plenary Speaker
@@ -129,11 +134,6 @@ roundtable discussions:
 lunchtime talks:
   title: Bite-Sized Lunchtime Talks
   people:
-    
-    - name: Center for Global Development
-      image: /assets/images/CGD_logo-min.png
-      bio: "We work to reduce global poverty and improve lives through innovative economic research that drives better policy and practice by the world's top decision makers. We strive for excellence and intellectual rigor and believe global prosperity starts with smart policy based on evidence. Our work is nonpartisan and our recommendations are not influenced by our funders. We are willing to challenge powerful institutions and the status quo for better development practices. We are committed to transparency, diversity, and professional and personal integrity. We recognize the inherent dignity of all persons and pledge ourselves to creating and maintaining an environment that recognizes and respects diverse groups of individuals and their experiences. We value mutual respect, a collegial work place, and a healthy sense of humor."
-      website: https://www.cgdev.org/
       
     - name: D-Lab
       image: /assets/images/D_Lab.jpg

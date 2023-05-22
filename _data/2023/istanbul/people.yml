@@ -23,9 +23,116 @@ organizers:
         website: https://basaktaraktas.com/
 
 instructors:
-  title: Bootcamp Instructor and Organizer
+  title: Bootcamp Instructors 
   people:
        - name: Yunus Emre Tapan
          image: /assets/images/YEmreTapan.jpg
          bio: "Yunus Emre Tapan, a graduate of SICSS-Helsinki-18, is a Ph.D. Student in Political Science at Northeastern University. He studied Economics in his B.A. at Bogazici University and Middle East Studies in his M.Sc. at METU. His research sits at the intersection of data science and social sciences. He specializes in social network analysis and computational text analysis to study online extremist communities and non-state actors with a particular focus on how they radicalize. He is a graduate of ICPSR Summer Program in 2020 as one of the recipients of the Scholarship for Political Science Research."
          website: https://tapanyemre.github.io/
+         
+       - name: Ahmet Kurnaz
+         image: /2019/istanbul/images/Ahmet_Kurnaz.png
+         bio: "Ahmet is a computer engineer with a PhD in Political Science, specializing in R programming language. His research focuses on polarization and political communication in the digital age, with an emphasis on deep learning applications in social science analysis, digital politics, and elections. In addition, Ahmet has conducted research as a visiting scholar at the Oxford Internet Institute and the University of Maryland, College Park. His work aims to shed light on the complex relationship between technology and politics and to provide insights that can help to shape policy and decision-making."
+
+
+Speakers:
+  title: Speakers
+  people:
+       - name: Anita Gohdes
+         image: /assets/images/2023/Istanbul/AnitaGohdes.jpeg
+         bio: "Anita Gohdes is Professor of International and Cyber Security at the Hertie School. Her research focuses on contentious politics in the cyber realm, with a current emphasis on large-scale quantitative analyses of state behaviour. Previously, she was Assistant Professor of International Relations at the University of Zurich, and postdoctoral research fellow at Harvard Kennedy School's Belfer Center International Security Program. Since 2009, she has worked for the California-based non-profit organisation Human Rights Data Analysis Group. She currently advises the German Federal Foreign Office, and has consulted for the World Bank and the United Nations on security and state fragility. Her doctoral dissertation (University of Mannheim) was awarded the German Dissertation Award in the Social Sciences by the Körber Foundation, and the Walter Isard Dissertation Award by the Peace Science Society."
+         website: https://www.anitagohdes.net/
+       - name: Christopher Barrie
+         image: /assets/images/barrie_2022.jpg
+         bio: "Christopher Barrie is Lecturer in Computational Sociology at the University of Edinburgh. He specializes in the study of protest, conflict, and communication. He is particularly interested in advancing the use of use digital trace, news, and communications data to study populations that have traditionally been 'hard-to-reach' in the empirical social sciences."
+         website: https://www.cjbarrie.com         
+       - name: Milos Popovic
+         image: /assets/images/2023/Istanbul/MilosPopovic.jpeg
+         bio: "He is a leading data visualization specialist on Twitter and a Data Analyst at Booking.com in Amsterdam. He uses R to create maps that make sense of big data. His portfolio includes over 300 maps! According to NodeXL, He is among the Top 10 dataviz and R contributor on Twitter."
+         website: https://milospopovic.net/
+       - name: Ingmar Weber
+         image: /assets/images/2023/Istanbul/IngmarWeber.jpeg
+         bio: "Ingmar is an Alexander von Humboldt Professor in AI at Saarland University. Within the department of computer science, he is currently building up a new team working on “Societal Computing”. This interdisciplinary area comprises (i) computing of society, i.e. the measurement of different social phenomena, in particular using non-traditional data sources, and (ii) computing for society, i.e. working with partners on implementing solutions to help address societal challenges."     
+         website: https://ingmarweber.de/
+        
+participants:
+  title: Participants
+  people:
+       - name: Dilge Iris Girgin
+         image: /assets/images/2023/Istanbul/IrisGirgin.JPG
+         bio: "Dilge Iris Girgin is an upcoming PhD student at the University of Chicago, with a background in International Relations and Sociology. She completed her MPhil in Politics and International Studies from the University of Cambridge and currently serves as a research associate at the CFPPR. Her research interests include the study of transnational repression."
+       - name: Jawwad Shadman Siddique
+         image: /assets/images/2023/Istanbul/JawwadSiddique.jpg
+         bio: "Jawwad Shadman Siddique is a software engineer and machine learning researcher. His prime areas of research include data cleaning, data mining, knowledge graph, link analysis, network analysis, natural language processing, optimization and, systems thinking. He develops data-based applications to solve problems relating to decision Making and in the fields of knowledge graph and computational social sciences. His passion lies in generating innovative ideas and building end-to-end products. Jawwad built a recommendation system for flood monitoring of Texas Counties using applied machine learning. He designed mapping functions in python to locate potential areas of water accumulation and developed data cleaning package using OOP principles. He developed a web analytic tool for integrated machine learning and energy education. The web framework includes datasets, operations corresponding to each step of the data science lifecycle, and methodology to formulate insights for the energy industry. In his current research he is developing a social network map that would help identify the potential areas of research interest for novice researchers. The application works via mapping of research domains across institutions. Jawwad completed his B.Sc in Civil Engineering from Bangladesh University of Engineering & Technology and M.Sc in Civil Engineering from Texas Tech University. He worked as a graduate researcher at the water resources center under the department of civil engineering, Texas Tech University. Jawwad has traveled to over 20 countries through notable conferences and projects that has shaped his thinking model for global problem identification. He gathered hands-on product development and market research skills through months of training from top accelerators & incubation programs like Watson Institute in Colorado Boulder, Startup Istanbul in Turkey, and UNLEASH in Denmark. His startup 'Waste-Bin' has been listed among 1% of 160,000+ startups coming from 60+ countries by Etohum, the largest incubator and angel investment hub in Turkey. He aims to bring a cross-sectional development of research in the applied entrepreneurial space."
+         website: https://www.linkedin.com/in/siddiquejawwad/
+       - name: İlayda Velioğlu
+         image: /assets/images/2023/Istanbul/IlaydaVelioglu.png
+         bio: "I am a psychological science master's student and mainly interested in morality. I find using R in my research projects enjoyable and rewarding."
+         website: https://www.moralintuitionslab.com/research-assistant/ilayda-velioğlu
+       - name: Gün Ünal
+         image: /assets/images/2023/Istanbul/GunUnal.jpg
+         bio: "Gün Ünal is a Ph.D. student at Ankara University, Department of Political Science. She has an MA degree in International Relations from Hacettepe University, and BA in International Relations from Bilkent University. She previously worked as a Junior Researcher for a think tank and is an alumni of 2019 MENA Workshops held by DGAP German Council for Foreign Relations in Berlin and Rabad. Her research areas cover a broad spectrum of human security studies and qualitative social research, she is interested in pathway analysis."
+       - name: Yasser Zouzou
+         image: /assets/images/2023/Istanbul/YasserZouzou.jpeg
+         bio: "Yasser is a Data Science MSc student at Sabanci University and a researcher in Viral lab. He is currently working on social media data analysis, focusing on the upcoming elections in Turkiye. His main contribution in the lab is in detecting anomalies in Twitter followers using unsupervised approaches. His field of interest is detecting, analyzing, and mitigating online misbehaviour."
+       - name: Mustafa Murat Cerit
+         image: /assets/images/2023/Istanbul/MuratC.jpeg
+         bio: "M. Murat Cerit is a research assistant in marketing at Turkish-German University, Department of Business Administration. He has a bachelor's degree from Istanbul University (2008). After working a couple of years in the industry as international sales and marketing executive, he moved to Germany to study for a master's degree thanks to a scholarship from the Ministry of National Education of the Republic of Turkey and completed the study in Business Administration at the University of Bremen (2017). He is currently a PhD candidate at Istanbul Technical University's Department of Business Administration. He focuses on brand messages published on Twitter and works with certain text analysis methods in order to understand how marketing professionals have changed their marketing communication language during the global pandemic."
+       - name: Esra Çengel
+         image: /assets/images/2023/Istanbul/EsraCengel.png
+         bio: "Esra Çengel is a research assistant and Ph.D. candidate in the Department of International Relations at Middle East Technical University (METU). She obtained a Bachelor's degree in International Relations and a Minor degree in German Language from METU. Esra earned her Master's degree from the Department of European Studies at METU with her thesis entitled 'The Greek Political Elite and the European Identity: Impact of the Debt Crisis' in 2018. Her current doctoral research focuses on the history of American-Turkish relations, examining the influence of people-to-people interactions on the political, economic, and cultural ties between the two countries. Her research interests include foreign policy analysis, nationalism, and gender. Esra is particularly interested in data-driven approaches and quantitative methodology in the field of international relations."
+       - name: Şevket Çamoğlu
+         image: /assets/images/2023/Istanbul/SevketCamoglu.jpeg
+         bio: "Second-year MA student in Quantitative Economics at Ca’ Foscari University of Venice. Interested in Economics and Finance. More specifically, financial economics, labor economics and economics of inequality, as well as global political issues and regional studies. Passionate and motivated in learning social sciences and volunteering."
+         website: www.linkedin.com/in/sevktcam
+       - name: Neslihan Gurler
+         image: /assets/images/2023/Istanbul/NeslihanGurler.jpeg
+         bio: "Neslihan Gurler, graduated from Hacettepe University Department of Sociology and she is a master student in Applied Data Science at TED University. Her main area of interest is an interdisciplinary field where software and sociology are together and combines social science and natural science methodologies. Thanks to the her learning objective, she study with social sciences methodology, especially computational methods, data analysis, machine learning (ML) and artificial intelligent (AI). She is one of the founders of a start-up called NOTAR Research and Analytics within the framework of her domain. She is also working with Hacettepe University Demography Institute for the TUBITAK project."
+       - name: Cihan Hulagu
+         image: /assets/images/2023/Istanbul/CihanHulagu.jpeg
+         bio: "Cihan graduated from Bogazici University, where he studied Psychological Guidance and Counseling. He has an interest in personality theories and social network analysis. He completed his research project on a bivariate correlational study that explored the relationship between personality types and movie preferences. His most recent research interests focus on social network analysis and the motivations behind social media use. He studies co-following relations on Twitter to understand the motives behind the ways we choose to collect information."
+         website: https://medium.com/@chulagu
+       - name: Süleyman Barış Başaran
+         image: /assets/images/2023/Istanbul/SuleymanBarısBasaran.jpeg
+         bio: "Suleyman Baris is a second-year master's student in Computational Social Science at Koc University, with a solid background in Political Sciences. His current research focuses on exploring the relationship between urban growth, environmental quality, and overall satisfaction with life. Using advanced techniques such as Geographic Information System (GIS) and Natural Language Processing (NLP), he analyzes vast amounts of data from various sources, including call center data and social media platforms. In those projects, he utilizes innovative methods like time series and geospatial analysis, as well as topic modeling and sentiment analysis. Through his research, Suleyman hopes to contribute to the development of evidence-based policies that can improve the quality of life in urban areas."
+       - name: İsa Ali Demir
+         image: /assets/images/2023/Istanbul/IsaAliDemir.JPG
+         bio: "Ali is an M.A. student in the department of International Relations at Koç University. He holds a B.A. degree in Political Science and International Relations from Boğaziçi University. His research interest lies in the intersection of computational research methods and affective polarization. Specifically, conceptualizing polarization as a geographically distributed phenomenon, he investigates the geographical drivers of affective polarization in Turkey. Prior to graduate school, he participated in several research projects and worked in policy centers as a research intern. Currently, he works as a research assistant in a Tubitak project where he computes textual analysis on speeches of Turkish political party leaders. He is heavily interested in computational research methods such as geospatial analysis and natural language process."
+       - name: Ahmet Ergurum
+         image: /assets/images/2023/Istanbul/AhmetEr.jpg
+         bio: "Ahmet Ergurum is a Political Science Ph.D. student at the University of Wisconsin-Milwaukee. His research interests include foreign policy analysis, conflict, civil wars, international security, and emerging technologies. His current research focuses on rebel groups, foreign policy decision-making of MENA leaders, and Blockchain policies of great powers. He received his Bachelor of Arts degree in International Relations from Bilkent University. He completed his Master of Arts degree in International Relations at Bilkent University. He is interested in text analysis, causal inference, quantitative methods, and computational social science."
+       - name: Benan Kazdağlı
+         image: /assets/images/2023/Istanbul/BenanKazdagli.jpg
+         bio: "Benan is a PhD student in History at Boğaziçi University. He earned his B.Sc. in Economics from Galatasaray University; and his MA in History from Istanbul 29 May University. His master's thesis was on the 18th century grain merchants of Istanbul. His PhD research will focus on grain markets of the 18th century with an attempt to go beyond the price fluctuations and study the ways in which the social and physical aspects of the markets effects the practices of exchanges. His interests revolve around the concept of market. To understand it better, he seeks to learn the methods offered by the computational social sciences."
+       - name: Sudenur Koyuncu
+         image: /assets/images/2023/Istanbul/SudenurKoyuncu.jpeg
+         bio: "Sudenur is in her last year of International Relations department in English at Ankara Hacı Bayram Veli University. During studying, she realized her interest in technology and aimed to use technology in International Relations related fields in her career. She was selected to and completed Data Science for Social Good bootcamp which was sponsored by CADS@TEDU and Kodluyoruz. She also writes in variety of topics for Gelecek Bilimde (the Future is in Science) blog.  Her interests are social data science, international organizations, international political economy, international development and energy diplomacy."
+         website: https://www.linkedin.com/in/sudenur-koyuncu-0618a2184/
+       - name: Azade Eryiğit
+         image: /assets/images/2023/Istanbul/AzadeSel.jpg
+         bio: "Azade Eryiğit is a PhD candidate in International Relations at Kadir Has University and a Research Assistant at Özyeğin University. She has a broad interest in critical security studies, foreign policy analysis, and social media analysis using NLP methods. She earned her BA degree in Political Sciences and International Relations from Şehir University and began her MA studies there. She completed her MA degree at Marmara University, where she wrote a thesis on the theory of securitization and its application in social media analysis."
+       - name: Yağmur Çağatay
+         image: /assets/images/2023/Istanbul/YagmurCagatay.jpeg
+         bio: "Yağmur Çağatay is an MA student in the Sociology Department at Boğaziçi University, where she also works as a research assistant. As part of her master’s thesis, she currently works on sexual harassment at universities and disclosures thereof. Her research interests revolve around the sociology of sexuality, social networks, and information diffusion, with a touch of film studies."
+       - name: Ozancan Ozdemir
+         image: /assets/images/2023/Istanbul/OzancanOzdemir.png
+         bio: "Ozancan Ozdemir, who graduated with a bachelor's degree in Statistics from Middle East Technical University (METU) in 2017 and with a master's degree in Statistics in 2020, as a valedictorian in both, is currently pursuing his PhD in the same department. Since 2017, he has been working as a research assistant at the METU Statistics Department and is also a co-founder of the data journalism website VeriPie. His research interests include time series forecasting, deep learning applications, data visualization, text mining, natural language processing, and election forecasting."
+         website: https://ozancanozdemir.github.io/
+       - name: Leon Oliver Wolf
+         image: /assets/images/2023/Istanbul/LeonW.JPG
+         bio: "Currently, I am pursuing a Master's degree in Social Scientific Data Analysis that focuses on statistical analysis and modeling. Through the graduate school I have gained in-depth knowledge of research puzzles, Application Programming Interfaces (APIs), and ethical considerations in data analysis. At University Maastricht, I completed an interdisciplinary Bachelor's degree in European Studies that placed a strong emphasis on Problem-Based-Learning (PBL) methods. Through this program, I developed a solid academic foundation in political science, among other related fields. I have a keen interest in utilizing data analysis to gain insights into complex socio-economic and socio-political phenomenas and am committed to continuously enhancing my skills and knowledge in this field. I aim to build upon my existing knowledge by conducting theory-led, comparative empirical analyses on politics and policy-making, with a specific focus on promoting the common good."
+       - name: Hannah Weytjens
+         image: /assets/images/2023/Istanbul/HannahW.jpg
+         bio: "Hannah is a PhD candidate in sociology at KU Leuven and ULB, Belgium. She holds a BS and MA in sociology, with a focus on cultural sociology. Her research focuses on how cities (re)create diversity and how this connects to inequities. She is particularly interested in how the aesthetic and cultural aspects of cities contribute to this. Hence, her thesis is about how people form “scenes” (i.e. loose clusters of people with similar lifestyles) based on cultural and aesthetic judgements in the Brussels’ neighborhoods of Matonge and Molenbeek, and how these scenes relate to each other."
+       - name: Melih Can Yardı
+         image: /assets/images/2023/Istanbul/MelihCanYardı.JPG
+         bio: "Melih Can Yardı is a second-year MA student in Computational Social Sciences at Koç University and a researcher at the Politus Project. He holds a bachelor's degree in Political Science and International Relations & Philosophy from Boğaziçi University. He specializes in social media, natural language processing, and social network analysis. His current work focuses on stance detection, online communication, political behavior, and public opinion & discourse."
+       - name: Alper Tunga Şahiner
+         image: /assets/images/2023/Istanbul/AlperSahiner.jpg
+         bio: "Alper Tunga Şahiner is currently pursuing his Master's degree in Political Science at Sabancı University and he is a research assistant at Istanbul Gedik University. He holds a BA in Political Science and International Relations, and BA in Sociology from Istanbul Sehir University. He enjoys working on various topics ranging from colonization to football transfers, from civil wars to extreme right-wing party votes. Currently, his research is primarily focused on international political economy, offshoring, and economic nationalism."
+       - name: Serhat Demirkıran
+         image: /assets/images/2023/Istanbul/SerhatDemirkıran.jpg
+         bio: "Serhat Demirkıran is a Data Science MSc. student at Sabancı University. He is also a member of Viral Lab led by Professor Onur Varol. He received his bachelor's degree in Computer Engineering from İstanbul Technical University. He studied recommender systems for his graduation project, developed a model to predict tweet engagement rates as a problem presented by RecSys Challenge 2020. He is interested in user behaviour and political polarization in social media lately."
+       - name: Gevher Yesevi
+         image: /assets/images/2023/Istanbul/GevherYesevi.jpg
+         bio: "Gevher is a data scientist and consultant with expertise in energy systems. She holds a Bachelor's degree in Industrial Engineering and is pursuing a Master's degree in AI at Ozyegin University. Gevher has worked on a range of consultancy projects for energy systems and building automated machine learning modules for time series forecasting. Her research interests include behavior modeling in bilateral negotiations and time series forecasting."
