@@ -22,19 +22,18 @@ In order to prepare for SICSS-Abu Dhabi, we recommend reading Matt Salganik’s 
 The [SICSS Boot Camp](https://sicss.io/boot_camp) is an online training program created by Chris Bail to provide you with beginner level skills in coding so that you can follow the more advanced curriculum we teach at SICSS. The videos and materials are designed for complete beginners and are best viewed as a sequence since each video builds upon content introduced in previous tutorials. If you are already familiar with the topics in these videos, you do not need to complete them.
 
 If you would like more practice after completing the Boot Camp videos, some other materials that we can recommend are:
-- [RStudio Primers](https://rstudio.cloud/learn/primers), which can be supplemented by the open access book _[R for Data Science](https://r4ds.had.co.nz/)_ by Garrett Grolemund and Hadley Wickham
-- [R for Social Science](https://datacarpentry.org/r-socialsci/), Data Carpentry.  
-- [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/), Taught by Charles Lanfear at University of Washington. This course includes videos of lectures, slides, and assignments.
-- [Learn R](https://www.codecademy.com/learn/learn-r), Code Academy.
+- [Python for Beginners](https://www.youtube.com/watch?v=eWRfhZUzrAc&ab_channel=freeCodeCamp.org) or [Learn Python](https://www.codecademy.com/learn/learn-python-3) for those who have never used Python before or wish to refresh their knowledge on the programming language.
+- [Introduction to Computational Social Science methods with Python](https://github.com/gesiscss/css_methods_python) and [Data Science from Scratch](https://www.oreilly.com/library/view/data-science-from/9781492041122/) both cover the basics of using Python for computation social science research, including data wrangling using Pandas, web scraping, network analysis, machine learning, etc.
+- For those who wish to learn more about machine learning and deep learning, we recommend [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/).
 
-Please note that the majority of the coding work presented at SICSS-Abu Dhabi will employ R. You are welcome to employ a language of your choice, such as Python, Julia, or other languages that are commonly used by computational social scientists.  However, we cannot support those languages.
+Please note that the majority of the coding work presented at SICSS-Abu Dhabi will employ Python. You are welcome to employ a language of your choice, such as R, Julia, or other languages that are commonly used by computational social scientists.  However, we cannot support those languages.
 
 
 ## Computing environment
 
-### R
+### Python
 
-Some of the activities will require coding, and we will support R. You are welcome to use other languages, but we cannot guarantee that we can support them. Before SICSS you should install a modern, stable-release version of [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/).
+Some of the activities will require coding, and we will support Python. You are welcome to use other languages, but we cannot guarantee that we can support them. Before SICSS you should install a modern, stable-release version of [Python 3](https://www.python.org/downloads/) and [Jupyter Notebook](https://jupyter.org/install). If you are looking for an environment management tool to keep your libraries organized, we recommend [conda](https://docs.conda.io/en/latest/).
 
 
 ### Slack
