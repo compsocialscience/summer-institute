@@ -54,6 +54,10 @@ Speakers:
          image: /assets/images/2023/Istanbul/IngmarWeber.jpeg
          bio: "Ingmar is an Alexander von Humboldt Professor in AI at Saarland University. Within the department of computer science, he is currently building up a new team working on “Societal Computing”. This interdisciplinary area comprises (i) computing of society, i.e. the measurement of different social phenomena, in particular using non-traditional data sources, and (ii) computing for society, i.e. working with partners on implementing solutions to help address societal challenges."     
          website: https://ingmarweber.de/
+       - name: Ollie Ballinger
+         image: /assets/images/2023/Istanbul/OllieBallinger.jpeg
+         bio: "He is a Lecturer in Geocomputation at the Centre for Advanced Spatial Analysis at University College London. He did his PhD at the Oxford Department for International Development, where his research focuses on developing computational methods for the study of insurgent recruitment in Turkey. He sometimes builds and writes things for Bellingcat, where he is a Tech Fellow. He is a big fan of satellites and strange datasets."     
+         website: https://oballinger.github.io/
         
 participants:
   title: Participants
