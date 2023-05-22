@@ -1,1 +1,19 @@
-- name: 
+- name: Bedoor AlShebli
+  bio: Bedoor AlShebli is an Assistant Professor of Computational Social Science at NYUAD. She received her PhD in Interdisciplinary Engineering in 2017 from Masdar Institute of Science and Technology, and her MSc in Computer Science from the University of Illinois at Urbana-Champaign. Bedoor's research focuses on using data science techniques to study social phenomena, with a particular emphasis in the Science of Science. She is interested in the social and economic benefits of diversity, as well as the dynamics of social interaction and cohesion, and frames social science problems in the contexts of data science, big data, and applied machine learning. Her work appeared in major academic journals, including Nature Human Behavior, Nature Communications, Science Advances, and the Proceedings of the National Academy of Sciences. Cumulatively, her work contributes to the fields of computational social science, data science, and machine learning.
+  image: /assets/images/bedoor_s.jpg
+  website: https://www.bedooralshebli.com/
+
+- name: Kinga Makovi
+  bio: Kinga Makovi is an Assistant Professor at New York University Abu Dhabi. She is a co-PI of the Center for Interacting Urban Networks at NYUAD, CITIES. Prior to joining NYUAD, she earned a PhD in Sociology from Columbia University and a MS in Mathematical Economics from Corvinus University of Budapest. Makovi's research addresses questions at the intersection of network science, the social determinants of health and environmental behavior, using computational and experimental methods. Her research has been funded by the National Science Foundation and has appeared in Sociological Science and Network Science.
+  image: /assets/images/kinga_s.jpg
+  website: https://www.makovi.net/
+
+- name: Minsu Park
+  bio: Minsu Park is an Assistant Professor of Social Research and Public Policy at New York University Abu Dhabi. He develops and applies quantitative and computational methods to study the consumption and production of creative work. His current projects focus on how cultural artifacts/interests flow worldwide and how social traces, such as ratings, reviews, and reviewer identities, shape audiences’ perceptions and engagements online. His research inhabits an interdisciplinary nexus between data science and social science, simultaneously drawing on and contributing to both, and has been published in top-tier venues in both computer and information science conferences (e.g., ISMIR, ICWSM) and interdisciplinary journals (e.g., Science Advances, Nature Human Behaviour). He received his doctorate in Information Science at Cornell University, where he was a member of the Social Dynamics Lab. He is also affiliated with the Center for Data Science at New York University.
+  image: /assets/images/minsu_s.jpg
+  website: https://minsu-park.github.io/home/about/index.html
+
+- name: Luca Maria Pesando
+  bio: Luca Maria Pesando is an Associate Professor of Social Research and Public Policy at NYU-AD. Luca holds a PhD in Demography and Sociology from the University of Pennsylvania, and an MA and BA in Economics and Social Sciences from Bocconi University. His research lies in the areas of social, economic, and digital demography and explores the interactions between family change and educational inequalities in low- and middle-income countries. More recently, he has conducted research using social media data from Google and Facebook. Having worked with JPAL, the OECD, UNICEF, and other NGOs, Luca has extensive experience in the policy world.
+  image: /assets/images/luca_s.jpg
+  website: https://www.lucamariapesando.com/
