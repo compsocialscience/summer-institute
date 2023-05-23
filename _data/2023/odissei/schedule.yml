@@ -15,7 +15,7 @@
     - name: "Session 3: Introduction to the theme of the Summer School. Speakers: [Elizaveta Sivak](https://www.rug.nl/staff/e.sivak/cv?lang=en) & [Paulina Pankowska](https://www.uu.nl/staff/PKPankowska)"
     - name: "Programme starts at 10:00, rather than 9:00"
     - name: "Location: Room: T3-13, [Mandeville building](https://goo.gl/maps/qHNoLv4gcb6s4mBp8)"
-    - name: "Guest lecture: Speaker to be announced"
+    - name: "Opening Drinks & Bites @ Erasmus Paviljoen, Rotterdam"
 
 - date: Tuesday June 20, 2023
   name: "Introduction to Machine Learning & the LISS panel"
@@ -23,14 +23,14 @@
     - name: "Session 1 & 2: Introduction to Machine Learning"
     - name: "Session 3: Introduction to LISS"
     - name: "Location: Room: T3-13, [Mandeville building](https://goo.gl/maps/qHNoLv4gcb6s4mBp8)"
-    - name: "Guest lecture: Speaker to be announced"
+    - name: "Guest lecture by Jan Kabatek (University of Melbourne): Challenges on working with CBS data and making them accessible"
    
 - date: Wednesday June 21, 2023
   name: "Advanced Machine Learning Using LISS Data"
   events:
     - name: "Session 1, 2 & 3: Advanced Machine Learning Using LISS Data"
     - name: "Location: Room: T3-13, [Mandeville building](https://goo.gl/maps/qHNoLv4gcb6s4mBp8)"
-    - name: "Guest lecture: Speaker to be announced"
+    - name: "Guest lecture by Gabriele Mari (Erasmus University Rotterdam): Educational Outcomes using CBS Data"
 
 - date: Thursday June 22, 2023
   name: "Causal Impact Analysis & Network Analysis"
@@ -38,7 +38,8 @@
     - name: "Session 1 & 2: Causal Impact Analysis. Speaker: [Erik-Jan van Kesteren](https://www.uu.nl/staff/EvanKesteren)"
     - name: "Session 3: Intro to Network Analysis. Speaker: [Javier Garcia-Bernardo](https://www.uu.nl/staff/JGarciaBernardo)"
     - name: "Location: Room: T3-13, [Mandeville building](https://goo.gl/maps/qHNoLv4gcb6s4mBp8)"
-    - name: "Guest lecture: Speaker to be announced"
+    - name: "Guest lecture by Clémentine Cottineau (TU Delft): Agent-Based Modelling of Urban Segregation"
+    - name: "Drinks & Dinner at De Gele Kanarie in Rotterdam"
     
 - date: Friday June 23, 2023
   name: "Introduction to the LISS Benchmarking Challenge & Administrative Data"
@@ -46,7 +47,7 @@
     - name: "Session 1 & 2: The LISS Benchmark Challenge."
     - name: "Session 3: Network Analysis in Administrative Data"
     - name: "Location: Room: T3-13, [Mandeville building](https://goo.gl/maps/qHNoLv4gcb6s4mBp8)"
-    - name: "Guest lecture: Speaker to be announced"
+    - name: "Guest lecture by Chang Sun (Maastricht University): Synthetic Data"
      
 - date: Week 2
   name: "Benchmarking Challenge"
@@ -59,6 +60,7 @@
     - name: "9:00 - 15:00 Group Project: Benchmarking Challenge"
     - name: "Guest lecture: Speaker to be announced"
     - name: "Location: Room: T3-13, [Mandeville building](https://goo.gl/maps/qHNoLv4gcb6s4mBp8)"
+    - name: "Guest lecture by Mark Verhagen (University of Oxford) 
  
  
 - date: Tuesday June 27, 2023
@@ -81,6 +83,7 @@
     - name: "9:00 - 15:00 Group Project: Benchmarking Challenge"
     - name: "Guest lecture: Speaker to be announced"
     - name: "Location: Room: T3-13, [Mandeville building](https://goo.gl/maps/qHNoLv4gcb6s4mBp8)"
+    - name: "Closing Dinner at Stockholm, Rotterdam"
   
 - date: Friday June 30, 2023
   name: "Benchmarking Challenge"
