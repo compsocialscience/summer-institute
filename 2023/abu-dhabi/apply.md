@@ -17,16 +17,16 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 Applicants must submit the following documents: (i) a CV, (ii) a brief statement of interest (max 2 pages including their motivation and what types of projects they want to work on), and (iii) 2 emails for potential recommendations.
 
-**In order to be guaranteed full consideration, all application materials must be submitted by \_\_\_\_\_.** All application materials must be submitted through [this survey form](https://forms.gle/tr6aRDuXH2EJDYJBA). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by \_\_\_\_\_, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by August 31, 2023.** All application materials must be submitted through [this survey form](https://forms.gle/tr6aRDuXH2EJDYJBA). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by September 31, 2023, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to \_\_\_\_\_.
 
 ## Application Frequently Asked Questions
 
-#### Can I apply to more than one Summer Institute location?
+#### Can I apply to more than one Summer/Winter Institute location?
 
-Yes, but not at the same time. For example, you can apply to SICSS-Abu Dhabi, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.
+Yes, but not at the same time. For example, you can apply to WICSS-Abu Dhabi, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.
 
-#### Can I participate in SICSS-Abu Dhabi if I have already participated in SICSS at another location?
+#### Can I participate in WICSS-Abu Dhabi if I have already participated in SICSS or WICSS at another location?
 
-No. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
+No. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS (or WICSS) once before we allow folks to participate twice.
