@@ -1,19 +1,39 @@
 - date: All times are Eastern Standard Time
 
 - date: 2023-07-10
-  name: SICSS-Atlanta Welcome
+  name: Introduction and Ethics
+  events:
+    - name: "10:00 - 11:00 Why SICSSS? Introductions & Announcements"
+    - name: "11:00 - 2:00 Ethics & Lunch: Kat Albrecht, GSU Criminal Justice and Criminology & Fellow with CJARS"
+    - name: "2:00 - 4:30 Groups: Work Session & Wrap-up"
 
 - date: 2023-07-11
-  name: TBA
+  name: Text as Data
+  events:
+    - name: "10:00 - 1:00 Guest Lecturer & Lunch: Casey Wichman, GaTech Economics & University Fellow at Resources for the Future"
+    - name: "1:00 - 3:00 Text Analysis Workshop"
+    - name: "3:00 - 4:30 Groups: Work Session & Wrap-up"
   
 - date: 2023-07-12
-  name: TBA
+  name: Causal Inference 
+  events:
+    - name: "10:00 - 1:00 Guest Lecturer & Lunch: Daniel Dench, Health Economics & Analytics Lab (HEAL) at GaTech Economics"
+    - name: "1:00 - 2:00 Introduction to Digital Trace Data"
+    - name: "2:00 - 4:30 Groups: Work Session & Wrap-up"
 
 - date: 2023-07-13
-  name: TBA
+  name: Mixed Methods Analysis
+  events:
+    - name: "10:00 - 1:00 Guest Lecturer & Lunch: Raeda Anderson, Shepherd Center & GSU Sociology"
+    - name: "1:00 - 3:00 Introduction to Surveys"
+    - name: "3:00 - 4:30 Groups: Work Session & Wrap-up"
 
 - date: 2023-07-14
-  name: TBA
+  name: GitHub Copilot
+  events:
+    - name: "10:00 - 1:00 Guest Lecturer & Lunch: Alfredo Deza, Microsoft & Duke Engineering"
+    - name: "1:00 - 2:00 Introduction to Mass Collaboration & Experiments"
+    - name: "2:00 - 4:30 Group Formation For Week 2, Group Work"
  
 - date: 2023-07-15
   name: Day off
