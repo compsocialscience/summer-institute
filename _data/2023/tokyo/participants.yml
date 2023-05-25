@@ -45,4 +45,8 @@
   image: /assets/images/Robin_Forsberg.jpg
   bio: "Robin Forsberg is a Data Scientist and Engineer currently pursuing a PhD in responsible AI and machine learning at the University of Helsinki, Finland. Having lived and worked in Denmark, Ireland and the US, Robin has industry experience in social media and advertising, healthcare and financial services, working for Meta, Schibsted and Nordic Healthcare Group. Robin is trained in information technology and holds a Master of Science in Economics."
   website: https://www.linkedin.com/in/robinforsberg/
-  
+
+- name: Guillermo Lezama
+  image: /assets/images/Guillermo_Lezama.jpg
+  bio: "Guillermo Lezama is a Ph.D. Candidate in Economics at the University of Pittsburgh. He was born and raised in Uruguay, where he also completed his undergraduate studies at the Universidad de la República (Udelar). His research interests lie in the field of Political Economy, specifically in the different approaches that can be used to address Political Economy questions. He is particularly interested in the application of text-learning methods and applied microeconomics to study political behavior."
+  website: https://guillelezama.netlify.app/
