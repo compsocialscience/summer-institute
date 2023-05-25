@@ -1,3 +1,43 @@
-- date: TBD
+- date: Week one
+
+- date: Monday, 26 June 2023
   events:
-    - name: "Schedule coming soon..."
+    - name: "13:00 - 14:00 Introduction and logistics"
+    - name: "14:00 - 15:00 Topic: What is CSS and why SICSS"
+    - name: "15:00 - 16:00 Speakers: Visseho on CSS and Africa"
+    - name: "16:00 - 17:00 Group Exercise"
+
+- date: Tuesday, 27 June 2023
+  events:
+    - name: "10:00 - 11:00 Results of Mondays exercise"
+    - name: "11:00 - 13:00 R recap"
+    - name: "13:00 - 14:00 Lunch break"
+    - name: "14:00 - 16:00 Topic: APIs and Digital Trace Data"
+    - name: "16:00 - 18:00 Group Exercise / R office hours"
+
+- date: Wednesday, 28 June 2023
+  events:
+    - name: "10:00 - 11:00 Presentation of Group Exercise Results"
+    - name: "11:00 - 13:00 Topic: Text as Data"
+    - name: "13:00 - 14:00 Lunch break"
+    - name: "14:00 - 15:00 Enrichment Session Panel"
+    - name: "16:00 - 17:00 Group Exercise / R office hours"
+
+- date: Thursday, 29 June 2023
+  events:
+    - name: "10:00 - 12:00 Experiments in the Digital Era"
+    - name: "12:00 - 13:00 Lunch break"
+    - name: "13:00 - 15:00 Group Exercise"
+    - name: "15:00 - 16:00 Enrichment Session"
+    - name: "16:00 - 17:00 R office hours"
+
+- date: Friday, 30 June 2023
+  events:
+    - name: "10:00 - 12:00 Text Analysis"
+    - name: "12:00 - 13:00 Lunch break"
+    - name: "13:00 - 15:00 Ethics"
+    - name: "15:00 - 16:00 R office hours"
+
+- date: Saturday - Sunday
+  events:
+    - name: "Day off"

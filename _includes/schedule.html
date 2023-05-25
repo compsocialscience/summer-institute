@@ -8,8 +8,8 @@
     <div class="card-header">
       <h5>
         <strong>
-	  {% if location == 'jias' %}
-	  {{ day.date | date: "%A %-d %B %Y" }}
+	  {% if location == 'jias' or location == 'johannesburg' %}
+	  {{ day.date | date: "%A, %d %B %Y" }}
 	  {% else %}
           {{ day.date | date: "%A %B %-d, %Y" }}
 	  {% endif %}
