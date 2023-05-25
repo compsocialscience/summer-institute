@@ -25,7 +25,7 @@ The Summer Institute aims to bring together computational social scientists acro
 
 英語、日本語、どちらか扱いやすい言語でご記載ください。(3)に関して、共著のものでも構いません。その場合、ご自身を含む各著者の貢献について明記したメモを添付することをおすすめします。応募にあたり、必ずe-mailアドレスを(1)にご記載ください。
 
-応募締め切りは、2023年3月17日になります。すべての応募書類は、[こちらのグーグルフォーム](https://docs.google.com/forms/d/e/1FAIpQLScPOA0bu69hcsJMSo84ZQW3berJmV9JmL7fHkhWitIIitOxew/viewform?usp=sf_link)から提出してください。応募者の方には、2023年4月1日までに合否の連絡をさせていただきます。
+応募締め切りは、2023年6月16日になります。すべての応募書類は、[こちらのグーグルフォーム](https://docs.google.com/forms/d/e/1FAIpQLScPOA0bu69hcsJMSo84ZQW3berJmV9JmL7fHkhWitIIitOxew/viewform?usp=sf_link)から提出してください。応募者の方には、2023年7月1日までに合否の連絡をさせていただきます。
 
 ご質問がある場合は、sicsstokyo@gmail.comにご連絡ください。
 
@@ -38,7 +38,7 @@ Applicants must submit the following documents:
 
 You can write in English or Japanse. Co-authored work is acceptable for the writing sample (3), but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. All applications must include an e-mail.
 
-In order to be guaranteed full consideration, all application materials must be submitted by March 17, 2023 through [this google form](https://docs.google.com/forms/d/e/1FAIpQLScPOA0bu69hcsJMSo84ZQW3berJmV9JmL7fHkhWitIIitOxew/viewform?usp=sf_link). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 1, 2023, and will ask participants to confirm their participation very soon after that.
+In order to be guaranteed full consideration, all application materials must be submitted by June 16, 2023 through [this google form](https://docs.google.com/forms/d/e/1FAIpQLScPOA0bu69hcsJMSo84ZQW3berJmV9JmL7fHkhWitIIitOxew/viewform?usp=sf_link). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by July 1, 2023, and will ask participants to confirm their participation very soon after that.
 
 Inquiries can be sent to sicsstokyo@gmail.com.
 
