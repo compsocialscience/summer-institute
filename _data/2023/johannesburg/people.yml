@@ -18,14 +18,27 @@ facilitators:
 speakers:
   title: Speakers
   people:
+    - name: Vissého Adjiwanou
+      image: /assets/images/Visseho.jpg
+      bio: "Vissého Adjiwanou is a professor of Demography and quantitative and computational methods in the Department of Sociology at the Université du Québec à Montréal (UQAM), and adjunct professor at the Department of Demography (Université de Montréal). He directs the Lab on quantitative and computational social science. He is also affiliated with the Centre on Population Dynamics (McGill University). He received an M.A in Statistics from the National School of Statistics and Applied Economics (ENSEA-Cote d’Ivoire), an M.A in Economics of Development at the Centre for Studies and Research on International Development (CERDI- France) and a PhD in Demography from the Université de Montréal (Canada). His research focusses on population issues in sub-Saharan Africa and in Canada, including fertility, family dynamics, gender inequality, reproductive health, and integration of immigrants from SSA in Canada."
+      website: https://sociologie.uqam.ca/corps-professoral/professeurs-es/professeur/adjiwanou.visseho/
+
+    - name: Anthony Kaziboni
+      image: /assets/images/2023/johannesburg/anthony_kaziboni.jpeg
+      bio: "Dr Anthony Kaziboni is Head of Research at the Institute for the Future of Knowledge. He holds a doctorate in Sociology from the University of Johannesburg, South Africa. He researches hydropolitics, migration and social inequalities. He is the Regional Representative for South Africa for the International Sociological Association's (ISA) Clinical Sociology Research Group. In 2018 he received the prestigious Outstanding Early Career Award in Clinical Sociology by the ISA's Clinical Sociology Research Committee in Toronto, Canada. He has [co]authored publications in accredited journals and books as well as newspaper articles."
+      website: https://futureofknowledge.org/our-people/anthony-kaziboni/
+
     - name: Vukosi Marivate
-      bio: Prof. Vukosi Marivate is the ABSA UP Chair of Data Science at the University of Pretoria. He is an Associate Professor of Computer Science. Vukosi works on developing Machine Learning/Artificial Intelligence methods to extract insights from data. A large part of his work over the last few years has been in the intersection of Machine Learning and Natural Language Processing. Vukosi's work in this area focuses on techniques to improve tools for and availability of data for local languages or low resource languages. Vukosi is a co-founder of Deep Learning Indaba (https://deeplearningindaba.com/). He currently serves as a chief investigator on the Masakhane NLP project (https://www.masakhane.io/) and on the steering committee of the Lacuna Fund (https://lacunafund.org/). As part of his vision for Data Science, Vukosi is interested in Data Science for Social Impact (https://dsfsi.github.io/), using local challenges as a springboard for research. In this area, Vukosi has worked on projects in science, energy, public safety and utilities. Vukosi is a co-founder of the Deep Learning Indaba, the largest Machine Learning/Artificial Intelligence workshop on the African continent, aiming to strengthen African Machine Learning.
+      bio: "Prof. Vukosi Marivate is the ABSA UP Chair of Data Science at the University of Pretoria. He is an Associate Professor of Computer Science. Vukosi works on developing Machine Learning/Artificial Intelligence methods to extract insights from data. A large part of his work over the last few years has been in the intersection of Machine Learning and Natural Language Processing. Vukosi's work in this area focuses on techniques to improve tools for and availability of data for local languages or low resource languages. Vukosi is a co-founder of Deep Learning Indaba (https://deeplearningindaba.com/). He currently serves as a chief investigator on the Masakhane NLP project (https://www.masakhane.io/) and on the steering committee of the Lacuna Fund (https://lacunafund.org/). As part of his vision for Data Science, Vukosi is interested in Data Science for Social Impact (https://dsfsi.github.io/), using local challenges as a springboard for research. In this area, Vukosi has worked on projects in science, energy, public safety and utilities. Vukosi is a co-founder of the Deep Learning Indaba, the largest Machine Learning/Artificial Intelligence workshop on the African continent, aiming to strengthen African Machine Learning."
       website: https://dsfsi.github.io
       image: /assets/images/2023/johannesburg/vukosi.jpg
+
+
 participants:
   title: Participants
   people:
 
+    
 interns:  
   title: Interns
   people:
