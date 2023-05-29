@@ -1,1 +1,51 @@
-- name:
+- name: Jeongho	Choi
+  image: /assets/images/ias_choi_jeongho.jpg
+  bio: Jeongho Choi is pursuing a Ph.D. in Political science from the University of Iowa, USA. He received BA and MA in Political Science from Kyung Hee University, South Korea. His research interests include comparative politics and political methodology, with particular focuses on populism, public opinion, text analysis, and machine learning.
+  website: https://politicalscience.uiowa.edu/people/jeongho-choi
+
+- name: Christina	Cano
+  image: /assets/images/ias_christina_cano.jpeg
+  bio: Christina is a Ph.D. student in Sociology and Fellow with the Center of Race, Indigeneity, and Transnational Migration at Yale interested in racial capitalism, critical geography, settler colonialism, political economy, and mixed methods. Their research examines how states define, police, and prisonize communities through mapping, technology, and infrastructure.
+  website: https://twitter.com/christinancano
+
+- name: Zhuojun	Gu
+  image: /assets/images/ias_zhuojun_gu.png
+  bio: Zhuojun Gu is a PhD student at the Department of Psychology at Lund University in Sweden. His interest is in the intersection between computational psychology and clinical psychology, especially depression and anxiety. His current research focuses on using computational methods, e.g., large language models, to investigate human-centered, clinically aligned psychometric research. His work is trying to extend the horizons of more accurate diagnosis of mental disorders as well as precise treatment prediction for mental health.
+  website: https://www.linkedin.com/in/zhuojun-alex-gu-76472030/
+
+- name: Maarja Vollmer
+  image: /assets/images/ias_maarja_vollmer.png
+  bio: Maarja is a doctoral researcher at University of Neuchâtel (Switzerland) within a project on narratives of crisis and their influence on migration policies. Her background is in sociology and migration studies. Her research interests include migration governance, migration policy formation, securitisation of migration, citizenship, and text-as-data methods.
+  website: https://www.linkedin.com/in/maarja-vollmer/	
+
+- name: Marcel Kappes
+  image: /assets/images/ias_marcel_kappes.jpg
+  bio: Marcel Kappes is PhD student at the Graduate School of Economic and Social Sciences at the University of Mannheim. In his empirical research, he uses quantitative-, network-, and computational methods to investigate the consequences of issue changes in social movement organizations and immigrants’ job careers in the German labor market.
+  website: https://www.uni-mannheim.de/gess/programs/cdss/our-students/2021/marcel-kappes/
+
+- name: Axel Norgren
+  image: /assets/images/ias_axel_norgren.png
+  bio: PhD student in Economics at Linköping University. An interdisciplinary social scientist that has an interest in quantitative methods from analytical sociology as well as other fields. My research revolves broadly around education and more specifically around school choice, the effectiveness of accountability systems, turnaround schools etc.
+  website: https://scholar.google.com/citations?user=K-YEsKsAAAAJ&hl=sv
+
+- name: Steven Bao
+  image: /assets/images/ias_steven_bao.jpg
+  bio: Steven Bao is a doctoral student in Sociology at the Ohio State University. His research interests lies in the broader area of sociology of work, social movement, and political sociology. His current projects include the relationship between state response and social movements, new forms of labor organizing and precarious work in contemporary society. Methodologically, he is interested in combining qualitiative methods with computational techniques.
+
+- name: Gong Zhang
+  image: /assets/images/ias_gong_zhang.jpg
+  bio: My name is Gong Zhang, a PhD student at the Faculty of Architecture and Built Environment, TU Delft. I have been focusing on using computational technologies in the field of the built environment and social science, such as urban morphology, human well-being, and heritage sustainable development.
+  website:
+
+- name: Susanne	Böller
+  image: /assets/images/ias_susanne_boeller.jpg
+  bio: Susanne Böller is a PhD student in sociology at the University of Bonn. Her research examines the emergence of social and symbolic boundaries among adolescents. As part of the Emmy Noether group "Sorting Decisions and Peer Processes in Schools" (SPINS) she analyses how school principals' decisions regarding classroom placements affect peer relations at secondary schools.
+
+- name: Julia	Gottstein
+  image: /assets/images/ias_yuliya_gottstein.jpg
+  bio: Julia Gottstein is a doctoral student at the Faculty of Social Sciences, Charles University. Her dissertation project explores dark participation and the perception of its moderation in Czech media. She uses computational methods to examine mediated interactions in the social media comments section of news media outlets.
+
+- name: Regan	Smock
+  image: /assets/images/ias_regan_smock.jpg
+  bio: Regan Smock is a graduate student at the University of Iowa, interested in social psychology and culture.
+  website:
