@@ -1,9 +1,0 @@
-- name: Thomas Davidson
-  image: /assets/images/thomasDavidson.jpg
-  bio: "Thomas Davidson is a PhD candidate in Sociology at Cornell University. In fall 2020 he will be an Assistant Professor of Sociology at Rutgers University. He studies political discussions, hate speech, and other topics using digital trace data. His research involves a number of different computational methods including machine learning, natural language processing, and social network analysis."
-  website: https://www.thomasrdavidson.com/
-
-- name: Yotam Shmargad
-  image: /assets/images/Yotam.jpg
-  bio: "Yotam Shmargad is an Assistant Professor in the School of Government & Public Policy at the University of Arizona. His research focuses on understanding how social media platforms shape political life in the United States. He uses a mix of statistical and computational methods, including social network analysis, online data collection, virtual experimentation, sentiment analysis, and machine learning."
-  website: http://www.yotamshmargad.com

@@ -1,7 +1,0 @@
-language: ruby
-bundler_args: --with ci
-cache: bundler
-rvm:
- - 2.4.1
-script:
- - bundle exec jekyll build

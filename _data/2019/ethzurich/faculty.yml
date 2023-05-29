@@ -1,9 +1,0 @@
-- name: Elliott Ash
-  image: /assets/images/elliott_ash.jpg
-  bio: Elliott Ash is Assistant Professor at ETH Zurich Department of Social Sciences, where he chairs the Law, Economics, and Data Science Group. Professor Ash's research undertakes empirical analysis of law and political economy, with methods drawn from applied microeconometrics, natural language processing, and machine learning. Professor Ash was previously Assistant Professor of Economics at University of Warwick, and before that a Postdoctoral Research Associate at Princeton University. He received a PhD in economics and JD from Columbia University, a BA in economics, government, and philosophy from University of Texas at Austin, and an LLM in international criminal law from University of Amsterdam.
-  website: http://elliottash.com
-
-- name: Elena Labzina
-  image: /assets/images/elena.jpg
-  bio: Elena is a postdoctoral associate in the Law, Economics, and Data Science Group in the Lab of Law & Economics at ETH Zurich. Elena works on the intersection between causal inference and machine learning in the context of the political media and its effects. Recently, her work has been focused on natural language processing. She is an enthusiastic proponent of computational social science in general. In 2018, she received her Ph.D. in political science and MA in statistics at Washington University in Saint Louis. Also, she holds MAs in political science from Central European University in Budapest and economics from New Economic School in Moscow. Her undergraduate degree in Applied Math and Computer Science is from Moscow State University.
-  website: http://elenalabzina.net
