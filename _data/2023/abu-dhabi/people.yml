@@ -11,6 +11,11 @@ faculty:
       image: /assets/images/kinga_s.jpg
       website: https://www.makovi.net/
 
+     - name: Mario D. Molina
+      bio: Mario is a Postdoctoral Associate in the Social Science Division at New York University Abu Dhabi, and he will start as an assistant professor at NYUAD in the Fall of 2024. He holds a PhD in Sociology from Cornell University, an MA in Sociology from Universidad Catolica de Chile, and a BA in Philosophy from Universidad de los Andes (Chile). His research lies at the interface of economic sociology, social networks, and computational social science. He broadly considers how organizational structures and network dynamics impact beliefs about unequal rewards and prosocial behaviors and the mechanisms that feedback to sustain or disrupt these social systems. His work has appeared in Organization Science, Science Advances, and the Annual Review of Sociology, among other outlets.
+      image: /assets/images/mario_s.jpg
+      website: https://mariodmolina.com/
+
     - name: Minsu Park
       bio: Minsu Park is an Assistant Professor of Social Research and Public Policy at New York University Abu Dhabi. He develops and applies quantitative and computational methods to study the consumption and production of creative work. His current projects focus on how cultural artifacts/interests flow worldwide and how social traces, such as ratings, reviews, and reviewer identities, shape audiences’ perceptions and engagements online. His research inhabits an interdisciplinary nexus between data science and social science, simultaneously drawing on and contributing to both, and has been published in top-tier venues in both computer and information science conferences (e.g., ISMIR, ICWSM) and interdisciplinary journals (e.g., Science Advances, Nature Human Behaviour). He received his doctorate in Information Science at Cornell University, where he was a member of the Social Dynamics Lab. He is also affiliated with the Center for Data Science at New York University.
       image: /assets/images/minsu_s.jpg
@@ -36,6 +41,7 @@ speakers:
 
     - name: Edmond Awad
       image: /assets/images/edmond_s.png
+      website: https://www.edmondawad.me/
 
 teaching_assistants:
   title: "Teaching Assistants"
@@ -47,6 +53,10 @@ teaching_assistants:
     - name: Thomas Marlow
       bio: Thomas Marlow is a postdoctoral fellow at the New York University Abu Dhabi, Center for Interacting Urban Networks (CITIES). Thomas received his PhD in Sociology from Brown University in Spring 2020. His research sits at the intersection of environmental and urban sociology. It seeks to use innovative computational social science methodologies to answer questions about the emergence and maintenance of urban and environmental inequalities during global climate change.
       image: /assets/images/marlow_s.jpg
+
+    - name: Maria Sahakyan
+      bio: Maria Sahakyan obtained her Ph.D. in Electrical Engineering and Computer Science from Khalifa University. Currently she holds the position of a postdoctoral associate at New York University Abu Dhabi, in Computational Social Science. She primarily focuses her academic endeavors on computational social science and explainable artificial intelligence by exploring the societal and economic advantages associated with diversity, while also leveraging XAI methodologies as versatile instruments for data analysis.
+      image: /assets/images/maria_s.jpg
 
 volunteers:
   title: "Student Volunteers"

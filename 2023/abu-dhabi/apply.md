@@ -19,7 +19,7 @@ Applicants must submit the following documents: (i) a CV, (ii) a brief statement
 
 **In order to be guaranteed full consideration, all application materials must be submitted by August 31, 2023.** All application materials must be submitted through [this survey form](https://forms.gle/tr6aRDuXH2EJDYJBA). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by September 31, 2023, and will ask participants to confirm their participation very soon thereafter.
 
-Inquiries can be sent to \_\_\_\_\_.
+Inquiries can be sent to [info.wicss@nyu.edu](mailto:info.wicss@nyu.edu).
 
 ## Application Frequently Asked Questions
 
