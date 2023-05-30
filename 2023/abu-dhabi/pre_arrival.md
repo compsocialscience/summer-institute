@@ -11,7 +11,7 @@ The Winter Institute will bring together people from many fields and backgrounds
 - Complete coding bootcamp (if needed)
 - Prepare your computing environment
 
-You can contact the TAs through the following email to support you as you work through these pre-arrival materials.
+You can contact the TAs through the [ta.wicss@nyu.edu](mailto:ta.wicss@nyu.edu) to support you as you work through these pre-arrival materials.
 
 ## Reading
 
