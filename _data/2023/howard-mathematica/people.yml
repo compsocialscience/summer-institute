@@ -45,6 +45,12 @@ keynote:
 
 closing:
   title: Closing Plenary Speaker
+  people:
+    - name: Jeff Bernson, M.P.A, M.P.H.
+      image: /assets/images/Jeff_Bernson.jpeg
+      bio: "Mathematica, a full-service research and analytics firm committed to helping address the world’s most pressing development challenges, announced that Jeff Bernson has been named senior vice president and general manager of the International Unit. Bernson takes on this role as Mathematica’s expanding global footprint provides its partners with an unparalleled combination of regional and local expertise and the backing of a deep bench of experts committed to helping them make a difference. ‘As an organization committed to driving global impact, our International Unit is critical to our mission to improve well-being around the world,’ said president and chief executive officer Paul Decker. ‘Jeff’s focus on partnerships, analytics, and innovation, combined with his passion for advancing global health equity, will help us grow our work and its impact with new clients and in new areas.’ Bernson brings critical experience and demonstrated success in technology development, commercialization, and market innovation, having most recently been chief programs and innovation officer at PATH. During his time at PATH, he also served in a variety of roles including vice president of technology, analytics, and market innovation, and as a senior director working in its Nairobi, Kenya office. ‘Mathematica’s comprehensive intersectoral approach, coupled with its ability to help translate evidence into impactful policies and actions, makes a meaningful difference in the lives of people around the world,’ said Jeff Bernson. ‘I am looking forward to helping the team drive positive change.’"
+      website: https://www.mathematica.org/staff/jeff-bernson
+  
 
 
 speakers: 
