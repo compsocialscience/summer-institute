@@ -1,4 +1,49 @@
 - name: Isis Urgell
-  image: 
+  image: /assets/images/IMG-20220404-WA0018 - PetitMedusa.jpg
   bio: "Isis Urgell is a PhD candidate at Monash University, Australia, in Philosophy of Science and Epistemology. She obtained a BA-MA in Philosophy with an orientation in Formal Logic from the University of Buenos Aires, Argentina. Her current research topic is the influence of political polarization on the evaluation of scientific content in social media. From a methodological point of view her research employs social network analysis and content analysis to understand large patterns of speech and online behaviour related to anti-science attitudes, misinformation spread and political polarization. She is also interested in how political and moral values shape science perception in social media environments. Other interests include corpus analysis and community detection methodologies."
   website: 
+  
+- name: Mankponse Augustin
+  image: /assets/images/Augustin-Gnanguenon - Augustin GNANGUENON.jpeg
+  bio: "Mankponse Augustin Gnanguenon est un assistant de recherche au sein de l'institut des sciences de l'éducation. Statisticien et  Data scientiste et chercheur associé à la boutique des sciences de Parakou, il s’intéresse à l’usage des statistiques et de l’intelligence artificielle pour répondre aux problématiques en science sociale. Il a contribué à divers projet internationaux dont le projet  TranSco-AUF, Yanayi, Ben-Soha. Il a eu à coécrire plusieurs articles qui s’inscrivent dans divers domaines des sciences sociales, dont les sciences de l’éducation et les statistiques appliquées.."
+  website: https://app.inspiresproject.com/projects/76-yanayi-project
+  
+- name: Kongo Amenan Rachel 
+  image: /assets/images/IMG_20201126_230033 - Rachel Rachel.jpg
+  bio: "Kongo Amenan Rachel est doctorante en Sociologie de l’éducation à l’Université du Québec à Montréal. Elle est affiliée au Centre Interuniversitaire de Recherche sur la Science et la Technologie (CIRST). Ses recherches portent sur les parcours scolaires des étudiant.e.s en période de crise en mobilisant des analyses quantitatives et qualitatives."
+  website: 
+
+- name: Carlos Castiblanco
+  image: /assets/images/IMG_7498 - Carlos Castiblanco.jpeg
+  bio: "Carlos Castiblanco is an Economics graduate student at Université de Montréal, nearing the completion of his master's program. Having acquired a BSc in Economics from the National University of Colombia, Carlos has a strong foundation in statistical analysis and econometrics, with a particular emphasis on data analysis. Since relocating to Canada in 2019, Carlos has gained substantial industry experience in trade analysis, as well as accounting and payroll processing. His practical experience complements his academic pursuits, as evidenced by his master's project, which seeks to quantify the impact of a Colombian government program on the education performance of rural communities. His professional and academic interests extend beyond traditional economic boundaries, covering policy and causality analysis to experimental economics."
+  website: https://www.linkedin.com/in/carlos-castiblanco-610182159/
+  
+- name: Julie Duford
+  image: /assets/images/Photo_JDuford - Julie Duford.png
+  bio: "Julie Duford est candidate au doctorat en Sexologie à l’Université du Québec à Montréal sous la supervision de Martin Blais, professeur au département de Sexologie et titulaire de la Chaire de recherche sur la diversité sexuelle et la pluralité des genres. Elle a une maîtrise en anthropologie médicale de l’Université de Montréal. Elle est aussi auxiliaire de recherche à l’Institut universitaire Jeunes en difficulté. Ses intérêts de recherche portent sur les jeunes LGBTQ2+ et les facteurs de risque et de protection dans les parcours d’itinérance."
+  website: 
+  
+- name: Leonard Castelli
+  image: /assets/images/Portrait - Leonard Castelli.jpeg
+  bio: "Leonard Castelli is a graduate student in Sociology at Goethe University Frankfurt (Germany). He holds a Bachelor’s degree in Political Science from Goethe University Frankfurt and has spent part of his studies at Université de Liège (Belgium) and EHESS (Paris, France). His research mainly revolves around populism in Europe, more specifically the link between (right-wing) populism and so-called anti-genderism of political parties in Europe. Leonard employs quantitative methods of statistical analysis as well as quantitative text analysis. He is currently a student research assistant at the Faculty of Social Sciences at Goethe University Frankfurt."
+  website: https://www.linkedin.com/in/leonard-castelli-b97314205
+  
+- name: Elnathan Tiokou
+  image: /assets/images/Elnathan Tiokou Pic - Elnathan Tiokou.jpg
+  bio: "Elnathan Tiokou est étudiant en Doctorat a Polytechnique Montréal et chercheur en Intelligence Artificielle de pointe a MILA AI Institute. Il est dévoué et déterminé à changer la narration de l'Afrique et à contribuer à construire une Afrique meilleure avec des systèmes d'intelligence artificielle éthiques et responsables. Outre l'intelligence artificielle, il est le fondateur de la jeune entreprise technologique africaine CHRONEXIS. Dans ses temps libres, il crée du contenu sur les réseaux sociaux pour inspirer les gens avec ses histoires, ses expériences et ses réalisations. Sa mission est de faire croire aux jeunes qu'ils peuvent atteindre la grandeur dans leur vie et cela avec rien de moins qu'une faim profonde. Il est ouvert aux opportunités qui pourraient inclure : des partenariats, des bourses, des mentorats et bien d'autres."
+  website: https://www.linkedin.com/in/elnathan-tiokou/ 
+  
+- name: Shamsi Soltani
+  image: /assets/images/Screen Shot 2 - Shamsi S.png
+  bio: "Shamsi Soltani (she/her) earned an MPH in Epidemiology at Tulane University and a BS in Neuroscience with French minor at UCLA. She is now a PhD student in Epidemiology at Stanford University studying suicide prevention. She draws on deep applied public health experience, including over six years as a senior epidemiologist for the San Francisco Department of Public Health. She excels at leveraging data to inform education, research, and policy– once spurring the CDC to adopt ICD-10-CM medical codes to identify e-scooter related injury. Shamsi is interested in the interplay of technology, bias, and health disparity, particularly with respect to big data. Born and raised in San Francisco, Shamsi is a child of immigrants. She is fond of hiking year round, reading reams of fiction, and sweating through rhythm & motion dance classes. She is currently training for a 545 mile (877 km) bike ride from San Francisco to Los Angeles. Shamsi delights in food shared with friends and has yet to meet a hot spring she doesn't like."
+  website: https://shamsi.people.stanford.edu/
+  
+- name: Firdaous Sbaï
+  image: /assets/images/FS_picture - Fifi.png
+  bio: "Firdaous Sbaï is a PhD student in sociology at the University of Toronto. She completed her MA in sociology at McGill University. Her work is broadly concerned with state and public responses to social problems. One line of projects examines disparities in criminalization and incarceration. Another strand of research is centered on social movement framing and organizing, and seeks to understand how different mobilizing strategies resonate across different contexts. Her work generally focuses on racial inequalities and forms of violence."
+  website: 
+  
+- name: Mayra Juruá
+  image: /assets/images/Mayra - Mayra Juruá.jpeg
+  bio: "Mayra Juruá have been a science policy professional for last 15 years and now she is also a PHD candidate on both science&  technology studies (sts) at Université du Québec à Montréal and Education at University of Campinas (Brazil). She is interested in social sciences and humanities dynamics, with a particularly focus on research internationalization. Mayra has many publications in  portuguese, english, and french concerning science policy, sustainable development and the role of humanities and social science."
+  website:
