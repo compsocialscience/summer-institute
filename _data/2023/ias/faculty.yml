@@ -5,7 +5,7 @@
 
 - name: Carl Nordlund
   image: /assets/images/ias_carl_nordlund.jpg
-  bio: Carl Nordlund is an associate professor (docent) at the Institute for Analytical Sociology at Linköping University. Following studies in computer science, mathematics, economic history, development studies and human ecology, he obtained his PhD in human ecology from the Department of Human Geography at Lund University in 2010. This was followed by postdoctoral fellowships at Central European University, Budapest, with joint positions at the Department of Political Science and Center for Network Science, and positions at the European University Institute, Florence, and Department of Economic History, Lund University. His work has mainly been published in Social Networks, as well as Network Science, Geographical Analysis, Journal of European Integration, and Studies in Comparative International Development. In addition to project management tasks, his substantive interests within this project is in inter-ethnic family formation and labor market structures, as well as the development of network-analytical methods, particularly deterministic blockmodeling techniques, and in D3js visualization techniques.
+  bio: Carl Nordlund is an associate professor (docent) at the Institute for Analytical Sociology at Linköping University. Obtaining a PhD in human ecology from Lund University in 2010, this was followed by fellowships in Budapest, Florence, and Lund, before starting at IAS in 2018. His substantive interests is in inter-ethnic family formation and labor market structures, economic globalization, as well as the development of network-analytical methods, particularly deterministic blockmodeling methods.
   website: https://demesta.com/
 
 - name: Anastasia Menshikova
@@ -29,6 +29,6 @@
   website: https://liu.se/en/employee/alero03
   
 - name: Maël Lecoursonnais
-  image: /assets/images/mael_lecoursonnais.jpeg
+  image: /assets/images/mael_lecoursonnais.jpg
   bio: Maël Lecoursonnais is a PhD student at the Institute for Analytical Sociology. His research interests span spatial inequalities, causal inference, and applied machine learning. His current project investigates the consequences of spatial inequalities on life-course outcomes such as education or income, using causally-oriented methods and/or machine learning algorithms. 
   website: https://maellecoursonnais.github.io/
