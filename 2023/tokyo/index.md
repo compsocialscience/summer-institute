@@ -11,7 +11,7 @@ SICSS-Tokyoでは、英語と日本語の両方で、講義およびグループ
 
 このワークショップは、修士課程および博士課程の学生、ポスドク、勤務10年以内の企業研究者、博士取得後5年以内の大学教員の方を対象とします。約15人ほどの参加者をご招待する予定です。参加される方は、5日間のプログラム全てに参加していただきたいと思います。参加費用は無料です。文理問わず、あらゆる分野からの応募をお待ちしております。
 
-応募に興味のある方は[Applyボタン](https://compsocialscience.github.io/summer-institute/2023/tokyo/apply)をクリックしてください。応募の締め切りは、2023年3月17日（金）です。
+ただいま参加者の二次募集を行っています。応募に興味のある方は[Applyボタン](https://compsocialscience.github.io/summer-institute/2023/tokyo/apply)をクリックしてください。応募の締め切りは、2023年6月16日（金）です。
 
 ご質問はこちらまで。sicsstokyo@gmail.com
 
@@ -22,6 +22,6 @@ The instructional program will involve lectures and group problem sets in both E
 
 Participation is restricted to master students, Ph.D. students, postdoctoral researchers, corporate researchers who have worked for ten years or less, and untenured faculty within five years of their Ph.D. We will invite about 15 participants and expect them to fully attend and participate in the entire program. There is no cost for participating in the Summer Institute. We welcome applicants from all backgrounds and fields of study.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2023/tokyo/apply) are due Friday, March 17, 2023.
+Now the second recruitment is open! [Application materials](https://compsocialscience.github.io/summer-institute/2023/tokyo/apply) are due Friday, June 16, 2023.
 
 Inquiries can be sent to sicsstokyo@gmail.com.
