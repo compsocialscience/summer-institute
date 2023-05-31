@@ -1,3 +1,85 @@
-- date: June 12, 2023
+- date: 2023-06-11 # Sunday
+  name: Arrival
   events:
-    - name: "Schedule coming soon..."
+    - name: "15:00 - 18:00 Check in at Hotel"
+    - name: "18:00 - 20:00 Welcome Meet up"
+
+- date: 2023-06-12 # Monday
+  name: Introduction and Ethics
+  events:
+    - name: "09:30 - 10:00 Introduction and Welcome (Jacob Habinek)" 
+    - name: "10:00 - 12:00 Lecture: Computational Social Science (Jacob Habinek)" 
+    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 15:00 Workshop: Ethics (Elis Carlberg Larsson)"
+    - name: "15:00 - 16:00 Fika Break"
+    - name: "18:00 - 20:00 Welcome Dinner"
+
+- date: 2023-06-13 # Tuesday
+  name: Digital Trace Data
+  events:
+    - name: "10:00 - 12:00 Lecture: Digital Trace Data (Anastasia Menshikova)"
+    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 15:00 Workshop: Collecting Digital Data (Anastasia Menshikova and Maël Lecoursonnais)"
+    - name: "15:00 - 16:00 Fika Break"
+    - name: "16:00 - 17:30 Research Talk (TBA)"
+
+- date: 2023-06-14 # Wednesday
+  name: Computational Text Analysis
+  events:
+    - name: "10:00 - 12:00 Lecture: Computational Text Analysis (Hendrik Erz)"
+    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 15:00 Workshop: Computational Text Analysis (Hendrik Erz and Maël Lecoursonnais)"
+    - name: "15:00 - 16:00 Fika Break"
+
+- date: 2023-06-15 # Thursday
+  name: Social Network Analysis
+  events:
+    - name: "09:30 - 11:30 Lecture: Social Network Analysis (Carl Nordlund)"
+    - name: "11:30 - 12:30 Lunch Break"
+    - name: "12:30 - 14:30 Workshop: Social Network Analysis (Alexandra Rottenkolber)"
+    - name: "14:30 - 16:00 Research Talk: How Should an Employee Be?: The Literature of Business Self-Help and the Construction of Financialized Subjects (Carly Knight)"
+    - name: "16:00 - 17:00 Fika Break"
+
+- date: 2023-06-16 # Friday
+  name: Spatial Data
+  events:
+    - name: "10:00 - 12:00 Workshop: Spatial Data (Maël Lecoursonnais)"
+    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 15:00 Matchmaking for the Group Projects"
+    - name: "15:00 - 16:00 Fika Break"
+
+- date: 2023-06-17 # Saturday
+  name: Weekend day off
+
+- date: 2023-06-18 # Sunday
+  name: Weekend day off
+
+- date: 2023-06-19 # Monday
+  name: Project Week
+  events:
+    - name: "10:00 - 17:00 Project Working Time"
+
+- date: 2023-06-20 # Tuesday
+  name: Project Week
+  events:
+    - name: "10:00 - 16:00 Project Working Time"
+    - name: "16:00 - 17:30 Research Talk (TBA)"
+
+- date: 2023-06-21 # Wednesday
+  name: Project Week
+  events:
+    - name: "10:00 - 17:00 Project Working Time"
+
+- date: 2023-06-22 # Thursday
+  name: Final Day
+  events:
+    - name: "10:00 - 12:00 Project Working Time"
+    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 16:00 Project Presentations"
+    - name: "16:00 - 17:00 Fika Break"
+    - name: "18:00 - 20:00 Farewell Dinner"
+
+- date: 2023-06-23 # Friday
+  name: Swedish Midsummer
+  events:
+    - name: "11:00-15.00 Midsummer Picnic (optional)"
