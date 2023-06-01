@@ -179,6 +179,126 @@ lunchtime talks:
 
 participants: 
   title: Participants
+  people: 
+    - name: Neena Albarus
+      image: /assets/images/Neena_Albarus-min.jpeg
+      bio: "Neena Albarus is a Ph.D. student in Social Welfare at the University of California, Berkeley. She has an MSW from The University of the West Indies, Mona, Jamaica. Her research expertise spans quantitative, qualitative, and participatory methods, with a focus on polydrug use, mental health, and citizen security in Jamaica."
+      website: https://socialwelfare.berkeley.edu/home
+  
+    - name: Mango Jane Angar
+      image: /assets/images/Mango_Jane_Angar-min.jpg
+      bio: ""
+      website: https://polisci.berkeley.edu/people/person/jane-mango-angar
+  
+    - name: James Asare
+      image: /assets/images/James_Asare-min.JPG
+      bio: "James Asare is a Ph.D. student in Mathematics and Science Education at Washington State University. His background in pure, applied, and computational mathematics fuels his research interests in CSS, gerrymandering of school districts, post-secondary math education barriers of under-served communities, and the cultural impacts of international graduate TA experiences."
+      website: http://www.linkedin.com/in/james-owusu-asare/
+  
+    - name: Ayana Best
+      image: /assets/images/Ayana_Best-min.jpg
+      bio: "Ayana Best is an Assistant Professor in the Department of Political Science at Howard University. She earned her Ph.D. in Political Science and International Relations at the University of Southern California. Her forthcoming book focuses on the effects of state-sanctioned violence on Black women’s political participation and civic engagement."
+      website: https://www.linkedin.com/in/ayanabest/
+  
+    - name: Yixi Chen
+      image: /assets/images/Yixi_Chen-min.png
+      bio: ""
+      website: https://www.linkedin.com/in/yixi-chen-7b42bb63/
+  
+    - name: Rohitha Edara
+      image: /assets/images/Rohitha_Edara-min.jpg
+      bio: "Rohitha Edara is a Ph.D. candidate in Education Policy at Pennsylvania State University. She is interested in studying issues at the intersection of education policy, inequalities/segregation, and international development."
+      website: https://www.linkedin.com/in/rohitha-edara/
+  
+    - name: Dereje Ferede
+      image: /assets/images/Dereje_Ferede-min.PNG
+      bio: "Dereje Ferede played a role as Lecturer, Project Coordinator, and IT Specialist. His background is  Information Systems. Currently, he is a Ph.D. student in Information Systems at Addis Ababa University. He has one publication and one work-in-progress paper. His research interests are AI, IS Security, Digital Strategy, Computational Sciences, and FinTech."
+      website: http://linkedin.com/in/dereje-m-f-5b1a8714b
+  
+    - name: Joyonna Gamble-George
+      image: /assets/images/Joyonna_Gamble-George-min.jpg
+      bio: "Joyonna Gamble-George is a postdoctoral fellow in the Behavioral Sciences Training Program at New York University. Her research interests are computational methods that can monitor, predict, and prevent biopsychosocial factors, including social connectedness or exclusion, that contribute to substance misuse, mental health problems, and health risk behaviors in adolescents and adults."
+      website: https://www.linkedin.com/in/joyonnagamble/
+  
+    - name: Beth Head
+      image: /assets/images/Beth_Head-min.jpg
+      bio: "Beth Head is currently a Sociology Ph.D. student at the University of Florida, where she studies measurement as a form of social and epistemic power."
+      website: http://linkedin.com/in/caribethhead
+  
+    - name: Kevin Igwe
+      image: /assets/images/Kevin_Igwe-min.jpeg
+      bio: "Kevin Igwe is a Post-Doctoral Research Fellow at the University of Johannesburg, South Africa. He is involved in data strategy implementations at CLEVVA PTY LTD. With a Master's degree in Computer Science and a Ph.D. in Psychology, his research focuses on leveraging AI to promote prosocial behavior and mental health."
+      website: https://www.linkedin.com/in/kevin-c-igwe
+  
+    - name: Rebekah Jones
+      image: /assets/images/Rebekah_Jones-min.png
+      bio: "Rebekah Jones is a Political Science Ph.D. candidate at UC Berkeley. Rebekah’s work examines the political economy of crime policy. Specifically, how configurations of American political institutions shape how vulnerable populations experience our democracy. Before Berkeley, Rebekah received a B.S. from Cornell University in Development Sociology, with distinction in research."
+      website: https://sites.google.com/berkeley.edu/rebekah-jones/
+  
+    - name: Felipe Juan
+      image: /assets/images/Felipe_Juan-min.jpg
+      bio: "Felipe Juan is a Ph.D. candidate in Economics at Howard University in Washington, D.C., where he specializes in Labor Economics. His current research interests are examining unemployment insurance and racial equity along with the effects of eligibility for unemployment insurance."
+      website: https://twitter.com/soyfelipejuan
+  
+    - name: Joel Martinez
+      image: /assets/images/Joel_Martinez-min.jpg
+      bio: "Joel E. Martinez is a postdoctoral fellow at Harvard’s Data Science Initiative and Department of Psychology. Their research investigates how data-driven methods help us measure collective and idiosyncratic understandings of contemporary topics within race/ism, sexuality, and migration discourses."
+      website: https://joeledmartinez.com
+  
+    - name: Jia Pang
+      image: /assets/images/Jia_Pang-min.JPG
+      bio: "Jia Pang is a Ph.D. student at Claremont Graduate University, pursuing research in the field of education. Her research interests encompass a broad range of topics, including social media's impact on students' learning, the analysis of large-scale assessment data in education, and the growing phenomenon of shadow education."
+      website: https://www.linkedin.com/in/jia-pang-1206ba87/
+  
+    - name: Taylor Rainey
+      image: /assets/images/Taylor_Rainey-min.jpg
+      bio: "Taylor Rainey is a California native with a bachelor’s degree in Political Science and Spanish from Howard University and a master’s degree in Cybersecurity from University of California, Berkeley. They are passionate about the impact of technology standards on vulnerable populations, cybersecurity at large, and rollerskating."
+      website: https://www.linkedin.com/in/taylor-r-15b354118/
+  
+    - name: Jackeline Romio
+      image: /assets/images/Jackeline_Romio-min.jpg
+      bio: "Jackeline Aparecida Ferreira Romio is Programme Specialist in UNFPA LACRO. She holds a post-doctoral degree in social psychology (USP), and a doctorate and a master's degree in demography (UNICAMP)."
+      website: https://www.linkedin.com/in/jackeline-aparecida-ferreira-romio/
+  
+    - name: Nahrissa Rush
+      image: /assets/images/Nahrissa_Rush-min.jpg
+      bio: "Nahrissa Rush is a Ph.D. student at the Ohio State University in the Sociology department. Broadly speaking, Nahrissa is interested in race, identity, place, and politics. As a primarily qualitative researcher, she is looking forward to learning complimentary quantitative skills at SICSS-H/M this summer."
+      website: https://sociology.osu.edu/people/rush.345
+  
+    - name: Hamidatu Saeed
+      image: /assets/images/Hamidatu_Saeed-min.jpg
+      bio: "Hamidatu Saeed is an MA student at the Ohio University studying Applied Economics. Her research seeks to examine the effect of inflation targeting on inflation using the synthetic control method in Ghana."
+      website: https://www.linkedin.com/in/hamidatu-saeed-a7a95a205/
+  
+    - name: Mateo Servent
+      image: /assets/images/Mateo_Servent-min.jpeg
+      bio: "Mateo Servent is a political scientist and a master's student at CIDE. He is interested in CSS methods for experimental research and the study of scientific knowledge production from a comparative perspective. He is the founder of a student journal and an Erasmus+ Scholar at Otto Suhr Institute."
+      website: https://twitter.com/mateoser_
+  
+    - name: Rasheed Shabazz
+      image: /assets/images/Rasheed_Shabazz-min.jpg
+      bio: "Rasheed Shabazz is a journalist, urban planner, and historian. He is currently the inaugural Black Muslim Experiences Research Fellow at the Institute for Social Policy and Understanding. Shabazz' research is on the Black Press, Black masjids, neighborhood change, and the intersections of race, religion, and housing outcomes."
+      website: https://www.linkedin.com/in/rashabazz
+  
+    - name: Kevin Smith
+      image: /assets/images/Kevin_Smith-min.jpeg
+      bio: "Kevin Smith is an Assistant Professor at Beloit College. He teaches a wide range of courses in the Economics and Business Department, including Principles of Economics, Quantitative Methods, Econometrics, Corporate Finance, and Health Economics. His research focuses on Health Economics, with a secondary focus on Financial Economics, and Economic History."
+      website: https://www.beloit.edu/live/profiles/6547-kevin-s-smith
+  
+    - name: Brittany Torrez
+      image: /assets/images/Brittany_Torrez-min.jpeg
+      bio: "Brittany Torrez is a postdoctoral fellow at University of Southern California Marshall School of Business. She employs multiple methodologies to further the study of diversity, equity, and inclusion in organizations. Her current research examines the psychological processes and organizational practices that reproduce racial inequality in the workplace."
+      website: http://torrezbrittany.com
+  
+    - name: Shu Wan
+      image: /assets/images/Shu_Wan-min.png
+      bio: "Shu Wan is a Ph.D. student in History at the University at Buffalo, SUNY. As a digital and disability historian, he serves in the editorial team of Digital Humanities Quarterly and Nursing Clio."
+      website: https://arts-sciences.buffalo.edu/history/graduate/GraduateHistoryAssociation/GradStudentProfiles/ShuWan.html
+  
+    - name: Jia Wu
+      image: /assets/images/Jia_Wu-min.jpg
+      bio: "Jia Rung Wu, Ph.D. is an Assistant Professor of Rehabilitation Counseling Program in the Department of Counselor Education of Northeastern Illinois University. Her programmatic research includes: Minority Students Success and Mental Health, Health Promotion, and Positive Psychology, Evidence-Based Rehabilitation Practice, and Test Construction and Research Methodology."
+      website: https://www.neiu.edu/academics/daniel-l-goodwin-college-of-education/departments/counselor-education/about/faculty-and-staff-profiles
 
 
 organizers:
