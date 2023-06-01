@@ -29,6 +29,14 @@ If you would like more practice after completing the Boot Camp videos, some othe
 
 Please note that the majority of the coding work presented at SICSS-IPATC will employ R. You are welcome to employ a language of your choice, such as Python, Julia, or other languages that are commonly used by computational social scientists.  However, we cannot support those languages.
 
+To prepare for the winter school, we highly recommend to participate in our R Bootcamp. This year we partner with [DataCamp](https://www.datacamp.com/), a learning platform that generously offers us access to over 360 inveractive courses through [DataCamp for Universities](https://www.datacamp.com/universities). DataCamp's philosophy is learning-by-doing, so the methodology combines short expert videos and hands-on exercises. DataCamp offers over 350+ courses by expert instructors on topics such as importing data, data visualization, and machine learning. They are constantly expanding their curriculum to keep up with the latest technology trends and to provide the best learning experience for all skill levels. We recommend to do the following courses in this order:
+
+1. Introduction to R
+2. Introduction to the Tidyverse
+3. Data Manipulation with dplyr
+4. Introduction to Text Analysis in R
+5. Introduction to Data Visualization with ggplot2
+
 
 ## Computing environment
 
