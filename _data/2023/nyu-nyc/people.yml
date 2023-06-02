@@ -88,7 +88,7 @@ teachingassistants:
     - name: Zezhen (Michael) Wu 
       image: /assets/images/Zezhen_Wu.jpg
       bio: "Zezhen (Michael Wu) is a doctoral student in Psychology and Social Intervention at New York University. He studies how theory-driven psychological interventions buffer students against various situational and environmental threats, stigma, and discrimination. Prior to NYU, he earned an EdM in Arts in Education from Harvard University and an Mphil in Evidence-based Social Intervention and Policy Evaluation from the University of Oxford."
-      website: https://scholar.google.com/citations?user=USNXsZEAAAAJ&hl=zh-CN
+      website: https://steinhardt.nyu.edu/programs/psychology-and-social-intervention/psi-student-experience/zezhen-michael-wu
 
 participants: 
   title: Participants
@@ -103,17 +103,17 @@ participants:
       bio: "Daniel Baslock is a social worker and a PhD candidate at New York University’s Silver School of Social Work. He researches mental health and substance use treatment organizations, drawing on implementation science frameworks to understand how payment strategies and social policies impact adoption of evidence-based practices."
       website: https://twitter.com/DanielBaslock
 
-     - name: Tina	Kilaberia
+     - name: Tina Kilaberia
       image: /assets/images/Tina_Kilaberia.jpg
       bio: "Tina Kilaberia is an Assistant Professor at NYU Silver School of Social Work. Her research focuses on social isolation among older adults and their caregivers, age-friendly congregate settings, and elder mistreatment.  "
       website: https://socialwork.nyu.edu/faculty-and-research/our-faculty/tina-kilaberia.html
 
-     - name: Michelle	Marji
+     - name: Michelle Marji
       image: /assets/images/Michelle_Marji.png
       bio: "Michelle is a PhD student in Social Psychology in the Niedenthal Emotions Lab at the University of Wisconsin-Madison. Her research investigates large-group movement through space, interpersonal synchrony, belonging, trust, and human robot interaction. Her goal is to examine issues of equity and social justice, and engage in community-centered collaborative research. Outside of the lab, Michelle is a dance artist and rock climber. "
       website: https://www.linkedin.com/in/michellemarji/
 
-     - name: Samuel	Mendez
+     - name: Samuel Mendez
       image: /assets/images/Samuel_Mendez.png
       bio: "Samuel Mendez is a PhD candidate at the Harvard T.H. Chan School of Public Health. Their dissertation is focused on expanding the scope of health literacy research through connections to natural language processing methods and media studies theory. Samuel draws on their background in media studies and animation to rethink health communication, with the goal of contributing to a more equitable future."
       website: https://www.samuelanimates.com/
@@ -147,5 +147,4 @@ participants:
       image: /assets/images/Meng_Hsuan_Yu.jpg
       bio: "Meng-Hsuan Yu is a Ph.D. student at the University of Maryland School of Social Work. Her research explores how to identify child maltreatment and improve child protective services using big data analytics. Before her Ph.D. study, she worked as a research associate at the National Taiwan University and at the Ministry of Health and Welfare, Taiwan. Leveraging child welfare administrative data, she utilized tree decision models and topic modeling to refine the child maltreatment screening system to identify children at risk. She is now working on a project using Maryland Child Welfare administrative data to explore the kinship foster care services in Maryland."
       website: https://www.linkedin.com/in/meng-hsuan-yu-2a7911204/
-
 
