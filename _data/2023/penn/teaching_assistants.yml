@@ -1,19 +1,19 @@
 - name: Shengchun Huang
-  image: /assets/images/penn2023_Shengchun.jpg
-  bio: "Shengchun Huang is a doctoral student at the Annenberg School for Communication at the University of Pennsylvania. She is interested in digital news consumption, algorithm-driven aggregators/platforms, and social effects in the high-choice media environment. She applies a variety of computational methods in research work, including network analysis, Markov chains, word embedding and nlp, etc."
-  website: https://www.asc.upenn.edu/people/graduate-student/shengchun-huang
+- image: /assets/images/penn2023_Shengchun.jpg
+- bio: "Shengchun Huang is a doctoral student at the Annenberg School for Communication at the University of Pennsylvania. She is interested in digital news consumption, algorithm-driven aggregators/platforms, and social effects in the high-choice media environment. She applies a variety of computational methods in research work, including network analysis, Markov chains, word embedding and nlp, etc."
+- website: https://www.asc.upenn.edu/people/graduate-student/shengchun-huang
 
 - name: Eugenio Paglino
-  image: /assets/images/penn2023_Eugenio.jpg
-  bio: "Eugenio is a second-year Ph.D. student in Demography at the University of Pennsylvania. He holds a BSc and a MSc in Economics and Social Sciences from Bocconi University. Before becoming a PhD candidate, he worked as a research assistant at the Netherlands Interdisciplinary Demographic Institute and the Dondena Center for Research on Social Dynamics and Public Policy. His broad research interests include the interactions between population and the environment, migration, the computational social sciences, and inequality. He loves visualizing data and is interested in studying ways in which data visualization can help researchers to communicate more clearly and to reach a wider audience."
-  website: https://www.pop.upenn.edu/bio/eugenio-paglino
+- image: /assets/images/penn2023_Eugenio.jpg
+- bio: "Eugenio is a second-year Ph.D. student in Demography at the University of Pennsylvania. He holds a BSc and a MSc in Economics and Social Sciences from Bocconi University. Before becoming a PhD candidate, he worked as a research assistant at the Netherlands Interdisciplinary Demographic Institute and the Dondena Center for Research on Social Dynamics and Public Policy. His broad research interests include the interactions between population and the environment, migration, the computational social sciences, and inequality. He loves visualizing data and is interested in studying ways in which data visualization can help researchers to communicate more clearly and to reach a wider audience."
+- website: https://www.pop.upenn.edu/bio/eugenio-paglino
 
 - name: Julia Cope
-  image: /assets/images/penn2023_Julia.jpg
-  bio: "Julia Cope is a PhD student at the Annenberg School for Communication at the University of Pennsylvania. She studies climate discourse, information communication technology use, natural disasters, and the political economy of climate change. She received her B.S. and M.S. in Information Science from the University of Pittsburgh and worked as a data scientist before joining Annenberg. Cope is a mixed-methods researcher. Her current research uses computational methods such as natural language processing and machine learning, as well as qualitative methods such as content and discourse analysis to uncover the framing of climate change and patterns of message salience within different industries and groups."
-  website: https://www.asc.upenn.edu/people/graduate-student/julia-cope
+- image: /assets/images/penn2023_Julia.jpg
+- bio: "Julia Cope is a PhD student at the Annenberg School for Communication at the University of Pennsylvania. She studies climate discourse, information communication technology use, natural disasters, and the political economy of climate change. She received her B.S. and M.S. in Information Science from the University of Pittsburgh and worked as a data scientist before joining Annenberg. Cope is a mixed-methods researcher. Her current research uses computational methods such as natural language processing and machine learning, as well as qualitative methods such as content and discourse analysis to uncover the framing of climate change and patterns of message salience within different industries and groups."
+- website: https://www.asc.upenn.edu/people/graduate-student/julia-cope
 
 - name: Sunny Rai
-  image: /assets/images/penn2023_Sunny.jpg
-  bio: "Sunny is a postdoc researcher at CIS working under Dr. Sharath Chandra Guntuku and Dr. Lyle Ungar. Her research focuses on misinformation, mental health and cross-cultural variations in human language. SHe completed my PhD from University of Delhi, India. Her PhD thesis was on Computational Metaphor Processing for English Language."
-  website: https://www.seas.upenn.edu/~sunnyrai/
+- image: /assets/images/penn2023_Sunny.jpg
+- bio: "Sunny is a postdoc researcher at CIS working under Dr. Sharath Chandra Guntuku and Dr. Lyle Ungar. Her research focuses on misinformation, mental health and cross-cultural variations in human language. SHe completed my PhD from University of Delhi, India. Her PhD thesis was on Computational Metaphor Processing for English Language."
+- website: https://www.seas.upenn.edu/~sunnyrai/
