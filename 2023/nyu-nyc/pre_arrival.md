@@ -34,17 +34,6 @@ If you would like more practice after completing the tutorial, some other materi
 - _[Data Science from Scratch: First Principles with Python](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/1492041130/ref=sr_1_13?crid=RDL2XZ5R5GED&keywords=oreilly+python+for+data+analysis&qid=1641419922&sprefix=oreilly+python+for+data+analysis%2Caps%2C87&sr=8-13)_ by Joel Grus
 - [Learn Python](https://www.codecademy.com/learn/learn-python-3), Code Academy.
 
-## Coding Boot Camp for R
-
-The [SICSS Boot Camp for R](https://sicss.io/boot_camp) is an online training program created by Chris Bail to provide you with beginner level skills in R so that you can follow the more advanced curriculum we teach at SICSS. The videos and materials are designed for complete beginners and are best viewed as a sequence since each video builds upon content introduced in previous tutorials. If you are already familiar with the topics in these videos, you do not need to complete them.
-
-If you would like more practice after completing the Boot Camp videos, some other materials that we can recommend are:
-- [RStudio Primers](https://rstudio.cloud/learn/primers), which can be supplemented by the open access book _[R for Data Science](https://r4ds.had.co.nz/)_ by Garrett Grolemund and Hadley Wickham
-- [R for Social Science](https://datacarpentry.org/r-socialsci/), Data Carpentry.  
-- [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/), Taught by Charles Lanfear at University of Washington. This course includes videos of lectures, slides, and assignments.
-- [Learn R](https://www.codecademy.com/learn/learn-r), Code Academy.
-
-Please note that the majority of the coding work presented at SICSS-NYU Silver 2023 will employ Python. You are welcome to employ a language of your choice, such as R, Julia, or other languages that are commonly used by computational social scientists. We can provide support for R; but, for the moment, not for the other languages.
 
 ## Lecture videos
 
@@ -55,7 +44,7 @@ SICSS-NYU Silver 2023 will be using a [flipped classroom model](https://en.wikip
 ### Programming
 ### Python
 
-Some of the activities will require coding, and we will support Python. You are welcome to use other languages, but we cannot guarantee that we can support them. Before SICSS you should install a modern, stable-release version of [Python, Anaconda distribution](https://www.anaconda.com/products/individual) and [Jupyter Notebook](https://jupyter.org/). We also suggest online environment tools such as [Google Colab](https://colab.research.google.com/) to code and compile your notebooks.
+Some of the activities will require coding, and we will support Python. You are welcome to use other languages, but we cannot guarantee that we can support them. We are going to use the online environment tool, [Google Colab](https://colab.research.google.com/) to code and compile the  notebooks. Although we do not require it for the institute, you could install [Python, Anaconda distribution](https://www.anaconda.com/products/individual) and [Jupyter Notebook](https://jupyter.org/) to code on your local computer. 
 
 ### Slack
 
@@ -67,4 +56,4 @@ Many participants at SICSS use GitHub to collaborate. If you do not yet have one
 
 ## Office hours
 
-The SICSS-NYU Silver 2023 [organizers](https://sicss.io/2023/nyu-nyc/people#teaching_assistants) will host office hours in the SICSS 2023 Slack. You can find information about the office hours in the SICSS 2023 Slack channel at #sicss-nyu-silver-officehours.
+The SICSS-NYU Silver 2023 [organizers](https://sicss.io/2023/nyu-nyc/people#teaching_assistants) will host office hours in the SICSS 2023 Slack. You can find information about the office hours in the SICSS 2023 Slack channel at #sicss-nyu-silver. 
