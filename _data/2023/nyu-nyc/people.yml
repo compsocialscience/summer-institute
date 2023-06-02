@@ -93,12 +93,12 @@ teachingassistants:
 participants: 
   title: Participants
   people: 
-     - name: Jemel Aguilar
+     - name: Jemel	Aguilar
       image: /assets/images/Jemel_Aguilar.jpg
       bio: "Jemel Aguilar is Associate Professor at Fordham University and teaches social work practice. He authored the forthcoming books “Practicing human behavior in the social environment with people and populations” and “Social Work Practices, Perspectives, and Opportunities in the Global World.” Jemel taught himself data science, python and  R programming. "
       website: https://www.linkedin.com/in/jemel-p-aguilar-00ba68b8/
 
-     - name: Daniel Baslock
+     - name: Daniel	Baslock
       image: /assets/images/Daniel_Baslock.jpg
       bio: "Daniel Baslock is a social worker and a PhD candidate at New York University’s Silver School of Social Work. He researches mental health and substance use treatment organizations, drawing on implementation science frameworks to understand how payment strategies and social policies impact adoption of evidence-based practices."
       website: https://twitter.com/DanielBaslock
@@ -118,32 +118,33 @@ participants:
       bio: "Samuel Mendez is a PhD candidate at the Harvard T.H. Chan School of Public Health. Their dissertation is focused on expanding the scope of health literacy research through connections to natural language processing methods and media studies theory. Samuel draws on their background in media studies and animation to rethink health communication, with the goal of contributing to a more equitable future."
       website: https://www.samuelanimates.com/
 
-     - name: Michael Park
+     - name: Michael	Park
       image: /assets/images/Michael_Park.jpg
       bio: "Michael Park is an Assistant Professor at the School of Social Work at Rutgers University. His research focuses on understanding how racial discrimination and its related stressors (e.g., racial stereotypes) contribute to disparities in mental health and mental health service utilization among Asian American immigrant youth."
       website: https://twitter.com/michaelmhpark  
 
-     - name: Krushika Patankar
+     - name: Krushika	Patankar
       image: /assets/images/Krushika_Patankar.jpg
       bio: "Krushika is a doctoral student at NYU Silver and graduate research assistant at the NYU Center on Violence and Recovery. Her research is informed by clinical practice in restorative work and lived experiences in a services devoid context, wrapping around intimate partner violence (IPV) service delivery to underserved populations, intersections with child protective services, and intervention and implementation science. "
       website: https://www.linkedin.com/in/krushikaudaypatankar/
 
-     - name: Juan Rios
+     - name: Juan	Rios
       image: /assets/images/Juan_Rios.jpg
       bio: "Dr. Juan Rios is a social work professor, licensed Clinical Social Worker and researcher passionate about democratizing Foresight training, Afro-Futures, and Design Justice. By envisioning equitable futures through creativity and critical thinking, Dr. Rios empowers marginalized voices to shape compassionate, human centered transformative possibilities centered around love."
       website: https://www.linkedin.com/in/dr-juan-rios-lcsw-b276b632/
 
-     - name: Olivia Weng
+     - name: Olivia	Weng
       image: /assets/images/Olivia_Weng.jpeg
       bio: "Olivia Weng is a PhD student in Public Health Sciences at Washington University in St. Louis. Her research focuses on health education and health communication on chronic disease prevention. Currently, Olivia is interested in studying data from various social media platforms. Before her PhD study, Olivia worked in a local health department dealing with cancer prevention and control. "
       website: https://hcrl.wustl.edu/people/olivia-weng/
 
-     - name: Yuanyuan Yang
+     - name: Yuanyuan	Yang
       image: /assets/images/Yan_Yang.jpg
       bio: "Yuanyuan Yang is a doctoral student and research associate at the Brown School of Social Work, Washington University in St. Louis. Her research focuses on the impact of asset-based poverty policy on child mental well-being. She received her B.M. from Beijing Normal University and her MPA in public policy from New York University. Prior to her doctoral studies, she worked as a research assistant at the McSilver Institute for Poverty Policy and Research at New York University and China Center for Social Policy at Columbia University."
       website: https://www.linkedin.com/in/yuanyuanyang121
 
-     - name: Meng-Hsuan Yu
+     - name: Meng-Hsuan	Yu
       image: /assets/images/Meng_Hsuan_Yu.jpg
       bio: "Meng-Hsuan Yu is a Ph.D. student at the University of Maryland School of Social Work. Her research explores how to identify child maltreatment and improve child protective services using big data analytics. Before her Ph.D. study, she worked as a research associate at the National Taiwan University and at the Ministry of Health and Welfare, Taiwan. Leveraging child welfare administrative data, she utilized tree decision models and topic modeling to refine the child maltreatment screening system to identify children at risk. She is now working on a project using Maryland Child Welfare administrative data to explore the kinship foster care services in Maryland."
       website: https://www.linkedin.com/in/meng-hsuan-yu-2a7911204/
+
