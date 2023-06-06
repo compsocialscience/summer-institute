@@ -93,20 +93,50 @@ teachingassistants:
 participants: 
   title: Participants
   people: 
-    - name: Jemel	Aguilar
+    - name: Jemel Aguilar
       image: /assets/images/Jemel_Aguilar.jpg
       bio: "Jemel Aguilar is Associate Professor at Fordham University and teaches social work practice. He authored the forthcoming books “Practicing human behavior in the social environment with people and populations” and “Social Work Practices, Perspectives, and Opportunities in the Global World.” Jemel taught himself data science, python and  R programming. "
       website: https://www.linkedin.com/in/jemel-p-aguilar-00ba68b8/
 
-    - name: Daniel	Baslock
+    - name: Hamid Akbary
+      image: /assets/images/Hamid_Akbary.jpeg
+      bio: "Hamid Akbary is a Postdoctoral Fellow in the Department of Sociology at the University of Calgary. He was previously a SSHRC Doctoral Fellow at the University of Calgary (2016-2022) and a Fulbright Fellow at Lehigh University (2013-2015). One of his postdoctoral research projects uses over two decades of textual data from Canada's House of Commons debates to examine the types of sentiments expressed by members of the parliament about immigrants in general and Muslim minorities in particular. In addition to his academic affiliation, he works as a data analyst for Statistics Canada, Government of Canada."
+      website: https://twitter.com/SHamidAkbary/
+
+    - name: Brianna Amos
+      image: /assets/images/Brianna_Amos.jpg
+      bio: "Brianna is currently pursuing a PhD in social work at the NYU Silver School of Social Work. Her research interests are rooted in understanding mental health disparities in Black communities. She is specifically interested in factors influencing Black Americans’ decisions to engage with formal mental health services, such as cultural stigma."
+      website: https://socialwork.nyu.edu/a-silver-education/degree-programs/phd/meet-our-students.html#amos
+
+    - name: Daniel Baslock
       image: /assets/images/Daniel_Baslock.jpg
       bio: "Daniel Baslock is a social worker and a PhD candidate at New York University’s Silver School of Social Work. He researches mental health and substance use treatment organizations, drawing on implementation science frameworks to understand how payment strategies and social policies impact adoption of evidence-based practices."
       website: https://twitter.com/DanielBaslock
+      
+    - name: Yuanyuan Hu
+      image: /assets/images/Yuanyuan_Hu.jpg
+      bio: "Yuanyuan Hu is a PhD Candidate at NYU Silver School of Social Work and a licensed clinical social worker in New York State. Her research focuses the implementation of strategies to integrate mental health services and non-mental health settings for underserved older adults, especially older Asian immigrants."
+      website: https://twitter.com/YuanyuanHu304
+      
+    - name: Khadija  Israel
+      image: /assets/images/Khadija_Israel.jpeg
+      bio: "Khadija is currently a doctoral student at Silver School of Social work at NYU, whose research interests include developing evidence-based non-pharmacologic treatment intervention in conjunction with intensive case management services and harm reduction to address SUD in high risk patients with co-occurring disorders within inpatient settings."
+      website: https://www.linkedin.com/in/khadija-israel-503938236
 
     - name: Tina Kilaberia
       image: /assets/images/Tina_Kilaberia.jpg
       bio: "Tina Kilaberia is an Assistant Professor at NYU Silver School of Social Work. Her research focuses on social isolation among older adults and their caregivers, age-friendly congregate settings, and elder mistreatment.  "
       website: https://socialwork.nyu.edu/faculty-and-research/our-faculty/tina-kilaberia.html
+      
+    - name: Abraham Liddell
+      image: /assets/images/Abraham_Liddell.jpg
+      bio: "Abraham Liddell is a postdoctoral research fellow in the Data Science Institute at Columbia University. His research leverages social network analysis and machine learning to study social change over time."
+      website: https://www.linkedin.com/in/abrahamliddell/
+     
+    - name: Hao Lin
+      image: /assets/images/Hao_Lin.jpg
+      bio: "Hao Lin is a doctoral student in the Stony Brook Sociology department, where she is also affiliated with the Institute for Advanced Computational Science. Her current research examines public sentiment during the Covid-19 pandemic on social media using computational methods. She is also interested in AI ethics, particularly health data and AI in health care.  She holds a B.A. from the Central University of Finance and Economics, China, and an MSc in sociology from Utrecht University, the Netherlands."
+      website: https://twitter.com/plmolomlp/
 
     - name: Michelle Marji
       image: /assets/images/Michelle_Marji.png
@@ -118,32 +148,47 @@ participants:
       bio: "Samuel Mendez is a PhD candidate at the Harvard T.H. Chan School of Public Health. Their dissertation is focused on expanding the scope of health literacy research through connections to natural language processing methods and media studies theory. Samuel draws on their background in media studies and animation to rethink health communication, with the goal of contributing to a more equitable future."
       website: https://www.samuelanimates.com/
 
+    - name: Rohini Pahwa
+      image: /assets/images/Rohini_Pahwa.jpg
+      bio: "Rohini Pahwa is an Associate Professor and the Director of the Ph.D. Program at NYU Silver School of Social Work. As a mental health researcher, Rohini examines the process of community integration and the influences of individual and systemic factors on social networks, community integration and mental health outcomes for individuals with severe mental illnesses through qualitative, quantitative, and social network methodologies."
+      website: https://www.linkedin.com/in/rohinipahwa
+
     - name: Michael	Park
       image: /assets/images/Michael_Park.jpg
       bio: "Michael Park is an Assistant Professor at the School of Social Work at Rutgers University. His research focuses on understanding how racial discrimination and its related stressors (e.g., racial stereotypes) contribute to disparities in mental health and mental health service utilization among Asian American immigrant youth."
       website: https://twitter.com/michaelmhpark  
 
-    - name: Krushika	Patankar
+    - name: Krushika Patankar
       image: /assets/images/Krushika_Patankar.jpg
       bio: "Krushika is a doctoral student at NYU Silver and graduate research assistant at the NYU Center on Violence and Recovery. Her research is informed by clinical practice in restorative work and lived experiences in a services devoid context, wrapping around intimate partner violence (IPV) service delivery to underserved populations, intersections with child protective services, and intervention and implementation science. "
       website: https://www.linkedin.com/in/krushikaudaypatankar/
 
-    - name: Juan	Rios
+    - name: Juan Rios
       image: /assets/images/Juan_Rios.jpg
       bio: "Dr. Juan Rios is a social work professor, licensed Clinical Social Worker and researcher passionate about democratizing Foresight training, Afro-Futures, and Design Justice. By envisioning equitable futures through creativity and critical thinking, Dr. Rios empowers marginalized voices to shape compassionate, human centered transformative possibilities centered around love."
       website: https://www.linkedin.com/in/dr-juan-rios-lcsw-b276b632/
 
-    - name: Olivia	Weng
+    - name: Aaron Rodwin
+      image: /assets/images/Aaron_Rodwin.jpg
+      bio: "Aaron Rodwin is a PhD Candidate at NYU’s Silver School of Social Work. Aaron’s research interests focus on mental health services and interventions for marginalized young adults experiencing serious mental illnesses. Aaron’s has a particular interest in music-based interventions as a youth-oriented tool to improve engagement and recovery."
+      website: https://twitter.com/AaronRodwin
+
+    - name: Haniya Rumaney
+      image: /assets/images/Haniya_Rumaney.jpg
+      bio: "Haniya Rumaney is a PhD student in Basic and Applied Social Psychology at the Graduate Center, CUNY. In the past, she has employed survey experiments and other methodology to study the antecedents and consequences of religious identity and discrimination from the target’s perspective. She is hoping to leverage computational social sciences to study these phenomena from the perspective of stigma perpetrators in India and the US."
+      website: https://twitter.com/hanpothesis
+      
+    - name: Olivia Weng
       image: /assets/images/Olivia_Weng.jpeg
       bio: "Olivia Weng is a PhD student in Public Health Sciences at Washington University in St. Louis. Her research focuses on health education and health communication on chronic disease prevention. Currently, Olivia is interested in studying data from various social media platforms. Before her PhD study, Olivia worked in a local health department dealing with cancer prevention and control. "
       website: https://hcrl.wustl.edu/people/olivia-weng/
 
-    - name: Yuanyuan	Yang
+    - name: Yuanyuan Yang
       image: /assets/images/Yan_Yang.jpg
       bio: "Yuanyuan Yang is a doctoral student and research associate at the Brown School of Social Work, Washington University in St. Louis. Her research focuses on the impact of asset-based poverty policy on child mental well-being. She received her B.M. from Beijing Normal University and her MPA in public policy from New York University. Prior to her doctoral studies, she worked as a research assistant at the McSilver Institute for Poverty Policy and Research at New York University and China Center for Social Policy at Columbia University."
       website: https://www.linkedin.com/in/yuanyuanyang121
 
-    - name: Meng-Hsuan	Yu
+    - name: Meng-Hsuan Yu
       image: /assets/images/Meng_Hsuan_Yu.jpg
       bio: "Meng-Hsuan Yu is a Ph.D. student at the University of Maryland School of Social Work. Her research explores how to identify child maltreatment and improve child protective services using big data analytics. Before her Ph.D. study, she worked as a research associate at the National Taiwan University and at the Ministry of Health and Welfare, Taiwan. Leveraging child welfare administrative data, she utilized tree decision models and topic modeling to refine the child maltreatment screening system to identify children at risk. She is now working on a project using Maryland Child Welfare administrative data to explore the kinship foster care services in Maryland."
       website: https://www.linkedin.com/in/meng-hsuan-yu-2a7911204/
