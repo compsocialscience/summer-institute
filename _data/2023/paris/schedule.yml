@@ -72,16 +72,16 @@
     - name: "14:00 - 18:00 Group Projects"
 
 - date: June 28, 2023
-  name: TBA
+  name: Natural Language Processing IV
   events:
-    - name: "10:00 - 12:30 Lecture (TBA)"
+    - name: "10:00 - 12:30 Lecture ([Julien Boelaert](https://pro.univ-lille.fr/julien-boelaert))"
     - name: "12:30 - 14:00 Lunch Break"
     - name: "14:00 - 18:00 Group Projects"
     
 - date: June 20, 2023
   name: TBA
   events:
-    - name: "10:00 - 12:30 Lecture (TBA)"
+    - name: "10:00 - 12:30 Group Projects"
     - name: "12:30 - 14:00 Lunch Break"
     - name: "14:00 - 18:00 Group Projects"
     - name: "19:00 - 22:00 Farewell Dinner"
