@@ -7,10 +7,10 @@
 - date: June 19, 2023
   name: Introduction - what is CSS & Ethics
   events:
-    - name: "10:00 - 11:00 Welcome & Logistics ([Étienne Ollion](www.ollion.cnrs.fr))"
+    - name: "09:30 - 11:00 Welcome & Logistics ([Étienne Ollion](www.ollion.cnrs.fr))"
     - name: "11:00 - 12:30 Getting to Know Each Other"
-    - name: "12:30 - 14:00 Lunch Break"
-    - name: "14:00 - 17:00 Lecture (TBA)"
+    - name: "14:00 - 15:30 Lunch Break"
+    - name: "16:00 - 17:30 speed dating"
     
 - date: June 20, 2023
   name: Web Scraping I
@@ -69,19 +69,19 @@
   events:
     - name: "10:00 - 12:30 Lecture ([Julien Boelaert](https://pro.univ-lille.fr/julien-boelaert))"
     - name: "12:30 - 14:00 Lunch Break"
-    - name: "14:00 - 16:30 Group Projects"
+    - name: "14:00 - 16:30 Lab ([Felix Lennert](https://felix-lennert.netlify.app))"
     - name: "16:30 - 17:00 Coffee Break"
     - name: "17:00 - 18:30 [Thierry Poibeau](https://www.lattice.cnrs.fr/en/members/direction/thierry-poibeau/): TBA"
 
 - date: June 28, 2023
   name: The Augmented Social Scientist
   events:
-    - name: "10:00 - 12:30 Lab ([Étienne Ollion](www.ollion.cnrs.fr) and Rubing Shen)"
+    - name: "10:00 - 12:30 Lecture ([Étienne Ollion](www.ollion.cnrs.fr) and Rubing Shen)"
     - name: "12:30 - 14:00 Lunch Break"
     - name: "14:00 - 18:00 Group Projects"
     
-- date: June 20, 2023
-  name: TBA
+- date: June 29, 2023
+  name: Group Projects
   events:
     - name: "10:00 - 12:30 Group Projects"
     - name: "12:30 - 14:00 Lunch Break"
