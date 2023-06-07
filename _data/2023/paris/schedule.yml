@@ -31,16 +31,16 @@
     - name: "17:00 - 18:30 [Laura Nelson](https://www.lauraknelson.com): AI and intersectionality"
     
 - date: June 22, 2023
-  name: Web Scraping III
+  name: Natural Language Processing I
   events:
-    - name: "10:00 - 12:30 Lecture ([Étienne Ollion](www.ollion.cnrs.fr))"
+    - name: "10:00 - 12:30 Lecture ([Julien Boelaert](https://pro.univ-lille.fr/julien-boelaert))"
     - name: "12:30 - 14:00 Lunch Break"
     - name: "14:00 - 16:30 Lab ([Felix Lennert](https://felix-lennert.netlify.app))"
     - name: "16:30 - 17:00 Coffee Break"
     - name: "17:00 - 18:30 [Juan Pablo Pardo-Guerra](https://pardoguerra.org): The Extended Computational Case Method: A Framework for Research Design"
 
 - date: June 23, 2023
-  name: Natural Language Processing I
+  name: Natural Language Processing II
   events:
     - name: "10:00 - 12:30 Lecture ([Julien Boelaert](https://pro.univ-lille.fr/julien-boelaert))"
     - name: "12:30 - 14:00 Lunch Break"
@@ -56,7 +56,7 @@
   name: "off-day"
 
 - date: June 26, 2023
-  name: Natural Language Processing II
+  name: Natural Language Processing III
   events:
     - name: "10:00 - 12:30 Lecture ([Julien Boelaert](https://pro.univ-lille.fr/julien-boelaert))"
     - name: "12:30 - 14:00 Lunch Break"
@@ -65,16 +65,18 @@
     - name: "17:00 - 18:00 Start of Group Projects"
     
 - date: June 27, 2023
-  name: Natural Language Processing III
-  events:
-    - name: "10:00 - 12:30 Lecture ([Julien Boelaert](https://pro.univ-lille.fr/julien-boelaert))"
-    - name: "12:30 - 14:00 Lunch Break"
-    - name: "14:00 - 18:00 Group Projects"
-
-- date: June 28, 2023
   name: Natural Language Processing IV
   events:
     - name: "10:00 - 12:30 Lecture ([Julien Boelaert](https://pro.univ-lille.fr/julien-boelaert))"
+    - name: "12:30 - 14:00 Lunch Break"
+    - name: "14:00 - 16:30 Group Projects"
+    - name: "16:30 - 17:00 Coffee Break"
+    - name: "17:00 - 18:30 [Thierry Poibeau](https://www.lattice.cnrs.fr/en/members/direction/thierry-poibeau/): TBA"
+
+- date: June 28, 2023
+  name: The Augmented Social Scientist
+  events:
+    - name: "10:00 - 12:30 Lab ([Étienne Ollion](www.ollion.cnrs.fr) and Rubing Shen)"
     - name: "12:30 - 14:00 Lunch Break"
     - name: "14:00 - 18:00 Group Projects"
     
