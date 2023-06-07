@@ -83,7 +83,7 @@ speakers:
       website: https://vicky.rampin.org/
 
 teachingassistants:
-  title: Teaching Assistants 
+  title: Course Assistant 
   people: 
     - name: Zezhen (Michael) Wu 
       image: /assets/images/Zezhen_Wu.jpg
@@ -107,6 +107,11 @@ participants:
       image: /assets/images/Brianna_Amos.jpg
       bio: "Brianna is currently pursuing a PhD in social work at the NYU Silver School of Social Work. Her research interests are rooted in understanding mental health disparities in Black communities. She is specifically interested in factors influencing Black Americans’ decisions to engage with formal mental health services, such as cultural stigma."
       website: https://socialwork.nyu.edu/a-silver-education/degree-programs/phd/meet-our-students.html#amos
+
+    - name: Leeam Azoulay
+      image: /assets/images/Leeam_Azoulay.png
+      bio: ""
+      website: https://twitter.com/Leeam332
 
     - name: Daniel Baslock
       image: /assets/images/Daniel_Baslock.jpg
