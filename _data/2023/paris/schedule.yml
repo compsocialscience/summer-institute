@@ -2,7 +2,7 @@
   name: Arrival
   events:
     - name: "14:00 - 17:00 Arrival at Residency"
-    - name: "17:00 - 19:00 Welcome Apéro"
+    - name: "18:30 - 21:00 Welcome Apéro"
     
 - date: June 19, 2023
   name: Introduction - what is CSS & Ethics
