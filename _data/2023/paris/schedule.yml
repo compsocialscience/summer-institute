@@ -7,7 +7,7 @@
 - date: June 19, 2023
   name: Introduction - what is CSS & Ethics
   events:
-    - name: "09:30 - 11:00 Welcome & Logistics ([Étienne Ollion](www.ollion.cnrs.fr))"
+    - name: "10:00 - 11:00 Welcome & Logistics ([Étienne Ollion](www.ollion.cnrs.fr))"
     - name: "11:00 - 12:30 Getting to Know Each Other"
     - name: "12:30 - 14:00 Lunch Break"
     - name: "14:00 - 17:00 Lecture (TBA)"
@@ -15,7 +15,7 @@
 - date: June 20, 2023
   name: Web Scraping I
   events:
-    - name: "09:30 - 12:30 Lecture ([Étienne Ollion](www.ollion.cnrs.fr))"
+    - name: "10:00 - 12:30 Lecture ([Étienne Ollion](www.ollion.cnrs.fr))"
     - name: "12:30 - 14:00 Lunch Break"
     - name: "14:00 - 16:30 Lab ([Felix Lennert](https://felix-lennert.netlify.app))"
     - name: "16:30 - 17:00 Coffee Break"
@@ -24,7 +24,7 @@
 - date: June 21, 2023
   name: Web Scraping II
   events:
-    - name: "09:30 - 12:30 Lecture ([Étienne Ollion](www.ollion.cnrs.fr))"
+    - name: "10:00 - 12:30 Lecture ([Étienne Ollion](www.ollion.cnrs.fr))"
     - name: "12:30 - 14:00 Lunch Break"
     - name: "14:00 - 16:30 Group Exercise ([Felix Lennert](https://felix-lennert.netlify.app))"
     - name: "16:30 - 17:00 Coffee Break"
