@@ -10,18 +10,17 @@
     - name: "09:30 - 10:00 Introduction and Welcome (Jacob Habinek)" 
     - name: "10:00 - 12:00 Lecture: Computational Social Science (Jacob Habinek)" 
     - name: "12:00 - 13:00 Lunch Break"
-    - name: "13:00 - 15:00 Workshop: Ethics (Elis Carlberg Larsson)"
+    - name: "13:00 - 15:00 Workshop: Ethics (Elis Carlberg Larsson and Alexandra Rottenkolber)"
     - name: "15:00 - 16:00 Fika Break"
     - name: "18:00 - 20:00 Welcome Dinner"
 
 - date: 2023-06-13 # Tuesday
   name: Digital Trace Data
   events:
-    - name: "10:00 - 12:00 Lecture: Digital Trace Data (Anastasia Menshikova)"
+    - name: "10:00 - 12:00 Lecture: Digital Trace Data (Jacob Habinek)"
     - name: "12:00 - 13:00 Lunch Break"
-    - name: "13:00 - 15:00 Workshop: Collecting Digital Data (Anastasia Menshikova and Maël Lecoursonnais)"
+    - name: "13:00 - 15:00 Workshop: Collecting Digital Data (Hendrik Erz and Maël Lecoursonnais)"
     - name: "15:00 - 16:00 Fika Break"
-    - name: "16:00 - 17:30 Research Talk (TBA)"
 
 - date: 2023-06-14 # Wednesday
   name: Computational Text Analysis
@@ -34,11 +33,12 @@
 - date: 2023-06-15 # Thursday
   name: Social Network Analysis
   events:
-    - name: "09:30 - 11:30 Lecture: Social Network Analysis (Carl Nordlund)"
-    - name: "11:30 - 12:30 Lunch Break"
-    - name: "12:30 - 14:30 Workshop: Social Network Analysis (Alexandra Rottenkolber)"
-    - name: "14:30 - 16:00 Research Talk: How Should an Employee Be?: The Literature of Business Self-Help and the Construction of Financialized Subjects (Carly Knight)"
-    - name: "16:00 - 17:00 Fika Break"
+    - name: "09:00 - 11:00 Lecture: Social Network Analysis (Carl Nordlund)"
+    - name: "11:00 - 12:00 Lunch Break"
+    - name: "12:00 - 14:00 Workshop: Social Network Analysis (Alexandra Rottenkolber)"
+    - name: "14:00 - 14:30 Fika Break"
+    - name: "14:30 - 16:00 Research Talk: How Should an Employee Be? The Literature of Business Self-Help and the Construction of Financialized Subjects (Carly Knight)"
+    - name: "16:00 - 18:00 CSS Social"
 
 - date: 2023-06-16 # Friday
   name: Spatial Data
@@ -47,6 +47,7 @@
     - name: "12:00 - 13:00 Lunch Break"
     - name: "13:00 - 15:00 Matchmaking for the Group Projects"
     - name: "15:00 - 16:00 Fika Break"
+    - name: "16:00 - 17:30 Research Talk: Cognitive Search and Social Network (Hui Sun)"
 
 - date: 2023-06-17 # Saturday
   name: Weekend day off
@@ -63,20 +64,21 @@
   name: Project Week
   events:
     - name: "10:00 - 16:00 Project Working Time"
-    - name: "16:00 - 17:30 Research Talk (TBA)"
+    - name: "16:00 - 17:30 Research Talk: TBD (Andrea Voyer)"
 
 - date: 2023-06-21 # Wednesday
   name: Project Week
   events:
-    - name: "10:00 - 17:00 Project Working Time"
+    - name: "10:00 - 16:00 Project Working Time"
+    - name: "16:00 - 17:30 Research Talk: Statistical Modelling and the Three Cultures (Adel Daoud)"
 
 - date: 2023-06-22 # Thursday
   name: Final Day
   events:
     - name: "10:00 - 12:00 Project Working Time"
     - name: "12:00 - 13:00 Lunch Break"
-    - name: "13:00 - 16:00 Project Presentations"
-    - name: "16:00 - 17:00 Fika Break"
+    - name: "13:00 - 15:00 Project Working Time"
+    - name: "15:00 - 17:00 Project Presentations"
     - name: "18:00 - 20:00 Farewell Dinner"
 
 - date: 2023-06-23 # Friday
