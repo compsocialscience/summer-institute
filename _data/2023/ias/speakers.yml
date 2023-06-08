@@ -1,1 +1,24 @@
-- name:
+- name: Carly Knight
+  image: /assets/images/ias_carly_knight.jpeg
+  bio: Carly Knight is an Assistant Professor of Sociology at New York University. She is a cultural and economic sociologist who uses quantitative methods, including computational methods, to study changing cultural schemas around market behavior. Her primary research focuses on how both regulators and lay audiences talk about abstract market actors, like corporations, and how the metaphors they use influence their opinions about corporate regulation.
+  website: https://www.linkedin.com/in/bea-treena-macasaet-78738b95/
+
+- name: Hui Sun
+  image: /assets/images/ias_sun_hui.jpg
+  bio: Hui Sun is an assistant professor in the House of Innovation at Stockholm School of Economics. Her work combines experiments, natural language processing and computational simulations to study the role of cognition in network mobilization, organizational design, and meaning making in entrepreneurship.
+  website: https://www.linkedin.com/in/bea-treena-macasaet-78738b95/
+
+- name: Andrea Voyer
+  image:
+  bio:
+  website: https://www.linkedin.com/in/bea-treena-macasaet-78738b95/
+
+- name: Adel Daoud
+  image: /assets/images/ias_adel_daoud.jpg
+  bio: Adel Daoud is Senior Associate Professor at Institute for Analytical Sociology, Linköping University, and Affiliated Associate Professor in Data Science and Artificial Intelligence for the Social Sciences, Department of Computer Science and Engineering, Chalmers University of Technology, Sweden. Previously he held positions at Harvard University, University of Cambridge, and the Alan Turing Institute. Between September 2023 and June 2024, he will be a Fellow of the Center for Advanced Study in the Behavioral Sciences (CASBS) at Stanford University. His researh has both a social-scientific and methodologically orientation. For the social sciences, he researches the effect of international development interventions (e.g., anti-poverty policies) on global poverty, but also the impact of sudden shocks (e.g., economic, political, and natural disasters). Daoud implements novel methodologies in machine learning and causal inference to analyze the causes and consequences of poverty. Daoud leads The AI and Global Development Lab (more information at global-lab.ai) and also the creator of a new podcast called the Journeys of Scholars (available on YouTube and Spotify).
+  website: https://www.linkedin.com/in/bea-treena-macasaet-78738b95/
+
+- name: Martin Arvidsson
+  image:
+  bio:
+  website: https://www.linkedin.com/in/bea-treena-macasaet-78738b95/
