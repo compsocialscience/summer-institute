@@ -9,8 +9,10 @@
   events:
     - name: "09:30 - 11:00 Welcome & Logistics ([Étienne Ollion](www.ollion.cnrs.fr))"
     - name: "11:00 - 12:30 Getting to Know Each Other"
-    - name: "14:00 - 15:30 Lunch Break"
-    - name: "16:00 - 17:30 speed dating"
+    - name: "12:30 - 14:00 Lunch Break"
+    - name: "14:00 - 15:30 Research Ethics ([Étienne Ollion](www.ollion.cnrs.fr))"
+    - name: "16:00 - 16:30 Coffee Break"
+    - name: "16:00 - 17:30 Research Project Speed Dating"
     
 - date: June 20, 2023
   name: Web Scraping I
