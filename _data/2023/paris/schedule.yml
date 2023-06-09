@@ -1,7 +1,7 @@
 - date: June 18, 2023
   name: Arrival
   events:
-    - name: "14:00 - 17:00 Arrival at Residency"
+    - name: "14:00 - 18:00 Arrival at Residency"
     - name: "18:30 - 21:00 Welcome Apéro"
     
 - date: June 19, 2023
@@ -93,4 +93,4 @@
 - date: June 30, 2023
   name: Final day
   events:
-    - name: "10:00 - 12:30 Group presentations"
+    - name: "09:30 - 13:30 Group presentations"
