@@ -2,10 +2,10 @@
   name: Arrival
   events:
     - name: "15:00 - 18:00 Check in at Hotel"
-    - name: "18:00 - 20:00 Welcome Meet up"
+    - name: "18:00 - 20:00 Welcome Meet up [Ölstugan Tullen]"
 
 - date: 2023-06-12 # Monday
-  name: Introduction and Ethics
+  name: Introduction and Ethics [Kopparhammaren 2, Room KO24]
   events:
     - name: "09:30 - 10:00 Introduction and Welcome (Jacob Habinek)" 
     - name: "10:00 - 12:00 Lecture: Computational Social Science (Jacob Habinek)" 
@@ -15,7 +15,7 @@
     - name: "18:00 - 20:00 Welcome Dinner"
 
 - date: 2023-06-13 # Tuesday
-  name: Digital Trace Data
+  name: Digital Trace Data [Wadströmska villan]
   events:
     - name: "10:00 - 12:00 Lecture: Digital Trace Data (Jacob Habinek)"
     - name: "12:00 - 13:00 Lunch Break"
@@ -23,7 +23,7 @@
     - name: "15:00 - 16:00 Fika Break"
 
 - date: 2023-06-14 # Wednesday
-  name: Computational Text Analysis
+  name: Computational Text Analysis [Kopparhammaren 2, Room KO24]
   events:
     - name: "10:00 - 12:00 Lecture: Computational Text Analysis (Hendrik Erz)"
     - name: "12:00 - 13:00 Lunch Break"
@@ -31,7 +31,7 @@
     - name: "15:00 - 16:00 Fika Break"
 
 - date: 2023-06-15 # Thursday
-  name: Social Network Analysis
+  name: Social Network Analysis [Wadströmska villan]
   events:
     - name: "09:00 - 11:00 Lecture: Social Network Analysis (Carl Nordlund)"
     - name: "11:00 - 12:00 Lunch Break"
@@ -41,7 +41,7 @@
     - name: "16:00 - 18:00 CSS Social"
 
 - date: 2023-06-16 # Friday
-  name: Spatial Data
+  name: Spatial Data [Wadströmska villan]
   events:
     - name: "10:00 - 12:00 Workshop: Spatial Data (Maël Lecoursonnais)"
     - name: "12:00 - 13:00 Lunch Break"
@@ -64,13 +64,13 @@
   name: Project Week
   events:
     - name: "10:00 - 16:00 Project Working Time"
-    - name: "16:00 - 17:30 Research Talk: TBD (Andrea Voyer)"
+    - name: "16:00 - 17:30 Research Talk: TBD (Andrea Voyer)  [Wadströmska villan]"
 
 - date: 2023-06-21 # Wednesday
   name: Project Week
   events:
     - name: "10:00 - 16:00 Project Working Time"
-    - name: "16:00 - 17:30 Research Talk: Statistical Modelling and the Three Cultures (Adel Daoud)"
+    - name: "16:00 - 17:30 Research Talk: Statistical Modelling and the Three Cultures (Adel Daoud)  [Wadströmska villan]"
 
 - date: 2023-06-22 # Thursday
   name: Final Day
