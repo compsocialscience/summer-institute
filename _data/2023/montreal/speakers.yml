@@ -3,20 +3,10 @@
   bio: "Evelyne Brie est professeure adjointe en science politique à l Université Western. Elle détient un doctorat en science politique de l Université de Pennsylvanie. Ses recherches portent sur l opinion publique, le comportement électoral et l économie politique, principalement en Allemagne et au Canada. Elle est chercheure affiliée au CAPFC (Centre d analyse politique - Constitution Fédéralisme) et à la CLESSN (Chaire de leadership en enseignement des sciences sociales numériques). Elle a récemment publié l ouvrage « Un pays divisé : identité, fédéralisme et régionalisme au Canada » aux Presses de l Université Laval (à paraître aux Presses de l Université de Toronto). Elle a précédemment travaillé en tant qu analyste de données au City Lab Berlin et à Politics for Tomorrow." 
   website: www.evelynebrie.com
   
-- name: Nicole Denier
-  image: 
-  bio:
-  website: https://apps.ualberta.ca/directory/person/denier
-
-- name: Yannick Dufresne
-  image: 
-  bio:
-  website: yannick.dufresne@pol.ulaval.ca
-
-- name: Benjamin Guinaudeau
-  image: 
-  bio:
-  website: https://benguinaudeau.com/ 
+- name: Alex Luscombe
+  image: /assets/images/luscombe.jpg
+  bio: "Alex Luscombe is a data scientist working full time for several Canadian government institutions and a PhD Candidate in criminology at the University of Toronto. His dissertation research leverages advances in natural language processing, machine learning, and high-performance computing to conduct the first ever big data study of police criminal investigations in Canada. As a data scientist and strategic advisor, he has worked on projects for many different public and private sector agencies, from police agencies to human rights commissions, as well as international organizations like the OECD. His work has been profiled in national and international news outlets, including Nature, The Globe & Mail, The Toronto Star, The Washington Post, and BBC News."
+  website: https://alexluscombe.ca/
 
 - name: Hervé Mensanh
   image: /assets/images/Herve_Mensanh.jpeg
