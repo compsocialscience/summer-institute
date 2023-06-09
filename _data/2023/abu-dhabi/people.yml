@@ -53,6 +53,7 @@ teaching_assistants:
     - name: Thomas Marlow
       bio: Thomas Marlow is a postdoctoral fellow at the New York University Abu Dhabi, Center for Interacting Urban Networks (CITIES). Thomas received his PhD in Sociology from Brown University in Spring 2020. His research sits at the intersection of environmental and urban sociology. It seeks to use innovative computational social science methodologies to answer questions about the emergence and maintenance of urban and environmental inequalities during global climate change.
       image: /assets/images/marlow_s.jpg
+      website: http://www.thomas-marlow.com/
 
     - name: Maria Sahakyan
       bio: Maria Sahakyan obtained her Ph.D. in Electrical Engineering and Computer Science from Khalifa University. Currently she holds the position of a postdoctoral associate at New York University Abu Dhabi, in Computational Social Science. She primarily focuses her academic endeavors on computational social science and explainable artificial intelligence by exploring the societal and economic advantages associated with diversity, while also leveraging XAI methodologies as versatile instruments for data analysis.
