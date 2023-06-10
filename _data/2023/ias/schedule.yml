@@ -64,16 +64,16 @@
   name: Project Week
   events:
     - name: "10:00 - 16:00 Project Working Time"
-    - name: "16:00 - 17:30 Research Talk: TBD (Andrea Voyer)  [Wadströmska villan]"
+    - name: "16:00 - 17:30 Research Talk: TBD (Andrea Voyer)  [Kopparhammaren 2, Room KO301]"
 
 - date: 2023-06-21 # Wednesday
   name: Project Week
   events:
     - name: "10:00 - 16:00 Project Working Time"
-    - name: "16:00 - 17:30 Research Talk: Statistical Modelling and the Three Cultures (Adel Daoud)  [Wadströmska villan]"
+    - name: "16:00 - 17:30 Research Talk: Statistical Modelling and the Three Cultures (Adel Daoud)  [Kopparhammaren 2, Room KO301]"
 
 - date: 2023-06-22 # Thursday
-  name: Final Day
+  name: Final Day [Wadströmska villan]
   events:
     - name: "10:00 - 12:00 Project Working Time"
     - name: "12:00 - 13:00 Lunch Break"
