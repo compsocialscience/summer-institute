@@ -10,7 +10,7 @@
     - name: "09:30 - 10:00 Introduction and Welcome (Jacob Habinek)" 
     - name: "10:00 - 12:00 Lecture: Computational Social Science (Jacob Habinek)" 
     - name: "12:00 - 13:00 Lunch Break"
-    - name: "13:00 - 15:00 Workshop: Ethics (Elis Carlberg Larsson and Alexandra Rottenkolber)"
+    - name: "13:00 - 15:00 Workshop: Ethics (Elis Carlberg Larsson and Hendrik Erz)"
     - name: "15:00 - 16:00 Fika Break"
     - name: "18:00 - 20:00 Welcome Dinner"
 
@@ -19,7 +19,7 @@
   events:
     - name: "10:00 - 12:00 Lecture: Digital Trace Data (Jacob Habinek)"
     - name: "12:00 - 13:00 Lunch Break"
-    - name: "13:00 - 15:00 Workshop: Collecting Digital Data (Hendrik Erz and Maël Lecoursonnais)"
+    - name: "13:00 - 15:00 Workshop: Collecting Digital Data (Alexandra Rottenkolber and Maël Lecoursonnais)"
     - name: "15:00 - 16:00 Fika Break"
 
 - date: 2023-06-14 # Wednesday
@@ -64,16 +64,16 @@
   name: Project Week
   events:
     - name: "10:00 - 16:00 Project Working Time"
-    - name: "16:00 - 17:30 Research Talk: TBD (Andrea Voyer)  [Wadströmska villan]"
+    - name: "16:00 - 17:30 Research Talk: TBD (Andrea Voyer)  [Kopparhammaren 2, Room KO301]"
 
 - date: 2023-06-21 # Wednesday
   name: Project Week
   events:
     - name: "10:00 - 16:00 Project Working Time"
-    - name: "16:00 - 17:30 Research Talk: Statistical Modelling and the Three Cultures (Adel Daoud)  [Wadströmska villan]"
+    - name: "16:00 - 17:30 Research Talk: Statistical Modelling and the Three Cultures (Adel Daoud)  [Kopparhammaren 2, Room KO301]"
 
 - date: 2023-06-22 # Thursday
-  name: Final Day
+  name: Final Day [Wadströmska villan]
   events:
     - name: "10:00 - 12:00 Project Working Time"
     - name: "12:00 - 13:00 Lunch Break"
