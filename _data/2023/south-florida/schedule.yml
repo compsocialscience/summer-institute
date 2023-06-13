@@ -67,7 +67,8 @@
 - date: Week 2
 
 - date: Monday June 26, 2023
-  events: Group work
+  name: Group work 
+  events:
     - name: "9:30 - 10:00 AM Continental breakfast, Crux coffee"
     - name: "10:00 - 12:00 Noon Morning group work"
     - name: "12:00 - 1:00 PM Lunch"
