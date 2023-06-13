@@ -1,19 +1,19 @@
 - date: Week 0
 
-- date: Thursday, June 15, 2023
+- date: Thursday June 15, 2023
   name: Pre-SICSS shakedown
   events:
     - name: "3:00 - 5:00 PM [SICSS virtual office hours (Alvero, Lanning)](https://fau-edu.zoom.us/j/81912899434?pwd=MTUvaEl3YnNxMlNLL0xDY1hxQ0Z2QT09)
 
 - date: Week 1
 
-- date: Monday, June 19, 2023
+- date: Monday June 19, 2023
   name: Juneteenth
   events:
     - name: "1:00 - 5:00 PM Arrival at residence hall RH 3"
     - name: "6:30 - 8:00 PM Welcome dinner (Cunningham, SR 149)"
 
-- date: Tuesday, June 20, 2023
+- date: Tuesday June 20, 2023
   name: Introduction / networks
   events:
     - name: "9:30 - 10:00 AM Continental breakfast, Crux coffee"
@@ -25,7 +25,7 @@
     - name: "3:00 - 3:15 PM Break"
     - name: "3:15 - 4:30 PM Network activity - bibliometrics or ?"
 
-- date: Wednesday, June 21, 2023
+- date: Wednesday June 21, 2023
   name: Data ethics / web scraping
   events:
     - name: "9:30 - 10:00 AM Continental breakfast, Crux coffee"
@@ -37,7 +37,7 @@
     - name: "3:00 - 3:15 PM Break"
     - name: "3:15 - 4:30 PM Web scraping activity"
 
-- date: Thursday, June 22, 2023
+- date: Thursday June 22, 2023
   name: Text analysis
   events:
     - name: "9:30 - 10:00 AM Continental breakfast, Crux coffee"
@@ -48,7 +48,7 @@
     - name: "3:00 - 3:15 PM Break"
     - name: "3:15 - 4:30 PM Text analysis activity"
 
-- date: Friday, June 23, 2023
+- date: Friday June 23, 2023
   name: Lightning talks / surveys
   events: 
     - name: "9:30 - 10:00 AM Continental breakfast, Crux coffee"
@@ -58,43 +58,43 @@
     - name: "3:00 - 3:15 PM Break"
     - name: "3:15 - 4:30 PM More design sprint"
 
-- date: June 24, 2023
+- date: Saturday June 24, 2023
   name: Weekend (no events scheduled)
 
-- date: June 25, 2023
+- date: Sunday June 25, 2023
   name: Weekend (no events scheduled)
 
 - date: Week 2
 
-- date: Monday, June 26, 2023
+- date: Monday June 26, 2023
   events: Group work
     - name: "9:30 - 10:00 AM Continental breakfast, Crux coffee"
     - name: "10:00 - 12:00 Noon Morning group work"
     - name: "12:00 - 1:00 PM Lunch"
     - name: "1:00 - 4:30 PM Afternoon group work"
 
-- date: Tuesday, June 27, 2023
+- date: Tuesday June 27, 2023
   name: Group work
   events:
     - name: "9:30 - 10:00 AM Continental breakfast, Crux coffee"
     - name: "10:00 - 12:00 Noon Morning group work"
     - name: "12:00 - 1:00 PM Lunch"
 
-- date: Wednesday, June 28 2023
+- date: Wednesday June 28 2023
   name: Group work
   events:
     - name: "9:30 - 10:00 AM Continental breakfast, Crux coffee"
     - name: "10:00 - 12:00 Noon Morning group work"
     - name: "12:00 - 1:00 PM Lunch"
 
-- date: Thursday, June 29 2023
+- date: Thursday June 29 2023
   name: Group work
   events:
     - name: "9:30 - 10:00 AM Continental breakfast, Crux coffee"
     - name: "10:00 - 12:00 Noon Morning group work"
     - name: "12:00 - 1:00 PM Lunch"
 
-- date: Friday, June 30 2023
+- date: Friday June 30 2023
   name: Presentations
   events:
     - name: "9:30 - 10:00 AM Continental breakfast, Crux coffee"
@@ -103,7 +103,7 @@
     - name: "1:00 - 4:30 PM Final presentations"
     - name: "6:30 - 9:00 PM Farewell dinner (buffet)"
 
-- date: Saturday, July 1, 2023
+- date: Saturday July 1, 2023
   name: Departure
   events:
     - name: "11:00 AM Residence hall check-out" 
