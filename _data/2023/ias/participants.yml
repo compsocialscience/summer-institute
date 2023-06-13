@@ -89,3 +89,18 @@
   image: /assets/images/ias_emelie_karlsson.jpg
   bio: Emelie Karlsson is a PhD student in political science at Uppsala University. She is a part of a research project focusing on "AI and political communication", and her dissertation project focuses on coordinated inauthentic behavior and information campaigns on social media platforms and their social and political implications using mixed methods - including experimental and computational approaches.
   website: https://twitter.com/KarlssonEmelie_
+
+- name: Nathaniel Darling
+  image: /assets/images/ias_nathaniel_darling.jpg
+  bio: Nathaniel Darling is currently completing an MSc in Economic History at LSE, and will start a PhD in October 2023. Before starting this MSc Nathaniel worked as a secondary school teacher in London. 
+  website:
+
+- name: Diletta Goglia
+  image: /assets/images/ias_diletta_goglia.jpg
+  bio: Diletta Goglia is a doctoral student in Network Science at the Information Technology Department of Uppsala University. Her work in the "Uppsala University Information Laboratory research group" (UU-InfoLab) focuses on developing computational methods to model and explain social behavior of people in online communication. Her current project is analyzing users’ roles in conversational data from Online Social Networks, aiming at identifying, modelling and understanding actors’ behavioral patterns in online discussions, by combining structural properties of graphs with social theories. Previously, she collaborated with the “HumMingBird - Horizon 2020 EU” project, working on Machine Learning and Big Data Science to study and predict cross-border human migration using Social Big Data from Facebook. She holds a MSc in Artificial Intelligence and a BSc in Digital Humanities, from University of Pisa. Her education in Computer Science, background in humanities and expertise in sociology delineate the profile of a multidisciplinary researcher.
+  website: https://www.it.uu.se/katalog/dilgo529
+
+- name: Asmaa Abdelkhalek
+  image: /assets/images/ias_asmaa_abdelKhalek.jpeg
+  bio: Asmaa Abdelkhalek is a PhD student and a research Assistant at the Department of Political Science Cairo University in Egypt. She is also a researcher atInterRegional for Strategic Analysis - MIR in Abu Dhabi, United Arab Emirates. Her research interests focus on the integration of quantitative and qualitative research in political science, with a particular focus on the intersection between international relations and public opinion. As part of a research team at Cairo University, she is currently working on a project that examines the impact of misinformation and fake news, with a particular emphasis on the integration of machine learning applications to study these topics.
+  website:
