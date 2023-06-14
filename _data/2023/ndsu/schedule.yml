@@ -1,3 +1,92 @@
-- date: June 19, 2023
+- date: June 18, 2023
+  name: Welcoming Dinner
+  events: 
+  - name: "18:00 - 20:00 Welcoming dinner in downtown Fargo "
+
+- date: June 19, 2023 
+  name: Introduction & Ethics
   events:
-    - name: "Schedule coming soon..."
+  - name: "9:30 - 10:30 Introduction and logistics"
+  - name: "10:30 - 11:30 Overview of CSS and ethics"
+  - name: "11:30 - noon Research speed-dating"
+  - name: "noon - 13:30 Lunch time"
+  - name: "13:30 - 16:00 Small group activity"
+  
+- date: June 20, 2023 
+  name: Auditing Algorithms
+  events:
+  - name: "9:30 - 10:00 Logistics"
+  - name: "10:00 - 11:30 Tutorial on auditing algorithms"
+  - name: "11:30 - noon Research speed-dating"
+  - name: "noon - 13:30 Lunch time" 
+  - name: "13:30 - 16:00 Small group activity"
+  
+- date: June 21, 2023 
+  name: Collecting Digital Trace Data  
+  events:
+  - name: "9:30 - 10:00 Logistics"
+  - name: "10:00 - 11:30 Tutorial on collecting digital trace data"
+  - name: "11:30 - noon Research speed-dating"
+  - name: "noon - 13:30 Lunch time & talk by Alvin Zhou (U of Minnesota)"
+  - name: "13:30 - 16:00 Small group activity"
+  
+- date: June 22, 2023 
+  name: Textual Data Processing & NLP  
+  events:
+  - name: "9:30 - 10:00 Logistics"
+  - name: "10:00 - noon Tutorial on textual data processing & NLP"
+  - name: "noon - 13:30 Lunch time & talk by Yini Zhang (U at Buffalo)" 
+  - name: "13:30 - 16:00 Small group activity"
+  
+- date: June 23, 2023 
+  name: Data Visualization 
+  events:
+  - name: "9:30 - 10:00 Logistics"
+  - name: "10:00 - 11:00 Tutorial on data visualization"
+  - name: "11:30 - noon Group formation"
+  - name: "noon - 13:30 Lunch time & talk by Leslie Laam (Sanford Health)" 
+  - name: "13:30 - 15:00 HPC tour led by Khang Hoang (NDSU)"
+  - name: "15:20 - 16:00 Group work time"
+  
+- date: June 24, 2023 
+  name: Day Off
+  events:
+  - name: "Enjoy Fargo!"
+  
+- date: June 25, 2023 
+  name: Day Off  
+  events:
+  - name: "Enjoy Fargo!"
+  
+- date: June 26, 2023 
+  name: Deep Learning with Neural Networks  
+  events:
+  - name: "9:30 - 10:00 Logistics"
+  - name: "10:00 - 11:30 Learning session"
+  - name: "11:30 - noon Group check-ins"
+  - name: "noon - 13:30 Lunch time" 
+  - name: "13:30 - 16:00 Group work time"
+
+- date: June 27, 2023 
+  name: Fine-tuning LLMs & ChatGPT API 
+  events:
+  - name: "9:30 - 10:00 Logistics"
+  - name: "10:00 - 11:30 Learning session"
+  - name: "11:30 - noon Group check-ins"
+  - name: "noon - 13:30 Lunch time & talk by Dane Mataic (NDSU)" 
+  - name: "13:30 - 16:00 Group work time"
+
+- date: June 28, 2023 
+  name: Unsupervised Machine Learning
+  events:
+  - name: "9:30 - 10:00 Logistics"
+  - name: "10:00 - 11:30 Tutorial on cluster analysis & topic modeling"
+  - name: "noon - 13:30 Lunch time & talk by Dan Pemstein (NDSU)" 
+  - name: "13:30 - 16:00 Group work time"
+
+- date: June 29, 2023 
+  name: Group Presentation Day
+  events: 
+    - name: "9:30 - 10:00 Logistics"
+    - name: "10:00 - noon Group presentation (projects TBA)"
+    - name: "noon - 14:00 Farewell Lunch"
