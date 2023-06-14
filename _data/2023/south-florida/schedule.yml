@@ -16,7 +16,7 @@
 - date: Tuesday June 20, 2023
   name: Introduction / networks
   events:
-    - name: "9:30 - 10:00 AM Continental breakfast, Crux coffee"
+    - name: "8:00 - 10:00 AM Continental breakfast, Crux coffee"
     - name: "10:00 - 11:00 AM Introductions / KatGPT, getting connected, defining Comp Social Sci"
     - name: "11:00 - 12:00 Noon The centrality of networks (Lanning)"
     - name: "12:00 - 1:00 PM Lunch"
@@ -28,7 +28,7 @@
 - date: Wednesday June 21, 2023
   name: Data ethics / web scraping
   events:
-    - name: "9:30 - 10:00 AM Continental breakfast, Crux coffee"
+    - name: "8:00 - 10:00 AM Continental breakfast, Crux coffee"
     - name: "10:00 - 11:00 AM Privacy (Tunick)"
     - name: "11:00 - 12:00 Noon Ethics (Albrecht)"
     - name: "12:00 - 1:00 PM Lunch"
@@ -40,7 +40,7 @@
 - date: Thursday June 22, 2023
   name: Text analysis
   events:
-    - name: "9:30 - 10:00 AM Continental breakfast, Crux coffee"
+    - name: "8:00 - 10:00 AM Continental breakfast, Crux coffee"
     - name: "10:00 - 12:00 Noon Text analysis: cleaning, keywords/counts, topic models (Alvero)"
     - name: "12:00 - 1:00 PM Lunch"
     - name: "1:00 - 2:00 PM Text analysis and ego development (Lanning)"
@@ -51,7 +51,7 @@
 - date: Friday June 23, 2023
   name: Lightning talks / surveys
   events: 
-    - name: "9:30 - 10:00 AM Continental breakfast, Crux coffee"
+    - name: "8:00 - 10:00 AM Continental breakfast, Crux coffee"
     - name: "10:00 - 12:00 Noon Lightning talks/surveys"
     - name: "12:00 - 1:00 PM Lunch"
     - name: "1:00 - 3:00 PM Design sprint"
@@ -69,7 +69,7 @@
 - date: Monday June 26, 2023
   name: Group work 
   events:
-    - name: "9:30 - 10:00 AM Continental breakfast, Crux coffee"
+    - name: "8:00 - 10:00 AM Continental breakfast, Crux coffee"
     - name: "10:00 - 12:00 Noon Morning group work"
     - name: "12:00 - 1:00 PM Lunch"
     - name: "1:00 - 4:30 PM Afternoon group work"
@@ -77,28 +77,28 @@
 - date: Tuesday June 27, 2023
   name: Group work
   events:
-    - name: "9:30 - 10:00 AM Continental breakfast, Crux coffee"
+    - name: "8:00 - 10:00 AM Continental breakfast, Crux coffee"
     - name: "10:00 - 12:00 Noon Morning group work"
     - name: "12:00 - 1:00 PM Lunch"
 
 - date: Wednesday June 28 2023
   name: Group work
   events:
-    - name: "9:30 - 10:00 AM Continental breakfast, Crux coffee"
+    - name: "8:00 - 10:00 AM Continental breakfast, Crux coffee"
     - name: "10:00 - 12:00 Noon Morning group work"
     - name: "12:00 - 1:00 PM Lunch"
 
 - date: Thursday June 29 2023
   name: Group work
   events:
-    - name: "9:30 - 10:00 AM Continental breakfast, Crux coffee"
+    - name: "8:00 - 10:00 AM Continental breakfast, Crux coffee"
     - name: "10:00 - 12:00 Noon Morning group work"
     - name: "12:00 - 1:00 PM Lunch"
 
 - date: Friday June 30 2023
   name: Presentations
   events:
-    - name: "9:30 - 10:00 AM Continental breakfast, Crux coffee"
+    - name: "8:00 - 10:00 AM Continental breakfast, Crux coffee"
     - name: "10:00 - 12:00 Noon Final presentations"
     - name: "12:00 - 1:00 PM Lunch"
     - name: "1:00 - 4:30 PM Final presentations"
