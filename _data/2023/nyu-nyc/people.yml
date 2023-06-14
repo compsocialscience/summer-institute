@@ -81,6 +81,11 @@ speakers:
       image: /assets/images/Vicky_Rampin.png
       bio: "Vicky Rampin is the Librarian for Research Data Management and Reproducibility and the subject specialist for data science and computer science at New York University. Vicky supports researchers of all levels and disciplines in creating well-managed, reproducible scholarship through instruction, consultation, outreach, and infrastructure building. Her research centers on data and software preservation in service of long-term reproducibility, as well as how best to individualize reproducibility best practices. They loves all things open and contributes to a number of open projects as a part of her job at NYU and in her spare time."
       website: https://vicky.rampin.org/
+      
+    - name: Nathan Storey
+      image: /assets/images/Nathan_Storey.jpg
+      bio: "Nathan Storey is the Director of the Street Homeless Solutions Lab at the NYC Department of Homeless Services. His work includes software design, database management, and data science. Nathan has a Masters in Urban Planning from Hunter College, where he focused on GIS, civic engagement, and civic technology."
+      website: http://www.nathanstorey.com/
 
 teachingassistants:
   title: Course Assistant 
