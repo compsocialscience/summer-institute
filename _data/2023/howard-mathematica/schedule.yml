@@ -30,9 +30,9 @@
   
   
     - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 2:15 LIVE SPEAKER Q&A (slide) (*Zoom*) (video) (LIVE Q&A)
+    - name: '1:15 - 2:15 LIVE "Ori: Tapping into the Self for Success" (slide) (*Zoom*) (video)
       
-        - TBA"
+        - [Iya Funlayo E. Wood](https://aseire.com/), Ph.D., Founding Director, Ase Ire'
         
     - name: "2:15 - 2:30 Break"
     - name: '2:30 - 5:30 R Workshop "Making Computational Methods Accessible: R Basics and Data Wrangling" (*Zoom*) (video)
@@ -394,9 +394,13 @@
     - name: "9:30 - 10:00 Logistics (*Zoom*) (video)"
     - name: "10:00 - 12:00 Work on Group Projects (*Zoom*)"
     - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk #6: varyCSS (*Zoom*) (video) (LIVE Q&A)
-                    
+    
+        - [Taylor Brown](http://www.taylorwhittenbrown.com/), Research Scientist, Meta Inc. & Co-Founder, varyCSS
+                                   
         - [Aidan Combs](https://aidancombs.netlify.app/), Ph.D. candidate, Sociology, Duke University & varyCSS
-                
+        
+        - [Tina Law](https://tinalaw1.github.io/), Ph.D., Postdoctoral Scholar, Stone Center on Socio-Economic Inequality, CUNY Graduate Center & Co-Founder, varyCSS
+        
         - [Katherine Zaslavsky](https://www.linkedin.com/in/k-a-z/), Ph.D. candidate, Sociology, Cornell University & varyCSS"  
         
     - name: "1:00 - 4:00 Work on Group Projects (*Zoom*)"
@@ -454,7 +458,7 @@
     - name: "9:30 - 10:00 Logistics (*Zoom*) (video)"
     - name: "10:00 - 11:30 SICSS-Howard/Mathematica 2023 Keynote Address (*Zoom*) (video)
     
-        - TBA"
+        - [Latanya Sweeney](https://latanyasweeney.org/), Ph.D., Professor, Government and Technology, Harvard Kennedy School & Harvard Faculty of Arts and Sciences"
     
     - name: "11:30 - 12:00 Break"
     - name: "12:00 - 1:00 Work on Group Projects (*Zoom*)"
