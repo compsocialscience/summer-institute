@@ -1,1 +1,67 @@
-- name:
+- name: Hong Chen
+  image: "/assets/images/nyush_hong_chen.png"
+  bio: "Hong Chen is a PhD student at the School of Information at University of Michigan. He studies science of science and innovation and he is currently working on how scientists cite, collaborate, and navigate publishing landscape. He is also interested in science communication, information diffusion and large language models."
+
+- name: "Jia Chen"
+  image: "/assets/images/nyush_jia_chen.jpg"
+  bio: "Dr. Jia Chen got her PhD degree from University of Hong Kong. She is currently an Associate Professor at Department of Social Work, Shanghai University. Her study interest includes intergenerational relationship, family care and medical and family social work."
+
+- name: "Xi Cheng"
+  image: "/assets/images/nyush_xi_cheng.jpg"
+  bio: "Xi Cheng is a sociology Ph.D. student at Northwestern University. She earned her master’s degree in computational social science from the University of Chicago and holds dual bachelor's degrees in electrical engineering from the University of Missouri and Beijing Jiaotong University. Cheng’s research lies in the intersection of computational methods, culture, education, social theories, stratification and social mobility, and urban sociology."
+
+- name: "Esol Cho"
+  image: "/assets/images/nyush_esol_cho.jpg"
+  bio: "Esol Cho is a lecturer in the Department of International Studies at Xi'an Jiaotong-Liverpool University. She received her PhD in Political Science at the State University of New York at Binghamton in 2022. Her research concerns the influence of domestic political and economic considerations on foreign aid choices using computational methods."
+
+- name: "Lin Qi"
+  image: "/assets/images/nyush_lin_qi.jpg"
+  bio: "Lin Qi is a Ph.D. student in the Crawford School of Public Policy at Australian National University. His research interests broadly center around financial contagion, financial liquidity, commodity market, and financial literacy. He earned B.A. in international economics and trade from Nankai University and M.S. in financial and econometrics from Queen Mary, University of London."
+
+- name: "Lizhen Liang"
+  image: "/assets/images/nyush_lizhen_liang.jpg"
+  bio: "Lizhen Liang is a doctoral student at Syracuse University, School of Information Studies. His research interest includes computational social science, science of science, natural language processing, and ethics in AI."
+
+- name: "Yang Lu"
+  image: "/assets/images/nyush_yang_lu.jpg"
+  bio: "Yang Lu is a Data Analyst - Social Science Research at Brandeis University and for the diversitydatakids.org project. Utilizing a wide range of computational tools, Yang works on the indicator development and pipeline maintenance of Child Opportunity Index, a metric that maps the quality of resources for children, and sparks conversations about unequal access to opportunity and to spur actions to increase equity. Yang earned his Master's in Education Policy and Analysis from Harvard University and Bachelor's in Economics and Urban Studies from McGill University. Before graduate school, he was a Dean’s Fellow of New Students and Diversity at the Office of Student Life of NYU Shanghai."
+
+- name: "Qi Wamh"
+  image: "/assets/images/nyush_qi_wamh.jpg"
+  bio: "Qi is a Research Assistant Professor at Lingnan University, Hong Kong. She obtained a PhD degree from the University of Hong Kong. Her research interests span spirituality and religious studies, mindfulness, and psychological well-being. She uses topic modeling and textual analysis to examine participants' daily mystical experiences and the higher level of human consciousness."
+
+- name: "Hao Wang"
+  image: "/assets/images/nyush_hao_wang.jpg"
+  bio: "Hao is a Ph.D. candidate in the Department of Government and Public Administration at the Chinese University of Hong Kong. He passed his oral defense on May 31, 2023 and will be joining the City University of Hong Kong as a postdoctoral researcher, starting in August 2023. His research interests encompass contentious politics, digital petition channels, elite politics, computational social science, and survival analysis."
+
+- name: "Huan Wang"
+  image: "/assets/images/nyush_huan_wang.jpg"
+  bio: "Huan Wang is a PhD student in Psychology at Stanford University. He is broadly interested in   cultural variations of emotion and decision making, and their underlying neural mechanisms. His recently work examines neural predictors of interpersonal trust and how they vary across cultural context. Prior to Stanford, he worked at UCLA and UC Davis. He received his bachelor degree at Simon Fraser University in Canada."
+
+- name: "Junliang Xu"
+  image: "/assets/images/nyush_hunliang_xu.jpg"
+  bio: "Junliang Xu is a master student in East Asian Studies at Stanford University. His research focuses on political sociology, conflict, and mixed methods. He is currently working on the mobilization process of the Cultural Revolution. Previously, he studied institutional changes under drastic rebellion in the late Qing Dynasty using longitudinal models. He holds BFA and LLB from Tsinghua University."
+
+- name: "Shuangshuang Yang"
+  image: "/assets/images/nyush_shuangshuang_yang.jpg"
+  bio: "Shuangshuang Yang is a PhD student in Sociology at Boston College. Her main research interests include gender, family, the life course, and health. Her current project focuses on the spillover effects of sibling disability. She is also interested in applying text and image analysis to explore online dating patterns."
+
+- name: "Xiaohan Yin"
+  image: "/assets/images/nyush_xiaohan_yin.jpg"
+  bio: "Xiaohan is now a PhD student at the University of Hong Kong. She also got her LLM degree at HKU with full scholarship after finishing LLB from China University of Political Science and Law. Her research interests lie in the law and technology, legal professions and empirical studies of law."
+
+- name: "Enshuai Yu"
+  image: "/assets/images/nyush_enshuang_yu.jpg"
+  bio: "Enshuai Yu is a Ph.D. student in accounting at Carroll School of Management, Boston College. He earned a master’s degree in finance from Shanghai Advanced Institute of Finance, Shanghai Jiao Tong University in 2021, and bachelor’s degrees in accounting and psychology (dual degree) from Peking University in 2019. His research interests lie in the intersection of archival financial accounting and taxation, covering topics like regulation and enforcement, tax, corporate governance, and information disclosure."
+
+- name: "Yiwen Zeng"
+  image: "/assets/images/nyush_yiwen_zeng.jpg"
+  bio: "Yiwen Zeng is an incoming PhD student in Sociology at the University of Arizona. Prior to that, she completed her master’s degree at the London School of Economics and Political Science (LSE) and bachelor’s degree at Peking University. Basically, Yiwen’s research interest lies in understanding the social and organizational process of evaluation, especially in the labor market, and the sociological foundation of workplace inequality. Particularly, she is interested in investigating to what extent the ideal"&" of meritocracy can be fulfilled in evaluation, and whether and how non-meritocratic elements could be blended in given specific institutional settings. Methodologically, she intends to deploy experimental study, audit study and text analysis to examine the questions above."
+
+- name: "Mengqi Zhan"
+ image: "/assets/images/nyush_mengqi_zhan.png"
+  bio: "Mengqi Zhan is an Assistant Professor of Communication at University of Texas at Arlington. She received her PhD from the Department of Communication at University of Maryland College Park. As an organizational communication researcher, she primarily studies the communicative processes that occur within and around organizations, including employee communication and corporate communication on social media. She is currently developing a new research stream that examines employee communication on anonymous social media platforms."
+
+- name: "Yichun Zhou"
+  image: "/assets/images/nyush_yichun_zhou.jpg"
+  bio: "Yichun Zhou is a doctoral student in Urban Systems at New York University and the Shanghai Key Laboratory of Urban Design and Urban Science (LOUD). His research interests include urban data science, social sensing, and green infrastructure. He applies novel research methods to explore the social inequality, and potential recategorizing of urban parks."
