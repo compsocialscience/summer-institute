@@ -80,6 +80,7 @@
     - name: "8:00 - 10:00 AM Continental breakfast, Crux coffee"
     - name: "10:00 - 12:00 Noon Morning group work"
     - name: "12:00 - 1:00 PM Lunch"
+    - name: "1:00 - 4:30 PM Afternoon group work"
 
 - date: Wednesday June 28 2023
   name: Group work
@@ -87,6 +88,7 @@
     - name: "8:00 - 10:00 AM Continental breakfast, Crux coffee"
     - name: "10:00 - 12:00 Noon Morning group work"
     - name: "12:00 - 1:00 PM Lunch"
+    - name: "1:00 - 4:30 PM Afternoon group work"
 
 - date: Thursday June 29 2023
   name: Group work
@@ -94,6 +96,7 @@
     - name: "8:00 - 10:00 AM Continental breakfast, Crux coffee"
     - name: "10:00 - 12:00 Noon Morning group work"
     - name: "12:00 - 1:00 PM Lunch"
+    - name: "1:00 - 4:30 PM Afternoon group work"
 
 - date: Friday June 30 2023
   name: Presentations
