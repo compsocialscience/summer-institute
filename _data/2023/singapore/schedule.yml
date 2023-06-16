@@ -3,7 +3,7 @@
   events:
     - name: "9:00 - 9:30 Registration"
     - name: "9:30 - 10:00 Icebreaker Self-Introduction"
-    - name: "10:00 - 11:30 Opening Keynote by Dr. Subhayan Mukerjee, National University of Singapore; Topic: Computational Social Science: Beyond the Hype"
+    - name: "10:00 - 11:30 Opening Keynote by Dr. Subhayan Mukerjee, National University of Singapore; Topic: Computational Social Science: Old Paradigms, New Frontiers"
     - name: "11:30 - 13:00 Lunch"
     - name: "13:00 - 14:40 Hands-on Workshop by Dr. Zhuo Chen, Peking University (Online); Topic: Network Analysis"
     - name: "14:40 - 15:10 Tea Break"
