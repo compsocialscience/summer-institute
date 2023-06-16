@@ -15,6 +15,8 @@ preview: https://i.ytimg.com/vi/QB5ypzhIMA8/hqdefault.jpg
 video_url: https://www.youtube.com/watch?v=QB5ypzhIMA8
 embed_url: https://www.youtube.com/embed/QB5ypzhIMA8
 materials:
+  - title: Bootcamp solutions
+    url: https://compsocialscience.github.io/summer-institute/boot_camp/bootcamp_answers.pdf
 resources:
 exercises:
 code:
