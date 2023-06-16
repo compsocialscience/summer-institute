@@ -17,6 +17,8 @@ embed_url: https://www.youtube.com/embed/Ql_vfdAec2Y
 materials:
   - title: Opioid Dataset
     url: https://compsocialscience.github.io/summer-institute/assets/datasets/Wapo_Opioid_Data.Rdata
+  - title: Bootcamp Solutions
+    url: https://compsocialscience.github.io/summer-institute/boot_camp/bootcamp_answers.pdf
 resources:
   - title: R for Data Science (Chapters 22-25)
     url: https://r4ds.had.co.nz/model-intro.html

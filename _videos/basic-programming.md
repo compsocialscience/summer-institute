@@ -17,6 +17,8 @@ embed_url: https://www.youtube.com/embed/iP1SU5zBIxE
 materials:
   - title: Senators Dataset
     url: https://compsocialscience.github.io/summer-institute/assets/datasets/Senators_Data.Rdata
+  - title: Bootcamp Solutions
+    url: https://compsocialscience.github.io/summer-institute/boot_camp/bootcamp_answers.pdf
 resources:
   - title: R for Data Science (Chapters 17-21)
     url: https://r4ds.had.co.nz/program-intro.html

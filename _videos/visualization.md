@@ -17,6 +17,8 @@ embed_url: https://www.youtube.com/embed/G2lMBNkbggg
 materials:
   - title: Apple Mobility .csv file
     url: https://compsocialscience.github.io/summer-institute/assets/datasets/apple_mobility_data.csv
+  - title: Bootcamp Solutions
+    url: https://compsocialscience.github.io/summer-institute/boot_camp/bootcamp_answers.pdf
 resources:
   - title: R for Data Science (Chapters 3 & 28)
     url: https://r4ds.had.co.nz/data-visualisation.html
