@@ -58,7 +58,8 @@
 - date: 2023-06-19 # Monday
   name: Project Week
   events:
-    - name: "10:00 - 17:00 Project Working Time"
+    - name: "10:00 - 16:00 Project Working Time"
+    - name: "16:00 - 17:30 Research Talk: TBA (Martin Arvidsson) [Kopparhammaren 2, Room KO301]"
 
 - date: 2023-06-20 # Tuesday
   name: Project Week
