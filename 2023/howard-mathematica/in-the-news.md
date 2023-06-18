@@ -10,6 +10,11 @@ image: /assets/images/howard.jpg
 <br />
 
 ---
+<u>BLOG: SICSS-Howard/Mathematica’s Bite-Sized Lunchtime Talks Showcase Leading Voices in Data Science</u>
+<br><font color="grey"><font size="2">Jun 17, 2023</font></font> 
+<br><i><font size = "2">Bite-Sized Lunchtime Talks (BSLT) are a SICSS-Howard/Mathematica site-specific innovation that introduces participants to organizations doing cool things with data. 2022 offered a variety of organizations that proved interesting and inspiring to our participants.</font></i>
+<br><font size = "1">(Posted by <a href="https://www.methodspace.com/blog/esvjaki3mhjzbemnzhnkm0z5ncpajd">Sage Methodspace</a>)</font>
+
 <u>BLOG: Safiya Noble, UCLA Professor & MacArthur Genius Award Winner, Delivers Keynote Address at SICSS 2022</u>
 <br><font color="grey"><font size="2">Jun 13, 2023</font></font> 
 <br><i><font size = "2">Dr. Safiya Noble speaks about her journey as a critical race scholar, her research on the racist and sexist dynamics of search engines, and the importance of community.</font></i>
