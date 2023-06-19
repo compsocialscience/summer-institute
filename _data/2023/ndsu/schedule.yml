@@ -59,7 +59,7 @@
   - name: "Enjoy Fargo!"
   
 - date: June 26, 2023 
-  name: Deep Learning with Neural Networks  
+  name: Unsupervised Machine Learning 
   events:
   - name: "9:30 - 10:00 Logistics"
   - name: "10:00 - 11:30 Learning session"
@@ -68,7 +68,7 @@
   - name: "13:30 - 16:00 Group work time"
 
 - date: June 27, 2023 
-  name: Fine-tuning LLMs & ChatGPT API 
+  name: Deep Learning with Neural Networks 
   events:
   - name: "9:30 - 10:00 Logistics"
   - name: "10:00 - 11:30 Learning session"
@@ -77,10 +77,10 @@
   - name: "13:30 - 16:00 Group work time"
 
 - date: June 28, 2023 
-  name: Unsupervised Machine Learning
-  events:
+  name: Fine-tuning LLMs & ChatGPT API 
+  events: 
   - name: "9:30 - 10:00 Logistics"
-  - name: "10:00 - 11:30 Tutorial on cluster analysis & topic modeling"
+  - name: "10:00 - 11:30 Learning session"
   - name: "noon - 13:30 Lunch time & talk by Dan Pemstein (NDSU)" 
   - name: "13:30 - 16:00 Group work time"
 

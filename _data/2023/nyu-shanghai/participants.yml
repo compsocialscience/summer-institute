@@ -18,15 +18,24 @@
   image: "/assets/images/nyush_lin_qi.jpg"
   bio: "Lin Qi is a Ph.D. student in the Crawford School of Public Policy at Australian National University. His research interests broadly center around financial contagion, financial liquidity, commodity market, and financial literacy. He earned B.A. in international economics and trade from Nankai University and M.S. in financial and econometrics from Queen Mary, University of London."
 
+- name: "Marco Laghi"
+  image: "/assets/images/nyush_marco_laghi.png"
+  bio: "Marco Laghi is a PhD student at the Center for Applied Social and Economic Research (CASER) at NYU Shanghai and the Department of Sociology at NYU. His research involves education, population health and development, and stratification."
+
 - name: "Lizhen Liang"
-  image: "/assets/images/nyush_lizhen_liang.jpg"
+  image: "/assets/images/nyush_lizhen_liang1.jpg"
   bio: "Lizhen Liang is a doctoral student at Syracuse University, School of Information Studies. His research interest includes computational social science, science of science, natural language processing, and ethics in AI."
 
 - name: "Yang Lu"
   image: "/assets/images/nyush_yang_lu.jpg"
   bio: "Yang Lu is a Data Analyst - Social Science Research at Brandeis University and for the diversitydatakids.org project. Utilizing a wide range of computational tools, Yang works on the indicator development and pipeline maintenance of Child Opportunity Index, a metric that maps the quality of resources for children, and sparks conversations about unequal access to opportunity and to spur actions to increase equity. Yang earned his Master's in Education Policy and Analysis from Harvard University and Bachelor's in Economics and Urban Studies from McGill University. Before graduate school, he was a Dean’s Fellow of New Students and Diversity at the Office of Student Life of NYU Shanghai."
 
-- name: "Qi Wamh"
+- name: "Zheng Ma"
+  image: "/assets/images/nyush_zheng_ma.png"
+  bio: "Zheng Ma is a PhD student in Social Policy and Government at Harvard Kennedy School. He completed his undergraduate studies at the University of Wisconsin Madison and a Master's degree at the University of Chicago, where he focused on Political Economy, Macroeconomics, and computational tools."
+
+
+- name: "Qi Wang"
   image: "/assets/images/nyush_qi_wamh.jpg"
   bio: "Qi is a Research Assistant Professor at Lingnan University, Hong Kong. She obtained a PhD degree from the University of Hong Kong. Her research interests span spirituality and religious studies, mindfulness, and psychological well-being. She uses topic modeling and textual analysis to examine participants' daily mystical experiences and the higher level of human consciousness."
 

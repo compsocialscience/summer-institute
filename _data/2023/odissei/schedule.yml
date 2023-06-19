@@ -14,7 +14,7 @@
     - name: "Session 1 (10:00-11:30): Introducing ODISSEI and Computational Social Science. Speaker: [Tom Emery](https://www.eur.nl/people/tom-emery)"
     - name: "Session 2 (11:30-11:45): Introduction to CBS Microdata by Vincent van Hees"
     - name: "Session 3 (13:00-14:00): Open Science Workflows in ODISSEI. Speaker: [Angelica Maineri](https://angelicamaineri.github.io/)"
-    - name: "Session 4 (14:00-16:00): Introduction to the theme of the Summer School. Speakers: [Elizaveta Sivak](https://www.rug.nl/staff/e.sivak/cv?lang=en) & Adrienne Mendrik"
+    - name: "Session 4 (14:00-16:00): Introduction to the theme of the Summer School. Speakers: Paulina Pankowska, [Elizaveta Sivak](https://www.rug.nl/staff/e.sivak/cv?lang=en) & Adrienne Mendrik"
     - name: "Programme starts at 10:00, rather than 9:00"
     - name: "Location: Room: T3-13, [Mandeville building](https://goo.gl/maps/qHNoLv4gcb6s4mBp8)"
     - name: "Social Event (16:30-19:00): Opening Drinks & Dinner @ Erasmus Paviljoen, Rotterdam"
@@ -63,7 +63,7 @@
 - date: Week 2
   name: "Benchmarking Challenge"
   events: 
-    - name: "In the second week , the teams will be given access to the CBS remote access environment and will be able to link the LISS respondents from week 1 to administrative data and extend their models. They will have one week to work in their teams to improve their prediction models from week 1 using this wider range of predictors with the winners announced on the final Friday of the summer school. For this final element of the challenge, teams will not only be assessed by how well their model predicts the outcomes for the LISS respondents, but also the degree to which it predicts fertility behavior in the wider population (i.e. its generalizability)."
+    - name: "In the second week, the teams will be given access to the CBS remote access environment and will be able to work on the same prediction task but based on the CBS administrative micro-data. They will have one week to work in their teams to develop their prediction models with the winners announced on the final Friday of the summer school. For this final element of the challenge, teams will not only be assessed by how well their model predicts the outcomes for the LISS respondents, but also the degree to which it predicts fertility behavior in the wider population (i.e. its generalizability)."
     
 - date: Monday June 26, 2023
   name: "Benchmarking Challenge"

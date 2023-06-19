@@ -17,7 +17,7 @@ Information about the [application materials](https://compsocialscience.github.i
 
 Participating in the event will be free of charge. We are currently seeking out for additional funding sources and might be able to cover some additional expenses for a small number of participants. However, please note that as of now, we are unable to provide funding for housing or related expenses. You should therefore only consider an application if you or your institution will be able to cover these expenses. 
 
-### Sponsors
+### Supporting Institutions
 
 SICSS-Munich is generiously funded by the Bavarian Research Institute for Digital Transformation (BIDT). 
 
