@@ -18,16 +18,10 @@
   events:
     - name: "8:00 - 10:00 AM Continental breakfast, Crux coffee"
     - name: "10:00 - 11:00 AM [Introductions / KatGPT, getting connected, defining Comp Social Sci (all)](https://docs.google.com/presentation/d/1H44P2Ykbm1rW_yfbjdzQv5AxbA2aRqTM/edit?usp=sharing&ouid=110106943432046521432&rtpof=true&sd=true)"
-    - name: "11:00 - 12:00 Noon The centrality of networks (Lanning)"
-      sublinks:
-      - link: "https://docs.google.com/presentation/d/131CNIQKfOhuzvfZTw4ieWoioIaKgs4hy/edit?usp=sharing&ouid=110106943432046521432&rtpof=true&sd=true"
-        text: "Slides"
+    - name: "11:00 - 12:00 Noon [The centrality of networks (Lanning)](https://docs.google.com/presentation/d/131CNIQKfOhuzvfZTw4ieWoioIaKgs4hy/edit?usp=sharing&ouid=110106943432046521432&rtpof=true&sd=true)"
     - name: "12:00 - 1:00 PM Lunch"
     - name: "1:00 - 2:00 PM The uneven landscape of civil society in America (Kim)"
-    - name: "2:00 - 3:00 PM Some tools for analyzing and visualizing networks (Lanning)"
-      sublinks:
-      - link: "https://github.com/compsocialscience/summer-institute/tree/master/_data/2023"
-        text: "R code"
+    - name: "2:00 - 3:00 PM [Some tools for analyzing and visualizing networks (Lanning)](https://github.com/compsocialscience/summer-institute/tree/master/_data/2023)"
     - name: "3:00 - 3:15 PM Break"
     - name: "3:15 - 4:30 PM Network activity - bibliometrics or ?"
 
