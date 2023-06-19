@@ -17,19 +17,19 @@
 
 
 - name: Samuel Benkimoun
-  image: /assets/images/samuel_benkimoun.jpg
+  image: /assets/images/samuel_benkimoun.jpeg
   description: Samuel Benkimoun is a PhD student at Université Paris-1 Panthéon Sorbonne. He is writing a thesis in Geography, about the interconnection between urban environment, mobility and infectious diseases patterns in Delhi, India. He uses a lot of models and computational methods for spatial analysis, mainly in R. He also has an interest for urban theory and mapping, while trying to develop a critical framework regarding the production and use of spatial data in social science.
   website:  
 
 
 - name: Meryem Bezzaz
-  image: /assets/images/meryem_bezzaz.jpg
+  image: /assets/images/meryem_bezzaz.png
   description: Meryem Bezzaz holds a Master's degree in Political Science from McGill University and received a Bachelor in Economics and Political Science from the University of Montreal (UdeM). Her research project aims to provide a comparative political economy perspective on issues of energy policy choices in the context of crisis.
   website: www.linkedin.com/in/bezzazmeryem
 
 
 - name: Emma Bonutti D'Agostini
-  image: /assets/images/emma_bonutti d'agostini.jpg
+  image: /assets/images/emma_bonutti.jpg
   description: Emma Bonutti D'Agostini is a PhD candidate in Sociology between CREST (Institut Polytechnique) and médialab (Sciences Po Paris). She is entered in studying how far-right discourse spreads through the French and Italian mediaspheres, using computational NLP methodologies. Before that, she was a Master's student in Sociology at Sciences Po Paris.
   website:  
 
@@ -41,7 +41,7 @@
 
 
 - name: Javier Carbonell
-  image: /assets/images/javier_carbonell.jpg
+  image: /assets/images/javier_carbonell.png
   description: Javier Carbonell is a PhD candidate at the University of Edinburgh and a teaching associate at Sciences Po, Paris. His research focuses on how nationalist rhetoric frames environmental issues. He is a Research Fellow at Future Policy Lab, an Associate at LSE IDEAS, a member of ASEN, and writes reguarly for El País.
   website: https://sites.google.com/view/javiercarbonell/home
 
@@ -65,7 +65,7 @@
 
 
 - name: Karina Gómez
-  image: /assets/images/karina_gómez.jpg
+  image: /assets/images/karina_gomez.jpeg
   description: Karina is a masters student in the Paris School of Economics. She holds a BA in Economics and a MSc in Applied Economics from Instituto Tecnológico Autónomo de México (ITAM). As a research assistant, she has worked on the impact evaluation of programs aimed at improving the quality of education in different middle-income countries.
   website:  
 
@@ -95,13 +95,13 @@
 
 
 - name: Sebastien Le Moing
-  image: /assets/images/sebastien_le moing.jpg
+  image: /assets/images/sebastien_le_moing.jpg
   description: Sébastien Le Moing is a PhD candidate in Political Science at Sciences Po Bordeaux. His research explores the historical roots and political dynamics of contemporary sensitivities with a case study on French moral evolutions regarding racism from the 1880s to present day. Building on data from various sources (handbooks, pupils’ notebooks, survey data…), Sébastien is interested in applying computational methods to large archival datasets to track changes in emotions and identifications over time.
   website:  
 
 
 - name: Maïlys Mangin
-  image: /assets/images/maïlys_mangin.jpg
+  image: /assets/images/mailys_mangin.jpeg
   description: Maïlys Mangin is a post-doctoral researcher at the French Air Force Academy Research Center. Her research in international political sociology focuses on the strategic uses of information, expertise and law in international nuclear negotiations. Using automatic arguments mining, she currently work on the analysis of controversies and disinformation operations in the context of the war in Ukraine. She is also an associate with the project on Managing the Atom at the Harvard Kennedy School, where she was Research Fellow (2020-2022).
   website: https://www.linkedin.com/in/maïlys-m-5326b635/
 
@@ -156,7 +156,7 @@ In 2022, she conducted an master thesis on the activist dynamics highlighted by 
 
 
 - name: Mikael Wallin
-  image: /assets/images/mikael_wallin.jpg
+  image: /assets/images/mikael_wallin.png
   description: Mikael Wallin is doctoral researcher of sociology at Tampere University in Finland. His research focuses on social media platforms, public discourse and cultural stratification. He is currently working in the research project CuWoC (Cultures of the working class in the 2020s) where he is using computational methods such as topic modeling as part of a mixed methods research design to analyse large datasets of online discussions.
   website: https://www.linkedin.com/in/mikael-wallin-525491a7
 
