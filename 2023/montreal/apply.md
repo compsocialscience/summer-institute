@@ -30,7 +30,7 @@ Les candidats doivent soumettre les documents suivants :
 
 **Afin d'être pleinement pris en compte, tous les documents de candidature doivent être soumis via le
 
- [Google form](https://forms.gle/SijmtBHQtpdq9EnR9) avant le vendredi 28 avril 2023 à 11h59**. Les demandes qui ne sont pas complètes à la date limite peuvent ne pas être pleinement prises en compte. Nous informerons les candidats uniquement par e-mail au début du mois de mai et demanderons aux participants de confirmer leur participation très peu de temps après.
+ [Google form](https://forms.gle/SijmtBHQtpdq9EnR9) avant le lundi 15 mai 2023 à 11h59**. Les demandes qui ne sont pas complètes à la date limite peuvent ne pas être pleinement prises en compte. Nous informerons les candidats uniquement par e-mail au début du mois de mai et demanderons aux participants de confirmer leur participation très peu de temps après.
  
  ### Postuler à plusieurs emplacements
 ### <a name="applying_to_multiple_locations"></a>
@@ -53,7 +53,7 @@ Applicants must submit the following documents:
 
 **The materials can be submitted in English or French**. Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. All applications must include an e-mail and an alternative means of contact (e.g., phone number). 
 
-**In order to be guaranteed full consideration, all application materials must be submitted through the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeSdCa_7kwpXbCGS8T4YfuYXcqj5fW4yVReHnU0I9dwlbd3rA/viewform?vc=0&c=0&w=1&flr=0&gxids=7628) by Friday, April 28, 2023 at 11:59**. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by early May, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted through the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeSdCa_7kwpXbCGS8T4YfuYXcqj5fW4yVReHnU0I9dwlbd3rA/viewform?vc=0&c=0&w=1&flr=0&gxids=7628) by Monday, May 15, 2023 at 11:59**. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by early May, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to <sicss.montreal@gmail.com>.
 

@@ -1,1 +1,11 @@
-- name:
+- name: Junsang Im
+  image: /assets/images/kr_Junsang_Im.jpg
+  bio: Junsang Im is a Master's Student in Digital Humanities and Computational Social Sciences at KAIST. He has an interest in various topics surrounding society and technology, especially how people understand the digital environment and solve their problems by themselves on it. Moreover, he wants to explore the possibility of individuals and their groups voluntarily recognizing problems and forming discourses in a digital environment.
+  
+- name: Suhyoung Choi
+  image: /assets/images/kr_Suhyoung_Choi.jpg
+  bio: Suhyoung Choi is a Master’s student in Digital Humanities and Computational Social Sciences at KAIST. Her research interests center on bias, inequality and discrimination represented on technology with computational methods. She is currently studying Data Science, and the application of those methods solving various social problems.
+  
+- name: Woori Jang
+  image: /assets/images/kr_Woori_Jang.jpg
+  bio: Woori Jang is a master's student at the Graduate School of Digital Humanities and Computational Social Sciences, KAIST. She is deeply passionate about unraveling the complex human narratives that influence and reshape systems, often referred to as "culture." Her aspiration is to conduct computational research on the dynamics within diverse social groups, with a focus on making the findings accessible to non-academic audiences who may not be familiar with scholarly paper formats.

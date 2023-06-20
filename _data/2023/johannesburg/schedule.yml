@@ -1,3 +1,80 @@
-- date: TBD
+- date: Week one
+
+- date: Monday, 26 June 2023
   events:
-    - name: "Schedule coming soon..."
+    - name: "13:00 - 14:00 Introduction and logistics"
+    - name: "14:00 - 15:00 Topic: What is CSS and why SICSS"
+    - name: "15:00 - 16:00 Speakers: Prof. Vissého Adjiwanou"
+    - name: "16:00 - 17:00 Group Exercise"
+
+- date: Tuesday, 27 June 2023
+  events:
+    - name: "10:00 - 11:00 Results of Mondays exercise"
+    - name: "11:00 - 13:00 R recap"
+    - name: "13:00 - 14:00 Lunch Break"
+    - name: "14:00 - 16:00 Topic: APIs and Digital Trace Data"
+    - name: "16:00 - 18:00 Group Exercise / R office hours"
+
+- date: Wednesday, 28 June 2023
+  events:
+    - name: "10:00 - 11:00 Presentation of Group Exercise Results"
+    - name: "11:00 - 13:00 Topic: Text as Data"
+    - name: "13:00 - 14:00 Lunch Break"
+    - name: "14:00 - 15:00 Enrichment Session Panel: Past participants"
+    - name: "16:00 - 17:00 Group Exercise / R office hours"
+
+- date: Thursday, 29 June 2023
+  events:
+    - name: "10:00 - 12:00 Experiments in the Digital Era"
+    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 15:00 Group Exercise"
+    - name: "15:00 - 16:00 Enrichment Session"
+    - name: "16:00 - 17:00 R office hours"
+
+- date: Friday, 30 June 2023
+  events:
+    - name: "10:00 - 12:00 Text Analysis"
+    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 15:00 Ethics"
+    - name: "15:00 - 16:00 R office hours"
+
+- date: Saturday - Sunday
+  events:
+    - name: "Day off"
+
+- date: Week two
+
+- date: Monday, 03 July 2023
+  events:
+    - name: "09:00 - 10:30 Introduction to group work"
+    - name: "10:30 - 13:00 Fireside Chat"
+    - name: "13:00 - 14:00 Lunch Break"
+    - name: "14:00 - 16:00 Group Work"
+
+- date: Tuesday, 04 July 2023
+  events:
+    - name: "09:00 - 10:00 Speaker: Dr. Kaziboni: Reimagining Academia: A Case of ChatGpT"
+    - name: "10:00 - 12:30 Group Work"
+    - name: "13:00 - 14:00 Lunch Break"
+    - name: "14:00 - 16:00 Group Work continues"
+    - name: "16:00 - 17:00 Peer Feedback on Project Proposals"
+
+- date: Wednesday, 05 July 2023
+  events:
+    - name: "09:00 - 10:00 Mental Health Talk"
+    - name: "10:00 - 12:30 Speaker: Vukosi Marivate and Group Work"
+    - name: "13:00 - 14:00 Lunch Break"
+    - name: "14:00 - 17:00 Speaker: Vukosi Marivate and Project Feedback"
+
+- date: Thursday, 06 July 2023
+  events:
+    - name: "09:00 - 10:00 Speaker"
+    - name: "10:00 - 12:30 Group Work with RAs"
+    - name: "13:00 - 14:00 Lunch Break"
+    - name: "14:00 - 17:00 Group Work"
+
+- date: Friday, 07 July 2023
+  events:
+    - name: "09:00 - 12:00 Final Presentations"
+    - name: "12:30 - 14:00 Lunch Break"
+    - name: "Departure"

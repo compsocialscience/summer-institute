@@ -1,0 +1,68 @@
+faculty:
+  title: "Faculty"
+  people:
+    - name: Bedoor AlShebli
+      bio: Bedoor AlShebli is an Assistant Professor of Computational Social Science at NYUAD. She received her PhD in Interdisciplinary Engineering in 2017 from Masdar Institute of Science and Technology, and her MSc in Computer Science from the University of Illinois at Urbana-Champaign. Bedoor's research focuses on using data science techniques to study social phenomena, with a particular emphasis in the Science of Science. She is interested in the social and economic benefits of diversity, as well as the dynamics of social interaction and cohesion, and frames social science problems in the contexts of data science, big data, and applied machine learning. Her work appeared in major academic journals, including Nature Human Behavior, Nature Communications, Science Advances, and the Proceedings of the National Academy of Sciences. Cumulatively, her work contributes to the fields of computational social science, data science, and machine learning.
+      image: /assets/images/bedoor_s.jpg
+      website: https://www.bedooralshebli.com/
+
+    - name: Kinga Makovi
+      bio: Kinga Makovi is an Assistant Professor at New York University Abu Dhabi. She is a co-PI of the Center for Interacting Urban Networks at NYUAD, CITIES. Prior to joining NYUAD, she earned a PhD in Sociology from Columbia University and a MS in Mathematical Economics from Corvinus University of Budapest. Makovi's research addresses questions at the intersection of network science, the social determinants of health and environmental behavior, using computational and experimental methods. Her research has been funded by the National Science Foundation and has appeared in Sociological Science and Network Science.
+      image: /assets/images/kinga_s.jpg
+      website: https://www.makovi.net/
+
+    - name: Mario D. Molina
+      bio: Mario is a Postdoctoral Associate in the Social Science Division at New York University Abu Dhabi, and he will start as an assistant professor at NYUAD in the Fall of 2024. He holds a PhD in Sociology from Cornell University, an MA in Sociology from Universidad Catolica de Chile, and a BA in Philosophy from Universidad de los Andes (Chile). His research lies at the interface of economic sociology, social networks, and computational social science. He broadly considers how organizational structures and network dynamics impact beliefs about unequal rewards and prosocial behaviors and the mechanisms that feedback to sustain or disrupt these social systems. His work has appeared in Organization Science, Science Advances, and the Annual Review of Sociology, among other outlets.
+      image: /assets/images/mario_s.jpg
+      website: https://mariodmolina.com/
+
+    - name: Minsu Park
+      bio: Minsu Park is an Assistant Professor of Social Research and Public Policy at New York University Abu Dhabi. He develops and applies quantitative and computational methods to study the consumption and production of creative work. His current projects focus on how cultural artifacts/interests flow worldwide and how social traces, such as ratings, reviews, and reviewer identities, shape audiences’ perceptions and engagements online. His research inhabits an interdisciplinary nexus between data science and social science, simultaneously drawing on and contributing to both, and has been published in top-tier venues in both computer and information science conferences (e.g., ISMIR, ICWSM) and interdisciplinary journals (e.g., Science Advances, Nature Human Behaviour). He received his doctorate in Information Science at Cornell University, where he was a member of the Social Dynamics Lab. He is also affiliated with the Center for Data Science at New York University.
+      image: /assets/images/minsu_s.jpg
+      website: https://minsu-park.github.io/home/about/index.html
+
+    - name: Luca Maria Pesando
+      bio: Luca Maria Pesando is an Associate Professor of Social Research and Public Policy at NYU-AD. Luca holds a PhD in Demography and Sociology from the University of Pennsylvania, and an MA and BA in Economics and Social Sciences from Bocconi University. His research lies in the areas of social, economic, and digital demography and explores the interactions between family change and educational inequalities in low- and middle-income countries. More recently, he has conducted research using social media data from Google and Facebook. Having worked with JPAL, the OECD, UNICEF, and other NGOs, Luca has extensive experience in the policy world.
+      image: /assets/images/luca_s.jpg
+      website: https://www.lucamariapesando.com/
+
+speakers:
+  title: "Speakers"
+  people:
+    - name: Abdullah Almaatouq
+      bio: Abdullah Almaatouq is a computational social scientist and Assistant Professor at the MIT Sloan School of Management. His research focuses on improving cooperation, coordination, and collective intelligence in decision-making systems, such as teams, committees, crowds, markets, and elections. Abdullah also explores ways to advance social and behavioral research methodology through innovative research designs and theory-building strategies, with the ultimate goal of developing a deeper understanding of collective decision systems and how to design them effectively in various contexts. He is affiliated with the MIT Center for Computational Engineering, the MIT Center for Collective Intelligence, and the MIT Connection Science Research Initiative. Abdullah holds a PhD in Computational Science and Engineering, as well as dual master's degrees in Media Arts and Sciences (MIT Media Lab) and Computational Science and Engineering from MIT. Prior to joining MIT, he earned his undergraduate degree from Southampton University in the United Kingdom. Professor Almaatouq will give a talk on January 18th, 2024 (tentative).
+      image: /assets/images/abdullah_s.png
+      website: https://amaatouq.io/
+
+    - name: Edmond Awad
+      image: /assets/images/edmond_s.png
+      website: https://www.edmondawad.me/
+      bio: Edmond Awad is a Senior Research Fellow at <a href='https://www.practicalethics.ox.ac.uk/'>The Oxford Uehiro Centre for Practical Ethics</a> and the <a href='https://www.weh.ox.ac.uk/about-us'>Wellcome Centre for Ethics and Humanities</a> at <a href='https://www.ox.ac.uk/'>University of Oxford</a>. Concurrently, Edmond is a Senior Lecturer (Assistant Professor) in the <a href='http://business-school.exeter.ac.uk/about/departments/economics/'>Department of Economics</a> and the <a href='exeter.ac.uk/research/institutes/idsai/'>Institute for Data Science and Artificial Intelligence</a> at the <a href='https://www.exeter.ac.uk/'>University of Exeter</a>. In addition, Edmond is an Associate Research Scientist at the <a href='https://www.mpib-berlin.mpg.de/en'>Max Planck Institute for Human Development</a> and a Turing Fellow at the <a href='https://www.turing.ac.uk/people/researchers'>Alan Turing Institute</a>. Before joining the University of Exeter, Edmond was a Postdoctoral Associate at <a href='https://www.media.mit.edu/'>MIT Media Lab</a> (2017-2019). In 2016, Edmond led the design and development of <a href='https://www.moralmachine.net/'>Moral Machine</a>,  a website that gathers human decisions on moral dilemmas faced by driverless cars. The website has been visited by over 10 million users, who contributed their judgements on 100 million dilemmas. Another website that Edmond co-created, called <a href='https://mygoodness.mit.edu/'>MyGoodness</a>, collected judgments over 3 million charity dilemmas. Edmond’s work appeared in major academic journals, including <em>Nature</em>, <em>PNAS</em>, and <em>Nature Human Behaviour</em>, and it has been covered in major media outlets including <em>The Associated Press</em>, <em>The New York Times</em>, <em>The Washington Post</em>, <em>Der Spiegel</em>, <em>Le Monde</em> and <em>El Pais</em>. Edmond has a bachelor degree (2007) in Informatics Engineering from Tishreen University (Syria), a master’s degree (2011) in Computing and Information Science and a PhD (2015) in Interdisciplinary Engineering from Khalifa University (UAE), and a master’s degree (2017) in Media Arts and Sciences from MIT. Edmond’s research interests are in the areas of AI, Ethics, Computational Social Science and Multi-agent Systems.
+
+    - name: Milena Tsvetkova
+      bio: Milena Tsvetkova is Assistant Professor of Computational Social Science at the Department of Methodology at the London School of Economics and Political Science. She completed her PhD in Sociology at Cornell University and postdoctoral research at the Oxford Internet Institute. In her research, she uses web-based experiments, agent-based modeling, network analysis, and machine learning on online data to investigate fundamental social phenomena such as cooperation, social contagion, segregation, and inequality. Her work has been sponsored by the US National Science Foundation and Germany’s Volkswagen Foundation, published in high-impact disciplinary and general science journals such as New Media & Society, Sociological Methods & Research, EPJ Data Science, and Science Advances, and covered by The New York Times, The Guardian, and Science, among others. Professor Tsvetkova will give a talk on January 11th, 2024.
+      image: /assets/images/milena_s.jpg
+      website: https://tsvetkova.me/
+
+teaching_assistants:
+  title: "Teaching Assistants"
+  people:
+    - name: Fengyuan "Michael" Liu
+      bio: Michael is a Global PhD Fellow at New York University, advised by Professor Talal Rahwan and Professor Bedoor AlShebli. His research focuses on computational social science and the science of science. Using methods from social science, network science, and computer science, he studies various aspects of scientific editors and the publication process of scientific papers. His work has appeared in Nature Human Behaviour and Proceedings of the National Academy of Sciences, as well as being featured in media outlets such as Nature News, Times Higher Education, and AAAS Eureka Alert. When he is not working, you will likely find him jogging or playing chess.
+      image: /assets/images/fengyuan_s.jpg
+
+    - name: Thomas Marlow
+      bio: Thomas Marlow is a postdoctoral fellow at the New York University Abu Dhabi, Center for Interacting Urban Networks (CITIES). Thomas received his PhD in Sociology from Brown University in Spring 2020. His research sits at the intersection of environmental and urban sociology. It seeks to use innovative computational social science methodologies to answer questions about the emergence and maintenance of urban and environmental inequalities during global climate change.
+      image: /assets/images/marlow_s.jpg
+      website: http://www.thomas-marlow.com/
+
+    - name: Maria Sahakyan
+      bio: Maria Sahakyan obtained her Ph.D. in Electrical Engineering and Computer Science from Khalifa University. Currently she holds the position of a postdoctoral associate at New York University Abu Dhabi, in Computational Social Science. She primarily focuses her academic endeavors on computational social science and explainable artificial intelligence by exploring the societal and economic advantages associated with diversity, while also leveraging XAI methodologies as versatile instruments for data analysis.
+      image: /assets/images/maria_s.jpg
+
+volunteers:
+  title: "Student Volunteers"
+  people:
+    - name: Shehryar Ahmed Subhani
+      bio: Shehryar is a rising junior at New York University Abu Dhabi majoring in Computer Science and works as a student research assistant for Professor Bedoor AlShebli. His research focuses on using computational social science techniques to study social phenomena, with a strong focus on gender and racial discrimination. His research interests include big data and network science.
+      image: /assets/images/shehryar.jpeg

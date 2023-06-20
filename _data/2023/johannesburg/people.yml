@@ -9,26 +9,39 @@ facilitators:
   title: Faculty
   people:
     - name: Odilile Ayodele
-      image: /assets/images/2023/johannesburg/placeholder.png
+      image: /assets/images/2023/johannesburg/odilile.png
       bio: "Dr Odilile Ayodele is a Senior Researcher at the Institute for Pan-African Thought and Conversation (IPATC). She holds a D.Litt. et Phil in Political Studies at the University of Johannesburg (UJ), and obtained her BA, BA (Hons), an MA in International Relations from the University of the Witwatersrand in South Africa. She completed a Postdoctoral Research Fellowship at the South African Research Chair: African Diplomacy and Foreign Policy at UJ. Odilile is currently the convenor of the South African Association of Political Studies (SAAPS) research committee on international relations and diplomacy, an associate editor and book review editor of the Journal of BRICS Studies, as well as the book review editor of the African Journal of Political Science.  Her current research projects centre on Global Technopolitics including, the international relations of technology, and digital diplomacy in Africa."
     - name: Simona Simona
       image: /assets/images/2023/johannesburg/simona.png
-      bio: "Simona Simona is a lecturer in the Department of Social Work and Sociology and Assistant Dean of the School of Humanities and Social Sciences at the University of Zambia. He is also a non-resident fellow at the Institute for Pan-African Thought and Conversation (IPATC), University of Johannesburg. He holds a PhD in Sociology and Quantitative Social Science Methods, and a Master of Research (MRes) in Sociology and Research Methods from the University of Glasgow. His research work generally uses advanced quantitative techniques to examine the influence of individual and structural factors on social and health outcomes. He is also interested in teaching quantitative social science methods and data science, including different software packages for data management, visualization, and statistical modelling."
+      bio: "Dr. Simona Simona is a lecturer in the Department of Social Work and Sociology and Assistant Dean of the School of Humanities and Social Sciences at the University of Zambia. He is also a non-resident fellow at the Institute for Pan-African Thought and Conversation (IPATC), University of Johannesburg. He holds a PhD in Sociology and Quantitative Social Science Methods, and a Master of Research (MRes) in Sociology and Research Methods from the University of Glasgow. His research work generally uses advanced quantitative techniques to examine the influence of individual and structural factors on social and health outcomes. He is also interested in teaching quantitative social science methods and data science, including different software packages for data management, visualization, and statistical modelling."
 
 speakers:
   title: Speakers
   people:
+    - name: Vissého Adjiwanou
+      image: /assets/images/Visseho.jpg
+      bio: "Vissého Adjiwanou is a professor of Demography and quantitative and computational methods in the Department of Sociology at the Université du Québec à Montréal (UQAM), and adjunct professor at the Department of Demography (Université de Montréal). He directs the Lab on quantitative and computational social science. He is also affiliated with the Centre on Population Dynamics (McGill University). He received an M.A in Statistics from the National School of Statistics and Applied Economics (ENSEA-Cote d’Ivoire), an M.A in Economics of Development at the Centre for Studies and Research on International Development (CERDI- France) and a PhD in Demography from the Université de Montréal (Canada). His research focusses on population issues in sub-Saharan Africa and in Canada, including fertility, family dynamics, gender inequality, reproductive health, and integration of immigrants from SSA in Canada."
+      website: https://sociologie.uqam.ca/corps-professoral/professeurs-es/professeur/adjiwanou.visseho/
+
+    - name: Anthony Kaziboni
+      image: /assets/images/2023/johannesburg/anthony_kaziboni.jpeg
+      bio: "Dr Anthony Kaziboni is Head of Research at the Institute for the Future of Knowledge. He holds a doctorate in Sociology from the University of Johannesburg, South Africa. He researches hydropolitics, migration and social inequalities. He is the Regional Representative for South Africa for the International Sociological Association's (ISA) Clinical Sociology Research Group. In 2018 he received the prestigious Outstanding Early Career Award in Clinical Sociology by the ISA's Clinical Sociology Research Committee in Toronto, Canada. He has [co]authored publications in accredited journals and books as well as newspaper articles."
+      website: https://futureofknowledge.org/our-people/anthony-kaziboni/
+
     - name: Vukosi Marivate
-      bio: Prof. Vukosi Marivate is the ABSA UP Chair of Data Science at the University of Pretoria. He is an Associate Professor of Computer Science. Vukosi works on developing Machine Learning/Artificial Intelligence methods to extract insights from data. A large part of his work over the last few years has been in the intersection of Machine Learning and Natural Language Processing. Vukosi's work in this area focuses on techniques to improve tools for and availability of data for local languages or low resource languages. Vukosi is a co-founder of Deep Learning Indaba (https://deeplearningindaba.com/). He currently serves as a chief investigator on the Masakhane NLP project (https://www.masakhane.io/) and on the steering committee of the Lacuna Fund (https://lacunafund.org/). As part of his vision for Data Science, Vukosi is interested in Data Science for Social Impact (https://dsfsi.github.io/), using local challenges as a springboard for research. In this area, Vukosi has worked on projects in science, energy, public safety and utilities. Vukosi is a co-founder of the Deep Learning Indaba, the largest Machine Learning/Artificial Intelligence workshop on the African continent, aiming to strengthen African Machine Learning.
+      bio: "Prof. Vukosi Marivate is the ABSA UP Chair of Data Science at the University of Pretoria. He is an Associate Professor of Computer Science. Vukosi works on developing Machine Learning/Artificial Intelligence methods to extract insights from data. A large part of his work over the last few years has been in the intersection of Machine Learning and Natural Language Processing. Vukosi's work in this area focuses on techniques to improve tools for and availability of data for local languages or low resource languages. Vukosi is a co-founder of Deep Learning Indaba (https://deeplearningindaba.com/). He currently serves as a chief investigator on the Masakhane NLP project (https://www.masakhane.io/) and on the steering committee of the Lacuna Fund (https://lacunafund.org/). As part of his vision for Data Science, Vukosi is interested in Data Science for Social Impact (https://dsfsi.github.io/), using local challenges as a springboard for research. In this area, Vukosi has worked on projects in science, energy, public safety and utilities. Vukosi is a co-founder of the Deep Learning Indaba, the largest Machine Learning/Artificial Intelligence workshop on the African continent, aiming to strengthen African Machine Learning."
       website: https://dsfsi.github.io
       image: /assets/images/2023/johannesburg/vukosi.jpg
+
+
 participants:
   title: Participants
   people:
 
+    
 interns:  
   title: Interns
   people:
     - name: Blessing Mbalaka
-      image: /assets/images/2023/johannesburg/placeholder.png
+      image: /assets/images/2023/johannesburg/blessing.png
       bio: "Mr Blessing Mbalaka is a Junior Researcher at the Institute for Pan-Afrian Thought and Conversation. He holds an honours degree in Development Studies and majored in Anthropology, Development Studies and Public Management and Governance at the University of Johannesburg. Additionally, Blessing is a current MA candidate in development studies and has research interests in blockchain technology and AI. He is particularly interested in a critical outlook on the role and social impact these technologies can play in circumventing/causing social issues. He is an avid user of API usage and Algorithmic Auditing." 

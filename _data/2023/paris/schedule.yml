@@ -1,8 +1,8 @@
 - date: June 18, 2023
   name: Arrival
   events:
-    - name: "14:00 - 17:00 Arrival at Residency"
-    - name: "17:00 - 19:00 Welcome Apéro"
+    - name: "14:00 - 18:00 Arrival at Residency"
+    - name: "18:30 - 21:00 Welcome Apéro"
     
 - date: June 19, 2023
   name: Introduction - what is CSS & Ethics
@@ -10,12 +10,14 @@
     - name: "09:30 - 11:00 Welcome & Logistics ([Étienne Ollion](www.ollion.cnrs.fr))"
     - name: "11:00 - 12:30 Getting to Know Each Other"
     - name: "12:30 - 14:00 Lunch Break"
-    - name: "14:00 - 17:00 Lecture (TBA)"
+    - name: "14:00 - 15:30 Research Ethics ([Étienne Ollion](www.ollion.cnrs.fr))"
+    - name: "15:30 - 16:00 Coffee Break"
+    - name: "16:00 - 17:30 Research Project Speed Dating"
     
 - date: June 20, 2023
   name: Web Scraping I
   events:
-    - name: "09:30 - 12:30 Lecture ([Étienne Ollion](www.ollion.cnrs.fr))"
+    - name: "10:00 - 12:30 Lecture ([Étienne Ollion](www.ollion.cnrs.fr))"
     - name: "12:30 - 14:00 Lunch Break"
     - name: "14:00 - 16:30 Lab ([Felix Lennert](https://felix-lennert.netlify.app))"
     - name: "16:30 - 17:00 Coffee Break"
@@ -24,11 +26,11 @@
 - date: June 21, 2023
   name: Web Scraping II
   events:
-    - name: "09:30 - 12:30 Lecture ([Étienne Ollion](www.ollion.cnrs.fr))"
+    - name: "10:00 - 12:30 Lecture ([Étienne Ollion](www.ollion.cnrs.fr))"
     - name: "12:30 - 14:00 Lunch Break"
     - name: "14:00 - 16:30 Group Exercise ([Felix Lennert](https://felix-lennert.netlify.app))"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 [Laura Nelson](https://www.lauraknelson.com): AI and intersectionality"
+    - name: "17:00 - 18:30 [Laura Nelson](https://www.lauraknelson.com): Charting the Unbounded Future -- Intersectionality, LLMs, and AI"
     
 - date: June 22, 2023
   name: Web Scraping III
@@ -46,7 +48,7 @@
     - name: "12:30 - 14:00 Lunch Break"
     - name: "14:00 - 16:30 Lab ([Felix Lennert](https://felix-lennert.netlify.app))"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 [Paola Tubaro](https://databigandsmall.com/about/) and [Antonio Casilli](https://www.casilli.fr): TBA"
+    - name: "17:00 - 18:30 [Paola Tubaro](https://databigandsmall.com/about/) and [Antonio Casilli](https://www.casilli.fr): Research Ethics in the Age of AI: Work and the Environment"
 
 
 - date: June 24, 2023
@@ -62,26 +64,28 @@
     - name: "12:30 - 14:00 Lunch Break"
     - name: "14:00 - 16:30 Lab ([Felix Lennert](https://felix-lennert.netlify.app))"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:00 Start of Group Projects"
+    - name: "17:00 - 18:30 [Thierry Poibeau](https://www.lattice.cnrs.fr/en/members/direction/thierry-poibeau/): Natural Language Processing for Social Sciences: Have Large Language Models Killed the Game?"
     
 - date: June 27, 2023
   name: Natural Language Processing III
   events:
     - name: "10:00 - 12:30 Lecture ([Julien Boelaert](https://pro.univ-lille.fr/julien-boelaert))"
     - name: "12:30 - 14:00 Lunch Break"
-    - name: "14:00 - 18:00 Group Projects"
+    - name: "14:00 - 16:30 Lab ([Felix Lennert](https://felix-lennert.netlify.app))"
+    - name: "16:30 - 17:00 Coffee Break"
+    - name: "17:00 - 18:00 Start of Group Projects"
 
 - date: June 28, 2023
-  name: TBA
+  name: The Augmented Social Scientist
   events:
-    - name: "10:00 - 12:30 Lecture (TBA)"
+    - name: "10:00 - 12:30 Lecture ([Étienne Ollion](www.ollion.cnrs.fr) and Rubing Shen)"
     - name: "12:30 - 14:00 Lunch Break"
     - name: "14:00 - 18:00 Group Projects"
     
-- date: June 20, 2023
-  name: TBA
+- date: June 29, 2023
+  name: Group Projects
   events:
-    - name: "10:00 - 12:30 Lecture (TBA)"
+    - name: "10:00 - 12:30 Group Projects"
     - name: "12:30 - 14:00 Lunch Break"
     - name: "14:00 - 18:00 Group Projects"
     - name: "19:00 - 22:00 Farewell Dinner"
@@ -89,4 +93,4 @@
 - date: June 30, 2023
   name: Final day
   events:
-    - name: "10:00 - 12:30 Group presentations"
+    - name: "09:30 - 13:30 Group presentations"

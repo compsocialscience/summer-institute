@@ -1,1 +1,73 @@
-- name:
+- name: Ashley Chenn
+  image: /assets/images/AshleyChenn.jpg
+  bio: "Ashley Chenn is a doctoral student in the School of Fashion and Textiles at The Hong Kong Polytechnic University. Her work spans data ownership and privacy, entrepreneurial marketing, and consumer co-creation in Web3 environments. Prior to returning to academia, Ashley worked as a digital marketer for Adobe and with an ESG startup."
+  website: https://scholar.google.com/citations?hl=en&user=vQzPnEUAAAAJ
+  
+- name: Bhargav Nimmagadda
+  image: /assets/images/BhargavNimmagadda.jpeg
+  bio: "Dr Nimmagadda Bhargav earned his PhD from the Department of Communication, University of Hyderabad. He teaches at the Manipal Institute of Communication, Manipal Academy of Higher Education, Udupi, Karnataka, India. Bhargav’s ethnographic research on Indian-language journalism is published as a monograph, “Stringers and the Journalistic Field: Marginalities and Precarious News Labour in Small-Town India”, by Routledge."
+  website: https://scholar.google.com/citations?user=eZSlvYIAAAAJ&hl=en&oi=ao
+
+- name: Han Wei (Ken) Tan
+  image: /assets/images/KenTan.JPG
+  bio: "Han Wei (Ken) is a master’s student in the Department of Communication and New Media at National University of Singapore. His research interests lie in online collaborative learning and educational technology. He is currently exploring how individuals learn through engaging in discussions on social media utilising topic modelling and social network analysis."
+  website: https://scholar.google.com.sg/citations?hl=en&authuser=1&user=Ku2AQv8AAAAJ&inst=3212728378801010220
+  
+- name: Liang Ze Wong
+  image: /assets/images/LiangZeWong.jpg
+  bio: "Liang Ze is research scientist in the Social & Cognitive Computing Department of the Institute of High Performance Computing. His background is in mathematics, and his interests are in natural language processing, network analysis and data analysis. He is also an adjunct assistant professor at the National University of Singapore's Business School."
+  website: https://sheaves.github.io/me/
+
+- name: Lianshan Zhang
+  image: /assets/images/LianshanZhang.jpg
+  bio: "Lianshan Zhang is an Assistant Professor in the School of Media and Communication at Shanghai Jiao Tong University. She received Ph.D from National University of Singapore and M.S. from Iowa State University. Her research is at the intersection of health communication, human-computer interaction, psychological effects and social impact of emerging media. Her recent research focuses on older adults’ new media use and digital inclusion in the era of AI."
+  
+- name: Narayani Vedam
+  image: /assets/images/NarayaniVedam.png
+  bio: "I am a computational social scientist working with agent-based models to understand the impact of human mannerisms on the virtual and physical communities they inhabit. In the past, I have worked on human-like automotive speed control, opinion formation in virtual social platforms, and disease spread in communities. I am keen on exploring top-down, and bottom-up modelling approaches to social and behavioural studies."
+  website: https://nv2019.github.io/narayanivedam.github.io/
+
+- name: Mengxia Nova Huang
+  image: /assets/images/NovaHuang.png
+  bio: "Nova is a PhD student at Nanyang Technological University. Her research focuses on social media and health communication. Specifically, she is interested in how users, especially vulnerable populations, conduct supportive communication in online communities and the corresponding health outcomes.  "
+  
+- name: Qiaofei Wu
+  image: /assets/images/QiaofeiWu.jpg
+  bio: "Qiaofei Wu is a PhD candidate in Communication at NUS. His research focuses on how human’s communication behaviors trigger psychological and behavioral processes that contribute to well-being. He is interested in understanding how media, information, and technologies can be employed to promote social participation and improve health outcomes."
+  website: https://twitter.com/joely_wu
+
+- name: Sakaria Auelua-Toomey
+  image:
+  bio: "Sakaria Laisene Auelua-Toomey is a PhD candidate in the Department of Psychology at Stanford University. His research focuses on identifying and dismantling systems of advantage by examining the ways in which different contexts shape marginalized groups meta-beliefs. "
+  website: https://twitter.com/TheSamoanPsy
+  
+- name: Xiayu Summer Chen
+  image: /assets/images/SummerXiaYu.jpg
+  bio: "Xiayu Summer Chen is a doctoral student in Social Work at the University of Illinois at Urbana-Champaign. Her research focuses on reducing health disparities among older adults through the implementation of technology-based interventions. Her most recent work examines the longitudinal impact of technology usage on cognitive functioning among older adults."
+  
+- name: Xiaoya Fu
+  image: /assets/images/XiaoyaFu.JPG
+  bio: "Xiaoya Fu is a Ph.D. candidate at Renmin University of China and a joint Ph.D. candidate at the National University of Singapore. Her research interests lie in interactive technology, media effects, and media psychology. She explores the intersection of machine learning, network analysis, and social science to understand social inequality, user experience, and the impact of interactive communication technologies. Xiaoya holds a bachelor's degree from the Communication University of China."
+
+- name: Xiaofen Ma
+  image: /assets/images/XiaofenMa-sg.jpg
+  bio: "Ma Xiaofen is Assistant Professor of Journalism and Communication at Renmin University of China, and she is affiliated with Research Center ofJournalism and Social Development. Her research interests include information security, privacy, and risk communication."
+  website: http://jcr.ruc.edu.cn/zw/jzyg/js/a359bacd2a7b40eb8886795c18e422bf.htm
+  
+- name: Yiyan Zhang
+  image: /assets/images/yiyanzhang.jpg
+  bio: "Yiyan Zhang is an assistant professor at the School of Journalism and Communication at Renmin University of China. She earned her Ph.D. degree in Emerging Media Studies from Boston University. Her research focuses on digital media effects, international communication, and computational communication connecting traditional and computational social science methods. "
+  website: https://yiyanzhang.com/
+ 
+- name: Yuanxin Wang
+  image: /assets/images/YuanxinWang-sg.JPG
+  bio: "Yuanxin Wang is an assistant professor at Minzu University of China. She received her PhD degree from School of New Media at Peking University and she was a visiting scholar in SONIC, Northwestern University. Her current research focus on the the human-machine communication, especially to explore the relationship between human and AI machine (AIGC). She draws upon computational methods to understand how HMC can affect intimate relationship."
+  website: https://twitter.com/Yuanxin_Wang_
+  
+- name: Yunbo Mei
+  image: /assets/images/YunboMei.JPG
+  bio: "Yunbo Mei is a Ph.D. candidate studying sociolinguistic phenomenon at the National University of Singapore. Her research interest focuses on variation phenomena in Mandarin and English, in particular, sociolinguistic variation on social media, the sociophonetic construction of style, and English teachers’ stylistic variation. Her dissertation revolves around the agentive self-representations of Chinese English teachers through their English pronunciation."
+  
+- name: Zhuoman Li
+  image: /assets/images/ZhuomanLi.jpg
+  bio: "Zhuoman(Gemma) Li is a doctoral student at Nanyang Technological University's Wee Kim Wee School of Communication and Information. Her current research interest user trust in large language model-based AI, particularly in dialogue systems like ChatGPT. She has broad interests in computational methods and AI-related studies. Prior to beggining her Phd, she obtained her MA in Digital Humanities from King's College London. "
