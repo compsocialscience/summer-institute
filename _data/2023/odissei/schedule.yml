@@ -1,45 +1,56 @@
 - date: "Schedule Overview"
   events:
     - name: "ODISSEI-SICSS is split into two phases. During the first week the participants will be introduced to ODISSEI and taught machine learning in python. This will be primarily done through a course run by the eScience center. They will directly apply this knowledge to worked examples using a consolidated version of the LISS Panel data, with the aim of predicting fertility behavior in the LISS Panel. On Thursday, the participants will be given additional training on analytical methods that they could apply within the benchmarking challenge. On Friday, the participants will work in teams to submit their best prediction model to a benchmarking platform, where their model will be evaluated by the ODISSEI benchmarking team." 
-    - name: "At the end of every day during the summer school (except Friday afternoons), there will be a guest speaker who will present their work or a general topic in computational social science to the participants. These talks will last 30-40 mins with 20-30 mins of Q&A."
+    - name: "At the end of most days of the summer school, there will be a guest speaker who will present their work or a general topic in computational social science to the participants. These talks will last 20-30 mins with 15-20 mins of Q&A."
     - name: "Slides will be added on the [ODISSEI Zenodo Community](https://zenodo.org/communities/odissei/); other material will be shared via GitHub"
     - name: "All course sessions will take place in the Mandeville Building on the Erasmus Campus Woudestein, Burgemeester Oudlaan 50, Rotterdam. You can find information [here](https://www.eur.nl/en/campus/locations/campus-woudestein#directions) and download the campus map [here](https://www.eur.nl/en/media/2022-06-2022campus-plattegrond-33707)."
-    - name: "Throughout the summer school, ODISSEI will organize various social events. These will be announced closer to the start of the programme."
+    - name: "Throughout the summer school, ODISSEI will organize various social events. Read more about those in the timetable below"
+    - name: "Each day will have three breaks. A coffee break in the morning, lunch at 12:00, and another coffee break in the afternoon."
 
 - date: Week 1
 - date: Monday June 19, 2023
   name: "Introduction to ODISSEI, Open Science and the Theme of the Summer School"
   events:
-    - name: "Session 1: Introducing ODISSEI and Computational Social Science. Speaker: [Tom Emery](https://www.eur.nl/people/tom-emery)"
-    - name: "Session 2: Open Science Workflows in ODISSEI. Speaker: [Angelica Maineri](https://angelicamaineri.github.io/)"
-    - name: "Session 3: Introduction to the theme of the Summer School. Speakers: [Elizaveta Sivak](https://www.rug.nl/staff/e.sivak/cv?lang=en) & [Paulina Pankowska](https://www.uu.nl/staff/PKPankowska)"
+    - name: "Session 1 (10:00-11:30): Introducing ODISSEI and Computational Social Science. Speaker: [Tom Emery](https://www.eur.nl/people/tom-emery)"
+    - name: "Session 2 (11:30-11:45): Introduction to CBS Microdata by Vincent van Hees"
+    - name: "Session 3 (13:00-14:00): Open Science Workflows in ODISSEI. Speaker: [Angelica Maineri](https://angelicamaineri.github.io/)"
+    - name: "Session 4 (14:00-16:00): Introduction to the theme of the Summer School. Speakers: Paulina Pankowska, [Elizaveta Sivak](https://www.rug.nl/staff/e.sivak/cv?lang=en) & Adrienne Mendrik"
     - name: "Programme starts at 10:00, rather than 9:00"
     - name: "Location: Room: T3-13, [Mandeville building](https://goo.gl/maps/qHNoLv4gcb6s4mBp8)"
-    - name: "Opening Drinks & Bites @ Erasmus Paviljoen, Rotterdam"
+    - name: "Social Event (16:30-19:00): Opening Drinks & Dinner @ Erasmus Paviljoen, Rotterdam"
 
 - date: Tuesday June 20, 2023
-  name: "Introduction to Machine Learning & the LISS panel"
+  name: "Two-day Course by the Netherlands eScience Center: Machine Learning in Python with scikit-learn"
   events:
-    - name: "Session 1 & 2: Introduction to Machine Learning"
-    - name: "Session 3: Introduction to LISS"
+    - name: "09:00-10:00: Welcome and Introduction to Machine Learning"
+    - name: "10:10-11:00: Predictive Modeling Pipeline: Data Exploration"
+    - name: "11:10-12:00: Predictive Modeling Pipeline: Fitting a scikit-learn Model on Numerical Data"
+    - name: "12:00-13:00: Lunch Break"
+    - name: "13:00-14:00: Predictive Modeling Pipeline: Fitting a scikit-learn Model on Numerical Data"
+    - name: "14:00-15:30: Predictive Modeling Pipeline: Handling Categorical Data"
+    - name: "15:30-16:00: Introduction to LISS Data"
+    - name: "16:00-17:00: Guest lecture by Jan Kabatek (University of Melbourne): Challenges on working with CBS data and making them accessible"
     - name: "Location: Room: T3-13, [Mandeville building](https://goo.gl/maps/qHNoLv4gcb6s4mBp8)"
-    - name: "Guest lecture by Jan Kabatek (University of Melbourne): Challenges on working with CBS data and making them accessible"
    
 - date: Wednesday June 21, 2023
-  name: "Advanced Machine Learning Using LISS Data"
+  name: "Two-day Course by the Netherlands eScience Center: Machine Learning in Python with scikit-learn"
   events:
-    - name: "Session 1, 2 & 3: Advanced Machine Learning Using LISS Data"
+    - name: "09:00-12:00: Fertility Prediction using LISS Data"
+    - name: "12:00-13:00: Lunch Break"
+    - name: "13:00-14:00: Feature Importance Intermezzo"
+    - name: "14:00-15:30: Fertility Prediction using LISS Data"
+    - name: "15:30-16:00: Submit Results to Benchmark"
+    - name: "16:00-17:00: Guest lecture by Gabriele Mari (Erasmus University Rotterdam): Educational Outcomes using CBS Data"
     - name: "Location: Room: T3-13, [Mandeville building](https://goo.gl/maps/qHNoLv4gcb6s4mBp8)"
-    - name: "Guest lecture by Gabriele Mari (Erasmus University Rotterdam): Educational Outcomes using CBS Data"
 
 - date: Thursday June 22, 2023
   name: "Causal Impact Analysis & Network Analysis"
   events:
     - name: "Session 1 & 2: Causal Impact Analysis. Speaker: [Erik-Jan van Kesteren](https://www.uu.nl/staff/EvanKesteren)"
     - name: "Session 3: Intro to Network Analysis. Speaker: [Javier Garcia-Bernardo](https://www.uu.nl/staff/JGarciaBernardo)"
+    - name: "16:00-17:00: Guest lecture by Clémentine Cottineau (TU Delft): Agent-Based Modelling of Urban Segregation"
     - name: "Location: Room: T3-13, [Mandeville building](https://goo.gl/maps/qHNoLv4gcb6s4mBp8)"
-    - name: "Guest lecture by Clémentine Cottineau (TU Delft): Agent-Based Modelling of Urban Segregation"
-    - name: "Drinks & Dinner at De Gele Kanarie in Rotterdam"
+    - name: "Social Event (17:30-20:00): Drinks & Dinner at De Gele Kanarie in Rotterdam"
     
 - date: Friday June 23, 2023
   name: "Introduction to the LISS Benchmarking Challenge & Administrative Data"
@@ -47,41 +58,36 @@
     - name: "Session 1 & 2: The LISS Benchmark Challenge."
     - name: "Session 3: Network Analysis in Administrative Data"
     - name: "Location: Room: T3-13, [Mandeville building](https://goo.gl/maps/qHNoLv4gcb6s4mBp8)"
-    - name: "Guest lecture by Chang Sun (Maastricht University): Synthetic Data"
+    - name: "16:00-17:00: Guest lecture by Chang Sun (Maastricht University): Synthetic Data"
      
 - date: Week 2
   name: "Benchmarking Challenge"
   events: 
-    - name: "In the second week , the teams will be given access to the CBS remote access environment and will be able to link the LISS respondents from week 1 to administrative data and extend their models. They will have one week to work in their teams to improve their prediction models from week 1 using this wider range of predictors with the winners announced on the final Friday of the summer school. For this final element of the challenge, teams will not only be assessed by how well their model predicts the outcomes for the LISS respondents, but also the degree to which it predicts fertility behavior in the wider population (i.e. its generalizability)."
+    - name: "In the second week, the teams will be given access to the CBS remote access environment and will be able to work on the same prediction task but based on the CBS administrative micro-data. They will have one week to work in their teams to develop their prediction models with the winners announced on the final Friday of the summer school. For this final element of the challenge, teams will not only be assessed by how well their model predicts the outcomes for the LISS respondents, but also the degree to which it predicts fertility behavior in the wider population (i.e. its generalizability)."
     
 - date: Monday June 26, 2023
   name: "Benchmarking Challenge"
   events:
-    - name: "9:00 - 15:00 Group Project: Benchmarking Challenge"
-    - name: "Guest lecture: Speaker to be announced"
+    - name: "9:00 - 16:00 Group Project: Benchmarking Challenge"
+    - name: "16:00 - 17:00: Guest lecture by Mark Verhagen (University of Oxford)"
     - name: "Location: Room: T3-13, [Mandeville building](https://goo.gl/maps/qHNoLv4gcb6s4mBp8)"
-    - name: "Guest lecture by Mark Verhagen (University of Oxford)"
- 
  
 - date: Tuesday June 27, 2023
   name: "Benchmarking Challenge"
   events:
-    - name: "9:00 - 15:00 Group Project: Benchmarking Challenge"
-    - name: "Guest lecture: Speaker to be announced"
+    - name: "9:00 - 16:00 Group Project: Benchmarking Challenge"
     - name: "Location: Room: T3-13, [Mandeville building](https://goo.gl/maps/qHNoLv4gcb6s4mBp8)"
   
 - date: Wednesday June 28, 2023
   name: "Benchmarking Challenge"
   events:
-    - name: "9:00 - 15:00 Group Project: Benchmarking Challenge"
-    - name: "Guest lecture: Speaker to be announced"
+    - name: "9:00 - 16:00 Group Project: Benchmarking Challenge"
     - name: "Location: Room: T3-13, [Mandeville building](https://goo.gl/maps/qHNoLv4gcb6s4mBp8)"
   
 - date: Thursday June 29, 2023
   name: "Benchmarking Challenge"
   events:
-    - name: "9:00 - 15:00 Group Project: Benchmarking Challenge"
-    - name: "Guest lecture: Speaker to be announced"
+    - name: "9:00 - 16:00 Group Project: Benchmarking Challenge"
     - name: "Location: Room: T3-13, [Mandeville building](https://goo.gl/maps/qHNoLv4gcb6s4mBp8)"
     - name: "Closing Dinner at Stockholm, Rotterdam"
   

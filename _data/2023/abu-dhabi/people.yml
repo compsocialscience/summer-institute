@@ -34,14 +34,15 @@ speakers:
       image: /assets/images/abdullah_s.png
       website: https://amaatouq.io/
 
+    - name: Edmond Awad
+      image: /assets/images/edmond_s.png
+      website: https://www.edmondawad.me/
+      bio: Edmond Awad is a Senior Research Fellow at <a href='https://www.practicalethics.ox.ac.uk/'>The Oxford Uehiro Centre for Practical Ethics</a> and the <a href='https://www.weh.ox.ac.uk/about-us'>Wellcome Centre for Ethics and Humanities</a> at <a href='https://www.ox.ac.uk/'>University of Oxford</a>. Concurrently, Edmond is a Senior Lecturer (Assistant Professor) in the <a href='http://business-school.exeter.ac.uk/about/departments/economics/'>Department of Economics</a> and the <a href='exeter.ac.uk/research/institutes/idsai/'>Institute for Data Science and Artificial Intelligence</a> at the <a href='https://www.exeter.ac.uk/'>University of Exeter</a>. In addition, Edmond is an Associate Research Scientist at the <a href='https://www.mpib-berlin.mpg.de/en'>Max Planck Institute for Human Development</a> and a Turing Fellow at the <a href='https://www.turing.ac.uk/people/researchers'>Alan Turing Institute</a>. Before joining the University of Exeter, Edmond was a Postdoctoral Associate at <a href='https://www.media.mit.edu/'>MIT Media Lab</a> (2017-2019). In 2016, Edmond led the design and development of <a href='https://www.moralmachine.net/'>Moral Machine</a>,  a website that gathers human decisions on moral dilemmas faced by driverless cars. The website has been visited by over 10 million users, who contributed their judgements on 100 million dilemmas. Another website that Edmond co-created, called <a href='https://mygoodness.mit.edu/'>MyGoodness</a>, collected judgments over 3 million charity dilemmas. Edmond’s work appeared in major academic journals, including <em>Nature</em>, <em>PNAS</em>, and <em>Nature Human Behaviour</em>, and it has been covered in major media outlets including <em>The Associated Press</em>, <em>The New York Times</em>, <em>The Washington Post</em>, <em>Der Spiegel</em>, <em>Le Monde</em> and <em>El Pais</em>. Edmond has a bachelor degree (2007) in Informatics Engineering from Tishreen University (Syria), a master’s degree (2011) in Computing and Information Science and a PhD (2015) in Interdisciplinary Engineering from Khalifa University (UAE), and a master’s degree (2017) in Media Arts and Sciences from MIT. Edmond’s research interests are in the areas of AI, Ethics, Computational Social Science and Multi-agent Systems.
+
     - name: Milena Tsvetkova
       bio: Milena Tsvetkova is Assistant Professor of Computational Social Science at the Department of Methodology at the London School of Economics and Political Science. She completed her PhD in Sociology at Cornell University and postdoctoral research at the Oxford Internet Institute. In her research, she uses web-based experiments, agent-based modeling, network analysis, and machine learning on online data to investigate fundamental social phenomena such as cooperation, social contagion, segregation, and inequality. Her work has been sponsored by the US National Science Foundation and Germany’s Volkswagen Foundation, published in high-impact disciplinary and general science journals such as New Media & Society, Sociological Methods & Research, EPJ Data Science, and Science Advances, and covered by The New York Times, The Guardian, and Science, among others. Professor Tsvetkova will give a talk on January 11th, 2024.
       image: /assets/images/milena_s.jpg
       website: https://tsvetkova.me/
-
-    - name: Edmond Awad
-      image: /assets/images/edmond_s.png
-      website: https://www.edmondawad.me/
 
 teaching_assistants:
   title: "Teaching Assistants"
@@ -53,6 +54,7 @@ teaching_assistants:
     - name: Thomas Marlow
       bio: Thomas Marlow is a postdoctoral fellow at the New York University Abu Dhabi, Center for Interacting Urban Networks (CITIES). Thomas received his PhD in Sociology from Brown University in Spring 2020. His research sits at the intersection of environmental and urban sociology. It seeks to use innovative computational social science methodologies to answer questions about the emergence and maintenance of urban and environmental inequalities during global climate change.
       image: /assets/images/marlow_s.jpg
+      website: http://www.thomas-marlow.com/
 
     - name: Maria Sahakyan
       bio: Maria Sahakyan obtained her Ph.D. in Electrical Engineering and Computer Science from Khalifa University. Currently she holds the position of a postdoctoral associate at New York University Abu Dhabi, in Computational Social Science. She primarily focuses her academic endeavors on computational social science and explainable artificial intelligence by exploring the societal and economic advantages associated with diversity, while also leveraging XAI methodologies as versatile instruments for data analysis.

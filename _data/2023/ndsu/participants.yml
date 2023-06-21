@@ -22,7 +22,11 @@
   image:  /assets/images/kefang.jpg
   bio: "Ke (Kay) Fang is a master's candidate at New York University. With a strong interest in the complex social dynamics of political polarization and social norm shift, he combines social psychology with computational techniques such as NLP, network science, and computational cognition to investigate the underlying mechanisms driving these phenomena."
   website: https://twitter.com/KeFang99
-
+  
+- name: Matthew Goldsmith
+  image: /assets/images/MattGoldsmith.jpg
+  bio: "Matthew Goldsmith recently completed his first year as a Ph.D. student in the Department of Communication at North Dakota State University. His research interests include political messaging and news coverage on social media." 
+  
 - name:  Adamu Timothy Jaafaru
   image: /assets/images/timms.png
   bio: "Pursuing a DBA at Metro State University, Tim leverages his MIS Master's and over 20-year banking sector experience in corporate financial systems. He also shares his expertise as an adjunct professor at Minnesota State Community College."
@@ -31,6 +35,10 @@
   image: /assets/images/Haley.jpeg
   bio: "Haley Netherton-Morrison is a Ph.D. Candidate in Ecology, Evolution, and Behavior at Boise State University. Her research interests focus on the application of social science theory to natural resource issues and the promotion of sustainable working landscapes. Currently, she seeks to understand public perceptions to inform decision-making in changing landscapes."
   website: https://www.boisestate.edu/hes/people/haley-netherton/#profile
+  
+- name: Nathaniel Pagel
+  image: /assets/images/Nathanielpagel.jpg
+  bio: "Nathaniel Pagel is a doctoral student in experimental/general psychology at the University of North Dakota. He teaches abnormal psychology and enjoy hiking. Currently, he is interested in combining IOT with non-invasive neuromodulation techniques to address mental health concerns and improve continuity of mental health care."
  
 - name:  Yan Qu, Ph.D.
   image: /assets/images/yanqu1.jpeg
@@ -41,6 +49,10 @@
   image: /assets/images/zakia.jpg
   bio: "Zakia Sabnam is a master’s student in the Communication department at North Dakota State University. She is an enthusiast of all things related to cyberspace and AI. With a deep curiosity for the online world, Zakia's research interests revolve around exploring the fascinating and dynamic subcultures that exist within cyberspace."
   website: https://www.linkedin.com/in/zakia-sabnam/
+  
+- name: Brule Woods
+  image: /assets/images/Brulewoods.jpg
+  bio: "Brule Woods recently graduated from North Dakota State University with a Masters in Communication, and is now an incoming Ph.D. student of Mass Communication at University of Wisconsin, Madison. His main line of inquiry is on the priming effects of memes on people's perceptions and actions regarding political issues, and has a strong interest in the effects of social media use." 
   
 
   

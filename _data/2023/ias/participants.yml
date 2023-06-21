@@ -49,3 +49,63 @@
   image: /assets/images/ias_regan_smock.jpg
   bio: Regan Smock is a graduate student at the University of Iowa, interested in social psychology and culture.
   website:
+
+- name: Matias Piqueras
+  image: /assets/images/ias_matias_piqueras.jpg
+  bio: Matias is a PhD student in Computer Science at Uppsala University, where he is part of the InfoLab as well as the CHANSE funded PolarVis project. He has a background in Political Science and is interested in the development of computational methods for studying visual political communication.
+  website:
+
+- name: Bea Treena Macasaet
+  image: /assets/images/ias_bea_treena_macasaet.jpg
+  bio: Bea is a PhD student in social sciences at the University of Luxembourg. Positioned within the science of science, her dissertation aims to investigate, via computational and network methods, information flow across disciplinary boundaries on the level of researchers and organizations. She also has research experience in scientific migration, productivity, and policy within the contexts of Taiwan and Indonesia. 
+  website: https://www.linkedin.com/in/bea-treena-macasaet-78738b95/
+
+- name: Cristóbal Moya
+  image: /assets/images/ias_cristobal_moya.jpg
+  bio: Cristóbal Moya is a researcher at the Chair of Social Inequality and Social Structure Analysis at Bielefeld University and a doctoral candidate in the Bielefeld Graduate School in History and Sociology. His current research focuses on social inequalities, work, and empirical justice.
+  website: https://twitter.com/cristobalmoya_
+
+- name: Mario Morales
+  image: /assets/images/ias_mario_morales.jpeg
+  bio: Mario, a Health Behavior Health Promotion PhD student at the University of Arizona (UA), conducts mixed-methods research on dating violence and substance use prevention. He also applies computational techniques to study Latin Urban Music popularity, leveraging his training in anthropology (UDLAP), demography (COLMEX), and political science (UA).
+  website: https://scholar.google.com/citations?user=bwQgsbcAAAAJ&hl=en
+
+- name: Sourabh Balgi
+  image: /assets/images/ias_sourabh_balgi.jpeg
+  bio: Sourabh Balgi is a PhD student in Statistics and Machine Learning division at the department of Computer and Information Science, Linkoping University. His research interests lies in causality and counterfactual inference using machine learning/deep learning generative models, with applications related to the Swedish Population Registry and other social and medical sciences applications. He holds a B.E. in Electronic and Communication Engineering and M.Tech. in Artificial Intelligence from Indian Institute of Science (IISc). He has 3 years of work experience as a Software Engineer at Mercedes Benz RD India (Daimler) and 1 year of experience as a Research Associate at the department of Computer Science and Automation, IISc.
+  website: https://liu.se/en/employee/souba35
+
+- name: Matthias Kuppler
+  image: /assets/images/ias_matthias_kuppler.jpg
+  bio: Matthias Kuppler is a PhD student in sociology at the University of Siegen, Germany. His research combines network analysis and agent-based modeling to explain the emergence of status hierarchies in social fields. In his current work, he examines the formation of inequalities in the global literary field.
+  website: https://scholar.google.com/citations?user=Q9y5YiUAAAAJ&hl=eng
+
+- name: Anjali Yadav
+  image: /assets/images/ias_anjali_yadav.jpg
+  bio: Anjali is a doctoral student at the Indian Institute of Technology Kanpur. Her research focuses on the intersection of social norms, pro-environmental behaviors and public policy. She uses mixed-method analysis to study the coupling between common pool resources and social norms. She is interested in applying and integrating techniques from social network analysis and text analysis to generate new insights into longstanding issues of water pollution in the Ganga river. She received master's in environmental studies from the University of Delhi in 2020.
+  website: https://twitter.com/anjali4_iitk
+
+- name: Emelie Karlsson
+  image: /assets/images/ias_emelie_karlsson.jpg
+  bio: Emelie Karlsson is a PhD student in political science at Uppsala University. She is a part of a research project focusing on "AI and political communication", and her dissertation project focuses on coordinated inauthentic behavior and information campaigns on social media platforms and their social and political implications using mixed methods - including experimental and computational approaches.
+  website: https://twitter.com/KarlssonEmelie_
+
+- name: Nathaniel Darling
+  image: /assets/images/ias_nathaniel_darling.jpg
+  bio: Nathaniel Darling is currently completing an MSc in Economic History at LSE, and will start a PhD in October 2023. Before starting this MSc Nathaniel worked as a secondary school teacher in London. 
+  website:
+
+- name: Diletta Goglia
+  image: /assets/images/ias_diletta_goglia.jpg
+  bio: Diletta Goglia is a doctoral student in Network Science at the Information Technology Department of Uppsala University. Her work in the "Uppsala University Information Laboratory research group" (UU-InfoLab) focuses on developing computational methods to model and explain social behavior of people in online communication. Her current project is analyzing users’ roles in conversational data from Online Social Networks, aiming at identifying, modelling and understanding actors’ behavioral patterns in online discussions, by combining structural properties of graphs with social theories. Previously, she collaborated with the “HumMingBird - Horizon 2020 EU” project, working on Machine Learning and Big Data Science to study and predict cross-border human migration using Social Big Data from Facebook. She holds a MSc in Artificial Intelligence and a BSc in Digital Humanities, from University of Pisa. Her education in Computer Science, background in humanities and expertise in sociology delineate the profile of a multidisciplinary researcher.
+  website: https://www.it.uu.se/katalog/dilgo529
+
+- name: Asmaa Abdelkhalek
+  image: /assets/images/ias_asmaa_abdelKhalek.jpeg
+  bio: Asmaa Abdelkhalek is a PhD student and a research Assistant at the Department of Political Science Cairo University in Egypt. She is also a researcher atInterRegional for Strategic Analysis - MIR in Abu Dhabi, United Arab Emirates. Her research interests focus on the integration of quantitative and qualitative research in political science, with a particular focus on the intersection between international relations and public opinion. As part of a research team at Cairo University, she is currently working on a project that examines the impact of misinformation and fake news, with a particular emphasis on the integration of machine learning applications to study these topics.
+  website:
+
+- name: Sophie Mainz
+  image: /assets/images/ias_sophie_mainz.jpg
+  bio: Sophie is a doctoral candidate at the Department of Government at Uppsala University, Sweden. She researches the consequences of femonationalism and selective preference formation both in digital communication environments and offline. This entails citizens’ responses to political messages that mix liberal and illiberal values, such as gender politics with populist ideas. In her dissertation work, she combines experiments and computational social science methods. As a founder of the PolMethods group at her department and as a teacher, Sophie is keenly interested in the advancement of computational methods both for research and as a teaching subject.
+  website: https://twitter.com/SophieMainz

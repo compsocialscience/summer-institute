@@ -1,3 +1,8 @@
+- name: Chris Bail
+  image: /assets/images/chris2019.jpg
+  bio: "Chris Bail is Co-Founder of SICSS and Professor of Sociology and Public Policy at Duke University where he directs the Polarization Lab. He is also affiliated with the Interdisciplinary Data Science Program, the Duke Network Analysis Center, and serves on the Advisory Council of the National Science Foundation's SBE Directorate. His research examines political polarization, culture and social psychology using tools from the  field of computational social science. He is the author of Breaking the Social Media Prism: How to Make our Platforms Less Polarizing."
+  website: http://www.chrisbail.net/
+
 - name: Marie Bergström
   image: /assets/images/marie_bergström.jpg
   bio: Marie Bergström is a Permanent Researcher at the French National Institute for Demography. Her work deals with online dating which she investigates using digital data. 
@@ -14,9 +19,14 @@
   website: https://www.lauraknelson.com
   
 - name: Juan Pablo Pardo-Guerra
-  image: assets/images/juan_pablo_pardo_guerra.png
+  image: /assets/images/juan_pablo_pardo_guerra.png
   bio: Juan Pablo Pardo-Guerra is an Associate Professor at the University of California, San Diego. His research concerns markets and their location in contemporary societies with an emphasis on finance, knowledge, and organizations. 
   website: https://pardoguerra.org
+  
+- name: Thierry Poibeau
+  image: /assets/images/thierry_poibeau.jpeg
+  bio: Thierry Poibeau is CNRS Director of Research and adjunct head of the LATTICE laboratory. He mainly works on NLP, especially on Information Extraction, Question Answering, Semantic Zoning, Knowledge Acquisition from text and Named Entity tagging.
+  website: https://www.lattice.cnrs.fr/en/members/direction/thierry-poibeau/
   
 - name: Paola Tubaro
   image: /assets/images/paola_tubaro.jpg

@@ -27,15 +27,20 @@ speakers:
       bio: "Minerva Tantoco is an Innovator, investor, startup founder, author, advisor, and speaker on Ethical AI, cybersecurity, fintech and healthtech. Tantoco served as New York City’s first-ever Chief Technology Officer (CTO). Based on her efforts, New York City was named \"2016 Best Smart City\" and helped launch initiatives such as LinkNYC, CSforAll, and Internet of Things Guidelines, as well as promoting an inclusive, equitable tech ecosystem. Ms. Tantoco also served as Senior Product Manager at Palm, Chief Technology Officer at Merrill Lynch and UBS, and holds four US patents on intelligent workflow. Tantoco serves as a Trustee of the New York Hall of Science (nysci.org), Board of Directors, Vyv, Board Advisor to One Creation Embedded Privacy and Socure, and is currently Chief AI Officer at NYU McSilver Institute."
       website: https://mcsilver.nyu.edu/bio/minerva-tantoco/
 
+    - name: Jennifer Hill
+      image: /assets/images/Jennifer_Hill.jpeg
+      bio: "Jennifer Hill is a Professor of Applied Statistics and Data Science at New York University. She is the Co-Director of the Center for Practice and Research at the Inersection of Information, Society and Methodology (PRIISM), and Co-Director of the Masters of Science Program in Applied Statistics for Social Science Research (A3SR). Dr. Hill develops and evaluates methods to help answer the types of causal questions that are vital to policy research and scientific development."
+      website: https://steinhardt.nyu.edu/people/jennifer-hill
+      
     - name: Constantine E. Kontokosta
       image: /assets/images/ConstantineKontokosta.png
       bio: "Constantine E. Kontokosta, PhD, is an Associate Professor of Urban Science and Planning and Director of the Civic Analytics program at the NYU Marron Institute of Urban Management. He also directs the Urban Intelligence Lab and holds cross-appointments at the Center for Urban Science and Progress (CUSP) and the Department of Civil and Urban Engineering (CUE). He is affiliated faculty at the Wagner School of Public Service. Previously, he served as the inaugural Deputy Director of CUSP and Assistant Professor of Urban Informatics at CUSP and CUE, where he was part of the Center’s founding leadership team and designed, launched, and directed one of the first graduate programs in urban informatics."
-      website: http://rumichunara.github.io/
+      website: https://engineering.nyu.edu/faculty/constantine-kontokosta
       
     - name: Rumi Chunara
       image: /assets/images/Rumi_Chunara.png
       bio: "Rumi Chunara, PhD is an Associate Professor at NYU, where she directs the Center for Health Data Science. She is jointly appointed at the School of Global Public Health (in Biostatistics) and the Tandon School of Engineering (in Computer Science). Dr. Chunara's research focuses on developing computational and statistical approaches for acquiring, integrating and using data to improve population and public health. With her focus on public health, Dr. Chunara’s work covers individual, collective, environmental, and organizational factors that impact human populations. Her interdisciplinary approach incorporates data from social media, mobile phones, and other sources to address public health challenges and advance computer science."
-      website: https://engineering.nyu.edu/faculty/constantine-kontokosta
+      website: http://rumichunara.github.io/
       
     - name: Ravi Shroff
       image: /assets/images/Ravi_Shroff.png
@@ -49,24 +54,152 @@ speakers:
       
     - name: Alicia Boyd
       image: /assets/images/Alicia_Boyd.jpeg
-      bio: "Alicia Boyd is a Postdoctoral Researcher at NYU PRIISM Center and a Quantitative Reflexive Intersectional Researcher. She is an expert in developing workflows, locating data from the margins, and bringing it into central focus while navigating data-centric processes. In addition, she brings an encyclopedic knowledge about the history, theoretical frameworks, and reflexive-intersectional methodological applications and the opportunities and challenges of applying it within quantitative domains."
+      bio: "Alicia Boyd, PhD is a Postdoctoral Researcher at NYU PRIISM Center and a Quantitative Reflexive Intersectional Researcher. She is an expert in developing workflows, locating data from the margins, and bringing it into central focus while navigating data-centric processes. In addition, she brings an encyclopedic knowledge about the history, theoretical frameworks, and reflexive-intersectional methodological applications and the opportunities and challenges of applying it within quantitative domains."
       website: https://www.aliciaeboyd.com/
-        
+      
+    - name: Patrick Y. Wu
+      image: /assets/images/Patrick_Wu.png
+      bio: "Patrick Y. Wu, PhD, is a postdoctoral fellow at New York University’s Center for Social Media and Politics. Dr. Wu develops text-as-data/NLP and machine learning methods for computational social science questions. His current research focuses on measurement using text and social media. He received his PhD in Political Science and Scientific Computing and MA in Statistics at the University of Michigan."
+      website: https://www.patrickywu.com/
+
+    - name: Nicholas Wolf
+      image: /assets/images/Nicholas_Wolf.jpeg
+      bio: "Nicholas Wolf, PhD is a research data management librarian in NYU Data Services and affiliated faculty of Glucksman Ireland House. He has a PhD in history with research specialties in Irish and British history, digital history, and historical research data."
+      website: https://library.nyu.edu/people/nicholas-wolf/
+
+    - name: Michelle Thompson Gumbs 
+      image: /assets/images/Michelle_Thompson.jpg
+      bio: "Michelle Thompson Gumbs is a Senior Geographic Information Systems Specialist at NYU Data Services. She has an academic background  in Criminal Justice, Geospatial Intelligence Analytics, and Psychology."
+      website: https://library.nyu.edu/people/michelle-thompson/
+
     - name: Megan A. Brown 
       image: /assets/images/Megan_Brown.png
       bio: "Megan A. Brown is a research scientist/data engineer for the NYU Center for Social Media and Politics. Megan's research is centered on the online information ecosystem. As a research engineer, Brown collects and maintains large-scale collections of social media and digital trace data for the purposes of social science research. In her research endeavors, she studies cross-platform media manipulation, political bias in algorithmic systems, and the effect of platform governance and moderation policies on the spread of political content."
       website: https://www.meganbrown.org/
-      
+
     - name: Vicky Rampin 
       image: /assets/images/Vicky_Rampin.png
       bio: "Vicky Rampin is the Librarian for Research Data Management and Reproducibility and the subject specialist for data science and computer science at New York University. Vicky supports researchers of all levels and disciplines in creating well-managed, reproducible scholarship through instruction, consultation, outreach, and infrastructure building. Her research centers on data and software preservation in service of long-term reproducibility, as well as how best to individualize reproducibility best practices. They loves all things open and contributes to a number of open projects as a part of her job at NYU and in her spare time."
       website: https://vicky.rampin.org/
+      
+    - name: Nathan Storey
+      image: /assets/images/Nathan_Storey.jpg
+      bio: "Nathan Storey is the Director of the Street Homeless Solutions Lab at the NYC Department of Homeless Services. His work includes software design, database management, and data science. Nathan has a Masters in Urban Planning from Hunter College, where he focused on GIS, civic engagement, and civic technology."
+      website: http://www.nathanstorey.com/
 
 teachingassistants:
-  title: Teaching Assistants 
-  people:
+  title: Course Assistant 
+  people: 
+    - name: Zezhen (Michael) Wu 
+      image: /assets/images/Zezhen_Wu.jpg
+      bio: "Zezhen (Michael Wu) is a doctoral student in Psychology and Social Intervention at New York University. He studies how theory-driven psychological interventions buffer students against various situational and environmental threats, stigma, and discrimination. Prior to NYU, he earned an EdM in Arts in Education from Harvard University and an Mphil in Evidence-based Social Intervention and Policy Evaluation from the University of Oxford."
+      website: https://steinhardt.nyu.edu/programs/psychology-and-social-intervention/psi-student-experience/zezhen-michael-wu
 
 participants: 
   title: Participants
-  people:
- 
+  people: 
+    - name: Jemel Aguilar
+      image: /assets/images/Jemel_Aguilar.jpg
+      bio: "Jemel Aguilar is Associate Professor at Fordham University and teaches social work practice. He authored the forthcoming books “Practicing human behavior in the social environment with people and populations” and “Social Work Practices, Perspectives, and Opportunities in the Global World.” Jemel taught himself data science, python and  R programming. "
+      website: https://www.linkedin.com/in/jemel-p-aguilar-00ba68b8/
+
+    - name: Hamid Akbary
+      image: /assets/images/Hamid_Akbary.jpeg
+      bio: "Hamid Akbary is a Postdoctoral Fellow in the Department of Sociology at the University of Calgary. He was previously a SSHRC Doctoral Fellow at the University of Calgary (2016-2022) and a Fulbright Fellow at Lehigh University (2013-2015). One of his postdoctoral research projects uses over two decades of textual data from Canada's House of Commons debates to examine the types of sentiments expressed by members of the parliament about immigrants in general and Muslim minorities in particular. In addition to his academic affiliation, he works as a data analyst for Statistics Canada, Government of Canada."
+      website: https://twitter.com/SHamidAkbary/
+
+    - name: Brianna Amos
+      image: /assets/images/Brianna_Amos.jpg
+      bio: "Brianna is currently pursuing a PhD in social work at the NYU Silver School of Social Work. Her research interests are rooted in understanding mental health disparities in Black communities. She is specifically interested in factors influencing Black Americans’ decisions to engage with formal mental health services, such as cultural stigma."
+      website: https://socialwork.nyu.edu/a-silver-education/degree-programs/phd/meet-our-students.html#amos
+
+    - name: Leeam Azoulay
+      image: /assets/images/Leeam_Azoulay.jpg
+      bio: "Leeam Azoulay is a doctoral student at the Rutgers School for Communication and Information. Prior to starting her PhD, she worked for human rights and humanitarian organizations internationally, mostly in advocacy roles. Her research interests focus on how tech impacts human rights and political expression in the global south, primarily in sub-Saharan Africa and the Middle East. This includes a range of issues including disinformation, censorship, surveillance, and content moderation by social media platforms."
+      website: https://twitter.com/Leeam332
+
+    - name: Daniel Baslock
+      image: /assets/images/Daniel_Baslock.jpg
+      bio: "Daniel Baslock is a social worker and a PhD candidate at New York University’s Silver School of Social Work. He researches mental health and substance use treatment organizations, drawing on implementation science frameworks to understand how payment strategies and social policies impact adoption of evidence-based practices."
+      website: https://twitter.com/DanielBaslock
+      
+    - name: Yuanyuan Hu
+      image: /assets/images/Yuanyuan_Hu.jpg
+      bio: "Yuanyuan Hu is a PhD Candidate at NYU Silver School of Social Work and a licensed clinical social worker in New York State. Her research focuses the implementation of strategies to integrate mental health services and non-mental health settings for underserved older adults, especially older Asian immigrants."
+      website: https://twitter.com/YuanyuanHu304
+      
+    - name: Khadija  Israel
+      image: /assets/images/Khadija_Israel.jpeg
+      bio: "Khadija is currently a doctoral student at Silver School of Social work at NYU, whose research interests include developing evidence-based non-pharmacologic treatment intervention in conjunction with intensive case management services and harm reduction to address SUD in high risk patients with co-occurring disorders within inpatient settings."
+      website: https://www.linkedin.com/in/khadija-israel-503938236
+
+    - name: Tina Kilaberia
+      image: /assets/images/Tina_Kilaberia.jpg
+      bio: "Tina Kilaberia is an Assistant Professor at NYU Silver School of Social Work. Her research focuses on social isolation among older adults and their caregivers, age-friendly congregate settings, and elder mistreatment.  "
+      website: https://socialwork.nyu.edu/faculty-and-research/our-faculty/tina-kilaberia.html
+      
+    - name: Abraham Liddell
+      image: /assets/images/Abraham_Liddell.jpg
+      bio: "Abraham Liddell is a postdoctoral research fellow in the Data Science Institute at Columbia University. His research leverages social network analysis and machine learning to study social change over time."
+      website: https://www.linkedin.com/in/abrahamliddell/
+     
+    - name: Hao Lin
+      image: /assets/images/Hao_Lin.jpg
+      bio: "Hao Lin is a doctoral student in the Stony Brook Sociology department, where she is also affiliated with the Institute for Advanced Computational Science. Her current research examines public sentiment during the Covid-19 pandemic on social media using computational methods. She is also interested in AI ethics, particularly health data and AI in health care.  She holds a B.A. from the Central University of Finance and Economics, China, and an MSc in sociology from Utrecht University, the Netherlands."
+      website: https://twitter.com/plmolomlp/
+
+    - name: Michelle Marji
+      image: /assets/images/Michelle_Marji.png
+      bio: "Michelle is a PhD student in Social Psychology in the Niedenthal Emotions Lab at the University of Wisconsin-Madison. Her research investigates large-group movement through space, interpersonal synchrony, belonging, trust, and human robot interaction. Her goal is to examine issues of equity and social justice, and engage in community-centered collaborative research. Outside of the lab, Michelle is a dance artist and rock climber. "
+      website: https://www.linkedin.com/in/michellemarji/
+
+    - name: Samuel Mendez
+      image: /assets/images/Samuel_Mendez.png
+      bio: "Samuel Mendez is a PhD candidate at the Harvard T.H. Chan School of Public Health. Their dissertation is focused on expanding the scope of health literacy research through connections to natural language processing methods and media studies theory. Samuel draws on their background in media studies and animation to rethink health communication, with the goal of contributing to a more equitable future."
+      website: https://www.samuelanimates.com/
+
+    - name: Rohini Pahwa
+      image: /assets/images/Rohini_Pahwa.jpg
+      bio: "Rohini Pahwa is an Associate Professor and the Director of the Ph.D. Program at NYU Silver School of Social Work. As a mental health researcher, Rohini examines the process of community integration and the influences of individual and systemic factors on social networks, community integration and mental health outcomes for individuals with severe mental illnesses through qualitative, quantitative, and social network methodologies."
+      website: https://www.linkedin.com/in/rohinipahwa
+
+    - name: Michael	Park
+      image: /assets/images/Michael_Park.jpg
+      bio: "Michael Park is an Assistant Professor at the School of Social Work at Rutgers University. His research focuses on understanding how racial discrimination and its related stressors (e.g., racial stereotypes) contribute to disparities in mental health and mental health service utilization among Asian American immigrant youth."
+      website: https://twitter.com/michaelmhpark  
+
+    - name: Krushika Patankar
+      image: /assets/images/Krushika_Patankar.jpg
+      bio: "Krushika is a doctoral student at NYU Silver and graduate research assistant at the NYU Center on Violence and Recovery. Her research is informed by clinical practice in restorative work and lived experiences in a services devoid context, wrapping around intimate partner violence (IPV) service delivery to underserved populations, intersections with child protective services, and intervention and implementation science. "
+      website: https://www.linkedin.com/in/krushikaudaypatankar/
+
+    - name: Juan Rios
+      image: /assets/images/Juan_Rios.jpg
+      bio: "Dr. Juan Rios is a social work professor, licensed Clinical Social Worker and researcher passionate about democratizing Foresight training, Afro-Futures, and Design Justice. By envisioning equitable futures through creativity and critical thinking, Dr. Rios empowers marginalized voices to shape compassionate, human centered transformative possibilities centered around love."
+      website: https://www.linkedin.com/in/dr-juan-rios-lcsw-b276b632/
+
+    - name: Aaron Rodwin
+      image: /assets/images/Aaron_Rodwin.jpg
+      bio: "Aaron Rodwin is a PhD Candidate at NYU’s Silver School of Social Work. Aaron’s research interests focus on mental health services and interventions for marginalized young adults experiencing serious mental illnesses. Aaron’s has a particular interest in music-based interventions as a youth-oriented tool to improve engagement and recovery."
+      website: https://twitter.com/AaronRodwin
+
+    - name: Haniya Rumaney
+      image: /assets/images/Haniya_Rumaney.jpg
+      bio: "Haniya Rumaney is a PhD student in Basic and Applied Social Psychology at the Graduate Center, CUNY. In the past, she has employed survey experiments and other methodology to study the antecedents and consequences of religious identity and discrimination from the target’s perspective. She is hoping to leverage computational social sciences to study these phenomena from the perspective of stigma perpetrators in India and the US."
+      website: https://twitter.com/hanpothesis
+      
+    - name: Olivia Weng
+      image: /assets/images/Olivia_Weng.jpeg
+      bio: "Olivia Weng is a PhD student in Public Health Sciences at Washington University in St. Louis. Her research focuses on health education and health communication on chronic disease prevention. Currently, Olivia is interested in studying data from various social media platforms. Before her PhD study, Olivia worked in a local health department dealing with cancer prevention and control. "
+      website: https://hcrl.wustl.edu/people/olivia-weng/
+
+    - name: Yuanyuan Yang
+      image: /assets/images/Yan_Yang.jpg
+      bio: "Yuanyuan Yang is a doctoral student and research associate at the Brown School of Social Work, Washington University in St. Louis. Her research focuses on the impact of asset-based poverty policy on child mental well-being. She received her B.M. from Beijing Normal University and her MPA in public policy from New York University. Prior to her doctoral studies, she worked as a research assistant at the McSilver Institute for Poverty Policy and Research at New York University and China Center for Social Policy at Columbia University."
+      website: https://www.linkedin.com/in/yuanyuanyang121
+
+    - name: Meng-Hsuan Yu
+      image: /assets/images/Meng_Hsuan_Yu.jpg
+      bio: "Meng-Hsuan Yu is a Ph.D. student at the University of Maryland School of Social Work. Her research explores how to identify child maltreatment and improve child protective services using big data analytics. Before her Ph.D. study, she worked as a research associate at the National Taiwan University and at the Ministry of Health and Welfare, Taiwan. Leveraging child welfare administrative data, she utilized tree decision models and topic modeling to refine the child maltreatment screening system to identify children at risk. She is now working on a project using Maryland Child Welfare administrative data to explore the kinship foster care services in Maryland."
+      website: https://www.linkedin.com/in/meng-hsuan-yu-2a7911204/
+

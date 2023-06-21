@@ -17,6 +17,8 @@ embed_url: https://www.youtube.com/embed/vVcH_OvrLEM
 materials:
   - title: Coronavirus Tweets Dataset
     url: https://compsocialscience.github.io/summer-institute/assets/datasets/Coronavirus_Tweets.Rdata
+  - title: Bootcamp Solutions
+    url: https://compsocialscience.github.io/summer-institute/boot_camp/bootcamp_answers.pdf
 resources:
   - title: R for Data Science (Chapter 4)
     url: https://r4ds.had.co.nz/workflow-basics.html

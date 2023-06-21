@@ -1,3 +1,8 @@
+- name: Sebastián Ferrada
+  image: /assets/images/sferrada2023.png 
+  bio: "Sebastián was a postdoctoral researcher at Linköping University. His research interests include Graph and Multimedia Databases, and Federated Heterogeneous Data Management. He obtained his PhD from Universidad de Chile in 2021."
+  website: https://sferrada.com/
+
 - name: Jorge Ortiz
   image: /assets/images/jortiz2023.png 
   bio: "I am finishing a Master's program in Computer Science at the University of Chile and I have a Bachelor's degree in Linguistics from Catholic University of Chile. I am excited to continue growing my skills and making a positive impact as a data scientist."
@@ -7,4 +12,8 @@
   image: /assets/images/giturra2023.png 
   bio: "I am Gabriel. I am currently working on my master’s thesis on Incremental Text Representation under the supervision of Felipe Bravo-Márquez at the University of Chile. I am a member of the ReLeLa research group at DCC UChile, and my research interests include Incremental Learning, Natural Language Processing, and Streaming Data. Besides research, I really enjoy teaching. In my spare time, I enjoy doing exercises and learning new things from books and videos. I specialize in extracting knowledge and information from unstructured data, focusing on natural language text and streaming learning. My research interests encompass several interrelated fields in this domain: Natural Language Processing, Data Stream Mining, Machine Learning, and Artificial Intelligence."
   website: https://giturra.cl/
-
+  
+- name: Cinthia Sánchez
+  image: /assets/images/csanchez2023.png 
+  bio: "Cinthia Sánchez is a PhD Candidate in Computing at the Computer Science Department (DCC) of the University of Chile. She holds a Master's degree in Computer Science (University of Chile) and a degree in Computer Engineering (Agricultural Polytechnic University of Manabí, Ecuador). Her research work is related to data mining, natural language processing, machine learning, and information retrieval. Cinthia participates as a Student Researcher at the Millennium Institute for Foundational Research on Data (Development of Robust Information Structures Project) and the National Center for Artificial Intelligence (Human-Centered AI line) of Chile. She is a Teaching Assistant for the Data Mining course (DCC, and Postgraduate Diploma in Data Science and Engineering), and an Instructor of Visualizations in Python course (Postgraduate Diploma in Python applied to Data Science) at the University of Chile."
+  website: https://users.dcc.uchile.cl/~cisanche/
