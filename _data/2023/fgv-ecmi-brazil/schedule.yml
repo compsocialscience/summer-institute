@@ -1,5 +1,5 @@
 - date: All times are in Brazilian (Brasilia - Federal District) Time.
-   name: We intend to run our partner edition mostly in Portuguese. 
+  name: We intend to run our partner edition mostly in Portuguese. 
 
 
 - date: 2023-07-03
@@ -87,10 +87,10 @@
   name: Day off
   
 - date: 2023-07-10
-  name: Workshop: Modern NLP Techniques + Work on Group Projects 
+  name: "Workshop: Modern NLP Techniques + Work on Group Projects"
   events:
     - name: "Zoom"
-    - name: "10:00 - 11:00 - Workshop: Modern NLP Techniques, Lucas Roberto (FGV ECMI-DAPP)"
+    - name: "10:00 - 11:00 - Workshop on Modern NLP Techniques, Lucas Roberto (FGV ECMI-DAPP)"
     - name: "11:00 - 12:00 - Office hours for the workshop"
     - name: "Rest of the day: Work on your group projects"
 
