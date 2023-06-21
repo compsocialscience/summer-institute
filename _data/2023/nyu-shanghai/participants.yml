@@ -34,6 +34,9 @@
   image: "/assets/images/nyush_zheng_ma.png"
   bio: "Zheng Ma is a PhD student in Social Policy and Government at Harvard Kennedy School. He completed his undergraduate studies at the University of Wisconsin Madison and a Master's degree at the University of Chicago, where he focused on Political Economy, Macroeconomics, and computational tools."
 
+- name: "Lingbo Tong"
+  image: "/assets/images/nyush_lingbo_tong.jpg"
+  bio: "Lingbo Tong is a Ph.D. student in the joint program of Psychology and Computer Science at the University of Notre Dame. Her research centers on building interpretable, human-centered AI in the areas of psychology and education. She is currently working on developing language models that offer mental health support to the public. She is also interested in enhancing structural equation models with deep learning techniques. Previously, she received her bachelor's degree in Computer Science at Sichuan University."
 
 - name: "Qi Wang"
   image: "/assets/images/nyush_qi_wamh.jpg"
@@ -70,6 +73,10 @@
 - name: "Mengqi Zhan"
   image: "/assets/images/nyush_mengqi_zhan.png"
   bio: "Mengqi Zhan is an Assistant Professor of Communication at University of Texas at Arlington. She received her PhD from the Department of Communication at University of Maryland College Park. As an organizational communication researcher, she primarily studies the communicative processes that occur within and around organizations, including employee communication and corporate communication on social media. She is currently developing a new research stream that examines employee communication on anonymous social media platforms."
+
+- name: "Haowen Zheng"
+  image: "/assets/images/nyush_haowen_zheng.png"
+  bio: "Haowen Zheng is a PhD student in sociology at Cornell University. Using quantitative and computational methods, her research projects center around social stratification and mobility, demography, spatial inequality, and gender inequality in the labor market."
 
 - name: "Yichun Zhou"
   image: "/assets/images/nyush_yichun_zhou.jpg"
