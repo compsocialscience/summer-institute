@@ -52,9 +52,13 @@
   name: Lightning talks / surveys
   events: 
     - name: "8:00 - 9:30 AM Continental breakfast, Crux coffee"
-    - name: "9:30 - 12:00 Noon Lightning talks/surveys"
-    - name: "12:00 - 1:00 PM Lunch"
-    - name: "1:00 - 3:00 PM Design sprint"
+    - name: "9:30 - 10:40 AM [Lightning talks/surveys (Albrecht, Alaukik, Park, Ajoseh, Thompson, Wetherell)](https://docs.google.com/spreadsheets/d/19md_yfGxnBYduJylpKoevfTY898hsb98_w-eg_2_bXk/edit?usp=sharing)"
+    - name: "10:40 - 10:50 AM Break"
+    - name: "10:50 - 12:00 Noon [Lightning talks/surveys (Flanagan, McKown-Dawson, Datta, Abdidizaji, Galgali, Shin)](https://docs.google.com/spreadsheets/d/19md_yfGxnBYduJylpKoevfTY898hsb98_w-eg_2_bXk/edit?usp=sharing)"
+    - name: "12:00 - 12:40 PM Lunch"
+    - name: "12:40 - 1:50 PM [Lightning talks/surveys (Hekimci, Doriscar, Zhao, Hurtado, Smirnova, TBA)](https://docs.google.com/spreadsheets/d/19md_yfGxnBYduJylpKoevfTY898hsb98_w-eg_2_bXk/edit?usp=sharing)"
+    - name: "1:50 - 2:00 PM Break"
+    - name: "2:00 - 3:00 PM Design sprint"
     - name: "3:00 - 3:15 PM Break"
     - name: "3:15 - 4:30 PM More design sprint"
 
