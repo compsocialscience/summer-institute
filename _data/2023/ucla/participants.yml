@@ -5,7 +5,27 @@
 - name: "Taylor Brown"
   image: /assets/images/1qhtmo4mf8HrUOHFsdTSIfzny-eiBD5Mv.jpeg
   bio: "Taylor Brown is a PhD Student with the School of Social Welfare at the University of California, Berkeley. His research interests lay at the intersections of climate change and social policy using computational, comparative, and critical methods, and his current research examines the U.S. eco-social safety net and the impacts of climate change on the U.S. welfare state. Taylor is currently affiliated with the Institute for Research on Labor and Employment, the Social Science Data Laboratory and Discovery Hub, and the Center for Interdisciplinary Critical Inquiry at UC Berkeley. Taylor holds an MSW from Washington University in St. Louis and has informed social and environmental policy through a number of advocacy, administrative, and consulting roles."
+
+- name: "Jon Benedik Bunquin"
+  image: /assets/images/15vdLFyxoxUHgGjsRwJuUVJkwurM4mYBB.jpeg
+  bio: "Jon Benedik Bunquin is a doctoral student in communication and media studies at the University of Oregon as a scholar of the Fulbright program. His research explores science and risk communication in digital media and its implications on people's understanding of and engagement with science and technology. Ben is affiliated with the UO Center for Science Communication Research and the University of Philippines Department of Communication Research." 
+  website: https://twitter.com/benbunquin
   
+- name: "Joshua Ferrer"
+  image: /assets/images/1ik3ydZiTPovWogZqlozZMwPdLp_Jt76m.jpeg
+  bio: "Joshua Ferrer is a PhD candidate in Political Science at the University of California, Los Angeles, with concentrations in American politics, methods, and racial and ethic politics. His research focuses on the link between electoral institutions and representation, partisanship, and participation, with a special emphasis on U.S. election administration and local and state election officials. His work has been published in The American Political Science Review, Representation, and Political Science." 
+  website: https://www.joshuaferrer.com/
+
+- name: "Bing Han"
+  image: /assets/images/1XC4QC9e6aXzZxEfoB2N-oedchzaFDGpE.jpeg
+  bio: "Bing Han is a dual-title PhD in Sociology and Gerontology from Purdue University. She has also obtained two graduate certificates in Advanced Methodology from Purdue and in Applied Statistics. Her research focuses on how childhood experiences, gender, and social relationships influence health behaviors and outcomes throughout the life course."
+  website: https://www.linkedin.com/in/bing-han-4255b2201/
+
+- name: "Eleanor Hayes-Larson"
+  image: /assets/images/16OaOMiW7Mh69mWDGx6h9BX6WDV397U6M.jpeg
+  bio: "Eleanor Hayes-Larson is a postdoctoral fellow in the Department of Epidemiology at UCLA. Her research takes a lifecourse perspective to study psychosocial determinants of Alzheimer’s disease and related dementias in diverse populations, with an emphasis on groups historically underrepresented in research."
+  website: https://scholar.google.com/citations?user=9od8S-4AAAAJ&hl=en
+
 - name: "Tate Kihara"
   image: /assets/images/1eKKAr88EjJX1QGK5GatwyN9dwNis6w8O.jpeg
   bio: "Tate Kihara is a JSPS Postdoctoral Research Fellow at The University of Tokyo. Social demographer by training, he studies international migration and immigrant integration in both historical and contemporary settings, in the regional contexts of Japan and the United States. He recently received his Ph.D. in Sociology from Brown University."
@@ -25,8 +45,48 @@
   image: /assets/images/1jFQmzcmla2yOrKXJvTb-cOgrsiNaTwhH.jpeg
   bio: "XunFei(\"Shoon-Fay\") Li is a Ph.D. candidate at the UC Irvine School of Education. Using large-scale data, she constructs measures to examine how institutional factors impact student pathways in higher education. She explores the influence of curriculum structure/policy on student outcomes and conducts interventions to investigate how group composition affects student behaviors."
   website: https://scholar.google.com.tw/citations?user=xMzk3TAAAAAJ&hl=en&oi=ao
+
+- name: "Kristin Liao"
+  image: /assets/images/1-XR49VHRdhuXfKQ9yRuUvaZGCskbznfu.jpeg
+  bio: "Kristin Liao is a PhD student in Sociology and MS student in Statistics at UCLA. Being trained as a social demographer, her research focuses on the stratification and mobility of immigrants and other sociodemographic minorities in the American educational system, labor market and families. Kristen's ambition is to bridge the fields of stratification and immigration, incorporating stratification theories and methods into the study of immigrant integration and intergenerational mobility and highlighting the often overlooked role of immigration in classic status attainment models."
+  website: www.kristinliao.com
  
 - name: "Yujia Liu"
   image: /assets/images/1CU0icpX-CtKZ1HdjdVXU2trFJ3fRF0Or.png
   bio: "Yujia is a Ph.D. candidate in Education Policy at the University of California, Irvine. Her research focuses on understanding social and educational inequality in schools and homes, with an emphasis on policies and programs that support teacher recruitment, development, and retention and their relationship to student learning environments."
   website: https://yujia-liu.com/
+
+- name: "Sisi Peng"
+  image: /assets/images/1D63H9VYLvOzmtE7SzRN9fz3hhk43eIBX.jpeg
+  bio: "Sisi Peng is currently pursuing a PhD in Communication at UCLA. Her research focuses on women’s health, and she is interested in applications of big data in understanding health issues. She holds an MPH in Health Policy & Management from SUNY Downstate and a BS in Communication from Cornell University."
+  website: https://www.linkedin.com/in/sisipeng/
+
+- name: "Tyler Reny"
+  image: /assets/images/1yFQOFtfxOZPdeTT4DqKZcZoUpqGxjK94.jpeg
+  bio: "Tyler is an assistant professor in the Department of Politics and Government at Claremont Graduate University. He received his PhD in political science from UCLA and held a post-doctoral research fellowship at Washington University in St. Louis. His work uses a variety of methods and datasets to investigate politically salient questions related to inequality."
+  website: www.tylerreny.com
+
+- name: "Shiva Rouhani"
+  image: /assets/images/1hNmAiLn-dwqnxYL5mE6gpTNVIoSJoZTn.jpeg
+  bio: "Shiva Rouhani is a doctoral student in the UCLA Sociology department, and is associated with the California Center for Population Research. She is broadly interested in inequality and intergenerational mobility. Her dissertation explores the classed pathways of career lines. Shiva holds an MA in Sociology from UCLA and an MA in Applied Quantitative Research from NYU. Prior to beginning her PhD, Shiva worked as a research assistant for the Future of Families and Wellbeing Study."
+  website: https://twitter.com/shivarouhani
+
+- name: "Will Schupmann"
+  image: /assets/images/1TWOFCwpfdP3VlWee3wfc--QuuJ8cMUYi.jpeg
+  bio: "Will is a PhD student in sociology at UCLA. His research examines the social forces shaping how healthcare professionals provide services, and how patients gain access. His most recent projects include a qualitative study investigating the social position ethics consultants hold within hospitals and a network analysis study investigating the diffusion of elective obstetric interventions. Prior to enrolling in graduate school, Will conducted empirical bioethics research at the National Institutes of Health."
+  website: https://willschupmann.me
+
+- name: "Ke Shen"
+  image: /assets/images/1ma2ygGg-JqiZmqfrdAG4q77jR0osBtQi.jpeg
+  bio: "Ke Shen is a PhD student at Department of Industrial and Systems Engineering, and a Graduate Research Assistant with Information Sciences Institute, both are units of USC Viterbi School of Engineering.  Ke started her PhD in 2021, advised by Dr. Mayank Kejriwal. Ke's research interest lies in the intersection between knowledge graph and natural language processing. Her current focus is language model and its application in commonsense reasoning, especially for multiple-choice question answering tasks."
+  website: https://scholar.google.com/citations?user=-D05LWQAAAAJ&hl=en
+
+- name: "Hsiu-yu Yang"
+  image: /assets/images/1TWOP1r0e2z6PAlBJmAJvxvpQZj6bFviU.jpeg
+  bio: "Hsiu-yu is a doctoral student in sociology at UCLA. She is affiliated with the California Center for Population Research (CCPR). Her research focuses on fertility, family dynamics, and reproductive health. Hsiu-yu obtained an MA in sociology and dual bachelor's degrees in journalism and sociology from National Chengchi University in Taiwan."
+  website: https://www.linkedin.com/in/hsiu-yu-yang-b3ba69178/
+
+- name: "Xiaoya Zhang"
+  image: /assets/images/1V-VmSWhQY0CKVwTPdgPqPAGQ1K6V8k1j.jpeg
+  bio: "Xiaoya Zhang is an Assistant Professor in the Department of Family, Youth and Community Sciences at the University of Florida. She obtained her PhD in human development from UC Davis. Her research concerns how environmental and personal factors shape children’s development using both traditional statistical approaches and computational methods."
+  website: https://scholar.google.com/citations?user=P_XJM9QAAAAJ&hl=en
