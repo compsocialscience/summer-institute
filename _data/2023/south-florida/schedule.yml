@@ -30,10 +30,11 @@
   events:
     - name: "8:00 - 10:00 AM Continental breakfast, Crux coffee"
     - name: "10:00 - 11:00 AM [DNA Mass Surveillance and Privacy (Tunick)](https://docs.google.com/presentation/d/1hoavXhAAGrmS0F6NCdQLShYd8fkNoLI2/edit?usp=sharing&ouid=110106943432046521432&rtpof=true&sd=true)"
-    - name: "11:00 - 12:00 Noon Ethics (Albrecht)"
+    - name: "11:00 - 12:00 Noon [The heightened responsiobility of CSS: Is it possible to be ethical? (Albrecht)](https://docs.google.com/presentation/d/19jmQ39K5Ns5IeBQ_FLfQGGGG4LgAEwsR/edit?usp=sharing&ouid=110106943432046521432&rtpof=true&sd=true)"
     - name: "12:00 - 1:00 PM Lunch"
-    - name: "1:00 - 2:00 PM From Deep Agents to Inverse Generative Social Science: leveraging AI/ML (Garibay)"
-    - name: "2:00 - 3:00 PM Web-scraping tutorial (Albrecht)"
+    - name: "1:00 - 2:00 PM [Deep Agent Framework: The genesis of inverse generative social science as a method to leverage artificial intelligence to reformulate the modeling of social phenomena
+(Garibay)](https://docs.google.com/presentation/d/1UYGvg4Ln-PvHkIdWW_PF9TD__lUbqd2N/edit?usp=sharing&ouid=110106943432046521432&rtpof=true&sd=true)"
+    - name: "2:00 - 3:00 PM [Digital trace data: Web-scraping in R and Python (Albrecht)](https://docs.google.com/presentation/d/1uwkxfvpi23Oab0jmLJQ_zIm673K5s7D5/edit?usp=sharing&ouid=110106943432046521432&rtpof=true&sd=true)"
     - name: "3:00 - 3:15 PM Break"
     - name: "3:15 - 4:30 PM Web scraping activity"
 
@@ -41,9 +42,9 @@
   name: Text analysis
   events:
     - name: "8:00 - 10:00 AM Continental breakfast, Crux coffee"
-    - name: "10:00 - 12:00 Noon Text analysis: cleaning, keywords/counts, topic models (Alvero)"
+    - name: "10:00 - 12:00 Noon [Social Influences on the Production of Text (Alvero)](https://docs.google.com/presentation/d/1VBKxK0Is0hzHvw4DmxV1KCsiJyuujoLM/edit?usp=sharing&ouid=110106943432046521432&rtpof=true&sd=true)"
     - name: "12:00 - 1:00 PM Lunch"
-    - name: "1:00 - 2:00 PM Text analysis and ego development (Lanning)"
+    - name: "1:00 - 2:00 PM [Additional explorations in text analysis (Lanning)](https://docs.google.com/presentation/d/1UbxZaMPFeVHlQVSPLeGS6kXK1Uu2td8l/edit?usp=sharing&ouid=110106943432046521432&rtpof=true&sd=true)"
     - name: "2:00 - 3:00 PM Text analysis (Alvero)"
     - name: "3:00 - 3:15 PM Break"
     - name: "3:15 - 4:30 PM Text analysis activity"
