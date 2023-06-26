@@ -1,1 +1,9 @@
-- name:
+- name: Aoi Naito
+  image: /assets/images/Aoi_Naito.jpg
+  bio: "Aoi Naito is a postdoctoral researcher (JSPS) at the Tokyo Institute of Technology and is now working as a visiting researcher at the Human-Computer Interaction Institute of Carnegie Mellon University. With a background in social psychology and cognitive science, he has studied social influence and collective intelligence in humans. Currently, he tries to establish new research methods that utilize techniques from computational social science to expand the scope of his research interest through the use of big data."
+  website: https://naito-aoi.github.io/
+
+- name: Elijah Claggett
+  image: /assets/images/Elijah Claggett.jpg
+  bio: "Elijah is a Ph.D. student in Societal Computing at Carnegie Mellon University. His research centers around applications of machine learning to improve prosocial behaviors in large-scale virtual experiments. His current projects include developing and rigorously testing conversational aids to encourage cooperation between people with opposing beliefs. Previously, Elijah worked as a visiting researcher at Kyushu University’s Center for Cybersecurity after graduating from University of Maryland, Baltimore County with a B.S. in Computer Science."
+  website: https://www.linkedin.com/in/elijah-claggett-ba7018126
