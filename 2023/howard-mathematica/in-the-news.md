@@ -10,6 +10,16 @@ image: /assets/images/howard.jpg
 <br />
 
 ---
+<u>BLOG: Paula Moreno, Youngest Minister of Culture of Colombia and Afro-Colombian Trailblazer Delivers Inaugural SICSS-Howard/Mathematica Motivational Address</u>
+<br><font color="grey"><font size="2">Jun 24, 2023</font></font> 
+<br><i><font size = "2">Paula Moreno, founder of Manos Visibles & first Afro-Colombian woman to serve as Minister of Culture of Colombia, delivered the first SICSS-Howard/Mathematica Motivational Address, focused on the technological challenges and solutions for Africans and people of African descent around the world.</font></i>
+<br><font size = "1">(Posted by <a href="https://www.methodspace.com/blog/paula-moreno-inaugural-sicss-howardmathematica-motivational-address">Sage Methodspace</a>)</font>
+
+<u>BLOG: Understanding Algorithmic and Societal Bias: Scientists and Advocates Discuss Data and Blackness</u>
+<br><font color="grey"><font size="2">Jun 22, 2023</font></font> 
+<br><i><font size = "2">Speakers at SICSS-Howard/Mathematica 2022 explore how change does not affect populations equally, and how the exclusion of underrepresented communities can perpetuate social injustice.</font></i>
+<br><font size = "1">(Posted by <a href="https://www.methodspace.com/blog/understanding-algorithmic-and-societal-bias-scientists-and-advocates-discuss-data-and-blackness">Sage Methodspace</a>)</font>
+
 <u>BLOG: SICSS-Howard/Mathematica’s Bite-Sized Lunchtime Talks Showcase Leading Voices in Data Science</u>
 <br><font color="grey"><font size="2">Jun 17, 2023</font></font> 
 <br><i><font size = "2">Bite-Sized Lunchtime Talks (BSLT) are a SICSS-Howard/Mathematica site-specific innovation that introduces participants to organizations doing cool things with data. 2022 offered a variety of organizations that proved interesting and inspiring to our participants.</font></i>
