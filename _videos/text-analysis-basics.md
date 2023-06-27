@@ -25,4 +25,4 @@ exercises:
 code:
 ---
 
-In this video, Professor Chris Bail of Duke University introduces the basics of quantitative text analysis such as character encoding, GREP, and importing/cleaning text data.
+In this video, Professor Chris Bail of Duke University introduces the basics of quantitative text analysis such as character encoding, GREP, and importing/cleaning text data. Note - due to Twitter's change in policies, this Twitter dataset is no longer available for download.
