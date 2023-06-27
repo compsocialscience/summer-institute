@@ -1,3 +1,133 @@
-- date: July 3, 2023
+- date: All times are local Istanbul Time. The pre-SICSS program will be Zoom-based, but the Actual SICSS will be in person. 
+
+- date: 2021 Pre-SICSS Materials: Completing a whole data project
   events:
-    - name: "Schedule coming soon..."
+    - name: "You can reach our previous materials from [here](https://github.com/compsocialscience/summer-institute/tree/master/2021/materials/istanbul/Pre-SICSS%20Tasks)"
+
+- date: 2023-06-21
+  name:  Welcome Event and R Refresher
+  events:
+    - name: "19:00-19:30 Zoom Welcome session and the commencement of the pre-SICSS period"
+    - name: "19:30-21:30 [R refresher course by Ahmet Kurnaz](https://www.youtube.com/watch?v=rRcj_Dwmrmo)"
+
+- date: 2023-06-22
+  name:  Python refresher
+  events:
+    - name: "19:00-21:00 [Python refresher course by Fuat Kina](https://www.youtube.com/watch?v=sydrOFfWAQU)"
+
+- date: 2023-06-22
+  name:  Python refresher
+  events:
+    - name: "19:00-21:00 [Python refresher course by Fuat Kina](https://www.youtube.com/watch?v=sydrOFfWAQU)"
+
+- date: 2023-06-23
+  name:  Text analysis and intro to NLP with R
+  events:
+    - name: "19:00-21:00 [Intro to Text Analysis by Akin Unver](https://www.youtube.com/watch?v=NHr9J1tgONU)"
+
+- date: 2023-06-24
+  name:  Web Scraping Refresher
+  events:
+    - name: "[Web Scraping with Python by Fuat Kina](https://www.youtube.com/watch?v=MlMGEEudkrg)"
+    - name: "[Web Scraping with R by Akin Unver](https://www.youtube.com/watch?v=dVN5aEmX1Lo)"
+
+- date: 2023-06-25
+  name:  Reading Assignments
+  events:
+    - name: "[Link](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS%20Tasks/Reading_List.md)"
+
+- date: 2023-06-26
+  name:  Exploratory Data Analysis with Python
+  events:
+    - name: "19:00-21:00 [Data cleaning, wrangling and manipulation by Uzay Cetin](https://www.youtube.com/watch?v=1qXMARNepOY)"
+
+- date: 2023-06-27
+  name:  Data Visualization with R
+  events:
+    - name: "19:00-21:00 [Introduction to Data Visualization with GGPlot](https://www.youtube.com/watch?v=j8YJh10P2ew)"
+
+- date: 2023-06-28 
+  name: Kurban Bayram Break
+
+- date: 2023-07-02
+  name: arrival at Ozyegin and settling into the dormitories
+
+
+- date: "First Week of ‘Real SICSS’"
+
+- date: 2023-07-03
+  name: Day 1
+  events:
+     - name: "TBD"
+     
+- date: 2023-07-04
+  name: Day 2
+  events:
+     - name: "TBD"
+     
+- date: 2023-07-05
+  name: Day 3
+  events:
+     - name: "TBD"
+     
+- date: 2023-07-06
+  name: Day 4
+  events:
+     - name: "TBD"
+     
+- date: 2023-07-07
+  name: Day 5
+  events:
+     - name: "TBD"
+
+- date: 2023-07-08
+  name: Day 6
+  events:
+     - name: "TBD"
+
+- date: 2023-07-09
+  name: Free Time - Istanbul Visit
+  events:
+    - name: "Last day for declaring group members and short project proposals"
+     
+- date: "Second Week of ‘Real SICSS’"
+  events:
+     - name: "**Guest Talks**<br/>  We believe that social science research and industry will collaborate more in the future. Computational social science methods allows academic researchers to work closely with industry compared to the past. Therefore, we will organize an industry talk with an eminent figure in Turkish innovation industry to see other side of the coin. We will also host an eminent figure of Turkish Natural Language Processing to learn the state-of-the-art NLP applications in social sciences. Additionally, we will have an alumni talk to discuss on an ongoing research started at the last year of SICSS."
+     - name: "**Work on Group Projects and Flash Talks**<br/> This week will be mainly focused on group work projects. Up until this date, you should have an idea of which participants you’d like to team up with and the research question that you’ll work on. Teams that people built in previous SICSS_Istanbul events have flourished into full-fledged research groups, presenting their SICSS papers at APSA, ASA and beyond!"
+
+- date: 2023-07-10
+  name: Industry Talk and Work on Group Projects
+  events:
+     - name: "TBD"
+     
+- date: 2023-07-11
+  name: Work on Group Projects
+  events:
+     - name: "TBD"
+     
+- date: 2023-07-12
+  name: Research Talk and Work on Group Projects
+  events:
+     - name: "TBD"
+     
+- date: 2023-07-13
+  name: Alumni Talk and Work on Group Projects
+  events:
+     - name: "TBD"
+     
+- date: 2023-07-14
+  name: Work on Group Projects
+  events:
+    - name: "TBD"
+
+- date: 2023-07-15 
+  name: Group Projects Presentations and Party
+  events:
+    - name: "TBD"
+- date: Group Projects
+  name: 
+  events:
+    - name: "TBD"
+    
+
+    
