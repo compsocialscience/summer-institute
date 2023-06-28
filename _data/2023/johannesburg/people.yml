@@ -16,8 +16,18 @@ facilitators:
       bio: "Dr. Simona Simona is a lecturer in the Department of Social Work and Sociology and Assistant Dean of the School of Humanities and Social Sciences at the University of Zambia. He is also a non-resident fellow at the Institute for Pan-African Thought and Conversation (IPATC), University of Johannesburg. He holds a PhD in Sociology and Quantitative Social Science Methods, and a Master of Research (MRes) in Sociology and Research Methods from the University of Glasgow. His research work generally uses advanced quantitative techniques to examine the influence of individual and structural factors on social and health outcomes. He is also interested in teaching quantitative social science methods and data science, including different software packages for data management, visualization, and statistical modelling."
 
 speakers:
+  
   title: Speakers
+  
   people:
+
+    - name: Tendani Mulanga Chimboza 
+      bio: "Dr. Tendani Mulanga Chimboza is a Lecturer at the University of Cape Town (UCT). She also serves as the Scientific Engagement Lead for the Cybersecurity Capacity Centre for Southern Africa (C3SA). Tendani conducts research in Social Informatics and Digital Ethics, specifically research on cyberpsychology, digital parenting, digital activism, and ICT policy. She is passionate about investigating aspects of technology use that unintentionally exclude or marginalize certain groups in society.
+
+Tendani holds a Doctorate in Information Systems from UCT and a master’s in arts degree from the University of Western Cape. Before joining UCT, Tendani worked as a Communication Specialist at Saratoga - an IT company based in Cape Town."
+      image: /assets/images/jias_tendani.jpg
+      website: https://www.linkedin.com/in/tendani-mulanga-chimboza-thabela-ph-d-62746242/details/experience/
+    
     - name: Vissého Adjiwanou
       image: /assets/images/Visseho.jpg
       bio: "Vissého Adjiwanou is a professor of Demography and quantitative and computational methods in the Department of Sociology at the Université du Québec à Montréal (UQAM), and adjunct professor at the Department of Demography (Université de Montréal). He directs the Lab on quantitative and computational social science. He is also affiliated with the Centre on Population Dynamics (McGill University). He received an M.A in Statistics from the National School of Statistics and Applied Economics (ENSEA-Cote d’Ivoire), an M.A in Economics of Development at the Centre for Studies and Research on International Development (CERDI- France) and a PhD in Demography from the Université de Montréal (Canada). His research focusses on population issues in sub-Saharan Africa and in Canada, including fertility, family dynamics, gender inequality, reproductive health, and integration of immigrants from SSA in Canada."
@@ -38,13 +48,33 @@ speakers:
       website: https://e.olamijuwon.com/
       image: /assets/images/eOlamijuwon_shot.jpg
 
-    - name: Tendani Mulanga Chimboza 
-      bio: "Dr. Tendani Mulanga Chimboza is a Lecturer at the University of Cape Town (UCT). She also serves as the Scientific Engagement Lead for the Cybersecurity Capacity Centre for Southern Africa (C3SA). Tendani conducts research in Social Informatics and Digital Ethics, specifically research on cyberpsychology, digital parenting, digital activism, and ICT policy. She is passionate about investigating aspects of technology use that unintentionally exclude or marginalize certain groups in society.
+    - name: Zintathu Mazamane
+      bio: "Zintathu is an experienced professional with a strong background in research, management consulting, policy and strategy development. Currently, she is in the process of completing a Master of Urban Studies in Urban Management from the University of the Witwatersrand. Due her strong passion for promoting women’s advancement into leadership positions, she has dedicated her master’s research to Examining Tactics that Women in Management Positions Employ to Navigate Institutional Culture while Promoting Development. This research was inspired by the prevalent institutional culture that subjects women to many forms of systemic forms of discrimination, which prevents their ascension into decision making roles and positions of influence. 
 
-Tendani holds a Doctorate in Information Systems from UCT and a master’s in arts degree from the University of Western Cape. Before joining UCT, Tendani worked as a Communication Specialist at Saratoga - an IT company based in Cape Town."
-      image: /assets/images/jias_tendani.jpg
-      website: https://www.linkedin.com/in/tendani-mulanga-chimboza-thabela-ph-d-62746242/details/experience/
+As an aspiring leader and expert in her field, Zintathu has worked as a research lead and development consultant in diverse economic sectors, providing valuable insights to stakeholders such as government, private sector and Non-Government Organisations (NGOs). This informs her well-rounded approach in managing projects, conducting research, and analysing complex data into valuable insights. In 2020, Zintathu started her own consulting firm that provides advisory services to through market research, and she has been operating independently for almost three years now. Her major achievements in entrepreneurship thus far include being accepted into a Business Acceleration Programme in 2023 and breaking out into international markets by landing an American NGO as a client."
+      image: /assets/images/2023/johannesburg/zintathu.png
 
+    - name: Samson Faboye
+      bio: "Samson Faboye is a doctoral candidate at the Urban and Regional Planning Department, University of
+Johannesburg, South Africa. He holds a Bachelor's and Master’s Degrees in Architecture from the Federal University of Technology, Akure, Nigeria and a Master of Urban Studies (With a Speciality in urban Politics and Governance) Degree from the University of the Witwatersrand, Johannesburg, South Africa. His ongoing doctoral research explores the future of traditional governance systems in response to expanding urbanisation in North West and KwaZulu Natal Provinces of South Africa. His research interests revolve around Architectural Heritage Conservation, Development and Urban Policy. Samson was one of the participant at the 2022 Summer School in Computational Social Science (SICSS) hosted by the Johannesburg Institute for Advanced Study (JIAS) and Institute for PanAfrican Thought and Conversations (IPATC). He is also a recipient of the 2022/2023 Adam Smith Fellowship from the Mercatus Center of the George Mason University, USA and an 2022/2023 inaugural Edgeland Institute Fellow on the impact digitalisation on Urban Security."
+      image: /assets/images/2023/johannesburg/samson.jpg
+      website: https://www.linkedin.com/in/samsonfaboye/
+    
+support:
+  title: Tech Support
+  people:
+    - name: Nompumelelo Ndawonde
+      bio: "Ms. Nompumelelo Ndawonde is a Researcher at the Institute for Pan-African Thought and Conversation (IPATC). She is currently a PhD student at the University of Cape Town (UCT) in South Africa. She obtained a Masters of Political Science, a Bachelor of Social Science (Honours) in International Relations (cum laude), and a Bachelor of Arts in International Studies (cum laude), all from the University of KwaZulu-Natal (UKZN) in South Africa. Ms. Ndawonde was awarded academic exchange scholarships for studies at the University of Calgary in Canada, and the University of Uppsala in Sweden. Her key research interests include regional organisations, trade, and development."
+      website: https://ipatc.joburg/about/
+      image: /assets/images/2023/johannesburg/nompumelelo
+
+ta:
+  title: Teaching Assistant
+  people: 
+    - name: Aubrey Mpungose
+      website: https://twitter.com/AubreyMabona
+      image: /assets/images/1XkDpQHCjutVQ9ge2qKUYyx22rKmBqcLV.jpeg
+      bio: "Aubrey Mpungose is a PhD student at the University of KwaZulu Natal. He is interested      in social/political theory, political participation, neighbourhood contexts and      behaviour/outcomes, and the broader field of political economy. "
 
 participants:
   title: Participants
