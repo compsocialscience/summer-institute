@@ -1,1 +1,107 @@
-- name:
+- name: Zhenhui Chai
+  image: /assets/图片14.jpg 
+  bio: ZhenHui Chai received the B.E. degree in Electronic and Information Engineering from Beijing University of Chemical Technology, Beijing, China in 2021. He is currently working toward the M.A. degree in Journalism with the School of Communication and Journalism, Communication University of Zhejiang, Hangzhou, China. His research interests include commputational communication and natural language processing.
+
+- name: Qiuyi Chen
+  image: /assets/图片6.jpg
+  bio: Qiuyi Chen is currently pursuing her PhD at the School of Journalism, Fudan University. Her research focuses on the intersection of network science and political communication, health communication, and media effects. Her latest project revolves around misinformation and its correction.
+ 
+- name: Xinyu Cheng
+  image: /assets/WechatIMG186 - Cheng Xinyu.jpeg
+  bio: Xinyu Cheng is a Ph.D student in global communication at Shandong University. She studies international communication and political communication and she is currently working on the picture of information dissemination on social media in China by the method of social network and sentiment measurement. Prior to that, she completed her master’s degree at the University of Sheffield and was concerned about refugee-related coverage and identity construction between the British media and the Arab media. She is also interested in digital field experiments and text as data.
+
+- name: Siling Dong 
+  image: /assets/图片9.jpg
+  bio: Siling Dong is a master student in Communication at the Communication University of China. Her current research includes intercultural communication and digital sociology. She is also interested in computational social science.
+
+- name: Shuqi Dou
+  image: /assets/IMG_2355 - 窦豆.jpg
+  bio: Shuqi Dou is a PhD student in international communication at School of Journalism and Communication, Renmin University of China. Her research interests are international communication and intercultural communication, especially international fake news in global sphere and social media.
+
+- name: Yibin Fan
+  image: /assets/图片15.jpg
+  bio: Yibin Fan is a PhD student in communication at Univeristy of Washington, Seattle. His research interest is focused on the political communication processes in online communities, mostly using computational methods. He is also affiliated with the Community Data Science Collective, which is a cross-institutional research lab with a focus on understanding the dynamics of online communities.
+
+- name: Jiankun Gong
+  image: /assets/2存寸 - Jiankun Gong.jpg
+  bio: Jiankun Gong, Phd, Assistant Professor at Xiamen University Malaysia. My work has been published in top tier journals like Social Media +Society, Journalism Practice, Journalism, Digital Journalism. I am a peer reviewer for more than 20 SSCI journals and I sit in Editorial board of Young Consumers. Also, I am Emerald Publishing representative. My research orbits digital journalism and its societal ramifications. The abrupt rise of social media has drastically revamped the media landscape and the ways in which people perceive the world. Central to my research agenda is the investigation of the impact of the emerging communication technologies on information production, dissemination, and audiences’ perceptions of reality. Using survey, experiment, and computational methodologies, my previous and recent studies are committed to exploring the role of emerging media in the context of health and politics.
+
+- name: Gu Gong
+  image: /assets/FC_20230615_0009 - Gu Gong.jpg
+  bio: Gu Gong is currently pursuing a PhD in Communication at Peking University, China. His research aims to identify and analyze diverse behavioral and psychological patterns of user subgroups in mobile media and communication. He is particularly interested in utilizing computational methods to explore how people interact with emerging media platforms & digital technologies and their social consequences.
+
+- name: Lingchen Gu
+  image: /assets/lingchengu - lingchen gu.jpg
+  bio: Lingchen Gu is a Lecturer in the School of Information Science and Engineering at Shandong Normal University. She received the B.S. degree in electronic information science and technology and the Ph.D. degree in information and communication engineering from Shandong University. Her current research interests include deep learning and multimedia data analysis, such as large-scale multimedia indexing and retrieval.
+
+- name: Huimin He
+  image: /assets/IMG_0269 - Huimin He.jpeg
+  bio: Huimin Callie HE is master student of computational communication at Shenzhen University. She studies online expression and information flow using data from social media and tools from economics. Callie is passionate about building the field of opinion dynamics, her current research focuses on the gender narratives and moralization of online discussion.
+
+- name: Xin	Jin
+  image: /assets/29de539b41dc17b080a9afcead5ae8a - zhang zhang.jpg
+  bio: Xin Jin, Associate Professor, School of Journalism and Media, Chongqing Normal University, China, Ph.D. in Communication, Communication University of China, his main research interests are Health Communication and Visual Communication based on computational sociology.
+
+- name: Tobias Kamelski
+  image: /assets/Kamelski_BA02507-Web - Tobias K.jpg
+  bio: Tobias Kamelski is a PhD student in Sociology at Lingnan University. He researches the habitus of visual self-presentation in online dating. His research interests include mediated impression management as well as sexual and gendered behaviour in digital spaces. He specializes in reconstructive research methods and their digital augmentation.
+
+- name: Zhanghao Li
+  image: /assets/生活照 - Hao Hormony.png
+  bio: Li Zhanghao is a doctoral student in computational communication at Beijing Normal University. His research leverages social bot field experiments and other methods to study the information environment of social media platforms and explore the complex relationship between social media and democracy, such as echo chambers, polarization, etc.
+
+- name: hua	li
+  image: /assets/图片8.jpg
+  bio: Hua Li is a lecturer at the Center for Computational Communication Research of Beijing Normal University. He obtained a MA from the School of Journalism and Communication of Renmin University of China, and a PhD from the School of Journalism and Communication of Jinan University.
+
+- name: Xiao	Shi
+  image: /assets/图片7.jpg
+  bio: Xiao Shi is a lecture in the School of Management Engineering at the Capital University of Economics and Business. She received her Ph.D. degree in Management Science & Engineering from the University of Science and Technology of China. Her research focuses on online users’ behavior in social media, including knowledge payment, privacy management, AI-human interaction and etc.
+
+- name: Ge Shi
+  image: /assets/wangyunfei.jpg
+  bio: Ge Shi is a lecturer at Nanjing University of Technology, majoring in Geographic Information Systems. Her research areas mainly include urban computing, digital humanities, and smart cities. She obtained a master's degree from Michigan State University in the United States and was sent by the National Endowment Commission to Purdue University for one year during her doctoral studies.
+
+- name: Yunfei Wang
+  image: /assets/yunfei - Yunfei Wang.png
+  bio: Yunfei Wang received B.A. in Communication from Tsinghua U and is going to join the M.A. program in Computational Social Science at UChicago. Her research interest lies in network analysis, support communication, social media, social capital, and knowledge science. Her previous and current studies try to answer how network structure influences the reception of online social support, and what factors have impacts on help-seeking information diffusion. She plans to extend her research to knowledge creation in network-based systems in the future.
+
+- name: Jiasheng Xiao
+  image: /assets/图片10.jpg
+  bio: Jiasheng XIAO is a 2nd-year PhD candidate at the Department of Politics and Public Administration at the University of Hong Kong. His research primarily explores how bureaucrats handle information and the impact of institutions on their choices. In his current research, he is looking into the mechanisms by which policy crisis intelligence is gathered, filtered, interpreted, and circulated inside the Chinese bureaucracy.
+
+- name: Zehang Xie
+  image: /assets/mmexport1680961586857 - Zehang Xie.jpg
+  bio: Xie Zehang, a Ph.D student at the School of Media and Communication, Shanghai Jiao Tong University. His main research interests are the psychology and behavior of new media users (with a recent focus on virtual companionship in human-computer interaction), and digital publishing.
+
+- name: Jinghong Xu
+  image: /assets/徐敬宏证件照 - 123abctg@163.com.jpg
+  bio: Dr. Jinghong Xu is a professor at the School of Journalism and Communication of Beijing Normal University. His research interests include new media and internet governance, health communication, intercultural communication, film and television study, and game research. He can be reached at 123abctg@163.com.
+
+- name: Lihan Yan
+  image: /assets/individual picture - 闫丽涵.jpeg
+  bio: Lihan Yan is a first-year Ph.D. student in the School of Journalism and Communication at Nanjing University. I hold my M.A. degree from the City University of Hong Kong and hold B.A. degree from the Central South University of China. My research interests focus on computational communication, science of science.
+
+- name: Yang Yang
+  image: /assets/微信图片_20230618192722 - 时笑笑.jpg
+  bio: I’m a lecturer in the Department of Big Data Management and Application, at Beijing Technology and Business University. I received my Ph.D. in business management from the University of Science and Technology of China with co-training from the University of Washington in 2022.
+
+- name: Hanlu Yu
+  image: /assets/图片16.jpg
+  bio: Hanlu Yu is a master student in psychology at Renmin University of China. Her research interests focus on understanding children's social development and moral psychology. Recently, she has become interested in the role of social media in social support.
+
+- name: Xiaoxue Zhang
+  image: /assets/IMG_0061 - xiaoxue zhang.jpg
+  bio: Xiaoxue Zhang is a PhD candidate at the School of Journalism and Communication, Tsinghua university. Her research focuses on popular culture, online privacy and game. She seeks to use computational techniques, such as natural language processing and network analysis, to solve social science problems.
+
+- name: Duo Zhang
+  image: /assets/1 张多的副本 - Duo Zhang.jpg
+  bio: Duo Zhang is a doctoral student of Zhejiang University, majoring in journalism and Communication studies. His research interests include media sociology，intelligent communication and human-computer interaction.
+
+- name: Yanling Zhao
+  image: /assets/profile - Yanling Zhao.jpeg
+  bio: Yanling Zhao is a PhD student in Media, Technology, and Society at Northwestern University. Her research mainly employ computational methods such as natural language processing, both supervised and unsupervised machine learning combined with surveys and experiments to study the political communication, media effects in the digital media era and mis/disinformation.
+
+- name: Nanxiao Zheng
+  image: /assets/图片13.jpg
+  bio: Nanxiao Zheng is an incoming MPhil student in the School of Journalism and Communication at the Chinese University of Hong Kong. His research interests lie in Visual Communication and Political Communication, focusing on online communities, online multimodality, and nationalism. He is keen to apply methods to understand social media participation and social networks.
