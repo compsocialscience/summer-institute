@@ -34,6 +34,9 @@
   image: "/assets/images/nyush_zheng_ma.png"
   bio: "Zheng Ma is a PhD student in Social Policy and Government at Harvard Kennedy School. He completed his undergraduate studies at the University of Wisconsin Madison and a Master's degree at the University of Chicago, where he focused on Political Economy, Macroeconomics, and computational tools."
 
+- name: "Lingbo Tong"
+  image: "/assets/images/nyush_lingbo_tong.jpg"
+  bio: "Lingbo Tong is a Ph.D. student in the joint program of Psychology and Computer Science at the University of Notre Dame. Her research centers on building interpretable, human-centered AI in the areas of psychology and education. She is currently working on developing language models that offer mental health support to the public. She is also interested in enhancing structural equation models with deep learning techniques. Previously, she received her bachelor's degree in Computer Science at Sichuan University."
 
 - name: "Qi Wang"
   image: "/assets/images/nyush_qi_wamh.jpg"
@@ -51,6 +54,10 @@
   image: "/assets/images/nyush_junliang_xu.jpg"
   bio: "Junliang Xu is a master student in East Asian Studies at Stanford University. His research focuses on political sociology, conflict, and mixed methods. He is currently working on the mobilization process of the Cultural Revolution. Previously, he studied institutional changes under drastic rebellion in the late Qing Dynasty using longitudinal models. He holds BFA and LLB from Tsinghua University."
 
+- name: "Wei Yang"
+  image: "/assets/images/nyush_wei_yang.jpeg"
+  bio: "Wei is a master student in Information Science at Cornell University, her research interest includes demography, spatial inequality and urban data science. She earned bachelor’s degrees in HCI and Sociology from University of Washington."
+
 - name: "Shuangshuang Yang"
   image: "/assets/images/nyush_shuangshuang_yang.jpg"
   bio: "Shuangshuang Yang is a PhD student in Sociology at Boston College. Her main research interests include gender, family, the life course, and health. Her current project focuses on the spillover effects of sibling disability. She is also interested in applying text and image analysis to explore online dating patterns."
@@ -63,6 +70,10 @@
   image: "/assets/images/nyush_enshuai_yu.jpg"
   bio: "Enshuai Yu is a Ph.D. student in accounting at Carroll School of Management, Boston College. He earned a master’s degree in finance from Shanghai Advanced Institute of Finance, Shanghai Jiao Tong University in 2021, and bachelor’s degrees in accounting and psychology (dual degree) from Peking University in 2019. His research interests lie in the intersection of archival financial accounting and taxation, covering topics like regulation and enforcement, tax, corporate governance, and information disclosure."
 
+- name: "Nuo Yuan"
+  image: "/assets/images/nyush_nuo_yuan.jpg"
+  bio: "Nuo Yuan's research interest spans both the methodological and substantive aspects of computational social science. Methodologically, he is interested in topics such as sequential experimental design and causal inference in networks. Substantively, he has been working on projects related to sustainability and inclusivity at the corporate and supply chain levels."
+
 - name: "Yiwen Zeng"
   image: "/assets/images/nyush_yiwen_zeng.jpg"
   bio: "Yiwen Zeng is an incoming PhD student in Sociology at the University of Arizona. Prior to that, she completed her master’s degree at the London School of Economics and Political Science (LSE) and bachelor’s degree at Peking University. Basically, Yiwen’s research interest lies in understanding the social and organizational process of evaluation, especially in the labor market, and the sociological foundation of workplace inequality. Particularly, she is interested in investigating to what extent the ideal of meritocracy can be fulfilled in evaluation, and whether and how non-meritocratic elements could be blended in given specific institutional settings. Methodologically, she intends to deploy experimental study, audit study and text analysis to examine the questions above."
@@ -70,6 +81,14 @@
 - name: "Mengqi Zhan"
   image: "/assets/images/nyush_mengqi_zhan.png"
   bio: "Mengqi Zhan is an Assistant Professor of Communication at University of Texas at Arlington. She received her PhD from the Department of Communication at University of Maryland College Park. As an organizational communication researcher, she primarily studies the communicative processes that occur within and around organizations, including employee communication and corporate communication on social media. She is currently developing a new research stream that examines employee communication on anonymous social media platforms."
+  
+- name: "Shiyi Zhang"
+  image: "/assets/images/nyush_saul_zhang.jpg"
+  bio: "Shiyi Zhang is a PhD student in Media and Communication at University of Leicester. He is broadly interested in health communication, misinformation, social media and computational social science. His current PhD project analyses factors associated with individuals' acceptance of mental health misinformation on social media."
+
+- name: "Haowen Zheng"
+  image: "/assets/images/nyush_haowen_zheng.png"
+  bio: "Haowen Zheng is a PhD student in sociology at Cornell University. Using quantitative and computational methods, her research projects center around social stratification and mobility, demography, spatial inequality, and gender inequality in the labor market."
 
 - name: "Yichun Zhou"
   image: "/assets/images/nyush_yichun_zhou.jpg"

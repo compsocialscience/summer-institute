@@ -1,4 +1,4 @@
- - date: All times are in Brazilian (Brasilia - Federal District) Time.
+- date: All times are in Brazilian (Brasilia - Federal District) Time.
   name: We intend to run our partner edition mostly in Portuguese. 
 
 - date: 2023-07-03
@@ -32,11 +32,11 @@
 
 
 - date: 2023-07-05
-  name:  Workshop in Social Network Models
+  name:   Workshop in Introduction to writing queries
   events:
     - name: "Zoom"
     - name: "10:00 - 10:15 Logistics and introduction to group exercise"
-    - name: "10:15 - 11:30 Workshop on Social Networks with Polyana Barbosa (FGV ECMI-DAPP)"
+    - name: "10:15 - 11:15 Workshop: Introduction to writing queries, Dalby Hubert (FGV ECMI-DAPP)"
     - name: "11:30 - 12:00 Break"
     - name: "12:00 - 1:00 Small group lunches (optional)"
     - name: "1:00 - 1:15 Break"
@@ -48,11 +48,11 @@
 
 
 - date: 2023-07-06
-  name:  Workshop in Introduction to writing queries
+  name: Workshop in Social Network Models
   events:
     - name: "Zoom"
     - name: "10:00 - 10:15 Introduction to the group exercise"
-    - name: "10:15 - 11:15 Workshop: Introduction to writing queries, Dalby Hubert (FGV ECMI-DAPP)"
+    - name: "10:15 - 11:30 Workshop on Social Networks with Polyana Barbosa (FGV ECMI-DAPP)"
     - name: "11:15  - 12:30 Group Exercise"
     - name: "12:30 - 1:30 Small group lunches (optional)"
     - name: "1:30 - 1:45 Break"
@@ -86,10 +86,10 @@
   name: Day off
   
 - date: 2023-07-10
-  name: Workshop: Modern NLP Techniques + Work on Group Projects 
+  name: "Workshop: Modern NLP Techniques + Work on Group Projects"
   events:
     - name: "Zoom"
-    - name: "10:00 - 11:00 - Workshop: Modern NLP Techniques, Lucas Roberto (FGV ECMI-DAPP)"
+    - name: "10:00 - 11:00 - Workshop on Modern NLP Techniques, Lucas Roberto (FGV ECMI-DAPP)"
     - name: "11:00 - 12:00 - Office hours for the workshop"
     - name: "Rest of the day: Work on your group projects"
 

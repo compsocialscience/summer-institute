@@ -70,3 +70,21 @@
   image: /assets/images/Francesco Marolla.jpg
   bio: "Francesco Marolla is a Joint PhD researcher for the University of Trento (Italy) and Tilburg University (The Netherlands). In his PhD Thesis, he works on European surveys (e.g., EVS, ESS, EES), particularly focusing on citizens' support for populist parties and populist attitudes. He aims to find individual and contextual factors that explain support for populism across European countries. The focus is on voters' grievances, institutional factors and party competition. Other research interests are on Voting behaviour, Electoral biases, Digital Democracy, and COVID-19 rule compliance."
   website: https://twitter.com/FrancescoM_4
+
+- name: "Laura Jansen"
+  image: /assets/images/Laura Jansen.jpeg
+  bio: "Laura Jansen is a PhD student in Economics at the University of Groningen. Her research lies within the field of health and labour economics. She is currently investigating employer incentives' effects in the Dutch sick leave and disability insurance system. Besides, she has a great interest in computational economics and is planning to create a structural model of the Dutch disability insurance system."
+
+- name: "Santiago Gómez-Echeverry"
+  image: /assets/images/Santiago Gómez.jpg
+  bio: "Santiago is a PhD candidate at the Department of Sociology of the Vrije Universiteit Amsterdam. His current research focuses on modeling and assessing the quality of non-probabilistic and Big Data sources. He has a strong passion for applied statistics, particularly Survey Statistics, Public Policy Evaluation, Bayesian Statistics, and Psychometrics."
+
+- name: "Ely Strömberg"
+  image: /assets/images/Ely Strömberg.jpeg
+  bio: "Ely Strömberg is a PhD candidate at the department of Sociology at the University of Amsterdam, and the ICS. Their PhD project investigates cumulative and structural forms of discrimination. Their research interest include discrimination, labour market relations, intergenerational inequality, research robustness, and Critical theory."
+  website: https://twitter.com/elystromberg
+
+- name: "Maud Hofland"
+  image: /assets/images/Maud Hofland.jpg
+  bio: "I am an early-career researcher affiliated with the Netherlands Bureau for Economic Policy Analysis. In collaboration with colleagues, I investigate various aspects of he Dutch healthcare system, particularly in relation to income. Additionally, my academic interests lie in the fields of socio-medical sciences and social inequality."
+  website: https://twitter.com/FrancescoM_4
