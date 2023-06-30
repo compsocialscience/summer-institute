@@ -15,6 +15,7 @@
     - name: "3:45  - 4:45 Workshop: Introduction to writing queries, Dalby Hubert (FGV ECMI-DAPP)"
     - name: "4:45  - 5:00 End of the Day + Daily Survey"    
 
+
 - date: 2023-07-04
   name: Collecting Digital Trace Data 
   events:
@@ -93,7 +94,7 @@
   events:
     - name: "Zoom [link](https://ide-fgv-br.zoom.us/j/98880727988?pwd=RTl0eFp5M05tbFJQcXFqZ3dwNmtWQT09)"
     - name: "14:00 - 16:00 group projects"
-    - name: "16:00 - 17:00: GUEST-SPEAKER: **Tai Nalon**"
+    - name: "16:00 - 17:00 GUEST-SPEAKER: **Tai Nalon**"
 
 
 - date: 2023-07-12
@@ -107,5 +108,5 @@
   name: Work on group projects + Final Presentation
   events:
     - name: "Zoom [link](https://ide-fgv-br.zoom.us/j/98880727988?pwd=RTl0eFp5M05tbFJQcXFqZ3dwNmtWQT09)"
-    - name: "10:00 - 12:00: Office Hours"
-    - name: "14:00 - 4:00: Present group projects"
+    - name: "10:00 - 12:00 Office Hours"
+    - name: "14:00 - 4:00 Present group projects"
