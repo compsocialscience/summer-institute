@@ -49,6 +49,11 @@
 - date: 2023-06-28 
   name: Kurban Bayram Break
 
+- date: 2023-06-28 
+  name: Guest Talk: Christopher Barrie
+  events:
+    - name: "Measuring Media Freedom Using Word Embeddings [Record](https://www.youtube.com/watch?v=awYmggGNbDk), [Materials](https://raw.githack.com/cjbarrie/sicss_23/main/05_cta_notebook2.html)"
+
 - date: 2023-07-02
   name: arrival at Ozyegin and settling into the dormitories
 
@@ -58,36 +63,51 @@
 - date: 2023-07-03
   name: Day 1
   events:
-     - name: "TBD"
+     - name: "Morning (10.00 - 12.00): Matching Survey Data with Social Media Data by Fuat Kına - Şükrü Atsızelti"
+     - name: "Noon (12.00 - 14.00): Changing Role of Social Scientists in the Computational Age by Prof. Anita Gohdes"
+     - name: "Afternoon (14.00 - 16.00): New Advances in Computer Vision and Image Analysis by Prof. Lale Akarun"
      
 - date: 2023-07-04
   name: Day 2
   events:
-     - name: "TBD"
+     - name: "Morning (10.00 - 12.00): Intermediate Tutorial on Natural Language Processing with Python by Dr. Ali Hurriyetoğlu"
+     - name: "Noon (12.00 - 14.00): Intermediate Tutorial on Natural Language Processing with Python by Dr. Ali Hurriyetoğlu"
+     - name: "Afternoon (14.00 - 16.00): Using Facebook Commercial API for Demographic Research by Prof. Ingmar Weber"
+     
      
 - date: 2023-07-05
   name: Day 3
   events:
-     - name: "TBD"
+     - name: "Morning (10.00 - 12.00): Introduction to OLS and Regression Analysis by Berﬁn Baydar”
+     - name: "Noon (12.00 - 14.00): Free Time"
+     - name: "Afternoon (14.00 - 16.00):Diﬀ-in-diﬀ and regression discontinuity design with social media data by Serkant Adıgüzel"
      
 - date: 2023-07-06
   name: Day 4
   events:
-     - name: "TBD"
+     - name: "Morning (10.00 - 12.00):“GIS and Spatial Analysis with R by Dr. Milos Popovic"
+     - name: "Noon (12.00 - 14.00): Koç University Artiﬁcial Intelligence Lab Visit"
+     - name: "Afternoon (14.00 - 16.00): Digital Humanities and GIS in Historical Research by Prof. Erdem Kabadayı"
      
 - date: 2023-07-07
   name: Day 5
   events:
-     - name: "TBD"
-
+     - name: "Morning (10.00 - 12.00): Introduction to Network Analysis and Basic Principles in Homophily by Dr. Onur Varol"
+     - name: "Noon (12.00 - 14.00): Free Time"
+     - name: "Afternoon (14.00 - 16.00): Intermediate Network Analysis and Community Detection by Dr. Başak Taraktaş"
+     
 - date: 2023-07-08
   name: Day 6
   events:
-     - name: "TBD"
-
+     - name: "Morning (10.00 - 12.00): Introduction to Computer Vision and Image Detection by Mert Küçük (Oda Studio)"
+     - name: "Noon (12.00 - 14.00): Free time / Relax in Bebek Area"
+     - name: "Afternoon (14.00 - 16.00): Research Clusters Forming Discussions"
+     - name: "21:00 Shuttle back to Ozyegin picks up"
+     
 - date: 2023-07-09
   name: Free Time - Istanbul Visit
   events:
+    - name: "Free Time, City Visit - Research Clusters Forming Discussions"
     - name: "Last day for declaring group members and short project proposals"
      
 - date: "Second Week of ‘Real SICSS’"
@@ -96,34 +116,52 @@
      - name: "**Work on Group Projects and Flash Talks**<br/> This week will be mainly focused on group work projects. Up until this date, you should have an idea of which participants you’d like to team up with and the research question that you’ll work on. Teams that people built in previous SICSS_Istanbul events have flourished into full-fledged research groups, presenting their SICSS papers at APSA, ASA and beyond!"
 
 - date: 2023-07-10
-  name: Industry Talk and Work on Group Projects
-  events:
-     - name: "TBD"
-     
-- date: 2023-07-11
-  name: Work on Group Projects
-  events:
-     - name: "TBD"
-     
-- date: 2023-07-12
   name: Research Talk and Work on Group Projects
   events:
-     - name: "TBD"
+     - name: "Morning (10.00 - 12.00): Work on Group Projects"
+     - name: "Noon (12.00 - 14.00): Work on Group Projects"
+     - name: "Afternoon (14.00 - 16.00): Using Satellite Data to Detect Tanker Movements Oﬀshore Ukraine by Dr. Ollie Ballinger"
      
-- date: 2023-07-13
+- date: 2023-07-11
   name: Alumni Talk and Work on Group Projects
   events:
-     - name: "TBD"
+     - name: "Morning (10.00 - 12.00): Work on Group Projects"
+     - name: "Noon (12.00 - 14.00): Work on Group Projects"
+     - name: "Afternoon (14.00 - 16.00): Use of Large Language Models in MTurk by Veniamin Veselovsky"
+     
+- date: 2023-07-12
+  name: Industry Visit and Work on Group Projects
+  events:
+     - name: "Morning (10.00 - 12.00): Eczacıbaşı DNA Lab Visit"
+     - name: "Noon (12.00 - 14.00): Work on Group Projects"
+     - name: "Afternoon (14.00 - 16.00): Work on Group Projects"
+     
+- date: 2023-07-13
+  name: Work on Group Projects
+  events:
+     - name: "Morning (10.00 - 12.00): Work on Group Projects"
+     - name: "Noon (12.00 - 14.00): Work on Group Projects"
+     - name: "Afternoon (14.00 - 16.00): Work on Group Projects"
      
 - date: 2023-07-14
   name: Work on Group Projects
   events:
-    - name: "TBD"
+     - name: "Morning (10.00 - 12.00): Work on Group Projects"
+     - name: "Noon (12.00 - 14.00): Work on Group Projects"
+     - name: "Afternoon (14.00 - 16.00): Work on Group Projects"
 
 - date: 2023-07-15 
   name: Group Projects Presentations and Party
   events:
-    - name: "TBD"
+     - name: "Morning (10.00 - 12.00): Free Time"
+     - name: "Noon (12.00 - 14.00): Project Presentations"
+     - name: "Afternoon (14.00 - 16.00): Networking Event"
+
+- date: 2023-07-16
+  name: End of SICSS_Istanbul
+  events:
+     - name: "Departure from Dormitories"
+
 - date: Group Projects
   name: 
   events:
