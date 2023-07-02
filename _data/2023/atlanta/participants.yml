@@ -1,3 +1,13 @@
+- name: "Stephen Abeyta"
+  image: /assets/images/Abeyta_headshot.jpeg
+  bio: "Stephen Abeyta is a doctoral candidate at Northeastern University's School of Criminology and Criminal Justice. His research focuses on work-related issues, particularly understanding how workplaces can be a unique space of violence, victimization, and harm. He is also interested in understanding how the evolving nature of the workplace will affect workers’ exposure to adverse work-related experiences."  
+  website: https://cssh.northeastern.edu/student/stephen-abeyta/
+
+- name: "Elizabeth Chan"
+  image: /assets/images/EC_headshot.jpeg
+  bio: "Elizabeth Chan is a second-year PhD student in Social and Personality Psychology at the University of Toronto. Her research interests include time use, current affairs, and well-being. Specifically, she is interested in understanding how people can allocate their limited time to maximize well-being using various statistical methods such as compositional data analysis and cluster analysis. Prior to graduate school, she completed her Bachelor of Science in Psychology at the University of Toronto."  
+  website: https://elizabeth-chan.netlify.app/
+
 - name: "Jane Daquin"
   image: /assets/images/Daquin.jpeg
   bio: "Jane Daquin is an Assistant Professor in the Department of Criminology and Criminal Justice at The University of Alabama. Her research focuses on individuals’ experiences with and perceptions of the criminal legal system, with a particular focus on carceral experiences (e.g., victimization in prison). Additionally, her work focuses on the effects of the prison experiences on reentry for formerly incarcerated individuals. Currently, she is statistical consultant in one of the research units at The University of Alabama."  
@@ -7,6 +17,11 @@
   image: /assets/images/Dorsch_Headshot.jpeg
   bio: "Caitlin A. Dorsch is a doctoral student and graduate research assistant in the Department of Criminal Justice and Criminology at Georgia State University. She began serving as President of the Criminal Justice Graduate Student Association in 2022 and received the Department’s Excellence in Leadership Award in 2021. She graduated with a B.A. in Criminology from the University of Lynchburg in 2020. Her primary research investigates the quality of administrative data in the criminal justice system. Her secondary research examines the victimization of subgroups."  
   website: https://aysps.gsu.edu/phd-student/dorsch-caitlin/
+
+- name: "Yi Feng"
+  image: /assets/images/Yi Feng.jpeg
+  bio: "Yi Feng is a Ph.D. candidate at the School of Education at the University of California, Irvine. Her current research focuses on the development of a personalized approach to enhance working memory in children, along with exploring individual differences in skill learning. She has a strong interest in integrating computational modeling with research in psychology and education to optimize learning performance for individuals."  
+  website: https://education.uci.edu/phd-feng-y.html
 
 - name: "Michelle N. Harris"
   image: /assets/images/Michelle_Harris_EPPS.jpeg
@@ -28,10 +43,20 @@
   bio: "Hamida Khatri, a PMP® (Project Management Professional) certified gender-based violence expert and a social justice advocate stands at the forefront of technological and sociological research, possessing a dynamic blend of skills in project management, research development, strategic management, design, innovation, and emerging technologies. She is furthering her academic journey by pursuing a Ph.D. in Arts, Technology, & Emerging Communication at the University of Texas at Dallas. Simultaneously, she’s advancing her skills in emerging technologies by attaining a Professional Certificate in Augmented/Virtual Reality and Computer Graphics from the NYU Tandon School of Engineering and a Post Graduate Program Certificate in Artificial Intelligence and Machine Learning from Texas McCombs School of Business at the University of Texas at Austin. Hamida is the Director and driving force behind <a href=https://www.vrcatalyst.org//>VR Catalyst</a>, an innovative non-profit organization leveraging virtual reality gaming simulation and therapy to support victims and survivors of gender-based violence. Hamida’s scholarly work intriguingly intersects Computational Social Science, Victimology, and Philosophy of Psychiatry, while embracing the rich cultural contexts of Islamic Art, Persian Literature, and South Asian Studies. This distinctive interdisciplinary approach empowers her to analyze the complex psychological and social impacts of gender-based violence on its victims and survivors. Committed to utilizing innovative research methodologies, Hamida integrates social simulation, modeling, network analysis, and media analysis through games and animation. Hamida’s multifaceted approach epitomizes her commitment to bridging the gap between technology and human experiences, promising profound insights into the realm of gender-based violence."  
   website: https://www.hamidakhatri.com/
 
+- name: "Maxim Malikov"
+  image: /assets/images/Max_Self.jpeg
+  bio: "Maxim Malikov is a PhD student in the Computational Social Science program at George Mason University. His research focuses on computational simulations with social inclination, in order to gain a deeper understanding of how societies and organizations emerge, evolve, and perish. His methodology includes the use of Natural Language Processing tools for empirical data extraction and Agent Based Modeling to simulate the social interactions, with the goal of learning about our past and applying that knowledge towards our future."  
+  website: https://www.linkedin.com/in/max-malikov/
+
 - name: "Sari Mentser"
   image: /assets/images/MentserSari_photo.jpeg
   bio: "Sari Mentser is currently pursuing her PhD at the School of Business Administration at the Hebrew University of Jerusalem. In her research, she takes a cross-cultural approach to studying values and moral judgments. She enjoys utilizing a variety of methods to answer her research questions, including meta-analyses, text analyses, and structural equation modeling."  
   website: https://twitter.com/MentserSari
+
+- name: "Munirat Sanmori"
+  image: /assets/images/Munirat_Sanmori.jpeg
+  bio: "Munirat Sanmori is a Ph.D. student in Sociology at Georgia State University with academic credentials in Gerontology (M.A) from Georgia State University and Library and Information Science (MLIS), (BSc) from the University of Ibadan and University of Ilorin, Nigeria respectively. Her research focuses on global inequalities in access to medical and other services, specifically concerning vulnerable populations such as older adults, racial minorities, and individuals with disabilities. Her goals include conducting research, influencing policymaking, and providing services to support the well-being of diverse and underserved individuals."  
+  website: https://www.linkedin.com/in/munirat-sanmori-523706a9/
 
 - name: "Hilal Sert"
   image: /assets/images/Hilal_Sert.jpeg
@@ -42,6 +67,3 @@
   image: /assets/images/Xiaotian_Zheng_GMU.jpeg
   bio: "Xiaotian “Timo” Zheng is a current doctoral student in the Department of Criminology, Law and Society at George Mason University. He received his Bachelor of Law and passed the Chinese Bar exam at Shanghai University of Politics Science and Law in 2018. Later, he gained his Master of Social Science at University of Macau in 2020. His research interests are Quantitative Research Methods, Statistical Modelling, Community/Street Level Crime and Deviance Behaviors, and Deterrence. As one of the members of LGBTQ group, he is also planning to conduct research to better understand the health and victimization issues among LGBTQ members at the community level."  
   website: https://cebcp.org/team/xiaotian-zheng/
-
-
-
