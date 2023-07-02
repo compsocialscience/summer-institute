@@ -1,7 +1,17 @@
+- name: "Jane Daquin"
+  image: /assets/images/Daquin.jpeg
+  bio: "Jane Daquin is an Assistant Professor in the Department of Criminology and Criminal Justice at The University of Alabama. Her research focuses on individuals’ experiences with and perceptions of the criminal legal system, with a particular focus on carceral experiences (e.g., victimization in prison). Additionally, her work focuses on the effects of the prison experiences on reentry for formerly incarcerated individuals. Currently, she is statistical consultant in one of the research units at The University of Alabama."  
+  website: https://www.janecdaquin.com/
+
 - name: "Caitlin A. Dorsch"
   image: /assets/images/Dorsch_Headshot.jpeg
   bio: "Caitlin A. Dorsch is a doctoral student and graduate research assistant in the Department of Criminal Justice and Criminology at Georgia State University. She began serving as President of the Criminal Justice Graduate Student Association in 2022 and received the Department’s Excellence in Leadership Award in 2021. She graduated with a B.A. in Criminology from the University of Lynchburg in 2020. Her primary research investigates the quality of administrative data in the criminal justice system. Her secondary research examines the victimization of subgroups."  
   website: https://aysps.gsu.edu/phd-student/dorsch-caitlin/
+
+- name: "Michelle N. Harris"
+  image: /assets/images/Michelle_Harris_EPPS.jpeg
+  bio: "Michelle N. Harris is an Assistant Professor in the Criminology and Criminal Justice Program in the School of Economic, Political, and Policy Scents at University of Texas at Dallas. Through her research, she examines topics related to mental health and victimization, and how these two topics intersect with various processes. Using statistically sophisticated techniques, her research involves a multidisciplinary, theoretically grounded approach through which she generates policy recommendations on topics related to psychosocial and developmental explanations of criminological processes and victimization."  
+  website: https://www.linkedin.com/in/michellenharris
 
 - name: "Muhammed Rashedul Hasan"
   image: /assets/images/Photo_Muhammed_Rashedul_Hasan.jpeg
@@ -27,3 +37,11 @@
   image: /assets/images/Hilal_Sert.jpeg
   bio: "Hilal Sert is a  Ph.D. student at Georgia State University, in the Political Science program. Hilal was born and raised in Ankara/Turkey. Se obtained her B.A. in International Relations from Bilkent University and M.A. in European Studies from the Sabanci University. Her research interests include terrorism, conflict, war termination and authoritarian regimes."  
   website: https://www.linkedin.com/in/hilal-sert-110ab6151/
+
+- name: "Xiaotian Zheng"
+  image: /assets/images/Xiaotian_Zheng_GMU.jpeg
+  bio: "Xiaotian “Timo” Zheng is a current doctoral student in the Department of Criminology, Law and Society at George Mason University. He received his Bachelor of Law and passed the Chinese Bar exam at Shanghai University of Politics Science and Law in 2018. Later, he gained his Master of Social Science at University of Macau in 2020. His research interests are Quantitative Research Methods, Statistical Modelling, Community/Street Level Crime and Deviance Behaviors, and Deterrence. As one of the members of LGBTQ group, he is also planning to conduct research to better understand the health and victimization issues among LGBTQ members at the community level."  
+  website: https://cebcp.org/team/xiaotian-zheng/
+
+
+
