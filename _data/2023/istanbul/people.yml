@@ -21,8 +21,7 @@ organizers:
         image: /assets/images/BasakTaraktas.png
         bio:  "Başak Taraktaş is an Assistant Professor of Political Science at Bogazici University. She received her PhD in political science from the University of Pennsylvania in 2016. Before coming to Bogazici, She worked as a postdoc at Northwestern’s Buffett Institute for Global Affairs for two years and as a research analyst at FutureMap. Her research centers on collective action and opinion dynamics. Much of her work is set in the contexts of regimes, and contentious politics, where she combine computational methods (such as, agent-based models, network analysis, and text analysis) and qualitative research to unpack the effect of ideology and ideational beliefs on cooperation. She is particularly interested in adaptations of complexity theory and dynamical systems in social sciences.Her current project, Dia-Pol, is supported by Marie Curie Individual Fellowship 2020 grant. Dia-Pol studies the conditions under which polarization follows from social media interactions among social movements and their countermovements and the themes on which these interactions foster dialogue. "
         website: https://basaktaraktas.com/
-
-        
+     
 instructors:
   title: Bootcamp Instructors 
   people:
@@ -42,9 +41,35 @@ instructors:
        - name: Uzay Çetin
          image: /assets/images/2023/Istanbul/uzay_cetin.png
          bio: "Uzay Çetin received his master’s degree in artificial intelligence from Pierre and Marie Curie University and his doctoral degree in complex systems from Bogazici University Computer Engineering Department. He is a faculty member in Galatasaray University Computer Engineering department, and he is co-founder of Summarify. He organizes free machine learning courses to young people in Sarıyer Municipality  and he works as a ML consultant with different firms.  He also organizes multi-disciplinary workshops on complex systems and data science."
-         
+
+       - name: Berfin Baydar
+         image: /assets/images/2023/Istanbul/berfin_baydar.png
+         bio: "Berfin Baydar is a Ph.D. student at Sabancı University, specializing in Political Science. She will be continuing her doctoral studies at Duke University beginning in Fall 2023. In 2020, she completed her undergraduate studies in Political Science and Public Administration, with a minor degree in International Relations, at Bilkent University. Following that, she successfully obtained her master’s degree in Political Science from Sabancı University in 2022. Her thesis examined the relationship between civil conflict, voter turnout, and the vote shares of insurgent-affiliated and incumbent parties by focusing on the modifying effect of cleavage types. Currently, she is actively engaged in the Istanbul Telephone Directories Project, where she led the creation of a comprehensive dataset from phone directories dating from 1929 to 1955. Before starting her Ph.D. at Sabancı, she served as a research fellow for the World Health Organization. She conducted field research in Shamakhi, Azerbaijan, and contributed to co-authoring a mid-term evaluation report for the PROACT-Care project. Her research interest lies in the intersection of economic institutions, inequality, and minority politics. She examines the impact of economic policies, tax regulations, welfare programs, and public investments on political disparities, with a specific interest in understanding their influence on voting behavior and electoral outcomes."
+         website:
+
+keynote:
+  title: Keynote Speakers
+  people:
+       - name: Lale Akarun
+         image: /assets/images/2023/Istanbul/laleAkarun.png
+         bio: "Lale Akarun is a professor of Computer Engineering and the director of the Center for Telecommunications and Informatics (http://tetam.boun.edu.tr/en). She received the PhD degree in Electrical Engineering from the Polytechnic School of Engineering of NYU, in 1992. She has been a faculty member at Bogazici University, Istanbul since 1993. She has served as Department Head of Computer Engineering (2010-2012) and Vice Rector for Research (2012-2016). As Vice Rector, her responsibilities included Sponsored Research Projects, Technology Transfer, Incubation Centers and Technoparks of the University. Her research areas are in image processing and computer vision, and in particular, processing of faces and gestures. She has supervised 70 graduate theses and published more than 200 scholarly papers in scientific journals and refereed conferences. She has conducted research projects in biometrics, face recognition, hand gesture recognition, human-computer interaction, and sign language recognition."
+         website: https://www.cmpe.boun.edu.tr/~akarun/doku.php
+       - name: Berrin Yanıkoğlu
+         image: /assets/images/2023/Istanbul/berrinyanikoglu.png
+         bio: "Berrin Yanikoglu is a Professor of Computer Science and the founding Director of the Center of Excellence in Data Analytics (VERIM), at Sabanci University, Istanbul, Turkey. She received a double major in Computer Science and Mathematics from Bogazici University, Turkey in 1988 and her Ph.D. degree in Computer Science from Dartmouth College, USA in 1993. Prof. Yanikoglu worked at Rockefeller University, Xerox Imaging Systems and IBM Almaden Research Center, before joining Sabanci University in 2000. Her research interests lie in the intersection of computer vision and machine learning areas, currently focusing on hate speech detection, supervised and self-supervised image understanding, handwriting recognition for Ottoman text, medical image understanding, and text summarization. She is an Editor for the Turkish Journal of Electrical Engineering and Computer Science."
+         website: http://myweb.sabanciuniv.edu/berrin/
+       - name: Selim Balcısoy
+         image: /assets/images/2023/Istanbul/selimbalcisoy.png
+         bio: "Selim Balcısoy earned his Ph.D. degree in Computer Science at Swiss Federal Institute of Technology, Lausanne (EPFL) in 2001. Between 2001 and 2004, he worked as a Senior Research Engineer at Nokia Research Centre in Dallas, USA. Dr. Balcisoy has been awarded with a U.S.A. patent and is author of over 50 scholarly articles. He conducts research on augmented reality, data visualization, and cultural heritage. Dr. Balcisoy is a full-time faculty member at Sabancı University since 2004 and a cofounder of VisioThink, Inc., established in 2006."
+         website: https://www.sabanciuniv.edu/rehber/KisiselBilgilerCV.php?sicil=746&dil=eng
+       - name: Mustafa Erdem Kabadayı
+         image: /assets/images/2023/Istanbul/mkabadayi.png
+         bio: "Dr. M. Erdem Kabadayı obtained his BSc. and MSc. degrees in Economics from the Middle East Technical University (1995) and the University of Vienna (1999), respectively.  He gained his Ph.D. in History and Culture of the Middle East and Turkology at the University of Munich (2008).  He was awarded the associate professorship in Economic History and the History of Economic Thought by the Inter-University Council of Turkey (2011).  Dr. Kabadayi was the principal investigator of the first ERC Starting Grant (UrbanOccupationsOETR) in the economic history of the Ottoman Empire and Turkey (2016-2022).  Recently he also gained an ERC Proof of Concept Grant (GeoAI_LULC_Seg) in the joint fields of data science, population geography, remote sensing, and history (2022-2024).  His research has been interdisciplinary.  Dr. Kabadayi has published individually and collaboratively in disciplines such as history, digital humanities, data sciences, geographical and earth sciences, and ecology."
+         website: https://scholar.google.com/citations?user=s2YxHr0AAAAJ&hl=en
+
+  
 Speakers:
-  title: Speakers
+  title: Guest Speakers
   people:
        - name: Anita Gohdes
          image: /assets/images/2023/Istanbul/AnitaGohdes.jpeg
@@ -70,15 +95,16 @@ Speakers:
          image: /assets/images/2023/Istanbul/serkant_adiguzel.jpeg
          bio: "Serkant Adıgüzel is an assistant professor of political science at Sabancı University and a non-resident research fellow at Harvard Kennedy School’s Middle East Initiative. He is also part of the Machine Learning for Peace project, which aims to identify shifts in civic space in real-time worldwide. He obtained his Ph.D. in Political Science from Duke University in 2022. His research interests lie at the intersection of the political economy of democratic backsliding, digital media, and public services. His research focuses on two mechanisms through which autocrats build and maintain support: first, their attempts to capture the media and the resulting media bias, and second, the strategic deployment of public services. His research has appeared in journals such as the Journal of Politics, New Perspectives on Turkey, and Journal of Political Institutions and Political Economy."
          website: https://serkantadiguzel.com/
-       - name: Berfin Baydar
-         image: /assets/images/2023/Istanbul/berfin_baydar.png
-         bio: "Berfin Baydar is a Ph.D. student at Sabancı University, specializing in Political Science. She will be continuing her doctoral studies at Duke University beginning in Fall 2023. In 2020, she completed her undergraduate studies in Political Science and Public Administration, with a minor degree in International Relations, at Bilkent University. Following that, she successfully obtained her master’s degree in Political Science from Sabancı University in 2022. Her thesis examined the relationship between civil conflict, voter turnout, and the vote shares of insurgent-affiliated and incumbent parties by focusing on the modifying effect of cleavage types. Currently, she is actively engaged in the Istanbul Telephone Directories Project, where she led the creation of a comprehensive dataset from phone directories dating from 1929 to 1955. Before starting her Ph.D. at Sabancı, she served as a research fellow for the World Health Organization. She conducted field research in Shamakhi, Azerbaijan, and contributed to co-authoring a mid-term evaluation report for the PROACT-Care project. Her research interest lies in the intersection of economic institutions, inequality, and minority politics. She examines the impact of economic policies, tax regulations, welfare programs, and public investments on political disparities, with a specific interest in understanding their influence on voting behavior and electoral outcomes."
-         website:
+
+alumni:
+  title: Alumni Speakers
+  people:
        - name: Veniamin Veselovsky
          image: /assets/images/2023/Istanbul/VeniaminVeselovsky.jpg
          bio: "Veniamin Veselovsky is a research scholar at EPFL Data Science Lab working with Prof. Robert West on aligning AI for human needs. His recent work has focused on generating human-like synthetic data and monitoring LLM usage across various industries -like crowd work. In the past, Veniamin worked at the University of Toronto with Prof. Ashton Anderson building embedding techniques for Reddit and predicting affiliation on OpenStreetMap. He has presented this research both to academia at conferences like ICWSM, IC2S2, CSCW, and to industry -Google. In September, he will join the Max Planck Institute in Germany to work alongside Prof. Ingmar Weber."   
-         website:
-         
+         website:        
+
+
 participants:
   title: Participants
   people:
