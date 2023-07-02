@@ -74,11 +74,10 @@
      - name: "Noon (12.00 - 14.00): Intermediate Tutorial on Natural Language Processing with Python by Dr. Ali Hurriyetoğlu"
      - name: "Afternoon (14.00 - 16.00): Using Facebook Commercial API for Demographic Research by Prof. Ingmar Weber"
      
-     
 - date: 2023-07-05
   name: Day 3
   events:
-     - name: "Morning (10.00 - 12.00): Introduction to OLS and Regression Analysis by Berﬁn Baydar”
+     - name: "Morning (10.00 - 12.00): Introduction to OLS and Regression Analysis by Berﬁn Baydar"
      - name: "Noon (12.00 - 14.00): Free Time"
      - name: "Afternoon (14.00 - 16.00):Diﬀ-in-diﬀ and regression discontinuity design with social media data by Serkant Adıgüzel"
      
