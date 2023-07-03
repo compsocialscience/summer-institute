@@ -11,7 +11,7 @@
     - name: "11:00 - 12:30 Getting to Know Each Other"
     - name: "12:30 - 14:00 Lunch Break"
     - name: "14:00 - 15:30 Research Ethics ([Étienne Ollion](www.ollion.cnrs.fr))"
-    - name: "16:00 - 16:30 Coffee Break"
+    - name: "15:30 - 16:00 Coffee Break"
     - name: "16:00 - 17:30 Research Project Speed Dating"
     
 - date: June 20, 2023
@@ -33,22 +33,22 @@
     - name: "17:00 - 18:30 [Laura Nelson](https://www.lauraknelson.com): Charting the Unbounded Future -- Intersectionality, LLMs, and AI"
     
 - date: June 22, 2023
-  name: Natural Language Processing I
+  name: Web Scraping III
   events:
-    - name: "10:00 - 12:30 Lecture ([Julien Boelaert](https://pro.univ-lille.fr/julien-boelaert))"
+    - name: "10:00 - 12:30 Lecture ([Étienne Ollion](www.ollion.cnrs.fr))"
     - name: "12:30 - 14:00 Lunch Break"
     - name: "14:00 - 16:30 Lab ([Felix Lennert](https://felix-lennert.netlify.app))"
     - name: "16:30 - 17:00 Coffee Break"
     - name: "17:00 - 18:30 [Juan Pablo Pardo-Guerra](https://pardoguerra.org): The Extended Computational Case Method: A Framework for Research Design"
 
 - date: June 23, 2023
-  name: Natural Language Processing II
+  name: Natural Language Processing I
   events:
     - name: "10:00 - 12:30 Lecture ([Julien Boelaert](https://pro.univ-lille.fr/julien-boelaert))"
     - name: "12:30 - 14:00 Lunch Break"
     - name: "14:00 - 16:30 Lab ([Felix Lennert](https://felix-lennert.netlify.app))"
     - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:30 [Paola Tubaro](https://databigandsmall.com/about/) and [Antonio Casilli](https://www.casilli.fr): Gig Workers and Artificial Intelligence"
+    - name: "17:00 - 18:30 [Paola Tubaro](https://databigandsmall.com/about/) and [Antonio Casilli](https://www.casilli.fr): Research Ethics in the Age of AI: Work and the Environment"
 
 
 - date: June 24, 2023
@@ -58,7 +58,7 @@
   name: "off-day"
 
 - date: June 26, 2023
-  name: Natural Language Processing III
+  name: Natural Language Processing II
   events:
     - name: "10:00 - 12:30 Lecture ([Julien Boelaert](https://pro.univ-lille.fr/julien-boelaert))"
     - name: "12:30 - 14:00 Lunch Break"
@@ -67,13 +67,13 @@
     - name: "17:00 - 18:30 [Thierry Poibeau](https://www.lattice.cnrs.fr/en/members/direction/thierry-poibeau/): Natural Language Processing for Social Sciences: Have Large Language Models Killed the Game?"
     
 - date: June 27, 2023
-  name: Natural Language Processing IV
+  name: Natural Language Processing III
   events:
     - name: "10:00 - 12:30 Lecture ([Julien Boelaert](https://pro.univ-lille.fr/julien-boelaert))"
     - name: "12:30 - 14:00 Lunch Break"
-    - name: "14:00 - 16:30 Lab ([Felix Lennert](https://felix-lennert.netlify.app))"
-    - name: "16:30 - 17:00 Coffee Break"
-    - name: "17:00 - 18:00 Start of Group Projects"
+    - name: "14:00 - 15:00 Lab ([Felix Lennert](https://felix-lennert.netlify.app))"
+    - name: "15:00 - 15:30 Coffee Break"
+    - name: "15:30 - 18:00 Start of Group Projects"
 
 - date: June 28, 2023
   name: The Augmented Social Scientist
@@ -81,6 +81,7 @@
     - name: "10:00 - 12:30 Lecture ([Étienne Ollion](www.ollion.cnrs.fr) and Rubing Shen)"
     - name: "12:30 - 14:00 Lunch Break"
     - name: "14:00 - 18:00 Group Projects"
+    - name: "19:00 - 22:00 Farewell Dinner"
     
 - date: June 29, 2023
   name: Group Projects
@@ -88,7 +89,6 @@
     - name: "10:00 - 12:30 Group Projects"
     - name: "12:30 - 14:00 Lunch Break"
     - name: "14:00 - 18:00 Group Projects"
-    - name: "19:00 - 22:00 Farewell Dinner"
     
 - date: June 30, 2023
   name: Final day

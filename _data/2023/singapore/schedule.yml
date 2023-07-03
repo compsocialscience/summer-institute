@@ -31,9 +31,9 @@
   name:
   events:
     - name: "10:00 - 11:40 Hands-on Workshop by Dr. Chao Yu, Cornell University (online); Topic: Investigating Subtle Motivations and Unintended Actions through Text Sentiment Analysis"
-    - name: "11:40 - 13:00 Lunch"
-    - name: "13:00 - 14:40 Hands-on Workshop by Dr. Kokil Jaidka, National University of Singapore (online); Topic: Using large language models for data exploration"
-    - name: "14:40 - 15:10 Tea Break"
+    - name: "11:40 - 13:45 Lunch"
+    - name: "13:45 - 14:45 Guest Lecture by Dr. Tian Yang, The Chinese University of Hong Kong (online); Topic: Using networks to study audience fragmentation"
+    - name: "14:45 - 15:10 Tea Break"
     - name: "15:10 - 16:10 Research Sharing by Participants: 1. Narayani Vedam, National University of Singapore; 2. Nimmagadda Bhargav, Manipal Institute of Communication; 3. Qiaofei Wu, National University of Singapore; 4. Zhuoman Li, Nanyang Technological University; 5. Tint Hla Hla Htoo, Nanyang Technological University"
 
 - date: Friday June 23, 2023

@@ -1,85 +1,162 @@
 - name: Dennis Arku
   image: /assets/images/dennis_arku.jpg
-  description: Dennis Arku is a lecturer at the Department of Statistics and Actuarial Science, University of Ghana, Legon, and a researcher in the field of Applied Statistics and Probability. He holds a PhD in Statistics. His current research interest is focused on big data analytics.
+  bio: Dennis Arku is a lecturer at the Department of Statistics and Actuarial Science, University of Ghana, Legon, and a researcher in the field of Applied Statistics and Probability. He holds a PhD in Statistics. His current research interest is focused on big data analytics.
   website: https://scholar.google.com/citations?user=cPpFvawAAAAJ
-  
+
+
+- name: Rebekka Atakan
+  image: /assets/images/rebekka_atakan.jpg
+  bio: Rebekka Atakan works as a PhD student in an DFG-funded project on the analysis of neighborhood changes in Cologne, Germany by means of a dwelling panel at the University of Bonn. Her dissertation focuses on the perception of urban space, the construction of neighborhood images and the interplay of social and spatial inequality.
+  website: https://www.researchgate.net/profile/Rebekka-Atakan
+
+
 - name: Abi Atamanesh
   image: /assets/images/abi_atamanesh.jpg
-  description: Abi is a research assistant at the University of Tehran. She has a multidisciplinary academic background, holding a master's degree in Cognitive Science and a bachelor's degree in Physics. Her research focuses on exploring the relationship between emotions, human belief systems, and the spread of misinformation in social media. Specifically, Abi is currently investigating the impact of network polarization on the dissemination of misinformation through the use of agent-based models. Her work involves designing and executing a series of experiments to gain insights into this complex phenomenon.
+  bio: Abi is a research assistant at the University of Tehran. She has a multidisciplinary academic background, holding a master's degree in Cognitive Science and a bachelor's degree in Physics. Her research focuses on exploring the relationship between emotions, human belief systems, and the spread of misinformation in social media. Specifically, Abi is currently investigating the impact of network polarization on the dissemination of misinformation through the use of agent-based models. Her work involves designing and executing a series of experiments to gain insights into this complex phenomenon.
+  website:  
+
 
 - name: Samuel Benkimoun
   image: /assets/images/samuel_benkimoun.jpeg
-  description: Samuel Benkimoun is a PhD student at Université Paris-1 Panthéon Sorbonne. He is writing a thesis in Geography, about the interconnection between urban environment, mobility and infectious diseases patterns in Delhi, India. He uses a lot of models and computational methods for spatial analysis, mainly in R. He also has an interest for urban theory and mapping, while trying to develop a critical framework regarding the production and use of spatial data in social science.
+  bio: Samuel Benkimoun is a PhD student at Université Paris-1 Panthéon Sorbonne. He is writing a thesis in Geography, about the interconnection between urban environment, mobility and infectious diseases patterns in Delhi, India. He uses a lot of models and computational methods for spatial analysis, mainly in R. He also has an interest for urban theory and mapping, while trying to develop a critical framework regarding the production and use of spatial data in social science.
+  website:  
+
 
 - name: Meryem Bezzaz
   image: /assets/images/meryem_bezzaz.png
-  description: Meryem Bezzaz is a PhD student at Sciences Po Paris. She holds a Master’s degree in Political Science from McGill University and received a Bachelor's in Economics and Political Science from the University of Montreal (UdeM). She specialises in international political economy and social statistics. Her research project aims to provide a comparative political economy perspective on issues of energy transition, security and poverty/affordability and the impact of crises on energy policy choices in resource-rich and resource-poor countries, focusing on oil.
-  website: https://www.linkedin.com/in/bezzazmeryem/
-  
+  bio: Meryem Bezzaz holds a Master's degree in Political Science from McGill University and received a Bachelor in Economics and Political Science from the University of Montreal (UdeM). Her research project aims to provide a comparative political economy perspective on issues of energy policy choices in the context of crisis.
+  website: www.linkedin.com/in/bezzazmeryem
+
+
+- name: Emma Bonutti D'Agostini
+  image: /assets/images/emma_bonutti.jpg
+  bio: Emma Bonutti D'Agostini is a PhD candidate in Sociology between CREST (Institut Polytechnique) and médialab (Sciences Po Paris). She is entered in studying how far-right discourse spreads through the French and Italian mediaspheres, using computational NLP methodologies. Before that, she was a Master's student in Sociology at Sciences Po Paris.
+  website:  
+
+
 - name: Nicolas Camilotto
   image: /assets/images/nicolas_camilotto.jpg
-  description: I am a historian of economic thought, and I am completing a thesis under the direction of Dorian Jullien at GREDEG (CNRS/Université Côte d'Azur). My research currently focuses on the history of the notion of trust in economic thought.
+  bio: I am a historian of economic thought, and I am completing a thesis under the direction of Dorian Jullien at GREDEG (CNRS/Université Côte d'Azur). My research currently focuses on the history of the notion of trust in economic thought.
   website: https://www.nicolascamilotto.fr/
-  
+
+
 - name: Javier Carbonell
   image: /assets/images/javier_carbonell.png
-  description: Javier Carbonell is a PhD candidate at the University of Edinburgh and a teaching associate at Sciences Po, Paris. His research focuses on how nationalist rhetoric frames environmental issues. He is a Research Fellow at Future Policy Lab, an Associate at LSE IDEAS, a member of ASEN, and writes reguarly for El País.
+  bio: Javier Carbonell is a PhD candidate at the University of Edinburgh and a teaching associate at Sciences Po, Paris. His research focuses on how nationalist rhetoric frames environmental issues. He is a Research Fellow at Future Policy Lab, an Associate at LSE IDEAS, a member of ASEN, and writes reguarly for El País.
   website: https://sites.google.com/view/javiercarbonell/home
- 
+
+
+- name: Yacine Chitour
+  image: /assets/images/yacine_chitour.jpg
+  bio: Yacine Chitour is a master's student in history and sociology at École Normale Supérieure (Paris). In 2022, he defended a master's thesis on digital labour and sex work, and the way they overlap on online platforms. He's currently working on research projects in economic sociology.
+  website:  
+
+
 - name: Annina Claesson
   image: /assets/images/annina_claesson.jpg
-  description: Annina is a PhD candidate in sociology at CREST and Sciences Po Médialab. She researches practices in political communication among parliamentarians and journalists, with a particular interest in social media dynamics, including online violence against public figures.
+  bio: Annina is a PhD candidate in sociology at CREST and Sciences Po Médialab. She researches practices in political communication among parliamentarians and journalists, with a particular interest in social media dynamics, including online violence against public figures.
   website: https://scholar.google.com/citations?user=lYqPQXMAAAAJ&hl=sv&oi=ao
-  
+
+
 - name: Baoning Gong
   image: /assets/images/baoning_gong.jpg
-  description: I am a research assistant and doctoral researcher in the research group Dynamics of Digital Mobilisation at the Weizenbaum-Institute for the Networked Society in Berlin. I investigate the influence of platform functionalities on mobilisation and radicalisation of far-right movements. Prior to that I have completed a Master's degree in Media and Political Communication at the Free University of Berlin.
+  bio: I am a research assistant and doctoral researcher in the research group "Dynamics of Digital Mobilisation" at the Weizenbaum-Institute for the Networked Society in Berlin. I investigate the influence of platform functionalities on mobilisation and radicalisation of far-right movements. Prior to that I have completed a Master's degree in Media and Political Communication at the Free University of Berlin.
   website: https://www.weizenbaum-institut.de/en/spezialseiten/persons-details/p/baoning-gong/
-  
+
+
+- name: Karina Gómez
+  image: /assets/images/karina_gomez.jpeg
+  bio: Karina is a masters student in the Paris School of Economics. She holds a BA in Economics and a MSc in Applied Economics from Instituto Tecnológico Autónomo de México (ITAM). As a research assistant, she has worked on the impact evaluation of programs aimed at improving the quality of education in different middle-income countries.
+  website:  
+
+
 - name: Malo Jan
   image: /assets/images/malo_jan.jpg
-  description: Malo Jan is a Phd candidate in political science at Sciences Po (CEE). His research focuses on politicians' responses to climate change in Western Europe. Using quantitative and computational methods, he aims to identify how politicians from several national parliaments engage with this issue as well as to explain the emergence of intra and inter party conflict over climate policies.
+  bio: Malo Jan is a Phd candidate in political science at Sciences Po (CEE). His research focuses on politicians' responses to climate change in Western Europe. Using quantitative and computational methods, he aims to identify how politicians from several national parliaments engage with this issue as well as to explain the emergence of intra and inter party conflict over climate policies.
+  website: https://twitter.com/malo_jn
+
+
+- name: Gabriel Kallah-Dagadu
+  image: /assets/images/gabriel_kallah-dagadu.jpg
+  bio: Gabriel Kallah-Dagadu holds a PhD degree in Statistics from the University of Cape Coast and an MPhil degree in Statistics from the University of Ghana. Gabriel joined the department as a faculty in September 2014 and has great experience in supervising and teaching students in Statistics, Probability and Data Science. Gabriel is currently, a postdoctoral fellow in health data science with the University of KwaZulu-Natal, South Africa as the host university and two partner universities Harvard T. H. Chan School of Public Health, USA and Heidelberg Institute of Global Health, Germany. His research interests are centred on applied probability, computational statistics, and machine learning with real-life applications to Genome and Cancer Research, Climate change, Nutrition, and Health.
+  website: https://www.linkedin.com/in/gabriel-kallah-dagadu-17684058/
+
+
+- name: Elif Kılık
+  image: /assets/images/elif_kilik.jpg
+  bio: Elif Kılık is a researcher and a PhD candidate at the University of Antwerp. Her research is primarily centered around news content diversity, wherein she utilizes computational methods to extract information from news texts. Additionally, she leads work groups for statistics courses offered to undergraduate students pursuing a bachelor's degree in Communication Sciences at the University of Amsterdam.
+  website: https://twitter.com/KilikElif
+
 
 - name: Sebastien Le Moing
-  image: /assets/images/sebastien_le moing.jpg
-  description: Sébastien Le Moing is a PhD candidate in Political Science at Sciences Po Bordeaux. His research explores the historical roots and political dynamics of contemporary sensitivities with a case study on French moral evolutions regarding racism from the 1880s to present day. Building on data from various sources (handbooks, pupils’ notebooks, survey data…), Sébastien is interested in applying computational methods to large archival datasets to track changes in emotions and identifications over time.
+  image: /assets/images/sebastien_le_moing.jpg
+  bio: Sébastien Le Moing is a PhD candidate in Political Science at Sciences Po Bordeaux. His research explores the historical roots and political dynamics of contemporary sensitivities with a case study on French moral evolutions regarding racism from the 1880s to present day. Building on data from various sources (handbooks, pupils’ notebooks, survey data…), Sébastien is interested in applying computational methods to large archival datasets to track changes in emotions and identifications over time.
+  website:  
+
 
 - name: Maïlys Mangin
-  image: /assets/images/maïlys_mangin.jpeg
-  description: Maïlys Mangin is a post-doctoral researcher at the French Air Force Academy Research Center. Her research in international political sociology focuses on the strategic uses of information, expertise and law in international nuclear negotiations. Using automatic arguments mining, she currently work on the analysis of controversies and disinformation operations in the context of the war in Ukraine. She is also an associate with the project on Managing the Atom at the Harvard Kennedy School, where she was Research Fellow (2020-2022).
+  image: /assets/images/mailys_mangin.jpeg
+  bio: Maïlys Mangin is a post-doctoral researcher at the French Air Force Academy Research Center. Her research in international political sociology focuses on the strategic uses of information, expertise and law in international nuclear negotiations. Using automatic arguments mining, she currently work on the analysis of controversies and disinformation operations in the context of the war in Ukraine. She is also an associate with the project on Managing the Atom at the Harvard Kennedy School, where she was Research Fellow (2020-2022).
   website: https://www.linkedin.com/in/maïlys-m-5326b635/
-  
+
+
 - name: Phoebé Pigenet
-  image: /assets/images/phoebé_pigenet.jpg
-  description: Phoebé Pigenet is a PhD student in media studies at the University of Paris-Panthéon-Assas (CARISM). She is currently working on a thesis on digital spaces, discourses and uses of the self-representation of bodies that deviate from the female beauty norm, under the supervision of Cécile Méadel. Her work focuses on the representations of acne, age and female fatness on media sharing platforms (Instagram, Tik Tok and Youtube).
+  image:
+  bio: Phoebé Pigenet is a PhD student in media studies at the University of Paris-Panthéon-Assas (CARISM). She is currently working on a thesis on digital spaces, discourses and uses of the self-representation of bodies that deviate from the female beauty norm, under the supervision of Cécile Méadel. Her work focuses on the representations of acne, age and female fatness on media sharing platforms (Instagram, Tik Tok and Youtube). In 2022, she conducted a master thesis on the activist dynamics highlighted by the hashtag Plusde70kgetsereine on Twitter.
+  website: https://twitter.com/PhoebzP
+
 
 - name: Luis Sattelmayer
   image: /assets/images/luis_sattelmayer.jpg
-  description: I am a PhD candidate at SciencesPo. After a BA in political humanities, I pursued an MA in Comparative Politics where I discovered quantitative methods. In my PhD, I am interested in mainstream parties' issue engagement with the far-right's salient issues and how this might explain their electoral decline.
-  
+  bio: I am a PhD candidate at SciencesPo. After a BA in political humanities, I pursued an MA in Comparative Politics where I discovered quantitative methods. In my PhD, I am interested in mainstream parties' issue engagement with the far-right's salient issues and how this might explain their electoral decline.
+  website: https://twitter.com/luissattelmayer
+
+
+- name: Janine Schröder
+  image: /assets/images/janine_schroeder.jpg
+  bio: Janine is a Ph.D. candidate at the Department for Political Science Methodology at the University of Regensburg. She holds a B.A. in Social Science from the University of Augsburg and an M.A. in Criminology and Violence Studies from the University of Regensburg. During her Masters, she worked as a research assistant in the forensic psychiatry of Regensburg. Her Doctoral Thesis focuses on anti-fascist online networks and the quantitative classification of textual content across Europe. She draws on interdisciplinary theoretical elements and computational methods to study anti-fascist movements.
+  website: https://www.uni-regensburg.de/philosophie-kunst-geschichte-gesellschaft/methoden-politikwissenschaft/mitarbeiterinnen/janine-schroeder-ma/index.html
+
+
 - name: Florian Steig
   image: /assets/images/florian_steig.jpg
-  description: Florian Steig works as a pre-doc at the Department of Political Science at the University of Vienna. His research uses Natural Language Processing for the analysis of climate discourses. Florian holds a BA in Political Science from the University of Hamburg and an MSc in Global Politics from the LSE.
-  
+  bio: Florian Steig works as a pre-doc at the Department of Political Science at the University of Vienna. His research uses Natural Language Processing for the analysis of climate discourses. Florian holds a BA in Political Science from the University of Hamburg and an MSc in Global Politics from the LSE.
+  website:  
+
+
 - name: Leonie Steinbrinker
   image: /assets/images/leonie_steinbrinker.jpg
-  description: Leonie Steinbrinker is currently a PhD candidate in Sociology at Leipzig University, specializing in the use of computational methods to investigate the underlying mechanisms of how social influence in social media communication is shaping opinions and behavior. Her research approach is theory-induced, and she applies network analysis and natural language processing methods to analyze large-scale behavioral data.
-  
+  bio: Leonie Steinbrinker is currently a PhD candidate in Sociology at Leipzig University, specializing in the use of computational methods to investigate the underlying mechanisms of how social influence in social media communication is shaping opinions and behavior. Her research approach is theory-induced, and she applies network analysis and natural language processing methods to analyze large-scale behavioral data.
+  website:  
+
+
 - name: Daria Szafran
   image: /assets/images/daria_szafran.jpg
-  description: Daria is pursuing a PhD in Sociology at the University of Mannheim. Her research focuses broadly on the social impact of AI. In her recent work, Daria is investigating subjective fairness perceptions in the context of automated decision making. She enjoys working both with quantitative as well as qualitative methods.
-  
+  bio: Daria is pursuing a PhD in Sociology at the University of Mannheim. Her research focuses broadly on the social impact of AI. In her recent work, Daria is investigating subjective fairness perceptions in the context of automated decision making. She enjoys working both with quantitative as well as qualitative methods.
+  website:  
+
+
 - name: Jakob Tures
   image: /assets/images/jakob_tures.jpg
-  description: Jakob Tures is a PhD student in Sociology at the University of Potsdam. His research concerns the interplay of demand and supply in right-wing populism, i.e. the extent to which voters' expectations and the positions as well as behaviours of the elected align. He employs natural language processing in analysing the supply-side based on official documents and digitally collected text data.
+  bio: Jakob Tures is a PhD student in Sociology at the University of Potsdam. His research concerns the interplay of demand and supply in right-wing populism, i.e. the extent to which voters' expectations and the positions as well as behaviours of the elected align. He employs natural language processing in analysing the supply-side based on official documents and digitally collected text data.
   website: https://www.linkedin.com/in/jakob-tures-b76056176/
-  
+
+
 - name: Claudia Uebler
   image: /assets/images/claudia_uebler.jpg
-  description: Claudia Uebler is a Post-Doctoral Fellow at the Department of Educational Sciences, University of Regensburg, and holds a Ph.D. in Physics. Her research analyzes the dropout risk of girls in STEM within an online mentoring program, using time-dependent dynamics in communication and networking behavior. In doing so, she is pursuing a second Ph.D.
+  bio: Claudia Uebler is a Post-Doctoral Fellow at the Department of Educational Sciences, University of Regensburg, and holds a Ph.D. in Physics. Her research analyzes the dropout risk of girls in STEM within an online mentoring program, using time-dependent dynamics in communication and networking behavior. In doing so, she is pursuing a second Ph.D.
   website: https://scholar.google.com/citations?user=z7rU8OwAAAAJ&hl=en&oi=ao
-  
+
+
+- name: Mikael Wallin
+  image: /assets/images/mikael_wallin.png
+  bio: Mikael Wallin is doctoral researcher of sociology at Tampere University in Finland. His research focuses on social media platforms, public discourse and cultural stratification. He is currently working in the research project CuWoC (Cultures of the working class in the 2020s) where he is using computational methods such as topic modeling as part of a mixed methods research design to analyse large datasets of online discussions.
+  website: https://www.linkedin.com/in/mikael-wallin-525491a7
+
+
 - name: Shuyu Zhang
   image: /assets/images/shuyu_zhang.jpg
-  description: Shuyu Zhang is a PhD Candidate in the Department of Urbanism, Faculty of Architecture and the Built Environment at Delft University of Technology. Her research focuses on the impact of social media on places and urban environment, especially the digital placemaking, mediatization, gentrification, tourisfication, neighborhood change and urban inequalities. Her main interests include urban regeneration, urban analytics and interventions, data-driven urban design and urban studies. Her methodology combines mixed research methods, social media data analysis, text mining, and social network analysis. She holds a master’s degree in Architecture from Tongji University and has experience in Computional Urban Design Lab.
+  bio: Shuyu Zhang is a PhD Candidate in the Department of Urbanism, Faculty of Architecture and the Built Environment at Delft University of Technology. Her research focuses on the impact of social media on places and urban environment, especially the digital placemaking, mediatization, gentrification, tourisfication, neighborhood change and urban inequalities. Her main interests include urban regeneration, urban analytics and interventions, data-driven urban design and urban studies. Her methodology combines mixed research methods, social media data analysis, text mining, and social network analysis. She holds a master’s degree in Architecture from Tongji University and has experience in Computional Urban Design Lab.
   website: https://www.linkedin.com/in/shuyu-zhang-340a58174
+
+
