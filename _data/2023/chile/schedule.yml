@@ -1,11 +1,9 @@
 - date: July 17 to July 27, 2023
   events:
     - name: "We will update our tentative schedule [here](https://docs.google.com/spreadsheets/d/1EIINavEv7D1vsz8xdrMjNuUyurodpXN4r8f_HIFwqOM/edit?usp=sharing). Participants will enjoy intensive learning in the first week based on tutorials, group discussions, lectures, and keynotes. The second week will focus on research projects developed by participants, specialized workshops, and finishing with group project presentations. Our program focuses on ethical issues of big data, text analysis, networks, and visualization. In addition, we will invite guest speakers to provide an overview of state-of-the-art developments in machine learning and social sciences, expanding to topics such as image-as-data and surveys."
-  
-- date: All times are in Santiago/Chile timezone (UTC-4)
 
-- date: 2023-07-17
-  name: Day 1: Introduction and Ethics
+- date: Monday July 17, 2023
+  name: "Day 1: Introduction and Ethics"
   events: 
     - name: "09:30 - 10:00 Orientation: introduction of organizers, goals/expectation of the program, means of communications (e.g., slack)"
     - name: "10:00 - 11:00 Overview Lecture: What is Computational Social Science? - Andres Abeliuk et al."
