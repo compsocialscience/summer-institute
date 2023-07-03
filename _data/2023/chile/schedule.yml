@@ -1,6 +1,6 @@
-- date: July 17 to July 27, 2023
-  events:
-    - name: "We will update our tentative schedule [here](https://docs.google.com/spreadsheets/d/1EIINavEv7D1vsz8xdrMjNuUyurodpXN4r8f_HIFwqOM/edit?usp=sharing). Participants will enjoy intensive learning in the first week based on tutorials, group discussions, lectures, and keynotes. The second week will focus on research projects developed by participants, specialized workshops, and finishing with group project presentations. Our program focuses on ethical issues of big data, text analysis, networks, and visualization. In addition, we will invite guest speakers to provide an overview of state-of-the-art developments in machine learning and social sciences, expanding to topics such as image-as-data and surveys."
+- date: All times are in Santiago, Chile (UTC-4) Time.
+  name: "We will update our tentative schedule [here](https://docs.google.com/spreadsheets/d/1EIINavEv7D1vsz8xdrMjNuUyurodpXN4r8f_HIFwqOM/edit?usp=sharing). Participants will enjoy intensive learning in the first week based on tutorials, group discussions, lectures, and keynotes. The second week will focus on research projects developed by participants, specialized workshops, and finishing with group project presentations. Our program focuses on ethical issues of big data, text analysis, networks, and visualization. In addition, we will invite guest speakers to provide an overview of state-of-the-art developments in machine learning and social sciences, expanding to topics such as image-as-data and surveys."
+
 
 - date: Monday July 17, 2023
   name: "Day 1: Introduction and Ethics"
@@ -10,8 +10,53 @@
     - name: "11:00 - 11:30 Morning coffee"
     - name: "11:30 - 13:00 Small group activity"
     - name: "13:00 - 14:00 Lunch"
-    - name: "14:00 - 15:00 Lecture: Speaker on Data and Ethics - Claudia Lopez"
+    - name: "14:00 - 15:00 Keynote: Speaker on Data and Ethics - Claudia Lopez"
     - name: "15:00 - 16:00 Ethics Case (small group discussions)"
+
+
+- date: Tuesday July 18, 2023
+  name: "Day 2: Knowledge graphs/Natural Language Processing"
+  events: 
+    - name: "09:30 - 11:00 Lecture: Knowledge graphs - Sebastián Ferrada"
+    - name: "11:00 - 11:30 Morning coffee"
+    - name: "11:30 - 13:00 Workshop: Querying Wikidata - Sebastián Ferrada"
+    - name: "13:00 - 14:00 Lunch"
+    - name: "14:00 - 15:00 Lecture: Text Analysis/NLP intro - Pedro Seguel"
+    - name: "15:00 - 16:30 Workshop: Text Analysis I - Jorge Ortiz"
+
+- date: Wednesday July 19, 2023
+  name: "Day 3: Text Analysis/Natural Language Processing"
+  events: 
+    - name: "09:30 - 11:00 Workshop: Text Analysis II - Gabriel Iturra"
+    - name: "11:00 - 11:30 Morning coffee"
+    - name: "11:30 - 13:00 Keynote: Large Language Models - Felipe Bravo"
+    - name: "13:00 - 14:00 Lunch"
+    - name: "14:00 - 15:30 Workshop: Web Scrapping - Gabriel Iturra"
+    - name: "15:30 - 16:30 Group exercises"
+
+
+- date: Thursday July 20, 2023
+  name: "Day 4: Visualization and Data Analysis"
+  events: 
+    - name: "09:30 - 11:00 Lecture: Data Visualization  - Cinthia Sánchez"
+    - name: "11:00 - 11:30 Morning coffee"
+    - name: "11:30 - 13:00 Workshop: Data Visualization  - Cinthia Sánchez"
+    - name: "13:00 - 14:00 Lunch"
+    - name: "14:00 - 15:30 Lecture: Unsupervised Learning -  Hernán Sarmiento"
+    - name: "15:30 - 16:30 Workshop: Unsupervised Learning -  Hernán Sarmiento"
+
+
+- date: Friday July 21, 2023
+  name: "Day 5: Research Speed Dating/Group Formation"
+  events: 
+    - name: "09:30 - 11:00 Keynote: Plataforma Telar -Juan Pablo Luna"
+    - name: "11:00 - 11:30 Morning coffee"
+    - name: "11:30 - 13:00 Research Speed Dating Logistics"
+    - name: "13:00 - 14:00 Lunch"
+    - name: "14:00 - 15:00 Research Speed Dating Maximally Similar Groups"
+    - name: "15:00 - 16:00 Research Speed Dating Maximally Dissimilar Groups"
+    - name: "16:00 - 16:30 Group Debrief (Project selection)"
+    
 
 
 
