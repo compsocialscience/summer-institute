@@ -7,6 +7,11 @@
   image: /assets/images/fbravo2023.png
   bio: "Felipe Bravo-Marquez is Assistant Professor with the Department of Computer Science at the University of Chile, Associate Researcher at the National Center for Artificial Intelligence Research (CENIA) , and Young Researcher at Millennium Institute for Foundational Research on Data (IMFD). He conducted his PhD degree in the Machine Learning Group at the University of Waikato, New Zealand, where he also held a research fellow position for two years. He currently holds an Honorary Research Associate position with this group. Previously, he received two engineering degrees in the fields of computer science and industrial engineering, and a masters degree in computer science, all from the University of Chile. His research interests and expertise lie in the acquisition of knowledge and information from natural language, spanning the overlapping fields of natural language processing (NLP), machine learning (ML), artificial intelligence (AI), and information retrieval (IR). During his research career he has developed several NLP and ML methods for the analysis of opinions and emotions in social media, as well as other applications focused on fairness, health, education, among others. His work has been published in top tier AI conferences and journals e.g., IJCAI, ICWSM, SIGIR, EACL, COLING, ECAI, JMLR, Knowledge-based Systems. He has been part of the program committees of important conferences in natural language processing and artificial intelligence, including ACL, AAAI, EMNLP, NAACL, IJCAI, and ECAI."
   website: https://felipebravom.com/
+
+- name: Jazmine Maldonado
+  image: /assets/images/jmaldonado2023.jpg
+  bio: "Jazmine Maldonado is the Chief Executive of the Innovation and Technology Transfer Direction at the Millenium Institute Foundational Research on Data. She holds a Master's degree in Computer Science from the University of Chile, where her research areas of interest focused on Information Retrieval, Data Mining, and Data Visualization. Currently, she is dedicated to management and agile methodologies applied to data science projects. Jazmine is also a co-founder of an NGO called Niñas Pro, which aims to empower girls through teaching them to code."
+  website: https://innovacion.imfd.cl/about
   
 - name: Gonzalo Rivero
   image: /assets/images/grivero2023.jpg
