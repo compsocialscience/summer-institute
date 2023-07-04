@@ -70,9 +70,9 @@
 - date: 2023-07-04
   name: Day 2
   events:
-     - name: "Morning (10.00 - 12.00): Intermediate Tutorial on Natural Language Processing with Python by Dr. Ali Hurriyetoğlu"
-     - name: "Noon (12.00 - 14.00): Intermediate Tutorial on Natural Language Processing with Python by Dr. Ali Hurriyetoğlu"
-     - name: "Afternoon (14.00 - 16.00): Using Facebook Commercial API for Demographic Research by Prof. Ingmar Weber"
+     - name: "Morning (10.00 - 12.00): Intermediate Tutorial on [Natural Language Processing with Python I](https://youtu.be/a17J8GnLsX8) by Dr. Ali Hurriyetoğlu"
+     - name: "Noon (12.00 - 14.00): Intermediate Tutorial on [Natural Language Processing with Python II](https://youtu.be/w2nrYSJx1-w) by Dr. Ali Hurriyetoğlu"
+     - name: "Afternoon (14.00 - 16.00): [What Advertising Data Tells us About the World](https://www.youtube.com/watch?v=me253hTr-os) by Prof. Ingmar Weber"
      
 - date: 2023-07-05
   name: Day 3
