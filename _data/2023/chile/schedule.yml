@@ -2,11 +2,11 @@
   name: "Day 1: Introduction and Ethics"
   events: 
     - name: "09:30 - 10:00 Orientation: introduction of organizers, goals/expectation of the program, means of communications (e.g., slack)"
-    - name: "10:00 - 11:00 Overview Lecture: What is Computational Social Science? - Andres Abeliuk et al."
+    - name: "10:00 - 11:00 Overview Lecture: What is Computational Social Science? - Andrés Abeliuk et al."
     - name: "11:00 - 11:30 Morning coffee"
     - name: "11:30 - 13:00 Small group activity"
     - name: "13:00 - 14:00 Lunch"
-    - name: "14:00 - 15:00 Keynote: Speaker on Data and Ethics - Claudia Lopez"
+    - name: "14:00 - 15:00 Keynote: Speaker on Data and Ethics - Claudia López"
     - name: "15:00 - 16:00 Ethics Case (small group discussions)"
 
 
@@ -25,7 +25,7 @@
   events: 
     - name: "09:30 - 11:00 Workshop: Text Analysis II - Gabriel Iturra"
     - name: "11:00 - 11:30 Morning coffee"
-    - name: "11:30 - 13:00 Keynote: Large Language Models - Felipe Bravo"
+    - name: "11:30 - 13:00 Keynote: Large Language Models - Felipe Bravo-Márquez"
     - name: "13:00 - 14:00 Lunch"
     - name: "14:00 - 15:30 Workshop: Web Scrapping - Gabriel Iturra"
     - name: "15:30 - 16:30 Group exercises"
@@ -52,9 +52,54 @@
     - name: "14:00 - 15:00 Research Speed Dating Maximally Similar Groups"
     - name: "15:00 - 16:00 Research Speed Dating Maximally Dissimilar Groups"
     - name: "16:00 - 16:30 Group Debrief (Project selection)"
+
+- date: Saturday July 22, 2023
+  name: "Day off"
     
+- date: Sunday July 23, 2023
+  name: "Day off"
+
+- date: Monday July 24, 2023
+  name: "Day 6:  Work on group projects + Workshop"
+  events: 
+    - name: "09:30 - 11:00 Lecture/Talk: Innovación y Transferencia Tecnológica, IMFD - Jazmine Maldonado "
+    - name: "11:00 - 11:30 Morning coffee"
+    - name: "11:30 - 13:00 Keynote: Network Analysis - Marcelo Mendoza"
+    - name: "13:00 - 14:00 Lunch"
+    - name: "14:00 - 15:00 Project Time"
+    - name: "15:00 - 15:15 Short Break"
+    - name: "15:15 - 16:30 Project Time"
+
+- date: Tuesday July 25, 2023
+  name: "Day 7:  Work on group projects + Workshop"
+  events: 
+    - name: "09:30 - 11:00 Keynote: Experimentos online - Mauricio Bucca"
+    - name: "11:00 - 11:30 Morning coffee"
+    - name: "11:30 - 13:00 Workshop: Network - Andrés Abeliuk"
+    - name: "13:00 - 14:00 Lunch"
+    - name: "14:00 - 15:00 Project Time - Claudio Gutiérrez (Ethics discussion about projects)"
+    - name: "15:00 - 15:15 Short Break"
+    - name: "15:15 - 16:30 Project Time"
 
 
-
+- date: Wednesday July 26, 2023
+  name: "Day 8:  Work on group projects + Workshop"
+  events: 
+    - name: "09:30 - 11:00 Lecture/Talk: Pew Research Center, DataLabs - Gonzalo Riveros, Zoom"
+    - name: "11:00 - 11:30 Morning coffee"
+    - name: "11:30 - 13:00 Industry Panel, DESU (Cristián Ayala), Antonio Díaz-Araujo(Ulhoster)" 
+    - name: "13:00 - 14:00 Lunch"
+    - name: "14:00 - 15:00 Project Time"
+    - name: "15:00 - 15:15 Short Break"
+    - name: "15:15 - 16:30 Project Time"
     
-
+- date: Thursday July 27, 2023
+  name: "Day 9:  Work on group projects + Workshop"
+  events: 
+    - name: "09:30 - 11:00 Lecture/Talk"
+    - name: "11:00 - 11:30 Morning coffee"
+    - name: "11:30 - 13:00 Fine-tuning Group Presentation Details" 
+    - name: "13:00 - 14:00 Lunch"
+    - name: "14:00 - 15:00 Group Presentation"
+    - name: "15:00 - 15:15 Short Break"
+    - name: "15:15 - 16:30 Group Presentation"
