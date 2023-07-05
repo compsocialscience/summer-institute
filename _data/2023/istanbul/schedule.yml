@@ -79,7 +79,7 @@
   events:
      - name: "Morning (10.00 - 12.00): Introduction to OLS and Regression Analysis by Berﬁn Baydar"
      - name: "Noon (12.00 - 14.00): Free Time"
-     - name: "Afternoon (14.00 - 16.00):Diﬀ-in-diﬀ and regression discontinuity design with social media data by Serkant Adıgüzel"
+     - name: "Afternoon (14.00 - 16.00):Diﬀ-in-diﬀ and regression discontinuity design with social media data by Serkant Adıgüzel - [Dataset](https://www.dropbox.com/s/onxase09awebm9d/sicss_did_application_data.xlsx?dl=0), [Instructions for the qss-package](https://kosukeimai.github.io/qss-package/)"
      
 - date: 2023-07-06
   name: Day 4
