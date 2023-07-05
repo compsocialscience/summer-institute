@@ -8,43 +8,38 @@
   name:  Welcome Event and R Refresher
   events:
     - name: "19:00-19:30 Zoom Welcome session and the commencement of the pre-SICSS period"
-    - name: "19:30-21:30 [R refresher course by Ahmet Kurnaz](https://www.youtube.com/watch?v=rRcj_Dwmrmo)"
+    - name: "19:30-21:30 R refresher course by Ahmet Kurnaz - [Record](https://www.youtube.com/watch?v=rRcj_Dwmrmo), [Codes](https://github.com/compsocialscience/summer-institute/tree/master/2023/istanbul/materials/Intro%20to%20R)"
 
 - date: 2023-06-22
   name:  Python refresher
   events:
-    - name: "19:00-21:00 [Python refresher course by Fuat Kina](https://www.youtube.com/watch?v=sydrOFfWAQU)"
-
-- date: 2023-06-22
-  name:  Python refresher
-  events:
-    - name: "19:00-21:00 [Python refresher course by Fuat Kina](https://www.youtube.com/watch?v=sydrOFfWAQU)"
+    - name: "19:00-21:00 Python refresher course by Fuat Kina - [Record](https://www.youtube.com/watch?v=sydrOFfWAQU)"
 
 - date: 2023-06-23
   name:  Text analysis and intro to NLP with R
   events:
-    - name: "19:00-21:00 [Intro to Text Analysis by Akin Unver](https://www.youtube.com/watch?v=NHr9J1tgONU)"
+    - name: "19:00-21:00 Intro to Text Analysis by Akin Unver - [Record](https://www.youtube.com/watch?v=NHr9J1tgONU)"
 
 - date: 2023-06-24
   name:  Web Scraping Refresher
   events:
-    - name: "[Web Scraping with Python by Fuat Kina](https://www.youtube.com/watch?v=MlMGEEudkrg)"
-    - name: "[Web Scraping with R by Akin Unver](https://www.youtube.com/watch?v=dVN5aEmX1Lo)"
+    - name: "Web Scraping with Python by Fuat Kina - [Record](https://www.youtube.com/watch?v=MlMGEEudkrg)"
+    - name: "Web Scraping with R by Akin Unver - [Record](https://www.youtube.com/watch?v=dVN5aEmX1Lo)"
 
 - date: 2023-06-25
   name:  Reading Assignments
   events:
-    - name: "[Link](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS%20Tasks/Reading_List.md)"
+    - name: "[List](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/istanbul/Pre-SICSS%20Tasks/Reading_List.md)"
 
 - date: 2023-06-26
   name:  Exploratory Data Analysis with Python
   events:
-    - name: "19:00-21:00 [Data cleaning, wrangling and manipulation by Uzay Cetin](https://www.youtube.com/watch?v=1qXMARNepOY)"
+    - name: "19:00-21:00 Data cleaning, wrangling and manipulation by Uzay Cetin - [Record](https://www.youtube.com/watch?v=1qXMARNepOY), [Materials](https://github.com/compsocialscience/summer-institute/tree/master/2023/istanbul/materials/Python%20Data%20Analysis)"
 
 - date: 2023-06-27
   name:  Data Visualization with R
   events:
-    - name: "19:00-21:00 [Introduction to Data Visualization with GGPlot](https://www.youtube.com/watch?v=j8YJh10P2ew)"
+    - name: "19:00-21:00 Introduction to Data Visualization with GGPlot -[Record](https://www.youtube.com/watch?v=j8YJh10P2ew), [Materials](https://github.com/compsocialscience/summer-institute/tree/master/2023/istanbul/materials/Intro%20to%20Visualization%20with%20R)"
 
 - date: 2023-06-28 
   name: Kurban Bayram Break
@@ -63,23 +58,23 @@
 - date: 2023-07-03
   name: Day 1
   events:
-     - name: "Morning (10.00 - 12.00): Matching Survey Data with Social Media Data by Fuat Kına - Şükrü Atsızelti"
-     - name: "Noon (12.00 - 14.00): Changing Role of Social Scientists in the Computational Age by Prof. Anita Gohdes"
+     - name: "Morning (10.00 - 12.00): Matching Survey Data with Social Media Data by Fuat Kına - Şükrü Atsızelti - [Materials](https://github.com/compsocialscience/summer-institute/blob/master/2023/istanbul/materials/Fuat-%20Linking%20Survey%20Data/SICSS23%20Linking%20Digital%20Traces%20and%20Survey%20Data%20(1).pdf)"
+     - name: "Noon (12.00 - 14.00): Changing Role of Social Scientists in the Computational Age by Prof. Anita Gohdes - [Paper](https://github.com/compsocialscience/summer-institute/blob/master/2023/istanbul/materials/Gohdes-Social%20Media%20Data/GohdesSteinertThrelkeld.pdf)"
      - name: "Afternoon (14.00 - 16.00): New Advances in Computer Vision and Image Analysis by Prof. Lale Akarun"
      
 - date: 2023-07-04
   name: Day 2
   events:
-     - name: "Morning (10.00 - 12.00): Intermediate Tutorial on Natural Language Processing with Python by Dr. Ali Hurriyetoğlu"
-     - name: "Noon (12.00 - 14.00): Intermediate Tutorial on Natural Language Processing with Python by Dr. Ali Hurriyetoğlu"
-     - name: "Afternoon (14.00 - 16.00): Using Facebook Commercial API for Demographic Research by Prof. Ingmar Weber"
+     - name: "Morning (10.00 - 12.00): Intermediate Tutorial on Natural Language Processing with Python I by Dr. Ali Hurriyetoğlu - [Record](https://youtu.be/a17J8GnLsX8), [Materials](https://github.com/compsocialscience/summer-institute/tree/master/2023/istanbul/materials/Advanced%20NLP%20with%20Python)"
+     - name: "Noon (12.00 - 14.00): Intermediate Tutorial on Natural Language Processing with Python II by Dr. Ali Hurriyetoğlu - [Record](https://youtu.be/w2nrYSJx1-w), [Materials](https://github.com/compsocialscience/summer-institute/tree/master/2023/istanbul/materials/Advanced%20NLP%20with%20Python)"
+     - name: "Afternoon (14.00 - 16.00): [What Advertising Data Tells us About the World](https://www.youtube.com/watch?v=me253hTr-os) by Prof. Ingmar Weber"
      
 - date: 2023-07-05
   name: Day 3
   events:
-     - name: "Morning (10.00 - 12.00): Introduction to OLS and Regression Analysis by Berﬁn Baydar"
+     - name: "Morning (10.00 - 12.00): Introduction to OLS and Regression Analysis by Berﬁn Baydar - [Materials](https://github.com/compsocialscience/summer-institute/tree/master/2023/istanbul/materials/OLS), "
      - name: "Noon (12.00 - 14.00): Free Time"
-     - name: "Afternoon (14.00 - 16.00):Diﬀ-in-diﬀ and regression discontinuity design with social media data by Serkant Adıgüzel"
+     - name: "Afternoon (14.00 - 16.00): Diﬀ-in-diﬀ and regression discontinuity design with social media data by Serkant Adıgüzel - [Materials](https://github.com/compsocialscience/summer-institute/tree/master/2023/istanbul/materials/Diff-in-Diff), [Instructions for the qss-package](https://kosukeimai.github.io/qss-package/)"
      
 - date: 2023-07-06
   name: Day 4
@@ -91,16 +86,16 @@
 - date: 2023-07-07
   name: Day 5
   events:
-     - name: "Morning (10.00 - 12.00): Introduction to Network Analysis and Basic Principles in Homophily by Dr. Onur Varol"
-     - name: "Noon (12.00 - 14.00): Free Time"
+     - name: "Morning (10.00 - 12.00): What is a computer scientist doing in the Ottoman Bank archives? by Prof. Selim Balcisoy"
+     - name: "Noon (12.00 - 14.00): Introduction to Network Analysis and Basic Principles in Homophily by Dr. Onur Varol"
      - name: "Afternoon (14.00 - 16.00): Intermediate Network Analysis and Community Detection by Dr. Başak Taraktaş"
      
 - date: 2023-07-08
   name: Day 6
   events:
      - name: "Morning (10.00 - 12.00): Introduction to Computer Vision and Image Detection by Mert Küçük (Oda Studio)"
-     - name: "Noon (12.00 - 14.00): Free time / Relax in Bebek Area"
-     - name: "Afternoon (14.00 - 16.00): Research Clusters Forming Discussions"
+     - name: "Noon (12.00 - 14.00): Synthetic Image Analysis in Geopolitical Events and Armed Conflicts by Ergin Selim Gonen"
+     - name: "Afternoon (14.00 - 16.00): Free time / Relax in Bebek Area"
      - name: "21:00 Shuttle back to Ozyegin picks up"
      
 - date: 2023-07-09
