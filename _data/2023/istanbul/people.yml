@@ -91,14 +91,13 @@ Speakers:
          image: /assets/images/2023/Istanbul/serkant_adiguzel.jpeg
          bio: "Serkant Adıgüzel is an assistant professor of political science at Sabancı University and a non-resident research fellow at Harvard Kennedy School’s Middle East Initiative. He is also part of the Machine Learning for Peace project, which aims to identify shifts in civic space in real-time worldwide. He obtained his Ph.D. in Political Science from Duke University in 2022. His research interests lie at the intersection of the political economy of democratic backsliding, digital media, and public services. His research focuses on two mechanisms through which autocrats build and maintain support: first, their attempts to capture the media and the resulting media bias, and second, the strategic deployment of public services. His research has appeared in journals such as the Journal of Politics, New Perspectives on Turkey, and Journal of Political Institutions and Political Economy."
          website: https://serkantadiguzel.com/
-       - name: Mert Kucuk
+       - name: Mert Küçük
          image: /assets/images/2023/Istanbul/mertkucuk.png
          bio: "Mert is a graduate of Computer Science from Bilkent University, which he successfully completed in 2011. His startup was granted acceptance into the prestigious Y Combinator, a renowned startup accelerator program. With a versatile skill set and extensive expertise in the fields of Computer Vision and Entrepreneurship, Mert has held prominent positions as the Head of AI for several forward-thinking startups, where his contributions have significantly influenced their growth and success. Presently, Mert serves as the Head of AI at Oda Studio, where he continues to lead cutting-edge solutions in computer vision, image analysis, and object detection."
-         website: https://serkantadiguzel.com/
        - name: Ergin Selim Gonen
          image: /assets/images/2023/Istanbul/ErginSelimGonen.jpeg
          bio: "Ergin Selim Gönen holds an undergraduate degree in Electrical and Electronics Engineering with a specialization in Control Theory from Bilkent University in 2006. In 2008, he completed an MBA degree at Sabancı University. His professional background encompasses strategy consulting, sales, software development, and entrepreneurship in companies that specialize in computer vision and synthetic image data. Currently, Selim is the founder of Mirage, where he focuses on the generation of synthetic image data using 3D rendering techniques. As the founder of Mirage, Selim is intimately involved in international computer vision projects, current frontiers in synthetic data and most key use cases of 3D rendering in industry applications."
-         website: https://serkantadiguzel.com/
+
          
 alumni:
   title: Alumni Speakers
