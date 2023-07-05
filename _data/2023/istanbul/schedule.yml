@@ -70,8 +70,8 @@
 - date: 2023-07-04
   name: Day 2
   events:
-     - name: "Morning (10.00 - 12.00): Intermediate Tutorial on [Natural Language Processing with Python I](https://youtu.be/a17J8GnLsX8) by Dr. Ali Hurriyetoğlu"
-     - name: "Noon (12.00 - 14.00): Intermediate Tutorial on [Natural Language Processing with Python II](https://youtu.be/w2nrYSJx1-w) by Dr. Ali Hurriyetoğlu"
+     - name: "Morning (10.00 - 12.00): Intermediate Tutorial on Natural Language Processing with Python I by Dr. Ali Hurriyetoğlu - [Record](https://youtu.be/a17J8GnLsX8), [Materials](https://github.com/compsocialscience/summer-institute/tree/master/2023/istanbul/materials/Advanced%20NLP%20with%20Python)"
+     - name: "Noon (12.00 - 14.00): Intermediate Tutorial on Natural Language Processing with Python II by Dr. Ali Hurriyetoğlu - [Record](https://youtu.be/w2nrYSJx1-w), [Materials](https://github.com/compsocialscience/summer-institute/tree/master/2023/istanbul/materials/Advanced%20NLP%20with%20Python)"
      - name: "Afternoon (14.00 - 16.00): [What Advertising Data Tells us About the World](https://www.youtube.com/watch?v=me253hTr-os) by Prof. Ingmar Weber"
      
 - date: 2023-07-05
@@ -79,7 +79,7 @@
   events:
      - name: "Morning (10.00 - 12.00): Introduction to OLS and Regression Analysis by Berﬁn Baydar"
      - name: "Noon (12.00 - 14.00): Free Time"
-     - name: "Afternoon (14.00 - 16.00):Diﬀ-in-diﬀ and regression discontinuity design with social media data by Serkant Adıgüzel - [Dataset](https://www.dropbox.com/s/onxase09awebm9d/sicss_did_application_data.xlsx?dl=0), [Instructions for the qss-package](https://kosukeimai.github.io/qss-package/)"
+     - name: "Afternoon (14.00 - 16.00): Diﬀ-in-diﬀ and regression discontinuity design with social media data by Serkant Adıgüzel - [Dataset](https://www.dropbox.com/s/onxase09awebm9d/sicss_did_application_data.xlsx?dl=0), [Instructions for the qss-package](https://kosukeimai.github.io/qss-package/)"
      
 - date: 2023-07-06
   name: Day 4
