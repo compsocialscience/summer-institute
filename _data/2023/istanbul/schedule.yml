@@ -72,9 +72,9 @@
 - date: 2023-07-05
   name: Day 3
   events:
-     - name: "Morning (10.00 - 12.00): Introduction to OLS and Regression Analysis by Berﬁn Baydar - [Materials](https://github.com/compsocialscience/summer-institute/tree/master/2023/istanbul/materials/OLS), "
+     - name: "Morning (10.00 - 12.00): Introduction to OLS and Regression Analysis by Berﬁn Baydar - [Record](https://www.youtube.com/watch?v=Htw9dWo51nw), [Materials](https://github.com/compsocialscience/summer-institute/tree/master/2023/istanbul/materials/OLS), "
      - name: "Noon (12.00 - 14.00): Free Time"
-     - name: "Afternoon (14.00 - 16.00): Diﬀ-in-diﬀ and regression discontinuity design with social media data by Serkant Adıgüzel - [Materials](https://github.com/compsocialscience/summer-institute/tree/master/2023/istanbul/materials/Diff-in-Diff), [Instructions for the qss-package](https://kosukeimai.github.io/qss-package/)"
+     - name: "Afternoon (14.00 - 16.00): Diﬀ-in-diﬀ and regression discontinuity design with social media data by Serkant Adıgüzel - [Record](https://www.youtube.com/watch?v=UdTJQDksq0g), [Materials](https://github.com/compsocialscience/summer-institute/tree/master/2023/istanbul/materials/Diff-in-Diff), [Instructions for the qss-package](https://kosukeimai.github.io/qss-package/)"
      
 - date: 2023-07-06
   name: Day 4
