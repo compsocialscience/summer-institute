@@ -10,6 +10,11 @@ image: /assets/images/howard.jpg
 <br />
 
 ---
+<u>BLOG: Laverne H. Council, Global Operations And Information Technology Strategist and Mathematica Board Member, Delivers Riveting Address to Close SICSS-Howard/Mathematica 2022</u>
+<br><font color="grey"><font size="2">Jul 4, 2023</font></font> 
+<br><i><font size = "2">LaVerne H. Council spoke at the Closing Plenary of SICSS/Howard-Mathematica 2022, emphasizing the importance of seeking wisdom and truth through data and fair & effective policymaking.</font></i>
+<br><font size = "1">(Posted by <a href="https://www.methodspace.com/blog/laverne-h-council-global-operations-and-information-technology-strategist-and-mathematica-board-member-delivers-riveting-address-to-close-sicss-howardmathematica-2022">Sage Methodspace</a>)</font>
+
 <u>BLOG: Paula Moreno, Youngest Minister of Culture of Colombia and Afro-Colombian Trailblazer Delivers Inaugural SICSS-Howard/Mathematica Motivational Address</u>
 <br><font color="grey"><font size="2">Jun 24, 2023</font></font> 
 <br><i><font size = "2">Paula Moreno, founder of Manos Visibles & first Afro-Colombian woman to serve as Minister of Culture of Colombia, delivered the first SICSS-Howard/Mathematica Motivational Address, focused on the technological challenges and solutions for Africans and people of African descent around the world.</font></i>
