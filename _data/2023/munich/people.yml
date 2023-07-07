@@ -50,6 +50,15 @@ speakers:
       image: /assets/images/franziska_weeber.png
       bio: "Franziska Weeber is a co-founder at textada, a machine learning-powered text annotation tool. Her work focuses on natural language processing and deep learning in low-resource social science applications. After her M.Sc. degree in Social and Economic Data Science, she held an Exist business start-up grant and was a research assistant at the University of Konstanz and the Heidelberg Academy of Sciences."
 
+teaching assistants:
+  title: Teaching Assistants
+   people:
+ 
+    - name: Renáta Topinková
+      image: /assets/images/rtopinkova_portrait.jpg
+      bio: "Renáta Topinková is a postdoc in Computational Social Sciences at LMU Munich. Her dissertation examined homophily patterns in online dating. She is interested in effective data visualization, text analysis, experiments, and social network analysis."
+      website: https://renatatopinkova.github.io/
+      
 participants: 
   title: Participants
   people:
