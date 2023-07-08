@@ -7,7 +7,8 @@
     - name: "11:30 - 13:00 Small group activity"
     - name: "13:00 - 14:00 Lunch"
     - name: "14:00 - 15:00 Keynote: Speaker on Data and Ethics - Claudia López"
-    - name: "15:00 - 16:00 Ethics Case (small group discussions)"
+    - name: "15:00 - 16:30 Ethics Case (small group discussions)"
+
 
 
 - date: Tuesday July 18, 2023
@@ -87,18 +88,18 @@
   events: 
     - name: "09:30 - 11:00 Lecture/Talk: Pew Research Center, DataLabs - Gonzalo Riveros, Zoom"
     - name: "11:00 - 11:30 Morning coffee"
-    - name: "11:30 - 13:00 Industry Panel, DESU (Cristián Ayala), Antonio Díaz-Araujo(Ulhoster)" 
+    - name: "11:30 - 13:00 Industry Panel, DESUC (Cristián Ayala), Ulhoster (Antonio Díaz-Araujo)" 
     - name: "13:00 - 14:00 Lunch"
-    - name: "14:00 - 15:00 Project Time"
+    - name: "14:00 - 15:00 Lecture/Talk- Pablo Beytía"
     - name: "15:00 - 15:15 Short Break"
     - name: "15:15 - 16:30 Project Time"
     
 - date: Thursday July 27, 2023
   name: "Day 9:  Work on group projects + Workshop"
   events: 
-    - name: "09:30 - 11:00 Lecture/Talk"
+    - name: "09:30 - 11:00 Project Time"
     - name: "11:00 - 11:30 Morning coffee"
-    - name: "11:30 - 13:00 Fine-tuning Group Presentation Details" 
+    - name: "11:30 - 13:00 Project Time" 
     - name: "13:00 - 14:00 Lunch"
     - name: "14:00 - 15:00 Group Presentation"
     - name: "15:00 - 15:15 Short Break"
