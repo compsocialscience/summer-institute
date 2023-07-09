@@ -67,7 +67,7 @@
   events:
      - name: "Morning (10.00 - 12.00): Intermediate Tutorial on Natural Language Processing with Python I by Dr. Ali Hurriyetoğlu - [Record](https://youtu.be/a17J8GnLsX8), [Materials](https://github.com/compsocialscience/summer-institute/tree/master/2023/istanbul/materials/Advanced%20NLP%20with%20Python)"
      - name: "Noon (12.00 - 14.00): Intermediate Tutorial on Natural Language Processing with Python II by Dr. Ali Hurriyetoğlu - [Record](https://youtu.be/w2nrYSJx1-w), [Materials](https://github.com/compsocialscience/summer-institute/tree/master/2023/istanbul/materials/Advanced%20NLP%20with%20Python)"
-     - name: "Afternoon (14.00 - 16.00): [What Advertising Data Tells us About the World](https://www.youtube.com/watch?v=me253hTr-os) by Prof. Ingmar Weber"
+     - name: "Afternoon (14.00 - 16.00): What Advertising Data Tells us About the World by Prof. Ingmar Weber - [Record](https://www.youtube.com/watch?v=me253hTr-os), [Materials](https://github.com/compsocialscience/summer-institute/tree/master/2023/istanbul/Advertising%20Data)"
      
 - date: 2023-07-05
   name: Day 3
@@ -79,22 +79,23 @@
 - date: 2023-07-06
   name: Day 4
   events:
-     - name: "Morning (10.00 - 12.00):“GIS and Spatial Analysis with R by Dr. Milos Popovic"
+     - name: "Morning (10.00 - 12.00): GIS and Spatial Analysis with R by Dr. Milos Popovic - [Record](https://www.youtube.com/watch?v=hqojLuqKrRY), [Materials](https://github.com/milos-agathon/sicss-gis-with-r/tree/main)"
      - name: "Noon (12.00 - 14.00): Koç University Artiﬁcial Intelligence Lab Visit"
-     - name: "Afternoon (14.00 - 16.00): Digital Humanities and GIS in Historical Research by Prof. Erdem Kabadayı"
+     - name: "Afternoon (14.00 - 16.00): Digital Humanities and GIS in Historical Research by Prof. Erdem Kabadayı - [Record](https://www.youtube.com/watch?v=wclzYwjceyg), [Project Info](https://urbanoccupations.ku.edu.tr/)"
      
 - date: 2023-07-07
   name: Day 5
   events:
-     - name: "Morning (10.00 - 12.00): What is a computer scientist doing in the Ottoman Bank archives? by Prof. Selim Balcisoy"
-     - name: "Noon (12.00 - 14.00): Introduction to Network Analysis and Basic Principles in Homophily by Dr. Onur Varol"
-     - name: "Afternoon (14.00 - 16.00): Intermediate Network Analysis and Community Detection by Dr. Başak Taraktaş"
-     
+     - name: "Morning (10.00 - 12.00): What is a computer scientist doing in the Ottoman Bank archives? by Prof. Selim Balcisoy - [Record](https://www.youtube.com/watch?v=8d4iKakaH10), [Materials](https://github.com/compsocialscience/summer-institute/tree/master/2023/istanbul/Ottoman%20Bank%20Data)"
+     - name: "Noon (12.00 - 14.00): Introduction to Network Analysis and Basic Principles in Homophily by Dr. Onur Varol - [Record](), [Materials](https://github.com/compsocialscience/summer-institute/tree/master/2023/istanbul/materials/Introduction%20to%20Network%20Science%20-%20Onur%20Varol)"
+     - name: "Afternoon (14.00 - 16.00): Advanced Network Analysis I by Dr. Başak Taraktaş - [Record](https://www.youtube.com/watch?v=3nOd8GqN1qU), [Materials](https://github.com/compsocialscience/summer-institute/tree/master/2023/istanbul/Advanced%20Network%20Analysis)"
+     - name: "Evening (20.00 - 22.00): Advanced Network Analysis II by Dr. Başak Taraktaş - [Record](https://www.youtube.com/watch?v=qjR3j7Y2bzY), [Materials](https://github.com/compsocialscience/summer-institute/tree/master/2023/istanbul/Advanced%20Network%20Analysis)"
+
 - date: 2023-07-08
   name: Day 6
   events:
-     - name: "Morning (10.00 - 12.00): Introduction to Computer Vision and Image Detection by Mert Küçük (Oda Studio)"
-     - name: "Noon (12.00 - 14.00): Synthetic Image Analysis in Geopolitical Events and Armed Conflicts by Ergin Selim Gonen"
+     - name: "Morning (10.00 - 12.00): Introduction to Computer Vision and Image Detection with Python by Mert Küçük (Oda Studio) - [Record](https://www.youtube.com/watch?v=B68GqkWEjPs), [Materials]()"
+     - name: "Noon (12.00 - 14.00): Synthetic Image Analysis in Geopolitical Events and Armed Conflicts by Ergin Selim Gonen - [Record](), [Materials](https://github.com/compsocialscience/summer-institute/tree/master/2023/istanbul/Synthetic%20Image%20Data)"
      - name: "Afternoon (14.00 - 16.00): Free time / Relax in Bebek Area"
      - name: "21:00 Shuttle back to Ozyegin picks up"
      
