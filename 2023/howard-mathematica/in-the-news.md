@@ -10,6 +10,11 @@ image: /assets/images/howard.jpg
 <br />
 
 ---
+<u>BLOG: SICSS-Howard/Mathematica Alumni Legacy Teaching Fellow Talks about Carrying the Light and Restorative Spaces</u>
+<br><font color="grey"><font size="2">Jul 6, 2023</font></font> 
+<br><i><font size = "2">Rashun Miles discusses his experience returning to SICSS-Howard/Mathematica as an alumni and the larger need for restorative spaces for Black students in every university.</font></i>
+<br><font size = "1">(Posted by <a href="https://www.methodspace.com/blog/sicss-howardmathematica-alumni-legacy-teaching-fellow-talks-about-carrying-the-light-and-restorative-spaces">Sage Methodspace</a>)</font>
+
 <u>BLOG: Laverne H. Council, Global Operations And Information Technology Strategist and Mathematica Board Member, Delivers Riveting Address to Close SICSS-Howard/Mathematica 2022</u>
 <br><font color="grey"><font size="2">Jul 4, 2023</font></font> 
 <br><i><font size = "2">LaVerne H. Council spoke at the Closing Plenary of SICSS/Howard-Mathematica 2022, emphasizing the importance of seeking wisdom and truth through data and fair & effective policymaking.</font></i>
