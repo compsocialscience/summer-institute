@@ -34,7 +34,7 @@
 - date: 2023-07-14
   name: GitHub Copilot
   events:
-    - name: "10:00 - 1:00 Guest Lecturer & Lunch: Alfredo Deza, Microsoft & Duke Engineering"
+    - name: "10:00 - 1:00 Guest Lecturer & Lunch: <a href='https://techcommunity.microsoft.com/t5/educator-developer-blog/step-by-step-setting-up-github-student-and-github-copilot-as-an/ba-p/3736279?WT.mc_id=academic-91025-alfredodeza' target='_blank'>Alfredo Deza</a>, Microsoft & Duke Engineering"
     - name: "1:00 - 1:30 Lightning Talks"
     - name: "1:30 - 3:00 Survey Analysis"
     - name: "3:00 - 4:30 Group Formation For Week 2, Design Sprint"
