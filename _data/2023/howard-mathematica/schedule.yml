@@ -352,31 +352,17 @@
   events:
     - name: "Mathematica TAs are Available via Email/Zoom for Consultation Starting on Tuesday"
     - name: "[Participant Zoom Links](https://docs.google.com/document/d/1wPr0rmHvjjIJ7K8sv6IytATEH7fv6d99C-ovZurApqw/edit?usp=sharing)"
-    - name: "9:30 - 10:00 Logistics (*Zoom*) (video)"
-    - name: '10:00 - 11:30 SICSS-Africa + African Descendants Panel: Panel Topic TBA (Poster) (LIVE Q&A)
-      
-        
-        
-        **Speakers**
-          
-          - TBA (slides) (video)
-          
-        
-        
-        **Moderator**
-          
-          - TBA'
-        
-    - name: "11:30 - 11:45 Break"
-    - name: "11:45 - 12:00 Logistics and Research Speed Dating Logistics (*Zoom*) (video)"
+    - name: "10:00 - 10:15 Logistics and Research Speed Dating Logistics (*Zoom*) (video) (slides)"
+    - name: "10:15 - 10:25 Break"
+    - name: "10:25 - 11:45 Round 1-4 (20 minutes each) (*Zoom*)"
+    - name: "11:45 - 12:00 Break"
     - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk #5: Los Alamos National Laboratory [(slides)](https://docs.google.com/presentation/d/14-J342qoaS4SL_b80RWVw1trcC0rFNY8Zw41ss4T0m8/edit?usp=sharing) (*Zoom*) [(video)](https://youtu.be/jJH5PrbzT-w) (LIVE Q&A)
         
         - [Sara Del Valle](https://www.lanl.gov/search-capabilities/profiles/sara-del-valle.shtml), Ph.D., Scientist/Project Leader, Defense Systems and Analysis Division, Los Alamos National Laboratory"
     
-    - name: "1:00 - 1:15 Introduction to Speed Dating (*Zoom*)"
-    - name: "1:15 - 2:25 Speed Dating Exercise (*Zoom*)"
-    - name: "2:25 - 2:40 Break"
-    - name: "2:40 - 3:30 Family Free For All"
+    - name: "1:00 - 1:30 Break"
+    - name: "1:30 - 2:30 Round 5-7 (20 minutes each) (*Zoom*)"
+    - name: "2:30 - 3:30 Family Free For All"
     - name: "3:30 - 4:00 Group Debrief (Join Research Teams) (*Zoom*) (video)"
     - name: '4:00 - 5:30 Featured Presentation #1: “Community Data Science Approaches for Gun Violence Prevention” [(video)](https://youtu.be/QCpkm_7vKRw) - LIVE Session to Include Q&A and Office Hours [(slides)](https://docs.google.com/presentation/d/1em_8HtVnKLbw5LLDNH4ASEbltFZMWXUoD1Tb_f35ZGA/edit?usp=share_link) (*Zoom*) (LIVE Q&A)
         
