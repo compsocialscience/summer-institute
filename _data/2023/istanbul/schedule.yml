@@ -87,7 +87,7 @@
   name: Day 5
   events:
      - name: "Morning (10.00 - 12.00): What is a computer scientist doing in the Ottoman Bank archives? by Prof. Selim Balcisoy - [Record](https://www.youtube.com/watch?v=8d4iKakaH10), [Materials](https://github.com/compsocialscience/summer-institute/tree/master/2023/istanbul/Ottoman%20Bank%20Data)"
-     - name: "Noon (12.00 - 14.00): Introduction to Network Analysis and Basic Principles in Homophily by Dr. Onur Varol - [Record](), [Materials](https://github.com/compsocialscience/summer-institute/tree/master/2023/istanbul/materials/Introduction%20to%20Network%20Science%20-%20Onur%20Varol)"
+     - name: "Noon (12.00 - 14.00): Introduction to Network Analysis and Basic Principles in Homophily by Dr. Onur Varol - [Record](https://youtu.be/0vraMUe_e9Y), [Materials](https://github.com/compsocialscience/summer-institute/tree/master/2023/istanbul/materials/Introduction%20to%20Network%20Science%20-%20Onur%20Varol)"
      - name: "Afternoon (14.00 - 16.00): Advanced Network Analysis I by Dr. Başak Taraktaş - [Record](https://www.youtube.com/watch?v=3nOd8GqN1qU), [Materials](https://github.com/compsocialscience/summer-institute/tree/master/2023/istanbul/Advanced%20Network%20Analysis)"
      - name: "Evening (20.00 - 22.00): Advanced Network Analysis II by Dr. Başak Taraktaş - [Record](https://www.youtube.com/watch?v=qjR3j7Y2bzY), [Materials](https://github.com/compsocialscience/summer-institute/tree/master/2023/istanbul/Advanced%20Network%20Analysis)"
 
@@ -107,15 +107,15 @@
      
 - date: "Second Week of ‘Real SICSS’"
   events:
-     - name: "**Guest Talks**<br/>  We believe that social science research and industry will collaborate more in the future. Computational social science methods allows academic researchers to work closely with industry compared to the past. Therefore, we will organize an industry talk with an eminent figure in Turkish innovation industry to see other side of the coin. Additionally, we will have an alumni talk to discuss on an ongoing research started at the last year of SICSS."
-     - name: "**Work on Group Projects and Flash Talks**<br/> This week will be mainly focused on group work projects. Up until this date, you should have an idea of which participants you’d like to team up with and the research question that you’ll work on. Teams that people built in previous SICSS_Istanbul events have flourished into full-fledged research groups, presenting their SICSS papers at APSA, ASA and beyond!"
+     - name: "**Guest Talks**<br/>  We believe that social science research and industry will collaborate more in the future. Computational social science methods allow academic researchers to work closely with industry compared to the past. Therefore, we will organize an industry talk with an eminent figure in Turkish innovation industry to see other side of the coin. Additionally, we will have an alumni talk to discuss on an ongoing research started at the last year of SICSS."
+     - name: "**Work on Group Projects and Flash Talks**<br/> This week will mainly focus on group work projects. Up until this date, you should know which participants you’d like to team up with and the research question you’ll work on. Teams that people built in previous SICSS_Istanbul events have flourished into full-fledged research groups, presenting their SICSS papers at APSA, ASA and beyond!"
 
 - date: 2023-07-10
   name: Research Talk and Work on Group Projects
   events:
      - name: "Morning (10.00 - 12.00): Work on Group Projects"
      - name: "Noon (12.00 - 14.00): Work on Group Projects"
-     - name: "Afternoon (14.00 - 16.00): Using Satellite Data to Detect Tanker Movements Oﬀshore Ukraine by Dr. Ollie Ballinger"
+     - name: "Afternoon (14.00 - 16.00): Using Satellite Data to Detect Tanker Movements Oﬀshore Ukraine by Dr. Ollie Ballinger - [Record](), [Materials]()"
      
 - date: 2023-07-11
   name: Alumni Talk and Work on Group Projects
