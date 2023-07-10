@@ -20,7 +20,7 @@
   events:
     - name: "10:00 - 1:00 Guest Lecturer & Lunch: Daniel Dench, Health Economics & Analytics Lab (HEAL) at GaTech Economics"
     - name: "1:00 - 1:30 Lightning Talks"
-    - name: "1:30 - 3:00 Introduction to Digital Trace Data"
+    - name: "1:30 - 3:00 Causal Inference Workshop"
     - name: "3:00 - 4:30 Groups: Work Session & Wrap-up"
 
 - date: 2023-07-13
