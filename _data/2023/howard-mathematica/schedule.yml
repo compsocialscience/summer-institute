@@ -362,7 +362,8 @@
     
     - name: "1:00 - 1:30 Break"
     - name: "1:30 - 2:30 Round 5-7 (20 minutes each) (*Zoom*)"
-    - name: "2:30 - 3:30 Family Free For All"
+    - name: "2:30 - 2:40 Break"
+    - name: "2:40 - 3:30 Family Free For All"
     - name: "3:30 - 4:00 Group Debrief (Join Research Teams) (*Zoom*) (video)"
     - name: '4:00 - 5:30 Featured Presentation #1: “Community Data Science Approaches for Gun Violence Prevention” [(video)](https://youtu.be/QCpkm_7vKRw) - LIVE Session to Include Q&A and Office Hours [(slides)](https://docs.google.com/presentation/d/1em_8HtVnKLbw5LLDNH4ASEbltFZMWXUoD1Tb_f35ZGA/edit?usp=share_link) (*Zoom*) (LIVE Q&A)
         
