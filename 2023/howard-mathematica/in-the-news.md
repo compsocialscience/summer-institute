@@ -10,7 +10,7 @@ image: /assets/images/howard.jpg
 <br />
 
 ---
-<u>BLOG: Bridging the Diversity Gap in Biomedical Research: Physicians and Biomedical Scholars discuss the need for Diversity and Interdisciplinary Collaboration In Research.</u>
+<u>BLOG: Bridging the Diversity Gap in Biomedical Research: Physicians and Biomedical Scholars discuss the need for Diversity and Interdisciplinary Collaboration In Research</u>
 <br><font color="grey"><font size="2">Jul 10, 2023</font></font> 
 <br><i><font size = "2">At SICSS-H/M 2022, Anthony Wutoh, Yahya Shaikh and Carter Clinton discussed how to bridge the diversity gap in biomedical research and the need for interdisciplinary collaboration.</font></i>
 <br><font size = "1">(Posted by <a href="https://www.methodspace.com/blog/bridging-the-diversity-gap-in-biomedical-research-physicians-and-biomedical-scholars-discuss-the-need-for-diversity-and-interdisciplinary-collaboration-in-research">Sage Methodspace</a>)</font>
