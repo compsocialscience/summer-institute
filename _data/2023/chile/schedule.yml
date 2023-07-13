@@ -9,9 +9,7 @@
     - name: "11:30 - 13:00 Small group activity"
     - name: "13:00 - 14:00 Lunch"
     - name: "14:00 - 15:00 Keynote: Speaker on Data and Ethics - Claudia López"
-    - name: "15:00 - 16:30 Ethics Case (small group discussions)"
-
-
+    - name: "15:00 - 16:30 Ethics Case (group discussions) - Pedro Seguel [Link](https://docs.google.com/document/d/19LDL3KIiLlqVEpVnsll5ckSNZOz-UzziUVJS_0g209c/edit?usp=sharing) " 
 
 - date: Tuesday July 18, 2023
   name: "Day 2: Knowledge graphs/Natural Language Processing"
@@ -32,7 +30,6 @@
     - name: "13:00 - 14:00 Lunch"
     - name: "14:00 - 15:30 Workshop: Web Scrapping - Gabriel Iturra"
     - name: "15:30 - 16:30 Group exercises"
-
 
 - date: Thursday July 20, 2023
   name: "Day 4: Visualization and Data Analysis"
