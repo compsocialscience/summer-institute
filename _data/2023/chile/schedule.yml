@@ -1,4 +1,4 @@
-- name: "Sala, C301, Facultad de Ingeniería Campus San Joaquín, Pontificial Universidad Católica." 
+- name: "Sala, C301, Facultad de Ingeniería Campus San Joaquín, Pontificia Universidad Católica." 
 
 - date: Monday July 17, 2023
   name: "Day 1: Introduction and Ethics"
@@ -67,7 +67,7 @@
   events: 
     - name: "09:30 - 11:00 Lecture/Talk: Innovación y Transferencia Tecnológica, IMFD - Jazmine Maldonado "
     - name: "11:00 - 11:30 Morning coffee"
-    - name: "11:30 - 13:00 Keynote: Network Analysis - Marcelo Mendoza"
+    - name: "11:30 - 13:00 Keynote: Disinformation and network analysis - Marcelo Mendoza"
     - name: "13:00 - 14:00 Lunch"
     - name: "14:00 - 15:00 Project Time"
     - name: "15:00 - 15:15 Short Break"
@@ -92,7 +92,7 @@
     - name: "11:00 - 11:30 Morning coffee"
     - name: "11:30 - 13:00 Industry Panel, DESUC (Cristián Ayala), Ulhoster (Antonio Díaz-Araujo)" 
     - name: "13:00 - 14:00 Lunch"
-    - name: "14:00 - 15:00 Lecture/Talk- Pablo Beytía"
+    - name: "14:00 - 15:00 Challenges interpreting digital social data- Pablo Beytía"
     - name: "15:00 - 15:15 Short Break"
     - name: "15:15 - 16:30 Project Time"
     
