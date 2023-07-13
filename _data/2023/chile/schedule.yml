@@ -6,12 +6,10 @@
     - name: "09:30 - 10:00 Orientation: introduction of organizers, goals/expectation of the program, means of communications (e.g., slack)"
     - name: "10:00 - 11:00 Overview Lecture: What is Computational Social Science? - Andrés Abeliuk et al."
     - name: "11:00 - 11:30 Morning coffee"
-    - name: "11:30 - 13:00 Small group activity"
+    - name: "11:30 - 13:00 Small group activity [Link](https://docs.google.com/document/d/16LcJWwh-FBW2wSINILdY12KtTrdF96ifmM7c5laRAU0/edit?usp=sharing)"
     - name: "13:00 - 14:00 Lunch"
     - name: "14:00 - 15:00 Keynote: Speaker on Data and Ethics - Claudia López"
-    - name: "15:00 - 16:30 Ethics Case (small group discussions)"
-
-
+    - name: "15:00 - 16:30 Ethics Case (group discussions) - Pedro Seguel [Link](https://docs.google.com/document/d/19LDL3KIiLlqVEpVnsll5ckSNZOz-UzziUVJS_0g209c/edit?usp=sharing) " 
 
 - date: Tuesday July 18, 2023
   name: "Day 2: Knowledge graphs/Natural Language Processing"
@@ -32,7 +30,6 @@
     - name: "13:00 - 14:00 Lunch"
     - name: "14:00 - 15:30 Workshop: Web Scrapping - Gabriel Iturra"
     - name: "15:30 - 16:30 Group exercises"
-
 
 - date: Thursday July 20, 2023
   name: "Day 4: Visualization and Data Analysis"
