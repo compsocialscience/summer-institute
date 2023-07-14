@@ -18,7 +18,7 @@
     - name: "11:00 - 11:30 Morning coffee"
     - name: "11:30 - 13:00 Workshop: Querying Wikidata - Sebastián Ferrada"
     - name: "13:00 - 14:00 Lunch"
-    - name: "14:00 - 15:00 Lecture: Text Analysis/NLP intro - Pedro Seguel"
+    - name: "14:00 - 15:00 Lecture: Text as Data/NLP intro - Pedro Seguel"
     - name: "15:00 - 16:30 Workshop: Text Analysis I - Jorge Ortiz"
 
 - date: Wednesday July 19, 2023
@@ -60,9 +60,9 @@
   name: "Day off"
 
 - date: Monday July 24, 2023
-  name: "Day 6:  Work on group projects + Workshop"
+  name: "Day 6:  Work on group projects + Keynotes"
   events: 
-    - name: "09:30 - 11:00 Lecture/Talk: Innovación y Transferencia Tecnológica, IMFD - Jazmine Maldonado "
+    - name: "09:30 - 11:00 Keynote: Innovación y Transferencia Tecnológica, IMFD - Jazmine Maldonado "
     - name: "11:00 - 11:30 Morning coffee"
     - name: "11:30 - 13:00 Keynote: Disinformation and network analysis - Marcelo Mendoza"
     - name: "13:00 - 14:00 Lunch"
@@ -77,7 +77,7 @@
     - name: "11:00 - 11:30 Morning coffee"
     - name: "11:30 - 13:00 Workshop: Network - Andrés Abeliuk"
     - name: "13:00 - 14:00 Lunch"
-    - name: "14:00 - 15:00 Project Time - Claudio Gutiérrez (Ethics discussion about projects)"
+    - name: "14:00 - 15:00 Project Time with Claudio Gutiérrez (Ethics discussion about projects)"
     - name: "15:00 - 15:15 Short Break"
     - name: "15:15 - 16:30 Project Time"
 
@@ -85,16 +85,16 @@
 - date: Wednesday July 26, 2023
   name: "Day 8:  Work on group projects + Workshop"
   events: 
-    - name: "09:30 - 11:00 Lecture/Talk: Pew Research Center, DataLabs - Gonzalo Riveros, Zoom"
+    - name: "09:30 - 11:00 Keynote: Pew Research Center, DataLabs - Gonzalo Riveros, Zoom"
     - name: "11:00 - 11:30 Morning coffee"
-    - name: "11:30 - 13:00 Industry Panel, DESUC (Cristián Ayala), Ulhoster (Antonio Díaz-Araujo)" 
+    - name: "11:30 - 13:00 Industry Panel: DESUC (Cristián Ayala), Ulhoster (Antonio Díaz-Araujo)- Pablo Beytía" 
     - name: "13:00 - 14:00 Lunch"
-    - name: "14:00 - 15:00 Challenges interpreting digital social data- Pablo Beytía"
+    - name: "14:00 - 15:00 Lecture: Challenges interpreting digital social data - Pablo Beytía"
     - name: "15:00 - 15:15 Short Break"
     - name: "15:15 - 16:30 Project Time"
     
 - date: Thursday July 27, 2023
-  name: "Day 9:  Work on group projects + Workshop"
+  name: "Day 9:  Work on group projects + Presentations!"
   events: 
     - name: "09:30 - 11:00 Project Time"
     - name: "11:00 - 11:30 Morning coffee"
