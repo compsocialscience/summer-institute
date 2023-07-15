@@ -10,6 +10,11 @@ image: /assets/images/howard.jpg
 <br />
 
 ---
+<u>BLOG: SICSS-Howard/Mathematica Alumni Receive 2022 Excellence in Computational Social Science Research Awards</u>
+<br><font color="grey"><font size="2">Jul 13, 2023</font></font> 
+<br><i><font size = "2">At SICSS-Howard/Mathematic 2022, two group projects and five individual projects received the Inaugural Excellence in Computational Social Science Research Award.</font></i>
+<br><font size = "1">(Posted by <a href="https://www.methodspace.com/blog/sicss-howardmathematica-alumni-receive-2022-excellence-in-computational-social-science-research-awards">Sage Methodspace</a>)</font>
+
 <u>BLOG: Bridging the Diversity Gap in Biomedical Research: Physicians and Biomedical Scholars discuss the need for Diversity and Interdisciplinary Collaboration In Research</u>
 <br><font color="grey"><font size="2">Jul 10, 2023</font></font> 
 <br><i><font size = "2">At SICSS-H/M 2022, Anthony Wutoh, Yahya Shaikh and Carter Clinton discussed how to bridge the diversity gap in biomedical research and the need for interdisciplinary collaboration.</font></i>
