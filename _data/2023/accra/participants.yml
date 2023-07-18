@@ -28,16 +28,26 @@
   image: /assets/images/makuapane.jpg
   website:  
   
+- name: Chukwuedo Oburota
+  bio: Chukwuedo Oburota is a Senior Lecturer at the Department of Economics, University of Calabar, Nigeria. She is also affiliated with the Health Policy and Training Research Program (HPTRP) at the University of Ibadan, Nigeria where she is a research fellow. Her research interests are focused on  addressing inequalities in access to income and opportunities.
+  image: /assets/images/oburota.jpg
+  website:
+
 - name: Michael Arthur Ofori
   bio: Michael Arthur Ofori is currently a PhD. Candidate at the Pan African University Institute for Basic Sciences, Technology and Innovation. He holds Master of Philosophy in Statistics from the University of Cape Coast, Ghana. His research interest includes maternal and child health and health statistics.
   image: /assets/images/ofori.jpeg
-  website:  
+  website:
   
 - name: Tosin	Oni
   bio: Tosin Oni (PhD in Demography and Social Statistics, 2023) is a Research Associate at the Central Office of Research, Obafemi Awolowo University. Using computational methods, he integrates data from established sources (e.g. DHS) with public APIs (e.g. Twitter) and primary surveys to harness evidence for advancing sexual and reproductive health.
   image: /assets/images/tosin_oni.jpeg
   website:  https://www.linkedin.com/in/tosinooni
-
+  
+- name: Onyinyechi Ossai
+  bio: Onyinyechi Ossai, a University of Nigeria doctoral student, holds a BSc (Geography) and an MSc (Urban Geography) from the same university. Her Ph.D. research focuses on employing integrated multidimensional indicators to assess housing quality among low-income households in an African city. Her interests include settlement geography, urban-rural disparities, and their interconnections.
+  image: /assets/images/ossai.jpg
+  website: https://www.linkedin.com/in/onyinyechi-ossai-a95bb7129
+  
 - name: Mohamadou	Salifou
   bio: Mohamadou Salifou is a laureate of the pre-doctoral programme at Mohammed VI Polytechnic University in Morocco and is part of the Data Science, Activity Analysis and Steering of Education and Training team. He holds a Master's degree in Statistics applied to life and is interested in demographic and biostatistical issues, particularly fertility, child mortality, early diagnosis of diseases, and the drop-out and retention of pupils in secondary education. His current research focuses on artificial intelligence in the early detection of school drop-outs and the contribution of AI to stroke diagnosis.
   image: /assets/images/MSalifou.JPG
