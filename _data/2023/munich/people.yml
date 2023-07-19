@@ -18,7 +18,6 @@ faculty:
       website: https://www.gsi.uni-muenchen.de/lehreinheiten/ls-wuttke/index.html
       
 speakers: 
-
   title: Guest Speakers
   people:
       
@@ -51,12 +50,13 @@ speakers:
       image: /assets/images/franziska_weeber.png
       bio: "Franziska Weeber is a co-founder at textada, a machine learning-powered text annotation tool. Her work focuses on natural language processing and deep learning in low-resource social science applications. After her M.Sc. degree in Social and Economic Data Science, she held an Exist business start-up grant and was a research assistant at the University of Konstanz and the Heidelberg Academy of Sciences."
 
+guest lecturers:
   title: Guest Lecturers
   people:
 
     - name: Valerie Hase
       image: /assets/images/vhase_portrait.jpg
-      bio: "Valerie Hase is a postdoctoral researcher at the Department of Media and Communication at LMU Munich. After studying at WWU Münster and the London School of Political Science and Economy, she obtained a PhD from the University of Zurich. Her research focuses on digital journalism, cross?platform perspectives, crisis communication, and computational social science, especially text-as-data and digital traces."
+      bio: "Valerie Hase is a postdoctoral researcher at the Department of Media and Communication at LMU Munich. After studying at WWU Münster and the London School of Political Science and Economy, she obtained a PhD from the University of Zurich. Her research focuses on digital journalism, cross-platform perspectives, crisis communication, and computational social science, especially text-as-data and digital traces."
       website: https://valerie-hase.com/
   
     - name: Bernhard Clemm von Hohenberg
