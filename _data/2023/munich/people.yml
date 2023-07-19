@@ -18,12 +18,9 @@ faculty:
       website: https://www.gsi.uni-muenchen.de/lehreinheiten/ls-wuttke/index.html
       
 speakers: 
+
   title: Guest Speakers
   people:
-
-    - name: Bernhard Clemm von Hohenberg
-      bio: "(MPhil Oxford, PhD European University Institute) is a researcher at the Department of Computational Social Science at the GESIS Leibniz Institute for the Social Sciences. He previously worked as a postdoc in political communication at the University of Amsterdam. He is interested in how people seek out and process (mis)information, the effects of online behaviour on political attitudes, and psychological and behavioural asymmetries between ideological groups. Methodologically, he is interested in improving survey experiments and survey measurement, causal inference, and the use of digital trace data. He is the data editor at the journal Political Communication."
-      website: https://bernhardclemm.com
       
     - name: Raphael H. Heiberger
       image: /assets/images/rhheiberger_portrait.jpg
@@ -54,6 +51,22 @@ speakers:
       image: /assets/images/franziska_weeber.png
       bio: "Franziska Weeber is a co-founder at textada, a machine learning-powered text annotation tool. Her work focuses on natural language processing and deep learning in low-resource social science applications. After her M.Sc. degree in Social and Economic Data Science, she held an Exist business start-up grant and was a research assistant at the University of Konstanz and the Heidelberg Academy of Sciences."
 
+  title: Guest Lecturers
+  people:
+
+    - name: Valerie Hase
+      image: /assets/images/vhase_portrait.jpg
+      bio: "Valerie Hase is a postdoctoral researcher at the Department of Media and Communication at LMU Munich. After studying at WWU Münster and the London School of Political Science and Economy, she obtained a PhD from the University of Zurich. Her research focuses on digital journalism, cross?platform perspectives, crisis communication, and computational social science, especially text-as-data and digital traces."
+      website: https://valerie-hase.com/
+  
+    - name: Bernhard Clemm von Hohenberg
+      bio: "(MPhil Oxford, PhD European University Institute) is a researcher at the Department of Computational Social Science at the GESIS Leibniz Institute for the Social Sciences. He previously worked as a postdoc in political communication at the University of Amsterdam. He is interested in how people seek out and process (mis)information, the effects of online behaviour on political attitudes, and psychological and behavioural asymmetries between ideological groups. Methodologically, he is interested in improving survey experiments and survey measurement, causal inference, and the use of digital trace data. He is the data editor at the journal Political Communication."
+      website: https://bernhardclemm.com
+
+    - name: Jan Zilinsky
+      bio: "Jan Zilinsky is a postdoctoral research fellow and computational social scientist at the Technical University of Munich. He studies how citizens receive, organize and process economic and political information via digital media. He received his PhD from New York University's Department of Politics, and works with NYU's Center for Social Media and Politics (CSMaP)."
+      website: https://zilinskyjan.github.io   
+      
 teaching assistants:
   title: Teaching Assistants
   people:
@@ -78,11 +91,6 @@ participants:
     - name: Maximilian Haag
       image: /assets/images/mhaag_portrait.JPG
       bio: "Max is a doctoral researcher in the EUPLEX project and a doctoral candidate at the Geschwister-Scholl-Institute of Political Science at LMU Munich. His research interests include legislative politics and decision-making in the EU. Additionally, Max is interested in automated data collection and exploring the possibilities of programming for producing transparent, reproducible and interactive research."
-
-    - name: Valerie Hase
-      image: /assets/images/vhase_portrait.jpg
-      bio: "Valerie Hase is a postdoctoral researcher at the Department of Media and Communication at LMU Munich. After studying at WWU Münster and the London School of Political Science and Economy, she obtained a PhD from the University of Zurich. Her research focuses on digital journalism, cross?platform perspectives, crisis communication, and computational social science, especially text-as-data and digital traces."
-      website: https://valerie-hase.com/
       
     - name: Fabian Heindl
       image: /assets/images/fheindl_portrait.jpg
@@ -171,7 +179,3 @@ participants:
       image: /assets/images/bgliozzo_portrait.jpg
       bio: "Birgit Zeyer-Gliozzo is a postdoctoral researcher at the chair of Social Structure and Sociology of Aging Societies at TU Dortmund University. She is currently working with an interdisciplinary team on the development and application of innovative methods from data science for social science research questions as part of the project From Prediction to Agile Interventions in the Social Science (FAIR). Her research interests include topics such as work and labor markets, education and training, health, social inequalities, and technological change."
       website: https://fair.tu-dortmund.de/en/about/scientists/birgit-zeyer-gliozzo/
-
-    - name: Jan Zilinsky
-      bio: "Jan Zilinsky is a postdoctoral research fellow and computational social scientist at the Technical University of Munich. He studies how citizens receive, organize and process economic and political information via digital media. He received his PhD from New York University's Department of Politics, and works with NYU's Center for Social Media and Politics (CSMaP)."
-      website: https://zilinskyjan.github.io
