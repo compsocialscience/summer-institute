@@ -29,7 +29,8 @@
     - name: "11:30 - 13:00 Keynote: Large Language Models - Felipe Bravo-Márquez"
     - name: "13:00 - 14:00 Lunch"
     - name: "14:00 - 15:30 Workshop: Web Scrapping - Gabriel Iturra"
-    - name: "15:30 - 16:30 Group exercises [Link](https://docs.google.com/document/d/17bUtp4VafeezLFWYmQCxqyMJcL07C1l2jLyOhzmxdMs/edit?usp=sharing)"
+    - name: "15:30 - 15:45 Short Break"
+    - name: "15:45 - 16:30 Group exercises [Link](https://docs.google.com/document/d/17bUtp4VafeezLFWYmQCxqyMJcL07C1l2jLyOhzmxdMs/edit?usp=sharing)"
 
 - date: Thursday July 20, 2023
   name: "Day 4: Visualization and Data Analysis"
@@ -38,7 +39,8 @@
     - name: "11:00 - 11:30 Morning coffee"
     - name: "11:30 - 13:00 Workshop: Data Visualization  - Cinthia Sánchez"
     - name: "13:00 - 14:00 Lunch"
-    - name: "14:00 - 15:30 Lecture: Unsupervised Learning -  Hernán Sarmiento"
+    - name: "14:00 - 15:15 Lecture: Unsupervised Learning -  Hernán Sarmiento"
+    - name: "15:30 - 15:45 Short Break"
     - name: "15:30 - 16:30 Workshop: Unsupervised Learning -  Hernán Sarmiento"
 
 
@@ -50,7 +52,8 @@
     - name: "11:30 - 13:00 Research Speed Dating Logistics"
     - name: "13:00 - 14:00 Lunch"
     - name: "14:00 - 15:00 Research Speed Dating Maximally Similar Groups"
-    - name: "15:00 - 16:00 Research Speed Dating Maximally Dissimilar Groups"
+    - name: "15:00 - 15:15 Short Break"
+    - name: "15:15 - 16:00 Research Speed Dating Maximally Dissimilar Groups"
     - name: "16:00 - 16:30 Group Debrief (Project selection)"
 
 - date: Saturday July 22, 2023
