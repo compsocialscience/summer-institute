@@ -40,7 +40,7 @@
     - name: "11:30 - 13:00 Workshop: Data Visualization  - Cinthia Sánchez"
     - name: "13:00 - 14:00 Lunch"
     - name: "14:00 - 15:15 Lecture: Unsupervised Learning -  Hernán Sarmiento"
-    - name: "15:30 - 15:45 Short Break"
+    - name: "15:15 - 15:30 Short Break"
     - name: "15:30 - 16:30 Workshop: Unsupervised Learning -  Hernán Sarmiento"
 
 
@@ -49,7 +49,8 @@
   events: 
     - name: "09:30 - 11:00 Keynote: Plataforma Telar -Juan Pablo Luna"
     - name: "11:00 - 11:30 Morning coffee"
-    - name: "11:30 - 13:00 Research Speed Dating Logistics"
+    - name: "11:30 - 12:00 Workshop: ChatGPT API- Andrés Abeliuk"
+    - name: "12:00 - 13:00 Research Speed Dating Logistics"
     - name: "13:00 - 14:00 Lunch"
     - name: "14:00 - 15:00 Research Speed Dating Maximally Similar Groups"
     - name: "15:00 - 15:15 Short Break"
