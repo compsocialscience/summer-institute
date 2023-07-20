@@ -10,6 +10,11 @@ image: /assets/images/howard.jpg
 <br />
 
 ---
+<u>BLOG: Updates Since 2021 - SICSS-Howard/Mathematica Alumni Receive Inaugural Excellence in Computational Social Science Research Awards</u>
+<br><font color="grey"><font size="2">Jul 19, 2023</font></font> 
+<br><i><font size = "2">Hear from the 2021 SICSS-Howard/Mathematica Excellence in Computational Social Science Research Fund awardees about how the funding helped their projects and their future plans. </font></i>
+<br><font size = "1">(Posted by <a href="https://www.methodspace.com/blog/updates-since-2021-sicss-howardmathematica-alumni-receive-inaugural-excellence-in-computational-social-science-research-awards">Sage Methodspace</a>)</font>
+
 <u>BLOG: SICSS-Howard/Mathematica Alumni Receive 2022 Excellence in Computational Social Science Research Awards</u>
 <br><font color="grey"><font size="2">Jul 13, 2023</font></font> 
 <br><i><font size = "2">At SICSS-Howard/Mathematic 2022, two group projects and five individual projects received the Inaugural Excellence in Computational Social Science Research Award.</font></i>
