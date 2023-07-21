@@ -1,8 +1,8 @@
-### Ágnes Horvárt: Science on the Web: How networks bias academic communication online
+### Ágnes Horvárt - Science on the Web: How networks bias academic communication online
 
 Most academics are promoting their work online. At the same time, the public, journalists, and interested governments increasingly turn to the Web for scientific information. It thus becomes ever more critical that we better understand the dynamics of online science dissemination networks. My talk presents our latest results about (1) how scientific publications spread on various types of online platforms, losing essential information; (2) how gender and ethnic inequalities impact the coverage of scholarship; and (3) how subsequently retracted articles receive more attention online. Our findings highlight crucial biases in the online sharing of science. They inform efforts to close gaps in scholars' success and curb the online spread of science-related misinformation.
 
-### Raphael Heiberger: PopBERT. Detecting left and right-wing populism in the German Bundestag.
+### Raphael Heiberger - PopBERT. Detecting left and right-wing populism in the German Bundestag.
 
 The *rise of populism* concerns many political observers and has been linked to, for instance, increasing economic anxiety or ideological polarization.
 Although political theory provides a multi-dimensional perspective on how to approximate populism, its detection in political communications remains fragmentary.
