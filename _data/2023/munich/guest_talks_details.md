@@ -1,8 +1,8 @@
-### Ágnes Horvárt - Science on the Web: How networks bias academic communication online
 
-Most academics are promoting their work online. At the same time, the public, journalists, and interested governments increasingly turn to the Web for scientific information. It thus becomes ever more critical that we better understand the dynamics of online science dissemination networks. My talk presents our latest results about (1) how scientific publications spread on various types of online platforms, losing essential information; (2) how gender and ethnic inequalities impact the coverage of scholarship; and (3) how subsequently retracted articles receive more attention online. Our findings highlight crucial biases in the online sharing of science. They inform efforts to close gaps in scholars' success and curb the online spread of science-related misinformation.
 
 ### Raphael Heiberger - PopBERT. Detecting left and right-wing populism in the German Bundestag
+
+*Tuesday, July 25, 16.00, Oettingenstr. 67, Room 115*
 
 The *rise of populism* concerns many political observers and has been linked to, for instance, increasing economic anxiety or ideological polarization.
 Although political theory provides a multi-dimensional perspective on how to approximate populism, its detection in political communications remains fragmentary.
@@ -13,6 +13,27 @@ To identify, in addition, how the *thin ideology* of populism is *thickened*, ou
 A battery of validation checks shows that the predictions (i) rank parties according to expert surveys, (ii) exhibit a high correspondence to out-of-sample tests, (iii) clearly outperform existing approaches, and, finally, (iv) reveal a high face-validity for each dimension when inspected qualitatively.
 Our approach enables dynamic analyses investigating how German politicians and parties use populist language, and how it spreads in the interactive setting of parliamentary debates.
 
+### Jürgen Pfeffer
+
+*Wednesday, July 26, 16.00, Oettingenstr. 67, Room 115*
+
+
 ### Stefanie Walter - Computational social science for the study of marginalized groups
 
+*Thursday, July 27, 16.00, Oettingenstr. 67, Room 115*
+
 Computational social science methods offer many new and exciting opportunities for the study of marginalised groups. At the same time, these methods may replicate and/or even strengthen already existing biases. After discussing why the representation of marginalised groups matters, we will focus on several challenges at different steps of analysis and what computational social science can do to detect and potentially mitigate biases. 
+
+### Ágnes Horvárt - Science on the Web: How networks bias academic communication online
+
+*Friday, July 28, 16.00, Oettingenstr. 67, Room 115*
+
+Most academics are promoting their work online. At the same time, the public, journalists, and interested governments increasingly turn to the Web for scientific information. It thus becomes ever more critical that we better understand the dynamics of online science dissemination networks. My talk presents our latest results about (1) how scientific publications spread on various types of online platforms, losing essential information; (2) how gender and ethnic inequalities impact the coverage of scholarship; and (3) how subsequently retracted articles receive more attention online. Our findings highlight crucial biases in the online sharing of science. They inform efforts to close gaps in scholars' success and curb the online spread of science-related misinformation.
+
+### Andreas Jungherr
+
+*Monday, July 31, 15.30, Oettingenstr. 67, Room 115*
+
+### Franziska Weeber
+
+*Tuesday, August 1, 13.30, Oettingenstr. 67, Room 115*
