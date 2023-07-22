@@ -12,3 +12,7 @@ We utilize a transformer-based BERT model to detect the two defining dimensions 
 To identify, in addition, how the *thin ideology* of populism is *thickened*, our model is also trained on populist statements that are attached to left or right-wing host ideologies.
 A battery of validation checks shows that the predictions (i) rank parties according to expert surveys, (ii) exhibit a high correspondence to out-of-sample tests, (iii) clearly outperform existing approaches, and, finally, (iv) reveal a high face-validity for each dimension when inspected qualitatively.
 Our approach enables dynamic analyses investigating how German politicians and parties use populist language, and how it spreads in the interactive setting of parliamentary debates.
+
+### Stefanie Walter - Computational social science for the study of marginalized groups
+
+Computational social science methods offer many new and exciting opportunities for the study of marginalised groups. At the same time, these methods may replicate and/or even strengthen already existing biases. After discussing why the representation of marginalised groups matters, we will focus on several challenges at different steps of analysis and what computational social science can do to detect and potentially mitigate biases. 
