@@ -34,6 +34,12 @@ Most academics are promoting their work online. At the same time, the public, jo
 
 *Monday, July 31, 15.30, Oettingenstr. 67, Room 115*
 
-### Franziska Weeber
+### Franziska Weeber - Natural Language Processing for Machine Learning-Assisted Text Annotation in the Social Sciences
 
 *Tuesday, August 1, 13.30, Oettingenstr. 67, Room 115*
+
+Text annotation is the process of adding predefined labels to unstructured text data, facilitating the extraction of valuable insights and patterns from vast textual corpora. Ambiguity, cultural nuances, and context-specific language variations can pose obstacles to accurate text annotation, which is why manual annotation by human experts is the preferred way to achieve high-quality annotations. In recent years, NLP techniques such as text classification with transformer-based models such as BERT have gained popularity due to their ability to process and interpret human language. These advances in NLP show tremendous promise to reduce time, money, and effort in the annotation process. However, transferring computer science methods to applied social science research also presents multiple challenges. Different structural requirements, efficiently reviewing predicted annotations or quality assessment of the final results are among the main concerns. As an example, you will be introduced to textada, a specialized tool designed for the social sciences, and its machine learning-assisted annotation pipeline. Textada utilizes NLP techniques to replicate the annotation behavior of a human expert behavior with minimal manual training examples only.
+Additionally, the talk aims to encourage interdisciplinary collaborations between the social sciences and computer science. It also wants to show how research projects can be developed into software, making it easily available to others.
+
+
+
