@@ -13,9 +13,9 @@ To identify, in addition, how the *thin ideology* of populism is *thickened*, ou
 A battery of validation checks shows that the predictions (i) rank parties according to expert surveys, (ii) exhibit a high correspondence to out-of-sample tests, (iii) clearly outperform existing approaches, and, finally, (iv) reveal a high face-validity for each dimension when inspected qualitatively.
 Our approach enables dynamic analyses investigating how German politicians and parties use populist language, and how it spreads in the interactive setting of parliamentary debates.
 
-### Jürgen Pfeffer
+### Jürgen Pfeffer - It’s a new day… Life after the Twitter API
 
-*Wednesday, July 26, 16.00, Oettingenstr. 67, Room 115*
+*Wednesday, July 26, 16.15, Oettingenstr. 67, Room 115*
 
 
 ### Stefanie Walter - Computational social science for the study of marginalized groups
@@ -30,9 +30,18 @@ Computational social science methods offer many new and exciting opportunities f
 
 Most academics are promoting their work online. At the same time, the public, journalists, and interested governments increasingly turn to the Web for scientific information. It thus becomes ever more critical that we better understand the dynamics of online science dissemination networks. My talk presents our latest results about (1) how scientific publications spread on various types of online platforms, losing essential information; (2) how gender and ethnic inequalities impact the coverage of scholarship; and (3) how subsequently retracted articles receive more attention online. Our findings highlight crucial biases in the online sharing of science. They inform efforts to close gaps in scholars' success and curb the online spread of science-related misinformation.
 
-### Andreas Jungherr
+### Andreas Jungherr - Figuring out the impact of artificial intelligence on democracy
 
 *Monday, July 31, 15.30, Oettingenstr. 67, Room 115*
+
+The success and widespread deployment of artificial intelligence (AI) have raised awareness of the technology’s economic, social, and political consequences. Each new step in the development and application of AI is accompanied by speculations about a supposedly imminent but largely fictional artificial general intelligence (AGI) with (super-)human capacities, as seen in the unfolding discourse about capabilities and impact of large language models (LLMs) in the wake of ChatGPT. These far-reaching expectations lead to a discussion on the societal and political impact of AI that is largely dominated by unfocused fears and enthusiasms. In contrast, this talk provides a framework for a more focused and productive analysis and discussion of AI’s likely impact on one specific social field: democracy.
+
+First, it is necessary to be clear about the workings of AI. This means differentiating between what is at present a largely imaginary AGI and narrow artificial intelligence focused on solving specific tasks. This distinction allows for a critical discussion of how AI affects different aspects of democracy, including its effects on the conditions of self-rule and people’s opportunities to exercise it, equality, the institution of elections, and competition between democratic and autocratic systems of government.
+
+The talk will show that the consequences of today’s AI are more specific for democracy than broad speculation about AGI capabilities implies. Focusing on these specific aspects will account for actual threats and opportunities and thus allow for better monitoring of AI’s impact on democracy in an interdisciplinary effort by computer and social scientists.
+
+https://journals.sagepub.com/doi/10.1177/20563051231186353
+
 
 ### Franziska Weeber - Natural Language Processing for Machine Learning-Assisted Text Annotation in the Social Sciences
 
