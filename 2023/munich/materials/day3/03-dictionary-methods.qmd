@@ -1,0 +1,163 @@
+---
+title: "Introduction to Automated Text Analysis"
+subtitle: "Dictionary-based Methods"
+author: Carsten Schwemmer
+date: 2023-07-26
+date-format: "DD.MM.YYYY"
+format: 
+  html:
+    code-fold: show
+    self-contained: true
+    theme: spacelab
+    highlight-style: atom-one
+  revealjs:
+    smaller: true
+    code-fold: show
+    self-contained: true
+execute:
+  echo: true
+editor: visual
+---
+
+## Dictionary-based methods
+
+-   dictionary methods count the number of words that appear in each document that have been assigned a particular meaning or value to the researcher
+-   such words may or may not be weighted (e.g. for sentiment analysis)
+-   sometimes they are only used for filtering or labeling documents in preparation for further analysis
+
+## Example - representation of immigrant groups
+
+*".. how does the government want to ensure that the Federal Employment Office will bring residents with a migratory background into vocational training in similar proportions in their respective age groups as compared to Germans?"* - translated parliamentary question by Mechthild Rawert, SPD, March 2011
+
+-   identify questions that address needs of disadvantaged immigrant groups (= substantive representation)
+-   use indicator in regression approach to examine what factors drive representative behavior
+
+[MPs' principals and the substantive representation of disadvantaged immigrant groups](https://doi.org/10.1080/01402382.2018.1560196){target="_blank"}
+
+## Example - representation of immigrant groups
+
+::: {style="font-size: 60%;"}
+abgeschoben, abschiebehaftbedingungen, abschiebestopps, abschiebung, abschiebungen, altübersiedler, aufenthaltstitel, antidiskriminierungsrichtlinie, antidiskriminierungsstelle, arbeitserlaubnis, aslybewerberleistungsbezug, assoziationsrecht, asyl, asylantrag, asylantragstellern, asylanträge, asylbewerber, asylbewerberinnen, asylbewerberleistungsbezug, asylbewerberleistungsgesetz, asylbewerberleistungsgesetzes, asylbewerberleistungsgestz, asylbewerberleisungsgesetz, asylbewerbern, asylbewerbers, asylblg, asylsuchende, asylsuchenden, asylsuchendenzahlen, asylsuchender, asylsystem, asylsystems, asylverfahren, asylverfahrenrichtlinie, asylverfahrensgesetz, asylverfahrensgesetzes, asylverfahrensrecht, asylverfahrensrichtlinie, asylverfahrungsgesetz, aufenthaltgesetz, aufenthaltsstatus, aufenthaltserlaubnis, aufenthaltserlaubnisse, aufenthaltserlaubnis, aufenthaltsgesetz, aufenthaltsgesetze, aufenthaltsgesetzes, aufenthaltsgestaltung, aufenthaltsgewährung, aufenthaltspapiere, aufenthaltsrecht, aufenthaltstitel, ausländer, ausländerbeschäftigungsrecht, ausländerförderung, ausländerjagdschein, ausländerzentralregister, ausländischer, aussiedler, balkanflüchtlinge, bleiberechtsregelung, bleibeberechtigung, bürgerkriegsflüchtlinge, bürgerkriegsflüchtlingen, ...
+:::
+
+## Example - representation of immigrant groups
+
+::: {style="font-size: 60%;"}
+..., diskriminierung, doppelstaatlers, drittstaatangehörige, drittstaatsangehörige, drittstaatsangehörigen, dublin-ii, dublinüberstellungsverfahren, ehegattennachzug, einbürgerung, einbürgerungstest, einbürgerungstests, einbürgerungsverhalten, eingebürgert, einreiseerlaubnis, einreisevisum, einwanderern, einwanderungsgruppen, eu-aufnahmerichtlinie, eu-aufnahmerichtlinien, fachkräfteanwerbung, familiennachzug, familienzusammenführung, familienzusammenführungsrichtlinen, familienzusammenführungsrichtlinie, flüchtlinge, flüchtlingen, flüchtlingselend, flüchtlingskonvention, flüchtlingslager, frontex, grenzsicherug, grenzübergangsstellen, herkunftsfamilie, herkunftsland, herkunftsstaaten, integration, integrationsansprüche, integrationsarbeit, integrationscoaching, integrationsfördernd, integrationsförderung, integrationsgipfel, integrationsherausforderungen, integrationskurs, integrationskursbeteiligung, integrationskurse, integrationskursen, integrationsleistung, integrationsleistungen, integrationsministerkonferenz, integrationspolitik, integrationspolitisch, integrationsprogramm, integrationsprogramms, integrationsprojekte, integrationssprachkursleiter, integrationstest, integrationsunwillig, integrationsverordnung, integriert, interkulturelle bildung, intgegrationsprojekte, islam, jugendintegrationskurse, jugendmigrationsdienst, jugendmigrationsdienstes, migranten, migrantinnen, migration, migrationsabkommen, migrationsbiographie, migrationshintergrund, migrationshintergrund, migrationshintergrundes, ...
+:::
+
+## Example - representation of immigrant groups
+
+::: {style="font-size: 60%;"}
+..., minderheitsangehoerige, minderheitsangehörige, immigranten, optionskind, optionskinder, optionspflicht, optionspflichtige, rassismus, resettlement-programms, roma-minderheit, rückführungsabkommen, rückführungsentscheidungen, rücknahmeabkommen, rückübernahmeabkommen, rückübernahmeabkommens, rücküberstellung, sammelunterkünfte, sammelunterkünften, scheineheverdachts, scheineheverdachtsfälle, sprachförderung, sprachkurs, sprachkurse, sprachkursen, sprachtest, spätaussiedler, staatenlose, staatsangehörigkeit, staatsangehörigkeitsgesetz, staatsangehörigkeitsrecht, staatsbürgerschaft, visa, visagebühren, visapflicht, visavergabe, visum, visumantrags, visumanträge, visumbefreiung, visumfreiheit, visumgebühren, visums, visumsanträge, visumsbefreiung, visumsfreiheit, visumsgebühren, visumspflicht, visumverfahren, zugewandert, zuwanderer, zuwanderern, zuwanderung
+:::
+
+191 terms in total, identified with qualitative validations using a [Shiny app](https://cschwem2er.github.io/pathways/){target="_blank"}
+
+## Applying dictionaries - data for this lecture
+
+A data set of TED talk transcripts & corresponding metadata (based on [this study](https://www.tandfonline.com/doi/full/10.1080/2474736X.2019.1646102){target="_blank"})
+
+```{r, warning=FALSE, message=FALSE}
+library(tidyverse)
+library(quanteda)
+library(quanteda.textstats)
+library(textdata) 
+theme_set(theme_minimal())
+df <- read_csv('data/tedtalks_transcripts.csv')
+glimpse(df)
+```
+
+## Quanteda corpus
+
+```{r}
+ted_dfm <- corpus(df, text_field = 'text',
+                    docid_field = 'yt_id') |> 
+  tokens(remove_punct = TRUE) |> dfm()
+
+head(ted_dfm, 3, 5)
+```
+
+## Quanteda dictionaries
+
+Quanteda dictionaries consist of lists with one or multiple character vectors. Patterns can for instance be specified used *glob* or *regex* patterns (see `valuetype()`):
+
+```{r}
+dict <- dictionary(list(terror = c("terror*", "threat"),
+                    economy = c("jobs", "business", "grow", "work"),
+                    immigration = c('immig*', 'migra*')))
+dict_match <- dfm_lookup(ted_dfm, dict) # apply dictionary
+textstat_frequency(dict_match)
+```
+
+## TED talks - terrorism dictionary
+
+```{r}
+df_terror <- bind_cols(df, convert(dict_match, to = "data.frame"))
+df_terror|> arrange(desc(terror)) |> 
+  head(1) |> pull(text) |> str_sub(1, 500)
+```
+
+## Sentiment analysis
+
+![](figures/sentiment.jpg){width="100%"}
+
+## Simple approach
+
+-   we'll be using term weights from the [AFINN](http://arxiv.org/abs/1103.2903){target="_blank"} word list, which is included in the [textdata](https://cran.r-project.org/web/packages/textdata/index.html){target="_blank"} package
+-   this simple approach does not consider valence shifters, e.g. "not nice" (see `sentimentr` package for alternatives)
+-   other approaches try to identify emotions (e.g. anger, sadness) instead of "positive" vs. "negative"
+
+```{r}
+afinn <- textdata::lexicon_afinn() # press 1 to download
+sentiment <- c(afinn$value) |> set_names(afinn$word)
+sentiment['sad']
+```
+
+## Computing tweet sentiments
+
+```{r}
+sentiment_dfm <- dfm_keep(ted_dfm, names(sentiment)) |> 
+  dfm_weight(weights = sentiment) # apply sentiment weights
+head(sentiment_dfm, 3, 5)
+```
+
+## Merge datasets
+
+```{r}
+df <- df |>  # merge data, create variables
+  mutate(year = str_sub(date, 1, 4),
+    sentiment = rowSums(sentiment_dfm),
+         sent_norm = sentiment / rowSums(ted_dfm)) # optional: normalization
+
+df |> arrange(sent_norm) |> head(5)  |> 
+  pull(title) # ted talks with most negative sentiment
+```
+
+## Sentiment over time
+
+```{r fig.height=5, fig.width=7}
+df |> group_by(year) |> 
+  summarise(avg_sent = mean(sentiment)) |> 
+  ggplot(aes(x = year, y = avg_sent, group = 1)) + 
+  geom_point(size = 2) + geom_line() 
+```
+
+## Many sentiment dictionaries, very different results
+
+![](figures/sentiment_diff.png){width="100%"}
+
+[Comparing and combining sentiment analysis methods](https://doi.org/10.1145/2512938.2512951){target="_blank"}
+
+## When to use dictionary-based approaches?
+
+-   quality of dictionary-based methods depends heavily upon the match between learning-corpus and corpus of interest
+-   creating your own dictionaries might often be the best option, but is time sensitive
+-   if you are looking for specific things rather than for categorizing documents, dictionary methods often perform better than "catch-all" approaches (e.g. topic modeling)
+-   computers-assisted methods can be [quite helpful](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12291){target="_blank"}
+
+## 
+
+::: {style="font-size: 200%;text-align:center;"}
+**Questions?**
+:::
