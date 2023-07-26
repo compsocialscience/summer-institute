@@ -318,8 +318,8 @@
     - name: "[Day 5: Pre-arrival Videos & Corresponding Slides](https://sicss.io/curriculum) ([Takeaway Sheet](https://docs.google.com/document/d/13aojCBDBCIpMhaNzlBcRCc1WPkVpaBx61Obx5qnbWQA/edit?usp=sharing))"
     - name: "[Participant Zoom Links](https://docs.google.com/document/d/1wPr0rmHvjjIJ7K8sv6IytATEH7fv6d99C-ovZurApqw/edit?usp=sharing)"
     - name: "9:00 - 10:00 R, STATA, and Python Office Hours with Mathematica TAs (as needed) (*Zoom*)"
-    - name: "10:00 - 10:15 Logistics (*Zoom*) (video)"
-    - name: "10:15 - 10:30 Introduction to the Group Exercise (*Zoom*) (video)"
+    - name: "10:00 - 10:15 Logistics (*Zoom*) [(video)](https://youtu.be/qdLuPLaF_Nc)"
+    - name: "10:15 - 10:30 Introduction to the Group Exercise (*Zoom*) [(video)](https://youtu.be/eFe2a9ho1FY)"
     - name: "10:30 - 11:30 Group Exercise Continuation: SICSS-H/M Mass Collaboration Activity, [Lesson Plan (participants)](https://docs.google.com/document/d/1ZC3Y7LXqJ65Tdi6yx-l19HuChHJjaqBz1G6DBW-R_pA/edit?usp=sharing), [Slides](https://docs.google.com/presentation/d/1yUkktDOvGx_r1wsIQ4o361K5zgutpGh7SfDqFWnMzkY/edit?usp=sharing) (*Zoom*) OR Content-Specific Office Hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "11:30 - 12:00 Break"
     - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk #4: Federal Reserve Board of Governors [(slides)](https://docs.google.com/presentation/d/19t7nbRjiO3uu6wmahzIqBpT0bcfKSVXUwDtjCrvCGUU/edit?usp=share_link) (*Zoom*) [(video)](https://youtu.be/GZol1U9RfCE) (LIVE Q&A) OR R, STATA, and Python Office Hours with Mathematica TAs (as needed) (*Zoom*)
@@ -329,9 +329,9 @@
         - [Zofsha Merchant](https://www.linkedin.com/in/zofsha-merchant), Research Assistant, Division of Consumer and Community Affairs, Federal Reserve Board of Governors"
    
     - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 3:00 Group Exercise Continuation: SICSS-H/M Mass Collaboration Activity (*Zoom*) (video) OR Content-Specific Office Hours with Mathematica TAs (as needed) (*Zoom*)"
+    - name: "1:15 - 3:00 Group Exercise Continuation: SICSS-H/M Mass Collaboration Activity (*Zoom*) [(video)](https://youtu.be/meqFUA908Fc) OR Content-Specific Office Hours with Mathematica TAs (as needed) (*Zoom*)"
     - name: "3:00 - 3:15 Break"
-    - name: "3:15 - 3:45 Group Exercise Debrief and Logistics (*Zoom*) (video)"
+    - name: "3:15 - 3:45 Group Exercise Debrief and Logistics (*Zoom*) [(video)](https://youtu.be/9_XnvgNWEb0)"
     - name: "3:45 - 5:30 Data Assurance"
 
 
@@ -359,7 +359,7 @@
     - name: "1:00 - 1:15 Break"
     - name: "1:15 - 2:30 Round 6-10 (15 minutes each) (*Zoom*)"
     - name: "2:30 - 2:40 Break"
-    - name: "2:40 - 3:30 Family Free For All"
+    - name: "2:40 - 3:30 Family Free For All (*Zoom*) [(video)](https://youtu.be/pMGgnyU2q0c)"
     - name: "3:30 - 4:00 Group Debrief (Join Research Teams) (*Zoom*) (video)"
     - name: '4:00 - 5:30 Featured Presentation #1: “Community Data Science Approaches for Gun Violence Prevention” [(video)](https://youtu.be/QCpkm_7vKRw) - LIVE Session to Include Q&A and Office Hours [(slides)](https://docs.google.com/presentation/d/1em_8HtVnKLbw5LLDNH4ASEbltFZMWXUoD1Tb_f35ZGA/edit?usp=share_link) (*Zoom*) (LIVE Q&A)
         
@@ -410,7 +410,7 @@
     - name: "10:00 - 12:00 Work on Group Projects (*Zoom*)"
     - name: "12:00 - 1:00 Bite-Sized Lunchtime Talk #6: varyCSS (*Zoom*) [(video)](https://youtu.be/g9aQ4XFkt80) (LIVE Q&A)
     
-        - [Taylor Brown](http://www.taylorwhittenbrown.com/), Research Scientist, Meta Inc. & Co-Founder, varyCSS
+        - [Taylor Brown](http://www.taylorwhittenbrown.com/), Ph.D., Research Scientist, Meta Inc. & Co-Founder, varyCSS
                                    
         - [Aidan Combs](https://aidancombs.netlify.app/), Ph.D. candidate, Sociology, Duke University & varyCSS
         
