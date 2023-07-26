@@ -1,6 +1,108 @@
-- date: July 17 to July 27, 2023
-  events:
-    - name: "We will update our tentative schedule [here](https://docs.google.com/spreadsheets/d/1EIINavEv7D1vsz8xdrMjNuUyurodpXN4r8f_HIFwqOM/edit?usp=sharing). Participants will enjoy intensive learning in the first week based on tutorials, group discussions, lectures, and keynotes. The second week will focus on research projects developed by participants, specialized workshops, and finishing with group project presentations. Our program focuses on ethical issues of big data, text analysis, networks, and visualization. In addition, we will invite guest speakers to provide an overview of state-of-the-art developments in machine learning and social sciences, expanding to topics such as image-as-data and surveys."
-  
-    
+- name: "Sala, C301, Facultad de Ingeniería Campus San Joaquín, Pontificia Universidad Católica." 
 
+- date: Monday July 17, 2023
+  name: "Day 1: Introduction and Ethics"
+  events: 
+    - name: "09:30 - 10:00 Orientation: introduction of organizers, goals/expectation of the program, means of communications (e.g., slack)"
+    - name: "10:00 - 11:00 Overview Lecture: What is Computational Social Science? - Andrés Abeliuk et al.[Link](https://docs.google.com/presentation/d/14DSTiob5268fI4-pIbv0HwwX-70N5B7th3QtAU7Gdy8/edit?usp=sharing)"
+    - name: "11:00 - 11:30 Morning coffee"
+    - name: "11:30 - 13:00 Small group activity [Link](https://docs.google.com/document/d/16LcJWwh-FBW2wSINILdY12KtTrdF96ifmM7c5laRAU0/edit?usp=sharing)"
+    - name: "13:00 - 14:00 Lunch"
+    - name: "14:00 - 15:00 Keynote: Speaker on Data and Ethics - Claudia López"
+    - name: "15:00 - 16:30 Ethics Case (group discussions) - Pedro Seguel [Link](https://docs.google.com/document/d/19LDL3KIiLlqVEpVnsll5ckSNZOz-UzziUVJS_0g209c/edit?usp=sharing) " 
+
+- date: Tuesday July 18, 2023
+  name: "Day 2: Knowledge graphs/Natural Language Processing"
+  events: 
+    - name: "09:30 - 11:00 Lecture: Knowledge graphs - Sebastián Ferrada"
+    - name: "11:00 - 11:30 Morning coffee"
+    - name: "11:30 - 13:00 Workshop: Querying Wikidata - Sebastián Ferrada"
+    - name: "13:00 - 14:00 Lunch"
+    - name: "14:00 - 15:00 Lecture: Text as Data/NLP intro - Pedro Seguel"
+    - name: "15:00 - 16:30 Workshop: Text Analysis I - Jorge Ortiz"
+
+- date: Wednesday July 19, 2023
+  name: "Day 3: Text Analysis/Natural Language Processing"
+  events: 
+    - name: "09:30 - 11:00 Workshop: Text Analysis II - Gabriel Iturra"
+    - name: "11:00 - 11:30 Morning coffee"
+    - name: "11:30 - 13:00 Keynote: Large Language Models - Felipe Bravo-Márquez"
+    - name: "13:00 - 14:00 Lunch"
+    - name: "14:00 - 15:30 Workshop: Web Scrapping - Gabriel Iturra"
+    - name: "15:30 - 15:45 Short Break"
+    - name: "15:45 - 16:30 Group exercises [Link](https://docs.google.com/document/d/17bUtp4VafeezLFWYmQCxqyMJcL07C1l2jLyOhzmxdMs/edit?usp=sharing)"
+
+- date: Thursday July 20, 2023
+  name: "Day 4: Visualization and Data Analysis"
+  events: 
+    - name: "09:30 - 11:00 Lecture: Data Visualization  - Cinthia Sánchez"
+    - name: "11:00 - 11:30 Morning coffee"
+    - name: "11:30 - 13:00 Workshop: Data Visualization  - Cinthia Sánchez"
+    - name: "13:00 - 14:00 Lunch"
+    - name: "14:00 - 15:15 Lecture: Unsupervised Learning -  Hernán Sarmiento"
+    - name: "15:15 - 15:30 Short Break"
+    - name: "15:30 - 16:30 Workshop: Unsupervised Learning -  Hernán Sarmiento"
+
+
+- date: Friday July 21, 2023
+  name: "Day 5: Research Speed Dating/Group Formation"
+  events: 
+    - name: "09:30 - 11:00 Keynote: Plataforma Telar -Juan Pablo Luna"
+    - name: "11:00 - 11:30 Morning coffee"
+    - name: "11:30 - 12:00 Workshop: ChatGPT API- Andrés Abeliuk"
+    - name: "12:00 - 13:00 Research Speed Dating Logistics"
+    - name: "13:00 - 14:00 Lunch"
+    - name: "14:00 - 15:00 Research Speed Dating Maximally Similar Groups"
+    - name: "15:00 - 15:15 Short Break"
+    - name: "15:15 - 16:00 Research Speed Dating Maximally Dissimilar Groups"
+    - name: "16:00 - 16:30 Group Debrief (Project selection)"
+
+- date: Saturday July 22, 2023
+  name: "Day off"
+    
+- date: Sunday July 23, 2023
+  name: "Day off"
+
+- date: Monday July 24, 2023
+  name: "Day 6:  Work on group projects + Keynotes"
+  events: 
+    - name: "09:30 - 11:00 Keynote: La Ciencia de Datos como Motor de la Innovación Social - Jazmine Maldonado, Innovación y Transferencia Tecnológica, IMFD "
+    - name: "11:00 - 11:30 Morning coffee"
+    - name: "11:30 - 13:00 Keynote: Disinformation and network analysis - Marcelo Mendoza"
+    - name: "13:00 - 14:00 Lunch"
+    - name: "14:00 - 15:00 Project Time"
+    - name: "15:00 - 15:15 Short Break"
+    - name: "15:15 - 16:30 Project Time"
+
+- date: Tuesday July 25, 2023
+  name: "Day 7:  Work on group projects + Workshop"
+  events: 
+    - name: "09:30 - 11:00 Keynote: Experimentos online - Mauricio Bucca"
+    - name: "11:00 - 11:30 Morning coffee"
+    - name: "11:30 - 13:00 Project Time"
+    - name: "13:00 - 14:00 Lunch"
+    - name: "14:00 - 15:00 Project Time with Claudio Gutiérrez (Ethics discussion about projects)"
+    - name: "15:00 - 15:15 Short Break"
+    - name: "15:15 - 16:30 Project Time"
+
+- date: Wednesday July 26, 2023
+  name: "Day 8:  Work on group projects + Workshop"
+  events: 
+    - name: "09:30 - 11:00 Keynote: Pew Research Center, DataLabs - Gonzalo Riveros, Zoom"
+    - name: "11:00 - 11:30 Morning coffee"
+    - name: "11:30 - 13:00 Industry Panel: DESUC (Cristián Ayala), Ulhoster (Antonio Díaz-Araujo)- Pablo Beytía" 
+    - name: "13:00 - 14:00 Lunch"
+    - name: "14:00 - 15:00 Lecture: Challenges interpreting digital social data - Pablo Beytía"
+    - name: "15:00 - 15:15 Short Break"
+    - name: "15:15 - 16:30 Project Time"
+    
+- date: Thursday July 27, 2023
+  name: "Day 9:  Work on group projects + Presentations!"
+  events: 
+    - name: "09:30 - 11:00 Project Time"
+    - name: "11:00 - 11:30 Morning coffee"
+    - name: "11:30 - 13:00 Project Time" 
+    - name: "13:00 - 14:00 Lunch"
+    - name: "14:00 - 15:00 Group Presentation"
+    - name: "15:00 - 15:15 Short Break"
+    - name: "15:15 - 16:30 Group Presentation"

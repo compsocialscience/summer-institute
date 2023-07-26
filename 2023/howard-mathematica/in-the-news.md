@@ -10,6 +10,31 @@ image: /assets/images/howard.jpg
 <br />
 
 ---
+<u>BLOG: Updates Since 2021 - SICSS-Howard/Mathematica Alumni Receive Inaugural Excellence in Computational Social Science Research Awards</u>
+<br><font color="grey"><font size="2">Jul 19, 2023</font></font> 
+<br><i><font size = "2">Hear from the 2021 SICSS-Howard/Mathematica Excellence in Computational Social Science Research Fund awardees about how the funding helped their projects and their future plans. </font></i>
+<br><font size = "1">(Posted by <a href="https://www.methodspace.com/blog/updates-since-2021-sicss-howardmathematica-alumni-receive-inaugural-excellence-in-computational-social-science-research-awards">Sage Methodspace</a>)</font>
+
+<u>BLOG: SICSS-Howard/Mathematica Alumni Receive 2022 Excellence in Computational Social Science Research Awards</u>
+<br><font color="grey"><font size="2">Jul 13, 2023</font></font> 
+<br><i><font size = "2">At SICSS-Howard/Mathematic 2022, two group projects and five individual projects received the Inaugural Excellence in Computational Social Science Research Award.</font></i>
+<br><font size = "1">(Posted by <a href="https://www.methodspace.com/blog/sicss-howardmathematica-alumni-receive-2022-excellence-in-computational-social-science-research-awards">Sage Methodspace</a>)</font>
+
+<u>BLOG: Bridging the Diversity Gap in Biomedical Research: Physicians and Biomedical Scholars discuss the need for Diversity and Interdisciplinary Collaboration In Research</u>
+<br><font color="grey"><font size="2">Jul 10, 2023</font></font> 
+<br><i><font size = "2">At SICSS-H/M 2022, Anthony Wutoh, Yahya Shaikh and Carter Clinton discussed how to bridge the diversity gap in biomedical research and the need for interdisciplinary collaboration.</font></i>
+<br><font size = "1">(Posted by <a href="https://www.methodspace.com/blog/bridging-the-diversity-gap-in-biomedical-research-physicians-and-biomedical-scholars-discuss-the-need-for-diversity-and-interdisciplinary-collaboration-in-research">Sage Methodspace</a>)</font>
+
+<u>BLOG: SICSS-Howard/Mathematica Alumni Legacy Teaching Fellow Talks about Carrying the Light and Restorative Spaces</u>
+<br><font color="grey"><font size="2">Jul 6, 2023</font></font> 
+<br><i><font size = "2">Rashun Miles discusses his experience returning to SICSS-Howard/Mathematica as an alumni and the larger need for restorative spaces for Black students in every university.</font></i>
+<br><font size = "1">(Posted by <a href="https://www.methodspace.com/blog/sicss-howardmathematica-alumni-legacy-teaching-fellow-talks-about-carrying-the-light-and-restorative-spaces">Sage Methodspace</a>)</font>
+
+<u>BLOG: Laverne H. Council, Global Operations And Information Technology Strategist and Mathematica Board Member, Delivers Riveting Address to Close SICSS-Howard/Mathematica 2022</u>
+<br><font color="grey"><font size="2">Jul 4, 2023</font></font> 
+<br><i><font size = "2">LaVerne H. Council spoke at the Closing Plenary of SICSS/Howard-Mathematica 2022, emphasizing the importance of seeking wisdom and truth through data and fair & effective policymaking.</font></i>
+<br><font size = "1">(Posted by <a href="https://www.methodspace.com/blog/laverne-h-council-global-operations-and-information-technology-strategist-and-mathematica-board-member-delivers-riveting-address-to-close-sicss-howardmathematica-2022">Sage Methodspace</a>)</font>
+
 <u>BLOG: Paula Moreno, Youngest Minister of Culture of Colombia and Afro-Colombian Trailblazer Delivers Inaugural SICSS-Howard/Mathematica Motivational Address</u>
 <br><font color="grey"><font size="2">Jun 24, 2023</font></font> 
 <br><i><font size = "2">Paula Moreno, founder of Manos Visibles & first Afro-Colombian woman to serve as Minister of Culture of Colombia, delivered the first SICSS-Howard/Mathematica Motivational Address, focused on the technological challenges and solutions for Africans and people of African descent around the world.</font></i>
