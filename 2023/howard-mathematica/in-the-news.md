@@ -10,9 +10,19 @@ image: /assets/images/howard.jpg
 <br />
 
 ---
+<u>BLOG: SICSS-Howard/Mathematica 2022 Participant Talks about Why Black Representation in Data Science Training Matters</u>
+<br><font color="grey"><font size="2">Jul 26, 2023</font></font> 
+<br><i><font size = "2">Daniel Lobo shares four learnings from his unforgettable experience at SICSS-Howard/Mathematica 2022.</font></i>
+<br><font size = "1">(Posted by <a href="https://www.methodspace.com/blog/sicss-howardmathematica-2022-participant-talks-about-why-black-representation-in-data-science-training-matters">Sage Methodspace</a>)</font>
+
+<u>BLOG: UDC Assistant Professor Talks “Drinking from the Fire Hose” during SICSS-Howard/Mathematica 2022</u>
+<br><font color="grey"><font size="2">Jul 24, 2023</font></font> 
+<br><i><font size = "2">UDC Assistant Professor, Andrea Adams, talks about their experience during SICSS-Howard/Mathematica 2022.</font></i>
+<br><font size = "1">(Posted by <a href="https://www.methodspace.com/blog/udc-assistant-professor-talks-drinking-from-the-fire-hose-during-sicss-howardmathematica-2022">Sage Methodspace</a>)</font>
+
 <u>BLOG: Updates Since 2021 - SICSS-Howard/Mathematica Alumni Receive Inaugural Excellence in Computational Social Science Research Awards</u>
 <br><font color="grey"><font size="2">Jul 19, 2023</font></font> 
-<br><i><font size = "2">Hear from the 2021 SICSS-Howard/Mathematica Excellence in Computational Social Science Research Fund awardees about how the funding helped their projects and their future plans. </font></i>
+<br><i><font size = "2">Hear from the 2021 SICSS-Howard/Mathematica Excellence in Computational Social Science Research Fund awardees about how the funding helped their projects and their future plans.</font></i>
 <br><font size = "1">(Posted by <a href="https://www.methodspace.com/blog/updates-since-2021-sicss-howardmathematica-alumni-receive-inaugural-excellence-in-computational-social-science-research-awards">Sage Methodspace</a>)</font>
 
 <u>BLOG: SICSS-Howard/Mathematica Alumni Receive 2022 Excellence in Computational Social Science Research Awards</u>
