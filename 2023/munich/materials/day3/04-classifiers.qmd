@@ -1,0 +1,199 @@
+---
+title: "Introduction to Automated Text Analysis"
+subtitle: "Supervised Text Classification"
+author: Carsten Schwemmer
+date: 2023-07-26
+date-format: "DD.MM.YYYY"
+format: 
+  html:
+    code-fold: show
+    self-contained: true
+    theme: spacelab
+    highlight-style: atom-one
+  revealjs:
+    smaller: true
+    code-fold: show
+    self-contained: true
+execute:
+  echo: true
+editor: visual
+---
+
+## Supervised vs unsupervised
+
+![](figures/supervised-vs-unsupervised.png){fig-align="center" width="80%"}
+
+## A simple model: Naive-Bayes Classifier
+
+-   "all models are wrong but some models are useful."
+-   *naive* assumption: features are independent of each other
+
+$$
+P(\text{label}\mid\text{feature}) = 
+\frac{P(\text{feature}\mid
+\text{label}) \cdot P(\text{label})}{P(\text{feature})}
+$$
+
+## Reload our DonorsChoose data
+
+```{r, warning=FALSE, message=FALSE}
+library(tidyverse)
+library(quanteda)
+library(quanteda.textmodels)
+library(tidymodels)
+load('data/dfm_donor.Rdata')
+dim(dfm_donor) 
+```
+
+We want to predict whether a donation request received funding:
+
+```{r}
+docvars(dfm_donor) |> count(funded)
+docvars(dfm_donor)$label <- ifelse(docvars(dfm_donor)$funded == 1, 
+                                    "funded", "not funded")
+```
+
+## Training and test sets
+
+-   in order to train a model, we need to split our data into training and test sets
+-   the classifier will learn from the training set. The testset is used to evaluate its performance on unseen data
+-   there is no optimal solution for the proportions to split train and test data (see [bias-variance tradeoff](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff){target="_blank"}).
+
+## Training a model
+
+```{r}
+set.seed(1337) # for replication
+
+train <- dfm_sample(dfm_donor, size = 8000) # 80% of the data
+test <- dfm_donor[!docnames(dfm_donor) %in% docnames(train), ] 
+
+# run the model
+donor_nb <- textmodel_nb(x = train, y = docvars(train)$label)
+summary(donor_nb)
+```
+
+## Model evaluation: Confusion matrix & accuracy
+
+|               | Reference       |                 |
+|---------------|-----------------|-----------------|
+| **Predicted** | *TRUE*          | *FALSE*         |
+| *TRUE*        | True Positives  | False Positives |
+| *FALSE*       | False Negatives | True Negatives  |
+
+$$ Accuracy = \frac{TP + TN }{TP + FP + FN + TN} $$
+
+## Constructing the confusion matrix
+
+```{r}
+pred_names <- predict(donor_nb, newdata = test)
+pred_df <- data.frame(obs = docvars(test)$label, 
+                      pred = pred_names) |> 
+  mutate(across(everything(), factor)) |> 
+  rownames_to_column()
+
+cmat <- conf_mat(pred_df, truth = obs, estimate = pred) 
+cmat # Confusion Matrix
+```
+
+## Accuracy
+
+Correct predictions are positioned on the diagonal of the accuracy matrix. Their share of all predictions corresponds to the model accuracy:
+
+```{r}
+sum(diag(cmat$table)) / sum(cmat$table) # Accuracy
+```
+
+## Other metrics for performance evaluation
+
+-   accuracy is often not a good measure of performance, especially for imbalanced classes
+-   multiple alternatives are available, e.g. balanced accuracy
+
+$$ Sensitivity = \frac{TP}{TP + FN}; Specificity = \frac{TN}{TN + FP} $$ $$ Balanced\ Accuracy =  \frac{Sensitivity + Specificity}{2}$$
+
+## Evaluating model performance
+
+Using `summary()` on a confusion matrix object calculates multiple evaluation metrics:
+
+```{r}
+summary(cmat)
+```
+
+## Cross-validation
+
+-   repeat the model training on several train/test splits
+-   assess performance across all runs
+-   we'll use a simple k-fold variant, where k equals the number of splits
+
+```{r}
+
+cross_val <- function(
+            input_dfm, # feature dfm
+            label,# variable holding labels
+            train_size, # size of training data
+            k = 10) # number of runs
+{
+  runs <- c(1:k) # vector for number of runs
+  results_df <- tibble() # empty dataset for results
+
+  for (run in seq_along(runs)) { # loop
+    print(str_c("Cross Validation Run: ", as.character(run)))
+    set.seed(run) # adjust set for replication purposes
+    
+    train <- dfm_sample(input_dfm, size = train_size)
+    test <- input_dfm[!docnames(input_dfm) %in% docnames(train),]
+    textmodel <- textmodel_nb(train,  docvars(train)[[label]])
+    pred <- predict(textmodel, newdata = test)
+    pred_df <- tibble(obs = docvars(test)[[label]],
+                      pred = pred) |>
+      mutate(across(everything(), factor)) |>
+      rownames_to_column()
+    eval <- conf_mat(pred_df,  truth = obs, estimate = pred)
+    
+    # add data to df within loop
+    run_df <- summary(eval) |>
+      mutate(cv_split = run)
+    # add data to df outside of loop
+    results_df <- results_df |> bind_rows(run_df)
+    
+  }
+  return(results_df)
+}
+```
+
+## Running validation over 10 splits
+
+```{r}
+results_cv <- cross_val(input_dfm = dfm_donor, label = 'label', 
+                        train_size = 9000, k = 10)
+head(results_cv)
+```
+
+```{r}
+results_cv |> group_by(.metric) |> 
+  summarise(average = mean(.estimate))
+```
+
+## What to do when model performance is bad
+
+-   adjust feature space
+-   adjust model parameters
+-   try different model(s)
+-   in our case: think about other factors that might be related to the funding success of donation requests
+
+## Other approaches we didn't cover
+
+-   combining predictions of multiple models (e.g. support vector machines, random forest models)
+-   optimizing hyperparameters (e.g. distribution assumptions of our naive-bayes model)
+-   using features beyond bag-of-words (e.g. word embeddings, transformer-based nlp)
+
+## When should you use supervised classification?
+
+-   if your goal is the best predictive power, supervised models are reasonable choices
+-   for many social science applications, supervised models are used to infer labels for a larger dataset from a smaller trainingset, which are then used in downstream tasks
+-   it might be helpful to compare results with dictionary-based approaches
+
+## 
+
+::: {style="font-size: 200%;text-align:center;"}
+**Questions?**
+:::

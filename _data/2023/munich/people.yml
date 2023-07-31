@@ -20,7 +20,7 @@ faculty:
 speakers: 
   title: Guest Speakers
   people:
-  
+      
     - name: Raphael H. Heiberger
       image: /assets/images/rhheiberger_portrait.jpg
       bio: "Raphael H. Heiberger is Tenure-Track Professor at the Institute for Social Sciences of the University of Stuttgart. He is head of the Computational Social Science lab. He received his PhD from the University of Bamberg (Germany, summa cum laude) and was visiting scholar at UCLA and a Fulbright-Fellow at UC Berkeley. He is a permanent member of the McFarland Lab at Stanford. Only recently, he was honored to become a Humboldt Fellow. His research is funded by the DFG Excellence Initiative, EU's Horizon programm, the BMBF, or the MKW in Baden-Württemberg. Besides various aspects of Social Network Analysis (dynamics, statistical modelling, theory), his research interests focus on applying Natural Language Processing and Machine Learning to social phenomena (e.g. career trajectories, markets and innovation, or political communication)."
@@ -50,6 +50,32 @@ speakers:
       image: /assets/images/franziska_weeber.png
       bio: "Franziska Weeber is a co-founder at textada, a machine learning-powered text annotation tool. Her work focuses on natural language processing and deep learning in low-resource social science applications. After her M.Sc. degree in Social and Economic Data Science, she held an Exist business start-up grant and was a research assistant at the University of Konstanz and the Heidelberg Academy of Sciences."
 
+guest lecturers:
+  title: Guest Lecturers
+  people:
+
+    - name: Valerie Hase
+      image: /assets/images/vhase_portrait.jpg
+      bio: "Valerie Hase is a postdoctoral researcher at the Department of Media and Communication at LMU Munich. After studying at WWU Münster and the London School of Political Science and Economy, she obtained a PhD from the University of Zurich. Her research focuses on digital journalism, cross-platform perspectives, crisis communication, and computational social science, especially text-as-data and digital traces."
+      website: https://valerie-hase.com/
+  
+    - name: Bernhard Clemm von Hohenberg
+      bio: "(MPhil Oxford, PhD European University Institute) is a researcher at the Department of Computational Social Science at the GESIS Leibniz Institute for the Social Sciences. He previously worked as a postdoc in political communication at the University of Amsterdam. He is interested in how people seek out and process (mis)information, the effects of online behaviour on political attitudes, and psychological and behavioural asymmetries between ideological groups. Methodologically, he is interested in improving survey experiments and survey measurement, causal inference, and the use of digital trace data. He is the data editor at the journal Political Communication."
+      website: https://bernhardclemm.com
+
+    - name: Jan Zilinsky
+      bio: "Jan Zilinsky is a postdoctoral research fellow and computational social scientist at the Technical University of Munich. He studies how citizens receive, organize and process economic and political information via digital media. He received his PhD from New York University's Department of Politics, and works with NYU's Center for Social Media and Politics (CSMaP)."
+      website: https://zilinskyjan.github.io   
+      
+teaching assistants:
+  title: Teaching Assistants
+  people:
+ 
+    - name: Renáta Topinková
+      image: /assets/images/rtopinkova_portrait.jpeg
+      bio: "Renáta Topinková is a postdoc in Computational Social Sciences at LMU Munich. Her dissertation examined homophily patterns in online dating. She is interested in effective data visualization, text analysis, experiments, and social network analysis."
+      website: https://renatatopinkova.github.io/
+      
 participants: 
   title: Participants
   people:
@@ -153,3 +179,7 @@ participants:
       image: /assets/images/bgliozzo_portrait.jpg
       bio: "Birgit Zeyer-Gliozzo is a postdoctoral researcher at the chair of Social Structure and Sociology of Aging Societies at TU Dortmund University. She is currently working with an interdisciplinary team on the development and application of innovative methods from data science for social science research questions as part of the project From Prediction to Agile Interventions in the Social Science (FAIR). Her research interests include topics such as work and labor markets, education and training, health, social inequalities, and technological change."
       website: https://fair.tu-dortmund.de/en/about/scientists/birgit-zeyer-gliozzo/
+
+    - name: Johanna zum Felde
+      image: /assets/images/JohannazF.JPG
+      bio: "Johanna zum Felde is a Research and Teaching Associate in the division of International Communication at the Institute for Media and Communication Studies, Freie Universität Berlin. In her PhD research she examines how political communication can aid or prevent democracy in a changing French public sphere with qualitative research methods, text classification and machine learning. Previously she has been advocating the publication and use of open data with the Open Knowledge Foundation in Berlin."

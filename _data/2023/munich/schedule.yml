@@ -1,59 +1,59 @@
-- date: July 24 to August 4, 2023
-  events:
-    - name: "Please note that this is a preliminary schedule and subject to changes."
+
+- date: 2023-07-23
+  name: "18:30 - Opening Dinner at Restaurant Türkenhof (Türkenstraße 78, 80799 München)"   
     
 - date: 2023-07-24
-  name: "Introduction and Ethics"
+  name: "Introduction and Ethics (Carsten Schwemmer & Mario Haim)"
   events:
-      - name: "09:00 - 10:30 Logistics and introduction to SICSS"
-      - name: "10:30 - 10:45 Coffee break"
+      - name: "09:00 - 10:15 Logistics and introduction to SICSS [Material Day 1](https://github.com/compsocialscience/summer-institute/tree/master/2023/munich/materials/day1)"
+      - name: "10:15 - 10:45 Coffee break"
       - name: "10:45 - 12:15 Ethics"
       - name: "12:15 - 12:30 Introduction to group exercise"
       - name: "12:30 - 13:30 Lunch"
       - name: "13:30 - 15:45 Group exercise"
       - name: "15:45 - 16:00 Break"
-      - name: "16:00 - 17:30 Guest speaker (t.b.a)"
+      - name: "CANCELLED: 16:00 - 17:30 Guest speaker: Frauke Kreuter"
       
 - date: 2023-07-25
-  name: "Collecting Digital Trace Data"
+  name: "Collecting Digital Trace Data (Jan Zilinsky)"
   events:
-      - name: "09:00 - 10:30 Logistics and collecting digital trace data (part 1)"
+      - name: "09:00 - 10:30 Logistics and collecting digital trace data (part 1) [Material Day 2](https://www.dropbox.com/scl/fo/4exwpc2anw1joghsowf08/h?rlkey=9m1to74quy8jwlrg79if8jp6u&dl=1)"
       - name: "10:30 - 10:45 Coffee break"
       - name: "10:45 - 12:15 Collecting digital trace data (part 2)"
       - name: "12:15 - 12:30 Introduction to group exercise"
       - name: "12:30 - 13:30 Lunch"
       - name: "13:30 - 15:45 Group exercise"
       - name: "15:45 - 16:00 Break"
-      - name: "16:00 - 17:30 Guest speaker (t.b.a)"
+      - name: "16:00 - 17:30 Guest speaker: Raphael Heiberger"
       
 - date: 2023-07-26
-  name: "Basics of automated text analysis"
+  name: "Basics of automated text analysis (Carsten Schwemmer)"
   events:
-      - name: "09:00 - 10:30 Logistics and basics of quantitative text analysis (part 1)"
+      - name: "09:00 - 10:30 Logistics and basics of automated text analysis (part 1) [Material Day 3](https://www.dropbox.com/scl/fo/kw9iedcnsqeb5pz2xu7gz/h?rlkey=cuathbeg4tc7sc5u9mmlxjl9t&dl=1)"
       - name: "10:30 - 10:45 Coffee break"
-      - name: "10:45 - 12:15 Basics of quantitative text analysis (part 2)"
+      - name: "10:45 - 12:15 Basics of automated text analysis (part 2)"
       - name: "12:15 - 12:30 Introduction to group exercise"
       - name: "12:30 - 13:30 Lunch"
       - name: "13:30 - 15:45 Group exercise"
       - name: "15:45 - 16:00 Break"
-      - name: "16:00 - 17:30 Guest speaker (t.b.a)"
+      - name: "16:00 - 17:30 Guest speaker: Jürgen Pfeffer"
       
 - date: 2023-07-27
-  name: "Automated text analysis and machine learning"
+  name: "Advanced automated text analysis (Valerie Hase)"
   events:
-      - name: "09:00 - 10:30 Logistics and automated text analysis and machine learning (part 1)"
+      - name: "09:00 - 10:30 Logistics and advanced automated text analysis [Material Day 4](https://www.dropbox.com/scl/fo/gapow2zj9cvsvizx84wwb/h?rlkey=klxlis6jrx5g3fvpz0p90hs5c&dl=1)"
       - name: "10:30 - 10:45 Coffee break"
-      - name: "10:45 - 12:15 Automated text analysis and machine learning (part 2)"
+      - name: "10:45 - 12:15 Advanced Automated text analysis (part 2)"
       - name: "12:15 - 12:30 Introduction to group exercise"
       - name: "12:30 - 13:30 Lunch"
       - name: "13:30 - 15:45 Group exercise"
       - name: "15:45 - 16:00 Break"
-      - name: "16:00 - 17:30 Guest speaker (t.b.a)"
+      - name: "16:00 - 17:30 Guest speaker: Stefanie Walter"
       
 - date: 2023-07-28
-  name: "Surveys in the Digital Age"
+  name: "Surveys in the Digital Age (Bernhard Clemm von Hohenberg)"
   events:
-      - name: "09:00 - 10:30 Logistics and Surveys (Part 1)"
+      - name: "09:00 - 10:30 Logistics and Surveys (Part 1) [Material Day 5](https://www.dropbox.com/scl/fo/g4hb8p40hb7pbqxqmz3q5/h?rlkey=jvn7h67o17cv2bzheujyde74y&dl=1)"
       - name: "10:15 - 10:30 Coffee break"
       - name: "10:30 - 11:30 Surveys (Part 2)"
       - name: "11:30 - 12:00 Introduction to group exercise"
@@ -61,12 +61,12 @@
       - name: "12:30 - 13:30 Lunch"
       - name: "13:30 - 15:45 Continue group exercise"
       - name: "15:45 - 16:00 Break"
-      - name: "16:00 - 17:30 Guest speaker (t.b.a)"
+      - name: "16:00 - 17:30 Guest speaker: Agnes Horvat"
       
 - date: 2023-07-29
-  name: "Transparent and reproducible research"
+  name: "Transparent and reproducible research (Alexander Wuttke)"
   events:
-      - name: "09:00 - 10:30 Logistics and transparent research (part 1)"
+      - name: "09:00 - 10:30 Logistics and transparent research (part 1) [Material Day 6](https://www.dropbox.com/scl/fo/9jwqllve1jrw4r1zzwklj/h?rlkey=g6uni7uel6wg6zi6p196x4ejo&dl=1)"
       - name: "10:30 - 10:45 Coffee break"
       - name: "10:45 - 12:15 Transparent research (part 2)"
       - name: "12:15 - 12:30 Logistics for second week"
@@ -82,14 +82,14 @@
   events:
       - name: "09:00 - 12:30 Logistics, speed dating and group formation"
       - name: "12:30 - 13:30 Lunch"
-      - name: "13:30 - 15:00 Guest lecture (t.b.a)"
+      - name: "15:30 - 17:00 Guest speaker: Andreas Jungherr"
 
       
 - date: 2023-08-01
   name: "Work on group projects" 
   events:
       - name: "12:30 - 13:30 Lunch"
-      - name: "13:30 - 15:00 Guest lecture (t.b.a)"
+      - name: "13:30 - 15:00 Guest speaker: Franziska Weeber"
       
 - date: 2023-08-02
   name: "Work on group projects"
@@ -100,7 +100,7 @@
   name: "Present group projects"
   events:
       - name: "12:30 - 13:30 Lunch"
-      - name: "18:00 - 19:30 Closing dinner"
+      - name: "18:30 - Closing dinner at Restaurant Paradieso (Lerchenfeldstraße 11, 80538 München)"
  
 - date: 2023-08-04
   events:

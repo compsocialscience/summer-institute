@@ -16,13 +16,27 @@ facilitators:
       bio: "Dr. Simona Simona is a lecturer in the Department of Social Work and Sociology and Assistant Dean of the School of Humanities and Social Sciences at the University of Zambia. He is also a non-resident fellow at the Institute for Pan-African Thought and Conversation (IPATC), University of Johannesburg. He holds a PhD in Sociology and Quantitative Social Science Methods, and a Master of Research (MRes) in Sociology and Research Methods from the University of Glasgow. His research work generally uses advanced quantitative techniques to examine the influence of individual and structural factors on social and health outcomes. He is also interested in teaching quantitative social science methods and data science, including different software packages for data management, visualization, and statistical modelling."
 
 speakers:
+  
   title: Speakers
+  
   people:
+
+    - name: Tendani Mulanga Chimboza 
+      bio: "Dr. Tendani Mulanga Chimboza is a Lecturer at the University of Cape Town (UCT). She also serves as the Scientific Engagement Lead for the Cybersecurity Capacity Centre for Southern Africa (C3SA). Tendani conducts research in Social Informatics and Digital Ethics, specifically research on cyberpsychology, digital parenting, digital activism, and ICT policy. She is passionate about investigating aspects of technology use that unintentionally exclude or marginalize certain groups in society.
+
+Tendani holds a Doctorate in Information Systems from UCT and a master’s in arts degree from the University of Western Cape. Before joining UCT, Tendani worked as a Communication Specialist at Saratoga - an IT company based in Cape Town."
+      image: /assets/images/jias_tendani.jpg
+      website: https://www.linkedin.com/in/tendani-mulanga-chimboza-thabela-ph-d-62746242/details/experience/
+    
     - name: Vissého Adjiwanou
       image: /assets/images/Visseho.jpg
       bio: "Vissého Adjiwanou is a professor of Demography and quantitative and computational methods in the Department of Sociology at the Université du Québec à Montréal (UQAM), and adjunct professor at the Department of Demography (Université de Montréal). He directs the Lab on quantitative and computational social science. He is also affiliated with the Centre on Population Dynamics (McGill University). He received an M.A in Statistics from the National School of Statistics and Applied Economics (ENSEA-Cote d’Ivoire), an M.A in Economics of Development at the Centre for Studies and Research on International Development (CERDI- France) and a PhD in Demography from the Université de Montréal (Canada). His research focusses on population issues in sub-Saharan Africa and in Canada, including fertility, family dynamics, gender inequality, reproductive health, and integration of immigrants from SSA in Canada."
       website: https://sociologie.uqam.ca/corps-professoral/professeurs-es/professeur/adjiwanou.visseho/
 
+    - name: "Sarah Mulombo Mulaji"
+      bio: "Sarah Mulombo Mulaji is a PhD candidate at the University of Cape Town, Department of Information Systems. Sarah is also a Senior Teaching and Research Assistant in the same department since 22020. Sarah's research interests involve information & cybersecurity management and distributed systems, like Blockchain, appplications in organisations and society. Sarah has co-authored some journal articles and conference papers."
+      image: /assets/images/jias_sarah_m.jpg
+    
     - name: Anthony Kaziboni
       image: /assets/images/2023/johannesburg/anthony_kaziboni.jpeg
       bio: "Dr Anthony Kaziboni is Head of Research at the Institute for the Future of Knowledge. He holds a doctorate in Sociology from the University of Johannesburg, South Africa. He researches hydropolitics, migration and social inequalities. He is the Regional Representative for South Africa for the International Sociological Association's (ISA) Clinical Sociology Research Group. In 2018 he received the prestigious Outstanding Early Career Award in Clinical Sociology by the ISA's Clinical Sociology Research Committee in Toronto, Canada. He has [co]authored publications in accredited journals and books as well as newspaper articles."
@@ -33,11 +47,42 @@ speakers:
       website: https://dsfsi.github.io
       image: /assets/images/2023/johannesburg/vukosi.jpg
 
+    - name: Sisanda Nkoala
+      bio: "Dr Sisanda Nkoala is an award-winning academic interested in South African media and rhetoric. She is employed as a senior lecturer in the Media Department at the Cape Peninsula University of Technology and the Language and Transformation coordinator for the Faculty of Informatics and Design at the institution. She is also a leader in the South African journalism sector, serving as a public representative on the South African Press Council, a South African National Editors Forum member, and a member of the appeals tribunal of the Film and Publications Board. Before joining academia, she was a journalist and won an award for her work on missing children and the 2015/2016 #RhodesMustFall protests."
+      image: /assets/images/2023/johannesburg/sisanda.jpg
+
     - name: Emmanuel Olamijuwon
       bio: "<p align='justify'>Emmanuel Olamijuwon is a Lecturer in the School of Geography and Sustainable Development at the University of St Andrews, UK. His research interest lies at the intersection of technology, sexuality, & population health in low-and-middle-income countries. His recent projects (<a href='https://www.southsciex.io/' target='_blank'>SouthScieX</a>, <a href='https://eolamijuwon.shinyapps.io/faMeLynk/' target='_blank'>FaMeLynk</a>, <a href='https://shyad.net/' target='_blank'>SHYad.NET</a>) combine data from traditional data sources (such as the DHS), with digital traces (Facebook and Twitter) and Online surveys to illuminate the complexity of a number of social and health issues such as knowledge inequality, suicide ideation, as well as sexual and reproductive health.</p>"
       website: https://e.olamijuwon.com/
       image: /assets/images/eOlamijuwon_shot.jpg
 
+    - name: Zintathu Mazamane
+      bio: "Zintathu is an experienced professional with a strong background in research, management consulting, policy and strategy development. Currently, she is in the process of completing a Master of Urban Studies in Urban Management from the University of the Witwatersrand. Due her strong passion for promoting women’s advancement into leadership positions, she has dedicated her master’s research to Examining Tactics that Women in Management Positions Employ to Navigate Institutional Culture while Promoting Development. This research was inspired by the prevalent institutional culture that subjects women to many forms of systemic forms of discrimination, which prevents their ascension into decision making roles and positions of influence. 
+
+As an aspiring leader and expert in her field, Zintathu has worked as a research lead and development consultant in diverse economic sectors, providing valuable insights to stakeholders such as government, private sector and Non-Government Organisations (NGOs). This informs her well-rounded approach in managing projects, conducting research, and analysing complex data into valuable insights. In 2020, Zintathu started her own consulting firm that provides advisory services to through market research, and she has been operating independently for almost three years now. Her major achievements in entrepreneurship thus far include being accepted into a Business Acceleration Programme in 2023 and breaking out into international markets by landing an American NGO as a client."
+      image: /assets/images/2023/johannesburg/zintathu.png
+
+    - name: Samson Faboye
+      bio: "Samson Faboye is a doctoral candidate at the Urban and Regional Planning Department, University of
+Johannesburg, South Africa. He holds a Bachelor's and Master’s Degrees in Architecture from the Federal University of Technology, Akure, Nigeria and a Master of Urban Studies (With a Speciality in urban Politics and Governance) Degree from the University of the Witwatersrand, Johannesburg, South Africa. His ongoing doctoral research explores the future of traditional governance systems in response to expanding urbanisation in North West and KwaZulu Natal Provinces of South Africa. His research interests revolve around Architectural Heritage Conservation, Development and Urban Policy. Samson was one of the participant at the 2022 Summer School in Computational Social Science (SICSS) hosted by the Johannesburg Institute for Advanced Study (JIAS) and Institute for PanAfrican Thought and Conversations (IPATC). He is also a recipient of the 2022/2023 Adam Smith Fellowship from the Mercatus Center of the George Mason University, USA and an 2022/2023 inaugural Edgeland Institute Fellow on the impact digitalisation on Urban Security."
+      image: /assets/images/2023/johannesburg/samson.jpg
+      website: https://www.linkedin.com/in/samsonfaboye/
+    
+support:
+  title: Tech Support
+  people:
+    - name: Nompumelelo Ndawonde
+      bio: "Ms. Nompumelelo Ndawonde is a Researcher at the Institute for Pan-African Thought and Conversation (IPATC). She is currently a PhD student at the University of Cape Town (UCT) in South Africa. She obtained a Masters of Political Science, a Bachelor of Social Science (Honours) in International Relations (cum laude), and a Bachelor of Arts in International Studies (cum laude), all from the University of KwaZulu-Natal (UKZN) in South Africa. Ms. Ndawonde was awarded academic exchange scholarships for studies at the University of Calgary in Canada, and the University of Uppsala in Sweden. Her key research interests include regional organisations, trade, and development."
+      website: https://ipatc.joburg/about/
+      image: /assets/images/2023/johannesburg/nompumelelo
+
+ta:
+  title: Teaching Assistant
+  people: 
+    - name: Aubrey Mpungose
+      website: https://twitter.com/AubreyMabona
+      image: /assets/images/1XkDpQHCjutVQ9ge2qKUYyx22rKmBqcLV.jpeg
+      bio: "Aubrey Mpungose is a PhD student at the University of KwaZulu Natal. He is interested      in social/political theory, political participation, neighbourhood contexts and      behaviour/outcomes, and the broader field of political economy. "
 
 participants:
   title: Participants
@@ -105,4 +150,12 @@ participants:
       image: /assets/images/1dQdlCcC6Qlgc_61U-1NQNv2A0-lBusaR.jpeg
       website: https://twitter.com/TinTinSithole
 
-    
+    - name: Daniella Ojekere
+      website: https://twitter.com/Danley_codes
+      bio: "I am a data scientist with experience in building predictive Models with extensive knowledge of Python frameworks, libraries, data structures, and data modeling with 5 years of experience as a data scientist and 2 years of machine learning. I currently work with Python, SQl, PowerBi, Microsoft Excel, and AWS, I have been a data scientist and a project administrator for international research grant projects in the United Kingdom, Uganda, Sweden, and Nigeria. I am an ardent reader and love writing and finding new problems to solve. In my free time, I like enjoying nature and am always on the lookout for adventures and contributing to open-source projects."
+      image: /assets/images/1kiqRvuQQJb9WhvC6jfT3CeyLp_Zafw7c.jpeg   
+
+    - name: Rennish Mboya
+      bio: "Rennish Mboya is a doctoral student in Maseno University in Kenya. my research is currently inclined towards importance of innovation and the steps that can be taken by Kenya to achieve the same state as the ASEAN block. currently working as an assistant lecturer in the same university lecturing technology programming units. "
+      image: /assets/images/1eonYR1TXbuyyWS0sar38dmIe0sR7owq_.jpeg 
+      website: https://scholar.google.com/citations?authuser=3&user=ziWYdvEAAAAJ

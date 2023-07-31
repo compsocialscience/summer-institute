@@ -28,7 +28,7 @@ opening:
     - name: Anthony K. Wutoh, Ph.D., R.Ph.
       image: /assets/images/Anthony_K_Wutoh.jpg
       bio: "Anthony K. Wutoh, Ph.D., R.Ph. is the Provost of Howard University. He previously served in various roles at the University including as Dean of the College of Pharmacy and Assistant Provost for International Programs. Dr. Wutoh has also served as Director for the Center for Minority Health Services Research, and the Center of Excellence. Dr. Wutoh received a Bachelor of Arts degree in Biochemistry from the University of Maryland Baltimore County in 1987. He then completed a Bachelor of Science in Pharmacy, and Doctor of Philosophy in Pharmacy Administration (Pharmacoepidemiology) at the University of Maryland, Baltimore School of Pharmacy. Dr. Wutoh has varied research interests including pharmacoepidemiology, international health, health services/outcomes research, and evaluation of large population databases, particularly in the area of AIDS and HIV infection in older patients. Dr. Wutoh has received over $50 million dollars in grant funding from several sources including; NIH, CDC, USAID, HRSA, AHRQ and foundations, and has published numerous research articles on HIV disease, medication adherence, disease state management, and various other topics in respected research journals, including; the Journal of the American Medical Association, Health Services Research, AIDS & Behavior, the Journal of the National Medical Association, and the Journal of the American Pharmacists Association."
-      website: https://provost.howard.edu/about/administration#:~:text=D.%2C%20R.Ph.,and%20the%20Center%20of%20Excellencew
+      website: https://provost.howard.edu/about/leadership-office-provost-chief-academic-officer
 
 
 motivational:
@@ -93,7 +93,7 @@ panels:
   
     - name: Ifeoma Ajunwa, J.D., Ph.D.
       image: /assets/images/Ifeoma_Ajunwa.jpeg
-      bio: "Dr. Ifeoma Ajunwa, J.D., Ph.D., is an award-winning tenured law professor at the University of North Carolina School of Law. She is also the Founding Director of the Artificial Intelligence Decision-Making Research (AI-DR) Program at UNC Law and a Faculty Associate at the Berkman Klein Center at Harvard University since 2017. She is also a Visiting Fellow at Yale Law School (2022-2023). She was a 2019 recipient of the NSF CAREER Award and a 2018 recipient of the Derrick A. Bell Award from the Association of American Law Schools (AALS). Dr. Ajunwa’s research interests are at the intersection of law and technology with a particular focus on  the ethical governance of workplace technologies.  Dr. Ajunwa is a Founding Board Member of the Labor Tech Research Network which is an international group of scholars committed to the research of the ethics of AI used in the workplace and for labor. Dr. Ajunwa's writing has also been published in the NY Times, the Washington Post, the Atlantic, and the Harvard Business Review, among others. She is on twitter @iajunwa."
+      bio: "Professor Ifeoma Ajunwa, J.D., Ph.D., is an award-winning tenured law professor and author of the highly acclaimed book, The Quantified Worker, published by Cambridge University Press. At Emory, she is the AI.Humanity Professor of Law and Ethics and Founding Director of the AI and the Law Program. She is also the Associate Dean for Projects and Partnerships at Emory Law (starting January 2024). Professor Ajunwa was recruited from the University of North Carolina School of Law where she was a tenured law professor and the Founding Director of the Artificial Intelligence Decision-Making Research (AI-DR) Program at UNC Law. Professor Ajunwa is currently a Visiting Fellow at Yale Law School’s Information Society Project (ISP). She has been a Faculty Associate at the Berkman Klein Center at Harvard University since 2017. She was a 2019 recipient of the NSF CAREER Award and a 2018 recipient of the Derrick A. Bell Award from the Association of American Law Schools (AALS). Dr. Ajunwa’s research interests are at the intersection of law and technology with a particular focus on the ethical governance, privacy, and discrimination issues associated with workplace AI and automated decision-making technologies. She also has an interest in the generative power of art for law with a focus on law and literature and law and film."
       website: https://ifeomaajunwa.com/
       
     - name: Lindsey D. Cameron, Ph.D.
@@ -205,11 +205,6 @@ participants:
       bio: "Ayana Best is an Assistant Professor in the Department of Political Science at Howard University. She earned her Ph.D. in Political Science and International Relations at the University of Southern California. Her forthcoming book focuses on the effects of state-sanctioned violence on Black women’s political participation and civic engagement."
       website: https://www.linkedin.com/in/ayanabest/
   
-    - name: Yixi Chen
-      image: /assets/images/Yixi_Chen-min.png
-      bio: "Yixi Chen is a Ph.D. candidate in Organizational Theory at Columbia Business School. Her work sits at the intersection of identity, culture, and social networks. She is particularly interested in the experiences and narratives of marginalized groups. Pre Ph.D., she worked as a pre-doc at Stanford-Berkeley Computational Culture Lab."
-      website: https://www.linkedin.com/in/yixi-chen-7b42bb63/
-  
     - name: Rohitha Edara
       image: /assets/images/Rohitha_Edara-min.jpg
       bio: "Rohitha Edara is a Ph.D. candidate in Education Policy at Pennsylvania State University. She is interested in studying issues at the intersection of education policy, inequalities/segregation, and international development."
@@ -240,11 +235,6 @@ participants:
       bio: "Rebekah Jones is a Political Science Ph.D. candidate at UC Berkeley. Rebekah’s work examines the political economy of crime policy. Specifically, how configurations of American political institutions shape how vulnerable populations experience our democracy. Before Berkeley, Rebekah received a B.S. from Cornell University in Development Sociology, with distinction in research."
       website: https://sites.google.com/berkeley.edu/rebekah-jones/
   
-    - name: Felipe Juan
-      image: /assets/images/Felipe_Juan-min.jpg
-      bio: "Felipe Juan is a Ph.D. candidate in Economics at Howard University in Washington, D.C., where he specializes in Labor Economics. His current research interests are examining unemployment insurance and racial equity along with the effects of eligibility for unemployment insurance."
-      website: https://twitter.com/soyfelipejuan
-  
     - name: Joel Martinez
       image: /assets/images/Joel_Martinez-min.jpg
       bio: "Joel E. Martinez is a postdoctoral fellow at Harvard’s Data Science Initiative and Department of Psychology. Their research investigates how data-driven methods help us measure collective and idiosyncratic understandings of contemporary topics within race/ism, sexuality, and migration discourses."
@@ -259,16 +249,6 @@ participants:
       image: /assets/images/Jackeline_Romio-min.jpg
       bio: "Jackeline Aparecida Ferreira Romio is Programme Specialist in UNFPA LACRO. She holds a post-doctoral degree in social psychology (USP), and a doctorate and a master's degree in demography (UNICAMP)."
       website: https://www.linkedin.com/in/jackeline-aparecida-ferreira-romio/
-  
-    - name: Nahrissa Rush
-      image: /assets/images/Nahrissa_Rush-min.jpg
-      bio: "Nahrissa Rush is a Ph.D. student at the Ohio State University in the Sociology department. Broadly speaking, Nahrissa is interested in race, identity, place, and politics. As a primarily qualitative researcher, she is looking forward to learning complimentary quantitative skills at SICSS-H/M this summer."
-      website: https://sociology.osu.edu/people/rush.345
-  
-    - name: Hamidatu Saeed
-      image: /assets/images/Hamidatu_Saeed-min.jpg
-      bio: "Hamidatu Saeed is an MA student at the Ohio University studying Applied Economics. Her research seeks to examine the effect of inflation targeting on inflation using the synthetic control method in Ghana."
-      website: https://www.linkedin.com/in/hamidatu-saeed-a7a95a205/
   
     - name: Mateo Servent
       image: /assets/images/Mateo_Servent-min.jpeg
@@ -289,11 +269,6 @@ participants:
       image: /assets/images/Brittany_Torrez-min.jpeg
       bio: "Brittany Torrez is a postdoctoral fellow at University of Southern California Marshall School of Business. She employs multiple methodologies to further the study of diversity, equity, and inclusion in organizations. Her current research examines the psychological processes and organizational practices that reproduce racial inequality in the workplace."
       website: http://torrezbrittany.com
-  
-    - name: Shu Wan
-      image: /assets/images/Shu_Wan-min.png
-      bio: "Shu Wan is a Ph.D. student in History at the University at Buffalo, SUNY. As a digital and disability historian, he serves in the editorial team of Digital Humanities Quarterly and Nursing Clio."
-      website: https://arts-sciences.buffalo.edu/history/graduate/GraduateHistoryAssociation/GradStudentProfiles/ShuWan.html
   
     - name: Jia Wu
       image: /assets/images/Jia_Wu-min.jpg
@@ -326,16 +301,28 @@ planning_team:
 
 teaching_assistants:
   title: Teaching Assistants (Mathematica)
+      
+      <img class="Teaching fellow" src="/assets/images/SICSS_HM_Mathematica_2023-min.png" width=80% height=80% />
+
 
 event_staff:
   title: Event Staff (Coleman Research Lab & SICSS-alumni)
     
     <br><font size = "4">Event Staff - Coleman Research Lab
-      
-    <br><font size = "4">Event Staff - SICSS-H/M Alumni Legacy TFs
+
+    <img class="Teaching fellow" src="/assets/images/SICSS_HM_Lab_IRGP_2023-min.png" width=80% height=80% />
+
+    <br><font size = "4">Event Staff - SICSS-H/M Teaching Staff
+   
+    <img class="Teaching fellow" src="/assets/images/SICSS_HM_Teaching_Staff_2023-min.png" width=80% height=80% />
+    
+    <br><font size = "4">Event Staff - SICSS-H/M Alumni Staff
+   
+    <img class="Teaching fellow" src="/assets/images/SICSS_HM_Alumni_Staff_2023-min.png" width=80% height=80% />
+    
     
 special_thanks:
-  title: Special Thanks to the Institute for the Study of Societal Issues at UC Berkeley
-    <img class="Special Thanks" src="/assets/images/ISSI.png" width=80% height=80% />
+  title: Special Thanks 
+    <img class="Special Thanks" src="/assets/images/ISSI.png" width=95% height=95% />
       
  
