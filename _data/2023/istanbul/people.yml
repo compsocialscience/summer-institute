@@ -37,6 +37,11 @@ instructors:
        - name: Fuat Kina
          image: /assets/images/1x4EOxOPx0FVtNfF_hMBh53zCi6ppmLia.png
          bio: "Fuat Kına is a PhD student at the Sociology Department of Koç University since 2018. Before joining the project, he graduated with B.S. degree in Economics from Boğaziçi University in 2015 and received his master’s degree with quantitative research on the relationship between anti-immigrant attitudes and labor precarity in Europe in 2018 from İstanbul Şehir University. He is currently working on the relationship between social movements, their targets and social assistance programs by utilizing advanced level quantitative techniques on causal inference. Some of his research interests are social policy, social movements, labor studies, Islamist movements, causal inference, systematic review."
+       
+       - name: Ali Hürriyetoğlu
+         image: /assets/images/AliHurriyetoglu.jpg
+         bio: "Dr. Ali Hürriyetoğlu is a postdoctoral research fellow at Koc University in the ERC projects “Emerging Welfare” (EMW) and “Social ComQuant: Excelling in Computational and Quantitative Social Sciences in Turkey”. He is performing research and coordinating the work-package related to automatically collecting a multi-country and multilingual protest events (contentious politics) database from local news sources in EMW. He is responsible from computational social science aspects in the Social ComQuant Project. He teaches text mining and Social Sciences and Computing related courses. Mr. Hürriyetoğlu performed research on extracting actionable information from social media in the scope of his Ph.D. studies. He has been working in industrial, governmental, and academic settings to process news and social media text in various domains throughout his career. His recent research focus is on the robustness and the generalizability of text processing systems across contexts."
+         website: https://scholar.google.com.tr/citations?user=PDzLkpoAAAAJ&hl=tr   
          
        - name: Uzay Çetin
          image: /assets/images/2023/Istanbul/uzay_cetin.png
@@ -134,10 +139,6 @@ participants:
        - name: Esra Çengel
          image: /assets/images/2023/Istanbul/EsraCengel.png
          bio: "Esra Çengel is a research assistant and Ph.D. candidate in the Department of International Relations at Middle East Technical University (METU). She obtained a Bachelor's degree in International Relations and a Minor degree in German Language from METU. Esra earned her Master's degree from the Department of European Studies at METU with her thesis entitled 'The Greek Political Elite and the European Identity: Impact of the Debt Crisis' in 2018. Her current doctoral research focuses on the history of American-Turkish relations, examining the influence of people-to-people interactions on the political, economic, and cultural ties between the two countries. Her research interests include foreign policy analysis, nationalism, and gender. Esra is particularly interested in data-driven approaches and quantitative methodology in the field of international relations."
-       - name: Şevket Çamoğlu
-         image: /assets/images/2023/Istanbul/SevketCamoglu.jpeg
-         bio: "Second-year MA student in Quantitative Economics at Ca’ Foscari University of Venice. Interested in Economics and Finance. More specifically, financial economics, labor economics and economics of inequality, as well as global political issues and regional studies. Passionate and motivated in learning social sciences and volunteering."
-         website: www.linkedin.com/in/sevktcam
        - name: Neslihan Gurler
          image: /assets/images/2023/Istanbul/NeslihanGurler.jpeg
          bio: "Neslihan Gurler, graduated from Hacettepe University Department of Sociology and she is a master student in Applied Data Science at TED University. Her main area of interest is an interdisciplinary field where software and sociology are together and combines social science and natural science methodologies. Thanks to the her learning objective, she study with social sciences methodology, especially computational methods, data analysis, machine learning (ML) and artificial intelligent (AI). She is one of the founders of a start-up called NOTAR Research and Analytics within the framework of her domain. She is also working with Hacettepe University Demography Institute for the TUBITAK project."
