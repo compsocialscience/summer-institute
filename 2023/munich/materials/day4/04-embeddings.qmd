@@ -1,0 +1,686 @@
+---
+format:
+  revealjs:
+    logo: "https://cms-cdn.lmu.de/assets/img/Logo_LMU.svg"
+    footer: "[Advanced Text Analysis - SICSS-Munich 2023 - Valerie Hase](https://github.com/valeriehase)"
+    center-title-slide: false
+    theme: ["theme/q-theme.scss"]
+    highlight-style: atom-one
+    code-fold: show
+    code-copy: true
+    self-contained: true
+    number-sections: false
+    smaller: true
+    progress: true
+execute:
+  echo: true
+bibliography: "references/references.bib"
+csl: references/apa.csl
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+<h1>Advanced Text Analysis</h1>
+
+<h2>SICSS-Munich, Day 4</h2>
+
+<hr>
+
+Session 4️⃣: Embeddings
+
+Valerie Hase (LMU Munich)
+
+`r fontawesome::fa("github", "black")`
+[github.com/valeriehase](https://github.com/valeriehase)
+
+`r fontawesome::fa("globe", "black")`
+[valerie-hase.com](https://valerie-hase.com/)
+
+## Agenda
+
+-   Words as vectors
+-   Introduction to (word) embeddings
+-   When and how to use embeddings?
+-   Technical set-up & researcher decisions
+-   Promises & Pitfalls
+-   The road ahead
+
+## Words as Vectors
+
+::: incremental
+-   Transfer the idea of vector space models to words: Can we represent
+    words in a $N$-dimensional vector space?
+
+-   Preferably, in a way that...
+
+    -   is computationally more efficient (i.e., not using every unique
+        word as a dimension)
+    -   better captures semantic meaning (i.e., represents similarities
+        between similar words)
+
+-   Idea 💡: We can represent each word as a **function of the words
+    around it, i.e., its context**.
+:::
+
+## Words as Vectors in R `r fontawesome::fa("hand", "black")`
+
+-   A simple example: We describe each word through the words before and
+    after it (e.g., through a window of size 2).
+
+-   To do so, we rely on co-occurrence matrix `fcm()` indicating
+    co-occurrences of words within a window of 2.
+
+-   Let's stick to our three exemplary sentences from session 3️⃣
+
+```{r}
+library("quanteda")
+library("tidyverse")
+fcm <- c("I like fruit like apple and kiwi",
+         "I like kiwi, only kiwi",
+         "I only like vegetables like potato") %>%
+  tokens() %>%
+  fcm(context = c("window"), window = 2) %>%
+  convert(to = "data.frame")
+
+head(fcm)
+```
+
+## Words as Vectors
+
+-   Let's take the words *apple* and *potato* and compare them across
+    the dimensions *fruit* as the $x$-axis and *vegetables* as the
+    $y$-axis of our vector space
+
+-   In short, we describe *apple* and *potato* via their *co-occurrence
+    with other words*
+
+```{r, echo = FALSE}
+#Ignore this output, if needed - merely a way of creating this figure
+#data
+data <- data.frame(x_0 = c(0, 0),
+                   y_0 = c(0, 0),
+                   x_1 = c(1, 0),
+                   y_1 = c(0, 1))
+
+#plot
+ggplot(data)+
+  geom_hline(yintercept = 0) + 
+  geom_vline(xintercept = 0) +
+  ylim(0, 3) + xlim(0, 3)+
+  geom_segment(aes(x = x_0, y = y_0, xend = x_1, yend = y_1), arrow = arrow(length = unit(.8,"cm"), angle = 20), color = rep("#00893B", 2), lwd = .8, lineend = "square", linejoin = "bevel") +
+  xlab("Co-Occurence with feature fruit") +
+  ylab("Co-Occurence with feature vegetables") + 
+  theme_minimal() +
+  annotate("text", label = "Apple", x = 1.1, y = 0.1, size = 4, colour = "#00893B") +
+  annotate("text", label = "Potato", x = 0.1, y = 1, size = 4, colour = "#00893B")
+```
+
+## Words as Vectors
+
+We can extend the number of **words** we include and the number of
+**dimensions** alongside which we map them:
+
+**Welcome to the world of word embeddings**! ✨
+
+![](figures/vsm.png){fig-align="left" width="20%"
+fig-alt="Image of a n N-Dimensional Space"}
+
+## Going beyond bag-of-words
+
+-   Identifying meaning through ngrams (Session 2️⃣)
+-   Identifying meaning through syntax (Session 2️⃣)
+-   **Identifying meaning through semantic spaces** (Session 3️⃣, 4️⃣)
+
+## Introduction to Word Embeddings
+
+Word Embeddings...
+
+-   "predict a focal word as a function of the other words that appear
+    within a small window of that focal word"
+    [@rodriguez_embedding_2023, p. 3]
+
+-   "represent a word as a dense vector in a low-dimensional space
+    learned from unlabeled data" [@grimmer_text_2022, p. 79]
+
+➡️ Basically: Explain meaning of words via word(s) next to it!
+
+➡️ Embeddings also work with other content (e.g., images) but for now
+ignored
+
+## Related ideas
+
+::: incremental
+-   💡 *vector semantics*: "The idea of vector semantics is to represent
+    a word as a point in a multidimensional semantic space that is
+    derived \[...\] from the distributions of word neighbors"
+    [@jurafsky_speech_2023, p. 107]
+
+-   💡 *distributional hypothesis*:
+
+    -   "the context in which words are used provides a clue to their
+        meaning" [@grimmer_text_2022, p. 78]
+    -   "you shall know a word by the company it keeps"
+        [@firth_studies_1975, p. 11]
+
+-   💡 *structural linguistics*, including the premise that language is
+    relational [@arseniev-koehler_theoretical_2022]
+:::
+
+## Introduction to Word Embeddings
+
+-   Embeddings are learned from data as a form of **self-supervised
+    learning**: The meaning of a word is learned from its context
+
+-   [Let's try an
+    example](https://pair.withgoogle.com/explorables/fill-in-the-blank)
+
+## Introduction to Word Embeddings
+
+::: incremental
+-   Embeddings as **more dense, shorter vectors** for representing words
+    in a $N$-dimensional space, with these dimensions encoding meaning
+
+    -   dense because they rely on continuous values \[0.3, -0.1, 1.9\]
+        instead of one-hot-encoding \[0, 1, 0\]
+    -   short because the number of dimensions $N$ is no longer = $|V|$
+        (vocabulary) but reduced to a smaller set of dimensions (often
+        couple 100)
+
+-   [Let's check a nicer
+    visualization](https://projector.tensorflow.org)
+
+-   Idea *somewhat* similar to other dimension-reducing approaches, e.g.
+    PCA
+:::
+
+## 
+
+::: {style="font-size: 200%;text-align:center;"}
+**How could we use these methods for social science questions?** 🤔
+:::
+
+## When and how to use embeddings?
+
+According to @rodriguez_word_2022:
+
+-   *instrumental use*: as features in downstream analysis, for
+    expanding dictionaries
+
+-   *direct measures of meaning*: as central object of study
+
+## Instrumental Use: Sentiment Analysis
+
+Use embeddings as features for downstream, supervised ML-based sentiment
+analysis of plenary speeches from Austria [@rudkowsky_more_2018]:
+
+![](figures/rudkowsky_fig2.png){fig-align="center" fig.show="hold"
+width="40%" fig-alt="Figure 2 from Rudkowsky et al., 2018"}
+
+Note. Figure from @rudkowsky_more_2018 [p. 144].
+
+## Instrumental Use: Sentiment Analysis
+
+Use embeddings as features for downstream, supervised ML-based sentiment
+analysis of plenary speeches from Austria [@rudkowsky_more_2018]:
+
+![](figures/rudkowsky_table2_3.png){fig-align="center" fig.show="hold"
+width="40%" fig-alt="Table 2 and 3 from Rudkowsky et al., 2018"}
+
+Note. Figure from @rudkowsky_more_2018 [p. 145].
+
+## Direct measures of meaning: Stereotypes
+
+Use embeddings as direct measures of stereotypes in society partly based
+on Google News [@garg_word_2018; see also @kroon2019;
+@muller_differential_2023]:
+
+![](figures/garg_fig1.png){fig-align="left" fig.show="hold"
+fig-alt="Figure 1 from Garg et al., 2018"}
+
+Note. Figure from @garg_word_2018 [p. E3636].
+
+## Direct measures of meaning: Stereotypes
+
+Use embeddings as direct measures of stereotypes in society partly based
+on Google News [@garg_word_2018; see also @kroon2019;
+@muller_differential_2023]:
+
+![](figures/garg_table1.png){fig-align="left" fig.show="hold"
+fig-alt="Table 1 from Garg et al., 2018"}
+
+Note. Figure from @garg_word_2018 [p. E3638].
+
+## Direct measures of meaning: Shifts over time
+
+Use embeddings as direct measures of how meaning changes in societies
+partly based on Google Ngram corpus (mostly books)
+[@kozlowski_geometry_2019; see also @hamilton_diachronic_2016;
+@rodman_timely_2020]:
+
+![](figures/kozlowski_figure10_1.png){fig-align="left" fig.show="hold"
+fig-alt="Figure 10 from Kozlowski et al., 2019"}
+
+Note. Figure from @kozlowski_geometry_2019 [p. 928].
+
+## Direct measures of meaning: Shifts over time
+
+Use embeddings as direct measures of how meaning changes in societies
+partly based on Google Ngram corpus (mostly books)
+[@kozlowski_geometry_2019; see also @hamilton_diachronic_2016;
+@rodman_timely_2020]:
+
+![](figures/kozlowski_figure10_2.png){fig-align="left" fig.show="hold"
+fig-alt="Figure 10 from Kozlowski et al., 2019"}
+
+Note. Figure from @kozlowski_geometry_2019 [p. 928].
+
+## Technical set-up & researcher decisions
+
+1.  Estimate embeddings
+2.  Aggregate, for instance from word to document level
+    [@le_distributed_2014]
+3.  Potentially visualize/cluster results
+4.  Evaluate alongside quality criteria (validity, reliability)
+
+## Main decisions for step 1: Estimation
+
+According to @rodriguez_word_2022, ...
+
+1.  Choice of window size
+2.  Choice of embedding dimensions
+3.  Pretrained or locally trained model
+4.  Type of model
+
+## Main decisions for step 1: Estimation
+
+1.  **Choice of window size** [see also @jurafsky_speech_2023]
+
+    -   Small window: syntactically similar
+
+    -   Large window: topically similar
+
+✅ Advice by @rodriguez_word_2022: avoid small windows (\<5)
+
+## Main decisions for step 1: Estimation
+
+2.  **Choice of embedding dimensions**, which differ based on model
+
+    -   Few dimensions: may not capture meaning
+
+    -   Many dimensions: may model noise
+
+✅ Advice by @rodriguez_word_2022: avoid few dimensions (\<100)
+
+## 
+
+::: {style="font-size: 200%;text-align:center;"}
+**What do embedding dimensions stand for?** 🤔
+:::
+
+## Main decisions for step 1: Estimation
+
+3.  **Pretrained or locally trained model**
+
+    -   Pretrained: cheap
+
+    -   Locally trained: better if corpus very different from training
+        corpus
+
+✅ Advice by @rodriguez_word_2022: You can use pre-trained models,
+(difference to e.g. off-the-shelf dictionaries, which you should avoid)
+unless you expect domain-specific use of features
+
+## Main decisions for step 1: Estimation
+
+4.  **Type of model**
+
+    -   Word2Vec [@mikolov_distributed_2013; @le_distributed_2014]
+    -   GloVe [@pennington_glove_2014]
+    -   fasttext [@bojanowski_enriching_2017]
+    -   A La Carte Embedding [@khodak_carte_2018]
+    -   ... and more!
+
+## Exemplary Model: Word2Vec
+
+::: incremental
+-   Google's **Word2Vec** [@mikolov_distributed_2013;
+    @le_distributed_2014] is a **predictive model**: treats embeddings
+    as binary prediction task [see further @jurafsky_speech_2023]:
+
+    -   Is word $w_i$ likely to appear next to $w_{i-1}$ and $w_{i+1}$?
+        (local context, here window of 1)
+
+    -   Use trained classifier weights as word embeddings:
+        self-supervision
+
+-   Two algorithms:
+
+    -   Skip-gram (given $w_i$, predict context)
+
+    -   Continuous-bag-of-words (given context, predict $w_i$)
+
+-   Advantageous over sparse VSM, **but**: inefficient for new words,
+    static embedding (i.e., same meaning of word across contexts)
+:::
+
+## Exemplary Model: GloVe
+
+::: incremental
+-   Stanford's **GloVe** [@pennington_glove_2014] is **count-based**:
+    relies on co-occurrence matrix & focuses on ratio of co-occurrence
+    probabilities:
+
+    -   Can we explain word $w_i$ via its co-cocurrence with all other
+        words? (global context)
+
+-   Slightly more robust than Word2Vec [@rodriguez_word_2022], **but**:
+    inefficient for new words, static embedding
+:::
+
+## Further extensions: FastText & A la Card
+
+::: incremental
+-   Facebook's **fasttext** [@bojanowski_enriching_2017]:
+    -   Uses more fine-grained information based on *char2vec* approach:
+        we can allocate new words in vector space
+-   **A la Carte Embedding** [@khodak_carte_2018]:
+    -   Takes pretrained embeddings (e..g, Word2Vec) & combines with
+        example uses of a word to create context-specific embeddings
+:::
+
+## Main decisions for step 2: Aggregation
+
+::: incremental
+-   After estimating word embeddings (Step 1): *How can we get aggregate
+    measures for each document?*
+
+-   Take mean of word vectors [see for example @rudkowsky_more_2018]
+
+-   Use `doc2vec` to create document-specific embeddings
+    [@le_distributed_2014]
+:::
+
+## Main decisions for step 3: Visualizing/Clustering
+
+:::incremental
+
+-   After creating document embeddings (Step 2): *How can we
+    visualize/cluster/understand results?*
+    -   Dimension-reduction technique like
+        [UMAP](https://towardsdatascience.com/umap-dimensionality-reduction-an-incredibly-robust-machine-learning-algorithm-b5acb01de568)
+        to reduce to 2-dimensional space
+    -   Often in addition to cluster analysis
+-   We can plot results using common R packages like `ggplot`
+:::
+
+## Main decisions for step 4: Evaluation
+
+:::incremental
+
+-   After interpreting results (Step 3): *Can we trust our results?*
+    -   Validation: *how true are our measures*? 🤔
+        -   long-discussed issue for text-as-data [@grimmer_text_2013;
+            @song_validations_2020]
+
+        -   lack of procedures for embeddings [but
+            see @schnabel_evaluation_2015; @rodriguez_word_2022]
+    -   Reliability: *how stable are our measures?* 🤔
+        -   long-discussed issue for text-as-data
+            [@alvarez_navigating_2016; @wilkerson_large-scale_2017]
+
+        -   lack of procedures for embeddings
+            [@wendlandt_factors_2018; @antoniak_evaluating_2018]
+
+:::
+
+## Second dataset for today
+
+-   We'll use data provided by the `quanteda.corpora` package (install
+    directly via Github using `devtools`)
+-   UK news coverage by the Guardian on immigration
+-   Corpus contains *N* = 6,000 articles
+
+```{r, message=FALSE}
+library("quanteda.corpora")
+corpus_news <- download("data_corpus_guardian")
+```
+
+## Step 1: Estimation in R `r fontawesome::fa("hand", "black")`
+
+-   We will now use the *GloVe* model.
+-   For the sake of explanation, this is going to be a highly simplistic
+    model: the goal is to **roughly understand**, not to perfectionize
+    how to estimate embeddings in R (much could be improved:
+    preprocessing, estimation, etc.)
+-   First, we create a co-occurrence matrix:
+
+```{r, warning=FALSE, message = FALSE}
+library("dplyr")
+library("quanteda")
+library("text2vec")
+library("irlba")
+library("purrr")
+library("ggplot2")
+
+dfm <- corpus_news %>%
+  tokens() %>%
+  fcm(context = "window",
+      count = "weighted")
+```
+
+## Step 1: Estimation in R `r fontawesome::fa("hand", "black")`
+
+-   Next, we estimate embeddings using the `text2vec` package (which
+    itself draws on the `rsparse` package, more
+    [here](https://cran.r-project.org/web/packages/rsparse))
+-   This code partly draws on similar tutorials, e.g., [here](https://medium.com/cmotions/nlp-with-r-part-2-training-word-embedding-models-and-visualize-results-ae444043e234), [here](https://quanteda.io/articles/pkgdown/replication/text2vec.html), and [here](https://cbail.github.io/textasdata/word2vec/rmarkdown/word2vec.html)
+
+```{r, output = FALSE}
+#Create GloVe model object
+glove <- GloVe$new(rank = 50, #desired dimensions
+                   x_max = 10) #maximum number of co-occurrences used for weighting
+
+#Fit model and return embeddings
+embeddings <- glove$fit_transform(dfm, #input dfm
+                                  n_iter = 10, #number of iterations
+                                  n_threads = 8) #number of threads to use
+
+#Model returns two vectors - we average them, similar to GloVe paper
+word_vectors <- embeddings + t(glove$components)
+```
+
+## Step 1: Estimation in R `r fontawesome::fa("hand", "black")`
+
+-   Let's check results: Let's have a look at the first five dimensions
+    of the embeddings for the first five features
+
+```{r}
+head(word_vectors)[1:5, 1:5]
+```
+
+## Step 1: Estimation in R `r fontawesome::fa("hand", "black")`
+
+-   Ok, that's not telling us much.
+-   Can we use the embeddings to see which features are used in similar
+    context?
+-   Knowing that this is a corpus on immigration, we may be interested
+    in stereotypical associations between the word *terrorism* and other
+    words, such as *immigration*. Is there indication for such
+    stereotypical reporting?
+
+```{r}
+feature <- word_vectors["terror", , drop = FALSE] 
+
+#find similar features in corpus
+cos_sim <- sim2(x = word_vectors, 
+                y = feature, 
+                method = "cosine", 
+                norm = "l2")
+
+#Focus on five most similar features
+head(sort(cos_sim[,1], decreasing = TRUE), 5)
+```
+
+## Step 3: Visualizing/Clustering in R `r fontawesome::fa("hand", "black")`
+
+-   More broadly: What other features are associated with the term
+    *terrorism*? Can we visualize results?
+-   To do so, we first have to reduce our results to 2 (plottable) dimensions, here via the `irlba` package
+
+```{r, message = FALSE}
+word_vectors_reduced <- irlba(word_vectors, 2) %>% #dimension reduction
+  pluck("u") %>% #get relevant object from list
+  as_tibble() %>%
+  mutate(feature = rownames(word_vectors)) #add feature names as variable
+
+#check results
+head(word_vectors_reduced)
+```
+
+## Step 3: Visualizing/Clustering in R `r fontawesome::fa("hand", "black")`
+
+-   Let's grab some specific features which may (or may not) indicate
+    stereotypical reporting!
+-   We throw in a couple of (presumably) unrelated words to understand
+    differences
+-   We use `ggplot` to visualize results
+
+```{r, eval=FALSE}
+word_vectors_reduced %>%
+  filter(feature %in% c("immigration", "migration",
+                        "refugee", "islam", 
+                        "terrorist", "terror",
+                        "Paris", "Berlin")) %>% #only works for features existing in corpus
+  ggplot(aes(x = V1, y = V2, label = feature)) +
+  geom_text(aes(label = feature), hjust = 0, vjust = 0, color = "black") +
+  theme_classic() +
+  xlab("Dimension 1") +
+  ylab("Dimension 2")
+```
+## Step 3: Visualizing/Clustering in R `r fontawesome::fa("hand", "black")`
+
+-   Let's grab some specific features which may (or may not) indicate
+    stereotypical reporting!
+-   We throw in a couple of (presumably) unrelated words to understand
+    differences
+-   We use `ggplot` to visualize results
+
+```{r, eval= TRUE, echo = FALSE, output = TRUE}
+word_vectors_reduced %>%
+  filter(feature %in% c("immigration", "migration",
+                        "refugee", "islam", 
+                        "terrorist", "terror",
+                        "Paris", "Berlin")) %>% #only works for features existing in corpus
+  ggplot(aes(x = V1, y = V2, label = feature)) +
+  geom_text(aes(label = feature), hjust = 0, vjust = 0, color = "black") +
+  theme_classic() +
+  xlab("Dimension 1") +
+  ylab("Dimension 2")
+```
+
+## Summary: Application in R `r fontawesome::fa("hand", "black")`
+
+-   Again: this is a very much simplified example for how to estimate & visualize embeddings in R
+-   better alternative include the `conText` [package](https://github.com/prodriguezsosa/conText/blob/master/vignettes/quickstart.md)
+-   And of of course: many more Python libraries `r fontawesome::fa("python", "black")`
+
+## Summary: Comparison to "traditional" methods
+
+|                     | Classic Supervised                            | Classic Unsupervised                                 | Embeddings                           |
+|------------------|-------------------|------------------|------------------|
+| Methods             | e.g., SVM                                     | e.g., topic modeling                                 | e.g., Word2Vec, GloVe                |
+| Bag-of-words        | Yes                                           | Yes                                                  | No                                   |
+| Input               | DFM, labelled $y$                             | DFM                                                  | FCM                                  |
+| Output              | Term importance matrix (for class prediction) | Document distr. over topics; topic distr. over words | Word vectors                         |
+| Researcher decision | e.g., training/test split                     | e.g., number of topics $K$                           | e.g., window size, dimensions, model |
+| Validation concerns | Fixed procedures                              | Lack of procedures                                   | Lack of procedures                   |
+| Robustness concerns | Fixed procedures                              | Lack of procedures                                   | Lack of procedures                   |
+
+Note. Table extended based on @rodriguez_word_2022 [p. 104]
+
+## Promises & Pitfalls
+
+[@grimmer_text_2022; @jurafsky_speech_2023; @rodriguez_embedding_2023;
+@arseniev-koehler_theoretical_2022; @caliskan_semantics_2017;
+@bolukbasi_man_2016; @blodgett_language_2020; @schnabel_evaluation_2015;
+@garg_word_2018]:
+
+::: incremental
+-   ✅ encode semantic similarity: more realistic
+
+-   ✅ more computationally efficient, at least compared to traditional
+    sparse VSM
+
+-   ✅ can (partly) handle unseen vocabulary (e.g., via retrofitting)
+
+-   ✅ can (partly) handle shifts in meaning according to context
+    (contextualized embeddings)
+
+-   ❌ dimensions cannot be interpreted directly: thin theoretical
+    meaning?
+
+-   ❌ reproduce bias in natural language (but debiasing approaches)
+
+-   ❌ proprietary models/data: who can train these?
+
+-   ❌ oftentimes used to explore,rather than for (causal) inference
+
+-   ❌ (procedures for) quality criteria (validity, robustness) not
+    established
+:::
+
+## The road ahead
+
+-   __Transformers__ [@vaswani_attention_2017]
+    - Yes, the infamous BERT [@devlin_bert_2019], for a primer see @rogers_primer_2020
+    - Have you heard of 🤗 [Huggingface](https://huggingface.co)? [@wolf_huggingfaces_2019]
+    - Application via several R packages [@kjell_text-package_2023; @chung-hong_chan_grafzahl_2023]
+    
+-   __Causal Inference with Text__ [@rodriguez_embedding_2023; @egami_how_2022; @feder_causal_2022]
+
+-   __Going beyond text__
+
+## Identifying meaning through semantic spaces (embeddings): Overview 📚
+
+-   **Gentle introductions**: @rodriguez_word_2022;
+    @arseniev-koehler_theoretical_2022; @grimmer_text_2022
+
+-   **Methods**: Word2Vec, GloVe, fasttext, A La Carte Embedding, etc.
+
+-   **Examplary studies**:
+
+    -   features in sentiment analysis: @rudkowsky_more_2018
+    -   identification of stereotypes: @garg_word_2018, @kroon2019,
+        @muller_differential_2023
+    -   identification of shifts over time: @hamilton_diachronic_2016,
+        @rodman_timely_2020, @kozlowski_geometry_2019
+        
+## Identifying meaning through semantic spaces (embeddings): Overview 📚
+
+-   **Tutorials**: @schweinberger2023svm; @jurriaan_nlp_2020;
+    @benoit_replication_nodate; @hvitfeldt_supervised_2022;
+    @bail_word_nodate
+
+-   **Packages**:
+
+    -   [word2vec](https://cran.r-project.org/web/packages/word2vec)
+
+    -   [conText](https://cran.r-project.org/web/packages/conText) and related
+        paper [@rodriguez_embedding_2023]
+
+    -   [text2vec](https://cran.r-project.org/web/packages/text2vec)
+
+    -   [text](https://cran.r-project.org/web/packages/text) and related paper
+        [@kjell_text-package_2023]
+
+    -   [grafzahl](https://cran.r-project.org/web/packages/grafzahl) and
+        related paper [@chung-hong_chan_grafzahl_2023]
+        
+## 
+
+::: {style="font-size: 400%;text-align:center;"}
+**Any questions?** 🤔
+:::
+
+## References

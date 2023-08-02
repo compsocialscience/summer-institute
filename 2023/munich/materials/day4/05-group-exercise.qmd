@@ -1,0 +1,90 @@
+---
+format:
+  revealjs:
+    logo: "https://cms-cdn.lmu.de/assets/img/Logo_LMU.svg"
+    footer: "[Advanced Text Analysis - SICSS-Munich 2023 - Valerie Hase](https://github.com/valeriehase)"
+    center-title-slide: false
+    theme: ["theme/q-theme.scss"]
+    highlight-style: atom-one
+    code-fold: show
+    code-copy: true
+    self-contained: true
+    number-sections: false
+    smaller: true
+    progress: true
+execute:
+  echo: true
+bibliography: "references/references.bib"
+csl: references/apa.csl
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+<h1>Advanced Text Analysis</h1>
+
+<h2>SICSS-Munich, Day 4</h2>
+
+<hr>
+
+Session: Group Exercise
+
+Valerie Hase (LMU Munich)
+
+## Agenda
+
+Today we covered a broad range of techniques for analyzing texts beyond
+bag-of-words approaches.
+
+The main goal was to get you to think about ...
+
+-   what kind of social science questions we can answer with these
+    methods 🤔
+
+-   how to apply them
+
+-   critically reflect on their limitations ❌
+
+Now, let's apply this knowledge! 🔨
+
+## Group Exercise
+
+-   Get together in 5 groups (by counting from 1 to 5)
+-   In the group, decide whether you want to work on Task 1 or Task 2
+-   Work as a team: The goal is **not** to produce the most efficient
+    code the quickest, but to tackle the task as a team of
+    interdisciplinary researchers with varying experience in coding
+-   Regardless of which task you choose, produce one visualization that
+    describes your main findings 🖼️
+-   Be ready to give a three-minute pitch in which you present your
+    results at 3.30 PM ⏲️
+
+## Option 1 - Using advanced text analysis for analyzing news coverage
+
+-   *Task1.RDATA* contains German news coverage, with *N* = 500 texts
+    (see "../data").
+-   If we look at the data, we can see that it contains duplicates. As a
+    team, **discuss** which of the methods you just learned about you
+    could use to identify (close-to) similar texts?
+-   As a team, **apply** one of the methods to deduplicate the corpus.
+-   Next, we want to identify sources of direct quotes in the
+    corpus using syntactic information. By **applying** (for example) *dependency parsing*, can you
+    identify common sources? Who is cited most often?
+-   Lastly, try to install the `spacyr()` via the following
+    [vignette](https://cloud.r-project.org/web/packages/spacyr/vignettes/using_spacyr.html).
+    Compare `spacyr` and `udpip`: Does any of the packages do a better
+    job (at either dependency parsing or PoS tagging)? How could you benchmark results?
+
+## Option 2 - Extending your knowledge on word embeddings
+
+-   Load the data frame of TED talks that you already analyzed yesterday
+    (see "../data").
+-   By **applying** our knowledge on *word embeddings*, can you explain
+    and illustrate how speakers talk about a key issue (e.g.,
+    technology)?
+-   Extend and compare your approach to another method applied via
+    the `context()` package (for a vignette, see
+    [here](https://cran.r-project.org/web/packages/conText/vignettes/quickstart.html)).
+-   Using the `context()` package, can you explain and illustrate
+    whether there are any gender differences in how speakers talk about
+    the issue you selected? (i.e., when using gender as a covariate)
