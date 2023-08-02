@@ -1,0 +1,404 @@
+---
+title: "Screenscraping"
+author: "Lecture: Jan Zilinsky; Thanks to: Carsten Schwemmer, Chris Bail, and Renata Topinkova"
+institute: "Summer Institute in Computational Social Science in Munich, 2023"
+format: 
+  revealjs:
+    slide-number: c
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE,
+                      tidy = FALSE, fig.align = "center")
+```
+
+# What is screen-scraping?
+
+## Retrieving information and processing it to make it human-readable 
+
+```{r, out.width='100%', echo = FALSE}
+knitr::include_graphics('img/screen/Screen-Scraping.png')
+```
+
+# What we will do today
+
+##
+
+1. Scrape a messy table from Wikipedia
+2. Store a simple table from Wikipedia
+3. Scrape a set of URLs from a blog
+3. Scrape and store text of blog posts
+
+## Is screen-scraping legal?
+
+A number of things you can do to check whether site-owners permit scraping:
+
+-  check ``robots.txt`` file
+-  check terms of service
+-  communicate with responsible persons
+
+Whether scraping is legal might depend on other factors, such as your country of residence. If unsure, you should consult professional legal advice.
+
+## robots.txt
+
+- policy that specifies rules about automated data collection on the site
+- example: https://www.ted.com/robots.txt
+
+```
+User-agent: *
+Disallow: /latest
+Disallow: /latest-talk
+Disallow: /latest-playlist
+Disallow: /people
+Disallow: /profiles
+Disallow: /conversations
+Disallow: /themes/rss
+```
+
+## Terms of Service
+
+Example : https://www.researchgate.net/terms-of-service
+
+"In connection with using or accessing the Service, you shall not:
+
+- Impose an unreasonable or disproportionately large administrative burden on ResearchGate
+- Use any robot, spider, scraper, data mining tools, data gathering and extraction tools, or other automated means to access our Service for any purpose, except with the prior express permission of ResearchGate in writing
+- Employ any mechanisms, software, or scripts when using the Service"
+
+
+## Warning: screen-scraping can be frustrating
+
+- Wodern web technologies (e.g. Javascript) make scraping difficult
+- What you care about are often elements deeply nested in html structure
+- Websites change all the time (or disappear)
+- May wish to use screen-scraping as a last resort method for data collection
+
+# Screen-scraping with R
+
+## Install and load R packages
+
+We need the package [tidyverse](https://www.tidyverse.org/), which includes a range of packages for data manipulation (e.g. `dplyr`) as well as `rvest` for reading websites into R:
+
+```{r, eval = FALSE}
+install.packages('tidyverse')
+```
+
+Afterwards, you can load all `tidyverse` core packages and `rvest`:
+
+```{r, size = 'scriptsize'}
+library(tidyverse)
+library(rvest)
+```
+
+## 
+
+### First example - scraping a wikipedia page
+
+We are going to scrape this table from Wikipedia: 
+
+![](img/screen/tab1.png)
+
+```{r}
+# Election results: 
+# https://en.wikipedia.org/wiki/2020_Slovak_parliamentary_election
+```
+
+
+
+## 
+
+### Human-readable vs machine-readable
+
+```{r, out.width='90%', echo = FALSE}
+knitr::include_graphics('img/screen/wiki_source.png')
+```
+
+## Store the full page
+
+Passing the url as character (string) using the rvest function `read_html()`:
+
+```{r}
+svk2020_URL <- "https://en.wikipedia.org/wiki/2020_Slovak_parliamentary_election"
+
+svk2020_html <- read_html(svk2020_URL)
+```
+
+
+Returns an html_document containing the content of:
+
+- `<head>` tag (page metadata, mostly invisible to the user)
+- `<body>`tag (the content of the page that is visible to the user)
+
+## View the content of the object
+
+```{r}
+svk2020_html
+```
+
+## Parsing HTML
+
+Think of HTML as a tree
+
+```{r, out.width='90%', echo = FALSE}
+knitr::include_graphics('img/screen/html_tree.png')
+```
+
+## Finding the relevant table {.smaller}
+
+1. Open the page in your browser.
+2. Right click on the page, select `Inspect` (may be called something else in your browser, e.g., `display source code`) or use CTRL+I shortcut. This should display the HTML structure of the webpage
+3. Explore the structure of the file. 
+4. Find the element(s) you want to scrape.
+5. Assuming you already have an html_document stored in your environment, try extracting the element with `html_elements()`.
+6. Extract the text (`html_text()`) or data (`html_table()`) or attribute (`html_attr()`) you are interested in.
+
+## Note on step 5
+
+<br><br>
+
+### html_element(x, ...)
+
+- x = either a document, a node set or a single node
+- Then supply one of **CSS** or **xpath** depending on whether you want to use a CSS selector or XPath 1.0 expression
+
+## Parsing HTML
+
+Inspect tool:
+
+![](img/screen/tab1a.png)
+
+##
+
+![](img/screen/tab1b.png)
+
+##
+
+```{r}
+swk_wiki_section <- html_element(svk2020_html, 
+           xpath = '//*[@id="mw-content-text"]/div[1]/table[3]')
+head(swk_wiki_section)
+```
+
+```{r}
+elect_tib <- html_table(swk_wiki_section)
+elect_tib
+```
+
+##
+
+```{r}
+#| eval: false
+View(elect_tib)
+```
+
+
+![](img/screen/elec_tib.png)
+
+## Let's extract only the relevant rows and columns
+
+```{r}
+ET <- elect_tib[2:25,2:4]
+ET
+```
+
+Issue: missing column names
+
+## Add variable names
+
+```{r}
+names(ET) <- c("Party","Votes","Percent")
+ET
+```
+
+## Fix variable type
+
+```{r}
+str(ET$Percent)
+
+# Make it numeric:
+ET$Percent <- as.numeric(ET$Percent)
+```
+
+## 
+
+```{r}
+ET %>% 
+ ggplot(aes(x=Percent,
+            y=Party)) +
+ geom_col()
+```
+
+##
+
+```{r}
+ET %>% 
+ ggplot(aes(x=Percent,
+            y=fct_reorder(Party,Percent))) +
+ geom_col()
+```
+
+##
+
+```{r}
+ET %>%
+ mutate(Party=ifelse(stringr::str_detect(Party,"Ordinary People"),"OLANO",Party)) %>%
+  ggplot(aes(x=Percent,
+            y=fct_reorder(Party,Percent))) +
+ geom_col() +
+ labs(y="",title = "Election Results, 2020 Slovak Election") +
+ theme_minimal()
+```
+
+## Second wikipedia table
+
+```{r, out.width='90%', echo = FALSE}
+knitr::include_graphics('img/screen/who_rankings.png')
+```
+
+https://en.wikipedia.org/w/index.php?title=World_Health_Organization_ranking_of_health_systems_in_2000
+
+
+## Extracting HTML
+
+```{r}
+#| eval: false
+wiki_url <- 'https://en.wikipedia.org/w/index.php?title=World_Health_Organization_ranking_of_health_systems_in_2000'
+wikipedia_page <- read_html(wiki_url) # get html
+
+wikipedia_page # inspect object
+```
+
+## Parsing HTML
+
+Inspect tool:
+
+```{r, out.width='100%', echo = FALSE}
+knitr::include_graphics('img/screen/inspect_tool.png')
+```
+
+
+## XPath
+
+Use [XPath](https://en.wikipedia.org/wiki/XPath) to select table:
+
+```{r, out.width='70%', echo = FALSE}
+knitr::include_graphics('img/screen/xpath.png')
+```
+
+## XPath in R
+
+Remember: pass xpath string to function `html_elements()`:
+
+(The function used to be called `html_node` and it would still work)
+
+```{r, size = 'scriptsize'}
+#| eval: false
+wiki_section <- html_elements(wikipedia_page, 
+           xpath = '//*[@id="mw-content-text"]/div[1]/table')
+head(wiki_section)
+```
+
+## Convert to a data object
+
+Use `html_table()` to convert html table to a data frame or a tibble object:
+
+```{r, size = 'scriptsize'}
+#| eval: false
+health_ranking <- html_table(wiki_section)
+health_ranking
+```
+
+![](img/screen/wiki_health.png)
+
+## CSS selectors as alternative to XPath
+
+- One alternative for XPath is the use of [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) selectors
+- [Selector Gadget](http://selectorgadget.com/) is a useful interactive tool for finding CSS selectors: http://selectorgadget.com
+- Selector Gadget can be installed as a Chrome plugin
+
+## Selector Gadget
+
+- The idea of selector gadget is to select elements that you want to scrape (shown in green and yellow color) and the gadget returns the  corresponding css selector
+- You can also click on other elements to exclude those (they will show up in red)
+- See the rvest vignette for more details:
+https://rvest.tidyverse.org/articles/selectorgadget.html
+
+
+## Example: Marginalrevolution.com
+
+### Using the CSS selector in R
+
+Steps:
+
+- parse web page
+- choose nodes by css selector
+- extract links via attribute (*href*)
+
+##
+
+![](img/screen/selector.png)
+
+##
+
+```{r}
+MR <- "https://marginalrevolution.com"
+MR_html <- read_html(MR)
+elements <- html_elements(MR_html, css = 'h2.entry-title') # this used to be html_node()
+nodes <- html_node(elements,"a")
+urls <-  html_attr(nodes, "href")
+urls[1:3]
+```
+
+## Same result, less code
+
+```{r, size = 'scriptsize', linewidth = 80}
+MR %>% 
+  read_html() %>% 
+  html_elements('h2.entry-title a') %>%
+  html_attr('href')
+```
+
+## Extracting texts from articles
+
+The following code takes an url as an input and returns the corresponding text:
+
+```{r}
+"https://marginalrevolution.com/marginalrevolution/2023/07/when-is-best-in-life-to-read-or-reread-many-of-the-greatest-classic-novels.html" %>%
+ read_html() %>%
+ html_nodes('div.entry-content') %>%
+ html_text()
+```
+
+## 
+
+### Use the variable we have stored earlier and select one element
+
+```{r}
+urls[3] %>%
+ read_html() %>%
+ html_nodes('div.entry-content') %>%
+ html_text()
+```
+
+
+## Looping over news articles
+
+We could further automate the process of visiting each url and extracting the texts of articles. 
+
+## If everything else fails: browser automation {.smaller}
+
+- if everything else fails, one final solution for screen-scraping might be browser automation
+- in many cases where browser automation would be required, websites would not permit automated data collection
+- setting up browser automation is more complicated than using `rvest`. 
+- if you are interested in browser automation, check out RSelenium: https://cran.r-project.org/web/packages/RSelenium/
+
+
+## When should you use screen-scraping? 
+
+- consider legal concerns
+- consider ethical concerns
+- examine other data sources (e.g. API's)
+- use screen-scraping as last resort
+
