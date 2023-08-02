@@ -1,0 +1,163 @@
+---
+title: "Non-probability-based Surveys in Practice"
+subtitle: "Data preprocessing"
+author: "Bernhard Clemm von Hohenberg"
+date: "7/25/2023"
+output: html_document
+---
+
+```{r, message = F, warning = F, echo = T}
+
+# packages
+library(tidyverse)
+library(caret)
+
+# set working directory (not necessary if you work in RMD)
+# setwd("")
+
+```
+
+# Introduction
+
+This template allows you to preprocess your data so that it can be used in `analysis-template.Rmd`. The below code works on the simulated data set, which is based on the Google Forms template `google-forms-template.pdf`. The closer your Google Form questionnaire is to the template, the less you will have to adapt the code below.
+
+# Load and clean data
+
+Download the responses as .csv from Google Form. We start with renaming variables to match names in Eurobarometer and census data.
+
+```{r, message = F, warning = F, echo = T}
+
+# read csv
+dt <- read.csv("data-simulated/survey-simulated-raw.csv")
+
+# Rename variables 
+## NOTE: unfortunately, Google Forms csv export names variables with the question text
+## Below code is not stable to changes in question order!
+colnames(dt) <- c(
+  "timestamp", "consent", "lifesat", "econnow", "econfut", "attcheck",
+  "discuss_nat", "discuss_eu", "discuss_loc",
+  "trust_media", "trust_parties", "trust_legal",
+  "trust_police", "trust_army", "trust_gov", 
+  "trust_eu", "trust_nato", "imageeu", "demsat", 
+  "ukract_sanction", "ukract_weapons", "ukract_refugee",
+  "prolific_id", "age", "sex", "residence", "education", "party")
+
+## Alternatively, if you put the question in the "description" of a Google Form question,
+## and put a word in the "question" box, variables will be named like that word.
+
+# inspect the data
+head(dt)
+```
+
+# Filter: consent, age, attention check (optional)
+
+You can filter out respondents that are younger than 18 and did not consent. If you have an attention check, you can filter out respondents here (it's also fine to keep them in the data for this exercise, especially if your sample is small).
+
+```{r, message = F, warning = F, echo = T}
+
+# consent & age
+dt <- dt %>% 
+  filter(consent == "I agree" & age > 17)
+
+# attention check
+dt <- dt %>% 
+  filter(attcheck == "Once a day") %>% select(-attcheck)
+```
+
+# Recode sociodemographics
+
+Note: For the exercise, we are only going to use sex, age and region---but feel free to recode any other variables you added here.
+
+```{r, message = F, warning = F, echo = T}
+
+dt <- dt %>% 
+  mutate(age_group = case_when(
+    age >= 18 & age<= 29 ~ "18-29", 
+    age >= 30 & age<= 49 ~ "30-49", 
+    age >= 50 & age<= 64 ~ "50-64", 
+    age >= 65 ~ "65+")) %>%
+  rename("region" = residence)
+
+```
+
+# Recode dependent variables
+
+## Order factor levels
+
+Make sure each variable has the same levels, and in the same order, as in `/data-eurobarometer/eb99_2023_means.csv`. 
+
+```{r, message = F, warning = F, echo = T}
+
+dt <- dt %>% 
+  mutate(
+    across(c(lifesat, demsat), ~ factor(., ordered = T, 
+      levels = c("Very satisfied", "Fairly satisfied", "Not very satisfied", 
+                 "Not at all satisfied", "Don't know")))) %>%
+  mutate(
+    across(starts_with("discuss_"), ~ factor(., ordered = T, 
+      levels = c("Frequently", "Occasionally", "Never", "Don't know")))) %>%
+  mutate(
+    across(starts_with("trust_"), ~ factor(., ordered = T, 
+      levels = c("Tend to trust", "Tend not to trust", "Don't know")))) %>%
+  mutate(
+    across(starts_with("ukract_"), ~ factor(., ordered = T, 
+      levels = c("Totally agree", "Tend to agree", "Tend to disagree", 
+                 "Totally disagree", "Don't know")))) %>%
+  mutate(
+    econnow = factor(
+      econnow, ordered = T, 
+      levels = c("Very good", "Rather good", "Rather bad", "Very bad", "Don't know"))) %>%
+  mutate(
+    econfut = factor(
+      econfut, ordered = T, 
+      levels = c("Better", "Worse", "The same", "Don't know"))) %>%
+  mutate(
+    imageeu = factor(
+      imageeu, ordered = T, 
+      levels = c("Very positive", "Fairly positive", "Neutral", "Fairly negative",
+                 "Very negative", "Don't know")))
+
+# check variable levels
+str(dt)
+```
+
+## Binarize dependent variables (one-hot encoding)
+
+This will create on variable for each response option of a variable. For example, `trust_media` has three response values "Tend to trust", "Tend not to trust" and "Don't know". As a result, we will have three variables `trust_media.1`, `trust_media.2` and `trust_media.3`, which will get a 1 if respondent has picked this option and 0 otherwise.
+
+```{r, message = F, warning = F, echo = T}
+
+# define vector of DVs
+dvs <- c("lifesat", "econnow", "econfut",
+  "discuss_nat", "discuss_eu", "discuss_loc",
+  "trust_media", "trust_parties", "trust_legal",
+  "trust_police", "trust_army", "trust_gov", 
+  "trust_eu", "trust_nato", "imageeu", "demsat", 
+  "ukract_sanction", "ukract_weapons", "ukract_refugee")
+
+# replace factor levels into numbered factor levels
+dt <- dt %>% 
+  mutate(across(all_of(dvs), ~as.factor(as.numeric(.))))
+
+# dummify
+## first select only dvs
+dt_dvs <- dt %>% 
+  select(all_of(dvs))
+## run the function from "caret"
+dmy <- dummyVars(" ~ .", data = dt_dvs)
+dt_dmy <- predict(dmy, newdata = dt_dvs)
+
+# merge new dummy vars with other variables from data
+dt_clean <- cbind(dt_dmy, dt %>% select(-all_of(dvs)))
+
+# check variables
+colnames(dt_clean)
+```
+
+# Save data set
+
+```{r, message = F, warning = F, echo = T, eval = F}
+
+write.csv(dt_clean, "data-simulated/survey-simulated-clean.csv", row.names = F)
+
+```

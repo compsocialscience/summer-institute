@@ -1,0 +1,71 @@
+---
+title: "Non-probability-based Surveys in Practice"
+subtitle: "Warmup exercise 2"
+author: "Bernhard Clemm von Hohenberg"
+date: "7/25/2023"
+output: html_document
+---
+
+# Load data 
+
+```{r, message = F, warning = F, echo = T}
+
+library(rstatix)
+library(tidyverse)
+
+data <- read.csv("Images+and+truth_July+28,+2023_03.00_anonymized.csv")
+data <- data[-c(1:2),]
+```
+
+# Data wrangling
+
+```{r, message = F, warning = F, echo = T}
+
+data <- data %>% 
+  mutate(treatment = case_when(true1 != "" ~ "control",
+                               true1_image != "" ~ "treatment",)) %>%
+  filter(!is.na(treatment))
+
+data <- data %>% 
+  unite("true1_belief", c("true1", "true1_image"), sep = "") %>%
+  unite("true2_belief", c("true2", "true2_image"), sep = "") %>%
+  unite("true3_belief", c("true3", "true3_image"), sep = "") %>%
+  unite("true4_belief", c("true4", "true4_image"), sep = "") %>%
+  unite("true5_belief", c("true5", "true5_image"), sep = "") %>%
+  unite("true6_belief", c("true6", "true6_image"), sep = "") %>%
+  unite("false2_belief", c("false2", "false2_image"), sep = "") %>%
+  unite("false3_belief", c("false3", "false3_image"), sep = "") %>%
+  unite("false4_belief", c("false4", "false4_image"), sep = "") %>%
+  unite("false1_belief", c("false1", "false1_image"), sep = "") %>%
+  pivot_longer(cols = c(true1_belief, true2_belief, true3_belief, 
+                        true4_belief, true5_belief, true6_belief, 
+                        false1_belief, false2_belief, false3_belief, false4_belief), 
+               names_to = "statement", values_to = "belief") %>%
+  select(treatment, statement, belief) %>%
+  mutate(belief = case_when(belief == "True" ~ 1,
+                            belief == "False" ~ 0))
+
+```
+
+# Plot
+
+```{r, message = F, warning = F, echo = T}
+
+data %>% 
+  group_by(treatment, statement) %>%
+  get_summary_stats(belief) %>%
+  ggplot(aes(x = statement, y = mean, fill = factor(treatment))) +
+  geom_bar(stat="identity", position="dodge") +
+  scale_fill_discrete(name = "Treatment",
+                      labels = c("No Image", "Image")) +
+  scale_x_discrete(name = "Statement",
+                   labels = c("Lead (F)", "Pluto (F)", "Sound (F)", "Madagascar (F)",
+                   "Sunlight (T)", "Water (T)", "Dolphins (T)", 
+                   "Olympia (T)", "Methusale (T)", "Glacier (T)")) + 
+  scale_y_continuous(name = "Proportion believing statement") +
+  ggtitle("Effect of images on truthiness") +
+  theme_light() + 
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+```
+

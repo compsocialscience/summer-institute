@@ -1,0 +1,77 @@
+﻿varname_sicss;varname_eb;question;answer;proportion
+lifesat.1;D70;On the whole, are you very satisfied, fairly satisfied, not very satisfied or not at all satisfied with the life you lead?;Very satisfied;0.36
+lifesat.2;D70;On the whole, are you very satisfied, fairly satisfied, not very satisfied or not at all satisfied with the life you lead?;Fairly satisfied;0.56
+lifesat.3;D70;On the whole, are you very satisfied, fairly satisfied, not very satisfied or not at all satisfied with the life you lead?;Not very satisfied;0.07
+lifesat.4;D70;On the whole, are you very satisfied, fairly satisfied, not very satisfied or not at all satisfied with the life you lead?;Not at all satisfied;0.01
+lifesat.5;D70;On the whole, are you very satisfied, fairly satisfied, not very satisfied or not at all satisfied with the life you lead?;Don't know;0.00
+econnow.1;QA1.2;How would you judge the current situation in each of the following? The situation of the UK economy;Very good;0.02
+econnow.2;QA1.2;How would you judge the current situation in each of the following? The situation of the UK economy;Rather good;0.16
+econnow.3;QA1.2;How would you judge the current situation in each of the following? The situation of the UK economy;Rather bad;0.50
+econnow.4;QA1.2;How would you judge the current situation in each of the following? The situation of the UK economy;Very bad;0.27
+econnow.5;QA1.2;How would you judge the current situation in each of the following? The situation of the UK economy;Don't know;0.05
+econfut.1;QA2.2;What are your expectaons for the next 12 months: will the next 12 months be beer, worse or the same, when it comes to...? The economic situation in the UK;Better;0.22
+econfut.2;QA2.2;What are your expectaons for the next 12 months: will the next 12 months be beer, worse or the same, when it comes to...? The economic situation in the UK;Worse;0.37
+econfut.3;QA2.2;What are your expectaons for the next 12 months: will the next 12 months be beer, worse or the same, when it comes to...? The economic situation in the UK;The same;0.37
+econfut.4;QA2.2;What are your expectaons for the next 12 months: will the next 12 months be beer, worse or the same, when it comes to...? The economic situation in the UK;Don't know;0.04
+discuss_nat.1;D71.1;When you get together with friends or relatives, would you say you discuss frequently, occasionally or never about national political matters?;Frequently;0.23
+discuss_nat.2;D71.1;When you get together with friends or relatives, would you say you discuss frequently, occasionally or never about national political matters?;Occasionally;0.46
+discuss_nat.3;D71.1;When you get together with friends or relatives, would you say you discuss frequently, occasionally or never about national political matters?;Never;0.31
+discuss_nat.4;D71.1;When you get together with friends or relatives, would you say you discuss frequently, occasionally or never about national political matters?;Don't know;0.00
+discuss_eu.1;D71.2;When you get together with friends or relatives, would you say you discuss frequently, occasionally or never about… European political matters?;Frequently;0.15
+discuss_eu.2;D71.2;When you get together with friends or relatives, would you say you discuss frequently, occasionally or never about… European political matters?;Occasionally;0.46
+discuss_eu.3;D71.2;When you get together with friends or relatives, would you say you discuss frequently, occasionally or never about… European political matters?;Never;0.39
+discuss_eu.4;D71.2;When you get together with friends or relatives, would you say you discuss frequently, occasionally or never about… European political matters?;Don't know;0.00
+discuss_loc.1;D71.3;When you get together with friends or relatives, would you say you discuss frequently, occasionally or never about… local political matters?;Frequently;0.17
+discuss_loc.2;D71.3;When you get together with friends or relatives, would you say you discuss frequently, occasionally or never about… local political matters?;Occasionally;0.45
+discuss_loc.3;D71.3;When you get together with friends or relatives, would you say you discuss frequently, occasionally or never about… local political matters?;Never;0.38
+discuss_loc.4;D71.3;When you get together with friends or relatives, would you say you discuss frequently, occasionally or never about… local political matters?;Don't know;0.04
+trust_media.1;QA6.1;How much trust do you have in certain institutions? For each of the following institutions, do you tend to trust it or tend not to trust it? The media;Tend to trust;0.18
+trust_media.2;QA6.1;How much trust do you have in certain institutions? For each of the following institutions, do you tend to trust it or tend not to trust it? The media;Tend not to trust;0.77
+trust_media.3;QA6.1;How much trust do you have in certain institutions? For each of the following institutions, do you tend to trust it or tend not to trust it? The media;Don't know;0.05
+trust_parties.1;QA6.2;How much trust do you have in certain institutions? For each of the following institutions, do you tend to trust it or tend not to trust it? Political parties;Tend to trust;0.10
+trust_parties.2;QA6.2;How much trust do you have in certain institutions? For each of the following institutions, do you tend to trust it or tend not to trust it? Political parties;Tend not to trust;0.86
+trust_parties.3;QA6.2;How much trust do you have in certain institutions? For each of the following institutions, do you tend to trust it or tend not to trust it? Political parties;Don't know;0.04
+trust_legal.1;QA6.3;How much trust do you have in certain institutions? For each of the following institutions, do you tend to trust it or tend not to trust it? The UK legal system;Tend to trust;0.56
+trust_legal.2;QA6.3;How much trust do you have in certain institutions? For each of the following institutions, do you tend to trust it or tend not to trust it? The UK legal system;Tend not to trust;0.38
+trust_legal.3;QA6.3;How much trust do you have in certain institutions? For each of the following institutions, do you tend to trust it or tend not to trust it? The UK legal system;Don't know;0.06
+trust_police.1;QA6.4;How much trust do you have in certain institutions? For each of the following institutions, do you tend to trust it or tend not to trust it? The police;Tend to trust;0.64
+trust_police.2;QA6.4;How much trust do you have in certain institutions? For each of the following institutions, do you tend to trust it or tend not to trust it? The police;Tend not to trust;0.31
+trust_police.3;QA6.4;How much trust do you have in certain institutions? For each of the following institutions, do you tend to trust it or tend not to trust it? The police;Don't know;0.05
+trust_army.1;QA6.5;How much trust do you have in certain institutions? For each of the following institutions, do you tend to trust it or tend not to trust it? The army;Tend to trust;0.79
+trust_army.2;QA6.5;How much trust do you have in certain institutions? For each of the following institutions, do you tend to trust it or tend not to trust it? The army;Tend not to trust;0.14
+trust_army.3;QA6.5;How much trust do you have in certain institutions? For each of the following institutions, do you tend to trust it or tend not to trust it? The army;Don't know;0.07
+trust_gov.1;QA6.9;How much trust do you have in certain institutions? For each of the following institutions, do you tend to trust it or tend not to trust it? The UK government;Tend to trust;0.22
+trust_gov.2;QA6.9;How much trust do you have in certain institutions? For each of the following institutions, do you tend to trust it or tend not to trust it? The UK government;Tend not to trust;0.74
+trust_gov.3;QA6.9;How much trust do you have in certain institutions? For each of the following institutions, do you tend to trust it or tend not to trust it? The UK government;Don't know;0.04
+trust_eu.1;QA6.11;How much trust do you have in certain institutions? For each of the following institutions, do you tend to trust it or tend not to trust it? The European Union;Tend to trust;0.33
+trust_eu.2;QA6.11;How much trust do you have in certain institutions? For each of the following institutions, do you tend to trust it or tend not to trust it? The European Union;Tend not to trust;0.52
+trust_eu.3;QA6.11;How much trust do you have in certain institutions? For each of the following institutions, do you tend to trust it or tend not to trust it? The European Union;Don't know;0.15
+trust_nato.1;QA6.13;How much trust do you have in certain institutions? For each of the following institutions, do you tend to trust it or tend not to trust it? NATO;Tend to trust;0.56
+trust_nato.2;QA6.13;How much trust do you have in certain institutions? For each of the following institutions, do you tend to trust it or tend not to trust it? NATO;Tend not to trust;0.29
+trust_nato.3;QA6.13;How much trust do you have in certain institutions? For each of the following institutions, do you tend to trust it or tend not to trust it? NATO;Don't know;0.15
+imageeu.1;D78;In general, does the EU conjure up for you a very positive, fairly positive, neutral, fairly negative or very negative image?;Very positive;0.12
+imageeu.2;D78;In general, does the EU conjure up for you a very positive, fairly positive, neutral, fairly negative or very negative image?;Fairly positive;0.29
+imageeu.3;D78;In general, does the EU conjure up for you a very positive, fairly positive, neutral, fairly negative or very negative image?;Neutral;0.41
+imageeu.4;D78;In general, does the EU conjure up for you a very positive, fairly positive, neutral, fairly negative or very negative image?;Fairly negative;0.11
+imageeu.5;D78;In general, does the EU conjure up for you a very positive, fairly positive, neutral, fairly negative or very negative image?;Very negative;0.06
+imageeu.6;D78;In general, does the EU conjure up for you a very positive, fairly positive, neutral, fairly negative or very negative image?;Don't know;0.01
+demsat.1;SD18a;On the whole, are you very satisfied, fairly satisfied, not very satisfied or not at all satisfied with the way democracy works in the UK?;Very satisfied;0.07
+demsat.2;SD18a;On the whole, are you very satisfied, fairly satisfied, not very satisfied or not at all satisfied with the way democracy works in the UK?;Fairly satisfied;0.47
+demsat.3;SD18a;On the whole, are you very satisfied, fairly satisfied, not very satisfied or not at all satisfied with the way democracy works in the UK?;Not very satisfied;0.32
+demsat.4;SD18a;On the whole, are you very satisfied, fairly satisfied, not very satisfied or not at all satisfied with the way democracy works in the UK?;Not at all satisfied;0.12
+demsat.5;SD18a;On the whole, are you very satisfied, fairly satisfied, not very satisfied or not at all satisfied with the way democracy works in the UK?;Don't know;0.02
+ukract_sanction.1;QE2.1;The EU has taken a series of actions as a response to Russia's invasion of Ukraine. To what extent you agree or disagree with each of these actions taken. Imposing economic sanctions on Russian government, companies and individuals ;Totally agree;0.57
+ukract_sanction.2;QE2.1;The EU has taken a series of actions as a response to Russia's invasion of Ukraine. To what extent you agree or disagree with each of these actions taken. Imposing economic sanctions on Russian government, companies and individuals ;Tend to agree;0.27
+ukract_sanction.3;QE2.1;The EU has taken a series of actions as a response to Russia's invasion of Ukraine. To what extent you agree or disagree with each of these actions taken. Imposing economic sanctions on Russian government, companies and individuals ;Tend to disagree;0.08
+ukract_sanction.4;QE2.1;The EU has taken a series of actions as a response to Russia's invasion of Ukraine. To what extent you agree or disagree with each of these actions taken. Imposing economic sanctions on Russian government, companies and individuals ;Totally disagree;0.02
+ukract_sanction.5;QE2.1;The EU has taken a series of actions as a response to Russia's invasion of Ukraine. To what extent you agree or disagree with each of these actions taken. Imposing economic sanctions on Russian government, companies and individuals ;Don't know;0.06
+ukract_weapons.1;QE2.3;The EU has taken a series of actions as a response to Russia's invasion of Ukraine. To what extent you agree or disagree with each of these actions taken. Financing the purchase and supply of military equipment to Ukraine;Totally agree;0.49
+ukract_weapons.2;QE2.3;The EU has taken a series of actions as a response to Russia's invasion of Ukraine. To what extent you agree or disagree with each of these actions taken. Financing the purchase and supply of military equipment to Ukraine;Tend to agree;0.29
+ukract_weapons.3;QE2.3;The EU has taken a series of actions as a response to Russia's invasion of Ukraine. To what extent you agree or disagree with each of these actions taken. Financing the purchase and supply of military equipment to Ukraine;Tend to disagree;0.11
+ukract_weapons.4;QE2.3;The EU has taken a series of actions as a response to Russia's invasion of Ukraine. To what extent you agree or disagree with each of these actions taken. Financing the purchase and supply of military equipment to Ukraine;Totally disagree;0.05
+ukract_weapons.5;QE2.3;The EU has taken a series of actions as a response to Russia's invasion of Ukraine. To what extent you agree or disagree with each of these actions taken. Financing the purchase and supply of military equipment to Ukraine;Don't know;0.06
+ukract_refugee.1;QE2.5;The EU has taken a series of actions as a response to Russia's invasion of Ukraine. To what extent you agree or disagree with each of these actions taken. Welcoming into the EU people fleeing the war ;Totally agree;0.66
+ukract_refugee.2;QE2.5;The EU has taken a series of actions as a response to Russia's invasion of Ukraine. To what extent you agree or disagree with each of these actions taken. Welcoming into the EU people fleeing the war ;Tend to agree;0.24
+ukract_refugee.3;QE2.5;The EU has taken a series of actions as a response to Russia's invasion of Ukraine. To what extent you agree or disagree with each of these actions taken. Welcoming into the EU people fleeing the war ;Tend to disagree;0.05
+ukract_refugee.4;QE2.5;The EU has taken a series of actions as a response to Russia's invasion of Ukraine. To what extent you agree or disagree with each of these actions taken. Welcoming into the EU people fleeing the war ;Totally disagree;0.01
+ukract_refugee.5;QE2.5;The EU has taken a series of actions as a response to Russia's invasion of Ukraine. To what extent you agree or disagree with each of these actions taken. Welcoming into the EU people fleeing the war ;Don't know;0.04
