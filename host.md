@@ -45,15 +45,17 @@ As we work toward this mission, we are guided by the following principles:
 
 For a much more detailed description of the process of hosting a partner location, please consult our [Handbook for Organizers](https://docs.google.com/document/d/1InRTZJPbh9P1Qnc1VBB7UxDflXaxNqhEygBnO7yGBoQ/edit?usp=sharing)
 
-### Call for Applications 2023
+### Call for Applications 2024
 
 Dear friend of SICSS,
 
-We are very pleased to announce this call for applications to host SICSS partner locations in 2023. In 2022, SICSS organizers hosted a mixture of virtual and in-person events. Although we hope that 2023 organizers will be able to host in-person events, we recognize that the COVID pandemic continues to create significant challenges throughout the world and therefore also welcome applications for virtual events. Though virtual events may not allow for the depth of connections that might be created by in-person events, they also broaden access to the field towards those who might not be fortunate enough to live near a partner location – or cannot afford to travel one.
+We are very pleased to announce this call for applications to host SICSS partner locations in 2024. 
 
-We are proud to announce that we will once again be able to provide financial support to those who wish to host partner locations thanks to the generous support of the funders described below. As in past years, our resources are limited — as much as we would love to fully fund every organizing team who submits an application to run a SICSS partner location, we will likely be unable to do so. Therefore, we encourage organizers who have capacity and means to do so to look into self-sponsoring their location via their own universities or organizations, or through developing partnerships with non-profit organizations or corporations.
+As in past years, fundraising to support the continued growth of the program remains a challenge. SICSS leadership is committed to the search, and hopes to be able to announce possible funding for a small number of sites again in 2024, though this has not yet been confirmed.
 
-Applications selected for financial support will receive \$15,000 to support the cost of the institute — \$8,200 for honoraria (to be split between organizers and TAs); \$1,800 to support the cost of food and room rental fees; and \$5,000 to fund participant research projects. In 2023, we intend to fully fund six SICSS partner locations at this amount. If you require less funding than this amount (perhaps you are running a location that is only a week long, or are receiving funding from alternate sources), please indicate so on the application.
+As in past years, our resources are limited — as much as we would love to fully fund every organizing team who submits an application to run a SICSS partner location, we will likely be unable to do so. Therefore, we encourage organizers who have capacity and means to do so to look into self-sponsoring their location via their own universities or organizations, or through developing partnerships with non-profit organizations or corporations.
+
+Though we are undergoing a review of our grant-making process, we expect that applications selected for financial support will receive \$15,000 to support the cost of the institute — \$8,200 for honoraria (to be split between organizers and TAs); \$1,800 to support the cost of food and room rental fees; and \$5,000 to fund participant research projects.  If you require less funding than this amount (perhaps you are running a location that is only a week long, or are receiving funding from alternate sources), please indicate so on the application.
 
 Applications will be reviewed by SICSS leadership. Regardless of whether you apply for funding or self-sponsor a SICSS location, please complete the short application form below. If you have any questions, please consult the F.A.Q. below or email us at rsfcompsocsci@gmail.com.
 
@@ -61,7 +63,7 @@ With very best wishes, Chris Bail, SICSS Director
 
 ### How to Apply
 
-**Applications to host a partner site in 2023 are due on Friday, November 18 by 5pm EST. Please send completed [applications](https://docs.google.com/document/d/1ZHKR3PuRw9mqEmaikltHmyIm4_RQKkw_ysv3prjgCXk/edit?usp=sharing) to rsfcompsocsci@gmail.com**
+**Applications to host a partner site in 2024 are due on Friday, November 17 by 5pm U.S. E.S.T. Please send completed [applications](https://docs.google.com/document/d/1ZHKR3PuRw9mqEmaikltHmyIm4_RQKkw_ysv3prjgCXk/edit?usp=sharing) to rsfcompsocsci@gmail.com**
 
 ### Frequently Asked Questions
 
