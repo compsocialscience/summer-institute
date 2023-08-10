@@ -8,6 +8,8 @@
   url: "/people"
 - name: Festival
   url: "/festival"
+- name: Host
+  url: "/host"
 - name: About
   url: "/about"
 - name: In the News
