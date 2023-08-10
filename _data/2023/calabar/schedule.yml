@@ -2,7 +2,7 @@
   name: Arrival of Participants
   
 - date: September 18, 2023
-  name: Day 1: Introduction to SICSS and CSS
+  name: "Day 1: Introduction to SICSS and CSS"
   events:
     - name: "10:30 - 12:00 Housekeeping & Logistics ([Juliet Inyang](www.ollion.cnrs.fr)) ([Augustine Otobi](www.ollion.cnrs.fr))"
     - name: "12:00 – 13:30 Lunch Break"
@@ -11,7 +11,7 @@
     - name: "16:00 - 17:00 Research Speed Dating I: Getting to know you and your research ([Grace Ihejiamaizu](www.ollion.cnrs.fr))"  
 
 - date: September 19, 2023
-  name: Day 2: Understanding Computations with R
+  name: "Day 2: Understanding Computations with R"
   events:
     - name: "10:30 - 12:00 R for Social Sciences and Humanities ([Prof Mbe Nja](www.ollion.cnrs.fr))"
     - name: "12:00 – 13:30 Lunch Break"
@@ -20,7 +20,7 @@
     - name: "16:00 - 17:00 Dashboarding with R ([SICSS Howard/Mathematica (USA)](www.ollion.cnrs.fr))"  
 
 - date: September 20, 2023
-  name: Day 3: Web Scraping
+  name: "Day 3: Web Scraping"
   events:
     - name: "10:30 - 12:00 Web scraping fundamentals ([Augustine Otobi](www.ollion.cnrs.fr))"
     - name: "12:00 – 13:30 Lunch Break"
@@ -29,7 +29,7 @@
     - name: "16:00 - 17:00 Research Speed Dating II: Research Insight Sharing  ([John Inyang](www.ollion.cnrs.fr))"  
 
 - date: September 21, 2023
-  name: Day 4: Social Science Data Modelling and Collaboration
+  name: "Day 4: Social Science Data Modelling and Collaboration"
   events:
     - name: "10:30 - 12:00 Version Control/Collaboration in Computational Social Science (GitHub)  ([Precious Adebola (Nigeria)](www.ollion.cnrs.fr))"
     - name: "12:00 – 13:30 Lunch Break"
@@ -38,7 +38,7 @@
     - name: "16:00 - 17:00 Town & Gown Networking/Office hours ([Augustine Otobi](www.ollion.cnrs.fr)), ([Joseph David](www.ollion.cnrs.fr)), ([Precious Adebola](www.ollion.cnrs.fr))"  
 
 - date: September 22, 2023
-  name: Day 5: Text Analysis
+  name: "Day 5: Text Analysis"
   events:
     - name: "10:30 - 12:00 Text Analysis  ([Dr. Emmanuel Olamijuwon (UK)](www.ollion.cnrs.fr)), ([SICSS Howard/Mathematica (USA)](www.ollion.cnrs.fr))"
     - name: "12:00 – 13:30 Lunch Break"
@@ -57,7 +57,7 @@
 
 
 - date: September 25, 2023
-  name: Day 6:  Introduction to CSS Group Projects
+  name: "Day 6:  Introduction to CSS Group Projects"
   events:
     - name: "10:30 - 12:00 Research mentorship/Grant applications ([Prof Igri Okon](www.ollion.cnrs.fr))"
     - name: "12:00 – 13:30 Lunch Break"
@@ -67,7 +67,7 @@
 
 
   date: September 26, 2023
-  name: Day 7:  Talk-Show and CSS Group Projects
+  name: "Day 7:  Talk-Show and CSS Group Projects"
   events:
     - name: "10:30 - 12:00 New Frontiers in Research and Technology: “AI + Automation + Work”  ([Prof Joe Duke](www.ollion.cnrs.fr))"
     - name: "12:00 – 13:30 Lunch Break"
@@ -77,7 +77,7 @@
 
 
 - date: September 27, 2023
-  name: Day 8:  Geospacial Analysis and CSS Group Projects
+  name: "Day 8:  Geospacial Analysis and CSS Group Projects"
   events:
     - name: "10:30 - 12:00 Geospacial Analysis with R  ([Edith Darin (USA)](www.ollion.cnrs.fr))"
     - name: "12:00 – 13:30 Lunch Break"
@@ -88,7 +88,7 @@
     
 
 - date: September 28, 2023
-  name: Day 9:  Machine Learning and CSS Group Projects
+  name: "Day 9:  Machine Learning and CSS Group Projects"
   events:
     - name: "10:30 - 12:00 Machine Learning (Social Science Predictive Analytics) ([SICSS Howard/Mathematica (USA))](www.ollion.cnrs.fr))"
     - name: "12:00 – 13:30 Lunch Break"
@@ -98,7 +98,7 @@
 
 
 - date: September 29 2023
-  name: Day 10:  Group Presentation and Farewell
+  name: "Day 10:  Group Presentation and Farewell"
   events:
     - name: "10:30 - 14:00 Group Presentations Augustine ([Augustine Otobi](www.ollion.cnrs.fr))"
     - name: "14:00 - 15:00 Closing Remarks/Farewell ([Juliet Inyang](www.ollion.cnrs.fr)), ([Augustine Otobi](www.ollion.cnrs.fr)), " 
