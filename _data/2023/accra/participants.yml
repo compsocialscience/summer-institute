@@ -1,8 +1,4 @@
-- name: Charles	Asabere
-  bio: Charles Asabere is a doctoral candidate at the University of Ghana's Regional Institute for Population Studies. He investigates how social inequalities impact  demographic trends. His research examines death registration coverage, mortality variation, and causes of death across space. He aims to utilize nontraditional data sources to answer pertinent demographic questions.
-  image: 
-  website:
-  
+
 - name: Amr	Abdelwahed
   bio: Amr Abdelwahed is an assistant professor of the Population and Migration Research Pillar in the Faculty of Graduate Studies for Statistical Research (FGSSR) at Cairo University. Amr Abdelwahed completed his PhD in Social Statistics and Demography at the Asian Demographic Research Institute (ADRI), Shanghai University, in 2021. His research focuses on international migration aspects. His current research involves migration and social cohesion in destinations, migration impacts and their underlying mechanism, and their related theoretical and policy implications in both Egypt and the international context.
   image: /assets/images/abdelwahed.jpg
@@ -18,6 +14,11 @@
   image: /assets/images/Ayodele_akinyele.jpg
   website: https://www.linkedin.com/in/ayodele-akinyele-58a33932
 
+- name: Charles	Asabere
+  bio: Charles Asabere is a doctoral candidate at the University of Ghana's Regional Institute for Population Studies. He investigates how social inequalities impact  demographic trends. His research examines death registration coverage, mortality variation, and causes of death across space. He aims to utilize nontraditional data sources to answer pertinent demographic questions.
+  image: 
+  website:
+  
 - name: Jude Ewemade
   bio: Jude Ewemade is an early career demographer specializing in migration patterns, migrant integration, and reproductive behaviours. With a keen interest in computational social sciences, Jude aims to tackle complex demographic and social challenges in Africa through innovative research methods and data-driven solutions.
   image: /assets/images/ewemade.jpg
