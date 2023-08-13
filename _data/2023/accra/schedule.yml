@@ -185,7 +185,7 @@
 - date: 2023-08-30
   events:
     - name: "**09:15-13:00** Group Exercises"
-	  - name: "**13:00-14:00** Lunch"
+    - name: "**13:00-14:00** Lunch"
     - name: "**14:00-15:00** Flash talk:"
     - name: "**15:00-17:00** Group Exercises"
     - name: "**17:00-** Dinner"
@@ -193,7 +193,7 @@
 - date: 2023-08-31
   events:
     - name: "**09:15-13:00** Group Exercises"
-	  - name: "**13:00-14:00** Lunch"
+    - name: "**13:00-14:00** Lunch"
     - name: "**14:00-15:00** Flash talk:"
     - name: "**15:00-17:00** Group Exercises"
     - name: "**17:00-** Dinner"
@@ -201,6 +201,6 @@
 - date: 2023-09-01
   events:
     - name: "**09:15-13:00** Group Exercises"
-	  - name: "**13:00-14:00** Lunch"
+    - name: "**13:00-14:00** Lunch"
     - name: "**14:00-17:00** Flash talks: SICSS-Accra group projects."
     - name: "**17:00-** Dinner and goodbye"
