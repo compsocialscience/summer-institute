@@ -143,7 +143,6 @@
     - name: "**15:00-16:30** Research Happy Hour
 	
     - *YouTube videos:* <a href='https://www.youtube.com/watch?v=j8fJGV17Hcg' target='_blank'>Survey Research in the Digital Age</a>, <a href='https://www.youtube.com/watch?v=SLAi9v5CCnM' target='_blank'>Probability and Non-Probability Sampling</a>, <a href='https://www.youtube.com/watch?v=_vecQs7aB6o' target='_blank'>Combining Surveys and Big Data</a>, <a href='https://www.youtube.com/watch?v=cYyu5Ex0twE' target='_blank'>Moving Beyond Simple Experiments</a>"
-	
     - name: "**16:30-17:00** Announcements "
     - name: "**17:00-** Dinner"
 
@@ -163,9 +162,7 @@
     - Build a chloropleth map and map with points in R using the javascript library leaflet.
     
     - Customise a plot by changing the background tile, polygon colours and fill and adding pop up labels."
-	
     - name: "**15:30-17:00** Group Exercises"
- 
     - name: "**17:00-** Dinner"
 
 - date: 2023-08-29
