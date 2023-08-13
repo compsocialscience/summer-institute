@@ -169,7 +169,7 @@
   events:
     - name: "**09:00-09:15** Housekeeping and Announcements."
     - name: "**09:15-13:00** Group Exercises"
-	  - name: "**13:00-14:00** Lunch"
+    - name: "**13:00-14:00** Lunch"
     - name: "**14:00-15:00** Flash talk: Health-information seeking behaviour during COVID-19."  
     - name: "**15:00-17:00** Group Exercises"
     - name: "**17:00-** Dinner"
