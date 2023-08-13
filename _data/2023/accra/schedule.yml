@@ -19,6 +19,7 @@
 	- <a href='https://osf.io/preprints/socarxiv/7bvpt/' target='_blank'>Digital and computational demography</a>
 	
 	- <a href='https://doi.org/10.31235/osf.io/24jp7' target='_blank'>Demography in the digital era: New data sources for population research</a>"
+	
     - name: "**11:00-12:00** From social scientist to computational social scientist: *Redefining research agenda in SSA*"
     - name: "**12:00-13:00** Welcome to RIPS"
     - name: "**13:00-15:30** Lunch"
@@ -123,9 +124,9 @@
         
     - <a href='https://ojs.aaai.org/index.php/ICWSM/article/view/3360' target='_blank'>Using search queries to understand health information needs in Africa</a>
 	
-     - <a href='https://doi.org/10.1080/03736245.2021.1901239' target='_blank'>Google trends and water conservation awareness: the internet’s contribution in South Africa</a>    
+     - <a href='https://doi.org/10.1080/03736245.2021.1901239' target='_blank'>Google trends and water conservation awareness: the internet’s contribution in South Africa</a>"  
     
-    - name: "**10:15-11:15** Search interests
+    - name: "**10:15-11:15** Search interests"
     - name: "**11:15-13:00** Tutorial"
     - name: "**13:00-14:00** Lunch"
     - name: "**14:00-15:00** Research Happy Hour
@@ -139,7 +140,7 @@
 
     - <a href='https://doi.org/10.1007/s13524-019-00840-z' target='_blank'>Using an online sample to estimate the size of an offline population</a>
     
-    - <a href='https://www.medrxiv.org/content/10.1101/2020.06.01.20118810v1' target='_blank'>Collecting data on HIV-related mortality during household surveys: a randomized validation study in Malawi</a>
+    - <a href='https://www.medrxiv.org/content/10.1101/2020.06.01.20118810v1' target='_blank'>Collecting data on HIV-related mortality during household surveys: a randomized validation study in Malawi</a>"
     
     - name: "**15:00-16:30** Research Happy Hour
 	
@@ -153,7 +154,7 @@
 - date: 2023-08-28
   events:
     - name: "**09:00-09:15** Housekeeping and Announcements."
-    - name: "**09:15-10:00** An introduction to SICSS-Accra group projects.
+    - name: "**09:15-10:00** An introduction to SICSS-Accra group projects."
     - name: "**10:00-13:00** Group Exercises"
     - name: "**13:00-14:00** Lunch"
     - name: "**14:00-15:30** Tutorial: Introduction to Spatial Data and Leaflet Mapping in R  [<a href='https://github.com/LaurieLBaker/DSCA_leaflet_mapping_in_r' target='_blank'>Slides & Annotated Code</a>]
@@ -176,7 +177,7 @@
     - name: "**09:00-09:15** Housekeeping and Announcements."
     - name: "**09:15-13:00** Group Exercises"
 	  - name: "**13:00-14:00** Lunch"
-    - name: "**14:00-15:00** Flash talk: Health-information seeking behaviour during COVID-19.    
+    - name: "**14:00-15:00** Flash talk: Health-information seeking behaviour during COVID-19."  
     - name: "**15:00-17:00** Group Exercises"
     - name: "**17:00-** Dinner"
 	
@@ -185,7 +186,7 @@
   events:
     - name: "**09:15-13:00** Group Exercises"
 	  - name: "**13:00-14:00** Lunch"
-    - name: "**14:00-15:00** Flash talk: "
+    - name: "**14:00-15:00** Flash talk:"
     - name: "**15:00-17:00** Group Exercises"
     - name: "**17:00-** Dinner"
 
@@ -193,7 +194,7 @@
   events:
     - name: "**09:15-13:00** Group Exercises"
 	  - name: "**13:00-14:00** Lunch"
-    - name: "**14:00-15:00** Flash talk: "
+    - name: "**14:00-15:00** Flash talk:"
     - name: "**15:00-17:00** Group Exercises"
     - name: "**17:00-** Dinner"
 
@@ -201,5 +202,5 @@
   events:
     - name: "**09:15-13:00** Group Exercises"
 	  - name: "**13:00-14:00** Lunch"
-    - name: "**14:00-17:00** Flash talks: SICSS-Accra group projects"
+    - name: "**14:00-17:00** Flash talks: SICSS-Accra group projects."
     - name: "**17:00-** Dinner and goodbye"
