@@ -57,6 +57,8 @@ video_listing:
         python: Python
         rust: Rust
         javascript: JavaScript
+    - name: Location
+      key: location
     - name: Authors
       key: author
 
