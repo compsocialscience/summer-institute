@@ -1,3 +1,7 @@
+- name: Kat Albrecht
+  image: /assets/images/albrecht-headshot.jpg
+  bio: "Kat Albrecht is an Assistant Professor at Georgia State University in the Andrew Young School of Policy Studies and a Judicial Innovation Fellow at Georgetown Law School. She is a computationally trained legal scholar and social scientist studying how complex data can inform policy with particular emphasis on the nexus between criminal data, fear, and regulation. She is on the data engineering team of the Systematic Content Analysis of Litigation EventS Open Knowledge Network (SCALES OKN), an NSF Convergence Accelerator Project building an AI powered data platform that makes court records public and analyzable. She has convened sites of SICSS since 2018 including SICSS Chicago, SICSS Atlanta, and SICSS South Florida."
+
 - name: Chris Callison Burch
   image: /assets/images/callison-burch-headshot.jpg
   bio: "Chris Callison-Burch is Associate Professor of Computer and Information Science at the University of Pennsylvania, with expertise in natural language processing and crowdsourcing. He has more than 100 publications,  served on the editorial boards of the journals Transactions of the ACL (TACL) and Computational Linguistics, and received faculty research awards from Google, Microsoft, Amazon, the Sloan Foundation, and DARPA, among others."
@@ -13,6 +17,10 @@
 - name: Deen Freelon
   image: /assets/images/deen2.jpg
   bio: "Deen Freelon is an Associate Professor in the School of Media and Journalism at the University of North Carolina, Chapel Hill. He studies political communication using computational methods applied to datasets from Twitter and other digital platforms. His research has been published in prestigious journals such as Science, supported by the Knight Foundation, and distinguished by leading professional associations."
+
+- name: Jay Yeon Kim
+  image: /assets/images/profile_kim.jpg
+  bio: "Jae Yeon Kim is a senior data scientist at Code for America, where he contributes to team efforts to improve safety net experiences and outcomes. He is also a research fellow at the SNF Agora Institute and P3 Lab at Johns Hopkins University. Kim earned a Ph.D. in Political Science from UC Berkeley and received the best dissertation award in urban and local politics from the American Political Science Association. Since 2020, he has been working on the Mapping Modern Agora project, which is being incubated at the SNF Agora Institute. This project utilizes big data and machine learning to map civil society in the United States at scale. Kim's research has been published or is forthcoming in many top journals, including Nature Human Behaviour and Scientific Data, among others."
 
 - name: Sendhil Mullainathan
   image: /assets/images/sendhil.jpg
