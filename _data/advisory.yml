@@ -1,6 +1,14 @@
+- name: Chris Callison Burch
+  image: /assets/images/callison-burch-headshot.jpg
+  bio: "Chris Callison-Burch is Associate Professor of Computer and Information Science at the University of Pennsylvania, with expertise in natural language processing and crowdsourcing. He has more than 100 publications,  served on the editorial boards of the journals Transactions of the ACL (TACL) and Computational Linguistics, and received faculty research awards from Google, Microsoft, Amazon, the Sloan Foundation, and DARPA, among others."
+
 - name: Munmun de Choudhury
   image: /assets/images/munmundechoudhury.jpg
   bio: "Munmun De Choudhury is an Associate Professor of Computer Science at the School of Interactive Computing at the Georgia Institute of Technology. She employs computational methods to study mental health and psychological well-being using data from social media sites and other digital sources. Her research has appeared in leading journals and conferences, supported by the National Science Foundation and the National Institutes of Health, and distinguished by awards from multiple leading scholarly associations."
+
+- name: "Naniette H. Coleman"
+  image: /assets/images/naniette_coleman.jpg
+  bio: "Naniette H. Coleman is a PhD candidate in Sociology at the University of California Berkeley and a multi-year UC-National Laboratory Graduate Fellow (Los Alamos). Her work sits at the intersection of the sociology of culture and organizations and focuses on cybersecurity, surveillance, and privacy in the US context. Specifically, Naniette examines how organizations assess risk, make decisions, and respond to data breaches and requirements for organizational compliance with state, federal, and international privacy laws. Naniette is a SICSS-Princeton 2019 alum and the founder of SICSS-Howard/Mathematica, the first and only summer institute at a Historically Black College or University." 
 
 - name: Deen Freelon
   image: /assets/images/deen2.jpg
@@ -22,11 +30,7 @@
   image: /assets/images/duncan.jpg
   bio: "Duncan Watts is the Stevens University Professor at the University of Pennsylvania, where he is also professor of Computer and Information Science (SEAS), Communications (Annenberg), and Operations, Information, and Decisions (Wharton). Watts is a founding figure in the field of computational social science. His work in social network theory, collective dynamics, and diffusion models has been cited more than 100,000 times."
 
-- name: Chris Callison Burch
-  image: /assets/images/callison-burch-headshot.jpg
-  bio: "Chris Callison-Burch is Associate Professor of Computer and Information Science at the University of Pennsylvania, with expertise in natural language processing and crowdsourcing. He has more than 100 publications,  served on the editorial boards of the journals Transactions of the ACL (TACL) and Computational Linguistics, and received faculty research awards from Google, Microsoft, Amazon, the Sloan Foundation, and DARPA, among others."
-
-- name: "Naniette H. Coleman"
-  image: /assets/images/naniette_coleman.jpg
-  bio: "Naniette H. Coleman is a PhD candidate in Sociology at the University of California Berkeley and a multi-year UC-National Laboratory Graduate Fellow (Los Alamos). Her work sits at the intersection of the sociology of culture and organizations and focuses on cybersecurity, surveillance, and privacy in the US context. Specifically, Naniette examines how organizations assess risk, make decisions, and respond to data breaches and requirements for organizational compliance with state, federal, and international privacy laws. Naniette is a SICSS-Princeton 2019 alum and the founder of SICSS-Howard/Mathematica, the first and only summer institute at a Historically Black College or University." 
+- name: Akin Unver
+  image: /assets/images/ULAS4310.jpg
+  bio: "Akın Ünver is an associate professor of international relations at Ozyegin University in Istanbul, Turkey. His research interests lie at the intersection of organized violence and computational research methods. He serves as an associate editor of the Global Studies Quarterly, and a fellow of Carnegie's Digital Democracy Network. "
 
