@@ -2,6 +2,10 @@
   image: /assets/images/albrecht-headshot.jpg
   bio: "Kat Albrecht is an Assistant Professor at Georgia State University in the Andrew Young School of Policy Studies and a Judicial Innovation Fellow at Georgetown Law School. She is a computationally trained legal scholar and social scientist studying how complex data can inform policy with particular emphasis on the nexus between criminal data, fear, and regulation. She is on the data engineering team of the Systematic Content Analysis of Litigation EventS Open Knowledge Network (SCALES OKN), an NSF Convergence Accelerator Project building an AI powered data platform that makes court records public and analyzable. She has convened sites of SICSS since 2018 including SICSS Chicago, SICSS Atlanta, and SICSS South Florida."
 
+- name: Jennie Brand
+  image: /assets/images/jennie2.2.jpg
+  bio: "Bio forthcoming."
+
 - name: Chris Callison Burch
   image: /assets/images/callison-burch-headshot.jpg
   bio: "Chris Callison-Burch is Associate Professor of Computer and Information Science at the University of Pennsylvania, with expertise in natural language processing and crowdsourcing. He has more than 100 publications,  served on the editorial boards of the journals Transactions of the ACL (TACL) and Computational Linguistics, and received faculty research awards from Google, Microsoft, Amazon, the Sloan Foundation, and DARPA, among others."
@@ -26,6 +30,10 @@
   image: /assets/images/sendhil.jpg
   bio: "Sendhil Mullainathan is the Romans Family Professor of Computation and Behavioral Science at the University of Chicago. A MacArthur “Genius” Fellow, his research examines how machine learning can be used to improve social policies— especially those related to medicine— and uncover biomedical insights from large-scale health data."
 
+- name: Étienne Ollion
+  image: /assets/images/Etienne.jpg
+  bio: "Étienne Ollion is Professor of Sociology at l'École polytechnique and a Research Director at CNRS in Paris, where he leads the CSS initiative. His research focuses on contemporary politics. Methodologically, he integrates computational social sciences (massive digital data and AI) with more classic data sources and methods. He has been teaching computational sciences in the last 10 years, and has convened SICSS-Paris twice."
+
 - name: Jennifer Pan
   image: /assets/images/JenniferPan.jpg
   bio: "Jennifer Pan is an Assistant Professor of Political Science, Communications, and Sociology at Stanford University. She studies authoritarian politics using experimental and computational methods with large-scale datasets in China and Saudi Arabia. Her work has been published in prestigious journals such as Science, supported by the National Science Foundation, and recognized by awards from the International Communication Association."
@@ -41,4 +49,9 @@
 - name: Akın Ünver
   image: /assets/images/ULAS4310.jpg
   bio: "Akın Ünver is an associate professor of international relations at Ozyegin University in Istanbul, Turkey. His research interests lie at the intersection of organized violence and computational research methods. He serves as an associate editor of the Global Studies Quarterly, and a fellow of Carnegie's Digital Democracy Network. "
+
+- name: Mike Yeomans
+  image: /assets/images/mikeface.jpg
+  bio: "Bio Forthcoming"
+
 
