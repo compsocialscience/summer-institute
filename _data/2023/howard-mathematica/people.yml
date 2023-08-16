@@ -61,11 +61,6 @@ closing:
 speakers: 
   title: Guest Speakers
   people:
-  
-    - name: Naniette H. Coleman
-      image: /assets/images/NanietteHeadshot.jpeg
-      bio: "Naniette H. Coleman is a Ph.D. candidate in the Sociology Department at the University of California, Berkeley and a UC-National Lab In-Residence Graduate Fellow at Los Alamos National Lab. Since 2016, Naniette has directed the AAC&U award winning Interdisciplinary Research Group on Privacy at Berkeley. Naniette is an affiliate of the Institute for the Study of Societal Issues, the Center for Long-term Cybersecurity, and the Center for Technology, Society, and Policy at Berkeley as well as the Belfer Center for Science and International Affairs, and Berkman-Klein Center for the Internet and Society at Harvard University. Naniette’s research sits at the intersection of the sociology of culture and organizations and focuses on cybersecurity, surveillance, and privacy in the US context. Specifically Naniette’s research examines how organizations assess risk, make decisions, and respond to data breaches and organizational compliance with state, federal, and international privacy laws.  Naniette holds a Master of Public Administration with a specialization in Democracy, Politics, and Institutions from the Harvard Kennedy School of Government, and both an M.A. in Economics and a B.A. in Communication from the University at Buffalo, SUNY.  A non-traditional student, Naniette’s prior professional experience includes local, state, and federal service, as well as work for two international organizations, and two universities."
-      website: http://naniettecoleman.com
       
     - name: Deen Freelon, Ph.D.
       image: /assets/images/Deen_Freelon.jpg
@@ -85,7 +80,12 @@ speakers:
 
 Praxis to power:
   title: Praxis to Power Speakers
-
+  people:
+  
+    - name: Iya Funlayo E. Wood, Ph.D.
+      image: /assets/images/Funlayo-min.jpeg
+      bio: "Iya Funlayo earned her PhD in African and African American Studies and Religion at Harvard University and her research centers philosophical and theological aspects of Ifá-Òrìsà tradition as practiced in Nigeria and in the Americas, and cross-cultural analysis of Yoruba religious concepts and practice – within all of which she privileges Yoruba language as a conduit to understanding. Her work has been published in various scholarly and public venues and she has appeared in documentaries for PBS and the National Geographic Channel. Spirit permeates both her scholarship and her service, and she founded Ase Ire in 2010 as a place to share her spiritual gifts and the things she has learned from her teachers with the world, especially with those new to African Spirituality."
+      website: https://aseire.com/
 
 panels:
   title: Panelists
@@ -105,11 +105,6 @@ panels:
       image: /assets/images/Charlotte_Garden.jpeg
       bio: "Charlotte Garden is a Law professor at the University of Minnesota, and specializes in labor law, employment law, and constitutional law. Her interests include the intersection of workers' rights and the Constitution, and how law supports (or undermines) worker voice and power.  Prior to coming to the University of Minnesota, Professor Garden was a professor at Seattle University School of Law where she served as Co-Associate Dean for Research & Faculty Development. In 2016 she was a visiting professor at the University of Alabama School of Law. Professor Garden clerked for Judge Thomas L. Ambro of the U.S. Court of Appeals for the Third Circuit. She received her J.D. from NYU School of Law (2003) and her B.A. from McGill University (2000)."
       website: https://law.umn.edu/profiles/charlotte-garden
-      
-    - name: Ezinne Nwankwo
-      image: /assets/images/Ezinne_Nwanko-min.jpg
-      bio: "Ezinne is a Ph.D. student in Computer Science at UC Berkeley. Her research focuses on using statistics and machine learning (ML) as a way of understanding social issues and improving equity and access for underserved communities. She is interested in thinking about the intersection and limitations of causal inference, prediction, and mechanism design. Ezinne works on applications of ML that attempt to redistribute power and lead to distributive justice for communities, such as with resource allocation in government assistance programs and nonprofit organizations. Previously, she has worked on using AI applications for agriculture and with Covid-19 online misinformation spread. Prior to beginning her Ph.D. at UC Berkeley in 2021, Ezinne received an M.S. in Statistics from Duke University, where she was advised by Jerry Reiter and Sayan Mukherjee, and a B.A. in Applied Math from Harvard University. Since May 2020, Ezinne has had the pleasure of serving as a general board member of Black in AI, where she supports the Black in AI Academic Program, started by Rediet Abebe, Moses Namara, and Daniel Nkemelu."
-      website: https://www.ezinnenwa.com/
       
     - name: Gabrielle Rejouis, J.D.
       image: /assets/images/Gabrielle_Rejouis.png
@@ -316,7 +311,7 @@ event_staff:
    
     <img class="Teaching fellow" src="/assets/images/SICSS_HM_Teaching_Staff_2023-min.png" width=80% height=80% />
     
-    <br><font size = "4">Event Staff - SICSS-H/M Alumni Staff
+    <br><font size = "4">Event Staff - SICSS-H/M Staff
    
     <img class="Teaching fellow" src="/assets/images/SICSS_HM_Alumni_Staff_2023-min.png" width=80% height=80% />
     
