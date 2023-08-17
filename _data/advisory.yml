@@ -30,6 +30,10 @@
   image: /assets/images/sendhil.jpg
   bio: "Sendhil Mullainathan is the Romans Family Professor of Computation and Behavioral Science at the University of Chicago. A MacArthur “Genius” Fellow, his research examines how machine learning can be used to improve social policies— especially those related to medicine— and uncover biomedical insights from large-scale health data."
 
+- name: Matti Nelimarkka
+  image: /assets/images/matti.jpg
+  bio: "Matti Nelimarkka leads the Helsinki Social Computing Group, an interdisciplinary group examining both computers and society. They explore digital democracy and politics in the digital era as well as computational techniques in social sciences, especially workflows and connections between social science theories and code. He is affiliated with the Faculty of Social Science, University of Helsinki, Department of Computer Science, Aalto University and Futurice, a Finnish software consultancy."
+
 - name: Étienne Ollion
   image: /assets/images/Etienne.png
   bio: "Étienne Ollion is Professor of Sociology at l'École polytechnique and a Research Director at CNRS in Paris, where he leads the CSS initiative. His research focuses on contemporary politics. Methodologically, he integrates computational social sciences (massive digital data and AI) with more classic data sources and methods. He has been teaching computational sciences in the last 10 years, and has convened SICSS-Paris twice."
@@ -41,6 +45,10 @@
 - name: Matthew Salganik
   image: /assets/images/matt.gif
   bio: "Matthew Salganik is Professor of Sociology at Princeton University, and he is affiliated with several of Princeton's interdisciplinary research centers: the Office of Population Research, the Center for Information Technology Policy, the Center for Health and Wellbeing, and the Center for Statistics and Machine Learning. His research interests include social networks and computational social science. He is the author of the forthcoming book *Bit by Bit: Social Research in the Digital Age.*."
+
+- name: Malebo Sephodi
+  image: 
+  bio: "bio forthcoming."
 
 - name: Duncan Watts
   image: /assets/images/duncan.jpg
