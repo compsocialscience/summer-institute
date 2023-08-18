@@ -1,10 +1,14 @@
+- name: Vissého Adjiwanou
+  image: /assets/images/vissehonew.png
+  bio: "Bio forthcoming."
+
 - name: Kat Albrecht
   image: /assets/images/albrecht-headshot.jpg
   bio: "Kat Albrecht is an Assistant Professor at Georgia State University in the Andrew Young School of Policy Studies and a Judicial Innovation Fellow at Georgetown Law School. She is a computationally trained legal scholar and social scientist studying how complex data can inform policy with particular emphasis on the nexus between criminal data, fear, and regulation. She is on the data engineering team of the Systematic Content Analysis of Litigation EventS Open Knowledge Network (SCALES OKN), an NSF Convergence Accelerator Project building an AI powered data platform that makes court records public and analyzable. She has convened sites of SICSS since 2018 including SICSS Chicago, SICSS Atlanta, and SICSS South Florida."
 
 - name: Joshua Becker
   image: /assets/images/HeadshotSmall.png
-  bio: "Bio forthcoming"
+  bio: "Joshua Becker is an Assistant Professor at the UCL School of Management researching collective intelligence with an emphasis on group decision-making. Their research has been published in outlets including Science, Management Science, and Harvard Business Review.  Joshua has worked professionally in mediation and communication training and has completed hundreds of mediation sessions.  Joshua received a PhD in communication from the University of Pennsylvania and received a BA in philosophy and history of science at St. John's College, Annapolis."
 
 - name: Jennie Brand
   image: /assets/images/jennie2.2.jpg
