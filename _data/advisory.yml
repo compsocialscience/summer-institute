@@ -38,7 +38,6 @@
   image: /assets/images/mccabekt.jpg
   bio: "Katherine McCabe is an associate professor of political science at Rutgers University. She applies computational methods to study political psychology, communication, and behavior in American politics. Her work seeks to understand how people’s social identities, attitudes, and personal experiences shape and complicate the ways they engage in politics and make political decisions. She is a SICSS-Princeton alum and co-organizer of SICSS-Rutgers."
 
-
 - name: Sendhil Mullainathan
   image: /assets/images/sendhil.jpg
   bio: "Sendhil Mullainathan is the Romans Family Professor of Computation and Behavioral Science at the University of Chicago. A MacArthur “Genius” Fellow, his research examines how machine learning can be used to improve social policies— especially those related to medicine— and uncover biomedical insights from large-scale health data."
@@ -46,6 +45,10 @@
 - name: Matti Nelimarkka
   image: /assets/images/matti.jpg
   bio: "Matti Nelimarkka leads the Helsinki Social Computing Group, an interdisciplinary group examining both computers and society. They explore digital democracy and politics in the digital era as well as computational techniques in social sciences, especially workflows and connections between social science theories and code. He is affiliated with the Faculty of Social Science, University of Helsinki, Department of Computer Science, Aalto University and Futurice, a Finnish software consultancy."
+
+- name: Emmanuel Ọlámíjùwọ́n
+  image: /assets/images/eolamijuwon_sicss.jpg
+  bio: "Emmanuel Ọlámíjùwọ́n  is a Lecturer (Assistant Professor) in Data Literacy at the University of St Andrews. His current interdisciplinary research focuses on the drivers of social inequalities (online + offline) and how they shape population health, particularly in sub-Saharan Africa. He is driven to find more accessible ways to communicate with data and share data science skills."
 
 - name: Étienne Ollion
   image: /assets/images/Etienne.png
