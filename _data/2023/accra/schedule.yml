@@ -4,8 +4,9 @@
 
 - date: 2023-08-21
   events:
-    - name: "**09:00-10:00** Welcome to SICSS-Accra"
-    - name: "**10:00-11:00** Introduction to Computational Social Science
+    - name: "**09:00-13:00** Welcome to SICSS-Accra"
+    - name: "**13:00-14:00** Lunch"
+    - name: "**14:00-16:00** Introduction to Computational Social Science
 	  <br/>
 	  <br/>
     Required Readings:
@@ -19,9 +20,6 @@
     - <a href='https://osf.io/preprints/socarxiv/7bvpt/' target='_blank'>Digital and computational demography</a>
     
     - <a href='https://doi.org/10.31235/osf.io/24jp7' target='_blank'>Demography in the digital era: New data sources for population research</a>"
-    - name: "**11:00-12:00** From social scientist to computational social scientist: *Redefining research agenda in SSA*"
-    - name: "**12:00-13:00** Welcome to RIPS"
-    - name: "**13:00-15:30** Lunch"
     - name: "**16:00-18:00** Tutorial: R for CSS"
     - name: "**18:00-** Dinner"
 
@@ -36,8 +34,6 @@
     - <a href='https://www.pnas.org/doi/abs/10.1073/pnas.2119373119' target='_blank'>North and South: Naming practices and the hidden dimension of global disparities in knowledge production</a>
     
     - <a href='https://doi.org/10.48550/arXiv.1907.13414' target='_blank'>The demography of the peripatetic researcher: Evidence on highly mobile scholars from the Web of Science</a>
-    
-    - <a href='https://doi.org/10.1186/s12889-018-5689-x' target='_blank'>Bibliometric analysis of global migration health research in peer-reviewed literature (2000–2016)</a>
 	
     - <a href='https://doi.org/10.1073/pnas.2217937120' target='_blank'>Global patterns of migration of scholars with economic development</a>
 	
@@ -45,11 +41,11 @@
     
     - <a href='https://doi.org/10.1186/1741-7015-11-66' target='_blank'>A bibliometric analysis of childhood immunization research productivity in Africa since the onset of the Expanded Program on Immunization in 1974</a>"
     
-    - name: "**10:30-11:30** Bibliometrics"
+    - name: "**10:30-11:30** An Introduction to Bibliometrics"
     - name: "**11:30-13:00** Tutorials"
     - name: "**13:00-14:00** Lunch"
     - name: "**14:00-16:30** Group Exercises"
-    - name: "**16:30-17:00** Announcements "
+    - name: "**16:30-17:00** Announcements"
     - name: "**17:00-** Dinner"
 
 - date: 2023-08-23
@@ -105,7 +101,8 @@
     
     - <a href='https://doi.org/10.1017/S1368980021004262' target='_blank'>Machine learning algorithms for predicting undernutrition among under-five children in Ethiopia</a>"
     
-    - name: "**10:30-11:30** GeNorms: ML"
+    - name: "**10:30-11:00** GeNorms: ML"
+    - name: "**10:30-11:00** Flash Talk: <a href='https://www.youtube.com/watch?v=dhpeqVroZYg' target='_blank'>Can we Predict Artistic Success?</a>"
     - name: "**11:30-13:00** Tutorial: Machine Learning for Beginners"
     - name: "**13:00-14:00** Lunch"
     - name: "**14:00-16:30** Group Exercises"
@@ -121,10 +118,12 @@
     Required Readings:
         
     - <a href='https://ojs.aaai.org/index.php/ICWSM/article/view/3360' target='_blank'>Using search queries to understand health information needs in Africa</a>
+
+    - <a href='https://doi.org/10.3389/frma.2022.1003972' target='_blank'>Modeling COVID-19 incidence with Google Trends</a>
 	
      - <a href='https://doi.org/10.1080/03736245.2021.1901239' target='_blank'>Google trends and water conservation awareness: the internet’s contribution in South Africa</a>"  
     
-    - name: "**10:15-11:15** Search interests"
+    - name: "**10:15-11:15** Modeling COVID-19 incidence with Google Trends"
     - name: "**11:15-13:00** Tutorial"
     - name: "**13:00-14:00** Lunch"
     - name: "**14:00-15:30** Research Happy Hour
