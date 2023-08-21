@@ -62,9 +62,9 @@
   image: /assets/images/matt.gif
   bio: "Matthew Salganik is Professor of Sociology at Princeton University, and he is affiliated with several of Princeton's interdisciplinary research centers: the Office of Population Research, the Center for Information Technology Policy, the Center for Health and Wellbeing, and the Center for Statistics and Machine Learning. His research interests include social networks and computational social science. He is the author of the forthcoming book *Bit by Bit: Social Research in the Digital Age.*."
 
-- name: Malebo Sephodi
-  image: 
-  bio: "bio forthcoming."
+- name: malebo sephodi
+  image: /assets/images/malebo.jpg
+  bio: "malebo sephodi (she/they) is a South African Feminist writer and interdisciplinary scholar. She is associated with Tayarisha, a centre for digital governance based at Wits School of Governance; Johannesburg Institute of Advance Study and Institute for Pan African Thought and Conversation both based at the University of Johannesburg and Centre for IT and National Development in Africa based at the University of Cape Town. She organises postgraduate research support seminars for various African university students. She is a doctoral candidate in the Information Systems Department at the University of Cape Town and is interested in the intersections of society and digital technology. She has organised two SICSS locations."
 
 - name: Duncan Watts
   image: /assets/images/duncan.jpg
