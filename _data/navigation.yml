@@ -4,16 +4,16 @@
   url: "/locations"
 - name: Learn Online
   url: "/overview"
-- name: People
-  url: "/people"
-- name: Festival
-  url: "/festival"
 - name: Host
   url: "/host"
+- name: People
+  url: "/people"
 - name: About
   url: "/about"
-- name: In the News
+- name: News
   url: "/in-the-news" 
+- name: Festival
+  url: "/festival"
 - name: Apply
   type: "button"
   url: "/apply"
