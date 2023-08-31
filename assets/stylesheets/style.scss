@@ -9,6 +9,9 @@ body {
   background: #f1f1f1;
   font-family: "Roboto", sans-serif;
 }
+a {
+  color: #005EC2;
+}
 .jumbotron {
   background-image: url("../images/hero-accent.jpg");
   background-repeat: no-repeat;
@@ -37,7 +40,7 @@ body {
 }
 .nav .active {
   background: rgba(255, 255, 255, 0.75);
-  color: #005ec4;
+  color: #005EC2;
   display: inline-flex;
   border-radius: 4px;
 }
