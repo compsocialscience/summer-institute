@@ -1,7 +1,7 @@
 ---
 title: ""
 subtitle: ""
-layout: about
+layout: page
 ---
 
 <h2 class="display-4">SICSS In The News </h2>
