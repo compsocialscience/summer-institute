@@ -7,21 +7,22 @@
   </head>
 
   <body class="sub-page">
-    {% include navbar.html %} {% include hero_secondary.html %}
+    {% include navbar.html %} {% include hero_secondary.html %} {% include
+    breadcrumb.html %}
     <!-- Start content -->
     <section>
-      <div class="container">
-        <h2 class="display-4 text-center">Post-Mortems</h2>
+      <div class="container default">
+        <h2 class="display-4">Post-Mortems</h2>
         <div class="accordion" id="accordionMenu">
           {% for year in locations_by_year %}
           <div id="postMortemContainer">
             <ul
-              class="align-middle"
+              class="btn-collapse-toggle"
               type="button"
               data-toggle="collapse"
               data-target="#collapse{{forloop.index}}"
-              aria-expanded="true"
-              aria-controls="collapseOne"
+              aria-expanded="false"
+              aria-controls="collapse{{forloop.index}}"
               id="postMortemYear"
             >
               {{year.year}}
