@@ -14,40 +14,39 @@
         <h2 class="display-4 text-center">Post-Mortems</h2>
         <div class="accordion" id="accordionMenu">
           {% for year in locations_by_year %}
-          <div class="card">
-            <div class="card-header">
-              <h2 class="mb-0">
-                <ul
-                  class="align-middle"
-                  type="button"
-                  data-toggle="collapse"
-                  data-target="#collapse{{forloop.index}}"
-                  aria-expanded="true"
-                  aria-controls="collapseOne"
+          <div id="postMortemContainer">
+            <ul
+              class="align-middle"
+              type="button"
+              data-toggle="collapse"
+              data-target="#collapse{{forloop.index}}"
+              aria-expanded="true"
+              aria-controls="collapseOne"
+              id="postMortemYear"
+            >
+              {{year.year}}
+            </ul>
+            <div
+              class="nav collapse"
+              id="collapse{{forloop.index}}"
+              aria-labelledby="{{forloop.index}}"
+              data-parent="#accordionMenu"
+            >
+              {% for year_location in year.locations %} {% assign campus =
+              year_location.location %} {% assign post_mortem =
+              year_location.post_mortem[0] %} {% if campus.title %} {% if
+              post_mortem.title %}
+              <li class="nav-item w-100">
+                <a
+                  class="nav-link"
+                  id="postMortemItems"
+                  href="{{site.baseurl}}/{{campus.year}}/post-mortem#{{campus.link}}"
                 >
-                  {{year.year}}
-                </ul>
-                <div
-                  class="nav collapse"
-                  id="collapse{{forloop.index}}"
-                  aria-labelledby="{{forloop.index}}"
-                  data-parent="#accordionMenu"
-                >
-                  {% for year_location in year.locations %} {% assign campus =
-                  year_location.location %} {% assign post_mortem =
-                  year_location.post_mortem[0] %} {% if campus.title %} {% if
-                  post_mortem.title %}
-                  <li class="nav-item w-100">
-                    <a
-                      class="nav-link"
-                      href="{{site.baseurl}}/{{campus.year}}/post-mortem#{{campus.link}}"
-                    >
-                      {{campus.title}} {{post_mortem.title}}
-                    </a>
-                  </li>
-                  {% endif %} {% endif %} {% endfor %}
-                </div>
-              </h2>
+                  {{campus.title}} {{post_mortem.title}}
+                </a>
+              </li>
+              <hr id="postMortemBreak" />
+              {% endif %} {% endif %} {% endfor %}
             </div>
           </div>
           {% endfor %}
