@@ -6,16 +6,21 @@
     {% include header.html %}
   </head>
 
+  {% comment %} {{ year.locations | find:"post_mortem" }} {% endcomment %}
+
   <body class="sub-page">
-    {% include navbar.html %} {% include hero_secondary.html %} {% include
-    breadcrumb.html %}
+    {% include navbar.html %} {% include hero_secondary.html %}
     <!-- Start content -->
     <section>
       <div class="container default">
         <h2 class="display-4">Post-Mortems</h2>
         <div class="accordion" id="accordionMenu">
           {% for year in locations_by_year %}
-          <div id="postMortemContainer">
+          <div id="post-mortem-container">
+            {% assign locations_with_post_mortems=false %} {% for year_location
+            in year.locations %} {% if year_location.post_mortem[0] %} {% assign
+            locations_with_post_mortems=true %} {% endif %} {% endfor %} {% if
+            locations_with_post_mortems %}
             <ul
               class="btn-collapse-toggle"
               type="button"
@@ -23,10 +28,15 @@
               data-target="#collapse{{forloop.index}}"
               aria-expanded="false"
               aria-controls="collapse{{forloop.index}}"
-              id="postMortemYear"
+              id="post-mortem-year"
             >
               {{year.year}}
             </ul>
+            {%else%}
+            <ul id="post-mortem-year-deactivated">
+              {{year.year}}
+            </ul>
+            {%endif%}
             <div
               class="nav collapse"
               id="collapse{{forloop.index}}"
@@ -40,13 +50,13 @@
               <li class="nav-item w-100">
                 <a
                   class="nav-link"
-                  id="postMortemItems"
+                  id="post-mortem-item"
                   href="{{site.baseurl}}/{{campus.year}}/post-mortem#{{campus.link}}"
                 >
                   {{campus.title}} {{post_mortem.title}}
                 </a>
               </li>
-              <hr id="postMortemBreak" />
+              <hr id="post-mortem-break" />
               {% endif %} {% endif %} {% endfor %}
             </div>
           </div>

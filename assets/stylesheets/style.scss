@@ -175,7 +175,7 @@ figure figcaption {
   display: block;
 }
 
-#postMortemContainer {
+#post-mortem-container {
   display: flex;
   min-width: 336px;
   max-width: 991px;
@@ -184,8 +184,7 @@ figure figcaption {
   gap: 30px;
   align-self: stretch;
 }
-
-#postMortemYear {
+#post-mortem-year {
   display: flex;
   padding: 10px 16px;
   justify-content: space-between;
@@ -195,8 +194,19 @@ figure figcaption {
   border: 0.5px solid #343A40;
   background: #FFF;
 }
-
-#postMortemItems {
+#post-mortem-year-deactivated {
+  display: flex;
+  padding: 10px 16px;
+  justify-content: space-between;
+  align-items: center;
+  align-self: stretch;
+  border-radius: 4px;
+  border: 0.5px solid #343A40;
+  background: #FFF;
+  color: #d3d3d3;
+  pointer-events: none;
+}
+#post-mortem-item {
   display: flex;
   padding: 0px 20px;
   flex-direction: column;
@@ -204,8 +214,7 @@ figure figcaption {
   gap: 10px;
   align-self: stretch;
 }
-
-#postMortemBreak {
+#post-mortem-break {
   width: 100%;
   background: rgba(52, 58, 64, 0.50);
 }
