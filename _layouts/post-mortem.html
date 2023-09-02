@@ -22,7 +22,7 @@
             locations_with_post_mortems=true %} {% endif %} {% endfor %} {% if
             locations_with_post_mortems %}
             <ul
-              class="btn-collapse-toggle"
+              class="btn-collapse-toggle collapsed"
               type="button"
               data-toggle="collapse"
               data-target="#collapse{{forloop.index}}"
@@ -31,10 +31,15 @@
               id="post-mortem-year"
             >
               {{year.year}}
+              <span class="collapse-caret"></span>
             </ul>
             {%else%}
-            <ul id="post-mortem-year-deactivated">
+            <ul
+              class="btn-collapse-toggle collapsed"
+              id="post-mortem-year-deactivated"
+            >
               {{year.year}}
+              <span class="collapse-caret"></span>
             </ul>
             {%endif%}
             <div
