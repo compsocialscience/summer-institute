@@ -10,7 +10,9 @@
   url: "/people"
 - name: About
   url: "/about"
-- name: News
+- name: Post-Mortem
+  url: "/post-mortem"
+- name: In the News
   url: "/in-the-news" 
 - name: Festival
   url: "/festival"
