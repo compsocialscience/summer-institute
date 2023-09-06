@@ -67,6 +67,17 @@ a {
   max-width: 80%;
   height: auto;
 }
+
+.page-title {
+  color: #343A40;
+  font-family: Roboto;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  text-align: center;
+}
+
 figure {
   position: relative;
 }
@@ -143,6 +154,24 @@ figure figcaption {
   transform: rotate(0deg);
 }
 
+.collapse-caret-black {
+  display: block;
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1IiBoZWlnaHQ9IjEwIiB2aWV3Qm94PSIwIDAgNSAxMCI+CiAgPHBvbHlnb24gZmlsbD0iIzM0M0E0MCIgZmlsbC1ydWxlPSJldmVub2RkIiBwb2ludHM9IjAgMCA1IDUgMCAxMCIvPgo8L3N2Zz4=");
+  background-size: 5px 10px;
+  background-repeat: no-repeat;
+  background-position: left center;
+  width: 16px;
+  height: 16px;
+  content: "";
+  margin-right: 4px;
+  transition: transform 0.3s;
+  transform-origin: 20% 50%;
+  transform: rotate(90deg);
+}
+.btn-collapse-toggle.collapsed .collapse-caret-black {
+  transform: rotate(0deg);
+}
+
 .breadcrumb {
   background: none;
 }
@@ -214,9 +243,80 @@ figure figcaption {
   gap: 10px;
   align-self: stretch;
 }
+#post-mortem-item:hover{
+  text-decoration: underline;
+}
 #post-mortem-break {
   width: 100%;
   background: rgba(52, 58, 64, 0.50);
 }
+#post-mortem-end-link {
+  color: #005EC2;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 500;
+  line-height: normal;
+  text-decoration-line: underline;
+  text-align: center;
+  margin-bottom: 10px;
+}
 
-
+#in-the-news-container {
+  display: flex;
+  width: 100%;
+  // min-width: 390px;
+  // max-width: 991px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 40px;
+  align-self: stretch;
+}
+#in-the-news-year-container {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  align-self: stretch;
+}
+#in-the-news-block {
+  display: flex;
+}
+#in-the-news-year {
+  color: #343A40;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+#in-the-news-line {
+  width: 100%;
+  height: 1px;
+  background-color: #DADADA;
+  margin-bottom: 12px;
+}
+#in-the-news-article-title {
+  color: #343A40;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  color: #343A40
+}
+#in-the-news-subtitle {
+  color: #343A40;
+  font-family: Roboto;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+#in-the-news-date {
+  color: #343A40;
+  font-family: Roboto;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
