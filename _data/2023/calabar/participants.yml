@@ -55,14 +55,9 @@
   image: /assets/images/10 Aliyu Abubakar - Abubakar Aliyu.jpg
   bio: "Abubakar Aliyu is a Technical Writer with a background in computer engineering and an emphasis on Machine learning and Data science. He has a broad interest in harnessing Data science for social good—Governance and Social justice—and is affiliated with the Arewa Data Science Academy and the Almajiri Child Rights Initiative. <a href='https://medium.com/@datathon' target='_blank'>Medium</a>"
   website: https://twitter.com/Abou_Aliee
-
-
-- name: Eke, Ihuoma
-  image: /assets/images/11 Ihuoma Eke.jpg
-  bio: "CHIKULIRIM Eke, Ihuoma CHIKULIRIM is a lecturer 1 in the department of economics, University of Calabar, Calabar, Nigeria.She is a Ph.D graduate in the area of development economics. Her research interest are Exchange rate movement, Gender and Inequality."
-  website: 
-
-- name: Felix	Eke
+  
+  
+  - name: Felix	Eke
   image: /assets/images/12 Felix Eke pic - Felix Eke.jpg
   bio: "Felix Eke is an Assistant Professor in the Department of Economics, University of Calabar, Nigeria and has a Ph.D in Development Economics from the same University in 2016. His research is focused on Institutional efficiency/strengthening and development."	
   website: https://scholar.google.com/citations?user=hW9hq7EAAAAJ&hl=en
@@ -114,3 +109,10 @@
   image: /assets/images/20 Patricia Nkechi.jpg
   bio: "Dibie Nkechi Patricia is a dedicated Ph.D student of Business Management at Delta State University, Abraka also serving as a Graduate Assistant lecturer in the University. My passion lies in acquiring new knowledge and sharing it with the younger generation. I am committed to enhancing students' academic performance and adding value to the educational system,Through quality research, teaching and mentoring."
   website: https://www.linkedin.com/in/nkechi-dibie-1a09971a2
+
+  
+- name: Edet Okon
+  image: /assets/images/21 resizedImage (1) - Edet Okon (1).png
+  bio: "Edet Okon is an accomplished professional, nearing completion of an MSc in Business Management at the University of Calabar. His academic focus spans international business, sustainability, innovation, and technology management. Edet excels as a management analyst at Henshaw Capital Partners Limited, and he is the founder and CEO of Eds Global Consults, a consulting firm guiding SMEs to enhance their productivity. Additionally, he is a published author, and recipient of numerous awards and academic scholarships."
+  website:
+
