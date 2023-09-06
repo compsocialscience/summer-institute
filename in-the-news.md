@@ -1,14 +1,11 @@
 ---
 title: ""
 subtitle: ""
-layout: page
+layout: in-the-news
 ---
 
-<h2 class="display-4">SICSS In The News </h2>
 
----
-
-#### 2023
+<!-- #### 2023
 
 <u>Newhouse Postdoctoral Scholar to Co-Lead Summer Institute</u>
 <br><font color="grey"><font size="2">March 16, 2023</font></font> 
@@ -107,4 +104,4 @@ layout: page
 <u>eScience Institute co-hosts computational social science conference</u>
 <br><font color="grey"><font size="2">2018</font></font> 
 <font size = "1">(Posted by <a href="https://escience.washington.edu/escience-institute-co-hosts-computational-social-science-conference/">University of Washington eScience News</a>)</font>
-
+ -->

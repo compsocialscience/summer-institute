@@ -67,6 +67,17 @@ a {
   max-width: 80%;
   height: auto;
 }
+
+.page-title {
+  color: #343A40;
+  font-family: Roboto;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  text-align: center;
+}
+
 figure {
   position: relative;
 }
@@ -219,4 +230,61 @@ figure figcaption {
   background: rgba(52, 58, 64, 0.50);
 }
 
-
+#in-the-news-container {
+  display: flex;
+  width: 100%;
+  // min-width: 390px;
+  // max-width: 991px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 40px;
+  align-self: stretch;
+}
+#in-the-news-year-container {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  align-self: stretch;
+}
+#in-the-news-block {
+  display: flex;
+}
+#in-the-news-year {
+  color: #343A40;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+#in-the-news-line {
+  width: 100%;
+  height: 1px;
+  background-color: #DADADA;
+  margin-bottom: 12px;
+}
+#in-the-news-article-title {
+  color: #343A40;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  color: #343A40
+}
+#in-the-news-subtitle {
+  color: #343A40;
+  font-family: Roboto;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+#in-the-news-date {
+  color: #343A40;
+  font-family: Roboto;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
