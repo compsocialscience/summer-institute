@@ -13,7 +13,7 @@
     <!-- Start content -->
     <section>
       <div class="container default">
-        <h2 class="display-4">Post-Mortems</h2>
+        <h2 class="page-title">POST-MORTEMS</h2>
         <div class="accordion" id="accordionMenu">
           {% for year in locations_by_year %}
           <div id="post-mortem-container">
@@ -31,7 +31,7 @@
               id="post-mortem-year"
             >
               {{year.year}}
-              <span class="collapse-caret"></span>
+              <span class="collapse-caret-black"></span>
             </ul>
             {%else%}
             <ul
@@ -67,6 +67,13 @@
           </div>
           {% endfor %}
         </div>
+
+        <a
+          href="/in-the-news"
+          id="post-mortem-end-link"
+          class="mx-auto d-flex justify-content-center"
+          >SEE ALSO: SICSS - IN THE NEWS</a
+        >
       </div>
     </section>
     {% include footer.html %}
