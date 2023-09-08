@@ -1,1 +1,9 @@
-- name:
+- name: Elijah Appiah
+  bio: "Elijah Appiah is an Economist and Data Scientist who loves using data to solve economic problems. With expertise in econometric modeling and data science, he has trained numerous students worldwide in the field of data science. Elijah is proficient in various data science tools, including but not limited to Python, R, SQL, Tableau, and TensorFlow, enabling him to employ advanced data analytics and machine learning techniques. He is currently a Ph.D. Economics student at the National Institute of Development Administration (NIDA) in Bangkok, Thailand. Elijah has authored books, namely, “Data Analysis with R Programming” and “Simplified Mathematical Economics”."
+  image: /assets/images/1 Elijah sicss-calabar.jpeg
+  website: https://www.linkedin.com/in/elijah-appiah-383231123/
+
+- name: Precious Adebola
+  bio: "Precious Adebola is a public health scientist with broad research interests in the intersection of computation and technology with health and genomic data. She has a Master of Public Health from the University of Ibadan, Nigeria, and a Master of Science in Bioinformatics from Covenant University, Nigeria. She currently works as a bioinformatician with the Global Health Research Unit for the Surveillance of Antimicrobial Resistance, Ibadan, Nigeria."
+  image: /assets/images/2 precious sicss-calabar.jpeg
+  website: https://twitter.com/PreciousAdebola
