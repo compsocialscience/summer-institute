@@ -1,49 +1,49 @@
 - date: 2024-01-08
-  name: Lecture
+  name: Topic: Data Ethics (Bedoor AlShebli and Minsu Park)
   events:
-    - name: "10:00-18:00 Schedule coming soon!"
+    - name: "10:00-18:00 Lecture"
 
 - date: 2024-01-09
-  name: Lecture
+  name: Topic: Visualization and Automated Data Collection (Bedoor AlShebli and Minsu Park)
   events:
-    - name: "10:00-18:00 Schedule coming soon!"
+    - name: "10:00-18:00 Lecture"
 
 - date: 2024-01-10
-  name: Lecture
+  name: Topic: Causal Inference (Kinga Makovi)
   events:
-    - name: "10:00-18:00 Schedule coming soon!"
+    - name: "10:00-18:00 Lecture"
 
 - date: 2024-01-11
-  name: Lecture
+  name: Topic: Online experiments and online platforms (Mario Molina) & Guest Speaker: Melina Teskova
   events:
-    - name: "10:00-18:00 Schedule coming soon!"
+    - name: "10:00-18:00 Lecture and guest speaker"
 
 - date: 2024-01-12
-  name: Lecture
+  name: Topic: Online data sources and computational techniques to study demographic dynamics and socioeconomic inequalities globally  (Luca Maria Pesando)
   events:
-    - name: "10:00-18:00 Schedule coming soon!"
+    - name: "10:00-18:00 Lecture"
 
 - date: 2024-01-15
-  name: Group Project
+  name: Guest Speaker: Edmond Awad & Group Project
   events:
-    - name: "10:00-18:00 Schedule coming soon!"
+    - name: "10:00-18:00 Guest speaker and group project"
 
-- date: 2024-01-15
+- date: 2024-01-16
   name: Group Project
   events:
-    - name: "10:00-18:00 Schedule coming soon!"
+    - name: "10:00-18:00 Group project"
 
-- date: 2024-01-15
+- date: 2024-01-17
   name: Group Project
   events:
-    - name: "10:00-18:00 Schedule coming soon!"
+    - name: "10:00-18:00 Group project"
 
-- date: 2024-01-15
-  name: Group Project
+- date: 2024-01-18
+  name: Guest Speaker: Abdullah AlMaatouq (tentative) & Group Project
   events:
-    - name: "10:00-18:00 Schedule coming soon!"
+    - name: "10:00-18:00 Group project"
 
-- date: 2024-01-15
+- date: 2024-01-19
   name: Group Project
   events:
-    - name: "10:00-18:00 Schedule coming soon!"
+    - name: "10:00-18:00 Group project"
