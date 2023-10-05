@@ -1,1 +1,47 @@
-- name:
+- name: Abdul Basit Adeel
+  image: /assets/images/23AD_adeel.jpeg
+  bio: I am an analytical and computational sociologist currently enrolled in a dual-title Sociology and Social Data Analytics (STEM) Ph.D. program at The Pennsylvania State University. My interests include collective behavior, social complexity, networks, and social cognition. I use agent-based modeling, epidemiological methods, spatial econometrics, and network analysis, among other techniques, to understand (1) how collective behavioral patterns emerge from autonomous, spontaneous interactions, and (2) how things (ideas, norms, behaviors, innovations, products, etc.) spread.
+
+- name: Abdullah Alibrahim
+  image: /assets/images/23AD_abdullah.png
+  bio: Dr. Abdullah Alibrahim is an Assistant Professor at the College of Engineering and Petroleum, Kuwait University, specializing in Systems Engineering. Dr. Alibrahim is a Research Fellow at Harvard Kennedy School's Middle East Initiative and a Visiting Research Fellow at the London School of Economics Middle East Centre, among other prestigious institutions. His work focuses on innovative engineering approaches to tackle crucial healthcare challenges, leveraging systems engineering, complexity science, and data analytics to design impactful health policies. He has published and presented extensively on healthcare policy across diverse settings on quality of care, patient choice, and politics of healthcare.  
+
+- name: Mohammed Alsobay
+  image: /assets/images/23AD_TBD.jpeg
+  bio: To be updated.
+  
+- name: Anees Baqir
+  image: /assets/images/23AD_anees.jpg
+  bio: Anees Baqir is a final year PhD student of Computer Science at Ca’ Foscari University of Venice, Italy. His research focuses on online social dynamics particularly misinformation consumption and political polarization on social media. He has experience in social network science, machine learning, deep learning, data science, and natural language processing. He is currently working as an Exchange Research Scholar at the School of Computing and Engineering, University of West London, London, UK. In his professional journey so far, he has contributed to research-based projects with several publications in leading journals and conferences.
+
+- name: Jan Batzner
+  image: /assets/images/23AD_jan.jpg
+  bio: Jan Batzner is a full-time Researcher at Weizenbaum Institute Berlin, the German Internet Institute, and a Ph.D. Student in Computer Science. He is trained in (Social) Data Science in Germany, Israel, and the United States. His Master is awarded by Columbia University in New York City, his Bachelor was completed at Tel Aviv University and Ludwig Maximilians University Munich. Before his PhD, Jan worked as a Solutions Engineer for the American data storage and cloud computing company NetApp facing the globally largest automotive clients. Jan is a Fellow and a Next Generation Scholar of the International Cooperation of Assigned Names and Numbers (ICANN) and a Fellow of the Bavarian Elite Academy (BEA).
+
+- name: Rafiazka Millanida Hilman
+  image: /assets/images/23AD_TBD.jpeg
+  bio: To be updated.
+
+- name: Hazem Ibrahim
+  image: /assets/images/23AD_hazem.jpg
+  bio: Hazem Ibrahim is a first-year Ph.D. student in Computer Science at NYU, specializing in Computational Social Science. His broad research interests focus on algorithmic bias in social media recommender systems, gender and ethnic representation in media, and science of science.  He received his B.Sc. in Computer Engineering from NYU Abu Dhabi and his M.S. in Computer Science from the University of Toronto.
+
+- name: Kashif Imteyaz
+  image: /assets/images/23AD_kashif.jpg
+  bio: Kashif is a Ph.D. student in Computer Science at Northeastern University's Khoury College. His research focuses on the intersection of artificial intelligence and human-computer interaction, with a focus on social computing. He is interested in designing and evaluating computational systems that address complex social problems. Kashif takes an interdisciplinary approach, drawing on social and cognitive sciences to inform the development of these computational tools.
+
+- name: Selcan Mutgan
+  image: /assets/images/23AD_TBD.jpeg
+  bio: To be updated.
+
+- name: Guanghui Pan
+  image: /assets/images/23AD_guanghui.jpg
+  bio: Guanghui Pan is currently a DPhil student in sociology at the University of Oxford. His research interests focus on subfields including social stratification, social inequality, and quantitative methods. His DPhil thesis mainly discusses applying doubly robust machine-learning methods to analyze the causal relationship among time-related social and demographic variables.
+
+- name: Abbas K. Rizi
+  image: /assets/images/23AD_abbas.jpg
+  bio: Abbas is a Doctoral Researcher at the Computer Science Department of Aalto University, working on problems in Network Science, particularly Network Epidemiology. His interest lies in modeling spreading phenomena and evaluating control strategies. He develops reasonably simple mathematical models to investigate how pharmaceutical and non-pharmaceutical interventions influence epidemics. He’s grown up in the Physics culture, and likes borrowing the tools and perspective of that field and trying to combine them with new ideas and techniques to tackle interdisciplinary problems.
+
+- name: Kiran Sharma
+  bio: Kiran Sharma holds the position of Assistant Professor in the fields of Computer Science and Data Science at BML Munjal University. She successfully earned her PhD in Data Science in 2020 from Jawaharlal Nehru University, followed by a postdoctoral fellowship in the Science of Science at Northwestern University. Her primary research areas encompass computational social science and the science of science. Leveraging a blend of methodologies drawn from data science, network science, machine learning, and computer science, she investigates a wide spectrum of social phenomena and explores the dynamics of scientific paper publication. Her research contributions have been published in esteemed journals (Q1) such as Scientific Reports, Scientometrics, Multimedia Tools and Applications, New Journal of Physics, and Physics-A. Currently, Kiran is actively engaged in a research project supported by ICSSR, Ministry of Education, New Delhi, focused on "Empowering Diversity Fostering Queer Entrepreneurship in India." Her dedication to both academia and the exploration of diverse research domains underscores her commitment to advancing knowledge and societal empowerment.
+  image: /assets/images/23AD_kiran.png
