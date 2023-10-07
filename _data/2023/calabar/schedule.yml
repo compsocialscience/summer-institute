@@ -17,7 +17,7 @@
     - name: "12:00 – 13:30 Lunch Break"
     - name: "13:30 - 15:30 Data Sources and Types ([Dr. (Mrs.) I. Eteng (Nigeria)](www.ollion.cnrs.fr))"
     - name: "15:30 – 16:00 Tea Break"
-    - name: "16:00 - 17:00 Dashboarding with R ([SICSS Howard/Mathematica (USA)](www.ollion.cnrs.fr))"  
+    - name: "16:00 - 17:00 Dashboarding with R ([SICSS Howard/Mathematica (USA)](www.ollion.cnrs.fr)) [<a href='https://youtu.be/jhSd_fUtzLw' target='_blank'>Video</a>,<a href='https://github.com/acastroaraujo/shiny-workshop' target='_blank'>Annotated Code</a>,]"  
 
 - date: September 20, 2023
   name: "Day 3: Web Scraping"
