@@ -42,7 +42,7 @@
   events:
     - name: "10:30 - 12:00 Text Analysis  ([SICSS Howard/Mathematica (USA)](https://sicss.io/2023/howard-mathematica/)) [<a href='https://docs.google.com/document/d/188MHWMpvp6pivF3ipgM8zHjQvo4-_HPklsZ-OfLWskY/edit?usp=sharing' target='_blank'>Slide & Annotated Code</a>]"
     - name: "12:00 – 13:30 Lunch Break"
-    - name: "13:30 - 15:30 Text Analysis   ([Augustine Otobi](www.linkedin.com/in/augustine-ogbaji-otobi-166756103/)), ([Joseph David](https://www.linkedin.com/in/josephdavid970/)[<a href='https://drive.google.com/file/d/1ES2iIddSkDz6bfT-0mbd5IuPPSt0pPXW/view?usp=drive_link' target='_blank'>Video</a>]) "
+    - name: "13:30 - 15:30 Text Analysis   ([Augustine Otobi](www.linkedin.com/in/augustine-ogbaji-otobi-166756103/)), ([Joseph David](https://www.linkedin.com/in/josephdavid970/)) [<a href='https://drive.google.com/file/d/1ES2iIddSkDz6bfT-0mbd5IuPPSt0pPXW/view?usp=drive_link' target='_blank'>Video</a>]"
     - name: "15:30 – 16:00 Tea Break"
     - name: "16:00 - 17:00 Project Group Formation ([Augustine Otobi](www.linkedin.com/in/augustine-ogbaji-otobi-166756103/)), ([Joseph David](https://www.linkedin.com/in/josephdavid970/))"  
 
@@ -78,7 +78,7 @@
 - date: September 27, 2023
   name: "Day 8:  Geospacial Analysis and CSS Group Projects"
   events:
-    - name: "10:30 - 12:00 Geospacial Analysis with R  ([Edith Darin (USA)](www.ollion.cnrs.fr))"
+    - name: "10:30 - 12:00 Geospacial Analysis with R  ([Edith Darin (USA)](www.ollion.cnrs.fr)) [<a href='https://drive.google.com/file/d/1fjRA1VgnG5EY-7oYRFKmeY3O_Szm7Cjj/view?usp=drive_link'>Video</a>,<a href='https://github.com/wpgp/SICSS-calabar-gridded-population' target='_blank'>Materials, Slides & Annotated Code</a>]"
     - name: "12:00 – 13:30 Lunch Break"
     - name: "13:30 - 15:30 Group Project  ([Augustine Otobi](www.linkedin.com/in/augustine-ogbaji-otobi-166756103/))"
     - name: "15:30 – 16:00 Tea Break"
