@@ -13,16 +13,16 @@
 - date: September 19, 2023
   name: "Day 2: Understanding Computations with R"
   events:
-    - name: "10:30 - 12:00 R for Social Sciences and Humanities ([Prof Mbe Nja](www.ollion.cnrs.fr))"
+    - name: "10:30 - 12:00 R for Social Sciences and Humanities ([Prof Mbe Nja](www.ollion.cnrs.fr)) [<a href='https://docs.google.com/presentation/d/1qJqw1PUKH0x1D61Z3SiLh71AlZcgPcgj/edit#slide=id.p1' target='_blank'>Slides</a>]"
     - name: "12:00 – 13:30 Lunch Break"
-    - name: "13:30 - 15:30 Data Sources and Types ([Dr. (Mrs.) I. Eteng (Nigeria)](www.ollion.cnrs.fr))"
+    - name: "13:30 - 15:30 Data Sources and Types ([Dr. (Mrs.) I. Eteng (Nigeria)](www.ollion.cnrs.fr)) [<a href='https://docs.google.com/presentation/d/1JvnW2eBRUCK4L6K26UIZnbKYTVEzcKc_/edit#slide=id.p26' target='_blank'>Slides</a>]"
     - name: "15:30 – 16:00 Tea Break"
     - name: "16:00 - 17:00 Dashboarding with R ([SICSS Howard/Mathematica (USA)](www.ollion.cnrs.fr)) [<a href='https://youtu.be/jhSd_fUtzLw' target='_blank'>Video</a>,<a href='https://github.com/acastroaraujo/shiny-workshop' target='_blank'>Annotated Code</a>]"  
 
 - date: September 20, 2023
   name: "Day 3: Web Scraping"
   events:
-    - name: "10:30 - 12:00 Web scraping fundamentals ([Augustine Otobi](https://www.linkedin.com/in/augustine-ogbaji-otobi-166756103/)), ([Mr. Elijah Appiah (Ghana)](https://www.linkedin.com/in/elijah-appiah-383231123/))"
+    - name: "10:30 - 12:00 Web scraping fundamentals ([Augustine Otobi](https://www.linkedin.com/in/augustine-ogbaji-otobi-166756103/)), ([Mr. Elijah Appiah (Ghana)](https://www.linkedin.com/in/elijah-appiah-383231123/)) [<a href='https://docs.google.com/presentation/d/1qJqw1PUKH0x1D61Z3SiLh71AlZcgPcgj/edit#slide=id.p1' target='_blank'>Slides</a>]"
     - name: "12:00 – 13:30 Lunch Break"
     - name: "13:30 - 15:30 Advance Web scraping ([Augustine Otobi](www.linkedin.com/in/augustine-ogbaji-otobi-166756103)), ([Mr. Elijah Appiah (Ghana)](https://www.linkedin.com/in/elijah-appiah-383231123/))"
     - name: "15:30 – 16:00 Tea Break"
