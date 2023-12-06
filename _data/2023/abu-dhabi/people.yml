@@ -47,6 +47,10 @@ speakers:
 teaching_assistants:
   title: "Teaching Assistants"
   people:
+    - name: Kareem El-Rafei
+      bio: Kareem is a Research Associate in the Social Science Division at New York University Abu Dhabi. He holds a MSc in Data Analytics from Georgia Institute of Technology, as well as a MSc and a BSc in Mechanical Engineering from the American University in Cairo. His research lies at the intersection of Computational Social Sciences, Data Science and Machine Learning. His work basically focuses on the development of ML models that analyze big data  to address critical questions in the field of Social Sciences such as investigating coverage bias and the migration of scientists. He is advised by Dr. Bedoor Al Shebli at NYUAD and is highly interested in the integration of Machine Learning and Social Sciences.
+      image: /assets/images/kareem_s.png
+
     - name: Fengyuan "Michael" Liu
       bio: Michael is a Global PhD Fellow at New York University, advised by Professor Talal Rahwan and Professor Bedoor AlShebli. His research focuses on computational social science and the science of science. Using methods from social science, network science, and computer science, he studies various aspects of scientific editors and the publication process of scientific papers. His work has appeared in Nature Human Behaviour and Proceedings of the National Academy of Sciences, as well as being featured in media outlets such as Nature News, Times Higher Education, and AAAS Eureka Alert. When he is not working, you will likely find him jogging or playing chess.
       image: /assets/images/fengyuan_s.jpg
