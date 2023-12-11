@@ -1,5 +1,5 @@
 ---
 layout: location_detail
-partner_site: template
+partner_site: odissei
 people: true
 ---

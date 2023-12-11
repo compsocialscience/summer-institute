@@ -1,8 +1,8 @@
 ---
 layout: location_detail
-partner_site: template
+partner_site: odissei
 main: true
-image: /assets/images/template.jpg
+image: /assets/images/odissei-rotterdam.jpg
 ---
 
 From \_\_\_\_\_ to \_\_\_\_\_, 2021, \_\_\_\_\_ will sponsor the Summer Institute in Computational Social Science, to be held virtually at \_\_\_\_\_. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
