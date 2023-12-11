@@ -1,11 +1,11 @@
 ---
 layout: location_detail
-partner_site: odissei
+partner_site: beijing
 main: true
-image: /assets/images/odissei-rotterdam.jpg
+image: /assets/images/beijing.jpg
 ---
 
-From June 13 to June 28, 2024, \_\_\_\_\_ will sponsor the Summer Institute in Computational Social Science, to be held virtually at \_\_\_\_\_. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
+From July 1 to July 12, 2024, \_\_\_\_\_ will sponsor the Summer Institute in Computational Social Science, to be held virtually at \_\_\_\_\_. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
 
 The instructional program will involve lectures, group problem sets, and participant-led research projects. There will also be outside speakers who conduct computational social science research in a variety of settings, such as academia, industry, and government. Topics covered include text as data, website scraping, digital field experiments, machine learning, and ethics. There will be ample opportunities for students to discuss their ideas and research with the organizers, other participants, and visiting speakers. Because we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute will be released open source.
 

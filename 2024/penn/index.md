@@ -1,8 +1,8 @@
 ---
 layout: location_detail
-partner_site: odissei
+partner_site: penn
 main: true
-image: /assets/images/odissei-rotterdam.jpg
+image: /assets/images/penn.jpg
 ---
 
 From June 13 to June 28, 2024, \_\_\_\_\_ will sponsor the Summer Institute in Computational Social Science, to be held virtually at \_\_\_\_\_. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).

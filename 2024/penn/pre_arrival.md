@@ -1,6 +1,6 @@
 ---
 layout: location_detail
-partner_site: odissei
+partner_site: penn
 ---
 
 # Pre-arrival
