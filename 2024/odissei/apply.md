@@ -7,26 +7,34 @@ partner_site: odissei
 
 ## Eligibility
 
-Participation is restricted to \_\_\_\_\_. However, there are no restrictions based on citizenship, country of study, or country of employment. About \_\_\_\_\_ participants will be invited.
+Our primary target audience consists of PhD students, post-docs and early career researchers. The targeted fields of research are principally sociology, psychology, economics and political science. However, it will be possible for other individuals or junior researchers actively involved or interested in related fields to apply for the programme.
 
-The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R programming language. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours during the two months before the Institute.
+The Summer School is open to participants working inside and outside of ODISSEI member organisations, including those working outside of the Netherlands, but all participants must have a contract of employment at a research organization that has a signed association agreement with Statistics Netherlands by the start of the Summer School. We will support participants in getting this agreement in place if it is not already. About 20 participants will be invited.
 
-We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
+We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions:  
+ 
+1. research and teaching in the area of computational social science  
+2. contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others  
+3. likelihood to benefit from participation  
+4. likelihood to contribute to the educational experience of other participants  
+5. potential to spread computational social science throughout the ODISSEI community.  
 
-## How To Apply
+Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
 
-Applicants must submit the following documents: \_\_\_\_\_
+Accepted participants can participate in this programme for free. Lunch will be provided, and ODISSEI will host some social events during the course.  
+  
+Participants will need to cover all travel costs themselves. However, ODISSEI aims to provide accommodation to those who live more than 30 minutes away from campus. Travel time will be calculated via [9292ov.nl](http://9292ov.nl/). The address of the Erasmus campus is Burgemeester Oudlaan 50, 3062 PA Rotterdam. Accommodation will be provided from Monday to Friday (4 nights each week). Those who do not live in the Netherlands can additionally request accommodation for the weekend of 22-23 June.
 
-**In order to be guaranteed full consideration, all application materials must be submitted by \_\_\_\_\_.** All application materials must be submitted through \_\_\_\_\_. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by \_\_\_\_\_, and will ask participants to confirm their participation very soon thereafter.
+### How To Apply
 
-Inquiries can be sent to \_\_\_\_\_.
+In order to be guaranteed consideration, applicants must submit a CV and a short statement of motivation (max 300 words) and fill in their details in the Google form. All application materials must be submitted no later than February 28, 2024 through the following <b>[Google form](https://forms.gle/YG4n6L7Cs3XPfQ6c9)</b>. We will notify applicants solely through e-mail by March 15, 2024, and will ask participants to confirm their participation very soon thereafter.
 
-## Application Frequently Asked Questions
+Inquiries and related questions can be sent to <sicss@odissei-data.nl>
 
-#### Can I apply to more than one Summer Institute location?
+### Application Frequently Asked Questions
 
-Yes, but not at the same time. For example, you can apply to SICSS-\_\_\_\_\_, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.
+<i>Can I apply to more than one Summer Institute location?</i><br>
+Yes, but not at the same time. For example, you can apply to SICSS-ODISSEI, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.
 
-#### Can I participate in SICSS-\_\_\_\_\_ if I have already participated in SICSS at another location?
-
+<i>Can I participate in SICSS-ODISSEI if I have already participated in SICSS at another location?</i><br>
 No. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
