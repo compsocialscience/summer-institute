@@ -1,106 +1,34 @@
 - date: All times are in Eastern Daylight Time. 
-  name: The schedule will run between approximately 9:00AM-5:00PM.
+  name: The schedule will run during business hours.
   events:
     - name: Specific schedule details subject to change.
 
-- date: June 20, 2022
+- date: June 17, 2024
   name: Introduction and Ethics 
-  events:
-    - name: "9:30 - 10:30 Introduction and logistics"
-    - name: "10:30 - 11:30 Talk by SICSS Alums Michael FitzGerald and Katie Krumbholz"
-    - name: "11:30 - 12:30 Small group discussions"
-    - name: "12:30 - 1:30 Lunch"
-    - name: "1:30 - 4:00 Small Group Exercise on Ethics: [Ethics Slides](https://docs.google.com/presentation/d/1DaCujBvMyoniAyLfX1zi8rqlf_LqYOtb/edit?usp=sharing&ouid=104885152488187255489&rtpof=true&sd=true), [Group Activity](https://docs.google.com/document/d/1TAHOtVTZLFMWpM5SQ9qJZGBvbLqYbn4P/edit?usp=sharing&ouid=104885152488187255489&rtpof=true&sd=true)   "
  
-- date: June 21, 2022
+- date: June 18, 2024
   name: Digital Trace Data
-  events:
-    - name: "9:00 - 9:30 Logistics" 
-    - name: "9:30 - 11:00 Tutorials on Screen Scraping: [Materials](https://drive.google.com/drive/folders/1MkbHgrwlqnIs92rxf6dSyqh-u7N56z6I?usp=sharing)" 
-    - name: "11:15 - 12:00 Tutorials on Twitter APIs: [Materials](https://drive.google.com/drive/folders/1teGTxJhU8cgXEUDEZ6KirkZlCisxL303?usp=sharing)" 
-    - name: "12:00 - 1:30 Lunch"
-    - name: "1:30 - 2:30 Small Group Exercise: Design Research Question: [Exercise](https://docs.google.com/document/d/1ZqdCNfbNQrbqagt8jEo4KwDkvTOB7dprrJ86OvXm1zo/edit?usp=sharing)"
-    - name: "2:30 - 4:00 Small Group Exercise: Collect and Describe Digital Trace Data"
-    - name: "4:00- Community Building Activity in downtown New Brunswick"
 
-- date: June 22, 2022
+- date: June 19, 2024
   name: Text as Data 
-  events:
-    - name: Postponed events
 
-
-- date: June 23, 2022
-  name: Text as Data 
-  events:
-    - name: "9:00 - 9:30 Logistics"
-    - name: "9:30 - 11:00 Highlights of Text as Data [Powerpoint](https://docs.google.com/presentation/d/1UkNzrQcSbUcPSUCNcqAgXkknApxV_vJm/edit?usp=sharing&ouid=104885152488187255489&rtpof=true&sd=true) [Materials](https://drive.google.com/drive/folders/1v_UcxablNccWJkVAmYCCYA-_WfgrODQT?usp=sharing)"
-    - name: "11:00-11:45 Group Exercise, Session I [Activity](https://docs.google.com/document/d/1OdwsAWOVQjTq6JQw88EQ9KA7ngZ3TxEI/edit?usp=sharing&ouid=104885152488187255489&rtpof=true&sd=true)"
-    - name: "12:00 - 1:30 Talk by Sarah Shugars"
-    - name: "1:30 - 2:30 Lunch Break"
-    - name: "1:30 - 4:00 Group Exercise, Session II"
-    - name: "4:00 - 4:30 Group Presentations"
+- date: June 20, 2024
+  name: Machine Learning
     
-- date: June 24, 2022
-  name: Machine Learning for Prediction and Classification
-  events:
-    - name: "9:15 - 9:30 Logistics: [Slides](https://docs.google.com/presentation/d/1KABWDu0oWTPu18o32pkkXAX4-_YyQ3jgE69giY_2OL0/edit#slide=id.g1353157ac25_0_0)"
-    - name: "9:30 - 11:30 Live Tutorial on Machine Learning: [Tutorial Materials](https://drive.google.com/drive/folders/1nQzQwHLBBLJytDh2hs6j6y5U3HWNkvnd?usp=sharing)"
-    - name: "11:30 - 12:00 Group Exercise introduction: [Group Exercise](https://docs.google.com/document/d/1lpQymyFCPKxrAsl_MPwJfjrZnAf8l5HfHBQqWln6-ro/edit?usp=sharing)"
-    - name: "12:00 - 1:30 Lunch Break"
-    - name: "1:30 - 3:45 Afternoon Group Exercise"
-    - name: "4:00 - 5:00 Summing up the first week, looking to group projects"
- 
-- date: June 25, 2022
-  events:
-    - name: "No meetings. Enjoy New Brunswick."
+- date: June 21, 2024
+  name: Digial Surveys and Experiments
 
-- date: June 26, 2022
-  events:
-    - name: "No meetings. Enjoy New Brunswick." 
- 
-- date: June 27, 2022
-  name: Surveys, Experiments, and Group Formation
-  events: 
-    - name: "9:00 - 9:15 Logistics."
-    - name: "9:15 - 9:45 Online Surveys Overview. [Slides](https://docs.google.com/presentation/d/1cCqhdJNNUfS-CoSm-IMtuEMongWkvpZC4ggDdfQeZCY/edit?usp=sharing) "
-    - name: "9:45 - 10:15 Group Exercise on Online Survey Design. [Exercise](https://docs.google.com/document/d/1jvxpCvxR9NzpPiugGWFQXyTUpwE7LIK23yhbcUPiXZM/edit?usp=sharing)"
-    - name: "10:15 - 11:00 Highlights on Digital Experiments [Slides](https://docs.google.com/presentation/d/1yzWagtuU25sIztMuJy-xDcOT0pf5rpAo6gRrDTtZDd8/edit?usp=sharing)"
-    - name: "11:00 - 12:00 Group Exercise on Experimental Design. [Exercise](https://docs.google.com/document/d/1fqLCWHSv6emIK6IEMvktCGnbaypbLkrKNB7jt2vCVPU/edit?usp=sharing)"
-    - name: "12:00 - 1:30 Talk by Jessica Hamilton and Melissa Dreier."
-    - name: "1:30 - 2:30 Lunch"
-    - name: "2:30 - 5:00 Group Formation. [Slides](https://docs.google.com/presentation/d/1DeRQdifOkoEaFpuLftXZPfqaGlpoFlu1tarGsK4RaB8/edit?usp=sharing)"
+- date: June 24, 2024
+  name: Group Formation
 
-- date: June 28, 2022
+- date: June 25, 2024
   name: Group work day
-  events:
-    - name: "9:00 - 11:30 Group work time"
-    - name: "11:30 - 1:00 Lunch"
-    - name: "1:00 - 3:00 Group work time (First project milestone due)"
-    - name: "3:00 - 4:30 Talk by Tamar Mitts"
 
-- date: June 29, 2022
+- date: June 26, 2024
   name: Group work day
-  events: 
-    - name: "9:00 - 11:45 Group work time"
-    - name: "11:45 - 12:45 Tutorial on spatial data by Jeffrey Coltman-Cormier. [Tutorial Materials](https://drive.google.com/drive/folders/1WoTGuxhPx3ZdoocokOe0r7QdiAHeL5nY?usp=sharing)"
-    - name: "12:45 - 2:15 Lunch"
-    - name: "2:15 - 5:00 Group work time"
-    
-- date: June 30, 2022
+
+- date: June 27, 2024
   name: Group work day
-  events: 
-    - name: "9:00 - 10:00 Group work time"
-    - name: "10:00 - 11:30 Talk by Robert Kubinec"
-    - name: "12:00 - 1:00 Lunch"
-    - name: "1:00 - 2:30 Group work time"
-    - name: "2:30 - 4:00 Talk by P.M. Aronow"
-    - name: "4:00 - 5:00 Group work time"
-    
-- date: July 1, 2022
+
+- date: June 28, 2024
   name: Group Presentations
-  events: 
-    - name: "9:00 - 10:00 Group work time to finalize presentations"
-    - name: "10:00 - 12:00 Group presentations"
-    - name: "12:00 - 12:30 Closing. [Slides](https://docs.google.com/presentation/d/1VBrqmaLWqa8joqYAPemIWcWXlfoFGccaHKSkn68kW7E/edit?usp=sharing)"
-    - name: "12:30 - 1:30 Lunch"
-
