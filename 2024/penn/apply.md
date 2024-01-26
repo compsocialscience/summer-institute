@@ -17,7 +17,7 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 Applicants must submit the following documents: (i) CV; (ii) 2-page, double-spaced statement of interest
 
-**In order to be guaranteed full consideration, all application materials must be submitted by Friday, March 15th, 2024, at 11:59 PM EST.**  All application materials must be submitted through an online form (coming soon). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by Friday, March 15th, 2024, at 11:59 PM EST.**  All application materials must be submitted through this [online form](https://forms.gle/rk7PGC4mFphzSUnG7). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to [sicss.penn@gmail.com](mailto:sicss.penn@gmail.com).
 
