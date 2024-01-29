@@ -1,3 +1,22 @@
+
+- name: Han Li
+  image: /assets/images/lihan-sg.jpg
+  bio: Han Li is a postdoctoral research fellow in the Department of Communication and New Media at National University of Singapore. Her research focuses on AI in healthcare, computational communication, human-computer interaction, and online support communities. As a computational and mixed-method researcher, she used a wide variety of research methods to explore how information and communication technologies can be designed and used to improve health and well-being, enhanced social relationship, and contribute to social good.
+  website: https://scholar.google.com/citations?user=o1I3dgkAAAAJ&hl=en
+
+- name: Rongxin Ouyang
+  image: /assets/images/nus_rongxin.jpg
+  bio: Rongxin Ouyang is an PhD student at the Department of Communications and New Media at the National University of Singapore. He researches the societal and political implications of digital media using computational, causal, or quantitative methods; with a particular interest in the inequality and audience engagement of social media.
+  website: https://rongxin.me/
+
+- name: Anita Kuei-Chun Liu
+  image: /assets/images/nus_anita.jpg
+  bio: Anita Kuei-Chun Liu is a Postdoctoal Fellow in the Department of Communication and New Media at National University of Singapore. Her research focuses on social movements, public opinion, and framing effects in political, health, and science information contexts. Her work draws methods from social and computer sciences to explore the online discussion and role of social media, in the promotion of social movements and social change, and the effects of campaign framing on public opinion(e.g., computational text analysis, network analysis and experiment). She recevided a M.A. in Communication and Information from Rutgers University–New Brunswick, and a Ph.D. in Communication from the University at Buffalo, State University of New York.
+
+- name: Jinyuan Zhan
+  image: /assets/images/nus_jinyuan.jpg
+  bio: Jinyuan Zhan is a Ph.D. student in the Department of Communication and New Media at National University of Singapore. Her research interests lie in health communication, human-machine relationship and media psychology. She is currently investigating the potential harms of AI and how they could impact human's mental and physical health.
+
 - name: Renwen Zhang
   image: /assets/images/renwen_zhang.png
   bio: Renwen Zhang is an Assistant Professor at the Department of Communications and New Media at the National University of Singapore. Her research lies at the intersection of health communication, human-computer interaction, and interpersonal communication. She examines the design, use, and effects of digital technology for promoting wellbeing and mental health.
