@@ -27,6 +27,6 @@ Inquiries can be sent to sicss.howard.mathematica@gmail.com.
 
 Yes, but not at the same time. For example, you can apply to SICSS-Howard/Mathematica, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an application under review at two locations simultaneously.
 
-#### Can I participate in SICSS-\_\_\_\_\_ if I have already participated in SICSS at another location?
+#### Can I participate in SICSS-Howard/Mathematica if I have already participated in SICSS at another location?
 
 No. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.

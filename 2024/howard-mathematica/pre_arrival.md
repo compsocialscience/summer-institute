@@ -27,7 +27,7 @@ If you would like more practice after completing the Boot Camp videos, some othe
 - [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/), Taught by Charles Lanfear at University of Washington. This course includes videos of lectures, slides, and assignments.
 - [Learn R](https://www.codecademy.com/learn/learn-r), Code Academy.
 
-Please note that the majority of the coding work presented at SICSS-\_\_\_\_\_ 2021 will employ R. You are welcome to employ a language of your choice, such as Python, Julia, or other languages that are commonly used by computational social scientists.  However, we cannot support those languages.
+Please note that the majority of the coding work presented at SICSS-Howard/Mathematica 2024 will employ R. You are welcome to employ a language of your choice, such as Python, Julia, or other languages that are commonly used by computational social scientists.  However, we cannot support those languages.
 
 ## Lecture videos
 
@@ -41,7 +41,7 @@ Some of the activities will require coding, and we will support R. You are welco
 
 ### Slack
 
-Before participating at SICSS-Howard/Mathematica 2023, you should have an account in the SICSS Slack workspace. If you have not used Slack before, you should review these [getting started](https://slack.com/help/categories/360000049043-Getting-started) materials. Slack can be hard to use at first, but we've found that it is the best way to enable everyone to collaborate.
+Before participating at SICSS-Howard/Mathematica 2024, you should have an account in the SICSS Slack workspace. If you have not used Slack before, you should review these [getting started](https://slack.com/help/categories/360000049043-Getting-started) materials. Slack can be hard to use at first, but we've found that it is the best way to enable everyone to collaborate.
 
 ### GitHub
 
