@@ -17,7 +17,7 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 Applicants must submit the following documents: (i) a curriculum vitae, (ii) a research statement (three pages, maximum) detailing your current position and research interests, experience and/or interest in computational social science, and reasons for applying to the institute with an eye toward addressing each element of how we indicate applications will be evaluated and (iii) one writing sample, not exceeding 35 pages. The writing sample can be published or unpublished working paper, seminar paper, or prospectus. It need not demonstrate knowledge of computational social science. A successful working paper will amplify the other parts of your application by showcasing substantive interests, computational interest or skill, and/or your general research skills.
 
-**In order to be guaranteed full consideration, all application materials must be submitted by April 8, 2022 through the Google form available here: [https://forms.gle/1p4enXab9k9LcHmw6](https://forms.gle/1p4enXab9k9LcHmw6).** Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 15, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by TBD through the Google form available here: TBD.** Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by approximately April 15, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to sicssrutgers@gmail.com.
 
