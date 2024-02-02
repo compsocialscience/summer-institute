@@ -17,7 +17,7 @@ image: /assets/images/howard.jpg
 
 <u>Howard University and Mathematica to Host Computational Social Science Institute: Program will continue its focus on countering anti-Black racism and inequity</u>
 <br><font color="grey"><font size="2">Feb 1, 2024</font></font> 
-<br><i><font size = "2">Howard University and Mathematica are once again partnering on the only Summer Institute in Computational Social Science (SICSS) program hosted by a historically Black college or university.</font></i>
+<br><i><font size = "2">Howard University and Mathematica are once again partnering on a Summer Institute in Computational Social Science (SICSS) program hosted by a historically Black college or university.</font></i>
 <p align="center">
   <img width="560" src="/assets/images/SICSS_HOWARD_MATHEMATICA_FLYER_2024.png">
   <br><a href="https://github.com/compsocialscience/summer-institute/files/14135796/SICSS_HOWARD_MATHEMATICA_FLYER_2024.pdf" target="_blank" download>Click here to download SICSS-H/M 2024 Flyer</a>
