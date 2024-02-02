@@ -20,6 +20,6 @@ image: /assets/images/howard.jpg
 <br><i><font size = "2">Howard University and Mathematica are once again partnering on the only Summer Institute in Computational Social Science (SICSS) program hosted by a historically Black college or university.</font></i>
 <p align="center">
   <img width="560" src="/assets/images/SICSS_HOWARD_MATHEMATICA_FLYER_2024.png">
-  <br><a href="https://github.com/compsocialscience/summer-institute/files/14135796/SICSS_HOWARD_MATHEMATICA_FLYER_2024.pdf" target="_blank" download>Click here to download SICSS-H/M 2023 Flyer</a>
+  <br><a href="https://github.com/compsocialscience/summer-institute/files/14135796/SICSS_HOWARD_MATHEMATICA_FLYER_2024.pdf" target="_blank" download>Click here to download SICSS-H/M 2024 Flyer</a>
 </p>
 
