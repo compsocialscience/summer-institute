@@ -39,6 +39,10 @@ SICSS-Howard/Mathematica 2024 will be using a [flipped classroom model](https://
 
 Some of the activities will require coding, and we will support R. You are welcome to use other languages, but we cannot guarantee that we can support them. Before SICSS you should install a modern, stable-release version of [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/).
 
+### Zoom
+
+SICSS-Howard/Mathematica 2024 is a virtual event, and we will use Zoom. You can join Zoom meetings using a phone or computer with a microphone and (ideally) a webcam. This [article](https://thewirecutter.com/blog/professional-video-call-from-home/) contains some helpful advice on how to set up your device and space to improve your Zoom experience. (Note: though the article recommends external microphones and webcams, we DO NOT recommend or require that you purchase any equipment to participate in SICSS. In our experience, the microphones and webcams built into most modern laptops and phones are perfectly sufficient).
+
 ### Slack
 
 Before participating at SICSS-Howard/Mathematica 2024, you should have an account in the SICSS Slack workspace. If you have not used Slack before, you should review these [getting started](https://slack.com/help/categories/360000049043-Getting-started) materials. Slack can be hard to use at first, but we've found that it is the best way to enable everyone to collaborate.
