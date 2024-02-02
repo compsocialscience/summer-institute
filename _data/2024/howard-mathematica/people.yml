@@ -10,16 +10,6 @@ faculty:
       image: /assets/images/NanietteHeadshot.jpeg
       bio: "Naniette H. Coleman is a Ph.D. candidate in the Sociology Department at the University of California, Berkeley and a UC-National Lab In-Residence Graduate Fellow at Los Alamos National Lab. Since 2016, Naniette has directed the AAC&U award winning Interdisciplinary Research Group on Privacy at Berkeley. Naniette is an affiliate of the Institute for the Study of Societal Issues, the Center for Long-term Cybersecurity, and the Center for Technology, Society, and Policy at Berkeley as well as the Belfer Center for Science and International Affairs, and Berkman-Klein Center for the Internet and Society at Harvard University. Naniette’s research sits at the intersection of the sociology of culture and organizations and focuses on cybersecurity, surveillance, and privacy in the US context. Specifically Naniette’s research examines how organizations assess risk, make decisions, and respond to data breaches and organizational compliance with state, federal, and international privacy laws.  Naniette holds a Master of Public Administration with a specialization in Democracy, Politics, and Institutions from the Harvard Kennedy School of Government, and both an M.A. in Economics and a B.A. in Communication from the University at Buffalo, SUNY.  A non-traditional student, Naniette’s prior professional experience includes local, state, and federal service, as well as work for two international organizations, and two universities."
       website: http://naniettecoleman.com
-   
-    - name: Rebecca (Linchi) Hsu, Ph.D.
-      image: /assets/images/rebecca_linchi_hsu.jpeg
-      bio: "Dr. Rebecca Hsu is an Assistant Professor in the Department of Economics at Howard University, Washington, D.C. She has a Ph.D. in Economics from University of Washington, Seattle. Her research concentrates on household economics, intimate partner violence, and the economics of crime. She is currently working on projects on the CARES Act and domestic violence. She has published her research in journals such as Economic Inquiry, Review of Economics of the Household, Feminist Economics, Journal of Family and Economic Issues, and Journal of Economic Studies among others."
-      website: https://profiles.howard.edu/lin-chi-hsu
- 
-    - name: Nicole Jenkins, Ph.D.
-      image: /assets/images/Nicole_Jenkins.png
-      bio: "Nicole is currently an Assistant Professor in the Department of Sociology and Criminology at Howard University. She received her Doctoral degree from the University of Nevada Las Vegas in the Department of Sociology in 2020. She obtained an M.A. in Sociology in 2017 and B.A. in Sociology in 2015 from the University of Nevada Las Vegas. In 2013, she received an A.A. in Criminal Justice after serving six years of active duty in the United States Air Force as Military Police. She is a proud advocate for social justice and is committed to teaching with such emphasis in topics such as race and ethnic studies, sociology of poverty, problems of the black community, and research methods."
-      website: https://profiles.howard.edu/profile/58581/nicole-dezrea-jenkins
     
 
 opening:
@@ -52,6 +42,20 @@ panels:
 roundtable discussions:
   title: '"Real Talk" Roundtable Discussions'
   people:
+    - name: Howard University
+      image: /assets/images/HowardULog.png
+      bio: "Howard University has long held a commitment to the study of disadvantaged persons in American society and throughout the world. The goal is the elimination of inequities related to race, color, social, economic and political circumstances. As the only truly comprehensive predominantly Black university, Howard is one of the major engineers of change in our society. Through its traditional and cutting-edge academic programs, the University seeks to improve the circumstances of all people in the search for peace and justice on earth."
+      website: https://home.howard.edu/ 
+  
+    - name: Mathematica
+      image: /assets/images/MathematicaStackedLogo.png
+      bio: "Mathematica is the insight partner that illuminates the path to progress for public- and private-sector changemakers. We apply expertise at the intersection of data, methods, policy, and practice, translating big questions into deep insights that weather the toughest tests. Driven by our mission to improve public well-being, we collaborate closely with our clients to improve programs, refine strategies, and enhance understanding."     
+      website: https://mathematica.org/
+      
+    - name: SICSS-Howard/Mathematica
+      image: /assets/images/sicss_h_m.png
+      bio: "The Summer Institutes in Computational Social Science (SICSS) were created to provide free training to the next generation of researchers at the intersection of social science and data science— and to incubate cutting-edge research across disciplinary boundaries. Participants at each institute a) hear lectures by leading scholars in the field on a range of subjects from automated text analysis to experiments on social media platforms; b) participate in group training exercises; and c) launch interdisciplinary research projects. SICSS thus aims to provide open, high-quality training in computational social science to researchers around the world in order to accelerate the growth of the field and ensure that it develops practices that are in the long-term interests of science and society. Lectures are live-streamed to all SICSS sites from a central location and supported via a vibrant online community that includes open-source education materials that can be used for further self-study or as a model for computational social science courses within other organizations."
+      website: https://sicss.io/about
 
 lunchtime talks:
   title: Bite-Sized Lunchtime Talks
@@ -86,4 +90,7 @@ planning_team:
 teaching_assistants:
   title: Teaching Assistants (Mathematica)
 
+special_thanks:
+  title: Special Thanks 
+    <img class="Special Thanks" src="/assets/images/ISSI.png" width=95% height=95% />
 
