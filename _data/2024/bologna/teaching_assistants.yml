@@ -1,0 +1,19 @@
+- name: Aidar Zinnatullin
+  image: /assets/images/Zinnatullin Aidar photo.jpg
+  bio: "Aidar Zinnatullin is a PhD student in the Department of Political and Social Sciences at the University of Bologna. He studies how political discussions evolve in the context of authoritarian politics. In the research project, Aidar uses quantitative text analysis techniques and causal inference identification strategies."
+  website: 
+
+- name: Riccardo Omenti
+  image: /assets/images/Omenti.jpeg
+  bio: "Riccardo Omenti is a first-year PhD student in Statistics at the University of Bologna. His research interests concern the study of quantitative methods for the social sciences as well as the implementation of statistical techniques that allow to turn the traces people leave on social media and on the internet into data suitable for demographic research. During his PhD, Riccardo will develop statistical techniques to study the evolution of fertility, mortality and migration in family networks using internet-based genealogies as part of the ERC project “Genes, genealogies and the evolution of demographic change and social inequality."
+  website: 
+  
+- name: Giulio Cantone
+  image: /assets/images/CANTONE.jpg
+  bio: "Giulio Giacomo Cantone is a PhD. Student in Complex Systems at University of Catania. He also spent 8 month at Indiana University in the NaN [https://cnets.indiana.edu/groups/nan/people/] Research Group on Disinformation. His research background is in quantitative and simulation studies regarding commercial and political disinformation in online reviews (Review Bomb). His current interests are in Metascience and Sociology of Science, about disinformation and epistemic crises in scientific literature. In particular, his technical interests are in the sensitivity to data dredging in mainstream models of statistical regression."
+  website: https://ggcantone.netlify.app
+  github: https://github.com/giuliogcantone
+  Twitter: https://twitter.com/GGCanto
+
+  
+  
