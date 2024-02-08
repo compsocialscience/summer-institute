@@ -5,7 +5,7 @@ partner_site: amsterdam
 
 # Pre-arrival
 
-The Summer Institute will bring together people from many fields and backgrounds. In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS-\_\_\_\_\_ 2021.
+The Summer Institute will bring together people from many fields and backgrounds. In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS-Amsterdam 2024.
 
 - Complete the pre-read
 - Complete coding bootcamp (if needed)
