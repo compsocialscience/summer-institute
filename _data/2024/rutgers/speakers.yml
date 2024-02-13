@@ -1,2 +1,11 @@
-- name: Coming Soon!
+- name: Thomas R. Davidson
+  image: /assets/images/thomasDavidson.jpg
+  bio: "Thomas R. Davidson is an Assistant Professor of Sociology at Rutgers University."
+  website: https://www.thomasrdavidson.com/
+  
+- name: Katya Ognyanova
+  image: /assets/images/KatherineOgnyanova.jpg
+  bio: "Katya Ognyanova is an Associate Professor at the School of Communication and Information at Rutgers University."
+  website: https://kateto.net/
 
+- name: More coming soon!
