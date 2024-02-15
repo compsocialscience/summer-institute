@@ -19,3 +19,4 @@ vendor/
 instructors_only/
 2019/materials/day1-intro-ethics/instructors_only.zip
 *.vrb
+.Rproj.user
