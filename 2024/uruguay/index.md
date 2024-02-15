@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: uruguay
 main: true
-image: /assets/images/tbd.jpg
+image: /assets/images/mvd.jpg
 ---
 
 From July 15 to July 26, 2024, the Methods and Data Access Unit (UMAD) - Faculty of Social Sciences of the University of the Republic of Uruguay will sponsor the Summer Institute in Computational Social Science, to be held at Faculty of Social Sciences of the University of the Republic. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists and data scientists (broadly conceived).
