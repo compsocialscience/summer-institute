@@ -1,6 +1,6 @@
 ---
 layout: location_detail
-partner_site: tbd
+partner_site: uruguay
 main: true
 image: /assets/images/tbd.jpg
 ---
