@@ -1,11 +1,11 @@
 ---
 layout: location_detail
-partner_site: tbd
+partner_site: uruguay
 ---
 
 # Pre-arrival
 
-The Summer Institute will bring together people from many fields and backgrounds. In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS-\_\_\_\_\_ 2021.
+The Summer Institute will bring together people from many fields and backgrounds. In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS-Uruguay 2024.
 
 - Complete the pre-read
 - Complete coding bootcamp (if needed)
@@ -16,7 +16,7 @@ TAs will host office hours through Slack to support you as you work through thes
 
 ## Reading
 
-In order to prepare for SICSS-\_\_\_\_\_ 2021, you should read Matt Salganik’s book, *[Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com)* ([Read online](https://www.bitbybitbook.com/en/1st-ed/preface/) or purchase from [Amazon](https://www.amazon.com/Bit-Social-Research-Digital-Age/dp/0691158649), [Barnes & Noble](https://www.barnesandnoble.com/w/bit-by-bit-matthew-salganik/1125483924), [IndieBound](https://www.indiebound.org/book/9780691158648), or [Princeton University Press](https://press.princeton.edu/titles/11057.html)). Parts of this book, which is a broad introduction to computational social science, will be review for most of you, but if we all read this book ahead of time, then we can use our time together for more advanced topics.
+In order to prepare for SICSS-Uruguay 2024, you should read Matt Salganik’s book, *[Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com)* ([Read online](https://www.bitbybitbook.com/en/1st-ed/preface/) or purchase from [Amazon](https://www.amazon.com/Bit-Social-Research-Digital-Age/dp/0691158649), [Barnes & Noble](https://www.barnesandnoble.com/w/bit-by-bit-matthew-salganik/1125483924), [IndieBound](https://www.indiebound.org/book/9780691158648), or [Princeton University Press](https://press.princeton.edu/titles/11057.html)). Parts of this book, which is a broad introduction to computational social science, will be review for most of you, but if we all read this book ahead of time, then we can use our time together for more advanced topics.
 
 ## Coding Boot Camp
 
@@ -32,7 +32,7 @@ Please note that the majority of the coding work presented at SICSS-\_\_\_\_\_ 2
 
 ## Lecture videos
 
-SICSS-\_\_\_\_\_ 2021 will be using a [flipped classroom model](https://en.wikipedia.org/wiki/Flipped_classroom).  Therefore, you should watch [videos of lectures](https://sicss.io/curriculum) before our meetings, and then we will use our time together for discussion and group activities.
+SICSS-Uruguay 2024 will be using a [flipped classroom model](https://en.wikipedia.org/wiki/Flipped_classroom).  Therefore, you should watch [videos of lectures](https://sicss.io/curriculum) before our meetings, and then we will use our time together for discussion and group activities.
 
 ## Computing environment
 
@@ -42,11 +42,11 @@ Some of the activities will require coding, and we will support R. You are welco
 
 ### Zoom
 
-SICSS-\_\_\_\_\_ 2021 is a virtual event, and we will use Zoom. You can join Zoom meetings using a phone or computer with a microphone and (ideally) a webcam. This [article](https://thewirecutter.com/blog/professional-video-call-from-home/) contains some helpful advice on how to set up your device and space to improve your Zoom experience. (Note: though the article recommends external microphones and webcams, we DO NOT recommend or require that you purchase any equipment to participate in SICSS. In our experience, the microphones and webcams built into most modern laptops and phones are perfectly sufficient).
+SICSS-Uruguay 2024 is a virtual event, and we will use Zoom. You can join Zoom meetings using a phone or computer with a microphone and (ideally) a webcam. This [article](https://thewirecutter.com/blog/professional-video-call-from-home/) contains some helpful advice on how to set up your device and space to improve your Zoom experience. (Note: though the article recommends external microphones and webcams, we DO NOT recommend or require that you purchase any equipment to participate in SICSS. In our experience, the microphones and webcams built into most modern laptops and phones are perfectly sufficient).
 
 ### Slack
 
-Before participating at SICSS-\_\_\_\_\_ 2021, you should have an account in the SICSS 2021 Slack workspace.  If you have not used Slack before, you should review these [getting started](https://slack.com/help/categories/360000049043-Getting-started) materials.  Slack can be hard to use at first, but we've found that it is the best way to enable everyone to collaborate.
+Before participating at SICSS-Uruguay 2024, you should have an account in the SICSS 2024 Slack workspace.  If you have not used Slack before, you should review these [getting started](https://slack.com/help/categories/360000049043-Getting-started) materials.  Slack can be hard to use at first, but we've found that it is the best way to enable everyone to collaborate.
 
 ### GitHub
 
@@ -54,4 +54,4 @@ Many participants at SICSS use GitHub to collaborate. If you do not yet have one
 
 ## Office hours
 
-The SICSS-Princeton [TAs](https://sicss.io/2021/princeton/people#teaching_assistants) will host weekly office hours in the SICSS 2021 Slack. You can find information about the office hours in the SICSS 2021 Slack channel #pre-office-hours. If you are not able to attend during the regularly scheduled office hours or have any questions about office hours, please contact one of the [TAs](https://sicss.io/2021/princeton/people#teaching_assistants).
+The SICSS-Princeton [TAs](https://sicss.io/2021/princeton/people#teaching_assistants) will host weekly office hours in the SICSS 2024 Slack. You can find information about the office hours in the SICSS 2021 Slack channel #pre-office-hours. If you are not able to attend during the regularly scheduled office hours or have any questions about office hours, please contact one of the [TAs](https://sicss.io/2024/uruguay/people#teaching_assistants).

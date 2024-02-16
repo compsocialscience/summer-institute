@@ -1,5 +1,5 @@
 ---
 layout: location_detail
-partner_site: uruguay
+partner_site: tbd
 people: true
 ---
