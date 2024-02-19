@@ -11,5 +11,5 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is restricted to Master's students, PhD students or professionals in the Social Sciences (Sociology, Political Science, Communication or related areas), who wish to deepen their knowledge in the use of computational methods and tools for the analysis of social data. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 15 participants will be invited, and participants are expected to fully attend and participate in the entire two-week program.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2024/uruguay/apply) are due Monday, May 1, 2024 at 23:59 UYT.
+[Application materials](https://compsocialscience.github.io/summer-institute/2024/uruguay/apply) are due Wednesday, May 1, 2024 at 23:59 UYT.
 
