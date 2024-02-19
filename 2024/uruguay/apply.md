@@ -17,6 +17,7 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 Applicants must submit the following documents: (i) submit their curriculum vitae and (ii) fill out a form describing their research topics and interest in computational social science. In addition, we encourage participants to share an optional writing sample.
 
+
 **In order to be guaranteed full consideration, all application materials must be submitted by Wednesday, May 1, 2024 at 23:59 UYT.** All application materials must be submitted through [this form](https://forms.gle/pcJXRLtWY96PY8eE7). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail in June, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to [escuela.computacionales@cienciassociales.edu.uy](escuela.computacionales@cienciassociales.edu.uy)
