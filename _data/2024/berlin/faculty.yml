@@ -1,0 +1,14 @@
+- name: Lena Hipp
+  image: /assets/images/berlin_2023_hipp.jpg
+  bio: "Head of the Work & Care research group at the WZB Berlin Social Science Center and professor of Social Inequality & Social Policy at the University of Potsdam. Researchess social inequalities related to paid and unpaid care work and relies on a broad spectrum of methods and data, including survey, experimental, and digital data."
+  website: https://www.wzb.eu/en/persons/lena-hipp
+
+- name: Stefan Munnes
+  image: /assets/images/berlin_2023_munnes.jpg
+  bio: "Sociologist and research fellow in the Work & Care research group at the WZB Berlin Social Science Center. Interested in all kinds of social inequalities, currently researching gender inequalities and antisemitism. Furthermore, mainly engaged in computational methods, such as (automated) text analysis and graphical illustrations. Likes to share this knowledge and ask new questions and work through challenges in a team. ast year, he participated in SICSS Lisbon."
+  website: https://www.wzb.eu/en/persons/stefan-munnes
+
+- name: Armin Sauermann
+  image: /assets/images/berlin_2023_sauermann.jpg
+  bio: "Armin Sauermann is a researcher at the WZB Berlin Social Science Center. He recently completed his Sociology Masters at the University of Potsdam and will pursue his PhD. Armin analyzes large-scale observational data and is learning to collect and analyze internet-based data to study group processes and political extremism. Last year, he participated in SICSS Helsinki."
+  website: https://www.wzb.eu/en/persons/armin-sauermann
