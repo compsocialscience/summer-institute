@@ -41,13 +41,13 @@ Please note that the majority of the coding work presented at SICSS-Amsterdam 20
 Some of the activities will require coding, and we will support R. You are welcome to use other languages, but we cannot guarantee that we can support them. Before SICSS you should install a modern, stable-release version of [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/).
 
 
-### Slack
+<!-- ### Slack -->
 
-Before participating at SICSS-Amsterdam 2024, you should have an account in the SICSS 2024 Slack workspace.  If you have not used Slack before, you should review these [getting started](https://slack.com/help/categories/360000049043-Getting-started) materials.  Slack can be hard to use at first, but we've found that it is the best way to enable everyone to collaborate.
+<!-- Before participating at SICSS-Amsterdam 2024, you should have an account in the SICSS 2024 Slack workspace.  If you have not used Slack before, you should review these [getting started](https://slack.com/help/categories/360000049043-Getting-started) materials.  Slack can be hard to use at first, but we've found that it is the best way to enable everyone to collaborate. -->
 
-### GitHub
+<!-- ### GitHub -->
 
-Many participants at SICSS use GitHub to collaborate. If you do not yet have one, you should [create a GitHub account](https://github.com/join). If you are a student, we recommend that you apply for a [GitHub Student Developer Pack](https://education.github.com/pack).
+<!-- Many participants at SICSS use GitHub to collaborate. If you do not yet have one, you should [create a GitHub account](https://github.com/join). If you are a student, we recommend that you apply for a [GitHub Student Developer Pack](https://education.github.com/pack). -->
 
 <!-- ## Office hours -->
 
