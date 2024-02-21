@@ -11,18 +11,18 @@ We invite applications from graduate students, early-career researchers and non-
 
 The Summer Institute aims to bring together computational social scientists across different levels of technical experience. To ensure working proficiency, participants with less experience with social science research or data science methods will be expected to complete additional readings and online learning modules in advance of the Institute. <!-- , and participants with less experience coding will be expected to complete a set of online learning modules on the R programming language. <\!-- Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours during the two months before the Institute. -\-> -->
 
-We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions: 1) research and teaching experience in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
+We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions: 1) research and teaching experience in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we take into account applicant career stage and previous educational opportunities.
 
 ## How To Apply
 
 Applicants must submit the following documents: 
 
 - A short CV (1 page)
-- 250 word paragraph expressing motivation and research interest (to be inserted in the application form)
+- 400 words text expressing motivation and research interest (to be inserted in the application form)
 
-**In order to be guaranteed full consideration, all application materials must be submitted by TBD.** All application materials must be submitted through **the TBD application form**. We will notify applicants by **TBD**, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by March 15.** All application materials must be submitted through [**the application form**](https://www.youtube.com/watch?v=dQw4w9WgXcQ). Soon after the application deadline, we will notify applicants and ask participants to confirm their participation.
 
-Inquiries can be sent to **TBD**
+Inquiries can be sent to sicss.amsterdam.2024@gmail.com
 
 ## Application Frequently Asked Questions
 
