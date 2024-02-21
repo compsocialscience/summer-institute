@@ -12,7 +12,7 @@ The Summer Institute will bring together people from many fields and backgrounds
 - Complete coding bootcamps (if needed)
 
 
-TAs will host office hours through Slack to support you as you work through these pre-arrival materials.
+<!-- TAs will host office hours through Slack to support you as you work through these pre-arrival materials. -->
 
 ## Reading
 
@@ -24,7 +24,7 @@ Please note that the coding work presented at SICSS-Amsterdam 2024 will employ a
 
 Before SICSS you should install a modern, stable-release version of [R](https://www.r-project.org/) and [RStudio](https://posit.co/download/rstudio-desktop/) as well as [Python](https://www.python.org/). You should be familiar with [Jupyter Notebooks](https://jupyter.org/), but you may also use other IDEs such as [Rstudio](https://posit.co/download/rstudio-desktop/), [VS Code](https://code.visualstudio.com/) or [Spyder](https://www.spyder-ide.org/). 
 
-Please make sure you have sufficient knowledge of both R and Python before the Summer Institute; 
+Please make sure you have sufficient knowledge of both R and Python before the Summer Institute; there are two bootcamps to provide sufficient skills in both languages. 
 
 ## SICCS R Boot Camp
 
@@ -41,7 +41,7 @@ If you would like more practice after completing the Boot Camp videos, some othe
 ## Python Boot Camp 
 <!-- collaboration? -->
 
-The Odissei SICSS team in Rotterdam is organizing a Python boot camp (more info to follow soon) with the goal to provide a sufficient level of Python to follow the curriculum of the Summer Institute. We may ask you to follow this bootcamp to prepare for the Summer Institute. 
+The Odissei SICSS team in Rotterdam is organizing a Python boot camp (more info to follow soon) with the goal to provide a sufficient level of Python to follow the curriculum of the Summer Institute. We may ask you, depending on your Python level, to follow this bootcamp to prepare for the Summer Institute. 
 
 <!-- can follow this bootcamp to  -->
 
