@@ -1,3 +1,82 @@
-- date: \_\_\_\_\_
+  name: “All times are in Beijing local.”
+
+- date: June 30, 2024
+  name: “Day 0: Welcome & speed dating”
   events:
-    - name: "Schedule coming soon..."
+    - name: "9:00 - 9:10 Welcome note - Fang Luo (Beijing Normal University)"
+    - name: "9:10 - 10:30 Keynote speech (online) - Matthew J. Salganik (Princeton University)"
+    - name: "10:40 - 12:00 Keynote speech - Xing Xie (Microsoft)  "
+    - name: "14:00 - 17:00 Participant presentations "
+
+- date: July 1, 2024
+  name: “Large Language Model (LLM)”
+  events:
+    - name: "9:00 - 12:00 Lecture 1 and Lab 1: Large Language Model (LLM) - Yankai Lin (Renmin University of China) "
+    - name: "14:00 - 15:00 Lecture 1 and Lab 1: Large Language Model (LLM) - Yankai Lin (Renmin University of China)"
+    - name: "15:00 - 17:00 Lecture 2 and Lab 2: Foundation Model (multi- modal) - Xiting Wang (Renmin University of China) "
+
+- date: July 2, 2024
+  name: “Social media and text analysis”
+  events:
+    - name: "9:00 - 12:00 Lecture 3 and Lab 3: web crawler and natural language processing - Lei Cao (Beijing Normal University)"
+    - name: "14:00 - 15:20 Group work "
+    - name: "15:20 - 17:00 Group presentations (Beijing Normal University & Tsinghua University)"
+
+- date: July 3, 2024
+  name:” Network analysis”
+  events:
+    - name: "9:00 - 12:00 Lecture 4 and Lab 4: Network analysis and visualization - An Zeng (Beijing Normal University) "
+    - name: "14:00 - 15:20 Group work "
+    - name: "15:20 - 17:00 Group presentations (Microsoft & Beijing Normal University)"
+
+- date: July 4, 2024
+  name:” Psychometrics”
+  events:
+    - name: "9:00 - 12:00 Lecture 5 and Lab 5: Item Response Theory (IRT) - Kondwani Kajera Mughogho (University of Cambridge) "
+    - name: "14:00 - 17:00 Lecture 6 and Lab 6: Factor analysis - Luning Sun (University of Cambridge)"
+
+- date: July 5, 2024
+  name: " Visit and Talks "
+  events:
+    - name: "9:00 - 12:00 Visit Microsoft Research Asia "
+    - name: "14:00 - 15:30 Guest speaker – Diyi Yang (Stanford University)"
+
+- date: July 6, 2024
+  name:” Attend International Conference on Cognitive and Psychological Assessment and Enhancement (ICCPAE).
+
+- date: July7, 2024
+  name:” Attend International Conference on Cognitive and Psychological Assessment and Enhancement (ICCPAE).
+
+- date: July 8, 2024
+  name: ”Day off”
+  
+- date: July 9,2024
+  name:” Talks and Group work”
+  events:
+    - name: "9:00 - 10:30 Guest speaker – David Stillwell (University of Cambridge) "
+    - name: "10:30 - 12:00 Group work "
+    - name: "14:00 - 15:30 Guest speaker – TBD "
+    - name: "15:30 - 17:00 Group work "
+
+- date: July 10, 2024
+  name:” Talks and Group work”
+  events:
+    - name: "9:00 - 10:30 Guest speaker – Jose Hernandez-Orallo (University of Cambridge) "
+    - name: "10:30 - 12:00 Group work "
+    - name: "14:00 - 17:00 Group work "
+
+- date: July 11, 2024
+  name: “Talks and Group work”
+  events:
+    - name: "9:00 - 10:30 Guest speaker – Yong Li (Tsinghua University) "
+    - name: "10:30 - 12:00 Group work "
+    - name: "14:00 - 15:30 Guest speaker – TBD "
+    - name: "15:30 - 17:00 Group work "
+
+- date: July 12, 2024
+  name: “Group presentations and Closing”
+  events:
+    - name: "9:00 - 12:00 Group presentations "
+    - name: "14:00 - 16:00 Group presentations "
+    - name: "16: 00 - 17:00 Closing note "
+
