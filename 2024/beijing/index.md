@@ -1,6 +1,6 @@
 ---
 layout: location_detail
-partner_site: beijing
+partner_site: SICSS-Beijing
 main: true
 image: /assets/images/beijing.jpg
 ---
