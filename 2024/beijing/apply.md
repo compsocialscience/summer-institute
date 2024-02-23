@@ -7,7 +7,7 @@ partner_site: beijing
 
 ## Eligibility
 
-Participation is restricted to graduate students, postdoctoral researchers, and early career faculty who are interested in computational social science. However, there are no restrictions based on citizenship, country of study, or country of employment. About 25 participants will be invited.
+Participation is restricted to graduate students, postdoctoral researchers, and early career faculty who are interested in computational social science. However, there are no restrictions based on citizenship, country of study, or country of employment. About 50 participants will be invited.
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R programming language. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours during the two months before the Institute.
 
@@ -17,7 +17,7 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 Applicants must submit the following documents:  1) A letter of application (no more than 500 words) that summarizes your research interests, your achievements, and potential contributions to the event (in English) 2) A publication or writing sample that best represents your research around computational social science (either in English or Chinese) 3) Your CV (either in English or Chinese).
 
-**In order to be guaranteed full consideration, all application materials must be submitted by 11:59 pm on May 6, 2024 (Beijing time).** All application materials must be submitted through [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeIzmYE06CUsAEF74Y9-mj2F26BBzAK7axg-S8k7ZTh3S1Xdw/viewform?usp=sf_link) or [Wenjuanxing Form](https://www.wjx.top/vm/O0eq5GQ.aspx). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by sicss_beijing2024@163.com around June 9th, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by 11:59 pm on April 7, 2024 (Beijing time).** All application materials must be submitted through [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeIzmYE06CUsAEF74Y9-mj2F26BBzAK7axg-S8k7ZTh3S1Xdw/viewform?usp=sf_link) or [Wenjuanxing Form](https://www.wjx.top/vm/O0eq5GQ.aspx). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by sicss_beijing2024@163.com around June 9th, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to sicss_beijing2024@163.com.
 
