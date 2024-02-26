@@ -47,7 +47,3 @@ Before participating at SICSS-ODISSEI 2024, you should have an account in the SI
 ### GitHub
 
 Many participants at SICSS use GitHub to collaborate. If you do not yet have one, you should [create a GitHub account](https://github.com/join). If you are a student, we recommend that you apply for a [GitHub Student Developer Pack](https://education.github.com/pack).
-
-## Office hours
-
-The SICSS-Princeton [TAs](https://sicss.io/2021/princeton/people#teaching_assistants) will host weekly office hours in the SICSS 2021 Slack. You can find information about the office hours in the SICSS 2021 Slack channel #pre-office-hours. If you are not able to attend during the regularly scheduled office hours or have any questions about office hours, please contact one of the [TAs](https://sicss.io/2021/princeton/people#teaching_assistants).
