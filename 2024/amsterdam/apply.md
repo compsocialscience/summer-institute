@@ -20,7 +20,7 @@ Applicants must submit the following documents:
 - A short CV (1 page)
 - 400 words text expressing motivation and research interest (to be inserted in the application form)
 
-**In order to be guaranteed full consideration, all application materials must be submitted by March 15.** All application materials must be submitted through [**the application form**](https://www.youtube.com/watch?v=dQw4w9WgXcQ). Soon after the application deadline, we will notify applicants and ask participants to confirm their participation.
+**In order to be guaranteed full consideration, all application materials must be submitted by March 15.** All application materials must be submitted through [**the application form**](https://forms.office.com/r/vJBWJQeeHR). Soon after the application deadline, we will notify applicants and ask participants to confirm their participation.
 
 Inquiries can be sent to sicss.amsterdam.2024@gmail.com
 
