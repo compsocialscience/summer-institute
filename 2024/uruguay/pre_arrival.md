@@ -28,7 +28,7 @@ If you would like more practice after completing the Boot Camp videos, some othe
 - [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/), Taught by Charles Lanfear at University of Washington. This course includes videos of lectures, slides, and assignments.
 - [Learn R](https://www.codecademy.com/learn/learn-r), Code Academy.
 
-Please note that the majority of the coding work presented at SICSS-\_\_\_\_\_ 2021 will employ R. You are welcome to employ a language of your choice, such as Python, Julia, or other languages that are commonly used by computational social scientists.  However, we cannot support those languages.
+Please note that the majority of the coding work presented at SICSS-Uruguay 2024 will employ R. You are welcome to employ a language of your choice, such as Python, Julia, or other languages that are commonly used by computational social scientists.  However, we cannot support those languages.
 
 ## Lecture videos
 
@@ -40,18 +40,14 @@ SICSS-Uruguay 2024 will be using a [flipped classroom model](https://en.wikipedi
 
 Some of the activities will require coding, and we will support R. You are welcome to use other languages, but we cannot guarantee that we can support them. Before SICSS you should install a modern, stable-release version of [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/).
 
-### Zoom
-
-SICSS-Uruguay 2024 is a virtual event, and we will use Zoom. You can join Zoom meetings using a phone or computer with a microphone and (ideally) a webcam. This [article](https://thewirecutter.com/blog/professional-video-call-from-home/) contains some helpful advice on how to set up your device and space to improve your Zoom experience. (Note: though the article recommends external microphones and webcams, we DO NOT recommend or require that you purchase any equipment to participate in SICSS. In our experience, the microphones and webcams built into most modern laptops and phones are perfectly sufficient).
 
 ### Slack
 
 Before participating at SICSS-Uruguay 2024, you should have an account in the SICSS 2024 Slack workspace.  If you have not used Slack before, you should review these [getting started](https://slack.com/help/categories/360000049043-Getting-started) materials.  Slack can be hard to use at first, but we've found that it is the best way to enable everyone to collaborate.
 
+
 ### GitHub
 
 Many participants at SICSS use GitHub to collaborate. If you do not yet have one, you should [create a GitHub account](https://github.com/join). If you are a student, we recommend that you apply for a [GitHub Student Developer Pack](https://education.github.com/pack).
 
-## Office hours
 
-The SICSS-Princeton [TAs](https://sicss.io/2021/princeton/people#teaching_assistants) will host weekly office hours in the SICSS 2024 Slack. You can find information about the office hours in the SICSS 2021 Slack channel #pre-office-hours. If you are not able to attend during the regularly scheduled office hours or have any questions about office hours, please contact one of the [TAs](https://sicss.io/2024/uruguay/people#teaching_assistants).

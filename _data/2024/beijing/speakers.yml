@@ -1,1 +1,65 @@
-- name:
+
+- name: Fang Luo
+  image: /assets/images/fangluo.jpg
+  bio: " Professor Fang Luo is the Vice Director of the Department of Psychology at Beijing Normal University. She serves as the Vice Chairman of the Educational Statistics and Measurement Branch of the China Association for Educational Technology, as well as the Secretary General of the Psychological and Educational Statistics and Measurement Branch of the Chinese Society of Education. Additionally, she is the Head of the Education Big Data Department at the Collaborative Innovation Center of Assessment for Basic Education Quality. Her current research interests involve human-computer interactive test development, procedural data mining, and data analysis methods and applications for large-scale educational testing."
+  website: 
+  
+- name: Matthew J. Salganik
+  image: /assets/images/salganik.jpg
+  bio: "Matthew Salganik is Professor of Sociology at Princeton University. He is also affiliated with several of Princeton's interdisciplinary research centers including the Office of Population Research and the Center for Statistics and Machine Learning. His research interests include social networks and computational social science. He is the author of Bit by Bit: Social Research in the Digital Age."
+  website: 
+
+- name: Xing Xie
+  image: /assets/images/Xing-Xie.jpg
+  bio: " Dr. Xing Xie is a senior principal research manager of Microsoft Research Asia. He received his B.S. and Ph.D. degrees in Computer Science from the University of Science and Technology of China in 1996 and 2001, respectively. He joined Microsoft Research Asia in July 2001, working on data mining, social computing and ubiquitous computing. During the past years, he has published over 300 papers, won the ACM SIGKDD 2022 test-of-time award, the ACM SIGKDD China 2021 test of time award, the 10-year impact award honorable mention in ACM SIGSPATIAL 2020, the 10-year impact award in ACM SIGSPATIAL 2019, the best student paper award in KDD 2016, and the best paper awards in ICDM 2013 and UIC 2010. He is a Fellow of China Computer Federation (CCF) and the IEEE, and a Distinguished Member of ACM."
+  website: 
+
+- name: Yankai Lin
+  image: /assets/images/yankailin.jpg
+  bio: " Yankai Lin received his B.E. and Ph.D. degrees from Tsinghua University in 2014 and 2019. After that, he worked as a senior researcher in Tencent WeChat, and joined Renmin University of China in 2022 as a tenure-track assistant professor. His main research interests are pretrained models and natural language processing. He has published more than 40 papers in international conferences on natural language processing and artificial intelligence such as ACL, EMNLP, NAACL, AAAI, IJCAI, NeurIPS, etc. His citations in Google Scholar (up to August 2022) is 6936, H-index is 27. He have received the First Class of Natural Science Award of Technology Development Centre, Ministry of Education of the People's Republic of China（The First Student Principal). The open-source toolkit OpenKE and OpenNRE have obtained more than 6,400 stars on Github. He has served as the area chair of international conferences such as EMNLP and ACL ARR."
+  website: 
+
+- name: Xiting Wang
+  image: /assets/images/wangxiting1.jpg
+  bio: " Xiting Wang obtained her Bachelor's degree and Ph.D. from Tsinghua University and was previously a principal researcher at Microsoft Research Asia. Her research interest is explainable and trustworthy AI. She has published around 50 papers on top conferences or journals. Two of her papers were selected as the spotlight article by IEEE TVCG (one spotlight each issue). The technologies developed by Xiting have been applied in multiple products like Microsoft Bing and Microsoft News. Xiting is an area chair of IJCAI and AAAI. She was the archive chair of IEEE VIS, joined the editorial board of Visual Informatics, and was awarded Best SPC by AAAI 2021. She was invited to give a keynote speech in the SIGIR Workshop on explainable recommendation on 2022 and 2020, and is an IEEE senior member."
+  website: 
+
+- name: Lei Cao
+  image: /assets/images/leicao.jpg
+  bio: " Dr Lei Cao received his Ph.D. from the Department of Computer Science and Technology at Tsinghua University. He is a postdoctoral fellow at Beijing Normal University. His research interests are in artificial intelligence and mental health, such as a method for detecting users' extreme mental states based on deep learning."
+  website: 
+
+- name: An Zeng
+  image: /assets/images/anzeng.jpg
+  bio: " An Zeng is a Full Professor in the School of Systems Science at Beijing Normal University. His  research combines statistical physics and computer science to exploit the opportunities and promises offered by Big Data. The tools of network science are employed to better understand and predict social interactions, human mobility, and research behavior. So far, Professor Zeng have published about 50 papers and received over 2000 citations.."
+  website: 
+
+- name: Kondwani Kajera Mughogho
+  image: /assets/images/OIP1111.jpg
+  bio: " Kondwani Kajera Mughogho joined the Psychometrics Centre in May 2023 as a Psychometrician. He holds a PhD in Educational Measurement from the University of Oslo. Prior to joining the Psychometrics Centre, Kondwani worked as a Psychometrician at the National Foundation for Educational Research (NFER). He was a member of the team responsible for conducting psychometric analysis on the Office of Qualifications and Examinations Regulation’s (Ofqual’s) National Reference Test (NRT). Additionally, Kondwani contributed to psychometric analysis for NFER's new e-Assessments, evaluated various questionnaires and research instruments, and reviewed and updated technical reports. His research focused on identifying the most effective subscore estimation method in large-scale international assessments (ILSA) like the Trends in International Mathematics and Science Study (TIMSS)."
+  website: 
+
+- name: Luning Sun
+  image: /assets/images/Luning-Sun.png
+  bio: "Dr Luning Sun is Research Director of The Psychometrics Centre and Research Associate in the Operations and Technology Management Group at the Cambridge Judge Business School.   He is project director for the ESRC ORA Plus Scheme to develop the International Cognitive Ability Resource (ICAR), a public-domain and open-source tool that provides a large and dynamic bank of cognitive ability measures for use in a wide variety of applications.   Luning's research focusses on personality and ability assessment, adaptive testing in clinical assessment, and test development for educational and occupational assessment."
+  website: 
+
+- name: Diyi Yang
+  image: /assets/images/DiyiYang.jpg
+  bio: " Diyi Yang is an assistant professor in the Computer Science Department at Stanford, affiliated with the Stanford NLP Group, Stanford HCI Group, Stanford AI Lab (SAIL), and Stanford Human-Centered Artificial Intelligence (HAI). She is interested in Socially Aware Natural Language Processing. Her research goal is to better understand human communication in social context and build socially aware language technologies to support human-human and human-computer interaction.."
+  website: 
+
+- name: David Stillwell
+  image: /assets/images/David-Stillwell.jpg
+  bio: " David Stillwell is Professor at the University of Cambridge. David studies the links between big data and psychology; his research with 6 million social media users found that the computer can predict a user’s personality as accurately as their spouse can. Follow up research found that personalizing an advert to the recipient’s psychology is more effective than generic ads. David has also published research using various big data sources to show that spending money on products and services that match one’s personality leads to greater life satisfaction, that people tend to date others who have a similar personality, and that people who swear seem to be more honest.."
+  website: 
+
+- name: José Hernández-Orallo
+  image: /assets/images/Jose-Hernandez-Orallo.jpg
+  bio: " José Hernández-Orallo is Professor at the Universitat Politècnica de València, Spain and Senior Research Fellow at the Leverhulme Centre for the Future of Intelligence, University of Cambridge, UK.     His academic and research activities have spanned several areas of artificial intelligence, machine learning, data science and intelligence measurement, with a focus on a more insightful analysis of the capabilities, generality, progress, impact and risks of artificial intelligence. He has published five books and more than two hundred journal articles and conference papers on these topics. He is a member of AAAI, CLAIRE and ELLIS, and a EurAI Fellow.."
+  website: 
+
+- name: Yong Li
+  image: /assets/images/liyong.jpg
+  bio: " Yong Li is Tenured Associate Professor of Department of Electronic Engineering at Tsinghua University. Dr. Yong Li received the B.S. degree from Huazhong University of Science and Technology in 2007, and the M. S. and the Ph. D. degrees in Electrical Engineering from Tsinghua University, in 2009 and 2012, respectively. During 2012 and 2013, he was a Visiting Research Associate with Telekom Innovation Laboratories and Hong Kong University of Science and Technology respectively. During 2013 to 2014, he was a Visiting Scientist with the University of Miami. Currently, he is a Faculty Member of the Department of Electronic Engineering, Tsinghua University. His research interests are in the areas of wireless networking, mobile computing, big data and urban computing. Dr. Li has served as General Chair, TPC Chair, TPC Member for several international workshops and conferences, and he is on the editorial board of four international journals. His papers have total citations more than 17500.."
+  website: 
