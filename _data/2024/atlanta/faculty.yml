@@ -1,15 +1,14 @@
 - name: Kat Albrecht
   image: /assets/images/albrecht_gsu.jpg
-  bio: "Kat Albrecht is an Assistant Professor in the Department of Criminal Justice and Criminology in the Andrew Young School of Policy Studies at Georgia State University. Dr. Albrecht’s work sits at the intersection of computational social science and law, where she uses innovative computational techniques to study fear, violence, and data distortions. She is particularly interested in the nexus of fear and risk-taking behaviors, digital trace data, and the impact of law on decision-making. She frequently serves as a computational science expert for the defense on active legal cases about life without the opportunity of parole, felony murder, gang enhancements, and the Racial Justice Act. She is presently a Fellow with CJARS where she is conducting research on felony case processing speeds across the United States." 
+  bio: "Kat Albrecht is an Assistant Professor in the Department of Criminal Justice and Criminology in the Andrew Young School of Policy Studies at Georgia State University. Dr. Albrecht’s work sits at the intersection of computational social science and law, where she uses innovative computational techniques to study fear, violence, and data distortions. She is particularly interested in the nexus of fear and risk-taking behaviors, digital trace data, and the impact of law on decision-making. She frequently serves as a computational science expert for the defense on active legal cases about life without the opportunity of parole, felony murder, gang enhancements, and the Racial Justice Act. She is presently a Fellow at Georgetown University Law School where she is doing data infrastructure work on court data systems in Tennessee." 
   website: https://aysps.gsu.edu/profile/kat-albrecht/
   
-- name: "Olga Churkina"
-  image: /assets/images/Churkina_sq.jpg
-  bio: "Olga Churkina is a PhD Candidate in Public Policy jointly at Georgia State University and Georgia Institute of Technology. Her research interests include experimental and quasi-experimental methods for education and labor market policies, microeconomics models of human behavior, and applications of big data. Her background is in Quantitative Economics and she is currently involved in the Smart Cities project as a member of the Data Science and Policy Lab at Georgia Tech. Furthermore, she is working on a prosocial behavior research at GSU ExCEN as well as a labor market field experiment for her dissertation."
-  website: https://aysps.gsu.edu/files/2017/09/CV_Churkina_23.pdf
-  
-- name: "Ryan	Ellis"
-  image: /assets/images/ryanellis_small.jpg
-  bio: "Ryan Ellis is a PhD Candidate in the School of Economics at the Georgia Institute of Technology. His research interests include migration and borders, health, and development economics. Prior to joining Georgia Tech, Ryan worked as an educator and financial counselor with immigrant-led non-profit organizations in Nashville, TN."  
+- name: "Elycia S. Daniel"
+  image: /assets/images/elycia_daniel_photo.jpeg
+  bio: "Criminal justice professional skilled in Educational Technology, Training, Adult Education, Public Speaking, and Grant Writing, she has over 20 years of experience teaching in higher education. Her research interests include specific areas of policing such as civilian review boards, female police chiefs, and body-worn cameras. In addition, she is a Program Evaluator for the AUC Data Science Institute."
   
   
+- name: "Talitha Washington"
+  image: /assets/images/talisha_washington_photo.jpeg
+  bio: "Dr. Talitha Washington is the inaugural Director of the Atlanta University Center (AUC) Data Science Initiative, a Professor of Mathematics at Clark Atlanta University and an affiliate faculty at Morehouse College, Morehouse School of Medicine, and Spelman College. She is the Director and lead principal investigator of the NSF-funded National Data Science Alliance (NDSA) and the President of the Association for Women in Mathematics. She works across Historically Black Colleges and Universities (HBCUs) to increase the number of Blacks with expertise in data science and expand data science research that advocates for social justice."
+  website: https://aucenter.edu/staff-members/talitha-washington/ 
