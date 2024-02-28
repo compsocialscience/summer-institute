@@ -13,4 +13,4 @@ We invite applications from graduate students, postdoctoral researchers, and unt
 
 Participants with less experience in social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on R or Python programming languages. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours before the Institute.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2023/atlanta/apply) are due <strong>April 30, 2024</strong>.
+[Application materials](https://sicss.io/2024/atlanta/apply) are due <strong>April 30, 2024</strong>.
