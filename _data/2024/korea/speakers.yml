@@ -1,1 +1,32 @@
-- name:
+- name: Jinhyuk Yun
+  image: /assets/images/korea_jinhyuk_yun.png
+  bio: Jinhyuk Yun is an assistant professor in the School of AI Convergence, at Soongsil University. He received his B.S. and Ph.D. degrees in Physics from KAIST. During his Ph.D., he developed a strong interest in the structure and dynamics of complex systems such as society, culture, media, and collective knowledge, along with the big data and statistical physics models, which led him to join Naver as a Data Scientist. He then worked as a Senior Research Scientist at KISTI, where he researched big data analysis and AI technology development. Since 2020, he has been a Professor at the School of AI Convergence at Soongsil University, where he is currently working on complex systems theory, big data, and AI to understand in-depth human behavior.
+
+- name: Won-tak Joo
+  image: /assets/images/korea_wontak_joo.jpg
+  bio: Won-tak Joo is an assistant professor in Sociology and Criminology & Law at the University of Florida. His research interests are in the areas of social demography, social networks, and computational sociology. Specifically, he investigates how social and family relationships change across the life course, and how these patterns contribute to social and health inequalities, using a range of quantitative approaches including social network methods, applied econometrics, and demographic techniques.
+
+- name: Bas Hofstra
+  image: assets/images/korea_hofstra_bas.jpg
+  bio: Bas Hofstra is a tenured Assistant Professor at Radboud University's Department of Sociology. He got his PhD from Utrecht University's Department of Sociology and was Postdoctoral Research Fellow at Stanford University. His work orbits the study of diversity, stratification, and innovation. It captures longitudinal systems of social and cultural exchange: from the gestation and birth of networks, careers, ideas, or innovations, to their use, up until their eventual cessation. As such, he strives for three interrelated goals: (i) answering substantive questions on causes and effects of social networks, while (ii) contributing to social theory, and (iii) using computational methods and big data. His research appeared (among others) in PNAS, American Sociological Review, Social Forces, Social Networks, and Nature Human Behaviour, and was honored with several grants and awards.
+
+- name: Hwaran Lee
+  image: assets/images/korea_hwaran_lee.jpg
+  bio: Hwaran Lee is a lead research scientist at NAVER AI Lab, working on natural language processing and machine learning. She received her Ph.D. in Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST) in 2018 and her B.S. in Mathematical Science at KAIST in 2012. Before joining NAVER AI Lab, she worked at SK T-Brain as a research scientist from 2018 to 2021. Her current primary research interests are ethics, safety, and trustworthiness of language models. Also, she is interested in controllable language generation, dialog systems, and machine learning for language models.
+
+- name: Jonghee Park
+  image: assets/images/korea_jonghee_park.jpg
+  bio: Jonghee Park is a Professor in the Department of Political Science and International Relations at Seoul National University. He is also the Director of Global Data Center at Institute of International Studies, Seoul National University. He received his Ph.D. from Washington University in St. Louis. Jonghee Park studies political methodology and international political economy. He also maintains R packages MCMCpack and Bayesian taskview in CRAN. He is recently working on dynamic network analysis, text analysis of North Korean document, and changepoint analysis of Bayesian shrinkage models.
+
+- name: Hyunwoo Park
+  image: assets/images/korea_hyunwoo_park.png
+  bio: Hyunwoo Park is Vice Dean for Academic Affairs and Associate Professor in the Graduate School of Data Science at Seoul National University. Before joining SNU, he was an Assistant Professor in Management Sciences at the Fisher College of Business and a Core Faculty for the Translational Data Analytics Institute (TDAI) at The Ohio State University. Before OSU, he was a postdoctoral fellow at the Tennenbaum Institute at Georgia Tech. He holds a Ph.D. in Industrial Engineering from Georgia Tech, a Master of Information Management and Systems from UC Berkeley, and a B.S. in Electrical Engineering from Seoul National University. His research interests include business and data analytics with an emphasis on visualization, supply chain management from the network perspective, and technology and innovation management in the presence of digital platforms. His research has been published in leading journals, and he has won several awards and nominations from major conferences, including INFORMS and the Academy of Management.
+
+- name: Jihee Kim
+  image: assets/images/korea_jihee_kim.jpg
+  bio: Jihee Kim is an associate professor at the School of Business and Technology Management, KAIST College of Business, and also holds a joint appointment with the School of Computing at KAIST. She is an economist, yet her academic and research endeavors have embraced interdisciplinary scholarship. Jihee earned a B.S. in Computer Science at KAIST, then pursued her master’s degree in Economics at Stanford University, followed by her PhD in Management Science and Engineering, also at Stanford University. Her academic journey reflects a commitment to interdisciplinary exploration, as evidenced by her collaborative efforts across various disciplines, such as computer science and energy policy, while maintaining a strong foundation in economics.
+
+- name: Yeowoon Bae
+  image: assets/images/korea_yeowoon_bae.jpg
+  bio: BAE Yeowoon, formerly a reporter in the Investigative Journalism Division at SBS, currently leads the Data Journalism Team, which produces Mabu News, in the broadcaster’s Digital News Production Division. He was awarded the Data Journalist to Watch Award at the 2019 Korea Data Journalism Awards. In 2020, he won the Korea Journalists Award for his analysis of provincial lawmakers’ operational expenses and assets. Last year, he won Grand Prize at the Korean Broadcasting Journalist Association Awards for his work on elections and data.
+
