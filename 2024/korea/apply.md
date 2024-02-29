@@ -4,7 +4,7 @@ partner_site: korea
 ---
 
 # Apply
-The 2024 SICSS-Korea will be held from July 3rd to July 12th in KAIST, Daejeon. By participating in the institute, participants will have opportunities to discuss new possibilities, opportunities, and potential challenges of computational social science in analyzing and designing public policies for Korean society. The main language of the 2024 SICSS-Korea will be English.
+The 2024 SICSS-Korea will be held from June 24th to July 3rd in KAIST, Daejeon. By participating in the institute, participants will have opportunities to discuss new possibilities, opportunities, and potential challenges of computational social science in analyzing and designing public policies for Korean society. The main language of the 2024 SICSS-Korea will be English.
 
 ## 1. Eligibility
 Participation is restricted to graduate students (including master and PhD students), postdoctoral researchers, junior level researchers in either public or private research institutes, and untenured faculty within 7 years of their Ph.D. If you are an undergraduate student with substantial research experience, you are encouraged to apply. We also receive applications from incoming PhD students. We welcome applicants from all backgrounds and fields of study, especially those currently under-represented groups in computational social science. About fifteen participants will be invited, and participants are expected to fully attend and participate in the entire two-week program held at KAIST.
