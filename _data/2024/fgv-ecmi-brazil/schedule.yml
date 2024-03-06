@@ -1,0 +1,111 @@
+- date: All times are in Brazilian (Brasilia - Federal District) Time.
+  name: We intend to run our partner edition mostly in Portuguese. 
+
+
+- date: 2023-07-03
+  name: Introduction and Ethics
+  events:
+    - name: "Zoom [link](https://ide-fgv-br.zoom.us/j/98880727988?pwd=RTl0eFp5M05tbFJQcXFqZ3dwNmtWQT09)"
+    - name: "10:00 - 11:00 Introduction and logistics"
+    - name: "11:00 - 12:00 Small group discussions [Lesson plan](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small_group_discussions.md)"
+    - name: "12:00 - 12:30 Break"
+    - name: "12:30 - 1:30 Small group lunches (optional)"
+    - name: "1:30  - 1:45 Introduction to the group exercise  [Lesson Instructions](https://docs.google.com/document/d/1AC0ttaCki4vkM1th9lJrQIpIHS9kJ6sf7IB2CRTwoiI/edit?usp=drive_link)"
+    - name: "1:45  - 3:45 Small group discussion of the cases"
+    - name: "3:45  - 4:45 Workshop: Introduction to writing queries, Dalby Hubert (FGV ECMI-DAPP)"
+    - name: "4:45  - 5:00 End of the Day + Daily Survey"    
+
+- date: 2023-07-04
+  name: Collecting Digital Trace Data 
+  events:
+    - name: "Zoom [link](https://ide-fgv-br.zoom.us/j/98880727988?pwd=RTl0eFp5M05tbFJQcXFqZ3dwNmtWQT09)"
+    - name: "10:00 - 10:15 Logistics and introduction to group exercise"
+    - name: "10:15 - 11:30 Designing a Research Question (Small Groups) [Lesson Instructions](https://docs.google.com/document/d/1BiUKSNmSIsoYaQLOa0I1Zr1XXokKyfhSTblk7A48XIc/edit?usp=drive_link)"
+    - name: "11:30 - 12:00 Phase 1: Discussing the Research Questions and Data (Everybody)"
+    - name: "12:00 - 12:30 Break"
+    - name: "12:30 - 1:00 Small group lunches (optional)"
+    - name: "1:00 - 1:15 Break"
+    - name: "1:15 - 2:30 Phase 2: Discussing Strengths & Benefits plus Hybrid Designs with Digital Trace Data (Small Groups)"
+    - name: "2:30 - 3:30 Discussing Strengths & Benefits plus Hybrid Designs"
+    - name: "3:30 - 3:45 Debrief and logistics"
+    - name: "3:45 - 4:00 Break"
+    - name: "4:00 - 5:00 GUEST-SPEAKER: **Leonardo Nascimento**"
+
+
+
+- date: 2023-07-05
+  name:  Automated Text Analysis
+  events:
+    - name: "Zoom [link](https://ide-fgv-br.zoom.us/j/98880727988?pwd=RTl0eFp5M05tbFJQcXFqZ3dwNmtWQT09)"
+    - name: "10:00 - 10:15 Logistics and introduction to group exercise"
+    - name: "10:15 - 11:30 Workshop: Modern NLP Techniques, Lucas Roberto (FGV DAPP)"
+    - name: "11:30 - 12:00 Break"
+    - name: "12:00 - 1:00 Small group lunches (optional)"
+    - name: "1:00 - 1:15 Break"
+    - name: "1:15 - 3:00 Text Analysis Group Exercise (Small Group) [Lesson Instructions](https://docs.google.com/document/d/1eOnBWhgTdvjPZA9V8RwcCR9UF_yVROM8ip-rBbq_yoM/edit?usp=drive_link)"
+    - name: "3:30 - 4:00 Debrief and logistics"
+    - name: "4:00 - 5:00 GUEST-SPEAKER: **Guilhermer Felitti**"
+
+    
+- date: 2023-07-06
+  name: Surveys in the Digital Age
+  events:
+    - name: "Zoom [link](https://ide-fgv-br.zoom.us/j/98880727988?pwd=RTl0eFp5M05tbFJQcXFqZ3dwNmtWQT09)"
+    - name: "10:00 - 10:15 Introduction to the group exercise  [Lesson Instructions](https://docs.google.com/document/d/1b6qpAAyWkzclEQH1cGoYc_JvyfHAA9Tz5dOFGXYym-E/edit?usp=drive_link)"
+    - name: "10:15 - 11:15 Tutorial on Facebook Ads"
+    - name: "11:15 - 12:30 Group Exercise with Facebook Ads"
+    - name: "12:30 - 1:30 Small group lunches (optional)"
+    - name: "1:30 - 1:45 Break"
+    - name: "1:45 - 3:00 Afternoon group exercise"
+    - name: "3:00 - 3:15 Break"
+    - name: "3:15 - 3:30 Whole group debrief about group exercise"
+    - name: "3:30 - 3:45 Debrief and logistics"
+
+
+- date: 2023-07-07
+  name: Research Speed Dating 
+  events:    
+    - name: "Zoom [link](https://ide-fgv-br.zoom.us/j/98880727988?pwd=RTl0eFp5M05tbFJQcXFqZ3dwNmtWQT09)"
+    - name: "10:00 - 10:30 Research Speed Dating Logistics [Slides for Instructors](https://tiagoventura.github.io/sicss_presentation/slides-research-speed-dating#1)"
+    - name: "10:30 - 12:00 Research Speed Dating Maximally Similar Groups"
+    - name: "12:00 - 12:15 Break"
+    - name: "12:15 - 1:30 Small group lunches (optional)"
+    - name: "1:30 - 1:45 Break"
+    - name: "1:45 - 2:00 Instructions"
+    - name: "1:45 - 3:15 Research Speed Dating Maximally Dissimilar Groups"
+    - name: "3:15 - 3:45 Group Debrief (join research teams)"
+
+
+- date: 2023-07-08
+  name: Day off
+
+- date: 2023-07-09
+  name: Day off
+  
+- date: 2023-07-10
+  name: Work on Group Projects 
+  events:
+    - name: "Zoom [link](https://ide-fgv-br.zoom.us/j/98880727988?pwd=RTl0eFp5M05tbFJQcXFqZ3dwNmtWQT09)"
+    - name: "All-day: group projects"
+
+- date: 2023-07-11
+  name: Work on Group Projects + Guest-Speaker
+  events:
+    - name: "Zoom [link](https://ide-fgv-br.zoom.us/j/98880727988?pwd=RTl0eFp5M05tbFJQcXFqZ3dwNmtWQT09)"
+    - name: "14:00 - 16:00 group projects"
+    - name: "16:00 - 17:00: GUEST-SPEAKER: **Tai Nalon**"
+
+
+- date: 2023-07-12
+  name: Work on group projects (optional)
+  events:
+    - name: "Zoom [link](https://ide-fgv-br.zoom.us/j/98880727988?pwd=RTl0eFp5M05tbFJQcXFqZ3dwNmtWQT09)"
+    - name: "All-day: group projects"
+
+
+- date: 2023-07-13
+  name: Work on group projects + Final Presentation
+  events:
+    - name: "Zoom [link](https://ide-fgv-br.zoom.us/j/98880727988?pwd=RTl0eFp5M05tbFJQcXFqZ3dwNmtWQT09)"
+    - name: "10:00 - 12:00: Office Hours"
+    - name: "14:00 - 4:00: Present group projects"

@@ -1,0 +1,10 @@
+- name: Apply
+  url: "apply"
+- name: Pre-arrival
+  url: "pre_arrival"
+- name: Programme
+  url: "programme"
+- name: People
+  url: "people"
+- name: Schedule & Materials
+  url: "schedule"

@@ -1,0 +1,138 @@
+---
+format:
+  revealjs:
+    logo: "https://cms-cdn.lmu.de/assets/img/Logo_LMU.svg"
+    footer: "[Advanced Text Analysis - SICSS-Munich 2023 - Valerie Hase](https://github.com/valeriehase)"
+    center-title-slide: false
+    theme: ["theme/q-theme.scss"]
+    code-fold: show
+    code-copy: true
+    self-contained: true
+    number-sections: false
+    smaller: true
+    highlight-style: atom-one
+    preview-links: auto
+    progress: true
+execute:
+  echo: true
+bibliography: "references/references.bib"
+csl: references/apa.csl
+---
+
+<h1>Advanced Text Analysis</h1>
+
+<h2>SICSS-Munich, Day 4</h2>
+
+<hr>
+
+Session 1️⃣: Logistics
+
+Valerie Hase (LMU Munich)
+
+`r fontawesome::fa("github", "black")`
+[github.com/valeriehase](https://github.com/valeriehase)
+
+`r fontawesome::fa("globe", "black")`
+[valerie-hase.com](https://valerie-hase.com/)
+
+## Who are you?
+
+Hands up 🤚 if you...
+
+::: incremental
+-   have a background in social science
+
+-   have a background in computer science
+
+-   mostly work with R
+
+-   mostly work with Python
+
+-   have applied automated text analysis before yesterday
+
+-   ever used (word) embeddings
+:::
+
+## Who am I?
+
+-   Postdoc at LMU, Department of Communication (previously: University of Zurich, LSE)
+
+-   Focus:
+
+    -   Text-as-Data
+    -   Digital Trace Data
+    -   Digital Journalism
+    -   Crisis Communication
+
+-   More: `r fontawesome::fa("github", "black")` [github.com/valeriehase](https://github.com/valeriehase) & `r fontawesome::fa("globe", "black")` [valerie-hase.com](https://valerie-hase.com/)
+
+-   Shoutout 🙌 and a big thank you to today's teaching assistant **Renata Topinková**. More info on her here: `r fontawesome::fa("globe", "black")` [renatatopinkova.github.io](https://renatatopinkova.github.io/)
+
+## What will you learn today?
+
+-   Session 2️⃣: Going beyond bag of words: An introduction
+-   Session 3️⃣: Vector Space Models
+-   Session 4️⃣: Embeddings
+
+## What is the focus of this class?
+
+::: incremental
+-   ✅ Overview of approaches & tutorials📚
+-   ✅ Hands-on application `r fontawesome::fa("hand", "black")`
+-   ✅ Focus on `r fontawesome::fa("r", "black")`
+-   ❌: Underlying models & maths `r fontawesome::fa("calculator", "black")`
+-   ❌: Application in Python `r fontawesome::fa("python", "black")`
+:::
+
+## Schedule
+
+| Time ⏰       |                                                                                        |     |
+|-----------------|:-------------------------------------|-----------------|
+| 09:00 - 10:30 | 1️⃣: Logistics, 2️⃣: Going beyond bag of words: An introduction, 3️⃣: Vector Space Models |     |
+| 10:30 - 10:45 | Coffee break ☕                                                                        |     |
+| 10:45 - 12:15 | 4️⃣: Embeddings                                                                         |     |
+| 12:15 - 12:30 | Introduction to group exercise 🤝                                                      |     |
+| 12:30 - 13:30 | Lunch 🥗                                                                               |     |
+| 13:30 - 15:45 | Group exercise 🤝                                                                      |     |
+| 15:45 - 16:00 | Coffee break ☕                                                                        |     |
+| 16:00 - 17:30 | Talk by Stefanie Walter                                                                |     |
+
+## Access to material
+
+-   Github for lecture materials and datasets: [SICSS Munich Github - Day 4](https://github.com/compsocialscience/summer-institute/tree/master/2023/munich/materials/day4){target="_blank"}
+-   You can also download all materials at once using [this link](https://www.dropbox.com/scl/fo/gapow2zj9cvsvizx84wwb/h?rlkey=klxlis6jrx5g3fvpz0p90hs5c&dl=0)
+
+## Packages
+
+These are the packages that we will need today:
+
+```{r, eval = FALSE}
+install.packages(c("quanteda", "quanteda.textstats",
+                   "tidyverse", "devtools",
+                   "udpipe", "rsyntax",
+                   "lsa", "text2vec", 
+                   "irlba", "purrr",
+                   "ggplot2", "conText"))
+```
+
+In addition, we need to install the following unpublished package directly from Github:
+
+```{r, eval = FALSE}
+devtools::install_github("quanteda/quanteda.corpora")
+```
+
+## Literature recommendations
+
+Overview pieces by @grimmer_text_2022 and @jurafsky_speech_2023.
+
+![](figures/textasdata_book.png){fig-align="center" width="15%" fig.show="hold" fig-alt="Image of Book Cover Text as Data"}
+
+![](figures/speech_language_book.png){fig-align="center" width="15%" fig.show="hold" fig-alt="Image of Book Cover Speech and Language Processing"}
+
+## 
+
+::: {style="font-size: 400%;text-align:center;"}
+**Any questions?** 🤔
+:::
+
+# References

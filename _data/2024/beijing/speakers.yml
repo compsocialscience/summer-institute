@@ -1,0 +1,65 @@
+
+- name: Fang Luo
+  image: /assets/images/fangluo.jpg
+  bio: "Professor Fang Luo serves as the Deputy Dean and Professor at The Faculty of Psychology at Beijing Normal University, and she also holds positions as the Vice Chairman of the Educational Statistics and Measurement Branch of the China Educational Technology Association and Secretary-General of the Psychological and Educational Statistics and Measurement Branch of the Chinese Society of Education. She has long been engaged in interdisciplinary research between artificial intelligence and psychology. Her current research interests include the development of human-computer interaction tests combining artificial intelligence and psychometrics, process data mining, and the development and application of educational tests based on large models. She has published nearly 100 papers and received more than twenty grants from the National Natural Science Foundation of China and the Social Science Fund, among others."
+  website: 
+  
+- name: Matthew J. Salganik
+  image: /assets/images/salganik.jpg
+  bio: "Matthew Salganik is Professor of Sociology at Princeton University. He is also affiliated with several of Princeton's interdisciplinary research centers including the Office of Population Research and the Center for Statistics and Machine Learning. His research interests include social networks and computational social science. He is the author of Bit by Bit: Social Research in the Digital Age."
+  website: 
+
+- name: Xing Xie
+  image: /assets/images/Xing-Xie.jpg
+  bio: "Dr. Xing Xie is a senior principal researcher at Microsoft Research Asia and a part-time doctoral supervisor at the University of Science and Technology of China. He leads a research team dedicated to data mining, social computing, and responsible artificial intelligence. His academic achievements include receiving the ACM SIGSPATIAL 10-Year Impact Award and the China Computer Federation (CCF) Young Scientist Award in 2019, the ACM SIGSPATIAL 10-Year Impact Honorable Mention in 2020, the ACM SIGKDD China Test-of-Time Paper Award in 2021, the ACM SIGKDD Test-of-Time Paper Award in 2022, the IEEE MDM Test-of-Time Paper Award and the CCF Natural Science First Prize in 2023, and he was named a DeepTech Pioneer in China's Intelligent Computing Technology Innovation. He is a Fellow of the ACM, IEEE, and the China Computer Federation (CCF)."
+  website: 
+
+- name: Yankai Lin
+  image: /assets/images/yankailin.jpg
+  bio: "Yankai Lin is an appointed Assistant Professor at Renmin University of China, he obtained his Bachelor's and Ph.D. degrees from Tsinghua University in 2014 and 2019, respectively. After completing his doctorate, he served as a Senior Researcher at Tencent WeChat before joining Renmin University of China as an Assistant Professor in 2022. His primary research interests include pre-trained models and natural language processing. He has published over 40 papers at top international conferences in natural language processing and artificial intelligence, such as ACL, EMNLP, NAACL, AAAI, IJCAI, and NeurIPS, with more than 9,000 citations according to Google Scholar and an H-index of 27. Three of his representative works on structured knowledge of natural language processing were summarized in \"Methods for Structured Knowledge Representation Learning\" and received the First-Class Natural Science Award from the Ministry of Education. Additionally, his contributions to the field are evidenced by the open-source toolkits OpenKE and OpenNRE, which have garnered over 6,400 stars on Github, becoming mainstream tools in knowledge-driven natural language processing internationally. He has also served as an area chair for conferences like EMNLP and ACL ARR."
+  website: 
+
+- name: Xiting Wang
+  image: /assets/images/wangxiting1.jpg
+  bio: "Xiting Wang is an appointed assistant professor at Renmin University of China, graduated with a Bachelor's and Ph.D. from Tsinghua University, and formerly the lead researcher of the Social Computing Group at Microsoft Research Asia (MSRA). Her research interests lie in explainable and responsible artificial intelligence, with related research achievements implemented in Bing, the world's second-largest search engine. Two of her papers were selected as cover articles by the CCF-A category journal TVCG. She has been invited to serve as an area chair for IJCAI and AAAI, joined the IEEE VIS organizing committee as the archive chair, and serves on the editorial board of Visual Informatics. She was recognized as an Outstanding Senior Program Committee member at AAAI 2021. She has twice been invited to deliver keynote speeches at the SIGIR Workshop on Explainable Recommendation, and she is a senior member of both CCF and IEEE."
+  website: 
+
+- name: Lei Cao
+  image: /assets/images/leicao.jpg
+  bio: "Dr Lei Cao received his Ph.D. from the Department of Computer Science and Technology at Tsinghua University. He is a lecture at The Faculty of Psychology at Beijing Normal University. His research interests are in artificial intelligence and mental health, such as a method for detecting users' extreme mental states based on deep learning and real-time assessment of students' learning status in the classroom."
+  website: 
+
+- name: An Zeng
+  image: /assets/images/anzeng.jpg
+  bio: "An Zeng is a Full Professor in the School of Systems Science at Beijing Normal University. His  research combines statistical physics and computer science to exploit the opportunities and promises offered by Big Data. The tools of network science are employed to better understand and predict social interactions, human mobility, and research behavior. So far, Professor Zeng have published about 50 papers and received over 2000 citations."
+  website: 
+
+- name: Kondwani Kajera Mughogho
+  image: /assets/images/OIP1111.jpg
+  bio: "Kondwani Kajera Mughogho joined the Psychometrics Centre in May 2023 as a Psychometrician. He holds a PhD in Educational Measurement from the University of Oslo. Prior to joining the Psychometrics Centre, Kondwani worked as a Psychometrician at the National Foundation for Educational Research (NFER). He was a member of the team responsible for conducting psychometric analysis on the Office of Qualifications and Examinations Regulation’s (Ofqual’s) National Reference Test (NRT). Additionally, Kondwani contributed to psychometric analysis for NFER's new e-Assessments, evaluated various questionnaires and research instruments, and reviewed and updated technical reports."
+  website: 
+
+- name: Luning Sun
+  image: /assets/images/Luning-Sun.png
+  bio: "Dr Luning Sun is Research Director of The Psychometrics Centre and Research Associate in the Organisational Behaviour subject group at the Cambridge Judge Business School. He received his PhD in psychometrics from the Department of Psychology, University of Cambridge in 2014. Dr Sun is a highly experienced psychometrician and researcher, having led many international research collaborations to advance the field of psychological and behavioural measurement. His research focuses on the new forms of assessment that are enabled by the advancements in psychometric theories and techniques. He is also interested in the evaluation of AI systems such as Large Language Models."
+  website: 
+
+- name: Diyi Yang
+  image: /assets/images/DiyiYang.jpg
+  bio: "Diyi Yang is an assistant professor in the Department of Computer Science at Stanford University, her research interests include natural language processing, machine learning, and computational sociolinguistics, with a focus on computational social science and natural language processing. She is dedicated to combining NLP, machine learning, and social sciences to study how humans use language in social contexts and to develop advanced language technologies to facilitate better human-computer interaction. Her work includes the novel integration of artificial intelligence technologies and social science theories. She has been recognized in Forbes' \"30 Under 30 in Science\" in 2020, IEEE's \"Top 10 AI Rising Stars\" in 2020, MIT Technology Review's \"Innovators Under 35\" in China in 2021, and as an outstanding student in the \"Top-notch Student Training Program in Basic Disciplines 2.0\" by the Ministry of Education in 2021."
+  website: 
+
+- name: David Stillwell
+  image: /assets/images/David-Stillwell.jpg
+  bio: " Prof David Stillwell is Academic Director of The Psychometrics Centre at the University of Cambridge. He is also Professor of Computational Social Science and Deputy Director of the MBA programme at the Cambridge Judge Business School. He earned his PhD in Decision Making from the School of Psychology at the University of Nottingham in December 2012. His research interests include psychometrics, psychology, decision-making, and social networks. Prof Stillwell uses big data to understand psychology, and also does consultancy on the topics of psychometrics, and people analytics. His research has been cited by many governments’ national data protection regulators worldwide."
+  website: 
+
+- name: José Hernández-Orallo
+  image: /assets/images/Jose-Hernandez-Orallo.jpg
+  bio: " José Hernández-Orallo is Professor at the Universitat Politècnica de València, Spain and Senior Research Fellow at the Leverhulme Centre for the Future of Intelligence, University of Cambridge, UK. His academic and research activities have spanned several areas of artificial intelligence, machine learning, data science and intelligence measurement, with a focus on a more insightful analysis of the capabilities, generality, progress, impact and risks of artificial intelligence. He has published five books and more than two hundred journal articles and conference papers on these topics. He is a member of AAAI, CLAIRE and ELLIS, and a EurAI Fellow."
+  website: 
+
+- name: Yong Li
+  image: /assets/images/liyong.jpg
+  bio: "Yong Li is an associate professor and Ph.D. supervisor in the Department of Electronic Engineering at Tsinghua University. He has long been engaged in research in data science and intelligence, serving as the principal investigator for key projects funded by the National Natural Science Foundation and national key R&D programs. His research has resulted in over 150 academic papers published in international conferences and journals such as KDD, NeurIPS, WWW, and UbiComp, with more than 16,000 citations, and has won Best Paper/Nomination awards at international conferences six times. He has been recognized as a Ministry of Education Chang Jiang Scholars Program, a global \"Highly Cited Researcher\", and a national \"Ten Thousand Talent Program\" young top-notch talent. He has received the IEEE ComSoc Asia-Pacific Outstanding Young Researcher Award, the Ministry of Education's First Prize for Scientific and Technological Progress, the Second Prize of the Natural Science Award from the Chinese Institute of Electronics, and the Wu Wenjun AI Excellence Award for Young Scientists."
+  website: 

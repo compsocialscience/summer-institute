@@ -1,0 +1,34 @@
+- date: All times are in Eastern Daylight Time. 
+  name: The schedule will run during business hours.
+  events:
+    - name: Specific schedule details subject to change.
+
+- date: June 17, 2024
+  name: Introduction and Ethics 
+ 
+- date: June 18, 2024
+  name: Digital Trace Data
+
+- date: June 19, 2024
+  name: Text as Data 
+
+- date: June 20, 2024
+  name: Machine Learning
+    
+- date: June 21, 2024
+  name: Digial Surveys and Experiments
+
+- date: June 24, 2024
+  name: Group Formation
+
+- date: June 25, 2024
+  name: Group work day
+
+- date: June 26, 2024
+  name: Group work day
+
+- date: June 27, 2024
+  name: Group work day
+
+- date: June 28, 2024
+  name: Group Presentations

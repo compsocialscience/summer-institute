@@ -1,14 +1,66 @@
+- name: Vissého Adjiwanou
+  image: /assets/images/vissehonew.png
+  bio: "Vissého Adjiwanou is a professor of Demography and quantitative and computational methods in the Department of Sociology at the Université du Québec à Montréal (UQAM), and adjunct professor at the Department of Demography (Université de Montréal). He is the director of the Laboratoire de recherche sur les dynamiques des populations d’Afrique et de sa diaspora (https://ssapoplab.uqam.ca/). He received an M.A in Statistics from the National School of Statistics and Applied Economics (ENSEA-Cote d’Ivoire), an M.A in Economics of Development at the Centre for Studies and Research on International Development (CERDI- France) and a PhD in Demography from the Université de Montréal (Canada). His research focusses on population issues in sub-Saharan Africa and in Canada, including family dynamics, integration of immigrants and reproductive health. Vissého Adjiwanou has convened sites of SICSS in Cape Town (2018, 2019) and in Montréal (2020, 2021, 2023). "
+
+- name: Kat Albrecht
+  image: /assets/images/albrecht-headshot.jpg
+  bio: "Kat Albrecht is an Assistant Professor at Georgia State University in the Andrew Young School of Policy Studies and a Judicial Innovation Fellow at Georgetown Law School. She is a computationally trained legal scholar and social scientist studying how complex data can inform policy with particular emphasis on the nexus between criminal data, fear, and regulation. She is on the data engineering team of the Systematic Content Analysis of Litigation EventS Open Knowledge Network (SCALES OKN), an NSF Convergence Accelerator Project building an AI powered data platform that makes court records public and analyzable. She has convened sites of SICSS since 2018 including SICSS Chicago, SICSS Atlanta, and SICSS South Florida."
+
+- name: Joshua Becker
+  image: /assets/images/HeadshotSmall.png
+  bio: "Joshua Becker is an Assistant Professor at the UCL School of Management researching collective intelligence with an emphasis on group decision-making. Their research has been published in outlets including Science, Management Science, and Harvard Business Review.  Joshua has worked professionally in mediation and communication training and has completed hundreds of mediation sessions.  Joshua received a PhD in communication from the University of Pennsylvania and received a BA in philosophy and history of science at St. John's College, Annapolis."
+
+- name: Jennie Brand
+  image: /assets/images/jennie2.2.jpg
+  bio: "Jennie E. Brand is Professor of Sociology and Statistics at UCLA, where she is also Co-Director of the Center for Social Statistics. She studies social stratification and inequality, mobility, social demography, education, and causal inference and machine learning methods. She is President of the Association of Population Centers, Vice-President of the International Sociological Association Research Committee on Social Stratification and Mobility (RC28), a member of the Board of Directors for the Population Association of America, and a member of the Technical Review Committee for the National Longitudinal Surveys Program at the Bureau of Labor Statistics. She was elected to the Sociological Research Association in 2019 and received the American Sociological Association Methodology Leo Goodman Mid-Career Award in 2016. She has served as the Faculty Organizer for SICSS at UCLA in 2019, 2020, 2021, and 2023."
+
+- name: Chris Callison Burch
+  image: /assets/images/callison-burch-headshot.jpg
+  bio: "Chris Callison-Burch is Associate Professor of Computer and Information Science at the University of Pennsylvania, with expertise in natural language processing and crowdsourcing. He has more than 100 publications,  served on the editorial boards of the journals Transactions of the ACL (TACL) and Computational Linguistics, and received faculty research awards from Google, Microsoft, Amazon, the Sloan Foundation, and DARPA, among others."
+
 - name: Munmun de Choudhury
   image: /assets/images/munmundechoudhury.jpg
   bio: "Munmun De Choudhury is an Associate Professor of Computer Science at the School of Interactive Computing at the Georgia Institute of Technology. She employs computational methods to study mental health and psychological well-being using data from social media sites and other digital sources. Her research has appeared in leading journals and conferences, supported by the National Science Foundation and the National Institutes of Health, and distinguished by awards from multiple leading scholarly associations."
+
+- name: Naniette H. Coleman
+  image: /assets/images/naniette_coleman.jpg
+  bio: "Naniette H. Coleman is a PhD candidate in Sociology at the University of California Berkeley and a multi-year UC-National Laboratory Graduate Fellow (Los Alamos). Her work sits at the intersection of the sociology of culture and organizations and focuses on cybersecurity, surveillance, and privacy in the US context. Specifically, Naniette examines how organizations assess risk, make decisions, and respond to data breaches and requirements for organizational compliance with state, federal, and international privacy laws. Naniette is a SICSS-Princeton 2019 alum and the founder of SICSS-Howard/Mathematica, the first and only summer institute at a Historically Black College or University." 
+
+- name: Thomas R. Davidson
+  image: /assets/images/thomasDavidson.jpg
+  bio: "Thomas R. Davidson is an Assistant Professor of Sociology at Rutgers University - New Brunswick. He studies far-right activism, populist politics, and online hate speech using a variety of computational methods. He is a SICSS-Princeton alum and co-led the first WICSS at the University of Arizona in 2021."
 
 - name: Deen Freelon
   image: /assets/images/deen2.jpg
   bio: "Deen Freelon is an Associate Professor in the School of Media and Journalism at the University of North Carolina, Chapel Hill. He studies political communication using computational methods applied to datasets from Twitter and other digital platforms. His research has been published in prestigious journals such as Science, supported by the Knight Foundation, and distinguished by leading professional associations."
 
+- name: Ridhi Kashyap
+  image: /assets/images/ridhik.jpg
+  bio: "Ridhi Kashyap is Professor of Demography and Computational Social Science in the Department of Sociology and Nuffield College at the University of Oxford. She is also affiliated with Oxford’s Leverhulme Centre for Demographic Science. Her research spans different areas within demography, including mortality and population health, gender inequality, family and migration. A central interest of her research has been to leverage computational approaches for demographic research within the growing area of Digital and Computational Demography, and forge links between demography and a growing interdisciplinary community of computational social science. She is the PI of the Digital Gender Gaps project (www.digitalgendergaps.org), which seeks to map global digital gender inequalities and understand the impacts of digitalisation on global sustainable development and gender inequalities. She has co-organized multiple editions of SICSS-Oxford."
+
+- name: Jay Yeon Kim
+  image: /assets/images/profile_kim.jpg
+  bio: "Jae Yeon Kim is a senior data scientist at Code for America, where he contributes to team efforts to improve safety net experiences and outcomes. He is also a research fellow at the SNF Agora Institute and P3 Lab at Johns Hopkins University. Kim earned a Ph.D. in Political Science from UC Berkeley and received the best dissertation award in urban and local politics from the American Political Science Association. Since 2020, he has been working on the Mapping Modern Agora project, which is being incubated at the SNF Agora Institute. This project utilizes big data and machine learning to map civil society in the United States at scale. Kim's research has been published or is forthcoming in many top journals, including Nature Human Behaviour and Scientific Data, among others."
+
+- name: Katherine McCabe
+  image: /assets/images/mccabekt.jpg
+  bio: "Katherine McCabe is an associate professor of political science at Rutgers University. She applies computational methods to study political psychology, communication, and behavior in American politics. Her work seeks to understand how people’s social identities, attitudes, and personal experiences shape and complicate the ways they engage in politics and make political decisions. She is a SICSS-Princeton alum and co-organizer of SICSS-Rutgers."
+
 - name: Sendhil Mullainathan
   image: /assets/images/sendhil.jpg
   bio: "Sendhil Mullainathan is the Romans Family Professor of Computation and Behavioral Science at the University of Chicago. A MacArthur “Genius” Fellow, his research examines how machine learning can be used to improve social policies— especially those related to medicine— and uncover biomedical insights from large-scale health data."
+
+- name: Matti Nelimarkka
+  image: /assets/images/matti.jpg
+  bio: "Matti Nelimarkka leads the Helsinki Social Computing Group, an interdisciplinary group examining both computers and society. They explore digital democracy and politics in the digital era as well as computational techniques in social sciences, especially workflows and connections between social science theories and code. He is affiliated with the Faculty of Social Science, University of Helsinki, Department of Computer Science, Aalto University and Futurice, a Finnish software consultancy."
+
+- name: Emmanuel Ọlámíjùwọ́n
+  image: /assets/images/eolamijuwon_sicss.jpg
+  bio: "Emmanuel Ọlámíjùwọ́n  is a Lecturer (Assistant Professor) in Data Literacy at the University of St Andrews. His current interdisciplinary research focuses on the drivers of social inequalities (online + offline) and how they shape population health, particularly in sub-Saharan Africa. He is driven to find more accessible ways to communicate with data and share data science skills."
+
+- name: Étienne Ollion
+  image: /assets/images/Etienne.png
+  bio: "Étienne Ollion is Professor of Sociology at l'École polytechnique and a Research Director at CNRS in Paris, where he leads the CSS initiative. His research focuses on contemporary politics. Methodologically, he integrates computational social sciences (massive digital data and AI) with more classic data sources and methods. He has been teaching computational sciences in the last 10 years, and has convened SICSS-Paris twice."
 
 - name: Jennifer Pan
   image: /assets/images/JenniferPan.jpg
@@ -18,15 +70,20 @@
   image: /assets/images/matt.gif
   bio: "Matthew Salganik is Professor of Sociology at Princeton University, and he is affiliated with several of Princeton's interdisciplinary research centers: the Office of Population Research, the Center for Information Technology Policy, the Center for Health and Wellbeing, and the Center for Statistics and Machine Learning. His research interests include social networks and computational social science. He is the author of the forthcoming book *Bit by Bit: Social Research in the Digital Age.*."
 
+- name: malebo sephodi
+  image: /assets/images/malebo.jpg
+  bio: "malebo sephodi (she/they) is a South African Feminist writer and interdisciplinary scholar. She is associated with Tayarisha, a centre for digital governance based at Wits School of Governance; Johannesburg Institute for Advanced Study and the Institute for Pan African Thought and Conversation- both based at the University of Johannesburg and Centre for IT and National Development in Africa (based at the University of Cape Town). She organises postgraduate research support seminars for various African university students. She is a doctoral candidate in the Information Systems Department at the University of Cape Town and is interested in the intersections of society and digital technology. She has organised two SICSS locations."
+
 - name: Duncan Watts
   image: /assets/images/duncan.jpg
   bio: "Duncan Watts is the Stevens University Professor at the University of Pennsylvania, where he is also professor of Computer and Information Science (SEAS), Communications (Annenberg), and Operations, Information, and Decisions (Wharton). Watts is a founding figure in the field of computational social science. His work in social network theory, collective dynamics, and diffusion models has been cited more than 100,000 times."
 
-- name: Chris Callison Burch
-  image: /assets/images/callison-burch-headshot.jpg
-  bio: "Chris Callison-Burch is Associate Professor of Computer and Information Science at the University of Pennsylvania, with expertise in natural language processing and crowdsourcing. He has more than 100 publications,  served on the editorial boards of the journals Transactions of the ACL (TACL) and Computational Linguistics, and received faculty research awards from Google, Microsoft, Amazon, the Sloan Foundation, and DARPA, among others."
+- name: Akın Ünver
+  image: /assets/images/ULAS4310.jpg
+  bio: "Akın Ünver is an associate professor of international relations at Ozyegin University in Istanbul, Turkey. His research interests lie at the intersection of organized violence and computational research methods. He serves as an associate editor of the Global Studies Quarterly, and a fellow of Carnegie's Digital Democracy Network. "
 
-- name: "Naniette H. Coleman"
-  image: /assets/images/naniette_coleman.jpg
-  bio: "Naniette H. Coleman is a PhD candidate in Sociology at the University of California Berkeley and a multi-year UC-National Laboratory Graduate Fellow (Los Alamos). Her work sits at the intersection of the sociology of culture and organizations and focuses on cybersecurity, surveillance, and privacy in the US context. Specifically, Naniette examines how organizations assess risk, make decisions, and respond to data breaches and requirements for organizational compliance with state, federal, and international privacy laws. Naniette is a SICSS-Princeton 2019 alum and the founder of SICSS-Howard/Mathematica, the first and only summer institute at a Historically Black College or University." 
+- name: Mike Yeomans
+  image: /assets/images/mikeface.jpg
+  bio: "Michael Yeomans is an Assistant Professor in Strategy and Organisational Behaviour at Imperial College Business School.  His research uses natural language processing to study conversational decision-making. His work shows how conversation technology can help us understand our decisions with other people, and how to make them better. He has published in many esteemed journals, and is the author of several open-source software packages in the R language. He completed his PhD at the University of Chicago Booth School of Business. "
+
 

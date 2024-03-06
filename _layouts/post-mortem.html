@@ -1,0 +1,81 @@
+{% include setup_data.html %}
+<!-- {% include setup_locations_by_year.inc %} -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include header.html %}
+  </head>
+
+  {% comment %} {{ year.locations | find:"post_mortem" }} {% endcomment %}
+
+  <body class="sub-page">
+    {% include navbar.html %} {% include hero_secondary.html %}
+    <!-- Start content -->
+    <section>
+      <div class="container default">
+        <h2 class="page-title">POST-MORTEMS</h2>
+        <div class="accordion" id="accordionMenu">
+          {% for year in locations_by_year %}
+          <div id="post-mortem-container">
+            {% assign locations_with_post_mortems=false %} {% for year_location
+            in year.locations %} {% if year_location.post_mortem[0] %} {% assign
+            locations_with_post_mortems=true %} {% endif %} {% endfor %} {% if
+            locations_with_post_mortems %}
+            <ul
+              class="btn-collapse-toggle collapsed"
+              type="button"
+              data-toggle="collapse"
+              data-target="#collapse{{forloop.index}}"
+              aria-expanded="false"
+              aria-controls="collapse{{forloop.index}}"
+              id="post-mortem-year"
+            >
+              {{year.year}}
+              <span class="collapse-caret-black"></span>
+            </ul>
+            {%else%}
+            <ul
+              class="btn-collapse-toggle collapsed"
+              id="post-mortem-year-deactivated"
+            >
+              {{year.year}}
+              <span class="collapse-caret"></span>
+            </ul>
+            {%endif%}
+            <div
+              class="nav collapse"
+              id="collapse{{forloop.index}}"
+              aria-labelledby="{{forloop.index}}"
+              data-parent="#accordionMenu"
+            >
+              {% for year_location in year.locations %} {% assign campus =
+              year_location.location %} {% assign post_mortem =
+              year_location.post_mortem[0] %} {% if campus.title %} {% if
+              post_mortem.title %}
+              <li class="nav-item w-100">
+                <a
+                  class="nav-link"
+                  id="post-mortem-item"
+                  href="{{site.baseurl}}/{{campus.year}}/post-mortem#{{campus.link}}"
+                >
+                  {{campus.title}} {{post_mortem.title}}
+                </a>
+              </li>
+              <hr id="post-mortem-break" />
+              {% endif %} {% endif %} {% endfor %}
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+
+        <a
+          href="/in-the-news"
+          id="post-mortem-end-link"
+          class="mx-auto d-flex justify-content-center"
+          >SEE ALSO: SICSS - IN THE NEWS</a
+        >
+      </div>
+    </section>
+    {% include footer.html %}
+  </body>
+</html>

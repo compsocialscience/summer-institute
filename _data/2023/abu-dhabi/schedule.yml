@@ -1,49 +1,85 @@
 - date: 2024-01-08
-  name: Lecture
+  name: Biases & Ethics in CSS
   events:
-    - name: "10:00-18:00 Schedule coming soon!"
+    - name: "9:00-9:30	Welcome and Introductions"
+    - name: "9:30-12:00	Lecture: Biases and Ethical Considerations in the Lifecycle of CSS (with Minsu Park)"
+    - name: "12:00-13:30	Lunch Break"
+    - name: "13:30-17:00	Prompt Group Exercise (Introduction, Team Assignment, and Exercise Time)"
+    - name: "19:00-21:00	Welcome Dinner at the Torch Club"
 
 - date: 2024-01-09
-  name: Lecture
+  name: Automated Data Collection & Data Ownership
   events:
-    - name: "10:00-18:00 Schedule coming soon!"
+    - name: "9:00-12:00 Lecture: Automated Data Collection and Ownership (with Bedoor AlShebli)"
+    - name: "12:00-13:30 Lunch Break"
+    - name: "13:30-14:30: Lecture continued (with Bedoor AlShebli)"
+    - name: "14:30-17:00 Prompted Group Exercise"
 
 - date: 2024-01-10
-  name: Lecture
+  name: Causal Inference
   events:
-    - name: "10:00-18:00 Schedule coming soon!"
+    - name: "9:00-12:00 Lecture: Causal Inference (with Kinga Makovi)"
+    - name: "12:00-13:30 Lunch Break"
+    - name: "13:30-17:00 Prompted Group Exercise"
 
 - date: 2024-01-11
-  name: Lecture
+  name: Online Experiments & Guest Lecture
   events:
-    - name: "10:00-18:00 Schedule coming soon!"
+    - name: "9:00-11:00 Lecture: Online Platforms and Experiments (with Mario Molina)"
+    - name: "11:00-12:30 Guest Lecture: Milena Tsvetkova"
+    - name: "12:30-14:00 Lunch Break"
+    - name: "14:00-17:00 Prompted Group Exercise"
+    - name: "14:00-17:00 One-on-one Meetings with Milena Tsvetkova"
 
 - date: 2024-01-12
-  name: Lecture
+  name: Computational Demography
   events:
-    - name: "10:00-18:00 Schedule coming soon!"
+    - name: "9:00-12:00 Lecture: Online Data Sources and Computational Techniques to Study Demographic Dynamics and Socioeconomic Inequalities Globally (with Luca Maria Pesando)"
+    - name: "12:00-13:30 Lunch Break"
+    - name: "14:00-16:30 Presentations of the Prompt Group Exercise Reports"
+    - name: "16:30-17:00 Group Project Introduction "
 
 - date: 2024-01-15
-  name: Group Project
+  name: Group Project & Guest Lecture
   events:
-    - name: "10:00-18:00 Schedule coming soon!"
+    - name: "9:00-9:30 Group Project Idea Presentations - Lighting Round (5 mins each)"
+    - name: "9:45-11:00 Guest Lecture: Edmond Awad"
+    - name: "11:15-12:00 One-on-one Meetings with Edmond Awad (15 min slots)"
+    - name: "11:15-12:00 Group Project"
+    - name: "12:00-13:30 Lunch Break"
+    - name: "13:45-16:00 One-on-one Meetings with Edmond Awad (cntd)"
+    - name: "13:30-17:00 Group Project"
 
-- date: 2024-01-15
+- date: 2024-01-16
   name: Group Project
   events:
-    - name: "10:00-18:00 Schedule coming soon!"
+    - name: "9:00-12:00 Group Project Advice Meetings with Edmond Awad (30 min slots / group)"
+    - name: "9:00-12:00 Group project"
+    - name: "12:00-13:30 Lunch Break"
+    - name: "13:30-17:00 Group Project"
 
-- date: 2024-01-15
+- date: 2024-01-17
   name: Group Project
   events:
-    - name: "10:00-18:00 Schedule coming soon!"
+    - name: "9:00-12:00 Group project"
+    - name: "12:00-13:30 Lunch Break"
+    - name: "13:30-17:00 Group Project"
 
-- date: 2024-01-15
-  name: Group Project
+- date: 2024-01-18
+  name: Group Project & Guest Lecture
   events:
-    - name: "10:00-18:00 Schedule coming soon!"
+    - name: "9:00-10:30 Guest Lecture: Abdullah AlMaatouq"
+    - name: "10:45-12:30 One-on-one Meetings with Abdullah AlMaatouq (15 min slots)"
+    - name: "10:45-12:30 Group Project"
+    - name: "12:30-14:00 Lunch Break"
+    - name: "14:00-15:00 One-on-one Meetings with Abdullah AlMaatouq (cntd)"
+    - name: "14:00-17:00 Group Project"
 
-- date: 2024-01-15
+- date: 2024-01-19
   name: Group Project
   events:
-    - name: "10:00-18:00 Schedule coming soon!"
+    - name: "9:00-12:00 Group Project Advice Meetings with Abdullah AlMaatouq (30 min slots / group)"
+    - name: "9:00-12:00 Group project"
+    - name: "12:00-13:30 Lunch Break"
+    - name: "13:30-17:00 Group Project Final Presentations"
+    - name: "19:00-22:00 Farewell Dinner at AlMayass"
