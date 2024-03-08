@@ -1,12 +1,3 @@
-- name: Amaro Grassi
-  image: /assets/images/amarograssi.jpg
-  bio: "Amaro Grassi is a Project Coordinator at the School of Communication, Media and Information at Fundação Getulio Vargas (FGV ECMI). He is a PhD candidate in Political Science at the Institute of Social and Political Studies at the University of the State of Rio de Janeiro (IESP-UERJ), a Master in Sociology at the same institution, and has a major in Social Sciences at UFRGS."
-  website: 
-  
-- name: Dalby Dienstbach
-  image: /assets/images/dalby_dienstbach_2.png
-  bio: "Dalby Dienstbach has a PhD in Linguistics at the Fluminense Federal University (UFF), a professor at FGV ECMI and a member of the research group on Communication, Society and Digital Media (FGV). He works academically and professionally in the fields of cognitive linguistics, corpus linguistics, computational linguistics and social network analysis."
-  
 - name: Danielle Sanches
   image: /assets/images/danielle_sanches.png
   bio: "Danielle Sanches is a professor at FGV ECMI and a PhD in History of Science at the École des Hautes Études en Sciences Sociales in cooperation with the Casa de Oswaldo Cruz/FioCruz. She currently works on Digital Methods, focusing on the influence of the algorithm culture on social practices."
@@ -15,19 +6,16 @@
   image: /assets/images/denisson_silva.jpg
   bio: "Denisson holds a PhD in Political Science (UFMG), a Master's degree in Sociology and is a Social Scientist (UFAL). He has experience in Political Science, working mainly on the following themes: political parties, party migration, electoral results, and campaign financing. Researcher at the Center for Legislative Studies (CEL/UFMG), the Citizenship and Public Policy Group (UFAL), and research fellow at EMCI-FGV."
   website: https:denissonsilva.com
-  
-- name: Lucas Roberto
-  image: /assets/images/lucas.png
-  bio: "Lucas Roberto da Silva is a professor and researcher at the School of Communication, Media and Information at Fundação Getulio Vargas (FGV ECMI), where he works on data extraction and analysis of social networks. He has a major in Mathematics at the Fluminense Federal University (UFF) and is a Master in Computer Science at the Department of Informatics in PUC-Rio. His main lines of research are Analysis of Social Networks and Natural Language Processing."  
-  
+
+- name: Maria Sirleidy Cordeiro
+  image: /assets/images/maria_sirleidy_2_1.png
+  bio: "Maria Sirleidy Cordeiro is a PhD and Master in Linguistics at the Federal University of Pernambuco (UFPE). She completed part of her PhD program in Portugal at the Universidade Católica Portuguesa (UCP). She is a professor at FGV ECMI and a member of the research group on Communication, Society and Digital Media (FGV). She works in the areas of cognitive linguistics, critical discourse analysis and public policy analysis, investigating processes of meaning, ideologies and power relations imbricated in text and discourse."
+
+- name: Paulo Fonseca
+  image: /assets/images/paulo_fonseca.png
+  bio: "Dr. Fonseca, with a Ph.D. in Sociology focusing on the Social Impacts of Science and Technology, began his academic career with a Bachelor's in Physics, laying the groundwork for his interdisciplinary approach. He is an Associate Professor at the Federal University of Bahia (UFBA), within the Institute of Science, Technology, and Innovation (ICTI), and a member of the Interdisciplinary Graduate Program in Culture and Society. His experience includes a Postdoctoral Research Fellowship in the Science, Technology, and Society (STS) program at Harvard University and a current role as a Visiting Professor at the School of Communication, Media, and Information of the Getulio Vargas Foundation (ECMI/FGV). His work intersects critical analysis of technological innovation with interdisciplinary research methodologies."
+
 - name: Polyana Barbosa
   image: /assets/images/poly.png
   bio: "Polyana Barboza is a professor working with data extraction and analysis on social networks at FGV ECMI. She has a major in Applied Mathematics at the School of Applied Mathematics of Fundação Getulio Vargas (FGV EMAp) and is a Master in Computer Science at the Pontifical Catholic University of Rio de Janeiro (PUC-Rio). Her main lines of research are Social Network Analysis in Digital Media and Multi-agent Systems in Software Engineering."
   
-- name: Sabrina Almeida
-  image: /assets/images/sabrina_almeida_0.png
-  bio: "Sabrina Almeida is a political scientist. She has a PhD in Political Science (UFMG) and is a researcher and professor at FGV ECMI. She studies political behavior with an emphasis on participation and political intolerance, as well as research methods on social networks."
- 
-- name: Victor Piaia
-  image: /assets/images/victor_piaia.png
-  bio: "Victor Piaia is a PhD in Sociology at the Institute of Social and Political Studies (IESP-UERJ). He is a professor at FGV ECMI and a member of the Study Group in Political Sociology and Digital Transformations and in Communication, Society and Digital Media. He studies the political effects of transformation in daily communication, focusing on social media platforms and messaging apps."
