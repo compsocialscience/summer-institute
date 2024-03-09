@@ -25,6 +25,6 @@ The instructional program will involve lectures, tutorials, and participant-led 
 
 Students will have ample opportunities to discuss their ideas and research with the organizers, TAs, other participants, and visiting speakers. We are hoping that the event will have a catalyzing effect on the research and teaching productivity of the participants. Since we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute will be released open source.
 
-**[Application materials](https://sicss.io/2024/rochester/apply) are due by Sunday, April 14th, 2024.**
+**[Application materials](https://sicss.io/2024/rochester/apply) are due by Sunday, April 7th, 2024.**
 
 Participation is restricted to advanced undergraduates, Master's students, PhD students, Postdoctoral researchers, and assistant professors (within 7 years of their PhD). We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. Participants are expected to fully attend and participate in the entire two-week program.
