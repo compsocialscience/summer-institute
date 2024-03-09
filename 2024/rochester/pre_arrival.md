@@ -17,7 +17,7 @@ Teaching assistants will host office hours through Slack to support you as you w
 
 ## Reading
 
-In order to prepare for SICSS-University of Rochester 2023, you should read Matt Salganik’s book, *[Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com)* ([Read online](https://www.bitbybitbook.com/en/1st-ed/preface/) or purchase from [Amazon](https://www.amazon.com/Bit-Social-Research-Digital-Age/dp/0691158649), [Barnes & Noble](https://www.barnesandnoble.com/w/bit-by-bit-matthew-salganik/1125483924), [IndieBound](https://www.indiebound.org/book/9780691158648), or [Princeton University Press](https://press.princeton.edu/books/paperback/9780691196107/bit-by-bit)). Parts of this book, which is a broad introduction to computational social science, will be review for most of you, but if we all read this book ahead of time, then we can use our time together for more advanced topics.
+In order to prepare for SICSS-University of Rochester 2024, you should read Matt Salganik’s book, *[Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com)* ([Read online](https://www.bitbybitbook.com/en/1st-ed/preface/) or purchase from [Amazon](https://www.amazon.com/Bit-Social-Research-Digital-Age/dp/0691158649), [Barnes & Noble](https://www.barnesandnoble.com/w/bit-by-bit-matthew-salganik/1125483924), [IndieBound](https://www.indiebound.org/book/9780691158648), or [Princeton University Press](https://press.princeton.edu/books/paperback/9780691196107/bit-by-bit)). Parts of this book, which is a broad introduction to computational social science, will be review for most of you, but if we all read this book ahead of time, then we can use our time together for more advanced topics.
 
 ## Coding Tutorial for Python
 
@@ -40,7 +40,7 @@ Please note that the majority of the coding work presented at SICSS-University o
 
 ## Lecture videos
 
-SICSS-University of Rochester 2023 will be using a [flipped classroom model](https://en.wikipedia.org/wiki/Flipped_classroom). Therefore, you should watch (some) [videos of lectures](https://sicss.io/curriculum) before our meetings, and then we will use our time together for discussion and group activities. More information will be provided later.
+SICSS-University of Rochester 2024 will be using a [flipped classroom model](https://en.wikipedia.org/wiki/Flipped_classroom). Therefore, you should watch (some) [videos of lectures](https://sicss.io/curriculum) before our meetings, and then we will use our time together for discussion and group activities. More information will be provided later.
 
 ## Computing environment
 
@@ -50,11 +50,11 @@ Some of the activities will require coding, and we will support Python and R. Yo
 
 ### Zoom
 
-SICSS-University of Rochester 2023 is, for the moment, an in-person event; nevertheless, we will use Zoom. You can join Zoom meetings using a phone or computer with a microphone and (ideally) a webcam. This [article](https://thewirecutter.com/blog/professional-video-call-from-home/) contains some helpful advice on how to set up your device and space to improve your Zoom experience. (Note: though the article recommends external microphones and webcams, we DO NOT recommend or require that you purchase any equipment to participate in SICSS. In our experience, the microphones and webcams built into most modern laptops and phones are perfectly sufficient).
+SICSS-University of Rochester 2024 is, for the moment, an in-person event; nevertheless, we will use Zoom. You can join Zoom meetings using a phone or computer with a microphone and (ideally) a webcam. This [article](https://thewirecutter.com/blog/professional-video-call-from-home/) contains some helpful advice on how to set up your device and space to improve your Zoom experience. (Note: though the article recommends external microphones and webcams, we DO NOT recommend or require that you purchase any equipment to participate in SICSS. In our experience, the microphones and webcams built into most modern laptops and phones are perfectly sufficient).
 
 ### Slack
 
-Before participating at SICSS-University of Rochester 2023, you should have an account in the SICSS 2023 Slack workspace. If you have not used Slack before, you should review these [getting started](https://slack.com/help/categories/360000049043-Getting-started) materials. Slack can be hard to use at first, but we've found that it is the best way to enable everyone to collaborate.
+Before participating at SICSS-University of Rochester 2024, you should have an account in the SICSS 2023 Slack workspace. If you have not used Slack before, you should review these [getting started](https://slack.com/help/categories/360000049043-Getting-started) materials. Slack can be hard to use at first, but we've found that it is the best way to enable everyone to collaborate.
 
 ### GitHub
 
@@ -62,4 +62,4 @@ Many participants at SICSS use GitHub to collaborate. If you do not yet have one
 
 ## Office hours
 
-The SICSS-University of Rochester 2023 [organizers](https://sicss.io/2022/rochester/people#teaching_assistants) will host office hours in the SICSS 2023 Slack. You can find information about the office hours in the SICSS 2023 Slack channel #pre-office-hours.
+The SICSS-University of Rochester 2024 will host office hours in-person. More information will be shared later.
