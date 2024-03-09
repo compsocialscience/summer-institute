@@ -5,7 +5,7 @@ main: true
 image: /assets/images/rochester.jpg
 ---
 
-University of Rochester is holding the 3rd chapter of SICSS in Rochester, NY! From May 14 to May 23, 2024, Goergen Instite for Data Science at the University of Rochester will sponsor the Summer Institute in Computational Social Science, to be held at the University of Rochester. University of Rochester is globally known for its academic strengh in political science and economics. Sessions and lectures are planned to take place in-person. 
+University of Rochester is holding the 3rd chapter of SICSS in Rochester, NY! From May 13 to May 24, 2024, Goergen Instite for Data Science at the University of Rochester will sponsor the Summer Institute in Computational Social Science, to be held at the University of Rochester. University of Rochester is globally known for its academic strengh in political science and economics. Sessions and lectures are planned to take place in-person. 
 
 The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
 
