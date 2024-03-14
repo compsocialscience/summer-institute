@@ -18,5 +18,5 @@ We will notify applicants via e-mail in mid-May, and will ask participants to co
 **SICSS-Chicago is generously supported by the Kellogg School of Management, Center for Science of Science & Innovation (CSSI), and Northwestern Institute on Complex Systems (NICO)**
 
 <a href="https://www.kellogg.northwestern.edu/" target="_"><img src="https://www.northwestern.edu/brand/images/Kellogg_horizontal_new.jpg" height="120px" style="padding:10px;"></a>
+<a href="https://www.kellogg.northwestern.edu/research/science-of-science.aspx" target="_"><img src="https://github.com/JiHaeChoi/summer-institute/assets/104242000/8d1b17d7-5182-4bd5-8993-41f43af1957c" height="120px" style="padding:10px;"></a>
 <a href="https://www.nico.northwestern.edu/" target="_"><img src="https://www.nico.northwestern.edu/images/news-events/conferences/nico-logo.png" height="120px" style="padding:10px;"></a>
-<a href="https://www.nico.northwestern.edu/" target="_"><img src="https://github.com/JiHaeChoi/summer-institute/assets/104242000/8d1b17d7-5182-4bd5-8993-41f43af1957c" height="120px" style="padding:10px;"></a>
