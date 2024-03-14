@@ -13,6 +13,6 @@ Participation is restricted to Ph.D. students, post-doctoral researchers, and un
 
 [Application materials](https://compsocialscience.github.io/summer-institute/2024/chicago/apply) are due by May 1st, 2024.
 
-We will notify applicants via e-mail in mid-May, and will ask participants to confirm their participation very soon thereafter. Inquiries can be sent to sicss2024@gmail.com
+We will notify applicants via e-mail in mid-May, and will ask participants to confirm their participation very soon thereafter. Inquiries can be sent to chicago.sicss@gmail.com
 
 **SICSS-Chicago is generously supported by the Kellogg School of Management, Center for Science of Science & Innovation (CSSI), and Northwestern Institute on Complex Systems (NICO)**
