@@ -26,7 +26,7 @@ Inquiries can be sent to chicago.sicss@gmail.com
 
 #### Can I apply to more than one Summer Institute location?
 
-Yes, but not at the same time. For example, you can apply to SICSS-Rochester, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.
+Yes, but not at the same time. For example, you can apply to SICSS-Chicago, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.
 
 #### Can I participate in SICSS-Chicago if I have already participated in SICSS at another location?
 
