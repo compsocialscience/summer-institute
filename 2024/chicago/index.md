@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: chicago
 main: true
-image: /assets/images/tbd.jpg
+image: /assets/images/2024-chicago-main-image.jpg
 ---
 
 From August 4 to August 8, 2024, the Department of Management and Organization at Kellogg School of Management, Northwestern University, Center for Science of Science & Innovation (CSSI), and Northwestern Institute on Complex System (NICO) will sponsor the Summer Institute in Computational Social Science, to be held at the Northwestern University. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
