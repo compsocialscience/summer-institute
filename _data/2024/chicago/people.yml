@@ -7,7 +7,7 @@ organizers:
       website: tbd
     
     - name: Ji Hae Choi
-      image: /assets/images/24-Chicago-JiHae.jpg
+      image: /assets/images/kr_Ji_Hae_Choi.png
       bio: "tbd"
       website: tbd
 
@@ -48,7 +48,12 @@ speakers:
       image: tbd
       bio: "tbd"
       website: https://www.kellogg.northwestern.edu/faculty/uzzi/htm/      
-
+    
+    - name: Rob Voigt
+      image: tbd
+      bio: "tbd"
+      website: https://faculty.wcas.northwestern.edu/robvoigt/  
+      
     - name: Dashun Wang
       image: tbd
       bio: "tbd"
@@ -57,10 +62,7 @@ speakers:
 participants: 
   title: Participants
   people:
-    - name: tbd
-      image: tbd
-      bio: "Please apply and join us!"
-      wegbsite: tbd
+    - name: "Please apply and join us!"
 
 suppoter:
   title: Event Supporter
