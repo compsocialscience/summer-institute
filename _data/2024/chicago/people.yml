@@ -13,7 +13,7 @@ organizers:
 
     - name: Yingdan Lu
       image: /assets/images/Yingdan_Lu_bio-photo.jpg
-      bio: "Yingdan Lu (PhD, Stanford University) is an Assistant Professor of Communication Studies in the School of Communication at Northwestern University. Her research focuses on digital technology, political communication, and information manipulation in authoritarian and democratic contexts. Her research employs both computational and qualitative methods to understand how authoritarian governments use digital media and artificial intelligence to maintain their rule, and how individuals experience visual media in different media environments. Her work has appeared in peer-reviewed journals such as Political Communication, New Media & Society, Human-Computer Interaction, Computational Communication Research, and among other peer-reviewed journals. For more information, see her website: [https://yingdanlu.com/](https://yingdanlu.com/)."
+      bio: "Yingdan Lu (PhD, Stanford University) is an Assistant Professor of Communication Studies in the School of Communication at Northwestern University. Her research focuses on digital technology, political communication, and information manipulation in authoritarian and democratic contexts. Her research employs both computational and qualitative methods to understand how authoritarian governments use digital media and artificial intelligence to maintain their rule, and how individuals experience visual media in different media environments. Her work has appeared in peer-reviewed journals such as Political Communication, New Media & Society, Human-Computer Interaction, Computational Communication Research, and among other peer-reviewed journals. For more information, see her website: https://yingdanlu.com/."
       website: https://yingdanlu.com/      
 
 speakers:
@@ -21,8 +21,8 @@ speakers:
   people:
     - name: Damon Centola
       image: /assets/images/24-chicago-speaker-centola.jpg
-      bio: "Damon Centola is the Elihu Katz Professor of Communication, Engineering and Sociology at the University of Pennsylvania where he is Director of the Network Dynamics Group and a Senior Fellow at the Leonard Davis Institute of Health Economics. His research centers on social networks and behavior change. Damon’s work has received numerous awards including the Goodman Prize for Outstanding Contribution to Sociological Methodology in 2011; the James Coleman Award for Outstanding Research in Rationality and Society in 2017; and the Harrison White Award for Outstanding Scholarly Book in 2019.  He was a developer of the NetLogo agent based modeling environment, and was awarded a U.S. Patent for inventing a method to promote diffusion in online networks. He is a member of the Sci Foo community and Fellow of the Center for Advanced Study in the Behavioral Sciences at Stanford University. His work has been funded by the National Science Foundation, the Robert Wood Johnson Foundation, Facebook, the National Institutes of Health, the James S. McDonnell Foundation, and the Hewlett Foundation. Popular accounts of Damon’s work have appeared in The New York Times, The Washington Post, The Wall Street Journal, Wired, TIME, The Atlantic, Scientific American and CNN, among other outlets.  His speaking and consulting clients include Amazon, Microsoft, Apple, Cigna, the Smithsonian Institution, the American Heart Association, General Motors, the National Academies, the U.S. Army and the NBA. He is a series editor for Princeton University Press, and the author of [How Behavior Spreads: The Science of Complex Contagions](https://press.princeton.edu/books/hardcover/9780691175317/how-behavior-spreads) (Princeton, 2018), and [Change: How to Make Big Things Happen](https://www.amazon.com/Change-How-Make-Things-Happen/dp/0316457337) (Little Brown, 2021)."
-      wegbsite: https://www.damoncentola.com/
+      bio: "Damon Centola is the Elihu Katz Professor of Communication, Engineering and Sociology at the University of Pennsylvania where he is Director of the Network Dynamics Group and a Senior Fellow at the Leonard Davis Institute of Health Economics. His research centers on social networks and behavior change. Damon’s work has received numerous awards including the Goodman Prize for Outstanding Contribution to Sociological Methodology in 2011; the James Coleman Award for Outstanding Research in Rationality and Society in 2017; and the Harrison White Award for Outstanding Scholarly Book in 2019.  He was a developer of the NetLogo agent based modeling environment, and was awarded a U.S. Patent for inventing a method to promote diffusion in online networks. He is a member of the Sci Foo community and Fellow of the Center for Advanced Study in the Behavioral Sciences at Stanford University. His work has been funded by the National Science Foundation, the Robert Wood Johnson Foundation, Facebook, the National Institutes of Health, the James S. McDonnell Foundation, and the Hewlett Foundation. Popular accounts of Damon’s work have appeared in The New York Times, The Washington Post, The Wall Street Journal, Wired, TIME, The Atlantic, Scientific American and CNN, among other outlets.  His speaking and consulting clients include Amazon, Microsoft, Apple, Cigna, the Smithsonian Institution, the American Heart Association, General Motors, the National Academies, the U.S. Army and the NBA. He is a series editor for Princeton University Press, and the author of How Behavior Spreads: The Science of Complex Contagions (Princeton, 2018), and Change: How to Make Big Things Happen (Little Brown, 2021)."
+      website: https://www.damoncentola.com/
       
     - name: Solène M Delecourt
       image: /assets/images/24-chicago-speaker-delecourt.jpeg
@@ -32,27 +32,27 @@ speakers:
     - name: Matt Groh
       image: /assets/images/24-chicago-speaker-groh.jpg
       bio: "Matt Groh is a Donald P. Jacobs Scholar and Assistant Professor of Management and Organizations. His research examines the dynamics of human-AI collaboration in deepfake detection, medical diagnosis, and empathic communication. Professor Groh's research has been published in Proceedings on National Academy of Science (PNAS), Nature Medicine, Science, Computer Supported Collaborative Work (CSCW), Affective Computing and Intelligence Interactions (ACII), and Communications of the ACM among other journals and conferences. His work has been featured in the popular press including The New York Times, Wall Street Journal, Science, Scientific American, NPR, Le Monde, Aeon, and Fast Company. Professor Groh received his BA from Middlebury College with a major in economics and minors in mathematics and Arabic and received his MA and PhD in Media Arts and Sciences from MIT."
-      wegbsite: https://mattgroh.com/
+      website: https://mattgroh.com/
       
     - name: Manling Li
       image: tbd
       bio: "Manling Li is an assistant professor at the Computer Science department of Northwestern University and a postdoc at Stanford Vision and Learning Lab. She obtained her Ph.D. in Computer Science at University of Illinois Urbana-Champaign. At the core of her research in Knowledge Foundation Models, she aims to equip machines with factual knowledge extraction and reasoning from multimodal data (Language + X, where X can be images, videos, robotics, audio, etc). The ultimate goal of her research is to promote factuality and truthfulness in information access, through a structured knowledge view that is easily explainable, highly compositional, and capable of long-horizon reasoning. Her work on multimodal knowledge extraction won the ACL'20 Best Demo Paper Award, and the work on scientific information extraction from COVID literature won NAACL'21 Best Demo Paper Award. She was a recipient of Microsoft Research PhD Fellowship in 2021. She was selected as a DARPA Riser in 2022 (nominated by DARPA), and an EE CS Rising Star in 2022. She was awarded C.L. Dave and Jane W.S. Liu Award, and has been selected as a Mavis Future Faculty Fellow."
-      wegbsite: https://limanling.github.io/
+      website: https://limanling.github.io/
 
     - name: Sameer B Srivastava
       image: /assets/images/24-chicago-speaker-srivastava.jpg
       bio: "Sameer B. Srivastava is the Ewald T. Grether Professor of Business Administration and Public Policy at UC Berkeley's Haas School of Business and is also affiliated with UC Berkeley Sociology. His research uses computational methods to: (1) unpack the complex interrelationships between group culture, individual cognition, and interpersonal networks; and (2) examine how they jointly relate to individual attainment and organizational performance. He is Organizations Department Editor at Management Science and was previously a Senior Editor at Organization Science. Sameer co-directs the Berkeley Center for Workplace Culture and Innovation and the Berkeley-Stanford Computational Culture Lab. Sameer was previously a partner at a global management consultancy (Monitor Group; now Monitor Deloitte). He holds AB, AM, MBA, and PhD degrees from Harvard University."
-      wegbsite: https://faculty.haas.berkeley.edu/srivastava/
+      website: https://faculty.haas.berkeley.edu/srivastava/
       
     - name: Brian Uzzi
       image: tbd
       bio: "tbd"
-      wegbsite: https://www.kellogg.northwestern.edu/faculty/uzzi/htm/      
+      website: https://www.kellogg.northwestern.edu/faculty/uzzi/htm/      
 
     - name: Dashun Wang
       image: tbd
       bio: "tbd"
-      wegbsite: https://www.dashunwang.com/    
+      website: https://www.dashunwang.com/    
       
 participants: 
   title: Participants
