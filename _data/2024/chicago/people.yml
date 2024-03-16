@@ -2,14 +2,9 @@ organizers:
   title: Organizer
   people:
     - name: Binglu Wang
-      image: tbd
-      bio: "tbd"
-      website: tbd
     
     - name: Ji Hae Choi
       image: /assets/images/kr_Ji_Hae_Choi.png
-      bio: "tbd"
-      website: tbd
 
     - name: Yingdan Lu
       image: /assets/images/Yingdan_Lu_bio-photo.jpg
@@ -35,7 +30,7 @@ speakers:
       website: https://mattgroh.com/
       
     - name: Manling Li
-      image: tbd
+      image: /assets/images/24-chicago-speaker-li.jpeg
       bio: "Manling Li is an assistant professor at the Computer Science department of Northwestern University and a postdoc at Stanford Vision and Learning Lab. She obtained her Ph.D. in Computer Science at University of Illinois Urbana-Champaign. At the core of her research in Knowledge Foundation Models, she aims to equip machines with factual knowledge extraction and reasoning from multimodal data (Language + X, where X can be images, videos, robotics, audio, etc). The ultimate goal of her research is to promote factuality and truthfulness in information access, through a structured knowledge view that is easily explainable, highly compositional, and capable of long-horizon reasoning. Her work on multimodal knowledge extraction won the ACL'20 Best Demo Paper Award, and the work on scientific information extraction from COVID literature won NAACL'21 Best Demo Paper Award. She was a recipient of Microsoft Research PhD Fellowship in 2021. She was selected as a DARPA Riser in 2022 (nominated by DARPA), and an EE CS Rising Star in 2022. She was awarded C.L. Dave and Jane W.S. Liu Award, and has been selected as a Mavis Future Faculty Fellow."
       website: https://limanling.github.io/
 
@@ -45,18 +40,15 @@ speakers:
       website: https://faculty.haas.berkeley.edu/srivastava/
       
     - name: Brian Uzzi
-      image: tbd
-      bio: "tbd"
+      image: /assets/images/24-chicago-speaker-uzzi.jpeg
       website: https://www.kellogg.northwestern.edu/faculty/uzzi/htm/      
     
     - name: Rob Voigt
-      image: tbd
-      bio: "tbd"
+      image: /assets/images/24-chicago-speaker-voigt.png
       website: https://faculty.wcas.northwestern.edu/robvoigt/  
       
     - name: Dashun Wang
-      image: tbd
-      bio: "tbd"
+      image: /assets/images/24-chicago-speaker-wang.jpeg
       website: https://www.dashunwang.com/    
       
 participants: 
