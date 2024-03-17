@@ -41,14 +41,17 @@ speakers:
       
     - name: Brian Uzzi
       image: /assets/images/24-chicago-speaker-uzzi.jpeg
+      bio: "Brian Uzzi is the Richard L. Thomas Professor of Leadership at the Kellogg School of Management, Northwestern University.  He also co-directs the Northwestern Institute on Complex Systems (NICO), and holds professorships in Sociology and the McCormick School of Engineering. He has been on or visited the faculties of INSEAD, Chicago, Harvard, and Berkeley.  His work has received 17 teaching prizes and 15 scientific research prizes worldwide in the social, physical, and computer sciences. His research uses social network science and computational methods to explain outstanding human achievement. "
       website: https://www.kellogg.northwestern.edu/faculty/uzzi/htm/      
     
     - name: Rob Voigt
       image: /assets/images/24-chicago-speaker-voigt.png
+      bio: "Rob Voigt is an assistant professor of linguistics and computer science (by courtesy) at Northwestern University, where he directs the Linguistic Mechanisms Lab. He is interested in natural language processing, social meaning, sociophonetics and interactional variation, Chinese and Japanese linguistics, gesture and embodiment, and applications of linguistic research to social good. He is particularly interested in using computational methods to understand the linguistic mechanisms of social problems. Professor Voigt received his PhD in Linguistics from Stanford in 2019, where he was a postdoctoral scholar in Computer Science in 2020."
       website: https://faculty.wcas.northwestern.edu/robvoigt/  
       
     - name: Dashun Wang
       image: /assets/images/24-chicago-speaker-wang.jpeg
+      bio: "Dashun Wang is a Professor at the Kellogg School of Management and McCormick School of Engineering at Northwestern University. At Kellogg, he is the Founding Co-Director of the Ryan Institute on Complexity and the Founding Director of the Center for Science of Science and Innovation (CSSI). He is also a core faculty at the Northwestern Institute on Complex Systems (NICO). His current research focus is on Science of Science, a quest to turn the scientific methods and curiosities upon ourselves, hoping to use and develop tools from complexity sciences and artificial intelligence to broadly explore the opportunities for innovation and promises of prosperity offered by the recent data explosion in science. Dashun is a recipient of multiple awards for his research and teaching, including the AFOSR Young Investigator award, Poets & Quants Best 40 Under 40 Professors, Complex Systems Society’s Junior Scientific Award, the Erdos-Renyi Prize, Thinkers50 Radar, and more."
       website: https://www.dashunwang.com/    
       
 participants: 
