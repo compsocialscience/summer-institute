@@ -8,6 +8,7 @@ partner_site: odissei
 The Summer Institute will bring together people from many fields and backgrounds. In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS-ODISSEI 2024.
 
 - Complete the pre-read
+- Complete Python bootcamp by the Netherlands eScience Center
 - Complete coding bootcamp (if needed)
 - Watch lecture videos
 - Prepare your computing environment
@@ -28,7 +29,7 @@ If you would like more practice after completing the Boot Camp videos, some othe
 - [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/), Taught by Charles Lanfear at University of Washington. This course includes videos of lectures, slides, and assignments.
 - [Learn R](https://www.codecademy.com/learn/learn-r), Code Academy.
 
-Please note that the majority of the coding work presented at SICSS-ODISSEI 2024 will employ R. You are welcome to employ a language of your choice, such as Python, Julia, or other languages that are commonly used by computational social scientists.  However, we cannot support those languages.
+Please note that the majority of the coding work presented at SICSS-ODISSEI 2024 will employ Python. You are welcome to employ a language of your choice, such as R, Julia, or other languages that are commonly used by computational social scientists.  However, we cannot support those languages.
 
 ## Lecture videos
 
@@ -36,9 +37,9 @@ SICSS-ODISSEI 2024 will be using a [flipped classroom model](https://en.wikipedi
 
 ## Computing environment
 
-### R
+### Python
 
-Some of the activities will require coding, and we will support R. You are welcome to use other languages, but we cannot guarantee that we can support them. Before SICSS you should install a modern, stable-release version of [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/).
+Some of the activities will require coding, and we will support Python. You are welcome to use other languages, but we cannot guarantee that we can support them. Before SICSS you should install a modern, stable-release version of [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/).
 
 ### Slack
 
