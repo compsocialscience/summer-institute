@@ -3,6 +3,11 @@
   bio: "Dr. Prasanta Bhattacharya is a Senior Scientist and Innovation Lead with the Social and Cognitive Computing Department at the Institute of High Performance Computing (IHPC), A*STAR Singapore, where he works on network science and behavioral analytics. Prasanta holds a Ph.D in Information Systems from the Department of Information Systems and Analytics, National University of Singapore, where he studied network science with a special focus on predictive and inferential methods in large social networks. His current research agenda aims at understanding the role of big data in emerging social and business applications from finance, education and healthcare. Prasanta actively collaborates with major industry partners from around the world, and has presented his research in leading computer science, information systems and marketing science venues."
   website: https://prasantabhattacharya.github.io/
 
+- name: Noshir Contractor
+  image: /assets/images/noshir-contractor.png
+  bio: "Dr. Noshir Contractor is the Jane S. & William J. White Professor of Behavioral Sciences in the McCormick School of Engineering & Applied Science, the School of Communication and the Kellogg School of Management and Director of the Science of Networks in Communities (SONIC) Research Group at Northwestern University. He is also the former President of the International Communication Association (ICA). Professor Contractor has been at the forefront of three emerging interdisciplines: network science, computational social science and web science. He is investigating how social and knowledge networks form – and perform – in contexts including business, scientific communities, healthcare and space travel."
+  website: https://nosh.northwestern.edu/
+
 - name: He Tianyu
   image: /assets/images/he_tianyu.jpg
   bio: "Dr. Tianyu [tea-n-you] is an Assistant Professor of Management and Organisation at the National University of Singapore Business School. She received her.D. in Management from INSEAD; M.A. in Sociology from Emory University; LL.B in Sociology and B.S. in Psychology from Peking University. She is curious about characteristics that set high-performing groups apart and seek to discover ways to enhance collaborative problem-solving and creativity. Employing a dynamic mixed-methods approach, her research delves into well-established aspects of designing groups, such as effective hierarchies and leadership, while also exploring exciting new frontiers such as the integration of technological tools and Artificial Intelligence in collaboration."
@@ -11,7 +16,12 @@
 - name: Yingdan Lu
   image: /assets/images/yingdan_lu.jpeg
   bio: "Yingdan Lu (PhD, Stanford University) is an Assistant Professor of Communication Studies in the School of Communication at Northwestern University. Her research focuses on digital technology, political communication, and information manipulation in authoritarian and democratic contexts. Her research employs both computational and qualitative methods to understand how authoritarian governments use digital media and artificial intelligence to maintain their rule, and how individuals experience visual media and the impacts. Her work has appeared in peer-reviewed journals such as Political Communication, New Media & Society, Human-Computer Interaction, Computational Communication Research, and among other peer-reviewed journals."
-  website: https://yingdanlu.com/.
+  website: https://yingdanlu.com/
+
+- name: Jiaxin Pei
+  image: /assets/images/jiaxin_pei.jpeg
+  bio: "Jiaxin Pei is a fifth-year PhD Candidate at the School of Information, University of Michigan. He works on Human-centered AI, NLP, Information Systems and Computational Social Science. He is the author of POTATO, an open-source machine learning annotation system used by worldwide institutions. His work has received best paper and honorable mention awards at multiple conferences and workshops. "
+  website: https://jiaxin-pei.github.io/
 
 - name: Koustuv Saha
   image: /assets/images/Koustuv.jpg
