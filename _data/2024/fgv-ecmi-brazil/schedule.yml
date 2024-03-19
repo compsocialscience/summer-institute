@@ -50,14 +50,15 @@
 - date: 2024-07-04
   name:  Image Analysis
   events:
-    - name: "10:00 - 10:15 Logistics and introduction to group exercise"
-    - name: "10:15 - 11:30 Workshop: Image Analysis"
-    - name: "11:30 - 12:00 Break"
-    - name: "12:00 - 1:00 Small group lunches (optional)"
-    - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 3:00 Text Analysis Group Exercise (Small Group)"
+    - name: "10:00 - 10:10 Logistics and introduction to group exercise"
+    - name: "10:10 - 11:10 Workshop: Image analysis techniques, Eurico Matos (FGV ECMI) e Matheus Pestana (FGV ECMI)"
+    - name: "11:10 - 11:25 Break"
+    - name: "11:25 - 12:30 Workshop: Image analysis techniques, Eurico Matos (FGV ECMI) e Matheus Pestana (FGV ECMI)"
+    - name: "12:30 - 1:00 Small group lunches (optional)"
+    - name: "1:00 - 1:30 Lunch break"
+    - name: "1:30 - 3:30 Image Analysis Group Exercise (Small Group)"
     - name: "3:30 - 4:00 Debrief and logistics"
-    - name: "4:00 - 5:00  GUEST-SPEAKER:"
+    - name: "4:00 - 5:00  GUEST-SPEAKER: Elias Bitencourt"
 
 - date: 2024-07-05
   name: Research Speed Dating 
