@@ -13,7 +13,7 @@ The Summer Institute will bring together people from many fields and backgrounds
 
 ## Reading
 
-In order to prepare for SICSS-Berlin 2024, we recommend reading Matt Salganik’s book, *[Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com)* ([Read online](https://www.bitbybitbook.com/en/1st-ed/preface/) or purchase from [IndieBound](https://www.indiebound.org/book/9780691158648), [Princeton University Press](https://press.princeton.edu/books/paperback/9780691196107/bit-by-bit)), or [Amazon](https://www.amazon.com/Bit-Social-Research-Digital-Age/dp/0691158649), [Barnes & Noble](https://www.barnesandnoble.com/w/bit-by-bit-matthew-salganik/1125483924). Parts of this book, which is a broad introduction to computational social science, will be review for most of you, but if we all read this book ahead of time, then we can use our time together for more advanced topics.
+In order to prepare for SICSS-Berlin 2024, we recommend reading Matt Salganik’s book, *[Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com)*. Parts of this book, which is a broad introduction to computational social science, will be review for most of you, but if we all read this book ahead of time, then we can use our time together for more advanced topics.
 
 ## Coding Boot Camp
 
@@ -25,7 +25,7 @@ If you would like more practice after completing the Boot Camp videos, some othe
 - [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/), Taught by Charles Lanfear at University of Washington. This course includes videos of lectures, slides, and assignments.
 - [Learn R](https://www.codecademy.com/learn/learn-r), Code Academy.
 
-Please note that the majority of the coding work presented at SICSS-Berlin will employ R. You are welcome to employ a language of your choice, such as Python, Julia, or other languages that are commonly used by computational social scientists.  However, we cannot support those languages.
+Please note that the majority of the coding work presented at SICSS-Berlin will employ R. You are welcome to employ a language of your choice, such as Python, Julia, or other languages that are commonly used by computational social scientists. However, we cannot support those languages.
 
 
 ## Computing environment
@@ -37,5 +37,5 @@ Some of the activities will require coding, and we will support R. You are welco
 
 ### GitHub
 
-Many participants at SICSS use GitHub to collaborate. If you do not yet have one, you should [create a GitHub account](https://github.com/join).
+As many other participants at SICSS we will use git and GitHub to collaborate. If you do not yet have one, you should [create a GitHub account](https://github.com/join).
 

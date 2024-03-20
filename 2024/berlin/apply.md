@@ -21,7 +21,7 @@ Applicants must submit the following documents:
 
 2) Your most recent CV
 
-**In order to be guaranteed full consideration, all application materials must be submitted by April 14, 2024.** All application materials must be submitted via our [LimeSurvey](https://poll.wzb.eu/index.php/613839?lang=en). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 21, 2024, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by April 14, 2024.** All application materials must be submitted via our [LimeSurvey](https://poll.wzb.eu/index.php/328687?lang=en). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 21, 2024, and will ask participants to confirm their participation very soon thereafter.
 
 If you have any questions, feel free to contact us at <sicss.2024@wzb.eu>.
 
