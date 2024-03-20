@@ -1,1 +1,9 @@
-- name:
+- name: Ivan Schuliaquer
+  image: /assets/images/IVAN_S.jpeg
+  bio: Ivan Schuliaquer is a researcher at the National Council for Scientific and Technical Research (CONICET, Argentina), professor at the School of Politics and Government of the National University of San Martín (UNSAM, Argentina) and associate researcher at the IRMECCEN (Sorbonne Nouvelle, France). He is a Political Scientist, and he holds a PhD in Social Sciences from the University of Buenos Aires and a PhD in Information and Communication Sciences from the Sorbonne Nouvelle-Paris 3. His research focuses on media systems, political communication, social media, comparative politics and political polarization.
+  website: https://scholar.google.com.ar/citations?user=AHJn0pwAAAAJ&hl=es
+
+- name: Germán Rosati
+  image: /assets/images/GERMAN_R.jpg
+  bio: Germán Rosati is a sociologist, Ph.D. in Social Sciences from the University of Buenos Aires, and Master in Generation and Analysis of Statistical Information from the National University of Tres de Febrero. He is an Adjunct Researcher at the National Scientific and Technical Research Council (CONICET) of Argentina. He coordinates the factor~data-laboratory of Computational Social Sciences in the University Diploma in Computational Social Sciences and Digital Humanities at EIDAES-UNSAM. His research focuses on social and agrarian structure and also explores possible applications of Natural Language Processing techniques in the Social Sciences.
+  website: https://gefero.github.io/
