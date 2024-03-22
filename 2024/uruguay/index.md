@@ -14,7 +14,7 @@ Habrá amplias oportunidades para que los estudiantes discutan sus ideas e inves
 
 La participación está dirigida a estudiantes de Maestría, Doctorado o profesionales de las Ciencias Sociales (Sociología, Ciencia Política, Comunicación, Computación o áreas afines), que deseen profundizar sus conocimientos en el uso de métodos y herramientas computacionales para el análisis de datos sociales. Damos la bienvenida a solicitantes de todas las procedencias y campos de estudio, especialmente a solicitantes de grupos actualmente infrarrepresentados en las ciencias sociales computacionales. Se prevé una participación de 15 estudiantes, y se espera que asistan y participen plenamente en todo el programa de dos semanas. El cronograma completo será publicado en las próximas semanas y prevé 7 jornadas en dos bloques horarios (10:30 a 13:30 y 14:30 a 16:30). 
 
-Los [documentos para la aplicación](https://compsocialscience.github.io/summer-institute/2024/uruguay/apply) debe enviarse antes del **miércoles 1 de mayo de 2024 a las 23:59 UYT**.
+Los [documentos para la aplicación](https://compsocialscience.github.io/summer-institute/2024/uruguay/apply) debe enviarse antes del **miércoles 15 de mayo de 2024 a las 23:59 UYT**.
 
 
 _____
@@ -29,5 +29,5 @@ There will be ample opportunities for students to discuss their ideas and resear
 Participation is restricted to Master's students, PhD students or professionals in the Social Sciences (Sociology, Political Science, Communication or related areas), who wish to deepen their knowledge in the use of computational methods and tools for the analysis of social data. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 15 participants will be invited, and participants are expected to fully attend and participate in the entire two-week program.
 
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2024/uruguay/apply) are due Wednesday, May 1, 2024 at 23:59 UYT.
+[Application materials](https://compsocialscience.github.io/summer-institute/2024/uruguay/apply) are due Wednesday, May 15, 2024 at 23:59 UYT.
 
