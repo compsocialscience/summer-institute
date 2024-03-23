@@ -33,3 +33,7 @@ Yes, but not at the same time. For example, you can apply to SICSS-Chicago, and 
 #### Can I participate in SICSS-Chicago if I have already participated in SICSS at another location?
 
 No. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
+
+### What are the costs of the summer institute?
+
+The Summer Institute is free of charge, and we’ll cover meals. Accomodation and travel costs are not covered.
