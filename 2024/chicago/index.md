@@ -9,7 +9,7 @@ From August 4 to August 8, 2024, the Department of Management and Organization a
 
 The curriculum will cover a broad array of topics including Ethics and Text, Multi-modal Analysis, Generative AI in the New Age, Scalable Experiments, and Complexity & Networks. There will be ample opportunities for students to discuss their ideas and research with the organizers, other participants, and visiting speakers. Participants will also have the opportunity to engage in hands-on experience through collaborative datathon projects.
 
-Participation is restricted to Ph.D. students, post-doctoral researchers, and untenured faculty within 7 years of their Ph.D. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 20 participants will be invited, and participants are expected to fully attend and participate in an intensive one-week program. All SICSS
+Participation is restricted to Ph.D. students, post-doctoral researchers, and untenured faculty within 7 years of their Ph.D. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 20 participants will be invited, and participants are expected to fully attend and participate in an intensive one-week program. 
 
 [Application materials](https://compsocialscience.github.io/summer-institute/2024/chicago/apply) are due by May 1st, 2024.
 
