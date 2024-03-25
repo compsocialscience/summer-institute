@@ -5,11 +5,11 @@ main: true
 image: /assets/images/amu-website.JPG
 ---
 
-From June 17 to June 28, 2024, the Faculty of Law and Administration together with the Faculty of Mathematics and Computer Science of Adam Mickiewicz University will sponsor the Summer Institute in Computational Social Science, to be held completely virtually. The purpose of the Summer Institute is to bring together young scholars interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
+From June 17 to June 28, 2024, the Faculty of Law and Administration of Adam Mickiewicz University will host the Summer Institute in Computational Social Science, to be held completely virtually. The purpose of the Summer Institute is to bring together young scholars interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
 
 The instructional program will involve lectures, group problem sets, and participant-led research projects. There will also be outside speakers who conduct computational social science research in a variety of settings, such as academia, industry, and government. A site-specific focus at this partner institute will be **legal science**. Topics covered include (but are not limited to): 
 
-*	Application of statistics and R-programming in law;
+*	Application of statistics and programming in law;
 *	Predictive analytics, e.g. judgements prediction, risk assessment;
 *	Social media as research tools for social sciences;
 *	A survey in legal research;
