@@ -39,7 +39,7 @@
     - name: "10:00 - 12:00 Keynote Speech [Prof. Étienne Ollion]"
     - name: "12:00 - 13:00 Lunch Break"
     - name: "13:00 - 14:00 Introduction of Group Work"
-    - name: "14:00 - 16:00 Project Work in Groups"
+    - name: "14:00 - 16:00 Project Work in Groups [Under the supervision and guidance of Unibo staff and Keynote Speaker]"
     - name: "16:30 'Get-to-know' Aperitivo"
     
 - date: 2024-06-18
@@ -47,7 +47,7 @@
   events:
     - name: "10:00 - 12:00 Keynote Speech, [Rubing Shen]"
     - name: "12:00 - 13:00 Lunch Break"
-    - name: "13:00 - 16:00 Project Work in Groups"
+    - name: "13:00 - 16:00 Project Work in Groups [Under the supervision and guidance of Unibo staff and Keynote Speaker]"
     - name: "20:00 Social Dinner"
 
 - date: 2024-06-19
@@ -56,14 +56,14 @@
     - name: "10:00 - 12:00 Keynote Speech"
     - name: "12:00 - 13:00 Lunch Break"
     - name: "13:00 - 14:30 Keynote Speech, 'Application of Computational Methods in the Non-Academic Field' [Prof. Oltion Preka]"
-    - name: "14:30 - 16:00 Project Work in Groups"
+    - name: "14:30 - 16:00 Project Work in Groups [Under the supervision and guidance of Unibo staff and Keynote Speaker]"
 
 - date: 2024-06-20
   name: Studying Social Interactions and Dynamics with Network Analysis Techniques and Causal Inference Identification Strategies [In Person at UNIBO]
   events:
     - name: "10:00 - 12:00 Keynote Speech, 'Studying Social Interactions and Dynamics with Network Analysis Techniques and Causal Onference Identification Strategies' [Prof. Milena Tsvetkova]"
     - name: "12:00 - 13:00 Lunch Break"
-    - name: "13:00 - 16:00 Project Work in Groups"
+    - name: "13:00 - 16:00 Project Work in Groups [Under the supervision and guidance of Unibo staff and Keynote Speaker]"
     
 - date: 2024-06-21
   name: Presentation of Group Projects [In Person at UNIBO]
