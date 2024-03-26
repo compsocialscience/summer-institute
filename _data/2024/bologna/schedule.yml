@@ -1,46 +1,76 @@
 - date: All times are in Central Europe Time
 
 - date: 2024-06-11
-  name: Experiments, Web Scraping, Creating Datasets, and Bridging the Gap from Academia to Industry [online]
+  name: Experiments, Web Scraping, Creating Datasets, and Bridging the Gap from Academia to Industry [Online]
   events:
-    - name: "Welcome by the Head of the Department / Head of the Centre of Computational Social Science"
+    - name: "09:30 - 10:00 Welcome by the Head of the Department (Prof. Francesco Niccolò Moro) / Head of the Centre of Computational Social Science (Prof. Giampiero Giacomello)"
+    - name: "10:00 - 12:00 Lecture, Experiments with Big Data [Prof. Chiara Binelli]"
+    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 14:00 Data management & Web Scraping, ‘Creating a dataset from scratch in CSS"
+    - name: "14:00 - 15:30 Keynote by Chris Albon (Director of Machine Learning at the Wikimedia Foundation)"
 
 - date: 2024-06-12
-  name: Text analysis [online]
+  name: Dimensions of Text Analysis and Conceptual dimensions of CSS [Online]
   events:
-    - name: "TBA"  
+    - name: "09:30 - 10:30 Lab, Introduction to Text Analysis and Topic Modeling [Aidar Zinnatullin]"
+    - name: "10:30 - 12:00 Lab, Scaling techniques and sentiment analysis [Paride Carrara & Simon Luck]"
+    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 14:00 Conceptual Dimensions of Text Analysis, 'Where is text analysis going?'"
 
 - date: 2024-06-13
-  name: Experiments and Big Data [online]
+  name: Exploring Digital Traces: Enhancing Workflows with APIs, Using Github, Ensuring Reproducible Research, and Exploring AI and Big Data [Online]
   events:
-    - name: "TBA"
+    - name: "09:00 - 10:30 Lecture on Working with Digital Traces [Prof. Marco Albertini]"
+    - name: "10:30 - 12:00 Lab, 'Integrating APIs in your research workflow and Github' [Aidar Zinnatullin]"
+    - name: "12:00 - 13:00 Lunch Break"
 
 - date: 2024-06-14
-  name: Ethics and Introduction to Political Polarization [online]
+  name: Studying Political Polarization with CSS Methods [Online]
   events:
-    - name: "TBA"
+    - name: "09:30 - 11:30 Keynote Speech, 'Amplified Extremes: Using Large Language Models to Understand Destructive Political Polarization in Italian Elections' [Prof. Fabio Giglietto]"
+    - name: "11:30 - 12:30 Lunch Break"
+    - name: "12:30 - 13:00 Organization & Induction of Second Week"
+    - name: "Travel to Bologna"
 
 - date: 2024-06-17
-  name: Guest Lectures and Group Work [in person at UNIBO]
+  name: Overview of Large Language Models in the Social Sciences [In Person at UNIBO]
   events:
-    - name: "TBA"
+    - name: "09:30 - 10:00 Arrival to Bologna"
+    - name: "10:00 - 12:00 Keynote Speech [Prof. Étienne Ollion]"
+    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 14:00 Introduction of Group Work"
+    - name: "14:00 - 16:00 Project Work in Groups"
     
 - date: 2024-06-18
-  name: Guest Lectures and Group Work [in person at UNIBO]
+  name: Hands-on session on working with classifiers in text analysis [In Person at UNIBO]
   events:
-    - name: "TBA"
+    - name: "10:00 - 12:00 Keynote Speech, [Rubing Shen]"
+    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 16:00 Project Work in Groups"
 
 - date: 2024-06-19
-  name:  Guest Lectures and Group Work [in person at UNIBO]
+  name:  Application of CSS in Non-Academic Fields, Data journalism [In Person at UNIBO]
   events:
-    - name: "TBA"
+    - name: "10:00 - 12:00 Keynote Speech"
+    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 14:30 Keynote Speech, 'Application of Computational Methods in the Non-Academic Field' [Prof. Oltion Preka]"
+    - name: "14:30 - 16:00 Project Work in Groups"
 
 - date: 2024-06-20
-  name: Guest Lectures and Group Work [in person at UNIBO]
+  name: Studying Social Interactions and Dynamics with Network Analysis Techniques and Causal Inference Identification Strategies [In Person at UNIBO]
   events:
-    - name: "TBA"
+    - name: "10:00 - 12:00 Keynote Speech, 'Studying Social Interactions and Dynamics with Network Analysis Techniques and Causal Onference Identification Strategies' [Prof. Milena Tsvetkova]"
+    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 16:00 Project Work in Groups"
     
 - date: 2024-06-21
-  name: Student Presentations [in person at UNIBO]
+  name: Presentation of Group Projects [In Person at UNIBO]
   events:
-    - name: "TBA"
+    - name: "10:00 - 12:00 Group Presentations #1"
+    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 16:00 Group Presentations #2"
+    - name: "Departure from Bologna"
+
+
+
+    
