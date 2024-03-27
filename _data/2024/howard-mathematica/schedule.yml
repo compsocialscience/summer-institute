@@ -28,7 +28,7 @@
   
   
     - name: "1:00 - 1:15 Break"
-    - name: '1:15 - 2:15 Self Care Workshop (slides) (*Zoom*) (video)
+    - name: '1:15 - 2:15 Live Author Q&A (slides) (*Zoom*) (video)
       
         - Speaker TBA'
         
@@ -39,7 +39,7 @@
 
 
   
-- date: 2023-07-16
+- date: 2024-07-14
   name: Praxis to Power
   events:
     - name: "Participant Zoom Links"
@@ -285,7 +285,7 @@
     - name: "2:30 - 3:30 Group Exercise Continuation: Populate the Sampling Frame with Screen-Scraping (*Zoom*)"
     - name: "3:30 - 3:45 Group Exercise Debrief and Logistics (*Zoom*) (video)"
 
-- date: 2024-07-7
+- date: 2024-07-17
   name: "Day 3: Automated Text Analysis, Instructor: TBA"
   events:
     - name: "[Day 3: Pre-arrival Videos, Corresponding Slides, & Annotated Code](https://sicss.io/curriculum) ([Takeaway Sheet](https://docs.google.com/document/d/1BT4LUe6Pikzyenm4g211rNHMEzhu0C53LKNntIDFAdo/edit?usp=sharing))"

@@ -20,7 +20,7 @@ Applicants must submit the following documents:
 - A short CV (1 page)
 - 400 words text expressing motivation and research interest (to be inserted in the application form)
 
-**In order to be guaranteed full consideration, all application materials must be submitted by March 15.** All application materials must be submitted through [**the application form**](https://www.youtube.com/watch?v=dQw4w9WgXcQ). Soon after the application deadline, we will notify applicants and ask participants to confirm their participation.
+**In order to be guaranteed full consideration, all application materials must be submitted by March 29.** All application materials must be submitted through [**the application form**](https://docs.google.com/forms/d/e/1FAIpQLSeCIzihEYKnTq7GUmCFt1QpDj7wWJiDUsWjd6gRISP2Ygv3ow/viewform?usp=sharing). Soon after the application deadline, we will notify applicants and ask participants to confirm their participation.
 
 Inquiries can be sent to sicss.amsterdam.2024@gmail.com
 
@@ -33,6 +33,9 @@ Yes, but not at the same time. For example, you can apply to SICSS-Odissei, and 
 #### Can I participate in SICSS-Amsterdam if I have already participated in SICSS at another location?
 
 No. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
+
+#### What are the costs of the summer institute? 
+The Summer Institute is free of charge, and includes lunch. Accomodation and travel costs are not covered, but applicants can apply for a travel grant. 
 
 <!-- #### Will travel or housing be covered?  -->
 <!-- Perhaps.  -->

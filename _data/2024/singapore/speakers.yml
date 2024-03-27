@@ -1,1 +1,59 @@
+- name: Prasanta Bhattacharya
+  image: /assets/images/Prasanta_Bhattacharya.png
+  bio: "Dr. Prasanta Bhattacharya is a Senior Scientist and Innovation Lead with the Social and Cognitive Computing Department at the Institute of High Performance Computing (IHPC), A*STAR Singapore, where he works on network science and behavioral analytics. Prasanta holds a Ph.D in Information Systems from the Department of Information Systems and Analytics, National University of Singapore, where he studied network science with a special focus on predictive and inferential methods in large social networks. His current research agenda aims at understanding the role of big data in emerging social and business applications from finance, education and healthcare. Prasanta actively collaborates with major industry partners from around the world, and has presented his research in leading computer science, information systems and marketing science venues."
+  website: https://prasantabhattacharya.github.io/
 
+- name: Noshir Contractor
+  image: /assets/images/noshir-contractor.png
+  bio: "Dr. Noshir Contractor is the Jane S. & William J. White Professor of Behavioral Sciences in the McCormick School of Engineering & Applied Science, the School of Communication and the Kellogg School of Management and Director of the Science of Networks in Communities (SONIC) Research Group at Northwestern University. He is also the former President of the International Communication Association (ICA). Professor Contractor has been at the forefront of three emerging interdisciplines: network science, computational social science and web science. He is investigating how social and knowledge networks form – and perform – in contexts including business, scientific communities, healthcare and space travel."
+  website: https://nosh.northwestern.edu/
+
+- name: He Tianyu
+  image: /assets/images/he_tianyu.jpg
+  bio: "Dr. Tianyu [tea-n-you] is an Assistant Professor of Management and Organisation at the National University of Singapore Business School. She received her.D. in Management from INSEAD; M.A. in Sociology from Emory University; LL.B in Sociology and B.S. in Psychology from Peking University. She is curious about characteristics that set high-performing groups apart and seek to discover ways to enhance collaborative problem-solving and creativity. Employing a dynamic mixed-methods approach, her research delves into well-established aspects of designing groups, such as effective hierarchies and leadership, while also exploring exciting new frontiers such as the integration of technological tools and Artificial Intelligence in collaboration."
+  website: https://sites.google.com/view/hetianyu/t-he
+
+- name: Yingdan Lu
+  image: /assets/images/yingdan_lu.jpeg
+  bio: "Yingdan Lu (PhD, Stanford University) is an Assistant Professor of Communication Studies in the School of Communication at Northwestern University. Her research focuses on digital technology, political communication, and information manipulation in authoritarian and democratic contexts. Her research employs both computational and qualitative methods to understand how authoritarian governments use digital media and artificial intelligence to maintain their rule, and how individuals experience visual media and the impacts. Her work has appeared in peer-reviewed journals such as Political Communication, New Media & Society, Human-Computer Interaction, Computational Communication Research, and among other peer-reviewed journals."
+  website: https://yingdanlu.com/
+
+- name: Jiaxin Pei
+  image: /assets/images/jiaxin_pei.jpeg
+  bio: "Jiaxin Pei is a fifth-year PhD Candidate at the School of Information, University of Michigan. He works on Human-centered AI, NLP, Information Systems and Computational Social Science. He is the author of POTATO, an open-source machine learning annotation system used by worldwide institutions. His work has received best paper and honorable mention awards at multiple conferences and workshops. "
+  website: https://jiaxin-pei.github.io/
+
+- name: Koustuv Saha
+  image: /assets/images/Koustuv.jpg
+  bio: "Koustuv Saha is an Assistant Professor of Computer Science at the University of Illinois Urbana-Champaign. He completed his Ph.D. in Computer Science from Georgia Tech in 2021. His research interests are in social computing, computational social science, human-centered machine learning, and FATE. He adopts machine learning, natural language, and causal inference analysis to examine human behavior and wellbeing using different forms of digital data, including social media and multimodal sensing data. His work questions the underlying assumptions of data-driven inferences and the possible harms such inferences might lead to. His research is situated in an interdisciplinary and human-centered context and bears implications for various stakeholders. His work has been published at various venues, including CHI, CSCW, ICWSM, IMWUT (UbiComp), Scientific Reports, JMIR, FAccT, among others. He is a recipient of the 2021 Outstanding Doctoral Dissertation Award from the College of Computing at Georgia Tech, Foley Scholarship Award from the GVU Center, Snap Research Fellowship, and a finalist of the Symantec Graduate Fellowship. His research has won the Outstanding Study Design Award at ICWSM, and has been covered by several media outlets, including the New York Times, Vox, CBC Radio, NBC, 11Alive, the Hill, and the Commonwealth Times. He was previously a Senior Researcher at Microsoft Research, Montreal, in the Fairness, Accountability, Transparency, and Ethics in AI (FATE) group. During his Ph.D., he did research internships at Snap Research, Microsoft Research, Max Planck Institute, and Fred Hutch Cancer Research. Earlier, he completed his B.Tech (Hons.) in Computer Science and Engineering from the Indian Institute of Technology (IIT) Kharagpur. He was awarded the NTSE Scholarship by the Govt. of India, and he has six years of overall industry research experience."
+  website: https://koustuv.com/
+
+- name: Joe Simons
+  image: /assets/images/JoeSimons.jpeg
+  bio: "Dr. Joe Simons is a Principal Scientist and Group Manager (Social & Behavioural Inference) in the Social & Cognitive Computing (SCC) Department at the Institute of High Performance Computing (IHPC) and Lead of A*STAR’s Social Sciences & Technology Horizontal Technology Programme Office (SST HTCO). A social psychologist by training, he has extensive experience collaborating with computational scientists and leading interdisciplinary research teams. His work applies methodologies from both behaviorual and computational sciences – such as predictive modelling and language processing - to better address social-behavioural questions. His research has been featured in outlets including Communication Research, IEEE Pervasive Computing, and  Media Psychology"
+  website: https://sites.google.com/view/joe-simons/
+
+- name: Chris Chao Su
+  image: /assets/images/chao_su.jpeg
+  bio: "Chris Chao Su (Ph.D., The Chinese University of Hong Kong) is an assistant professor of Emerging Media Studies (EMS) and Computing & Data Science (CDS) at Boston University, USA. His research examines the intersection of media audiences, social media, and platform governance, employing computational methods. His work has been published in the Journal of Communication, New Media & Society, Digital Journalism, The International Journal of Press/Politics, Journalism & Mass Communication Quarterly, International Journal of Communication, etc."
+  website: https://chrischaosu.com/
+
+- name: Liang Ze Wong
+  image: /assets/images/LiangZeWong.jpg
+  bio: "Dr. Liang Ze Wong is a Senior Scientist at IHPC. He also teaches business analytics at NUS Business School, where he is an adjunct assistant professor. He holds a Ph.D. in Mathematics from the University of Washington, where he researched abstract algebra and topology. His current interests are in natural language processing, topic modelling, data analytics, and in applications of large language models to qualitative social science research. He was an attendee of SICSS-Singapore 2023."
+  website: https://bizfaculty.nus.edu.sg/faculty-details/?profId=728
+
+- name: Diyi Yang
+  image: /assets/images/diyi_yang.jpeg
+  bio: "Diyi Yang is an assistant professor in the Computer Science Department at Stanford University. Her research focuses on human-centered natural language processing and computational social science. She is a recipient of  Microsoft Research Faculty Fellowship (2021),  NSF CAREER Award (2022), ONR Young Investigator Award (2023), and Sloan Research Fellowship (2024).  Her work has received multiple paper awards or nominations at top NLP and HCI conferences (e.g., ACL, EMNLP, SIGCHI, and CSCW)."
+  website: https://cs.stanford.edu/~diyiy/
+
+- name: Chao Yu
+  image: /assets/images/chao_yu.jpeg
+  bio: "Chao Yu (Ph.D., Cornell University) is an Assistant Professor in the Department of Communications and New Media at the National University of Singapore. His research focuses on social impacts of new media. He uses big data studies to uncover hidden patterns on new media platforms that can create inequalities or biases, as well as identifying policies and strategies to improve them."
+  website: https://www.chaovincentyu.com/
+
+- name: Alvin Zhou
+  image: /assets/images/alvin_zhou.jpeg
+  bio: "Dr. Alvin Zhou is an Assistant Professor at the Hubbard School of Journalism and Mass Communication. His research centers around computational social science and strategic communication. His work has appeared in journals across communication subfields, including New Media & Society, Journal of Communication, Journal of Public Relations Research, Journal of Computer-Mediated Communication, Mass Communication and Society, Public Relations Review, Social Media + Society, and Political Communication. Dr. Zhou earned his Ph.D. in Communication from the University of Pennsylvania Annenberg School. Prior to that, he earned an M.A. in Statistics and Data Science from the Wharton School and an M.A. in Strategic Public Relations from the University of Southern California Annenberg School. He graduated from Tsinghua University with dual degrees in Mechanical Engineering and Journalism."
+  website: https://www.alvinyxz.com/

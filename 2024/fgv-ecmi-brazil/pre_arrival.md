@@ -5,7 +5,7 @@ partner_site: fgv-ecmi-brazil
 
 # Pre-arrival
 
-The Summer Institute will bring together people from many fields and backgrounds. In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS-FGV/ECMI Brazil 2023.
+The Summer Institute will bring together people from many fields and backgrounds. In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS-FGV/ECMI Brazil 2024.
 
 - Complete the pre-institute readings
 - Complete coding bootcamp (if needed)
