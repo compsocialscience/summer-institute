@@ -63,7 +63,7 @@ With very best wishes, Chris Bail, SICSS Director
 
 ### How to Apply
 
-**Applications to host a partner site in 2024 are due on Friday, November 17 (2024) by 5pm U.S. E.S.T. Please send completed [applications](https://docs.google.com/document/d/1ZHKR3PuRw9mqEmaikltHmyIm4_RQKkw_ysv3prjgCXk/edit?usp=sharing) to rsfcompsocsci@gmail.com**
+**Applications to host a partner site in 2024 are due on Friday, November 17 (2023) by 5pm U.S. E.S.T. Please send completed [applications](https://docs.google.com/document/d/1ZHKR3PuRw9mqEmaikltHmyIm4_RQKkw_ysv3prjgCXk/edit?usp=sharing) to rsfcompsocsci@gmail.com**
 
 ### Frequently Asked Questions
 
