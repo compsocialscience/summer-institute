@@ -13,6 +13,6 @@ Participation is restricted to Ph.D. students, Masters students, postdoctoral re
 
 SICSS-Howard/Mathematica is groundbreaking for a number of reasons, including: 1) we were the first and only (2021, 2022, and 2023) Summer Institute held at a Historically Black College or University (HBCU), 2) we once again had the benefit of a deeply invested partner, Mathematica, and finally, 3) we continued our topical focus on anti-Black racism and inequity.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2024/howard-mathematica/apply) are due 11:59pm EST on March 31st, 2024.
+~~Application materials are due 11:59pm EST on March 31st.~~ Submitted applications are currently under review. Rolling admission until full. APPLY NOW: [Application materials](https://compsocialscience.github.io/summer-institute/2024/howard-mathematica/apply) 
 
 Join our [email list](https://docs.google.com/forms/d/e/1FAIpQLSfD7YNUdhhngu4glivO2CAzKX1ief6p2Yyj2B49cdwgk-qwCA/viewform) for the most up to date information on SICSS-Howard/Mathematica, or follow us on [Facebook](https://www.facebook.com/SICSS.Howard.Mathematica) and [Twitter](https://twitter.com/sicss_howard).

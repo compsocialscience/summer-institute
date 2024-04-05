@@ -1,0 +1,18 @@
+- name: Wojciech Biernacki
+  image: /assets/images/WB_photo.jpg
+  bio: Wojciech Biernacki is an extramural PhD researcher and cooperator at the European Law Chair at the Faculty of Law and Administration at the Adam Mickiewicz University in Poznań, and an attorney’s assistant. In his research, he focuses on intellectual property rights, mostly copyright, and issues related to data processing and data ownership. He is familiar with the basics of Python, PHP, and MySQL databases.
+  
+
+- name: Paulina Klisowska
+  image: /assets/images/PK_photo.jpg
+  bio: Paulina Klisowska is a graduate at the Faculty of Law and Administration (of AMU). She holds a Master’s degree in European Law and is a thirdyear Law student. She has carried out research on the protection of minor users of social media and was a speaker at the webinar organized under the Jean Monnet Chair Digital Single Market and the Free Flow of Information (dig_INFlow). Her academic interests are focused on the functioning of the artificial intelligence algorithms and their impact on privacy and personal data protection.
+
+
+- name: Lukasz Szoszkiewicz, PhD
+  image: /assets/images/lukasz.png
+  bio: Lukasz Szoszkiewicz is an Assistant Professor at Adam Mickiewicz University, Data Coordinator within the UN Global Study on Children Deprived of Liberty. A former participant of SICSS-Law 2021 (Maastricht University) and SICSS-AMU/Law organizer in 2022. His research interests include international protection of human rights and data science. Knows basics of Python and has advanced knowledge of SPSS.
+
+
+- name: Jedrzej Wydra
+  image: /assets/images/JW_photo.jpg
+  bio: Jedrzej Wydra is a PhD Student at the laboratory of criminalistics (of AMU). He holds a Master’s degree in Law, and in Mathematics. His research interests include the application of mathematics in legal reasoning (especially time of death estimation and deontic/normative logic). R-programmer (more than 3 years of experience) and data scientist. He also knows the basics of Python and Sage.

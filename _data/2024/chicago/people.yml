@@ -1,0 +1,76 @@
+organizers:
+  title: Organizer
+  people:
+    - name: Binglu Wang
+      image: /assets/images/24-chicago-organizer-wang.jpg
+      bio: "Binglu Wang is a Ph.D. candidate in Management & Organizations (MORS) at the Kellogg School of Management, Northwestern University, with affiliations at the Center for Science of Science and Innovation (CSSI) and the Northwestern Institute on Complex Systems (NICO). Her scholarly inquiry centers on Innovation & Science, Cross-Cultural Evaluation, and Social Networks. Employing computational methodologies alongside field experiments, her current research endeavors aim to understand how social learning mechanisms—such as observation, feedback, cooperation, and cultural transmission—facilitate or obstruct the processes of innovation incubation and evaluation within the realms of Science, Culture, and Entrepreneurship, drawing on large-scale archival and experimental data. She received her bachelor's degree in Information Management and Information Systems from Peking University in 2019. Binglu is also a 2021 SICSS alum."
+      
+    - name: Ji Hae Choi
+      image: /assets/images/kr_Ji_Hae_Choi.png
+      bio: "Ji Hae Choi is a Ph.D. student in Management & Organizations (MORS) at the Kellogg School of Management, Northwestern University, with affiliations at the Northwestern Institute on Complex Systems (NICO)."
+      
+    - name: Yingdan Lu
+      image: /assets/images/Yingdan_Lu_bio-photo.jpg
+      bio: "Yingdan Lu (PhD, Stanford University) is an Assistant Professor of Communication Studies in the School of Communication at Northwestern University. Her research focuses on digital technology, political communication, and information manipulation in authoritarian and democratic contexts. Her research employs both computational and qualitative methods to understand how authoritarian governments use digital media and artificial intelligence to maintain their rule, and how individuals experience visual media in different media environments. Her work has appeared in peer-reviewed journals such as Political Communication, New Media & Society, Human-Computer Interaction, Computational Communication Research, and among other peer-reviewed journals. For more information, see her website: https://yingdanlu.com/."
+      website: https://yingdanlu.com/      
+
+speakers:
+  title: Speakers (alphabetical order)
+  people:
+    - name: Damon Centola
+      image: /assets/images/24-chicago-speaker-centola.jpg
+      bio: "Damon Centola is the Elihu Katz Professor of Communication, Engineering and Sociology at the University of Pennsylvania where he is Director of the Network Dynamics Group and a Senior Fellow at the Leonard Davis Institute of Health Economics. His research centers on social networks and behavior change. Damon’s work has received numerous awards including the Goodman Prize for Outstanding Contribution to Sociological Methodology in 2011; the James Coleman Award for Outstanding Research in Rationality and Society in 2017; and the Harrison White Award for Outstanding Scholarly Book in 2019.  He was a developer of the NetLogo agent based modeling environment, and was awarded a U.S. Patent for inventing a method to promote diffusion in online networks. He is a member of the Sci Foo community and Fellow of the Center for Advanced Study in the Behavioral Sciences at Stanford University. His work has been funded by the National Science Foundation, the Robert Wood Johnson Foundation, Facebook, the National Institutes of Health, the James S. McDonnell Foundation, and the Hewlett Foundation. Popular accounts of Damon’s work have appeared in The New York Times, The Washington Post, The Wall Street Journal, Wired, TIME, The Atlantic, Scientific American and CNN, among other outlets.  His speaking and consulting clients include Amazon, Microsoft, Apple, Cigna, the Smithsonian Institution, the American Heart Association, General Motors, the National Academies, the U.S. Army and the NBA. He is a series editor for Princeton University Press, and the author of How Behavior Spreads: The Science of Complex Contagions (Princeton, 2018), and Change: How to Make Big Things Happen (Little Brown, 2021)."
+      website: https://www.damoncentola.com/
+      
+    - name: Solène Delecourt
+      image: /assets/images/24-chicago-speaker-delecourt.jpeg
+      bio: "Solène Delecourt is an assistant professor in the Management of Organizations Group at the Haas School of Business. She earned her PhD at the Stanford Graduate School of Business. She also holds a master’s degree in Economics and Public Policy from Sciences Po Paris and École Polytechnique. Delecourt studies inequality in business performance using large-scale field experiments and novel survey data. Her research agenda focuses on what drives variation in profits across firms and how we could reduce inequality in business performance among entrepreneurs in different market settings, including India, Uganda, and the US."
+      website: https://sites.google.com/berkeley.edu/solenedelecourt/home
+      
+    - name: Matt Groh
+      image: /assets/images/24-chicago-speaker-groh.jpg
+      bio: "Matt Groh is a Donald P. Jacobs Scholar and Assistant Professor of Management and Organizations. His research examines the dynamics of human-AI collaboration in deepfake detection, medical diagnosis, and empathic communication. Professor Groh's research has been published in Proceedings on National Academy of Science (PNAS), Nature Medicine, Science, Computer Supported Collaborative Work (CSCW), Affective Computing and Intelligence Interactions (ACII), and Communications of the ACM among other journals and conferences. His work has been featured in the popular press including The New York Times, Wall Street Journal, Science, Scientific American, NPR, Le Monde, Aeon, and Fast Company. Professor Groh received his BA from Middlebury College with a major in economics and minors in mathematics and Arabic and received his MA and PhD in Media Arts and Sciences from MIT."
+      website: https://mattgroh.com/
+      
+    - name: Manling Li
+      image: /assets/images/24-chicago-speaker-li.jpeg
+      bio: "Manling Li is an assistant professor at the Computer Science department of Northwestern University and a postdoc at Stanford Vision and Learning Lab. She obtained her Ph.D. in Computer Science at University of Illinois Urbana-Champaign. At the core of her research in Knowledge Foundation Models, she aims to equip machines with factual knowledge extraction and reasoning from multimodal data (Language + X, where X can be images, videos, robotics, audio, etc). The ultimate goal of her research is to promote factuality and truthfulness in information access, through a structured knowledge view that is easily explainable, highly compositional, and capable of long-horizon reasoning. Her work on multimodal knowledge extraction won the ACL'20 Best Demo Paper Award, and the work on scientific information extraction from COVID literature won NAACL'21 Best Demo Paper Award. She was a recipient of Microsoft Research PhD Fellowship in 2021. She was selected as a DARPA Riser in 2022 (nominated by DARPA), and an EE CS Rising Star in 2022. She was awarded C.L. Dave and Jane W.S. Liu Award, and has been selected as a Mavis Future Faculty Fellow."
+      website: https://limanling.github.io/
+
+    - name: Sameer Srivastava
+      image: /assets/images/24-chicago-speaker-srivastava.jpg
+      bio: "Sameer B. Srivastava is the Ewald T. Grether Professor of Business Administration and Public Policy at UC Berkeley's Haas School of Business and is also affiliated with UC Berkeley Sociology. His research uses computational methods to: (1) unpack the complex interrelationships between group culture, individual cognition, and interpersonal networks; and (2) examine how they jointly relate to individual attainment and organizational performance. He is Organizations Department Editor at Management Science and was previously a Senior Editor at Organization Science. Sameer co-directs the Berkeley Center for Workplace Culture and Innovation and the Berkeley-Stanford Computational Culture Lab. Sameer was previously a partner at a global management consultancy (Monitor Group; now Monitor Deloitte). He holds AB, AM, MBA, and PhD degrees from Harvard University."
+      website: https://faculty.haas.berkeley.edu/srivastava/
+      
+    - name: Brian Uzzi
+      image: /assets/images/24-chicago-speaker-uzzi.jpeg
+      bio: "Brian Uzzi is the Richard L. Thomas Professor of Leadership at the Kellogg School of Management, Northwestern University.  He also co-directs the Northwestern Institute on Complex Systems (NICO), and holds professorships in Sociology and the McCormick School of Engineering. He has been on or visited the faculties of INSEAD, Chicago, Harvard, and Berkeley.  His work has received 17 teaching prizes and 15 scientific research prizes worldwide in the social, physical, and computer sciences. His research uses social network science and computational methods to explain outstanding human achievement. "
+      website: https://www.kellogg.northwestern.edu/faculty/uzzi/htm/      
+    
+    - name: Rob Voigt
+      image: /assets/images/24-chicago-speaker-voigt.png
+      bio: "Rob Voigt is an assistant professor of linguistics and computer science (by courtesy) at Northwestern University, where he directs the Linguistic Mechanisms Lab. He is interested in natural language processing, social meaning, sociophonetics and interactional variation, Chinese and Japanese linguistics, gesture and embodiment, and applications of linguistic research to social good. He is particularly interested in using computational methods to understand the linguistic mechanisms of social problems. Professor Voigt received his PhD in Linguistics from Stanford in 2019, where he was a postdoctoral scholar in Computer Science in 2020."
+      website: https://faculty.wcas.northwestern.edu/robvoigt/  
+      
+    - name: Dashun Wang
+      image: /assets/images/24-chicago-speaker-wang.jpeg
+      bio: "Dashun Wang is a Professor at the Kellogg School of Management and McCormick School of Engineering at Northwestern University. At Kellogg, he is the Founding Co-Director of the Ryan Institute on Complexity and the Founding Director of the Center for Science of Science and Innovation (CSSI). He is also a core faculty at the Northwestern Institute on Complex Systems (NICO). His current research focus is on Science of Science, a quest to turn the scientific methods and curiosities upon ourselves, hoping to use and develop tools from complexity sciences and artificial intelligence to broadly explore the opportunities for innovation and promises of prosperity offered by the recent data explosion in science. Dashun is a recipient of multiple awards for his research and teaching, including the AFOSR Young Investigator award, Poets & Quants Best 40 Under 40 Professors, Complex Systems Society’s Junior Scientific Award, the Erdos-Renyi Prize, Thinkers50 Radar, and more."
+      website: https://www.dashunwang.com/    
+      
+participants: 
+  title: Participants
+  people:
+    - name: "Please apply and join us!"
+
+Teaching Assistant: 
+  title: Teaching Assistant
+  people:
+    - name: Yanling Zhao
+      bio: "Yanling Zhao is a doctoral student in the Media, Technology, and Society program at School of Communication, Northwestern University and a member of the Center for Communication & Public Policy research lab. Her research centers on political communication, public opinion, and political behavior with an emphasis on new technology and digital media. Yanling employs a range of methodological approaches in her scholarship, including computational, survey, and experimental methods. Yanling is also a 2023 SICSS alum."
+      image: /assets/images/24-chicago-ta-zhao.jpg
+
+suppoter:
+  title: Event Supporter
+  people:
+    - name: Stephanie Xu
+    

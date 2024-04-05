@@ -11,4 +11,4 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is restricted to advanced Ph.D. students, postdoctoral researchers, and junior faculty (within 7 years of their Ph.D). We welcome applicants from all backgrounds and fields of study, especially junior faculty from neighboring institutions near Los Angeles. About 25-30 participants will be invited. Most participants are expected to fully attend and participate in the entire 8-day program, but we are open to alternative arrangements for faculty members. 
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2024/ucla/apply) are due March 29, 2024.
+[Application materials](https://compsocialscience.github.io/summer-institute/2024/ucla/apply) are due April 5, 2024.

@@ -24,7 +24,7 @@ Inquiries can be sent to **sicss.korea@gmail.com**.
 
 Lanu Kim (KAIST), June Jeon (KAIST), and ByungKoo Kim (KDI School) will hold an online information session for prospective participants. You can join us via [this zoom link](https://bit.ly/3uFUdYW) on March 22nd (Fri), 2024 11:00 AM (KST). Also, please RVSP to participate this event via [this Google form](https://forms.gle/HMJbbCzcaT2xWtzN6) by March 22nd, 2024.
 
-You can find the slide for the online information session [here](https://drive.google.com/file/d/1KrhuNv3cJwjGtJrqLDFHf_a-1nQ80Te7/view?usp=share_link).
+You can find the slide for the online information session [here](https://www.dropbox.com/s/sii2ewn8800otav/SICSS2024_Webinar.pdf?dl=0).
 
 ## 4. Application Frequently Asked Questions
 
