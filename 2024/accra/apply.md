@@ -5,7 +5,7 @@ partner_site: accra
 
 # Apply
 
-Participation is open to PhD students, postdoctoral researchers, untenured faculty within five years of their PhD. There are no restrictions based on citizenship, country of study, or employment, but we will prioritise applicants from African countries. There is no registration fee for participating in SICSS-Accra, and most of the costs will be covered. The language of instruction will be English.
+Participation is open to PhD students, postdoctoral researchers, and untenured faculty within five years of their PhD. There are no restrictions based on citizenship, country of study, or employment, but we will prioritise applicants from African countries. There is no registration fee for participating in SICSS-Accra, and most of the costs will be covered. The language of instruction will be English.
 
 We welcome applicants from all backgrounds, fields of study, and countries within Africa. We strongly encourage women and other minority groups to apply. About 20 participants will be invited, and participants are expected to fully attend, participate, and engage in the entire program.
 
@@ -22,11 +22,11 @@ Applications will be evaluated based on:
 
 Applicants must submit the following documents:
 
--	A curriculum vitae (max 4pages).
--	A motivation letter (max two pages) describing why do you wish to attend SICSS-Accra, your current research interests, future plans and how these intersect with the goals of this partner location.
--	A supporting letter from a supervisor/head of department/line manager/mentor that can attest to applicant's competence/potential and availability.
+-	A curriculum vitae (max 4 pages).
+-	A motivation letter (max one pagee) describing why you wish to attend SICSS-Accra, your current research interests, future plans and how these intersect with the goals of this partner location.
+-	A 2-page concept note on any computational social science-focused project you'd like to work on during the programme.
 
-We will formally start receiving applications from 27 January 2023 until **<s>March 18</s> March 31, 2023**. In order to be guaranteed full consideration, all application materials must be submitted online via <a href="https://forms.gle/QUVcagQyFHucGoMD6" target="_blank">https://forms.gle/QUVcagQyFHucGoMD6</a>. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by **<s>April 10</s> April 17, 2023** and ask participants to confirm their participation soon after.
+Applications/expressions of interest will be accepted from April 13, 2024, until on May 20, 2024. In order to be guaranteed full consideration, all application materials must be submitted online. Applications that are not complete by the deadline may not receive full consideration. Conditional offers will be sent by May 31, 2024, while unconditional offers to participate in the program will be sent by **July 22, 2024**.
 
 Inquiries can be sent to <a href="mailto:sicss@rips-ug.edu.gh" target="_blank">sicss@rips-ug.edu.gh</a>
 
@@ -48,11 +48,11 @@ Some previous coding experience is highly recommended to make the most out of th
 
 ### How much does the summer institute cost?
 
-There is no registration cost for participating in the summer institute. Furthermore, thanks to our generous sponsor, the National Science Foundation, we will be able to cover accommodation and meals for all accepted participants. We also have limited scholarships to cover round-trip airfare for participants from other African countries.
+There is no registration cost for participating in the summer institute. Furthermore, thanks to our generous sponsor, the John Templeton Foundation, we will be able to cover meals for all accepted participants.
 
 #### Can I apply to more than one Summer Institute location?
 
-Yes, but not at the same time. For example, you can apply to SICSS-Accra, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.
+Yes, but not at the same time. For example, you can apply to SICSS-Accra, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have applications under review at two locations simultaneously.
 
 #### Can I participate in SICSS-Accra if I have already participated in SICSS at another location?
 
