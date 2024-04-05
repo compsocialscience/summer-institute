@@ -35,7 +35,7 @@ After the application due date, the organizers will review all applications base
 -	Applicant's experience with coding or the potential to be proficient before the summer institute.
 -	Motivation and ambition to make a personal contribution to computational social science.
 -	Potential to fully participate and engage in the entire program.
--	
+  
 Subsequently, all the applications will be ranked, and the **top 30 applications ** will be selected for a conditional offer. Based on the proficiency in R-programming demonstrated in their application materials, all conditionally selected applicants will be enrolled in a coding bootcamp.
 
 Applicants will be given six weeks to boost their programming skills and schedule an interview with the organizers. During the interview, the candidates will be expected to demonstrate a high level of proficiency in R-programming or good progress. All applicants will then be scored and ranked by the panel, and unconditional offers will be sent to top candidates during this phase. **Only the applicants who are sent an  unconditional offer will be formally invited to attend and participate in the summer institute.**
