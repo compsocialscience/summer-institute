@@ -5,17 +5,15 @@ partner_site: accra
 
 # Apply
 
+**PLEASE READ THE INFORMATION ON THIS PAGE CAREFULLY BEFORE YOU APPLY.**
+
 Participation is open to PhD students, postdoctoral researchers, and untenured faculty within five years of their PhD. There are no restrictions based on citizenship, country of study, or employment, but we will prioritise applicants from African countries. There is no registration fee for participating in SICSS-Accra, and most of the costs will be covered. The language of instruction will be English.
 
 We welcome applicants from all backgrounds, fields of study, and countries within Africa. We strongly encourage women and other minority groups to apply. About 20 participants will be invited, and participants are expected to fully attend, participate, and engage in the entire program.
 
 Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute. Participants with less coding experience will be expected to complete a set of online learning modules on the R programming language. Students requiring this preparatory work will be supported by a teaching assistant who will hold online office hours two months before the Institute.
 
-Applications will be evaluated based on: 
--	Applicant’s professional and research experience. Preference will be given to postgraduate students and researchers/academics within five years of their PhD.
--	Applicant's experience with coding or the potential to be proficient before the summer institute.
--	Motivation and ambition to make a personal contribution to computational social science.
--	Potential to fully participate and engage in the entire program.
+
 
 
 ## How To Apply
@@ -26,9 +24,21 @@ Applicants must submit the following documents:
 -	A motivation letter (max one pagee) describing why you wish to attend SICSS-Accra, your current research interests, future plans and how these intersect with the goals of this partner location.
 -	A 2-page concept note on any computational social science-focused project you'd like to work on during the programme.
 
-Applications/expressions of interest will be accepted from April 13, 2024, until on May 20, 2024. In order to be guaranteed full consideration, all application materials must be submitted online. Applications that are not complete by the deadline may not receive full consideration. Conditional offers will be sent by May 31, 2024, while unconditional offers to participate in the program will be sent by **July 22, 2024**.
+Applications/expressions of interest will be accepted from April 13, 2024, until on May 20, 2024. In order to be guaranteed full consideration, all application materials must be submitted online. Applications that are not complete by the deadline may not receive full consideration. Conditional offers will be sent by May 31, 2024, while unconditional offers to participate in the program will be sent by **July 22, 2024.**
 
 Inquiries can be sent to <a href="mailto:sicss@rips-ug.edu.gh" target="_blank">sicss@rips-ug.edu.gh</a>
+
+## After you've applied
+
+After the application due date, the organizers will review all applications based on: 
+-	Applicant’s professional and research experience. Preference will be given to postgraduate students and researchers/academics within five years of their PhD.
+-	Applicant's experience with coding or the potential to be proficient before the summer institute.
+-	Motivation and ambition to make a personal contribution to computational social science.
+-	Potential to fully participate and engage in the entire program.
+-	
+Subsequently, all the applications will be ranked, and the **top 30 applications ** will be selected for a conditional offer. Based on the proficiency in R-programming demonstrated in their application materials, all conditionally selected applicants will be enrolled in a coding bootcamp.
+
+Applicants will be given six weeks to boost their programming skills and schedule an interview with the organizers. During the interview, the candidates will be expected to demonstrate a high level of proficiency in R-programming or good progress. All applicants will then be scored and ranked by the panel, and unconditional offers will be sent to top candidates during this phase. **Only the applicants who are sent an  unconditional offer will be formally invited to attend and participate in the summer institute.**
 
 
 ## Application Frequently Asked Questions
