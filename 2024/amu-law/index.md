@@ -13,7 +13,8 @@ The instructional program will involve lectures, group problem sets, and partici
 *	Predictive analytics, e.g. judgements prediction, risk assessment;
 *	Social media as research tools for social sciences;
 *	A survey in legal research;
-*	Text as data, including but not limited to legal texts.
+*	Text as data, including but not limited to legal texts;
+*   Large Languages Models applications.
 
 There will be ample opportunities for students to discuss their ideas and research with the organizers, other participants, and visiting speakers. Because we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute will be released open source.
 
