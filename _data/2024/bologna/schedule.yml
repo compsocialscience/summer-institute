@@ -7,7 +7,7 @@
     - name: "10:00 - 12:00 Lecture, Experiments with Big Data [Prof. Chiara Binelli]"
     - name: "12:00 - 13:00 Lunch Break"
     - name: "13:00 - 14:00 Data management & Web Scraping, ‘Creating a dataset from scratch in CSS"
-    - name: "14:00 - 16:00 Keynote Speech [Chris Albon, Director of Machine Learning at the Wikimedia Foundation]"
+    - name: "14:00 - 16:00 Keynote Speech [Dr. Chris Albon, Director of Machine Learning at the Wikimedia Foundation]"
 
 - date: 2024-06-12
   name: Varieties of Text Analysis and Conceptual dimensions of CSS [Online]
@@ -15,7 +15,7 @@
     - name: "09:30 - 10:30 Lab, Introduction to Text Analysis and Topic Modeling [Aidar Zinnatullin]"
     - name: "10:30 - 12:00 Lab, Scaling techniques and sentiment analysis [Paride Carrara & Simon Luck]"
     - name: "12:00 - 13:00 Lunch Break"
-    - name: "13:00 - 14:00 Conceptual Dimensions of Text Analysis, 'Where is text analysis going?'"
+    - name: "13:00 - 14:00 Conceptual Dimensions of Text Analysis, 'Where is text analysis going?'[Dr. Franziska Pradel-Sınacı]"
 
 - date: 2024-06-13
   name: Exploring Digital Traces. Enhancing Workflows with APIs, Using Github, Ensuring Reproducible Research, and Exploring AI and Big Data [Online]
@@ -36,7 +36,7 @@
   name: Overview of Large Language Models in the Social Sciences [In Person at UNIBO]
   events:
     - name: "09:30 - 10:00 Arrival and Welcome to Bologna"
-    - name: "10:00 - 12:00 Keynote Speech [Prof. Étienne Ollion]"
+    - name: "10:00 - 12:00 Keynote Speech, 'Evolution of text-as-data research: LLM-involved research in the Social Sciences and its ethics' [Prof. Étienne Ollion]"
     - name: "12:00 - 13:00 Lunch Break"
     - name: "13:00 - 14:00 Introduction of Group Work"
     - name: "14:00 - 16:00 Project Work in Groups [Under the supervision and guidance of Unibo staff and Keynote Speaker]"
@@ -45,7 +45,7 @@
 - date: 2024-06-18
   name: Hands-on session on working with classifiers in text analysis [In Person at UNIBO]
   events:
-    - name: "10:00 - 12:00 Keynote Speech [Rubing Shen]"
+    - name: "10:00 - 12:00 Keynote Speech, 'Exploring Evolving Norms in French Print Media through Machine Learning: Discerning Changes in Journalistic Practices' [Dr. Rubing Shen]"
     - name: "12:00 - 13:00 Lunch Break"
     - name: "13:00 - 16:00 Project Work in Groups [Under the supervision and guidance of Unibo staff and Keynote Speaker]"
     - name: "20:00 Social Dinner"
@@ -63,7 +63,7 @@
   events:
     - name: "09:00 - 12:00 Keynote Speech, 'Studying Social Interactions and Dynamics with Network Analysis Techniques and Causal Inference Identification Strategies' [Prof. Milena Tsvetkova]"
     - name: "12:00 - 13:00 Lunch Break"
-    - name: "13:00 - 15:00 Lab, 'Applied Network Analysis' [Tommaso Venturini]"
+    - name: "13:00 - 15:00 Lab, 'Applied Network Analysis' [Prof. Tommaso Venturini]"
     - name: "15:00 - 16:00 Project Work in Groups [Under the supervision and guidance of Unibo staff and Keynote Speaker]"
     
 - date: 2024-06-21
