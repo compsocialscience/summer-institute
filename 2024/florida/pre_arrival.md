@@ -47,4 +47,4 @@ Before participating at SICSS-Florida, you should have an account in the SICSS S
 
 ### GitHub
 
-Many participants at SICSS use GitHub to collaborate. If you do not yet have one, you should [create a GitHub account](https://github.com/
+Many participants at SICSS use GitHub to collaborate. If you do not yet have one, you should [create a GitHub account](https://github.com/)
