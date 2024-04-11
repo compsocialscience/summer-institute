@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: florida
 main: true
-image: /assets/images/UF.png
+image: /assets/Florida_campus2.jpeg
 ---
 
 From July 1 to July 12, 2024, the College of Journalism and Communications at the University of Florida will host the Summer Institute in Computational Social Science in Gainesville, Florida. The Summer Institute aims to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
