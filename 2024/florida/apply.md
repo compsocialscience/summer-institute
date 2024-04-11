@@ -3,8 +3,7 @@ layout: location_detail
 partner_site: University of Florida
 ---
 
-# Apply
-
+# Apply   
 
 ## Eligibility
 
@@ -12,8 +11,7 @@ Participation is restricted to graduate students, postdoctoral researchers, and 
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R programming language. 
 
-We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions: 1) research and teaching interests in the area of computational social science, 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others, 3) likelihood to benefit from participation, 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
-
+We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions: 1) research and teaching interests in the area of computational social science, 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others, 3) likelihood to benefit from participation, 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.    
 
 ## How To Apply
 
@@ -21,7 +19,7 @@ Applicants must submit the following documents: 1) A letter of application (no m
 
 **In order to be guaranteed full consideration, all application materials must be submitted by 11:59 pm on May 20, 2024 (EST).** All application materials must be submitted through [this online form](https://docs.google.com/forms/d/e/1FAIpQLSdWFJ-u5Gn7j2UwDE2BPtOqivVXEUfbjAmeU4Sny2KWix2Pyw/viewform?usp=sf_link). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail and will ask participants to confirm their participation very soon thereafter.
 
-Inquiries can be sent to sicss.uf@gmail.com.
+Inquiries can be sent to sicss.uf@gmail.com.    
 
 ## Application Frequently Asked Questions
 
