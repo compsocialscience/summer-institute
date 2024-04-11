@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: florida
 main: true
-image: /assets/UF_campus3.jpg
+image: /assets/images/UF_campus3.jpg
 ---
 
 From July 1 to July 12, 2024, the Summer Institute in Computational Social Science will be held in person at the [University of Florida](https://www.ufl.edu/). The Summer Institute aims to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived). The SICSS-Florida focuses on social media data, text analysis, data wrangling, networks, and ethics. 
