@@ -11,5 +11,5 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is restricted to doctoral students, post-doctoral researchers, and early-career faculty. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 30  participants will be invited, and participants are expected to fully attend and participate in the entire two-week program.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2024/odissei/apply) are due May 30, 2024. Inquiries may be sent to sicss.uf@gmail.com. 
+[Application materials](https://compsocialscience.github.io/summer-institute/2024/florida/apply) are due May 30, 2024. Inquiries may be sent to sicss.uf@gmail.com. 
 
