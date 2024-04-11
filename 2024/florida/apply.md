@@ -5,7 +5,7 @@ partner_site: University of Florida
 
 # Apply   
 
-## Eligibility
+### Eligibility
 
 Participation is restricted to graduate students, postdoctoral researchers, and early career faculty interested in computational social science. However, no restrictions are based on citizenship, country of study, or country of employment. About 30 participants will be invited.
 
@@ -13,7 +13,7 @@ The Summer Institute aims to bring together computational social scientists acro
 
 We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions: 1) research and teaching interests in the area of computational social science, 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others, 3) likelihood to benefit from participation, 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.    
 
-## How To Apply
+### How To Apply
 
 Applicants must submit the following documents: 1) A letter of application (no more than 500 words) that summarizes your research interests, your achievements, and potential future projects, 2) A publication or writing sample that best represents your research around computational social science, 3) Your CV.
 
@@ -21,7 +21,7 @@ Applicants must submit the following documents: 1) A letter of application (no m
 
 Inquiries can be sent to sicss.uf@gmail.com.    
 
-## Application Frequently Asked Questions
+### Application Frequently Asked Questions
 
 - Can I apply to more than one Summer Institute location?
 
