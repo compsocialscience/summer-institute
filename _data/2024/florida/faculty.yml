@@ -4,10 +4,19 @@
   website: https://www.jou.ufl.edu/staff/jieun-shin/
 
 - name: Kevin Lanning
+  image: /assets/images/Lanning_SICSS_Florida_2024.jpg
+  bio: "Kevin Lanning is a Professor of Psychology and Data Science at the Wilkes Honors College of Florida Atlantic University. His research uses simple tools in natural language analysis and network analysis to understand complex social and psychological phenomena. In his spare time, he is training for his first marathon."
+  website: https://www.fau.edu/honors/faculty/lanning/
 
 - name: Kathryn Albrecht 
-
+  image: /assets/images/Albrecht_SICSS_Florida_2024.jpg
+  bio: "Kat Albrecht is an Assistant Professor in the Department of Criminal Justice and Criminology in the Andrew Young School of Policy Studies at Georgia State University. Dr. Albrecht’s work sits at the intersection of computational social science and law, where she uses innovative computational techniques to study fear, violence, and data distortions. She is particularly interested in the nexus of fear and risk-taking behaviors, digital trace data, and the impact of law on decision-making. She frequently serves as a computational science expert for the defense on active legal cases about life without the opportunity of parole, felony murder, gang enhancements, and the Racial Justice Act. She is presently a Fellow with CJARS where she is conducting research on felony case processing speeds across the United States."
+  website: https://aysps.gsu.edu/profile/kat-albrecht/
+  
 - name: AJ Alvero 
+  image: /assets/images/Alvero_SICSS_Florida_2024.jpg
+  bio: "AJ Alvero is a computational social scientist at the University of Florida Department of Sociology, Criminology & Law and a Visiting Fellow at the Institute for Data Science & Computing at the University of Miami. His primary interests are in in language, race/ethnicity, culture, and education. His current research uses computational techniques to analyze college admissions essays and model the social patterns within them. AJ’s future research plans include investigations into machine translation and multilingualism, social media and counter hate speech, and California parole hearing transcripts. Prior to entering academia, AJ was a high school teacher in Miami, FL."
+  website: https://soccrim.clas.ufl.edu/aj-alvero/
 
 - name: Nathan Carpenter 
   image: /assets/images/Carpenter_SICSS_Florida_2024.jpg
