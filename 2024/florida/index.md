@@ -1,6 +1,6 @@
 ---
 layout: location_detail
-partner_site: Florida
+partner_site: florida
 main: true
 image: /assets/images/UF.png
 ---
