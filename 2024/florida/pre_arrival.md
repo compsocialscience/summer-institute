@@ -13,10 +13,6 @@ The Summer Institute will bring together people from many fields and backgrounds
 
 Note: Even if you are familiar with R, we recommend at least skimming the R videos because some of the content may exercise different "R muscles" than you are used to using. For those who are brand new or a beginner in R, we do not expect that you will become an expert after going through these materials. The materials will provide you with a foundation to help facilitate participation in the institute. During the institute, we will assume all participants are familiar with these pre-arrival materials. Familiarity does not mean mastery, but hopefully, it will mean that you feel curious and inspired by the materials to practice the skills and pursue research using the skills.
 
-## Lecture videos
-
-SICSS-Florida will be using a partial [flipped classroom model](https://en.wikipedia.org/wiki/Flipped_classroom). Therefore, you should watch [videos of lectures](https://sicss.io/curriculum) before our meetings, and then we will use our time together for discussion and group activities.
-
 ## Reading
 
 In order to prepare for SICSS-Florida, you should read Matt Salganik’s book, *[Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com)* ([Read online](https://www.bitbybitbook.com/en/1st-ed/preface/) or purchase from [IndieBound](https://www.indiebound.org/book/9780691158648), [Princeton University Press](https://press.princeton.edu/books/paperback/9780691196107/bit-by-bit)), or [Amazon](https://www.amazon.com/Bit-Social-Research-Digital-Age/dp/0691158649), [Barnes & Noble](https://www.barnesandnoble.com/w/bit-by-bit-matthew-salganik/1125483924). Parts of this book, which is a broad introduction to computational social science, will be review for most of you, but if we all read this book ahead of time, then we can use our time together for more advanced topics.
