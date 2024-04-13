@@ -7,7 +7,7 @@ partner_site: University of Florida
 
 ### Eligibility
 
-Participation is restricted to graduate students, postdoctoral researchers, and early career faculty interested in computational social science. However, no restrictions are based on citizenship, country of study, or country of employment. About 30 participants will be invited.
+Participation is restricted to graduate students, postdoctoral researchers, and early career faculty interested in computational social science. However, no restrictions are based on citizenship, country of study, or country of employment. About 20 participants will be invited.
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R programming language. 
 
