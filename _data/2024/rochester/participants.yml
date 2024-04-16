@@ -1,2 +1,94 @@
+- name: "Adiba Proma"
+  image: /assets/images/adiba_proma.jpg
+  bio: "Adiba Proma is a Computer Science PhD student at the University of Rochester. Her research focuses on modeling human interactions within social networks, particularly exploring the impacts of these interactions in the contexts of climate change and elections. She is also keen on exploring how various technologies, such as Large Language Models (LLMs), recommendation algorithms, and user interface (UI) designs, influence social interactions on online platforms."
+  website: https://adiba08.github.io/adibaproma/
+
+- name: "Amber Shen"
+  image: /assets/images/amber_shen.JPG
+  bio: "Amber(Yiyang) Shen is a graduating MSW student at Columbia University. Amber's research interests encompass minority mental health, homelessness, poverty, aging, and stigma, with a keen focus on leveraging Artificial Intelligence in mental health interventions. She has gained hands-on research experience at Columbia Population Research Center and the Action Lab for Social Justice, where she spearheaded projects exploring topics ranging from longitudinal studies of community wellbeing to mental health in low-income neighborhoods."
+  website: https://www.linkedin.com/in/amber-shen-710117275/
+
+- name: "Baris Guzelsoy"
+  image: /assets/images/amber_shen.JPG
+  bio: "Amber(Yiyang) Shen is a graduating MSW student at Columbia University. Amber's research interests encompass minority mental health, homelessness, poverty, aging, and stigma, with a keen focus on leveraging Artificial Intelligence in mental health interventions. She has gained hands-on research experience at Columbia Population Research Center and the Action Lab for Social Justice, where she spearheaded projects exploring topics ranging from longitudinal studies of community wellbeing to mental health in low-income neighborhoods."
+  website: https://www.linkedin.com/in/barisguz/
+
+- name: "Dihan Shi"
+  image: /assets/images/dihan_shi.jpg
+  bio: "Baris is a senior undergraduate student at the University of Rochester, majoring in Computer Science and minoring in Philosophy. He has experience working in companies in technology and finance sector for software projects, along with a research internship at the Technical University Berlin. His interests include machine learning, data science, and ethics."
+  website: https://www.dihan.org/
+
+- name: "Homayra Tabassum"
+  image: /assets/images/homayra_tabassum.jpeg
+  bio: "Homayra Tabassum is a graduate student at the University of Rochester, where she is pursuing a master's degree in Data Science. Prior to this, she completed her undergraduate studies in Computer Science and Engineering. Homayra's academic and research interests bridge the domains of Data Science and Social Sciences, with a particular focus on advancing diversity and gender equity within STEM fields."
+  website: www.linkedin.com/in/homayratabassum
+
+- name: "Jefferson Leal"
+  image: /assets/images/jefferson_leal.jpg
+  bio: "Jefferson Leal is a PhD student in Political Science at the University of Rochester. Originally from São Paulo, Brazil, he has an MA in Political Science and BA degrees in Economics and International Relations from the University of São Paulo. His research interests include Latin American Politics, populism, polarization, inequality, and democratic backsliding. His methodological interests concern causal inference, machine learning, and natural language processing."
+  website: https://www.linkedin.com/in/jefferson-leal-1b834b46/
+
+- name: "Muhammad Hassan Bin Afzal"
+  image: /assets/images/hassan_afzal.jpg
+  bio: "Dr. Muhammad Hassan Bin Afzal is a Visiting Assistant Professor in the Department of Political Science and Public Service at the University of Tennessee at Chattanooga, where he facilitates American Politics, Research Methods, American Foreign Policy, and Public Policy courses. Dr. Afzal earned his PhD in Political Science from Kent State University in August 2023. His recent research collaboration for the 2024 MPSA Conference explores the transformative impact of educational pathways on political participation. The research utilizes Cooperative Congressional Election Study (CCES) data to create a Voting Engagement Index, tracing the journey from intention to voter registration to active participation. By linking educational experiences to political action, Dr. Afzal’s work illuminates the crucial role of academia in fostering informed and engaged citizens. Dr. Afzal is committed to utilizing his expertise in political behavior analysis to enhance educational outcomes through theory and research-driven teaching and mentoring."
+  website: https://www.utc.edu/directory/wpf218-political-science-and-public-service-hassan-afzal/wpf218
+
+- name: "Ke Xu"
+  image: /assets/images/ke_xu.jpg
+  bio: "Ke Xu is pursuing a duel degree in Data Science and Business Analytics from the University of Rochester with interests in applied machine learning, neural networks, and image datas."
+  website: https://www.linkedin.com/in/kefoto/
+
+- name: "Neeley Pate"
+  image: /assets/images/neeley_pate.jpg
+  bio: "Neeley is a first year Ph. D. student in the Computer Science department at the University of Rochester. She previously graduated from The University of Texas at Austin with a Bachelors of Science in Electrical and Computer Engineering and a minor in Journalism. Currently, she works with the Rochester Human-Computer Interaction Lab (ROCHCI) with interests in online trust, misinformation and propaganda, and social network construction."
+  website: https://www.linkedin.com/in/neeley-pate-b03445184/
+
+- name: "Nour Assili"
+  image: /assets/images/nour_assili.JPG
+  bio: "Nour Assili is an undergraduate Data Science major at the University of Rochester, with a concentration in Economics. She has actively contributed to research projects at the university's Human Computer Interaction Lab. Nour was also a software engineer at early-stage startups, where she built applications at the intersection of tech and social sciences. Her academic and professional interests are centered around Artificial Intelligence, Machine Learning, and Blockchain technologies. Currently, she is exploring how Blockchain could ensure that profit-maximizing corporations do not totally control superintelligence."
+  website: https://www.linkedin.com/in/nour-assili-058916149/
+
+- name: "Omer Antalyali"
+  image: /assets/images/omer_antalyali.jpg
+  bio: "Omer Lutfi Antalyali currently holds a position at Suleyman Demirel University as a Professor of Management and Strategy. He is also a Visiting Professor at the University of Rochester's Psychology Department, focusing on a year-long engagement. His primary research project, employee meta-motivation, integrates his interests in leadership, motivation, and advanced statistical analysis. Recently, he has expanded his research scope into the realm of computational social science, embarking on a project aimed at predicting achievement goal orientation through vocal features. His work significantly enhances the intersection of management strategy and technology-driven psychological research, contributing valuable insights to both fields."
+  website: https://www.linkedin.com/in/omerantalyali/
+
+- name: "Wei-Lun Lo"
+  image: /assets/images/weilun_lo.jpg
+  bio: "Wei-Lun Lo is a PhD student in Economics at the University of Rochester. His research interests span health, causal inference, and family economics. His research investigates impacts of children’s health on families' decision-making. He is also broadly interested in applying and integrating techniques from analyses of text corpora and geographic patterns to generate new insights into healthcare fraud and abuse. He holds an MA in Economics from the University of Wisconsin-Madison and a BBA in Finance from National Taiwan University."
+  website: https://www.linkedin.com/in/weilunlo/
+
+- name: "Pavithra Priyadarshini Selvakumar"
+  image: /assets/images/pavithra_selvakumar.jpg
+  bio: "Pavi Selvakumar, is a Ph.D. candidate from the Environmental Science Graduate Program at Oklahoma State University. After completing her Bachelor's in Information Technology at Anna University, India, she went on to earn her Master's in Environmental Assessment and Management at the University of East Anglia, United Kingdom. Her research interests include environmental stewardship, enhancing university campus sustainability, and promoting environmental sustainability through Corporate Social Responsibility (CSR). In the future, Pavi aspires to get into academia, pursuing path-breaking research in the field of environmental sustainability and being a part of an endearing teaching fraternity. "
+  website: https://www.linkedin.com/in/pavithra-priyadarshini
+
+- name: "Sayli Shivalkar"
+  image: /assets/images/sayli_shivalkar.jpg
+  bio: "Sayli Shivalkar is pursuing a Master's in Data Science at the University of Rochester. She focuses on creating data science systems that solve fundamental issues and generate measurable impacts. Having co-founded a data science startup in the agri-tech space to improve agricultural productivity, she aspires to use data to solve social issues. Her areas of interest are Responsible AI, knowledge graphs, signal processing, and AI Product Management. She has worked on applications of data science in NIR spectroscopy, LLMs, recommendation systems, CPG, knowledge graphs, and venture capital. Her motto is to learn and unlearn effectively with a passion for making data science accessible to everyone."
+  website: https://www.linkedin.com/in/sayli-shivalkar
+
+- name: "Suganya Schmura"
+  image: /assets/images/suganya_schmura.jpg
+  bio: "Suganya Rajendran Schmura is a PhD student in the Department of Linguistics at the University of Rochester. Her research interests include sociolinguistics, Tamil heritage language maintenance and identity, language variation and change, linguistic anthropology, and arts-based ethnography. She is currently investigating a linguistic variable in Tamil that seems to be grammaticalizing, or shifting from a lexical word to a grammatical unit, by employing both quantitative and qualitative methods within a natural language corpus she created. Suganya holds an MS in Applied Linguistics from Texas A&M University-Commerce and a BS in Biological Sciences from Carnegie Mellon University.  "
+  website: https://www.linkedin.com/in/suganya-rajendran-schmura-a6310634/
+
+- name: "Tianhui Wu"
+  image: /assets/images/tianhui_wu.jpg
+  bio: "Tianhui Wu is a PhD student in the Department of Political Science at The University of Iowa, with a keen interest in comparative public opinion and political behaviors. Her current research focuses on perceived corruption, mass media, and contentious politics, employing both statistical and computational methods. She earned her BA in Political Science and Public Administration from Fudan University and her MA in Political Theory from Sun Yat-sen University."
+  website: https://politicalscience.uiowa.edu/people/tianhui-wu
+
+- name: "Yitao Yu"
+  image: /assets/images/yitao_yu.jpg
+  bio: "Yitao Yu is a new graduate Data Science student at the University of Rochester. During his undergraduate program, he primarily focused on studying Machine Learning and its various fields of application. He also uses Kaggle in his leisure time, learning to solve different tasks such as recommendation systems, image description, visual localization, time series, and more."
+  website: www.linkedin.com/in/yitao-yu-564899171
+
+- name: "Zhe Chen"
+  image: /assets/images/zhe_chen.jpg
+  bio: "Zhe Chen is currently pursuing her doctoral degree at the Warner School of Education. Simultaneously, she is enrolled as a student in the M.S. in Data Science program at the Goergen Institute for Data Science. She holds a Master's degree in Education Policy from the University of Rochester and a Master's degree in International Education from UNC-Chapel Hill. Her research focuses on examining education policy, social movements such as the opt-out movement and teachers' strikes, and rural education using national representative data."
+  website: https://www.linkedin.com/in/zhe-chen-627185164/
+
+
+
 
 
