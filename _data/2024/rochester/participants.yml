@@ -33,15 +33,15 @@
   bio: "Jefferson Leal is a PhD student in Political Science at the University of Rochester. Originally from São Paulo, Brazil, he has an MA in Political Science and BA degrees in Economics and International Relations from the University of São Paulo. His research interests include Latin American Politics, populism, polarization, inequality, and democratic backsliding. His methodological interests concern causal inference, machine learning, and natural language processing."
   website: https://www.linkedin.com/in/jefferson-leal-1b834b46/
 
-- name: "Muhammad Hassan Bin Afzal"
-  image: /assets/images/hassan_afzal.jpg
-  bio: "Dr. Muhammad Hassan Bin Afzal is a Visiting Assistant Professor in the Department of Political Science and Public Service at the University of Tennessee at Chattanooga, where he facilitates American Politics, Research Methods, American Foreign Policy, and Public Policy courses. Dr. Afzal earned his PhD in Political Science from Kent State University in August 2023. His recent research collaboration for the 2024 MPSA Conference explores the transformative impact of educational pathways on political participation. The research utilizes Cooperative Congressional Election Study (CCES) data to create a Voting Engagement Index, tracing the journey from intention to voter registration to active participation. By linking educational experiences to political action, Dr. Afzal’s work illuminates the crucial role of academia in fostering informed and engaged citizens. Dr. Afzal is committed to utilizing his expertise in political behavior analysis to enhance educational outcomes through theory and research-driven teaching and mentoring."
-  website: https://www.utc.edu/directory/wpf218-political-science-and-public-service-hassan-afzal/wpf218
-
 - name: "Ke Xu"
   image: /assets/images/ke_xu.jpg
   bio: "Ke Xu is pursuing a duel degree in Data Science and Business Analytics from the University of Rochester with interests in applied machine learning, neural networks, and image datas."
   website: https://www.linkedin.com/in/kefoto/
+
+- name: "Muhammad Hassan Bin Afzal"
+  image: /assets/images/hassan_afzal.jpg
+  bio: "Dr. Muhammad Hassan Bin Afzal is a Visiting Assistant Professor in the Department of Political Science and Public Service at the University of Tennessee at Chattanooga, where he facilitates American Politics, Research Methods, American Foreign Policy, and Public Policy courses. Dr. Afzal earned his PhD in Political Science from Kent State University in August 2023. His recent research collaboration for the 2024 MPSA Conference explores the transformative impact of educational pathways on political participation. The research utilizes Cooperative Congressional Election Study (CCES) data to create a Voting Engagement Index, tracing the journey from intention to voter registration to active participation. By linking educational experiences to political action, Dr. Afzal’s work illuminates the crucial role of academia in fostering informed and engaged citizens. Dr. Afzal is committed to utilizing his expertise in political behavior analysis to enhance educational outcomes through theory and research-driven teaching and mentoring."
+  website: https://www.utc.edu/directory/wpf218-political-science-and-public-service-hassan-afzal/wpf218
 
 - name: "Neeley Pate"
   image: /assets/images/neeley_pate.jpg
@@ -57,11 +57,6 @@
   image: /assets/images/omer_antalyali.jpg
   bio: "Omer Lutfi Antalyali currently holds a position at Suleyman Demirel University as a Professor of Management and Strategy. He is also a Visiting Professor at the University of Rochester's Psychology Department, focusing on a year-long engagement. His primary research project, employee meta-motivation, integrates his interests in leadership, motivation, and advanced statistical analysis. Recently, he has expanded his research scope into the realm of computational social science, embarking on a project aimed at predicting achievement goal orientation through vocal features. His work significantly enhances the intersection of management strategy and technology-driven psychological research, contributing valuable insights to both fields."
   website: https://www.linkedin.com/in/omerantalyali/
-
-- name: "Wei-Lun Lo"
-  image: /assets/images/weilun_lo.jpg
-  bio: "Wei-Lun Lo is a PhD student in Economics at the University of Rochester. His research interests span health, causal inference, and family economics. His research investigates impacts of children’s health on families' decision-making. He is also broadly interested in applying and integrating techniques from analyses of text corpora and geographic patterns to generate new insights into healthcare fraud and abuse. He holds an MA in Economics from the University of Wisconsin-Madison and a BBA in Finance from National Taiwan University."
-  website: https://www.linkedin.com/in/weilunlo/
 
 - name: "Pavithra Priyadarshini Selvakumar"
   image: /assets/images/pavithra_selvakumar.jpg
@@ -87,6 +82,11 @@
   image: /assets/images/tianhui_wu.jpg
   bio: "Tianhui Wu is a PhD student in the Department of Political Science at The University of Iowa, with a keen interest in comparative public opinion and political behaviors. Her current research focuses on perceived corruption, mass media, and contentious politics, employing both statistical and computational methods. She earned her BA in Political Science and Public Administration from Fudan University and her MA in Political Theory from Sun Yat-sen University."
   website: https://politicalscience.uiowa.edu/people/tianhui-wu
+
+- name: "Wei-Lun Lo"
+  image: /assets/images/weilun_lo.jpg
+  bio: "Wei-Lun Lo is a PhD student in Economics at the University of Rochester. His research interests span health, causal inference, and family economics. His research investigates impacts of children’s health on families' decision-making. He is also broadly interested in applying and integrating techniques from analyses of text corpora and geographic patterns to generate new insights into healthcare fraud and abuse. He holds an MA in Economics from the University of Wisconsin-Madison and a BBA in Finance from National Taiwan University."
+  website: https://www.linkedin.com/in/weilunlo/
 
 - name: "Yitao Yu"
   image: /assets/images/yitao_yu.jpg
