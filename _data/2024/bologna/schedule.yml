@@ -4,7 +4,7 @@
   name: Experiments, Web Scraping, Creating Datasets, and Bridging the Gap from Academia to Industry [Online]
   events:
     - name: "09:30 - 10:00 Welcome by the Head of the Department [Prof. Francesco Niccolò Moro] & the Head of the Computational Social Science Center [Prof. Giampiero Giacomello]"
-    - name: "10:00 - 12:00 Lecture, Experiments with Big Data [Prof. Chiara Binelli]"
+    - name: "10:00 - 12:00 Lecture, Experiments with Big Data [Prof. Chiara Binelli, University of Bologna]"
     - name: "12:00 - 13:00 Lunch Break"
     - name: "13:00 - 14:00 Data management & Web Scraping, ‘Creating a dataset from scratch in CSS"
     - name: "14:00 - 16:00 Keynote Speech [Dr. Chris Albon, Director of Machine Learning at the Wikimedia Foundation]"
@@ -20,9 +20,10 @@
 - date: 2024-06-13
   name: Exploring Digital Traces. Enhancing Workflows with APIs, Using Github, Ensuring Reproducible Research, and Exploring AI and Big Data [Online]
   events:
-    - name: "09:00 - 10:30 Lecture on Working with Digital Traces [Prof. Marco Albertini]"
+    - name: "09:00 - 10:30 Lecture on Working with Digital Traces [Prof. Marco Albertini, University of Bologna]"
     - name: "10:30 - 12:00 Lab, 'Integrating APIs in your research workflow and Github' [Aidar Zinnatullin]"
     - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 14:30 'AI & Ethics' [Prof. Laura Sartori, University of Bologna]"
 
 - date: 2024-06-14
   name: Studying Political Polarization with CSS Methods [Online]
