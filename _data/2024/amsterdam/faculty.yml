@@ -1,1 +1,17 @@
-- name: 
+- name: Diliara Valeeva
+  image: /assets/images/diliara_valeeva.jpg
+  bio: "Diliara is an Assistant Professor in Computational Social Science at the Political science department of the University of Amsterdam. She received her PhD at the Amsterdam School for Social Science Research in 2021. Before joining the UvA, she worked as a postdoctoral researcher at the Geography department of the KU Leuven. Diliara's current research is on business and finance, corporate elites and power, and social networks. Diliara also works as a Lecturer at the BSc program in Computational Social Science at the UvA, and serves as a coordinator at the Social & Behavioral Data Science Center of the UvA, where she consults social scientists in utilizing data science methods, oversees community development, and coordinates funding."
+  website: https://www.diliaravaleeva.com/
+
+- name: Daniel Mayerhoffer
+  image: /assets/images/daniel_mayerhoffer.jpg
+  bio: "Daniel is Assistant Professor in the Bachelor Program Computational Social Science, a member of the Institutions, Inequalities, and Life courses research group in Sociology, and affiliated with the Data Science Centre. He uses Agent Based Simulation, among and in combination with other methods, to explain and predict complex socio-technical systems to enhance their governance. He applies Computational Models mainly to questions in Political Epistemology, Collective Behaviour and Economics. Furthermore, he evaluates these models from an analytical and Philosophy of Science perspective. Daniel's transdisciplinary background facilitates work on various topics and collaboration in diverse teams."
+  website: https://www.uva.nl/en/profile/m/a/d.m.mayerhoffer/d.m.mayerhoffer.html
+
+- name: Johannes Aengenheyster
+  image: /assets/images/johannes_aengenheyster.jpg
+  bio: "  Johannes Aengenheyster is a PhD candidate in the Cultural Sociology programme group at the Sociology Department at the University of Amsterdam. He holds a Bachelor of Arts from University College Maastricht and a Master of Science from the University of Amsterdam. His research investigates the development of the population of private museums in terms of openings and closings, as well as their influence in the canonization of artists. His other interests include the structure and development of classification systems and computational methods."
+  website: https://www.uva.nl/profiel/a/e/j.aengenheyster/j.aengenheyster.html
+
+
+    
