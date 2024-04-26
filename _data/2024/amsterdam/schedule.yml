@@ -1,18 +1,81 @@
-- date: \_\_\_\_\_
-  events:
-    - name: "Schedule coming soon..."
+# - date: \_\_\_\_\_
+#   events:
+#     - name: "Schedule coming soon..."
 
 - date: 2024-06-10 
   name: Introduction
   events:
-    - name: "09:00 - 10:00 Registration + Coffee"
     - name: "10:00 - 12:00 Introduction"
     - name: "12:00 - 13:00 Lunch"
-    - name: "13:00 - 15:00 Workshop Basics"
-    - name: "15:00 - 17:00 Keynote 1"
-    - name: "17:00         Drinks"
+    - name: "13:00 - 15:00 Workshop TBA"
+    - name: "17:00         Welcome Drinks"
     
     
-    
-  
+- date: 2024-06-11
+  events:
+    - name: "10:00 - 12:00 Workshop Github and Collaboration (Marie)"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 15:00 Workshop TBA"
 
+- date: 2024-06-12
+  events:
+    - name: "10:00 - 12:00 Workshop Network Analysis (Fika)"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 15:00 Workshop TBA"  
+
+      
+- date: 2024-06-13
+  events:
+    - name: "13:00 - 15:00 Workshop TBA"  
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 17:00 Project Fair + Team Formation"
+    - name: "17:00         Boat Tour"
+
+- date: 2024-06-14
+  events:
+    - name: "10:00 - 12:00 Team Charter & Meet your Guru: Specify RQ"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 15:00 Group work"
+
+- date: 2024-06-17
+  events:
+    - name: "10:00 - 12:00 Workshop Text analysis methods (Reshmi)"
+    - name: "12:00 - 13:00 Lunch"      
+    - name: "13:00 - 15:00 Group work: Literature Review"
+    - name: "15:00 - 17:00 Keynote Elisa Omodei"
+
+- date: 2024-06-18
+  events:
+    - name: "10:00 - 12:00 Group work: Data collection & talk with Elisa"
+    - name: "12:00 - 13:00 Lunch"      
+    - name: "15:00 - 17:00 Group work: Data Analysis"
+
+      
+- date: 2024-06-18
+  events:
+    - name: "10:00 - 12:00 Workshop Experiments (Gijs)"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 15:00 Group work: Data Analysis and Visualization"
+    - name: "15:00 - 17:00 Surf supercomputer with Odissei"
+
+- date: 2024-06-19
+  events:
+    - name: "10:00 - 12:00 TBD"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 15:00 Group wbork: Finalize Project"
+    - name: "15:00 - 17:00 AISSR lecture: Mario L. Small"
+
+- date: 2024-06-20
+  events:
+    - name: "10:00 - 12:00 Presentations"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 15:00 Plans for future projects/collaboration"
+    - name: "15:00 - 17:00 Closing"
+      
+
+        
+
+          
+         
+
+      
