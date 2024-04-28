@@ -15,4 +15,4 @@ Participation is restricted to Postgraduate students (MSc, Ph.D.), early-career 
 <p><a href="sicss.io"><img src="/assets/images/calabar2-ISSI logo.jpeg" alt="HTML5 ISSI logo.jpeg" style="width:500px;height:210px;"></a>  <a href="sicss.io"><img src="/assets/images/calabar2-SSRC logo.png" alt="HTML5 SSRC logo.png" style="width:500px;height:210px;"></a></p>
 
 
-**[Application materials](https://compsocialscience.github.io/summer-institute/2023/calabar/apply)  due will be communicated soon.**
+**[Application materials](https://compsocialscience.github.io/summer-institute/2023/calabar/apply)  due date will be communicated soon.**
