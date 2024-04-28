@@ -27,3 +27,13 @@
   image: /assets/images/j_herington.jpeg
   bio: "Jonathan Herington is Assistant Professor of Philosophy, and Assistant Director of Graduate Education in the College of Arts, Sciences, and Engineering, at the University of Rochester. Between 2014 and 2019 Jonathan was an Assistant Professor in the Department of Philosophy at Kansas State University. Previously Jonathan was a Research Fellow in the Medicine, Ethics, Society and History unit of the University of Birmingham. Jonathan completed my PhD in the School of Philosophy, at the Australian National University. Jonathan is a native of Brisbane, Australia and recieved a BA (Hons I) in International Relations and Philosophy, and a BSc in Microbiology, from the University of Queensland. Prior to undertaking my PhD Jonathan was located at the Centre for International Security Studies, University of Sydney."
   website: https://jherington.com/
+
+- name: Yichen Li
+  image: /assets/images/yichen_li.jpg
+  bio: "Yichen Li is currently a rising senior at the University of Rochester, where he specializes in Data Science and Business. His research focuses on advanced applications in computer vision, specifically developing methods to analyze political polarization and to measure 3D distances within 2D images. He also has significant experience in leveraging Large Language Models for predicting financial metrics such as stock prices and sales volumes for various companies."
+  website: https://www.linkedin.com/in/yichen-li-ds/
+
+- name: Muchen Zhong
+  image: /assets/images/muchen_zhong.jpeg
+  bio: "Muchen Zhong is a graduating senior at the University of Rochester, majoring in Data Science and Economics. Soon, she will be joining Brown University for the MS program in Data Science. Her recent research involves developing innovative methodologies in computer vision to quantify political polarization and constructing methods to measure 3D distances in 2D frames. She also has research experience in applying natural language processing and network analysis to explore the impact of AI agents on team dynamics, processes, and outcomes. She is interested in computer vision and financial data science."
+  website: https://www.linkedin.com/in/muchen-zhong-3bb391236/
