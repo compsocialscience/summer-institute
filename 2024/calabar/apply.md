@@ -29,7 +29,7 @@ Applicants must submit the following documents:
 -4) A supporting letter from a supervisor/head of department/line manager/mentor that can attest to applicant's competence/potential and availability.
 
 
-**In order to be guaranteed full consideration, all application materials must be submitted by <s>March 5</s> April 21, 2023.** All application materials must be submitted through the hyperlinked online Form. Begin your application by clicking<a href='https://www.cognitoforms.com/AcademicHive/sicsscalabarapplicationform'> APPLY</a> . Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 26, 2023, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted  (due date will be communicated soon).** All application materials must be submitted through the hyperlinked online Form. Begin your application by clicking<a href='https://www.cognitoforms.com/AcademicHive/sicsscalabarapplicationform'> APPLY</a> . Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail **(due date will be communicated soon).**, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to <a href="mailto:sicsscalabar@gmail.com" target="_blank">sicsscalabar@gmail.com</a>
 
