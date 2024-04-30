@@ -18,4 +18,4 @@ There will be ample opportunities for students to discuss their ideas and resear
 
 Participation is restricted to MA students, graduate students (master and doctoral programs), postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About twenty participants will be invited, and participants are expected to fully attend and participate in the entire two-week program.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2024/amu-law/apply) are due 30 April 2024 (midnight, GMT+1).
+[Application materials](https://compsocialscience.github.io/summer-institute/2024/amu-law/apply) are due 30 April 2024 (midnight, GMT+2).
