@@ -11,8 +11,5 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is restricted to Postgraduate students (MSc, Ph.D.), early-career University Faculty, and Industry Professionals with an interest in applying data science techniques to addressing pressing social problems. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 20 participants will be invited, and participants are expected to fully attend and participate in the entire two-week program. 
 
-<p>Special Appreciation to:</p>
-<p><a href="sicss.io"><img src="/assets/images/calabar2-ISSI logo.jpeg" alt="HTML5 ISSI logo.jpeg" style="width:500px;height:210px;"></a>  <a href="sicss.io"><img src="/assets/images/calabar2-SSRC logo.png" alt="HTML5 SSRC logo.png" style="width:500px;height:210px;"></a></p>
-
 
 **[Application materials](https://compsocialscience.github.io/summer-institute/2023/calabar/apply)  due date will be communicated soon.**
