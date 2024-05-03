@@ -20,7 +20,7 @@ Applicants must submit the following documents (all in .doc or .pdf):
 + a short film (up to one minunte) or a cover letter (max 2 pages) i.e., why do you wish to attend SICSS-AMU/Law, your current research interests, future plans and how these intersect with the goals of this partner location?, 
 + links to recent projects (optional) – these could include research publications, an online application developed by the applicant, or a tutorial led by the applicant.
 
-**In order to be guaranteed full consideration, all application materials must be submitted by 30 April 2024 (GMT+1).** All application materials must be submitted through [Online application form](https://sicss.web.amu.edu.pl/). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by 12 May 2024, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by 30 April 2024 (GMT+2).** All application materials must be submitted through [Online application form](https://sicss.web.amu.edu.pl/). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by 12 May 2024, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to sicss@amu.edu.pl.
 
