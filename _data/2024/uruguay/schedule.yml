@@ -1,7 +1,7 @@
-- name: "Facultad de Ciencias Sociales, Universidad de la República." 
+- name: "Sala Luisa Cuesta (L5) - Facultad de Ciencias Sociales, Universidad de la República." 
 
 - date: Miércoles Julio 24, 2024
-  name: "Día 1: Apertura e Introducción a Polarización política"
+  name: "Día 1: Apertura e Introducción a polarización política"
   events: 
     - name: "10:30 - 11:00 Apertura  - SICSS Uruguay 2024"
     - name: "11:00 - 12:30 Introducción a las Ciencias Sociales Computacionales - Elina Gómez (UMAD-FCS.Udelar) / Fabricio Carneiro (UMAD-FCS-Udelar) - Nicolas Schmidt (UMAD - FCS- Udelar)"
@@ -9,7 +9,7 @@
     - name: "14:30 - 16:30 Polarización política, medios y redes - Iván Schuliaquer (IDAES-UNSAM)"
 
 - date: Jueves Julio 25, 2024
-  name: "Día 2: Introducción a Polarización política"
+  name: "Día 2: Polarización política, medios y redes"
   events: 
     - name: "10:30 - 12:30 Polarización política, medios y redes - Iván Schuliaquer (IDAES-UNSAM)"
     - name: "12:30 - 14:30 Corte almuerzo"
