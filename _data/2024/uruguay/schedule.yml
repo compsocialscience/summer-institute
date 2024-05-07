@@ -1,3 +1,61 @@
-- date: 
-  events:
-    - name: "Schedule coming soon..."
+- name: "Facultad de Ciencias Sociales, Universidad de la República." 
+
+- date: Miércoles Julio 24, 2024
+  name: "Día 1: Apertura e Introducción a Polarización política"
+  events: 
+    - name: "10:30 - 11:00 Apertura  - SICSS Uruguay 2024"
+    - name: "11:00 - 12:30 Introducción a las Ciencias Sociales Computacionales - Elina Gómez (UMAD-FCS.Udelar) / Fabricio Carneiro (UMAD-FCS-Udelar) - Nicolas Schmidt (UMAD - FCS- Udelar)"
+    - name: "12:30 - 14:30 Corte almuerzo"
+    - name: "14:30 - 16:30 Polarización política, medios y redes - Iván Schuliaquer (IDAES-UNSAM)"
+
+- date: Jueves Julio 25, 2024
+  name: "Día 2: Introducción a Polarización política"
+  events: 
+    - name: "10:30 - 12:30 Polarización política, medios y redes - Iván Schuliaquer (IDAES-UNSAM)"
+    - name: "12:30 - 14:30 Corte almuerzo"
+    - name: "14:30 - 16:30 Polarización política en Uruguay - Iván Schuliaquer (IDAES-UNSAM) / Jimena Torres / Federico Beltramelli (FIC-Udelar)"
+
+- date: Viernes Julio 26, 2024
+  name: "Día 3: Polarización política en Uruguay"
+  events: 
+    - name: "10:30 - 12:30 Polarización política y opinión pública - Ignacio Zuásnabar (Equipos Consultores)"
+    - name: "12:30 - 14:30 Corte almuerzo"
+    - name: "14:30 - 16:30 PB-Call: Integrating Ideological Position and Political Cohesion in Legislative Voting Models - Sergio Toro (IMFD Chile)"
+
+- date: Sábado Julio 27, 2024
+  name: "Día libre"
+    
+- date: Domingo Julio 28, 2024
+  name: "Día libre"
+  
+- date: Lunes Julio 29, 2024
+  name: "Día 4: Polarización política y opinión pública"
+  events: 
+    - name: "10:30 - 12:30 Cámaras de eco en redes sociales en Uruguay - Martin Opertti (UMAD - U.Duke)"
+    - name: "12:30 - 14:30 Corte almuerzo"
+    - name: "14:30 - 16:30 Taller Procesamiento de datos de opinión pública - Martin Opertti (UMAD - U.Duke)"
+
+- date: Martes Julio 30, 2024
+  name: "Día 5: Taller práctico Procesamiento de Lenguaje Natural (PLN)"
+  events: 
+    - name: "10:30 - 12:30 Procesamiento de Lenguaje Natural (PLN) aplicado al estudio de la polarización polìtica - Germán Rosati (IDAES-UNSAM) / Juan Pablo Filevich (CICADA - FING-Udelar)"
+    - name: "12:30 - 14:30 Corte almuerzo"
+    - name: "14:30 - 16:00 Procesamiento de Lenguaje Natural (PLN) aplicado al estudio de la polarización polìtica - Germán Rosati (IDAES-UNSAM) / Juan Pablo Filevich (CICADA - FING-Udelar)"
+    - name: "16:00 - 16:30 Presentación de resultados de trabajo grupal"
+
+- date: Miércoles Julio 31, 2024
+  name: "Día 6:  Taller práctico Procesamiento de Lenguaje Natural (PLN)"
+  events: 
+    - name: "10:30 - 12:30 Procesamiento de Lenguaje Natural (PLN) aplicado al estudio de la polarización polìtica - Germán Rosati (IDAES-UNSAM) / Juan Pablo Filevich (CICADA - FING-Udelar)"
+    - name: "12:30 - 14:30 Corte almuerzo"
+    - name: "14:30 - 16:00 Procesamiento de Lenguaje Natural (PLN) aplicado al estudio de la polarización polìtica - Germán Rosati (IDAES-UNSAM) / Juan Pablo Filevich (CICADA - FING-Udelar)"
+    - name: "16:00 - 16:30 Presentación de resultados de trabajo grupal"
+
+- date: Jueves Agosto 1, 2024
+  name: "Día 7:  Taller práctico Procesamiento de Lenguaje Natural (PLN)"
+  events: 
+    - name: "10:30 - 12:30 Procesamiento de Lenguaje Natural (PLN) aplicado al estudio de la polarización polìtica - Germán Rosati (IDAES-UNSAM) / Juan Pablo Filevich (CICADA - FING-Udelar)"
+    - name: "12:30 - 14:30 Corte almuerzo"
+    - name: "14:30 - 15:30 Procesamiento de Lenguaje Natural (PLN) aplicado al estudio de la polarización polìtica - Germán Rosati (IDAES-UNSAM) / Juan Pablo Filevich (CICADA - FING-Udelar)"
+    - name: "15:30 - 16:30 Presentación final de resultados"
+
