@@ -1,6 +1,6 @@
 ---
 layout: location_detail
-partner_site: tbd
+partner_site: kenya
 main: true
 image: /assets/images/tbd.jpg
 ---
