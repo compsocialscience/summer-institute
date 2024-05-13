@@ -1,5 +1,5 @@
 ---
 layout: location_detail
-partner_site: tbd
+partner_site: kenya
 people: true
 ---
