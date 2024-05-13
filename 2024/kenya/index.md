@@ -11,6 +11,6 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is restricted to \_\_\_\_\_. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About \_\_\_\_\_ participants will be invited, and participants are expected to fully attend and participate in the entire two-week program.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2024/odissei/apply) are due \_\_\_\_\_.
+[Application materials](https://compsocialscience.github.io/summer-institute/2024/kenya/apply) are due \_\_\_\_\_.
 
 Because of the COVID-19 pandemic, all events will take place online.
