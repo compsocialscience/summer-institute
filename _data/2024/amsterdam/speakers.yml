@@ -3,9 +3,10 @@
   website: https://www.uva.nl/en/profile/l/a/m.labussiere/m.labussiere.html
   bio: "Marie Labussière is a postdoctoral researcher at the Department of Sociology at the University of Amsterdam since September 2021. She studies social stratification and mobility using a variety of quantitative methods, including text mining and machine learning. Her current work in the CAREER ERC project focuses on the employment trajectories of workers in the context of changing labor markets, based on a combination of job advertisement data and panel data. Marie is also interested in improving the use and teaching of quantitative methods in the social sciences and is a strong advocate of open science. She holds an engineering degree from the French National School of Statistics and Economic Analysis (ENSAE) and a master's degree in interdisciplinary social sciences."
 
-# - name: "Gijs Schumacher"
-#   # images
-#   bio: "Gijs Schumacher is an Associate Professor of Political Science at the University of Amsterdam. He is currently co-director of the Hot Politics Lab and the Challenges to Democratic Representation Program Group. In his research I use psychological perspectives to analyze contemporary politics."
+- name: "Gijs Schumacher"
+  image: /assets/images/gijs_schumacher.jpg
+  bio: "Gijs is an Associate Professor of Political Science at the University of Amsterdam. He is currently co-director of the Hot Politics Lab and the Challenges to Democratic Representation Program Group. In his research he uses psychological perspectives to analyze contemporary politics. He uses a range of different methods from neuroscience, computer science and social science. His work has appeared in journals such as the American Political Science Review, Nature Human Behaviour, Scientific Reports, American Journal of Political Science, Journal of Politics, Political Analysis, European Journal of Political Research, Emotion and Political Psychology."
+
 
 - name: "Reshmi G. Pillai"
   image: /assets/images/reshmi_g_pillai.jpeg 

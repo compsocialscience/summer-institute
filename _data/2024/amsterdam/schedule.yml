@@ -5,7 +5,7 @@
 - date: 2024-06-10 
   name: Introduction
   events:
-    - name: "10:00 - 12:00 Introduction"
+    - name: "10:00 - 12:00 Introduction and Lighting Talks"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 15:00 Workshop TBA"
     - name: "17:00         Welcome Drinks"
@@ -51,21 +51,21 @@
     - name: "15:00 - 17:00 Group work: Data Analysis"
 
       
-- date: 2024-06-18
+- date: 2024-06-19
   events:
     - name: "10:00 - 12:00 Workshop Experiments (Gijs)"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 15:00 Group work: Data Analysis and Visualization"
     - name: "15:00 - 17:00 Surf supercomputer with Odissei"
 
-- date: 2024-06-19
+- date: 2024-06-20
   events:
     - name: "10:00 - 12:00 TBD"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 15:00 Group work: Finalize Project"
     - name: "15:00 - 17:00 AISSR lecture: Mario L. Small"
 
-- date: 2024-06-20
+- date: 2024-06-21
   events:
     - name: "10:00 - 12:00 Presentations"
     - name: "12:00 - 13:00 Lunch"
