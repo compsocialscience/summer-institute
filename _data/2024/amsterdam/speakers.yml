@@ -20,7 +20,10 @@
 # - name: "Fika"
   
 
-# - Elisa Omodei
+- name: "Elisa Omodei"
+  image: /assets/images/elisa_omodei.jpg
+  website: https://elisaomodei.weebly.com/
+  bio: "Elisa Omodei is an Assistant Professor at the Department of Network and Data Science at the Central European University. She holds a BSc and a MSc in Physics from the University of Padua and Bologna, respectively, and a PhD in Applied Mathematics for the Social Sciences from the École Normale Supérieure (ENS) of Paris. She carried out her postdoctoral training at the Rovira and Virgili University in Tarragona, Spain. She then spent over four years at the United Nations, first at UNICEF's Office of Innovation in New York and then at the UN World Food Programme in Rome. In her research, she explores how complexity and data science can help us address the needs of the most vulnerable populations and monitor the UN Sustainable Development Goals. She also served as Vice-President Secretary of the Complex Systems Society from 2018 to 2021."
 
 # - Petter Törnberg
 
