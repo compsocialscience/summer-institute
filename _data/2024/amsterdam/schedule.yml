@@ -11,7 +11,8 @@
     - name: "17:00         Welcome Drinks"
     
     
-- date: 2024-06-11 (A1.04)
+- date: 2024-06-11 
+  name: A1.04
   events:
     - name: "10:00 - 12:00 Workshop Github and Collaboration (Marie Labussière)"
     - name: "12:00 - 13:00 Lunch"
