@@ -19,7 +19,7 @@ TAs will host office hours through Slack to support you as you work through thes
 
 ### Introduction to Python programming
 
-This workshop introduces Python programming for researchers. The workshop builds on learners' existing knowledge to enable them to quickly apply skills learned to their own research. You will learn the basics of Python, how to use control statements and functions, and how to write clear and reusable code. The largest part of the workshop focuses on data: data import, exploratory data analysis, and visualization. We will make use of popular Python packages such as Pandas and Matplotlib.
+This workshop introduces Python programming for researchers. The workshop builds on learners' existing knowledge to enable them to quickly apply skills learned to their own research. You will learn the basics of Python, how to use control statements and functions, and how to write clear and reusable code. The largest part of the workshop focuses on data: data import, exploratory data analysis, and visualization. We will make use of popular Python packages such as Pandas and Matplotlib. **Please follow this [link](https://esciencecenter-digital-skills.github.io/2024-06-03-dc-socsci-python-odissei/) for all the relevant information about the Python Boot Camp by the Netherlands eScience Center**. 
 
 This workshop uses a tabular interview dataset from the SAFI Teaching Database, we use a single dataset throughout the workshop to model the data management and analysis workflow that a researcher would use. There are no prerequisites, and the materials assume no prior knowledge about the tools.
 
