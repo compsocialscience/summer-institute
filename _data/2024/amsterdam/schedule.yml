@@ -11,61 +11,70 @@
     - name: "17:00         Welcome Drinks"
     
     
-- date: 2024-06-11 (A1.04)
+- date: 2024-06-11 
+  name: A1.04
   events:
     - name: "10:00 - 12:00 Workshop Github and Collaboration (Marie Labussière)"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 15:00 Workshop Web Scraping (Rens Wilderoom)"
 
-- date: 2024-06-12 (A1.04)
+- date: 2024-06-12
+  name: A1.04
   events:
     - name: "10:00 - 12:00 Workshop Network Analysis (Rafiazka Hilman)"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 15:00 Workshop TBA"  
 
       
-- date: 2024-06-13 (A1.04)
+- date: 2024-06-13
+  name: A1.04
   events:
     - name: "13:00 - 15:00 Workshop Introduction to Machine Learning (Petter Törnberg)"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 17:00 Project Fair + Team Formation"
     - name: "17:00         Boat Tour"
 
-- date: 2024-06-14 (A1.04)
+- date: 2024-06-14
+  name: A1.04
   events:
     - name: "10:00 - 12:00 Team Charter & Specify RQ"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 15:00 Group work"
 
-- date: 2024-06-17 (A1.04)
+- date: 2024-06-17
+  name: A1.04
   events:
     - name: "10:00 - 12:00 Workshop: Structured knowledge representations (Reshmi G. Pillai)"
     - name: "12:00 - 13:00 Lunch"      
     - name: "13:00 - 15:00 Group work: Literature Review"
     - name: "15:00 - 17:00 Keynote Elisa Omodei"
 
-- date: 2024-06-18 (E0.04)
+- date: 2024-06-18
+  name: E0.04
   events:
     - name: "10:00 - 12:00 Group work: Data collection & talk with Elisa Omodei"
     - name: "12:00 - 13:00 Lunch"      
     - name: "15:00 - 17:00 Group work: Data Analysis"
 
       
-- date: 2024-06-19 (A1.04)
+- date: 2024-06-19
+  name: A1.04
   events:
     - name: "10:00 - 12:00 Workshop Experiments (Gijs Schumacher)"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 15:00 Group work: Data Analysis and Visualization"
     - name: "15:00 - 17:00 Surf supercomputer with Odissei"
 
-- date: 2024-06-20 (A1.07)
+- date: 2024-06-20
+  name: A1.07
   events:
     - name: "10:00 - 12:00 TBD"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 15:00 Group work: Finalize Project"
     - name: "15:00 - 17:00 AISSR lecture: Mario L. Small"
 
-- date: 2024-06-21 (A2.12)
+- date: 2024-06-21
+  name: A2.12
   events:
     - name: "10:00 - 12:00 Presentations"
     - name: "12:00 - 13:00 Lunch"
