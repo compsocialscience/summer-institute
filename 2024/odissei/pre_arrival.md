@@ -1,4 +1,4 @@
-![image](https://github.com/compsocialscience/summer-institute/assets/153644511/ab976b74-982a-4e33-b702-7176e974a094)---
+---
 layout: location_detail
 partner_site: odissei
 ---
@@ -13,8 +13,6 @@ The Summer Institute will bring together people from many fields and backgrounds
 - Watch lecture videos
 - Prepare your computing environment
 
-TAs will host office hours through Slack to support you as you work through these pre-arrival materials.
-
 ## Python Boot Camp by the Netherlands eScience Center
 
 ### Introduction to Python programming
@@ -26,13 +24,13 @@ This workshop uses a tabular interview dataset from the SAFI Teaching Database, 
 Before the Boot Camp it is required to set up the Python environment and download the data. Please, find the instructions [here](https://datacarpentry.org/python-socialsci/). As the Boot Camp will take place online, having a videoconferencing tool installed is required. Please, find the instructions below. 
 
 ## A few instructions for the Python Boot Camp by the Netherlands eScience Center
-- Please follow this [link](https://esciencecenter-digital-skills.github.io/2024-06-03-dc-socsci-python-odissei/) for all the relevant information about the Python Boot Camp by the Netherlands eScience Center**. 
+- **Please follow this [link](https://esciencecenter-digital-skills.github.io/2024-06-03-dc-socsci-python-odissei/) for all the relevant information about the Python Boot Camp by the Netherlands eScience Center**. 
 - Be sure to complete this pre-training [survey](https://www.surveymonkey.com/r/K7V5VG2). We use this to calibrate the pace of the workshop and, together with a post-training survey, to assess how it went.
-- Make sure you have the necessary software installed on your laptop by following the [setup instructions](https://esciencecenter-digital-skills.github.io/2024-06-03-dc-socsci-python-odissei/#setup). If you have any trouble, send us an email at [training@esciencecenter.nl].
+- Make sure you have the necessary software installed on your laptop by following the [setup instructions](https://esciencecenter-digital-skills.github.io/2024-06-03-dc-socsci-python-odissei/#setup). If you have any trouble, send us an email at training@esciencecenter.nl.
 - On the Boot Camp days (Monday, 3 & Tuesday, 4 June), please join the call 15 minutes earlier (08:45) if possible, to say hello to the instructors and fellow learners and to check if your audio and video setup works correctly. That will allow us to start teaching on time.
 - Make sure to keep the workshop [website](https://esciencecenter-digital-skills.github.io/2024-06-03-dc-socsci-python-odissei/#setup) with all the necessary details handy.
 - Join the workshop session with the following [Zoom link](https://us02web.zoom.us/j/82913823087?pwd=RHdyMS9qVGhLdlVsSUdQM0krZ3N5UT09). Please make sure to log in with the name you have used for the registration. For safety reasons, people who cannot be recognized by the Zoom username will not be let into the workshop.
-- Let us know if you have any questions by emailing [training@esciencecenter.nl].
+- Let us know if you have any questions by emailing training@esciencecenter.nl.
 
 ## Install the videoconferencing client ## 
 If you haven't used Zoom before, go to the [official website](https://zoom.us/download) to download and install the Zoom client for your computer.
