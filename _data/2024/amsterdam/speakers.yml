@@ -17,7 +17,10 @@
 # - name: "Rens Wilderoom"
 #   bio: "Rens Wilderoom works as a Core Lecturer in Computational Social Sciences at the University of Amsterdam and a Visiting Lecturer at the American University Kyiv, where he teaches Introduction to Sociology and Innovations in Society.
 
-# - name: "Fika"
+- name: "Rafiazka Hilman"
+  image: /assets/images/rafiazka_hilman.jpg
+  website: https://www.uva.nl/profiel/h/i/r.m.hilman/r.m.hilman.html
+  bio: "Rafiazka Hilman is affiliated with Computational Science Lab (CSL) at the Informatics Institute (IvI) and Institute for Advanced Study (IAS), University of Amsterdam (UvA). She holds a PhD in Network and Data Science from Central European University (CEU). Specialized in Spatial Data Science and Computational Social Science, she focuses on urban dynamics and urban complex system. Currently, she is working on structure and dynamics of multidimensional segregation."
   
 
 - name: "Elisa Omodei"
