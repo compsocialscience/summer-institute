@@ -1,10 +1,10 @@
 - date: All times are in Central Europe Time
 
 - date: 2024-06-11
-  name: Experiments, Web Scraping, Creating Datasets, and Bridging the Gap from Academia to Industry [Online]
+  name: Causal Inference, Web Scraping, Creating Datasets, and Bridging the Gap from Academia to Industry [Online]
   events:
     - name: "09:00 - 09:15 Welcome by the Head of the Computational Social Science Center [Prof. Giampiero Giacomello]"
-    - name: "09:15 - 12:00 Lecture, Causal Machine Learning [Prof. Chiara Binelli, University of Bologna]"
+    - name: "09:15 - 10:45 Lecture, Causal Machine Learning [Prof. Chiara Binelli, University of Bologna]"
     - name: "12:00 - 13:00 Lunch Break"
     - name: "13:00 - 14:00 Data management & Web Scraping, ‘Creating a dataset from scratch in CSS"
     - name: "14:00 - 16:00 Keynote Speech [Dr. Chris Albon, Director of Machine Learning at the Wikimedia Foundation]"
