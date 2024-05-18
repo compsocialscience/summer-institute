@@ -1,1 +1,13 @@
-- name: Coming Soon!
+- name: Soojong Kim 
+  image: /assets/soojong_sicss_uf.png
+  bio: "Soojong Kim is an Assistant Professor at the Department of Communication at UC Davis. As a former computer scientist and engineer, he is interested in combining insights from the social sciences with innovative research methods, including large-scale data analysis, natural language processing, web-based experiments, network analysis, and computational modeling. Before joining UC Davis, he was a postdoctoral research fellow at Stanford University, jointly affiliated with the Program on Democracy and the Internet (PDI) and the Digital Civil Society Lab (DCSL)."
+  website: https://communication.ucdavis.edu/people/soojong-kim
+  
+- name: Marshall A. Taylor 
+  image: /assets/taylor_sicss_uf.png 
+  bio: "Marshall A. Taylor is an Assistant professor of sociology at New Mexico State University, where he is also the lead of the Data Science and Application Center, PI of the C3 Lab, and the interim co-associate dean of research for the College of Health, Education, and Social Transformation. He is the author of ‘Mapping Texts: Computational Text Analysis for the Social Sciences (co-authored with Dustin S. Stoltz). He investigates how social contexts and cognitive structures interface to influence the stability and change of cultural knowledge and how to best measure cultural knowledge in natural language and survey data using computational methods."
+  website: https://datascience.nmsu.edu/facultydirectory/affiliated-faculty/marshalltaylor.html
+
+- name: Marley Kalt 
+  image: /assets/marley_sicss_uf.png
+  bio: "Marley Kalt is Senior Data Project Manager at the Inter-university Consortium for Political and Social Research (ICPSR) at the University of Michigan. ICPSR is the world’s largest social science data archive and keeps research data accessible while training generations of researchers. It maintains a data archive of more than 350,000 research files in the social and behavioral sciences and hosts 23 specialized data collections in education, aging, criminal justice, substance abuse, terrorism, and other fields."
