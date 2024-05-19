@@ -1,5 +1,6 @@
 - date: 2024-10-21
-  events: Day 1
+  name: Day 1
+  events:
     - name: "9:00 - 9:30 Intro to SICSS Logistics"
     - name: "9:30 - 10:15 Computational Social Science 101"
     - name: "10:15 - 10:30 Coffee Break"
@@ -12,7 +13,8 @@
     - name: "16:30 - 17:00	Q&A"
 
 - date: 2024-10-22
-  events: Day 2
+  name: Day 2
+  events:
     - name: "9:00 - 9:30 Web scrapping"
     - name: "9:30 - 10:15 Web scrapping - practice"
     - name: "10:15 - 10:30 Coffee Break"
@@ -25,7 +27,8 @@
     - name: "16:30 - 17:00 Group Exercise - Project Group Formation"
 
 - date: 2024-10-23
-  events: Day 3
+  name: Day 3
+  events:
     - name: "9:00 - 9:30 Text-as-data"
     - name: "9:30 - 10:15 Text-as-data - practice"
     - name: "10:15 - 10:30 Coffee Break"
@@ -38,7 +41,8 @@
     - name: "16:30 - 17:00 Group Exercise"
 
 - date: 2024-10-24
-  events: Day 4
+  name: Day 4
+  events:
     - name: "9:00 - 9:30 Causal analysis 101"
     - name: "9:30 - 10:15 Causal analysis - examples"
     - name: "10:15 - 10:30 Coffee Break"
@@ -51,7 +55,8 @@
     - name: "16:30 - 17:00 Group Exercise"
 
 - date: 2024-10-25
-  events: Day 5
+  name: Day 5
+  events:
     - name: "9:00 - 9:30 Applied CSS"
     - name: "9:30 - 10:15 Applied CSS"
     - name: "10:15 - 10:30 Coffee Break"
@@ -64,6 +69,7 @@
     - name: "16:30 - 17:00	Wrap Up"
 
 - date: 2024-10-28
+  name: Day 6
   events:
     - name: "10:30 - 12:00	Keynote speech - David Lazer"
     - name: "12:00 – 13:00 	Visit to the MareNostrum - Barcelona Supercomputing Center"
