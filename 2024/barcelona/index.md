@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: barcelona
 main: true
-image: /assets/images/barcelona-supercomputer.jpg
+image: /assets/images/barcelonasupercomputer.jpg
 ---
 
 From October 21 to October 29, 2024, the [Universitat de Barcelona](https://ub.edu) will organize the Summer Institute in Computational Social Science, to be held in Barcelona. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
