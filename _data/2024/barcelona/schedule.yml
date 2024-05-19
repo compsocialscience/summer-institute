@@ -1,3 +1,69 @@
-- date: \_\_\_\_\_
+- date: 2024-10-21
+  events: Day 1
+    - name: "9:00 - 9:30 Intro to SICSS Logistics"
+    - name: "9:30 - 10:15 Computational Social Science 101"
+    - name: "10:15 - 10:30 Coffee Break"
+    - name: "10:30 - 11:30 Political polarization"
+    - name: "11:30 - 12:00	Methods - overview"
+    - name: "12:00 - 13:30	Group Exercise - introductions"
+    - name: "13:30 - 14:30	Lunch"
+    - name: "14:30 - 15:30	Keynote speech"
+    - name: "15:30 - 16:30	Research design"
+    - name: "16:30 - 17:00	Q&A"
+
+- date: 2024-10-22
+  events: Day 2
+    - name: "9:00 - 9:30 Web scrapping"
+    - name: "9:30 - 10:15 Web scrapping - practice"
+    - name: "10:15 - 10:30 Coffee Break"
+    - name: "10:30 - 11:30 APIs"
+    - name: "11:30 - 12:00 APIs - practice"
+    - name: "12:00 - 13:30 Political polarization - empirical evidence and data sources"
+    - name: "13:30 - 14:30 Lunch"
+    - name: "14:30 - 15:30 Applied CSS"
+    - name: "15:30 - 16:30 Group Exercise - Research Speed Dating"
+    - name: "16:30 - 17:00 Group Exercise - Project Group Formation"
+
+- date: 2024-10-23
+  events: Day 3
+    - name: "9:00 - 9:30 Text-as-data"
+    - name: "9:30 - 10:15 Text-as-data - practice"
+    - name: "10:15 - 10:30 Coffee Break"
+    - name: "10:30 - 11:30 NLP"
+    - name: "11:30 - 12:00 NLP - practice"
+    - name: "12:00 - 13:30 Measuring Political polarization"
+    - name: "13:30 - 14:30 Lunch"
+    - name: "14:30 - 15:30 Digital Trace Data"
+    - name: "15:30 - 16:30 Group Exercise - Research design"
+    - name: "16:30 - 17:00 Group Exercise"
+
+- date: 2024-10-24
+  events: Day 4
+    - name: "9:00 - 9:30 Causal analysis 101"
+    - name: "9:30 - 10:15 Causal analysis - examples"
+    - name: "10:15 - 10:30 Coffee Break"
+    - name: "10:30 - 11:30 SNA"
+    - name: "11:30 - 12:00 SNA - practice"
+    - name: "12:00 - 13:30 Political polarization Research challenges"
+    - name: "13:30 - 14:30 Lunch"
+    - name: "14:30 - 15:30 Group Exercise"
+    - name: "15:30 - 16:30 Group Exercise"
+    - name: "16:30 - 17:00 Group Exercise"
+
+- date: 2024-10-25
+  events: Day 5
+    - name: "9:00 - 9:30 Applied CSS"
+    - name: "9:30 - 10:15 Applied CSS"
+    - name: "10:15 - 10:30 Coffee Break"
+    - name: "10:30 - 11:30 Group presentations"
+    - name: "11:30 - 12:00 Group presentations"
+    - name: "12:00 - 13:30 Group presentations"
+    - name: "13:30 - 14:30 Lunch"
+    - name: "14:30 - 15:30 Group presentations"
+    - name: "15:30 - 16:30	Group presentations"
+    - name: "16:30 - 17:00	Wrap Up"
+
+- date: 2024-10-28
   events:
-    - name: "Schedule coming soon..."
+    - name: "10:30 - 12:00	Keynote speech - David Lazer"
+    - name: "12:00 – 13:00 	Visit to the MareNostrum - Barcelona Supercomputing Center"
