@@ -1,3 +1,7 @@
+- date: 2024-08-05
+  name: "The pre-night"
+  events:
+    - name: "17:30 - 19:00 Voluntary pre-SICSS meeting"
 - date: 2024-08-06
   name: "Starting of SICSS"
   events:
@@ -41,22 +45,22 @@
     - name: "15:00 - 16:00 Group work teaming and ideation"
     - name: "16:00 - 16:30 Day wrapup"
 - date: 2024-08-12
-  name: ""
+  name: "Project work"
   events:
     - name: "9:00 - 10:00 Meeting with each team"
 - date: 2024-08-13
-  name: ""
+  name: "Project work"
   events:
     - name: "9:00 - 10:00 Meeting with each team"
 - date: 2024-08-14
-  name: ""
+  name: "Project work"
   events:
     - name: "9:00 - 10:00 Meeting with each team"
 - date: 2024-08-15
-  name: ""
+  name: "Project work"
   events:
     - name: "9:00 - 10:00 Meeting with each team"
 - date: 2024-08-16
-  name: ""
+  name: "Presentations and wraup"
   events:
-    - name: "9:00 - 10:00 Meeting with each team"
+    - name: "12:00 - 15:00 Presentations and wraup"
