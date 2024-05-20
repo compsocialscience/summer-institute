@@ -22,7 +22,7 @@ Applicants must submit the following documents:
 
 **In order to be guaranteed full consideration, all application materials must be submitted by June 7.** All application materials must be submitted through [**the application form**](https://docs.google.com/forms/d/e/1FAIpQLSeCIzihEYKnTq7GUmCFt1QpDj7wWJiDUsWjd6gRISP2Ygv3ow/viewform?usp=sharing). Soon after the application deadline, we will notify applicants and ask participants to confirm their participation.
 
-Inquiries can be sent to camilo.cristancho@ub.edu
+Inquiries can be sent to [camilo.cristancho@ub.edu](mailto:camilo.cristancho@ub.edu).
 
 ## Application Frequently Asked Questions
 

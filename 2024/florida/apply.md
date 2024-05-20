@@ -15,11 +15,11 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 ### How To Apply
 
-Applicants must submit the following documents: 1) A letter of application (no more than 500 words) that summarizes your research interests, your achievements, and potential future projects, 2) A publication or writing sample that best represents your research around computational social science, 3) Your CV.
+Applicants must submit the following documents: 1) A letter of application (no more than 500 words) that summarizes your research interests, your achievements, and potential future projects, and 2) Your CV.
 
-**In order to be guaranteed full consideration, all application materials must be submitted by 11:59 pm on May 20, 2024 (EST).** All application materials must be submitted through [this online form](https://docs.google.com/forms/d/e/1FAIpQLSfbKGSz7Ep2VYIThMDUMCblW7CriDXqZiwq7xk6zMJPiUXVIg/viewform). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by 11:59 pm on May 30, 2024 (EST).** All application materials must be submitted through [this online form](https://docs.google.com/forms/d/e/1FAIpQLSfbKGSz7Ep2VYIThMDUMCblW7CriDXqZiwq7xk6zMJPiUXVIg/viewform). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail and will ask participants to confirm their participation very soon thereafter.
 
-Inquiries can be sent to sicss.uf@gmail.com.    
+Inquiries can be sent to sicss.uf@gmail.com or jieun.shin@ufl.edu    
 
 ### Application Frequently Asked Questions
 

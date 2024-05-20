@@ -1,5 +1,5 @@
 ---
 layout: location_detail
-partner_site: tbd
-people: true
+partner_site: barcelona
+people: false
 ---

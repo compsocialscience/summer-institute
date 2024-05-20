@@ -5,6 +5,7 @@
 
 - name: "Gijs Schumacher"
   image: /assets/images/gijs_schumacher.jpg
+  website: https://gijsschumacher.nl
   bio: "Gijs is an Associate Professor of Political Science at the University of Amsterdam. He is currently co-director of the Hot Politics Lab and the Challenges to Democratic Representation Program Group. In his research he uses psychological perspectives to analyze contemporary politics. He uses a range of different methods from neuroscience, computer science and social science. His work has appeared in journals such as the American Political Science Review, Nature Human Behaviour, Scientific Reports, American Journal of Political Science, Journal of Politics, Political Analysis, European Journal of Political Research, Emotion and Political Psychology."
 
 
@@ -16,9 +17,18 @@
 # - name: "Rens Wilderoom"
 #   bio: "Rens Wilderoom works as a Core Lecturer in Computational Social Sciences at the University of Amsterdam and a Visiting Lecturer at the American University Kyiv, where he teaches Introduction to Sociology and Innovations in Society.
 
-# - name: "Fika"
+- name: "Rafiazka Hilman"
+  image: /assets/images/rafiazka_hilman.jpg
+  website: https://www.uva.nl/profiel/h/i/r.m.hilman/r.m.hilman.html
+  bio: "Rafiazka Hilman is affiliated with Computational Science Lab (CSL) at the Informatics Institute (IvI) and Institute for Advanced Study (IAS), University of Amsterdam (UvA). She holds a PhD in Network and Data Science from Central European University (CEU). Specialized in Spatial Data Science and Computational Social Science, she focuses on urban dynamics and urban complex system. Currently, she is working on structure and dynamics of multidimensional segregation."
   
 
+- name: "Elisa Omodei"
+  image: /assets/images/elisa_omodei.jpg
+  website: https://elisaomodei.weebly.com/
+  bio: "Elisa Omodei is an Assistant Professor at the Department of Network and Data Science at the Central European University. She holds a BSc and a MSc in Physics from the University of Padua and Bologna, respectively, and a PhD in Applied Mathematics for the Social Sciences from the École Normale Supérieure (ENS) of Paris. She carried out her postdoctoral training at the Rovira and Virgili University in Tarragona, Spain. She then spent over four years at the United Nations, first at UNICEF's Office of Innovation in New York and then at the UN World Food Programme in Rome. In her research, she explores how complexity and data science can help us address the needs of the most vulnerable populations and monitor the UN Sustainable Development Goals. She also served as Vice-President Secretary of the Complex Systems Society from 2018 to 2021."
+
+# - Petter Törnberg
 
     
   
