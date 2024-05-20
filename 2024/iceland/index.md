@@ -1,6 +1,6 @@
 ---
 layout: location_detail
-partner_site: tbd
+partner_site: iceand
 main: true
 image: /assets/images/tbd.jpg
 ---
