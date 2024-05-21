@@ -21,20 +21,18 @@ Participants with less experience with social science research will be expected 
 Applicants must submit the following documents:
 
 -	A curriculum vitae (max 4 pages).
--	A motivation letter (max one pagee) describing why you wish to attend SICSS-Accra, your current research interests, future plans and how these intersect with the goals of this partner location.
--	A 2-page concept note on any computational social science-focused project you'd like to work on during the programme.
+-	A motivation letter (max one page) describing why you wish to attend SICSS-Accra, your current research interests, future plans and how these intersect with the goals of this partner location.
+-	A 2-page concept note on any computational social science-focused project you’d like to work on during the programme.
 
-We will formally start receiving applications from 27 January 2023 until March 18 March 31, 2023. In order to be guaranteed full consideration, all application materials must be submitted online via https://forms.gle/QUVcagQyFHucGoMD6.
-
-Applications/expressions of interest will be accepted from April 13, 2024, until June 30, 2024. In order to be guaranteed full consideration, all application materials must be submitted online via https://forms.gle/NBNyh3edkeyg2arGA. Applications that are not complete by the deadline may not receive full consideration. Conditional offers will be sent by July 7, 2024, while unconditional offers to participate in the program will be sent by **August 12, 2024.**
+Applications/expressions of interest will be accepted from April 13, 2024, until June 30, 2024. In order to be guaranteed full consideration, all application materials must be submitted online via <a href= “https://forms.gle/NBNyh3edkeyg2arGA” target= “_blank”>https://forms.gle/NBNyh3edkeyg2arGA</a>. Applications that are not complete by the deadline may not receive full consideration. Conditional offers will be sent by July 7, 2024, while unconditional offers to participate in the program will be sent by **August 12, 2024.**
 
 Inquiries can be sent to <a href="mailto:sicss@rips-ug.edu.gh" target="_blank">sicss@rips-ug.edu.gh</a>
 
-## After you've applied
+## After you’ve applied
 
 After the application due date, the organizers will review all applications based on: 
 -	Applicant’s professional and research experience. Preference will be given to postgraduate students and researchers/academics within five years of their PhD.
--	Applicant's experience with coding or the potential to be proficient before the summer institute.
+-	Applicant’s experience with coding or the potential to be proficient before the summer institute.
 -	Motivation and ambition to make a personal contribution to computational social science.
 -	Potential to fully participate and engage in the entire program.
   
@@ -56,7 +54,7 @@ SICSS-Accra is planned to be an entry-level programme in computational social sc
 
 ### I have limited coding experience. Should I still apply?
 
-Some previous coding experience is highly recommended to make the most out of the summer institute. However, this should not discourage you from applying as we aim to enrol all accepted participants with limited coding experience in our coding bootcamp. During the bootcamp, we will introduce you to R-programming and support you in enriching your programming skills before the summer institute.
+Some previous coding experience is highly recommended to make the most of the summer institute. However, this should not discourage you from applying as we aim to enrol all accepted participants with limited coding experience in our coding bootcamp. During the boot camp, we will introduce you to R-programming and help you enrich your programming skills before the summer institute.
 
 ### How much does the summer institute cost?
 
@@ -64,8 +62,8 @@ There is no registration cost for participating in the summer institute. Further
 
 #### Can I apply to more than one Summer Institute location?
 
-Yes, but not at the same time. For example, you can apply to SICSS-Accra, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have applications under review at two locations simultaneously.
+Yes, but not at the same time. For example, you can apply to SICSS-Accra, and then if you are not accepted, you can apply to one of the other locations if there is a later deadline. However, you cannot have applications under review at two locations simultaneously.
 
 #### Can I participate in SICSS-Accra if I have already participated in SICSS at another location?
 
-No. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once.
+No. Every year, we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once.
