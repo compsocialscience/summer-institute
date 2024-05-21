@@ -24,7 +24,9 @@ Applicants must submit the following documents:
 -	A motivation letter (max one pagee) describing why you wish to attend SICSS-Accra, your current research interests, future plans and how these intersect with the goals of this partner location.
 -	A 2-page concept note on any computational social science-focused project you'd like to work on during the programme.
 
-Applications/expressions of interest will be accepted from April 13, 2024, until on May 20, 2024. In order to be guaranteed full consideration, all application materials must be submitted online. Applications that are not complete by the deadline may not receive full consideration. Conditional offers will be sent by May 31, 2024, while unconditional offers to participate in the program will be sent by **July 22, 2024.**
+We will formally start receiving applications from 27 January 2023 until March 18 March 31, 2023. In order to be guaranteed full consideration, all application materials must be submitted online via https://forms.gle/QUVcagQyFHucGoMD6.
+
+Applications/expressions of interest will be accepted from April 13, 2024, until June 30, 2024. In order to be guaranteed full consideration, all application materials must be submitted online via https://forms.gle/NBNyh3edkeyg2arGA. Applications that are not complete by the deadline may not receive full consideration. Conditional offers will be sent by July 7, 2024, while unconditional offers to participate in the program will be sent by **August 12, 2024.**
 
 Inquiries can be sent to <a href="mailto:sicss@rips-ug.edu.gh" target="_blank">sicss@rips-ug.edu.gh</a>
 
