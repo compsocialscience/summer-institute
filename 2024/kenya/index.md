@@ -13,4 +13,4 @@ Participation is restricted to \_\_\_\_\_. We welcome applicants from all backgr
 
 [Application materials](https://compsocialscience.github.io/summer-institute/2024/kenya/apply) are due \_\_\_\_\_.
 
-Because of the COVID-19 pandemic, all events will take place online.
+The Nairobi SICSS will be physical.
