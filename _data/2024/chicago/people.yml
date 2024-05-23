@@ -59,8 +59,123 @@ speakers:
       
 participants: 
   title: Participants
+
+participants: 
+  title: Participants
   people:
-    - name: "Please apply and join us!"
+    - name: Nandini Banerjee
+      image: /assets/images/24-chicago-people-nandini_banerjee.jpg
+      bio: "Nandini Banerjee is a Ph.D. student in the Computer Science and Engineering department at the University of Notre Dame. With a keen interest in the intersection of technology and human behavior, Nandini's research focuses on studying disruption in citation networks to understand how scientific knowledge evolves and how innovation is fostered within academic communities. Her work aims to unravel the complexities of scientific collaboration, particularly by understanding the characteristics and dynamics of scientific teams. Beyond her academic pursuits, Nandini likes to dabble in art in different mediums."
+
+    - name: Mitali Banerjee
+      image: /assets/images/24-chicago-people-mitali_banerjee.png
+      bio: "Mitali Banerjee is an Assistant Professor in the Strategy & Organizations department at the McGill Desautels Faculty of Management. Her research uses tools from computer vision, natural language processing and social network analysis in unique empirical contexts such as modern and jazz to examine the valuation of creative production. Her work has been published in the Academy of Management Journal and the Proceedings of the National Academy of Sciences. She completed her Ph.D. in Management from Columbia University. She graduated Summa Cum Laude, Phi Beta Kappa with a double major in Mathematics (BS) and Economics (BA) from the University of Rochester."
+
+    - name: Shambhobi Bhattacharya
+      image: /assets/images/24-chicago-people-shambhobi_bhattacharya.jpg
+      bio: "I am a third-year Ph.D. student in the Department of Industrial Engineering and Management Sciences at Northwestern University, working under the guidance of Professor Hyejin Youn. My research delves into the governance mechanisms of online platforms, focusing on moderation by humans and bots and the formulation of rules on platforms such as Reddit and Wikipedia. My goal is to decipher the regulatory landscapes of these platforms to develop effective organisational policies and improve platform governance. My interests lie at the intersection of organisational science, user behavior, and regulation. Over the past three years, I have honed my skills in complexity science, applying a range of methodologies from traditional econometrics to scaling theory to explore regulatory dynamics and their impacts on online communities. Looking forward to meeting and learning together!"
+
+    - name: Pietro Bonaccorsi
+      image: /assets/images/24-chicago-people-pietro_bonaccorsi.png
+      bio: "Pietro Bonaccorsi is a PhD candidate in Strategic Management at the University of Toronto - Rotman School of Management. His research interests revolve around the social underpinnings of creativity and innovation – with a particular attention to the generation and evaluation of novelty in creative industries, and the intersection of networks and culture. Pietro holds undergraduate and Masters' degrees in Economics from the University of Pisa and the Sant'Anna School of Advanced Studies."
+
+    - name: Christian Caballero
+      image: /assets/images/24-chicago-people-christian_caballero.jpg
+      bio: "Christian Caballero is a Political Science PhD student at the University of California, Berkeley. His research focuses on American politics and political behavior. In particular, he studies the ways in which social networks influence processes of political persuasion and how political ideologies develop within subcultures. He holds a B.A. in Political Science and Sociology from New York University."
+
+    - name: Liang Cai
+      image: /assets/images/24-chicago-people-liang_cai.png
+      bio: "Liang Cai is a PhD candidate in Sociology at the University of Chicago (expected to graduate spring 2025). His research interest centers on how human behaviors are shaped by social and physical contexts and how causally relevant contexts should be defined. His recent work has explored activity space exposures, income segregation around the clock, and spatio-temporal patterns of crime. His ongoing projects examine 1. the spatial decision-making process and its social context in activity space, 2. how mobility patterns factor into individuals' rural/urban living experiences, and 3. how social scientists can leverage computer vision AI to decipher local social ecology from street view images. My work integrates perspectives from urban sociology, decision science, geography, criminology, data science, and more."
+
+    - name: Likun Cao
+      image: /assets/images/24-chicago-people-likun_cao.png
+      bio: "Hi! I am Likun, a Ph.D. student in sociology at the University of Chicago. I am a member of Knowledge Lab, advised by Professor James Evans. My current work focuses on science & technology innovation and its social impacts. I am curious about the social and organizational conditions by which new things emerge and evolve, and how innovations influence business competition and social structures."
+
+    - name: Lautaro Cella
+      image: /assets/images/24-chicago-people-lautaro_cella.jpeg
+      bio: "Lautaro Cella is a PhD Candidate in Political Science at the University of Chicago, specializing in comparative politics and quantitative methods. His research interests include comparative political behavior, redistributive politics, and democratic erosion, with a regional focus on Latin America. His dissertation examines the determinants of anti-establishment attitudes and protest behavior among voters. His research employs survey experiments, semi-structured interviews, and text-as-data methods."
+
+    - name: Rochana Chaturvedi
+      image: /assets/images/24-chicago-people-rochana_chaturvedi.png
+      bio: "I am a Ph.D. candidate at the Natural Language Processing Lab, University of Illinois Chicago. My research focuses on understanding the latent patterns in evolving textual narratives with applications such as modeling individual health trajectories using clinical notes from multiple patient visits. I combine these notes with structured data and medical knowledge graphs for precise modeling. I also examine temporal trends in polarization based on the content people post online and how to reduce it to foster healthier communities."
+
+    - name: Jinkyong Choi
+      image: /assets/images/24-chicago-people-jinkyong_choi.jpg
+      bio: "Jin Choi is a Ph.D candidate at Columbia Business School. She is interested in innovation and entrepreneurship."
+
+    - name: Hongbo Fang
+      image: /assets/images/24-chicago-people-hongbo_fang.png
+      bio: "Hongbo Fang obtains his PhD from the School of Computer Science at Carnegie Mellon University, and will soon join the University of Chicago as a postdoctoral scholar. During his PhD, he studies networks of open-source software developers and explores innovation and sustained participation in open-source context. He is also broadly interested in the general topics of computational social science, science of science and innovation."
+
+    - name: Brandon Freiberg
+      image: /assets/images/24-chicago-people-brandon_freiberg.png
+      bio: "I'm a Ph.D. candidate at Columbia University. My work lies at the intersection of behavioral strategy, entrepreneurship and innovation. For example, my research has investigated the relationships between founder personality traits and startup success, social movements and venture investor behavior, political polarization and startup hiring, and natural disasters and support for green technologies. I often use a combination of computational and econometric approaches in my research, but have also conducted experiments and am open to whatever methodology best suits the research question or phenomenon. I'm also excited by complexity and collective information processing."
+
+    - name: David Gamba
+      image: /assets/images/24-chicago-people-david_gamba.png
+      bio: "Hi, I'm David Gamba, a second-year Ph.D. student in Information Science at the University of Michigan, working with Daniel Romero and Grant Schoenebeck. My research explores the interplay between individual choices and collective phenomena, focusing on political polarization, social preferences, and ideological bubbles. I aim to understand how personal actions influence and are influenced by group behaviors and community decision-making. Using network science perspectives and mechanism design, I analyze these complex dynamics. Additionally, I am interested in examining the limits of addressing issues such as polarization at both the individual and collective levels."
+
+    - name: Fatima Gaw
+      image: /assets/images/24-chicago-people-fatima_gaw.png
+      bio: "Fatima Gaw is a Media, Technology and Society PhD student at Northwestern University University, working with Dr. Erik C. Nisbet and in the Center for Communication and Public Policy. She investigates how digital media logics, platforms, and ecosystems shape contemporary politics, with a focus on the Global South. Her research focuses on the cross-platform analyses of propaganda, disinformation, and elections on social media using computational methods and qualitative field methods. Fatima has a Master’s degree in Digital Communication and Culture from the University of Sydney, and a Bachelor’s degree in Broadcast Communication from the University of the Philippines."
+
+    - name: Mengdi Huang
+      image: /assets/images/24-chicago-people-mengdi_huang.png
+      bio: "Mengdi is a third-year PhD candidate in Social Psychology at Northwestern University. Her interests lie at the intersection of self, social network, and psychological well-being. Specifically, she is curious about how group experiences can shape and be shaped by our identities and self-concepts."
+
+    - name: Tunazzina Islam
+      image: /assets/images/24-chicago-people-tunaz_islam.jpg
+      bio: "I am a Ph.D. candidate in the Department of Computer Science (CS) at Purdue University, West Lafayette. My advisor is Dr. Dan Goldwasser. My research interest broadly lies in Natural Language Processing (NLP), Computational Social Science (CSS), and Social Media Mining and Analysis. The landscape of social media is highly dynamic, with users generating and consuming a diverse range of content. Interest groups, including politicians and advertisers, employ microtargeting to shape messages and influence their audience. While effective in enhancing content relevance, microtargeting also presents risks such as manipulating user behavior, creating echo chambers, and fostering polarization. Understanding these impacts is crucial for promoting healthy public discourse in the digital age and maintaining a cohesive society. My work focuses on a better understanding of microtargeting and activity patterns on social media."
+
+    - name: Bekhzod Khoshimov
+      image: /assets/images/24-chicago-people-bekhzod_khoshimov.png
+      bio: "Postdoctoral Fellow at the Wisconsin Institute of Discovery at UW-Madison. Incoming assistant professor at New York University Abu Dhabi. In my research, I study determinants of early-stage entrepreneurial success and factors that affect the supply of entrepreneurs in society. Before my Ph.D., I did a master’s in Economics at the University of Wisconsin and a bachelor’s in Applied Mathematics at Nanyang Technological University."
+
+    - name: Yuhan Li
+      image: /assets/images/24-chicago-people-yuhan_li.png
+      bio: "Yuhan Li is a Ph.D. student in Communication and Media at the University of Michigan. Her research focuses on science communication and computational social science. She uses computational (including analysis of texts, visuals, and audio data) and experimental methods to study public understanding of science (e.g., climate change, scientists) and technologies (e.g., AI, social media affordances) and how people's understandings of science drive their perceptions, attitudes, and behaviors toward risks."
+
+    - name: Zihang Lin
+      image: /assets/images/24-chicago-people-zihang_lin.png
+      bio: "Zihang Lin is a Ph.D. student in the Department of Industrial Engineering & Management Sciences at the McCormick School of Engineering at Northwestern University, with affiliations at Kellogg Center for Science of Science & Innovation (CSSI) and Northwestern Institute on Complex Systems (NICO). His research interests encompass computational social science, science of science, and innovation. Recently, his endeavors have been concentrated on extensive data analyses with advanced deep learning techniques, in a quest to achieve a deeper understanding of science and innovation, especially in accelerating the translational impact and bridging the gap from previous scientific knowledge to tomorrow's technological breakthroughs."
+
+    - name: Nyx Ng
+      image: /assets/images/24-chicago-people-nyx_ng.png
+      bio: "Nyx L. Ng is a Social-Personality Psychology PhD candidate at the University of Texas at Austin. Her primary lines of research seek to uncover the mechanisms underlying (a) moral judgments and perceptions and (b) susceptibility to misinformation. Her recent works examine moral misperceptions and partisan biases in truth judgments as potential sources of political polarization in the United States. Her research primarily employs computational modeling approaches and involves conducting lab and online studies using observational and experimental methods. Nyx earned her MSc from University College London and BBM from Singapore Management University, and she is a recipient of the University of Texas at Austin’s University Graduate Continuing Fellowship."
+
+    - name: Charlotte O'Herron
+      image: /assets/images/24-chicago-people-charlotte_o_herron.jpg
+      bio: "Charlotte O’Herron is a Doctoral Student in Sociology & Social Policy at Harvard University. Her research interests include labor market inequality, gender, race, and culture. Before starting her Ph.D., Charlotte received a Master in Public Policy from the Harvard Kennedy School."
+
+    - name: Katherine O'Toole
+      image: /assets/images/24-chicago-people-katherine_o_toole.png
+      bio: "In my research, I investigate how technological affordances can facilitate creativity for both individuals and groups. My work aims to develop computational models of the processes involved in collective creativity and cultural evolution, and to examine Human-Computer Interaction in order to identify ways in which technology can be leveraged to support creativity both in individual and collaborative settings. In my work, I utilize data science, machine learning, statistical modeling, and social network analysis to explore the multifaceted dimensions of human-computer interactions and to identify ways to design technical tools and platforms that can support creative expression and collaboration, with a particular focus on music. I am particularly interested in examining the dynamics of co-creative behaviors within socio-technical systems, and my work leverages digital trace data to investigate how distributed creativity emerges as individuals extend and build on existing knowledge within a domain."
+
+    - name: Haohan Shi
+      image: /assets/images/24-chicago-people-haohan_shi.png
+      bio: "Haohan Shi is a Ph.D. student in the Media, Technology, and Society program at Northwestern University. At Northwestern, he collaborates in the Lab on Innovation, Networks, and Knowledge under the guidance of Dr. Agnes Horvat. He is broadly interested in the science of science, retraction, online democracy, misinformation, computational social science, and AI for social good. His work focuses on advancing online scholarly communication and promoting the democratization of science through digital science dissemination. He holds an M.A. in Computational Social Science from the University of Chicago and a B.S. in Mathematics/Computer Science and Psychology/Linguistics from Emory University."
+
+    - name: Hui Sun
+      image: /assets/images/24-chicago-people-hui_sun.png
+      bio: "I am an assistant professor at the Frankfurt School of Finance & Management. My research focuses on cognitive and communicative mechanisms in strategy-making, organization design, and social network mobilization."
+
+    - name: Jung Hyo Sun
+      image: /assets/images/24-chicago-people-junghyo_sun.png
+      bio: "Jung-Hyo is a doctoral student in management at INSEAD. His research focuses on the adoption and uses of technological innovations through the lenses of organization theory. He is particularly interested in understanding when and how firms use social media to achieve multiple functional goals, applying computational methods and using Twitter as an empirical context. Before pursuing his PhD, he worked in the R&D center of an automobile company, where he gained industry experiences. In addition to his academic interests, he enjoys playing European football and riding bikes."
+
+    - name: Shinan Wang
+      image: /assets/images/24-chicago-people-shinan_wang.png
+      bio: "Shinan Wang is a doctoral student in Management and Organization and Sociology at the Kellogg School of Management, Northwestern University. She is currently exploring how broad societal factors—such as social structure, networks, and culture—shape micro-level labor market practices, including organizational job design and individual careers. She is also interested in understanding how these factors contribute to workplace inequality. Currently, she is working on projects examining the influence of social trust, kinship, and nationalism on cross-country differences in labor market practices. Before graduate school, she was a research associate at Harvard Business School, studying organizational inequality. She earned an M.P.P from the University of Chicago and a B.A. from Brandeis University."
+
+    - name: Xi Wang
+      image: /assets/images/24-chicago-people-xi_wang.png
+      bio: "Xi Wang is a fourth-year Ph.D student in Sociology at Northwestern University and is currently training at the Chicago Psychoanalytic Institute. She is broadly interested in the culture and institution of mental health, especially in a transnational context. Focusing on the post-licensure context of psychotherapy in China, she examines how social actors re-professionalize the field through various forms of expertise. Her dissertation explores the professional jurisdiction of psychoanalysis and its connection to social modernity, examining why psychoanalysis and psychodynamic psychotherapy are intellectually prominent but clinically marginalized in contemporary China through psychoanalytic training programs co-taught by indigenous practitioners and Western therapists."
+
+    - name: Jessica Zier
+      image: /assets/images/24-chicago-people-jessica_zier.jpg
+      bio: "Jessica (Jessi) is a PhD student in the Media, Technology and Society program at Northwestern University. Her research focuses on the psychology of persuasion, (mis)information processing, and human communication behaviors in the context of digital and algorithmic systems. She holds a BSc in Cognitive Neuroscience (Minerva University) and MA in Digital Communication (Vrije Universiteit Brussel/University of Salzburg)."
+
+  
 
 Teaching Assistant: 
   title: Teaching Assistant
