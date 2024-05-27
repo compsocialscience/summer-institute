@@ -1,4 +1,9 @@
-- name: Chris Bail
+- name: Chris Bail, Founding Director
   image: /assets/images/chrisbail.jpg
   bio: "Chris Bail is Co-Founder of SICSS and Professor of Sociology, Political Science, and Public Policy at Duke University where he directs the Polarization Lab. He is also affiliated with the Interdisciplinary Data Science Program, the Duke Network Analysis Center, and serves on the Advisory Council of the National Science Foundation's SBE Directorate. His research examines political polarization, culture and social psychology using tools from the  field of computational social science. He is the author of Breaking the Social Media Prism: How to Make our Platforms Less Polarizing. He has organized or co-organized six SICSS locations."
   website: http://www.chrisbail.net/
+
+- name: Kat Albrecht, Director (North America)
+  image: /assets/images/KatAlbrecht.jpeg
+  bio: "Kat Albrecht is an Assistant Professor at Georgia State University in the Andrew Young School of Policy Studies and a Judicial Innovation Fellow at Georgetown Law School. She is a computationally trained legal scholar and social scientist studying how complex data can inform policy with particular emphasis on the nexus between criminal data, fear, and regulation. She is on the data engineering team of the Systematic Content Analysis of Litigation EventS Open Knowledge Network (SCALES OKN), an NSF Convergence Accelerator Project building an AI powered data platform that makes court records public and analyzable. She has convened sites of SICSS since 2018 including SICSS Chicago, SICSS Atlanta, and SICSS South Florida."
+  website: https://katalbrecht.org/

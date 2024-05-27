@@ -7,8 +7,8 @@
   events:
     - name: "10:00 - 12:00 Introduction and Lightning Talks"
     - name: "12:00 - 13:00 Lunch"
-    - name: "13:00 - 15:00 Workshop TBA"
-    - name: "17:00         Welcome Drinks"
+    - name: "13:00 - 15:00 Keynote Juhi"
+    - name: "15:00 - 17:00 Welcome Drinks with Juhi"
     
     
 - date: 2024-06-11 
@@ -16,7 +16,7 @@
   events:
     - name: "10:00 - 12:00 Workshop Github and Collaboration (Marie Labussière)"
     - name: "12:00 - 13:00 Lunch"
-    - name: "13:00 - 15:00 Workshop Web Scraping (Rens Wilderoom)"
+    - name: "13:00 - 15:00 Workshop Text Analysis (Rens Wilderom)"
 
 - date: 2024-06-12
   name: A1.04
