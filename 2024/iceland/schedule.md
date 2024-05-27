@@ -1,6 +1,6 @@
 ---
 layout: location_detail
-partner_site: iceand
+partner_site: iceland
 schedule: true
 ---
 
