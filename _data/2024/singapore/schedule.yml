@@ -8,7 +8,7 @@
     - name: "11:30 - 13:00 Lunch (The Green Wall Lounge, Level 1)"
     - name: "13:00 - 14:40 **Speech by [Chao Yu](https://www.chaovincentyu.com/), [National University of Singapore](https://nus.edu.sg/)** / **Title**: *Exploring Subtle Motivations and Unintended Consequences Using Text Sentiment Analysis* / **Abstract**: *Communication behavior is observable to an unprecedented degree, primarily through raw text, although visual content is becoming increasingly prevalent. In this workshop, we will focus on the analysis of online reviews, a common form of raw text, through two focused tutorials. Each session begins with an empirical study to ground our exploration. The first tutorial covers sentence-level sentiment analysis, which provides insights into how sentiments are expressed across different parts of a text. The second tutorial advances to a more targeted analysis of sentiments associated with specific aspects within a text (e.g., sentiment related to food or service, or the environment in a restaurant review). This approach not only helps understand individual-level motives but also explores macro-level phenomena that offer a comprehensive view of communication behaviors as they manifest online.*"
     - name: "14:40 - 15:10 Tea Break"
-    - name: "15:10 - 16:10 **Research Sharing (participants)**"
+    - name: "15:10 - 16:10 **Research Sharing (participants)** / Xueyan Cao, The Chinese University of Hong Kong / Yi Ting Chen, University of Wisconsin-Madison / Victoria Chua, Nanyang Technological University / Jianing Deng, Duke University / Min Gong, National University of Singapore / Kunmei Han / National University of Singapore"
 
 - date: June 4, 2024
   name: "Platform and Computational Approaches"
@@ -18,7 +18,7 @@
     - name: "11:30 - 13:00 Lunch"
     - name: "13:00 - 14:40 **Speech by [Tianyu He](https://sites.google.com/view/hetianyu/t-he), [National University of Singapore](https://nus.edu.sg/)** / **Title**: *Thinking and Working with Algorithms in Social Sciences* / **Abstract**: *In this talk, I will argue that computational methods will have a profound impact on the future of social science research. This involves incorporating algorithms into two key areas of the research process. First, leveraging algorithms to generate novel theoretical conjectures and validate these hypotheses. Second, utilizing algorithms to create better experimental paradigms and operationalize previously elusive concepts. The talk will provide an overview of algorithm-aided research, illustrated with specific empirical examples.*"
     - name: "14:40 - 15:10 Tea Break"
-    - name: "15:10 - 16:10 **Research Sharing (participants)**"
+    - name: "15:10 - 16:10 **Research Sharing (participants)** / Yuhan Hu, University of Oxford / Tengjiao Huang, DSO National Laboratories / Xiaoyun Huang, The Chinese University of Hong Kong / Jianfeng Lan, Shanghai Jiao Tong University / Gionnieve Lim, Singapore University of Technology and Design / Xinyi Liu, Northwestern University / Siyuan Brandon Loh, Institute of High Performance Computing (Astar)"
 
 - date: June 5, 2024
   name: "Data Annotation and Social Networks"
@@ -28,7 +28,7 @@
     - name: "11:30 - 13:00 Lunch"
     - name: "13:00 - 14:40 **Speech by [Prasanta Bhattacharya](https://prasantabhattacharya.github.io/); [Agency for Science, Technology and Research (ASTAR)](https://www.a-star.edu.sg/)** / **Title**: *Analysing Social Networks: Concepts, Methods and Applications* / **Abstract**: *Social networks influence nearly every aspect of our social and professional lives, often invisibly. The quantitative analysis of social networks has become increasingly systematized over the years, and is now widely considered a mature and frontline discipline in the study of human behaviour. This talk will introduce participants to foundational concepts, methods and a few relevant studies concerning the analysis of dynamic social networks – focusing particularly on the challenge of inferring causal relationships in large networks using both experimental and non-experimental approaches. We will conclude with a brief discussion on some of the emerging challenges and untapped research opportunities in this space.*"
     - name: "14:40 - 15:10 Tea Break"
-    - name: "15:10 - 16:10 **Research Sharing (participants)**"
+    - name: "15:10 - 16:10 **Research Sharing (participants)** / Qianfeng Lu, Università della Svizzera italiana / Tianqi Song, National University of Singapore / Jiajun Tang, Nanjing University / Youyi Wei, The Chinese University of Hong Kong / Tianyi Yang, University of Massachusetts Amherst / Xuzhen Yang, Michigan State University"
 
 - date: June 6, 2024
   name: "Measuring Wellbeing and the Usage of LLM in Social Science"
