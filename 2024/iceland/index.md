@@ -5,7 +5,7 @@ main: true
 image: /assets/images/iceland.png
 ---
 
-From August 6th to August 16th, University of Iceland will sponsor the Summer Institute in Computational Social Science, to be held at Reykjavik, Iceland. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
+From August 6th to August 16th, the Summer Institute in Computational Social Science will take place in Reykjavik, hosted by the University of Iceland. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
 
 The instructional program will involve group problem sets, and participant-led research projects. Topics covered include machine learning, network analysis and digital experiments as well as ethics, validity, and role of theory. There will be ample opportunities for students to discuss their ideas and research with the organisers, other participants, and visiting speakers. Because we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute will be released open source.
 
