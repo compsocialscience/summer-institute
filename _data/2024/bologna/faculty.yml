@@ -24,12 +24,12 @@
   website: https://www.unibo.it/sitoweb/chiara.binelli/en
 
 - name: Paride Carrara
-  image: assets/images/paridecarrara.jpg
+  image: /assets/images/paridecarrara.jpg
   bio: "PhD student enrolled in the 36th cycle of the course in Political and Social Science. His research focuses on the causes and consequences of ideological ambiguity. Among his interests, there are intra-party politics and text analysis."
   website: https://www.unibo.it/sitoweb/paride.carrara2/en
 
 - name: Simon Luck
-  image: assets/images/simonluck.jpeg
+  image: /assets/images/simonluck.jpeg
   bio: "Simon is a PhD student in Political Science at the University of Bologna. His research interests are political representation, democratic institutions, and media effects. He specialized in Computational Social Science, with a particular focus on NLP."
   website: https://www.unibo.it/sitoweb/simon.luck2/
 
