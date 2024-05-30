@@ -41,6 +41,7 @@
     - name: "13:00 - 14:00 Introduction of Group Work"
     - name: "14:00 - 16:00 Project Work in Groups [Under the supervision and guidance of Unibo staff and Keynote Speaker]"
     - name: "16:30 'Get-to-know' Aperitivo"
+    - name: "20:00 Social Dinner"
     
 - date: 2024-06-18
   name: Hands-on session on working with classifiers in text analysis [In Person at UNIBO]
@@ -48,12 +49,11 @@
     - name: "10:00 - 12:00 Keynote Speech [Rubing Shen]"
     - name: "12:00 - 13:00 Lunch Break"
     - name: "13:00 - 16:00 Project Work in Groups [Under the supervision and guidance of Unibo staff and Keynote Speaker]"
-    - name: "20:00 Social Dinner"
 
 - date: 2024-06-19
   name:  Application of CSS in Non-Academic Fields, Data journalism [In Person at UNIBO]
   events:
-    - name: "10:00 - 12:00 Keynote Speech"
+    - name: "09:30 - 12:00 Keynote Speech [Prof. Alessandra Casarico]"
     - name: "12:00 - 13:00 Lunch Break"
     - name: "13:00 - 14:30 Keynote Speech, 'Application of Computational Methods in the Non-Academic Field' [Prof. Oltion Preka]"
     - name: "14:30 - 16:00 Project Work in Groups [Under the supervision and guidance of Unibo staff and Keynote Speaker]"
