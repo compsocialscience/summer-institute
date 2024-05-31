@@ -10,10 +10,30 @@ image: /assets/images/howard.jpg
 <br />
 
 ---
-<u>The Most Important Developments in Evidence and Well-Being in 2023, According to Our Listeners</u>
-<br><font color="grey"><font size="2">Dec 20, 2023</font></font> 
-<br><i><font size = "2">For the final episode of 2023, Mathematica’s On the Evidence podcast features contributions from listeners and former guests about important developments in evidence and well-being in 2023 that will continue to matter in 2024.</font></i>
-<br><font size = "1">(Posted by <a href="https://www.mathematica.org/blogs/the-most-important-developments-in-evidence-and-well-being-in-2023-according-to-our-listeners">Mathematica</a>)</font>
+
+<u>BLOG: Leveraging Data Science to Address Important Questions</u>
+<br><font color="grey"><font size="2">May 7, 2024</font></font> 
+<br><i><font size = "2">Training the next generation of data scientists to tackle social issues through interdisciplinary collaboration and an emphasis on diversity and inclusion in research. </font></i>
+<br><font size = "1">(Posted by <a href="https://researchmethodscommunity.sagepub.com/blog/sicss-leveraging-data-science-to-address-important-questions">Sage Methodspace</a>)</font>
+
+
+<u>BLOG: Rethinking Inclusivity in Computational Social Science</u>
+<br><font color="grey"><font size="2">May 16, 2024</font></font> 
+<br><i><font size = "2">SICSS stresses the need for inclusivity and accessibility in social and data science training, particularly for individuals with disabilities.</font></i>
+<br><font size = "1">(Posted by <a href="https://researchmethodscommunity.sagepub.com/blog/sicss-rethinking-inclusivity">Sage Methodspace</a>)</font>
+
+
+<u>BLOG: The Beauty in Nurturing Communal and Liberating Forms of Computational Social Science</u>
+<br><font color="grey"><font size="2">May 21, 2024</font></font> 
+<br><i><font size = "2">Joel E. Martinez discusses the transformative experiences and communal efforts he witnessed as a participant in the SICSS-Howard/Mathematica 2023 program.</font></i>
+<br><font size = "1">(Posted by <a href="https://researchmethodscommunity.sagepub.com/blog/sicss-nurturing-communal-and-liberating-css">Sage Methodspace</a>)</font>
+
+
+<u>BLOG: Insights and Inspirations from Leading Scholars for Future Computational Social Scientists</u>
+<br><font color="grey"><font size="2">May 28, 2024</font></font> 
+<br><i><font size = "2">SICSS-Howard/Mathematica 2023 participants were joined by three guest speakers: Desmond U. Patton, Ph.D., Imani N. S. Munyaka, Ph.D., and Deen Freelon, Ph.D. Speakers, to share their recent and ongoing projects. </font></i>
+<br><font size = "1">(Posted by <a href="https://researchmethodscommunity.sagepub.com/blog/sicss-insights-and-inspirations">Sage Methodspace</a>)</font>
+
 
 <u>Howard University and Mathematica to Host Computational Social Science Institute: Program will continue its focus on countering anti-Black racism and inequity</u>
 <br><font color="grey"><font size="2">Feb 1, 2024</font></font> 
