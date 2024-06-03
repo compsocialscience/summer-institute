@@ -43,7 +43,10 @@
   bio: "Juhi Kulshrestha is Assistant Professor in the Department of Computer Science at Aalto University. Her research focuses on studying online news and information consumption, online political communication, online social media and the role of online algorithmic intermediaries in shaping people's online information diets. She has developed frameworks for measuring the bias and diversity in the news and information that users are consuming via algorithmic recommendation and search systems on web and social media platforms."
 
 
-  
+- name: "Malte Lüken"
+  image: /assets/images/malte_lueken.jpg
+  website: https://maltelueken.github.io/
+  bio: "Malte Lüken is a Research Software Engineer at the Netherlands eScience Center. His Work focuses on natural language processing and machine learning in the digital humanities and social sciences. He graduated from the Research Master’s Psychology at the University of Amsterdam with a focus on methodology and statistics and has been contributing to the open science software JASP. His interests are applied (Bayesian) statistics, machine learning, and programming in research."
 
     
   
