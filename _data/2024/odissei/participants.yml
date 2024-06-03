@@ -45,22 +45,22 @@
   image: /assets/XinranWang - Xinran Wang.JPG
   bio: "Xinran is a PhD student in Environmental Psychology at the University of Groningen. She studies perceptions of the roles of different societal actors in addressing climate change. Using target sampling, large-scale surveys and social media data, her research aims to understand the social and psychological factors that motivate or inhibit societal-wide climate action. Previously, Xinran worked as a data scientist at the Yale Program on Climate Change Communications and holds an MA in quantitative methods in social science and a BS in math."
   website: https://www.linkedin.com/in/xinran-wang-37227826
+  
+- name: "Jade Vrielink"
+  image: /assets/Jade Vrielink.jpeg
+  bio: "Jade Vrielink is a PhD Candidate in Political Communication at Wageningen University and Research. She studies the impact of online data-driven campaigning (e.g. microtargeting) on voter attitudes and behavior using longitudinal surveys, experience sampling, data donations, and experiments. Her research interests include the interaction between social media, society and politics, political behavior, computational social science and gender and politics."
+  website: https://www.linkedin.com/in/jade-vrielink-38920782/
 
-  - name: "Jade Vrielink"
-    image: /assets/Jade Vrielink.jpeg
-    bio: "Jade Vrielink is a PhD Candidate in Political Communication at Wageningen University and Research. She studies the impact of online data-driven campaigning (e.g. microtargeting) on voter attitudes and behavior using longitudinal surveys, experience sampling, data donations, and experiments. Her research interests include the interaction between social media, society and politics, political behavior, computational social science and gender and politics."
-    website: https://www.linkedin.com/in/jade-vrielink-38920782/
+- name: "Ignacio Urria Yáñez"
+  image: /assets/PersonalPic1 - Ignacio Urria.png
+  bio: "Ignacio Urria Yáñez is a PhD candidate in the Urbanism Department of the Faculty of Architecture and the Built Environment at TU Delft. His research interests span sociospatial inequalities, urban segregation, neighbourhood effects, labour market and machine learning. His PhD project focuses on studying the spatio-temporal evolution of segregation using multiple geographical scales and residential characteristics. He holds an MSc in Human Geography from Utrecht University, and MSc and BA in Economics from Universidad de Chile. Prior to moving to the Netherlands, Ignacio was an analyst in the Chilean Ministry of Social Development."
 
-  - name: "Ignacio Urria Yáñez"
-    image: /assets/PersonalPic1 - Ignacio Urria.png
-    bio: "Ignacio Urria Yáñez is a PhD candidate in the Urbanism Department of the Faculty of Architecture and the Built Environment at TU Delft. His research interests span sociospatial inequalities, urban segregation, neighbourhood effects, labour market and machine learning. His PhD project focuses on studying the spatio-temporal evolution of segregation using multiple geographical scales and residential characteristics. He holds an MSc in Human Geography from Utrecht University, and MSc and BA in Economics from Universidad de Chile. Prior to moving to the Netherlands, Ignacio was an analyst in the Chilean Ministry of Social Development."
+- name: "Nicole	Walasek"
+  image: /assets/Nicole Photo - Nicole Walasek.jpg
+  bio: "I am a postdoctoral researcher interested in how the environment shapes evolution and development. To study this broad question, I work at the interface of various disciplines, such as biology, ecology, psychology, and computer science. I have a background in cognitive science, computer science, and developmental psychology."
+  website: https://x.com/NicoleWalasek
 
-  - name: "Nicole	Walasek"
-    image: /assets/Nicole Photo - Nicole Walasek.jpg
-    bio: "I am a postdoctoral researcher interested in how the environment shapes evolution and development. To study this broad question, I work at the interface of various disciplines, such as biology, ecology, psychology, and computer science. I have a background in cognitive science, computer science, and developmental psychology."
-    website: https://x.com/NicoleWalasek
-
-  - name: "Amber Howard"
-    image: /assets/Amber Howard.jpeg
-    bio: "Amber is completing her PhD between the department of Health Policy at the University of Melbourne, and the department of Geography, Planning, and Int. Development Studies at the University of Amsterdam. Her research describes and quantifies young adult’s changing housing arrangements over the 2000s, focusing on socio-economic inequalities."
-    website: https://scholar.google.com/citations?user=Rbob98oAAAAJ&hl=en
+- name: "Amber Howard"
+  image: /assets/Amber Howard.jpeg
+  bio: "Amber is completing her PhD between the department of Health Policy at the University of Melbourne, and the department of Geography, Planning, and Int. Development Studies at the University of Amsterdam. Her research describes and quantifies young adult’s changing housing arrangements over the 2000s, focusing on socio-economic inequalities."
+  website: https://scholar.google.com/citations?user=Rbob98oAAAAJ&hl=en
