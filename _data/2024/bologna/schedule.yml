@@ -9,8 +9,10 @@
     - name: "09:15 - 10:45 Lecture, Causal Machine Learning [Prof. Chiara Binelli, University of Bologna]"
     - name: "11:00 - 13:00 Data management & Web Scraping, ‘Creating a dataset from scratch in CSS"
     - name: "13:00 - 14:00 Lunch Break"
-    - name: "14:00 - 16:00 Keynote Speech [Dr. Chris Albon, Director of Machine Learning at the Wikimedia Foundation]"
 
+
+=======
+    
 
 - date: 2024-06-12
   name: Varieties of Text Analysis and Conceptual dimensions of CSS [Online]
@@ -28,15 +30,14 @@
     - name: "09:00 - 10:30 Lecture on Working with Digital Traces [Prof. Marco Albertini, University of Bologna]"
     - name: "10:30 - 12:00 Lab, 'Integrating APIs in your research workflow and Github' [Aidar Zinnatullin]"
     - name: "12:00 - 13:00 Lunch Break"
-    - name: "13:00 - 14:30 'AI & Ethics' [Prof. Laura Sartori, University of Bologna]"
+    - name: "13:00 - 14:30 'AI & Society' [Prof. Laura Sartori, University of Bologna]"
 
 
 - date: 2024-06-14
   name: Studying Political Polarization with CSS Methods [Online]
   events:
     - name: "09:30 - 11:30 Keynote Speech, 'Amplified Extremes: Using Large Language Models to Understand Destructive Political Polarization in Italian Elections' [Prof. Fabio Giglietto]"
-    - name: "11:30 - 12:30 Lunch Break"
-    - name: "12:30 - 13:00 Organization & Induction of Second Week"
+    - name: "11:30 - 12:00 Organization & Induction of Second Week"
     - name: "Travel to Bologna"
 
 - date: 2024-06-17
