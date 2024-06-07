@@ -1,1 +1,11 @@
-- name:
+- name: Yunjung Yang
+  image: /assets/images/kr_Yunjung_Yang.png
+  bio: YunJung Yang is a second-year PhD student at KDI School. Her work focuses on group dynamics in regulation policy, utilizing computational methods such as text analysis, natural language processing, and quantitative analysis. YunJung received her M.A. in Public Administration in International Development from Harvard Kennedy School and B.A. in Public Administration and Economics from Yonsei University.
+
+- name: Suhyoung Choi
+  image: /assets/images/kr_Suhyoung_Choi.png
+  bio: Suhyoung Choi is a Master’s student in Digital Humanities and Computational Social Sciences at KAIST. Her research interests center on bias, inequality and discrimination represented on technology with computational methods. She is currently studying Data Science, and the application of those methods solving various social problems.
+
+- name: Myokyung Han
+  image: /assets/images/kr_Myokyung_Han.png
+  bio: Myokyung Han is a Master’s student in Digital Humanities and Computational Social Sciences (DHCSS) at KAIST. With a solid foundation in computational social sciences, her research focuses on how digital technologies affect the production and consumption of knowledge across various domains. To explore these impacts, she aims to integrate theoretical frameworks and analytical methodologies with new big data sources.

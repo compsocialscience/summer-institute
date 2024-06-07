@@ -1,0 +1,66 @@
+- date: 2024-08-05
+  name: "The pre-night"
+  events:
+    - name: "17:30 - 19:00 Voluntary pre-SICSS meeting"
+- date: 2024-08-06
+  name: "Starting of SICSS"
+  events:
+    - name: "9:00 - 10:15 SICSS and participant introduction introduction"
+    - name: "10:15 - 10:45 Ethics chapter review"
+    - name: "10:45 - 11:45 Ethics chapter exercise"
+    - name: "11:45 - 13:45 Lunch"
+    - name: "13:45 - 14:15 Validity and reliability chapter review"
+    - name: "14:15 - 15:00 Validity and reliability conceptual exercise"
+    - name: "15:00 - 16:30 Software libraries, exercises"
+    - name: "16:30 - 17:00 Day wrapup"
+- date: 2024-08-07
+  name: "Data Science"
+  events:
+    - name: "9:00 - 9:30 Day kickoff and chapter revise exercise"
+    - name: "9:30 - 12:00 Conceptual exercise"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 13:30 Introduction to programming task"
+    - name: "13:30 - 16:00 Working on programming tasks (including break)"
+    - name: "16:00 - 16:30 Day wrapup"
+    - name: "16:45 - 17:00 Voluntary: Review of interactive systems"
+    - name: "17:00 - 17:30 Voluntary: Interactive systems, Conceptual exercise (Part I)"
+- date: 2024-08-08
+  name: "Network Analysis"
+  events:
+    - name: "9:00 - 9:30 Day kickoff and chapter revise exercise"
+    - name: "9:30 - 12:00 Conceptual exercise"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 13:30 Introduction to programming task"
+    - name: "13:30 - 16:00 Working on programming tasks (including break)"
+    - name: "16:00 - 16:30 Day wrapup"
+    - name: "16:45 - 17:30 Voluntary:  Interactive systems, Conceptual exercise (Part II)"
+- date: 2024-08-09
+  name: "Simulation models and complex systems"
+  events:
+    - name: "9:00 - 9:30 Day kickoff and chapter revise exercise"
+    - name: "9:30 - 12:00 Conceptual exercise"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 13:30 Introduction to programming task"
+    - name: "13:30 - 15:00 Working on programming tasks (including break)"
+    - name: "15:00 - 16:00 Group work teaming and ideation"
+    - name: "16:00 - 16:30 Day wrapup"
+- date: 2024-08-12
+  name: "Project work"
+  events:
+    - name: "9:00 - 10:00 Meeting with each team"
+- date: 2024-08-13
+  name: "Project work"
+  events:
+    - name: "9:00 - 10:00 Meeting with each team"
+- date: 2024-08-14
+  name: "Project work"
+  events:
+    - name: "9:00 - 10:00 Meeting with each team"
+- date: 2024-08-15
+  name: "Project work"
+  events:
+    - name: "9:00 - 10:00 Meeting with each team"
+- date: 2024-08-16
+  name: "Presentations and wraup"
+  events:
+    - name: "12:00 - 15:00 Presentations and wraup"

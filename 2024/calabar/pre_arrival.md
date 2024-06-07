@@ -5,7 +5,7 @@ partner_site: calabar
 
 # Pre-arrival
 
-The Summer Institute will bring together people from many fields and backgrounds. In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS-Calabar 2023.
+The Summer Institute will bring together people from many fields and backgrounds. In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS-Calabar 2024.
 
 - Complete the pre-institute readings
 - Complete coding bootcamp (if needed)
@@ -39,7 +39,7 @@ Some of the activities will require coding, and we will support R. You are welco
 
 ### Slack
 
-Before participating at SICSS-Calabar 2023, you should have an account in the SICSS Slack workspace.  If you have not used Slack before, you should review these [getting started](https://slack.com/help/categories/360000049043-Getting-started) materials.  Slack can be hard to use at first, but we've found that it is the best way to enable everyone to collaborate.
+Before participating at SICSS-Calabar 2024, you should have an account in the SICSS Slack workspace.  If you have not used Slack before, you should review these [getting started](https://slack.com/help/categories/360000049043-Getting-started) materials.  Slack can be hard to use at first, but we've found that it is the best way to enable everyone to collaborate.
 
 ### GitHub
 
