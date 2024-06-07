@@ -1,7 +1,8 @@
 - name: Francesco Niccolò Moro
   image: /assets/images/francesconicolomoro.jpg
   bio: "Francesco Niccolò Moro is Professor of Political Science at the University of Bologna and Adjunct Professor of International Relations at the Johns Hopkins University-SAIS Europe. His research focuses on collective violence, with particular reference to the strategies and organizational features of armed groups (and organized crime), on the relationship between violence and governance, and on national security policies. Francesco is Head of Department and a member of Academic Senate and of the UNIBO Learning and Teaching Center."
-  website: https://www.unibo.it/sitoweb/filippo.andreatta2/en
+  website: https://www.unibo.it/sitoweb/francesco.moro4/en
+=======
   
 - name: Giampiero Giacomello
   image: /assets/images/GGiacomello.jpg
@@ -13,21 +14,22 @@
   bio: "Marco Albertini is Full Professor at the University of Bologna. His research interests focus on intergenerational relations; the consequences of separation and divorce; the comparative study of income inequality and social stratification; the consequences of childlessness; long-term care policies and ageing."
   website: https://www.unibo.it/sitoweb/marco.albertini2/en
 
+  name: Chiara Binelli
+  image: /assets/images/Binelli.png
+  bio: "Chiara Binelli received her Ph.D. in Economics from the University College London. She is Associate Professor of Economics in the Department of Political and Social Sciences at the University of Bologna and Founder and Co-Director of the Center for Research and Social Progress (cersp.org). Her early research focused on returns to schooling, quality of education, informal labor markets, social inequality, employment and earnings’ expectations. More recently, she has been working on using data science to address policy-relevant questions such as climate change. She has published in several international journals such as the Review of Economic Dynamics, Social Indicators Research, Economics of Education Review, and World Development."
+  website: https://www.unibo.it/sitoweb/chiara.binelli/en
+
 - name: Matthew Loveless
   image: /assets/images/PMLoveless.jpg
   bio: "Matthew Loveless is an Associate Professor in the Department of Political and Social Sciences at the University of Bologna. He investigates how individuals make sense of politics in Europe, focusing on public opinion, media use, and perceptions."
   website: https://www.unibo.it/sitoweb/paulmatthew.loveless/en
 
-- name: Chiara Binelli
-  image: /assets/images/Binelli.png
-  bio: "Chiara Binelli received her Ph.D. in Economics from the University College London. She is Associate Professor of Economics in the Department of Political and Social Sciences at the University of Bologna and Founder and Co-Director of the Center for Research and Social Progress (cersp.org). Her early research focused on returns to schooling, quality of education, informal labor markets, social inequality, employment and earnings’ expectations. More recently, she has been working on using data science to address policy-relevant questions such as climate change. She has published in several international journals such as the Review of Economic Dynamics, Social Indicators Research, Economics of Education Review, and World Development."
-  website: https://www.unibo.it/sitoweb/chiara.binelli/en
-
-- name: Paride Carrara
+  name: Paride Carrara
   image: /assets/images/paridecarrara.jpg
   bio: "PhD student enrolled in the 36th cycle of the course in Political and Social Science. His research focuses on the causes and consequences of ideological ambiguity. Among his interests, there are intra-party politics and text analysis."
   website: https://www.unibo.it/sitoweb/paride.carrara2/en
 
+=======
 - name: Simon Luck
   image: /assets/images/simonluck.jpeg
   bio: "Simon is a PhD student in Political Science at the University of Bologna. His research interests are political representation, democratic institutions, and media effects. He specialized in Computational Social Science, with a particular focus on NLP."
