@@ -1,1 +1,51 @@
+- name: Marlene Hecht
+  image: /assets/images/Hecht_Marlene - Marlene.jpg
+  bio: "Marlene is a PhD student in Psychology at the Center for Adaptive Rationality at the Max Planck Institute for Human Development in Berlin. Her research interests mainly lie at the intersection of social decision-making, information search, and digital media. Currently, she investigates the cognitive processes by which people form social judgments."
 
+- name: Francesco Mattioli
+  image: /assets/images/ Francesco Mattioli.jpg
+  bio: "Francesco is a PhD student in Social and Political Science at Bocconi University in Milan, where he previously obtained an MSc in Economic and Social Sciences. His research interests lie at the intersection of political economy and cultural economics. His doctoral research focuses on measuring novel dimensions of political selection through computational methods, and identifying their economic and political consequences in the context of macro-demographic changes using causal inference methods."
+
+- name: Anna George
+  image: /assets/images/Anna George.png
+  bio: "Anna George is a Social Data Science PhD student at the University of Oxford who uses computational approaches to study online harms. Her research focuses on the message transmission of harmful online communities. Before joining the doctoral program at the Oxford Internet Institute (OII), Anna graduated with distinction from the OII’s MSc in Social Data Science. Anna holds an M.S. in Industrial/Organizational-Social Psychology and a B.S. in Psychology, Second Major in Sociology, and minor in Statistics."
+
+- name: Márton Végh
+  image: /assets/images/Márton Végh.jpg
+  bio: "Márton Végh is a PhD student at Bocconi University's Department of Social and Political Sciences, interested in the nexus of political economy and political behavior. His research examines the political drivers and effects of global economic flows. Before starting his PhD, he worked at the European Central Bank and earned an MA from the Central European University."
+
+- name: Rebecca Langella
+  image: /assets/images/rebecca langella.jpeg
+  bio: "Rebecca is PhD is a Medical Research Council-funded PhD candidate based at the Great Ormond Street Institute for Child Health, currently working on large administrative datasets to explore inequalities in healthcare and social care provision in the UK. Her interest lies in disenfranchised and under-reported population, with a particular focus on unaccompanied asylum seeking children (UASCs). "
+
+- name: Paul Drecker
+  image: /assets/images/Paul Drecker.png
+  bio: "Paul Drecker is a research assistant and doctoral student at the University of Münster. In his research, he uses methods of computational social science (network analyses, NLP) to study the polarisation of the climate policy debate"
+
+- name: Elisabeth Höldrich
+  image: /assets/images/ Elisabeth Höldrich.png
+  bio: "Elisabeth Höldrich is a doctoral student at the University of Graz. With a background in theoretical and computational physics, her current research in computational social science examines the spread of conspiracy theories in online environments. Through the application of Natural Language Processing and topic modeling Elisabeth hopes to measure different characteristics of conspiracy narratives and identify which of these characteristics contribute to the popularity of a narrative."
+
+- name: Maria Zuffova
+  image: /assets/images/Zuffova-photo - Maria Bulkova.jpg
+  bio: "Mária Žuffová is a Research Fellow at the European University Institute. She holds a Ph.D. in Politics from the University of Strathclyde, Glasgow. Her research interests include media freedom, politics of transparency, and gender representation and stereotypes. Her work has been published in journals such as the EPSR and IJPP."
+
+- name: Gaetano Scaduto
+  image: /assets/images/IMG_0610 - Gaetano Kaixo.jpg
+  bio: "I am a PhD Student at the University of Milan-Bicocca, currently in visiting with the Media Movement and Politics group at the University of Antwerp. I do research in the fields of political communication, political psychology, and related. In my research I use both experimental and computational methods."
+
+- name: Lorenzo Mattioli
+  image: /assets/images/IMG_0845 - Lorenzo Mattioli.jpeg
+  bio: "Lorenzo Mattioli has a background in Economics, and is now a Master student in Politics and Social Policy at the University of Bologna."
+
+- name: Stefano Sangiovanni
+  image: /assets/images/Sangiovanni - Stefano Sangiovanni.jpeg
+  bio: "Stefano Sangiovanni is currently pursuing a PhD in Political Studies at the University of Milan. His research interests include political crises and scandals, intra-party politics, leadership, computational methods, and quantitative text analysis. He holds a BA in Sociology and an MA in Administration and Public Policy."
+
+- name: Giuseppe Corbelli
+  image: /assets/images/Giuseppe Corbelli.jpg
+  bio: "Giuseppe Corbelli is a postdoctoral researcher at Sapienza University of Rome, and he is collaborating with Uninettuno University on several research projects. His research focuses on quantitative methods applied to the understanding of moral self-regulation and behavior. He is interested in the interplay between personality, cognitive dimensions, and manipulated information on social media."
+
+- name: Pietro Michael Lepidi
+  image: /assets/images/Profile picture - Pietro Lepidi.jpeg
+  bio: "Pietro Michael Lepidi is a PhD Candidate in Political and Social Sciences at the University of Bologna. He has broad interests in computational methods and studies of political representation in post-industrial democracies. His dissertation concerns electoral competition in Europe and its relationship with 'risk', both economic and environmental. Pietro earned a BA from LUISS University and an MPhil in European Politics and Society from the University of Oxford."
