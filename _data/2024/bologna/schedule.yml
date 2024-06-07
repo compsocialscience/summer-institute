@@ -52,6 +52,7 @@
     - name: "14:00 - 16:00 Project Work in Groups [Under the supervision and guidance of Unibo staff and Keynote Speaker]"
     - name: "16:30 'Get-to-know' Aperitivo"
 
+=======
 
     
 - date: 2024-06-18
@@ -62,14 +63,16 @@
     - name: "10:00 - 12:00 Keynote Speech, 'Exploring Evolving Norms in French Print Media through Machine Learning: Discerning Changes in Journalistic Practices' [Dr. Rubing Shen]"
     - name: "12:00 - 13:00 Lunch Break"
     - name: "13:00 - 16:00 Project Work in Groups [Under the supervision and guidance of Unibo staff and Keynote Speaker]"
+=======
 
 
 - date: 2024-06-19
   name:  Application of CSS in Non-Academic Fields, Data journalism [In Person at UNIBO]
   events:
+    - name: "09:30 - 12:00 Keynote Speech [Prof. Alessandra Casarico]"
+=======
 
 =======
-    - name: "10:00 - 12:00 Keynote Speech [Prof. Alessandra Casarico]"
     - name: "12:00 - 13:00 Lunch Break"
     - name: "13:00 - 14:30 Keynote Speech, 'Application of Computational Methods in the Non-Academic Field' [Dr. Oltion Preka]"
 
