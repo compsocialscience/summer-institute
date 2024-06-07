@@ -1,1 +1,59 @@
-- name:
+- name: Annie Hui-Ping Lin
+  image: /assets/images/kr_Annie_Hui-Ping_Lin.png
+  bio: Annie Hui-Ping Lin is an incoming PhD student in Political Science at UC San Diego. Her research interests lie in global governance and international cooperation, with a particular focus on environmental concerns and marine affairs. She is especially intrigued by institutional overlap and the impact of international law-making on domestic institutions, including the dynamics of (de)judicialization and the harmonization between domestic and international institutions. Originally from Taiwan, she obtained her Bachelor of Social Science in East Asian Studies from National Taiwan Normal University in 2021 and her M.A. in Political Science from National Taiwan University in 2024.
+
+- name: Sinjae Kang
+  image: /assets/images/kr_Sinjae_Kang.png
+  bio: Sinjae Kang is a postdoctoral fellow at Center for Digital Social Science in Yonsei University. He received his PhD from the Department of Political Science at Yonsei University. And he also received Best Dissertation from Korean Political Science Association. He is interested in computational social science, particularly in using computational methods to analyze the behavior of legislators in Korean National Assembly. He published many studies on the legislative process and political behavior in Korean journals.
+
+- name: Vira Vyshnevska
+  image: /assets/images/kr_Vira_Vyshnevska.png
+  bio: Vira Vyshnevska holds a master degree in international economics and is currently pursuing her master in public policy in KDI School of Public Policy. She has a solid background in the banking field. Currently, her research interest focuses on applying data science techniques to analyze the banks’ financial fundamentals and develop financial forecast.
+
+- name: Bryan Nathanael Wijaya
+  image: /assets/images/kr_Bryan_Nathanael_Wijaya.png
+  bio: Bryan is a first-year M.S. candidate in the School of Computing at KAIST. He is passionate about applied artificial intelligence (AI), especially generative AI for protein engineering, data science, multimodal AI, and large language models (LLMs). Recently, he has gained interest in computational social science, particularly in analyzing the impact of the recent surge of machine learning developments–especially LLMs–on society and their tendencies and how to leverage these techniques to tackle social issues by revealing patterns and anomalies in society through a data-driven approach. He received a B.S. in electrical engineering with a minor in chemical and biomolecular engineering and an AI special designated major from KAIST.
+
+- name: Gleb Papyshev
+  image: /assets/images/kr_Gleb_Papyshev.png
+  bio: Gleb Papyshev is a Research Assistant Professor in the Division of Social Science at The Hong Kong University of Science and Technology. His research interests include AI policy and regulation, AI ethics, and human-AI interaction. The results of his work have been published in Policy Design and Practice, AI & Society, AI & Ethics, Data & Policy, and Elgar Companion to Regulating AI and Big Data in Emergent Economies.
+
+- name: Yoonseok Lee
+  image: /assets/images/kr_Yoonseok_Lee.png
+  bio: Yoonseok Lee is a Ph.D. student in Political Science at the University of California, Riverside. He received his B.A. in Political Science from the University of Minnesota and his M.A. in Political Science from Yonsei University. Lee’s research focuses on the determinants of migration-related preferences and attitudes, with a special focus on the international political economy (IPE) and quantitative methodology. His current research examines how different socio-political backgrounds shape natives’ reactions to refugee shocks and whether or how low birth rates affect natives’ immigration attitudes. He also has an interest in Japanese politics and East Asian politics in general.
+
+- name: Yongjai Yu
+  image: /assets/images/kr_Yongjai_Yu.png
+  bio: Yongjai Yu is a Ph.D. student in Political Science at the University of California, Riverside. His research focuses on the presidential power in the U.S., and in particular the use of text analysis and large language models for understanding and estimating the implications of the president’s unilateral directives, such as ‘the extent to which presidential unilateral directives change the policy status quo.’ His methodological interests are large language models, Bayesian statistics, machine learning, and experimental design. He holds a Bachelor's degree in History from Korea University and a Master of Public Policy from Seoul National University.
+
+- name: Eunmi Cho
+  image: /assets/images/kr_Eunmi_Cho.png
+  bio: Eunmi Cho is a Master’s student in Political Science at Yonsei University. She has an interest in voter behavior, public opinion, and legislative politics, especially how the characteristics of parliamentary speeches relate to political outcomes or the personal attributes of the legislators. Currently, she is working on her master's thesis, which involves sentiment analysis of speeches by members of the National Assembly. Through this analysis, she aims to identify factors that influence the emotional expressions of legislators. Furthermore, she plans to explore the potential of using machine learning and deep learning-based text and sentiment analysis to conduct diverse research on these topics of interest.
+
+- name: Mei-Yu (Mei) Kuo
+  image: /assets/images/kr_Mei-Yu_Mei_Kuo.png
+  bio: Mei-Yu (Mei) Kuo is a first-year PhD student in Sociology at The Ohio State University, holding an MA in Sociology from National Taiwan University. Her research explores how family and work experiences are stratified by gender and class, focusing on the role of family dynamics, occupational characteristics, and labor market conditions. She is also interested in applying innovative computational methodologies to analyze online discourse, investigating the qualitative distinctions of political and gender ideologies across cultural contexts. Outside academia, she is a movie buff and a coffee aficionado.
+
+- name: Jesslene Lee
+  image: /assets/images/kr_Jesslene_Lee.png
+  bio: Jesslene Lee is a PhD candidate at the University of Toronto. Her research interests include international political economy and international organizations, with a focus on how deepening regime complexity and institutional competition affect international cooperation. She is currently working on a project on how alternative sources of finance affect environmental safeguards in development finance. She also has ongoing projects on institutional design and change in international financial institutions, as well as the diffusion of rules in preferential trade agreements. In her research, she utilizes network analysis, natural language processing, large language models and a range of other methods.
+
+- name: Patrick Xi
+  image: /assets/images/kr_Patrick_Xi.png
+  bio: Dr. Patrick Xi is an assistant professor of communication at Shanghai Jiao Tong University. His research interests lie in political communication and computational social sciences. His current research focuses on multimodal textual analysis and nation branding.
+
+- name: Ju Hee JEUNG
+  image: /assets/images/kr_Ju_Hee_Jeung.png
+  bio: Ju Hee Jeung is in her fifth year of the Ph.D. program in public policy and management at the KDI School of Public Policy and Management. Her research interests include water economics and policy, energy policy, development economics, and North Korea. Her ongoing dissertation project examines the effects of a water-saving monetary incentive program, initially introduced in Korea in 2015. She also serves as a program manager at the UNESCO i-WSSM (the UNESCO International Centre for Water Security and Sustainable Management), and she is dispatched from K-water (Korea Water Resource Corporation). Prior to arriving at the KDI School, Ju Hee completed her MBA in corporate finance, sponsored by K-water. She is still pursuing her career in the water sector, and since 2014, she has been giving lectures on water policies and water prices in Korea to water experts in developing countries.
+
+- name: Kyungmin Lee
+  image: /assets/images/kr_Kyungmin_Lee.png
+  bio: Kyungmin Lee is a Ph.D. candidate in Energy and Environmental Policy at the University of Delaware. She focuses on applying computational methods to data-driven policymaking concerning energy, climate change, urban development, and sustainability. Her doctoral research delves into energy user behavior and the development of privacy-preserving models using techniques such as time-dependent proximal remote image processing, machine learning, and computer vision. Her past research investigates benefit-sharing mechanisms of renewable energy and drivers of international carbon neutrality trends and policies.
+  
+- name: Inkoo Kang
+  image: /assets/images/kr_Inkoo_Kang.png
+  bio: Inkoo Kang is an incoming PhD student in Urban Systems at New York University, with a mixed background in urban planning, public administration, and design studies. Her academic interests center on regenerative city transformations that can 1) correspond to social changes and solve urban issues while 2) understanding and preserving regional characteristics and charms. She has also explored how to bridge the gaps between quantitative and qualitative research methodologies.
+
+- name: David Ugarte Chacon
+  image: /assets/images/kr_David_Ugarte_Chacon.png
+  bio: David is a PhD student of public policy at the Korean Development Institute. His research focuses on the impact on inequality by implemented social prediction systems. Namely, ongoing research currently delves on two topics: reproduction of systematic financial discrimination by credit scoring models, and the idiosyncratic load in transformer-based language models.
