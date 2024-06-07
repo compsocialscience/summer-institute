@@ -1,1 +1,19 @@
-- name:
+- name: Annie Hui-Ping Lin
+  image: /assets/images/kr_Annie_Hui-Ping_Lin.png
+  bio: Annie Hui-Ping Lin is an incoming PhD student in Political Science at UC San Diego. Her research interests lie in global governance and international cooperation, with a particular focus on environmental concerns and marine affairs. She is especially intrigued by institutional overlap and the impact of international law-making on domestic institutions, including the dynamics of (de)judicialization and the harmonization between domestic and international institutions. Originally from Taiwan, she obtained her Bachelor of Social Science in East Asian Studies from National Taiwan Normal University in 2021 and her M.A. in Political Science from National Taiwan University in 2024.
+
+- name: Sinjae Kang
+  image: /assets/images/kr_Sinjae_Kang.png
+  bio: Sinjae Kang is a postdoctoral fellow at Center for Digital Social Science in Yonsei University. He received his PhD from the Department of Political Science at Yonsei University. And he also received Best Dissertation from Korean Political Science Association. He is interested in computational social science, particularly in using computational methods to analyze the behavior of legislators in Korean National Assembly. He published many studies on the legislative process and political behavior in Korean journals.
+
+- name: Vira Vyshnevska
+  image: /assets/images/kr_Vira_Vyshnevska.png
+  bio: Vira Vyshnevska holds a master degree in international economics and is currently pursuing her master in public policy in KDI School of Public Policy. She has a solid background in the banking field. Currently, her research interest focuses on applying data science techniques to analyze the banks’ financial fundamentals and develop financial forecast.
+
+- name: Bryan Nathanael Wijaya
+  image: /assets/images/kr_Bryan_Nathanael_Wijaya.png
+  bio: Bryan is a first-year M.S. candidate in the School of Computing at KAIST. He is passionate about applied artificial intelligence (AI), especially generative AI for protein engineering, data science, multimodal AI, and large language models (LLMs). Recently, he has gained interest in computational social science, particularly in analyzing the impact of the recent surge of machine learning developments–especially LLMs–on society and their tendencies and how to leverage these techniques to tackle social issues by revealing patterns and anomalies in society through a data-driven approach. He received a B.S. in electrical engineering with a minor in chemical and biomolecular engineering and an AI special designated major from KAIST.
+
+- name: Gleb Papyshev
+  image: /assets/images/kr_Gleb_Papyshev.png
+  bio: Gleb Papyshev is a Research Assistant Professor in the Division of Social Science at The Hong Kong University of Science and Technology. His research interests include AI policy and regulation, AI ethics, and human-AI interaction. The results of his work have been published in Policy Design and Practice, AI & Society, AI & Ethics, Data & Policy, and Elgar Companion to Regulating AI and Big Data in Emergent Economies.
