@@ -13,15 +13,35 @@ The Summer Institute will bring together people from many fields and backgrounds
 - Watch lecture videos
 - Prepare your computing environment
 
-TAs will host office hours through Slack to support you as you work through these pre-arrival materials.
-
 ## Python Boot Camp by the Netherlands eScience Center
 
 ### Introduction to Python programming
 
-This workshop introduces Python programming for researchers. The workshop builds on learners' existing knowledge to enable them to quickly apply skills learned to their own research. You will learn the basics of Python, how to use control statements and functions, and how to write clear and reusable code. The largest part of the workshop focuses on data: data import, exploratory data analysis, and visualization. We will make use of popular Python packages such as Pandas and Matplotlib.
+This workshop introduces Python programming for researchers. The workshop builds on learners' existing knowledge to enable them to quickly apply skills learned to their own research. You will learn the basics of Python, how to use control statements and functions, and how to write clear and reusable code. The largest part of the workshop focuses on data: data import, exploratory data analysis, and visualization. We will make use of popular Python packages such as Pandas and Matplotlib. 
 
 This workshop uses a tabular interview dataset from the SAFI Teaching Database, we use a single dataset throughout the workshop to model the data management and analysis workflow that a researcher would use. There are no prerequisites, and the materials assume no prior knowledge about the tools.
+
+Before the Boot Camp it is required to set up the Python environment and download the data. Please, find the instructions [here](https://datacarpentry.org/python-socialsci/). As the Boot Camp will take place online, having a videoconferencing tool installed is required. Please, find the instructions below. 
+
+## A few instructions for the Python Boot Camp by the Netherlands eScience Center
+- **Please follow this [link](https://esciencecenter-digital-skills.github.io/2024-06-03-dc-socsci-python-odissei/) for all the relevant information about the Python Boot Camp by the Netherlands eScience Center**. 
+- Be sure to complete this pre-training [survey](https://www.surveymonkey.com/r/K7V5VG2). We use this to calibrate the pace of the workshop and, together with a post-training survey, to assess how it went.
+- Make sure you have the necessary software installed on your laptop by following the [setup instructions](https://esciencecenter-digital-skills.github.io/2024-06-03-dc-socsci-python-odissei/#setup). If you have any trouble, send us an email at training@esciencecenter.nl.
+- On the Boot Camp days (Monday, 3 & Tuesday, 4 June), please join the call 15 minutes earlier (08:45) if possible, to say hello to the instructors and fellow learners and to check if your audio and video setup works correctly. That will allow us to start teaching on time.
+- Make sure to keep the workshop [website](https://esciencecenter-digital-skills.github.io/2024-06-03-dc-socsci-python-odissei/#setup) with all the necessary details handy.
+- Join the workshop session with the following [Zoom link](https://us02web.zoom.us/j/82913823087?pwd=RHdyMS9qVGhLdlVsSUdQM0krZ3N5UT09). Please make sure to log in with the name you have used for the registration. For safety reasons, people who cannot be recognized by the Zoom username will not be let into the workshop.
+- Let us know if you have any questions by emailing training@esciencecenter.nl.
+
+## Install the videoconferencing client ## 
+If you haven't used Zoom before, go to the [official website](https://zoom.us/download) to download and install the Zoom client for your computer.
+
+**Set up your workspace**
+Like other Carpentries workshops, you will be learning by "coding along" with the Instructors. To do this, you will need to have both the window for the tool you will be learning about (a terminal, RStudio, your web browser, etc..) and the window for the Zoom video conference client open. In order to see both at once, we recommend using one of the following set up options:
+- Two monitors: If you have two monitors, plan to have the tool you are learing up on one monitor and the video conferencing software on the other.
+- Two devices: If you don't have two monitors, do you have another device (tablet, smartphone) with a medium to large sized screen? If so, try using the smaller device as your video conference connection and your larger device (laptop or desktop) to follow along with the tool you will be learning about.
+- Divide your screen: If you only have one device and one screen, practice having two windows (the video conference program and one of the tools you will be using at the workshop) open together. How can you best fit both on your screen? Will it work better for you to toggle between them using a keyboard shortcut? Try it out in advance to decide what will work best for you.
+
+This [blog post](https://carpentries.org/blog/2020/06/online-workshop-logistics-and_screen-layouts/) includes detailed information on how to set up your screen to follow along during the workshop.
 
 ### Schedule of the Python Boot Camp
 

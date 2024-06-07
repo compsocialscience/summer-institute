@@ -1,1 +1,79 @@
-- name:
+- name: "Varun Satish"
+  image: /assets/117933907_770404593708228_8455794783129026528_n - Varun Satish.jpg 
+  bio: "Varun is a PhD student in Demography and Social Policy at Princeton University. Originally from Sydney, Australia, he is interested in studying whether there are limits to predictability in social data. "
+
+- name: "Yuki	Takahashi"
+  image: /assets/Yuki Takahashi.png
+  bio: "Yuki is a postdoctoral researcher at Tilburg University's Department of Economics. Yuki is an applied microeconomist working in the areas of Behavioral Economics, Gender Economics, and Labor Economics. Their research examines how psychological factors and institutions affect individual and group behaviors using experimental and observational data. Yuki received their PhD in Economics from the University of Bologna in July 2022. Yuki is non-binary (pronoun: they/them)."
+  website: https://twitter.com/yukitakahashi11
+
+- name: "Rishabh Tyagi"
+  image: /assets/Rishabh Tyagi.jpeg
+  bio: "Rishabh is a joint PhD Student at the Max Planck Institute for Demographic Research in Germany & Centre for Fertility and Health in Norway. Using German Socio-economic Panel Data and Norwegian Administrative Data, his dissertation project assesses the social, demographic, and health consequences of employment uncertainty for individuals and their families. Previously, he finished a Masters and M.Phil. in Biostatistics & Demography from IIPS Mumbai."
+  website: https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/rishabh_tyagi_4147/ 
+
+- name: "Bastián González-Bustamante"
+  image: /assets/Bastián González-Bustamante.jpg
+  bio: "I am a post-doctoral researcher in Computational Social Science at Leiden University, Netherlands. I hold a DPhil (PhD) in Politics from the University of Oxford, UK. My interests lie in the intersection of comparative politics and government. Methodologically, my interests rely on quantitative text analysis, machine learning and causal inference."
+  website: https://bgonzalezbustamante.com 
+
+- name: "Yael Broos"
+  image: /assets/Yael Broos.jpg
+  bio: "Yael Broos is a PhD-candidate at the department of Socio-medical Sciences at the Erasmus School of Health Policy and Management (EUR). Her research focuses on health spillovers in the family, with a specific focus on siblings and mental health effects."
+  website: https://www.linkedin.com/in/yael-b-b3b9a7198 
+
+- name: "Goan Booij"
+  image: /assets/1701442665875 (1) - Goan Booij.jfif
+  bio: "Goan Booij is a PhD-student at the research institute of Child Development and Education of the University of Amsterdam. He has a background in philosophy and sociology. He currently studies the relationship between digital time use, digital literacy, and academic performances."
+  website: https://www.linkedin.com/in/goanbooij/?originalSubdomain=nl
+
+- name: "Henry	Abbink"
+  image: /assets/Henry Abbink.jpg
+  bio: "Henry Abbink is a non-PhD (junior) researcher at the Research Centre for Education and the Labour Market (ROA) at Maastricht University. At ROA, he is currently engaged in evaluating primary school student performance as part of the Netherlands Cohort Study on Education (NCO). Next to that, he contributes to the Dutch labour market forecasts published by ROA. Henry enjoys working with Dutch administrative data (CBS microdata)."
+  website: https://www.linkedin.com/in/henry-abbink-0394 
+
+- name: "Tilbe Atav"
+  image: /assets/picture - Tilbe Atav.jpg
+  bio: "Tilbe Atav is a PhD student at the Applied Economics department of the Erasmus School of Economics in Rotterdam. Currently, her research interests lie in how environments or information individuals are exposed to may affect perceived opportunities, aspirations and choices of individuals."
+
+- name: "Mathilde Theelen"
+  image: /assets/pasfoto2 - Mathilde Theelen.png
+  bio: "Mathilde Theelen is a doctoral student at Maastricht University, where she aims to contribute to evidence-based methods for language learning. Her focus is driven by her desire to create more equal opportunities for children. Mathilde holds an MPhil in Linguistics from the University of Cambridge and a MSc in Artificial Intelligence from the VU University."
+  website: https://www.linkedin.com/in/mathilde-theelen/ 
+
+- name: "Xinran	Wang" 
+  image: /assets/XinranWang - Xinran Wang.JPG
+  bio: "Xinran is a PhD student in Environmental Psychology at the University of Groningen. She studies perceptions of the roles of different societal actors in addressing climate change. Using target sampling, large-scale surveys and social media data, her research aims to understand the social and psychological factors that motivate or inhibit societal-wide climate action. Previously, Xinran worked as a data scientist at the Yale Program on Climate Change Communications and holds an MA in quantitative methods in social science and a BS in math."
+  website: https://www.linkedin.com/in/xinran-wang-37227826
+  
+- name: "Jade Vrielink"
+  image: /assets/Jade Vrielink.jpeg
+  bio: "Jade Vrielink is a PhD Candidate in Political Communication at Wageningen University and Research. She studies the impact of online data-driven campaigning (e.g. microtargeting) on voter attitudes and behavior using longitudinal surveys, experience sampling, data donations, and experiments. Her research interests include the interaction between social media, society and politics, political behavior, computational social science and gender and politics."
+  website: https://www.linkedin.com/in/jade-vrielink-38920782/
+  
+- name: "Ignacio Urria Yáñez"
+  image: /assets/PersonalPic1 - Ignacio Urria.png
+  bio: "Ignacio Urria Yáñez is a PhD candidate in the Urbanism Department of the Faculty of Architecture and the Built Environment at TU Delft. His research interests span sociospatial inequalities, urban segregation, neighbourhood effects, labour market and machine learning. His PhD project focuses on studying the spatio-temporal evolution of segregation using multiple geographical scales and residential characteristics. He holds an MSc in Human Geography from Utrecht University, and MSc and BA in Economics from Universidad de Chile. Prior to moving to the Netherlands, Ignacio was an analyst in the Chilean Ministry of Social Development."
+  
+- name: "Nicole	Walasek"
+  image: /assets/Nicole Photo - Nicole Walasek.jpg
+  bio: "I am a postdoctoral researcher interested in how the environment shapes evolution and development. To study this broad question, I work at the interface of various disciplines, such as biology, ecology, psychology, and computer science. I have a background in cognitive science, computer science, and developmental psychology."
+  website: https://x.com/NicoleWalasek
+  
+- name: "Amber Howard"
+  image: /assets/Amber Howard.jpeg
+  bio: "Amber is completing her PhD between the department of Health Policy at the University of Melbourne, and the department of Geography, Planning, and Int. Development Studies at the University of Amsterdam. Her research describes and quantifies young adult’s changing housing arrangements over the 2000s, focusing on socio-economic inequalities."
+  website: https://scholar.google.com/citations?user=Rbob98oAAAAJ&hl=en
+
+- name: "Mayke Nollet"
+  image: /assets/Profile picture - MAY Nollet.jpg
+  bio: "Mayke Nollet is a PhD candidate at the Department of Educational and Family Studies, Vrije Universiteit Amsterdam. She currently researches the labour market and educational outcomes of young people with mental health problems. Her research interests include social inequality, education, labour market, mental health, family dynamics, and big data usage."
+  
+- name: "Marlot Griep"
+  image: /assets/IMG_0838-2 - M Griep.JPG
+  bio: "Marlot is a PhD Candidate at Vrije Universiteit Amsterdam. Her research focuses on how teachers' mental well-being relates to their risk of long-term absenteeism or leaving the profession. Her goal is to identify indicators that can proactively signal higher risks of absenteeism or job attrition among teachers."
+  
+- name: "Yuxuan	Jin"
+  image: /assets/Yuxuan Jin - Yuxuan Jin.jpeg
+  bio: "Yuxuan Jin is a Ph.D. researcher at NIDI. In his Ph.D. dissertation supervised by Prof. Dr. Matthijs Kalmijn and Prof. Dr. Helga de Valk, he investigates the consequences of early parental death for partners and children using large-scale administrative and survey data. Before working at NIDI, he completed his Research Master’s degree in Sociology and Social Research at Utrecht University, where he wrote a thesis on the association between parenthood and health of people in same-sex and different-sex relationships."
+  website: https://x.com/aniccaforsoc

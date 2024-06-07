@@ -24,7 +24,7 @@ To apply, applicants shall submit the following documents via email to <mailto:s
 
 
 
-**In order to be guaranteed full consideration, all application materials must be submitted by ~~Sunday March 31~~ Monday April 15, 2024 AoE (Anywhere on Earth).** All application materials must be submitted through email. Applicants should include their name in all application file names. For example, the submitted CV should be named *FirstnameLastname_CV.pdf*. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 28, 2024, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by ~~Sunday March 31~~ Monday April 15, 2024 AoE (Anywhere on Earth).** All application materials must be submitted through email. Applicants should include their name in all application file names. For example, the submitted CV should be named *FirstnameLastname_CV.pdf*. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by ~~April 28~~ May 5, 2024, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to <mailto:sicss.singapore@gmail.com>.
 
