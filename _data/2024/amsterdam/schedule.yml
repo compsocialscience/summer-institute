@@ -22,7 +22,8 @@
     - name: "10:00 - 12:00 Rafiazka Hilman: Workshop Network Analysis (A1.04)"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 15:00 Malte Lüken: Workshop Emotion Analysis (A1.04)"
-    - name: "15:00 - 17:00 Gijs Schumacher: Keynote Emotions and Politics: A Computational Social Science Perspective (A2.10)"
+    - name: "15:30 - 17:00 Gijs Schumacher: Keynote Emotions and Politics: A Computational Social Science Perspective (A2.10)"
+    - name: "17:00    Drinks at CREA"
       
 
       
@@ -32,7 +33,7 @@
     - name: "10:00 - 12:00 Petter Törnberg: Workshop Introduction to Machine Learning (A1.04)"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 17:00 Project Fair + Team Formation (A1.04)"
-    - name: "17:00         Social Event"
+
 
 - date: 2024-06-14
   # name: A1.04
@@ -47,7 +48,7 @@
     - name: "10:00 - 12:00 Reshmi G. Pillai: Workshop: Structured knowledge representations (A1.04)"
     - name: "12:00 - 13:00 Lunch"      
     - name: "13:00 - 15:00 Group work: Literature Review (A1.04, A1.05)"
-    - name: "15:00 - 17:00 Elisa Omodei: Keynote Computational methods for the Sustainable Development Goals: The case of food security (A2.10)"
+    - name: "15:30 - 17:00 Elisa Omodei: Keynote Computational methods for the Sustainable Development Goals: The case of food security (A2.10)"
 
 - date: 2024-06-18
   # name: E0.04
@@ -64,6 +65,7 @@
     - name: "10:00 - 12:00 Group work (A1.04, A1.05)"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 17:00 Group work: Data Analysis and Visualization (A1.04, A1.05)"
+    - name: "17:00         Social Event"
     # - name: "15:00 - 17:00 Surf supercomputer with Odissei"
 
 - date: 2024-06-20
