@@ -72,13 +72,8 @@
 - name: "Marlot Griep"
   image: /assets/IMG_0838-2 - M Griep.JPG
   bio: "Marlot is a PhD Candidate at Vrije Universiteit Amsterdam. Her research focuses on how teachers' mental well-being relates to their risk of long-term absenteeism or leaving the profession. Her goal is to identify indicators that can proactively signal higher risks of absenteeism or job attrition among teachers."
-  
-- name: "Yuxuan	Jin"
-  image: /assets/Yuxuan Jin - Yuxuan Jin.jpeg
-  bio: "Yuxuan Jin is a Ph.D. researcher at NIDI. In his Ph.D. dissertation supervised by Prof. Dr. Matthijs Kalmijn and Prof. Dr. Helga de Valk, he investigates the consequences of early parental death for partners and children using large-scale administrative and survey data. Before working at NIDI, he completed his Research Master’s degree in Sociology and Social Research at Utrecht University, where he wrote a thesis on the association between parenthood and health of people in same-sex and different-sex relationships."
-  website: https://x.com/aniccaforsoc
 
-- name: "Iris ten Klooster"
+  - name: "Iris ten Klooster"
   image: /assets/iris ten klooster.jpeg
   bio: "Iris ten Klooster is a postdoctoral researcher at the Department of Health, Psychology and Technology, and the Department of Biomedical Signals and Systems at the University of Twente. Her research focuses on utilising different types of data (e.g. data from electronic health records) to personalise eHealth technologies."
   
@@ -94,4 +89,9 @@
 - name: "Isabelle Salle (observer)"
   image: /assets/cv-small-2 - Isabelle Salle.jpg
   bio: "I am an Associate Professor and Canada Research Chair in macroeconomics at the University of Ottawa and a research fellow at the University of Amsterdam. I work on behavioral macroeconomics using surveys, experiments and models."
-  website: https://www.isabellesalle.net/ 
+  website: https://www.isabellesalle.net/
+  
+- name: "Yuxuan	Jin"
+  image: /assets/Yuxuan Jin - Yuxuan Jin.jpeg
+  bio: "Yuxuan Jin is a Ph.D. researcher at NIDI. In his Ph.D. dissertation supervised by Prof. Dr. Matthijs Kalmijn and Prof. Dr. Helga de Valk, he investigates the consequences of early parental death for partners and children using large-scale administrative and survey data. Before working at NIDI, he completed his Research Master’s degree in Sociology and Social Research at Utrecht University, where he wrote a thesis on the association between parenthood and health of people in same-sex and different-sex relationships."
+  website: https://x.com/aniccaforsoc
