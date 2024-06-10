@@ -5,30 +5,88 @@
 
 - date: June 17, 2024
   name: Introduction and Ethics 
+  events:
+    - name: "9:30 - 10:30 Introduction and logistics"
+    - name: "10:30 - 12:00 Small group discussions"
+    - name: "12:00 - 1:30 Lunch"
+    - name: "1:30 - 3:30 Small Group Exercise on Ethics: [Ethics Slides](https://docs.google.com/presentation/d/1DaCujBvMyoniAyLfX1zi8rqlf_LqYOtb/edit?usp=sharing&ouid=104885152488187255489&rtpof=true&sd=true), [Group Activity](https://docs.google.com/document/d/1TAHOtVTZLFMWpM5SQ9qJZGBvbLqYbn4P/edit?usp=sharing&ouid=104885152488187255489&rtpof=true&sd=true)"
+    - name: "3:30 - 5:00 TBD"
+
  
 - date: June 18, 2024
   name: Digital Trace Data
+  events:
+    - name: "9:00 - 9:30 Logistics" 
+    - name: "9:30 - 11:00 Tutorials on Screen Scraping"
+    - name: "11:15 - 12:00 Tutorials on Using AI in Research" 
+    - name: "12:00 - 1:30 Lunch"
+    - name: "1:30 - 5:00 Small Group Exercise: Digital Trace Data"
 
 - date: June 19, 2024
-  name: Text as Data 
+  name: Text as Data and Introducing Machine Learning
+  events:
+    - name: "9:00 - 9:15 Logistics"
+    - name: "9:15 - 11:15 Tutorials on Text as Data"
+    - name: "11:15-12:00 Group Exercise, Session I"
+    - name: "12:00 - 1:30 Lunch"
+    - name: "1:30 - 2:30 Group Exercise, Session II"
+    - name: "2:30 - 4:30 Tutorial on Machine Learning"
 
 - date: June 20, 2024
-  name: Machine Learning
+  name: Network Analysis
+  events:
+    - name: "9:00 - 9:15 Logistics"
+    - name: "9:15 - 10:30 Continued practice on Machine Learning"
+    - name: "10:30 - 11:45 Guest Talk by Kiran Garimella"
+    - name: "12:00 - 1:30 Lunch"
+    - name: "1:30 - 3:30 Guest Talk on Network analysis by Katya Ognyanova"
+    - name: "3:30 - 5:00 Practicing Network Analysis"
     
 - date: June 21, 2024
-  name: Digial Surveys and Experiments
+  name: Digital Surveys/Experiments
+  events:  
+    - name: "9:00 - 9:15 Logistics"
+    - name: "9:15 - 10:15 Digital Surveys and Experiments"
+    - name: "10:15 - 12:00 Group Exercise on Surveys"
+    - name: "12:00 - 1:30 Lunch"
+    - name: "1:30 - 3:30 Group Exercise on Experiments"
+    - name: "3:30 - 4:00 Group Interest Brainstorm"
+
 
 - date: June 24, 2024
   name: Group Formation
+  events: 
+    - name: "9:00 - 9:15 Logistics"
+    - name: "9:15 - 10:30 Group Formation"
+    - name: "10:30 - 12:00 Initial Group Meetings"
+    - name: "12:00 - 1:00 Lunch"
+    - name: "1:00 - 2:30 Continued group work"
+    - name: "2:30 - 4:00 Guest Talk from Ethan Busby"
+    - name: "4:00 - 5:00 Submit first group milestone"  
 
 - date: June 25, 2024
   name: Group work day
+  events:
+    - name: "9:00 - 10:45 Group Work"
+    - name: "10:45 - 12:00 Guest Talk from Robert Schub"
+    - name: "12:00 - 1:00 Lunch"
+    - name: "1:00 - 5:00 Group Work"
 
 - date: June 26, 2024
   name: Group work day
-
+  events:
+    - name: "9:00 - 10:30 Group Work"
+    - name: "10:30 - 12:00 Guest Talk from Tom Davidson"
+    - name: "12:00 - 1:00 Lunch"
+    - name: "1:00 - 5:00 Group Work"
+    
 - date: June 27, 2024
   name: Group work day
-
+  events:
+    - name: "9:00 - 10:00 Group Work"
+    - name: "10:00 - 1:00 Joint Session with C-SPAN video institute"
+    - name: "1:00 - 2:00 Break"
+    - name: "2:00 - 5:00 Group Work"
+    
 - date: June 28, 2024
   name: Group Presentations

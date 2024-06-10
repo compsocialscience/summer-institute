@@ -1,7 +1,7 @@
 - name: "Varun Satish"
   image: /assets/117933907_770404593708228_8455794783129026528_n - Varun Satish.jpg 
   bio: "Varun is a PhD student in Demography and Social Policy at Princeton University. Originally from Sydney, Australia, he is interested in studying whether there are limits to predictability in social data. "
-
+  
 - name: "Yuki	Takahashi"
   image: /assets/Yuki Takahashi.png
   bio: "Yuki is a postdoctoral researcher at Tilburg University's Department of Economics. Yuki is an applied microeconomist working in the areas of Behavioral Economics, Gender Economics, and Labor Economics. Their research examines how psychological factors and institutions affect individual and group behaviors using experimental and observational data. Yuki received their PhD in Economics from the University of Bologna in July 2022. Yuki is non-binary (pronoun: they/them)."
@@ -77,3 +77,21 @@
   image: /assets/Yuxuan Jin - Yuxuan Jin.jpeg
   bio: "Yuxuan Jin is a Ph.D. researcher at NIDI. In his Ph.D. dissertation supervised by Prof. Dr. Matthijs Kalmijn and Prof. Dr. Helga de Valk, he investigates the consequences of early parental death for partners and children using large-scale administrative and survey data. Before working at NIDI, he completed his Research Master’s degree in Sociology and Social Research at Utrecht University, where he wrote a thesis on the association between parenthood and health of people in same-sex and different-sex relationships."
   website: https://x.com/aniccaforsoc
+  
+- name: "Iris ten Klooster"
+  image: /assets/iris ten klooster.jpeg
+  bio: "Iris ten Klooster is a postdoctoral researcher at the Department of Health, Psychology and Technology, and the Department of Biomedical Signals and Systems at the University of Twente. Her research focuses on utilising different types of data (e.g. data from electronic health records) to personalise eHealth technologies."
+  
+- name: "Flora Zhou"
+  image: /assets/Flora Zhou.jpeg
+  bio: "Flora Zhou is a Ph.D. Candidate in the Department of Public Administration and Sociology in Erasmus University Rotterdam. She is working in the ERC-funded project “Childcare Strategies”. Her research interests include family sociology, gender inequalities, and social networks."
+  
+- name: "Andrea Gradassi"
+  image: /assets/cv-1 - Andrea Gradassi.png
+  bio: "Andrea is a Psychology PhD student at the University of Amsterdam. He studies social learning strategies in adolescents and adults. He looks at what peers (close friends, popular, smart) are most influential within classrooms, what types of social cues (confidence, expertise, majority) people use when they look at others’ opinions."
+  website: https://x.com/andrea_gradassi
+  
+- name: "Isabelle Salle (observer)"
+  image: /assets/cv-small-2 - Isabelle Salle.jpg
+  bio: "I am an Associate Professor and Canada Research Chair in macroeconomics at the University of Ottawa and a research fellow at the University of Amsterdam. I work on behavioral macroeconomics using surveys, experiments and models."
+  website: https://www.isabellesalle.net/

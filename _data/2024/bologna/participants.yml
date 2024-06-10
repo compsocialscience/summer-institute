@@ -1,4 +1,3 @@
-
 - name: Marlene Hecht
   image: /assets/images/Hecht_Marlene - Marlene.jpg
   bio: "Marlene is a PhD student in Psychology at the Center for Adaptive Rationality at the Max Planck Institute for Human Development in Berlin. Her research interests mainly lie at the intersection of social decision-making, information search, and digital media. Currently, she investigates the cognitive processes by which people form social judgments."
@@ -12,7 +11,7 @@
   bio: "Anna George is a Social Data Science PhD student at the University of Oxford who uses computational approaches to study online harms. Her research focuses on the message transmission of harmful online communities. Before joining the doctoral program at the Oxford Internet Institute (OII), Anna graduated with distinction from the OII’s MSc in Social Data Science. Anna holds an M.S. in Industrial/Organizational-Social Psychology and a B.S. in Psychology, Second Major in Sociology, and minor in Statistics."
 
 - name: Márton Végh
-  image: /assets/images/Márton Végh.jpg
+  image: /assets/images/Márton Végh.jpg
   bio: "Márton Végh is a PhD student at Bocconi University's Department of Social and Political Sciences, interested in the nexus of political economy and political behavior. His research examines the political drivers and effects of global economic flows. Before starting his PhD, he worked at the European Central Bank and earned an MA from the Central European University."
 
 - name: Rebecca Langella
@@ -24,7 +23,7 @@
   bio: "Paul Drecker is a research assistant and doctoral student at the University of Münster. In his research, he uses methods of computational social science (network analyses, NLP) to study the polarisation of the climate policy debate"
 
 - name: Elisabeth Höldrich
-  image: /assets/images/ Elisabeth Höldrich.png
+  image: /assets/images/ Elisabeth Höldrich.png
   bio: "Elisabeth Höldrich is a doctoral student at the University of Graz. With a background in theoretical and computational physics, her current research in computational social science examines the spread of conspiracy theories in online environments. Through the application of Natural Language Processing and topic modeling Elisabeth hopes to measure different characteristics of conspiracy narratives and identify which of these characteristics contribute to the popularity of a narrative."
 
 - name: Maria Zuffova
