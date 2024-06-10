@@ -14,7 +14,7 @@ partner_site: iceland
 ## How To Apply
 
 Applicants must submit their motivation letter, CV and information here through this [form](https://docs.google.com/forms/d/e/1FAIpQLScj1uDNRzwcKEGrTYF-96GzhN_3qRE4ewF7X6GZ_pmb-04sew/viewform?usp=sf_link).
-Materials are due June 14th, noon Reykjavik time.
+Materials are due June 21st, noon Reykjavik time.
 
 Inquiries can be sent to sicss.iceland@gmail.com.
 
