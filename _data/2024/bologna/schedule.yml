@@ -39,7 +39,8 @@
     - name: "12:00 - 13:00 Lunch Break"
     - name: "13:00 - 14:00 Introduction of Group Work"
     - name: "14:00 - 16:00 Project Work in Groups [Under the supervision and guidance of Unibo staff and Keynote Speaker]"
-    - name: "16:30 'Get-to-know' Aperitivo"
+    - name: "16:30 - 'Get-to-know' Aperitivo"
+    - name: "20:00 - Social Dinner"
     
 - date: 2024-06-18
   name: Hands-on session on working with classifiers in text analysis [In Person at UNIBO]
