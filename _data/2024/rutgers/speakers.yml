@@ -1,3 +1,7 @@
+- name: Ethan Busby
+  bio: "Ethan Busby is an Assistant Professor of Political Science at Brigham Young University."
+  website: https://ethanbusby.com/
+  
 - name: Thomas R. Davidson
   image: /assets/images/thomasDavidson.jpg
   bio: "Thomas R. Davidson is an Assistant Professor of Sociology at Rutgers University."
@@ -7,9 +11,19 @@
   image: /assets/images/kiran_garimella.png
   bio: "Kiran Garimella is an Assistant Professor of Library and Information Science at Rutgers University"
   
+- name: Jianing Li
+  bio: "Jianing Li is an Assistant Professor at the School of Communication and Information at Rutgers University (Fall 2024)"
+  website: https://jianingli.org/
+  
 - name: Katya Ognyanova
   image: /assets/images/KatherineOgnyanova.jpg
   bio: "Katya Ognyanova is an Associate Professor at the School of Communication and Information at Rutgers University."
   website: https://kateto.net/
 
-- name: More coming soon!
+- name: Robert Schub
+  bio: "Robert Schub is an Assistant Professor of Political Science at Rutgers University."
+  website: https://robertschub.com/
+
+- name: Tiago Ventura
+  bio: "Tiago Ventura is an Assistant Professor in Computational Social Science at Georgetown University’s McCourt School of Public Policy."
+  website: https://www.venturatiago.com/
