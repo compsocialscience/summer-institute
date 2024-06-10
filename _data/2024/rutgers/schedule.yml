@@ -8,7 +8,7 @@
   events:
     - name: "9:30 - 10:30 Introduction and logistics"
     - name: "10:30 - 12:00 Small Group Discussions"
-    - name: "12:30 - 1:30 Lunch"
+    - name: "12:00 - 1:30 Lunch"
     - name: "1:30 - 3:30 Small Group Exercise on Ethics: [Ethics Slides](https://docs.google.com/presentation/d/1DaCujBvMyoniAyLfX1zi8rqlf_LqYOtb/edit?usp=sharing&ouid=104885152488187255489&rtpof=true&sd=true), [Group Activity](https://docs.google.com/document/d/1TAHOtVTZLFMWpM5SQ9qJZGBvbLqYbn4P/edit?usp=sharing&ouid=104885152488187255489&rtpof=true&sd=true)   "
     - name: "3:30 - 4:45 Guest Talk by Tiago Ventura"
 
@@ -17,7 +17,7 @@
   events:
     - name: "9:00 - 9:30 Logistics" 
     - name: "9:30 - 11:00 Tutorials on Screen Scraping"
-    - name: "11:15 - 12:00 Tutorials on Using AI in Research" 
+    - name: "11:00 - 12:00 Tutorials on Using AI in Research" 
     - name: "12:00 - 1:30 Lunch"
     - name: "1:30 - 5:00 Small Group Exercise: Digital Trace Data"
 
@@ -34,7 +34,7 @@
 - date: June 20, 2024
   name: Machine Learning and Network Analysis 
   events:
-    - name: "9:00 - 9:30 Logistics"
+    - name: "9:00 - 9:15 Logistics"
     - name: "9:15 - 10:30 Continued practice on Machine Learning"
     - name: "10:30 - 11:45 Guest Talk by Kiran Garimella"
     - name: "12:00 - 1:30 Lunch"
@@ -61,12 +61,30 @@
  
 - date: June 24, 2022
   name: Group Formation
+  events:
+    - name: "9:00 - 9:15 Logistics"
+    - name: "9:15 - 10:30 Group Formation"
+    - name: "10:30 - 12:00 Initial Group Meetings"
+    - name: "12:00 - 1:00 Lunch"
+    - name: "1:00 - 2:30 Continued group work"
+    - name: "2:30 - 4:00 Guest Talk from Ethan Busby"
+    - name: "4:00 - 5:00 Submit first group milestone" 
 
 - date: June 25, 2022
-  name: Group work day
+  name: Group Formation
+  events:
+    - name: "9:00 - 10:45 Group Work"
+    - name: "10:45 - 12:00 Guest Talk from Robert Schub"
+    - name: "12:00 - 1:00 Lunch"
+    - name: "1:00 - 5:00 Group Work"
 
 - date: June 26, 2022
   name: Group work day
+  events:
+    - name: "9:00 - 10:45 Group Work"
+    - name: "10:30 - 12:00 Guest Talk from Tom Davidson"
+    - name: "12:00 - 1:00 Lunch"
+    - name: "1:00 - 5:00 Group Work"
     
 - date: June 27, 2022
   name: Group work day
@@ -75,4 +93,4 @@
     - name: "1:00 - 5:00 Group work time"
     
 - date: June 28, 2022
-  name: Group Presentations
+  name: Group Presentations and Closing Lunch
