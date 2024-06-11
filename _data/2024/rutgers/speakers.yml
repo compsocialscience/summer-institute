@@ -1,4 +1,5 @@
 - name: Ethan Busby
+  image: /assets/images/ethanbusby.jpeg
   bio: "Ethan Busby is an Assistant Professor of Political Science at Brigham Young University."
   website: https://ethanbusby.com/
   
@@ -12,6 +13,7 @@
   bio: "Kiran Garimella is an Assistant Professor of Library and Information Science at Rutgers University"
   
 - name: Jianing Li
+  image: /assets/images/jianingli.jpeg
   bio: "Jianing Li is an Assistant Professor at the School of Communication and Information at Rutgers University (Fall 2024)"
   website: https://jianingli.org/
   
@@ -21,9 +23,11 @@
   website: https://kateto.net/
 
 - name: Robert Schub
+  image: /assets/images/robertschub.jpeg
   bio: "Robert Schub is an Assistant Professor of Political Science at Rutgers University."
   website: https://robertschub.com/
 
 - name: Tiago Ventura
+  image: /assets/images/tiagoventuraGT.jpeg
   bio: "Tiago Ventura is an Assistant Professor in Computational Social Science at Georgetown University’s McCourt School of Public Policy."
   website: https://www.venturatiago.com/
