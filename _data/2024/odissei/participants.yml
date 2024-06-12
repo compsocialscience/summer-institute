@@ -86,12 +86,17 @@
   bio: "Andrea is a Psychology PhD student at the University of Amsterdam. He studies social learning strategies in adolescents and adults. He looks at what peers (close friends, popular, smart) are most influential within classrooms, what types of social cues (confidence, expertise, majority) people use when they look at others’ opinions."
   website: https://x.com/andrea_gradassi
   
-- name: "Isabelle Salle (observer)"
-  image: /assets/cv-small-2 - Isabelle Salle.jpg
-  bio: "I am an Associate Professor and Canada Research Chair in macroeconomics at the University of Ottawa and a research fellow at the University of Amsterdam. I work on behavioral macroeconomics using surveys, experiments and models."
-  website: https://www.isabellesalle.net/
-  
 - name: "Yuxuan	Jin"
   image: /assets/Yuxuan Jin - Yuxuan Jin.jpeg
   bio: "Yuxuan Jin is a Ph.D. researcher at NIDI. In his Ph.D. dissertation supervised by Prof. Dr. Matthijs Kalmijn and Prof. Dr. Helga de Valk, he investigates the consequences of early parental death for partners and children using large-scale administrative and survey data. Before working at NIDI, he completed his Research Master’s degree in Sociology and Social Research at Utrecht University, where he wrote a thesis on the association between parenthood and health of people in same-sex and different-sex relationships."
   website: https://x.com/aniccaforsoc
+
+- name: "Irene Tsitse"
+  image: /assets/Picture_professional - Irini Tsitse.jpg
+  bio: "Irene Tsitse is a PhD candidate in Media and Creative Industries at Erasmus University Rotterdam (EUR). Her PhD research explores the transformative potential of audience engagement in the cultural and creative sectors and industries (CCSIs), focusing on the intersection of audience engagement, cultural entrepreneurship, and digitalization. Motivated by a research gap in understanding audience experiences in cultural sectors, her study aims to combine computational and qualitative methods to analyze audience/visitor behavior, ultimately contributing to the prosperity and sustainability of the CCSIs. Irene holds a Master's degree in Cultural Economics and Entrepreneurship from EUR and a BA in Marketing and Communication from Athens University of Economics and Business."
+  website: https://www.linkedin.com/in/irenetsitse/
+
+- name: "Isabelle Salle (observer)"
+  image: /assets/cv-small-2 - Isabelle Salle.jpg
+  bio: "I am an Associate Professor and Canada Research Chair in macroeconomics at the University of Ottawa and a research fellow at the University of Amsterdam. I work on behavioral macroeconomics using surveys, experiments and models."
+  website: https://www.isabellesalle.net/
