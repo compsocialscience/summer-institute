@@ -13,9 +13,9 @@
 - date: 2024-06-11 
   events:
     - name: "10:00 - 12:00 Marie Labussière: Workshop Github and Collaboration (A1.04)"
-    - sublinks: 
+      sublinks: 
         - link: "https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/slides_workshop_marie_labussiere_git.pdf"
-        - text: "Slides"
+          text: "Slides"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 15:00 Rens Wilderom: Workshop Regular expressions + Topic models (A1.04)"
 
