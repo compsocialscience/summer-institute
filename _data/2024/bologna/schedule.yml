@@ -7,7 +7,7 @@
     - name: "09:15 - 10:45 Lecture, Causal Machine Learning [Prof. Chiara Binelli, University of Bologna]"
     - name: "11:00 - 13:00 Data management & Web Scraping, ‘Creating a dataset from scratch in CSS"
     - name: "13:00 - 14:00 Lunch Break"
-    - name: "Cris Albon's talk cancelled"
+    - name: "Chris Albon's talk cancelled"
     
 - date: 2024-06-12
   name: Varieties of Text Analysis and Conceptual dimensions of CSS [Online]
@@ -21,7 +21,7 @@
   name: Exploring Digital Traces. Enhancing Workflows with APIs, Using Github, Ensuring Reproducible Research, and Exploring AI and Big Data [Online]
   events:
     - name: "09:00 - 10:30 Lecture on Working with Digital Traces [Prof. Marco Albertini, University of Bologna]"
-    - name: "10:30 - 12:00 Lab, 'Integrating APIs in your research workflow and Github' [Aidar Zinnatullin]"
+    - name: "10:30 - 12:00 Lab, 'Integrating Github in your research workflow and APIs' [Aidar Zinnatullin]"
     - name: "12:00 - 13:00 Lunch Break"
     - name: "13:00 - 14:30 'AI & Society' [Prof. Laura Sartori, University of Bologna]"
 
