@@ -17,12 +17,13 @@
         - link: "https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/slides_workshop_marie_labussiere_git.pdf"
           text: "Slides"
     - name: "12:00 - 13:00 Lunch"
-    - name: "13:00 - 15:00 Rens Wilderom: Workshop Regular expressions + Topic models (A1.04) ([slides](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/slides_workshop_rens_wilderom_regex_topic_models.pptx), [notebook](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/notebook_workshop_rens_wilderom_regex_topic_models.ipynb))"
+    - name: "13:00 - 15:00 Rens Wilderom: Workshop Regular expressions + Topic models (A1.04) ([slides](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/slides_workshop_rens_wilderom_regex_topic_models.pptx), [notebook](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/notebook_workshop_rens_wilderom_regex_topic_models.ipynb),
+      [materials]([notebook](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/zips/rens_disneyland.zip))"
 
       
 - date: 2024-06-12
   events:
-    - name: "10:00 - 12:00 Rafiazka Hilman: Workshop Network Analysis (A1.04) [(notebook)](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/notebook_workshop_fika_hilman_networks.ipynb)"
+    - name: "10:00 - 12:00 Rafiazka Hilman: Workshop Network Analysis (A1.04) ([notebook](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/notebook_workshop_fika_hilman_networks.ipynb), [materials](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/zips/fika_network.zip))"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 15:00 Malte Lüken: Workshop Emotion Analysis (A1.04) ([notebook](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/notebook_workshop_malte_lueken_mexca.ipynb), [slides](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/slides_workshop_malte_lueken_mexca.pptx))"
     - name: "15:30 - 17:00 Gijs Schumacher: Keynote Emotions and Politics: A Computational Social Science Perspective (A2.10) [(slides)](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/slides_keynote_gijs_schumacher_politicsemotion.pptx)"
@@ -33,7 +34,7 @@
 - date: 2024-06-13
   # name: A1.04
   events:
-    - name: "10:00 - 12:00 Petter Törnberg: Workshop Introduction to Machine Learning (A1.04)"
+    - name: "10:00 - 12:00 Petter Törnberg: Workshop Introduction to Machine Learning (A1.04) ([materials](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/zips/petter_machine_learning.zip))"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 15:00 Project Fair [(slides)](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/project_fair_final.pdf) + Team Formation (A1.04)"
     - name: "15:00 - 17:00 more team formation (A2.15)"
