@@ -1,1 +1,83 @@
-- date: All times are in CEST (Warsaw time). The events will be held on Zoom (use the link provided on Slack). The school will take place from June 17 to June 28, 2024. The detailed schedule is to be announced.
+- date: All times are in CEST (Warsaw time). The events will be held on Zoom (use the link provided on Slack). All activities, except those marked as OPTIONAL and TA Duty Hours, are mandatory to complete the program and earn a certifiate.
+
+- date: Whenever you prefer
+  events:
+    - name: "Get a mindset with Chris Bail (Duke University, founder of SICSS) asking yourself “[Why SICSS](https://www.youtube.com/watch?v=K6HzpZMcaQw)?” (YouTube) "
+
+- date: "Week I – Lectures and Workshops: June 17 – 21"
+
+- date: June 16 - Sunday, 2024
+  events:
+    - name: "18:00 – 19:00 – OPTIONAL but RECOMMENDED: Online get-together"
+
+- date: June 17 - Monday, 2024
+  events:
+    - name: "13:00 – 13:10 – Welcome & Introductory remarks from the organizers"
+    - name: "13:10 - 14:40 - Expert lecture: David Reichel on measuring human rights through statistics"
+    - name: "14:40 - 15:00 - Logistics"
+    - name: "15:00 - 16:00 - Brown-bag lunch break & networking for group project"
+    - name: "16:00 - 18:30 - Workshop – Natural Language Processing: Exploring the secrets of text analysis by Mateusz Mroziński"
+    - name: "18:30 - 19:00 - Feedback session"
+
+- date: June 18 - Tuesday, 2024
+  events:
+    - name: "13:00 - 15:30 - Workshop – ChatGPT unleashed: coding with Large Language Models by Joanna Walczak"
+    - name: "15:30 – 16:00 – Feedback session"
+    - name: "16:00 – 17:00 – Coffee break & networking for group projects"
+    - name: "17:00 – 18:30 – Expert lecture: Monika Leszczyńska on experiments in law"
+
+- date: June 19 - Wednesday, 2024
+  events:
+    - name: "13:00 – 15:30 – Workshop – Unlocking the power of Large Languages Models: the magic of API by Martyna Osztynowicz"
+    - name: "15:30 – 16:00 – Feedback session"
+    - name: "16:00 – 17:00 - Coffee break & networking for group projects"
+    - name: "17:00 – 18:30 – Neel Guha on engineering of Large Language Models in legal domain"
+    - name: "18:30 – 19:00 – Interim survey"
+  
+- date: June 20 - Thursday, 2024
+  events:
+    - name: "13:00 – 15:30 – Workshop – Coding justice: Machine Learning in judgements prediction by Kamil Szostak"
+    - name: "15:30 – 16:00 – Feedback session"
+    - name: "16:00 – 17:00 – Coffee break & networking for group project"
+    - name: "17:00 – 18:30 – Elizabeth Barry on computational democracy tools for research and legislation (Polis)"
+
+- date: June 21 - Friday, 2024
+  events:
+    - name: "13:00 – 14:30 – Expert lecture: Marta Nawrocka-Świętkowiak & Jędrzej Wydra on the impact of political polarization on the punitiveness of criminal law"
+    - name: "14:30 – 15:15 – Brown-bag lunch break & networking for group project"
+    - name: "15:15 – 17:30 – Workshop: Data Analysis: Revealing Punishments Trends in the Criminal Code through statistics by Marta & Jędrzej"
+    - name: "17:30 – 18:00 - Feedback session"
+
+- date: Saturday & Sunday
+  events: 
+    - name: "No classes, recharging batteries."
+
+- date: "Week II – Group Projects: June 24 – 28"
+  events: 
+    - name: "The second week is dedicated to participants implementing their project ideas. Groups (4-5 people) will organize their workflow independently. Teaching Assistants – Mateusz, Joanna, Martyna and Kamil – will have duty hours to help you with your code (if you need it)."
+
+- date: "June 24 - Monday, 2024"
+  events: 
+    - name: "15:00 – 17:30 – [Open space](https://www.youtube.com/watch?v=XCPZ5iQLlnA) – reserved time for final pitch of the ideas for group projects and assembly of the groups."
+    - name: "18:00 – 19:30 – TA Duty Hours with Mateusz"
+
+- date: "June 25 - Tuesday, 2024"
+  events:
+    - name: "13:00 – 14:30 – Expert lecture and workshop: Łucja Biel on corpus study methods for boosting legal analysis [please, create a free trial account at https://www.sketcheng/"
+    - name: "15:00 – 16:30 – TA Duty Hours with Martyna"
+
+- date: "June 26 - Wednesday, 2024"
+  events:
+    - name: "14:30 – 15:30 – Interim check-in session of group projects"
+    - name: "18:00 – 19:30 – TA Duty Hours with Kamil"
+
+- date: "June 27 - Thursday, 2024"
+  events:
+    - name: "12:30 – 14:00 – OPTIONAL: How to integrate computational methods in your grant submissions – individual consultations with Łukasz Szoszkiewicz"
+    - name: "16:00 – 17:30 – TA Duty Hours with Joanna & Jędrzej"
+
+- date: "June 28 - Friday, 2024"
+  events:
+    - name: "13:00 – 14:30 - Presentations of the group projects"
+    - name: "14:30 – 15:00 – Final remarks & group screenshot"
+    - name: "15:00 – 15:15 – Closing survey"
