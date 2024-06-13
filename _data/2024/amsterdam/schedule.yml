@@ -35,7 +35,8 @@
   events:
     - name: "10:00 - 12:00 Petter Törnberg: Workshop Introduction to Machine Learning (A1.04)"
     - name: "12:00 - 13:00 Lunch"
-    - name: "13:00 - 17:00 Project Fair + Team Formation (A1.04)"
+    - name: "13:00 - 15:00 Project Fair + Team Formation (A1.04)"
+    - name: "15:00 - 17:00 more team formation (A2.15)"
 
 
 - date: 2024-06-14
