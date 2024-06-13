@@ -1,10 +1,8 @@
-- date: All times are in CEST (Warsaw time). The events will be held on Zoom (use the link provided on Slack). All activities, except those marked as OPTIONAL and TA Duty Hours, are mandatory to complete the program and earn a certificate.
+- date: All times are in CEST (Warsaw time). The events will be held on Zoom (use the link provided on Slack).
 
 - date: Whenever you prefer
   events:
     - name: "Get a mindset with Chris Bail (Duke University, founder of SICSS) asking yourself “[Why SICSS](https://www.youtube.com/watch?v=K6HzpZMcaQw)?” (YouTube) "
-
-- date: "Week I – Lectures and Workshops: June 17 – 21"
 
 - date: June 16 - Sunday, 2024
   events:
@@ -51,10 +49,6 @@
 - date: Saturday & Sunday
   events: 
     - name: "No classes, recharging batteries."
-
-- date: "Week II – Group Projects: June 24 – 28"
-  events: 
-    - name: "The second week is dedicated to participants implementing their project ideas. Groups (4-5 people) will organize their workflow independently. Teaching Assistants – Mateusz, Joanna, Martyna and Kamil – will have duty hours to help you with your code (if you need it)."
 
 - date: "June 24 - Monday, 2024"
   events: 
