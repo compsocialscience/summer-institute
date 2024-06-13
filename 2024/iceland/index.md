@@ -14,3 +14,4 @@ However, we cannot offer financial aid for travel and accommodation. We welcome 
 
 [Application materials](https://docs.google.com/forms/d/e/1FAIpQLScj1uDNRzwcKEGrTYF-96GzhN_3qRE4ewF7X6GZ_pmb-04sew/viewform?usp=sf_link) are due June 21st, noon Reykjavik time.
 
+![SICSS Iceland Banner](/assets/images/iceland_SICSS.jpg)
