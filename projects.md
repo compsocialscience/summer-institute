@@ -9,7 +9,8 @@ layout: page
 ---
 
 | Authors | Publication Title | Journal | DOI | SICSS Affiliation |
-| ------- | ----------------- | ------- | --- | ----------------- | 
+| ------- | ----------------- | ------- | --- | ----------------- |
+| Goncalves, Marcelo S O; Langrock, Isabelle ; LaViolette, Jack; Spoon, Katie| Book bans in political context: Evidence from US schools | PNAS Nexus | DOI | Duke 2022 | 
 | Almaatouq, Abdullah; Krafft, Peter; Dunham, Yarrow; Rand, David G; Pentland, Alex | Turkers of the World Unite: Multilevel In-Group Bias Among Crowdworkers on Amazon Mechanical Turk | Social Psychological and Personality Science | <https://doi.org/10.1177/1948550619837002> | Princeton 2017 |
 | Jennie E. Brand, Jiahui Xu, Bernard Koch, and Pablo Geraldo | Uncovering Sociological Effect Heterogeneity Using Tree-Based Machine Learning | Sociological Methodology | <https://doi.org/10.1177%2F0081175021993503> | UCLA 2019 |
 | Biswas, Arpita; Kolczynska, Marta ; Rantanen, Saana; Rozenshtein, Polina | The Role of In-Group Bias and Balanced Data: A Comparison of Human and Machine Recidivism Risk Predictions | Proceedings of the 3rd ACM SIGCAS Conference on Computing and Sustainable Societies | <https://doi.org/10.1145/3378393.3402507> | Helsinki 2017 |
