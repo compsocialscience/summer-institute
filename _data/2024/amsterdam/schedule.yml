@@ -17,8 +17,10 @@
         - link: "https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/slides_workshop_marie_labussiere_git.pdf"
           text: "Slides"
     - name: "12:00 - 13:00 Lunch"
-    - name: "13:00 - 15:00 Rens Wilderom: Workshop Regular expressions + Topic models (A1.04) ([slides](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/slides_workshop_rens_wilderom_regex_topic_models.pptx), [notebook](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/notebook_workshop_rens_wilderom_regex_topic_models.ipynb),
-      [materials]([notebook](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/zips/rens_disneyland.zip))"
+    - name: "13:00 - 15:00 Rens Wilderom: Workshop Regular expressions + Topic models (A1.04)
+      ([slides](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/slides_workshop_rens_wilderom_regex_topic_models.pptx),
+      [notebook](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/notebook_workshop_rens_wilderom_regex_topic_models.ipynb),
+      [materials](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/zips/rens_disneyland.zip))"
 
       
 - date: 2024-06-12
