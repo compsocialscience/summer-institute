@@ -16,7 +16,7 @@
   name: Digital Trace Data
   events:
     - name: "9:00 - 9:30 Logistics" 
-    - name: "9:30 - 11:00 Tutorials on Screen Scraping"
+    - name: "9:30 - 11:00 Tutorials on Screen Scraping: [Materials](https://drive.google.com/drive/folders/1d6W4mraGojBvqoxmWj7o4ZDLvlQz-_U4?usp=sharing)"
     - name: "11:00 - 12:00 Tutorials on Using AI in Research" 
     - name: "12:00 - 1:30 Lunch"
     - name: "1:30 - 5:00 Small Group Exercise: Digital Trace Data"
