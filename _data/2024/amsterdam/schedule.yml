@@ -52,7 +52,9 @@
 - date: 2024-06-17
   # name: A1.04
   events:
-    - name: "10:00 - 12:00 Reshmi G. Pillai: Workshop: Structured knowledge representations (A1.04)"
+    - name: "10:00 - 12:00 Reshmi G. Pillai: Workshop: Structured knowledge representations (A1.04,
+      [slides](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/slides_workshop_reshmi_pillai_knowledge_graphs.pptx),
+      [notebook](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/notebook_workshop_reshmi_pillai_knowledge_graphs.ipynb))"
     - name: "12:00 - 13:00 Lunch"      
     - name: "13:00 - 15:00 Group work: Literature Review (A1.04, A1.05)"
     - name: "15:30 - 17:00 Elisa Omodei: Keynote Computational methods for the Sustainable Development Goals: The case of food security (A2.10)"
