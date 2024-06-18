@@ -1,12 +1,12 @@
 - date: 2024-06-23
   name: "The pre-night"
   events:
-    - name: "16:00 - 19:00 pre-SICSS meeting with dinner"
+    - name: "16:00 - 19:00 pre-SICSS meeting with dinner(N4 1433)"
 - date: 2024-06-24
   name: "DAY1"
   events:
     - name: "9:15 - 9:30 Morning coffee hour(N4 1433)"
-    - name: "9:30 - 10:30 Lecture : Ethics(N4 1433)"
+    - name: "9:30 - 10:30 Lecture : Ethics(Jeon June, N4 1433)"
     - name: "10:30 - 10:45 Break"
     - name: "10:45 - 12:30 Lightening Talk(N4 1433)"
     - name: "12:30 - 13:30 Lunch"
@@ -19,21 +19,22 @@
   name: "DAY2"
   events:
     - name: "9:15 - 9:30 Morning coffee hour(N4 1433)"
-    - name: "9:30 - 10:45 Lecture : Digital Data Collection 1(N4 1433)"
+    - name: "9:30 - 10:45 Lecture : Digital Data Collection 1(Lanu Kim, N4 1433)"
     - name: "10:45 - 11:00 Break"
-    - name: "11:00 - 12:15 Lecture : Digital Data Collection 2(N4 1433)"
+    - name: "11:00 - 12:15 Lecture : Digital Data Collection 2(Lanu Kim, N4 1433)"
     - name: "12:15 - 13:30 Lunch"
     - name: "13:30 - 14:45 Organizer Talk(N4 1433)"
     - name: "14:45 - 15:00 Break"
     - name: "15:00 - 16:15 TA Talk(N4 1433)"
     - name: "16:15 - 17:00 Break"
     - name: "17:00 - 18:00 Invited Talk 2 : Bas Hofstra (ZOOM)"
-    - name: "18:00 - 19:00 Individual meeting with a speaker"
+    - name: "18:00 - 18:15 Break"
+    - name: "18:15 - 19:15 Individual meeting with a speaker"
 - date: 2024-06-26
   name: "DAY3"
   events:
     - name: "9:15 - 9:30 Morning coffee hour(N4 1125)"
-    - name: "9:30 - 10:45 Invited Talk 3 : Invited Talk 3(N4 1125)"
+    - name: "9:30 - 10:45 Invited Talk 3 : Jonghee Park(N4 1125)"
     - name: "10:45 - 11:00 Break"
     - name: "11:00 - 12:15 Individual meeting with a speaker(N4 1125)"
     - name: "12:15 - 13:15 Lunch"
