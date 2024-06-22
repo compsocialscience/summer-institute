@@ -2,6 +2,7 @@
 - date: June 30, 2024
   name: "Day 0: Welcome & speed dating"
   events:
+    - name: "8:30 - 9:00 Registration"
     - name: "9:00 - 9:10 Welcome note - Fang Luo (Beijing Normal University)"
     - name: "9:10 - 10:30 Keynote speech (online) - Matthew J. Salganik (Princeton University)"
     - name: "10:40 - 12:00 Keynote speech - Xing Xie (Microsoft)  "
@@ -11,8 +12,7 @@
   name: "Large Language Model (LLM)"
   events:
     - name: "9:00 - 12:00 Lecture 1 and Lab 1: Large Language Model (LLM) - Yankai Lin (Renmin University of China) "
-    - name: "14:00 - 15:00 Lecture 1 and Lab 1: Large Language Model (LLM) - Yankai Lin (Renmin University of China)"
-    - name: "15:00 - 17:00 Lecture 2 and Lab 2: Foundation Model (multi- modal) - Xiting Wang (Renmin University of China) "
+    - name: "14:00 - 17:00 Lecture 2 and Lab 2: Foundation Model (multi- modal) - Xiting Wang (Renmin University of China) "
 
 - date: July 2, 2024
   name: "Social media and text analysis"
@@ -39,7 +39,6 @@
   events:
     - name: "9:00 - 12:00 Lecture Series: Societal AI – (Microsoft Research Aisa) "
     - name: "14:00 - 15:30 Guest speaker – Diyi Yang (Stanford University)"
-    - name: "14:03 - 15:30 Guest speaker – Group Work"
     - name: "15:30 - 17:00 Microsoft Research Aisa Tour"
 
 - date: July 6, 2024
@@ -56,13 +55,12 @@
   events:
     - name: "9:00 - 10:30 Guest speaker – David Stillwell (University of Cambridge) "
     - name: "10:30 - 12:00 Group work "
-    - name: "14:00 - 15:30 Guest speaker – TBD "
-    - name: "15:30 - 17:00 Group work "
+    - name: "14:00 - 17:00 Group work "
 
 - date: July 10, 2024
   name: "Talks and Group work"
   events:
-    - name: "9:00 - 10:30 Guest speaker – Jose Hernandez-Orallo (University of Cambridge) "
+    - name: "9:00 - 10:30 Guest speaker – Jose Hernandez-Orallo (Universitat Politècnica de València) "
     - name: "10:30 - 12:00 Group work "
     - name: "14:00 - 17:00 Group work "
 
@@ -71,8 +69,7 @@
   events:
     - name: "9:00 - 10:30 Guest speaker – Yong Li (Tsinghua University) "
     - name: "10:30 - 12:00 Group work "
-    - name: "14:00 - 15:30 Guest speaker – TBD "
-    - name: "15:30 - 17:00 Group work "
+    - name: "14:00 - 17:00 Group work "
 
 - date: July 12, 2024
   name: "Group presentations and Closing"
