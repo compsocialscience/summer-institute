@@ -1,1 +1,42 @@
-- name:
+- name: "Shuhan (Alice) Ai"
+  image: /assets/images/1yMklKMV9YkE2ZQTukATk7tNTj60sbDB-.jpeg
+  bio: "Shuhan Ai is a doctoral student at UCLA School of Education and Information Studies, majored in Higher Education and Organizational Change. Her research examines how college experiences facilitates women of color's STEM career aspiration and trajectories. She is very interested in longitudinal studies and causal inference, as well as how to use machine learning in higher education research."
+
+- name: "Luoman Bao"
+  image: /assets/images/1egGO4L7Dd9Sxo1nyMYR6ZipkzWNydU-2.jpeg
+  bio: "Luoman Bao is an Associate Professor of Sociology at California State University, Los Angeles. Her research areas include aging, health, and family, focusing on aging experiences, the involved inequalities, and their implications for older people’s health. She is also interested in applying causal inference and machine learning methods to research."
+  website: https://scholar.google.com/citations?user=Fj4GGZ0AAAAJ&hl=en
+
+- name: "Ayumi Hashimoto"
+  image: /assets/images/1oB5pAGpf8XeReJBP7LuhKteeM9U9AIVr.jpeg
+  bio: "Ayumi Hashimoto is a visiting scholar at the David Geffen School of Medicine at UCLA and a post-doctoral fellow at the Faculty of Economics at Keio University, holding a PhD in Health Sciences and Nursing from the University of Tokyo. Her research interest is evaluating efficiency of public health policies."
+
+- name: "Tianji Jiang"
+  image: /assets/images/1Pib7A1g5llcmX3rTZulfVBToT_f2SBXz.jpeg
+  bio: "Tianji Jiang is a PhD candidate in information studies at UCLA. His research interests include data curation, information behaviors, and science of science. His ongoing project is studying the reusability of scientific data, and exploring how to facilitate data sharing and reuse to benefit social science research."
+  website: https://scholar.google.com/citations?user=-yGIGLgAAAAJ&hl=en
+
+- name: "Honeiah Karimi"
+  image: /assets/images/1rK0oNRAj2imUCE1NmMPCsqDdfKxATf3F.jpeg
+  bio: "Honeiah Karimi is a Ph.D. candidate in Education with an emphasis in Quantitative Methods in the Social Sciences at UC Santa Barbara. Her research interests include applications of NLP methods in educational research, educational measurement, and language learning in Virtual Reality. She holds a BA and an MA in Linguistics."
+  website: https://scholar.google.com/citations?user=_sD376QAAAAJ&hl=en
+
+- name: "Qianyi Lu"
+  image: /assets/images/1dWDpHc9NGPOXFN3ySE4ANA8jaFvJhyMR.jpeg
+  bio: "Qianyi Lu is a doctoral student in the Sociology Department of University of Illinois at Urbana-Chaimpan. She enjoys exploring how the intersection of social stratification, occupations, and family relations shapes people's well-being. Her current research applies computational methods to marriage archives in China to investigate the gender dynamics after marriage law reform. Before the PhD program, she earned an MA in sociology from the Renmin University of China and a BA in economic statistics from Jinan University."
+  website: https://sociology.illinois.edu/directory/profile/qianyil4
+
+- name: "Xiaojie Shen"
+  image: /assets/images/1dfB182rHiTu2x3V_23pRy2ieTQHJdjBI.jpeg
+  bio: "Xiaojie Shen is a Ph.D. candidate in Sociology at Peking University and a visiting student at the Paul and Marcia Wythes Center on Contemporary China, Princeton University. He received his B.A. in Public Management with a concentration on demography from Renmin University of China. His research interests intersect family demography and social stratification. He seeks to utilize computational methods to understand changing family behaviors and values among young people in China."
+  website: https://sites.google.com/view/xiaojieshen
+
+- name: "Diana Torres"
+  image: /assets/images/10LOr4fSIXFv7V4axgHoPdcGrUiT8DrrO.jpeg
+  bio: "Diana Torres is a Ph.D. student at UCLA studying Higher Education. Her research explores college affordability and students’ labor market outcomes, with a focus on Latinx and first-generation college students. She has worked as a Data Fellow at The Education Trust and held teaching assistantships for introductory R courses."
+  website: https://www.linkedin.com/in/diana-torres-1a6aa718a/
+
+- name: "Sara Tyberg"
+  image: /assets/images/1HyPVH8AwpZ_Ybi3HMYG2GY_xeLxe5iMI.jpeg
+  bio: "Sara Tyberg is a Ph.D. student in Sociology at UC Santa Barbara. Her research uses mixed methods to examine race, gender, and class privilege, specifically exploring how privileged groups experience and respond to adversity. Sara also serves as a research assistant for the Mass Shootings in America project at UCSB."
+  website: https://x.com/saratyberg
