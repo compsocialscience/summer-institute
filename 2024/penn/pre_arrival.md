@@ -28,7 +28,7 @@ Please note that the majority of the coding work presented at SICSS-Penn 2024 wi
 
 ### Python
 
-Many of the activities will require coding, and examples will be shown in Python. You are welcome to use other languages, but we cannot guarantee that we can support them. Before SICSS you should ensure you can access [](https://colab.research.google.com/), a free, browser-based notebook environment.
+Many of the activities will require coding, and examples will be shown in Python. You are welcome to use other languages, but we cannot guarantee that we can support them. Before SICSS you should ensure you can access [Google Colab](https://colab.research.google.com/), a free, browser-based notebook environment.
 
 ### Slack
 
