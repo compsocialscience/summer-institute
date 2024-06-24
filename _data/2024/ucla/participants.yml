@@ -11,6 +11,16 @@
   image: /assets/images/1oB5pAGpf8XeReJBP7LuhKteeM9U9AIVr.jpeg
   bio: "Ayumi Hashimoto is a visiting scholar at the David Geffen School of Medicine at UCLA and a post-doctoral fellow at the Faculty of Economics at Keio University, holding a PhD in Health Sciences and Nursing from the University of Tokyo. Her research interest is evaluating efficiency of public health policies."
 
+- name: "Efraín García Sánchez"
+  image: /assets/images/1lab3MSXKzgGxCmT2YSnYg-Nenebf3S_8.jpeg
+  bio: "Efraín García Sánchez, Ph.D., is Economic Mobility Fellow at SPARQ, Stanford University. His research examines how individuals perceive, understand, and respond to social and economic inequality. He is interested in the psychosocial processes shaping people's attitudes toward policies to reduce poverty and inequality."
+  website: https://scholar.google.com/citations?hl=en&user=cUzFEFwAAAAJ
+
+- name: "Earl Greer"
+  image: /assets/images/1brEpr1WFq08GV5viwgDtAlKhMwMMu_hH.jpeg
+  bio: "Earl Greer is a PhD student in Health Policy & Management at UCLA. His research interests focus on big data analytics and machine learning with correlations to healthcare delivery and health outcomes. He holds a B.S. in Sociology and an MPH in Health Policy and Management from Texas A&M University."
+  website: https://g.co/kgs/yhfqe1V
+  
 - name: "Tianji Jiang"
   image: /assets/images/1Pib7A1g5llcmX3rTZulfVBToT_f2SBXz.jpeg
   bio: "Tianji Jiang is a PhD candidate in information studies at UCLA. His research interests include data curation, information behaviors, and science of science. His ongoing project is studying the reusability of scientific data, and exploring how to facilitate data sharing and reuse to benefit social science research."
@@ -40,3 +50,9 @@
   image: /assets/images/1HyPVH8AwpZ_Ybi3HMYG2GY_xeLxe5iMI.jpeg
   bio: "Sara Tyberg is a Ph.D. student in Sociology at UC Santa Barbara. Her research uses mixed methods to examine race, gender, and class privilege, specifically exploring how privileged groups experience and respond to adversity. Sara also serves as a research assistant for the Mass Shootings in America project at UCSB."
   website: https://x.com/saratyberg
+
+- name: "Daniela Urbina"
+  website: https://www.danielaurbina.com/
+
+- name: "Coral Utnehmer"
+  bio: "Coral Utnehmer is a recent UCLA graduate with a BA in Sociology. She is interested in researching intersubjective consensus and competing perspectives. Past and current research focuses on diverse gender identities in interaction."
