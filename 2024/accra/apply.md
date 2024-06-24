@@ -66,7 +66,7 @@ At the summer institute: We aim to ensure that the summer institute is as access
 
 Prizes and awards: Cash prizes will be awarded directly to team members based on the novelity of their research and progress by the end of the summer institute. All  the relevant team members have provided their bank account details. If the bank account is for a bank branch that is located outside of the United Kingdom, then payment of the prize for that team member is subject to Wellcome being able to transfer funds to that location.
 
-The following cash prizes are available:
+***The following cash prizes are available:***
 
 - Gold SICSS-Accra prize:  $600 
 - Silver SICSS-Accra prize: $400
