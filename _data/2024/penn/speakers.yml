@@ -4,7 +4,7 @@
   website: https://gvrkiran.github.io/
   
 - name: Afsaneh Razi
-  image: /assets/images/afsaneh_razi.jpeg
+  image: /assets/images/afsaneh_razi.jpg
   bio: 'Afsaneh Razi is an Assistant Professor at the College of Computing and Informatics at Drexel University. Razi’s research expertise is positioned at the intersection of HCI, Social Computing, AI/ML, Privacy, and Online Safety.'
   website: https://www.afsanehrazi.com/
   
@@ -14,7 +14,7 @@
   website: https://www.cis.upenn.edu/~ccb/
   
 - name: Brandon Stewart
-  image: /assets/images/brandon_stewart.jpeg
+  image: /assets/images/brandon_stewart.jpg
   bio: 'Brandon Stewart is an Associate Professor in the Department of Sociology and is also affiliated with the Department of Politics and the Office of Population Research.  He develops new quantitative statistical methods for applications across the social sciences.  Methodologically his focus is in tools which facilitate automated text analysis and model complex heterogeneity in regression.'
   website: https://bstewart.scholar.princeton.edu/
   
@@ -24,6 +24,6 @@
   website: https://live-sas-www-polisci.pantheon.sas.upenn.edu/people/standing-faculty/ian-lustick
   
 - name: Taylor Brown
-  image: /assets/images/taylor_brown.jpeg
+  image: /assets/images/taylor_brown.jpg
   bio: 'Taylor Brown is a research scientist/engineer at Facebook. Brown studies group-level patterns using digital trace data and computational methods.'
   website: http://www.taylorwhittenbrown.com/
