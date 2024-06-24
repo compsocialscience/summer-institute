@@ -2,3 +2,28 @@
   image: /assets/images/kiran_garimella.png
   bio: 'Kiran Garimella is an assistant professor of library and information science at Rutgers.  Garimella’s research deals with using large-scale data to tackle societal issues such as misinformation, political polarization, or hate speech.'
   website: https://gvrkiran.github.io/
+  
+- name: Afsaneh Razi
+  image: /assets/images/afsaneh_razi.jpeg
+  bio: 'Afsaneh Razi is an Assistant Professor at the College of Computing and Informatics at Drexel University. Razi’s research expertise is positioned at the intersection of HCI, Social Computing, AI/ML, Privacy, and Online Safety.'
+  website: https://www.afsanehrazi.com/
+  
+- name: Chris Callison-Burch
+  image: /assets/images/chris_callison-burch.jpeg
+  bio: 'Chris Callison-Burch is an associate professor of Computer and Information Science at the University of Pennsylvania. He is best known for his research into natural language processing. His current research is focused on applications of large language models to long-standing challenges in artificial intelligence.'
+  website: https://www.cis.upenn.edu/~ccb/
+  
+- name: Brandon Stewart
+  image: /assets/images/brandon_stewart.jpeg
+  bio: 'Brandon Stewart is an Associate Professor in the Department of Sociology and is also affiliated with the Department of Politics and the Office of Population Research.  He develops new quantitative statistical methods for applications across the social sciences.  Methodologically his focus is in tools which facilitate automated text analysis and model complex heterogeneity in regression.'
+  website: https://bstewart.scholar.princeton.edu/
+  
+- name: Ian Lustick
+  image: /assets/images/ian_lustick.png
+  bio: 'Ian Lustick holds the Bess W. Heyman Chair in the Political Science Department of the University of Pennsylvania.  He teaches Middle Eastern politics, comparative politics, and computer modeling.'
+  website: https://live-sas-www-polisci.pantheon.sas.upenn.edu/people/standing-faculty/ian-lustick
+  
+- name: Taylor Brown
+  image: /assets/images/taylor_brown.jpeg
+  bio: 'Taylor Brown is a research scientist/engineer at Facebook. Brown studies group-level patterns using digital trace data and computational methods.'
+  website: http://www.taylorwhittenbrown.com/
