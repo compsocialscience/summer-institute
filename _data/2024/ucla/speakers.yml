@@ -1,3 +1,8 @@
+- name: "Saadia Gabriel"
+  image: /assets/images/saadia_gabriel.jpg
+  bio: "Saadia Gabriel is a Data Science Faculty Fellow at NYU and incoming UCLA Computer Science Assistant Professor. Her research revolves around natural language processing and machine learning, with a particular focus on building systems for understanding how social commonsense manifests in text (i.e. how do people typically behave in social scenarios), as well as mitigating spread of false or harmful text (e.g. Covid-19 misinformation). Her work has been covered by a wide range of media outlets like Forbes and TechCrunch. It has also received a 2019 ACL best short paper nomination, a 2019 IROS RoboCup best paper nomination, a best paper award at the 2020 WeCNLP summit and a 2023 MIT Generative AI Impact award. She was named on Forbes' 30 under 30 2024 list. She previously was a MIT CSAIL Postdoctoral Fellow and received her PhD from the University of Washington."
+  website: https://saadiagabriel.com/
+  
 - name: "Chad Hazlett"
   image: /assets/images/chad_hazlett.jpg
   bio: "Chad Hazlett is a professor at UCLA in the Department of Statistics and Data Science and in the Department of Political Science. His methodological work focuses on 'feasible' or 'practical' causal inference: developing research methods that enable researchers across disciplines to more feasibly make credible causal inferences from the available data and assumptions. His substantive work has focused on civil war, indiscriminate violence, and mass atrocity."
