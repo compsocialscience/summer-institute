@@ -18,20 +18,20 @@ Participants with less experience with social science research will be expected 
 
 Interested participants can apply as:
 
-- An individual:
+- **An individual:**
 
 	-	A curriculum vitae (max 4 pages).
 	-	A motivation letter (max one page) describing why you wish to attend SICSS-Accra, your current research interests, future plans and how these intersect with the goals of this partner location.
 	-	A 2-page concept note on any computational social science-focused project you would like to work on during the programme.
 	
 	
-To be competitive, you must also demonstrate in your motivation letter that you can work as part of a team and what your likely contributions would be.  Your proposal should also be clear, supported by evidence and demonstrate readiness for research in computational social science. We don't expect you to be an expert in computational social sciences prior to the summer institute. However, you must demonstrate in your concept note that your proposed research is interesting and can be explored during the summer institute and beyond (feasible). 
+To be competitive, you must also demonstrate in your motivation letter that you can work as part of a team and what your likely contributions would be.  Your proposal should also be clear and supported by evidence and demonstrate readiness for research in computational social science. We don't expect you to be an expert in computational social sciences prior to the summer institute. However, you must demonstrate in your concept note that your proposed research is interesting and can be explored during the summer institute and beyond (feasible). 
 
 
-	Applications/expressions of interest will be accepted from April 13, 2024, until July 8, 2024. In order to be guaranteed full consideration, all application materials must be submitted online via <a href= "https://forms.gle/NBNyh3edkeyg2arGA" target= "_blank">https://forms.gle/NBNyh3edkeyg2arGA</a>. 
+Applications/expressions of interest will be accepted from April 13, 2024, until July 8, 2024. In order to be guaranteed full consideration, all application materials must be submitted online via <a href= "https://forms.gle/NBNyh3edkeyg2arGA" target= "_blank">https://forms.gle/NBNyh3edkeyg2arGA</a>. 
 
 
-- A group comprising of 4-5 individuals:
+- **A group comprising of 4-5 individuals:**
 
 	-	A curriculum vitae of all team members.
 	-	A motivation letter (max one page) describing why you wish to attend SICSS-Accra as a team, your current research interests, future plans and how these intersect with the goals of this partner location.
@@ -41,7 +41,7 @@ To be competitive, you must also demonstrate in your motivation letter that you 
 To be competitive, you must demonstrate in your motivation letter that your team is diverse (includes people of different genders and disciplines) and that every member of your team will make clear contributions to all aspects of the proposed research.  Your proposal should also be clear, supported by evidence and demonstrate readiness for research in computational social science. We don't expect you to be experts in computational social sciences prior to the summer institute. However, you must demonstrate in your concept note that your proposed research is interesting and novel and can be explored during the summer institute and beyond (feasible).
 
 
-	Applications/expressions of interest will be accepted from April 13, 2024, until July 8, 2024. In order to be guaranteed full consideration, all application materials must be submitted online via <a href= "https://forms.gle/NBNyh3edkeyg2arGA" target= "_blank">https://forms.gle/NBNyh3edkeyg2arGA</a>. 
+Applications/expressions of interest will be accepted from April 13, 2024, until July 8, 2024. In order to be guaranteed full consideration, all application materials must be submitted online via <a href= "https://forms.gle/NBNyh3edkeyg2arGA" target= "_blank">https://forms.gle/NBNyh3edkeyg2arGA</a>. 
 
 
 Applications that are not complete by the deadline may not receive full consideration. Conditional offers will be sent by July 17, 2024, while unconditional offers to participate in the program will be sent by **August 12, 2024.**
