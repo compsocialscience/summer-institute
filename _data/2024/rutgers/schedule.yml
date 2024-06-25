@@ -91,8 +91,19 @@
 - date: June 27, 2024
   name: Group work day
   events: 
-    - name: "10:00 - 1:00 Joint Session with C-SPAN Video Institute"
-    - name: "1:00 - 5:00 Group work time"
+    - name: "9:00 - 12:00 Joint Session with C-SPAN Video Institute"
+    - name: "12:00 - 1:30 Lunch"
+    - name: "1:30 - 5:00 Group Work"
     
 - date: June 28, 2024
   name: Group Presentations and Closing Lunch
+  events: 
+    - name: "9:00 - 9:30 Finalize Group Projects"
+    - name: "9:35 - 10:00 Group presentation 1"
+    - name: "10:00 - 10:25 Group presentation 2"
+    - name: "10:25 - 10:50 Group presentation 3"
+    - name: "10:50 - 11:05 Break"
+    - name: "11:05 - 11:30 Group presentation 4"
+    - name: "11:30 - 11:55 Group presentation 5"
+    - name: "12:00 - 1:30 Closing Remarks and Lunch"
+
