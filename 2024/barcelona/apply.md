@@ -20,7 +20,7 @@ Applicants must submit the following documents:
 - A short CV (1 page)
 - 400 words text expressing motivation and research interest (to be inserted in the application form)
 
-**In order to be guaranteed full consideration, all application materials must be submitted by June 28th.** All application materials must be submitted through [**the application form**](https://docs.google.com/forms/d/e/1FAIpQLSd-n-uEfEAo5COKY7GTGFBZeVu-mEyY-CWANf3zIvsg851beQ/viewform). Soon after the application deadline, we will notify applicants and ask participants to confirm their participation.
+**In order to be guaranteed full consideration, all application materials must be submitted by July 12th.** All application materials must be submitted through [**the application form**](https://forms.gle/rQRPp6LaPgvEvaYx5). Soon after the application deadline, we will notify applicants and ask participants to confirm their participation.
 
 Inquiries can be sent to [camilo.cristancho@ub.edu](mailto:camilo.cristancho@ub.edu).
 

@@ -11,4 +11,4 @@ The instructional program will involve lectures, group problem sets, and partici
 
 We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 20 participants will be invited, and participants are expected to fully attend and participate in the entire one-week program.
 
-[Application materials](https://docs.google.com/forms/d/e/1FAIpQLSd-n-uEfEAo5COKY7GTGFBZeVu-mEyY-CWANf3zIvsg851beQ/viewform) are due June 28th. Inquiries may be sent to [camilo.cristancho@ub.edu](mailto:camilo.cristancho@ub.edu).
+[Application materials](https://forms.gle/rQRPp6LaPgvEvaYx5) are due July 12th. Inquiries may be sent to [camilo.cristancho@ub.edu](mailto:camilo.cristancho@ub.edu).
