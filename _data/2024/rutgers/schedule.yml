@@ -102,8 +102,9 @@
     - name: "9:35 - 10:00 Group presentation 1"
     - name: "10:00 - 10:25 Group presentation 2"
     - name: "10:25 - 10:50 Group presentation 3"
-    - name: "10:50 - 11:05 Break"
-    - name: "11:05 - 11:30 Group presentation 4"
-    - name: "11:30 - 11:55 Group presentation 5"
-    - name: "12:00 - 1:30 Closing Remarks and Lunch"
+    - name: "10:50 - 11:00 Break"
+    - name: "11:00 - 11:25 Group presentation 4"
+    - name: "11:25 - 11:50 Group presentation 5"
+    - name: "11:50 - 12:15 Group presentation 6"
+    - name: "12:15 - 1:30 Closing Remarks and Lunch"
 
