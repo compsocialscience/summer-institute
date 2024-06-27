@@ -1,8 +1,3 @@
-- date: All times are in Eastern Daylight Time.
-  name: The schedule will run during business hours.
-  events:
-    - name: Specific schedule details subject to change.
-    
 - date: 2024-07-01
   name: "DAY1"
   events:
