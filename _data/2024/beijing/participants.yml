@@ -33,7 +33,7 @@
 
 
 - name: Yuelin Wang
-  image: /assets/images/yuelinwang.jpg
+  image: /assets/images/yuelinwang.JPG
   bio: "Yuelin Wang doing her PhD study of Political Communication in Technical University Munich. She was graduated from Victoria University of Wellington and Cardiff University. She's research interest includes Climate Change, social media communication and crisis communication."
   website:  
 
@@ -57,8 +57,12 @@
 
 
 - name: Siyi Gong
-  image: /assets/images/siyigong.jpg
+  image: /assets/images/siyigong.JPG
   bio: "Siyi Gong is a second-year PhD student in the Communication Department at the University of California, Los Angeles. Her research is situated at the intersection of communication, cognitive science, and computational modeling, with a particular focus on collective intelligence based on visual common ground. Her recent work primarily explores how people collaboratively address challenges in communication when it becomes difficult and overloaded. Additionally, Siyi is interested in integrating artificial intelligence into her studies to examine the dynamic interplay between machine and human intelligence."
   website:  
 
+- name: Yuqing Shi 
+  image: /assets/images/yuqingshi.jpeg
+  bio: "Yuqing Shi is a Ph.D. student in Psychology at the National University of Singapore. She holds an M.S. in Cognitive Neuroscience and a B.S. in Psychology from Beijing Normal University. Her research interests focus on social cognition, particularly on how conceptual knowledge influences trait inferences and the organization of trait space during the dynamic process of impression formation."
+  website:  
 
