@@ -71,3 +71,54 @@
   bio: "Rui Cao is a PhD candidate in the Department of Sociology and a graduate affiliate of the Institute for Population Research at Ohio State University. She is broadly interested in gender, family, and education. Her research focuses on (1) the role of family dynamics and school processes in exacerbating or alleviating existing disparities in cognitive and non-cognitive abilities across racial and social class groups, (2) the gendered consequences of family structures during adolescence and adulthood, and (3) the implications of motherhood on midlife women's health. "
   website: https://scholar.google.com/citations?user=84WoihsAAAAJ&hl=en
 
+- name: Muhua Huang
+  image: /assets/images/muhuahuang.jpg
+  bio: "Muhua Huang is a master's student in Computational Social Science at the University of Chicago, holding a bachelor's degree in Computer Science and Psychology from the University of British Columbia. Her research interests lie in advancing computational methods for behavioral science and leveraging social science theories to understand AI agents' behaviors. She employs machine learning, natural language processing, and structural equation modeling in her work. Currently, she focuses on two main areas: (1) designing AI agents with distinct personalities using a psychometric approach and (2) examining the value systems of large language models through multi-agent interactions."
+  website:  
+
+- name: Xi Cheng
+  image: /assets/images/xicheng.jpg
+  bio: "Xi Cheng is a doctoral student at Beijing Normal University, specializing in the cognitive structure of social knowledge. She recently developed a qualitative tool to measure social relationships. Utilizing text analysis and large language models, she explores the historical evolution of social cognition. Additionally, she is interested in the science of science, with a particular focus on individual differences in researcher cooperation."
+  website:  
+
+- name: Zhaonan Wang
+  image: /assets/images/zhaonanwang.jpg
+  bio: "Zhaonan Wang is an incoming Assistant Professor to NYU Shanghai. His research interests lie in the interdisciplinary area of AI-urban science; he has published over 20 papers on top-tier AI data mining conferences and journals. Zhaonan has just finished postdoc at University of Illinois Urbana-Champaign, where he led the Geospatial AI team at CyberGIS Center. Zhaonan obtained his PhD in 2022 at Center for Spatial Information Science, the University of Tokyo, where he was awarded the Japanese Government (MEXT) scholarship. Zhaonan was also one of 37 nominees who were admitted to Peking University with College Entrance Exam exempted in Beijing 2010."
+  website:  
+
+- name: Cai Yang
+  image: /assets/images/caiyang.jpeg
+  bio: "Cai Yang is an incoming PhD student at the College of Information Studies at the University of Maryland, College Park. His research interest is politically oriented computational social science for improving online information ecosystems. Previously, he was a research intern at the Max Planck Institute for Software Systems on the Saarland Informatics Campus, where he worked on analyzing TikTok addiction through data donation. He obtained his Bachelor's degree from the Australian National University."
+  website:  
+
+- name:Deliang Wang 
+  image: /assets/images/deliangwang.jpeg
+  bio: "Deliang Wang is a Year 2 PhD candidate in the Faculty of Education at The University of Hong Kong. His research directions lie on AI and explainable AI in education, such as using AI and explainable AI to model and interpret educational dialogue and learner models. His publications appear in prestigious journals and conferences, such as IEEE Transactions on Learning Technologies, British Journal of Educational Technology, Educational Technology & Society, Education and Information Technologies, AIED, and AAAI conferences."
+  website:  
+
+- name: Youhan Ding
+  image: /assets/images/youhanding.jpg
+  bio: "Youhan Ding is a research and international affairs programme specialist of Beijing Film Academy. Graduated from Scripps College in 2017 with a BA in Politics and Economics and New York University in 2020 with a MA in International Relations. Beyond her work in international communication and exchange, she has developed an interest towards the discussion and research on technology (especially generative AI), cultural studies and film as her work of the UNESCO Chair on Cinematic Arts and Cultural Diversity deepens and as she takes part in more international discourses about AI and education, and arts, etc."
+  website:  
+
+
+- name: Yingru Ji
+  image: /assets/images/jiyingru.jpg
+  bio: "Yingru Ji (PhD) is a ZJU100 Young Professor and doctoral supervisor in the College of Media and International Cultures at Zhejiang University. Her research focuses on human-machine communication and strategic communication. Recently, she has concentrated on the communication strategies, agency, and relationships of generative AI-based conversational chatbots with humans. She is the author of the forthcoming book, \"Attribution Bias: The Public Opinion Psychology in the Social Media Era.\" Her work has been published in top-tier communication journals such as New Media & Society and has won top paper awards at prestigious international communication conferences such as ICA and AEJMC."
+  website:  
+
+- name: Desheng Hu
+  image: /assets/images/desheng_hu.jpg
+  bio: "Desheng Hu is a PhD candidate in computer science at University of Zurich, co-advised by Prof. Aniko Hannak and Prof. Christo Wilson, with research interests in social computing, applied machine learning, algorithm auditing, and with applications in search engine and social media. Serving as leading authors, he published and presented several papers on top conferences such as WWW, ACM WebSci, AAAI ICWSM; and delivered invited talks about his work at top Internet companies such as Twitter Inc. and talked at academic events like Stanford's Trust & Safety Research Conference. He enjoys that the measurements conducted in his projects can offer real-world guidance for system designers or policy-makers to help make intelligent systems fairer, more transparent, and accountable."
+  website:  
+
+- name: Yun Wu
+  image: /assets/images/Yun Wu.jpg
+  bio: "Yun Wu is a postdoctoral researcher at the Chinese Academy of Social Sciences. Her research focuses on youth development and how technologies have been shaping individuals' emotional wellbeing. She is interested in using big data and computational techniques to understand young people's purpose development and wellbeing."
+  website:  
+
+- name: Jingwei Yi
+  image: /assets/images/jingweiyi.jpg
+  bio: "Jingwei Yi is a fourth-year joint Ph.D. candidate between Microsoft Research Asia (MSRA) University of Science and Technology of China (USTC). Her research interests lie within responsible AI research problems, especially the societal, safety and security problems related to large language models."
+  website:  
+
