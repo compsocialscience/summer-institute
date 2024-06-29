@@ -71,23 +71,3 @@
   bio: "Rui Cao is a PhD candidate in the Department of Sociology and a graduate affiliate of the Institute for Population Research at Ohio State University. She is broadly interested in gender, family, and education. Her research focuses on (1) the role of family dynamics and school processes in exacerbating or alleviating existing disparities in cognitive and non-cognitive abilities across racial and social class groups, (2) the gendered consequences of family structures during adolescence and adulthood, and (3) the implications of motherhood on midlife women's health. "
   website:https://scholar.google.com/citations?user=84WoihsAAAAJ&hl=en
 
-
-- name: Yingru Ji
-  image: /assets/images/jiyingru.jpg
-  bio: "Yingru Ji (PhD) is a ZJU100 Young Professor and doctoral supervisor in the College of Media and International Cultures at Zhejiang University. Her research focuses on human-machine communication and strategic communication. Recently, she has concentrated on the communication strategies, agency, and relationships of generative AI-based conversational chatbots with humans. She is the author of the forthcoming book, \"Attribution Bias: The Public Opinion Psychology in the Social Media Era.\" Her work has been published in top-tier communication journals such as New Media & Society and has won top paper awards at prestigious international communication conferences such as ICA and AEJMC."
-  website:  
-
-- name: Desheng Hu
-  image: /assets/images/desheng_hu.jpg
-  bio: "Desheng Hu is a PhD candidate in computer science at University of Zurich, co-advised by Prof. Aniko Hannak and Prof. Christo Wilson, with research interests in social computing, applied machine learning, algorithm auditing, and with applications in search engine and social media. Serving as leading authors, he published and presented several papers on top conferences such as WWW, ACM WebSci, AAAI ICWSM; and delivered invited talks about his work at top Internet companies such as Twitter Inc. and talked at academic events like Stanford's Trust & Safety Research Conference. He enjoys that the measurements conducted in his projects can offer real-world guidance for system designers or policy-makers to help make intelligent systems fairer, more transparent, and accountable."
-  website:  
-
-- name: Yun Wu
-  image: /assets/images/Yun Wu.jpg
-  bio: "Yun Wu is a postdoctoral researcher at the Chinese Academy of Social Sciences. Her research focuses on youth development and how technologies have been shaping individuals' emotional wellbeing. She is interested in using big data and computational techniques to understand young people's purpose development and wellbeing."
-  website:  
-
-- name: Jingwei Yi
-  image: /assets/images/jingweiyi.jpg
-  bio: "Jingwei Yi is a fourth-year joint Ph.D. candidate between Microsoft Research Asia (MSRA) University of Science and Technology of China (USTC). Her research interests lie within responsible AI research problems, especially the societal, safety and security problems related to large language models."
-  website:  
