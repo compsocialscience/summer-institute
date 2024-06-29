@@ -1,6 +1,6 @@
 
 - date: June 30, 2024
-  name: "Day 1: Sunday - Welcome & Ice-breaking"
+  name: "Day 1: Welcome & Ice-breaking"
   events:
     - name: "12:20 - 13:20 Registration"
     - name: "13:20 - 13:30 Welcome note - Fang Luo (Beijing Normal University)"
@@ -9,74 +9,74 @@
     - name: "15:30 - 17:30 Ice-breaking World Café- Kanglei Meng (Beijing Normal University)"
 
 - date: July 1, 2024
-  name: "Day 2: Monday - Large Language Model (LLM)"
+  name: "Day 2: Large Language Model (LLM)"
   events:
     - name: "9:00 - 12:00 Lecture 1 and Lab 1: Large Language Model (LLM) - Yankai Lin (Renmin University of China)"
     - name: "14:00 - 17:00 Lecture 2 and Lab 2: Foundation Model (multi- modal) - Xiting Wang (Renmin University of China)"
 
 - date: July 2, 2024
-  name: "Day 3: Tuesday - Social media and text analysis"
+  name: "Day 3: Social media and text analysis"
   events:
     - name: "9:00 - 12:00 Lecture 3 and Lab 3: web crawler and natural language processing - Lei Cao (Beijing Normal University)"
     - name: "14:00 - 15:20 Group work "
     - name: "15:20 - 17:00 Group presentations (Beijing Normal University & Tsinghua University)"
 
 - date: July 3, 2024
-  name: "Day 4: Wednesday - Network analysis"
+  name: "Day 4: Network analysis"
   events:
     - name: "9:00 - 12:00 Lecture 4 and Lab 4: Network analysis and visualization - An Zeng (Beijing Normal University) "
     - name: "14:00 - 15:20 Group work "
     - name: "15:20 - 17:00 Group presentations (Microsoft & Beijing Normal University)"
 
 - date: July 4, 2024
-  name: "Day 5: Thursday - Psychometrics "
+  name: "Day 5: Psychometrics "
   events:
     - name: "9:00 - 12:00 Lecture 5 and Lab 5: Item Response Theory (IRT) - Kondwani Kajera Mughogho (University of Cambridge) "
     - name: "14:00 - 17:00 Lecture 6 and Lab 6: Factor analysis - Luning Sun (University of Cambridge)"
 
 - date: July 5, 2024
-  name: "Day 6: Friday - Societal AI "
+  name: "Day 6: Societal AI "
   events:
     - name: "9:00 - 12:00 Lecture Series: Societal AI – (Microsoft Research Aisa) "
     - name: "14:00 - 15:30 Guest speaker – Diyi Yang (Stanford University)"
     - name: "15:30 - 17:00 Microsoft Research Aisa Tour"
 
 - date: July 6, 2024
-  name: "Day 7: Saturday"
+  name: "Day 7"
   events:
     - name: "Attend International Conference on Cognitive and Psychological Assessment and Enhancement (ICCPAE)"
 
 - date: July7, 2024
-  name: "Day 8: Sunday"
+  name: "Day 8"
   events:
     - name: "Attend International Conference on Cognitive and Psychological Assessment and Enhancement (ICCPAE)"
 
 - date: July 8, 2024
-  name: "Day 9: Monday - Day off"
+  name: "Day 9: Day off"
   
 - date: July 9,2024
-  name: "Day 10: Tuesday - Talks and Group work "
+  name: "Day 10: Talks and Group work "
   events:
     - name: "9:00 - 10:30 Guest speaker(online) – David Stillwell (University of Cambridge) "
     - name: "10:30 - 12:00 Group work "
     - name: "14:00 - 17:00 Group work "
 
 - date: July 10, 2024
-  name: "Day 11: Wednesday - Talks and Group work"
+  name: "Day 11: Talks and Group work"
   events:
     - name: "9:00 - 10:30 Guest speaker(online) – Jose Hernandez-Orallo  (Universitat Politècnica de València) "
     - name: "10:30 - 12:00 Group work "
     - name: "14:00 - 17:00 Group work "
 
 - date: July 11, 2024
-  name: "Day 12: Thursday - Talks and Group work"
+  name: "Day 12: Talks and Group work"
   events:
     - name: "9:00 - 10:30 Guest speaker – Yong Li (Tsinghua University) "
     - name: "10:30 - 12:00 Group work "
     - name: "14:00 - 17:00 Group work "
 
 - date: July 12, 2024
-  name: "Day 13: Friday - Group presentations and Closing"
+  name: "Day 13: Group presentations and Closing"
   events:
     - name: "9:00 - 12:00 Group presentations "
     - name: "14:00 - 16:00 Group presentations "
