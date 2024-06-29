@@ -14,7 +14,6 @@ All times are in Beijing local.
 * 14:30 - 15:30 Keynote speech - Xing Xie (Microsoft)
 * 15:30 - 17:30 Ice-breaking World Café- Kanglei Meng (Beijing Normal University) 
 
-## First week: July 1 - 7 
 ### Day 2: Monday July 1, 2024 -Large Language Model (LLM)
 * 9:00 - 12:00 Lecture 1 and Lab 1: Large Language Model (LLM) - Yankai Lin (Renmin University of China)
 * 14:00 - 17:00 Lecture 2 and Lab 2: Foundation Model (multi- modal) - Xiting Wang (Renmin University of China)
@@ -44,7 +43,6 @@ All times are in Beijing local.
 ### Day 8: Sunday July 7, 2024
 * Attend International Conference on Cognitive and Psychological Assessment and Enhancement (ICCPAE)
 
-## Second week: July 8 - 12
 ### Day 9: Monday July 8, 2024 - Day off 
 
 ### Day 10: Tuesday July 9, 2024 - Talks and Group work 
