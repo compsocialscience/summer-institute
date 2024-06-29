@@ -1,1 +1,14 @@
-- name:
+- name: Zhang Chen
+  image: /assets/images/zhangchen.jpg
+  bio: "Zhang Chen is pursuing a Ph.D. in Internet Information at the Communication University of China. Zhang's research interests span disaster communication, online communities, social media, and computational social science."
+  website: 
+
+  - name: Mingqiu Zheng
+  image: /assets/images/zhengmingqiu.jpg
+  bio: "Mingqiu Zheng is a doctoral student in political science at School of Government and International Affairs, Durham University. His work lies at the intersection of political geography and online cultural production, including the discursive construction of spatial representation, spatial hierarchies, and group allegiance. His dissertation looks into the regionalised nationalism in digital China that connects the sub-national regionmaking to the political project of national Identity. Methodologically, he employs the large language model to dealt with the data corpus of online political expressions for topic modelling and generating semantic networks."
+  website: 
+
+  - name: Yichen Wang
+  image: /assets/images/zhangchen.jpg
+  bio: "Yichen is a PhD student at Cornell University. She studies in the field of Psychological Sciences & Human Development. Her research interests lie in interpersonal relaitonships, positive experience, stress and resilience, Developmental Psychology, Human Computer Interaction."
+  website: 
