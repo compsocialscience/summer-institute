@@ -1,1 +1,63 @@
-- name: 
+- name: Alcindor Antonio Diniz de Oliveira
+  bio: "Toni Oliveira is a professor of 'Electronics for the Arts' at CECULT, affiliated with UFRB. He is an experienced musician and a research artist focused on new open-source digital technologies and computer programming contextualized in artistic environments. He holds an Interdisciplinary Bachelor's degree in Humanities with a Concentration Area in Art and Contemporary Technologies from IHAC/UFBA. He obtained his Master's degree from the Multidisciplinary Graduate Program in Culture and Society with the thesis: 'The source code in symbolic context in computational art: an overview of the relationship between software and culture.' He is currently a doctoral candidate in the same program, with the research topic: 'Written culture in machine code.'"
+  image: /assets/images/alcindor_oliveira.jpg
+
+- name: Bianca Melo 
+  bio: "Master's student in Information Science and bachelor in Journalism from the Federal University of Alagoas (Ufal). She works as an assistant researcher at the Laboratory of Internet and Social Network Studies (NetLab) at the Federal University of Rio de Janeiro (UFRJ), focusing on studies about socio-environmental disinformation."
+  image: /assets/images/Bianca_Maria_Melo.jpeg
+
+- name: Branco Di Fátima
+  bio: "Branco Di Fátima holds a PhD in Communication Sciences from the University Institute of Lisbon (ISCTE). Currently, he is a contracted junior researcher at LabCom – University of Beira Interior (UBI) in Portugal. He has published more than 90 scientific works and has been part of the teams for 11 research projects funded by national and international organizations."
+  image: /assets/images/branco_di_fatima.jpg
+
+- name: Bruna Távora 
+  bio: "Bruna Távora is a Communication Activist and Social Science Researcher specializing in Political Communication and Environmental Social Movements. Using action research methods, she collaborates with various social movements to drive social change. Her current research project is related to political communication and environmental conflicts involving far-right politicians and disinformation, addressing how social movements and civil society are developing narrative tools to combat it."
+  image: /assets/images/bruna_tavora_fgv.jpg
+
+- name: Claudia Monteiro Fernandes
+  bio: "Economist, licensed in Sociology, with a Master's and a Ph.D. in Social Sciences from the Federal University of Bahia (UFBA). She is a researcher at the Observatory of Metropolises (INCT), the 'The Color of Bahia' Program – a Research and Training Program on Racial Relations, Culture, and Black Identity in Bahia (UFBA), and the Periféricas Group (UFBA). She conducts research in the field of socioeconomic inequalities, focusing primarily on education, work, income, and regional inequalities, with an emphasis on an intersectional approach. Mother of Clarice."
+  image: /assets/images/claudia_fernandes_fgv.png
+
+- name: Daniel Oliveira Zacarias
+  bio: "Ph.D. candidate in Social Psychology at PPG-PSTO (UnB). Member of the National Institute of Science and Technology in Social and Affective Neuroscience (INCT SANI). My main interests include programming and understanding behaviors, beliefs, and social attitudes related to the field of politics (corruption, political behavior, voting intention, prejudices, and discrimination)."
+  image: /assets/images/daniel_oliveira_zacarias.jpg
+
+- name: Felipe Marques Esteves Lamarca
+  bio: "Felipe Lamarca is an undergraduate student in Social Sciences at the Superior School of Social Sciences (FGV CPDOC) and in Data Science and Artificial Intelligence at the School of Applied Mathematics (FGV EMAp). He is interested in Quantitative Methods applied to Social Sciences, especially (Bayesian) Statistical Modeling, Machine Learning, and Deep Learning."
+  image: /assets/images/felipe_lamarca_foto.jpeg
+
+- name: Gabriellen da Silva Xavier do Carmo
+  bio: "PhD student in Political Science at the University of Missouri-Columbia (USA), holds a Master's degree in Law from the University of Lisbon (Portugal), and is a lawyer in Brazil. Her research interests lie at the intersection of technology, law, and politics, focusing on the regulation and social impact of emerging technologies such as artificial intelligence. She also studies the development of virtual social phenomena like fake news, hate speech, and cancel culture, examining their influences on voting behavior and broader political decisions. Her work aims to contribute to a deeper understanding of how these modern developments shape public opinion and policy-making in the contemporary political landscape."
+  image: /assets/images/Gabriellen_da_Silva_Xavier_do_Carmo.jpeg
+
+- name: Glauciene dos Santos Carrijo
+  bio: "Development of research with a theoretical and conceptual basis in understanding the relationship between architecture, design, and environmental perception, and how these relationships connect and influence the well-being of users in residential spaces. My work is situated in the field of applied social sciences, art history, and architectural and design criticism."
+  image: /assets/images/Perfil_Glau_Carrijo.png
+
+- name: Kleyse Costa Vaz Santana Prado
+  bio: "Ph.D. candidate in Communication at the Graduate Program in Communication, Culture, and Amazonia at the Federal University of Pará (PPGCOM/UFPA). Member of the Research Group on Advertising and Publicity (GRUPPU). Currently pursuing a specialization in Data Journalism, Artificial Intelligence, and Netnographic Research, also at UFPA. Her research focuses on the social impacts of using Generative Artificial Intelligence (GAI) in communication mediations. She employs computational methods to map the advancements in the use of GAI in advertising agencies in the State of Pará, Brazil."
+  image: /assets/images/kleyse_prado.jpeg
+
+- name: Larissa Milhorance dos Santos 
+  bio: "Computer Scientist, Director of TechMov, Coordinator of the International Research Center for Youth, and Software Artisan. Striving to think about technology in a human way for and with human beings."
+  image: /assets/images/larissa_milhorance.jpg
+
+- name: Lucas Marques Feitosa
+  bio: "Master's in Political Science and International Relations and Bachelor's in International Relations from UFPB. Ph.D. candidate in Political Science at UFPE. I research Brazilian Foreign Policy and Energy Diplomacy. I am currently completing an MBA in Data Science and Analytics from USP. I have experience in data analysis and data science with software such as R and Python, using supervised and unsupervised machine learning techniques."
+  image: /assets/images/lucas_marques_fgv.jpeg
+
+- name: Martin Egon Maitino
+  bio: "Martin Egon Maitino is a PhD candidate in Political Science at USP, with a bachelor's degree in International Relations (2016) and a master's in Political Science from the same university (2019). He has research experience in foreign policy analysis and decision-making processes, combining qualitative and quantitative methods. Currently, he develops studies on participation in Brazilian environmental foreign policy, using network analysis to map relations between governmental bodies and civil society."
+  image: /assets/images/martin_egon_maitino.jpg
+
+- name: Matheus Vieira de Souza
+  bio: "Matheus Vieira de Souza, Bachelor in Business Administration (Centro Universitário de Bauru), Master in Business Administration (University of São Paulo), and Ph.D. candidate in Production Engineering (São Paulo State University "Júlio de Mesquita Filho"). He is interested in Consumer Behavior, specifically in topics related to Sustainable Consumption and the Behavior of Indebted Consumers."
+  image: /assets/images/mateus_souza_fgv.jpeg
+
+- name: Paula Cristina Santos Menezes
+  bio: "Ph.D. in Sociology (UFRJ) and currently a Post-Doc researcher in Sociology of Education (UNICAMP), she has experience as a teacher and researcher in both Basic and Higher Education. She also holds a postdoctoral degree in mobility, urbanism, and labor (ENTPE, France). She is a specialist in the field of educational technologies and the platformization of work and the city. Member of the Labtec (UFRJ) and Elico (France) laboratories."
+  image: /assets/images/
+
+- name: Ruan Arthur Lima Santos
+  bio: "Undergraduate student in Social Sciences at the Federal University of Bahia (UFBA) with research interests in areas such as Epistemology, Gender and Identity Studies, Sociology of Religion, Sociology of Crime, and Far-right movements. Currently, a research fellow at the Laboratory of Digital Humanities of the Federal University of Bahia (LABHD-UFBA)."
+  image: /assets/images/foto_perfil_ruan_lima.jpg
