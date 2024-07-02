@@ -19,7 +19,7 @@
   name: Collecting Digital Trace Data 
   events:
     - name: "Zoom [link](https://ide-fgv-br.zoom.us/j/92315944196?pwd=D1nvksvlxmp76u7xAbOy0uxlt3JIZA.1)"
-    - name: "10:00 - 10:15 Logistics and introduction to group exercise [link](https://docs.google.com/document/d/1EB39VqUOurqBB_5KJQovwEFgLdQsg9Yq_uChw-TQtD8/edit?usp=sharing)"
+    - name: "10:00 - 10:15 Logistics and introduction to group exercise"
     - name: "10:15 - 11:30 Designing a Research Question (Small Groups)"
     - name: "11:30 - 12:00 Phase 1: Discussing the Research Questions and Data (Everybody)"
     - name: "12:00 - 12:30 Break"
