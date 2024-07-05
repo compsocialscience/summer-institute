@@ -27,3 +27,8 @@
   image: /assets/images/taylor_brown.jpg
   bio: 'Taylor Brown is a research scientist/engineer at Facebook. Brown studies group-level patterns using digital trace data and computational methods.'
   website: http://www.taylorwhittenbrown.com/
+
+- name: Mark Whiting
+  image: /assets/images/mark_whiting.jpg
+  bio: 'Senior Computational Social Scientist at the CSSLab at Penn. He builds systems to study how people behave and coordinate at scale.'
+  website: https://whiting.me/
