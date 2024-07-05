@@ -40,10 +40,11 @@ Interested participants can apply as:
 	
     To be competitive, you must demonstrate in your motivation letter that your team is diverse (includes people of different genders and disciplines) and that every member of your team will make clear contributions to all aspects of the proposed research.  Your proposal should also be clear, supported by evidence and demonstrate readiness for research in computational social science. We don't expect you to be experts in computational social sciences prior to the summer institute. However, you must demonstrate in your concept note that your proposed research is interesting and novel and can be explored during the summer institute and beyond (feasible).
 
-    Applications/expressions of interest will be accepted from April 13, 2024, until **July 8, 2024**. In order to be guaranteed full consideration, all application materials must be submitted online via <a href= "https://forms.gle/XXvyGpfq4oCqU8pJ8" target= "_blank">https://forms.gle/XXvyGpfq4oCqU8pJ8</a>. 
+    Applications/expressions of interest will be accepted from April 13, 2024, until **<s>July 8</s> July 15, 2024**. In order to be guaranteed full consideration, all application materials must be submitted online via <a href= "https://forms.gle/XXvyGpfq4oCqU8pJ8" target= "_blank">https://forms.gle/XXvyGpfq4oCqU8pJ8</a>. 
 
+**PLEASE NOTE THAT THERE ARE DIFFERENT LINKS FOR APPLICATION AS AN INDIVIDUAL AND A GROUP**.
 
-Applications that are not complete by the deadline may not receive full consideration. Conditional offers will be sent by July 17, 2024, while unconditional offers to participate in the program will be sent by **August 12, 2024.**
+Applications that are not complete by the deadline may not receive full consideration. Conditional offers will be sent by **<s>July 17</s> July 24, 2024**, while unconditional offers to participate in the program will be sent by **August 12, 2024.**
 
 Inquiries can be sent to <a href="mailto:sicss@rips-ug.edu.gh" target="_blank">sicss@rips-ug.edu.gh</a>
 
@@ -64,7 +65,7 @@ At the summer institute: We aim to ensure that the summer institute is as access
 - Access to presentations and tutorials
 - Access to internet facilities.
 
-Prizes and awards: Cash prizes will be awarded directly to team members based on the novelity of their research and progress by the end of the summer institute. All  the relevant team members have provided their bank account details. If the bank account is for a bank branch that is located outside of the United Kingdom, then payment of the prize for that team member is subject to Wellcome being able to transfer funds to that location.
+Prizes and awards: Cash prizes will be awarded directly to team members based on the novelty of their research and progress by the end of the summer institute. All  the relevant team members have provided their bank account details.
 
 ***The following cash prizes are available:***
 
