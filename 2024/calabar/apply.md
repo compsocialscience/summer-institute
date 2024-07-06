@@ -12,21 +12,21 @@ partner_site: calabar
 <p align='justify'>The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours during the two months before the Institute.</p>
 
 <p align='justify'>We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions:</p>
-<p>(1) Research and teaching in the area of computational social science </p>
-<p>(2) Contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others</p> 
-<p>(3) Likelihood to benefit from participation</p> 
-<p>(4) Likelihood to contribute to the educational experience of other participants</p> 
-<p>(5) Potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.</p>
+<p align='justify'>(1) Research and teaching in the area of computational social science </p>
+<p align='justify'>(2) Contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others</p> 
+<p align='justify'>(3) Likelihood to benefit from participation</p> 
+<p align='justify'>(4) Likelihood to contribute to the educational experience of other participants</p> 
+<p align='justify'>(5) Potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.</p>
 
 
 ## How To Apply
 
 Applicants must submit the following documents:
 
-<p>(1) A C.V.</p>
-<p>(2) A brief statement about why you wish to attend SICSS-Calabar (Not more than 500 words),</p>
-<p>(3) Share a writing sample (this could be any piece of writing you own. Published or unpublished)</p>
-<p>4) A supporting letter from a supervisor/head of department/line manager/mentor that can attest to applicant's competence/potential and availability.</p>
+<p align='justify'>(1) C.V.</p>
+<p align='justify'>(2) A brief statement about why you wish to attend SICSS-Calabar (Not more than 500 words),</p>
+<p align='justify'>(3) Share a writing sample (this could be any piece of writing you own. Published or unpublished)</p>
+<p align='justify'>(4) A supporting letter from a supervisor/head of department/line manager/mentor that can attest to applicant's competence/potential and availability.</p>
 
 
 **In order to be guaranteed full consideration, all application materials must be submitted on or before July 31st 2024.** All application materials must be submitted through the hyperlinked online Form. Begin your application by clicking<a href='https://www.cognitoforms.com/AcademicHive/sicsscalabarapplicationform'> APPLY</a> . Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail and will ask participants to confirm their participation thereafter.
@@ -41,8 +41,8 @@ Inquiries can be sent to <a href="mailto:sicsscalabar@gmail.com" target="_blank"
 
 #### Can I apply to more than one Summer Institute location?
 
-Yes, but not at the same time. For example, you can apply to SICSS-Calabar, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.
+<p align='justify'>Yes, but not at the same time. For example, you can apply to SICSS-Calabar, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.</p>
 
 #### Can I participate in SICSS-Calabar if I have already participated in SICSS at another location?
 
-No. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
+<p align='justify'>No. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.</p>
