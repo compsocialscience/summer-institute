@@ -28,7 +28,7 @@ Interested participants can apply as:
     To be competitive, you must also demonstrate in your motivation letter that you can work as part of a team and what your likely contributions would be.  Your proposal should also be clear and supported by evidence and demonstrate readiness for research in computational social science. We don't expect you to be an expert in computational social sciences prior to the summer institute. However, you must demonstrate in your concept note that your proposed research is interesting and can be explored during the summer institute and beyond (feasible). 
     
     
-    Applications/expressions of interest will be accepted from April 13, 2024, until **July 8, 2024**. In order to be guaranteed full consideration, all application materials must be submitted online via <a href= "https://forms.gle/NBNyh3edkeyg2arGA" target= "_blank">https://forms.gle/NBNyh3edkeyg2arGA</a>. 
+    Applications/expressions of interest will be accepted from April 13, 2024, until **<s>July 8</s> July 15, 2024**. In order to be guaranteed full consideration, all application materials must be submitted online via <a href= "https://forms.gle/NBNyh3edkeyg2arGA" target= "_blank">https://forms.gle/NBNyh3edkeyg2arGA</a>. 
 
 
 - **A group comprising of 4-5 individuals:**
