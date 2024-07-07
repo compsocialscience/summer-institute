@@ -29,20 +29,20 @@ Applicants must submit the following documents:
 <p align='justify'>(4) A supporting letter from a supervisor/head of department/line manager/mentor that can attest to applicant's competence/potential and availability.</p>
 
 
-<p align='justify'>**In order to be guaranteed full consideration, all application materials must be submitted on or before July 31st 2024.** All application materials must be submitted through the hyperlinked online Form. Begin your application by clicking<a href='https://www.cognitoforms.com/AcademicHive/sicsscalabarapplicationform'> APPLY</a> . Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail and will ask participants to confirm their participation thereafter.
+<p align='justify'>In order to be guaranteed full consideration, all application materials must be submitted on or before July 31st 2024. All application materials must be submitted through the hyperlinked online Form. Begin your application by clicking<a href='https://www.cognitoforms.com/AcademicHive/sicsscalabarapplicationform'> APPLY</a> . Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail and will ask participants to confirm their participation thereafter.
 
 Inquiries can be sent to <a href="mailto:sicsscalabar@gmail.com" target="_blank">sicsscalabar@gmail.com</a>
 
-=======
 
 
 
-## Application Frequently Asked Questions
 
-#### Can I apply to more than one Summer Institute location?
+<p align='left'><b>Application Frequently Asked Questions</b></p>
+
+<p align='left'><b>Can I apply to more than one Summer Institute location?</b></p>
 
 <p align='justify'>Yes, but not at the same time. For example, you can apply to SICSS-Calabar, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.</p>
 
-#### Can I participate in SICSS-Calabar if I have already participated in SICSS at another location?
+<p align='left'><b>Can I participate in SICSS-Calabar if I have already participated in SICSS at another location?</b></p>
 
 <p align='justify'>No. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.</p>
