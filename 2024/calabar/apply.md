@@ -29,7 +29,7 @@ Applicants must submit the following documents:
 <p align='justify'>(4) A supporting letter from a supervisor/head of department/line manager/mentor that can attest to applicant's competence/potential and availability.</p>
 
 
-**In order to be guaranteed full consideration, all application materials must be submitted on or before July 31st 2024.** All application materials must be submitted through the hyperlinked online Form. Begin your application by clicking<a href='https://www.cognitoforms.com/AcademicHive/sicsscalabarapplicationform'> APPLY</a> . Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail and will ask participants to confirm their participation thereafter.
+<p align='justify'>**In order to be guaranteed full consideration, all application materials must be submitted on or before July 31st 2024.** All application materials must be submitted through the hyperlinked online Form. Begin your application by clicking<a href='https://www.cognitoforms.com/AcademicHive/sicsscalabarapplicationform'> APPLY</a> . Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail and will ask participants to confirm their participation thereafter.
 
 Inquiries can be sent to <a href="mailto:sicsscalabar@gmail.com" target="_blank">sicsscalabar@gmail.com</a>
 
