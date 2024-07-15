@@ -1,9 +1,9 @@
 - date: All times are Eastern Standard Time (EST)
 
 - date: 2024-07-22
-  name: Intro, Ethics, Web Scraping
+  name: "Intro, Ethics, Web Scraping"
   events:
-    " - 9:30 - Meet at PAW Office- 2nd Floor Student Center
+    - 9:30 - Meet at PAW Office- 2nd Floor Student Center
     - 10:00 – Continental Breakfast
     - 10:30 - 12:00 Organizers and Participants Introduction, History of SICSS & Computational Ethics (Kat Albrecht)
     - 12:00 - 13:00 Lunch
@@ -12,7 +12,7 @@
     - 14:45 - 16:30 Group Work and Wrap-Up (Kat)" 
 
 - date: 2024-07-23
-  name: Text Analysis Workshop
+  name: "Text Analysis Workshop"
   events: 
   - 10:00 – Continental Breakfast
   - 10:30 - 12:00 Charlotte NLP Tutorial
@@ -22,7 +22,7 @@
   - 14:45 - 16:30 Group Work and Wrap-Up
   
 - date: 2024-07-24
-  name: Machine Learning
+  name: "Machine Learning"
   events:
     - 10:00 – Continental Breakfast
     - 10:30 - 12:00 – Dr. Washington and Team (NSF Grants,etc.)
@@ -32,7 +32,7 @@
     - 14:45 - 16:30 Group Work and Wrap-Up
 
 - date: 2024-07-25
-  name: Digital Surveys & Experiments
+  name: "Digital Surveys & Experiments"
   events: 
       - 10:00 – Continental Breakfast
       - 10:30 - 11:00 - Intro to Surveys (Kat)
@@ -43,7 +43,7 @@
       - 14:30 - 16:30 Group Work and Wrap-Up
 
 - date: 2024-07-26
-  name: Lightning Talks/Idea Pitching
+  name: "Lightning Talks/Idea Pitching"
   events:
     - 10:00 – Continental Breakfast
     - 10:30 - 12:00 – Survey Report-Outs
@@ -63,7 +63,6 @@
 - date: 2024-07-29
   name: Group Project Work
   events: 
-    - name:
   - 10:00 – Continental Breakfast
   - 10:00 - 12:00 – Group Work
   - 12:00 - 13:00 Lunch
@@ -73,9 +72,8 @@
 
 
 - date: 2024-07-30
-  name: Group Project Work
+  name: "Group Project Work"
   events:
-    - name:
       - 10:00 – Continental Breakfast
       - 10:00 - 12:00 – Group Work
       - 12:00 - 13:00 Lunch
@@ -84,8 +82,8 @@
       - 14:45 - 16:30 Group Work and Wrap-Up
 
 - date: 2024-07-31
-  name: Group Project Work
-      - name:
+  name: "Group Project Work"
+      - events:
       - 10:00 – Continental Breakfast
       - 10:00 - 12:00 – Group Work
       - 12:00 - 13:00 Lunch
@@ -95,8 +93,8 @@
 
   
 - date: 2024-08-01
-  name: Group Project Work
-      - name:
+  name: "Group Project Work"
+      - events:
       - 10:00 – Continental Breakfast
       - 10:00 - 12:00 – Group Work
       - 12:00 - 13:00 Lunch
@@ -106,8 +104,8 @@
 
   
 - date: 2024-08-02
-  events: 
-    - name: "Group Pesentations"
+  name: "Group Presentations"
+    - event: "Group Pesentations"
       - 10:00 – Continental Breakfast
       - 10:30 - 10:45 - final announcements
       - 10:45 - 11:00 - quick break/establish presentation order
