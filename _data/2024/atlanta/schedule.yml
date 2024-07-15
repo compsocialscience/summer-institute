@@ -52,8 +52,6 @@
     - "14:30 - 14:45 Break/Snacks"
     - "14:45 - 16:30 Funding Design Sprints (NSF Model)/Idea Pitching-Vote for your favorite 5 topics, then groups form around the topics"
 
-
- 
 - date: "2024-07-27"
   name: "Day Off"
   
@@ -69,7 +67,6 @@
   - "13:30 - 14:30 Group Work"
   - "14:30 - 14:45 Break/Snacks"
   - "14:45 - 16:30 Group Work and Wrap-Up"
-
 
 - date: "2024-07-30"
   name: "Group Project Work"
@@ -90,7 +87,6 @@
       - 13:30 - 14:30 Group Work
       - 14:30 - 14:45 Break/Snacks
       - 14:45 - 16:30 Group Work and Wrap-Up
-
   
 - date: 2024-08-01
   name: "Group Project Work"
@@ -102,15 +98,14 @@
       - "14:30 - 14:45 Break/Snacks"
       - "14:45 - 16:30 Group Work and Wrap-Up"
 
-  
 - date: 2024-08-02
   name: "Group Presentations"
   event: 
       - "10:00 – Continental Breakfast"
-      - "10:30 - 10:45 - final announcements"
-      - "10:45 - 11:00 - quick break/establish presentation order"
-      - "11:00 - begin group presentations"
-      - "12:00 - lunch"
+      - "10:30 - 10:45 - Final announcements"
+      - "10:45 - 11:00 - Quick break/establish presentation order"
+      - "11:00 - Begin group presentations"
+      - "12:00 - Lunch"
       - "1:00 - Resume Presentations"
       - "2:30 Closing Remarks"
       - "3:00 Closeout Event"
