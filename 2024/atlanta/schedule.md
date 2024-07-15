@@ -4,9 +4,9 @@ partner_site: atlanta
 schedule: true
 ---
 
-# Schedule
-## Monday July 22nd 2024 - Day 1 - (Intro, Ethics, Web Scraping)   
-- 9:30 AM- Meet at PAW Office- 2nd Floor Student Center
+## Schedule
+### Monday July 22nd 2024 - Day 1 - (Intro, Ethics, Web Scraping)   
+### - 9:30 AM- Meet at PAW Office- 2nd Floor Student Center
 - 10:00 – Continental Breakfast
 - 10:30-12:00 Organizers and Participants Introduction, History of SICSS & Computational Ethics (Kat Albrecht)
 - 12:00 - 13:00 Lunch
