@@ -1,4 +1,4 @@
-- date: All times are Eastern Standard Time
+- date: All times are Eastern Standard Time (EST)
 
 - date: 2024-07-22
   name: Intro, Ethics, Web Scraping
@@ -13,8 +13,7 @@
 
 - date: 2024-07-23
   name: Text Analysis Workshop
-  events:
-    - name: 
+  events: 
   - 10:00 – Continental Breakfast
   - 10:30 - 12:00 Charlotte NLP Tutorial
   - 12:00 - 13:00 Lunch
@@ -27,7 +26,6 @@
 - date: 2024-07-24
   name: Machine Learning
   events:
-    - name: 
     - 10:00 – Continental Breakfast
     - 10:30 - 12:00 – Dr. Washington and Team (NSF Grants,etc.)
     - 12:00 - 13:00 Lunch
@@ -39,8 +37,7 @@
 
 - date: 2024-07-25
   name: TBD
-  events:
-    - name: 
+  events: 
       - 10:00 – Continental Breakfast
       - 10:30 - 11:00 - Intro to Surveys (Kat)
       - 11:00-12:00 - Heather Kleider Offutt Research talk
@@ -52,7 +49,7 @@
     
 
 - date: 2024-07-26
-  name: Lightning Talks/Idea Pitching
+  - name: Lightning Talks/Idea Pitching
   events:
     - name: 
     - 10:00 – Continental Breakfast
