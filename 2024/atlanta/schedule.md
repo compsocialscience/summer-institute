@@ -5,7 +5,6 @@ schedule: true
 ---
 
 # Schedule
-
 ## Monday July 22nd 2024 - Day 1 - (Intro, Ethics, Web Scraping)   
 - 9:30 AM- Meet at PAW Office- 2nd Floor Student Center
 - 10:00 – Continental Breakfast
@@ -88,8 +87,4 @@ schedule: true
 - 12:00 - Lunch
 - 1:00 - Resume presentations 
 - 2:30  - Closing remarks 
-
-
-
-
 
