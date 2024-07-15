@@ -83,7 +83,7 @@
 
 - date: 2024-07-31
   name: "Group Project Work"
-      - events:
+  events:
       - 10:00 – Continental Breakfast
       - 10:00 - 12:00 – Group Work
       - 12:00 - 13:00 Lunch
@@ -94,7 +94,7 @@
   
 - date: 2024-08-01
   name: "Group Project Work"
-      - events:
+  events:
       - 10:00 – Continental Breakfast
       - 10:00 - 12:00 – Group Work
       - 12:00 - 13:00 Lunch
@@ -105,7 +105,7 @@
   
 - date: 2024-08-02
   name: "Group Presentations"
-    - event: "Group Pesentations"
+  event: "Group Pesentations"
       - 10:00 – Continental Breakfast
       - 10:30 - 10:45 - final announcements
       - 10:45 - 11:00 - quick break/establish presentation order
