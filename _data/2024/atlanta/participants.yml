@@ -1,3 +1,72 @@
+- name: "Edmond Anderson"
+  image: /assets/images/anderson_edmond_atl.jpeg
+  bio: "Edmond Anderson is a soon-to-be graduate of the Masters of Data Science program at Michigan State University where he studies applications of topic modeling and knowledge graphs on very large scale datasets. Specifically, Edmond studies the ways in which Artificial Intelligence can understand and influence human emotions, as well as the ethics behind varying applications of machine learning. His current work also focuses ways in which recommender systems and generative models can alter and affect human behavior and beliefs."
+  
+- name: "Mi	Aniefuna"
+  image: /assets/images/aniefuna_m_atl.jpg
+  bio: "Mi is a public health and education researcher, and doctoral candidate in Health Education & Promotion at Teachers College, Columbia University. His interdisciplinary research focuses on population health and implementation strategies to achieve Black health equity. His topics of interest are child development and adolescent mental health, racism & health, social determinants of health, and equity in education. Mi is the Head of Research at EdSurge, an education nonprofit newsroom and research center where he uses data storytelling via critical qualitative and quantitative methods in his translational and community-based participatory research."
+  
+- name: "Yilin (Alen) Chen"
+  image: /assets/images/chen_yilin_atl.jpg
+  bio: "Yilin “Alen” Chen is a Ph.D. student at Georgia State University’s Communication Department, focusing on strategic communication and political communication on social media platforms. He utilizes Python and Jupyter Notebook for his research. Alen holds a Master of Accounting and a Bachelor of Science in Management from Tulane University, achieving both degrees in three years. His professional roles include Communication Course Instructor and Political Communication Research Assistant at Georgia State University, Integrated Marketing Strategy Consultant for Fonus Inc., and Partner at Paperclip Education Consulting. He has successfully guided over 100 students to top universities like Yale and Stanford. Alen has presented his work at international conferences and published an equity research report on Globalstar, Inc. He is also the founder of several student advocacy and community organizations. His skills include IT, public speaking, and multilingual communication, with interests in poetry, jazz, and roadtrips."
 
+- name: "Rafael	Geurgas"
+  image: /assets/images/geurgas_rafael_atl.jpeg
+  bio: "Rafael Geurgas is a postdoctoral researcher at Purdue University. He has a major in theoretical physics, with a master's in astrophysics. His passion for social science started with his PhD in applied machine learning where he analyzed the impact of COVID-19 fake news on Twitter using machine learning and graph theory. He currently works in the sociology department studying behavioral genetics. His research interest is to develop a statistical tool/machine learning approach to understand how genes influence social behavior, especially educational attainment and depression. Contributing to advance in the Nature x Nurture debate."
 
+- name: "Gayane	Grigoryan"
+  image: /assets/images/grigoryan_g_atl.jpg
+  bio: "Gayane Grigoryan is in the process of completing her Ph.D. in the Engineering Management and Systems Engineering department at Old Dominion University (ODU). She received a Master's degree in Economics from ODU in 2017 as a Fulbright scholarship recipient and a Bachelor's degree in Economics from Armenia State University of Economics. Gayane was a research assistant with the Virginia Modeling, Analysis, and Simulation Center (VMASC), where she studied the association between cyber risk and cyberloafing behavior. Gayane was an instructor with Naval Sea Systems Command (NAVSEA), teaching machine learning and data analytics courses. Her current research focuses on developing explainable artificial intelligence (XAI) methods using cooperative game theory and an evaluation metric to measure the effectiveness of these methods. She has a strong interest in integrating XAI and language models with research in healthcare and education to understand the human decision-making process."
+
+- name: "Hanzi He"
+  image: /assets/images/he_hanzi_atl.jpg
+  bio: "Hanzi He is a first-year PhD student in the College of Journalism and Communications at the University of Florida. Her work sits at health communication, where she uses computational techniques to study health messages on social media. She is particularly interested in how health messages affect people’s viewpoints on health issues and diseases and also thus impact their subsequent behaviors."
+
+- name: "Soobin	Kim"
+  image: /assets/images/kim_soobin_atl.jpeg
+  bio: "Soobin Kim is an incoming Postdoctoral Research Associate at the University of Georgia School of Social Work. Her research interests span economic and social inequality, health disparities, family well-being, and social policy. Her motivation lies in comprehensively understanding the challenges faced by economically and socially marginalized individuals, considering their multifaceted contexts such as family, school, workplace, community, and neighborhood, alongside the influence of social policy and social forces. Ultimately, her aim is to inform policy development that enhances the well-being of marginalized populations."
+
+- name: "Chin-Ling Lee"
+  image: /assets/images/lee_chin-ling_atl.jpg
+  bio: "Chin-Ling Lee is an Assistant Professor in the Department of Agricultural Leadership, Education, and Communication at University of Georgia (UGA). She is also a faculty member of UGA’s Institute for Integrative Precision Agriculture. Her research focuses on innovation adoption in the context of agricultural science and extension, including integrative precision agriculture, climate-smart technologies, and innovative decision-making processes." 
+
+- name: "Fei Li"
+  image: /assets/images/li_fei_atl.jpeg
+  bio: "Fei Li is an Assistant Professor at the Urban Studies Institute of Georgia State University. Her work investigates how cities and urban policy can influence individual behavior and lifestyle choices and promote health, equity, and sustainability. Her latest research focuses on how (im)mobility affects health and wellbeing for low-income individuals, especially during the COVID-19 pandemic, and how cities can enable and promote alternative mobility, including active transportation (such as biking and walking) and micromobility (such as bikes, e-bikes, and e-scooters), to enhance mobility justice, accessibility, and environmental sustainability."
+
+- name: "Amari McGee"
+  image: /assets/images/mcgee_amari_atl.jpg
+  bio: "Amari "Mari" McGee is an LGBTQ+ professional speaker, educator, activist, and research consultant. During his professional career, Mari has been featured in Canva, USA Today, PinkNews, and other media outlets for his work within the Transgender community. He delivers educational and inspirational presentations on allyship, workplace inclusivity, LGBTQ+ psychology, LGBTQ+ history, and community acceptance. As an inspirational speaker, educator, and consultant; Mari also brings over 8 years of experience as an activist for the transgender community to his work."
+
+- name: "Nana Kwame	Osei Fordjour"
+  image: /assets/images/fordjour_nana_atl.jpg
+  bio: "Dr. Nana Kwame Osei Fordjour is an Assistant Professor of Public Relations at the Department of Communication, University of Maryland, College Park. His research revolves around the intersection of public relations, political communication, and media. Specifically, Dr. Osei Fordjour investigates how politicians construct their public image in governance, crises, and elections. He also studies user political discourses online."
+
+- name: "Jiaqin (Ada)	Pan"
+  image: /assets/images/pan_ada_atl.jpg
+  bio: "Jiaqin Pan is a Ph.D. student in Communication at Georgia State University, with a research focus on health communication. Specifically, her work addresses vaccine hesitancy, social media, misinformation, and media framing. She holds a Master of Science in Digital Social Media from the University of Southern California and a Bachelor of Arts in Communication from the University of Connecticut. Jiaqin has experience as a social media manager, instructor, and has worked as a senior media analyst at Meltwater, a media data analytics company."
+
+- name: "Vithika Salomi"
+  image: /assets/images/salomi_v_atl.jpg
+  bio: "Vithika (she/her) is pursuing her Ph.D. in Communication at Georgia State University. Her current research interest includes misinformation on new media platforms and their impact on politics and society. She is also generally interested in social media use and its effects. She is currently a Presidential Fellow in Transcultural Conflict and Violence (TCV) Initiative at GSU and has also served as a Graduate Teaching Assistant in the Department of Communication besides teaching undergrad students."
+
+- name: "Jiajing (Scarlette) Shi"
+  image: /assets/images/shi_scarlette_atl.jpg
+  bio: "Jiajing (Scarlette) Shi is a Ph.D. student in the joint doctoral program in Public Policy at Georgia State University and the Georgia Institute of Technology. She holds a Master's in Public Administration with a specialization in policy analysis and program evaluation, and a Bachelor's in Social Work. These educational experiences have shaped her interest in analyzing systemic issues in healthcare. Scarlett's primary research focuses on health policy and health disparities among vulnerable populations. As a member of the Health Economics &amp; Analytics Lab (HEAL) at the Georgia Institute of Technology, she collaborates with faculty on projects addressing issues related to school-based health centers and domestic violence using causal inference methods. She also leads several research initiatives using quantitative and qualitative methods to study preventative care and opioid prescribing behavior in the sickle cell disease population under the Georgia Sickle Cell Data Collection program, funded by the Centers for Disease Control and Prevention. As she continues her research in healthcare and health policy, Scarlette is particularly interested in integrating computational modeling with health policy and health services research to optimize health outcomes for individuals."
+
+- name: "Chenchen	Shi"
+  image: /assets/images/shi_chenchen_atl.jpg
+  bio: "Chenchen Shi is an Assistant Professor in the Department of Theatre Pedagogy at The Central Academy of Drama (in Beijing). Her research focuses on evidence-based education, program evaluation, and meta-analysis. Currently, she is a collaborator of the Center for Research and Reform in Education at the Johns Hopkins University."
+
+- name: "Carry Smith"
+  image: /assets/images/smith_carry_atl.jpg
+  bio: "Carry (CJ) Smith is a PHD in Political science at Clark Atlanta University. Smith is an accomplished researcher, Policy Analyst, Political Scientist, Scholar, and Voting Rights Advocate in Georgia. Smith has consulted and led many political and issued based campaigns in Georgia. In 2008, Smith was featured in the book, “The Tiger’s Roar,” by Dr. Emmett Brooks for her leadership role in the successful campaign in southeast Georgia to register 120,000 voters in Chatham County; also registering 2,500 of 3,500 SSU students to vote and bussed another 1,500 to the polls. Smith has served on panels presenting at the National Association of Black Political Scientist Annual Meeting, Symposium on Southern Politics at the Citadel, and Southern Political Science Association Annual Meeting. Smith has served as an instructor at Savannah State University, Georgia Southern University and Georgia Highlands College. She is currently the Coastal Georgia Coordinator for the Georgia Coalition of the People’s Agenda. Her areas in public administration, urban politics, comparative politics, campaigning, and American politics. Her dissertation research focuses on  Section 3 of the Voting Rights Act."
+
+- name: "Jessica Udry"
+  image: /assets/images/udry_jessica_atl.jpg
+  bio: "Jessica Udry recently completed her PhD at Georgia State University and will be starting a position as an Assistant Professor at Texas A&M Commerce in Fall 2024. Her research focuses on the relationship between memory and belief. She does this primarily by investigating the cognitive mechanisms of the illusory truth effect, which is the finding that repetition increases belief. She is also interested in interventions used to prevent belief in online misinformation. Her dissertation project focused on investigating how psychological inoculation can be used to prevent belief in online misinformation in younger and older adults."
+
+- name: "Meng	Ye"
+  image: /assets/images/ye_meng_atl.jpg
+  bio: "Meng Ye is a PhD student in public policy majoring in public management and nonprofit studies. Her research interests lie in nonprofit commercialization, cross-sector collaboration, and social enterprises. She has published several journal articles and book chapters on topics including social enterprise policy, commercialism in nonprofit management, charitable fundraising, and charitable financial management.She won the Best Conference Paper Award from the AOM PNP section, the APPAM Equity and Inclusion Fellowship, ARNOVA Graduate Diversity Scholarship, and PMRC and ASPA Conference Scholarships. She also serves as the Editorial Manager at the International Journal of Public Administration and a Development Committee member of ARNOVA. Meng formerly worked as a nonprofit policy researcher at China Philanthropy Research Institute. She consulted the Asian Development Bank, and national and local policymakers in designing policies on nonprofit management."
 
