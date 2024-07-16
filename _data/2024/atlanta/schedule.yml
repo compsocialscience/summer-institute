@@ -87,5 +87,6 @@
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 14:30 Presentations"
    
-
+- name: Clark Atlanta Campus Map
+  image: /assets/images/CAUSICSSMap2024v2.png
  
