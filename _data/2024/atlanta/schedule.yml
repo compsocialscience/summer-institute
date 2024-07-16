@@ -1,7 +1,7 @@
 - date: "All times are Eastern Standard Time (EST)"
 
 - date: "2024-07-22"
-  name: "Intro, Ethics, Web Scraping"
+  name: "Day 1: Intro, Ethics, Web Scraping"
   events:
     - "9:30 - Meet at PAW Office- 2nd Floor Student Center"
     - "10:00 – Continental Breakfast"
@@ -12,7 +12,7 @@
     - "14:45 - 16:30 Group Work and Wrap-Up (Kat)" 
 
 - date: "2024-07-23"
-  name: "Text Analysis Workshop"
+  name: "Day 2: Text Analysis Workshop"
   events: 
   - "10:00 – Continental Breakfast"
   - "10:30 - 12:00 Charlotte NLP Tutorial"
@@ -22,7 +22,7 @@
   - "14:45 - 16:30 Group Work and Wrap-Up"
   
 - date: "2024-07-24"
-  name: "Machine Learning"
+  name: "Day 3: Machine Learning"
   events:
     - "10:00 – Continental Breakfast"
     - "10:30 - 12:00 – Dr. Washington and Team (NSF Grants,etc.)"
@@ -32,7 +32,7 @@
     - "14:45 - 16:30 Group Work and Wrap-Up"
 
 - date: "2024-07-25"
-  name: "Digital Surveys & Experiments"
+  name: "Day 4: Digital Surveys & Experiments"
   events: 
       - "10:00 – Continental Breakfast"
       - "10:30 - 11:00 - Intro to Surveys (Kat)"
@@ -43,7 +43,7 @@
       - "14:30 - 16:30 Group Work and Wrap-Up"
 
 - date: "2024-07-26"
-  name: "Lightning Talks/Idea Pitching"
+  name: "Day 5: Lightning Talks/Idea Pitching"
   events:
     - "10:00 – Continental Breakfast"
     - "10:30 - 12:00 – Survey Report-Outs"
