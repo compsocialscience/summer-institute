@@ -45,3 +45,7 @@ Before participating at SICSS-Atlanta 2024, you should have an account in the SI
 
 Many participants at SICSS use GitHub to collaborate. If you do not yet have one, you should [create a GitHub account](https://github.com/join). If you are a student, we recommend that you apply for a [GitHub Student Developer Pack](https://education.github.com/pack).
 
+events:
+  - name: "Clark Atlanta University Map"
+    location: "Clark Atlanta University Campus (Parking Garage, Student Center, Thomas Cole Building)"
+    image: "assets/images/caumap_SICSS.jpeg"
