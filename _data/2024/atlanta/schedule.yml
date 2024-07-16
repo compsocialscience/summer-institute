@@ -1,8 +1,4 @@
 - date: All times are Eastern Standard Time (EST)
-  events:
-    - name: "Clark Atlanta University Map"
-      location: "Clark Atlanta University Campus (Parking Garage, Student Center, Thomas Cole Building)"
-      image: "/assets/images/CAUSICSSMap2024v2.png"
 
 - date: 2024-07-22
   name: "Intro, Ethics, & Web Scraping"
