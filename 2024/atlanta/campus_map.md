@@ -1,5 +1,5 @@
 ---
-layout: locatio_detail
+layout: location_detail
 title: Clark Atlanta University Map
 name: Clark Atlanta University Map
 location: Clark Atlanta University Campus (Parking Garage, Student Center, Thomas Cole Building)
