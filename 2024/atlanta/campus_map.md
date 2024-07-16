@@ -8,4 +8,4 @@ image: assets/images/CAUSICSSMap2024v2.png
 
 <h1>{{ page.name }}</h1>
 <p>Location: {{ page.location }}</p>
-<img src="{{ page.image | relative_url }}" alt="{{ page.name }}" width="500" height="600">
+<img src="{{ page.image | relative_url }}" alt="{{ page.name }}" width="500" height="800">
