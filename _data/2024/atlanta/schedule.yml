@@ -2,7 +2,7 @@
 
 - event: "Clark Atlanta University Map"
   name: "Clark Atlanta University Map"
-  location: "Clark Atlanta University Campus (Parking Garage, Student Center, Thomas Cole Building)"
+  location: "http://localhost:4000/assets/images/caumap_SICSS.jpeg"
   image: "assets/caumap_SICSS.jpeg"
 
 - date: 2024-07-22
