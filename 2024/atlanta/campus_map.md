@@ -1,9 +1,11 @@
 ---
 layout: default
+title: Clark Atlanta University Map
+name: Clark Atlanta University Map
+location: Clark Atlanta University Campus (Parking Garage, Student Center, Thomas Cole Building)
+image: assets/images/caumap_SICSS.jpeg
 ---
 
-{% for event in site.data.schedule.events %}
-  <h1>{{ event.name }}</h1>
-  <p>Location: {{ event.location }}</p>
-  <img src="{{ event.image | relative_url }}" alt="{{ event.name }}">
-{% endfor %}
+<h1>{{ page.name }}</h1>
+<p>Location: {{ page.location }}</p>
+<img src="{{ page.image | relative_url }}" alt="{{ page.name }}">
