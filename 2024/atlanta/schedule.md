@@ -13,9 +13,6 @@ schedule: true
 title: Schedule
 image: assets/images/caumap_SICSS.jpeg
 ---
-
-# Schedule
-
 Here is the map for Clark Atlanta University:
 
 ![Clark Atlanta University Map]({{ page.image | relative_url }})
