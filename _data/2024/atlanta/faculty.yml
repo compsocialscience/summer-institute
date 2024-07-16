@@ -17,4 +17,8 @@
   image: /assets/images/deshae.jpeg
   bio: "PhD Candidate in the Whitney M. Young Jr. School of Social Work at Clark Atlanta University. Former Research Assistant for In Her Hands Guaranteed Income Project. Federal Grant Evaluator. Entrepreneurship & Economic Development Enthusiast."
   website: https://drdesha.com
-  
+
+  events:
+  - name: "Clark Atlanta University Map"
+    location: "Clark Atlanta University Campus (Parking Garage, Student Center, Thomas Cole Building)"
+    image: "assets/images/caumap_SICSS.jpeg"
