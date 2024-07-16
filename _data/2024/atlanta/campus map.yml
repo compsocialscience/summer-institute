@@ -1,1 +1,5 @@
-"assets/caumap_SICSS.jpeg"
+events:
+  - name: "Clark Atlanta University Map"
+    location: "Clark Atlanta University Campus (Parking Garage, Student Center, Thomas Cole Building)"
+    image: "assets/images/caumap_SICSS.jpeg"
+
