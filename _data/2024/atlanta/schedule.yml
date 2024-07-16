@@ -1,6 +1,6 @@
-- date: "All times are Eastern Standard Time (EST)"
+- date: All times are Eastern Standard Time (EST)
 
-- date: "2024-07-22"
+- date: 2024-07-22
   name: "Day 1: Intro, Ethics, Web Scraping"
   events:
     - "9:30 - Meet at PAW Office- 2nd Floor Student Center"
@@ -11,7 +11,7 @@
     - "14:30 - 14:45 Break/Snacks"
     - "14:45 - 16:30 Group Work and Wrap-Up (Kat)" 
 
-- date: "2024-07-23"
+- date: 2024-07-23
   name: "Day 2: Text Analysis Workshop"
   events: 
   - "10:00 – Continental Breakfast"
@@ -21,7 +21,7 @@
   - "14:30 - 14:45 Break/Snacks"
   - "14:45 - 16:30 Group Work and Wrap-Up"
   
-- date: "2024-07-24"
+- date: 2024-07-24
   name: "Day 3: Machine Learning"
   events:
     - "10:00 – Continental Breakfast"
@@ -31,7 +31,7 @@
     - "14:30 - 14:45 Break/Snacks"
     - "14:45 - 16:30 Group Work and Wrap-Up"
 
-- date: "2024-07-25"
+- date: 2024-07-25
   name: "Day 4: Digital Surveys & Experiments"
   events: 
       - "10:00 – Continental Breakfast"
@@ -42,7 +42,7 @@
       - "14:00- 14:15 Break/Snacks"
       - "14:30 - 16:30 Group Work and Wrap-Up"
 
-- date: "2024-07-26"
+- date: 2024-07-26
   name: "Day 5: Lightning Talks/Idea Pitching"
   events:
     - "10:00 – Continental Breakfast"
@@ -54,13 +54,13 @@
 
 
  
-- date: "2024-07-27"
+- date: 2024-07-27
   name: "Day Off"
   
-- date: "2024-07-28"
+- date: 2024-07-28
   name: "Day Off"
   
-- date: "2024-07-29"
+- date: 2024-07-29
   name: "Group Project Work"
   events: 
   - "10:00 – Continental Breakfast"
@@ -71,7 +71,7 @@
   - "14:45 - 16:30 Group Work and Wrap-Up"
 
 
-- date: "2024-07-30"
+- date: 2024-07-30
   name: "Group Project Work"
   events:
       - "10:00 – Continental Breakfast"
@@ -81,7 +81,7 @@
       - "14:30 - 14:45 Break/Snacks"
       - "14:45 - 16:30 Group Work and Wrap-Up"
 
-- date: "2024-07-31"
+- date: 2024-07-31
   name: "Group Project Work"
   events:
       - 10:00 – Continental Breakfast
