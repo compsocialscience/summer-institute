@@ -1,1 +1,35 @@
-- name:
+- name: "Melissa Panlasigui"
+  image: "./assets/images/1HOaFdL_NGlmgw7xAYq39JhiRE6oWXyNZ.jpeg"
+  bio: "Melissa Panlasigui ist seit Februar 2024 wissenschaftliche Mitarbeiterin der Forschungsprofessur „Arbeit, Familie und soziale Ungleichheit“. Im Rahmen ihrer Promotionsarbeit beschäftigt sie sich mit dem Thema der Gleichstellung von Frauen und Männern in Orchestern. Sie ist auch als Dirigentin tätig und war Bundeskanzlerstipendiatin der Alexander von Humboldt-Stiftung."
+
+ - name: "David Meiering"
+  image: "./assets/images/14T9rozE_a1_aFf5R-1ZAbYmDLqHYvuus.jpeg"
+  bio: "David Meiering is a PhD candidate at the chair for German Politics and the Chair of Integration Research and Social Policy at Humboldt University Berlin. His dissertation project focuses on how political narratives contribute to the construction of anti-pluralist alliances between seemingly disparate groups. He is also interested in understanding radicalization processes, mobilization of groups and movements, and especially the normalization of the far right. Therefore, he combines in-depth qualitative methods with quantitative text analysis."
+
+ - name: "Jing Zhou"
+  image: "./assets/images/1nVt8B_WQOpMg6LXSjc27i_vKUfTMcPfX.bin"
+  bio: "Jing Zhou is a Ph.D. candidate at Wuhan University and is now a visiting student in archival studies at the University of Amsterdam. Her research interests include multimodal archives, digital humanities, natural language processing, etc. She is working on her dissertation on scientists’ archives and digital storytelling."
+
+ - name: "Ilaria  Vitulano"
+  image: "./assets/images/1gI-ZAnLJ6wPtp4tlq8QxJGxHixce5RCo.jpeg"
+  bio: "Ilaria Vitulano is a Doctoral Researcher in the group “Platform Algorithms and Digital Propaganda” at Weizenbaum Institute. Her current research interests include how state-controlled narratives enter the media and reach the public through social media algorithmic curation mechanisms."
+
+ - name: "Jannis Hertel"
+  image: "./assets/images/1Gq0j5ujBG0iuC80f5W6jUphOY0o0XJ7x.jpeg"
+  bio: "Jannis Hertel is a Research Fellow at the Berlin Social Science Center WZB. In the project “Access to Justice in Berlin” he is currently using quantitative data analysis to investigate the influence of social inequality factors on civil court proceedings at Berlin courts."
+
+ - name: "Kaylee Matheny"
+  image: "./assets/images/1kSM8aaHCFFG_GBKBT7iGw1z-UGG_yKLv.jpeg"
+  bio: "Kaylee Matheny is an incoming Assistant Professor at Georgetown University's McCourt School of Public Policy. She uses mixed methods to examine socioeconomic inequality in education through three strands of work: evaluating equitable policies and practices, understanding people’s educational experiences as classed, and analyzing how socioeconomic status intersections with other social identities. She holds a BA from Emory University as well as an MA and a PhD from Stanford University, and she was most recently a Postdoctoral Fellow at Johns Hopkins' Poverty and Inequality Research Lab. She loves all things books, board games, and puzzles."
+
+ - name: "Paula Hoffmeyer-Zlotnik"
+  image: "./assets/images/1rFf2nn9gadDJ0CdoQLxoio65RPWvK2iq.jpeg"
+  bio: "Paula Hoffmeyer-Zlotnik is a postdoctoral researcher at the Universty of Cologne. She obtained her PhD from the University of Geneva in 2023, and has held visiting positions at the European University Institute and the Max Planck Institute for the Study of Societies. Her research interests include migration policies and politics in Europe, the links between trade and migration policy and the politics of the European Union."
+
+ - name: "Boris Nurdinov "
+  bio: "Boris Nurdinov is MA student in the University of Siegen. His research and professional interests are democratisation, digital media, and citizens' attitudes and behaviour. Before starting his MA degree in Siegen, he worked in non-profit and research projects on civic education, foreign media influence and youth engagement."
+
+ - name: "Xiaojuan Grace Yang"
+  image: "./assets/images/1eTvCavW3J_KPivwJnmNhJ9utY_vq7gFJ.jpeg"
+  bio: "PhD candidate in international relations, doing research on global cyber governance."
+
