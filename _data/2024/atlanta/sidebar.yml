@@ -6,3 +6,6 @@
   url: "people"
 - name: Schedule & Materials
   url: "schedule"
+- name: Map
+  url: "campus_map" 
+  

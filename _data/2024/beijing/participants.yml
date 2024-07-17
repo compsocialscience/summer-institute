@@ -154,3 +154,45 @@
   image: /assets/images/Shiyao_Pic.jpg
   bio: "Shiyao Wei is a doctoral student in Instructional Design and Learning Technology at Florida State University. Her research focuses on collaboration in informal learning environments. She's interested in how people engage in informal learning, such as seeking and sharing information online, participating in crowdsourcing competitions, and undergoing peer review processes. She also explores how technology aids or obstructs these processes."
   website:  
+
+
+- name: Junjie Liu
+  image: /assets/images/junjieliu.jpeg
+  bio: "Junjie Liu is currently a PhD student at Trinity College Dublin and investigating conflict forecasting and he holds an MPhil degree in Probability and Mathematical Statistics from Hong Kong Baptist University. His research interests include conflict research, statistical inference, spatio-temporal model, natural language processing, and computer vision."
+  website:  
+
+- name: Yiran Hu
+  image: /assets/images/yiranhu.jpeg
+  bio: "Yiran Hu is a research fellow in the University of Hong Kong. Before joining in HKU, she graduated from Tsinghua University as an outstanding graduate student. Her research interest lies in computational law, particularly in the field of Knowledge-centric NLP and Technology Policy. Her work has won \"CIKM2023 Best Resource Paper Honorable Mention\". She is deeply invested in exploring the policy implications of AI safety, taking into account the potential risks and ethical dilemmas posed by the use of Large Language Models within the realm of social sciences. She aspires to push the boundaries of legal AI and contribute to the creation of safe, reliable AI systems that integrate seamlessly into daily life."
+  website:  
+
+- name: WANG Shuang
+  image: /assets/images/wangshuang.jpg
+  bio: "WANG Shuang is a second-year PhD student at the Education University of Hong Kong. Her research interests include cultural psychology and moral psychology. Her recent research is about how culture affects moral judgment, especially blame judgment."
+  website:  
+
+- name: Dan Gilles
+  image: /assets/images/danielgilles.jpg
+  bio: "Dan Gilles is an MA candidate at the University of Chicago in Computational Sociology. His previous focus was philosophy, with a BA in Philosophy and an MA in Eastern Classics from St. John's College. His research attempts to integrate ancient disciplines with modern computational methods in order to explore sociological topics such as the evolution of happiness in America. He is also interested in international relations, and lived in Beijing for nearly 10 years before Chicago."
+  website:  
+
+- name: Yanyu Chen
+  image: /assets/images/chenyanyu.jpg
+  bio: "Yanyu Chen is a Ph.D. student in the Faculty of Psychology at Beijing Normal University, where she is deeply engaged in the study of social psychology. Her current research interests focus on time poverty, time use strategy, decision making, and adolescent mental health. Additionally, she is also interested in the analysis of longitudinal data."
+  website:  
+
+- name: Yufeng Zheng
+  image: /assets/images/zhengyufeng.jpeg
+  bio: "Yufeng Zheng is a Ph.D. candidate at the University of Toronto, specializing in Operations Management and Statistics. His research focuses on innovative decision-making methods within complex systems, emphasizing operations management, machine learning, and their intersections with computational sociology and deep learning. His work includes projects on adaptive methodologies, online learning, and revenue management."
+  website:  
+
+- name: Yuxin Hou
+  image: /assets/images/yuxinhou.JPG
+  bio: "Yuxin Hou is an incoming PhD student at Peking University. She obtained her bachelor's degree in Mechanical Engineering and her master's degree in Education from Tsinghua University. Her research interests include the application of natural language processing in social science research, including social media analysis, political science, and human behavior."
+  website:  
+
+- name: Sabrina Yue ZHENG
+  image: /assets/images/Sabrina ZHENG.jpeg
+  bio: "Sabrina Yue ZHENG is a research analyst at Beijing Normal University. Her work lies at the intersection of child welfare and machine learning. She is interested in how research can inform frontline social workers' decision with the lens of social justice. Sabrina received her MSW from University of Michigan, Ann Arbor, with the concentration of program evaluation and applied research."
+  website:  
+
