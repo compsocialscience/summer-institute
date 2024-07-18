@@ -1,1 +1,14 @@
+- name: "Charlotte Alexander"
+  image: /assets/images/Charlotte-Alexander.jpg
+  bio: "Charlotte S. Alexander holds the Connie D. and Ken McDaniel WomenLead Chair as an Associate Professor of Law and Analytics at the Robinson College of Business and the College of Law at Georgia State University. She founded and directs the university’s <a href=https://law.gsu.edu/faculty-centers/legal-analytics-innovation/>Legal Analytics Lab</a>, which brings together faculty from law, business, and data science to take on legal problems and questions using computational methods. Professor Alexander’s own scholarship focuses on civil litigation, and particularly employment litigation, using text mining, natural language processing, and machine learning to uncover patterns in case filing, progress, and resolution in both courts and private dispute resolution fora. She received her B.A. from Columbia University and her J.D. from Harvard Law School." 
+  website: https://law.gsu.edu/profile/charlotte-alexander/
 
+- name: "Heather Offutt"
+  image: /assets/images/Heather offutt.jpg
+  bio: "Heather Offutt is an Associate Professor of Psychology at Georgia State University Cognitive Sciences program, and an associate member of the Neuroscience Institute. Her research focus is memory and decision-making in the legal context. She consults with trial attorneys in eyewitness identification cases and serves as an expert witness."  
+  website: https://cas.gsu.edu/profile/heather-kleider-offutt/
+
+- name: "Talitha Washington"
+  image: /assets/images/talitha_washington_photo.jpeg
+  bio: "Dr. Talitha Washington is the inaugural Director of the Atlanta University Center (AUC) Data Science Initiative, a Professor of Mathematics at Clark Atlanta University and an affiliate faculty at Morehouse College, Morehouse School of Medicine, and Spelman College. She is the Director and lead principal investigator of the NSF-funded National Data Science Alliance (NDSA) and the President of the Association for Women in Mathematics. She works across Historically Black Colleges and Universities (HBCUs) to increase the number of Blacks with expertise in data science and expand data science research that advocates for social justice."
+  website: https://aucenter.edu/staff-members/talitha-washington/ 
