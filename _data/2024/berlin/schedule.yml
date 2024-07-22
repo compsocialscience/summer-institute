@@ -1,0 +1,83 @@
+- name: "Timetable and material is available at [GitHub](https://github.com/StefanMunnes/SICSS_2024)."
+
+- date: 2024-07-08
+  name: "On-Bording"
+  events:
+    - name: "09:00 - 10:30 Introduction, Room Tour, and Speeddating"
+    - name: "10:30 - 12:30 Collaborating using Git"
+    - name: "12:30 - 13:30 Lunch"
+    - name: "13:30 - 15:00 Software setup"
+    - name: "15:00 - 16:30 Ethics (with Chaewon Yun"
+    - name: "16:30 - 18:00 Welcome Pizza"
+
+- date: 2024-07-09
+  name: "Collection web data"
+  events:
+    - name: "09:00 - 10:30 Input"
+    - name: "10:30 - 12:30 Exercises I"
+    - name: "12:30 - 13:30 Lunch"
+    - name: "13:30 - 15:00 Exercises II"
+    - name: "15:00 - 16:30 Ethics (with Chaewon Yun)"
+    - name: "15:00 - 16:30 Speaker: Clara Bersch"
+
+- date: 2024-07-10
+  name: "Cleaning textual data"
+  events:
+    - name: "09:00 - 10:30 Input"
+    - name: "10:30 - 12:30 Exercises"
+    - name: "12:30 - 13:30 Lunch"
+    - name: "13:30 - 15:00 Regular Expressions"
+
+- date: 2024-07-11
+  name: "Text Analysis I (count base methods)"
+  events:
+    - name: "09:00 - 10:00 Input I"
+    - name: "10:00 - 11:30 Exercises I"
+    - name: "11:30 - 12:30 Input II"
+    - name: "12:30 - 13:30 Lunch"
+    - name: "13:30 - 15:00 Exercises II"
+    - name: "15:00 - 16:30 Group findings"
+
+- date: 2024-07-12
+  name: "Text analysis II (embeddings and LLMs)"
+  events:
+    - name: "09:00 - 11:00 Input"
+    - name: "11:00 - 12:30 Exercises"
+    - name: "12:30 - 13:30 Lunch"
+    - name: "13:30 - 15:00 Exercises and Solutions"
+
+
+- date: 2024-07-15
+  name: "Group projects I"
+  events:
+    - name: "09:00 - 09:30 Project status update"
+    - name: "09:30 - 12:30 Group Project"
+    - name: "12:30 - 13:30 Lunch"
+    - name: "13:30 - 15:00 Group Project"
+    - name: "15:00 - 16:30 Speaker: Miriam Schirmer"
+
+- date: 2024-07-16
+  name: "Group projects II"
+  events:
+    - name: "09:00 - 09:30 Project status update"
+    - name: "09:30 - 12:30 Group Project"
+    - name: "12:30 - 13:30 Lunch"
+    - name: "13:30 - 15:00 Group Project"
+    - name: "15:00 - 16:30 Speaker: Sophia Hunger"
+
+- date: 2024-07-17
+  name: "Group projects III"
+  events:
+    - name: "09:00 - 09:30 Project status update"
+    - name: "09:30 - 12:30 Group Project"
+    - name: "12:30 - 13:30 Lunch"
+    - name: "13:30 - 16:30 Group Project"
+    - name: "16:30 - 18:30 Farewell Dinner"
+
+- date: 2024-07-18
+  name: "Group projects presentations"
+  events:
+    - name: "09:00 - 09:30 Project status update"
+    - name: "09:30 - 12:30 Presentation preparation"
+    - name: "12:30 - 13:30 Lunch"
+    - name: "13:30 - 16:00 Presentations and discussion"

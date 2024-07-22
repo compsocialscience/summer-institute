@@ -1,3 +1,99 @@
-- date: \_\_\_\_\_
+- date: "Schedule Overview"
   events:
-    - name: "Schedule coming soon..."
+    - name: "ODISSEI-SICSS is split into two phases. During the first week the participants will be introduced to ODISSEI and taught machine learning in python. This will be primarily done through a course run by the eScience center. They will directly apply this knowledge to worked examples using a consolidated version of the LISS Panel data, with the aim of predicting fertility behavior in the LISS Panel. On Thursday, the participants will be given additional training on analytical methods that they could apply within the benchmarking challenge. On Friday, the participants will work in teams to submit their best prediction model to a benchmarking platform, where their model will be evaluated by the ODISSEI benchmarking team." 
+    - name: "At the end of most days of the summer school, there will be a guest speaker who will present their work or a general topic in computational social science to the participants. These talks will last 20-30 mins with 15-20 mins of Q&A."
+    - name: "Slides will be added on the [ODISSEI Zenodo Community](https://zenodo.org/communities/odissei/); other material will be shared via GitHub"
+    - name: "All course sessions will take place in the Mandeville Building on the Erasmus Campus Woudestein, Burgemeester Oudlaan 50, Rotterdam. You can find information [here](https://www.eur.nl/en/campus/locations/campus-woudestein#directions) and download the campus map [here](https://www.eur.nl/en/media/2022-06-2022campus-plattegrond-33707)."
+    - name: "Throughout the summer school, ODISSEI will organize various social events. Read more about those in the timetable below"
+    - name: "Each day will have three breaks. A coffee break in the morning, lunch at 12:00, and another coffee break in the afternoon."
+
+- date: Week 1
+- date: Monday June 17, 2024
+  name: "Introduction to ODISSEI, Open Science and the Theme of the Summer School"
+  events:
+    - name: "Session 1 (10:00-12:00): Introducing ODISSEI and Computational Social Science. Speaker: [Tom Emery](https://www.eur.nl/people/tom-emery)"
+    - name: "Session 2 (13:00-14:00): Guest lecture by [Jessica Nissen](https://www.utu.fi/en/people/jessica-nisen), University of Turku"
+    - name: "Session 3 (14:00-15:00): Introduction to PreFer. Speaker: [Elizaveta Sivak](https://www.rug.nl/staff/e.sivak/cv?lang=en)"
+    - name: "Session 4 (15:00-16:00): Submitting for Benchmarking. Speakers [Elizaveta Sivak](https://www.rug.nl/staff/e.sivak/cv?lang=en) & Adriënne Mendrik"
+    - name: "Session 5 (16:00-17:00): Introduction to LISS panel by [Joris Mulder](https://www.centerdata.nl/team/joris-mulder)"
+    - name: "Programme starts at 10:00, rather than 9:00"
+    - name: "Location: Room: 2-22, [Polak building](https://maps.app.goo.gl/CmTK4gxpfMUqbhAz7)"
+    - name: "Social Event (17:30-20:00): Opening Drinks & Dinner @ Erasmus Paviljoen, Rotterdam"
+
+- date: Tuesday June 18, 2024
+  name: "Two-day Course by the Netherlands eScience Center: Machine Learning in Python with scikit-learn"
+  events:
+    - name: "09:00-10:00: Welcome and Introduction to Machine Learning"
+    - name: "10:10-11:00: Predictive Modeling Pipeline: Data Exploration"
+    - name: "11:10-12:00: Predictive Modeling Pipeline: Fitting a scikit-learn Model on Numerical Data"
+    - name: "12:00-13:00: Lunch Break"
+    - name: "13:00-14:00: Predictive Modeling Pipeline: Fitting a scikit-learn Model on Numerical Data"
+    - name: "14:00-15:30: Predictive Modeling Pipeline: Handling Categorical Data"
+    - name: "15:30-16:00: Introduction to LISS Data"
+    - name: "16:00-17:00: Guest lecture by [Bruno Arpino](https://www.unipd.it/en/contatti/rubrica/?detail=Y&ruolo=1&checkout=cerca&persona=ARPINO&key=A7C469BE4A6EE163893DF376A3DA19D3), University of Padua"
+    - name: "Location: Room: 3-09, [Polak building](https://maps.app.goo.gl/CmTK4gxpfMUqbhAz7)"
+    
+- date: Wednesday June 19, 2024
+  name: "Two-day Course by the Netherlands eScience Center: Machine Learning in Python with scikit-learn"
+  events:
+    - name: "09:00-12:00: Fertility Prediction using LISS Data"
+    - name: "12:00-13:00: Lunch Break"
+    - name: "13:00-14:00: Feature Importance Intermezzo"
+    - name: "14:00-15:30: Fertility Prediction using LISS Data"
+    - name: "15:30-16:00: Submit Results to Benchmark"
+    - name: "16:00-17:00: Guest lecture by [Katya Ivanova](https://www.tilburguniversity.edu/staff/k-o-ivanova), Tilburg University"
+    - name: "Location: Room: 3-09, [Polak building](https://maps.app.goo.gl/CmTK4gxpfMUqbhAz7)"
+
+- date: Thursday June 20, 2024
+  name: "Causal Impact Analysis & Network Analysis"
+  events:
+    - name: "09:00-16:00: Causal Impact Analysis & Network Analysis by [Erik-Jan van Kesteren](https://www.uu.nl/staff/EvanKesteren), [Javier Garcia-Bernardo](https://www.uu.nl/staff/JGarciaBernardo)"
+    - name: "16:00-17:00: Guest lecture by [Eva Beaujoan](https://ufind.univie.ac.at/de/person.html?id=113898), online"
+    - name: "Location: Room: 3-09, [Polak building](https://maps.app.goo.gl/CmTK4gxpfMUqbhAz7)"
+    - name: "Social Event (17:30-20:00): Drinks & Dinner at De Gele Kanarie in Rotterdam"
+    
+- date: Friday June 21, 2024
+  name: "Introduction to the LISS Benchmarking Challenge & Administrative Data"
+  events:
+    - name: "09:00-12:00: Prefer Start"
+    - name: "13:00-15:00: PreFer First Submission"
+    - name: "15:00-16:00: HPC for Social Research"
+    - name: "16:00-17:00: Guest lecture by [Tomáš Sobotka](https://www.oeaw.ac.at/vid/people/staff/tomas-sobotka)" 
+    - name: "Location: Room: 1-12, [Langeveld building](https://g.co/kgs/fZXkxez)"
+     
+- date: Week 2
+  name: "Benchmarking Challenge"
+  events: 
+    - name: "In the second week, the teams will be given access to the CBS remote access environment and will be able to work on the same prediction task but based on the CBS administrative micro-data. They will have one week to work in their teams to develop their prediction models with the winners announced on the final Friday of the summer school. For this final element of the challenge, teams will not only be assessed by how well their model predicts the outcomes for the LISS respondents, but also the degree to which it predicts fertility behavior in the wider population (i.e. its generalizability)."
+    
+- date: Monday June 24, 2024
+  name: "Benchmarking Challenge"
+  events:
+    - name: "10:00 - 16:00 Group Project: Benchmarking Challenge"
+    - name: "Location: Room: 3-09, [Polak building](https://maps.app.goo.gl/CmTK4gxpfMUqbhAz7)"
+ 
+- date: Tuesday June 25, 2024
+  name: "Benchmarking Challenge"
+  events:
+    - name: "09:00 - 17:00 Group Project: Benchmarking Challenge"
+    - name: "Location: Room: 3-09, [Polak building](https://maps.app.goo.gl/CmTK4gxpfMUqbhAz7)"
+  
+- date: Wednesday June 26, 2024
+  name: "Benchmarking Challenge"
+  events:
+    - name: "09:00 - 17:00 Group Project: Benchmarking Challenge"
+    - name: "Location: Room: 3-09, [Polak building](https://maps.app.goo.gl/CmTK4gxpfMUqbhAz7)"
+  
+- date: Thursday June 27, 2024
+  name: "Benchmarking Challenge"
+  events:
+    - name: "09:00 - 17:00 Group Project: Benchmarking Challenge"
+    - name: "Location: Room: 3-09, [Polak building](https://maps.app.goo.gl/CmTK4gxpfMUqbhAz7)"
+    - name: "Closing Dinner. Erasmus Rotterdam"
+  
+- date: Friday June 28, 2024
+  name: "Benchmarking Challenge"
+  events:
+    - name: "09:00 - 12:00 Group Project: Benchmarking Challenge"
+    - name: "12:30 - 17:00 Presentations"
+    - name: "Location: Room: 3-09, [Polak building](https://maps.app.goo.gl/CmTK4gxpfMUqbhAz7)"

@@ -1,37 +1,48 @@
-- date: All times are in Eastern Daylight Time.
-  name: The schedule will run during business hours.
+- date: 2024-07-01
+  name: "DAY1"
   events:
-    - name: Specific schedule details subject to change.
-
-- date: July 1, 2024
-  name: Introduction and Ethics
-
-- date: July 2, 2024
-  name: Digital Trace Data & Social Media Data
-
-- date: July 3, 2024
-  name: Text as Data 
-
-- date: July 4, 2024
-  name: Machine Learning
-
-- date: July 5, 2024
-  name: Network & Communities 
-
-- date: July 8, 2024
-  name: Group formation
-
-- date: July 9, 2024
-  name: Group workday
-
-- date: July 10, 2024
-  name: Group workday
-
-- date: July 11, 2024
-  name: Group workday
-
-- date: July 12, 2024
-  name: Group Presentations 
-
-
-  
+    - name: "9:00 - 10:15 Organizers and Participants Introduction"
+    - name: "10:15 - 10:30 Break"
+    - name: "10:30 - 12:00 History of SICSS (Kat Albrecht)"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 14:15 Digital Trace Data (Jieun Shin)"
+    - name: "14:15 - 14:30 Break"
+    - name: "14:30 - 16:00 Web-scrapping & API (Kat Albrecht)"
+    
+- date: 2024-07-02
+  name: "DAY2"
+  events:
+    - name: "9:00 - 10:15 Collecting Social Media Data (Nathan Carpenter)"
+    - name: "10:15 - 10:30 Break"
+    - name: "10:30 - 12:00 Invited Talk 1 : ICPSR DATA (Marley Kalt)"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 14:15 Dictionary & Keyword Extraction (Jieun Shin)"
+    - name: "14:15 - 14:30 Break"
+    - name: "14:30 - 16:00 Part-of-Speech Tagging (Nathan Carpenter)"
+    
+- date: 2024-07-03
+  name: "DAY3"
+  events:
+    - name: "9:00 - 10:15 Invited Talk 2 : Supervised Machine Learning (Soojong Kim)"
+    - name: "10:15 - 10:30 Break"
+    - name: "10:30 - 12:00 Invited Talk 3 : Word Embedding (Marshall Taylor)"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 14:15 Structural Topic Modeling (AJ Alvero)"
+    - name: "14:15 - 14:30 Break"
+    - name: "14:30 - 16:00 Practice with your data (Soojong, Marshall, AJ)"
+ 
+- date: 2024-07-04
+  name: "DAY4"
+  events: 
+  - name: "INDEPENDENCE DAY"
+    
+- date: 2024-07-05
+  name: "DAY5"
+  events:
+    - name: "9:00 - 10:15 Principles of Network Analysis (Kevin Lanning)"
+    - name: "10:15 - 10:30 Break"
+    - name: "10:30 - 12:00 Invited Talk 4 : Inferential Statistics for Network (Geroge Vega Yon)"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 14:15 Group Idea Discussion"
+    - name: "14:15 - 14:30 Break"
+    - name: "14:30 - 16:00 Group Idea Discussion"

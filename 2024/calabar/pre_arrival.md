@@ -5,7 +5,7 @@ partner_site: calabar
 
 # Pre-arrival
 
-The Summer Institute will bring together people from many fields and backgrounds. In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS-Calabar 2024.
+<p align='justify'>The Summer Institute will bring together people from many fields and backgrounds. In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS-Calabar 2024.</p>
 
 - Complete the pre-institute readings
 - Complete coding bootcamp (if needed)
@@ -15,7 +15,7 @@ TAs will host office hours through Slack to support you as you work through thes
 
 ## Reading
 
-In order to prepare for SICSS-Calabar 2023, we recommend reading Matt Salganik’s book, *[Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com)* ([Read online](https://www.bitbybitbook.com/en/1st-ed/preface/) or purchase from [IndieBound](https://www.indiebound.org/book/9780691158648), [Princeton University Press](https://press.princeton.edu/books/paperback/9780691196107/bit-by-bit)), or [Amazon](https://www.amazon.com/Bit-Social-Research-Digital-Age/dp/0691158649), [Barnes & Noble](https://www.barnesandnoble.com/w/bit-by-bit-matthew-salganik/1125483924). Parts of this book, which is a broad introduction to computational social science, will be review for most of you, but if we all read this book ahead of time, then we can use our time together for more advanced topics.
+In order to prepare for SICSS-Calabar 2023, we recommend reading Matt Salganik’s book, [Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com), [Read online ](https://www.bitbybitbook.com/en/1st-ed/preface/) or purchase from ([IndieBound](https://www.indiebound.org/book/9780691158648)), [Princeton University Press](https://press.princeton.edu/books/paperback/9780691196107/bit-by-bit), or [Amazon](https://www.amazon.com/Bit-Social-Research-Digital-Age/dp/0691158649), [Barnes & Noble](https://www.barnesandnoble.com/w/bit-by-bit-matthew-salganik/1125483924) . Parts of this book, which is a broad introduction to computational social science, will be review for most of you, but if we all read this book ahead of time, then we can use our time together for more advanced topics. 
 
 ## Coding Boot Camp
 
@@ -27,13 +27,14 @@ If you would like more practice after completing the Boot Camp videos, some othe
 - [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/), Taught by Charles Lanfear at University of Washington. This course includes videos of lectures, slides, and assignments.
 - [Learn R](https://www.codecademy.com/learn/learn-r), Code Academy.
 
-Please note that the majority of the coding work presented at SICSS-Calabar will employ R. You are welcome to employ a language of your choice, such as Python, Julia, or other languages that are commonly used by computational social scientists.  However, we cannot support those languages.
+The [SICSS Boot Camp](https://sicss.io/boot_camp) is an online training program created by Chris Bail to provide you with beginner level skills in coding so that you can follow the more advanced curriculum we teach at SICSS. The videos and materials are designed for complete beginners and are best viewed as a sequence since each video builds upon content introduced in previous tutorials. If you are already familiar with the topics in these videos, you do not need to complete them.</p> note that the majority of the coding work presented at SICSS-Calabar will employ R. You are welcome to employ a language of your choice, such as Python, Julia, or other languages that are commonly used by computational social scientists.  However, we cannot support those languages.
 
 
 ## Computing environment
 
 ### R
 
+The [SICSS Boot Camp](https://sicss.io/boot_camp) is an online training program created by Chris Bail to provide you with beginner level skills in coding so that you can follow the more advanced curriculum we teach at SICSS. The videos and materials are designed for complete beginners and are best viewed as a sequence since each video builds upon content introduced in previous tutorials. If you are already familiar with the topics in these videos, you do not need to complete them.</p>
 Some of the activities will require coding, and we will support R. You are welcome to use other languages, but we cannot guarantee that we can support them. Before SICSS you should install a modern, stable-release version of [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/).
 
 

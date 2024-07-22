@@ -1,1 +1,27 @@
-- name:
+- name: Eva	van der Zee
+  image: /assets/images/Eva_Zee.jpg
+  bio: Eva van der Zee is a Junior professor (tenure track) in international law with a focus on behavioural law and economics at the Institute of Law and Economics at Hamburg University. Her research focuses on the role and interrelation of (in)formal regulatory systems in promoting sustainable development.
+
+- name: Bahadir	Kus
+  image: /assets/images/Bahadir_Kus.jpg
+  bio: I am currently a doctoral student at the Social Sciences University of Ankara. I serve as a research assistant at Atatürk University. My academic focus primarily lies within the realm of civil procedure and enforcement law. During my master's studies, I conducted research on access to the assets of debtors within enforcement law. A part of this research delved into accessing electronic data. I have also authored a book section on the subject of electronic data in civil actions.
+
+- name: Albana Hana
+  image: /assets/images/Albana_Hana.jpg
+  bio: Albana Hana is a juris doctor of the University of Hamburg. Her research revolves around the principle of legal certainty and her professional objective is to make law more certain, in view of enhancing protection and enjoyment of Human Rights. She is an expert in Project Cycle Management and EU funds, speaks several languages and is very passionate about cultures, travel and literature.
+
+- name: Karan	Choudhary
+  image: /assets/images/Karan_Choudhary.jpg
+  bio: "Karan Choudhary is presently Postdoctoral researcher. Before this, he was judge in India. He is PhD in Law from National Law University, Delhi and Université Paris Nanterre, France. He specialises in Public Law, Music Law, AI & Law and the interface between Culture, Law and Policy. He has received the prestigious Erasmus Scholarship from the European Union. Qualified 'All India Examination for Assistant Professor in Law' i.e. UGC -NET. E-mail: kch.mac007@gmail.com, Orcid: https://orcid.org/0000-0002-6621-0962, Researchgate: https://www.researchgate.net/profile/Karan-Choudhary-6."
+  
+- name: May	Pascaud
+  image: /assets/images/May_Pascaud.jpg
+  bio: "I am a PhD student at John Jay College of Criminal Justice in New York, researching prison education, reentry, desistance, and the prison nonprofit sector. My interests also include income inequality, mass incarceration, and alternatives to imprisonment. I have worked in the fields of technology, education, edtech and journalism, holding positions in customer success, marketing, producing and project management. I enjoy leveraging my design, communications and technology skills in my research."
+
+- name: Marta Bakun
+  image: /assets/images/Marta_Bakun.jpg
+  bio: Marta Bakun is currently pursuing a PhD in Political Science and Administration at the Doctoral School of the University of Wroclaw, Poland. Her interests include the protection of rights, including those of foreigners (with a special focus on migrants), and comparative studies of Polish and German law. Marta holds MA in law at University of Wrocław. Student Ombudsman of the University of Wrocław. Assistant legal advisor at the Marshal's Office of the Lower Silesian Voivodship.
+
+- name: Mateusz Grabarczyk
+  image: /assets/images/Mateusz_Grabarczyk.jpg
+  bio: Mateusz Grabarczyk is a doctoral student at the Doctoral School of Social Sciences of the Adam Mickiewicz University, Poznań, Poland. He concentrates his research on transitional justice, legal accountability, constitutionalism and legal values. He was a visiting fellow at the University of Amsterdam (2023) and a visiting PhD student at the European University Institute (2024).

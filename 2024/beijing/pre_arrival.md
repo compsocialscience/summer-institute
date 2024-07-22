@@ -30,9 +30,6 @@ If you would like more practice after completing the Boot Camp videos, some othe
 
 Please note that the majority of the coding work presented at SICSS-Beijing 2024 will employ R. You are welcome to employ a language of your choice, such as Python, Julia, or other languages that are commonly used by computational social scientists.  However, we cannot support those languages.
 
-## Lecture videos
-
-SICSS-Beijing 2024 will be using a [flipped classroom model](https://en.wikipedia.org/wiki/Flipped_classroom).  Therefore, you should watch [videos of lectures](https://sicss.io/curriculum) before our meetings, and then we will use our time together for discussion and group activities.
 
 ## Computing environment
 

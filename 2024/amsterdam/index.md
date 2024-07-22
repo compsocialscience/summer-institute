@@ -14,3 +14,9 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 [Application materials](https://compsocialscience.github.io/summer-institute/2024/amsterdam/apply) are due **March 29**. Inquiries may be sent to **sicss.amsterdam.2024@gmail.com**.
 
 
+SICSS Amsterdam is made possible thanks to its sponsors: 
+- [UvA Data Science Centre](https://dsc.uva.nl/)
+- [UvA Social and Behavioural Data Science Centre](https://sobedsc.uva.nl/)
+- [Amsterdam Institute for Social Science Research](https://aissr.uva.nl/)
+- [Challengens to Democratic Representation](https://aissr.uva.nl/content/research-groups/challenges-to-democratic-representation/challenges-to-democratic-representation.html)
+- [Research Priority Area Polarization](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-social-and-behavioural-sciences/research/priority-areas-and-research-centres/polarisation/polarisation.html)

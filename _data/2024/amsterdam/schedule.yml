@@ -3,83 +3,95 @@
 #     - name: "Schedule coming soon..."
 
 - date: 2024-06-10 
-  name: Introduction (A1.04)
   events:
-    - name: "10:00 - 12:00 Introduction and Lightning Talks"
+    - name: "10:00 - 12:00 Introduction and Lightning Talks (A1.04)"
     - name: "12:00 - 13:00 Lunch"
-    - name: "13:00 - 15:00 Keynote Juhi"
-    - name: "15:00 - 17:00 Welcome Drinks with Juhi"
+    - name: "13:00 - 15:00 Juhi Kulshrestha: Keynote: Unraveling our internet-mediated lives (A2.10, [slides](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/slides_keynote_juhi_unraveling.pdf))"
+    - name: "15:00 - 17:00 Welcome Drinks with Juhi Kulshrestha"
     
     
 - date: 2024-06-11 
-  name: A1.04
   events:
-    - name: "10:00 - 12:00 Workshop Github and Collaboration (Marie Labussière)"
+    - name: "10:00 - 12:00 Marie Labussière: Workshop Github and Collaboration (A1.04) [(slides)](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/slides_workshop_marie_labussiere_git.pdf)"
+      sublinks: 
+        - link: "https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/slides_workshop_marie_labussiere_git.pdf"
+          text: "Slides"
     - name: "12:00 - 13:00 Lunch"
-    - name: "13:00 - 15:00 Workshop Text Analysis (Rens Wilderom)"
+    - name: "13:00 - 15:00 Rens Wilderom: Workshop Regular expressions + Topic models (A1.04)
+      ([slides](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/slides_workshop_rens_wilderom_regex_topic_models.pptx),
+      [notebook](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/notebook_workshop_rens_wilderom_regex_topic_models.ipynb),
+      [materials](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/zips/rens_disneyland.zip))"
 
+      
 - date: 2024-06-12
-  name: A1.04
   events:
-    - name: "10:00 - 12:00 Workshop Network Analysis (Rafiazka Hilman)"
+    - name: "10:00 - 12:00 Rafiazka Hilman: Workshop Network Analysis (A1.04) ([notebook](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/notebook_workshop_fika_hilman_networks.ipynb), [materials](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/zips/fika_network.zip))"
     - name: "12:00 - 13:00 Lunch"
-    - name: "13:00 - 15:00 Workshop TBA"  
+    - name: "13:00 - 15:00 Malte Lüken: Workshop Emotion Analysis (A1.04) ([notebook](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/notebook_workshop_malte_lueken_mexca.ipynb), [slides](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/slides_workshop_malte_lueken_mexca.pptx))"
+    - name: "15:30 - 17:00 Gijs Schumacher: Keynote Emotions and Politics: A Computational Social Science Perspective (A2.10) [(slides)](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/slides_keynote_gijs_schumacher_politicsemotion.pptx)"
+    - name: "17:00    Drinks at CREA"
+      
 
       
 - date: 2024-06-13
-  name: A1.04
+  # name: A1.04
   events:
-    - name: "13:00 - 15:00 Workshop Introduction to Machine Learning (Petter Törnberg)"
+    - name: "10:00 - 12:00 Petter Törnberg: Workshop Introduction to Machine Learning (A1.04) ([materials](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/zips/petter_machine_learning.zip))"
     - name: "12:00 - 13:00 Lunch"
-    - name: "13:00 - 17:00 Project Fair + Team Formation"
-    - name: "17:00         Boat Tour"
+    - name: "13:00 - 15:00 Project Fair [(slides)](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/project_fair_final.pdf) + Team Formation (A1.04)"
+    - name: "15:00 - 17:00 more team formation (A2.15)"
+
 
 - date: 2024-06-14
-  name: A1.04
+  # name: A1.04
   events:
-    - name: "10:00 - 12:00 Team Charter & Specify RQ"
+    - name: "10:00 - 12:00 Group work: Team Charter & Specify RQ (A1.04, A1.05, [slides](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/SICSS_groupwork_kickoff.pdf))"
     - name: "12:00 - 13:00 Lunch"
-    - name: "13:00 - 15:00 Group work"
+    - name: "13:00 - 17:00 Group work (A1.04, A1.05)"
 
 - date: 2024-06-17
-  name: A1.04
+  # name: A1.04
   events:
-    - name: "10:00 - 12:00 Workshop: Structured knowledge representations (Reshmi G. Pillai)"
+    - name: "10:00 - 12:00 Reshmi G. Pillai: Workshop: Structured knowledge representations (A1.04,
+      [slides](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/slides_workshop_reshmi_pillai_knowledge_graphs.pptx),
+      [notebook](https://github.com/compsocialscience/summer-institute/blob/master/_data/2024/amsterdam/slides/notebook_workshop_reshmi_pillai_knowledge_graphs.ipynb))"
     - name: "12:00 - 13:00 Lunch"      
-    - name: "13:00 - 15:00 Group work: Literature Review"
-    - name: "15:00 - 17:00 Keynote Elisa Omodei"
+    - name: "13:00 - 15:00 Group work: Literature Review (A1.04, A1.05)"
+    - name: "15:30 - 17:00 Elisa Omodei: Keynote Computational methods for the Sustainable Development Goals: The case of food security (A2.10)"
 
 - date: 2024-06-18
-  name: E0.04
+  # name: E0.04
   events:
-    - name: "10:00 - 12:00 Group work: Data collection & talk with Elisa Omodei"
+    - name: "10:00 - 12:00 Group work: Data collection & talk with Elisa Omodei (E0.04, E0.22)"
     - name: "12:00 - 13:00 Lunch"      
-    - name: "15:00 - 17:00 Group work: Data Analysis"
+    - name: "13:00 - 17:00 Group work: Data Analysis (E0.04, E0.22)"
 
       
 - date: 2024-06-19
-  name: A1.04
+  # name: A1.04
   events:
-    - name: "10:00 - 12:00 Workshop Experiments (Gijs Schumacher)"
+    # - name: "10:00 - 12:00 Workshop Experiments (Gijs Schumacher)"
+    - name: "10:00 - 12:00 Group work (A1.04, A1.05)"
     - name: "12:00 - 13:00 Lunch"
-    - name: "13:00 - 15:00 Group work: Data Analysis and Visualization"
-    - name: "15:00 - 17:00 Surf supercomputer with Odissei"
+    - name: "13:00 - 15:00 Group work: Data Analysis and Visualization (A1.04, A1.05)"
+    - name: "14:30 - 17:00 Boat tour"
+    # - name: "15:00 - 17:00 Surf supercomputer with Odissei"
 
 - date: 2024-06-20
-  name: A1.07
+  # name: A1.07
   events:
-    - name: "10:00 - 12:00 TBD"
+    - name: "10:00 - 12:00 Group work (A1.04, A1.05)"
     - name: "12:00 - 13:00 Lunch"
-    - name: "13:00 - 15:00 Group work: Finalize Project"
-    - name: "15:00 - 17:00 AISSR lecture: Mario L. Small"
+    - name: "13:00 - 15:00 Group work: Finalize Project (A1.04, A1.05)"
+    - name: "15:30 - 17:00 AISSR lecture: Mario L. Small: The Data Revolution and the Study of Social Inequality: Promise and Perils (CREA)"
 
 - date: 2024-06-21
-  name: A2.12
+  # name: A2.12
   events:
-    - name: "10:00 - 12:00 Presentations"
+    - name: "10:00 - 12:00 Presentations (A2.12, A2.13)"
     - name: "12:00 - 13:00 Lunch"
-    - name: "13:00 - 15:00 Plans for future projects/collaboration"
-    - name: "15:00 - 17:00 Closing"
+    - name: "13:00 - 13:30 Closing (A2.12, A2.13)"
+
       
 
         
