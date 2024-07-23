@@ -1,4 +1,6 @@
-- name: "Timetable and material is available at [GitHub](https://github.com/StefanMunnes/SICSS_2024)."
+- date: "Additional material"
+  events:
+    - name: "Timetable and material is available at [GitHub](https://github.com/StefanMunnes/SICSS_2024)."
 
 - date: 2024-07-08
   name: "On-Bording"
