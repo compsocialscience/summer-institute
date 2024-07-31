@@ -46,6 +46,10 @@ speakers:
       image: /assets/images/24-chicago-speaker-srivastava.jpg
       bio: "Sameer B. Srivastava is the Ewald T. Grether Professor of Business Administration and Public Policy at UC Berkeley's Haas School of Business and is also affiliated with UC Berkeley Sociology. His research uses computational methods to: (1) unpack the complex interrelationships between group culture, individual cognition, and interpersonal networks; and (2) examine how they jointly relate to individual attainment and organizational performance. He is Organizations Department Editor at Management Science and was previously a Senior Editor at Organization Science. Sameer co-directs the Berkeley Center for Workplace Culture and Innovation and the Berkeley-Stanford Computational Culture Lab. Sameer was previously a partner at a global management consultancy (Monitor Group; now Monitor Deloitte). He holds AB, AM, MBA, and PhD degrees from Harvard University."
       website: https://faculty.haas.berkeley.edu/srivastava/
+
+    - name: William Thompson
+      image: /assets/images/24-chicago-speaker-thompson.jpg
+      bio: "Will Thompson received a Ph.D. in Linguistics from Northwestern University in 2009, and has worked in both academia and industry as a data scientist specializing in computational linguistics. During 12 years at Motorola Labs, he developed software and algorithms for conversational dialog systems. He subsequently joined the Feinberg School of Medicine as a principle investigator and key contributor on several NIH grants for extracting information from clinical notes contained in large scale electronic medical record systems. He currently serves as Lead Computational Research Consultant for the Kellogg School of Management, guiding a team of computational specialists in support of faculty and graduate student research. Dr. Thompson has followed recent developments in large language models with great interest and has experience using them for multiple research projects at Kellogg."
       
     - name: Brian Uzzi
       image: /assets/images/24-chicago-speaker-uzzi.jpeg
