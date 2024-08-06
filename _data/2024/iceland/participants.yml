@@ -1,1 +1,4 @@
-- name:
+- name: Firstname Lastname
+  image: /assets/images/FirstnameLastname.jpeg
+  bio: "Short description, max 150 words."
+  website: http://www.me.is
