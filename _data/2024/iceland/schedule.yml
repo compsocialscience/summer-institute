@@ -48,19 +48,25 @@
   name: "Project work (Oddi 206)"
   events:
     - name: "9:00 - 10:00 Meeting with each team"
+    - name: "10:00 - 17:00 Group work"
 - date: 2024-08-13
   name: "Project work (Oddi 206)"
   events:
     - name: "9:00 - 10:00 Meeting with each team"
+    - name: "10:00 - 17:00 Group work"
 - date: 2024-08-14
   name: "Project work (Oddi 206)"
   events:
     - name: "9:00 - 10:00 Meeting with each team"
+    - name: "10:00 - 17:00 Group work"
 - date: 2024-08-15
   name: "Project work (Stapi 107)"
   events:
     - name: "9:00 - 10:00 Meeting with each team"
+    - name: "10:00 - 17:00 Group work"
 - date: 2024-08-16
   name: "Presentations and wrap-up (Stapi 107)"
   events:
+    - name: "9:00 - 12:00 Group work"
     - name: "12:00 - 15:00 Presentations and wraup"
+    
