@@ -1,4 +1,8 @@
-- name: Firstname Lastname
-  image: /assets/images/FirstnameLastname.jpeg
-  bio: "Short description, max 150 words."
-  website: http://www.me.is
+- name: Jon Edmund Bollom
+  image: /assets/images/jonedmundbollom.jpg
+  bio: "I am a PhD student in Global Studies. My research foci include higher education and the social determinants of young people's aspirations. I hold a BA in Geography from the University of Exeter (thesis focus upon UK university tuition fee rises and impacts upon prospective students), a Post-Graduate Certificate of Education from the University of Exeter, and an MA in Development Studies from the University of Iceland (thesis focus upon the social determinants of alcohol and other drug use and criminality within school attending adolescents in Guinea-Bissau)."
+  website: https://orcid.org/0000-0003-3640-8705
+
+- name: Helgi Eiríkur Eyjólfsson
+  image: /assets/images/HelgiEyjolfsson.png
+  bio: "Ph.D. student in socioloy in the School of Social Work in University of Iceland. Research project is on intergenerational social mobility and educational inequality in Iceland. I do my Ph.D. research part-time alongside a position as quantitative analyst in the Ministry of Education and Children. My background in in sociology and methodlogy/statistics."
