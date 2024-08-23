@@ -37,10 +37,9 @@
     
     - <a href='https://doi.org/10.1186/1741-7015-11-66' target='_blank'>A bibliometric analysis of childhood immunization research productivity in Africa since the onset of the Expanded Program on Immunization in 1974</a>"
     
-    - name: "**10:30-11:30** An Introduction to Bibliometrics"
-    - name: "**11:30-13:00** Tutorials"
+    - name: "**10:30-13:00** Understanding, measuring and modelling polarization in science."
     - name: "**13:00-14:00** Lunch"
-    - name: "**14:00-16:30** Group Exercises"
+    - name: "**14:00-16:30** Tutorials"
     - name: "**16:30-17:00** Announcements"
     - name: "**17:00-** Dinner"
 
@@ -62,8 +61,11 @@
 
     - <a href='https://doi.org/10.2196/22916' target='_blank'>Systematic delineation of media polarity on COVID-19 vaccines in Africa: Computational linguistic modeling study</a>"
     
-    - name: "**10:30-13:00** Tutorials
-    
+    - name: "**10:30-13:00** Polarized discourses"
+    - name: "**13:00-14:00** Lunch"
+    - name: "**14:00-16:30** Tutorials
+        <br/> 
+        <br/> 
      - An Introduction to Text Analysis <a href='https://www.youtube.com/watch?v=pLsC4UyzX_U' target='_blank'>Watch video on Youtube</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/intro-text-analysis/Rpres/Introduction_to_Text_as%20Data.html' target='_blank'>Slides</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/intro-text-analysis/rmarkdown/Introduction_to_Text_Analysis.html' target='_blank'>Annotated Code</a>    
      
      - Text Analysis Basics <a href='https://www.youtube.com/watch?v=TAlO-5NJB7I' target='_blank'>Watch video on Youtube</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/basic-text-analysis/Rpres/Basic_Text_Analysis.html' target='_blank'>Slides</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/basic-text-analysis/rmarkdown/Basic_Text_Analysis_in_R.html' target='_blank'>Annotated Code</a>    
@@ -71,11 +73,7 @@
      - Dictionary-Based Text Analysis <a href='https://www.youtube.com/watch?v=wSIi2ZRKjaE' target='_blank'>Watch video on Youtube</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/dictionary-methods/Rpres/Dictionary_Based_Analysis.html' target='_blank'>Slides</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/dictionary-methods/rmarkdown/Dictionary-Based_Text_Analysis.html' target='_blank'>Annotated Code</a>    
      
      - Topic Models <a href='https://www.youtube.com/watch?v=IUAHUEy1V0Q' target='_blank'>Watch video on Youtube</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/topic-modeling/Rpres/Topic_Modeling.html' target='_blank'>Slides</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/topic-modeling/rmarkdown/Topic_Modeling.html' target='_blank'>Annotated Code</a>"
-     
-    - name: "**13:00-14:00** *Invited Talk:* Emotional Reactions Towards Vaccination During the Emergence of the Omicron Variant: Insights from Twitter Analysis in South Africa"
-    - name: "**14:00-15:00** Lunch"
-    - name: "**15:00-16:30** Group Exercises"
-    - name: "**16:30-17:00** Announcements "
+    - name: "**16:30-17:00** Announcements"
     - name: "**17:00-** Dinner"
     
     
