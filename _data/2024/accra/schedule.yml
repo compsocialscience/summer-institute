@@ -1,6 +1,6 @@
 - date: 2024-08-26
   events:
-  - name: "**09:00-11:00** Welcome to SICSS-Accra & Computational Social Science
+    - name: "**09:00-11:00** Welcome to SICSS-Accra & Computational Social Science
 	  <br/>
 	  <br/>
     Required Readings:
@@ -64,10 +64,10 @@
 
     - <a href='https://doi.org/10.2196/22916' target='_blank'>Systematic delineation of media polarity on COVID-19 vaccines in Africa: Computational linguistic modeling study</a>"
     
-   - name: "**11:00-11:30** Tea break/Networking"
-   - name: "**11:30-13:00** Social media, news consumption, and polarized opinions in the digital age."
-   - name: "**13:00-14:00** Lunch"
-   - name: "**14:00-16:00** Tutorial: Text analysis with R.
+    - name: "**11:00-11:30** Tea break/Networking"
+    - name: "**11:30-13:00** Social media, news consumption, and polarized opinions in the digital age."
+    - name: "**13:00-14:00** Lunch"
+    - name: "**14:00-16:00** Tutorial: Text analysis with R.
    <br/>
    <br/> 
    - An Introduction to Text Analysis <a href='https://www.youtube.com/watch?v=pLsC4UyzX_U' target='_blank'>Watch video on Youtube</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/intro-text-analysis/Rpres/Introduction_to_Text_as%20Data.html' target='_blank'>Slides</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/intro-text-analysis/rmarkdown/Introduction_to_Text_Analysis.html' target='_blank'>Annotated Code</a>    
