@@ -70,6 +70,7 @@
     - name: "**14:00-16:00** Tutorial: Text analysis with R.
     <br/>
     <br/> 
+    Required Readings:
     
     - An Introduction to Text Analysis <a href='https://www.youtube.com/watch?v=pLsC4UyzX_U' target='_blank'>Watch video on Youtube</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/intro-text-analysis/Rpres/Introduction_to_Text_as%20Data.html' target='_blank'>Slides</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/intro-text-analysis/rmarkdown/Introduction_to_Text_Analysis.html' target='_blank'>Annotated Code</a>    
     
@@ -78,8 +79,6 @@
     - Dictionary-Based Text Analysis <a href='https://www.youtube.com/watch?v=wSIi2ZRKjaE' target='_blank'>Watch video on Youtube</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/dictionary-methods/Rpres/Dictionary_Based_Analysis.html' target='_blank'>Slides</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/dictionary-methods/rmarkdown/Dictionary-Based_Text_Analysis.html' target='_blank'>Annotated Code</a>
     
     - Topic Models <a href='https://www.youtube.com/watch?v=IUAHUEy1V0Q' target='_blank'>Watch video on Youtube</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/topic-modeling/Rpres/Topic_Modeling.html' target='_blank'>Slides</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/topic-modeling/rmarkdown/Topic_Modeling.html' target='_blank'>Annotated Code</a>"
-		 
-
     
 - date: 2024-08-29
   events:
