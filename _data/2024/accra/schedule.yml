@@ -66,19 +66,7 @@
     
     - name: "**11:00-11:30** Tea break/Networking"
     - name: "**11:30-13:00** Social media, news consumption, and polarized opinions in the digital age."
-    - name: "**13:00-14:00** Lunch"
-
-    - name: "**14:00-16:00** Tutorial: Text analysis with R.
-	   <br/>
-	   <br/> 
-	   - An Introduction to Text Analysis <a href='https://www.youtube.com/watch?v=pLsC4UyzX_U' target='_blank'>Watch video on Youtube</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/intro-text-analysis/Rpres/Introduction_to_Text_as%20Data.html' target='_blank'>Slides</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/intro-text-analysis/rmarkdown/Introduction_to_Text_Analysis.html' target='_blank'>Annotated Code</a>    
-	   
-	   - Text Analysis Basics <a href='https://www.youtube.com/watch?v=TAlO-5NJB7I' target='_blank'>Watch video on Youtube</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/basic-text-analysis/Rpres/Basic_Text_Analysis.html' target='_blank'>Slides</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/basic-text-analysis/rmarkdown/Basic_Text_Analysis_in_R.html' target='_blank'>Annotated Code</a>    
-	   
-	   - Dictionary-Based Text Analysis <a href='https://www.youtube.com/watch?v=wSIi2ZRKjaE' target='_blank'>Watch video on Youtube</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/dictionary-methods/Rpres/Dictionary_Based_Analysis.html' target='_blank'>Slides</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/dictionary-methods/rmarkdown/Dictionary-Based_Text_Analysis.html' target='_blank'>Annotated Code</a>    
-	   
-	   - Topic Models <a href='https://www.youtube.com/watch?v=IUAHUEy1V0Q' target='_blank'>Watch video on Youtube</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/topic-modeling/Rpres/Topic_Modeling.html' target='_blank'>Slides</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/topic-modeling/rmarkdown/Topic_Modeling.html' target='_blank'>Annotated Code</a>"
-		     
+    - name: "**13:00-14:00** Lunch"	     
 
     
 - date: 2024-08-29
