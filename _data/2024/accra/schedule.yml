@@ -14,15 +14,17 @@
     - <a href='https://osf.io/preprints/socarxiv/7bvpt/' target='_blank'>Digital and computational demography</a>
     
     - <a href='https://doi.org/10.31235/osf.io/24jp7' target='_blank'>Demography in the digital era: New data sources for population research</a>"
-    - name: "**11:00-13:00** Tutorial: R for CSS"
+    - name: "**11:00-11:30** Tea break/Networking"
+    - name: "**11:30-13:00** Tutorial: R for CSS"
     - name: "**13:00-14:00** Lunch"
-    - name: "**14:00-18:00** Tutorial: R for CSS"
-    - name: "**18:00-** Dinner"
+    - name: "**14:00-16:00** Tutorial: R for CSS"
+    - name: "**16:00-** Tea break/Networking"
+
 
 - date: 2024-08-27
   events:
     - name: "**09:00-09:15** Housekeeping and Announcements."
-    - name: "**09:15-10:30** Research Happy Hour
+    - name: "**09:15-11:00** Research Happy Hour
     <br/> 
     <br/> 
     Required Readings:
@@ -37,16 +39,16 @@
     
     - <a href='https://doi.org/10.1186/1741-7015-11-66' target='_blank'>A bibliometric analysis of childhood immunization research productivity in Africa since the onset of the Expanded Program on Immunization in 1974</a>"
     
-    - name: "**10:30-13:00** Understanding, measuring and modelling polarization in science."
+    - name: "**11:00-11:30** Tea break/Networking"
+    - name: "**11:30-13:00** Understanding, measuring and modelling polarization in science."
     - name: "**13:00-14:00** Lunch"
-    - name: "**14:00-16:30** Tutorials"
-    - name: "**16:30-17:00** Announcements"
-    - name: "**17:00-** Dinner"
+    - name: "**14:00-16:00** Tutorial: Bibliometric analysis with R"
+    - name: "**16:00-** Tea break/Networking"
 
 - date: 2024-08-28
   events:
     - name: "**09:00-09:15** Housekeeping and Announcements."
-    - name: "**09:15-10:30** Research Happy Hour
+    - name: "**09:15-11:00** Research Happy Hour
     <br/> 
     <br/> 
     Required Readings:
@@ -61,9 +63,10 @@
 
     - <a href='https://doi.org/10.2196/22916' target='_blank'>Systematic delineation of media polarity on COVID-19 vaccines in Africa: Computational linguistic modeling study</a>"
     
-    - name: "**10:30-13:00** Polarized discourses"
-    - name: "**13:00-14:00** Lunch"
-    - name: "**14:00-16:30** Tutorials
+   - name: "**11:00-11:30** Tea break/Networking"
+   - name: "**11:30-13:00** Social media, news consumption, and polarized opinions in the digital age."
+   - name: "**13:00-14:00** Lunch"
+   - name: "**14:00-16:00** Tutorial: Text analysis with R.
         <br/> 
         <br/> 
      - An Introduction to Text Analysis <a href='https://www.youtube.com/watch?v=pLsC4UyzX_U' target='_blank'>Watch video on Youtube</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/intro-text-analysis/Rpres/Introduction_to_Text_as%20Data.html' target='_blank'>Slides</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/intro-text-analysis/rmarkdown/Introduction_to_Text_Analysis.html' target='_blank'>Annotated Code</a>    
@@ -73,8 +76,7 @@
      - Dictionary-Based Text Analysis <a href='https://www.youtube.com/watch?v=wSIi2ZRKjaE' target='_blank'>Watch video on Youtube</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/dictionary-methods/Rpres/Dictionary_Based_Analysis.html' target='_blank'>Slides</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/dictionary-methods/rmarkdown/Dictionary-Based_Text_Analysis.html' target='_blank'>Annotated Code</a>    
      
      - Topic Models <a href='https://www.youtube.com/watch?v=IUAHUEy1V0Q' target='_blank'>Watch video on Youtube</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/topic-modeling/Rpres/Topic_Modeling.html' target='_blank'>Slides</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/topic-modeling/rmarkdown/Topic_Modeling.html' target='_blank'>Annotated Code</a>"
-    - name: "**16:30-17:00** Announcements"
-    - name: "**17:00-** Dinner"
+    - name: "**16:00-** Tea break/Networking"
     
     
 - date: 2024-08-29
