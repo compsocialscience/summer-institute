@@ -1,1 +1,191 @@
-TBD
+- date: 2024-08-26
+  events:
+    - name: "**09:00-11:00** Welcome to SICSS-Accra & Computational Social Science"
+	  <br/>
+	  <br/>
+    Required Readings:
+    
+    - <a href='https://www.annualreviews.org/doi/abs/10.1146/annurev-soc-121919-054621' target='_blank'>Computational social science and sociology</a>
+
+    - <a href='https://www.science.org/doi/abs/10.1126/science.aaz8170' target='_blank'>Computational social science: Obstacles and opportunities</a>
+    
+    - <a href='https://library.oapen.org/bitstream/handle/20.500.12657/61285/1/978-3-031-16624-2.pdf#page=338' target='_blank'>Leveraging digital and computational demography for policy insights</a>
+  
+    - <a href='https://osf.io/preprints/socarxiv/7bvpt/' target='_blank'>Digital and computational demography</a>
+    
+    - <a href='https://doi.org/10.31235/osf.io/24jp7' target='_blank'>Demography in the digital era: New data sources for population research</a>"
+    - name: "**11:00-13:00** Tutorial: R for CSS"
+    - name: "**13:00-14:00** Lunch"
+    - name: "**14:00-18:00** Tutorial: R for CSS"
+    - name: "**18:00-** Dinner"
+
+- date: 2024-08-27
+  events:
+    - name: "**09:00-09:15** Housekeeping and Announcements."
+    - name: "**09:15-10:30** Research Happy Hour
+    <br/> 
+    <br/> 
+    Required Readings:
+    
+    - <a href='https://www.pnas.org/doi/abs/10.1073/pnas.2119373119' target='_blank'>North and South: Naming practices and the hidden dimension of global disparities in knowledge production</a>
+    
+    - <a href='https://doi.org/10.48550/arXiv.1907.13414' target='_blank'>The demography of the peripatetic researcher: Evidence on highly mobile scholars from the Web of Science</a>
+	
+    - <a href='https://doi.org/10.1073/pnas.2217937120' target='_blank'>Global patterns of migration of scholars with economic development</a>
+	
+    - <a href='http://dx.doi.org/10.1136/bmjgh-2021-005690' target='_blank'>A bibliometric analysis of COVID-19 research in Africa</a>
+    
+    - <a href='https://doi.org/10.1186/1741-7015-11-66' target='_blank'>A bibliometric analysis of childhood immunization research productivity in Africa since the onset of the Expanded Program on Immunization in 1974</a>"
+    
+    - name: "**10:30-11:30** An Introduction to Bibliometrics"
+    - name: "**11:30-13:00** Tutorials"
+    - name: "**13:00-14:00** Lunch"
+    - name: "**14:00-16:30** Group Exercises"
+    - name: "**16:30-17:00** Announcements"
+    - name: "**17:00-** Dinner"
+
+- date: 2024-08-28
+  events:
+    - name: "**09:00-09:15** Housekeeping and Announcements."
+    - name: "**09:15-10:30** Research Happy Hour
+    <br/> 
+    <br/> 
+    Required Readings:
+    
+    - <a href='https://doi.org/10.1108/MF-12-2021-0598' target='_blank'>Can a 280-character message explain stock returns? Evidence from South Africa</a>
+    
+    - <a href='https://doi.org/10.1007/978-3-030-93409-5_12' target='_blank'>Characterising different communities of Twitter users: Migrants and natives</a>
+    
+    - <a href='https://doi.org/10.1145/2512938.2512951' target='_blank'>Comparing and combining sentiment analysis methods</a>
+    
+    - <a href='https://journals.sagepub.com/doi/full/10.1177/08944393211019571' target='_blank'>Twitter-mediated enterprise–customer communication: Case of electricity distribution services in a developing country</a>
+
+    - <a href='https://doi.org/10.2196/22916' target='_blank'>Systematic delineation of media polarity on COVID-19 vaccines in Africa: Computational linguistic modeling study</a>"
+    
+    - name: "**10:30-13:00** Tutorials
+    
+     - An Introduction to Text Analysis <a href='https://www.youtube.com/watch?v=pLsC4UyzX_U' target='_blank'>Watch video on Youtube</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/intro-text-analysis/Rpres/Introduction_to_Text_as%20Data.html' target='_blank'>Slides</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/intro-text-analysis/rmarkdown/Introduction_to_Text_Analysis.html' target='_blank'>Annotated Code</a>    
+     
+     - Text Analysis Basics <a href='https://www.youtube.com/watch?v=TAlO-5NJB7I' target='_blank'>Watch video on Youtube</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/basic-text-analysis/Rpres/Basic_Text_Analysis.html' target='_blank'>Slides</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/basic-text-analysis/rmarkdown/Basic_Text_Analysis_in_R.html' target='_blank'>Annotated Code</a>    
+     
+     - Dictionary-Based Text Analysis <a href='https://www.youtube.com/watch?v=wSIi2ZRKjaE' target='_blank'>Watch video on Youtube</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/dictionary-methods/Rpres/Dictionary_Based_Analysis.html' target='_blank'>Slides</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/dictionary-methods/rmarkdown/Dictionary-Based_Text_Analysis.html' target='_blank'>Annotated Code</a>    
+     
+     - Topic Models <a href='https://www.youtube.com/watch?v=IUAHUEy1V0Q' target='_blank'>Watch video on Youtube</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/topic-modeling/Rpres/Topic_Modeling.html' target='_blank'>Slides</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/topic-modeling/rmarkdown/Topic_Modeling.html' target='_blank'>Annotated Code</a>"
+     
+    - name: "**13:00-14:00** *Invited Talk:* Emotional Reactions Towards Vaccination During the Emergence of the Omicron Variant: Insights from Twitter Analysis in South Africa"
+    - name: "**14:00-15:00** Lunch"
+    - name: "**15:00-16:30** Group Exercises"
+    - name: "**16:30-17:00** Announcements "
+    - name: "**17:00-** Dinner"
+    
+    
+- date: 2024-08-29
+  events:
+    - name: "**09:00-09:15** Housekeeping and Announcements"    
+    - name: "**09:15-10:30** Research Happy Hour
+    <br/> 
+    <br/> 
+    Required Readings:
+    
+    - <a href='https://www.sciencedirect.com/science/article/pii/S2352827321001117' target='_blank'>A scoping review on the use of machine learning in research on social determinants of health: Trends and research prospects</a>
+    
+    - <a href='https://journals.sagepub.com/doi/abs/10.1177/0886260520960110' target='_blank'>Predicting the vulnerability of women to intimate partner violence in South Africa: Evidence from tree-based machine learning techniques</a>
+    
+    - <a href='https://doi.org/10.1109/ICICS52457.2021.9464590' target='_blank'>Using Machine learning algorithms to predict the state of financial inclusion in Africa</a>
+    
+    - <a href='https://doi.org/10.1186/s12874-021-01346-2' target='_blank'>Use of machine learning techniques to identify HIV predictors for screening in sub-Saharan Africa</a>
+    
+    - <a href='https://doi.org/10.1017/S1368980021004262' target='_blank'>Machine learning algorithms for predicting undernutrition among under-five children in Ethiopia</a>"
+    
+    - name: "**10:30-11:00** GeNorms: ML"
+    - name: "**10:30-11:00** Flash Talk: <a href='https://www.youtube.com/watch?v=dhpeqVroZYg' target='_blank'>Can we Predict Artistic Success?</a>"
+    - name: "**11:30-13:00** Tutorial: Machine Learning for Beginners"
+    - name: "**13:00-14:00** Lunch"
+    - name: "**14:00-16:30** Group Exercises"
+    - name: "**16:30-17:00** Announcements "
+    - name: "**17:00-** Dinner"
+
+- date: 2024-08-30
+  events:
+    - name: "**09:00-09:15** Housekeeping and Announcements."
+    - name: "**09:15-10:15** Research Happy Hour
+    <br/> 
+    <br/> 
+    Required Readings:
+        
+    - <a href='https://ojs.aaai.org/index.php/ICWSM/article/view/3360' target='_blank'>Using search queries to understand health information needs in Africa</a>
+
+    - <a href='https://doi.org/10.3389/frma.2022.1003972' target='_blank'>Modeling COVID-19 incidence with Google Trends</a>
+	
+     - <a href='https://doi.org/10.1080/03736245.2021.1901239' target='_blank'>Google trends and water conservation awareness: the internet’s contribution in South Africa</a>"  
+    
+    - name: "**10:15-11:15** <a href='https://www.youtube.com/watch?v=R7tTCkZ7hU4&t=1494s' target='_blank'>Predicting the Present with Google Trends</a>"
+    - name: "**11:15-13:00** Tutorial"
+    - name: "**13:00-14:00** Lunch"
+    - name: "**14:00-15:30** Research Happy Hour
+    <br/> 
+    <br/> 
+    Required Readings:
+	       
+    - <a href='https://doi.org/10.1371/journal.pone.0250303' target='_blank'>Characterizing low effort responding among young African adults recruited via Facebook advertising</a>
+    
+    - <a href='https://www.sciencedirect.com/science/article/abs/pii/S0378873316300454' target='_blank'>Evaluating sampling biases from third-party reporting as a method for improving survey measures of sensitive behaviors</a>    
+
+    - <a href='https://doi.org/10.1007/s13524-019-00840-z' target='_blank'>Using an online sample to estimate the size of an offline population</a>
+    
+    - <a href='https://www.medrxiv.org/content/10.1101/2020.06.01.20118810v1' target='_blank'>Collecting data on HIV-related mortality during household surveys: a randomized validation study in Malawi</a>
+    
+    - *YouTube videos:* <a href='https://www.youtube.com/watch?v=j8fJGV17Hcg' target='_blank'>Survey Research in the Digital Age</a>, <a href='https://www.youtube.com/watch?v=SLAi9v5CCnM' target='_blank'>Probability and Non-Probability Sampling</a>, <a href='https://www.youtube.com/watch?v=_vecQs7aB6o' target='_blank'>Combining Surveys and Big Data</a>, <a href='https://www.youtube.com/watch?v=cYyu5Ex0twE' target='_blank'>Moving Beyond Simple Experiments</a>"
+    - name: "**15:30-17:00** Group Exercises/Announcements "
+    - name: "**17:00-** Dinner"
+
+- date: 2024-09-02
+  events:
+    - name: "**09:00-09:15** Housekeeping and Announcements."
+    - name: "**09:15-10:00** An introduction to SICSS-Accra group projects."
+    - name: "**10:00-13:00** Group Exercises"
+    - name: "**13:00-14:00** Lunch"
+    - name: "**14:00-15:30** Tutorial: Introduction to Spatial Data and Leaflet Mapping in R  [<a href='https://github.com/LaurieLBaker/DSCA_leaflet_mapping_in_r' target='_blank'>Slides & Annotated Code</a>]
+    <br/> 
+    <br/> 
+    This workshop introduces the `sf` package and creating interactive maps using the javascript library leaflet in R. At the end of the course, participants will become familiar with the basic types of spatial data and how to check the coordinate reference system using the sf package in R. Participants will also learn how to:
+	
+    - Build a static map using `sf` and `ggplot2` using `geom_sf`. 
+    
+    - Build a chloropleth map and map with points in R using the javascript library leaflet.
+    
+    - Customise a plot by changing the background tile, polygon colours and fill and adding pop up labels."
+    - name: "**15:30-17:00** Group Exercises"
+    - name: "**17:00-** Dinner"
+
+- date: 2024-09-03
+  events:
+    - name: "**09:00-09:15** Housekeeping and Announcements."
+    - name: "**09:15-13:00** Group Exercises"
+    - name: "**13:00-14:00** Lunch"
+    - name: "**14:00-15:00** Flash talk: Health-information seeking behaviour during COVID-19."  
+    - name: "**15:00-17:00** Group Exercises"
+    - name: "**17:00-** Dinner"
+
+- date: 2024-09-04
+  events:
+    - name: "**09:15-13:00** Group Exercises"
+    - name: "**13:00-14:00** Lunch"
+    - name: "**14:00-15:00** Flash talk:"
+    - name: "**15:00-17:00** Group Exercises"
+    - name: "**17:00-** Dinner"
+
+- date: 2024-09-05
+  events:
+    - name: "**09:15-13:00** Group Exercises"
+    - name: "**13:00-14:00** Lunch"
+    - name: "**14:00-15:00** Flash talk:"
+    - name: "**15:00-17:00** Group Exercises"
+    - name: "**17:00-** Dinner"
+
+- date: 2024-09-06
+  events:
+    - name: "**09:15-13:00** Open and reproducible computational social science research."
+    - name: "**13:00-14:00** Lunch"
+    - name: "**14:00-17:00** Flash talks: SICSS-Accra group projects."
+    - name: "**17:00-** Dinner and goodbye"
