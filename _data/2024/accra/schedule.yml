@@ -49,8 +49,8 @@
   events:
     - name: "**09:00-09:15** Housekeeping and Announcements."
     - name: "**09:15-11:00** Research Happy Hour
-    <br/> 
-    <br/> 
+    <br/>
+    <br/>
     Required Readings:
     
     - <a href='https://doi.org/10.1108/MF-12-2021-0598' target='_blank'>Can a 280-character message explain stock returns? Evidence from South Africa</a>
@@ -76,6 +76,7 @@
      - Dictionary-Based Text Analysis <a href='https://www.youtube.com/watch?v=wSIi2ZRKjaE' target='_blank'>Watch video on Youtube</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/dictionary-methods/Rpres/Dictionary_Based_Analysis.html' target='_blank'>Slides</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/dictionary-methods/rmarkdown/Dictionary-Based_Text_Analysis.html' target='_blank'>Annotated Code</a>    
      
      - Topic Models <a href='https://www.youtube.com/watch?v=IUAHUEy1V0Q' target='_blank'>Watch video on Youtube</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/topic-modeling/Rpres/Topic_Modeling.html' target='_blank'>Slides</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/topic-modeling/rmarkdown/Topic_Modeling.html' target='_blank'>Annotated Code</a>"
+     
     - name: "**16:00-** Tea break/Networking"
     
     
