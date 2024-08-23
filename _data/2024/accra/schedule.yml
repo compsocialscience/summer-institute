@@ -46,7 +46,23 @@
     - name: "**14:00-16:00** Tutorial: Bibliometric analysis with R"
     - name: "**16:00-** Tea break/Networking"
     
+- date: 2024-08-28
+  events:
+    - name: "**09:00-09:15** Housekeeping and Announcements."
+    - name: "**09:15-11:00** Research Happy Hour
+    <br/>
+    <br/>
+    Required Readings:
+    
+    - <a href='https://doi.org/10.1108/MF-12-2021-0598' target='_blank'>Can a 280-character message explain stock returns? Evidence from South Africa</a>
+    
+    - <a href='https://doi.org/10.1007/978-3-030-93409-5_12' target='_blank'>Characterising different communities of Twitter users: Migrants and natives</a>
+    
+    - <a href='https://doi.org/10.1145/2512938.2512951' target='_blank'>Comparing and combining sentiment analysis methods</a>
+    
+    - <a href='https://journals.sagepub.com/doi/full/10.1177/08944393211019571' target='_blank'>Twitter-mediated enterprise–customer communication: Case of electricity distribution services in a developing country</a>
 
+    - <a href='https://doi.org/10.2196/22916' target='_blank'>Systematic delineation of media polarity on COVID-19 vaccines in Africa: Computational linguistic modeling study</a>"
     
 - date: 2024-08-29
   events:
