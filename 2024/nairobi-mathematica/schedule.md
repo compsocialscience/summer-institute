@@ -1,6 +1,6 @@
 ---
 layout: location_detail
-partner_site: kenya
+partner_site: nairobi-mathematica
 schedule: true
 ---
 

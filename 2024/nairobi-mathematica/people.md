@@ -1,5 +1,5 @@
 ---
 layout: location_detail
-partner_site: kenya
+partner_site: nairobi-mathematica
 people: true
 ---
