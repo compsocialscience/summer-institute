@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: nairobi-mathematica
 main: true
-image: /assets/images/tbd.jpg
+image: /assets/images/uon_image.jpg
 ---
 
 From 21st, October to 1st, November, the University of Nairobi and Mathematica will sponsor the Summer Institute in Computational Social Science, to be held physically at the University of Nairobi, Kenya. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
