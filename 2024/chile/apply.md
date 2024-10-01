@@ -17,7 +17,7 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 Applicants must (i) submit their curriculum vitae and (ii) fill out a form describing their research topics and interest in computational social science. In addition, we encourage participants to share an optional writing sample. 
 
-**In order to be guaranteed full consideration, all application materials must be submitted by Monday, May 22, 2023 at 11:59 CLT**.  All application materials must be submitted through [this form](https://docs.google.com/forms)
+**In order to be guaranteed full consideration, all application materials must be submitted by Monday, May 22, 2023 at 11:59 CLT**.  All application materials must be submitted through [this form](https://forms.gle/iPTtE328ygonsGUk9)
 . Applications that are not complete by the deadline may not receive full consideration. We will notify applicants by e-mail in June and will ask participants to confirm their participation very soon after that.
 
 
