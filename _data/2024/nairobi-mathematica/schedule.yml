@@ -1,70 +1,22 @@
-schedule:
-  - date: "Monday, Nov 18, 2024"
-    day: "Day 1: Introduction to SICSS and CSS"
-    activities:
-      - time: "10:30 - 12:00"
-        activity: "Housekeeping & Logistics"
-      - time: "12:00 - 13:30"
-        activity: "Lunch Break"
-      - time: "13:30 - 15:30"
-        activity: "Introduction: About SICSS & CSS"
-      - time: "15:30 - 16:00"
-        activity: "Tea Break"
-      - time: "16:00 - 17:00"
-        activity: "Research Speed Dating I: Getting to know you and your research"
+date: 2024-11-18
+  events:
+    - name: "**09:00-11:00** Introduction to SICSS and CSS
+	  <br/>
+	  <br/>
+    Required Readings:
+    
+    - <a href='https://www.annualreviews.org/doi/abs/10.1146/annurev-soc-121919-054621' target='_blank'>Computational social science and sociology</a>
 
-  - date: "Tuesday, Nov 19, 2024"
-    day: "Day 2: Understanding Computations with R/Python"
-    activities:
-      - time: "10:00 - 12:00"
-        activity: "R for Social Sciences and Humanities"
-      - time: "12:00 - 13:30"
-        activity: "Lunch Break"
-      - time: "13:30 - 15:30"
-        activity: "Data Sources and Types"
-      - time: "15:30 - 16:00"
-        activity: "Tea Break"
-      - time: "16:00 - 17:00"
-        activity: "Dashboarding with R/Python"
-
-  - date: "Wednesday, Nov 20, 2024"
-    day: "Day 3: Exploratory Data Analysis with R"
-    activities:
-      - time: "10:00 - 12:00"
-        activity: "Exploring Data Characteristics"
-      - time: "12:00 - 13:30"
-        activity: "Lunch Break"
-      - time: "13:30 - 15:30"
-        activity: "Exploring Data through Visualization"
-      - time: "15:30 - 16:00"
-        activity: "Treating Data Anomalies"
-      - time: "16:00 - 17:00"
-        activity: "Research Speed Dating II: Research Insight Sharing"
-
-  - date: "Thursday, Nov 21, 2024"
-    day: "Day 4: Social Science Data Modelling and Collaboration"
-    activities:
-      - time: "10:00 - 12:00"
-        activity: "Version Control/Collaboration in Computational Social Science"
-      - time: "12:00 - 13:30"
-        activity: "Lunch Break"
-      - time: "13:30 - 15:30"
-        activity: "Social Science Data Modelling with R"
-      - time: "15:30 - 16:00"
-        activity: "Tea Break"
-      - time: "16:00 - 17:00"
-        activity: "Foundations of Inferential Statistics"
-
-  - date: "Friday, Nov 22, 2024"
-    day: "Day 5: Machine Learning for Social Science with R"
-    activities:
-      - time: "10:00 - 12:00"
-        activity: "Introduction to Machine Learning"
-      - time: "12:00 - 13:30"
-        activity: "Lunch Break"
-      - time: "13:30 - 15:30"
-        activity: "Supervised Learning"
-      - time: "15:30 - 16:00"
-        activity: "Tea Break"
-      - time: "16:00 - 17:00"
-        activity: "Take-Away Project"
+    - <a href='https://www.science.org/doi/abs/10.1126/science.aaz8170' target='_blank'>Computational social science: Obstacles and opportunities</a>
+    
+    - <a href='https://library.oapen.org/bitstream/handle/20.500.12657/61285/1/978-3-031-16624-2.pdf#page=338' target='_blank'>Leveraging digital and computational demography for policy insights</a>
+  
+    - <a href='https://osf.io/preprints/socarxiv/7bvpt/' target='_blank'>Digital and computational demography</a>
+    
+    - <a href='https://doi.org/10.31235/osf.io/24jp7' target='_blank'>Demography in the digital era: New data sources for population research</a>"
+    
+    - name: "**10:30-12:00** Housekeeping & Logistics"
+    - name: "**12:00-13:30** Lunch Break"
+    - name: "**13:30-15:30** Introduction: About SICSS & CSS"
+    - name: "**15:30-16:00** Tea Break"
+    - name: "**16:00-17:00** Research Speed Dating I: Getting to know you and your research"
