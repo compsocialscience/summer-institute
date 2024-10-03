@@ -1,22 +1,8 @@
-date: **2024-11-18**
-events:
-  - name: "**09:00-11:00** Introduction to SICSS and CSS"
-    description: |
-      <br/>
-      <br/>
-      Required Readings:
-
-      - <a href='https://www.annualreviews.org/doi/abs/10.1146/annurev-soc-121919-054621' target='_blank'>Computational social science and sociology</a>
-
-      - <a href='https://www.science.org/doi/abs/10.1126/science.aaz8170' target='_blank'>Computational social science: Obstacles and opportunities</a>
-
-      - <a href='https://library.oapen.org/bitstream/handle/20.500.12657/61285/1/978-3-031-16624-2.pdf#page=338' target='_blank'>Leveraging digital and computational demography for policy insights</a>
-
-      - <a href='https://osf.io/preprints/socarxiv/7bvpt/' target='_blank'>Digital and computational demography</a>
-
-      - <a href='https://doi.org/10.31235/osf.io/24jp7' target='_blank'>Demography in the digital era: New data sources for population research</a>
-  - name: "**10:30-12:00** Housekeeping & Logistics"
-  - name: "**12:00-13:30** Lunch Break"
-  - name: "**13:30-15:30** Introduction: About SICSS & CSS"
-  - name: "**15:30-16:00** Tea Break"
-  - name: "**16:00-17:00** Research Speed Dating I: Getting to know you and your research"
+- date: 2024-11-18
+  name: Day 1
+  Events:
+    - name: "**10:30-12:00** Housekeeping & Logistics"
+    - name: "**12:00-13:30** Lunch Break"
+    - name: "**13:30-15:30** Introduction: About SICSS & CSS"
+    - name: "**15:30-16:00** Tea Break"
+    - name: "**16:00-17:00** Research Speed Dating I: Getting to know you and your research"
