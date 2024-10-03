@@ -1,5 +1,5 @@
 - date: 2024-11-18
-  name: Day 1: Introduction to SICSS and CSS
+  name: Day 1 Introduction to SICSS and CSS
   events:
     - name: "**10:30-12:00** Housekeeping & Logistics"
     - name: "**12:00-13:30** Lunch Break"
@@ -8,7 +8,7 @@
     - name: "**16:00-17:00** Research Speed Dating I: Getting to know you and your research"
 
 - date: 2024-11-19
-  name: Day 2: Understanding Computations with R/Python
+  name: Day 2 Understanding Computations with R/Python
   events:
     - name: "**10:30-12:00** R for Social Sciences and Humanities"
     - name: "**12:00-13:30** Lunch Break"
@@ -17,7 +17,7 @@
     - name: "**16:00-17:00** Dashboarding with R/Python"
 
 - date: 2024-11-20
-  name: Day 3: Exploratory Data Analysis with R
+  name: Day 3 Exploratory Data Analysis with R
   events:
     - name: "**10:30-12:00** Exploring Data Characteristics"
     - name: "**12:00-13:30** Lunch Break"
@@ -26,7 +26,7 @@
     - name: "**16:00-17:00** Research Speed Dating II: Research Insight Sharing"
 
 - date: 2024-11-21
-  name: Day 4: Social Science Data Modelling and Collaboration
+  name: Day 4 Social Science Data Modelling and Collaboration
   events:
     - name: "**10:30-12:00** Version Control/Collaboration in Computational Social Science"
     - name: "**12:00-13:30** Lunch Break"
@@ -35,7 +35,7 @@
     - name: "**16:00-17:00** Foundations of Inferential Statistics"
 
 - date: 2024-11-22
-  name: Day 5: Machine Learning for Social Science with R
+  name: Day 5 Machine Learning for Social Science with R
   events:
     - name: "**10:30-12:00** Introduction to Machine Learning"
     - name: "**12:00-13:30** Lunch Break"
