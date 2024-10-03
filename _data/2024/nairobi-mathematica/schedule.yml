@@ -6,6 +6,7 @@
     - name: "**13:30-15:30** Introduction: About SICSS & CSS"
     - name: "**15:30-16:00** Tea Break"
     - name: "**16:00-17:00** Research Speed Dating I: Getting to know you and your research"
+
 - date: 2024-11-19
   name: Day 2: Understanding Computations with R/Python
   events:
@@ -14,6 +15,7 @@
    - name: "**13:30-15:30** Data Sources and Types"
    - name: "**15:30-16:00** Tea Break"
    - name: "**16:00-17:00** Dashboarding with R/Python"
+
 - date: 2024-11-20
   name: Day 3: Exploratory Data Analysis with R
   events:
@@ -22,6 +24,7 @@
    - name: "**13:30-15:30** Exploring Data through Visualization"
    - name: "**15:30-16:00** Treating Data Anomalies"
    - name: "**16:00-17:00** Research Speed Dating II: Research Insight Sharing"
+
 - date: 2024-11-21
   name: Day 4: Social Science Data Modelling and Collaboration
   events:
@@ -30,6 +33,7 @@
    - name: "**13:30-15:30** Social Science Data Modelling with R"
    - name: "**15:30-16:00** Tea Break"
    - name: "**16:00-17:00** Foundations of Inferential Statistics"
+
 - date: 2024-11-22
   name: Day 5: Machine Learning for Social Science with R
   events:
@@ -39,4 +43,3 @@
    - name: "**15:30-16:00** Tea Break"
    - name: "**16:00-17:00** Take-Away Project"
    
-
