@@ -1,6 +1,6 @@
 - date: 2024-11-18
   name: Day 1
-  Events:
+  events:
     - name: "**10:30-12:00** Housekeeping & Logistics"
     - name: "**12:00-13:30** Lunch Break"
     - name: "**13:30-15:30** Introduction: About SICSS & CSS"
@@ -8,7 +8,7 @@
     - name: "**16:00-17:00** Research Speed Dating I: Getting to know you and your research"
 - data: 2024-11-19
   name: Day 2
-  Events:
+  events:
    - name: "**10:30-12:00** Housekeeping & Logistics"
    - name: "**12:00-13:30** Lunch Break"
    - name: "**13:30-15:30** Introduction: About SICSS & CSS"
