@@ -47,17 +47,16 @@ For a much more detailed description of the process of hosting a partner locatio
 
 Dear friend of SICSS,
 
-We are very pleased to announce this call for applications to host SICSS partner locations in 2025. 
+We are excited to announce the call for applications to host SICSS partner locations in 2025!
 
-As in past years, fundraising to support the continued growth of the program remains a challenge. SICSS leadership is committed to the search, and hopes to be able to announce possible funding for a small number of sites again in 2025, though this has not yet been confirmed.
+As in past years, fundraising to support the continued growth of the program remains a challenge. **Unfortunately, we will not be able to provide funding for partner locations for the 2025 season.** SICSS leadership remains committed to supporting the growth of the program, and we hope to secure funding for a sites once again in 2026.
 
-As in past years, our resources are limited — as much as we would love to fully fund every organizing team who submits an application to run a SICSS partner location, we will likely be unable to do so. Therefore, we encourage organizers who have capacity and means to do so to look into self-sponsoring their location via their own universities or organizations, or through developing partnerships with non-profit organizations or corporations.
+At this time, we encourage organizers who have the capacity and means to do so to look into self-sponsoring their location via their own universities or organizations, or through developing partnerships with non-profit organizations or corporations.
 
-Though we are undergoing a review of our grant-making process, we expect that applications selected for financial support will receive \$15,000 to support the cost of the institute — \$8,200 for honoraria (to be split between organizers and TAs); \$1,800 to support the cost of food and room rental fees; and \$5,000 to fund participant research projects.  If you require less funding than this amount (perhaps you are running a location that is only a week long, or are receiving funding from alternate sources), please indicate so on the application.
+Applications will be reviewed by SICSS leadership. We ask that all applying to host a partner location complete the short form below. For any questions, please refer to the F.A.Q. or contact us at rsfcompsocsci@gmail.com.
 
-Applications will be reviewed by SICSS leadership. Regardless of whether you apply for funding or self-sponsor a SICSS location, please complete the short application form below. If you have any questions, please consult the F.A.Q. below or email us at rsfcompsocsci@gmail.com.
-
-With very best wishes, Chris Bail, SICSS Director
+With very best wishes, 
+*Chris Bail, SICSS Director*
 
 ### How to Apply
 
