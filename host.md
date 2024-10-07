@@ -49,7 +49,7 @@ Dear friend of SICSS,
 
 We are excited to announce the call for applications to host SICSS partner locations in 2025!
 
-As in past years, fundraising to support the continued growth of the program remains a challenge. **Unfortunately, we will not be able to provide funding for partner locations for the 2025 season.** SICSS leadership remains committed to supporting the growth of the program, and we hope to secure funding for a sites once again in 2026.
+As in past years, fundraising to support the continued growth of the program remains a challenge. **Unfortunately, we will not be able to provide funding for partner locations for the 2025 season.** SICSS leadership remains committed to supporting the growth of the program, and we hope to secure funding for sites once again in 2026.
 
 At this time, we encourage organizers who have the capacity and means to do so to look into self-sponsoring their location via their own universities or organizations, or through developing partnerships with non-profit organizations or corporations.
 
