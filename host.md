@@ -11,10 +11,8 @@ sidebar:
     url: "#mission-and-guiding-principles"
   - name: Handbook for Organizers
     url: "#handbook-organizers"
-  - name: Eligibility
-    url: "#eligibility"
-  - name: "Call for Applications 2023"
-    url: "#call-for-applications-2023"
+  - name: "Call for Applications 2025"
+    url: "#call-for-applications-2025"
   - name: How to Apply
     url: "#how-to-apply"
   - name: Frequently Asked Questions
