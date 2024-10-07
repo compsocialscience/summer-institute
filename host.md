@@ -45,13 +45,13 @@ As we work toward this mission, we are guided by the following principles:
 
 For a much more detailed description of the process of hosting a partner location, please consult our [Handbook for Organizers](https://docs.google.com/document/d/1InRTZJPbh9P1Qnc1VBB7UxDflXaxNqhEygBnO7yGBoQ/edit?usp=sharing)
 
-### Call for Applications 2024
+### Call for Applications 2025
 
 Dear friend of SICSS,
 
-We are very pleased to announce this call for applications to host SICSS partner locations in 2024. 
+We are very pleased to announce this call for applications to host SICSS partner locations in 2025. 
 
-As in past years, fundraising to support the continued growth of the program remains a challenge. SICSS leadership is committed to the search, and hopes to be able to announce possible funding for a small number of sites again in 2024, though this has not yet been confirmed.
+As in past years, fundraising to support the continued growth of the program remains a challenge. SICSS leadership is committed to the search, and hopes to be able to announce possible funding for a small number of sites again in 2025, though this has not yet been confirmed.
 
 As in past years, our resources are limited — as much as we would love to fully fund every organizing team who submits an application to run a SICSS partner location, we will likely be unable to do so. Therefore, we encourage organizers who have capacity and means to do so to look into self-sponsoring their location via their own universities or organizations, or through developing partnerships with non-profit organizations or corporations.
 
@@ -63,7 +63,7 @@ With very best wishes, Chris Bail, SICSS Director
 
 ### How to Apply
 
-**Applications to host a partner site in 2024 are due on Friday, November 17 (2023) by 5pm U.S. E.S.T. Please send completed [applications](https://docs.google.com/document/d/1ZHKR3PuRw9mqEmaikltHmyIm4_RQKkw_ysv3prjgCXk/edit?usp=sharing) to rsfcompsocsci@gmail.com**
+**Applications to host a partner site in 2025 are due on December 1st (2024) by 5pm U.S. E.S.T. Please send completed [applications](https://docs.google.com/document/d/1ZHKR3PuRw9mqEmaikltHmyIm4_RQKkw_ysv3prjgCXk/edit?usp=sharing) to rsfcompsocsci@gmail.com**
 
 ### Frequently Asked Questions
 
@@ -73,7 +73,7 @@ That’s fine. Each year we have locations spread around the world.
 
 ##### How can I learn more about what it is like at a partner location?
 
-At the end of each year, we write a post-mortem that describes what went well and what could be better at each of the partner locations. Here are our post-mortems from [2018](https://msalganik.wordpress.com/2018/08/07/summer-institutes-in-computational-social-science-2018-post-mortem/), [2019](https://msalganik.wordpress.com/2019/09/19/summer-institutes-in-computational-social-science-2019-post-mortem/), [2020](https://msalganik.wordpress.com/2020/08/19/summer-institutes-in-computational-social-science-2020-post-mortem/), and [2021](https://sicss.io/2021/post-mortem). Also, here are some articles and blog posts about the Summer Institutes:
+At the end of each year, we write a post-mortem that describes what went well and what could be better at each of the partner locations. Here are our post-mortems from [2018](https://msalganik.wordpress.com/2018/08/07/summer-institutes-in-computational-social-science-2018-post-mortem/), [2019](https://msalganik.wordpress.com/2019/09/19/summer-institutes-in-computational-social-science-2019-post-mortem/), [2020](https://msalganik.wordpress.com/2020/08/19/summer-institutes-in-computational-social-science-2020-post-mortem/), and [2021](https://sicss.io/2021/post-mortem). (See all the post-mortems [here](https://sicss.io/post-mortem)). Also, here are some articles and blog posts about the Summer Institutes:
 
 - [Summer institute advances social science in the digital age](https://www.princeton.edu/news/2019/07/16/summer-institute-advances-social-science-digital-age)
 - [Using Data Science to Solve Social Science Dilemmas: Exploring the promises and problems of big data at the Summer Institute In Computational Social Science](https://www.rti.org/insights/using-data-science-solve-social-science-dilemmas)
