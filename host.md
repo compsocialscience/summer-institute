@@ -10,7 +10,7 @@ sidebar:
   - name: Mission and Guiding Principles
     url: "#mission-and-guiding-principles"
   - name: Handbook for Organizers
-    url: "#handbook-organizers"
+    url: "#handbook-for-organizers"
   - name: "Call for Applications 2025"
     url: "#call-for-applications-2025"
   - name: How to Apply
