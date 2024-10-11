@@ -26,6 +26,6 @@ In September 2021, with support from the Russell Sage Foundation and the Alfred 
 
 ## Get Involved
 
-If you'd like to participate in one of our institutes, check out [the 2023 locations](https://sicss.io/locations). If you'd like to learn more about hosting your own SICSS location during a future year, please visit [this link](https://sicss.io/host). If you'd like to see what we've learned about the best-practices of running a SICSS site, check out our crowd-sourced post-mortems [here.](https://sicss.io/2022/post-mortem)
+If you'd like to participate in one of our institutes, check out [the current locations](https://sicss.io/locations). If you'd like to learn more about hosting your own SICSS location in a future year, please visit [our hosting info page](https://sicss.io/host). If you'd like to see example materials and what we've learned about the best-practices of running a SICSS site, check out our crowd-sourced post-mortems [here.](https://sicss.io/post-mortem)
 
 <br/><br/>
