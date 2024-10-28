@@ -26,4 +26,8 @@ We welcome applications from graduate students (master’s and doctoral programs
 One of the anticipated collective outputs of the Summer Institute is the creation of a collaborative research paper based on the work conducted during the workshops. Depending on the progress achieved, our goal is to apply the theoretical concepts and methodologies explored throughout the program to a research project with the potential to be submitted to the special issue on **Collective Action** (https://www.nature.com/collections/fgigeicjda) hosted by *Nature Communications, Communications Psychology, and Scientific Reports*. This special issue centers on how individuals and groups engage in social movements and collective actions to address pressing societal challenges. While submission to this issue will depend on the project's development, it presents an exciting opportunity to contribute to global discussions on collective action and the UN’s Sustainable Development Goals. The final paper will be co-authored by all participants, with each contribution fully acknowledged.
 
 ## Application Deadline: 
-[Application materials](https://sicss.io/2024/chile/apply) are due Friday, November 15, 2024 at 11:59 CLT.
+[Application materials](https://sicss.io/2024/chile/apply) are due Friday, November 22, 2024 at 11:59 CLT.
+
+## Content of Previous Version
+
+See the previous talks in the following [list of videos](https://www.youtube.com/watch?v=xbCCkrLMdr4&list=PLaJMYC1Fy52w17B9Rp6Cdf9sf3Q103A4Z).
