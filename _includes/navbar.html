@@ -17,7 +17,10 @@
             </a>
             <div class="dropdown-menu bg-dark text-light border-0" aria-labelledby="navbarDropdown{{ forloop.index }}">
               {% for item in navlink.items %}
-                <a class="dropdown-item text-light" href="{{ item.url | prepend: site.baseurl }}">{{ item.name }}</a>
+                <a class="dropdown-item custom-dropdown-item" href="{{ item.url | prepend: site.baseurl }}">{{ item.name }}</a>
+                {% unless forloop.last %}
+                  <div class="dropdown-divider custom-dropdown-divider"></div>
+                {% endunless %}
               {% endfor %}
             </div>
           </li>
