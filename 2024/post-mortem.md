@@ -168,6 +168,3 @@ We received a lot of extremely positive feedback from the participants. From our
 Furthermore, it was interesting for future events that students explicitly stated that they prefer the format with group work to the format with their individual projects. In this respect, we were very pleased to hear that one group has even started to turn the SICSS project into a publication.
 
 We have thought about creating a survey that specifically asks about the experience in order to improve the programme in the future with this feedback. However, we felt students already received a lot of emails during the two weeks of the Summer Institute. Therefore, we decided that limiting ourselves to considering the feedback received in face-to-face conversations would be more beneficial. 
-
-
-
