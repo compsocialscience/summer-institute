@@ -112,3 +112,62 @@ According to the four surveys executed during the Institute, all presentations g
 
 We accepted with gratitude the feedback from participants who kept saying that there were two best things about the Institute: people (open-minded, enthusiastic and cooperative) and the possibility to grow (learning new research methods, and programming). We note that this was possible not only thanks to the support and funding from various institutions and thanks to highly-involved participants. We believe that this was achieved also by a committed group of organizers who looked out for each other and worked as one team, often beyond “working hours”.
 
+
+- [SICSS-Bologna](#bologna)
+
+<h2 class="display-4" id="bologna">SICSS-Bologna</h2>
+
+### Outline
+1. Outreach and application process
+2. Pre-arrival and onboarding
+3. The first week (Online)
+4. The second week (group projects)
+5. Post-departure
+
+Outreach and application process
+The outreach and application process can be characterised as smooth overall. We have used the SICCS webpage, the website of the Computational Social Science Center at the University of Bologna, Twitter, Bluesky, PolMeth and EPSA email lists to advertise the Summer Institute. Our idea was to fix the schedule relatively early to convey a firm idea of what to expect. One problem from our view was that we received notification about funding relatively late (February), which complicated the invitation of speakers for June. Nevertheless, we could still put together a programme relatively quickly that gave applicants a precise idea of the Summer Institute. 
+
+We have received an exceptionally high number of applications compared to previous editions. There were around 50 applications for 15 places. Our selection process was guided based on three criteria (a CV, a statement of interest, and a writing sample). Moreover, we have considered the career stage, field of study, and familiarity with methods to assemble a balanced group. Three organisers thoroughly reviewed all applications and decided on the 15 highest-ranking individuals.
+
+Creating a rank list of students allowed us to create a waiting list to invite more students in case accepted applicants jump off. Indeed, this happened in two cases, and since we already knew who to invite next, we did not lose any seats despite receiving this notice relatively late.
+
+Due to the great interest in the Summer Institute, we have decided to offer people who were not accepted to attend the activities during the complete first week online as well as the keynote speakers in the second week. As our Summer Institute was mostly organised hybrid already, offering this option didn’t require additional preparation or costs. While many people initially expressed interest in taking up this opportunity, we ended up with approximately five people who joined consistently during the Summer Institute. However, they were extremely positive about the possibility of online participation and their learning curve. This makes us optimistic about offering this option on future occasions.
+
+###  Pre-arrival and onboarding
+Upon arrival, we strongly suggested that accepted participants complete the SICSS boot camp. Moreover, we have created a syllabus that aligns with the schedule to enable students to prepare for the Summer Institute. We have shared this relatively early to put students in the position to prepare themselves. As the first week was held online, we have further attempted to clarify the technical requirements for joining remotely early. Slack has proved difficult here as every student can join easily, but only after repeated technical assistance. We have shared the “SICSS On-boarding Form” to add students to the network. Lastly, we asked students to indicate their dietary requirements for social dinner and coffee breaks.
+
+We have received a few questions from students during this period. Most of them asked where the Summer Institute takes place and where best to book accommodation. Therefore, in the future, it might be helpful to send students an information package providing them with the location of the department and suggestions for accommodation. Originally, we shared a map of Bologna with some additional information relatively shortly before the start. 
+
+###  The first week (Online)
+The first week took place on June 11 until June 14. These four days online were designed to bring students the same level of methodological knowledge of the basic toolbox of computational science and to familiarise them with current debates in the field. Knowing that it is generally difficult to convey a lot of content online, we have kept the days relatively short.  Each day, there was a workshop that taught methods and a presentation by scholars introducing larger conceptual issues.
+
+On three out of four days, we offered optional assignments, which allowed students to exercise the methods taught in the workshops at home. The idea was not to make this mandatory because not everyone would have time to submit them. The tasks were kept relatively simple to give less experienced students, in particular, the opportunity to improve before the group work in the second week of the summer institute. Additionally, we offered online office hours in the afternoon where students could consult us on the assignments or the material discussed in the Summer Institute. While few students completed the assignments, none attended the online office hours.
+
+A fundamental question that had to be weighed up here was whether students should work on their individual research questions (such as their doctoral thesis or master's thesis) or in groups during the second week. We decided in favour of the latter because it was our impression from previous versions of SICSS that the learning dynamic would otherwise be too individual. Group work allows students to participate equally in the content of the Summer Institute. 
+
+To facilitate the group work to take place in the second week, we have already created the groups based on students' level of experience to create balanced groups. Thus, the first week concluded with creating break-out groups where the groups could already get to know each other and agree upon a topic before arriving in Bologna. This also allowed students to communicate with each other if they had arrived earlier. 
+
+### The second week (group projects)
+
+The second week took place between June 17 and 21. Before the start of the Summer Institute, we created name tags and a welcome package (notepad, jersey/t-shirt, etc.), which we allocated to each student at the beginning of the first week. The second week was designed according to the same principle when we have a keynote speech in the morning, introducing a ‘bigger’ theme of CSS, and group work in the afternoon. Where it was possible, keynote speakers stayed throughout the afternoon to answer questions and help students with their projects. 
+
+This format has turned out very favourably. As most of the presenters spent the whole day with us (some even over two days), there was a very friendly atmosphere between organisers, presenters and participants, which characterised the atmosphere of the whole Summer Institute. This has contributed to a productive learning environment where individual needs were addressed.
+
+Students could work in the department until 6 pm and consult the organisers for any questions. However, overall, participants were rather shy about consulting us for questions. In the future, it might thus be helpful to organise a mandatory office hour/meeting with students in the middle of the week to encourage them to take stock of the advancements of their group project.
+
+A more specific problem was that students asked for more computing power for their project. This has made us aware that we should define a limit to the group work to be achieved during the week. Certainly, for various reasons, it is not necessary to come up with a computationally intensive project; rather, it is necessary to present an outcome that tests the research question on a smaller sample of the data. This should be emphasised more clearly in the future. 
+
+The Summer Institute concluded with the presentation of the group projects on the last day. We have invited faculty members to attend students’ presentations so that participants receive valuable feedback on their work. Looking at the varying quality of the presentations, the question of whether students should work on individual projects or groups re-emerged. In view of the different progress made by the groups, it was difficult overall to provide substantial feedback at the presentations.
+
+### Post-departure
+
+After the Summer Institute concluded, we issued a certificate of attendance for each student. This has been particularly useful for students who asked for funding from their institutes, which requires them to provide formal proof of participation. Thus, we have created a template for future occasions.
+
+We received a lot of extremely positive feedback from the participants. From our point of view, the most pleasing feedback was that both participants with less experience and advanced participants expressed that they found the event useful. As the imbalance between advanced and less advanced students could have aggravated the learning process, we feel vindicated in the design of the programme and the selection of participants.
+
+Furthermore, it was interesting for future events that students explicitly stated that they prefer the format with group work to the format with their individual projects. In this respect, we were very pleased to hear that one group has even started to turn the SICSS project into a publication.
+
+We have thought about creating a survey that specifically asks about the experience in order to improve the programme in the future with this feedback. However, we felt students already received a lot of emails during the two weeks of the Summer Institute. Therefore, we decided that limiting ourselves to considering the feedback received in face-to-face conversations would be more beneficial. 
+
+
+
