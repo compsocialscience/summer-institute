@@ -7,6 +7,6 @@
 - name: Schedule & Materials
   url: "schedule"
 - name: "Post-Mortem"
-  url: "post_mortem"
+  url: "post-mortem"
   link: '#bologna'
 
