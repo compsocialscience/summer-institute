@@ -1,0 +1,24 @@
+- name: "Jennie Brand"
+  image: /assets/images/prof+brand+pic.jpeg
+  bio: "Jennie E. Brand is Professor of Sociology and Statistics at the University of California, Los Angeles (UCLA). She is Co-Director of the Center for Social Statistics (CSS) at UCLA. She has been Chair of the Methodology Section and the Inequality, Poverty, and Mobility Section of the American Sociological Association (ASA), and Vice-President of the Board of the International Sociological Association (ISA) Research Committee on Social Stratification and Mobility (RC28). She previously served on the councils of the ASA Methodology, Sociology of Education, and Inequality, Poverty, and Mobility sections. She was elected to the Sociological Research Association (SRA), an honor society for excellence in research, in 2019, and received the ASA Methodology Leo Goodman Mid-Career Award in 2016, and honorable mention for the ASA Inequality, Poverty, and Mobility William Julius Wilson Mid-Career Award in 2014. Prof. Brand is a member of the Technical Review Committee for the National Longitudinal Surveys Program at the Bureau of Labor Statistics. She was previously a member of the Board of Overseers of the General Social Survey (GSS). She is Associate Editor of AAAS’s Science Advances, the open access extension of Science magazine, and serves on the editorial boards of Social Forces, Sociological Methodology, Sociological Methods and Research, Sociological Science, and Sociology Compass. She also previously served on the boards of American Sociological Review, Demography, and SAGE Research Methods. Prof. Brand studies social stratification and inequality, mobility, social demography, education, and methods for causal inference."
+  website: http://www.profjenniebrand.com/
+
+- name: "Ian Lundberg"
+  image: /assets/images/ucla_2023_faculty_ian_lundberg.png
+  bio: "Ian Lundberg is an Assistant Professor of Information Science at Cornell University. His research develops statistical methods and applies those methods to questions about inequality, poverty, and mobility. After completing his PhD in sociology at Princeton University, Ian spent one year as a postdoctoral scholar in the Department of Sociology at UCLA. Ian enjoys hiking, surfing, and making oatmeal with blueberries."
+  website: https://www.ianlundberg.org/
+  
+- name: "Christina Wilmot"
+  image: /assets/images/christina_wilmot_image - c w.JPG
+  bio: "Christina Wilmot is a Ph.D. student in sociology at UCLA. Previously, she studied computer science and worked as a software engineer at Google. She is interested in the varying intersections of technology and society, including using novel computational methods to analyze social information, studying online social behavior, and looking at the effects of the adoption of new technologies on a society. She also aims to make computational methods more accessible to social researchers from a variety of substantive and methodological fields."
+  website: https://soc.ucla.edu/person/christina-wilmot/
+
+- name: "Keri Lintz"
+  image: /assets/images/placeholderPic.png
+  bio: "Keri Lintz is a PhD student in Public Affairs ..."
+  website: https://www.google.com
+
+- name: "Kelsey Figone"
+  image: /assets/images/placeholderPic.png
+  bio: "Kelsey Figone is a PhD student in Economics ..."
+  website: https://www.google.com
