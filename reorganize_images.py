@@ -187,7 +187,7 @@ def should_move_file(file_path):
 def should_check_for_references(file_path):
     """Determine if a file should be checked for image references."""
     # Check all content files that might contain image references
-    if not file_path.endswith(('.md', '.html', '.htm', '.yml', '.yaml')):
+    if not file_path.endswith(('.md', '.html', '.htm', '.yml', '.yaml', '.json', '.xml')):
         return False
         
     # Skip compiled/generated files
