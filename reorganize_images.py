@@ -229,6 +229,11 @@ def update_file_references(root_dir, path_mapping, logger, dry_run=False):
                 # Only look for references to files we're actually moving
                 for old_path, new_path in path_mapping.items():
                     if old_path in content:
+                        # Ensure we're not doubling up /assets/images/
+                        if f"/assets/images{new_path}" in new_content:
+                            # If we find a doubled path, fix it first
+                            new_content = new_content.replace(f"/assets/images{new_path}", new_path)
+                            
                         logger.debug(f"Found '{old_path}' in {file_path}")
                         logger.debug(f"Replacing with '{new_path}' (verified in path_mapping)")
                         new_content = new_content.replace(old_path, new_path)
