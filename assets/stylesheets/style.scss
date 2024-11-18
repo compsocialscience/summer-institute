@@ -28,6 +28,32 @@ a {
 .card-footer {
   background: #ffffff;
 }
+.dropdown-menu {
+  border-radius: 0;
+}
+.dropdown-divider {
+  border-color: #989B9E;
+}
+
+.dropdown-menu {
+  min-width: 7rem !important;
+}
+.custom-dropdown-item {
+  color: #6c757d;
+  line-height: 1;
+}
+.dropdown-menu .dropdown-item {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.custom-dropdown-item:hover,
+.custom-dropdown-item:focus {
+  background-color: #343a40; 
+  color: #ffffff;
+}
+.custom-dropdown-divider {
+  background-color: #6c757d;
+}
 .section-callout {
   background: #e9ecef;
   margin: 3rem 0;

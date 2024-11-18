@@ -9,11 +9,27 @@
   <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
     <ul class="navbar-nav ml-auto">
       {% assign navigation = site.data.navigation %}
-        {% for navlink in navigation %}
+      {% for navlink in navigation %}
+        {% if navlink.items %}
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown{{ forloop.index }}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              {{ navlink.name }}
+            </a>
+            <div class="dropdown-menu bg-dark text-light border-0" aria-labelledby="navbarDropdown{{ forloop.index }}">
+              {% for item in navlink.items %}
+                <a class="dropdown-item custom-dropdown-item" href="{{ item.url | prepend: site.baseurl }}">{{ item.name }}</a>
+                {% unless forloop.last %}
+                  <div class="dropdown-divider custom-dropdown-divider"></div>
+                {% endunless %}
+              {% endfor %}
+            </div>
+          </li>
+        {% else %}
           <li class="nav-item">
             <a class="nav-link {% if navlink.type == 'button' %} btn btn-light btn-sm text-dark mx-3 font-weight-bold {% endif %}" href="{{ navlink.url | prepend: site.baseurl }}">{{ navlink.name }}</a>
           </li>
-        {% endfor %}
+        {% endif %}
+      {% endfor %}
     </ul>
   </div>
 </nav>

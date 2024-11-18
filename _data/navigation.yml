@@ -1,21 +1,27 @@
 - name: Home
   url: "/"
-- name: Locations
-  url: "/locations"
+- name: Institutes
+  items:
+    - name: Locations
+      url: "/locations"
+    - name: Host
+      url: "/host"
+    - name: Festival
+      url: "/festival"
 - name: Learn Online
   url: "/overview"
-- name: Host
-  url: "/host"
-- name: People
-  url: "/people"
-- name: About
-  url: "/about"
 - name: Post-Mortem
   url: "/post-mortem"
 - name: In the News
-  url: "/in-the-news" 
-- name: Festival
-  url: "/festival"
+  items:
+    - name: All News
+      url: "/in-the-news"
+- name: About
+  items:
+    - name: About SICSS
+      url: "/about"
+    - name: People
+      url: "/people"
 - name: Apply
   type: "button"
   url: "/apply"
