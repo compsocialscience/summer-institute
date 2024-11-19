@@ -60,7 +60,7 @@ With very best wishes,
 
 ### How to Apply
 
-**Applications to host a partner site in 2025 are due on December 1st (2024) by 5pm U.S. E.S.T. Please send completed [applications](https://docs.google.com/document/d/1ZHKR3PuRw9mqEmaikltHmyIm4_RQKkw_ysv3prjgCXk/edit?usp=sharing) to rsfcompsocsci@gmail.com**
+**Applications to host a partner site in 2025 are due on December 1st (2024) by 5pm U.S. E.S.T. Please send completed applications to `rsfcompsocsci@gmail.com`. [Click here to access the application template.](https://docs.google.com/document/d/1HjFJljDT8a04Oy6tuJOsLyShcn-ypZLmV8cMt6X1woQ/edit?usp=sharing)**
 
 ### Frequently Asked Questions
 
