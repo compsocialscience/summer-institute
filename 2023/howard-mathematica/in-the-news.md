@@ -10,6 +10,46 @@ image: /assets/images/howard.jpg
 <br />
 
 ---
+<u>BLOG: SICSS-Howard/Mathematica Alumni Receive 2023 Excellence in Computational Social Science Research Awards</u>
+<br><font color="grey"><font size="2">June 18, 2024</font></font> 
+<br><i><font size = "2">Two group projects and nine individual projects were awarde the SICSS-Howard/Mathematica Excellence in Computational Social Science Research Fund 2023 award. </font></i>
+<br><font size = "1">(Posted by <a href="https://researchmethodscommunity.sagepub.com/blog/sicss-alumni-awards">Sage Methodspace</a>)</font>
+
+<u>BLOG: SICSS-Howard/Mathematica’s 2023 Annual New Frontiers in Research and Technology Panel focuses on “AI + Automation + Work”</u>
+<br><font color="grey"><font size="2">June 14, 2024</font></font> 
+<br><i><font size = "2">The annual panel on AI focused on the book </i>The Quantified Worker: Law and Technology in the Modern Workplace<i> written by panelist Ifeoma Ajunwa, J.D., Ph.D., exploring the current state of using data as a way to observe and restructure workplaces, describing how increased surveillance is due to technological advances that allow for more data to be collected about workers. </font></i>
+<br><font size = "1">(Posted by <a href="https://researchmethodscommunity.sagepub.com/blog/sicss-ai-automation-work">Sage Methodspace</a>)</font>
+
+<u>BLOG: Latanya Sweeney, Harvard Professor and Founder of the Public Interest Technology Lab, Delivers Keynote Address at SICSS-Howard/Mathematica 2023</u>
+<br><font color="grey"><font size="2">June 11, 2024</font></font> 
+<br><i><font size = "2">Dr. Latanya Sweeney, renowned professor, researcher, and pioneer in the fields of data privacy, algorithmic fairness, and public interest technology was the SICSS-H/M 2023 Keynote Speaker, sharing her experiences on establishing her career in this distinctive and relatively novel field. </font></i>
+<br><font size = "1">(Posted by <a href="https://researchmethodscommunity.sagepub.com/blog/sicss-latanya-sweeney-keynote">Sage Methodspace</a>)</font>
+
+<u>BLOG: Exploring Innovations in Computational Social Science: Highlights from SICSS-H/M's Bite-Sized Lunchtime Talks 2023</u>
+<br><font color="grey"><font size="2">June 3, 2024</font></font> 
+<br><i><font size = "2">Bite-Sized Lunchtime Talks (BSLT) are a SICSS-Howard/Mathematica site-specific innovation that introduces participants to organizations doing cool things with data. 2023 offered a variety of organizations that proved interesting and inspiring to our participants. </font></i>
+<br><font size = "1">(Posted by <a href="https://researchmethodscommunity.sagepub.com/blog/sicss-exploring-innovations-bslts">Sage Methodspace</a>)</font>
+
+<u>BLOG: Insights and Inspirations from Leading Scholars for Future Computational Social Scientists</u>
+<br><font color="grey"><font size="2">May 28, 2024</font></font> 
+<br><i><font size = "2">SICSS-Howard/Mathematica 2023 participants were joined by three guest speakers: Desmond U. Patton, Ph.D., Imani N. S. Munyaka, Ph.D., and Deen Freelon, Ph.D. Speakers, to share their recent and ongoing projects. </font></i>
+<br><font size = "1">(Posted by <a href="https://researchmethodscommunity.sagepub.com/blog/sicss-insights-and-inspirations">Sage Methodspace</a>)</font>
+
+<u>BLOG: The Beauty in Nurturing Communal and Liberating Forms of Computational Social Science</u>
+<br><font color="grey"><font size="2">May 21, 2024</font></font> 
+<br><i><font size = "2">Joel E. Martinez discusses the transformative experiences and communal efforts he witnessed as a participant in the SICSS-Howard/Mathematica 2023 program.</font></i>
+<br><font size = "1">(Posted by <a href="https://researchmethodscommunity.sagepub.com/blog/sicss-nurturing-communal-and-liberating-css">Sage Methodspace</a>)</font>
+
+<u>BLOG: Rethinking Inclusivity in Computational Social Science</u>
+<br><font color="grey"><font size="2">May 16, 2024</font></font> 
+<br><i><font size = "2">SICSS stresses the need for inclusivity and accessibility in social and data science training, particularly for individuals with disabilities.</font></i>
+<br><font size = "1">(Posted by <a href="https://researchmethodscommunity.sagepub.com/blog/sicss-rethinking-inclusivity">Sage Methodspace</a>)</font>
+
+<u>BLOG: Leveraging Data Science to Address Important Questions</u>
+<br><font color="grey"><font size="2">May 7, 2024</font></font> 
+<br><i><font size = "2">Training the next generation of data scientists to tackle social issues through interdisciplinary collaboration and an emphasis on diversity and inclusion in research. </font></i>
+<br><font size = "1">(Posted by <a href="https://researchmethodscommunity.sagepub.com/blog/sicss-leveraging-data-science-to-address-important-questions">Sage Methodspace</a>)</font>
+
 <u>BLOG: SICSS-Howard/Mathematica 2022 Participant Talks about Why Black Representation in Data Science Training Matters</u>
 <br><font color="grey"><font size="2">Jul 26, 2023</font></font> 
 <br><i><font size = "2">Daniel Lobo shares four learnings from his unforgettable experience at SICSS-Howard/Mathematica 2022.</font></i>
