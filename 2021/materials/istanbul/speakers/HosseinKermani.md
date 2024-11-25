@@ -1,6 +1,0 @@
-## Using mixed-methods to study Twitter activism; The case of Persian Twitter
-
-This paper investigates the structure of networked publics and their sharing practices in Persian Twitter during a period surrounding Iran’s 2017 presidential election. Building on networked gatekeeping and framing theories, we used a mixed methodological approach to analyze a dataset of 2,596,284 Persian tweets. Results revealed that Twitter provided a space for Iranians to discuss public topics. However, this space is not necessarily used by voiceless and marginalized groups; and the uses are not limited to discussing controversial issues. The growing body of conservative crowdsourced elites emerged to defend the regime’s ideology. Moreover, the dominant networked frames were shaped around normal and routine subjects in an election time. Thus, Twitter was not a platform for only seeking liberal demands. It was to some extent used to serve the regime’s political interests. Furthermore, while many ordinary users rose to prominence, mainstream media continued to act as powerful players. This study contributes to the existing literature into networked practices, digital democracy, and citizen journalism; particularly in restrictive contexts.
-
-
-Link: https://journals.sagepub.com/doi/full/10.1177/20539517211025568

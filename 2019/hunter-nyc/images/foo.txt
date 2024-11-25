@@ -1,1 +1,0 @@
-create images folder

@@ -1,9 +1,0 @@
-- name: Hirokazu Shirado
-  image: /assets/images/hiro2019.jpg
-  bio: "Hirokazu Shirado is Assistant Professor of the Human-Computer Interaction Institute in the School of Computer Science at Carnegie Mellon University. He received his doctorate in Sociology at Yale University, where he was a member of the Yale Institute for Network Science. His reseach interests include social networks and computational social science. He is particularly committed to the experimental study of cooperative behaviors as they manifest through interactions between people located within social networks."
-  website: http://www.shirado.net/
-
-- name: Atsushi Ueshima
-  image: /assets/images/AtsushiUeshima.jpg
-  bio: "Atsushi Ueshima is a postdoctoral fellow of the Japan Society for the Promotion of Science (JSPS) and now working in the Human Nature Lab at Yale Sociology. His current research interests lie in collective decision-making and mean-making process in human groups. He combines online experiments and natural language processing to study how people generate, share, and maintain social norms and culture. He uses methods from psychology, sociology, and computational social science."
-  website: https://sites.google.com/view/atsushiueshima

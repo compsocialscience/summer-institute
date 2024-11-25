@@ -1,9 +1,0 @@
-- name: Cantay Caliskan
-  image: /assets/images/cantay_caliskan.jpeg
-  bio: "Cantay Caliskan is an assistant professor of instruction at the Goergen Institute for Data Science, University of Rochester. He studied political science, computer science, and statistics during his PhD, and received his degree from Boston University in 2018. Cantay received his BA in Economics, Mathematics, and Intl. and Global Studies from Brandeis University and his MA in International Relations from Koç University. His research interests include computational social science, specifically computer vision, social media analysis, and generative AI."
-  website: http://cantaycaliskan.net/
-  
-- name: Ezgi Siir Kibris
-  image: /assets/images/EzgiSiirKibris.png
-  bio: "Ezgi Siir Kibris is a Ph.D. candidate in Political Science and an alumna of the MS program in Data Science at the University of Rochester. She has MA degrees in Political Science and European Studies and BA in Economics from Sabanci University. Her dissertation research revolves around judicial politics, international courts, democratic backsliding, and gender. She is interested in quantitative methods, specifically causal inference, machine learning, and natural language processing."
-  website: http://ezgisiir.com/

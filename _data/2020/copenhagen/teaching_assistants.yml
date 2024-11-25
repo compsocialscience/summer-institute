@@ -1,8 +1,0 @@
-- name: Asger Andersen
-  bio: "Asger Andersen is a PhD student at the Centre for Social Data Science. His research interests include social network dynamics and machine learning methods for causal inference. He holds a master’s degree in Statistics from UCPH."
-  image: /assets/images/asandersen.jpg
-
-- name: Jolien Cremers
-  bio: "Jolien Cremers is a Postdoc at the Department of Public Health at the University of Copenhagen. She is an applied statistician bridging the gap between mathematical statistics and applied researchers by bringing new methods to their (potential) users. Her current research interest lies in modeling life trajectories from registry data using various methods for longitudinal and event-history data."
-  image: /assets/images/jcremers.jpg
-  website: https://publichealth.ku.dk/staff/?pure=en/persons/620191
