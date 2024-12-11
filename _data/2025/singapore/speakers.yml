@@ -1,0 +1,4 @@
+- name: Example Speaker
+  image: /assets/images/placeholder.jpg
+  bio: "More info soon."
+  website: https://www.google.com/
