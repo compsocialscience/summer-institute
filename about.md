@@ -1,7 +1,16 @@
 ---
 title: "The Summer Institutes in Computational Social Science"
 subtitle: "Bringing together graduate students, postdoctoral researchers, and junior faculty for two weeks of intensive study and interdisciplinary research"
-layout: page
+layout: about
+toc: 
+  - name: Who We Are
+    url: "#who-we-are"
+  - name: What We Do
+    url: "#what-we-do"
+  - name: Impact
+    url: "#impact"
+  - name: Get Involved
+    url: "#get-involved"
 ---
 
 ### Who We Are

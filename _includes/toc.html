@@ -1,0 +1,26 @@
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-md-12">
+      <p
+        class="btn btn-link font-weight-bold text-left"
+        type="button"
+        data-toggle="collapse"
+        data-target="#collapseMenu"
+        aria-expanded="true"
+        style="padding: 0px"
+      >
+        Table of Contents
+      </p>
+      <div class="collapse" id="collapseMenu">
+        <ul class="nav flex-column">
+          {% for item in page.toc %}
+          <li class="nav-item toc-item">
+            <a href="{{ item.url }}">{{ item.name }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+  <hr />
+</div>
