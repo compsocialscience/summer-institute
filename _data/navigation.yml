@@ -18,6 +18,8 @@
       url: "/about"
     - name: Post-Mortem
       url: "/post-mortem"
+    - name: Sponsor SICSS
+      url: "/sponsor"
 - name: Apply
   type: "button"
   url: "/apply"
