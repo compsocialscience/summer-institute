@@ -114,4 +114,4 @@ If you’d like to learn more about hosting your own SICSS location during a fut
 
 #### Sponsor
 
-If you’d like to learn more about sponsoring SICSS in any capacity, please check out our [sponsor page](/), and <a href="mailto:rsfcompsocsci@gmail.com">send us an email</a>.
+If you’d like to learn more about sponsoring SICSS in any capacity, please check out our [sponsor page](/sponsor), and <a href="mailto:rsfcompsocsci@gmail.com">send us an email</a>.
