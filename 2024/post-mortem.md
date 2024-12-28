@@ -8,7 +8,7 @@ layout: about
 
 **Published on:** August 6, 2024
 
-**This page is still under the development.**
+**This page is still under development. Check back later for more post-mortems from our 2024 locations. Thanks for a great year!**
 
 We’ve just completed the 2024 [Summer Institutes in Computational Social Science](https://sicss.io/). The purpose of the Summer Institutes is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institutes are for both social scientists (broadly conceived) and data scientists (broadly conceived). This summer we had a mixture of in-person institutes and virtual institutes across the world. In addition to [SICSS-Duke](#duke), which was organized by Chris Bail, there were ... partner locations run by SICSS alumni.
 
@@ -19,6 +19,10 @@ This page includes post-mortem reports from all locations in order to facilitate
 Skip to: 
 
 - [SICSS-AMU/Law](#amu-law)
+- [SICSS-Bologna](#bologna)
+- [SICSS-Barcelona](#barcelona)
+- [SICSS-Uruguay](#uruguay)
+- [SICSS-Calabar](#calabar)
 
 <h2 class="display-4" id="amu-law">SICSS-AMU/Law</h2>
 
@@ -113,8 +117,6 @@ According to the four surveys executed during the Institute, all presentations g
 We accepted with gratitude the feedback from participants who kept saying that there were two best things about the Institute: people (open-minded, enthusiastic and cooperative) and the possibility to grow (learning new research methods, and programming). We note that this was possible not only thanks to the support and funding from various institutions and thanks to highly-involved participants. We believe that this was achieved also by a committed group of organizers who looked out for each other and worked as one team, often beyond “working hours”.
 
 
-- [SICSS-Bologna](#bologna)
-
 <h2 class="display-4" id="bologna">SICSS-Bologna</h2>
 
 ### Outline
@@ -168,3 +170,214 @@ We received a lot of extremely positive feedback from the participants. From our
 Furthermore, it was interesting for future events that students explicitly stated that they prefer the format with group work to the format with their individual projects. In this respect, we were very pleased to hear that one group has even started to turn the SICSS project into a publication.
 
 We have thought about creating a survey that specifically asks about the experience in order to improve the programme in the future with this feedback. However, we felt students already received a lot of emails during the two weeks of the Summer Institute. Therefore, we decided that limiting ourselves to considering the feedback received in face-to-face conversations would be more beneficial. 
+
+
+<h2 class="display-4" id="barcelona">SICSS-Barcelona</h2>
+ 
+### 1. Introduction
+With SICSS Barcelona we aimed to unite researchers interested in computational social science and provide a hands-on introduction to multiple techniques and approaches in the field. The event was held in person at the Faculty of Political Science and Law, University of Barcelona from October 21 to 29, 2024. It was organized by a team of University of Barcelona researchers led by Camilo Cristancho. The event was a space for sharing insights on computational social science with leading scholars and advancing research on multiple subjects related to political polarization and social conflict. In partnership with the Barcelona Supercomputing Centre, the event allowed participants to attend the CODATA conference on CSS, where they had the opportunity to present their works-in-progress developed during the SICSS Summer School and allowing them to receive valuable feedback from prominent names in the field. 
+ 
+### 2. Application Process
+#### Outreach and Promotion
+We published a call for applicants using local scholarly networks in Spain on Twitter and tagged some scholars related to computational social sciences across Europe and Latin America, as well as the European Political Science Association. The call had a link to the website where we provided some basic content and highlighted the keynote speakers and our link to the Barcelona Supercomputing Center. The call was not targeted to any specific profile, and we received over 60 expressions of interest from all around the world. Having the summer school in October limited our potential to attract scholars who could travel for two weeks during this period. Therefore, the applicants were mostly PhD students and postdocs with no teaching obligations. We finally chose a balanced group between social scientists and data scientists. Interested applicants were still contacted after the call deadline and many applications were rejected because of insufficient funding to cover travel expenses.
+#### Application Requirements
+We followed the regular SICSS application form and demanded a motivation letter. This enabled us to identify participants’ knowledge, skills, previous experience and future interests. Our selection criteria were based on the diversity of the participants (gender, origin, interests, skills) and their academic achievements.
+#### Selection Process
+We received 60 applications and selected 20 (33% acceptance rate). Four participants canceled two weeks before the event, so we invited 4 students from the local reserve list. In total, 6 participants were from political science and sociology PhD programs from different Barcelona universities, along with 4 data scientists from the Barcelona Supercomputing Center. The other 11 students came from various European universities, representing a range of disciplines in the social sciences, humanities, and natural sciences. We ended up with a balanced mix of local, national and international early career scholars from multiple disciplines within the social sciences. In future events, a broader call targeted at data and computer scientists outside the realm of the social sciences would probably provide better results in terms of the variety of the participants.
+ 
+### 3. Onboarding and Pre-Event Preparation
+#### Onboarding Procedures
+Participants filled out the enrolment form where they were asked to join the Slack channel. Most of the participants were unfamiliar with one another, with pre-event interactions primarily occurring among those from Catalan universities.
+Several emails were sent three and two weeks before the event with descriptions of the logistics regarding the venues, the week's schedule, wi-fi access, and attendance at the reception dinner. Reminders and encouragement to work on the R and Python bootcamps were also a priority, but we still found some differences between participants in basic skills which should’ve been solved by some practice on the bootcamps.
+A week before the event, participants received the final logistic details, including more comprehensive descriptions of each session. Additionally, a WhatsApp group was created to help coordinate lunch preferences and other logistical arrangements, fostering group dynamics before, during and after the event. 
+ 
+#### Technical Preparation
+The course materials were shared through a Dropbox folder, with additional collaboration occurring via the Slack channel and email. While these tools facilitated problem-solving, they also required significant time for coordination. 
+Hands-on sessions were designed to run on Google Colab, which most students were familiar with, and followed R and Python coding without issues. Nonetheless, the usual compatibility perks between Windows, Mac, and Ubuntu users, as well as other minor issues on library preference, would have been addressed more smoothly with a previous session or bootcamp aimed at working on Colab and the specific libraries that would be used during the course. Teaching assistance proved essential in solving particular problems, allowing the session to stay focused on the main topic. 
+ 
+#### Participant Engagement
+Participants met on the first day and had a round of five-minute presentations with a minimal guide on the expected contents to introduce themselves: Occupation, Affiliation, research interests, research skills, motivations for CSS, expectations from the summer school, personal interests, … After this activity, all the engagement occurred during the shared time out of organized activities (coffee, lunch, after-work drinks, …) or in the group formation activities.
+ 
+### 4. Lecture/Workshop Week
+The SICSS-Barcelona program provided an introduction to computational social science (CSS) structured around a combination of methodological training, thematic lectures, practical applications on topics related to political and societal polarization and collaborative projects. Over the seven-day summer school, participants engaged with CSS essentials, focusing on methods and tools for analyzing complex social phenomena. The program began with an overview of core CSS concepts, followed by a broad discussion on the theoretical foundations of political polarization.
+Each day was structured to begin with a methodological session, which included hands-on activities aimed at developing technical skills such as web scraping, using APIs to pull data from multiple web services, performing natural language processing tasks, social network analysis techniques, and video and multimodal analyses. These practical sessions empowered participants with data-gathering and analytical techniques. Each day also balanced thematic lectures with group exercises, enabling participants to apply their newly acquired skills directly to real-world social and political datasets. 
+
+Three sessions were entirely focused on political polarization. The first was an introduction to the topic of polarization on the first day, with a broad review of research on ideological and affective polarization and a discussion on its relevance and societal implications. A second session took place on the second day, focusing on measuring polarization with a detailed review of the chronological evolution of computational methods and the data that has been used in scholarly research. On the third day, the introductory session on quantitative text analysis focused on methods for defining, measuring, describing, and explaining toxic speech in elite rhetoric. Multiple examples from published papers, datasets, and replication materials were reviewed to highlight their importance in studying affective polarization within a political context.
+
+Keynote speakers, including Chico Camargo and Andreu Casas, led specialized sessions on advanced topics such as video analysis, social network analysis (SNA), and digital trace data. These sessions offered valuable insights into emerging trends and challenges in CSS research, such as recommendation algorithms and moderation protocols on social media platforms, emphasizing the importance of understanding social dynamics in the digital age. Additionally, David Lazer's keynote at the CODATA conference, organized at Barcelona's Supercomputing Center, underscored the relevance of data-driven approaches in addressing societal issues. This diverse array of expert perspectives enriched participants' understanding of CSS and inspired them to critically apply their skills to real-world challenges.
+During the final two hours of each afternoon, and on a four-hour session on Friday in the first week, participants engaged in group work, which provided a space for teams to brainstorm, collaborate, and develop projects that would be presented at the end of the week. This structure allowed participants to directly apply their newly acquired skills to real-world data, fostering a collaborative learning environment and deepening their understanding of CSS methods.
+ 
+### 6. Group Project and presentations
+#### Group Formation Process
+Before delving into the group presentations, it’s worth highlighting the emphasis placed on fostering connections among participants throughout the program. Given the diversity of the group—bringing together individuals from various parts of Europe and connecting local participants with those from abroad—several networking activities were organized to encourage collaboration and build a sense of community.
+
+To kick off the program, a group dinner was held on the first evening, providing a relaxed atmosphere for participants to socialize, get to know one another, and begin forming the bonds that would support their collaborative work throughout the week. Although initially planned for Sunday to allow for a smoother start, the dinner was moved to Monday to accommodate participants' travel schedules and logistical constraints. This adjustment proved effective, as the event succeeded in setting a welcoming tone for the days ahead, helping participants feel comfortable and more engaged in the activities that followed.
+
+We followed the “Speed dating” design with great success in encouraging interaction among participants. During this exercise, each participant gave a brief three-minute presentation about their academic or personal interests and motivations. This served as an initial icebreaker, allowing everyone to get acquainted and find common ground. At the end of the first day, a short presentation on research design, data sources, and strategies for developing research questions on political polarization was conducted to spark inspiration. Participants were then encouraged to brainstorm research ideas, either centered on specific substantive topics or methodological approaches. A shared document was used to compile project ideas, which later served as the basis for a public discussion on the second day and further structured the speed dating exercise.
+
+The most similar and most dissimilar group designs worked nicely, and interesting project ideas were proposed and evolved rapidly into collaborative work. After this, we moved into the final stage of group formation, where participants were invited to self-select into groups based on the project ideas that resonated with them the most. This flexible placement approach allowed participants to align themselves with projects they were genuinely passionate about, fostering intrinsic motivation and engagement. This strategy proved highly effective, enabling participants to leverage both shared interests and diverse perspectives, ultimately leading to the rapid evolution of collaborative project ideas that would be showcased in the final presentations.
+
+#### Project Development
+Five research projects were proposed, and research designs were presented and publicly discussed by participants and by three instructors. These initial presentations were useful in streamlining the project designs and configuring the final groups.  
+As three participants left the summer school (one of them had justified reasons for work-related incidents), four groups were finally formed and participants worked on their projects with the support of the course instructors for approximately eight hours over two days.
+
+#### Final Presentations
+The four groups presented their research projects in a two-hour session in the presence of another professor and the SICSS instructors. The purpose of this session was to have comments, suggestions and feedback for improving the final presentation of their work, which was delivered to a large audience of experts and practitioners in the second week.
+- “Evolution of Toxicity in Influencers’ Political Discourse: Impact of Key Political Events” performed a longitudinal analysis of content from selected influencers on YouTube in order to measure changes in toxicity and sentiment over time and the effect of major political events.
+- “The drivers of press-covered evictions” studied media selection of house eviction cases in Catalonia and described spatial and temporal biases. Data from press archives and judicial records was used to apply event-extraction techniques.
+- “Taking Position between the River and the Sea” studied the differences and the interplay between national, European, and international arenas of political claims on the Palestine issue. Using data from interventions in the United Nations General Assembly, European Parliament proceedings, and the EU member-state parliament proceedings, they use multiple scaling approaches to measure country, European parties and national parties' positions.
+- “Media Myopia: How Media Outlets Cover Events Beyond Their Home Base” Investigates how (Spanish) media outlets cover events outside their home base, focusing on the influence of geographic, cultural and social distances on coverage patterns and sentiment. They use GDELT and social mobility data to explore the geographic and cultural distance that media outlets cover events. Linguistic features, social ties (e.g., mobility patterns, friendship networks) and measures of cultural distance are used to explain variations in coverage.
+
+Some of the participants stated their intent to continue working on their project and develop their full potential in a longer time-frame. No funding was available to finance these initiatives, but SICSS instructors offered their support for any task in which they can collaborate.
+
+
+<h2 class="display-4" id="uruguay">SICSS-Uruguay</h2>
+
+SICSS-Uruguay was the first edition of the Summer Institute in Computational Social Science held in Uruguay, with 20 participants. It took place in Montevideo from July 24 to August 1, 2024, hosted and organized by the Methods and Data Access Unit (UMAD) at the Faculty of Social Sciences, Universidad de la República.
+
+The first week focused on theoretical sessions facilitated by regional experts, introducing the central theme of the 7-day SICSS program: Political Polarization.
+The second week consisted of hands-on workshops and collaborative projects involving all participants.
+
+### 1. Outreach and Application Process
+As the first SICSS edition in Uruguay, UMAD engaged in extensive networking with academics, universities, and institutes in Chile, Argentina, and Uruguay to disseminate the program.
+SICSS-Uruguay was conducted entirely in Spanish to avoid language barriers for students, most of whom came from Latin American countries.
+
+Participation was aimed at Master’s and PhD students, as well as social science professionals (sociology, political science, communication, computational science, or related fields) interested in deepening their knowledge of computational methods and tools for analyzing social data.
+
+Three dissemination strategies were employed:
+
+Social media: Organizers posted organic content on their personal and institutional social media accounts, particularly on X (formerly Twitter) and LinkedIn.
+
+Direct communication: Emails were sent to universities, research institutes, and professional associations in Uruguay that work on computational social sciences or data analysis, requesting their support in promoting the event within their departments.
+
+Institutional newsletters: Announcements were shared via institutional newsletters of various faculties at Universidad de la República, particularly the newsletter of the Faculty of Social Sciences.
+
+The call for applications was deemed successful. Participants represented diverse social science profiles from more than five countries across Latin and North America, and a gender-balanced group was achieved.
+
+### 2. Pre-Arrival and Onboarding
+The SICSS-Uruguay organizing team maintained consistent contact with participants after their selection. International attendees were guided and supported in travel, accommodation, and local logistics.
+
+In the weeks prior to the official start, participants received the program structure and activity agenda, along with user credentials to access the Faculty’s virtual teaching platform. This platform hosted all materials presented and used during SICSS-Uruguay.
+
+The organizing team held multiple meetings to prepare and discuss each theoretical session and practical activity. For the latter, substantial effort went into data scraping to ensure a rich dataset was available for practical workshops.
+
+### 3. Projects
+The program’s content revolved around political polarization, media, social networks, and legislative processes.
+
+During the first week of classes, expert-led lectures covered:
+
+Political Polarization, Media, and Networks – Iván Schuliaquer (CONICET-UNSAM)
+
+PB-Call: Integrating Ideological Position and Political Cohesion in Legislative Voting Models – Sergio Toro (IMFD Chile)
+
+Echo Chambers in Social Networks in Uruguay – Martín Opertti (UMAD - Duke University)
+
+The second week was entirely hands-on, featuring a Natural Language Processing (NLP) workshop that introduced techniques for detecting ideological polarization in digital news articles from Uruguay’s leading news portal. Participants worked in sub-groups with daily practical assignments, followed by discussions of their results.
+
+
+<h2 class="display-4" id="calabar">SICSS-Calabar</h2>
+
+### 1. Introduction
+The Summer Institute in Computational Social Science (SICSS) Calabar 2024 was an exceptional
+gathering of individuals passionate about the intersection of data science and social issues.
+Organized by a diverse and dynamic team of experts, including SICSS alumni, academic
+professionals, and seasoned social entrepreneurs, the event served as a nexus for academics,
+industry professionals, postgraduate students, and university faculty, all united by their shared
+interest in leveraging data science techniques to address pressing societal challenges.
+
+This year’s edition stood out for its hybrid format, accommodating 15 in-person and 60 virtual
+participants, a departure from previous years where the event was exclusively in-person.
+Among the virtual attendees, an average of 47 participants remained consistent throughout the
+program, demonstrating the effort to make the program more inclusive and widely accessible.
+
+The organizing committee setup which adopted a town-and-gown approach comprised
+members of Academic Hive (Juliet John Inyang, Grace Ihejiamaizu Paul-Anietie, Augustine
+Ogbaji Otobi, and John Inyang), and academic professors from the University of Calabar
+(Professor Bassey Igri Okon, Professor Enang Udah, and Professor Grace Etuk). SICSS Calabar
+2024 boasted a wealth of expertise from various fields, economics, statistics, computer science,
+agriculture, social sciences and business management.
+
+In addition, the event saw the invaluable contribution of guest facilitators, adding a rich layer of
+knowledge and insight to the proceedings. Academic Hive spearheaded the organization, with
+generous funding from the Templeton World Charity Foundation. This financial support covered
+facilitators' honorarium, venue rentals, travel expenses, data support for virtual participants,
+and more, ensuring the event ran smoothly and offered participants the best possible
+experience.
+
+The impact of SICSS Calabar 2024 extended beyond the event itself, with media coverage from
+reputable sources such as Opportunity Desk, UNICAL Radio, and other reputable media outlets.
+This attention highlighted the significance and relevance of the event in addressing critical social
+issues through data science.
+
+In this post-event report, we will showcase the key highlights, insights, and accomplishments of
+SICSS Calabar 2024, providing a comprehensive overview of the event's success and its
+contribution to the field of data science and social problem-solving.
+
+### 2. Outreach and Application Process
+Following the grant award, a call for applications ran from July 10 to 31, 2024, and was shared
+through various platforms such as the SICSS Calabar webpage, Academic Hive, Opportunity
+Desk, and their accompanying social media accounts. Due to the poor response to the call for
+applications, the program dates were postponed from June 17 - 28 to September 23 - 28, 2024.
+
+### 3. Pre-arrival, onboarding, and participation analysis
+A total of 75 (15 in-person and 60 virtual participants) participants were carefully selected
+following a rigorous selection process with specific attention to current demonstrated interest
+in data science and high potential to impact others with knowledge gained. The participants
+were encouraged to take the official pre-SICSS boot camp course. This made it easier for them to
+learn effectively as the programming language used was R.
+
+### 4. Mode of lecture delivery
+SICSS-Calabar engaged facilitators located within and outside Nigeria. This necessitated the
+hybrid nature of the lectures. External facilitators participated virtually via Zoom, a few others
+provided pre-recorded video lectures and were available online to answer questions during
+their sessions. They used presentation slides to deliver their content effectively. These lecture
+materials were posted on SICSS Calabar 2024 Slack channel in real time, enabling participants to
+follow the lectures seamlessly.
+
+### 5. Lectures and Group Project
+The week-long event provided an introduction to SICSS and computational social sciences,
+covering topics such as understanding polarization research, applied data science with R,
+creating dashboards to explore polarized views on AI using R, big data modeling, and web
+scraping. In addition to the technical workshop, lectures were delivered on research speed
+dating - to understand the research interests of the participants, polarized perspectives on
+gender-based productivity, Machine learning algorithms and analytics, bridging research and
+policy for national and global Impact, and research proposal presentations.
+
+47 participants worked on three collaborative projects involving the use of computational social
+science methods (modeling, web scraping, machine learning) to address social issues like
+polarized views on elections, climate change perceptions and their effects on Africa’s economic
+development, and climate change impacts on food security, health, and oil exploration
+communities.
+
+Group project presentations were reviewed by the Directorate of Research and Development,
+University of Calabar. Following the presentations, certificates of participation were awarded.
+The 1-week program concluded with a fun tour to further build rapport and teamwork among
+participants ahead of their post-SICSS group projects.
+
+### 6. Challenges and Lessons Learned
+The major challenges experienced were technical, largely relating to unstable internet
+connectivity at the training venue and slow loading time of some of the participants’
+computers. To mitigate these challenges, a tech-support company was hired to provide
+unlimited Wi-Fi connectivity throughout the training duration, and a few laptops with dedicated
+high-end graphics cards were provided to the affected participants.
+
+For the next SICSS, participants will be pre-informed on the minimum computer specification
+requirement to have for a successful learning experience. Adding to this, requisite software,
+packages, and course content for the entire session would be sent in advance, to cut down
+physical installation of the requisite packages during the training session.
+
+### 7. Post-SICSS Impact and Testimonials
+A major goal of SICSS-Calabar was to train professionals who had the potential to train others or
+create an impact in their respective fields.
+
+Some testimonial excerpts are as follows:
+- (links for materials and testimonials missing)
+- Selected textual testimonials as retrieved from Feedback forms:
+
+> “I have interest in computational and data Science, I was taking a course with University of Harvard on Python programming. My experience in SICSS-Calabar had made the program easier for me. I will say SICSSCalabar is my gateway to many other computational skills I had long desired.” – RAYMOND EWORO
+
+> “With a delighted heart, I appreciate everyone for the opportunity tomeet brilliant minds ones more. My transition from coding novice to coding expert was within two days. I sincerely appreciate the teams and the leaders from which team minds were imbibed in many hearts.”. - EDISE NDIOHO
+
+> “I want to really appreciate the SICSS team very much for putting such a wonderful Academic learning activity my special thanks go to the organizing team for always attaining to our needs. On the whole thank you I really enjoy learning from industry expert.” – John Effiong
+
+> “When I arrived Calabar I was expecting to meet very matured and elderly men/women who are organizing the event and to welcome me for the program. I was shocked and impressed to see young people I could relate with handling their different roles diligently.” – PREYE OBA
