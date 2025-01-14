@@ -1,6 +1,0 @@
-image: /assets/images/placeholderPic.png  # Add location image to assets/images/ and update here.
-title: [[NAME]]
-subtitle: [[LOCATION]]
-description: "[[START_DATE]] to [[END_DATE]], [[YEAR]]"
-link: [[NAME]]
-year: [[YEAR]]
