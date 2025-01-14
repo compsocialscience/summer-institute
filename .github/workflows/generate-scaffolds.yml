@@ -1,0 +1,56 @@
+name: Generate Site Scaffolds
+
+on:
+  workflow_dispatch:
+    inputs:
+      sites_data:
+        description: 'CSV data for sites (header row: YEAR,NAME,LOCATION,START_DATE,END_DATE)'
+        required: true
+        type: string
+
+jobs:
+  generate-scaffolds:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # Full history needed to check previous years
+        sparse-checkout: |
+          /*
+          !assets/
+          !*/materials/
+        sparse-checkout-cone-mode: false
+      
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pandas
+        
+    - name: Create and process input CSV
+      run: |
+        # Create CSV with proper line breaks
+        echo "${{ github.event.inputs.sites_data }}" | sed 's/ 2025/\n2025/g' > sites.csv
+        echo "CSV contents:"
+        cat sites.csv
+        
+    - name: Run scaffold generator
+      run: python .github/scripts/generate_site_scaffolds.py
+      
+    - name: Commit and push if changes exist
+      run: |
+        if [[ -n "$(git status --porcelain)" ]]; then
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git commit -m "Generate site scaffolds from CSV"
+          git push
+        else
+          echo "No changes to commit"
+        fi
