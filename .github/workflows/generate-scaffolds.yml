@@ -1,15 +1,13 @@
 name: Generate Site Scaffolds
+
 on:
   workflow_dispatch:
     inputs:
       sites_data:
-        description: 'CSV data for sites (header row: YEAR,NAME,other_fields...)'
+        description: 'CSV data for sites (header row: YEAR,NAME,LOCATION,START_DATE,END_DATE)'
         required: true
         type: string
-      debug_mode:
-        description: 'Enable debug output'
-        type: boolean
-        default: true
+
 jobs:
   generate-scaffolds:
     runs-on: ubuntu-latest
@@ -22,6 +20,7 @@ jobs:
         sparse-checkout: |
           /*
           !assets/
+          !*/materials/
         sparse-checkout-cone-mode: false
       
     - name: Set up Python
@@ -34,41 +33,24 @@ jobs:
         python -m pip install --upgrade pip
         pip install pandas
         
-    - name: Debug Repository Structure
-      if: inputs.debug_mode
+    - name: Create and process input CSV
       run: |
-        echo "Current directory structure:"
-        ls -R
-        echo "Content of template directories:"
-        ls -la .20XX_template || echo ".20XX_template not found"
-        ls -la *data/.template || echo "*data/.template not found"
-        
-    - name: Create and Verify Input CSV
-      run: |
-        echo "Creating sites.csv with content:"
-        echo "${{ github.event.inputs.sites_data }}" | tee sites.csv
-        echo "Verifying CSV content:"
+        # Create CSV with proper line breaks
+        echo "${{ github.event.inputs.sites_data }}" | sed 's/ 2025/\n2025/g' > sites.csv
+        echo "CSV contents:"
         cat sites.csv
-        echo "CSV file size: $(wc -c < sites.csv) bytes"
         
     - name: Run scaffold generator
-      run: python -v .github/scripts/generate_site_scaffolds.py
-      env:
-        DEBUG: ${{ inputs.debug_mode }}
+      run: python .github/scripts/generate_site_scaffolds.py
       
-    - name: Check for Changes
-      id: check_changes
+    - name: Commit and push if changes exist
       run: |
-        git status
-        # Set output based on whether there are changes
-        git diff --quiet && echo "changes_exist=false" >> $GITHUB_OUTPUT || echo "changes_exist=true" >> $GITHUB_OUTPUT
-        
-    - name: Commit and push changes
-      if: steps.check_changes.outputs.changes_exist == 'true'
-      run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        git add .
-        git status
-        git commit -m "Generate site scaffolds from CSV" || echo "No changes to commit"
-        git push
+        if [[ -n "$(git status --porcelain)" ]]; then
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git commit -m "Generate site scaffolds from CSV"
+          git push
+        else
+          echo "No changes to commit"
+        fi
