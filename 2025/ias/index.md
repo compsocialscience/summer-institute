@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: ias
 main: true
-image: /assets/images/placeholderPic.png
+image: /assets/images/ias_norrkoping.jpg
 ---
 
 [//]: # (ORGANIZERS: Update the info to match your location. Add a site image to /assets/images/ and update the placeholder URL above to match it. See _data/2025/IAS for yml files that control the header content, location info on general sites page, people lists, and sidebar.)

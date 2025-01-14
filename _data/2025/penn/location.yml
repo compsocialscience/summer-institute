@@ -1,7 +1,6 @@
-# This file controls how your site will display in the general SICSS locations list.
-image: /assets/images/placeholderPic.png  # Add location image to /assets/images/ and update here.
+image: /assets/images/penn.jpg
 title: Penn
-subtitle: University of Pennsylvania, Philadelphia, PA, USA
+subtitle: University of Pennsylvania, Philadelphia
 description: "June 30 to July 11, 2025"
 link: penn
 year: 2025
