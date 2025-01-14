@@ -1,4 +1,4 @@
-name: Generate Location Site Scaffolds
+name: Generate Site Scaffolds
 
 on:
   workflow_dispatch:
@@ -11,6 +11,9 @@ on:
 jobs:
   generate-scaffolds:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
     
     steps:
     - name: Checkout repository
@@ -32,13 +35,40 @@ jobs:
       run: |
         echo "${{ github.event.inputs.sites_data }}" > sites.csv
         
+    - name: Create new branch
+      run: |
+        branch_name="scaffold-generation-$(date +%Y%m%d-%H%M%S)"
+        git checkout -b $branch_name
+        echo "BRANCH_NAME=$branch_name" >> $GITHUB_ENV
+        
     - name: Run scaffold generator
       run: python .github/scripts/generate_site_scaffolds.py
       
-    - name: Commit and push changes
+    - name: Commit changes
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add .
         git commit -m "Generate site scaffolds from CSV" || echo "No changes to commit"
-        git push
+        
+    - name: Push changes
+      run: |
+        git push origin ${{ env.BRANCH_NAME }}
+        
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v5
+      with:
+        title: 'Generate new site scaffolds'
+        body: |
+          This PR was automatically created by the Generate Site Scaffolds action.
+          
+          Please review the generated scaffolds for:
+          - Correct directory structure
+          - Proper file content and replacements
+          - Image assignments
+          - Any potential issues
+          
+          Generated from workflow run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        branch: ${{ env.BRANCH_NAME }}
+        base: master
+        delete-branch: true  # Branch will be deleted after PR is merged
