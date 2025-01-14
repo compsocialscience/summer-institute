@@ -7,13 +7,14 @@ on:
         description: 'CSV data for sites (header row: YEAR,NAME,other_fields...)'
         required: true
         type: string
+      debug_mode:
+        description: 'Enable debug output'
+        type: boolean
+        default: true
 
 jobs:
   generate-scaffolds:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      pull-requests: write
     
     steps:
     - name: Checkout repository
@@ -31,44 +32,41 @@ jobs:
         python -m pip install --upgrade pip
         pip install pandas
         
-    - name: Create input CSV
+    - name: Debug Repository Structure
+      if: inputs.debug_mode
       run: |
-        echo "${{ github.event.inputs.sites_data }}" > sites.csv
+        echo "Current directory structure:"
+        ls -R
+        echo "Content of template directories:"
+        ls -la .20XX_template || echo ".20XX_template not found"
+        ls -la _data/.template || echo "_data/.template not found"
         
-    - name: Create new branch
+    - name: Create and Verify Input CSV
       run: |
-        branch_name="scaffold-generation-$(date +%Y%m%d-%H%M%S)"
-        git checkout -b $branch_name
-        echo "BRANCH_NAME=$branch_name" >> $GITHUB_ENV
+        echo "Creating sites.csv with content:"
+        echo "${{ github.event.inputs.sites_data }}" | tee sites.csv
+        echo "Verifying CSV content:"
+        cat sites.csv
+        echo "CSV file size: $(wc -c < sites.csv) bytes"
         
     - name: Run scaffold generator
-      run: python .github/scripts/generate_site_scaffolds.py
+      run: python -v .github/scripts/generate_site_scaffolds.py
+      env:
+        DEBUG: ${{ inputs.debug_mode }}
       
-    - name: Commit changes
+    - name: Check for Changes
+      id: check_changes
+      run: |
+        git status
+        # Set output based on whether there are changes
+        git diff --quiet && echo "changes_exist=false" >> $GITHUB_OUTPUT || echo "changes_exist=true" >> $GITHUB_OUTPUT
+        
+    - name: Commit and push changes
+      if: steps.check_changes.outputs.changes_exist == 'true'
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add .
+        git status
         git commit -m "Generate site scaffolds from CSV" || echo "No changes to commit"
-        
-    - name: Push changes
-      run: |
-        git push origin ${{ env.BRANCH_NAME }}
-        
-    - name: Create Pull Request
-      uses: peter-evans/create-pull-request@v5
-      with:
-        title: 'Generate new site scaffolds'
-        body: |
-          This PR was automatically created by the Generate Site Scaffolds action.
-          
-          Please review the generated scaffolds for:
-          - Correct directory structure
-          - Proper file content and replacements
-          - Image assignments
-          - Any potential issues
-          
-          Generated from workflow run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
-        branch: ${{ env.BRANCH_NAME }}
-        base: master
-        delete-branch: true  # Branch will be deleted after PR is merged
+        git push
