@@ -1,5 +1,4 @@
 name: Generate Site Scaffolds
-
 on:
   workflow_dispatch:
     inputs:
@@ -11,7 +10,6 @@ on:
         description: 'Enable debug output'
         type: boolean
         default: true
-
 jobs:
   generate-scaffolds:
     runs-on: ubuntu-latest
@@ -21,6 +19,10 @@ jobs:
       uses: actions/checkout@v4
       with:
         fetch-depth: 0  # Full history needed to check previous years
+        sparse-checkout: |
+          /*
+          !assets/
+        sparse-checkout-cone-mode: false
       
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -39,7 +41,7 @@ jobs:
         ls -R
         echo "Content of template directories:"
         ls -la .20XX_template || echo ".20XX_template not found"
-        ls -la _data/.template || echo "_data/.template not found"
+        ls -la *data/.template || echo "*data/.template not found"
         
     - name: Create and Verify Input CSV
       run: |
