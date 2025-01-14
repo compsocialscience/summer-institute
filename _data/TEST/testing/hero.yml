@@ -1,3 +1,0 @@
-# This file determines the header text and subtitle displaying at the top of each of your site's pages.
-header_2: "[[START_DATE]] to [[END_DATE]], [[YEAR]] | [[LOCATION]]"
-location: "SICSS-[[NAME]]"
