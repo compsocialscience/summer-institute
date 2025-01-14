@@ -11,6 +11,9 @@ on:
 jobs:
   generate-scaffolds:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
     
     steps:
     - name: Checkout repository
@@ -40,17 +43,24 @@ jobs:
         echo "CSV contents:"
         cat sites.csv
         
+    - name: Validate CSV format
+      run: |
+        if ! head -n 1 sites.csv | grep -q "YEAR,NAME,LOCATION,START_DATE,END_DATE"; then
+          echo "CSV header does not match expected format"
+          exit 1
+        fi
+        
     - name: Run scaffold generator
       run: python .github/scripts/generate_site_scaffolds.py
       
-    - name: Commit and push if changes exist
-      run: |
-        if [[ -n "$(git status --porcelain)" ]]; then
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add .
-          git commit -m "Generate site scaffolds from CSV"
-          git push
-        else
-          echo "No changes to commit"
-        fi
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v6
+      with:
+        title: 'Generate site scaffolds from CSV'
+        body: |
+          Automated PR to generate site scaffolds from provided CSV data.
+          
+          Please review the generated files before merging.
+        branch: create-site-scaffolds
+        delete-branch: true
+        commit-message: 'Generate site scaffolds from CSV'

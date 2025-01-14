@@ -36,6 +36,8 @@ def clean_path_name(name):
 
 def find_most_recent_image(root_dir, current_year, location_name):
     """Find the most recent header image for a given location from previous years."""
+    root_dir = root_dir.parent.parent
+    
     current_year = int(current_year)
     
     for year in range(current_year - 1, 2016, -1):
@@ -56,9 +58,9 @@ def find_most_recent_image(root_dir, current_year, location_name):
     return '/assets/images/tbd.jpg'
 
 def replace_tags_in_file(file_path, replacements):
+    root_dir = Path.cwd().parent.parent
+    
     try:
-        root_dir = Path.cwd()
-        
         with open(file_path, 'r', encoding='utf-8') as f:
             content = f.read()
         
@@ -121,21 +123,22 @@ def generate_scaffolds(csv_path):
     try:
         print("Starting scaffold generation...")
         debug_print(f"Working directory: {os.getcwd()}")
-        debug_print(f"Directory contents: {os.listdir()}")
         
+        print(f"Reading CSV file: {csv_path}")
         df = pd.read_csv(csv_path)
         print(f"Read CSV file with {len(df)} rows")
         validate_csv(df)
         
-        root_dir = Path.cwd()
+        root_dir = Path.cwd().parent.parent
         template_dir = root_dir / '.20XX_template'
         data_template_dir = root_dir / '_data' / '.template'
         
-        debug_print(f"Template directory exists: {template_dir.exists()}")
-        debug_print(f"Data template directory exists: {data_template_dir.exists()}")
-        
         if not template_dir.exists() or not data_template_dir.exists():
-            raise FileNotFoundError(f"Template directories not found. Looked in: {template_dir}, {data_template_dir}")
+            raise FileNotFoundError(
+                "Template directories not found. Please ensure both exist:\n"
+                f"  - {template_dir}\n"
+                f"  - {data_template_dir}"
+            )
         
         processed_years = set()
         created_files = []
@@ -198,5 +201,10 @@ def generate_scaffolds(csv_path):
         print(f"Fatal error: {e}", file=sys.stderr)
         raise
 
-if __name__ == "__main__":    
-    generate_scaffolds('sites.csv')
+if __name__ == "__main__":
+    try:
+        csv_path = sys.argv[1] if len(sys.argv) > 1 else 'sites.csv'
+        generate_scaffolds(csv_path)
+    except Exception as e:
+        print(f"Error: {e}", file=sys.stderr)
+        sys.exit(1)
