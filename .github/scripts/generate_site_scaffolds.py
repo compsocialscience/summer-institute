@@ -125,7 +125,8 @@ def generate_scaffolds(csv_path):
         debug_print(f"Working directory: {os.getcwd()}")
         
         print(f"Reading CSV file: {csv_path}")
-        df = pd.read_csv(csv_path)
+        df = pd.read_csv(csv_path, header=0)
+        debug_print(f"CSV columns: {df.columns.tolist()}")
         print(f"Read CSV file with {len(df)} rows")
         validate_csv(df)
         
