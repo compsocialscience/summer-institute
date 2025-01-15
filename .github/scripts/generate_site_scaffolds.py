@@ -123,8 +123,11 @@ def generate_scaffolds(csv_path):
     try:
         print("Starting scaffold generation...")
         
-        # Fix: Add index_col=None to prevent first column from becoming index
-        df = pd.read_csv(csv_path, header=0, index_col=None)
+        # Modified CSV reading to explicitly handle index
+        df = pd.read_csv(csv_path, index_col=None)
+        # Force YEAR column to be treated as a regular column
+        if 'YEAR' in df.columns:
+            df['YEAR'] = df['YEAR'].astype(str)
         print("\nCSV Contents:")
         print(df.head())
         
@@ -173,9 +176,13 @@ def generate_scaffolds(csv_path):
                 print(f"Error processing row {idx + 1}: {e}", file=sys.stderr)
                 continue
         
-        print("\nCreated the following files/directories:")
-        for file in created_files:
-            print(f"  {file}")
+        if created_files:
+            print("\nCreated the following files/directories:")
+            for file in created_files:
+                print(f"  {file}")
+        else:
+            print("\nNo new files or directories were created.")
+    
     except Exception as e:
         print(f"Fatal error: {e}", file=sys.stderr)
         raise
