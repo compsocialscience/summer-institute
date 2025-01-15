@@ -129,7 +129,7 @@ def generate_scaffolds(csv_path):
         print(f"Read CSV file with {len(df)} rows")
         validate_csv(df)
         
-        root_dir = Path(os.environ.get('GITHUB_WORKSPACE', Path.cwd().parent.parent))
+        root_dir = Path(os.environ.get('GITHUB_WORKSPACE', Path.cwd()))
         template_dir = root_dir / '.20XX_template'
         data_template_dir = root_dir / '_data' / '.template'
         
@@ -158,8 +158,8 @@ def generate_scaffolds(csv_path):
                 replacements = {col: str(value) for col, value in row.items()}
                 debug_print(f"Replacements: {replacements}")
                 
-                year_dir = root_dir / year
-                data_year_dir = root_dir / '_data' / year
+                year_dir = root_dir / str(year)
+                data_year_dir = root_dir / '_data' / str(year)
                 
                 # Create directories
                 for dir_path in [year_dir, data_year_dir]:
@@ -169,7 +169,7 @@ def generate_scaffolds(csv_path):
                         created_files.append(str(dir_path))
                 
                 target_dir = year_dir / path_name
-                data_target_dir = root_dir / '_data' / year / path_name
+                data_target_dir = data_year_dir / path_name
                 
                 if target_dir.exists() or data_target_dir.exists():
                     print(f"Skipping {year}/{path_name} - directory already exists")
