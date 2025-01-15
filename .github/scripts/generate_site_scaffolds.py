@@ -123,8 +123,8 @@ def generate_scaffolds(csv_path):
     try:
         print("Starting scaffold generation...")
         
-        # Read CSV and print contents for verification
-        df = pd.read_csv(csv_path, header=0)
+        # Fix: Add index_col=None to prevent first column from becoming index
+        df = pd.read_csv(csv_path, header=0, index_col=None)
         print("\nCSV Contents:")
         print(df.head())
         
