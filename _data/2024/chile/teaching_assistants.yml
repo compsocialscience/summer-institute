@@ -1,3 +1,7 @@
+- name: Adolfo Fuentes
+  image: /assets/images/fuentes2024.png
+  bio: "Adolfo Fuentes Jofré is a Ph.D. candidate in Social Complexity Science at Universidad del Desarrollo, Chile, where he lectures on Network Science in the Master in Data Science program. He holds a Bachelor’s degree in Industrial Engineering and a Master of Science in Engineering from Universidad Diego Portales, as well as a Master’s degree in Data Science from Universidad del Desarrollo. Additionally, he has completed diplomas in Business Intelligence, Cognitive Neuroscience, and Big Data Analytics. With over a decade of professional experience, Adolfo specializes in actionable predictive modeling, leveraging Machine Learning and Deep Learning techniques for user behavior prediction, segmentation, and personalization. His work spans industries such as retail and services, focusing on Marketing, Commercial Strategy, and Customer Care. Adolfo’s research intersects computational social science and artificial intelligence, exploring political polarization and the quantification of mass political ideology through innovative AI algorithms. His current work aims to develop frameworks for autonomous decision-making systems, contributing to the foundation of a digital democracy.  "
+
 - name: Ignacio Ormazabal
   image: /assets/images/Ormazabal2024.png
   bio: "Ignacio Ormazábal is a physicist and postdoctoral researcher at the Computational Research in Social Sciences Laboratory, UDD. With experience studying complex systems and interdisciplinary applications of statistical physics, he researches political polarization through data analysis, complex networks, and human behavior experiments."
@@ -5,6 +9,10 @@
 - name: Jorge Ortiz
   image: /assets/images/ortiz2024.png
   bio: "Jorge Ortiz Fuentes is a specialist in artificial intelligence and natural language processing, with a background in linguistics and a Master's degree in Computer Science. He currently works as a Machine Learning Engineer at LATAM Airlines, focusing on improving and deploying machine learning models and implementing solutions with generative artificial intelligence. Additionally, he has contributed to open source projects, such as the creation of language models trained in Chilean Spanish and the development of NLP tools."
+
+- name: "Felipe Urrutia
+  image: /assets/images/urrutia2024.png
+  bio: "Felipe Urrutia is a double-degree candidate in Mathematical Engineering and a Master's in Computer Science at the University of Chile. He serves as a research assistant at the Centro Nacional de Inteligencia Artificial (CENIA), where his current research focuses on the expressivity and limitations of transformers, the backbone of the most relevant architectures for large language models. Felipe was a collaborator on both editions of the first Latin American Index of Artificial Intelligence (ILIA) and has served as an assistant professor, teaching courses on sociotechnical algorithms in social networks and fairness in machine learning. His academic contributions include Q1 journal publications in the intersection of education and computation, as well as an A*-level conference publication on explainability in natural language processing."
 
    
 
