@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       sites_data:
-        description: 'CSV data for sites (header row: YEAR,NAME,LOCATION,START_DATE,END_DATE)'
+        description: 'CSV data for sites. Use \n for line breaks. Format: YEAR,NAME,LOCATION,START_DATE,END_DATE\nYEAR,NAME,LOCATION,START_DATE,END_DATE'
         required: true
         type: string
 
@@ -19,7 +19,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        fetch-depth: 0  # Full history needed to check previous years
+        fetch-depth: 0
         sparse-checkout: |
           /*
           !assets/
@@ -38,8 +38,7 @@ jobs:
         
     - name: Create and process input CSV
       run: |
-        # Create CSV with proper line breaks
-        echo "${{ github.event.inputs.sites_data }}" | sed 's/ 2025/\n2025/g' > sites.csv
+        echo -e "${{ github.event.inputs.sites_data }}" > sites.csv
         echo "CSV contents:"
         cat sites.csv
         
