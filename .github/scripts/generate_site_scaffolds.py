@@ -129,9 +129,13 @@ def generate_scaffolds(csv_path):
         print(f"Read CSV file with {len(df)} rows")
         validate_csv(df)
         
-        root_dir = Path.cwd().parent.parent
+        root_dir = Path(os.environ.get('GITHUB_WORKSPACE', Path.cwd().parent.parent))
         template_dir = root_dir / '.20XX_template'
         data_template_dir = root_dir / '_data' / '.template'
+        
+        debug_print(f"Looking for templates in:")
+        debug_print(f"  - {template_dir}")
+        debug_print(f"  - {data_template_dir}")
         
         if not template_dir.exists() or not data_template_dir.exists():
             raise FileNotFoundError(

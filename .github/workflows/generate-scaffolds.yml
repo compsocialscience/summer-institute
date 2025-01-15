@@ -50,7 +50,11 @@ jobs:
         fi
         
     - name: Run scaffold generator
-      run: python .github/scripts/generate_site_scaffolds.py
+      working-directory: ${{ github.workspace }}
+      run: |
+        echo "Working directory: $(pwd)"
+        ls -la
+        python .github/scripts/generate_site_scaffolds.py
       
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v6
