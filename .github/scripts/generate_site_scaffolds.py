@@ -158,8 +158,8 @@ def generate_scaffolds(csv_path):
                 replacements = {col: str(value) for col, value in row.items()}
                 debug_print(f"Replacements: {replacements}")
                 
-                year_dir = root_dir / str(year)
-                data_year_dir = root_dir / '_data' / str(year)
+                year_dir = root_dir / year
+                data_year_dir = root_dir / '_data' / year
                 
                 # Create directories
                 for dir_path in [year_dir, data_year_dir]:
