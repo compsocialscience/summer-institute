@@ -123,8 +123,11 @@ def generate_scaffolds(csv_path):
     try:
         print("Starting scaffold generation...")
         
-        # Reset index after reading to ensure YEAR is a column
-        df = pd.read_csv(csv_path).reset_index(drop=True)
+        # Modified CSV reading to explicitly handle index
+        df = pd.read_csv(csv_path, index_col=False)
+        # Force YEAR column to be treated as a regular column
+        if 'YEAR' in df.columns:
+            df['YEAR'] = df['YEAR'].astype(str)
         print("\nCSV Contents:")
         print(df.head())
         
