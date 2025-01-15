@@ -175,13 +175,6 @@ def generate_scaffolds(csv_path):
             except Exception as e:
                 print(f"Error processing row {idx + 1}: {e}", file=sys.stderr)
                 continue
-        
-        if created_files:
-            print("\nCreated the following files/directories:")
-            for file in created_files:
-                print(f"  {file}")
-        else:
-            print("\nNo new files or directories were created.")
     
     except Exception as e:
         print(f"Fatal error: {e}", file=sys.stderr)
