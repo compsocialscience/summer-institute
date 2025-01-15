@@ -122,43 +122,26 @@ def replace_tags_in_file(file_path, replacements):
 def generate_scaffolds(csv_path):
     try:
         print("Starting scaffold generation...")
-        debug_print(f"Working directory: {os.getcwd()}")
         
-        print(f"Reading CSV file: {csv_path}")
+        # Read CSV and print contents for verification
         df = pd.read_csv(csv_path, header=0)
-        debug_print(f"CSV columns: {df.columns.tolist()}")
-        print(f"Read CSV file with {len(df)} rows")
-        validate_csv(df)
+        print("\nCSV Contents:")
+        print(df.head())
         
         root_dir = Path(os.environ.get('GITHUB_WORKSPACE', Path.cwd()))
         template_dir = root_dir / '.20XX_template'
         data_template_dir = root_dir / '_data' / '.template'
         
-        debug_print(f"Looking for templates in:")
-        debug_print(f"  - {template_dir}")
-        debug_print(f"  - {data_template_dir}")
-        
-        if not template_dir.exists() or not data_template_dir.exists():
-            raise FileNotFoundError(
-                "Template directories not found. Please ensure both exist:\n"
-                f"  - {template_dir}\n"
-                f"  - {data_template_dir}"
-            )
-        
-        processed_years = set()
-        created_files = []
-        
         for idx, row in df.iterrows():
             try:
+                # Get values and print for verification
                 year = str(row['YEAR'])
                 name = str(row['NAME'])
-                print(f"\nProcessing row {idx + 1}: {year} - {name}")
+                print(f"\nProcessing: Year={year}, Name={name}")
                 
                 path_name = clean_path_name(name)
                 
-                replacements = {col: str(value) for col, value in row.items()}
-                debug_print(f"Replacements: {replacements}")
-                
+                # Create year-based directories
                 year_dir = root_dir / year
                 data_year_dir = root_dir / '_data' / year
                 
@@ -167,8 +150,8 @@ def generate_scaffolds(csv_path):
                     if not dir_path.exists():
                         print(f"Creating directory: {dir_path}")
                         dir_path.mkdir(parents=True, exist_ok=True)
-                        created_files.append(str(dir_path))
                 
+                # Create site-specific directories under year
                 target_dir = year_dir / path_name
                 data_target_dir = data_year_dir / path_name
                 
@@ -177,31 +160,22 @@ def generate_scaffolds(csv_path):
                     continue
                 
                 print(f"Creating scaffolds for {year}/{path_name}")
-                debug_print(f"Copying from {template_dir / '[[NAME]]'} to {target_dir}")
-                debug_print(f"Copying from {data_template_dir / '[[NAME]]'} to {data_target_dir}")
-                
                 shutil.copytree(template_dir / '[[NAME]]', target_dir)
                 shutil.copytree(data_template_dir / '[[NAME]]', data_target_dir)
-                created_files.extend([str(target_dir), str(data_target_dir)])
                 
                 for dir_path in [target_dir, data_target_dir]:
                     for file_path in dir_path.rglob('*'):
                         if file_path.is_file() and file_path.suffix in ['.md', '.yml']:
                             print(f"Processing file: {file_path}")
-                            replace_tags_in_file(file_path, replacements)
-                            created_files.append(str(file_path))
+                            replace_tags_in_file(file_path, row)
             
             except Exception as e:
                 print(f"Error processing row {idx + 1}: {e}", file=sys.stderr)
                 continue
         
-        if created_files:
-            print("\nCreated the following files/directories:")
-            for file in created_files:
-                print(f"  {file}")
-        else:
-            print("\nNo new files or directories were created.")
-    
+        print("\nCreated the following files/directories:")
+        for file in created_files:
+            print(f"  {file}")
     except Exception as e:
         print(f"Fatal error: {e}", file=sys.stderr)
         raise
