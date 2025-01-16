@@ -1,6 +1,0 @@
-- name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
-
-# Add more participants with the same format as above...
