@@ -350,3 +350,19 @@ figure figcaption {
   font-weight: 400;
   line-height: normal;
 }
+#featured-stories-title {
+  font-family: Roboto;
+  font-size: 31px;
+  font-weight: 900;
+  margin-bottom: 20px;
+}
+#featured-stories-subtitle{
+  font-family: Roboto;
+  font-size: 21px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+.featured-image-list {
+  height: 200px;
+  object-fit: cover;
+}

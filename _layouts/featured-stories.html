@@ -1,0 +1,36 @@
+{% include setup_data.html %}
+<!DOCTYPE html>
+<html lang="en" class="year_{{ year }}">
+  <head>
+    {% include header.html %}
+  </head>
+  <body class="sub-page">
+    {% include navbar.html %}
+    {% include hero_secondary.html %}
+    {% include breadcrumb.html %}
+
+    <div class="container">
+      <h2 id="featured-stories-title">Featured Stories</h2>
+      <h3 id="featured-stories-subtitle">Over 1,200 people have participated in the summer institutes. Many go on to do great things. Here are some recent stories...</h3>
+      <div class="row">
+        {% assign sorted_stories = site.stories | sort: 'date' | reverse %}
+        {% for story in sorted_stories %}
+          <div class="col-md-6 mb-4">
+            <div class="card h-100">
+              {% if story.image %}
+                <img src="{{ story.image }}" class="card-img-top featured-image-list" alt="{{ story.title }}">
+              {% endif %}
+              <div class="card-body">
+                <h5 class="card-title">{{ story.title }}</h5>
+                <p class="card-text">{{ story.excerpt | strip_html | truncatewords: 30 }}</p>
+                <a href="{{ story.url }}" class="btn btn-dark">Read More</a>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+
+    {% include footer.html %}
+  </body>
+</html>

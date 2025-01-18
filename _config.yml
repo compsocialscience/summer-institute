@@ -37,6 +37,9 @@ collections:
   videos:
     output: true
     permalink: /overview/:name
+  stories:
+    output: true
+    permalink: /stories/:path
 
 video_listing:
   search:
