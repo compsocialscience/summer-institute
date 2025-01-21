@@ -7,7 +7,7 @@ image: /assets/images/odissei-rotterdam.jpg
 
 [//]: # (ORGANIZERS: Update the info to match your location. Add a site image to /assets/images/ and update the placeholder URL above to match it. See _data/2025/ODISSEI for yml files that control the header content, location info on general sites page, people lists, and sidebar.)
 
-From June 16 to June 27, 2024, ODISSEI will host the Summer Institute in Computational Social Science, to be held at Erasmus University Rotterdam in cooperation with ODISSEI partner organizations. The purpose of the Summer Institute is to bring together PhD students, postdoctoral researchers, and early career faculty interested in computational social science. ODISSEI-SICSS is unique within the SICSS framework in focusing primarily on the analysis of administrative data. In this edition, the participants will be working with highly enriched data on firms and economic networks. The Summer Institute is for social scientists, economists, and data scientists.  
+From June 16 to June 27, 2025, ODISSEI will host the Summer Institute in Computational Social Science, to be held at Erasmus University Rotterdam in cooperation with ODISSEI partner organizations. The purpose of the Summer Institute is to bring together PhD students, postdoctoral researchers, and early career faculty interested in computational social science. ODISSEI-SICSS is unique within the SICSS framework in focusing primarily on the analysis of administrative data. In this edition, the participants will be working with highly enriched data on firms and economic networks. The Summer Institute is for social scientists, economists, and data scientists.  
 
 [ODISSEI](https://odissei-data.nl/) is the national infrastructure for Social Science in the Netherlands. Providing analytical tools and software, secure supercomputing power and expertise, ODISSEI is building an overarching and interlinked infrastructure to guide researchers through the rich datasets that are available in the Netherlands. SICSS-ODISSEI participants will be able to share their research, discuss their ideas and connect with other researchers in related fields, across the world.  
 
@@ -18,7 +18,7 @@ The instructional program will involve lectures, group problem sets, and partici
 
 We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 20 participants will be invited, and participants are expected to fully attend and participate in the entire two-week program.  
 
-Application materials are due 28 February 2024.
+Application materials are due 28 February 2025.
 
 
 [//]: # (ORGANIZERS: feel free to add a link to your application materials or your SICSS apply page above.)
