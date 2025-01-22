@@ -5,7 +5,14 @@
 
 - name: "Frankie Ho Chun Wong" # Add faculty name here.
   image: /assets/images/Wong.jpg  # Add faculty image to assets/images/ and update here.
-  bio: "Assistant Professor, Lingnan University." # Add faculty bio here.
+  bio: |
+  "Frankie Ho Chun Wong studies the intersection between digital media, health, and society. 
+  Frankie obtained his Ph.D. from Philip Merrill College of Journalism, University of Maryland, College Park. 
+  Prior to that, he worked at The University of Hong Kong on ageing and mental health research. 
+  Frankie employs machine learning, natural language processing, and mixed methods techniques, 
+  looking for nuances in the sea of data. His work examines how social and policy issues were 
+  shaped by new media and technology in the digital age, as well as the influence of social and demographic 
+  factors on media use and health outcomes." # Add faculty bio here.
   website: https://www.ln.edu.hk/socsp/people/academic-staff/professor-wong-ho-chun-frankie  # Link faculty website here.
 
 - name: "Tobias Kamelski" # Add faculty name here.
