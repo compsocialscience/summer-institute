@@ -27,7 +27,7 @@ Applicants must submit the following documents: 1) a curriculum vitae, 2) a stat
 - Your experience and/or interest in collaborative research. Carrying out a collaborative research project is a core component of SICSS-Lingnan.
 - A possible topic, method, or question you would like to focus on for a collaborative project
 
-**In order to be guaranteed full consideration, all application materials must be submitted by March 16.** All application materials must be submitted through this [Google Form](https://www.google.com) (form for this site not yet created). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 1st, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by March 16.** All application materials must be submitted through this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfAmXmM1EOOYJJgu42BxJJZHa5EXTvvLH4ioRhuPaVWz82CwQ/viewform?usp=header). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 1st, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to [franciscoolivosrave@LN.edu.hk](franciscoolivosrave@LN.edu.hk).
 
