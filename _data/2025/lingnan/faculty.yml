@@ -1,6 +1,12 @@
 - name: "Francisco Olivos" # Add faculty name here.
   image: /assets/images/Olivos.jpg  # Add faculty image to assets/images/ and update here.
-  bio: "Assistant Professor, Lingnan University." # Add faculty bio here.
+  bio: |
+    Francisco earned his Ph.D. in Sociology from The Chinese University of Hong Kong. He also holds 
+    a Master’s degree in Sociology and Social Research from Utrecht University, as well as a Master’s 
+    and Bachelor’s degree in Sociology from the Pontifical Catholic University of Chile. Since joining 
+    Lingnan University in August 2021, Francisco has focused his research on the intersections of cultural 
+    sociology, social stratification, and subjective well-being, employing quantitative and computational
+    methods to advance these fields. # Add faculty bio here.
   website: https://www.fjolivos.com/  # Link faculty website here.
 
 - name: "Frankie Ho Chun Wong" # Add faculty name here.
@@ -17,15 +23,30 @@
 
 - name: "Tobias Kamelski" # Add faculty name here.
   image: /assets/images/Kamelski.jpg  # Add faculty image to assets/images/ and update here.
-  bio: "PhD Candidate, Lingnan University." # Add faculty bio here.
+  bio: |
+    Tobias obtained his Master of Arts (Socio-cultural Studies) from the Faculty of Social and Cultural Sciences at  
+    European University Viadrina Frankfurt (Oder), Germany. Before that, he studied at the Rhine-Waal University 
+    of Applied Sciences and the Catholic University of Korea. In his research project, he investigates the anticipation
+    of attraction, self-presentation, and impression management utilizing computational image analysis. # Add faculty bio here.
   website: https://www.ln.edu.hk/socsp/people/postgraduate-students/tobias-kamelski  # Link faculty website here.
 
 - name: "Pablo Beytia" # Add faculty name here.
   image: /assets/images/Beytia.jpg  # Add faculty image to assets/images/ and update here.
-  bio: "Adjunct professor, Catholic University of Chile." # Add faculty bio here.
+  bio: |
+    He holds a Ph.D. from the Humboldt University of Berlin and is the director of Monitor Social (www.monitorsocial.cl), 
+    a company dedicated to creating systems that report real-time social indicators. His research focuses on how digital 
+    platforms frame information about humans, creating content inequalities that favor specific social groups. Pablo’s 
+    research interests include digital discourse, open knowledge, platform power, digital social memory, and artificial 
+    intelligence for social data reporting # Add faculty bio here.
   website: https://ptbeytia.github.io/  # Link faculty website here.
 
 - name: "Pedro Seguel" # Add faculty name here.
   image: /assets/images/Seguel.jpg  # Add faculty image to assets/images/ and update here.
-  bio: "Assistant Professor, Toronto Metropolitan University." # Add faculty bio here.
+  bio: |
+    Pedro Seguel's research focuses on understanding the evolution of technology and the changing landscape of IT job 
+    skills. He uses a combination of computational social sciences and traditional qualitative methods to study the 
+    factors behind digital innovation, the IT workforce, and developer communities. With an interdisciplinary background, 
+    he holds a Ph.D. (c) in Management of Information Systems from McGill University, an M.Sc. in Information Studies 
+    from the University of Texas at Austin, and an M.Sc. and B.Sc. in Sociology from the Pontifical Catholic University 
+    of Chile. # Add faculty bio here.
   website: https://www.torontomu.ca/information-technology-management/faculty-research/pedro-seguel/  # Link faculty website here.
