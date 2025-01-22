@@ -11,7 +11,7 @@ partner_site: london
 
 ## Eligibility
 
-We invite applicants from advanced Ph.D. students students, postdoctoral researchers, and faculty within 7 years of their Ph.D., who are able to attend the program in London, United Kingdom. We welcome applicants from all backgrounds and fields of study, particularly ... . About ... participants will be invited. However, there are no restrictions based on citizenship, country of study, or country of employment. 
+We invite applicants from advanced Ph.D. students students, postdoctoral researchers, and faculty within 7 years of their Ph.D., who are able to attend the program in London, United Kingdom. We welcome applicants from all backgrounds and fields of study, including computer science, physics, economics, finance, psychology, sociology, law, and organisational behaviour . About 30 participants will be invited. However, there are no restrictions based on citizenship, country of study, or country of employment. 
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp.
 
@@ -19,7 +19,7 @@ We evaluate applicants along a number of dimensions: 1) research and teaching in
 
 ## How To Apply
 
-Applicants must submit the following documents: 1) a curriculum vitae, 2) a statement (maximum two pages double-spaced) describing: 
+Applicants must submit the following documents: 1) a curriculum vitae (2 page max), 2) a statement (maximum one page) describing: 
 
 - Your current research
 - Why you want to participate in SICSS-London
