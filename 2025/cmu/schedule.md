@@ -6,6 +6,4 @@ schedule: true
 
 # Schedule
 
-** Under construction. Check back soon! **
-
-Our schedule can be seen [here](https://www.google.com). Our program will focus on ...
+**This page is under construction. Check back soon for more up-to-date info!**
