@@ -22,6 +22,8 @@ In order to prepare for SICSS-London 2025, we recommend you read Matt Salganikâ€
 
 ## Coding Boot Camp
 
+The [FreeCodeCamp](https://www.youtube.com/watch?v=rfscVS0vtbw) Learn Python - Full Course for Beginners is a free online tutorial that will teach you the basics for programming in python. If you know python basics, but would like to expand on data anlysis, we recoment the [Data Analysis with Python]([https://www.youtube.com/watch?v=rfscVS0vtbw](https://www.youtube.com/watch?v=r-uOLxNrNk8) course.
+
 The [SICSS Boot Camp](https://sicss.io/boot_camp) is an online training program created by Chris Bail to provide you with beginner level skills in coding so that you can follow the more advanced curriculum we teach at SICSS. The videos and materials are designed for complete beginners and are best viewed as a sequence since each video builds upon content introduced in previous tutorials. If you are already familiar with the topics in these videos, you do not need to complete them.
 
 If you would like more practice after completing the Boot Camp videos, some other materials that we can recommend are:
@@ -30,13 +32,13 @@ If you would like more practice after completing the Boot Camp videos, some othe
 - [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/), Taught by Charles Lanfear at University of Washington. This course includes videos of lectures, slides, and assignments.
 - [Learn R](https://www.codecademy.com/learn/learn-r), Code Academy.
 
-Please note that the majority of the coding work presented at SICSS-London 2025 will employ R. You are welcome to employ a language of your choice, such as Python, Julia, or other languages that are commonly used by computational social scientists.  However, we cannot support each of these languages.
+Please note that the majority of the coding work presented at SICSS-London 2025 will employ Python, with some excercise being done in R. However, eou are welcome to employ a language of your choice.
 
 ## Computing environment
 
-### R
+### R and Python
 
-Some of the activities will require coding, and we will support R. You are welcome to use other languages, but we cannot guarantee that we can support them. Before SICSS you should install a modern, stable-release version of [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/).
+Some of the activities will require coding. We recommend learning R and/or Python. Before SICSS you should install a modern, stable-release version of R or Python, for example [R](https://www.r-project.org/), [RStudio](https://rstudio.com/products/rstudio/download/), or [Python - Anaconda](https://www.anaconda.com/download-success).
 
 ### Slack
 
