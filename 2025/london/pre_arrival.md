@@ -22,7 +22,7 @@ In order to prepare for SICSS-London 2025, we recommend you read Matt Salganikâ€
 
 ## Coding Boot Camp
 
-The [FreeCodeCamp](https://www.youtube.com/watch?v=rfscVS0vtbw) Learn Python - Full Course for Beginners is a free online tutorial that will teach you the basics for programming in python. If you know python basics, but would like to expand on data anlysis, we recoment the [Data Analysis with Python]([https://www.youtube.com/watch?v=rfscVS0vtbw](https://www.youtube.com/watch?v=r-uOLxNrNk8) course.
+The [FreeCodeCamp](https://www.youtube.com/watch?v=rfscVS0vtbw) Learn Python - Full Course for Beginners is a free online tutorial that will teach you the basics for programming in python. If you know python basics, but would like to expand on data anlysis, we recomend the [Data Analysis with Python](https://www.youtube.com/watch?v=r-uOLxNrNk8) course.
 
 The [SICSS Boot Camp](https://sicss.io/boot_camp) is an online training program created by Chris Bail to provide you with beginner level skills in coding so that you can follow the more advanced curriculum we teach at SICSS. The videos and materials are designed for complete beginners and are best viewed as a sequence since each video builds upon content introduced in previous tutorials. If you are already familiar with the topics in these videos, you do not need to complete them.
 
