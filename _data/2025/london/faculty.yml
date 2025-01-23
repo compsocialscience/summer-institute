@@ -1,30 +1,30 @@
 - name: "TBD" # Add faculty name here.
-  image: /assets/images/London_2025_Faculty_Silvia_Bartolucci.png  # Add faculty image to assets/images/ and update here.
+  image: /assets/images/image_example.png  # Add faculty image to assets/images/ and update here.
   bio: "Check back soon for updates." # Add faculty bio here.
   website: google.com  # Link faculty website here.
 
-- name: "Maria del Rio-Chanona" # Add faculty name here.
-  image: /assets/images/London_2025_Faculty_Maria_delRioChanona.jpg  # Add faculty image to assets/images/ and update here.
-  bio: "Dr Maria del Rio-Chanona is a Lecturer (Assistant Professor) at University College London in the Computer Science department. Her research draws from network science, Large Language Models (LLM), as well as Agent-Based Models (ABM) to study the economic and employment impacts of the net-zero transition, the Covid-19 pandemic, and (Gen)AI.
-Maria completed her PhD in mathematics at the University of Oxford, where she was part of the complexity economics group of the Institute for New Economic Thinking, Oxford Martin School. She was a JSMF research fellow at the Complexity Science Hub, Vienna and a visiting scholar at the Harvard Kennedy School. Maria has worked alongside international policy organisations, including the International Monetary Fund, the World Bank, and the International Labour Organization." # Add faculty bio here.
-  website: https://profiles.ucl.ac.uk/97689-maria-del-riochanona  # Link faculty website here.
+#- name: "Maria del Rio-Chanona" # Add faculty name here.
+#  image: /assets/images/London_2025_Faculty_Maria_delRioChanona.jpg  # Add faculty image to assets/images/ and update here.
+#  bio: "Dr Maria del Rio-Chanona is a Lecturer (Assistant Professor) at University College London in the Computer Science department. Her research draws from network science, Large Language Models (LLM), as well as Agent-Based Models (ABM) to study the economic and employment impacts of the net-zero transition, the Covid-19 pandemic, and (Gen)AI.
+#Maria completed her PhD in mathematics at the University of Oxford, where she was part of the complexity economics group of the Institute for New Economic Thinking, Oxford Martin School. She was a JSMF research fellow at the Complexity Science Hub, Vienna and a visiting scholar at the Harvard Kennedy School. Maria has worked alongside international policy organisations, including the International Monetary Fund, the World Bank, and the International Labour Organization." # Add faculty bio here.
+#  website: https://profiles.ucl.ac.uk/97689-maria-del-riochanona  # Link faculty website here.
 
-- name: "Silvia Bartolucci" # Add faculty name here.
-  image: /assets/images/London_2025_Faculty_Silvia_Bartolucci.jpg  # Add faculty image to assets/images/ and update here.
-  bio: "Dr. Silvia Bartolucci is an Associate Professor in the Department of Computer Science at University College London (UCL), where she is part of the Financial Computing and Analytics Group.
-Her research leverages network, statistical physics and data-driven modelling tools to investigate critical behaviour in socio-economic systems, assessing protocols’ design and applications of blockchain technologies, monitoring trends and issues in traditional and decentralized financial markets. 
-Before joining UCL, Dr. Bartolucci was a Research Associate in the Department of Finance at Imperial College Business School, working within the Centre for Financial Technology. She holds a Ph.D. in Applied Mathematics from King's College London and a background in Theoretical Physics from Sapienza University in Rome." # Add faculty bio here.
-  website: https://profiles.ucl.ac.uk/78445-silvia-bartolucci  # Link faculty website here.
+#- name: "Silvia Bartolucci" # Add faculty name here.
+#  image: /assets/images/London_2025_Faculty_Silvia_Bartolucci.jpg  # Add faculty image to assets/images/ and update here.
+#  bio: "Dr. Silvia Bartolucci is an Associate Professor in the Department of Computer Science at University College London (UCL), where she is part of the Financial Computing and Analytics Group.
+#Her research leverages network, statistical physics and data-driven modelling tools to investigate critical behaviour in socio-economic systems, assessing protocols’ design and applications of blockchain technologies, monitoring trends and issues in traditional and decentralized financial markets. 
+#Before joining UCL, Dr. Bartolucci was a Research Associate in the Department of Finance at Imperial College Business School, working within the Centre for Financial Technology. She holds a Ph.D. in Applied Mathematics from King's College London and a background in Theoretical Physics from Sapienza University in Rome." # Add faculty bio here.
+#  website: https://profiles.ucl.ac.uk/78445-silvia-bartolucci  # Link faculty website here.
 
 #- name: "Paolo Barucca" # Add faculty name here.
 #  image: /assets/images/London_2025_Faculty_Paolo_Barucca.png  # Add faculty image to assets/images/ and update here.
 #  bio: "Check back soon for updates." # Add faculty bio here.
 #  website: https://profiles.ucl.ac.uk/66462-paolo-barucca  # Link faculty website here.
 
-- name: "Alejandro Hermida Carrillo" # Add faculty name here.
-  image: /assets/images/London_2025_Faculty_Alejandro_Hermida.jpg  # Add faculty image to assets/images/ and update here.
-  bio: "Dr Alejandro Hermida Carrillo is an Imperial College Research Fellow (ICRF) at Imperial College Business School. 
-In his fellowship, he studies the rise of pathological leadership styles using digital trace data and Natural Language Processing. Before joining Imperial, Alejandro completed a PhD in Management at the LMU Munich, Germany, and degrees in Psychology (MSc, LMU Munich and Licenciatura, UNAM). He was also a visiting researcher at the Computational Culture Lab of Stanford Graduate School of Business." # Add faculty bio here.
-  website: https://profiles.imperial.ac.uk/a.hermida-carrillo  # Link faculty website here.
+#- name: "Alejandro Hermida Carrillo" # Add faculty name here.
+#  image: /assets/images/London_2025_Faculty_Alejandro_Hermida.jpg  # Add faculty image to assets/images/ and update here.
+#  bio: "Dr Alejandro Hermida Carrillo is an Imperial College Research Fellow (ICRF) at Imperial College Business School. 
+#In his fellowship, he studies the rise of pathological leadership styles using digital trace data and Natural Language Processing. Before joining Imperial, Alejandro completed a PhD in Management at the LMU Munich, Germany, and degrees in Psychology (MSc, LMU Munich and Licenciatura, UNAM). He was also a visiting researcher at the Computational Culture Lab of Stanford Graduate School of Business." # Add faculty bio here.
+#  website: https://profiles.imperial.ac.uk/a.hermida-carrillo  # Link faculty website here.
 
 # Add more faculty with the same format as above...
