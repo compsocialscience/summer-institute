@@ -11,7 +11,7 @@ partner_site: london
 
 ## Eligibility
 
-We invite applicants from advanced Ph.D. students students, postdoctoral researchers, and faculty within 7 years of their Ph.D., who are able to attend the program in London, United Kingdom. We welcome applicants from all backgrounds and fields of study, including computer science, physics, economics, finance, psychology, sociology, law, and organisational behaviour . About 30 participants will be invited. However, there are no restrictions based on citizenship, country of study, or country of employment. 
+We invite applicants from advanced Ph.D. students students, postdoctoral researchers, and faculty within 7 years of their Ph.D., who are able to attend the program in London, United Kingdom. We welcome applicants from all backgrounds and fields of study, including computer science, physics, mathematics, economics, finance, psychology, sociology, law, and management. About 30 participants will be invited. However, there are no restrictions based on citizenship, country of study, or country of employment. 
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp.
 
@@ -27,9 +27,9 @@ Applicants must submit the following documents: 1) a curriculum vitae (2 page ma
 - Your experience and/or interest in collaborative research. Carrying out a collaborative research project is a core component of SICSS-London.
 - A possible topic, method, or question you would like to focus on for a collaborative project
 
-**In order to be guaranteed full consideration, all application materials must be submitted by {app due date not yet determined}.** All application materials must be submitted through this [Google Form](https://www.google.com) (form for this site not yet created). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by {decision date not yet determined}, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by 23rd March 2025.** All application materials must be submitted through this [Google Form](https://www.google.com) (form for this site not yet created). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by 7 April 2025, and will ask participants to confirm their participation very soon thereafter.
 
-Inquiries can be sent to [site email not set up](email@goes.here).
+Inquiries can be sent to (a.hermida-carrillo@imperial.ac.uk).
 
 ## Application Frequently Asked Questions
 
