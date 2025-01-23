@@ -1,7 +1,7 @@
 - name: "Maria del Rio-Chanona" # Add faculty name here.
   image: /assets/images/London_2025_Faculty_Maria_delRioChanona.jpg  # Add faculty image to assets/images/ and update here.
   bio: "Dr Maria del Rio-Chanona is a Lecturer (Assistant Professor) at University College London in the Computer Science department. Her research draws from network science, Large Language Models (LLM), as well as Agent-Based Models (ABM) to study the economic and employment impacts of the net-zero transition, the Covid-19 pandemic, and (Gen)AI.
-Maria completed her PhD in mathematics at the University of Oxford, where she was part of the complexity economics group of the Institute for New Economic Thinking, Oxford Martin School. She is a JSMF research fellow at the Complexity Science Hub, Vienna and a visiting scholar at the Harvard Kennedy School. Maria has worked alongside international policy organisations, including the International Monetary Fund, the World Bank, and the International Labour Organization." # Add faculty bio here.
+Maria completed her PhD in mathematics at the University of Oxford, where she was part of the complexity economics group of the Institute for New Economic Thinking, Oxford Martin School. She was a JSMF research fellow at the Complexity Science Hub, Vienna and a visiting scholar at the Harvard Kennedy School. Maria has worked alongside international policy organisations, including the International Monetary Fund, the World Bank, and the International Labour Organization." # Add faculty bio here.
   website: https://profiles.ucl.ac.uk/97689-maria-del-riochanona  # Link faculty website here.
 
 - name: "Silvia Bartolucci" # Add faculty name here.
