@@ -19,7 +19,7 @@ We evaluate applicants along a number of dimensions: 1) research and teaching in
 
 ## How To Apply
 
-Applicants must submit the following documents: 1) a curriculum vitae (2 page max), 2) a statement (maximum one page) describing: 
+Applicants must submit the following documents: 1) a curriculum vitae (two page max), 2) a statement (maximum one page) describing: 
 
 - Your current research
 - Why you want to participate in SICSS-London
