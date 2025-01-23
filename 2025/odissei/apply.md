@@ -11,9 +11,7 @@ partner_site: odissei
 
 Our primary target audience consists of PhD students, post-docs and early career researchers. The targeted fields of research are principally sociology, psychology, economics and political science. However, it will be possible for other individuals or junior researchers actively involved or interested in related fields to apply for the programme.
 
-The Summer School is open to participants working inside and outside of ODISSEI member organisations, including those working outside of the Netherlands, but all participants must have a contract of employment at a research organization that has a signed association agreement with Statistics Netherlands by the start of the Summer School. We will support participants in getting this agreement in place if it is not already. About 20 participants will be invited.
-
-We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions:  
+The Summer School is open to participants working inside and outside of ODISSEI member organisations, including those working outside of the Netherlands. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions:  
  
 1. research and teaching in the area of computational social science  
 2. contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others  
