@@ -10,15 +10,15 @@ His current research is in economics, including agent-based modeling, financial 
 During the 1980s he was an Oppenheimer Fellow and the founder of the Complex Systems Group at Los Alamos National Laboratory. While a graduate student in the 1970s he built the first wearable digital computer, which was successfully used to predict the game of roulette. " # add speaker bio here
   website: https://www.oxfordmartin.ox.ac.uk/people/doyne-farmer # update speaker personal link here
 
-#- name: "Neave O'Cleary" # Speaker name goes here.
-#  image: /assets/images/London_2025_Speakers_Neave.jpg  # Upload speaker image to /assets/images/ and update URL here.
+- name: "Neave O'Cleary" # Speaker name goes here.
+  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
 #  bio: " ... " # add speaker bio here
-#  website: https://profiles.ucl.ac.uk/72077 # update speaker personal link here
+  website: https://profiles.ucl.ac.uk/72077 # update speaker personal link here
 
-#- name: "Sanaz Talaifar" # Speaker name goes here.
-#  image: /assets/images/London_2025_Speakers_Sanaz.png  # Upload speaker image to /assets/images/ and update URL here.
+- name: "Sanaz Talaifar" # Speaker name goes here.
+  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
 #  bio: " ... " # add speaker bio here
-#  website: https://www.sanaztalaifar.com/ # update speaker personal link here
+  website: https://www.sanaztalaifar.com/ # update speaker personal link here
 
 - name: "Pierpaolo Vivo" # Speaker name goes here.
   image: /assets/images/London_2025_Speakers_Pierpaolo.jpg  # Upload speaker image to /assets/images/ and update URL here.
