@@ -1,7 +1,7 @@
-- name: "TBD" # Add faculty name here.
-  image: /assets/images/image_example.png  # Add faculty image to assets/images/ and update here.
-  bio: "Check back soon for updates." # Add faculty bio here.
-  website: google.com  # Link faculty website here.
+#- name: "TBD" # Add faculty name here.
+#  image: /assets/images/image_example.png  # Add faculty image to assets/images/ and update here.
+#  bio: "Check back soon for updates." # Add faculty bio here.
+#  website: google.com  # Link faculty website here.
 
 - name: "Maria del Rio-Chanona" # Add faculty name here.
   image: /assets/images/London_2025_Faculty_Maria_delRioChanona.jpg  # Add faculty image to assets/images/ and update here.
@@ -16,10 +16,10 @@ Her research leverages network, statistical physics and data-driven modelling to
 Before joining UCL, Dr. Bartolucci was a Research Associate in the Department of Finance at Imperial College Business School, working within the Centre for Financial Technology. She holds a Ph.D. in Applied Mathematics from King's College London and a background in Theoretical Physics from Sapienza University in Rome." # Add faculty bio here.
   website: https://profiles.ucl.ac.uk/78445-silvia-bartolucci  # Link faculty website here.
 
-- name: "Paolo Barucca" # Add faculty name here.
+#- name: "Paolo Barucca" # Add faculty name here.
 #  image: /assets/images/London_2025_Faculty_Paolo_Barucca.jpg  # Add faculty image to assets/images/ and update here.
 #  bio: "Dr. Paolo Barucca is an Associate Professor in the Department of Computer Science at University College London (UCL)." # Add faculty bio here.
-  website: https://profiles.ucl.ac.uk/66462-paolo-barucca  # Link faculty website here.
+#  website: https://profiles.ucl.ac.uk/66462-paolo-barucca  # Link faculty website here.
 
 - name: "Alejandro Hermida Carrillo" # Add faculty name here.
   image: /assets/images/London_2025_Faculty_Alejandro_Hermida.jpg  # Add faculty image to assets/images/ and update here.
