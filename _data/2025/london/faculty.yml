@@ -17,9 +17,9 @@ Before joining UCL, Dr. Bartolucci was a Research Associate in the Department of
   website: https://profiles.ucl.ac.uk/78445-silvia-bartolucci  # Link faculty website here.
 
 - name: "Paolo Barucca" # Add faculty name here.
-  image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
-#  bio: "Dr. Paolo Barucca is an Associate Professor in the Department of Computer Science at University College London (UCL)." # Add faculty bio here.
-  website: https://profiles.ucl.ac.uk/66462-paolo-barucca  # Link faculty website here.
+  image: assets/images/London_2025_Faculty_Paolo_Barucca.jpg  # Add faculty image to assets/images/ and update here.
+  bio: "Dr Paolo Barucca is Associate Professor at UCL Computer Science. He obtained his PhD in Theoretical Physics from Sapienza University of Rome. He works on Statistical Physics of Complex Systems, Statistical and Machine Learning in Finance and Economics. He collaborates with private and public institutions for teaching and research activities on machine learning and statistical data science in finance and economics applied to risk assessment and predictive modeling." # Add faculty bio here.
+  website: https://scholar.google.com/citations?user=8zCztWEAAAAJ&hl=en  # Link faculty website here.
 
 - name: "Alejandro Hermida Carrillo" # Add faculty name here.
   image: /assets/images/London_2025_Faculty_Alejandro_Hermida.jpg  # Add faculty image to assets/images/ and update here.
