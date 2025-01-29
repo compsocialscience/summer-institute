@@ -7,29 +7,33 @@ partner_site: paris
 
 # Apply
 
-**This page is under construction. Check back soon for more up-to-date info!**
-
 ## Eligibility
 
-We invite applicants from advanced Ph.D. students students, postdoctoral researchers, and faculty within 7 years of their Ph.D., who are able to attend the program in Palaiseau, France. We welcome applicants from all backgrounds and fields of study, particularly ... . About ... participants will be invited. However, there are no restrictions based on citizenship, country of study, or country of employment. 
+Participation is restricted to Ph.D. students, postdoctoral researchers, and early career-stage faculties from Europe and Africa. Advanced Master students may also apply. We explicitly encourage applicants from all backgrounds, especially applicants from groups currently under-represented in computational social science.
 
-The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp.
+To reduce our collective carbon footprint, and since there are SICSS sites all over the world, we have a no-fly policy (scholars from the African continent are exempt from this). This means that we will not accept applications from people who will travel to Paris from different continents than Europe. Moreover, we will not provide travel grants for other means of transport than trains.
 
-We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
+Housing will be provided free of charge for around 20 students for the onsite days. If you can manage your own accommodation during the onsite period of the summer schools, please do add this information when applying, as this will increase your chances of being selected. In addition, we will be providing limited, needs-based partial or full reimbursements for the stay. If you wish to apply to this funding, please make this specific request when applying.
+
+The Summer Institute aims to bring together computational social scientists across different levels of technical experience. The language of instruction will be English, for which a good reading and speaking command is necessary. Participants need to be familiar with programming languages, if possible R or Python. Courses will be mostly taught in Python, but participants with little experience with coding in Python will have the opportunity to receive some training prior to the summer school, along with help during the summer school. Participants with less experience with social science research are expected to complete additional readings in advance of the summer institute (material will be provided). In addition to experience with/interest in CSS, we will evaluate applicants along several dimensions:
+
+* Research in the area of computational social science
+* Likelihood to benefit from participation
+* Contributions to public goods, such as creating open-source software, curating public datasets, and creating educational opportunities for others
+* Likelihood to contribute to the educational experience of other participants
+* Potential to disseminate computational social science to new intellectual communities and areas of research
+
+When selecting the applications, we will take into account the applicant’s career stage and previous educational opportunities.
 
 ## How To Apply
+In order to be guaranteed consideration, all application materials must be submitted by March 15{date not yet determined}. All application materials must be submitted through the following form. We will notify applicants solely through e-mail by April 1st{date not yet determined}, and will ask participants to confirm their participation very soon thereafter.
 
-Applicants must submit the following documents: 1) a curriculum vitae, 2) a statement (maximum two pages double-spaced) describing: 
+Inquiries can be sent to SICSSParis@gmail.com.
 
-- Your current research
-- Why you want to participate in SICSS-Paris
-- How participation will aid your future research
-- Your experience and/or interest in collaborative research. Carrying out a collaborative research project is a core component of SICSS-Paris.
-- A possible topic, method, or question you would like to focus on for a collaborative project
 
-**In order to be guaranteed full consideration, all application materials must be submitted by {app due date not yet determined}.** All application materials must be submitted through this [Google Form](https://www.google.com) (form for this site not yet created). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by {decision date not yet determined}, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by March 15.** All application materials must be submitted through this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScnjlH7b3VOrTNcfZPXDYfEUpsRIiTskAhEBgrR4rKbQZrXQg/viewform). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 1<sup>st</sup>, and will ask participants to confirm their participation very soon thereafter.
 
-Inquiries can be sent to [site email not set up](email@goes.here).
+Inquiries can be sent to [SICSSParis@gmail.com](SICSSParis@gmail.com).
 
 ## Application Frequently Asked Questions
 
