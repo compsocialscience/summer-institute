@@ -26,11 +26,11 @@ The [SICSS Boot Camp](https://sicss.io/boot_camp) is an online training program 
 
 If you would like more practice after completing the Boot Camp videos, and to specifically train yourself in Python, some other materials that we can recommend are:
 
-* Software carpentry Unix Shell : https://swcarpentry.github.io/shell-novice/
-* Software carpentry Python : https://swcarpentry.github.io/python-novice-inflammation/
-* Introduction to Cultural Analytics & Python by Melanie Walsh https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html
-* Doing Computational Social Science: A Practical Introduction, J. McLevey
-* EdX Python for research : https://www.edx.org/course/using-python-for-research#!
+* Software carpentry Unix Shell: <https://swcarpentry.github.io/shell-novice/>
+* Software carpentry Python: <https://swcarpentry.github.io/python-novice-inflammation/>
+* Introduction to Cultural Analytics & Python by Melanie Walsh: <https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html>
+* Book: *Doing Computational Social Science: A Practical Introduction*, J. McLevey
+* Course: EdX Python for research: <https://www.edx.org/course/using-python-for-research#!>
 
 
 ## Computing environment
