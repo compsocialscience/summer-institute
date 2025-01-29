@@ -37,7 +37,7 @@ If you would like more practice after completing the Boot Camp videos, and to sp
 
 ### Python
 
-Some of the activities will require coding, and we will support Python. You are welcome to use other languages, but we cannot guarantee that we can support them. Before SICSS you should install a modern, stable-release version of the [Python software](https://www.python.org/) and a Python interpreter such as [Visual Studio Code]{https://code.visualstudio.com/} or [Jupyter]{https://jupyter.org/}, or have your Google account ready to use with [Google colab]{https://colab.research.google.com/}.
+Some of the activities will require coding, and we will support Python. You are welcome to use other languages, but we cannot guarantee that we can support them. Before SICSS you should install a modern, stable-release version of the [Python software](https://www.python.org/) and a Python interpreter such as [Visual Studio Code](https://code.visualstudio.com/) or [Jupyter](https://jupyter.org/), or have your Google account ready to use with [Google colab](https://colab.research.google.com/).
 
 ### Slack
 
