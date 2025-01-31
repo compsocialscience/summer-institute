@@ -1,5 +1,3 @@
-- name: "TA info coming soon."
-  image: /assets/images/placeholderPic.png
-  bio: "..."
-  website: www.google.com
-# add more TAs with this format below...
+- name: Yasmine Houri
+  image: /assets/images/yasmine_houri.jpg
+  bio: Yasmine is a PhD candidate in Sociology at CREST. She studies the social processes underpinning inaccurate or harmful information sharing on social media, using a range of computational tools in network and data science. 
