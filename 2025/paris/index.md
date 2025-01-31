@@ -15,6 +15,6 @@ The Summer Institute is open to social scientists, computer scientists, and a fe
 
 Participation is restricted to advanced Ph.D. students, postdoctoral researchers, and junior faculty (within 7 years of their Ph.D). We welcome applicants from all backgrounds and fields of study, especially junior faculty from neighboring institutions near Palaiseau, France. About 25-30 participants will be invited. Participants are expected to fully attend and participate in the entire 9-day program, which includes 5 days onsite and 4 remote, but we are open to alternative arrangements for faculty members.
 
-Application materials are due on **March 15**.
+Application materials are due on **March 15** and admission decisions will be sent out by e-mail by April 1<sup>st</sup>.
 
 [//]: # (ORGANIZERS: feel free to add a link to your application materials or your SICSS apply page above.)
