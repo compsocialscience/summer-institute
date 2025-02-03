@@ -1,6 +1,12 @@
+- name: "Vissého Adjiwanou" # Add faculty name here.
+  image: /assets/images/Visseho_issp.jpg  # Add faculty image to assets/images/ and update here.
+  bio: "Vissého Adjiwanou est professeur de démographie ainsi que de méthodes quantitatives et computationnelles au département de sociologie de l’Université du Québec à Montréal (UQAM) et professeur associé au département de démographie de l’Université de Montréal. Il dirige le laboratoire sur les sciences sociales quantitatives et computationnelles, ainsi que le laboratoire de recherche sur les dynamiques des populations d’Afrique et de sa diaspora (https://ssapoplab.uqam.ca/). Il détient une maîtrise en statistiques de l’École Nationale de Statistique et d’Économie Appliquée (ENSEA, Côte d'Ivoire), une maîtrise en économie du développement du Centre d’Études et de Recherches sur le Développement International (CERDI, France) et un doctorat en démographie de l’Université de Montréal (Canada). Ses recherches portent sur les enjeux démographiques en Afrique subsaharienne et au Canada, notamment les dynamiques familiales, les inégalités de genre, la santé reproductive et l’intégration des immigrants d'Afrique subsaharienne au Canada. Le professeur Adjiwanou est un spécialiste reconnu dans l'analyse et la gestion des données, notamment de l’analyse causale, du big data et de l’apprentissage automatique." # Add faculty bio here.
+  website: https://sociologie.uqam.ca/corps-professoral/professeurs-es/professeur/adjiwanou.visseho/  # Link faculty website here.
+
 - name: "Faculty info coming soon." # Add faculty name here.
   image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
   bio: "Check back soon for updates." # Add faculty bio here.
   website: https://www.google.com  # Link faculty website here.
-
 # Add more faculty with the same format as above...
+
+
