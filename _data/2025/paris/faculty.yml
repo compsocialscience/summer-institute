@@ -3,11 +3,11 @@
   bio: Étienne Ollion is a CNRS research fellow and Professor of Sociology at École Polytechnique. His research focuses on politics, and he integrates digital data to more classic data sources and methods.
   website: www.ollion.cnrs.fr
 
-  - name: Hesu Yoon
-  image: 
+- name: Hesu Yoon
+  image: /assets/images/placeholderPic.png
   bio: Hesu is an assistant professor at the ENSAE. Her research investigates how places are perceived and evaluated in ways that reinforce or shift inequalities by race and class. She takes various methodological approaches to answer research questions, including online survey experiments, digital trace data, and interviews.
   website: https://crest.science/user/hesu-yoon/
-  
+
 - name: Julien Boelaert
   image: /assets/images/julien_boelaert.png
   bio: Julien Boelaert is an Assistant professor in Political Science at Lille University/CERAPS (currently on sabbatical). He has been experimenting with, and thinking about, machine learning for social sciences since 2010 and is currently working on mass-media content analysis with a text-as-data approach.
