@@ -5,38 +5,38 @@ partner_site: issp
 
 [//]: # (Update the following info to match your location!)
 
-# Apply
+# Postuler
 
-**This page is under construction. Check back soon for more up-to-date info!**
 
-## Eligibility
+## Éligibilité
 
-We invite applicants from advanced Ph.D. students students, postdoctoral researchers, and faculty within 7 years of their Ph.D., who are able to attend the program in Ouagadougou, Burkina Faso. We welcome applicants from all backgrounds and fields of study, particularly ... . About ... participants will be invited. However, there are no restrictions based on citizenship, country of study, or country of employment. 
 
-The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp.
+Nous invitons les candidatures d'étudiants (avancés) en doctorat et dans les programmes d'ingénieurie, de chercheurs postdoctoraux et de membres du corps professoral ayant obtenu leur doctorat depuis moins de sept ans, et pouvant participer au programme à Ouagadougou, Burkina Faso. Les candidatures sont ouvertes à toutes les disciplines et à tous les domaines d'étude, avec une attention particulière pour l'économie, la démographie, les sciences politiques, les statistiques, les mathématiques et l'informatique. Environ 30 participants seront sélectionnés. Aucune restriction ne s'applique quant à la citoyenneté, au pays d'études ou au pays d'emploi.
 
-We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
+L’école vise à rassembler des chercheurs en sciences sociales computationnelles, quel que soit leur niveau d’expérience technique. Les participants ayant une connaissance limitée de la recherche en sciences sociales devront effectuer des lectures supplémentaires avant l’École. De même, ceux ayant peu d’expérience en programmation seront tenus de suivre le bootcamp SICSS du site de Ouagadougou.
 
-## How To Apply
+Les candidatures seront évaluées selon plusieurs critères : 1) Les contributions à la recherche et à l’enseignement dans le domaine des sciences sociales computationnelles; 2) les contributions aux biens communs, telles que la création de logiciels open source, la gestion de bases de données publiques ou la création d'opportunités éducatives; 3) La probabilité de tirer profit de la participation au programme; 4) La capacité à enrichir l'expérience éducative des autres participants; 5) Le potentiel de diffusion des sciences sociales computationnelles vers de nouvelles communautés intellectuelles et de nouveaux domaines de recherche. Nous prenons également en compte le stade de carrière du candidat ainsi que les opportunités éducatives auxquelles il a eu accès.
 
-Applicants must submit the following documents: 1) a curriculum vitae, 2) a statement (maximum two pages double-spaced) describing: 
+## Comment postuler
 
-- Your current research
-- Why you want to participate in SICSS-ISSP
-- How participation will aid your future research
-- Your experience and/or interest in collaborative research. Carrying out a collaborative research project is a core component of SICSS-ISSP.
-- A possible topic, method, or question you would like to focus on for a collaborative project
+Les candidats doivent soumettre les documents suivants : 1) Un curriculum vitae; 2) Une déclaration (maximum de deux pages à double interligne) abordant les points suivants :
 
-**In order to be guaranteed full consideration, all application materials must be submitted by {app due date not yet determined}.** All application materials must be submitted through this [Google Form](https://www.google.com) (form for this site not yet created). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by {decision date not yet determined}, and will ask participants to confirm their participation very soon thereafter.
+- Vos recherches actuellesLes
+- Les raisons pour lesquelles vous souhaitez participer à SICSS-ISSP
+- La manière dont cette participation bénéficiera à vos recherches futures
+- Votre expérience et/ou votre intérêt pour la recherche collaborative. La réalisation d'un projet de recherche collaboratif est une composante essentielle de SICSS-ISSP.
+- Un sujet, une méthode ou une question sur lesquels vous aimeriez vous concentrer dans le cadre d’un projet collaboratif
 
-Inquiries can be sent to [site email not set up](email@goes.here).
+**Pour bénéficier d'un examen complet de votre candidature, tous les documents doivent être soumis au plus tard le 15 avril**. Les documents doivent être téléchargés via ce [formulaire Google](https://forms.gle/yUWMLw57SAoQXmu69). Les candidatures incomplètes à la date limite pourraient ne pas être prises en compte. Les candidats recevront une notification exclusivement par courriel à partir du **30 avril** et devront confirmer rapidement leur participation.
 
-## Application Frequently Asked Questions
+Pour toute question, veuillez écrire à adresse e-mail suivant: **[sicss.issp@gmail.com](sicss.issp@gmail.com)**.
 
-#### Can I apply to more than one Summer Institute location?
+## Foire aux questions sur les candidatures
 
-Yes, but not at the same time. For example, you can apply to SICSS-ISSP, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.
+### Puis-je postuler à plusieurs sites de SICSS ?
 
-#### Can I participate in SICSS-ISSP if I have already participated in SICSS at another location?
+Oui, mais pas simultanément. Par exemple, vous pouvez postuler à SICSS-ISSP, et si votre candidature n'est pas retenue, vous pouvez ensuite postuler à un autre site si la date limite est ultérieure. Toutefois, vous ne pouvez pas avoir plusieurs candidatures en cours d'examen dans différents sites en même temps.
 
-Unfortunately, no. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
+### Puis-je participer à SICSS-ISSP si j'ai déjà participé à SICSS dans un autre site ?
+
+Malheureusement, non. Chaque année, nous recevons plus de candidatures que nous ne pouvons en accepter, et nous souhaitons donner à chacun la chance de participer à SICSS une fois avant d'autoriser une deuxième participation.
