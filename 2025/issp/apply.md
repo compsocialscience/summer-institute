@@ -10,7 +10,6 @@ partner_site: issp
 
 ## Éligibilité
 
-
 Nous invitons les candidatures d'étudiants (avancés) en doctorat et dans les programmes d'ingénieurie, de chercheurs postdoctoraux et de membres du corps professoral ayant obtenu leur doctorat depuis moins de sept ans, et pouvant participer au programme à Ouagadougou, Burkina Faso. Les candidatures sont ouvertes à toutes les disciplines et à tous les domaines d'étude, avec une attention particulière pour l'économie, la démographie, les sciences politiques, les statistiques, les mathématiques et l'informatique. Environ 30 participants seront sélectionnés. Aucune restriction ne s'applique quant à la citoyenneté, au pays d'études ou au pays d'emploi.
 
 L’école vise à rassembler des chercheurs en sciences sociales computationnelles, quel que soit leur niveau d’expérience technique. Les participants ayant une connaissance limitée de la recherche en sciences sociales devront effectuer des lectures supplémentaires avant l’École. De même, ceux ayant peu d’expérience en programmation seront tenus de suivre le bootcamp SICSS du site de Ouagadougou.
