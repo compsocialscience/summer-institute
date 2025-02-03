@@ -29,7 +29,7 @@ Les candidats doivent soumettre les documents suivants : 1) Un curriculum vitae;
 
 **Pour bénéficier d'un examen complet de votre candidature, tous les documents doivent être soumis au plus tard le 15 avril**. Les documents doivent être téléchargés via ce [formulaire Google](https://forms.gle/yUWMLw57SAoQXmu69). Les candidatures incomplètes à la date limite pourraient ne pas être prises en compte. Les candidats recevront une notification exclusivement par courriel à partir du **30 avril** et devront confirmer rapidement leur participation.
 
-Pour toute question, veuillez écrire à adresse e-mail suivant: **[sicss.issp@gmail.com](sicss.issp@gmail.com)**.
+Pour toute question, veuillez écrire à adresse e-mail suivant: **sicss.issp@gmail.com**.
 
 ## Foire aux questions sur les candidatures
 
