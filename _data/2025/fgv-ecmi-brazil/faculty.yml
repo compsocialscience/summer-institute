@@ -1,6 +1,17 @@
-- name: "Faculty info coming soon." # Add faculty name here.
-  image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
-  bio: "Check back soon for updates." # Add faculty bio here.
-  website: https://www.google.com  # Link faculty website here.
+- name: Danielle Sanches
+  image: /assets/images/danielle_sanches.png
+  bio: "Danielle Sanches is a professor at FGV ECMI and a PhD in History of Science at the École des Hautes Études en Sciences Sociales in cooperation with the Casa de Oswaldo Cruz/FioCruz. She currently works on Digital Methods, focusing on the influence of the algorithm culture on social practices."
+  
+- name: Denisson Silva
+  image: /assets/images/denisson_silva.jpg
+  bio: "Denisson holds a PhD in Political Science (UFMG), a Master's degree in Sociology and is a Social Scientist (UFAL). He has experience in Political Science, working mainly on the following themes: political parties, party migration, electoral results, and campaign financing. Researcher at the Center for Legislative Studies (CEL/UFMG), the Citizenship and Public Policy Group (UFAL), and research fellow at EMCI-FGV."
+  website: https:denissonsilva.com
 
-# Add more faculty with the same format as above...
+- name: Maria Sirleidy Cordeiro
+  image: /assets/images/maria_sirleidy_2_1.png
+  bio: "Maria Sirleidy Cordeiro is a PhD and Master in Linguistics at the Federal University of Pernambuco (UFPE). She completed part of her PhD program in Portugal at the Universidade Católica Portuguesa (UCP). She is a professor at FGV ECMI and a member of the research group on Communication, Society and Digital Media (FGV). She works in the areas of cognitive linguistics, critical discourse analysis and public policy analysis, investigating processes of meaning, ideologies and power relations imbricated in text and discourse."
+
+- name: Polyana Barbosa
+  image: /assets/images/poly.png
+  bio: "Polyana Barboza is a professor working with data extraction and analysis on social networks at FGV ECMI. She has a major in Applied Mathematics at the School of Applied Mathematics of Fundação Getulio Vargas (FGV EMAp) and is a Master in Computer Science at the Pontifical Catholic University of Rio de Janeiro (PUC-Rio). Her main lines of research are Social Network Analysis in Digital Media and Multi-agent Systems in Software Engineering."
+  
