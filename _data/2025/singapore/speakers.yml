@@ -1,4 +1,9 @@
-- name: Example Speaker
-  image: /assets/images/placeholder.jpg
-  bio: "More info soon."
-  website: https://www.google.com/
+- name: Prateek Bansal
+  image: /assets/images/Prateek.jpg
+  bio: "Dr Prateek Bansal is a Presidential Young (Assistant) Professor at the National University of Singapore (NUS). Before joining NUS in 2022, he was a Leverhulme Trust Early Career Fellow at Imperial College London and did a Ph.D. from Cornell, an MSc from UT Austin, and a BTech from IIT Delhi. Prateek leads the Behavioural Cognitive Science Lab at NUS and is a co-principal investigator of the Adaptive Mobility module at Future Cities Laboratory, Singapore. His research group is interested in creating new methods to address challenging questions related to mobility behavior and the adoption of emerging technologies at an individual level and an urban scale. His research has led to over 70 journal articles. Apart from top Transportation journals, he regularly publishes in interdisciplinary journals like Energy Economics and Statistics and Computing. He also serves as the editorial board member of Transportation Research Part A: Policy and Practice, Transportation Research Part B: Methodological, and Journal of Choice Modelling, among others. He is a member of the TRB’s standing committees on Travel Survey Methods (AEP25) and Travel Forecasting (AEP50), and a regular board member of the International Association of Travel Behavior Research (IATBR)."
+  website: https://cde.nus.edu.sg/cee/staff/prateek-bansal/
+
+- name: Douglas Guilbeault
+  image: /assets/images/douglas.guilbeault.jpeg
+  bio: "Dr. Douglas Guilbeault received dual bachelor’s degrees in philosophy and rhetoric (with a minor in cognitive science) from the University of Waterloo, and a masters in Cognitive Linguistics from the University of British Columbia. He then completed a PhD in Communications in the Network Dynamics Group at the University of Pennsylvania’s Annenberg School for Communication. He is co-director of the Berkeley-Stanford Computational Culture Lab, and a founding member of the theoretical cognitive science and machine learning collective comp-syn (“computational synesthesia”). His work has appeared in a number of top journals, including Nature, Nature Communications, The Proceedings of the National Academy of the Sciences, and Management Science, as well as in popular news outlets, such as The Atlantic, Wired, and The Harvard Business Review. He has received top research awards from The International Conference on Computational Social Science, The Cognitive Science Society, and The International Communication Association."
+  website: https://www.gsb.stanford.edu/faculty-research/faculty/douglas-r-guilbeault
