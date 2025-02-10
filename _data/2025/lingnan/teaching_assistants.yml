@@ -1,10 +1,25 @@
 - name: "Juliana Qi Xuan Yuncg"
   image: /assets/images/Juliana.jpg
-  bio: "..."
-  website: www.google.com
+  bio:  |
+    Juliana Qi Xuan Yuncg is a Ph.D. Candidate in Sociology and Social Policy at Lingnan University, 
+    Hong Kong. She obtained her Master of Arts in Survey Research from the University of Connecticut, 
+    USA, and a Master of Arts in Integrated Marketing Communications from California State University, 
+    USA. Juliana’s research focuses on integrated senior care solutions versus aging-in-place strategies, 
+    addressing the housing challenges faced by senior residents in Macau. Utilizing social listening—an 
+    AI-powered content analysis method—and in-depth interviews, her work investigates government resource
+    allocation, the motivations behind seniors’ relocation decisions, and barriers to transitioning into
+    public senior housing. This interdisciplinary approach integrates computational social science with
+    qualitative insights, with a strong emphasis on policy application.
+  website: https://www.ln.edu.hk/socsp/people/postgraduate-students/juliana-yuncg
   
 - name: "Sebastian Ascui-Gac"
   image: /assets/images/sebastian.png
-  bio: "..."
-  website: www.google.com
+  bio:  |
+    Sebastian completed an undergrad in Social Anthropology at the Academia de Humanismo Cristiano 
+    University in Chile. Within those years, he has accumulated a vast experience doing ethnographic fieldwork, 
+    particularly among rural communities, marginalized peoples, Native Americans, Chilean Afro-descendants and 
+    artisanal fisherman. He holds a MA in Applied Economics for Public Policy at the Alberto Hurtado University 
+    and a MA in International Political Economy and Development Fordham University. His research mainly focusses 
+    on the use of quantitative and formal methods applied to social sciences and modeling applications.
+  website: https://www.ln.edu.hk/socsp/people/postgraduate-students/sebastian-ascui-gac
 # add more TAs with this format below...
