@@ -13,6 +13,6 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is restricted to Ph.D. students, postdoctoral researchers, and junior faculty (within 7 years of their Ph.D.). We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 20 to 25 participants will be invited, and participants are expected to fully attend and participate in the entire two-week program.
 
-Application materials are due on March 31st, 2025.
+[Application materials](https://compsocialscience.github.io/summer-institute/2025/ias/apply) are due on March 31st, 2025.
 
 [//]: # (ORGANIZERS: feel free to add a link to your application materials or your SICSS apply page above.)
