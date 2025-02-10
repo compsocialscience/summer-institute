@@ -9,3 +9,16 @@
     influence social behaviors, health outcomes and human development. Methodologically, she uses 
     multiple analytical tools, including social network analysis, statistics, GIS, and machine learning. # add speaker bio here
   website: http://www.eunkyongshin.com/eun-kyong-shin.html # update speaker personal link here
+- name: "Siqi Han" # Speaker name goes here.
+  image: /assets/images/Siqi.png  # Upload speaker image to /assets/images/ and update URL here.
+  bio: |
+    Siqi Han is an assistant professor of sociology at the Chinese University of Hong Kong. She is 
+    also associated with CUHK’s computational social science cluster. Before joining CUHK she was a 
+    postdoctoral research scholar on the Measuring the Liberal Arts project at INCITE, Columbia University. 
+    She received her PhD in Sociology from The Ohio State University. Her work mainly focuses on knowledge
+    structure in higher education, school-to-work transition, and labor market skill returns. She addresses
+    her research questions using both surveys and unstructured textual data with computationally intensive
+    quantitative methods, including chatGPT-assisted data collection and processing. These projects appeared
+    in PNAS, Journal of Marriage and Family, Social Science Research, European Sociological Review, 
+    Sociological Perspectives, Demographic Research, Socius, and other academic journals. # add speaker bio here
+  website: https://sqhsoc.github.io/ # update speaker personal link here
