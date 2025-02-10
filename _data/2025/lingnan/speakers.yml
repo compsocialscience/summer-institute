@@ -32,3 +32,20 @@
     interaction with artificial intelligence. She has recently published “The Emergence of Economic Rationality 
     of GPT” in Proceedings of the National Academy of Sciences. # add speaker bio here
   website: https://ycyitingchen.weebly.com/ # update speaker personal link here
+- name: "Alex Preda" # Speaker name goes here.
+  image: /assets/images/alex.png  # Upload speaker image to /assets/images/ and update URL here.
+  bio: |
+    Alex Preda holds a PhD in sociology from the University of Bielefeld and a Dr. habil. from the University 
+    of Konstanz, Germany. Before joining Lingnan University, he has held positions at the Universities of Konstanz, 
+    Edinburgh, King’s College London, and visiting positions at the University of Chicago. He works at the 
+    intersection of economic sociology and the sociology of science and technology. His current research projects 
+    focus on the blockchain economy and on digital art markets, respectively. # add speaker bio here
+  website: https://www.ln.edu.hk/socsp/people/academic-staff/prof-preda-alex # update speaker personal link here
+- name: "Gleb Papyshev" # Speaker name goes here.
+  image: /assets/images/Gleb.png  # Upload speaker image to /assets/images/ and update URL here.
+  bio: |
+    Gleb Papyshev is a Research Assistant Professor in the Division of Social Science. His research interests include 
+    AI policy and regulation, AI ethics, and corporate governance mechanisms for emerging technologies. The results of
+    his work have been published in Policy Design and Practice, AI & Society, Data & Policy, and Elgar Companion to 
+    Regulating AI and Big Data in Emergent Economies. # add speaker bio here
+  website: https://sosc.hkust.edu.hk/people/gleb-papyshev # update speaker personal link here
