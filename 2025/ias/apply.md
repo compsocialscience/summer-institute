@@ -7,8 +7,6 @@ partner_site: ias
 
 # Apply
 
-**This page is under construction. Check back soon for more up-to-date info!**
-
 ## Eligibility
 
 We invite applicants from Ph.D. students students, postdoctoral researchers, and faculty within 7 years of their Ph.D. who are able to attend the program in Norrköping, Sweden. There are no restrictions based on citizenship, country of study, or country of employment. Lodging expenses for all participants will be paid for by SICSS-IAS, and limited funds are available to cover the costs of travel.  About 20 to 25 participants will be invited.  
