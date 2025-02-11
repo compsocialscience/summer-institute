@@ -5,9 +5,7 @@ partner_site: lingnan
 
 [//]: # (Update the following info to match your location!)
 
-# Apply
-
-**This page is under construction. Check back soon for more up-to-date info!**
+# Apply (Deadline March 16)
 
 ## Eligibility
 
