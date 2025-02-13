@@ -8,6 +8,11 @@
   bio: Hesu is an assistant professor at the ENSAE. Her research investigates how places are perceived and evaluated in ways that reinforce or shift inequalities by race and class. She takes various methodological approaches to answer research questions, including online survey experiments, digital trace data, and interviews.
   website: https://crest.science/user/hesu-yoon/
 
+- name: Émilien Schultz
+  image: /assets/images/emilien_schultz.png
+  bio: Émilien is a research engineer at CREST, committed to the development of computational social science practices and data analysis. His main interests include science studies, scientific software, Python, and connecting social and computer science
+  website: https://emilienschultz.github.io/
+
 - name: Julien Boelaert
   image: /assets/images/julien_boelaert.png
   bio: Julien Boelaert is an Assistant professor in Political Science at Lille University/CERAPS (currently on sabbatical). He has been experimenting with, and thinking about, machine learning for social sciences since 2010 and is currently working on mass-media content analysis with a text-as-data approach.
