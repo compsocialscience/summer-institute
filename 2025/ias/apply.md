@@ -27,7 +27,9 @@ Applicants must submit the following documents: 1) a completed application form,
 
 **In order to be guaranteed full consideration, all application materials must be submitted by March 31st, 2025.** All application materials must be submitted through the [application form](https://forms.office.com/e/BTUfKCM2sa). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail within approximantely two weeks, and will ask participants to confirm their participation very soon thereafter.
 
-Inquiries can be sent to [Hendrik Erz](hendrik.erz@liu.se).
+The Summer Institute is sponsored by the Swedish Interdisciplinary Research School in Computational Social Science (SIRCSS). SIRCSS provides courses, seminars, and networking opportunities for Ph.D. students interested in CSS. Students interested in participating in the full, two-year cycle of Research School events should instead apply through the [SIRCSS webpage](https://liu.se/en/research/research-school-in-computational-social-science). The deadline is also March 31st, 2025.
+
+Inquiries about SICSS-IAS or SIRCSS can be sent to sircss@liu.se.
 
 ## Application Frequently Asked Questions
 
