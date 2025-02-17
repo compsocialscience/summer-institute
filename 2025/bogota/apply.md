@@ -22,7 +22,6 @@ We welcome applicants from all backgrounds and fields of study, especially appli
 
 Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
 
-
 ## How To Apply
 
 Applicants must submit the following documents: (i) submit their curriculum vitae and (ii) fill out a form describing their research topics and interest in computational social science. In addition, we encourage participants to share an optional writing sample.
@@ -31,6 +30,9 @@ Applicants must submit the following documents: (i) submit their curriculum vita
 
 Inquiries can be sent to [oscar.maldonado@urosario.edu.co](mailto:oscar.maldonado@urosario.edu.co)
 
+## Application Form
+
+You can apply by filling out the application form [here](https://zfrmz.com/40CO8Zx6BeqSjO1w4xeA).
 
 ## Application Frequently Asked Questions
 
