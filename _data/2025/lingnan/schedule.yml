@@ -1,11 +1,98 @@
-- date: "June 16 - June 27, 2025"
+- date: "June 16, 2025"
   events:
-    - name: "Schedule coming soon. Check back for updates!" # Update this line or add markdown for your site's schedule.
-    - name: "test!" # Update this line or add markdown for your site's schedule.
-
-- date: "June 17 - June 27, 2025"
+    - session: "10.00-12.20"
+      content: "Theory Building and CSS"
+      instructor: "Pedro Seguel"
+    - session: "14.00-16.20"
+      content: "Theory Building and CSS"
+      instructor: "Pedro Seguel"
+    - session: "16.30-18.00"
+      content: "Speaker"
+      instructor: "TBC"
+      
+- date: "June 17, 2025"
   events:
-    - name: "Schedule coming soon. Check back for updates!" # Update this line or add markdown for your site's schedule.
-
-
-  # Our tentative schedule can be seen [here](www.google.com). Our program focuses on ... . We will invite guest speakers to provide an overview of ..."
+    - session: "10.00-12.20"
+      content: "Data extraction"
+      instructor: "Pablo Beytía"
+    - session: "14.00-16.20"
+      content: "Data extraction"
+      instructor: "Pablo Beytía"
+    - session: "16.30-18.00"
+      content: "Speaker"
+      instructor: "Pedro Seguel"
+      
+- date: "June 18, 2025"
+  events:
+    - session: "10.00-12.20"
+      content: "Supervised NLP"
+      instructor: "Francisco Olivos/Frankie Wong"
+    - session: "14.00-16.20"
+      content: "Supervised NLP"
+      instructor: "Francisco Olivos/Frankie Wong"
+    - session: "16.30-18.00"
+      content: "Speaker"
+      instructor: "Pablo Beytía"
+      
+- date: "June 19, 2025"
+  events:
+    - session: "10.00-12.20"
+      content: "Unsupervised NLP"
+      instructor: "Francisco Olivos/Frankie Wong"
+    - session: "14.00-16.20"
+      content: "Unsupervised NLP"
+      instructor: "Francisco Olivos/Frankie Wong"
+      
+- date: "June 20, 2025"
+  events:
+    - session: "10.00-12.20"
+      content: "Image clustering"
+      instructor: "Tobias Kamelski"
+    - session: "14.00-16.20"
+      content: "Image clustering"
+      instructor: "Tobias Kamelski"
+      
+- date: "June 23, 2025"
+  events:
+    - session: "10.00-12.20"
+      content: "Group project"
+      instructor: "Students"
+    - session: "14.00-16.20"
+      content: "Speaker"
+      instructor: "TBC"
+      
+- date: "June 24, 2025"
+  events:
+    - session: "10.00-12.20"
+      content: "Group project"
+      instructor: "Students"
+    - session: "14.00-16.20"
+      content: "Speaker"
+      instructor: "TBC"
+      
+- date: "June 25, 2025"
+  events:
+    - session: "10.00-12.20"
+      content: "Group project"
+      instructor: "Students"
+    - session: "14.00-16.20"
+      content: "Speaker"
+      instructor: "TBC"
+      
+- date: "June 26, 2025"
+  events:
+    - session: "10.00-12.20"
+      content: "Group project"
+      instructor: "Students"
+    - session: "14.00-16.20"
+      content: "Speaker"
+      instructor: "TBC"
+      
+- date: "June 27, 2025"
+  events:
+    - session: "10.00-12.20"
+      content: "Presentations"
+      instructor: "Students"
+    - session: "14.00-16.20"
+      content: "Presentations"
+      instructor: "Students"
