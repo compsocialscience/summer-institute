@@ -1,52 +1,52 @@
 - date: "June 16, 2025"
   events:
-    - name: "10:00 - 12:20 Theory Building and CSS\nSpeaker: Pedro Seguel"
-    - name: "14:00 - 16:20 Theory Building and CSS\nSpeaker: Pedro Seguel"
-    - name: "16:30 - 18:00 Speaker\nSpeaker: TBC"
+    - name: "10:00 - 12:20 Theory Building and CSS<br>Speaker: Pedro Seguel"
+    - name: "14:00 - 16:20 Theory Building and CSS<br>Speaker: Pedro Seguel"
+    - name: "16:30 - 18:00 Speaker<br>Speaker: TBC"
 
 - date: "June 17, 2025"
   events:
-    - name: "10:00 - 12:20 Data extraction\nSpeaker: Pablo Beytía"
-    - name: "14:00 - 16:20 Data extraction\nSpeaker: Pablo Beytía"
-    - name: "16:30 - 18:00 Speaker\nSpeaker: Pedro Seguel"
+    - name: "10:00 - 12:20 Data extraction<br>Speaker: Pablo Beytía"
+    - name: "14:00 - 16:20 Data extraction<br>Speaker: Pablo Beytía"
+    - name: "16:30 - 18:00 Speaker<br>Speaker: Pedro Seguel"
 
 - date: "June 18, 2025"
   events:
-    - name: "10:00 - 12:20 Supervised NLP\nSpeaker: Francisco Olivos/Frankie Wong"
-    - name: "14:00 - 16:20 Supervised NLP\nSpeaker: Francisco Olivos/Frankie Wong"
-    - name: "16:30 - 18:00 Speaker\nSpeaker: Pablo Beytía"
+    - name: "10:00 - 12:20 Supervised NLP<br>Speaker: Francisco Olivos/Frankie Wong"
+    - name: "14:00 - 16:20 Supervised NLP<br>Speaker: Francisco Olivos/Frankie Wong"
+    - name: "16:30 - 18:00 Speaker<br>Speaker: Pablo Beytía"
 
 - date: "June 19, 2025"
   events:
-    - name: "10:00 - 12:20 Unsupervised NLP\nSpeaker: Francisco Olivos/Frankie Wong"
-    - name: "14:00 - 16:20 Unsupervised NLP\nSpeaker: Francisco Olivos/Frankie Wong"
+    - name: "10:00 - 12:20 Unsupervised NLP<br>Speaker: Francisco Olivos/Frankie Wong"
+    - name: "14:00 - 16:20 Unsupervised NLP<br>Speaker: Francisco Olivos/Frankie Wong"
 
 - date: "June 20, 2025"
   events:
-    - name: "10:00 - 12:20 Image clustering\nSpeaker: Tobias Kamelski"
-    - name: "14:00 - 16:20 Image clustering\nSpeaker: Tobias Kamelski"
+    - name: "10:00 - 12:20 Image clustering<br>Speaker: Tobias Kamelski"
+    - name: "14:00 - 16:20 Image clustering<br>Speaker: Tobias Kamelski"
 
 - date: "June 23, 2025"
   events:
-    - name: "10:00 - 12:20 Group project\nSpeaker: Students"
-    - name: "14:00 - 16:20 Speaker\nSpeaker: TBC"
+    - name: "10:00 - 12:20 Group project<br>Speaker: Students"
+    - name: "14:00 - 16:20 Speaker<br>Speaker: TBC"
 
 - date: "June 24, 2025"
   events:
-    - name: "10:00 - 12:20 Group project\nSpeaker: Students"
-    - name: "14:00 - 16:20 Speaker\nSpeaker: TBC"
+    - name: "10:00 - 12:20 Group project<br>Speaker: Students"
+    - name: "14:00 - 16:20 Speaker<br>Speaker: TBC"
 
 - date: "June 25, 2025"
   events:
-    - name: "10:00 - 12:20 Group project\nSpeaker: Students"
-    - name: "14:00 - 16:20 Speaker\nSpeaker: TBC"
+    - name: "10:00 - 12:20 Group project<br>Speaker: Students"
+    - name: "14:00 - 16:20 Speaker<br>Speaker: TBC"
 
 - date: "June 26, 2025"
   events:
-    - name: "10:00 - 12:20 Group project\nSpeaker: Students"
-    - name: "14:00 - 16:20 Speaker\nSpeaker: TBC"
+    - name: "10:00 - 12:20 Group project<br>Speaker: Students"
+    - name: "14:00 - 16:20 Speaker<br>Speaker: TBC"
 
 - date: "June 27, 2025"
   events:
-    - name: "10:00 - 12:20 Presentations\nSpeaker: Students"
-    - name: "14:00 - 16:20 Presentations\nSpeaker: Students"
+    - name: "10:00 - 12:20 Presentations<br>Speaker: Students"
+    - name: "14:00 - 16:20 Presentations<br>Speaker: Students"
