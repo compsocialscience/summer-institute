@@ -26,7 +26,7 @@ Interested applicants must submit their application via our [Google Form](https:
 
 Additionally, the form will also ask you to self-identify your skill level in R. This is for informational purposes and not used to evaluate your application. 
 
-**In order to be guaranteed full consideration, all application materials must be submitted by February 28, 2025 (Friday).** 
+**In order to be guaranteed full consideration, all application materials must be submitted by March 07, 2025 (Friday).** 
 
 All application materials must be submitted through this [Google Form](https://forms.gle/aHMyC81rcpXwsnVZ6). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by March 14, 2025 (Friday), and will ask participants to confirm their participation very soon thereafter.
 
