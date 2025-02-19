@@ -7,12 +7,7 @@ partner_site: amu-law
 
 # Pre-arrival
 
-The Summer Institute will bring together people from many fields and backgrounds. In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS-AMU/Law 2025.
-
-- Complete the pre-read
-- Complete coding bootcamp (if needed)
-- Watch lecture videos
-- Prepare your computing environment
+The Summer Institute will bring together people from many fields and backgrounds. In order to use our time together efficiently, there are a number of things that you should complete the pre-read before participating in SICSS-AMU/Law 2025.
 
 Organizers will be available via Slack to support you as you work through these pre-arrival materials. Please feel free to reach out to us!
 
