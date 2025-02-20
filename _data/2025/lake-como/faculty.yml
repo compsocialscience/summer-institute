@@ -1,6 +1,9 @@
-- name: "Faculty info coming soon." # Add faculty name here.
+- name: "Nicolò Cavalli" 
   image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
   bio: "Check back soon for updates." # Add faculty bio here.
-  website: https://www.google.com  # Link faculty website here.
+  website: https://faculty.unibocconi.it/nicolocavalli/  # Link faculty website here.
 
-# Add more faculty with the same format as above...
+- name: "Anne-Marie Jeannet" # Add faculty name here.
+  image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
+  bio: "Check back soon for updates." # Add faculty bio here.
+  website: https://www.unimi.it/en/ugov/person/anne-marie-jeannet  # Link faculty website here.
