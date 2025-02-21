@@ -1,36 +1,36 @@
-- name: "Preliminary list of speakers."
+#- name: "Preliminary list of speakers."
 
 - name: "Abhisek Dash (Max Planck Institute for Software Systems)" # Speaker name goes here.
   image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
   bio: "" # add speaker bio here
   #website: https://www.google.com # update speaker personal link here
 
-  - name: "Bernie Hogan (University of Oxford)" # Speaker name goes here.
+- name: "Bernie Hogan (University of Oxford)" # Speaker name goes here.
   image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
   bio: "" # add speaker bio here
   #website: https://www.google.com # update speaker personal link here
 
-  - name:   "Daniela Braun (Saarland University)" # Speaker name goes here.
+- name:   "Daniela Braun (Saarland University)" # Speaker name goes here.
   image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
   bio: "" # add speaker bio here
   #website: https://www.google.com # update speaker personal link here
   
-  - name:   "Emilio Zagheni (Max Planck Institute for Demographic Research)" # Speaker name goes here.
+- name:   "Emilio Zagheni (Max Planck Institute for Demographic Research)" # Speaker name goes here.
   image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
   bio: "" # add speaker bio here
   #website: https://www.google.com # update speaker personal link here
 
-  - name:   "Georg Wenzelburger (Saarland University)" # Speaker name goes here.
+ - name:   "Georg Wenzelburger (Saarland University)" # Speaker name goes here.
   image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
   bio: "" # add speaker bio here
   #website: https://www.google.com # update speaker personal link here
 
-  - name: "Ridhi Kashyap (University of Oxford)" # Speaker name goes here.
+ - name: "Ridhi Kashyap (University of Oxford)" # Speaker name goes here.
   image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
   bio: "" # add speaker bio here
   #website: https://www.google.com # update speaker personal link here
   
-  - name: "Savvas Zannettou (Delft University of Technology -- TU Delft)" # Speaker name goes here.
+ - name: "Savvas Zannettou (Delft University of Technology -- TU Delft)" # Speaker name goes here.
   image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
   bio: "" # add speaker bio here
   #website: https://www.google.com # update speaker personal link here
