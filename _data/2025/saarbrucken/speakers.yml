@@ -1,5 +1,3 @@
-#- name: "Preliminary list of speakers."
-
 - name: "Abhisek Dash (Max Planck Institute for Software Systems)" # Speaker name goes here.
   image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
   bio: " " # add speaker bio here
