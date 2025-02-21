@@ -1,11 +1,12 @@
 - name: "Ingmar Weber"
   image: /assets/images/SB_F1.jpg
   bio: "Ingmar Weber is an Alexander Humboldt Professor for AI, and holds the chair for Societal Computing at Saarland University. His research looks at how non-traditional data sources, such as social media and satellite images, can be used to study societal phenomena, and to strengthen social development. Topics of interest include monitoring migration and mobility, tracking digital gender gaps, and understanding democratic processes."
-  # website: https://www.google.com 
-
+  website: https://ingmarweber.de/
+  
 - name: "Carolina Coimbra Vieira"
   image: /assets/images/SB_F2.jpeg
   bio: "Carolina Coimbra Vieira is a PhD Student in Computer Science at Universität des Saarlandes (UdS) also affiliated to the Max Planck Institute for Software Systems (MPIDR) and the Max Planck Institute for Software Systems (MPI-SWS). She received her B.Sc. and M.Sc. in Computer Science from Federal University of Minas Gerais (UFMG) in Brazil. Carolina’s research focuses on interdisciplinary topics at the intersection of computer science and the use of digital trace data to study culture, migration, and algorithmically-mediated user engagement on social media platforms."
+  website: https://carolcoimbra.github.io/
 
 - name: "Brahmani Nutakki" 
   image: /assets/images/SB_F3.jpg 
