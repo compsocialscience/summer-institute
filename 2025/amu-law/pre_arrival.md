@@ -29,10 +29,6 @@ Please note that the majority of the coding work presented at SICSS-AMU/Law 2025
 
 ## Computing environment
 
-### R
-
-Some of the activities will require coding, and we will support R. You are welcome to use other languages, but we cannot guarantee that we can support them. Before SICSS you should install a modern, stable-release version of [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/).
-
 ### Slack
 
 Before participating at SICSS-AMU/Law 2025, you should have an account in the SICSS Slack workspace.  If you have not used Slack before, you should review these [getting started](https://slack.com/help/categories/360000049043-Getting-started) materials.  Slack can be hard to use at first, but we've found that it is the best way to enable everyone to collaborate.
