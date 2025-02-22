@@ -1,0 +1,62 @@
+{% include setup_data.html %}
+<!DOCTYPE html>
+<html lang="en" class="year_{{ year }}">
+  <head>
+    {% include header.html %}
+  </head>
+  <body class="sub-page">
+    {% include navbar.html %} {% include hero_secondary.html %} {% include
+    breadcrumb.html %}
+
+    <div class="container my-5 mx-5">
+      <h1 id="featured-story-title">{{ page.title }}</h1>
+      <p id="featured-story-subtitle">Written By: {{ page.author }}</p>
+      <p id="featured-story-date">{{ page.date | date: "%B %d, %Y" }}</p>
+      {% if page.image %}
+      <img
+        src="{{ page.image }}"
+        class="img-fluid mb-4"
+        alt="{{ page.title }}"
+      />
+      {% endif %}
+      <div id="featured-story-content">{{ content }}</div>
+      {% if page.footnote %}
+      <p id="featured-story-footnote">{{ page.footnote }}</p>
+      {% endif %}
+    </div>
+    {% assign stories = site.stories | sort: 'date' | reverse %}
+    {% assign previous_story = nil %}
+    {% assign next_story = nil %}
+    {% for story in stories %}
+      {% if story.url == page.url %}
+        {% assign previous_story_index = forloop.index0 | minus: 1 %}
+        {% assign next_story_index = forloop.index0 | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+
+    <div class="row mt-5">
+      <div class="col-md-6 text-left">
+        {% if previous_story_index >= 0 %}
+          {% assign previous_story = stories[previous_story_index] %}
+          <div class="prev-story">
+            <a href="{{ previous_story.url | absolute_url }}" class="btn btn-link text-muted">
+              &laquo; {{ previous_story.title }}
+            </a>
+          </div>
+        {% endif %}
+      </div>
+      <div class="col-md-6 text-right">
+        {% if next_story_index < stories.size %}
+          {% assign next_story = stories[next_story_index] %}
+          <div class="next-story">
+            <a href="{{ next_story.url | absolute_url }}" class="btn btn-link text-muted">
+              {{ next_story.title }} &raquo;
+            </a>
+          </div>
+        {% endif %}
+      </div>
+    </div>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>
