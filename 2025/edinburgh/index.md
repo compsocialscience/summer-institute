@@ -13,7 +13,7 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is restricted to advanced Ph.D. students, postdoctoral researchers, and junior faculty (within 7 years of their Ph.D). We welcome applicants from all backgrounds and fields of study, especially junior faculty from neighboring institutions near Edinburgh, United Kingdom. About 25-30 participants will be invited. Most participants are expected to fully attend and participate in the entire two-week program, but we are open to alternative arrangements for faculty members. 
 
-Application materials are due on **March 21st, 2025, 23:59 GMT**.
+Application materials are due on **March 21st, 2025, 23:59 GMT**. Applications can be sent through this [Google Form](https://forms.office.com/e/WdnSUtm5D0).
 Inquiries can be sent to [Meera.Gopakumar@ed.ac.uk](Meera.Gopakumar@ed.ac.uk).
 
 
