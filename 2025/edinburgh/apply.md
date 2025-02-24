@@ -7,8 +7,6 @@ partner_site: edinburgh
 
 # Apply
 
-**This page is under construction. Check back soon for more up-to-date info!**
-
 ## Eligibility
 
 We invite applicants from advanced Ph.D. students students, postdoctoral researchers, and faculty within 7 years of their Ph.D., who are able to attend the program in Edinburgh, United Kingdom. We welcome applicants from all backgrounds and fields of study, particularly ... . About ... participants will be invited. However, there are no restrictions based on citizenship, country of study, or country of employment. 
@@ -27,9 +25,9 @@ Applicants must submit the following documents: 1) a curriculum vitae, 2) a stat
 - Your experience and/or interest in collaborative research. Carrying out a collaborative research project is a core component of SICSS-Edinburgh.
 - A possible topic, method, or question you would like to focus on for a collaborative project
 
-**In order to be guaranteed full consideration, all application materials must be submitted by {app due date not yet determined}.** All application materials must be submitted through this [Google Form](https://www.google.com) (form for this site not yet created). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by {decision date not yet determined}, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by 23:59 GMT, March 21, 2025.** All application materials must be submitted through this [Google Form](https://forms.office.com/e/WdnSUtm5D0). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by **March 28th, 2025**, and will ask participants to confirm their participation very soon thereafter.
 
-Inquiries can be sent to [site email not set up](email@goes.here).
+Inquiries can be sent to [Meera.Gopakumar@ed.ac.uk](Meera.Gopakumar@ed.ac.uk).
 
 ## Application Frequently Asked Questions
 
