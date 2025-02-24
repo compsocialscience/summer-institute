@@ -23,10 +23,10 @@
   bio: Aybuke Atalay is a PhD candidate at the School of Social and Political Science, University of Edinburgh. Her research sits at the intersection of computational social science and political communication, with a particular focus on automated accounts and their role in social media manipulation and online disinformation in hybrid regimes. Her PhD thesis examines social bots in the Turkish Twittersphere.
   website: https://www.sps.ed.ac.uk/staff/aybuke-atalay
 
-- name: Zee Talat
-  image: 
-  bio: 
-  website: 
+- name: Zeerak Talat
+  image: /assets/images/zeerak_t.jpeg
+  bio: Zeerak Talat (They/Them) is a Chancellor’s Fellow in Responsible Machine Learning and Artificial Intelligence at the Centre for Technomoral Futures and the School of Informatics, where they are a member of the Institute for Language, Cognition and Computation, at the University of Edinburgh, and they are a Faculty Fellow at the Distributed AI Research Institute. Zeerak works on the intersection between machine learning, science and technology studies, and media studies. Their research seeks to examine how machine learning systems interact with our societies and the downstream effects of introducing machine learning to our society through the lens of content moderation technologies.
+  website: https://zeerak.org/
 
 - name: Meera Gopakumar
   image: /assets/images/meera_g.jpg
