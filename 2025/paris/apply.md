@@ -31,7 +31,7 @@ In order to be guaranteed consideration, all application materials must be submi
 Inquiries can be sent to SICSSParis@gmail.com.
 
 
-**In order to be guaranteed full consideration, all application materials must be submitted by March 15.** All application materials must be submitted through this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScnjlH7b3VOrTNcfZPXDYfEUpsRIiTskAhEBgrR4rKbQZrXQg/viewform). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 1<sup>st</sup>, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by ~~March 15~~ March 28.** All application materials must be submitted through this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScnjlH7b3VOrTNcfZPXDYfEUpsRIiTskAhEBgrR4rKbQZrXQg/viewform). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by ~~April 1<sup>st</sup>~~ April 17, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to [SICSSParis@gmail.com](SICSSParis@gmail.com).
 
