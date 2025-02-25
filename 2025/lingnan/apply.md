@@ -9,7 +9,9 @@ partner_site: lingnan
 
 ## Eligibility
 
-We invite applicants from advanced Ph.D. students, postdoctoral researchers, and faculty within 7 years of their Ph.D., who are able to attend the program in Hong Kong SAR. We welcome applicants from all backgrounds and fields of study, particularly social sciences. About 20 participants will be invited. However, there are no restrictions based on citizenship, country of study, or country of employment. 
+We invite applicants from advanced research postgraduate students, postdoctoral researchers, and faculty within 7 years of their Ph.D., who are able to attend the program in Hong Kong SAR. We welcome applicants from all backgrounds and fields of study, particularly social sciences. About 20 participants will be invited. However, there are no restrictions based on citizenship, country of study, or country of employment. 
+
+The Summer Institute is free of cost; however, we do not cover flight tickets or accommodation expenses. Participants are expected to arrange and fund their own travel and lodging. Accommodation is available on campus, but participants will need to cover the cost themselves.
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp.
 
