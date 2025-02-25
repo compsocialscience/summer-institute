@@ -21,15 +21,15 @@ We evaluate applicants along a number of dimensions: 1) research, teaching, or w
 
 Along with completing the Google form, interested candidates must submit the following documents with their application: 1) a curriculum vitae, 2) a statement (maximum two pages double-spaced) describing: 
 
-- Your current research
+- Your current research or work
 - Why you want to participate in SICSS-Minnesota
 - How participation will aid your future research, teaching, or work
 - Your experience and/or interest in collaborative research. Carrying out a collaborative research project is a core component of SICSS-Minnesota.
 - A possible topic, method, or question you would like to focus on for a collaborative project
 
-**In order to be guaranteed full consideration, all application materials must be submitted by Friday May 02, 2025, 11:30 PM Central Time.** All application materials must be submitted through this [Google Form](form will be published shortly). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by mid-May, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by Friday May 02, 2025, 11:30 PM Central Time.** All application materials must be submitted through this [Google Form] (form will be published shortly). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through email by mid-May, and will ask participants to confirm their participation very soon thereafter.
 
-Please direct inquiries or questions to us at  SICSS-MINNESOTA@GUSTAVUS.EDU.
+Inquiries? Email us! SICSS-MINNESOTA@GUSTAVUS.EDU.
 
 ## Application Frequently Asked Questions
 
