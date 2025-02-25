@@ -15,21 +15,21 @@ We invite applicants from advanced Ph.D. students students, postdoctoral researc
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp.
 
-We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
+We evaluate applicants along a number of dimensions: 1) research, teaching, or work in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
 
 ## How To Apply
 
-Applicants must submit the following documents: 1) a curriculum vitae, 2) a statement (maximum two pages double-spaced) describing: 
+Along with completing the Google form, interested candidates must submit the following documents with their application: 1) a curriculum vitae, 2) a statement (maximum two pages double-spaced) describing: 
 
 - Your current research
 - Why you want to participate in SICSS-Minnesota
-- How participation will aid your future research
+- How participation will aid your future research, teaching, or work
 - Your experience and/or interest in collaborative research. Carrying out a collaborative research project is a core component of SICSS-Minnesota.
 - A possible topic, method, or question you would like to focus on for a collaborative project
 
-**In order to be guaranteed full consideration, all application materials must be submitted by Friday May 02, 2025, 11:30 PM Central Time.** All application materials must be submitted through this [Google Form](https://www.google.com) (form for this site not yet created). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by mid-May, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by Friday May 02, 2025, 11:30 PM Central Time.** All application materials must be submitted through this [Google Form](form will be published shortly). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by mid-May, and will ask participants to confirm their participation very soon thereafter.
 
-Inquiries can be sent to [site email not set up](email@goes.here).
+Please direct inquiries or questions to us at  SICSS-MINNESOTA@GUSTAVUS.EDU.
 
 ## Application Frequently Asked Questions
 
