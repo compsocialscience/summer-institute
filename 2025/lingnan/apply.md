@@ -35,8 +35,12 @@ Inquiries can be sent to [franciscoolivosrave@LN.edu.hk](franciscoolivosrave@LN.
 
 #### Can I apply to more than one Summer Institute location?
 
-Yes, but not at the same time. For example, you can apply to SICSS-Lingnan, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.
+Yes, but not at the same time. For example, you can apply to SICSS-Lingnan, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an application under review at two locations simultaneously.
 
 #### Can I participate in SICSS-Lingnan if I have already participated in SICSS at another location?
 
 Unfortunately, no. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
+
+#### Are travel and accommodation costs covered for participants?
+
+The Summer Institute is free of cost; however, we do not cover flight tickets or accommodation expenses. Participants are expected to arrange and fund their own travel and lodging. Accommodation is available on campus, but participants will need to cover the cost themselves.
