@@ -29,7 +29,7 @@ Along with completing the Google form, interested candidates must submit the fol
 
 **In order to be guaranteed full consideration, all application materials must be submitted by Friday May 02, 2025, 11:30 PM Central Time.** 
 
-All application materials must be submitted through the "SICSS-Minnesota 2025 Application" [Google Form] (https://docs.google.com/forms/d/e/1FAIpQLSdpRS7_oKRggXejD9xZyYkcsB375MvXTyV6bDbZO7bHOud17Q/viewform). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through email by mid-May, and will ask participants to confirm their participation very soon thereafter. 
+All application materials must be submitted via "SICSS-Minnesota 2025 Application" [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdpRS7_oKRggXejD9xZyYkcsB375MvXTyV6bDbZO7bHOud17Q/viewform). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through email by mid-May, and will ask participants to confirm their participation very soon thereafter. 
 
 Inquiries? Email us!
 SICSS-MINNESOTA@GUSTAVUS.EDU.
