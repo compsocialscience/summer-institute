@@ -14,7 +14,7 @@ The Summer Institute will bring together people from many fields and backgrounds
 - Watch lecture videos
 - Prepare your computing environment
 
-Organizers will be available via Slack to support you as you work through these pre-arrival materials. Please feel free to reach out to us!
+Organizers will be available through email to support you as you work through these pre-arrival materials. Please feel free to reach out to us!
 
 ## Reading
 
