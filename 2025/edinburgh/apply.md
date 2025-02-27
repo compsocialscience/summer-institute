@@ -17,7 +17,7 @@ Participants with less experience in social science research will be expected to
 
 ## How To Apply
 
-Applicants must submit the following documents: 1) a curriculum vitae, 2) a statement (maximum two pages double-spaced) describing: 
+Applicants must submit the following documents: 1) **a curriculum vitae**, 2) **a statement of interest** (maximum two pages double-spaced) describing: 
 
 - Your current research
 - Why you want to participate in SICSS-Edinburgh
@@ -25,7 +25,7 @@ Applicants must submit the following documents: 1) a curriculum vitae, 2) a stat
 - Your experience and/or interest in collaborative research. Carrying out a collaborative research project is a core component of SICSS-Edinburgh.
 - A possible topic, method, or question you would like to focus on for a collaborative project
 
-**In order to be guaranteed full consideration, all application materials must be submitted by 23:59 GMT, March 21, 2025.** All application materials must be submitted through the [Google Form](www.google.com) **Please note that the form is under construction now and will be available very soon**. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by **March 28th, 2025,** and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by 23:59 GMT, March 21, 2025.** All application materials must be submitted through the [Google Form](https://forms.gle/cGZBhYS5YRjQQz6q7) . Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by **March 28th, 2025,** and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to [Meera.Gopakumar@ed.ac.uk](Meera.Gopakumar@ed.ac.uk).
 
