@@ -11,7 +11,7 @@ From June 29 to July 12, 2025 Lake Como School of Advanced Studies will host the
 
 The instructional program will involve lectures, group problem sets, and participant-led research projects, with a special emphasis on causal inference. There will also be outside speakers who conduct computational social science research in a variety of settings, such as academia, industry, and government. Topics covered include causal inference with observational data, text analysis, network analysis, survey experiments, and machine learning. There will be ample opportunities for students to discuss their ideas and research with the organizers, other participants, and visiting speakers. Because we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute will be released open source.
 
-Participation is restricted to advanced Ph.D. students, postdoctoral researchers, and junior faculty (within 7 years of their Ph.D). We welcome applicants from all backgrounds and fields of study. About 15-22 participants will be invited. Most participants are expected to fully attend and participate in the entire 14-day program, but we are open to alternative arrangements for faculty members. 
+Participation is restricted to advanced Ph.D. students, postdoctoral researchers, and junior faculty (within 7 years of their Ph.D). We welcome applicants from all backgrounds and fields of study. About 15-20 participants will be invited. Most participants are expected to fully attend and participate in the entire 14-day program, but we are open to alternative arrangements for faculty members. 
 
 Application materials are due on 31st of March 2025.
 
