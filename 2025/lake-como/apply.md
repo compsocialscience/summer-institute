@@ -27,7 +27,7 @@ Applicants must submit the following documents: 1) a curriculum vitae, 2) a stat
 - Your experience and/or interest in collaborative research. Carrying out a collaborative research project is a core component of SICSS-Lake Como.
 - A possible topic, method, or question you would like to focus on for a collaborative project
 
-**In order to be guaranteed full consideration, all application materials must be submitted by 31st of March 2025.** All application materials must be submitted through this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeQO7QI4PLWD57am-uua1iJUha73aqPuBn_Y_pzsvM9DZFCiw/viewform). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by {decision date not yet determined}, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by 31st of March 2025.** All application materials must be submitted through this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeQO7QI4PLWD57am-uua1iJUha73aqPuBn_Y_pzsvM9DZFCiw/viewform). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 18th, 2025 , and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to **sicss.lakecomo@gmail.com**.
 
