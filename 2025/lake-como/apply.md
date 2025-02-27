@@ -19,7 +19,7 @@ We evaluate applicants along a number of dimensions: 1) research and teaching in
 
 ## How To Apply
 
-Applicants must submit the following documents: 1) a curriculum vitae, 2) a statement (maximum two pages double-spaced) describing: 
+Applicants must submit the following documents: 1) a curriculum vitae, 2) a statement describing: 
 
 - Your current research
 - Why you want to participate in SICSS-Lake Como
