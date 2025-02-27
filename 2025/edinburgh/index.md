@@ -32,7 +32,7 @@ Similar to SICSS-2023, we are again innovating on the second week group work nor
 ## Eligibility
 Participation is restricted to advanced Ph.D. students, postdoctoral researchers, and junior faculty (within 7 years of their Ph.D). We welcome applicants from all backgrounds and fields of study, especially junior faculty from neighboring institutions near Edinburgh, United Kingdom. About 25-30 participants will be invited. Most participants are expected to fully attend and participate in the entire two-week program, but we are open to alternative arrangements for faculty members. 
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2023/edinburgh/apply) are due **March 21st, 2025, 23:59 GMT**. 
+[Application materials](https://compsocialscience.github.io/summer-institute/2025/edinburgh/apply) are due **March 21st, 2025, 23:59 GMT**. 
 
 Inquiries can be sent to [Meera.Gopakumar@ed.ac.uk](Meera.Gopakumar@ed.ac.uk).
 
