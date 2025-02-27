@@ -11,7 +11,7 @@ partner_site: lake-como
 
 ## Eligibility
 
-We invite applicants from advanced Ph.D. students students, postdoctoral researchers, and faculty within 7 years of their Ph.D., who are able to attend the program in Como, Italy. We welcome applicants from all backgrounds and fields of study. There are no restrictions based on citizenship, country of study, or country of employment. 
+We invite applicants from advanced Ph.D. students, postdoctoral researchers, and faculty within 7 years of their Ph.D., who are able to attend the program in Como, Italy. We welcome applicants from all backgrounds and fields of study. There are no restrictions based on citizenship, country of study, or country of employment. 
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp.
 
