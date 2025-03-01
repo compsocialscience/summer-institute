@@ -1,0 +1,53 @@
+- name: "Francisco Olivos" # Add faculty name here.
+  image: /assets/images/Olivos.jpg  # Add faculty image to assets/images/ and update here.
+  bio: |
+    Francisco earned his Ph.D. in Sociology from The Chinese University of Hong Kong. He also holds 
+    a Master’s degree in Sociology and Social Research from Utrecht University, as well as a Master’s 
+    and Bachelor’s degree in Sociology from the Pontifical Catholic University of Chile. Since joining 
+    Lingnan University in August 2021, Francisco has focused his research on the intersections of cultural 
+    sociology, social stratification, and subjective well-being, employing quantitative and computational
+    methods to advance these fields.
+  website: https://www.fjolivos.com/  # Link faculty website here.
+
+- name: "Frankie Ho Chun Wong" # Add faculty name here.
+  image: /assets/images/Wong.jpg  # Add faculty image to assets/images/ and update here.
+  bio: |
+    Frankie Ho Chun Wong studies the intersection between digital media, health, and society. 
+    Frankie obtained his Ph.D. from Philip Merrill College of Journalism, University of Maryland, 
+    College Park. Prior to that, he worked at The University of Hong Kong on ageing and mental 
+    health research. Frankie employs machine learning, natural language processing, and mixed 
+    methods techniques, looking for nuances in the sea of data. His work examines how social and 
+    policy issues were shaped by new media and technology in the digital age, as well as the 
+    influence of social and demographic factors on media use and health outcomes.
+  website: https://www.ln.edu.hk/socsp/people/academic-staff/professor-wong-ho-chun-frankie  # Link faculty website here.
+
+- name: "Tobias Kamelski" # Add faculty name here.
+  image: /assets/images/Kamelski.jpg  # Add faculty image to assets/images/ and update here.
+  bio: |
+    Tobias obtained his Master of Arts (Socio-cultural Studies) from the Faculty of Social and Cultural Sciences at  
+    European University Viadrina Frankfurt (Oder), Germany. Before that, he studied at the Rhine-Waal University 
+    of Applied Sciences and the Catholic University of Korea. He is currently a Ph.D. candidate in Sociology at Lingnan 
+    University. In his research project, he investigates the anticipation of attraction, self-presentation, and 
+    impression management utilizing computational image analysis. 
+  website: https://www.ln.edu.hk/socsp/people/postgraduate-students/tobias-kamelski  # Link faculty website here.
+
+- name: "Pablo Beytia" # Add faculty name here.
+  image: /assets/images/Beytia.jpg  # Add faculty image to assets/images/ and update here.
+  bio: |
+    He holds a Ph.D. from the Humboldt University of Berlin and is the director of Monitor Social (www.monitorsocial.cl), 
+    a company dedicated to creating systems that report real-time social indicators. His research focuses on how digital 
+    platforms frame information about humans, creating content inequalities that favor specific social groups. Pablo’s 
+    research interests include digital discourse, open knowledge, platform power, digital social memory, and artificial 
+    intelligence for social data reporting.
+  website: https://ptbeytia.github.io/  # Link faculty website here.
+
+- name: "Pedro Seguel" # Add faculty name here.
+  image: /assets/images/Seguel.jpg  # Add faculty image to assets/images/ and update here.
+  bio: |
+    Pedro Seguel's research focuses on understanding the evolution of technology and the changing landscape of IT job 
+    skills. He uses a combination of computational social sciences and traditional qualitative methods to study the 
+    factors behind digital innovation, the IT workforce, and developer communities. With an interdisciplinary background, 
+    he holds a Ph.D. (c) in Management of Information Systems from McGill University, an M.Sc. in Information Studies 
+    from the University of Texas at Austin, and an M.Sc. and B.Sc. in Sociology from the Pontifical Catholic University 
+    of Chile.
+  website: https://www.torontomu.ca/information-technology-management/faculty-research/pedro-seguel/  # Link faculty website here.

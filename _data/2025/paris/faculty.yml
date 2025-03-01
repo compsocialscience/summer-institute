@@ -1,0 +1,26 @@
+- name: Julien Boelaert
+  image: /assets/images/julien_boelaert.png
+  bio: Julien Boelaert is an Assistant professor in Political Science at Lille University/CERAPS (currently on sabbatical). He has been experimenting with, and thinking about, machine learning for social sciences since 2010 and is currently working on mass-media content analysis with a text-as-data approach.
+  website: https://pro.univ-lille.fr/julien-boelaert
+
+- name: Jean-Philippe Cointet
+  image: /assets/images/jeanphilippe_cointet.png
+  bio: Professor of Sociology and director of the Open Institute for Digital Transformations in Sciences Po, Jean-Philippe specializes in the development of innovative methods for the social sciences and humanities. His main fields of interest are computational linguistics and network science. He has long worked on the mapping of research communities through the analysis of bibliometric data, and later on the dynamics of scientific knowledge circulation and its contestation in social media platforms. More recently, he has been analyzing the structure of the digital public space through various empirical case studies on misinformation, polarization or collective mobilization.
+  website: https://scholar.google.fr/citations?user=of0_Ps0AAAAJ&hl=en
+
+- name: Etienne Ollion
+  image: /assets/images/etienne_ollion.jpeg
+  bio: Étienne Ollion is a CNRS research fellow and Professor of Sociology at École Polytechnique. His research focuses on politics, and he integrates digital data to more classic data sources and methods.
+  website: www.ollion.cnrs.fr
+
+- name: Émilien Schultz
+  image: /assets/images/emilien_schultz.png
+  bio: Émilien is a research engineer at CREST, committed to the development of computational social science practices and data analysis. His main interests include science studies, scientific software, Python, and connecting social and computer science
+  website: https://emilienschultz.github.io/
+
+- name: Hesu Yoon
+  image: /assets/images/hesu_yoon.jpg
+  bio: Hesu is an assistant professor at the ENSAE. Her research investigates how places are perceived and evaluated in ways that reinforce or shift inequalities by race and class. She takes various methodological approaches to answer research questions, including online survey experiments, digital trace data, and interviews.
+  website: https://crest.science/user/hesu-yoon/
+
+

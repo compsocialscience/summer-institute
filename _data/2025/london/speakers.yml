@@ -1,0 +1,41 @@
+#- name: "Speaker info coming soon." # Speaker name goes here.
+#  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
+#  bio: " ... " # add speaker bio here
+#  website: https://www.google.com # update speaker personal link here
+
+- name: "Doyne Farmer" # Speaker name goes here.
+  image: /assets/images/London_2025_Speakers_Doyne.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "J. Doyne Farmer is Director of the Complexity Economics programme at the Institute for New Economic Thinking and Baillie Gifford Professor of Complex Systems Science at the Smith School of Enterprise and the Environment, University of Oxford. He is also External Professor at the Santa Fe Institute and CEO and Chief Scientist at Macrocosm.
+His current research is in economics, including agent-based modeling, financial instability and technological progress. He was a founder of Prediction Company, a quantitative automated trading firm that was sold to UBS in 2006. His past research includes complex systems, dynamical systems theory, time series analysis and theoretical biology. His book, Making Sense of Chaos: A Better Economics for a Better World, was published in 2024.
+During the 1980s he was an Oppenheimer Fellow and the founder of the Complex Systems Group at Los Alamos National Laboratory. While a graduate student in the 1970s he built the first wearable digital computer, which was successfully used to predict the game of roulette. " # add speaker bio here
+  website: https://www.oxfordmartin.ox.ac.uk/people/doyne-farmer # update speaker personal link here
+
+- name: "Neave O'Cleary" # Speaker name goes here.
+  image: /assets/images/London_2025_Speakers_Neave.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Neave O'Clery is Professor of Cities and Networks, and Director of Research, at the Centre for Advanced Spatial Analysis (CASA) at University College London where she leads an inter-disciplinary research group focused on data-driven models for economic development and developing cities. She is currently seconded part time to the UK Foreign, Commonwealth and Development Office. Her work spans a number of topics and fields including economic complexity and evolutionary economic geography, the informal economy, urban mobility and network science. Neave was previously a Senior Research Fellow at the Mathematical Institute at the University of Oxford, and before this a Fulbright Scholar at the Center for International Development at the Harvard Kennedy School. She is founder and Chair of the Oxford Summer School in Economic Networks, an annual multi-disciplinary summer school since 2017. She holds a PhD (mathematics) from Imperial College.  " # add speaker bio here
+  website: https://profiles.ucl.ac.uk/72077 # update speaker personal link here
+
+- name: "Pierpaolo Vivo" # Speaker name goes here.
+  image: /assets/images/London_2025_Speakers_Pierpaolo.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Pierpaolo Vivo studied Physics at the Università degli Studi di Parma (Italy), where he also graduated in Theoretical Physics cum laude in 2005. He then moved to Brunel University (West London), where he obtained his PhD in 2008. He spent three years as Postdoctoral Fellow at Abdus Salam ICTP - Trieste (Italy), where he worked in the Condensed Matter and Statistical Physics group. During the period 2011-2014 he worked as a research scientist at the Laboratoire de Physique Théorique et Modèles Statistiques (LPTMS) in Orsay, (France). He has been a permanent member of the Disordered Systems group at King's College London since September 2014, where leads the Quantitative and Digital Law Lab in the Department of Mathematics at King’s College London, a team of five people supported by a UKRI Future Leaders Fellowship that promotes a quantitative approach to issues around the complexity of legal systems. In this role, he collaborated on two guest-edited collections: “The physics of the law: legal systems through the prism of complexity science” (Frontiers in Physics, 2021) and “A complexity science approach to law and governance” (Philosophical Transactions of the Royal Society A, 2024)." # add speaker bio here
+  website: https://www.kcl.ac.uk/people/pierpaolo-vivo # update speaker personal link here
+
+- name: "Sanaz Talaifar" # Speaker name goes here.
+  image: /assets/images/London_2025_Speakers_Sanaz.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Sanaz Talaifar is an Assistant Professor in Organisational Behaviour at Imperial College London. She studies identity and its intersections with politics and technology using a multi-method approach that combines traditional methods (surveys, experiments) with novel methods (mobile sensing, experience sampling). She is particularly interested in theory-method synergy, wherein novel methods inform the development of theory and theoretical insights inform the development of novel methods. Previously, Sanaz was a Postdoctoral Scholar in Organizational Behavior at Stanford University and received her PhD in Social and Personality Psychology from the University of Texas at Austin. Outside of academia, she has worked in people analytics at Google and in executive search at Egon Zehnder. " # add speaker bio here
+  website: https://www.sanaztalaifar.com/ # update speaker personal link here
+
+- name: "Mike Yeomans" # Speaker name goes here.
+  image: /assets/images/London_2025_Speakers_Mike.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Mike Yeomans is an Assistant Professor in Strategy and Organisational Behaviour at Imperial College Business School.
+In his research, Mike studies the decisions we make in conversation. We are a social species, doing and learning so much with one another. And the things we choose to say can have profound impacts on our relationships in business, and in life. His work explores the many ways that language technology can help us understand and improve our conversational decisions, so that we can better pursue our social goals together."
+  website: https://www.mikeyeomans.info # update speaker personal link here
+
+- name: "Stefania Innocenti" # Speaker name goes here.
+  image: /assets/images/London_2025_Speakers_Stefania.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Stefania Innocenti is a Departmental Research Lecturer (Assistant Professor equivalent) at the Smith School of Enterprise and the Environment at the University of Oxford. She is an applied economist working at the intersection of behavioural economics, environmental economics and public policy.
+  Stefania co-leads the Economics of Sustainability programme at the School and at the Institute for New Economic Thinking. She is also an Associate Member of the Economics Department at the University of Oxford and a member of Brasenose College." # add speaker bio here
+  website: https://stefaniainnocenti.com/ # update speaker personal link here
+
+
+

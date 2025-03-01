@@ -1,0 +1,34 @@
+- name: Tuğrulcan Elmas
+  image: /assets/images/tjelmas.jpeg
+  bio: Tuğrulcan Elmas is a Lecturer in the School of Informatics at the University of Edinburgh. He is a co-director of the Social Media Analysis and Support for Humanity (SMASH) group. His research focuses on computational methods to understand and counter social media manipulation, leveraging data science, security, and machine learning techniques. He received his Ph.D. from EPFL in 2022, and spent a year as a postdoctoral scholar at Indiana University's Observatory on Social Media (OSOME).
+  website: https://tugrulcan.com/
+
+- name: Tod Van Gunten
+  image: /assets/images/todvangunten.jpg
+  bio: Tod Van Gunten is a comparative economic and political sociologist with interests in social networks, development, organizations, globalization, the sociology of knowledge and professions, and sociological theory. His empirical research centers on elite political networks and the economic sociology of financial institutions, particularly in Latin America.
+  website: https://todvangunten.com/
+
+- name: Walid Magdy
+  image: /assets/images/walidmagdy.png
+  bio: Walid Magdy is a faculty member at the Institute for Language, Cognition and Computation (ILCC), part of the School of Informatics, the Univeristy of Edinburgh. He is also a faculty fellow at The Alan Turing Institute. His main expertise is in computational social science, data mining, and natural language processing. He holds a PhD degree from the School of Computing, Dublin City University (DCU). He has a large industrial background from working earlier for Qatar Computing Research Institute (QCRI), Microsoft, and IBM.
+  website: https://homepages.inf.ed.ac.uk/wmagdy/
+  
+- name: Björn Ross
+  image: /assets/images/bjornross.jpg
+  bio: Björn Ross is a Lecturer (Assistant Professor) in Computational Social Science at the University of Edinburgh School of Informatics, in the Institute for Language, Cognition and Computation. In his research, he primarily uses computational methods from agent-based modelling, natural language processing and social network analysis to study social media and related technologies. A key focus of his research is to explore different aspects of social media, such as misinformation, hate speech, and the malicious use of automation (bots), as well as how social media can be used effectively for social good, such as in crisis communication.
+  website: https://sweb.inf.ed.ac.uk/bross3/
+
+- name: Aybuke Atalay
+  image: /assets/images/aybuke-atalay.jpeg
+  bio: Aybuke Atalay is a Teaching Fellow at the School of Social and Political Science, University of Edinburgh. Her research sits at the intersection of computational social science and political communication, with a particular focus on automated accounts and their role in social media manipulation and online disinformation in hybrid regimes. Her PhD thesis examines social bots in the Turkish Twittersphere.
+  website: https://www.sps.ed.ac.uk/staff/aybuke-atalay
+
+- name: Zeerak Talat
+  image: /assets/images/zeerak_t.jpeg
+  bio: Zeerak Talat (They/Them) is a Chancellor’s Fellow in Responsible Machine Learning and Artificial Intelligence at the Centre for Technomoral Futures and the School of Informatics, where they are a member of the Institute for Language, Cognition and Computation, at the University of Edinburgh, and they are a Faculty Fellow at the Distributed AI Research Institute. Zeerak works on the intersection between machine learning, science and technology studies, and media studies. Their research seeks to examine how machine learning systems interact with our societies and the downstream effects of introducing machine learning to our society through the lens of content moderation technologies.
+  website: https://zeerak.org/
+
+- name: Meera Gopakumar
+  image: /assets/images/meera_g.jpg
+  bio: Meera Gopakumar is a PhD Student in Religious Studies at the University of Edinburgh. She has previously studied Political Science at Jawaharlal Nehru University, India and taught in colleges under University of Delhi. Her ongoing doctoral research is an ethnographic study on rationalist movements in India, with particular focus on Kerala.
+  website: 

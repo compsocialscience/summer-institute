@@ -5,8 +5,8 @@
 
 - name: Pablo Beytía
   image: /assets/images/beytia2023.png
-  bio: Pablo Beytía is a lecturer of digital methods for social research at the Institute of Sociology of the Catholic University of Chile and a Ph.D. candidate in the Department of Social Sciences at the Humboldt University of Berlin. He is also a research fellow at the Weizenbaum Institute for the Networked Society (Germany) and director of the social analytics platform Monitor Social (www.monitorsocial.cl). His doctoral research focuses on how Wikipedia frames information about humans by creating biographies that establish content inequalities favoring specific social groups. Pablo’s research interests include digital discourse, open knowledge, platform power, digital social memory, and artificial intelligence for social data reporting.
-  website: https://scholar.google.com/citations?hl=en&user=mKJpNdQAAAAJ&view_op=list_works&sortby=pubdate
+  bio: "Pablo Beytía is an adjunct professor of digital society and computational social science at the Institute of Sociology of the Catholic University of Chile. He holds a Ph.D. from the Humboldt University of Berlin and is the director of Monitor Social (www.monitorsocial.cl), a company dedicated to creating systems that report real-time social indicators. His research focuses on how digital platforms frame information about humans, creating content inequalities that favor specific social groups. Pablo’s research interests include digital discourse, open knowledge, platform power, digital social memory, and artificial intelligence for social data reporting."
+  website: https://ptbeytia.github.io/
 
 - name: Cristian Candia
   image: /assets/images/ccandia2024.png
