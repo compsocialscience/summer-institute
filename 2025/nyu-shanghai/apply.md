@@ -7,8 +7,6 @@ partner_site: nyu-shanghai
 
 # Apply
 
-**This page is under construction. Check back soon for more up-to-date info!**
-
 ## Eligibility
 
 Participation is restricted to  graduate students, postdoctoral researchers, and early career faculty. However, there are no restrictions based on citizenship, country of study, or country of employment. About 25 participants will be invited.
