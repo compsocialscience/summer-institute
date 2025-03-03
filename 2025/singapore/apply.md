@@ -26,7 +26,7 @@ To apply, applicants shall submit the following documents via email to <mailto:s
 3. applicants who are graduate students or postdoctoral researchers must submit the contact information of one faculty advisor. **Letters of recommendation are not required at this point**.
 4. **(optional)** one writing sample that is no more than 35 pages. Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences in the email body describing the contributions of each individual author.
 
-**In order to be guaranteed full consideration, all application materials must be submitted by 15th April, 2024 AoE (Anywhere on Earth).** All application materials must be submitted through email. Applicants should include their name in all application file names. For example, the submitted CV should be named *FirstnameLastname_CV.pdf*. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by 5th May, 2024, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by 15th April, 2025 AoE (Anywhere on Earth).** All application materials must be submitted through email. Applicants should include their name in all application file names. For example, the submitted CV should be named *FirstnameLastname_CV.pdf*. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by 5th May, 2024, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to <mailto:sicss.singapore@gmail.com>.
 

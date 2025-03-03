@@ -1,4 +1,9 @@
-- name: "Speaker info coming soon." # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " ... " # add speaker bio here
-  website: https://www.google.com # update speaker personal link here
+- name: Bart Bonikowski # Speaker name goes here.
+  image: /assets/images/bart_bonikowski.jpeg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: Bart Bonikowski is Associate Professor of Sociology and Politics at New York University. Using relational survey methods, computational text analysis, and experimental research, his work applies insights from cultural sociology to the study of politics in the United States and Europe, with a particular focus on nationalism, populism, and radical-right parties.
+  website: https://wp.nyu.edu/bonikowski/ # update speaker personal link here
+
+- name: Eunji Kim # Speaker name goes here.
+  image: /assets/images/eunji_kim.jpeg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: Eunji Kim is an Assistant Professor of Political Science at Columbia University. Perceptions of collectivities—impersonal entities ranging from a nation to a particular social group—are one of the central forces that shape politics. Her research studies the primary source that cultivates the perceptions of “others” who are outside the realm of citizens’ personal experiences. 
+  website: https://www.eunjikim.pub/ # update speaker personal link here

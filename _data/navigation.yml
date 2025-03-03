@@ -12,6 +12,8 @@
   items:
     - name: All News
       url: "/in-the-news"
+    - name: Featured Stories
+      url: "/featured-stories"
 - name: About
   items:
     - name: About SICSS
