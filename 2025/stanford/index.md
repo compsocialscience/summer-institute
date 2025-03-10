@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: stanford
 main: true
-image: /assets/images/tbd.jpg
+image: /assets/images/2025/stanford/homepage-banner.jpg
 ---
 
 From August 4 to August 15, 2025 the Social Media Lab will host a Summer Institute in Computational Social Science to be held at Stanford University (SICSS-Stanford). The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, faculty, and others interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
