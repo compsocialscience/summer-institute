@@ -5,11 +5,9 @@ partner_site: stanford
 
 # Apply
 
-**This page is under construction. Check back soon for more up-to-date info!**
-
 ## Eligibility
 
-We invite applications from Ph.D. students, postdoctoral researchers, and faculty within 7 years of their Ph.D., who are able to attend the program in-person at Stanford University. We welcome applicants from all backgrounds and fields of study, particularly those interested in studying online platforms, such as social media or search engines. About 25-30 participants will be invited and there are no restrictions based on citizenship, country of study, or country of employment. 
+We invite applications from Ph.D. students, postdoctoral researchers, and faculty within 7 years of their Ph.D., who are able to attend the program in-person at Stanford University. We welcome applicants from all backgrounds and fields of study, including data journalists and other non-academic researchers, especially those interested in studying online information systems and emerging technologies, which will be a focal point of SICSS-Stanford. About 25-30 participants will be invited and there are no restrictions based on citizenship, country of study, or country of employment. 
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience in social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete the [SICSS boot camp](https://sicss.io/boot_camp).
 
