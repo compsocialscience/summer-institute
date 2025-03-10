@@ -7,3 +7,11 @@
   image: /assets/images/eunji_kim.jpeg  # Upload speaker image to /assets/images/ and update URL here.
   bio: Eunji Kim is an Assistant Professor of Political Science at Columbia University. Perceptions of collectivities—impersonal entities ranging from a nation to a particular social group—are one of the central forces that shape politics. Her research studies the primary source that cultivates the perceptions of “others” who are outside the realm of citizens’ personal experiences. 
   website: https://www.eunjikim.pub/ # update speaker personal link here
+
+- name: Jan G. Voelkel # Speaker name goes here.
+  image: /assets/images/jan_voelkel.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: Jan G. Voelkel is an incoming Assistant Professor at the Jeb E. Brooks School of Public Policy at Cornell University. Currently, Jan is a Postdoctoral Researcher at The Wharton School at the University of Pennsylvania and Cornell University. Jan's research examines under which conditions micro-level preferences for more equality and unity influence macro-level outcomes, such as elections. For example, Jan’s research has examined under what conditions Americans (i) refuse undemocratic elites, (ii) support women candidates for president, and (iii) back economically progressive politicians. In his dissertation work, Jan led the Strengthening Democracy Challenge, a megastudy that tested 25 crowdsourced experimental treatments for reducing anti-democratic attitudes and partisan animosity. 
+  website: https://www.jangvoelkel.com/ # update speaker personal link here
+
+- name: More speakers coming soon!
+  image: /assets/images/placeholderPic.png
