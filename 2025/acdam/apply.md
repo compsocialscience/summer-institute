@@ -7,8 +7,6 @@ partner_site: acdam
 
 # Apply
 
-**This page is under construction. Check back soon for more up-to-date info!**
-
 ## Eligibility
 We invite applicants from Postgraduate students (MSc, Ph.D.), early-career University Faculty, and Industry Professionals with an interest in applying data science techniques to addressing pressing social problems. The program will be held at African Centre for Data Analytics and Modeling hosted at Zetech University. However, while there are no restrictions based on citizenship, country of study, or country of employment, due to limited resources for logistics, participation may be restricted to participants living within Kenya. About 20 participants will be invited, and participants are expected to fully attend and participate in the entire two-week program.
 
