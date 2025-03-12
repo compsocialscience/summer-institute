@@ -6,4 +6,4 @@ schedule: true
 
 # Schedule
 
-**This page is under construction. Check back soon for more up-to-date info!**
+**The schedule and curriculum may be subjected to change. Last update: March 17th, 2025**
