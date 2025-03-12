@@ -4,7 +4,7 @@ partner_site: graz
 main: true
 image: /assets/images/tbd.jpg
 ---
-# Writing the application website text here ~ Tim 
+
 
 
 
