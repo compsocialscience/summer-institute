@@ -6,26 +6,19 @@ partner_site: graz
 [//]: # (Update the following info to match your location!)
 
 # Apply
+Application for the SICSS Summer School on Data, Democracy, & the New Social Fabric (DDNSF) at the University of Graz, Austria from September 15 - September 26 2025.
 
-**This page is under construction. Check back soon for more up-to-date info!**
+Apply to this Summer School until 13th of April 2025. 
 
-## Eligibility
+We invite junior researchers and interested participants to participate in this Summer School. Ideal candidates are eager to explore the core ideas of Democracy, Society, and Data Governance and the assertiveness to apply those foundations in real-life settings with creativity and foresight. Applicants should have experience in Python, R, or any other programming language. 
 
-We invite applicants from advanced Ph.D. students students, postdoctoral researchers, and faculty within 7 years of their Ph.D., who are able to attend the program in Graz, Austria. We welcome applicants from all backgrounds and fields of study, particularly ... . About ... participants will be invited. However, there are no restrictions based on citizenship, country of study, or country of employment. 
 
-The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp.
+We provide a limited amount of grants to cover attendance costs (transportation + hotel) for students, who's universities can not financially support attendance and we give priority to individuals who feel like they have faced individual or systemic hardship in the global academic system. There is no registration fee.
+If you are eligible for this grant, please provide a short description of your case and mail it to ddnsf@uni-graz.at.
 
-We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
+Candidates will be notified by 27th of April 2025 about the outcome of their application.
 
-## How To Apply
-
-Applicants must submit the following documents: 1) a curriculum vitae, 2) a statement (maximum two pages double-spaced) describing: 
-
-- Your current research
-- Why you want to participate in SICSS-Graz
-- How participation will aid your future research
-- Your experience and/or interest in collaborative research. Carrying out a collaborative research project is a core component of SICSS-Graz.
-- A possible topic, method, or question you would like to focus on for a collaborative project
+For applicants who require VISA assistance for Austria, please also reach out to us via ddnsf@uni-graz.at.
 
 **In order to be guaranteed full consideration, all application materials must be submitted by {app due date not yet determined}.** All application materials must be submitted through this [Google Form](https://www.google.com) (form for this site not yet created). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by {decision date not yet determined}, and will ask participants to confirm their participation very soon thereafter.
 
