@@ -12,22 +12,39 @@ partner_site: cmu
 The Summer Institute will bring together people from many fields and backgrounds. In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS-CMU 2025.
 
 - Complete the pre-institute readings
-- Complete coding bootcamp (if needed)
+- Complete coding bootcamp
 - Prepare your computing environment
 
-TAs will be hosting office hours via Slack to support you as you work through these pre-arrival materials. Please check the pinned post for their office hours. 
+TAs will be hosting office hours via Slack and Zoom to support you as you work through these pre-arrival materials.
 
 If you have questions outside of office hours, please feel free to drop them in the channel and we will get back to you. 
 
-## Reading
+## Recommended Readings
 
-In order to prepare for SICSS-CMU 2025, we recommend you read Matt Salganik’s book, *[Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com)* ([Read online](https://www.bitbybitbook.com/en/1st-ed/preface/) or purchase from [Barnes & Noble](https://www.barnesandnoble.com/w/bit-by-bit-matthew-salganik/1125483924), [IndieBound](https://www.indiebound.org/book/9780691158648), or [Princeton University Press](https://press.princeton.edu/titles/11057.html)). Parts of this book, which is a broad introduction to computational social science, will be review for most of you, but if we all read this book ahead of time, then we can use our time together for more advanced topics.
+### What is computational social science (CSS)?
+If computational social science is new to you, we recommend browsing Matt Salganik’s book, *[Bit by Bit: Social Research in the Digital Age.](https://www.bitbybitbook.com/en/1st-ed/preface/)* and Catherine D'Ignazio and Lauren Klein's *[Data Feminism](https://data-feminism.mitpress.mit.edu/)* These books are readily availble online (open access/open review version) or you can purchase them from your [favorite bookseller](https://bookshop.org/)). You can also find a [physical copy of *Bit by Bit*](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019580383904436) or the [publication copy of *Data Feminism*](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019886231504436) in our library.
+
+Also check out:
+- Hanna Wallach's opinon piece [Computational Social Science ≠ Computer Science + Social Data](https://dl.acm.org/doi/10.1145/3132698), 
+- Rosaria Conte and colleagues' [Manifesto of computational social science](https://link.springer.com/article/10.1140/epjst/e2012-01697-8)
+- danah boyd & Kate Crawford's [Critical Questions for Big Data](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/8lb6it/cdi_proquest_miscellaneous_1315867033) (or [author's manuscript](https://www.researchgate.net/publication/281748849_Critical_questions_for_big_data_Provocations_for_a_cultural_technological_and_scholarly_phenomenon))
+- Nikolitsa Grigoropoulou & Mario L. Small's comment [The data revolution in social science needs qualitative research](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/8lb6it/cdi_proquest_miscellaneous_2644938061) (or [author's copy](https://www.socium.uni-bremen.de/about-the-socium/members/nikolitsa-grigoropoulou/publications/?publ=12130))
+- Alberto Cairo's *[How charts lie : getting smarter about visual information](https://search.worldcat.org/title/1121263715)* [(physical copy in our library)](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019665688004436)
+
+### Examples of CSS and data science projects
+- CMU's Center for Shared Prosperity's [Projects](https://www.centerforsharedprosperity.org/projects) 
+- Western Pennsylvania Regional Data Center's [Projects](https://www.wprdc.org/en/projects)
+- [Civic Switchboard](https://civic-switchboard.github.io/)
+- Transdisciplinary research lab at Penn: [SAFELab](https://www.asc.upenn.edu/research/centers/safe-lab) 
+-  Penn Media Accountability Project (PennMAP): [Media Bias Detector](https://mediabiasdetector.seas.upenn.edu/)
+- NYU Center for Social Media and Politics (CSMaP): [Data Collections and Tools](https://csmapnyu.org/research/data-collections-and-tools)
+- The [Awesome Computational Social Science list](https://github.com/sicss-cmu/awesome-computational-social-science?tab=readme-ov-file) (Check out the section on research groups for current and recent projects)
 
 ## Coding Boot Camp
 
-The [SICSS Boot Camp](https://sicss.io/boot_camp) is an online training program created by Chris Bail to provide you with beginner level skills in coding so that you can follow the more advanced curriculum we teach at SICSS. The videos and materials are designed for complete beginners and are best viewed as a sequence since each video builds upon content introduced in previous tutorials. If you are already familiar with the topics in these videos, you do not need to complete them.
+The [SICSS Boot Camp](https://sicss.io/boot_camp) is an online training program created by Chris Bail to provide you with beginner level skills in coding so that you can follow the more advanced curriculum we teach at SICSS. The videos and materials are designed for complete beginners and are best viewed as a sequence since each video builds upon content introduced in previous tutorials. 
 
-If you would like more practice after completing the Boot Camp videos, some other materials that we can recommend are:
+If you would like more practice after completing the Boot Camp videos, some other materials that we recommend are:
 - [Posit Recipes](https://posit.cloud/learn/recipes) (previously RStudio Primers), which can be supplemented by the open access book _[R for Data Science (2e)](https://r4ds.hadley.nz/)_ by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund.
 - [Learn R](https://www.codecademy.com/learn/learn-r), Code Academy.
 - [R for Social Science](https://datacarpentry.org/r-socialsci/), Data Carpentry.  
@@ -46,7 +63,7 @@ If you have issues installing R and RStudio, please drop by our office hours and
 
 ### Slack
 
-Before participating at SICSS-CMU 2025, you should have an account in the SICSS Slack workspace.  If you have not used Slack before, you should review these [getting started](https://slack.com/help/categories/360000049043-Getting-started) materials.  Slack can be hard to use at first, but we've found that it is the best way to enable everyone to collaborate.
+Before participating at SICSS-CMU 2025, you should have an account in the SICSS Slack workspace.  If you have not used Slack before, you should review these [getting started](https://slack.com/help/categories/360000049043-Getting-started) materials. Please [reach out](mailto:sicss@andrew.cmu.edu) if you need help getting Slack set up.
 
 ### GitHub
 
