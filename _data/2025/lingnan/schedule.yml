@@ -2,19 +2,19 @@
   events:
     - name: "10:00 - 12:20 Theory Building and CSS<br>Speaker: Pedro Seguel"
     - name: "14:00 - 16:20 Theory Building and CSS<br>Speaker: Pedro Seguel"
-    - name: "16:30 - 18:00 Speaker<br>Speaker: TBC"
+    - name: "16:30 - 18:00 Guest Lecture<br>Speaker: TBC"
 
 - date: "June 17, 2025"
   events:
     - name: "10:00 - 12:20 Data extraction<br>Speaker: Pablo Beytía"
     - name: "14:00 - 16:20 Data extraction<br>Speaker: Pablo Beytía"
-    - name: "16:30 - 18:00 Speaker<br>Speaker: Pedro Seguel"
+    - name: "16:30 - 18:00 Guest Lecture<br>Speaker: Pedro Seguel"
 
 - date: "June 18, 2025"
   events:
     - name: "10:00 - 12:20 Supervised NLP<br>Speaker: Francisco Olivos/Frankie Wong"
     - name: "14:00 - 16:20 Supervised NLP<br>Speaker: Francisco Olivos/Frankie Wong"
-    - name: "16:30 - 18:00 Speaker<br>Speaker: Pablo Beytía"
+    - name: "16:30 - 18:00 Guest Lecture<br>Speaker: Pablo Beytía"
 
 - date: "June 19, 2025"
   events:
@@ -29,7 +29,7 @@
 - date: "June 23, 2025"
   events:
     - name: "10:00 - 12:20 Group project<br>Speaker: Students"
-    - name: "14:00 - 16:20 Speaker<br>Speaker: TBC"
+    - name: "14:00 - 16:20 Guest Lecture<br>Speaker: TBC"
 
 - date: "June 24, 2025"
   events:
@@ -39,12 +39,12 @@
 - date: "June 25, 2025"
   events:
     - name: "10:00 - 12:20 Group project<br>Speaker: Students"
-    - name: "14:00 - 16:20 Speaker<br>Speaker: TBC"
+    - name: "14:00 - 16:20 Guest Lecture<br>Speaker: TBC"
 
 - date: "June 26, 2025"
   events:
     - name: "10:00 - 12:20 Group project<br>Speaker: Students"
-    - name: "14:00 - 16:20 Speaker<br>Speaker: TBC"
+    - name: "14:00 - 16:20 Guest Lecture<br>Speaker: TBC"
 
 - date: "June 27, 2025"
   events:

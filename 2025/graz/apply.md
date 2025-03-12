@@ -3,40 +3,61 @@ layout: location_detail
 partner_site: graz
 ---
 
-[//]: # (Update the following info to match your location!)
+# How to Apply for the DDNSF Graz 2025 Summer School: A Step-by-Step Guide  
 
-# Apply
+## 1. Key Dates & Requirements  
+- **Application Deadline**: April 13, 2025.  
+- **Notification Date**: April 27, 2025.  
+- **Program Dates**: September 15–26, 2025 (University of Graz, Austria).  
+- **Eligibility**: Open to junior researchers and professionals interested in democracy, society, and data governance. Programming experience (Python/R) is preferred.  
 
-**This page is under construction. Check back soon for more up-to-date info!**
+## 2. Preparing Your Application  
+- **Gather Materials**:  
+  - **CV**: Save as a PDF (max 10 MB).  
+  - **Research Details**: Summarize your research topics, methodological expertise (200 characters), and a key project (1,000 characters).  
+  - **Motivation Statement**: Reflect on what you hope to learn and your unique perspective (2,500 characters).  
+  - **Democracy & Social Media Response**: Prepare an original, non-generic reflection (4,000 characters).  
 
-## Eligibility
+## 3. Filling Out the Application Form  
 
-We invite applicants from advanced Ph.D. students students, postdoctoral researchers, and faculty within 7 years of their Ph.D., who are able to attend the program in Graz, Austria. We welcome applicants from all backgrounds and fields of study, particularly ... . About ... participants will be invited. However, there are no restrictions based on citizenship, country of study, or country of employment. 
+### Step 1: Personal Information  
+- Provide your **email** (use a professional address; Google Account details will be recorded).  
+- Enter your **first name**, **last name**, and **department affiliation** (if non-academic, list your organization).  
 
-The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp.
+### Step 2: Academic Status  
+- Select your **current degree/position** (e.g., graduate student, postdoctoral researcher).  
+  - If not in academia, choose “Other” and specify your highest degree and current role.  
 
-We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
+### Step 3: Research Profile  
+- **Research Topics**: Briefly list expertise and interests (under 200 characters).  
+- **Substantive Project**: Describe a past/current project relevant to the summer school’s themes (under 1,000 characters).  
 
-## How To Apply
+### Step 4: Motivation Statement  
+- Explain why you’re applying, what you aim to learn, and the perspectives you’ll contribute (max 2,500 characters).  
 
-Applicants must submit the following documents: 1) a curriculum vitae, 2) a statement (maximum two pages double-spaced) describing: 
+### Step 5: Democracy & Social Media Reflection  
+- Share a unique idea, story, or theory about their intersection—avoid generic answers (max 4,000 characters).  
 
-- Your current research
-- Why you want to participate in SICSS-Graz
-- How participation will aid your future research
-- Your experience and/or interest in collaborative research. Carrying out a collaborative research project is a core component of SICSS-Graz.
-- A possible topic, method, or question you would like to focus on for a collaborative project
+### Step 6: Upload CV  
+- Attach your **PDF CV** (ensure it’s under 10 MB).  
 
-**In order to be guaranteed full consideration, all application materials must be submitted by {app due date not yet determined}.** All application materials must be submitted through this [Google Form](https://www.google.com) (form for this site not yet created). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by {decision date not yet determined}, and will ask participants to confirm their participation very soon thereafter.
+## 4. Grant & Visa Assistance  
+- **Grants**: If your institution cannot fund your attendance and/or you face systemic hardship:  
+  - Email a **short case description** to **ddnsf@uni-graz.at** by April 13, 2025.  
+- **Visa Support**: Contact **ddnsf@uni-graz.at** to request assistance.  
 
-Inquiries can be sent to [site email not set up](email@goes.here).
+## 5. After Submission  
+- Successful applicants will be notified by April 27, 2025.  
+- If accepted, begin visa processes early (if required).  
 
-## Application Frequently Asked Questions
 
-#### Can I apply to more than one Summer Institute location?
+## Need Help?  
+- **Contact**: **ddnsf@uni-graz.at** for grant, visa, or technical issues.  
 
-Yes, but not at the same time. For example, you can apply to SICSS-Graz, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.
+**Good luck with your application!** 🌟  
 
-#### Can I participate in SICSS-Graz if I have already participated in SICSS at another location?
+[Application Form](https://forms.gle/LXBgqqCfGRCH65RC6) 
 
-Unfortunately, no. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
+Inquiries can be sent to ddnsf@uni-graz.at.
+
+

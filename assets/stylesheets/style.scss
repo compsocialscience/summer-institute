@@ -10,7 +10,7 @@ body {
   font-family: "Roboto", sans-serif;
 }
 a {
-  color: #005EC2;
+  color: #005ec2;
 }
 .jumbotron {
   background-image: url("../images/hero-accent.jpg");
@@ -32,14 +32,14 @@ a {
   border-radius: 0;
 }
 .dropdown-divider {
-  border-color: #989B9E;
+  border-color: #989b9e;
 }
 
 .dropdown-menu {
   min-width: 7rem !important;
 }
 .custom-dropdown-item {
-  color: #999DA0;
+  color: #999da0;
   line-height: 1;
 }
 .dropdown-menu .dropdown-item {
@@ -48,8 +48,8 @@ a {
 }
 .custom-dropdown-item:hover,
 .custom-dropdown-item:focus {
-  background-color: #343a40; 
-  color: #F8F9FA;
+  background-color: #343a40;
+  color: #f8f9fa;
 }
 .custom-dropdown-divider {
   background-color: #6c757d;
@@ -66,7 +66,7 @@ a {
 }
 .nav .active {
   background: rgba(255, 255, 255, 0.75);
-  color: #005EC2;
+  color: #005ec2;
   display: inline-flex;
   border-radius: 4px;
 }
@@ -95,7 +95,7 @@ a {
 }
 
 .page-title {
-  color: #343A40;
+  color: #343a40;
   font-family: Roboto;
   font-size: 32px;
   font-style: normal;
@@ -121,7 +121,7 @@ figure figcaption {
   max-width: 80%;
   padding: 2px;
   font-style: oblique;
-  font-size: calc(.5rem + 0.3vw); 
+  font-size: calc(0.5rem + 0.3vw);
   mix-blend-mode: hard-light;
 }
 /*
@@ -250,8 +250,8 @@ figure figcaption {
   align-items: center;
   align-self: stretch;
   border-radius: 4px;
-  border: 0.5px solid #343A40;
-  background: #FFF;
+  border: 0.5px solid #343a40;
+  background: #fff;
 }
 #post-mortem-year-deactivated {
   display: flex;
@@ -260,8 +260,8 @@ figure figcaption {
   align-items: center;
   align-self: stretch;
   border-radius: 4px;
-  border: 0.5px solid #343A40;
-  background: #FFF;
+  border: 0.5px solid #343a40;
+  background: #fff;
   color: #d3d3d3;
   pointer-events: none;
 }
@@ -273,15 +273,15 @@ figure figcaption {
   gap: 10px;
   align-self: stretch;
 }
-#post-mortem-item:hover{
+#post-mortem-item:hover {
   text-decoration: underline;
 }
 #post-mortem-break {
   width: 100%;
-  background: rgba(52, 58, 64, 0.50);
+  background: rgba(52, 58, 64, 0.5);
 }
 #post-mortem-end-link {
-  color: #005EC2;
+  color: #005ec2;
   font-family: Inter;
   font-size: 16px;
   font-style: italic;
@@ -312,7 +312,7 @@ figure figcaption {
   display: flex;
 }
 #in-the-news-year {
-  color: #343A40;
+  color: #343a40;
   font-family: Inter;
   font-size: 20px;
   font-style: normal;
@@ -322,20 +322,20 @@ figure figcaption {
 #in-the-news-line {
   width: 100%;
   height: 1px;
-  background-color: #DADADA;
+  background-color: #dadada;
   margin-bottom: 12px;
 }
 #in-the-news-article-title {
-  color: #343A40;
+  color: #343a40;
   font-family: Roboto;
   font-size: 20px;
   font-style: normal;
   font-weight: 600;
   line-height: normal;
-  color: #343A40
+  color: #343a40;
 }
 #in-the-news-subtitle {
-  color: #343A40;
+  color: #343a40;
   font-family: Roboto;
   font-size: 14px;
   font-style: normal;
@@ -343,10 +343,74 @@ figure figcaption {
   line-height: normal;
 }
 #in-the-news-date {
-  color: #343A40;
+  color: #343a40;
   font-family: Roboto;
   font-size: 12px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
+}
+#featured-stories-title {
+  font-family: Roboto;
+  font-size: 31px;
+  font-weight: 900;
+  margin-bottom: 20px;
+}
+#featured-stories-subtitle {
+  font-family: Roboto;
+  font-size: 21px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+.featured-image-list {
+  height: 200px;
+  object-fit: cover;
+}
+#featured-story-title {
+  font-family: Roboto;
+  color: #343a40;
+  font-size: 31px;
+  font-weight: 900;
+}
+#featured-story-subtitle {
+  color: #343a40;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 400;
+}
+#featured-story-date {
+  color: #343a40;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 400;
+}
+#featured-story-content {
+  color: #343a40;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+}
+#featured-story-footnote {
+  color: #6c757d;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 20px;
+}
+.btn-link {
+  color: #6c757d;
+  text-decoration: none;
+}
+.btn-link:hover {
+  color: #5a6268;
+  text-decoration: underline;
+}
+.btn-block {
+  display: block;
+  width: 100%;
+}
+.prev-story,
+.next-story {
+  padding-left: 20px;
+  padding-right: 20px;
 }

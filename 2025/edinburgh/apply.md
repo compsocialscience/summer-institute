@@ -7,19 +7,17 @@ partner_site: edinburgh
 
 # Apply
 
-**This page is under construction. Check back soon for more up-to-date info!**
-
 ## Eligibility
 
-We invite applicants from advanced Ph.D. students students, postdoctoral researchers, and faculty within 7 years of their Ph.D., who are able to attend the program in Edinburgh, United Kingdom. We welcome applicants from all backgrounds and fields of study, particularly ... . About ... participants will be invited. However, there are no restrictions based on citizenship, country of study, or country of employment. 
+The Summer Institute aims to bring together aspiring computational social scientists across all levels of technical experience. We invite applications from doctoral students, postdoctoral researchers, and faculty within 7 years of their PhD. Exceptional Master’s students in a research-track degree (e.g. MRes, MPhil) or those transitioning to a PhD programme will also be considered. There are no restrictions based on citizenship, country of study, or country of employment. About 20-25 participants will be invited.
 
-The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp.
+We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science; 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation; 4) likelihood to contribute to the educational experience of other participants; 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we take applicant’s career stage and previous educational opportunities into account.
 
-We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
+Participants with less experience in social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours during the two months before the Institute.
 
 ## How To Apply
 
-Applicants must submit the following documents: 1) a curriculum vitae, 2) a statement (maximum two pages double-spaced) describing: 
+Applicants must submit the following documents: 1) **a curriculum vitae**, 2) **a statement of interest** (maximum two pages double-spaced) describing: 
 
 - Your current research
 - Why you want to participate in SICSS-Edinburgh
@@ -27,9 +25,9 @@ Applicants must submit the following documents: 1) a curriculum vitae, 2) a stat
 - Your experience and/or interest in collaborative research. Carrying out a collaborative research project is a core component of SICSS-Edinburgh.
 - A possible topic, method, or question you would like to focus on for a collaborative project
 
-**In order to be guaranteed full consideration, all application materials must be submitted by {app due date not yet determined}.** All application materials must be submitted through this [Google Form](https://www.google.com) (form for this site not yet created). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by {decision date not yet determined}, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by 23:59 GMT, March 21, 2025.** All application materials must be submitted through the [Google Form](https://forms.gle/cGZBhYS5YRjQQz6q7) . Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by **March 28th, 2025,** and will ask participants to confirm their participation very soon thereafter.
 
-Inquiries can be sent to [site email not set up](email@goes.here).
+Inquiries can be sent to [Meera.Gopakumar@ed.ac.uk](Meera.Gopakumar@ed.ac.uk).
 
 ## Application Frequently Asked Questions
 
