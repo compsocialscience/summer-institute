@@ -58,9 +58,7 @@ Some of the main videos and course materials developed by SICSS Co-Founders Chri
 
 ### Python
 
-Some of the activities will require coding, and we will support Python. You are welcome to use other languages but we cannot guarantee that we can support them. Before SICSS, you should have your preferred Python setup ready. If you need guidance, please refer to the below:
-
-[Anaconda](https://docs.anaconda.com/anaconda/install/)
+Some of the activities will require coding, and we will support Python. You are welcome to use other languages but we cannot guarantee that we can support them. Before SICSS, you should have your preferred Python setup ready. If you need guidance, please refer to the following link: [Anaconda](https://docs.anaconda.com/anaconda/install/)
 
 
 ### Slack
