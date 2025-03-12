@@ -8,7 +8,7 @@
 - name: "Bernie Hogan (University of Oxford)" # Speaker name goes here.
   image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
   bio: " " # add speaker bio here
-  #website: https://www.google.com # update speaker personal link here
+  website: https://www.oii.ox.ac.uk/people/profiles/bernie-hogan/ # update speaker personal link here
 
 - name: "Daniela Braun (Saarland University)" # Speaker name goes here.
   image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
@@ -21,9 +21,9 @@
   #website: https://www.google.com # update speaker personal link here
 
 - name: "Georg Wenzelburger (Saarland University)" # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " " # add speaker bio here
-  #website: https://www.google.com # update speaker personal link here
+  image: /assets/images/2025-SB-GeorgWenzelburger.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Georg Wenzelburger is a Professor of Comparative European Politics at Saarland University and its Cluster of European Research (CEUS). His research interests involve the comparative analysis of public policies with a recent focus on law-and-order policies (e.g. “The Partisan Politics of Law and Order”, OUP 2020), the welfare state, party politics and the politics of the digital transformation." # add speaker bio here
+  website: https://georg-wenzelburger.eu/ # update speaker personal link here
 
 - name: "Ridhi Kashyap (University of Oxford)" # Speaker name goes here.
   image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
