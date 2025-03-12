@@ -3,24 +3,66 @@ layout: location_detail
 partner_site: graz
 ---
 
-[//]: # (Update the following info to match your location!)
+# How to Apply for the DDNSF Graz 2025 Summer School: A Step-by-Step Guide  
 
-# Apply
-Application for the SICSS Summer School on Data, Democracy, & the New Social Fabric (DDNSF) at the University of Graz, Austria from September 15 - September 26 2025.
+## 1. Key Dates & Requirements  
+- **Application Deadline**: April 13, 2025.  
+- **Notification Date**: April 27, 2025.  
+- **Program Dates**: September 15–26, 2025 (University of Graz, Austria).  
+- **Eligibility**: Open to junior researchers and professionals interested in democracy, society, and data governance. Programming experience (Python/R) is preferred.  
 
-Apply to this Summer School until 13th of April 2025. 
+## 2. Preparing Your Application  
+- **Gather Materials**:  
+  - **CV**: Save as a PDF (max 10 MB).  
+  - **Research Details**: Summarize your research topics, methodological expertise (200 characters), and a key project (1,000 characters).  
+  - **Motivation Statement**: Reflect on what you hope to learn and your unique perspective (2,500 characters).  
+  - **Democracy & Social Media Response**: Prepare an original, non-generic reflection (4,000 characters).  
 
-We invite junior researchers and interested participants to participate in this Summer School. Ideal candidates are eager to explore the core ideas of Democracy, Society, and Data Governance and the assertiveness to apply those foundations in real-life settings with creativity and foresight. Applicants should have experience in Python, R, or any other programming language. 
+## 3. Filling Out the Application Form  
 
+### Step 1: Personal Information  
+- Provide your **email** (use a professional address; Google Account details will be recorded).  
+- Enter your **first name**, **last name**, and **department affiliation** (if non-academic, list your organization).  
 
-We provide a limited amount of grants to cover attendance costs (transportation + hotel) for students, who's universities can not financially support attendance and we give priority to individuals who feel like they have faced individual or systemic hardship in the global academic system. There is no registration fee.
-If you are eligible for this grant, please provide a short description of your case and mail it to ddnsf@uni-graz.at.
+### Step 2: Academic Status  
+- Select your **current degree/position** (e.g., graduate student, postdoctoral researcher).  
+  - If not in academia, choose “Other” and specify your highest degree and current role.  
 
-Candidates will be notified by 27th of April 2025 about the outcome of their application.
+### Step 3: Research Profile  
+- **Research Topics**: Briefly list expertise and interests (under 200 characters).  
+- **Substantive Project**: Describe a past/current project relevant to the summer school’s themes (under 1,000 characters).  
 
-For applicants who require VISA assistance for Austria, please also reach out to us via ddnsf@uni-graz.at.
+### Step 4: Motivation Statement  
+- Explain why you’re applying, what you aim to learn, and the perspectives you’ll contribute (max 2,500 characters).  
 
-**In order to be guaranteed full consideration, all application materials must be submitted by {13th of April 2025}.** All application materials must be submitted through this [Google Form](https://forms.gle/LXBgqqCfGRCH65RC6) 
+### Step 5: Democracy & Social Media Reflection  
+- Share a unique idea, story, or theory about their intersection—avoid generic answers (max 4,000 characters).  
+
+### Step 6: Upload CV  
+- Attach your **PDF CV** (ensure it’s under 10 MB).  
+
+## 4. Grant & Visa Assistance  
+- **Grants**: If your institution cannot fund your attendance and/or you face systemic hardship:  
+  - Email a **short case description** to **ddnsf@uni-graz.at** by April 13, 2025.  
+- **Visa Support**: Contact **ddnsf@uni-graz.at** to request assistance.  
+
+## 5. After Submission  
+- Check your email (including spam) for updates.  
+- Successful applicants will be notified by April 27, 2025.  
+- If accepted, begin visa processes early (if required).  
+
+## Final Tips  
+- Adhere to character limits—write offline first to avoid errors.  
+- Be concise and specific in all responses.  
+- Double-check your CV format and grant/visa email requests.  
+
+## Need Help?  
+- **Program Website**: Visit for additional details.  
+- **Contact**: **ddnsf@uni-graz.at** for grant, visa, or technical issues.  
+
+**Good luck with your application!** 🌟  
+
+[Application Form](https://forms.gle/LXBgqqCfGRCH65RC6) 
 
 Inquiries can be sent to ddnsf@uni-graz.at.
 
