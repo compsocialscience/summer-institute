@@ -20,16 +20,8 @@ Candidates will be notified by 27th of April 2025 about the outcome of their app
 
 For applicants who require VISA assistance for Austria, please also reach out to us via ddnsf@uni-graz.at.
 
-**In order to be guaranteed full consideration, all application materials must be submitted by {app due date not yet determined}.** All application materials must be submitted through this [Google Form](https://www.google.com) (form for this site not yet created). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by {decision date not yet determined}, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by {13th of April 2025}.** All application materials must be submitted through this [Google Form]((https://forms.gle/LXBgqqCfGRCH65RC6)) 
 
-Inquiries can be sent to [site email not set up](email@goes.here).
+Inquiries can be sent to (ddnsf@uni-graz.at).
 
-## Application Frequently Asked Questions
 
-#### Can I apply to more than one Summer Institute location?
-
-Yes, but not at the same time. For example, you can apply to SICSS-Graz, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.
-
-#### Can I participate in SICSS-Graz if I have already participated in SICSS at another location?
-
-Unfortunately, no. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
