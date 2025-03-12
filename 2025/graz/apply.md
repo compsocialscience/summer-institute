@@ -47,17 +47,11 @@ partner_site: graz
 - **Visa Support**: Contact **ddnsf@uni-graz.at** to request assistance.  
 
 ## 5. After Submission  
-- Check your email (including spam) for updates.  
 - Successful applicants will be notified by April 27, 2025.  
 - If accepted, begin visa processes early (if required).  
 
-## Final Tips  
-- Adhere to character limits—write offline first to avoid errors.  
-- Be concise and specific in all responses.  
-- Double-check your CV format and grant/visa email requests.  
 
 ## Need Help?  
-- **Program Website**: Visit for additional details.  
 - **Contact**: **ddnsf@uni-graz.at** for grant, visa, or technical issues.  
 
 **Good luck with your application!** 🌟  
