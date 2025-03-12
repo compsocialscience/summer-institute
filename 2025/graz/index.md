@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: graz
 main: true
-image: /assets/images/tbd.jpg
+image: /assets/images/graz_2025_summerschool_temp.png
 ---
 
 
