@@ -11,8 +11,61 @@
     <!-- Start content -->
     <section>
       <div class="container default">
-        <h2 class="page-title">SICSS - IN THE NEWS</h2>
+        <h2 class="page-title text-left" id="news-title">All News</h2>
+        <p class="text-left" id="all-news-subtitle">
+          Check out some of our latest stories from SICSS attendees on our
+          <b>new</b>
+          <a href="{{ site.baseurl }}/featured-stories">Featured Stories</a>
+          page
+        </p>
         <div id="in-the-news-container">
+          {% assign sorted_stories = site.stories | sort: 'date' | reverse %} {%
+          assign latest_story_with_image = nil %} {% for story in sorted_stories
+          %} {% if story.image %} {% assign latest_story_with_image = story %}
+          {% break %} {% endif %} {% endfor %} {% if latest_story_with_image %}
+          <div class="card mb-4">
+            <div class="row no-gutters">
+              <div class="col-md-6">
+                <img
+                  src="{{ latest_story_with_image.image | default: '/assets/images/hero-accent.jpg' }}"
+                  class="card-img"
+                  alt="{{ latest_story_with_image.title }}"
+                />
+              </div>
+              <div class="col-md-6">
+                <div class="card-body">
+                  <h3 class="card-title">
+                    {{ latest_story_with_image.title }}
+                  </h3>
+                  <p class="card-text">
+                    Written By: {{ latest_story_with_image.author }}
+                  </p>
+                  <p class="card-text">
+                    <small class="text-muted"
+                      >{{ latest_story_with_image.date | date: "%B %d, %Y"
+                      }}</small
+                    >
+                  </p>
+                  <p class="card-text">{{ latest_story_with_image.excerpt }}</p>
+                  <a
+                    href="{{ latest_story_with_image.url | absolute_url }}"
+                    class="btn btn-dark"
+                    >Read More</a
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+          {% endif %}
+          <div class="mx-auto">
+            <a
+              href="{{ site.baseurl }}/featured-stories"
+              class="centered-link"
+              id="all-featured-stories-link"
+              >See All Featured Stories</a
+            >
+          </div>
+
           <section style="width: 100%">
             <div id="in-the-news-year-container">
               <p id="in-the-news-year">2023</p>
