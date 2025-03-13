@@ -26,7 +26,7 @@ Further, when making our evaluations, we attempt to account for an applicant’s
 
 Applicants must submit the following documents: (i) submit their curriculum vitae and (ii) fill out a form describing their research topics and interest in computational social science. In addition, we encourage participants to share an optional writing sample.
 
-**In order to be guaranteed full consideration, all application materials must be submitted by Wednesday, March 14, 2025 at 23:59 COL**. All application materials must be submitted through this form. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail in June, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by Friday, March 21, 2025 at 23:59 COL**. All application materials must be submitted through this form. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail in June, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to [oscar.maldonado@urosario.edu.co](mailto:oscar.maldonado@urosario.edu.co)
 
