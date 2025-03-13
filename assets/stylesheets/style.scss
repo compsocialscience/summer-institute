@@ -350,7 +350,7 @@ figure figcaption {
   font-weight: 400;
   line-height: normal;
 }
-#featured-stories-title {
+#news-title {
   font-family: Roboto;
   font-size: 31px;
   font-weight: 900;
@@ -413,4 +413,30 @@ figure figcaption {
 .next-story {
   padding-left: 20px;
   padding-right: 20px;
+}
+.centered-link {
+  text-align: center;
+  display: block;
+  text-decoration: underline;
+}
+#all-news-subtitle {
+  color: #343a40;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+#all-featured-stories-link {
+  color: #343a40;
+  font-family: Roboto;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-skip-ink: none;
+  text-decoration-thickness: auto;
+  text-underline-offset: auto;
 }

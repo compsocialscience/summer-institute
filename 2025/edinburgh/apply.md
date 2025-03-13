@@ -31,6 +31,10 @@ Inquiries can be sent to [Meera.Gopakumar@ed.ac.uk](Meera.Gopakumar@ed.ac.uk).
 
 ## Application Frequently Asked Questions
 
+#### Do you provide any funding?
+
+Unfortunately, no. SICCS is free to attend however participants need to cover their own travel and accommodation costs. 
+
 #### Can I apply to more than one Summer Institute location?
 
 Yes, but not at the same time. For example, you can apply to SICSS-Edinburgh, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.

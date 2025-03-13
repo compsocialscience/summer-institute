@@ -1,9 +1,9 @@
 - name: "Emily Bongiovanni"
-  image: assets/images/cmu25/EB_headshot.png
+  image: /assets/images/cmu25/EB_headshot.png
   bio: "Emily Bongiovanni (she/her) is the Open Knowledge Librarian at Carnegie Mellon University Libraries. In this role, she supports the advancement of open access publishing and open educational resources, as well as other “open” initiatives across the research lifecycle. Before joining CMU, Emily was the Scholarly Communications Librarian at Colorado School of Mines, where she supported faculty and students throughout the research lifecycle and promoted Open Science. She went to Denison University for her undergraduate degree and earned her Masters of Library and Information Science at the University of Denver."
 
 - name: "Haoyong Lan" 
-  image: assets/images/cmu25/HY_Headshot2024.JPG  
+  image: /assets/images/cmu25/HY_Headshot2024.JPG  
   bio: "Haoyong Lan is the engineering faculty librarian at CMU Libraries, where he conducts library instruction, research assistance, and collection development for students, faculty, and staff. His research interests include explainable artificial intelligence, engineering research competency, scientometrics, digital library, and information retrieval." 
 
 - name: "Scott Renshaw"
@@ -12,19 +12,24 @@
   website: 
 
 - name: "Kristen Scotti"
+  image:
+  bio: ""
+  website:
+
+- name: "Kristen Scotti"
   image: 
   bio: ""
   website: 
 
 - name: "Emma Slayton"
-  image: assets/images/cmu25/ES_headshot.jpg
+  image: /assets/images/cmu25/ES_headshot.jpg
   bio: "Emma Slayton serves as the Data Education Librarian at CMU Libraries. She has expertise in Data Visualization, Data and AI literacies, as well as GIS Specialist. She holds a PhD. in Archaeology from the University of Leiden and an MPhil from the University of Oxford. As a social scientist, she focused on using computer modeling analyze big data and have experience communicating that research to STEM and Humanities researchers or the public. She has specific expertise in supporting researchers and students develop their own data stories for publication and sharing."
  
 - name: "Sarah Young"
-  image: assets/images/cmu25/SY_headshot.jpg
+  image: /assets/images/cmu25/SY_headshot.jpg
   bio: "Sarah is the liaison librarian for the Heinz College, and departments of Statistics & Data Science, Carnegie Mellon Institute of Strategy & Technology, and Information Systems, as well as co-liaison to CMU Africa. She holds Masters degrees in Library and Information Science from the University of Pittsburgh and Development and International Relations from Aalborg University in Denmark, as well as a certificate in Program Evaluation from Michigan State University. As a social sciences librarian and Director of the Evidence Synthesis Program, Sarah is broadly interested in the use and synthesis of research toward the improvement and evaluation of policy, programs and practice. She has expertise in literature searching and information management for systematic reviews and other types of evidence syntheses and provides methodological expertise on evidence syntheses across disciplines. Sarah also enjoys helping students, staff and faculty find social science data and statistics and learn to use open source writing, collaboration and data analysis tools like R, Zotero, and Open Refine."
 
 - name: "Di Yoong"
-  image: assets/images/cmu25/DY_headshot.png
+  image: /assets/images/cmu25/DY_headshot.png
   bio: "Di (they/them) is a Social Sciences Librarian at CMU where they primarily work with the departments of Psychology, Social and Decision Sciences, the Human-Computer Interaction Institute, and the Tartan Scholars program. Their research interest includes working with digital trace data to understand the formation of online communities, and also in creating and supporting accessible pedagogy to data literacies, digital skills, and technology. Di was a previous participant at SICSS-Hunter College."
   website: https://diyoong.info
