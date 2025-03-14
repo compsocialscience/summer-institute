@@ -13,13 +13,13 @@ The Summer Institute will bring together people from many fields and backgrounds
 - Prepare your computing environment
 
 ## Office Hours
-TAs will be hosting office hours via Slack and Zoom to support you as you work through installations and the coding bootcamp. Office hours begin on March 25th (Tuesday) and will take place every: 
+Our TAs, [Elizabeth and Vu](/people/#teaching_assistants), will be hosting office hours via Slack and Zoom to support you as you work through installations and the coding bootcamp. Office hours begin on March 27th (Thursday) and will take place every: 
 - 5 - 6pm on Tuesday
 - 9 - 10am on Thursday
 - 5 - 6pm on Thursday
 - 9 - 10am on Friday 
 
-Please check the Slack channel for any changes in office hours. If you have questions outside of office hours, please feel free to drop them in the channel and we will get back to you. 
+Please check the Slack channel (invitation in your emails) for any changes in office hours. If you have questions outside of office hours, please feel free to drop them in the channel and we will get back to you. 
 
 ## Recommended Readings
 
@@ -51,10 +51,11 @@ Please headover to the [boot camp page]((https://sicss.io/boot_camp)) to access 
 ### Additional Resources
 
 If you would like more practice after completing the Boot Camp videos, some other materials that we recommend are:
-- [Posit Recipes](https://posit.cloud/learn/recipes) (previously RStudio Primers), which can be supplemented by the open access book _[R for Data Science (2e)](https://r4ds.hadley.nz/)_ by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund.
-- [Learn R](https://www.codecademy.com/learn/learn-r), Code Academy.
-- [R for Social Science](https://datacarpentry.org/r-socialsci/), Data Carpentry.  
-- [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/), Taught by Charles Lanfear at University of Washington. This course includes videos of lectures, slides, and assignments.
+- Learn R with the [swirl package](https://swirlstats.com/students.html)
+- [Posit Recipes](https://posit.cloud/learn/recipes) (previously RStudio Primers), which can be supplemented by the open access book _[R for Data Science (2e)](https://r4ds.hadley.nz/)_ by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund
+- [Learn R](https://www.codecademy.com/learn/learn-r), Code Academy
+- [R for Social Science](https://datacarpentry.org/r-socialsci/), Data Carpentry  
+- [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/), Taught by Charles Lanfear at University of Washington. This course includes videos of lectures, slides, and assignments
 
 
 Please note that the majority of the coding work presented at SICSS-CMU 2025 will employ R. You are welcome to employ a language of your choice, such as Python, Julia, or other languages.  However, we cannot support each of these languages.
