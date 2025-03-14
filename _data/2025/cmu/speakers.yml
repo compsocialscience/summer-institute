@@ -1,3 +1,33 @@
+- name: "Elanor Mattern"
+  image: /assets/images/cmu25/
+  bio: ""
+  
 - name: "Nynke Niezink" 
-  image: /assets/images/NN_headshot.png  
+  image: /assets/images/cmu25/NN_headshot.png  
   bio: " Nynke Niezink is an Assistant Professor in the Department of Statistics and Data Science and an affiliated faculty member of the Heinz College of Information Systems and Public Policy.  She received her PhD in Sociology, her MSc’s in Applied Mathematics and Social and Behavioral Sciences, and her BSc’s in Mathematics and Pedagogical Sciences from the University of Groningen. Niezink's methodological research interests include social network analysis and statistics for the social sciences and humanities broadly. Much of her statistical work and software development is inspired by interdisciplinary collaborations, including in education, health sciences, organizations, and criminology. Her research has been supported by an NSF MMS Award, a Russell Sage Foundation Small Grant, and various NIH grants, amongst others. " 
+
+- name: "Lynette Ng"
+  image: /assets/images/cmu25/
+  bio: ""
+
+- name: "Vernelle Noel"
+  image: /assets/images/cmu25/
+  bio: ""
+
+- name: "Corina Paraschiv"
+  image: /assets/images/cmu25/
+  bio: ""
+
+- name: "Patrick Park"
+  image: /assets/images/cmu25/
+  bio: ""
+
+- name: "Bill Sermons"
+  image: /assets/images/cmu25/
+  bio: ""
+
+- name: "Hirokazu Shirado"
+  image: /assets/images/cmu25/HS_headshot.jpeg
+  bio: "Hirokazu Shirado is an Assistant Professor of the Human-Computer Interaction Institute in the School of Computer Science at Carnegie Mellon University. He received his doctorate in Sociology at Yale University, where he was a member of the Yale Institute for Network Science. He is committed to the experimental study of cooperative behaviors as they manifest through interactions between people located within social networks. His recent focus is on hybrid systems of humans and machines."
+  website: http://www.shirado.net/
+
