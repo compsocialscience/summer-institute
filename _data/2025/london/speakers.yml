@@ -39,8 +39,7 @@ In his research, Mike studies the decisions we make in conversation. We are a so
 
 - name: "Mirco Musolesi" # Speaker name goes here.
   image: /assets/images/London_2025_Speakers_Mirco.jpg  # Upload speaker image to /assets/images/ and update URL here.
-  #bio: "Stefania Innocenti is a Departmental Research Lecturer (Assistant Professor equivalent) at the Smith School of Enterprise and the Environment at the University of Oxford. She is an applied economist working at the intersection of behavioural economics, environmental economics and public policy.
-  #Stefania co-leads the Economics of Sustainability programme at the School and at the Institute for New Economic Thinking. She is also an Associate Member of the Economics Department at the University of Oxford and a member of Brasenose College." # add speaker bio here
+  bio: "Mirco Musolesi is a Professor of Computer Science at the Department of Computer Science at University College London (UCL), where he leads the Machine Intelligence Lab. Mirco's Lab is part of the UCL Centre for Artificial Intelligence and the Intelligent Systems Group. Mirco is also Professor of Computer Science at the Department of Computer Science and Engineering at the University of Bologna."
   website: https://www.mircomusolesi.org/ # update speaker personal link here
 
 - name: "Milena Tsvetkova" # Speaker name goes here.
