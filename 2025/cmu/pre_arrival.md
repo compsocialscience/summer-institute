@@ -13,7 +13,7 @@ The Summer Institute will bring together people from many fields and backgrounds
 - Prepare your computing environment
 
 ## Office Hours
-Our TAs, [Elizabeth and Vu](/people/#teaching_assistants), will be hosting office hours via Slack and Zoom to support you as you work through installations and the coding bootcamp. Office hours begin on March 27th (Thursday) and will take place every: 
+Our TAs, [Elizabeth and Vu](/2025/cmu/people/#teaching_assistants), will be hosting office hours via Slack and Zoom to support you as you work through installations and the coding bootcamp. Office hours begin on March 27th (Thursday) and will take place every: 
 - 5 - 6pm on Tuesday
 - 9 - 10am on Thursday
 - 5 - 6pm on Thursday
