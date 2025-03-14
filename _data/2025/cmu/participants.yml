@@ -1,6 +1,41 @@
-- name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+- name: "Yufei Song" 
+  image: /assets/images/cmu25/participants/YSong.jpg  
+  bio: " Student at CMU, interested in data science "
 
-# Add more participants with the same format as above...
+- name: "Minh Nguyen" 
+  image: /assets/images/cmu25/participants/MNguyen.jpeg  
+  bio: " I am a Postdoctoral Researcher at Broad College of Business, Michigan State University. My research focuses on transformative AI/ML and causal AI/ML in the contexts of information systems, business analytics, and computational social sciences. I am interested in collaborating with scholars from various fields. "
+
+- name: "John Mantus" 
+  image: /assets/images/cmu25/participants/JMantus.jpg  
+  bio: " John Mantus is a first year PhD student in Engineering and Public Policy at Carnegie Mellon University's College of Engineering where he is advised by Dr. Nicholas Muller. His work focuses on the economic consequences of power outages and equity considerations in the vehicle electrification transition. Prior to Carnegie Mellon, John studied economics and math at the University of Rochester and served as a research assistant at the American Enterprise Institute in Washington, D.C., where his work focused on Social Security, the federal budget, and computational models of election processes. "
+
+- name: "Andrew Aquilina" 
+  image: /assets/images/cmu25/participants/AAquilina.png  
+  bio: " Andrew Aquilina is a Ph.D. student in the Information Science program at the University of Pittsburgh. His research is centered on socially-aware natural language processing technologies and their applications in human behaviour analysis, mental health support, and digital societal cohesion. He previously earned a master's in AI from Stockholm University and a bachelor's in AI from the University of Malta. "
+
+- name: "Rachel Jones" 
+  image: /assets/images/cmu25/participants/RJones.jpg  
+  bio: " Racheal Jones is a graduate student of Public Policy & Management at Carnegie Mellon University. She received her Bachelor's of Arts in Sociology from the University of Florida where she studied family violence and examined racial bias in perceived worthiness of housing candidates. Her professional and academic interests include demography, public health and housing policy, and sustainable economic development. "
+
+- name: "Garrett Kent" 
+  image: /assets/images/cmu25/participants/GKent.png  
+  bio: " I am a master’s student in Public Policy & Data Analytics at Carnegie Mellon University. My research has focused on the intersection of technology, labor economics, and education, with an emphasis on applying rigorous empirical methods to public policy issues. I have worked on projects related to online disinformation, open science and AI for education, and the impact of emerging technologies on the workforce. "
+
+- name: "Joel Atikemah" 
+  image: /assets/images/cmu25/participants/JAtikemah.jpg  
+  bio: " I am a graduate student in the Healthcare Analytics and Information Technology program at Carnegie Mellon University, with a strong interest in applying computational methods in addressing critical healthcare challenges. As a new health technologist, I would love to understand how to develop more impactful technologies, in societal context, and focus less on fancy, less impactful efforts.  "
+
+- name: "Jillian Stephenson" 
+  image: /assets/images/cmu25/participants/JStephenson.jpg  
+  bio: " Jillian Stephenson is an Assistant Teaching Professor at Heinz College of Information Systems and Public Policy, Carnegie Mellon University. Leveraging her professional credentials as a Certified Public Accountant, she integrates industry experience in accounting and financial reporting into her pedagogical approach. Her research interests encompass the dynamic interplay of public policies related to K-12 education and youth mental health, alongside the examination of fiscal policies designed to safeguard consumer investments. "
+
+- name: "Katie Furl" 
+  image: /assets/images/cmu25/participants/KFurl.jpg  
+  bio: " Katherine (Katie) Furl is an incoming Assistant Professor of Sociology at the University of North Dakota. She employs mixed methods to investigate how inequalities related to gender, race, and class operate across digital platforms. She hopes to develop her computational skills so she can confidently integrate CSS into her pedagogy and emerging research agenda. "
+
+- name: "Participant info coming soon." 
+  image: /assets/images/cmu25/participants/placeholder.png  
+  bio: " ... "
+
+
