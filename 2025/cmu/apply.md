@@ -32,8 +32,6 @@ Additionally, the form will also ask you to self-identify your skill level in R.
 
 All application materials must be submitted through the Google Form. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by March 14, 2025 (Friday), and will ask participants to confirm their participation very soon thereafter.
 
-Inquiries can be sent to [sicss@andrew.cmu.edu](sicss@andrew.cmu.edu)
-
 ## Application Frequently Asked Questions
 
 #### Can I apply to more than one Summer Institute location?
