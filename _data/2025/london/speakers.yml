@@ -37,5 +37,19 @@ In his research, Mike studies the decisions we make in conversation. We are a so
   Stefania co-leads the Economics of Sustainability programme at the School and at the Institute for New Economic Thinking. She is also an Associate Member of the Economics Department at the University of Oxford and a member of Brasenose College." # add speaker bio here
   website: https://stefaniainnocenti.com/ # update speaker personal link here
 
+- name: "Mirco Musolesi" # Speaker name goes here.
+  image: /assets/images/London_2025_Speakers_Mirco.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Mirco Musolesi is a Professor of Computer Science at the Department of Computer Science at University College London (UCL), where he leads the Machine Intelligence Lab. Mirco's Lab is part of the UCL Centre for Artificial Intelligence and the Intelligent Systems Group. Mirco is also Professor of Computer Science at the Department of Computer Science and Engineering at the University of Bologna."
+  website: https://www.mircomusolesi.org/ # update speaker personal link here
 
+- name: "Milena Tsvetkova" # Speaker name goes here.
+  image: /assets/images/London_2025_Speakers_Milena.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Milena Tsvetkova is an Associate Professor of Computational Social Science at the Department of Methodology at the London School of Economics and Political Science. She is also the director of the HUMANET lab, funded by the ERC Consolidator grant with €2,000,000 in 2025–2030 to study interactions and collective outcomes in human-machine social systems.
+  Milena is a computational social scientist, with a PhD in Sociology. She uses large-scale online experiments, network analysis, machine learning, and computational modeling to study fundamental social phenomena such as cooperation, contagion, segregation, and inequality in human and human-machine networks and communities."
+  website: https://tsvetkova.me/ # update speaker personal link here
 
+- name: "Sasha Vezhnevets" # Speaker name goes here.
+  image: /assets/images/London_2025_Speakers_Sasha.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Sasha Vezhnevets is an AI research scientist and a meditator, based in London, UK. Sasha is a staff research scientist at Google DeepMind. Throughout his career he has worked on computer vision, hierarchical reinforcement learning, multi-agent reinforcement learning and generative agent based modelling. His current interests are multi-agent systems, social cognition, computational social construction and cultural evolution. He is also interested in bridging ideas in AI, social sciences, and neuroscience. 
+  Sasha is also a meditator and a Vajrayana practitioner and writes about it on substack." # add speaker bio here
+  website: https://www.vezhnick.com/ # update speaker personal link here
