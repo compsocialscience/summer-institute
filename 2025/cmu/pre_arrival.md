@@ -3,21 +3,23 @@ layout: location_detail
 partner_site: cmu
 ---
 
-[//]: # (Update the following info to match your location!)
-
-**This page is under construction. Check back soon for more up-to-date info!**
-
 # Pre-arrival
 
 The Summer Institute will bring together people from many fields and backgrounds. In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS-CMU 2025.
 
-- Complete the pre-institute readings
-- Complete coding bootcamp
+- Browse through the pre-institute readings
+- Complete [coding boot camp](#coding-boot-camp) 
+    - Complete by April 25th for participants with conditional acceptance, optional for others
 - Prepare your computing environment
 
-TAs will be hosting office hours via Slack and Zoom to support you as you work through these pre-arrival materials.
+## Office Hours
+TAs will be hosting office hours via Slack and Zoom to support you as you work through installations and the coding bootcamp. Office hours begin on March 25th (Tuesday) and will take place every: 
+- 5 - 6pm on Tuesday
+- 9 - 10am on Thursday
+- 5 - 6pm on Thursday
+- 9 - 10am on Friday 
 
-If you have questions outside of office hours, please feel free to drop them in the channel and we will get back to you. 
+Please check the Slack channel for any changes in office hours. If you have questions outside of office hours, please feel free to drop them in the channel and we will get back to you. 
 
 ## Recommended Readings
 
@@ -43,6 +45,10 @@ Also check out:
 ## Coding Boot Camp
 
 The [SICSS Boot Camp](https://sicss.io/boot_camp) is an online training program created by Chris Bail to provide you with beginner level skills in coding so that you can follow the more advanced curriculum we teach at SICSS. The videos and materials are designed for complete beginners and are best viewed as a sequence since each video builds upon content introduced in previous tutorials. 
+
+Please headover to the [boot camp page]((https://sicss.io/boot_camp)) to access the materials. It should take approximately 7 hours to go through the tutorial and questions. [TAs are available to help you](#office-hours) as you complete the materials.
+
+### Additional Resources
 
 If you would like more practice after completing the Boot Camp videos, some other materials that we recommend are:
 - [Posit Recipes](https://posit.cloud/learn/recipes) (previously RStudio Primers), which can be supplemented by the open access book _[R for Data Science (2e)](https://r4ds.hadley.nz/)_ by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund.
