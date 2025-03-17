@@ -11,4 +11,4 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is limited to graduate students (including masters students), postdoctoral researchers, staff, and early-career faculty. We welcome applicants from all backgrounds and fields of study, especially for those who identify with having limited experiences in computational methods. About 25 participants will be invited. Most participants are expected to fully attend and participate in the entire 10-day program. 
 
-Application closed on March 07 2025 (Friday). Participants were notified by March 14 2025 (Friday).
+Application closed on March 07 2025 (Friday). Participants were notified on March 13 2025 (Thursday).

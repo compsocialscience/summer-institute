@@ -4,7 +4,7 @@
 
 - name: "Minh Nguyen" 
   image: /assets/images/cmu25/participants/MNguyen.jpeg  
-  bio: " I am a Postdoctoral Researcher at Broad College of Business, Michigan State University. My research focuses on transformative AI/ML and causal AI/ML in the contexts of information systems, business analytics, and computational social sciences. I am interested in collaborating with scholars from various fields. "
+  bio: " I am a Postdoctoral Researcher at Broad College of Business, Michigan State University. My research focuses on transformative AI/ML and causal AI/ML in the contexts of information systems, business analytics, and computational social sciences. I am interested in collaborating with scholars from various fields. "
 
 - name: "John Mantus" 
   image: /assets/images/cmu25/participants/JMantus.jpg  
@@ -34,8 +34,19 @@
   image: /assets/images/cmu25/participants/KFurl.jpg  
   bio: " Katherine (Katie) Furl is an incoming Assistant Professor of Sociology at the University of North Dakota. She employs mixed methods to investigate how inequalities related to gender, race, and class operate across digital platforms. She hopes to develop her computational skills so she can confidently integrate CSS into her pedagogy and emerging research agenda. "
 
-- name: "Participant info coming soon." 
-  image: /assets/images/cmu25/participants/placeholder.png  
-  bio: " ... "
+- name: "Stacy Godfreey-Igwe" 
+  image: /assets/images/cmu25/participants/SGIgwe.png  
+  bio: "Stacy Godfreey-Igwe is a PhD Student in the Department of Engineering and Public Policy at Carnegie Mellon University. Her research broadly applies statistical models to understand the impact of extreme temperatures upon residential energy consumption for disadvantaged communities. Previously, she spent a few years working in the science policy space and holds a double major BS from MIT in Mechanical Engineering and African & African Diaspora Studies."
 
+- name: "Kieran Elrod"
+  image: /assets/images/cmu25/participants/KElrod.jpg
+  bio: "Kieran Elrod is a PhD student in Civil and Environmental Engineering at Carnegie Mellon University. His research focuses on how social infrastructure influences social networks and social capital with the goal of designing the built environment to be social. His research interests include sensing technology for the estimation of social networks, agent-based modeling, and complex systems for urban design. He holds a BS in Structural Engineering from the University of California, San Diego."
+
+- name: "Aysar Yahya"
+  image: /assets/images/cmu25/participants/AYahya.jpeg
+  bio: "Aysar Yahya is a PhD student in the Department of Advertising and Public Relations at Anadolu University. His research focuses on privacy in digital advertising, consumer data protection, and computational social science methods. He explores the intersection of user experience, digital consent mechanisms, and AI-driven advertising, examining their impact on privacy decision-making. By integrating machine learning, natural language processing, and data visualization, Aysar seeks to develop privacy-conscious solutions that balance ethical data practices with effective digital marketing strategies."
+
+- name: "Tai Malloy"
+  image: /assets/images/cmu25/participants/TMalloy.jpg
+  bio: "Tailia (Tai) Malloy is a postdoctoral researcher in the social and decision sciences of Carnegie Mellon University. Their background is in cognitive science studying applications of generative AI on computational cognitive modelling. Tai's recent work has focused on the use of GenAI in decision making contexts like expert system recommendations, online tutoring, and agentic GenAI."
 

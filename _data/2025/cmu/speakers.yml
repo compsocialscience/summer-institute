@@ -22,9 +22,9 @@
   image: /assets/images/cmu25/placeholder.png
   bio: ""
 
-- name: "Bill Sermons"
-  image: /assets/images/cmu25/placeholder.png
-  bio: ""
+- name: "M Williams Sermons"
+  image: /assets/images/cmu25/MWS_headshot.jpg
+  bio: "M William Sermons serves as Vice President for Performance and Business Intelligence at Volunteers of America and Adjunct Professor at Carnegie Mellon University's Heinz College. With an interdisciplinary background combining technical expertise and social policy application, Dr. Sermons holds a PhD in Civil Engineering from Northwestern University and a Master's in Social Work from Catholic University. His career spans the intersection of data science and social impact, having held leadership positions at prominent organizations including the National Alliance to End Homelessness, the Center for Responsible Lending, and Catholic Charities USA. This diverse experience allows him to bridge theoretical research with practical applications addressing pressing societal challenges. At Carnegie Mellon, Dr. Sermons teaches 'Using R for Policy Data Analysis,' where he equips students with computational skills to analyze public datasets and analyze demographic trends in policy outcomes using open-source tools. His work exemplifies how computational methods can be leveraged to ensure fairness and inform evidence-based policymaking."
 
 - name: "Hirokazu Shirado"
   image: /assets/images/cmu25/HS_headshot.jpeg
