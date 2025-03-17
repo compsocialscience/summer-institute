@@ -9,7 +9,7 @@ partner_site: cmu
 
 ## Eligibility
 
-SICSS-CMU is designed and intended for graduate students (including masters students), postdoctoral researchers, staff, and early-career faculty who are able to attend the program in-person at Carnegie Mellon University in Pittsburgh, PA. We welcome applicants from all backgrounds and fields of study, especially for those who identify with having limited experiences in computational methods. About 25 participants will be invited. **There are no restrictions based on citizenship, country of study, or country of employment, however, we are unable to sponsor visas nor offer funds for the institute.**
+SICSS-CMU is designed and intended for graduate students (including masters students), postdoctoral researchers, staff, and early-career faculty who are able to attend the program in-person at Carnegie Mellon University in Pittsburgh, PA. We welcome applicants from all backgrounds and fields of study, especially for those who identify with having limited experiences in computational methods. About 25 participants will be invited. **There are no restrictions based on citizenship, country of study, or country of employment, however, we are unable to sponsor visas nor offer funds to attend the institute.**
 
 The Summer Institute aims to bring together computational social scientists, digital humanists, and data scientists across different levels of technical experience. Participants with less experience with social science and digital humantities research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete the [SICSS boot camp](https://sicss.io/boot_camp).
 
@@ -17,7 +17,7 @@ We evaluate applicants along a number of dimensions: 1) current/future research 
 
 ## How To Apply
 
-### *Thank you for your interest in SICSS-CMU. Application closed on March 7th.* 
+### *Thank you for your interest. Application closed on March 7th.* 
 
 Interested applicants must submit their application via our Google Form. The form will ask you to describe: 
 
@@ -31,8 +31,6 @@ Additionally, the form will also ask you to self-identify your skill level in R.
 **In order to be guaranteed full consideration, all application materials must be submitted by March 07, 2025 (Friday).** 
 
 All application materials must be submitted through the Google Form. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by March 14, 2025 (Friday), and will ask participants to confirm their participation very soon thereafter.
-
-Inquiries can be sent to [sicss@andrew.cmu.edu](sicss@andrew.cmu.edu)
 
 ## Application Frequently Asked Questions
 

@@ -3,20 +3,20 @@
   events:
     - name: "9:30 - 10:00 Coffee and Annoucements"
     - name: "10:00 - 11:00 Welcome and onboarding"
-    - name: "11:00 - 12:00 Data Literacies and Ethics with Emily and Di"
+    - name: "11:00 - 12:00 Data Literacies and Ethics with Emily Bongiovanni and Di Yoong"
     - name: "12:00 - 13:00 Lunch/Birds of a Feather meetings"
-    - name: "13:00 - 14:00 IRB Presentation with Director of IRB & IACUC"
-    - name: "14:00 - 15:45 R Review: Warming Up for the Institute with Sarah"
+    - name: "13:00 - 14:00 IRB Presentation with Jennifer Koehrsen Director of IRB & IACUC"
+    - name: "14:00 - 15:45 R Review: Warming Up for the Institute with Sarah Young"
     - name: "15:45 - 16:00 Daily Wrap-Up/Q&A"
 
 - date: May 13
   name: "Text as Data"
   events:
     - name: "9:30 - 10:00 Coffee and Annoucements"
-    - name: "10:00 - 12:00 Text Analysis: Sentiment Analysis with Kristen"
+    - name: "10:00 - 12:00 Text Analysis: Sentiment Analysis with Kristen Scotti"
     - name: "12:00 - 12:30 Lunch"
     - name: "12:30 - 13:30 Lunch Talk with Nynke Niezink"
-    - name: "13:30 - 15:15 Text Analysis: Topic Modeling with Kristen"
+    - name: "13:30 - 15:15 Text Analysis: Topic Modeling with Kristen Scotti"
     - name: "15:15 - 15:45 Group Speed-Dating I"
     - name: "15:45 - 16:00 Daily Wrap-Up/Q&A"
 
@@ -24,10 +24,10 @@
   name: "Social Network Analysis"
   events:
     - name: "9:30 - 10:00 Coffee and Annoucements"
-    - name: "10:00 - 12:00 Social Network Analysis I with Scott"
+    - name: "10:00 - 12:00 Social Network Analysis I with Scott Renshaw"
     - name: "12:00 - 12:30 Lunch"
     - name: "12:30 - 13:30 Lunch Talk with Corina Paraschiv"
-    - name: "13:30 - 15:15 Social Network Analysis II with Scott"
+    - name: "13:30 - 15:15 Social Network Analysis II with Scott Renshaw"
     - name: "15:15 - 15:45 Group Speed-Dating II"
     - name: "15:45 - 16:00 Daily Wrap-Up/Q&A"
 
@@ -35,21 +35,21 @@
   name: "Data Visualization and Conversations on Generative AI/LLMs"
   events:
     - name: "9:30 - 10:00 Coffee and Annoucements"
-    - name: "10:00 - 12:00 Data Visualization with Emma"
+    - name: "10:00 - 12:00 Data Visualization with Emma Slayton"
     - name: "12:00 - 12:30 Lunch"
     - name: "12:30 - 13:30 Lunch Talk with Bill Sermons"
-    - name: "13:30 - 14:30 Data Visualization in R Shiny with Emma"
-    - name: "14:30 - 15:45 Roundtable: Generative AI/LLMs in Research with Haoyong"
+    - name: "13:30 - 14:30 Data Visualization in R Shiny with Emma Slayton"
+    - name: "14:30 - 15:45 Roundtable: Generative AI/LLMs in Research with Haoyong Lan"
     - name: "15:45 - 16:00 Daily Wrap-Up/Q&A"
 
 - date: May 16, 2025
   name: "Other Methods in Computational Social Science"
   events:
     - name: "9:30 - 10:00 Coffee and Annoucements"
-    - name: "10:00 - 12:00 Working with Social Media/Digital Trace Data with Lynette"
+    - name: "10:00 - 12:00 Working with Social Media/Digital Trace Data with Lynette Ng"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 14:00 Project Idea Generation/Discussion Activity"
-    - name: "14:00 - 15:45 Computational Social Experiments with Hiro"
+    - name: "14:00 - 15:45 Computational Social Experiments with Hirokazu Shirado"
     - name: "15:45 - 16:00 Daily Wrap-Up/Q&A"
 
 - date: Week 2
@@ -59,7 +59,7 @@
   name: "Collecting Data, Navigating Databases"
   events:
     - name: "9:30 - 10:00 Coffee and Annoucements"
-    - name: "10:00 - 11:00 Data Collection: Surveys and Interviews with Sarah and Di"
+    - name: "10:00 - 11:00 Data Collection: Surveys and Interviews with Sarah Young and Di Yoong"
     - name: "11:00 - 12:00 Data and Databases with Librarians"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 15:45 TBC"
@@ -69,7 +69,7 @@
   name: "Finding your Data"
   events:
     - name: "9:30 - 10:00 Coffee and Annoucements"
-    - name: "10:00 - 11:00 Morning talk with Vernelle"
+    - name: "10:00 - 11:00 Morning talk with Vernelle Noel"
     - name: "11:00 - 12:00 Project Group Data Exploration"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 15:45 Project Group Data Exploration: Finalizing project research goals"
@@ -79,7 +79,7 @@
   name: "Trying out your Methods"
   events:
     - name: "9:30 - 10:00 Coffee and Annoucements"
-    - name: "10:00 - 11:00 Morning talk with Elanor"
+    - name: "10:00 - 11:00 Morning talk with Elanor Mattern"
     - name: "11:00 - 12:00 Project Group Method Exploration"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 15:45 Project Group Method Exploration: Finalizing methods and provide rationale"
@@ -89,7 +89,7 @@
   name: "Experiment with your Visualization"
   events:
     - name: "9:30 - 10:00 Coffee and Annoucements"
-    - name: "10:00 - 11:00 Morning talk with Partick"
+    - name: "10:00 - 11:00 Morning talk with Partick Park"
     - name: "11:00 - 12:00 Project Group Visualization Exploration"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 15:45 Project Group Visualization Exploration: Prepating for presentation"
