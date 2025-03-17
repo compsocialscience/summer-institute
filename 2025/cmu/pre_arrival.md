@@ -16,7 +16,7 @@ The Summer Institute will bring together people from many fields and backgrounds
 
 -------------------------
 
-Our TAs, [Elizabeth Cucuzzella and Vu Hoang](/2025/cmu/people/#teaching_assistants), will be hosting office hours via Slack (invitation via email) and Zoom to support you as you work through installations and the coding bootcamp. Office hours begin on March 27th (Thursday) and will take place on [Eastern Standard Time (EST)](https://time.is/ET) every: 
+Our TAs, [Elizabeth Cucuzzella and Vu Hoang](/2025/cmu/people/#teaching_assistants), will be hosting office hours via Slack (invitation via email) and Zoom to support you as you work through installations and the coding bootcamp. Office hours begin on March 27th (Thursday) and scheduled in [Eastern Standard Time (EST)](https://time.is/ET) every: 
 - 5 - 6pm on Tuesday
 - 9 - 10am on Thursday
 - 5 - 6pm on Thursday
