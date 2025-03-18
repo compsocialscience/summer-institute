@@ -11,7 +11,7 @@
   website: https://www.oii.ox.ac.uk/people/profiles/bernie-hogan/ # update speaker personal link here
 
 - name: "Daniela Braun (Saarland University)" # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
+  image: /assets/images/2025SBDanielaBraun.jpg  # Upload speaker image to /assets/images/ and update URL here.
   bio: "Prof. Dr Daniela Braun has been Professor of Political Science with a focus on European Integration and International Relations since 2022. Prior to that, she taught and conducted research at the Geschwister-Scholl-Institute for Political Science at the Ludwig-Maximilians-Universität in Munich since 2010. In her research, she focuses on topics from the field of EU politics. European elections, European parties and the European party system as well as citizens and voters and their attitudes and behaviour in the European multi-level system are among her core topics. Her academic teaching focuses on the political system of the European Union, the current challenges of the multi-level system of the European Union and political sociology. Daniela Braun's research has been published in the following political science journals, among others: European Journal of Political Research, European Union Politics, German Politics, International Political Science Review, Journal for European Integration, Journal of European Public Policy, Party Politics, West European Politics, Zeitschrift für Vergleichende Politikwissenschaft and Zeitschrift für Parlamentsfragen. In addition, she has funded and carried out various research projects (BMBF; DFG; Horizon 2020; Horizon Europe) on Europe-related topics." # add speaker bio here
   website: https://www.uni-saarland.de/en/chair/braun/prof-dr-daniela-braun.html # update speaker personal link here
   
@@ -25,6 +25,11 @@
   bio: "Georg Wenzelburger is a Professor of Comparative European Politics at Saarland University and its Cluster of European Research (CEUS). His research interests involve the comparative analysis of public policies with a recent focus on law-and-order policies (e.g. “The Partisan Politics of Law and Order”, OUP 2020), the welfare state, party politics and the politics of the digital transformation." # add speaker bio here
   website: https://georg-wenzelburger.eu/ # update speaker personal link here
 
+- name: "Kevin Baum (German Research Center for Artificial Intelligence)" # Speaker name goes here.
+  image: /assets/images/2025SBKevin.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Kevin Baum is a computer scientist and philosopher researching interdisciplinary topics in ethical and safe AI. He leads the (Responsible AI and Machine Ethics (RAIME))[https://www.dfki.de/en/web/research/research-departments/neuro-mechanistic-modeling/raime] research group at the German Research Center for Artificial Intelligence (DFKI) and is part of the (Center for European Research in Trusted AI (CERTAIN))[https://certain.dfki.de/], where he explores ethical frameworks and practical methods for trustworthy, aligned AI systems. Kevin frequently lectures and speaks internationally on AI ethics, notably through the award-winning course Ethics for Nerds." # add speaker bio here
+  website: https://kevinbaum.de/ # update speaker personal link here
+  
 - name: "Ridhi Kashyap (University of Oxford)" # Speaker name goes here.
   image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
   bio: " " # add speaker bio here
