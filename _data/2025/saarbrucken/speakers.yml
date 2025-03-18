@@ -45,6 +45,11 @@
   bio: " " # add speaker bio here
   #website: https://www.google.com # update speaker personal link here
   
+- name: "Rosa M. Navarrete (Saarland University)" # Speaker name goes here.
+  image: /assets/images/2025SBRosaMNavarrete.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: " " # add speaker bio here
+  website: https://www.rosanavarrete.com/ # update speaker personal link here
+  
 - name: "Savvas Zannettou (Delft University of Technology)" # Speaker name goes here.
   image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
   bio: " " # add speaker bio here
