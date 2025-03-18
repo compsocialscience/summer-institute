@@ -3,7 +3,7 @@
 - name: "Abhisek Dash (Max Planck Institute for Software Systems)" # Speaker name goes here.
   image: /assets/images/2025SBAbhisekDash.jpg  # Upload speaker image to /assets/images/ and update URL here.
   bio: " " # add speaker bio here
-  #website: https://www.google.com # update speaker personal link here
+  website: https://sites.google.com/site/abhisek0193/ # update speaker personal link here
 
 - name: "Alex Hartland (Saarland University)" # Speaker name goes here.
   image: /assets/images/2025SBAlexHartland.jpg  # Upload speaker image to /assets/images/ and update URL here.
@@ -43,7 +43,7 @@
 - name: "Ridhi Kashyap (University of Oxford)" # Speaker name goes here.
   image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
   bio: " " # add speaker bio here
-  #website: https://www.google.com # update speaker personal link here
+  website: https://www.sociology.ox.ac.uk/people/ridhi-kashyap # update speaker personal link here
   
 - name: "Rosa M. Navarrete (Saarland University)" # Speaker name goes here.
   image: /assets/images/2025SBRosaMNavarrete.jpg  # Upload speaker image to /assets/images/ and update URL here.
@@ -53,4 +53,4 @@
 - name: "Savvas Zannettou (Delft University of Technology)" # Speaker name goes here.
   image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
   bio: " " # add speaker bio here
-  #website: https://www.google.com # update speaker personal link here
+  website: https://zsavvas.github.io/ # update speaker personal link here
