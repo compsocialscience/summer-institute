@@ -4,6 +4,11 @@
   image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
   bio: " " # add speaker bio here
   #website: https://www.google.com # update speaker personal link here
+
+- name: "Alex Hartland (Saarland University)" # Speaker name goes here.
+  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Dr. Alex Hartland is a postdoctoral researcher in the Department of Political Science with a focus on European Integration and International Relations at Saarland University. He completed his PhD at the University of Manchester, where he analysed the impact of lobbying and public opinion on asylum policy in Germany and the UK. Previously, he studied Intercultural Conflict Management at the Alice Salomon Hochschule in Berlin and Psychology at the University of Warwick. His work focuses on political trust, interest groups and comparative European politics. He uses survey data, quantitative text analysis, experimental research designs and qualitative methods to investigate the role of institutions, lobbying and public opinion in politics and political behaviour." # add speaker bio here  
+  website: https://www.uni-saarland.de/en/chair/braun/team/dr-alex-hartland.html # update speaker personal link here
   
 - name: "Bernie Hogan (University of Oxford)" # Speaker name goes here.
   image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
@@ -25,15 +30,25 @@
   bio: "Georg Wenzelburger is a Professor of Comparative European Politics at Saarland University and its Cluster of European Research (CEUS). His research interests involve the comparative analysis of public policies with a recent focus on law-and-order policies (e.g. “The Partisan Politics of Law and Order”, OUP 2020), the welfare state, party politics and the politics of the digital transformation." # add speaker bio here
   website: https://georg-wenzelburger.eu/ # update speaker personal link here
 
+- name: "Giuseppe Carteny (Saarland University)" # Speaker name goes here.
+  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Dr. Giuseppe Carteny is a postdoctoral researcher at the Chair of Political Science with a focus on European Integration and International Relations at Saarland University. Previously, he was a postdoctoral researcher at the Mannheim Centre for European Social Research (MZES) at the University of Mannheim for the ProConEU project, a research project investigating the growing gap between supporters and opponents of European integration in relation to party politics, civic politics and social media communication, funded by the German Federal Ministry of Education and Research (BMBF). In July 2021, he completed his PhD in Political Science at the Network for the Advancement of Social and Political Studies (NASP) at the University of Milan with a dissertation dedicated to the individual and contextual antecedents of individual trust in public institutions in the East Asian region. His work focuses the study of political attitudes, electoral behaviour, party politics, and comparative politics in Europe and East Asia, with a particular focus on institutional confidence, value and ideological orientations, Euroscepticism, far-right party agency, cleavage politics, and related topics. His methodological interests include classical quantitative methods for the social sciences, quantitative text analysis methods and survey methodology." # add speaker bio here
+  website: https://www.uni-saarland.de/en/chair/braun/team/dr-giuseppe-carteny.html # update speaker personal link here
+  
 - name: "Kevin Baum (German Research Center for Artificial Intelligence)" # Speaker name goes here.
   image: /assets/images/2025SBKevin.jpg  # Upload speaker image to /assets/images/ and update URL here.
-  bio: "Kevin Baum is a computer scientist and philosopher researching interdisciplinary topics in ethical and safe AI. He leads the (Responsible AI and Machine Ethics (RAIME))[https://www.dfki.de/en/web/research/research-departments/neuro-mechanistic-modeling/raime] research group at the German Research Center for Artificial Intelligence (DFKI) and is part of the (Center for European Research in Trusted AI (CERTAIN))[https://certain.dfki.de/], where he explores ethical frameworks and practical methods for trustworthy, aligned AI systems. Kevin frequently lectures and speaks internationally on AI ethics, notably through the award-winning course Ethics for Nerds." # add speaker bio here
+  bio: "Kevin Baum is a computer scientist and philosopher researching interdisciplinary topics in ethical and safe AI. He leads the Responsible AI and Machine Ethics (RAIME) research group at the German Research Center for Artificial Intelligence (DFKI) and is part of the Center for European Research in Trusted AI (CERTAIN), where he explores ethical frameworks and practical methods for trustworthy, aligned AI systems. Kevin frequently lectures and speaks internationally on AI ethics, notably through the award-winning course Ethics for Nerds." # add speaker bio here
   website: https://kevinbaum.de/ # update speaker personal link here
   
 - name: "Ridhi Kashyap (University of Oxford)" # Speaker name goes here.
   image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
   bio: " " # add speaker bio here
   #website: https://www.google.com # update speaker personal link here
+
+  - name: "Rosa M. Navarrete (Saarland University)" # Speaker name goes here.
+  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Since December 2022, Dr. Rosa M. Navarrete has been working as a postdoctoral researcher and lecturer at the Chair of Political Science with a focus on European Integration and International Relations in the Department of European Social Research at Saarland University. Previously, she was a postdoctoral researcher at MZES (University of Mannheim), a research associate at the Chair of Comparative Government at the University of Mannheim, a research associate for the project "Democratic dissatisfaction in Southern Europe: the political consequences of the crisis" at the University of York and a research associate at the Autonomous University of Madrid. She studied History (B.A. + M.A.) at the Complutense University of Madrid and completed her M.A. in Democracy and Government at the Autonomous University of Madrid. In 2019, she finished her PhD in Political Science at the University of Mannheim. In her dissertation, she studied the effect of left-right orientations on political behaviour. Her research interests include text-as-data methods, comparative politics, European politics, political behaviour and the impact of digitalisation on political attitudes. Her work has appeared in Electoral Studies, Party Politics, JEPOP, Comparative European Politics, European Politics and Society and Frontiers in Political Science." # add speaker bio here
+  website: https://www.rosanavarrete.com/ # update speaker personal link here
   
 - name: "Savvas Zannettou (Delft University of Technology)" # Speaker name goes here.
   image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
