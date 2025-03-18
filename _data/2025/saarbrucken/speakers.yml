@@ -39,17 +39,17 @@
   image: /assets/images/2025SBKevin.jpg  # Upload speaker image to /assets/images/ and update URL here.
   bio: "Kevin Baum is a computer scientist and philosopher researching interdisciplinary topics in ethical and safe AI. He leads the Responsible AI and Machine Ethics (RAIME) research group at the German Research Center for Artificial Intelligence (DFKI) and is part of the Center for European Research in Trusted AI (CERTAIN), where he explores ethical frameworks and practical methods for trustworthy, aligned AI systems. Kevin frequently lectures and speaks internationally on AI ethics, notably through the award-winning course Ethics for Nerds." # add speaker bio here
   website: https://kevinbaum.de/ # update speaker personal link here
-  
+ 
 - name: "Ridhi Kashyap (University of Oxford)" # Speaker name goes here.
   image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
   bio: " " # add speaker bio here
   #website: https://www.google.com # update speaker personal link here
-  
+ 
 - name: "Rosa M. Navarrete (Saarland University)" # Speaker name goes here.
   image: /assets/images/2025SBRosaMNavarrete.jpg  # Upload speaker image to /assets/images/ and update URL here.
   bio: "Since December 2022, Dr. Rosa M. Navarrete has been working as a postdoctoral researcher and lecturer at the Chair of Political Science with a focus on European Integration and International Relations in the Department of European Social Research at Saarland University. Previously, she was a postdoctoral researcher at MZES (University of Mannheim), a research associate at the Chair of Comparative Government at the University of Mannheim, a research associate for the project "Democratic dissatisfaction in Southern Europe: the political consequences of the crisis" at the University of York and a research associate at the Autonomous University of Madrid. She studied History (B.A. + M.A.) at the Complutense University of Madrid and completed her M.A. in Democracy and Government at the Autonomous University of Madrid. In 2019, she finished her PhD in Political Science at the University of Mannheim. In her dissertation, she studied the effect of left-right orientations on political behaviour. Her research interests include text-as-data methods, comparative politics, European politics, political behaviour and the impact of digitalisation on political attitudes. Her work has appeared in Electoral Studies, Party Politics, JEPOP, Comparative European Politics, European Politics and Society and Frontiers in Political Science." # add speaker bio here
   website: https://www.rosanavarrete.com/ # update speaker personal link here
-  
+
 - name: "Savvas Zannettou (Delft University of Technology)" # Speaker name goes here.
   image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
   bio: " " # add speaker bio here
