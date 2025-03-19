@@ -12,9 +12,9 @@ The Summer Institute will bring together people from many fields and backgrounds
     - Complete by April 25th for participants with conditional acceptance, optional for others
 - Prepare your computing environment
 
-## Office Hours
-
 -------------------------
+
+## Office Hours
 
 Our TAs, [Elizabeth Cucuzzella and Vu Hoang](/2025/cmu/people/#teaching_assistants), will be hosting office hours via Slack (invitation via email) and Zoom to support you as you work through installations and the coding bootcamp. Office hours begin on March 27th (Thursday) and scheduled in [Eastern Standard Time (EST)](https://time.is/ET) every: 
 - 5 - 6pm on Tuesday
@@ -24,9 +24,9 @@ Our TAs, [Elizabeth Cucuzzella and Vu Hoang](/2025/cmu/people/#teaching_assistan
 
 Please check the Slack channel for any changes in office hours. If you have questions outside of office hours, please feel free to drop them in the channel and we will get back to you. 
 
-## Recommended Readings
-
 -------------------------
+
+## Recommended Readings
 
 ### What is computational social science (CSS)?
 If computational social science is new to you, we recommend browsing Matt Salganik’s book, *[Bit by Bit: Social Research in the Digital Age.](https://www.bitbybitbook.com/en/1st-ed/preface/)* and Catherine D'Ignazio and Lauren Klein's *[Data Feminism](https://data-feminism.mitpress.mit.edu/)* These books are readily availble online (open access/open review version) or you can purchase them from your [favorite bookseller](https://bookshop.org/)). You can also find a [physical copy of *Bit by Bit*](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019580383904436) or the [publication copy of *Data Feminism*](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019886231504436) in our library.
@@ -47,9 +47,9 @@ Also check out:
 - NYU Center for Social Media and Politics (CSMaP): [Data Collections and Tools](https://csmapnyu.org/research/data-collections-and-tools)
 - The [Awesome Computational Social Science list](https://github.com/sicss-cmu/awesome-computational-social-science?tab=readme-ov-file)
 
-## Coding Boot Camp
-
 -------------------------
+
+## Coding Boot Camp
 
 The [SICSS Boot Camp](https://sicss.io/boot_camp) is an online training program created by Chris Bail to provide you with beginner level skills in coding so that you can follow the more advanced curriculum we teach at SICSS. The videos and materials are designed for complete beginners and are best viewed as a sequence. 
 
@@ -65,9 +65,9 @@ If you would like more practice after completing the Boot Camp videos, some othe
 
 Please note that the majority of the coding work presented at SICSS-CMU 2025 will be done in R. You are welcome to program in a language of your choice, such as Python and Julia, but we cannot guarantee that we can support them.
 
-## Setting up your Computing Environment
-
 -------------------------
+
+## Setting up your Computing Environment
 
 ### R and RStudio
 
