@@ -46,7 +46,12 @@
   image: /assets/images/cmu25/participants/AYahya.jpeg
   bio: "Aysar Yahya is a PhD student in the Department of Advertising and Public Relations at Anadolu University. His research focuses on privacy in digital advertising, consumer data protection, and computational social science methods. He explores the intersection of user experience, digital consent mechanisms, and AI-driven advertising, examining their impact on privacy decision-making. By integrating machine learning, natural language processing, and data visualization, Aysar seeks to develop privacy-conscious solutions that balance ethical data practices with effective digital marketing strategies."
 
-- name: "Tai Malloy"
-  image: /assets/images/cmu25/participants/TMalloy.jpg
-  bio: "Tailia (Tai) Malloy is a postdoctoral researcher in the social and decision sciences of Carnegie Mellon University. Their background is in cognitive science studying applications of generative AI on computational cognitive modelling. Tai's recent work has focused on the use of GenAI in decision making contexts like expert system recommendations, online tutoring, and agentic GenAI."
+- name: "Will Martin"
+  image: /assets/images/cmu25/participants/WMartin.JPG
+  bio: "Will is a PhD Researcher and Teaching Fellow at the Carnegie Mellon School of Design. Will strives to design and implement transdisciplinary strategies to empower and inspire communities to cooperatively imagine and build radically inclusive, equitable, resilient, and prosperous futures. His research and work has taken many forms: web applications, data analysis/visualization, geospatial mapping, architectural designs, documentary films, science fiction stories, labor activism, policy design, teaching, and parenting. With a diverse background in economics, geography, documentary media, architecture, urban planning, and data science, Will works collaboratively with a broad range of teams to design and deploy tools that evolve our shared environments, be they physical or digital, imaginary or real, for the better."
+
+- name: "Kuheli Sai"
+  image: /assets/images/cmu25/participants/KSai.jpg
+  bio: "Kuheli Sai is a researcher in the domain of Data Science for Societal Good, and a Ph.D. Candidate in Information Science at the University of Pittsburgh. She is interested in tackling societal, environmental, public sector, and technological problems that help make progress towards achieving Sustainable Development Goals. She uses concepts from data science and machine learning and primarily adopts empirical methods that specifically aim to solve social good problems. Her research simultaneously has implications for contributing towards policy development."
+  website: https://sites.google.com/view/kuhelisai
 
