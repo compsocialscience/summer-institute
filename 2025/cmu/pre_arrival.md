@@ -16,7 +16,7 @@ The Summer Institute will bring together people from many fields and backgrounds
 
 ## Office Hours
 
-Our TAs, [Elizabeth Cucuzzella and Vu Hoang](/2025/cmu/people/#teaching_assistants), will be hosting office hours via Slack (invitation via email) and Zoom to support you as you work through installations and the coding bootcamp. Office hours begin on March 27th (Thursday) and scheduled in [Eastern Standard Time (EST)](https://time.is/ET) every: 
+Our TAs, [Elizabeth Cucuzzella and Vu Hoang](/2025/cmu/people/#teaching_assistants), will be hosting office hours via Slack (invitation via email) and Zoom to support you as you work through installations and the coding bootcamp. Office hours begin on March 27th (Thursday) and scheduled in [Eastern Time (ET)](https://time.is/ET) every: 
 - 5 - 6pm on Tuesday
 - 9 - 10am on Thursday
 - 5 - 6pm on Thursday
@@ -29,14 +29,15 @@ Please check the Slack channel for any changes in office hours. If you have ques
 ## Recommended Readings
 
 ### What is computational social science (CSS)?
-If computational social science is new to you, we recommend browsing Matt Salganik’s book, *[Bit by Bit: Social Research in the Digital Age.](https://www.bitbybitbook.com/en/1st-ed/preface/)* and Catherine D'Ignazio and Lauren Klein's *[Data Feminism](https://data-feminism.mitpress.mit.edu/)* These books are readily availble online (open access/open review version) or you can purchase them from your [favorite bookseller](https://bookshop.org/)). You can also find a [physical copy of *Bit by Bit*](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019580383904436) or the [publication copy of *Data Feminism*](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019886231504436) in our library.
+If computational social science is new to you, we recommend browsing Matt Salganik’s book, *[Bit by Bit: Social Research in the Digital Age.](https://www.bitbybitbook.com/en/1st-ed/preface/)* and Catherine D'Ignazio and Lauren Klein's *[Data Feminism](https://data-feminism.mitpress.mit.edu/)*. These books are readily availble online through open access/open review version or you can purchase them from your [favorite bookseller](https://bookshop.org/)). You can also find a [physical copy of *Bit by Bit*](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019580383904436) or the [publication copy of *Data Feminism*](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019886231504436) in our library.
 
 Also check out:
 - Hanna Wallach's opinon piece [Computational Social Science ≠ Computer Science + Social Data](https://dl.acm.org/doi/10.1145/3132698), 
 - Rosaria Conte and colleagues' [Manifesto of computational social science](https://link.springer.com/article/10.1140/epjst/e2012-01697-8)
 - danah boyd & Kate Crawford's [Critical Questions for Big Data](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/8lb6it/cdi_proquest_miscellaneous_1315867033) (or [author's manuscript](https://www.researchgate.net/publication/281748849_Critical_questions_for_big_data_Provocations_for_a_cultural_technological_and_scholarly_phenomenon))
+- Cifor, M., Garcia, P., Cowan, T.L., Rault, J., Sutherland, T., Chan, A., Rode, J., Hoffmann, A.L., Salehi, N., Nakamura, L.'s [Femninist Data Manifest-No](https://www.manifestno.com/)
 - Nikolitsa Grigoropoulou & Mario L. Small's comment [The data revolution in social science needs qualitative research](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/8lb6it/cdi_proquest_miscellaneous_2644938061) (or [author's copy](https://www.socium.uni-bremen.de/about-the-socium/members/nikolitsa-grigoropoulou/publications/?publ=12130))
-- Alberto Cairo's *[How charts lie : getting smarter about visual information](https://search.worldcat.org/title/1121263715)* [(physical copy in our library)](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019665688004436)
+- Alberto Cairo's *[How charts lie : getting smarter about visual information](https://search.worldcat.org/title/1121263715)* (available as a [physical copy in our library](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019665688004436))
 
 ### Examples of CSS and data science projects
 - CMU's Center for Shared Prosperity's [Projects](https://www.centerforsharedprosperity.org/projects) 
