@@ -54,7 +54,7 @@ Also check out:
 
 The [SICSS Boot Camp](https://sicss.io/boot_camp) is an online training program created by Chris Bail to provide you with beginner level skills in coding so that you can follow the more advanced curriculum we teach at SICSS. The videos and materials are designed for complete beginners and are best viewed as a sequence. 
 
-Please headover to the [boot camp page]((https://sicss.io/boot_camp)) to access the materials. It should take approximately 7 hours to go through the tutorials and exercises. We recommend pacing them out across the month. Our [TAs are available to help you](#office-hours) as you complete the materials.
+Please headover to the [boot camp page](https://sicss.io/boot_camp) to access the materials. It should take approximately 7 hours to go through the tutorials and exercises. We recommend pacing them out across the month. Our [TAs are available to help you](#office-hours) as you complete the materials.
 
 ### Additional Resources
 
