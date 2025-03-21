@@ -5,7 +5,7 @@
 
 - name: "Tim Booker" # Faculty/organizer name
   image: /assets/images/tim_booker.jpg  # Add faculty image to assets/images/ and update here.
-  bio: "Tim Booker explores the societal implications of social media, with a focus on how recommender systems influence beliefs, communication, and culture within Western liberal democracies. His doctoral thesis designs and evaluates alternative recommender systems that prioritize healthier civic discourse over typical engagement metrics."
+  bio: "Tim Booker explores the societal implications of social media, with a focus on how recommender systems influence beliefs, communication, and culture within Western liberal democracies. His doctoral thesis designs and evaluates alternative recommender systems that prioritise healthier civic discourse over typical engagement metrics."
   website: https://timbooker.net/
 
 - name: "Elisabeth Höldrich" 

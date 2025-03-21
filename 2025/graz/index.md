@@ -5,16 +5,17 @@ main: true
 image: \assets\images\2025\graz\DDNSF_banner.png
 ---
 
-# Data, Democracy & The New Social Fabric 
-## Key Details  
-- Summer school
+## Key Details
+- **Event type**: Summer school
 - **School dates:** 15–26 September 2025 
 - **Location:** IDea_Lab, University of Graz (Austria)
 - **Hosted by:** The 
-- **Audience:** PhD students, Masters students, postdocs, advanced undergraduates.
+- **Audience:** Open to junior researchers and professionals interested in democracy, society, and data governance. Programming experience (Python/R) is preferred.
 - **Application deadline:** April 13th 2025
 - **Decision notification:** April 27th 2025
   
+[Feel free to download and distribute the school flyer here.](/assets/posters_info/DDNSF%20Call%20for%20Applicants%20poster.pdf)
+
 **The internet connects people at unprecedented scales, transforming centuries-old patterns of human communication and social organisation.** This restructuring has led to all new sorts of social phenomena—from global networks of gamers and K-pop fans, to the targeted manipulation of political outcomes, and international movements like the Arab Spring, the Climate Strikes, Black Lives Matter, and MeToo. The internet changes how society can evolve, for better or worse. 
 
 Not only this, **social media platforms wield unprecedented power: they control the infrastructure of public discourse, harvest intimate behavioral data, and operate with minimal transparency**. Recent developments—including the EU's Digital Services Act (DSA), whistleblower revelations (e.g., Meta's internal research on mental health harms), and election interference (e.g., the recent Romanian elections)—underscore the urgency of the crisis.
@@ -24,12 +25,16 @@ Not only this, **social media platforms wield unprecedented power: they control 
 **Blending political philosophy and computational data science, our school starts from the conceptual foundations of democracy and builds up to contemporary discussions on the interactions between social media and democracy, the ethical role of science and scientists in the digital age, and finally, new ideas for the future of governance and social media.**
 
 ### Who Should Apply?  
-This program is for graduate students who:  
+This program is targeted to graduate students who:  
 - Research in computational social science, computer science, data science, or adjacent fields.  
 - Political science, philosphy, social science, with some background in programming. 
 - Want to critically examine technology's societal role—without jargon or oversimplification.
 
 We strongly prefer applicants with a background in at least basic coding skills (Python/R/Julia).
+
+We will also consider strong applications from undergraduates, professional, or anyone else. 
+
+[The application link can be found here.](https://sicss.io/2025/graz/apply) 
 
 ---
 
