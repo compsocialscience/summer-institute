@@ -39,7 +39,7 @@ In his research, Mike studies the decisions we make in conversation. We are a so
 
 - name: "Mirco Musolesi" # Speaker name goes here.
   image: /assets/images/London_2025_Speakers_Mirco.jpg  # Upload speaker image to /assets/images/ and update URL here.
-  bio: "Mirco Musolesi is a Professor of Computer Science at the Department of Computer Science at University College London (UCL), where he leads the Machine Intelligence Lab. Mirco's Lab is part of the UCL Centre for Artificial Intelligence and the Intelligent Systems Group. Mirco is also Professor of Computer Science at the Department of Computer Science and Engineering at the University of Bologna."
+  bio: "Mirco Musolesi is Professor of Computer Science at the Department of Computer Science at University College London, where he leads the Machine Intelligence Lab. He is also Professor of Computer Science at the University of Bologna, Italy. He has broad research interests spanning several traditional and emerging areas of Computer Science and beyond. More specifically, current research areas include AI-based decision making (in single- and multi-agent scenarios), generative artificial intelligence and computational models (in particular, learning models) of user/human/machine behaviour. Information about his research profile can be found at his personal webpage."
   website: https://www.mircomusolesi.org/ # update speaker personal link here
 
 - name: "Milena Tsvetkova" # Speaker name goes here.
