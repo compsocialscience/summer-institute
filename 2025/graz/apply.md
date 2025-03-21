@@ -3,61 +3,20 @@ layout: location_detail
 partner_site: graz
 ---
 
-# How to Apply for the DDNSF Graz 2025 Summer School: A Step-by-Step Guide  
+## Application for DDNSF
 
-## 1. Key Dates & Requirements  
+### Key Dates & Requirements  
 - **Application Deadline**: April 13, 2025.  
 - **Notification Date**: April 27, 2025.  
 - **Program Dates**: September 15–26, 2025 (University of Graz, Austria).  
 - **Eligibility**: Open to junior researchers and professionals interested in democracy, society, and data governance. Programming experience (Python/R) is preferred.  
 
-## 2. Preparing Your Application  
-- **Gather Materials**:  
-  - **CV**: Save as a PDF (max 10 MB).  
-  - **Research Details**: Summarize your research topics, methodological expertise (200 characters), and a key project (1,000 characters).  
-  - **Motivation Statement**: Reflect on what you hope to learn and your unique perspective (2,500 characters).  
-  - **Democracy & Social Media Response**: Prepare an original, non-generic reflection (4,000 characters).  
+### Application Requirements
 
-## 3. Filling Out the Application Form  
+The application process requires a CV (PDF format, max 10MB), a brief summary of your research topics and methodological expertise (200 characters), details about a key research project (1,000 characters), a personal motivation statement explaining your goals and potential contributions (2,500 characters), and a thoughtful reflection on democracy and social media (4,000 characters). Applicants should demonstrate relevance to the summer school's focus on democracy, society, and data governance, with programming experience in Python or R preferred. All materials must be submitted through the online application form by April 13, 2025.
 
-### Step 1: Personal Information  
-- Provide your **email** (use a professional address; Google Account details will be recorded).  
-- Enter your **first name**, **last name**, and **department affiliation** (if non-academic, list your organization).  
+The second page of the application form asks only questions of formalities and organisational requirements, including any accessibiltiy needs or preferences. 
 
-### Step 2: Academic Status  
-- Select your **current degree/position** (e.g., graduate student, postdoctoral researcher).  
-  - If not in academia, choose “Other” and specify your highest degree and current role.  
+Please contact us at ddnsf@uni-graz.at if you have any questions whatsoever.
 
-### Step 3: Research Profile  
-- **Research Topics**: Briefly list expertise and interests (under 200 characters).  
-- **Substantive Project**: Describe a past/current project relevant to the summer school’s themes (under 1,000 characters).  
-
-### Step 4: Motivation Statement  
-- Explain why you’re applying, what you aim to learn, and the perspectives you’ll contribute (max 2,500 characters).  
-
-### Step 5: Democracy & Social Media Reflection  
-- Share a unique idea, story, or theory about their intersection—avoid generic answers (max 4,000 characters).  
-
-### Step 6: Upload CV  
-- Attach your **PDF CV** (ensure it’s under 10 MB).  
-
-## 4. Grant & Visa Assistance  
-- **Grants**: If your institution cannot fund your attendance and/or you face systemic hardship:  
-  - Email a **short case description** to **ddnsf@uni-graz.at** by April 13, 2025.  
-- **Visa Support**: Contact **ddnsf@uni-graz.at** to request assistance.  
-
-## 5. After Submission  
-- Successful applicants will be notified by April 27, 2025.  
-- If accepted, begin visa processes early (if required).  
-
-
-## Need Help?  
-- **Contact**: **ddnsf@uni-graz.at** for grant, visa, or technical issues.  
-
-**Good luck with your application!** 🌟  
-
-[Application Form](https://forms.gle/LXBgqqCfGRCH65RC6) 
-
-Inquiries can be sent to ddnsf@uni-graz.at.
-
-
+[Application form](https://forms.gle/LXBgqqCfGRCH65RC6) (https://forms.gle/LXBgqqCfGRCH65RC6)
