@@ -27,6 +27,8 @@ Applicants must submit the following documents: 1) a curriculum vitae (two page 
 
 **In order to be guaranteed full consideration, all application materials must be submitted by 23rd March 2025.** All application materials must be submitted through this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe_G7mKL8KE1e-GmS7x6l1_is-uFMQgHYK5LeHu1LDtKTJxGg/viewform?usp=dialog) (form for this site not yet created). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by 7 April 2025, and will ask participants to confirm their participation very soon thereafter.
 
+__NOTE: The deadline for the application materials has been extended to the 3rd of April. Participants will be notified on the 10th of April.__
+
 Inquiries can be sent to (a.hermida-carrillo@imperial.ac.uk).
 
 ## Application Frequently Asked Questions
