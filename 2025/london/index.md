@@ -13,8 +13,8 @@ The instructional program will involve lectures by invited keynote speakers, wor
 
 Participation is restricted to advanced Ph.D. students, postdoctoral researchers, and junior faculty (within 7 years of their Ph.D). We welcome applicants from all backgrounds and fields of study, especially junior faculty from neighboring institutions near London, United Kingdom. About 25-30 participants will be invited. Most participants are expected to attend and participate in the entire first week. The second week will be dedicated to projects and can be done remotely or in-person.  
 
-Application materials are due on 23rd of March 2025.
+Application materials are due on the 23rd of March 2025.
 
-__NOTE: The deadline for the application materials has been extended to the 3rd of April, 2025 __
+__NOTE: The deadline for the application materials has been extended to the 3rd of April. Participants will be notified on the 10th of April__
 
 [//]: # (ORGANIZERS: feel free to add a link to your application materials or your SICSS apply page above.)
