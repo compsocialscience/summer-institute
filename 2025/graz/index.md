@@ -31,17 +31,35 @@ This program is for graduate students who:
 
 We strongly prefer applicants with a background in at least basic coding skills (Python/R/Julia).
 
+---
+
 ## Schedule  
 
 **Week 1: Foundations**  
 
-| Day | Topic | Outcomes |
-|-----|-------|-------------|
-| **Monday** | **Welcome Day** | - Participants arrive to Graz.<br>- We will get to know each other and the organising team.<br>- Group dinner and activities. |
-| **Tuesday** | **What is Democracy and Social Fabric?** | - *What democracy is*, conceptually and empirically. <br>- Key normative questions about democracy.<br> - Understand democracy functionally: what does it do well, and not-so-well. <br> - The evolution of democracy: how did we get here? <br>- How does social media link to democracy via civic discourse?  |
-| **Wednesday** | **Social Media's Impact on Democracy and Discourse** | - Real examples of how social media facilitates, or hinders, collective-decision making. <br> - How social media interacts with aspects of democracy, like political authonomy and free speech. <br>- Understand the state of EU regulation towards social media platforms. |
-| **Thursday** | **Conceptually and Ethically Sound Data Science** | - The conceptual and ethical challenges of researching with social media data.<br>- Conducting conceptuall sound data science: explore advanced data science methods, such as building a large language model (LLM) and applying ethical considerations in its development. |
-| **Friday** | **The Future of Governance & Social Media** | - Understand some new ideas for governance and social media: from regulation to systemic change. |
+### Monday: Welcome Day
+- Participants arrive to Graz
+- We will get to know each other and the organising team
+- Group dinner and activities
+
+### Tuesday: What is Democracy and Social Fabric?
+- *What democracy is*, conceptually and empirically
+- Key normative questions about democracy
+- Understand democracy functionally: what does it do well, and not-so-well
+- The evolution of democracy: how did we get here?
+- How does social media link to democracy via civic discourse?
+
+### Wednesday: Social Media's Impact on Democracy and Discourse
+- Real examples of how social media facilitates, or hinders, collective-decision making
+- How social media interacts with aspects of democracy, like political authonomy and free speech
+- Understand the state of EU regulation towards social media platforms
+
+### Thursday: Conceptually and Ethically Sound Data Science
+- The conceptual and ethical challenges of researching with social media data
+- Conducting conceptuall sound data science: explore advanced data science methods, such as building a large language model (LLM) and applying ethical considerations in its development
+
+### Friday: The Future of Governance & Social Media
+- Understand some new ideas for governance and social media: from regulation to systemic change
 
 ---
 
