@@ -15,6 +15,6 @@ Participation is restricted to advanced Ph.D. students, postdoctoral researchers
 
 Application materials are due on the 23rd of March 2025.
 
-__NOTE: The deadline for the application materials has been extended to the 3rd of April. Participants will be notified on the 10th of April__
+__The deadline for the application materials has been extended to the 3rd of April. Participants will be notified on the 10th of April__
 
 [//]: # (ORGANIZERS: feel free to add a link to your application materials or your SICSS apply page above.)
