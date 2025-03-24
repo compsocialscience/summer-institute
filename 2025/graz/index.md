@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: graz
 main: true
-image: \assets\images\2025\graz\DDNSF_banner.png
+image: /assets/images/2025/graz/DDNSF_banner.png
 ---
 
 ## Key Details
@@ -27,7 +27,7 @@ Not only this, **social media platforms wield unprecedented power: they control 
 ### Who Should Apply?  
 This program is targeted to graduate students who:  
 - Research in computational social science, computer science, data science, or adjacent fields.  
-- Political science, philosphy, social science, with some background in programming. 
+- Political science, philosophy, social science, with some background in programming. 
 - Want to critically examine technology's societal role—without jargon or oversimplification.
 
 We strongly prefer applicants with a background in at least basic coding skills (Python/R/Julia).
@@ -56,12 +56,12 @@ We will also consider strong applications from undergraduates, professional, or 
 
 #### Wednesday: Social Media's Impact on Democracy and Discourse
 - Real examples of how social media facilitates, or hinders, collective-decision making
-- How social media interacts with aspects of democracy, like political authonomy and free speech
+- How social media interacts with aspects of democracy, like political autonomy and free speech
 - Understand the state of EU regulation towards social media platforms
 
 #### Thursday: Conceptually and Ethically Sound Data Science
 - The conceptual and ethical challenges of researching with social media data
-- Conducting conceptuall sound data science: explore advanced data science methods, such as building a large language model (LLM) and applying ethical considerations in its development
+- Conducting conceptually sound data science: explore advanced data science methods, such as building a large language model (LLM) and applying ethical considerations in its development
 
 #### Friday: The Future of Governance & Social Media
 - Understand some new ideas for governance and social media: from regulation to systemic change

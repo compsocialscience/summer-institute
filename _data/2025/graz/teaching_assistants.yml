@@ -1,5 +1,10 @@
-- name: "TA info coming soon."
-  image: /assets/images/placeholderPic.png
+- name: "Ruggero Lazzaroni"
+  image: /assets/images/2025/graz/ruggero_lazzaroni.jpg
   bio: "..."
-  website: www.google.com
-# add more TAs with this format below...
+  website: https://github.com/ruggsea
+
+- name: "João Neto"
+  image: assets\images\2025\graz\joao_neto.jpg
+  bio: "..."
+  website: https://joaopn.github.io/
+
