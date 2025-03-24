@@ -1,10 +1,10 @@
 - name: Apply
-  url: "https://docs.google.com/forms/d/e/1FAIpQLScOljegPItTl8KqAcXedaD9aQEf4ULm29Us8ieehRwWlKssNA/viewform"
+  url: "apply"
 - name: Pre-arrival
   url: "pre_arrival"
-- name: People
-  url: "people"
 - name: Schedule & Materials
   url: "schedule"
+- name: People
+  url: "people"
 
 # You can add more pages to your site page by adding them here, and creating the corresponsing yml and markdown necessary.
