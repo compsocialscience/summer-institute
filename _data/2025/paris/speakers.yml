@@ -21,7 +21,7 @@
 - name: Noga Keidar # Speaker name goes here.
   image: /assets/images/noga_keidar.jpg  # Upload speaker image to /assets/images/ and update URL here.
   bio:  Noga Keidar is an urban sociologist studying cities, ideas and their dialectic relations. In her research, she examines what it means for a messy and complex entity like a city to adopt a new idea, and how the circulation of policy creates a global space of ideas. Her previous work has concentrated on the Creative City and Placemaking—policy frameworks often addressing the political and economic upheavals post-industrialization brings. Her current research examines how ordinary cities develop climate adaptation plans that address their specific needs within a highly normative and hierarchical global space dominated by leading cities and philanthropic organizations.
-  website: https://www.utsc.utoronto.ca/sociology/daniel-silver # update speaker personal link here
+  website: https://english.tau.ac.il/profile/nogakeidar # update speaker personal link here
 
 - name: More speakers coming soon!
   image: /assets/images/placeholderPic.png
