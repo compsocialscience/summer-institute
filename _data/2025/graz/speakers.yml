@@ -8,7 +8,7 @@
   website: https://www.karowiesner.org/
 
 - name: "Rasha Abdulla"
-  image: assets/images/2025/graz/rasha_abdulla.jpg
+  image: /assets/images/2025/graz/rasha_abdulla.jpg
   bio: |
     <p>Rasha is a Professor of Journalism and Mass Communication at the American University in Cairo, Egypt. Her research interests include the uses and effects of new media; media in transition; social media and mobilization; social media and the public sphere; and issues of freedom of expression.</p>
     <p>She is the author of The Internet in Egypt and the Arab World [in Arabic, Afaq Publications]; The Internet in the Arab World: Egypt and Beyond [Peter Lang, Inc]; Policing the Internet in the Arab World [the Emirates Center for Strategic Study and Research]; and numerous other monographs, reports, book chapters, and research articles featured in top-tier international journals.</p>
@@ -17,13 +17,13 @@
   website: https://www.aucegypt.edu/fac/rasha-abdulla
 
 - name: "Bernhard Rieder"
-  image: assets/images/2025/graz/bernhard_rieder.jpeg
+  image: /assets/images/2025/graz/bernhard_rieder.jpeg
   bio: |
     <p>TBA</p>
   website: http://thepoliticsofsystems.net/
 
 - name: "Naomi Appelman"
-  image: assets/images/2025/graz/naomi_appelman.jpg
+  image: /assets/images/2025/graz/naomi_appelman.jpg
   bio: |
     <p>TBA</p>
   website: https://naomiappelman.net/
