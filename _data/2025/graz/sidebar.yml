@@ -2,7 +2,7 @@
   url: "apply"
 - name: Pre-arrival
   url: "pre_arrival"
-- name: Speakers and Organisers
+- name: Speakers & Organisers
   url: "people"
 - name: Schedule & Materials
   url: "schedule"
