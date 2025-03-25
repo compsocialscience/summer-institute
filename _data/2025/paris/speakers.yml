@@ -13,5 +13,15 @@
   bio: Jan G. Voelkel is an incoming Assistant Professor at the Jeb E. Brooks School of Public Policy at Cornell University. Currently, Jan is a Postdoctoral Researcher at The Wharton School at the University of Pennsylvania and Cornell University. Jan's research examines under which conditions micro-level preferences for more equality and unity influence macro-level outcomes, such as elections. For example, Jan’s research has examined under what conditions Americans (i) refuse undemocratic elites, (ii) support women candidates for president, and (iii) back economically progressive politicians. In his dissertation work, Jan led the Strengthening Democracy Challenge, a megastudy that tested 25 crowdsourced experimental treatments for reducing anti-democratic attitudes and partisan animosity. 
   website: https://www.jangvoelkel.com/ # update speaker personal link here
 
+- name: Daniel Silver # Speaker name goes here.
+  image: /assets/images/daniel_silver.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: Daniel Silver is Professor of Sociology at the University of Toronto Scarborough. His research areas are social theory, cities, culture, and cultural policy. His current research examines the role of arts and culture in city politics, economics, and residential patterns; the evolution of urban ideas, forms, and practices, the enduring political orders of cities; the use of diagrams and figures in social theory; and international variations in how sociological theory is taught. 
+  website: https://www.utsc.utoronto.ca/sociology/daniel-silver # update speaker personal link here
+
+- name: Noga Keidar # Speaker name goes here.
+  image: /assets/images/noga_keidar.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio:  Noga Keidar is an urban sociologist studying cities, ideas and their dialectic relations. In her research, she examines what it means for a messy and complex entity like a city to adopt a new idea, and how the circulation of policy creates a global space of ideas. Her previous work has concentrated on the Creative City and Placemaking—policy frameworks often addressing the political and economic upheavals post-industrialization brings. Her current research examines how ordinary cities develop climate adaptation plans that address their specific needs within a highly normative and hierarchical global space dominated by leading cities and philanthropic organizations.
+  website: https://english.tau.ac.il/profile/nogakeidar # update speaker personal link here
+
 - name: More speakers coming soon!
   image: /assets/images/placeholderPic.png

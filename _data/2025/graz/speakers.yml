@@ -1,4 +1,39 @@
-- name: "Speaker info coming soon." # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " ... " # add speaker bio here
-  website: https://www.google.com # update speaker personal link here
+- name: "Rasha Abdulla"
+  image: /assets/images/2025/graz/rasha_abdulla.jpg
+  bio: |
+    <p>Rasha is a Professor of Journalism and Mass Communication at the American University in Cairo, Egypt. Her research interests include the uses and effects of new media; media in transition; social media and mobilisation; social media and the public sphere; and issues of freedom of expression.</p>
+    <p>She is the author of The Internet in Egypt and the Arab World [in Arabic, Afaq Publications]; The Internet in the Arab World: Egypt and Beyond [Peter Lang, Inc]; Policing the Internet in the Arab World [the Emirates Centre for Strategic Study and Research]; and numerous other monographs, reports, book chapters, and research articles featured in top-tier international journals.</p>
+    <p>At DDNSF 2025, Rasha will share her research on the influence of the internet in Egypt, and the Arab world at-large, including how it has mediated and interacted with civic discourse, collective decision-making, and governance.</p>
+    <p><strong>Our recommended publications: "Facebook polls as proto-democratic instruments in the Egyptian revolution: The 'We Are All Khaled Said' Facebook page" (Abdulla et al., 2018) and "The Internet in the Arab world: Egypt and beyond" (Abdulla, 2007)</strong></p>
+  website: https://www.aucegypt.edu/fac/rasha-abdulla
+  
+- name: "Bernhard Rieder"
+  image: /assets/images/2025/graz/bernhard_rieder.jpeg
+  bio: |
+    <p>Bernhard is an associate professor in New Media and Digital Culture at the University of Amsterdam and a researcher with the Digital Methods Initiative.</p>
+    <p>His research focuses on the history, theory, and politics of software and in particular on the role algorithms play in the production of knowledge and culture. This work includes the development, application, and analysis of computational research methods and the investigation of political and economic challenges posed by large online platforms.</p>  
+    <p>He is also an active contributor to numerous software projects, mainly in the areas of digital research methodology, data visualisation, and geolocalisation.</p> 
+    <p>At DDNSF 2025, Bernhard will introduce the analysis of social media data using digital methods: a theoretically involved, yet highly practical, approach to the study of social media.</p>
+    <p><strong>Our recommended publications: "From ranking algorithms to 'ranking cultures': Investigating the modulation of visibility in YouTube search results" (Rieder, Matamoros-Fernández, and Coromina 2018) and "Towards a political economy of technical systems: The case of Google" (Rieder, 2022)</strong></p>
+  website: http://thepoliticsofsystems.net/
+
+  - name: "Karoline Wiesner"
+  image: /assets/images/2025/graz/Karoline_wiesner.jpg
+  bio: |
+    <p>Karoline is a Professor of Complexity Science and leader of the Complexity Science Group at the University of Potsdam, Germany.</p>
+    <p>Her group develops the foundations of complex systems (information theory), the dynamics of democracies (blending political science and statistical-physics-inspired methods), and neural networks.</p>
+    <p>At DDNSF 2025, Karoline will share her research on the dynamics of democracies, discussing the classification, properties, and dynamics of democracies, based on empirical datasets, through a complex systems lens.</p>
+    <p><strong>Our recommended publications: "The principal components of electoral regimes: separating autocracies from pseudodemocracies" (Wiesner, Bien, and Wilson, 2024) and "What is a complex system?" (Ladyman, Lambert, and Wiesner, 2024)</strong></p>
+  website: https://www.karowiesner.org/
+
+#- name: "Naomi Appelman"
+#  image: assets/images/2025/graz/naomi_appelman.jpg
+#  bio: |
+#    <p>Naomi is a researcher founding the Racism & Technology Center and interested in how technology can reflect, obfuscate, or amplify social inequalities, aiming to use law, advocacy, and action to dismantle systems of oppression and instigate radical change.</p>
+#    <p>Her dissertation at the University of Amsterdam was on resistance and contestation to online exclusion and algorithmic discrimination. She specialised in EU information law and democratic theory.</p>
+#    <p>At DDNSF 2025, Naomi will share her persective on the boundaries of political discourse on online platforms, including perverse interests of platforms, and the state of relevant EU regulations.</p>
+#    
+#    <p><strong>Our recommended publications: "Contesting Online Exclusion. EU-Regulation of Content Moderation through an Agonistic Lens" (Appelman 2024) and "Disparate Content Moderation: Mapping Social Justice Organisation's Perspectives on Unequal Content Moderation Harms and the EU Platform Policy Debate" (Appelman, 2024)</strong></p>
+#  website: https://naomiappelman.net/
+#
+# Currently waiting for her confirmation. 

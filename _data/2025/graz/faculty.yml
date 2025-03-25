@@ -1,6 +1,21 @@
-- name: "Faculty info coming soon." # Add faculty name here.
-  image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
-  bio: "Check back soon for updates." # Add faculty bio here.
-  website: https://www.google.com  # Link faculty website here.
+- name: "Complex Social & Computational Systems Group"
+  image: /assets/images/2025/graz/CSCS-Wappen-BW.png
+  bio: "Why are misinformation and conspiracy theories spreading at an unprecedented rate? What can citizens do to combat hate online? And how can we design social media platforms in such a way that they are conducive to civic discourse? These are questions that we want to answer in our research group. In the past, we have looked at what measures can most effectively prevent coronavirus outbreaks in schools, how resilient the Austrian healthcare system is to disruption, and how a changing understanding of \"honesty\" can explain why politicians in the US are increasingly spreading misinformation. In our research, we rely on computational approaches: we use machine learning to identify patterns in large amounts of data, statistical models help us to establish correlations between observations, and computer simulations allow us to run through various scenarios and make policy recommendations. To do this, we often use huge data sets of \"digital traces\", i.e. data such as posts or reactions on social media platforms that people leave behind when they use the internet."
+  website: https://idea-lab.uni-graz.at/en/research-fields/data-analysis/
+
+- name: "Tim Booker" # Faculty/organizer name
+  image: /assets/images/tim_booker.jpg  # Add faculty image to assets/images/ and update here.
+  bio: "Tim Booker explores the societal implications of social media, with a focus on how recommender systems influence beliefs, communication, and culture within Western liberal democracies. His doctoral thesis designs and evaluates alternative recommender systems that prioritise healthier civic discourse over typical engagement metrics."
+  website: https://timbooker.net/
+
+- name: "Elisabeth Höldrich" 
+  image: /assets/images/Elisabeth_Höldrich.png
+  bio: "Elisabeth Höldrich is a PhD candidate at the IDea_Lab since 2024, researching the rise and spread of conspiracy theories in online environments within the Orientation in Conspiration project (ORION). Through the application of Natural Language Processing and topic modeling Elisabeth hopes to measure different characteristics of individual conspiracy theories and identify which of these characteristics contribute most to the popularity of a conspiracy theory."
+  website: https://idea-lab.uni-graz.at/en/research-fields/data-analysis/
+
+- name: "Mathias Angermaier"
+  image: /assets/images/Mathias_Angermaier.png
+  bio: "Mathias is researching dynamics in collective adaptation. To this end, opinions are modeled as networks, whereby topics that are often expressed in similar contexts are particularly close to each other. These opinion networks can be very characteristic for individual people and also aggregated for groups. Changes in these networks due to new group constellations can provide indications of the extent to which people are influenced in their decisions by their social environment. In addition to agent-based modeling approaches, data from social networks is used to depict such opinion networks and look at their patterns of change."
+  website: https://idea-lab.uni-graz.at/en/research-fields/data-analysis/
 
 # Add more faculty with the same format as above...
