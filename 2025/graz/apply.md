@@ -13,6 +13,7 @@ partner_site: graz
 - **Audience:** Open to junior researchers and professionals interested in research and normative philosophy concerning democracy, social media, and governance. Basic programming experience (Python/R) is preferred.
 - **Application deadline:** [23:59 Anywhere On Earth](https://time.is/Anywhere_on_Earth), April 13th 2025
 - **Decision notification:** April 27th 2025
+- **Fees:** the school is *free to attend* but transit and accomodation is not covered. Equity-based grants are available.
 
 
 ## Application Requirements
