@@ -11,7 +11,7 @@ image: /assets/images/2025/graz/DDNSF_banner.png
 - **Location:** IDea_Lab, University of Graz (Austria)
 - **Hosted by:** Complex Social & Computational Systems Lab (CS^2)
 - **Audience:** Open to junior researchers and professionals interested in research and normative philosophy concerning democracy, social media, and governance. Basic programming experience (Python/R) is preferred.
-- **Application deadline:** April 13th 2025
+- **Application deadline:** [23:59 Anywhere On Earth](https://time.is/Anywhere_on_Earth), April 13th 2025
 - **Decision notification:** April 27th 2025
   
 [Feel free to download and distribute the school flyer here.](/assets/posters_info/DDNSF%20Call%20for%20Applicants%20poster.pdf)
