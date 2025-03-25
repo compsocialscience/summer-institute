@@ -10,7 +10,7 @@ image: /assets/images/2025/graz/DDNSF_banner.png
 - **School dates:** 15–26 September 2025 
 - **Location:** IDea_Lab, University of Graz (Austria)
 - **Hosted by:** Complex Social & Computational Systems Lab (CS^2)
-- **Audience:** Open to junior researchers and professionals interested in democracy, society, and data governance. Programming experience (Python/R) is preferred.
+- **Audience:** Open to junior researchers and professionals interested in research and normative philosophy concerning democracy, social media, and governance. Basic programming experience (Python/R) is preferred.
 - **Application deadline:** April 13th 2025
 - **Decision notification:** April 27th 2025
   
