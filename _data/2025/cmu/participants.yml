@@ -78,3 +78,11 @@
 - name: "Megan Kearns"
   image: /assets/images/cmu25/participants/MKearns.jpg
   bio: "Megan has been with Carnegie Mellon University's CyLab Institute of Security and Privacy since 2011 and leading their education outreach program, picoCTF, since 2017."
+
+- name: "Adriana Stephan"
+  image: /assets/images/cmu25/participants/AStephan.jpg
+  bio: "Adriana Stephan is an artificial intelligence and cybersecurity researcher and policy analyst. She is PhD student at the Oxford Internet Institute currently researching how citizens evaluate large language model systems."
+
+- name: "Sadia Kamal"
+  image: /assets/images/cmu25/participants/SKamal.jpg
+  bio: "I am Sadia Kamal, a PhD student in the Department of Computer Science at Oklahoma State University. My research focuses on natural language processing, social network analysis, and data mining, with a broader interest in leveraging computational methods to extract meaningful insights from complex social data. I am particularly interested in addressing bias and fairness challenges in large language models and understanding the social dynamics of digital discourse. Through interdisciplinary collaboration and innovative methodologies, I aim to advance the field of computational social science while promoting responsible and ethical AI practices."
