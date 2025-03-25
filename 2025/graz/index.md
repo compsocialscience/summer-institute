@@ -25,7 +25,20 @@ Not only this, **social media platforms wield unprecedented power: they control 
 
 **Blending political philosophy and computational data science, our school starts from the conceptual foundations of democracy and builds up to contemporary discussions on the interactions between social media and democracy, the ethical role of science and scientists in the digital age, and finally, new ideas for the future of governance and social media.**
 
-DDNSF 2025 will be home to world class scientists, philosophers, and thinkers of democracy and the digital public sphere such as [Prof. Karoline Wiesner](https://www.karowiesner.org/) from Potsdam University, [Prof. Bernhard Rieder](http://thepoliticsofsystems.net/) from the University of Amsterdam, [Prof. Rasha Abdulla](https://www.aucegypt.edu/fac/rasha-abdulla) from The American University in Cairo, as well as our local experts, including [Prof. Jana Lasser](https://www.janalasser.at/), [Nikolaus Poechhacker](https://digiones.org/), and [João Neto](https://joaopn.github.io/). More speakers to be announced soon!
+**DDNSF 2025** will be home to world-class scientists, philosophers, and thinkers of democracy and the digital public sphere. Confirmed speakers include:  
+**Guest Experts**  
+- [Prof. Rasha Abdulla](https://www.aucegypt.edu/fac/rasha-abdulla) (Journalism and Mass Communication, The American University in Cairo, Egypt)  
+- [Prof. Karoline Wiesner](https://www.karowiesner.org/) (Complex Systems, Potsdam University, Germany)  
+- [Prof. Bernhard Rieder](http://thepoliticsofsystems.net/) (New Media and Digital Culture, University of Amsterdam, The Netherlands)
+
+**Local Experts**  
+- [Prof. Jana Lasser](https://www.janalasser.at/) (Data Science)  
+- [Nikolaus Poechhacker](https://digiones.org/) (Digital Innovation Researcher)  
+- [João Neto](https://joaopn.github.io/) (Technology and Society Scholar)  
+
+*Additional speakers will be announced in the coming months—stay tuned!*  
+
+
 
 ### Who Should Apply?  
 This program is targeted to graduate students who:  
