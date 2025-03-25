@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: cmu
 main: true
-image: /assets/images/cmu25/cmu_index.png
+image: /assets/images/cmu25/cmu_index-min.png
 ---
 
 From May 12 to May 23, 2025 [Carnegie Mellon University Libraries](https://www.library.cmu.edu/) will host the Summer Institute in Computational Social Science, to be held in Pittsburgh, PA. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, staff, and faculty interested in exploring computational methods through interdisciplinary work. The Summer Institute is for social scientists (broadly conceived), digital humanists (broadly conceived), and data scientists (broadly conceived).
