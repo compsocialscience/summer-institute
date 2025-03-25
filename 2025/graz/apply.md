@@ -9,7 +9,7 @@ partner_site: graz
 - **Event type**: Summer school
 - **School dates:** 15–26 September 2025 
 - **Location:** IDea_Lab, University of Graz (Austria)
-- **Hosted by:** The 
+- **Hosted by:** Complex Social & Computational Systems Lab (CS^2)
 - **Audience:** Open to junior researchers and professionals interested in democracy, society, and data governance. Programming experience (Python/R) is preferred.
 - **Application deadline:** April 13th 2025
 - **Decision notification:** April 27th 2025
