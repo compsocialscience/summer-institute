@@ -16,20 +16,22 @@ The Summer Institute will bring together people from many fields and backgrounds
 
 ## Office Hours
 
-Our TAs, [Elizabeth Cucuzzella and Vu Hoang](/2025/cmu/people/#teaching_assistants), will be hosting office hours via Slack (invitation via email) and Zoom to support you as you work through installations and the coding bootcamp. Office hours begin on March 27th (Thursday) and scheduled in [Eastern Time (ET)](https://time.is/ET) every: 
+Our TAs, [Elizabeth Cucuzzella and Vu Hoang](/2025/cmu/people/#teaching_assistants), will be hosting office hours via Discord (invitation via email) to support you as you work through installations and the coding bootcamp. Office hours begin on March 27th (Thursday) and scheduled in [Eastern Time (ET)](https://time.is/ET) every: 
 - 5 - 6pm on Tuesday
 - 9 - 10am on Thursday
 - 5 - 6pm on Thursday
 - 9 - 10am on Friday 
 
-Please check the Slack channel for any changes in office hours. If you have questions outside of office hours, please feel free to drop them in the channel and we will get back to you. 
+Please check the Discord channel for any changes in office hours. If you have questions outside of office hours, please feel free to drop them in the channel and we will get back to you. 
 
 -------------------------
 
 ## Recommended Readings
 
 ### What is computational social science (CSS)?
-If computational social science is new to you, we recommend browsing Matt Salganik’s book, *[Bit by Bit: Social Research in the Digital Age.](https://www.bitbybitbook.com/en/1st-ed/preface/)* and Catherine D'Ignazio and Lauren Klein's *[Data Feminism](https://data-feminism.mitpress.mit.edu/)*. These books are readily availble online through open access/open review versions or you can purchase them from your [favorite bookseller](https://bookshop.org/)). You can also find a [physical copy of *Bit by Bit*](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019580383904436) or the [publication copy of *Data Feminism*](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019886231504436) in our library.
+If computational social science is new to you, we recommend browsing Matt Salganik’s *[Bit by Bit: Social Research in the Digital Age.](https://www.bitbybitbook.com/en/1st-ed/preface/)* and Catherine D'Ignazio and Lauren Klein's *[Data Feminism](https://data-feminism.mitpress.mit.edu/)*. These books are readily availble online through open access/open review copies or you can purchase them from your [favorite bookseller](https://bookshop.org/). 
+
+You can also find a [physical copy of *Bit by Bit*](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019580383904436) or the [publication copy of *Data Feminism*](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019886231504436) in our library.
 
 Also check out:
 - Hanna Wallach's opinon piece [Computational Social Science ≠ Computer Science + Social Data](https://dl.acm.org/doi/10.1145/3132698), 
@@ -76,9 +78,9 @@ Some of the activities will require coding, and we will support R. You are welco
 
 If you have issues installing R and RStudio, please drop by our [office hours](#office-hours) and we can help get you set up.
 
-### Slack
+### Discord Server
 
-Before participating at SICSS-CMU 2025, you should have an account in the SICSS-CMU Slack workspace. The invitation to join the workspace was sent to your email address. If you have not used Slack before, you should review these [getting started](https://slack.com/help/categories/360000049043-Getting-started) materials. Please [reach out](mailto:sicss@andrew.cmu.edu) if you need help getting Slack set up.
+Before participating in our in-person institute, you should have an account on the SICSS @ CMU Discord server. The invitation to join the server was sent to the email address you shared when confirming your participation. If you have not used Discord before, you should review the *[Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord)*. Please [reach out](mailto:sicss@andrew.cmu.edu) if you need help getting Discord set up.
 
 ### GitHub
 
