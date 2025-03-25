@@ -1,4 +1,31 @@
-- name: "Speaker info coming soon." # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " ... " # add speaker bio here
-  website: https://www.google.com # update speaker personal link here
+- name: "Karoline Wiesner"
+  image: /assets/images/2025/graz/Karoline_wiesner.jpg
+  bio: |
+    <p>Karoline is a Professor of Complexity Science and leader of the Complexity Science Group at the University of Potsdam, Germany.</p>
+    <p>Her group develops the foundations of complex systems (information theory), the dynamics of democracies (blending political science and statistical-physics-inspired methods), and neural networks.</p>
+    <p>At DDNSF 2025, Karoline will share her research on the dynamics of democracies, discussing the classification, properties, and dynamics of democracies, based on empirical datasets, through a complex systems lens.</p>
+    <p><strong>Our recommended publications: "The principal components of electoral regimes: separating autocracies from pseudodemocracies" (Wiesner, Bien, and Wilson, 2024) and "What is a complex system?" (Ladyman, Lambert, and Wiesner, 2024)</strong></p>
+  website: https://www.karowiesner.org/
+
+- name: "Rasha Abdulla"
+  image: /assets/images/2025/graz/rasha_abdulla.jpg
+  bio: |
+    <p>Rasha is a Professor of Journalism and Mass Communication at the American University in Cairo, Egypt. Her research interests include the uses and effects of new media; media in transition; social media and mobilization; social media and the public sphere; and issues of freedom of expression.</p>
+    <p>She is the author of The Internet in Egypt and the Arab World [in Arabic, Afaq Publications]; The Internet in the Arab World: Egypt and Beyond [Peter Lang, Inc]; Policing the Internet in the Arab World [the Emirates Center for Strategic Study and Research]; and numerous other monographs, reports, book chapters, and research articles featured in top-tier international journals.</p>
+    <p>At DDNSF 2025, Rasha will share her research on the influence of the internet in Egypt, and the Arab world at-large, including how it has mediated and interacted with civic discourse, collective decision-making, and governance.</p>
+    <p><strong>Our recommended publications: "Facebook polls as proto-democratic instruments in the Egyptian revolution: The 'We Are All Khaled Said' Facebook page" (Abdulla et al., 2018) and "The Internet in the Arab world: Egypt and beyond" (Abdulla, 2007)</strong></p>
+  website: https://www.aucegypt.edu/fac/rasha-abdulla
+
+- name: "Bernhard Rieder"
+  image: /assets/images/2025/graz/bernhard_rieder.jpeg
+  bio: |
+    <p>TBA</p>
+  website: http://thepoliticsofsystems.net/
+
+- name: "Naomi Appelman"
+  image: /assets/images/2025/graz/naomi_appelman.jpg
+  bio: |
+    <p>TBA</p>
+  website: https://naomiappelman.net/
+
+# Add more speakers with the same format as above...

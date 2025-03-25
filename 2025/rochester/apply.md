@@ -3,40 +3,40 @@ layout: location_detail
 partner_site: rochester
 ---
 
-[//]: # (Update the following info to match your location!)
+Participation is restricted to advanced undergraduates, Master's students, Ph.D. students, postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. However, there are no restrictions based on citizenship, country of study, or country of employment. Some participant costs during the workshop will be covered, including lunches and snacks. About 20 participants will be invited.
 
-# Apply
+The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete a set of online learning modules on the R programming language. Students doing this preparatory work will be supported by a teaching assistant who will hold online office hours by appointment during the two months before the Institute.
 
-**This page is under construction. Check back soon for more up-to-date info!**
+We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, attempt to account for an applicant’s career stage and previous educational opportunities.
 
-## Eligibility
+<br />
+### How To Apply
+### <a name="how_to_apply"></a>
 
-We invite applicants from advanced Ph.D. students students, postdoctoral researchers, and faculty within 7 years of their Ph.D., who are able to attend the program in Rochester, NY. We welcome applicants from all backgrounds and fields of study, particularly ... . About ... participants will be invited. However, there are no restrictions based on citizenship, country of study, or country of employment. 
+---
 
-The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp.
+Applicants must submit the following documents: (i) a curriculum vitae, (ii) a statement of interest (maximum two pages) describing your academic background, any current research, future research ideas, and your interest in computational social science, (iii) one writing sample (no more than 35 pages), and iv) two letters of recommendation that will be sent through [application form](https://forms.gle/mXCCgogAuTjrVfkZ8). Co-authored work is acceptable for the writing sample, but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. Applicants who are graduate students or postdoctoral researchers must submit two letters of recommendation from faculty advisors. Letters of recommendation should be as informative as possible about your standing in your program, general ability, research potential, and (if applicable) special interest in computational social science. All applications must include an e-mail and an alternative means of contact (e.g., phone number).
 
-We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
+**In order to be guaranteed full consideration, all application materials must be submitted by Friday, April 6th, 2025 at 11:59pm EST.**  All application materials must be submitted through the [application form](https://forms.gle/mXCCgogAuTjrVfkZ8). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail in early-April, and will ask participants to confirm their participation very soon thereafter. Also, if you are an international applicant, please keep in mind the time needed for visa processing.
 
-## How To Apply
+Inquiries can be sent to cantay.caliskan@rochester.edu or ekibris@ur.rochester.edu.
 
-Applicants must submit the following documents: 1) a curriculum vitae, 2) a statement (maximum two pages double-spaced) describing: 
+<br />
+### Application Frequently Asked Questions
+### <a name="faq"></a>
 
-- Your current research
-- Why you want to participate in SICSS-Rochester
-- How participation will aid your future research
-- Your experience and/or interest in collaborative research. Carrying out a collaborative research project is a core component of SICSS-Rochester.
-- A possible topic, method, or question you would like to focus on for a collaborative project
-
-**In order to be guaranteed full consideration, all application materials must be submitted by {app due date not yet determined}.** All application materials must be submitted through this [Google Form](https://www.google.com) (form for this site not yet created). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by {decision date not yet determined}, and will ask participants to confirm their participation very soon thereafter.
-
-Inquiries can be sent to [site email not set up](email@goes.here).
-
-## Application Frequently Asked Questions
+---
 
 #### Can I apply to more than one Summer Institute location?
 
-Yes, but not at the same time. For example, you can apply to SICSS-Rochester, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.
+Yes, but not at the same time.  For example, you can apply to SICSS-Princeton, and then if you are not accepted you can apply to one of the other locations if it has a later deadline.  However, you cannot have an applications under review at two locations simultaneously.
 
-#### Can I participate in SICSS-Rochester if I have already participated in SICSS at another location?
+#### Where do I submit recommendation letters?
 
-Unfortunately, no. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
+Please add the (academic) email addresses for your two recommenders to your application in the [application form](https://forms.gle/mXCCgogAuTjrVfkZ8). Your recommenders might be contacted if needed. Applicants should not submit recommendation letters on their own.
+
+#### Can I participate in SICSS-University of Rochester if I have already participated in SICSS at another location?
+
+Yes. But, preference will be given to candidates who have not yet participated SICSS.
+
+Inquiries can be sent to cantay.caliskan@rochester.edu or ekibris@ur.rochester.edu.
