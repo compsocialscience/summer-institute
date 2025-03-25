@@ -19,13 +19,21 @@
 - name: "Bernhard Rieder"
   image: assets/images/2025/graz/bernhard_rieder.jpeg
   bio: |
-    <p>TBA</p>
+    <p>Bernhard is an associate professor in New Media and Digital Culture at the University of Amsterdam and a researcher with the Digital Methods Initiative.</p>
+    <p>His research focuses on the history, theory, and politics of software and in particular on the role algorithms play in the production of knowledge and culture. This work includes the development, application, and analysis of computational research methods and the investigation of political and economic challenges posed by large online platforms.</p>  
+    <p>He is also an active contributor to numerous software projects, mainly in the areas of digital research methodology, data visualization, and geolocalization.</p> 
+    <p>At DDNSF 2025, Bernhard will introduce us to the analysis of social media data using digital methods: a theoretically involved, yet highly practical, approach to the study of social media.</p>
+    <p><strong>Our recommended publications: "From ranking algorithms to ‘ranking cultures’: Investigating the modulation of visibility in YouTube search results" (Rieder, Matamoros-Fernández, and Coromina 2018) and "Towards a political economy of technical systems: The case of Google" (Rieder, 2022)</strong></p>
   website: http://thepoliticsofsystems.net/
 
-- name: "Naomi Appelman"
-  image: assets/images/2025/graz/naomi_appelman.jpg
-  bio: |
-    <p>TBA</p>
-  website: https://naomiappelman.net/
-
-# Add more speakers with the same format as above...
+#- name: "Naomi Appelman"
+#  image: assets/images/2025/graz/naomi_appelman.jpg
+#  bio: |
+#    <p>Naomi is a researcher founding the Racism & Technology Center and interested in how technology can reflect, obfuscate, or amplify social inequalities, aiming to use law, advocacy, and action to dismantle systems of oppression and instigate radical change.</p>
+#    <p>Her dissertation at the University of Amsterdam was on resistance and contestation to online exclusion and algorithmic discrimination. She specialised in EU information law and democratic theory.</p>
+#    <p>At DDNSF 2025, Naomi will share her persective on the boundaries of political discourse on online platforms, including perverse interests of platforms, and the state of relevant EU regulations.</p>
+#    
+#    <p><strong>Our recommended publications: "Contesting Online Exclusion. EU-Regulation of Content Moderation through an Agonistic Lens" (Appelman 2024) and "Disparate Content Moderation: Mapping Social Justice Organisation’s Perspectives on Unequal Content Moderation Harms and the EU Platform Policy Debate" (Appelman, 2024)</strong></p>
+#  website: https://naomiappelman.net/
+#
+# Currently waiting for her confirmation. 
