@@ -3,8 +3,6 @@ layout: location_detail
 partner_site: cmu
 ---
 
-[//]: # (Update the following info to match your location!)
-
 # Apply
 
 ## Eligibility

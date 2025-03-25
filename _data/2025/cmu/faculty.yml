@@ -12,9 +12,8 @@
   website: 
 
 - name: "Kristen Scotti"
-  image: /assets/images/cmu25/placeholder.png
-  bio: "Coming soon"
-  website:
+  image: /assets/images/cmu25/KS_headshot.jpg
+  bio: "Kristen Scotti is an Open Science Postdoctoral Research Associate at Carnegie Mellon University Libraries, where she integrates AI literacy into coding and machine learning workshops and conducts research on open science practices and machine learning-assisted evidence synthesis. She holds a Ph.D. in Materials Science and Engineering from Northwestern University, where she led interdisciplinary research on microgravity materials processing. Her work aims to bridge computational research, educational outreach, and public engagement, with a focus on accessibility, equity, and the responsible use of emerging technologies in science and scholarship."
 
 - name: "Emma Slayton"
   image: /assets/images/cmu25/ES_headshot.jpg
