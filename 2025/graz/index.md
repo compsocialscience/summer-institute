@@ -11,8 +11,9 @@ image: /assets/images/2025/graz/DDNSF_banner.png
 - **Location:** IDea_Lab, University of Graz (Austria)
 - **Hosted by:** Complex Social & Computational Systems Lab (CS^2)
 - **Audience:** Open to junior researchers and professionals interested in research and normative philosophy concerning democracy, social media, and governance. Basic programming experience (Python/R) is preferred.
-- **Application deadline:** April 13th 2025
+- **Application deadline:** [23:59 Anywhere On Earth](https://time.is/Anywhere_on_Earth), April 13th 2025
 - **Decision notification:** April 27th 2025
+- **Fees:** the school is *free to attend* but transit and accomodation is not covered. Equity-based grants are available.
   
 [Feel free to download and distribute the school flyer here.](/assets/posters_info/DDNSF%20Call%20for%20Applicants%20poster.pdf)
 
@@ -23,6 +24,21 @@ Not only this, **social media platforms wield unprecedented power: they control 
 **What does this mean for democracy, a centuries-old system of collective governance?** Social media—barely two decades old—has rapidly reshaped the social foundations that democracy rests on. Can traditional democratic systems coexist with the new social fabric, or does their growing divergence demand radical systemic redesign?
 
 **Blending political philosophy and computational data science, our school starts from the conceptual foundations of democracy and builds up to contemporary discussions on the interactions between social media and democracy, the ethical role of science and scientists in the digital age, and finally, new ideas for the future of governance and social media.**
+
+**DDNSF 2025** will be home to world-class scientists, philosophers, and thinkers of democracy and the digital public sphere. Confirmed speakers include:  
+**Guest Experts**  
+- [Prof. Rasha Abdulla](https://www.aucegypt.edu/fac/rasha-abdulla) (Journalism and Mass Communication, The American University in Cairo, Egypt)  
+- [Prof. Karoline Wiesner](https://www.karowiesner.org/) (Complex Systems, Potsdam University, Germany)  
+- [Prof. Bernhard Rieder](http://thepoliticsofsystems.net/) (New Media and Digital Culture, University of Amsterdam, The Netherlands)
+
+**Local Experts**  
+- [Prof. Jana Lasser](https://www.janalasser.at/) (Data Science)  
+- [Nikolaus Poechhacker](https://digiones.org/) (Digital Innovation Researcher)  
+- [João Neto](https://joaopn.github.io/) (Technology and Society Scholar)  
+
+*Additional speakers will be announced in the coming months—stay tuned!*  
+
+
 
 ### Who Should Apply?  
 This program is targeted to graduate students who:  
