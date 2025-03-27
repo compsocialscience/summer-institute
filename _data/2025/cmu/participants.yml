@@ -1,34 +1,22 @@
-- name: "Yufei Song" 
-  image: /assets/images/cmu25/participants/YSong.jpg  
-  bio: " Student at CMU, interested in data science "
-
-- name: "Minh Nguyen" 
-  image: /assets/images/cmu25/participants/MNguyen.jpeg  
-  bio: " I am a Postdoctoral Researcher at Broad College of Business, Michigan State University. My research focuses on transformative AI/ML and causal AI/ML in the contexts of information systems, business analytics, and computational social sciences. I am interested in collaborating with scholars from various fields. "
-
-- name: "John Mantus" 
-  image: /assets/images/cmu25/participants/JMantus.jpg  
-  bio: " John Mantus is a first year PhD student in Engineering and Public Policy at Carnegie Mellon University's College of Engineering where he is advised by Dr. Nicholas Muller. His work focuses on the economic consequences of power outages and equity considerations in the vehicle electrification transition. Prior to Carnegie Mellon, John studied economics and math at the University of Rochester and served as a research assistant at the American Enterprise Institute in Washington, D.C., where his work focused on Social Security, the federal budget, and computational models of election processes. "
-
-- name: "Andrew Aquilina" 
-  image: /assets/images/cmu25/participants/AAquilina.png  
-  bio: " Andrew Aquilina is a Ph.D. student in the Information Science program at the University of Pittsburgh. His research is centered on socially-aware natural language processing technologies and their applications in human behaviour analysis, mental health support, and digital societal cohesion. He previously earned a master's in AI from Stockholm University and a bachelor's in AI from the University of Malta. "
-
-- name: "Rachel Jones" 
-  image: /assets/images/cmu25/participants/RJones.jpg  
-  bio: " Racheal Jones is a graduate student of Public Policy & Management at Carnegie Mellon University. She received her Bachelor's of Arts in Sociology from the University of Florida where she studied family violence and examined racial bias in perceived worthiness of housing candidates. Her professional and academic interests include demography, public health and housing policy, and sustainable economic development. "
-
-- name: "Garrett Kent" 
-  image: /assets/images/cmu25/participants/GKent.png  
-  bio: " I am a master’s student in Public Policy & Data Analytics at Carnegie Mellon University. My research has focused on the intersection of technology, labor economics, and education, with an emphasis on applying rigorous empirical methods to public policy issues. I have worked on projects related to online disinformation, open science and AI for education, and the impact of emerging technologies on the workforce. "
-
 - name: "Joel Atikemah" 
   image: /assets/images/cmu25/participants/JAtikemah.jpg  
   bio: " I am a graduate student in the Healthcare Analytics and Information Technology program at Carnegie Mellon University, with a strong interest in applying computational methods in addressing critical healthcare challenges. As a new health technologist, I would love to understand how to develop more impactful technologies, in societal context, and focus less on fancy, less impactful efforts.  "
 
-- name: "Jillian Stephenson" 
-  image: /assets/images/cmu25/participants/JStephenson.jpg  
-  bio: " Jillian Stephenson is an Assistant Teaching Professor at Heinz College of Information Systems and Public Policy, Carnegie Mellon University. Leveraging her professional credentials as a Certified Public Accountant, she integrates industry experience in accounting and financial reporting into her pedagogical approach. Her research interests encompass the dynamic interplay of public policies related to K-12 education and youth mental health, alongside the examination of fiscal policies designed to safeguard consumer investments. "
+- name: "Andrew Aquilina" 
+  image: /assets/images/cmu25/participants/AAquilina.png  
+  bio: " Andrew Aquilina is a Ph.D. student in the Information Science program at the University of Pittsburgh. His research is centered on socially-aware natural language processing technologies and their applications in human behaviour analysis, mental health support, and digital societal cohesion. He previously earned a master's in AI from Stockholm University and a bachelor's in AI from the University of Malta."
+
+- name: "Soundarya Chidambaram"
+  image: /assets/images/cmu25/participants/SChidambaram.JPG
+  bio: "Soundarya Chidambaram is an Assistant Professor of Political Science at Bucknell University. She specializes in comparative politics with a focus on India/South Asia. Her research interests include civil society, religious nationalism, populism, urban politics, and governance. Dr. Chidambaram holds a Ph.D. from The Ohio State University, where she won the Henry R. Spencer for Best Dissertation in 2012. "
+
+- name: "Kieran Elrod"
+  image: /assets/images/cmu25/participants/KElrod.jpg
+  bio: "Kieran Elrod is a PhD student in Civil and Environmental Engineering at Carnegie Mellon University. His research focuses on how social infrastructure influences social networks and social capital with the goal of designing the built environment to be social. His research interests include sensing technology for the estimation of social networks, agent-based modeling, and complex systems for urban design. He holds a BS in Structural Engineering from the University of California, San Diego."
+
+- name: "Silvia	Ferrer"
+  image: /assets/images/cmu25/participants/SFerrer.jpg
+  bio: "Silvia Ferrer (she/her) is a graduate student at Carnegie Mellon University interested in the intersections between arts and culture, environment, and identity. Throught research, she hopes to improve her skills and enter the workforce in grant giving and strategic partnerships."
 
 - name: "Katie Furl" 
   image: /assets/images/cmu25/participants/KFurl.jpg  
@@ -38,43 +26,67 @@
   image: /assets/images/cmu25/participants/SGIgwe.png  
   bio: "Stacy Godfreey-Igwe is a PhD Student in the Department of Engineering and Public Policy at Carnegie Mellon University. Her research broadly applies statistical models to understand the impact of extreme temperatures upon residential energy consumption for disadvantaged communities. Previously, she spent a few years working in the science policy space and holds a double major BS from MIT in Mechanical Engineering and African & African Diaspora Studies."
 
-- name: "Kieran Elrod"
-  image: /assets/images/cmu25/participants/KElrod.jpg
-  bio: "Kieran Elrod is a PhD student in Civil and Environmental Engineering at Carnegie Mellon University. His research focuses on how social infrastructure influences social networks and social capital with the goal of designing the built environment to be social. His research interests include sensing technology for the estimation of social networks, agent-based modeling, and complex systems for urban design. He holds a BS in Structural Engineering from the University of California, San Diego."
+- name: "Hailin Hao"
+  image: /assets/images/cmu25/participants/HHao.jpg
+  bio: "Hailin Hao is a 4th-year PhD student in Linguistics at the University of Southern California. His research explores the cognitive and social aspects of human language understanding and aims to improve NLP systems by integrating insights from psycholinguistics and social sciences. He is also interested in text analysis for trait detection and the evaluation of large language models."
 
-- name: "Aysar Yahya"
-  image: /assets/images/cmu25/participants/AYahya.jpeg
-  bio: "Aysar Yahya is a PhD student in the Department of Advertising and Public Relations at Anadolu University. His research focuses on privacy in digital advertising, consumer data protection, and computational social science methods. He explores the intersection of user experience, digital consent mechanisms, and AI-driven advertising, examining their impact on privacy decision-making. By integrating machine learning, natural language processing, and data visualization, Aysar seeks to develop privacy-conscious solutions that balance ethical data practices with effective digital marketing strategies."
+- name: "Rachel Jones" 
+  image: /assets/images/cmu25/participants/RJones.jpg  
+  bio: " Racheal Jones is a graduate student of Public Policy & Management at Carnegie Mellon University. She received her Bachelor's of Arts in Sociology from the University of Florida where she studied family violence and examined racial bias in perceived worthiness of housing candidates. Her professional and academic interests include demography, public health and housing policy, and sustainable economic development. "
+
+- name: "Sadia Kamal"
+  image: /assets/images/cmu25/participants/SKamal.jpg
+  bio: "I am Sadia Kamal, a PhD student in the Department of Computer Science at Oklahoma State University. My research focuses on natural language processing, social network analysis, and data mining, with a broader interest in leveraging computational methods to extract meaningful insights from complex social data. I am particularly interested in addressing bias and fairness challenges in large language models and understanding the social dynamics of digital discourse. Through interdisciplinary collaboration and innovative methodologies, I aim to advance the field of computational social science while promoting responsible and ethical AI practices."
+
+- name: "Megan Kearns"
+  image: /assets/images/cmu25/participants/MKearns.jpg
+  bio: "Megan has been with Carnegie Mellon University's CyLab Institute of Security and Privacy since 2011 and leading their education outreach program, picoCTF, since 2017."
+
+- name: "Garrett Kent" 
+  image: /assets/images/cmu25/participants/GKent.png  
+  bio: " I am a master’s student in Public Policy & Data Analytics at Carnegie Mellon University. My research has focused on the intersection of technology, labor economics, and education, with an emphasis on applying rigorous empirical methods to public policy issues. I have worked on projects related to online disinformation, open science and AI for education, and the impact of emerging technologies on the workforce. "
+
+- name: "John Mantus" 
+  image: /assets/images/cmu25/participants/JMantus.jpg  
+  bio: " John Mantus is a first year PhD student in Engineering and Public Policy at Carnegie Mellon University's College of Engineering where he is advised by Dr. Nicholas Muller. His work focuses on the economic consequences of power outages and equity considerations in the vehicle electrification transition. Prior to Carnegie Mellon, John studied economics and math at the University of Rochester and served as a research assistant at the American Enterprise Institute in Washington, D.C., where his work focused on Social Security, the federal budget, and computational models of election processes. "
 
 - name: "Will Martin"
   image: /assets/images/cmu25/participants/WMartin.JPG
   bio: "Will is a PhD Researcher and Teaching Fellow at the Carnegie Mellon School of Design. Will strives to design and implement transdisciplinary strategies to empower and inspire communities to cooperatively imagine and build radically inclusive, equitable, resilient, and prosperous futures. His research and work has taken many forms: web applications, data analysis/visualization, geospatial mapping, architectural designs, documentary films, science fiction stories, labor activism, policy design, teaching, and parenting. With a diverse background in economics, geography, documentary media, architecture, urban planning, and data science, Will works collaboratively with a broad range of teams to design and deploy tools that evolve our shared environments, be they physical or digital, imaginary or real, for the better."
+
+- name: "Minh Nguyen" 
+  image: /assets/images/cmu25/participants/MNguyen.jpeg  
+  bio: " I am a Postdoctoral Researcher at Broad College of Business, Michigan State University. My research focuses on transformative AI/ML and causal AI/ML in the contexts of information systems, business analytics, and computational social sciences. I am interested in collaborating with scholars from various fields. "
 
 - name: "Kuheli Sai"
   image: /assets/images/cmu25/participants/KSai.jpg
   bio: "Kuheli Sai is a researcher in the domain of Data Science for Societal Good, and a Ph.D. Candidate in Information Science at the University of Pittsburgh. She is interested in tackling societal, environmental, public sector, and technological problems that help make progress towards achieving Sustainable Development Goals. She uses concepts from data science and machine learning and primarily adopts empirical methods that specifically aim to solve social good problems. Her research simultaneously has implications for contributing towards policy development."
   website: https://sites.google.com/view/kuhelisai
 
-- name: "Soundarya Chidambaram"
-  image: /assets/images/cmu25/participants/SChidambaram.JPG
-  bio: "Soundarya Chidambaram is an Assistant Professor of Political Science at Bucknell University. She specializes in comparative politics with a focus on India/South Asia. Her research interests include civil society, religious nationalism, populism, urban politics, and governance. Dr. Chidambaram holds a Ph.D. from The Ohio State University, where she won the Henry R. Spencer for Best Dissertation in 2012. "
+- name: "Yufei Song" 
+  image: /assets/images/cmu25/participants/YSong.jpg  
+  bio: "Yufei Song is a graduate student at Carnegie Mellon University, pursuing a Master’s degree in Information Systems Management. She brings diverse experience across industries including healthcare, technology, and digital marketing. Proficient in Python, SQL, and data visualization tools, she is passionate about leveraging data science to uncover insights and deliver impactful solutions to real-world challenges."
 
-- name: "Ian Williams"
-  image: /assets/images/cmu25/participants/IWilliams.jpg
-  bio: "Ian G. Williams is a doctoral student at the PhD Program in Social Welfare at the CUNY Graduate Center, where he researches digital literacies, datafication, and innovation diffusion in the human services and welfare states. In approaching computational research Ian melds his background as a social worker, lived experience in democratic and participatory organizations, and interest in data activism and civic tech networks. Ian received an Advanced Certificate in Interactive Technology and Pedagogy from the CUNY Graduate Center, an MSW in Organizational Management and Leadership from The Silberman School of Social Work at Hunter College, and a BA in East Asian Studies, Cultural Studies, and World Religions from McGill University."
+- name: "Adriana Stephan"
+  image: /assets/images/cmu25/participants/AStephan.jpg
+  bio: "Adriana Stephan is an artificial intelligence and cybersecurity researcher and policy analyst. She is PhD student at the Oxford Internet Institute currently researching how citizens evaluate large language model systems."
 
-- name: "Hailin Hao"
-  image: /assets/images/cmu25/participants/HHao.jpg
-  bio: "Hailin Hao is a 4th-year PhD student in Linguistics at the University of Southern California. His research explores the cognitive and social aspects of human language understanding and aims to improve NLP systems by integrating insights from psycholinguistics and social sciences. He is also interested in text analysis for trait detection and the evaluation of large language models."
+- name: "Jillian Stephenson" 
+  image: /assets/images/cmu25/participants/JStephenson.jpg  
+  bio: " Jillian Stephenson is an Assistant Teaching Professor at Heinz College of Information Systems and Public Policy, Carnegie Mellon University. Leveraging her professional credentials as a Certified Public Accountant, she integrates industry experience in accounting and financial reporting into her pedagogical approach. Her research interests encompass the dynamic interplay of public policies related to K-12 education and youth mental health, alongside the examination of fiscal policies designed to safeguard consumer investments. "
+
+- name: "Chloe Thompson"
+  image: /assets/images/cmu25/participants/CThompson.jpg 
+  bio: "Chloe Thompson is a PhD student in the history department at Carnegie Mellon University, where she studies environmental history and the history of technology."
 
 - name: "Evangelos Vaiannis"
   image: /assets/images/cmu25/participants/EVaiannis.jpg
   bio: "Evangelos Vaiannis recently graduated from the master's program in Sociology at Columbia University. Before attending Columbia, he was the top rank student at the Department of Political Science and Public Administration (National and Kapodistrian University of Athens). He is a devoted fan of European football."
 
-- name: "Silvia	Ferrer"
-  image: /assets/images/cmu25/participants/SFerrer.jpg
-  bio: "Silvia Ferrer (she/her) is a graduate student at Carnegie Mellon University interested in the intersections between arts and culture, environment, and identity. Throught research, she hopes to improve her skills and enter the workforce in grant giving and strategic partnerships."
+- name: "Ian Williams"
+  image: /assets/images/cmu25/participants/IWilliams.jpg
+  bio: "Ian G. Williams is a doctoral student at the PhD Program in Social Welfare at the CUNY Graduate Center, where he researches digital literacies, datafication, and innovation diffusion in the human services and welfare states. In approaching computational research Ian melds his background as a social worker, lived experience in democratic and participatory organizations, and interest in data activism and civic tech networks. Ian received an Advanced Certificate in Interactive Technology and Pedagogy from the CUNY Graduate Center, an MSW in Organizational Management and Leadership from The Silberman School of Social Work at Hunter College, and a BA in East Asian Studies, Cultural Studies, and World Religions from McGill University."
 
-- name: "Megan Kearns"
-  image: /assets/images/cmu25/participants/MKearns.jpg
-  bio: "Megan has been with Carnegie Mellon University's CyLab Institute of Security and Privacy since 2011 and leading their education outreach program, picoCTF, since 2017."
+- name: "Aysar Yahya"
+  image: /assets/images/cmu25/participants/AYahya.jpeg
+  bio: "Aysar Yahya is a PhD student in the Department of Advertising and Public Relations at Anadolu University. His research focuses on privacy in digital advertising, consumer data protection, and computational social science methods. He explores the intersection of user experience, digital consent mechanisms, and AI-driven advertising, examining their impact on privacy decision-making. By integrating machine learning, natural language processing, and data visualization, Aysar seeks to develop privacy-conscious solutions that balance ethical data practices with effective digital marketing strategies."
