@@ -33,9 +33,9 @@ Not only this, **social media platforms wield unprecedented power: they control 
 - [Prof. Étienne Brown](https://www.etiennebrown.com/) (Philosophy, San José State University, the United States)
 
 **Local Experts**  
-- [Prof. Jana Lasser](https://www.janalasser.at/) (Data Science)  
-- [Nikolaus Poechhacker](https://digiones.org/) (Digital Innovation Researcher)  
-- [João Neto](https://joaopn.github.io/) (Technology and Society Scholar)  
+- [Prof. Jana Lasser](https://www.janalasser.at/) (Computational social science)  
+- [Nikolaus Poechhacker](https://digiones.org/) (Sociology)  
+- [João Neto](https://joaopn.github.io/) (Computational social science, physics)  
 
 *Additional speakers will be announced in the coming months—stay tuned!*  
 
