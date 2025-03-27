@@ -26,6 +26,15 @@
     <p><strong>Our recommended publications: "The principal components of electoral regimes: separating autocracies from pseudodemocracies" (Wiesner, Bien, and Wilson, 2024) and "What is a complex system?" (Ladyman, Lambert, and Wiesner, 2024)</strong></p>
   website: https://www.karowiesner.org/
 
+- name: "Jana Lasser"
+  image: /assets/images/2025/graz/jana_lasser.jpg
+  bio: |
+    <p>Jana is a Professor for Data Analysis at University of Graz and leads the research group of Complex Social & Computational Systems. She researches emergent phenomena in complex social systems, employing methods from machine learning, data science, natural language processing and computational and statistical modelling to understand how humans behave in socio-technical environments.</p> 
+    <p>Her current research interests include the effectiveness of counterspeech strategies and the spread of misinformation on social media platforms, the fracturing of our society's understanding of "honesty" and the impact of social media recommendation algorithms on societal outcomes.</p>
+    <p>She has also recently commenced the "DESIRE" project (Designing Social Media Recommendation Algorithms for Societal Good) under the ERC Starting grant. She aims to research alternative content recommendation algorithms for social media platforms to improve the typical engagement-based optimisations.</p>   
+    <p>As the group lead of CS^2, the hosting institute of DDNSF 2025, Jana will introduce the group, explaining its approach, goals, and accomplishments.</p>
+  website: https://www.janalasser.at/
+
 #- name: "Naomi Appelman"
 #  image: assets/images/2025/graz/naomi_appelman.jpg
 #  bio: |
