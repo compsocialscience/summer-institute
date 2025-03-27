@@ -1,6 +1,16 @@
 - name: "Complex Social & Computational Systems Group"
   image: /assets/images/2025/graz/CSCS-Wappen-BW.png
-  bio: "Why are misinformation and conspiracy theories spreading at an unprecedented rate? What can citizens do to combat hate online? And how can we design social media platforms in such a way that they are conducive to civic discourse? These are questions that we want to answer in our research group. In the past, we have looked at what measures can most effectively prevent coronavirus outbreaks in schools, how resilient the Austrian healthcare system is to disruption, and how a changing understanding of \"honesty\" can explain why politicians in the US are increasingly spreading misinformation. In our research, we rely on computational approaches: we use machine learning to identify patterns in large amounts of data, statistical models help us to establish correlations between observations, and computer simulations allow us to run through various scenarios and make policy recommendations. To do this, we often use huge data sets of \"digital traces\", i.e. data such as posts or reactions on social media platforms that people leave behind when they use the internet."
+  bio: |
+    <p>The Complex Social & Computational Systems Group conducts interdisciplinary research at the intersection of technology, social dynamics, and policy to address challenges in online discourse and societal cohesion. Combining computational methods with social science, their work informs ethical platform design, counters misinformation, and promotes healthier digital ecosystems. Key projects include:</p>
+    <ul>
+      <li><strong>Designing Social Media Recommendation Algorithms for Societal Good (ERC-funded):</strong> Aims to redesign content recommendation algorithms to reduce systemic risks (e.g., polarisation, outrage) under the EU's Digital Services Act.</li>
+      
+      <li><strong>The Spread of Conspiracy Theories in Online Spaces (FWF/netidee-funded):</strong> Analyses German-language Telegram data (23TB from the "Schwurbelarchiv") to disentangle individual, social, and technological drivers of conspiracy theory dissemination.</li>
+      
+      <li><strong>The Fracturing of Honesty in Political Communication:</strong> Traces the rise of "belief-speaking" (subjective, evidence-free claims) vs. "truth-seeking" (evidence-based discourse) in U.S. politicians' tweets (2011–2022).</li>
+      
+      <li><strong>Effectiveness of Counterspeech Strategies:</strong> Collaborates with social scientists to identify effective tactics (e.g., humour, questioning) against organised hate groups (e.g., Reconquista Germanica). Uses machine learning to classify strategies and measure de-escalation outcomes in German Twitter data.</li>
+    </ul>
   website: https://idea-lab.uni-graz.at/en/research-fields/data-analysis/
 
 - name: "Tim Booker" # Faculty/organizer name
@@ -10,12 +20,12 @@
 
 - name: "Elisabeth Höldrich" 
   image: /assets/images/Elisabeth_Höldrich.png
-  bio: "Elisabeth Höldrich is a PhD candidate at the IDea_Lab since 2024, researching the rise and spread of conspiracy theories in online environments within the Orientation in Conspiration project (ORION). Through the application of Natural Language Processing and topic modeling Elisabeth hopes to measure different characteristics of individual conspiracy theories and identify which of these characteristics contribute most to the popularity of a conspiracy theory."
+  bio: "Elisabeth Höldrich is a PhD candidate at the IDea_Lab since 2024, researching the rise and spread of conspiracy theories in online environments within the Orientation in Conspiration project (ORION). Through the application of Natural Language Processing and topic modelling Elisabeth hopes to measure different characteristics of individual conspiracy theories and identify which of these characteristics contribute most to the popularity of a conspiracy theory."
   website: https://idea-lab.uni-graz.at/en/research-fields/data-analysis/
 
 - name: "Mathias Angermaier"
   image: /assets/images/Mathias_Angermaier.png
-  bio: "Mathias is researching dynamics in collective adaptation. To this end, opinions are modeled as networks, whereby topics that are often expressed in similar contexts are particularly close to each other. These opinion networks can be very characteristic for individual people and also aggregated for groups. Changes in these networks due to new group constellations can provide indications of the extent to which people are influenced in their decisions by their social environment. In addition to agent-based modeling approaches, data from social networks is used to depict such opinion networks and look at their patterns of change."
+  bio: "Mathias is researching dynamics in collective adaptation. To this end, opinions are modelled as networks, whereby topics that are often expressed in similar contexts are particularly close to each other. These opinion networks can be very characteristic for individual people and also aggregated for groups. Changes in these networks due to new group constellations can provide indications of the extent to which people are influenced in their decisions by their social environment. In addition to agent-based modelling approaches, data from social networks is used to depict such opinion networks and look at their patterns of change."
   website: https://idea-lab.uni-graz.at/en/research-fields/data-analysis/
 
 # Add more faculty with the same format as above...
