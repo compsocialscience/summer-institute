@@ -6,9 +6,10 @@
   image: /assets/images/cmu25/NN_headshot.jpg  
   bio: " Nynke Niezink is an Assistant Professor in the Department of Statistics and Data Science and an affiliated faculty member of the Heinz College of Information Systems and Public Policy.  She received her PhD in Sociology, her MSc’s in Applied Mathematics and Social and Behavioral Sciences, and her BSc’s in Mathematics and Pedagogical Sciences from the University of Groningen. Niezink's methodological research interests include social network analysis and statistics for the social sciences and humanities broadly. Much of her statistical work and software development is inspired by interdisciplinary collaborations, including in education, health sciences, organizations, and criminology. Her research has been supported by an NSF MMS Award, a Russell Sage Foundation Small Grant, and various NIH grants, amongst others. " 
 
-- name: "Lynette Ng"
-  image: /assets/images/cmu25/placeholder.png
-  bio: "Coming Soon"
+- name: "Lynnette Ng"
+  image: /assets/images/cmu25/LN_headshot.jpg
+  bio: "Lynnette is a PhD student in the Societal and Software Systems department through the School of Computer Science at Carnegie Mellon University. Her research focuses on studying behavioral interactions between automated agents and humans on social media through the use of natural language processing, network science and agent based simulation methods."
+  website: https://quarbby.github.io/
 
 - name: "Vernelle Noel"
   image: /assets/images/cmu25/placeholder.png
