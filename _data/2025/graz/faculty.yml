@@ -1,6 +1,31 @@
 - name: "Complex Social & Computational Systems Group"
   image: /assets/images/2025/graz/CSCS-Wappen-BW.png
-  bio: "Why are misinformation and conspiracy theories spreading at an unprecedented rate? What can citizens do to combat hate online? And how can we design social media platforms in such a way that they are conducive to civic discourse? These are questions that we want to answer in our research group. In the past, we have looked at what measures can most effectively prevent coronavirus outbreaks in schools, how resilient the Austrian healthcare system is to disruption, and how a changing understanding of \"honesty\" can explain why politicians in the US are increasingly spreading misinformation. In our research, we rely on computational approaches: we use machine learning to identify patterns in large amounts of data, statistical models help us to establish correlations between observations, and computer simulations allow us to run through various scenarios and make policy recommendations. To do this, we often use huge data sets of \"digital traces\", i.e. data such as posts or reactions on social media platforms that people leave behind when they use the internet."
+  bio: |
+    <p>The Complex Social & Computational Systems Group conducts interdisciplinary research at the intersection of technology, social dynamics, and policy to address challenges in online discourse and societal cohesion. Combining computational methods with social science, their work informs ethical platform design, counters misinformation, and promotes healthier digital ecosystems. Key projects include:</p>
+    
+    <p>Designing Social Media Recommendation Algorithms for Societal Good (ERC-funded):</p>
+    <ul>
+    <li>Aims to redesign content recommendation algorithms to reduce systemic risks (e.g., polarization, outrage) under the EU's Digital Services Act.</li>
+    <li>Integrates social science frameworks with computational models to prioritize societal well-being over engagement metrics.</li>
+    </ul>
+    
+    <p>The Spread of Conspiracy Theories in Online Spaces (FWF/netidee-funded):</p>
+    <ul>
+    <li>Analyzes German-language Telegram data (23TB from the "Schwurbelarchiv") to disentangle individual, social, and technological drivers of conspiracy theory dissemination.</li>
+    <li>Focuses on platform-level interventions (e.g., curbing coordinated actors) rather than stigmatizing users.</li>
+    </ul>
+    
+    <p>The Fracturing of Honesty in Political Communication:</p>
+    <ul>
+    <li>Traces the rise of "belief-speaking" (subjective, evidence-free claims) vs. "truth-seeking" (evidence-based discourse) in U.S. politicians' tweets (2011–2022).</li>
+    <li>Reveals Republicans' shift toward belief-speaking correlates with sharing low-quality news sources, exacerbating misinformation.</li>
+    </ul>
+    
+    <p>Effectiveness of Counterspeech Strategies:</p>
+    <ul>
+    <li>Collaborates with social scientists to identify effective tactics (e.g., humor, questioning) against organized hate groups (e.g., Reconquista Germanica).</li>
+    <li>Uses machine learning to classify strategies and measure de-escalation outcomes in German Twitter data.</li>
+    </ul>
   website: https://idea-lab.uni-graz.at/en/research-fields/data-analysis/
 
 - name: "Tim Booker" # Faculty/organizer name
