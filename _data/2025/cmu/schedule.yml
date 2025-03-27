@@ -26,7 +26,7 @@
     - name: "9:30 - 10:00 Coffee and Annoucements"
     - name: "10:00 - 12:00 Social Network Analysis I with Scott Renshaw"
     - name: "12:00 - 12:30 Lunch"
-    - name: "12:30 - 13:30 Lunch Talk with Corina Paraschiv"
+    - name: "12:30 - 13:30 Lunch Talk with Lynnette Ng"
     - name: "13:30 - 15:15 Social Network Analysis II with Scott Renshaw"
     - name: "15:15 - 15:45 Group Speed-Dating II"
     - name: "15:45 - 16:00 Daily Wrap-Up/Q&A"
@@ -43,10 +43,10 @@
     - name: "15:45 - 16:00 Daily Wrap-Up/Q&A"
 
 - date: May 16, 2025
-  name: "Other Methods in Computational Social Science"
+  name: "Dealing with Real World Data and Doing Computational Social Experiments"
   events:
     - name: "9:30 - 10:00 Coffee and Annoucements"
-    - name: "10:00 - 12:00 Working with Social Media/Digital Trace Data with Lynette Ng"
+    - name: "10:00 - 12:00 TBC"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 14:00 Project Idea Generation/Discussion Activity"
     - name: "14:00 - 15:45 Computational Social Experiments with Hirokazu Shirado"
