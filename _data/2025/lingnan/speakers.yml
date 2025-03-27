@@ -1,4 +1,51 @@
-- name: "Speaker info coming soon." # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " ... " # add speaker bio here
-  website: https://www.google.com # update speaker personal link here
+- name: "Eun Kyong Shin" # Speaker name goes here.
+  image: /assets/images/eun.png  # Upload speaker image to /assets/images/ and update URL here.
+  bio: |
+    ​Eun Kyong SHIN is Sociology Department Chair at Korea University.  As a social scientist with a
+    PhD in Sociology (2015, Columbia University), and who additionally trained as a postdoc at 
+    Columbia Law School and the UT Medical School, her investigations weave through multiple 
+    disciplines.  Bringing unconventional data sources to various sociological investigations, the
+    overarching goal is to gain better understanding of how relational networks and social conditions
+    influence social behaviors, health outcomes and human development. Methodologically, she uses 
+    multiple analytical tools, including social network analysis, statistics, GIS, and machine learning.
+  website: http://www.eunkyongshin.com/eun-kyong-shin.html # update speaker personal link here
+- name: "Siqi Han" # Speaker name goes here.
+  image: /assets/images/Siqi.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: |
+    Siqi Han is an assistant professor of sociology at the Chinese University of Hong Kong. She is 
+    also associated with CUHK’s computational social science cluster. Before joining CUHK she was a 
+    postdoctoral research scholar on the Measuring the Liberal Arts project at INCITE, Columbia University. 
+    She received her PhD in Sociology from The Ohio State University. Her work mainly focuses on knowledge
+    structure in higher education, school-to-work transition, and labor market skill returns. She addresses
+    her research questions using both surveys and unstructured textual data with computationally intensive
+    quantitative methods, including chatGPT-assisted data collection and processing. These projects appeared
+    in PNAS, Journal of Marriage and Family, Social Science Research, European Sociological Review, 
+    Sociological Perspectives, Demographic Research, Socius, and other academic journals. 
+  website: https://sqhsoc.github.io/ # update speaker personal link here
+- name: "Yiting Chen" # Speaker name goes here.
+  image: /assets/images/yiting.jpeg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: |
+    Yiting Chen joined Lingnan University as an assistant professor in economics since August 2023. Prior 
+    to that, she worked in Xiamen University as an assistant professor in economics. ​​She received her Ph.D. 
+    in economics from the National University of Singapore on May 2022. Her research interests are behavioral 
+    and experimental economics, with a focus on decision-making under uncertainty, moral behavior, and their 
+    interaction with artificial intelligence. She has recently published “The Emergence of Economic Rationality 
+    of GPT” in Proceedings of the National Academy of Sciences. 
+  website: https://ycyitingchen.weebly.com/ # update speaker personal link here
+- name: "Alex Preda" # Speaker name goes here.
+  image: /assets/images/alex.png  # Upload speaker image to /assets/images/ and update URL here.
+  bio: |
+    Alex Preda holds a PhD in sociology from the University of Bielefeld and a Dr. habil. from the University 
+    of Konstanz, Germany. Before joining Lingnan University, he has held positions at the Universities of Konstanz, 
+    Edinburgh, King’s College London, and visiting positions at the University of Chicago. He works at the 
+    intersection of economic sociology and the sociology of science and technology. His current research projects 
+    focus on the blockchain economy and on digital art markets, respectively. 
+  website: https://www.ln.edu.hk/socsp/people/academic-staff/prof-preda-alex # update speaker personal link here
+- name: "Gleb Papyshev" # Speaker name goes here.
+  image: /assets/images/Gleb.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: |
+    Gleb Papyshev is a Research Assistant Professor in the Division of Social Science. His research interests include 
+    AI policy and regulation, AI ethics, and corporate governance mechanisms for emerging technologies. The results of
+    his work have been published in Policy Design and Practice, AI & Society, Data & Policy, and Elgar Companion to 
+    Regulating AI and Big Data in Emergent Economies. # add speaker bio here
+  website: https://sosc.hkust.edu.hk/people/gleb-papyshev # update speaker personal link here

@@ -5,13 +5,13 @@ partner_site: lingnan
 
 [//]: # (Update the following info to match your location!)
 
-# Apply
-
-**This page is under construction. Check back soon for more up-to-date info!**
+# Apply (Deadline March 16)
 
 ## Eligibility
 
-We invite applicants from advanced Ph.D. students students, postdoctoral researchers, and faculty within 7 years of their Ph.D., who are able to attend the program in Hong Kong SAR. We welcome applicants from all backgrounds and fields of study, particularly social sciences. About 20 participants will be invited. However, there are no restrictions based on citizenship, country of study, or country of employment. 
+We invite applicants from advanced research postgraduate students, postdoctoral researchers, and faculty within 7 years of their Ph.D., who are able to attend the program in Hong Kong SAR. We welcome applicants from all backgrounds and fields of study, particularly social sciences. About 20 participants will be invited. However, there are no restrictions based on citizenship, country of study, or country of employment. 
+
+The Summer Institute is free of cost; however, we do not cover flight tickets or accommodation expenses. Participants are expected to arrange and fund their own travel and lodging. Accommodation is available on campus, but participants will need to cover the cost themselves.
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp.
 
@@ -35,8 +35,12 @@ Inquiries can be sent to [franciscoolivosrave@LN.edu.hk](franciscoolivosrave@LN.
 
 #### Can I apply to more than one Summer Institute location?
 
-Yes, but not at the same time. For example, you can apply to SICSS-Lingnan, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.
+Yes, but not at the same time. For example, you can apply to SICSS-Lingnan, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an application under review at two locations simultaneously.
 
 #### Can I participate in SICSS-Lingnan if I have already participated in SICSS at another location?
 
 Unfortunately, no. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
+
+#### Are travel and accommodation costs covered for participants?
+
+The Summer Institute is free of cost; however, we do not cover flight tickets or accommodation expenses. Participants are expected to arrange and fund their own travel and lodging. Accommodation is available on campus, but participants will need to cover the cost themselves.

@@ -1,4 +1,34 @@
-- name: "Speaker info coming soon." # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " ... " # add speaker bio here
-  website: https://www.google.com # update speaker personal link here
+- name: "Eleanor Mattern"
+  image: /assets/images/cmu25/EM_Headshot.jpg
+  bio: "Eleanor 'Nora' Mattern is a Teaching Assistant Professor in the School of Computing and Information at the University of Pittsburgh and leads the Responsibility Program within the Responsible Data Science Initiative. Her teaching and research focus on archives and digital curation, community-centered information work, and information policy. As Principal Investigator of the Institute of Museum and Library Services-supported Civic Switchboard Project, she works to build libraries' capacity as data intermediaries, connectors between communities and the data about them. Prior to her current position, Nora held digital scholarship and scholarly communications roles at the University of Chicago Library and the University of Pittsburgh Library System."
+  
+- name: "Nynke Niezink" 
+  image: /assets/images/cmu25/NN_headshot.jpg  
+  bio: " Nynke Niezink is an Assistant Professor in the Department of Statistics and Data Science and an affiliated faculty member of the Heinz College of Information Systems and Public Policy.  She received her PhD in Sociology, her MSc’s in Applied Mathematics and Social and Behavioral Sciences, and her BSc’s in Mathematics and Pedagogical Sciences from the University of Groningen. Niezink's methodological research interests include social network analysis and statistics for the social sciences and humanities broadly. Much of her statistical work and software development is inspired by interdisciplinary collaborations, including in education, health sciences, organizations, and criminology. Her research has been supported by an NSF MMS Award, a Russell Sage Foundation Small Grant, and various NIH grants, amongst others. " 
+
+- name: "Lynnette Ng"
+  image: /assets/images/cmu25/LN_headshot.jpg
+  bio: "Lynnette is a PhD student in the Societal and Software Systems department through the School of Computer Science at Carnegie Mellon University. Her research focuses on studying behavioral interactions between automated agents and humans on social media through the use of natural language processing, network science and agent based simulation methods."
+  website: https://quarbby.github.io/
+
+- name: "Vernelle Noel"
+  image: /assets/images/cmu25/placeholder.png
+  bio: "Coming Soon"
+
+- name: "Corina Paraschiv"
+  image: /assets/images/cmu25/CP_headshot.jpg
+  bio: "Corina Paraschiv cumulates fifteen years of experience in the private sector, spanning roles such as analyst, mixed methods researcher and product owner, in addition to her work as assistant researcher on post-surgical wearables and independent researcher on VR and surgery through Carnegie-Mellon University.  Named Top 30 under 30 in IT by the Magazine Les Affaires, speaker of six languages and holder of two masters degrees and a cross-cultural communication certificate, Corina bridges several disciplines through everyday projects.  In the talk at SICSS this year, Corina shares her work with designing an internal application for automated textual analysis classification and the adaptations to classic methodologies required for industry applications.  Beyond her research, Corina explores interdisciplinary connections through creative projects at the intersection of design, movement, arts, technology, and linguistics—finding that these diverse perspectives often inform and enrich her approach to computational science."
+
+- name: "Patrick Park"
+  image: /assets/images/cmu25/placeholder.png
+  bio: "Coming Soon"
+
+- name: "M Williams Sermons"
+  image: /assets/images/cmu25/MWS_headshot.jpg
+  bio: "M William Sermons serves as Vice President for Performance and Business Intelligence at Volunteers of America and Adjunct Professor at Carnegie Mellon University's Heinz College. With an interdisciplinary background combining technical expertise and social policy application, Dr. Sermons holds a PhD in Civil Engineering from Northwestern University and a Master's in Social Work from Catholic University. His career spans the intersection of data science and social impact, having held leadership positions at prominent organizations including the National Alliance to End Homelessness, the Center for Responsible Lending, and Catholic Charities USA. This diverse experience allows him to bridge theoretical research with practical applications addressing pressing societal challenges. At Carnegie Mellon, Dr. Sermons teaches 'Using R for Policy Data Analysis,' where he equips students with computational skills to analyze public datasets and analyze demographic trends in policy outcomes using open-source tools. His work exemplifies how computational methods can be leveraged to ensure fairness and inform evidence-based policymaking."
+
+- name: "Hirokazu Shirado"
+  image: /assets/images/cmu25/HS_headshot.jpeg
+  bio: "Hirokazu Shirado is an Assistant Professor of the Human-Computer Interaction Institute in the School of Computer Science at Carnegie Mellon University. He received his doctorate in Sociology at Yale University, where he was a member of the Yale Institute for Network Science. He is committed to the experimental study of cooperative behaviors as they manifest through interactions between people located within social networks. His recent focus is on hybrid systems of humans and machines."
+  website: http://www.shirado.net/
+

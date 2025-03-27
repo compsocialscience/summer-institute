@@ -7,12 +7,7 @@ partner_site: amu-law
 
 # Pre-arrival
 
-The Summer Institute will bring together people from many fields and backgrounds. In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS-AMU/Law 2025.
-
-- Complete the pre-read
-- Complete coding bootcamp (if needed)
-- Watch lecture videos
-- Prepare your computing environment
+The Summer Institute will bring together people from many fields and backgrounds. In order to use our time together efficiently, there are a number of things that you should complete the pre-read before participating in SICSS-AMU/Law 2025.
 
 Organizers will be available via Slack to support you as you work through these pre-arrival materials. Please feel free to reach out to us!
 
@@ -33,10 +28,6 @@ If you would like more practice after completing the Boot Camp videos, some othe
 Please note that the majority of the coding work presented at SICSS-AMU/Law 2025 will employ R. You are welcome to employ a language of your choice, such as Python, Julia, or other languages that are commonly used by computational social scientists.  However, we cannot support each of these languages.
 
 ## Computing environment
-
-### R
-
-Some of the activities will require coding, and we will support R. You are welcome to use other languages, but we cannot guarantee that we can support them. Before SICSS you should install a modern, stable-release version of [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/).
 
 ### Slack
 

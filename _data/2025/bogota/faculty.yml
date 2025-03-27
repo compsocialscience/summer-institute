@@ -1,6 +1,29 @@
-- name: "Faculty info coming soon." # Add faculty name here.
-  image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
-  bio: "Check back soon for updates." # Add faculty bio here.
-  website: https://www.google.com  # Link faculty website here.
+- name: Oscar Javier Maldonado Castañeda
+  image: /assets/images/[2025 - BOG] Oscar Maldonado.jpeg
+  bio: "<p align='justify'>Oscar Javier Maldonado Castañeda is Associate Professor in the Department of Sociology at Universidad del Rosario (Bogotá, Colombia). He has a Ph.D. in Sociology from Lancaster University and has been postdoctoral researcher at the Institute for Technology and Social Change (TEMA) at Linköping University (Sweden), visiting researcher at the TANTLab (Digital Methods Laboratory) at Aalborg University in Copenhagen (Denmark), visiting professor in the Social and Human Sciences Graduate School at the National University of Colombia, Fellow of the Summer Program in Social Science at the Princeton Institute of Advanced Studies -IAS- (2020-2023) and Global South Visiting Fellow at the College of Arts and Social Sciences, Australia National University.</p>"
+  website:
 
-# Add more faculty with the same format as above...
+- name: Jaime Eduardo Cuellar Cuellar
+  image: /assets/images/[2025 - BOG] Jaime Cuellar.jpeg
+  bio: "<p align='justify'>Jaime Eduardo Cuellar Cuellar, Anthropologist with a Master's degree in Economics and Public Policy from the Universidad del Rosario. My expertise is focused on the analysis of social phenomena based on digital and mixed methods, especially in technological or technoscientific phenomena that are little studied such as biases in artificial intelligence technologies such as LLM. I use programming languages such as Python to extract, analyse and visualise data with natural language processing and artificial intelligence technologies to analyse social phenomena such as migration or violence against women politicians. I have worked for institutions such as UN Women, Fair Work and the Danish Refugee Council. I am currently the head of the Communication and Digital Humanities axis of the Social Communication programme and I am part of the Digital Humanities Lab at PUJ.</p>"
+  website:
+
+- name: Isabella Jaimes Rodríguez
+  image: /assets/images/[2025 - BOG] Isabella Jaimes.jpeg
+  bio: "<p align='justify'>Isabella Jaimes Rodríguez is a researcher in Science and Technology Studies (STS) and Human-Computer Collaboration (CSCW). Her work explores how technology shapes relationships in Latino migrant communities, with a focus on domestic labour and digital platforms. She is currently a research assistant at York University and the STREET Lab at the University of Toronto. She has worked on projects on labour conditions in platform economies in contexts of informality in Colombia and Canada, using feminist technoscience theoretical frameworks to analyse the interaction between technology and society.  She has expertise in computational methods applied to social science, including network analysis, natural language processing and digital discourse analysis. She has worked with data from social networks and digital platforms to study political violence against women, digital labour, healthy habits of young people and practices in migrant communities. She has also taught data analysis courses at the Javeriana University, designed for students of organisational communication and data science, with the aim of integrating computational tools into the study of social and organisational phenomena from a critical perspective and with an emphasis on the intersection between inequality, technology and work.</p>"
+  website:
+
+- name: Victor Manuel Hernández
+  image: /assets/images/[2025 - BOG] Victor Manuel Hernandez.jpeg
+  bio: "<p align='justify'>Victor Manuel Hernández, Sociologist, Master in Applied Statistics and Data Science. Specialist in Artificial Intelligence. Full-time professor at the Fundación Universitaria del Área Andina for the Sociology and Basic Sciences programme. Professor at the Faculty of Communication and Language of the Pontificia Universidad Javeriana for the Data Science programme and the Master's degree in Communication, Technology and Society. Professor at the Universidad del Rosario for the Master in Strategic Management of Information and Digital Innovation. He has particular interest in quantitative data analysis, social modelling, machine learning for social sciences, computational social sciences and natural language processing.</p>"
+  website:
+
+- name: Sergio Sánchez
+  image: /assets/images/[2025 - BOG] Sergio Sanchez.PNG
+  bio: "<p align='justify'>Sergio Sánchez, Sociologist with a Master's degree in Economics of Public Policy from the University of Rosario. I have a solid background in Research and Social Appropriation of Knowledge, developed at IDCBIS. My academic focus is complemented by technical skills in data analysis, including natural language processing in Python and data visualization in Power BI. In addition, I am experienced in web scraping techniques, which allow me to obtain and analyse relevant information from a variety of sources.  My passion for data science drives me to explore how analytical methodologies can transform social research and policy making. I am committed to applying advanced analytical tools to unravel patterns and provide valuable insights that support informed social and economic decision-making. I am excited about the opportunity to share my research and perspectives in this diploma course.</p>"
+  website:
+
+- name: Alicia Duque Abarca
+  image: /assets/images/[2025 - BOG] Alicia Duque.jpeg
+  bio: "<p align='justify'>Lawyer and student of the Master in Social Studies at the Universidad del Rosario. Currently, she belongs to the Public Engagement Unit at the District Institute of Science, Biotechnology and Innovation in Health (IDCBIS). Her experience focuses on social science research using digital methods. She has skills in Python and R for data mining, analysis and visualisation, with a focus on topics such as digital gender violence, health, migration and digital sharing platforms.</p>"
+  website:

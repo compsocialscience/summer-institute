@@ -1,5 +1,7 @@
-- name: "TA info coming soon."
-  image: /assets/images/placeholderPic.png
-  bio: "..."
-  website: www.google.com
-# add more TAs with this format below...
+- name: "Elizabeth Cucuzzella"
+  image: /assets/images/cmu25/EC_headshot.jpeg
+  bio: "Elizabeth Cucuzzella is a PhD student in the Department of Statistics and Data Science through Dietrich College. Her research focuses on uncertainty quantification and modeling of complex systems through machine learning and artificial intelligence. Current and past research projects include sensitivity analysis through surrogate modeling of ocean systems and multi-scale analysis for cyclone intensity forecasting. Elizabeth has taught Machine Learning and Data Science through previous institutions."
+
+- name: "Vu Hoang"
+  image: /assets/images/cmu25/VH_headshot.jpg
+  bio: "Vu Hoang is a Ph.D. student in the Information Systems program at Heinz College, Carnegie Mellon University. His research focuses on developing high-performance and interpretable machine learning models to support ethical decision-making. Before joining CMU, Vu worked as an analytics engineer in Vietnam, where he specialized in building recommendation systems for long-tail items, improving their visibility and engagement."

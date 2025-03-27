@@ -7,11 +7,9 @@ partner_site: fgv-ecmi-brazil
 
 # Apply
 
-**This page is under construction. Check back soon for more up-to-date info!**
-
 ## Eligibility
 
-We invite applicants from advanced Ph.D. students students, postdoctoral researchers, and faculty within 7 years of their Ph.D., who are able to attend the program in Fundacio Getulio Vargas, Rio de Janeiro, Brazil. We welcome applicants from all backgrounds and fields of study, particularly ... . About ... participants will be invited. However, there are no restrictions based on citizenship, country of study, or country of employment. 
+Participation is restricted to graduate students (master and doctoral programs), postdoctoral researchers, untenured faculty within 7 years of their Ph.D., and computational social scientists working on NGOs. Because we are interested in building a community of computational social scientists in Brazil, we are particularly interested in applicants from Brazil, or currently working on Brazilian Institutions. However, there are no restrictions based on citizenship, country of study, or country of employment. About 20-30 participants will be invited.
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp.
 
@@ -19,17 +17,17 @@ We evaluate applicants along a number of dimensions: 1) research and teaching in
 
 ## How To Apply
 
-Applicants must submit the following documents: 1) a curriculum vitae, 2) a statement (maximum two pages double-spaced) describing: 
+Applicants must submit the following documents: 
 
-- Your current research
-- Why you want to participate in SICSS-FGV/ECMI Brazil
-- How participation will aid your future research
-- Your experience and/or interest in collaborative research. Carrying out a collaborative research project is a core component of SICSS-FGV/ECMI Brazil.
-- A possible topic, method, or question you would like to focus on for a collaborative project
+* a curriculum vitae (CV),
+* a cover letter (maximum 3 pages) describing both any current research and your interest in computational social science,
+* one writing sample (no more than 30 pages).
+
+**The materials can be submitted in English or Portuguese**. Co-authored work is acceptable for the writing sample (3), but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. 
 
 **In order to be guaranteed full consideration, all application materials must be submitted by {app due date not yet determined}.** All application materials must be submitted through this [Google Form](https://www.google.com) (form for this site not yet created). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by {decision date not yet determined}, and will ask participants to confirm their participation very soon thereafter.
 
-Inquiries can be sent to [site email not set up](email@goes.here).
+Inquiries can be sent to: sicss2021.dappbrasil@gmail.com.
 
 ## Application Frequently Asked Questions
 
@@ -40,3 +38,7 @@ Yes, but not at the same time. For example, you can apply to SICSS-FGV/ECMI Braz
 #### Can I participate in SICSS-FGV/ECMI Brazil if I have already participated in SICSS at another location?
 
 Unfortunately, no. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
+
+#### Will the activities be online?
+
+Yes, all SICSS Brazil activities will be developed online

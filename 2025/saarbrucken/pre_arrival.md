@@ -22,6 +22,24 @@ In order to prepare for SICSS-Saarbrücken 2025, we recommend you read Matt Salg
 
 We also recommend the [ESRC Social Science Playlist](https://www.youtube.com/watch?v=BiLj35g_cAU&list=PLhv2mBITlrX4Y36G3eydobXm8rn_xZWtX) for an introduction to Social Science Research.
 
+### Reading recommended by speakers
+
+#### Bernie Hogan  
+
+Hogan, B. (2021) Networks are a lens for power: A commentary on the recent advances in the ethics of social networks special issue. Social Networks 67, 9-12. https://doi.org/10.1016/j.socnet.2020.12.003  
+
+Birkett, M., Melville, J., Janulis, P., Phillips II, G., Contractor, N., & Hogan, B. (2021). Network Canvas: Key decisions in the design of an interviewer-assisted network data collection software suite. Social Networks, 66, 114-124. https://doi.org/10.1016/j.socnet.2022.01.006  
+
+#### Georg Wenzelburger
+
+Grimmelikhuijsen, S., & Meijer, A. (2022). Legitimacy of algorithmic decision-making: Six threats and the need for a calibrated institutional response. Perspectives on Public Management and Governance, 5(3), 232-242. https://doi.org/10.1093/ppmgov/gvac008  
+
+König, P. D., & Wenzelburger, G. (2021). The legitimacy gap of algorithmic decision-making in the public sector: Why it arises and how to address it. Technology in society, 67, 101688. https://doi.org/10.1016/j.techsoc.2021.101688  
+
+König, P. D., & Wenzelburger, G. (2020). Opportunity for renewal or disruptive force? How artificial intelligence alters democratic politics. Government Information Quarterly, 37(3), 101489. https://doi.org/10.1016/j.giq.2020.101489  
+
+
+
 ## Coding Boot Camp
 
 Please note that the majority of the coding work presented at SICSS-Saarbrücken 2025 will employ Python. We recommend the participants have working knowledge and experience with python programming. If you would like more practice, some materials we recommend are:
@@ -40,9 +58,7 @@ Some of the main videos and course materials developed by SICSS Co-Founders Chri
 
 ### Python
 
-Some of the activities will require coding, and we will support Python. You are welcome to use other languages but we cannot guarantee that we can support them. Before SICSS, you should have your preferred Python setup ready. If you need guidance, please refer to the below:
-
-[Anaconda](https://docs.anaconda.com/anaconda/install/)
+Some of the activities will require coding, and we will support Python. You are welcome to use other languages but we cannot guarantee that we can support them. Before SICSS, you should have your preferred Python setup ready. If you need guidance, please refer to the following link: [Anaconda](https://docs.anaconda.com/anaconda/install/)
 
 
 ### Slack
@@ -53,3 +69,12 @@ Before participating at SICSS-Saarbrücken 2025, you should have an account in t
 
 Many participants at SICSS use GitHub to collaborate. If you do not yet have one, you should [create a GitHub account](https://github.com/join). If you are a student, we recommend that you apply for a [GitHub Student Developer Pack](https://education.github.com/pack).
 
+### Other softwares 
+
+#### Strongly Recommended Downloads:
+
+[Network Canvas Architect](www.networkcanvas.com/download)  
+[Gephi](www.gephi.org)
+
+#### Optional downloads:
+[Network Canvas Interviewer](www.networkcanvas.com/download)
