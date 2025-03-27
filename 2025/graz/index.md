@@ -30,6 +30,7 @@ Not only this, **social media platforms wield unprecedented power: they control 
 - [Prof. Rasha Abdulla](https://www.aucegypt.edu/fac/rasha-abdulla) (Journalism and Mass Communication, The American University in Cairo, Egypt)  
 - [Prof. Karoline Wiesner](https://www.karowiesner.org/) (Complex Systems, Potsdam University, Germany)  
 - [Prof. Bernhard Rieder](http://thepoliticsofsystems.net/) (New Media and Digital Culture, University of Amsterdam, The Netherlands)
+- [Prof. Étienne Brown](https://www.etiennebrown.com/) (Philosophy, San José State University, the United States)
 
 **Local Experts**  
 - [Prof. Jana Lasser](https://www.janalasser.at/) (Data Science)  
