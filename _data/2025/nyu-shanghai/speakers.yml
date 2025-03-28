@@ -14,6 +14,11 @@
   bio: "Yongren Shi is an assistant professor in the department of sociology and criminology, University of Iowa. His research examines how culture, membership, and social networks contribute to stratification and polarization within human groups. He uses large-scale digital trace data and a range of quantitative and computational methods, including network analysis, computational textual analysis, agent-based modeling, machine learning, online experiments, and survey analysis. Professor Shi’s research has appeared in top sociology and science journals, including <i>American Sociological Review, American Journal of Sociology, and Nature Human Behaviour</i>. His work has been covered by dozens of popular media outlets."
   website: https://sociology.uiowa.edu/people/yongren-shi
 
+- name: "Xiaoyang Ye"
+  image: /assets/images/nyushanghai2025/xiaoyangYe.jpg
+  bio: "Xiaoyang Ye is an economist at Amazon. He earned his Ph.D. from the University of Michigan and was a postdoctoral researcher in the economics of education at Princeton and Brown. His research focuses on optimizing human decision-making from education to the workforce through causal machine learning and behavioral economics, with a particular emphasis on using randomized experiments to expand educational opportunities for low-income students."
+  website: https://xiaoyangye.github.io/
+
 - name: "more speakers' info coming soon"
   image: /assets/images/placeholderPic.png
   bio: "..."
