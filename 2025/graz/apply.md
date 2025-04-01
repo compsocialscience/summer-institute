@@ -5,7 +5,7 @@ partner_site: graz
 
 # Application for DDNSF
 
-## Key Details
+### Key Details
 - **Event type**: Summer school
 - **School dates:** 15–26 September 2025 
 - **Location:** IDea_Lab, University of Graz (Austria)
@@ -16,13 +16,13 @@ partner_site: graz
 - **Fees:** the school is *free to attend* but transit and accomodation is not covered. Equity-based grants are available.
 
 
-## Application Requirements
+### Application Requirements
 
 The application process requires:
-- A CV (PDF format, max 10MB),
-- A brief summary of your research topics and methodological expertise (<200 characters)
-- Details about a key research project (<1,000 characters)
-- A personal motivation statement explaining your goals and potential contributions (<2,500 characters), 
+- Your CV/resume
+- A short summary of your topics of expertise
+- A short explainer about a project you have completed (<1,000 characters)
+- Your personal motivations for attending DDNSF (<2,500 characters), 
 - A thoughtful reflection on democracy and social media (<4,000 characters).
 
 **Please read the application form itself for the exact wording of the questions.**
