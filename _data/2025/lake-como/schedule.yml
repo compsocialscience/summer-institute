@@ -20,4 +20,27 @@
       time: "16:00 - 16:30"
     - name: "Round table: 10 years of Computational Social Science teaching and research"
       time: "16:30 - 18:00"
+
+
+- date: 2025-07-1
+  name: "<b>Simulating entire societies</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Replicating experiments with large language models"
+      time: "09:30 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:30"
+    - name: "Using AI to generate digital twins"
+      time: "11:30 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Hands-on exercise"
+      time: "14:00 - 16:00"
+    - name: "Coffee break"
+      time: "16:00 - 16:30"
+    - name: "Solutions to group exercise and discussion"
+      time: "16:30 - 17:30"
+    - name: "Keynote"
+      time: "17:30-18:45"
       
