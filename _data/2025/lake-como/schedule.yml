@@ -159,3 +159,65 @@
       time: "14:00 - 17:30"
     - name: "Keynote"
       time: "17:30 - 18:45"
+
+
+- date: 2025-07-9
+  name: "<b>Text and video as data</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Text as data I"
+      time: "09:30 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:30"
+    - name: "Text as data II"
+      time: "11:30 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Group research work"
+      time: "14:00 - 17:30"
+    - name: "Keynote"
+      time: "17:30 - 18:45"
+
+
+- date: 2025-07-10
+  name: "<b>Sports analytics with Como FC (TBC)</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Como FC Sports Analytics Team Presentation"
+      time: "09:30 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:30"
+    - name: "Como FC Sports Analytics Team- Examples and data"
+      time: "11:30 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Group research work / Hackaton"
+      time: "14:00 - 17:30"
+    - name: "Keynote"
+      time: "17:30 - 18:45"
+
+
+- date: 2025-07-11
+  name: "<b>Research group presentations</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Group research work - Finalize"
+      time: "09:30 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:30"
+    - name: "Group research work - Finalize"
+      time: "11:30 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Group presentations and discussion"
+      time: "14:00 - 17:30"
+    - name: "Closing aperitivo/dinner"
+      time: "18:00 - 20:00"
+
+
+- date: 2025-07-11
+  name: Participants leave
+  events:
