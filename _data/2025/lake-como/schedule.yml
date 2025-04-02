@@ -89,3 +89,29 @@
       time: "16:30 - 17:30"
     - name: "Panel- Europe and the DSA"
       time: "17:30-19:00"
+
+
+
+- date: 2025-07-4
+  name: "<b>Polarization research</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "European Polarization Observatory Workshop"
+      time: "09:30 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:30"
+    - name: "European Polarization Observatory Workshop"
+      time: "11:30 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Hands-on exercise on EPO data"
+      time: "14:00 - 16:00"
+    - name: "Coffee break"
+      time: "16:00 - 16:30"
+    - name: "Solutions to group exercise and discussion"
+      time: "16:30 - 17:30"
+    - name: "Keynote"
+      time: "17:30-18:45"
+    - name: "Social dinner"
+      time: "20:00-22:00"
