@@ -68,3 +68,24 @@
       time: "18:00-20:00"
       
 
+- date: 2025-07-3
+  name: "<b>Social media research</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Using API to collect social media data "
+      time: "09:30 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:30"
+    - name: "Large and continuous data collection of social media data"
+      time: "11:30 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Hands-on exercise"
+      time: "14:00 - 16:00"
+    - name: "Coffee break"
+      time: "16:00 - 16:30"
+    - name: "Solutions to group exercise and discussion"
+      time: "16:30 - 17:30"
+    - name: "Panel- Europe and the DSA"
+      time: "17:30-19:00"
