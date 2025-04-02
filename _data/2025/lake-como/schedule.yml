@@ -1,1 +1,47 @@
 
+- date: 2025-06-29
+  name: Participants arrive
+  events:
+
+- date: 2025-06-30
+  name: "<b>Introduction to SICSS</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Introduction to SICSS-Lake Como"
+      time: "09:30 - 10:00"
+    - name: "<b>Introductions</b> by participants (Flashtalks)"
+      time: "10:00 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Unconference I"
+      time: "14:30 - 16:00"
+    - name: "Coffee break"
+      time: "16:00 - 16:30"
+    - name: "Round table: 10 years of Computational Social Science teaching and research"
+      time: "16:30 - 18:00"
+
+
+- date: 2025-07-1
+  name: "<b>Simulating entire societies</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Replicating experiments with large language models"
+      time: "09:30 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:30"
+    - name: "Using AI to generate digital twins"
+      time: "11:30 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Hands-on exercise"
+      time: "14:00 - 16:00"
+    - name: "Coffee break"
+      time: "16:00 - 16:30"
+    - name: "Solutions to group exercise and discussion"
+      time: "16:30 - 17:30"
+    - name: "Keynote"
+      time: "17:30-18:45"
+      
+
