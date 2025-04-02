@@ -115,3 +115,28 @@
       time: "17:30-18:45"
     - name: "Social dinner"
       time: "20:00-22:00"
+
+
+- date: 2025-07-7
+  name: "<b>Online Experiments</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Online experiments workshop"
+      time: "09:30 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:30"
+    - name: "Online experiments exercise"
+      time: "11:30 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Unconference II and groups form"
+      time: "14:00 - 15:30"
+    - name: "Coffee break"
+      time: "15:30 - 16:00"
+    - name: "Group research work "
+      time: "16:00 - 17:30"
+    - name: "Keynote"
+      time: "17:30-18:45"
+    - name: "Social dinner"
+      time: "20:00-22:00"
