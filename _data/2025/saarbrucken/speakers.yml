@@ -2,7 +2,7 @@
 
 - name: "Abhisek Dash (Max Planck Institute for Software Systems)" # Speaker name goes here.
   image: /assets/images/2025SBAbhisekDash.jpg  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " " # add speaker bio here
+  bio: "Abhisek Dash is a postdoctoral researcher in Dr. Krishna P. Gummadi's Networked Systems Research Group at MPI-SWS, Saarbruecken. His broad area of research revolves around different aspects of computational social science which includes (, but is not limited to) algorithm auditing, multi-modal analyses of social media data, understanding decentralized social media platforms, compliance of platforms with data protection regulations, fairness in digital marketplaces." # add speaker bio here
   website: https://sites.google.com/site/abhisek0193/ # update speaker personal link here
 
 - name: "Alex Hartland (Saarland University)" # Speaker name goes here.
