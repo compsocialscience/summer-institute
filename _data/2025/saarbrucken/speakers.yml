@@ -22,7 +22,7 @@
   
 - name: "Emilio Zagheni (Max Planck Institute for Demographic Research)" # Speaker name goes here.
   image: /assets/images/2025SBEmilioZagheni.jfif  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " " # add speaker bio here
+  bio: "Emilio Zagheni is Director of the Max Planck Institute for Demographic Research (MPIDR) and affiliate faculty of the Department of Sociology at the University of Washington, Seattle, where he served as Training Director of the Center for Studies in Demography and Ecology. He received his Ph.D. in Demography (2010) and M.A. in Statistics (2008) from U.C. Berkeley. Zagheni is currently President of the European Association for Population Studies (EAPS). Previously he chaired the Digital Demography Panel of the International Union for the Scientific Study of Population (2015-2022), playing a key role in favoring innovation in population research through collaboration and exchange between demographers, statisticians and computational scientists." # add speaker bio here
   website: https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/emilio_zagheni_2243 # update speaker personal link here
 
 - name: "Georg Wenzelburger (Saarland University)" # Speaker name goes here.
