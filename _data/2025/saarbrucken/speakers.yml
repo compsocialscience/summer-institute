@@ -12,7 +12,7 @@
   
 - name: "Bernie Hogan (University of Oxford)" # Speaker name goes here.
   image: /assets/images/2025SBBernieHogan.jfif  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " " # add speaker bio here
+  bio: "Bernie Hogan (PhD Toronto, 2009) is a Associate Professor, Senior Research Fellow at the OII and Research Associate at the Department of Sociology. With training in sociology and computer science, Hogan focuses on how social networks and social media can be designed to empower people to build stronger relationships and stronger communities." # add speaker bio here
   website: https://www.oii.ox.ac.uk/people/profiles/bernie-hogan/ # update speaker personal link here
 
 - name: "Daniela Braun (Saarland University)" # Speaker name goes here.
