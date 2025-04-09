@@ -13,6 +13,6 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is restricted to advanced Ph.D. students, postdoctoral researchers, and junior faculty (within 7 years of their Ph.D). We welcome applicants from all backgrounds and fields of study. About 15-20 participants will be invited. Most participants are expected to fully attend and participate in the entire 14-day program, but we are open to alternative arrangements for faculty members. 
 
-Application materials are due on 31st of March 2025.
+Application materials are due on 5th of May 2025.
 
 [//]: # (ORGANIZERS: feel free to add a link to your application materials or your SICSS apply page above.)
