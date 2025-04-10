@@ -54,7 +54,7 @@
   events:
     - name: "_Vidéos concernées sur Datacamp :_ [Introduction to Statistical Modeling in R](https://learn.datacamp.com/courses/introduction-to-statistical-modeling-in-r), [Modeling with Data in the Tidyverse](https://learn.datacamp.com/courses/modeling-with-data-in-the-tidyverse), [Intermediate Statistical Modeling in R](https://learn.datacamp.com/courses/intermediate-statistical-modeling-in-r)."
     - name: "9:00 - 9:30 Debriefing."
-     - name: "9:30 - 11:15 Formation"
+    - name: "9:30 - 11:15 Formation"
     - name: "11:15 - 11:30 Pause"
     - name: "11:30 - 12:30 Labo"
     - name: "12:30 - 13:30 Pause"
