@@ -21,9 +21,9 @@
     - name: "9:30 - 11:15 Formation"
     - name: "11:15 - 11:30 Pause"
     - name: "11:30 - 12:30 Labo"
-    - name: "12:30 - 13:30 Pause
+    - name: "12:30 - 13:30 Pause"
     - name: "13:30 - 16:30 Travail en équipe ou seul (sous la supervision d'un assistant)"
-    - name: "17:00 - 19:00 Travail en équipe
+    - name: "17:00 - 19:00 Travail en équipe"
     - name: "Exercices (à rendre le lendemain): _Données et exercices disponibles [ici](https://github.com/visseho/Cours_SICSS_Montreal/tree/main/Semaine1_Formation_Intensive_R/Jour1_Introduction)._"
 - date: 2025-06-26
   name: Transformation des données avec R et Python
@@ -33,9 +33,9 @@
     - name: "9:30 - 11:15 Formation"
     - name: "11:15 - 11:30 Pause"
     - name: "11:30 - 12:30 Labo"
-    - name: "12:30 - 13:30 Pause
+    - name: "12:30 - 13:30 Pause"
     - name: "13:30 - 16:30 Travail en équipe ou seul (sous la supervision d'un assistant)"
-    - name: "17:00 - 19:00 Travail en équipe
+    - name: "17:00 - 19:00 Travail en équipe"
     - name: "Exercices (à rendre le lendemain): _Données et exercices disponibles [ici](https://github.com/visseho/Cours_SICSS_Montreal/tree/main/Semaine1_Formation_Intensive_R/Jour2_Manipulation)._"
 - date: 2025-06-27
   name: Visualisation avec R et Python
@@ -45,9 +45,9 @@
     - name: "9:30 - 11:15 Formation"
     - name: "11:15 - 11:30 Pause"
     - name: "11:30 - 12:30 Labo"
-    - name: "12:30 - 13:30 Pause
+    - name: "12:30 - 13:30 Pause"
     - name: "13:30 - 16:30 Travail en équipe ou seul (sous la supervision d'un assistant)"
-    - name: "17:00 - 19:00 Travail en équipe
+    - name: "17:00 - 19:00 Travail en équipe"
     - name: "Exercices (à rendre le lendemain): _Données et exercices disponibles [ici](https://github.com/visseho/Cours_SICSS_Montreal/tree/main/Semaine1_Formation_Intensive_R/Jour3_Visualisation)._"
 - date: 2025-06-28
   name: Modélisation avec R et Python
@@ -57,9 +57,9 @@
      - name: "9:30 - 11:15 Formation"
     - name: "11:15 - 11:30 Pause"
     - name: "11:30 - 12:30 Labo"
-    - name: "12:30 - 13:30 Pause
+    - name: "12:30 - 13:30 Pause"
     - name: "13:30 - 16:30 Travail en équipe ou seul (sous la supervision d'un assistant)"
-    - name: "17:00 - 19:00 Travail en équipe
+    - name: "17:00 - 19:00 Travail en équipe"
     - name: "Exercices (à rendre le lendemain): _Données et exercices disponibles [ici](https://github.com/visseho/Cours_SICSS_Montreal/tree/main/Semaine1_Formation_Intensive_R/Jour4_Mod%C3%A9lisation)._"
 #- date: 2025-06-16
 #  name: Programmation / Introduction aux données de texte
