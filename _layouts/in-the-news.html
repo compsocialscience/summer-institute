@@ -20,41 +20,44 @@
         </p>
         <div id="in-the-news-container">
           {% assign sorted_stories = site.stories | sort: 'date' | reverse %} {%
-          assign latest_story_with_image = nil %} {% for story in sorted_stories
-          %} {% if story.image %} {% assign latest_story_with_image = story %}
-          {% break %} {% endif %} {% endfor %} {% if latest_story_with_image %}
-          <div class="card mb-4">
-            <div class="row no-gutters">
-              <div class="col-md-6">
+          assign featured_stories = '' | split: '' %} {% assign count = 0 %} {%
+          for story in sorted_stories %} {% if story.image and count < 3 %} {%
+          assign featured_stories = featured_stories | push: story %} {% assign
+          count = count | plus: 1 %} {% endif %} {% if count >= 3 %} {% break %}
+          {% endif %} {% endfor %} {% if featured_stories.size > 0 %}
+          <div class="row mb-4">
+            {% for featured_story in featured_stories %}
+            <div class="col-md-4 mb-4">
+              <div class="card h-100">
                 <img
-                  src="{{ latest_story_with_image.image | default: '/assets/images/hero-accent.jpg' }}"
-                  class="card-img"
-                  alt="{{ latest_story_with_image.title }}"
+                  src="{{ featured_story.image | default: '/assets/images/hero-accent.jpg' }}"
+                  class="card-img-top"
+                  alt="{{ featured_story.title }}"
                 />
-              </div>
-              <div class="col-md-6">
-                <div class="card-body">
-                  <h3 class="card-title">
-                    {{ latest_story_with_image.title }}
-                  </h3>
+                <div class="card-body d-flex flex-column">
+                  <h5 class="card-title">{{ featured_story.title }}</h5>
+                  {% if featured_story.author %}
                   <p class="card-text">
-                    Written By: {{ latest_story_with_image.author }}
+                    Written By: {{ featured_story.author }}
                   </p>
+                  {% endif %}
                   <p class="card-text">
                     <small class="text-muted"
-                      >{{ latest_story_with_image.date | date: "%B %d, %Y"
-                      }}</small
+                      >{{ featured_story.date | date: "%B %d, %Y" }}</small
                     >
                   </p>
-                  <p class="card-text">{{ latest_story_with_image.excerpt }}</p>
+                  <p class="card-text">
+                    {{ featured_story.excerpt | truncate: 100 }}
+                  </p>
                   <a
-                    href="{{ latest_story_with_image.url | absolute_url }}"
-                    class="btn btn-dark"
+                    href="{{ featured_story.url | absolute_url }}"
+                    class="btn btn-dark mt-auto"
                     >Read More</a
                   >
                 </div>
               </div>
             </div>
+            {% endfor %}
           </div>
           {% endif %}
           <div class="mx-auto">
@@ -62,8 +65,9 @@
               href="{{ site.baseurl }}/featured-stories"
               class="centered-link"
               id="all-featured-stories-link"
-              >See All Featured Stories</a
             >
+              See All Featured Stories
+            </a>
           </div>
 
           <section style="width: 100%">

@@ -1,5 +1,223 @@
-- date: "June 29 - July 12, 2025"
-  events:
-    - name: "Schedule coming soon. Check back for updates!" # Update this line or add markdown for your site's schedule.
 
-  # Our tentative schedule can be seen [here](www.google.com). Our program focuses on ... . We will invite guest speakers to provide an overview of ..."
+- date: 2025-06-29
+  name: Participants arrive
+  events:
+
+- date: 2025-06-30
+  name: "<b>Introduction to SICSS</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Introduction to SICSS-Lake Como"
+      time: "09:30 - 10:00"
+    - name: "Flashtalks by participants"
+      time: "10:00 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Unconference I"
+      time: "14:30 - 16:00"
+    - name: "Coffee break"
+      time: "16:00 - 16:30"
+    - name: "Round table: 10 years of Computational Social Science teaching and research"
+      time: "16:30 - 18:00"
+
+
+- date: 2025-07-1
+  name: "<b>Simulating entire societies</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Replicating experiments with large language models"
+      time: "09:30 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:30"
+    - name: "Using AI to generate digital twins"
+      time: "11:30 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Hands-on exercise"
+      time: "14:00 - 16:00"
+    - name: "Coffee break"
+      time: "16:00 - 16:30"
+    - name: "Solutions to group exercise and discussion"
+      time: "16:30 - 17:30"
+    - name: "Keynote"
+      time: "17:30-18:45"
+
+
+- date: 2025-07-2
+  name: "<b>Machine learning for causal analysis</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Causal machine learning"
+      time: "09:30 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:30"
+    - name: "Building better theories through prediction and explanation "
+      time: "11:30 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Hands-on exercise"
+      time: "14:00 - 16:00"
+    - name: "Coffee break"
+      time: "16:00 - 16:30"
+    - name: "Solutions to group exercise and discussion"
+      time: "16:30 - 17:30"
+    - name: "Keynote by Chris A. Bail- AI & Democracy"
+      time: "18:00-20:00"
+      
+
+- date: 2025-07-3
+  name: "<b>Social media research</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Using API to collect social media data "
+      time: "09:30 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:30"
+    - name: "Large and continuous data collection of social media data"
+      time: "11:30 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Hands-on exercise"
+      time: "14:00 - 16:00"
+    - name: "Coffee break"
+      time: "16:00 - 16:30"
+    - name: "Solutions to group exercise and discussion"
+      time: "16:30 - 17:30"
+    - name: "Panel- Europe and the DSA"
+      time: "17:30-19:00"
+
+
+
+- date: 2025-07-4
+  name: "<b>Polarization research</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "European Polarization Observatory Workshop"
+      time: "09:30 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:30"
+    - name: "European Polarization Observatory Workshop"
+      time: "11:30 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Hands-on exercise on EPO data"
+      time: "14:00 - 16:00"
+    - name: "Coffee break"
+      time: "16:00 - 16:30"
+    - name: "Solutions to group exercise and discussion"
+      time: "16:30 - 17:30"
+    - name: "Keynote"
+      time: "17:30-18:45"
+    - name: "Social dinner"
+      time: "20:00-22:00"
+
+
+- date: 2025-07-7
+  name: "<b>Online Experiments</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Online experiments workshop"
+      time: "09:30 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:30"
+    - name: "Online experiments exercise"
+      time: "11:30 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Unconference II and groups form"
+      time: "14:00 - 15:30"
+    - name: "Coffee break"
+      time: "15:30 - 16:00"
+    - name: "Group research work "
+      time: "16:00 - 17:30"
+    - name: "Keynote"
+      time: "17:30-18:45"
+    - name: "Social dinner"
+      time: "20:00-22:00"
+
+
+- date: 2025-07-8
+  name: "<b>Networks</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Network analysis workshop"
+      time: "09:30 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:30"
+    - name: "Network analysis exercise"
+      time: "11:30 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Group research work"
+      time: "14:00 - 17:30"
+    - name: "Keynote"
+      time: "17:30 - 18:45"
+
+
+- date: 2025-07-9
+  name: "<b>Text and video as data</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Text as data I"
+      time: "09:30 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:30"
+    - name: "Text as data II"
+      time: "11:30 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Group research work"
+      time: "14:00 - 17:30"
+    - name: "Keynote"
+      time: "17:30 - 18:45"
+
+
+- date: 2025-07-10
+  name: "<b>Sports analytics with Como FC (TBC)</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Como FC Sports Analytics Team Presentation"
+      time: "09:30 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:30"
+    - name: "Como FC Sports Analytics Team- Examples and data"
+      time: "11:30 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Group research work / Hackaton"
+      time: "14:00 - 17:30"
+    - name: "Keynote"
+      time: "17:30 - 18:45"
+
+
+- date: 2025-07-11
+  name: "<b>Research group presentations</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Group research work - Finalize"
+      time: "09:30 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:30"
+    - name: "Group research work - Finalize"
+      time: "11:30 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Group presentations and discussion"
+      time: "14:00 - 17:30"
+    - name: "Closing aperitivo/dinner"
+      time: "18:00 - 20:00"
+
+
+- date: 2025-07-12
+  name: Participants leave
+  events:

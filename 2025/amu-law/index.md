@@ -13,7 +13,7 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is restricted to advanced Ph.D. students, postdoctoral researchers, and junior faculty (within 7 years of their Ph.D). We welcome applicants from all backgrounds and fields of study, especially junior faculty from neighboring institutions near Poznań, Poland. About 25-30 participants will be invited. Most participants are expected to fully attend and participate in the entire two-week program, but we are open to alternative arrangements for faculty members. 
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2025/amu-law/apply) are due 31 March 2025 (midnight, GMT+2).
+[Application materials](https://compsocialscience.github.io/summer-institute/2025/amu-law/apply) are due 6 April 2025 (midnight, GMT+2).
 
 
 Feel free to check our [website](https://sicss-amulaw.github.io) too.
