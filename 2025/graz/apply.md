@@ -11,7 +11,7 @@ partner_site: graz
 - **Location:** IDea_Lab, University of Graz (Austria)
 - **Hosted by:** Complex Social & Computational Systems Lab (CS^2)
 - **Audience:** Open to junior researchers and professionals interested in research and normative philosophy concerning democracy, social media, and governance. Basic programming experience (Python/R) is preferred.
-- **Application deadline:** [23:59 Anywhere On Earth](https://time.is/Anywhere_on_Earth), April 13th 2025
+- **Application deadline:** ~~[23:59 Anywhere On Earth](https://time.is/Anywhere_on_Earth), April 13th 2025~~ **EXTENDED:** [23:59 Anywhere On Earth](https://time.is/Anywhere_on_Earth), April 20th 2025
 - **Decision notification:** April 27th 2025
 - **Fees:** the school is *free to attend* but transit and accomodation is not covered. Equity-based grants are available.
 
@@ -27,7 +27,7 @@ The application process requires:
 
 **Please read the application form itself for the exact wording of the questions.**
 
-Applicants should demonstrate relevance to the summer school's focus on democracy, society, and social media, with programming experience in Python or R preferred. All materials must be submitted through the online application form by [23:59 Anywhere On Earth](https://time.is/Anywhere_on_Earth).
+Applicants should demonstrate relevance to the summer school's focus on democracy, society, and social media, with programming experience in Python or R preferred. All materials must be submitted through the online application form by [23:59 Anywhere On Earth](https://time.is/Anywhere_on_Earth), April 20th 2025.
 
 The second page of the application form asks only questions of formalities and organisational requirements, including any accessibiltiy needs or preferences. 
 
