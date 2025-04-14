@@ -29,3 +29,51 @@
 - name: "Rui SUN" # Replace with participant name.
   image: /assets/images/Lingnan_Rui.jpg # Add participant image to assets/images/ and update here.
   bio: "Rui SUN freshly received her Ph.D. in Anthropology at the Chinese University of Hong Kong and is currently preparing her dissertation for a book manuscript tentatively titled Flower Economy: Value-making and Temporalities in Accelerationist China. Her research interests cover value theories, low-level Chinese entrepreneurs, economic anthropology, temporalities, and new materialism. She was the 2021/22 Harvard-Yenching Fellow and 2023/24 Ernst-Mach Worldwide Grantee respectively based in the Department of Anthropology at Harvard University and East Asia Studies at the University of Vienna. "  # Add participant bio here.
+
+- name: "Deng Qinlingyu" # Replace with participant name.
+  image: /assets/images/Lingnan_Dqly.jpg
+  bio: "Deng Qinlingyu is a Ph.D. Student of Communication Studies at Huazhong University of Science and Technology . Her research leverages computational approaches to study social science questions around online communities, emotions, morality, and culture."  # Add participant bio here.
+  
+- name: "Xiaosu (Hellen) Tian" # Replace with participant name.
+  image: /assets/images/Lingnan_Hellen.jpg
+  bio: "Xiaosu (Hellen) Tian is a PhD student in sociology at the University of Oregon. She obtained her Master of Arts in Sociology from Boston College in the USA. Xiaosu’s research uses computational and historical methods to explore the influence of cultural processes on economic activities and ecological outcomes. Her current research focuses on mapping multivocal terms, particularly examining how terroir—a term that encompasses not only the ecological conditions of a place but also the legitimacy tied to authenticity and patrimony in food production—is classified and valorized across time and places."  # Add participant bio here.
+  
+- name: "Keyu Peng" # Replace with participant name.
+  image: /assets/images/Lingnan_Keyu.jpg
+  bio: "I am Keyu Peng, a third-year PhD candidate at Renmin University of China and City University of Hong Kong. My research examines the intricate relationship between population aging, retirement, and digital inequality. Specifically, I investigate how the rising prevalence of Internet usage among older adults influences their employment prospects and overall wellbeing, particularly in the context of the digital divide and its ramifications for social inequality. Utilizing large datasets, I apply econometric methods and causal inference techniques. My findings have been published in leading Chinese demographic journals, including Population Research, Population Journal, and Jiangxi Social Sciences. Please feel free to contact me at chloe.peng@my.cityu.edu.hk."  # Add participant bio here.
+  
+- name: "Liu Huiqi" # Replace with participant name.
+  image: /assets/images/Lingnan_Liu HuiQi.jpg
+  bio: "I am Liu Huiqi, a Master's candidate at Huazhong Agricultural University. My research interest lies in using text analysis methods to examine texts on educational mobility experiences from Chinese internet platforms, exploring educational inequality from the perspectives of cultural production and cultural capital. At SICSS, I aim to enhance my textual data analysis skills and engage in academic exchanges with fellow researchers in this field. Beyond research, I enjoy resistance training. I look forward to learning and exchanging ideas this summer!"  # Add participant bio here.
+  
+- name: "Liu Yuyao" # Replace with participant name.
+  image: /assets/images/Lingnan_liuyuyao.jpg
+  bio: "Liu Yuyao is a full-time Ph.D. student at the Department of Sociology at The University of Hong Kong (HKU). She received her bachelor’s degree with First Honors from the Faculty of Business and Economics at HKU, double majoring in Economics and Finance. Her current research interests lie in international migration, labor economics, and behavior sciences. Her work adopts interdisciplinary and quantitative approaches to examine the temporal evaluation of global labor mobility and subjective integration and decision-making behaviors of migrant workers."  # Add participant bio here.
+  
+- name: "Scarlett Lau" # Replace with participant name.
+  image: /assets/images/Lingnan_Scarlett.jpg
+  bio: "Scarlett Lau is a first - year doctoral student in Policy Studies at Lingnan University. She holds a Master's degree and a Bachelor's degree in Economics. Her research interests span urban economics and corporate governance. Regarding econometric software, she is proficient in tools like Stata and R. Moreover, being familiar with Python for data crawling equips her with a broader skill - set in data - related operations."  # Add participant bio here.
+  
+- name: "Wang Yi" # Replace with participant name.
+  image: /assets/images/Lingnan_Wang Yi.jpg
+  bio: "Wang Yi is a dedicated doctoral student in Policy Studies (Education Policy and Management) at Lingnan University, Hong Kong, with a strong focus on gender equality and international higher education systems. Her research interests include analyzing factors influencing gender equality in education, the impact of resource distribution on vulnerable student populations, and motivations driving cross-border educational mobility. Proficient in quantitative methodologies, Wang Yi employs statistical modeling, survey research, and case analysis to address complex challenges in education policy. She is passionate about bridging academic insights with real-world impact, aiming to apply her expertise in both educational institutions and organizational settings. "  # Add participant bio here.
+  
+- name: "Zhichao Wang" # Replace with participant name.
+  image: /assets/images/Lingnan_WangZhichao.jpg
+  bio: "I am very excited to join SICSS-Lingnan! My name is Wang Zhichao, and I am a first-year Ph.D. student in Computational Social Science at Tohoku University. My research focuses on leveraging large language models to advance social science research. I have developed an LLM-driven social simulation framework to study how recommendation algorithms influence user behavior and opinions on social media. I also explore the use of LLMs to impute missing values in social survey panel data. My goal is to build accessible and user-friendly tools that enable social scientists to conduct experiments more easily, efficiently, and ethically."  # Add participant bio here.
+  
+- name: "Zhichao Wang" # Replace with participant name.
+  image: /assets/images/Lingnan_wangzhichao_headshot.jpg
+  bio: "Zhichao Wang is is a doctoral student in the Computational Humanities and Social Sciences Department at Tohoku University. His research focuses on exploring the potential of large language models to simulate human-like behavior and responses in social science research. In particular, he uses LLMs to drive agent-based social media platform simulations. He is also interested in applying LLMs to impute missing values in social survey panel data."  # Add participant bio here.
+  
+- name: "Xinyi Yang" # Replace with participant name.
+  image: /assets/images/Lingnan_XinyiYang.jpg
+  bio: "I am a PhD student in Sport Management at Temple University. My research centers on sports marketing and fan behavior, with particular interests in fantasy sports and sports rivalry. My current work explores how marketing strategies on digital platforms shape cross-cultural fan experiences. With a background in the sports media industry, I am committed to bridging research and practice through mixed methods approaches and interdisciplinary insights. My goal is to contribute to a more inclusive and culturally aware understanding of international sport consumption and sports fan behavior."  # Add participant bio here.
+
+- name: "Yutong LU" # Replace with participant name.
+  image: /assets/images/Lingnan_Yutong LU.jpg
+  bio: "Yutong LU is an MSc student in the Division of Social Science at the Hong Kong University of Science and Technology. Her research interests lie in quantitative social science, with a prior focus on marine economy. She is currently working on applying multi-regional input-output (MRIO) models to measure embodied carbon emissions in international trade, with broader interests in sustainable development."  # Add participant bio here.
+
+- name: "Yuning Sun" # Replace with participant name.
+  image: /assets/images/Lingnan_yunningsun.jpg
+  bio: "Dr. Yuning Sun holds a Ph.D. in Psychology and specializes in cross-cultural psychology. His research examines how individuals perceive and evaluate others across cultural contexts, with a focus on methods such as prototype analysis. He has published in leading journals including Advances in Methods and Practices in Psychological Science and Personality and Social Psychology Bulletin. His work integrates traditional social psychological theory with innovative methodologies to better understand cultural variation in cognition and behavior. Dr. Sun is particularly interested in developing computational approaches to advance theory-driven research in social and cultural psychology."  # Add participant bio here.
