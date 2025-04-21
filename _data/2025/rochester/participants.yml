@@ -1,6 +1,31 @@
-- name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+- name: "April Marroquin"
+  image: /assets/images/april_marroquin.jpg
+  bio: "April Marroquin is the Associate Director of Recruitment for Executive and Part-time Programs at the Simon Business School at the University of Rochester. She is also a current Professional MBA student at Simon and holds an MS in Business Analytics from the same institution. Her work spans recruitment strategy, enrollment analytics, and student advising, with a focus on data-driven decision-making, equitable access, and program growth. April has over a decade of experience in higher education and is particularly interested in the ethical use of AI and predictive modeling to improve higher education admissions and student success. She is the founder of The Mindful Admissions Project, a resource hub exploring transparency, inclusion, and innovation in enrollment practices."
+  website: https://www.linkedin.com/in/aprilmarroquin/
 
-# Add more participants with the same format as above...
+- name: "Harris Mazhar"
+  image: /assets/images/harris_mazhar.jepg
+  bio: "Harris Mazhar is currently pursuing an M.S. in Data Science at the University of Rochester, where he has focused on coursework in time series analysis, deep learning, and natural language processing. He earned his B.Sc. in Computer Science from the Lahore University of Management Sciences. His research interests lie at the intersection of machine learning and healthcare, including computer‑aided diagnosis and the development of patient‑facing models for physician assistance. He is also broadly interested in healthcare analytics, interpretable machine learning, and the creation of data‑driven tools to enhance public healthcare."
+  website: https://www.linkedin.com/in/harris-mazhar-8b5aa7190/
+
+- name: "Jialing Wu"
+  image: /assets/images/jialing_wu.jpg
+  bio: "Jialing Wu is a first-year PhD student in Engineering Education at the Ohio State University. She earned her M.Ed. in International Education Policy and Management at Vanderbilt University, Peabody College, and also holds a bachelor’s degree in Mechanical Engineering from China. Her research interests encompass international engineering education, pre-college engineering, and computational social science in Engineering Education Research (EER)."
+  website: hhttps://www.linkedin.com/in/jialingwueducation/
+
+- name: "Murat Al"
+  image: /assets/images/murat_al.jpeg
+  bio: "Murat Al holds a Ph.D. in Computational Mechanics and is currently pursuing a Master’s degree in Data Science at the University of Rochester. His background combines deep expertise in engineering, applied mathematics, and advanced computational modeling. His research interests center on machine learning, natural language processing, predictive analytics, and healthcare AI applications. Murat is particularly passionate about leveraging AI to enhance scientific discovery and real-world decision-making. He has worked on projects involving NLP-based literature mining, time series forecasting, and predictive maintenance, and is committed to interdisciplinary, impact-driven research."
+  website: https://www.linkedin.com/in/muratal-ds/
+
+- name: "Suleyman Esai Inaltekin"
+  image: /assets/images/suleyman_inaltekin.jpeg
+  bio: "Suleyman is pursuing a PhD in Political Science and simultaneously an MA in Statistics at Rice University. He is fascinated by Bayesian statistics and causal inference and is excited to apply his knowledge in all kinds of data."
+  website: https://www.linkedin.com/in/s%C3%BCleyman-esai-inaltekin-409131209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
+- name: "Yu Mei"
+  image: /assets/images/yu_mei.jpg
+  bio: "Yu Mei is a PhD candidate in Political Science at the University of Rochester. Her primary research interests are international relations and formal political theory. Her dissertation uses game-theoretic models and statistical methods to study various tools third parties might use to intervene in overseas conflicts and/or domestic politics of another country. Prior to Rochester, she received a B.A. in International Politics from Renmin University of China."
+  website: http://www.yymei.org
+
+
