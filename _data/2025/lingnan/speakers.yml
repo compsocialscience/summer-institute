@@ -1,6 +1,8 @@
-- name: "Eun Kyong Shin" # Speaker name goes here.
+n: Leveraging Machine Learning for Cutting-Edge Innovations in Social Science Research- name: "Eun Kyong Shin" # Speaker name goes here.
   image: /assets/images/eun.png  # Upload speaker image to /assets/images/ and update URL here.
   bio: |
+    Presentation: Leveraging Machine Learning for Cutting-Edge Innovations in Social Science Research
+    
     ​Eun Kyong SHIN is Sociology Department Chair at Korea University.  As a social scientist with a
     PhD in Sociology (2015, Columbia University), and who additionally trained as a postdoc at 
     Columbia Law School and the UT Medical School, her investigations weave through multiple 
@@ -47,5 +49,5 @@
     Gleb Papyshev is a Research Assistant Professor in the Division of Social Science. His research interests include 
     AI policy and regulation, AI ethics, and corporate governance mechanisms for emerging technologies. The results of
     his work have been published in Policy Design and Practice, AI & Society, Data & Policy, and Elgar Companion to 
-    Regulating AI and Big Data in Emergent Economies. # add speaker bio here
+    Regulating AI and Big Data in Emergent Economies. 
   website: https://sosc.hkust.edu.hk/people/gleb-papyshev # update speaker personal link here

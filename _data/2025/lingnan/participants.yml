@@ -7,7 +7,7 @@
   bio: "Hello! My name is Larry KOU Yilin. I am a Ph.D. student in Psychology at the City University of Hong Kong. My research focuses on human–machine interactions, particularly in the context of autonomous vehicles. I am currently exploring strategies to enhance cooperative interactions between human-driven and autonomous vehicles, as well as the broader implications of autonomous vehicles on cooperative road behavior. To investigate these issues, I utilize a combination of surveys, behavioral experiments, and simulations. Prior to this, I completed my MPhil at Beijing Normal University, where I focused on human motivation and terror management theory."  # Add participant bio here.
 
 - name: "Everardo BLANCO LIVERA" # Replace with participant name.
-  image: /assets/images/Lingnan_EBL.jpg  # Add participant image to assets/images/ and update here.
+  image: /assets/images/lingnan_everado.JPG  # Add participant image to assets/images/ and update here.
   bio: "Everardo Blanco is a second-year PhD student in Sociology and Social Policy at Lingnan University in Hong Kong, SAR, People’s Republic of China. He holds an MPhil in Political Affairs and Public Policy and a BA in International Relations from El Colegio de San Luis, Mexico. He has over 20 years of teaching experience as a part-time faculty member in MA and BA programs, and collaborations in scholarly publications. Additionally, he is a recipient of the 2023/24 HKPFS award from the Research Grants Council of Hong Kong, and the 2024 Outstanding Paper Award from the International Postgraduate Roundtable and Research Forum cum Summer School 2024 at The Education University of Hong Kong. "  # Add participant bio here.
 
 - name: "Blaire (Xiao) Yuan " # Replace with participant name.
@@ -57,11 +57,7 @@
 - name: "Wang Yi" # Replace with participant name.
   image: /assets/images/Lingnan_Wang Yi.jpg
   bio: "Wang Yi is a dedicated doctoral student in Policy Studies (Education Policy and Management) at Lingnan University, Hong Kong, with a strong focus on gender equality and international higher education systems. Her research interests include analyzing factors influencing gender equality in education, the impact of resource distribution on vulnerable student populations, and motivations driving cross-border educational mobility. Proficient in quantitative methodologies, Wang Yi employs statistical modeling, survey research, and case analysis to address complex challenges in education policy. She is passionate about bridging academic insights with real-world impact, aiming to apply her expertise in both educational institutions and organizational settings. "  # Add participant bio here.
-  
-- name: "Zhichao Wang" # Replace with participant name.
-  image: /assets/images/Lingnan_WangZhichao.jpg
-  bio: "I am very excited to join SICSS-Lingnan! My name is Wang Zhichao, and I am a first-year Ph.D. student in Computational Social Science at Tohoku University. My research focuses on leveraging large language models to advance social science research. I have developed an LLM-driven social simulation framework to study how recommendation algorithms influence user behavior and opinions on social media. I also explore the use of LLMs to impute missing values in social survey panel data. My goal is to build accessible and user-friendly tools that enable social scientists to conduct experiments more easily, efficiently, and ethically."  # Add participant bio here.
-  
+   
 - name: "Zhichao Wang" # Replace with participant name.
   image: /assets/images/Lingnan_wangzhichao_headshot.jpg
   bio: "Zhichao Wang is is a doctoral student in the Computational Humanities and Social Sciences Department at Tohoku University. His research focuses on exploring the potential of large language models to simulate human-like behavior and responses in social science research. In particular, he uses LLMs to drive agent-based social media platform simulations. He is also interested in applying LLMs to impute missing values in social survey panel data."  # Add participant bio here.
@@ -77,3 +73,15 @@
 - name: "Yuning Sun" # Replace with participant name.
   image: /assets/images/Lingnan_yunningsun.jpg
   bio: "Dr. Yuning Sun holds a Ph.D. in Psychology and specializes in cross-cultural psychology. His research examines how individuals perceive and evaluate others across cultural contexts, with a focus on methods such as prototype analysis. He has published in leading journals including Advances in Methods and Practices in Psychological Science and Personality and Social Psychology Bulletin. His work integrates traditional social psychological theory with innovative methodologies to better understand cultural variation in cognition and behavior. Dr. Sun is particularly interested in developing computational approaches to advance theory-driven research in social and cultural psychology."  # Add participant bio here.
+
+- name: "Jiamin Tan" # Replace with participant name.
+  image: /assets/images/lingnan_jiamin.jpg
+  bio: "Jiamin Tan is a doctoral student in economics at Lingnan University. Her research interests are health economics, labor economics and the economics of aging. She conducts empirical analysis using national survey data and administrative data to understand the long-term impacts of early-life experiences and the determinants of mental health and physical health of the elderly population. Before her PhD, she obtained an MA from the University of Hong Kong and a BA from the Harbin Institute of Technology."  # Add participant bio here.
+
+- name: "Rewa Singh" # Replace with participant name.
+  image: /assets/images/lingnan_singh.jpg
+  bio: "Dr. Rewa Singh earned her Bachelor with Science Honours and Master of Science in Anthropology from Hans Raj College, University of Delhi followed by a Doctorate in Social Sciences and Humanities from Gautam Buddha University, Greater Noida, and Uttar Pradesh. She has published numerous research papers in refereed national and international journals and conferences. She possesses international exposure as a mentor with “Economics Students Association” at the University of South Pacific, Fiji. Her international stature includes visiting academician at Deakin University, Waurn Ponds, Victoria, Australia and visiting scholar at University of South Pacific, Fiji respectively. She is currently serving as Assistant Professor of Sociology/ Anthropology at Amity University, Noida"  # Add participant bio here.
+
+- name: "Soumyodeep Deb" # Replace with participant name.
+  image: /assets/images/lingnan_deb.jpg
+  bio: "Soumyodeep Deb is a PhD candidate in the Department of Government and International Affairs, Lingnan University. His research focuses on Geo-politics of rising powers, India-China relations, International Security. Prior to this he had obtained his Masters in East Asian Studies from University of Delhi and second masters in International Affairs from Lingnan University. He is currently working on Chinese Foreign Ministry dataset to analyse Chinese foreign policy patterns by using NLP."  # Add participant bio here.    
