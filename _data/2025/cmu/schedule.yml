@@ -59,10 +59,10 @@
   name: "Collecting Data, Navigating Databases"
   events:
     - name: "9:30 - 10:00 Coffee and Annoucements"
-    - name: "10:00 - 11:00 Data Collection: Surveys and Interviews with Sarah Young and Di Yoong"
-    - name: "11:00 - 12:00 Data and Databases with Librarians"
+    - name: "10:00 - 12:00 Data Collection: Surveys and Interviews with Sarah Young and Di Yoong"
     - name: "12:00 - 13:00 Lunch"
-    - name: "13:00 - 15:45 TBC"
+    - name: "13:00 - 14:00 TBC"
+    - name: "14:00 - 15:45 Data and Databases with Librarians"
     - name: "15:45 - 16:00 Daily Wrap-Up/Q&A"
 
 - date: May 20
