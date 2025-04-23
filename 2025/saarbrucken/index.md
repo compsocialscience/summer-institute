@@ -13,7 +13,7 @@ The instructional program will involve lectures, keynotes and participant-led re
 
 Participation is restricted to advanced Ph.D. students, postdoctoral researchers, and junior faculty (within 7 years of their Ph.D). We welcome applicants from all backgrounds, especially from neighboring institutions near Saarbrücken, Germany. About 20-25 participants will be invited. Participants are expected to fully attend and participate in the entire 10-day program.
 
-[Application materials](https://docs.google.com/forms/d/e/1FAIpQLScOljegPItTl8KqAcXedaD9aQEf4ULm29Us8ieehRwWlKssNA/viewform) are due on April  25, 2025.
+[Application materials](https://docs.google.com/forms/d/e/1FAIpQLScOljegPItTl8KqAcXedaD9aQEf4ULm29Us8ieehRwWlKssNA/viewform) are due on May 5, 2025.
 
 We will notify applicants via e-mail by the end of May, and will ask participants to confirm their participation very soon thereafter. Inquiries can be sent to hello@i2sc.net.
 
