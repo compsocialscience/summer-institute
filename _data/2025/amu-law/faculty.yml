@@ -17,7 +17,3 @@
 - name: Wojciech Biernacki
   image: /assets/images/WB_photo.jpg
   bio: Wojciech Biernacki is an extramural PhD researcher and cooperator at the European Law Chair at the Faculty of Law and Administration at the Adam Mickiewicz University in Poznań, and an attorney’s assistant. In his research, he focuses on intellectual property rights, mostly copyright, and issues related to data processing and data ownership. He is familiar with the basics of Python, PHP, and MySQL databases.
-  
-- name: Jedrzej Wydra
-  image: /assets/images/jedrzej.jpg
-  bio: Jedrzej Wydra is a PhD Student at the laboratory of criminalistics (of AMU), Master Student at the Faculty of Mathematics and Computer Science (of AMU) majoring in theoretical mathematics. He holds a Master’s degree in Law, and a degree of Bachelor of Science (mathematics, speciality in data analysis). His research interests include the application of mathematics in legal reasoning (especially time of death estimation and deontic/normative logic). R-programmer (more than 3 years of experience) and data scientist. He also knows the basics of Python and Sage.
