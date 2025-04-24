@@ -3,6 +3,11 @@
   bio: "April Marroquin is the Associate Director of Recruitment for Executive and Part-time Programs at the Simon Business School at the University of Rochester. She is also a current Professional MBA student at Simon and holds an MS in Business Analytics from the same institution. Her work spans recruitment strategy, enrollment analytics, and student advising, with a focus on data-driven decision-making, equitable access, and program growth. April has over a decade of experience in higher education and is particularly interested in the ethical use of AI and predictive modeling to improve higher education admissions and student success. She is the founder of The Mindful Admissions Project, a resource hub exploring transparency, inclusion, and innovation in enrollment practices."
   website: https://www.linkedin.com/in/aprilmarroquin/
 
+- name: "Da Gong"
+  image: /assets/images/da_gong.jpg
+  bio: "Da Gong is a Lecturer of Data Analytics at SUNY Geneseo. He received a Ph.D. in Economics from UC Riverside, and an M.A. in History from the Graduate School of the Chinese Academy of Social Sciences. Da Gong's research interests include Political Economy, Development Economics, Public Economics, Culture and Institution, and Applied Machine Learning. His work focuses on how people’s values, beliefs, and social norms are influenced by the state."
+  website: https://dadasmash.github.io/dagong.github.io//
+
 - name: "Harris Mazhar"
   image: /assets/images/harris_mazhar.jpeg
   bio: "Harris Mazhar is currently pursuing an M.S. in Data Science at the University of Rochester, where he has focused on coursework in time series analysis, deep learning, and natural language processing. He earned his B.Sc. in Computer Science from the Lahore University of Management Sciences. His research interests lie at the intersection of machine learning and healthcare, including computer‑aided diagnosis and the development of patient‑facing models for physician assistance. He is also broadly interested in healthcare analytics, interpretable machine learning, and the creation of data‑driven tools to enhance public healthcare."
@@ -13,19 +18,59 @@
   bio: "Jialing Wu is a first-year PhD student in Engineering Education at the Ohio State University. She earned her M.Ed. in International Education Policy and Management at Vanderbilt University, Peabody College, and also holds a bachelor’s degree in Mechanical Engineering from China. Her research interests encompass international engineering education, pre-college engineering, and computational social science in Engineering Education Research (EER)."
   website: hhttps://www.linkedin.com/in/jialingwueducation/
 
+- name: "Mengmeng Wu"
+  image: /assets/images/mengmeng_wu.jpg
+  bio: "I am a graduate student studying Computational Social Science at the University of Chicago. Prior to graduate school, I worked as a user researcher in the tech industry. My research explores how emerging technologies shape information flow, public opinion, and social behavior. Methodologically, I am interested in natural language processing, digital experiments, and network analysis. I aim to apply and extend communication and social psychological theories to multi-agent systems and technologically mediated environments."
+  website: https://www.linkedin.com/in/mengmeng-wu-162a56284/
+
+- name: "Michael-John Beltejar"
+  image: /assets/images/michael_john_beltejar.jpg
+  bio: "Michael-John Beltejar is a graduate of the Medical-Scientist Training Program and currently a 3rd year Emergency Medicine Resident at the University of Rochester.  His doctoral research leveraged Genome Wide Association Studies and Network Analysis to identify novel genes that contribute to fracture resistance independent of bone mineral density.  He is excited at the prospect of transferring and expanding upon these techniques to substantiate the biopsychosocial approach to Emergency Medicine. His research interests include applications of multilayer networks, GIS and agent-based modeling, artificial intelligence and machine learning."
+  website: https://www.linkedin.com/in/michael-john-beltejar
+
+- name: "Minh Nam Pham"
+  image: /assets/images/michael_john_beltejar.jpg
+  bio: "Minh Nam Pham (Nam) is a doctoral student at the Department of Political Science, University of Pennsylvania. He is focusing on International Relations and Comparative Politics. Before joining Penn, Nam earned a BA in International Social Sciences from the University of Tsukuba (Japan) and a Master of International Affairs (MIA) from the University of California San Diego."
+  website: https://live-sas-www-polisci.pantheon.sas.upenn.edu/people/minh-nam-pham
+
 - name: "Murat Al"
   image: /assets/images/murat_al.jpeg
   bio: "Murat Al holds a Ph.D. in Computational Mechanics and is currently pursuing a Master’s degree in Data Science at the University of Rochester. His background combines deep expertise in engineering, applied mathematics, and advanced computational modeling. His research interests center on machine learning, natural language processing, predictive analytics, and healthcare AI applications. Murat is particularly passionate about leveraging AI to enhance scientific discovery and real-world decision-making. He has worked on projects involving NLP-based literature mining, time series forecasting, and predictive maintenance, and is committed to interdisciplinary, impact-driven research."
   website: https://www.linkedin.com/in/muratal-ds/
+
+- name: "Rashida Jeduah"
+  image: /assets/images/rashida_jeduah.jpeg
+  bio: "Rashida Jeduah is a PhD student in Political Science at the University of New Mexico. Rashida holds a BA in Political Science with Geography and Resource Development from the University of Ghana and master’s degrees in Political Science from UNM and the University of Ghana. Her broad research interests are in the subfields of Comparative Politics and International Relations. Specifically, Rashida’s research interests include the global first ladyship; transitional and gender justice in the Global South. A doctoral fellow at UNM’s Center for Social Policy, Rashida is also interested in research on health equity, especially for women and children."
+  website: https://www.linkedin.com/in/rashida-jeduah-9a1aa087
+
+- name: "Sefa Secen"
+  image: /assets/images/sefa_secen.jpg
+  bio: "Sefa Secen is an Assistant Professor of Political Science at Nazareth University in Rochester, NY. Before joining Nazareth, he was a Postdoctoral Fellow at the Mershon Center for International Security Studies at Ohio State University. He earned his PhD in Political Science from the Maxwell School of Syracuse University. He studies international relations theory, international security, migration, and political behavior, with a regional focus on the Middle East and Western Europe. His research employs both qualitative (such as interviews and content analysis of print, digital, and social media) and quantitative methods (including survey experiments)."
+  website: https://sefasecen.weebly.com/
 
 - name: "Suleyman Esai Inaltekin"
   image: /assets/images/suleyman_inaltekin.jpeg
   bio: "Suleyman is pursuing a PhD in Political Science and simultaneously an MA in Statistics at Rice University. He is fascinated by Bayesian statistics and causal inference and is excited to apply his knowledge in all kinds of data."
   website: https://www.linkedin.com/in/s%C3%BCleyman-esai-inaltekin-409131209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
+- name: "Vedat Kurtay"
+  image: /assets/images/vedat_kurtay.jpeg
+  bio: "I hold a B.Sc. in Mathematics from Bahçeşehir University, an M.Sc. in Mathematics from Middle East Technical University, an M.Sc. in Computational and Applied Mathematics at RIT, and I'm currently pursuing a Ph.D. degree in Mathematical Modeling at RIT. My research interests center on applying mathematics to life sciences, mostly in biomedical applications. I’ve worked extensively on a very broad spectrum of projects including biology, physics, chemistry, marketing, population dynamics, and resource management. I’m passionate about using mathematical tools to uncover insights to the real life problems."
+  website: https://www.linkedin.com/in/kurtayvedat/
+
 - name: "Yu Mei"
   image: /assets/images/yu_mei.jpg
   bio: "Yu Mei is a PhD candidate in Political Science at the University of Rochester. Her primary research interests are international relations and formal political theory. Her dissertation uses game-theoretic models and statistical methods to study various tools third parties might use to intervene in overseas conflicts and/or domestic politics of another country. Prior to Rochester, she received a B.A. in International Politics from Renmin University of China."
   website: http://www.yymei.org
+
+- name: "Yuliang Liu"
+  image: /assets/images/yuliang_liu.jpg
+  bio: "I am an undergraduate student at the University of Rochester majoring in Computer Science with minors in Statistics. My academic interests lie at the intersection of computational social science, machine learning, and human-centered AI. I have served as a teaching assistant and peer tutor for multiple CS courses, and participated in projects involving natural language processing, clustering, and behavioral data analysis."
+  website: https://www.linkedin.com/in/liu-yuliang
+
+- name: "Zhouhong Wang"
+  image: /assets/images/zhouhong_wang.jpg
+  bio: "Zhouhong Wang is a Master's student in Library Science at Sun Yat-sen University's School of Information Management. His research examines how Libraries, Archives, and Museums (LAMs) as social memory institutions contribute to economic and social development. Using causal inference methods, Zhouhong investigates LAMs' role in cultural preservation, public service delivery, and their broader societal consequences. His work bridges cultural heritage studies with empirical social science, particularly analyzing how memory institutions influence community resilience, knowledge economies, and equitable access to information. Zhouhong's research contributes to understanding the measurable socioeconomic value of cultural infrastructure in contemporary China."
+  website: https://wangzhh.top/en/
 
 
