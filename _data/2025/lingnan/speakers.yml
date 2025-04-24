@@ -1,7 +1,7 @@
 - name: "Eun Kyong Shin" # Speaker name goes here.
   image: /assets/images/eun.png  # Upload speaker image to /assets/images/ and update URL here.
   bio: |
-    <strong>Presentation:</strong> <em>Leveraging Machine Learning for Cutting-Edge Innovations in Social Science Research</em><br><br>
+    <strong>Talk:</strong> <em>Leveraging Machine Learning for Cutting-Edge Innovations in Social Science Research</em><br><br>
     
     ​Eun Kyong SHIN is Sociology Department Chair at Korea University.  As a social scientist with a
     PhD in Sociology (2015, Columbia University), and who additionally trained as a postdoc at 
@@ -14,7 +14,7 @@
 - name: "Siqi Han" # Speaker name goes here.
   image: /assets/images/Siqi.jpg  # Upload speaker image to /assets/images/ and update URL here.
   bio: |
-    <strong>Presentation:</strong> <em>Measuring Diversity: Knowledge and Skill Cross-Fertilization with Computational Methods</em><br><br>
+    <strong>Talk:</strong> <em>Measuring Diversity: Knowledge and Skill Cross-Fertilization with Computational Methods</em><br><br>
     
     Siqi Han is an assistant professor of sociology at the Chinese University of Hong Kong. She is 
     also associated with CUHK’s computational social science cluster. Before joining CUHK she was a 
