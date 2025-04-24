@@ -88,6 +88,11 @@
   bio: "I am an undergraduate student at the University of Rochester majoring in Computer Science with minors in Statistics. My academic interests lie at the intersection of computational social science, machine learning, and human-centered AI. I have served as a teaching assistant and peer tutor for multiple CS courses, and participated in projects involving natural language processing, clustering, and behavioral data analysis."
   website: https://www.linkedin.com/in/liu-yuliang
 
+- name: "Zhihao Pan"
+  image: /assets/images/zhihao_pan.jpg
+  bio: "Zhihao Pan is a PhD student in Sociology at the Maxwell School of Citizenship and Public Affairs, Syracuse University. His research examines the causes and consequences of public opinion, and he draws on a diverse set of methods, including participant observation, in-depth interviews, comparative historical analysis, and statistical techniques. He is also broadly interested in the sociology of education, culture, and stratification. His current work explores how institutional contexts shape belief systems among college students. His future research aims to integrate computational approaches with critical social theory, particularly Pierre Bourdieu’s framework of symbolic domination. Before beginning his doctoral studies, he earned a BA in Sociology from the University of Macau."
+  website: https://www.linkedin.com/in/zhihaopan/
+
 - name: "Zhouhong Wang"
   image: /assets/images/zhouhong_wang.png
   bio: "Zhouhong Wang is a Master's student in Library Science at Sun Yat-sen University's School of Information Management. His research examines how Libraries, Archives, and Museums (LAMs) as social memory institutions contribute to economic and social development. Using causal inference methods, Zhouhong investigates LAMs' role in cultural preservation, public service delivery, and their broader societal consequences. His work bridges cultural heritage studies with empirical social science, particularly analyzing how memory institutions influence community resilience, knowledge economies, and equitable access to information. Zhouhong's research contributes to understanding the measurable socioeconomic value of cultural infrastructure in contemporary China."
