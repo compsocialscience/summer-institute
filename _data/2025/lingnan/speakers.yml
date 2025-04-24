@@ -14,6 +14,8 @@
 - name: "Siqi Han" # Speaker name goes here.
   image: /assets/images/Siqi.jpg  # Upload speaker image to /assets/images/ and update URL here.
   bio: |
+    <strong>Presentation:</strong> <em>Measuring Diversity: Knowledge and Skill Cross-Fertilization with Computational Methods</em><br><br>
+    
     Siqi Han is an assistant professor of sociology at the Chinese University of Hong Kong. She is 
     also associated with CUHK’s computational social science cluster. Before joining CUHK she was a 
     postdoctoral research scholar on the Measuring the Liberal Arts project at INCITE, Columbia University. 
