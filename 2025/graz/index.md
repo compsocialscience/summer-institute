@@ -11,13 +11,15 @@ image: /assets/images/2025/graz/DDNSF_banner.png
 - **Location:** IDea_Lab, University of Graz (Austria)
 - **Hosted by:** Complex Social & Computational Systems Lab (CS^2)
 - **Audience:** Open to junior researchers and professionals interested in research and normative philosophy concerning democracy, social media, and governance. Basic programming experience (Python/R) is preferred.
-- **Application deadline:** ~~[23:59 Anywhere On Earth](https://time.is/Anywhere_on_Earth), April 13th 2025~~ **EXTENDED:** [23:59 Anywhere On Earth](https://time.is/Anywhere_on_Earth), April 20th 2025
+- **Application deadline:** ~~[23:59 Anywhere On Earth](https://time.is/Anywhere_on_Earth), April 13th 2025~~ ~~**EXTENDED:** [23:59 Anywhere On Earth](https://time.is/Anywhere_on_Earth), April 20th 2025~~ **Applicants are now closed!**
 - **Decision notification:** April 27th 2025
 - **Fees:** the school is *free to attend* but transit and accomodation is not covered. Equity-based grants are available.
   
 [Feel free to download and distribute the school flyer here.](/assets/posters_info/DDNSF%20Call%20for%20Applicants%20poster.pdf)
 
-**EXTENDED DEADLINE: We’ve extended the application deadline to 23:59 (Anywhere on Earth), April 20th. You can still expect to hear back by April 27th, but due to the high volume of applications, some decisions may be sent on a rolling basis. Regardless, we’ll make sure everyone receives an email by the 27th with an update on their application status.**
+**Applications are now CLOSED! Thank you for all who have shown interest in the school! We will be getting back to you shortly!**
+
+**~~EXTENDED DEADLINE: We've extended the application deadline to 23:59 (Anywhere on Earth), April 20th. You can still expect to hear back by April 27th, but due to the high volume of applications, some decisions may be sent on a rolling basis. Regardless, we'll make sure everyone receives an email by the 27th with an update on their application status.~~**
 
 **The internet connects people at unprecedented scales, transforming centuries-old patterns of human communication and social organisation.** This restructuring has led to all new sorts of social phenomena—from global networks of gamers and K-pop fans, to the targeted manipulation of political outcomes, and international movements like the Arab Spring, the Climate Strikes, Black Lives Matter, and MeToo. The internet changes how society can evolve, for better or worse. 
 

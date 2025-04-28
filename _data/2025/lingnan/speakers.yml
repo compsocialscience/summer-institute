@@ -55,3 +55,15 @@
     his work have been published in Policy Design and Practice, AI & Society, Data & Policy, and Elgar Companion to 
     Regulating AI and Big Data in Emergent Economies. 
   website: https://sosc.hkust.edu.hk/people/gleb-papyshev # update speaker personal link here
+- name: "Francisco Cisternas" # Speaker name goes here.
+  image: /assets/images/cisternas.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: |
+    <strong>Talk:</strong> <em>Sustainability Meets Data Science: Predicting and Nudging Sustainable Consumer Choices</em><br><br>
+    
+    Professor Francisco Cisternas is an Assistant Professor of Marketing and Associate Director of the Master of Science 
+    in Marketing Program at The Chinese University of Hong Kong. He combines expertise in Marketing, Operations, and Artificial
+    Intelligence to model how consumers interact across digital and physical channels. His research applies machine learning 
+    and big data analytics to real-world challenges in Fintech, sports, and retail, while also advancing sustainable consumption
+    and data privacy in digital marketing. Professor Cisternas holds a Ph.D. and M.S. in Business Administration from Carnegie
+    Mellon University, and a B.S. in Industrial Engineering and M.S. in Operations Management from the University of Chile
+  website: https://www.bschool.cuhk.edu.hk/staff/cisternas-vera-francisco/ # update speaker personal link here
