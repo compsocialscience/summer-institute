@@ -11,10 +11,11 @@ partner_site: graz
 - **Location:** IDea_Lab, University of Graz (Austria)
 - **Hosted by:** Complex Social & Computational Systems Lab (CS^2)
 - **Audience:** Open to junior researchers and professionals interested in research and normative philosophy concerning democracy, social media, and governance. Basic programming experience (Python/R) is preferred.
-- **Application deadline:** ~~[23:59 Anywhere On Earth](https://time.is/Anywhere_on_Earth), April 13th 2025~~ **EXTENDED:** [23:59 Anywhere On Earth](https://time.is/Anywhere_on_Earth), April 20th 2025
+- **Application deadline:** ~~[23:59 Anywhere On Earth](https://time.is/Anywhere_on_Earth), April 13th 2025~~ ~~**EXTENDED:** [23:59 Anywhere On Earth](https://time.is/Anywhere_on_Earth), April 20th 2025~~ **Applicants are now closed!**
 - **Decision notification:** April 27th 2025
 - **Fees:** the school is *free to attend* but transit and accomodation is not covered. Equity-based grants are available.
-
+  
+**Applications are now CLOSED! Thank you for all who have shown interest in the school! We will be getting back to you shortly!**
 
 ### Application Requirements
 
@@ -33,4 +34,3 @@ The second page of the application form asks only questions of formalities and o
 
 Please contact us at ddnsf@uni-graz.at if you have any questions whatsoever.
 
-[LINK TO APPLICATION FORM.](https://forms.gle/LXBgqqCfGRCH65RC6)
