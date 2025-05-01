@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d892114e-010d-4c80-92c4-623ccc8e7cf8)---
+---
 layout: location_detail
 partner_site: wits-standrews
 main: true
