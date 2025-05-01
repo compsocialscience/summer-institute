@@ -7,7 +7,6 @@ partner_site: wits-standrews
 
 # Apply
 
-## 
 
 ## Eligibility
 
