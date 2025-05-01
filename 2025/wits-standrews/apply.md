@@ -7,29 +7,32 @@ partner_site: wits-standrews
 
 # Apply
 
-**This page is under construction. Check back soon for more up-to-date info!**
 
 ## Eligibility
 
-We invite applicants from advanced Ph.D. students students, postdoctoral researchers, and faculty within 7 years of their Ph.D., who are able to attend the program in Johannesburg, South Africa. We welcome applicants from all backgrounds and fields of study, particularly ... . About ... participants will be invited. However, there are no restrictions based on citizenship, country of study, or country of employment. 
+Participation is open to PhD students, postdoctoral researchers, untenured faculty within five years of their PhD. We welcome applicants from all backgrounds, fields of study, and countries within Africa. We strongly encourage women and other minority groups to apply. There are no restrictions based on citizenship, country of study, or employment, but we will prioritise applicants from African countries. There is no registration fee for participating in SICSS-Accra, and most of the costs will be covered. The language of instruction will be English. About 20 participants will be invited, and participants are expected to fully attend, participate, and engage in the entire program.
 
-The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp.
+Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute. Participants with less coding experience will be expected to complete a set of online learning modules on the R programming language. Students requiring this preparatory work will be supported by a teaching assistant who will hold online office hours two months before the Institute.
 
-We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
+Applications will be evaluated based on: 
+-	Applicant’s professional and research experience. Preference will be given to postgraduate students and researchers/academics within five years of their PhD.
+-	Applicant's experience with coding or the potential to be proficient before the summer institute.
+-	Motivation and ambition to make a personal contribution to computational social science.
+-	Potential to fully participate and engage in the entire program.
+
 
 ## How To Apply
 
-Applicants must submit the following documents: 1) a curriculum vitae, 2) a statement (maximum two pages double-spaced) describing: 
+Applicants must submit the following documents:
 
-- Your current research
-- Why you want to participate in SICSS-WITS-StAndrews
-- How participation will aid your future research
-- Your experience and/or interest in collaborative research. Carrying out a collaborative research project is a core component of SICSS-WITS-StAndrews.
-- A possible topic, method, or question you would like to focus on for a collaborative project
+-	A curriculum vitae (max 4pages).
+-	A motivation letter (max two pages) describing why do you wish to attend SICSS-Accra, your current research interests, future plans and how these intersect with the goals of this partner location.
+-	A supporting letter from a supervisor/head of department/line manager/mentor that can attest to applicant's competence/potential and availability.
 
-**In order to be guaranteed full consideration, all application materials must be submitted by {app due date not yet determined}.** All application materials must be submitted through this [Google Form](https://www.google.com) (form for this site not yet created). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by {decision date not yet determined}, and will ask participants to confirm their participation very soon thereafter.
+We will formally start receiving applications from 27 January 2023 until **<s>March 18</s> March 31, 2023**. In order to be guaranteed full consideration, all application materials must be submitted online via <a href="https://forms.gle/QDfknUWDdT3XaEi7A" target="_blank">https://forms.gle/QDfknUWDdT3XaEi7A</a>. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by **May 15, 2025** and ask participants to confirm their participation soon after.
 
-Inquiries can be sent to [site email not set up](email@goes.here).
+Inquiries can be sent to <a href="mailto:eoo1@st-andrews.ac.uk" target="_blank">eoo1@st-andrews.ac.uk</a>
+
 
 ## Application Frequently Asked Questions
 
@@ -40,3 +43,16 @@ Yes, but not at the same time. For example, you can apply to SICSS-WITS-StAndrew
 #### Can I participate in SICSS-WITS-StAndrews if I have already participated in SICSS at another location?
 
 Unfortunately, no. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
+
+### What is the level of the summer institute?
+
+SICSS-WITS-StAndrews is planned to be an entry-level programme in computational social science. We will lay a solid foundation for computational social science during the summer institute through several activities such as invited lectures, research happy hour, tutorials and participant-led group research projects. You can read about our experience organizing SICSS-Covenant 2022 here: <a href="https://sicss.io/2022/post-mortem#covenant-university" target="_blank">https://sicss.io/2022/post-mortem#covenant-university</a>
+
+
+### I have limited coding experience. Should I still apply?
+
+Some previous coding experience is highly recommended to make the most out of the summer institute. However, this should not discourage you from applying, as we aim to enrol all accepted participants with limited coding experience in our coding bootcamp. During the bootcamp, we will introduce you to R-programming and support you in enriching your programming skills before the summer institute.
+
+### How much does the summer institute cost?
+
+There is no registration cost for participating in the summer institute. Furthermore, thanks to our generous sponsor, the National Science Foundation, we will be able to cover accommodation and meals for all accepted participants. We also have limited scholarships to cover round-trip airfare for participants from other African countries.
