@@ -1,8 +1,8 @@
----
+![image](https://github.com/user-attachments/assets/d892114e-010d-4c80-92c4-623ccc8e7cf8)---
 layout: location_detail
 partner_site: wits-standrews
 main: true
-image: /assets/images/tbd.jpg
+image: /assets/images/wits_header.jpg
 ---
 
 [//]: # (ORGANIZERS: Update the info to match your location. Add a site image to /assets/images/ and update the placeholder URL above to match it. See _data/2025/WITS-StAndrews for yml files that control the header content, location info on general sites page, people lists, and sidebar.)
