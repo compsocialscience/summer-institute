@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: wits-standrews
 main: true
-image: /assets/images/tbd.jpg
+image: /assets/images/wits_header.jpg
 ---
 
 [//]: # (ORGANIZERS: Update the info to match your location. Add a site image to /assets/images/ and update the placeholder URL above to match it. See _data/2025/WITS-StAndrews for yml files that control the header content, location info on general sites page, people lists, and sidebar.)
@@ -13,6 +13,7 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is restricted to advanced Ph.D. students, postdoctoral researchers, and junior faculty (within 7 years of their Ph.D). We welcome applicants from all backgrounds and fields of study, especially junior faculty from neighboring institutions near Johannesburg, South Africa. About 25-30 participants will be invited. Most participants are expected to fully attend and participate in the entire 8-day program, but we are open to alternative arrangements for faculty members. 
 
-Application materials are due on {date not yet determined}.
+
+**[Application materials](https://sicss.io/2025/wits-standrews/apply) are due on Sunday, May 25, 2025.**
 
 [//]: # (ORGANIZERS: feel free to add a link to your application materials or your SICSS apply page above.)
