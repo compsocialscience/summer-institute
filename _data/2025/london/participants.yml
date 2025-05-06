@@ -3,6 +3,11 @@
   bio: " ... "  # Add participant bio here.
   website: https://www.google.com  # Link participant website here.
 
+#- name: "Andrea Pezzella" # Replace with participant name.
+#  image: /assets/images/London_2025_Participants_Andrea.jpg  # Add participant image to assets/images/ and update here.
+#  bio: "Andrea Pezzella is pursuing a M.Sc. in Economics and Finance at LUISS Guido Carli, focusing on quantitative methods in finance. As a visiting researcher at UCL, he develops stochastic models for financial applications, combining his passion for data analysis and programming. At SICSS-London, he aims to explore how computational social science can provide new insights into financial market dynamics."
+#  #website: https://www.google.com  # Link participant website here.
+
 #- name: "Anne Ruderman" # Replace with participant name.
 #  image: /assets/images/London_2025_Participants_Anne.jpg  # Add participant image to assets/images/ and update here.
 #  bio: "Anne Ruderman is an assistant professor in the Department of Economic History at the London School of Economics. Her first book, Supplying the Slave Trade: European Enslavers and African Markets in the Eighteenth-Century Atlantic will be published by Yale University Press. She has published or has forthcoming articles in the Business History Review, the William and Mary Quarterly, Current Research in Digital History, and the Journal of Economic History. Her digital history pilot project Royal African Company Networks is available at: www.racnetworks.wordpress.com. She holds a PhD in History from Yale University." 
@@ -48,9 +53,19 @@
 #  bio: "Julia M. Schmidt is a PhD candidate in Economics at Université Paris-Dauphine, PSL, where she studies how data and AI are reshaping productivity, emissions, and labour markets. Formerly a Data Scientist at the OECD, she led projects on digital skills and AI adoption. Passionate about bridging data science and economics, she now combines macroeconomic models with real-world data to explore the impact of digital transformation. At SICSS, she looks forward to deepening her computational social science skills and collaborating with peers at the intersection of data, policy, and economic behavior."
 #  #website: https://www.google.com  # Link participant website here.
 
+#- name: "Lorenzo Lombardi" # Replace with participant name.
+#  image: /assets/images/London_2025_Participants_Lorenzo.jpg  # Add participant image to assets/images/ and update here.
+#  bio: "Lorenzo Lombardi is a PhD student in Data Science, Accounting & Management at the University of Salerno, with a focus on the application of artificial intelligence to financial systems. He is currently a Visiting PhD Researcher at University College London (UCL), in the Department of Computer Science, where he is working on stochastic volatility models for option pricing and exploring the intersection of AI and computational finance. Lorenzo completed his Master’s degree in Finance and Insurance at La Sapienza University of Rome and holds a Bachelor's degree in Business Administration from the University of Salerno. His research interests span financial modeling and machine learning, with a particular focus on using AI techniques to improve financial decision-making, risk management, and derivative pricing. He is passionate about the potential of AI to drive innovation in financial systems and contribute to more efficient and effective decision-making processes."
+#  #website: https://www.google.com  # Link participant website here.
+
 #- name: "Matteo Prandi" # Replace with participant name.
 #  image: /assets/images/London_2025_Participants_Matteo.jpg  # Add participant image to assets/images/ and update here.
 #  bio: "Matteo Prandi is a PhD student in Socio-Economic and Statistical Studies at Sapienza University of Rome. His research investigates how emerging technologies, especially GenAI, reshape labor markets and society with a particular focus on evolving media narratives and regulatory frameworks. Drawing on his background as quantitative risk analyst at Euronext, he employs computational methods, including Natural Language Processing (NLP) and Large Language Models (LLMs), to analyze large-scale data and better understand the impacts of technological change. Matteo focuses on evaluating AI's societal implications and fostering informed approaches to technology transition through data-driven research at the intersection of technology, policy, and society."
+#  #website: https://www.google.com  # Link participant website here.
+
+#- name: "Sabrina Aufiero" # Replace with participant name.
+#  image: /assets/images/London_2025_Participants_Sabrina.jpg  # Add participant image to assets/images/ and update here.
+#  bio: "I have a solid background in theoretical physics and financial computing, which has helped me develop strong quantitative and analytical skills. My experience spans both traditional finance and the emerging field of decentralized finance, and I have contributed to research on systemic risk, financial stability, and ESG. I have applied machine learning, stochastic processes, and complex network analysis to real-world financial models."
 #  #website: https://www.google.com  # Link participant website here.
 
 #- name: "Yu Xiang" # Replace with participant name.
