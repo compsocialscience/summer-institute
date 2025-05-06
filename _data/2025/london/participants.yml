@@ -18,6 +18,16 @@
 #  bio: "Daniele is a PhD candidate at the Complexity Science Hub Vienna, where he joined the ERC-funded Collective Minds research group in January 2025. His research focuses on developing advanced agent-based models that leverage large language models to simulate social dynamics and belief propagation across networks. By creating LLM-powered agent simulations, he works to computationally validate social psychology theories and develop new frameworks for understanding collective behavior. His background combines philosophy (Ca' Foscari University of Venice) and data science (University of Padova), with previous research on bias in large language models during an internship at TU Graz."
 #  #website: https://www.google.com  # Link participant website here.
 
+#- name: "David Gauthier" # Replace with participant name.
+#  image: /assets/images/London_2025_Participants_David.jpg  # Add participant image to assets/images/ and update here.
+#  bio: "Dr David Gauthier is an Economist at the Bank of France's Financial Stability Directorate. He holds a PhD in Macroeconomics from the Paris School of Economics and a Master's in Data Science from ENSAE. His research focuses on macro-finance, business cycles, and financial crises, with a particular interest in the intersection of monetary policy and machine learning. He has also collaborated with public and private institutions on projects involving central bank communication, forecasting models, and financial risk assessment."
+#  #website: https://www.google.com  # Link participant website here.
+
+#- name: "Ekaterina Prytkova" # Replace with participant name.
+#  image: /assets/images/London_2025_Participants_Ekaterina.jpg  # Add participant image to assets/images/ and update here.
+#  bio: "Ekaterina is a Postdoctoral Research Fellow in Economics and Data Science at the University Côte d’Azur (France), affiliated with GREDEG and EUR ELMI. Her research combines Digital Economics, Industrial Organization, and Labour Economics to study the technological and strategic dynamics of ICTs and AI, and their implications for labor markets. In her work, she employs computational methods such as network analysis, natural language processing, and machine learning. Currently, Ekaterina studies the AI ecosystem by examining its dual role as an infrastructure and an information good. In this research, she maps the AI stack using web scraping and NLP techniques, and explore competitive dynamics in the AI industry, with a special focus on the role of open source. Another direction of her research concerns the impact of digital technologies on the future of work. Within the PILLARS project, she studied how emerging digital technologies reshape regional labor markets in Europe and the US, developing novel metrics of technological relevance and adoption, which were released as open-source resources. Before joining the University Côte d’Azur, Ekaterina held a postdoctoral fellowship at the University of Sussex (UK). She earned a Ph.D. in Economics from Friedrich Schiller University Jena (Germany) and holds degrees in Economics and Management from the Higher School of Economics (Russia)."
+#  #website: https://www.google.com  # Link participant website here.
+
 #- name: "Elena Pro" # Replace with participant name.
 #  image: /assets/images/London_2025_Participants_Elena.jpg  # Add participant image to assets/images/ and update here.
 #  bio: "Elena is a PhD candidate at LSE’s European Institute and she is affiliated with the Data Science Institute at LSE. Her research focuses on political behaviour and political identities in the European context. She is interested in how political and civic actions influence public opinion and attachment to political identities. She study these topics with observational causal inference, experiments, and mixed-methods research designs. Prior to her PhD, she obtained a BA in History and Politics (University of Exeter) and an MSc in Social Research Methods (London School of Economics)." 
@@ -41,6 +51,11 @@
 #- name: "Matteo Prandi" # Replace with participant name.
 #  image: /assets/images/London_2025_Participants_Matteo.jpg  # Add participant image to assets/images/ and update here.
 #  bio: "Matteo Prandi is a PhD student in Socio-Economic and Statistical Studies at Sapienza University of Rome. His research investigates how emerging technologies, especially GenAI, reshape labor markets and society with a particular focus on evolving media narratives and regulatory frameworks. Drawing on his background as quantitative risk analyst at Euronext, he employs computational methods, including Natural Language Processing (NLP) and Large Language Models (LLMs), to analyze large-scale data and better understand the impacts of technological change. Matteo focuses on evaluating AI's societal implications and fostering informed approaches to technology transition through data-driven research at the intersection of technology, policy, and society."
+#  #website: https://www.google.com  # Link participant website here.
+
+#- name: "Yu Xiang" # Replace with participant name.
+#  image: /assets/images/London_2025_Participants_Yu.jpg  # Add participant image to assets/images/ and update here.
+#  bio: "Yu Xiang is a Doctoral Researcher in Finance at Aalto University. Her work focuses on the intersection of social networks, behavioral finance, and policy. She is interested in causal inference and network analysis. She previously completed her MSc in Economics (SGPE) from the University of Edinburgh."
 #  #website: https://www.google.com  # Link participant website here.
 
 # Add more participants with the same format as above...
