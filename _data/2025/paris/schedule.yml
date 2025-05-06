@@ -15,7 +15,7 @@
     - name: "12:30 - 13:30 Lunch"
     - name: "13:30 - 14:30 Introduction to Transformers"
     - name: "14:30 - 15:30 Regular Expressions"
-    - name: "Guest Talk by Jan G. Voelkel"
+    - name: "17:15 - 18:30 Guest Talk by Jan G. Voelkel"
 
 - date: "Wednesday, June 25"
   events:
@@ -42,5 +42,29 @@
     - name: "12:30 - 13:30 Lunch"
     - name: "Afternoon: LLMs and Social Sciences - International Conference at Sciences Po, including a Guest Talk by Bart Bonikowski"
 
+
+- date: "Monday, June 30"
+  events:
+    - name: "Remote Group Work"
+    - name: "14:00 Guest Talks by Noga Keidar and Daniel Silver"
+
+
+- date: "Tuesday, July 1"
+  events:
+    - name: "Remote Group Work"
+    - name: "13:00 Guest Talk by Dirk"
+
+
+- date: "Wednesday, July 2"
+  events:
+    - name: "Remote Group Work"
+    - name: "15:30 Guest Talk by Austin van Loon"
+
+
+- date: "Thursday, July 3"
+  events:
+    - name: "Remote Group Work"
+    - name: "Final Group Presentations"
+  
 
 
