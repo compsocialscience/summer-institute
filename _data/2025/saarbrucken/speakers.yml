@@ -55,6 +55,11 @@
   bio: " " # add speaker bio here
   website: https://zsavvas.github.io/ # update speaker personal link here
 
+- name: "Tom Theile (Max Planck Institute for Demographic Research)" # Speaker name goes here.
+  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Tom Theile is a research software engineer working at the Department of Digital and Computational Demography at the Max Planck Institute for Demographic Research in Rostock. He works together with the researchers in the Laboratory of Population Dynamics and Sustainable Well-Being and the Laboratory of Migration and Mobility on long-term digital data collections, data transformations, and simulation software projects. Some of the projects are rsocsim, a kinship microsimulator, and the Scholarly Migration Database which is based on large scale bibliometric data. From time to time, he visits a population conference, teaches courses on the practical aspects of digital demography, or co-authors  a paper."
+  website: https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/tom_theile_3933/ # update speaker personal link here
+
 - name: "Uwe Albrecht (Adolf-Bender-Zentrum)" # Speaker name goes here.
   image: /assets/images/2025SBUweAlbrecht.jpg  # Upload speaker image to /assets/images/ and update URL here.
   bio: "Uwe Albrecht studied Political Science and Sociology. He joined the Adolf-Bender-Center as a project assistant in 2011. His work focuses on right-wing extremism, racism, anti-Semitism and anti-democracy." # add speaker bio here
