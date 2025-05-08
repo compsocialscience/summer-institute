@@ -84,4 +84,24 @@
 
 - name: "Soumyodeep Deb" # Replace with participant name.
   image: /assets/images/lingnan_deb.jpg
-  bio: "Soumyodeep Deb is a PhD candidate in the Department of Government and International Affairs, Lingnan University. His research focuses on Geo-politics of rising powers, India-China relations, International Security. Prior to this he had obtained his Masters in East Asian Studies from University of Delhi and second masters in International Affairs from Lingnan University. He is currently working on Chinese Foreign Ministry dataset to analyse Chinese foreign policy patterns by using NLP."  # Add participant bio here.    
+  bio: "Soumyodeep Deb is a PhD candidate in the Department of Government and International Affairs, Lingnan University. His research focuses on Geo-politics of rising powers, India-China relations, International Security. Prior to this he had obtained his Masters in East Asian Studies from University of Delhi and second masters in International Affairs from Lingnan University. He is currently working on Chinese Foreign Ministry dataset to analyse Chinese foreign policy patterns by using NLP."  # Add participant bio here. 
+
+- name: "Ignacio Pérez" # Replace with participant name.
+  image: /assets/images/Lingnan_perez.jpg
+  bio: "Ignacio Pérez is a postdoctoral researcher at the Oxford-Hyundai Foresight Centre, based at Saïd Business School, University of Oxford. His research combines ethnographic methods and computational text analysis to explore mobility systems, climate transitions, and participatory governance at the intersection of urban studies, STS, and critical data research."  # Add participant bio here.
+
+- name: "Jim Wang" # Replace with participant name.
+  image: /assets/images/Lingnan_jimwang.jpg
+  bio: "Dr. Jim Wang is an assistant professor in the department of finance at Hong Kong Chu Hai College. He has taught FinTech at Master of Science in Applied Finance with over 10 years of research in the field of Big Data and forensic education. He received 2023/24 Chiuyu Tan Kah Kee Education Foundation Scholarly Achievement Award."   
+
+- name: "Winko Lui" # Replace with participant name.
+  image: /assets/images/Lingnan_wanko.jpg
+  bio: "Winko is a Ph.D. candidate in Sociology of Science at Tsinghua University. His academic interests centre on applying data-driven tools to examine issues like digital equity in health informatics and uncover how technological infrastructures can either bridge or reinforce inequalities in access to healthcare and digital resources."  # Add participant bio here.    
+
+- name: "Chunyan Mai" # Replace with participant name.
+  image: /assets/images/Lingnan_maichun.jpg
+  bio: "Chunyan Mai is a postdoctoral fellow in the Department of Social Work at The Chinese University of Hong Kong. She holds a Ph.D. in Psychology from The Chinese University of Hong Kong. Her research examines stereotypes toward older age groups, age bias in newspapers using natural language processing, and the influence of views on aging on health-related behaviors."  # Add participant bio here.
+
+- name: "Xin (Lucy) LIU" # Replace with participant name.
+  image: /assets/images/Lingnan_lucyliu.jpg
+  bio: "Xin (Lucy) LIU is a first-year doctoral student in Policy Studies at Lingnan University. Her research explores the impact of policy documents on various cultural and artistic institutions, the role of cultural heritage in fostering community participation and identity, and the assessment of cultural narratives and the effectiveness of large-scale arts expos. Proficient in R and SPSS, Lucy is currently collecting primary data to examine shifts in cultural identity through the lens of Cantonese opera. She also serves as a digital archivist at the International Bomber Command Centre in the UK. Prior to her doctoral studies, she earned an MA in Cultural Heritage Management from Lingnan University and the University of Lincoln, and a BA in Drama and Film Literature from the National Academy of Chinese Theatre Arts in Beijing."  # Add participant bio here.                      
