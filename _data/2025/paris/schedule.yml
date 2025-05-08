@@ -1,5 +1,70 @@
-- date: "June 23 - July 3, 2025"
+- date: "Monday, June 23"
   events:
-    - name: "Schedule coming soon. Check back for updates!" # Update this line or add markdown for your site's schedule.
+    - name: "9:30 - 10:00 Welcome and Onboarding"
+    - name: "10:00 - 11:30 Introduction to Text Analysis"
+    - name: "11:30 - 12:30 Python Application"
+    - name: "12:30 - 13:30 Lunch"
+    - name: "13:30 - 15:30 Disovering Embeddings"
+    - name: "15:30 - 16:30 Python Application"
+    - name: "17:15 - 18:30 Guest Talk by Eunji Kim"
 
-  # Our tentative schedule can be seen [here](www.google.com). Our program focuses on ... . We will invite guest speakers to provide an overview of ..."
+- date: "Tuesday, June 24"
+  events:
+    - name: "9:30 - 10:30 Group Projects"
+    - name: "10:30 - 12:30 Enter Neural Networks"
+    - name: "12:30 - 13:30 Lunch"
+    - name: "13:30 - 14:30 Introduction to Transformers"
+    - name: "14:30 - 15:30 Regular Expressions"
+    - name: "17:15 - 18:30 Guest Talk by Jan G. Voelkel"
+
+- date: "Wednesday, June 25"
+  events:
+    - name: "9:30 - 11:00 BERT : Principles, Uses, Fine-tuning Tricks"
+    - name: "11:00 - 11:30 Finding Models on Hugging Face"
+    - name: "11:30 - 12:30 Python Application"
+    - name: "12:30 - 13:30 Lunch"
+    - name: "13:30 - 16:30 Introduction to Active Tigger"
+
+    
+- date: "Thursday, June 26"
+  events:
+    - name: "9:30 - 11:30 BERT : Introduction to Text Analysis in the Era of GPT"
+    - name: "11:30 - 12:30 Python Application: API Access, Structured Outputs"
+    - name: "12:30 - 13:30 Lunch"
+    - name: "13:30 - 15:00 Python Application: Annotation Zero-shot, Few-shot"
+    - name: "15:00 - 16:30 Python Application: Information Extraction"
+
+
+- date: "Friday, June 27"
+  events:
+    - name: "9:30 - 10:30 BERT : Project and Data Management"
+    - name: "10:30 - 12:30 Group projects"
+    - name: "12:30 - 13:30 Lunch"
+    - name: "Afternoon: LLMs and Social Sciences - International Conference at Sciences Po, including a Guest Talk by Bart Bonikowski"
+
+
+- date: "Monday, June 30"
+  events:
+    - name: "Remote Group Work"
+    - name: "14:00 Guest Talks by Noga Keidar and Daniel Silver"
+
+
+- date: "Tuesday, July 1"
+  events:
+    - name: "Remote Group Work"
+    - name: "13:00 Guest Talk by Dirk Hovy"
+
+
+- date: "Wednesday, July 2"
+  events:
+    - name: "Remote Group Work"
+    - name: "15:30 Guest Talk by Austin van Loon"
+
+
+- date: "Thursday, July 3"
+  events:
+    - name: "Remote Group Work"
+    - name: "Final Group Presentations"
+  
+
+
