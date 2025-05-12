@@ -23,7 +23,7 @@
     - name: "12:00 - 12:30 Analysis Using AI"
     - name: "12:30 - 14:00 Lunch"
     - name: "14:00 - 16:00 Scaling"
-    - name: "16:00 - 17:00 Research talk: Nicola Rennie"
+    - name: "16:00 - 17:00 Research talk: Dr Nicola Rennie"
 
 - date: 2025-05-28
   name: Network Analysis
@@ -32,7 +32,7 @@
     - name: "11:00 - 12:30 Applied Network Analysis"
     - name: "12:30 - 14:00 Lunch"
     - name: "14:00 - 16:00 Applied Network Analysis"
-    - name: "16:00 - 17:00 Research talk: Adam Chalmers"
+    - name: "16:00 - 17:00 Research talk: Dr Adam Chalmers"
 
 - date: 2025-05-29
   name: Text Analysis and NLP
@@ -42,7 +42,7 @@
     - name: "12:00 - 12:30 Individual Analysis"
     - name: "12:30 - 14:00 Lunch"
     - name: "14:00 - 16:00 Text Analysis Tutorial"
-    - name: "16:00 - 17:00 Research talk: Yusuf Cetinkaya"
+    - name: "16:00 - 17:00 Research talk: Dr Yusuf Cetinkaya"
 
 - date: 2025-05-30
   name: CSS in Practice and Ethics
@@ -68,7 +68,7 @@
   events:
     - name: "10:00 - 12:30 Group work"
     - name: "12:30 - 14:00 Lunch"
-    - name: "14:00 - 16:00 Research talk: Marion Lieutaud"
+    - name: "14:00 - 16:00 Research talk: Dr Marion Lieutaud"
     - name: "16:00 - 17:00 Exercise & Q&A"
 
 - date: 2025-06-03
@@ -77,7 +77,7 @@
     - name: "10:00 - 12:30 Group work"
     - name: "12:30 - 14:00 Lunch"
     - name: "14:00 - 16:00 Group work"
-    - name: "16:00 - 17:00 Research talk: Peaks Krafft"
+    - name: "16:00 - 17:00 Research talk: Dr Peaks Krafft"
 
 - date: 2025-06-04
   name: Group Work
@@ -93,7 +93,7 @@
     - name: "10:00 - 12:30 Group work"
     - name: "12:30 - 14:00 Lunch"
     - name: "14:00 - 16:00 Group work"
-    - name: "16:00 - 17:00 Research talk: Akhil Arora"
+    - name: "16:00 - 17:00 Research talk: Dr Akhil Arora"
 
 - date: 2025-06-06
   name: Final Day: Presentations 
