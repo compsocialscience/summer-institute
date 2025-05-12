@@ -4,7 +4,7 @@
     - name: "10:00 - 11:30 Introduction to Text Analysis"
     - name: "11:30 - 12:30 Python Application"
     - name: "12:30 - 13:30 Lunch"
-    - name: "13:30 - 15:30 Disovering Embeddings"
+    - name: "13:30 - 15:30 Discovering Embeddings"
     - name: "15:30 - 16:30 Python Application"
     - name: "17:15 - 18:30 Guest Talk by Eunji Kim"
 
@@ -40,7 +40,7 @@
     - name: "9:30 - 10:30 BERT : Project and Data Management"
     - name: "10:30 - 12:30 Group projects"
     - name: "12:30 - 13:30 Lunch"
-    - name: "Afternoon: LLMs and Social Sciences - International Conference at Sciences Po, including a Guest Talk by Bart Bonikowski"
+    - name: "Afternoon: LLMs and Social Sciences - International Roundtable with Bart Bonikowski (NYU), Matthew Connelly (Columbia), and scholars from CREST-IPP, Medialab and Paris-1"
 
 
 - date: "Monday, June 30"
@@ -63,8 +63,7 @@
 
 - date: "Thursday, July 3"
   events:
-    - name: "Remote Group Work"
-    - name: "Final Group Presentations"
+    - name: "All day -- Final Group Presentations"
   
 
 
