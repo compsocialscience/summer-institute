@@ -52,3 +52,14 @@
   image: /assets/images/georges_TAGANG.jpg # Add participant image to assets/images/ and update here.
   bio: "George Tagang est titulaire d’une licence en mathématiques de l’Université de N’Djamena (Tchad), d’un diplôme en informatique de l’Institut Africain d’Informatique (IAI-Gabon) et d’un doctorat en démographie de l’Institut de Formation et de Recherche Démographiques de l’Université de Yaoundé II (Cameroun). Chercheur et consultant international en sciences de la population, il est l’auteur de plusieurs articles scientifiques portant sur le genre et la fécondité. Parallèlement, il contribue à la rédaction d’un ouvrage collectif dans ce domaine."
   website:      # Link participant website here.
+
+  - name: "Lassana Toure" # Replace with participant name.
+  image: /assets/images/Lassana_TOURE.jpg 
+  bio: "Dr Lassana TOURE est Enseignant-Chercheur à la Faculté des Sciences Économiques et de Gestion de Bamako et Consultant indépendant basé au Mali. Spécialiste en économie rurale, en suivi-évaluation et en développement durable, il enseigne depuis 2016 et intervient dans les domaines de la gestion de projets, de l’analyse de données et de l’évaluation d’impact. Auteur de plusieurs publications scientifiques, il s'engage activement pour la professionnalisation des jeunes ainsi que pour la promotion de l’entrepreneuriat vert."
+  website: https://www.linkedin.com/in/dr-lassana-toure-7773199b/     
+
+- name: "François Xavier Ouedraogo" # Replace with participant name.
+  image: /assets/images/Xavier_ouedraogo.jpg
+  bio: " François Xavier Ouedraogo est doctorant en mathématiques appliquées à l’Université Joseph KI-ZERBO, où il se spécialise en gestion des risques financiers et assurantiels. Ses recherches actuelles portent sur la modélisation stochastique des cyber risques, en particulier à travers l’utilisation de processus de naissance pure. Il s'intéresse notamment aux phénomènes extrêmes, aux distributions à queues lourdes et aux structures de dépendance modélisées par les copules. En parallèle, il a conçu des modèles de scoring destinés à l’évaluation du risque de crédit, dans une optique d’aide à la décision. Son parcours l’a également amené à analyser le comportement des actifs financiers, en lien avec les produits dérivés et les stratégies de couverture."
+  website: https://www.researchgate.net/profile/Francois-Ouedraogo-2
+
