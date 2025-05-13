@@ -3,42 +3,42 @@
   events:
     - name: "8:00 a.m. - Recepción"
     - name: "8:30 a.m. - Bienvenida e instrucciones"
-    - name: "9:00 a.m. - Conferencia central: Unpacking Digital Methods - Prof. Janna Omena (Digital Humanities Department, King's College London), Lugar: Auditorio Mutis, Claustro"
+    - name: "9:00 a.m. - Conferencia central\nUnpacking Digital Methods - Prof. Janna Omena (Digital Humanities Department, King's College London)\nLugar: Auditorio Mutis, Claustro"
     - name: "11:00 a.m. - Café"
-    - name: "11:30 a.m. - Análisis de la Desigualdad de Oportunidades en el acceso Inmediato a la Educación Superior en Colombia - Prof. Luis Barajas, Líder de Analítica en la Dirección de Cobertura de la Secretaría de Educación del Distrito, Lugar: Auditorio Mutis, Claustro"
+    - name: "11:30 a.m. - Análisis de la Desigualdad de Oportunidades en el acceso Inmediato a la Educación Superior en Colombia - Prof. Luis Barajas, Líder de Analítica en la Dirección de Cobertura de la Secretaría de Educación del Distrito\nLugar: Auditorio Mutis, Claustro"
     - name: "1:00 p.m. - Almuerzo libre"
-    - name: "2:00 p.m. - Taller: Plataformas digitales como infraestructuras de poder: herramientas críticas para analizar materialidades, narrativas y algoritmos - Profesora Isabella Jaimes (York University, Toronto), Lugar: Laboratorios de innovación de El Tiempo, piso 3"
+    - name: "2:00 p.m. - Taller:\nPlataformas digitales como infraestructuras de poder: herramientas críticas para analizar materialidades, narrativas y algoritmos - Profesora Isabella Jaimes (York University, Toronto)\nLugar: Laboratorios de innovación de El Tiempo, piso 3"
     - name: "4:00 p.m. - Receso-café"
-    - name: "4:30 p.m. - Trabajo grupal, Lugar: Laboratorios de innovación de El Tiempo, piso 3"
+    - name: "4:30 p.m. - Trabajo grupal\nLugar: Laboratorios de innovación de El Tiempo, piso 3"
 
 - date: 2024-06-04
   name: "Miércoles 4 de Junio"
   events:
-    - name: "9:00 a.m. - Master class-Workshop: Mapping Visual Methods: The practice of Network Vision Methods - Prof. Janna Omena (Digital Humanities Department, King's College London), Lugar: Laboratorios de innovación de El Tiempo, piso 3"
+    - name: "9:00 a.m. - Master class-Workshop\n Mapping Visual Methods: The practice of Network Vision Methods - Prof. Janna Omena (Digital Humanities Department, King's College London)\nLugar: Laboratorios de innovación de El Tiempo, piso 3"
     - name: "11:00 a.m. - Café"
-    - name: "11:30 a.m. - Trabajo grupal, Lugar: Laboratorios de innovación de El Tiempo, piso 3"
+    - name: "11:30 a.m. - Trabajo grupal\nLugar: Laboratorios de innovación de El Tiempo, piso 3"
     - name: "1:00 p.m. - Almuerzo libre"
-    - name: "2:00 p.m. - Taller: Narrativas Visuales con Python: Datos que Impactan, Decisiones que Transforman - Prof. Sergio Sánchez (IDCBIS-Universidad del Rosario), Lugar: Laboratorios de innovación de El Tiempo, piso 3"
+    - name: "2:00 p.m. - Taller\nNarrativas Visuales con Python: Datos que Impactan, Decisiones que Transforman - Prof. Sergio Sánchez (IDCBIS-Universidad del Rosario)\nLugar: Laboratorios de innovación de El Tiempo, piso 3"
     - name: "3:45 p.m. - Receso-café"
-    - name: "4:00 p.m. - Conferencia: Re-positioning Numbers: From Positivist Exponents to Local Platforms - Prof. Adrian Mackenzie (Australian National University), Lugar: Laboratorios de innovación de El Tiempo, piso 3"
+    - name: "4:00 p.m. - Conferencia\nRe-positioning Numbers: From Positivist Exponents to Local Platforms - Prof. Adrian Mackenzie (Australian National University)\nLugar: Laboratorios de innovación de El Tiempo, piso 3"
 
 - date: 2024-06-05
   name: "Jueves 5 de Junio"
   events:
-    - name: "9:00 a.m. - Charla: ¿Confiar en ChatGPT? Cuando una variación sutil en el prompt puede modificar significativamente los resultados - Prof. Jaime Eduardo Cuellar (Pontifica Universidad Javeriana), Lugar: Laboratorios de innovación de El Tiempo, piso 3"
+    - name: "9:00 a.m. - Charla\n¿Confiar en ChatGPT? Cuando una variación sutil en el prompt puede modificar significativamente los resultados - Prof. Jaime Eduardo Cuellar (Pontifica Universidad Javeriana)\nLugar: Laboratorios de innovación de El Tiempo, piso 3"
     - name: "11:00 a.m. - Café"
-    - name: "11:30 a.m. - Charla: Eficiencia y equidad en la distribución de cupos escolares en Bogotá: Un enfoque basado en análisis de datos - Prof. Lina Rojas (Secretaría de Educación del Distrito), Lugar: Laboratorios de innovación de El Tiempo, piso 3"
+    - name: "11:30 a.m. - Charla\nEficiencia y equidad en la distribución de cupos escolares en Bogotá: Un enfoque basado en análisis de datos - Prof. Lina Rojas (Secretaría de Educación del Distrito)\nLugar: Laboratorios de innovación de El Tiempo, piso 3"
     - name: "1:00 p.m. - Almuerzo libre"
-    - name: "2:00 p.m. - Taller: Social Machine Learning: etiquetado, entrenamiento y evaluación - Profesor Victor Manuel Hernández (Fundación Universitaria del Area Andina), Lugar: Laboratorios de innovación de El Tiempo, piso 3"
+    - name: "2:00 p.m. - Taller\nSocial Machine Learning: etiquetado, entrenamiento y evaluación - Profesor Victor Manuel Hernández (Fundación Universitaria del Area Andina)\nLugar: Laboratorios de innovación de El Tiempo, piso 3"
     - name: "4:00 p.m. - Receso-café"
-    - name: "4:30 p.m. - Trabajo grupal, Lugar: Laboratorios de innovación de El Tiempo, piso 3"
+    - name: "4:30 p.m. - Trabajo grupal\nLugar: Laboratorios de innovación de El Tiempo, piso 3"
 
 - date: 2024-06-06
   name: "Viernes 6 de Junio"
   events:
-    - name: "9:00 a.m. - Conferencia: Moderación de contenidos: reflexión crítica e investigación - Natalia Sánchez-Querubín, Ph.D., Profesora Asistente, Nuevos Medios y Cultura Digital, Universidad de Ámsterdam (UvA), Lugar: Laboratorios de innovación de El Tiempo, piso 3"
+    - name: "9:00 a.m. - Conferencia\nModeración de contenidos: reflexión crítica e investigación - Natalia Sánchez-Querubín, Ph.D., Profesora Asistente, Nuevos Medios y Cultura Digital, Universidad de Ámsterdam (UvA)\nLugar: Laboratorios de innovación de El Tiempo, piso 3"
     - name: "10:30 a.m. - Café"
-    - name: "11:00 a.m. - Taller: Scraping como método: extracción automatizada de prensa escrita para el análisis socio-digital - Prof. Alicia Duque Abarca (IDCBIS-Universidad del Rosario), Lugar: Laboratorios de innovación de El Tiempo, piso 3"
+    - name: "11:00 a.m. - Taller\nScraping como método: extracción automatizada de prensa escrita para el análisis socio-digital - Prof. Alicia Duque Abarca (IDCBIS-Universidad del Rosario)\nLugar: Laboratorios de innovación de El Tiempo, piso 3"
     - name: "1:00 p.m. - Almuerzo libre"
     - name: "2:00 p.m. - Presentación trabajos finales"
     - name: "4:00 p.m. - Receso-café"
@@ -48,7 +48,7 @@
 - date: 2024-06-07
   name: "Sábado 7 de Junio"
   events:
-    - name: "9:00 a.m. - Data Sprint: Algorithmic tactics: empowering platforms workers through collaborative data visualizations (opcional, inscripción previa) - Fairwork Colombia-Sur Futuro-Sindicato Unidapp y ConduApp, Coordinan: Oscar Javier Maldonado y Derly Yohanna Sánchez"
+    - name: "9:00 a.m. - Data Sprint\nAlgorithmic tactics: empowering platforms workers through collaborative data visualizations (opcional, inscripción previa) - Fairwork Colombia-Sur Futuro-Sindicato Unidapp y ConduApp\nCoordinan: Oscar Javier Maldonado y Derly Yohanna Sánchez"
 
 
 
