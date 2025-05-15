@@ -29,7 +29,7 @@ Applicants must submit the following documents: 1) **a curriculum vitae**, 2) **
 
 All application materials must be submitted through the [Google Form](https://forms.gle/cGZBhYS5YRjQQz6q7) . Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by **April 4th, 2025,** and will ask participants to confirm their participation very soon thereafter.
 
-Inquiries can be sent to [sicssedinburgh2025@gmail.com](sicssedinburgh2025@gmail.com).
+Inquiries can be sent to [sicssedinburgh2025@gmail.com](sicssedinburgh2025@gmail.com). 
 
 ## Application Frequently Asked Questions
 
