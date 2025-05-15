@@ -11,7 +11,7 @@ partner_site: minnesota
 
 ## Eligibility
 
-We invite applicants from advanced undergraduate students, Ph.D. students students, postdoctoral researchers, and faculty within 7 years of their Ph.D., who are able to attend the program at Gustavus Adolphus College in Saint Peter, MN! We welcome applicants from all backgrounds and fields of study. There are no restrictions based on citizenship, country of study, or country of employment. Please note: we will not be able to sponsors visas for attendance to SICSS-Minnesota.
+We invite applicants from advanced undergraduate students, masters and doctoral students, postdoctoral researchers, and faculty within 7 years of their Ph.D. and applied social science research professionals, who are able to attend the program at Gustavus Adolphus College in Saint Peter, MN! We welcome applicants from all backgrounds and fields of study. There are no restrictions based on citizenship, country of study, or country of employment. Please note: we will not be able to sponsors visas for attendance to SICSS-Minnesota.
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp.
 
