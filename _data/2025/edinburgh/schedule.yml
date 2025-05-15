@@ -8,7 +8,7 @@
   events:
     - name: "09:00 - 10:00 Welcome"
     - name: "10:00 - 11:00 Intro to CSS"
-    - name: "11:00 - 12:00 Methodology"
+    - name: "11:00 - 12:00 Methodology" 
     - name: "12:00 - 12:30 Data Sources"
     - name: "12:30 - 14:00 Long Lunch"
     - name: "14:00 - 15:00 Reddit Tutorial"
