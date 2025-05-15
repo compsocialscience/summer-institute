@@ -5,7 +5,7 @@ main: true
 image: /assets/images/edinburgh.jpg
 ---
 
-[//]: # (ORGANIZERS: Update the info to match your location. Add a site image to /assets/images/ and update the placeholder URL above to match it. See _data/2025/Edinburgh for yml files that control the header content, location info on general sites page, people lists, and sidebar.)
+[//]: # (ORGANIZERS: Update the info to match your location. Add a site image to /assets/images/ and update the placeholder URL above to match it. See _data/2025/Edinburgh for yml files that control the header content, location info on general sites page, people lists, and sidebar.) 
 
 From May 26 to June 6, 2025, The University of Edinburgh will host the Summer Institute in Computational Social Science, to be held in Edinburgh, United Kingdom. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
 
