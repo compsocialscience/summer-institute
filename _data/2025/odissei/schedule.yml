@@ -3,11 +3,11 @@
     - name: "ODISSEI-SICSS is split into two phases. During the first week the participants will be introduced to ODISSEI and taught machine learning in Python. This will be primarily done through a course run by the eScience center. In the second week of the summer school, participants will be able to make full use of the ODISSEI infrastructure, during which they will be put into teams and challenged to work on and submit solutions to a real-life prediction problem that social scientists and policy makers are grappling with. Each team will be provided with access to FIRMBACKBONE, containing detailed data on Dutch companies, through the secure environment SANE. Specifically, researchers will get access to the corporate trade register, employment surveys, financial data, emission data, and indicators derived from websites."
     - name: "FIRMBACKBONE is a treasure trove of data which can help us predict important outcomes. The teams will compete to develop effective predictive models to answer innovative research questions. This challenge will help participants get a more hands-on experience of computational social science research with some of the most advanced data infrastructure available."
     - name: "At the end of most days of the summer school, there will be a guest speaker who will present their work or a general topic in computational social science to the participants. These talks will last 20-30 mins with 15-20 mins of Q&A. Slides will be added on the [ODISSEI Zenodo Community](https://zenodo.org/communities/odissei/records); other material will be shared via GitHub."
-    - name: "* All course sessions will take place in the Sanders Building on the Erasmus Campus Woudestein, Burgemeester Oudlaan 50, Rotterdam. You can find information [here](https://www.eur.nl/en/campus/locations/campus-woudestein#directions) and download the campus map [here](https://www.eur.nl/en/media/2024-12-230794campusplattegrondv6). Throughout the summer school, ODISSEI will organize various social events. Read more about those in the timetable below Each day will have three breaks. A coffee break in the morning, lunch at 12:00, and another coffee break in the afternoon."
+    - name: "All course sessions will take place in the Sanders Building on the Erasmus Campus Woudestein, Burgemeester Oudlaan 50, Rotterdam. You can find information [here](https://www.eur.nl/en/campus/locations/campus-woudestein#directions) and download the campus map [here](https://www.eur.nl/en/media/2024-12-230794campusplattegrondv6). Throughout the summer school, ODISSEI will organize various social events. Read more about those in the timetable below Each day will have three breaks. A coffee break in the morning, lunch at 12:00, and another coffee break in the afternoon."
 
 
 - date: Week 1
-- date: Monday June 16, 2025
+- date: Monday, June 16, 2025
   name: "Introduction to ODISSEI, Open Science and the Theme of the Summer School"
   events:
     - name: "Session 1 (10:00-12:00): Introducing ODISSEI and Computational Social Science. Speaker: [Tom Emery](https://www.eur.nl/people/tom-emery)"
@@ -15,39 +15,30 @@
     - name: "Session 3 (15:00-16:30): Introduction to [SANE](https://odissei-data.nl/facility/secure-analysis-environment-sane/). Speaker: Lucas van der Meer, CTO ODISSEI."
     - name: "Programme starts at 10:00, rather than 9:00"
     - name: "Location: Room:0.12, [Sanders building](https://g.co/kgs/ysDZytc)"
+    - name: "12:00-13:00: Lunch break"
     - name: "Social Event (17:00-19:00): Opening Drinks @ Erasmus Paviljoen, Rotterdam"
 
-- date: Tuesday June 18, 2024
-  name: "Two-day Course by the Netherlands eScience Center: Machine Learning in Python with scikit-learn"
+- date: Tuesday, June 17, 2025
+  name: "Causal Inference by [ODISSEI SoDa team](https://odissei-soda.nl/)"
   events:
-    - name: "09:00-10:00: Welcome and Introduction to Machine Learning"
-    - name: "10:10-11:00: Predictive Modeling Pipeline: Data Exploration"
-    - name: "11:10-12:00: Predictive Modeling Pipeline: Fitting a scikit-learn Model on Numerical Data"
-    - name: "12:00-13:00: Lunch Break"
-    - name: "13:00-14:00: Predictive Modeling Pipeline: Fitting a scikit-learn Model on Numerical Data"
-    - name: "14:00-15:30: Predictive Modeling Pipeline: Handling Categorical Data"
-    - name: "15:30-16:00: Introduction to LISS Data"
-    - name: "16:00-17:00: Guest lecture by [Bruno Arpino](https://www.unipd.it/en/contatti/rubrica/?detail=Y&ruolo=1&checkout=cerca&persona=ARPINO&key=A7C469BE4A6EE163893DF376A3DA19D3), University of Padua"
-    - name: "Location: Room: 3-09, [Polak building](https://maps.app.goo.gl/CmTK4gxpfMUqbhAz7)"
+    - name: "09:00-17:00: more detailed schedule of the day will be available shortly"
+    - name: "12:00-13:00: Lunch break"
+    - name: "Location: Room:0.12, [Sanders building](https://g.co/kgs/ysDZytc)"
     
-- date: Wednesday June 19, 2024
+- date: Wednesday, June 18, 2025
   name: "Two-day Course by the Netherlands eScience Center: Machine Learning in Python with scikit-learn"
   events:
-    - name: "09:00-12:00: Fertility Prediction using LISS Data"
-    - name: "12:00-13:00: Lunch Break"
-    - name: "13:00-14:00: Feature Importance Intermezzo"
-    - name: "14:00-15:30: Fertility Prediction using LISS Data"
-    - name: "15:30-16:00: Submit Results to Benchmark"
-    - name: "16:00-17:00: Guest lecture by [Katya Ivanova](https://www.tilburguniversity.edu/staff/k-o-ivanova), Tilburg University"
-    - name: "Location: Room: 3-09, [Polak building](https://maps.app.goo.gl/CmTK4gxpfMUqbhAz7)"
+    - name: "09:00-16:00: more detailed schedule of the day will be available shortly"
+    - name: "16:00-17:00: Guest lecture: Ethics in Computational Research by [Chirag Arora](https://www.tudelft.nl/staff/c.arora/), TU Delft."
+    - name: "12:00-13:00: Lunch break"
+    - name: "Location: Room:0.12, [Sanders building](https://g.co/kgs/ysDZytc)"
 
-- date: Thursday June 20, 2024
-  name: "Causal Impact Analysis & Network Analysis"
+- date: Thursday, June 19, 2024
+  name: "Two-day Course by the Netherlands eScience Center: Machine Learning in Python with scikit-learn"
   events:
-    - name: "09:00-16:00: Causal Impact Analysis & Network Analysis by [Erik-Jan van Kesteren](https://www.uu.nl/staff/EvanKesteren), [Javier Garcia-Bernardo](https://www.uu.nl/staff/JGarciaBernardo)"
-    - name: "16:00-17:00: Guest lecture by [Eva Beaujoan](https://ufind.univie.ac.at/de/person.html?id=113898), online"
-    - name: "Location: Room: 3-09, [Polak building](https://maps.app.goo.gl/CmTK4gxpfMUqbhAz7)"
-    - name: "Social Event (17:30-20:00): Drinks & Dinner at De Gele Kanarie in Rotterdam"
+    - name: "09:00-17:00: more detailed schedule of the day will be available shortly"
+    - name: "15:00-16:00: Guest lecture: Corporate networks by prof. [Eelke Heemskerk](https://www.uva.nl/profiel/h/e/e.m.heemskerk/e.m.heemskerk.html), University of Amsterdam, Faculty of Social and Behavioural Sciences."
+    - name: "Social Event (17:30-20:00): Drinks at De Gele Kanarie in Rotterdam"
     
 - date: Friday June 21, 2024
   name: "Introduction to the LISS Benchmarking Challenge & Administrative Data"
