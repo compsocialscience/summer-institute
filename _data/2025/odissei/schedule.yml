@@ -33,55 +33,59 @@
     - name: "12:00-13:00: Lunch break"
     - name: "Location: Room:0.12, [Sanders building](https://g.co/kgs/ysDZytc)"
 
-- date: Thursday, June 19, 2024
+- date: Thursday, June 19, 2025
   name: "Two-day Course by the Netherlands eScience Center: Machine Learning in Python with scikit-learn"
   events:
     - name: "09:00-17:00: more detailed schedule of the day will be available shortly"
     - name: "15:00-16:00: Guest lecture: Corporate networks by prof. [Eelke Heemskerk](https://www.uva.nl/profiel/h/e/e.m.heemskerk/e.m.heemskerk.html), University of Amsterdam, Faculty of Social and Behavioural Sciences."
+    - name: "12:00-13:00: Lunch break"
     - name: "Social Event (17:30-20:00): Drinks at De Gele Kanarie in Rotterdam"
     
-- date: Friday June 21, 2024
-  name: "Introduction to the LISS Benchmarking Challenge & Administrative Data"
+- date: Friday June 20, 2025
+  name: "Annotation workshop by [ODISSEI SoDa team](https://odissei-soda.nl/)"
   events:
-    - name: "09:00-12:00: Prefer Start"
-    - name: "13:00-15:00: PreFer First Submission"
-    - name: "15:00-16:00: HPC for Social Research"
-    - name: "16:00-17:00: Guest lecture by [Tomáš Sobotka](https://www.oeaw.ac.at/vid/people/staff/tomas-sobotka)" 
-    - name: "Location: Room: 1-12, [Langeveld building](https://g.co/kgs/fZXkxez)"
+    - name: "09:00-17:00: more detailed schedule of the day will be available shortly"
+    - name: "12:00-13:00: Lunch break"
+    - name: "Location: Room:0.12, [Sanders building](https://g.co/kgs/ysDZytc)"
      
 - date: Week 2
-  name: "Benchmarking Challenge"
-  events: 
-    - name: "In the second week, the teams will be given access to the CBS remote access environment and will be able to work on the same prediction task but based on the CBS administrative micro-data. They will have one week to work in their teams to develop their prediction models with the winners announced on the final Friday of the summer school. For this final element of the challenge, teams will not only be assessed by how well their model predicts the outcomes for the LISS respondents, but also the degree to which it predicts fertility behavior in the wider population (i.e. its generalizability)."
+  name: "Benchmarking Challenge" 
     
-- date: Monday June 24, 2024
+- date: Monday June 23, 2025
   name: "Benchmarking Challenge"
   events:
-    - name: "10:00 - 16:00 Group Project: Benchmarking Challenge"
-    - name: "Location: Room: 3-09, [Polak building](https://maps.app.goo.gl/CmTK4gxpfMUqbhAz7)"
+    - name: "10:00-11:00: Introducing the Data Challenge"
+    - name: "11:00-12:00: Getting into SANE"
+    - name: "13:00-17:00: Group Project: Benchmarking Challenge"
+    - name: "12:00-13:00: Lunch break"
+    - name: "Location: Room:0.12, [Sanders building](https://g.co/kgs/ysDZytc)"
  
-- date: Tuesday June 25, 2024
+- date: Tuesday June 24, 2025
   name: "Benchmarking Challenge"
   events:
     - name: "09:00 - 17:00 Group Project: Benchmarking Challenge"
-    - name: "Location: Room: 3-09, [Polak building](https://maps.app.goo.gl/CmTK4gxpfMUqbhAz7)"
+    - name: "12:00-13:00: Lunch break"
+    - name: "Location: Room:0.12, [Sanders building](https://g.co/kgs/ysDZytc)"
   
-- date: Wednesday June 26, 2024
+- date: Wednesday June 25, 2025
   name: "Benchmarking Challenge"
   events:
     - name: "09:00 - 17:00 Group Project: Benchmarking Challenge"
-    - name: "Location: Room: 3-09, [Polak building](https://maps.app.goo.gl/CmTK4gxpfMUqbhAz7)"
+    - name: "12:00-13:00: Lunch break"
+    - name: "Location: Room:0.12, [Sanders building](https://g.co/kgs/ysDZytc)"
   
-- date: Thursday June 27, 2024
+- date: Thursday June 26, 2025
   name: "Benchmarking Challenge"
   events:
     - name: "09:00 - 17:00 Group Project: Benchmarking Challenge"
-    - name: "Location: Room: 3-09, [Polak building](https://maps.app.goo.gl/CmTK4gxpfMUqbhAz7)"
-    - name: "Closing Dinner. Erasmus Rotterdam"
+    - name: "12:00-13:00: Lunch break"
+    - name: "Location: Room:0.12, [Sanders building](https://g.co/kgs/ysDZytc)"
+    - name: "Closing dinner @Stockholm Bar, Rotterdam"
   
-- date: Friday June 28, 2024
+- date: Friday June 27, 2025
   name: "Benchmarking Challenge"
   events:
     - name: "09:00 - 12:00 Group Project: Benchmarking Challenge"
     - name: "12:30 - 17:00 Presentations"
-    - name: "Location: Room: 3-09, [Polak building](https://maps.app.goo.gl/CmTK4gxpfMUqbhAz7)"
+    - name: "12:00-13:00: Lunch break"
+    - name: "Location: Room:0.12, [Sanders building](https://g.co/kgs/ysDZytc)"
