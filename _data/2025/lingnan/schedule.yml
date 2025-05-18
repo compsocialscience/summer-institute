@@ -1,52 +1,64 @@
 - date: "June 16, 2025"
   events:
-    - name: "10:00 - 12:20 Theory Building and CSS<br>Speaker: Pedro Seguel"
-    - name: "14:00 - 16:20 Theory Building and CSS<br>Speaker: Pedro Seguel"
-    - name: "16:30 - 18:00 Guest Lecture<br>Speaker: TBC"
+    - name: "10:00 - 12:30 Welcome & Data Collection 1: Selecting the Proper Sources and Tools"
+    - name: "14:00 - 16:30 Data Collection 2: Gathering Behaviors and Communications"
+    - name: "17:00 - 18:20 Guest Lecture<br>Speaker: Eun Kyong Shin, Korea University"
 
 - date: "June 17, 2025"
   events:
-    - name: "10:00 - 12:20 Data extraction<br>Speaker: Pablo Beytía"
-    - name: "14:00 - 16:20 Data extraction<br>Speaker: Pablo Beytía"
-    - name: "16:30 - 18:00 Guest Lecture<br>Speaker: Pedro Seguel"
+    - name: "10:00 - 12:30 Introduction to Text Analysis"
+    - name: "14:00 - 16:30 Supervised Text Analysis"
+    - name: "17:00 - 18:20 Guest Lecture<br>Speaker: Alex Preda, Lingnan University"
 
 - date: "June 18, 2025"
   events:
-    - name: "10:00 - 12:20 Supervised NLP<br>Speaker: Francisco Olivos/Frankie Wong"
-    - name: "14:00 - 16:20 Supervised NLP<br>Speaker: Francisco Olivos/Frankie Wong"
-    - name: "16:30 - 18:00 Guest Lecture<br>Speaker: Pablo Beytía"
+    - name: "10:00 - 12:30 Unsupervised Text Analysis I"
+    - name: "14:00 - 16:30 Unsupervised Text Analysis II"
+    - name: "17:00 - 18:20 Guest Lecture<br>Speaker: Siqi Han, CUHK"
 
 - date: "June 19, 2025"
   events:
-    - name: "10:00 - 12:20 Unsupervised NLP<br>Speaker: Francisco Olivos/Frankie Wong"
-    - name: "14:00 - 16:20 Unsupervised NLP<br>Speaker: Francisco Olivos/Frankie Wong"
+    - name: "10:00 - 12:30 LLM-Agents for Classification I"
+    - name: "14:00 - 16:30 LLM-Agents for Classification II"
+    - name: "17:00 - 18:20 Guest Lecture<br>Speaker: Gleb Papyshev, HKUST"
 
 - date: "June 20, 2025"
   events:
-    - name: "10:00 - 12:20 Image clustering<br>Speaker: Tobias Kamelski"
-    - name: "14:00 - 16:20 Image clustering<br>Speaker: Tobias Kamelski"
+    - name: "10:00 - 12:30 Image as Data I"
+    - name: "14:00 - 16:30 Image as Data II"
+    - name: "17:00 - 18:20 Guest Lecture<br>Speaker: TBA"
 
 - date: "June 23, 2025"
   events:
-    - name: "10:00 - 12:20 Group project<br>Speaker: Students"
-    - name: "14:00 - 16:20 Guest Lecture<br>Speaker: TBC"
+    - name: "10:00 - 11:20 Introduction to Group Projects"
+    - name: "11:30 - 12:30 Group Work"
+    - name: "14:00 - 16:30 Group Work"
+    - name: "17:00 - 18:20 Guest Lecture<br>Speaker: Pablo Beytía, Pontificia Universidad Católica de Chile"
 
 - date: "June 24, 2025"
   events:
-    - name: "10:00 - 12:20 Group project<br>Speaker: Students"
-    - name: "14:00 - 16:20 Speaker<br>Speaker: TBC"
+    - name: "10:00 - 11:20 Guest Lecture<br>Speaker: Alan Lee, Lingnan University"
+    - name: "11:30 - 12:30 Group Work"
+    - name: "14:00 - 16:30 Group Work"
+    - name: "17:00 - 18:20 Guest Lecture<br>Speaker: Francisco Cisternas, CUHK"
 
 - date: "June 25, 2025"
   events:
-    - name: "10:00 - 12:20 Group project<br>Speaker: Students"
-    - name: "14:00 - 16:20 Guest Lecture<br>Speaker: TBC"
+    - name: "10:00 - 11:20 Guest Lecture<br>Speaker: Frankie H.C. Wong, Lingnan University"
+    - name: "11:30 - 12:30 Pep Talks"
+    - name: "14:00 - 16:30 Group Work"
+    - name: "17:00 - 18:20 Guest Lecture<br>Speaker: Pedro Seguel, Toronto Metropolitan University"
 
 - date: "June 26, 2025"
   events:
-    - name: "10:00 - 12:20 Group project<br>Speaker: Students"
-    - name: "14:00 - 16:20 Guest Lecture<br>Speaker: TBC"
+    - name: "10:00 - 11:20 Guest Lecture<br>Speaker: Francisco Olivos, Lingnan University"
+    - name: "11:30 - 12:30 Group Work"
+    - name: "14:00 - 16:30 Group Work"
+    - name: "17:00 - 18:20 Guest Lecture<br>Speaker: Yiting Chen, Lingnan University"
 
 - date: "June 27, 2025"
   events:
-    - name: "10:00 - 12:20 Presentations<br>Speaker: Students"
-    - name: "14:00 - 16:20 Presentations<br>Speaker: Students"
+    - name: "10:00 - 11:20 Guest Lecture<br>Speaker: TBA"
+    - name: "11:30 - 12:30 Group Presentations"
+    - name: "14:00 - 16:30 Group Presentations"
+    - name: "17:00 - 18:20 Dinner at Chinese Restaurant, Lingnan Campus"
