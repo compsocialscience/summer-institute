@@ -2,25 +2,25 @@
   events:
     - name: "10:00 - 12:30 Welcome & Data Collection 1: Selecting the Proper Sources and Tools"
     - name: "14:00 - 16:30 Data Collection 2: Gathering Behaviors and Communications"
-    - name: "17:00 - 18:20 Guest Lecture<br>Speaker: Eun Kyong Shin, Korea University"
+    - name: "17:00 - 18:20 Guest Lecture<br>Speaker: Eun Kyong Shin, Korea University<br>Title: Leveraging Machine Learning for Cutting-Edge Innovations in Social Science Research"
 
 - date: "June 17, 2025"
   events:
     - name: "10:00 - 12:30 Introduction to Text Analysis"
     - name: "14:00 - 16:30 Supervised Text Analysis"
-    - name: "17:00 - 18:20 Guest Lecture<br>Speaker: Alex Preda, Lingnan University"
+    - name: "17:00 - 18:20 Guest Lecture<br>Speaker: Alex Preda, Lingnan University<br>Title: Blind Date: Status Competitions and Network Initiation in an Influencer Economy"
 
 - date: "June 18, 2025"
   events:
     - name: "10:00 - 12:30 Unsupervised Text Analysis I"
     - name: "14:00 - 16:30 Unsupervised Text Analysis II"
-    - name: "17:00 - 18:20 Guest Lecture<br>Speaker: Siqi Han, CUHK"
+    - name: "17:00 - 18:20 Guest Lecture<br>Speaker: Siqi Han, CUHK<br>Title: Measuring Diversity: Knowledge and Skill Cross-Fertilization with Computational Methods"
 
 - date: "June 19, 2025"
   events:
     - name: "10:00 - 12:30 LLM-Agents for Classification I"
     - name: "14:00 - 16:30 LLM-Agents for Classification II"
-    - name: "17:00 - 18:20 Guest Lecture<br>Speaker: Gleb Papyshev, HKUST"
+    - name: "17:00 - 18:20 Guest Lecture<br>Speaker: Gleb Papyshev, HKUST<br>Title: Not Bugs but Features: Unavoidable Risks of Large Language Models"
 
 - date: "June 20, 2025"
   events:
@@ -33,28 +33,28 @@
     - name: "10:00 - 11:20 Introduction to Group Projects"
     - name: "11:30 - 12:30 Group Work"
     - name: "14:00 - 16:30 Group Work"
-    - name: "17:00 - 18:20 Guest Lecture<br>Speaker: Pablo Beytía, Pontificia Universidad Católica de Chile"
+    - name: "17:00 - 18:20 Guest Lecture<br>Speaker: Pablo Beytía, Pontificia Universidad Católica de Chile<br>Title: Monitor Social and Its Creation of Computational Social Science Tools for Organizations and Citizens"
 
 - date: "June 24, 2025"
   events:
-    - name: "10:00 - 11:20 Guest Lecture<br>Speaker: Alan Lee, Lingnan University"
+    - name: "10:00 - 11:20 Guest Lecture<br>Speaker: Alan Lee, Lingnan University<br>Title: Computational vs Data-Science Approaches in Understanding Psychological Processes"
     - name: "11:30 - 12:30 Group Work"
     - name: "14:00 - 16:30 Group Work"
-    - name: "17:00 - 18:20 Guest Lecture<br>Speaker: Francisco Cisternas, CUHK"
+    - name: "17:00 - 18:20 Guest Lecture<br>Speaker: Francisco Cisternas, CUHK<br>Title: Sustainability Meets Data Science: Predicting and Nudging Sustainable Consumer Choices"
 
 - date: "June 25, 2025"
   events:
-    - name: "10:00 - 11:20 Guest Lecture<br>Speaker: Frankie H.C. Wong, Lingnan University"
+    - name: "10:00 - 11:20 Guest Lecture<br>Speaker: Frankie H.C. Wong, Lingnan University<br>Title: Fantastic AIs and Where to Find Them: Demystifying the Technology and Its Social Implications"
     - name: "11:30 - 12:30 Pep Talks"
     - name: "14:00 - 16:30 Group Work"
-    - name: "17:00 - 18:20 Guest Lecture<br>Speaker: Pedro Seguel, Toronto Metropolitan University"
+    - name: "17:00 - 18:20 Guest Lecture<br>Speaker: Pedro Seguel, Toronto Metropolitan University<br>Title: Navigating Skill Changes in IT: The Role of IT Occupational Vision in Emerging Data Science Jobs"
 
 - date: "June 26, 2025"
   events:
-    - name: "10:00 - 11:20 Guest Lecture<br>Speaker: Francisco Olivos, Lingnan University"
+    - name: "10:00 - 11:20 Guest Lecture<br>Speaker: Francisco Olivos, Lingnan University<br>Title: Integration of AI in Teaching and Learning"
     - name: "11:30 - 12:30 Group Work"
     - name: "14:00 - 16:30 Group Work"
-    - name: "17:00 - 18:20 Guest Lecture<br>Speaker: Yiting Chen, Lingnan University"
+    - name: "17:00 - 18:20 Guest Lecture<br>Speaker: Yiting Chen, Lingnan University<br>Title: Better and Faster Decisions with Recommendation Algorithms"
 
 - date: "June 27, 2025"
   events:
