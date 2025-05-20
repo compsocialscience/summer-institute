@@ -1,0 +1,16 @@
+- name: Clifford Odimegwu
+  image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
+  bio: "Clifford Odimegwu is a leading African demographer and Professor of Demography, Social Statistics, and Population Health at the University of the Witwatersrand, Johannesburg. His research focuses on fertility, population health, and social determinants of well-being, with over 200 publications to his name. He is editor of The Routledge Handbook of African Demography and actively supports capacity strengthening across Africa through mentorship, training, and research leadership. Professor Odimegwu’s work continues to shape demographic scholarship and policy across the continent."
+  website: https://www.wits.ac.za/people/academic-a-z-listing/o/cliffordodimegwuwitsacza/
+
+- name: Pedzisai Ndagurwa
+  image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
+  bio: ​"Pedzisai Ndagurwa is a Senior Lecturer in Demography and Population Studies at the University of the Witwatersrand, Johannesburg. Holding a Ph.D. from Wits, his research focuses on fertility transitions, household structures, and quality of life in sub-Saharan Africa. Proficient in both quantitative and qualitative data analysis tools, Dr. Ndagurwa has contributed to numerous publications and international conferences, including the 2024 ISQOLS conference. His work provides valuable insights into the socio-demographic dynamics shaping African communities."
+  website: https://www.wits.ac.za/people/academic-a-z-listing/n/pedzisaindagurwawitsacza/
+
+- name: Emmanuel Olamijuwon
+  image: /assets/images/eolamijuwon.png  # Add faculty image to assets/images/ and update here.
+  bio: "Emmanuel Olamijuwon is a Lecturer in Social and Health Data Science at the University of St Andrews, UK. His research explores the intersections of digital technology, health, and social inequality in Africa, focusing on youth sexual health, antimicrobial resistance, and data-driven public health strategies. A recipient of the Green Talents Award, he has contributed to projects like HATUA and CARE, and actively mentors emerging scholars in digital demography and health equity."
+  website: https://e.olamijuwon.com/
+
+# Add more faculty with the same format as above...

@@ -26,10 +26,6 @@
   image: /assets/images/cmu25/participants/SGIgwe.png  
   bio: "Stacy Godfreey-Igwe is a PhD Student in the Department of Engineering and Public Policy at Carnegie Mellon University. Her research broadly applies statistical models to understand the impact of extreme temperatures upon residential energy consumption for disadvantaged communities. Previously, she spent a few years working in the science policy space and holds a double major BS from MIT in Mechanical Engineering and African & African Diaspora Studies."
 
-- name: "Hailin Hao"
-  image: /assets/images/cmu25/participants/HHao.jpg
-  bio: "Hailin Hao is a 4th-year PhD student in Linguistics at the University of Southern California. His research explores the cognitive and social aspects of human language understanding and aims to improve NLP systems by integrating insights from psycholinguistics and social sciences. He is also interested in text analysis for trait detection and the evaluation of large language models."
-
 - name: "Rachel Jones" 
   image: /assets/images/cmu25/participants/RJones.jpg  
   bio: " Racheal Jones is a graduate student of Public Policy & Management at Carnegie Mellon University. She received her Bachelor's of Arts in Sociology from the University of Florida where she studied family violence and examined racial bias in perceived worthiness of housing candidates. Her professional and academic interests include demography, public health and housing policy, and sustainable economic development. "
@@ -78,10 +74,6 @@
 - name: "Adriana Stephan"
   image: /assets/images/cmu25/participants/AStephan.jpg
   bio: "Adriana Stephan is an artificial intelligence and cybersecurity researcher and policy analyst. She is PhD student at the Oxford Internet Institute currently researching how citizens evaluate large language model systems."
-
-- name: "Jillian Stephenson" 
-  image: /assets/images/cmu25/participants/JStephenson.jpg  
-  bio: " Jillian Stephenson is an Assistant Teaching Professor at Heinz College of Information Systems and Public Policy, Carnegie Mellon University. Leveraging her professional credentials as a Certified Public Accountant, she integrates industry experience in accounting and financial reporting into her pedagogical approach. Her research interests encompass the dynamic interplay of public policies related to K-12 education and youth mental health, alongside the examination of fiscal policies designed to safeguard consumer investments. "
 
 - name: "Chloe Thompson"
   image: /assets/images/cmu25/participants/CThompson.jpg 

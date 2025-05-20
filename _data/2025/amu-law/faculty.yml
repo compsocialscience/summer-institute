@@ -1,5 +1,5 @@
 - name: Igor Gontarz, PhD
-  image: /assets/images/igor.png
+  image: /assets/images/igor_gontarz.jpeg
   bio: Igor Gontarz is a lecturer at the Adam Mickiewicz University in Poznań. His scientific research focuses on the right to information and the automation of public administration. Member of research projects devoted to digitalisation of judiciary, algorithms, and criminal procedure.
 
 - name: Paulina Klisowska
@@ -14,6 +14,14 @@
   image: /assets/images/lukasz.png
   bio: Lukasz Szoszkiewicz is an Assistant Professor at Adam Mickiewicz University, Data Coordinator within the UN Global Study on Children Deprived of Liberty. A former participant of SICSS-Law 2021 (Maastricht University) and SICSS-AMU/Law organizer in 2022. His research interests include international protection of human rights and data science. Knows basics of Python and has advanced knowledge of SPSS.
 
+- name: Anna Przybylska
+  image: /assets/images/Anna_Przybylska.JPG
+  bio: Anna Przybylska is a fourth-year Law student at the Faculty of Law and Administration at Adam Mickiewicz University in Poznań. She holds a Master’s degree in Management and Business Law as well as a Bachelor’s degree in European Law. Her academic interests are focused on the application of artificial intelligence in political marketing and its impact on the state of modern democracy.
+  
+- name: Zuzanna Duszyńska
+  image: /assets/images/Zuzanna_Duszynska.jpg
+  bio: Zuzanna Duszyńska is a Master's student in Management and Business Law at Adam Mickiewicz University in Poznań and a graduate of European Law at the same institution. Her academic interests and research focus on American law, management in the IT sector, and cybersecurity regulations.
+  
 - name: Wojciech Biernacki
   image: /assets/images/WB_photo.jpg
   bio: Wojciech Biernacki is an extramural PhD researcher and cooperator at the European Law Chair at the Faculty of Law and Administration at the Adam Mickiewicz University in Poznań, and an attorney’s assistant. In his research, he focuses on intellectual property rights, mostly copyright, and issues related to data processing and data ownership. He is familiar with the basics of Python, PHP, and MySQL databases.

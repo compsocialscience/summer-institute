@@ -1,5 +1,92 @@
-- date: "June 3 - June 6, 2025"
+- date: 2024-06-03
+  name: "Martes 3 de Junio"
   events:
-    - name: "Schedule coming soon. Check back for updates!" # Update this line or add markdown for your site's schedule.
+    - name: "8:00 a.m. - Recepción"
+    - name: "8:30 a.m. - Bienvenida e instrucciones"
+    - name: |
+        9:00 a.m. - Conferencia central  
+        Unpacking Digital Methods - Prof. Janna Omena (King's College London)  
+        Lugar: Auditorio Mutis, Claustro
+    - name: "11:00 a.m. - Café"
+    - name: |
+        11:30 a.m. - Análisis de la Desigualdad de Oportunidades en la Educación Superior  
+        Prof. Luis Barajas, Secretaría de Educación del Distrito  
+        Lugar: Auditorio Mutis, Claustro
+    - name: "1:00 p.m. - Almuerzo libre"
+    - name: |
+        2:00 p.m. - Taller: Plataformas digitales como infraestructuras de poder  
+        Profesora Isabella Jaimes (York University)  
+        Lugar: Laboratorios de innovación de El Tiempo, piso 3 - Contenido: [Material del Taller](https://github.com/DISOR-LAB/Taller-Plataformas-digitales-como-infraestructuras-de-poder)
+    - name: "4:00 p.m. - Receso-café"
+    - name: |
+        4:30 p.m. - Trabajo grupal  
+        Lugar: Laboratorios de innovación de El Tiempo, piso 3
 
-  # Our tentative schedule can be seen [here](www.google.com). Our program focuses on ... . We will invite guest speakers to provide an overview of ..."
+- date: 2024-06-04
+  name: "Miércoles 4 de Junio"
+  events:
+    - name: |
+        9:00 a.m. - Master class-Workshop: Mapping Visual Methods  
+        Prof. Janna Omena (King's College London)  
+        Lugar: Laboratorios de innovación de El Tiempo, piso 3
+    - name: "11:00 a.m. - Café"
+    - name: |
+        11:30 a.m. - Trabajo grupal  
+        Lugar: Laboratorios de innovación de El Tiempo, piso 3
+    - name: "1:00 p.m. - Almuerzo libre"
+    - name: |
+        2:00 p.m. - Taller: Narrativas Visuales con Python  
+        Prof. Sergio Sánchez (IDCBIS-Universidad del Rosario)  
+        Lugar: Laboratorios de innovación de El Tiempo, piso 3 - Contenido: [Material del Taller](https://github.com/DISOR-LAB/Taller---Narrativas-Visuales-con-Python)
+    - name: "3:45 p.m. - Receso-café"
+    - name: |
+        4:00 p.m. - Conferencia: Re-positioning Numbers  
+        Prof. Adrian Mackenzie (Australian National University)  
+        Lugar: Laboratorios de innovación de El Tiempo, piso 3
+
+- date: 2024-06-05
+  name: "Jueves 5 de Junio"
+  events:
+    - name: |
+        9:00 a.m. - Charla: ¿Confiar en ChatGPT?  
+        Prof. Jaime Eduardo Cuellar (Pontificia Universidad Javeriana)  
+        Lugar: Laboratorios de innovación de El Tiempo, piso 3
+    - name: "11:00 a.m. - Café"
+    - name: |
+        11:30 a.m. - Charla: Eficiencia en distribución de cupos escolares  
+        Prof. Lina Rojas (Secretaría de Educación del Distrito)  
+        Lugar: Laboratorios de innovación de El Tiempo, piso 3
+    - name: "1:00 p.m. - Almuerzo libre"
+    - name: |
+        2:00 p.m. - Taller: Social Machine Learning  
+        Prof. Victor Manuel Hernández (Fundación Universitaria del Área Andina, PUJ, UR)  
+        Lugar: Laboratorios de innovación de El Tiempo, piso 3 - Contenido: [Material del Taller](https://github.com/DISOR-LAB/Taller-Social-Machine-Learning-etiquetado-entrenamiento-y-evaluaci-n-)
+    - name: "4:00 p.m. - Receso-café"
+    - name: |
+        4:30 p.m. - Trabajo grupal  
+        Lugar: Laboratorios de innovación de El Tiempo, piso 3
+
+- date: 2024-06-06
+  name: "Viernes 6 de Junio"
+  events:
+    - name: |
+        9:00 a.m. - Conferencia: Moderación de contenidos  
+        Prof. Natalia Sánchez-Querubín (Universidad de Ámsterdam)  
+        Lugar: Laboratorios de innovación de El Tiempo, piso 3
+    - name: "10:30 a.m. - Café"
+    - name: |
+        11:00 a.m. - Taller: Scraping para análisis socio-digital  
+        Prof. Alicia Duque Abarca (IDCBIS-Universidad del Rosario)  
+        Lugar: Laboratorios de innovación de El Tiempo, piso 3 - Contenido: [Material del Taller](https://github.com/DISOR-LAB/Taller-Scraping-como-metodo-extraccion-automatizada-de-prensa-escrita-para-el-an-lisis-socio-digital)
+    - name: "1:00 p.m. - Almuerzo libre"
+    - name: "2:00 p.m. - Presentación trabajos finales"
+    - name: "4:00 p.m. - Receso-café"
+    - name: "4:30 p.m. - Cierre y conclusiones, a cargo de Prof. Oscar Javier Maldonado"
+    - name: "5:30 p.m. - Certificaciones y clausura"
+
+- date: 2024-06-07
+  name: "Sábado 7 de Junio"
+  events:
+    - name: |
+        9:00 a.m. - Data Sprint: Algorithmic tactics (inscripción previa)  
+        Coordinan: Oscar Javier Maldonado y Derly Yohanna Sánchez  
