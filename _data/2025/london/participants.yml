@@ -8,6 +8,11 @@
 #  bio: "Ziming Xu is a PhD student at the AI Centre, Department of Computer Science, University College London. He is also affiliated with the Information and Decision Systems group. Prior to that, he obtained a Master's degree in Data Science at the University of Bristol and a Bachelor's degree in Management at the University of Electronic Science and Technology of China. His current research focuses on modelling and predicting human spreading behaviour within online social networks."
 #  #website: https://www.google.com  # Link participant website here.
 
+#- name: "Zerui Tian" # Replace with participant name.
+#  image: /assets/images/London_2025_Participants_Zerui.jpg  # Add participant image to assets/images/ and update here.
+#  bio: "Zerui is a current DPhil student at the Department of Sociology, University of Oxford. His research leverages causal and computational methods to study caregiving, assortative mating, and other aspects of contemporary family life. Prior to Oxford, he received his Master's degree from Stanford University and Bachelor's degree from Columbia University"
+#  #website: https://www.google.com  # Link participant website here.
+
 #- name: "Yu Xiang" # Replace with participant name.
 #  image: /assets/images/London_2025_Participants_Yu.jpg  # Add participant image to assets/images/ and update here.
 #  bio: "Yu Xiang is a Doctoral Researcher in Finance at Aalto University. Her work focuses on the intersection of social networks, behavioral finance, and policy. She is interested in causal inference and network analysis. She previously completed her MSc in Economics (SGPE) from the University of Edinburgh."
@@ -16,6 +21,26 @@
 #- name: "Wendi Li" # Replace with participant name.
 #  image: /assets/images/London_2025_Participants_Wendi.jpg  # Add participant image to assets/images/ and update here.
 #  bio: "Wendi Li is a PhD student in the Department of Informatics and Networked Systems, University of Pittsburgh. She previously completed her master's degree at the Centre for Advanced Spatial Analysis (CASA), UCL. Her research interests lie in labor markets, social networks, and complex systems."
+#  #website: https://www.google.com  # Link participant website here.
+
+#- name: "Urtė Adomaitytė" # Replace with participant name.
+#  image: /assets/images/London_2025_Participants_Urte.jpg  # Add participant image to assets/images/ and update here.
+#  bio: "I am a final-year PhD student in Applied Mathematics at King's College London. My work mainly consists of applying statistical physics methods to investigate typical performance of simple machine learning models and statistical inference of signals on graphs in high dimensions. I am also interested in modelling of social phenomena, with a particular interest in opinion dynamics."
+#  #website: https://www.google.com  # Link participant website here.
+
+#- name: "Tianqi Gong" # Replace with participant name.
+#  image: /assets/images/London_2025_Participants_Tianqi.jpg  # Add participant image to assets/images/ and update here.
+#  bio: "Tianqi Gong is a PhD student in Social Science at University College London (UCL), where she also earned an MA in Comparative Economics and Policy. Her research interests include intergenerational mobility, economic inequality, and geographic disparities. Using quantitative methods, she wants to explore how emerging technologies influence social mobility."
+#  #website: https://www.google.com  # Link participant website here.
+
+#- name: "Teodor Zidaru" # Replace with participant name.
+#  image: /assets/images/London_2025_Participants_Teo.jpg  # Add participant image to assets/images/ and update here.
+#  bio: "I am an economic and digital anthropologist with expertise on how and why people trust and mistrust technologies, institutions, and each other as they engage in diverse competitive and collaborative endeavours. I am interested not just in the way ordinary people live with data, but also in the way data science literacy constitutes communities of practice that reshape global knowledge economies and precipitate novel understandings of what humans can or cannot entrust to technology. Accordingly, I have been developing analyses that bridge data science and the social sciences by combining analytics developed in linguistic anthropology and critical data studies to highlight the generative power of narratives and other sociolinguistic forms in technological use and design. At SICCS, I would be keen to collaborate on research that enhances the ability of researchers as well as regulators and policymakers to refine LLM outputs, for example by modelling and accounting for the variety of ways that diverse social, economic, and institutional actors deploy LLMs with different premises and aims."
+#  #website: https://www.google.com  # Link participant website here.
+
+#- name: "Sidharth Rony" # Replace with participant name.
+#  image: /assets/images/London_2025_Participants_Sidharth.jpg  # Add participant image to assets/images/ and update here.
+#  bio: "Sidharth is a Postdoctoral Researcher at UNU-MERIT, specializing in the intersection of education, technology, and labor economics. He recently completed his PhD in Economics at Royal Holloway, University of London, where his research applied computational and machine learning methods to analyze automation, skills, and labor market dynamics. His work focuses on job advertisements to measure skill demand and wage premiums. Passionate about interdisciplinary collaboration, Sidharth continues to explore how digital transformation reshapes work and education globally."
 #  #website: https://www.google.com  # Link participant website here.
 
 #- name: "Sabrina Aufiero" # Replace with participant name.
@@ -36,6 +61,11 @@
 #- name: "Matteo Prandi" # Replace with participant name.
 #  image: /assets/images/London_2025_Participants_Matteo.jpg  # Add participant image to assets/images/ and update here.
 #  bio: "Matteo Prandi is a PhD student in Socio-Economic and Statistical Studies at Sapienza University of Rome. His research investigates how emerging technologies, especially GenAI, reshape labor markets and society with a particular focus on evolving media narratives and regulatory frameworks. Drawing on his background as quantitative risk analyst at Euronext, he employs computational methods, including Natural Language Processing (NLP) and Large Language Models (LLMs), to analyze large-scale data and better understand the impacts of technological change. Matteo focuses on evaluating AI's societal implications and fostering informed approaches to technology transition through data-driven research at the intersection of technology, policy, and society."
+#  #website: https://www.google.com  # Link participant website here.
+
+#- name: "Mark Reedy" # Replace with participant name.
+#  image: /assets/images/London_2025_Participants_Mark.jpg  # Add participant image to assets/images/ and update here.
+#  bio: "Mark is a PhD Political Science candidate at the University of California, Davis, focused on international relations, comparative politics, and estimating conflict probability. His research focuses on leveraging computational frameworks common in other sciences to model political science phenomena, in particular the use of network analysis to model political instability. He has extensive professional experience working with China and served there as a US diplomat and macroeconomic analyst prior to PhD study. A central focus of Mark's research is the rapid development of digital authoritarian systems and the potential to combine emerging computer science technologies with data analysis to identify clusters of risk in domestic and international politics. He earned a Masters degree in Development Studies from the London School of Economics and an undergraduate degree in International Economics from Georgetown University's School of Foreign Service."
 #  #website: https://www.google.com  # Link participant website here.
 
 #- name: "Madiareni Sulaiman" # Replace with participant name.
@@ -83,6 +113,11 @@
 #  bio: "Ekaterina is a Postdoctoral Research Fellow in Economics and Data Science at the University Côte d’Azur (France), affiliated with GREDEG and EUR ELMI. Her research combines Digital Economics, Industrial Organization, and Labour Economics to study the technological and strategic dynamics of ICTs and AI, and their implications for labor markets. In her work, she employs computational methods such as network analysis, natural language processing, and machine learning. Currently, Ekaterina studies the AI ecosystem by examining its dual role as an infrastructure and an information good. In this research, she maps the AI stack using web scraping and NLP techniques, and explore competitive dynamics in the AI industry, with a special focus on the role of open source. Another direction of her research concerns the impact of digital technologies on the future of work. Within the PILLARS project, she studied how emerging digital technologies reshape regional labor markets in Europe and the US, developing novel metrics of technological relevance and adoption, which were released as open-source resources. Before joining the University Côte d’Azur, Ekaterina held a postdoctoral fellowship at the University of Sussex (UK). She earned a Ph.D. in Economics from Friedrich Schiller University Jena (Germany) and holds degrees in Economics and Management from the Higher School of Economics (Russia)."
 #  #website: https://www.google.com  # Link participant website here.
 
+#- name: "Diana Riazi" # Replace with participant name.
+#  image: /assets/images/London_2025_Participants_Diana.jpg  # Add participant image to assets/images/ and update here.
+#  bio: "Diana Riazi recently completed her PhD in Computational Social Science at UCL’s Department of Computer Science, where her research focused on understanding the link between misinformation spread and belief formation in social networks through gauging agent-based modeling. In light of the work of her PhD, her current research interests lie at the intersection of LLMs and belief propagation of collectives (of both human and machine), and their resulting dynamics. She is particularly interested in emergent socio-economic phenomena such as echo chambers and confirmation bias, and more broadly towards better understanding human–machine interaction and its ensuing effects on the current evolution of our informational eco-system, through means of complexity."
+#  #website: https://www.google.com  # Link participant website here.
+
 #- name: "David Gauthier" # Replace with participant name.
 #  image: /assets/images/London_2025_Participants_David.jpg  # Add participant image to assets/images/ and update here.
 #  bio: "Dr David Gauthier is an Economist at the Bank of France's Financial Stability Directorate. He holds a PhD in Macroeconomics from the Paris School of Economics and a Master's in Data Science from ENSAE. His research focuses on macro-finance, business cycles, and financial crises, with a particular interest in the intersection of monetary policy and machine learning. He has also collaborated with public and private institutions on projects involving central bank communication, forecasting models, and financial risk assessment."
@@ -98,6 +133,15 @@
 #  bio: "Daria Dementeva is a PhD student in Social Data Science at the Center for Sociological Research (CeSO) at KU Leuven. Her research focuses on innovative (geo)data sources and machine learning for public opinion research, with an application to interethnic group relations in Belgium."
 #  #website: https://www.google.com  # Link participant website here.
 
+#- name: "Christian Gut" # Replace with participant name.
+#  image: /assets/images/London_2025_Participants_Chris.jpg  # Add participant image to assets/images/ and update here.
+#  bio: "Christian is a Ph.D. student in Computer Science at the Institute of Mathematics and Statistics of the University of São Paulo (IME–USP), with a research focus on Empirical Software Engineering. His work involves mining software repositories to analyze how team topology, code structure, and engineering practices affect the productivity in Open Source Software development. He is particularly interested in applying explainable AI techniques and causal inference methods to uncover quantitative and actionable insights."
+#  #website: https://www.google.com  # Link participant website here.
+
+#- name: "Burcin Genis-Ergun" # Replace with participant name.
+#  image: /assets/images/London_2025_Participants_Anne.jpg  # Add participant image to assets/images/ and update here.
+#  bio: "Burcin Genis-Ergun is a postdoctoral fellow at Umeå University in Sweden, affiliated with TAIGA – Centrum för transdisciplinär AI and The Interprescence Institute. She specializes in Human-Computer Interaction and immersive experience design, with a focus on artificial intelligence. Her research investigates embodiment, immersion, player and user experience, interface and interaction design, gaming, animation, and usability. She is particularly versed in human–AI agent interaction, using phenomenological, qualitative, quantitative, and computational methods. Previously, Dr. Genis-Ergun was a tenured faculty member at Bahcesehir University, a Visiting Assistant Professor at Erhvervsakademi Århus, and a Research Associate at the Cognitive Science Program at Bogazici University (BOUN-COGsci). She earned her PhD from Yildiz Technical University (YTU) and brings a transdisciplinary approach to the design and understanding of interactive technologies."
+#  #website: https://www.google.com  # Link participant website here.
 
 #- name: "Anne Ruderman" # Replace with participant name.
 #  image: /assets/images/London_2025_Participants_Anne.jpg  # Add participant image to assets/images/ and update here.
