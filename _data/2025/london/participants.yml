@@ -123,14 +123,14 @@
   bio: "Dr David Gauthier is an Economist at the Bank of France's Financial Stability Directorate. He holds a PhD in Macroeconomics from the Paris School of Economics and a Master's in Data Science from ENSAE. His research focuses on macro-finance, business cycles, and financial crises, with a particular interest in the intersection of monetary policy and machine learning. He has also collaborated with public and private institutions on projects involving central bank communication, forecasting models, and financial risk assessment."
 #  #website: https://www.google.com  # Link participant website here.
 
-- name: "Daniele Barolo" # Replace with participant name.
-  image: /assets/images/London_2025_Participants_Daniele.jpg  # Add participant image to assets/images/ and update here.
-  bio: "Daniele is a PhD candidate at the Complexity Science Hub Vienna, where he joined the ERC-funded Collective Minds research group in January 2025. His research focuses on developing advanced agent-based models that leverage large language models to simulate social dynamics and belief propagation across networks. By creating LLM-powered agent simulations, he works to computationally validate social psychology theories and develop new frameworks for understanding collective behavior. His background combines philosophy (Ca' Foscari University of Venice) and data science (University of Padova), with previous research on bias in large language models during an internship at TU Graz."
-#  #website: https://www.google.com  # Link participant website here.
-
 - name: "Daria Dementeva" # Replace with participant name.
   image: /assets/images/London_2025_Participants_Daria.jpg  # Add participant image to assets/images/ and update here.
   bio: "Daria Dementeva is a PhD student in Social Data Science at the Center for Sociological Research (CeSO) at KU Leuven. Her research focuses on innovative (geo)data sources and machine learning for public opinion research, with an application to interethnic group relations in Belgium."
+#  #website: https://www.google.com  # Link participant website here.
+
+- name: "Daniele Barolo" # Replace with participant name.
+  image: /assets/images/London_2025_Participants_Daniele.jpg  # Add participant image to assets/images/ and update here.
+  bio: "Daniele is a PhD candidate at the Complexity Science Hub Vienna, where he joined the ERC-funded Collective Minds research group in January 2025. His research focuses on developing advanced agent-based models that leverage large language models to simulate social dynamics and belief propagation across networks. By creating LLM-powered agent simulations, he works to computationally validate social psychology theories and develop new frameworks for understanding collective behavior. His background combines philosophy (Ca' Foscari University of Venice) and data science (University of Padova), with previous research on bias in large language models during an internship at TU Graz."
 #  #website: https://www.google.com  # Link participant website here.
 
 - name: "Christian Gut" # Replace with participant name.
