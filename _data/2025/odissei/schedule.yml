@@ -10,13 +10,13 @@
 - date: Monday, June 16, 2025
   name: "Introduction to ODISSEI, Open Science and the Theme of the Summer School"
   events:
-    - name: "Session 1 (10:00-12:00): Introducing ODISSEI and Computational Social Science. Speaker: [Tom Emery](https://www.eur.nl/people/tom-emery)"
-    - name: "Session 2 (13:00-15:00): Introduction to [FIRMBACKBONE](https://firmbackbone.nl/)"
-    - name: "Session 3 (15:00-16:30): Introduction to [SANE](https://odissei-data.nl/facility/secure-analysis-environment-sane/). Speaker: Lucas van der Meer, CTO ODISSEI."
+    - name: "10:00-12:00: Introducing ODISSEI and Computational Social Science. Speaker: [Tom Emery](https://www.eur.nl/people/tom-emery)"
+    - name: "13:00-15:00: Introduction to [FIRMBACKBONE](https://firmbackbone.nl/)"
+    - name: "15:00-16:30: Introduction to [SANE](https://odissei-data.nl/facility/secure-analysis-environment-sane/). Speaker: Lucas van der Meer, CTO ODISSEI."
+    - name: "Social Event (17:00-19:00): Opening Drinks @ Erasmus Paviljoen, Rotterdam"
     - name: "Programme starts at 10:00, rather than 9:00"
     - name: "Location: Room:0.12, [Sanders building](https://g.co/kgs/ysDZytc)"
     - name: "12:00-13:00: Lunch break"
-    - name: "Social Event (17:00-19:00): Opening Drinks @ Erasmus Paviljoen, Rotterdam"
 
 - date: Tuesday, June 17, 2025
   name: "Causal Inference by ODISSEI SoDa team"
