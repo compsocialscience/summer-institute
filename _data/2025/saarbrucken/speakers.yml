@@ -51,7 +51,7 @@
   website: https://www.rosanavarrete.com/ # update speaker personal link here
   
 - name: "Savvas Zannettou (Delft University of Technology)" # Speaker name goes here.
-  image: /assets/images/2025SBSavvasZannettou.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  image: /assets/images/2025SBSavvasZannettou.jfif  # Upload speaker image to /assets/images/ and update URL here.
   bio: "Savvas Zannettou is an Assistant Professor at the Technology, Policy, and Management (TPM) faculty at TU Delft. He is also an Associated Researcher with the Max Planck Institute for Informatics (MPI-INF) and a core member of the International Data-driven Research for Advanced Modeling and Analysis Lab (iDrama Lab). His research focuses on applying machine learning and data-driven quantitative analysis to understand emerging phenomena on the Web such as the spread of false information and hateful rhetoric. He is also interested in understanding algorithmic recommendations on social media platforms." # add speaker bio here
   website: https://zsavvas.github.io/ # update speaker personal link here
 
