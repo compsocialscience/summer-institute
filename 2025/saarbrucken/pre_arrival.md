@@ -46,7 +46,7 @@ Birkett, M., Melville, J., Janulis, P., Phillips II, G., Contractor, N., & Hogan
 
 ## Coding Boot Camp
 
-Please note that the majority of the coding work presented at SICSS-Saarbrücken 2025 will employ Python. We recommend the participants have working knowledge and experience with python programming. If you would like more practice, some materials we recommend are:
+Please note that the majority of the coding work presented at SICSS-Saarbrücken 2025 will employ Python. We recommend the participants have working knowledge and experience with Python programming. If you would like more practice, some materials we recommend are:
 
 * [Codecademy](https://try.codecademy.com/learn-python-3?g_network=g&g_productchannel=&g_adid=624888211914&g_locinterest=&g_keyword=learn%20python%20for%20free&g_acctid=243-039-7011&g_adtype=&g_keywordid=kwd-297904630540&g_ifcreative=&g_campaign=account&g_locphysical=9068476&g_adgroupid=102650143353&g_productid=&g_source={sourceid}&g_merchantid=&g_placement=&g_partition=&g_campaignid=10074200771&g_ifproduct=&utm_id=t_kwd-297904630540:ag_102650143353:cp_10074200771:n_g:d_c&utm_source=google&utm_medium=paid-search&utm_term=learn%20python%20for%20free&utm_campaign=ROW_Language:_Basic_-_Exact&utm_content=624888211914&g_adtype=search&g_acctid=243-039-7011&gad_source=1&gclid=CjwKCAiAtNK8BhBBEiwA8wVt93ecuOBeFzOV5zIkf-XjPW0I4Eu8sMdchkaV-WUxtV6T-C8t3NU6OBoC8I0QAvD_BwE)
 * [Real Python](https://realpython.com/tutorials/basics/)
@@ -63,6 +63,11 @@ Some of the main videos and course materials developed by SICSS Co-Founders Chri
 ### Python
 
 Some of the activities will require coding, and we will support Python. You are welcome to use other languages but we cannot guarantee that we can support them. Before SICSS, you should have your preferred Python setup ready. If you need guidance, please refer to the following link: [Anaconda](https://docs.anaconda.com/anaconda/install/)
+
+#### Python libraries  
+
+[Pytorch](https://pytorch.org/get-started/locally/)  
+[Transformers](https://pypi.org/project/transformers/)  
 
 
 ### Slack
