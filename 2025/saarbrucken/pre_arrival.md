@@ -24,11 +24,10 @@ We also recommend the [ESRC Social Science Playlist](https://www.youtube.com/wat
 
 ### Reading recommended by speakers
 
-#### Bernie Hogan  
+#### Savvas Zannettou  
 
-Hogan, B. (2021) Networks are a lens for power: A commentary on the recent advances in the ethics of social networks special issue. Social Networks 67, 9-12. https://doi.org/10.1016/j.socnet.2020.12.003  
+Radford, A., Kim, J.W., Hallacy, C., Ramesh, A., Goh, G., Agarwal, S., Sastry, G., Askell, A., Mishkin, P., Clark, J., and Krueger, G., 2021, July. Learning transferable visual models from natural language supervision. In International Conference on machine learning (pp. 8748-8763). PmLR.
 
-Birkett, M., Melville, J., Janulis, P., Phillips II, G., Contractor, N., & Hogan, B. (2021). Network Canvas: Key decisions in the design of an interviewer-assisted network data collection software suite. Social Networks, 66, 114-124. https://doi.org/10.1016/j.socnet.2022.01.006  
 
 #### Georg Wenzelburger
 
@@ -39,6 +38,11 @@ König, P. D., & Wenzelburger, G. (2021). The legitimacy gap of algorithmic deci
 König, P. D., & Wenzelburger, G. (2020). Opportunity for renewal or disruptive force? How artificial intelligence alters democratic politics. Government Information Quarterly, 37(3), 101489. https://doi.org/10.1016/j.giq.2020.101489  
 
 
+#### Bernie Hogan  
+
+Hogan, B. (2021) Networks are a lens for power: A commentary on the recent advances in the ethics of social networks special issue. Social Networks 67, 9-12. https://doi.org/10.1016/j.socnet.2020.12.003  
+
+Birkett, M., Melville, J., Janulis, P., Phillips II, G., Contractor, N., & Hogan, B. (2021). Network Canvas: Key decisions in the design of an interviewer-assisted network data collection software suite. Social Networks, 66, 114-124. https://doi.org/10.1016/j.socnet.2022.01.006  
 
 ## Coding Boot Camp
 
