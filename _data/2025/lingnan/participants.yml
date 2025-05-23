@@ -78,10 +78,6 @@
   image: /assets/images/lingnan_jiamin.jpg
   bio: "Jiamin Tan is a doctoral student in economics at Lingnan University. Her research interests are health economics, labor economics and the economics of aging. She conducts empirical analysis using national survey data and administrative data to understand the long-term impacts of early-life experiences and the determinants of mental health and physical health of the elderly population. Before her PhD, she obtained an MA from the University of Hong Kong and a BA from the Harbin Institute of Technology."  # Add participant bio here.
 
-- name: "Rewa Singh" # Replace with participant name.
-  image: /assets/images/lingnan_singh.jpg
-  bio: "Dr. Rewa Singh earned her Bachelor with Science Honours and Master of Science in Anthropology from Hans Raj College, University of Delhi followed by a Doctorate in Social Sciences and Humanities from Gautam Buddha University, Greater Noida, and Uttar Pradesh. She has published numerous research papers in refereed national and international journals and conferences. She possesses international exposure as a mentor with “Economics Students Association” at the University of South Pacific, Fiji. Her international stature includes visiting academician at Deakin University, Waurn Ponds, Victoria, Australia and visiting scholar at University of South Pacific, Fiji respectively. She is currently serving as Assistant Professor of Sociology/ Anthropology at Amity University, Noida"  # Add participant bio here.
-
 - name: "Soumyodeep Deb" # Replace with participant name.
   image: /assets/images/lingnan_deb.jpg
   bio: "Soumyodeep Deb is a PhD candidate in the Department of Government and International Affairs, Lingnan University. His research focuses on Geo-politics of rising powers, India-China relations, International Security. Prior to this he had obtained his Masters in East Asian Studies from University of Delhi and second masters in International Affairs from Lingnan University. He is currently working on Chinese Foreign Ministry dataset to analyse Chinese foreign policy patterns by using NLP."  # Add participant bio here. 
