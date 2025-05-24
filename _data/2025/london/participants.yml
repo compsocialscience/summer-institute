@@ -48,11 +48,6 @@
   bio: "I have a solid background in theoretical physics and financial computing, which has helped me develop strong quantitative and analytical skills. My experience spans both traditional finance and the emerging field of decentralized finance, and I have contributed to research on systemic risk, financial stability, and ESG. I have applied machine learning, stochastic processes, and complex network analysis to real-world financial models."
 #  #website: https://www.google.com  # Link participant website here.
 
-- name: "Nicole Abi-Esber" # Replace with participant name.
-  image: /assets/images/London_2025_Participants_Nicole.jpg  # Add participant image to assets/images/ and update here.
-  bio: "Dr. Nicole Abi-Esber has a doctoral degree in Organizational Behavior from the Harvard Business School, and is an Assistant Professor of Organisational Behaviour in the Management Department at the London School of Economics. Her research examines how leaders can empower employees to feel psychologically safe and speak up at work. She uses experiments and computational social science methods, including natural language processing. Nicole previously worked as a product manager for mobile products in tech startups in emerging markets."
-#  #website: https://www.google.com  # Link participant website here.
-
 - name: "Moritz Marpe" # Replace with participant name.
   image: /assets/images/London_2025_Participants_Moritz.jpg  # Add participant image to assets/images/ and update here.
   bio: "Moritz Marpe is a doctoral student at the Department of Digital Service Engineering at TU Berlin. Previously, he studied International Relations and International and European Law at the Rijksuniversiteit Groningen, and International Economics at the Berlin School of Economics and Law and the Université Sorbonne Paris Nord with a focus on the regulation of global value chains and complex production networks. In his doctoral thesis, Moritz researches emergence and coevolution in information systems using combinations of different computational methods such as LLM-enhanced agent-based modelling. Moritz is passionate about exploring the intersection between law, the digital space, and how computational social science can be leveraged for social good and a sustainable future."
@@ -71,6 +66,11 @@
 - name: "Madiareni Sulaiman" # Replace with participant name.
   image: /assets/images/London_2025_Participants_Madiareni.jpg  # Add participant image to assets/images/ and update here.
   bio: "Madiareni (Reni) Sulaiman is a Research Data Librarian at the National Research and Innovation Agency (BRIN Indonesia). Her specific interest lies in understanding how research data management can effectively support open science within the research and innovation ecosystem. As an open science advocate, she actively participates in various organizations, including IFLA Advisory Committee Member for Open Science and Scholarship (OSSAC), Re3data Working Group, DataCite Ambassador, and many other organizations in librarianship and open science field. In addition, she served as one of Indonesia's member representatives on the UNESCO Recommendation on Open Science; and has also been awarded research grants on research accreditation by British Academy, on open government data from the National Library of Indonesia and completed a short course on data governance from Australia Awards. She is presently pursuing a PhD in Information Studies at University College London in the UK, with a specific emphasis on Research Data Management." 
+#  #website: https://www.google.com  # Link participant website here.
+
+- name: "Louis Yu Luo" # Replace with participant name.
+  image: /assets/images/London_2025_Participants_Louis.jpg  # Add participant image to assets/images/ and update here.
+  bio: "I am a PhD candidate at Imperial College Business School. My research focuses on contrarian strategies and Theory-based View, AI's impact on individuals, organizations and society, open innovation and the future of work. I am interested in collaborative research opportunities, and feel free to contact me via louis.luo@imperial.ac.uk"
 #  #website: https://www.google.com  # Link participant website here.
 
 - name: "Lorenzo Lombardi" # Replace with participant name.
