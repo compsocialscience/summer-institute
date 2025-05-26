@@ -1,5 +1,87 @@
-- date: "June 9 - June 19, 2025"
+- date: 2025-06-08 # Sunday
+  name: Arrival
   events:
-    - name: "Schedule coming soon. Check back for updates!" # Update this line or add markdown for your site's schedule.
+    - name: "15:00 - 18:00 Check in at Hotel"
+    - name: "18:30 - 20:00 Welcome Meet up [Ölstugan Tullen]"
 
-  # Our tentative schedule can be seen [here](www.google.com). Our program focuses on ... . We will invite guest speakers to provide an overview of ..."
+- date: 2025-06-09 # Monday
+  name: Introduction and Ethics [Kopparhammaren 2, Room KO22]
+  events:
+    - name: "09:30 - 10:00 Introduction and Welcome (Jacob Habinek)" 
+    - name: "10:00 - 12:00 Lecture: Computational Social Science (Jacob Habinek)" 
+    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 16:00 Lecture and Workshop: Ethics (Hendrik Erz)"
+    - name: "15:00 Fika"
+    - name: "19:00 - 21:00 Welcome Dinner"
+
+- date: 2025-06-10 # Tuesday
+  name: Digital Trace Data [Kopparhammaren 2, Room KO22]
+  events:
+    - name: "10:00 - 12:00 Lecture: Digital Trace Data (Jacob Habinek)"
+    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 14:30 Research Talk: Yuan Liau"
+    - name: "15:00 Fika"
+    - name: "15:00 - 17:30 Workshop: Digital Trace Data"
+
+- date: 2025-06-11 # Wednesday
+  name: Computational Text Analysis [Kopparhammaren 2, Room KO22]
+  events:
+    - name: "10:00 - 12:00 Lecture: Computational Text Analysis (Hendrik Erz)"
+    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 14:30 Research Talk: Neha Gondal"
+    - name: "15:00 Fika"
+    - name: "15:00 - 17:30 Workshop: Computational Text Analysis"
+
+- date: 2025-06-12 # Thursday
+  name: Social Network Analysis [Kopparhammaren 2, Room KO22]
+  events:
+    - name: "10:00 - 12:00 Lecture: Social Network Analysis (Alexandra Rottenkolber)"
+    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 16:00 Workshop: Social Network Analysis (Alexandra Rottenkolber, Tangbin Chen, Seva)"
+    - name: "15:00 Fika Break"
+    - name: "16:00 - 17:30 Research Talk: Claudia Acciai"
+
+- date: 2025-06-13 # Friday
+  name: Spatial Data [Kopparhammaren 2, Room KO22]
+  events:
+    - name: "10:00 - 12:00 Workshop: Spatial Data (Maël Lecoursonnais)"
+    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 16:00 Matchmaking for the Group Projects"
+    - name: "15:00 Fika"
+
+- date: 2025-06-14 # Saturday
+  name: Weekend day off
+
+- date: 2025-06-15 # Sunday
+  name: Weekend day off
+
+- date: 2025-06-16 # Monday
+  name: Project Week
+  events:
+    - name: "10:00 - 16:00 Project Working Time"
+    - name: "16:00 - 17:30 Research Talk: Intersecting AS and CSS: Two new mechanisms for segregation and cultural diffusion research. (Martin Arvidsson) [Kopparhammaren 2, Room KO301]"
+
+- date: 2025-06-17 # Tuesday
+  name: Project Week
+  events:
+    - name: "10:00 - 16:00 Project Working Time"
+    - name: "16:00 - 17:30 Research Talk: Interpretive and Qualitative Logics in Computational Social Science: Etiquette Texts as Data (Andrea Voyer)  [Kopparhammaren 2, Room KO301]"
+
+- date: 2025-06-18 # Wednesday
+  name: Project Week
+  events:
+    - name: "10:00 - 16:00 Project Working Time"
+    - name: "13:00 - 14:30 Research Talk: Károly Takács"
+
+- date: 2025-06-19 # Thursday
+  name: Final Day [Kopparhammaren 2, Room KO22]
+  events:
+    - name: "10:00 - 12:00 Project Working Time"
+    - name: "12:00 - 13:00 Lunch Break"
+    - name: "13:00 - 17:00 Project Presentations"
+    - name: "17:00 - 20:00 Farewell Buffet (Room: Utsikten)"
+
+- date: 2025-06-20 # Friday
+  name: Swedish Midsummer
+  events:
+    - name: "10:00-17.00 Midsummer (optional)"
