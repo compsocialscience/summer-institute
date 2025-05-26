@@ -56,30 +56,29 @@
   name: Weekend day off
 
 - date: 2025-06-16 # Monday
-  name: Project Week
+  name: Project Week [Co-Working Space]
   events:
     - name: "10:00 - 16:00 Project Working Time"
-    - name: "16:00 - 17:30 Research Talk: Intersecting AS and CSS: Two new mechanisms for segregation and cultural diffusion research. (Martin Arvidsson) [Kopparhammaren 2, Room KO301]"
 
 - date: 2025-06-17 # Tuesday
-  name: Project Week
+  name: Project Week [Co-Working Space]
   events:
     - name: "10:00 - 16:00 Project Working Time"
-    - name: "16:00 - 17:30 Research Talk: Interpretive and Qualitative Logics in Computational Social Science: Etiquette Texts as Data (Andrea Voyer)  [Kopparhammaren 2, Room KO301]"
+    - name: "17:00 IAS Social [Ölstugan Gull-Olle]"
 
 - date: 2025-06-18 # Wednesday
-  name: Project Week
+  name: Project Week [Co-Working Space]
   events:
     - name: "10:00 - 16:00 Project Working Time"
     - name: "13:00 - 14:30 Research Talk: Károly Takács"
 
 - date: 2025-06-19 # Thursday
-  name: Final Day [Kopparhammaren 2, Room KO22]
+  name: Final Day
   events:
-    - name: "10:00 - 12:00 Project Working Time"
+    - name: "10:00 - 12:00 Project Working Time [Co-Working Space]"
     - name: "12:00 - 13:00 Lunch Break"
-    - name: "13:00 - 17:00 Project Presentations"
-    - name: "17:00 - 20:00 Farewell Buffet (Room: Utsikten)"
+    - name: "13:00 - 17:00 Project Presentations [KO22]"
+    - name: "17:00 - 20:00 Farewell Dinner [Utsikten]"
 
 - date: 2025-06-20 # Friday
   name: Swedish Midsummer
