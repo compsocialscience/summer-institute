@@ -25,7 +25,7 @@
 
 - name: "Mathias Angermaier"
   image: /assets/images/Mathias_Angermaier.png
-  bio: "Mathias is researching dynamics in collective adaptation. To this end, opinions are modelled as networks, whereby topics that are often expressed in similar contexts are particularly close to each other. These opinion networks can be very characteristic for individual people and also aggregated for groups. Changes in these networks due to new group constellations can provide indications of the extent to which people are influenced in their decisions by their social environment. In addition to agent-based modelling approaches, data from social networks is used to depict such opinion networks and look at their patterns of change."
+  bio: "Mathias is researching dynamics in collective adaptation and the transformation of social norms. By tracking the flow of information and the characteristics of their content, he tries to find reoccurring narratives and their possible impact on the way they shape communities."
   website: https://idea-lab.uni-graz.at/en/research-fields/data-analysis/
 
 # Add more faculty with the same format as above...
