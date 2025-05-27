@@ -23,7 +23,15 @@
   image: /assets/images/mateus_pestana.png
   bio: "Matheus Pestana is a professor at the School of Communication, Media, and Information at Fundação Getulio Vargas (FGV ECMI), a researcher at the Institute for Religious Studies (ISER), and a member of the New Illegalisms research group (GENI/UFF). He is a PhD Candidate in Political Science at the State University of Rio de Janeiro (UERJ), where he also earned his Master's degree in the same field. His current research focuses on the intersection of artificial intelligence (AI) and politics/public opinion. He has interests in computer vision, large language models (LLMs), speech recognition, and image detection/segmentation."
 
+- name: Murilo Junqueira
+  image: /assets/images/Murilo_sicss_ecmi.png
+  bio: "Murilo de Oliveira Junqueira is a Social Scientist and Data Scientist, and holds a Master’s and PhD in Political Science from the University of São Paulo (USP). He is a Consultant at the Institute for Applied Economic Research (IPEA) and a Professor of Political Science at the Federal University of Pará (UFPA). His work focuses on political institutions, public policy, and data analysis in the Brazilian context."
+
 - name: Tiago Ventura
   image: /assets/images/thiago_ventura_sicss.jpg
   bio: "Tiago Ventura is an Assistant Professor in Computational Social Science at Georgetown University’s McCourt School of Public Policy. His research focuses on political communication and online behavior, combining methods from computational social science and political science. Prior to joining Georgetown, he was a Postdoctoral Fellow at NYU’s Center for Social Media and Politics. He received his Ph.D. in Political Science from the University of Maryland, College Park, where he remains affiliated with the Interdisciplinary Laboratory for Computational Social Science (iLCSS). He also gained experience in the tech industry as a Misinformation Researcher at Twitter." 
   website: https://www.venturatiago.com/
+
+- name: Victor Piaia
+  image: /assets/images/Victor_sicss_ecmi.png
+  bio: "Victor Piaia holds a PhD in Sociology at the Institute of Social and Political Studies (IESP-UERJ). He is a professor at FGV Comunicação and a leader of the Study Group in Political Sociology and Digital Transformations. He studies the political effects of transformation in daily communication, focusing on social media platforms and messaging apps."
