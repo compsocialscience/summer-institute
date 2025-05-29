@@ -1,64 +1,101 @@
-- name: "Armel Tiessouma Théodore Zerbo" # Replace with participant name.
-  image: /assets/images/Armel_T_Théodore_ZERBO.JPG  # Add participant image to assets/images/ and update here.
-  bio: "Armel T. T. ZERBO est doctorant à l’Université de Lisala et, parallèlement, assistant de recherche à l’Africa Cluster Center ACC-Ouaga de l’Université Joseph Ki-Zerbo, où il contribue au projet « Ontologies fluides de la contestation : médias sociaux, protestation anti-gouvernementale et mouvements transnationaux de décolonisation au Burkina Faso ». Ses travaux doctoraux explorent le nexus entre réseaux sociaux et mouvements sociaux dans le champ des études africaines. Il a été chercheur visiteur à l’Université de Bayreuth et a présenté des communications à la conférence VAD 2024, au colloque international « Remous et changements sociopolitiques en Afrique » de l’Université Nazi Boni de Bobo (2024), ainsi qu’au colloque du Programme thématique de recherche « Gouvernance et développement » du CAMES / PTRC-GD (2025). Membre étudiant de l’Association internationale de sociologie et du PTRC-GD, Armel T. T. ZERBO est également titulaire d’un master en diplomatie et relations internationales, obtenu grâce à un mémoire consacré à la diplomatie publique au Burkina Faso à travers le programme Young African Leaders Initiative (YALI)."  # Add participant bio here.
-  website: www.linkedin.com/in/armel-tt-zerbo-b41b9111  # Link participant website here.
-
-- name: "Grâce-Alice Enam Bladavi GUMEDZOE-HOSETO" # Replace with participant name.
-  image: /assets/images/Grâce_Alice_Enam_Bladavi.jpg  # Add participant image to assets/images/ and update here.
-  bio: "Grâce-Alice Enam Bladavi GUMEDZOE-HOSETO est doctorante en santé communautaire à l’Université Joseph Ki-Zerbo, où elle étudie l’implication des agents de santé communautaire dans les programmes de lutte antivectorielle au Ghana, au Togo et au Burkina Faso. Titulaire d’un master en épidémiologie d’intervention, elle possède une solide expérience en santé publique de terrain, en recherches qualitative et quantitative, ainsi qu’en gestion de projets communautaires. Ses travaux s’attachent particulièrement à l’intégration des outils numériques et des approches computationnelles afin d’améliorer l’analyse des politiques de santé et de renforcer l’impact des interventions locales. La participation à cette formation constitue pour elle une étape déterminante : elle y voit l’occasion d’élargir ses compétences analytiques, d’approfondir sa maîtrise des méthodes innovantes et d’alimenter sa réflexion stratégique sur les enjeux de santé publique en Afrique de l’Ouest."  # Add participant bio here.
-  website:   # Link participant website here.
-  
-- name: "Harouna Ouily" # Replace with participant name.
-  image: /assets/images/ouily_harouna.png  # Add participant image to assets/images/ and update here.
-  bio: "Harouna Ouily est titulaire d’un master en data science du Dakar Institute of Technology et d’un master en économie de l’Université de Ouagadougou. Il est actuellement consultant-formateur au Cabinet de Recherche et d’Études en Santé et en Démographie (CARESAD). En 2024, il a contribué à l’étude d’évaluation d’impact du projet GATE menée à l’Institut Supérieur des Sciences de la Population (ISSP). Ses travaux de recherche se concentrent principalement sur la santé mentale des femmes issues de milieux vulnérables et sur l’utilisation des techniques de machine learning pour analyser les inégalités sociales."
-  website: www.linkedin.com/in/harouna-ouily-7487231b3  # Link participant website here.
-
-- name: "Kassoum Dianou" # Replace with participant name.
-  image: /assets/images/Kassoum_Dianou.JPG  # Add participant image to assets/images/ and update here.
-  bio: "Kassoum Dianou est doctorant en démographie à l’Université catholique de Louvain (UCLouvain), en cotutelle avec l’Université Joseph Ki-Zerbo (Burkina Faso). Ses recherches portent sur l’utilisation des enquêtes téléphoniques pour mesurer la mortalité dans les pays à revenu faible ou intermédiaire, notamment en contexte de crise. Auparavant, il a été assistant de recherche à l’Observatoire de la Population de Ouagadougou (OPO), où il a coordonné de nombreuses enquêtes sur la santé, la mortalité et les inégalités sociales. Auteur de plusieurs publications scientifiques, il a contribué à des projets internationaux portant sur la santé mentale, la santé reproductive, les impacts de la COVID-19 et les inégalités en milieu urbain."
-  website: www.linkedin.com/in/kassoum-dianou  # Link participant website here.
-
-- name: "Béné-wendé Odilon Isaïe Zoungrana" # Replace with participant name.
-  image: /assets/images/Odilon_ZOUNGRANA.jpeg  # Add participant image to assets/images/ and update here.
-  bio: "Béné-wendé Odilon Isaïe Zoungrana est doctorant en mathématiques et informatique à l’Université Joseph Ki-Zerbo, où ses recherches portent sur l’intelligence artificielle, plus précisément sur l’amélioration des architectures de systèmes experts pour l’optimisation des itinéraires et la recherche de données dans les bases de données SIG. En parallèle, il exerce comme développeur d’applications métiers, concevant et déployant des solutions informatiques adaptées aux besoins professionnels."
-  website:   # Link participant website here.
-- name: "Pengdewendé Maurice Sawadogo" # Replace with participant name.
-  image: /assets/images/Maurice_Sawadogo.png  # Add participant image to assets/images/ and update here.
-  bio: "Dr Pengdewendé Maurice Sawadogo est chercheur démographe, fort d’une double expertise en démographie et en santé publique. Titulaire d’un doctorat en sciences de la population de l’Université Joseph Ki-Zerbo (2022), il avait auparavant obtenu un master en sciences de la population (2016) et une licence en statistiques sociales (2014) à l’Institut Supérieur des Sciences de la Population (ISSP) de la même université. Il détient également un diplôme professionnel en épidémiologie et un diplôme d’infirmier de l’École nationale de santé publique du Burkina Faso. Depuis 2022, il est chercheur associé à l’ISSP, où ses travaux portent sur la nutrition ainsi que sur la santé sexuelle et reproductive des populations vulnérables en Afrique de l’Ouest et du Centre, avec un intérêt particulier pour l’analyse de l’ampleur, des déterminants et des tendances de ces enjeux de santé."
-  website: https://www.linkedin.com/in/pengdewend%C3%A9-maurice-sawadogo-a96842148/         # Link participant website here.
-
-- name: "Peingwende Boris Jean-Sylvain Dianda" # Replace with participant name.
-  image: /assets/images/Boris_DIANDA.jpg # Add participant image to assets/images/ and update here.
+- name: "Peingwende Boris Jean-Sylvain Dianda"
+  image: /assets/images/Boris_DIANDA.jpg
   bio: "Peingewende Boris Jean-Sylvain DIANDA est médecin au Service d’Aide Médicale Urgente (SAMU) de Ouagadougou, au Burkina Faso, et suit parallèlement une licence en statistique et informatique décisionnelle à l’Université Ouaga 3S. Ses centres d’intérêt portent sur l’application des méthodes de science des données aux problématiques de santé publique : optimisation des flux de patients en situation d’urgence, gestion hospitalière en contexte de saturation et analyse des systèmes de soins. Il a suivi plusieurs formations en médecine des catastrophes, en intervention d’urgence et en science des données appliquée à la santé. Son projet actuel vise à développer une application numérique destinée à améliorer le suivi et la gestion des lits d’hospitalisation dans les services d’urgence au Burkina Faso."
-  website:       # Link participant website here.
+  website: ""
 
-- name: "Djakaridia Soma" # Replace with participant name.
-  image: /assets/images/Soma_Djakaridja.jpg # Add participant image to assets/images/ and update here.
-  bio: "Djakaridia Soma est ingénieur de conception en télécommunications, spécialisé en ingénierie des données et en intelligence artificielle, formé à l’École supérieure multinationale des télécommunications de Dakar. Il occupe actuellement le poste de data steward chez Orange Burkina et intervient comme consultant à l’Institut supérieur des sciences de la population (ISSP), où il travaille au développement d’un chatbot intelligent destiné à évaluer la performance et à formuler des recommandations."
-  website: https://github.com/SomaDjakiss/Churns       # Link participant website here.
+- name: "Kassoum Dianou"
+  image: /assets/images/Kassoum_Dianou.JPG
+  bio: "Kassoum Dianou est doctorant en démographie à l’Université catholique de Louvain (UCLouvain), en cotutelle avec l’Université Joseph Ki-Zerbo (Burkina Faso). Ses recherches portent sur l’utilisation des enquêtes téléphoniques pour mesurer la mortalité dans les pays à revenu faible ou intermédiaire, notamment en contexte de crise. Auparavant, il a été assistant de recherche à l’Observatoire de la Population de Ouagadougou (OPO), où il a coordonné de nombreuses enquêtes sur la santé, la mortalité et les inégalités sociales. Auteur de plusieurs publications scientifiques, il a contribué à des projets internationaux portant sur la santé mentale, la santé reproductive, les impacts de la COVID-19 et les inégalités en milieu urbain."
+  website: www.linkedin.com/in/kassoum-dianou
 
-- name: "Franck Elie Tougma" # Replace with participant name.
-  image: /assets/images/Tougma_Franck.jpg # Add participant image to assets/images/ and update here.
-  bio: "Franck Élie Tougma est étudiant en première année de master recherche en macroéconomie appliquée et finance internationale. Diplômé d’une licence, avec mention, en sciences économiques (option macroéconomie et gestion du développement), il suit également une formation au certificat de compétences informatiques et Internet à l’Institut de Formation Ouverte à Distance. Ses travaux s’intéressent aux échanges commerciaux et aux flux de capitaux au sein de l’AES, dans un contexte particulièrement marqué par l’insécurité liée au terrorisme."
-  website:     # Link participant website here.
+- name: "Fadil Kristof GNANKAMBARY"
+  image: /assets/images/Fadil_Gnankambary.jpeg
+  bio: "Fadil Kristof GNANKAMBARY est spécialiste en géomarketing et géomatique au sein du groupe Orange et enseignant à l’Institut Panafricain pour le Développement – Afrique de l’Ouest et Sahel. Membre actif du secrétariat exécutif de l’Association des Professionnels de la Géo-Information du Burkina Faso (AProGI-BF), il a précédemment travaillé à l’Institut Géographique du Burkina, où il a contribué à la production de bases de données d’occupation des terres pour le Programme d’Investissement Forestier. Titulaire d'un Master en télédétection et Systèmes d'Information Géographique, il est également certifié en Lean Six Sigma. Ses domaines d'intérêt incluent l’analyse spatiale pour la planification des réseaux, l’intelligence artificielle appliquée aux SIG et à la télédétection, et le développement d’outils SIG sur mesure."
+  website: https://www.linkedin.com/in/fadil-kristof-gnankambary
 
-- name: "Chirac Mugisha" # Replace with participant name.
-  image: /assets/images/Chirac_Mugisha.jpg # Add participant image to assets/images/ and update here.
-  bio: "Chirac MUGISHA is an Information Management and Communication Assistant with UNFPA in Burundi. He processes daily data on maternal deaths, demographic trends, gender-based violence, and information systems, using ArcGIS to support humanitarian operations involving refugees and internally displaced persons. He translates these insights into fact sheets and Power BI dashboards to enhance data visualization and inform decision-making."
-  website: https://www.linkedin.com/in/chirac-mugisha-865311218/     # Link participant website here.
-  
-- name: "George Tagang" # Replace with participant name.
-  image: /assets/images/georges_TAGANG.jpg # Add participant image to assets/images/ and update here.
-  bio: "George Tagang est titulaire d’une licence en mathématiques de l’Université de N’Djamena (Tchad), d’un diplôme en informatique de l’Institut Africain d’Informatique (IAI-Gabon) et d’un doctorat en démographie de l’Institut de Formation et de Recherche Démographiques de l’Université de Yaoundé II (Cameroun). Chercheur et consultant international en sciences de la population, il est l’auteur de plusieurs articles scientifiques portant sur le genre et la fécondité. Parallèlement, il contribue à la rédaction d’un ouvrage collectif dans ce domaine."
-  website:      # Link participant website here.
-  
-- name: "Lassana Toure" # Replace with participant name.
-  image: /assets/images/Lassana_TOURE.jpg 
-  bio: "Dr Lassana TOURE est Enseignant-Chercheur à la Faculté des Sciences Économiques et de Gestion de Bamako et Consultant indépendant basé au Mali. Spécialiste en économie rurale, en suivi-évaluation et en développement durable, il enseigne depuis 2016 et intervient dans les domaines de la gestion de projets, de l’analyse de données et de l’évaluation d’impact. Auteur de plusieurs publications scientifiques, il s'engage activement pour la professionnalisation des jeunes ainsi que pour la promotion de l’entrepreneuriat vert."
-  website: https://www.linkedin.com/in/dr-lassana-toure-7773199b/     
+- name: "Grâce-Alice Enam Bladavi GUMEDZOE-HOSETO"
+  image: /assets/images/Grâce_Alice_Enam_Bladavi.jpg
+  bio: "Grâce-Alice Enam Bladavi GUMEDZOE-HOSETO est doctorante en santé communautaire à l’Université Joseph Ki-Zerbo, où elle étudie l’implication des agents de santé communautaire dans les programmes de lutte antivectorielle au Ghana, au Togo et au Burkina Faso. Titulaire d’un master en épidémiologie d’intervention, elle possède une solide expérience en santé publique de terrain, en recherches qualitative et quantitative, ainsi qu’en gestion de projets communautaires. Ses travaux s’attachent particulièrement à l’intégration des outils numériques et des approches computationnelles afin d’améliorer l’analyse des politiques de santé et de renforcer l’impact des interventions locales."
+  website: ""
 
-- name: "François Xavier Ouedraogo" # Replace with participant name.
+- name: "Attoumo Daniel Monehahue"
+  image: /assets/images/Daniel_Attoumo.jpg
+  bio: "Daniel Attoumo MONEHAHUE est doctorant en sociologie à l’Université Peleforo Gon Coulibaly de Korhogo (Côte d’Ivoire), où il mène des recherches au sein du Département de Sociologie et d’Anthropologie. Titulaire d’un master en sociologie de l’environnement et de la santé de la même institution, sa thèse explore les logiques écologiques et économiques qui sous-tendent l'engagement des travailleurs migrants dans l’agriculture urbaine et périurbaine à Abidjan. Il est affilié au Réseau de Recherche sur la Migration et le Changement Climatique en Afrique (RRCMA) et au Réseau des Doctorants Africains et de la Diaspora (RESDAD)."
+  website: https://www.linkedin.com/in/daniel-attoumo-monehahu%C3%A9-42585b20b
+
+- name: "Chirac Mugisha"
+  image: /assets/images/Chirac_Mugisha.jpg
+  bio: "Chirac MUGISHA est assistant en gestion de l’information et de la communication auprès de l’UNFPA au Burundi. Il traite quotidiennement des données sur la mortalité maternelle, les tendances démographiques et les violences basées sur le genre, et produit des cartes SIG et des tableaux de bord Power BI pour éclairer les opérations humanitaires."
+  website: https://www.linkedin.com/in/chirac-mugisha-865311218/
+
+- name: "Roy NIMBONA"
+  image: /assets/images/Roy_Nimbona.jpg
+  bio: "Roy Nimbona est analyste de données et cadre en comptabilité nationale à l’Institut National de la Statistique du Burundi. Titulaire d’un master en Probabilité, Statistique et Modélisation de l’Université du Burundi, il a consacré son mémoire à l’application des méthodes bayésiennes pour le contrôle de la qualité. Au cours de ses stages, notamment au Bureau Burundais de Normalisation et de Contrôle de la Qualité, il a mené des recherches pour optimiser la collecte et la validation des données."
+  website: http://www.linkedin.com/in/roy-nimbona-6427012b1
+
+- name: "Willy NIYOMUKIZA"
+  image: /assets/images/Niyomukiza_Willy.JPG
+  bio: "Willy NIYOMUKIZA est employé à l’Institut National de la Statistique du Burundi, au sein du service de coordination et coopération statistique. Titulaire d’un baccalauréat en actuariat et d’un master en démographie de l’Institut de Formation et de Recherche Démographique, il enseigne à temps partiel à l’Université Publique du Burundi, où il dispense des cours d’actuariat et de démographie. Il intervient également à l’Université Lumière de Bujumbura et à l’Université des Grands."
+  website: ""
+
+- name: "François Xavier Ouedraogo"
   image: /assets/images/Xavier_ouedraogo.jpg
-  bio: "François Xavier Ouedraogo est doctorant en mathématiques appliquées à l’Université Joseph KI-ZERBO, où il se spécialise en gestion des risques financiers et assurantiels. Ses recherches actuelles portent sur la modélisation stochastique des cyber risques, en particulier à travers l’utilisation de processus de naissance pure. Il s'intéresse notamment aux phénomènes extrêmes, aux distributions à queues lourdes et aux structures de dépendance modélisées par les copules. En parallèle, il a conçu des modèles de scoring destinés à l’évaluation du risque de crédit, dans une optique d’aide à la décision. Son parcours l’a également amené à analyser le comportement des actifs financiers, en lien avec les produits dérivés et les stratégies de couverture."
+  bio: "François Xavier Ouedraogo est doctorant en mathématiques appliquées à l’Université Joseph Ki-Zerbo, où il se spécialise en gestion des risques financiers et assurantiels. Ses recherches actuelles portent sur la modélisation stochastique des cyber risques, en particulier via les processus de naissance pure et les copules. Parallèlement, il a conçu des modèles de scoring pour l’évaluation du risque de crédit et l’aide à la décision."
   website: https://www.researchgate.net/profile/Francois-Ouedraogo-2
+
+- name: "Harouna Ouily"
+  image: /assets/images/ouily_harouna.png
+  bio: "Harouna Ouily est consultant-formateur au Cabinet de Recherche et d’Études en Santé et en Démographie (CARESAD). Titulaire de deux masters (data science et économie), il a contribué à l’étude d’évaluation d’impact du projet GATE menée à l’ISSP en 2024. Ses recherches portent sur la santé mentale des femmes vulnérables et l’application du machine learning aux inégalités sociales."
+  website: www.linkedin.com/in/harouna-ouily-7487231b3
+
+- name: "Yann Alexandre SAVADOGO"
+  image: /assets/images/SAVADOGO_Yann.jpg
+  bio: "Yann Alexandre SAVADOGO est statisticien burkinabè, titulaire d’un master en Ingénierie Statistique et Économie de l’Université Thomas SANKARA. Ses recherches portent sur la gouvernance, les inégalités de revenus et l’accès aux services sociaux de base au Burkina Faso. Actuellement statisticien stagiaire SIG au Programme d’Urgence, de Développement Territorial et de Résilience (PUDTR), il est impliqué dans la digitalisation des questionnaires, la vérification des données, ainsi que l’analyse et la production de rapports et de cartes."
+  website: https://www.linkedin.com/in/yann-alexandre-savadogo-5b4277199/
+
+- name: "Pengdewendé Maurice Sawadogo"
+  image: /assets/images/Maurice_Sawadogo.png
+  bio: "Dr Pengdewendé Maurice Sawadogo est chercheur démographe, fort d’une double expertise en démographie et en santé publique. Titulaire d’un doctorat en sciences de la population de l’Université Joseph Ki-Zerbo (2022), il se consacre à la nutrition et à la santé sexuelle et reproductive des populations vulnérables en Afrique de l’Ouest et du Centre, analysant l’ampleur, les déterminants et les tendances de ces enjeux."
+  website: https://www.linkedin.com/in/pengdewend%C3%A9-maurice-sawadogo-a96842148/
+
+- name: "Emmanuel SINGOYE"
+  image: /assets/images/Emmanuel_SINGOYE.PNG
+  bio: "SINGOYE Emmanuel est enseignant-chercheur à l’Institut de Statistique Appliquée de l’Université du Burundi et doctorant en démographie, spécialisé en fécondité. Son mémoire de master (IFORD, 2020) portait sur les facteurs influençant la non-utilisation de la contraception moderne selon le milieu de résidence au Burundi. À l’INSBU, il a coordonné les méthodologies et la gestion des travaux statistiques."
+  website: https://www.researchgate.net/profile/Emmanuel-Singoye/stats
+
+- name: "Djakaridia Soma"
+  image: /assets/images/Soma_Djakaridja.jpg
+  bio: "Djakaridia Soma est data steward chez Orange Burkina et consultant à l’ISSP, spécialisé en ingénierie des données et intelligence artificielle. Formé à l’École supérieure multinationale des télécommunications de Dakar, il développe un chatbot intelligent pour évaluer la performance et formuler des recommandations."
+  website: https://github.com/SomaDjakiss/Churns
+
+- name: "George Tagang"
+  image: /assets/images/georges_TAGANG.jpg
+  bio: "George Tagang est titulaire d’une licence en mathématiques de l’Université de N’Djamena (Tchad), d’un diplôme en informatique de l’Institut Africain d’Informatique (IAI-Gabon) et d’un doctorat en démographie de l’Institut de Formation et de Recherche Démographiques de l’Université de Yaoundé II. Chercheur et consultant international, il a publié des articles sur le genre et la fécondité et contribue à un ouvrage collectif dans ce domaine."
+  website: ""
+
+- name: "Franck Élie Tougma"
+  image: /assets/images/Tougma_Franck.jpg
+  bio: "Franck Élie Tougma est étudiant en première année de master recherche en macroéconomie appliquée et finance internationale. Diplômé d’une licence en sciences économiques (option macroéconomie et gestion du développement), il prépare également un certificat en compétences informatiques à distance. Ses travaux portent sur les échanges commerciaux et les flux de capitaux au sein de l’AES, dans un contexte de terrorismes et d’insécurité."
+  website: ""
+
+- name: "Amidou Traoré"
+  image: /assets/images/Amidou_Traore.JPEG
+  bio: "Titulaire d’un Master 2 en Méthodes Statistiques et Économétriques de l’Université Cheikh Anta Diop de Dakar et d’une maîtrise en Analyse Quantitative et Politique Économique de l’Université de Bamako, Amidou Traoré est Responsable Suivi, Évaluation et Apprentissage au National Democratic Institute (NDI). Il possède une vaste expérience dans le suivi et l’évaluation de programmes financés par l’USAID, l’Union Européenne et la coopération suédoise."
+  website: https://www.linkedin.com/in/amidou-traore1497b5130/
+
+- name: "Lassana Toure"
+  image: /assets/images/Lassana_TOURE.jpg
+  bio: "Dr Lassana TOURE est enseignant-chercheur à la Faculté des Sciences Économiques et de Gestion de Bamako et consultant indépendant. Spécialiste en économie rurale, suivi-évaluation et développement durable, il intervient depuis 2016 dans la gestion de projets, l’analyse de données et l’évaluation d’impact, et publie régulièrement sur l’entrepreneuriat vert."
+  website: https://www.linkedin.com/in/dr-lassana-toure-7773199b/
+
+- name: "Armel Tiessouma Théodore Zerbo"
+  image: /assets/images/Armel_T_Théodore_ZERBO.JPG
+  bio: "Armel T. T. ZERBO est doctorant à l’Université de Lisala et assistant de recherche au Africa Cluster Center ACC-Ouaga de l’Université Joseph Ki-Zerbo. Ses travaux sur les ontologies fluides de la contestation examinent les liens entre médias sociaux, protestation anti-gouvernementale et mouvements transnationaux de décolonisation au Burkina Faso. Titulaire d’un master en diplomatie et relations internationales, il a présenté ses recherches à Bayreuth, à VAD 2024 et à plusieurs colloques du CAMES."
+  website: www.linkedin.com/in/armel-tt-zerbo-b41b9111
+
+- name: "Béné-wendé Odilon Isaïe Zoungrana"
+  image: /assets/images/Odilon_ZOUNGRANA.jpeg
+  bio: "Béné-wendé Odilon Isaïe Zoungrana est doctorant en mathématiques et informatique à l’Université Joseph Ki-Zerbo. Ses recherches portent sur l’intelligence artificielle, l’optimisation des itinéraires et les systèmes experts pour les bases de données SIG. Par ailleurs, il développe des applications métiers sur mesure pour répondre aux besoins opérationnels."
+  website: ""
+
 
