@@ -1,47 +1,48 @@
 - date: September 23, 2024
   name: "Day 1:Introduction to SICSS and CSS" 
   events:
-    - name: "10:00 - 12:00 Welcome, Housekeeping & Logistics ([Juliet Inyang](https://www.linkedin.com/in/juliet-inyang/))"
+    - name: "10:00 - 12:00 Welcome, Housekeeping & Logistics ([Juliet Inyang](https://www.linkedin.com/in/juliet-inyang/)) [<a href='https://www.youtube.com/watch?v=MPNxNVykQno&list=PLX-vgm9Zz1hV1nOIHUjkQRxUEQoZWPL77&index=12' target='_blank'>Video1</a>, <a href='https://www.youtube.com/watch?v=xP0V8sY0X8g&list=PLX-vgm9Zz1hV1nOIHUjkQRxUEQoZWPL77&index=11' target='_blank'>Video2</a>]"
     - name: "12:00 – 13:30 Lunch Break"
-    - name: "13:30 - 15:30 About SICSS & CSS ([Prof Chris Bail (SICSS Founder, USA)](https://sicss.io/curriculum))"
+    - name: "13:30 - 15:30 About SICSS & CSS ([Prof Chris Bail (SICSS Founder, USA)](https://sicss.io/curriculum)) [<a href='https://sicss.io/overview/why-sicss' target='_blank'>Video</a>]"
     - name: "15:30 – 16:00 Tea Break"
     - name: "16:00 - 17:00 Research speed dating: Getting to Know you and your research ([John Inyang](https://www.unical.edu.ng/staff/user/profile-JohnInyang))"
   
 - date: September 24, 2024 
   name: "Day 2: Polarization & Big Data"
   events:
-    - name: "10:00 - 12:00 Understanding Polarization Research ([Polarization Lab](https://www.polarizationlab.com/team))"
+    - name: "10:00 - 12:00 Understanding Polarization Research ([Polarization Lab Materials](https://www.polarizationlab.com/team))"
     - name: "12:00 – 13:30 Lunch Break"
-    - name: "13:30 - 15:30 Applied Data Science with R ([Augustine Otobi](https://www.linkedin.com/in/augustine-ogbaji-otobi-166756103/)),([Mr.John Adoga Oghlewu](https://www.linkedin.com/in/john-oglewu-500618135/))"
+    - name: "13:30 - 15:30 Applied Data Science with R ([Augustine Otobi](https://www.linkedin.com/in/augustine-ogbaji-otobi-166756103/)),([Mr.John Adoga Oghlewu](https://www.linkedin.com/in/john-oglewu-500618135/)) [<a href='https://youtu.be/fhIIO0ne_14?si=Bo13LMyuS_Gw8dZj' target='_blank'>Video</a>]"
     - name: "15:30 – 16:00 Tea Break"
     - name: "16:00 - 17:00 Group Project Formation ([Augustine Otobi](https://www.linkedin.com/in/augustine-ogbaji-otobi-166756103/))"  
 
 - date: September 25, 2024
   name: "Day 3: Analyzing Political, Social, Cultural and Technological Polarization"
   events:
-    - name: "10:00 - 12:00 Talk: Polarized Perspectives on Gender-based productivity ([Professor (Mrs.) Grace Etuk ](https://www.unical.edu.ng/staff/user/profile-GRACEETUK))"
+    - name: "10:00 - 12:00 Talk: Polarized Perspectives on Gender-based productivity ([Professor (Mrs.) Grace Etuk ](https://www.unical.edu.ng/staff/user/profile-GRACEETUK)) [<a href='https://docs.google.com/presentation/d/1mtPGzzAUjPnj1kevy-WoyKCjZRenW9nK/edit?usp=sharing&ouid=105885888358650927695&rtpof=true&sd=true' target='_blank'>Slides</a>]"
     - name: "12:00 – 13:30 Lunch Break"
-    - name: "13:30 - 15:30 Dashboarding Polarized Views on Artificial Intelligence ([Joseph David](https://www.linkedin.com/in/josephdavid970/)),([Augustine Otobi](www.linkedin.com/in/augustine-ogbaji-otobi-166756103/))"
+    - name: "13:30 - 15:30 Dashboarding Polarized Views on Artificial Intelligence ([Joseph David](https://www.linkedin.com/in/josephdavid970/)),([Augustine Otobi](www.linkedin.com/in/augustine-ogbaji-otobi-166756103/)) [<a href='https://docs.google.com/presentation/d/11GdmX3Duof7JmGWWeq1gc7pSbEqvpGCc/edit?usp=sharing&ouid=105885888358650927695&rtpof=true&sd=true' target='_blank'>Slides</a>, <a href='https://drive.google.com/drive/folders/1ihY8FJ80luCeWaRZUGAOclbVKRgeciZY?usp=sharing' target='_blank'>R Scripts</a>, <a href='https://drive.google.com/drive/folders/1UO4hphfWHk3CQVrfYfQDisnyOKUgR4SW?usp=sharing' target='_blank'>Dataset</a>, <a href='https://drive.google.com/drive/folders/1zZ_8WCoKfUNHKOGusqDdizZf_i95JCRn?usp=sharing' target='_blank'>Git Files</a>] [<a href='https://youtu.be/dTC2GkQo3nw?si=-USArEY9LXYBt8TA' target='_blank'>Video</a>] [<a href='https://youtu.be/Mln038WJBdY?si=4VeN1AN6VLAhm1r8' target='_blank'>Video</a>]"
     - name: "15:30 – 16:00 Tea Break"
     - name: "16:00 - 17:00 Group Project"
 
 - date: September 26, 2024
   name: "Day 4: Big Data Modelling and Polarization with Machine Learning"
   events:
-    - name: "10:00 - 12:00 Machine Learning Algorithms and Analytics (Project: Probing Customer Propensity in a Polarized Market) ([Dr. Bassey Isaac](https://www.unical.edu.ng)), ([Augustine Otobi](https://www.linkedin.com/in/augustine-ogbaji-otobi-166756103/))"
+    - name: "10:00 - 12:00 Machine Learning Algorithms and Analytics (Project: Probing Customer Propensity in a Polarized Market) ([Dr. Bassey Isaac](https://www.unical.edu.ng)), ([Augustine Otobi](https://www.linkedin.com/in/augustine-ogbaji-otobi-166756103/)) [<a href='https://docs.google.com/presentation/d/1Z3mEjxWupXzr457ObkoDfKmbnblQufHa/edit?usp=sharing&ouid=105885888358650927695&rtpof=true&sd=true' target='_blank'>Slides</a>, <a href='https://drive.google.com/drive/folders/1DqYevc3jhWOTm5QC2oXUIJcnkHqBWlZS?usp=sharing' target='_blank'>Google Colab Files</a>, <a href='https://drive.google.com/file/d/1d-wHjLyHpQcNRxcX9_5kzecuXEqGaMWQ/view?usp=sharing' target='_blank'>Dataset</a>] [<a href='https://youtu.be/rTNeA9HJnUg?si=D4IHpZ9X-4oyCE5N' target='_blank'>Video</a>]"
     - name: "12:00 – 13:30 Lunch Break"
     - name: "13:30 - 15:30 Group Project"
     - name: "15:30 – 16:00 Tea Break"
-    - name: "16:00 - 17:00 Big Data Modelling with R ([Mr. Elijah Appiah (Ghana)](https://www.linkedin.com/in/elijah-appiah-383231123/))"
+    - name: "16:00 - 17:00 Big Data Modelling with R ([Mr. Elijah Appiah (Ghana)](https://www.linkedin.com/in/elijah-appiah-383231123/)) [<a href='https://docs.google.com/presentation/d/1JYrAnQGNt2p8cEVDSfZ77H3cbbaEyUvb/edit?usp=sharing&ouid=105885888358650927695&rtpof=true&sd=true' target='_blank'>Slides</a>, <a href='https://drive.google.com/file/d/15xijYTFY1NRWZYBA4VF3l9X2dWcBgxaM/view?usp=sharing' target='_blank'>R Script</a>, <a href='https://drive.google.com/file/d/1biO-cSb3yR6DqEtKQsw9pJXUeoBM4cr_/view?usp=sharing' target='_blank'>Dataset</a>, <a href='https://drive.google.com/drive/folders/1-pWsBVcNavi6olJ97UkvjjZfMrnisIwM?usp=sharing' target='_blank'>More Files</a>]"
 
 - date: September 27, 2024
   name: "Day 5: Expert Insights: Conducting Research for Social Impact"
   events:
-    - name: "10:00 - 12:00 Bridging Research and Policy Part I: Strategies for National Impact ([Professor Enang Udah](https://www.unical.edu.ng/staff/user/profile-enangudah-2))"
+    - name: "10:00 - 12:00 Bridging Research and Policy Part I: Strategies for National Impact ([Professor Enang Udah](https://www.unical.edu.ng/staff/user/profile-enangudah-2)) [<a href='https://drive.google.com/file/d/138vlMrr9PoOpG6qMbO_Dcdx8HcDjVaYu/view?usp=sharing' target='_blank'>Slides</a>] [<a href='https://www.youtube.com/watch?v=35xsoYVd9v4&list=PLX-vgm9Zz1hV1nOIHUjkQRxUEQoZWPL77&index=1' target='_blank'>Video</a>] [<a href='https://youtu.be/W3s3WtNrMkY?si=uNZ_3-Wr4m-aQ8Jo
+' target='_blank'>Video</a>]"
     - name: "12:00 – 13:30 Lunch Break"
     - name: "13:30 - 15:30 Group Project"
     - name: "15:30 – 16:00 Tea Break"
-    - name: "16:00 - 17:00 Bridging Research and Policy Part II: Strategies for Global Impact ([Mrs Grace Ihejiamaizu](https://about.me/graceihejiamaizu))"
+    - name: "16:00 - 17:00 Bridging Research and Policy Part II: Strategies for Global Impact ([Mrs Grace Ihejiamaizu](https://about.me/graceihejiamaizu)) [<a href='https://youtu.be/qmESRP2nZM4?si=NgXaPXEyd0lkaq-7' target='_blank'>Video</a>]"
 
 - date: September 28, 2024
   name: "Day 6: Group Presentation/Workshop"
