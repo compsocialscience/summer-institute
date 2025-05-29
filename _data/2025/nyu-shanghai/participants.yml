@@ -1,3 +1,38 @@
+- name: "Yin Dou"
+  image: /assets/images/nyushanghai2025/photo_Yin Dou.jpg
+  bio: "Yin Dou is a PhD candidate in the College of Architecture and Urban Planning at Tongji University in Shanghai. His research focuses on big data-driven urban spatial analysis, intelligent planning, and rail transit system planning for urban-regional integration. Previously, he was sponsored by the DAAD (German Academic Exchange Service) as a visiting scholar at the Technical University of Munich, Germany. Currently, he investigates regional planning text analysis and multi-scenario planning, with findings published in journals and conference proceedings. Beyond research, he also actively engages in academic communication, serving as a member of the English Website Editorial Committee of the Urban Planning Society of China."
+  website: https://douyin96.mysxl.cn
+
+- name: "Yuting He"
+  image: /assets/images/nyushanghai2025/photo_Yuting He.jpg
+  bio: "Yuting He, a PhD student from the School of Journalism and Media at the University of Texas at Austin. She is also a graduate research assistant working at the Center for Media Engagement. Yuting's research specializes in three domains: (1) Language and politics, focusing on the impact of problematic information on politics. Her work in this area includes research on political disinformation consumption behavior, and the computational development of one of the first language classifiers solving the grey zone of divisive political language. (2) Journalism studies, particularly focusing on the precarious conditions of journalistic work, such as female celebrity journalists on social media, and U.S. student journalists covering protests. (3) News production via emerging technologies, such as research on AI-generated news summaries and AI-generated election campaign videos. Methodologically, Yuting uses computationally driven mixed methods to answer her research inquiries and further broaden her research imagination within these three domains."
+  website: 
+
+- name: "Antao Li"
+  image: /assets/images/nyushanghai2025/photo_Antao Li.jpeg
+  bio: "Antao Li (李桉涛) is a Ph.D. student in Sociology at Fudan University. His research focuses on social stratification, labor markets, and computational social science. He has led the development of the China Socio-Economic Index (CSEI) and the China Labor Market Dynamics Data (CLMD), with work spanning web scraping, natural language processing, and statistical modeling. He is currently investigating how institutional contexts shape access to employment through cross-national comparisons of online job data."
+  website: 
+
+- name: "Yiran Liu"
+  image: /assets/images/nyushanghai2025/photo_Yiran Liu.jpg
+  bio: "Yiran Liu is a graduating MS student in Applied Economics and Management at Cornell University. His research focuses on quantitative marketing. Yiran will begin his PhD in Marketing at University College London in Fall 2025. He is passionate about using data-driven methods to study firm expansion and public policy."
+  website: 
+
+- name: "Xinyue Wu"
+  image: /assets/images/nyushanghai2025/photo_Xinyue Wu.jpg
+  bio: "Xinyue Wu is a Ph.D. candidate in Sociology and M.S. student in Statistics at Washington State University. Her research focuses on population health, demography, and life course processes, with a strong emphasis on causal inference and computational methods. She applies quasi-experimental designs and machine learning tools to investigate how structural and individual-level factors shape health trajectories over time. At SICSS 2025 NYU Shanghai, Xinyue is excited to deepen her computational skills and collaborate with scholars exploring innovative approaches in social science research."
+  website: 
+
+- name: "Kai Zhao"
+  image: /assets/images/nyushanghai2025/photo_Kai Zhao.jpg
+  bio: "Kai Zhao is a Research Assistant Professor at the School of Graduate Studies, Lingnan University. Prior to joining Lingnan he was a research faculty at the Center for Postsecondary Success at Florida State University. He earned his PhD in Higher Education and Student Affairs from the Ohio State University. Dr. Zhao's research focuses on higher education policy and internationalization of higher education, with a particular emphasis on mainland China. His work has appeared in Higher Education, Studies in Higher Education, Higher Education Research & Development, AERA Open, Compare, and other academic journals. He is currently leading a GRF project on the implementation and consequences of China's research evaluation reform."
+  website: 
+
+- name: "Yuhang Zhu"
+  image: /assets/images/nyushanghai2025/photo_Yuhang Zhu.jpg
+  bio: "Yuhang Zhu (祝宇杭) is a Ph.D. student in the Department of Political Science at the University of California, Merced. His research explores the political consequences of technological change, particularly how labor-saving technologies reshape political power distribution and influence individual political preferences and behaviors in advanced democracies. He's especially interested in applying deep learning to image data to answer these questions."
+  website: 
+  
 - name: "Participant info coming soon." # Replace with participant name.
   image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
   bio: " ... "  # Add participant bio here.
