@@ -7,12 +7,11 @@
 - date: 2025-06-09 # Monday
   name: Introduction and Ethics [Kopparhammaren 2, Room KO22]
   events:
-    - name: "09:30 - 10:00 Introduction and Welcome (Jacob Habinek)" 
     - name: "10:00 - 12:00 Lecture: Computational Social Science (Jacob Habinek)" 
     - name: "12:00 - 13:00 Lunch Break"
-    - name: "13:00 - 16:00 Lecture and Workshop: Ethics (Hendrik Erz)"
+    - name: "13:00 - 16:00 Lecture and Workshop: Ethics (Hendrik Erz, Tangbin Chen, Diletta Goglia)"
     - name: "15:00 Fika"
-    - name: "19:00 - 21:00 Welcome Dinner"
+    - name: "19:00 - 21:00 Welcome Dinner [Enoteket]"
 
 - date: 2025-06-10 # Tuesday
   name: Digital Trace Data [Kopparhammaren 2, Room KO22]
@@ -21,7 +20,7 @@
     - name: "12:00 - 13:00 Lunch Break"
     - name: "13:00 - 14:30 Research Talk: Yuan Liau"
     - name: "15:00 Fika"
-    - name: "15:00 - 17:30 Workshop: Digital Trace Data"
+    - name: "15:00 - 17:30 Workshop: Digital Trace Data (Maël Lecoursonnais, Vsevolod Suschevskiy, Tangbin Chen)"
 
 - date: 2025-06-11 # Wednesday
   name: Computational Text Analysis [Kopparhammaren 2, Room KO22]
@@ -30,21 +29,21 @@
     - name: "12:00 - 13:00 Lunch Break"
     - name: "13:00 - 14:30 Research Talk: Neha Gondal"
     - name: "15:00 Fika"
-    - name: "15:00 - 17:30 Workshop: Computational Text Analysis"
+    - name: "15:00 - 17:30 Workshop: Computational Text Analysis (Alexandra Rottenkolber, Diletta Goglia, Hendrik Erz)"
 
 - date: 2025-06-12 # Thursday
   name: Social Network Analysis [Kopparhammaren 2, Room KO22]
   events:
     - name: "10:00 - 12:00 Lecture: Social Network Analysis (Alexandra Rottenkolber)"
     - name: "12:00 - 13:00 Lunch Break"
-    - name: "13:00 - 16:00 Workshop: Social Network Analysis (Alexandra Rottenkolber, Tangbin Chen, Seva)"
+    - name: "13:00 - 16:00 Workshop: Social Network Analysis (Alexandra Rottenkolber, Tangbin Chen, Vsevolod Suschevskiy)"
     - name: "15:00 Fika Break"
     - name: "16:00 - 17:30 Research Talk: Claudia Acciai"
 
 - date: 2025-06-13 # Friday
   name: Spatial Data [Kopparhammaren 2, Room KO22]
   events:
-    - name: "10:00 - 12:00 Workshop: Spatial Data (Maël Lecoursonnais)"
+    - name: "10:00 - 12:00 Workshop: Spatial Data (Maël Lecoursonnais, Kazuki Sakamoto)"
     - name: "12:00 - 13:00 Lunch Break"
     - name: "13:00 - 16:00 Matchmaking for the Group Projects"
     - name: "15:00 Fika"
@@ -64,7 +63,7 @@
   name: Project Week [Co-Working Space]
   events:
     - name: "10:00 - 16:00 Project Working Time"
-    - name: "17:00 IAS Social [Ölstugan Gull-Olle]"
+    - name: "17:00 IAS Social [TBA]"
 
 - date: 2025-06-18 # Wednesday
   name: Project Week [Co-Working Space]
