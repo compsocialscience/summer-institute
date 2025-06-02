@@ -1,12 +1,3 @@
-"Below are the starting times of each daily activity. Note that the following breaks repeat every day:"
-- "11:00 - 11:15"
-- "12:15 - 13:15 (with Lunch)"
-- "14:15 - 14:30"
-- "15:30 - 16:00 (with Coffee)"
-
-"Plus, from Tuesday to friday, there will be coffee from 09:30 to 10:00"
-
-
 - date: "June 16, 2025"
   events:
     - name: "09:00. Welcome and Opening Remarks, with Breakfast" 
