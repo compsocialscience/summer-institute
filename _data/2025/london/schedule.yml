@@ -1,19 +1,36 @@
+"Notes: Below are only the starting times. Every day there are breaks planned from 11:00 - 11:15, 12:15 - 13:15 (with Lunch), 14:15 - 14:30, and 15:30 - 16:00 (with Coffee)"
+
 - date: "June 16, 2025"
   events:
-    - name: "Workshop: Natural Language Processing" # Update this line or add markdown for your site's schedule.
-    - name: "Keynote Mike Yeomans"
-    - name: "Keynote Doyne Farmer" 
+    - name: "09:00. Welcome and Opening Remarks, with Breakfast" 
+    - name: "09:15. Academic Speed Dating" 
+    - name: "10:00. Workshop: Natural Language Processing" # Update this line or add markdown for your site's schedule.
+    - name: "14:30. Keynote 1: Mike Yeomans"
+    - name: "16:00. Keynote 2: Doyne Farmer" 
+    - name: "17:00. Drinks!" 
 
 - date: "June 17, 2025"
   events:
     - name: "Workshop: Agent Based Modeling" # Update this line or add markdown for your site's schedule.
-    - name: "Keynote Mirco Musolesi"
-    - name: "Keynote Sasha Vezhnevets" 
+    - name: "Keynote 1: Mirco Musolesi"
+    - name: "Keynote 2: Sasha Vezhnevets" 
 
 - date: "June 18, 2025"
    events:
     - name: "Workshop: Network Analysis" # Update this line or add markdown for your site's schedule.
-    - name: "Keynote Milena Tsvetkova"
-    - name: "Keynote Sanaz Talaifar" 
+    - name: "Keynote 1: Milena Tsvetkova"
+    - name: "Keynote 2: Sanaz Talaifar" 
+
+- date: "June 19, 2025"
+  events:
+    - name: "Workshop: Agent Based Modeling" # Update this line or add markdown for your site's schedule.
+    - name: "Keynote 1: Mirco Musolesi"
+    - name: "Keynote 2: Sasha Vezhnevets" 
+
+- date: "June 20, 2025"
+   events:
+    - name: "Workshop: Network Analysis" # Update this line or add markdown for your site's schedule.
+    - name: "Keynote 1: Milena Tsvetkova"
+    - name: "Keynote 2: Sanaz Talaifar" 
 
   # Our tentative schedule can be seen [here](www.google.com). Our program focuses on ... . We will invite guest speakers to provide an overview of ..."
