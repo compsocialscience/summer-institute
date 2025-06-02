@@ -10,4 +10,10 @@
     - name: "Keynote Mirco Musolesi"
     - name: "Keynote Sasha Vezhnevets" 
 
+- date: "June 18, 2025"
+   events:
+    - name: "Workshop: Network Analysis" # Update this line or add markdown for your site's schedule.
+    - name: "Keynote Milena Tsvetkova"
+    - name: "Keynote Sanaz Talaifar" 
+
   # Our tentative schedule can be seen [here](www.google.com). Our program focuses on ... . We will invite guest speakers to provide an overview of ..."
