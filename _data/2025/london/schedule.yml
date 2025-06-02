@@ -1,5 +1,13 @@
-- date: "June 16 - June 26, 2025"
+- date: "June 16, 2025"
   events:
-    - name: "Schedule coming soon. Check back for updates!" # Update this line or add markdown for your site's schedule.
+    - name: "Workshop: Natural Language Processing" # Update this line or add markdown for your site's schedule.
+    - name: "Keynote Mike Yeomans"
+    - name: "Keynote Doyne Farmer" 
+
+- date: "June 17, 2025"
+  events:
+    - name: "Workshop: Agent Based Modeling" # Update this line or add markdown for your site's schedule.
+    - name: "Keynote Mirco Musolesi"
+    - name: "Keynote Sasha Vezhnevets" 
 
   # Our tentative schedule can be seen [here](www.google.com). Our program focuses on ... . We will invite guest speakers to provide an overview of ..."
