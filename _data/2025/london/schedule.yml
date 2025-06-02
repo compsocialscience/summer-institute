@@ -1,5 +1,5 @@
 - date: June 16, 2025 # Monday
-  name: Opening Day - Academic Speed Dating, NLP
+  name: Opening Day. Academic Speed Dating, NLP
   events:
     - name: "09:00 - Breakfast - Welcome & Opening Remarks"
     - name: "09:15 - Academic Speed Dating"
@@ -30,6 +30,7 @@
 - date: June 19, 2025 # Thursday
   name: LLM Agents and Group Work
   events:
+    - name: "09:30 - Coffee"
     - name: "10:00 - Workshop: LLM Agents [G01]"
     - name: "13:15 - Group Projects"
     - name: "14:30 - Keynote: Stefania Innocenti [G01]"
@@ -38,6 +39,7 @@
 - date: June 20, 2025 # Friday
   name: Project Pitches
   events:
+    - name: "09:30 - Coffee"
     - name: "10:00 - Keynote: Pierpaolo Vivo [G01]"
     - name: "11:15 - Keynote: Neave O'Clery [G01]"
     - name: "13:15 - Group Projects"
