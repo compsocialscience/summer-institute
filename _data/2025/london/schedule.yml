@@ -3,13 +3,46 @@
   events:
     - name: "09:00 - 09:15 Breakfast - Welcome & Opening Remarks"
     - name: "09:15 - 09:30 Academic Speed Dating"
-    - name: "11:00 - 11:15 Break"
     - name: "10:00 - 11:00 Workshop: NLP [G01]"
     - name: "11:15 - 12:15 Workshop: NLP [G01]"
-    - name: "12:15 - 13:15 Break with Lunch"
     - name: "13:15 - 14:15 Workshop: NLP [G01]"
-    - name: "14:15 - 14:30 Break"
-    - name: "14:30 - 15:30 Keynote: Mike [G01]"
-    - name: "15:30 - 16:00 Break with Coffee"
-    - name: "16:00 - 17:00 Keynote: Doyne [E28 Harrie Massey LT]"
+    - name: "14:30 - 15:30 Keynote: Mike Yeomans [G01]"
+    - name: "16:00 - 17:00 Keynote: J. Doyne Farmer [E28 Harrie Massey LT]"
 
+- date: June 17, 2025 # Tuesday
+  name: Modeling and Research Questions
+  events:
+    - name: "09:30 - 10:00 Coffee"
+    - name: "10:00 - 11:00 Workshop: Agent-Based Modeling [G01]"
+    - name: "11:15 - 12:15 Workshop: Agent-Based Modeling [G01]"
+    - name: "13:15 - 14:15 Workshop: Good Research Questions [G01]"
+    - name: "14:30 - 15:30 Keynote: Mirco Musolesi"
+    - name: "16:00 - 17:00 Keynote: Sasha Vezhnevets"
+
+- date: June 18, 2025 # Wednesday
+  name: Network Analysis and Group Org
+  events:
+    - name: "09:30 - 10:00 Coffee"
+    - name: "10:00 - 11:00 Workshop: Networks [G01]"
+    - name: "11:15 - 12:15 Workshop: Networks [G01]"
+    - name: "13:15 - 14:15 Group Organization"
+    - name: "14:30 - 15:30 Keynote: Milena Tsvetkova"
+    - name: "16:00 - 17:00 Keynote: Sanaz Talaifar"
+
+- date: June 19, 2025 # Thursday
+  name: LLM Agents and Group Work
+  events:
+    - name: "10:00 - 11:00 Workshop: LLM Agents [G01]"
+    - name: "11:15 - 12:15 Workshop: LLM Agents [G01]"
+    - name: "13:15 - 14:15 Group Projects"
+    - name: "14:30 - 15:30 Keynote: Stefania Innocenti [G01]"
+    - name: "16:00 - 17:00 Keynote: Jakob"
+
+- date: June 20, 2025 # Friday
+  name: Final Presentations and Wrap-up
+  events:
+    - name: "10:00 - 11:00 Keynote: Pierpaolo Vivo [G01]"
+    - name: "11:15 - 12:15 Keynote: Neave O'Clery [G01]"
+    - name: "13:15 - 14:15 Group Projects"
+    - name: "14:30 - 15:30 Project Pitch (3 min)"
+    - name: "15:30 - 16:00 Free Afternoon"
