@@ -14,7 +14,7 @@
     - name: "Keynote 2: Sasha Vezhnevets" 
 
 - date: "June 18, 2025"
-   events:
+  events:
     - name: "Workshop: Network Analysis" # Update this line or add markdown for your site's schedule.
     - name: "Keynote 1: Milena Tsvetkova"
     - name: "Keynote 2: Sanaz Talaifar" 
@@ -26,7 +26,7 @@
     - name: "Keynote 2: Sasha Vezhnevets" 
 
 - date: "June 20, 2025"
-   events:
+  events:
     - name: "Workshop: Network Analysis" # Update this line or add markdown for your site's schedule.
     - name: "Keynote 1: Milena Tsvetkova"
     - name: "Keynote 2: Sanaz Talaifar" 
