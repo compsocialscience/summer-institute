@@ -1,5 +1,5 @@
 - date: June 16, 2025 # Monday
-  name: Opening Day
+  name: Opening Day - Academic Speed Dating, NLP
   events:
     - name: "09:00 - Breakfast - Welcome & Opening Remarks"
     - name: "09:15 - Academic Speed Dating"
@@ -10,7 +10,7 @@
 
 
 - date: June 17, 2025 # Tuesday
-  name: Modeling and Research Questions
+  name: ABMs, Good Research Questions
   events:
     - name: "09:30 - Coffee"
     - name: "10:00 - Workshop: Agent-Based Modeling [G01]"
@@ -19,7 +19,7 @@
     - name: "16:00 - Keynote: Sasha Vezhnevets"
 
 - date: June 18, 2025 # Wednesday
-  name: Network Analysis and Group Org
+  name: Network Analysis and Group Organization
   events:
     - name: "09:30 - Coffee"
     - name: "10:00 - Workshop: Networks [G01]"
@@ -36,7 +36,7 @@
     - name: "16:00 - Keynote: Jakob Foerster"
 
 - date: June 20, 2025 # Friday
-  name: Final Presentations and Wrap-up
+  name: Project Pitches
   events:
     - name: "10:00 - Keynote: Pierpaolo Vivo [G01]"
     - name: "11:15 - Keynote: Neave O'Clery [G01]"
