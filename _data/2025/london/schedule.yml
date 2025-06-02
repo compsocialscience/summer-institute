@@ -1,39 +1,50 @@
 - date: "June 16, 2025"
   events:
-    - name: "09:00. Welcome and Opening Remarks, with Breakfast" 
-    - name: "09:15. Academic Speed Dating" 
-    - name: "10:00. Workshop: Natural Language Processing" # Update this line or add markdown for your site's schedule.
+    - name: "09:00. Welcome and Opening Remarks, with Breakfast"
+    - name: "09:15. Academic Speed Dating"
+    - name: "10:00. Workshop: Natural Language Processing"
     - name: "14:30. Keynote 1: Mike Yeomans"
-    - name: "16:00. Keynote 2: Doyne Farmer" 
-    - name: "17:00. Drinks!" 
+    - name: "16:00. Keynote 2: Doyne Farmer"
+    - name: "17:00. Drinks!"
 
 - date: "June 17, 2025"
   events:
-    - name: "Workshop: Agent Based Modeling" # Update this line or add markdown for your site's schedule.
+    - name: "Workshop: Agent Based Modeling"
     - name: "Keynote 1: Mirco Musolesi"
-    - name: "Keynote 2: Sasha Vezhnevets" 
+    - name: "Keynote 2: Sasha Vezhnevets"
 
 - date: "June 18, 2025"
   events:
-    - name: "Workshop: Network Analysis" # Update this line or add markdown for your site's schedule.
+    - name: "Workshop: Network Analysis"
     - name: "Keynote 1: Milena Tsvetkova"
-    - name: "Keynote 2: Sanaz Talaifar" 
+    - name: "Keynote 2: Sanaz Talaifar"
 
 - date: "June 19, 2025"
   events:
-    - name: "Workshop: Agent Based Modeling" # Update this line or add markdown for your site's schedule.
+    - name: "Workshop: Agent Based Modeling"
     - name: "Keynote 1: Mirco Musolesi"
-    - name: "Keynote 2: Sasha Vezhnevets" 
+    - name: "Keynote 2: Sasha Vezhnevets"
 
 - date: "June 20, 2025"
   events:
-    - name: "Workshop: Network Analysis" # Update this line or add markdown for your site's schedule.
+    - name: "Workshop: Network Analysis"
     - name: "Keynote 1: Milena Tsvetkova"
-    - name: "Keynote 2: Sanaz Talaifar" 
+    - name: "Keynote 2: Sanaz Talaifar"
 
-- date: "June 23 through June 26, 2025"
+- date: "June 23, 2025"
   events:
-    - name: "Group project development" # Update this line or add markdown for your site's schedule. 
-
+    - name: "Group project development"
+    
+- date: "June 24, 2025"
+  events:
+    - name: "Group project development"
+    
+- date: "June 25, 2025"
+  events:
+    - name: "Group project development"
+    
+- date: "June 26, 2025"
+  events:
+    - name: "Group project development"
 
   # Our tentative schedule can be seen [here](www.google.com). Our program focuses on ... . We will invite guest speakers to provide an overview of ..."
