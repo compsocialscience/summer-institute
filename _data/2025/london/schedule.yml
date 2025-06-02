@@ -31,4 +31,9 @@
     - name: "Keynote 1: Milena Tsvetkova"
     - name: "Keynote 2: Sanaz Talaifar" 
 
+- date: "June 23 through June 26, 2025"
+  events:
+    - name: "Group project development" # Update this line or add markdown for your site's schedule. 
+
+
   # Our tentative schedule can be seen [here](www.google.com). Our program focuses on ... . We will invite guest speakers to provide an overview of ..."
