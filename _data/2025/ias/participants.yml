@@ -1,6 +1,72 @@
-- name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
-
-# Add more participants with the same format as above...
+- name: Yasmin Soni
+  bio: "Yasmin Soni is a doctoral scholar at the Tata Institute of Social Sciences, Mumbai and an Academic Associate with the Indian Institute of Management, Ahmedabad.  Her research focuses on work meaningfulness. She utilizes photo-content analysis, photo-elicitation interviews, sentiment and tone analysis, and object detection. I am particularly interested in sentiment analysis, digital trace data gathering, text mining, and social network analysis. I am especially interested in text analysis and machine learning methods to interpret textual and visual data effectively. Previously, she has worked on music and its impact on productivity in a quasi-experimental setting."
+  image: /assets/images/soni_yasmin.jpg
+  website:
+- name: Great Uchechukwu Udochi
+  bio: "Great Udochi is a doctoral researcher at the Swiss National Center of Competence in Research \u2013The Migration-Mobility Nexus (nccr-on the move), University of Neuch\u00e2tel. His doctoral research focuses on the political and economic implications of regional emigration."
+  image: /assets/images/udochi_great_uchechukwu.jpeg
+  website:
+- name: Nnaemeka Ohamadike
+  bio: "Nnaemeka is a PhD candidate in Applied Data Science at the University of Johannesburg, South Africa, and Senior Data Analyst at Good Governance Africa. His research uses data science to study governance, bias, and disinformation. His current research develops machine learning models for studying bias in South African news."
+  image: /assets/images/ohamadike_nnaemeka.jpeg
+  website:
+- name: Lu Yan
+  bio: "Lu Yan is a Ph.D. candidate in Translation Studies at the University of Geneva. Her doctoral research offers sociological insights into the subtitling industry in China, drawing on Actor-Network Theory. Her primary research interests lie in big data in social media, network analysis, and audiovisual translation, notably subtitling."
+  image: /assets/images/yan_lu.jpg
+  website:
+- name: Carlos Villalobos
+  bio: "Carlos Villalobos is a doctoral student in the Deparment of Political Science at the University of Barcelona, he holds an MA in Political Science from de Popular Autonomous Universitiy of Puebla, M\u00e9xico. He researches the strategical uses of social movements identities in different political contexts and its correlation with advocacy mechanisms. His current project seeks use machine learning  to identify the frames of the transgender discourses."
+  image: /assets/images/villalobos_carlos.jpg
+  website:
+- name: Elizabeth Kuhlman
+  bio: "Lizzy Kuhlman is a predoctoral fellow at The Shift Project at the Harvard Kennedy School. She holds a bachelor\u2019s degree in sociology and statistics from Rice University and will begin her PhD in sociology at Stanford University this fall. She is broadly interested in spatial inequality and segregation."
+  image: /assets/images/kuhlman_elizabeth.png
+  website:
+- name: Ting Xiao
+  bio: "Ting Xiao is a PhD student in Sociology at the University of Copenhagen. Her research focuses on the underlying mechanisms perpetuating North-South scientific disparities. She has research experience in spatial economics and network science. Her current work integrates large-scale metadata with a methodological toolkit spanning econometrics, machine learning, and NLP."
+  image: /assets/images/xiao_ting.jpg
+  website:
+- name: Georgios Panayiotou
+  bio: "Georgios is a Ph.D. candidate in Computer Science at InfoLab, Uppsala University, Sweden. His research focuses on complex network data engineering. He is particularly interested in scalable and fairness-aware methods for mining feature-rich networks, and their applications within computational social science."
+  image: /assets/images/panayiotou_georgios.jpg
+  website:
+- name: Inga Kristin Wohlert
+  bio: "Inga is a Ph. D. candidate at InfoLab at Uppsala University. Her research interests are interdisciplinary in the field of social cybersecurity and computational social sciences, with a particular interest in the intersection between her background in data and cognitive sciences."
+  image: /assets/images/wohlert_inga.jpg
+  website:
+- name: Anna Katharina Joraschek
+  bio: "Anna Katharina Joraschek is a PhD student in Sociology at Ludwig-Maximilians Universität München. Her research focuses on applying computational methods such as quantitative text analysis to survey data and exploring ways to link survey responses with other data sources. She is part of the GLEN study, where she coordinates data user support."
+  image: /assets/images/joraschek_anna.jpg
+  website:
+- name: Fredrik Schück
+  bio: "Fredrik Schück is a PhD student at KTH and SMHI. His work explores human-water feedbacks, focusing on how institutions collaborate to reduce the impact of floods and droughts. He previously worked as a developer for the Swedish impact-based weather warning system and holds an MSc in hydrology from KTH."
+  image: /assets/images/schueck_fredrik.jpg
+  website:
+- name: Deanna DiMonte
+  bio: "Deanna DiMonte is currently pursuing a PhD in Electrical Engineering at Northwestern University. Her research focuses on image processing, machine learning, computational photography, and AI ethics, with an interest in detecting manipulated media and analyzing the propagation of synthetic content."
+  image: /assets/images/dimonte_deanna.jpg
+  website:
+- name: Clara Englert
+  bio: "Clara Englert is a PhD student in sociology at the University of Bonn. As part of the research group \u201cSorting Decisions and Peer Processes in Schools (SPINS)\u201d, she explores how the composition of classrooms in German secondary schools influences peer interactions. Her current research investigates how institutional and compositional school features shape the role of gender-normative STEM interests within adolescent friendship networks."
+  image: /assets/images/englert_clara.jpg
+  website:
+- name: Hugo-Henrik Hachem
+  bio: "Hugo-Henrik Hachem is a Postdoctoral researcher at the Reasoning and Learning Lab, IDA, Link\u00f6ping University. He works on the Vinnova-funded ADAPT project, which focuses on advanced digitalisation and higher education in Sweden. His research centres on the philosophies of adult learning, Lifelong learning, educational gerontology, AI literacy and emancipation."
+  image: /assets/images/hachem_hugo.jpg
+  website:
+- name: Emma Swanson
+  bio: "Emma Swanson is a PhD student in political science specializing in American politics at Columbia University. Her research interests include climate and energy politics, local government, and political behavior. She received a B.A. in political science and a B.S. in microbiology from UC Santa Barbara."
+  image: /assets/images/swanson_emma.png
+  website:
+- name: Ritsuko Iwai
+  bio: "Ritsuko Iwai is a research scientist at RIKEN. Motivated by cross-cultural experiences, I am interested in research about psychological traits including loneliness  combining natural language processing, lab experiments, and GPS-based modeling to examine social behavior in both lab and real-world settings."
+  image: /assets/images/iwai_ritsuko.jpeg
+  website:
+- name: Yevhen Voronin
+  bio: "Yevhen Voronin is a Research Fellow and PhD student in Sociology (University of Wuppertal). Before that, he completed an M.Sc. in Sociology & Social Research (University of Cologne) and worked as a Research Associate at GESIS. His research focuses on cultural consumption, social influence in cultural markets and Ukrainian studies."
+  image: /assets/images/voronin_yevhen.png
+  website:
+- name: Ratna Aini Hadi
+  bio: "Aini is a Doctoral Researcher and member of the Disinformation, Propaganda and Soft Power Research Lab at LUT University. Her research focuses on the challenges of disinformation. She holds an MA in Digital Media and Society from Uppsala University and holds a BA in Political Science and International Studies from UC Irvine."
+  image: /assets/images/hadi_ratna.jpg
+  website:
