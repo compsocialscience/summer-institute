@@ -132,10 +132,3 @@
   image: /assets/images/nyushanghai2025/photo_Yuhang Zhu.jpg
   bio: "Yuhang Zhu (祝宇杭) is a Ph.D. student in the Department of Political Science at the University of California, Merced. His research explores the political consequences of technological change, particularly how labor-saving technologies reshape political power distribution and influence individual political preferences and behaviors in advanced democracies. He's especially interested in applying deep learning to image data to answer these questions."
   website: 
-  
-- name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
-
-# Add more participants with the same format as above...
