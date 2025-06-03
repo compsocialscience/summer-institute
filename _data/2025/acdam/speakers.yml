@@ -6,11 +6,11 @@ He also serves as an Adjunct Professor at Zetech University and is the Director 
   website: https://www.google.com # update speaker personal link here
 
 - name: "Professor Chris Bail." # Speaker name goes here.
-  image: assets/images/ # Upload speaker image to /assets/images/ and update URL here.
+  image: assets/images/chris.png # Upload speaker image to /assets/images/ and update URL here.
   bio: "Chris Bail is Professor of Sociology, Computer Science, Political Science, and Public Policy at Duke University, where he directs the Society-Centred AI Initiative and co-directs the Polarization Lab. He studies how artificial intelligence shapes human behaviour in a range of different settings—and social media platforms.  His widely acclaimed 2021 book, Breaking the Social Media Prism, was featured in the New York Times, the New Yorker, and described as “masterful,” by Science Magazine. It also inspired Twitter to implement a major change to its policies designed to counter misinformation and polarization.
 Chris is passionate about building the field of computational social science. He is the Editor of the Oxford University Press Series in Computational Social Science and the Co-Founder of the Summer Institutes in Computational Social Science, which are free training events designed to introduce junior scholars to the field that are held concurrently in a range of universities around the world each year. He also serves on the Advisory Committee to the National Science Foundation's Social Behavioural and Economic Sciences Directorate, and helped create Duke's Interdisciplinary Data Science Program. 
 " # add speaker bio here
-  website: https://www.google.com # update speaker personal link here
+  website: https://www.google.com # update speaker personal link here  
 
   - name: "Dr. Emmanuel Olamijuwon  Ph.D." # Speaker name goes here.
   image: assets/images/ # Upload speaker image to /assets/images/ and update URL here.
