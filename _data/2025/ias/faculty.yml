@@ -23,7 +23,22 @@
   bio: Maël Lecoursonnais is a PhD student at the Institute for Analytical Sociology. His research interests span spatial inequalities, causal inference, and applied machine learning. His current project investigates the consequences of spatial inequalities on life-course outcomes such as education or income, using causally-oriented methods and/or machine learning algorithms. 
   website: https://maellecoursonnais.github.io/
 
+- name: Kazuki Sakamoto
+  image: /assets/images/sakamoto_kazuki.jpg
+  bio: 
+  website: https://liu.se/en/employee/kazsa11
+
+- name: Tangbin Chen
+  image: /assets/images/chen_tangbin.jpg
+  bio: "Tangbin is a PhD student at the Institute for Analytical Sociology, Linköping University. His research focuses on the spread of health-related behaviors and health inequalities using social network analysis. He is currently working on projects examining social influence on fertility and the diffusion of nicotine use among Swedish adolescents."
+  website: https://ki.se/en/people/tangbin-chen
+
 - name: Diletta Goglia
   image: /assets/images/ias_diletta_goglia.jpg
   bio: Diletta Goglia is a doctoral student in Network Science at the Information Technology Department of Uppsala University. Her work in the "Uppsala University Information Laboratory research group" (UU-InfoLab) focuses on developing computational methods to model and explain social behavior of people in online communication. Her current project is analyzing users’ roles in conversational data from Online Social Networks, aiming at identifying, modelling and understanding actors’ behavioral patterns in online discussions, by combining structural properties of graphs with social theories. Previously, she collaborated with the “HumMingBird - Horizon 2020 EU” project, working on Machine Learning and Big Data Science to study and predict cross-border human migration using Social Big Data from Facebook. She holds a MSc in Artificial Intelligence and a BSc in Digital Humanities, from University of Pisa. Her education in Computer Science, background in humanities and expertise in sociology delineate the profile of a multidisciplinary researcher.
   website: https://www.it.uu.se/katalog/dilgo529
+
+- name: Vsevolod Suschevskiy
+  image:
+  bio: 
+  website: 
