@@ -1,4 +1,19 @@
-- name: "Speaker info coming soon." # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " ... " # add speaker bio here
-  website: https://www.google.com # update speaker personal link here
+- name: Claudia Acciai
+  image: /assets/images/acciai_claudia.png
+  bio: "Claudia Acciai is a post-doctoral researcher at ITU Copenhagen, where she is affiliated with NERDS, and she is currently a visiting researcher at the Copenhagen Center for Social Data Science (SODAS).  Her work lies at the intersection of comparative public policy, innovation studies, and sociology of science. In her research, she combines computational and experimental methods with qualitative content analysis techniques. She has been working on quantifying institutional and country-related Matthew effects in science and on scientific misinformation. She is currently part of a research project investigating trends in the usage and prevalence of LLMs across scientific disciplines."
+  website: https://scholar.google.com/citations?user=O0W7OsgAAAAJ&hl=en
+
+- name: Károly Takács
+  image: /assets/images/takacs_karoly.jpg
+  bio: "Károly Takács is Professor and Deputy Director at the Institute for Analytical Sociology (IAS), Linköping University, Sweden, and Research Professor at the CSS-RECENS Research Group, HUN-REN Centre for Social Sciences in Budapest. He received his PhD from the University of Groningen / ICS (The Netherlands) in 2002. He recently completed an ERC project on gossip, reputation, and cooperation. His research interests are the theoretical, experimental, and empirical analysis of social networks in relation to problems of honest communication, social norms, cooperation, and conflict."
+  website: https://liu.se/en/employee/karta65
+
+- name: Neha Gondal
+  image: /assets/images/gondal_neha.jpg
+  bio: "Neha Gondal is an associate professor in the department of sociology and the Faculty of Computing & Data Sciences (CDS) at Boston University. She uses mathematical and computational techniques to investigate the relationship between social networks and culture and its role in the production and maintenance of social inequalities. Dr. Gondal draws on a variety of computational techniques in her work including exponential random graph models, machine learning, multi-level regression models, and agent-based simulations. She has studied disparate contexts including moneylending in Renaissance Florence, inequalities in science and academia, public health in housing developments in Boston, and organizational diversity management."
+  website: https://www.nehagondal.com/home
+
+- name: Yuan Liao
+  image: /assets/images/liao_yuan.jpg
+  bio: "Dr. Yuan Liao is an interdisciplinary researcher specializing in sustainable mobility and urban data science. She holds a PhD in Energy and Environment from Chalmers University of Technology in Sweden. Her research focuses on understanding urban mobility patterns and social inequality through large-scale geolocation data, spatial analytics, and transport modeling."
+  website: https://www.chalmers.se/en/persons/yuanlia/
