@@ -1,11 +1,56 @@
+- name: "Yirao Chen"
+  image: /assets/images/nyushanghai2025/photo_Yirao Chen.PNG
+  bio: "Yirao Chen is a Ph.D. student in Sociology at Tsinghua University, where she also earned her bachelor's degree. Her current research focuses on attention capital in the digital age. Previously, she conducted research on parenting styles. Broadly, Yirao's interests include information diffusion, culture, social prediction and simulation, and human-computer interaction. She is passionate about exploring the potential of computational and AI tools in social science research."
+  website: 
+
 - name: "Yin Dou"
   image: /assets/images/nyushanghai2025/photo_Yin Dou.jpg
   bio: "Yin Dou is a PhD candidate in the College of Architecture and Urban Planning at Tongji University in Shanghai. His research focuses on big data-driven urban spatial analysis, intelligent planning, and rail transit system planning for urban-regional integration. Previously, he was sponsored by the DAAD (German Academic Exchange Service) as a visiting scholar at the Technical University of Munich, Germany. Currently, he investigates regional planning text analysis and multi-scenario planning, with findings published in journals and conference proceedings. Beyond research, he also actively engages in academic communication, serving as a member of the English Website Editorial Committee of the Urban Planning Society of China."
   website: https://douyin96.mysxl.cn
 
+- name: "Fan Fu"
+  image: /assets/images/nyushanghai2025/photo_Fan Fu.JPG
+  bio: "Fan Fu is a third-year Ph.D. student in the Sociology Department at the University of California, San Diego. His research investigates the role of elites in shaping inequality, with a specific focus on Chinese economic elites. His dissertation applies computational methods—primarily text analysis—to social media data to understand how elite legitimacy is constructed and contested."
+  website: 
+
+- name: "Gina Junhan Fu"
+  image: /assets/images/nyushanghai2025/photo_Junhan Fu.JPG
+  bio: "Gina Junhan Fu is a second-year PhD student in Communications in the joint programme between National University of Singapore and King's College London. Her research interests lie in entertainment education, humour studies and media psychology. Her PhD dissertation, titled "From Stage to Digital Screen: Framing and Reception of Mental Health Narratives in Women's Stand-Up Comedy", explores the potential of using stand-up comedy for mental health communication."
+  website: 
+
+- name: "Linghan Ge"
+  image: /assets/images/nyushanghai2025/photo_Linghan Ge.jpg
+  bio: "Linghan Ge is a PhD candidate in Sociology at the University of Hong Kong. Her dissertation aims to examine how family dynamics shape healthy aging in China from a life course perspective. She is interested in applying computational social science methods, such as machine learning and spatial/network analysis, to study health inequalities."
+  website: 
+
 - name: "Yuting He"
   image: /assets/images/nyushanghai2025/photo_Yuting He.jpg
   bio: "Yuting He, a PhD student from the School of Journalism and Media at the University of Texas at Austin. She is also a graduate research assistant working at the Center for Media Engagement. Yuting's research specializes in three domains: (1) Language and politics, focusing on the impact of problematic information on politics. Her work in this area includes research on political disinformation consumption behavior, and the computational development of one of the first language classifiers solving the grey zone of divisive political language. (2) Journalism studies, particularly focusing on the precarious conditions of journalistic work, such as female celebrity journalists on social media, and U.S. student journalists covering protests. (3) News production via emerging technologies, such as research on AI-generated news summaries and AI-generated election campaign videos. Methodologically, Yuting uses computationally driven mixed methods to answer her research inquiries and further broaden her research imagination within these three domains."
+  website: 
+
+- name: "Peichen Hu"
+  image: /assets/images/nyushanghai2025/photo_Peichen Hu.jpg
+  bio: "Peichen Hu is a PhD student at the School of Journalism, Fudan University. His research focuses on computational communication and human-machine communication. His current research concerns public perceptions of AI anchors and the diverse forms of human-machine relationships that emerge from them, utilizing large-scale text mining techniques and multimodal analysis methods. In the future, Peichen aims to further explore the application of computational social science methods in intelligent communication contexts and contribute to the development of theoretical frameworks."
+  website: 
+
+- name: "Wenjing Huang"
+  image: /assets/images/nyushanghai2025/photo_Wenjing Huang.jpg
+  bio: "Wenjing Huang is currently pursuing a PhD in the Innovation, Policy, and Entrepreneurship Thrust in the Hong Kong University of Science and Technology (Guang Zhou). He holds a Bachelor's degree in Physics from Beijing Jiaotong University and a Master's degree in Urban and Real Estate Economics from the Shanghai Academy of Social Sciences. His research interests include computational social science, scientometrics, complex systems, urban studies, economic geography, and social computing methods. Currently, his research is divided into two tracks: Track 1: The intersection of network science and economic geography (covering both scientometrics and urban science). Track 2: Social computing methods. He leverages a range of advanced research methodologies, including LLMs(large language models), GNNs(graph neural networks), machine learning, spatial econometrics, text analysis, network analysis, and agent-based modeling. Email: whuang923@connect.hkust-gz.edu.cn"
+  website: 
+
+- name: "Xiwen Huang"
+  image: /assets/images/nyushanghai2025/photo_Xiwen Huang.jpeg
+  bio: "Xiwen Huang is an incoming second-year Ph.D. student in Sociology at Washington University in St. Louis. She holds a master's degree in Quantitative Methods in the Social Sciences (QMSS) from Columbia University. Her research focuses on labor market inequality, particularly at the intersection of race, gender, and class in the U.S. high-skilled workforce. Her MA thesis at Columbia University used data from the Minority Corporate Counsel Association (MCCA) to examine systemic discrimination in the U.S. legal profession and to evaluate the impact of existing diversity initiatives. Drawing on this work, she continues to explore how informal hiring mechanisms—such as employee referrals and social networks—can reproduce inequality, even under formal diversity efforts. Xiwen integrates computational methods, including natural language processing (NLP), social network analysis, and audit designs, into her broader mixed-methods research. She has also contributed to projects involving the United Nations, where she used NLP to evaluate whether development reports reflected marginalized voices. As someone who transitioned from a humanities and social science background into computational social science, Xiwen is committed to supporting underrepresented students, especially women, in building technical skills for academic and professional advancement. After completing her Ph.D., she hopes to continue researching inequality as a professor, research scientist, and social advocate."
+  website: 
+
+- name: "Yifei Huang"
+  image: /assets/images/nyushanghai2025/photo_Yifei Huang.jpeg
+  bio: "Yifei Huang is a Ph.D. student in Sociology and a Master's student in Data Science at Brown University. His research focuses on inequality, family, gender, and demography, using quantitative and computational methods."
+  website: 
+
+- name: "Pinquan (Jasper) Jiang"
+  image: /assets/images/nyushanghai2025/photo_Pinquan Jiang.jpg
+  bio: "Jasper is an incoming M.A. student in Quantitative Methods and Social Analysis (QMSA) at the University of Chicago. He earned a dual degree in Smart Communication and Public Governance from Renmin University of China (RUC). His research interests include: (1) Trust, focusing on the construction of political trust and information trust; (2) Information consumption behavior, aiming to unravel the mysteries of behavioral choices; (3) Policy tools, dedicated to strategically design policy tools to achieve policy goals; (4) AI governance, focusing on AI policy-making, implementation and evaluation issues, and analyzing human-computer interaction from the behavioral psychology perspective. Methodologically, he is interested in behavioral experiments, case studies, and machine learning."
   website: 
 
 - name: "Antao Li"
@@ -13,9 +58,39 @@
   bio: "Antao Li (李桉涛) is a Ph.D. student in Sociology at Fudan University. His research focuses on social stratification, labor markets, and computational social science. He has led the development of the China Socio-Economic Index (CSEI) and the China Labor Market Dynamics Data (CLMD), with work spanning web scraping, natural language processing, and statistical modeling. He is currently investigating how institutional contexts shape access to employment through cross-national comparisons of online job data."
   website: 
 
+- name: "Chenxi Li"
+  image: /assets/images/nyushanghai2025/photo_Chenxi Li.jpg
+  bio: "Chenxi Li is an incoming DPhil student in Sociology at Nuffield College, University of Oxford. She holds an MPhil in Development Studies from the University of Cambridge and a BSc in Social Policy from the London School of Economics. Her research focuses on educational mismatch in China, examining how structural inequalities shape school-to-work outcomes and social class mobility. With a strong background in quantitative methods, she is particularly interested in exploring computational social science techniques and how they can be integrated into educational and labour market research."
+  website: 
+
+- name: "Luye Li"
+  image: /assets/images/nyushanghai2025/photo_Luye Li.jpg
+  bio: "Luye Li is an Assistant Professor of Criminal Justice, data scientist, and criminologist at Seton Hall University in New Jersey, United States. Prior to joining Seton Hall, she worked as a data scientist at the Center for Drug and Health Studies at the University of Delaware. Her research focuses on public opinion within the criminal justice system, police legitimacy and procedural justice, intimate partner violence (IPV), and quantitative research methods. Dr. Li has published in leading peer-reviewed journals, including <i>Journal of Criminology, Police: An International Journal, Police Practice and Research, Journal of Interpersonal Violence, Journal of Family Violence, Asian Journal of Criminology, Human Behavior and Emerging Technologies</i>, and <i>Criminal Justice Review</i>."
+  website: 
+
 - name: "Yiran Liu"
   image: /assets/images/nyushanghai2025/photo_Yiran Liu.jpg
   bio: "Yiran Liu is a graduating MS student in Applied Economics and Management at Cornell University. His research focuses on quantitative marketing. Yiran will begin his PhD in Marketing at University College London in Fall 2025. He is passionate about using data-driven methods to study firm expansion and public policy."
+  website: 
+
+- name: "Jiaxin Shi"
+  image: /assets/images/nyushanghai2025/photo_Jiaxin Shi.jpg
+  bio: "Jiaxin Shi (Bill) is currently an assistant professor working at the South China Normal University. As a social psychologist, he is interested in how people are influenced by multiple social contexts. Specifically, he studies dehumanization, heroization, gratitude, and broadly moral behavior."
+  website: 
+
+- name: "Qingqing Shi"
+  image: /assets/images/nyushanghai2025/photo_Qingqing Shi.jpg
+  bio: "Qingqing Shi (史清清) is a Ph.D. candidate in Public Policy and Management at Tsinghua University. Her research centers on the policy process, bureaucracy, and intergovernmental relations. She employs a diverse set of computational methods to deconstruct complex policy documents into standardized components, aiming to enhance the understanding of policy styles and performance across countries. Her work seeks to make policy improvement more data-driven and context-sensitive. Beyond research, she is also passionate about promoting data transparency in social science research in China."
+  website: 
+
+- name: "Yujia Wang"
+  image: /assets/images/nyushanghai2025/photo_Yujia Wang.jpeg
+  bio: "Yujia Wang just graduated from NYU Shanghai with a B.A. in Social Science (Urban Studies track). Her research interests lie in computational social science, with a specific focus on analyzing urban mobility, gender accessibility, and public transportation through text mining techniques. In the future she aims to develop data-driven policy solutions for urban planning and transportation equity and plans to pursue a PhD."
+  website: 
+
+- name: "Zeqiang Wang"
+  image: /assets/images/nyushanghai2025/photo_Zeqiang Wang.png
+  bio: "Zeqiang Wang is a Ph.D. Candidate in the Faculty of Engineering and Physical Sciences at the University of Surrey, where his research focuses on Natural Language Processing (NLP) for Longitudinal Social and Biomedical Science Datasets. His work involves developing and applying computational methods, including information retrieval and semantic analysis, to understand social dynamics and health-related trends from large-scale text data, such as social media and survey responses. Additionally, he collaborates with University College London (UCL) on research related to CLOSER (Cohort & Longitudinal Studies Enhancement Resources), focusing on formulating research questions and proposing methodologies for inter-disciplinary problems within longitudinal studies. He is passionate about leveraging NLP to extract meaningful insights from complex datasets and is eager to contribute to and learn from the computational social science community at SICSS."
   website: 
 
 - name: "Xinyue Wu"
@@ -23,9 +98,34 @@
   bio: "Xinyue Wu is a Ph.D. candidate in Sociology and M.S. student in Statistics at Washington State University. Her research focuses on population health, demography, and life course processes, with a strong emphasis on causal inference and computational methods. She applies quasi-experimental designs and machine learning tools to investigate how structural and individual-level factors shape health trajectories over time. At SICSS 2025 NYU Shanghai, Xinyue is excited to deepen her computational skills and collaborate with scholars exploring innovative approaches in social science research."
   website: 
 
+- name: "Ruoting Yang"
+  image: /assets/images/nyushanghai2025/photo_Ruoting Yang.jpg
+  bio: "Ruoting Yang is currently pursuing a Master's degree in Computational Social Science at the University of Chicago. His research interests lie at the intersection of political communication, digital subcultures, and computational methods. He is particularly interested in applying network analysis and NLP to examine ideological communities and public discourse on Chinese social media. Ruoting holds a Bachelor's degree in Media, Culture, and Communication from New York University."
+  website: 
+
+- name: "Qinyang Yu"
+  image: /assets/images/nyushanghai2025/photo_Qinyang Yu.jpg
+  bio: "Qinyang Yu is a first-year M.S. student in Economics and Computation at Duke University. He earned his bachelor's degree in Economics with a Mathematics minor from the Chinese University of Hong Kong, Shenzhen. His research interests lie in the interplay of beliefs, information, and behavior across diverse social structures and institutional systems. His current work integrates computational and quantitative methods, including social network analysis, experimental design, game theory, and causal inference. He is also exploring NLP and generative AI, particularly for their applications in social media research."
+  website: 
+
 - name: "Kai Zhao"
   image: /assets/images/nyushanghai2025/photo_Kai Zhao.jpg
   bio: "Kai Zhao is a Research Assistant Professor at the School of Graduate Studies, Lingnan University. Prior to joining Lingnan he was a research faculty at the Center for Postsecondary Success at Florida State University. He earned his PhD in Higher Education and Student Affairs from the Ohio State University. Dr. Zhao's research focuses on higher education policy and internationalization of higher education, with a particular emphasis on mainland China. His work has appeared in Higher Education, Studies in Higher Education, Higher Education Research & Development, AERA Open, Compare, and other academic journals. He is currently leading a GRF project on the implementation and consequences of China's research evaluation reform."
+  website: 
+
+- name: "Yi Zhao"
+  image: /assets/images/nyushanghai2025/photo_Yi Zhao.png
+  bio: "Yi Zhao is currently a Ph.D. student at the School of Communication and Information at Rutgers University. Her research focuses on political communication, with an emphasis on computational methods. She pursues two main lines of inquiry: (1) the flow of information across diverse media ecosystems, and (2) the role of identity in political communication."
+  website: 
+
+- name: "Jingwei Zheng"
+  image: /assets/images/nyushanghai2025/photo_Jingwei Zheng.jpg
+  bio: "Dr. Jingwei Zheng is an assistant professor in the Department of Communication Studies, School of Journalism and Communication, Xiamen University. He obtained PhD in Communication Studies from Nanyang Technological University and M.Phil from Hong Kong Baptist University. He focuses on examining the political communication process in Asian contexts and the psychological factors (e.g., moral orientations) that shape such effects. His second research theme is related to the effects of information technology evolution on human-computer interaction, society, and politics. He has published multiple articles in communication or psychology journals. His work has also been recognized with best paper awards by International Communication Association and Association for Education of Journalism and Mass Communication."
+  website: 
+
+- name: "Shuyan Zhou"
+  image: /assets/images/nyushanghai2025/photo_Shuyan Zhou.JPG
+  bio: "Shuyan Zhou is a master's student in the Department of Sociology at Columbia University. Before joining Columbia, she earned her bachelor's degree in sociology from Renmin University of China. Her research interests are at the intersection of gender and sexuality, cultural sociology, and science and technology studies (STS). Shuyan's primary work focuses on how scientific expertise is strategically used to negotiate gender classification in legal cases involving transgender athletes. She is also interested in reconciling Bourdieu's theory of symbolic power and feminist standpoint theory to understand gender inequality in sports. She uses both qualitative and quantitative methods for research."
   website: 
 
 - name: "Yuhang Zhu"
