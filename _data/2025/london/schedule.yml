@@ -37,7 +37,7 @@
     - name: "16:00 - Keynote: Jakob Foerster"
 
 - date: June 20, 2025 # Friday
-  name: Final content day. Project Pitches
+  name: Final Content Day. Project Pitches
   events:
     - name: "09:30 - Coffee"
     - name: "10:00 - Keynote: Pierpaolo Vivo [G01]"
@@ -47,21 +47,21 @@
     - name: "15:30 -       Free Afternoon"
 
 - date: June 23, 2025 # Monday
-  name: Project Work
+  name: Group Project Work
   events:
     - name: "09:15 - 17:00 Group Project Development [G01 & Hub 4]"
 
 - date: June 24, 2025 # Tuesday
-  name: Project Work
+  name: Group Project Work
   events:
     - name: "09:15 - 17:00 Group Project Development [G01 & G401]"
 
 - date: June 25, 2025 # Wednesday
-  name: Project Work
+  name: Group Project Work
   events:
     - name: "09:15 - 15:30 Group Project Development [G01 & Hub 4]"
 
 - date: June 26, 2025 # Thursday
-  name: Final Project Workshops
+  name: Final Group Project Work Day
   events:
     - name: "09:15 - 17:00 Group Project Development [G401]"
