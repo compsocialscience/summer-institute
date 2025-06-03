@@ -19,7 +19,7 @@
     - name: "16:00 - Keynote: Sasha Vezhnevets"
 
 - date: June 18, 2025 # Wednesday
-  name: Network Analysis and Group Organization
+  name: Network Analysis, Group Formation
   events:
     - name: "09:30 - Coffee"
     - name: "10:00 - Workshop: Networks [G01]"
@@ -28,7 +28,7 @@
     - name: "16:00 - Keynote: Sanaz Talaifar"
 
 - date: June 19, 2025 # Thursday
-  name: LLM Agents, Group Work
+  name: LLM Agents, Group Project Work
   events:
     - name: "09:30 - Coffee"
     - name: "10:00 - Workshop: LLM Agents [G01]"
@@ -37,7 +37,7 @@
     - name: "16:00 - Keynote: Jakob Foerster"
 
 - date: June 20, 2025 # Friday
-  name: Project Pitches
+  name: Final content day. Project Pitches
   events:
     - name: "09:30 - Coffee"
     - name: "10:00 - Keynote: Pierpaolo Vivo [G01]"
@@ -45,3 +45,23 @@
     - name: "13:15 - Group Projects"
     - name: "14:30 - Project Pitch (3 min)"
     - name: "15:30 -       Free Afternoon"
+
+- date: June 23, 2025 # Monday
+  name: Project Work
+  events:
+    - name: "09:15 - 17:00 Group Project Development [G01 & Hub 4]"
+
+- date: June 24, 2025 # Tuesday
+  name: Project Work
+  events:
+    - name: "09:15 - 17:00 Group Project Development [G01 & G401]"
+
+- date: June 25, 2025 # Wednesday
+  name: Project Work
+  events:
+    - name: "09:15 - 15:30 Group Project Development [G01 & Hub 4]"
+
+- date: June 26, 2025 # Thursday
+  name: Final Project Workshops
+  events:
+    - name: "09:15 - 17:00 Group Project Development [G401]"
