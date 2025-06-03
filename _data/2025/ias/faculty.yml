@@ -2,7 +2,12 @@
   image: /assets/images/ias_jacob_habinek.jpeg
   bio: Jacob Habinek is an associate professor at the Institute for Analytical Sociology and director of the Swedish Interdisciplinary Research School in Computational Social Science.  A computational and economic sociologist by training, his interests include the sociology of markets, science, and culture. His empirical research centers on the development of scientific disciplines, the dynamics of financial markets, and the selection of Nobel Prize laureates.
   website: https://www.jacobhabinek.net/
-  
+
+- name: Carl Nordlund
+  image: /assets/images/ias_carl_nordlund.jpg
+  bio: Carl Nordlund is an associate professor (docent) at the Institute for Analytical Sociology at Linköping University. Obtaining a PhD in human ecology from Lund University in 2010, this was followed by fellowships in Budapest, Florence, and Lund, before starting at IAS in 2018. His substantive interests is in inter-ethnic family formation and labor market structures, economic globalization, as well as the development of network-analytical methods, particularly deterministic blockmodeling methods.
+  website: https://demesta.com/
+
 - name: Hendrik Erz
   image: /assets/images/ias_hendrik_erz.jpeg
   bio: Hendrik Erz is a PhD student at the Institute for Analytical Sociology. With a background in history, political science, and sociology, he specializes in the policymaking process in the U.S. Congress. Methodologically, he focuses on the use of large language models (LLMs) for text analysis. He is also interested in the ethics and political implications of artificial intelligence more broadly.
