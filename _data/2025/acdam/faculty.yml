@@ -9,12 +9,12 @@
   website:  
   
   - name: "Dr. Mary Muyonga." # Add faculty name here.
-  image: /assets/images/eve.png  # Add faculty image to assets/images/ and update here.
+  image: /assets/images/mary.png  # Add faculty image to assets/images/ and update here.
   bio: "Dr. Mary Muyonga is a demographer with a Ph.D. and MA in Population Studies from the Population Studies and Research Institute, at the University of Nairobi, Kenya. Mary is a co-organiser of the 2025 Summer Institute in Computational Social Studies (SICSS) ACDAM hosted at the Zetech University Technology Campus, in Kenya (https://sicss.io/2025/acdam/).  She is an alumnus of  SICSS Covenant held in Nigeria in 2022 (https://sicss.io/2022/covenant-university/) and through her personal initiatives, was part of the team that co-organised in 2024,  the first SICSS event in East Africa, at the University of Nairobi, Kenya  (https://sicss.io/2023/howard-mathematica/). Her research interests include migration, mobility, urbanization and policy linkages in which she has authored several articles and co-authored book chapters. Mary is a firm believer in the SICSS vision of empowering social scientists with the computational tools and skills they need to conduct cutting-edge research at the intersection of social science and data science. " # Add faculty bio here.
   website:  # Link faculty website here.
   
 - name: "Evalyne Musyoka." # Add faculty name here.
-  image: /assets/images/mary.png  # Add faculty image to assets/images/ and update here.
+  image: /assets/images/eve.png  # Add faculty image to assets/images/ and update here.
   bio: "Evalyne Nduvi Musyoka is a faculty member at the Africa Centre for Data Analytics and Modelling (ACDAM) at Zetech University and serves on the organizing team for SICSS-ACDAM. She is currently pursuing a PhD and holds a Master’s degree in Applied Statistics, complemented by a solid background in actuarial sciences. Evalyne has hands-on experience in data analytics, research design, and statistical modeling. Within ACDAM, she contributes significantly to the development of research proposals, data collection and analysis, and engagement with key stakeholders. Her skill set covers both quantitative and qualitative approaches, and she is dedicated to capacity building through student mentorship and organizing academic activities. Evalyne has been involved in high-impact research focusing on mental health, infectious diseases, and public health modeling, in collaboration with institutions like Strathmore University and New York University. Her scholarly work includes publications on malaria, HIV, and cultural practices related to funerals in Kenya." # Add faculty bio here.
   website: https://acdam.zetech.ac.ke/ # Link faculty website here.
   
