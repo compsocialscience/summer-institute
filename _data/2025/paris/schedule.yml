@@ -28,7 +28,7 @@
 
 - date: 'Thursday, June 26'
   events:
-    - name: '9:30 - 11:30 BERT: Introduction to Text Analysis in the Era of GPT'
+    - name: '9:30 - 11:30 Introduction to Text Analysis in the Era of GPT'
     - name: '11:30 - 12:30 Python Application: API Access, Structured Outputs'
     - name: '12:30 - 13:30 Lunch'
     - name: '13:30 - 15:00 Python Application: Annotation Zero-shot, Few-shot'
