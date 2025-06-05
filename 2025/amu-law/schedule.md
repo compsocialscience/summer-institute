@@ -104,4 +104,4 @@ schedule: true
 | 11:00 – 12:30    | Closing Ceremony                         |
 
 
-Our schedule can be seen [here](https://www.google.com).
+Our schedule can be seen [here](https://sicss-amulaw.github.io/SICSS-2025-Program.pdf).
