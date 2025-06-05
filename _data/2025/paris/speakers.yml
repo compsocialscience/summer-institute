@@ -29,9 +29,6 @@
   website: https://www.austinvanloon.com/
 
 - name: Dirk Hovy
-  #image: /assets/images/austin_vanloon.jpg
+  image: /assets/images/dirk_hovy.png
   bio:  Dirk Hovy is a Professor in the Computing Sciences Department of Bocconi University in Milan. He is nterested in the interaction between language, society, and machine learning, or what computers can tell us about language and what language can tell us about society. He is also interested in ethical questions of bias and algorithmic fairness in machine learning.
   website: http://dirkhovy.com/
-  
-- name: More speakers coming soon!
-  image: /assets/images/placeholderPic.png
