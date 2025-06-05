@@ -1,6 +1,119 @@
-- name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+- name: "Sarthak Pradhan"
+  image: /assets/images/placeholderPic.png
+  bio: "Sarthak is an Assistant Professor at the Takshashila Institution, an independent centre for research and education in public policy based out of Bengaluru, India. Sarthak teaches and researches economics, public finance and systems thinking. Before his foray into the public policy space, he worked as an engineer at Samsung R&D and later in the finance sector.\n\nSarthak has completed the Post Graduate Programme (PGP) in Public Policy from the Takshashila Institution. He holds a dual degree (Electrical & Electronics and Physics) from BITS Pilani."
+  website: https://takshashila.org.in/people/sarthak-pradhan
 
-# Add more participants with the same format as above...
+- name: "Negar Alizadeh"
+  image: /assets/images/placeholderPic.png
+  bio: "I am a PhD student in Computer Engineering at Ankara University, developing machine learning models and LLM-powered tools to enhance healthcare delivery for vulnerable populations—especially individuals with intellectual and developmental disabilities (IDD). My work focuses on bridging clinical needs with technical innovation through computational tools, software engineering, and AI-driven healthcare solutions."
+  website: https://www.google.com
+
+- name: "Yannic Hinrichs"
+  image: /assets/images/placeholderPic.png
+  bio: "Yannic is a PhD Candidate in Psychology at the University of Oslo, Norway. He analyses how psychology and technology interact during political opinion formation, e.g. how bots or algorithms can affect individuals' political views. In his thesis, he studies the spread of political mistrust via social media using natural language processing (NLP) and network analysis."
+  website: https://www.sv.uio.no/psi/english/people/academic/yannich/index.html
+
+- name: "Charlotte de Alwis"
+  image: /assets/images/placeholderPic.png
+  bio: "Charlotte de Alwis recently started a position as a PhD candidate and research associate in the Department of Computational Social Science at GESIS - Leibniz Institute for the Social Sciences in Cologne, Germany. She is part of the Designed Digital Data team, where she contributes to the development of a survey app for intensive longitudinal study designs. Her methodological research interests include experimental designs, quantitative text analysis, and other computational social science methods. Substantively, her work focuses on election studies, public opinion research, and (social) media analysis."
+  website: https://www.google.com
+
+- name: "Christina Theodora Mazilu"
+  image: /assets/images/placeholderPic.png
+  bio: "Christina Mazilu (they/she) is a research assistant in Geography and Environment at the University of Aberdeen, Scotland. Their current research explores human-nature relationships using natural language processing. They received their MA in Sociology at the University of Aberdeen and plan to continue with postgraduate studies which bridge society, technology, and environment."
+  website: https://www.linkedin.com/in/ctmazilu/
+
+- name: "Konstantin Strömel"
+  image: /assets/images/placeholderPic.png
+  bio: "Konstantin Strömel is a postgraduate student in the MSc program 'Future Governance' at the University of Edinburgh. He's interested in the impact of big data and technology on policy-making and democracies. Through his undergraduate degree in 'Cognitive Science,' he has a diverse interdisciplinary academic background, with a focus on Computational Linguistics, AI, Neuroscience, and Philosophy. In his research, he worked at the intersection of natural language processing (NLP) and Human-Computer Interaction (HCI). For example, on AI in education, disinformation detection, and fitness tracker data interpretation using Large Language Models (LLMs)."
+  website: https://www.linkedin.com/in/konstantin-strömel-305b61277/
+
+- name: "Angela Gutierrez"
+  image: /assets/images/placeholderPic.png
+  bio: "Angela is an MSc student in Future Governance at the Edinburgh Futures Institute, University of Edinburgh. Her research interests lie in the role of social media platforms in shaping political communication, with a particular interest in how digital spaces influence public discourse and political behaviour. She is currently developing her skills in computational methods to enhance her analysis of online political content and user interaction."
+  website: https://www.linkedin.com/in/angela-gutierrez-a2b49b294/
+
+- name: "Zihan"
+  image: /assets/images/placeholderPic.png
+  bio: "I’m a sociology major with a focus on social network analysis and sociology of consumption in the digital era. I’m passionate about using research to explore how social media reshapes traditional patterns of communication and dissemination."
+  website: https://www.google.com
+
+- name: "Pelin Yüce"
+  image: /assets/images/placeholderPic.png
+  bio: "Pelin Yüce is a PhD candidate in Educational Administration at Middle East Technical University. Also, she works as a doctoral fellow in a project on international research collaboration, supported by The Scientific and Technological Research Council of Turkey. Her research interests include internationalization in higher education, international collaboration and higher education policy."
+  website: https://www.google.com
+
+- name: "Alhasan Abdellatif"
+  image: /assets/images/placeholderPic.png
+  bio: "Alhasan Abdellatif is a research scientist with a PhD in Deep Generative Models from Heriot-Watt University. He has contributed to development of image generative models for geoscience modelling problems and predictive models for biomedical problems. His research interests lie in applying deep learning to advance scientific discovery and solve complex problems across science and technology."
+  website: https://www.linkedin.com/in/alhasan-abdellatif/
+
+- name: "Xiangruo Dai"
+  image: /assets/images/placeholderPic.png
+  bio: "Xiangruo Dai is a Ph.D student in Social Policy at the School of Social and Political Science, University of Edinburgh. His doctoral thesis analyses the stratification in fields of study and institutions of higher education within Scotland. Previously, he obtained a MA in Social and Public Policy from the University of Leeds and a BA in Economics from Haverford College."
+  website: https://www.google.com
+
+- name: "Patricia Saldaña-Taboada"
+  image: /assets/images/placeholderPic.png
+  bio: "Patricia Saldaña-Taboada holds a Ph.D. in Criminology from the University of Granada and is a 'Juan de la Cierva' postdoctoral researcher in Criminology at the University of Malaga. Her research focuses on cybercrime, cryptomarkets, and qualitative methods, with particular interest in the criminal use of cryptocurrencies and online forums."
+  website: https://www.linkedin.com/in/patricia-saldaña-taboada-a66b37286
+
+- name: "Devon Rojas"
+  image: /assets/images/placeholderPic.png
+  bio: "Devon Rojas is a PhD student in Sociology at Harvard. His current research looks at intragroup boundary-work and change among LGBTQ+ groups over the last 50 years using natural language processing techniques and experimental methods. Devon holds a B.S. in Physics from University of California, San Diego."
+  website: https://www.devonrojas.com/
+
+- name: "Emily Bolton"
+  image: /assets/images/placeholderPic.png
+  bio: "Em Bolton is a PhD Candidate at the University of Edinburgh, working in an overlap of moral, political, and social psychology. Her current research focuses on the rise of authoritarianism within the US political system—investigating the role of intergroup conflict in the endorsement of dangerous leaders. Her PhD revolves around her concept 'The Political Ouroboros' which is indicative of the cyclical nature of dangerous leaders. She is currently using a computational agent-based model to simulate leadership endorsement."
+  website: https://www.google.com
+
+- name: "Aliah Zewail"
+  image: /assets/images/placeholderPic.png
+  bio: "Aliah Zewail is a social psychology PhD student at UMass Amherst investigating the historical origins of cultural and moral values and their impact on societal institutions. She uses psychometrics, econometrics, and computational methods to pursue her questions. Aliah received her BA in psychology from the UT Austin."
+  website: https://www.linkedin.com/in/aliah-zewail-0b3146191/
+
+- name: "Xianqi Cao"
+  image: /assets/images/placeholderPic.png
+  bio: "Xianqi Cao is currently an MPhil student in Social Science at the Hong Kong University of Science and Technology. His research interests include historical political economy and Chinese politics, with a specialized focus on bureaucracy in imperial China. His recent work investigates the state’s institutional strategies to strengthen information gathering and processing, as well as the resulting political consequences."
+  website: https://www.google.com
+
+- name: "Hannah Kim"
+  image: /assets/images/placeholderPic.png
+  bio: "Hannah Hok Kim is a postdoctoral researcher split between the MIT Libraries, MIT Department of Brain and Cognitive Sciences, and Harvard University Department of Psychology. She studies social and moral cognitive development, with a particular interest in how children use rules or procedures to coordinate group decisions."
+  website: https://hannahhokkim.site/
+
+- name: "Fatih Aktas"
+  image: /assets/images/placeholderPic.png
+  bio: "Fatih Aktas is a Lecturer at Moray House School of Education and Sport – the University of Edinburgh, where he is on the steering committee of the Comparative Education and International Development (CEID) Research Group and the Academic Cohort Lead for the MSc CEID programme. His main research interests include comparative and international education policy analysis, creativity and innovation in higher education, and education financing."
+  website: https://uk.linkedin.com/in/fatihaktas2/en
+
+- name: "Rebecca Owens"
+  image: /assets/images/placeholderPic.png
+  bio: "Rebecca is a Postdoctoral Researcher in AI Law at Durham University and holds a PhD in Law from the University of Liverpool. Her research focuses on the regulation of emerging technologies and the empowerment of digital citizens. Employing a mixed-methods approach, she produces empirically grounded insights, informing policy design."
+  website: https://uk.linkedin.com/in/rebecca-owens-phd
+
+- name: "Justyna Janczy"
+  image: /assets/images/placeholderPic.png
+  bio: "Justyna Janczy is a Master's student in Computer Science at Aarhus University. Her research interests span causal inference, natural language processing, and computational social science. Her master's thesis explores gender bias in political discourse by applying causal inference techniques to analyze how public figures are referenced in news coverage, with the broader goal of understanding how language both reflects and reinforces social inequalities."
+  website: https://www.google.com
+
+- name: "Paxia Ksatryo"
+  image: /assets/images/placeholderPic.png
+  bio: "Paxia Ksatryo is a PhD Candidate at the Research Training Group DYNAMICS, jointly organized by the Hertie School and Humboldt-Universität zu Berlin. Their research explores how online information controls are used to legitimize the political control of vulnerable communities. Before joining DYNAMICS, Paxia earned an MPP at the Hertie School and a BA in Comparative Politics (Europe-Asia) at Sciences Po Paris."
+  website: https://de.linkedin.com/in/paxiaksatryo
+
+- name: "Katelyn Nutley"
+  image: /assets/images/placeholderPic.png
+  bio: "Katelyn Nutley is a doctoral candidate at the University of St Andrews researching partisanship and police response. She was previously at the University of Cologne, where she worked on gendered citation dynamics [paper forthcoming]. She is now a computational analyst for PeaceRep at the University of Edinburgh and affiliated with Chatham House and the British Academy."
+  website: https://bsky.app/profile/katelynnutley.bsky.social
+
+- name: "Yining Wang"
+  image: /assets/images/placeholderPic.png
+  bio: "Yining Wang is a doctoral student at GESIS – Leibniz Institute for the Social Sciences in Germany. She uses computational methods to study digital ephemerality, with a focus on content deletion, behavioral traces, and collective memory across social media platforms."
+  website: https://www.linkedin.com/in/yining-wang-a2337a277
+
+- name: "Sara Torsner"
+  image: /assets/images/placeholderPic.png
+  bio: "Sara Torsner is a Research Fellow at the School of Journalism, Media and Communication and Centre for Freedom of the Media, University of Sheffield. She leads research focusing on impunity for human rights violations against journalists and advancing systematic monitoring of such violations using computational and social science methods."
+  website: https://www.linkedin.com/in/storsner/
