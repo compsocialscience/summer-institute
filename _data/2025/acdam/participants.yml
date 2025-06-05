@@ -11,18 +11,22 @@
   - name: "Linet Mutegi." # Replace with participant name.
   image: /assets/images/linet.png  # Add participant image to assets/images/ and update here.
   bio: "Linet Mutegi is a development finance expert who is passionate about the growth potential of Africa and how African based institutions can immensely contribute to growth in Africa. She works in Academia and has great passion for teaching and undertaking interdisciplinary research. She holds a Masters’ degree in Development Finance and a bachelors’ degree in Finance and economics (magna cum laude). She hopes to continue undertaking research that positively impacts the society. To date, she has undertaken meaningful research on Gender and Taxation, Climate financing and the Financial gender gap in Africa. "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+  website:  # Link participant website here.
 
  - name: "Youssouf Bouzir." # Replace with participant name.
   image: /assets/images/bouzir.png  # Add participant image to assets/images/ and update here.
   bio: " Youssouf Bouzir is a PhD candidate in Statistics at the Pan African University – PAUSTI, hosted at JKUAT, Kenya. His research focuses on survival analysis and disease modeling, with applications in stroke and non-communicable diseases using stratified and extended Cox regression models. He has over seven years of experience as a statistician in Algeria, where he led regional census operations, managed socio-economic indicators, and produced national statistical reports. His applied skills span public health data, machine learning, and remote sensing, including ongoing projects on spatial analysis and plant disease detection using agri-drones and Artificial Intelligence. Youssouf has completed advanced training in biostatistics, HIV modeling, and grant writing, and is actively involved in regional research initiatives. He is passionate about applying data science to public health challenges in Africa and building capacity through collaborative, interdisciplinary work."  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+  website:  # Link participant website here.
+
+ - name: "Faith Ngina Mutinda." # Replace with participant name.
+  image: /assets/images/faith.png  # Add participant image to assets/images/ and update here.
+  bio: " Faith Ngina Mutinda is an educator and emerging data scientist with a strong academic foundation in biology, mathematics, and education. She holds a Bachelor of Science degree in Biology and Mathematics with Education from Moi University, where she graduated with First Class Honors, and she is currently pursuing a Master of Science in Data Science at the Open University of Kenya. Faith brings over five years of professional teaching experience in both the 8-4-4 and Competency-Based Curriculum (CBC) systems in Kenya. She currently serves as a Mathematics and Integrated Science teacher at Nguluni Junior School in Makueni County. Her past roles include teaching Biology and Mathematics at St. Mary’s High School in Nairobi and serving as Deputy Head Teacher at St. Peter’s High School, where she demonstrated leadership in curriculum delivery and academic coordination. Her passion lies at the intersection of education, science, and technology. Faith is particularly interested in leveraging computational methods to analyze and solve social challenges especially those related to health, policy and education equity, access, and performance outcomes within African contexts.. She believes that data-driven insights can significantly enhance decision-making in educational policy and classroom practice. Faith is excited to participate in the 2025 Summer Institute in Computational Social Science (SICSS-ACDAM) to build her technical expertise, collaborate with a network of interdisciplinary researchers, and contribute to impactful group projects. With her unique combination of teaching experience and analytical training, she looks forward to applying computational tools to drive meaningful social change, particularly in African education systems."  # Add participant bio here.
+  website:  # Link participant website here.
 
  - name: "Participant info coming soon." # Replace with participant name.
   image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
   bio: " ... "  # Add participant bio here.
   website: https://www.google.com  # Link participant website here.
-
 
 
   
