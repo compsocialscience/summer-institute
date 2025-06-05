@@ -8,9 +8,23 @@
   bio: " I am Daniel Onyando Ong'ong’a, a finance professional and emerging researcher in credit risk management with a strong academic background and practical experience in operations and internal auditing. I hold a Bachelor of Business Administration and Management (Finance Option) from Zetech University and am currently pursuing a Master of Business Administration (MBA) with a specialization in Finance and Investment at the same institution. Professionally, I serve as an Operations Assistant at Zetech University, where I support administrative coordination, streamline operational processes, and assist in resource planning across departments. My responsibilities also include liaising with internal teams to improve delivery service and ensure the smooth running of daily operations. I have further contributed as an Internal Auditor within the university’s Quality Management Systems team, ensuring compliance with ISO 9001:2015 standards and advancing a culture of continuous improvement through audit processes. I am actively engaged in research and currently conducting a study on the effects of credit risk management on the financial performance of deposit-taking SACCOs in Kiambu County, Kenya. This work seeks to highlight actionable strategies for improving SACCO stability and overall financial performance. Guided by integrity, analytical thinking, and strong ethical values, I blend financial expertise with a deep commitment to institutional development. My professional efforts are guided by faith, a spirit of service, and a deep commitment to making a positive impact on society. “My long-term vision is to influence evidence-based policy reforms and promote financial sustainability in the economy and cooperative sectors through innovative research, leadership, and data-driven decision-making."  # Add participant bio here.
   website:       # Link participant website here.
 
-  - name: "Participant info coming soon." # Replace with participant name.
+  - name: "Linet Mutegi." # Replace with participant name.
+  image: /assets/images/linet.png  # Add participant image to assets/images/ and update here.
+  bio: "Linet Mutegi is a development finance expert who is passionate about the growth potential of Africa and how African based institutions can immensely contribute to growth in Africa. She works in Academia and has great passion for teaching and undertaking interdisciplinary research. She holds a Masters’ degree in Development Finance and a bachelors’ degree in Finance and economics (magna cum laude). She hopes to continue undertaking research that positively impacts the society. To date, she has undertaken meaningful research on Gender and Taxation, Climate financing and the Financial gender gap in Africa. "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+ - name: "Youssouf Bouzir." # Replace with participant name.
+  image: /assets/images/bouzir.png  # Add participant image to assets/images/ and update here.
+  bio: " Youssouf Bouzir is a PhD candidate in Statistics at the Pan African University – PAUSTI, hosted at JKUAT, Kenya. His research focuses on survival analysis and disease modeling, with applications in stroke and non-communicable diseases using stratified and extended Cox regression models. He has over seven years of experience as a statistician in Algeria, where he led regional census operations, managed socio-economic indicators, and produced national statistical reports. His applied skills span public health data, machine learning, and remote sensing, including ongoing projects on spatial analysis and plant disease detection using agri-drones and Artificial Intelligence. Youssouf has completed advanced training in biostatistics, HIV modeling, and grant writing, and is actively involved in regional research initiatives. He is passionate about applying data science to public health challenges in Africa and building capacity through collaborative, interdisciplinary work."  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+ - name: "Participant info coming soon." # Replace with participant name.
   image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
   bio: " ... "  # Add participant bio here.
   website: https://www.google.com  # Link participant website here.
+
+
+
+  
 
 # Add more participants with the same format as above...
