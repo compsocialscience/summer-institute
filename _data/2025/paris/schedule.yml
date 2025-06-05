@@ -1,12 +1,13 @@
 - date: 'Monday, June 23'
   events:
+    - name: '9:00 - 9:30 Coffee'
     - name: '9:30 - 10:00 Welcome and Onboarding'
     - name: '10:00 - 11:30 Introduction to Text Analysis'
     - name: '11:30 - 12:30 Python Application'
     - name: '12:30 - 13:30 Lunch'
     - name: '13:30 - 15:30 Discovering Embeddings'
     - name: '15:30 - 16:30 Python Application'
-    - name: '17:15 - 18:30 Guest Talk by Eunji Kim'
+    - name: '17:15 - 18:30 Guest Talk by [Eunji Kim](https://www.eunjikim.pub/)'
 
 - date: 'Tuesday, June 24'
   events:
@@ -15,7 +16,7 @@
     - name: '12:30 - 13:30 Lunch'
     - name: '13:30 - 14:30 Introduction to Transformers'
     - name: '14:30 - 15:30 Regular Expressions'
-    - name: '17:15 - 18:30 Guest Talk by Jan G. Voelkel'
+    - name: '17:15 - 18:30 Guest Talk by [Jan G. Voelkel](https://www.jangvoelkel.com/)'
 
 - date: 'Wednesday, June 25'
   events:
@@ -38,22 +39,22 @@
     - name: '9:30 - 10:30 BERT: Project and Data Management'
     - name: '10:30 - 12:30 Group projects'
     - name: '12:30 - 13:30 Lunch'
-    - name: 'Afternoon: LLMs and Social Sciences - International Roundtable with Bart Bonikowski (NYU), Matthew Connelly (Columbia), and scholars from CREST-IPP, Medialab and Paris-1'
+    - name: 'Afternoon: LLMs and Social Sciences - International Roundtable with [Bart Bonikowski](https://wp.nyu.edu/bonikowski/) (NYU), [Matthew Connelly](https://history.columbia.edu/person/connelly-matthew/) (Columbia), and scholars from CREST-IPP, Medialab and Paris-1'
 
 - date: 'Monday, June 30'
   events:
     - name: 'Remote Group Work'
-    - name: '14:00 Guest Talks by Noga Keidar and Daniel Silver'
+    - name: '14:00 Guest Talks by [Noga Keidar](https://english.tau.ac.il/profile/nogakeidar) and [Daniel Silver](https://www.utsc.utoronto.ca/sociology/daniel-silver)'
 
 - date: 'Tuesday, July 1'
   events:
     - name: 'Remote Group Work'
-    - name: '13:00 Guest Talk by Dirk Hovy'
+    - name: '13:00 Guest Talk by [Dirk Hovy](http://dirkhovy.com/)'
 
 - date: 'Wednesday, July 2'
   events:
     - name: 'Remote Group Work'
-    - name: '15:30 Guest Talk by Austin van Loon'
+    - name: '15:30 Guest Talk by [Austin van Loon](https://www.austinvanloon.com/)'
 
 - date: 'Thursday, July 3'
   events:
