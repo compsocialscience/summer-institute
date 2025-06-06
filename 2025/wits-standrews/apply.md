@@ -28,7 +28,7 @@ Applicants must submit the following documents:
 -	A curriculum vitae (max 4pages).
 -	A motivation letter (max three pages) describing why you wish to attend SICSS-WitsStAndrews, your current research interests, and a brief description of your planned project with clear objectives and potential data source.
 
-In order to be guaranteed full consideration, all application materials must be submitted online via <a href="https://forms.gle/QDfknUWDdT3XaEi7A" target="_blank">https://forms.gle/QDfknUWDdT3XaEi7A</a> by **May 25, 2025**. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by **June 5, 2025** and ask participants to confirm their participation soon after.
+In order to be guaranteed full consideration, all application materials must be submitted online via <a href="https://forms.gle/QDfknUWDdT3XaEi7A" target="_blank">https://forms.gle/QDfknUWDdT3XaEi7A</a> by **May 25, 2025**. We have notified all accepted applicants through e-mail on **June 5, 2025**.
 
 Inquiries can be sent to <a href="mailto:eoo1@st-andrews.ac.uk" target="_blank">eoo1@st-andrews.ac.uk</a>
 
