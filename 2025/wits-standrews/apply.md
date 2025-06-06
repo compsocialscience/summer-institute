@@ -54,4 +54,4 @@ Some previous coding experience is highly recommended to make the most out of th
 
 ### How much does the summer institute cost?
 
-There is no registration cost for participating in the summer institute. Furthermore, thanks to our generous sponsor, the National Science Foundation, we will be able to cover accommodation and meals for all accepted participants. We also have limited scholarships to cover round-trip airfare for participants from other African countries.
+There is no registration cost for participating in the summer institute, and participants would be expected to fund their travel and associated expenses.
