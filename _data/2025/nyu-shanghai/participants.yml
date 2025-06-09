@@ -32,6 +32,11 @@
   image: /assets/images/nyushanghai2025/photo_Peichen Hu.jpg
   bio: "Peichen Hu is a PhD student at the School of Journalism, Fudan University. His research focuses on computational communication and human-machine communication. His current research concerns public perceptions of AI anchors and the diverse forms of human-machine relationships that emerge from them, utilizing large-scale text mining techniques and multimodal analysis methods. In the future, Peichen aims to further explore the application of computational social science methods in intelligent communication contexts and contribute to the development of theoretical frameworks."
   website: 
+  
+- name: "Heng Huang"
+  image: /assets/images/nyushanghai2025/photo_Heng Huang.JPG
+  bio: "Heng Huang is a PhD student in the Faculty of Education at East China Normal University. His research interests lie in the economics of education, where he uses advanced quantitative methods to better understand and support holistic educational equity. Currently, he is working on how AI influences the labor market outcomes of college graduates."
+  website: 
 
 - name: "Wenjing Huang"
   image: /assets/images/nyushanghai2025/photo_Wenjing Huang.jpg
@@ -73,6 +78,11 @@
   bio: "Yiran Liu is a graduating MS student in Applied Economics and Management at Cornell University. His research focuses on quantitative marketing. Yiran will begin his PhD in Marketing at University College London in Fall 2025. He is passionate about using data-driven methods to study firm expansion and public policy. Contact: liu379479@outlook.com"
   website: 
 
+- name: "Songxuan Luo"
+  image: /assets/images/nyushanghai2025/photo_Songxuan Luo.jpg
+  bio: "Songxuan Luo is an MSc student in Global China Studies at the Hong Kong University of Science and Technology. His research is situated at the intersection of higher education, media studies and critical discourse analysis, as well as machine learning-based causal inference. His research aims to integrate computational social science methods into traditional causal inference techniques, while moving beyond traditional approaches by combining multimodal data such as text, images and networks."
+  website: 
+
 - name: "Jiaxin Shi"
   image: /assets/images/nyushanghai2025/photo_Jiaxin Shi.jpg
   bio: "Jiaxin Shi (Bill) is currently an assistant professor working at the South China Normal University. As a social psychologist, he is interested in how people are influenced by multiple social contexts. Specifically, he studies dehumanization, heroization, gratitude, and broadly moral behavior."
@@ -106,6 +116,16 @@
 - name: "Qinyang Yu"
   image: /assets/images/nyushanghai2025/photo_Qinyang Yu.jpg
   bio: "Qinyang Yu is a first-year M.S. student in Economics and Computation at Duke University. He earned his bachelor's degree in Economics with a Mathematics minor from the Chinese University of Hong Kong, Shenzhen. His research interests lie in the interplay of beliefs, information, and behavior across diverse social structures and institutional systems. His current work integrates computational and quantitative methods, including social network analysis, experimental design, game theory, and causal inference. He is also exploring NLP and generative AI, particularly for their applications in social media research."
+  website: 
+
+- name: "Donglin Zeng"
+  image: /assets/images/nyushanghai2025/photo_Donglin Zeng.jpg
+  bio: "Donglin Zeng is an Assistant Professor in the School of Philosophy and Social Development, South China Normal University, Guangzhou, China. His research interests include neighborhood effects, segregation, geographic information system (GIS), and GeoAI. He applies spatiotemporal approach to capture exposure to social events in the residential neighborhoods and study the social consequences of exposure on the well-being of individuals. His work has previously appeared in <i>Social Forces, Social Science & Medicine, Journal of Ethnic and Migration Studies</i>, and <i>Health & Place</i>."
+  website: 
+
+- name: "Shuai Zhang"
+  image: /assets/images/nyushanghai2025/photo_Shuai Zhang.jpg
+  bio: "Shuai Zhang is a PhD candidate at the School of Mathematical Sciences, East China Normal University. His main research fields include educational data mining, machine learning and causal inference, and STEM education. He has published more than ten academic papers and participated in multiple national and provincial-level projects. He thanks the Center for Applied Social and Economic Research (CASER) at NYU Shanghai for the opportunity to learn and looks forward to learning from and exchanging ideas with teachers and classmates."
   website: 
 
 - name: "Kai Zhao"
