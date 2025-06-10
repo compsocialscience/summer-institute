@@ -41,8 +41,8 @@
   website: https://kevinbaum.de/ # update speaker personal link here
  
 - name: "Ridhi Kashyap (University of Oxford)" # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " " # add speaker bio here
+  image: /assets/images/2025SBRidhiKashyap.jfif  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Ridhi Kashyap is Professor of Demography and Computational Social Science at the Department of Sociology, Nuffield College, and Leverhulme Centre for Demographic Science at the University of Oxford. Her research examines population dynamics and human development, with a focus on gender inequalities. She has pioneered the use of computational methods and digital data sources for demographic research, and currently serves as the chair of the International Union for the Scientific Study of Population’s Panel on Digital and Computational Demography." # add speaker bio here
   website: https://www.sociology.ox.ac.uk/people/ridhi-kashyap # update speaker personal link here
   
 - name: "Rosa M. Navarrete (Saarland University)" # Speaker name goes here.
