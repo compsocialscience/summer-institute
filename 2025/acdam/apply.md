@@ -32,7 +32,7 @@ Applicants must submit the following documents:
 2) A statement (Not more than 500 words) describing: 
 
 - Your current research
-- Why you want to participate in SICSS-ACDAM
+- Why you want to participate in SICSS-KENYA
 - How participation will aid your future research
 - Your experience and/or interest in collaborative research. Carrying out a collaborative research project is a core component of SICSS-ACDAM.
 - A possible topic, method, or question you would like to focus on for a collaborative project
@@ -45,7 +45,7 @@ Any inquiries can be sent to `sicssacdamzetech@gmail.com`
 
 #### Can I apply to more than one Summer Institute location?
 
-Yes, but not at the same time. For example, you can apply to SICSS-ACDAM, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.
+Yes, but not at the same time. For example, you can apply to SICSS-KENYA, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.
 
 #### Can I participate in SICSS-ACDAM if I have already participated in SICSS at another location?
 
