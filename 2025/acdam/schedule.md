@@ -1,6 +1,6 @@
 ---
 layout: location_detail
-partner_site: acdam
+partner_site: KENYA
 schedule: true
 ---
 
