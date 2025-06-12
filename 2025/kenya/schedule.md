@@ -25,7 +25,9 @@ schedule: true
 
 **15:30** Setting up GitHub/Slack and Harmonizing Expectations  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Dr. Amos Langat, PAUSTI*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**GitHub:** [GitHub](https://github.com/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Slack:** [Getting Started](https://slack.com/help/categories/360000049043-Getting-started)
+
   
 **16:30** Tea Break  
 **17:00** Introduction to Computational Social Sciences  
