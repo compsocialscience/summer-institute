@@ -1,1 +1,5 @@
-
+- name: "SICSS Paris teachers are listed under 'Faculty'."
+  # image: /assets/images/placeholderPic.png
+  # bio: "..."
+  # website: www.google.com
+# add more TAs with this format below...
