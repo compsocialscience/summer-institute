@@ -23,8 +23,10 @@ schedule: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Download RStudio:** [https://posit.co/download/rstudio-desktop/#download](https://posit.co/download/rstudio-desktop/#download)
 
 
-**15:30** Setting up Git Hub/Slack and harmonizing expectations  
+**15:30** Setting up GitHub/Slack and Harmonizing Expectations  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Dr. Amos Langat, PAUSTI*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Slack:** [Getting Started](https://slack.com/help/categories/360000049043-Getting-started)
+  
 **16:30** Tea Break  
 **17:00** Introduction to Computational Social Sciences  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Professor Chris Bail, Founder of SICSS and Professor at the Duke Sanford School of Public Policy, USA*  
