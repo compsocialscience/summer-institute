@@ -20,7 +20,7 @@ schedule: true
 **14:00** R programming – Computer set up/packages
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Dr. Amos Langat, PAUSTI*
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**download:**
-**[R and R studio Download:](https://www.r-project.org/)**
+ -[R and R studio Download:](https://www.r-project.org/)
 **15:30** Setting up Git Hub/Slack and harmonizing expectations  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Dr. Amos Langat, PAUSTI*  
 **16:30** Tea Break  
