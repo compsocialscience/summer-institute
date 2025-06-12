@@ -15,12 +15,12 @@
 
 - name: "Jeanne Bollée" # Replace with participant name.
   image: /assets/images/bollee.png  # Add participant image to assets/images/ and update here.
-  bio: "After a bachelor in social sciences and humanities, I obtained my Masters in Cognitive Science in 2023 and I started my PhD last September, aiming at quantifying how much a text talks about its characters' mental states, their thoughts, intentions and emotions and investigating whether this interest in interiority varies between societies and epochs. I am currently evaluating LLM-based techniques and I am looking forward to exchanging about the opportunities and pitfalls of these tools. I am interested more broadly in topics of cultural evolution or how we can explain traditions, institutions, beliefs and how they persist or change with time."  # Add participant bio here.
+  bio: "After a bachelor in social sciences and humanities, I obtained my Masters in Cognitive Science in 2023 and I started my PhD last September, aiming at quantifying how much a text talks about its characters’ mental states, their thoughts, intentions and emotions and investigating whether this interest in interiority varies between societies and epochs. I am currently evaluating LLM-based techniques and I am looking forward to exchanging about the opportunities and pitfalls of these tools. I am interested more broadly in topics of cultural evolution or how we can explain traditions, institutions, beliefs and how they persist or change with time."  # Add participant bio here.
   # website: https://www.google.com  # Link participant website here.
 
 - name: "Frédérique Gros" # Replace with participant name.
   image: /assets/images/gros.png  # Add participant image to assets/images/ and update here.
-  bio: "Frédérique is a data documentation and distribution specialist at IR* Progedo, a CNRS laboratory and national research infrastructure dedicated to data and methods in quantitative social sciences. She holds a PhD in occupational psychology and a master's degree in econometrics and statistics. She is particularly interested in AI, both for its ethical implications and its practical applications."  # Add participant bio here.
+  bio: "Frédérique is a data documentation and distribution specialist at IR* Progedo, a CNRS laboratory and national research infrastructure dedicated to data and methods in quantitative social sciences. She holds a PhD in occupational psychology and a master’s degree in econometrics and statistics. She is particularly interested in AI, both for its ethical implications and its practical applications."  # Add participant bio here.
   # website: https://www.google.com  # Link participant website here.
 
 - name: "Leonardo Heyerdahl" # Replace with participant name.
@@ -75,7 +75,7 @@
 
 - name: "Yann Schreiber" # Replace with participant name.
   image: /assets/images/Schreiber.png  # Add participant image to assets/images/ and update here.
-  bio: "I am a datajournalist at the international news agency Agence France-Presse (AFP), based in Paris. My previous jobs within AFP include economics correspondent in Frankfurt, Germany, and éco reporter in Paris. I am passionate about newsroom innovation and how AI can impact and/or inform news coverage. I am looking foreward to learn how our use-cases and best practices intersect with those in social sciences. I have a dual-master's degree in "Journalism and International Affairs" (International Economic Policy) from Sciences Po Paris."  # Add participant bio here.
+  bio: "I am a datajournalist at the international news agency Agence France-Presse (AFP), based in Paris. My previous jobs within AFP include economics correspondent in Frankfurt, Germany, and éco reporter in Paris. I am passionate about newsroom innovation and how AI can impact and/or inform news coverage. I am looking foreward to learn how our use-cases and best practices intersect with those in social sciences. I have a dual-master’s degree in "Journalism and International Affairs" (International Economic Policy) from Sciences Po Paris."  # Add participant bio here.
   # website: https://www.google.com  # Link participant website here.
 
   - name: "Shujing Shi" # Replace with participant name.
@@ -92,7 +92,7 @@
 
 - name: "Miras Tolepbergen" # Replace with participant name.
   image: /assets/images/Tolepbergen.png  # Add participant image to assets/images/ and update here.
-  bio: "Miras Tolepbergen holds a BA in International Relations and Political Science. As a Master's student, he studied the history and theory of International Relations at Shanghai University. He also specialized in Political Communication as an Erasmus Mundus scholar at Charles University, Leiden University, and Jagiellonian University in Krakow. Currently a PhD fellow at the University of Oslo, Miras explores how Russian foreign policymakers construct Russia’s status, identity, and role in relation to China following the onset of the Russian "Special Military Operation" in February 2022. Methodologically, his project employs computational text analysis and seeks to contribute to the ongoing discourse on Russia’s civilizational trajectory."  # Add participant bio here.
+  bio: "Miras Tolepbergen holds a BA in International Relations and Political Science. As a Master’s student, he studied the history and theory of International Relations at Shanghai University. He also specialized in Political Communication as an Erasmus Mundus scholar at Charles University, Leiden University, and Jagiellonian University in Krakow. Currently a PhD fellow at the University of Oslo, Miras explores how Russian foreign policymakers construct Russia’s status, identity, and role in relation to China following the onset of the Russian "Special Military Operation" in February 2022. Methodologically, his project employs computational text analysis and seeks to contribute to the ongoing discourse on Russia’s civilizational trajectory."  # Add participant bio here.
 
 
 - name: "Boyam Fabrice Yameogo" # Replace with participant name.
