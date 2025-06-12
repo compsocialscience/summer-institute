@@ -19,7 +19,7 @@ schedule: true
 **13:00** Lunch break  
 **14:00** R programming – Computer set up/packages  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Dr. Amos Langat, PAUSTI*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Download R:** [R](https://www.r-project.org/)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Download:** [R](https://www.r-project.org/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Download:** [RStudio](https://posit.co/download/rstudio-desktop/#download)
 
 
