@@ -1,11 +1,11 @@
 ---
 layout: location_detail
-partner_site: KENYA
+partner_site: kenya
 main: true
-image: /assets/images/
+image: /assets/images/placeholder.jpg
 ---
 
-[//]: # (ORGANIZERS: Update the info to match your location. Add a site image to /assets/images/ and update the placeholder URL above to match it. See _data/2025/KENYA for yml files that control the header content, location info on general sites page, people lists, and sidebar.)
+[//]: # (ORGANIZERS: Update the info to match your location. Add a site image to /assets/images/ and update the placeholder URL above to match it. See _data/2025/kenya for yml files that control the header content, location info on general sites page, people lists, and sidebar.)
 
 From June 16 to June 27, 2025 the Summer Institute in Computational Social Science will be held in Kenya. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
 
