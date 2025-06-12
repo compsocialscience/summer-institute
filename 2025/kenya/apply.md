@@ -8,7 +8,7 @@ partner_site: kenya
 # Apply
 
 ## Eligibility
-We invite applicants from Postgraduate students (MSc, Ph.D.), early-career University Faculty, and Industry Professionals with an interest in applying data science techniques to addressing pressing social problems. The program will be held at AICAD, in Kenya. While there are no restrictions based on citizenship, country of study, or country of employment, due to limited resources for logistics, participation may be restricted to participants living within Kenya. About 20 participants will be invited, and participants are expected to fully attend and participate in the entire two-week program from June 16 to June 27, 2025.
+We invite applicants from Postgraduate students (MSc, Ph.D.), early-career University Faculty, and Industry Professionals with an interest in applying data science techniques to addressing pressing social problems. The program will be held at African Institute for Capacity Development (AICAD)-JKUAT, Kenya. While there are no restrictions based on citizenship, country of study, or country of employment, due to limited resources for logistics, participation may be restricted to participants living within Kenya. About 20 participants will be invited, and participants are expected to fully attend and participate in the entire two-week program from June 16 to June 27, 2025.
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp.
 
@@ -39,7 +39,7 @@ Applicants must submit the following documents:
 
 **In order to be guaranteed full consideration, all application materials must be submitted by April 4th, 2025.** All application materials must be submitted through [this form](https://docs.google.com/forms/d/1K-rb33xbY_bNoxZulSq72O1qh_-NHvOcuSaNa-nNTnQ) . Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail, a week after the application deadline, and will ask participants to confirm their participation very soon thereafter.
 
-Any inquiries can be sent to `sicssacdamzetech@gmail.com`
+Any inquiries can be sent to ``
 
 ## Application Frequently Asked Questions
 
