@@ -17,9 +17,8 @@ schedule: true
 **11:30** Research Speed Dating: Getting to know you and your research  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Dr Mary Muyonga*  
 **13:00** Lunch break  
-**14:00** R programming – Computer set up/packages  
+**14:00** R programming – Computer set up/packages https://www.r-project.org/ 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Dr. Amos Langat, PAUSTI*
-https://www.r-project.org/
 **15:30** Setting up Git Hub/Slack and harmonizing expectations  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Dr. Amos Langat, PAUSTI*  
 **16:30** Tea Break  
