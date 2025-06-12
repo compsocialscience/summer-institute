@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: bogota
 main: true
-image: /assets/images/[BOG] Universidad del Rosario Image.jpeg
+image: /assets/images/BOG_Universidad_del_Rosario_Image.jpeg
 ---
 
 [//]: # (ORGANIZERS: Update the info to match your location. Add a site image to /assets/images/ and update the placeholder URL above to match it. See _data/2025/Bogotá for yml files that control the header content, location info on general sites page, people lists, and sidebar.)

@@ -35,10 +35,10 @@
 
 - name: "Matthias Levalet" # Replace with participant name.
   image: /assets/images/levalet.png  # Add participant image to assets/images/ and update here.
-  bio: "Matthias Levalet is a first year PhD student at the Centre Émile Durkheim (Sciences Po Bordeaux / Université de Bordeaux). He is working on the production and circulation of the "republican" idea. More precisely, his thesis compares the three main French right-wing parties between 2002 and the present day."  # Add participant bio here.
+  bio: "Matthias Levalet is a first year PhD student at the Centre Émile Durkheim (Sciences Po Bordeaux / Université de Bordeaux). He is working on the production and circulation of the \"republican\" idea. More precisely, his thesis compares the three main French right-wing parties between 2002 and the present day."  # Add participant bio here.
   # website: https://www.google.com  # Link participant website here.
 
-  - name: "Léo Mignot" # Replace with participant name.
+- name: "Léo Mignot" # Replace with participant name.
   image: /assets/images/mignot.png  # Add participant image to assets/images/ and update here.
   bio: "Léo Mignot is a research engineer at the Centre Émile Durkheim (CNRS / Sciences Po Bordeaux / Université de Bordeaux), where he contributes to the development of computational social science. His research focuses on the intersection of artificial intelligence and healthcare, studying both the technological applications and the socio-professional implications of AI."  # Add participant bio here.
   # website: https://www.google.com  # Link participant website here.
@@ -58,7 +58,7 @@
   bio: "Jose is a Lecturer in Media and Communication at the University of Winchester (UK). His research combines computational text analysis with qualitative methods to study political communication, with a particular focus on the role of news media in peace negotiations in Colombia. He completed his PhD at the University of Leeds (UK) in November 2022."  # Add participant bio here.
   # website: https://www.google.com  # Link participant website here.
 
-  - name: "Victoria Palchikova" # Replace with participant name.
+- name: "Victoria Palchikova" # Replace with participant name.
   image: /assets/images/Palchikova.png  # Add participant image to assets/images/ and update here.
   bio: "I am a PhD student in Political Science at the University of Marburg, Germany. My research focuses on changes in social norms and political attitudes using computational methods such as network analysis, sentiment analysis and topic modelling. I have worked with data scraping and API consumption on platforms such as YouTube and Telegram. I am currently studying attitudes towards political violence in TikTok networks"  # Add participant bio here.
   # website: https://www.google.com  # Link participant website here.
@@ -75,31 +75,30 @@
 
 - name: "Yann Schreiber" # Replace with participant name.
   image: /assets/images/Schreiber.png  # Add participant image to assets/images/ and update here.
-  bio: "I am a datajournalist at the international news agency Agence France-Presse (AFP), based in Paris. My previous jobs within AFP include economics correspondent in Frankfurt, Germany, and éco reporter in Paris. I am passionate about newsroom innovation and how AI can impact and/or inform news coverage. I am looking foreward to learn how our use-cases and best practices intersect with those in social sciences. I have a dual-master’s degree in "Journalism and International Affairs" (International Economic Policy) from Sciences Po Paris."  # Add participant bio here.
+  bio: "I am a datajournalist at the international news agency Agence France-Presse (AFP), based in Paris. My previous jobs within AFP include economics correspondent in Frankfurt, Germany, and éco reporter in Paris. I am passionate about newsroom innovation and how AI can impact and/or inform news coverage. I am looking foreward to learn how our use-cases and best practices intersect with those in social sciences. I have a dual-master’s degree in \"Journalism and International Affairs\" (International Economic Policy) from Sciences Po Paris."
   # website: https://www.google.com  # Link participant website here.
 
-  - name: "Shujing Shi" # Replace with participant name.
+- name: "Shujing Shi" # Replace with participant name.
   image: /assets/images/shi.png  # Add participant image to assets/images/ and update here.
-  bio: "Shujing Shi is a PhD candidate at the Institute of Criminology, University of Cambridge. She
-  holds an M.Sc. in Criminology from the University of Pennsylvania and a B.A. in Criminology
-  from Durham University. Her PhD research centred around organised crime and drug markets, with an emphasis on the group dynamics and operational mechanisms of organised drug trafficking networks. In addition, her broader academic interests include human trafficking, drug policy, evidence-based policing and community corrections."  # Add participant bio here.
+  bio: "Shujing Shi is a PhD candidate at the Institute of Criminology, University of Cambridge. She holds an M.Sc. in Criminology from the University of Pennsylvania and a B.A. in Criminology from Durham University. Her PhD research centred around organised crime and drug markets, with an emphasis on the group dynamics and operational mechanisms of organised drug trafficking networks. In addition, her broader academic interests include human trafficking, drug policy, evidence-based policing and community corrections."  # Add participant bio here.
   # website: https://www.google.com  # Link participant website here.
 
 - name: "Silja Sormunen" # Replace with participant name.
   image: /assets/images/Sormunen.png  # Add participant image to assets/images/ and update here.
-  bio: "Silja is a PhD candidate at Aalto University, Finland, studying the physics of complex adaptive systems. With a foundation in network science and an interdisciplinary background in psychology, medicine and philosophy, she is especially interested in exploring diverse approaches to climate change mitigation."  # Add participant bio here.
+  bio: "Silja is a PhD candidate at Aalto University, Finland, studying the physics of complex adaptive systems. With a foundation in network science and an interdisciplinary background in psychology, medicine and philosophy, she is especially interested in exploring diverse approaches to climate change mitigation."
   # website: https://www.google.com  # Link participant website here.
 
-- name: "Miras Tolepbergen" # Replace with participant name.
+- name: "Miras Tolepbergen"
   image: /assets/images/Tolepbergen.png  # Add participant image to assets/images/ and update here.
-  bio: "Miras Tolepbergen holds a BA in International Relations and Political Science. As a Master’s student, he studied the history and theory of International Relations at Shanghai University. He also specialized in Political Communication as an Erasmus Mundus scholar at Charles University, Leiden University, and Jagiellonian University in Krakow. Currently a PhD fellow at the University of Oslo, Miras explores how Russian foreign policymakers construct Russia’s status, identity, and role in relation to China following the onset of the Russian "Special Military Operation" in February 2022. Methodologically, his project employs computational text analysis and seeks to contribute to the ongoing discourse on Russia’s civilizational trajectory."  # Add participant bio here.
-
+  bio: "Miras Tolepbergen holds a BA in International Relations and Political Science. As a Master’s student, he studied the history and theory of International Relations at Shanghai University. He also specialized in Political Communication as an Erasmus Mundus scholar at Charles University, Leiden University, and Jagiellonian University in Krakow. Currently a PhD fellow at the University of Oslo, Miras explores how Russian foreign policymakers construct Russia’s status, identity, and role in relation to China following the onset of the Russian \"Special Military Operation\" in February 2022. Methodologically, his project employs computational text analysis and seeks to contribute to the ongoing discourse on Russia’s civilizational trajectory."  # Add participant bio here.
+  # website: https://www.google.com  # Link participant website here.
 
 - name: "Boyam Fabrice Yameogo" # Replace with participant name.
   image: /assets/images/Yameogo.png  # Add participant image to assets/images/ and update here.
   bio: "Boyam Fabrice Yameogo is a lecturer in Statistics at the Department of Statistics, University Joseph KI-ZERBO (Burkina Faso). He holds a PhD in Applied Mathematics from Nantes University. His current research focuses on data analysis, typically applying methods to generate synthetic populations and estimate household living conditions in West Africa. He is also interested in using methods in computational social science to study multidimensional poverty, income inequality, and population dynamics. Fabrice’s transdisciplinary background facilitates work on various topics and collaboration in diverse teams."  # Add participant bio here.
-
+  # website: https://www.google.com  # Link participant website here.
 
 - name: "Paola Zancanaro" # Replace with participant name.
   image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
   bio: "Paola Zancanaro is an adjunct professor of English communication and member of the scientific committee at UniDolomiti. She holds a Master’s degree in Applied Linguistics from Università di Bologna, with a focus on English, Arabic, and Portuguese, and is currently completing a second Master’s in Natural Language Processing at Université Grenoble Alpes. Her research explores the intersection of language, computational methods, and geospatial analysis, with particular interests in GIS, information design, and how spatial factors shape access to knowledge, resources, and opportunities. Motivated by a commitment to social equity, she returned to university to specialize in data analysis and visualization with the goal of supporting NGOs and social actors in improving access to healthcare, financial literacy, gender equity initiatives, and economic empowerment programs. Inspired by the work of Federica Fragapane, she aims to contribute to the development of inclusive, ethically grounded approaches to data storytelling and spatial analysis."  # Add participant bio here.
+  # website: https://www.google.com  # Link participant website here.

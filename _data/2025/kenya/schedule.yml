@@ -1,5 +1,145 @@
-- date: "June 16 to June 27, 2025"
+- date: 2025-06-16
+  name: "<b>Introduction to SICSS and CSS</b>"
   events:
-    - name: "Schedule coming soon. Check back for updates!" # Update this line or add markdown for your site's schedule.
+    - name: "Registration"
+      time: "09:00 - 10:00"
+    - name: "Opening/Welcoming Session - Introduction of Participants"
+      time: "10:00 - 11:00"
+    - name: "Tea Break"
+      time: "11:00 - 11:30"
+    - name: "Research Speed Dating: Getting to know you and your research - Dr Mary Muyonga"
+      time: "11:30 - 13:00"
+    - name: "Lunch break"
+      time: "13:00 - 14:00"
+    - name: "R programming -- Computer set up/packages - Dr. Amos Langat, Lecturer PAUSTI"
+      time: "14:00 - 15:30"
+    - name: "Setting up Git Hub/Slack and harmonizing expectations - Dr. Amos Langat, PAUSTI"
+      time: "15:30 - 16:30"
+    - name: "Tea Break"
+      time: "16:30 - 17:00"
+    - name: "Introduction to Computational Social Sciences - Professor Chris Bail, Founder of SICSS and Professor at the Duke Sanford School of Public Policy, USA"
+      time: "17:00 - 18:00"
 
-  # Our tentative schedule can be seen [here](www.google.com). Our program focuses on ... . We will invite guest speakers to provide an overview of ..."
+- date: 2025-06-17
+  name: "<b>Introduction to R and Computations with R</b>"
+  events:
+    - name: "Research Happy Hour - Dr Mary Muyonga"
+      time: "09:00 - 10:30"
+    - name: "Tea Break"
+      time: "10:30 - 11:00"
+    - name: "R Data Sources and Types and Applying R in Social Research - Dr Amos Langat, PAUSTI"
+      time: "11:00 - 12:30"
+    - name: "Students Practical Session"
+      time: "12:30 - 13:00"
+    - name: "Lunch Break"
+      time: "13:00 - 14:00"
+    - name: "New Methods of Social Science Research in the Digital Age - Dr Emmanuel Ọlámíjùwọ́n, St Andrews University, UK"
+      time: "14:00 - 15:30"
+    - name: "Tea break"
+      time: "15:30 - 16:00"
+    - name: "Meta AI and Data for Good & Meta Content Library - Meaghan Waff, Meta AI and Data for Good; Yair Rubinstein, Meta Content Library"
+      time: "16:00 - 17:30"
+
+- date: 2025-06-18
+  name: "<b>Using R for Research</b>"
+  events:
+    - name: "Research Happy Hour - Dr. Mary Muyonga"
+      time: "09:00 - 10:30"
+    - name: "Tea Break"
+      time: "10:30 - 11:00"
+    - name: "Web Harvesting Using R - Dr. Amos Langat"
+      time: "11:00 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Practical Sessions"
+      time: "14:00 - 16:00"
+    - name: "Tea Break"
+      time: "16:00 - 16:30"
+
+- date: 2025-06-19
+  name: "<b>Text Analysis and Sentiment Analysis</b>"
+  events:
+    - name: "Research Happy Hour - Dr Mary Muyonga"
+      time: "09:00 - 10:00"
+    - name: "Tea Break"
+      time: "10:00 - 10:30"
+    - name: "Text as Data (Introduction to Text Analysis) - Dr. Amos Langat"
+      time: "10:30 - 11:30"
+    - name: "Paper presentation: Sentiment Analysis-based Stock Market Prediction - Tiyapo Lydia Chimbaira, African Institute for Mathematical Sciences, Cameroun"
+      time: "11:30 - 13:00"
+    - name: "Lunch Break"
+      time: "13:00 - 14:00"
+    - name: "Practical Session"
+      time: "14:00 - 16:00"
+    - name: "Tea Break"
+      time: "16:00 - 16:30"
+
+- date: 2025-06-20
+  name: "<b>Introduction to Machine Learning</b>"
+  events:
+    - name: "Research Happy Hour - Dr Mary Muyonga"
+      time: "09:00 - 09:30"
+    - name: "Tea Break"
+      time: "09:30 - 10:00"
+    - name: "Introduction to Machine Learning - Professor Saralees Nadarajah, University of Manchester, UK"
+      time: "10:00 - 12:30"
+    - name: "Q & A /Practical Session"
+      time: "12:30 - 13:00"
+    - name: "Lunch break"
+      time: "13:00 - 14:00"
+    - name: "Machine Learning Practical Session - Dr. Amos Langat"
+      time: "14:00 - 15:30"
+    - name: "Tea Break"
+      time: "15:30 - 16:00"
+
+- date: 2025-06-23
+  name: "<b>Ethics and Social Media Polarization</b>"
+  events:
+    - name: "Research Happy Hour - Dr. Mary Muyonga"
+      time: "09:00 - 10:00"
+    - name: "Tea Break"
+      time: "10:00 - 10:30"
+    - name: "Social Media Polarization - Podcast: Social Media Polarization with Prof. Chris Bail"
+      time: "10:30 - 11:30"
+    - name: "Practical session - Dr Amos Langat"
+      time: "11:30 - 13:00"
+    - name: "Lunch Break"
+      time: "13:00 - 14:00"
+    - name: "Ethics in Computational Social Science - Professor Chris Bail (Video courtesy of SICSS YouTube channel)"
+      time: "14:00 - 15:00"
+    - name: "Tea Break"
+      time: "15:00 - 15:30"
+    - name: "Artificial Intelligence and Computational Social Science - Dr. Blessing Ogbuokiri, Brocke University, Ontario, Canada"
+      time: "15:30 - 17:00"
+
+- date: 2025-06-24
+  name: "<b>Group Projects</b>"
+  events:
+    - name: "Group Projects"
+      time: "09:00 - 17:00"
+
+- date: 2025-06-25
+  name: "<b>Group Projects</b>"
+  events:
+    - name: "Group Projects"
+      time: "09:00 - 17:00"
+
+- date: 2025-06-26
+  name: "<b>Group Project Presentations</b>"
+  events:
+    - name: "Group Projects -- Presentations"
+      time: "09:00 - 17:00"
+
+- date: 2025-06-27
+  name: "<b>Final Presentations and Closing</b>"
+  events:
+    - name: "Group Projects -- Presentations"
+      time: "09:00 - 11:00"
+    - name: "Tea Break"
+      time: "11:00 - 11:30"
+    - name: "Group Projects -- Presentations"
+      time: "11:30 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Closing Ceremony"
+      time: "14:00 - 16:00"
