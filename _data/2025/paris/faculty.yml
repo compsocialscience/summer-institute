@@ -23,4 +23,19 @@
   bio: Hesu is an assistant professor at the ENSAE. Her research investigates how places are perceived and evaluated in ways that reinforce or shift inequalities by race and class. She takes various methodological approaches to answer research questions, including online survey experiments, digital trace data, and interviews.
   website: https://crest.science/user/hesu-yoon/
 
+- name: Emma Bonutti D'Agostini
+  image: /assets/images/emma_bonutti.png
+  bio: Emma Bonutti D’Agostini is a PhD candidate in Sociology at CREST (Institut Polytechnique de Paris) and médialab (Sciences Po Paris). Before that, she completed a Bachelor in Political Sciences at University of Pisa and Sant’Anna School of Advanced Studies (Pisa, Italy) and a Master in Sociology at Sciences Po Paris. Her current research leverages computational methods and advanced NLP to study the representations made of far-right politicians and messages in the French journalistic spheres.
+  website: https://crest.science/user/emma-bonutti-d-agostini/
+
+- name: Annina Claesson
+  image: /assets/images/annina_claesson.jpg
+  bio: Annina is a PhD candidate in sociology at CREST and Sciences Po Médialab. She researches practices in political communication among parliamentarians and journalists, with a particular interest in social media dynamics.
+  website: https://anninacc.wordpress.com/
+  
+- name: Yasmine Houri
+  image: /assets/images/yasmine_houri.jpg
+  bio: Yasmine is a PhD candidate in Sociology at CREST. She studies the social processes underpinning inaccurate or harmful information sharing on social media, using a range of computational tools in network and data science. 
+  website: https://crest.science/user/Yasmine-HOURI/
+
 
