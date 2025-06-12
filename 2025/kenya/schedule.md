@@ -134,6 +134,9 @@ schedule: true
 **13:00** Lunch break  
 **14:00** Machine Learning Practical Session  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Dr. Amos Langat*  
+**14:30** Paper presentation: Feature Selection for Stock Price Movement Classification Using
+Machine Learning and Deep Learning  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Sofia Sentepian Lentikaa, African Institute for Mathematical Sciences, Cameroun*  
 **15:30** Tea Break  
 
 **End of Day 5**
