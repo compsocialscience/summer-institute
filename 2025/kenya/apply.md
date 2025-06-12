@@ -39,7 +39,7 @@ Applicants must submit the following documents:
 
 **In order to be guaranteed full consideration, all application materials must be submitted by April 4th, 2025.** All application materials must be submitted through [this form](https://docs.google.com/forms/d/1K-rb33xbY_bNoxZulSq72O1qh_-NHvOcuSaNa-nNTnQ) . Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail, a week after the application deadline, and will ask participants to confirm their participation very soon thereafter.
 
-Any inquiries can be sent to `sicssacdamzetech@gmail.com`
+Any inquiries can be sent to ``
 
 ## Application Frequently Asked Questions
 
