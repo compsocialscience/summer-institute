@@ -33,14 +33,13 @@
   bio: "Tianqi Gong is a PhD student in Social Science at University College London (UCL), where she also earned an MA in Comparative Economics and Policy. Her research interests include intergenerational mobility, economic inequality, and geographic disparities. Using quantitative methods, she wants to explore how emerging technologies influence social mobility."
 #  #website: https://www.google.com  # Link participant website here.
 
+- name: "Tesfaye Salarin" # Replace with participant name.
+  image: /assets/images/London_2025_Participants_Tesfaye.jpg  # Add participant image to assets/images/ and update here.
+  bio: "Tesfaye Salarin is a PhD Candidate enrolled at the University of Trento. He's recently completed a visiting research period at the Department of Computer Science at UCL host-supervised by Professor Tomaso Aste. His research stands at the intersection of market microstructure, information theory and computational finance. His recent work explores the role of non-financial information (i.e.,ESG news) and its impact on equity markets in a medium-to-high frequency setting. Tesfaye holds a MSc in Finance from Cà Foscari University of Venice and is passionate about leveraging advancements in financial technology to understand the complex dynamics between finance and sustainability"
+
 - name: "Teodor Zidaru" # Replace with participant name.
   image: /assets/images/London_2025_Participants_Teo.jpg  # Add participant image to assets/images/ and update here.
   bio: "I am an economic and digital anthropologist with expertise on how and why people trust and mistrust technologies, institutions, and each other as they engage in diverse competitive and collaborative endeavours. I am interested not just in the way ordinary people live with data, but also in the way data science literacy constitutes communities of practice that reshape global knowledge economies and precipitate novel understandings of what humans can or cannot entrust to technology. Accordingly, I have been developing analyses that bridge data science and the social sciences by combining analytics developed in linguistic anthropology and critical data studies to highlight the generative power of narratives and other sociolinguistic forms in technological use and design." 
-#  #website: https://www.google.com  # Link participant website here.
-
-#- name: "Sidharth Rony" # Replace with participant name.
-#  image: /assets/images/London_2025_Participants_Sidharth.jpg  # Add participant image to assets/images/ and update here.
-#  bio: "Sidharth is a Postdoctoral Researcher at UNU-MERIT, specializing in the intersection of education, technology, and labor economics. He recently completed his PhD in Economics at Royal Holloway, University of London, where his research applied computational and machine learning methods to analyze automation, skills, and labor market dynamics. His work focuses on job advertisements to measure skill demand and wage premiums. Passionate about interdisciplinary collaboration, Sidharth continues to explore how digital transformation reshapes work and education globally."
 #  #website: https://www.google.com  # Link participant website here.
 
 - name: "Sabrina Aufiero" # Replace with participant name.
