@@ -14,8 +14,8 @@
     - name: "R programming -- Computer set up/packages - Dr. Amos Langat, PAUSTI"
       time: "14:00 - 15:30"
     - name: "Setting up Git Hub/Slack and harmonizing expectations - Dr. Amos Langat, PAUSTI"
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**GitHub:** [GitHub](https://github.com/) 
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Slack Help:** [Getting Started](https://slack.com/help/categories/360000049043-Getting-started)
+     -name: "[GitHub](https://github.com/) "
+     -name: "Slack Help: [Getting Started](https://slack.com/help/categories/360000049043-Getting-started)"
       time: "15:30 - 16:30"
     - name: "Tea Break"
       time: "16:30 - 17:00"
