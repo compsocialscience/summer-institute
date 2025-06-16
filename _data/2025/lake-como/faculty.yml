@@ -46,7 +46,7 @@ Faculty:
   public economics. In his methodological work, he develops new machine-learning tools for social scientists, with a particular focus on natural language processing tools." # Add faculty bio here.
 
 
-Workshopleaders:
+Workshop_leaders:
   title: Workshop Leaders
   people:
 
@@ -145,6 +145,45 @@ Speakers:
   in methods for validating machine learning-based measures of conflictual culture (e.g. hate speech, stereotypes, supremacy, violence); he also maintains an interest 
   in the disciplinary and organizational dimensions of validation problems generally." # Add faculty bio here.
 
+  
+- name: "Ágnes Horvát" # Add faculty name here.
+  image: /assets/images/agnes_Horvat.png  # Add faculty image to assets/images/ and update here.
+  bio: "Ágnes is an Associate Professor of Communication and Computer Science (by courtesy) at Northwestern University, USA. Her research in human-centered computing 
+  and network science investigates how ubiquitous networks induce biased information production, sharing, and processing on AI-enabled, algorithmic platforms. 
+  By uncovering how online spaces operate, her group strives to make digital tools more efficient for scientists, entrepreneurs, and creative artists. Their recent 
+  projects investigate the use of LLMs in scientific writing and music creation, study biases in online attention to science, identify cases of collective intelligence 
+  and opportunities for improved decision-making, and develop frameworks to examine persuasion and opinion change in online discussions. Professor Horvát's work has 
+  been awarded an NSF CAREER award. Her doctoral advisees have received highly competitive prizes, including a Northwestern Presidential Fellowship and best student paper 
+  awards at international conferences. Her research has been featured recently in Nature, The Washington Post, Le Monde, and The Economist." # Add faculty bio here.
+
+
+- name: "Chiara Binelli" # Add faculty name here.
+  image: /assets/images/Chiara_Binelli.png  # Add faculty image to assets/images/ and update here.
+  bio: "Chiara received her Ph.D. in Economics from the University College London. She was a Research Scholar and Research Associate at the Institute for Fiscal Studies, 
+  a Post-Doctoral Research Fellow at Nuffield College and the University of Oxford, an Assistant Professor at the University of Southampton, and an Associate Professor 
+  at the University of Milano-Bicocca. She is Associate Professor of Economics at the University of Bologna, the Founder and Co-Director of the Center for Research and 
+  Social Progress, and the Founder of the Network of Women in Data Science and Social Science. She held several visiting fellowships at European and American Universities.
+  Her research interests focus on Labor and Development Economics, and Computational Social Science. She has worked on income and social inequality, youth unemployment, 
+  and climate change. In her most recent work, she merges Data Science and Social Science to combine prediction and explanation to study preparedness to climate change 
+  and the social impact of artificial intelligence. Her research has been published in international journals such as Climatic Change, Political Research Quarterly, 
+  Big Data and Cognitive Computing, the Journal of Economic Behavior and Organization, the Review of Economic Dynamics, Social Indicators Research, the Economics of 
+  Education Review, and World Development." # Add faculty bio here.
+
+
+- name: "Flaminio Squazzoni" # Add faculty name here.
+  image: /assets/images/Flaminio_Squazzoni.png  # Add faculty image to assets/images/ and update here.
+  bio: "Flaminio is Professor of Sociology, director of the BehaveLab and chair of the Master's programme in Computational Social and Political Science at the 
+  Department of Social and Political Sciences of the University of Milan. He is editor of JASSS-Journal of Artificial Societies and Social Simulation, and one of 
+  the advisory editors of the Wiley Series in Computational and Quantitative Social Science and the Springer Series in Computational Social Science. He has been the 
+  President of the European Social Simulation Association for two mandates (2012/2016)." # Add faculty bio here.
+
+  
+- name: "Chen Peng" # Add faculty name here.
+  image: /assets/images/Chen_Peng.png  # Add faculty image to assets/images/ and update here.
+  bio: "Chen is a postdoctoral researcher at Bocconi University. Her research experimental designs and integrates computational methods to investigate how social 
+  norms and demographic behaviors co-evolve. She is particularly interested in the application of large language models to simulate human judgment and decision-making 
+  in social science experiments." # Add faculty bio here.
+  
 
 - name: "Dirk Hovy" # Add faculty name here.
   image: /assets/images/dirk_hovy.png  # Add faculty image to assets/images/ and update here.
