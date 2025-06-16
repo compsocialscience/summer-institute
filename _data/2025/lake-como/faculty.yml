@@ -36,9 +36,8 @@
   His work has been published in high-impact journals such as Nature Genetics, Nature Human Behaviour, and American Sociological Review. 
   He is the author, together with Melinda Mills and Felix Tropf, of the textbook An Introduction to Statistical Genetic Analysis, published by MIT Press." # Add faculty bio here.
 
-
-  - name: "Germain Gauthier" # Add faculty name here.
-  image: /assets/images/Germain_Gauthier.jpg  # Add faculty image to assets/images/ and update here.
+- name: "Germain Gauthier" # Add faculty name here.
+  image: /assets/images/Germain_Gauthier.png  # Add faculty image to assets/images/ and update here.
   bio: "Germain is an Assistant Professor at the Department of Social and Political Sciences, Bocconi University. 
   He conducts methodological and applied work in economics and political science. In his applied work, he studies a broad set of topics in political economy and 
   public economics. In his methodological work, he develops new machine-learning tools for social scientists, with a particular focus on natural language processing tools." # Add faculty bio here.
