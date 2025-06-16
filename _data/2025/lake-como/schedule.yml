@@ -104,7 +104,7 @@
 - date: 2025-07-4
   name: "<b>Joint Workshop with European Polarization Observatory</b>"
   events:
-    - name: "EPO-SICSS Workshop Welcoming Address"
+    - name: "EPO - SICSS Workshop Welcoming Address"
       time: "09:00 - 09:15"
     - name: "EPO Project Welcoming Address"
       time: "09:15 - 09:30"
@@ -118,7 +118,8 @@
       time: "11:00 - 11:30"
     - name: "Pedro Ramaciotti, CNRS-Sciences Po (Title: Measuring ideological polarization in social media across countries in comparable political dimensions using political survey data)"
       time: "11:30 - 12:00"
-
+    - name: "Marvin Pappalettera, Bocconi University (Title: Mapping voters' preferences with digital trace data and random utility models)"
+      time: "11:30 - 12:00"
     - name: "Philip Darius, Hertie School (Title: Social media success of populist radical right parties in the 2024 European Parliament election)"
       time: "12:00 - 12:30"
     - name: "Vlad Bujdei-Tebeica, SNSPA (Title: Political Speech and Polarization: Tracing the Path from Discourse to Policy in Romania’s 2020-2024 Parliament)"
