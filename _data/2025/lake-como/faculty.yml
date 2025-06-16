@@ -1,4 +1,22 @@
-- name: "Faculty info coming soon." # Add faculty name here.
-  image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
-  bio: "Check back soon for updates." # Add faculty bio here.
-  website: https://www.google.com  # Link faculty website here.
+#- name: "TBD" # Add faculty name here.
+#  image: /assets/images/image_example.png  # Add faculty image to assets/images/ and update here.
+#  bio: "Check back soon for updates." # Add faculty bio here.
+#  website: google.com  # Link faculty website here.
+
+- name: "Nicolò Cavalli" # Add faculty name here.
+  image: /assets/images/CAVALLI-NICOLO_0 (1).jpg  # Add faculty image to assets/images/ and update here.
+  bio: "Nicolò is an assistant professor at the Department of Social and Political Sciences, Bocconi University. 
+  He holds a DPhil in Sociology from Nuffield College, University of Oxford. Nicolò participated in SICSS-Duke 2018 and co-organized SICSS-Oxford in 2019. 
+  He is Principal Investigator of a PRIN 2022 PNRR project and holder of a Cariplo ‘Young researchers’ grant. 
+  He is a member of Dondena, Baffi-Carefin, Green and IEP@BU research centers at Bocconi." # Add faculty bio here.
+
+
+- name: "Anne-Marie Jeanette" # Add faculty name here.
+  image: /assets/images/AMJ_photo_2023.jpg  # Add faculty image to assets/images/ and update here.
+  bio: "Anne-Marie is an associate professor of sociology at the University of Milan. She studies how changes in the social structure, 
+  such as deindustrialization or immigration, alter political life. She is especially interested in how the public perceives these social phenomena and the role of 
+  the socio-political context in shaping the public’s response to these occurrences. Her project DESPO, Deindustrializing Societies and the Political Consequences is 
+  funded by an ERC starting grant (2020-2026). Working at the intersection of political science and sociology, her research has been published in journals such as the 
+  British Journal of Sociology, Comparative Political Studies, and the Socio-Economic Review." # Add faculty bio here.
+
+# Add more faculty with the same format as above...
