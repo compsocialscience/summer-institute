@@ -15,5 +15,35 @@
   Beatrice earned her PhD in Statistics from Bocconi University in February 2022. She has held research positions at the Singapore Institute for Clinical Sciences (SICS) 
   and the Division of Biomedical Data Science at the National University of Singapore (NUS). In 2024, she served as Chair of the Junior Section of the International 
   Society for Bayesian Analysis (j-ISBA) and was honored with the IMS New Researcher Travel Award.
+  
   At SICSS, Beatrice will lead the Workshop “Decoding Connections: A Hands-On Workshop in Network Data Analysis” on July 8th." # Add faculty bio here.
+
+
+
+- name: "Sönke Ehret" # Add faculty name here.
+  image: /assets/images/Sonke_Ehret.png  # Add faculty image to assets/images/ and update here.
+  bio: "Sönke is a political scientist and experimentalist with a PhD from New York University. His work bridges computational social science, behavioral experiments, 
+  and applied cultural evolution to study norm change, collective behavior, and public preferences around emerging technologies. He has run large-scale virtual lab 
+  experiments on social tipping and coordination, with recent work exploring elite signaling and the governance implications of AI. In addition to academic appointments 
+  at the University of Oxford and the University of Lausanne, he has contributed to data and metrics strategy in the international policy space, applying research 
+  insights to real-world challenges. 
+  
+  At SICSS, Sönke will lead the Experiments workshop on July 7th." # Add faculty bio here.
+
+
+- name: "Pedro Ramaciotti Morales" # Add faculty name here.
+  image: /assets/images/Pedro_Ramaciotti Morales.png  # Add faculty image to assets/images/ and update here.
+  bio: "Pedro is Chair of AI in Social Sciences at CNRS & Sciences Po. studies social and political systems through social media and web data. After having received 
+  his PhD in Applied Mathematics from Ecole Polytechnique, he joined the Computer Science Department (LIP6) at Sorbonne University, and later on the Center for 
+  European Studies and Compared Politics (CEE) at Sciences Po. Today at médialab, he develops research projects at the intersection between sociology, political 
+  sciences, mathematics, and computer sciences, leveraging models and computing platforms in large-scale studies.
+  His research interests include computational social sciences, complex systems, recommender systems, machine learning/AI, social network analysis, and politics. 
+  Through his research, he tackles issues linked to disorders of digital ecosystems, such as polarization, fragmentation and concentration of online communities, 
+  connected with the future of governance of social media platforms. In one of his most recent projects, “AI-Political Machines”, funded by the McCourt Institute, 
+  he will develop research seeking to improve our understanding of how machines perceive social environments online, how this affects the way in which they recommend 
+  news content to users, and what the consequences are for the online political debate.
+  
+  At SICSS, Pedro will lead the European Polarization Observatory Workshop on July 4th." # Add faculty bio here.
+
+  
 
