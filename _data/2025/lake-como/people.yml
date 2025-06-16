@@ -1,1 +1,164 @@
+#- name: "TBD" # Add faculty name here.
+#  image: /assets/images/image_example.png  # Add faculty image to assets/images/ and update here.
+#  bio: "Check back soon for updates." # Add faculty bio here.
+#  website: google.com  # Link faculty website here.
+Faculty:
+  title: Faculty
+  people:
+  
+- name: "Nicolò Cavalli" # Add faculty name here.
+  image: /assets/images/CAVALLI-NICOLO_0 (1).jpg  # Add faculty image to assets/images/ and update here.
+  bio: "Nicolò is an assistant professor at the Department of Social and Political Sciences, Bocconi University. 
+  He holds a DPhil in Sociology from Nuffield College, University of Oxford. Nicolò participated in SICSS-Duke 2018 and co-organized SICSS-Oxford in 2019. 
+  He is Principal Investigator of a PRIN 2022 PNRR project and holder of a Cariplo ‘Young researchers’ grant. 
+  He is a member of Dondena, Baffi-Carefin, Green and IEP@BU research centers at Bocconi." # Add faculty bio here.
+
+
+- name: "Anne-Marie Jeanette" # Add faculty name here.
+  image: /assets/images/AMJ_photo_2023.jpg  # Add faculty image to assets/images/ and update here.
+  bio: "Anne-Marie is an associate professor of sociology at the University of Milan. She studies how changes in the social structure, 
+  such as deindustrialization or immigration, alter political life. She is especially interested in how the public perceives these social phenomena and the role of 
+  the socio-political context in shaping the public’s response to these occurrences. Her project DESPO, Deindustrializing Societies and the Political Consequences is 
+  funded by an ERC starting grant (2020-2026). Working at the intersection of political science and sociology, her research has been published in journals such as the 
+  British Journal of Sociology, Comparative Political Studies, and the Socio-Economic Review." # Add faculty bio here.
+
+  
+- name: "Chris Bail" # Add faculty name here.
+  image: /assets/images/chrisbail.jpg  # Add faculty image to assets/images/ and update here.
+  bio: "Chris is Co-Founder of SICSS and Professor of Sociology, Political Science, and Public Policy at Duke University where he directs the Polarization Lab. 
+  He is also affiliated with the Interdisciplinary Data Science Program, the Duke Network Analysis Center, and serves on the Advisory Council of the National Science 
+  Foundation's SBE Directorate. His research examines political polarization, culture and social psychology using tools from the field of computational social science. 
+  He is the author of Breaking the Social Media Prism: How to Make our Platforms Less Polarizing. He has organized or co-organized six SICSS locations." # Add faculty bio here.
+
+
+- name: "Nicola Barban" # Add faculty name here.
+  image: /assets/images/thumbnail_fellows-barban-nicola_web.jpg  # Add faculty image to assets/images/ and update here.
+  bio: "Nicola is Professor of Demography at the University of Bologna. He is the Principal Investigator of the ERC Consolidator Grant GENPOP: 
+  Genes, genealogies and the evolution of demographic change and social inequality.
+  His research focuses on demography, sociogenomics, social interactions, life course analysis, and computational social sciences. 
+  His work has been published in high-impact journals such as Nature Genetics, Nature Human Behaviour, and American Sociological Review. 
+  He is the author, together with Melinda Mills and Felix Tropf, of the textbook An Introduction to Statistical Genetic Analysis, published by MIT Press." # Add faculty bio here.
+
+- name: "Germain Gauthier" # Add faculty name here.
+  image: /assets/images/Germain_Gauthier.png  # Add faculty image to assets/images/ and update here.
+  bio: "Germain is an Assistant Professor at the Department of Social and Political Sciences, Bocconi University. 
+  He conducts methodological and applied work in economics and political science. In his applied work, he studies a broad set of topics in political economy and 
+  public economics. In his methodological work, he develops new machine-learning tools for social scientists, with a particular focus on natural language processing tools." # Add faculty bio here.
+
+
+Workshopleaders:
+  title: Workshop Leaders
+  people:
+
+- name: "Beatrice Franzolini" # Add faculty name here.
+  image: /assets/images/Franzolini-Photo.jpeg  # Add faculty image to assets/images/ and update here.
+  bio: "Beatrice is a Junior Assistant Professor (RTD-A) at the Bocconi Institute for Data Science and Analytics (BIDSA) and a core faculty member of the Bayesian 
+  Learning Laboratory (BayesLab) at Bocconi University in Milan, Italy. Her research adopts an interdisciplinary approach to develop rigorous probabilistic representations 
+  of complex phenomena, with a focus on Bayesian nonparametrics and probabilistic machine learning. Her work focuses on deepening the understanding of mathematical and 
+  probabilistic structures—such as dependent random measures and multivariate random partitions—while also exploring their application to modeling dynamic systems, 
+  including change-point detection and network data analysis. These methodologies have broad applications across various domains, including biostatistics, behavioral 
+  sciences, and financial econometrics.
+  Beatrice earned her PhD in Statistics from Bocconi University in February 2022. She has held research positions at the Singapore Institute for Clinical Sciences (SICS) 
+  and the Division of Biomedical Data Science at the National University of Singapore (NUS). In 2024, she served as Chair of the Junior Section of the International 
+  Society for Bayesian Analysis (j-ISBA) and was honored with the IMS New Researcher Travel Award.
+  
+  At SICSS, Beatrice will lead the Workshop “Decoding Connections: A Hands-On Workshop in Network Data Analysis” on July 8th." # Add faculty bio here.
+
+
+
+- name: "Sönke Ehret" # Add faculty name here.
+  image: /assets/images/Sonke_Ehret.png  # Add faculty image to assets/images/ and update here.
+  bio: "Sönke is a political scientist and experimentalist with a PhD from New York University. His work bridges computational social science, behavioral experiments, 
+  and applied cultural evolution to study norm change, collective behavior, and public preferences around emerging technologies. He has run large-scale virtual lab 
+  experiments on social tipping and coordination, with recent work exploring elite signaling and the governance implications of AI. In addition to academic appointments 
+  at the University of Oxford and the University of Lausanne, he has contributed to data and metrics strategy in the international policy space, applying research 
+  insights to real-world challenges. 
+  
+  At SICSS, Sönke will lead the Experiments workshop on July 7th." # Add faculty bio here.
+
+
+- name: "Pedro Ramaciotti Morales" # Add faculty name here.
+  image: /assets/images/Pedro_Ramaciotti Morales.png  # Add faculty image to assets/images/ and update here.
+  bio: "Pedro is Chair of AI in Social Sciences at CNRS & Sciences Po. studies social and political systems through social media and web data. After having received 
+  his PhD in Applied Mathematics from Ecole Polytechnique, he joined the Computer Science Department (LIP6) at Sorbonne University, and later on the Center for 
+  European Studies and Compared Politics (CEE) at Sciences Po. Today at médialab, he develops research projects at the intersection between sociology, political 
+  sciences, mathematics, and computer sciences, leveraging models and computing platforms in large-scale studies.
+  His research interests include computational social sciences, complex systems, recommender systems, machine learning/AI, social network analysis, and politics. 
+  Through his research, he tackles issues linked to disorders of digital ecosystems, such as polarization, fragmentation and concentration of online communities, 
+  connected with the future of governance of social media platforms. In one of his most recent projects, “AI-Political Machines”, funded by the McCourt Institute, 
+  he will develop research seeking to improve our understanding of how machines perceive social environments online, how this affects the way in which they recommend 
+  news content to users, and what the consequences are for the online political debate.
+  
+  At SICSS, Pedro will lead the European Polarization Observatory Workshop on July 4th." # Add faculty bio here.
+
+  
+  
+Speakers:
+  title: Speakers
+  people:
+
+- name: "Eaman Jahani" # Add faculty name here.
+  image: /assets/images/eaman.png  # Add faculty image to assets/images/ and update here.
+  bio: "Eaman is an assistant professor of Information Systems at the University of Maryland's Robert H. Smith School of Business. 
+  Previously, he received a PhD in Social and Engineering systems from MIT IDSS and was a postdoctoral associate at UC Berkeley’s Department of Statistics until January 2024. 
+  As a computational social scientist, his research interests span network science, statistics, experiment design, and causal inference. 
+  He investigates the structural factors that contribute to the unequal distribution of resources or information within networks, as well as the collective 
+  behavior in institutional settings and the mechanisms that promote cooperation or lead to disparities across groups. His work also explores experimental design 
+  in networks to detect the causal effects of interventions aimed at changing social norms and examines the impact of AI in business, particularly in the context 
+  of human-AI collaboration and its influence on creativity." # Add faculty bio here.
+
+
+- name: "Irene Pasquetto" # Add faculty name here.
+  image: /assets/images/Pasquetto_Irene-Irene-Pasquetto-682x1024.jpg  # Add faculty image to assets/images/ and update here.
+  bio: "Irene is a scholar in the field of information and communication studies. She researches contemporary knowledge production practices, 
+  with a focus on how digital technologies shape and mediate them. Her most recent research work centers on knowledge production in the context of open 
+  science and public participation in science. She is an Assistant Professor at the University of Maryland College of Information Studies. Previously, 
+  she was an Assistant Professor at the University of Michigan School of Information, where she taught ethics of information technologies and digital curation. 
+  She is also a Senior Research Fellow at the Shorenstein Center on Media, Politics, and Public Policy, at the Harvard Kennedy School, where 
+  I co-founded the Harvard Kennedy School Misinformation Review in 2019." # Add faculty bio here.
+
+ 
+- name: "Douglas Guilbeault" # Add faculty name here.
+  image: /assets/images/20241025-SGSB-Douglas_Guilbeault-3447-RT (1).jpg  # Add faculty image to assets/images/ and update here.
+  bio: "Doug received dual bachelor’s degrees in philosophy and rhetoric (with a minor in cognitive science) from the University of Waterloo, 
+  and an MA in Cognitive Linguistics from the University of British Columbia. He then completed a PhD in Communications in the Network Dynamics Group at the 
+  University of Pennsylvania’s Annenberg School for Communication. He is now an assistant professor of organizational behavior at Stanford's Graduate School of Business. 
+  As co-director of the Computational Culture Lab, Guilbeault harnesses and builds computationally intensive network- and language-based methods to study 
+  how organizational cultures emerge and evolve. His work has appeared in a number of top journals, including Nature, The Proceedings of the National Academy of 
+  the Sciences, and Management Science, as well as in popular news outlets, such as The Atlantic, Wired, and The Harvard Business Review. He has received top research 
+  awards from The International Conference on Computational Social Science, The Cognitive Science Society, and The International Communication Association." # Add faculty bio here. 
+
+
+
+- name: "Friedolin Merhout" # Add faculty name here.
+  image: /assets/images/Friedolin Merhout.jpg  # Add faculty image to assets/images/ and update here.
+  bio: "Friedo is an Associate Professor in the Department of Sociology at the University of Copenhagen where he is also affiliated with the Copenhagen Center for Social 
+  Data Science (SODAS) and coordinates the Knowledge, Organization, and Politics research group. His research use computational and experimental methods to examine 
+  intergroup relations leveraging digital trace, text, survey, and administrative data. He is particularly excited about exploiting underused data sources, 
+  such as Google search data, to study phenomena hard to investigate otherwise." # Add faculty bio here.
+
+
+- name: "Alexander Kindel" # Add faculty name here.
+  image: /assets/images/alex_headshot.jpg  # Add faculty image to assets/images/ and update here.
+  bio: "Alex is Assistant Professor of Sociology in the médialab at Sciences Po. His research addresses problems in the history and practice of social measurement. 
+  A recurring theme in his work is the problem of validating predictive measures of complex and ambiguous theoretical processes. Alex is currently especially interested 
+  in methods for validating machine learning-based measures of conflictual culture (e.g. hate speech, stereotypes, supremacy, violence); he also maintains an interest 
+  in the disciplinary and organizational dimensions of validation problems generally." # Add faculty bio here.
+
+
+- name: "Dirk Hovy" # Add faculty name here.
+  image: /assets/images/dirk_hovy.png  # Add faculty image to assets/images/ and update here.
+  bio: "Dirk is a Professor in the Computing Sciences Department of Bocconi University in Milan. He is interested in the interaction between language, society, 
+  and machine learning, or what computers can tell us about language and what language can tell us about society. He is also interested in ethical questions of 
+  bias and algorithmic fairness in machine learning." # Add faculty bio here.
+
+
+
+
+
+
+
+
+  
+# Add more faculty with the same format as above...
 
