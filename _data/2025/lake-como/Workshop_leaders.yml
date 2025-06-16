@@ -1,1 +1,19 @@
 
+#- name: "TBD" # Add faculty name here.
+#  image: /assets/images/image_example.png  # Add faculty image to assets/images/ and update here.
+#  bio: "Check back soon for updates." # Add faculty bio here.
+#  website: google.com  # Link faculty website here.
+
+- name: "Beatrice Franzolini" # Add faculty name here.
+  image: /assets/images/Franzolini-Photo.jpeg  # Add faculty image to assets/images/ and update here.
+  bio: "Beatrice is a Junior Assistant Professor (RTD-A) at the Bocconi Institute for Data Science and Analytics (BIDSA) and a core faculty member of the Bayesian 
+  Learning Laboratory (BayesLab) at Bocconi University in Milan, Italy. Her research adopts an interdisciplinary approach to develop rigorous probabilistic representations 
+  of complex phenomena, with a focus on Bayesian nonparametrics and probabilistic machine learning. Her work focuses on deepening the understanding of mathematical and 
+  probabilistic structures—such as dependent random measures and multivariate random partitions—while also exploring their application to modeling dynamic systems, 
+  including change-point detection and network data analysis. These methodologies have broad applications across various domains, including biostatistics, behavioral 
+  sciences, and financial econometrics.
+  Beatrice earned her PhD in Statistics from Bocconi University in February 2022. She has held research positions at the Singapore Institute for Clinical Sciences (SICS) 
+  and the Division of Biomedical Data Science at the National University of Singapore (NUS). In 2024, she served as Chair of the Junior Section of the International 
+  Society for Bayesian Analysis (j-ISBA) and was honored with the IMS New Researcher Travel Award.
+  At SICSS, Beatrice will lead the Workshop “Decoding Connections: A Hands-On Workshop in Network Data Analysis” on July 8th." # Add faculty bio here.
+
