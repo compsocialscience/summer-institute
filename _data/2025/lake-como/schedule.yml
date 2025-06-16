@@ -73,4 +73,176 @@
       time: "16:30 - 17:30"
     - name: "Keynote by Chris A. Bail- AI & Democracy (Como Evenings)"
       time: "18:00-20:00"
- 
+
+
+      
+
+- date: 2025-07-3
+  name: "<b>Social media and polarization research</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Friedolin Merhout, University of Copenhagen (Title: TBC)"
+      time: "09:30 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:30"
+    - name: "Paul Bouchaud, Complex Systems Institute of Paris (Title: TBC)"
+      time: "11:30 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Group exercise (P. Bouchaud, Z. Aghamohammadi)"
+      time: "14:00 - 16:00"
+    - name: "Coffee break"
+      time: "16:00 - 16:30"
+    - name: "Solutions to group exercise and discussion"
+      time: "16:30 - 17:30"
+    - name: "Douglas Guilbeault, Stanford University (Title: TBC)"
+      time: "17:30-19:00"
+
+
+
+- date: 2025-07-4
+  name: "<b>Joint Workshop with European Polarization Observatory</b>"
+  events:
+    - name: "EPO-SICSS Workshop Welcoming Address"
+      time: "09:00 - 09:15"
+    - name: "EPO Project Welcoming Address"
+      time: "09:15 - 09:30"
+    - name: "Hiroki Yamashita, EHESS-CNRS (Title: Measuring dimensionality of political space using social media data)"
+      time: "09:30 - 10:00"
+    - name: "Jonathan Cardoso-Silva, London School of Economics (Title: Latent Network Models in Social Networks)"
+      time: "10:00 - 10:30"
+    - name: "Marton Karsai, Central European University (Title: Socioeconomic patterns and their dynamics in social networks and language)"
+      time: "10:30 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:30"
+    - name: "Pedro Ramaciotti, CNRS-Sciences Po (Title: Measuring ideological polarization in social media across countries in comparable political dimensions using political survey data)"
+      time: "11:30 - 12:00"
+
+    - name: "Philip Darius, Hertie School (Title: Social media success of populist radical right parties in the 2024 European Parliament election)"
+      time: "12:00 - 12:30"
+    - name: "Vlad Bujdei-Tebeica, SNSPA (Title: Political Speech and Polarization: Tracing the Path from Discourse to Policy in Romania’s 2020-2024 Parliament)"
+      time: "12:30 - 13:00"  
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Elisa Omodei, Central European University (remotely) (Title: The Public that Engages Invisibly: What Visible Engagement Fails to Capture in Online Political Communication)"
+      time: "14:00 - 14:30"   
+    - name: "Armin Pournaki, Max Planck Institute (Horizon SoMe4Dem project) (Title: Conflicting narratives and ideological polarization on social media)"
+      time: "14:30 - 15:00" 
+    - name: "Carlo Santagiustina, Sciences Po, (Horizon SoMe4Dem project) (Title: Issue-based self-identification and participation on social media in the EU)"
+      time: "15:00 - 15:30" 
+    - name: "Paul Bouchaud, EHESS CNRS Sciences Po (Title: Algorithmic resolution of crowd-sourced moderation on X in polarized settings across countries)"
+      time: "15:30 - 16:00"
+   - name: "Gerardo Iñiguez, Tampere University (Title: The social impact of the willingness to share opinions: from online data to controlled experiments)"
+      time: "16:00 - 16:30"  
+    - name: "Coffee break"
+      time: "16:30 - 17:00"
+    - name: "Participants’ research teams form"
+      time: "17:00 - 18:00"
+
+
+- date: 2025-07-7
+  name: "<b>Experiments Workshop</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Sonke Ehret, University of Lausanne (Title: Online experiments workshop)"
+      time: "09:30 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:30"
+    - name: "Group exercise (S. Ehret, B. Rochford)"
+      time: "11:30 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "SICSS Unconference II"
+      time: "14:00 - 17:30"
+    - name: "Dirk Hovy, Bocconi University (Title: TBC)"
+      time: "17:30-18:45"
+
+
+
+- date: 2025-07-8
+  name: "<b>Network Workshop</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Beatrice Franzolini, Bocconi University (Title: Online experiments workshop)"
+      time: "09:30 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:30"
+    - name: "Group exercise (B. Franzolini, Z. Aghamohammadi)"
+      time: "11:30 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Group research work"
+      time: "14:00 - 17:30"
+    - name: "Flaminio Squazzoni, Università Statale di Milano (Title: TBC)"
+      time: "17:30 - 18:30"
+
+
+- date: 2025-07-9
+  name: "<b>Text and video as data</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Alex Kindel, SciencesPo (Title: TBC)"
+      time: "09:30 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:30"
+    - name: "Germain Gauthier, Bocconi University (Title: TBC)"
+      time: "11:30 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Group research work"
+      time: "14:00 - 17:30"
+    - name: "Agnes Emoke Horvat, Northwestern University"
+      time: "17:30 - 18:30"
+
+
+- date: 2025-07-10
+  name: "<b>Groups ultimate projects and Como FC Workshop</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Como FC Sports Analytics (Title: TBC)"
+      time: "09:30 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:30"
+    - name: "Group research work - Como FC Sports Analytics Team Round table"
+      time: "11:30 - 14:00"
+    - name: "Lunch"
+      time: "14:00 - 15:00"
+
+
+- date: 2025-07-11
+  name: "<b>Research group presentations</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Group presentations and discussion - Group I"
+      time: "09:30 - 10:30"
+    - name: "Group presentations and discussion - Group II"
+      time: "10:30 - 11:30"
+    - name: "Coffee Break"
+      time: "11:30 - 12:00" 
+    - name: "Group presentations and discussion - Group III"
+      time: "12:00 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+
+    - name: "Group presentations and discussion - Group IV"
+      time: "14:00 - 15:00"
+    - name: "Group presentations and discussion - Group V"
+      time: "15:00 - 16:00"
+    - name: "Group presentations and discussion - Group VI"
+      time: "16:00 - 17:00"
+    - name: "Coffee Break"
+      time: "17:00 - 17:300"   
+    - name: "Group presentations and discussion - Group VII"
+      time: "17:30 - 18:30"
+
+
+
+- date: 2025-07-12
+  name: Participants leave
+  events:
