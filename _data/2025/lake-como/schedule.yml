@@ -100,22 +100,3 @@
       time: "17:30-19:00"
 
 
-- date: 2025-07-7
-  name: "<b>Experiments Workshop</b>"
-  events:
-    - name: "Participants gather and housekeeping announcements"
-      time: "09:00 - 09:30"
-    - name: "Sonke Ehret, University of Lausanne (Title: Online experiments workshop)"
-      time: "09:30 - 11:00"
-    - name: "Coffee Break"
-      time: "11:00 - 11:30"
-    - name: "Group exercise (S. Ehret, B. Rochford)"
-      time: "11:30 - 13:00"
-    - name: "Lunch"
-      time: "13:00 - 14:00"
-    - name: "SICSS Unconference II"
-      time: "14:00 - 17:30"
-    - name: "Dirk Hovy, Bocconi University (Title: TBC)"
-      time: "17:30-18:45"
-
-
