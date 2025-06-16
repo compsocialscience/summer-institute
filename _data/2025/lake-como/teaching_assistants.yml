@@ -1,5 +1,5 @@
-- name: "TA info coming soon."
-  image: /assets/images/placeholderPic.png
-  bio: "..."
-  website: www.google.com
+- name: "Ben Rochford"
+  image: /assets/images/rochford-headshot.jpg
+  bio: "Ben is a Ph.D. Student of Sociology at Duke University. His research in the Duke Polarization Lab leverages computational approaches to study social science 
+  questions around online communities, social AI, identity, and culture. He is an alumni of both the Georgia Institute of Technology, and of the Summer Institutes."
 # add more TAs with this format below...
