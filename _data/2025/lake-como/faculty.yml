@@ -2,9 +2,6 @@
 #  image: /assets/images/image_example.png  # Add faculty image to assets/images/ and update here.
 #  bio: "Check back soon for updates." # Add faculty bio here.
 #  website: google.com  # Link faculty website here.
-Faculty:
-  title: Faculty
-  people:
   
 - name: "Nicolò Cavalli" # Add faculty name here.
   image: /assets/images/CAVALLI-NICOLO_0 (1).jpg  # Add faculty image to assets/images/ and update here.
