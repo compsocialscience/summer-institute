@@ -86,6 +86,12 @@
   in social science experiments." # Add faculty bio here.
   
 
+- name: "Paul Bouchaud" # Add faculty name here.
+  image: /assets/images/Paul_Bouchaud.png  # Add faculty image to assets/images/ and update here.
+  bio: "Paul is a postdoctoral computational researcher investigating online platforms' algorithmic systems, foreign information manipulation, and online social dynamics. 
+  They hold a PhD in algorithmic auditing and serve as an expert for NGOs, national and European institutions on high-profile platform accountability cases" # Add faculty bio here.
+
+  
 - name: "Dirk Hovy" # Add faculty name here.
   image: /assets/images/dirk_hovy.png  # Add faculty image to assets/images/ and update here.
   bio: "Dirk is a Professor in the Computing Sciences Department of Bocconi University in Milan. He is interested in the interaction between language, society, 
