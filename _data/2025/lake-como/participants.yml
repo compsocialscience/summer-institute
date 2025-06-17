@@ -7,16 +7,12 @@
 
 # Add more participants with the same format as above...
 
-- name: "Laurie Baker" # Add faculty name here.
-  image: /assets/images/lLaurie Baker.jpg  # Add faculty image to assets/images/ and update here.
-  bio: "Laurie is an Assistant Professor in Mathematics at Bates College in Maine. She is a disease ecologist and marine biologist by training with a background in data 
-  science and spatial statistics. The core of her research focuses on spatial and temporal patterns in human and biological systems including disease spread, 
-  animal movement, and fisheries management. Her educational work and teaching increasingly focuses on community-engaged and open-access approaches to data science. 
-  Laurie’s recent collaborative work, Mapping Ocean Stories, combines oral histories and spatial data to understand how coastal communities adapt to change. 
-  In the classroom, Laurie designs and teaches courses in data science and statistics that center ethical inquiry, inclusive methodology, and the pursuit of positive 
-  social impact. A cornerstone of her teaching is a series of Community-Engaged Data Science courses in which students collaborate with local organizations to co-design 
-  and carry out data science projects that address locally relevant issues. These courses emphasize building equitable partnerships, understanding community needs, 
-  and producing work that is both actionable and sustainable beyond the classroom. Students learn not only technical skills in data wrangling, visualization, and 
-  modeling, but also project management, communication, and ethical decision-making." # Add faculty bio here.
+
+- name: "Rodrigo Bermudez Schettino" # Add faculty name here.
+  image: /assets/images/rodrigo-bermudez-schettino - Rodrigo Bermudez Schettino.jpg  # Add faculty image to assets/images/ and update here.
+  bio: "Rodrigo is a Predoctoral Fellow at the Center for Humans & Machines within the Max Planck Institute for Human Development. 
+  He has a Computer Science background and has held technical leadership roles in academia and industry, focusing on Software and Platform Engineering. 
+  His research lies at the intersection of Computer Science and Cognitive Psychology; combining behavioral experiments and machines to address the question that 
+  Can machines meaningfully alleviate psychological distress?" # Add faculty bio here.
 
 
