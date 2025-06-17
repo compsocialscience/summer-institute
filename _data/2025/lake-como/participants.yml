@@ -11,9 +11,8 @@
 
 - name: "Michelle Bobek"
   image: /assets/images/Michelle_Bobek.jpg
-  bio: |
-    Michelle Bobek is a Ph.D. student at the Chair for Data Science and Digitization at the University of Giessen. Her research interests include social media 
+  bio: " Michelle Bobek is a Ph.D. student at the Chair for Data Science and Digitization at the University of Giessen. Her research interests include social media 
     analytics, online misinformation, natural language processing, and causal inference. She applies causal inference methods to large-scale social media data to 
     study the spread of misinformation, which poses a central challenge in the digital age. More specifically, she examines how the wisdom of crowds can be harnessed 
-    to mitigate online misinformation, with a focus on community-based fact-checking interventions.
+    to mitigate online misinformation, with a focus on community-based fact-checking interventions."
   # website: https://www.google.com
