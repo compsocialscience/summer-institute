@@ -43,6 +43,16 @@
     to mitigate online misinformation, with a focus on community-based fact-checking interventions."
 
 
+- name: "Natalia Cabrera-Morales" # Add faculty name here.
+  image: /assets/images/Natalia Cabrera-Morales.jpg  # Add faculty image to assets/images/ and update here.
+  bio: "I am a PhD researcher on Criminology at the University of Cambridge, lawyer, master's in Sociology and MPhil in Criminological Research. 
+  I am currently investigating police misconduct but I am more broadly interested in criminal justice institutions, collective action and responsibility attribution. 
+  I am thrilled by the interplay between structural and individual factors, especially in understanding misconduct in law-abiding institutions systemically. 
+  These interests are driven by a general curiosity about obedience-disobedience and order and control in society. 
+  I am passionate about both quantitative and qualitative methodologies. I master linear, logistic, and poisson family models and I am currently learning multilevel 
+  models. I also programme Large Language Models operations. 
+  A library I created on the last can be found on my github https://github.com/NcabreraM/pasqui/tree/master." # Add faculty bio here.
+
 
 
 
