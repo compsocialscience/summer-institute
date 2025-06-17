@@ -31,25 +31,11 @@
 
 - name: "Catherine Matang’u." # Replace with participant name.
   image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " Catherine Matang’u is an educator, data analyst, and technical trainer in TVET where she provides
-leadership, spearheads curriculum development, and promotes research and innovation. With
-experience in data analysis, education and public sector systems, she is committed to harnessing the
-power of data to transform institutions and empower learners.
-Her work strongly aligns with the mission and vision of the Summer Institute for Computational
-Social Science (SICSS), which seeks to foster collaborative, interdisciplinary research using
-computational methods to address pressing societal issues. Her research focuses on two key areas
-* Using computational methods to optimize resource allocation and improve education
-quality in public TVET institutions, ensuring equity and efficiency in service delivery.
-* Applying data science and computational social science approaches to inform policy design,
-monitor impact, and enhance transparency within public sector institutions.
-Catherine is currently pursuing a Master’s in Data Science at the Open University of Kenya and is
-focused on bridging academic knowledge with real-world application, particularly in the public
-education sector. She also holds a PGDE from KCA University and BSc in Information Science from
-Moi University.
-Through her work, Catherine champions the use of evidence-based decision-making and believes in
-the transformative potential of data-informed policies. Her interest in SICSS stems from a desire to
-collaborate with like-minded scholars who are advancing the frontier of computational social science
-to address local and global development challenges. "  # Add participant bio here.
+  bio: " Catherine Matang’u is an educator, data analyst, and technical trainer with a deep commitment to transforming public education through data-driven strategies. Working within the Technical and Vocational Education and Training (TVET) sector, she provides leadership in curriculum development, promotes research and innovation, and fosters institutional change through evidence-based approaches. With hands-on experience in both data analysis and the dynamics of public sector systems, Catherine is passionate about leveraging the power of data to enhance institutional performance and empower learners.
+Her professional and research interests closely align with the mission of the Summer Institute in Computational Social Science (SICSS), which promotes interdisciplinary collaboration and the use of computational methods to tackle complex social issues. Catherine’s current research focuses on two critical areas; first, the application of computational tools to optimize resource allocation and improve the quality of education in public TVET institutions, with a strong emphasis on equity and efficiency; and second, the use of data science and computational social science methodologies to inform public policy, monitor outcomes, and foster transparency within government systems.
+Catherine is currently pursuing a Master’s degree in Data Science at the Open University of Kenya, where she is focused on bridging academic theory with real-world application in the public education sector. She also holds a Postgraduate Diploma in Education from KCA University and a Bachelor of Science in Information Science from Moi University.
+Guided by a firm belief in the transformative potential of data-informed decision-making, Catherine advocates for the integration of analytics into everyday institutional practice. Her interest in SICSS is driven by a desire to collaborate with a global community of scholars who are pushing the boundaries of computational social science to address both local and international development challenges.
+ "  # Add participant bio here.
   website: https://www.google.com  # Link participant website here.
 
   - name: "Participant info coming soon." # Replace with participant name.
