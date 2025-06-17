@@ -27,5 +27,7 @@ SICSS-Lake Como is hosted at Villa del Grumello, a historical building on the sh
 
 Shared-room accommodation is provided for participants at Hotel Engadina (Viale Fratelli Rosselli, 22). This is located 10 minutes away from Villa del Grumello (Via Per Cernobbio, 11).
 
+![Alt text](/assets/images/Villa_del_Grumello.png)
+
 
 [//]: # (ORGANIZERS: feel free to add a link to your application materials or your SICSS apply page above.)
