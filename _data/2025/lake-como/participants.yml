@@ -8,11 +8,14 @@
 # Add more participants with the same format as above...
 
 
-- name: "Rodrigo Bermudez Schettino" # Add faculty name here.
-  image: /assets/images/rodrigo-bermudez-schettino - Rodrigo Bermudez Schettino.jpg  # Add faculty image to assets/images/ and update here.
-  bio: "Rodrigo is a Predoctoral Fellow at the Center for Humans & Machines within the Max Planck Institute for Human Development. 
-  He has a Computer Science background and has held technical leadership roles in academia and industry, focusing on Software and Platform Engineering. 
-  His research lies at the intersection of Computer Science and Cognitive Psychology; combining behavioral experiments and machines to address the question that 
-  Can machines meaningfully alleviate psychological distress?" # Add faculty bio here.
+
+- name: "Michelle Bobek" # Add faculty name here.
+  image: /assets/images/Michelle Bobek.JPG  # Add faculty image to assets/images/ and update here.
+  bio: "Michelle Bobek is a Ph.D. student at the Chair for Data Science and Digitization at the University of Giessen. Her research interests include social media 
+  analytics, online misinformation, natural language processing, and causal inference. She applies causal inference methods to large-scale social media data to 
+  study the spread of misinformation, which poses a central challenge in the digital age. More specifically, she examines how the wisdom of crowds can be harnessed 
+  to mitigate online misinformation, with a focus on community-based fact-checking interventions." # Add faculty bio here.
+
+
 
 
