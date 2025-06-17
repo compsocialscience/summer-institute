@@ -9,12 +9,12 @@
 
 
 
-- name: "Michelle Bobek"
-  image: /assets/images/Michelle_Bobek.jpg  # Also consider renaming the image to avoid space issues.
-  bio: "Michelle Bobek is a Ph.D. student at the Chair for Data Science and Digitization at the University of Giessen. Her research interests include social media 
-    analytics, online misinformation, natural language processing, and causal inference. She applies causal inference methods to large-scale social media data to 
-    study the spread of misinformation, which poses a central challenge in the digital age. More specifically, she examines how the wisdom of crowds can be harnessed 
-    to mitigate online misinformation, with a focus on community-based fact-checking interventions."
+- name: "Allison Garetto" # Add faculty name here.
+  image: /assets/images/Allison Garetto.jpeg  # Add faculty image to assets/images/ and update here.
+  bio: "Allison Garetto is a PhD student in the Department of Communication at the University of Illinois Chicago. Her research examines emerging health issues and 
+  how technology and media platforms shape health information and communication practices. She holds a bachelor's degree in communication with a minor in 
+  psychology from the University of Illinois Urbana-Champaign and a master's degree in communication from Saint Louis University." # Add faculty bio here.
+  
   # website: https://www.google.com
 
   # website: https://www.google.com
