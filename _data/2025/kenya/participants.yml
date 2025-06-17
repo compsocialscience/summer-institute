@@ -23,7 +23,36 @@
   bio: " Faith Ngina Mutinda is an educator and emerging data scientist with a strong academic foundation in biology, mathematics, and education. She holds a Bachelor of Science degree in Biology and Mathematics with Education from Moi University, where she graduated with First Class Honors, and she is currently pursuing a Master of Science in Data Science at the Open University of Kenya. Faith brings over five years of professional teaching experience in both the 8-4-4 and Competency-Based Curriculum (CBC) systems in Kenya. She currently serves as a Mathematics and Integrated Science teacher at Nguluni Junior School in Makueni County. Her past roles include teaching Biology and Mathematics at St. Mary’s High School in Nairobi and serving as Deputy Head Teacher at St. Peter’s High School, where she demonstrated leadership in curriculum delivery and academic coordination. Her passion lies at the intersection of education, science, and technology. Faith is particularly interested in leveraging computational methods to analyze and solve social challenges especially those related to health, policy and education equity, access, and performance outcomes within African contexts.. She believes that data-driven insights can significantly enhance decision-making in educational policy and classroom practice. Faith is excited to participate in the 2025 Summer Institute in Computational Social Science (SICSS-ACDAM) to build her technical expertise, collaborate with a network of interdisciplinary researchers, and contribute to impactful group projects. With her unique combination of teaching experience and analytical training, she looks forward to applying computational tools to drive meaningful social change, particularly in African education systems."  # Add participant bio here.
   website:  # Link participant website here.  
   
-- name: "Participant info coming soon." # Replace with participant name.
+- name: "Dr. Mouhamadou Djima BARANON, Ph.D." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " Dr. Mouhamadou Djima BARANON is a Beninese researcher and practitioner with a strong background in computational social science, applied statistics, and Monitoring, Evaluation, Accountability, and Learning (MEAL). He holds a Ph.D. in Mathematics (Statistics Option), awarded in 2025 by the Pan African University Institute for Basic Sciences, Technology and Innovation (PAUSTI) and the Jomo Kenyatta University of Agriculture and Technology (JKUAT), Kenya. His mainly research focuses on modeling genetic disorders and infectious diseases. He also holds a Master of Science and a Bachelor's degree in Applied Statistics from the École Nationale de la Statistique, de la Planification et de la Démographie (ENSPD) at the University of Parakou, Benin. Dr. Baranon currently serves as MEAL Manager for Search for Common Ground in Burkina Faso and Benin, where he leads the design and implementation of evidence-based learning, accountability systems, and adaptive strategies in peacebuilding and development programs. He had the honor of being selected to join the Summer Institute in Computational Social Science (SICSS) Kenya 2025, following a highly competitive selection process, affirming his growing influence in advancing computational approaches to social science in Africa. His areas of expertise span statistical modeling, health systems logistics, vulnerability indexing, and social data analytics. As of June 2025, he has authored 16 peer-reviewed scientific publications in high-impact international journals. His interdisciplinary work bridges public health, conflict prevention, and development data systems, with a strong commitment to applying research to real-world challenges. Fluent in French and English, Dr. Baranon is passionate about mentoring early-career professionals, advancing statistical literacy, and fostering data-driven decision-making and policy influence across the African continent. "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+
+- name: "Catherine Matang’u." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " Catherine Matang’u is an educator, data analyst, and technical trainer in TVET where she provides
+leadership, spearheads curriculum development, and promotes research and innovation. With
+experience in data analysis, education and public sector systems, she is committed to harnessing the
+power of data to transform institutions and empower learners.
+Her work strongly aligns with the mission and vision of the Summer Institute for Computational
+Social Science (SICSS), which seeks to foster collaborative, interdisciplinary research using
+computational methods to address pressing societal issues. Her research focuses on two key areas
+* Using computational methods to optimize resource allocation and improve education
+quality in public TVET institutions, ensuring equity and efficiency in service delivery.
+* Applying data science and computational social science approaches to inform policy design,
+monitor impact, and enhance transparency within public sector institutions.
+Catherine is currently pursuing a Master’s in Data Science at the Open University of Kenya and is
+focused on bridging academic knowledge with real-world application, particularly in the public
+education sector. She also holds a PGDE from KCA University and BSc in Information Science from
+Moi University.
+Through her work, Catherine champions the use of evidence-based decision-making and believes in
+the transformative potential of data-informed policies. Her interest in SICSS stems from a desire to
+collaborate with like-minded scholars who are advancing the frontier of computational social science
+to address local and global development challenges. "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
   image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
   bio: " ... "  # Add participant bio here.
   website: https://www.google.com  # Link participant website here.
