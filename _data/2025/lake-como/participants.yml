@@ -160,7 +160,7 @@
 
 
 - name: "Albert Wendsjö" # Add faculty name here.
-  image: /assets/images/Albert Wendsjö.jpg  # Add faculty image to assets/images/ and update here.
+  image: /assets/images/Albert Wendsjo_LakeComo.jpg  # Add faculty image to assets/images/ and update here.
   bio: "Albert Wendsjö is a PhD Student in Political Science at the University of Gothenburg, currently visiting MilaNLP at Bocconi University. His research 
   interests include political behavior, political communication, and computational social science. In his dissertation, he studies affective polarization and 
   political representation, using data from social media, parliaments and survey experiments." # Add faculty bio here.
