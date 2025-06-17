@@ -8,13 +8,15 @@
 # Add more participants with the same format as above...
 
 
+- name: Allison Garetto
+  image: /assets/images/Allison Garetto.jpeg
+  bio: Allison Garetto is a PhD student in the Department of Communication at the
+    University of Illinois Chicago. Her research examines emerging health issues
+    and how technology and media platforms shape health information and
+    communication practices. She holds a bachelor's degree in communication with
+    a minor in psychology from the University of Illinois Urbana-Champaign and a
+    master's degree in communication from Saint Louis University.
 
-- name: "Allison Garetto" # Add faculty name here.
-  image: /assets/images/Allison Garetto.jpeg  # Add faculty image to assets/images/ and update here.
-  bio: "Allison Garetto is a PhD student in the Department of Communication at the University of Illinois Chicago. Her research examines emerging health issues and 
-  how technology and media platforms shape health information and communication practices. She holds a bachelor's degree in communication with a minor in 
-  psychology from the University of Illinois Urbana-Champaign and a master's degree in communication from Saint Louis University." # Add faculty bio here.
-  
   # website: https://www.google.com
 
   # website: https://www.google.com
