@@ -30,7 +30,7 @@ Shared-room accommodation is provided for participants at Hotel Engadina (Viale 
 
 
 <p align="center">
-  <img src="/assets/images/Villa_del_Grumello.png" alt="Alt text" width="600"/>
+  <img src="/assets/images/Villa_del_Grumello.png" alt="Alt text" width="400"/>
 </p>
 
 
