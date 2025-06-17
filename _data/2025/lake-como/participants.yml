@@ -1,6 +1,173 @@
-- name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
-
 # Add more participants with the same format as above...
+
+
+- name: "Laurie Baker" # Add faculty name here.
+  image: /assets/images/lLaurie Baker.jpg  # Add faculty image to assets/images/ and update here.
+  bio: "Laurie is an Assistant Professor in Mathematics at Bates College in Maine. She is a disease ecologist and marine biologist by training with a background in data 
+  science and spatial statistics. The core of her research focuses on spatial and temporal patterns in human and biological systems including disease spread, 
+  animal movement, and fisheries management. Her educational work and teaching increasingly focuses on community-engaged and open-access approaches to data science. 
+  Laurie’s recent collaborative work, Mapping Ocean Stories, combines oral histories and spatial data to understand how coastal communities adapt to change. 
+  In the classroom, Laurie designs and teaches courses in data science and statistics that center ethical inquiry, inclusive methodology, and the pursuit of positive 
+  social impact. A cornerstone of her teaching is a series of Community-Engaged Data Science courses in which students collaborate with local organizations to co-design 
+  and carry out data science projects that address locally relevant issues. These courses emphasize building equitable partnerships, understanding community needs, 
+  and producing work that is both actionable and sustainable beyond the classroom. Students learn not only technical skills in data wrangling, visualization, and 
+  modeling, but also project management, communication, and ethical decision-making." # Add faculty bio here.
+
+
+- name: "Rodrigo Bermudez Schettino" # Add faculty name here.
+  image: /assets/images/rodrigo-bermudez-schettino - Rodrigo Bermudez Schettino.jpg  # Add faculty image to assets/images/ and update here.
+  bio: "Rodrigo is a Predoctoral Fellow at the Center for Humans & Machines within the Max Planck Institute for Human Development. 
+  He has a Computer Science background and has held technical leadership roles in academia and industry, focusing on Software and Platform Engineering. 
+  His research lies at the intersection of Computer Science and Cognitive Psychology; combining behavioral experiments and machines to address the question: 
+  Can machines meaningfully alleviate psychological distress?" # Add faculty bio here.
+
+
+- name: "Michelle Bobek" # Add faculty name here.
+  image: /assets/images/Michelle Bobek.JPG  # Add faculty image to assets/images/ and update here.
+  bio: "Michelle Bobek is a Ph.D. student at the Chair for Data Science and Digitization at the University of Giessen. Her research interests include social media 
+  analytics, online misinformation, natural language processing, and causal inference. She applies causal inference methods to large-scale social media data to 
+  study the spread of misinformation, which poses a central challenge in the digital age. More specifically, she examines how the wisdom of crowds can be harnessed 
+  to mitigate online misinformation, with a focus on community-based fact-checking interventions." # Add faculty bio here.
+
+
+
+- name: "Natalia Cabrera-Morales" # Add faculty name here.
+  image: /assets/images/Natalia Cabrera-Morales.jpg  # Add faculty image to assets/images/ and update here.
+  bio: ""I am a PhD researcher on Criminology at the University of Cambridge, lawyer, master's in Sociology and MPhil in Criminological Research. 
+  I am currently investigating police misconduct but I am more broadly interested in criminal justice institutions: collective action and responsibility attribution. 
+  I am thrilled by the interplay between structural and individual factors, especially in understanding misconduct in law-abiding institutions systemically. 
+  These interests are driven by a general curiosity about obedience-disobedience and order and control in society. 
+  I am passionate about both quantitative and qualitative methodologies. I master linear, logistic, and poisson family models and I am currently learning multilevel 
+  models. I also programme Large Language Models operations. 
+  A library I created on the last can be found on my github: https://github.com/NcabreraM/pasqui/tree/master. "" # Add faculty bio here.
+
+
+
+- name: "Allison Garetto" # Add faculty name here.
+  image: /assets/images/Allison Garetto.jpeg  # Add faculty image to assets/images/ and update here.
+  bio: "Allison Garetto is a PhD student in the Department of Communication at the University of Illinois Chicago. Her research examines emerging health issues and 
+  how technology and media platforms shape health information and communication practices. She holds a bachelor's degree in communication with a minor in 
+  psychology from the University of Illinois Urbana-Champaign and a master's degree in communication from Saint Louis University." # Add faculty bio here.
+
+
+
+- name: "Motlatso Godongwana" # Add faculty name here.
+  image: /assets/images/Motlatso Godongwana.png  # Add faculty image to assets/images/ and update here.
+  bio: "Dr. Motlatso Godongwana is a Senior Scientist in the Burden of Disease Research Unit at the South African Medical Research Council. She holds a PhD in Demography 
+  and Population Studies from the University of the Witwatersrand. Her research expertise lies in the application of both quantitative and qualitative methodologies, 
+  with a strong focus on HIV and non-communicable diseases (NCDs). She has developed advanced skills in the analysis of longitudinal data and has a growing research 
+  portfolio in chronic comorbidities, disease burden, and health systems strengthening. Her current work centers on strengthening South Africa’s Civil Registration and 
+  Vital Statistics (CRVS) system where she serves as a Co-Investigator on a national initiative aimed at developing a Monitoring and Evaluation (M&E) Framework for 
+  mortality surveillance. She is a recipient of the Mail & Guardian Top 200 Young South African Award and an Executive Member of Convocation at the University of the 
+  Witwatersrand." # Add faculty bio here.
+
+
+
+- name: "Katherine (Katie) Herder" # Add faculty name here.
+  image: /assets/images/Katherine Elise Herder.JPG  # Add faculty image to assets/images/ and update here.
+  bio: "Katherine (Katie) Herder, MS, MPH, is a PhD student in Biostatistics at the University of Arizona’s Mel and Enid Zuckerman College of Public Health. 
+  She works as a graduate research associate at the university’s Comprehensive Center for Pain and Addiction, where she conducts statistical analyses of nationally 
+  representative survey data to examine intersections between chronic pain, mental health, and substance use. Katie also serves as an Associate Biostatistician Consultant 
+  for a biopharmaceutical company, contributing to clinical trial analyses and scholarly publications. She holds both a Master of Science in Biostatistics and a Master 
+  of Public Health from the University of Arizona, and a Bachelor’s degree in Psychology from the University of California, Santa Cruz. Prior to graduate school, 
+  she served as a U.S. Peace Corps Volunteer in the Dominican Republic. Her dissertation research focuses on modeling dose-response relationships within network 
+  meta-analyses to support comparative effectiveness in clinical decision-making." # Add faculty bio here.
+
+
+
+  
+
+- name: "Amilcar Matos-Moreno" # Add faculty name here.
+  image: /assets/images/Amilcar Matos Moreno.jpg  # Add faculty image to assets/images/ and update here.
+  bio: "Dr. Amílcar Matos-Moreno is a Puerto Rican social epidemiologist and demographer serving as an Assistant Research Professor at Pennsylvania State University and 
+  Carlos Albizu University in Puerto Rico. His research focuses on the effects of international migration on kinship networks, social support, and health among older 
+  adults in Puerto Rico, Mexico, Costa Rica, and the United States. He is the Principal Investigator of a National Institute on Aging K01 award examining transnational 
+  kinlessness and aging using demographic simulations and network models." # Add faculty bio here.
+
+
+
+- name: "Cristiane Melchior" # Add faculty name here.
+  image: /assets/images/Cristiane Melchior.jpg  # Add faculty image to assets/images/ and update here.
+  bio: "Cristiane Melchior is a post-doctoral researcher in Social Sciences at the School of Engineering Sciences at LUT University, Finland. Her research 
+  interests revolve around data science applied to social subjects, especially fake news, propaganda, disinformation topics, and health. " # Add faculty bio here.
+
+
+
+- name: "Emma Miller" # Add faculty name here.
+  image: /assets/images/Emma Miller.jpeg  # Add faculty image to assets/images/ and update here.
+  bio: "Emma Miller is a PhD student in Psychology at Columbia University, where she is also a Graduate Fellow at Incite Institute. Her research examines the emergence 
+  of shared reality in conversation and the development of microcultures in close relationships. She draws from an interdisciplinary set of approaches across social 
+  psychology, relational sociology, and computational social science. " # Add faculty bio here.
+
+
+
+- name: "Riccardo Omenti" # Add faculty name here.
+  image: /assets/images/ Riccardo Omenti.png  # Add faculty image to assets/images/ and update here.
+  bio: "Riccardo Omenti is a Research Fellow in Demography at the University of Bologna. His research interests include statistical demography, computational social 
+  science, fertility and gender inequality. A core aspect of his research revolves around the development of statistical methods for the estimation of demographic 
+  indicators in data-sparse settings. More recently, his research interests have expanded to include the demographic implications of emerging Artificial Intelligence 
+  technologies, with a specific emphasis on the European context." # Add faculty bio here.
+
+
+
+
+- name: "Tanishta Rajesh" # Add faculty name here.
+  image: /assets/images/Tanishta Rajesh.jpg  # Add faculty image to assets/images/ and update here.
+  bio: "Tanishta is a doctoral student in Public Health Sciences at Stockholm University. Her research interests include examining health inequalities using causal 
+  inference and applied machine learning methods. Her current research focuses on families involved with Child Welfare Services in Sweden. Drawing on national register 
+  data and a life course approach, she investigates how parents’ social and psychological conditions are linked to the placement of their children in out-of-home care 
+  (OHC). Her goal is to understand how disadvantage is transmitted across generations and how it shapes long-term health and social outcomes." # Add faculty bio here.
+
+
+- name: "Vera Sosnovik " # Add faculty name here.
+  image: /assets/images/Vera Sosnovik.jpg  # Add faculty image to assets/images/ and update here.
+  bio: "I am a postdoctoral researcher, focusing on the analysis of the YouTube news channel ecosystem. I earned my Ph.D. from Université Grenoble Alpes. 
+  My doctoral research centered on the detection and analysis of online sponsored political content. My research interests lie at the intersection of AI and 
+  society, with a particular emphasis on the societal impact of algorithmic systems." # Add faculty bio here.
+
+
+
+- name: "Tara Srirangarajan" # Add faculty name here.
+  image: /assets/images/Tara Srirangarajan.png  # Add faculty image to assets/images/ and update here.
+  bio: "Tara Srirangarajan is a PhD candidate and NSF Graduate Research Fellow in the Department of Psychology at Stanford University. 
+  Her research interests lie at the intersection of decision science and consumer behavior in the context of emerging technology. 
+  More specifically, she uses a range of experimental methods including virtual reality and functional magnetic resonance imaging (fMRI) to explore 
+  how emotions drive decision-making and affect market-level outcomes. She holds a B.S. in Behavioral Neuroscience from Northeastern University." # Add faculty bio here.
+
+
+
+- name: "Caroline Violot" # Add faculty name here.
+  image: /assets/images/ C Violot.jpeg  # Add faculty image to assets/images/ and update here.
+  bio: "I'm a 28 years old PhD student at the university of Lausanne, where I study YouTube, commenting behavior and political communication. 
+  I come from France but lived in Switzerland for the past 10 years, where I've done my bachelor and master. I like reading, eating good food, 
+  talking about politics, and taking care of plants and people." # Add faculty bio here.
+
+
+
+
+- name: "Albert Wendsjö" # Add faculty name here.
+  image: /assets/images/Albert Wendsjö.jpg  # Add faculty image to assets/images/ and update here.
+  bio: "Albert Wendsjö is a PhD Student in Political Science at the University of Gothenburg, currently visiting MilaNLP at Bocconi University. His research 
+  interests include political behavior, political communication, and computational social science. In his dissertation, he studies affective polarization and 
+  political representation, using data from social media, parliaments and survey experiments." # Add faculty bio here.
+
+
+
+
+- name: "James Zhu" # Add faculty name here.
+  image: /assets/images/James Zhu.jpg  # Add faculty image to assets/images/ and update here.
+  bio: "James Zhu is a postdoctoral researcher at the French National Centre for Scientific Research (CNRS), where he works at the intersection of robotics, social 
+  science, and public policy. He holds a PhD in Mechanical Engineering from Carnegie Mellon University. His research focuses on designing robust, socially informed 
+  robotic systems for deployment in complex public environments, such as city sidewalks and urban transit spaces. His work combines technical advances in motion 
+  planning and control with interdisciplinary approaches from law and the social sciences, aiming to ensure that robotics technologies are not only functionally capable 
+  but also equitable, accessible, and publicly accountable." # Add faculty bio here.
+
+
+- name: "Lara Zwittlinger" # Add faculty name here.
+  image: /assets/images/Lara Zwittlinger.jpg  # Add faculty image to assets/images/ and update here.
+  bio: "Lara Zwittlinger is a doctoral candidate in comparative politics at the University of Salzburg. Her bachelor’s thesis titled “The gender equality paradox – 
+  The rigidity of implicit gender stereotypes and their impact on women’s representation in STEM” dealt with the connection between cultural value orientations, 
+  the societal dispersion of gender stereotypes, and horizontal gender segregation in tertiary education and the labor market. Her state prize awarded master’s thesis 
+  focused on the impact of the COVID-19 pandemic on political attitudes and party preferences. In her dissertation, she explores the causes and political consequences 
+  of the so-called ‘cultural backlash’." # Add faculty bio here.
+
