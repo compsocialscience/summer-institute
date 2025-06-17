@@ -9,7 +9,7 @@ image: /assets/images/LAGO-COMO.jpg
 
 SISCS-Lake Como brings together graduate students, postdoctoral researchers, and faculty interested in computational social science at Villa del Grumello, hosted by the Lake Como School of Advanced Studies. SICSS-Lake Como is organized by faculty at Bocconi University, Università Statale di Milano and Bologna University. No fees are requested to participate. All the lectures will be available on streaming and teaching materials are shared openly.
 
-The Institute is funded by the Carlo F. Dondena Research Center on Social Dynamics and Public Policy; the Bocconi Institute for Data Science and Analytics; the Department of Social and Political Science at Bocconi University. SICSS-Lake Como is in part supported by grants from the Summer Institute for Computational Social Science, sponsored by the Russell Sage Foundation, the Alfred P. Sloan Foundation and the Templeton World Foundation. Financial support from the ERC projects “” (Bologna); “” (Statale) is also acknowledged.
+The Institute is funded by the Carlo F. Dondena Research Center on Social Dynamics and Public Policy; the Bocconi Institute for Data Science and Analytics; the Department of Social and Political Science at Bocconi University. SICSS-Lake Como is in part supported by grants from the Summer Institute for Computational Social Science, sponsored by the Russell Sage Foundation, the Alfred P. Sloan Foundation and the Templeton World Foundation. The conference is co-funded by GENPOP, a European Research Council Consolidator grant based at the University of Bologna (GA 865356).
 
 
 
