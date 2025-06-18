@@ -102,3 +102,68 @@
   image: /assets/images/zancanaro.png  # Add participant image to assets/images/ and update here.
   bio: "Paola Zancanaro is an adjunct professor of English communication and member of the scientific committee at UniDolomiti. She holds a Master’s degree in Applied Linguistics from Università di Bologna, with a focus on English, Arabic, and Portuguese, and is currently completing a second Master’s in Natural Language Processing at Université Grenoble Alpes. Her research explores the intersection of language, computational methods, and geospatial analysis, with particular interests in GIS, information design, and how spatial factors shape access to knowledge, resources, and opportunities. Motivated by a commitment to social equity, she returned to university to specialize in data analysis and visualization with the goal of supporting NGOs and social actors in improving access to healthcare, financial literacy, gender equity initiatives, and economic empowerment programs. Inspired by the work of Federica Fragapane, she aims to contribute to the development of inclusive, ethically grounded approaches to data storytelling and spatial analysis."  # Add participant bio here.
   # website: https://www.google.com  # Link participant website here.
+
+- name: "Lena Dodson" # Replace with participant name.
+  image: /assets/images/dodson.png  # Add participant image to assets/images/ and update here.
+  bio: "Lena Dodson is a policy analyst at the Audiovisual and Digital Communication Regulatory Authority (Arcom). She works in the Public Protection, Pluralism, and Social Cohesion Department, specializing in women's rights, anti-discrimination, and the regulation of hate speech."  # Add participant bio here.
+  # website: https://www.google.com  # Link participant website here.
+  
+- name: "Paul Guille-Escuret" # Replace with participant name.
+  image: /assets/images/guille-escuret.png  # Add participant image to assets/images/ and update here.
+  bio: "Paul Guille-Escuret is a postdoctoral researcher at the Institut Pasteur. Working at the intersection of the sociology of science and the sociology of social movements, he uses mixed methods to study citizen mobilizations around vaccines. More recently, his research has focused on how healthcare workers construct and express their representations of vaccination."  # Add participant bio here.
+  # website: https://www.google.com  # Link participant website here.
+  
+- name: "Soroya McFarlane" # Replace with participant name.
+  image: /assets/images/mcfarlane.png  # Add participant image to assets/images/ and update here.
+  bio: "Soroya Julian McFarlane (Ph.D., University of Miami) is an Assistant Professor in the Department of Communication Studies at the University of Georgia. Her research focuses on designing and evaluating communication interventions that address health disparities at the community level. Dr. McFarlane’s research agenda is driven by understanding how culture influences health, and how communication interventions that translate science for diverse populations might be effective in reducing health disparities. Her recent research has been on women’s sexual and reproductive health, with the aim of (1) expanding theoretical understanding of culturally-targeted messaging and interventions, and  (2) understanding the impact of media, innovation and participatory approaches. She also leads and collaborates with US-based researchers in the area of clinical trial communication, with a special focus on vulnerable and minority populations. "  # Add participant bio here.
+  # website: https://www.google.com  # Link participant website here.
+  
+- name: "Celia Tsui" # Replace with participant name.
+  image: /assets/images/tsui.png  # Add participant image to assets/images/ and update here.
+  bio: "Celia is a Lecturer in Digital and Creative Media at the School of Media and Communication, University of Leeds. Her current research explores diasporic media and influencers, with a focus on the shaping of political opinions among migrant communities. Before entering academia, Celia worked as a journalist in Hong Kong."  # Add participant bio here.
+  # website: https://www.google.com  # Link participant website here.
+  
+- name: "Rémi Passerotti" # Replace with participant name.
+  image: /assets/images/passerotti.png  # Add participant image to assets/images/ and update here.
+  bio: "Rémi Passerotti is a doctoral student at Sciences Po Grenoble - Université Grenoble Alpes. For his PhD thesis, he is working on electoral promises and party manifestos with CSS methods: he is studying to what extent the presidential candidates' pledges can change between their declaration of candidacy and the day of the election. In addition, he works on social groups and the way they are framed in government-commissioned opinion polls. Prior to graduate school, he earned a master's degree in political communication at Sciences Po Grenoble - UGA, and a master's degree in research in marketing and management at Université Paris Dauphine - PSL."  # Add participant bio here.
+  # website: https://www.google.com  # Link participant website here.
+
+- name: "Vitor Barros" # Replace with participant name.
+  image: /assets/images/barros.png  # Add participant image to assets/images/ and update here.
+  bio: "Vitor Barros is a doctoral candidate in Sociology at the University of Bonn (Germany). He works at the intersection of historical sociology and social history and is interested in LLMs and computational social science as tools for reimagining archival and sociohistorical research."  # Add participant bio here.
+  # website: https://www.google.com  # Link participant website here.
+
+- name: "Claudia Buder" # Replace with participant name.
+  image: /assets/images/buder.png  # Add participant image to assets/images/ and update here.
+  bio: "Claudia Buder is a PhD candidate in political science at Paris 1 Panthéon-Sorbonne. In her PhD research project she focuses on forms of critique and resistance to digital technology. Her research interests cover political theory, digitalization, and social media studies. "  # Add participant bio here.
+  # website: https://www.google.com  # Link participant website here.
+
+- name: "Victor Planche" # Replace with participant name.
+  image: /assets/images/planche.png  # Add participant image to assets/images/ and update here.
+  bio: "Victor Planche is a PhD student in political science at the Avignon University (France). As part of his thesis, he is studying the writing of political biographies on Wikipedia. For this research, he's using mixed digital methods, mobilizing both digital tools and traditional social science methods. As part of his Master's thesis, he studied the use of digital tools in social movements."  # Add participant bio here.
+  # website: https://www.google.com  # Link participant website here.
+
+- name: "Quentin Gilliotte" # Replace with participant name.
+  image: /assets/images/gilliotte.png  # Add participant image to assets/images/ and update here.
+  bio: "Quentin Gilliotte is Junior Professor at Université Paris-Panthéon-Assas. His research projects focus on content production on digital platforms, particularly YouTube. He approaches this phenomenon from multiple perspectives: the professional organization of platform-based work, the social trajectories of content creators, the editorial formats they adopt, and their strategies for engaging with audiences. His investigations span a range of thematic areas, from the online circulation of knowledge — through scientific, media-related, or political popularization videos — to the contemporary reshaping of esoteric practices, such as tarot reading conducted via digital platforms."  # Add participant bio here.
+  # website: https://www.google.com  # Link participant website here.
+
+- name: "Nicolò Pennucci" # Replace with participant name.
+  image: /assets/images/pennucci.png  # Add participant image to assets/images/ and update here.
+  bio: "Nicolò Pennucci is a Postdoctoral Research Fellow at the LUISS University in Rome where he works in the POSTGEN Project. He works in the social media data team by building a classifier for political content on social media. At the same time, he works as consultant in two projects at the Scuola Normale Superiore where he performs social media data analysis. He holds a PhD in Political Science and Sociology from the Scuola Normale Superiore with a dissertation on the civil society reaction to right-wing populism in power in Italy, the United Kingdom and the United States."  # Add participant bio here.
+  # website: https://www.google.com  # Link participant website here.
+
+- name: "Noel Löcse" # Replace with participant name.
+  image: /assets/images/locse.png  # Add participant image to assets/images/ and update here.
+  bio: "I’m Noel, a PhD researcher at the University of Lausanne. I mainly specialise in the EU’s digital infrastructure policies and, more broadly, industrial policy. I’m currently trying to understand how to analyse policy narratives across large text corpora, and also to identify policy instruments, objectives, and problems. Prior to academia, I worked as a policy and communications advisor in Leipzig and Brussels."  # Add participant bio here.
+  # website: https://www.google.com  # Link participant website here.
+
+- name: "Mehdi Malefikar" # Replace with participant name.
+  image: /assets/images/malefikar.png  # Add participant image to assets/images/ and update here.
+  bio: "I’m currently a PhD student at emlyon business school and Lyon 3, focusing on entrepreneurial agency through qualitative approaches. Alongside this, I’m exploring computational approaches to analyze motivations, communications, and category emergence in entrepreneurial contexts. My background is in mechanical engineering and I hold an MBA, with some experience in algorithms and coding."  # Add participant bio here.
+  # website: https://www.google.com  # Link participant website here.
+
+- name: "Mathilde Abel" # Replace with participant name.
+  image: /assets/images/abel.png  # Add participant image to assets/images/ and update here.
+  bio: "Mathilde Abel is a postdoctoral researcher at CREST–ENSAE, Institut Polytechnique de Paris. Her research investigates platform labor, algorithmic governance, and cognitive asymmetries in digital capitalism. She combines qualitative fieldwork, computational methods, and NLP to analyze worker-generated data. She holds a PhD in Economics from Sorbonne Nouvelle University and contributes to the ANR project Voices from Online Labour, focused on AI-related platform work in Latin America."  # Add participant bio here.
+  # website: https://www.google.com  # Link participant website here.
