@@ -1,3 +1,13 @@
+- name: "Zhina Aghamohammadi"
+  image: /assets/images/Zhina_LakeComo.jpg
+  bio: "Zhina is an incoming PhD student in Network Science at Central European University. She holds a Master’s in Data Science and a Bachelor’s in Statistics. 
+  Her master’s thesis investigated polarization in the network of the European Parliament using Bayesian non-parametric stochastic block models. Her research interests 
+  lie in computational social science, with a particular focus on social networks, social media analysis, and the application of machine learning to address pressing 
+  societal challenges in both online and offline settings."
+# add more TAs with this format below...
+
+
+
 - name: "Ben Rochford"
   image: /assets/images/rochford-headshot.jpg
   bio: "Ben is a Ph.D. Student of Sociology at Duke University. His research in the Duke Polarization Lab leverages computational approaches to study social science 
