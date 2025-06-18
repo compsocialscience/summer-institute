@@ -33,7 +33,7 @@
 - date: 2025-06-18
   events:
     - name: "**09:00-09:15** Housekeeping and Announcements."
-    - name: "**09:15-13:00** Tutorial: Programming with `dplyr`"
+    - name: "**09:15-13:00** Tutorial: Programming with *`dplyr`*"
     - name: "**13:00-14:00** Lunch"
     - name: "**14:00-16:00** Research Happy Hour
     <br/> 
@@ -49,12 +49,12 @@
     - <a href='http://dx.doi.org/10.1136/bmjgh-2021-005690' target='_blank'>A bibliometric analysis of COVID-19 research in Africa</a>
     
     - <a href='https://doi.org/10.1186/1741-7015-11-66' target='_blank'>A bibliometric analysis of childhood immunization research productivity in Africa since the onset of the Expanded Program on Immunization in 1974</a>"
-    - name: "**16:00-** Introduction to the `Tidyverse`"
+    - name: "**16:00-** Tutorial: Introduction to the `Tidyverse`"
     
 - date: 2025-06-19
   events:
     - name: "**09:00-09:15** Housekeeping and Announcements"      
-    - name: "**09:15-13:00** Tutorial: Data Manipulation with dplyr"
+    - name: "**09:15-13:00** Tutorial: Data Manipulation with *`dplyr`*"
     - name: "**13:00-14:00** Lunch"
     - name: "**14:00-15:00** Flash Talk: <a href='https://www.youtube.com/watch?v=dhpeqVroZYg' target='_blank'>Can we Predict Artistic Success?</a>"
     - name: "**15:00-16:00** Research Happy Hour
@@ -71,7 +71,7 @@
     - <a href='https://doi.org/10.1186/s12874-021-01346-2' target='_blank'>Use of machine learning techniques to identify HIV predictors for screening in sub-Saharan Africa</a>
     
     - <a href='https://doi.org/10.1017/S1368980021004262' target='_blank'>Machine learning algorithms for predicting undernutrition among under-five children in Ethiopia</a>"
-    - name: "**16:00-** Introduction to Data Visualization with ggplot2"
+    - name: "**16:00-** Tutorial: Introduction to Data Visualization with *`ggplot2`*"
 
 - date: 2025-06-20
   events:
@@ -91,7 +91,7 @@
 
     - <a href='https://doi.org/10.2196/22916' target='_blank'>Systematic delineation of media polarity on COVID-19 vaccines in Africa: Computational linguistic modeling study</a>"
     
-    - name: "**10:30-13:00** Tutorials
+    - name: "**10:30-14:00** Tutorials
     
      - An Introduction to Text Analysis <a href='https://www.youtube.com/watch?v=pLsC4UyzX_U' target='_blank'>Watch video on Youtube</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/intro-text-analysis/Rpres/Introduction_to_Text_as%20Data.html' target='_blank'>Slides</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/intro-text-analysis/rmarkdown/Introduction_to_Text_Analysis.html' target='_blank'>Annotated Code</a>    
      
@@ -101,9 +101,8 @@
      
      - Topic Models <a href='https://www.youtube.com/watch?v=IUAHUEy1V0Q' target='_blank'>Watch video on Youtube</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/topic-modeling/Rpres/Topic_Modeling.html' target='_blank'>Slides</a>, <a href='https://compsocialscience.github.io/summer-institute/2020/materials/day3-text-analysis/topic-modeling/rmarkdown/Topic_Modeling.html' target='_blank'>Annotated Code</a>"
      
-    - name: "**13:00-14:00** *Invited Talk:* Emotional Reactions Towards Vaccination During the Emergence of the Omicron Variant: Insights from Twitter Analysis in South Africa"
     - name: "**14:00-15:00** Lunch"
-    - name: "**15:00-16:00** Group Exercises"
+    - name: "**15:00-16:00** *Invited Talk:* Meta Content Library"
   
 - date: 2025-06-23
   events:
