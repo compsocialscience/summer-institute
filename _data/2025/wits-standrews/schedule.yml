@@ -33,7 +33,7 @@
 - date: 2025-06-18
   events:
     - name: "**09:00-09:15** Housekeeping and Announcements."
-    - name: "**09:15-13:00** Tutorial: Programming with *`dplyr`*"
+    - name: "**09:15-13:00** Tutorial: Programming with **`dplyr`**"
     - name: "**13:00-14:00** Lunch"
     - name: "**14:00-16:00** Research Happy Hour
     <br/> 
@@ -49,12 +49,12 @@
     - <a href='http://dx.doi.org/10.1136/bmjgh-2021-005690' target='_blank'>A bibliometric analysis of COVID-19 research in Africa</a>
     
     - <a href='https://doi.org/10.1186/1741-7015-11-66' target='_blank'>A bibliometric analysis of childhood immunization research productivity in Africa since the onset of the Expanded Program on Immunization in 1974</a>"
-    - name: "**16:00-** Tutorial: Introduction to the `Tidyverse`"
+    - name: "**16:00-** Tutorial: Introduction to the **`Tidyverse`**"
     
 - date: 2025-06-19
   events:
     - name: "**09:00-09:15** Housekeeping and Announcements"      
-    - name: "**09:15-13:00** Tutorial: Data Manipulation with *`dplyr`*"
+    - name: "**09:15-13:00** Tutorial: Data Manipulation with **`dplyr`**"
     - name: "**13:00-14:00** Lunch"
     - name: "**14:00-15:00** Flash Talk: <a href='https://www.youtube.com/watch?v=dhpeqVroZYg' target='_blank'>Can we Predict Artistic Success?</a>"
     - name: "**15:00-16:00** Research Happy Hour
@@ -71,7 +71,7 @@
     - <a href='https://doi.org/10.1186/s12874-021-01346-2' target='_blank'>Use of machine learning techniques to identify HIV predictors for screening in sub-Saharan Africa</a>
     
     - <a href='https://doi.org/10.1017/S1368980021004262' target='_blank'>Machine learning algorithms for predicting undernutrition among under-five children in Ethiopia</a>"
-    - name: "**16:00-** Tutorial: Introduction to Data Visualization with *`ggplot2`*"
+    - name: "**16:00-** Tutorial: Introduction to Data Visualization with **`ggplot2`**"
 
 - date: 2025-06-20
   events:
