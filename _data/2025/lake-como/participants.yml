@@ -152,9 +152,9 @@
 
 - name: "Caroline Violot" # Add faculty name here.
   image: /assets/images/ C Violot.jpeg  # Add faculty image to assets/images/ and update here.
-  bio: "I'm a 28 years old PhD student at the university of Lausanne, where I study YouTube, commenting behavior and political communication. 
-  I come from France but lived in Switzerland for the past 10 years, where I've done my bachelor and master. I like reading, eating good food, 
-  talking about politics, and taking care of plants and people." # Add faculty bio here.
+  bio: "Caroline Violot is a PhD student in Information System at the university of Lausanne, Switzerland. Her research focuses on YouTube practices, mainly around 
+  online political communication, commenting behavior and how they intertwine in meaning making. Her work uses statistical methods, network analysis and ML to 
+  uncover patterns and evolution of online discourse." # Add faculty bio here.
 
 
 
