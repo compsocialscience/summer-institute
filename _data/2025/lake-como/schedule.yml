@@ -32,7 +32,7 @@
   events:
     - name: "Participants gather and housekeeping announcements"
       time: "09:00 - 09:30"
-    - name: "Chen Peng, Bocconi University (Title: TBC)"
+    - name: "Chen Peng, Bocconi University (Replicating conjoint experiments with LLMs)"
       time: "09:30 - 10:15"
     - name: "Lorenzo Lupo, Bocconi University (SimBench: Benchmarking the Ability of Large Language Models to Simulate Human Behaviours)"
       time: "10:15 - 11:00"
