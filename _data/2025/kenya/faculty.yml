@@ -8,10 +8,7 @@
   bio: "Mary Muyonga is a demographer with a Ph.D. and MA in Population Studies from the Population Studies and Research Institute, at the University of Nairobi, Kenya. Mary is a co-organiser of the 2025 Summer Institute in Computational Social Studies (SICSS) KENYA hosted at the AICAD _JKUAT, Kenya (https://sicss.io/2025/kenya/). She is an alumnus of  SICSS Covenant held in Nigeria in 2022 (https://sicss.io/2022/covenant-university/) and through her personal initiatives, was part of the team that co-organised in 2024, the first SICSS event in East Africa, at the University of Nairobi, Kenya  (https://sicss.io/2023/howard-mathematica/). Her research interests include migration, mobility, urbanization and policy linkages in which she has authored several articles and co-authored book chapters. Mary is a firm believer in the SICSS vision of empowering social scientists with the computational tools and skills they need to conduct cutting-edge research at the intersection of social science and data science." # Add faculty bio here.
   website:  https://scholar.google.com/citations?user=2Kp0neAAAAAJ&hl=en&oi=ao.
 
-   - name: "Dr. David Chepkonga" # Speaker name goes here.
-  image: /assets/images/David Chepkonga.JPG # Upload speaker image to /assets/images/ and update URL here.
-  bio: "David Chepkonga is a Kenyan applied mathematician who fuses advanced modelling and high-performance computing to address energy, climate, and health challenges. Holding a First-Class BSc in Mathematics & Computer Science, an MSc in Computing Mathematics, and a PhD from JKUAT—where he pioneered multiphase Nano fluid heat- and mass-transfer models—he has authored eleven papers and is expanding his work to tea-dryer optimization and AI-driven urban air-quality forecasts. A lecturer and mentor for the Kenya Coding for Climate Initiative." # add speaker bio here
-  website: 
+  
 
  
 # Add more faculty with the same format as above...
