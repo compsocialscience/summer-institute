@@ -17,10 +17,12 @@
   image: /assets/images/Meaghan.jpg # Upload speaker image to /assets/images/ and update URL here.
   bio: "Meaghan Waff works on Meta’s AI and Data for Good team. Based in Washington, DC, Meaghan helps policymakers, researchers, and nonprofit organizations to leverage open source models and data that advance scientific innovation and promote economic opportunity." # add speaker bio here
   website: 
+  
 - name: "Yair Rubinstein" # Speaker name goes here.
   image: /assets/images/rubinstein_headshot.jpg # Upload speaker image to /assets/images/ and update URL here.
   bio: "Yair Rubinstein works on Meta’s Research Partnerships team. Based in New York, Yair helps connect Meta’s research tools and datasets to academics and researchers from nonprofit organizations across the globe." # add speaker bio here
   website: 
+  
   - name: "Dr. David Chepkonga" # Speaker name goes here.
   image: /assets/images/David Chepkonga.JPG # Upload speaker image to /assets/images/ and update URL here.
   bio: "David Chepkonga is a Kenyan applied mathematician who fuses advanced modelling and high-performance computing to address energy, climate, and health challenges. Holding a First-Class BSc in Mathematics & Computer Science, an MSc in Computing Mathematics, and a PhD from JKUAT—where he pioneered multiphase Nano fluid heat- and mass-transfer models—he has authored eleven papers and is expanding his work to tea-dryer optimization and AI-driven urban air-quality forecasts. A lecturer and mentor for the Kenya Coding for Climate Initiative." # add speaker bio here
