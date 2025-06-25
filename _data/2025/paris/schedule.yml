@@ -24,19 +24,19 @@
 
 - date: 'Wednesday, June 25'
   events:
-    - name: '9:30 - 11:00 BERT: Principles, Uses, Fine-tuning Tricks'
-    - name: '11:00 - 11:30 Finding Models on Hugging Face'
-    - name: '11:30 - 12:30 Python Application'
-    - name: '12:30 - 13:30 Lunch'
-    - name: '13:30 - 16:30 Introduction to Active Tigger'
+    - name: '10:00 - 11:30 BERT: Principles, Uses, Fine-tuning Tricks'
+    - name: '11:30 - 12:00 Finding Models on Hugging Face'
+    - name: '12:00 - 13:00 Python Application'
+    - name: '13:00 - 14:00 Lunch'
+    - name: '14:00 - 17:00 Introduction to Active Tigger'
 
 - date: 'Thursday, June 26'
   events:
-    - name: '9:30 - 11:30 Introduction to Text Analysis in the Era of GPT'
-    - name: '11:30 - 12:30 Python Application: API Access, Structured Outputs'
-    - name: '12:30 - 13:30 Lunch'
-    - name: '13:30 - 15:00 Python Application: Annotation Zero-shot, Few-shot'
-    - name: '15:00 - 16:30 Python Application: Information Extraction'
+    - name: '10:00 - 12:00 Introduction to Text Analysis in the Era of GPT'
+    - name: '12:00 - 13:00 Python Application: API Access, Structured Outputs'
+    - name: '13:00 - 14:00 Lunch'
+    - name: '14:00 - 15:30 Python Application: Annotation Zero-shot, Few-shot'
+    - name: '15:30 - 17:00 Python Application: Information Extraction'
 
 - date: 'Friday, June 27'
   events:
