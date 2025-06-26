@@ -1,4 +1,41 @@
-- date: Janurary 32, 2025
-  name: "Example Event"
+- date: July 7, 2025
+  name: "TBD"
   events:
-    - name: Example Event
+    - name: "Location: Boardroom, #04-04 The Centre for Trusted Internet Community (CTIC), 3 Research Link, Innovation 4.0, 117602"
+    - name: "10:00 - 12:00 Speech by **Dr. Renwen Zhang**"
+    - name: "15:00 - 17:00 Speech by **Dr. Yi-Chieh Lee**"
+
+- date: July 8, 2025
+  name: "TBD"
+  events:
+    - name: "Location: Boardroom, #04-04 The Centre for Trusted Internet Community (CTIC), 3 Research Link, Innovation 4.0, 117602"
+    - name: "10:00 - 12:00 Speech by **Dr. Prateek Bansal**"
+    - name: "15:00 - 17:00 Workshop by **Dr. Prasanta Bhattacharya, ASTAR**"
+
+- date: July 9, 2025
+  name: "TBD"
+  events:
+    - name: "Location: Boardroom, #04-04 The Centre for Trusted Internet Community (CTIC), 3 Research Link, Innovation 4.0, 117602"
+    - name: "10:00 - 12:00 Speech by **Dr. Hannah Eleanor Clapham**"
+    - name: "15:00 - 17:00 Speech by **Dr. Swapnil Mishra**"
+
+- date: July 10, 2025
+  name: "TBD"
+  events:
+    - name: "Location: Boardroom, #04-04 The Centre for Trusted Internet Community (CTIC), 3 Research Link, Innovation 4.0, 117602"
+    - name: "10:00 - 12:00 Speech by **Dr. Joshua Uyheng**"
+    - name: "15:00 - 17:00 Speech by **Dr. Kokil Jaidka**"
+
+- date: July 11, 2025
+  name: "TBD"
+  events:
+    - name: "Location: Boardroom, #04-04 The Centre for Trusted Internet Community (CTIC), 3 Research Link, Innovation 4.0, 117602"
+    - name: "10:00 - 12:00 Speech by **Dr. Jonathan Zhu**"
+    - name: "15:00 - 17:00 Speech by **Dr. Celine Yunya Song**"
+
+- date: July 14, 2025
+  name: "TBD"
+  events:
+    - name: "Location: Boardroom, #04-04 The Centre for Trusted Internet Community (CTIC), 3 Research Link, Innovation 4.0, 117602"
+    - name: "10:00 - 12:00 Speech by **Group Presentations**"
+    - name: "15:00 - 17:00 Speech by  **Dr. Douglas Guilbeault**"

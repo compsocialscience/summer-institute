@@ -1,5 +1,115 @@
-- date: "June 16 - June 27, 2025"
+- date: "Schedule Overview"
   events:
-    - name: "Schedule coming soon. Check back for updates!" # Update this line or add markdown for your site's schedule.
+    - name: "ODISSEI-SICSS is split into two phases. During the first week, the participants will be introduced to ODISSEI and taught machine learning in Python. This will be primarily done through a course run by the eScience center. In the second week of the summer school, participants will be able to make full use of the ODISSEI infrastructure, during which they will be put into teams and challenged to work on research projects. Each team will be provided with access to FIRMBACKBONE, containing detailed data on Dutch companies, through the secure environment SANE. Specifically, researchers will get access to the corporate trade register, employment surveys, financial data, emission data, and indicators derived from websites."
+    - name: "FIRMBACKBONE is a treasure trove of data which can help us predict important outcomes. The teams will compete to develop effective predictive models to answer innovative research questions. This challenge will help participants get a more hands-on experience of computational social science research with some of the most advanced data infrastructure available."
+    - name: "At the end of most days of the summer school, there will be a guest speaker who will present their work or a general topic in computational social science to the participants. These talks will last 20-30 mins with 15-20 mins of Q&A. Slides will be added on the [ODISSEI Zenodo Community](https://zenodo.org/communities/odissei/records); other material will be shared via GitHub."
+    - name: "All course sessions will take place in the Sanders Building on the Erasmus Campus Woudestein, Burgemeester Oudlaan 50, Rotterdam. You can find information [here](https://www.eur.nl/en/campus/locations/campus-woudestein#directions) and download the campus map [here](https://www.eur.nl/en/media/2024-12-230794campusplattegrondv6). Throughout the summer school, ODISSEI will organize various social events. Read more about those in the timetable below. Each day will have three breaks. A coffee break in the morning, lunch at 12:00, and another coffee break in the afternoon."
 
-  # Our tentative schedule can be seen [here](www.google.com). Our program focuses on ... . We will invite guest speakers to provide an overview of ..."
+
+- date: Week 1
+- date: Monday, June 16, 2025
+  name: "Introduction to ODISSEI, Open Science and the Theme of the Summer School"
+  events:
+    - name: "10:00-12:00: Introducing ODISSEI and Computational Social Science. Speaker: [Tom Emery](https://www.eur.nl/people/tom-emery)"
+    - name: "13:00-15:00: Introduction to [FIRMBACKBONE](https://firmbackbone.nl/)"
+    - name: "15:00-16:30: Introduction to [SANE](https://odissei-data.nl/facility/secure-analysis-environment-sane/). Speaker: Lucas van der Meer, CTO ODISSEI."
+    - name: "Social Event (17:00-19:00): Opening Drinks @ Erasmus Paviljoen, Rotterdam"
+    - name: "Programme starts at 10:00, rather than 9:00"
+    - name: "Location: Room:0.12, [Sanders building](https://g.co/kgs/ysDZytc)"
+    - name: "12:00-13:00: Lunch break"
+
+- date: Tuesday, June 17, 2025
+  name: "Causal Inference by ODISSEI SoDa team"
+  events:
+    - name: "09:00-17:00: more detailed schedule of the day will be available shortly"
+    - name: "12:00-13:00: Lunch break"
+    - name: "16:00-17:00: Guest lecture by [Eve Ernst](https://research.vu.nl/en/persons/eve-ernst), VU Amsterdam."
+    - name: "Location: Room:0.12, [Sanders building](https://g.co/kgs/ysDZytc)"
+    
+- date: Wednesday, June 18, 2025
+  name: "Two-day Course by the Netherlands eScience Center: Machine Learning in Python with scikit-learn"
+  events:
+    - name: "09:00: Welcome and icebreaker"
+    - name: "09:15: Introduction to machine learning"
+    - name: "10:00:	Break"
+    - name: "10:10:	Tabular data exploration"
+    - name: "11:00:	Break"
+    - name: "11:10:	Fitting a scikit-learn model on numerical data"
+    - name: "13:00:	Fitting a scikit-learn model on numerical data"
+    - name: "14:00:	Break"
+    - name: "14:10:	Fitting a scikit-learn model on numerical data"
+    - name: "15:00:	Break"
+    - name: "15:10:	Cross-validation"
+    - name: "15:45:	Wrap-up"
+    - name: "16:00-17:00: Guest lecture: Ethics in Computational Research by [Chirag Arora](https://www.tudelft.nl/staff/c.arora/), TU Delft."
+    - name: "12:00-13:00: Lunch break"
+    - name: "Location: Room:0.12, [Sanders building](https://g.co/kgs/ysDZytc)"
+
+- date: Thursday, June 19, 2025
+  name: "Two-day Course by the Netherlands eScience Center: Machine Learning in Python with scikit-learn"
+  events:
+    - name: "09:00:	Welcome and recap"
+    - name: "09:15:	Handling categorical data"
+    - name: "10:00:	Break"
+    - name: "10:10	Using numerical and categorical variables together"
+    - name: "11:00:	Break"
+    - name: "11:10:	Intuitions on decision trees"
+    - name: "11:30:	Overfitting and underfitting"
+    - name: "13:00:	Validation and learning curves"
+    - name: "13:30:	Advanced topics"
+    - name: "14:00:	Break"
+    - name: "14:10:	Try out learned skills on new dataset"
+    - name: "15:00-16:00: Guest lecture: Corporate networks by prof. [Eelke Heemskerk](https://www.uva.nl/profiel/h/e/e.m.heemskerk/e.m.heemskerk.html), University of Amsterdam, Faculty of Social and Behavioural Sciences."
+    - name: "16:10:	Concluding remarks"
+    - name: "16:45:	Wrap-up & Post-workshop Survey"
+    - name: "12:00-13:00: Lunch break"
+    - name: "Social Event (17:30-20:00): Drinks at De Gele Kanarie in Rotterdam"
+    
+- date: Friday June 20, 2025
+  name: "Annotation workshop by ODISSEI SoDa team"
+  events:
+    - name: "09:00-17:00: more detailed schedule of the day will be available shortly"
+    - name: "12:00-13:00: Lunch break"
+    - name: "Location: Room:0.12, [Sanders building](https://g.co/kgs/ysDZytc)"
+     
+- date: Week 2
+  name: "Research project" 
+    
+- date: Monday, June 23, 2025
+  name: "Research project"
+  events:
+    - name: "10:00-11:00: Introducing the Data Challenge"
+    - name: "11:00-12:00: Getting into SANE"
+    - name: "13:00-17:00: Research project"
+    - name: "12:00-13:00: Lunch break"
+    - name: "Location: Room:0.12, [Sanders building](https://g.co/kgs/ysDZytc)"
+ 
+- date: Tuesday, June 24, 2025
+  name: "Research project"
+  events:
+    - name: "09:00 - 17:00 Research project"
+    - name: "12:00-13:00: Lunch break"
+    - name: "Location: Room:0.12, [Sanders building](https://g.co/kgs/ysDZytc)"
+  
+- date: Wednesday, June 25, 2025
+  name: "Research project"
+  events:
+    - name: "09:00 - 17:00 Research project"
+    - name: "12:00-13:00: Lunch break"
+    - name: "Location: Room:0.12, [Sanders building](https://g.co/kgs/ysDZytc)"
+  
+- date: Thursday, June 26, 2025
+  name: "Research project"
+  events:
+    - name: "09:00 - 17:00 Research project"
+    - name: "12:00-13:00: Lunch break"
+    - name: "Location: Room:0.12, [Sanders building](https://g.co/kgs/ysDZytc)"
+    - name: "Closing dinner @Stockholm Bar, Rotterdam"
+  
+- date: Friday, June 27, 2025
+  name: "Research project"
+  events:
+    - name: "09:00 - 12:00 Research project"
+    - name: "12:30 - 17:00 Presentations"
+    - name: "12:00-13:00: Lunch break"
+    - name: "Location: Room:0.12, [Sanders building](https://g.co/kgs/ysDZytc)"

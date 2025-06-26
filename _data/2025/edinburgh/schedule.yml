@@ -1,5 +1,105 @@
-- date: "May 26 - June 6, 2025"
+- date: 2025-05-25
+  name: Arrival and Informal Gathering
   events:
-    - name: "Schedule coming soon. Check back for updates!" # Update this line or add markdown for your site's schedule.
+    - name: "Evening: Optional meeting with attendants who arrived early"
 
-  # Our tentative schedule can be seen [here](www.google.com). Our program focuses on ... . We will invite guest speakers to provide an overview of ..."
+- date: 2025-05-26
+  name: Introduction to CSS and Platforms
+  events:
+    - name: "09:00 - 10:00 Welcome"
+    - name: "10:00 - 11:00 Intro to CSS"
+    - name: "11:00 - 12:00 Methodology" 
+    - name: "12:00 - 12:30 Data Sources"
+    - name: "12:30 - 14:00 Long Lunch"
+    - name: "14:00 - 15:00 Reddit Tutorial"
+    - name: "15:00 - 16:00 YouTube Tutorial"
+    - name: "16:00 - 17:00 Activity"
+
+- date: 2025-05-27
+  name: Data Analysis and Scaling
+  events:
+    - name: "10:00 - 11:00 Data Analysis"
+    - name: "11:00 - 12:00 Data Analysis Exercise"
+    - name: "12:00 - 12:30 Analysis Using AI"
+    - name: "12:30 - 14:00 Lunch"
+    - name: "14:00 - 16:00 Scaling"
+    - name: "16:00 - 17:00 Research talk: Dr Nicola Rennie"
+
+- date: 2025-05-28
+  name: Network Analysis
+  events:
+    - name: "10:00 - 11:00 Social Network Theory"
+    - name: "11:00 - 12:30 Applied Network Analysis"
+    - name: "12:30 - 14:00 Lunch"
+    - name: "14:00 - 16:00 Applied Network Analysis"
+    - name: "16:00 - 17:00 Research talk: Dr Adam Chalmers"
+
+- date: 2025-05-29
+  name: Text Analysis and NLP
+  events:
+    - name: "10:00 - 11:00 Intro to Text"
+    - name: "11:00 - 12:00 Global Analysis"
+    - name: "12:00 - 12:30 Individual Analysis"
+    - name: "12:30 - 14:00 Lunch"
+    - name: "14:00 - 16:00 Text Analysis Tutorial"
+    - name: "16:00 - 17:00 Research talk: Dr Yusuf Cetinkaya"
+
+- date: 2025-05-30
+  name: CSS in Practice and Ethics
+  events:
+    - name: "10:00 - 11:00 CSS in Practice"
+    - name: "11:00 - 12:00 Caveats & Ethics"
+    - name: "12:00 - 12:30 Exercise"
+    - name: "12:30 - 14:00 Long Lunch"
+    - name: "14:00 - 15:00 Group Formation"
+    - name: "15:00 - 16:00 Group Discussion"
+    - name: "16:00 - 17:00 Lightning Talks"
+
+- date: 2025-05-31
+  name: Social Activity
+  events:
+    - name: "10:00 - 17:00 Optional Trip " 
+
+- date: 2025-06-01
+  name: Weekend day off
+
+- date: 2025-06-02
+  name: Group Work
+  events:
+    - name: "10:00 - 12:30 Group work"
+    - name: "12:30 - 14:00 Lunch"
+    - name: "14:00 - 16:00 Research talk: Dr Marion Lieutaud"
+    - name: "16:00 - 17:00 Exercise & Q&A"
+
+- date: 2025-06-03
+  name: Group Work
+  events:
+    - name: "10:00 - 12:30 Group work"
+    - name: "12:30 - 14:00 Lunch"
+    - name: "14:00 - 16:00 Group work"
+    - name: "16:00 - 17:00 Research talk: Dr Peaks Krafft"
+
+- date: 2025-06-04
+  name: Group Work
+  events:
+    - name: "10:00 - 12:30 Group work"
+    - name: "12:30 - 14:00 Lunch"
+    - name: "14:00 - 16:00 Group work"
+    - name: "16:00 - 17:00 Activity"
+
+- date: 2025-06-05
+  name: Group Work
+  events:
+    - name: "10:00 - 12:30 Group work"
+    - name: "12:30 - 14:00 Lunch"
+    - name: "14:00 - 16:00 Group work"
+    - name: "16:00 - 17:00 Research talk: Dr Akhil Arora"
+
+- date: 2025-06-06
+  name: Final Day / Presentations 
+  events:
+    - name: "10:00 - 12:30 Project Presentations"
+    - name: "12:30 - 14:00 Lunch"
+    - name: "14:00 - 15:00 CSS Pre-Viva Talk"
+    - name: "15:00 - 16:00 Closing Remarks & Feedback"
+    - name: "16:00 - 17:00 Farewell Activity"

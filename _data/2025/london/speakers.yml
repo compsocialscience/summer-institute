@@ -53,3 +53,16 @@ In his research, Mike studies the decisions we make in conversation. We are a so
   bio: "Sasha Vezhnevets is an AI research scientist and a meditator, based in London, UK. Sasha is a staff research scientist at Google DeepMind. Throughout his career he has worked on computer vision, hierarchical reinforcement learning, multi-agent reinforcement learning and generative agent based modelling. His current interests are multi-agent systems, social cognition, computational social construction and cultural evolution. He is also interested in bridging ideas in AI, social sciences, and neuroscience. 
   Sasha is also a meditator and a Vajrayana practitioner and writes about it on substack." # add speaker bio here
   website: https://www.vezhnick.com/ # update speaker personal link here
+
+- name: "Alice Plebe" # Speaker name goes here.
+  image: /assets/images/London_2025_Speakers_Alice.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Alice Plebe received her B.Sc. and M.Sc. degrees in Computer Science from the University of Catania, Italy, in 2014 and 2016, respectively, and her Ph.D. in Information and Communication Technology from the University of Trento, Italy, in 2021.
+Following her Ph.D., she was a Postdoctoral Fellow at the University of Trento from 2021 to 2024. During this time, she contributed to the EU Horizon 2020 Dreams4Cars Research and Innovation Action, where her work explored how cognitive capabilities of the human brain can inform the design of artificial driving agents with human-like performance.
+Since 2024, she has been a Research Fellow at University College London (UCL), UK, focusing on large language models and their role in enabling trustworthy collaboration in multi-agent systems." # add speaker bio here
+  website: https://www.aliceplebe.com/ # update speaker personal link here
+
+- name: "Jakob Foerster" # Speaker name goes here.
+  image: /assets/images/London_2025_Speakers_Jakob.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Jakob Foerster joined the department of engineering science at the University of Oxford in the fall of 2021. During his PhD at Oxford he helped bring deep multi-agent reinforcement learning to the forefront of AI research and interned at Google Brain, OpenAI, and DeepMind. After his PhD he worked as a research scientist at Facebook AI Research in California, where he continued doing foundational work. He was the lead organizer of the first Emergent Communication workshop at NeurIPS in 2017, which he has helped organize ever since and was awarded a prestigious CIFAR AI chair in 2019. His past work addresses how AI agents can learn to cooperate and communicate with other agents, most recently he has been developing and addressing the zero-shot coordination problem setting, a crucial step towards human-AI coordination. His work has been cited over 5000 times, with an h-index of 29."
+  website: https://eng.ox.ac.uk/people/jakob-foerster/ # update speaker personal link here
+

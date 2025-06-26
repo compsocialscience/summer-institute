@@ -41,19 +41,24 @@
   website: https://kevinbaum.de/ # update speaker personal link here
  
 - name: "Ridhi Kashyap (University of Oxford)" # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " " # add speaker bio here
+  image: /assets/images/2025SBRidhiKashyap.jfif  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Ridhi Kashyap is Professor of Demography and Computational Social Science at the Department of Sociology, Nuffield College, and Leverhulme Centre for Demographic Science at the University of Oxford. Her research examines population dynamics and human development, with a focus on gender inequalities. She has pioneered the use of computational methods and digital data sources for demographic research, and currently serves as the chair of the International Union for the Scientific Study of Population’s Panel on Digital and Computational Demography." # add speaker bio here
   website: https://www.sociology.ox.ac.uk/people/ridhi-kashyap # update speaker personal link here
   
 - name: "Rosa M. Navarrete (Saarland University)" # Speaker name goes here.
   image: /assets/images/2025SBRosaMNavarrete.jpg  # Upload speaker image to /assets/images/ and update URL here.
-  bio: "Since December 2022, Dr. Rosa M. Navarrete has been working as a postdoctoral researcher and lecturer at the Chair of Political Science with a focus on European Integration and International Relations in the Department of European Social Research at Saarland University. Previously, she was a postdoctoral researcher at MZES (University of Mannheim), a research associate at the Chair of Comparative Government at the University of Mannheim, a research associate for the project Democratic dissatisfaction in Southern Europe: the political consequences of the crisis at the University of York and a research associate at the Autonomous University of Madrid. She studied History (B.A. + M.A.) at the Complutense University of Madrid and completed her M.A. in Democracy and Government at the Autonomous University of Madrid. In 2019, she finished her PhD in Political Science at the University of Mannheim. In her dissertation, she studied the effect of left-right orientations on political behaviour. Her research interests include text-as-data methods, comparative politics, European politics, political behaviour and the impact of digitalisation on political attitudes. Her work has appeared in Electoral Studies, Party Politics, JEPOP, Comparative European Politics, European Politics and Society and Frontiers in Political Science." # add speaker bio here
+  bio: "Since December 2022, Dr. Rosa M. Navarrete has been working as a postdoctoral researcher and lecturer at the Chair of Political Science with a focus on European Integration and International Relations in the Department of European Social Research at Saarland University. Previously, she was a postdoctoral researcher at MZES (University of Mannheim), a research associate at the Chair of Comparative Government at the University of Mannheim, a research associate for the project Democratic dissatisfaction in Southern Europe: the political consequences of the crisis at the University of York and a research associate at the Autonomous University of Madrid." # add speaker bio here
   website: https://www.rosanavarrete.com/ # update speaker personal link here
   
 - name: "Savvas Zannettou (Delft University of Technology)" # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " " # add speaker bio here
+  image: /assets/images/2025SBSavvasZannettou.jfif  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Savvas Zannettou is an Assistant Professor at the Technology, Policy, and Management (TPM) faculty at TU Delft. He is also an Associated Researcher with the Max Planck Institute for Informatics (MPI-INF) and a core member of the International Data-driven Research for Advanced Modeling and Analysis Lab (iDrama Lab). His research focuses on applying machine learning and data-driven quantitative analysis to understand emerging phenomena on the Web such as the spread of false information and hateful rhetoric. He is also interested in understanding algorithmic recommendations on social media platforms." # add speaker bio here
   website: https://zsavvas.github.io/ # update speaker personal link here
+
+- name: "Tom Theile (Max Planck Institute for Demographic Research)" # Speaker name goes here.
+  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Tom Theile is a research software engineer working at the Department of Digital and Computational Demography at the Max Planck Institute for Demographic Research in Rostock. He works together with the researchers in the Laboratory of Population Dynamics and Sustainable Well-Being and the Laboratory of Migration and Mobility on long-term digital data collections, data transformations, and simulation software projects. Some of the projects are rsocsim, a kinship microsimulator, and the Scholarly Migration Database which is based on large scale bibliometric data. From time to time, he visits a population conference, teaches courses on the practical aspects of digital demography, or co-authors  a paper."
+  website: https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/tom_theile_3933/ # update speaker personal link here
 
 - name: "Uwe Albrecht (Adolf-Bender-Zentrum)" # Speaker name goes here.
   image: /assets/images/2025SBUweAlbrecht.jpg  # Upload speaker image to /assets/images/ and update URL here.

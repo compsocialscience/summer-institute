@@ -1,5 +1,74 @@
-- date: "June 9 - June 20, 2025"
+- date: All times are in CEST (Warsaw time). The events will be held on Zoom (use the link provided on Slack)
   events:
-    - name: "Schedule coming soon. Check back for updates!" # Update this line or add markdown for your site's schedule.
+    - name: "All activities, except those marked as OPTIONAL and TA Duty Hours, are mandatory to complete the program and earn a certificate. [PDF version of the schedule](https://sicss-amulaw.github.io/SICSS-2025-Program.pdf)"
 
-  # Our tentative schedule can be seen [here](www.google.com). Our program focuses on ... . We will invite guest speakers to provide an overview of ..."
+- date: June 9 - Monday, 2025
+  events:
+    - name: "09:30 – 10:30 – Opening Session: Meet the Organizers & Participants"
+    - name: "10:30 – 12:00 – David Reichel Lecture Session"
+    - name: "12:00 – 13:00 – Lunch break"
+    - name: "13:00 – 14:30 – Michal Ovádek Lecture Session"
+    - name: "14:30 – open end – Networking & Social Time"
+
+- date: June 10 - Tuesday, 2025
+  events:
+    - name: "09:30 – 11:00 – Veteran Session – Insights from Past Participants"
+    - name: "11:00 – 11:30 – Coffee break"
+    - name: "11:30 – 13:00 – Guided Project Session"
+    - name: "13:00 – 14:00 – Lunch break"
+    - name: "14:00 – 15:30 – Guided Project Session"
+
+- date: June 11 - Wednesday, 2025
+  events:
+    - name: "11:00 – 11:30 – Coffee break"
+    - name: "11:30 – 13:00 – Guided Project Session"
+    - name: "13:00 – 14:00 – Lunch break"
+    - name: "14:00 – 15:30 – Guided Project Session"
+
+- date: June 12 - Thursday, 2025
+  events:
+    - name: "09:30 – 11:00 – Hyebin Bina Jeon Lecture Session"
+    - name: "11:00 – 11:30 – Coffee break"
+    - name: "11:30 – 13:00 – Guided Project Session"
+    - name: "13:00 – 14:00 – Lunch break"
+    - name: "14:00 – 15:30 – Guided Project Session"
+
+- date: June 13 - Friday, 2025
+  events:
+    - name: "09:00 – 11:00 – Bellingcat Workshop Session"
+    - name: "11:00 – 11:30 – Coffee break"
+    - name: "11:30 – 13:00 – Bellingcat Workshop Session"
+    - name: "13:00 – 14:00 – Lunch break"
+    - name: "14:00 – 15:30 – Bellingcat Workshop Session"
+
+- date: June 16 - Monday, 2025
+  events:
+    - name: "09:30 – 11:00 – Presentation of Guided Projects / Idea Presentations: Shaping Unguided Projects"
+    - name: "11:00 – 11:30 – Coffee break"
+    - name: "11:30 – 13:00 – Panel Discussion: Navigating AI in Law and Society"
+    - name: "13:00 – 14:00 – Lunch break"
+
+- date: June 17 - Tuesday, 2025
+  events:
+    - name: "09:00 – 13:00 – Digital Single Market and Free Flow of Information – Conference (Jean Monnet Chair dig_INFlow)"
+    - name: "13:00 – 14:00 – Lunch break"
+
+- date: June 18 - Wednesday, 2025
+  events:
+    - name: "09:30 – 11:00 – Łucja Biel Lecture Session"
+    - name: "11:00 – 11:30 – Coffee break"
+    - name: "11:30 – 13:00 – Unguided Project Session"
+    - name: "13:00 – 14:00 – Lunch break"
+    - name: "13:30 – 15:00 – Unguided Project Session"
+
+- date: June 19 - Thursday, 2025
+  events:
+    - name: "11:30 – 13:00 – Unguided Project Session"
+    - name: "13:00 – 14:00 – Lunch break"
+    - name: "13:30 – 15:00 – Unguided Project Session"
+
+- date: June 20 - Friday, 2025
+  events:
+    - name: "09:00 – 10:30 – Presentations of the Participants' Projects"
+    - name: "10:30 – 11:00 – Coffee break"
+    - name: "11:00 – 12:30 – Closing Ceremony"

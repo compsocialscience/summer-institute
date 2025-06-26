@@ -1,5 +1,7 @@
-- name: "TA info coming soon."
-  image: /assets/images/placeholderPic.png
-  bio: "..."
-  website: www.google.com
-# add more TAs with this format below...
+- name: Jan Mizerka
+  image: /assets/images/amu_TA_1.jpeg
+  bio: Jan Mizerka holds a degree in Cognitive Science (from AMU) and currently works as a software engineer. His professional focus is on automating production processes within the offset printing industry. He has experience in brain research, particularly in EEG data analysis utilizing machine learning and artificial intelligence techniques. Jan possesses advanced proficiency in Python and SPSS, along with a foundational knowledge of R. His broader interests lie in the societal impact of artificial intelligence and its applications across various scientific disciplines.
+
+- name: Mikołaj Wieczór
+  image: /assets/images/amu_TA_2.jpeg
+  bio: Mikołaj is a PhD Student at the Faculty of Psychology and Cognitive Science at Adam Mickiewicz University. His research focuses on how different learning techniques influence memory and recall. He teaches cognitive psychology and is a strong advocate for applying Signal Detection Theory in social contexts. Mikołaj is also a member of the Learning and Metacognition Experimental Lab (LaMELab). He has hands-on experience with SPSS and is familiar with the basics of R and Python.

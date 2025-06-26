@@ -1,5 +1,24 @@
-- name: "TA info coming soon."
-  image: /assets/images/placeholderPic.png
-  bio: "..."
-  website: www.google.com
-# add more TAs with this format below...
+- name: Nicolás Algarra Polanco
+  image: /assets/images/BOG-Nicolas Algarra.jpeg
+  bio: "<p align='justify'>Soy Nicolás Algarra Polanco, estudiante de ciencia de datos e ingeniería de sistemas en la Pontificia Universidad Javeriana (PUJ), en Bogotá, Colombia. He trabajado en varios proyectos sociales, tratando de analizar y buscar patrones sociales que puedan mostrar y explicar cómo funciona la sociedad, y desarrollar posibles estrategias que puedan mejorar la calidad de vida del ser humano. Quiero mejorar mis conocimientos aprendiendo nuevas perspectivas de personas de todo el mundo y mostrar a los demás todo lo que he aprendido a lo largo de los años, con el fin de poder mejorar aunque sea un poco más el mundo en el que vivimos.</p>"
+  website: 
+
+- name: Yesica Alexandra Guarin Arce
+  image: /assets/images/BOG-Yesica Guarin.jpeg
+  bio: "<p align='justify'>Soy estudiante de Sociología en la Fundación Universitaria Areandina. Mis principales intereses se centran en comprender diversos fenómenos sociales y en innovar dentro del campo de la investigación. Me apasiona especialmente el tema de la educación y cómo podemos transformarla para que sea accesible, significativa y útil para todas las personas. Otro de mis grandes intereses son los fandoms, en particular el fandom ARMY. Como miembro de esta comunidad desde hace varios años, siempre me ha intrigado su funcionamiento interno y su impacto social. Esta curiosidad me llevó a desarrollar una investigación sociológica sobre el fandom, a través de la cual busqué demostrar la necesidad de renovar ciertos enfoques y conceptos dentro de la sociología contemporánea. Fruto de este trabajo, publiqué el artículo titulado El caso de la comunidad ARMY en Colombia: configuración de una nueva forma de comunidad, donde analizo cómo este fandom representa una forma emergente de comunidad en la era digital.</p>"
+  website: 
+
+- name: Diego Alexander Umbarila Forero
+  image: /assets/images/BOG-Diego Umbarila.jpeg
+  bio: "<p align='justify'>Soy estudiante de Sociología con interés en el análisis computacional de fenómenos sociales. Me emociona formar parte de equipos que integran ciencia de datos y ciencias sociales, y tengo muchas ganas de seguir aprendiendo en ese camino. He explorado herramientas como Python, R, Atlas.ti, Gephi y Power BI, combinando métodos cualitativos y cuantitativos para comprender mejor distintas dinámicas sociales. Me interesa especialmente trabajar con datos digitales, experimentar con visualizaciones y participar en espacios colaborativos donde pueda crecer, compartir lo que sé y aprender de otros.</p>"
+  website: 
+
+- name: Juan Francisco Ramírez Escobar
+  image: /assets/images/BOG-Juan Francisco Ramirez.jpeg
+  bio: "<p align='justify'>Soy estudiante de último año de Ingeniería de Sistemas y Ciencia de Datos en la Pontificia Universidad Javeriana de Bogotá, cuento con experiencia en ingeniería de datos, diseño de pipelines ETL, modelado de datos, gestión de bases de datos y aprendizaje automático; he desarrollado una base sólida tanto en desarrollo front-end como back-end, así como en desarrollo de aplicaciones móviles. He contribuido a varios proyectos académicos y de desarrollo de software a través de mi participación en grupos de investigación como ACM Javeriana (grupo estudiantil que lideré en 2023). Me encanta dar solución a problemas complejos, especialmente cuando el proceso trae beneficios sociales; considero que el hecho de generar aportes importantes a las personas es el foco para todo proyecto exitoso.</p>"
+  website: 
+
+- name: Ana Sofia Neira
+  image: /assets/images/BOG-Ana Neira.jpeg
+  bio: "<p align='justify'>Soy Ana Sofía Neira, estudiante de séptimo semestre de Sociología en la Fundación Universitaria del Área Andina, en Bogotá, Colombia. A lo largo de mi formación académica, he desarrollado un profundo interés por las investigaciones sociales que buscan comprender las dinámicas colectivas, los conflictos estructurales y las transformaciones culturales que atraviesan nuestras sociedades. Mi motivación principal ha sido el estudio de las investigaciones previas: aquellas que han trazado rutas críticas y metodológicas para analizar fenómenos sociales complejos, especialmente en contextos latinoamericanos. Considero que el conocimiento sociológico no solo permite interpretar el mundo, sino también transformarlo de manera consciente, ética y colectiva. Me interesa aprender de otras perspectivas, metodologías y realidades, para enriquecer mis propias herramientas analíticas. Quiero compartir lo que he aprendido en mi camino como estudiante e investigadora.</p>"
+  website: 
