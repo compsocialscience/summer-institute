@@ -1,4 +1,26 @@
-- name: "Speaker info coming soon." # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " ... " # add speaker bio here
-  website: https://www.google.com # update speaker personal link here
+- name: "Manoel Horta Ribeiro"
+  image: /assets/images/2025/penn/manoel_ribeiro.jpg
+
+- name: "Sean Ellis"
+  image: /assets/images/2025/penn/sean_ellis.jpg
+
+- name: "Pinar Yildirim"
+  image: /assets/images/2025/penn/pinar_yildirim.jpg
+
+- name: "Dani Bassett"
+  image: /assets/images/2025/penn/dani_bassett.JPG
+
+- name: "Yamil Velez"
+  image: /assets/images/2025/penn/yamil_velez.png
+
+- name: "Thomas Davidson"
+  image: /assets/images/2025/penn/thomas_davidson.jpg
+
+- name: "James Houghton"
+  image: /assets/images/2025/penn/james_houghton.jpg
+
+- name: "Jane Esberg"
+  image: /assets/images/2025/penn/jane_esberg.jpg
+
+- name: "Lyle Ungar"
+  image: /assets/images/2025/penn/lyle_ungar.jpg
