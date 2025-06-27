@@ -12,6 +12,11 @@
   image: /assets/images/alayrac.png  # Add participant image to assets/images/ and update here.
   bio: "Pierre Alayrac is an Assistant Professor in Political Sociology at Paris 8 University. His work is at the intersection of Historical Political Sociology, Economic Sociology, and Environmental Sociology. He mobilizes mixed methods."  # Add participant bio here.
   # website: https://www.google.com  # Link participant website here.
+  
+- name: "Nardjes Amieur" # Replace with participant name.
+  image: /assets/images/amieur.jpeg  # Add participant image to assets/images/ and update here.
+  bio: "PhD candidate at LIX (École Polytechnique), studying how AI-driven algorithms shape information exposure and consumption. Her research analyzes user behavior across platforms and examines risks like misinformation."  # Add participant bio here.
+  # website: https://www.google.com  # Link participant website here.
 
 - name: "Cláudia Araújo" # Replace with participant name.
   image: /assets/images/araujo.png  # Add participant image to assets/images/ and update here.
@@ -36,6 +41,11 @@
 - name: "Lena Dodson" # Replace with participant name.
   image: /assets/images/dodson.png  # Add participant image to assets/images/ and update here.
   bio: "Lena Dodson is a policy analyst at the Audiovisual and Digital Communication Regulatory Authority (Arcom). She works in the Public Protection, Pluralism, and Social Cohesion Department, specializing in women's rights, anti-discrimination, and the regulation of hate speech."  # Add participant bio here.
+  # website: https://www.google.com  # Link participant website here.
+  
+- name: "Asmaa El fraihi" # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: "Asmaa El fraihi is a PhD student at the Computer Science Laboratory of École Polytechnique, specializing in online privacy, algorithm audits, and online platform governance. Her research combines experimental design with platform-based field studies to examine how user traits (such as personality) interact with algorithmic systems, particularly in the domains of online advertising and political communication. Her doctoral work aims to measure the systemic risks and implications of opaque algorithmic personalization on large online platforms. "  # Add participant bio here.
   # website: https://www.google.com  # Link participant website here.
   
 - name: "Quentin Gilliotte" # Replace with participant name.
