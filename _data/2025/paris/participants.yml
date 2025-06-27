@@ -14,7 +14,7 @@
   # website: https://www.google.com  # Link participant website here.
   
 - name: "Nardjes Amieur" # Replace with participant name.
-  image: /assets/images/amieur.jpeg  # Add participant image to assets/images/ and update here.
+  image: /assets/images/amieur.jpg  # Add participant image to assets/images/ and update here.
   bio: "PhD candidate at LIX (École Polytechnique), studying how AI-driven algorithms shape information exposure and consumption. Her research analyzes user behavior across platforms and examines risks like misinformation."  # Add participant bio here.
   # website: https://www.google.com  # Link participant website here.
 
