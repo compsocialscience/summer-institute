@@ -86,10 +86,6 @@
   image: /assets/images/Lingnan_perez.jpeg
   bio: "Ignacio Pérez is a postdoctoral researcher at the Oxford-Hyundai Foresight Centre, based at Saïd Business School, University of Oxford. His research combines ethnographic methods and computational text analysis to explore mobility systems, climate transitions, and participatory governance at the intersection of urban studies, STS, and critical data research."  # Add participant bio here.
 
-- name: "Jim Wang" # Replace with participant name.
-  image: /assets/images/Lingnan_jimwang.jpg
-  bio: "Dr. Jim Wang is an assistant professor in the department of finance at Hong Kong Chu Hai College. He has taught FinTech at Master of Science in Applied Finance with over 10 years of research in the field of Big Data and forensic education. He received 2023/24 Chiuyu Tan Kah Kee Education Foundation Scholarly Achievement Award."   
-
 - name: "Winko Lui" # Replace with participant name.
   image: /assets/images/Lingnan_wanko.jpg
   bio: "Winko is a Ph.D. candidate in Sociology of Science at Tsinghua University. His academic interests centre on applying data-driven tools to examine issues like digital equity in health informatics and uncover how technological infrastructures can either bridge or reinforce inequalities in access to healthcare and digital resources."  # Add participant bio here.    
