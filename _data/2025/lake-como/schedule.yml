@@ -61,7 +61,7 @@
       time: "09:30 - 11:00"
     - name: "Coffee Break"
       time: "11:00 - 11:30"
-    - name: "Chiara Binelli, University of Bologna (Title: TBC) ([Big Data: New Tricks for Econometrics (except the Section titled “Variable Selection”)](https://people.ischool.berkeley.edu/~hal/Papers/2013/ml.pdf)"
+    - name: "Chiara Binelli, University of Bologna (Title: TBC) ([Big Data: New Tricks for Econometrics (except the Section titled “Variable Selection”)](https://people.ischool.berkeley.edu/~hal/Papers/2013/ml.pdf), ([For those interested in the most advanced supervised ML technique](https://developers.google.com/machine-learning/crash-course/neural-networks)"
       time: "11:30 - 13:00"
     - name: "Lunch"
       time: "13:00 - 14:00"
