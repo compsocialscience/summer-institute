@@ -3,8 +3,9 @@
   events:
     - name: "09:00 - Breakfast - Welcome & Opening Remarks"
     - name: "09:15 - Academic Speed Dating"
-    - name: "10:00 - Workshop: NLP [G01]"
-    - name: "14:30 - Keynote: Mike Yeomans [G01]"
+    - name: "10:00 - Workshop: NLP"
+    - name: "14:30 - Keynote: Mike Yeomans"
+    - name: "15:30 - Coffee Break"
     - name: "16:00 - Keynote: J. Doyne Farmer [E28 Harrie Massey LT]"
     - name: "17:00 - Drinks!"
 
@@ -13,35 +14,39 @@
   name: ABMs, Good Research Questions
   events:
     - name: "09:30 - Coffee"
-    - name: "10:00 - Workshop: Agent-Based Modeling [G01]"
-    - name: "13:15 - Workshop: Good Research Questions [G01]"
+    - name: "10:00 - Workshop: Agent-Based Modeling"
+    - name: "13:15 - Workshop: Good Research Questions"
     - name: "14:30 - Keynote: Mirco Musolesi"
+    - name: "15:30 - Coffee Break"
     - name: "16:00 - Keynote: Sasha Vezhnevets"
 
 - date: June 18, 2025 # Wednesday
   name: Network Analysis, Group Formation
   events:
     - name: "09:30 - Coffee"
-    - name: "10:00 - Workshop: Networks [G01]"
+    - name: "10:00 - Workshop: Networks"
     - name: "13:15 - Group Organization"
     - name: "14:30 - Keynote: Milena Tsvetkova"
+    - name: "15:30 - Coffee Break"
     - name: "16:00 - Keynote: Sanaz Talaifar"
 
 - date: June 19, 2025 # Thursday
   name: LLM Agents, Group Project Work
   events:
     - name: "09:30 - Coffee"
-    - name: "10:00 - Workshop: LLM Agents [G01]"
+    - name: "10:00 - Workshop: LLM Agents"
     - name: "13:15 - Group Projects"
-    - name: "14:30 - Keynote: Stefania Innocenti [G01]"
+    - name: "14:30 - Keynote: Stefania Innocenti"
+    - name: "15:30 - Coffee Break"
     - name: "16:00 - Keynote: Jakob Foerster"
 
 - date: June 20, 2025 # Friday
   name: Final Content Day. Project Pitches
   events:
     - name: "09:30 - Coffee"
-    - name: "10:00 - Keynote: Pierpaolo Vivo [G01]"
-    - name: "11:15 - Keynote: Neave O'Clery [G01]"
+    - name: "10:00 - Keynote: Pierpaolo Vivo"
+    - name: "11:00 - Coffee Break"
+    - name: "11:15 - Keynote: Neave O'Clery"
     - name: "13:15 - Group Projects"
     - name: "14:30 - Project Pitch (3 min)"
     - name: "15:30 -       Free Afternoon"

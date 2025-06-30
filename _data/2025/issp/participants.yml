@@ -1,7 +1,12 @@
+- name: "Sylvère BAREGENSABE" 
+  image: /assets/images/SYLVERE_BAREGENSABE.jpg
+  bio: "Sylvère Baregensabe est titulaire d’un diplôme d’ingénieur statisticien de l’Université du Burundi et possède plus de 15 ans d’expérience dans la planification, la gestion, le suivi et l’évaluation de programmes et projets de développement, y compris en contexte humanitaire. Il a également acquis une expertise dans la gestion de la chaîne d’approvisionnement des produits de santé de la reproduction. Depuis juin 2015, il occupe le poste de chargé du suivi et de l’évaluation en santé de la reproduction à l’UNFPA Burundi, après un parcours débuté au sein d’ONG nationales puis au ministère de la Santé publique et de la lutte contre le Sida, au Programme National de Santé de la Reproduction. Membre de l’Association des Professionnels des Statisticiens du Burundi (APROSTAB), ses recherches portent sur les questions de population au Burundi, en particulier la fécondité, la planification familiale, l’inégalité entre les sexes, la santé maternelle ainsi que la santé sexuelle et reproductive des jeunes et des adolescents."
+  website: https://www.linkedin.com/in/sylvere-baregens-281645129/
+
 - name: "Peingwende Boris Jean-Sylvain Dianda"
   image: /assets/images/Boris_DIANDA.jpg
   bio: "Peingewende Boris Jean-Sylvain DIANDA est médecin au Service d’Aide Médicale Urgente (SAMU) de Ouagadougou, au Burkina Faso, et suit parallèlement une licence en statistique et informatique décisionnelle à l’Université Ouaga 3S. Ses centres d’intérêt portent sur l’application des méthodes de science des données aux problématiques de santé publique : optimisation des flux de patients en situation d’urgence, gestion hospitalière en contexte de saturation et analyse des systèmes de soins. Il a suivi plusieurs formations en médecine des catastrophes, en intervention d’urgence et en science des données appliquée à la santé. Son projet actuel vise à développer une application numérique destinée à améliorer le suivi et la gestion des lits d’hospitalisation dans les services d’urgence au Burkina Faso."
-  website: ""
+  website: 
 
 - name: "Kassoum Dianou"
   image: /assets/images/Kassoum_Dianou.JPG
@@ -16,7 +21,17 @@
 - name: "Grâce-Alice Enam Bladavi GUMEDZOE-HOSETO"
   image: /assets/images/Grâce_Alice_Enam_Bladavi.jpg
   bio: "Grâce-Alice Enam Bladavi GUMEDZOE-HOSETO est doctorante en santé communautaire à l’Université Joseph Ki-Zerbo, où elle étudie l’implication des agents de santé communautaire dans les programmes de lutte antivectorielle au Ghana, au Togo et au Burkina Faso. Titulaire d’un master en épidémiologie d’intervention, elle possède une solide expérience en santé publique de terrain, en recherches qualitative et quantitative, ainsi qu’en gestion de projets communautaires. Ses travaux s’attachent particulièrement à l’intégration des outils numériques et des approches computationnelles afin d’améliorer l’analyse des politiques de santé et de renforcer l’impact des interventions locales."
-  website: ""
+  website: 
+
+- name: "Fidèle IRANYIBUTSE" 
+  image: /assets/images/Iranyibutse_Fidele.jpg
+  bio: " Fidèle Iranyibutse est diplômé de l’Université du Burundi, où il a obtenu un diplôme d’Ingénieur Statisticien à la Faculté des Sciences Économiques et Administratives (FSEA). Depuis août 2010, il occupe le poste de statisticien-chercheur à l’Institut National de la Statistique du Burundi (INSBU). Spécialisé dans la réalisation de grandes enquêtes statistiques, il est impliqué dans l’organisation, la collecte, le traitement et l’analyse des données ainsi que dans la rédaction de rapports thématiques. Ses compétences ont été renforcées par une formation à l’Institut de Recherche pour le Développement (IRD) en France, axée sur le traitement et l’analyse des données d’enquêtes et de recensements, ainsi que par une formation à l’Université Libre de Bruxelles (ULB) en Belgique sur les Systèmes d’Information Géographique (SIG), qui lui confère une expertise dans la gestion des bases de données relationnelles et spatiales, ainsi que dans le traitement des données géospatiales et non spatiales."
+  website: 
+
+- name: "Pacifique kANEZA" 
+  image: /assets/images/Pacifique_KANEZA.JPG
+  bio: " KANEZA Pacifique est démographe à l’Institut National de la Statistique du Burundi et enseignant à temps partiel à l’Université du Burundi ainsi qu’auprès de plusieurs universités privées. Il intervient également comme consultant analyste pour le Recensement Général de la Population, de l’Habitat, de l’Agriculture et de l’Élevage. Titulaire d’un Master professionnel en démographie de l’Institut de Formation et de Recherche Démographiques (IFORD) de l’Université de Yaoundé II au Cameroun, ainsi que d’un baccalauréat en géographie, option aménagement, de l’Université du Burundi, ses travaux de recherche portent principalement sur le travail des enfants et la mesure du dividende démographique au Burundi."
+  website: 
 
 - name: "Attoumo Daniel Monehahue"
   image: /assets/images/Daniel_Attoumo.jpg
@@ -33,10 +48,15 @@
   bio: "Roy Nimbona est analyste de données et cadre en comptabilité nationale à l’Institut National de la Statistique du Burundi. Titulaire d’un master en Probabilité, Statistique et Modélisation de l’Université du Burundi, il a consacré son mémoire à l’application des méthodes bayésiennes pour le contrôle de la qualité. Au cours de ses stages, notamment au Bureau Burundais de Normalisation et de Contrôle de la Qualité, il a mené des recherches pour optimiser la collecte et la validation des données."
   website: http://www.linkedin.com/in/roy-nimbona-6427012b1
 
+- name: "Médiatrice NIYOMUKIZA" 
+  image: /assets/images/Mediatrice_KAMIKAZI.jpg
+  bio: "KAMIKAZI Médiatrice est démographe, spécialiste des statistiques sociales et du suivi du développement. Titulaire d’un master professionnel en démographie de l’IFORD à Yaoundé, elle occupe le poste de Cheffe du Service des études, des statistiques sociales et du suivi des indicateurs de développement à l’Institut National de la Statistique du Burundi (INSBU). Elle intervient dans la production et l’analyse des données sociales, le suivi des indicateurs de développement et la valorisation statistique au service des politiques publiques. Médiatrice Kamikazi enseigne également la statistique appliquée à temps partiel à l’Université Lumière de Bujumbura, où elle participe à la formation des étudiants en sciences sociales et statistiques."
+  website: 
+
 - name: "Willy NIYOMUKIZA"
   image: /assets/images/Niyomukiza_Willy.JPG
   bio: "Willy NIYOMUKIZA est employé à l’Institut National de la Statistique du Burundi, au sein du service de coordination et coopération statistique. Titulaire d’un baccalauréat en actuariat et d’un master en démographie de l’Institut de Formation et de Recherche Démographique, il enseigne à temps partiel à l’Université Publique du Burundi, où il dispense des cours d’actuariat et de démographie. Il intervient également à l’Université Lumière de Bujumbura et à l’Université des Grands."
-  website: ""
+  website: 
 
 - name: "François Xavier Ouedraogo"
   image: /assets/images/Xavier_ouedraogo.jpg
@@ -71,12 +91,12 @@
 - name: "George Tagang"
   image: /assets/images/georges_TAGANG.jpg
   bio: "George Tagang est titulaire d’une licence en mathématiques de l’Université de N’Djamena (Tchad), d’un diplôme en informatique de l’Institut Africain d’Informatique (IAI-Gabon) et d’un doctorat en démographie de l’Institut de Formation et de Recherche Démographiques de l’Université de Yaoundé II. Chercheur et consultant international, il a publié des articles sur le genre et la fécondité et contribue à un ouvrage collectif dans ce domaine."
-  website: ""
+  website: 
 
 - name: "Franck Élie Tougma"
   image: /assets/images/Tougma_Franck.jpg
   bio: "Franck Élie Tougma est étudiant en première année de master recherche en macroéconomie appliquée et finance internationale. Diplômé d’une licence en sciences économiques (option macroéconomie et gestion du développement), il prépare également un certificat en compétences informatiques à distance. Ses travaux portent sur les échanges commerciaux et les flux de capitaux au sein de l’AES, dans un contexte de terrorismes et d’insécurité."
-  website: ""
+  website: 
 
 - name: "Amidou Traoré"
   image: /assets/images/Amidou_Traore.JPEG
@@ -96,6 +116,4 @@
 - name: "Béné-wendé Odilon Isaïe Zoungrana"
   image: /assets/images/Odilon_ZOUNGRANA.jpeg
   bio: "Béné-wendé Odilon Isaïe Zoungrana est doctorant en mathématiques et informatique à l’Université Joseph Ki-Zerbo. Ses recherches portent sur l’intelligence artificielle, l’optimisation des itinéraires et les systèmes experts pour les bases de données SIG. Par ailleurs, il développe des applications métiers sur mesure pour répondre aux besoins opérationnels."
-  website: ""
-
-
+  website: 

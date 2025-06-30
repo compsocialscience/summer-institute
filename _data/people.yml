@@ -1,14 +1,15 @@
 faculty:
   title: Faculty
 
-speakers:
-  title: Speakers
-
 teaching_assistants:
   title: Teaching assistants
+  
+speakers:
+  title: Speakers
 
 participants:
   title: Participants
 
 Co-ordinators:
   title: Co-ordinators
+  

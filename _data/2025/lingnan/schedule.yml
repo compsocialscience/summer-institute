@@ -1,3 +1,7 @@
+- date: "notes"
+  events:
+    - name: "Venue: LBYG01, B. Y. Lam Building. Campus map: https://www.ln.edu.hk/ocdm/facilities/campus-map"
+
 - date: "June 16, 2025"
   events:
     - name: "10:00 - 12:30 Welcome & Data Collection 1: Selecting the Proper Sources and Tools"
@@ -26,7 +30,6 @@
   events:
     - name: "10:00 - 12:30 Image as Data I"
     - name: "14:00 - 16:30 Image as Data II"
-    - name: "17:00 - 18:20 Guest Lecture<br>Speaker: TBA"
 
 - date: "June 23, 2025"
   events:
@@ -58,7 +61,6 @@
 
 - date: "June 27, 2025"
   events:
-    - name: "10:00 - 11:20 Guest Lecture<br>Speaker: TBA"
     - name: "11:30 - 12:30 Group Presentations"
     - name: "14:00 - 16:30 Group Presentations"
     - name: "17:00 - 18:20 Dinner at Chinese Restaurant, Lingnan Campus"

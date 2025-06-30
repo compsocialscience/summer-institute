@@ -1,3 +1,7 @@
+- date: 'Course material *temporary location*'
+  events:
+    - name: '[https://drive.google.com/drive/folders/1dlKZlV44a7BJYGB8jVdG_XOrhyOpX018](https://drive.google.com/drive/folders/1dlKZlV44a7BJYGB8jVdG_XOrhyOpX018)'
+
 - date: 'Monday, June 23'
   events:
     - name: '9:00 - 9:30 Coffee'
@@ -7,7 +11,7 @@
     - name: '12:30 - 13:30 Lunch'
     - name: '13:30 - 15:30 Discovering Embeddings'
     - name: '15:30 - 16:30 Python Application'
-    - name: '17:15 - 18:30 Guest Talk by [Eunji Kim](https://www.eunjikim.pub/)'
+    - name: '17:15 - 18:30 Guest Talk by [Eunji Kim](https://www.eunjikim.pub/): "How social media creators shape mass politics: A field experiment during the 2024 US election"'
 
 - date: 'Tuesday, June 24'
   events:
@@ -20,26 +24,28 @@
 
 - date: 'Wednesday, June 25'
   events:
-    - name: '9:30 - 11:00 BERT: Principles, Uses, Fine-tuning Tricks'
-    - name: '11:00 - 11:30 Finding Models on Hugging Face'
-    - name: '11:30 - 12:30 Python Application'
-    - name: '12:30 - 13:30 Lunch'
-    - name: '13:30 - 16:30 Introduction to Active Tigger'
+    - name: '10:00 - 11:30 BERT: Principles, Uses, Fine-tuning Tricks'
+    - name: '11:30 - 12:00 Finding Models on Hugging Face'
+    - name: '12:00 - 13:00 Python Application'
+    - name: '13:00 - 14:00 Lunch'
+    - name: '14:00 - 17:00 Introduction to Active Tigger'
 
 - date: 'Thursday, June 26'
   events:
-    - name: '9:30 - 11:30 Introduction to Text Analysis in the Era of GPT'
-    - name: '11:30 - 12:30 Python Application: API Access, Structured Outputs'
-    - name: '12:30 - 13:30 Lunch'
-    - name: '13:30 - 15:00 Python Application: Annotation Zero-shot, Few-shot'
-    - name: '15:00 - 16:30 Python Application: Information Extraction'
+    - name: '10:00 - 12:00 Introduction to Text Analysis in the Era of GPT'
+    - name: '12:00 - 13:00 Python Application: API Access, Structured Outputs'
+    - name: '13:00 - 14:00 Lunch'
+    - name: '14:00 - 15:30 Python Application: Annotation Zero-shot, Few-shot'
+    - name: '15:30 - 17:00 Python Application: Information Extraction'
 
 - date: 'Friday, June 27'
   events:
-    - name: '9:30 - 10:30 BERT: Project and Data Management'
+    - name: '9:30 - 10:30 Project and Data Management'
     - name: '10:30 - 12:30 Group projects'
     - name: '12:30 - 13:30 Lunch'
-    - name: 'Afternoon: LLMs and Social Sciences - International Roundtable with [Bart Bonikowski](https://wp.nyu.edu/bonikowski/) (NYU), [Matthew Connelly](https://history.columbia.edu/person/connelly-matthew/) (Columbia), and scholars from CREST-IPP, Medialab and Paris-1'
+    - name: 'Afternoon: LLMs and Social Sciences - International Roundtable with [Bart Bonikowski](https://wp.nyu.edu/bonikowski/) (NYU), [Matthew Connelly](https://history.columbia.edu/person/connelly-matthew/) (Columbia), and scholars from CREST-IPP, Medialab and Paris-1. Registration (mandatory) [https://docs.google.com/forms/d/e/1FAIpQLSfhXENE6Pm9HbSRlyuX2cSi8jiDz4xll7jOju1IIrGGFf05Bw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfhXENE6Pm9HbSRlyuX2cSi8jiDz4xll7jOju1IIrGGFf05Bw/viewform).'
+    - name: 'Time: 14:00-18:30'
+    - name: 'Location: Goguel Amphitheater, 27 rue Saint Guillaume 75007 Paris.'
 
 - date: 'Monday, June 30'
   events:
@@ -49,7 +55,7 @@
 - date: 'Tuesday, July 1'
   events:
     - name: 'Remote Group Work'
-    - name: '13:00 Guest Talk by [Dirk Hovy](http://dirkhovy.com/)'
+    - name: '13:00 Guest Talk by [Dirk Hovy](http://dirkhovy.com/): "From Words to Culture: Unleashing NLP for Social Science Insights"'
 
 - date: 'Wednesday, July 2'
   events:

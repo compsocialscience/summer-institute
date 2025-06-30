@@ -53,9 +53,9 @@
   bio: "Yifei Huang is a Ph.D. student in Sociology and a Master's student in Data Science at Brown University. His research focuses on inequality, family, gender, and demography, using quantitative and computational methods."
   website: 
 
-- name: "Pinquan (Jasper) Jiang"
-  image: /assets/images/nyushanghai2025/photo_Pinquan Jiang.jpg
-  bio: "Jasper is an incoming M.A. student in Quantitative Methods and Social Analysis (QMSA) at the University of Chicago. He earned a dual degree in Smart Communication and Public Governance from Renmin University of China (RUC). His research interests include: (1) Trust, focusing on the construction of political trust and information trust; (2) Information consumption behavior, aiming to unravel the mysteries of behavioral choices; (3) Policy tools, dedicated to strategically design policy tools to achieve policy goals; (4) AI governance, focusing on AI policy-making, implementation and evaluation issues, and analyzing human-computer interaction from the behavioral psychology perspective. Methodologically, he is interested in behavioral experiments, case studies, and machine learning."
+- name: "Xin Jiang"
+  image: /assets/images/nyushanghai2025/photo_Xin Jiang.jpg
+  bio: "Xin Jiang is an assistant professor at Tulane University who studies crime and crime control. Her research focuses on why some people engage in criminal behavior while others do not. She uses quantitative methods to collect and analyze large datasets and identify patterns and factors that explain criminal behavior. Her research has been published in leading journals, including <i>Crime and Delinquency, Social Science Research, Journal of Criminal Justice, Journal of Interpersonal Violence, Journal of Youth and Adolescence, Asian Journal of Criminology</i>, and <i>Journal of Contemporary China</i>."
   website: 
 
 - name: "Antao Li"
@@ -118,6 +118,11 @@
   bio: "Qinyang Yu is a first-year M.S. student in Economics and Computation at Duke University. He earned his bachelor's degree in Economics with a Mathematics minor from the Chinese University of Hong Kong, Shenzhen. His research interests lie in the interplay of beliefs, information, and behavior across diverse social structures and institutional systems. His current work integrates computational and quantitative methods, including social network analysis, experimental design, game theory, and causal inference. He is also exploring NLP and generative AI, particularly for their applications in social media research."
   website: 
 
+- name: "Zhan Yu"
+  image: /assets/images/nyushanghai2025/photo_Zhan Yu.jpg
+  bio: "Zhan Yu is a Ph.D. candidate in Social Work and Social Policy at East China Normal University and a visiting doctoral researcher at the School of Social Work, University of Michigan. His research focuses on aging, digital inequality, and the application of computational methods in social policy analysis. Zhan has published in journals such as Research on Social Work Practice and the Journal of Gerontological Social Work, and has participated in national research projects addressing digital inclusion among older adults in China. His current work explores the use of text mining, topic modeling, and machine learning to evaluate digital policies and technology interventions. At SICSS-NYU Shanghai, he looks forward to further developing computational skills and collaborating with scholars who are passionate about using data science to address pressing social issues."
+  website: 
+
 - name: "Donglin Zeng"
   image: /assets/images/nyushanghai2025/photo_Donglin Zeng.jpg
   bio: "Donglin Zeng is an Assistant Professor in the School of Philosophy and Social Development, South China Normal University, Guangzhou, China. His research interests include neighborhood effects, segregation, geographic information system (GIS), and GeoAI. He applies spatiotemporal approach to capture exposure to social events in the residential neighborhoods and study the social consequences of exposure on the well-being of individuals. His work has previously appeared in <i>Social Forces, Social Science & Medicine, Journal of Ethnic and Migration Studies</i>, and <i>Health & Place</i>."
@@ -126,6 +131,11 @@
 - name: "Shuai Zhang"
   image: /assets/images/nyushanghai2025/photo_Shuai Zhang.jpg
   bio: "Shuai Zhang is a PhD candidate at the School of Mathematical Sciences, East China Normal University. His main research fields include educational data mining, machine learning and causal inference, and STEM education. He has published more than ten academic papers and participated in multiple national and provincial-level projects. He thanks the Center for Applied Social and Economic Research (CASER) at NYU Shanghai for the opportunity to learn and looks forward to learning from and exchanging ideas with teachers and classmates."
+  website: 
+
+- name: "Zoey Zhang"
+  image: /assets/images/nyushanghai2025/photo_Zoey Zhang.png
+  bio: "Zoey Zhang is an incoming PhD student in sociology at Stony Brook University. Her research interests lie at the intersection of cultural sociology, social transformation, computational social science, and quantitative analysis. She is currently focusing on studying identity formation under modernity, specifically, how the dynamics between national and local identities shift in the digital age under policy intervention, by leveraging computational text analysis methods."
   website: 
 
 - name: "Kai Zhao"
@@ -146,6 +156,11 @@
 - name: "Shuyan Zhou"
   image: /assets/images/nyushanghai2025/photo_Shuyan Zhou.JPG
   bio: "Shuyan Zhou is a master's student in the Department of Sociology at Columbia University. Before joining Columbia, she earned her bachelor's degree in sociology from Renmin University of China. Her research interests are at the intersection of gender and sexuality, cultural sociology, and science and technology studies (STS). Shuyan's primary work focuses on how scientific expertise is strategically used to negotiate gender classification in legal cases involving transgender athletes. She is also interested in reconciling Bourdieu's theory of symbolic power and feminist standpoint theory to understand gender inequality in sports. She uses both qualitative and quantitative methods for research."
+  website: 
+
+- name: "Xinyue Zhou"
+  image: /assets/images/nyushanghai2025/photo_Xinyue Zhou.png
+  bio: "Xinyue Zhou is a PhD student at the Department of Educational Administration and Policy, the Chinese University of Hong Kong. Her research interests include the emotions of teachers and parents, teacher AI literacy, and the ethics of artificial intelligence in education."
   website: 
 
 - name: "Yuhang Zhu"
