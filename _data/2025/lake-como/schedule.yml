@@ -234,17 +234,14 @@
       time: "12:00 - 13:00"
     - name: "Lunch"
       time: "13:00 - 14:00"
-
     - name: "Group presentations and discussion - Group IV"
       time: "14:00 - 15:00"
     - name: "Group presentations and discussion - Group V"
       time: "15:00 - 16:00"
     - name: "Group presentations and discussion - Group VI"
       time: "16:00 - 17:00"
-    - name: "Coffee Break"
-      time: "17:00 - 17:300"   
     - name: "Group presentations and discussion - Group VII"
-      time: "17:30 - 18:30"
+      time: "17:00 - 18:00"
 
 
 
