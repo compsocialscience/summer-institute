@@ -24,6 +24,13 @@
   modeling, but also project management, communication, and ethical decision-making." # Add faculty bio here.
 
 
+- name: "Davide Bassi" # Add faculty name here.
+  image: /assets/images/DavideBassi.jpeg  # Add faculty image to assets/images/ and update here.
+  bio: "Davide has a background in discursive psychology and mediation. He is currently pursuing a PhD in argumentation at the University of Santiago de Compostela as part of the Marie Curie Network Hybrids, which focuses on combining computer science and social science to study divisive political discourse.
+  Davide studied Anthropology and Psychology at the University of Bologna, then moved to the University of Padova where he obtained his master's degree in Clinical Psychology and a II level master's degree in Mediation.
+  He worked as a research fellow at the University of Padova, using computational social sciences to tackle community issues such as stigmatization, social cohesion and misinformation.
+His research uses argumentation and rhetorical theories to assess how political discourses impact users' interactions in social networks. Using these theoretical-methodological frameworks, he focuses his analysis on Euroscepticism and Immigration" # Add faculty bio here.
+  
 
 - name: "Rodrigo Bermudez Schettino" # Add faculty name here.
   image: /assets/images/rodrigo-bermudez-schettino - Rodrigo Bermudez Schettino.jpg  # Add faculty image to assets/images/ and update here.
