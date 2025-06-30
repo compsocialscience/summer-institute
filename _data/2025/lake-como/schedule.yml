@@ -225,11 +225,9 @@
     - name: "Participants gather and housekeeping announcements"
       time: "09:00 - 09:30"
     - name: "Group presentations and discussion - Group I"
-      time: "09:30 - 10:30"
+      time: "10:00 - 11:00"
     - name: "Group presentations and discussion - Group II"
-      time: "10:30 - 11:30"
-    - name: "Coffee Break"
-      time: "11:30 - 12:00" 
+      time: "11:00 - 12:00"
     - name: "Group presentations and discussion - Group III"
       time: "12:00 - 13:00"
     - name: "Lunch"
@@ -240,8 +238,6 @@
       time: "15:00 - 16:00"
     - name: "Group presentations and discussion - Group VI"
       time: "16:00 - 17:00"
-    - name: "Group presentations and discussion - Group VII"
-      time: "17:00 - 18:00"
 
 
 
