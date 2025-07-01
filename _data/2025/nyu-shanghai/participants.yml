@@ -53,11 +53,6 @@
   bio: "Yifei Huang is a Ph.D. student in Sociology and a Master's student in Data Science at Brown University. His research focuses on inequality, family, gender, and demography, using quantitative and computational methods."
   website: 
 
-- name: "Xin Jiang"
-  image: /assets/images/nyushanghai2025/photo_Xin Jiang.jpg
-  bio: "Xin Jiang is an assistant professor at Tulane University who studies crime and crime control. Her research focuses on why some people engage in criminal behavior while others do not. She uses quantitative methods to collect and analyze large datasets and identify patterns and factors that explain criminal behavior. Her research has been published in leading journals, including <i>Crime and Delinquency, Social Science Research, Journal of Criminal Justice, Journal of Interpersonal Violence, Journal of Youth and Adolescence, Asian Journal of Criminology</i>, and <i>Journal of Contemporary China</i>."
-  website: 
-
 - name: "Antao Li"
   image: /assets/images/nyushanghai2025/photo_Antao Li.jpeg
   bio: "Antao Li (李桉涛) is a Ph.D. student in Sociology at Fudan University. His research focuses on social stratification, labor markets, and computational social science. He has led the development of the China Socio-Economic Index (CSEI) and the China Labor Market Dynamics Data (CLMD), with work spanning web scraping, natural language processing, and statistical modeling. He is currently investigating how institutional contexts shape access to employment through cross-national comparisons of online job data."
@@ -66,11 +61,6 @@
 - name: "Chenxi Li"
   image: /assets/images/nyushanghai2025/photo_Chenxi Li.jpg
   bio: "Chenxi Li is an incoming DPhil student in Sociology at Nuffield College, University of Oxford. She holds an MPhil in Development Studies from the University of Cambridge and a BSc in Social Policy from the London School of Economics. Her research focuses on educational mismatch in China, examining how structural inequalities shape school-to-work outcomes and social class mobility. With a strong background in quantitative methods, she is particularly interested in exploring computational social science techniques and how they can be integrated into educational and labour market research."
-  website: 
-
-- name: "Luye Li"
-  image: /assets/images/nyushanghai2025/photo_Luye Li.jpg
-  bio: "Luye Li is an Assistant Professor of Criminal Justice, data scientist, and criminologist at Seton Hall University in New Jersey, United States. Prior to joining Seton Hall, she worked as a data scientist at the Center for Drug and Health Studies at the University of Delaware. Her research focuses on public opinion within the criminal justice system, police legitimacy and procedural justice, intimate partner violence (IPV), and quantitative research methods. Dr. Li has published in leading peer-reviewed journals, including <i>Journal of Criminology, Police: An International Journal, Police Practice and Research, Journal of Interpersonal Violence, Journal of Family Violence, Asian Journal of Criminology, Human Behavior and Emerging Technologies</i>, and <i>Criminal Justice Review</i>."
   website: 
 
 - name: "Yiran Liu"
@@ -128,11 +118,6 @@
   bio: "Donglin Zeng is an Assistant Professor in the School of Philosophy and Social Development, South China Normal University, Guangzhou, China. His research interests include neighborhood effects, segregation, geographic information system (GIS), and GeoAI. He applies spatiotemporal approach to capture exposure to social events in the residential neighborhoods and study the social consequences of exposure on the well-being of individuals. His work has previously appeared in <i>Social Forces, Social Science & Medicine, Journal of Ethnic and Migration Studies</i>, and <i>Health & Place</i>."
   website: 
 
-- name: "Shuai Zhang"
-  image: /assets/images/nyushanghai2025/photo_Shuai Zhang.jpg
-  bio: "Shuai Zhang is a PhD candidate at the School of Mathematical Sciences, East China Normal University. His main research fields include educational data mining, machine learning and causal inference, and STEM education. He has published more than ten academic papers and participated in multiple national and provincial-level projects. He thanks the Center for Applied Social and Economic Research (CASER) at NYU Shanghai for the opportunity to learn and looks forward to learning from and exchanging ideas with teachers and classmates."
-  website: 
-
 - name: "Zoey Zhang"
   image: /assets/images/nyushanghai2025/photo_Zoey Zhang.png
   bio: "Zoey Zhang is an incoming PhD student in sociology at Stony Brook University. Her research interests lie at the intersection of cultural sociology, social transformation, computational social science, and quantitative analysis. She is currently focusing on studying identity formation under modernity, specifically, how the dynamics between national and local identities shift in the digital age under policy intervention, by leveraging computational text analysis methods."
@@ -141,11 +126,6 @@
 - name: "Kai Zhao"
   image: /assets/images/nyushanghai2025/photo_Kai Zhao.jpg
   bio: "Kai Zhao is a Research Assistant Professor at the School of Graduate Studies, Lingnan University. Prior to joining Lingnan he was a research faculty at the Center for Postsecondary Success at Florida State University. He earned his PhD in Higher Education and Student Affairs from the Ohio State University. Dr. Zhao's research focuses on higher education policy and internationalization of higher education, with a particular emphasis on mainland China. His work has appeared in Higher Education, Studies in Higher Education, Higher Education Research & Development, AERA Open, Compare, and other academic journals. He is currently leading a GRF project on the implementation and consequences of China's research evaluation reform."
-  website: 
-
-- name: "Yi Zhao"
-  image: /assets/images/nyushanghai2025/photo_Yi Zhao.png
-  bio: "Yi Zhao is currently a Ph.D. student at the School of Communication and Information at Rutgers University. Her research focuses on political communication, with an emphasis on computational methods. She pursues two main lines of inquiry: (1) the flow of information across diverse media ecosystems, and (2) the role of identity in political communication."
   website: 
 
 - name: "Jingwei Zheng"
