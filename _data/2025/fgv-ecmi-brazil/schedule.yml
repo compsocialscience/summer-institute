@@ -20,13 +20,10 @@
     - name: "[Zoom](https://ide-fgv-br.zoom.us/j/91499188041?pwd=6aRo5X75b9h3bEHNmYbYkxQoKd4kaX.1)"
     - name: "10:00 - 10:15 Logistics and introduction to group exercise"
     - name: "10:15 - 11:30 Designing a Research Question (Small Groups)"
-    - name: "11:30 - 12:00 Phase 1: Discussing the Research Questions and Data (Everybody)"
-    - name: "12:00 - 12:30 Break"
-    - name: "12:30 - 1:00 Small group lunches (optional)"
-    - name: "1:00 - 1:15 Break"
-    - name: "1:15 - 2:30 Phase 2: Discussing Strengths & Benefits plus Hybrid Designs with Digital Trace Data (Small Groups)"
-    - name: "2:30 - 3:30 Discussing Strengths & Benefits plus Hybrid Designs"
-    - name: "3:30 - 3:45 Debrief and logistics"
+    - name: "11:30 - 12:15 Phase 1: Discussing the Research Questions and Data (Everybody)"
+    - name: "12:15 - 13:30 Break"
+    - name: "1:30 - 3:00 Phase 2: Discussing Strengths & Benefits plus Hybrid Designs with Digital Trace Data (Small Groups)"
+    - name: "3:00 - 3:45 Discussing Strengths & Benefits plus Hybrid Designs"
     - name: "3:45 - 4:00 Break"
     - name: "4:00 - 5:00 GUEST-SPEAKER: **Leonardo Nascimento**"
 
@@ -111,4 +108,6 @@
     - name: "14:00 - 4:00: Present group projects"
 
 - date: 2024-07-11
-  name: New event
+  name: Mesa Final
+  events: Zoom
+    - name: "14:30 - Dalson Figueiredo, Leonardo Nascimento, Thiago Nicodemo, Murilo Junqueira, Victor Piaia"
