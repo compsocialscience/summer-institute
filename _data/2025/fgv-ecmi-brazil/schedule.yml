@@ -31,10 +31,10 @@
   name:  Automated Text Analysis
   events:
     - name: "[Zoom](https://ide-fgv-br.zoom.us/j/91499188041?pwd=6aRo5X75b9h3bEHNmYbYkxQoKd4kaX.1)"
-    - name: "10:00 - 10:15"
+    - name: "10:00 - 10:15 Logistics and introduction"
     - name: "10:15 - 11:30 Workshop: Automated Text Analysis - Felipe Marques Esteves Lamarca"
     - name: "11:30 - 13:30 Break"
-    - name: "1:30 - 3:00 Workshop: Search Sintax - Maria Sirleidy Cordeira"
+    - name: "1:30 - 3:00 Workshop: Search Sintax - Maria Sirleidy Cordeiro"
     - name: "3:30 - 4:00 Debrief and logistics"
     - name: "4:00 - 5:00"
 
