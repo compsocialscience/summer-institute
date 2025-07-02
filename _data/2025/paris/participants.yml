@@ -28,6 +28,10 @@
   bio: "Vitor Barros is a doctoral candidate in Sociology at the University of Bonn (Germany). He works at the intersection of historical sociology and social history and is interested in LLMs and computational social science as tools for reimagining archival and sociohistorical research."  # Add participant bio here.
   # website: https://www.google.com  # Link participant website here.
 
+- name: "Hamza Belgroun"
+  image: /assets/images/belgroun.jpg
+  bio: "Hamza Belgroun is a Master’s student in Public Policy at Sciences Po Paris. He holds an “Ingénieur Polytechnicien” degree from École polytechnique with a major in Economics and a Bachelor’s degree in Pure Mathematics from the University of Toulouse. His current research focuses on the relevance of taxation for regulating the attention economy."
+
 - name: "Jeanne Bollée" # Replace with participant name.
   image: /assets/images/bollee.png  # Add participant image to assets/images/ and update here.
   bio: "After a bachelor in social sciences and humanities, I obtained my Masters in Cognitive Science in 2023 and I started my PhD last September, aiming at quantifying how much a text talks about its characters’ mental states, their thoughts, intentions and emotions and investigating whether this interest in interiority varies between societies and epochs. I am currently evaluating LLM-based techniques and I am looking forward to exchanging about the opportunities and pitfalls of these tools. I am interested more broadly in topics of cultural evolution or how we can explain traditions, institutions, beliefs and how they persist or change with time."  # Add participant bio here.
