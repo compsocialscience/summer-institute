@@ -28,11 +28,6 @@
   bio: " Fidèle Iranyibutse est diplômé de l’Université du Burundi, où il a obtenu un diplôme d’Ingénieur Statisticien à la Faculté des Sciences Économiques et Administratives (FSEA). Depuis août 2010, il occupe le poste de statisticien-chercheur à l’Institut National de la Statistique du Burundi (INSBU). Spécialisé dans la réalisation de grandes enquêtes statistiques, il est impliqué dans l’organisation, la collecte, le traitement et l’analyse des données ainsi que dans la rédaction de rapports thématiques. Ses compétences ont été renforcées par une formation à l’Institut de Recherche pour le Développement (IRD) en France, axée sur le traitement et l’analyse des données d’enquêtes et de recensements, ainsi que par une formation à l’Université Libre de Bruxelles (ULB) en Belgique sur les Systèmes d’Information Géographique (SIG), qui lui confère une expertise dans la gestion des bases de données relationnelles et spatiales, ainsi que dans le traitement des données géospatiales et non spatiales."
   website: 
 
-- name: "Pacifique kANEZA" 
-  image: /assets/images/Pacifique_KANEZA.JPG
-  bio: " KANEZA Pacifique est démographe à l’Institut National de la Statistique du Burundi et enseignant à temps partiel à l’Université du Burundi ainsi qu’auprès de plusieurs universités privées. Il intervient également comme consultant analyste pour le Recensement Général de la Population, de l’Habitat, de l’Agriculture et de l’Élevage. Titulaire d’un Master professionnel en démographie de l’Institut de Formation et de Recherche Démographiques (IFORD) de l’Université de Yaoundé II au Cameroun, ainsi que d’un baccalauréat en géographie, option aménagement, de l’Université du Burundi, ses travaux de recherche portent principalement sur le travail des enfants et la mesure du dividende démographique au Burundi."
-  website: 
-
 - name: "Attoumo Daniel Monehahue"
   image: /assets/images/Daniel_Attoumo.jpg
   bio: "Daniel Attoumo MONEHAHUE est doctorant en sociologie à l’Université Peleforo Gon Coulibaly de Korhogo (Côte d’Ivoire), où il mène des recherches au sein du Département de Sociologie et d’Anthropologie. Titulaire d’un master en sociologie de l’environnement et de la santé de la même institution, sa thèse explore les logiques écologiques et économiques qui sous-tendent l'engagement des travailleurs migrants dans l’agriculture urbaine et périurbaine à Abidjan. Il est affilié au Réseau de Recherche sur la Migration et le Changement Climatique en Afrique (RRCMA) et au Réseau des Doctorants Africains et de la Diaspora (RESDAD)."
@@ -43,21 +38,6 @@
   bio: "Chirac MUGISHA est assistant en gestion de l’information et de la communication auprès de l’UNFPA au Burundi. Il traite quotidiennement des données sur la mortalité maternelle, les tendances démographiques et les violences basées sur le genre, et produit des cartes SIG et des tableaux de bord Power BI pour éclairer les opérations humanitaires."
   website: https://www.linkedin.com/in/chirac-mugisha-865311218/
 
-- name: "Roy NIMBONA"
-  image: /assets/images/Roy_Nimbona.jpg
-  bio: "Roy Nimbona est analyste de données et cadre en comptabilité nationale à l’Institut National de la Statistique du Burundi. Titulaire d’un master en Probabilité, Statistique et Modélisation de l’Université du Burundi, il a consacré son mémoire à l’application des méthodes bayésiennes pour le contrôle de la qualité. Au cours de ses stages, notamment au Bureau Burundais de Normalisation et de Contrôle de la Qualité, il a mené des recherches pour optimiser la collecte et la validation des données."
-  website: http://www.linkedin.com/in/roy-nimbona-6427012b1
-
-- name: "Médiatrice NIYOMUKIZA" 
-  image: /assets/images/Mediatrice_KAMIKAZI.jpg
-  bio: "KAMIKAZI Médiatrice est démographe, spécialiste des statistiques sociales et du suivi du développement. Titulaire d’un master professionnel en démographie de l’IFORD à Yaoundé, elle occupe le poste de Cheffe du Service des études, des statistiques sociales et du suivi des indicateurs de développement à l’Institut National de la Statistique du Burundi (INSBU). Elle intervient dans la production et l’analyse des données sociales, le suivi des indicateurs de développement et la valorisation statistique au service des politiques publiques. Médiatrice Kamikazi enseigne également la statistique appliquée à temps partiel à l’Université Lumière de Bujumbura, où elle participe à la formation des étudiants en sciences sociales et statistiques."
-  website: 
-
-- name: "Willy NIYOMUKIZA"
-  image: /assets/images/Niyomukiza_Willy.JPG
-  bio: "Willy NIYOMUKIZA est employé à l’Institut National de la Statistique du Burundi, au sein du service de coordination et coopération statistique. Titulaire d’un baccalauréat en actuariat et d’un master en démographie de l’Institut de Formation et de Recherche Démographique, il enseigne à temps partiel à l’Université Publique du Burundi, où il dispense des cours d’actuariat et de démographie. Il intervient également à l’Université Lumière de Bujumbura et à l’Université des Grands."
-  website: 
-
 - name: "François Xavier Ouedraogo"
   image: /assets/images/Xavier_ouedraogo.jpg
   bio: "François Xavier Ouedraogo est doctorant en mathématiques appliquées à l’Université Joseph Ki-Zerbo, où il se spécialise en gestion des risques financiers et assurantiels. Ses recherches actuelles portent sur la modélisation stochastique des cyber risques, en particulier via les processus de naissance pure et les copules. Parallèlement, il a conçu des modèles de scoring pour l’évaluation du risque de crédit et l’aide à la décision."
@@ -67,11 +47,6 @@
   image: /assets/images/ouily_harouna.png
   bio: "Harouna Ouily est consultant-formateur au Cabinet de Recherche et d’Études en Santé et en Démographie (CARESAD). Titulaire de deux masters (data science et économie), il a contribué à l’étude d’évaluation d’impact du projet GATE menée à l’ISSP en 2024. Ses recherches portent sur la santé mentale des femmes vulnérables et l’application du machine learning aux inégalités sociales."
   website: www.linkedin.com/in/harouna-ouily-7487231b3
-
-- name: "Yann Alexandre SAVADOGO"
-  image: /assets/images/SAVADOGO_Yann.jpg
-  bio: "Yann Alexandre SAVADOGO est statisticien burkinabè, titulaire d’un master en Ingénierie Statistique et Économie de l’Université Thomas SANKARA. Ses recherches portent sur la gouvernance, les inégalités de revenus et l’accès aux services sociaux de base au Burkina Faso. Actuellement statisticien stagiaire SIG au Programme d’Urgence, de Développement Territorial et de Résilience (PUDTR), il est impliqué dans la digitalisation des questionnaires, la vérification des données, ainsi que l’analyse et la production de rapports et de cartes."
-  website: https://www.linkedin.com/in/yann-alexandre-savadogo-5b4277199/
 
 - name: "Pengdewendé Maurice Sawadogo"
   image: /assets/images/Maurice_Sawadogo.png
@@ -87,26 +62,6 @@
   image: /assets/images/Soma_Djakaridja.jpg
   bio: "Djakaridia Soma est data steward chez Orange Burkina et consultant à l’ISSP, spécialisé en ingénierie des données et intelligence artificielle. Formé à l’École supérieure multinationale des télécommunications de Dakar, il développe un chatbot intelligent pour évaluer la performance et formuler des recommandations."
   website: https://github.com/SomaDjakiss/Churns
-
-- name: "George Tagang"
-  image: /assets/images/georges_TAGANG.jpg
-  bio: "George Tagang est titulaire d’une licence en mathématiques de l’Université de N’Djamena (Tchad), d’un diplôme en informatique de l’Institut Africain d’Informatique (IAI-Gabon) et d’un doctorat en démographie de l’Institut de Formation et de Recherche Démographiques de l’Université de Yaoundé II. Chercheur et consultant international, il a publié des articles sur le genre et la fécondité et contribue à un ouvrage collectif dans ce domaine."
-  website: 
-
-- name: "Franck Élie Tougma"
-  image: /assets/images/Tougma_Franck.jpg
-  bio: "Franck Élie Tougma est étudiant en première année de master recherche en macroéconomie appliquée et finance internationale. Diplômé d’une licence en sciences économiques (option macroéconomie et gestion du développement), il prépare également un certificat en compétences informatiques à distance. Ses travaux portent sur les échanges commerciaux et les flux de capitaux au sein de l’AES, dans un contexte de terrorismes et d’insécurité."
-  website: 
-
-- name: "Amidou Traoré"
-  image: /assets/images/Amidou_Traore.JPEG
-  bio: "Titulaire d’un Master 2 en Méthodes Statistiques et Économétriques de l’Université Cheikh Anta Diop de Dakar et d’une maîtrise en Analyse Quantitative et Politique Économique de l’Université de Bamako, Amidou Traoré est Responsable Suivi, Évaluation et Apprentissage au National Democratic Institute (NDI). Il possède une vaste expérience dans le suivi et l’évaluation de programmes financés par l’USAID, l’Union Européenne et la coopération suédoise."
-  website: https://www.linkedin.com/in/amidou-traore1497b5130/
-
-- name: "Lassana Toure"
-  image: /assets/images/Lassana_TOURE.jpg
-  bio: "Dr Lassana TOURE est enseignant-chercheur à la Faculté des Sciences Économiques et de Gestion de Bamako et consultant indépendant. Spécialiste en économie rurale, suivi-évaluation et développement durable, il intervient depuis 2016 dans la gestion de projets, l’analyse de données et l’évaluation d’impact, et publie régulièrement sur l’entrepreneuriat vert."
-  website: https://www.linkedin.com/in/dr-lassana-toure-7773199b/
 
 - name: "Armel Tiessouma Théodore Zerbo"
   image: /assets/images/Armel_T_Théodore_ZERBO.JPG

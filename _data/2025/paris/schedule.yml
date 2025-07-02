@@ -20,7 +20,7 @@
     - name: '12:30 - 13:30 Lunch'
     - name: '13:30 - 14:30 Introduction to Transformers'
     - name: '14:30 - 15:30 Regular Expressions'
-    - name: '17:15 - 18:30 Guest Talk by [Jan G. Voelkel](https://www.jangvoelkel.com/)'
+    - name: '17:15 - 18:30 Guest Talk by [Jan G. Voelkel](https://www.jangvoelkel.com/): "Solution-Oriented Computational Social Science: The Case of Political Polarization"'
 
 - date: 'Wednesday, June 25'
   events:
@@ -60,7 +60,7 @@
 - date: 'Wednesday, July 2'
   events:
     - name: 'Remote Group Work'
-    - name: '15:30 Guest Talk by [Austin van Loon](https://www.austinvanloon.com/)'
+    - name: '15:30 Guest Talk by [Austin van Loon](https://www.austinvanloon.com/): "The Use of LLMs in Social Science Experiments"'
 
 - date: 'Thursday, July 3'
   events:
