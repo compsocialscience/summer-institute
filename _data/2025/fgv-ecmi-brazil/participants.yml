@@ -1,4 +1,9 @@
-- name: "Cleiane Gonçalves Oliveira" # Replace with participant name.
+- name: "Ana Virgínia Menezes Torga" # Replace with participant name.
+  image: /assets/images/ana_torga_sicss_br.png # Add participant image to assets/images/ and update here.
+  bio: "Researcher with attention focused on digital, the environment and sociability on social media. PhD student in Sociology in the Postgraduate Program in Social Sciences (PPGCS) at the University Federal of Bahia (UFBA). Editor of the Prelúdios Magazine, a scientific publication of the Postgraduate Program in Social Sciences at the UFBA. I am part of the PERIFÉRICAS research group - Center for Studies in Social Theories, Modernities and Colonialities - at Postgraduate Program in Social Sciences (PPGCS) da UFBA and I am a member of LABLIVRE - Laboratory of Free Technologies - of the University Federal of ABC (UFABC)."  # Add participant bio here.
+ # website: https://www.google.com  # Link participant website here.
+ 
+ - name: "Cleiane Gonçalves Oliveira" # Replace with participant name.
   image: /assets/images/cleiane_sicss_br.jpeg # Add participant image to assets/images/ and update here.
   bio: "Master's degree in computer science and bachelor's degree in Information Systems. PhD student in Health Sciences at Unimontes where he applies machine learning and data science to health data. Computer teacher at IFNMG - Januária Campus. Recent research is focused on applying machine learning to health data to better understand tropical diseases and help define public policies."  # Add participant bio here.
  # website: https://www.google.com  # Link participant website here.
@@ -26,6 +31,21 @@
 - name: "Murilo Motta" # Replace with participant name.
   image: /assets/images/mutilo_mota_sicss_br.JPG # Add participant image to assets/images/ and update here.
   bio: "Murilo Motta is a doctoral researcher at the Institute of International Relations at the University of São Paulo. His research focuses on defense, security, and politics in Latin America."  # Add participant bio here.
+ # website: https://www.google.com  # Link participant website here.
+
+- name: "Natália Campos de Souza Pimenta" # Replace with participant name.
+  image: /assets/images/natalia_pimenta_sciss_br.png # Add participant image to assets/images/ and update here.
+  bio: "Natália Pimenta is an incoming Ph.D. student in Political Science at Northwestern University, beginning in Fall 2025, where she will specialize in Comparative Politics and International Relations. Her research focuses on Latin American politics, particularly the interaction between foreign policy and public opinion in contexts of democratic backsliding. She is also especially interested in research methods, including multi-method designs, causal inference, and applied statistics. Natália holds a Law degree from the Federal University of Minas Gerais (UFMG), where she developed a strong academic foundation in Constitutional and International Law. At Northwestern, she will also be a Mellon Cluster Fellow in the Latin American and Caribbean Studies Cluster, supporting her interdisciplinary engagement with the region."  # Add participant bio here.
+ # website: https://www.google.com  # Link participant website here.
+
+- name: "Raphael Santos Lapa" # Replace with participant name.
+  image: /assets/images/raphael_lapa_sciss_br.png # Add participant image to assets/images/ and update here.
+  bio: "PhD in Sociology from the University of Brasília (UnB), with a focus on the Sociology of Work. Holds a Master’s degree in Human Rights and Citizenship (UnB), with research in Critical Theory of Human Rights and Ethics. Bachelor's and teaching degree in Philosophy (UnB), with research in Metaphysics, Philosophy of Science, and Philosophy of Religion. Currently researches the fields of Sociology of Work, Ethics, Neoliberalism, Entrepreneurship, and the Sociology of Morality."  # Add participant bio here.
+ # website: https://www.google.com  # Link participant website here.
+
+- name: "Renata Seade Bastos" # Replace with participant name.
+  image: /assets/images/Renata_seade_sicss_br.jpeg # Add participant image to assets/images/ and update here.
+  bio: "Master's student in Communication at the Federal University of Rio de Janeiro (UFRJ), with a degree in Geography from the Fluminense Federal University (UFF). She works as an assistant researcher at the Laboratory of Internet and Social Network Studies (NetLab/UFRJ), focusing on studies related to gender and hate speech"  # Add participant bio here.
  # website: https://www.google.com  # Link participant website here.
 
 - name: "Ulisses Levy Silvério dos Reis" # Replace with participant name.
