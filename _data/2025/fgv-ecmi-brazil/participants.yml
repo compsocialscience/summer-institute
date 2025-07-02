@@ -3,6 +3,11 @@
   bio: "Master's degree in computer science and bachelor's degree in Information Systems. PhD student in Health Sciences at Unimontes where he applies machine learning and data science to health data. Computer teacher at IFNMG - Januária Campus. Recent research is focused on applying machine learning to health data to better understand tropical diseases and help define public policies."  # Add participant bio here.
  # website: https://www.google.com  # Link participant website here.
 
+- name: "Daphane Leilane da Silva" # Replace with participant name.
+  image: /assets/images/Daphane_sicss_br.jpg # Add participant image to assets/images/ and update here.
+  bio: "Daphane Silva is a Master's student in Information Science and holds a Bachelor's degree in Journalism from the Federal University of Alagoas (Ufal). She is currently an Assistant Researcher at NetLab, the research laboratory of the School of Communication of the Federal University of Rio de Janeiro (UFRJ). Her research projects are related to socio-environmental misinformation on social media platforms, identifying the presence of denialist and conspiratorial strategies regarding environmental issues in the online ecosystem."  # Add participant bio here.
+ # website: https://www.google.com  # Link participant website here.
+ 
 - name: "João Augusto Faustino da Silva " # Replace with participant name.
   image: /assets/images/joao_faustino_sicss_br.jpg # Add participant image to assets/images/ and update here.
   bio: "João Augusto Faustino da Silva is a journalist and a master's student in Communication at São Paulo State University (UNESP). He works in the fields of political communication, gender representation, and accessibility, with experience in research, outreach, and the production of inclusive content. He is currently conducting studies on digital media and communication practices focused on diversity."  # Add participant bio here.
@@ -11,6 +16,11 @@
 - name: "Leonardo Thibau Teixeira de Moraes" # Replace with participant name.
   image: /assets/images/Leo_Thibau_Perfil_Academia.png # Add participant image to assets/images/ and update here.
   bio: "Master's student in Sociology at PPGCS/UFBA. CNPq research fellow at LABHDUFBA. Undergraduate student in Social Sciences and Bachelor's degree in Humanities from UFBA (2020). Former PIBIC fellow at the Laboratory of Science, Technology, and Society (LABCTS) and participant in the Seminar on Introduction to Psychoanalytic Theory (SIPSI) in 2019."  # Add participant bio here.
+ # website: https://www.google.com  # Link participant website here.
+
+- name: "Murilo Motta" # Replace with participant name.
+  image: /assets/images/mutilo_mota_sicss_br.JPG # Add participant image to assets/images/ and update here.
+  bio: "Murilo Motta is a doctoral researcher at the Institute of International Relations at the University of São Paulo. His research focuses on defense, security, and politics in Latin America."  # Add participant bio here.
  # website: https://www.google.com  # Link participant website here.
 
 - name: "Ulisses Levy Silvério dos Reis" # Replace with participant name.
