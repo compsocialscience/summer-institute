@@ -68,10 +68,10 @@
 #  bio: "Khanyisa Mbunga is currently undertaking her PhD in Demography and Population Studies at the University of the Witwatersrand (Wits). She is actively engaged in developing her doctoral research topic and refining her interests within this field. Khanyisa earned her Master of Philosophy in Population Studies (Magna Cum Laude) from the University of the Western Cape (UWC)."  # Add participant bio here.
 #  website: https://www.google.com  # Link participant website here.
 
-- name: "Themba Mnguni" # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: "Themba is a post-doctoral fellow at the Wits Media Studies Department. My research interest is focused on the preservation of Indigenous languages through the use of AI and its Large Language Models and Natural Language Processing technology to preserve cultural heritage and language diversity in the global south."  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+#- name: "Themba Mnguni" # Replace with participant name.
+#  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+#  bio: "Themba is a post-doctoral fellow at the Wits Media Studies Department. My research interest is focused on the preservation of Indigenous languages through the use of AI and its Large Language Models and Natural Language Processing technology to preserve cultural heritage and language diversity in the global south."  # Add participant bio here.
+#  website: https://www.google.com  # Link participant website here.
       
 #- name: "Tsele Moloi" # Replace with participant name.
 #  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
