@@ -34,7 +34,7 @@
       time: "09:00 - 09:30"
     - name: "Chen Peng, Bocconi University (Replicating conjoint experiments with LLMs)"
       time: "09:30 - 10:15"
-    - name: "Lorenzo Lupo, Bocconi University (SimBench: Benchmarking the Ability of Large Language Models to Simulate Human Behaviours)"
+    - name: "Lorenzo Lupo, Bocconi University (SimBench: Benchmarking the Ability of Large Language Models to Simulate Human Behaviours) ([Slides](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/_data/2025/lake-como/simbench_SICSS_2025.pdf))"
       time: "10:15 - 11:00"
     - name: "Coffee Break"
       time: "11:00 - 11:30"
