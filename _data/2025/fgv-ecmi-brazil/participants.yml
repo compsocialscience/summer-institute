@@ -28,6 +28,16 @@
   bio: "Master's student in Sociology at PPGCS/UFBA. CNPq research fellow at LABHDUFBA. Undergraduate student in Social Sciences and Bachelor's degree in Humanities from UFBA (2020). Former PIBIC fellow at the Laboratory of Science, Technology, and Society (LABCTS) and participant in the Seminar on Introduction to Psychoanalytic Theory (SIPSI) in 2019."  # Add participant bio here.
  # website: https://www.google.com  # Link participant website here.
 
+- name: "Marcelo Pereira" # Replace with participant name.
+  image: /assets/images/marcelo_pereira_sicss_br.png # Add participant image to assets/images/ and update here.
+  bio: "Marcelo Pereira is the executive secretary of the Office for Science Communication at UFMG. He holds a Master's degree and is a PhD candidate in Sociology (UFMG), with a Master 1 in Latin American Studies (Paris 3 – Sorbonne-Nouvelle). He is a member of the INCITE and INCT-CPCT research groups, working in Science and Technology Studies, with interests in public perceptions of science and science communication."  # Add participant bio here.
+ # website: https://www.google.com  # Link participant website here.
+
+- name: "Maria Helena Mattos da Silva" # Replace with participant name.
+  image: /assets/images/helena_mattos_sicss_br.jpg # Add participant image to assets/images/ and update here.
+  bio: "Helena Mattos is a social scientist, PhD candidate in Anthropology, and researcher of the life and work of Cheikh Anta Diop. She works with document analysis and has research interests in Africa and the diaspora, digital humanities, and the political uses of the past, among other related topics. She is a member of the AI Working Group at Fluminense Federal University (UFF) and collaborates as a translator for Global Voices. She is currently studying French and Wolof."  # Add participant bio here.
+ # website: https://www.google.com  # Link participant website here.
+ 
 - name: "Murilo Motta" # Replace with participant name.
   image: /assets/images/mutilo_mota_sicss_br.JPG # Add participant image to assets/images/ and update here.
   bio: "Murilo Motta is a doctoral researcher at the Institute of International Relations at the University of São Paulo. His research focuses on defense, security, and politics in Latin America."  # Add participant bio here.
@@ -53,4 +63,8 @@
   bio: "Ulisses Levy Silvério dos Reis. Professor of Constitutional Law and Electoral Law at the Federal Rural University of the Semi-Arid (UFERSA), where he also serves as a permanent faculty member in the Graduate Program in Law. He holds a Ph.D. in Constitutional Law from the Federal University of Ceará (PPGD/UFC). His academic interests focus on empirical assessments of the functioning of judicial courts. His research explores the implementation of fundamental rights and its implications for republican institutions and civil society."  # Add participant bio here.
  # website: https://www.google.com  # Link participant website here.
 
+- name: "Vinicius Moraes da Cunha" # Replace with participant name.
+  image: /assets/images/vinicis_cunha_sicss_br.jpg # Add participant image to assets/images/ and update here.
+  bio: "Vinicius Moraes da Cunha, is a PhD student in Public Administration and Government at Fundação Getúlio Vargas. Previously, I was a visiting researcher at the University of Pittsburgh, affiliated with the Center for Latin American Studies and the Department of Political Science. I hold an MBA in Data Science and Analytics from USP/Esalq, as well as a Bachelor's and a Master's degree in History from USP. Currently, I have been researching interest groups in the Brazilian Chamber of Deputies and the political economy of climate change."  # Add participant bio here.
+ # website: https://www.google.com  # Link participant website here.
 # Add more participants with the same format as above...

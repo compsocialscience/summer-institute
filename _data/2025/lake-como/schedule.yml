@@ -95,7 +95,7 @@
       time: "16:00 - 16:30"
     - name: "Solutions to group exercise and discussion"
       time: "16:30 - 17:30"
-    - name: "Douglas Guilbeault, Stanford University (Micro Divergence, Macro Convergence: Lessons from LLM Replications) ([Slides](https://docs.google.com/presentation/d/1R4QzJjEIrcV9nzDmh3WBTXufvog68CCI/edit?slide=id.p1#slide=id.p1))"
+    - name: "Douglas Guilbeault, Stanford University (Micro Divergence, Macro Convergence: Lessons from LLM Replications) ([Slides](https://docs.google.com/presentation/d/1wvdCOETJuOzgwMUA0qfCEQyiVuwWsJXM/edit?slide=id.p1#slide=id.p1))"
       time: "17:30-19:00"
 
 
@@ -171,11 +171,11 @@
   events:
     - name: "Participants gather and housekeeping announcements"
       time: "09:00 - 09:30"
-    - name: "Beatrice Franzolini, Bocconi University (Decoding Connections: A Hands-on Workshop in Network Data Analysis)"
+    - name: "Beatrice Franzolini, Bocconi University (Decoding Connections: A Hands-on Workshop in Network Data Analysis) ([Slides](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/_data/2025/lake-como/DecodingConnections_Beatrice_Franzolini_slides.pdf))"
       time: "09:30 - 11:00"
     - name: "Coffee Break"
       time: "11:00 - 11:30"
-    - name: "Group exercise (B. Franzolini, Z. Aghamohammadi)"
+    - name: "Group exercise (B. Franzolini, Z. Aghamohammadi), ([Code](file:///Users/zhina/Downloads/DecodingConnections_Betrice_Franzolini_lab.html))"
       time: "11:30 - 13:00"
     - name: "Lunch"
       time: "13:00 - 14:00"

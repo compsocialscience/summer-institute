@@ -1,3 +1,71 @@
-- name: Example, TBD University
-  image: /assets/images/placeholder.jpg
-  bio: example, more soon!
+- name: Cai Mengxuan, National University of Singapore
+  image: /assets/images/Mengxuan.Cai.jpg
+  bio: Mengxuan Cai (PhD) is a Research Fellow at the Centre for Trusted Internet Community, National University of Singapore. Her research spans political communication, gender, social media, misinformation and AI.
+
+- name: Chang Fangyuan, Shanghai Jiao Tong University
+  image: /assets/images/Fangyuan.Chang.jpg
+  bio: My research interest lies at the intersection between Human-Computer Interaction (HCI), Digital Ethnography and Studies of Technology and Society (STS). Through interdisciplinary methods, I strive to unravel the complexities inherent in the mutual shaping of humans/non-humans and technologies within daily practices. I have been actively involved in research related to the design, evaluation, and application of sensor-based technologies (e.g. Social Robots, Wearables, VR/AR) in long-term care and rural culture.
+  website: https://fangyuanmistro.github.io/about.html
+
+- name: Chen Boying, Tsinghua University
+  image: /assets/images/Boying.Chen.png
+  bio: I am a PhD student in School of Journalism and Communication at Tsinghua University. My research explores government response strategies, digital public engagement, and computational methods in communication. 
+
+- name: Chen Chen, Nanyang Technological University
+  image: /assets/images/Chen.Chen.NTU.jpg
+  bio: Hi! My name is Pauline. I’m a third-year PhD student at NTU, specialising in HCI. Before starting my PhD, I completed a Master’s degree in Data Science and Machine Learning at UCL and worked for about four years in industry as a Data Scientist. My current research focuses on deepfake detection and education. I investigate how human-AI collaboration can enhance individuals’ ability to recognise and respond to synthetic media. I’m particularly interested in designing interactive systems and educational tools that empower users to combat misinformation like deepfakes in the digital age.
+
+- name: Dong Ruohong, University of Florida
+  image: /assets/images/Dong.Ruohong.jpg
+  bio: I am a PhD student in sociology department, specializing computational sociology, health and demography. I apply NLP and statistical methods to investigate health, aging and social inequalities. I have experience in textual analysis and am committed to interdisciplinary approaches to explore social science insights. In my leisure time, I enjoy cooking and golfing. 
+
+- name: Inakoti Veera Prasad, Central University of Andhra Pradesh
+  image: /assets/images/I.V.Prasad.jpg
+  bio: Dr. Inakoti Veera Prasad is an Assistant Professor in the Department of Computational Social Science at Central University of Andhra Pradesh (CUAP), India. He holds an M.Phil and Ph.D in Population Studies from the International Institute for Population Sciences (IIPS), Mumbai. His research interests include Mobility, Migration, Social Networks, Urban Development, Gender, and Public Policy.  
+  website: https://cuap.ac.in/dr-inakoti-veera-prasad/
+
+- name: Li Qian, Arizona State University
+  image: /assets/images/qian.li.jpeg
+  bio: Qian Li is a PhD candidate at Arizona State University whose research focuses on communication technology, social media, and misinformation studies. She primarily employs quantitative methods, such as topic modeling and social network analysis. Her dissertation examines the role of influential activists in driving gun control activism, as well as the agenda-setting patterns, emotional dynamics, and network structures that emerge within digital spaces.
+
+- name: Liang Kaijie, Hong Kong Baptist University
+  image: /assets/images/sg.kaijie.25.jpg
+  bio: Liang Kaijie is currently a Ph.D. student in the Department of Government and International Studies at Hong Kong Baptist University, with primary research interests in political communication and artificial intelligence (AI) policy. His current research includes two major projects. The first project identifies strategic reputation dimensions (technical, moral, performative, and procedural) and visual elements that significantly enhance audience engagement. The second project investigates how AI and digital transformation influence public value creation in local governments.
+
+- name: Liu Liu, National University of Singapore
+  image: /assets/images/Liu.Liu.NUS.png
+  bio: Liu Liu is a Postdoctoral Research Fellow at the AI Centre for Educational Technologies, National University of Singapore. Her research focuses on AI-assisted teaching and learning, with interests in cognitive development, educational innovation, and learning analytics. She holds a PhD in Education from Tsinghua University.
+
+- name: Liu Yuxuan, North China Electric Power University
+  image: /assets/images/Yuxuan.Liu.jpg
+  bio: I obtained my M.A. in Broadcasting and Television from the Communication University of China in 2021 and earned my Ph.D. in Political Communication from the China University of Political Science and Law in 2024. Currently, I have been serving as a lecturer at North China Electric Power University, where I teach undergraduate courses such as “New Media Marketing” and “Social Media Operations.” My research interests include political communication, public opinion and discourse, AI-generated intelligent communication, and data journalism in the context of crisis management.
+
+- name: Muhammad Al Atiqi, Indonesian International Islamic University
+  image: /assets/images/Muhammad.Al.Atiqi.jpg
+  bio: Al is a lecturer in the Faculty of Social Science at UIII. His research interest is in agent-based modeling for social simulation. He is in charge of classes related to quantitative methods in the Master in Public Policy focusing on Climate Change program.
+
+- name: Shen Zheng, National University of Singapore
+  image: /assets/images/zheng.shen.jpg
+  bio: Zheng Shen is an Assistant Professor at the Department of English, Linguistics, and Theatre Studies, National University of Singapore. He works toward deepening our understanding of human linguistic capacity with cross-linguistic data collected using different methods.
+  website: http://zheng-shen.github.io
+
+- name: Tang Hongjie, Tsinghua University
+  image: /assets/images/Hongjie.Tang.JPG
+  bio: Hongjie Tang is a doctoral candidate in the School of Journalism and Communication at Tsinghua University, China. His research centers on strategic communication across sustainability domains, including health, environmental, and science communication. He investigates multi-level determinants of public responses to online misinformation and examines the evolving dynamics of human–AI information interactions, particularly in the contexts of health and environmental challenges.
+
+- name: Yang Nan, Dutch National Organization for Applied Research
+  image: /assets/images/nan.yang.jpg
+  bio: I am a researcher at the Dutch National Applied Research Organization (TNO) and a guest researcher at Eindhoven University of Technology. My work lies at the intersection of empirical software engineering, legacy system modernization, and open-source ecosystems. I mine software repositories, conduct surveys and interviews, and perform experiments, exploring both social and technical aspects of software development in industry and open-source contexts. 
+  website: https://notanumberyang.github.io/nan-yang-website/
+
+- name: Yang Yang, Beijing Technology and Business University
+  image: /assets/images/YangYang.jpg
+  bio: I am currently a Lecturer in the Department of Management Science and Engineering at Beijing Technology and Business University. I hold a Ph.D. in Business Management from the University of Science and Technology of China, with joint training at the University of Washington. My research focuses on the business applications of artificial intelligence.
+
+- name: Zhang Gengrui, University of Southern California
+  image: /assets/images/Jimmy.Zhang.JPG
+  bio: I am a PhD student in quantitative psychology and computational methods. My research interests are mainly about latent variable modeling (e.g., structural equation modeling, longitudinal data analysis), AI for social science, and testing fairness (e.g., measurement invariance). During my leisure time for fun, I love watching Korean TV series and doing street dance (e.g., hip hop and choreography)
+
+- name: Zhong Hanxiao, Katholieke Universiteit Leuven
+  image: /assets/images/Hanxiao.Zhong.jpg
+  bio: I am a second-year PhD student in Economics at KU Leuven. My research focuses on international trade and digitalization. I use web scraping and firm-level data to study digitalization and firm performance.
