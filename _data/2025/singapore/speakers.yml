@@ -35,8 +35,12 @@
 
 - name: Joe Simons
   image: /assets/images/JoeSimons.jpeg
-  bio: "Dr. Joe Simons is a Principal Scientist and Group Manager (Social & Behavioural Inference) in the Social & Cognitive Computing (SCC) Department at the Institute of High Performance Computing (IHPC) and Lead of A*STAR’s Social Sciences & Technology Horizontal Technology Programme Office (SST HTCO). A social psychologist by training, he has extensive experience collaborating with computational scientists and leading interdisciplinary research teams. His work applies methodologies from both behaviorual and computational sciences – such as predictive modelling and language processing - to better address social-behavioural questions. His research has been featured in outlets including Communication Research, IEEE Pervasive Computing, and  Media Psychology"
+  bio: "Dr. Joe Simons is a Principal Scientist II and Deputy Department Director in the Social & Cognitive Computing (SCC) Department at the Institute of High Performance Computing (IHPC). A social psychologist by training, he has extensive experience collaborating with computational scientists and leading interdisciplinary research teams. His work applies methodologies from both behaviorual and computational sciences – such as predictive modelling and language processing - to better address social-behavioural questions. His research has been featured in outlets including Communication Research, IEEE Pervasive Computing, and Media Psychology."
   website: https://sites.google.com/view/joe-simons/
+
+- name: Siyuan Brandon Loh
+  image: /assets/images/participants.profiles/sg.2024.siyuan.loh.jpg
+  bio: "Mr. Brandon's work focuses on the practical challenges of applying text analytics to qualitative research tasks like coding interview transcripts and extracting public perceptions from social media. Complementing this applied focus is his work on understanding how machines learn, with the goal of building machine learning models that perform more reliably in data-scarce scenarios."
 
 - name: Celine Yunya Song
   image: /assets/images/celine.yunya.song.jpeg
