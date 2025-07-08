@@ -3,4 +3,107 @@
 #   bio: " ... "  # Add participant bio here.
 #   website: https://www.google.com  # Link participant website here.
 
-# # Add more participants with the same format as above...
+- name: "Adam Visokay"
+  image: /assets/images/2025/stanford/participants/adam-visokay.jpg
+  bio: "Adam is pursuing a PhD in Sociology at the University of Washington where he is advised by Tyler McCormick and Sasha Johfre. He is also an affiliated student with the Max Planck Institute in Germany. Adams research focuses on leveraging AI and machine learning to study social phenomena, often driven by questions in public health, economics, and sociology. He is particularly interested in conducting valid statistical inference using predictions from black box models and incorporating the Rashomon effect into social inquiry. Before moving to Seattle, Adam earned an MA in Economics from Syracuse University and a BA in Economics and History from the University of Virginia."
+  website: https://www.linkedin.com/in/avisokay/
+
+- name: "Margaret de Leon"
+  image: /assets/images/2025/stanford/participants/margaret-de-leon.jpg
+  bio: "Margaret de Leon is a PhD Research Fellow at the University of Toronto, Fulbright Scholar at Stanford University and the University of California, Berkeley, and 2025 Vanier Scholar. Her research explores how computational methods and large-scale datasets can be leveraged to examine college affordability and financial aid policy in the United States and in Canada. She is currently leading a four-year, mixed-methods longitudinal study on student employment and persistence, combining national survey data with narrative interviews. Her work integrates statistical modeling, equity-focused frameworks, and public scholarship to inform higher education policy and practice."
+  website: https://margaretdeleon.ca/
+
+- name: "Shizhao (Lawrence) Liu"
+  image: /assets/images/2025/stanford/participants/lawrence-liu.jpg
+  bio: "Lawrence is a PhD student in the Human-Computer Interaction (HCI) Lab at Santa Clara University. His research lies in HCI, social media, and digital well-being, including current projects on AI-powered Chrome extension for distraction management and tools for app review metadata scraping at scale. Lawrence obtained his undergraduate degree in Computer Science from Indiana University Bloomington and his master's degree in Information Science at the University of North Carolina at Chapel Hill."
+  website: www.linkedin.com/in/shizhaolawrenceliu
+
+- name: "Lisa Wunsch"
+  image: /assets/images/2025/stanford/participants/lisa-wunsch.jpg
+  bio: "Lisa Wunsch is an incoming PhD student in Sociology at the University of Wuppertal, Germany. She is passionate about investigating traditional sociological questions using (online) experiments, computational methods, and longitudinal data to examine how social dynamics unfold in both online and offline environments. Her current research focuses on academic labor market dynamics, social biases, and gender inequalities."
+  website: https://www.linkedin.com/in/lisa-wunsch-3a1763345/
+
+- name: "Michael Lachanski"
+  image: /assets/images/2025/stanford/participants/michael-lachanski.jpg
+  bio: "Michael Lachanski is a doctoral candidate in demography at the University of Pennsylvania. He holds an MA in Statistics and Data Science from the Wharton School and an MPA and AB from Princeton University. His research program uses causal inference and demographic methods to study education and labor force dynamics."
+  website: 
+
+- name: "Crystal Shackleford"
+  image: /assets/images/2025/stanford/participants/crystal-shackleford.jpg
+  bio: "Crystal Shackleford is a postdoctoral researcher in the Psychology Department at Yale University. She researches intergroup relations with a focus on inequality, conflict, and cooperation, including how political communication influences socio-political attitudes and beliefs about the value of solidarity."
+  website: 
+
+- name: "Bingxu Han"
+  image: /assets/images/2025/stanford/participants/bingxu-han.jpg
+  bio: "My name is Bingxu Han. I am a PhD-student in Stanford Communication. I am broadly interested in cognitive perception and AI-mediated communication."
+  website: https://www.linkedin.com/in/bingxu-han-067b94204?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
+- name: "Celia Tseyen Lee"
+  image: /assets/images/2025/stanford/participants/celia-lee.png
+  bio: "Celia is a doctoral student in the Department of Family Social Science at the University of Minnesota. Prior to becoming a Gopher, she earned her M.S. in Human Development and Family Science from Florida State University and her B.A. in Psychology from the University of British Columbia. Her research examines the impact of smartphones on teens' well-being using passive sensing and data science methods."
+  website: http://linkedin.com/in/celiatlee/
+
+- name: "Man Yao"
+  image: /assets/images/2025/stanford/participants/man-yao.jpg
+  bio: "Man Yao is a quantitative sociologist and an assistant professor of Women's and Gender Studies at Denison University. She is also affiliated with Denison's Data Analytics Program. Her research examines how gender inequality persists in contemporary societies, including the U.S. and China. She is particularly interested in examining how gender differences are constructed and perpetuate in the digital age, by combining computational techniques with traditional social science methods."
+  website: https://yaoman1324.github.io/
+
+- name: "Sarah Wu"
+  image: /assets/images/2025/stanford/participants/sarah-wu.jpg
+  bio: "Sarah Wu is an incoming Communication PhD student at Stanford. Her research examines the psychological consequences of digital technologies, particularly in educational and creative contexts. Sarah previously completed a predoctoral fellowship at Stanford's Social Media Lab and earned her BA in Psychology with a music minor from Reed College."
+  website: https://www.linkedin.com/in/sarahhwu/
+
+- name: "Jiaying 'Lizzy' Liu"
+  image: /assets/images/2025/stanford/participants/lizzy-liu.jpg
+  bio: "I investigate how digital technologies and platforms shape online health discourse and care-seeking behaviors through a socio-technical lens. Through mixed-method research combining ethnography and computational analysis, I examine how multimodal technologies - particularly video-sharing platforms, chatbots, and robots - influence health communication and community building. My research analyzes how platform architectures, algorithmic systems, and cultural practices intersect with health content creation and circulation, with special attention to potential biases and systematic marginalization of individual narratives. My research contributes to care-centered digital technologies and social media policy design."
+  website: https://liulizzy672.wixsite.com/website
+
+- name: "Dilrukshi Gamage"
+  image: /assets/images/2025/stanford/participants/dilrukshi-gamage.jpg
+  bio: "Dilrukshi Gamage is a Senior Lecturer at the University of Colombo School of Computing in Sri Lanka and an active researcher in Human-Computer Interaction and Computational Social Science. She is affiliated with several international research initiatives focused on platform governance, AI-generated misinformation, and digital literacy in the Global South. Her work combines empirical research with socio-technical tool development to address emerging challenges such as deepfakes, digital safety, and AI ethics. She has also served as a fellow and collaborator with global research centers including the Weizenbaum Institute in Germany, Centre for Protecting Women and Children group at the Open University in the UK and the Berkman Klein Center in the USA."
+  website: https://www.dilrukshigamage.org/
+
+- name: "Yun Evelina Bao"
+  image: /assets/images/2025/stanford/participants/evelina-bao.jpg
+  bio: "Yun (Evelina) Bao is a third-year PhD student in the department of psychology of New York University. Her research interests broadly lie in emotions and collective actions in social changes. Her research explores two main questions: 1) how do people emotionally respond to social events and upheavals? 2) how do these emotions further motivate engagement in collective actions to promote social changes? She used various experimental and computational methods in her studies, including interventions, longitudinal studies, and natural language processing."
+  website: https://www.linkedin.com/in/yun-evelina-bao-a2b8b6351/
+
+- name: "Qiyao Peng"
+  image: /assets/images/2025/stanford/participants/qiyao-peng.jpg
+  bio: "Qiyao Peng is a PhD student at the University of California, Santa Barbara. Her research explores how emerging media technologies and message design influence health behaviors and outcomes. She is also involved in studying the spread and public interpretation of AI-generated content in digital environments."
+  website: 
+
+- name: "Zituo Wang"
+  image: /assets/images/2025/stanford/participants/zituo-wang.jpg
+  bio: "Zituo Wang researches digital technology, social justice, and disadvantaged communities within both health and political contexts. He is interested in the underlying mechanisms that produce public opinion and the social networks that mobilize collective expression, particularly how these dynamics are shaped by politics and artificial intelligence. By employing computational methods like natural language processing and computer vision, he wants to address existing challenges in multilingual, multimodal, and multiplatform studies."
+  website: https://zituowang.com/
+
+- name: "Jose Aguilar"
+  image: /assets/images/2025/stanford/participants/jose-roman-aguilar.jpg
+  bio: "Jose R. Aguilar is currently a PhD student in the Policy, Politics, and Leadership program at UC Berkeley's School of Education. His research employs natural language processing, machine learning, and social network analysis to investigate how institutional discourse, algorithmic decision-making, and education policy influence postsecondary access and equity for marginalized students."
+  website: https://jose-r-aguilar.github.io/
+
+- name: "Rachel Song"
+  image: /assets/images/2025/stanford/participants/rachel-song.jpg
+  bio: "Rachel Song is an incoming Assistant Professor of Psychology at the University of Puget Sound. She received her PhD in Psychology from the University of Washington. Her research examines how people respond to their cultural and physical environments in ways that reinforce or reduce social inequities. She studies how people react to growing diversity in their neighborhoods and how people make sense of their role in systems of privilege and oppression. Her research uses multiple methods including field surveys, experiments, and archival text analyses."
+  website: https://rachelxsong.com/
+
+- name: "Nabila Mushtarin"
+  image: /assets/images/2025/stanford/participants/nabila-mushtarin.jpg
+  bio: "Nabila Mushtarin is a Ph.D. candidate at LSU whose research examines health communication, media effects, and social inequality. She uses critical cultural analysis to study how personal and media narratives influence health behaviors among Black women in the U.S. South, and also explores computational tools to analyze public perceptions and behaviors on social media."
+  website: https://www.linkedin.com/in/nabila-mushtarin/
+
+- name: "Lin Chen"
+  image: /assets/images/2025/stanford/participants/lin-chen.jpg
+  bio: "Lin is a recent PhD graduate from Hong Kong University of Science and Technology, and will soon be joining Northeastern University as a postdoctoral researcher. Driven by a fascination of human group behavior, her research spans across data science, urban science, and computational social science. She studies the segregation, accessibility, and inequality encoded in urban mobility, and how such patterns change in face of diverse shocks. She is also actively exploring the usage of large language models (and agents driven by them) in improving behavior research. Her work has been published in Nature Human Behaviour, KDD, ICWSM, and IJCAI."
+  website: https://linchen-65.github.io/linchen/
+
+- name: "Soumyajit De"
+  image: /assets/images/2025/stanford/participants/soumyajit-de.png
+  bio: "Soumyajit De is an M.A./Ph.D. student at UC Santa Barbara. His research explores how algorithms function within socio-technical systems, specifically focusing on their role in organizational processes such as recruitment, performance evaluation, and resource allocation. Specifically, he investigates the interactions between human actors, organizational structures, and algorithmic technologies, emphasizing that algorithms are not merely passive tools but active agents shaping and being shaped by organizational norms and human agency. Currently, he is working on auditing the ranking algorithms of gig-work platforms to see if they produce discriminatory outcomes in terms of race, gender, and ethnicity, similar to how humans rank the workers' profiles. He is also interested in evaluating the conditions where ranking algorithms exacerbate and mitigate such discrimination."
+  website: 
+
+- name: "Lei Cao"
+  image: /assets/images/2025/stanford/participants/lei-cao.jpg
+  bio: "Lei Cao is a PhD student in Communication at University of Southern California. Her research interests span the broad fields of computational social science, focusing on online communities, social media, and social networks. She is also interested in emerging technology and aims to develop theories and methods that explore social and information dynamics with these technologies."
+  website: 
