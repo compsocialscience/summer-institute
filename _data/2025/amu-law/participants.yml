@@ -1,6 +1,64 @@
-- name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+- name: "Audrey Nury"
+  image: /assets/images/Audrey_Nury.jpeg
+  bio: "Audrey, is an analyst in wildlife crime and aspiring PhD candidate. She holds a Master’s in International Relations, and in International Criminal Law. She explores how law affects individuals in the wildlife trafficking supply chain, aiming to advance criminal analysis and deterrence through innovative research methods."
+  website: https://www.linkedin.com/in/audrey-nury/?locale=fr_FR
 
-# Add more participants with the same format as above...
+- name: "Piotr Alexandrowicz"
+  image: /assets/images/Piotr_Alexandrowicz.jpg
+  bio: "Piotr Alexandrowicz is assistant professor at AMU and holds MA in law, theology and canon law. His research focuses on late medieval and early modern canon law and Roman law. His ERC Starting Grant ‘PetrIUS’ will apply the NLP techniques to the study early printed legal paratexts."
+  website: https://www.linkedin.com/in/piotr-alexandrowicz-3b0a9a305/?originalSubdomain=pl 
+
+- name: "Paschalis Agapitos"
+  image: /assets/images/Paschalis_Agapitos.jpeg
+  bio: "PhD candidate in Computational Humanities at Donostia International Physics Center/University of the Basque Country. His main research interests focuses on Wikipedia-based cultural networks and the computational analysis of linguistic and historical literary data."  
+  website: https://www.linkedin.com/in/paschalis-agapitos-1b5284217/
+
+- name: "Ugnė Kundrotienė"
+  image: /assets/images/Ugne_Kundrotiene.jpg
+  bio: "Ugne Kundrotiene is the first year PhD student in Psychology at the Mykolas Romeris University, Lithuania. Her dissertation project focuses on the relationship between traumatic  experiences,  post-traumatic cognitions, social support and depressiveness in children (aged 10 to 17 years). She is also interested in developmental psychology, parent-child relationships.  Beyond academia, Ugne Kundrotiene has over 10 years of experience in therapeutic practice with childs,  adolescents and families."  
+  website: https://www.linkedin.com/in/ugnė-kundrotienė-110bb15b/
+
+- name: "Tomasz Detlaf"
+  image: /assets/images/Tomasz_Detlaf.jpg
+  bio: "Tomasz Detlaf is a research assistant in the ERC Abortion Figurations and the Competition in the Scientific Field projects at the University of Warsaw. His research combines discourse analysis with computational methods. He is a Master’s student in Digital Sociology and received bachelor’s degrees in Sociology and Philosophy."
+  website: https://www.linkedin.com/in/tomasz-detlaf/
+
+- name: "Lakin Breeden"
+  image: /assets/images/Lakin_Breeden.JPG
+  bio: "Lakin Breeden is a Master's student in Human Rights and Democratization at the Global Campus of Human Rights in Venice, Italy. Her current research focuses on the contemporary effects of colonialism on LGBTQIA+ acceptance in the English-speaking Caribbean. She holds dual Bachelor degrees in Anthropology and Political Science from the University of Tennessee, Knoxville. Her interests include queer studies, judicial independence, and human rights advocacy."
+  website: https://www.linkedin.com/in/lakin-breeden-30b45a330/
+
+- name: "Monika Stanisławska"
+  image: /assets/images/Monika_Stanisławska.jpeg
+  bio: "I am a law student at Adam Mickiewicz University with a strong interest in AI regulation. Focused on the impact of artificial intelligence on freedom of speech, the reliability of information, and the threats posed by deepfakes to personal rights and the protection of individual dignity in the digital public sphere."
+  website: https://sicss.io/2025/amu-law/people
+
+- name: "Désirée Klingler"
+  image: /assets/images/Desiree_Klingler.jpg
+  bio: "Désirée Klingler is Assistant Professor of Public Law at the University of St. Gallen, Institute for Law and Economics. She conducts research in public law, applying law and economics and is interested in the interplay between efficiency and sustainability. Désirée aspires to extend her statistical knowledge with LLM and NLP techniques to study trade agreements and judicial efficiency."
+  website: https://www.desireeklingler.com/
+
+- name: "Aleksandra Kowalik"
+  image: /assets/images/Aleksandra_Kowalik.jpeg
+  bio: "Aleksandra Kowalik is a law student and experienced Project Manager. She completed a one-year exchange at Appalachian State University (USA). Known for her drive, discipline, and collaborative leadership, she delivers results through action and influence. She believes true leadership means empowering others, not holding titles."
+  website: https://www.linkedin.com/in/aleksandra-w-kowalik-7a149b10a
+
+- name: "Kaja Heckert"
+  image: /assets/images/Kaja_Heckert.png
+  bio: "Legal professional specializing in AI regulation and compliance, with academic credentials from KU Leuven and Adam Mickiewicz University. Author of publications on AI and criminal law, currently preparing research on AI in criminal proceedings and leading training sessions on AI governance for the Compliance Institute."
+  website: https://www.linkedin.com/in/kajaheckert
+  
+- name: "Michalina Marcia"
+  image: /assets/images/Michalina_Marcia.jpg
+  bio: "Michalina Marcia is a Researcher at the Digital Justice Center (University of Wrocław, Poland). Her research focuses on the intersection of artificial intelligence and criminal proceedings. She recently defended her PhD thesis on the use of AI in criminal proceedings in light of the right of defence and currently leads the research project 'AI and Defence Rights – Friends or Foes?', funded by the Polish National Science Center. "
+  website: https://sicss.io/2025/amu-law/people
+
+- name: "Milada Matoušková"
+  image: /assets/images/sicss_amu_law.jpg
+  bio: "Milada Matoušková is currently pursuing her master's degree in Law and a bachelor's degree with a double major in North European studies and General linguistics. Currently working on a project about the scientific approach to penology, generally deeply interested in the theory and philosophy of law."
+  website: https://www.linkedin.com/in/milada-matou%C5%A1kov%C3%A1-8a21688a/
+
+- name: "Martyna Czwojdzińska"
+  image: /assets/images/Martyna_Czwojdzinska.jpg
+  bio: "I am a third-year law student at Adam Mickiewicz University with a strong interest in new technologies law and artificial intelligence. My research focuses on legal aspects of AI, data protection, and digital innovation, particularly in the context of EU regulations. I was a finalist in the 'Become Mrs. Ambassador' competition, which aimed to promote Polish innovation in Silicon Valley."
+  website: https://www.linkedin.com/in/martyna-czwojdzińska-01838b364

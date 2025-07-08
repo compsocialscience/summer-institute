@@ -1,5 +1,250 @@
-- date: "June 29 - July 12, 2025"
-  events:
-    - name: "Schedule coming soon. Check back for updates!" # Update this line or add markdown for your site's schedule.
 
-  # Our tentative schedule can be seen [here](www.google.com). Our program focuses on ... . We will invite guest speakers to provide an overview of ..."
+- date: 2025-06-29
+  name: Participants arrive
+  events:
+
+- date: 2025-06-30
+  name: "<b>Introduction to SICSS</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Introduction to SICSS-Lake Como"
+      time: "09:30 - 10:00"
+    - name: "Flashtalks by participants I"
+      time: "10:00 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:15"    
+    - name: "Flashtalks by participants II" 
+      time: "11:15 - 12:30"
+    - name: "Lunch"
+      time: "12:30 - 14:00"
+    - name: "SICSS Unconference I"
+      time: "14:30 - 16:00"
+    - name: "Coffee Break"
+      time: "16:00 - 16:30"
+    - name: "Opening talk: Zhijing Jin, University of Toronto (Causal reasoning with large language models)"
+      time: "16:30 - 18:00"
+
+
+
+- date: 2025-07-1
+  name: "<b>Simulating humans</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Chen Peng, Bocconi University (Replicating conjoint experiments with LLMs)"
+      time: "09:30 - 10:15"
+    - name: "Lorenzo Lupo, Bocconi University (SimBench: Benchmarking the Ability of Large Language Models to Simulate Human Behaviours) ([Slides](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/_data/2025/lake-como/simbench_SICSS_2025.pdf))"
+      time: "10:15 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:30"
+    - name: "Ben Rochford, Duke University (Bot or Not: social identity cues shape the perceived humanity of online profiles)"
+      time: "11:30 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Group exercise (B. Rochford, Z. Aghamohammadi)"
+      time: "14:00 - 16:00"
+    - name: "Coffee break"
+      time: "16:00 - 16:30"
+    - name: "Solutions to group exercise and discussion"
+      time: "16:30 - 17:30"
+    - name: "Irene Pasquetto, University of Maryland (What is the future of disinformation research?) ([Slides](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/_data/2025/lake-como/Pasquetto_Slides.pdf)), ([Material 1](https://sociologicalscience.com/articles-v11-41-1124/), [Material 2](https://misinforeview.hks.harvard.edu/article/misinformed-about-misinformation-on-the-polarizing-discourse-on-misinformation-and-its-consequences-for-the-field/))"
+      time: "17:30-18:45"
+
+
+- date: 2025-07-2
+  name: "<b>To Explain and to Predict</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Eaman Jahani, University of Maryland Business School (Direct and Indirect Effects of Prosocial Messages on Harmful Content Engagement)"
+      time: "09:30 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:30"
+    - name: "Chiara Binelli, University of Bologna (Building Better Theories Through Prediction and Explanation) ([Slides](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/_data/2025/lake-como/Explanation%20%26%20Prediction_Chiara%20Binelli_SICSS%20July%202025.pdf))"
+      time: "11:30 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Group exercise (C. Binelli, B. Rochford) ([Main reference](https://www.pnas.org/doi/10.1073/pnas.1915841117)), ([Code](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/_data/2025/lake-como/SRM-exercise-Script.pdf))"
+      time: "14:00 - 16:00"
+    - name: "Coffee break"
+      time: "16:00 - 16:30"
+    - name: "Solutions to group exercise and discussion"
+      time: "16:30 - 17:30"
+    - name: "_Como Evenings_ Lecture by Chris Bail (Bridging Divides with Generative AI)"
+      time: "18:00-20:00"
+
+
+      
+- date: 2025-07-3
+  name: "<b>Social media and polarization research</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Friedolin Merhout, University of Copenhagen (Using Internet Search Data for Comparative Longitudinal Research: The Case of the Radical Right Across Europe)"
+      time: "09:30 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:30"
+    - name: "Paul Bouchaud, Complex Systems Institute of Paris (Auditing social media platforms)"
+      time: "11:30 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Group exercise (P. Bouchaud, Z. Aghamohammadi)"
+      time: "14:00 - 16:00"
+    - name: "Coffee break"
+      time: "16:00 - 16:30"
+    - name: "Solutions to group exercise and discussion"
+      time: "16:30 - 17:30"
+    - name: "Douglas Guilbeault, Stanford University (Micro Divergence, Macro Convergence: Lessons from LLM Replications) ([Slides](https://docs.google.com/presentation/d/1wvdCOETJuOzgwMUA0qfCEQyiVuwWsJXM/edit?slide=id.p1#slide=id.p1))"
+      time: "17:30-19:00"
+
+
+
+
+- date: 2025-07-4
+  name: "<b>Joint Workshop with European Polarization Observatory</b>"
+  events:
+    - name: "EPO - SICSS Workshop Welcoming Address"
+      time: "09:00 - 09:15"
+    - name: "EPO Project Welcoming Address"
+      time: "09:15 - 09:30"
+    - name: "Hiroki Yamashita, EHESS-CNRS (Title: Measuring dimensionality of political space using social media data)"
+      time: "09:30 - 10:00"
+    - name: "Jonathan Cardoso-Silva, London School of Economics (Title: Latent Network Models in Social Networks)"
+      time: "10:00 - 10:30"
+    - name: "Marton Karsai, Central European University (Title: Socioeconomic patterns and their dynamics in social networks and language)"
+      time: "10:30 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:30"
+    - name: "Pedro Ramaciotti, CNRS-Sciences Po (Title: Measuring ideological polarization in social media across countries in comparable political dimensions using political survey data)"
+      time: "11:30 - 12:00"
+    - name: "Marvin Pappalettera, Bocconi University (Title: Mapping voters' preferences with digital trace data and random utility models)"
+      time: "12:00 - 12:30"
+    - name: "Philip Darius, Hertie School (Title: Social media success of populist radical right parties in the 2024 European Parliament election)"
+      time: "12:30 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Elisa Omodei, Central European University (remotely) (Title: The Public that Engages Invisibly: What Visible Engagement Fails to Capture in Online Political Communication)"
+      time: "14:00 - 14:30"
+    - name: "Armin Pournaki, Max Planck Institute (Horizon SoMe4Dem project) (Title: Conflicting narratives and ideological polarization on social media)"
+      time: "14:30 - 15:00"
+    - name: "Carlo Santagiustina, Sciences Po, (Horizon SoMe4Dem project) (Title: Issue-based self-identification and participation on social media in the EU)"
+      time: "15:00 - 15:30"
+    - name: "Paul Bouchaud, EHESS CNRS Sciences Po (Title: Algorithmic resolution of crowd-sourced moderation on X in polarized settings across countries)"
+      time: "15:30 - 16:00"
+    - name: "Vlad Bujdei-Tebeica, SNSPA (Title: Political Speech and Polarization: Tracing the Path from Discourse to Policy in Romania’s 2020-2024 Parliament)"
+      time: "16:00 - 16:30"
+    - name: "Gerardo Iñiguez, Tampere University (Title: The social impact of the willingness to share opinions: from online data to controlled experiments)"
+      time: "16:30 - 17:00"
+    - name: "Coffee break"
+      time: "17:00 - 17:30"
+    - name: "Participants’ research teams form"
+      time: "17:30 - 18:30"
+    - name: "Social Dinner"
+      time: "20:00 - 22:00"
+
+
+
+- date: 2025-07-7
+  name: "<b>Experiments Workshop</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Sonke Ehret, University of Lausanne (Title: Online experiments workshop)"
+      time: "09:30 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:30"
+    - name: "Group exercise (S. Ehret, B. Rochford)"
+      time: "11:30 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "SICSS Unconference II"
+      time: "14:00 - 17:30"
+    - name: "Dirk Hovy, Bocconi University (Title: TBC)"
+      time: "17:30-18:45"
+
+
+
+
+- date: 2025-07-8
+  name: "<b>Network Workshop</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Beatrice Franzolini, Bocconi University (Decoding Connections: A Hands-on Workshop in Network Data Analysis) ([Slides](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/_data/2025/lake-como/DecodingConnections_Beatrice_Franzolini_slides.pdf))"
+      time: "09:30 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:30"
+    - name: "Group exercise (B. Franzolini, Z. Aghamohammadi), ([Code](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/_data/2025/lake-como/Decoding_Connection_code.pdf))"
+      time: "11:30 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Group research work"
+      time: "14:00 - 17:30"
+    - name: "Flaminio Squazzoni, Università Statale di Milano (Exploring network dynamics with agent-based models)"
+      time: "17:30 - 18:30"
+
+
+- date: 2025-07-9
+  name: "<b>Text and video as data</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Alex Kindel, SciencesPo (Diagnostic methods for language models)"
+      time: "09:30 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:30"
+    - name: "Germain Gauthier, Bocconi University (The Neural Ideal Point Model)"
+      time: "11:30 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Group research work"
+      time: "14:00 - 17:30"
+    - name: "Agnes Emoke Horvat, Northwestern University (How Science Is (Mis)Communicated in Online Media) ([Slides](https://www.dropbox.com/scl/fi/sbx8jrly77cgzf07v5ceq/SlidesHorvat-Como.pptx?rlkey=yqhras7ct8imr7niu8o9bnac7&e=1&dl=0)), ([Material 1](https://www.nature.com/articles/s41467-025-60590-y), [Material 2](https://www.science.org/doi/10.1126/sciadv.adt3813))"
+      time: "17:30 - 18:30"
+
+
+- date: 2025-07-10
+  name: "<b>Groups ultimate projects and Como FC Workshop</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Como FC Sports Analytics (Title: TBC)"
+      time: "09:30 - 11:00"
+    - name: "Coffee Break"
+      time: "11:00 - 11:30"
+    - name: "Group research work - Como FC Sports Analytics Team Round table"
+      time: "11:30 - 14:00"
+    - name: "Lunch"
+      time: "14:00 - 15:00"
+
+
+- date: 2025-07-11
+  name: "<b>Research group presentations</b>"
+  events:
+    - name: "Participants gather and housekeeping announcements"
+      time: "09:00 - 09:30"
+    - name: "Group presentations and discussion - Group I"
+      time: "10:00 - 11:00"
+    - name: "Group presentations and discussion - Group II"
+      time: "11:00 - 12:00"
+    - name: "Group presentations and discussion - Group III"
+      time: "12:00 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Group presentations and discussion - Group IV"
+      time: "14:00 - 15:00"
+    - name: "Group presentations and discussion - Group V"
+      time: "15:00 - 16:00"
+    - name: "Group presentations and discussion - Group VI"
+      time: "16:00 - 17:00"
+
+
+
+- date: 2025-07-12
+  name: Participants leave
+  events:
+
+
+
+

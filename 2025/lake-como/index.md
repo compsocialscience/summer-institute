@@ -7,12 +7,32 @@ image: /assets/images/LAGO-COMO.jpg
 
 [//]: # (ORGANIZERS: Update the info to match your location. Add a site image to /assets/images/ and update the placeholder URL above to match it. See _data/2025/Lake Como for yml files that control the header content, location info on general sites page, people lists, and sidebar.)
 
-From June 29 to July 12, 2025 Lake Como School of Advanced Studies will host the Summer Institute in Computational Social Science, to be held in Como, Italy. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
+SISCS-Lake Como brings together graduate students, postdoctoral researchers, and faculty interested in computational social science at Villa del Grumello, hosted by the Lake Como School of Advanced Studies. SICSS-Lake Como is organized by faculty at Bocconi University, Università Statale di Milano and Bologna University. No fees are requested to participate. All the lectures will be available on streaming and teaching materials are shared openly.
 
-The instructional program will involve lectures, group problem sets, and participant-led research projects, with a special emphasis on causal inference. There will also be outside speakers who conduct computational social science research in a variety of settings, such as academia, industry, and government. Topics covered include causal inference with observational data, text analysis, network analysis, survey experiments, and machine learning. There will be ample opportunities for students to discuss their ideas and research with the organizers, other participants, and visiting speakers. Because we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute will be released open source.
+The Institute is funded by the Carlo F. Dondena Research Center on Social Dynamics and Public Policy; the Bocconi Institute for Data Science and Analytics; the Department of Social and Political Science at Bocconi University. SICSS-Lake Como is in part supported by grants from the Summer Institute for Computational Social Science, sponsored by the Russell Sage Foundation, the Alfred P. Sloan Foundation and the Templeton World Foundation. The conference is co-funded by GENPOP, a European Research Council Consolidator grant based at the University of Bologna (GA 865356).
 
-Participation is restricted to advanced Ph.D. students, postdoctoral researchers, and junior faculty (within 7 years of their Ph.D). We welcome applicants from all backgrounds and fields of study. About 15-20 participants will be invited. Most participants are expected to fully attend and participate in the entire 14-day program, but we are open to alternative arrangements for faculty members. 
 
-Application materials are due on 31st of March 2025.
+
+**PARTICIPATION**
+
+From June 30 to July 11, SICSS-Lake Como brings together graduate students, postdoctoral researchers, and faculty interested in computational social science. SICSS started as an initiative at Princeton University in 2017 for both social scientists and data scientists. Participation is restricted to advanced Ph.D. students, postdoctoral researchers, and junior faculty (within 7 years of their Ph.D). We welcome applicants from all backgrounds and fields of study, with no geographical restriction. About 20 participants are invited. The instructional program involves lectures; group problem sets and a research project. There will be ample opportunities to discuss ideas and research.
+
+
+**LOCATION**
+
+SICSS-Lake Como is hosted at Villa del Grumello, a historical building on the shores of Lake Como. Its historic park, laid out according to the romantic canon, is home of centuries-old cedars, pines, magnolias, camphor trees, fragrant oleas, sequoias, and seasonal flowers. Grumello is the heart of the Chilometro della Conoscenza (Kilometer of Knowledge): a civic network and a public park which connects the estates of Grumello, Villa Olmo and Villa Sucota / Antonio Ratti Foundation on the western lakefront of the city of Como. Grumello is a place of sharing and participation. Since 2013, it hosts the Lake Como School of Advanced Studies to promote advanced education, research, culture and university – a project by Fondazione Alessandro Volta joint with the University of Insubria, the University of Milano, the University of Milano-Bicocca, the University of Pavia, with the addition of the Polytechnic University of Milan in 2019, and supported by Fondazione Cariplo.
+
+
+**COST & ACCOMMODATION**
+
+Shared-room accommodation is provided for participants at Hotel Engadina (Viale Fratelli Rosselli, 22). This is located 10 minutes away from Villa del Grumello (Via Per Cernobbio, 11).
+
+
+
+<p align="center">
+  <img src="/assets/images/Villa_del_Grumello.png" alt="Alt text" width="400"/>
+</p>
+
+
 
 [//]: # (ORGANIZERS: feel free to add a link to your application materials or your SICSS apply page above.)

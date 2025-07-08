@@ -1,6 +1,79 @@
-- name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+- name: "Sylvère BAREGENSABE" 
+  image: /assets/images/SYLVERE_BAREGENSABE.jpg
+  bio: "Sylvère Baregensabe est titulaire d’un diplôme d’ingénieur statisticien de l’Université du Burundi et possède plus de 15 ans d’expérience dans la planification, la gestion, le suivi et l’évaluation de programmes et projets de développement, y compris en contexte humanitaire. Il a également acquis une expertise dans la gestion de la chaîne d’approvisionnement des produits de santé de la reproduction. Depuis juin 2015, il occupe le poste de chargé du suivi et de l’évaluation en santé de la reproduction à l’UNFPA Burundi, après un parcours débuté au sein d’ONG nationales puis au ministère de la Santé publique et de la lutte contre le Sida, au Programme National de Santé de la Reproduction. Membre de l’Association des Professionnels des Statisticiens du Burundi (APROSTAB), ses recherches portent sur les questions de population au Burundi, en particulier la fécondité, la planification familiale, l’inégalité entre les sexes, la santé maternelle ainsi que la santé sexuelle et reproductive des jeunes et des adolescents."
+  website: https://www.linkedin.com/in/sylvere-baregens-281645129/
 
-# Add more participants with the same format as above...
+- name: "Peingwende Boris Jean-Sylvain Dianda"
+  image: /assets/images/Boris_DIANDA.jpg
+  bio: "Peingewende Boris Jean-Sylvain DIANDA est médecin au Service d’Aide Médicale Urgente (SAMU) de Ouagadougou, au Burkina Faso, et suit parallèlement une licence en statistique et informatique décisionnelle à l’Université Ouaga 3S. Ses centres d’intérêt portent sur l’application des méthodes de science des données aux problématiques de santé publique : optimisation des flux de patients en situation d’urgence, gestion hospitalière en contexte de saturation et analyse des systèmes de soins. Il a suivi plusieurs formations en médecine des catastrophes, en intervention d’urgence et en science des données appliquée à la santé. Son projet actuel vise à développer une application numérique destinée à améliorer le suivi et la gestion des lits d’hospitalisation dans les services d’urgence au Burkina Faso."
+  website: 
+
+- name: "Kassoum Dianou"
+  image: /assets/images/Kassoum_Dianou.JPG
+  bio: "Kassoum Dianou est doctorant en démographie à l’Université catholique de Louvain (UCLouvain), en cotutelle avec l’Université Joseph Ki-Zerbo (Burkina Faso). Ses recherches portent sur l’utilisation des enquêtes téléphoniques pour mesurer la mortalité dans les pays à revenu faible ou intermédiaire, notamment en contexte de crise. Auparavant, il a été assistant de recherche à l’Observatoire de la Population de Ouagadougou (OPO), où il a coordonné de nombreuses enquêtes sur la santé, la mortalité et les inégalités sociales. Auteur de plusieurs publications scientifiques, il a contribué à des projets internationaux portant sur la santé mentale, la santé reproductive, les impacts de la COVID-19 et les inégalités en milieu urbain."
+  website: www.linkedin.com/in/kassoum-dianou
+
+- name: "Fadil Kristof GNANKAMBARY"
+  image: /assets/images/Fadil_Gnankambary.jpeg
+  bio: "Fadil Kristof GNANKAMBARY est spécialiste en géomarketing et géomatique au sein du groupe Orange et enseignant à l’Institut Panafricain pour le Développement – Afrique de l’Ouest et Sahel. Membre actif du secrétariat exécutif de l’Association des Professionnels de la Géo-Information du Burkina Faso (AProGI-BF), il a précédemment travaillé à l’Institut Géographique du Burkina, où il a contribué à la production de bases de données d’occupation des terres pour le Programme d’Investissement Forestier. Titulaire d'un Master en télédétection et Systèmes d'Information Géographique, il est également certifié en Lean Six Sigma. Ses domaines d'intérêt incluent l’analyse spatiale pour la planification des réseaux, l’intelligence artificielle appliquée aux SIG et à la télédétection, et le développement d’outils SIG sur mesure."
+  website: https://www.linkedin.com/in/fadil-kristof-gnankambary
+
+- name: "Grâce-Alice Enam Bladavi GUMEDZOE-HOSETO"
+  image: /assets/images/Grâce_Alice_Enam_Bladavi.jpg
+  bio: "Grâce-Alice Enam Bladavi GUMEDZOE-HOSETO est doctorante en santé communautaire à l’Université Joseph Ki-Zerbo, où elle étudie l’implication des agents de santé communautaire dans les programmes de lutte antivectorielle au Ghana, au Togo et au Burkina Faso. Titulaire d’un master en épidémiologie d’intervention, elle possède une solide expérience en santé publique de terrain, en recherches qualitative et quantitative, ainsi qu’en gestion de projets communautaires. Ses travaux s’attachent particulièrement à l’intégration des outils numériques et des approches computationnelles afin d’améliorer l’analyse des politiques de santé et de renforcer l’impact des interventions locales."
+  website: 
+
+- name: "Fidèle IRANYIBUTSE" 
+  image: /assets/images/Iranyibutse_Fidele.jpg
+  bio: " Fidèle Iranyibutse est diplômé de l’Université du Burundi, où il a obtenu un diplôme d’Ingénieur Statisticien à la Faculté des Sciences Économiques et Administratives (FSEA). Depuis août 2010, il occupe le poste de statisticien-chercheur à l’Institut National de la Statistique du Burundi (INSBU). Spécialisé dans la réalisation de grandes enquêtes statistiques, il est impliqué dans l’organisation, la collecte, le traitement et l’analyse des données ainsi que dans la rédaction de rapports thématiques. Ses compétences ont été renforcées par une formation à l’Institut de Recherche pour le Développement (IRD) en France, axée sur le traitement et l’analyse des données d’enquêtes et de recensements, ainsi que par une formation à l’Université Libre de Bruxelles (ULB) en Belgique sur les Systèmes d’Information Géographique (SIG), qui lui confère une expertise dans la gestion des bases de données relationnelles et spatiales, ainsi que dans le traitement des données géospatiales et non spatiales."
+  website: 
+
+- name: "Attoumo Daniel Monehahue"
+  image: /assets/images/Daniel_Attoumo.jpg
+  bio: "Daniel Attoumo MONEHAHUE est doctorant en sociologie à l’Université Peleforo Gon Coulibaly de Korhogo (Côte d’Ivoire), où il mène des recherches au sein du Département de Sociologie et d’Anthropologie. Titulaire d’un master en sociologie de l’environnement et de la santé de la même institution, sa thèse explore les logiques écologiques et économiques qui sous-tendent l'engagement des travailleurs migrants dans l’agriculture urbaine et périurbaine à Abidjan. Il est affilié au Réseau de Recherche sur la Migration et le Changement Climatique en Afrique (RRCMA) et au Réseau des Doctorants Africains et de la Diaspora (RESDAD)."
+  website: https://www.linkedin.com/in/daniel-attoumo-monehahu%C3%A9-42585b20b
+
+- name: "Chirac Mugisha"
+  image: /assets/images/Chirac_Mugisha.jpg
+  bio: "Chirac MUGISHA est assistant en gestion de l’information et de la communication auprès de l’UNFPA au Burundi. Il traite quotidiennement des données sur la mortalité maternelle, les tendances démographiques et les violences basées sur le genre, et produit des cartes SIG et des tableaux de bord Power BI pour éclairer les opérations humanitaires."
+  website: https://www.linkedin.com/in/chirac-mugisha-865311218/
+
+- name: "François Xavier Ouedraogo"
+  image: /assets/images/Xavier_ouedraogo.jpg
+  bio: "François Xavier Ouedraogo est doctorant en mathématiques appliquées à l’Université Joseph Ki-Zerbo, où il se spécialise en gestion des risques financiers et assurantiels. Ses recherches actuelles portent sur la modélisation stochastique des cyber risques, en particulier via les processus de naissance pure et les copules. Parallèlement, il a conçu des modèles de scoring pour l’évaluation du risque de crédit et l’aide à la décision."
+  website: https://www.researchgate.net/profile/Francois-Ouedraogo-2
+
+- name: "Harouna Ouily"
+  image: /assets/images/ouily_harouna.png
+  bio: "Harouna Ouily est consultant-formateur au Cabinet de Recherche et d’Études en Santé et en Démographie (CARESAD). Titulaire de deux masters (data science et économie), il a contribué à l’étude d’évaluation d’impact du projet GATE menée à l’ISSP en 2024. Ses recherches portent sur la santé mentale des femmes vulnérables et l’application du machine learning aux inégalités sociales."
+  website: www.linkedin.com/in/harouna-ouily-7487231b3
+  
+- name: "Boyo Constant Paré" 
+  image: /assets/images/Boyo_Constant.jpg
+  bio: "Boyo Constant Paré est épidémiologiste et spécialiste en santé publique, actuellement en poste à la President’s Malaria Initiative (PMI) au Burkina Faso, où il analyse les données de surveillance du paludisme pour appuyer les décisions programmatiques. Fort d’une expérience dans la conduite d’enquêtes sanitaires (mortalité, nutrition, vaccination) et dans la réponse à plusieurs épidémies (Ebola, COVID-19, hépatite E, rougeole), il a travaillé avec des organisations telles que MSF, ALIMA, les CDC des États-Unis et Save the Children. Diplômé en santé publique (épidémiologie) et en biologie, il est également engagé dans le mentorat académique et actif au sein de réseaux scientifiques comme EPITER et ADELF, avec plusieurs publications à son actif."
+  website: 
+
+- name: "Pengdewendé Maurice Sawadogo"
+  image: /assets/images/Maurice_Sawadogo.png
+  bio: "Dr Pengdewendé Maurice Sawadogo est chercheur démographe, fort d’une double expertise en démographie et en santé publique. Titulaire d’un doctorat en sciences de la population de l’Université Joseph Ki-Zerbo (2022), il se consacre à la nutrition et à la santé sexuelle et reproductive des populations vulnérables en Afrique de l’Ouest et du Centre, analysant l’ampleur, les déterminants et les tendances de ces enjeux."
+  website: https://www.linkedin.com/in/pengdewend%C3%A9-maurice-sawadogo-a96842148/
+
+- name: "Emmanuel SINGOYE"
+  image: /assets/images/Emmanuel_SINGOYE.PNG
+  bio: "SINGOYE Emmanuel est enseignant-chercheur à l’Institut de Statistique Appliquée de l’Université du Burundi et doctorant en démographie, spécialisé en fécondité. Son mémoire de master (IFORD, 2020) portait sur les facteurs influençant la non-utilisation de la contraception moderne selon le milieu de résidence au Burundi. À l’INSBU, il a coordonné les méthodologies et la gestion des travaux statistiques."
+  website: https://www.researchgate.net/profile/Emmanuel-Singoye/stats
+
+- name: "Djakaridia Soma"
+  image: /assets/images/Soma_Djakaridja.jpg
+  bio: "Djakaridia Soma est data steward chez Orange Burkina et consultant à l’ISSP, spécialisé en ingénierie des données et intelligence artificielle. Formé à l’École supérieure multinationale des télécommunications de Dakar, il développe un chatbot intelligent pour évaluer la performance et formuler des recommandations."
+  website: https://github.com/SomaDjakiss/Churns
+
+- name: "Armel Tiessouma Théodore Zerbo"
+  image: /assets/images/Armel_T_Théodore_ZERBO.JPG
+  bio: "Armel T. T. ZERBO est doctorant à l’Université de Lisala et assistant de recherche au Africa Cluster Center ACC-Ouaga de l’Université Joseph Ki-Zerbo. Ses travaux sur les ontologies fluides de la contestation examinent les liens entre médias sociaux, protestation anti-gouvernementale et mouvements transnationaux de décolonisation au Burkina Faso. Titulaire d’un master en diplomatie et relations internationales, il a présenté ses recherches à Bayreuth, à VAD 2024 et à plusieurs colloques du CAMES."
+  website: www.linkedin.com/in/armel-tt-zerbo-b41b9111
+
+- name: "Béné-wendé Odilon Isaïe Zoungrana"
+  image: /assets/images/Odilon_ZOUNGRANA.jpeg
+  bio: "Béné-wendé Odilon Isaïe Zoungrana est doctorant en mathématiques et informatique à l’Université Joseph Ki-Zerbo. Ses recherches portent sur l’intelligence artificielle, l’optimisation des itinéraires et les systèmes experts pour les bases de données SIG. Par ailleurs, il développe des applications métiers sur mesure pour répondre aux besoins opérationnels."
+  website: 

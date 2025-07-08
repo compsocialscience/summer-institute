@@ -23,15 +23,13 @@ Applicants must submit the following documents: 1) a curriculum vitae, 2) a stat
 - Your experience and/or interest in collaborative research. Carrying out a collaborative research project is a core component of SICSS-Saarbrücken.
 - A possible topic, method, or question you would like to focus on for a collaborative project.
 
-**In order to be guaranteed full consideration, all application materials must be submitted by April 25, 2025.** All application materials must be submitted through this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScOljegPItTl8KqAcXedaD9aQEf4ULm29Us8ieehRwWlKssNA/viewform). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by May 30, 2025, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by May 5, 2025.** All application materials must be submitted through this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScOljegPItTl8KqAcXedaD9aQEf4ULm29Us8ieehRwWlKssNA/viewform). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by May 30, 2025, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to hello@i2sc.net.
 
 ## Costs, Funding and Grants
 
-The summer institute is free of charge and we will take care of lunches on the weekdays and other scheduled events. Most participants in the nearby area should already have the Deutschland ticket (free travel on regional buses and trains in Germany) as part of their semester fees. Where needed, we can also provide travel grants for a limited number of participants, if they are within a reasonable radius.  
-
-We will also negotiate with local hotels to offer discounted rates, typically less than 77 Euros (USD 82) including tax per night and complimentary breakfast. However, we do not offer other scholarships or free accommodation for participants.
+The summer institute is free of charge and we will take care of lunches on the weekdays and other scheduled events. We will negotiate with local hotels to offer discounted rates, typically less than 77 Euros (USD 82) including tax per night and complimentary breakfast. However, we do not offer other scholarships or free travel/accommodation for participants.
 
 ## Application Frequently Asked Questions
 

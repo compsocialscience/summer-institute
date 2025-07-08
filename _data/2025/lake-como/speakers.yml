@@ -1,4 +1,198 @@
-- name: "Speaker info coming soon." # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " ... " # add speaker bio here
-  website: https://www.google.com # update speaker personal link here
+- name: "Zhijing Jin" # Add faculty name here.
+  image: /assets/images/Zhijing_Jin.png  # Add faculty image to assets/images/ and update here.
+  bio: "Zhijing is an incoming Assistant Professor at the University of Toronto starting in Fall 2025, and currently a postdoc at the Max Planck Institute with Bernhard 
+  Schoelkopf, based in Europe. She will also be a CIFAR AI Chair, ELLIS advisor, and faculty member at the Vector Institute. 
+  Her research areas are Large Language Models (LLMs), Natural Language Processing (NLP), and Causal Inference. Her vertical work focuses on Causal Reasoning with LLMs 
+  (Corr2Cause, CLadder, Quriosity & Survey), Multi-Agent LLMs (GovSim, SanctSim & MoralSim), and Moral Reasoning in LLMs (TrolleyProblems, MoralExceptQA). Her horizontal 
+  work covers Mechanistic Interpretability (CompMechs, Mem vs Reasoning), and Adversarial Attack (TextFooler, RouterAttack, AccidentalMisalignment, CRL AdversarialDefense). 
+  Her research contributes to AI Safety and AI for Science. See the latest “Moral Testing of LLMs” slide deck here. Zhijing is the recipient of 3 Rising Star awards, 
+  2 Best Paper Awards at NeurIPS 2024 Workshops, and several fellowships at Open Philanthropy and the Future of Life Institute. My work is reported in CHIP Magazine, 
+  WIRED, and MIT News. My research is funded by NSERC, Schmidt Sciences, MPI, UofT, and Cooperative AI Foundation." # Add faculty bio here.
+
+
+
+- name: "Lorenzo Lupo" # Add faculty name here.
+  image: /assets/images/Lorenzo_Lupo.png  # Add faculty image to assets/images/ and update here.
+  bio: "Lorenzo is an interdisciplinary researcher with expertise in machine learning and natural language processing applied to the social sciences, especially 
+  interested in the societal impacts of AI. His recent work includes assessing the impact of AI on content platforms such as Wikipedia, studying the simulation 
+  capabilities of LLMs for entire demographic groups, and analyzing legal and social media texts to uncover historical trends and shifts of concepts in national cultures.
+  After conducting his PhD on neural machine translation at Grenoble Alpes University, he has held research positions at the University of Milan and Bocconi University, 
+  where he currently works as a freelance researcher alongside Kai Zhu, Nicolò Cavalli, and the MilanNLP research group." # Add faculty bio here.
+
+
+
+  
+- name: "Chen Peng" # Add faculty name here.
+  image: /assets/images/Chen_Peng.png  # Add faculty image to assets/images/ and update here.
+  bio: "Chen is a postdoctoral researcher at Bocconi University. Her research experimental designs and integrates computational methods to investigate how social 
+  norms and demographic behaviors co-evolve. She is particularly interested in the application of large language models to simulate human judgment and decision-making 
+  in social science experiments." # Add faculty bio here.
+
+
+- name: "Irene Pasquetto" # Add faculty name here.
+  image: /assets/images/Pasquetto_Irene-Irene-Pasquetto-682x1024.jpg  # Add faculty image to assets/images/ and update here.
+  bio: "Irene is a scholar in the field of information and communication studies. She researches contemporary knowledge production practices, 
+  with a focus on how digital technologies shape and mediate them. Her most recent research work centers on knowledge production in the context of open 
+  science and public participation in science. She is an Assistant Professor at the University of Maryland College of Information Studies. Previously, 
+  she was an Assistant Professor at the University of Michigan School of Information, where she taught ethics of information technologies and digital curation. 
+  She is also a Senior Research Fellow at the Shorenstein Center on Media, Politics, and Public Policy, at the Harvard Kennedy School, where 
+  she co-founded the Harvard Kennedy School Misinformation Review in 2019." # Add faculty bio here.
+  
+
+
+- name: "Eaman Jahani" # Add faculty name here.
+  image: /assets/images/eaman.png  # Add faculty image to assets/images/ and update here.
+  bio: "Eaman is an assistant professor of Information Systems at the University of Maryland's Robert H. Smith School of Business. 
+  Previously, he received a PhD in Social and Engineering systems from MIT IDSS and was a postdoctoral associate at UC Berkeley’s Department of Statistics until January 2024. 
+  As a computational social scientist, his research interests span network science, statistics, experiment design, and causal inference. 
+  He investigates the structural factors that contribute to the unequal distribution of resources or information within networks, as well as the collective 
+  behavior in institutional settings and the mechanisms that promote cooperation or lead to disparities across groups. His work also explores experimental design 
+  in networks to detect the causal effects of interventions aimed at changing social norms and examines the impact of AI in business, particularly in the context 
+  of human-AI collaboration and its influence on creativity." # Add faculty bio here.
+
+
+
+
+- name: "Chiara Binelli" # Add faculty name here.
+  image: /assets/images/Chiara_Binelli.png  # Add faculty image to assets/images/ and update here.
+  bio: "Chiara received her Ph.D. in Economics from the University College London. She was a Research Scholar and Research Associate at the Institute for Fiscal Studies, 
+  a Post-Doctoral Research Fellow at Nuffield College and the University of Oxford, an Assistant Professor at the University of Southampton, and an Associate Professor 
+  at the University of Milano-Bicocca. She is Associate Professor of Economics at the University of Bologna, the Founder and Co-Director of the Center for Research and 
+  Social Progress, and the Founder of the Network of Women in Data Science and Social Science. She held several visiting fellowships at European and American Universities.
+  Her research interests focus on Labor and Development Economics, and Computational Social Science. She has worked on income and social inequality, youth unemployment, 
+  and climate change. In her most recent work, she merges Data Science and Social Science to combine prediction and explanation to study preparedness to climate change 
+  and the social impact of artificial intelligence. Her research has been published in international journals such as Climatic Change, Political Research Quarterly, 
+  Big Data and Cognitive Computing, the Journal of Economic Behavior and Organization, the Review of Economic Dynamics, Social Indicators Research, the Economics of 
+  Education Review, and World Development." # Add faculty bio here.
+
+
+- name: "Friedolin Merhout" # Add faculty name here.
+  image: /assets/images/Friedolin Merhout.jpg  # Add faculty image to assets/images/ and update here.
+  bio: "Friedo is an Associate Professor in the Department of Sociology at the University of Copenhagen where he is also affiliated with the Copenhagen Center for Social 
+  Data Science (SODAS) and coordinates the Knowledge, Organization, and Politics research group. His research use computational and experimental methods to examine 
+  intergroup relations leveraging digital trace, text, survey, and administrative data. He is particularly excited about exploiting underused data sources, 
+  such as Google search data, to study phenomena hard to investigate otherwise." # Add faculty bio here.
+
+
+
+
+- name: "Paul Bouchaud" # Add faculty name here.
+  image: /assets/images/Paul_Bouchaud.png  # Add faculty image to assets/images/ and update here.
+  bio: "Paul is a postdoctoral computational researcher investigating online platforms' algorithmic systems, foreign information manipulation, and online social dynamics. 
+  They hold a PhD in algorithmic auditing and serve as an expert for NGOs, national and European institutions on high-profile platform accountability cases" # Add faculty bio here.
+
+
+
+ 
+- name: "Douglas Guilbeault" # Add faculty name here.
+  image: /assets/images/20241025-SGSB-Douglas_Guilbeault-3447-RT (1).jpg  # Add faculty image to assets/images/ and update here.
+  bio: "Doug received dual bachelor’s degrees in philosophy and rhetoric (with a minor in cognitive science) from the University of Waterloo, 
+  and an MA in Cognitive Linguistics from the University of British Columbia. He then completed a PhD in Communications in the Network Dynamics Group at the 
+  University of Pennsylvania’s Annenberg School for Communication. He is now an assistant professor of organizational behavior at Stanford's Graduate School of Business. 
+  As co-director of the Computational Culture Lab, Guilbeault harnesses and builds computationally intensive network- and language-based methods to study 
+  how organizational cultures emerge and evolve. His work has appeared in a number of top journals, including Nature, The Proceedings of the National Academy of 
+  the Sciences, and Management Science, as well as in popular news outlets, such as The Atlantic, Wired, and The Harvard Business Review. He has received top research 
+  awards from The International Conference on Computational Social Science, The Cognitive Science Society, and The International Communication Association." # Add faculty bio here. 
+
+
+
+
+
+
+- name: "Pedro Ramaciotti Morales" # Add faculty name here.
+  image: /assets/images/Pedro_Ramaciotti Morales.png  # Add faculty image to assets/images/ and update here.
+  bio: "Pedro is Chair of AI in Social Sciences at CNRS & Sciences Po. studies social and political systems through social media and web data. After having received 
+  his PhD in Applied Mathematics from Ecole Polytechnique, he joined the Computer Science Department (LIP6) at Sorbonne University, and later on the Center for 
+  European Studies and Compared Politics (CEE) at Sciences Po. Today at médialab, he develops research projects at the intersection between sociology, political 
+  sciences, mathematics, and computer sciences, leveraging models and computing platforms in large-scale studies.
+  His research interests include computational social sciences, complex systems, recommender systems, machine learning/AI, social network analysis, and politics. 
+  Through his research, he tackles issues linked to disorders of digital ecosystems, such as polarization, fragmentation and concentration of online communities, 
+  connected with the future of governance of social media platforms. In one of his most recent projects, “AI-Political Machines”, funded by the McCourt Institute, 
+  he will develop research seeking to improve our understanding of how machines perceive social environments online, how this affects the way in which they recommend 
+  news content to users, and what the consequences are for the online political debate.
+  
+  At SICSS, Pedro will lead the European Polarization Observatory Workshop on July 4th." # Add faculty bio here.
+
+
+
+- name: "Márton Karsai" # Add faculty name here.
+  image: /assets/images/Marton_karsai.png  # Add faculty image to assets/images/ and update here.
+  bio: "Márton is an Associate Professor and Head of Department at the Department of Network and Data Science at the Central European University in Vienna. 
+  He leads the Computational Human Dynamics team at CEU, he is a Research Professor at the Rényi Institute of Mathematics in Budapest and he is an Affiliated 
+  Faculty of the Complexity Science Hub in Vienna. He is a network scientist with research interest in human dynamics, computational social science, and data science, 
+  especially focusing on heterogeneous temporal dynamics, spatial and temporal networks, socioeconomic systems and contagion phenomena. He is an expert in analysing 
+  large human behavioural datasets and in developing data-driven models of social and epidemic phenomena." # Add faculty bio here.
+
+
+
+
+
+
+- name: "Sönke Ehret" # Add faculty name here.
+  image: /assets/images/Sonke_Ehret.png  # Add faculty image to assets/images/ and update here.
+  bio: "Sönke is a political scientist and experimentalist with a PhD from New York University. His work bridges computational social science, behavioral experiments, 
+  and applied cultural evolution to study norm change, collective behavior, and public preferences around emerging technologies. He has run large-scale virtual lab 
+  experiments on social tipping and coordination, with recent work exploring elite signaling and the governance implications of AI. In addition to academic appointments 
+  at the University of Oxford and the University of Lausanne, he has contributed to data and metrics strategy in the international policy space, applying research 
+  insights to real-world challenges. 
+  
+  At SICSS, Sönke will lead the Experiments workshop on July 7th." # Add faculty bio here.
+
+
+
+  
+- name: "Dirk Hovy" # Add faculty name here.
+  image: /assets/images/dirk_hovy.png  # Add faculty image to assets/images/ and update here.
+  bio: "Dirk is a Professor in the Computing Sciences Department of Bocconi University in Milan. He is interested in the interaction between language, society, 
+  and machine learning, or what computers can tell us about language and what language can tell us about society. He is also interested in ethical questions of 
+  bias and algorithmic fairness in machine learning." # Add faculty bio here.
+
+
+
+
+
+- name: "Beatrice Franzolini" # Add faculty name here.
+  image: /assets/images/Franzolini-Photo.jpeg  # Add faculty image to assets/images/ and update here.
+  bio: "Beatrice is a Junior Assistant Professor (RTD-A) at the Bocconi Institute for Data Science and Analytics (BIDSA) and a core faculty member of the Bayesian 
+  Learning Laboratory (BayesLab) at Bocconi University in Milan, Italy. Her research adopts an interdisciplinary approach to develop rigorous probabilistic representations 
+  of complex phenomena, with a focus on Bayesian nonparametrics and probabilistic machine learning. Her work focuses on deepening the understanding of mathematical and 
+  probabilistic structures—such as dependent random measures and multivariate random partitions—while also exploring their application to modeling dynamic systems, 
+  including change-point detection and network data analysis. These methodologies have broad applications across various domains, including biostatistics, behavioral 
+  sciences, and financial econometrics.
+  Beatrice earned her PhD in Statistics from Bocconi University in February 2022. She has held research positions at the Singapore Institute for Clinical Sciences (SICS) 
+  and the Division of Biomedical Data Science at the National University of Singapore (NUS). In 2024, she served as Chair of the Junior Section of the International 
+  Society for Bayesian Analysis (j-ISBA) and was honored with the IMS New Researcher Travel Award.
+  
+  At SICSS, Beatrice will lead the Workshop “Decoding Connections: A Hands-On Workshop in Network Data Analysis” on July 8th." # Add faculty bio here.
+
+
+
+- name: "Flaminio Squazzoni" # Add faculty name here.
+  image: /assets/images/Flaminio_Squazzoni.png  # Add faculty image to assets/images/ and update here.
+  bio: "Flaminio is Professor of Sociology, director of the BehaveLab and chair of the Master's programme in Computational Social and Political Science at the 
+  Department of Social and Political Sciences of the University of Milan. He is editor of JASSS-Journal of Artificial Societies and Social Simulation, and one of 
+  the advisory editors of the Wiley Series in Computational and Quantitative Social Science and the Springer Series in Computational Social Science. He has been the 
+  President of the European Social Simulation Association for two mandates (2012/2016)." # Add faculty bio here.
+
+
+
+- name: "Alexander Kindel" # Add faculty name here.
+  image: /assets/images/alex_headshot.jpg  # Add faculty image to assets/images/ and update here.
+  bio: "Alex is Assistant Professor of Sociology in the médialab at Sciences Po. His research addresses problems in the history and practice of social measurement. 
+  A recurring theme in his work is the problem of validating predictive measures of complex and ambiguous theoretical processes. Alex is currently especially interested 
+  in methods for validating machine learning-based measures of conflictual culture (e.g. hate speech, stereotypes, supremacy, violence); he also maintains an interest 
+  in the disciplinary and organizational dimensions of validation problems generally." # Add faculty bio here.
+
+  
+- name: "Ágnes Horvát" # Add faculty name here.
+  image: /assets/images/agnes_Horvat.png  # Add faculty image to assets/images/ and update here.
+  bio: "Ágnes is an Associate Professor of Communication and Computer Science (by courtesy) at Northwestern University, USA. Her research in human-centered computing 
+  and network science investigates how ubiquitous networks induce biased information production, sharing, and processing on AI-enabled, algorithmic platforms. 
+  By uncovering how online spaces operate, her group strives to make digital tools more efficient for scientists, entrepreneurs, and creative artists. Their recent 
+  projects investigate the use of LLMs in scientific writing and music creation, study biases in online attention to science, identify cases of collective intelligence 
+  and opportunities for improved decision-making, and develop frameworks to examine persuasion and opinion change in online discussions. Professor Horvát's work has 
+  been awarded an NSF CAREER award. Her doctoral advisees have received highly competitive prizes, including a Northwestern Presidential Fellowship and best student paper 
+  awards at international conferences. Her research has been featured recently in Nature, The Washington Post, Le Monde, and The Economist." # Add faculty bio here.
+
+  
+

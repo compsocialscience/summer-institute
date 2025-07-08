@@ -1,4 +1,80 @@
-- name: "Speaker info coming soon." # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " ... " # add speaker bio here
-  website: https://www.google.com # update speaker personal link here
+- name: "Rasha Abdulla"
+  image: /assets/images/2025/graz/rasha_abdulla.jpg
+  bio: |
+    <p>Rasha is a Professor of Journalism and Mass Communication at the American University in Cairo, Egypt. Her research interests include the uses and effects of new media; media in transition; social media and mobilisation; social media and the public sphere; and issues of freedom of expression.</p>
+    <p>She is the author of The Internet in Egypt and the Arab World [in Arabic, Afaq Publications]; The Internet in the Arab World: Egypt and Beyond [Peter Lang, Inc]; Policing the Internet in the Arab World [the Emirates Centre for Strategic Study and Research]; and numerous other monographs, reports, book chapters, and research articles featured in top-tier international journals.</p>
+    <p>At DDNSF 2025, Rasha will share her research on the influence of the internet in Egypt, and the Arab world at-large, including how it has mediated and interacted with civic discourse, collective decision-making, and governance.</p>
+    <p><strong>Our recommended publications: "Facebook polls as proto-democratic instruments in the Egyptian revolution: The 'We Are All Khaled Said' Facebook page" (Abdulla et al., 2018) and "The Internet in the Arab world: Egypt and beyond" (Abdulla, 2007)</strong></p>
+  website: https://www.aucegypt.edu/fac/rasha-abdulla
+  
+- name: "Bernhard Rieder"
+  image: /assets/images/2025/graz/bernhard_rieder.jpeg
+  bio: |
+    <p>Bernhard is an associate professor in New Media and Digital Culture at the University of Amsterdam and a researcher with the Digital Methods Initiative.</p>
+    <p>His research focuses on the history, theory, and politics of software and in particular on the role algorithms play in the production of knowledge and culture. This work includes the development, application, and analysis of computational research methods and the investigation of political and economic challenges posed by large online platforms.</p>  
+    <p>He is also an active contributor to numerous software projects, mainly in the areas of digital research methodology, data visualisation, and geolocalisation.</p> 
+    <p>At DDNSF 2025, Bernhard will introduce the analysis of social media data using digital methods: a theoretically involved, yet highly practical, approach to the study of social media.</p>
+    <p><strong>Our recommended publications: "From ranking algorithms to 'ranking cultures': Investigating the modulation of visibility in YouTube search results" (Rieder, Matamoros-Fernández, and Coromina 2018) and "Towards a political economy of technical systems: The case of Google" (Rieder, 2022)</strong></p>
+  website: http://thepoliticsofsystems.net/
+
+- name: "Karoline Wiesner"
+  image: /assets/images/2025/graz/Karoline_wiesner.jpg
+  bio: |
+    <p>Karoline is a Professor of Complexity Science and leader of the Complexity Science Group at the University of Potsdam, Germany.</p>
+    <p>Her group develops the foundations of complex systems (information theory), the dynamics of democracies (blending political science and statistical-physics-inspired methods), and neural networks.</p>
+    <p>At DDNSF 2025, Karoline will share her research on the dynamics of democracies, discussing the classification, properties, and dynamics of democracies, based on empirical datasets, through a complex systems lens.</p>
+    <p><strong>Our recommended publications: "The principal components of electoral regimes: separating autocracies from pseudodemocracies" (Wiesner, Bien, and Wilson, 2024) and "What is a complex system?" (Ladyman, Lambert, and Wiesner, 2024)</strong></p>
+  website: https://www.karowiesner.org/
+
+- name: "Jana Lasser"
+  image: /assets/images/2025/graz/jana_lasser.jpg
+  bio: |
+    <p>Jana is a Professor for Data Analysis at University of Graz and leads the research group of Complex Social & Computational Systems. She researches emergent phenomena in complex social systems, employing methods from machine learning, data science, natural language processing and computational and statistical modelling to understand how humans behave in socio-technical environments.</p> 
+    <p>Her current research interests include the effectiveness of counterspeech strategies and the spread of misinformation on social media platforms, the fracturing of our society's understanding of "honesty" and the impact of social media recommendation algorithms on societal outcomes.</p>
+    <p>She has also recently commenced the "DESIRE" project (Designing Social Media Recommendation Algorithms for Societal Good) under the ERC Starting grant. She aims to research alternative content recommendation algorithms for social media platforms to improve the typical engagement-based optimisations.</p>   
+    <p>As the group lead of CS^2, the hosting institute of DDNSF 2025, Jana will introduce the group, explaining its approach, goals, and accomplishments.</p>
+    <p><strong>Our recommended publications: "From alternative conceptions of honesty to alternative facts in communications by US politicians" (Lasser, 2023) and "Different honesty conceptions align across US politicians' tweets and public replies" (Carella et al., 2024)</strong></p>
+  website: https://www.janalasser.at/
+
+- name: "Étienne Brown"
+  image: /assets/images/2025/graz/etienne_brown.jpg
+  bio: |
+    <p>Étienne is an Associate Professor of Philosophy at San José State University, in the United States. His work sits at the intersection of political philosophy, ethics, and the philosophy of technology, with a current focus on the normative implications of the digital public sphere (especially content moderation and algorithmic recommendation).</p>
+    <p>He is also the founder and co-organiser of Philmod.org, a community of academic researchers and technology professionals interested in the ethics of social media platform policy.</p>
+    <p>At DDNSF 2025, Étienne will introduce us to the normative foundations of democracy, and share his thinking on the normative implications of the digital public sphere.</p>
+    <p><strong>Our recommended publications: "Regulating the spread of online misinformation" (Brown, 2023) and "Propaganda, Misinformation, and the Epistemic Value of Democracy" (Brown, 2023)</strong></p>
+  website: https://www.etiennebrown.com/
+
+- name: "Petter Törnberg"
+  image: /assets/images/2025/graz/petter_tornberg.jpg
+  bio: |
+    <p>Petter is an Assistant Professor in Computational Social Science at University of Amsterdam, senior researcher at University of Neuchatel, and Associate Professor in Complex Systems at Chalmers University of Technology.</p>
+    <p>His research asks how digital technology is reshaping our politics, media and cities. He uses computational methods and digital data to critically examine the consequences of datafication, platformization, and AI.</p>
+    <p><strong>Our recommended publications: "Intimate Communities of Hate: Why Social Media Fuels Far-Right Extremism" (Törnberg & Törnberg, 2024) and "Simulating Social Media Using Large Language Models to Evaluate Alternative News Feed Algorithms" (Törnberg et al., 2023)</strong></p>
+  website: https://www.pettertornberg.com/
+# Need to add a para for what Petter will do at DDNSF 2025.
+
+
+- name: "Nadja Meisterhans"
+  image: /assets/images/2025/graz/nadja_meisterhans.png
+  bio: |
+    <p>Nadja Meisterhans is a professor for political philosophy at Karlshochschule in Karlsruhe, specializing in critical theory, psychoanalysis, and postcolonial feminist critiques of power and domination.</p>
+    <p>Her research is focusing on global governance, civil society, and social movements and specializes in the intersections of critical theory and psychoanalysis, particularly in the context of the authoritarian crisis of liberal democracy.</p>
+    <p><strong>Our recommended publications: "Authoritarian Populism and the Dialectics of Desire. Perspectives of Ideology-Critique" (Meisterhans, 2021) and "An alternative model of governance?" In: Journal for Development and Cooperation (DC) (Meisterhans, 2014)</strong></p>
+  website: https://karlsuniversity.de/de/hochschule/professorinnen/prof-dr-nadja-meisterhans.html
+
+
+
+
+
+#- name: "Naomi Appelman"
+#  image: assets/images/2025/graz/naomi_appelman.jpg
+#  bio: |
+#    <p>Naomi is a researcher founding the Racism & Technology Center and interested in how technology can reflect, obfuscate, or amplify social inequalities, aiming to use law, advocacy, and action to dismantle systems of oppression and instigate radical change.</p>
+#    <p>Her dissertation at the University of Amsterdam was on resistance and contestation to online exclusion and algorithmic discrimination. She specialised in EU information law and democratic theory.</p>
+#    <p>At DDNSF 2025, Naomi will share her persective on the boundaries of political discourse on online platforms, including perverse interests of platforms, and the state of relevant EU regulations.</p>
+#    
+#    <p><strong>Our recommended publications: "Contesting Online Exclusion. EU-Regulation of Content Moderation through an Agonistic Lens" (Appelman 2024) and "Disparate Content Moderation: Mapping Social Justice Organisation's Perspectives on Unequal Content Moderation Harms and the EU Platform Policy Debate" (Appelman, 2024)</strong></p>
+#  website: https://naomiappelman.net/
+#
+# Currently waiting for her confirmation. 

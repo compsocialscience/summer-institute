@@ -1,36 +1,66 @@
-- name: "Preliminary list of speakers."
+#- name: "Preliminary list of speakers."
 
 - name: "Abhisek Dash (Max Planck Institute for Software Systems)" # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " " # add speaker bio here
-  #website: https://www.google.com # update speaker personal link here
+  image: /assets/images/2025SBAbhisekDash.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Abhisek Dash is a postdoctoral researcher in Dr. Krishna P. Gummadi's Networked Systems Research Group at MPI-SWS, Saarbruecken. His broad area of research revolves around different aspects of computational social science which includes (, but is not limited to) algorithm auditing, multi-modal analyses of social media data, understanding decentralized social media platforms, compliance of platforms with data protection regulations, fairness in digital marketplaces." # add speaker bio here
+  website: https://sites.google.com/site/abhisek0193/ # update speaker personal link here
+
+- name: "Alex Hartland (Saarland University)" # Speaker name goes here.
+  image: /assets/images/2025SBAlexHartland.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Dr. Alex Hartland is a postdoctoral researcher in the Department of Political Science with a focus on European Integration and International Relations at Saarland University. He completed his PhD at the University of Manchester, where he analysed the impact of lobbying and public opinion on asylum policy in Germany and the UK. Previously, he studied Intercultural Conflict Management at the Alice Salomon Hochschule in Berlin and Psychology at the University of Warwick. His work focuses on political trust, interest groups and comparative European politics. He uses survey data, quantitative text analysis, experimental research designs and qualitative methods to investigate the role of institutions, lobbying and public opinion in politics and political behaviour." # add speaker bio here  
+  website: https://www.uni-saarland.de/en/chair/braun/team/dr-alex-hartland.html # update speaker personal link here
   
 - name: "Bernie Hogan (University of Oxford)" # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " " # add speaker bio here
-  #website: https://www.google.com # update speaker personal link here
+  image: /assets/images/2025SBBernieHogan.jfif  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Bernie Hogan (PhD Toronto, 2009) is a Associate Professor, Senior Research Fellow at the OII and Research Associate at the Department of Sociology. With training in sociology and computer science, Hogan focuses on how social networks and social media can be designed to empower people to build stronger relationships and stronger communities." # add speaker bio here
+  website: https://www.oii.ox.ac.uk/people/profiles/bernie-hogan/ # update speaker personal link here
 
 - name: "Daniela Braun (Saarland University)" # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " " # add speaker bio here
-  #website: https://www.google.com # update speaker personal link here
+  image: /assets/images/2025SBDanielaBraun.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Prof. Dr Daniela Braun has been Professor of Political Science with a focus on European Integration and International Relations since 2022. Prior to that, she taught and conducted research at the Geschwister-Scholl-Institute for Political Science at the Ludwig-Maximilians-Universität in Munich since 2010. In her research, she focuses on topics from the field of EU politics. European elections, European parties and the European party system as well as citizens and voters and their attitudes and behaviour in the European multi-level system are among her core topics. Her academic teaching focuses on the political system of the European Union, the current challenges of the multi-level system of the European Union and political sociology. Daniela Braun's research has been published in the following political science journals, among others: European Journal of Political Research, European Union Politics, German Politics, International Political Science Review, Journal for European Integration, Journal of European Public Policy, Party Politics, West European Politics, Zeitschrift für Vergleichende Politikwissenschaft and Zeitschrift für Parlamentsfragen. In addition, she has funded and carried out various research projects (BMBF; DFG; Horizon 2020; Horizon Europe) on Europe-related topics." # add speaker bio here
+  website: https://www.uni-saarland.de/en/chair/braun/prof-dr-daniela-braun.html # update speaker personal link here
   
 - name: "Emilio Zagheni (Max Planck Institute for Demographic Research)" # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " " # add speaker bio here
-  #website: https://www.google.com # update speaker personal link here
+  image: /assets/images/2025SBEmilioZagheni.jfif  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Emilio Zagheni is Director of the Max Planck Institute for Demographic Research (MPIDR) and affiliate faculty of the Department of Sociology at the University of Washington, Seattle, where he served as Training Director of the Center for Studies in Demography and Ecology. He received his Ph.D. in Demography (2010) and M.A. in Statistics (2008) from U.C. Berkeley. Zagheni is currently President of the European Association for Population Studies (EAPS). Previously he chaired the Digital Demography Panel of the International Union for the Scientific Study of Population (2015-2022), playing a key role in favoring innovation in population research through collaboration and exchange between demographers, statisticians and computational scientists." # add speaker bio here
+  website: https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/emilio_zagheni_2243 # update speaker personal link here
 
 - name: "Georg Wenzelburger (Saarland University)" # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " " # add speaker bio here
-  #website: https://www.google.com # update speaker personal link here
+  image: /assets/images/2025SBGeorgWenzelburger.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Georg Wenzelburger is a Professor of Comparative European Politics at Saarland University and its Cluster of European Research (CEUS). His research interests involve the comparative analysis of public policies with a recent focus on law-and-order policies (e.g. “The Partisan Politics of Law and Order”, OUP 2020), the welfare state, party politics and the politics of the digital transformation." # add speaker bio here
+  website: https://georg-wenzelburger.eu/ # update speaker personal link here
 
+- name: "Giuseppe Carteny (Saarland University)" # Speaker name goes here.
+  image: /assets/images/2025SBGiuseppeCarteny.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Dr. Giuseppe Carteny is a postdoctoral researcher at the Chair of Political Science with a focus on European Integration and International Relations at Saarland University. Previously, he was a postdoctoral researcher at the Mannheim Centre for European Social Research (MZES) at the University of Mannheim for the ProConEU project, a research project investigating the growing gap between supporters and opponents of European integration in relation to party politics, civic politics and social media communication, funded by the German Federal Ministry of Education and Research (BMBF). In July 2021, he completed his PhD in Political Science at the Network for the Advancement of Social and Political Studies (NASP) at the University of Milan with a dissertation dedicated to the individual and contextual antecedents of individual trust in public institutions in the East Asian region. His work focuses the study of political attitudes, electoral behaviour, party politics, and comparative politics in Europe and East Asia, with a particular focus on institutional confidence, value and ideological orientations, Euroscepticism, far-right party agency, cleavage politics, and related topics. His methodological interests include classical quantitative methods for the social sciences, quantitative text analysis methods and survey methodology." # add speaker bio here
+  website: https://www.uni-saarland.de/en/chair/braun/team/dr-giuseppe-carteny.html # update speaker personal link here
+  
+- name: "Kevin Baum (German Research Center for Artificial Intelligence)" # Speaker name goes here.
+  image: /assets/images/2025SBKevin.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Kevin Baum is a computer scientist and philosopher researching interdisciplinary topics in ethical and safe AI. He leads the Responsible AI and Machine Ethics (RAIME) research group at the German Research Center for Artificial Intelligence (DFKI) and is part of the Center for European Research in Trusted AI (CERTAIN), where he explores ethical frameworks and practical methods for trustworthy, aligned AI systems. Kevin frequently lectures and speaks internationally on AI ethics, notably through the award-winning course Ethics for Nerds." # add speaker bio here
+  website: https://kevinbaum.de/ # update speaker personal link here
+ 
 - name: "Ridhi Kashyap (University of Oxford)" # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " " # add speaker bio here
-  #website: https://www.google.com # update speaker personal link here
+  image: /assets/images/2025SBRidhiKashyap.jfif  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Ridhi Kashyap is Professor of Demography and Computational Social Science at the Department of Sociology, Nuffield College, and Leverhulme Centre for Demographic Science at the University of Oxford. Her research examines population dynamics and human development, with a focus on gender inequalities. She has pioneered the use of computational methods and digital data sources for demographic research, and currently serves as the chair of the International Union for the Scientific Study of Population’s Panel on Digital and Computational Demography." # add speaker bio here
+  website: https://www.sociology.ox.ac.uk/people/ridhi-kashyap # update speaker personal link here
+  
+- name: "Rosa M. Navarrete (Saarland University)" # Speaker name goes here.
+  image: /assets/images/2025SBRosaMNavarrete.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Since December 2022, Dr. Rosa M. Navarrete has been working as a postdoctoral researcher and lecturer at the Chair of Political Science with a focus on European Integration and International Relations in the Department of European Social Research at Saarland University. Previously, she was a postdoctoral researcher at MZES (University of Mannheim), a research associate at the Chair of Comparative Government at the University of Mannheim, a research associate for the project Democratic dissatisfaction in Southern Europe: the political consequences of the crisis at the University of York and a research associate at the Autonomous University of Madrid." # add speaker bio here
+  website: https://www.rosanavarrete.com/ # update speaker personal link here
   
 - name: "Savvas Zannettou (Delft University of Technology)" # Speaker name goes here.
+  image: /assets/images/2025SBSavvasZannettou.jfif  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Savvas Zannettou is an Assistant Professor at the Technology, Policy, and Management (TPM) faculty at TU Delft. He is also an Associated Researcher with the Max Planck Institute for Informatics (MPI-INF) and a core member of the International Data-driven Research for Advanced Modeling and Analysis Lab (iDrama Lab). His research focuses on applying machine learning and data-driven quantitative analysis to understand emerging phenomena on the Web such as the spread of false information and hateful rhetoric. He is also interested in understanding algorithmic recommendations on social media platforms." # add speaker bio here
+  website: https://zsavvas.github.io/ # update speaker personal link here
+
+- name: "Tom Theile (Max Planck Institute for Demographic Research)" # Speaker name goes here.
   image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " " # add speaker bio here
-  #website: https://www.google.com # update speaker personal link here
+  bio: "Tom Theile is a research software engineer working at the Department of Digital and Computational Demography at the Max Planck Institute for Demographic Research in Rostock. He works together with the researchers in the Laboratory of Population Dynamics and Sustainable Well-Being and the Laboratory of Migration and Mobility on long-term digital data collections, data transformations, and simulation software projects. Some of the projects are rsocsim, a kinship microsimulator, and the Scholarly Migration Database which is based on large scale bibliometric data. From time to time, he visits a population conference, teaches courses on the practical aspects of digital demography, or co-authors  a paper."
+  website: https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/tom_theile_3933/ # update speaker personal link here
+
+- name: "Uwe Albrecht (Adolf-Bender-Zentrum)" # Speaker name goes here.
+  image: /assets/images/2025SBUweAlbrecht.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Uwe Albrecht studied Political Science and Sociology. He joined the Adolf-Bender-Center as a project assistant in 2011. His work focuses on right-wing extremism, racism, anti-Semitism and anti-democracy." # add speaker bio here
+  # website:  # update speaker personal link here

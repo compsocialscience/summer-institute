@@ -1,6 +1,31 @@
-- name: "Faculty info coming soon." # Add faculty name here.
-  image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
-  bio: "Check back soon for updates." # Add faculty bio here.
-  website: https://www.google.com  # Link faculty website here.
+- name: "Complex Social & Computational Systems Group"
+  image: /assets/images/2025/graz/CSCS-Wappen-BW.png
+  bio: |
+    <p>The Complex Social & Computational Systems Group conducts interdisciplinary research at the intersection of technology, social dynamics, and policy to address challenges in online discourse and societal cohesion. Combining computational methods with social science, their work informs ethical platform design, counters misinformation, and promotes healthier digital ecosystems. Key projects include:</p>
+    <ul>
+      <li><strong>Designing Social Media Recommendation Algorithms for Societal Good (ERC-funded):</strong> Aims to redesign content recommendation algorithms to reduce systemic risks (e.g., polarisation, outrage) under the EU's Digital Services Act.</li>
+      
+      <li><strong>The Spread of Conspiracy Theories in Online Spaces (FWF/netidee-funded):</strong> Analyses German-language Telegram data (23TB from the "Schwurbelarchiv") to disentangle individual, social, and technological drivers of conspiracy theory dissemination.</li>
+      
+      <li><strong>The Fracturing of Honesty in Political Communication:</strong> Traces the rise of "belief-speaking" (subjective, evidence-free claims) vs. "truth-seeking" (evidence-based discourse) in U.S. politicians' tweets (2011–2022).</li>
+      
+      <li><strong>Effectiveness of Counterspeech Strategies:</strong> Collaborates with social scientists to identify effective tactics (e.g., humour, questioning) against organised hate groups (e.g., Reconquista Germanica). Uses machine learning to classify strategies and measure de-escalation outcomes in German Twitter data.</li>
+    </ul>
+  website: https://idea-lab.uni-graz.at/en/research-fields/data-analysis/
+
+- name: "Tim Booker" # Faculty/organizer name
+  image: /assets/images/tim_booker.jpg  # Add faculty image to assets/images/ and update here.
+  bio: "Tim Booker explores the societal implications of social media, with a focus on how recommender systems influence beliefs, communication, and culture within Western liberal democracies. His doctoral thesis designs and evaluates alternative recommender systems that prioritise healthier civic discourse over typical engagement metrics."
+  website: https://timbooker.net/
+
+- name: "Elisabeth Höldrich" 
+  image: /assets/images/Elisabeth_Höldrich.png
+  bio: "Elisabeth Höldrich is a PhD candidate at the IDea_Lab since 2024, researching the rise and spread of conspiracy theories in online environments within the Orientation in Conspiration project (ORION). Through the application of Natural Language Processing and topic modelling Elisabeth hopes to measure different characteristics of individual conspiracy theories and identify which of these characteristics contribute most to the popularity of a conspiracy theory."
+  website: https://idea-lab.uni-graz.at/en/research-fields/data-analysis/
+
+- name: "Mathias Angermaier"
+  image: /assets/images/Mathias_Angermaier.png
+  bio: "Mathias is researching dynamics in collective adaptation and the transformation of social norms. By tracking the flow of information and the characteristics of their content, he tries to find reoccurring narratives and their possible impact on the way they shape communities."
+  website: https://idea-lab.uni-graz.at/en/research-fields/data-analysis/
 
 # Add more faculty with the same format as above...

@@ -1,4 +1,67 @@
-- date: Janurary 32, 2025
-  name: "Example Event"
+- date: July 7, 2025
+  name: "1st Day"
   events:
-    - name: Example Event
+    - name: "Location: Boardroom, #04-04 The Centre for Trusted Internet Community (CTIC), 3 Research Link, Innovation 4.0, 117602"
+    - name: "09:30 - 10:00 Registration and Welcome"
+    - name: "10:00 - 12:00 Lecture by **Dr. Renwen Zhang**"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 14:30 Group Allocation & Discussion"
+    - name: "14:30 - 15:00 Tea Break"
+    - name: "15:00 - 17:00 Lecture by **Dr. Yi-Chieh Lee**"
+    - name: "17:00 - 17:15 Photo Session"
+
+- date: July 8, 2025
+  name: "2nd Day"
+  events:
+    - name: "Location: Boardroom, #04-04 The Centre for Trusted Internet Community (CTIC), 3 Research Link, Innovation 4.0, 117602"
+    - name: "09:45 - 10:00 Check-in / Morning Tea"
+    - name: "10:00 - 12:00 Lecture by **Dr. Prateek Bansal**"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 14:30 Group Discussion"
+    - name: "14:30 - 15:00 Tea Break"
+    - name: "15:00 - 17:00 Workshop by **Dr. Joe Simons**, **Mr. Brandon Loh**, and **Dr. Prasanta Bhattacharya**, A*STAR"
+
+- date: July 9, 2025
+  name: "3rd Day"
+  events:
+    - name: "Location: Boardroom, #04-04 The Centre for Trusted Internet Community (CTIC), 3 Research Link, Innovation 4.0, 117602"
+    - name: "09:45 - 10:00 Check-in / Morning Tea"
+    - name: "10:00 - 12:00 Lecture by **Dr. Hannah Eleanor Clapham**"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 14:30 Group Discussion"
+    - name: "14:30 - 15:00 Tea Break"
+    - name: "15:00 - 17:00 Lecture by **Dr. Swapnil Mishra**"
+
+- date: July 10, 2025
+  name: "4th Day"
+  events:
+    - name: "Location: Boardroom, #04-04 The Centre for Trusted Internet Community (CTIC), 3 Research Link, Innovation 4.0, 117602"
+    - name: "09:45 - 10:00 Check-in / Morning Tea"
+    - name: "10:00 - 12:00 Lecture by **Dr. Joshua Uyheng**"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 14:30 Group Discussion"
+    - name: "14:30 - 15:00 Tea Break"
+    - name: "15:00 - 17:00 Lecture by **Dr. Kokil Jaidka**"
+
+- date: July 11, 2025
+  name: "5th Day"
+  events:
+    - name: "Location: Boardroom, #04-04 The Centre for Trusted Internet Community (CTIC), 3 Research Link, Innovation 4.0, 117602"
+    - name: "09:45 - 10:00 Check-in / Morning Tea"
+    - name: "10:00 - 12:00 Lecture by **Dr. Jonathan Zhu**"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 14:30 Group Discussion"
+    - name: "14:30 - 15:00 Tea Break"
+    - name: "15:00 - 17:00 Lecture by **Dr. Celine Yunya Song**"
+
+- date: July 14, 2025
+  name: "6th Day"
+  events:
+    - name: "Location: Boardroom, #04-04 The Centre for Trusted Internet Community (CTIC), 3 Research Link, Innovation 4.0, 117602"
+    - name: "09:45 - 10:00 Check-in / Morning Tea"
+    - name: "10:00 - 12:00 **Group Presentations**"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 14:30 Group Discussion"
+    - name: "14:30 - 15:00 Tea Break"
+    - name: "15:00 - 17:00 Lecture by  **Dr. Douglas Guilbeault**"
+    - name: "17:00 - 17:15 Photo Session"

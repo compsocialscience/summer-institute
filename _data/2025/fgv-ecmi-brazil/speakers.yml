@@ -1,4 +1,53 @@
-- name: "Speaker info coming soon." # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " ... " # add speaker bio here
-  website: https://www.google.com # update speaker personal link here
+- name: Dalson Figueiredo
+  image: /assets/images/dbff_foto_sicss.jpg
+  bio: "Dalson Figueiredo is a Professor in the Department of Political Science at the Federal University of Pernambuco (UFPE) and a Catalyst at the Berkeley Initiative for Transparency in the Social Sciences (BITSS). He was a visiting researcher at the University of Oxford, United Kingdom (2022), and is currently the coordinator of the Graduate Program in Political Science at UFPE."
+  
+- name: Elias Bitencourt
+  image: /assets/images/foto_elias_perfil.jpg
+  bio: "Elias Bitencourt is an Associate Professor in the Department of Design at Universidade do Estado da Bahia (UNEB). He holds a Ph.D. in Communication from FACOM/UFBA and a Master's in Culture and Society from IHAC/UFBA. He was a visiting researcher at the Milieux Center (Concordia University, Canada, 2019) and currently leads the Datalab/Design at UNEB: a center for research and development in data visualization and digital methodologies. His research focuses on data visualization, algorithmic mediation in daily social life, platform studies, digital practices, and imagination. He also collaborates with the Inova Media Lab (Universidade Nova de Lisboa) and the international Public Data Lab research network."
+
+- name: Eurico Mattos
+  image: /assets/images/eurico_matos.png
+  bio: "Eurico Matos is a PhD and Master in Contemporary Communication and Culture at the Bahia Federal University. He coordinates the Digital Communication undergraduate course at FGV ECMI and is a researcher at the National Institute of Science and Technology in Digital Democracy (INCT.DD). He carries out research on topics such as digital government, political communication, online hate speech and mobile app studies."
+
+- name: Felipe Marques Esteves Lamarca
+  image: /assets/images/felipe_lamarca_foto.jpeg
+  bio: Felipe Lamarca is a social scientist graduated from the School of Social Sciences (FGV CPDOC) and a data scientist graduated from the School of Applied Mathematics (FGV EMAp). He is currently a data scientist at AtlasIntel and a master’s student in Political Science at the Institute of Social and Political Studies (IESP-UERJ), where he is also a researcher at the Laboratory for Monitoring and Evaluation of Policies and Elections.
+
+- name: Hugo Medeiros
+  image: /assets/images/hugo_medeiros_sicss.jpg
+  bio: Hugo Medeiros holds a Licentiate Degree in History (UFPE), a Bachelor's Degree in Information Systems (UNESA), an MBA in Data Science (DSA), and a PhD in Education (UFPE), with postdoctoral research in Political Science (UFPE). He is a Government Planning Manager at the State Secretariat of Planning (SEPLAG-PE), where he currently serves as General Manager of Data for Results. He is a Permanent Professor in the Professional Graduate Program in Public Policy (UFPE), advising Master's and PhD research on Education Policy, STI (Science, Technology, and Innovation) Policy, and the use of Technology and Innovation in Public Management. He also serves as an Adjunct Professor in the Graduate Program in Political Science (UFPE), and as a Senior Researcher at the UFC/FCPC/MEC Center for the Evaluation of the University for All Program (PROUNI).
+
+- name: Jess Reia
+  image: /assets/images/jess_reia_sicss.JPEG
+  bio: "Jess Reia is an Assistant Professor of Data Science at the University of Virginia, a 2024 Visiting Scholar at Fudan University and a 2024-2025 Non-Resident Fellow at the Center for Democracy & Technology in Washington, D.C. Before joining UVA, they were appointed Mellon Postdoctoral Researcher at McGill University and BMO Fellow at the Centre for Interdisciplinary Research on Montreal in Canada. Reia held a two-year mandate as a member of MTL 24/24's first Night Council in Montreal, providing guidance on data collection and open data practices for the night-time economy ecosystem. From 2011 to 2019, Reia worked at the Center for Technology & Society at FGV Law School in Rio de Janeiro, Brazil, leading projects on access to knowledge, privacy and smart cities in Latin America and BRICS. They work primarily on data justice, urban governance, and technology policy transnationally."
+
+- name: José Lopes
+  image: /assets/images/jose_lopes_sicss_br.jpeg
+  bio: "Coordinator of the g1 Home"
+
+- name: Leonardo Nascimento
+  image: /assets/images/leonardonascimento.jpg
+  bio: "Leonardo F. Nascimento is a professor at the Federal University of Bahia. As the Digital Humanities Laboratory (LABHDUFBA) coordinator, he has contributed to research in digital sociology, digital humanities, and computational social science. He is the author of the book “Sociologia Digital: uma breve introdução - EDUFBA – 2020”. In his current research, he is collaborating with InternetLab, UFSC, and AI for Society on a project investigating the intersection of instant messengers and political violence and utilizing a combination of natural language processing (NLP) techniques and mixed qualitative approaches, including discourse analysis and online ethnography." 
+  website: https://leofn.com/
+
+- name: Letícia Vianna
+  image: /assets/images/leticia_vianna_sicss_br.jpeg
+  bio: "Product Manager of g1"
+
+- name: Mateus Pestana
+  image: /assets/images/mateus_pestana.png
+  bio: "Matheus Pestana is a professor at the School of Communication, Media, and Information at Fundação Getulio Vargas (FGV ECMI), a researcher at the Institute for Religious Studies (ISER), and a member of the New Illegalisms research group (GENI/UFF). He is a PhD Candidate in Political Science at the State University of Rio de Janeiro (UERJ), where he also earned his Master's degree in the same field. His current research focuses on the intersection of artificial intelligence (AI) and politics/public opinion. He has interests in computer vision, large language models (LLMs), speech recognition, and image detection/segmentation."
+
+- name: Murilo Junqueira
+  image: /assets/images/Murilo_sicss_ecmi.png
+  bio: "Murilo de Oliveira Junqueira is a Social Scientist and Data Scientist, and holds a Master’s and PhD in Political Science from the University of São Paulo (USP). He is a Consultant at the Institute for Applied Economic Research (IPEA) and a Professor of Political Science at the Federal University of Pará (UFPA). His work focuses on political institutions, public policy, and data analysis in the Brazilian context."
+
+- name: Tiago Ventura
+  image: /assets/images/thiago_ventura_sicss.jpg
+  bio: "Tiago Ventura is an Assistant Professor in Computational Social Science at Georgetown University’s McCourt School of Public Policy. His research focuses on political communication and online behavior, combining methods from computational social science and political science. Prior to joining Georgetown, he was a Postdoctoral Fellow at NYU’s Center for Social Media and Politics. He received his Ph.D. in Political Science from the University of Maryland, College Park, where he remains affiliated with the Interdisciplinary Laboratory for Computational Social Science (iLCSS). He also gained experience in the tech industry as a Misinformation Researcher at Twitter." 
+  website: https://www.venturatiago.com/
+
+- name: Victor Piaia
+  image: /assets/images/Victor_sicss_ecmi.png
+  bio: "Victor Piaia holds a PhD in Sociology at the Institute of Social and Political Studies (IESP-UERJ). He is a professor at FGV Comunicação and a leader of the Study Group in Political Sociology and Digital Transformations. He studies the political effects of transformation in daily communication, focusing on social media platforms and messaging apps."

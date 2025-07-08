@@ -11,7 +11,8 @@ The Summer Institute will bring together people from many fields and backgrounds
 - Complete coding bootcamp (if needed)
 - Prepare your computing environment
 
-TAs will host office hours through Slack to support you as you work through these pre-arrival materials.
+## Map
+![alt text](/assets/images/singapore.2025.location.png)
 
 ## Reading
 

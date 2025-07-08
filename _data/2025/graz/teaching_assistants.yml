@@ -1,5 +1,15 @@
-- name: "TA info coming soon."
-  image: /assets/images/placeholderPic.png
-  bio: "..."
-  website: www.google.com
-# add more TAs with this format below...
+- name: "Ruggero Marino Lazzaroni"
+  image: /assets/images/2025/graz/ruggero_lazzaroni.jpg
+  bio: |
+    <p>Ruggero is a PhD researcher at CS^2, Graz University, focusing on using large language models to enable social science simulations, with a particular interest in applying LLMs to analyse disinformation dynamics and collective behaviour. He holds a Bachelor's degree in Philosophy, International and Economic Studies from Ca' Foscari University and a Master's degree in Social Data Science from RWTH Aachen, where he researched chain-of-thought approaches for LLM-based social simulations for his Master thesis.</p>
+    <p>His research combines LLM fine-tuning and agent-based modelling, while also maintaining several industry collaborations as an Al consultant, developing custom RAG systems and knowledge graph solutions. Outside academia, he contributes to data (and traditional) journalism projects at Scomodo magazine, applying machine learning methods to analyse political and social phenomena. His side projects include developing tools for polling data analysis, fine-tuning models for various purposes, and creating datasets for academic research. His approach involves bridging theoretical frameworks with practical applications, using computational methods to understand social dynamics while ensuring results are accessible and meaningful for both academic and public audiences.</p>
+    <p>At DDNSF 2025, he will assist in supervising the project work, and provide a tutorial in Week 1, guiding the students to understand and use LLMs for research.</p>
+  website: https://github.com/ruggsea
+
+- name: "João Neto"
+  image: /assets/images/2025/graz/joao_neto.jpg
+  bio: |
+    <p>João is a physicist with an interest in computational social science. He focusses on comparing social media platforms, trying to understand what makes them tick. He uses data-driven toy models to help design social media platforms that are better, and more resilient to manipulation by bad actors. He also believes that timely research can influence decision-making and ultimately pressure platforms into design decisions that do more than blindingly chase engagement metrics.</p>
+    <p>His approach involves large-scale data collection, as well as analysis and modelling using techniques from physics, statistics, and machine learning. In particular, he focusses on large language models as both object of research (their impact on social media) and as tools for simulating and analysing social media content.</p>
+    <p>As a CS^2 local, João will assist in supervising the DDNSF 2025 project work, and provide a tutorial in Week 1, guiding the students to understand and use LLMs for research.</p>
+  website: https://joaopn.github.io/

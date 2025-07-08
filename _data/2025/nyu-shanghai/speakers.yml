@@ -1,15 +1,30 @@
-- name: "Lingfei Wu"
-  image: /assets/images/nyushanghai2025/Lingfei Wu_photo.jpg
-  bio: "Lingfei Wu is an Assistant Professor of Information Science at the University of Pittsburgh. His research leverages big data, complexity science, and AI to advance the Science of Team Science and Innovation. He has transformed prior research in two key ways: first, by introducing the Disruption Index (D-index) as the first metric for scientific breakthroughs, shifting research evaluation from citation-based popularity to disruptive innovation; and second, by uncovering the hidden costs of team collaboration—how large teams can suppress individual creativity and recognition, thus complementing organizational studies that focus mainly on team benefits. His work provides the scientific foundation for funding innovative small teams, as well as informing organizational and policy changes to balance individual and team success in the age of team-based science. 
-  Lingfei’s research is widely recognized in Computational Social Science and the Science of Science, with publications in <i>Nature, PNAS</i>, and other top journals. His work has been featured in major media outlets, including <i>The New York Times, Harvard Business Review, Forbes, The Atlantic, and Scientific American</i>. As a thought leader in research evaluation, he has advised organizations such as the National Institutes of Health (NIH), Novo Nordisk Foundation, and John Templeton Foundation. His research and teaching excellence have been recognized with awards including the NSF CAREER Award, Richard King Mellon Award, and Oxford Martin Fellowship." # add speaker bio here
-  website: https://lingfeiwu.github.io/
+- name: "Chris Bail"
+  image: /assets/images/nyushanghai2025/Chris Bail.png
+  bio: "Chris Bail is Professor of Sociology, Computer Science, Political Science, and Public Policy at Duke University, where he directs the Society-Centered AI Initiative and co-directs the Polarization Lab. He studies how artificial intelligence shapes human behavior in a range of different settings—and social media platforms in particular."
+  website: https://www.chrisbail.net/
 
 - name: "Yingdan Lu"
   image: /assets/images/nyushanghai2025/Yingdan_Lu_bio-photo.jpg
   bio: "Yingdan Lu is an Assistant Professor in the Department of Communication Studies at Northwestern University. She is the director of the Computational Media and Politics Lab, and the co-director of the Computational Multimodal Communication Lab. Her research focuses on digital technology, political communication, and information manipulation. She uses computational and qualitative methods to understand topics like the evolution and engagement of digital propaganda in authoritarian regimes and how individuals encounter and communicate multimodal information in AI-mediated environments. Her work has appeared in peer-reviewed journals such as <i>Proceedings of the National Academy of Sciences (PNAS), Political Communication, New Media & Society, Human-Computer Interaction</i>, and among other peer-reviewed journals. She received her Ph.D. in Communication and a Ph.D. minor in Political Science from Stanford University."
   website: https://yingdanlu.com/
 
-- name: "more speakers' info coming soon"
-  image: /assets/images/placeholderPic.png
-  bio: "..."
-  website: https://www.google.com
+- name: "Yongren Shi"
+  image: /assets/images/nyushanghai2025/Yongren Shi_Photo.jpg
+  bio: "Yongren Shi is an assistant professor in the department of sociology and criminology, University of Iowa. His research examines how culture, membership, and social networks contribute to stratification and polarization within human groups. He uses large-scale digital trace data and a range of quantitative and computational methods, including network analysis, computational textual analysis, agent-based modeling, machine learning, online experiments, and survey analysis. Professor Shi’s research has appeared in top sociology and science journals, including <i>American Sociological Review, American Journal of Sociology, and Nature Human Behaviour</i>. His work has been covered by dozens of popular media outlets."
+  website: https://sociology.uiowa.edu/people/yongren-shi
+  
+- name: "Lingfei Wu"
+  image: /assets/images/nyushanghai2025/Lingfei Wu_photo.jpg
+  bio: "Lingfei Wu is an Assistant Professor of Information Science at the University of Pittsburgh. His research leverages big data, complexity science, and AI to advance the Science of Team Science and Innovation. He has transformed prior research in two key ways: first, by introducing the Disruption Index (D-index) as the first metric for scientific breakthroughs, shifting research evaluation from citation-based popularity to disruptive innovation; and second, by uncovering the hidden costs of team collaboration—how large teams can suppress individual creativity and recognition, thus complementing organizational studies that focus mainly on team benefits. His work provides the scientific foundation for funding innovative small teams, as well as informing organizational and policy changes to balance individual and team success in the age of team-based science. 
+  Lingfei’s research is widely recognized in Computational Social Science and the Science of Science, with publications in <i>Nature, PNAS</i>, and other top journals. His work has been featured in major media outlets, including <i>The New York Times, Harvard Business Review, Forbes, The Atlantic, and Scientific American</i>. As a thought leader in research evaluation, he has advised organizations such as the National Institutes of Health (NIH), Novo Nordisk Foundation, and John Templeton Foundation. His research and teaching excellence have been recognized with awards including the NSF CAREER Award, Richard King Mellon Award, and Oxford Martin Fellowship." # add speaker bio here
+  website: https://lingfeiwu.github.io/
+
+- name: "Xiaoyang Ye"
+  image: /assets/images/nyushanghai2025/xiaoyangYe.jpg
+  bio: "Xiaoyang Ye is an economist at Amazon. He earned his Ph.D. from the University of Michigan and was a postdoctoral researcher in the economics of education at Princeton and Brown. His research focuses on optimizing human decision-making from education to the workforce through causal machine learning and behavioral economics, with a particular emphasis on using randomized experiments to expand educational opportunities for low-income students."
+  website: https://xiaoyangye.github.io/
+
+- name: "Tianji Cai"
+  image: /assets/images/nyushanghai2025/Tianji Cai.jpg
+  bio: "Tianji Cai received his PhD degree at University of North Carolina at Chapel Hill in 2010.  His research interests concentrate on new forms of data and new methods of analysis. Reflecting on his broad intellectual pursuits, his research topics are diverse, ranging from methodological, such as quantitative methods and data mining, to substantive ones, such as gene-environmental interplay and adolescent health behaviors. He has published widely in leading international journals including American Sociological Review, American Journal of Sociology, Chinese Sociological Review,Demography, Sociological Methodology, Sociological Methods & Research, , etc."
+  website: https://fss.um.edu.mo/tianji-cai-%E8%94%A1%E5%A4%A9%E9%A9%A5/

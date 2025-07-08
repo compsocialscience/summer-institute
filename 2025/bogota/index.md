@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: bogota
 main: true
-image: /assets/images/[BOG] Universidad del Rosario Image.jpeg
+image: /assets/images/BOG_Universidad_del_Rosario_Image.jpeg
 ---
 
 [//]: # (ORGANIZERS: Update the info to match your location. Add a site image to /assets/images/ and update the placeholder URL above to match it. See _data/2025/Bogotá for yml files that control the header content, location info on general sites page, people lists, and sidebar.)
@@ -17,7 +17,7 @@ Participation is aimed at Master's students, PhD students or professionals in th
 
 Twenty students are expected to participate, and are expected to attend and participate fully in the entire two-week programme. The full schedule will be published in the coming weeks and foresees 5 days in two time blocks (8:00 to 12:30 and 14:00 to 17:00), plus a week of virtual preparation with autonomous work.
 
-Application documents must be submitted by Friday 14 March 2025 at 23:59 COL.
+Application documents must be submitted by Friday 21 March 2025 at 23:59 COL.
 
 Further questions write to [oscar.maldonado@urosario.edu.co](mailto:oscar.maldonado@urosario.edu.co)
 
@@ -33,7 +33,7 @@ La participación está dirigida a estudiantes de Maestría, Doctorado o profesi
 
 Se prevé una participación de 20 estudiantes, y se espera que asistan y participen plenamente en todo el programa de dos semanas. El cronograma completo será publicado en las próximas semanas y prevé 5 jornadas en dos bloques horarios (8:00 a 12:30 y 14:00 a 17:00), más una semana de preparación virtual con trabajo autónomo.
 
-Los documentos para la postulación deben enviarse antes del viernes 14 de marzo de 2025 a las 23:59 COL.
+Los documentos para la postulación deben enviarse antes del viernes 21 de marzo de 2025 a las 23:59 COL.
 
 Frente a cualquier inquietud contactar: [oscar.maldonado@urosario.edu.co](mailto:oscar.maldonado@urosario.edu.co)
 

@@ -13,5 +13,22 @@
   bio: Jan G. Voelkel is an incoming Assistant Professor at the Jeb E. Brooks School of Public Policy at Cornell University. Currently, Jan is a Postdoctoral Researcher at The Wharton School at the University of Pennsylvania and Cornell University. Jan's research examines under which conditions micro-level preferences for more equality and unity influence macro-level outcomes, such as elections. For example, Jan’s research has examined under what conditions Americans (i) refuse undemocratic elites, (ii) support women candidates for president, and (iii) back economically progressive politicians. In his dissertation work, Jan led the Strengthening Democracy Challenge, a megastudy that tested 25 crowdsourced experimental treatments for reducing anti-democratic attitudes and partisan animosity. 
   website: https://www.jangvoelkel.com/ # update speaker personal link here
 
-- name: More speakers coming soon!
-  image: /assets/images/placeholderPic.png
+- name: Daniel Silver # Speaker name goes here.
+  image: /assets/images/daniel_silver.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: Daniel Silver is Professor of Sociology at the University of Toronto Scarborough. His research areas are social theory, cities, culture, and cultural policy. His current research examines the role of arts and culture in city politics, economics, and residential patterns; the evolution of urban ideas, forms, and practices, the enduring political orders of cities; the use of diagrams and figures in social theory; and international variations in how sociological theory is taught. 
+  website: https://www.utsc.utoronto.ca/sociology/daniel-silver # update speaker personal link here
+
+- name: Noga Keidar # Speaker name goes here.
+  image: /assets/images/noga_keidar.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio:  Noga Keidar is an urban sociologist studying cities, ideas and their dialectic relations. In her research, she examines what it means for a messy and complex entity like a city to adopt a new idea, and how the circulation of policy creates a global space of ideas. Her previous work has concentrated on the Creative City and Placemaking—policy frameworks often addressing the political and economic upheavals post-industrialization brings. Her current research examines how ordinary cities develop climate adaptation plans that address their specific needs within a highly normative and hierarchical global space dominated by leading cities and philanthropic organizations.
+  website: https://english.tau.ac.il/profile/nogakeidar # update speaker personal link here
+  
+- name: Austin van Loon
+  image: /assets/images/austin_vanloon.jpg
+  bio:  Austin van Loon is an Assistant Professor of Work and Organization Studies at the MIT Sloan School of Management. His primary stream of research investigates the dynamic relationship between culture and identity in the context of intergroup conflict. He explores critical questions such as how do genuine differences in worldviews contribute to conflict between groups? How does conflict influence group perceptions of the world? And how can we structure intergroup interactions to foster cooperative behavior and shared understanding? In his secondary research stream, Professor van Loon advances the application of artificial intelligence in the social sciences. He focuses on how scientists can leverage methods like machine learning and natural language processing to rigorously develop and test social theory. Professor van Loon earned his PhD in sociology from Stanford University. He also holds a BS in sociology and a BA in psychology from the University of Iowa.
+  website: https://www.austinvanloon.com/
+
+- name: Dirk Hovy
+  image: /assets/images/dirk_hovy.png
+  bio:  Dirk Hovy is a Professor in the Computing Sciences Department of Bocconi University in Milan. He is nterested in the interaction between language, society, and machine learning, or what computers can tell us about language and what language can tell us about society. He is also interested in ethical questions of bias and algorithmic fairness in machine learning.
+  website: http://dirkhovy.com/

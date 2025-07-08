@@ -3,40 +3,34 @@ layout: location_detail
 partner_site: graz
 ---
 
-[//]: # (Update the following info to match your location!)
+# Application for DDNSF
 
-# Apply
+### Key Details
+- **Event type**: Summer school
+- **School dates:** 15–26 September 2025 
+- **Location:** IDea_Lab, University of Graz (Austria)
+- **Hosted by:** Complex Social & Computational Systems Lab (CS^2)
+- **Audience:** Open to junior researchers and professionals interested in research and normative philosophy concerning democracy, social media, and governance. Basic programming experience (Python/R) is preferred.
+- **Application deadline:** ~~[23:59 Anywhere On Earth](https://time.is/Anywhere_on_Earth), April 13th 2025~~ ~~**EXTENDED:** [23:59 Anywhere On Earth](https://time.is/Anywhere_on_Earth), April 20th 2025~~ **Applicants are now closed!**
+- **Decision notification:** April 27th 2025
+- **Fees:** the school is *free to attend* but transit and accomodation is not covered. Equity-based grants are available.
+  
+**Applications are now CLOSED! Thank you for all who have shown interest in the school! We will be getting back to you shortly!**
 
-**This page is under construction. Check back soon for more up-to-date info!**
+### Application Requirements
 
-## Eligibility
+The application process requires:
+- Your CV/resume
+- A short summary of your topics of expertise
+- A short explainer about a project you have completed (<1,000 characters)
+- Your personal motivations for attending DDNSF (<2,500 characters), 
+- A thoughtful reflection on democracy and social media (<4,000 characters).
 
-We invite applicants from advanced Ph.D. students students, postdoctoral researchers, and faculty within 7 years of their Ph.D., who are able to attend the program in Graz, Austria. We welcome applicants from all backgrounds and fields of study, particularly ... . About ... participants will be invited. However, there are no restrictions based on citizenship, country of study, or country of employment. 
+**Please read the application form itself for the exact wording of the questions.**
 
-The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp.
+Applicants should demonstrate relevance to the summer school's focus on democracy, society, and social media, with programming experience in Python or R preferred. All materials must be submitted through the online application form by [23:59 Anywhere On Earth](https://time.is/Anywhere_on_Earth), April 20th 2025.
 
-We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
+The second page of the application form asks only questions of formalities and organisational requirements, including any accessibiltiy needs or preferences. 
 
-## How To Apply
+Please contact us at ddnsf@uni-graz.at if you have any questions whatsoever.
 
-Applicants must submit the following documents: 1) a curriculum vitae, 2) a statement (maximum two pages double-spaced) describing: 
-
-- Your current research
-- Why you want to participate in SICSS-Graz
-- How participation will aid your future research
-- Your experience and/or interest in collaborative research. Carrying out a collaborative research project is a core component of SICSS-Graz.
-- A possible topic, method, or question you would like to focus on for a collaborative project
-
-**In order to be guaranteed full consideration, all application materials must be submitted by {app due date not yet determined}.** All application materials must be submitted through this [Google Form](https://www.google.com) (form for this site not yet created). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by {decision date not yet determined}, and will ask participants to confirm their participation very soon thereafter.
-
-Inquiries can be sent to [site email not set up](email@goes.here).
-
-## Application Frequently Asked Questions
-
-#### Can I apply to more than one Summer Institute location?
-
-Yes, but not at the same time. For example, you can apply to SICSS-Graz, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.
-
-#### Can I participate in SICSS-Graz if I have already participated in SICSS at another location?
-
-Unfortunately, no. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
