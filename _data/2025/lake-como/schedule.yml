@@ -171,7 +171,7 @@
   events:
     - name: "Participants gather and housekeeping announcements"
       time: "09:00 - 09:30"
-    - name: "Beatrice Franzolini, Bocconi University (Decoding Connections: A Hands-on Workshop in Network Data Analysis) ([Slides](https://raw.githubusercontent.com/compsocialscience/summer-institute/blob/master/_data/2025/lake-como/DecodingConnections_Beatrice_Franzolini_slides.pdf))"
+    - name: "Beatrice Franzolini, Bocconi University (Decoding Connections: A Hands-on Workshop in Network Data Analysis) ([Slides](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/_data/2025/lake-como/DecodingConnections_Beatrice_Franzolini_slides.pdf))"
       time: "09:30 - 11:00"
     - name: "Coffee Break"
       time: "11:00 - 11:30"
