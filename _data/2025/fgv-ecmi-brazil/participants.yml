@@ -1,6 +1,16 @@
+- name: "Agata Błoch" # Replace with participant name.
+  image: /assets/images/agta_bloch_sicss_br.jpg # Add participant image to assets/images/ and update here.
+  bio: "Agata Błoch é doutora em História pelo Instituto de História da Academia Polonesa de Ciências, onde atua como professora assistente. Desde 2023, é investigadora principal do projeto “Imperial commoners of Brazil and West Africa (1640–1822): global history from a correspondence network perspective” (National Science Center of Poland 2022/45/B/HS3/00473), além de codirigir, em parceria bilateral com o Conselho Nacional de Pesquisa da Itália, o estudo comparativo “Lessons from Crises and Disasters: The Role of Information Flows between Individuals, Communities, Institutions. Comparative case studies between Italy and Poland (16th–19th century)” (2025–2027), ao lado de Idamaria Fusco. Entre 2022 e 2023, integrou a equipe do DARIAH-PL — infraestrutura de pesquisa para as artes e humanidades. Em 2025, recebeu o Certificado de Mérito da Universidade Jean Piaget de Cabe Verde, pela melhor pesquisa em Ciências Tecnológicas e Sociais, distinguida no 4º Simpósio de Pesquisa Científica da instituição."  # Add participant bio here.
+ # website: https://www.google.com  # Link participant website here.
+
 - name: "Ana Virgínia Menezes Torga" # Replace with participant name.
   image: /assets/images/ana_torga_sicss_br.png # Add participant image to assets/images/ and update here.
   bio: "Researcher with attention focused on digital, the environment and sociability on social media. PhD student in Sociology in the Postgraduate Program in Social Sciences (PPGCS) at the University Federal of Bahia (UFBA). Editor of the Prelúdios Magazine, a scientific publication of the Postgraduate Program in Social Sciences at the UFBA. I am part of the PERIFÉRICAS research group - Center for Studies in Social Theories, Modernities and Colonialities - at Postgraduate Program in Social Sciences (PPGCS) da UFBA and I am a member of LABLIVRE - Laboratory of Free Technologies - of the University Federal of ABC (UFABC)."  # Add participant bio here.
+ # website: https://www.google.com  # Link participant website here.
+
+- name: "Artur Damião Cardoso" # Replace with participant name.
+  image: /assets/images/artur_damiao_sicss_br.jpg # Add participant image to assets/images/ and update here.
+  bio: "Empirically oriented Sociologist. Holds a Social Sciences degree and is pursuing a Master's in Sociology, both from the Faculty of Philosophy, Languages, and Human Sciences at the University of São Paulo (FFLCH/USP). Specializing in Computational Applied Statistics from UFMG (2026), he has experience in quantitative methods for social research, with an emphasis on violence studies, natural language processing (NLP), social data analysis, and geospatial data analysis."  # Add participant bio here.
  # website: https://www.google.com  # Link participant website here.
  
 - name: "Cleiane Gonçalves Oliveira" # Replace with participant name.
