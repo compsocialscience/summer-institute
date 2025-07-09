@@ -22,7 +22,7 @@
       time: "14:30 - 16:00"
     - name: "Coffee Break"
       time: "16:00 - 16:30"
-    - name: "Opening talk: Zhijing Jin, University of Toronto (Causal reasoning with large language models)"
+    - name: "Opening talk: Zhijing Jin, University of Toronto (Causal reasoning with large language models) ([Slides](https://docs.google.com/presentation/d/1xmF0MrgssipMbYXoJMA1gQc0wi1mM9-Ul9HKqEMnLdA/edit?slide=id.g2fb18334340_1_0#slide=id.g2fb18334340_1_0))"
       time: "16:30 - 18:00"
 
 
@@ -112,7 +112,7 @@
       time: "09:30 - 10:00"
     - name: "Jonathan Cardoso-Silva, London School of Economics (Title: Latent Network Models in Social Networks)"
       time: "10:00 - 10:30"
-    - name: "Marton Karsai, Central European University (Title: Socioeconomic patterns and their dynamics in social networks and language)"
+    - name: "Marton Karsai, Central European University (Title: Socioeconomic patterns and their dynamics in social networks and language) ([Slides](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/_data/2025/lake-como/SICSSComo2025SquazzoniABMLecture.pdf))"
       time: "10:30 - 11:00"
     - name: "Coffee Break"
       time: "11:00 - 11:30"
@@ -160,7 +160,7 @@
       time: "13:00 - 14:00"
     - name: "SICSS Unconference II"
       time: "14:00 - 17:30"
-    - name: "Dirk Hovy, Bocconi University (Title: TBC)"
+    - name: "Dirk Hovy, Bocconi University (From Words to Culture: Natural Language Processing for Social Sciences) ([Slides](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/_data/2025/lake-como/sicss25_hovy.pdf))"
       time: "17:30-18:45"
 
 
@@ -181,7 +181,7 @@
       time: "13:00 - 14:00"
     - name: "Group research work"
       time: "14:00 - 17:30"
-    - name: "Flaminio Squazzoni, Università Statale di Milano (Exploring network dynamics with agent-based models)"
+    - name: "Flaminio Squazzoni, Università Statale di Milano (Exploring network dynamics with agent-based models) ([Slides](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/_data/2025/lake-como/SICSSComo2025SquazzoniABMLecture.pdf))"
       time: "17:30 - 18:30"
 
 
@@ -190,7 +190,7 @@
   events:
     - name: "Participants gather and housekeeping announcements"
       time: "09:00 - 09:30"
-    - name: "Alex Kindel, SciencesPo (Diagnostic methods for language models)"
+    - name: "Alex Kindel, SciencesPo (Diagnostic methods for language models) ([Slides](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/_data/2025/lake-como/Kindel_sicss2025.pdf))"
       time: "09:30 - 11:00"
     - name: "Coffee Break"
       time: "11:00 - 11:30"
