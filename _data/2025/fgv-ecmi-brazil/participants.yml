@@ -12,6 +12,11 @@
   image: /assets/images/artur_damiao_sicss_br.jpg # Add participant image to assets/images/ and update here.
   bio: "Empirically oriented Sociologist. Holds a Social Sciences degree and is pursuing a Master's in Sociology, both from the Faculty of Philosophy, Languages, and Human Sciences at the University of São Paulo (FFLCH/USP). Specializing in Computational Applied Statistics from UFMG (2026), he has experience in quantitative methods for social research, with an emphasis on violence studies, natural language processing (NLP), social data analysis, and geospatial data analysis."  # Add participant bio here.
  # website: https://www.google.com  # Link participant website here.
+
+- name: "Cinthya Pires Oliveira" # Replace with participant name.
+  image: /assets/images/cinthya_pires_sicss_br.jpg # Add participant image to assets/images/ and update here.
+  bio: "Ph.D. in Media (Universidade Federal Fluminense - UFF) with specializations in Marketing (FGV), Entrepreneurship and Innovation. Communication expert with a background in Advertising and Journalism. Researcher focused on media trends and content production, consumer behavior, audience studies and digital research methods."  # Add participant bio here.
+ # website: https://www.google.com  # Link participant website here.
  
 - name: "Cleiane Gonçalves Oliveira" # Replace with participant name.
   image: /assets/images/cleiane_sicss_br.jpeg # Add participant image to assets/images/ and update here.
@@ -57,7 +62,12 @@
   image: /assets/images/natalia_pimenta_sciss_br.png # Add participant image to assets/images/ and update here.
   bio: "Natália Pimenta is an incoming Ph.D. student in Political Science at Northwestern University, beginning in Fall 2025, where she will specialize in Comparative Politics and International Relations. Her research focuses on Latin American politics, particularly the interaction between foreign policy and public opinion in contexts of democratic backsliding. She is also especially interested in research methods, including multi-method designs, causal inference, and applied statistics. Natália holds a Law degree from the Federal University of Minas Gerais (UFMG), where she developed a strong academic foundation in Constitutional and International Law. At Northwestern, she will also be a Mellon Cluster Fellow in the Latin American and Caribbean Studies Cluster, supporting her interdisciplinary engagement with the region."  # Add participant bio here.
  # website: https://www.google.com  # Link participant website here.
-
+ 
+- name: "Nina da Hora" # Replace with participant name.
+  image: /assets/images/Nina_da_Hora_3546.jpg # Add participant image to assets/images/ and update here.
+  bio: "Nina da Hora is a computer scientist and researcher in algorithmic justice and critical artificial intelligence, with a focus on Southern epistemologies. She holds a degree in Computer Science from PUC-Rio, a master’s degree in Computing from the Institute of Computing at UNICAMP, and is currently pursuing a second master's degree in the Science and Technology Policy program (DPCT) at the same university. She is the founder of the Instituto Da Hora, where she develops training and research projects on technology, ancestry, and digital ethics. She is a Ford Foundation fellow (2023–2025) and the author of the book MyNews Explica: Algoritmos (2023)."  # Add participant bio here.
+ # website: https://www.google.com  # Link participant website here.
+ 
 - name: "Raphael Santos Lapa" # Replace with participant name.
   image: /assets/images/raphael_lapa_sciss_br.png # Add participant image to assets/images/ and update here.
   bio: "PhD in Sociology from the University of Brasília (UnB), with a focus on the Sociology of Work. Holds a Master’s degree in Human Rights and Citizenship (UnB), with research in Critical Theory of Human Rights and Ethics. Bachelor's and teaching degree in Philosophy (UnB), with research in Metaphysics, Philosophy of Science, and Philosophy of Religion. Currently researches the fields of Sociology of Work, Ethics, Neoliberalism, Entrepreneurship, and the Sociology of Morality."  # Add participant bio here.
