@@ -5,7 +5,7 @@
 - date: 'Monday, June 23'
   events:
     - name: '9:00 - 9:30 Coffee'
-    - name: '9:30 - 10:00 Welcome and Onboarding'
+    - name: '9:30 - 10:00 [Welcome and Onboarding](https://github.com/css-polytechnique/SICSS-2025-Material/blob/main/Courses/0-SICSS_Paris_2025-Intro.pdf)'
     - name: '10:00 - 11:30 Introduction to Text Analysis'
     - name: '11:30 - 12:30 Python Application'
     - name: '12:30 - 13:30 Lunch'
