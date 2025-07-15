@@ -16,10 +16,10 @@
 - date: 'Tuesday, June 24'
   events:
     - name: '9:30 - 10:30 Group Projects'
-    - name: '10:30 - 12:30 Enter Neural Networks'
+    - name: '10:30 - 12:30 [Enter Neural Networks](https://github.com/css-polytechnique/SICSS-2025-Material/blob/main/Courses/3-neuralnets.pdf)'
     - name: '12:30 - 13:30 Lunch'
-    - name: '13:30 - 14:30 Introduction to Transformers'
-    - name: '14:30 - 15:30 Regular Expressions'
+    - name: '13:30 - 14:30 [Introduction to Transformers](https://github.com/css-polytechnique/SICSS-2025-Material/blob/main/Courses/4-Transformers.pdf)'
+    - name: '14:30 - 15:30 [Regular Expressions](https://github.com/css-polytechnique/SICSS-2025-Material/blob/main/Labs/3-SICSS-Paris_2025_RegEx_2.ipynb)'
     - name: '17:15 - 18:30 Guest Talk by [Jan G. Voelkel](https://www.jangvoelkel.com/): "Solution-Oriented Computational Social Science: The Case of Political Polarization"'
 
 - date: 'Wednesday, June 25'
