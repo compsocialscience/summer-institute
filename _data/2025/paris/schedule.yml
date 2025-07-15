@@ -28,15 +28,15 @@
     - name: '11:30 - 12:00 [Finding Models on Hugging Face](https://github.com/css-polytechnique/SICSS-2025-Material/blob/main/Labs/4-Finding%20models%20on%20HF.ipynb)'
     - name: '12:00 - 13:00 [BERT Python Application](https://github.com/css-polytechnique/SICSS-2025-Material/blob/main/Labs/5-BERT.ipynb)'
     - name: '13:00 - 14:00 Lunch'
-    - name: '14:00 - 17:00 Introduction to Active Tigger'
+    - name: '14:00 - 17:00 [Introduction to Active Tigger](https://github.com/css-polytechnique/SICSS-2025-Material/tree/main/Active_tigger_demo)'
 
 - date: 'Thursday, June 26'
   events:
-    - name: '10:00 - 12:00 Introduction to Text Analysis in the Era of GPT'
-    - name: '12:00 - 13:00 Python Application: API Access, Structured Outputs'
+    - name: '10:00 - 12:00 [Introduction to Text Analysis in the Era of GPT](https://github.com/css-polytechnique/SICSS-2025-Material/blob/main/Courses/7-GPT.pdf)'
+    - name: '12:00 - 13:00 [Python Application: API Access, Structured Outputs](https://github.com/css-polytechnique/SICSS-2025-Material/blob/main/Labs/6-GenAI.ipynb)'
     - name: '13:00 - 14:00 Lunch'
-    - name: '14:00 - 15:30 Python Application: Annotation Zero-shot, Few-shot'
-    - name: '15:30 - 17:00 Python Application: Information Extraction'
+    - name: '14:00 - 15:30 [Python Application: Annotation Zero-shot, Few-shot](https://github.com/css-polytechnique/SICSS-2025-Material/tree/main/Labs/GPT-text-classification)'
+    - name: '15:30 - 17:00 [Python Application: Information Extraction](https://github.com/css-polytechnique/SICSS-2025-Material/tree/main/Labs/GPT-information-extraction)'
 
 - date: 'Friday, June 27'
   events:
