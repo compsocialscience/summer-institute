@@ -24,9 +24,9 @@
 
 - date: 'Wednesday, June 25'
   events:
-    - name: '10:00 - 11:30 BERT: Principles, Uses, Fine-tuning Tricks'
-    - name: '11:30 - 12:00 Finding Models on Hugging Face'
-    - name: '12:00 - 13:00 Python Application'
+    - name: '10:00 - 11:30 [BERT: Principles, Uses, Fine-tuning Tricks](https://github.com/css-polytechnique/SICSS-2025-Material/blob/main/Courses/6-BERT.pdf)'
+    - name: '11:30 - 12:00 [Finding Models on Hugging Face](https://github.com/css-polytechnique/SICSS-2025-Material/blob/main/Labs/4-Finding%20models%20on%20HF.ipynb)'
+    - name: '12:00 - 13:00 [BERT Python Application](https://github.com/css-polytechnique/SICSS-2025-Material/blob/main/Labs/5-BERT.ipynb)'
     - name: '13:00 - 14:00 Lunch'
     - name: '14:00 - 17:00 Introduction to Active Tigger'
 
