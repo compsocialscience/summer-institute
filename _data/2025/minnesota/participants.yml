@@ -3,7 +3,7 @@
   bio: "I am a passionate student-athlete pursuing an undergraduate in Biology and Public Health. As an intern for the local food shelf, I spend my free time volunteering and engaging with the community through service. The experience has shaped my view of how deep food insecurity impacts an individual's wellbeing and emphasized the importance of nutrition on health and disease. The eye-opening opportunity has led me to aspire to pursue a career in healthcare and advocate for programs to help combat food insecurity."  # Add participant bio here.
   website: https://www.google.com  # Link participant website here.
 
-- name: "" Chanya" Chanyanuch BUTSAYATURT, Luther College" # Replace with participant name.
+- name: "'Chanya' Chanyanuch BUTSAYATURT, Luther College" # Replace with participant name.
   image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
   bio: "I am a recent graduate from Luther College with a degree in Political Science and International Studies. As a Thai, I have had a long-standing interest in Southeast Asian Studies and academic research, and I am eager to pursue higher education in this regional field. My senior project focused on digital activism in Asia, which introduced me to computational social science as a powerful tool for utilizing advanced methods to understand social and political behavior—specifically, the behavior of netizens in transnational democratic resistance. I hope I will be able to apply what I learn at SICSS for future research in this area."  # Add participant bio here.
   website: https://www.google.com  # Link participant website here.
@@ -57,4 +57,5 @@
   image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
   bio: "Shuping Wang is a Ph.D. student in the Department of Public Administration and International Affairs at the Maxwell School of Citizenship and Public Affairs, Syracuse University. Her research focuses on natural resource management, environmental policy, adaptive governance, and institutional analysis. Specifically, she investigates how knowledge and formal and informal institutional arrangements influence adaptive policymaking in the public sector. Her work examines both the processes and outcomes of policy design and implementation using diverse methodological approaches, including text-as-data, causal inference, survey experiments, and in-depth interviews. Shuping holds an undergraduate degree in History and Economics from Xiamen University and a master’s in Public Policy from the University of Minnesota."  # Add participant bio here.
   website: https://www.google.com  # Link participant website here.
+  
 # Add more participants with the same format as above...
