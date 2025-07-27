@@ -21,7 +21,7 @@
 - name: "Bebou Bienvenu YO" 
   image: /assets/images/bienvenu_yo.jpg
   bio: "Bebou Bienvenu Yo est élève ingénieur statisticien économiste à l’ISSP de l’Université Joseph Ki-Zerbo, titulaire d’une licence professionnelle en Analyse Statistique. Il possède une solide expérience en collecte électronique, analyse économétrique et visualisation avancée, complétée par des compétences en web scraping, machine learning et conception de tableaux de bord dynamiques. En 2024, il a co-conçu une application de gestion des notes pour l’ISSP, illustrant sa capacité à développer des solutions numériques innovantes. Investi dans la vie estudiantine, il a exercé des fonctions de représentation et de coordination au sein de l’Amicale des Élèves Statisticiens. Polyvalent, rigoureux et engagé, il ambitionne de mobiliser ses compétences en appui à la recherche, à la décision publique et à l’innovation pour le développement socio-économique de l’Afrique."
-  website: www.linkedin.com/in/bienvenu-yo-as/
+  website:
 
 
   
