@@ -11,7 +11,8 @@
 - name: "Brahmani Nutakki" 
   image: /assets/images/SB_F3.jpg 
   bio: "Brahmani Nutakki is a PhD Student in Computer Science at Universität des Saarlandes (UdS). She received her Bachelors and Masters in Computer Science from University of Hyderabad in India. Her research focuses on understanding the dynamics of online communities and the society at large, mainly on Politics, Hate Speech and Misinformation."
-
+  website: https://nbrahmani.github.io
+  
 - name: "Jianlong Zhu"
   image: /assets/images/SB_F4.jpg
   bio: "Jianlong Zhu is a PhD Student in Computer Science at Saarland University. He holds an MSc in Social Data Science from the University of Oxford and a BA in Liberal Arts from Sarah Lawrence College. His current research focus is on the application of large language models in enhancing critical thinking and decision-making processes, with a particular interest in civic education."
