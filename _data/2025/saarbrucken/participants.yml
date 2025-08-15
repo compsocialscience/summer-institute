@@ -1,42 +1,42 @@
-- name: "Participant info coming soon." # Replace with participant name.
+- name: "Alina Zumbruch" # Replace with participant name.
   image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
   bio: " ... "  # Add participant bio here.
   website: https://www.google.com  # Link participant website here.
 
-- name: "Participant info coming soon." # Replace with participant name.
+- name: "Anastasiia Vestel" # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: "Anastasiia Vestel is PhD student in computational linguistics at Saarland University and a member of CASCADE (Computational Analysis of Semantic Change Across Different Environments) funded by Marie Skłodowska-Curie Actions. Her current research focuses on how semantic change and linguistic variation can indicate propaganda in the context of the Russo-Ukrainian war."  # Add participant bio here.
+  #website: https://www.google.com  # Link participant website here.
+
+- name: "Angela John" # Replace with participant name.
   image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
   bio: " ... "  # Add participant bio here.
   website: https://www.google.com  # Link participant website here.
 
-- name: "Participant info coming soon." # Replace with participant name.
+- name: "Bowen Zhang" # Replace with participant name.
   image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+  bio: "Bob (Bowen) Zhang is a current graduate student in computer science at the University of Trento, Italy. His interests are in the intersection fields of human-computer interaction, affective computing, and generative AI. He will be an incoming PhD student later this year, focusing on the use of AI applications in multimodal processing."  # Add participant bio here.
+  #website: https://www.google.com  # Link participant website here.
 
-- name: "Participant info coming soon." # Replace with participant name.
+- name: "Deborah Dormah Kanubala" # Replace with participant name.
   image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+  bio: "Deborah Dormah Kanubala is the co-organizer of WiMLDS Accra-Ghana and a PhD student at Saarland University, Germany."  # Add participant bio here.
+  #website: https://www.google.com  # Link participant website here.
 
-- name: "Participant info coming soon." # Replace with participant name.
+- name: "Elena Marseglia" # Replace with participant name.
   image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+  bio: "Elena Marseglia is a PhD candidate at Bocconi University and affiliate of the Dondena Centre at the same institution. At present she is working at the launch of the Italian version of the Gender and Generations Survey - Round II, whilst her research interests relate mostly to sociology and family demography with a dissertation on the interlinks between income and family dynamics."  # Add participant bio here.
+  #website: https://www.google.com  # Link participant website here.
 
-- name: "Participant info coming soon." # Replace with participant name.
+- name: "Ethel Mensah" # Replace with participant name.
   image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+  bio: "Ethel Mensah is a PhD student at the Interdisciplinary Institute for Societal Computing, Saarland University, Germany. She studies how location-based services like Google Maps reflect and reinforce urban social patterns. Her work combines geospatial and online trace data with demographic analysis to inform ethical AI, inclusive policy, and community-focused interventions."  # Add participant bio here.
+  #website: https://www.google.com  # Link participant website here.
 
-- name: "Participant info coming soon." # Replace with participant name.
+- name: "Hamayoon Behmanush" # Replace with participant name.
   image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
-
-- name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+  bio: "Hamayoon is a doctoral researcher at Saarland University, Germany. He holds a bachelor’s degree in Computer Science from Afghanistan and a master’s degree in Information Technology from LPU, India. Before joining Saarland University, he spent eight years teaching and working in academic administration at Parwan University and the Ministry of Higher Education in Afghanistan. His doctoral research focuses on adapting generative AI to support the education of marginalized populations in underserved contexts, and his interests include Human-AI Interaction, and Computational Social Science."  # Add participant bio here.
+  #website: https://www.google.com  # Link participant website here.
 
 - name: "Participant info coming soon." # Replace with participant name.
   image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
