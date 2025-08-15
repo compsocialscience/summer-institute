@@ -14,12 +14,12 @@
   website: https://www.google.com  # Link participant website here.
 
 - name: "Bowen Zhang" # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  image: /assets/images/2025_SB_Bowen_Zhang.jpg  # Add participant image to assets/images/ and update here.
   bio: "Bob (Bowen) Zhang is a current graduate student in computer science at the University of Trento, Italy. His interests are in the intersection fields of human-computer interaction, affective computing, and generative AI. He will be an incoming PhD student later this year, focusing on the use of AI applications in multimodal processing."  # Add participant bio here.
   #website: https://www.google.com  # Link participant website here.
 
 - name: "Deborah Dormah Kanubala" # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  image: /assets/images/2025_SB_Deborah_D_Kanubala.jpeg  # Add participant image to assets/images/ and update here.
   bio: "Deborah Dormah Kanubala is the co-organizer of WiMLDS Accra-Ghana and a PhD student at Saarland University, Germany."  # Add participant bio here.
   #website: https://www.google.com  # Link participant website here.
 
@@ -29,7 +29,7 @@
   #website: https://www.google.com  # Link participant website here.
 
 - name: "Ethel Mensah" # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  image: /assets/images/2025_SB_Ethel_Elikem.jpg  # Add participant image to assets/images/ and update here.
   bio: "Ethel Mensah is a PhD student at the Interdisciplinary Institute for Societal Computing, Saarland University, Germany. She studies how location-based services like Google Maps reflect and reinforce urban social patterns. Her work combines geospatial and online trace data with demographic analysis to inform ethical AI, inclusive policy, and community-focused interventions."  # Add participant bio here.
   #website: https://www.google.com  # Link participant website here.
 
@@ -49,27 +49,27 @@
   website: https://www.google.com  # Link participant website here.
 
 - name: "Mahsa Ghaderan" # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  image: /assets/images/2025_SB_Mahsa_Ghaderan.png  # Add participant image to assets/images/ and update here.
   bio: "Mahsa Ghaderan is a PhD student at the Max Planck Institute for Informatics in Saarbrücken. She utilizes Internet traffic data to study human online interests, using domain names as a proxy. Her research focuses on the role of geographical distance in access to online services and online news consumption."  # Add participant bio here.
   #website: https://www.google.com  # Link participant website here.
 
 - name: "Moein Karami" # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  image: /assets/images/2025_SB_Moein_Karami  # Add participant image to assets/images/ and update here.
   bio: "Moein Karami is a Ph.D. student at Saarland University, specializing in Algorithmic Bioinformatics under the supervision of Prof. Rahmann. He holds a B.Sc. in Computer Engineering from the University of Tehran."  # Add participant bio here.
   #website: https://www.google.com  # Link participant website here.
 
 - name: "Neha Shri" # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  image: /assets/images/2025_SB_Neha_Shri.jpeg  # Add participant image to assets/images/ and update here.
   bio: "Neha Shri is a PhD scholar at the International Institute for Population Sciences, Mumbai. Her research focuses on ageing, multimorbidity, and psychosocial health in India. She works with large-scale survey data and advanced statistical methods, and is interested in domains related to health, demography, and social research."  # Add participant bio here.
   #website: https://www.google.com  # Link participant website here.
 
 - name: "Nima Thing" # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  image: /assets/images/2025_SB_Nima_Thing.jpg  # Add participant image to assets/images/ and update here.
   bio: "Nima Thing is a Data Science for Public Policy graduate from the Hertie School. His research focuses on algorithmic fairness, social media, and digital governance. He currently leads analytics and data governance work at Welthungerhilfe and has recently presented his Master Thesis at Max Planck Summer Institute - Bounded Rationality and Deploying Bias Mitigation at LLM at Weizenbaum Institute SSaLM workshop."  # Add participant bio here.
   #website: https://www.google.com  # Link participant website here.
 
 - name: "Phanidhar Upadhyaya" # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  image: /assets/images/2025_SB_Phanidhar_Upadhyaya.jpg  # Add participant image to assets/images/ and update here.
   bio: "Phanidhar is pursuing PhD in Population Studies at the International Institute for Population Sciences, Mumbai. He has a master's in Population Studies and bachelor's in Mathematics. He studies social media-induced behavioral trauma by analyzing user posts and comments through text mining and NLP. He wants to focus on contributing novel computational methods to social science research, where surveys and other data generating methods are expensive. "  # Add participant bio here.
   #website: https://www.google.com  # Link participant website here.
 
@@ -79,12 +79,12 @@
   #website: https://www.google.com  # Link participant website here.
 
 - name: "Sepehr Mousavi" # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  image: /assets/images/2025_SB_Sepehr_Mousavi.jpg  # Add participant image to assets/images/ and update here.
   bio: "Sepehr Mousavi is currently pursuing a PhD in Computer Science at Max Planck Institute for Software Systems and Saarland University. Previously, he holds a Bachelor's degree in Computer Engineering from the Sharif University of Technology. Sepehr is interested in using a broad range of computational techniques to audit online socio-technical systems. To this extent, his work examines (1) how users interact with these systems and (2) the extent to which these systems comply with digital regulation, such as EU's GDPR and DSA."  # Add participant bio here.
   #website: https://www.google.com  # Link participant website here.
 
 - name: "Shiqi Yang" # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  image: /assets/images/2025_SB_Shiqi_Yang.jpg  # Add participant image to assets/images/ and update here.
   bio: "Shiqi Yang is a doctoral researcher at the University of Jyväskylä. Her research focuses on public trust in visual journalism and Generative AI, using computational methods including topic modeling, cosine similarity, Structural Equation Modeling (SEM), and sentiment analysis to examine cross-cultural user perceptions and reactions."  # Add participant bio here.
   #website: https://www.google.com  # Link participant website here.
 
@@ -94,11 +94,11 @@
   #website: https://www.google.com  # Link participant website here.
 
 - name: "Theophilus Aidoo" # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  image: /assets/images/2025_SB_Theophilus_Aidoo.jpg  # Add participant image to assets/images/ and update here.
   bio: "Theophilus Aidoo is a Scientific Researcher (PhD Student) at the Interdisciplinary Institute for Societal Computing, in the University of Saarland. His research focuses on the intersection of image analysis and human mobility estimation, with a specialization in estimating human displacement using low-resolution satellite imagery. He enjoys tackling technical challenges in remote sensing data analysis and is driven by a commitment to applying technology for meaningful societal impact.​"  # Add participant bio here.
   #website: https://www.google.com  # Link participant website here.
 
 - name: "Uttara Sutradhar" # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  image: /assets/images/2025_SB_Uttara_Sutradhar.jpg  # Add participant image to assets/images/ and update here.
   bio: "Uttara Sutradhar is a postdoctoral researcher at the Complex and Sustainable Urban Networks (CSUN) Laboratory at the University of Illinois Chicago (UIC). Uttara works at the intersection of human and physical infrastructure to see how the infrastructure supply can be adjusted with changes in population. Uttara recently completed her Ph.D. in Civil Engineering at the University of Illinois Chicago (UIC). Currently, Uttara is investigating keystone variables in interconnected infrastructure systems by applying causal reasoning."  # Add participant bio here.
   #website: https://www.google.com  # Link participant website here.
