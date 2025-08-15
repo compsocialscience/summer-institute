@@ -54,7 +54,7 @@
   #website: https://www.google.com  # Link participant website here.
 
 - name: "Moein Karami" # Replace with participant name.
-  image: /assets/images/2025_SB_Moein_Karami  # Add participant image to assets/images/ and update here.
+  image: /assets/images/2025_SB_Moein_Karami.jpg  # Add participant image to assets/images/ and update here.
   bio: "Moein Karami is a Ph.D. student at Saarland University, specializing in Algorithmic Bioinformatics under the supervision of Prof. Rahmann. He holds a B.Sc. in Computer Engineering from the University of Tehran."  # Add participant bio here.
   #website: https://www.google.com  # Link participant website here.
 
