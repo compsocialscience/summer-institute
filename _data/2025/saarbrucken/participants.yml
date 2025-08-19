@@ -10,8 +10,8 @@
 
 - name: "Angela John" # Replace with participant name.
   image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+  bio: "I am a PhD student at the Interdisciplinary  Institute for Societal Computing lab at Saarland University. I work in reforestation and Carbon offset monitoring with remote sensing and Machine Learning."  # Add participant bio here.
+  #website: https://www.google.com  # Link participant website here.
 
 - name: "Bowen Zhang" # Replace with participant name.
   image: /assets/images/2025_SB_Bowen_Zhang.jpg  # Add participant image to assets/images/ and update here.
@@ -44,9 +44,9 @@
   #website: https://www.google.com  # Link participant website here.
 
 - name: "Lucas Belmino Freitas" # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+  image: /assets/images/2025_SB_Lucas_Freitas.jpeg  # Add participant image to assets/images/ and update here.
+  bio: "Lucas Belmino Freitas is a PhD student in Sociology at the Institute of Social Sciences (ICS) ,University of Lisbon, through the interuniversity OpenSoc program. He holds a master’s degree in Sociology from the University of Brasília and studies the implementation of SDG 11 in cities in Brazil and Portugal, focusing on urban mobility. He has also experience in survey analysis, focus groups, and cultural policy."  # Add participant bio here.
+  #website: https://www.google.com  # Link participant website here.
 
 - name: "Mahsa Ghaderan" # Replace with participant name.
   image: /assets/images/2025_SB_Mahsa_Ghaderan.png  # Add participant image to assets/images/ and update here.
