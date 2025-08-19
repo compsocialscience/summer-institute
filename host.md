@@ -23,7 +23,7 @@ sidebar:
 
 In 2018 the Summer Institutes in Computational Social Science (SICSS) began including partner locations to broaden access to the field. Most partner locations conduct one week of intensive lectures and group exercises and one week creating new research projects in interdisciplinary teams. Organizers of partner locations either use our open-source teaching materials or create their own curriculum to serve the needs of the populations they aim to serve. May organizers also invite local speakers to further enrich their curriculum. This model has been used successfully at universities, non-profit companies, and corportations around the world. For a list of previous organizations that have hosted partner locations, see [this link](https://sicss.io/locations)
 
-In our experience, the minimum budget to support an in-person partner location is about $13,000, but the exact amount depends on local conditions. Virtual events can be done more cheaply. Here are some [sample budgets](https://docs.google.com/spreadsheets/d/1_2BimdmWNLSVYqTmwrEZcQxv3j3LCyU0hQyW0vZYCk8/edit?usp=sharing) for in-person events. If you have more questions about budgeting—or grants that may be available to support partner locations—please contact us at rsfcompsocsci@gmail.com. Note: If you are a visa holder outside of your country of citizenship, please work with your institution to determine whether you will be able to accept an honorarium payment for your role organizing a SICSS event.
+In our experience, the minimum budget to support an in-person partner location is about $11,000, but the exact amount depends on local conditions. Virtual events can be done more cheaply. Here are some [sample budgets](https://docs.google.com/spreadsheets/d/1_2BimdmWNLSVYqTmwrEZcQxv3j3LCyU0hQyW0vZYCk8/edit?usp=sharing) for in-person events. If you have more questions about budgeting—or grants that may be available to support partner locations—please contact us at rsfcompsocsci@gmail.com. Note: If you are a visa holder outside of your country of citizenship, please work with your institution to determine whether you will be able to accept an honorarium payment for your role organizing a SICSS event.
 
 In order to ensure quality and consistency, all partner locations must have a former participant of SICSS as one of the local organizers. If you don’t have any SICSS alumni at your organization, you can contact us about finding a former participant that could collaborate with you. Also, we ask that at least one of the organizers of a SICSS location be a faculty member or senior employee at a sponsoring institution in order to ensure access to necessary resources and create more robust connections to sponsoring organizations.
 
@@ -43,30 +43,33 @@ As we work toward this mission, we are guided by the following principles:
 
 For a much more detailed description of the process of hosting a partner location, please consult our [Handbook for Organizers](https://docs.google.com/document/d/1InRTZJPbh9P1Qnc1VBB7UxDflXaxNqhEygBnO7yGBoQ/edit?usp=sharing)
 
-### Call for Applications 2025
+## Call for Partner Locations in 2026
+In 2026, partner locations will continue the SICSS tradition of combining lectures and group exercises with collaborative, participant-led research projects. Most sites run for two weeks, though shorter or longer formats are possible. Organizers may use our open-source teaching materials, adapt them, or develop new content to meet the needs of their audience.
 
-Dear friend of SICSS,
+A major update for 2026: **the new [Tech for Open Minds (TOM) initiative](https://sicss.io/stories/2025-08-18) will be one pathway to secure SICSS funding this year.** TOM is a multi-year initiative focused on how digital technologies influence open-mindedness, humility, and polarization. Locations seeking TOM funding must demonstrate in their application how their proposed program will contribute to TOM’s mission through curricular focus and research incubation.
 
-We are excited to announce the call for applications to host SICSS partner locations in 2025!
+#### Funding and Budgeting
+In our experience, the minimum budget to support an in-person partner location is about $11,000 USD, though this varies by location and scope. Virtual events can be run at lower cost. While most SICSS partner locations are self-funded through host institutions or partnerships, TOM-aligned proposals may be eligible for support.
 
-As in past years, fundraising to support the continued growth of the program remains a challenge. **Unfortunately, we will not be able to provide funding for partner locations for the 2025 season.** SICSS leadership remains committed to supporting the growth of the program, and we hope to secure funding for sites once again in 2026.
+#### Application Process
+Applications to host a SICSS partner location in 2026 will open in mid-November and are due by December 1, 2025, 5pm US Eastern Time. 
 
-At this time, we encourage organizers who have the capacity and means to do so to look into self-sponsoring their location via their own universities or organizations, or through developing partnerships with non-profit organizations or corporations.
+Locations applying for TOM funding must explain:
+- How your program will advance the TOM mission.
+- The specific curricular, research, or outreach activities planned.
+- How your team will ensure accessibility and diversity in participation.
 
-Applications will be reviewed by SICSS leadership. We ask that all applying to host a partner location complete the short form below. For any questions, please refer to the F.A.Q. or contact us at rsfcompsocsci@gmail.com.
-
-With very best wishes, 
-*Chris Bail, SICSS Director*
+All SICSS partner locations must have at least one organizer who is a SICSS alum and at least one faculty member or senior employee at a sponsoring institution. We also ask all organizers to review the SICSS Handbook for Organizers and commit to our guiding principles, including keeping training free for participants and releasing all original materials open source.
 
 ### How to Apply
 
-**Applications to host a partner site in 2025 are due on December 1st (2024) by 5pm U.S. E.S.T. Please send completed applications to `rsfcompsocsci@gmail.com`. [Click here to access the application template.](https://docs.google.com/document/d/1HjFJljDT8a04Oy6tuJOsLyShcn-ypZLmV8cMt6X1woQ/edit?usp=sharing)**
+**Applications to host a partner site in 2026 are due on December 1st (2025) by 5pm U.S. E.S.T. Please send completed applications to `rsfcompsocsci@gmail.com`. [Click here to access the application template.](https://docs.google.com/document/d/1bXk8POT5iOqrVgErOtwu0ovHhQuQ_CA2f4sutdp5GgE/edit?usp=sharing)**
 
 ### Frequently Asked Questions
 
 ##### What if I want to host a partner location in a different time zone from other locations?
 
-That’s fine. Each year we have locations spread around the world.
+That’s fine! Each year we have locations spread around the world.
 
 ##### How can I learn more about what it is like at a partner location?
 
@@ -82,11 +85,11 @@ At the end of each year, we write a post-mortem that describes what went well an
 
 ##### Do you have any sample budgets?
 
-Yes. Here are some [sample budgets](https://docs.google.com/spreadsheets/d/1_2BimdmWNLSVYqTmwrEZcQxv3j3LCyU0hQyW0vZYCk8/edit?usp=sharing) for an in-person partner location with 20 participants. However, you will need to adjust the numbers to align with the costs at your location. Note: If you are a visa holder outside of your country of citizenship, please work with your institution to determine whether you will be able to accept an honorarium payment for your role organizing a SICSS event.
+Yes: here are some [sample budgets](https://docs.google.com/spreadsheets/d/1_2BimdmWNLSVYqTmwrEZcQxv3j3LCyU0hQyW0vZYCk8/edit?usp=sharing) for an in-person partner location with 20 participants. However, you will need to adjust the numbers to align with the costs at your location. Note: If you are a visa holder outside of your country of citizenship, please work with your institution to determine whether you will be able to accept an honorarium payment for your role organizing a SICSS event.
 
 ##### Do you have any other tips for how to run a partner location?
 
-Yes. Please consult the Handbook for Organizers linked above. Also Here's some [advice about running a partner location](https://github.com/compsocialscience/summer-institute/blob/master/partner_location_suggestions.md).
+Yes, please consult the Handbook for Organizers linked above. Also Here's some [advice about running a partner location](https://github.com/compsocialscience/summer-institute/blob/master/partner_location_suggestions.md).
 
 ##### How long should our partner location run?
 
