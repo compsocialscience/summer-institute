@@ -1,3 +1,13 @@
+- name: "Audrey Tang"
+  image: 
+  bio: |
+    <p>Audrey Tang is a Taiwanese software pioneer—an open-source programmer, civic hacker (g0v), and Taiwan’s former national Digital Affairs Minister, serving from August 2022 to May 2024.</p>
+    <p>Today, Audrey serves as Taiwan’s Cyber Ambassador-at-Large, promoting open government, digital democracy, Alignment Assemblies, and the vision laid out in their book <em>Plurality</em>.</p>
+    <p>At DDNSF 2025, Audrey will give an online keynote on "The Future of Governance and Social Technologies" and will be available for a Q&A afterwards.</p>
+    <p><strong>Our recommended readings:</strong> <em>Plurality: The Future of Collaborative Technology and Democracy</em> (Tang & Weyl et al., 2024) (<a href="https://www.plurality.net/">Download as pdf or audiobook</a>), “A Strong Democracy Is a Digital Democracy” (NYT, 2019).</p>
+
+  website: https://en.wikipedia.org/wiki/Audrey_Tang
+
 - name: "Rasha Abdulla"
   image: /assets/images/2025/graz/rasha_abdulla.jpg
   bio: |
@@ -44,16 +54,6 @@
     <p>At DDNSF 2025, Étienne will introduce us to the normative foundations of democracy, and share his thinking on the normative implications of the digital public sphere.</p>
     <p><strong>Our recommended publications: "Regulating the spread of online misinformation" (Brown, 2023) and "Propaganda, Misinformation, and the Epistemic Value of Democracy" (Brown, 2023)</strong></p>
   website: https://www.etiennebrown.com/
-
-- name: "Petter Törnberg"
-  image: /assets/images/2025/graz/petter_tornberg.jpg
-  bio: |
-    <p>Petter is an Assistant Professor in Computational Social Science at University of Amsterdam, senior researcher at University of Neuchatel, and Associate Professor in Complex Systems at Chalmers University of Technology.</p>
-    <p>His research asks how digital technology is reshaping our politics, media and cities. He uses computational methods and digital data to critically examine the consequences of datafication, platformization, and AI.</p>
-    <p><strong>Our recommended publications: "Intimate Communities of Hate: Why Social Media Fuels Far-Right Extremism" (Törnberg & Törnberg, 2024) and "Simulating Social Media Using Large Language Models to Evaluate Alternative News Feed Algorithms" (Törnberg et al., 2023)</strong></p>
-  website: https://www.pettertornberg.com/
-# Need to add a para for what Petter will do at DDNSF 2025.
-
 
 - name: "Nadja Meisterhans"
   image: /assets/images/2025/graz/nadja_meisterhans.png

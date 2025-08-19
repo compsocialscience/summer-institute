@@ -3,6 +3,11 @@
   bio: "Agata Błoch é doutora em História pelo Instituto de História da Academia Polonesa de Ciências, onde atua como professora assistente. Desde 2023, é investigadora principal do projeto “Imperial commoners of Brazil and West Africa (1640–1822): global history from a correspondence network perspective” (National Science Center of Poland 2022/45/B/HS3/00473), além de codirigir, em parceria bilateral com o Conselho Nacional de Pesquisa da Itália, o estudo comparativo “Lessons from Crises and Disasters: The Role of Information Flows between Individuals, Communities, Institutions. Comparative case studies between Italy and Poland (16th–19th century)” (2025–2027), ao lado de Idamaria Fusco. Entre 2022 e 2023, integrou a equipe do DARIAH-PL — infraestrutura de pesquisa para as artes e humanidades. Em 2025, recebeu o Certificado de Mérito da Universidade Jean Piaget de Cabe Verde, pela melhor pesquisa em Ciências Tecnológicas e Sociais, distinguida no 4º Simpósio de Pesquisa Científica da instituição."  # Add participant bio here.
  # website: https://www.google.com  # Link participant website here.
 
+- name: "Ana Carolina Mendonça Oliveira" # Replace with participant name.
+  image: /assets/images/ana_carolina_siccs_br.jpg # Add participant image to assets/images/ and update here.
+  bio: "Ana Carolina is a tourism professor at Unirio/Cederj. She holds a degree in Tourism, with Master's and Doctorate degrees in Architecture and Urbanism from Federal Fluminense University. Her main lines of research include tourism, heritage, urban planning, and public policy."  # Add participant bio here.
+ # website: https://www.google.com  # Link participant website here.
+ 
 - name: "Ana Virgínia Menezes Torga" # Replace with participant name.
   image: /assets/images/ana_torga_sicss_br.png # Add participant image to assets/images/ and update here.
   bio: "Researcher with attention focused on digital, the environment and sociability on social media. PhD student in Sociology in the Postgraduate Program in Social Sciences (PPGCS) at the University Federal of Bahia (UFBA). Editor of the Prelúdios Magazine, a scientific publication of the Postgraduate Program in Social Sciences at the UFBA. I am part of the PERIFÉRICAS research group - Center for Studies in Social Theories, Modernities and Colonialities - at Postgraduate Program in Social Sciences (PPGCS) da UFBA and I am a member of LABLIVRE - Laboratory of Free Technologies - of the University Federal of ABC (UFABC)."  # Add participant bio here.
@@ -11,6 +16,16 @@
 - name: "Artur Damião Cardoso" # Replace with participant name.
   image: /assets/images/artur_damiao_sicss_br.jpg # Add participant image to assets/images/ and update here.
   bio: "Empirically oriented Sociologist. Holds a Social Sciences degree and is pursuing a Master's in Sociology, both from the Faculty of Philosophy, Languages, and Human Sciences at the University of São Paulo (FFLCH/USP). Specializing in Computational Applied Statistics from UFMG (2026), he has experience in quantitative methods for social research, with an emphasis on violence studies, natural language processing (NLP), social data analysis, and geospatial data analysis."  # Add participant bio here.
+ # website: https://www.google.com  # Link participant website here.
+
+- name: "Cinthya Pires Oliveira" # Replace with participant name.
+  image: /assets/images/cinthya_pires_sicss_br.jpg # Add participant image to assets/images/ and update here.
+  bio: "Ph.D. in Media (Universidade Federal Fluminense - UFF) with specializations in Marketing (FGV), Entrepreneurship and Innovation. Communication expert with a background in Advertising and Journalism. Researcher focused on media trends and content production, consumer behavior, audience studies and digital research methods."  # Add participant bio here.
+ # website: https://www.google.com  # Link participant website here.
+
+- name: "Cintia Augustinha dos Santos Freire" # Replace with participant name.
+  image: /assets/images/cintia_freire_sicss_br.jpg # Add participant image to assets/images/ and update here.
+  bio: "Ph.D. candidate and Master in Media and Everyday Life at the Graduate Program in Media and Everyday Life (PPGMC) at Fluminense Federal University (UFF). CAPES scholarship holder during her doctoral studies. Archivist. Holds a Lato Sensu postgraduate degree in Early Childhood Education and Development. Member of the EMERGE Research and Production Center in Communication and Emergency at UFF and collaborator with the EPCC Research Group – Political Economy of Communication and Culture at the Casa de Rui Barbosa Foundation. Her work focuses on the areas of political economy of communication, culture, and information; the right to communication, culture, and information; communication policies and strategies; media groups; information and communication technologies; and digital media."  # Add participant bio here.
  # website: https://www.google.com  # Link participant website here.
  
 - name: "Cleiane Gonçalves Oliveira" # Replace with participant name.
@@ -21,6 +36,11 @@
 - name: "Daphane Leilane da Silva" # Replace with participant name.
   image: /assets/images/Daphane_sicss_br.jpg # Add participant image to assets/images/ and update here.
   bio: "Daphane Silva is a Master's student in Information Science and holds a Bachelor's degree in Journalism from the Federal University of Alagoas (Ufal). She is currently an Assistant Researcher at NetLab, the research laboratory of the School of Communication of the Federal University of Rio de Janeiro (UFRJ). Her research projects are related to socio-environmental misinformation on social media platforms, identifying the presence of denialist and conspiratorial strategies regarding environmental issues in the online ecosystem."  # Add participant bio here.
+ # website: https://www.google.com  # Link participant website here.
+
+- name: "Emelyn Glorys Herasme Henríquez" # Replace with participant name.
+  image: /assets/images/Emelyn_Herasme_siccss_br.jpg # Add participant image to assets/images/ and update here.
+  bio: "Master’s student in Public Policy at the Federal University of Paraná (UFPR), with a specialization in Human Rights. She holds a Bachelor's degree in Public Administration and Public Policy from the Federal University for Latin American Integration (UNILA). She is a member of the research groups Perspectives on Development and Gender and Public Policy."  # Add participant bio here.
  # website: https://www.google.com  # Link participant website here.
  
 - name: "João Augusto Faustino da Silva" # Replace with participant name.
@@ -57,7 +77,17 @@
   image: /assets/images/natalia_pimenta_sciss_br.png # Add participant image to assets/images/ and update here.
   bio: "Natália Pimenta is an incoming Ph.D. student in Political Science at Northwestern University, beginning in Fall 2025, where she will specialize in Comparative Politics and International Relations. Her research focuses on Latin American politics, particularly the interaction between foreign policy and public opinion in contexts of democratic backsliding. She is also especially interested in research methods, including multi-method designs, causal inference, and applied statistics. Natália holds a Law degree from the Federal University of Minas Gerais (UFMG), where she developed a strong academic foundation in Constitutional and International Law. At Northwestern, she will also be a Mellon Cluster Fellow in the Latin American and Caribbean Studies Cluster, supporting her interdisciplinary engagement with the region."  # Add participant bio here.
  # website: https://www.google.com  # Link participant website here.
+ 
+- name: "Nina da Hora" # Replace with participant name.
+  image: /assets/images/Nina_da_Hora_3546.jpg # Add participant image to assets/images/ and update here.
+  bio: "Nina da Hora is a computer scientist and researcher in algorithmic justice and critical artificial intelligence, with a focus on Southern epistemologies. She holds a degree in Computer Science from PUC-Rio, a master’s degree in Computing from the Institute of Computing at UNICAMP, and is currently pursuing a second master's degree in the Science and Technology Policy program (DPCT) at the same university. She is the founder of the Instituto Da Hora, where she develops training and research projects on technology, ancestry, and digital ethics. She is a Ford Foundation fellow (2023–2025) and the author of the book MyNews Explica: Algoritmos (2023)."  # Add participant bio here.
+ # website: https://www.google.com  # Link participant website here.
 
+- name: "Rafael Garcia Peixoto" # Replace with participant name.
+  image: /assets/images/rafael_peixoto_sicss_br.png # Add participant image to assets/images/ and update here.
+  bio: "Rafael Peixoto is a master's student in Media and Everyday Life at the Fluminense Federal University (UFF) and a CNPq scholarship holder. He is also studying for a Master's in Business and Audiovisual Production at the Escola Superior de Propaganda e Marketing (ESPM-RJ), and holds a degree in Communication and Advertising from ESPM-RJ. His research focuses on the intersection of communication, technology, and culture."  # Add participant bio here.
+ # website: https://www.google.com  # Link participant website here.
+ 
 - name: "Raphael Santos Lapa" # Replace with participant name.
   image: /assets/images/raphael_lapa_sciss_br.png # Add participant image to assets/images/ and update here.
   bio: "PhD in Sociology from the University of Brasília (UnB), with a focus on the Sociology of Work. Holds a Master’s degree in Human Rights and Citizenship (UnB), with research in Critical Theory of Human Rights and Ethics. Bachelor's and teaching degree in Philosophy (UnB), with research in Metaphysics, Philosophy of Science, and Philosophy of Religion. Currently researches the fields of Sociology of Work, Ethics, Neoliberalism, Entrepreneurship, and the Sociology of Morality."  # Add participant bio here.

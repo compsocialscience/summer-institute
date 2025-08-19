@@ -1,42 +1,38 @@
-- date: 'Course material *temporary location*'
-  events:
-    - name: '[https://drive.google.com/drive/folders/1dlKZlV44a7BJYGB8jVdG_XOrhyOpX018](https://drive.google.com/drive/folders/1dlKZlV44a7BJYGB8jVdG_XOrhyOpX018)'
-
 - date: 'Monday, June 23'
   events:
     - name: '9:00 - 9:30 Coffee'
-    - name: '9:30 - 10:00 Welcome and Onboarding'
-    - name: '10:00 - 11:30 Introduction to Text Analysis'
-    - name: '11:30 - 12:30 Python Application'
+    - name: '9:30 - 10:00 [Welcome and Onboarding](https://github.com/css-polytechnique/SICSS-2025-Material/blob/main/Courses/0-SICSS_Paris_2025-Intro.pdf)'
+    - name: '10:00 - 11:30 [Introduction to Text Analysis](https://github.com/css-polytechnique/SICSS-2025-Material/blob/main/Courses/1-SICSS2025-OverviewMethodsTextAnalysis_2025v2.pdf)'
+    - name: '11:30 - 12:30 [Python Application](https://github.com/css-polytechnique/SICSS-2025-Material/blob/main/Labs/1-ClassicMethods_Lexical.ipynb)'
     - name: '12:30 - 13:30 Lunch'
-    - name: '13:30 - 15:30 Discovering Embeddings'
-    - name: '15:30 - 16:30 Python Application'
+    - name: '13:30 - 15:30 [Discovering Embeddings](https://github.com/css-polytechnique/SICSS-2025-Material/blob/main/Courses/2-embeddings.pdf)'
+    - name: '15:30 - 16:30 [Python Application 1](https://github.com/css-polytechnique/SICSS-2025-Material/blob/main/Labs/2-Embeddings-fun.ipynb) and [2](https://github.com/css-polytechnique/SICSS-2025-Material/blob/main/Labs/2-Embeddings-retrieval.ipynb)'
     - name: '17:15 - 18:30 Guest Talk by [Eunji Kim](https://www.eunjikim.pub/): "How social media creators shape mass politics: A field experiment during the 2024 US election"'
 
 - date: 'Tuesday, June 24'
   events:
     - name: '9:30 - 10:30 Group Projects'
-    - name: '10:30 - 12:30 Enter Neural Networks'
+    - name: '10:30 - 12:30 [Enter Neural Networks](https://github.com/css-polytechnique/SICSS-2025-Material/blob/main/Courses/3-neuralnets.pdf)'
     - name: '12:30 - 13:30 Lunch'
-    - name: '13:30 - 14:30 Introduction to Transformers'
-    - name: '14:30 - 15:30 Regular Expressions'
+    - name: '13:30 - 14:30 [Introduction to Transformers](https://github.com/css-polytechnique/SICSS-2025-Material/blob/main/Courses/4-Transformers.pdf)'
+    - name: '14:30 - 15:30 [Regular Expressions](https://github.com/css-polytechnique/SICSS-2025-Material/blob/main/Labs/3-SICSS-Paris_2025_RegEx_2.ipynb)'
     - name: '17:15 - 18:30 Guest Talk by [Jan G. Voelkel](https://www.jangvoelkel.com/): "Solution-Oriented Computational Social Science: The Case of Political Polarization"'
 
 - date: 'Wednesday, June 25'
   events:
-    - name: '10:00 - 11:30 BERT: Principles, Uses, Fine-tuning Tricks'
-    - name: '11:30 - 12:00 Finding Models on Hugging Face'
-    - name: '12:00 - 13:00 Python Application'
+    - name: '10:00 - 11:30 [BERT: Principles, Uses, Fine-tuning Tricks](https://github.com/css-polytechnique/SICSS-2025-Material/blob/main/Courses/6-BERT.pdf)'
+    - name: '11:30 - 12:00 [Finding Models on Hugging Face](https://github.com/css-polytechnique/SICSS-2025-Material/blob/main/Labs/4-Finding%20models%20on%20HF.ipynb)'
+    - name: '12:00 - 13:00 [BERT Python Application](https://github.com/css-polytechnique/SICSS-2025-Material/blob/main/Labs/5-BERT.ipynb)'
     - name: '13:00 - 14:00 Lunch'
-    - name: '14:00 - 17:00 Introduction to Active Tigger'
+    - name: '14:00 - 17:00 [Introduction to Active Tigger](https://github.com/css-polytechnique/SICSS-2025-Material/tree/main/Active_tigger_demo)'
 
 - date: 'Thursday, June 26'
   events:
-    - name: '10:00 - 12:00 Introduction to Text Analysis in the Era of GPT'
-    - name: '12:00 - 13:00 Python Application: API Access, Structured Outputs'
+    - name: '10:00 - 12:00 [Introduction to Text Analysis in the Era of GPT](https://github.com/css-polytechnique/SICSS-2025-Material/blob/main/Courses/7-GPT.pdf)'
+    - name: '12:00 - 13:00 [Python Application: API Access, Structured Outputs](https://github.com/css-polytechnique/SICSS-2025-Material/blob/main/Labs/6-GenAI.ipynb)'
     - name: '13:00 - 14:00 Lunch'
-    - name: '14:00 - 15:30 Python Application: Annotation Zero-shot, Few-shot'
-    - name: '15:30 - 17:00 Python Application: Information Extraction'
+    - name: '14:00 - 15:30 [Python Application: Annotation Zero-shot, Few-shot](https://github.com/css-polytechnique/SICSS-2025-Material/tree/main/Labs/GPT-text-classification)'
+    - name: '15:30 - 17:00 [Python Application: Information Extraction](https://github.com/css-polytechnique/SICSS-2025-Material/tree/main/Labs/GPT-information-extraction)'
 
 - date: 'Friday, June 27'
   events:

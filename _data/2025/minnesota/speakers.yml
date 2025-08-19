@@ -1,4 +1,9 @@
-- name: "Speaker info coming soon." # Speaker name goes here.
+- name: "Justin Hollis, Research Scientist, Minnesota Compass, Amherst H. Wilder Foundation" # Speaker name goes here.
   image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " ... " # add speaker bio here
-  website: https://www.google.com # update speaker personal link here
+  bio: "Justin specializes in policy research, program evaluation, data science and economic analysis using surveys, social indicators, demographic, and geographic analysis for measuring quality of life. " 
+  website: https://www.mncompass.org/staff-advisors # update speaker personal link here
+
+- name: "Cynthia Favre, Saint Peter Area Food Shelf" # Speaker name goes here.
+  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
+  bio: " As manager of the St. Peter Area Food Shelf, I use my strength of connecting to build a sustainable program to support people facing food insecurity.  As a farmer's daughter, I find this to be joyful work.  Both being able to offer immediate and real assistance (because almost everything gets better with food in the house) and receiving the generous donations of the community.  I am grateful to be in a community that has decided that in our town people are not hungry. And, I am delighted that the staff, volunteers, and board of the Food Shelf have come together with the assistance of the University of Minnesota Extension Office to transform to a Super Shelf.  Super Shelf prioritizes healthy food choices and shopper self-selection in in an inclusive, dignified environment. The Food Shelf is committed to providing a steady stream of food for neighbors in need.  Prior to being at the Food Shelf, I had a long career in colleges and universities helping students to name their gifts and talents and find places to use them in the world. " # add speaker bio here
+  website: https://www.stpeterfoodshelf.com/ # update speaker personal link here

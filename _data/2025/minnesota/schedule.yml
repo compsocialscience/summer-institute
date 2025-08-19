@@ -1,3 +1,4 @@
+- date: <a href='https://drive.google.com/drive/folders/1R90fwqafQhJVElHE4Wp7IoXbmZ86LhxS?usp=drive_link' target='_blank'>Lecture and Learning Materials</a>
 - date: All times are Central Standard Time
 
 - date: 2025-07-14
@@ -18,7 +19,7 @@
     - name: "9:30 - 9:45 Announcements"
     - name: "9:45 - 11:30 Digital Trace Data & APIs Lecture"
     - name: "11:30 - 12:30 Lunch"
-    - name: "12:30 - 1:30 Guest Speaker"
+    - name: "12:30 - 1:30 Justin Hollis, Minnesota Compass, Wilder Foundation"
     - name: "1:30 - 4:00 Digital Trace Data Activity"
     - name: "4:00 - 4:30 Debrief"
 
@@ -29,7 +30,7 @@
     - name: "9:30 - 9:45 Announcements"
     - name: "9:45 - 11:30 Text Analysis Workshop"
     - name: "11:30 - 12:30 Lunch"
-    - name: "12:30 - 1:30 Guest Speaker"
+    - name: "12:30 - 1:30 Cynthia Favre, Saint Peter Area Food Shelf"
     - name: "1:30 - 4:00 Text Analysis"
     - name: "4:00 - 4:30 Debrief"
 
@@ -40,7 +41,7 @@
     - name: "9:30 - 9:45 Announcements"
     - name: "9:45 - 11:30 Surveys and Experiments Lecture"
     - name: "11:30 - 12:30 Lunch"
-    - name: "12:30 - 1:30 Guest Speaker"
+    - name: "12:30 - 1:30 Applying CSS"
     - name: "1:30 - 4:00 Survey Activity Part 1"
     - name: "4:00 - 4:30 Debrief"
 
@@ -51,8 +52,14 @@
     - name: "9:30 - 9:45 Announcements"
     - name: "9:45 - 11:00 Surveys and Experiments Part 2"
     - name: "11:00 - 11:30 Debrief"
-    - name: "11:30 - 12:30 Lunch"
+    - name: "11:30 - 12:30 Lunch" 
     - name: "12:30 - 2:00 Lightning Talks"
+    - name: "Ryuto Hashimoto - Topic, TBA"
+    - name: "Shiyun Cao - Topic, TBA"
+    - name: "Stella Anderson Moye - Topic, TBA"
+    - name: "Shuping Wang - Topic, TBA"
+    - name: "Erin Hall - Topic, TBA"
+    - name: "Chanya Butsayaturt - Topic, TBA"  
     - name: "2:00 - 4:00 Project Design Sprint"
     - name: "4:00 - 4:30 Debrief"
 
@@ -71,8 +78,6 @@
 - date: 2025-07-25
   name: Presentation Day
   events:
-    - name: "8:00 - 9:30 Breakfast"
-    - name: "9:30 - 9:45 Announcements"
-    - name: "9:45 - ?? Final Presentations"
-
+    - name: "1:30 - 3:30 Final Presentations"
+    - name: "3:30 - 4:00 Program Celebration"
     
