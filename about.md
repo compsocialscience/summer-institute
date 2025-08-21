@@ -104,7 +104,7 @@ In September 2021, with support from the Russell Sage Foundation and the Alfred 
 
 #### Participate
 
-If you’d like to participate in one of our institutes, [check out the 2023 locations](/locations#year2023).
+If you’d like to participate in one of our institutes, [check out our locations](/locations).
 
 #### Host
 
