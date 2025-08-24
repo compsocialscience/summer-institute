@@ -1,7 +1,7 @@
 - name: "Alina Zumbruch" # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+  image: /assets/images/SB_2025_Alina_Zumbruch.png  # Add participant image to assets/images/ and update here.
+  bio: "Alina Zumbruch is a research assistant in educational technology at the University of Wuppertal. She is involved in a teaching project (EhLSa), funded by the Foundation for Innovation in Higher Education, which develops an asynchronous online course for university students and tutors on the effective use of digital media. Her current research in this context focuses on autonomy support in digital learning environments and its effects on achievement emotions."  # Add participant bio here.
+  #website: https://www.google.com  # Link participant website here.
 
 - name: "Anastasiia Vestel" # Replace with participant name.
   image: /assets/images/2025_SB_Anastasiia_Vestel.jpg  # Add participant image to assets/images/ and update here.
