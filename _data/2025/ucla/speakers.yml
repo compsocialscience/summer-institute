@@ -1,1 +1,35 @@
+- name: "Homa Hosseinmardi"
+  image: /assets/images/homa.png
+  bio: "Homa Hosseinmardi is an Assistant Professor of Data Science (DataX) and Computational Communication at UCLA, where she directs the OASIS Lab (Online and AI Systems’ Integrity & Safety). Her research takes a holistic, large-scale approach to understanding sociotechnical systems and information ecosystems, with a focus on safety and trustworthiness. She serves as an editor for the Journal of Quantitative Description: Digital Media, received the “Outstanding Research Award” during her Ph.D., and co-founded the CyberSafety workshop series."
+  website: https://homahm.github.io/
+
+- name: "Chad Hazlett"
+  image: /assets/images/chad_hazlett.jpg
+  bio: "Chad Hazlett is a professor at UCLA in the Department of Statistics and Data Science and in the Department of Political Science, and Co-Director of the UCLA Practical Causal Inference Lab. His methodological work focuses on 'feasible' or 'practical' causal inference: developing research methods that enable researchers across disciplines to more feasibly make credible causal inferences from the available data and assumptions. His substantive work has focused on civil war, indiscriminate violence, and mass atrocity."
+  website: https://www.chadhazlett.com/
+
+- name: "Jiahui Xu"
+  image: /assets/images/jiahui.jpg
+  bio: "Jiahui Xu is a Ph.D. candidate in Sociology and Demography at Pennsylvania State University. She is a computational sociologist and quantitative methodologist substantively focusing on social inequality. Her ongoing projects include: (1). adapting the generalized random forests for causal decomposition to investigate college returns; and (2). applying natural language processing models to tackle open-ended survey responses."
+  website: https://www.jiahuixu.com/
+
+- name: "Amir Ghasemian"
+  image: /assets/images/amir.JPG
+  bio: "Amir Ghasemian is a Visiting Scholar in the Department of Communication at the University of California, Los Angeles. His research lies at the intersection of complex systems and computational social science, with a focus on analyzing and modeling networks and their dynamic behaviors. Drawing on tools from statistical inference, causal inference, Bayesian modeling, and machine learning, he develops principled methods to address challenges of heterogeneity, interdependence, and bias in large-scale data. His work advances tasks such as community detection, link prediction, and the study of social influence dynamics, as well as applications to digital information ecosystems and platform integrity."
+  website: https://aghasemian.github.io/
+
+- name: "Jake Anderson"
+  image: /assets/images/jake.png
+  bio: "Jake Anderson is a PhD student in the department of economics at UCLA, and 2024-2025 National Institute of Health T32 fellow. His research interests lie in the intersection of labor economics, crime and incarceration, and applied econometrics. Before his PhD, he worked as a data scientist at Uber, and earned an MA in Statistics from UC Berkeley and a BS in Mathematics and Computer Science from UC Irvine. Jake is passionate about teaching and coaching—in his free time serves as the coach of the UCLA Olympic Weightlifting team."
+  website: https://www.jakemanderson.com/
+
+- name: "Duy Pham"
+  image: /assets/images/duy.png
+  bio: "Duy Pham is a 1st year Ph.D. student in Statistics and Data Science at UCLA. He is interested in developing robust causal methodologies for applied social science settings, such as education, as well as teaching causal inference and computational social sciences to broader audiences. His favorite Pokémon are Slowpoke and Psyduck."
+  website: https://statistics.ucla.edu/index.php/people1/active-graduate-students/ph-d-students/
+
+- name: "Naomi Sugie"
+  image: /assets/images/naomi.jpeg
+  bio: "Naomi F. Sugie is an associate professor in sociology at the University of California, Los Angeles. She studies punishment and inequality, including barriers to reentry from incarceration and consequences of criminal legal contact for employment, health, government benefits, and political participation. Methodologically, her work often employs technology-based tools to improve the collection and analysis of social science data. She is co-founder of PrisonPandemic, an archive of stories contributed by people living through COVID-19 in California prisons and jails. She has a Ph.D. in Sociology and Social Policy, as well as a specialization in Demography, from Princeton University."
+  website: https://soc.ucla.edu/person/naomi-sugie/
 
