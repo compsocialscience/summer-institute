@@ -68,11 +68,6 @@
   bio: "Nima Thing is a Data Science for Public Policy graduate from the Hertie School. His research focuses on algorithmic fairness, social media, and digital governance. He currently leads analytics and data governance work at Welthungerhilfe and has recently presented his Master Thesis at Max Planck Summer Institute - Bounded Rationality and Deploying Bias Mitigation at LLM at Weizenbaum Institute SSaLM workshop."  # Add participant bio here.
   #website: https://www.google.com  # Link participant website here.
 
-- name: "Phanidhar Upadhyaya" # Replace with participant name.
-  image: /assets/images/2025_SB_Phanidhar_Upadhyaya.jpg  # Add participant image to assets/images/ and update here.
-  bio: "Phanidhar is pursuing PhD in Population Studies at the International Institute for Population Sciences, Mumbai. He has a master's in Population Studies and bachelor's in Mathematics. He studies social media-induced behavioral trauma by analyzing user posts and comments through text mining and NLP. He wants to focus on contributing novel computational methods to social science research, where surveys and other data generating methods are expensive. "  # Add participant bio here.
-  #website: https://www.google.com  # Link participant website here.
-
 - name: "Saroj Bijarnia" # Replace with participant name.
   image: /assets/images/2025_SB_Saroj_Bijarnia.jpg  # Add participant image to assets/images/ and update here.
   bio: "Saroj Bijarnia is a doctoral student in Management Information Systems at  Indian Institute of Technology(IIT) Delhi, India, with a strong background in Computer Science. My research interests lie at the intersection of Social Computing, Collective Behaviour, AI in Management, and Digital Marketing. I am passionate about leveraging user-generated content through data-driven techniques combined with a theoretical lens to derive meaningful insights."  # Add participant bio here.
