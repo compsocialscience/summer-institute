@@ -13,11 +13,6 @@
   bio: "I am a PhD student at the Interdisciplinary  Institute for Societal Computing lab at Saarland University. I work in reforestation and Carbon offset monitoring with remote sensing and Machine Learning."  # Add participant bio here.
   #website: https://www.google.com  # Link participant website here.
 
-- name: "Bowen Zhang" # Replace with participant name.
-  image: /assets/images/2025_SB_Bowen_Zhang.jpg  # Add participant image to assets/images/ and update here.
-  bio: "Bob (Bowen) Zhang is a current graduate student in computer science at the University of Trento, Italy. His interests are in the intersection fields of human-computer interaction, affective computing, and generative AI. He will be an incoming PhD student later this year, focusing on the use of AI applications in multimodal processing."  # Add participant bio here.
-  #website: https://www.google.com  # Link participant website here.
-
 - name: "Deborah Dormah Kanubala" # Replace with participant name.
   image: /assets/images/2025_SB_Deborah_D_Kanubala.jpeg  # Add participant image to assets/images/ and update here.
   bio: "Deborah Dormah Kanubala is the co-organizer of WiMLDS Accra-Ghana and a PhD student at Saarland University, Germany."  # Add participant bio here.
@@ -58,11 +53,6 @@
   bio: "Moein Karami is a Ph.D. student at Saarland University, specializing in Algorithmic Bioinformatics under the supervision of Prof. Rahmann. He holds a B.Sc. in Computer Engineering from the University of Tehran."  # Add participant bio here.
   #website: https://www.google.com  # Link participant website here.
 
-- name: "Neha Shri" # Replace with participant name.
-  image: /assets/images/2025_SB_Neha_Shri.jpeg  # Add participant image to assets/images/ and update here.
-  bio: "Neha Shri is a PhD scholar at the International Institute for Population Sciences, Mumbai. Her research focuses on ageing, multimorbidity, and psychosocial health in India. She works with large-scale survey data and advanced statistical methods, and is interested in domains related to health, demography, and social research."  # Add participant bio here.
-  #website: https://www.google.com  # Link participant website here.
-
 - name: "Nima Thing" # Replace with participant name.
   image: /assets/images/2025_SB_Nima_Thing.jpg  # Add participant image to assets/images/ and update here.
   bio: "Nima Thing is a Data Science for Public Policy graduate from the Hertie School. His research focuses on algorithmic fairness, social media, and digital governance. He currently leads analytics and data governance work at Welthungerhilfe and has recently presented his Master Thesis at Max Planck Summer Institute - Bounded Rationality and Deploying Bias Mitigation at LLM at Weizenbaum Institute SSaLM workshop."  # Add participant bio here.
@@ -81,11 +71,6 @@
 - name: "Shiqi Yang" # Replace with participant name.
   image: /assets/images/2025_SB_Shiqi_Yang.jpg  # Add participant image to assets/images/ and update here.
   bio: "Shiqi Yang is a doctoral researcher at the University of Jyväskylä. Her research focuses on public trust in visual journalism and Generative AI, using computational methods including topic modeling, cosine similarity, Structural Equation Modeling (SEM), and sentiment analysis to examine cross-cultural user perceptions and reactions."  # Add participant bio here.
-  #website: https://www.google.com  # Link participant website here.
-
-- name: "Subrat Kishore Dutta" # Replace with participant name.
-  image: /assets/images/2025_SB_Subrat_Kishore_Dutta.jpg  # Add participant image to assets/images/ and update here.
-  bio: "I’m Subrat Kishore Dutta, a first year PhD student at CISPA Helmholtz Center for Information Security. I have completed my Masters in Informatik from Saarland University. My research centres around Adversarial Machine Learning and its utility in understanding and improving Fairness of Foundational Models, in specific regards to minority subgroups in society."  # Add participant bio here.
   #website: https://www.google.com  # Link participant website here.
 
 - name: "Theophilus Aidoo" # Replace with participant name.
