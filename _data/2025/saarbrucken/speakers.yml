@@ -39,6 +39,10 @@
   image: /assets/images/2025SBKevin.jpg  # Upload speaker image to /assets/images/ and update URL here.
   bio: "Kevin Baum is a computer scientist and philosopher researching interdisciplinary topics in ethical and safe AI. He leads the Responsible AI and Machine Ethics (RAIME) research group at the German Research Center for Artificial Intelligence (DFKI) and is part of the Center for European Research in Trusted AI (CERTAIN), where he explores ethical frameworks and practical methods for trustworthy, aligned AI systems. Kevin frequently lectures and speaks internationally on AI ethics, notably through the award-winning course Ethics for Nerds." # add speaker bio here
   website: https://kevinbaum.de/ # update speaker personal link here
+
+ - name: "Pushpdeep Singh (Max Planck Institute for Software Systems)" # Speaker name goes here.
+  image: /assets/images/2025SBPushpdeepSingh.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Pushpdeep Singh is a PhD researcher in Dr. Krishna Gummadi’s Research Group at MPI-SWS, Kaiserslautern. His research focuses on content moderation practices in decentralized social media platforms such as Bluesky, with a broader interest in fairness, bias, and transparency in sociotechnical systems." 
  
 - name: "Ridhi Kashyap (University of Oxford)" # Speaker name goes here.
   image: /assets/images/2025SBRidhiKashyap.jfif  # Upload speaker image to /assets/images/ and update URL here.
