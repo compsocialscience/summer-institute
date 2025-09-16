@@ -1,4 +1,15 @@
-- name: "Speaker info coming soon." # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " ... " # add speaker bio here
-  website: https://www.google.com # update speaker personal link here
+- name: "Yusuf Mücahit Çetinkaya" # Speaker name goes here.
+  image: /assets/images/cropped-32975e2.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Yusuf Mucahit Çetinkaya is a Postdoctoral Scholar at the School of Informatics, University of Edinburgh. He earned his B.Sc. (2016) and M.Sc. (2019) degrees in
+Computer Engineering from  the Department of Computer
+Engineering at Middle East Technical University (METU), Türkiye and completed his PhD there in 2024. In 2023,
+he was a visiting researcher at Arizona State University’s Ira A. Fulton
+Schools of Engineering for a year. Alongside his academic work, he served as a
+technical consultant to technology companies, integrating smart solutions into
+mission-critical projects. Dr. Çetinkaya’s research interests span natural
+language processing, human–computer interaction, and business intelligence. He
+is deeply involved in social media analysis, leveraging machine learning and
+NLP techniques to understand user interactions and scaling. He regularly acts
+as a reviewer for international peer-reviewed journals and holds a patent on
+user behavior–based redirection systems." # add speaker bio here
+  website: https://www.linkedin.com/in/yusuf-mücahit-çetinkaya-767b2774 # update speaker personal link here

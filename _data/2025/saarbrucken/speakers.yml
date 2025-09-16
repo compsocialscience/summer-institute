@@ -39,15 +39,19 @@
   image: /assets/images/2025SBKevin.jpg  # Upload speaker image to /assets/images/ and update URL here.
   bio: "Kevin Baum is a computer scientist and philosopher researching interdisciplinary topics in ethical and safe AI. He leads the Responsible AI and Machine Ethics (RAIME) research group at the German Research Center for Artificial Intelligence (DFKI) and is part of the Center for European Research in Trusted AI (CERTAIN), where he explores ethical frameworks and practical methods for trustworthy, aligned AI systems. Kevin frequently lectures and speaks internationally on AI ethics, notably through the award-winning course Ethics for Nerds." # add speaker bio here
   website: https://kevinbaum.de/ # update speaker personal link here
+
+- name: "Pushpdeep Singh (Max Planck Institute for Software Systems)" # Speaker name goes here.
+  image: /assets/images/2025SBPushpdeepSingh.png  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Pushpdeep Singh is a PhD researcher in Dr. Krishna Gummadi’s Research Group at MPI-SWS, Kaiserslautern. His research focuses on content moderation practices in decentralized social media platforms such as Bluesky, with a broader interest in fairness, bias, and transparency in sociotechnical systems." 
  
 - name: "Ridhi Kashyap (University of Oxford)" # Speaker name goes here.
   image: /assets/images/2025SBRidhiKashyap.jfif  # Upload speaker image to /assets/images/ and update URL here.
   bio: "Ridhi Kashyap is Professor of Demography and Computational Social Science at the Department of Sociology, Nuffield College, and Leverhulme Centre for Demographic Science at the University of Oxford. Her research examines population dynamics and human development, with a focus on gender inequalities. She has pioneered the use of computational methods and digital data sources for demographic research, and currently serves as the chair of the International Union for the Scientific Study of Population’s Panel on Digital and Computational Demography." # add speaker bio here
   website: https://www.sociology.ox.ac.uk/people/ridhi-kashyap # update speaker personal link here
   
-- name: "Rosa M. Navarrete (Saarland University)" # Speaker name goes here.
+- name: "Rosa M. Navarrete (Universidad Autónoma de Madrid)" # Speaker name goes here.
   image: /assets/images/2025SBRosaMNavarrete.jpg  # Upload speaker image to /assets/images/ and update URL here.
-  bio: "Rosa Navarrete is an Assistant Professor at the Universidad Autonoma de Madrid. Before that, she worked as a postdoctoral researcher and lecturer at the Department of European Social Research at Saarland University, where she led the project Political Deception in the Digital Era and was the Director of the Observatory of Online Politics at Saarland University." # add speaker bio here
+  bio: "Rosa Navarrete is Assistant Professor at the Universidad Autonoma de Madrid. Before that, she worked as a postdoctoral researcher and lecturer at the Department of European Social Research at Saarland University, where she led the project Political Deception in the Digital Era and was the Director of the Observatory of Online Politics at Saarland University." # add speaker bio here
   website: https://www.rosanavarrete.com/ # update speaker personal link here
   
 - name: "Savvas Zannettou (Delft University of Technology)" # Speaker name goes here.
