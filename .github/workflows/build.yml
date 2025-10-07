@@ -15,23 +15,21 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Free runner disk space  # added oct 2025 to fix issue where runner ran out of disk. may need to offload images / assets eventually ...
+        uses: jlumbroso/free-disk-space@v1.3.1
+        with:
+          tool-cache: false
+          android: true
+          dotnet: true
+          haskell: true
+          large-packages: true
+          docker-images: true
+          swap-storage: true
+
       - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 1  # keeps full git history from getting into checkout, to save on runner disk space
-
-      - name: Configure sparse-checkout (exclude heavy dirs, re-include required PDFs)
-        run: |
-          git sparse-checkout init --no-cone
-
-          # We are excluding materials for now to help with build. 
-          # This means pages cannot use things mentioned in /materials though. May have to undo.
-          cat > .git/info/sparse-checkout <<'EOF'
-          *
-          !materials/
-          EOF
-
-          git read-tree -mu HEAD
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
