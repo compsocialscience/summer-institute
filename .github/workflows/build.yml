@@ -1,0 +1,40 @@
+name: Jekyll build
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout with sparse-checkout to reduce disk space
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        sparse-checkout: |
+          /*
+          !*/materials/
+        sparse-checkout-cone-mode: false
+    - uses: actions/setup-ruby@v1
+      with:
+        ruby-version: '2.7'
+
+    - name: Install proper version of bundler
+      run: gem install bundler -v 2.1.4
+
+    - uses: actions/cache@v2
+      with:
+        path: vendor/bundle
+        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-gems-
+
+    - name: Bundle install
+      run: |
+        bundle config path vendor/bundle
+        bundle check || bundle install --jobs 4 --retry 3
+
+    - name: Jekyll build
+      run: bundle exec jekyll build

@@ -8,15 +8,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout with sparse-checkout to reduce disk space
-      uses: actions/checkout@v4
-      with:
-        fetch-depth: 0
-        sparse-checkout: |
-          /*
-          !/assets/images/
-          !*/materials/
-        sparse-checkout-cone-mode: false
+    - uses: actions/checkout@v2
     - name: Use Node.js 14.x
       uses: actions/setup-node@v1
       with:
