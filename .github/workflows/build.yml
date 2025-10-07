@@ -8,6 +8,8 @@ on:
 
 permissions:
   contents: read
+  pages: write
+  id-token: write
 
 jobs:
   build:
@@ -16,19 +18,16 @@ jobs:
       - name: Checkout with sparse-checkout
         uses: actions/checkout@v4
         with:
-          # prevents inclusion of full git history to help ensure runner doesn't deplete disk space
-          fetch-depth: 1
-          # Include repo root; exclude large materials dir (COMMENT OUT if we need to build with materials)
+          fetch-depth: 1  # keeps full git history from getting into checkout, to save on runner disk space
           sparse-checkout: |
-            /
-            !/materials/
-          sparse-checkout-cone-mode: true
+            /*
+            !materials/
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '2.7'
-          bundler: '2.3.23'  # matches Gemfile.lock (in oct 2025)
+          bundler: '2.3.23'
           bundler-cache: false
 
       - name: Cache bundler gems
@@ -46,3 +45,19 @@ jobs:
 
       - name: Jekyll build
         run: bundle exec jekyll build --trace
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4
