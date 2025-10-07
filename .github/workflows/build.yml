@@ -15,10 +15,23 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout with sparse-checkout
+      - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 1  # keeps full git history from getting into checkout, to save on runner disk space
+
+      - name: Configure sparse-checkout (exclude heavy dirs, re-include required PDFs)
+        run: |
+          git sparse-checkout init --no-cone
+
+          # We are excluding materials for now to help with build. 
+          # This means pages cannot use things mentioned in /materials though. May have to undo.
+          cat > .git/info/sparse-checkout <<'EOF'
+          *
+          !materials/
+          EOF
+
+          git read-tree -mu HEAD
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
