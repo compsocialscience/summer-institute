@@ -22,7 +22,7 @@
                             {% elsif breadcrumb == '_videos' or breadcrumb == 'boot_camp' %}
                                 <li class="breadcrumb-item"><a href="{{ site.baseurl | append: "/overview" }}">Overview</a></li>
                             {% else %}
-                                <li class="breadcrumb-item"><a href="{{ site.baseurl }}{{ relative_breadcrumb_str }}">{{ breadcrumb | replace: "_", " " | capitalize }}</a></li>
+                                <li class="breadcrumb-item"><a href="{{ site.baseurl }}/{{ relative_breadcrumb_str }}">{{ breadcrumb | replace: "_", " " | capitalize }}</a></li>
                             {% endif %}
                         {% endfor %}
                     {% endif %}
