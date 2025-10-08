@@ -7,13 +7,14 @@ partner_site: sharjah
 
 # Apply
 
-**This page is under construction. Check back soon for more up-to-date info!**
+**This page is under construction. Check back soon for the application link.**
 
 ## Eligibility
 
-We invite applicants from advanced Ph.D. students students, postdoctoral researchers, and faculty within 7 years of their Ph.D., who are able to attend the program in Remote. We welcome applicants from all backgrounds and fields of study, particularly ... . About ... participants will be invited. However, there are no restrictions based on citizenship, country of study, or country of employment. 
 
-The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp.
+We invite applications from advanced Ph.D. students, postdoctoral researchers, and junior faculty (within 2 years of their Ph.D)., who are able to attend the full remote program. We welcome applicants from all backgrounds and fields of study, particularly those with interest in computational communication science. However, there are no restrictions based on citizenship, country of study, or country of employment.
+
+The Autumn Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp.
 
 We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
 
