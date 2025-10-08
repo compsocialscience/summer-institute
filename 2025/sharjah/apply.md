@@ -28,13 +28,13 @@ Applicants must submit the following documents: 1) a curriculum vitae, 2) a stat
 - Your experience and/or interest in collaborative research. Carrying out a collaborative research project is a core component of SICSS-Sharjah.
 - A possible topic, method, or question you would like to focus on for a collaborative project
 
-**In order to be guaranteed full consideration, all application materials must be submitted by {app due date not yet determined}.** All application materials must be submitted through this [Google Form](https://www.google.com) (form for this site not yet created). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by {decision date not yet determined}, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by Friday, October 31, 2025, at 12:00 noon (Gulf Standard Time).** All application materials must be submitted through this [Google Form](https://www.google.com). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by **Friday, November 7, 2025**, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to [site email not set up](email@goes.here).
 
 ## Application Frequently Asked Questions
 
-#### Can I apply to more than one Summer Institute location?
+#### Can I apply to more than one Summer/Autumn Institute location?
 
 Yes, but not at the same time. For example, you can apply to SICSS-Sharjah, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.
 
