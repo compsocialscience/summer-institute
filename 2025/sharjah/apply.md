@@ -7,7 +7,7 @@ partner_site: sharjah
 
 # Apply
 
-**This page is under construction. Check back soon for the application link.**
+**Check back soon for the application link.**
 
 ## Eligibility
 
