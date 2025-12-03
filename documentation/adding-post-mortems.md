@@ -70,7 +70,7 @@ layout: about
 
 [Introduction paragraph about the year's SICSS program]
 
-These post-mortems describe, for each site, a) how the Institute was run, b) what each site think worked well, and c) what each site will do differently next time.
+These post-mortems describe, for each site, a) how the Institute was run, b) what each site thinks worked well, and c) what each site will do differently next time.
 
 Skip to: 
 
