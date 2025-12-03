@@ -6,5 +6,8 @@
   url: "schedule"
 - name: People
   url: "people"
+- name: "Post Mortem"
+  url: "post-mortem"
+  link: '#saarbrucken'
 
 # You can add more pages to your site page by adding them here, and creating the corresponsing yml and markdown necessary.
