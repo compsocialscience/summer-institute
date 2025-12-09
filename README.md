@@ -18,6 +18,7 @@ Science. It is currently powered by [GitHub Pages](https://pages.github.com/),
 * [Homepage](#homepage)
 * [Adding a partner location](#adding-a-partner-location)
 * [Videos](#videos)
+* [Adding Learning Materials](#adding-learning-materials)
 * [Admin Documentation](#admin-documentation)
 
 # Layouts
@@ -259,6 +260,14 @@ To add new locations, you can search for the location in the search bar (just li
 ![map detail card](documentation/map_detail_card.png)
 
 You can also change the theme of the map, by selecting one of google's themes under the `Base map` dropdown in the google map console. Keep in mind that when selecting a new theme, it will take a few minutes to register before it is reflected on the production website.
+
+# Adding Learning Materials
+
+> 📖 **For detailed instructions, see the [Adding Learning Materials Guide](documentation/adding_learning_materials.md)**
+
+To add learning materials to the main curriculum, you primarily need to edit `_data/curriculum.yml`. This file controls the schedule, topics, and links to videos and slides.
+
+For alternative curricula (e.g. partner site materials), edit `_data/alternative_curriculum.md`.
 
 ## Requesting access
 
