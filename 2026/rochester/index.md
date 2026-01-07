@@ -5,14 +5,26 @@ main: true
 image: /assets/images/rochester.jpg
 ---
 
-[//]: # (ORGANIZERS: Update the info to match your location. Add a site image to /assets/images/ and update the placeholder URL above to match it. See _data/2026/Rochester for yml files that control the header content, location info on general sites page, people lists, and sidebar.)
+University of Rochester is holding the 4th chapter of SICSS in Rochester, NY! From May 11 to May 23, 2026, Goergen Instite for Data Science and AI at the University of Rochester will sponsor the Summer Institute in Computational Social Science, to be held at the University of Rochester. University of Rochester is globally known for its academic strengh in political science and economics. Sessions and lectures are planned to take place in-person. 
 
-From May 11 to May 23, 2026 [[HOST]] will host the Summer Institute in Computational Social Science, to be held in Rochester, NY. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
+The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
 
-The instructional program will involve lectures, group problem sets, and participant-led research projects, with a special emphasis on causal inference. There will also be outside speakers who conduct computational social science research in a variety of settings, such as academia, industry, and government. Topics covered include causal inference with observational data, text analysis, network analysis, survey experiments, and machine learning. There will be ample opportunities for students to discuss their ideas and research with the organizers, other participants, and visiting speakers. Because we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute will be released open source.
+The instructional program will involve lectures, tutorials, and participant-led research projects. There will also be outside speakers who conduct computational social science research in a variety of settings, such as academia, industry, and government. Topics covered include:
 
-Participation is restricted to advanced Ph.D. students, postdoctoral researchers, and junior faculty (within 7 years of their Ph.D). We welcome applicants from all backgrounds and fields of study, especially junior faculty from neighboring institutions near Rochester, NY. About 25-30 participants will be invited. Most participants are expected to fully attend and participate in the entire 8-day program, but we are open to alternative arrangements for faculty members. 
+* image as data
+* text as data
+* generative AI
+* social media / use of APIs
+* data visualization
+* webscraping
+* mass collaboration
+* network analysis
+* ethics
+* introduction to machine learning
+* introduction to deep learning
 
-Application materials are due on {date not yet determined}.
+Students will have ample opportunities to discuss their ideas and research with the organizers, TAs, other participants, and visiting speakers. We are hoping that the event will have a catalyzing effect on the research and teaching productivity of the participants. Since we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute will be released open source.
 
-[//]: # (ORGANIZERS: feel free to add a link to your application materials or your SICSS apply page above.)
+**[Application materials](https://forms.gle/kYbkSaJ3c4s9JB9H8) are due by Sunday, April 5th, 2026.**
+
+Participation is restricted to advanced undergraduates, Master's students, PhD students, Postdoctoral researchers, and assistant professors (within 7 years of their PhD). We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. Participants are expected to fully attend and participate in the entire two-week program.
