@@ -7,7 +7,7 @@ partner_site: ucla
 
 # Apply
 
-**This page is under construction. Check back soon for more up-to-date info!**
+**This page is under construction. Check back soon for more info in February!**
 
 ## Eligibility
 
