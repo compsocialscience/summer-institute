@@ -1,6 +1,11 @@
-- name: "Faculty info coming soon." # Add faculty name here.
-  image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
-  bio: "Check back soon for updates." # Add faculty bio here.
-  website: https://www.google.com  # Link faculty website here.
+- name: "Jennie Brand"
+  image: /assets/images/prof+brand+pic.jpeg
+  bio: "Jennie E. Brand is Professor of Sociology and Professor of Statistics and Data Science (by courtesy) at the University of California, Los Angeles (UCLA). She is Co-Director of the Center for Social Statistics (CSS) at UCLA. She is President of the International Sociological Association (ISA) Research Committee on Social Stratification and Mobility (RC28). She is the previous Chair of the Methodology Section and the Inequality, Poverty, and Mobility Section of the American Sociological Association (ASA). She was elected to the Sociological Research Association (SRA), an honor society for excellence in research, in 2019, and received the ASA Methodology Leo Goodman Mid-Career Award in 2016, and honorable mention for the ASA Inequality, Poverty, and Mobility William Julius Wilson Mid-Career Award in 2014. Prof. Brand is a member of the Technical Review Committee for the National Longitudinal Surveys Program at the Bureau of Labor Statistics. She was previously a member of the Board of Overseers of the General Social Survey (GSS). Prof. Brand studies social stratification and inequality, mobility, social demography, education, and methods for causal inference."
+  website: http://www.profjenniebrand.com/
+
+- name: "Ian Lundberg"
+  image: /assets/images/ucla_2023_faculty_ian_lundberg.png
+  bio: "Ian Lundberg is an Assistant Professor of Sociology at UCLA. His research develops statistical methods and applies those methods to questions about inequality, poverty, and mobility. After completing his PhD in sociology at Princeton University, Ian spent one year as a postdoctoral scholar in the Department of Sociology at UCLA. Ian enjoys hiking, surfing, and making oatmeal with blueberries."
+  website: https://www.ianlundberg.org/
 
 # Add more faculty with the same format as above...
