@@ -18,6 +18,6 @@ The instructional program will involve lectures, group problem sets, and partici
 
 We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 20 participants will be invited, and participants are expected to fully attend and participate in the entire two-week program.
 
-Application materials are due on the 28th of February. Please apply via this [link](https://docs.google.com/forms/d/e/1FAIpQLSe9q9MfOGs5U2MTK_4Mbso0APSkzAEIV5L-uEZA9ex3Xc56bQ/viewform?usp=send_form)
+Application materials are due on the 28th of February. Please apply via this [link](https://docs.google.com/forms/d/e/1FAIpQLSe9q9MfOGs5U2MTK_4Mbso0APSkzAEIV5L-uEZA9ex3Xc56bQ/viewform?usp=send_form).
 
 [//]: # (ORGANIZERS: feel free to add a link to your application materials or your SICSS apply page above.)
