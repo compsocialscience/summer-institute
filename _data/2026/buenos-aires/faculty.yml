@@ -4,16 +4,16 @@
   website: https://gefero.github.io 
 
 - name: "Adriana Chazarreta" 
-  image: /assets/images/adriana-chazarreta.png 
+  image: /assets/images/adriana-chazarreta.jpg 
   bio: " Adjunct Researcher National Scientific and Technical Research Council (CONICET); Professor in Quantitative Methods (factor~data) - School of Interdisciplinary Advanced Social Studies (Escuela IDAES), National University of San Martín, Argentina."
   website: https://www.conicet.gov.ar/new_scp/detalle.php?keywords=&id=34629&datos_academicos=yes
 
-- name: "Florencia Piñeyúa" # Add faculty name here.
-  image: /assets/images/florencia-piñeyrua.png  # Add faculty image to assets/images/ and update here.
+- name: "Florencia Piñeyúa" 
+  image: /assets/images/flor-pineyrua.jpg 
   bio: "Doctoral student National Scientific and Technical Research Council (CONICET); Professor in Postgraduate Diploma in Computational Social Sciences and Digital Humanities (factor~data) - School of Interdisciplinary Advanced Social Studies (Escuela IDAES), National University of San Martín, Argentina."
   website: https://www.conicet.gov.ar/new_scp/detalle.php?keywords=&id=64744&datos_academicos=yes
 
-- name: "Nayla Sol Garcilazo" # Add faculty name here.
-  image: /assets/images/nayla-garcilazo.png  # Add faculty image to assets/images/ and update here.
+- name: "Nayla Sol Garcilazo" 
+  image: /assets/images/nayla-garcilazo.jpg  
   bio: "Assistant Professor in Postgraduate Diploma in Computational Social Sciences and Digital Humanities (factor~data) - School of Interdisciplinary Advanced Social Studies (Escuela IDAES), National University of San Martín, Argentina."
   website: https://www.linkedin.com/in/nayla-sol-garcilazo-a95563103/
