@@ -7,29 +7,27 @@ partner_site: odissei
 
 # Apply
 
-**This page is under construction. Check back soon for more up-to-date info!**
-
 ## Eligibility
 
-We invite applicants from advanced Ph.D. students students, postdoctoral researchers, and faculty within 7 years of their Ph.D., who are able to attend the program in Rotterdam, the Netherlands. We welcome applicants from all backgrounds and fields of study, particularly ... . About ... participants will be invited. However, there are no restrictions based on citizenship, country of study, or country of employment. 
+Our primary target audience consists of PhD students, post-docs and early career researchers. The targeted fields of research are principally sociology, psychology, economics and political science. However, it will be possible for other individuals or junior researchers actively involved or interested in related fields to apply for the programme. The Summer School is open to participants working inside and outside of ODISSEI member organisations, including those working outside of the Netherlands. About 20 participants will be invited.
 
-The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp.
+We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently underrepresented in computational social science. We evaluate applicants along a number of dimensions:
+- research and teaching in the area of computational social science
+- contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others
+- likelihood of benefiting from participation
+- likelihood to contribute to the educational experience of other participants
+- potential to spread computational social science throughout the ODISSEI community.
+Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
 
-We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
+Accepted participants can participate in this programme for free. Lunch will be provided, and ODISSEI will host some social events during the course.
+Participants will need to cover all travel costs themselves. The address of the Erasmus campus is Burgemeester Oudlaan 50, 3062 PA Rotterdam. ODISSEI aims to make participation as accessible as possible. The accommodation will be available on a case-by-case basis. 
 
 ## How To Apply
 
-Applicants must submit the following documents: 1) a curriculum vitae, 2) a statement (maximum two pages double-spaced) describing: 
+In order to be guaranteed consideration, applicants must submit a CV and a short statement of motivation (max 300 words) and fill in their details in the Google form. All application materials must be submitted no later than February 28, 2026 through the following [Google form](https://docs.google.com/forms/d/e/1FAIpQLSe9q9MfOGs5U2MTK_4Mbso0APSkzAEIV5L-uEZA9ex3Xc56bQ/viewform). We will notify applicants solely through e-mail by March 15, 2026, and will ask participants to confirm their participation very soon thereafter.
 
-- Your current research
-- Why you want to participate in SICSS-ODISSEI
-- How participation will aid your future research
-- Your experience and/or interest in collaborative research. Carrying out a collaborative research project is a core component of SICSS-ODISSEI.
-- A possible topic, method, or question you would like to focus on for a collaborative project
+Inquiries and related questions can be sent to [sicss@odissei-data.nl](mailto:sicss@odissei-data.nl).
 
-**In order to be guaranteed full consideration, all application materials must be submitted by {app due date not yet determined}.** All application materials must be submitted through this [Google Form](https://www.google.com) (form for this site not yet created). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by {decision date not yet determined}, and will ask participants to confirm their participation very soon thereafter.
-
-Inquiries can be sent to [site email not set up](email@goes.here).
 
 ## Application Frequently Asked Questions
 
