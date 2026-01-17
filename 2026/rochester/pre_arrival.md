@@ -5,7 +5,7 @@ partner_site: rochester
 
 # Pre-arrival
 
-The Summer Institute will bring together people from many fields and backgrounds. In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS-University of Rochester 2025.
+The Summer Institute will bring together people from many fields and backgrounds. In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS-University of Rochester 2026.
 
 - Complete the pre-read
 - Complete the coding tutorial for Python (if needed)
