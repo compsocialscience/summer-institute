@@ -1,6 +1,6 @@
 ---
 layout: location_detail
-partner_site: uyo
+partner_site: NIGERIA
 ---
 
 [//]: # (Update the following info to match your location!)
