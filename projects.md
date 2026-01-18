@@ -4,12 +4,16 @@ subtitle: "Projects inspired by, started at, or done in collaboration with SICSS
 layout: page
 ---
 
+Since its inception, SICSS participants have produced a wide range of research projects, software tools, and publications. This page highlights a selection of works that began at SICSS or were developed by SICSS alumni.
+
 ### Publications
 
 ---
 
 | Authors | Publication Title | Journal | DOI | SICSS Affiliation |
 | ------- | ----------------- | ------- | --- | ----------------- |
+| Rosenzweig, Leah R.; Bergquist, Parrish; Hoffmann Pham, Katherine; Rampazzo, Francesco; Mildenberger, Matto | Survey sampling in the Global South using Facebook advertisements | Political Science Research and Methods | <https://www.cambridge.org/core/journals/political-science-research-and-methods/article/survey-sampling-in-the-global-south-using-facebook-advertisements/C1DE0539EB2CC5C395C18F4B9DB5613B> | SICSS Alumni |
+| Kasianenko, Kateryna; Zhu, Guangnan; Barua, Uttama; Gyamfi, George; Saniei, Shima | Gates as a floating signifier in global COVID-19 philanthropy discussions on X | Social Sciences & Humanities Open | <https://doi.org/10.1016/j.ssaho.2025.102034> | SICSS-Sydney |
 | Hastings, Orestes P.; Pesando, Luca Maria | What's a parent to do? Measuring cultural logics of parenting with computational text analysis | Social Science Research | <https://doi.org/10.1016/j.ssresearch.2024.103074> | Princeton 2021 |
 | Goncalves, Marcelo S O; Langrock, Isabelle; LaViolette, Jack; Spoon, Katie | Book bans in political context: Evidence from US schools | PNAS Nexus | <https://doi.org/10.1093/pnasnexus/pgae197> | Duke 2022 | 
 | Almaatouq, Abdullah; Krafft, Peter; Dunham, Yarrow; Rand, David G; Pentland, Alex | Turkers of the World Unite: Multilevel In-Group Bias Among Crowdworkers on Amazon Mechanical Turk | Social Psychological and Personality Science | <https://doi.org/10.1177/1948550619837002> | Princeton 2017 |
@@ -44,6 +48,10 @@ layout: page
 
 | Creators | Project Name | Link | SICSS Affiliation |
 | -------- | ------------ | ---- | ----------------- |
+| SICSS-AMU/Law 2025 Participants | Evaluating predictive models in legal judgement classification | <https://github.com/SICSS-AMULaw/Edition_2025/tree/eb607b5311583c976f55742fa9ffdc9ec2f74d42/Workshop/Statistical%20reasoning%20by%20Miko%C5%82aj%20Wiecz%C3%B3r> | SICSS-AMU/Law 2025 |
+| | | | |
+| SICSS-AMU/Law 2025 Participants | AI Act – Chatbot | <https://github.com/SICSS-AMULaw/Edition_2025/tree/main/Workshop/Natural%20Language%20Processing%20by%20Jan%20Mizerka> | SICSS-AMU/Law 2025 |
+| | | | |
 | Anfan Chen, Yong hu | Digital Media Data Initiative | <http://saas.socialsensor.top/#/login> | Beijing 2021 |
 | | | | |
 | Bellows, Laura | -nicknamez- file | <https://www.laura-bellows.com/software> | Rutgers 2021 |
