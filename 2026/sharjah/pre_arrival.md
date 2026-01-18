@@ -7,7 +7,7 @@ partner_site: sharjah
 
 # Pre-arrival
 
-The Summer Institute will bring together people from many fields and backgrounds. In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS-Sharjah 2025.
+The Summer Institute will bring together people from many fields and backgrounds. In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS-Sharjah 2026.
 
 - Complete the pre-read
 - Complete coding bootcamp (if needed)
@@ -18,7 +18,7 @@ Organizers will be available via Slack to support you as you work through these 
 
 ## Reading
 
-In order to prepare for SICSS-Sharjah 2025, we recommend you read Matt Salganik’s book, *[Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com)* ([Read online](https://www.bitbybitbook.com/en/1st-ed/preface/) or purchase from [Amazon](https://www.amazon.com/Bit-Social-Research-Digital-Age/dp/0691158649), [Barnes & Noble](https://www.barnesandnoble.com/w/bit-by-bit-matthew-salganik/1125483924), [IndieBound](https://www.indiebound.org/book/9780691158648), or [Princeton University Press](https://press.princeton.edu/titles/11057.html)). Parts of this book, which is a broad introduction to computational social science, will be review for most of you, but if we all read this book ahead of time, then we can use our time together for more advanced topics.
+In order to prepare for SICSS-Sharjah 2026, we recommend you read Matt Salganik’s book, *[Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com)* ([Read online](https://www.bitbybitbook.com/en/1st-ed/preface/) or purchase from [Amazon](https://www.amazon.com/Bit-Social-Research-Digital-Age/dp/0691158649), [Barnes & Noble](https://www.barnesandnoble.com/w/bit-by-bit-matthew-salganik/1125483924), [IndieBound](https://www.indiebound.org/book/9780691158648), or [Princeton University Press](https://press.princeton.edu/titles/11057.html)). Parts of this book, which is a broad introduction to computational social science, will be review for most of you, but if we all read this book ahead of time, then we can use our time together for more advanced topics.
 
 ## Coding Boot Camp
 
@@ -30,7 +30,7 @@ If you would like more practice after completing the Boot Camp videos, some othe
 - [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/), Taught by Charles Lanfear at University of Washington. This course includes videos of lectures, slides, and assignments.
 - [Learn R](https://www.codecademy.com/learn/learn-r), Code Academy.
 
-Please note that the majority of the coding work presented at SICSS-Sharjah 2025 will employ R. You are welcome to employ a language of your choice, such as Python, Julia, or other languages that are commonly used by computational social scientists.  However, we cannot support each of these languages.
+Please note that the majority of the coding work presented at SICSS-Sharjah 2026 will employ R. You are welcome to employ a language of your choice, such as Python, Julia, or other languages that are commonly used by computational social scientists.  However, we cannot support each of these languages.
 
 ## Computing environment
 
@@ -40,7 +40,7 @@ Some of the activities will require coding, and we will support R. You are welco
 
 ### Slack
 
-Before participating at SICSS-Sharjah 2025, you should have an account in the SICSS Slack workspace.  If you have not used Slack before, you should review these [getting started](https://slack.com/help/categories/360000049043-Getting-started) materials.  Slack can be hard to use at first, but we've found that it is the best way to enable everyone to collaborate.
+Before participating at SICSS-Sharjah 2026, you should have an account in the SICSS Slack workspace.  If you have not used Slack before, you should review these [getting started](https://slack.com/help/categories/360000049043-Getting-started) materials.  Slack can be hard to use at first, but we've found that it is the best way to enable everyone to collaborate.
 
 ### GitHub
 
