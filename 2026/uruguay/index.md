@@ -5,14 +5,16 @@ main: true
 image: /assets/images/mvd.jpg
 ---
 
-[//]: # (ORGANIZERS: Update the info to match your location. Add a site image to /assets/images/ and update the placeholder URL above to match it. See _data/2026/Uruguay for yml files that control the header content, location info on general sites page, people lists, and sidebar.)
+In **2026** (date TBD), the [Methods and Data Access Unit (UMAD)](https://umad.cienciassociales.edu.uy/) at the Faculty of Social Sciences, University of the Republic (Uruguay), will sponsor the Summer Institute in Computational Social Science, to be held at the Faculty of Social Sciences of the University of the Republic.
 
-From TBD to TBD in October, 2026 [[HOST]] will host the Summer Institute in Computational Social Science, to be held in Faculty of Social Sciences of the University of the Republic of Uruguay, Montevideo, Uruguay. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
+The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and early-career faculty interested in computational social science. The Institute is open to both social scientists and data scientists (broadly conceived). It will be conducted entirely in Spanish, and no funding for travel or lodging is provided.
 
-The instructional program will involve lectures, group problem sets, and participant-led research projects, with a special emphasis on causal inference. There will also be outside speakers who conduct computational social science research in a variety of settings, such as academia, industry, and government. Topics covered include causal inference with observational data, text analysis, network analysis, survey experiments, and machine learning. There will be ample opportunities for students to discuss their ideas and research with the organizers, other participants, and visiting speakers. Because we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute will be released open source.
+The instructional program will include lectures, group problem sets, and participant-led research projects. There will also be invited speakers who conduct computational social science research in a variety of settings, including academia, industry, and government. Topics covered include text as data, web scraping, digital field experiments, machine learning, and ethics.
 
-Participation is restricted to advanced Ph.D. students, postdoctoral researchers, and junior faculty (within 7 years of their Ph.D). We welcome applicants from all backgrounds and fields of study, especially junior faculty from neighboring institutions near Faculty of Social Sciences of the University of the Republic of Uruguay, Montevideo, Uruguay. About 25-30 participants will be invited. Most participants are expected to fully attend and participate in the entire 8-day program, but we are open to alternative arrangements for faculty members. 
+Participants will have ample opportunities to discuss their ideas and research with the organizers, fellow participants, and visiting speakers. Because we are committed to open and reproducible research, all materials created by faculty and participants for the Summer Institute will be released as open-source resources.
 
-Application materials are due on {date not yet determined}.
+Participation is restricted to Master’s students, PhD students, and professionals in the Social Sciences (Sociology, Political Science, Communication, Humanities, or related fields) who wish to deepen their knowledge of computational methods and tools for the analysis of social data. We welcome applicants from all backgrounds and fields of study, especially those from groups currently underrepresented in computational social science. Approximately 15 participants will be invited, and selected participants are expected to attend and actively participate in the full two-week program.
 
-[//]: # (ORGANIZERS: feel free to add a link to your application materials or your SICSS apply page above.)
+[Application materials](https://compsocialscience.github.io/summer-institute/2024/uruguay/apply)  
+
+# are due Wednesday, May 15, 2024 at 23:59 UYT.
