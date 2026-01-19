@@ -5,7 +5,7 @@ main: true
 image: /assets/images/mvd.jpg
 ---
 
-In **2026** (date TBD), the [Methods and Data Access Unit (UMAD)](https://umad.cienciassociales.edu.uy/) at the Faculty of Social Sciences, University of the Republic (Uruguay), will sponsor the Summer Institute in Computational Social Science, to be held at the Faculty of Social Sciences of the University of the Republic.
+In **2026** (date TBD), the [Methods and Data Access Unit (UMAD)](https://umad.cienciassociales.edu.uy/) at the [Faculty of Social Sciences](https://cienciassociales.edu.uy/), University of the Republic (Uruguay), will sponsor the Summer Institute in Computational Social Science. 
 
 The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and early-career faculty interested in computational social science. The Institute is open to both social scientists and data scientists (broadly conceived). It will be conducted entirely in Spanish, and no funding for travel or lodging is provided.
 
@@ -17,4 +17,3 @@ Participation is restricted to Master’s students, PhD students, and profession
 
 [Application materials](https://compsocialscience.github.io/summer-institute/2024/uruguay/apply)  
 
-# are due Wednesday, May 15, 2024 at 23:59 UYT.
