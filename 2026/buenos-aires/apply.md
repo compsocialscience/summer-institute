@@ -7,7 +7,7 @@ partner_site: buenos-aires
 
 # Apply
 
-**This page is under construction. Check back soon for more up-to-date info!**
+**2026-01-20 - This page is under construction. Check back soon for more up-to-date info!**
 
 ## Eligibility
 
@@ -36,7 +36,7 @@ Applicants must submit the following documents: 1) a curriculum vitae, 2) a stat
 
 **In order to be guaranteed full consideration, all application materials must be submitted by TBD.** All application materials must be submitted through this [Google Form](), which will be online soon. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by {decision date not yet determined}, and will ask participants to confirm their participation very soon thereafter.
 
-Inquiries can be sent to [factor~data](factor_data@unsam.edu.ar). Please include the following text as the email header: "[SICSS 2026 Buenos Aires]"
+Inquiries can be sent to [factor_data@unsam.edu.ar](factor_data@unsam.edu.ar). Please include the following text as the email header: "[SICSS 2026 Buenos Aires]"
 
 ## Application Frequently Asked Questions
 
