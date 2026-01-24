@@ -1,0 +1,18 @@
+---
+layout: location_detail
+partner_site: buenos-aires
+main: true
+image: /assets/images/2026_eidaes_photo.jpeg
+---
+
+[//]: # (ORGANIZERS: Update the info to match your location. Add a site image to /assets/images/ and update the placeholder URL above to match it. See _data/2026/Buenos Aires for yml files that control the header content, location info on general sites page, people lists, and sidebar.)
+
+From Late July to Early August, 2026, the [Escuela IDAES](https://unsam.edu.ar/escuelas/eidaes/) will host the Summer Institute in Computational Social Science, to be held in the National University of San Martín, Buenos Aires, Argentina. The [factor~data lab](https://factor-data.netlify.app/) team will be in charge of the event. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
+
+The instructional program will involve lectures, group problem sets, and participant-led research projects, with a special emphasis on causal inference. There will also be outside speakers who conduct computational social science research in a variety of settings, such as academia, industry, and government. Topics covered include causal inference with observational data, text analysis, network analysis, survey experiments, and machine learning. There will be ample opportunities for students to discuss their ideas and research with the organizers, other participants, and visiting speakers. Because we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute will be released open source.
+
+Participation is restricted to advanced Ph.D. students, postdoctoral researchers, and junior faculty (within 7 years of their Ph.D). We welcome applicants from all backgrounds and fields of study, especially junior faculty from neighboring institutions near National University of San Martín and from all Argentina. About 15-20 participants will be invited. Most participants are expected to fully attend and participate in the entire 8-day program, but we are open to alternative arrangements for faculty members. 
+
+Information about the application process (requirements, materials, deadlines, etc.) will be uploaded shortly.
+
+[//]: # (ORGANIZERS: feel free to add a link to your application materials or your SICSS apply page above.)

@@ -1,0 +1,71 @@
+name: Jekyll build
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Free runner disk space  # added oct 2025 to fix issue where runner ran out of disk. may need to offload images / assets eventually ...
+        uses: jlumbroso/free-disk-space@v1.3.1
+        with:
+          tool-cache: false
+          android: true
+          dotnet: false
+          haskell: false
+          large-packages: false
+          docker-images: true
+          swap-storage: true
+
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1  # keeps full git history from getting into checkout, to save on runner disk space
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '2.7'
+          bundler: '2.3.23'
+          bundler-cache: false
+
+      - name: Cache bundler gems
+        uses: actions/cache@v4
+        with:
+          path: vendor/bundle
+          key: jekyll-${{ runner.os }}-ruby-2.7-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            jekyll-${{ runner.os }}-ruby-2.7-gems-
+
+      - name: Bundle install
+        run: |
+          bundle config path vendor/bundle
+          bundle check || bundle install --jobs 4 --retry 3
+
+      - name: Jekyll build
+        run: bundle exec jekyll build --trace
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4

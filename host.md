@@ -11,8 +11,8 @@ sidebar:
     url: "#mission-and-guiding-principles"
   - name: Handbook for Organizers
     url: "#handbook-for-organizers"
-  - name: "Call for Applications 2025"
-    url: "#call-for-applications-2025"
+  - name: "Call for Applications 2026"
+    url: "#call-for-applications-2026"
   - name: How to Apply
     url: "#how-to-apply"
   - name: Frequently Asked Questions
@@ -44,6 +44,7 @@ As we work toward this mission, we are guided by the following principles:
 For a much more detailed description of the process of hosting a partner location, please consult our [Handbook for Organizers](https://docs.google.com/document/d/1InRTZJPbh9P1Qnc1VBB7UxDflXaxNqhEygBnO7yGBoQ/edit?usp=sharing)
 
 ## Call for Partner Locations in 2026
+<a name="call-for-applications-2026"></a>
 In 2026, partner locations will continue the SICSS tradition of combining lectures and group exercises with collaborative, participant-led research projects. Most sites run for two weeks, though shorter or longer formats are possible. Organizers may use our open-source teaching materials, adapt them, or develop new content to meet the needs of their audience.
 
 A major update for 2026: **the new [Tech for Open Minds (TOM) initiative](https://sicss.io/stories/2025-08-18) will be one pathway to secure SICSS funding this year.** TOM is a multi-year initiative focused on how digital technologies influence open-mindedness, humility, and polarization. Locations seeking TOM funding must demonstrate in their application how their proposed program will contribute to TOM’s mission through curricular focus and research incubation.

@@ -18,6 +18,7 @@ Science. It is currently powered by [GitHub Pages](https://pages.github.com/),
 * [Homepage](#homepage)
 * [Adding a partner location](#adding-a-partner-location)
 * [Videos](#videos)
+* [Adding Learning Materials](#adding-learning-materials)
 * [Admin Documentation](#admin-documentation)
 
 # Layouts
@@ -87,11 +88,13 @@ sidebar:
 ```
 # Post-Mortems
 
+> 📖 **For detailed instructions, see the [Post-Mortem Guide](documentation/adding-post-mortems.md)**
+
 To add a post-mortem, three files are needed:
 
-1. The `sidebar.yml` for the locations even for a particular year, with the following entries (eg. Tokyo 2021):
+1. The `sidebar.yml` for the location for a particular year, with the following entries (eg. Tokyo 2021):
 
-```
+```yaml
 - name: "Post Mortem"
   url: "post-mortem"
   link: '#tokyo'
@@ -99,15 +102,17 @@ To add a post-mortem, three files are needed:
 
 2. The location will also need a `post_mortem.yml` file, with the following entry:
 
-```
-- title: Post-Mortem
+```yaml
+- title: "Post-Mortem"
 ```
 
-3. The parent year (in this scenario `2021`) will also need a `post-mortem.md` file in it's root, as a sibling to the `index.md` file. This `post-mortem.md` file will contain all of the markdown for that year's post mortems.
+3. The parent year (in this scenario `2021`) will also need a `post-mortem.md` file in its root, as a sibling to the `index.md` file. This `post-mortem.md` file will contain all of the markdown for that year's post mortems.
 
 In addition, be sure when you are writing the markdown for each event's post mortem, that you include a title tag, with the corresponding anchor id, associated to the `link` value you created in the `sidebar.yml`. In this case `link: '#tokyo'` would anchor to the corresponding title tag in the post mortem's markdown:
 
 `<h2 class="display-4" id="tokyo">Tokyo</h2>`
+
+For troubleshooting and detailed examples, consult the [complete post-mortem guide](documentation/adding-post-mortems.md).
 
 # Location specific pages
 
@@ -255,6 +260,14 @@ To add new locations, you can search for the location in the search bar (just li
 ![map detail card](documentation/map_detail_card.png)
 
 You can also change the theme of the map, by selecting one of google's themes under the `Base map` dropdown in the google map console. Keep in mind that when selecting a new theme, it will take a few minutes to register before it is reflected on the production website.
+
+# Adding Learning Materials
+
+> 📖 **For detailed instructions, see the [Adding Learning Materials Guide](documentation/adding_learning_materials.md)**
+
+To add learning materials to the main curriculum, you primarily need to edit `_data/curriculum.yml`. This file controls the schedule, topics, and links to videos and slides.
+
+For alternative curricula (e.g. partner site materials), edit `_data/alternative_curriculum.md`.
 
 ## Requesting access
 
