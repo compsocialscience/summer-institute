@@ -1,5 +1,80 @@
-- date: "June 8 - June 19, 2026"
+- date: June 8
+  name: "(Tentative Plan)"
   events:
-    - name: "Schedule coming soon. Check back for updates!" # Update this line or add markdown for your site's schedule.
+    - name: "09:00 - 10:00 Registrations"
+    - name: "10:00 - 11:00 Welcome and Networking"
+    - name: "11:00 - 12:00 Introduciton: Why SICSS?"
+    - name: "12:00 - 01:00 Keynote Speaker (TBD)"
+    - name: "01:00 - 02:00 Lunch"
+    - name: "02:00 - 03:00 Seminar on Ethics: Principles-based Approach"
+    - name: "03:00 - 05:00 Group Exercise"
 
-  # Our tentative schedule can be seen [here](www.google.com). Our program focuses on ... . We will invite guest speakers to provide an overview of ..."
+- date: June 9
+  name: "(Tentative Plan)"
+  events:
+    - name: "09:00 - 11:00 Tutorial: Extracting Digital Trace Data"
+    - name: "11:00 - 01:00 Guest Lecture"
+    - name: "01:00 - 02:00 Lunch"
+    - name: "02:00 - 03:00 Building apps for Social Science research"
+    - name: "03:00 - 05:00 Group Exercise"
+
+- date: June 10
+  name: "(Tentative Plan)"
+  events:
+    - name: "09:00 - 11:00 Tutorial: Quantitative Text Analysis"
+    - name: "11:00 - 01:00 Guest Lecture"
+    - name: "01:00 - 02:00 Lunch"
+    - name: "02:00 - 05:00 Group Exercise"
+
+- date: June 11
+  name: "(Tentative Plan)"
+  events:
+    - name: "09:00 - 11:00 Tutorial: Network Analysis"
+    - name: "11:00 - 01:00 Guest Lecture"
+    - name: "01:00 - 02:00 Lunch"
+    - name: "02:00 - 05:00 Group Exercise"
+
+- date: June 12
+  name: "(Tentative Plan)"
+  events:
+    - name: "09:00 - 11:00 Tutorial: Statistical Analysis and Sampling"
+    - name: "11:00 - 01:00 Guest Lecture"
+    - name: "01:00 - 02:00 Lunch"
+    - name: "02:00 - 05:00 Group Exercise"
+
+- date: June 15
+  name: "(Tentative Plan)"
+  events:
+    - name: "09:00 - 11:00 Speed-dating and Group Formation"
+    - name: "11:00 - 01:00 Guest Lecture"
+    - name: "01:00 - 02:00 Lunch"
+    - name: "02:00 - 05:00 Project Work"
+
+- date: June 16
+  name: "(Tentative Plan)"
+  events:
+    - name: "09:00 - 01:00 Project Work"
+    - name: "01:00 - 02:00 Lunch"
+    - name: "02:00 - 05:00 Project Work"
+
+- date: June 17
+  name: "(Tentative Plan)"
+  events:
+    - name: "09:00 - 01:00 Project Work"
+    - name: "01:00 - 02:00 Lunch"
+    - name: "02:00 - 05:00 Project Work"
+
+- date: June 18
+  name: "(Tentative Plan)"
+  events:
+    - name: "09:00 - 01:00 Project Work"
+    - name: "01:00 - 02:00 Lunch"
+    - name: "02:00 - 05:00 Project Work"
+
+- date: June 19
+  name: "(Tentative Plan)"
+  events:
+    - name: "09:00 - 01:00 Team Presentations"
+    - name: "01:00 - 02:00 Lunch"
+    - name: "02:00 - 03:00 Feedback"
+    - name: "03:00 - 05:00 Closing Remarks"
