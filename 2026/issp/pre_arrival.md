@@ -41,7 +41,7 @@ Certaines activités nécessiteront de la programmation, et nous assurerons le s
 
 ### Slack
 
-Avant de participer au SICSS-ISSP 2025, vous devez avoir un compte sur l’espace de travail Slack du SICSS.
+Avant de participer au SICSS-ISSP-UQAM 2026, vous devez avoir un compte sur l’espace de travail Slack du SICSS.
 
 Si vous n’avez jamais utilisé Slack auparavant, nous vous recommandons de consulter les ressources suivantes pour vous familiariser avec l’outil : [getting started](https://slack.com/help/categories/360000049043-Getting-started) materials.  Slack peut sembler difficile à utiliser au début, mais nous avons constaté que c’est le meilleur moyen de permettre à tout le monde de collaborer efficacement.
 
