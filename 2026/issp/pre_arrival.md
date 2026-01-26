@@ -8,7 +8,7 @@ partner_site: issp
 
 # Avant votre arrivée
 
-L'Institut d'été rassemblera des personnes provenant de divers domaines et horizons. Afin d’utiliser efficacement notre temps ensemble, plusieurs choses doivent être faites avant de participer à SICSS-ISSP 2025 :
+L'Institut d'été rassemblera des personnes provenant de divers domaines et horizons. Afin d’utiliser efficacement notre temps ensemble, plusieurs choses doivent être faites avant de participer à SICSS-ISSP-UQAM 2026 :
 
 - Lire les documents préalables  
 - Suivre le camp d'entraînement en programmation (si nécessaire)  
@@ -19,7 +19,7 @@ Les organisateurs seront disponibles sur Slack pour vous accompagner pendant vot
 
 ## Lecture
 
-Afin de vous préparer pour le SICSS-ISSP 2025, nous vous recommandons de lire le livre de Matt Salganik (disponible en français sur le site), *[Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com)* ([Read online](https://www.bitbybitbook.com/en/1st-ed/preface/) or purchase from [Amazon](https://www.amazon.com/Bit-Social-Research-Digital-Age/dp/0691158649), [Barnes & Noble](https://www.barnesandnoble.com/w/bit-by-bit-matthew-salganik/1125483924), [IndieBound](https://www.indiebound.org/book/9780691158648), or [Princeton University Press](https://press.princeton.edu/titles/11057.html)). Certaines parties de ce livre, qui constitue une introduction générale aux sciences sociales computationnelles, seront une révision pour la plupart d’entre vous. Toutefois, si nous le lisons tous avant le début du programme, nous pourrons consacrer notre temps ensemble à des sujets plus avancés.
+Afin de vous préparer pour le SICSS-ISSP-UQAM 2026, nous vous recommandons de lire le livre de Matt Salganik (disponible en français sur le site), *[Bit by Bit: Social Research in the Digital Age](http://www.bitbybitbook.com)* ([Read online](https://www.bitbybitbook.com/en/1st-ed/preface/) or purchase from [Amazon](https://www.amazon.com/Bit-Social-Research-Digital-Age/dp/0691158649), [Barnes & Noble](https://www.barnesandnoble.com/w/bit-by-bit-matthew-salganik/1125483924), [IndieBound](https://www.indiebound.org/book/9780691158648), or [Princeton University Press](https://press.princeton.edu/titles/11057.html)). Certaines parties de ce livre, qui constitue une introduction générale aux sciences sociales computationnelles, seront une révision pour la plupart d’entre vous. Toutefois, si nous le lisons tous avant le début du programme, nous pourrons consacrer notre temps ensemble à des sujets plus avancés.
 
 ## Camp d'entraînement en programmation
 
@@ -31,7 +31,7 @@ Si vous souhaitez vous exercer davantage après avoir terminé les vidéos du Bo
 - [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/), Enseigné par Charles Lanfear à l’Université de Washington, ce cours comprend des vidéos de conférences, des diapositives ainsi que des exercices.
 - [Learn R](https://www.codecademy.com/learn/learn-r), Code Academy.
 
-Veuillez noter que la majorité du travail de programmation présenté lors du SICSS-ISSP 2025 se fera en R. Vous êtes libre d’utiliser le langage de votre choix, tel que Python, Julia, ou tout autre langage couramment utilisé en sciences sociales computationnelles. Cependant, nous ne pourrons pas offrir de support pour chacun de ces langages.
+Veuillez noter que la majorité du travail de programmation présenté lors du SICSS-ISSP-UQAM 2026 se fera en R. Vous êtes libre d’utiliser le langage de votre choix, tel que Python, Julia, ou tout autre langage couramment utilisé en sciences sociales computationnelles. Cependant, nous ne pourrons pas offrir de support pour chacun de ces langages.
 
 ## Environnement informatique
 
