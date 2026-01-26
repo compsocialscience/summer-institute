@@ -12,7 +12,7 @@ The Summer Institute will bring together people from many fields and backgrounds
 - Complete coding bootcamp (if needed)
 - Watch lecture videos (if needed)
 
-Organizers will be available via Slack to support you as you work through these pre-arrival materials. Please feel free to reach out to us!
+Organizers will be available via Discord to support you as you work through these pre-arrival materials. Please feel free to reach out to us!
 
 ## Reading
 
@@ -56,9 +56,9 @@ If you would like more practice after completing the Boot Camp videos, some othe
 - [Learn R](https://www.codecademy.com/learn/learn-r), Code Academy (requires registration)
 
 
-### Slack
+### Discord
 
-Before participating at SICSS-Stanford 2026, you should have an account in the SICSS Slack workspace.  If you have not used Slack before, you should review these [getting started](https://slack.com/help/categories/360000049043-Getting-started) materials.  Slack can be hard to use at first, but we've found that it is the best way to enable everyone to collaborate.
+Before participating at SICSS-Stanford 2026, you should have an account in the SICSS Discord workspace. If you have not used Discord before, you should review these [getting started](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord) materials. Discord can be hard to use at first, but we've found that it is the best way to enable everyone to collaborate.
 
 ### GitHub
 

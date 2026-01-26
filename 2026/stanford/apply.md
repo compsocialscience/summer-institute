@@ -9,7 +9,7 @@ partner_site: stanford
 
 We invite applications from Ph.D. students, postdoctoral researchers, and faculty within 7 years of their Ph.D., who are able to attend the program in-person at Stanford University. We welcome applicants from all backgrounds and fields of study, including data journalists and other non-academic researchers, especially those interested in studying online environments and AI systems, which will be a focal point of SICSS-Stanford. About 25-30 participants will be invited and there are no restrictions based on citizenship, country of study, or country of employment.
 
-The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience in social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete the [pre-arrival](https://sicss.io/2026/stanford/pre_arrival) tasks. Organizers will be available via Slack to support participants as they complete these tasks.
+The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience in social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete the [pre-arrival](https://sicss.io/2026/stanford/pre_arrival) tasks. Organizers will be available via Discord to support participants as they complete these tasks.
 
 ## How To Apply
 
