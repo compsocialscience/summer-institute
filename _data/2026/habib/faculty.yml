@@ -1,6 +1,6 @@
-- name: "Qasim Pasta" # Add faculty name here.
+- name: "Muhammad Qasim Pasta" # Add faculty name here.
   image: /assets/images/SICSSHabib_QasimPasta.jpg  # Add faculty image to assets/images/ and update here.
-  bio: "Qasim is an Associate Professor in the department of Computer Science at Habib University. He earned his PhD in Computer Science from the Karachi Institute of Economics and Technology and has been teaching for the past 12 years. His research interest lies in the field of Network Science and Data Science, particularly in the areas of extraction, analysis, and visualization of complex networks. He is working on models for the generation of synthetic networks based on dynamics observed in real-world networks, while also enabling the embedding of ground-truth structures, such as community structures." # Add faculty bio here.
+  bio: "Muhammad Qasim Pasta is a Computational Social Scientist specializing in bibliometric extraction, network science, and data science to model collaboration and citation networks, particularly from the Global South. He co-founded *Data Research Lab Pakistan*, advancing contextual datasets to support evidence-based research and decolonize data production. He also co-leads the *Forum for Research on Phenomenon-Oriented Science (FoRPhOS)*, building open tools and metrics for interdisciplinary research impact. His work bridges quantitative and social scientific methods to reveal patterns of knowledge production." # Add faculty bio here.
   website: https://mqpasta.github.io/  # Link faculty website here.
 
 - name: "Asad Tariq"
