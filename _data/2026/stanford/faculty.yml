@@ -1,6 +1,19 @@
-- name: "Faculty info coming soon." # Add faculty name here.
-  image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
-  bio: "Check back soon for updates." # Add faculty bio here.
-  website: https://www.google.com  # Link faculty website here.
+- name: "Ronald E. Robertson"
+  image: /assets/images/2026/stanford/people-ronald-robertson.jpg
+  bio: "Ronald is a research scientist at the Stanford Cyber Policy Center who designs experiments and software to explore human-algorithm interactions in digital spaces, especially as they relate to influence and information seeking. His research on these topics has been published in general interest journals, including Nature, Science Advances, and PNAS, and computer science conferences, such as the Proceedings of the ACM: Human-Computer Interaction, the Proceedings of the Web Conference (WWW), and Proceedings of the International AAAI Conference on Weblogs and Social Media (ICWSM)."
+  website: https://ronalderobertson.com/
 
-# Add more faculty with the same format as above...
+- name: "Matt DeVerna"
+  image: /assets/images/2026/stanford/people-matt-deverna.jpg
+  bio: "Matt DeVerna is a computational social scientist who examines how artificial intelligence is transforming information access and online communication, with a particular focus on social media and search. His research combines large-scale data analysis, experimental methods, and direct interrogation of AI systems to explore the societal consequences of AI-mediated interactions and understand their role in contemporary information ecosystems. He holds a Ph.D. in Informatics from Indiana University and an M.A. in Psychology from New York University."
+  website: https://www.matthewdeverna.com/
+
+- name: "Sunny Xun Liu"
+  image: /assets/images/2026/stanford/people-sunny-xun-liu.jpg
+  bio: "Dr. Sunny Xun Liu is the Director of Research at the Stanford Social Media Lab. Dr. Liu's research focuses on the social and psychological effects of social media and AI, social media and well-being, and how the design of social robots impact psychological perceptions."
+  website: https://sml.stanford.edu/people/sunny-xun-liu
+
+- name: "Jeff Hancock"
+  image: /assets/images/2026/stanford/people-jeff-hancock.png
+  bio: "Jeff Hancock is the founding director of the Stanford Social Media Lab and is Harry and Norman Chandler Professor of Communication at Stanford University. Professor Hancock and his group work on understanding psychological and interpersonal processes in social media. The team specializes in using computational linguistics and experiments to understand how the words we use can reveal psychological and social dynamics, such as deception and trust, emotional dynamics, intimacy and relationships, and social support. Recently Professor Hancock has begun work on understanding the mental models people have about algorithms in social media, as well as working on the ethical issues associated with computational social science."
+  website: https://sml.stanford.edu/people/jeff-hancock
