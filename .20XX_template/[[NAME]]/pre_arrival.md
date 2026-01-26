@@ -14,7 +14,7 @@ The Summer Institute will bring together people from many fields and backgrounds
 - Watch lecture videos
 - Prepare your computing environment
 
-Organizers will be available via Slack to support you as you work through these pre-arrival materials. Please feel free to reach out to us!
+Organizers will be available via Discord to support you as you work through these pre-arrival materials. Please feel free to reach out to us!
 
 ## Reading
 
@@ -38,9 +38,9 @@ Please note that the majority of the coding work presented at SICSS-[[NAME]] [[Y
 
 Some of the activities will require coding, and we will support R. You are welcome to use other languages, but we cannot guarantee that we can support them. Before SICSS you should install a modern, stable-release version of [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/).
 
-### Slack
+### Discord
 
-Before participating at SICSS-[[NAME]] [[YEAR]], you should have an account in the SICSS Slack workspace.  If you have not used Slack before, you should review these [getting started](https://slack.com/help/categories/360000049043-Getting-started) materials.  Slack can be hard to use at first, but we've found that it is the best way to enable everyone to collaborate.
+Before participating at SICSS-[[NAME]] [[YEAR]], you should have an account in the SICSS Discord server.  If you have not used Discord before, you should review these [getting started](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord) materials.  Discord can be hard to use at first, but we've found that it is the best way to enable everyone to collaborate.
 
 ### GitHub
 
