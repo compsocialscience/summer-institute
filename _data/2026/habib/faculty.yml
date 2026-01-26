@@ -1,10 +1,10 @@
 - name: "Muhammad Qasim Pasta" # Add faculty name here.
   image: /assets/images/SICSSHabib_QasimPasta.jpg  # Add faculty image to assets/images/ and update here.
-  bio: "Muhammad Qasim Pasta is a Computational Social Scientist specializing in bibliometric extraction, network science, and data science to model collaboration and citation networks, particularly from the Global South. He co-founded *Data Research Lab Pakistan*, advancing contextual datasets to support evidence-based research and decolonize data production. He also co-leads the *Forum for Research on Phenomenon-Oriented Science (FoRPhOS)*, building open tools and metrics for interdisciplinary research impact. His work bridges quantitative and social scientific methods to reveal patterns of knowledge production." # Add faculty bio here.
+  bio: "Muhammad Qasim Pasta is a Computational Social Scientist specializing in bibliometric extraction, network science, and data science to model collaboration and citation networks, particularly from the Global South. He co-founded _Data Research Lab Pakistan_, advancing contextual datasets to support evidence-based research and decolonize data production. He also co-leads the _Forum for Research on Phenomenon-Oriented Science (FoRPhOS)_, building open tools and metrics for interdisciplinary research impact. His work bridges quantitative and social scientific methods to reveal patterns of knowledge production." # Add faculty bio here.
   website: https://mqpasta.github.io/  # Link faculty website here.
 
 - name: "Asad Tariq"
-  image: /assets/images/SICSSHabib_AsadTariq.jpg
+  image: /assets/images/SICSSHabib_AsadTariq.png
   bio: "Asad is a Dean's Fellow in the department of Computer Science at Habib University. He recevied his masters in Computational Social Science from the University of California, San Diego as a Fulbright Scholar, and his bachelors in Computer Science from Habib University. His research interests include dynamically evolving human social networks which he studies using agent-based modeling, game theory and computational network graph based simulations."
   website: https://asad-tariq.github.io/
 # Add more faculty with the same format as above...
