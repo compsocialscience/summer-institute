@@ -12,4 +12,4 @@ There will be ample opportunities for students to discuss their ideas and resear
 
 Participation is generally restricted to Ph.D. students, postdoctoral researchers, and junior faculty (within 7 years of their Ph.D), but we will also consider applications from data journalists and other researchers. We welcome applicants from all backgrounds and fields of study, especially those from neighboring institutions near Stanford, and those with limited experience in computational methods. About 25-30 participants will be invited. Participants are expected to fully attend and participate in the entire 10-day program, but we are open to alternative arrangements for faculty members.
 
-Instructions on how to apply are available on the [Apply](https://sicss.io/2026/stanford/apply) page, and applications are due on May 2, 2026.
+Instructions on how to apply are available on the [Apply](https://sicss.io/2026/stanford/apply) page, and applications are due on April 26, 2026.
