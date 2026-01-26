@@ -1,6 +1,10 @@
-- name: "Faculty info coming soon." # Add faculty name here.
-  image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
-  bio: "Check back soon for updates." # Add faculty bio here.
-  website: https://www.google.com  # Link faculty website here.
+- name: "Qasim Pasta" # Add faculty name here.
+  image: /assets/images/SICSSHabib_QasimPasta.jpg  # Add faculty image to assets/images/ and update here.
+  bio: "Qasim is an Associate Professor in the department of Computer Science at Habib University. He earned his PhD in Computer Science from the Karachi Institute of Economics and Technology and has been teaching for the past 12 years. His research interest lies in the field of Network Science and Data Science, particularly in the areas of extraction, analysis, and visualization of complex networks. He is working on models for the generation of synthetic networks based on dynamics observed in real-world networks, while also enabling the embedding of ground-truth structures, such as community structures." # Add faculty bio here.
+  website: https://mqpasta.github.io/  # Link faculty website here.
 
+- name: "Asad Tariq"
+  image: /assets/images/SICSSHabib_AsadTariq.jpg
+  bio: "Asad is a Dean's Fellow in the department of Computer Science at Habib University. He recevied his masters in Computational Social Science from the University of California, San Diego as a Fulbright Scholar, and his bachelors in Computer Science from Habib University. His research interests include dynamically evolving human social networks which he studies using agent-based modeling, game theory and computational network graph based simulations.
+  website: https://asad-tariq.github.io/
 # Add more faculty with the same format as above...
