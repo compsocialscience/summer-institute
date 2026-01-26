@@ -1,5 +1,27 @@
-- name: "TA info coming soon."
-  image: /assets/images/placeholderPic.png
-  bio: "..."
-  website: www.google.com
-# add more TAs with this format below...
+- name: "Aoudou Njingouo Mounchingam"
+  image: /assets/images/aoudou_njingouo.png
+  bio: "Aoudou Njingouo est doctorant au département de sociologie de l’Université du Québec à Montréal (UQAM). Titulaire d’une maîtrise en statistiques appliquées de l’Université d’Aix Marseille (France) et d’une maîtrise en démographie de l’Institut de Formation et de Recherche Démographiques (IFORD, Cameroun), il oriente ses travaux sur l’articulation entre approches statistiques conventionnelles et apprentissage automatique pour l’étude des populations, avec un intérêt particulier pour la santé infantile, la santé de la reproduction et les inégalités de genre."
+  website: https://www.linkedin.com/in/aoudou-njingouo-mounchingam-527200186/?originalSubdomain=ca
+
+- name: "Alphonse KABORE" 
+  image: /assets/images/alphonse_kabore.jpg
+  bio: "Alphonse Kabore est étudiant en Ingénierie Statistique et Économie à l’ISSP de l’Université Joseph Ki-Zerbo, après avoir obtenu un diplôme professionnel d’analyste statisticien, option informatique décisionnelle. Spécialisé en analyse de données, modélisation statistique et visualisation interactive, il a obtenu en 2024 le 2ᵉ prix du Challenge de Scraping d’Open Burkina grâce à sa maîtrise des techniques de collecte et de valorisation des données ouvertes. Il s’intéresse particulièrement à l’usage des données massives et de l’intelligence artificielle pour appuyer la prise de décision dans des contextes complexes."
+  website: www.linkedin.com/in/alphonse-kabore-9b6667299/
+
+- name: "Gandwendé Judicaël Oscar Kafando"
+  image: /assets/images/kafando.png
+  bio: "M. Kafando est étudiant en Ingénierie Statistique et Économie (ISE) à l’ENSAE de Dakar. Titulaire d’une licence professionnelle en analyse statistique obtenue avec mention très bien à l’ISSP, il s’est distingué par sa maîtrise des outils analytiques et sa rigueur face aux problématiques complexes. En 2024, il a remporté le Challenge de Scraping d’Open Burkina, valorisant ses compétences en collecte et exploitation de données ouvertes. Il a également mené plusieurs projets en modélisation statistique, visualisation de données et intelligence artificielle. Porté par une passion pour l’innovation et animé d’un esprit analytique, M. Kafando nourrit des ambitions ancrées dans les enjeux du développement durable et les potentialités offertes par les données massives."
+  website:
+
+- name: "Nafissatou Diallo" 
+  image: /assets/images/nafisatou_diallo.jpg
+  bio: "Nafissatou Diallo est élève ingénieure statisticienne économiste à l’ISSP de l’Université Joseph Ki-Zerbo (Burkina Faso), après une licence professionnelle en Analyse Statistique, spécialité suivi-évaluation de projets et programmes. Ses travaux portent sur l’évaluation des réponses budgétaires aux chocs sécuritaires et politiques, avec un intérêt marqué pour les politiques publiques et le développement économique. Elle a acquis une expérience pratique au sein de l’INSD et de la DGESS/MENAPLN, où elle a participé à l’élaboration des comptes nationaux et à l’analyse de données sectorielles. Formée en collecte, traitement et analyse de données, elle maîtrise également le web scraping, le machine learning, la visualisation avancée et la conception de tableaux de bord dynamiques."
+  website: www.linkedin.com/in/nafissatou-diallo-495739288/
+
+- name: "Bebou Bienvenu YO" 
+  image: /assets/images/bienvenu_yo.jpg
+  bio: "Bebou Bienvenu Yo est élève ingénieur statisticien économiste à l’ISSP de l’Université Joseph Ki-Zerbo, titulaire d’une licence professionnelle en Analyse Statistique. Il possède une solide expérience en collecte électronique, analyse économétrique et visualisation avancée, complétée par des compétences en web scraping, machine learning et conception de tableaux de bord dynamiques. En 2024, il a co-conçu une application de gestion des notes pour l’ISSP, illustrant sa capacité à développer des solutions numériques innovantes. Investi dans la vie estudiantine, il a exercé des fonctions de représentation et de coordination au sein de l’Amicale des Élèves Statisticiens. Polyvalent, rigoureux et engagé, il ambitionne de mobiliser ses compétences en appui à la recherche, à la décision publique et à l’innovation pour le développement socio-économique de l’Afrique."
+  website:
+
+
+  
