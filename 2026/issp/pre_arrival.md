@@ -1,10 +1,8 @@
-
 ---
 layout: location_detail
 partner_site: issp
 ---
 
-[//]: # (Update the following info to match your location!)
 
 # Avant votre arrivée
 
