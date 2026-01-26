@@ -13,7 +13,7 @@ The Summer Institute aims to bring together computational social scientists acro
 
 ## How To Apply
 
-All application materials must be submitted through the Google Form Application (link coming soon) by April 26, 2026.
+All application materials must be submitted through this [Google Form Application](https://docs.google.com/forms/d/e/1FAIpQLScjBxkFRbMUNauRbSUsQLWu6E6tGzbMEnPVfFOfWAz7JgKz7A/viewform) by April 26, 2026.
 
 Applications must include two additional documents in PDF format:
 - a curriculum vitae (max five pages)
@@ -28,7 +28,7 @@ The statement of interest should mention:
 
 We will evaluate applicants along a number of dimensions, including (1) research, teaching, and other activities in the area of computational social science, (2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others, (3) likelihood to benefit from participation, (4) likelihood to contribute to the educational experience of other participants, and (5) potential to spread computational social science to new intellectual communities and areas of research. When making our evaluations, we attempt to account for an applicant's career stage and previous educational opportunities, and [aim](https://github.com/compsocialscience/summer-institute/blob/master/partner_location_suggestions.md) to create a community of people who complement each other.
 
-Decisions will be sent via e-mail on May 24, 2026, and accepted participants will be asked to confirm their participation soon thereafter.
+Decisions will be sent via e-mail at the end of day on May 15, 2026, and accepted participants will be asked to confirm their participation soon thereafter.
 
 Inquiries can be sent to sicss.stanford@gmail.com
 
