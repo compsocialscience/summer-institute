@@ -1,6 +1,6 @@
 - name: "Muhammad Qasim Pasta" # Add faculty name here.
   image: /assets/images/SICSSHabib_QasimPasta.jpg  # Add faculty image to assets/images/ and update here.
-  bio: "Muhammad Qasim Pasta is a Computational Social Scientist specializing in bibliometric extraction, network science, and data science to model collaboration and citation networks, particularly from the Global South. He co-founded _Data Research Lab Pakistan_, advancing contextual datasets to support evidence-based research and decolonize data production. He also co-leads the _Forum for Research on Phenomenon-Oriented Science (FoRPhOS)_, building open tools and metrics for interdisciplinary research impact. His work bridges quantitative and social scientific methods to reveal patterns of knowledge production." # Add faculty bio here.
+  bio: "Muhammad Qasim Pasta is a Computational Social Scientist specializing in bibliometric extraction, network science, and data science to model collaboration and citation networks, particularly from the Global South. He co-founded <em>Data Research Lab Pakistan</em>, advancing contextual datasets to support evidence-based research and decolonize data production. He also co-leads the <em>Forum for Research on Phenomenon-Oriented Science (FoRPhOS)</em>, building open tools and metrics for interdisciplinary research impact. His work bridges quantitative and social scientific methods to reveal patterns of knowledge production." # Add faculty bio here.
   website: https://mqpasta.github.io/  # Link faculty website here.
 
 - name: "Asad Tariq"
