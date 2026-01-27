@@ -1,4 +1,14 @@
-- name: "Speaker info coming soon." # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " ... " # add speaker bio here
-  website: https://www.google.com # update speaker personal link here
+- name: "Adam Visokay"
+  image: /assets/images/2025/stanford/people-adam-visokay.jpg
+  bio: "I am a PhD student studying at the University of Washington, advised by Professor Tyler McCormick and Professor Sasha Johfre. I am also an affiliated student with the Max Planck Institute in Germany. My research explores how to leverage artificial intelligence and machine learning to study social phenomena, typically motivated by questions in public health, economics, and sociology. I am particularly interested in how to perform valid statistical inference using predictions from black box algorithms and how to effectively use AI/ML methods in a way that is both transparent and socially grounded."
+  website: https://avisokay.github.io/
+
+- name: "Tyler McCormick"
+  image: /assets/images/2025/stanford/people-tyler-mccormick.jpg
+  bio: "Tyler McCormick is a Professor of Statistics and Sociology at the University of Washington. Tyler's research covers a variety of topics in statistics and data science, typically motivated by scientific questions in global health, economics, demography, and sociology. Recent projects include estimating features of social networks (e.g. the degree of clustering or how central an individual is) using data from standard surveys, inferring a likely cause of death (when deaths happen outside of hospitals) using reports from surviving caretakers, and quantifying & communicating uncertainty in predictive models for global health policymakers."
+  website: https://thmccormick.github.io/
+
+# - name: "Speaker info coming soon." # Speaker name goes here.
+#   image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
+#   bio: " ... " # add speaker bio here
+#   website: https://www.google.com # update speaker personal link here
