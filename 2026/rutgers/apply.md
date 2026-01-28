@@ -7,8 +7,6 @@ partner_site: rutgers
 
 # Apply
 
-**This page is under construction. Check back soon for more up-to-date info!**
-
 ## Eligibility
 
 Participation is restricted to doctoral students, postdoctoral researchers, and faculty. We welcome applications from all fields of study and encourage those from individuals in groups currently under-represented in computational social science. There are no restrictions based on citizenship, country of study, or country of employment. However, we are unable to provide funding for travel or lodging during the institute.
