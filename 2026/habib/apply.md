@@ -11,7 +11,7 @@ partner_site: habib
 
 ## Eligibility
 
-SICSS-Habib is designed and intended for Ph.D. students, postdoctoral researchers, faculty, and exceptional undergraduate students who are able to attend the program in-person at Habib University in Karachi, Pakistan. We welcome applicants from all backgrounds and fields of study, particularly for those who exhibit enthusiasm for identify with having limited experiences in computational methods. About 20-25 participants will be invited. However, there are no restrictions based on citizenship, country of study, or country of employment. **We will be providing funding for travel and accommodation for participants from within Pakistan.** SICSS-Habib is deeply committed to diversity and accessibility; to address regional gender disparities, 50% of all funded seats are reserved for female participants.
+SICSS-Habib is designed and intended for Ph.D. students, postdoctoral researchers, faculty, and exceptional undergraduate students who are able to attend the program in-person at Habib University in Karachi, Pakistan. We welcome applicants from all backgrounds and fields of study, particularly for those who exhibit enthusiasm for identify with having limited experiences in computational methods. About 20-25 participants will be invited. However, there are no restrictions based on citizenship, country of study, or country of employment. **We will be providing funding for travel and accommodation for participants from within Pakistan. SICSS-Habib is deeply committed to diversity and accessibility; to address regional gender disparities, 50% of all funded seats are reserved for female participants.**
 
 The Summer Institute aims to bring together computational social scientists, digital humanists, and social data scientists across all levels of technical experience. Participants with less experience with social science and digital humanities research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete [SICSS boot camp](https://sicss.io/boot_camp/).
 
@@ -29,7 +29,7 @@ Applicants must submit the following documents: 1) a curriculum vitae, 2) a stat
 
 **In order to be guaranteed full consideration, all application materials must be submitted by {app due date not yet determined}.** All application materials must be submitted through this [Google Form](https://www.google.com) (form for this site not yet created). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by {decision date not yet determined}, and will ask participants to confirm their participation very soon thereafter.
 
-Inquiries can be sent to [site email not set up](email@goes.here).
+Inquiries can be sent to sicss.habib@gmail.com.
 
 ## Application Frequently Asked Questions
 
