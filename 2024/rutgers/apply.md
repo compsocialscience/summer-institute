@@ -7,7 +7,7 @@ partner_site: rutgers
 
 ## Eligibility
 
-Participation is restricted to doctoral students, postdoctoral researchers, and faculty. We welcome applications from all fields of study and encourage those from individuals in groups currently under-represented in computational social science. There are no restrictions based on citizenship, country of study, or country of employment. However, we are unable to provide funding for travel or lodging during the institute.
+Participation is restricted to doctoral students, postdoctoral researchers, and faculty. We welcome applications from all fields of study and encourage those from individuals in groups currently under-represented in computational social science. There are no restrictions based on citizenship, country of study, or country of employment. However, we have very limited funding for travel/lodging during the institute.
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp. Students doing this preparatory work will be supported by a teaching assistant who will hold limited online office hours during the month before the Institute.
 
