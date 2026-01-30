@@ -13,6 +13,6 @@ The instructional program will include lectures by invited guest speakers, works
 
 Participation is restricted to Ph.D. students, postdoctoral researchers, faculty, and exceptional undergraduate students with backgrounds in computer science, engineering, social sciences, and related fields. We expect to invite approximately 20-25 participants. Participants are expected to attend the full two-week program in person at the Habib University campus. **We will be providing funding for travel and accommodation for participants from within Pakistan. SICSS-Habib is deeply committed to diversity and accessibility; to address regional gender disparities, 50% of all funded seats are reserved for female participants.**
 
-Application materials are due on {date not yet determined}.
+Application materials are due on **30th April 2026 by 11.59 pm (GMT+5)**.
 
 [//]: # (ORGANIZERS: feel free to add a link to your application materials or your SICSS apply page above.)
