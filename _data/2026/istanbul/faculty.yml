@@ -1,32 +1,24 @@
-organizers:
-  title: Faculty
-  people:
-    - name: Akın Ünver
-      image: /2019/istanbul/images/akin_unver.jpg
-      bio: |
-        Akin Unver is an associate professor of International Relations at Ozyegin University, specializing in conflict research, computational methods and digital crisis communication. He is a fellow of Carnegie Endowment's Digital Democracy Network and serves as a member of TikTok's MENA-T Security Advisory Council. Previously he served as a Research Associate at the Center for Technology and Global Affairs, Oxford University and a Senior Research Fellow at GUARD (Global Urban Analytics for Resilient Defence) at the Alan Turing Institute. He is the author of ‘Defining Turkey’s Kurdish Question: Discourse and Politics Since 1990’ (Routledge Series in Middle Eastern Politics).
-      website: https://www.akinunver.org/
+- name: "Akın Ünver"
+  image: /2019/istanbul/images/akin_unver.jpg
+  bio: "Akın Ünver is an associate professor of International Relations at Özyeğin University, specializing in conflict research, computational methods, and digital crisis communication. He is a fellow of the Carnegie Endowment’s Digital Democracy Network and serves on TikTok’s MENA-T Security Advisory Council. He previously held positions at the University of Oxford and the Alan Turing Institute, and is the author of Defining Turkey’s Kurdish Question: Discourse and Politics Since 1990."
+  website: https://www.akinunver.org/
 
-    - name: Merih Angın
-      image: /assets/images/MerihAngin.jpg
-      bio: |
-        Merih Angın is an Assistant Professor at Koç University's College of Administrative Sciences and Economics, where she lectures at the International Relations Department, and Computational Social Sciences graduate program. Previously, she was a Postdoctoral Fellow at the Weatherhead Center for International Affairs of Harvard University, a postdoctoral research fellow at the Blavatnik School of Government of the University of Oxford, and a visiting scholar at the Mortara Center for International Studies of the Edmund A. Walsh School of Foreign Service at Georgetown University. She holds a Ph.D. degree in International Relations/Political Science from the Geneva Graduate Institute (IHEID), an M.Sc. degree in International Relations from METU, and a Bachelor’s degree in Economics from Bilkent University. Her research interests lie in the areas of international political economy, international development, international financial institutions, computational social sciences including agent-based modeling, machine learning, natural language processing, and artificial intelligence (AI) governance. Dr. Angın’s research on AI usage in social sciences was awarded the EU's Marie Skłodowska-Curie Actions Individual Fellowship, as well as the Scientific and Technological Research Council of Turkey’s International Fellowship for Outstanding Researchers. In October 2019, she founded the MA-Computational Social Sciences Lab (MA-CSSL) at Koç University, which is an interdisciplinary research laboratory bringing together researchers from multiple disciplines including economics, sociology, computer science, political science & international relations. Her work has been published in internationally recognized peer-reviewed journals such as Economics & Politics, Sustainability, International Interactions, IEEE Access, and New Perspectives on Turkey, among others.
-      website: https://merihangin.com/home
+- name: "Merih Angın"
+  image: /assets/images/MerihAngin.jpg
+  bio: "Merih Angın is an Assistant Professor at Koç University’s College of Administrative Sciences and Economics. Her research focuses on international political economy, development, computational social sciences, and AI governance. She previously held postdoctoral positions at Harvard University and the University of Oxford and is the founder of the MA-Computational Social Sciences Lab at Koç University."
+  website: https://merihangin.com/home
 
-    - name: Onur Varol
-      image: /assets/images/OnurVarol.jpg
-      bio: |
-        Onur Varol is an Assistant Professor at the Sabanci University Faculty of Engineering and Natural Sciences and Principal Investigator at the VIRAL Lab. His research focuses on developing techniques to analyze online behaviors to improve individual well-being and address societal problems using online data. Prior to joining Sabanci University, he was a postdoctoral researcher at Northeastern University at the Center for Complex Network Research. He completed his PhD in Informatics at Indiana University, Bloomington (USA). His thesis focuses on the analysis of manipulation and threats on social media and he was awarded the 2018 University Distinguished Ph.D. Dissertation Award. He has developed a system called Botometer to detect social bots on Twitter and his team ranked top 3 worldwide at the 2015 DARPA Bot Detection Challenge. Efforts on studying social bots yield publications on prestigious venues such as International Conference of Web and Social Media (ICWSM), Nature Communications, World Wide Web (WWW) conference, and Communications of the ACM.
-      website: http://www.onurvarol.com/
+- name: "Onur Varol"
+  image: /assets/images/OnurVarol.jpg
+  bio: "Onur Varol is an Assistant Professor at Sabancı University and Principal Investigator of the VIRAL Lab. His research examines online behavior, social media manipulation, and computational methods for improving societal well-being. He previously conducted postdoctoral research at Northeastern University and is one of the developers of Botometer."
+  website: http://www.onurvarol.com/
 
-    - name: Erdem Yörük
-      image: /assets/images/ErdemYörük.jpg
-      bio: |
-        Erdem Yörük is an Associate Professor in the Department of Sociology at Koç University and an Associate Member in the Department of Social Policy and Intervention at University of Oxford. He serves as the principal investigator of the ERC-funded project 'Emerging Welfare' (The New Politics of Welfare: Towards an 'Emerging Markets' Welfare State Regime) and the H2020 project Social Comquant. He is also a member of Young Academy of Europe and an associate editor of European Review. He holds a Ph.D. from the Department of Sociology at Johns Hopkins University (2012). His work focuses on social welfare and social policy, social movements, political sociology, and computational social sciences. His work has been supported by the National Science Foundation (NSF), Ford Foundation, FP7 Marie Curie CIG, European Research Council, H2020, and the Science Academy of Turkey. His projects have created two datasets on welfare and protest movements. His articles have appeared in World Development, Governance, Politics & Society, Journal of European Social Policy, New Left Review, Current Sociology, South Atlantic Quarterly, American Behavioral Scientist, International Journal of Communication, Social Policy and Administration, and Social Indicators Research, among others. His book, 'The Politics of the Welfare State in Turkey' is forthcoming from the University of Michigan Press in May 2022.
-      website: https://emw.ku.edu.tr/?staff=erdem-yoruk
+- name: "Erdem Yörük"
+  image: /assets/images/ErdemYörük.jpg
+  bio: "Erdem Yörük is an Associate Professor of Sociology at Koç University and an Associate Member of the University of Oxford. He is the principal investigator of multiple ERC- and EU-funded projects on welfare politics, social movements, and computational social science, and his work has appeared in leading international journals."
+  website: https://emw.ku.edu.tr/?staff=erdem-yoruk
 
-    - name: Başak Taraktaş
-      image: /assets/images/BasakTaraktas.png
-      bio: |
-        Başak Taraktaş is an Assistant Professor of Political Science at Bogazici University. She received her PhD in political science from the University of Pennsylvania in 2016. Before coming to Bogazici, she worked as a postdoc at Northwestern’s Buffett Institute for Global Affairs for two years and as a research analyst at FutureMap. Her research centers on collective action and opinion dynamics. Much of her work is set in the contexts of regimes, and contentious politics, where she combines computational methods (such as agent-based models, network analysis, and text analysis) and qualitative research to unpack the effect of ideology and ideational beliefs on cooperation. She is particularly interested in adaptations of complexity theory and dynamical systems in social sciences. Her current project, Dia-Pol, is supported by Marie Curie Individual Fellowship 2020 grant. Dia-Pol studies the conditions under which polarization follows from social media interactions among social movements and their countermovements and the themes on which these interactions foster dialogue.
-      website: https://basaktaraktas.com/
+- name: "Başak Taraktaş"
+  image: /assets/images/BasakTaraktas.png
+  bio: "Başak Taraktaş is an Assistant Professor of Political Science at Boğaziçi University. Her research focuses on collective action, opinion dynamics, and political behavior, combining computational methods with qualitative approaches. She previously held postdoctoral positions at Northwestern University."
+  website: https://basaktaraktas.com/
