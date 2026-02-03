@@ -3,35 +3,45 @@ layout: location_detail
 partner_site: penn
 ---
 
-[//]: # (Update the following info to match your location!)
+[//]: # "Update the following info to match your location!"
 
 # Apply
 
-**This page is under construction. Check back soon for more up-to-date info!**
+Thank you for your interest in applying to the Summer Institute in Computational Social Science at the University of Pennsylvania (SICSS-Penn) in 2026! The information below provides details about the eligibility criteria, application process and frequently asked questions.
 
 ## Eligibility
 
-We invite applicants from advanced Ph.D. students students, postdoctoral researchers, and faculty within 7 years of their Ph.D., who are able to attend the program in University of Pennsylvania, Philadelphia. We welcome applicants from all backgrounds and fields of study, particularly ... . About ... participants will be invited. However, there are no restrictions based on citizenship, country of study, or country of employment. 
+Participation is restricted to Ph.D. students, post-doctoral researchers, and untenured faculty within 7 years of their Ph.D.
 
-The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp.
+There is no restriction based on citizenship, country of study, country of employment, or technical background. Participants with less experience with social science research are expected to complete additional readings in advance of the program, and participants with less experience with coding are encouraged to familiarize themselves with Python.
 
-We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
+SICSS-Penn especially encourages application from groups currently underrepresented in computational social science.
 
-## How To Apply
+## Application Process
 
-Applicants must submit the following documents: 1) a curriculum vitae, 2) a statement (maximum two pages double-spaced) describing: 
+Applications must be submitted through the Google Form linked below and include the following documents:
 
-- Your current research
-- Why you want to participate in SICSS-Penn
-- How participation will aid your future research
-- Your experience and/or interest in collaborative research. Carrying out a collaborative research project is a core component of SICSS-Penn.
-- A possible topic, method, or question you would like to focus on for a collaborative project
+1. An academic CV.
+2. A statement of interest of up to 2 pages long.
 
-**In order to be guaranteed full consideration, all application materials must be submitted by {app due date not yet determined}.** All application materials must be submitted through this [Google Form](https://www.google.com) (form for this site not yet created). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by {decision date not yet determined}, and will ask participants to confirm their participation very soon thereafter.
+We evaluate applicants along a number of dimensions:
 
-Inquiries can be sent to [site email not set up](email@goes.here).
+1. Research and teaching experience in the area of computational social science.
+2. Contributions to public goods, such as creating open-source software, curating public datasets, and creating educational opportunities for others.
+3. Likelihood to benefit personally and professionally from participation.
+4. Potential to spread computational social science to new intellectual communities and areas of research.
 
-## Application Frequently Asked Questions
+Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
+
+**In order to be guaranteed full consideration, all application materials must be submitted via this [Google Form](https://forms.gle/zTQak7M9gyMegSHf6) by Friday, March 6, 2026, at 11:59 pm EST.** Applications that are not complete by the deadline may not receive full consideration.
+
+Please consider checking the "Send me a copy of my responses" button at the bottom of the form to keep a record and receipt of your submission.
+
+About 25–30 applicants will be selected for participation. We will notify all applicants of the results solely through e-mail by **the end of March**, from the address [sicss.penn@gmail.com](mailto:sicss.penn@gmail.com). Afterwards, we will ask participants to confirm their participation.
+
+All inquiries can be sent to [sicss.penn@gmail.com](mailto:sicss.penn@gmail.com). Please check your spam folder if you do not see a response by the end of March.
+
+## Frequently Asked Questions
 
 #### Can I apply to more than one Summer Institute location?
 
@@ -40,3 +50,7 @@ Yes, but not at the same time. For example, you can apply to SICSS-Penn, and the
 #### Can I participate in SICSS-Penn if I have already participated in SICSS at another location?
 
 Unfortunately, no. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
+
+#### What are the costs associated with attending SICSS-Penn?
+
+SICSS-Penn is offered free of charge to all invited participants. This includes all instructional materials and lunches throughout the program. **However, participants are responsible for their own travel and accommodation expenses.**

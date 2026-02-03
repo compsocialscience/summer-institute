@@ -1,5 +1,14 @@
-- name: "TA info coming soon."
-  image: /assets/images/placeholderPic.png
-  bio: "..."
-  website: www.google.com
-# add more TAs with this format below...
+- name: "Josh Nguyen"
+  image: /assets/images/2025/penn/josh_nguyen.jpeg
+  bio:
+  website: https://joshnguyen.net
+
+- name: "Upasana Dutta"
+  image: /assets/images/2025/penn/upasana_dutta.png
+  bio:
+  website: https://upasanadutta98.github.io
+
+- name: "Samar Haider"
+  image: /assets/images/2025/penn/samar_haider.jpg
+  bio:
+  website: https://samarh.github.io
