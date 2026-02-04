@@ -43,7 +43,7 @@ Preference is given to applicants who have **not previously attended a SICSS sit
 
 ## Application Materials
 
-Applicants must submit the following materials through the application form:[here](http://forms.gle/yqHAyGZwb7ExmHKm9)
+Applicants must submit the following materials through the application form: **[HERE](http://forms.gle/yqHAyGZwb7ExmHKm9)**
 
 - a current curriculum vitae (CV),
 - a sample research project (e.g., research proposal, published article, or working paper),
