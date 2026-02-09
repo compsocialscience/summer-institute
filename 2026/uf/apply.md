@@ -7,8 +7,6 @@ partner_site: uf
 
 # Apply
 
-**This page is under construction. Check back soon for more up-to-date info!**
-
 ## Eligibility
 
 Participation is open to graduate students, postdoctoral researchers, and early-career faculty with an interest in computational social science. Approximately 20 participants will be invited.
