@@ -16,21 +16,28 @@ The Summer Institute aims to bring together computational social scientists with
 We welcome applicants from all backgrounds and fields of study, particularly those from groups currently underrepresented in computational social science. 
 
 Applications are evaluated across several dimensions: 
-(1) Research and teaching interests in computational social science
-(2) Contributions to public goods, such as open-source software, public datasets, or educational resources 
-(3) Likelihood of benefiting from participation 
-(4) Likelihood of contributing to the learning experience of other participants
-(5) Potential to extend computational social science to new intellectual communities and areas of research. 
+- Research and teaching interests in computational social science
+- Contributions to public goods, such as open-source software, public datasets, or educational resources 
+- Likelihood of benefiting from participation 
+- Likelihood of contributing to the learning experience of other participants
+- Potential to extend computational social science to new intellectual communities and areas of research. 
 
+---
 
 ## How To Apply
 
 Applicants must submit the following documents
-1) A letter of application (no more than 500 words) that summarizes your research interests, your achievements, and potential future projects, 2) Curriculum vitae (CV)
+- A letter of application (no more than 500 words), describing your research interests, your achievements, and potential future projects
+- Curriculum vitae (CV)
 
-To guaranteed fll consideration, all application materials must be submitted by 11:59 p.m. (EST) on May 1, 2026. All materials must be submitted through the online application form. Applications that are incomplete by the deadline may not receive full consideration. Applicants will be notified by e-mail, and accepted participants will be asked to confirm their participation shortly after notification. 
+### Application Deadline
 
-Inquiries can be sent to jieun.shin@ufl.edu
+**May1, 2026, at 11:59 p.m. (EST)**
+
+To guaranteed fll consideration, all application materials must be submitted by 11:59 p.m. (EST) on May 1, 2026. 
+All materials must be submitted through the online application form. Applications that are incomplete by the deadline may not receive full consideration. Applicants will be notified **by e-mail**, and accepted participants will be asked to confirm their participation shortly after notification. 
+
+Inquiries can be sent to **jieun.shin@ufl.edu**
 
 ---
 
