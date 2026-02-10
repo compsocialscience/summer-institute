@@ -1,6 +1,6 @@
 ---
 layout: location_detail
-partner_site: UF
+partner_site: uf
 main: true
 image: /assets/images/uf_2026.jpg
 ---
