@@ -1,6 +1,6 @@
 ---
 layout: location_detail
-partner_site: uf
+partner_site: UF
 ---
 
 [//]: # (Update the following info to match your location!)
