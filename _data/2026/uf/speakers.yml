@@ -1,4 +1,29 @@
-- name: "Speaker info coming soon." # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " ... " # add speaker bio here
-  website: https://www.google.com # update speaker personal link here
+- name: "Andrew Ballard" # Speaker name goes here.
+  image: /assets/images/Ballard_SICSS_2026.png  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Dr. Ballard is an Associate Professor of Political Science at Florida State University. He studies American politics with a particular interest in legislative institutions, political parties, and the interplay between legislators and the public. " # add speaker bio here
+  website: https://cosspp.fsu.edu/polisci/faculty/andrew-ballard/
+
+- name: "AJ Alvero" # Speaker name goes here.
+  image: /assets/images/Ballard_SICSS_2026.png  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Dr. Alvero is an Assistant Research Professor & Computational sociologist in the Department of Sociology at Cornell University. His ongoing research focuses on critical moments of evaluation, specifically in college admissions, parole, and emergency room visits." # add speaker bio here
+  website: https://sociology.cornell.edu/aj-alvero
+
+- name: "Soojong Kim" # Speaker name goes here.
+  image: /assets/images/Soojong_SICSS_2026.png  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Dr. Kim is an assistant professor at the Department of Communication at UC Davis. His research investigates the social and psychological consequences and mechanisms of communication and conducting research using quantitative and computational techniques" # add speaker bio here
+  website: https://communication.ucdavis.edu/people/soojong-kim
+
+- name: "Yingdan Lu" # Speaker name goes here.
+  image: /assets/images/Yingdan_SICSS_2026.png  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Dr. Lu is an assistant professor in the Department of Communication Studies at Northwestern University. Yingdan’s research centers on digital technology, political communication, and authoritarian politics." # add speaker bio here
+  website: https://communication.northwestern.edu/faculty/yingdan-lu.html
+
+- name: "Amir Tohidi" # Speaker name goes here.
+  image: /assets/images/Tohidi_SICSS_2026.png  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Dr. Tohidi is a Postdoctoral Researcher at the Computational Social Science Lab at the University of Pennsylvania and a Knight Fellow at the Center for Media, Technology, and Democracy. His research is on how people interact with information and how these interactions shape public opinion and behavior." # add speaker bio here
+  website: https://amirtohidi.github.io/
+
+- name: "Byungkyu Lee" # Speaker name goes here.
+  image: /assets/images/BK_SICSS_2026.png  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Dr. Kim is an assistant professor of Sociology at NYU. His research investigates social networks, social change, culture, and computational social science." # add speaker bio here
+  website: https://www.byungkyulee.com/
