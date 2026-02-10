@@ -10,7 +10,7 @@ partner_site: wits-standrews
 The Summer Institute will bring together people from many fields and backgrounds. In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS-WITS-StAndrews 2026.
 
 - Complete the pre-read
-- Complete coding bootcamp (if needed)
+- Complete coding bootcamp 
 - Watch lecture videos
 - Prepare your computing environment
 
