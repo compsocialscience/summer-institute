@@ -1,6 +1,36 @@
-- name: "Faculty info coming soon." # Add faculty name here.
-  image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
-  bio: "Check back soon for updates." # Add faculty bio here.
-  website: https://www.google.com  # Link faculty website here.
+# - name: "Faculty info coming soon." # Add faculty name here.
+#   image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
+#   bio: "Check back soon for updates." # Add faculty bio here.
+#   website: https://www.google.com  # Link faculty website here.
 
 # Add more faculty with the same format as above...
+
+- name: Subhayan Mukerjee
+  image: /assets/images/Mukerjee_2022.jpg
+  bio: Subhayan Mukerjee is an Assistant Professor at the Department of Communications and New Media, and a principal investigator at the Centre for Trusted Internet and Community at the National University of Singapore. He researches online audiences using computational methods, and teaches courses in quantitative methods, programming, and data visualization.
+  website: https://www.subhayan.com
+
+- name: Zhicong Chen
+  image: https://avatars.githubusercontent.com/u/13479560
+  bio: Zhicong Chen is a Postdoctoral Fellow at the Department of Communications and New Media at the National University of Singapore. His research bridges digital media, data science, and cultural analysis, leveraging text-as-data methods and large-scale datasets to investigate online safety, information dynamics, and social change.
+  website: https://zhicongchen.github.io/
+
+- name: Cai Mengxuan
+  image: /assets/images/Mengxuan.Cai.jpg
+  bio: Mengxuan Cai (PhD) is a Research Fellow at the Centre for Trusted Internet Community, National University of Singapore. Her research spans political communication, gender, social media, misinformation and AI.
+  website: https://scholar.google.com/citations?user=KaxV45oAAAAJ&hl=en
+
+- name: Rongxin Ouyang
+  image: /assets/images/nus_rongxin.jpg
+  bio: Rongxin Ouyang is an PhD student at the Department of Communications and New Media at the National University of Singapore. He researches the societal and political implications of digital media using computational, causal, or quantitative methods; with a particular interest in the inequality and audience engagement of social media.
+  website: https://rongxin.me/
+
+- name: Xu Dong
+  image: /assets/images/Xu_Dong.jpg
+  bio: Xu Dong is a PhD Candidate at the School of Journalism and Communication at the Renmin Univerisity of China and visiting student at the Department of Communications and New Media at the National University of Singapore. He researches human-computer interaction and public opinion on social media using computational methods.
+  website: https://dx9824.github.io/XuDong.github.io/
+
+- name: Cai Yang
+  image: /assets/images/placeholderPic.png
+  bio:
+  website:
