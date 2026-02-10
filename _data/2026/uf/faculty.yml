@@ -2,5 +2,13 @@
   image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
   bio: "Jieun Shin is an Associate Professor in the Department of Media Production, Management, and Technology in the College of Journalism and Communications at the University of Florida. Dr. Shin’s research examines misinformation, fact-checking, and news consumption, with an emphasis on how audiences evaluate and engage with information." 
   website: https://www.jou.ufl.edu/staff/jieun-shin/
+  
+- name: Nathan Carpenter
+  image: /assets/images/carpenter_sicss_2026.jpg  # Add faculty image to assets/images/ and update here.
+  bio: "Nathan Carpenter is the Director of the ATLAS lab, a digital listening and analytics lab, at the University of Florida. Dr. Carpenter's expertise is in analyzing trends and conducting research using data from social media platforms." 
+  website: https://www.jou.ufl.edu/staff/nathan-carpenter/
 
-# Add more faculty with the same format as above...
+- name: Olga Gasparyan 
+  image: /assets/images/photo_olga3.jpg  # Add faculty image to assets/images/ and update here.
+  bio: "Olga Gasparyan is an Assistant Professor in the Department of Political Science at Florida State University. Dr. Gasparyan’s research examines how information environments, particularly visual content, shape political attitudes, public health outcomes, and governance. Her work integrates eye-tracking technology, computational image and text analysis, survey experiments, and advanced statistical methods to address questions in comparative politics, public policy, and political methodology." 
+  website: https://www.olgasparyan.com/
