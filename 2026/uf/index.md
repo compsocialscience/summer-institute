@@ -13,8 +13,6 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is open to advanced undergraduate students, graduate students, post-doctoral researchers, and early-career faculty. We welcome applicants from all backgrounds and fields of study, especially those from groups currently underrepresented in computational social science. About 20 participants will be invited, and participants are expected to attend and fully participate in the one-week program.
 
-
-
 Application materials are due on May 1.
 
 [//]: # (ORGANIZERS: feel free to add a link to your application materials or your SICSS apply page above.)
