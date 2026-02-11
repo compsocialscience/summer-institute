@@ -36,7 +36,10 @@ Applicants must submit the following documents
 **May1, 2026, at 11:59 p.m. (EST)**
 
 To guaranteed fll consideration, all application materials must be submitted by 11:59 p.m. (EST) on May 1, 2026. 
-All materials must be submitted through the [online application form](https://forms.gle/QCMtRs4yiBJYTtq1A). Applications that are incomplete by the deadline may not receive full consideration. Applicants will be notified **by e-mail**, and accepted participants will be asked to confirm their participation shortly after notification. 
+All materials must be submitted through the online application form. Applications that are incomplete by the deadline may not receive full consideration. Applicants will be notified **by e-mail**, and accepted participants will be asked to confirm their participation shortly after notification. 
+
+**Apply here:**  
+👉 [Online application form](https://forms.gle/QCMtRs4yiBJYTtq1A)
 
 Inquiries can be sent to **jieun.shin@ufl.edu**
 
