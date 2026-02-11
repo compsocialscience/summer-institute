@@ -2,7 +2,7 @@
 layout: location_detail
 partner_site: fau
 main: true
-image: /assets/images/tbd.jpg
+image: /assets/images/2026/fau/fau_2026_image.png
 ---
 
 [//]: # (ORGANIZERS: Update the info to match your location. Add a site image to /assets/images/ and update the placeholder URL above to match it. See _data/2026/FAU for yml files that control the header content, location info on general sites page, people lists, and sidebar.)
