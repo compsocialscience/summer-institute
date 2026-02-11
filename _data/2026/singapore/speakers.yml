@@ -8,22 +8,27 @@
   bio: "D. Sunshine Hillygus is Professor of Political Science and Public Policy at Duke University, where she also directs the Social Science Research Institute and co-directs the Duke Polarization Lab. Professor Hillygus has published widely on the topics of public opinion, political communication, survey methodology, and information technology and politics. She is a 2024 Carnegie Fellow, 2025 Insight250 Global Insights Winner, and an Elected Fellow of the Society for Political Methodology. She serves as a PI of the American National Election Study and on AI taskforces for the American Association of Public Opinion Research and the American Political Science Association. She is co-author of Making Young Voters: Converting Civic Attitudes into Civic Action (Cambridge University Press, 2020), The Persuadable Voter: Wedge Issues in Political Campaigns (Princeton University Press, 2008), and The Hard Count: The Social and Political Challenges of the 2000 Census (Russell Sage Foundation, 2006). She holds a Ph.D. in political science from Stanford University and a B.A. and M.A. from the University of Arkansas. From 2003-2009, she taught at Harvard University, where she was the Frederick S. Danziger Associate Professor of Government and founding director of the Program on Survey Research."
   website: https://scholars.duke.edu/person/hillygus
 
+- name: Dilrukshi Gamage
+  image: /assets/images/Dilrukshi_Gamage.jpg
+  bio: Dilrukshi Gamage is a Senior Lecturer at the University of Colombo School of Computing in Colombo, Sri Lanka and also a visiting research fellow at the Center for Protecting Women Online (CPWO) at the Open University UK. Recently, she was a research fellow at the Weizenbaum Institute in Berlin, Germany and also served as an Affiliate at the Berkman Klein Center for Internet Society at Harvard University as well. Before that she was a postdoctoral fellow at the Sasahara Lab, Department of Innovation Science, Tokyo Institute of Technology (Tokyo Tech) in Japan. Her research is in the field of Human-Computer Interaction and Computational Social Science. She primarily focus on social implications of AI - specifically "DeepFake/ AI" generated Misinformation and societal implications. Currently she lead few projects that bring AI/Deepfakes literacy - explore and build technologies to assist human to make judgements. Her Ph.D. has been focused on large scale open online learning  -MOOCs, HCI and Learning Analytics. 
+  website: https://www.dilrukshigamage.org/
+
 - name: Yihong Huang
   image: /assets/images/Yihong_Huang.jpg
   bio: Yihong Huang is an Assistant Professor at Guanghua School of Management, Peking University. Her research focuses on behavioral economics, experimental economics and political economy, employing both field and lab experiments. She use insights from behavioral economics theory to understand real-world phenomena such as misperceived social norms, political discourse, media bias, and inefficient information flow. 
   website: https://yihonghuang.com/
 
 - name: Prasanta Bhattacharya
-  image: https://prasantabhattacharya.github.io/images/Prasanta_talk_photo.jpg
+  image: /assets/images/Prasanta_Bhattacharya.jpg
   bio: Prasanta Bhattacharya is currently an Innovation Lead & Senior Research Scientist with the Social and Cognitive Computing Department at the Institute of High Performance Computing (IHPC), a flagship interdisciplinary research institute of A*STAR, which is a leading science, tech and research organisation in Singapore. He also serves as an Adjunct Assistant Professor with the NUS Business School (Dept. of Analytics and Operations) where he has designed a number of graduate and executive-level courses on AI, business analytics, and network science. His research bridges topics and methods from network science, behavioral analytics, and psychometric modeling to relevant AI applications in emerging markets. 
   website: https://prasantabhattacharya.github.io/
 
 - name: Swapnil Mishra
-  image: https://sph.nus.edu.sg/wp-content/uploads/2025/12/Swapnil-Mishra-close-up.jpg
-  bio: Dr. Swapnil Mishra is primarily working at the intersection of global health, machine learning and Bayesian modelling. His research focuses on applying and developing statistical machine learning techniques for the broader and messier world of science and public policy, especially global health. He develops flexible and scalable models for understanding various spatiotemporal data, for example, epidemics (COVID-19, Malaria, HIV) and crime. He co-founded “Machine Learning & Global Health Network” with researchers from Imperial College London, University of Oxford, Technical University of Kaiserslautern, and the University of Copenhagen.
-  website: https://sph.nus.edu.sg/faculty-directory/mishra-swapnil/
+  image: /assets/images/Swapnil_Mishra.jpg
+  bio: Swapnil Mishra is an Assistant Professor at National University of Singapore (NUS), where he is primarily working at intersection of public health, machine learning and Bayesian modelling. He is part of Machine Learning & Global Health Network, which is a multi-country and multi-organisation network focused on doing fundamental research in machine learning and problems related to global health. His research focuses on applying and developing statistical machine learning techniques for the broader and messier world of science and public policy, especially global health. He develops flexible and scalable models for understanding various spatiotemporal data, for example, epidemics (COVID-19, Malaria, HIV) and crime. For his doctorate, he built models for understanding the evolution of popularity in social media. His work focused on algorithms to model point processes with classical machine learning techniques as well as using modern deep learning networks, mainly recurrent networks.
+  website: https://s-mishra.github.io/
 
 - name: Hannah Clapham
-  image: https://sph.nus.edu.sg/wp-content/uploads/2021/06/Hannah-Clapham-2021.jpg
-  bio:
-  website: https://sph.nus.edu.sg/faculty-directory/clapham-hannah/
+  image: /assets/images/Hannah_Clapham.jpg
+  bio: Hannah Clapham is an Assistant Professor at NUS Saw Swee Hock School of Public Health in Singapore. Her research employs mathematical modelling and data analysis to understand transmission and control of infectious diseases. She have a particular interest in arboviruses and sero-epidemiology. 
+  website: https://www.hannahclapham.com/
