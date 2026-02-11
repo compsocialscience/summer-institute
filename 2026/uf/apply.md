@@ -10,7 +10,7 @@ partner_site: UF
 
 ## Eligibility
 
-Participation is open to **graduate students, postdoctoral researchers, and early-career faculty** with an interest in computational social science. Approximately 20 participants will be invited.
+Participation is open to **graduate students and postdoctoral researchers** with an interest in computational social science. Approximately 20 participants will be invited.
 
 The Summer Institute aims to bring together computational social scientists with a wide range of technical backgrounds. Participants with less experience in social science research will be expected to complete additional readings before the Institute, and those with less coding experience will be asked to complete a set of online learning modules in R or Python.
 
