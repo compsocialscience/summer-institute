@@ -9,7 +9,7 @@ image: /assets/images/uf_2026.jpg
 
 From **June 15 to June 19, 2026**, the **Summer Institute in Computational Social Science (SICSS-UF)** will be held **in person at the University of Florida**. 
 
-The Summer Institute aims to bring together **graduate students, postdoctoral researchers, and beginning faculty** interested in computational social science. The Summer Institute is for **both social scientists and data scientists**, broadly conceived. 
+The Summer Institute aims to bring together **graduate students and postdoctoral researchers** interested in computational social science. The Summer Institute is for **both social scientists and data scientists**, broadly conceived. 
 
 ---
 
@@ -46,7 +46,6 @@ Participation is open to:
 - Advanced undergraduate students  
 - Graduate students  
 - Postdoctoral researchers  
-- Early-career faculty  
 
 We welcome applicants from all backgrounds and disciplines, particularly those from groups currently underrepresented in computational social science.
 
