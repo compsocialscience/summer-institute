@@ -23,12 +23,13 @@
   bio: "Dr. Tohidi is a Postdoctoral Researcher at the Computational Social Science Lab at the University of Pennsylvania and a Knight Fellow at the Center for Media, Technology, and Democracy. His research is on how people interact with information and how these interactions shape public opinion and behavior." # add speaker bio here
   website: https://amirtohidi.github.io/
 
+- name: "George G. Vega Yon" # Speaker name goes here.
+  image: /assets/images/George_SICSS_UF.png  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Dr. Vega Yon George G. Vega Yon is an Assistant Professor of Research at the Division of Epidemiology at the University of Utah. He studies Complex Systems using Statistical Computing. He has expertise in developing scientific software focusing on high-performance computing, data visualization, and social network analysis. 
+  website: https://medicine.utah.edu/faculty/george-g-vega-yon
+
 - name: "Byungkyu Lee" # Speaker name goes here.
   image: /assets/images/BK_SICSS_2026.png  # Upload speaker image to /assets/images/ and update URL here.
   bio: "Dr. Lee is an assistant professor of Sociology at NYU. His research investigates social networks, social change, culture, and computational social science." # add speaker bio here
   website: https://www.byungkyulee.com/
 
-- name: "George G. Vega Yon" # Speaker name goes here.
-  image: /assets/images/George_SICSS_UF.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: "Dr. Vega Yon George G. Vega Yon is an Assistant Professor of Research at the Division of Epidemiology at the University of Utah. He studies Complex Systems using Statistical Computing. He has expertise in developing scientific software focusing on high-performance computing, data visualization, and social network analysis. 
-  website: https://medicine.utah.edu/faculty/george-g-vega-yon
