@@ -25,10 +25,15 @@
 
 - name: "George G. Vega Yon"
   image: /assets/images/George_SICSS_UF.png
-  bio: "Dr. Vega Yon George G. Vega Yon is an Assistant Professor of Research at the Division of Epidemiology at the University of Utah. He studies Complex Systems using Statistical Computing. He has expertise in developing scientific software focusing on high-performance computing, data visualization, and social network analysis."
+  bio: "Dr. Vega Yon is an Assistant Professor of Research at the Division of Epidemiology at the University of Utah. He studies Complex Systems using Statistical Computing. He has expertise in developing scientific software focusing on high-performance computing, data visualization, and social network analysis."
   website: https://medicine.utah.edu/faculty/george-g-vega-yon
   
 - name: "Byungkyu Lee" # Speaker name goes here.
   image: /assets/images/BK_SICSS_2026.png  # Upload speaker image to /assets/images/ and update URL here.
   bio: "Dr. Lee is an assistant professor of Sociology at NYU. His research is on social cohesion and network dynamics, exploring their impacts on individual, community, and societal well-beings in the domains of health and politics. His research also uses large language models, surveys, and social media data to develop indicators of social cohesion and polarization, predict public opinion, and simulate AI agents for advancing social science research."
   website: https://www.byungkyulee.com/
+
+- name: "Kat Albrecht" # Speaker name goes here.
+  image: /assets/images/Kat_SICSS_UF.png  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Dr. Albrecht is an Assistant Professor in Criminal Justice Studies at Truman State University. Her work sits at the intersection of computational social science and law, where she uses innovative computational techniques to study fear, violence, and data distortions. She is particularly interested in the nexus of fear and risk-taking behaviors, digital trace data, and the impact of law on decision-making."
+  website: https://katalbrecht.org/
