@@ -7,15 +7,14 @@ partner_site: ucla
 
 # Apply
 
-**This page is under construction. Check back soon for more info in February!**
+**Application to SICSS-UCLA 2026 is now open!
+Deadline to apply: April 15, 2026, 23:59 PM Pacific Time**
 
 ## Eligibility
 
-We invite applicants from advanced Ph.D. students students, postdoctoral researchers, and faculty within 7 years of their Ph.D., who are able to attend the program in University of Los Angeles. We welcome applicants from all backgrounds and fields of study, particularly ... . About ... participants will be invited. However, there are no restrictions based on citizenship, country of study, or country of employment. 
+We invite applicants who are Ph.D. students, postdoctoral researchers, or faculty within 7 years of their Ph.D. and who are able to attend the program at the University of Los Angeles. We welcome applicants from all backgrounds and fields of study, particularly junior faculty at neighboring institutions near Los Angeles. About 25-30 participants will be invited. However, there are no restrictions based on citizenship, country of study, or country of employment. 
 
-The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp.
-
-We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
+The Summer Institute aims to bring together computational social scientists across all levels of technical experience. We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
 
 ## How To Apply
 
@@ -27,9 +26,9 @@ Applicants must submit the following documents: 1) a curriculum vitae, 2) a stat
 - Your experience and/or interest in collaborative research. Carrying out a collaborative research project is a core component of SICSS-UCLA.
 - A possible topic, method, or question you would like to focus on for a collaborative project
 
-**In order to be guaranteed full consideration, all application materials must be submitted by {app due date not yet determined}.** All application materials must be submitted through this [Google Form](https://www.google.com) (form for this site not yet created). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by {decision date not yet determined}, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by April 15, 2026.** All application materials must be submitted through this [Google Form](https://forms.gle/uNjAAXrUhytBW1tw9). Applications submitted after the deadline may not receive full consideration. We will notify applicants solely by email by May 1, 2026, and will ask participants to confirm their participation by May 8, 2026.
 
-Inquiries can be sent to [site email not set up](email@goes.here).
+Inquiries can be sent to **sicss.ucla@gmail.com**.
 
 ## Application Frequently Asked Questions
 
