@@ -10,15 +10,8 @@ schedule: true
 
 The 2026 program will focus on the following topics:
 
-* Foundations of Causal Inference
-  * Identification
-  * Directed Acyclic Graph
-  * Potential Outcomes Framework
-  * Structural Causal Model
-* Causal estimation for selecting on observables
-  * Matching and Weighting
-  * Doubly Robust Estimation
-  * Machine Learning and Causal Trees
+* Foundations of Causal Inference: Identification, Directed Acyclic Graph, Potential Outcomes Framework, Structural Causal Model
+* Causal estimation for selecting on observables: Matching, Weighting, Doubly Robust Estimation, Machine Learning and Causal Trees
 * Effect heterogeneity
 * Sensitivity analysis
 * Data and Workflow for Causal Inference
