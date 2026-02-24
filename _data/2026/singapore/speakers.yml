@@ -3,37 +3,39 @@
 #   bio: " ... " # add speaker bio here
 #   website: https://www.google.com # update speaker personal link here
 
-- name: D. Sunshine Hillygus
-  image: /assets/images/Sunshine_Hillygus.jpg
-  bio: "D. Sunshine Hillygus is Professor of Political Science and Public Policy at Duke University, where she also directs the Social Science Research Institute and co-directs the Duke Polarization Lab. Professor Hillygus has published widely on the topics of public opinion, political communication, survey methodology, and information technology and politics. She is a 2024 Carnegie Fellow, 2025 Insight250 Global Insights Winner, and an Elected Fellow of the Society for Political Methodology. She serves as a PI of the American National Election Study and on AI taskforces for the American Association of Public Opinion Research and the American Political Science Association. She is co-author of Making Young Voters: Converting Civic Attitudes into Civic Action (Cambridge University Press, 2020), The Persuadable Voter: Wedge Issues in Political Campaigns (Princeton University Press, 2008), and The Hard Count: The Social and Political Challenges of the 2000 Census (Russell Sage Foundation, 2006). She holds a Ph.D. in political science from Stanford University and a B.A. and M.A. from the University of Arkansas. From 2003-2009, she taught at Harvard University, where she was the Frederick S. Danziger Associate Professor of Government and founding director of the Program on Survey Research."
-  website: https://scholars.duke.edu/person/hillygus
+- name: Prasanta Bhattacharya
+  image: /assets/images/Prasanta_Bhattacharya.jpg
+  bio: Prasanta Bhattacharya is currently an Innovation Lead & Senior Research Scientist with the Social and Cognitive Computing Department at the Institute of High Performance Computing (IHPC), a flagship interdisciplinary research institute of A*STAR, which is a leading science, tech and research organisation in Singapore. He also serves as an Adjunct Assistant Professor with the NUS Business School (Dept. of Analytics and Operations) where he has designed a number of graduate and executive-level courses on AI, business analytics, and network science. His research bridges topics and methods from network science, behavioral analytics, and psychometric modeling to relevant AI applications in emerging markets. 
+  website: https://prasantabhattacharya.github.io/
 
-- name: Hai Liang
-  image: /assets/images/Hai_Liang.jpg
-  bio: "Dr. Hai Liang is an Associate Professor and the Director of the School of Journalism and Communication at The Chinese University of Hong Kong (CUHK). He also serves as the Co-Director of the Computational Social Science Laboratory at CUHK and is an affiliated member of the Web Mining Laboratory at City University of Hong Kong. His research interests include computational social science, political communication, and digital public health. He has published dozens of journal articles, many appearing in the foremost communication journals, such as Journal of Communication, Communication Research, Human Communication Research, Journal of Computer-Mediated Communication, and New Media & Society. He has also published in public health, information science, political science, sociology, and other interdisciplinary journals. He is currently working on several interdisciplinary projects related to human-AI communication using computational methods and field experiments, decentralized activism on social media, and the consequences of political incivility."
-  website: https://drhailiang.com/
+- name: Hannah Clapham
+  image: /assets/images/Hannah_Clapham.jpg
+  bio: Hannah Clapham is an Assistant Professor at NUS Saw Swee Hock School of Public Health in Singapore. Her research employs mathematical modelling and data analysis to understand transmission and control of infectious diseases. She has a particular interest in arboviruses and sero-epidemiology. 
+  website: https://www.hannahclapham.com/
 
 - name: Dilrukshi Gamage
   image: /assets/images/Dilrukshi_Gamage.jpg
   bio: Dr. Dilrukshi Gamage is a Senior Lecturer at the University of Colombo School of Computing, Sri Lanka and a Visiting Research Fellow at the Centre for Protecting Women Online at the Open University UK. Her interdisciplinary research lies at the intersection of Human-Computer Interaction (HCI), Trust & Safety, and Computational Social Science, focusing on how AI-generated content—such as deepfakes—impacts public trust, gendered safety, and digital literacy in the Global South. She was previously a Research Fellow at the Weizenbaum Institute for the Networked Society in Berlin and an Affiliate at the Berkman Klein Center for Internet & Society at Harvard University and a postdoctoral researcher at Institute of Science Tokyo (formally Tokyo Tech). She has led multi-country research and design interventions across South Asia and presented her work at leading venues such as CHI, ICWSM and Trust & Safety Conference. Her work can be found at www.dilrukshigamage.org 
   website: https://www.dilrukshigamage.org/
 
+- name: D. Sunshine Hillygus
+  image: /assets/images/Sunshine_Hillygus.jpg
+  bio: "D. Sunshine Hillygus is Professor of Political Science and Public Policy at Duke University, where she also directs the Social Science Research Institute and co-directs the Duke Polarization Lab. Professor Hillygus has published widely on the topics of public opinion, political communication, survey methodology, and information technology and politics. She is a 2024 Carnegie Fellow, 2025 Insight250 Global Insights Winner, and an Elected Fellow of the Society for Political Methodology. She serves as a PI of the American National Election Study and on AI taskforces for the American Association of Public Opinion Research and the American Political Science Association. She is co-author of Making Young Voters: Converting Civic Attitudes into Civic Action (Cambridge University Press, 2020), The Persuadable Voter: Wedge Issues in Political Campaigns (Princeton University Press, 2008), and The Hard Count: The Social and Political Challenges of the 2000 Census (Russell Sage Foundation, 2006). She holds a Ph.D. in political science from Stanford University and a B.A. and M.A. from the University of Arkansas. From 2003-2009, she taught at Harvard University, where she was the Frederick S. Danziger Associate Professor of Government and founding director of the Program on Survey Research."
+  website: https://scholars.duke.edu/person/hillygus
+
 - name: Yihong Huang
   image: /assets/images/Yihong_Huang.jpg
   bio: Dr. Yihong Huang is an Assistant Professor at Guanghua School of Management, Peking University, China. She received her PhD from Harvard University in 2024. Her research focuses on Behavioral Economics, Experimental Economics and Political Economy, employing both field and lab experiments. She uses insights from behavioral economics theory to understand real-world phenomena such as misperceived social norms, political discourse, media bias, and inefficient information flow.
   website: https://yihonghuang.com/
 
-- name: Prasanta Bhattacharya
-  image: /assets/images/Prasanta_Bhattacharya.jpg
-  bio: Prasanta Bhattacharya is currently an Innovation Lead & Senior Research Scientist with the Social and Cognitive Computing Department at the Institute of High Performance Computing (IHPC), a flagship interdisciplinary research institute of A*STAR, which is a leading science, tech and research organisation in Singapore. He also serves as an Adjunct Assistant Professor with the NUS Business School (Dept. of Analytics and Operations) where he has designed a number of graduate and executive-level courses on AI, business analytics, and network science. His research bridges topics and methods from network science, behavioral analytics, and psychometric modeling to relevant AI applications in emerging markets. 
-  website: https://prasantabhattacharya.github.io/
+- name: Hai Liang
+  image: /assets/images/Hai_Liang.jpg
+  bio: "Dr. Hai Liang is an Associate Professor and the Director of the School of Journalism and Communication at The Chinese University of Hong Kong (CUHK). He also serves as the Co-Director of the Computational Social Science Laboratory at CUHK and is an affiliated member of the Web Mining Laboratory at City University of Hong Kong. His research interests include computational social science, political communication, and digital public health. He has published dozens of journal articles, many appearing in the foremost communication journals, such as Journal of Communication, Communication Research, Human Communication Research, Journal of Computer-Mediated Communication, and New Media & Society. He has also published in public health, information science, political science, sociology, and other interdisciplinary journals. He is currently working on several interdisciplinary projects related to human-AI communication using computational methods and field experiments, decentralized activism on social media, and the consequences of political incivility."
+  website: https://drhailiang.com/
 
 - name: Swapnil Mishra
   image: /assets/images/Swapnil_Mishra.jpg
   bio: Swapnil Mishra is an Assistant Professor at National University of Singapore (NUS), where he is primarily working at intersection of public health, machine learning and Bayesian modelling. He is part of Machine Learning & Global Health Network, which is a multi-country and multi-organisation network focused on doing fundamental research in machine learning and problems related to global health. His research focuses on applying and developing statistical machine learning techniques for the broader and messier world of science and public policy, especially global health. He develops flexible and scalable models for understanding various spatiotemporal data, for example, epidemics (COVID-19, Malaria, HIV) and crime. For his doctorate, he built models for understanding the evolution of popularity in social media. His work focused on algorithms to model point processes with classical machine learning techniques as well as using modern deep learning networks, mainly recurrent networks.
   website: https://s-mishra.github.io/
 
-- name: Hannah Clapham
-  image: /assets/images/Hannah_Clapham.jpg
-  bio: Hannah Clapham is an Assistant Professor at NUS Saw Swee Hock School of Public Health in Singapore. Her research employs mathematical modelling and data analysis to understand transmission and control of infectious diseases. She have a particular interest in arboviruses and sero-epidemiology. 
-  website: https://www.hannahclapham.com/
+
