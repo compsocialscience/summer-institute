@@ -2,17 +2,29 @@
 layout: location_detail
 partner_site: melbourne
 main: true
-image: /assets/images/tbd.jpg
+image: /assets/images/Melbourne_SICSS.jpg
 ---
 
 [//]: # (ORGANIZERS: Update the info to match your location. Add a site image to /assets/images/ and update the placeholder URL above to match it. See _data/2026/Melbourne for yml files that control the header content, location info on general sites page, people lists, and sidebar.)
 
-From June 22 to July 3, 2026 [[HOST]] will host the Summer Institute in Computational Social Science, to be held in Melbourne, Australia. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
+From **June 22 to July 3, 2026**, the Australian Internet Observatory (AIO) and the ARC Centre of Excellence for Automated Decision Making and Society (ADM+S) will host a Summer (or Australian Winter) Institute in Computational Social Science in **Melbourne — SICSS-Melbourne!** For this 2-week intensive program, we will bring together PhD candidates and early career researchers to explore innovative techniques that bring computational methodologies and the social sciences together to study our societies and discover new solutions to make them better.
 
-The instructional program will involve lectures, group problem sets, and participant-led research projects, with a special emphasis on causal inference. There will also be outside speakers who conduct computational social science research in a variety of settings, such as academia, industry, and government. Topics covered include causal inference with observational data, text analysis, network analysis, survey experiments, and machine learning. There will be ample opportunities for students to discuss their ideas and research with the organizers, other participants, and visiting speakers. Because we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute will be released open source.
+The program will involve a number of workshops and lectures, group activities, and participant-led research projects that will propose solutions to existing, practical problems developed by our academic and industry experts. We will use an arsenal of cutting-edge digital tools for data collection and analysis, discuss them in the context of more traditional social science research, and explore what combining them actually means. 
 
-Participation is restricted to advanced Ph.D. students, postdoctoral researchers, and junior faculty (within 7 years of their Ph.D). We welcome applicants from all backgrounds and fields of study, especially junior faculty from neighboring institutions near Melbourne, Australia. About 25-30 participants will be invited. Most participants are expected to fully attend and participate in the entire 8-day program, but we are open to alternative arrangements for faculty members. 
+Participants will have the chance to learn about and discuss the use of large language models and machine learning in actual research projects. Topics will also include:
+* The use and development of more accessible and reproducible tools for data collection and analysis
+* Network analysis
+* Data donation frameworks
+* Web scraping of varying complexity
+* Data download packages
+* Web archiving
 
-Application materials are due on {date not yet determined}.
+We will discuss the ethical aspects of working with digital data and methods, as well as their countless limitations and how they need to be addressed.
+
+There will be numerous opportunities for participants to discuss their research with senior colleagues, organisers, visiting speakers, and others in the cohort. All created materials and topics covered will be released as open-source resources, and participants will be able to incorporate them into their own projects or work with them in the future.
+
+To support the interdisciplinary nature of this event, we welcome early career researchers from all backgrounds, fields of study, and institutions across Australia. We expect to host **20 participants**. While most participants are expected to fully attend and participate in the entire program, we are also open to alternative arrangements, especially for those who need to travel far. **Limited bursaries** to assist with travel costs are available to those outside of Melbourne and will be distributed on a needs basis to make sure that participants from different institutions and locations can be physically present at the venue.
+
+Applications will be open from **9 March 2026 to 30 April 2026**. A link to submit an application will be made available here during that time.
 
 [//]: # (ORGANIZERS: feel free to add a link to your application materials or your SICSS apply page above.)
