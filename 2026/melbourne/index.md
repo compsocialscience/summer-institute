@@ -14,9 +14,8 @@ The program will involve a number of workshops and lectures, group activities, a
 Participants will have the chance to learn about and discuss the use of large language models and machine learning in actual research projects. Topics will also include:
 * The use and development of more accessible and reproducible tools for data collection and analysis
 * Network analysis
-* Data donation frameworks
+* Data donation frameworks - download packages and screen capture
 * Web scraping of varying complexity
-* Data download packages
 * Web archiving
 
 We will discuss the ethical aspects of working with digital data and methods, as well as their countless limitations and how they need to be addressed.
