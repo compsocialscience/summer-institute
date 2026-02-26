@@ -3,7 +3,7 @@ layout: location_detail
 partner_site: melbourne
 ---
 
-# Eligibility
+## Eligibility
 <br>
 
 We invite applications from **PhD candidates and early career researchers (ECRs) / postdocs** from any institution in Australia. However, we do not limit participation exclusively to academics and welcome applications from other relevant areas. All backgrounds and fields of study will be considered, as this interdisciplinary environment is a core component of the program. Approximately **20 participants** will be invited. 
