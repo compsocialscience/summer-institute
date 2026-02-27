@@ -13,6 +13,6 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is restricted to doctoral students (current and newly admitted), postdoctoral researchers, and faculty. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 20 participants will be invited, and participants are expected to fully attend in person and participate in the entire two-week program. A modest amount of travel/lodging assistance may be available for participants.
 
-Application materials are due March 8. Applicants will be notified by approximately April 15, 2026. Inquiries may be sent to sicssrutgers@gmail.com.
+Application materials are due March 13 (extended from March 8). Applicants will be notified by approximately April 15, 2026. Inquiries may be sent to sicssrutgers@gmail.com.
 
 [//]: # (ORGANIZERS: feel free to add a link to your application materials or your SICSS apply page above.)
