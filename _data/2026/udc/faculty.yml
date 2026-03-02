@@ -3,4 +3,10 @@
   bio: "Check back soon for updates." # Add faculty bio here.
   website: https://www.google.com  # Link faculty website here.
 
+- name: "Andrea Adams, Ph.D., J.D., M.B.A."
+  image: /assets/images/placeholderPic.png
+  bio: "Andrea Adams is an Associate Professor and Program Coordinator of Crime, Justice, and Security Studies at the University of the District of Columbia (UDC). A licensed attorney specializing in employment and labor law, she leads a multidisciplinary research agenda exploring the ethical intersections of data privacy, emergency management, and gender-based violence. Dr. Adams attended the SICSS Summer Institute in 2022 and served as a fellow in 2023. She has led externally funded projects for DC government agencies including the Mayor’s Office of Returning Citizen Affairs and the Department of Health Care Finance. Her international collaborations focus on digital technologies addressing sexual violence in rural contexts, and she serves as Co-Chair of the Higher Education Ethics Special Interest Group."
+  website: ""
+
+
 # Add more faculty with the same format as above...
