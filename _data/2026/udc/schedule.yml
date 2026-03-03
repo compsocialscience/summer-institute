@@ -89,10 +89,6 @@
     - name: "3:00–4:00 - Program reflection"
     - name: "4:00–5:00 - Celebration and official close-out"
 
-- date: "Saturday–Sunday, June 27–28, 2026"
-  events:
-    - name: "**No programming**"
-
 - date: "Possible Speaker Areas"
   events:
     - name: "Computational social science"
