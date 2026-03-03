@@ -9,11 +9,11 @@ partner_site: udc
 
 ## Eligibility
 
-We invite applicants from advanced Ph.D. students students, postdoctoral researchers, and faculty within 7 years of their Ph.D., who are able to attend the program in University of the District of Columbia, Washington, D.C.. We welcome applicants from all backgrounds and fields of study, particularly ... . About ... participants will be invited. However, there are no restrictions based on citizenship, country of study, or country of employment. 
+We invite applicants who are advanced Ph.D. students, postdoctoral researchers, and faculty within 7 years of their Ph.D., and who are able to attend the program at the University of the District of Columbia, Washington, D.C. We welcome applicants from all backgrounds and fields of study, especially junior faculty from neighboring institutions. However, there are no restrictions based on citizenship, country of study, or country of employment. 
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp.
 
-We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
+We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when evaluating applicants, we aim to account for an applicant’s career stage and prior educational opportunities.
 
 ## How To Apply
 
@@ -33,8 +33,8 @@ Inquiries can be sent to tayler.shreve@udc.edu.
 
 #### Can I apply to more than one Summer Institute location?
 
-Yes, but not at the same time. For example, you can apply to SICSS-UDC, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.
+Yes, but not at the same time. For example, you can apply to SICSS-UDC, and if you are not accepted, you can apply to another location with a later deadline. However, you cannot have an application under review at two locations simultaneously.
 
 #### Can I participate in SICSS-UDC if I have already participated in SICSS at another location?
 
-Unfortunately, no. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
+Unfortunately, no. Every year, we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
