@@ -13,7 +13,7 @@ Since it is, first and foremost, a learning opportunity, some materials will be 
 We evaluate applications along a number of dimensions:
 1. Likelihood to benefit from participation.
 2. Likelihood to contribute to the educational experience of other participants.
-3. Potential to spread computational social science to new communities and areas of research. 
+3. Potential to promote computational social science to new communities and areas of research. 
 4. Research and teaching in the area of computational social science and closely related fields.
 5. Creating open-source software, curating public datasets, and creating educational opportunities for others.
 
