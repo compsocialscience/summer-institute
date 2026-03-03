@@ -5,8 +5,6 @@ partner_site: singapore
 
 # Apply
 
-**This page is under construction. Check back soon for more up-to-date info!**
-
 ## Eligibility
 
 SICSS-Singapore is designed for and restricted to graduate students (including masters students, preferably those with a prominent research component in their degree), postdoctoral researchers, untenured faculty within 7 years of their Ph.D, and researchers working in NGOs or government agencies. However, there are no restrictions based on citizenship, country of study, or country of employment. About 20 participants will be invited.
