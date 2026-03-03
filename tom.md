@@ -163,7 +163,6 @@ The TOM Annual Conference brings together leading scholars, practitioners, and e
   <div class="card-body text-center py-5">
     <h4>🎬 Videos Coming Soon</h4>
     <p class="text-muted mb-3">Recordings of keynote talks, panels, and paper sessions will be posted here after the conference.</p>
-    <a href="mailto:rsfcompsocsci@gmail.com" class="btn btn-dark">Sign up for Updates</a>
   </div>
 </div>
 
