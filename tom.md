@@ -23,9 +23,11 @@ subtitle: "An annual conference on digital technologies, open-mindedness, and po
 
 ## Annual Conference
 
-The TOM Annual Conference brings together leading scholars, practitioners, and emerging researchers to present cutting-edge work on digital technologies, polarization, and open-mindedness. The conference is held at Duke University and is free to attend. Dates to be announced.
+The TOM Annual Conference brings together leading scholars, practitioners, and emerging researchers to present cutting-edge work on digital technologies, polarization, and open-mindedness. The conference is held at Duke University and is free to attend. The confirmed date for the 2026 annual conference is **Thursday, April 2**.
 
 ### Conference Schedule
+
+_Please note: The schedule is subject to change. Check back for the latest updates._
 
 <table class="table table-bordered table-hover mt-3">
   <thead class="thead-dark">
