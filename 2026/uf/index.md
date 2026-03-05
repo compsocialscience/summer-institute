@@ -7,7 +7,7 @@ image: /assets/images/uf_2026.jpg
 
 [//]: # (ORGANIZERS: Update the info to match your location. Add a site image to /assets/images/ and update the placeholder URL above to match it. See _data/2026/UF for yml files that control the header content, location info on general sites page, people lists, and sidebar.)
 
-From **June 15 to June 19, 2026**, the **Summer Institute in Computational Social Science (SICSS-UF)** will be held **in person at the University of Florida**. 
+From **June 15 to June 19, 2026**, the **Summer Institute in Computational Social Science (SICSS-UF)** will be held **in person in the College of Journalism and Communications at the University of Florida**. 
 
 The Summer Institute aims to bring together **graduate students and postdoctoral researchers** interested in computational social science. The Summer Institute is for **both social scientists and data scientists**, broadly conceived. 
 
