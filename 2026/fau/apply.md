@@ -7,7 +7,6 @@ partner_site: fau
 
 # Apply
 
-**This page is under construction. Check back soon for more up-to-date info!**
 
 ## Eligibility
 
