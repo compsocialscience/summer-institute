@@ -29,7 +29,7 @@ Applicants must submit the following documents: 1) a curriculum vitae, 2) a stat
 
 **In order to be guaranteed full consideration, all application materials must be submitted by {app due date not yet determined}.** All application materials must be submitted through this https://forms.gle/BVQrUJQNLyc2THtQ7. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by {decision date not yet determined}, and will ask participants to confirm their participation very soon thereafter.
 
-Inquiries can be sent to (sicss.fau@gmail.com).
+Inquiries can be sent to sicss.fau@gmail.com.
 
 ## Application Frequently Asked Questions
 
