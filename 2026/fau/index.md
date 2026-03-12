@@ -13,7 +13,7 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is restricted to advanced Ph.D. students, postdoctoral researchers, junior faculties, and industry researchers (within 7 years of their Ph.D). We welcome applicants from all backgrounds and fields of study, especially junior faculty from neighboring institutions near Boca Raton, FL. About 25-30 participants will be invited. Most participants are expected to fully attend and participate in the entire 8-day program, but we are open to alternative arrangements for faculty members. 
 
-                                                                                             **Program Description**
+                                                                              **Program Description**
 This five-day intensive institute provides an interdisciplinary introduction to data science, statistics, and machine learning, with a particular focus on applications in healthcare and social services. The program is designed for graduate students, postdoctoral researchers, early-career scholars, and professionals who are interested in using computational and data-driven approaches to address complex social and health-related problems.
 
 The institute combines theoretical lectures with hands-on programming sessions to help participants develop both conceptual understanding and practical skills. Morning lectures introduce key topics such as data science foundations, statistical reasoning, traditional machine learning models, and model interpretability. Afternoon sessions provide applied training using Python and R, allowing participants to implement analytical techniques on real-world datasets.
