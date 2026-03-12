@@ -26,7 +26,7 @@ By the end of the program, participants will gain foundational skills in data sc
 The institute concludes with project discussions and a certificate distribution ceremony recognizing participants’ successful completion of the program.
 
 
-**Application materials are due on 10th April [11.59PM, EST], 2026**.
+**Application materials are due on Friday, 10th April [11.59PM, EST], 2026**.
 Please apply throgh this [LINK](https://forms.gle/R5p8VCrzCm3Yhc8w9)
 
 [//]: # (ORGANIZERS: feel free to add a link to your application materials or your SICSS apply page above.)
