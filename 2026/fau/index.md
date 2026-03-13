@@ -11,7 +11,7 @@ From June 1 to June 5, 2026 [Florida Atlantic University's](https://www.fau.edu/
 
 The instructional program will involve lectures, group problem sets, and participant-led research projects, with a special emphasis on causal inference. There will also be outside speakers who conduct computational social science research in a variety of settings, such as academia, industry, and government. Topics covered include causal inference with observational data, text analysis, network analysis, survey experiments, and machine learning. There will be ample opportunities for students to discuss their ideas and research with the organizers, other participants, and visiting speakers. Because we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute will be released open source.
 
-Participation is restricted to advanced Ph.D. students, postdoctoral researchers, junior faculties, and industry researchers (within 7 years of their Ph.D). We welcome applicants from all backgrounds and fields of study, especially junior faculty from neighboring institutions near Boca Raton, FL. About 25-30 participants will be invited. Most participants are expected to fully attend and participate in the entire 8-day program, but we are open to alternative arrangements for faculty members. 
+Participation is restricted to advanced Ph.D. students, postdoctoral researchers, junior faculty, and industry researchers (within 5 years of their Ph.D). We welcome applicants from all backgrounds and fields of study, especially junior faculty from neighboring institutions near Boca Raton, FL. About 25-30 participants will be invited. Most participants are expected to fully attend and participate in the entire 8-day program, but we are open to alternative arrangements for faculty members. It is expected that participants will attend the entire 5-day on-campus program and complete the remainder of their project from home following the institute. 
 
 **Program Overview**
 
@@ -26,7 +26,7 @@ By the end of the program, participants will gain foundational skills in data sc
 The institute concludes with project discussions and a certificate distribution ceremony recognizing participants’ successful completion of the program.
 
 
-**Application materials are due on Friday, 10th April [11.59PM, EST], 2026**.
-Please apply throgh this [LINK](https://forms.gle/R5p8VCrzCm3Yhc8w9)
+**Applications are to be submitted through the following Google Form by Friday, April 10, 2026 at 11:59pm**.
+  Please apply throgh this **[LINK](https://forms.gle/R5p8VCrzCm3Yhc8w9)**
 
 [//]: # (ORGANIZERS: feel free to add a link to your application materials or your SICSS apply page above.)
