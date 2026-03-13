@@ -1,7 +1,7 @@
 - name: "Yang Chen"
   image: /assets/images/nyushanghai2025/yangchen.jpg
   bio: "Yang Chen is a Professor within the College of Computer Science and Artificial Intelligence at Fudan University, and leads the Big Data and Networking (DataNET) group at Fudan. From April 2011 to September 2014, he was a postdoctoral associate at the Department of Computer Science, Duke University, USA, where he served as Senior Personnel in the NSF Mobility First project. From September 2009 to April 2011, he has been a research associate and the deputy head of Computer Networks Group, Institute of Computer Science, University of Goettingen, Germany. He received his B.S. and Ph.D. degrees from Department of Electronic Engineering, Tsinghua University in 2004 and 2009, respectively. He visited Stanford University (in 2007) and Microsoft Research Asia (2006-2008) as a visiting student. He was a Nokia Visiting Professor at Aalto University in 2019. His research interests include online social networks, Internet architecture and urban computing. He serves as a Senior Associate Editor of the ACM Transactions on Social Computing, an Associate Editor-in-Chief of the Journal of Social Computing, and an Editorial Board Member of Elsevier Computer Communications. He served as a OC / SPC / PC Member for many international conferences, including SOSP, SIGCOMM, WWW, IMC, IJCAI, AAAI, ECAI, DASFAA, IWQoS, ICCCN, GLOBECOM and ICC. He is a senior member of ACM/IEEE, and a Fellow of the Royal Geographical Society."
-  website: -
+  website: https://chenyang03.wordpress.com/
 
 - name: "Speaker info coming soon." # Speaker name goes here.
   image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
