@@ -28,7 +28,7 @@ Applicants must submit the following documents:
 
 - A curriculum vitae (max 4 pages).
 - A motivation letter (max three pages) describing why you wish to attend SICSS-WitsStAndrews, your current research interests, and a brief description of your planned project with clear objectives and potential data sources.
-To ensure full consideration, all application materials must be submitted online via https://forms.gle/P3uCcjLhtfAPtGPd7 by 10 April 2026. Successful applicants will be notified by 01 May 2026.
+To ensure full consideration, all application materials must be submitted online via https://forms.gle/P3uCcjLhtfAPtGPd7 by 20 April 2026. Successful applicants will be notified by 08 May 2026.
 
 Inquiries can be sent to pedzisai.ndagurwa@wits.ac.za and eoo1@st-andrews.ac.uk 
 
