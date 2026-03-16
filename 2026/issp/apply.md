@@ -26,7 +26,7 @@ Les candidats doivent soumettre les documents suivants : 1) Un curriculum vitae;
 - Votre expérience et/ou votre intérêt pour la recherche collaborative. La réalisation d'un projet de recherche collaboratif est une composante essentielle de SICSS-ISSP-UQAM.
 - Un sujet, une méthode ou une question sur lesquels vous aimeriez vous concentrer dans le cadre d’un projet collaboratif
 
-**Pour bénéficier d'un examen complet de votre candidature, tous les documents doivent être soumis au plus tard le 15 avril**. Les documents doivent être téléchargés via ce [formulaire Google](https://forms.gle/anMSdmovbMF6Thev7). Les candidatures incomplètes à la date limite pourraient ne pas être prises en compte. Les candidats recevront une notification exclusivement par courriel à partir du **20 avril** et devront confirmer rapidement leur participation.
+**Pour bénéficier d'un examen complet de votre candidature, tous les documents doivent être soumis au plus tard le 30 avril**. Les documents doivent être téléchargés via ce [formulaire Google](https://forms.gle/anMSdmovbMF6Thev7). Les candidatures incomplètes à la date limite pourraient ne pas être prises en compte. Les candidats recevront une notification exclusivement par courriel à partir du **15 mai** et devront confirmer rapidement leur participation.
 
 Pour toute question, veuillez écrire à adresse e-mail suivant: **sicss.issp@gmail.com**.
 
