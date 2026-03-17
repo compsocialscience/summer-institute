@@ -1,8 +1,9 @@
 ---
-layout: location_detail
-partner_site: melbourne
-schedule: true
+layout: page
+title: Schedule
+permalink: /melbourne/schedule/
 ---
+
 
 # Preliminary Program
 
