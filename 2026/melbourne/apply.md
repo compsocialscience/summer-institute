@@ -61,3 +61,11 @@ Yes, but not at the same time. For example, you can apply to SICSS-Melbourne, an
 
 #### Can I participate in SICSS-Melbourne if I have already participated in SICSS at another location?
 Unfortunately, no. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
+
+<br>
+<hr>
+<br>
+
+<img src="/assets/images/melbourne-ardc.svg" alt="Australian Research Data Commons Logo" style="max-width: 500px; margin-bottom: 15px;">
+
+The Australian Internet Observatory received co-investment from the Australian Research Data Commons (ARDC) through the HASS and Indigenous Research Data Commons. The ARDC is enabled by the National Collaborative Research Infrastructure Strategy (NCRIS). Please share your feedback by emailing us at [aio@rmit.edu.au](mailto:aio@rmit.edu.au).
