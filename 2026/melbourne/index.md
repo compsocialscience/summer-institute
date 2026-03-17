@@ -26,9 +26,10 @@ To support the interdisciplinary nature and spirit of this event, we welcome ear
 
 Applications will be open from **23 March 2026 to 30 April 2026**. A link to submit an application will be made available here during that time.
 
-[//]: # (ORGANIZERS: feel free to add a link to your application materials or your SICSS apply page above.)
+<br>
+<hr>
+<br>
 
----
-image: /assets/images/melbourne-ardc.svg
----
-The Australian Internet Observatory received co-investment from the Australian Research Data Commons (ARDC) through the HASS and Indigenous Research Data Commons. The ARDC is enabled by the National Collaborative Research Infrastructure Strategy (NCRIS). Please share your feedback by emailing us at aio@rmit.edu.au.
+<img src="/assets/images/melbourne-ardc.svg" alt="Australian Research Data Commons Logo" style="max-width: 300px; margin-bottom: 15px;">
+
+The Australian Internet Observatory received co-investment from the Australian Research Data Commons (ARDC) through the HASS and Indigenous Research Data Commons. The ARDC is enabled by the National Collaborative Research Infrastructure Strategy (NCRIS). Please share your feedback by emailing us at [aio@rmit.edu.au](mailto:aio@rmit.edu.au).
