@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Schedule
-permalink: /melbourne/schedule/
+permalink: /melbourne/schedule.md
 ---
 
 
