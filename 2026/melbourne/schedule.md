@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Schedule
-permalink: schedule
+layout: location_detail
+partner_site: melbourne
 ---
 
 # Preliminary Program
