@@ -10,7 +10,7 @@
   website: https://www.google.com  # Link faculty website here.
 
   # Add more faculty with the same format as above...
-- name: "Faculty info coming soon." # Add faculty name here.
+- name: "David Newman" # Add faculty name here.
   image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
   bio: "Check back soon for updates." # Add faculty bio here.
   website: https://www.google.com  # Link faculty website here.
@@ -18,5 +18,5 @@
   # Add more faculty with the same format as above...
 - name: "Faculty info coming soon." # Add faculty name here.
   image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
-  bio: "Check back soon for updates." # Add faculty bio here.
+  bio: "I’m Dr. Alan Kunz-Lomelin, Assistant Professor in the School of Social Work at Florida Atlantic University and a Licensed Clinical Social Worker (LCSW). My work focuses on the next era of behavioral health and human services, where artificial intelligence and large language models become part of the infrastructure of care, education, and research. I examine how these tools can strengthen human judgment rather than replace it by augmenting clinical workflows, expanding access to high-quality information, supporting training and supervision, and accelerating research in mental health and substance use systems, while also addressing the governance, workforce, and accountability challenges that emerge at scale. Methodologically, I draw on quantitative approaches, applied AI, and social network analysis to connect innovation with measurable outcomes and system readiness." # Add faculty bio here.
   website: https://www.google.com  # Link faculty website here.
