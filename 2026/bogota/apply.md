@@ -23,7 +23,7 @@ Applicants must submit the following documents: (i) submit their curriculum vita
 In order to be guaranteed full consideration, all application materials must be submitted by April 13, 2026, at 23:59 COL. All application materials must be submitted through this form. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail in June, and will ask participants to confirm their participation very soon thereafter.
 
 
-**In order to be guaranteed full consideration, all application materials must be submitted by April 13, 2026, at 23:59.** All application materials must be submitted through this [Google Form]([https://www.google.com](https://docs.google.com/forms/d/e/1FAIpQLSefVsl7fCt1-C6qCBLalnY9Hf9K_AjTOxdsQu_QrzJGwxeCCQ/viewform?usp=dialog)). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 27, 2026, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by April 13, 2026, at 23:59.** All application materials must be submitted through this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSefVsl7fCt1-C6qCBLalnY9Hf9K_AjTOxdsQu_QrzJGwxeCCQ/viewform?usp=dialog). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by April 27, 2026, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to oscar.maldonado@urosario.edu.co
 
