@@ -293,3 +293,12 @@ Participants work exclusively in their formed groups on their collaborative rese
 ### Day 10 (Friday)
 **Project Presentations & Closing**  
 Participants will present the preliminary findings, methodologies, and proposed solutions from their collaborative week-long projects. The program will conclude with final feedback, networking, and closing remarks.
+
+
+<br>
+<hr>
+<br>
+
+<img src="/assets/images/melbourne-ardc.svg" alt="Australian Research Data Commons Logo" style="max-width: 500px; margin-bottom: 15px;">
+
+The Australian Internet Observatory received co-investment from the Australian Research Data Commons (ARDC) through the HASS and Indigenous Research Data Commons. The ARDC is enabled by the National Collaborative Research Infrastructure Strategy (NCRIS). Please share your feedback by emailing us at [aio@rmit.edu.au](mailto:aio@rmit.edu.au).
