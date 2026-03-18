@@ -11,7 +11,7 @@
 
   # Add more faculty with the same format as above...
 - name: "David Newman" # Add faculty name here.
-  image: /assets/images/Capture.png  # Add faculty image to assets/images/ and update here.
+  image: /assets/images/Capture.PNG  # Add faculty image to assets/images/ and update here.
   bio: "David Newman, PhD, is a Professor and Biostatistician at Christine E. Lynn College of Nursing, Florida Atlantic University. He is also one of the seven faculty members assigned to the Biostatistician Core and helps to support research across the university.  Dr. Newman has more than 100 scholarly publications, teaches advanced statistics and research methodology classes in the Ph.D. program with a focus on longitudinal data analysis using generalized linear mixed models, latent growth models, and machine learning and AI models. Dr. Newman is the principal investigator or co-investigator on multiple NIH and other federal, state, and foundation grants.  His research aligns with two of FAU's research pillars, the Institute for Human Health and Disease Intervention (I-HEALTH) and the Institute for Sensing and Embedded Network Systems Engineering (I-SENSE). Dr. Newman’s CON’s research focuses on areas of aging across the lifespan, with a concentration on geriatrics, cognitive functioning, physical functioning, and pain management. The partnership between I-HEALTH and I-SENSE has enabled Dr. Newman and his co-researchers to obtain more precise continuous measurements of key variables, thereby enhancing the accuracy and stability of the models.  " # Add faculty bio here.
   website: https://www.linkedin.com/in/david-newman-ph-d-5b275672/  # Link faculty website here.
 
@@ -23,7 +23,7 @@
   
   # Add more faculty with the same format as above...
 - name: "Subhosit Ray" # Add faculty name here.
-  image: /assets/images/Dr.Ray.png  # Add faculty image to assets/images/ and update here.
+  image: /assets/images/Dr.Ray.jpg  # Add faculty image to assets/images/ and update here.
   bio: "Subhosit Ray, PhD, is a Senior Research Fellow in Data Science at the Christine E. Lynn College of Nursing, Florida Atlantic University. His research applies computational methods and machine learning to large-scale social and health datasets, including geospatial and GPS-derived behavioral data and population-scale electronic health records. His work focuses on identifying patterns of human behavior and health outcomes using data-driven approaches, with applications in detecting cognitive change, modeling disease risk, and understanding population-level health dynamics.
 Dr. Ray’s recent research includes developing explainable machine learning models using large-scale research platforms such as the All of Us Research Workbench to identify early predictors of Alzheimer’s disease and related dementias. He has also contributed to predictive modeling and interpretable machine learning approaches to study disease severity in infectious diseases such as COVID-19.
 Dr. Ray completed his PhD in the Department of Psychology at Florida Atlantic University, where his doctoral research focused on developing self-organizing deep learning architectures for reinforcement learning using graph cellular automata. In addition to his work in healthcare data science, he has experience in biomedical signal processing, including analyzing EEG signals to study the frequency dynamics of visual attention and developing computational approaches to analyze ECG data for identifying sources of atrial fibrillation.
