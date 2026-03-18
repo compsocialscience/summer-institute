@@ -12,14 +12,14 @@
   # Add more faculty with the same format as above...
 - name: "David Newman" # Add faculty name here.
   image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
-  bio: "Check back soon for updates." # Add faculty bio here.
+  bio: "David Newman, PhD, is a Professor and Biostatistician at Christine E. Lynn College of Nursing, Florida Atlantic University. He is also one of the seven faculty members assigned to the Biostatistician Core and helps to support research across the university.  Dr. Newman has more than 100 scholarly publications, teaches advanced statistics and research methodology classes in the Ph.D. program with a focus on longitudinal data analysis using generalized linear mixed models, latent growth models, and machine learning and AI models. Dr. Newman is the principal investigator or co-investigator on multiple NIH and other federal, state, and foundation grants.  His research aligns with two of FAU's research pillars, the Institute for Human Health and Disease Intervention (I-HEALTH) and the Institute for Sensing and Embedded Network Systems Engineering (I-SENSE). Dr. Newman’s CON’s research focuses on areas of aging across the lifespan, with a concentration on geriatrics, cognitive functioning, physical functioning, and pain management. The partnership between I-HEALTH and I-SENSE has enabled Dr. Newman and his co-researchers to obtain more precise continuous measurements of key variables, thereby enhancing the accuracy and stability of the models.  " # Add faculty bio here.
   website: https://www.google.com  # Link faculty website here.
 
   # Add more faculty with the same format as above...
 - name: "Alan Kunz-Lomelin" # Add faculty name here.
   image: /assets/images/Alan.png  # Add faculty image to assets/images/ and update here.
   bio: "I’m Dr. Alan Kunz-Lomelin, Assistant Professor in the School of Social Work at Florida Atlantic University and a Licensed Clinical Social Worker (LCSW). My work focuses on the next era of behavioral health and human services, where artificial intelligence and large language models become part of the infrastructure of care, education, and research. I examine how these tools can strengthen human judgment rather than replace it by augmenting clinical workflows, expanding access to high-quality information, supporting training and supervision, and accelerating research in mental health and substance use systems, while also addressing the governance, workforce, and accountability challenges that emerge at scale. Methodologically, I draw on quantitative approaches, applied AI, and social network analysis to connect innovation with measurable outcomes and system readiness." # Add faculty bio here.
-  website:  www.linkedin.com/in/akunzlo  # Link faculty website here.
+  website:  https://www.linkedin.com/in/akunzlo/  # Link faculty website here.
   
   # Add more faculty with the same format as above...
 - name: "Subhosit Ray" # Add faculty name here.
