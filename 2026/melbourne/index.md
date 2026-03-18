@@ -30,10 +30,10 @@ Applications will be open from **23 March 2026 to 30 April 2026**. A link to sub
 <hr>
 <br>
 
-<a href="https://internetobservatory.org.au/" target="_blank" rel="noopener noreferrer"><img src="/assets/images/melbourne-aio.png" alt="Australian Internet Observatory" style="max-width: 250px; margin-bottom: 15px;"></a><a href="https://www.admscentre.org.au/" target="_blank" rel="noopener noreferrer"><img src="/assets/images/melbourne-adms.jpg" alt="ARC Centre for Automated Decision Making and Society" style="max-width: 250px; margin-bottom: 15px;"></a>
+<a href="https://internetobservatory.org.au/" target="_blank" rel="noopener noreferrer"><img src="/assets/images/melbourne-aio.png" alt="Australian Internet Observatory" style="max-width: 400px; margin-bottom: 15px;"></a><a href="https://www.admscentre.org.au/" target="_blank" rel="noopener noreferrer"><img src="/assets/images/melbourne-adms.jpg" alt="ARC Centre for Automated Decision Making and Society" style="max-width: 400px; margin-bottom: 15px;"></a>
 
 <br>
 
-<img src="/assets/images/melbourne-ardc.svg" alt="Australian Research Data Commons Logo" style="max-width: 500px; margin-bottom: 15px;">
+<img src="/assets/images/melbourne-ardc.svg" alt="Australian Research Data Commons Logo" style="max-width: 800px; margin-bottom: 15px;">
 
 The Australian Internet Observatory received co-investment from the Australian Research Data Commons (ARDC) through the HASS and Indigenous Research Data Commons. The ARDC is enabled by the National Collaborative Research Infrastructure Strategy (NCRIS). Please share your feedback by emailing us at [aio@rmit.edu.au](mailto:aio@rmit.edu.au).
