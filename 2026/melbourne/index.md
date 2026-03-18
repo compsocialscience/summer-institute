@@ -30,7 +30,7 @@ Applications will be open from **23 March 2026 to 30 April 2026**. A link to sub
 <hr>
 <br>
 
-<a href="https://internetobservatory.org.au/" target="_blank" rel="noopener noreferrer"><img src="/assets/images/melbourne-aio.png" alt="Australian Internet Observatory" style="max-width: 500px; margin-bottom: 15px;"></a><a href="https://www.admscentre.org.au/" target="_blank" rel="noopener noreferrer"><img src="/assets/images/melbourne-adms.png" alt="ARC Centre for Automated Decision Making and Society" style="max-width: 250px; margin-bottom: 15px;"></a>
+<div class="container"><a href="https://internetobservatory.org.au/" target="_blank" rel="noopener noreferrer"><img src="/assets/images/melbourne-aio.png" alt="Australian Internet Observatory" style="max-width: 500px; margin-bottom: 15px;"></a><a href="https://www.admscentre.org.au/" target="_blank" rel="noopener noreferrer"><img src="/assets/images/melbourne-adms.png" alt="ARC Centre for Automated Decision Making and Society" style="max-width: 250px; margin-bottom: 15px;"></a></div>
 
 <br>
 
