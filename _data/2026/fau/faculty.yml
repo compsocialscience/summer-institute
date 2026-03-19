@@ -7,7 +7,7 @@
 - name: "Morgan Cooley" # Add faculty name here.
   image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
   bio: "Check back soon for updates." # Add faculty bio here.
-  website: https://www.google.com  # Link faculty website here.
+  website: https://www.fau.edu/sw-cj/ssw/faculty-and-staff/people/cooley/  # Link faculty website here.
 
   # Add more faculty with the same format as above...
 - name: "David Newman" # Add faculty name here.
