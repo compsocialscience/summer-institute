@@ -10,7 +10,7 @@ partner_site: fau
 
 ## Eligibility
 
-We invite applicants from advanced Ph.D. students, postdoctoral researchers, and faculty within 7 years of their Ph.D., who are able to attend the program in Boca Raton, FL. We welcome applicants from all backgrounds and fields of study, particularly about Healthcare and Public Service participants will be invited. However, there are no restrictions based on citizenship, country of study, or country of employment. 
+We invite applicants from advanced Ph.D. students, postdoctoral researchers, and faculty within 7 years of their Ph.D., who are able to attend the program in-person at Boca Raton, FL. We welcome applicants from all backgrounds and fields of study, particularly about Healthcare and Public Service participants will be invited. However, there are no restrictions based on citizenship, country of study, or country of employment. 
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp.
 
@@ -26,7 +26,7 @@ Applicants must submit the following documents: 1) a curriculum vitae, 2) a stat
 - Your experience and/or interest in collaborative research. Carrying out a collaborative research project is a core component of SICSS-FAU.
 - A possible topic, method, or question you would like to focus on for a collaborative project
 
-**In order to be guaranteed full consideration, all application materials must be submitted by Friday 10th April, 2026 Midnight (EST).** All application materials must be submitted through this [Google Form](https://forms.gle/BVQrUJQNLyc2THtQ7). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by late April, 2026, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by Sunday 19th April, 2026 Midnight (EST).** All application materials must be submitted through this [Google Form](https://forms.gle/BVQrUJQNLyc2THtQ7). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by 4th May, 2026, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to sicss.fau@gmail.com.
 
