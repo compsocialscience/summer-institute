@@ -89,12 +89,7 @@ _Please note: The schedule is subject to change. Check back for the latest updat
       <td>45-minute presentation + 15-minute Q&amp;A</td>
     </tr>
     <tr>
-      <td><small>3:30 – 4:30 PM</small></td>
-      <td>Closing Panel Discussion / Open Forum / Structured Networking</td>
-      <td><em>Format TBD</em></td>
-    </tr>
-    <tr>
-      <td><small>4:30 PM</small></td>
+      <td><small>3:30 PM</small></td>
       <td>Closing Remarks</td>
       <td></td>
     </tr>
