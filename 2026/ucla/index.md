@@ -15,6 +15,6 @@ The ultimate goal of the week will be to equip participants with the tools to ca
 
 Participation is restricted to advanced Ph.D. students, postdoctoral researchers, and junior faculty (within 7 years of their Ph.D). We welcome applicants from all backgrounds and fields of study, especially junior faculty from neighboring institutions near Los Angeles. About 25-30 participants will be invited. Most participants are expected to fully attend and participate in the entire 5-day program, but we are open to alternative arrangements for faculty members.
 
-Application materials are due on **April 15, 2026, by 23:59 PT**.
+Application materials are due on **April 20, 2026, by 23:59 PT**.
 
 [//]: # (ORGANIZERS: feel free to add a link to your application materials or your SICSS apply page above.)
