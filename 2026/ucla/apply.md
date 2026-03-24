@@ -27,7 +27,7 @@ Applicants must submit the following documents: 1) a curriculum vitae, 2) a stat
 - Your experience and/or interest in collaborative research. Carrying out a collaborative research project is a core component of SICSS-UCLA.
 - A possible topic, method, or question you would like to focus on for a collaborative project
 
-**In order to be guaranteed full consideration, all application materials must be submitted by April 15, 2026.** All application materials must be submitted through this [Google Form](https://forms.gle/uNjAAXrUhytBW1tw9). Applications submitted after the deadline may not receive full consideration. We will notify applicants solely by email by May 1, 2026, and will ask participants to confirm their participation by May 8, 2026.
+**In order to be guaranteed full consideration, all application materials must be submitted by April 20, 2026.** All application materials must be submitted through this [Google Form](https://forms.gle/uNjAAXrUhytBW1tw9). Applications submitted after the deadline may not receive full consideration. We will notify applicants solely by email by May 1, 2026, and will ask participants to confirm their participation by May 8, 2026.
 
 Inquiries can be sent to **sicss.ucla@gmail.com**.
 
