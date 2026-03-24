@@ -9,7 +9,7 @@ partner_site: ucla
 
 **Application to SICSS-UCLA 2026 is now open!**
 
-**Deadline to apply: April 15, 2026, 23:59 PM Pacific Time**
+**Deadline to apply: April 20, 2026, 23:59 PM Pacific Time**
 
 ## Eligibility
 
