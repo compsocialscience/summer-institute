@@ -37,7 +37,7 @@ Inquiries can be sent to <a href="mailto:sicss@internetobservatory.org.au">sicss
 
 ### Application Form
 
-Will be activated once applications are accepted.
+Will be activated once we begin accepting applications.
 
 <!-- <div class="form-container" style="width: 100%; display: flex; justify-content: center; margin-top: 20px; margin-bottom: 40px;">
   <iframe 
