@@ -1,5 +1,48 @@
-- date: "July 14 - July 23, 2026"
-  events:
-    - name: "Schedule coming soon. Check back for updates!" # Update this line or add markdown for your site's schedule.
 
-  # Our tentative schedule can be seen [here](www.google.com). Our program focuses on ... . We will invite guest speakers to provide an overview of ..."
+- date: 2026-07-13
+  name: Introduction and Ethics
+  events:
+    - name: "10:00 - Start time"
+    - name: "4:30 - End time"
+
+- date: 2026-07-14
+  name: Digital Trace Data
+  events:
+    - name: "10:00 - Start time"
+    - name: "4:30 - End time"
+
+- date: 2026-07-15
+  name: Text as Data
+ events:
+    - name: "10:00 - Start time"
+    - name: "4:30 - End time"
+
+- date: 2026-07-16
+  name: Surveys & Experiements
+  events:
+    - name: "10:00 - Start time"
+    - name: "4:30 - End time"
+
+- date: 2026-07-17
+  name: Group Project Formation
+  events:
+    - name: "10:00 - Start time"
+    - name: "4:30 - End time"
+
+- date: 2025-07-20
+  name: Group work self-scheduled
+
+- date: 2025-07-21
+  name: Group work self-scheduled
+
+- date: 2025-07-22
+  name: Group work self-scheduled
+
+- date: 2025-07-23
+  name: Group work self-scheduled
+
+- date: 2025-07-24
+  name: Presentation Day
+  events:
+    - name: "1:00 - 3:30 Final Presentations"
+    - name: "3:30 - 4:00 Program Celebration"
