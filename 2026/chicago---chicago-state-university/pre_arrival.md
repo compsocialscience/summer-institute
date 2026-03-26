@@ -7,7 +7,7 @@ partner_site: chicago---chicago-state-university
 
 # Pre-arrival
 
-The Summer Institute will bring together people from many fields and backgrounds. In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS-Chicago - Chicago State University 2026.
+The Summer Institute will bring together people from many fields and backgrounds. In order to use our time together efficiently, there are a number of things that you should do before participating in SICSS Chicago - Chicago State University 2026.
 
 - Complete the pre-read
 - Complete coding bootcamp (if needed)
