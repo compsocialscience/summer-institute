@@ -15,6 +15,6 @@ image: /assets/images/SICSS NIGERIA IMAGE.PNG
 
 <p align='justify'>Application materials are due on April 30, 2026.</p>
 
-<p align='justify'>For enquiries, email sicssnigeria@gmail.com</p>
+<p align='justify'>For enquiries, email:<a href='https://sicssnigeria@gmail.com'>sicssnigeria@gmail.com</a></p>
 
 [//]: # (ORGANIZERS: feel free to add a link to your application materials or your SICSS apply page above.)
