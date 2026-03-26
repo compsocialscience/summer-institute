@@ -35,9 +35,7 @@ We particularly encourage applications from:
 <p align='justify'>-1) A Curriculum Vitae (CV)</p> 
 <p align='justify'>-2) A brief statement about why you wish to attend SICSS-Nigeria, Uyo 2026 (Not more than 500 words)</p>
 <p align='justify'>-3) Share a writing sample (this could be any piece of writing you own. Published or unpublished)</p> 
-<p align='justify'>-4) A supporting letter from a supervisor/head of department/line manager/mentor that can attest to applicant’s competence/potential and availability.</p>
-
- <p align='justify'>describing:</p>
+<p align='justify'>-4) A supporting letter from a supervisor/head of department/line manager/mentor that can attest to applicant’s competence/potential and availability describing:</p>
 
 <p align='justify'>- Your current research</p>
 <p align='justify'>- Why you want to participate in SICSS-Uyo (Not more than 500 words)</p>
@@ -45,7 +43,7 @@ We particularly encourage applications from:
 <p align='justify'>- Your experience and/or interest in collaborative research. Carrying out a collaborative research project is a core component of SICSS-Nigeria Uyo.</p>
 <p align='justify'>- A possible topic, method, or question you would like to focus on for a collaborative project</p>
 
-<p align='justify'>In order to be guaranteed full consideration, all application materials must be submitted by April 30, 2026.** All application materials must be submitted through this <a href='https://forms.gle/zqBMARnTPTm6MDz2A'> Application Link</a> . Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by May 31, 2026, and will ask participants to confirm their participation thereafter.</p>
+<p align='justify'>In order to be guaranteed full consideration, all application materials must be submitted by April 30, 2026. All application materials must be submitted through this <a href='https://forms.gle/zqBMARnTPTm6MDz2A'> Application Link</a> . Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by May 31, 2026, and will ask participants to confirm their participation thereafter.</p>
 
 Inquiries can be sent to <a href='https://sicssnigeria@gmail.com'> sicssnigeria@gmail.com</a> 
 
@@ -53,8 +51,8 @@ Inquiries can be sent to <a href='https://sicssnigeria@gmail.com'> sicssnigeria@
 
 #### Can I apply to more than one Summer Institute location?
 
-Yes, but not at the same time. For example, you can apply to SICSS-Nigeria Uyo, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.
+<p align='justify'>Yes, but not at the same time. For example, you can apply to SICSS-Nigeria Uyo, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.</p>
 
 #### Can I participate in SICSS-Nigeria Uyo if I have already participated in SICSS at another location?
 
-Unfortunately, no. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
+<p align='justify'>Unfortunately, no. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.</p>
