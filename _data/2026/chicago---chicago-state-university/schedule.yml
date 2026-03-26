@@ -13,7 +13,7 @@
 
 - date: 2026-07-15
   name: Text as Data
- events:
+  events:
     - name: "10:00 - Start time"
     - name: "4:30 - End time"
 
