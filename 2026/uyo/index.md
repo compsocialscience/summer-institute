@@ -13,7 +13,7 @@ image: /assets/images/SICSS NIGERIA IMAGE.PNG
 
 <p align='justify'> Participation is restricted to postgraduate students, postdoctoral researchers, and academics. We welcome applicants from all backgrounds, fields of study and location (applicants from tertiary institutions in Uyo, Nigeria are highly encouraged). 20 participants will be invited. Participants are expected to fully attend (in-person and hybrid) and participate in the entire 10-day program.</p> 
 
-<p align='justify'>Application materials are due on April 30, 2026.</p>
+<p align='justify'>Application materials are due by April 30, 2026.</p>
 
 <p align='justify'>For enquiries, email:<a href='https://sicssnigeria@gmail.com'>sicssnigeria@gmail.com</a></p>
 
