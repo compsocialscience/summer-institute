@@ -10,7 +10,7 @@ partner_site: fau
 
 ## Eligibility
 
-We invite applicants who are advanced Ph.D. students, postdoctoral researchers, or faculty within 7 years of their Ph.D., and who are able to attend the program in Boca Raton, Florida. We welcome applicants from all backgrounds and fields of study, particularly those in healthcare and public service. There are no restrictions based on citizenship, country of study, or country of employment.
+We invite applicants who are Ph.D. students, postdoctoral researchers, or faculty within 7 years of their Ph.D., and who are able to attend the program in Boca Raton, Florida. We welcome applicants from all backgrounds and fields of study, particularly those in healthcare and public service. There are no restrictions based on citizenship, country of study, or country of employment.
 The Summer Institute aims to bring together computational social scientists at all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience with coding will be expected to complete the SICSS boot camp.
 
 We evaluate applicants along a number of dimensions: 
