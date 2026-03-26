@@ -12,25 +12,27 @@ partner_site: fau
 
 We invite applicants who are advanced Ph.D. students, postdoctoral researchers, or faculty within 7 years of their Ph.D., and who are able to attend the program in Boca Raton, Florida. We welcome applicants from all backgrounds and fields of study, particularly those in healthcare and public service. There are no restrictions based on citizenship, country of study, or country of employment.
 The Summer Institute aims to bring together computational social scientists at all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience with coding will be expected to complete the SICSS boot camp.
+
 We evaluate applicants along a number of dimensions: 
 1) research and teaching in the area of computational social science
 2) contributions to public goods, such as creating open-source software, curating public datasets, and creating educational opportunities for others
 3) likelihood to benefit from participation
 4) likelihood to contribute to the educational experience of other participants
 5) potential to spread computational social science to new intellectual communities and areas of research. 
+
 Further, when evaluating applicants, we aim to account for an applicant’s career stage and prior educational opportunities.
 
 ## How To Apply
 
-Applicants must submit the following documents: 1) a curriculum vitae, 2) a statement (maximum two pages double-spaced) describing: 
+Applicants must submit a curriculum vitae and a professional statement (maximum two pages, double-spaced) describing:
 
-- Your current research
-- Why you want to participate in SICSS-FAU
-- How participation will aid your future research
-- Your experience and/or interest in collaborative research. Carrying out a collaborative research project is a core component of SICSS-FAU.
-- A possible topic, method, or question you would like to focus on for a collaborative project
+•	Current research
+•	Reasons for interest in participating in SICSS-Florida Atlantic
+•	How participation will support future research
+•	Experience and/or interest in collaborative research, as collaborative projects are a core component of SICSS-Florida Atlantic
+•	A potential topic, method, or question to be explored as part of a collaborative project
 
-**In order to be guaranteed full consideration, all application materials must be submitted by Sunday 19th April, 2026 Midnight (EST).** All application materials must be submitted through this [Google Form](https://forms.gle/BVQrUJQNLyc2THtQ7). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by 4th May, 2026, and will ask participants to confirm their participation very soon thereafter.
+**To ensure full consideration, all application materials must be submitted by Friday, April 10, 2026, by 11:59 p.m. (EST).** All application materials must be submitted through this [Google Form](https://forms.gle/BVQrUJQNLyc2THtQ7). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through email by late April 2026 and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to sicss.fau@gmail.com.
 
