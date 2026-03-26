@@ -1,5 +1,3 @@
-- name: "TA info coming soon."
-  image: /assets/images/placeholderPic.png
-  bio: "..."
-  website: www.google.com
-# add more TAs with this format below...
+- name: Sierra
+  image: /assets/images/bellphoto.jpg
+  bio: "Sierra Bell is a Ph.D. candidate in the Criminal Justice and Criminology department at Georgia State University. She obtained her Bachelor’s degree and Master’s degree at the University of West Georgia where she has since returned to teach courses on criminology, terrorism, and juvenile justice. Sierra’s research interests involve developing new ways to operationalize and measure fear and fear of crime. She is currently completing her dissertation on understanding fear as an interdisciplinary social scientific concept."
