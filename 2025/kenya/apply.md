@@ -19,7 +19,7 @@ We welcome applicants from all backgrounds and fields of study and they shall be
    
 2) Contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others.
    
-3) Likelihood to benefit from participation
+3) Likelihood to benefit from participation and engagement with other participants
    
 4) Likelihood to contribute to the educational experience of other participants
    
@@ -37,7 +37,7 @@ Applicants must submit the following documents:
 - Your experience and/or interest in collaborative research. Carrying out a collaborative research project is a core component of SICSS-KENYA.
 - A possible topic, method, or question you would like to focus on for a collaborative project
 
-**In order to be guaranteed full consideration, all application materials must be submitted by April 4th, 2025.** All application materials must be submitted through [this form](https://docs.google.com/forms/d/1K-rb33xbY_bNoxZulSq72O1qh_-NHvOcuSaNa-nNTnQ) . Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail, a week after the application deadline, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by April 10th, 2025.** All application materials must be submitted through [this form](https://docs.google.com/forms/d/1K-rb33xbY_bNoxZulSq72O1qh_-NHvOcuSaNa-nNTnQ) . Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail, a week after the application deadline, and will ask participants to confirm their participation very soon thereafter.
 
 Any inquiries can be sent to ``
 
