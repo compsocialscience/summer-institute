@@ -1,4 +1,4 @@
-- name: "Speaker info coming soon." # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " ... " # add speaker bio here
-  website: https://www.google.com # update speaker personal link here
+- name: "José Ramón Enríquez"
+  image: /assets/images/2026/stanford/speakers/speakers-jose-ramon-enriquez.jpg
+  bio: "José Ramón Enríquez is a Postdoctoral Fellow at Stanford GSB and the Institute for Human-Centered AI. He studies how digital technologies can enhance governance and promote prosperity in developing contexts. His recent work centers on AI for civic participation and collective decision-making, misinformation mitigation, and leveraging large language models for economic measurement in data-scarce environments. José Ramón holds a Ph.D. in Political Economy and Government (PEG) from Harvard."
+  website: https://jrenriquez.github.io/
