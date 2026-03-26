@@ -1,6 +1,9 @@
-- name: "Faculty info coming soon." # Add faculty name here.
-  image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
-  bio: "Check back soon for updates." # Add faculty bio here.
-  website: https://www.google.com  # Link faculty website here.
+- name: Kaitlyn Filip
+  image: /assets/images/kfilip.png
+  bio: "Kaitlyn Filip is an Assistant Professor of Library and Information Science at Chicago State University in the Department of Computing, Information, Mathematical Sciences & Technology. Kaitlyn first worked with SICSS as a post-doc in 2024. She has a PhD in Communication Studies, Rhetoric & Public Culture and a JD from Northwestern University. Her research is on data transparency in the US courts. Kaitlyn is also the Communication Director of SCALES OKN, a court data non-profit that works to make court data meaningfully public such that everyone can measure what’s happening in the legal system. She is also currently knitting a black sheep sweater like the one Princess Diana wore in 1983."
+  website: https://www.csu.edu/cimst/faculty/filip.htm
 
-# Add more faculty with the same format as above...
+- name: Kat Albrecht
+  image: /assets/images/albrecht-headshot.jpg
+  bio: "Kat Albrecht is an Assistant Professor at the University of Tulsa College of Law and long-time supporter of SICSS. Kat first worked with SICSS as a participant herself at the first ever SICSS site at Princeton University in 2017. She holds a PhD in sociology and a JD from Northwestern University. She is also a current MFA student at the University of Georgia in the screenwriting program. Kat’s research sits at the intersection of computational social science, the study of fear, and criminal law. She directs her lab - the Fear and Computational Law Lab – which uses innovative methods to measure how fear becomes entangled with U.S. law. Kat is also the Executive Director of the SCALES OKN, a court data non-profit that works to make public data meaningfully public such that everyone can measure what’s happening in the legal system at scale. She is also the North American Director of the Summer Institutes in Computational Social Science. Outside of her academic and non-profit pursuits Kat is a staff writer for Horror DNA where she specializes in reviewing creature features, low-budget horror, and practical special effect films." 
+  website: https://www.katalbrecht.org
