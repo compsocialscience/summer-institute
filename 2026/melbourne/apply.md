@@ -10,6 +10,10 @@ We invite applications from **PhD candidates and early career researchers (ECRs)
 
 Since it is, first and foremost, a learning opportunity, some materials will be provided in advance and remain available during and after the program. That is, participants with less experience in social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete the SICSS boot camp.
 
+## How To Apply
+
+To apply, please complete the form below. You will be asked to provide, in addition to some basic information, a cover letter with your current curriculum vitae in ONE document (PDF or Word). The cover letter should help us understand why you are interested in SICSS and how it aligns with your current research and career goals. It would also be helpful for us to learn more about your experience in computational social science or relevant fields, e.g., coding, collecting and analysing large amounts of data, performing statistical analysis, doing process tracing or causal inference, etc. Our goal is to build a cohort of people excelling in their own areas, and use it as a leverage and opportunity to learn more, bringing scholars from different areas of research together.
+
 We evaluate applications along a number of dimensions:
 1. Likelihood to benefit from participation.
 2. Likelihood to contribute to the educational experience of other participants.
@@ -18,10 +22,6 @@ We evaluate applications along a number of dimensions:
 5. Creating open-source software, curating public datasets, and creating educational opportunities for others.
 
 When making our evaluations, we carefully account for an applicant’s career stage and previous educational/professional opportunities.
-
-## How To Apply
-
-To apply, please complete the form below. You will be asked to provide, in addition to some basic information, a cover letter with your current curriculum vitae in ONE document (PDF or Word). The cover letter should help us understand why you are interested in SICSS and how it aligns with your current research and career goals. It would also be helpful for us to learn more about your experience in computational social science or relevant fields, e.g., coding, collecting and analysing large amounts of data, performing statistical analysis, doing process tracing or causal inference, etc. Our goal is to build a cohort of people excelling in their own areas, and use it as a leverage and opportunity to learn more, bringing scholars from different areas of research together.
 
 *Note: If you are based outside of Melbourne, you will have the opportunity within the form to request a limited, needs-based travel bursary. In the corresponding field, please tell us what expenses you will require assistance with, estimated costs of your flights, and accomodation arrangements. Unfortunately, only a limited number of bursaries is available and while we will do our best to offer as much assistance as we can, the applicants are encouraged to use their own institutional funding where available.*
 
