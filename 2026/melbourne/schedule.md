@@ -66,7 +66,7 @@ We will discuss research that has been produced in the CSS area and made a tangi
 **Session 1 (90 min) — Panel: Ethics in Computational Social Science**  
 *Speakers: To be announced*  
 
-The panel will facilitate a discussion on one of the most critical issues when working with digital data: ethics. Topics will include complying with legislation and terms of service, issues of consent when working with participant data, and satisfying human research ethics committee (HREC) requirements.  
+The panel will facilitate a discussion on one of the most critical issues when working with digital media data: ethics. Topics will include complying with legislation and terms of service, issues of consent when working with participant data, and satisfying human research ethics committee (HREC) requirements.  
 
 *Learning Outcomes:*
 * Make sense of HREC requirements.
@@ -102,7 +102,7 @@ We will introduce and discuss the principles of Indigenous Data Sovereignty in t
 <br>
 
 ### Day 3: Data Collection and Working Across Disciplines
-> **Summary:** Participants will explore different existing and emerging data collection strategies while learning how to work effectively in an interdisciplinary team. By the end of the day, attendees will know how to source and validate digital data responsibly.
+> **Summary:** Participants will explore different existing and emerging data collection strategies while learning how to work effectively in an interdisciplinary team. By the end of the day, attendees will know how to source and validate digital media data responsibly.
 
 <br>
 
