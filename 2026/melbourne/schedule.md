@@ -5,9 +5,9 @@ partner_site: melbourne
 
 # Preliminary Program
 
-We are currently working on a learning system that will accompany our program and provide centralised access to all relevant training materials, details, and updates. We are also in the process of inviting relevant speakers and mentors to support our participants; all confirmed speakers will be listed in the "People" section of this site. 
+We are currently working on providing centralised access to all relevant training materials, details, and updates. We are also in the process of inviting relevant speakers and mentors to support our participants; all confirmed speakers will be listed in the "People" section of this site. 
 
-*Please note: The program outlined below is preliminary. Session descriptions may change at the discretion of our speakers and will be adjusted accordingly. The final program and materials will be shared with participants throughout May and June.*
+*Please note: The program outlined below is preliminary. Session descriptions may change at the discretion of our speakers and will be adjusted accordingly. The final program and materials will be shared with participants throughout May and June. An emphasis will also be placed on networking and social activities that will take place on some of the days, including networking dinner for participants, organisers, and invited speakers.*
 
 <br>
 <hr>
@@ -27,7 +27,7 @@ We will discuss the foundational principles of CSS and its development in the Au
 
 *Learning Outcomes:*
 * Explain what CSS is.
-* Identify its value in HASS&I (Humanities, Arts, Social Sciences, and Indigenous) and interdisciplinary research.
+* Identify its value in HASS and interdisciplinary research.
 * Discuss opportunities for research in CSS across disciplines.
 
 <br>
@@ -200,7 +200,7 @@ We will introduce Retrieval-Augmented Generation (RAG) and its use in research. 
 **Session 4 (90 min) — Workshop: Screen Capture for Data Collection**  
 *Speakers: To be announced*  
 
-Using the Mobile Ad Observatory as an example, we will discuss when and how to collect and analyse video recordings from users’ screens. We will cover the technical and ethical requirements for this form of data collection and how to approach the subsequent analysis.  
+Using the AIO Mobile Screen Capture tools as an example, we will discuss when and how to collect and analyse images, text and other data from users’ screens. We will cover the technical and ethical requirements for this form of data collection and how to approach the subsequent analysis.  
 
 *Learning Outcomes:*
 * Design data donation studies that involve screen capture.
