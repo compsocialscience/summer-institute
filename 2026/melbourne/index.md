@@ -9,13 +9,13 @@ image: /assets/images/Melbourne_SICSS.jpg
 
 From **June 22 to July 3, 2026**, the <a href="https://internetobservatory.org.au/" target="_blank" rel="noopener noreferrer">Australian Internet Observatory (AIO)</a> and the <a href="https://www.admscentre.org.au/" target="_blank" rel="noopener noreferrer">ARC Centre of Excellence for Automated Decision Making and Society (ADM+S)</a> will host a Summer (or Australian Winter) Institute in Computational Social Science in **Melbourne — SICSS-Melbourne!** For this 2-week intensive program, we will bring together PhD candidates and early career researchers to explore innovative techniques that bring computational methodologies and the social sciences together to study our societies and discover new solutions to make them better.
 
-The program will involve a number of workshops and lectures, group activities, and participant-led research projects that will propose solutions to existing, practical problems developed by our academic and industry experts. We will use an arsenal of cutting-edge digital tools for data collection and analysis, discuss them in the context of more traditional social science research, and explore what combining them actually means. 
+The program will involve a number of workshops and lectures, group activities, and participant-led research projects that will propose solutions to existing, practical problems developed by our academic and industry experts. We will use an arsenal of cutting-edge tools for digital platform data collection and analysis, discuss them in the context of more traditional social science research, and explore what combining them actually means. 
 
 Participants will have the chance to learn about the following topics (and beyond):
 * The use and development of more accessible and reproducible tools for data collection and analysis.
 * Data donation frameworks - download packages and screen capture.
 * Web scraping of varying complexity and the use of large language models in research.
-* Ethical aspects of working with digital media data and methods, as well as their countless limitations and how they need to be addressed.
+* Ethical aspects of working with digital platform data and methods, as well as their countless limitations and how they need to be addressed.
 * Indigenous data governance.
 
 There will be numerous opportunities for participants to talk about their research with senior colleagues, organisers, visiting speakers, and others in the cohort. All created materials and topics covered will be released as open-source resources, and participants will be able to incorporate them into their own projects or work with them in the future.
