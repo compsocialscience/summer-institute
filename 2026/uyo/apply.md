@@ -32,15 +32,13 @@ We particularly encourage applications from:
 
 <p align='justify'>Applicants must submit the following documents:</p>
 
-<p align='justify'>-1) A Curriculum Vitae (CV)</p> 
-<p align='justify'>-2) A brief statement about why you wish to attend SICSS-Nigeria, Uyo 2026 (Not more than 500 words)</p>
-<p align='justify'>-3) Share a writing sample (this could be any piece of writing you own. Published or unpublished)</p> 
-<p align='justify'>-4) A supporting letter from a supervisor/head of department/line manager/mentor that can attest to applicant’s competence/potential and availability describing:</p>
+<p align='justify'>(1) A Curriculum Vitae (CV)   (2) A brief statement about why you wish to attend SICSS-Nigeria, Uyo 2026 (Not more than 500 words)  (3) Share a writing sample (this could be any piece of writing you own. Published or unpublished)  (4) A supporting letter from a supervisor/head of department/line manager/mentor that can attest to applicant’s competence/potential and availability describing:</p> 
+
 
 <p align='justify'>- Your current research</p>
 <p align='justify'>- Why you want to participate in SICSS-Uyo (Not more than 500 words)</p>
 <p align='justify'>- How participation will aid your future research</p>
-<p align='justify'>- Your experience and/or interest in collaborative research. Carrying out a collaborative research project is a core component of SICSS-Nigeria Uyo.</p>
+<p align='justify'>- Your experience and/or interest in collaborative research.</p>
 <p align='justify'>- A possible topic, method, or question you would like to focus on for a collaborative project</p>
 
 <p align='justify'>In order to be guaranteed full consideration, all application materials must be submitted by April 30, 2026. All application materials must be submitted through this <a href='https://forms.gle/zqBMARnTPTm6MDz2A'> Application Link</a> . Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by May 31, 2026, and will ask participants to confirm their participation thereafter.</p>
