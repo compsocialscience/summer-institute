@@ -18,7 +18,7 @@ Participants will have the chance to learn about and discuss the use of large la
 * Web scraping of varying complexity
 * Web archiving
 
-We will discuss the ethical aspects of working with digital data and methods, as well as their countless limitations and how they need to be addressed.
+We will discuss the ethical aspects of working with digital media data and methods, as well as their countless limitations and how they need to be addressed.
 
 There will be numerous opportunities for participants to talk about their research with senior colleagues, organisers, visiting speakers, and others in the cohort. All created materials and topics covered will be released as open-source resources, and participants will be able to incorporate them into their own projects or work with them in the future.
 
