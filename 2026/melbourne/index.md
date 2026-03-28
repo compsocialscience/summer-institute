@@ -11,7 +11,7 @@ From **June 22 to July 3, 2026**, the <a href="https://internetobservatory.org.a
 
 The program will involve a number of workshops and lectures, group activities, and participant-led research projects that will propose solutions to existing, practical problems developed by our academic and industry experts. We will use an arsenal of cutting-edge digital tools for data collection and analysis, discuss them in the context of more traditional social science research, and explore what combining them actually means. 
 
-Participants will have the chance to learn about the following topics:
+Participants will have the chance to learn about the following topics (and beyond):
 * The use and development of more accessible and reproducible tools for data collection and analysis.
 * Data donation frameworks - download packages and screen capture.
 * Web scraping of varying complexity and the use of large language models in research.
