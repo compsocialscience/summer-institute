@@ -12,12 +12,11 @@ From **June 22 to July 3, 2026**, the <a href="https://internetobservatory.org.a
 The program will involve a number of workshops and lectures, group activities, and participant-led research projects that will propose solutions to existing, practical problems developed by our academic and industry experts. We will use an arsenal of cutting-edge digital tools for data collection and analysis, discuss them in the context of more traditional social science research, and explore what combining them actually means. 
 
 Participants will have the chance to learn about and discuss the use of large language models and machine learning in actual research projects. Topics will also include:
-* The use and development of more accessible and reproducible tools for data collection and analysis
-* Network analysis
-* Data donation frameworks - download packages and screen capture
-* Web scraping of varying complexity
-
-We will discuss the ethical aspects of working with digital media data and methods, as well as their countless limitations and how they need to be addressed.
+* The use and development of more accessible and reproducible tools for data collection and analysis.
+* Data donation frameworks - download packages and screen capture.
+* Web scraping of varying complexity and the use of large language models in research.
+* Ethical aspects of working with digital media data and methods, as well as their countless limitations and how they need to be addressed.
+* Indigenous data governance.
 
 There will be numerous opportunities for participants to talk about their research with senior colleagues, organisers, visiting speakers, and others in the cohort. All created materials and topics covered will be released as open-source resources, and participants will be able to incorporate them into their own projects or work with them in the future.
 
