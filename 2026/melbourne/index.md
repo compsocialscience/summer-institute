@@ -16,7 +16,6 @@ Participants will have the chance to learn about and discuss the use of large la
 * Network analysis
 * Data donation frameworks - download packages and screen capture
 * Web scraping of varying complexity
-* Web archiving
 
 We will discuss the ethical aspects of working with digital media data and methods, as well as their countless limitations and how they need to be addressed.
 
