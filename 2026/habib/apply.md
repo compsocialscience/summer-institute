@@ -25,7 +25,7 @@ Applicants must submit the following documents: 1) a curriculum vitae, 2) a stat
 - Your experience and/or interest in collaborative research. Carrying out a collaborative research project is a core component of SICSS-Habib.
 - A possible topic, method, or question you would like to focus on for a collaborative project
 
-**In order to be guaranteed full consideration, all application materials must be submitted by 30th April 2026.** All application materials must be submitted through this [Google Form](https://forms.gle/3yGkb9aqH1kbWSEr8). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by {decision date not yet determined}, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by 30th April 2026.** All application materials must be submitted through this [Google Form](https://forms.gle/3yGkb9aqH1kbWSEr8). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by **7th May 2026**, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to sicss.habib@gmail.com.
 
