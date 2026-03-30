@@ -159,7 +159,7 @@ _Please note: The schedule is subject to change. Check back for the latest updat
 <div class="card mb-5">
   <div class="card-body text-center py-5">
     <h4>🎬 Videos Coming Soon</h4>
-    <p class="text-muted mb-3">Recordings of keynote talks, panels, and paper sessions will be posted here after the conference.</p>
+    <p class="text-muted mb-3">Recordings of keynote talks and interviews will be posted here after the conference.</p>
   </div>
 </div>
 
