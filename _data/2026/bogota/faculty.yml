@@ -1,29 +1,29 @@
 - name: "Oscar J. Maldonado C." # Add faculty name here.
-  image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
+  image: assets/images/oscar_col_2026.jpeg  # Add faculty image to assets/images/ and update here.
   bio: "Oscar Javier Maldonado Castañeda is Associate Professor in the Department of Sociology at Universidad del Rosario (Bogotá, Colombia). He has a Ph.D. in Sociology from Lancaster University and has been postdoctoral researcher at the Institute for Technology and Social Change (TEMA) at Linköping University (Sweden), visiting researcher at the TANTLab (Digital Methods Laboratory) at Aalborg University in Copenhagen (Denmark), visiting professor in the Social and Human Sciences Graduate School at the National University of Colombia, Fellow of the Summer Program in Social Science at the Princeton Institute of Advanced Studies -IAS- (2020-2023) and Global South Visiting Fellow at the College of Arts and Social Sciences, Australia National University (2025)." # Add faculty bio here.
   website: https://www.linkedin.com/in/oscar-javier-maldonado-casta%C3%B1eda-61107b14/  # Link faculty website here.
 
 # Add more faculty with the same format as above...
 - name: "Victor M. Hernandez L." # Add faculty name here.
-  image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
+  image: assets/images/victor_col_2026.jpg  # Add faculty image to assets/images/ and update here.
   bio: "Sociologist from Universidad del Rosario, with a Master's degree in Applied Statistics and Data Science from Universidad El Bosque, and a Specialization in Artificial Intelligence from Universidad Javeriana. He is the Chair of the undergraduate degree in Sociology at the Fundación Universitaria del Área Andina. He has extensive experience as a lecturer at various universities in Bogotá, teaching subjects such as data visualization, data science, computational sociology, and research methodology. His research interests focus on the analysis of machine learning algorithms for classification automation, the use of programming in research, and education, among others. He has worked as a consultant on business innovation and as a methodological consultant for public opinion analysis projects." # Add faculty bio here.
   website: https://www.linkedin.com/in/v%C3%ADctor-manuel-hern%C3%A1ndez-l%C3%B3pez-7b181aa4/  # Link faculty website here.
 
 # Add more faculty with the same format as above...
 - name: "Isabella Jaimes" # Add faculty name here.
-  image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
+  image: assets/images/isabella_col_2026.jpeg  # Add faculty image to assets/images/ and update here.
   bio: "Sociologist and Political Scientist from Universidad del Rosario. She is currently a PhD student in Information at the University of Toronto and holds a Master’s degree in Science and Technology Studies (STS) from York University, Toronto, Canada. She has worked as a lecturer at Pontificia Universidad Javeriana, where she taught courses on data narrative visualization and strategic information for organizations. Her research examines how digital platforms shape domestic work and care economies among Latina immigrant workers. Drawing on feminist STS and human–computer interaction, she studies platform-mediated labour, informal infrastructures of safety and accountability, and worker-centered technological design." # Add faculty bio here.
   website: https://www.linkedin.com/in/isabella-jaimes-rodr%C3%ADguez-020508218/  # Link faculty website here.
 
 # Add more faculty with the same format as above...
 - name: "Alejandro Sarria" # Add faculty name here.
-  image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
+  image: assets/images/alejandro_col_2026.jpeg  # Add faculty image to assets/images/ and update here.
   bio: "Psychologist from Universidad del Los Andes. PhD student in the department of sociology at Duke University, where He is member of the Worldview Lab and the Polarization Lab. Alejandro is interested in the use of statistical and computational methods to study politics and culture. Currently, his research focuses on modelling the behavior of political ideology and other cultural systems through natural language processing, statistical methods and cross-cultural analysis. Before Duke, he got a master of arts in Computational Social Science at the University of Chicago." # Add faculty bio here.
   website: https://alejandro-sarria-morales.github.io/  # Link faculty website here.
 
 # Add more faculty with the same format as above...
 - name: "Sergio Sánchez" # Add faculty name here.
-  image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
+  image: assets/images/sergio_col_2026.jpeg # Add faculty image to assets/images/ and update here.
   bio: "Sociologist from Universidad del Rosario. He holds a Master degree in Economics for public policy. Sergio is an expert consultant in Social Appropriation of Knowledge (SAK) and innovation in healthcare. He leads at IDCBIS (Instituto Distrital de Biotecnología e Innovación en Salud) BioSignal, a mHealth system designed to preventively mitigate the risk of suicide among young people in Bogotá, integrating digital phenotyping and machine learning." # Add faculty bio here.
   website: https://www.linkedin.com/in/sergio-daniel-s%C3%A1nchez-pulido/  # Link faculty website here.
 
