@@ -34,7 +34,7 @@ Applicants must submit the following documents:
 
 **In order to be guaranteed full consideration, all application materials must be submitted by April 14th, 2026.** All application materials must be submitted through [this form](https://forms.gle/EHMqAoAe8VAXaLyk9) . Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail, a week after the application deadline, and will ask participants to confirm their participation very soon thereafter.
 
-Any inquiries can be sent to sicss-kenya2026@gmail.com
+Any inquiries can be sent to sicsskenya2026@gmail.com
 
 ## Application Frequently Asked Questions
 
