@@ -19,7 +19,7 @@ We welcome applicants from all backgrounds and fields of study and they shall be
    
 2) Contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others.
        
-5) Potential to spread computational social science to new intellectual communities and areas of research.
+3) Potential to spread computational social science to new intellectual communities and areas of research.
 ## How To Apply
 
 Applicants must submit the following documents: 
@@ -34,7 +34,7 @@ Applicants must submit the following documents:
 
 **In order to be guaranteed full consideration, all application materials must be submitted by April 14th, 2026.** All application materials must be submitted through [this form](https://forms.gle/EHMqAoAe8VAXaLyk9) . Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail, a week after the application deadline, and will ask participants to confirm their participation very soon thereafter.
 
-Any inquiries can be sent to ``
+Any inquiries can be sent to sicss-kenya2026@gmail.com
 
 ## Application Frequently Asked Questions
 
