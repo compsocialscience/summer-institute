@@ -1,11 +1,11 @@
 - name: 'Alex "Sandy" Pentland'
   website: https://profiles.stanford.edu/alex-pentland
-  image: assets/images/2026/stanford/speakers/speakers-alex-sandy-pentland.jpg
+  image: /assets/images/2026/stanford/speakers/speakers-alex-sandy-pentland.jpg
   bio: Alex "Sandy" Pentland is HAI Center Fellow and faculty lead for digital society at Stanford HAI and Digital Economy Lab, He is Toshiba Professor at MIT, member of US National Academies, Advisor to Abu Dhabi Investment Authority Lab, and formerly advisory board member at UN Secretary General's office, Google, ATT, Telefonica, and elsewhere. Spin-off companies and open source systems from his lab manage authentication of most digital transactions in the world, media for roughly 1B people in far east, and health resources for roughly 0.5B people in the indopacific. His current focus is on problems and opportunities in using AI to improve our social institutions.
 
 - name: "Riana Pfefferkorn"
   website: https://hai.stanford.edu/people/riana-pfefferkorn
-  image: assets/images/2026/stanford/speakers/speakers-riana-pfefferkorn.jpg
+  image: /assets/images/2026/stanford/speakers/speakers-riana-pfefferkorn.jpg
   bio: Riana Pfefferkorn is a policy fellow at Stanford HAI. A lawyer by training, Riana researches the law and policy implications of emerging technologies including AI. Her research spans topics in privacy and civil liberties, encryption policy, digital surveillance, cybersecurity, and online trust and safety. Her past work includes analyzing the legal implications and real-world impact of AI-generated child abuse material, predicting the impact of "deepfakes" on evidentiary proceedings in court, studying the system for reporting child exploitation online, and surveying online platforms' use of "content-oblivious" trust and safety techniques, among other topics. Along with her HAI colleague Dr. Jennifer King, Riana is a 2026-2027 Non-Resident Fellow at the Center for Democracy and Technology.
 
 - name: "José Ramón Enríquez"
