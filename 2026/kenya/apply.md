@@ -15,16 +15,11 @@ The Summer Institute aims to bring together computational social scientists acro
 
 We welcome applicants from all backgrounds and fields of study and they shall be evaluated  along a number of dimensions:
 
-1) Research and teaching in the area of computational social science.
+1) Research and publishing experience in social sciences or computer sciences.
    
 2) Contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others.
-   
-3) Likelihood to benefit from participation
-   
-4) Likelihood to contribute to the educational experience of other participants
-   
-5) Potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
-
+       
+5) Potential to spread computational social science to new intellectual communities and areas of research.
 ## How To Apply
 
 Applicants must submit the following documents: 
@@ -37,7 +32,7 @@ Applicants must submit the following documents:
 - Your experience and/or interest in collaborative research. Carrying out a collaborative research project is a core component of SICSS-KENYA.
 - A possible topic, method, or question you would like to focus on for a collaborative project
 
-**In order to be guaranteed full consideration, all application materials must be submitted by April 4th, 2026.** All application materials must be submitted through [this form](https://forms.gle/EHMqAoAe8VAXaLyk9) . Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail, a week after the application deadline, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by April 14th, 2026.** All application materials must be submitted through [this form](https://forms.gle/EHMqAoAe8VAXaLyk9) . Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail, a week after the application deadline, and will ask participants to confirm their participation very soon thereafter.
 
 Any inquiries can be sent to ``
 
