@@ -12,20 +12,11 @@ Since it is, first and foremost, a learning opportunity, some materials will be 
 
 ## How To Apply
 
-To apply, please complete the form below. You will be asked to provide, in addition to some basic information, a cover letter with your current curriculum vitae in ONE document (PDF or Word). The cover letter should help us understand why you are interested in SICSS and how it aligns with your current research and career goals. It would also be helpful for us to learn more about your experience in computational social science or relevant fields, e.g., coding, collecting and analysing large amounts of data, performing statistical analysis, doing process tracing or causal inference, etc. Our goal is to build a cohort of people excelling in their own areas, and use it as a leverage and opportunity to learn more, bringing scholars from different areas of research together.
+To apply, please complete the form below. You will be asked to provide, in addition to some basic information and CV, a few words about your current research and work. Your responses will help us understand why you are interested in SICSS and how it aligns with your current research and career goals. It would also be helpful for us to learn more about your experience in computational social science or any other methods. Our goal is to build a cohort of people excelling in their own areas, and use it as a leverage and opportunity to learn more, bringing scholars from different areas of research together.
 
-We evaluate applications along a number of dimensions:
-1. Likelihood to benefit from participation.
-2. Likelihood to contribute to the educational experience of other participants.
-3. Potential to promote computational social science to new communities and areas of research. 
-4. Research and teaching in the area of computational social science and closely related fields.
-5. Creating open-source software, curating public datasets, and creating educational opportunities for others.
+*Note: If you are based outside of Melbourne, you will have the opportunity within the form to request a limited, needs-based travel bursary capped at $750. Unfortunately, only a limited number of bursaries is available and while we will do our best to offer as much assistance as we can, the applicants are encouraged to use their own institutional funding where available.*
 
-When making our evaluations, we carefully account for an applicant’s career stage and previous educational/professional opportunities.
-
-*Note: If you are based outside of Melbourne, you will have the opportunity within the form to request a limited, needs-based travel bursary. In the corresponding field, please tell us what expenses you will require assistance with, estimated costs of your flights, and accomodation arrangements. Unfortunately, only a limited number of bursaries is available and while we will do our best to offer as much assistance as we can, the applicants are encouraged to use their own institutional funding where available.*
-
-**All application materials must be submitted by 30 April 2026.** Applications that are not complete by the deadline may not receive full consideration. We will notify applicants regarding the outcome of their application in early May 2026. Then, we will ask accepted participants to confirm their participation.
+**All application materials must be submitted by 4 May 2026.** Applications that are not complete by the deadline may not receive full consideration. We will notify applicants regarding the outcome in early May 2026. Then, we will ask accepted participants to confirm their participation.
 
 If the form below did not load, please reload the page or use this direct link instead (will become active once opened): <!-- <a href="https://researchsurveys.deakin.edu.au/jfe/form/SV_1zSCB6SfhHZGIJw" target="_blank" rel="noopener noreferrer">SICSS-Melbourne 2026 Application Form</a> -->
 
