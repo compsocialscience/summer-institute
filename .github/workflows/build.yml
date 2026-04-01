@@ -27,7 +27,7 @@ jobs:
           swap-storage: true
 
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           fetch-depth: 1  # keeps full git history from getting into checkout, to save on runner disk space
 
@@ -39,7 +39,7 @@ jobs:
           bundler-cache: false
 
       - name: Cache bundler gems
-        uses: actions/cache@v4
+        uses: actions/cache@v5
         with:
           path: vendor/bundle
           key: jekyll-${{ runner.os }}-ruby-2.7-gems-${{ hashFiles('**/Gemfile.lock') }}
@@ -55,7 +55,7 @@ jobs:
         run: bundle exec jekyll build --trace
 
       - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: _site
 
@@ -69,4 +69,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deploy
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
