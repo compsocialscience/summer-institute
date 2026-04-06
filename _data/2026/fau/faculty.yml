@@ -5,7 +5,7 @@
 
 # Add more faculty with the same format as above...
 - name: "Morgan Cooley" # Add faculty name here.
-  image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
+  image: /assets/images/Cooley.png  # Add faculty image to assets/images/ and update here.
   bio: "Morgan Cooley earned her Ph.D. in Marriage and Family Therapy in 2014 and MSW in Social Work in 2009 from Florida State University in Tallahassee, Florida. She taught as an Assistant Professor between 2014-2018 at the University of Tennessee at Chattanooga. Currently, Dr. Cooley is a social work faculty member at Florida Atlantic University. She is a licensed clinical social worker with practice experience in couple and family therapy, working with families impacted by the child welfare system, and mental health and trauma. Dr. Cooley’s research is greatly influenced by a background in both social work and family science and focuses on examining the relationships between child mental health, family systems, and the child welfare system. Specifically, she is interested in the relationship quality between children and foster caregivers, foster family well-being, foster parent preservice training, supporting relationships between birth and foster families for the benefit of youth in care, factors associated with improved mental health of youth in care, child welfare policy, and training for foster caregivers and child welfare professionals.." # Add faculty bio here.
   website: https://www.fau.edu/sw-cj/ssw/faculty-and-staff/people/cooley/  # Link faculty website here.
 
