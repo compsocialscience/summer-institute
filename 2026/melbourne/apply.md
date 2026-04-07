@@ -12,7 +12,7 @@ Since it is, first and foremost, a learning opportunity, some materials will be 
 
 ## How To Apply
 
-To apply, please complete the form below. You will be asked to provide, in addition to some basic information and CV, a few words about your current research and work. Your responses will help us understand why you are interested in SICSS and how it aligns with your current research and career goals. It would also be helpful for us to learn more about your experience in computational social science or any other methods. Our goal is to build a cohort of people excelling in their own areas, and use it as a leverage and opportunity to learn more, bringing scholars from different areas of research together.
+To apply, please complete the form below. You will be asked to provide, in addition to some basic information and CV, a few words about your current research and work. Your responses will help us understand why you are interested in SICSS and how it aligns with your current research and career goals. It would also be helpful for us to learn more about your experience in computational social science or any other methods. Our goal is to build a cohort of people excelling in their own areas, and use it as a leverage and opportunity to learn more, bringing scholars from different fields of research together.
 
 *Note: If you are based outside of Melbourne, you will have the opportunity within the form to request a limited, needs-based travel bursary capped at $750. Unfortunately, only a limited number of bursaries is available and while we will do our best to offer as much assistance as we can, the applicants are encouraged to use their own institutional funding where available.*
 
