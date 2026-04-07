@@ -22,7 +22,7 @@ There will be numerous opportunities for participants to talk about their resear
 
 To support the interdisciplinary nature and spirit of this event, we welcome early career researchers from all backgrounds, fields of study, and institutions across Australia. We expect to host **20 participants**. While most participants are expected to fully attend and participate in the entire program, we are also open to alternative arrangements, especially for those who need to travel far. **Limited bursaries** to assist with travel costs are available to those outside of Melbourne and will be distributed on a needs basis to make sure that participants from different institutions and locations can be physically present at the venue.
 
-Applications will be open from **30 March 2026 to 30 April 2026**. A link to submit an application will be made available here during that time. If you have any questions, please reach out to us at <a href="mailto:sicss@internetobservatory.org.au">sicss@internetobservatory.org.au</a>.
+Applications will be open from **13 April 2026 to 4 May 2026**. A link to submit an application will be made available here during that time. If you have any questions, please reach out to us at <a href="mailto:sicss@internetobservatory.org.au">sicss@internetobservatory.org.au</a>.
 
 <br>
 <hr>
