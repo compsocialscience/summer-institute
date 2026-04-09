@@ -39,7 +39,7 @@ To apply as a participant in SICSS, applicants must complete the following form,
 
 Applicants must also upload a brief CV detailing their relevant experience.
 
-**In order to be guaranteed full consideration, all application materials must be submitted by 30/05/2026.** All application materials must be submitted through this [Google Form](), which will be online soon. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by {decision date not yet determined}, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by 31/05/2026.** All application materials must be submitted through this [Google Form](), which will be online soon. Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by {decision date not yet determined}, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to [factor_data@unsam.edu.ar](factor_data@unsam.edu.ar). Please include the following text as the email header: "[SICSS 2026 Buenos Aires]"
 
