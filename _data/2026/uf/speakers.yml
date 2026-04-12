@@ -33,6 +33,11 @@
   bio: "Dr. Lee is an assistant professor of Sociology at NYU. His research is on social cohesion and network dynamics, exploring their impacts on individual, community, and societal well-beings in the domains of health and politics. His research also uses large language models, surveys, and social media data to develop indicators of social cohesion and polarization, predict public opinion, and simulate AI agents for advancing social science research."
   website: https://www.byungkyulee.com/
 
+- name: "Jake Truscott" # Speaker name goes here.
+  image: /assets/images/Jake_SICSS_2026.png  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Dr. Truscott's research focuses principally on examining the American federal judiciary using high-performance computing systems and non-conventional data sources like text and audio. Most recently, he has been engaged in a comprehensive research agenda centering on the application of high-performance computing systems to study the latent and explicit properties of language employed within the American legal community."
+  website: https://polisci.ufl.edu/directory/jake-truscott/
+
 - name: "Kat Albrecht" # Speaker name goes here.
   image: /assets/images/Kat_SICSS_UF.png  # Upload speaker image to /assets/images/ and update URL here.
   bio: "Dr. Albrecht is an Assistant Professor in Criminal Justice Studies at Truman State University. Her work sits at the intersection of computational social science and law, where she uses innovative computational techniques to study fear, violence, and data distortions. She is particularly interested in the nexus of fear and risk-taking behaviors, digital trace data, and the impact of law on decision-making."
