@@ -20,7 +20,9 @@ Participants will have the chance to learn about the following topics (and beyon
 
 There will be numerous opportunities for participants to talk about their research with senior colleagues, organisers, visiting speakers, and others in the cohort. All created materials and topics covered will be released as open-source resources, and participants will be able to incorporate them into their own projects or work with them in the future.
 
-To support the interdisciplinary nature and spirit of this event, we welcome early career researchers from all backgrounds, fields of study, and institutions across Australia. We expect to host **20 participants**. While most participants are expected to fully attend and participate in the entire program, we are also open to alternative arrangements, especially for those who need to travel far. **Limited bursaries** to assist with travel costs are available to those outside of Melbourne and will be distributed on a needs basis to make sure that participants from different institutions and locations can be physically present at the venue.
+To support the interdisciplinary nature and spirit of this event, we welcome early career researchers from all backgrounds, fields of study, and institutions across Australia. We expect to host **20 participants**.
+
+Participants are expected to fully attend and participate in the entire program. **Limited bursaries** to assist with travel costs are available to those outside of Melbourne and will be distributed on a needs basis to make sure that participants from different institutions and locations can be physically present at the venue.
 
 Applications will be open from **20 April 2026 to 11 May 2026**. A link to submit an application will be made available here during that time. If you have any questions, please reach out to us at <a href="mailto:sicss@internetobservatory.org.au">sicss@internetobservatory.org.au</a>.
 
