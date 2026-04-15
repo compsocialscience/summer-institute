@@ -25,6 +25,91 @@ subtitle: "An annual conference on digital technologies, open-mindedness, and po
 
 The TOM Annual Conference brings together leading scholars, practitioners, and emerging researchers to present cutting-edge work on digital technologies, polarization, and open-mindedness. The conference is held at Duke University and is free to attend. The confirmed date for the 2026 annual conference is **Thursday, April 2**.
 
+## 2026 Conference Photos
+
+<div id="tomPhotoCarousel" class="carousel slide mb-4" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#tomPhotoCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#tomPhotoCarousel" data-slide-to="1"></li>
+    <li data-target="#tomPhotoCarousel" data-slide-to="2"></li>
+    <li data-target="#tomPhotoCarousel" data-slide-to="3"></li>
+    <li data-target="#tomPhotoCarousel" data-slide-to="4"></li>
+    <li data-target="#tomPhotoCarousel" data-slide-to="5"></li>
+    <li data-target="#tomPhotoCarousel" data-slide-to="6"></li>
+  </ol>
+  <div class="carousel-inner rounded shadow">
+    <div class="carousel-item active">
+      <img src="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_chris.jpg" class="d-block w-100" alt="" style="max-height:480px; object-fit:cover;">
+    </div>
+    <div class="carousel-item">
+      <img src="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_sandra_1.jpg" class="d-block w-100" alt="" style="max-height:480px; object-fit:cover;">
+    </div>
+    <div class="carousel-item">
+      <img src="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_sandra_2.jpg" class="d-block w-100" alt="" style="max-height:480px; object-fit:cover;">
+    </div>
+    <div class="carousel-item">
+      <img src="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_akin.jpg" class="d-block w-100" alt="" style="max-height:480px; object-fit:cover;">
+    </div>
+    <div class="carousel-item">
+      <img src="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_ceren.jpg" class="d-block w-100" alt="" style="max-height:480px; object-fit:cover;">
+    </div>
+    <div class="carousel-item">
+      <img src="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_kiran.jpg" class="d-block w-100" alt="" style="max-height:480px; object-fit:cover;">
+    </div>
+    <div class="carousel-item">
+      <img src="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_student_q.jpg" class="d-block w-100" alt="" style="max-height:480px; object-fit:cover;">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#tomPhotoCarousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#tomPhotoCarousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+<div class="row mb-5">
+  <div class="col-6 col-sm-4 col-md-3 mb-3">
+    <a href="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_chris.jpg" target="_blank">
+      <img src="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_chris.jpg" class="img-fluid rounded shadow-sm" alt="" style="object-fit:cover; height:160px; width:100%;" loading="lazy">
+    </a>
+  </div>
+  <div class="col-6 col-sm-4 col-md-3 mb-3">
+    <a href="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_sandra_1.jpg" target="_blank">
+      <img src="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_sandra_1.jpg" class="img-fluid rounded shadow-sm" alt="" style="object-fit:cover; height:160px; width:100%;" loading="lazy">
+    </a>
+  </div>
+  <div class="col-6 col-sm-4 col-md-3 mb-3">
+    <a href="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_sandra_2.jpg" target="_blank">
+      <img src="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_sandra_2.jpg" class="img-fluid rounded shadow-sm" alt="" style="object-fit:cover; height:160px; width:100%;" loading="lazy">
+    </a>
+  </div>
+  <div class="col-6 col-sm-4 col-md-3 mb-3">
+    <a href="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_akin.jpg" target="_blank">
+      <img src="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_akin.jpg" class="img-fluid rounded shadow-sm" alt="" style="object-fit:cover; height:160px; width:100%;" loading="lazy">
+    </a>
+  </div>
+  <div class="col-6 col-sm-4 col-md-3 mb-3">
+    <a href="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_ceren.jpg" target="_blank">
+      <img src="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_ceren.jpg" class="img-fluid rounded shadow-sm" alt="" style="object-fit:cover; height:160px; width:100%;" loading="lazy">
+    </a>
+  </div>
+  <div class="col-6 col-sm-4 col-md-3 mb-3">
+    <a href="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_kiran.jpg" target="_blank">
+      <img src="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_kiran.jpg" class="img-fluid rounded shadow-sm" alt="" style="object-fit:cover; height:160px; width:100%;" loading="lazy">
+    </a>
+  </div>
+  <div class="col-6 col-sm-4 col-md-3 mb-3">
+    <a href="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_student_q.jpg" target="_blank">
+      <img src="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_student_q.jpg" class="img-fluid rounded shadow-sm" alt="" style="object-fit:cover; height:160px; width:100%;" loading="lazy">
+    </a>
+  </div>
+</div>
+
+---
+
 ### Conference Schedule
 
 _Please note: The schedule is subject to change. Check back for the latest updates._
