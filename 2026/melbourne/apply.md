@@ -6,7 +6,7 @@ partner_site: melbourne
 ## Eligibility
 <br>
 
-We invite applications from **PhD candidates and early career researchers (ECRs) / postdocs** from any institution in Australia. However, we do not limit participation exclusively to academics and welcome applications from other relevant areas. All backgrounds and fields of study will be considered, as this interdisciplinary environment is a core component of the program. Approximately **20 participants** will be invited. 
+We invite applications from **PhD candidates and early career researchers (ECRs) / postdocs** from any institution in Australia. However, we do not limit participation exclusively to academics and welcome applications from other relevant areas. All backgrounds and fields of study will be considered, as this interdisciplinary environment is a core component of the program. Approximately **20 participants** will be accepted. 
 
 Since it is, first and foremost, a learning opportunity, some materials will be provided in advance and remain available during and after the program. That is, participants with less experience in social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete the SICSS boot camp.
 
