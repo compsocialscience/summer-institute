@@ -232,7 +232,7 @@ Bringing together computational social scientists working in (or closely with) i
 
 <br>
 
-**Session 3 (90 min) — Workshop: Success in PhD Candidacy**  
+**Session 3 (90 min) — Workshop: Managing Your Career**  
 *Speakers: To be announced*  
 
 This workshop equips HDR candidates and ECRs with strategies for project planning, timeline management, supervisor communication, milestone navigation, and building a strong research profile in Australia.  
