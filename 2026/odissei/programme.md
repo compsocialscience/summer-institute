@@ -18,7 +18,7 @@ Participants will need to develop their knowledge and skills in a relatively sho
 
 ### Programme
 
-SICSS-ODISSEI will run from Monday 16 June to Friday 27 June 2025. Both weeks, from Monday to Friday, participants will learn about computational social science in-person in the Netherlands. The regular days of teaching will be at the campus of the Erasmus University of Rotterdam, Burgemeester Oudlaan 50.
+SICSS-ODISSEI will run from Monday 8 June to Friday 19 June 2026. Both weeks, from Monday to Friday, participants will learn about computational social science in-person in the Netherlands. The regular days of teaching will be at the campus of the Erasmus University of Rotterdam, Burgemeester Oudlaan 50.
 
 During the first week, the following topics will be covered: Introduction to ODISSEI, Machine learning, Large Language Models, and Causal Analysis. In the second week of the summer school, participants will be able to make full use of the ODISSEI infrastructure using the FIRMBACKBONE. They will be put into teams and challenged to develop research projects using the full scope and scale of the infrastructure. 
 
