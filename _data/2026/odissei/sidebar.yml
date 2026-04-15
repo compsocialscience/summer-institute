@@ -4,6 +4,8 @@
   url: "pre_arrival"
 - name: People
   url: "people"
+- name: Programme
+  url: "programme"
 - name: Schedule & Materials
   url: "schedule"
 
