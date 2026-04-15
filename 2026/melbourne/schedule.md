@@ -87,15 +87,7 @@ We will discuss how to conduct studies that require participants to share their 
 
 <br>
 
-**Session 3 (90 min) — Keynote: Indigenous Data Sovereignty**  
-*Speakers: To be announced*  
-
-We will introduce and discuss the principles of Indigenous Data Sovereignty in the context of CSS. We will identify ways to design and implement ethical data workflows with a strong focus on community rights and governance.  
-
-*Learning Outcomes:*
-* Define Indigenous Data Sovereignty.
-* Construct ethical data workflows.
-* Recognise possible limitations and data governance considerations.
+**Session 3 (90 min) — TBD - Data Management Practices**
 
 <br>
 <hr>
