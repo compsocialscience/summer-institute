@@ -13,6 +13,6 @@ The instructional program will involve lectures, group problem sets, and partici
 
 Participation is restricted to advanced Master's and Ph.D. students, postdoctoral researchers, and junior faculty (within 7 years of their Ph.D). We welcome applicants from all backgrounds and fields of study, especially junior faculty from neighboring institutions near Johannesburg, South Africa. About 20-30 participants will be invited. All participants are expected to fully attend and participate in the entire 5-day program, but we are open to alternative arrangements for faculty members. 
 
-Application materials are due on **Friday, 20 April 2026**.
+Application materials are due on **Friday, 15 May 2026**.
 
 [//]: # (ORGANIZERS: feel free to add a link to your application materials or your SICSS apply page above.)
