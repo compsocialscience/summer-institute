@@ -9,7 +9,7 @@ partner_site: melbourne
 
 ### Bogdan Mamaev
 ![Bogdan Mamaev](/assets/images/bogdan_mamaev.jpg){: width="200" }
-**Main organiser, Australian Internet Observatory (AIO)**
+**Australian Internet Observatory (AIO), Deakin University**
 
 Dr Bogdan Mamaev is Research Training Manager at the Australian Internet Observatory (AIO) based at Deakin University. With a PhD in Political Science from Griffith University, he develops research training programs and resources that help social scientists integrate digital methods and computational tools into their work. His own research applies these methods to the study of protests, political regimes, and contentious politics.
 
@@ -19,7 +19,7 @@ Dr Bogdan Mamaev is Research Training Manager at the Australian Internet Observa
 
 ### Kateryna Kasianenko
 ![Kateryna Kasianenko](/assets/images/kateryna_kasianenko.jpg){: width="200" }  
-**Main organiser, ARC Centre of Excellence for Automated Decision-Making & Society (ADM+S)**
+**ARC Centre of Excellence for Automated Decision-Making & Society (ADM+S), QUT**
 
 Dr Kateryna Kasianenko is a Research Fellow at the QUT node of the ARC Centre of Excellence for Automated Decision-Making & Society (ADM+S). Her work examines how searching practices and search interfaces shape (and are shaped by) real-world events such as wars and crises, as well as social phenomena like partisanship. She develops computational approaches—including LLM-based discourse modelling, network analysis, and practice mapping—to identify online community practices at scale.
 
@@ -29,7 +29,7 @@ Dr Kateryna Kasianenko is a Research Fellow at the QUT node of the ARC Centre of
 
 ### Olga Boichak
 ![Olga Boichak](/assets/images/olga_boichak.jpg){: width="200" }  
-**Co-organiser, University of Sydney**
+**University of Sydney**
 
 Dr Olga Boichak is Senior Lecturer in Digital Cultures and Director of the Computational Social Science Lab at the University of Sydney (DECRA Fellow and 2025 Westpac Research Fellow). A media sociologist, she studies networks, narratives, and cultures of activism in the digital age, with particular expertise in influence operations, civilian participation in conflicts, and transnational humanitarianism. She develops and applies computational tools for large-scale analysis of online communication and information warfare.
 
@@ -39,7 +39,7 @@ Dr Olga Boichak is Senior Lecturer in Digital Cultures and Director of the Compu
 
 ### Sally Storey
 ![Sally Storey](/assets/images/sally_storey.jpeg){: width="200" }  
-**Co-organiser, ARC Centre of Excellence for Automated Decision-Making & Society (ADM+S)**
+**ARC Centre of Excellence for Automated Decision-Making & Society (ADM+S), RMIT**
 
 Sally Storey is Manager of Research Training and Development at the RMIT University node of the ARC Centre of Excellence for Automated Decision-Making & Society (ADM+S). With a background in documentary film production, research administration, grant-making, and higher-education research on creative industries, she designs and delivers programs that build research capability in digital media, automation, and computational social science.
 
