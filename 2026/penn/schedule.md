@@ -6,7 +6,7 @@ schedule: true
 
 # Schedule
 
-(The schedule is subject to change; its most updated version can be found [here](https://docs.google.com/document/d/1n7jwHC-f3Ua5tz_2ELHhBM1-sH-xvOXaPNqsIPwXSv8/edit?usp=sharing).
+(The schedule is subject to change; its most updated version can be found [here](https://docs.google.com/document/d/1n7jwHC-f3Ua5tz_2ELHhBM1-sH-xvOXaPNqsIPwXSv8/edit?usp=sharing)).
 
 **Time**: Monday, June 15 – Friday, June 26, 2025 (excluding Friday, July 19 – Sunday, June 21). The program runs from 9 a.m. – 5 p.m. every day.
 
@@ -23,8 +23,6 @@ schedule: true
 **Requirements**: You are required to (1) attend every day of the Summer Institute; (2) present your past or ongoing work; (3) work in groups toward a research project; and (4) participate in the presentation of that project, including the proposal and final presentation.
 
 **Prizes and awards**: At the end of the Summer Institute, you will be conferred a certificate of participation. We will also give special awards to two best projects: one voted by the faculty and TAs, and one voted by your peers.
-
-**Note**: The program information is subject to revision. We will notify you of any substantial change, but please check this document regularly.
 
 ## Monday, June 15, 2026
 
