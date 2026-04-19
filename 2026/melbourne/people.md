@@ -16,8 +16,6 @@ Dr Bogdan Mamaev is Research Training Manager at the Australian Internet Observa
 
 [More about Bogdan Mamaev](https://bmamaev.com/)
 
----
-
 ### Kateryna Kasianenko
 ![Kateryna Kasianenko](/assets/images/kateryna_kasianenko.jpg){: width="220" }
 
@@ -27,8 +25,6 @@ Dr Kateryna Kasianenko is a Research Fellow at the QUT node of the ARC Centre of
 
 [More about Kateryna Kasianenko](https://www.katerynakasianenko.info/)
 
----
-
 ### Olga Boichak
 ![Olga Boichak](/assets/images/olga_boichak.jpg){: width="220" }
 
@@ -37,8 +33,6 @@ Dr Kateryna Kasianenko is a Research Fellow at the QUT node of the ARC Centre of
 Dr Olga Boichak is Senior Lecturer in Digital Cultures and Director of the Computational Social Science Lab at the University of Sydney (DECRA Fellow and 2025 Westpac Research Fellow). A media sociologist, she studies networks, narratives, and cultures of activism in the digital age, with particular expertise in influence operations, civilian participation in conflicts, and transnational humanitarianism. She develops and applies computational tools for large-scale analysis of online communication and information warfare.
 
 [More about Olga Boichak](https://profiles.sydney.edu.au/olga.boichak)
-
----
 
 ### Sally Storey
 ![Sally Storey](/assets/images/sally_storey.jpeg){: width="220" }
@@ -64,8 +58,6 @@ Dr Amanda Lawrence is Engagement Lead at the Australian Internet Observatory (AI
 
 [More about Amanda Lawrence](https://www.admscentre.org.au/amanda-lawrence/)
 
----
-
 ### Daniel Angus
 ![Daniel Angus](/assets/images/dan_angus.jpg){: width="220" }
 
@@ -74,8 +66,6 @@ Dr Amanda Lawrence is Engagement Lead at the Australian Internet Observatory (AI
 Prof. Daniel Angus is Professor of Digital Communication and Director of the Digital Media Research Centre (DMRC) at Queensland University of Technology. A Chief Investigator in the ARC Centre of Excellence for Automated Decision-Making & Society (ADM+S), he develops computational methods—including visualisation, natural language processing, and topic modelling—for the study of communication, media, and digital platforms.
 
 [More about Daniel Angus](https://research.qut.edu.au/dmrc/people/daniel-angus/)
-
----
 
 ### Matteo Vergani
 ![Matteo Vergani](/assets/images/matteo_vergani.webp){: width="220" }
@@ -92,22 +82,37 @@ Dr Matteo Vergani is Associate Professor in Sociology at Deakin University and D
 .organisers-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(480px, 1fr));
-  gap: 3rem 2rem;
+  gap: 2.5rem 2rem;
   margin: 2rem 0 4rem;
 }
 
 .organisers-grid h3 {
-  margin: 1.2rem 0 0.6rem 0;
+  margin: 1rem 0 0.5rem 0;
   font-size: 1.35rem;
+  line-height: 1.3;
 }
 
 .organisers-grid img {
   display: block;
   margin-bottom: 1rem;
-  border-radius: 6px;   /* optional: soft corners like in your screenshot */
+  border-radius: 8px;
+  width: 220px !important;
+  height: auto;
 }
 
 .organisers-grid p {
-  margin: 0.6rem 0;
+  margin: 0 0 0.8rem 0;
+  line-height: 1.6;
+}
+
+.organisers-grid strong {
+  display: block;
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+}
+@media (min-width: 768px) {
+  .organisers-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 </style>
