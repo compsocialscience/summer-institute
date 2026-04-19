@@ -5,7 +5,7 @@ partner_site: melbourne
 
 ## Organisers
 
-<div class="organisers-grid">
+<div class="organisers-grid" markdown="1">
 
 ### Bogdan Mamaev
 ![Bogdan Mamaev](/assets/images/bogdan_mamaev.jpg){: width="200" }
@@ -45,15 +45,14 @@ Sally Storey is Manager of Research Training and Development at the RMIT Univers
 
 [More about Sally Storey](https://www.admscentre.org.au/sally-storey/)
 
----
 </div>
 
 ## Organising Committee Members
 
-<div class="organisers-grid">
-  
+<div class="organisers-grid" markdown="1">
+
 ### Amanda Lawrence
-![Amanda Lawrence](assets/images/amanda_lawrence.jpg){: width="200" }  
+![Amanda Lawrence](/assets/images/amanda_lawrence.jpg){: width="200" }  
 **AIO**
 
 Dr Amanda Lawrence is Engagement Lead at the Australian Internet Observatory (AIO) at RMIT University. She brings extensive experience in social research infrastructure, digital libraries, research communication, and policy analysis (including 12 years as Director of the Analysis & Policy Observatory). Her work focuses on enabling accessible, responsible access to digital data and tools for computational social science research.
@@ -66,7 +65,7 @@ Dr Amanda Lawrence is Engagement Lead at the Australian Internet Observatory (AI
 ![Daniel Angus](/assets/images/dan_angus.jpg){: width="200" }  
 **QUT Digital Media Research Centre (DMRC)**
 
-Prof. Daniel Angus is Professor of Digital Communication and Director of the Digital Media Research Centre (DMRC) at Queensland University of Technology. A Chief Investigator in the ARC Centre of Excellence for Automated Decision-Making & Society (ADM+S), he develops computational methods—including visualisation, natural language processing, and topic modelling for the study of communication, media, and digital platforms.
+Prof. Daniel Angus is Professor of Digital Communication and Director of the Digital Media Research Centre (DMRC) at Queensland University of Technology. A Chief Investigator in the ARC Centre of Excellence for Automated Decision-Making & Society (ADM+S), he develops computational methods—including visualisation, natural language processing, and topic modelling—for the study of communication, media, and digital platforms.
 
 [More about Daniel Angus](https://research.qut.edu.au/dmrc/people/daniel-angus/)
 
