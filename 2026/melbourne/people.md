@@ -1,7 +1,6 @@
 ---
 layout: location_detail
 partner_site: melbourne
-people: true
 ---
 
 ## Main Organisers
