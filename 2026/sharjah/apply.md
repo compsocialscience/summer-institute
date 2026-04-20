@@ -6,9 +6,6 @@ partner_site: sharjah
 [//]: # (Update the following info to match your location!)
 
 # Apply
-
-
-
 ## Eligibility
 
 Participation is restricted to advanced Ph.D. students, postdoctoral researchers, and junior faculty (within 2 years of their Ph.D). There are no restrictions based on citizenship, country of study, or country of employment. We welcome applicants from all backgrounds and fields of study, especially neighboring institutions in the Middle East and the wider Global South, particularly those with interest in computational communication science. About 25-30 participants will be invited. Participants are expected to fully attend and participate in the entire program. 
