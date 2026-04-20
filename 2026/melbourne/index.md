@@ -23,7 +23,7 @@ To support the interdisciplinary nature and spirit of this event, we welcome ear
 
 Participants are expected to fully attend and participate in the entire program. **Limited bursaries** to assist with travel costs are available to those outside of Melbourne and will be distributed on a needs basis to make sure that participants from different institutions and locations can be physically present at the venue.
 
-Applications will be open from **20 April 2026 to 11 May 2026**. A link to submit an application will be made available here during that time. If you have any questions, please reach out to us at <a href="mailto:sicss@internetobservatory.org.au">sicss@internetobservatory.org.au</a>.
+Applications will be open from **22 April 2026 to 11 May 2026**. A link to submit an application will be made available here during that time. If you have any questions, please reach out to us at <a href="mailto:sicss@internetobservatory.org.au">sicss@internetobservatory.org.au</a>.
 
 <br>
 <hr>
