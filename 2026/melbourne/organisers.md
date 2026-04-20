@@ -107,7 +107,9 @@ Dr Matteo Vergani is Associate Professor in Sociology at Deakin University and D
 
 .simple-grid img {
   width: 220px;
-  height: auto;
+  height: 280px;
+  object-fit: cover;
+  object-position: top;
   margin-bottom: 1rem;
   border-radius: 6px;
 }
