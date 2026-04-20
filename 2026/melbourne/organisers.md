@@ -9,7 +9,7 @@ partner_site: melbourne
 
 <div markdown="1">
 ### Bogdan Mamaev
-![Bogdan Mamaev](/assets/images/bogdan_mamaev.jpg){: width="220" }
+![Bogdan Mamaev](/assets/images/bogdan_mamaev.jpg){: height="300" }
 
 **Australian Internet Observatory (AIO), Deakin University**
 
@@ -20,7 +20,7 @@ Dr Bogdan Mamaev is Research Training Manager at the Australian Internet Observa
 
 <div markdown="1">
 ### Kateryna Kasianenko
-![Kateryna Kasianenko](/assets/images/kateryna_kasianenko.jpg){: width="220" }
+![Kateryna Kasianenko](/assets/images/kateryna_kasianenko.jpg){: height="300" }
 
 **ARC Centre of Excellence for Automated Decision-Making & Society (ADM+S), QUT**
 
@@ -31,7 +31,7 @@ Dr Kateryna Kasianenko is a Research Fellow at the QUT node of the ARC Centre of
 
 <div markdown="1">
 ### Olga Boichak
-![Olga Boichak](/assets/images/olga_boichak.jpg){: width="220" }
+![Olga Boichak](/assets/images/olga_boichak.jpg){: height="300" }
 
 **University of Sydney**
 
@@ -42,7 +42,7 @@ Dr Olga Boichak is Senior Lecturer in Digital Cultures and Director of the Compu
 
 <div markdown="1">
 ### Sally Storey
-![Sally Storey](/assets/images/sally_storey.jpeg){: width="220" }
+![Sally Storey](/assets/images/sally_storey.jpeg){: height="300" }
 
 **ARC Centre of Excellence for Automated Decision-Making & Society (ADM+S), RMIT**
 
@@ -59,9 +59,9 @@ Sally Storey is Manager of Research Training and Development at the RMIT Univers
 
 <div markdown="1">
 ### Amanda Lawrence
-![Amanda Lawrence](/assets/images/amanda_lawrence.jpg){: width="220" }
+![Amanda Lawrence](/assets/images/amanda_lawrence.jpg){: height="300" }
 
-**AIO**
+**Australian Internet Observatory (AIO), RMIT**
 
 Dr Amanda Lawrence is Engagement Lead at the Australian Internet Observatory (AIO) at RMIT University. She brings extensive experience in social research infrastructure, digital libraries, research communication, and policy analysis (including 12 years as Director of the Analysis & Policy Observatory). Her work focuses on enabling accessible, responsible access to digital data and tools for computational social science research.
 
@@ -70,7 +70,7 @@ Dr Amanda Lawrence is Engagement Lead at the Australian Internet Observatory (AI
 
 <div markdown="1">
 ### Daniel Angus
-![Daniel Angus](/assets/images/dan_angus.jpg){: width="220" }
+![Daniel Angus](/assets/images/dan_angus.jpg){: height="300" }
 
 **QUT Digital Media Research Centre (DMRC)**
 
@@ -81,7 +81,7 @@ Prof. Daniel Angus is Professor of Digital Communication and Director of the Dig
 
 <div markdown="1">
 ### Matteo Vergani
-![Matteo Vergani](/assets/images/matteo_vergani.webp){: width="220" }
+![Matteo Vergani](/assets/images/matteo_vergani.webp){: height="300" }
 
 **Deakin University**
 
