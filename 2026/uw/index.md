@@ -7,7 +7,7 @@ image: /assets/images/2026/uw/homepage-banner.png
 
 [//]: # (ORGANIZERS: Update the info to match your location. Add a site image to /assets/images/ and update the placeholder URL above to match it. See _data/2026/UW for yml files that control the header content, location info on general sites page, people lists, and sidebar.)
 
-From July 6 to July 17, 2026 the University of Washington will host a Summer Institute in Computational Social Science (SICSS-UW) in Seattle, WA, bringing together 25-30 graduate students, postdoctoral researchers, faculty, and data science practitioners for an intensive two-week program at the intersection of artificial intelligence and social science research. 
+From July 6 to July 17, 2026 the University of Washington will host a Summer Institute in Computational Social Science (SICSS-UW) in Seattle, WA. SICSS-UW will draw from the vibrant quantitative social science landscape at UW, with particular contributions from the eScience Institute, Center for Statistics & the Social Sciences, Center for the Studies of Demography and Ecology, Department of Sociology and Department of Statistics. We will bring together 25-30 graduate students, postdoctoral researchers, faculty, and data science practitioners for an intensive two-week program at the intersection of artificial intelligence and social science research. 
 
 **Mission:** Bridge the gap between AI innovation and social science applications through hands-on learning, collaborative research, and open science practices.
 
