@@ -1,4 +1,4 @@
----
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/ad886392-efb7-4097-b579-ff32379b98de" />---
 layout: location_detail
 partner_site: sharjah
 ---
@@ -7,30 +7,24 @@ partner_site: sharjah
 
 # Apply
 
-**Check back soon for the application link.**
+
 
 ## Eligibility
 
+Participation is restricted to advanced Ph.D. students, postdoctoral researchers, and junior faculty (within 2 years of their Ph.D). There are no restrictions based on citizenship, country of study, or country of employment. We welcome applicants from all backgrounds and fields of study, especially neighboring institutions in the Middle East and the wider Global South, particularly those with interest in computational communication science. About 25-30 participants will be invited. Participants are expected to fully attend and participate in the entire program. 
 
-We invite applications from advanced Ph.D. students, postdoctoral researchers, and junior faculty (within 2 years of their Ph.D)., who are able to attend the full remote program. We welcome applicants from all backgrounds and fields of study, particularly those with interest in computational communication science. However, there are no restrictions based on citizenship, country of study, or country of employment.
-
-The Autumn Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp.
+The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp.
 
 We evaluate applicants along a number of dimensions: 1) research and teaching in the area of computational social science 2) contributions to public goods, such as creating open source software, curating public datasets, and creating educational opportunities for others 3) likelihood to benefit from participation 4) likelihood to contribute to the educational experience of other participants 5) potential to spread computational social science to new intellectual communities and areas of research. Further, when making our evaluations, we attempt to account for an applicant’s career stage and previous educational opportunities.
 
 ## How To Apply
 
-Applicants must submit the following documents: 1) a curriculum vitae, 2) a statement (maximum two pages double-spaced) describing: 
+Applicants must fill the following form: https://forms.gle/cFgLLGeFcqUyMx3L6
 
-- Your current research
-- Why you want to participate in SICSS-Sharjah
-- How participation will aid your future research
-- Your experience and/or interest in collaborative research. Carrying out a collaborative research project is a core component of SICSS-Sharjah.
-- A possible topic, method, or question you would like to focus on for a collaborative project
+**In order to be guaranteed full consideration, all application materials must be submitted by Monday May 4, 2026.** This form will automatically close once the application limit is reached. Please apply early to ensure your submission is considered.
+We will notify applicants solely through e-mail by **May 15, 2026**, and will ask participants to confirm their participation very soon thereafter.
 
-**In order to be guaranteed full consideration, all application materials must be submitted by TBD.** All application materials must be submitted through this [Google Form](https://www.google.com). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by **TBD**, and will ask participants to confirm their participation very soon thereafter.
-
-Inquiries can be sent to [site email not set up](email@goes.here).
+Inquiries can be sent through this form: https://forms.gle/8ew34LTTfgpKwXf88
 
 ## Application Frequently Asked Questions
 
