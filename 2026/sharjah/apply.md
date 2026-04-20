@@ -21,7 +21,7 @@ Applicants must fill [this form.](https://forms.gle/cFgLLGeFcqUyMx3L6)
 **In order to be guaranteed full consideration, all application materials must be submitted by Monday May 4, 2026.** This form will automatically close once the application limit is reached. Please apply early to ensure your submission is considered.
 We will notify applicants solely through e-mail by **May 15, 2026**, and will ask participants to confirm their participation very soon thereafter.
 
-Inquiries can be sent through this form: https://forms.gle/8ew34LTTfgpKwXf88
+Inquiries can be sent through [this form.](https://forms.gle/8ew34LTTfgpKwXf88)
 
 ## Application Frequently Asked Questions
 
