@@ -1,4 +1,4 @@
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/ad886392-efb7-4097-b579-ff32379b98de" />---
+
 layout: location_detail
 partner_site: sharjah
 ---
