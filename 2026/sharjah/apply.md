@@ -12,7 +12,7 @@ Participation is restricted to advanced Ph.D. students, postdoctoral researchers
 
 The Summer Institute aims to bring together computational social scientists across all levels of technical experience. Participants with less experience with social science research will be expected to complete additional readings in advance of the Institute, and participants with less experience coding will be expected to complete SICSS boot camp.
 
-We evaluate applicants based on several key dimensions: 1) the likelihood they will benefit from participation; 2) alignment with our commitment to inclusivity (specifically applicants based in or researching the Middle East and Global South); 3) the relevance of their research and teaching to computational social science; 4) their contributions to public goods, such as open-source software or public datasets; and 5) their potential to contribute to the peer learning experience and spread CSS to new intellectual communities. We also account for career stage and previous educational opportunities.
+We evaluate applicants based on several key dimensions: 1) the likelihood they will benefit from participation; 2) alignment with our commitment to inclusivity (specifically applicants based in or researching the Middle East, Africa, and Global South); 3) the relevance of their research and teaching to computational social science; 4) their contributions to public goods, such as open-source software or public datasets; and 5) their potential to contribute to the peer learning experience and spread CSS to new intellectual communities. We also account for career stage and previous educational opportunities.
 
 ## How To Apply
 
