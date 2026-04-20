@@ -16,7 +16,7 @@ To apply, please complete the form below. You will be asked to provide, in addit
 
 *Note: If you are based outside of Melbourne, you will have the opportunity within the form to request a limited, needs-based travel bursary capped at $750. Unfortunately, only a limited number of bursaries is available and while we will do our best to offer as much assistance as we can, the applicants are encouraged to use their own institutional funding where available.*
 
-**All application materials must be submitted by 4 May 2026.** Applications that are not complete by the deadline may not receive full consideration. We will notify applicants regarding the outcome in early May 2026. Then, we will ask accepted participants to confirm their participation.
+**All application materials must be submitted by 11 May 2026.** Applications that are not complete by the deadline may not receive full consideration. We will notify applicants regarding the outcome in early May 2026. Then, we will ask accepted participants to confirm their participation.
 
 If the form below did not load, please reload the page or use this direct link instead (will become active once opened): <!-- <a href="https://researchsurveys.deakin.edu.au/jfe/form/SV_1zSCB6SfhHZGIJw" target="_blank" rel="noopener noreferrer">SICSS-Melbourne 2026 Application Form</a> -->
 
