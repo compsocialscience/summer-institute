@@ -35,7 +35,7 @@ Dr Kateryna Kasianenko is a Research Fellow at the QUT node of the ARC Centre of
 
 **University of Sydney**
 
-Dr Olga Boichak is Senior Lecturer in Digital Cultures and Director of the Computational Social Science Lab at the University of Sydney (DECRA Fellow and 2025 Westpac Research Fellow). A media sociologist, she studies networks, narratives, and cultures of activism in the digital age, with expertise in influence operations, civilian participation in conflicts, and transnational humanitarianism. She develops and applies computational tools for large-scale analysis of online communication and information warfare.
+Dr Olga Boichak is Senior Lecturer in Digital Cultures and Founder of the Computational Social Science Lab at the University of Sydney (DECRA Fellow and 2025 Westpac Research Fellow). A media sociologist, she studies networks, narratives, and cultures of activism in the digital age, with expertise in influence operations, civilian participation in conflicts, and transnational humanitarianism. She develops and applies computational tools for large-scale analysis of online communication and information warfare.
 
 [More about Olga Boichak](https://profiles.sydney.edu.au/olga.boichak)
 </div>
