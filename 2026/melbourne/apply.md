@@ -28,7 +28,7 @@ Inquiries can be sent to <a href="mailto:sicss@internetobservatory.org.au">sicss
 
 ### Application Form
 
-<div class="form-container" style="width: 100%; height: 100%; display: flex; justify-content: center; margin-top: 20px; margin-bottom: 40px;">
+<div class="form-container" style="width: 100%; justify-content: center; margin-top: 20px; margin-bottom: 40px;">
   <iframe 
     src="https://researchsurveys.deakin.edu.au/jfe/form/SV_1zSCB6SfhHZGIJw" 
     width="100%" 
