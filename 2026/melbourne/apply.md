@@ -20,7 +20,7 @@ To apply, please complete the form below. You will be asked to provide, in addit
 
 If the form below did not load, please reload the page or use this direct link instead (will become active once opened): <a href="https://researchsurveys.deakin.edu.au/jfe/form/SV_1zSCB6SfhHZGIJw" target="_blank" rel="noopener noreferrer">SICSS-Melbourne 2026 Application Form</a>
 
-Inquiries can be sent to <a href="mailto:sicss@internetobservatory.org.au">sicss@internetobservatory.org.au</a>. We are currently in the process of getting necessary approvals to start accepting applications and will open the application form on this page. Feel free to reach out if you have any questions before that or if you face any technical difficulties when submitting the form.
+Inquiries can be sent to <a href="mailto:sicss@internetobservatory.org.au">sicss@internetobservatory.org.au</a>. Feel free to reach out if you have any questions or if you face any technical difficulties when submitting the form.
 
 <br>
 
@@ -28,7 +28,7 @@ Inquiries can be sent to <a href="mailto:sicss@internetobservatory.org.au">sicss
 
 ### Application Form
 
-<div class="form-container" style="width: 100%; display: flex; justify-content: center; margin-top: 20px; margin-bottom: 40px;">
+<div class="form-container" style="width: 100%; height: 100%; display: flex; justify-content: center; margin-top: 20px; margin-bottom: 40px;">
   <iframe 
     src="https://researchsurveys.deakin.edu.au/jfe/form/SV_1zSCB6SfhHZGIJw" 
     width="100%" 
