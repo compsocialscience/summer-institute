@@ -1,6 +1,62 @@
-- name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+- name: "Borna Atrchian"
+  image: /assets/images/borna_atrchian.png
+  bio: "Borna Atrchian is a first-year PhD student in Political Science at McGill University. He holds an MA in Political Science from the University of Toronto and a BSc in Behavioural Neuroscience from the University of British Columbia. His research interests are political behaviour and social psychology in the post-truth age. His current work explores the role of nihilism, distrust, and conspiracy beliefs in shaping public perceptions of reality and fuelling political violence."
+  website: https://www.linkedin.com/in/borna-atrchian-b10513179
 
-# Add more participants with the same format as above...
+- name: "Claudia Vivas"
+  image: /assets/images/claudia_vivas.jpg
+  bio: "Claudia Vivas is an economist and MSc student in Statistical Engineering with a background in causal inference and applied research in health and public policy. She works as a quantitative data specialist at a Peruvian NGO, where she analyzes large-scale digital trace data from an AI-based chatbot to study adolescent behavior in areas such as sexual health and emotional well-being. Her recent work focuses on incorporating computational methods—particularly text and sequence analysis—to better understand how individuals seek information and make decisions in digital environments."
+  website: https://claudiavivas.github.io/landing-page/
+
+- name: "Duygun Ruben"
+  image: /assets/images/duygun_ruben.jpeg
+  bio: "Duygun Ruben is a PhD student in Sociology at Boston College. His research interests lie broadly in the sociology of work, with a particular focus on platform labor and the intersection of work and AI. His current research explores how platform delivery workers in Turkey sacrifice their leisure time and physical safety to maximize their income, complicating conventional understandings of platform worker precarity. In his prospective dissertation research, Duygun will examine how AI reshapes social relationships in the workplace, influences workers’ sense of belonging, and transforms the meanings they attach to their skills and labor."
+  website: https://www.linkedin.com/in/duygun-ruben-474b20177/
+
+- name: "Eliza Yip"
+  image: /assets/images/eliza_yip.jpg
+  bio: "Eliza is an incoming Master’s student in Political Science at the University of Toronto. She was awarded the SSHRC Canada Graduate Research Scholarship to examine how online political behaviour impacts electoral outcomes and democratic resilience. She is a Research Assistant at the Center for the Study of Democratic Institutions, where she works with panel data and longitudinal causal inference methods. She is also co-authoring research with Professor Dietlind Stolle. Previously, she worked at the National Research Council of Canada and at the G20 Summit in New Delhi, India."
+  website: https://www.linkedin.com/in/elizayip/
+
+- name: "Fanxi He"
+  image: /assets/images/fanxi_he.jpg
+  bio: "Fanxi He is a first-year Ph.D. student in Political Science at the University of Illinois Urbana-Champaign. She holds a master's degree in International Politics from Fudan University and a bachelor's degree from Nankai University. Her research sits at the intersection of feminist international relations, international norm diffusion, and computational social science, with a regional focus on East Asia and the Middle East. She is especially interested in how states rhetorically engage with the Women, Peace, and Security Agenda, and uses natural language processing, topic modeling, and causal inference to study the diffusion of international gender norms."
+  website: https://www.linkedin.com/in/fanxi-he-1213b0287/
+
+- name: "Gaeun Jung"
+  image: /assets/images/gaeun_jung.jpg
+  bio: "Gaeun Jung is a Ph.D. student in the Department of Government at the University of Texas at Austin. She holds an M.A. in Political Science from Dongguk University. Her research focuses on International Relations, with a particular interest in civil conflict, rebel governance, and the role of external state support in violence against civilians."
+  website: https://www.linkedin.com/in/gaeun-jung-60b5a9388/
+
+- name: "Hanna Sistek"
+  image: /assets/images/hanna_sistek.jpg
+  bio: "Hanna Sistek is a political scientist whose research examines how digital technologies reshape democratic discourse and political accountability. Her work focuses on how fragmented media environments, affective polarization, and generative AI influence incentives for honesty in politics. She will join the Edmond & Lily Safra Center for Ethics at Harvard as a Postdoctoral Fellow in the fall of 2026. There, she will continue to develop her newest project ConvoLab, an AI-powered dialogue coach designed to support constructive political conversations. Her research combines survey experiments, interviews, and computational methods, including text analysis, to study disinformation and societal discourse. Before academia, she worked as an international journalist reporting across five continents."
+  website: https://hannasistek.github.io
+
+- name: "Luke Eliason"
+  image: /assets/images/luke_eliason.jpg
+  bio: "Luke Eliason is an undergraduate student at Brigham Young University studying comparative politics and Middle East studies. His research focuses on authoritarianism, extremism, and legitimacy in government. He is interested in data mining and web scraping methods, as well as large-scale data analysis through the use of large-language models. His area interests include the Levant and Mesopotamia, Arab Gulf, and the Indonesian archipelago. "
+  website: https://www.linkedin.com/in/lukeeliason/
+
+- name: "Michael Luzzio"
+  image: /assets/images/michael_luzzio.jpg
+  bio: "Michael Luzzio is a recent grad from the University of Rochester studying Political Science (data and modeling track) with a minor in Economics. He currently works as a researcher in the Political Science department, where he analyzes large-scale administrative data to study patterns in law enforcement and public policy. His work focuses on computational social science, particularly the use of statistical modeling to examine measurement reliability and institutional behavior. His broader research interests include formal modeling, political economy, and international relations, with an emphasis on conflict and the role of information asymmetries in shaping political and economic outcomes."
+  website: www.linkedin.com/in/michaelluzzio
+
+- name: "Nathan Carpenter-Holmes"
+  image: /assets/images/nathan_holmes.jpg
+  bio: "Nathan Carpenter-Holmes is an undergraduate at the University of Rochester pursuing a B.S. in Data Science and a B.A. in Economics, with a minor in Mathematics. His research interests span computational social science and sports analytics, with a focus on using data-driven methods to study decision-making, behavior, and performance across different domains. Nathan has worked as a research assistant studying historical political polarization through state legislature roll call data and will be a Summer Research Intern at Columbia Business School, where he will analyze the effects of political “disloyalty ads” on consumer behavior. Alongside his social science research, he has applied machine learning and statistical modeling in baseball analytics, developing tools and metrics using Trackman data to evaluate player performance, including a Stuff+ model for pitchers."
+  website: https://www.linkedin.com/in/nathan-carpenter-holmes-0a24512a6/
+
+- name: "Peng-Ting (Dean) Kuo"
+  image: /assets/images/peng_ting_kuo.jpg
+  bio: "Peng-Ting Kuo is a PhD student in Political Science at UT Austin, working at the intersection of computational social science and international relations. His substantive interests include threat perception, diplomatic rhetoric, and media representation, while methodologically he focuses on latent variable measurement, natural language processing, and multi-agent simulation. He served as a research assistant in political science, computer science, and sociology before joining UT Austin. Peng-Ting received his MA and BA in political science with a minor in economics from National Taiwan University."
+  website: https://deankuo.com
+
+- name: "Yike Tang"
+  image: /assets/images/yike_tang.jpg
+  bio: "Yike Tang is a PhD student in Family Social Science at the University of Minnesota, specializing in Couple and Family Therapy. Her research focuses on divorce decision-making, the ways early family experiences shape later romantic relationships, and mixed-agenda couples in therapy. She also has clinical experience working with individuals, couples, and families, which informs her interest in connecting research with real-world therapeutic contexts. Her broader goal is to develop interdisciplinary research that bridges family science, clinical practice, and computational methods."
+  website: https://www.linkedin.com/in/yike-tang-2116a6237/
+
+
+
