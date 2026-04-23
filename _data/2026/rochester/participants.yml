@@ -38,6 +38,12 @@
   bio: "Luke Eliason is an undergraduate student at Brigham Young University studying comparative politics and Middle East studies. His research focuses on authoritarianism, extremism, and legitimacy in government. He is interested in data mining and web scraping methods, as well as large-scale data analysis through the use of large-language models. His area interests include the Levant and Mesopotamia, Arab Gulf, and the Indonesian archipelago. "
   website: https://www.linkedin.com/in/lukeeliason/
 
+
+- name: "Mateo Santalucia"
+  image: /assets/images/mateo_santalucia.jpg
+  bio: "Mateo Santalucia is an undergraduate at the University of Rochester studying Economics and Statistics. He has conducted quantitative research analyzing how federal policies shape legal aid accessibility in underserved communities and works as a student consultant supporting local businesses through benchmarking analysis. His interests include trade policy, development economics, and financial market dynamics, with a focus on data-driven policymaking."
+  website: https://www.linkedin.com/in/mateo-santalucia/
+
 - name: "Michael Luzzio"
   image: /assets/images/michael_luzzio.jpg
   bio: "Michael Luzzio is a recent grad from the University of Rochester studying Political Science (data and modeling track) with a minor in Economics. He currently works as a researcher in the Political Science department, where he analyzes large-scale administrative data to study patterns in law enforcement and public policy. His work focuses on computational social science, particularly the use of statistical modeling to examine measurement reliability and institutional behavior. His broader research interests include formal modeling, political economy, and international relations, with an emphasis on conflict and the role of information asymmetries in shaping political and economic outcomes."
