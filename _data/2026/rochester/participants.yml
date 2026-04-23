@@ -33,6 +33,11 @@
   bio: "Hanna Sistek is a political scientist whose research examines how digital technologies reshape democratic discourse and political accountability. Her work focuses on how fragmented media environments, affective polarization, and generative AI influence incentives for honesty in politics. She will join the Edmond & Lily Safra Center for Ethics at Harvard as a Postdoctoral Fellow in the fall of 2026. There, she will continue to develop her newest project ConvoLab, an AI-powered dialogue coach designed to support constructive political conversations. Her research combines survey experiments, interviews, and computational methods, including text analysis, to study disinformation and societal discourse. Before academia, she worked as an international journalist reporting across five continents."
   website: https://hannasistek.github.io
 
+- name: "Hari Acharya"
+  image: /assets/images/hari_acharya.png
+  bio: "Hari Prasad Acharya is an undergraduate student in Computer Science at the University of Rochester. He is interested in data science, machine learning, computer vision, and building data-driven systems that connect technical methods to real-world impact. His current research focuses on sustainability-related applications of artificial intelligence."
+  website: https://www.linkedin.com/in/hari-p-acharya/
+
 - name: "Luke Eliason"
   image: /assets/images/luke_eliason.jpg
   bio: "Luke Eliason is an undergraduate student at Brigham Young University studying comparative politics and Middle East studies. His research focuses on authoritarianism, extremism, and legitimacy in government. He is interested in data mining and web scraping methods, as well as large-scale data analysis through the use of large-language models. His area interests include the Levant and Mesopotamia, Arab Gulf, and the Indonesian archipelago. "
