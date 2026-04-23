@@ -53,6 +53,11 @@
   bio: "Peng-Ting Kuo is a PhD student in Political Science at UT Austin, working at the intersection of computational social science and international relations. His substantive interests include threat perception, diplomatic rhetoric, and media representation, while methodologically he focuses on latent variable measurement, natural language processing, and multi-agent simulation. He served as a research assistant in political science, computer science, and sociology before joining UT Austin. Peng-Ting received his MA and BA in political science with a minor in economics from National Taiwan University."
   website: https://deankuo.com
 
+- name: "Songtao Zhang"
+  image: /assets/images/songtao_zhang.jpg
+  bio: "Songtao Zhang is a senior at the University of Rochester majoring in Data Science and Business. He has previously worked on topics in Data Science. He is passionate about learning how AI and social media shape or reshape people’s political attitudes, and whether social media intensifies political polarization. He is also interested in examining how different social structures / ethics and religious traditions influence social outcomes."
+  website: www.linkedin.com/in/songtao-zhang-8ba08224b
+
 - name: "Yike Tang"
   image: /assets/images/yike_tang.jpg
   bio: "Yike Tang is a PhD student in Family Social Science at the University of Minnesota, specializing in Couple and Family Therapy. Her research focuses on divorce decision-making, the ways early family experiences shape later romantic relationships, and mixed-agenda couples in therapy. She also has clinical experience working with individuals, couples, and families, which informs her interest in connecting research with real-world therapeutic contexts. Her broader goal is to develop interdisciplinary research that bridges family science, clinical practice, and computational methods."
