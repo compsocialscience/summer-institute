@@ -59,3 +59,5 @@ Since its inception, SICSS participants have produced a wide range of research p
 | Almaatouq, Abdullah; Paton, Nicolas | Empirica | <https://empirica.ly/> | Princeton 2017 |
 | | | | |
 | Barrie, Christopher | academictwitteR | <https://github.com/cjbarrie/academictwitteR> | Oxford 2019 |
+| | | | |
+| Sanches, Danielle; Lamarca, Felipe | RelicarIA (DH Awards 2025 Runner-Up – Best DH Tool or Suite of Tools) | <https://relicaria.streamlit.app/> | FGV/ECMI Brazil 2024 |
