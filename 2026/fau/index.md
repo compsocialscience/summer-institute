@@ -26,7 +26,7 @@ By the end of the program, participants will gain foundational skills in data sc
 
 The institute concludes with project discussions and a certificate distribution ceremony recognizing participants’ successful completion of the program.
 
-**Applications are to be submitted through the following Google Form by Sunday, April 19, 2026 at 11:59pm**.
+**Applications are to be submitted through the following Google Form by Sunday, April 30, 2026 at 11:59pm**.
   Please apply throgh this **[LINK](https://forms.gle/ccwhkwbdfD7F9GHM7).**
 
 [//]: # (ORGANIZERS: feel free to add a link to your application materials or your SICSS apply page above.)
