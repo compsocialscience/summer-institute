@@ -32,7 +32,7 @@ Applicants must submit a curriculum vitae and a professional statement (maximum 
 •	Experience and/or interest in collaborative research, as collaborative projects are a core component of SICSS-Florida Atlantic
 •	A potential topic, method, or question to be explored as part of a collaborative project
 
-**To ensure full consideration, all application materials must be submitted by Friday, April 27, 2026, by 11:59 p.m. (EST).** All application materials must be submitted through this [Google Form](https://forms.gle/BVQrUJQNLyc2THtQ7). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through email by **4th May 2026** and will ask participants to confirm their participation very soon thereafter.
+**To ensure full consideration, all application materials must be submitted by Friday, April 30, 2026, by 11:59 p.m. (EST).** All application materials must be submitted through this [Google Form](https://forms.gle/BVQrUJQNLyc2THtQ7). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through email by **4th May 2026** and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to sicss.fau@gmail.com.
 
