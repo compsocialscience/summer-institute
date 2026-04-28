@@ -1,4 +1,4 @@
-- name: "Speaker info coming soon." # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " ... " # add speaker bio here
-  website: https://www.google.com # update speaker personal link here
+- name: 'Riccardo Fogliato'
+  website: https://ricfog.github.io/
+  image: assets/images/2026/uw/speakers/speakers-riccardo-fogliato.jpg
+  bio: I am a senior research scientist on the Responsible AI team at Microsoft Core AI, working on testing of LLM safety. Previously, I was an applied scientist on the Responsible AI team at AWS, where I worked on statistical methods for evaluating language and vision models. I received a PhD in Statistics from CMU under the supervision of Alexandra Chouldechova and Zachary Lipton. During the PhD, I interned at MSR with Besmira Nushi, Kori Inkpen, and Eric Horvitz. I also was a research fellow at the Partnership on AI where I worked with Alice Xiang. Before going to CMU, I studied at Collegio Carlo Alberto, at the Universities of Torino and Padova, and spent some time at ENS Cachan.

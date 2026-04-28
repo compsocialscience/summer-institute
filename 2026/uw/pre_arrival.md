@@ -32,8 +32,9 @@ The [SICSS Boot Camp](https://sicss.io/boot_camp) is an online training program 
 If you would like more practice after completing the Boot Camp videos, some other materials that we can recommend are:
 - [RStudio Primers](https://rstudio.cloud/learn/primers), which can be supplemented by the open access book _[R for Data Science](https://r4ds.had.co.nz/)_ by Garrett Grolemund and Hadley Wickham
 - [R for Social Science](https://datacarpentry.org/r-socialsci/), Data Carpentry.  
-- [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/), Taught by Charles Lanfear at University of Washington. This course includes videos of lectures, slides, and assignments.
+- [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/), Taught by Charles Lanfear at the University of Washington. This course includes videos of lectures, slides, and assignments.
 - [Learn R](https://www.codecademy.com/learn/learn-r), Code Academy.
+- [Git, Github Version Control](https://github.com/akbaritabar/Git-GitHub-Version-Control-Interactive-Self-paced-Course), Taught by Aliakbar Akbaritabar at the University of Rostock and Max Planck Institute for Demographic Research.
 
 Please note that the majority of the coding work presented at SICSS-UW 2026 will employ R. You are welcome to employ a language of your choice, such as Python, Julia, or other languages that are commonly used by computational social scientists.  However, we cannot support each of these languages.
 
