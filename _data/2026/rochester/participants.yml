@@ -3,11 +3,6 @@
   bio: "Borna Atrchian is a first-year PhD student in Political Science at McGill University. He holds an MA in Political Science from the University of Toronto and a BSc in Behavioural Neuroscience from the University of British Columbia. His research interests are political behaviour and social psychology in the post-truth age. His current work explores the role of nihilism, distrust, and conspiracy beliefs in shaping public perceptions of reality and fuelling political violence."
   website: https://www.linkedin.com/in/borna-atrchian-b10513179
 
-- name: "Claudia Vivas"
-  image: /assets/images/claudia_vivas.jpg
-  bio: "Claudia Vivas is an economist and MSc student in Statistical Engineering with a background in causal inference and applied research in health and public policy. She works as a quantitative data specialist at a Peruvian NGO, where she analyzes large-scale digital trace data from an AI-based chatbot to study adolescent behavior in areas such as sexual health and emotional well-being. Her recent work focuses on incorporating computational methods—particularly text and sequence analysis—to better understand how individuals seek information and make decisions in digital environments."
-  website: https://claudiavivas.github.io/landing-page/
-
 - name: "Duygun Ruben"
   image: /assets/images/duygun_ruben.jpeg
   bio: "Duygun Ruben is a PhD student in Sociology at Boston College. His research interests lie broadly in the sociology of work, with a particular focus on platform labor and the intersection of work and AI. His current research explores how platform delivery workers in Turkey sacrifice their leisure time and physical safety to maximize their income, complicating conventional understandings of platform worker precarity. In his prospective dissertation research, Duygun will examine how AI reshapes social relationships in the workplace, influences workers’ sense of belonging, and transforms the meanings they attach to their skills and labor."
@@ -67,6 +62,11 @@
   image: /assets/images/songtao_zhang.jpg
   bio: "Songtao Zhang is a senior at the University of Rochester majoring in Data Science and Business. He has previously worked on topics in Data Science. He is passionate about learning how AI and social media shape or reshape people’s political attitudes, and whether social media intensifies political polarization. He is also interested in examining how different social structures / ethics and religious traditions influence social outcomes."
   website: www.linkedin.com/in/songtao-zhang-8ba08224b
+
+- name: "Shea Thorpe"
+  image: /assets/images/shea_thorpe.jpg
+  bio: "Hailing from Albany, New York, Shea will enter his senior year at the University of Rochester in the fall of 2026. Here he studies Financial Economics and Data Science, and conducts legislative research under the tutelage of Political Science professor Gerald Gamm. Working with professors Stu Jordan and Gretchen Helmke, Shea developed web-based educational tools using political surveys administered by the nonpartisan organization Bright Line Watch. He's excited about the prospect of advancing this work using data mining methods, and hopes to utilize natural language processing and machine learning to analyze and predict the effect of political headlines on public sentiment."
+  website: https://www.linkedin.com/in/shea-thorpe-790366390/
 
 - name: "Wonmin Hong"
   image: /assets/images/wonmin_hong.jpg
