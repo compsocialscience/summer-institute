@@ -58,15 +58,15 @@
   bio: "Peng-Ting Kuo is a PhD student in Political Science at UT Austin, working at the intersection of computational social science and international relations. His substantive interests include threat perception, diplomatic rhetoric, and media representation, while methodologically he focuses on latent variable measurement, natural language processing, and multi-agent simulation. He served as a research assistant in political science, computer science, and sociology before joining UT Austin. Peng-Ting received his MA and BA in political science with a minor in economics from National Taiwan University."
   website: https://deankuo.com
 
-- name: "Songtao Zhang"
-  image: /assets/images/songtao_zhang.jpg
-  bio: "Songtao Zhang is a senior at the University of Rochester majoring in Data Science and Business. He has previously worked on topics in Data Science. He is passionate about learning how AI and social media shape or reshape people’s political attitudes, and whether social media intensifies political polarization. He is also interested in examining how different social structures / ethics and religious traditions influence social outcomes."
-  website: www.linkedin.com/in/songtao-zhang-8ba08224b
-
 - name: "Shea Thorpe"
   image: /assets/images/shea_thorpe.jpg
   bio: "Hailing from Albany, New York, Shea will enter his senior year at the University of Rochester in the fall of 2026. Here he studies Financial Economics and Data Science, and conducts legislative research under the tutelage of Political Science professor Gerald Gamm. Working with professors Stu Jordan and Gretchen Helmke, Shea developed web-based educational tools using political surveys administered by the nonpartisan organization Bright Line Watch. He's excited about the prospect of advancing this work using data mining methods, and hopes to utilize natural language processing and machine learning to analyze and predict the effect of political headlines on public sentiment."
   website: https://www.linkedin.com/in/shea-thorpe-790366390/
+
+- name: "Songtao Zhang"
+  image: /assets/images/songtao_zhang.jpg
+  bio: "Songtao Zhang is a senior at the University of Rochester majoring in Data Science and Business. He has previously worked on topics in Data Science. He is passionate about learning how AI and social media shape or reshape people’s political attitudes, and whether social media intensifies political polarization. He is also interested in examining how different social structures / ethics and religious traditions influence social outcomes."
+  website: www.linkedin.com/in/songtao-zhang-8ba08224b
 
 - name: "Wonmin Hong"
   image: /assets/images/wonmin_hong.jpg
