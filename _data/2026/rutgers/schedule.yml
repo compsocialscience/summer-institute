@@ -1,5 +1,60 @@
-- date: "June 1 - June 12, 2026"
-  events:
-    - name: "Schedule coming soon. Check back for updates!" # Update this line or add markdown for your site's schedule.
+- date: All times are in Eastern Daylight Time. 
+  name: The schedule will run between approximately 9:00AM-4:30PM.
 
-  # Our tentative schedule can be seen [here](www.google.com). Our program focuses on ... . We will invite guest speakers to provide an overview of ..."
+- date: June 1, 2026
+  name: Introduction and Ethics 
+  events:
+    - name: Details coming soon
+
+- date: June 2, 2026
+  name: Text as Data
+  events:
+    - name: Details coming soon
+
+- date: June 3, 2026
+  name: Digital Trace Data (Web scraping, APIs, working with AI)
+  events:
+    - name: Details coming soon
+
+- date: June 4, 2026
+  name: Measurement and Machine Learning
+  events:
+    - name: Details coming soon
+
+- date: June 5, 2026
+  name: Digital Surveys and Experiments
+  events:
+    - name: Details coming soon
+     
+- date: June 6, 2026
+  events:
+    - name: "No meetings. Enjoy New Brunswick."
+
+- date: June 7, 2026
+  events:
+    - name: "No meetings. Enjoy New Brunswick." 
+ 
+- date: June 8, 2026
+  name: Group Formation
+  events:
+    - name: "Details coming soon"
+
+- date: June 9, 2026
+  name: Group Work Day
+  events:
+    - name: "Details coming soon"
+
+- date: June 10, 2026
+  name: Group Work Day
+  events:
+    - name: "Details coming soon"
+
+- date: June 11, 2026
+  name: Group Work Day
+  events:
+    - name: "Details coming soon"
+
+- date: June 12, 2026
+  name: Group Presentations and Closing Lunch
+  events: 
+    - name: "Details coming soon."

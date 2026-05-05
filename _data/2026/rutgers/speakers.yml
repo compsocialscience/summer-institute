@@ -1,4 +1,34 @@
-- name: "Speaker info coming soon." # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " ... " # add speaker bio here
-  website: https://www.google.com # update speaker personal link here
+- name: Jennifer Allen
+  image: /assets/images/Jennifer_Allen.jpg  
+  bio: "Jenny Allen is an Assistant Professor at NYU Stern in the Technology, Operations, and Statistics Department, as well as a research affiliate of the Center for Social Media and Politics."
+  website: https://jenny-allen.com/
+
+- name: Perry Carter
+  image: /assets/images/Perry_carter.jpg
+  bio: "Perry Carter is a Postdoctoral Researcher in the Social Science Division at NYU Abu Dhabi."
+  website: https://pjesscarter.github.io/
+  
+- name: Kiran Garimella
+  image: /assets/images/kiran_garimella.png
+  bio: "Kiran Garimella is an Assistant Professor at the School of Communication and Information at Rutgers University."
+  website: https://gvrkiran.github.io/
+
+- name: Ruobin Gong
+  image: /assets/images/Ruobin_Gong.jpg
+  bio: "Ruobin Gong is an Associate Professor of Statistics at Rutgers University."
+  website: https://ruobingong.github.io/
+  
+- name: Gandalf Nicolas
+  image: /assets/images/Gandalf_Nicolas.jpg
+  bio: "Gandalf Nicolas is an Assistant Professor of Psychology at Rutgers University."
+  website: https://www.nicolaslab.org/
+
+- name: Robert Schub
+  image: /assets/images/robertschub.jpeg
+  bio: "Robert Schub is an Associate Professor of Political Science at Rutgers University."
+  website: https://robertschub.com/
+
+- name: Yamil Velez
+  image: /assets/images/Yamil_velez.jpg
+  bio: "Yamil Velez is an Assistant Professor of Political Science at Columbia University."
+  website: https://yamilrvelez.com/
