@@ -15,6 +15,6 @@ Participation is restricted to doctoral students (current and newly admitted), p
 
 Application materials are due March 13 (extended from March 8). Applicants will be notified by approximately April 15, 2026. Inquiries may be sent to sicssrutgers@gmail.com.
 
-The 2026 Rutgers-SICSS is sponsored by the Rutgers Democracy Lab, the Department of Political Science at Rutgers University, the School of Arts and Sciences at Rutgers, and the SICSS funders. Selected collaborative democracy-focused research projects developed at SICSS will be eligible for up to $5000 in research funds provided by the Rutgers Democracy Lab.
+The 2026 Rutgers-SICSS is sponsored by the Rutgers Democracy Lab, the Department of Political Science at Rutgers University, the School of Arts and Sciences at Rutgers, and the SICSS funders. Selected collaborative democracy-focused research projects developed at SICSS will be eligible for up to $5000 in research funds provided by the [Rutgers Democracy Lab](https://democracylab.rutgers.edu/).
 
 [//]: # (ORGANIZERS: feel free to add a link to your application materials or your SICSS apply page above.)
