@@ -48,11 +48,6 @@
   bio: "Mateo Santalucia is an undergraduate at the University of Rochester studying Economics and Statistics. He has conducted quantitative research analyzing how federal policies shape legal aid accessibility in underserved communities and works as a student consultant supporting local businesses through benchmarking analysis. His interests include trade policy, development economics, and financial market dynamics, with a focus on data-driven policymaking."
   website: https://www.linkedin.com/in/mateo-santalucia/
 
-- name: "Michael Luzzio"
-  image: /assets/images/michael_luzzio.jpg
-  bio: "Michael Luzzio is a recent grad from the University of Rochester studying Political Science (data and modeling track) with a minor in Economics. He currently works as a researcher in the Political Science department, where he analyzes large-scale administrative data to study patterns in law enforcement and public policy. His work focuses on computational social science, particularly the use of statistical modeling to examine measurement reliability and institutional behavior. His broader research interests include formal modeling, political economy, and international relations, with an emphasis on conflict and the role of information asymmetries in shaping political and economic outcomes."
-  website: www.linkedin.com/in/michaelluzzio
-
 - name: "Nathan Carpenter-Holmes"
   image: /assets/images/nathan_holmes.jpg
   bio: "Nathan Carpenter-Holmes is an undergraduate at the University of Rochester pursuing a B.S. in Data Science and a B.A. in Economics, with a minor in Mathematics. His research interests span computational social science and sports analytics, with a focus on using data-driven methods to study decision-making, behavior, and performance across different domains. Nathan has worked as a research assistant studying historical political polarization through state legislature roll call data and will be a Summer Research Intern at Columbia Business School, where he will analyze the effects of political “disloyalty ads” on consumer behavior. Alongside his social science research, he has applied machine learning and statistical modeling in baseball analytics, developing tools and metrics using Trackman data to evaluate player performance, including a Stuff+ model for pitchers."
