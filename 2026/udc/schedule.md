@@ -30,8 +30,7 @@ The Computational Social Science Institute brings together scholars, practitione
 ## Faculty
 
 - Angelyn Flowers, Ph.D., J.D.  
-- Andrea Adams, Ph.D., J.D., M.B.A.  
-- Tony Mazza, J.D., M.B.A.  
+- Andrea Adams, Ph.D., J.D., M.B.A.   
 - Cotina Lane Pixley, M.S.  
 - Tayler Shreve, M.A.
 
