@@ -32,3 +32,7 @@ Yes, but not at the same time. For example, you can apply to SICSS-Sharjah, and 
 #### Can I participate in SICSS-Sharjah if I have already participated in SICSS at another location?
 
 Unfortunately, no. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
+
+#### Can I apply if I completed my PhD more than three years ago?
+
+Yes. We understand that access to opportunities and career trajectories are not the same for everyone, particularly in the Global South. We still encourage you to apply and to provide context in your application so it can be taken into consideration during the review process.
