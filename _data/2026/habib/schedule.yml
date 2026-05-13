@@ -1,80 +1,79 @@
 - date: June 8
-  name: "(Tentative Plan)"
+  name: "Introduction to CSS and Surveys and Ethics"
   events:
-    - name: "09:00 - 10:00 Registrations"
-    - name: "10:00 - 11:00 Welcome and Networking"
-    - name: "11:00 - 12:00 Introduciton: Why SICSS?"
-    - name: "12:00 - 01:00 Keynote Speaker (TBD)"
-    - name: "01:00 - 02:00 Lunch"
-    - name: "02:00 - 03:00 Seminar on Ethics: Principles-based Approach"
-    - name: "03:00 - 05:00 Group Exercise"
+    - name: "09:00 am - 10:00 am Registrations"
+    - name: "10:00 am - 11:00 am Welcome and Networking"
+    - name: "11:00 am - 01:00 pm Introduciton: Why Computational Social Science (Keynote Speaker)"
+    - name: "01:00 pm - 02:00 pm Lunch"
+    - name: "02:00 pm - 03:00 pm Seminar on Ethics: Principles-based Approach"
+    - name: "03:00 pm - 05:00 pm Group Exercise"
 
 - date: June 9
-  name: "(Tentative Plan)"
+  name: "Text as Data"
   events:
-    - name: "09:00 - 11:00 Tutorial: Extracting Digital Trace Data"
-    - name: "11:00 - 01:00 Guest Lecture"
-    - name: "01:00 - 02:00 Lunch"
-    - name: "02:00 - 03:00 Building apps for Social Science research"
-    - name: "03:00 - 05:00 Group Exercise"
+    - name: "09:00 am - 10:00 am Tutorial: Quantitative Text Analysis"
+    - name: "11:00 am - 01:00 pm Guest Lecture"
+    - name: "01:00 am - 02:00 pm Lunch"
+    - name: "02:00 pm - 03:00 pm Building apps for Social Science research"
+    - name: "03:00 pm - 05:00 pm Group Exercise"
 
 - date: June 10
-  name: "(Tentative Plan)"
+  name: "Agent Based Modeling"
   events:
-    - name: "09:00 - 11:00 Tutorial: Quantitative Text Analysis"
-    - name: "11:00 - 01:00 Guest Lecture"
-    - name: "01:00 - 02:00 Lunch"
-    - name: "02:00 - 05:00 Group Exercise"
+    - name: "09:00 am - 11:00 am Tutorial: Quantitative Text Analysis"
+    - name: "11:00 am - 01:00 pm Guest Lecture"
+    - name: "01:00 pm - 02:00 pm Lunch"
+    - name: "02:00 pm - 05:00 pm Group Exercise"
 
 - date: June 11
-  name: "(Tentative Plan)"
+  name: "Social Network Analysis and Digital Trace Data"
   events:
-    - name: "09:00 - 11:00 Tutorial: Network Analysis"
-    - name: "11:00 - 01:00 Guest Lecture"
-    - name: "01:00 - 02:00 Lunch"
-    - name: "02:00 - 05:00 Group Exercise"
+    - name: "09:00 am - 11:00 am Tutorial: Network Analysis"
+    - name: "11:00 am - 01:00 pm Guest Lecture"
+    - name: "01:00 pm - 02:00 pm Lunch"
+    - name: "02:00 pm - 05:00 pm Group Exercise"
 
 - date: June 12
-  name: "(Tentative Plan)"
+  name: "AI and LLMS for Social Sciences"
   events:
-    - name: "09:00 - 11:00 Tutorial: Statistical Analysis and Sampling"
-    - name: "11:00 - 01:00 Guest Lecture"
-    - name: "01:00 - 02:00 Lunch"
-    - name: "02:00 - 05:00 Group Exercise"
+    - name: "09:00 am - 11:00 am Tutorial: Statistical Analysis and Sampling"
+    - name: "11:00 am - 01:00 pm Guest Lecture"
+    - name: "01:00 pm - 02:00 pm Lunch"
+    - name: "02:00 pm - 05:00 pm Group Exercise"
 
 - date: June 15
-  name: "(Tentative Plan)"
+  name: "Group Work"
   events:
-    - name: "09:00 - 11:00 Speed-dating and Group Formation"
-    - name: "11:00 - 01:00 Guest Lecture"
-    - name: "01:00 - 02:00 Lunch"
-    - name: "02:00 - 05:00 Project Work"
+    - name: "09:00 am - 11:00 am Speed-dating and Group Formation"
+    - name: "11:00 am - 01:00 pm Guest Lecture"
+    - name: "01:00 pm - 02:00 pm Lunch"
+    - name: "02:00 pm - 05:00 pm Project Work"
 
 - date: June 16
-  name: "(Tentative Plan)"
+  name: "Group Work"
   events:
-    - name: "09:00 - 01:00 Project Work"
-    - name: "01:00 - 02:00 Lunch"
-    - name: "02:00 - 05:00 Project Work"
+    - name: "09:00 am - 01:00 pm Project Work"
+    - name: "01:00 pm - 02:00 pm Lunch"
+    - name: "02:00 pm - 05:00 pm Project Work"
 
 - date: June 17
-  name: "(Tentative Plan)"
+  name: "Group Work"
   events:
-    - name: "09:00 - 01:00 Project Work"
-    - name: "01:00 - 02:00 Lunch"
-    - name: "02:00 - 05:00 Project Work"
+    - name: "09:00 am - 01:00 pm Project Work"
+    - name: "01:00 pm - 02:00 pm Lunch"
+    - name: "02:00 pm - 05:00 pm Project Work"
 
 - date: June 18
-  name: "(Tentative Plan)"
+  name: "Group Work"
   events:
-    - name: "09:00 - 01:00 Project Work"
-    - name: "01:00 - 02:00 Lunch"
-    - name: "02:00 - 05:00 Project Work"
+    - name: "09:00 am - 01:00 pm Project Work"
+    - name: "01:00 pm - 02:00 pm Lunch"
+    - name: "02:00 pm - 05:00 pm Project Work"
 
 - date: June 19
-  name: "(Tentative Plan)"
+  name: "Group Work"
   events:
-    - name: "09:00 - 01:00 Team Presentations"
-    - name: "01:00 - 02:00 Lunch"
-    - name: "02:00 - 03:00 Feedback"
-    - name: "03:00 - 05:00 Closing Remarks"
+    - name: "09:00 am - 01:00 pm Team Presentations"
+    - name: "01:00 pm - 02:00 pm Lunch"
+    - name: "02:00 pm - 03:00 pm Feedback"
+    - name: "03:00 pm - 05:00 pm Closing Remarks"
