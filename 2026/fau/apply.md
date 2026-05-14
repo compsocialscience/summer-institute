@@ -27,7 +27,7 @@ Further, when evaluating applicants, we aim to account for an applicant’s care
 Applicants must submit a curriculum vitae and a professional statement (maximum two pages, double-spaced) describing:
 
 •	Current research
-•	Reasons for interest in participating in SICSS-Florida Atlantic
+•	Reasons for interest in participating in SICSS-Florida Atlantic University
 •	How participation will support future research
 •	Experience and/or interest in collaborative research, as collaborative projects are a core component of SICSS-Florida Atlantic
 •	A potential topic, method, or question to be explored as part of a collaborative project
