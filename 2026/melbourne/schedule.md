@@ -465,7 +465,7 @@ The final day discusses real-world applications of CSS in research and career pa
   <p class="session-meta">11:00–12:30 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Panel</p>
   <p class="session-title">Working With and In the Industry</p>
   <p class="session-speakers"><strong>Speakers:</strong>
-    <a href="https://experts.swinburne.edu.au/12345-dominique-carlon" target="_blank" rel="noopener noreferrer">Dominique Carlon</a>
+    <a href="https://experts.swinburne.edu.au/12345-dominique-carlon" target="_blank" rel="noopener noreferrer">TBD</a>
   </p>
   <p class="session-desc">The panel brings together computational social scientists working in or closely with industry and government organisations. Panellists will share insights on career transitions, the skills most valued by employers, real-world applications of CSS beyond academia, and strategies for building successful collaborations between researchers and industry partners.</p>
   <div class="outcomes-box">
@@ -491,8 +491,8 @@ The final day discusses real-world applications of CSS in research and career pa
 
 <div class="session-block">
   <p class="session-meta">15:15–16:15 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
-  <p class="session-title">Grant Writing</p>
-  <p class="session-speakers"><strong>Speakers:</strong> <span class="speaker-tbd">TBC</span></p>
+  <p class="session-title">Grant Writing in Computational Social Science</p>
+  <p class="session-speakers"><strong>Speakers:</strong><a href="https://www.qut.edu.au/about/our-people/academic-profiles/daniel.angus" target="_blank" rel="noopener noreferrer">Daniel Angus</a></p>
   <p class="session-desc"><em>TBD</em></p>
 </div>
 
