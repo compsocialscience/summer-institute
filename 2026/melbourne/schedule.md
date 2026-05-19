@@ -95,12 +95,6 @@ partner_site: melbourne
 
 *Please note: The program outlined below is not final, and while many speakers have confirmed their participation, session descriptions may change at the discretion of our speakers and will be adjusted accordingly. The final program and materials will be shared with participants throughout May and June. An emphasis will also be placed on networking and social activities that will take place on some of the days, including networking dinner for participants, organisers, and invited speakers.*
 
-<br>
-<hr>
-<br>
-
-<br>
-
 ---
 
 <div class="week-header">
@@ -278,13 +272,13 @@ Participants explore different existing and emerging data collection strategies 
   <p class="session-speakers"><strong>Speakers:</strong>
     <a href="https://www.qut.edu.au/about/our-people/academic-profiles/e.dehghan" target="_blank" rel="noopener noreferrer">Ehsan Dehghan</a>
   </p>
-  <p class="session-desc">The workshop will address the debate related to the theoretical foundations of CSS and their role in studies that use computational analysis and are driven by digital data. We will reiterate the importance of the theoretical component and how choosing a methodological tool can drastically change research outcomes.</p>
+  <p class="session-desc">Critics argue that CSS lets the methodological tail wag the substantive dog; that its predictive success masks explanatory weakness, and that it imports questions to fit available data. This session engages such critiques and examines what researchers can take from them when designing their own projects.</p>
   <div class="outcomes-box">
     <p>Learning Outcomes</p>
     <ul>
-      <li>Justify the choice of methods guided by theory.</li>
-      <li>Employ a theory-based methodological approach.</li>
-      <li>Analyse implications of computational methods.</li>
+      <li>Justify methodological choices using a theoretical framework.</li>
+      <li>Critically examine the use of CSS in theory building.</li>
+      <li>Analyse the broader implications of computational methods.</li>
     </ul>
   </div>
 </div>
