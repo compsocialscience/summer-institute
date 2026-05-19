@@ -1,5 +1,4 @@
-- name: "TA info coming soon."
-  image: /assets/images/placeholderPic.png
-  bio: "..."
-  website: www.google.com
+- name: "Chris DeFelice"
+  image: /assets/images/DeFelice.png
+  bio: "Chris DeFelice (Ph.D., 2026) earned his Ph.D. in Mass Communication from the College of Journalism and Communications at the University of Florida. His research focuses on new media technology, with particular emphasis on artificial intelligence in entertainment production, streaming-era audience behavior, and the role of strategic communication and social media discourse in shaping public evaluations of emerging technologies."
 # add more TAs with this format below...
