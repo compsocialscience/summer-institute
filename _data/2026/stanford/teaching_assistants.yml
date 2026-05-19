@@ -1,5 +1,9 @@
-- name: "TA info coming soon."
-  image: /assets/images/placeholderPic.png
-  bio: "..."
-  website: www.google.com
-# add more TAs with this format below...
+- name: "Sarah Wu"
+  image: /assets/images/2026/stanford/people-sarah-wu.jpg
+  bio: "Sarah is a PhD student in the Stanford Communication Department, focusing on media psychology. Her research examines the psychological consequences of people's engagement with digital technologies (e.g., AI, social media), particularly in educational and creative contexts."
+  website: https://www.linkedin.com/in/sarahhwu
+
+- name: "Aya Salim"
+  image: /assets/images/2026/stanford/people-aya-salim.jpg
+  bio: "Aya is a PhD student in Media Psychology in the Department of Communication at Stanford. Her research explores how people process and respond to information in complex media environments. She is particularly interested in social norms, political psychology, misinformation, and how media shape attitudes and decision-making."
+  website: https://www.linkedin.com/in/ayasalim
