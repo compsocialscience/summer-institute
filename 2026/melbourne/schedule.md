@@ -107,6 +107,9 @@ partner_site: melbourne
   <h2>Day 1 — Introduction to Computational Social Science</h2>
   <p class="venue"><a href="https://maps.google.com/?q=RMIT+Megaflex+3,+445+Swanston+St+Melbourne+VIC+3000" target="_blank" rel="noopener noreferrer">RMIT Building 8 Megaflex 3</a> &nbsp;·&nbsp; Monday, 22 June 2026</p>
 </div>
+<div class="venue-map">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.2096175100896!2d144.96130411254828!3d-37.80855883362555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642cb7f336eb1%3A0xa98ed363c8f77b8a!2sBuilding%208%20-%20RMIT%20University!5e0!3m2!1sen!2sau!4v1779156623036!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 <div class="day-summary">
 All participants and speakers meet and get to know each other. The program begins with foundational discussions on CSS and its value for interdisciplinary research. The aim is to provide a clear understanding of the field, its opportunities, its limitations, and the work that needs to be done.
@@ -344,6 +347,9 @@ Participants explore different existing and emerging data collection strategies 
   <h2>Day 4 — Tools and Approaches to Data Analysis</h2>
   <p class="venue"><a href="https://maps.google.com/?q=RMIT+Activator,+Melbourne+VIC" target="_blank" rel="noopener noreferrer">RMIT Activator</a> &nbsp;·&nbsp; Thursday, 25 June 2026</p>
 </div>
+<div class="venue-map">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.6945036735665!2d144.94514735618282!3d-37.82062406237891!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d509d17bc27%3A0x5a6142623152382d!2sDeakin%20Downtown!5e0!3m2!1sen!2sau!4v1779156493045!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 <div class="day-summary">
 We move towards methods that bridge social science and computation. Workshops cover qualitative and quantitative approaches and outline skills needed to conduct research that makes theoretical and empirical contributions. Starting from screen capture and annotation, we proceed to the discussion of LLMs, RAG, and image analysis.
@@ -508,12 +514,12 @@ The second week transitions from formal instruction to hands-on, participant-led
 </div>
 
 <div class="venue-map">
-  <iframe src="https://www.openstreetmap.org/export/embed.html?bbox=144.9522%2C-37.8204%2C144.9622%2C-37.8124&amp;layer=mapnik&amp;marker=-37.8164%2C144.9572" loading="lazy" title="Deakin Downtown location map"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.6945036735665!2d144.94514735618282!3d-37.82062406237891!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d509d17bc27%3A0x5a6142623152382d!2sDeakin%20Downtown!5e0!3m2!1sen!2sau!4v1779156493045!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 **Morning Sessions (90 min) — Advanced Workshops**
 
-<div class="session-block">
+<!-- <div class="session-block">
   <p class="session-meta">Mon 29 Jun &nbsp;·&nbsp; 10:00 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
   <p class="session-title"><span class="speaker-tbd">TBD</span></p>
   <p class="session-speakers"><strong>Speakers:</strong>
@@ -527,7 +533,7 @@ The second week transitions from formal instruction to hands-on, participant-led
   <p class="session-speakers"><strong>Speakers:</strong>
     <a href="#" target="_blank" rel="noopener noreferrer">Dan Binns</a>
   </p>
-</div>
+</div> -->
 
 <div class="session-block">
   <p class="session-meta">Wed 1 Jul &nbsp;·&nbsp; 09:00 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
@@ -546,7 +552,7 @@ The second week transitions from formal instruction to hands-on, participant-led
   </div>
 </div>
 
-<div class="session-block">
+<!-- <div class="session-block">
   <p class="session-meta">Week 2 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
   <p class="session-title">Network Analysis in CSS</p>
   <p class="session-speakers"><strong>Speakers:</strong>
@@ -561,9 +567,9 @@ The second week transitions from formal instruction to hands-on, participant-led
       <li>Interpret network analysis results in meaningful social and cultural contexts.</li>
     </ul>
   </div>
-</div>
+</div> -->
 
-<div class="session-block">
+<!-- <div class="session-block">
   <p class="session-meta">Week 2 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
   <p class="session-title">Simulation in Social Science</p>
   <p class="session-speakers"><strong>Speakers:</strong>
@@ -578,7 +584,7 @@ The second week transitions from formal instruction to hands-on, participant-led
       <li>Evaluate the strengths, limitations, and appropriate applications of simulation methods in CSS.</li>
     </ul>
   </div>
-</div>
+</div> -->
 
 <br>
 
