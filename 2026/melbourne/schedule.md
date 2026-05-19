@@ -398,15 +398,16 @@ We move towards methods that bridge social science and computation. Workshops co
   <p class="session-title">RAG 101</p>
   <p class="session-speakers"><strong>Speakers:</strong>
     <a href="https://www.admscentre.org.au/futoon-abushaqra/" target="_blank" rel="noopener noreferrer">Futoon Abushaqra</a>,
-    <a href="#" target="_blank" rel="noopener noreferrer">Sachin Pathiyan Cherumanal</a>
+    <a href="https://www.rmit.edu.au/profiles/p/sachin-pathiyan-cherumanal2" target="_blank" rel="noopener noreferrer">Sachin Pathiyan Cherumanal</a>
   </p>
-  <p class="session-desc">We will talk about RAG retrieval and its use in research. We will focus on how RAG can facilitate more grounded research and fit for data triangulation necessary for reliable research results.</p>
+  <p class="session-desc">This session will introduce participants to the fundamentals of Retrieval-Augmented Generation (RAG), a framework that combines information retrieval with large language models (LLMs) to produce more accurate and context-aware responses. It will provide a high-level overview of how RAG systems work</p>
   <div class="outcomes-box">
     <p>Learning Outcomes</p>
     <ul>
-      <li>Understand RAG.</li>
-      <li>Find applications of RAG in research contexts.</li>
-      <li>Use RAG for data retrieval and triangulation.</li>
+      <li>Understand the basic concept of a RAG system</li>
+      <li>Recognise how RAG integrates retrieval and generation to improve LLM outputs</li>
+      <li>Identify potential applications of RAG in research workflows</li>
+      <li>Be aware of the main benefits and limitations of using RAG systems</li>
     </ul>
   </div>
 </div>
