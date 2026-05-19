@@ -446,7 +446,7 @@ The final day discusses real-world applications of CSS in research and career pa
   <p class="session-meta">09:00–10:30 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Panel</p>
   <p class="session-title">Cross-Disciplinary Collaboration: Bringing Social Science and Computational Analysis Together</p>
   <p class="session-speakers"><strong>Speakers:</strong>
-    <a href="https://www.rmit.edu.au/profiles/z/oleg-zendel" target="_blank" rel="noopener noreferrer">Oleg Zendel</a>
+    <a href="https://www.rmit.edu.au/profiles/z/oleg-zendel" target="_blank" rel="noopener noreferrer">Oleg Zendel</a>, <a href="https://www.rmit.edu.au/profiles/t/j-trippas" target="_blank" rel="noopener noreferrer">Johanne Trippas</a>
   </p>
   <p class="session-desc">We will talk about what it means to be part of an interdisciplinary team and how to make sure that such collaboration works well. Drawing from individual experiences, the panel members will discuss how hard or easy it can be for researchers from different backgrounds to collaborate with each other and what considerations should be taken when working on a big project.</p>
   <div class="outcomes-box">
@@ -465,7 +465,8 @@ The final day discusses real-world applications of CSS in research and career pa
   <p class="session-meta">11:00–12:30 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Panel</p>
   <p class="session-title">Working With and In the Industry</p>
   <p class="session-speakers"><strong>Speakers:</strong>
-    <a href="https://experts.swinburne.edu.au/12345-dominique-carlon" target="_blank" rel="noopener noreferrer">TBD</a>
+    <!-- <a href="https://experts.swinburne.edu.au/12345-dominique-carlon" target="_blank" rel="noopener noreferrer"> -->
+      <span class="speaker-tbd">TBD</span>
   </p>
   <p class="session-desc">The panel brings together computational social scientists working in or closely with industry and government organisations. Panellists will share insights on career transitions, the skills most valued by employers, real-world applications of CSS beyond academia, and strategies for building successful collaborations between researchers and industry partners.</p>
   <div class="outcomes-box">
@@ -483,7 +484,7 @@ The final day discusses real-world applications of CSS in research and career pa
 <div class="session-block">
   <p class="session-meta">13:30–15:00 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
   <p class="session-title">Career Success</p>
-  <p class="session-speakers"><strong>Speakers:</strong> <span class="speaker-tbd">TBC</span></p>
+  <p class="session-speakers"><strong>Speakers:</strong> <a href="https://www.rmit.edu.au/profiles/t/j-trippas" target="_blank" rel="noopener noreferrer">Johanne Trippas</a></p>
   <p class="session-desc">The workshop equips HDR candidates and ECRs with strategies for project planning, timeline management, supervisor communication, milestone navigation, and building a strong research profile suitable for different pathways in Australia.</p>
 </div>
 
