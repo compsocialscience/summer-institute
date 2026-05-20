@@ -131,7 +131,8 @@ All participants and speakers meet and get to know each other. The program begin
   <p class="session-title">What is Computational Social Science and Why It Matters in Australia?</p>
   <p class="session-speakers"><strong>Speakers:</strong>
     <a href="https://www.qut.edu.au/about/our-people/academic-profiles/daniel.angus" target="_blank" rel="noopener noreferrer">Daniel Angus</a>,
-    <a href="https://profiles.sydney.edu.au/olga.boichak" target="_blank" rel="noopener noreferrer">Olga Boichak</a>
+    <a href="https://profiles.sydney.edu.au/olga.boichak" target="_blank" rel="noopener noreferrer">Olga Boichak</a>,
+    <a href="https://experts.deakin.edu.au/2528-svetha-venkatesh" target="_blank" rel="noopener noreferrer">Svetha Venkatesh</a>
   </p>
   <p class="session-desc">Explore the foundational principles of Computational Social Science (CSS) and its growth within the Australian context. We will examine how CSS transforms our understanding of society and provides unique value for modern research. This is an interactive session — we will introduce ourselves and answer any questions.</p>
   <div class="outcomes-box">
