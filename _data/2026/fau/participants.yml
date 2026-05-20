@@ -78,10 +78,10 @@
   bio: " Owen Mtambo is a Postdoctoral Fellow in Data Science at the University of the Virgin Islands (UVI), where he leads and contributes to interdisciplinary research at the intersection of artificial intelligence (AI), machine learning (ML), spatial and spatio-temporal modeling, and biomedical and public health. His work focuses on harnessing the power of AI and data science to address pressing health and educational challenges in geographically isolated and underserved communities, including the U.S. Virgin Islands. "  # Add participant bio here.
   website: https://owen-mtambo.com/  # Link participant website here.
 
-  - name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+  - name: " Dion Allen" # Replace with participant name.
+  image: /assets/images/Dion.jpg  # Add participant image to assets/images/ and update here.
+  bio: " Dion Allen is a postdoctoral fellow at the University of Miami Miller School of Medicine specializing in HIV prevention, women's health, and implementation science. Her research focuses on improving PrEP awareness and uptake among underserved women through community-engaged, data-driven, and behavioral health approaches. "  # Add participant bio here.
+  website: www.linkedin.com/in/dion-allen-68388918b  # Link participant website here.
 
   - name: "Participant info coming soon." # Replace with participant name.
   image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
