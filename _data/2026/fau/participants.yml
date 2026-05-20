@@ -123,10 +123,10 @@
   bio: " Deepak Bastola is a PhD student in applied mathematics at Florida Atlantic University researching AI, neural networks, and statistical learning. Founder of the Mathematical Association of Nepal, he initiated and led Nepal’s first International Mathematical Olympiad participation (2017–2022), advancing mathematical education, leadership, and AI-oriented research. "  # Add participant bio here.
   website: https://deepakbastola.com.np/  # Link participant website here.
 
-  - name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+  - name: "Leila Nasri" # Replace with participant name.
+  image: /assets/images/Leila.jpg  # Add participant image to assets/images/ and update here.
+  bio: " Leila Nasri is a Data Scientist in the Office of Institutional Effectiveness and Analysis at Florida Atlantic University, where she supports higher education analytics and institutional reporting. She is also a Ph.D. candidate in Computer Science, with research interests in machine learning, biomedical signal processing, and gait analysis. "  # Add participant bio here.
+  website: lnasri2019@fau.edu  # Link participant website here.
 
   - name: "Participant info coming soon." # Replace with participant name.
   image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
