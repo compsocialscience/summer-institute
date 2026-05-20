@@ -103,10 +103,10 @@
   bio: " Besa H. Bauta, Ph.D., is an Assistant Professor at New York University and a researcher specializing in the ethical implementation of AI in behavioral health. An experienced technology executive, she previously served as a CIO and CDAO, leading large-scale digital transformations and modernization projects. "  # Add participant bio here.
   website: https://www.linkedin.com/in/besabauta  # Link participant website here.
 
-  - name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+  - name: "Xiaoqi Sun" # Replace with participant name.
+  image: /assets/images/Xiaoqi.jpg  # Add participant image to assets/images/ and update here.
+  bio: " Xiaoqi Sun, PhD, is a research scientist and biostatistician at Memorial Healthcare System.Her work focuses on population health, real-world data analysis, and health disparities, with applications in oncology and infectious disease using large-scale EHR and registry datasets. "  # Add participant bio here.
+  website: https://www.linkedin.com/in/xiaoqi-sun-9a5973150/?skipRedirect=true  # Link participant website here.
 
   - name: "Participant info coming soon." # Replace with participant name.
   image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
