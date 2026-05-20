@@ -1,4 +1,4 @@
-- name: "Hanh Phan" # Replace with participant name.
+  - name: "Hanh Phan" # Replace with participant name.
   image: /assets/images/Hanh.jpg  # Add participant image to assets/images/ and update here.
   bio: " Hanh Phan is an Assistant Professor of Finance at Chatham University. Her research interests include corporate finance, real estate, and sustainability. She earned her Ph.D. in Finance and Real Estate from the University of Texas at Arlington and her Master's in Financial Management from Tilburg University. "  # Add participant bio here.
   website: https://www.linkedin.com/in/hanh-phan-bb897a8b/  # Link participant website here.
@@ -43,10 +43,10 @@
   bio: " Kayla Jolly is a PhD candidate in Social Welfare at Florida International University. Her research focuses on the emotional abuse of children, child abuse, and psychological trauma. Kayla aims to highlight the voices of children and ensure the relevance of emotional abuse frameworks to other countries and cultures.  "  # Add participant bio here.
   website: www.linkedin.com/in/kayla-jolly-b240051a7  # Link participant website here.
 
-  - name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+  - name: "Sharika Marjan" # Replace with participant name.
+  image: /assets/images/Sharika.jpg  # Add participant image to assets/images/ and update here.
+  bio: " I am a PhD student in the department of Environmental Health Sciences in Florida International University. My research focuses on the impact of environmental toxicant exposure on the neurodevelopment and cognitive function in adolescents. I have a masters in Global Health from Norway where I worked on establishing a drug screening platform for a rare genetic disease. "  # Add participant bio here.
+  website: https://www.linkedin.com/in/sharika-marjan-154747173/  # Link participant website here.
 
   - name: "Participant info coming soon." # Replace with participant name.
   image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
