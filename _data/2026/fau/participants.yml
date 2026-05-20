@@ -1,129 +1,129 @@
-   - name: "Hanh Phan" # Replace with participant name.
+- name: "Hanh Phan" # Replace with participant name.
   image: /assets/images/Hanh.jpg  # Add participant image to assets/images/ and update here.
   bio: " Hanh Phan is an Assistant Professor of Finance at Chatham University. Her research interests include corporate finance, real estate, and sustainability. She earned her Ph.D. in Finance and Real Estate from the University of Texas at Arlington and her Master's in Financial Management from Tilburg University. "  # Add participant bio here.
   website: https://www.linkedin.com/in/hanh-phan-bb897a8b/  # Link participant website here.
 
-  - name: "Michelle Knecht" # Replace with participant name.
+- name: "Michelle Knecht" # Replace with participant name.
   image: /assets/images/Michelle.jpg  # Add participant image to assets/images/ and update here.
   bio: " Michelle Keba Knecht is the Senior Medical Librarian for the Schmidt College of Medicine at Florida Atlantic University and a doctoral student in the Department of Curriculum and Instruction. Her research uses Legitimation Code Theory to examine code clashes between healthcare professionals and breast cancer survivors. "  # Add participant bio here.
   website: https://www.linkedin.com/in/michellekeba/  # Link participant website here.
 
-  - name: "Shanting Chen" # Replace with participant name.
+- name: "Shanting Chen" # Replace with participant name.
   image: /assets/images/Shanting.jpg  # Add participant image to assets/images/ and update here.
   bio: " Shanting Chen is an Assistant Professor of Psychology at the University of Florida. She studies how life experiences get under the skin—using machine learning and epigenomics to understand why chronic stress accelerates aging and increases chronic disease risk, particularly among marginalized populations. "  # Add participant bio here.
   website: https://www.linkedin.com/in/shanting-c-3aa0168a/  # Link participant website here.
 
-  - name: "Aida Ashtari Nakhaee" # Replace with participant name.
+- name: "Aida Ashtari Nakhaee" # Replace with participant name.
   image: /assets/images/Aida.jpg  # Add participant image to assets/images/ and update here.
   bio: " Aida Ashtari is a Ph.D. candidate in Economics at Florida International University. Her research interests lie at the intersection of health economics, public economics, and policy evaluation, with a focus on health insurance, maternal health, nutrition, physical activity, fitness, and the broader determinants of health and well-being. "  # Add participant bio here.
   website: https://www.linkedin.com/in/aida-ashtari-nakhaee-772377ab/  # Link participant website here.
 
-  - name: "Judyta Kociolek" # Replace with participant name.
+- name: "Judyta Kociolek" # Replace with participant name.
   image: /assets/images/Judyta.jpg  # Add participant image to assets/images/ and update here.
   bio: " Judyta Kociolek is an oncology nurse with 10+ years of experience. She earned a master’s degree in Nursing Administration and Financial Leadership from Florida Atlantic University in 2019 and has served as Director of Clinical Research Unit Operations since 2023. She is also a PhD student at Christine E. Lynn College of Nursing. "  # Add participant bio here.
   website: https://orcid.org/0009-0000-6159-8526  # Link participant website here.
 
-  - name: "Ana Bravo" # Replace with participant name.
+- name: "Ana Bravo" # Replace with participant name.
   image: /assets/images/Ana.jpg  # Add participant image to assets/images/ and update here.
   bio: " Ana Bravo is a Senior Research Associate from the Department of Public Health Sciences at the University of Miami. Her research focuses on social network analysis methods, HIV prevention, and health communication among Latino communities. Her work integrates statistical modeling and network analysis to support community research in Florida.  "  # Add participant bio here.
   website: www.linkedin.com/in/anabravobiostats  # Link participant website here.
 
-  - name: "Sumarga Sah Tyagi" # Replace with participant name.
+- name: "Sumarga Sah Tyagi" # Replace with participant name.
   image: /assets/images/Sumarga.jpg  # Add participant image to assets/images/ and update here.
   bio: " Sumarga Kumar Sah Tyagi (M’19) is an Assistant Professor at Florida A&M University specializing in AI, cybersecurity, IoT/IIoT, biomedical informatics, and NGS analytics. His research focuses on Bio-Cybernetics, deep learning, and genomics. He has held international academic roles and serves as editor, reviewer, and committee member. "  # Add participant bio here.
   website: https://www.linkedin.com/in/sumarga/  # Link participant website here.
 
-  - name: "Lingwei Cheng" # Replace with participant name.
+- name: "Lingwei Cheng" # Replace with participant name.
   image: /assets/images/Lingwei.jpg  # Add participant image to assets/images/ and update here.
   bio: " Lingwei Cheng is a postdoctoral researcher in public policy at the University of Central Florida. Her research examines how AI, machine learning, and administrative data systems shape social service delivery, with a focus on homelessness, child welfare, and benefits access. She uses causal inference, computational methods, and mixed methods to study algorithm-assisted decision-making, frontline discretion, and service access and outcomes. "  # Add participant bio here.
   website: https://www.linkedin.com/in/lingweicheng/  # Link participant website here.
 
-  - name: "Kayla Jolly" # Replace with participant name.
+- name: "Kayla Jolly" # Replace with participant name.
   image: /assets/images/Jolly.jpg  # Add participant image to assets/images/ and update here.
   bio: " Kayla Jolly is a PhD candidate in Social Welfare at Florida International University. Her research focuses on the emotional abuse of children, child abuse, and psychological trauma. Kayla aims to highlight the voices of children and ensure the relevance of emotional abuse frameworks to other countries and cultures.  "  # Add participant bio here.
   website: www.linkedin.com/in/kayla-jolly-b240051a7  # Link participant website here.
 
-  - name: "Sharika Marjan" # Replace with participant name.
+- name: "Sharika Marjan" # Replace with participant name.
   image: /assets/images/Sharika.jpg  # Add participant image to assets/images/ and update here.
   bio: " I am a PhD student in the department of Environmental Health Sciences in Florida International University. My research focuses on the impact of environmental toxicant exposure on the neurodevelopment and cognitive function in adolescents. I have a masters in Global Health from Norway where I worked on establishing a drug screening platform for a rare genetic disease. "  # Add participant bio here.
   website: https://www.linkedin.com/in/sharika-marjan-154747173/  # Link participant website here.
 
-  - name: "Sarwar Minar" # Replace with participant name.
+- name: "Sarwar Minar" # Replace with participant name.
   image: /assets/images/Sarwar.jpg  # Add participant image to assets/images/ and update here.
   bio: " Sarwar J. Minar is a PhD candidate in Politics and International Relations at Florida International University. His research examines how rising powers, particularly China and India, shape global governance through the United Nations using computational text analysis, NLP, and international relations theory, with a focus on human rights, climate change, emerging technologies, and space governance. "  # Add participant bio here.
   website: https://www.linkedin.com/in/sarwarjminar/  # Link participant website here.
 
-  - name: "Trey Santorine" # Replace with participant name.
+- name: "Trey Santorine" # Replace with participant name.
   image: /assets/images/Trey.jpg  # Add participant image to assets/images/ and update here.
   bio: " Trey Santorine is a doctoral candidate in Sociology & Criminology at the University of Miami. His research sits at the intersection of public health, sociology and criminology and currently studies homelessness, social services and social policy using mixed methods. Trey holds a MA in Sociology from Florida Atlantic University. "  # Add participant bio here.
   website: https://www.google.com  # Link participant website here.
 
-  - name: "Samantha Gott" # Replace with participant name.
+- name: "Samantha Gott" # Replace with participant name.
   image: /assets/images/Samantha.jpg  # Add participant image to assets/images/ and update here.
   bio: " Samantha Gott, Ph.D., is a postdoctoral research fellow at Florida Atlantic University specializing in developmental neuroscience, EEG connectivity, infant temperament, and early anxiety risk. Her work integrates psychophysiology, computational modeling, and longitudinal developmental research to better understand neurodevelopmental trajectories across infancy and early childhood. "  # Add participant bio here.
   website: https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav  # Link participant website here.
 
-  - name: "Breanne Levarity" # Replace with participant name.
+- name: "Breanne Levarity" # Replace with participant name.
   image: /assets/images/Breanne.jpg  # Add participant image to assets/images/ and update here.
   bio: " Breanne Levarity is a faculty member in the undergraduate nursing program at the College of Nursing at Florida Atlantic University. Her scholarship focuses on trauma, resilience, holistic nursing, and promoting positive health outcomes among diverse populations, particularly those affected by trauma clusters, or multiple traumas occurring simultaneously or in close succession. "  # Add participant bio here.
   website: https://www.google.com  # Link participant website here.
 
-  - name: "Owen Mtambo" # Replace with participant name.
+- name: "Owen Mtambo" # Replace with participant name.
   image: /assets/images/Owen.jpg  # Add participant image to assets/images/ and update here.
   bio: " Owen Mtambo is a Postdoctoral Fellow in Data Science at the University of the Virgin Islands (UVI), where he leads and contributes to interdisciplinary research at the intersection of artificial intelligence (AI), machine learning (ML), spatial and spatio-temporal modeling, and biomedical and public health. His work focuses on harnessing the power of AI and data science to address pressing health and educational challenges in geographically isolated and underserved communities, including the U.S. Virgin Islands. "  # Add participant bio here.
   website: https://owen-mtambo.com/  # Link participant website here.
 
-  - name: "Dion Allen" # Replace with participant name.
+- name: "Dion Allen" # Replace with participant name.
   image: /assets/images/Dion.jpg  # Add participant image to assets/images/ and update here.
   bio: " Dion Allen is a postdoctoral fellow at the University of Miami Miller School of Medicine specializing in HIV prevention, women's health, and implementation science. Her research focuses on improving PrEP awareness and uptake among underserved women through community-engaged, data-driven, and behavioral health approaches. "  # Add participant bio here.
   website: www.linkedin.com/in/dion-allen-68388918b  # Link participant website here.
 
-  - name: "Ganesh Shiwakoti" # Replace with participant name.
+- name: "Ganesh Shiwakoti" # Replace with participant name.
   image: /assets/images/Ganesh.jpg  # Add participant image to assets/images/ and update here.
   bio: " Ganesh Shiwakoti is a Ph.D. candidate in Mathematics and Statistics at Florida Atlantic University. His research interests include statistical modeling, machine learning, medical AI, and trustworthy data-driven decision-making. He is passionate about applying mathematical and computational methods to improve healthcare and scientific discovery. "  # Add participant bio here.
   website: https://www.linkedin.com/in/ganesh-shiwakoti-595b9b27a/  # Link participant website here.
 
-  - name: "Tania Nachrin" # Replace with participant name.
+- name: "Tania Nachrin" # Replace with participant name.
   image: /assets/images/Tania.jpg  # Add participant image to assets/images/ and update here.
   bio: " Tania Nachrin is a doctoral candidate in Communication at the University of Maryland. Her research examines how communication shapes marginalized communities’ experiences of illness, healthcare, and inequity. She focuses on immigrant and minority health, health disparities, pandemic and crisis communication, and media representations of health issues in global and cultural contexts. "  # Add participant bio here.
   website: https://www.linkedin.com/in/tanianachrin/  # Link participant website here.
 
-  - name: "Jianli Niu" # Replace with participant name.
+- name: "Jianli Niu" # Replace with participant name.
   image: /assets/images/Jianli.jpg  # Add participant image to assets/images/ and update here.
   bio: " Dr. Jianli Niu is Sr. Scientist at Memorial Healthcare System and an affiliated Assistant Professor of Medical Education in the Department of Public Health and Social Science. "  # Add participant bio here.
   website: https://www.google.com  # Link participant website here.
 
-  - name: "Besa Bauta" # Replace with participant name.
+- name: "Besa Bauta" # Replace with participant name.
   image: /assets/images/Besa.jpg  # Add participant image to assets/images/ and update here.
   bio: " Besa H. Bauta, Ph.D., is an Assistant Professor at New York University and a researcher specializing in the ethical implementation of AI in behavioral health. An experienced technology executive, she previously served as a CIO and CDAO, leading large-scale digital transformations and modernization projects. "  # Add participant bio here.
   website: https://www.linkedin.com/in/besabauta  # Link participant website here.
 
-  - name: "Xiaoqi Sun" # Replace with participant name.
+- name: "Xiaoqi Sun" # Replace with participant name.
   image: /assets/images/Xiaoqi.jpg  # Add participant image to assets/images/ and update here.
   bio: " Xiaoqi Sun, PhD, is a research scientist and biostatistician at Memorial Healthcare System.Her work focuses on population health, real-world data analysis, and health disparities, with applications in oncology and infectious disease using large-scale EHR and registry datasets. "  # Add participant bio here.
   website: https://www.linkedin.com/in/xiaoqi-sun-9a5973150/?skipRedirect=true  # Link participant website here.
 
-  - name: "Fatemeh Choupani" # Replace with participant name.
+- name: "Fatemeh Choupani" # Replace with participant name.
   image: /assets/images/Fatemeh.jpg  # Add participant image to assets/images/ and update here.
   bio: " Fatemeh Choupani, PhD, RN, is an Assistant Professor at Seattle University College of Nursing and Affiliate Faculty at the University of Washington School of Nursing. Her research focuses on genomic/epigenetic influences on obesity, metabolic diseases, cardiovascular disease, and mental health, alongside health disparities and AI/ML applications in nursing to advance equity. "  # Add participant bio here.
   website: www.linkedin.com/in/fatemeh-choupani-973b2241  # Link participant website here.
 
-  - name: "Freeman Lewis" # Replace with participant name.
+- name: "Freeman Lewis" # Replace with participant name.
   image: /assets/images/Freeman.jpg  # Add participant image to assets/images/ and update here.
   bio: " Freeman Lewis is a PhD candidate Training in Environmental Neuroscience Fellow in Environmental Health Sciences at Florida International University’s Robert Stempel College of Public Health and Social Work. His research focuses on computational environmental neurotoxicology and multi-omics integration, with interests in neurotoxic metals, metabolomics, lipidomics, biomarkers, and Parkinsonism. "  # Add participant bio here.
   website: linkedin.com/in/freemanlewis  # Link participant website here.
 
-  - name: "Deepak Bastola" # Replace with participant name.
+- name: "Deepak Bastola" # Replace with participant name.
   image: /assets/images/Deepak.jpg  # Add participant image to assets/images/ and update here.
   bio: " Deepak Bastola is a PhD student in applied mathematics at Florida Atlantic University researching AI, neural networks, and statistical learning. Founder of the Mathematical Association of Nepal, he initiated and led Nepal’s first International Mathematical Olympiad participation (2017–2022), advancing mathematical education, leadership, and AI-oriented research. "  # Add participant bio here.
   website: https://deepakbastola.com.np/  # Link participant website here.
 
-  - name: "Leila Nasri" # Replace with participant name.
+- name: "Leila Nasri" # Replace with participant name.
   image: /assets/images/Leila.jpg  # Add participant image to assets/images/ and update here.
   bio: " Leila Nasri is a Data Scientist in the Office of Institutional Effectiveness and Analysis at Florida Atlantic University, where she supports higher education analytics and institutional reporting. She is also a Ph.D. candidate in Computer Science, with research interests in machine learning, biomedical signal processing, and gait analysis. "  # Add participant bio here.
   website: lnasri2019@fau.edu  # Link participant website here.
 
-  - name: "Laurie Martinez" # Replace with participant name.
+- name: "Laurie Martinez" # Replace with participant name.
   image: /assets/images/Laurie.jpg  # Add participant image to assets/images/ and update here.
   bio: " Laurie Martinez is an Assistant Professor at Florida Atlantic University Christine E. Lynn College of Nursing, whose interdisciplinary research examines resilience and trauma recovery in vulnerable and high-stress populations. Her work integrates behavioral health, narrative inquiry, and computational approaches to investigate biopsychosocial outcomes related to stress, resilience, and human functioning.    "  # Add participant bio here.
   website: https://www.linkedin.com/in/laurie-martinez-phd-mba-msn-rn-ahn-bc-hwnc-bc-21b09113b/?skipRedirect=true  # Link participant website here.
