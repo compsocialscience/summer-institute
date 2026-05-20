@@ -1,6 +1,190 @@
-- name: "Participant info coming soon." # Replace with participant name.
+- name: "Hanh Phan" # Replace with participant name.
+  image: /assets/images/Hanh.jpg  # Add participant image to assets/images/ and update here.
+  bio: " Hanh Phan is an Assistant Professor of Finance at Chatham University. Her research interests include corporate finance, real estate, and sustainability. She earned her Ph.D. in Finance and Real Estate from the University of Texas at Arlington and her Master's in Financial Management from Tilburg University. "  # Add participant bio here.
+  website: https://www.linkedin.com/in/hanh-phan-bb897a8b/  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
   image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
   bio: " ... "  # Add participant bio here.
   website: https://www.google.com  # Link participant website here.
 
-# Add more participants with the same format as above...
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
+  - name: "Participant info coming soon." # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: " ... "  # Add participant bio here.
+  website: https://www.google.com  # Link participant website here.
+
