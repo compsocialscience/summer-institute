@@ -98,10 +98,10 @@
   bio: " Dr. Jianli Niu is Sr. Scientist at Memorial Healthcare System and an affiliated Assistant Professor of Medical Education in the Department of Public Health and Social Science. "  # Add participant bio here.
   website: https://www.google.com  # Link participant website here.
 
-  - name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+  - name: "Besa Bauta" # Replace with participant name.
+  image: /assets/images/Besa.jpg  # Add participant image to assets/images/ and update here.
+  bio: " Besa H. Bauta, Ph.D., is an Assistant Professor at New York University and a researcher specializing in the ethical implementation of AI in behavioral health. An experienced technology executive, she previously served as a CIO and CDAO, leading large-scale digital transformations and modernization projects. "  # Add participant bio here.
+  website: https://www.linkedin.com/in/besabauta  # Link participant website here.
 
   - name: "Participant info coming soon." # Replace with participant name.
   image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
