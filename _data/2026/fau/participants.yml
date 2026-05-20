@@ -33,10 +33,10 @@
   bio: " Sumarga Kumar Sah Tyagi (M’19) is an Assistant Professor at Florida A&M University specializing in AI, cybersecurity, IoT/IIoT, biomedical informatics, and NGS analytics. His research focuses on Bio-Cybernetics, deep learning, and genomics. He has held international academic roles and serves as editor, reviewer, and committee member. "  # Add participant bio here.
   website: https://www.linkedin.com/in/sumarga/  # Link participant website here.
 
-  - name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+  - name: "Lingwei Cheng" # Replace with participant name.
+  image: /assets/images/Lingwei.jpg  # Add participant image to assets/images/ and update here.
+  bio: " Lingwei Cheng is a postdoctoral researcher in public policy at the University of Central Florida. Her research examines how AI, machine learning, and administrative data systems shape social service delivery, with a focus on homelessness, child welfare, and benefits access. She uses causal inference, computational methods, and mixed methods to study algorithm-assisted decision-making, frontline discretion, and service access and outcomes. "  # Add participant bio here.
+  website: https://www.linkedin.com/in/lingweicheng/  # Link participant website here.
 
   - name: "Participant info coming soon." # Replace with participant name.
   image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
