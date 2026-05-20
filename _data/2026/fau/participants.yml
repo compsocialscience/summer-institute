@@ -108,10 +108,10 @@
   bio: " Xiaoqi Sun, PhD, is a research scientist and biostatistician at Memorial Healthcare System.Her work focuses on population health, real-world data analysis, and health disparities, with applications in oncology and infectious disease using large-scale EHR and registry datasets. "  # Add participant bio here.
   website: https://www.linkedin.com/in/xiaoqi-sun-9a5973150/?skipRedirect=true  # Link participant website here.
 
-  - name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+  - name: "Fatemeh Choupani" # Replace with participant name.
+  image: /assets/images/Fatemeh.jpg  # Add participant image to assets/images/ and update here.
+  bio: " Fatemeh Choupani, PhD, RN, is an Assistant Professor at Seattle University College of Nursing and Affiliate Faculty at the University of Washington School of Nursing. Her research focuses on genomic/epigenetic influences on obesity, metabolic diseases, cardiovascular disease, and mental health, alongside health disparities and AI/ML applications in nursing to advance equity. "  # Add participant bio here.
+  website: www.linkedin.com/in/fatemeh-choupani-973b2241  # Link participant website here.
 
   - name: "Participant info coming soon." # Replace with participant name.
   image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
