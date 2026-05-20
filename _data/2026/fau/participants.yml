@@ -68,10 +68,10 @@
   bio: " Breanne Levarity is a faculty member in the undergraduate nursing program at the College of Nursing at Florida Atlantic University. Her scholarship focuses on trauma, resilience, holistic nursing, and promoting positive health outcomes among diverse populations, particularly those affected by trauma clusters, or multiple traumas occurring simultaneously or in close succession. "  # Add participant bio here.
   website: https://www.google.com  # Link participant website here.
 
-  - name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+  - name: "Owen Mtambo" # Replace with participant name.
+  image: /assets/images/Owen.jpg  # Add participant image to assets/images/ and update here.
+  bio: " Owen Mtambo is a Postdoctoral Fellow in Data Science at the University of the Virgin Islands (UVI), where he leads and contributes to interdisciplinary research at the intersection of artificial intelligence (AI), machine learning (ML), spatial and spatio-temporal modeling, and biomedical and public health. His work focuses on harnessing the power of AI and data science to address pressing health and educational challenges in geographically isolated and underserved communities, including the U.S. Virgin Islands. "  # Add participant bio here.
+  website: https://owen-mtambo.com/  # Link participant website here.
 
   - name: "Participant info coming soon." # Replace with participant name.
   image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
