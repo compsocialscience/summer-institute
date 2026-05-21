@@ -1,6 +1,68 @@
-- name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+#- name: "Participant info coming soon." # Replace with participant name.
+  #image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  #bio: " ... "  # Add participant bio here.
+  #website: https://www.google.com  # Link participant website here.
 
 # Add more participants with the same format as above...
+
+- name: "Ethan Yoo" # Replace with participant name.
+  image: /assets/images/14QLA2tb8DXDuTqNLoA8vOvgkmZS8Wdz-.png  # Add participant image to assets/images/ and update here.
+  bio: "Ethan Yoo is a doctoral student in the Department of Sociology at Rutgers University. His work focuses on disability, poverty and inequality, and disaster vulnerability. Ethan earned his bachelor’s degree from Swarthmore College, a second bachelor’s degree in computer science from Thomas Edison State University, and a master’s degree from Rutgers School of Communication and Information. He also held interdisciplinary fellowships at the Eagleton Institute of Politics and The Boggs Center on Disability and Human Development."  # Add participant bio here.
+
+- name: "Selin Toprakkiran" # Replace with participant name.
+  image: /assets/images/1oCy5A8UTLirKXu-BhgZ-MPJQP2Ejsyyl.jpeg  # Add participant image to assets/images/ and update here.
+  bio: "Selin Toprakkiran is a doctoral candidate in the Department of Psychology at Rutgers University. She studies stereotypes of nationality and immigrant groups in the United States through large-scale surveys and experimental methods. Her dissertation investigates how judgments of racial prototypicality shape the similarity between race- and nationality-based stereotypes. Broadly, she is interested in immigration policy, social norms, and the use of computational methods to study intergroup processes. In the fall, Selin will begin a postdoctoral position at the University of Chicago."
+  
+- name: "Jessica Grassetti" # Replace with participant name.
+  image: /assets/images/1AeuNPcJLDQiS59P7tzEThhprtcVF8tdz.jpeg  # Add participant image to assets/images/ and update here.
+  bio: "Jessica D. Grassetti is a Colonel in the United States Army and a doctoral student in Political Science at Rutgers University. Her research examines economic statecraft, including sanctions, tariffs, and other coercive economic tools, as well as national security and the political economy of security, with a focus on how measurement and dataset construction shape conclusions about policy effectiveness."
+  
+- name: "Yunhee Shim" # Replace with participant name.
+  image: /assets/images/1WF_DZrD0ODFKcJCiN9aXmplhrkVAxH-D.png  # Add participant image to assets/images/ and update here.
+  bio: "Yunhee Shim is a PhD candidate in the Department of Library and Information Science at Rutgers University. Her research interests include online platform governance and online harms, particularly algorithm-mediated harms to users. Using mixed methods, including computational approaches, she examines how users make sense of platform features and interpret their everyday platform experiences. Her dissertation explores the factors that shape how content creators address online harms through an ethical lens."
+
+- name: "MD Zakaria Khan" # Replace with participant name.
+  image: /assets/images/1Lv_3ODQnMURlndShVRFzM_6m_3Hbolaq.jpeg  # Add participant image to assets/images/ and update here.
+  bio: "Zakaria is a PhD student at the Department of Communication at the School of Communication and Information at Rutgers, The State University of New Jersey. His research focused on Political Communication, incorporating platform, network, and media. He has completed a second master's (MA) in communication from the University of South Florida, Tampa, Florida. Zakaria was an assistant professor of Mass Communication and Journalism at a public university in Bangladesh and worked as a journalist for more than 5 years. In his PhD research, Zakaria aims to examine the influence of social media rhetoric on public opinion formation in South Asia. Methodologically, he is interested in CSS and a quantitative approach to examining large data."
+
+- name: "Ching Hin Li" # Replace with participant name.
+  image: /assets/images/15V_m56CppB-d2lzkRNqmd5FQVv0jruc3.jpeg  # Add participant image to assets/images/ and update here.
+  bio: "Ching Hin (Elina) Li is a PhD student in Political Science at Rutgers University. She holds a B.A. in Political Science at Columbia University and an M.A. in Social Sciences (Sociology) at University of Chicago. Her research interests center on political economy, with a particular focus on social stratification and migrant populations. Using social network analysis and survey methods, her previous research examined gendered labor markets and informal migrants’ experiences of urban integration. She is also interested in welfare policy design and outcomes, as well as the use of econometrics and modeling to study the evolution of the informal economy."
+
+- name: "Aijia Yao" # Replace with participant name.
+  image: /assets/images/1T_ReZ4dBUgv-eiX-VfkkGdbAbvaBky_K.jpeg  # Add participant image to assets/images/ and update here.
+  bio: "Aijia is a Clinical Psychology PhD student at Rutgers University–New Brunswick in the Hamilton Lab. She studies how sociocultural factors shape adolescents’ sleep and mental health, and develops brief, accessible interventions for youth. Previously, she worked on sleep-focused clinical trials at Johns Hopkins University School of Medicine."
+
+- name: "Belinda Peter" # Replace with participant name.
+  image: /assets/images/1T2IEvmCh-yq52nRc_Mi-2e7BbpQlkYKa.jpeg  # Add participant image to assets/images/ and update here.
+  bio: "Belinda Peter is a PhD candidate in the Department of Political Science at Temple University. Her research focuses on how democratic backsliding impacts voter behavior. In particular, she uses survey experiments to identify barriers to accountability and is currently working on a project leveraging large language model (LLM) analysis to examine how instances of democratic backsliding are reported across 16 cases in India, and whether the perceived threat to democracy is made salient to voters."
+
+- name: "Seukyoung Lee" # Replace with participant name.
+  image: /assets/images/11uTMWHG6Bf7XgfZhshQuN37F_PqGF-s_.jpeg  # Add participant image to assets/images/ and update here.
+  bio: "Seukyoung is a Ph.D. student at Rutgers University Sociology department. Her research examines climate finance by different actors at multiple scales. She focuses on how local contexts shape public attitude on energy transition spending and how retail investors make sense of their own role in the sustainable finance market."
+
+- name: "Rachel Acosta" # Replace with participant name.
+  image: /assets/images/1onrNE_35oRvrsm-gnD2s036GbrJEE0yp.jpeg  # Add participant image to assets/images/ and update here.
+  bio: "Rachel Acosta is a doctoral candidate at Rutgers University. Her research examines how organizations and communities navigate uncertainty, risk, and stakeholder engagement in complex information environments. Using mixed methods, including topic modeling, semantic network analysis, and interviews, she studies organizational communication, public participation, and environmental governance in high-risk contexts."
+
+- name: "Meagan McDowell" # Replace with participant name.
+  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
+  bio: "Meagan McDowell is a doctoral student in Social Psychology at Loyola University Chicago. Her research interests focus primarily on the psychological and social consequences, as well as the protective factors that can mitigate the effects, of prejudice, discrimination, and microaggressions. She is excited to learn more about how computational methods can be utilized in her current research."
+
+- name: "Liyang Liu" # Replace with participant name.
+  image: /assets/images/1llCCp2GFi9Ik0tbuQg2vn4deDYtadlGy.jpeg  # Add participant image to assets/images/ and update here.
+  bio: "Liyang Liu is a Ph.D. student at Rutgers University. Her work focuses on identity politics and the legislature in the single-party authoritarian regime. Her current projects study how gender and ethnicity impact the legislative behavior of deputies in the Chinese Congress. She is also interested in text-as-data and its combination with causal inference. Liyang received her MA in International Affairs from George Washington University."
+
+- name: "Chia-Lin Kao" # Replace with participant name.
+  image: /assets/images/1sO4XVxtaPIuSp8vNMyPpYPi1v4Io8wzr.jpeg  # Add participant image to assets/images/ and update here.
+  bio: "Chia-Lin KAO is a PhD student in the Department of Political Science at Rutgers University-New Brunswick, majoring in comparative politics with research methodology and international relations as minors. Her primary research interests include political communication and political psychology, with a regional focus on China and post-Soviet regions."
+
+- name: "Emma Stewart" # Replace with participant name.
+  image: /assets/images/1QoO36KBkhw8QxXH_mtOoouVkDrHC8xN1.jpeg # Add participant image to assets/images/ and update here.
+  bio: "Emma Stewart (she/her) is a PhD candidate at Rutgers University, majoring in Women and Politics and minoring in American Politics. Her research focuses on questions of representation and political issues across identities such as gender, race, and partisanship. She uses mixed methodologies that include survey and text analysis. Prior to coming to Rutgers she graduated with a B.A. in Government from Smith College, and worked for the Massachusetts State House."
+
+- name: "Muhammad Amasha" # Replace with participant name.
+  image: /assets/images/1ajqVwDOrf--rljFnefFWIVC0OLEdv8lW.jpeg  # Add participant image to assets/images/ and update here.
+  bio: "Muhammad Amasha is a political and cultural sociologist, a PhD candidate in Sociology at Yale, and a Graduate Policy Fellow at the Institution for Social and Policy Studies. His dissertation examines internal solidarity and conflict within anti-authoritarian coalitions, which significantly shape outcomes of anti-authoritarian struggles in revolutionary times."
+  
+# # Add more participants with the same format as above...
