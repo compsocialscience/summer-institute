@@ -39,7 +39,7 @@
   website: https://www.linkedin.com/in/lingweicheng/  # Link participant website here.
 
 - name: "Kayla Jolly" # Replace with participant name.
-  image: /assets/images/Jolly.jpg  # Add participant image to assets/images/ and update here.
+  image: /assets/images/Jolly.JPG  # Add participant image to assets/images/ and update here.
   bio: " Kayla Jolly is a PhD candidate in Social Welfare at Florida International University. Her research focuses on the emotional abuse of children, child abuse, and psychological trauma. Kayla aims to highlight the voices of children and ensure the relevance of emotional abuse frameworks to other countries and cultures.  "  # Add participant bio here.
   website: https://www.linkedin.com/in/kayla-jolly-b240051a7  # Link participant website here.
 
@@ -117,11 +117,6 @@
   image: /assets/images/Deepak.jpg  # Add participant image to assets/images/ and update here.
   bio: " Deepak Bastola is a PhD student in applied mathematics at Florida Atlantic University researching AI, neural networks, and statistical learning. Founder of the Mathematical Association of Nepal, he initiated and led Nepal’s first International Mathematical Olympiad participation (2017–2022), advancing mathematical education, leadership, and AI-oriented research. "  # Add participant bio here.
   website: https://deepakbastola.com.np/  # Link participant website here.
-
-- name: "Leila Nasri" # Replace with participant name.
-  image: /assets/images/Leila.jpg  # Add participant image to assets/images/ and update here.
-  bio: " Leila Nasri is a Data Scientist in the Office of Institutional Effectiveness and Analysis at Florida Atlantic University, where she supports higher education analytics and institutional reporting. She is also a Ph.D. candidate in Computer Science, with research interests in machine learning, biomedical signal processing, and gait analysis. "  # Add participant bio here.
-  website: https://www.researchgate.net/profile/Leila-Nasri-3  # Link participant website here.
 
 - name: "Laurie Martinez" # Replace with participant name.
   image: /assets/images/Laurie.jpg  # Add participant image to assets/images/ and update here.
