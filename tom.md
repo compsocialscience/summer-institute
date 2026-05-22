@@ -241,11 +241,36 @@ _Please note: The schedule is subject to change. Check back for the latest updat
 
 ## Conference Videos
 
-<div class="card mb-5">
-  <div class="card-body text-center py-5">
-    <h4>🎬 Videos Coming Soon</h4>
-    <p class="text-muted mb-3">Recordings of keynote talks and interviews will be posted here after the conference.</p>
+<div class="row mb-5">
+
+  <div class="col-sm-6 mb-4">
+    <h5>Sandra González-Bailón</h5>
+    <div class="embed-responsive embed-responsive-16by9 rounded shadow-sm">
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/aMbch4nMkTM" allowfullscreen></iframe>
+    </div>
   </div>
+
+  <div class="col-sm-6 mb-4">
+    <h5>Akin Unver</h5>
+    <div class="embed-responsive embed-responsive-16by9 rounded shadow-sm">
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/pT4ciRdkrT0" allowfullscreen></iframe>
+    </div>
+  </div>
+
+  <div class="col-sm-6 mb-4">
+    <h5>Ceren Budak</h5>
+    <div class="embed-responsive embed-responsive-16by9 rounded shadow-sm">
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Ft5pittWDyw" allowfullscreen></iframe>
+    </div>
+  </div>
+
+  <div class="col-sm-6 mb-4">
+    <h5>Kiran Garimella</h5>
+    <div class="embed-responsive embed-responsive-16by9 rounded shadow-sm">
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/YI170MIgPhs" allowfullscreen></iframe>
+    </div>
+  </div>
+
 </div>
 
 ---
