@@ -1,10 +1,10 @@
 - name: "Minh Nguyen" # Speaker name goes here.
-  image: /assets/images/Minh.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  image: /assets/images/Minh.png  # Upload speaker image to /assets/images/ and update URL here.
   bio: "I am an Assistant Professor at IT and Operations Management Department at FAU. I study (1) causal inference and (2) applied AI/ML in the contexts of information systems, business analytics, and healthcare. I am also very interested in (3) science of science (exploring how researchers using methods to do research)." # add speaker bio here
   website: https://sites.google.com/view/minhn/ # update speaker personal link here
 
 - name: "Rodrigo Pena" # Speaker name goes here.
-  image: /assets/images/Rodrigo.jpg  # Upload speaker image to /assets/images/ and update URL here.
+  image: /assets/images/Rodrigo.png  # Upload speaker image to /assets/images/ and update URL here.
   bio: "Rodrigo Pena is an Assistant Professor in the Biological Sciences Department at Florida Atlantic University. He works on communication between the different levels of organization in the brain with Computational Neuroscience. His computational modeling includes ion channels, synapses, neurons, networks, and systems, which involve many spatial scales and their interactions. He completed postdoctoral training at NJIT and Rutgers University and received his Ph.D. in Physics Applied to Medicine and Biology from the University of São Paulo. Additionally, he participated in a partnership with the International Research Training Group IRTG 1740 between Brazil and Germany and was a visiting scientist at the Humboldt University of Berlin and the Bernstein Center for Computational Neuroscience. He has also received training and worked at the Swiss Federal Institute of Technology in Lausanne as an undergraduate." # add speaker bio here
   website: https://www.penaslab.com/ # update speaker personal link here
 
