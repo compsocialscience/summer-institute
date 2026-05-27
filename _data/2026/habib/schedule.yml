@@ -3,7 +3,7 @@
   events:
     - name: "09:00 am - 10:00 am Registrations"
     - name: "10:00 am - 11:00 am Welcome and Networking"
-    - name: "11:00 am - 01:00 pm Introduciton: Why Computational Social Science (Keynote Speaker)"
+    - name: "11:00 am - 01:00 pm Introduction and Keynote - Why Computational Social Science, Dr. Umberto Mignozzetti"
     - name: "01:00 pm - 02:00 pm Lunch"
     - name: "02:00 pm - 03:00 pm Seminar on Ethics: Principles-based Approach"
     - name: "03:00 pm - 05:00 pm Group Exercise"
@@ -12,7 +12,7 @@
   name: "Text as Data"
   events:
     - name: "09:00 am - 10:00 am Tutorial: Quantitative Text Analysis"
-    - name: "11:00 am - 01:00 pm Guest Lecture"
+    - name: "11:00 am - 01:00 pm Research Talk - Role of Social Media Data and Computational Social Science for Society 5.0, Dr. Muhammad Bilal"
     - name: "01:00 am - 02:00 pm Lunch"
     - name: "02:00 pm - 03:00 pm Building apps for Social Science research"
     - name: "03:00 pm - 05:00 pm Group Exercise"
