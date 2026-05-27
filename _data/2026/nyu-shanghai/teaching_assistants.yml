@@ -1,5 +1,9 @@
-- name: "TA info coming soon."
-  image: /assets/images/placeholderPic.png
-  bio: "..."
-  website: www.google.com
-# add more TAs with this format below...
+- name: "Di (Cindy) Xin"
+  image: /assets/images/nyushanghai2025/Di (Cindy) Xin.jpg
+  bio: "Di (Cindy) Xin is a PhD student at the Center for Applied Social and Economic Research (CASER) at NYU Shanghai and the Department of Sociology at NYU. Her research examines social stratification and labor market precarity, with a focus on computational and quantitative methods. "
+  website: https://caser.shanghai.nyu.edu/people/di-xin/
+
+- name: "Minhong Shen"
+  image: /assets/images/nyushanghai2025/Minhong Shen.jpg
+  bio: "Minghong Shen is a Postdoctoral Fellow at New York University Shanghai. Starting in Sep 2026, he will join the Population Studies Center at the University of Pennsylvania as a Postdoctoral Researcher. His research broadly concerns early childhood development, family demography, urban studies, and computational social science. He received his PhD from the Hong Kong University of Science and Technology in 2025."
+  website: https://caser.shanghai.nyu.edu/people/minghong-shen/
