@@ -1,5 +1,70 @@
-- date: "July 13 -  July 20, 2026"
+- date: July 13, 2026
+  name: "1st Day"
   events:
-    - name: "Schedule coming soon. Check back for updates!" # Update this line or add markdown for your site's schedule.
+    - name: "Location: Boardroom, #04-04 The Centre for Trusted Internet Community (CTIC), 3 Research Link, Innovation 4.0, 117602"
+    - name: "09:30 - 10:00 Registration"
+    - name: "10:00 - 12:00 Keynote by **Dr. D. Sunshine Hillygus**"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 14:30 Group Formatiioin"
+    - name: "14:30 - 15:00 Tea Break"
+    - name: "15:00 - 17:00 Group Work"
 
-  # Our tentative schedule can be seen [here](www.google.com). Our program focuses on ... . We will invite guest speakers to provide an overview of ..."
+- date: July 14, 2026
+  name: "2nd Day"
+  events:
+    - name: "Location: Boardroom, #04-04 The Centre for Trusted Internet Community (CTIC), 3 Research Link, Innovation 4.0, 117602"
+    - name: "10:00 - 12:00 Speech by **Dr. Swapnil Mishra**"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 14:30 Group Work"
+    - name: "14:30 - 15:00 Tea Break"
+    - name: "15:00 - 17:00 Speech by **Dr. Yihong Huang**"
+
+- date: July 15, 2026
+  name: "3rd Day"
+  events:
+    - name: "Location: Boardroom, #04-04 The Centre for Trusted Internet Community (CTIC), 3 Research Link, Innovation 4.0, 117602"
+    - name: "10:00 - 12:00 Speech by **Dr. Hai Liang**"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 14:30 Group Work"
+    - name: "14:30 - 15:00 Tea Break"
+    - name: "15:00 - 17:00 Speech by **Dr. Prasanta Bhattacharya**"
+
+- date: July 16, 2026
+  name: "4th Day"
+  events:
+    - name: "Location: Boardroom, #04-04 The Centre for Trusted Internet Community (CTIC), 3 Research Link, Innovation 4.0, 117602"
+    - name: "10:00 - 12:00 Speech by **Dr. Kiran Garimella**"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 14:30 Group Work"
+    - name: "14:30 - 15:00 Tea Break"
+    - name: "15:00 - 17:00 Group Work"
+
+- date: July 17, 2026
+  name: "5th Day"
+  events:
+    - name: "Location: Boardroom, #04-04 The Centre for Trusted Internet Community (CTIC), 3 Research Link, Innovation 4.0, 117602"
+    - name: "10:00 - 12:00 Speech by **Dr. Dilrukshi Gamage**"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 14:30 Group Work"
+    - name: "14:30 - 15:00 Tea Break"
+    - name: "15:00 - 17:00 Speech by **Dr. Elisa Baek**"
+
+- date: July 18, 2026
+  name: "6th Day"
+  events:
+    - name: "Weekend"
+
+- date: July 19, 2026
+  name: "7th Day"
+  events:
+    - name: "Weekend"
+
+- date: July 20, 2026
+  name: "8th Day"
+  events:
+    - name: "Location: Boardroom, #04-04 The Centre for Trusted Internet Community (CTIC), 3 Research Link, Innovation 4.0, 117602"
+    - name: "10:00 - 12:00 Keynote by **Dr. Emilio Ferrara**"
+    - name: "12:00 - 13:00 Lunch"
+    - name: "13:00 - 14:30 Group Work"
+    - name: "14:30 - 15:00 Tea Break"
+    - name: "15:00 - 17:00 **Group Presentation**"
