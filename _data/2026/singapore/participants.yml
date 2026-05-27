@@ -1,6 +1,90 @@
-- name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+- name: Wenwen Cao, University of Minnesota
+  image: /assets/images/2026/singapore/Wenwen.Cao.jpg
+  bio: Wenwen Cao is a second-year PhD student in Mass Communication at the University of Minnesota. Her research examines digital advertising, emotional diffusion, and social media communication using computational methods such as text analysis, social network analysis, and large-scale digital trace data. She is especially interested in AI-mediated communication, causal inference, and computational approaches to communication research.
+  website: https://wenwencaoumn.github.io/
 
-# Add more participants with the same format as above...
+- name: Wei Dannuo, Nanyang Technological University
+  image: /assets/images/2026/singapore/Wei.Dannuo.png
+  bio: Wei Dannuo's research focuses on psychosocial well-being in digital and social environments, with particular interest in the intersectional influences of cultural, identity-related, and behavioural factors on mental well-being. Her methodological experience includes quantitative survey research, systematic reviews and meta-analyses, umbrella reviews, thematic analysis and quantitative text mining.
+
+- name: Jingwei Gao, City University of Hong Kong
+  image: /assets/images/2026/singapore/Jingwei.Gao.jpg
+  bio: Jingwei Gao is a Ph.D. candidate in the Department of Communication and Media at City University of Hong Kong. His current research interests focus on news production and consumption in an increasingly platformized media environment, drawing on large-scale online data. He is also keen on exploring the application of causal inference methods in communication research.
+  website: https://lobbyboy-dray.github.io/
+
+- name: Leon Kong, National University of Singapore
+  image: /assets/images/2026/singapore/Leon.Kong.jpg
+  bio: Leon Kong is a Singapore civil servant on study leave, currently pursuing an MA in Global and Asian History at NUS. His research examines how bureaucratic processes and culture in interwar colonial Singapore shaped governance and decision-making. He is at the beginning of his computational journey and has come to SICSS to build the foundation for applying these methods to his research.
+
+- name: Michelle Lee YY, National University of Singapore
+  image: /assets/images/2026/singapore/Michelle.Lee.YY.jpeg
+  bio: Michelle is a first-year Master's by Research student in the Department of Communications and New Media. Their research interests include migrant labour, digital identities, and political communication.
+
+- name: Shannon Lee, National University of Singapore
+  image: /assets/images/2026/singapore/Shannon.Lee.jpg
+  bio: Shannon is a Master's by Research student at the Communications and New Media department at the National University of Singapore. She received her Bachelor of Arts (Hons) in English Literature at the same university. Her current research interests lie at the intersection of critical theory and video games.
+
+- name: Shixian Li, Tsinghua University
+  image: /assets/images/2026/singapore/Shixian.Li.jpg
+  bio: Shixian Li's research focuses on media technologies in the Chinese context, lying at the intersection of political communication and social governance. She is passionate about using computational tools to untangle the complexities of China.
+
+- name: Xuelian Li, Huazhong University of Science and Technology
+  image: /assets/images/2026/singapore/Xuelian.Li.jpg
+  bio: Xuelian Li is a lecturer at the School of Journalism and Information Communication, Huazhong University of Science and Technology. She holds a PhD from Peking University and her research interests include media and social change, youth and media, and media temporality, with publications in Journalism & Communication Research and Sociological Studies. Her recent work focuses on causal inference in communication research and adolescent AI use.
+
+- name: Zixuan Li, City University of Hong Kong
+  image: /assets/images/2026/singapore/Zixuan.LI.jpg
+  bio: Zixuan Leah Li is a second-year PhD student in the Department of Media and Communication at City University of Hong Kong. Her research focuses on digital media and audience behavior. Leah currently uses LLMs and computer vision to analyze massive Danmaku datasets through the lens of Play Theory. At SICSS, she is eager to explore digital field experiments and causal inference.
+
+- name: Aria (Yan) Lyu, Shanghai Jiao Tong University
+  image: /assets/images/2026/singapore/Aria.Yan.Lyu.jpg
+  bio: Aria (Yan) Lyu is a PhD student at the School of Media and Communication, Shanghai Jiao Tong University. Her research focuses on human-machine communication, digital parenting, and computational social science.
+
+- name: Sayari Misra, Indian Institute of Technology Jammu
+  image: /assets/images/2026/singapore/Sayari.Misra.jpeg
+  bio: Sayari Misra holds a Ph.D. from Indian Institute of Technology Jammu, where her research explores the intersections of climate change, social networks, water-resource stress, and everyday adaptation in the ecologically vulnerable Indian Sundarbans. She was a Fulbright-Nehru Doctoral Fellow (2024-2025) at the University of Minnesota, Twin Cities, USA.
+
+- name: Ying Qi Pan, University of California, Santa Barbara
+  image: /assets/images/2026/singapore/Ying.Qi.Pan.jpeg
+  bio: Ying Qi Pan is a Ph.D. student in the Department of Communication at the University of California, Santa Barbara. Her research focuses on political communication, technology, intergroup relationships, and digital inequality. Her work explores how individual and contextual factors influence digital political inequality, and how artificial intelligence shapes human-technology relations. Her methodological training is primarily quantitative.
+  website: https://www.comm.ucsb.edu/people/ying-qi-pan
+
+
+- name: Jiyuan Qi, The Chinese University of Hong Kong
+  image: /assets/images/2026/singapore/Jiyuan.QI.jpg
+  bio: Jiyuan Qi is a Ph.D. student in the School of Journalism and Communication at The Chinese University of Hong Kong. She is a fellow at the Computational Social Science Laboratory (CSSL) at CUHK. Her research focuses on digital inequality, particularly digital harm. She is also involved in developing computational methodologies and leveraging tools for social media data analysis.
+  
+- name: Mekhala Saran, National University of Singapore
+  image: /assets/images/2026/singapore/Mekhala.Saran.jpeg
+  bio: Mekhala Saran is a PhD student in the Department of Communications and New Media, NUS. Her research is primarily focused on Indian journalism, press freedom, and individual and collective acts of resistance to media oppression in authoritarian and semi-authoritarian contexts. She was formerly a journalist herself (principal legal correspondent at The Quint, India), and her areas of interest additionally include Indian law and society, human rights, and online hate speech.
+
+- name: Yuanyuan Shu (Allysa), Nanjing University
+  image: /assets/images/2026/singapore/Yuanyuan.Shu.jpg
+  bio: Yuanyuan (Allysa) Shu recently earned her Ph.D. from Nanjing University, specializing in Computational Social Science. With a strong foundation in the science of science and science communication, she leverages large-scale textual and network data to uncover how complex information environments shape collective social psychology and human behavioral dynamics.
+
+- name: Xinyi Tang, Beijing Normal University
+  image: /assets/images/2026/singapore/Xinyi.Tang.jpg
+  bio: Xinyi Tang is a Master's student at Beijing Normal University, currently preparing for PhD applications. Her research interests center on Human-AI relationships and AI for Mental Health. She is looking forward to meeting friends with similar interests at SICSS, and would love to learn from everyone's work and exchange ideas throughout the program.
+  website: https://www.xinyitang.me/
+
+- name: Ying Yu, The Chinese University of Hong Kong, Shenzhen
+  image: /assets/images/2026/singapore/Ying.Yu.jpg
+  bio: Ying Yu is an Assistant Professor of Computational Social Science at The Chinese University of Hong Kong, Shenzhen. Her research focuses on computational sustainability, with an emphasis on developing and applying geo-computational approaches to address climate, energy, and equity challenges and inform data-driven policymaking.
+  website: https://myweb.cuhk.edu.cn/yyu/
+
+- name: Lin Yumin, Nanyang Technological University
+  image: /assets/images/2026/singapore/Lin.Yumin.jpg
+  bio: Yumin Lin is a health communication researcher and Research Fellow (Data Scientist) at NTU's Asian Centre for Health Behavioural Insights & Interventions (HABITS). He holds a PhD from NTU, studying palliative care communication with younger generations in Singapore. His research focuses on end-of-life communication, medical decision-making, and health misinformation.
+  website: https://scholar.google.com.sg/citations?user=fnllcxAAAAAJ&hl=en&oi=ao
+
+- name: Qinyan Xie, Shenzhen University
+  image: /assets/images/2026/singapore/Qinyan.xie.jpg
+  bio: Qinyan Xie is a Computational Communication graduate student interested in how AI and text mining can help us understand public opinion, moral emotions, and online discourse. Outside academia, he loves playing football and drums, which keep him energetic, focused, and connected to rhythm.
+
+- name: Siyu Zhang, City University of Hong Kong
+  image: /assets/images/2026/singapore/Siyu.Zhang.City.University.of.Hong.Kong.jpg
+  bio: Siyu Zhang is a Ph.D. Candidate in Media and Communication at City University of Hong Kong. Her research examines how digital monetization (e.g., live-streaming and influencer economies) shapes political discourse and public participation. Using computational methods, she investigates the temporal evolution and multimodal strategies in political live-streams and influencer content.
+
+- name: Siyu Zhang, National University of Singapore
+  image: /assets/images/2026/singapore/Siyu.Zhang.NUS.jpg
+  bio: Siyu Zhang is a first-year PhD student in the Department of Communications and New Media at the National University of Singapore. Her research focuses on political communication and science communication, with particular interests in public opinion surrounding polarized scientific issues.
