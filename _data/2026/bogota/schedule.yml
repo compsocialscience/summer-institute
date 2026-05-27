@@ -1,4 +1,17 @@
-- date: "June 4 - June 12, 2026"
+- date: "June 9, 2026."
+  events:
+    - name: "8:00 a. m. - 8:30 a. m. | Registro. Lugar: Plazoleta del Claustro - Universidad del Rosario."
+    - name: "8:30 a. m. - 9:00 a. m. | Bienvenida"
+    - name: "9:00 a. m. - 10:30 a. m. | Estudiando algoritmos, tensiones entre métodos computacionales y la economía política digital. Oscar Javier Maldonado."
+    - name: "10:30 a. m. - 11:00 a. m. | Café."
+    - name: "11:00 a. m. - 1:00 p. m. | Conferencia inaugural. What Makes a Sociologically Useful Map? My Journey Visualizing Controversies with Networks and Embedding Models. Mathieu Jacomy. Aalborg University."
+    - name: "1:00 p. m. - 2:00 p. m. | Almuerzo"
+    - name: "2:00 p. m. - 4:30 p. m. | Taller: Mapear lo visible, narrar lo ausente: análisis espacial y métodos computacionales con enfoque feminista. Isabella Jaimes-Rodríguez. Universidad de Toronto."
+    - name: "4:30 p. m. - 5:00 p. m. | Café."
+    - name: "5:00 p. m. - 6:00 p. m. | Trabajo en grupo"
+   
+
+- date: "June 10, 2026."
   events:
     - name: "Schedule coming soon. Check back for updates!" # Update this line or add markdown for your site's schedule.
 
