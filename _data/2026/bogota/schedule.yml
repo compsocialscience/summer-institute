@@ -9,10 +9,39 @@
     - name: "2:00 p. m. - 4:30 p. m. | Taller: Mapear lo visible, narrar lo ausente: análisis espacial y métodos computacionales con enfoque feminista. Isabella Jaimes-Rodríguez. Universidad de Toronto."
     - name: "4:30 p. m. - 5:00 p. m. | Café."
     - name: "5:00 p. m. - 6:00 p. m. | Trabajo en grupo"
-   
 
 - date: "June 10, 2026."
   events:
-    - name: "Schedule coming soon. Check back for updates!" # Update this line or add markdown for your site's schedule.
+    - name: "8:00 a. m. - 8:30 a. m. | Registro"
+    - name: "8:30 a. m. - 9:00 a. m. | Bienvenida"
+    - name: "9:00 a. m. - 11:00 a. m. | Workshop: Visual Network Analysis for Social Science. Mathieu Jacomy. Aalborg University."
+    - name: "11:00 a. m. - 11:30 a. m. | Café."
+    - name: "11:30 a. m. - 1:00 p. m. | Workshop: Visual Network Analysis for Social Science. Mathieu Jacomy. Aalborg University."
+    - name: "1:00 p. m. - 2:00 p. m. | Almuerzo"
+    - name: "2:00 p. m. - 4:30 p. m. | Taller: Procesamiento de Lenguaje Natural 1. Alejandro Sarria."
+    - name: "4:30 p. m. - 5:00 p. m. | Café."
+    - name: "5:00 p. m. - 6:00 p. m. | Trabajo en grupo"
 
-  # Our tentative schedule can be seen [here](www.google.com). Our program focuses on ... . We will invite guest speakers to provide an overview of ..."
+- date: "June 11, 2026."
+  events:
+    - name: "8:00 a. m. - 8:30 a. m. | Registro"
+    - name: "8:30 a. m. - 9:00 a. m. | Bienvenida"
+    - name: "9:00 a. m. - 11:00 a. m. | BioSignal, ciencia social computacional al servicio de la salud pública digital. Prof. Sergio Sánchez, IDCBIS."
+    - name: "11:00 a. m. - 11:30 a. m. | Café."
+    - name: "11:30 a. m. - 1:00 p. m. | Trabajo en grupo"
+    - name: "1:00 p. m. - 2:00 p. m. | Almuerzo"
+    - name: "2:00 p. m. - 4:30 p. m. | Taller: Procesamiento de Lenguaje Natural 2. Víctor Manuel Hernández."
+    - name: "4:30 p. m. - 5:00 p. m. | Café."
+    - name: "5:00 p. m. - 6:00 p. m. | Trabajo en grupo"
+
+- date: "June 12, 2026."
+  events:
+    - name: "8:00 a. m. - 8:30 a. m. | Registro"
+    - name: "8:30 a. m. - 9:00 a. m. | Bienvenida"
+    - name: "9:00 a. m. - 11:00 a. m. | Charla: Modelo predictivo de riesgo de deserción escolar. Diana Bayona. Secretaría Educación Bogotá."
+    - name: "11:00 a. m. - 11:30 a. m. | Café."
+    - name: "11:30 a. m. - 1:00 p. m. | Charla: Análisis de la Justicia Transicional en Colombia: Minería de Texto y Redes Semánticas en los Macrocasos de la Jurisdicción Especial para la Paz (JEP). Juan Camilo Sosa. Departamento de Estadística. Universidad Nacional de Colombia."
+    - name: "1:00 p. m. - 2:00 p. m. | Almuerzo"
+    - name: "2:00 p. m. - 4:30 p. m. | Presentación de proyectos finales"
+    - name: "4:30 p. m. - 5:00 p. m. | Café."
+    - name: "5:00 p. m. - 6:00 p. m. | Cierre y conclusiones. Oscar."
