@@ -3,7 +3,7 @@
   events:
     - name: "09:00 am - 10:00 am Registrations"
     - name: "10:00 am - 11:00 am Welcome and Networking"
-    - name: "11:00 am - 01:00 pm Introduciton: Why Computational Social Science (Keynote Speaker)"
+    - name: "11:00 am - 01:00 pm Introduction and Keynote - Why Computational Social Science, Dr. Umberto Mignozzetti"
     - name: "01:00 pm - 02:00 pm Lunch"
     - name: "02:00 pm - 03:00 pm Seminar on Ethics: Principles-based Approach"
     - name: "03:00 pm - 05:00 pm Group Exercise"
