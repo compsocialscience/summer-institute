@@ -1,0 +1,12 @@
+# News and updates for SICSS-Melbourne 2026 participants.
+# Add new entries at the TOP of this list (newest first).
+# Each entry has: date, title, body (supports basic HTML).
+#
+# Example entry:
+# - date: "27 May 2026"
+#   title: "Example update"
+#   body: "This is the body text of the update."
+
+- date: "27 May 2026"
+  title: "Welcome to SICSS-Melbourne 2026!"
+  body: "We are excited to welcome you to the Summer Institute in Computational Social Science – Melbourne. This page will be updated regularly with announcements, logistics, and resources for participants. Stay tuned!"
