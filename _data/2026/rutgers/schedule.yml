@@ -8,28 +8,42 @@
     - name: "9:30 - 10:30 Introduction and logistics"
     - name: "10:30 - 12:00 Small Group Discussions"
     - name: "12:00 - 1:30 Lunch"
-    - name: "1:30 - 4:00 Intruction and Group Exercises on Ethics"
+    - name: "1:30 - 4:00 Instruction and Group Exercises on Ethics"
     - name: "4:00 - 4:30 Setup for Text as Data and Digital Trace Data Days"
     
 - date: June 2, 2026
   name: Text as Data
   events:
-    - name: Details coming soon
+    - name: "9:00 - 9:15 Logistics"
+    - name: "9:15 - 11:00 Tutorials on Text as Data"
+    - name: "11:00 - 12:00 Talk by Gandalf Nicolas: Spontaneous social cognition in humans & artificial intelligence language models"
+    - name: "12:00 - 1:30 Lunch"
+    - name: "1:30 - 2:30 More Tutorials on Text as Data"
+    - name: "2:30 - 4:30 Group Exercises on Text as Data"
 
 - date: June 3, 2026
   name: Digital Trace Data (Web scraping, APIs, working with AI)
   events:
-    - name: Details coming soon
+    - name: "9:00 - 9:15 Logistics"
+    - name: "9:15 - 11:00 Tutorials on web scraping"
+    - name: "11:00-12:30 Talk by Kiran Garimella: How People Use ChatGPT"
+    - name: "1:30 - 2:30 More Tutorials on AI and APIs"
+    - name: "2:30 - 4:30 Group Exercises on Digital Trace Data"
 
 - date: June 4, 2026
   name: Measurement and Machine Learning
   events:
-    - name: Details coming soon
+    - name: "9:00 - 9:15 Logistics"
+    - name: "9:15 - 11:00 Tutorials on Measurement"
+    - name: "11:00-12:30 Talk by Jennifer Allen"
+    - name: "1:30 - 2:30 Tutorials on AI and Machine Learning"
+    - name: "2:30 - 4:30 Group Exercises on Measurement, Machine Learning"
 
 - date: June 5, 2026
   name: Digital Surveys and Experiments
   events:
     - name: Details coming soon
+    - name: "11:00-12:30 Talk by Ruobin Gong: Principled statistical inference from privacy-protected data: the importance of transparency"
      
 - date: June 6, 2026
   events:
