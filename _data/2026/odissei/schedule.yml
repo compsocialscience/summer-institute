@@ -1,7 +1,7 @@
 - date: "Schedule Overview"
   events:
-    - name: "ODISSEI-SICSS is split into two phases. During the first week, the participants will be introduced to ODISSEI and taught machine learning in Python. This will be primarily done through a course run by the eScience center. In the second week of the summer school, participants will be able to make full use of the ODISSEI infrastructure, during which they will be put into teams and challenged to work on research projects. Each team will be provided with access to FIRMBACKBONE, containing detailed data on Dutch companies, through the secure environment SANE. Specifically, researchers will get access to the corporate trade register, employment surveys, financial data, emission data, and indicators derived from websites."
-    - name: "FIRMBACKBONE is a treasure trove of data which can help us predict important outcomes. The teams will compete to develop effective predictive models to answer innovative research questions. This challenge will help participants get a more hands-on experience of computational social science research with some of the most advanced data infrastructure available."
+    - name: "ODISSEI-SICSS is split into two phases. During the first week, the participants will be introduced to ODISSEI and taught machine learning in Python. This will be primarily done through a course run by the eScience center. In the second week of the summer school, participants will be able to make full use of the ODISSEI infrastructure, during which they will be put into teams and challenged to work on research projects. Each team will be provided with access to the secure environment SANE where they will be able to work with FIRMBACKBONE data (containing detailed information on Dutch companies), sensitive LISS panel data, and environmental data from Exposome. Specifically for FIRMBACKBONE, researchers will get access to the corporate trade register, employment surveys, financial data, emission data, and indicators derived from websites."
+    - name: "ODISSEI provides access to a treasure trove of data which can help us predict important outcomes. The teams will compete to develop effective predictive models to answer innovative research questions. This challenge will help participants get a more hands-on experience of computational social science research with some of the most advanced data infrastructure available."
     - name: "At the end of most days of the summer school, there will be a guest speaker who will present their work or a general topic in computational social science to the participants. These talks will last 20-30 mins with 15-20 mins of Q&A. Slides will be added on the [ODISSEI Zenodo Community](https://zenodo.org/communities/odissei/records); other material will be shared via GitHub."
     - name: "All course sessions will take place in the Sanders Building on the Erasmus Campus Woudestein, Burgemeester Oudlaan 50, Rotterdam. You can find information [here](https://www.eur.nl/en/campus/locations/campus-woudestein#directions) and download the campus map [here](https://www.eur.nl/en/media/2024-12-230794campusplattegrondv6). Throughout the summer school, ODISSEI will organize various social events. Read more about those in the timetable below. Each day will have three breaks. A coffee break in the morning, lunch at 12:00, and another coffee break in the afternoon."
 
@@ -12,9 +12,12 @@
   events:
     - name: "10:00-12:00: Introducing ODISSEI and Computational Social Science. Speaker: [Tom Emery](https://www.eur.nl/people/tom-emery)"
     - name: "12:00-13:00: Lunch break"
-    - name: "13:00-15:00: Introduction to [FIRMBACKBONE](https://firmbackbone.nl/)"
-    - name: "15:00-16:30: Introduction to [SANE](https://odissei-data.nl/facility/secure-analysis-environment-sane/). Speaker: Tom Emery"
-    - name: "Social Event (17:00-19:00): Opening Drinks TBA"
+    - name: "13:00-14:15: Using the SANE environment. Speaker: [Angelica Maineri](https://angelicamaineri.github.io/) and [Tom Emery](https://www.eur.nl/people/tom-emery)"
+    - name: "14:15-14:30: Coffee break
+    - name: "14:30-16:00: Introduction to [FIRMBACKBONE](https://firmbackbone.nl/), [LISS](https://www.lissdata.nl/) and [Exposome](https://exposome.uu.nl/). Speaker: [Tom Emery](https://www.eur.nl/people/tom-emery)"
+    - name: "16:00-16:15: Coffee break
+    - name: "16:15-17:00: Research Ideas Speed Dating
+    - name: "Social Event (17:00-19:00): Opening Drinks at [Paviljoen](https://share.google/39RKMKFjwvsjI2yAl), EUR Woudestein campus"
     - name: "Location: Room:3.09, [Polak building](https://maps.app.goo.gl/1iGLX517YesXPbNq9)"
 
 - date: Tuesday, June 9, 2026
@@ -22,7 +25,7 @@
   events:
     - name: "09:00-17:00: more detailed schedule of the day will be available shortly"
     - name: "12:00-13:00: Lunch break"
-    - name: "16:00-17:00: Guest lecture TBA"
+    - name: "16:00-17:00: Guest lecture by [Elizaveta Sivak](https://lisasivak.github.io/) on the PreFer challenge"
     - name: "Location: Room:3.09, [Polak building](https://maps.app.goo.gl/1iGLX517YesXPbNq9)"
     
 - date: Wednesday, June 10, 2026
@@ -41,7 +44,7 @@
     - name: "15:00:	Break"
     - name: "15:10:	Cross-validation"
     - name: "15:45:	Wrap-up"
-    - name: "16:00-17:00: Guest lecture: TBA"
+    - name: "16:00-17:00: Guest lecture: [Ana Petrovic](https://www.tudelft.nl/en/staff/a.petrovic/) on Neighbourhood Analysis"
     - name: "Location: Room:3.09, [Polak building](https://maps.app.goo.gl/1iGLX517YesXPbNq9)"
 
 - date: Thursday, June 11, 2026
@@ -59,10 +62,10 @@
     - name: "13:30:	Advanced topics"
     - name: "14:00:	Break"
     - name: "14:10:	Try out learned skills on new dataset"
-    - name: "15:00-16:00: Guest lecture TBA"
+    - name: "15:00-16:00: Guest lecture by [Ana Macanovic](https://www.uu.nl/staff/AMacanovic) on Text Analysis"
     - name: "16:10:	Concluding remarks"
     - name: "16:45:	Wrap-up & Post-workshop Survey"
-    - name: "Social Event (17:30-20:00): TBA"
+    - name: "Social Event (17:30-20:00): Drinks at [De Gele Kanarie](https://share.google/fPaXpcBkRtGzgJcNH)"
     - name: "Location: Room:3.09, [Polak building](https://maps.app.goo.gl/1iGLX517YesXPbNq9)"
     
 - date: Friday June 12, 2026
@@ -103,8 +106,9 @@
   events:
     - name: "09:00 - 17:00 Research project"
     - name: "12:00-13:00: Lunch break"
+    - name: "Closing dinner (18:00 - 21:00 ) at [Tasca Plein Oost](https://share.google/ZLqzS7VCnVeHbDmN4)"
     - name: "Location: Room:3.09, [Polak building](https://maps.app.goo.gl/1iGLX517YesXPbNq9)"
-    - name: "Closing dinner TBA"
+    
   
 - date: Friday, June 19, 2025
   name: "Research project"
