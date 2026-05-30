@@ -8,7 +8,28 @@
   bio: "Rodrigo Pena is an Assistant Professor in the Biological Sciences Department at Florida Atlantic University. He works on communication between the different levels of organization in the brain with Computational Neuroscience. His computational modeling includes ion channels, synapses, neurons, networks, and systems, which involve many spatial scales and their interactions. He completed postdoctoral training at NJIT and Rutgers University and received his Ph.D. in Physics Applied to Medicine and Biology from the University of São Paulo. Additionally, he participated in a partnership with the International Research Training Group IRTG 1740 between Brazil and Germany and was a visiting scientist at the Humboldt University of Berlin and the Bernstein Center for Computational Neuroscience. He has also received training and worked at the Swiss Federal Institute of Technology in Lausanne as an undergraduate." # add speaker bio here
   website: https://www.penaslab.com/ # update speaker personal link here
 
-- name: "Speaker info coming soon." # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " ... " # add speaker bio here
-  website: https://www.google.com # update speaker personal link here
+- name: "Harshal Sanghvi" # Speaker name goes here.
+  image: /assets/images/Harshal.png  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Dr. Sanghvi is a Visiting Instructor and Director of Healthcare Analytics in the College of Business at Florida Atlantic University. He earned a Ph.D. in Computer Engineering and completed a Post-Doctoral Fellowship in Neural Engineering at Florida Atlantic University. He also serves as the Chair of the National Science Foundation NSF IUCRC CAKE Center and brings over 10 years of combined experience in industry and academia. " # add speaker bio here
+  website: https://www.linkedin.com/in/harshal-sanghvi/ # update speaker personal link here
+
+  - name: "Armiel Suriaga" # Speaker name goes here.
+  image: /assets/images/Armiel.png  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Armiel Suriaga is a tenure-earning assistant professor at the Christine E. Lynn College of Nursing and an FAU alumnus. A Harvard-trained public health researcher, his work focuses on substance use, harm reduction, aging science, pharmacoepidemiology, health equity, and prevention education related to opioids, cannabinoids, kratom, and alcohol use. " # add speaker bio here
+  website: https://www.linkedin.com/in/armiel-suriaga-phd-mph-msn-72519648/ # update speaker personal link here
+
+- name: "Candy Wilson" # Speaker name goes here.
+  image: /assets/images/Candy.png  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Dr. Candy Wilson is a tenured Professor, Schmidt Family Distinguished Professor, and Associate Dean for Research and Scholarship at Florida Atlantic University’s Christine E. Lynn College of Nursing. A retired U.S. Air Force Colonel and women’s health nurse practitioner, she has secured over $22 million in federal funding, authored 60 publications, and mentors award-winning nursing students." # add speaker bio here
+  website: linkedin.com/in/phdcandy # update speaker personal link here
+
+- name: "Timothy Dye" # Speaker name goes here.
+  image: /assets/images/Timothy.png  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Timothy Dye, PhD, JD is Professor and Chair of Population Health at Florida Atlantic University's Schmidt College of Medicine and a licensed attorney. His work converges AI, international law, and health, spanning LLM-based measurement of social phenomena, health attitudes, and epidemiology. Grounded in data diplomacy and international law, he often works with consent, sovereignty, and bias." # add speaker bio here
+  website: https://www.linkedin.com/in/globaldye/ # update speaker personal link here
+
+- name: "Ana Aleksandric" # Speaker name goes here.
+  image: /assets/images/Ana.png  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Ana Aleksandric is an Assistant Professor of Teaching at FAU. Her research is highly interdisciplinary at the intersection of data and social sciences, and public health informatics. Her research focuses on user behavior in toxic online conversations and social media discourse on public health topics, including women’s health and diabetes." # add speaker bio here
+  website: https://www.linkedin.com/in/ana-aleksandric98/ # update speaker personal link here
+
