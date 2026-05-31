@@ -23,11 +23,6 @@
   bio: " Judyta Kociolek is an oncology nurse with 10+ years of experience. She earned a master’s degree in Nursing Administration and Financial Leadership from Florida Atlantic University in 2019 and has served as Director of Clinical Research Unit Operations since 2023. She is also a PhD student at Christine E. Lynn College of Nursing. "  # Add participant bio here.
   website: https://orcid.org/0009-0000-6159-8526  # Link participant website here.
 
-- name: "Ana Bravo" # Replace with participant name.
-  image: /assets/images/Ana.jpg  # Add participant image to assets/images/ and update here.
-  bio: " Ana Bravo is a Senior Research Associate from the Department of Public Health Sciences at the University of Miami. Her research focuses on social network analysis methods, HIV prevention, and health communication among Latino communities. Her work integrates statistical modeling and network analysis to support community research in Florida.  "  # Add participant bio here.
-  website: https://www.linkedin.com/in/anabravobiostats  # Link participant website here.
-
 - name: "Sumarga Sah Tyagi" # Replace with participant name.
   image: /assets/images/Sumarga.jpg  # Add participant image to assets/images/ and update here.
   bio: " Sumarga Kumar Sah Tyagi (M’19) is an Assistant Professor at Florida A&M University specializing in AI, cybersecurity, IoT/IIoT, biomedical informatics, and NGS analytics. His research focuses on Bio-Cybernetics, deep learning, and genomics. He has held international academic roles and serves as editor, reviewer, and committee member. "  # Add participant bio here.
