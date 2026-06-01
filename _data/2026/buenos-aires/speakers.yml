@@ -1,4 +1,6 @@
-- name: "Speaker info coming soon." # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " ... " # add speaker bio here
-  website: https://www.google.com # update speaker personal link here
+- name: "Gabriel Kessler" # Speaker name goes here.
+  image: /assets/images/bsas_2026_kessler.jgp  # Upload speaker image to /assets/images/ and update URL here.
+  bio: "Senior Researcher, National Scientific and Technical Research Council (CONICET); Professor - National University of La Plata and School of Interdisciplinary Advanced Social Studies (Escuela IDAES), National University of San Martín, Argentina." # add speaker bio here
+  website: https://bicyt.conicet.gov.ar/fichas/p/gabriel-kessler # update speaker personal link here
+
+  
