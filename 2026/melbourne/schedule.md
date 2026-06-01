@@ -4,41 +4,173 @@ partner_site: melbourne
 ---
 
 <style>
-.day-banner {
-  padding: 14px 20px;
-  border-top: 3px solid #1a2e50;
-  border-bottom: 1px solid #dce8f0;
-  margin: 32px 0 20px 0;
+/* ═══════════════════════════════════════════════════════
+   SICSS Melbourne 2026 · Schedule styles
+   ═══════════════════════════════════════════════════════ */
+
+/* ── Base font increase ── */
+.schedule-note,
+.week-header,
+details.day-acc,
+details.day-acc summary,
+.sessions-inner,
+.session-block,
+.break-block,
+.social-block {
+  font-size: 1.08rem;
+  line-height: 1.65;
 }
-.day-banner h2 { color: #1a2e50; margin: 0 0 4px 0; font-size: 1.3em; }
-.day-banner .venue { color: #6b7f90; font-size: 0.9em; margin: 0; }
-.day-banner .venue a { color: #6b7f90; text-decoration: underline; text-underline-offset: 2px; }
-.day-banner .venue a:hover { color: #1a2e50; }
-.venue-map {
-  margin: 0 0 20px 0;
-  border-radius: 6px;
-  overflow: hidden;
-  border: 1px solid #dce8f0;
-}
-.venue-map iframe { display: block; width: 100%; height: 220px; border: 0; }
-.day-summary {
+
+/* ── Intro note ── */
+.schedule-note {
   border-left: 4px solid #00a99d;
-  padding: 12px 16px;
+  padding: 14px 18px;
   border-radius: 0 6px 6px 0;
-  margin: 0 0 20px 0;
+  background: #f7fcfb;
   color: #2c3e50;
   font-style: italic;
+  margin-bottom: 28px;
 }
+
+/* ── Week banner ── */
+.week-header {
+  padding: 17px 24px;
+  border-top: 4px solid #00a99d;
+  border-bottom: 1px solid #dce8f0;
+  margin: 44px 0 10px 0;
+  background: #f7fafc;
+  border-radius: 0 8px 0 0;
+}
+.week-header h2 { color: #1a2e50; margin: 0; font-size: 1.2em; }
+
+/* ── Day accordion ── */
+details.day-acc {
+  margin: 13px 0;
+  border: 1.5px solid #ccd8e4;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 1px 5px rgba(0,0,0,.06);
+  transition: border-color .15s, box-shadow .15s;
+}
+details.day-acc[open] {
+  border-color: #1a2e50;
+  box-shadow: 0 3px 14px rgba(26,46,80,.12);
+}
+
+/* Summary (collapsed header) */
+details.day-acc > summary {
+  list-style: none;
+  cursor: pointer;
+  background: linear-gradient(135deg, #f2f7fc 0%, #e8f0f7 100%);
+  padding: 20px 54px 20px 22px;
+  position: relative;
+  user-select: none;
+  -webkit-user-select: none;
+}
+details.day-acc > summary::-webkit-details-marker { display: none; }
+details.day-acc > summary:focus-visible {
+  outline: 3px solid #00a99d;
+  outline-offset: -3px;
+}
+
+/* Animated chevron */
+details.day-acc > summary::after {
+  content: "▾";
+  position: absolute;
+  right: 18px;
+  top: 18px;
+  font-size: 1.5em;
+  color: #1a2e50;
+  transition: transform .22s ease;
+  line-height: 1;
+  pointer-events: none;
+}
+details.day-acc[open] > summary::after {
+  transform: rotate(180deg);
+}
+
+/* Badge row */
+.day-badge-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 9px;
+  flex-wrap: wrap;
+}
+.day-num-pill {
+  background: #1a2e50;
+  color: #fff;
+  font-size: 0.72em;
+  font-weight: 700;
+  padding: 3px 11px;
+  border-radius: 20px;
+  letter-spacing: .04em;
+  white-space: nowrap;
+}
+.day-date-pill {
+  background: #e4edf5;
+  color: #4a6070;
+  font-size: 0.72em;
+  font-weight: 600;
+  padding: 3px 11px;
+  border-radius: 20px;
+  white-space: nowrap;
+}
+.day-acc-title {
+  color: #1a2e50;
+  font-size: 1.14em;
+  font-weight: 700;
+  margin: 0 0 7px 0;
+  line-height: 1.3;
+}
+.day-venue-row {
+  font-size: 0.86em;
+  color: #6b7f90;
+  margin: 0 0 9px 0;
+}
+.day-venue-row a { color: #6b7f90; text-decoration: underline; text-underline-offset: 2px; }
+.day-venue-row a:hover { color: #1a2e50; }
+.day-preview {
+  color: #3a4a5a;
+  font-size: 0.91em;
+  font-style: italic;
+  margin: 0;
+  line-height: 1.55;
+}
+
+/* Expanded content */
+.day-body {
+  background: #fff;
+  border-top: 1px solid #ccd8e4;
+}
+.venue-map-strip {
+  overflow: hidden;
+  height: 210px;
+  border-bottom: 1px solid #dce8f0;
+}
+.venue-map-strip iframe {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+.sessions-inner {
+  padding: 14px 22px 26px;
+}
+
+/* ── Session block ── */
 .session-block {
-  margin: 16px 0;
-  padding: 16px 20px;
-  border-radius: 6px;
+  margin: 14px 0;
+  padding: 18px 22px;
+  border-radius: 8px;
   border: 1px solid #dce8f0;
+  background: #fafcfe;
 }
 .session-meta {
-  font-size: 0.82em;
+  font-size: 0.78em;
   color: #6b7f90;
   margin: 0 0 6px 0;
+  letter-spacing: .01em;
 }
 .session-title {
   color: #1a2e50;
@@ -48,72 +180,75 @@ partner_site: melbourne
 }
 .session-speakers {
   margin: 0 0 10px 0;
-  font-size: 0.95em;
+  font-size: 0.94em;
 }
-.session-speakers a {
-  color: #00a99d;
-  text-decoration: none;
-  font-weight: 500;
-}
+.session-speakers a { color: #00a99d; text-decoration: none; font-weight: 500; }
 .session-speakers a:hover { text-decoration: underline; }
 .speaker-tbd { color: #8a9bb0; font-style: italic; }
-.session-desc { color: #3a4a5a; margin: 0 0 12px 0; font-size: 0.95em; }
+.session-desc { color: #3a4a5a; margin: 0 0 12px 0; font-size: 0.94em; line-height: 1.55; }
 .outcomes-box {
   border-left: 3px solid #1a2e50;
-  padding: 8px 14px;
-  border-radius: 0 4px 4px 0;
-  font-size: 0.88em;
+  padding: 9px 15px;
+  border-radius: 0 5px 5px 0;
+  background: #f3f7fb;
+  font-size: 0.87em;
   color: #3a4a5a;
 }
 .outcomes-box p { margin: 0 0 4px 0; font-weight: 600; color: #1a2e50; }
 .outcomes-box ul { margin: 4px 0 0 0; padding-left: 18px; }
-.outcomes-box li { margin-bottom: 2px; }
+.outcomes-box li { margin-bottom: 3px; }
 .break-block {
-  margin: 10px 0;
-  padding: 8px 16px;
-  border-radius: 4px;
-  color: #6b7f90;
-  font-size: 0.88em;
+  margin: 8px 0;
+  padding: 7px 15px;
+  border-radius: 5px;
+  color: #8a9bb0;
+  font-size: 0.85em;
+  background: #f7f9fb;
+  border-left: 3px solid #dde6ef;
 }
 .social-block {
-  margin: 20px 0;
-  padding: 12px 16px;
+  margin: 18px 0 4px 0;
+  padding: 14px 18px;
   border-left: 4px solid #f0a030;
-  border-radius: 0 6px 6px 0;
-  font-size: 0.95em;
+  border-radius: 0 8px 8px 0;
+  background: #fffbf3;
+  font-size: 0.96em;
 }
-.week-header {
-  padding: 16px 20px;
-  border-top: 3px solid #00a99d;
-  border-bottom: 1px solid #dce8f0;
-  margin: 36px 0 20px 0;
+
+/* ── Responsive ── */
+@media (max-width: 640px) {
+  details.day-acc > summary { padding: 16px 46px 16px 16px; }
+  .sessions-inner { padding: 10px 14px 18px; }
+  .session-block { padding: 14px 14px; }
 }
-.week-header h2 { color: #1a2e50; margin: 0; }
 </style>
 
 # Program
 
-*Please note: The program outlined below is not final, and while many speakers have confirmed their participation, session descriptions may change at the discretion of our speakers and will be adjusted accordingly. The final program and materials will be shared with participants throughout May and June. An emphasis will also be placed on networking and social activities that will take place on some of the days, including networking dinner for participants, organisers, and invited speakers.*
-
----
+<div class="schedule-note">
+The program outlined below is not final, and while many speakers have confirmed their participation, session descriptions may change at the discretion of our speakers and will be adjusted accordingly. The final program and materials will be shared with participants throughout May and June. An emphasis will also be placed on networking and social activities that will take place on some of the days, including a networking dinner for participants, organisers, and invited speakers.
+</div>
 
 <div class="week-header">
   <h2>Week 1 — Foundations, Methods &amp; Theory &nbsp;·&nbsp; 22–26 June 2026</h2>
 </div>
 
----
-
-<div class="day-banner">
-  <h2>Day 1 — Introduction to Computational Social Science</h2>
-  <p class="venue"><a href="https://maps.google.com/?q=RMIT+Megaflex+3,+445+Swanston+St+Melbourne+VIC+3000" target="_blank" rel="noopener noreferrer">RMIT Building 8 Megaflex 3</a> &nbsp;·&nbsp; Monday, 22 June 2026</p>
-</div>
-<div class="venue-map">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.2096175100896!2d144.96130411254828!3d-37.80855883362555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642cb7f336eb1%3A0xa98ed363c8f77b8a!2sBuilding%208%20-%20RMIT%20University!5e0!3m2!1sen!2sau!4v1779156623036!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-<div class="day-summary">
-All participants and speakers meet and get to know each other. The program begins with foundational discussions on CSS and its value for interdisciplinary research. The aim is to provide a clear understanding of the field, its opportunities, its limitations, and the work that needs to be done.
-</div>
+<!-- ═══════════════════ DAY 1 ═══════════════════ -->
+<details class="day-acc">
+<summary>
+  <div class="day-badge-row">
+    <span class="day-num-pill">Day 1</span>
+    <span class="day-date-pill">Monday, 22 June 2026</span>
+  </div>
+  <p class="day-acc-title">Introduction to Computational Social Science</p>
+  <p class="day-venue-row"><a href="https://maps.google.com/?q=RMIT+Building+8+Megaflex+3,+445+Swanston+St+Melbourne+VIC+3000" target="_blank" rel="noopener noreferrer">RMIT Building 8 — Megaflex 3</a></p>
+  <p class="day-preview">All participants and speakers meet and get to know each other. The program begins with foundational discussions on CSS and its value for interdisciplinary research — what the field is, its opportunities, its limitations, and the work that needs to be done.</p>
+</summary>
+<div class="day-body">
+  <div class="venue-map-strip">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.2096175100896!2d144.96130411254828!3d-37.80855883362555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642cb7f336eb1%3A0xa98ed363c8f77b8a!2sBuilding%208%20-%20RMIT%20University!5e0!3m2!1sen!2sau!4v1779156623036!5m2!1sen!2sau" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
+  <div class="sessions-inner">
 
 <div class="break-block"><strong>09:30–10:30</strong> &nbsp; Arrivals &amp; Morning Tea</div>
 
@@ -149,7 +284,7 @@ All participants and speakers meet and get to know each other. The program begin
 
 <div class="session-block">
   <p class="session-meta">13:30–14:30 &nbsp;|&nbsp; In-person</p>
-  <p class="session-title">ARDC Data Governance</p>
+  <p class="session-title">TBC</p>
   <p class="session-speakers"><strong>Speakers:</strong> <span class="speaker-tbd">TBC</span></p>
   <div class="outcomes-box">
     <p>Learning Outcomes</p>
@@ -178,16 +313,26 @@ All participants and speakers meet and get to know each other. The program begin
 
 <div class="social-block"><strong>Social Event — Trivia Night</strong> &nbsp;|&nbsp; Oxford Scholar &nbsp;·&nbsp; ~17:30</div>
 
----
-
-<div class="day-banner">
-  <h2>Day 2 — Working with Data: Ethics and Practices</h2>
-  <p class="venue"><a href="https://maps.google.com/?q=RMIT+Megaflex+3,+445+Swanston+St+Melbourne+VIC+3000" target="_blank" rel="noopener noreferrer">RMIT Megaflex 3</a> &nbsp;·&nbsp; Tuesday, 23 June 2026</p>
+  </div>
 </div>
+</details>
 
-<div class="day-summary">
-The focus of today's sessions is ethical foundations and responsible data practices. Participants gain practical frameworks for ethical data workflows to help them understand the steps required before choosing the right data collection methodology.
-</div>
+<!-- ═══════════════════ DAY 2 ═══════════════════ -->
+<details class="day-acc">
+<summary>
+  <div class="day-badge-row">
+    <span class="day-num-pill">Day 2</span>
+    <span class="day-date-pill">Tuesday, 23 June 2026</span>
+  </div>
+  <p class="day-acc-title">Working with Data: Ethics and Practices</p>
+  <p class="day-venue-row"><a href="https://maps.google.com/?q=RMIT+Building+8+Megaflex+3,+445+Swanston+St+Melbourne+VIC+3000" target="_blank" rel="noopener noreferrer">RMIT Building 8 — Megaflex 3</a></p>
+  <p class="day-preview">Ethical foundations and responsible data practices. Participants gain practical frameworks for ethical data workflows to help them understand the steps required before choosing the right data collection methodology.</p>
+</summary>
+<div class="day-body">
+  <div class="venue-map-strip">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.2096175100896!2d144.96130411254828!3d-37.80855883362555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642cb7f336eb1%3A0xa98ed363c8f77b8a!2sBuilding%208%20-%20RMIT%20University!5e0!3m2!1sen!2sau!4v1779156623036!5m2!1sen!2sau" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
+  <div class="sessions-inner">
 
 <div class="session-block">
   <p class="session-meta">09:00–10:30 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Panel</p>
@@ -259,16 +404,26 @@ The focus of today's sessions is ethical foundations and responsible data practi
   </div>
 </div>
 
----
-
-<div class="day-banner">
-  <h2>Day 3 — Data Collection and Working Across Disciplines</h2>
-  <p class="venue"><a href="https://maps.google.com/?q=RMIT+Megaflex+3,+445+Swanston+St+Melbourne+VIC+3000" target="_blank" rel="noopener noreferrer">RMIT Megaflex 3</a> &nbsp;·&nbsp; Wednesday, 24 June 2026</p>
+  </div>
 </div>
+</details>
 
-<div class="day-summary">
-Participants explore different existing and emerging data collection strategies and working in an interdisciplinary team. By the end of the day, attendees learn how to source and validate digital data responsibly in today's research environment.
-</div>
+<!-- ═══════════════════ DAY 3 ═══════════════════ -->
+<details class="day-acc">
+<summary>
+  <div class="day-badge-row">
+    <span class="day-num-pill">Day 3</span>
+    <span class="day-date-pill">Wednesday, 24 June 2026</span>
+  </div>
+  <p class="day-acc-title">Data Collection and Working Across Disciplines</p>
+  <p class="day-venue-row"><a href="https://maps.google.com/?q=RMIT+Building+8+Megaflex+3,+445+Swanston+St+Melbourne+VIC+3000" target="_blank" rel="noopener noreferrer">RMIT Building 8 — Megaflex 3</a></p>
+  <p class="day-preview">Explore existing and emerging data collection strategies and working in interdisciplinary teams. By the end of the day, attendees learn how to source and validate digital data responsibly in today's research environment.</p>
+</summary>
+<div class="day-body">
+  <div class="venue-map-strip">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.2096175100896!2d144.96130411254828!3d-37.80855883362555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642cb7f336eb1%3A0xa98ed363c8f77b8a!2sBuilding%208%20-%20RMIT%20University!5e0!3m2!1sen!2sau!4v1779156623036!5m2!1sen!2sau" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
+  <div class="sessions-inner">
 
 <div class="session-block">
   <p class="session-meta">09:00–10:30 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Panel</p>
@@ -292,7 +447,7 @@ Participants explore different existing and emerging data collection strategies 
 <div class="session-block">
   <p class="session-meta">11:00–12:30 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
   <p class="session-title">APIs and Web Scraping: When They Work and When They Don't</p>
-  <p class="session-speakers"><strong>Speakers:</strong> MDAP</p>
+  <p class="session-speakers"><strong>Speakers:</strong>TBD</p>
   <p class="session-desc">We will discuss the current state of data collection using APIs and web scraping, as well as possible use cases and what considerations should be taken before choosing either method.</p>
   <div class="outcomes-box">
     <p>Learning Outcomes</p>
@@ -342,19 +497,26 @@ Participants explore different existing and emerging data collection strategies 
   </div>
 </div>
 
----
+  </div>
+</div>
+</details>
 
-<div class="day-banner">
-  <h2>Day 4 — Tools and Approaches to Data Analysis</h2>
-  <p class="venue"><a href="https://maps.google.com/?q=RMIT+Activator,+Melbourne+VIC" target="_blank" rel="noopener noreferrer">RMIT Activator</a> &nbsp;·&nbsp; Thursday, 25 June 2026</p>
-</div>
-<div class="venue-map">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.6945036735665!2d144.94514735618282!3d-37.82062406237891!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d509d17bc27%3A0x5a6142623152382d!2sDeakin%20Downtown!5e0!3m2!1sen!2sau!4v1779156493045!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-<div class="day-summary">
-We move towards methods that bridge social science and computation. Workshops cover qualitative and quantitative approaches and outline skills needed to conduct research that makes theoretical and empirical contributions. Starting from screen capture and annotation, we proceed to the discussion of LLMs, RAG, and image analysis.
-</div>
+<!-- ═══════════════════ DAY 4 ═══════════════════ -->
+<details class="day-acc">
+<summary>
+  <div class="day-badge-row">
+    <span class="day-num-pill">Day 4</span>
+    <span class="day-date-pill">Thursday, 25 June 2026</span>
+  </div>
+  <p class="day-acc-title">Tools and Approaches to Data Analysis</p>
+  <p class="day-venue-row"><a href="https://maps.google.com/?q=RMIT+Activator,+Melbourne+VIC" target="_blank" rel="noopener noreferrer">RMIT Activator</a></p>
+  <p class="day-preview">Methods that bridge social science and computation. Workshops cover qualitative and quantitative approaches — from screen capture and LLMs to RAG and large-scale image analysis.</p>
+</summary>
+<div class="day-body">
+  <div class="venue-map-strip">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.6945036735665!2d144.94514735618282!3d-37.82062406237891!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d509d17bc27%3A0x5a6142623152382d!2sDeakin%20Downtown!5e0!3m2!1sen!2sau!4v1779156493045!5m2!1sen!2sau" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
+  <div class="sessions-inner">
 
 <div class="session-block">
   <p class="session-meta">09:00–10:30 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
@@ -401,14 +563,14 @@ We move towards methods that bridge social science and computation. Workshops co
     <a href="https://www.admscentre.org.au/futoon-abushaqra/" target="_blank" rel="noopener noreferrer">Futoon Abushaqra</a>,
     <a href="https://www.rmit.edu.au/profiles/p/sachin-pathiyan-cherumanal2" target="_blank" rel="noopener noreferrer">Sachin Pathiyan Cherumanal</a>
   </p>
-  <p class="session-desc">This session will introduce participants to the fundamentals of Retrieval-Augmented Generation (RAG), a framework that combines information retrieval with large language models (LLMs) to produce more accurate and context-aware responses. It will provide a high-level overview of how RAG systems work</p>
+  <p class="session-desc">This session will introduce participants to the fundamentals of Retrieval-Augmented Generation (RAG), a framework that combines information retrieval with large language models (LLMs) to produce more accurate and context-aware responses. It will provide a high-level overview of how RAG systems work.</p>
   <div class="outcomes-box">
     <p>Learning Outcomes</p>
     <ul>
-      <li>Understand the basic concept of a RAG system</li>
-      <li>Recognise how RAG integrates retrieval and generation to improve LLM outputs</li>
-      <li>Identify potential applications of RAG in research workflows</li>
-      <li>Be aware of the main benefits and limitations of using RAG systems</li>
+      <li>Understand the basic concept of a RAG system.</li>
+      <li>Recognise how RAG integrates retrieval and generation to improve LLM outputs.</li>
+      <li>Identify potential applications of RAG in research workflows.</li>
+      <li>Be aware of the main benefits and limitations of using RAG systems.</li>
     </ul>
   </div>
 </div>
@@ -433,22 +595,33 @@ We move towards methods that bridge social science and computation. Workshops co
   </div>
 </div>
 
----
-
-<div class="day-banner">
-  <h2>Day 5 — Disciplines, Careers, and Industry</h2>
-  <p class="venue"><a href="https://maps.google.com/?q=RMIT+Activator,+Melbourne+VIC" target="_blank" rel="noopener noreferrer">RMIT Activator</a> &nbsp;·&nbsp; Friday, 26 June 2026</p>
+  </div>
 </div>
+</details>
 
-<div class="day-summary">
-The final day discusses real-world applications of CSS in research and career pathways. By the end of the first week, participants get ready for teamwork and think about the research questions they will explore in the second week.
-</div>
+<!-- ═══════════════════ DAY 5 ═══════════════════ -->
+<details class="day-acc">
+<summary>
+  <div class="day-badge-row">
+    <span class="day-num-pill">Day 5</span>
+    <span class="day-date-pill">Friday, 26 June 2026</span>
+  </div>
+  <p class="day-acc-title">Disciplines, Careers, and Industry</p>
+  <p class="day-venue-row"><a href="https://maps.google.com/?q=RMIT+Activator,+Melbourne+VIC" target="_blank" rel="noopener noreferrer">RMIT Activator</a></p>
+  <p class="day-preview">Real-world applications of CSS in research and career pathways. By the end of Week 1, participants get ready for teamwork and think about the research questions they will explore in the second week.</p>
+</summary>
+<div class="day-body">
+  <div class="venue-map-strip">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.6945036735665!2d144.94514735618282!3d-37.82062406237891!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d509d17bc27%3A0x5a6142623152382d!2sDeakin%20Downtown!5e0!3m2!1sen!2sau!4v1779156493045!5m2!1sen!2sau" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
+  <div class="sessions-inner">
 
 <div class="session-block">
   <p class="session-meta">09:00–10:30 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Panel</p>
   <p class="session-title">Cross-Disciplinary Collaboration: Bringing Social Science and Computational Analysis Together</p>
   <p class="session-speakers"><strong>Speakers:</strong>
-    <a href="https://www.rmit.edu.au/profiles/z/oleg-zendel" target="_blank" rel="noopener noreferrer">Oleg Zendel</a>, <a href="https://www.rmit.edu.au/profiles/t/j-trippas" target="_blank" rel="noopener noreferrer">Johanne Trippas</a>
+    <a href="https://www.rmit.edu.au/profiles/z/oleg-zendel" target="_blank" rel="noopener noreferrer">Oleg Zendel</a>,
+    <a href="https://www.rmit.edu.au/profiles/t/j-trippas" target="_blank" rel="noopener noreferrer">Johanne Trippas</a>
   </p>
   <p class="session-desc">We will talk about what it means to be part of an interdisciplinary team and how to make sure that such collaboration works well. Drawing from individual experiences, the panel members will discuss how hard or easy it can be for researchers from different backgrounds to collaborate with each other and what considerations should be taken when working on a big project.</p>
   <div class="outcomes-box">
@@ -467,8 +640,7 @@ The final day discusses real-world applications of CSS in research and career pa
   <p class="session-meta">11:00–12:30 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Panel</p>
   <p class="session-title">Working With and In the Industry</p>
   <p class="session-speakers"><strong>Speakers:</strong>
-    <!-- <a href="https://experts.swinburne.edu.au/12345-dominique-carlon" target="_blank" rel="noopener noreferrer"> -->
-      <span class="speaker-tbd"><a href="https://www.abc.net.au/news/laura-gartry/5595204" target="_blank" rel="noopener noreferrer">Laura Gartry</a></span>
+    <a href="https://www.abc.net.au/news/laura-gartry/5595204" target="_blank" rel="noopener noreferrer">Laura Gartry</a>
   </p>
   <p class="session-desc">The panel brings together computational social scientists working in or closely with industry and government organisations. Panellists will share insights on career transitions, the skills most valued by employers, real-world applications of CSS beyond academia, and strategies for building successful collaborations between researchers and industry partners.</p>
   <div class="outcomes-box">
@@ -486,7 +658,9 @@ The final day discusses real-world applications of CSS in research and career pa
 <div class="session-block">
   <p class="session-meta">13:30–15:00 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
   <p class="session-title">Career Success</p>
-  <p class="session-speakers"><strong>Speakers:</strong> <a href="https://www.rmit.edu.au/profiles/t/j-trippas" target="_blank" rel="noopener noreferrer">Johanne Trippas</a></p>
+  <p class="session-speakers"><strong>Speakers:</strong>
+    <a href="https://www.rmit.edu.au/profiles/t/j-trippas" target="_blank" rel="noopener noreferrer">Johanne Trippas</a>
+  </p>
   <p class="session-desc">The workshop equips HDR candidates and ECRs with strategies for project planning, timeline management, supervisor communication, milestone navigation, and building a strong research profile suitable for different pathways in Australia.</p>
 </div>
 
@@ -495,32 +669,38 @@ The final day discusses real-world applications of CSS in research and career pa
 <div class="session-block">
   <p class="session-meta">15:15–16:15 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
   <p class="session-title">Grant Writing in Computational Social Science</p>
-  <p class="session-speakers"><strong>Speakers:</strong><a href="https://www.qut.edu.au/about/our-people/academic-profiles/daniel.angus" target="_blank" rel="noopener noreferrer">Daniel Angus</a></p>
+  <p class="session-speakers"><strong>Speakers:</strong>
+    <a href="https://www.qut.edu.au/about/our-people/academic-profiles/daniel.angus" target="_blank" rel="noopener noreferrer">Daniel Angus</a>
+  </p>
   <p class="session-desc"><em>TBD</em></p>
 </div>
 
----
+  </div>
+</div>
+</details>
 
 <div class="week-header">
   <h2>Week 2 — Collaborative Research Projects &nbsp;·&nbsp; 29 June – 3 July 2026</h2>
 </div>
 
-<div class="day-summary">
-The second week transitions from formal instruction to hands-on, participant-led group research. Mornings feature advanced methodological workshops; the rest of each day is dedicated to collaborative teamwork supported by drop-in experts and mentors.
-</div>
+<!-- ═══════════════════ DAYS 6–9 ═══════════════════ -->
+<details class="day-acc">
+<summary>
+  <div class="day-badge-row">
+    <span class="day-num-pill">Days 6–9</span>
+    <span class="day-date-pill">Mon 29 June – Thu 2 July 2026</span>
+  </div>
+  <p class="day-acc-title">Collaborative Research Projects</p>
+  <p class="day-venue-row"><a href="https://maps.google.com/?q=Deakin+Downtown,+550+Bourke+St+Melbourne+VIC+3000" target="_blank" rel="noopener noreferrer">Deakin Downtown — 550 Bourke St, Melbourne</a></p>
+  <p class="day-preview">The week transitions from formal instruction to hands-on, participant-led group research. Mornings feature advanced methodological workshops; the rest of each day is dedicated to collaborative teamwork supported by drop-in experts and mentors.</p>
+</summary>
+<div class="day-body">
+  <div class="venue-map-strip">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.6945036735665!2d144.94514735618282!3d-37.82062406237891!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d509d17bc27%3A0x5a6142623152382d!2sDeakin%20Downtown!5e0!3m2!1sen!2sau!4v1779156493045!5m2!1sen!2sau" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
+  <div class="sessions-inner">
 
----
-
-<div class="day-banner">
-  <h2>Days 6–9 — Monday 29 June to Thursday 2 July</h2>
-  <p class="venue"><a href="https://maps.google.com/?q=Deakin+Downtown,+550+Bourke+St+Melbourne+VIC+3000" target="_blank" rel="noopener noreferrer">Deakin Downtown</a> &nbsp;·&nbsp; 550 Bourke St, Melbourne</p>
-</div>
-
-<div class="venue-map">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.6945036735665!2d144.94514735618282!3d-37.82062406237891!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d509d17bc27%3A0x5a6142623152382d!2sDeakin%20Downtown!5e0!3m2!1sen!2sau!4v1779156493045!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-**Morning Sessions (90 min) — Advanced Workshops**
+<p><strong>Morning Sessions (90 min) — Advanced Workshops</strong></p>
 
 <!-- <div class="session-block">
   <p class="session-meta">Mon 29 Jun &nbsp;·&nbsp; 10:00 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
@@ -589,9 +769,7 @@ The second week transitions from formal instruction to hands-on, participant-led
   </div>
 </div> -->
 
-<br>
-
-**Mid-Morning &amp; Afternoon Sessions — Teamwork &amp; Project Development**
+<p><strong>Mid-Morning &amp; Afternoon Sessions — Teamwork &amp; Project Development</strong></p>
 
 <div class="session-block">
   <p class="session-meta">Ongoing across Days 6–9 &nbsp;|&nbsp; In-person</p>
@@ -600,18 +778,36 @@ The second week transitions from formal instruction to hands-on, participant-led
   <p class="session-desc">Participants work exclusively in their formed groups on their collaborative research projects. Drop-in experts, organisers, and mentors will be available to provide technical assistance, theoretical guidance, and feedback throughout each day.</p>
 </div>
 
----
-
-<div class="day-banner">
-  <h2>Day 10 — Project Presentations &amp; Closing</h2>
-  <p class="venue"><a href="https://maps.google.com/?q=Deakin+Downtown,+550+Bourke+St+Melbourne+VIC+3000" target="_blank" rel="noopener noreferrer">Deakin Downtown</a> &nbsp;·&nbsp; Friday, 3 July 2026</p>
+  </div>
 </div>
+</details>
+
+<!-- ═══════════════════ DAY 10 ═══════════════════ -->
+<details class="day-acc">
+<summary>
+  <div class="day-badge-row">
+    <span class="day-num-pill">Day 10</span>
+    <span class="day-date-pill">Friday, 3 July 2026</span>
+  </div>
+  <p class="day-acc-title">Project Presentations &amp; Closing</p>
+  <p class="day-venue-row"><a href="https://maps.google.com/?q=Deakin+Downtown,+550+Bourke+St+Melbourne+VIC+3000" target="_blank" rel="noopener noreferrer">Deakin Downtown — 550 Bourke St, Melbourne</a></p>
+  <p class="day-preview">Participants present preliminary findings, methodologies, and proposed solutions from their collaborative week-long projects, followed by final feedback, networking, and closing remarks.</p>
+</summary>
+<div class="day-body">
+  <div class="venue-map-strip">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.6945036735665!2d144.94514735618282!3d-37.82062406237891!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d509d17bc27%3A0x5a6142623152382d!2sDeakin%20Downtown!5e0!3m2!1sen!2sau!4v1779156493045!5m2!1sen!2sau" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
+  <div class="sessions-inner">
 
 <div class="session-block">
   <p class="session-meta">Morning &amp; Afternoon &nbsp;|&nbsp; In-person</p>
   <p class="session-title">Group Presentations, Final Feedback &amp; Closing</p>
   <p class="session-desc">Participants will present the preliminary findings, methodologies, and proposed solutions from their collaborative week-long projects. The program will conclude with final feedback, networking, and closing remarks.</p>
 </div>
+
+  </div>
+</div>
+</details>
 
 <br>
 <hr>
