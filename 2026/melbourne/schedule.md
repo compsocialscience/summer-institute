@@ -41,7 +41,7 @@ details.day-acc summary,
   background: #f7fafc;
   border-radius: 0 8px 0 0;
 }
-.week-header h2 { color: #aeb1b6; margin: 0; font-size: 1.2em; }
+.week-header h2 { color: #242425; margin: 0; font-size: 1.2em; }
 
 /* ── Day accordion ── */
 details.day-acc {
