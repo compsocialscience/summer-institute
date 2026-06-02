@@ -1,10 +1,39 @@
-- name: "Gabriel Kessler"
+- name: "Milagros Miceli"
   image: /assets/images/bsas_2026_miceli.jpg 
   bio: "Research Lead, Distributed AI Research Institute (DAIR); Director of the Data, Algorithmic Systems, and Ethics Research Unit, Weizenbaum Institute; Professor - Technical University of Berlin, Germany."
   website: https://milamiceli.com/
-
+  
+- name: "Gabriel Vommaro"
+  image: /assets/images/bsas_2026_miceli.jpg 
+  bio: "Independent Researcher, National Scientific and Technical Research Council (CONICET); Full Professor and Director of the Master’s Program in Political Sociology - School of Interdisciplinary Advanced Social Studies (Escuela IDAES), National University of San Martín, Argentina."
+  website: https://bicyt.conicet.gov.ar/fichas/p/gabriel-alejandro-vommaro
 
 - name: "Gabriel Kessler"
   image: /assets/images/bsas_2026_kessler.jpg 
   bio: "Senior Researcher, National Scientific and Technical Research Council (CONICET); Professor - National University of La Plata and School of Interdisciplinary Advanced Social Studies (Escuela IDAES), National University of San Martín, Argentina."
   website: https://bicyt.conicet.gov.ar/fichas/p/gabriel-kessler
+
+- name: "Gonzalo Assusa"
+  image: /assets/images/bsas_2026_assusa.jpg 
+  bio: "Researcher, Institute of Humanities, National Scientific and Technical Research Council (CONICET) and National University of Córdoba; Full Professor in Sociology - Faculty of Arts, National University of Córdoba, Argentina."
+  website: https://bicyt.conicet.gov.ar/fichas/p/gonzalo-assusa
+
+- name: "Carlos Sarraute"
+  image: /assets/images/bsas_2026_sarraute.jpg 
+  bio: "Founder, Disruptive Research Institute; Researcher and Professor - Instituto Tecnológico de Buenos Aires (ITBA), Argentina. Specialist in human dynamics, data science, big data, and social network analysis."
+  website: https://www.linkedin.com/in/csarraute/es?originalSubdomain=ar
+
+- name: "Natalia Debandi"
+  image: /assets/images/bsas_2026_debandi.jpg 
+  bio: "Assistant Researcher, National Scientific and Technical Research Council (CONICET); Coordinator of Interdisciplinary Projects, Interdisciplinary Artificial Intelligence Center (CIAI); Professor in Data Governance - National University of San Martín, Argentina."
+  website: https://bicyt.conicet.gov.ar/fichas/p/natalia-debandi
+
+- name: "Juan Manuel Ortiz de Zárate"
+  image: /assets/images/bsas_2026_ortiz.jpg 
+  bio: "PhD in Computer Science, University of Buenos Aires; researcher and developer specializing in artificial intelligence, natural language processing, social networks, data science, and predictive modeling, Argentina."
+  website: https://www.linkedin.com/in/juan-manuel-ortiz-de-zarate/
+
+- name: "Elina Gómez"
+  image: /assets/images/bsas_2026_gomez.jpg 
+  bio: "Professor and Researcher, Data Access and Methods Unit (UMAD), Faculty of Social Sciences; Coordinator, Socioeconomic and Behavioral Information Center (CISCO), Institute for Research on Social Justice and Inequalities - Universidad de la República, Uruguay."
+  website: https://www.elinagomez.com/
