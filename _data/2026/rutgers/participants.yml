@@ -64,5 +64,9 @@
 - name: "Muhammad Amasha" # Replace with participant name.
   image: /assets/images/1ajqVwDOrf--rljFnefFWIVC0OLEdv8lW.jpeg  # Add participant image to assets/images/ and update here.
   bio: "Muhammad Amasha is a political and cultural sociologist, a PhD candidate in Sociology at Yale, and a Graduate Policy Fellow at the Institution for Social and Policy Studies. His dissertation examines internal solidarity and conflict within anti-authoritarian coalitions, which significantly shape outcomes of anti-authoritarian struggles in revolutionary times."
-  
+
+- name: "Zhimeng Li" # Replace with participant name.
+  image: /assets/images/ZhimengLi.jpg  # Add participant image to assets/images/ and update here.
+  bio: "Zhimeng Li is an affective scientist and social psychologist whose research examines how language, culture, and conceptual knowledge shape emotion perception in naturalistic social contexts. Using experimental, computational, and physiological methods, he studies emotion segmentation, social inference, and the dynamic processes underlying how people perceive and understand others’ emotions."
+
 # # Add more participants with the same format as above...
