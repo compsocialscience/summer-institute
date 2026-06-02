@@ -201,7 +201,7 @@ details.day-acc[open] > summary::after {
   margin: 8px 0;
   padding: 7px 15px;
   border-radius: 5px;
-  color: #8a9bb0;
+  color: #202020;
   font-size: 0.85em;
   background: #f7f9fb;
   border-left: 3px solid #dde6ef;
