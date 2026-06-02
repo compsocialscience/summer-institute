@@ -1,6 +1,16 @@
-- name: "Faculty info coming soon." # Add faculty name here.
+- name: "Wafa Khalfan" # Add faculty name here.
   image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
-  bio: "Check back soon for updates." # Add faculty bio here.
+  bio: "" # Add faculty bio here.
+  website: https://www.google.com  # Link faculty website here.
+
+  - name: "Muhammad Muhammad" # Add faculty name here.
+  image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
+  bio: "" # Add faculty bio here.
+  website: https://www.google.com  # Link faculty website here.
+
+  - name: "Leon Siefken" # Add faculty name here.
+  image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
+  bio: "." # Add faculty bio here.
   website: https://www.google.com  # Link faculty website here.
 
 # Add more faculty with the same format as above...
