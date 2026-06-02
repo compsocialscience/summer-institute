@@ -38,9 +38,17 @@ Please note that the majority of the coding work presented at SICSS-ODISSEI 2026
 
 Some of the activities will require coding, and we will support R. You are welcome to use other languages, but we cannot guarantee that we can support them. Before SICSS you should install a modern, stable-release version of [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/).
 
-### Slack
+### Python
+Some parts of SICSS ODISSEI will involve working with Python. Participants are coming from a wide range of backgrounds. If you are someone that has used python less regularly, then please do try to refresh your skills before the summer school starts. Good starting points include:
+- Python for Everybody: [https://www.py4e.com/](https://www.py4e.com/)
+- Kaggle Python Course: [https://www.kaggle.com/learn/python](https://www.kaggle.com/learn/python)
+- Software Carpentry Python Lessons: [https://swcarpentry.github.io/python-novice-inflammation/](https://swcarpentry.github.io/python-novice-inflammation/)
 
-Before participating at SICSS-ODISSEI 2026, you should have an account in the SICSS Slack workspace.  If you have not used Slack before, you should review these [getting started](https://slack.com/help/categories/360000049043-Getting-started) materials.  Slack can be hard to use at first, but we've found that it is the best way to enable everyone to collaborate.
+Even a few hours of preparation can make the workshops and collaborative sessions much easier to follow. During the summer school, you will have access to a coding model within the secure environments, but it is vital that you are able to critically evaluate what it produces.
+
+### Discord
+
+For the duration of SICSS ODISSEI, we will use Discord as our main communication platform for announcements, discussion, questions, and project coordination. Please join through the link you received via email. If you have never used Discord before, this short guide is helpful: [https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord). We encourage everyone to join before the programme starts so we can help resolve any access issues in advance. 
 
 ### GitHub
 
