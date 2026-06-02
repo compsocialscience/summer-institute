@@ -2,6 +2,15 @@
 
 In addition to the main videos and course materials developed by SICSS Co-Founders Chris Bail and Matt Salganik, organizers of SICSS partner sites have produced a variety of alternative curricula that serve the needs of different audiences. For example, some of these materials present code in alternative languages such as Python, and others are directed at non-American audiences. Click on the links below to explore these materials in detail.
 
+### 2026
+
+#### Helsinki
+- [Paper: The emergence of computational social science: Intellectual integration or persistent fragmentation?](https://doi.org/10.1162/QSS.a.463)  
+  Has the emerging field of computational social science grown increasingly intellectually integrated over time, or does the field remain fragmented into several distinct epistemic communities? Using data about citations to study the development of the intellectual structure of computational social science, findings suggest that network science has maintained a central position over the years, but contrary to common perceptions, the field has not become more integrated. Rather, computational social science is fracturing into various subcommunities with loose connections to each other.
+- [Paper: Fine-tuning a language model with a specific worldview](https://doi.org/10.1177/20539517261447831)  
+  Instead of seeing biases as a source of error with big data, this study explores treating them as theoretical perspectives in the sense of a worldview (Weltanschauung), such as rational choice theory or feminist theory. By fine-tuning large language models using specific theoretical writings to infuse them with a particular worldview, the authors showcase how these models depict society and highlight the need to examine values embedded in large language models before they are used to analyze society.
+  - [Lecture Video: Examining the worldviews embedded in LLMs - Matti Nelimarkka](https://youtu.be/TNx7-eX96gY)
+
 ### 2023
 
 #### Chile
