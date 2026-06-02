@@ -1,4 +1,10 @@
 - name: "Gabriel Kessler"
+  image: /assets/images/bsas_2026_miceli.jpg 
+  bio: "Research Lead, Distributed AI Research Institute (DAIR); Director of the Data, Algorithmic Systems, and Ethics Research Unit, Weizenbaum Institute; Professor - Technical University of Berlin, Germany."
+  website: https://milamiceli.com/
+
+
+- name: "Gabriel Kessler"
   image: /assets/images/bsas_2026_kessler.jpg 
   bio: "Senior Researcher, National Scientific and Technical Research Council (CONICET); Professor - National University of La Plata and School of Interdisciplinary Advanced Social Studies (Escuela IDAES), National University of San Martín, Argentina."
   website: https://bicyt.conicet.gov.ar/fichas/p/gabriel-kessler
