@@ -1,6 +1,138 @@
-- name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+- name: "Meixu Chen"
+  image: /assets/images/nyushanghai2025/Meixu Chen.jpg
+  bio: "Dr. Meixu Chen is a Tenure-tracked Associate Professor at the Institute of Social Work and Social Policy, East China University of Science and Technology (ECUST). Dr. Chen’s research centres on sustainable urban development, utilising spatio-temporal big data and computational social science methodologies to explore urban spatial vibrancy, vulnerability, and resilience. Her work deeply examines socio-spatial heterogeneity and its underlying driving factors. She has participated in three national-level research projects, both in China and abroad, and serves as the Principal Investigator for a youth project funded by the Shanghai Philosophy and Social Science Planning Program. An active contributor to her field, Dr. Chen has published nearly 20 peer-reviewed papers in leading international journals. "
+  website:
+  
+- name: "Yifan Chen"
+  image: /assets/images/nyushanghai2025/Yifan Chen.jpg
+  bio: "Yifan Chen is an incoming second-year PhD student in Sociology at Temple University in Philadelphia. Her research interests include labor and labor processes, gender and work, media and cultural production, particularly in the context of contemporary China. She previously earned a bachelor’s degree in Sociology from Zhejiang University and a master’s degree in Media, Culture, and Communication from New York University. Currently, her research focuses on informal employment among youth and women in China, and she is also interested in mixed and computational methods in sociological research."
+  website: 
 
-# Add more participants with the same format as above...
+- name: "Fanling Cheng"
+  image: /assets/images/nyushanghai2025/Fanling Cheng.jpg
+  bio: "Fanling Cheng is an Assistant Professor at Wenzhou-Kean University. She received her PhD in Sociology from the State University of New York at Albany in 2025. Her research lies at the intersection of migration, urban sociology, and cultural analysis, examining how immigrant and “outsider” communities navigate enduring yet rapidly changing social structures. Her work explores immigrant residential patterns and global neighborhoods in China, as well as the impacts of COVID-19 on ethnic enclaves in New York City. In her dissertation, she employs social network analysis and supervised machine learning to explore the structure and narratives in a niche art market."
+  website: 
+
+- name: "Yilin Gong"
+  image: /assets/images/nyushanghai2025/Yilin Gong.jpg
+  bio: "Yilin Gong is a Ph.D. student in Information Science at Indiana University Bloomington. His research focuses on platform governance and crowdsourced content moderation, with a current emphasis on X's Community Notes and the effectiveness-fairness paradox of participatory fact-checking. He earned his Master's in Data Science from the University of Chicago."
+  website: 
+
+- name: "Haojie Ji"
+  image: /assets/images/nyushanghai2025/Haojie Ji.png
+  bio: "I am a second-year Ph.D. student in the Department of Sociology at the School of Social Development, East China Normal University. My research focuses on AI-mediated communication and the sociology of work and occupations. I have conducted studies on topics such as social bots, cross-cultural communication, and human-AI interaction, with a broader interest in understanding how artificial intelligence and digital platforms reshape communication processes, social relations, and the organization of work. At SICSS 2026, I look forward to engaging with interdisciplinary perspectives in computational social science and exploring how large-scale digital trace data, computational methods, and social science theory can be integrated to advance empirical research in the era of artificial intelligence."
+  website: 
+
+- name: "Yingyue Jiang"
+  image: /assets/images/nyushanghai2025/Yingyue Jiang.jpg
+  bio: "Yingyue Jiang is a PhD candidate in Sociology at Brown University. Her research sits at the intersection of migration, social mobility, family, and structural racism, examining how migration background and racial inequalities shape the life trajectories of immigrants in the United States. She employs a mixed-methods approach, integrating census data, digital data, and in-depth interviews to examine these questions empirically."
+  website: 
+
+- name: "Qiuhan Jin"
+  image: /assets/images/nyushanghai2025/Qiuhan Jin.jpg
+  bio: "Qiuhan Jin is a PhD student in Management at the University of St. Gallen, affiliated with the Center for Digital Health Interventions and the CSS Health Lab. His research builds autonomous multimodal AI systems that turn everyday digital traces, such as meal logs, continuous glucose monitors, and wearable sensor streams, into personalized insight for metabolic health, and asks how those insights should inform population-level disease screening and prevention policy. He previously trained in Biomedical Engineering at Hunan University as well as Health Sciences and Technology at ETH Zürich."
+  website: 
+
+- name: "Yuzhe (Julian) Lei"
+  image: /assets/images/nyushanghai2025/Yuzhe (Julian) Lei.JPG
+  bio: "Yuzhe (Julian) Lei is a Ph.D. student at the Annenberg School for Communication at the University of Pennsylvania. His research sits at the intersection of identity, global communication, and political communication. He is particularly interested in employing mixed methods to examine the cultural identities of Chinese diasporas, exploring how diasporic communities construct, negotiate, and perform their identities in digital spaces, and how they navigate social, cultural, and political ties to their homelands through social media. His work has been published in leading communication journals, including The International Journal of Press/Politics and Political Communication."
+  website: 
+
+- name: "Chenming Li"
+  image: /assets/images/nyushanghai2025/Chenming Li.png
+  bio: "I am a second-year PhD student at Department of Economics, UCL. I am interested in developing statistical and computational methods to answer social science questions. My current work focuses on machine learning, statistical decision theory, and causal inference. I have also worked on formal theory (political science) and time-series forecasting in the past."
+  website: 
+
+- name: "Zhangrui Li"
+  image: /assets/images/nyushanghai2025/Zhangrui Li.JPG
+  bio: "Zhangrui Li is a recent Sociology graduate from Zhejiang University and an incoming PhD student in Sociology at Zhejiang University. Her research interests include computational social science, sociology of knowledge, science and technology studies (STS), and AI. Her recent work uses computational text analysis to study discourse, knowledge production, and social change."
+  website: 
+
+- name: "Bin Lian"
+  image: /assets/images/nyushanghai2025/Bin Lian.jpg
+  bio: "Bin Lian is an Associate Professor at the Institute of Social Work and Social Policy at East China University of Science and Technology. Her research focuses on social demography, social policy, and cross-national comparisons. She earned a PhD in Sociology and an MS in Statistics from the University of Illinois at Urbana-Champaign. In addition to her academic work, she has served as a consultant for UNICEF and the United Nations, contributing to international social development research. "
+  website: 
+
+- name: "Huacong Liu"
+  image: /assets/images/nyushanghai2025/Huacong Liu.jpg
+  bio: "Dr. Liu is an Associate Professor in Education at the School of Education, Shanghai Jiao Tong University. She received her Ph.D. in Higher Education from The Pennsylvania State University in 2017. Prior to joining SJTU, she worked with the OECD, UNESCO’s Global Education Monitoring Report, the UNESCO Institute for Lifelong Learning, and the University of Hamburg. Her research focuses on teacher education and educational leadership, with particular interests in mathematics and science teachers’ career pathways, teacher practices and student outcomes, and principal leadership in underperforming schools."
+  website: 
+
+- name: "Tongzhou Liu"
+  image: /assets/images/nyushanghai2025/Tongzhou Liu.png
+  bio: "I'm a graduate student at Institute for Global Public Policy at Fudan University. My current research lies at the intersection of public economics and policy analysis, with a focus on a) how public decisions are made and implemented as well as b) their consequences for social welfare. Prior to graduate studies, I received my bachelor's degree In Politics, Philosophy and Economics from Yuanpei College, Peking University. I plan to pursue a Ph.D. in the future and look forward to connecting with fellow researchers while deepening my understanding of computational methodology at the Institute!"
+  website: 
+
+- name: "Yunzhe Liu"
+  image: /assets/images/nyushanghai2025/Yunzhe Liu.png
+  bio: "Dr Yunzhe Liu is an Associate Professor at the Population Research Institute, School of Social Development, East China Normal University (ECNU). He is also an Honorary Research Associate at Imperial College London and an Honorary Member of SpaceTimeLab, University College London.<br/>Dr Liu received his BA in Environment and Planning and PhD in Geographic Data Science from the University of Liverpool, and his MSc in Geographic Information Science from University College London. Before joining ECNU, he held postdoctoral research positions at University College London, the University of Oxford and Imperial College London. <br/>His research uses multi-source spatiotemporal big data, computational social science methods and GeoAI to examine socio-spatial disparities among urban areas and their underlying mechanisms. His work spans geodemographics, urban social geography, population mobility, environmental justice and public health. He has published more than 25 peer-reviewed articles in leading international journals, including npj Urban Sustainability, Habitat International, Environment International, Sustainable Cities and Society and Computers, Environment and Urban Systems. <br/>Dr Liu’s teaching connects urban analytics, computational social science and urban social geography. At ECNU, he currently teaches Multi-source Urban Data Analysis and Practice to undergraduate, master’s and doctoral students. He is also developing two new courses: Introduction to Computational Social Science for first-year undergraduates, and Applied Machine Learning in Computational Social Science for students across all three levels."
+  website: 
+
+- name: "Xiao Meng"
+  image: /assets/images/nyushanghai2025/Xiao Meng.jpg
+  bio: "Xiao Meng is a PhD candidate in the Department of Media and Communication at City University of Hong Kong. His research examines the impact of social bots on public opinion formation and information diffusion, with a particular focus on the applications of generative AI on social media. He is especially interested in applying computational social science methods to study communication phenomena."
+  website: 
+
+- name: "Haogang Wu"
+  image: /assets/images/nyushanghai2025/Haogang Wu.png
+  bio: "My name is Haogang Wu, and I am currently a second-year PhD student in Urban Studies at The Chinese University of Hong Kong, Shenzhen. My research mainly focuses on the urban integration of rural-to-urban migrants in China and comparative analyses of urbanization pathways in East Asian countries. Outside of my academic work, I enjoy reading, watching films, and bicycle touring. I have previously cycled to Tibet from Sichuan, Yunnan, and Xinjiang, and I have a strong interest in the religious and ethnic cultures of the Tibetan regions."
+  website: 
+
+- name: "Kunchi Wu"
+  image: /assets/images/nyushanghai2025/Kunchi Wu.jpg
+  bio: "I am Kunchi Wu (吴昆炽), a PhD student in the Department of Sociology and Criminology at the University of Iowa. Originally from the Guangdong Province of China, I earned my Bachelor’s degree in Media and Communication from Hong Kong Baptist University (BNBU-UIC campus). I later received my MSc in Social Research Methods from the Department of Methodology at the London School of Economics and Political Science. My research interests include social stratification, social networks, media studies, and mixed-method approaches."
+  website: 
+
+- name: "Chi Xu"
+  image: /assets/images/nyushanghai2025/Xu Chi.png
+  bio: "Chi Xu is a postdoctoral researcher at the School of Social and Behavioral Sciences, Nanjing University. She received her PhD in Sociology from City University of Hong Kong, where she was supported by the Hong Kong PhD Fellowship Scheme (HKPFS). Her research focuses on social stratification and mobility, family sociology, and educational inequality. Her current work examines how educational and employment experiences shape intergenerational inequality and family dynamics in contemporary China."
+  website: 
+
+- name: "He Xu"
+  image: /assets/images/nyushanghai2025/He Xu.JPG
+  bio: "He Xu is a PhD student in Sociology at Cornell University. His research focuses on social mobility, family, and inequality. More specifically, he studies trends of social mobility and how people’s perceptions of mobility change over time. Methodologically, he primarily draws on quantitative methods including causal inference and sequence analysis with a growing interest in text and network analysis."
+  website: 
+
+- name: "Jiawen Xu"
+  image: /assets/images/nyushanghai2025/Jiawen Xu.png
+  bio: "Jiawen Xu is a PhD candidate in Educational Economics and Management at East China Normal University. Her research focuses on international academic mobility and science policy, using both qualitative methods and computational approaches including large-scale bibliometrics and text analysis. She is currently examining the career experiences and innovation contributions of international scholars in Chinese universities."
+  website: 
+
+- name: "Yinan Xu"
+  image: /assets/images/nyushanghai2025/Yinan Xu.JPG
+  bio: "I'm a doctoral student in sociology, and my research interests lie in social activism and movements, and more specifically, form and style of civic engagement in non-democratic contexts. As digital media has emerged to be one of the major activism channels, I'm interested in understanding the role of digital media in grievance expression, and state-society relations through the lens of activism. Methodologically, my past projects feature qualitative designs that include ethnographic and interview approaches. More recently, I've come to develop mixed methods that further incorporate data mining and computational textual analyses to explore large data corpus. "
+  website: 
+
+- name: "Haochen Yang"
+  image: /assets/images/nyushanghai2025/Haochen Yang.png
+  bio: "Hi, my name is Haochen Yang, a first-year PhD student in sociology, SUNY Albany. Graduated with a bachelor’s degree in economics and a master’s in engineering, my interest lies in political sociology with advanced quantitative skills; cultural and economic facets are also very fascinating to me. Besides applied research, I am equally interested in and value theory critique in sociology, which I personally believe constitutes the foundation of the former. I am currently mainly working on research related to civil sphere, cross national analysis, as well as computational sociological studies. Although I am fully aware that my research is still preliminary and immature, I hope it can serve as a starting point for discussion and give me the opportunity to learn from all the professors and fellow participants here. Thank you very much."
+  website: 
+
+- name: "Haochen Yang"
+  image: /assets/images/nyushanghai2025/Haochen Yang.png
+  bio: "Hi, my name is Haochen Yang, a first-year PhD student in sociology, SUNY Albany. Graduated with a bachelor’s degree in economics and a master’s in engineering, my interest lies in political sociology with advanced quantitative skills; cultural and economic facets are also very fascinating to me. Besides applied research, I am equally interested in and value theory critique in sociology, which I personally believe constitutes the foundation of the former. I am currently mainly working on research related to civil sphere, cross national analysis, as well as computational sociological studies. Although I am fully aware that my research is still preliminary and immature, I hope it can serve as a starting point for discussion and give me the opportunity to learn from all the professors and fellow participants here. Thank you very much."
+  website: 
+
+- name: "Yue Yu"
+  image: /assets/images/nyushanghai2025/Yue Yu.jpg
+  bio: "Yue Yu is a second-year Ph.D. student in Sociology at East China Normal University, participating in the Joint Graduate Training Program with CASER at NYU Shanghai. His research interests include urban sociology, community governance, and social stratification. His work has previously been published in Chinese Sociological Review and several Chinese academic journals. He is interested in applying computational social science methods to identify and analyze patterns and characteristics of urban space."
+  website: 
+
+- name: "Haozhe Zhang"
+  image: /assets/images/nyushanghai2025/Haozhe Zhang.JPG
+  bio: "Haozhe Zhang is a 1st year Ph.D. student at the University of Hong Kong, Department of Politics and Public Administration. His concentration is primarily on International Relations, with a specific focus on how memory affects the present international politics, the rising powers' discursive strategy, and the political influence of foreign aid. He earned his master's degree in International Relations from Johns Hopkins University. Before joining the HKU, he worked for providing business advisory in Washington DC and Beijing."
+  website: 
+
+- name: "Li Zhu"
+  image: /assets/images/nyushanghai2025/Haozhe Zhang.JPG
+  bio: "Dr. Li Zhu is an Assistant Professor in the Department of Educational Studies at Xi’an Jiaotong–Liverpool University. She received her PhD in Education from the University of California, Berkeley. Her research focuses on meritocratic beliefs, educational aspirations and educational inequality, with relevant publications in the British Journal of Sociology and the British Journal of Sociology of Education. Her recent work extends the line of inquiry to doctoral students pursuing careers beyond academia. Methodologically, she employs both quantitative and qualitative approaches, with natural language processing (NLP) as a complementary tool. She serves on the editorial board/ panel of the British Journal of Sociology of Education and the Cambridge Journal of Education."
+  website: 
+
+- name: "Yutong Zhu"
+  image: /assets/images/nyushanghai2025/Yutong Zhu.jpg
+  bio: "Yutong Zhu is a first-year Ph.D. student in Sociology at the University of Chicago, where he also completed an M.A. in Computational Social Science. A cultural and political sociologist at core, he uses NLP and large language model methods to study how socio-cognitive categories—gender, partisanship, cultural identity—are encoded in language and reproduced through discourse. Current projects include measuring partisan structure through LLM activation, tracing gendered language change via embedding decomposition, computational narratology of fiction, and public interest AI auditing. Outside of research, he is a badminton player who aspires to one day snatch his bodyweight."
+  website: 
+
+
+
+
