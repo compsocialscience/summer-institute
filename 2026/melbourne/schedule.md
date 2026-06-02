@@ -20,7 +20,6 @@ details.day-acc summary,
   font-size: 1.08rem;
   line-height: 1.65;
 }
-  
 
 /* ── Intro note ── */
 .schedule-note {
@@ -42,7 +41,7 @@ details.day-acc summary,
   background: #f7fafc;
   border-radius: 0 8px 0 0;
 }
-.week-header h2 { color: #1a2e50; margin: 0; font-size: 1.2em; }
+.week-header h2 { color: #aeb1b6; margin: 0; font-size: 1.2em; }
 
 /* ── Day accordion ── */
 details.day-acc {
@@ -70,7 +69,7 @@ details.day-acc > summary {
 }
 details.day-acc > summary::-webkit-details-marker { display: none; }
 details.day-acc > summary:focus-visible {
-  outline: 3px solid #00a99d;
+  outline: 3px solid #d8eae9;
   outline-offset: -3px;
 }
 
@@ -81,7 +80,7 @@ details.day-acc > summary::after {
   right: 18px;
   top: 18px;
   font-size: 1.5em;
-  color: #1a2e50;
+  color: #aebacf;
   transition: transform .22s ease;
   line-height: 1;
   pointer-events: none;
@@ -523,7 +522,8 @@ The program outlined below is not final, and while many speakers have confirmed 
   <p class="session-meta">09:00–10:30 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
   <p class="session-title">Screen Capture for Data Collection</p>
   <p class="session-speakers"><strong>Speakers:</strong>
-    <a href="https://www.admscentre.org.au/abdul-obeid/" target="_blank" rel="noopener noreferrer">Abdul Obeid</a>
+    <a href="https://www.admscentre.org.au/abdul-obeid/" target="_blank" rel="noopener noreferrer">Abdul Obeid</a>,
+    <a href="https://www.qut.edu.au/about/our-people/academic-profiles/daniel.angus" target="_blank" rel="noopener noreferrer">Daniel Angus</a> 
   </p>
   <p class="session-desc">Using the AIO Mobile Screen Capture tools as an example, we will discuss when and how to collect and analyse images, text and other data from users' screens. We will cover the technical and ethical requirements for this form of data collection and how to approach the subsequent analysis.</p>
   <div class="outcomes-box">
@@ -641,7 +641,9 @@ The program outlined below is not final, and while many speakers have confirmed 
   <p class="session-meta">11:00–12:30 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Panel</p>
   <p class="session-title">Working With and In the Industry</p>
   <p class="session-speakers"><strong>Speakers:</strong>
-    <a href="https://www.abc.net.au/news/laura-gartry/5595204" target="_blank" rel="noopener noreferrer">Laura Gartry</a>
+    <a href="https://www.abc.net.au/news/laura-gartry/5595204" target="_blank" rel="noopener noreferrer">Laura Gartry</a>,
+    <a href="https://www.linkedin.com/in/arielkuperman/" target="_blank" rel="noopener noreferrer">Ariel Kuperman</a>,
+    <a href="https://www.linkedin.com/in/andrew-mcmahon-95461742/" target="_blank" rel="noopener noreferrer">Andrew McMahon</a>
   </p>
   <p class="session-desc">The panel brings together computational social scientists working in or closely with industry and government organisations. Panellists will share insights on career transitions, the skills most valued by employers, real-world applications of CSS beyond academia, and strategies for building successful collaborations between researchers and industry partners.</p>
   <div class="outcomes-box">
