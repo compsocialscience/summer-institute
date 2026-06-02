@@ -13,7 +13,7 @@
   bio: "Dr. Sanghvi is a Visiting Instructor and Director of Healthcare Analytics in the College of Business at Florida Atlantic University. He earned a Ph.D. in Computer Engineering and completed a Post-Doctoral Fellowship in Neural Engineering at Florida Atlantic University. He also serves as the Chair of the National Science Foundation NSF IUCRC CAKE Center and brings over 10 years of combined experience in industry and academia. " # add speaker bio here
   website: https://www.linkedin.com/in/harshal-sanghvi/ # update speaker personal link here
 
-  - name: "Armiel Suriaga" # Speaker name goes here.
+- name: "Armiel Suriaga" # Speaker name goes here.
   image: /assets/images/Armiel.png  # Upload speaker image to /assets/images/ and update URL here.
   bio: "Armiel Suriaga is a tenure-earning assistant professor at the Christine E. Lynn College of Nursing and an FAU alumnus. A Harvard-trained public health researcher, his work focuses on substance use, harm reduction, aging science, pharmacoepidemiology, health equity, and prevention education related to opioids, cannabinoids, kratom, and alcohol use. " # add speaker bio here
   website: https://www.linkedin.com/in/armiel-suriaga-phd-mph-msn-72519648/ # update speaker personal link here
@@ -32,4 +32,3 @@
   image: /assets/images/Ana.png  # Upload speaker image to /assets/images/ and update URL here.
   bio: "Ana Aleksandric is an Assistant Professor of Teaching at FAU. Her research is highly interdisciplinary at the intersection of data and social sciences, and public health informatics. Her research focuses on user behavior in toxic online conversations and social media discourse on public health topics, including women’s health and diabetes." # add speaker bio here
   website: https://www.linkedin.com/in/ana-aleksandric98/ # update speaker personal link here
-
