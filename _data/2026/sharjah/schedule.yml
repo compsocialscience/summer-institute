@@ -1,5 +1,21 @@
-- date: "Dates - TBD, 2026"
+- date: "Monday May 25, 2026"
   events:
-    - name: "Schedule coming soon. Check back for updates!" # Update this line or add markdown for your site's schedule.
+    - name: "Day 1: Introduction to Computational Social Science (CSS)" # Update this line or add markdown for your site's schedule.
+
+    - date: "Tuesday May 26, 2026"
+  events:
+    - name: "Day 2: Digital Trace Data and Textual Analysis" # Update this line or add markdown for your site's schedule.
+
+    - date: "Wednesday May 27, 2026"
+  events:
+    - name: "Day 3: Computational Communication Science" # Update this line or add markdown for your site's schedule.
+
+    - date: "Thursday May 28, 2026"
+  events:
+    - name: "Day 4: Spatial Data and Mapping" # Update this line or add markdown for your site's schedule.
+
+    - date: "Friday May 29, 2026"
+  events:
+    - name: "Reflections, Future Perspectives, and Project Showcase" # Update this line or add markdown for your site's schedule.
 
   # Our tentative schedule can be seen [here](www.google.com). Our program focuses on ... . We will invite guest speakers to provide an overview of ..."
