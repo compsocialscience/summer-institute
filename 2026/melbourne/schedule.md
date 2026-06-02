@@ -20,6 +20,7 @@ details.day-acc summary,
   font-size: 1.08rem;
   line-height: 1.65;
 }
+  
 
 /* ── Intro note ── */
 .schedule-note {
