@@ -1,10 +1,10 @@
 - name: "Milagros Miceli"
-  image: /assets/images/bsas_2026_miceli.jpg 
+  image: /assets/images/bsas_2026_miceli.png
   bio: "Research Lead, Distributed AI Research Institute (DAIR); Director of the Data, Algorithmic Systems, and Ethics Research Unit, Weizenbaum Institute; Professor - Technical University of Berlin, Germany."
   website: https://milamiceli.com/
   
 - name: "Gabriel Vommaro"
-  image: /assets/images/bsas_2026_miceli.jpg 
+  image: /assets/images/bsas_2026_vommaro.jpg 
   bio: "Independent Researcher, National Scientific and Technical Research Council (CONICET); Full Professor and Director of the Master’s Program in Political Sociology - School of Interdisciplinary Advanced Social Studies (Escuela IDAES), National University of San Martín, Argentina."
   website: https://bicyt.conicet.gov.ar/fichas/p/gabriel-alejandro-vommaro
 
@@ -29,11 +29,11 @@
   website: https://bicyt.conicet.gov.ar/fichas/p/natalia-debandi
 
 - name: "Juan Manuel Ortiz de Zárate"
-  image: /assets/images/bsas_2026_ortiz.jpg 
+  image: /assets/images/bsas_2026_ortiz.jpeg 
   bio: "PhD in Computer Science, University of Buenos Aires; researcher and developer specializing in artificial intelligence, natural language processing, social networks, data science, and predictive modeling, Argentina."
   website: https://www.linkedin.com/in/juan-manuel-ortiz-de-zarate/
 
 - name: "Elina Gómez"
-  image: /assets/images/bsas_2026_gomez.jpg 
+  image: /assets/images/bsas_2026_gomez.png
   bio: "Professor and Researcher, Data Access and Methods Unit (UMAD), Faculty of Social Sciences; Coordinator, Socioeconomic and Behavioral Information Center (CISCO), Institute for Research on Social Justice and Inequalities - Universidad de la República, Uruguay."
   website: https://www.elinagomez.com/
