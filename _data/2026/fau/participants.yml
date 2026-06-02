@@ -113,11 +113,6 @@
   bio: " Deepak Bastola is a PhD student in applied mathematics at Florida Atlantic University researching AI, neural networks, and statistical learning. Founder of the Mathematical Association of Nepal, he initiated and led Nepal’s first International Mathematical Olympiad participation (2017–2022), advancing mathematical education, leadership, and AI-oriented research. "  # Add participant bio here.
   website: https://deepakbastola.com.np/  # Link participant website here.
 
-- name: "Laurie Martinez" # Replace with participant name.
-  image: /assets/images/Laurie.jpg  # Add participant image to assets/images/ and update here.
-  bio: " Laurie Martinez is an Assistant Professor at Florida Atlantic University Christine E. Lynn College of Nursing, whose interdisciplinary research examines resilience and trauma recovery in vulnerable and high-stress populations. Her work integrates behavioral health, narrative inquiry, and computational approaches to investigate biopsychosocial outcomes related to stress, resilience, and human functioning.    "  # Add participant bio here.
-  website: https://www.linkedin.com/in/laurie-martinez-phd-mba-msn-rn-ahn-bc-hwnc-bc-21b09113b/?skipRedirect=true  # Link participant website here.
-
 - name: "Glory David Adebayo  " # Replace with participant name.
   image: /assets/images/Glory.jpg  # Add participant image to assets/images/ and update here.
   bio: " Glory David Adebayo is a PhD student in Economics at Florida International University. His research focuses on development economics, education, technology adoption, and policy evaluation, with a particular emphasis  Sub-Saharan Africa. He applies causal inference methods to study education, migration, gender, and digital inclusion.     "  # Add participant bio here.
