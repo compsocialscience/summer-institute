@@ -686,6 +686,8 @@ The program outlined below is not final, and while many speakers have confirmed 
   <h2>Week 2 — Collaborative Research Projects &nbsp;·&nbsp; 29 June – 3 July 2026</h2>
 </div>
 
+<div class="social-block"><strong>Social Event — </strong> &nbsp;|&nbsp; Dights Falls Cultural Tour &nbsp;·&nbsp; 10:00 - 12:00</div>
+
 <!-- ═══════════════════ DAYS 6–9 ═══════════════════ -->
 <details class="day-acc">
 <summary>
