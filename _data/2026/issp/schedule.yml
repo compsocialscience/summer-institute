@@ -26,6 +26,7 @@
     - name: "13:30 - 16:30 Travail en équipe ou seul (sous la supervision d'un assistant)"
     - name: "17:00 - 19:00 Travail en équipe"
     - name: "Exercices (à rendre le lendemain): _Données et exercices disponibles [ici](https://github.com/visseho/Cours_SICSS_Montreal/tree/main/Semaine1_Formation_Intensive_R/Jour3_Visualisation)._"
+
 - date: 2026-08-11
   name: Modélisation avec R et Python
   events:
@@ -38,6 +39,7 @@
     - name: "13:30 - 16:30 Travail en équipe ou seul (sous la supervision d'un assistant)"
     - name: "17:00 - 19:00 Travail en équipe"
     - name: "Exercices (à rendre le lendemain): _Données et exercices disponibles [ici](https://github.com/visseho/Cours_SICSS_Montreal/tree/main/Semaine1_Formation_Intensive_R/Jour4_Mod%C3%A9lisation)._"
+
 - date: 2026-08-12
   name: Programmation / Introduction aux données de texte
   events:
@@ -50,7 +52,7 @@
     - name: "_Données et exercices disponibles [ici](https://github.com/visseho/Cours_SICSS_Montreal/tree/main/Semaine1_Formation_Intensive_R/Jour5_Programmation)._"
     - name: "Exercices à rendre"
 
-  - date: "Première et Deuxième semaine : Introduction aux sciences sociales computationnelles et conférenciers invités"
+- date: "Première et Deuxième semaine : Introduction aux sciences sociales computationnelles et conférenciers invités"
 
 # name: Semaine 2 SICSS - Formation (hybride: présence et en ligne)
 - date: 2026-08-13
