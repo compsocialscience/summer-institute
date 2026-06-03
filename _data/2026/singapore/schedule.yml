@@ -1,8 +1,8 @@
 - date: July 13, 2026
   name: "1st Day"
   events:
-    - name: "Location: Boardroom, #04-04 The Centre for Trusted Internet Community (CTIC), 3 Research Link, Innovation 4.0, 117602"
-    - name: "09:30 - 10:00 Registration"
+    - name: "Location: Innovation 4.0 Conference Room, 3 Research Link, Innovation 4.0, 117602"
+    - name: "09:30 - 10:00 Registration / Morning Tea"
     - name: "10:00 - 12:00 Keynote by **Dr. D. Sunshine Hillygus**"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 14:30 Group Formatiioin"
@@ -13,6 +13,7 @@
   name: "2nd Day"
   events:
     - name: "Location: Boardroom, #04-04 The Centre for Trusted Internet Community (CTIC), 3 Research Link, Innovation 4.0, 117602"
+    - name: "09:45 - 10:00 Check-in / Morning Tea"
     - name: "10:00 - 12:00 Speech by **Dr. Swapnil Mishra**"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 14:30 Group Work"
@@ -23,6 +24,7 @@
   name: "3rd Day"
   events:
     - name: "Location: Boardroom, #04-04 The Centre for Trusted Internet Community (CTIC), 3 Research Link, Innovation 4.0, 117602"
+    - name: "09:45 - 10:00 Check-in / Morning Tea"
     - name: "10:00 - 12:00 Speech by **Dr. Hai Liang**"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 14:30 Group Work"
@@ -32,7 +34,8 @@
 - date: July 16, 2026
   name: "4th Day"
   events:
-    - name: "Location: Boardroom, #04-04 The Centre for Trusted Internet Community (CTIC), 3 Research Link, Innovation 4.0, 117602"
+    - name: "Location: Innovation 4.0 Conference Room, 3 Research Link, Innovation 4.0, 117602"
+    - name: "09:45 - 10:00 Check-in / Morning Tea"
     - name: "10:00 - 12:00 Speech by **Dr. Kiran Garimella**"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 14:30 Group Work"
@@ -42,7 +45,8 @@
 - date: July 17, 2026
   name: "5th Day"
   events:
-    - name: "Location: Boardroom, #04-04 The Centre for Trusted Internet Community (CTIC), 3 Research Link, Innovation 4.0, 117602"
+    - name: "Location: Innovation 4.0 Conference Room, 3 Research Link, Innovation 4.0, 117602"
+    - name: "09:45 - 10:00 Check-in / Morning Tea"
     - name: "10:00 - 12:00 Speech by **Dr. Dilrukshi Gamage**"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 14:30 Group Work"
@@ -62,7 +66,8 @@
 - date: July 20, 2026
   name: "8th Day"
   events:
-    - name: "Location: Boardroom, #04-04 The Centre for Trusted Internet Community (CTIC), 3 Research Link, Innovation 4.0, 117602"
+    - name: "Location: Innovation 4.0 Conference Room, 3 Research Link, Innovation 4.0, 117602"
+    - name: "09:45 - 10:00 Check-in / Morning Tea"
     - name: "10:00 - 12:00 Keynote by **Dr. Emilio Ferrara**"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 14:30 Group Work"
