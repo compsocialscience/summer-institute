@@ -10,22 +10,23 @@
 - date: Monday, June 8, 2026
   name: "Introduction to ODISSEI, Open Science and the Theme of the Summer School"
   events:
-    - name: "10:00-12:00: Introducing ODISSEI and Computational Social Science. Speaker: [Tom Emery](https://www.eur.nl/people/tom-emery)"
-    - name: "12:00-13:00: Lunch break"
-    - name: "13:00-14:15: Using the SANE environment. Speaker: [Angelica Maineri](https://angelicamaineri.github.io/) and [Tom Emery](https://www.eur.nl/people/tom-emery)"
-    - name: "14:15-14:30: Coffee break"
-    - name: "14:30-16:00: Introduction to [FIRMBACKBONE](https://firmbackbone.nl/), [LISS](https://www.lissdata.nl/) and [Exposome](https://exposome.uu.nl/). Speaker: [Tom Emery](https://www.eur.nl/people/tom-emery)"
-    - name: "16:00-16:15: Coffee break"
-    - name: "16:15-17:00: Research Ideas Speed Dating"
-    - name: "Social Event (17:00-19:00): Opening Drinks at [Paviljoen](https://share.google/39RKMKFjwvsjI2yAl), EUR Woudestein campus"
+    - name: "10:00 - 12:00: Introducing ODISSEI and Computational Social Science. Speaker: [Tom Emery](https://www.eur.nl/people/tom-emery)"
+    - name: "12:00 - 13:00: Lunch break"
+    - name: "13:00 - 14:15: Using the SANE environment. Speaker: [Angelica Maineri](https://angelicamaineri.github.io/) and [Tom Emery](https://www.eur.nl/people/tom-emery)"
+    - name: "14:15 - 14:30: Coffee break"
+    - name: "14:30 - 16:00: Introduction to [FIRMBACKBONE](https://firmbackbone.nl/), [LISS](https://www.lissdata.nl/) and [Exposome](https://exposome.uu.nl/). Speaker: [Tom Emery](https://www.eur.nl/people/tom-emery)"
+    - name: "16:00 - 16:15: Coffee break"
+    - name: "16:15 - 17:00: Research Ideas Speed Dating"
+    - name: "Social Event (17:00 - 19:00): Opening Drinks at [Paviljoen](https://share.google/39RKMKFjwvsjI2yAl), EUR Woudestein campus"
     - name: "Location: Room:3.09, [Polak building](https://maps.app.goo.gl/1iGLX517YesXPbNq9)"
 
 - date: Tuesday, June 9, 2026
   name: "Geospatial Analysis"
   events:
-    - name: "09:00-17:00: more detailed schedule of the day will be available shortly"
-    - name: "12:00-13:00: Lunch break"
-    - name: "16:00-17:00: Guest lecture by [Elizaveta Sivak](https://lisasivak.github.io/) on the PreFer challenge"
+    - name: "09:30 - 12:00: Handling Geospatial Data. Speaker: [Tom Emery](https://www.eur.nl/people/tom-emery)"
+    - name: "12:00 - 13:00: Lunch break"
+    - name: "13:00 - 16:00: Causal Geospatial Analysis. Speaker: [Javier Garcia Bernardo](https://www.uu.nl/staff/JGarciaBernardo)"
+    - name: "16:00 - 17:00: Guest lecture by [Elizaveta Sivak](https://lisasivak.github.io/) on the PreFer challenge"
     - name: "Location: Room:3.09, [Polak building](https://maps.app.goo.gl/1iGLX517YesXPbNq9)"
     
 - date: Wednesday, June 10, 2026
@@ -37,14 +38,14 @@
     - name: "10:10:	Tabular data exploration"
     - name: "11:00:	Break"
     - name: "11:10:	Fitting a scikit-learn model on numerical data"
-    - name: "12:00-13:00: Lunch break"
+    - name: "12:00 - 13:00: Lunch break"
     - name: "13:00:	Fitting a scikit-learn model on numerical data"
     - name: "14:00:	Break"
     - name: "14:10:	Fitting a scikit-learn model on numerical data"
     - name: "15:00:	Break"
     - name: "15:10:	Cross-validation"
     - name: "15:45:	Wrap-up"
-    - name: "16:00-17:00: Guest lecture: [Ana Petrovic](https://www.tudelft.nl/en/staff/a.petrovic/) on Neighbourhood Analysis"
+    - name: "16:00 - 17:00: Guest lecture: [Ana Petrovic](https://www.tudelft.nl/en/staff/a.petrovic/) on Neighbourhood Analysis"
     - name: "Location: Room:3.09, [Polak building](https://maps.app.goo.gl/1iGLX517YesXPbNq9)"
 
 - date: Thursday, June 11, 2026
@@ -57,22 +58,23 @@
     - name: "11:00:	Break"
     - name: "11:10:	Intuitions on decision trees"
     - name: "11:30:	Overfitting and underfitting"
-    - name: "12:00-13:00: Lunch break"
+    - name: "12:00 - 13:00: Lunch break"
     - name: "13:00:	Validation and learning curves"
     - name: "13:30:	Advanced topics"
     - name: "14:00:	Break"
     - name: "14:10:	Try out learned skills on new dataset"
-    - name: "15:00-16:00: Guest lecture by [Ana Macanovic](https://www.uu.nl/staff/AMacanovic) on Text Analysis"
+    - name: "15:00 - 16:00: Guest lecture by [Ana Macanovic](https://www.uu.nl/staff/AMacanovic) on Text Analysis"
     - name: "16:10:	Concluding remarks"
     - name: "16:45:	Wrap-up & Post-workshop Survey"
-    - name: "Social Event (17:30-20:00): Drinks at [De Gele Kanarie](https://share.google/fPaXpcBkRtGzgJcNH)"
+    - name: "Social Event (17:30 - 20:00): Drinks at [De Gele Kanarie](https://share.google/fPaXpcBkRtGzgJcNH)"
     - name: "Location: Room:3.09, [Polak building](https://maps.app.goo.gl/1iGLX517YesXPbNq9)"
     
 - date: Friday June 12, 2026
   name: "Annotation workshop by ODISSEI SoDa team"
   events:
-    - name: "09:00-17:00: more detailed schedule of the day will be available shortly"
-    - name: "12:00-13:00: Lunch break"
+    - name: "09:30 - 12:30: LLM fundamentals for Social Science Research. Speaker: [Qixiang Fang](https://www.uu.nl/staff/QFang)"
+    - name: "12:30 - 13:30: Lunch break"
+    - name: "13:30 - 15:00: Inference with LLM Annotations. Speaker: [Qixiang Fang](https://www.uu.nl/staff/QFang)"
     - name: "Location: Room:3.14, [Polak building](https://maps.app.goo.gl/1iGLX517YesXPbNq9)"
      
 - date: Week 2
@@ -81,39 +83,38 @@
 - date: Monday, June 15, 2026
   name: "Research project"
   events:
-    - name: "10:00-11:00: Introducing the Data Challenge"
-    - name: "11:00-12:00: Getting into SANE"
-    - name: "13:00-17:00: Research project"
-    - name: "12:00-13:00: Lunch break"
+    - name: "10:00 - 11:00: Introducing the Data Challenge"
+    - name: "13:00 - 17:00: Research project"
+    - name: "12:00 - 13:00: Lunch break"
     - name: "Location: Room:3.09, [Polak building](https://maps.app.goo.gl/1iGLX517YesXPbNq9)"
  
 - date: Tuesday, June 16, 2025
   name: "Research project"
   events:
     - name: "09:00 - 17:00 Research project"
-    - name: "12:00-13:00: Lunch break"
+    - name: "12:00 - 13:00: Lunch break"
     - name: "Location: Room:3.09, [Polak building](https://maps.app.goo.gl/1iGLX517YesXPbNq9)"
   
 - date: Wednesday, June 17, 2025
   name: "Research project"
   events:
-    - name: "09:00 - 17:00 Research project"
-    - name: "12:00-13:00: Lunch break"
+    - name: "09:00 - 12:00 Research project"
+    - name: "12:00 - 13:00: Lunch break"
+    - name: "13:00 - 15:30 Research project"
+    - name: "15:30 - 17:00 Ethics Workshop. Speaker: [Chirag Arora](https://www.tudelft.nl/en/staff/c.arora/)"
     - name: "Location: Room:3.09, [Polak building](https://maps.app.goo.gl/1iGLX517YesXPbNq9)"
   
 - date: Thursday, June 18, 2025
   name: "Research project"
   events:
     - name: "09:00 - 17:00 Research project"
-    - name: "12:00-13:00: Lunch break"
+    - name: "12:00 - 13:00: Lunch break"
     - name: "Closing dinner (18:00 - 21:00 ) at [Tasca Plein Oost](https://share.google/ZLqzS7VCnVeHbDmN4)"
     - name: "Location: Room:3.09, [Polak building](https://maps.app.goo.gl/1iGLX517YesXPbNq9)"
     
-  
 - date: Friday, June 19, 2025
   name: "Research project"
   events:
-    - name: "09:00 - 12:00 Research project"
-    - name: "12:30 - 17:00 Presentations"
-    - name: "12:00-13:00: Lunch break"
+    - name: "10:00 - 12:30 Final Presentations"
+    - name: "12:30 - 13:30: Lunch & Closing - Participants are free to leave from 12:30"
     - name: "Location: Room:3.09, [Polak building](https://maps.app.goo.gl/1iGLX517YesXPbNq9)"
