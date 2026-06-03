@@ -102,7 +102,7 @@
     - name: "13:30 - 16:30 Travail en équipe"
     - name: "16:30 - 17:00 Restittution des travaux d'équipe"
     - name: "17:00 - 17:15 Pause"
-    - name: "17:15 - 19:00 Conférencier : "
+    - name: "17:15 - 19:00 Conférencier : A venir"
     
 - date: 2026-08-17
   name: "Apprentissage automatique (machine learning)"
@@ -115,7 +115,7 @@
     - name: "13:30 - 16:30 Travail en équipe"
     - name: "16:30 - 17:00 Restittution des travaux d'équipe"
     - name: "17:00 - 17:15 Pause"
-    - name: "17:15 - 19:00 Conférencier : Mamadou Yauck"
+    - name: "17:15 - 19:00 Conférencier : A venir"
 
 - date: 2026-08-18
   name: "Enquêtes à l'ère numérique"
@@ -140,7 +140,7 @@
 #    - name: "13:30 - 16:30 Travail en équipe"
 #    - name: "16:30 - 17:00 Restittution des travaux d'équipe"
 #    - name: "17:00 - 17:15 Pause"
-#    - name: "17:15 - 19:00 Conférencier : Yacine Boujija"
+#    - name: "17:15 - 19:00 Conférencier : A venir"
 - date: 2026-08-19
   name: Éthique et formation des équipes
   events:
@@ -162,9 +162,9 @@
   
 - date: "Deuxième semaine : Projets d'équipes"
 
-# name: "Semaine 3 SICSS - Projets d'équipes"
+# name: "Semaine 2 SICSS - Projets d'équipes"
 - date: 2026-08-20
-    - name: Projet en équipe
+  name: Projet en équipe
   events:
     - name: "9:00 - 9:30 Arrivée"
     - name: "9:30 - 12:30 Projet en équipe"
