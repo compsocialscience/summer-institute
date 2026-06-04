@@ -11,7 +11,7 @@
 - date: June 9
   name: "Text as Data"
   events:
-    - name: "09:00 am - 10:00 am Tutorial: Quantitative Text Analysis"
+    - name: "09:00 am - 10:00 am Tutorial - Quantitative Text Analysis"
     - name: "11:00 am - 01:00 pm Research Talk - Role of Social Media Data and Computational Social Science for Society 5.0, Dr. Muhammad Bilal"
     - name: "01:00 am - 02:00 pm Lunch"
     - name: "02:00 pm - 03:00 pm Building apps for Social Science research"
@@ -20,7 +20,7 @@
 - date: June 10
   name: "Agent Based Modeling"
   events:
-    - name: "09:00 am - 11:00 am Tutorial: Quantitative Text Analysis"
+    - name: "09:00 am - 11:00 am Workshop - An Introduction to Agent-Based Modeling in Python Using Mesa, Zain Ahmed Usmani"
     - name: "11:00 am - 01:00 pm Research Talk - Simulating the Social: Agent-Based Modeling and Network Analysis for Complex Systems, Dr. Shah Jamal Alam"
     - name: "01:00 pm - 02:00 pm Lunch"
     - name: "02:00 pm - 05:00 pm Group Exercise"
