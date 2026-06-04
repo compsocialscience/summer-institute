@@ -35,16 +35,20 @@
   events:
     - name: "9:00 - 9:15 Logistics"
     - name: "9:15 - 11:00 Tutorials on Measurement"
-    - name: "11:00-12:30 Talk by Jennifer Allen"
+    - name: "11:00-12:30 Talk by Jennifer Allen: Political motives help rather than hinder crowdsourced fact-checking"
     - name: "1:30 - 2:30 Tutorials on AI and Machine Learning"
     - name: "2:30 - 4:30 Group Exercises on Measurement, Machine Learning"
 
 - date: June 5, 2026
   name: Digital Surveys and Experiments
   events:
-    - name: Details coming soon
+    - name: "9:00 - 9:15 Logistics"
+    - name: "9:15 - 11:00 Overview of Digital Surveys and Experimentation"
     - name: "11:00-12:30 Talk by Ruobin Gong: Principled statistical inference from privacy-protected data: the importance of transparency"
-     
+    - name: "1:30 - 2:30 Speedy survey launch"
+    - name: "3:00 - 4:30 Speedy experimental design"
+
+
 - date: June 6, 2026
   events:
     - name: "No meetings. Enjoy New Brunswick."
