@@ -193,7 +193,7 @@ partner_site: melbourne
 # Training Resources
 
 <div class="training-intro">
-This page compiles pre-reading, tools, and further reading for each confirmed session in the SICSS-Melbourne 2026 program. Use it to prepare before each day and to dive deeper into topics that interest you after the institute. Resources marked with <span class="setup-flag">Setup</span> require registration, installation, or account setup — please complete these steps before the relevant session.
+This page compiles pre-reading, tools, and further reading for each confirmed session in the SICSS-Melbourne 2026 program. Use it to prepare before each day and to explore topics that interest you after the institute.
 </div>
 
 <nav class="toc-nav">
@@ -209,7 +209,7 @@ This page compiles pre-reading, tools, and further reading for each confirmed se
 
 <!-- ════════════════════════════════════════════════ -->
 <div class="training-section" id="start-here">
-  <h2>Start Here — Foundational Resources</h2>
+  <h2>General Resources</h2>
 </div>
 
 <ul class="start-list">
@@ -217,16 +217,16 @@ This page compiles pre-reading, tools, and further reading for each confirmed se
     <a href="https://www.bitbybitbook.com/" target="_blank" rel="noopener noreferrer">Bit by Bit: Social Research in the Digital Age</a> — Matthew J. Salganik, 2018. A comprehensive, open-access introduction to computational social science covering surveys, experiments, mass collaboration, and ethics. <span class="res-type">Book</span>
   </li>
   <li>
-    <a href="https://doi.org/10.1126/science.1167742" target="_blank" rel="noopener noreferrer">Computational Social Science</a> — David Lazer et al., 2009. The foundational manifesto arguing for a new field that leverages large-scale digital data to understand human behaviour. <span class="res-type">Paper</span>
+    <a href="https://doi.org/10.1126/science.1167742" target="_blank" rel="noopener noreferrer">Computational Social Science</a> — David Lazer et al., 2009. The foundational paper arguing for a field that leverages large-scale digital data to understand human behaviour. <span class="res-type">Paper</span>
   </li>
   <li>
     <a href="https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2023" target="_blank" rel="noopener noreferrer">National Statement on Ethical Conduct in Human Research</a> — NHMRC / ARC / Universities Australia, 2023 (updated 2025). Australia's core framework for research ethics, essential for anyone working with human or digital trace data. <span class="res-type">Guide</span>
   </li>
   <li>
-    <a href="https://cssbook.net/" target="_blank" rel="noopener noreferrer">Computational Analysis of Communication</a> — Wouter van Atteveldt, Damian Trilling &amp; Carlos Arcila, 2022. An open-access textbook with R and Python code covering text, network, and image analysis. <span class="res-type">Book</span>
+    <a href="https://cssbook.net/" target="_blank" rel="noopener noreferrer">Computational Analysis of Communication</a> — Wouter van Atteveldt, Damian Trilling &amp; Carlos Arcila, 2022. An open-access textbook with R and Python code covering text, network, and image analysis. It is not expected of the participants to be familiar with R or Python, but it is advisable to explore what they are and some foundational terms. <span class="res-type">Book</span>
   </li>
   <li>
-    <a href="https://r4ds.had.co.nz/" target="_blank" rel="noopener noreferrer">R for Data Science</a> — Hadley Wickham &amp; Garrett Grolemund, 2nd ed. A practical, free introduction to data science with R and the tidyverse for researchers with little coding experience. <span class="res-type">Tutorial</span>
+    <a href="https://r4ds.had.co.nz/" target="_blank" rel="noopener noreferrer">R for Data Science</a> — Hadley Wickham &amp; Garrett Grolemund, 2nd ed. A practical, free introduction to data science with R and the tidyverse for researchers with little coding experience. Another resource that would be useful as an introduction into the key aspects of working with data using R.<span class="res-type">Tutorial</span>
   </li>
   <li>
     <a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html" target="_blank" rel="noopener noreferrer">Introduction to Cultural Analytics &amp; Python</a> — Melanie Walsh, 2021. A free online textbook covering Python basics, text analysis, and social media data specifically for humanities and social science scholars. <span class="res-type">Tutorial</span>
@@ -235,7 +235,7 @@ This page compiles pre-reading, tools, and further reading for each confirmed se
 
 <!-- ════════════════════════════════════════════════ -->
 <div class="training-section" id="thematic">
-  <h2>Session Resources</h2>
+  <h2>Session-Related Resources</h2>
 </div>
 
 <!-- ─── DAY 1 ─── -->
@@ -278,7 +278,7 @@ This page compiles pre-reading, tools, and further reading for each confirmed se
 
   <h4>Further reading</h4>
   <ul>
-    <li><a href="https://doi.org/10.1038/s41586-021-03660-7" target="_blank" rel="noopener noreferrer">Measuring Algorithmic Bias</a> — Hofman et al., 2021. A discussion of how to systematically assess biases in computational methods and algorithmic outputs. <span class="res-type">Paper</span></li>
+    <li><a href="https://doi.org/10.1080/0960085X.2021.1927212" target="_blank" rel="noopener noreferrer">Algorithmic bias: review, synthesis, and future research directions</a> — Nima Kordzadeh and Maryam Ghasemaghaei, 2021. A discussion of alogrithmic biases and the importance of considering them in research and data-driven decision-making. <span class="res-type">Paper</span></li>
   </ul>
 </div>
 
@@ -321,8 +321,7 @@ This page compiles pre-reading, tools, and further reading for each confirmed se
   <h4>Tools &amp; Platforms</h4>
   <ul>
     <li><a href="https://datadonation.eu/" target="_blank" rel="noopener noreferrer">Data Donation (datadonation.eu)</a> — European research hub for data donation methodology, tools, and projects.</li>
-    <li><a href="https://github.com/eyra/port" target="_blank" rel="noopener noreferrer">Port</a> — Open-source tool for processing and aggregating data download packages locally on a participant's device. <span class="setup-flag">Setup</span></li>
-    <li><a href="https://internetobservatory.org.au/" target="_blank" rel="noopener noreferrer">Australian Internet Observatory (AIO)</a> — Provides Australian-developed data donation infrastructure and tools.</li>
+    <li><a href="https://aio2024.cloud.edu.au/ddrs/" target="_blank" rel="noopener noreferrer">Australian Internet Observatory (AIO) Data Donation System</a> — A demo version of AIO's data donation platform demonstrating current functionality.</li>
   </ul>
 
   <h4>Further reading</h4>
@@ -337,12 +336,12 @@ This page compiles pre-reading, tools, and further reading for each confirmed se
 
   <h4>Pre-reading</h4>
   <ul>
-    <li><a href="https://ardc.edu.au/services/ardc-nectar-research-cloud/" target="_blank" rel="noopener noreferrer">ARDC Nectar Research Cloud — Overview</a> — ARDC. Introduction to Australia's national research cloud, what it offers, and who can use it. <span class="res-type">Guide</span></li>
+    <li><a href="https://ardc.edu.au/services/ardc-nectar-research-cloud/" target="_blank" rel="noopener noreferrer">ARDC Nectar Research Cloud — ARDC Page</a> — ARDC. Introduction to Australia's national research cloud, what it offers, and who can use it. <span class="res-type">Guide</span></li>
   </ul>
 
   <h4>Tools &amp; Platforms</h4>
   <ul>
-    <li><a href="https://dashboard.rc.nectar.org.au" target="_blank" rel="noopener noreferrer">Nectar Research Cloud Dashboard</a> — The main portal for accessing virtual machines and cloud compute. <span class="setup-flag">Setup</span></li>
+    <li><a href="https://dashboard.rc.nectar.org.au" target="_blank" rel="noopener noreferrer">Nectar Research Cloud Dashboard</a> — The main portal for accessing virtual machines and cloud compute.</li>
     <li><a href="https://tutorials.rc.nectar.org.au/" target="_blank" rel="noopener noreferrer">Nectar Cloud Tutorials</a> — Step-by-step guides for getting started with instances, storage, and networking.</li>
   </ul>
 
@@ -369,7 +368,7 @@ This page compiles pre-reading, tools, and further reading for each confirmed se
 
   <h4>Further reading</h4>
   <ul>
-    <li><a href="https://doi.org/10.1017/S0003055421000885" target="_blank" rel="noopener noreferrer">Text as Data: A New Framework for Machine Learning and the Social Sciences</a> — Grimmer, Roberts &amp; Stewart, 2022. An authoritative guide linking computational text methods to social science theory and inference. <span class="res-type">Book</span></li>
+    <li><a href="https://politicalscience.stanford.edu/publications/text-data-new-framework-machine-learning-and-social-sciences" target="_blank" rel="noopener noreferrer">Text as Data: A New Framework for Machine Learning and the Social Sciences</a> — Grimmer, Roberts &amp; Stewart, 2022. An authoritative guide linking computational text methods to social science theory and inference. <span class="res-type">Book</span></li>
   </ul>
 </div>
 
@@ -379,17 +378,12 @@ This page compiles pre-reading, tools, and further reading for each confirmed se
 
   <h4>Pre-reading</h4>
   <ul>
-    <li><a href="https://internetobservatory.org.au/" target="_blank" rel="noopener noreferrer">Australian Internet Observatory — About</a> — Overview of the AIO's mission and the platforms it covers. <span class="res-type">Guide</span></li>
+    <li><a href="https://internetobservatory.org.au/about/" target="_blank" rel="noopener noreferrer">Australian Internet Observatory — About</a> — Overview of the AIO's mission and the platforms it covers. <span class="res-type">Guide</span></li>
   </ul>
 
   <h4>Tools &amp; Platforms</h4>
   <ul>
     <li><a href="https://www.aio.eresearch.unimelb.edu.au/" target="_blank" rel="noopener noreferrer">AIReD — Australian Internet Research Dashboard</a> — Platform with 500M+ social media posts from BlueSky, Mastodon, YouTube, GDELT, and historic X/Twitter data. <span class="setup-flag">Setup</span> (requires AAF institutional login)</li>
-  </ul>
-
-  <h4>Further reading</h4>
-  <ul>
-    <li><a href="https://doi.org/10.25956/twvn-ca19" target="_blank" rel="noopener noreferrer">AIO Infrastructure DOI</a> — Citable reference for the Australian Internet Observatory research infrastructure.</li>
   </ul>
 </div>
 
@@ -404,7 +398,7 @@ This page compiles pre-reading, tools, and further reading for each confirmed se
 
   <h4>Tools &amp; Platforms</h4>
   <ul>
-    <li><a href="https://github.com/eyra/port" target="_blank" rel="noopener noreferrer">Port</a> — Open-source framework for locally processing donated data download packages. <span class="setup-flag">Setup</span></li>
+    <li><a href="https://github.com/eyra/port" target="_blank" rel="noopener noreferrer">Port</a> — Open-source framework for locally processing donated data download packages.</li>
     <li><a href="https://datadonation.eu/" target="_blank" rel="noopener noreferrer">Data Donation (datadonation.eu)</a> — Resources on best practices for requesting and using DDPs from major platforms.</li>
   </ul>
 
@@ -426,9 +420,9 @@ This page compiles pre-reading, tools, and further reading for each confirmed se
 
   <h4>Tools &amp; Platforms</h4>
   <ul>
-    <li><a href="https://cran.r-project.org/web/packages/tidytext/" target="_blank" rel="noopener noreferrer">tidytext (R)</a> — R package for tidy text mining workflows. <span class="setup-flag">Setup</span></li>
-    <li><a href="https://cran.r-project.org/web/packages/quanteda/" target="_blank" rel="noopener noreferrer">quanteda (R)</a> — Comprehensive R package for quantitative text analysis. <span class="setup-flag">Setup</span></li>
-    <li><a href="https://spacy.io/" target="_blank" rel="noopener noreferrer">spaCy (Python)</a> — Industrial-strength NLP library for tokenisation, NER, and text processing. <span class="setup-flag">Setup</span></li>
+    <li><a href="https://cran.r-project.org/web/packages/tidytext/" target="_blank" rel="noopener noreferrer">tidytext (R)</a> — R package for tidy text mining workflows. </li>
+    <li><a href="https://cran.r-project.org/web/packages/quanteda/" target="_blank" rel="noopener noreferrer">quanteda (R)</a> — Comprehensive R package for quantitative text analysis.</li>
+    <li><a href="https://spacy.io/" target="_blank" rel="noopener noreferrer">spaCy (Python)</a> — Industrial-strength NLP library for tokenisation, NER, and text processing.</li>
   </ul>
 
   <h4>Further reading</h4>
@@ -449,12 +443,12 @@ This page compiles pre-reading, tools, and further reading for each confirmed se
 
   <h4>Pre-reading</h4>
   <ul>
-    <li><a href="https://internetobservatory.org.au/explore/" target="_blank" rel="noopener noreferrer">AIO — Tools and Infrastructure</a> — Overview of the Australian Internet Observatory's data collection tools, including Browser Rover and Mobile Rover for screen capture. <span class="res-type">Guide</span></li>
+    <li><a href="https://www.admscentre.org.au/adobservatory/" target="_blank" rel="noopener noreferrer">MOAT</a> — Description of the Australian Internet Observatory's Mobile Ad Observatory Toolkit (MOAT) and relevant work conducted.<span class="res-type">Guide</span></li>
   </ul>
 
   <h4>Tools &amp; Platforms</h4>
   <ul>
-    <li><a href="https://internetobservatory.org.au/participate/" target="_blank" rel="noopener noreferrer">AIO Mobile Screen Capture Tools</a> — Research-grade mobile and browser extension tools for capturing personalised platform content (ads, feeds, recommendations). <span class="setup-flag">Setup</span></li>
+    <li><a href="https://internetobservatory.org.au/screen-capture-explainer/" target="_blank" rel="noopener noreferrer">AIO Mobile Screen Capture Tools</a> — Research-grade mobile and browser extension tools for capturing personalised platform content (ads, feeds, recommendations).</li>
   </ul>
 
   <h4>Further reading</h4>
@@ -476,8 +470,8 @@ This page compiles pre-reading, tools, and further reading for each confirmed se
   <h4>Tools &amp; Platforms</h4>
   <ul>
     <li><a href="https://github.com/quallmer/quallmer" target="_blank" rel="noopener noreferrer">quallmer (GitHub)</a> — R package for structured LLM-assisted coding, validation, and audit trails in text-as-data research. <span class="setup-flag">Setup</span></li>
-    <li><a href="https://github.com/quallmer/quallmer.app" target="_blank" rel="noopener noreferrer">quallmer.app</a> — Interactive Shiny companion app for manual coding, reviewing LLM annotations, and computing agreement metrics. <span class="setup-flag">Setup</span></li>
-    <li><a href="https://cran.r-project.org/package=ellmer" target="_blank" rel="noopener noreferrer">ellmer (R)</a> — Backend package for connecting to multiple LLM providers (OpenAI, Anthropic, Google, Ollama). <span class="setup-flag">Setup</span></li>
+    <li><a href="https://github.com/quallmer/quallmer.app" target="_blank" rel="noopener noreferrer">quallmer.app</a> — Interactive Shiny companion app for manual coding, reviewing LLM annotations, and computing agreement metrics.</li>
+    <li><a href="https://cran.r-project.org/package=ellmer" target="_blank" rel="noopener noreferrer">ellmer (R)</a> — Backend package for connecting to multiple LLM providers (OpenAI, Anthropic, Google, Ollama).</li>
   </ul>
 
   <h4>Further reading</h4>
@@ -498,7 +492,7 @@ This page compiles pre-reading, tools, and further reading for each confirmed se
   <h4>Tools &amp; Platforms</h4>
   <ul>
     <li><a href="https://docs.langchain.com/oss/python/langchain/overview" target="_blank" rel="noopener noreferrer">LangChain</a> — Popular Python framework for building RAG pipelines, with pre-built modules for document loading, embedding, and retrieval. <span class="setup-flag">Setup</span></li>
-    <li><a href="https://docs.llamaindex.ai/" target="_blank" rel="noopener noreferrer">LlamaIndex</a> — Framework for connecting LLMs to external data sources, purpose-built for RAG applications. <span class="setup-flag">Setup</span></li>
+    <li><a href="https://docs.llamaindex.ai/" target="_blank" rel="noopener noreferrer">LlamaIndex</a> — Framework for connecting LLMs to external data sources, purpose-built for RAG applications.</li>
   </ul>
 
   <h4>Further reading</h4>
@@ -518,8 +512,8 @@ This page compiles pre-reading, tools, and further reading for each confirmed se
 
   <h4>Tools &amp; Platforms</h4>
   <ul>
-    <li><a href="https://research.qut.edu.au/dmrc/" target="_blank" rel="noopener noreferrer">Image Machine (QUT DMRC)</a> — Open-source tool for clustering visually similar images using machine vision embeddings and identifying visual patterns in large datasets.</li>
-    <li><a href="https://umap-learn.readthedocs.io/" target="_blank" rel="noopener noreferrer">UMAP</a> — Uniform Manifold Approximation and Projection for dimensionality reduction, used for 2D visualisation of image similarity. <span class="setup-flag">Setup</span></li>
+    <li><a href="https://espace.library.uq.edu.au/view/UQ:3d79106" target="_blank" rel="noopener noreferrer">Image Machine</a> — Open-source tool for clustering visually similar images using machine vision embeddings and identifying visual patterns in large datasets.</li>
+    <li><a href="https://umap-learn.readthedocs.io/" target="_blank" rel="noopener noreferrer">UMAP</a> — Uniform Manifold Approximation and Projection for dimensionality reduction, used for 2D visualisation of image similarity.</li>
   </ul>
 
   <h4>Further reading</h4>
@@ -564,7 +558,7 @@ This page compiles pre-reading, tools, and further reading for each confirmed se
 
   <h4>Tools &amp; Platforms</h4>
   <ul>
-    <li><a href="https://cran.r-project.org/package=irr" target="_blank" rel="noopener noreferrer">irr (R)</a> — R package for computing inter-rater reliability statistics including Cohen's kappa and Krippendorff's alpha. <span class="setup-flag">Setup</span></li>
+    <li><a href="https://cran.r-project.org/package=irr" target="_blank" rel="noopener noreferrer">irr (R)</a> — R package for computing inter-rater reliability statistics including Cohen's kappa and Krippendorff's alpha.</li>
   </ul>
 
   <h4>Further reading</h4>
@@ -580,7 +574,7 @@ This page compiles pre-reading, tools, and further reading for each confirmed se
 
 <div class="theme-section">
   <h3>Foundations &amp; Theory</h3>
-  <p>This theme covers the intellectual history, definitions, and core theoretical debates in computational social science. Students will explore the origins of CSS, discuss the relationship between prediction and explanation, and examine critiques regarding whether CSS lacks theory. Additionally, resources under this theme address key issues of validation and research reproducibility in computational studies.</p>
+  <p>This theme covers the intellectual history, definitions, and core theoretical debates in computational social science. Participants will explore the origins of CSS, discuss the relationship between prediction and explanation, and examine critiques regarding whether CSS lacks theory. Additionally, resources under this theme address key issues of validation and research reproducibility in computational studies.</p>
   <ul>
     <li><strong>What is CSS and Why It Matters in Australia</strong> — Day 1</li>
     <li><strong>Does CSS Lack Theory?</strong> — Day 3</li>
