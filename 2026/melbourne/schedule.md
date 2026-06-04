@@ -445,16 +445,18 @@ The program outlined below is not final, and while many speakers have confirmed 
 <div class="break-block"><strong>10:30–11:00</strong> &nbsp; Morning Tea</div>
 
 <div class="session-block">
-  <p class="session-meta">11:00–12:30 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
-  <p class="session-title">APIs and Web Scraping: When They Work and When They Don't</p>
-  <p class="session-speakers"><strong>Speakers:</strong>TBD</p>
-  <p class="session-desc">We will discuss the current state of data collection using APIs and web scraping, as well as possible use cases and what considerations should be taken before choosing either method.</p>
+  <p class="session-meta">11:00–12:30 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Talk</p>
+  <p class="session-title">The AIReD platform for Australia-wide Social Media Discovery and Usage</p>
+  <p class="session-speakers"><strong>Speakers:</strong>
+    <a href="https://findanexpert.unimelb.edu.au/profile/342078-richard-sinnott" target="_blank" rel="noopener noreferrer">Richard Sinnott</a>
+  </p>
+  <p class="session-desc">This talk focuses on the <a href="https://www.aio.eresearch.unimelb.edu.au/" target="_blank" rel="noopener noreferrer">Australian Internet Research Dashboard (AIReD)</a>, a platform comprising extensive data resources (over 500 million posts) from many social platforms offering an API, including BlueSky, FlickR, GDELT, Mastodon, YouTube, as well as historic data from X/Twitter. The talk covers how the platform came into being, demonstrates its core capabilities, and describes how researchers can access and use the platform for their own social media research needs.</p>
   <div class="outcomes-box">
     <p>Learning Outcomes</p>
     <ul>
-      <li>Choose a data collection method based on the research design.</li>
-      <li>Plan a data collection strategy.</li>
-      <li>Assess methodological limitations of APIs and web scraping.</li>
+      <li>Describe the scope and capabilities of API-based platforms using AIReD as an example.</li>
+      <li>Discover datasets relevant to specific social media research questions.</li>
+      <li>Identify appropriate use cases and considerations for using AIReD data in social science research.</li>
     </ul>
   </div>
 </div>
@@ -643,17 +645,9 @@ The program outlined below is not final, and while many speakers have confirmed 
   <p class="session-speakers"><strong>Speakers:</strong>
     <a href="https://www.abc.net.au/news/laura-gartry/5595204" target="_blank" rel="noopener noreferrer">Laura Gartry</a>,
     <a href="https://www.linkedin.com/in/arielkuperman/" target="_blank" rel="noopener noreferrer">Ariel Kuperman</a>,
-    <a href="https://www.linkedin.com/in/andrew-mcmahon-95461742/" target="_blank" rel="noopener noreferrer">Andrew McMahon</a>
+    <!-- <a href="https://www.linkedin.com/in/andrew-mcmahon-95461742/" target="_blank" rel="noopener noreferrer">Andrew McMahon</a> -->
   </p>
-  <p class="session-desc">The panel brings together computational social scientists working in or closely with industry and government organisations. Panellists will share insights on career transitions, the skills most valued by employers, real-world applications of CSS beyond academia, and strategies for building successful collaborations between researchers and industry partners.</p>
-  <div class="outcomes-box">
-    <p>Learning Outcomes</p>
-    <ul>
-      <li>Understand career pathways available to CSS scientists outside of academia.</li>
-      <li>Identify the key CSS skills and competencies most sought after by employers.</li>
-      <li>Learn practical strategies for translating academic research into industry-relevant impact.</li>
-    </ul>
-  </div>
+  <p class="session-desc">Laura Gartry and Ariel Kuperman discuss how newsrooms can collaborate with data scientists and AI specialists to develop responsible, editorially grounded uses of AI. Drawing on applied experience, the session explores practical collaboration models that align technical capability with journalistic goals, and the challenge for public-service media of balancing (mis)trust in AI with the principles of trust and accuracy that are fundamental to good journalism, using localised news as an illustrative context.</p>
 </div>
 
 <div class="break-block"><strong>12:30–13:30</strong> &nbsp; Lunch</div>
