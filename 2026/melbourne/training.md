@@ -196,7 +196,7 @@ partner_site: melbourne
 This page compiles pre-reading, tools, and further reading for each confirmed session in the SICSS-Melbourne 2026 program. Use it to prepare before each day and to explore topics that interest you after the institute.
 </div>
 
-<nav class="toc-nav">
+<!-- <nav class="toc-nav">
   <a href="#start-here">Foundations</a>
   <a href="#day1">Day 1 · CSS Intro</a>
   <a href="#day2">Day 2 · Ethics</a>
@@ -205,7 +205,7 @@ This page compiles pre-reading, tools, and further reading for each confirmed se
   <a href="#day5">Day 5 · Careers</a>
   <a href="#week2">Week 2</a>
   <a href="#thematic">Thematic Index</a>
-</nav>
+</nav> -->
 
 <!-- ════════════════════════════════════════════════ -->
 <div class="training-section" id="start-here">
