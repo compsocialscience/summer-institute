@@ -624,7 +624,8 @@ The program outlined below is not final, and while many speakers have confirmed 
   <p class="session-title">Cross-Disciplinary Collaboration: Bringing Social Science and Computational Analysis Together</p>
   <p class="session-speakers"><strong>Speakers:</strong>
     <a href="https://www.rmit.edu.au/profiles/z/oleg-zendel" target="_blank" rel="noopener noreferrer">Oleg Zendel</a>,
-    <a href="https://www.rmit.edu.au/profiles/t/j-trippas" target="_blank" rel="noopener noreferrer">Johanne Trippas</a>
+    <a href="https://www.rmit.edu.au/profiles/t/j-trippas" target="_blank" rel="noopener noreferrer">Johanne Trippas</a>,
+    <a href="https://findanexpert.unimelb.edu.au/profile/1070371-hiruni-kegalle" target="_blank" rel="noopener noreferrer">Hiruni Kegalle</a>
   </p>
   <p class="session-desc">We will talk about what it means to be part of an interdisciplinary team and how to make sure that such collaboration works well. Drawing from individual experiences, the panel members will discuss how hard or easy it can be for researchers from different backgrounds to collaborate with each other and what considerations should be taken when working on a big project.</p>
   <div class="outcomes-box">
@@ -645,6 +646,7 @@ The program outlined below is not final, and while many speakers have confirmed 
   <p class="session-speakers"><strong>Speakers:</strong>
     <a href="https://www.abc.net.au/news/laura-gartry/5595204" target="_blank" rel="noopener noreferrer">Laura Gartry</a>,
     <a href="https://www.linkedin.com/in/arielkuperman/" target="_blank" rel="noopener noreferrer">Ariel Kuperman</a>,
+    <a href="https://www.admscentre.org.au/indigo-holcombe-james/" target="_blank" rel="noopener noreferrer">Indigo Holcombe-James</a>
     <!-- <a href="https://www.linkedin.com/in/andrew-mcmahon-95461742/" target="_blank" rel="noopener noreferrer">Andrew McMahon</a> -->
   </p>
   <p class="session-desc">Laura Gartry and Ariel Kuperman discuss how newsrooms can collaborate with data scientists and AI specialists to develop responsible, editorially grounded uses of AI. Drawing on applied experience, the session explores practical collaboration models that align technical capability with journalistic goals, and the challenge for public-service media of balancing (mis)trust in AI with the principles of trust and accuracy that are fundamental to good journalism, using localised news as an illustrative context.</p>
@@ -710,11 +712,24 @@ The program outlined below is not final, and while many speakers have confirmed 
 </div>
 
 <div class="session-block">
-  <p class="session-meta">Tue 30 Jun &nbsp;·&nbsp; 10:00 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
-  <p class="session-title"><span class="speaker-tbd">TBD</span></p>
-  <p class="session-speakers"><strong>Speakers:</strong>
-    <a href="#" target="_blank" rel="noopener noreferrer">Dan Binns</a>
+  <p class="session-meta">In-person &nbsp;|&nbsp; Talk</p>
+  <p class="session-title">Music Score Analysis through Natural Language Interfaces</p>
+  <p class="session-speakers"><strong>Speaker:</strong>
+    <a href="https://www.unimelb.edu.au/" target="_blank" rel="noopener noreferrer">Anqi Liao</a>
+    &nbsp;(Master of Data Science, University of Melbourne; Intern, MDAP) —
+    supervised by <a href="https://mdap.unimelb.edu.au/" target="_blank" rel="noopener noreferrer">Dr. Daniel Russo-Batterham</a>
+    (Senior Research Data Specialist, MDAP)
   </p>
+  <p class="session-desc">This session presents a natural language interface for analysing music scores encoded in the MEI (Music Encoding Initiative) format. Using a Model Context Protocol (MCP) architecture, the system allows users to query encoded music collections through plain-language questions, which are automatically translated into tool calls that retrieve and visualise analytical results. The talk demonstrates a suite of tools covering melodic n-gram heatmaps, pitch range analysis, weighted note distribution, sonority progression, and interactive score notation with highlighting and playback — making computational musicology accessible to researchers without programming expertise.</p>
+  <div class="outcomes-box">
+    <p>Learning Outcomes</p>
+    <ul>
+      <li>Understand how MEI encodes the physical and intellectual properties of music notation as structured XML data.</li>
+      <li>Explain how MCP-based architectures connect natural language queries to specialised analytical tools.</li>
+      <li>Identify appropriate visualisation and notation tools for exploring patterns in encoded music collections.</li>
+      <li>Reflect on the design considerations involved in building computational tools for non-technical domain researchers.</li>
+    </ul>
+  </div>
 </div> -->
 
 <div class="session-block">
@@ -732,6 +747,8 @@ The program outlined below is not final, and while many speakers have confirmed 
       <li>Produce transparent, reproducible research.</li>
     </ul>
   </div>
+
+  
 </div>
 
 <!-- <div class="session-block">
