@@ -1,79 +1,96 @@
 - date: June 8
   name: "Introduction to CSS and Surveys and Ethics"
   events:
-    - name: "09:00 am - 10:00 am Registrations"
-    - name: "10:00 am - 11:00 am Welcome and Networking"
+    - name: "09:00 am - 10:00 am Registrations and Refreshments"
+    - name: "10:00 am - 11:00 am Welcome Note, Networking"
     - name: "11:00 am - 01:00 pm Introduction and Keynote by Dr. Umberto Mignozzetti - Why Computational Social Science"
     - name: "01:00 pm - 02:00 pm Lunch"
-    - name: "02:00 pm - 03:00 pm Seminar on Ethics: Principles-based Approach"
-    - name: "03:00 pm - 05:00 pm Group Exercise"
+    - name: "02:00 pm - 03:00 pm Guest Talk"
+    - name: "03:00 pm - 04:30 pm Seminar on Ethics: Principles-based Approach and Group Exercise"
+    - name: "04:30 pm - 05:00 pm Refreshments"
 
 - date: June 9
   name: "Text as Data"
   events:
-    - name: "09:00 am - 10:00 am Tutorial - Quantitative Text Analysis"
-    - name: "11:00 am - 01:00 pm Talk by Dr. Muhammad Bilal - Role of Social Media Data and Computational Social Science for Society 5.0"
+    - name: "09:30 am - 10:00 am Refreshments"
+    - name: "10.00 am - 11.30 am Workshop by Dr. Muhammad Yaseen Khan - Quantitative Text Analysis"
+    - name: "11:30 am - 01:00 pm Guest Talk by Dr. Muhammad Bilal - Role of Social Media Data and Computational Social Science for Society 5.0"
     - name: "01:00 am - 02:00 pm Lunch"
-    - name: "02:00 pm - 03:00 pm Building apps for Social Science research"
-    - name: "03:00 pm - 05:00 pm Group Exercise"
+    - name: "02:00 pm - 04:30 pm Group Exercise"
+    - name: "04:30 pm - 05:00 pm Refreshments"
 
 - date: June 10
   name: "Agent Based Modeling"
   events:
-    - name: "09:00 am - 11:00 am Workshop - An Introduction to Agent-Based Modeling in Python Using Mesa, Zain Ahmed Usmani"
-    - name: "11:00 am - 01:00 pm Talk by Dr. Shah Jamal Alam - Simulating the Social: Agent-Based Modeling and Network Analysis for Complex Systems"
+    - name: "09:30 am - 10:00 am Refreshments"
+    - name: "10:00 am - 11:30 am Workshop by Zain Ahmed Usmani - An Introduction to Agent-Based Modeling"
+    - name: "11:30 am - 01:00 pm Guest Talk by Dr. Shah Jamal Alam - Simulating the Social: Agent-Based Modeling and Network Analysis for Complex Systems"
     - name: "01:00 pm - 02:00 pm Lunch"
-    - name: "02:00 pm - 05:00 pm Group Exercise"
+    - name: "02:00 pm - 04:30 pm Group Exercise"
+    - name: "04:30 pm - 05:00 pm Refreshments"
 
 - date: June 11
   name: "Social Network Analysis and Digital Trace Data"
   events:
-    - name: "09:00 am - 11:00 am Tutorial: Network Analysis"
-    - name: "11:00 am - 01:00 pm Guest Lecture"
+    - name: "09:30 am - 10:00 am Refreshments"
+    - name: "10:00 am - 11:30 am Workshop by Dr. Qasim Pasta - Network Analysis"
+    - name: "11:30 am - 01:00 pm Guest Talk by Dr. Ihsan Ayyub Qazi - "
     - name: "01:00 pm - 02:00 pm Lunch"
-    - name: "02:00 pm - 05:00 pm Group Exercise"
+    - name: "02:00 pm - 04:30 pm Group Exercise"
+    - name: "04:30 pm - 05:00 pm Refreshments"
 
 - date: June 12
   name: "AI and LLMS for Social Sciences"
   events:
-    - name: "09:00 am - 11:00 am Workshop - Using LLMs for Social Science Research"
-    - name: "11:00 am - 01:00 pm Talk by Dr. Abdul Samad - AI and LLMs for Social Science"
-    - name: "01:00 pm - 02:00 pm Lunch"
-    - name: "02:00 pm - 05:00 pm Group Exercise"
+    - name: "09:30 am - 10:00 am Refreshments"
+    - name: "10:00 am - 11:30 am Workshop by Dr. Tafseer Ahmed Khan - Using LLMs for Social Science Research"
+    - name: "11:00 am - 01:00 pm Guest Talk by Dr. Abdul Samad - AI and LLMs for Social Science"
+    - name: "01:00 pm - 03:00 pm Lunch Break"
+    - name: "03:00 pm - 04:30 pm Bouncing Ideas"
+    - name: "04:30 pm - 05:00 pm Refreshments"
 
 - date: June 15
   name: "Group Work"
   events:
-    - name: "09:00 am - 11:00 am Speed-dating and Group Formation"
-    - name: "11:00 am - 01:00 pm Guest Lecture"
+    - name: "09:30 am - 10:00 am Refreshments"
+    - name: "10:00 am - 11:00 am Guest Lecture"
+    - name: "11:00 am - 01:00 pm Speed-dating and Group Formation"
     - name: "01:00 pm - 02:00 pm Lunch"
-    - name: "02:00 pm - 05:00 pm Project Work"
+    - name: "02:00 pm - 04:30 pm Project Work"
+    - name: "04:30 pm - 05:00 pm Refreshments"
 
 - date: June 16
   name: "Group Work"
   events:
-    - name: "09:00 am - 01:00 pm Project Work"
+    - name: "09:30 am - 10:00 am Refreshments"
+    - name: "10:00 am - 01:00 pm Project Work"
     - name: "01:00 pm - 02:00 pm Lunch"
-    - name: "02:00 pm - 05:00 pm Project Work"
+    - name: "02:00 pm - 04:30 pm Project Work"
+    - name: "04:30 pm - 05:00 pm Refreshments"
 
 - date: June 17
   name: "Group Work"
   events:
-    - name: "09:00 am - 01:00 pm Project Work"
+    - name: "09:30 am - 10:00 am Refreshments"
+    - name: "10:00 am - 01:00 pm Project Work"
     - name: "01:00 pm - 02:00 pm Lunch"
-    - name: "02:00 pm - 05:00 pm Project Work"
+    - name: "02:00 pm - 04:30 pm Project Work"
+    - name: "04:30 pm - 05:00 pm Refreshments"
 
 - date: June 18
   name: "Group Work"
   events:
-    - name: "09:00 am - 01:00 pm Project Work"
+    - name: "09:30 am - 10:00 am Refreshments"
+    - name: "10:00 am - 01:00 pm Project Work"
     - name: "01:00 pm - 02:00 pm Lunch"
-    - name: "02:00 pm - 05:00 pm Project Work"
+    - name: "02:00 pm - 04:30 pm Project Work"
+    - name: "04:30 pm - 05:00 pm Refreshments"
 
 - date: June 19
   name: "Group Work"
   events:
-    - name: "09:00 am - 01:00 pm Team Presentations"
-    - name: "01:00 pm - 02:00 pm Lunch"
-    - name: "02:00 pm - 03:00 pm Feedback"
-    - name: "03:00 pm - 05:00 pm Closing Remarks"
+    - name: "09:30 am - 10:00 am Refreshments"
+    - name: "10:00 am - 01:00 pm Team Presentations"
+    - name: "01:00 pm - 03:00 pm Lunch Break"
+    - name: "03:00 pm - 04:00 pm Feedback"
+    - name: "04:00 pm - 05:00 pm Closing Remarks"
