@@ -6,6 +6,8 @@
   url: "organisers"
 - name: Program
   url: "schedule"
+- name: "Training Materials"
+  url: "training"
 - name: News
   url: "news"
 
