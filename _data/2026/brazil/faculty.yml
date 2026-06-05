@@ -1,6 +1,16 @@
-- name: "Faculty info coming soon." # Add faculty name here.
-  image: /assets/images/placeholderPic.png  # Add faculty image to assets/images/ and update here.
-  bio: "Check back soon for updates." # Add faculty bio here.
-  website: https://www.google.com  # Link faculty website here.
+- name: Danielle Sanches
+  image: /assets/images/danielle_sanches.png
+  bio: "Danielle Sanches is a professor at FGV ECMI and a PhD in History of Science at the École des Hautes Études en Sciences Sociales in cooperation with the Casa de Oswaldo Cruz/FioCruz. She currently works on Digital Methods, focusing on the influence of the algorithm culture on social practices."
+  
+- name: Denisson Silva
+  image: /assets/images/denisson_silva.jpg
+  bio: "Denisson holds a PhD in Political Science (UFMG), a Master's degree in Sociology and is a Social Scientist (UFAL). He is a professor at FGV Comunicação. He has experience in Political Science, working mainly on the following themes: political parties, party migration, electoral results, and campaign financing. Researcher at the Center for Legislative Studies (CEL/UFMG), the Citizenship and Public Policy Group (UFAL)."
+  website: https://denissonsilva.com
 
-# Add more faculty with the same format as above...
+- name: Polyana Barbosa
+  image: /assets/images/poly.png
+  bio: "Polyana Barboza is a professor working with data extraction and analysis on social networks at FGV ECMI. She has a major in Applied Mathematics at the School of Applied Mathematics of Fundação Getulio Vargas (FGV EMAp) and is a Master in Computer Science at the Pontifical Catholic University of Rio de Janeiro (PUC-Rio). Her main lines of research are Social Network Analysis in Digital Media and Multi-agent Systems in Software Engineering."
+
+- name: Victor Piaia
+  image: /assets/images/Victor_sicss_ecmi.png
+  bio: "Victor Piaia holds a PhD in Sociology at the Institute of Social and Political Studies (IESP-UERJ). He is a professor at FGV Comunicação and a leader of the Study Group in Political Sociology and Digital Transformations. He studies the political effects of transformation in daily communication, focusing on social media platforms and messaging apps."
