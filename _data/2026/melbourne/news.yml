@@ -1,11 +1,12 @@
-# News and updates for SICSS-Melbourne 2026 participants.
-# Add new entries at the TOP of this list (newest first).
-# Each entry has: date, title, body (supports basic HTML).
-#
 # Example entry:
 # - date: "27 May 2026"
 #   title: "Example update"
 #   body: "This is the body text of the update."
+
+- date: "05 June 2026"
+  title: "Training Materials Available!"
+  body: 'We have made a list of relevant readings and websites that will help you prepare for our program this year - check it out in the Training Materials section. If you have suggestions or further contributions, feel free to send them.<br>We have slightly restructured our program, so make sure to have a look at the schedule to see the latest updates. The schedule is pretty much finalised; however, we may add a few other sessions and more detailed descriptions to the existing ones.<br>Also, please fill out the following form when you have time:<br><a href="https://forms.gle/GyssxzUh4iT4dCsw7" target="_blank"><b>https://forms.gle/GyssxzUh4iT4dCsw7</b></a><br>This form is useful for SICSS organisers to keep everyone involved and make sure to include everyone in our international community.<br>Look forward to seeing you all soon in just a couple of weeks!'
+
 
 - date: "27 May 2026"
   title: "Welcome to SICSS-Melbourne 2026!"
