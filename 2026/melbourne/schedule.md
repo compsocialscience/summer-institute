@@ -671,7 +671,7 @@ The program outlined below is not final, and while many speakers have confirmed 
   <p class="session-speakers"><strong>Speakers:</strong>
     <a href="https://www.qut.edu.au/about/our-people/academic-profiles/daniel.angus" target="_blank" rel="noopener noreferrer">Daniel Angus</a>
   </p>
-  <p class="session-desc"><em>TBD</em></p>
+  <p class="session-desc"><em>Securing research funding is an essential skill for any academic career, but computational social science researchers face particular challenges when navigating funding schemes. This session will explore practical strategies for positioning interdisciplinary work so it resonates with reviewers, avoids falling between disciplinary boundaries, and builds a coherent funding trajectory over time.</em></p>
 </div>
 
   </div>
@@ -703,8 +703,8 @@ The program outlined below is not final, and while many speakers have confirmed 
 
 <p><strong>Morning Sessions (90 min) — Advanced Workshops</strong></p>
 
-<!-- <div class="session-block">
-  <p class="session-meta">Mon 29 Jun &nbsp;·&nbsp; 10:00 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
+<div class="session-block">
+  <p class="session-meta">Mon 30 Jun &nbsp;·&nbsp; 10:00 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
   <p class="session-title"><span class="speaker-tbd">TBD</span></p>
   <p class="session-speakers"><strong>Speakers:</strong>
     <a href="#" target="_blank" rel="noopener noreferrer">Dan Binns</a>
@@ -715,10 +715,7 @@ The program outlined below is not final, and while many speakers have confirmed 
   <p class="session-meta">In-person &nbsp;|&nbsp; Talk</p>
   <p class="session-title">Music Score Analysis through Natural Language Interfaces</p>
   <p class="session-speakers"><strong>Speaker:</strong>
-    <a href="https://www.unimelb.edu.au/" target="_blank" rel="noopener noreferrer">Anqi Liao</a>
-    &nbsp;(Master of Data Science, University of Melbourne; Intern, MDAP) —
-    supervised by <a href="https://mdap.unimelb.edu.au/" target="_blank" rel="noopener noreferrer">Dr. Daniel Russo-Batterham</a>
-    (Senior Research Data Specialist, MDAP)
+   <a href="https://mdap.unimelb.edu.au/" target="_blank" rel="noopener noreferrer">Dr. Daniel Russo-Batterham</a>
   </p>
   <p class="session-desc">This session presents a natural language interface for analysing music scores encoded in the MEI (Music Encoding Initiative) format. Using a Model Context Protocol (MCP) architecture, the system allows users to query encoded music collections through plain-language questions, which are automatically translated into tool calls that retrieve and visualise analytical results. The talk demonstrates a suite of tools covering melodic n-gram heatmaps, pitch range analysis, weighted note distribution, sonority progression, and interactive score notation with highlighting and playback — making computational musicology accessible to researchers without programming expertise.</p>
   <div class="outcomes-box">
@@ -730,7 +727,7 @@ The program outlined below is not final, and while many speakers have confirmed 
       <li>Reflect on the design considerations involved in building computational tools for non-technical domain researchers.</li>
     </ul>
   </div>
-</div> -->
+</div>
 
 <div class="session-block">
   <p class="session-meta">Wed 1 Jul &nbsp;·&nbsp; 09:00 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
@@ -748,7 +745,7 @@ The program outlined below is not final, and while many speakers have confirmed 
     </ul>
   </div>
 
-  
+
 </div>
 
 <!-- <div class="session-block">
@@ -800,7 +797,7 @@ The program outlined below is not final, and while many speakers have confirmed 
 
 <!-- ═══════════════════ DAY 10 ═══════════════════ -->
 <details class="day-acc">
-<summary>
+<summary>a
   <div class="day-badge-row">
     <span class="day-num-pill">Day 10</span>
     <span class="day-date-pill">Friday, 3 July 2026</span>
