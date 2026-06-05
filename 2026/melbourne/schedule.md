@@ -789,7 +789,7 @@ The program outlined below is not final, and while many speakers have confirmed 
 
 <!-- ═══════════════════ DAY 10 ═══════════════════ -->
 <details class="day-acc">
-<summary>a
+<summary>
   <div class="day-badge-row">
     <span class="day-num-pill">Day 10</span>
     <span class="day-date-pill">Friday, 3 July 2026</span>
