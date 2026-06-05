@@ -18,7 +18,7 @@ Applicants must submit the following documents:
 
 **The materials can be submitted in English or Portuguese**. Co-authored work is acceptable for the writing sample (3), but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. 
 
-**In order to be guaranteed full consideration, all application materials must be submitted by June 30.** All application materials must be submitted through this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSef7cssqVqX5xAp7vkuuQIu0Lc5L5_XSFrvz3M2Q2ccYndj2w/viewform) (form for this site not yet created). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by June, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by June 30.** All application materials must be submitted through this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSef7cssqVqX5xAp7vkuuQIu0Lc5L5_XSFrvz3M2Q2ccYndj2w/viewform) (form for this site not yet created). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by July, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to: sicss2021.dappbrasil@gmail.com.
 
@@ -26,9 +26,9 @@ Inquiries can be sent to: sicss2021.dappbrasil@gmail.com.
 
 #### Can I apply to more than one Summer Institute location?
 
-Yes, but not at the same time. For example, you can apply to SICSS-FGV/ECMI Brazil, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.
+Yes, but not at the same time. For example, you can apply to SICSS Brazil, and then if you are not accepted you can apply to one of the other locations if it has a later deadline. However, you cannot have an applications under review at two locations simultaneously.
 
-#### Can I participate in SICSS-FGV/Comunicação Brazil if I have already participated in SICSS at another location?
+#### Can I participate in SICSS Brazil if I have already participated in SICSS at another location?
 
 Unfortunately, no. Every year we have more applicants than we can accept, and we would like everyone to have a chance to participate in SICSS once before we allow folks to participate twice.
 
