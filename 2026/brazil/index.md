@@ -2,17 +2,17 @@
 layout: location_detail
 partner_site: brazil
 main: true
-image: /assets/images/tbd.jpg
+image: /assets/images/rio.jpg
 ---
 
 [//]: # (ORGANIZERS: Update the info to match your location. Add a site image to /assets/images/ and update the placeholder URL above to match it. See _data/2026/Brazil for yml files that control the header content, location info on general sites page, people lists, and sidebar.)
 
-From TBD to TBD in July, 2026 [[HOST]] will host the Summer Institute in Computational Social Science, to be held in FGV ECMI, Brazil. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
+From July 30 to August 06, 2026, the SICSS core sponsors and School of Communication Media and Information of Getulio Vargas Foundation (FGV-Comunicação) will sponsor the Summer Institute in Computational Social Science, to be held at Fundação Getulio Vargas. The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science. The Summer Institute is for both social scientists (broadly conceived) and data scientists (broadly conceived).
 
-The instructional program will involve lectures, group problem sets, and participant-led research projects, with a special emphasis on causal inference. There will also be outside speakers who conduct computational social science research in a variety of settings, such as academia, industry, and government. Topics covered include causal inference with observational data, text analysis, network analysis, survey experiments, and machine learning. There will be ample opportunities for students to discuss their ideas and research with the organizers, other participants, and visiting speakers. Because we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute will be released open source.
+The instructional program will involve lectures, group problem sets, and participant-led research projects. There will also be outside speakers who conduct computational social science research in a variety of settings, such as academia, industry, and government. Topics covered include text as data, website scraping, digital field experiments, machine learning, and ethics. There will be ample opportunities for students to discuss their ideas and research with the organizers, other participants, and visiting speakers. Because we are committed to open and reproducible research, all materials created by faculty and students for the Summer Institute will be released open source.
 
-Participation is restricted to advanced Ph.D. students, postdoctoral researchers, and junior faculty (within 7 years of their Ph.D). We welcome applicants from all backgrounds and fields of study, especially junior faculty from neighboring institutions near FGV ECMI, Brazil. About 25-30 participants will be invited. Most participants are expected to fully attend and participate in the entire 8-day program, but we are open to alternative arrangements for faculty members. 
+Participation is restricted to graduate students (master and doctoral programs), postdoctoral researchers, and untenured faculty within 7 years of their Ph.D. master students, and computational social scientists working on NGOs and industry. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently under-represented in computational social science. About 20-30 participants will be invited, and participants are expected to fully attend and participate in the entire two-week program.
 
-Application materials are due on {date not yet determined}.
+Application materials are due 30, June, 2025.
 
 [//]: # (ORGANIZERS: feel free to add a link to your application materials or your SICSS apply page above.)
