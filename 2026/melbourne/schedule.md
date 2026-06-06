@@ -671,7 +671,7 @@ The program outlined below is not final, and while many speakers have confirmed 
   <p class="session-speakers"><strong>Speakers:</strong>
     <a href="https://www.qut.edu.au/about/our-people/academic-profiles/daniel.angus" target="_blank" rel="noopener noreferrer">Daniel Angus</a>
   </p>
-  <p class="session-desc"><em>TBD</em></p>
+  <p class="session-desc">Securing research funding is an essential skill for any academic career, but computational social science researchers face particular challenges when navigating funding schemes. This session will explore practical strategies for positioning interdisciplinary work so it resonates with reviewers, avoids falling between disciplinary boundaries, and builds a coherent funding trajectory over time.</p>
 </div>
 
   </div>
@@ -703,34 +703,23 @@ The program outlined below is not final, and while many speakers have confirmed 
 
 <p><strong>Morning Sessions (90 min) — Advanced Workshops</strong></p>
 
-<!-- <div class="session-block">
-  <p class="session-meta">Mon 29 Jun &nbsp;·&nbsp; 10:00 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
-  <p class="session-title"><span class="speaker-tbd">TBD</span></p>
-  <p class="session-speakers"><strong>Speakers:</strong>
-    <a href="#" target="_blank" rel="noopener noreferrer">Dan Binns</a>
-  </p>
-</div>
-
 <div class="session-block">
-  <p class="session-meta">In-person &nbsp;|&nbsp; Talk</p>
+  <p class="session-meta">Tue 30 Jun &nbsp;·&nbsp; 10:00 &nbsp;|&nbsp;In-person &nbsp;|&nbsp; Talk</p>
   <p class="session-title">Music Score Analysis through Natural Language Interfaces</p>
   <p class="session-speakers"><strong>Speaker:</strong>
-    <a href="https://www.unimelb.edu.au/" target="_blank" rel="noopener noreferrer">Anqi Liao</a>
-    &nbsp;(Master of Data Science, University of Melbourne; Intern, MDAP) —
-    supervised by <a href="https://mdap.unimelb.edu.au/" target="_blank" rel="noopener noreferrer">Dr. Daniel Russo-Batterham</a>
-    (Senior Research Data Specialist, MDAP)
+   <a href="https://findanexpert.unimelb.edu.au/profile/551741-daniel-russo-batterham" target="_blank" rel="noopener noreferrer">Daniel Russo-Batterham</a>
   </p>
-  <p class="session-desc">This session presents a natural language interface for analysing music scores encoded in the MEI (Music Encoding Initiative) format. Using a Model Context Protocol (MCP) architecture, the system allows users to query encoded music collections through plain-language questions, which are automatically translated into tool calls that retrieve and visualise analytical results. The talk demonstrates a suite of tools covering melodic n-gram heatmaps, pitch range analysis, weighted note distribution, sonority progression, and interactive score notation with highlighting and playback — making computational musicology accessible to researchers without programming expertise.</p>
+  <p class="session-desc">This session presents a natural language interface for analysing music scores encoded in the MEI (Music Encoding Initiative) format. The system allows users to query encoded music collections through plain-language questions, which are automatically translated into tool calls that retrieve and visualise results. This tool is an example that makes computational analysis accessible to researchers without programming expertise.</p>
   <div class="outcomes-box">
     <p>Learning Outcomes</p>
     <ul>
-      <li>Understand how MEI encodes the physical and intellectual properties of music notation as structured XML data.</li>
-      <li>Explain how MCP-based architectures connect natural language queries to specialised analytical tools.</li>
+      <li>Understand how MEI encodes the physical properties of structured XML data.</li>
+      <li>Explain how MCP-based architectures connect natural language queries to analytical tools.</li>
       <li>Identify appropriate visualisation and notation tools for exploring patterns in encoded music collections.</li>
       <li>Reflect on the design considerations involved in building computational tools for non-technical domain researchers.</li>
     </ul>
   </div>
-</div> -->
+</div>
 
 <div class="session-block">
   <p class="session-meta">Wed 1 Jul &nbsp;·&nbsp; 09:00 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
@@ -748,7 +737,7 @@ The program outlined below is not final, and while many speakers have confirmed 
     </ul>
   </div>
 
-  
+
 </div>
 
 <!-- <div class="session-block">
