@@ -3,7 +3,7 @@
   events:
     - name: "09:00 am - 10:00 am Registrations and Refreshments"
     - name: "10:00 am - 11:00 am Welcome Note, Networking"
-    - name: "11:00 am - 01:00 pm Introduction and Keynote by Dr. Umberto Mignozzetti - Why Computational Social Science"
+    - name: "11:00 am - 01:00 pm Introduction and Keynote by Dr. Umberto Mignozzetti - Why Computational Social Science ([Slides](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/_data/2026/habib/Why_Computational_Social_Science.pdf))"
     - name: "01:00 pm - 02:00 pm Lunch"
     - name: "02:00 pm - 04:30 pm Seminar on Ethics: Principles-based Approach and Group Exercise"
     - name: "04:30 pm - 05:00 pm Refreshments"
