@@ -69,17 +69,31 @@
 - date: June 9, 2026
   name: Group Work Day
   events:
-    - name: "Details coming soon"
+    - name: "9:00-9:15am Breakfast available"
+    - name: "9:15-9:30am Updates on the day's schedule"
+    - name: "9:30am- 12:00pm Group Work"
+    - name: "12:10-1:30pm Lunch"
+    - name: "1:30-4:30pm Group Work"
 
 - date: June 10, 2026
   name: Group Work Day
   events:
-    - name: "Details coming soon"
+    - name: "9:00-9:15am Breakfast available"
+    - name: "9:15-9:30am Updates on the day's schedule"
+    - name: "9:30am- 11:00am Group Work"
+    - name: "11:00am Talk by Yamil Velez"
+    - name: "12:15-1:30pm Lunch"
+    - name: "1:30-4:30pm Group Work"
 
 - date: June 11, 2026
   name: Group Work Day
   events:
-    - name: "Details coming soon"
+    - name: "9:00-9:15am Breakfast available"
+    - name: "9:15-9:30am Updates on the day's schedule"
+    - name: "9:30am- 11:00am Group Work"
+    - name: "11:00am Talk by Perry Carter"
+    - name: "12:15-1:30pm Lunch"
+    - name: "1:30-4:30pm Group Work"
 
 - date: June 12, 2026
   name: Group Presentations and Closing Lunch
