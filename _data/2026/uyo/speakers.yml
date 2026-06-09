@@ -1,4 +1,14 @@
-- name: "Speaker info coming soon." # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " ... " # add speaker bio here
-  website: https://www.google.com # update speaker personal link here
+- name: Moses Udoisoh PhD
+  image: /assets/images/Moses Udoisoh.jpeg  
+  bio: "<p align='justify'>Moses Udoisoh PhD is a seasoned Physicist and Thermofluids Engineer trained in Nigeria and Australia. He holds degrees in Mechanical Engineering, Electrical/Electronics Engineering and Physics. He is fast becoming the first Researcher in Molecular and Medicinal Biophysics in the Nigerian state. He recently led a team of Scientist to discover the Stokes-Induced Stark Effect (SISE), as a potential solution for several interfacial interaction issues like Chronic diabetic foot ulcers. As a Scientist with theoretical and computational approaches, he applies the concepts of Quantum and Molecular Mechanics to physical problems in biological spaces. <br> He is the Author of Fundamentals of University Physics and the Lead Scientist at Gamma Data Analytics and Computation.</p>"
+  website: https://www.linkedin.com/in/moses-udoisoh-619b921a8/
+
+  - name: Dr. Akaninyene Mark , (MBBch, MPH, SRF,  FWACP, PhD)
+  image: /assets/images/Dr. Akaninyene Mark.jpg
+  bio: "<p align='justify'>Dr. Akaninyene Mark , (MBBch, MPH, SRF,  FWACP, PhD) is an outstanding Consultant Physician in Public Health, Planning Research, Statistics and Community Medicine. He is an Associate Fellow National Postgraduates Medical College. Dr. Mark is a distinguished scholar, researcher, and mentor, serving in various capacities including Senior Research Fellow and Director/Dean of the Afromed Academy of Medical Research, ICT and Innovation, Zambia. He is the Editor-in-Chief of the Frontline Professionals Journal (FPJ); and associate Fellow/ Reviewer Science Publishing group, Visiting Adjunct Senior Consultant at Somacas Medical Center, Ghana. <br> He is academic giant and thorough-bred mentor, he has supervised and continues to inspire postgraduate in Nigeria and Master’s students across Nigeria and Africa. <br> His dedication to health planning, research, ethics, and community medicine has left indelible marks on the practice of medicine and beyond. <br> He is currently the Deputy Director Health Planning Research and Statistics in the Akwa ibom state Ministry of Health Uyo and a consultant par excellence.</p>"
+  website: https://www.linkedin.com/in/akaninyene-mark-69a4032a2/ 
+
+  - name: George Odo 
+  image: /assets/images/George Odo.png
+  bio: "<p align='justify'>George is a computer science graduate of the University of Calabar. He is a web and Machine Learning model developer, verse in programming languages such as Python, R, React, React Native, TypeScript, and JavaScript. <br> George has been able to gather wealth of experiences as a full stack web developer and data scientist at Zoe-Sprout Technologies International. He is particularly drawn to the power of data science, and he enjoys exploring how data can be leveraged to drive innovation and solve complex problems. As he continues to grow in the field of computer science, he is eager to apply his skills in real-world projects, where he can share his knowledge with others while continuing to learn and improve. <br>He enjoys collaborating with teams to build innovative solutions and create impactful digital experiences</p>"
+  website: https://www.linkedin.com/in/odo-george-21920b378/
