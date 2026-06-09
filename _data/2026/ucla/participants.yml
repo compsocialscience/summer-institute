@@ -1,6 +1,98 @@
-- name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+- name: "Hana Abdulla"
+  image: /assets/images/hana.jpg
+  bio: "Hana Abdulla is a PhD student in the Department of Political Science at the University of California, Irvine where she also earned her B.A. in political science. Motivated by her upbringing in the Middle East during the Arab Spring and exposure to political unrest and authoritarian governance, her research focuses on religion, authoritarianism, surveillance, and environmental politics, with a regional interest on the Middle East and North Africa. Her scholarly goals include contributing to research that deepens understanding of political institutions and state-society relations and aims to develop as an educator in the field."
 
-# Add more participants with the same format as above...
+- name: "Hamzah Ahmed"
+  image: /assets/images/hamzah.png
+  bio: "Hamzah Ahmed is a doctoral student in Economics at the University of Southern California, where he specializes in applied microeconomics with a focus on public economics and labor economics. His research uses causal inference methods to study how education and social policies shape outcomes for vulnerable populations. He is particularly interested in leveraging quasi-experimental variation in public policy to uncover the mechanisms behind social inequality. Much of his work involves linking administrative datasets to evaluate the effects of funding structures, school choice, and child welfare systems."
+  website: https://hamzahsahmed.github.io/
+
+- name: "Juan Diego Alvarado"
+  image: /assets/images/juandiego.jpg
+  bio: "Juan Diego Alvarado is a PhD candidate in Government and Politics at the University of Maryland. His work lies at the intersection of comparative political behavior and the study of electoral institutions. In his dissertation, Juan Diego studies how political timing and electoral competition influence individuals' decision to join political parties. He is also interested in integrating causal inference, computational methods, and historical and qualitative evidence to study party politics and voter behavior across Latin America. He is a member of the Interdisciplinary Laboratory of Computational Social Science and the Latin American and Caribbean Studies Center at UMD."
+
+- name: "Adalberto Castrejón"
+  image: /assets/images/adalberto.png
+  bio: "Adalberto 'Beto' Castrejón is a Ph.D. student in the Educational Policy Studies program at the University of Wisconsin-Madison, where he is an Interdisciplinary Training Program in Education Sciences (ITP) Fellow as well as an Education Graduate Research Scholar (Ed-GRS) in the UW-Madison School of Education. Castrejón's research is focused on evaluating higher education policies, using quasi-experimental methods, to examine their effects on the distribution of federal, state, and institutional resources."
+  website: https://www.adalbertocastrejon.com/
+
+- name: "Shriya Dasgupta"
+  image: /assets/images/shriya.jpg
+  bio: "Shriya is a doctoral student of History at Purdue University. She is the founder of Agnijug Archive, a digital repository that aims to document oral histories of anticolonial Indian revolutionaries and the spirit of resistance that they espoused. Her research explores 20th century South Asian history with a focus on colonial Bengali women, displacement, forced migration, and the role of autobiographies as a means to construct parallel history."
+
+- name: "Chunxu Fang"
+  image: /assets/images/chunxu.jpg
+  bio: "Chunxu Fang is a Ph.D. candidate in Sociology at the University at Albany, State University of New York. He uses historical data and survey data to explore how historical and contemporary neighborhood environments shape population health disparities. His recent research explores how historical redlining influences later urban development and health outcomes."
+
+- name: "Jessica Fay"
+  image: /assets/images/jessica.png
+  bio: "Jessica Fay is a PhD student in Community Health Sciences at UCLA. Her research centers on predictors and outcomes of food insecurity."
+
+- name: "Nicolas Florez"
+  image: /assets/images/nicolas.jpeg
+  bio: "Nicolas Florez is a PhD candidate (ABD) at the University of Michigan in the Department of Political Science. His dissertation examines the racialized development of public transportation legacies in American metropolitan areas. His research interests include American political institutions, inequality, urban politics and policy, and the American Political Economy."
+  website: https://prod.lsa.umich.edu/content/michigan-lsa/polisci/en/people/graduate-students/nicolas-hernandez-florez.html#success
+
+- name: "Jiaowei Gong"
+  image: /assets/images/jiaowei.jpg
+  bio: "Jiaowei Gong is an incoming Sociology-Demography PhD student at UC Berkeley. His research interests include organizations and economic sociology, inequality and mobility, and social demography. His research focuses on how social relationships and organizational structures shape inequality, resource allocation, and social mobility in firms, labor markets, healthcare institutions, and families."
+
+- name: "Pietro Grassi"
+  image: /assets/images/pietro.jpeg
+  bio: "Pietro Grassi is an Honours Student in Data Science at the Sant'Anna School of Advanced Studies and a Master's student in Statistics and Data Science at the University of Florence. His research applies causal machine learning and synthetic data generation methods to longitudinal survey data to study health inequalities, especially palliative care."
+  website: https://www.linkedin.com/in/pietro-grassi
+
+- name: "Mertcan Gungor"
+  image: /assets/images/mertcan.jpg
+  bio: "Mertcan just received his PhD in Psychological Science from the University of California, Irvine. His research focuses on how people respond to disagreements on moralized issues in the public and the private domain, and how to mitigate the downstream consequences of moralized disagreements, such as intolerance, animosity, and distrust."
+
+- name: "Daichi Hibi"
+  bio: "Daichi Hibi is a PhD candidate in the Department of Sociology at Washington University in St. Louis. His research examines how institutions and life circumstances shape the constraints under which people make work-related decisions. His dissertation uses survey data to examine the employment outcomes and labor-market trajectories of formerly incarcerated workers in the United States."
+
+- name: "Yuka Imai"
+  image: /assets/images/yuka.jpg
+  bio: "Yuka Imai is a second-year PhD student. Her nursing experience ranges from providing care in specialized units including HIV/AIDS, cardiac surgery, and discharge planning services in Tokyo, Japan. She also delivered comprehensive nursing care from emergency care to end-of-life support in both hospital and home care settings on Oki Island, a remote island in Shimane, Japan. My research interest is to build a greater understanding of unique challenges people living with HIV experience to inform effective care that improves their health outcomes and quality of life."
+
+- name: "Cameron Keating"
+  image: /assets/images/cameron.jpg
+  bio: "Cameron is a National Science Foundation Graduate Research Fellow and PhD Student in the Department of Sociology at Indiana University-Bloomington. He earned a BA in Sociology from the College of New Jersey. He uses quantitative methods to examine sexuality, romantic relationships, and wellbeing across the life course."
+
+- name: "Saumitra Kulkarni"
+  image: /assets/images/saumitra.jpeg
+  bio: "Saumitra is a PhD student at Northeastern University's Network Science Institute, advised by Prof. Esteban Moro. His research uses large-scale behavioral data to study human mobility and urban systems through computational social science and network science, with applications to accessibility, urban economics, and policy design."
+  website: https://saumitranetsci.github.io/
+
+- name: "Hongjiao Li"
+  image: /assets/images/hongjiao.jpg
+  bio: "Hongjiao Li is a Ph.D. student in Education Policy and Social Context at UC Irvine, with a master's in International Education Policy Analysis from Stanford. Her research uses quasi-experimental and computational methods to examine how higher education policies shape college-to-career transitions and how AI reshapes postsecondary learning and workforce preparation."
+
+- name: "Thao Pham"
+  image: /assets/images/thao.jpg
+  bio: "Thao is a Ph.D. student in Educational Policy Studies with a concentration in Comparative and International Education. Before coming to UW-Madison, she earned a Bachelor's degree in Economics from the University of Manchester, UK, and a Master's degree in Public Administration from Indiana University–Bloomington. Her research focuses on how cultural and institutional factors (re)produce the achievement gap in Vietnam."
+  website: https://phuong-thao-pham.github.io/
+
+- name: "Tabia Tanzin Prama"
+  image: /assets/images/tabia.png
+  bio: "Tabia Tanzin Prama is a Computer Science PhD student at the University of Vermont specializing in machine learning, AI safety, and computational social science. Her research focuses on developing interpretable AI, identifying and mitigating algorithmic bias, and analyzing complex social phenomena. She is dedicated to ensuring that intelligent systems are transparent, fair, and ethically aligned to serve society."
+
+- name: "Zeliha Begum Tunc"
+  image: /assets/images/zeliha.jpg
+  bio: "Zeliha Begum Tunc is a Ph.D. candidate in Economics at the University of California, Riverside. Her research focuses on applied microeconomics, with an emphasis on labor, housing, and public policy. She uses detailed survey and administrative data to identify causal relationships in employment, inequality, and household borrowing."
+  website: https://sites.google.com/view/zelihabegumtunc
+
+- name: "Robert Urbina"
+  image: /assets/images/robert.jpeg
+  bio: "Robert Urbina is a Ph.D. candidate in Economics at UCLA. His research focuses on International Finance, Monetary Policy, and Banking. Previously, he worked at the Central Reserve Bank of Peru and earned a Master's degree in Economics in PUC-RIO in Brazil."
+
+- name: "Yizhong Wang"
+  image: /assets/images/yizhong.jpg
+  bio: "I am Yizhong, a PhD student in Economics at USC with research interests in industrial organization and health economics. I currently work as a research assistant at the USC Sol Price School of Public Policy, focusing on pharmaceutical innovation and related policy issues. Before starting my PhD, I worked at TD Securities as a Senior Credit Risk Analyst after completing my undergraduate and master's studies in Finance and Economics at the University of Toronto."
+  website: https://www.linkedin.com/in/yizhong-wang/
+
+- name: "Joseph Yu-Chang Wu"
+  image: /assets/images/yuchang.jpg
+  bio: "Joseph Yu-Chang Wu is a first-year PhD student in Sociology at University of California, Davis supported by Yen Chuang Taiwanese and Vanderhorf Fellowships. His research interests are at the confluence of stratification, education-occupation transition, and adolescent extracurricular activities. He received a MA in Sociology from National Chengchi University, Taiwan."
+
+- name: "Xumeng Yan"
+  image: /assets/images/xumeng.jpg
+  bio: "Xumeng Yan is a PhD student in Community Health Sciences at UCLA with prior training in sociology. Her research examines how trauma and collective stressors shape mental and physical health across the life course, particularly among marginalized communities. She is especially interested in the social determinants of mental health disparities and in how stress exposure and psychosocial resources jointly shape health trajectories over time."
