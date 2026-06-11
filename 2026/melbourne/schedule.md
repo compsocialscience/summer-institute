@@ -398,13 +398,15 @@ details.day-acc[open] > summary::after {
 
 <div class="session-block" id="session-nectar">
   <p class="session-meta">15:00–16:00 &nbsp;|&nbsp; In-person</p>
-  <p class="session-title">Nectar Research Cloud</p>
+  <p class="session-title">Nectar: Australian Research Infrastructure for Computational Analysis</p>
   <p class="session-speakers"><strong>Speakers:</strong> ARDC</p>
+  <p class="session-desc">In this session, we will explore what cloud infrastructure is and how it can support your research in the Australian context. We will show you how to access additional compute on demand and discuss the unique benefits and opportunities of working with remote infrastructure like Nectar.</p>
   <div class="outcomes-box">
     <p>Learning Outcomes</p>
     <ul>
-      <li>What is Nectar Research Cloud and why you may want to use it.</li>
-      <li>How to access it.</li>
+      <li>Describe what cloud compute is.</li>
+      <li>Learn how to access Nectar.</li>
+      <li>Plan your compute needs when working on a research project.</li>
     </ul>
   </div>
 </div>
@@ -524,7 +526,7 @@ details.day-acc[open] > summary::after {
 </summary>
 <div class="day-body">
   <div class="venue-map-strip">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.6945036735665!2d144.94514735618282!3d-37.82062406237891!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d509d17bc27%3A0x5a6142623152382d!2sDeakin%20Downtown!5e0!3m2!1sen!2sau!4v1779156493045!5m2!1sen!2sau" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.294290470526!2d144.96143457678016!3d-37.80657527197742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642cc5869a901%3A0x22732cdb484e476c!2sRMIT%20Activator!5e0!3m2!1sen!2sau!4v1781219237342!5m2!1sen!2sau" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
   <div class="sessions-inner">
 
@@ -623,7 +625,7 @@ details.day-acc[open] > summary::after {
 </summary>
 <div class="day-body">
   <div class="venue-map-strip">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.6945036735665!2d144.94514735618282!3d-37.82062406237891!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d509d17bc27%3A0x5a6142623152382d!2sDeakin%20Downtown!5e0!3m2!1sen!2sau!4v1779156493045!5m2!1sen!2sau" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.294290470526!2d144.96143457678016!3d-37.80657527197742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642cc5869a901%3A0x22732cdb484e476c!2sRMIT%20Activator!5e0!3m2!1sen!2sau!4v1781219237342!5m2!1sen!2sau" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
   <div class="sessions-inner">
 
