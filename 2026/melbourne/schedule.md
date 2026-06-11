@@ -401,7 +401,9 @@ details.day-acc[open] > summary::after {
 <div class="session-block" id="session-nectar">
   <p class="session-meta">15:00–16:00 &nbsp;|&nbsp; In-person</p>
   <p class="session-title">Nectar: Australian Research Infrastructure for Computational Analysis</p>
-  <p class="session-speakers"><strong>Speakers:</strong> ARDC</p>
+  <p class="session-speakers"><strong>Speakers:</strong>
+    <a href="https://ardc.edu.au/about-us/our-people/" target="_blank" rel="noopener noreferrer">Sonia Ramza</a>
+  </p>
   <p class="session-desc">In this session, we will explore what cloud infrastructure is and how it can support your research in the Australian context. We will show you how to access additional compute on demand and discuss the unique benefits and opportunities of working with remote infrastructure like Nectar.</p>
   <div class="outcomes-box">
     <p>Learning Outcomes</p>
