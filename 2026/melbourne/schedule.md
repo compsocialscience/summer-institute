@@ -287,7 +287,7 @@ details.day-acc[open] > summary::after {
 
 <div class="break-block"><strong>12:30–13:30</strong> &nbsp; Lunch</div>
 
-<div class="session-block" id="session-tbc">
+<div class="session-block" id="speed-dating">
   <p class="session-meta">13:30–14:30 &nbsp;|&nbsp; In-person</p>
   <p class="session-title">Research Speed Dating</p>
   <div class="outcomes-box">
