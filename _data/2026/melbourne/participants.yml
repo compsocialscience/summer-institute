@@ -1,6 +1,119 @@
-- name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+- name: "Alfie Chadwick"
+  sort_name: "Chadwick, Alfie"
+  affiliation: "Monash University"
+  profile_url: "https://github.com/Fonzzy1"
+  bio: "Alfie Chadwick is a PhD candidate at Monash University and research assistant at the ARC Centre of Excellence for Automated Decision-Making and Society. His work applies LLMs and computational methods to parliamentary speech, climate communication, and misinformation detection, including large-scale Hansard datasets and explainable framing analysis."
 
-# Add more participants with the same format as above...
+- name: "Zachary Daus"
+  sort_name: "Daus, Zachary"
+  affiliation: "Monash University"
+  profile_url: ""
+  bio: "Zachary Daus is a PhD candidate in philosophy at Monash University studying the ethics of artificial intelligence in healthcare. His research examines stakeholder attitudes toward clinical AI, existentialist critiques of automating care, and how computational methods can analyse attitudes expressed in policy and academic texts."
+
+- name: "Mohammad Faisal"
+  sort_name: "Faisal, Mohammad"
+  affiliation: "University of Queensland"
+  profile_url: "https://sociology.uq.edu.au/"
+  bio: "Mohammad Faisal is a PhD candidate in sociology at the University of Queensland, supported by an ADM+S doctoral scholarship. His research examines how culturally and linguistically diverse jobseekers experience Australia's digitised public employment services, combining qualitative interviews with survey analysis."
+
+- name: "Lan Ha"
+  sort_name: "Ha, Lan"
+  affiliation: "University of Sydney"
+  profile_url: "https://www.sydney.edu.au/arts/about/our-people.html"
+  bio: "Lan Ha is a PhD candidate in digital communication at the University of Sydney developing feminist approaches to moderating ableism on social media. Her prior research applies computational topic modelling and data science methods to platform governance, misinformation, and disability-inclusive digital participation."
+
+- name: "Yuri Jung"
+  sort_name: "Jung, Yuri"
+  affiliation: "Queensland University of Technology"
+  profile_url: ""
+  bio: "Yuri Jung is an elementary educator from South Korea commencing a Master of Digital Communication at QUT. She is interested in how children and migrant students navigate multilingual digital media environments, and hopes to combine qualitative inquiry with digital trace data and computational text analysis."
+
+- name: "Utami Diah Kusumawati"
+  sort_name: "Kusumawati, Utami Diah"
+  affiliation: "RMIT University"
+  profile_url: "https://www.rmit.edu.au/"
+  bio: "Utami Diah Kusumawati is a PhD candidate at RMIT University researching data journalism across Australian and Indonesian news media. Her dissertation uses web scraping, NLP, and topic modelling to analyse how data-driven news narratives are constructed and compared across national contexts."
+
+- name: "Putri Limilia"
+  sort_name: "Limilia, Putri"
+  affiliation: "University of Sydney"
+  profile_url: "https://www.sydney.edu.au/arts/about/our-people.html"
+  bio: "Putri Limilia is a PhD candidate at the University of Sydney studying political astroturfing and coordinated inauthentic behaviour on social media. Her mixed-methods research combines experiments, interviews, and computational analysis of Twitter data to understand how coordinated actors shape online political discussion."
+
+- name: "Lewis Luartz"
+  sort_name: "Luartz, Lewis"
+  affiliation: "Chapman University"
+  profile_url: "http://www.lewisluartz.com/"
+  bio: "Lewis Luartz is an instructional assistant professor at Chapman University whose research spans political behaviour, public opinion, and populism in comparative perspective. He applies quantitative and computational approaches to electoral politics, survey nonresponse, and the social effects of major crises such as the COVID-19 pandemic."
+
+- name: "Shaghayegh Mohammadamini"
+  sort_name: "Mohammadamini, Shaghayegh"
+  affiliation: "Queensland University of Technology"
+  profile_url: "https://research.qut.edu.au/dmrc/"
+  bio: "Shaghayegh Mohammadamini is a PhD candidate at QUT researching gendered media bias and stereotype framing in Australian news on YouTube. Her work combines BERTopic modelling, qualitative media analysis, and NVivo coding to examine how women are represented in news video content and audience engagement."
+
+- name: "Megan Moss"
+  sort_name: "Moss, Megan"
+  affiliation: "Monash University"
+  profile_url: "https://www.linkedin.com/in/meganfrancesmoss/"
+  bio: "Megan Moss is a PhD candidate at Monash University examining the social and ethical implications of artificial intelligence and robotics in agriculture. Drawing on bioethics and qualitative public dialogue methods, her research explores public attitudes toward ag-tech, social licence, and novel food technologies such as cultured meat."
+
+- name: "Talal Raza"
+  sort_name: "Raza, Talal"
+  affiliation: "University of Melbourne"
+  profile_url: ""
+  bio: "Talal Raza is a researcher at the University of Melbourne interested in applying computational social science to media, communication, and platform governance questions. He is attending SICSS-Melbourne to strengthen his skills in digital trace data collection, text analysis, and ethical research design."
+
+- name: "Klaire Somoray"
+  sort_name: "Somoray, Klaire"
+  affiliation: "James Cook University"
+  profile_url: "https://research.jcu.edu.au/"
+  bio: "Klaire Somoray is a biostatistician and researcher at James Cook University with a PhD in psychology and road safety from QUT. She works across R, Python, SQL, and data visualisation to support applied health and social research, and is completing a Master of Biostatistics at the University of Queensland."
+
+- name: "Elizabeth Spry"
+  sort_name: "Spry, Elizabeth"
+  affiliation: "Deakin University"
+  profile_url: "https://orcid.org/0000-0003-2837-3514"
+  bio: "Dr Elizabeth Spry is a postdoctoral research fellow at Deakin University studying intergenerational mental health and social disadvantage across the perinatal period. She is extending epidemiological and causal inference methods with computational approaches to digital trace and participant-donated data to understand parental experiences at scale."
+
+- name: "Silviana Tana"
+  sort_name: "Tana, Silviana"
+  affiliation: "Australian National University"
+  profile_url: "https://scholar.google.com.au/citations?user=6HH1bqoAAAAJ"
+  bio: "Dr Silviana Tana is a lecturer in information systems at the Australian National University researching digital transformation and AI management in organisations. Her interdisciplinary work combines qualitative organisational research with emerging computational methods to study how digital technologies reshape work, governance, and society."
+
+- name: "Ye Tao"
+  sort_name: "Tao, Ye"
+  affiliation: "RMIT University"
+  profile_url: "https://www.rmit.edu.au/"
+  bio: "Ye Tao is a PhD candidate at RMIT University researching communication, media, and platform-mediated social behaviour. His published work examines social media use, e-learning platforms, and computational approaches to understanding how digital environments shape academic and public communication."
+
+- name: "Jennifer Wilson"
+  sort_name: "Wilson, Jennifer"
+  affiliation: "Monash University"
+  profile_url: "https://github.com/feinna"
+  bio: "Jennifer Wilson is a PhD candidate at Monash University studying how large language models can make Australian parliamentary documents more accessible. Her postphenomenological research uses LLMs to rewrite complex legal text and qualitatively codes outputs for hallucinations, omissions, and readability."
+
+- name: "Nethmi Wijesinghe"
+  sort_name: "Wijesinghe, Nethmi"
+  affiliation: "RMIT University"
+  profile_url: "https://www.linkedin.com/in/wnethmi/"
+  bio: "Nethmi Wijesinghe is a PhD candidate in computer science at RMIT University studying trustworthiness judgements and social conformity in mixed human–AI online environments. Her research combines controlled user studies with quantitative and qualitative analysis to inform responsible design of AI-mediated social platforms."
+
+- name: "Jiahui Xing"
+  sort_name: "Xing, Jiahui"
+  affiliation: "University of Sydney"
+  profile_url: "https://www.sydney.edu.au/arts/about/our-people.html"
+  bio: "Jiahui Xing is a PhD candidate in media and communications at the University of Sydney working across critical cultural studies, digital cultures, and museum research. Her research interests include media industries, copyright, and digital methods for studying cultural production and platform-era creative labour."
+
+- name: "Gordon Young"
+  sort_name: "Young, Gordon"
+  affiliation: "Deakin University"
+  profile_url: "https://www.linkedin.com/in/gordonwfyoung/"
+  bio: "Gordon Young is a PhD candidate at Deakin University and professional ethicist researching ethically justifiable counter-extremism interventions online. His work combines governance, cultural analysis, and computational methods to examine when and how extremist content on social media can be responsibly monitored or limited."
+
+- name: "Temirlan Zhumadilov"
+  sort_name: "Zhumadilov, Temirlan"
+  affiliation: "University of Melbourne"
+  profile_url: "https://www.linkedin.com/in/timkaw/"
+  bio: "Temirlan Zhumadilov is a PhD candidate in political science at the University of Melbourne with training in text analysis, experiments, and comparative politics. His research applies quantitative and computational methods to political communication, public opinion, and energy transition politics."
