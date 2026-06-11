@@ -23,7 +23,7 @@
   events:
     - name: "09:30 am - 10:00 am Refreshments"
     - name: "10:00 am - 11:30 am Workshop by Zain Ahmed Usmani - An Introduction to Agent-Based Modeling ([Slides](https://docs.google.com/presentation/d/1yfKAsDurzj4bzNwWcFrzmP9z4uEMIgSV/edit?usp=sharing&ouid=114828017500296240184&rtpof=true&sd=true))"
-    - name: "11:30 am - 01:00 pm Guest Talk by Dr. Shah Jamal Alam - Simulating the Social: Agent-Based Modeling and Network Analysis for Complex Systems"
+    - name: "11:30 am - 01:00 pm Guest Talk by Dr. Shah Jamal Alam - Simulating the Social: Agent-Based Modeling and Network Analysis for Complex Systems ([Slides](https://drive.google.com/file/d/1JSo9zSVUyXBoory2IkRaVSRfyfw7QleG/view?usp=sharing))"
     - name: "01:00 pm - 02:00 pm Lunch"
     - name: "02:00 pm - 04:30 pm Group Exercise ([Notebook - 1](https://drive.google.com/file/d/17zrXPfzPnsClzXudXrEa0QlcQcwvISpP/view?usp=sharing)) ([Notebook - 2](https://drive.google.com/file/d/1dkiJCzyR71PLJiia3RvEV5H3ntMZHymi/view?usp=sharing)) ([Bird Flocking - NetLogo](https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Flocking.nlogox)) ([The El-Farol Bar Problem - NetLogo](https://www.netlogoweb.org/launch#http://ccl.northwestern.edu/netlogo/models/models/IABM%20Textbook/chapter%203/El%20Farol%20Extensions/El%20Farol.nlogox))"
     - name: "04:30 pm - 05:00 pm Refreshments"
