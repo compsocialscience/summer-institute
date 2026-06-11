@@ -165,6 +165,11 @@ details.day-acc[open] > summary::after {
   border-radius: 8px;
   border: 1px solid #dce8f0;
   background: #fafcfe;
+  scroll-margin-top: 90px;
+}
+.session-block:target {
+  border-color: #00a99d;
+  box-shadow: 0 0 0 3px rgba(0, 169, 157, 0.2);
 }
 .session-meta {
   font-size: 0.78em;
@@ -225,12 +230,8 @@ details.day-acc[open] > summary::after {
 
 # Program
 
-<div class="schedule-note no-print">
-The program outlined below is not final, and while many speakers have confirmed their participation, session descriptions may change at the discretion of our speakers and will be adjusted accordingly. The final program and materials will be shared with participants throughout May and June. An emphasis will also be placed on networking and social activities that will take place on some of the days, including a networking dinner for participants, organisers, and invited speakers.
-</div>
-
 <div class="schedule-note" style="font-style: normal; background: #eef6f5;">
-<strong>Printable program</strong> — <a href="schedule-handout">Open handout version</a> · use your browser's Print → Save as PDF
+<strong>Printable program</strong> — <a href="/2026/melbourne/SICSS-Melbourne-2026-Program.pdf" target="_blank" rel="noopener">Download PDF version</a>
 </div>
 
 <div class="week-header">
@@ -256,7 +257,7 @@ The program outlined below is not final, and while many speakers have confirmed 
 
 <div class="break-block"><strong>09:30–10:30</strong> &nbsp; Arrivals &amp; Morning Tea</div>
 
-<div class="session-block">
+<div class="session-block" id="session-welcome">
   <p class="session-meta">10:30–11:00 &nbsp;|&nbsp; In-person</p>
   <p class="session-title">Welcome &amp; Introduction to SICSS Melbourne</p>
   <p class="session-speakers"><strong>Organisers:</strong>
@@ -265,7 +266,7 @@ The program outlined below is not final, and while many speakers have confirmed 
   </p>
 </div>
 
-<div class="session-block">
+<div class="session-block" id="session-css-keynote">
   <p class="session-meta">11:00–12:30 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Keynote Dialogue</p>
   <p class="session-title">What is Computational Social Science and Why It Matters in Australia?</p>
   <p class="session-speakers"><strong>Speakers:</strong>
@@ -286,7 +287,7 @@ The program outlined below is not final, and while many speakers have confirmed 
 
 <div class="break-block"><strong>12:30–13:30</strong> &nbsp; Lunch</div>
 
-<div class="session-block">
+<div class="session-block" id="session-tbc">
   <p class="session-meta">13:30–14:30 &nbsp;|&nbsp; In-person</p>
   <p class="session-title">TBC</p>
   <p class="session-speakers"><strong>Speakers:</strong> <span class="speaker-tbd">TBC</span></p>
@@ -298,7 +299,7 @@ The program outlined below is not final, and while many speakers have confirmed 
 
 <div class="break-block"><strong>14:30–15:15</strong> &nbsp; Break</div>
 
-<div class="session-block">
+<div class="session-block" id="session-bias-css">
   <p class="session-meta">15:15–16:30 &nbsp;|&nbsp; Hybrid &nbsp;|&nbsp; Keynote</p>
   <p class="session-title">Bias in Computational Social Science</p>
   <p class="session-speakers"><strong>Speakers:</strong>
@@ -338,7 +339,7 @@ The program outlined below is not final, and while many speakers have confirmed 
   </div>
   <div class="sessions-inner">
 
-<div class="session-block">
+<div class="session-block" id="session-ethics-panel">
   <p class="session-meta">09:00–10:30 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Panel</p>
   <p class="session-title">Ethics in Computational Social Science</p>
   <p class="session-speakers"><strong>Speakers:</strong>
@@ -359,7 +360,7 @@ The program outlined below is not final, and while many speakers have confirmed 
 
 <div class="break-block"><strong>10:30–11:00</strong> &nbsp; Morning Tea</div>
 
-<div class="session-block">
+<div class="session-block" id="session-data-donations-day2">
   <p class="session-meta">11:00–12:30 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
   <p class="session-title">Data Donations and Participant-Centric Research</p>
   <p class="session-speakers"><strong>Speakers:</strong>
@@ -380,7 +381,7 @@ The program outlined below is not final, and while many speakers have confirmed 
 
 <div class="break-block"><strong>12:30–13:30</strong> &nbsp; Lunch</div>
 
-<div class="session-block">
+<div class="session-block" id="session-publishing">
   <p class="session-meta">13:30–14:30 &nbsp;|&nbsp; In-person</p>
   <p class="session-title">Demystifying Publishing in Computational Social Science</p>
   <p class="session-speakers"><strong>Speakers:</strong>
@@ -395,7 +396,7 @@ The program outlined below is not final, and while many speakers have confirmed 
 
 <div class="break-block"><strong>14:30–15:00</strong> &nbsp; Break</div>
 
-<div class="session-block">
+<div class="session-block" id="session-nectar">
   <p class="session-meta">15:00–16:00 &nbsp;|&nbsp; In-person</p>
   <p class="session-title">Nectar Research Cloud</p>
   <p class="session-speakers"><strong>Speakers:</strong> ARDC</p>
@@ -429,7 +430,7 @@ The program outlined below is not final, and while many speakers have confirmed 
   </div>
   <div class="sessions-inner">
 
-<div class="session-block">
+<div class="session-block" id="session-css-theory">
   <p class="session-meta">09:00–10:30 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Panel</p>
   <p class="session-title">Does Computational Social Science Lack Theory?</p>
   <p class="session-speakers"><strong>Speakers:</strong>
@@ -448,7 +449,7 @@ The program outlined below is not final, and while many speakers have confirmed 
 
 <div class="break-block"><strong>10:30–11:00</strong> &nbsp; Morning Tea</div>
 
-<div class="session-block">
+<div class="session-block" id="session-aired">
   <p class="session-meta">11:00–12:30 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Talk</p>
   <p class="session-title">The AIReD platform for Australia-wide Social Media Discovery and Usage</p>
   <p class="session-speakers"><strong>Speakers:</strong>
@@ -467,7 +468,7 @@ The program outlined below is not final, and while many speakers have confirmed 
 
 <div class="break-block"><strong>12:30–13:30</strong> &nbsp; Lunch</div>
 
-<div class="session-block">
+<div class="session-block" id="session-ddp-workshop">
   <p class="session-meta">13:30–15:00 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
   <p class="session-title">Collecting and Analysing Data Download Packages</p>
   <p class="session-speakers"><strong>Speakers:</strong>
@@ -488,7 +489,7 @@ The program outlined below is not final, and while many speakers have confirmed 
 
 <div class="break-block"><strong>15:00–15:30</strong> &nbsp; Break</div>
 
-<div class="session-block">
+<div class="session-block" id="session-working-with-text">
   <p class="session-meta">15:30–17:00 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
   <p class="session-title">Working with Text Using Computational Techniques</p>
   <p class="session-speakers"><strong>Speakers:</strong>
@@ -527,7 +528,7 @@ The program outlined below is not final, and while many speakers have confirmed 
   </div>
   <div class="sessions-inner">
 
-<div class="session-block">
+<div class="session-block" id="session-screen-capture">
   <p class="session-meta">09:00–10:30 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
   <p class="session-title">Screen Capture for Data Collection</p>
   <p class="session-speakers"><strong>Speakers:</strong>
@@ -547,7 +548,7 @@ The program outlined below is not final, and while many speakers have confirmed 
 
 <div class="break-block"><strong>10:30–11:00</strong> &nbsp; Morning Tea</div>
 
-<div class="session-block">
+<div class="session-block" id="session-llm-pipelines">
   <p class="session-meta">11:00–12:30 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
   <p class="session-title">Using LLMs to Create Data Analysis Pipelines for Text-as-Data Research</p>
   <p class="session-speakers"><strong>Speakers:</strong>
@@ -566,7 +567,7 @@ The program outlined below is not final, and while many speakers have confirmed 
 
 <div class="break-block"><strong>12:30–13:30</strong> &nbsp; Lunch</div>
 
-<div class="session-block">
+<div class="session-block" id="session-rag-101">
   <p class="session-meta">13:30–14:30 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
   <p class="session-title">RAG 101</p>
   <p class="session-speakers"><strong>Speakers:</strong>
@@ -587,7 +588,7 @@ The program outlined below is not final, and while many speakers have confirmed 
 
 <div class="break-block"><strong>14:30–14:45</strong> &nbsp; Break</div>
 
-<div class="session-block">
+<div class="session-block" id="session-image-analysis">
   <p class="session-meta">14:45–16:15 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
   <p class="session-title">Image Analysis for Qualitative and Quantitative Research</p>
   <p class="session-speakers"><strong>Speakers:</strong>
@@ -626,7 +627,7 @@ The program outlined below is not final, and while many speakers have confirmed 
   </div>
   <div class="sessions-inner">
 
-<div class="session-block">
+<div class="session-block" id="session-interdisciplinary-panel">
   <p class="session-meta">09:00–10:30 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Panel</p>
   <p class="session-title">Cross-Disciplinary Collaboration: Bringing Social Science and Computational Analysis Together</p>
   <p class="session-speakers"><strong>Speakers:</strong>
@@ -648,7 +649,7 @@ The program outlined below is not final, and while many speakers have confirmed 
 
 <div class="break-block"><strong>10:30–11:00</strong> &nbsp; Morning Tea</div>
 
-<div class="session-block">
+<div class="session-block" id="session-industry-panel">
   <p class="session-meta">11:00–12:30 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Panel</p>
   <p class="session-title">Working With and In the Industry</p>
   <p class="session-speakers"><strong>Speakers:</strong>
@@ -662,7 +663,7 @@ The program outlined below is not final, and while many speakers have confirmed 
 
 <div class="break-block"><strong>12:30–13:30</strong> &nbsp; Lunch</div>
 
-<div class="session-block">
+<div class="session-block" id="session-career-success">
   <p class="session-meta">13:30–15:00 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
   <p class="session-title">Career Success</p>
   <p class="session-speakers"><strong>Speakers:</strong>
@@ -673,7 +674,7 @@ The program outlined below is not final, and while many speakers have confirmed 
 
 <div class="break-block"><strong>15:00–15:15</strong> &nbsp; Break</div>
 
-<div class="session-block">
+<div class="session-block" id="session-grant-writing">
   <p class="session-meta">15:15–16:15 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
   <p class="session-title">Grant Writing in Computational Social Science</p>
   <p class="session-speakers"><strong>Speakers:</strong>
@@ -711,7 +712,7 @@ The program outlined below is not final, and while many speakers have confirmed 
 
 <p><strong>Morning Sessions (90 min) — Advanced Workshops</strong></p>
 
-<div class="session-block">
+<div class="session-block" id="session-music-nli">
   <p class="session-meta">Tue 30 Jun &nbsp;·&nbsp; 10:00 &nbsp;|&nbsp;In-person &nbsp;|&nbsp; Talk</p>
   <p class="session-title">Music Score Analysis through Natural Language Interfaces</p>
   <p class="session-speakers"><strong>Speaker:</strong>
@@ -729,7 +730,7 @@ The program outlined below is not final, and while many speakers have confirmed 
   </div>
 </div>
 
-<div class="session-block">
+<div class="session-block" id="session-gems-slop">
   <p class="session-meta">Tue 30 Jun &nbsp;·&nbsp; 15:00–16:00 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
   <p class="session-title">Gems in the Slop: Breaking and Creating with GenAI</p>
   <p class="session-speakers"><strong>Speaker:</strong>
@@ -747,7 +748,7 @@ The program outlined below is not final, and while many speakers have confirmed 
   </div>
 </div>
 
-<div class="session-block">
+<div class="session-block" id="session-validation">
   <p class="session-meta">Wed 1 Jul &nbsp;·&nbsp; 09:00 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
   <p class="session-title">Validation in Computational Social Science</p>
   <p class="session-speakers"><strong>Speakers:</strong>
@@ -802,7 +803,7 @@ The program outlined below is not final, and while many speakers have confirmed 
 
 <p><strong>Mid-Morning &amp; Afternoon Sessions — Teamwork &amp; Project Development</strong></p>
 
-<div class="session-block">
+<div class="session-block" id="session-collaborative-work">
   <p class="session-meta">Ongoing across Days 6–9 &nbsp;|&nbsp; In-person</p>
   <p class="session-title">Collaborative Research Project Work</p>
   <p class="session-speakers"><strong>Support:</strong> Drop-in experts, organisers, and mentors</p>
@@ -830,7 +831,7 @@ The program outlined below is not final, and while many speakers have confirmed 
   </div>
   <div class="sessions-inner">
 
-<div class="session-block">
+<div class="session-block" id="session-closing">
   <p class="session-meta">Morning &amp; Afternoon &nbsp;|&nbsp; In-person</p>
   <p class="session-title">Group Presentations, Final Feedback &amp; Closing</p>
   <p class="session-desc">Participants will present the preliminary findings, methodologies, and proposed solutions from their collaborative week-long projects. The program will conclude with final feedback, networking, and closing remarks.</p>
@@ -858,3 +859,29 @@ The program outlined below is not final, and while many speakers have confirmed 
 <img src="/assets/images/melbourne-ardc.svg" alt="Australian Research Data Commons Logo" style="max-width: 800px; margin-bottom: 15px;">
 
 The Australian Internet Observatory ([https://doi.org/10.25956/twvn-ca19](https://doi.org/10.25956/twvn-ca19)) is a co-investment partnership with RMIT University, QUT, University of Queensland, University of Melbourne, Swinburne University, Deakin University and the Australian Research Data Commons (ARDC) through the HASS and Indigenous Research Data Commons (DOI:[10.3565/hjrp-b141](https://doi.org/10.3565/hjrp-b141)). The ARDC is enabled by the Australian Government's National Collaborative Research Infrastructure Strategy (NCRIS).
+
+<script>
+(function () {
+  function revealSessionFromHash() {
+    var hash = window.location.hash;
+    if (!hash) return;
+
+    var target = document.querySelector(hash);
+    if (!target || !target.classList.contains('session-block')) return;
+
+    var dayAcc = target.closest('details.day-acc');
+    if (dayAcc) dayAcc.open = true;
+
+    window.requestAnimationFrame(function () {
+      target.scrollIntoView({ block: 'start' });
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', revealSessionFromHash);
+  } else {
+    revealSessionFromHash();
+  }
+  window.addEventListener('hashchange', revealSessionFromHash);
+})();
+</script>
