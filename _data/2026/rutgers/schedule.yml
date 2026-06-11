@@ -98,9 +98,9 @@
 - date: June 12, 2026
   name: Group Presentations and Closing Lunch
   events: 
-    - name: "9:00-9:35am Breakfast available and final group work time."
-    - name: "9:45–10:15 AM - Presentation and Q&A 1"
-    - name: "10:20–10:50 AM - Presentation and Q&A 2"
-    - name: "10:55–11:25 AM - Presentation and Q&A 3"
-    - name: "11:30 AM–12:00 PM - Presentation and Q&A 4"
+    - name: "9:00-10:20am Breakfast available and final group work time."
+    - name: "10:25–10:45 AM - Presentation and Q&A 1"
+    - name: "10:50–11:10 AM - Presentation and Q&A 2"
+    - name: "11:15–11:35 AM - Presentation and Q&A 3"
+    - name: "11:40 AM–12:00 PM - Presentation and Q&A 4"
     - name: "12:00–1:30 PM - Closing and Lunch"
