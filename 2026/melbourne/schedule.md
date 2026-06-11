@@ -658,7 +658,7 @@ details.day-acc[open] > summary::after {
     <a href="https://www.abc.net.au/news/laura-gartry/5595204" target="_blank" rel="noopener noreferrer">Laura Gartry</a>,
     <a href="https://www.linkedin.com/in/arielkuperman/" target="_blank" rel="noopener noreferrer">Ariel Kuperman</a>,
     <a href="https://www.admscentre.org.au/indigo-holcombe-james/" target="_blank" rel="noopener noreferrer">Indigo Holcombe-James</a>
-    <!-- <a href="https://www.linkedin.com/in/andrew-mcmahon-95461742/" target="_blank" rel="noopener noreferrer">Andrew McMahon</a> -->
+    <a href="https://www.linkedin.com/in/andrew-mcmahon-95461742/" target="_blank" rel="noopener noreferrer">Andrew McMahon</a>
   </p>
   <p class="session-desc">Laura Gartry and Ariel Kuperman discuss how newsrooms can collaborate with data scientists and AI specialists to develop responsible, editorially grounded uses of AI. Drawing on applied experience, the session explores practical collaboration models that align technical capability with journalistic goals, and the challenge for public-service media of balancing (mis)trust in AI with the principles of trust and accuracy that are fundamental to good journalism, using localised news as an illustrative context. Drawing on her experience as Head of Research at ACMI—Australia's national museum of screen culture, Indigo Holcombe-James reflects on how qualitative research is conducted in a cultural context. Working primarily through ethnographic methods mixed with statistics, she discusses the boundary between academic methods and applied, audience-centred practice.</p>
 </div>
