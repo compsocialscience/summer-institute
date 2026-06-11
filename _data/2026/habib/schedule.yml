@@ -2,10 +2,10 @@
   name: "Introduction to CSS and Surveys and Ethics"
   events:
     - name: "09:00 am - 10:00 am Registrations and Refreshments"
-    - name: "10:00 am - 11:00 am Welcome Note, Networking ([Slides](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/_data/2026/habib/Introduction_to_SICSS.pdf))"
-    - name: "11:00 am - 01:00 pm Introduction and Keynote by Dr. Umberto Mignozzetti - Why Computational Social Science ([Slides](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/_data/2026/habib/Why_Computational_Social_Science.pdf))"
+    - name: "10:00 am - 11:00 am Welcome Note, Networking ([Slides](https://drive.google.com/file/d/1JCwaUc-FjEfVLBVq4jmv2PTvoXr2Szxy/view?usp=sharing))"
+    - name: "11:00 am - 01:00 pm Introduction and Keynote by Dr. Umberto Mignozzetti - Why Computational Social Science ([Slides](https://drive.google.com/file/d/1z5_N6UJ4npJSpHRW9TuhaTrWG68FjT-v/view?usp=sharing))"
     - name: "01:00 pm - 02:00 pm Lunch"
-    - name: "02:00 pm - 04:30 pm Seminar on Ethics: Principles-based Approach and Group Exercise ([Slides](https://raw.githubusercontent.com/compsocialscience/summer-institute/master/_data/2026/habib/Seminar_on_Ethics.pdf)) ([Video](https://youtu.be/A-5QaX5ZiK8?si=wZ3S7R4gaWtsZ28T))"
+    - name: "02:00 pm - 04:30 pm Seminar on Ethics: Principles-based Approach and Group Exercise ([Slides](https://drive.google.com/file/d/19lAMWhrrVF3CYIYuZCZYuzUM3bt-UE7y/view?usp=sharing)) ([Video](https://youtu.be/A-5QaX5ZiK8?si=wZ3S7R4gaWtsZ28T))"
     - name: "04:30 pm - 05:00 pm Refreshments"
 
 - date: June 9
@@ -22,10 +22,10 @@
   name: "Agent Based Modeling"
   events:
     - name: "09:30 am - 10:00 am Refreshments"
-    - name: "10:00 am - 11:30 am Workshop by Zain Ahmed Usmani - An Introduction to Agent-Based Modeling"
+    - name: "10:00 am - 11:30 am Workshop by Zain Ahmed Usmani - An Introduction to Agent-Based Modeling ([Slides](https://docs.google.com/presentation/d/1yfKAsDurzj4bzNwWcFrzmP9z4uEMIgSV/edit?usp=sharing&ouid=114828017500296240184&rtpof=true&sd=true))"
     - name: "11:30 am - 01:00 pm Guest Talk by Dr. Shah Jamal Alam - Simulating the Social: Agent-Based Modeling and Network Analysis for Complex Systems"
     - name: "01:00 pm - 02:00 pm Lunch"
-    - name: "02:00 pm - 04:30 pm Group Exercise"
+    - name: "02:00 pm - 04:30 pm Group Exercise ([Notebook - 1](https://drive.google.com/file/d/17zrXPfzPnsClzXudXrEa0QlcQcwvISpP/view?usp=sharing)) ([Notebook - 2](https://drive.google.com/file/d/1dkiJCzyR71PLJiia3RvEV5H3ntMZHymi/view?usp=sharing)) ([Bird Flocking - NetLogo](https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Flocking.nlogox)) ([The El-Farol Bar Problem - NetLogo](https://www.netlogoweb.org/launch#http://ccl.northwestern.edu/netlogo/models/models/IABM%20Textbook/chapter%203/El%20Farol%20Extensions/El%20Farol.nlogox))"
     - name: "04:30 pm - 05:00 pm Refreshments"
 
 - date: June 11
