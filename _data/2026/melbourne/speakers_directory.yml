@@ -3,7 +3,7 @@
   role: "Organiser; Speaker"
   affiliation: "QUT Digital Media Research Centre"
   profile_url: "https://www.qut.edu.au/about/our-people/academic-profiles/daniel.angus"
-  bio: "Prof. Daniel Angus is Professor of Digital Communication and Director of the Digital Media Research Centre at QUT. A Chief Investigator in ADM+S, he develops computational methods—including visualisation, NLP, and topic modelling—for studying communication, media, and digital platforms."
+  bio: "Daniel is Professor of Digital Communication and Director of the Digital Media Research Centre at QUT. A Chief Investigator in ADM+S, he develops computational methods—including visualisation, NLP, and topic modelling—for studying communication, media, and digital platforms."
   sessions:
     - title: "What is Computational Social Science and Why It Matters in Australia?"
       anchor: "session-css-keynote"
@@ -17,25 +17,17 @@
   role: "Speaker"
   affiliation: "University of Melbourne"
   profile_url: "https://ahrkat.github.io/"
-  bio: "Ahrabhi Kathirgamalingam researches bias in computational social science, focusing on how digital data, collection strategies, and research designs introduce methodological limitations and opportunities."
+  bio: "Ahrabhi a Postdoctoral Research Associate at GESIS – Leibniz Institute for the Social Sciences in Germany, working within the Computational Social Science department and the Transparent Social Analytics team. Her research operates at the intersection of political communication and computational methods, specifically focusing on social bias, automated racism detection, and the dynamics of polarization and migration in mediated and parliamentary discourses."
   sessions:
     - title: "Bias in Computational Social Science"
       anchor: "session-bias-css"
-
-- name: "Amanda Lawrence"
-  sort_name: "Lawrence, Amanda"
-  role: "Organiser"
-  affiliation: "Australian Internet Observatory, RMIT University"
-  profile_url: "https://www.admscentre.org.au/amanda-lawrence/"
-  bio: "Dr Amanda Lawrence is Engagement Lead at the Australian Internet Observatory at RMIT University. She brings extensive experience in social research infrastructure, digital libraries, and enabling responsible access to digital data for computational social science."
-  sessions: []
 
 - name: "Laura Gartry"
   sort_name: "Gartry, Laura"
   role: "Speaker"
   affiliation: "ABC News"
   profile_url: "https://www.abc.net.au/news/laura-gartry/5595204"
-  bio: "Laura Gartry is an ABC journalist with applied experience in how newsrooms can collaborate with data scientists and AI specialists to develop responsible, editorially grounded uses of AI in public-service media."
+  bio: "Laura is the Newsroom Innovation Lead and a former investigative digital producer for ABC's Four Corners, specializing in creative, inclusive, and long-form storytelling. Following her Reuters Journalism Fellowship at the University of Oxford—where she researched editorial algorithms and public interest journalism—her current work operates at the intersection of technology and media, guiding newsrooms to personalising the news and adopt emerging formats and AI responsibly."
   sessions:
     - title: "Working With and In the Industry"
       anchor: "session-industry-panel"
@@ -45,7 +37,7 @@
   role: "Speaker"
   affiliation: "Industry"
   profile_url: "https://www.linkedin.com/in/arielkuperman/"
-  bio: "Ariel Kuperman works at the intersection of journalism, data science, and AI, exploring practical collaboration models that align technical capability with editorial goals in localised news contexts."
+  bio: "Ariel is a Data Scientist at the Australian Broadcasting Corporation (ABC), where his work operates at the intersection of public-service journalism, data science, and AI. With a background in physics and extensive experience deploying scalable machine learning and natural language processing (NLP) pipelines, he focuses on developing data-driven products and collaboration models that align technical capabilities with editorial goals to personalize the news responsibly."
   sessions:
     - title: "Working With and In the Industry"
       anchor: "session-industry-panel"
@@ -55,7 +47,7 @@
   role: "Speaker"
   affiliation: "RMIT University"
   profile_url: "https://www.rmit.edu.au/profiles/b/daniel-binns"
-  bio: "Dr Daniel Binns is a Senior Lecturer in Media and Communication at RMIT and scholar of creative technologies, generative AI, and media cultures. His work explores glitch aesthetics, critical AI literacy, and creative misuse of large language models as analytical material."
+  bio: "Daniel is a Senior Lecturer in the School of Media & Communication at RMIT University and a leading scholar of screen cultures, digital creativity, and media theory. As a \"tinkerer-theorist\" with an extensive background in professional screen production, his research explores the impact of emerging technologies—including drones, game engines, and generative AI—on contemporary storytelling, digital aesthetics, and media practices."
   sessions:
     - title: "Gems in the Slop: Breaking and Creating with GenAI"
       anchor: "session-gems-slop"
@@ -65,7 +57,7 @@
   role: "Organiser; Speaker"
   affiliation: "University of Sydney"
   profile_url: "https://profiles.sydney.edu.au/olga.boichak"
-  bio: "Dr Olga Boichak is Senior Lecturer in Digital Cultures and Founder of the Computational Social Science Lab at the University of Sydney. She studies networks, narratives, and cultures of activism, developing computational tools for large-scale analysis of online communication."
+  bio: "Olga is Senior Lecturer in Digital Cultures and Founder of the Computational Social Science Lab at the University of Sydney. She studies networks, narratives, and cultures of activism, developing computational tools for large-scale analysis of online communication."
   sessions:
     - title: "What is Computational Social Science and Why It Matters in Australia?"
       anchor: "session-css-keynote"
@@ -79,7 +71,7 @@
   role: "Speaker"
   affiliation: "QUT Digital Media Research Centre"
   profile_url: "https://research.qut.edu.au/dmrc/people/kunal-chand/"
-  bio: "Kunal Chand researches large-scale image analysis and machine vision techniques for qualitative and quantitative social science, including tools for clustering visually similar images and identifying patterns in visual culture."
+  bio: "Kunal is a research fellow conducting large-scale image analysis and machine vision techniques for qualitative and quantitative social science, including tools for clustering visually similar images and identifying patterns in visual culture."
   sessions:
     - title: "Image Analysis for Qualitative and Quantitative Research"
       anchor: "session-image-analysis"
@@ -89,7 +81,7 @@
   role: "Speaker"
   affiliation: "Swinburne University of Technology"
   profile_url: "https://experts.swinburne.edu.au/12345-dominique-carlon"
-  bio: "Dominique Carlon is a Postdoctoral Research Fellow whose work focuses on the societal and cultural impacts of AI, human-machine dynamics, and developing frameworks for inclusive AI futures in Australia. Her interdisciplinary research examines how communities negotiate, shape, and contest emerging technologies, drawing on digital ethnography to analyze the roles of bots and automated communication platforms.."
+  bio: "Dominique is a Postdoctoral Research Fellow whose work focuses on the societal and cultural impacts of AI, human-machine dynamics, and developing frameworks for inclusive AI futures in Australia. Her interdisciplinary research examines how communities negotiate, shape, and contest emerging technologies, drawing on digital ethnography to analyze the roles of bots and automated communication platforms.."
   sessions:
     - title: "Ethics in Computational Social Science"
       anchor: "session-ethics-panel"
@@ -99,7 +91,7 @@
   role: "Speaker"
   affiliation: "University of Melbourne"
   profile_url: "https://findanexpert.unimelb.edu.au/profile/637022-kim-doyle"
-  bio: "Kim Doyle works on computational approaches to text as data in social science research, with a focus on using modern large language models to lower barriers to web text collection and analysis."
+  bio: "Kim is a Research Data Specialist at the Melbourne Data Analytics Platform (MDAP) and a PhD candidate in the School of Culture and Communication at the University of Melbourne. Her interdisciplinary research operates at the intersection of political communication, computational linguistics, and text-as-data methodologies, leveraging natural language processing (NLP) and modern Large Language Models (LLMs) to analyze social media discourse, data journalism, and digital political campaigns."
   sessions:
     - title: "Working with Text Using Computational Techniques"
       anchor: "session-working-with-text"
@@ -109,7 +101,7 @@
   role: "Speaker"
   affiliation: "Queensland University of Technology"
   profile_url: "https://www.qut.edu.au/about/our-people/academic-profiles/e.dehghan"
-  bio: "Dr Ehsan Dehghan is a Senior Lecturer and researcher whose work investigates the intersection of digital media, political communication, and discourse theory. His research focuses on the dynamics of digitally mediated political struggles, analyzing phenomena such as polarization, antagonism, and misinformation across mainstream and fringe social media platforms."
+  bio: "Ehsan is a Senior Lecturer and researcher whose work investigates the intersection of digital media, political communication, and discourse theory. His research focuses on the dynamics of digitally mediated political struggles, analysing phenomena such as polarization, antagonism, and misinformation across mainstream and fringe social media platforms."
   sessions:
     - title: "Ethics in Computational Social Science"
       anchor: "session-ethics-panel"
@@ -121,7 +113,7 @@
   role: "Speaker"
   affiliation: "RMIT University"
   profile_url: "https://www.rmit.edu.au/profiles/e/oliver-eklund"
-  bio: "Dr Oliver Eklund is a Vice-Chancellor's Research Fellow at RMIT specialising in media public policy, including television, screen, and new media policy in the digital era."
+  bio: "Oliver is a Vice-Chancellor's Research Fellow in the School of Media & Communication at RMIT University, specializing in media public policy across television, screen, and emerging digital formats. Drawing on his background as a former public servant for the Australian Government's media reform agenda, his research examines how legacy policy and regulatory frameworks can be updated to navigate the disruptions faced by consumers and industries in the modern digital media economy."
   sessions:
     - title: "Cross-Disciplinary Collaboration"
       anchor: "session-interdisciplinary-panel"
@@ -131,7 +123,7 @@
   role: "Speaker"
   affiliation: "ARC Centre of Excellence for ADM+S"
   profile_url: "https://www.admscentre.org.au/michael-esteban/"
-  bio: "Michael Esteban is a Senior Engineer at the Australian Internet Observatory. He works on data donation and participant-centred approaches to accessing digital trace data, including data download packages and tools."
+  bio: "Michael is a Senior Software Developer at the Australian Internet Observatory. He works on data donation and participant-centred approaches to accessing digital trace data, including data download packages and tools."
   sessions:
     - title: "Data Donations and Participant-Centric Research"
       anchor: "session-data-donations-day2"
@@ -153,7 +145,7 @@
   role: "Speaker"
   affiliation: "University of Melbourne"
   profile_url: "https://findanexpert.unimelb.edu.au/profile/1070371-hiruni-kegalle"
-  bio: "Hiruni Kegalle is a researcher at the University of Melbourne's School of Social and Political Sciences. She focuses on using ubiquitous computing, multi-modal sensing, and value-sensitive design to understand interactions between vulnerable road users—such as pedestrians and cyclists—and emerging micro-mobility technologies like e-scooters."
+  bio: "Hiruni is a postdoctoral researcher at the University of Melbourne's School of Social and Political Sciences. She focuses on using ubiquitous computing, multi-modal sensing, and value-sensitive design to understand interactions between vulnerable road users—such as pedestrians and cyclists—and emerging micro-mobility technologies like e-scooters."
   sessions:
     - title: "Cross-Disciplinary Collaboration"
       anchor: "session-interdisciplinary-panel"
@@ -163,7 +155,7 @@
   role: "Organiser; Speaker"
   affiliation: "ARC Centre of Excellence for ADM+S, QUT"
   profile_url: "https://www.admscentre.org.au/kateryna-kasianenko/"
-  bio: "Dr Kateryna Kasianenko is a Research Fellow at ADM+S, QUT. Her work examines how search practices and interfaces shape real-world events and partisanship, using LLM-based discourse modelling, network analysis, and practice mapping."
+  bio: "Kateryna is a Research Fellow at ADM+S, QUT. Her work examines how search practices and interfaces shape real-world events and partisanship, using LLM-based discourse modelling, network analysis, and practice mapping."
   sessions:
     - title: "Welcome & Introduction to SICSS Melbourne"
       anchor: "session-welcome"
@@ -189,7 +181,7 @@
   role: "Speaker"
   affiliation: "ACMI"
   profile_url: "https://www.admscentre.org.au/indigo-holcombe-james/"
-  bio: "Indigo Holcombe-James is Head of Research at ACMI—Australia's national museum of screen culture. Working through ethnographic methods mixed with statistics, she examines qualitative research in cultural institutions and the boundary between academic and audience-centred practice."
+  bio: "Indigo is Head of Research at ACMI—Australia's national museum of screen culture. Working through ethnographic methods mixed with statistics, she examines qualitative research in cultural institutions and the boundary between academic and audience-centred practice."
   sessions:
     - title: "Working With and In the Industry"
       anchor: "session-industry-panel"
@@ -209,7 +201,7 @@
   role: "Speaker"
   affiliation: "University of Melbourne"
   profile_url: "https://findanexpert.unimelb.edu.au/profile/551741-daniel-russo-batterham"
-  bio: "Dr Daniel Russo-Batterham is a Senior Research Fellow at the University of Melbourne's School of Computing and Information Systems. Working within the Melbourne Data Analytics Platform (MDAP), his transdisciplinary research applies data science, quantitative methods, natural language processing, and advanced data visualization to digital humanities projects, with a particular expertise in computational musicology."
+  bio: "Daniel is a Senior Research Fellow at the University of Melbourne's School of Computing and Information Systems. Working within the Melbourne Data Analytics Platform (MDAP), his transdisciplinary research applies data science, quantitative methods, natural language processing, and advanced data visualization to digital humanities projects, with a particular expertise in computational musicology."
   sessions:
     - title: "Working with Text Using Computational Techniques"
       anchor: "session-working-with-text"
@@ -221,7 +213,7 @@
   role: "Speaker"
   affiliation: "RMIT University"
   profile_url: "https://www.rmit.edu.au/profiles/p/sachin-pathiyan-cherumanal2"
-  bio: "Dr Sachin Pathiyan Cherumanal is a computer science researcher and data scientist specializing in Information Retrieval. His research focuses on developing and evaluating knowledge-augmented Conversational AI and retrieval-augmented generation (RAG) systems, with a particular emphasis on ensuring the fair dissemination of multiple perspectives in intelligent question-answering systems."
+  bio: "Sachin is a computer science researcher and data scientist specializing in Information Retrieval. His research focuses on developing and evaluating knowledge-augmented Conversational AI and retrieval-augmented generation (RAG) systems, with a particular emphasis on ensuring the fair dissemination of multiple perspectives in intelligent question-answering systems."
   sessions:
     - title: "RAG 101"
       anchor: "session-rag-101"
@@ -231,7 +223,7 @@
   role: "Speaker"
   affiliation: "University of Melbourne"
   profile_url: "https://findanexpert.unimelb.edu.au/profile/342078-richard-sinnott"
-  bio: "Richard Sinnott is a Professor of Applied Computing Systems and the Director of E-Research at the University of Melbourne's School of Computing and Information Systems. His research focuses on large-scale distributed systems, IT security, and big data architectures, leading an extensive portfolio of multidisciplinary projects that apply advanced software engineering to areas like clinical trials, epidemiology, and urban systems."
+  bio: "Richard is a Professor of Applied Computing Systems and the Director of E-Research at the University of Melbourne's School of Computing and Information Systems. His research focuses on large-scale distributed systems, IT security, and big data architectures, leading an extensive portfolio of multidisciplinary projects that apply advanced software engineering to areas like clinical trials, epidemiology, and urban systems."
   sessions:
     - title: "The AIReD platform for Australia-wide Social Media Discovery and Usage"
       anchor: "session-aired"
@@ -241,7 +233,7 @@
   role: "Speaker"
   affiliation: "ARC Centre of Excellence for ADM+S"
   profile_url: "https://www.admscentre.org.au/dan-tran/"
-  bio: "Dan Tran is a Software Developer with a background in computer science and applied mathematics. He applies programming skills to support research, teaching, and data processing in computational social science contexts."
+  bio: "Dan is a Software Developer with a background in computer science and applied mathematics. He applies programming skills to support research, teaching, and data processing in computational social science contexts."
   sessions:
     - title: "Screen Capture for Data Collection"
       anchor: "session-screen-capture"
@@ -263,7 +255,7 @@
   role: "Speaker"
   affiliation: "ARC Centre of Excellence for ADM+S"
   profile_url: "https://www.admscentre.org.au/kellie-vella/"
-  bio: "Kellie Vella is a Research Fellow at the University of Queensland's Centre for Digital Cultures & Societies and the Australian Internet Observatory. Her interdisciplinary research focuses on Human-Computer Interaction (HCI), exploring how digital systems and ambient technologies can be designed to foster social connectedness, support digital wellbeing, and connect children and older adults with outdoor environments."
+  bio: "Kellie is a Research Fellow at the University of Queensland's Centre for Digital Cultures & Societies and the Australian Internet Observatory. Her interdisciplinary research focuses on Human-Computer Interaction (HCI), exploring how digital systems and ambient technologies can be designed to foster social connectedness, support digital wellbeing, and connect children and older adults with outdoor environments."
   sessions:
     - title: "Data Donations and Participant-Centric Research"
       anchor: "session-data-donations-day2"
@@ -275,7 +267,7 @@
   role: "Organiser; Speaker"
   affiliation: "Deakin University"
   profile_url: "https://experts.deakin.edu.au/27631-matteo-vergani"
-  bio: "Dr Matteo Vergani is Associate Professor in Sociology at Deakin University and Director of the Tackling Hate Lab. He combines social science and data science to study prejudice, hate crime, extremism, and rigorous validation in computational social science."
+  bio: "Matteo is Associate Professor in Sociology at Deakin University and Director of the Tackling Hate Lab. He combines social science and data science to study prejudice, hate crime, extremism, and rigorous validation in computational social science."
   sessions:
     - title: "Validation in Computational Social Science"
       anchor: "session-validation"
@@ -285,7 +277,7 @@
   role: "Speaker"
   affiliation: "Deakin University"
   profile_url: "https://experts.deakin.edu.au/2528-svetha-venkatesh"
-  bio: "Prof Svetha Venkatesh is a Deakin Distinguished Professor and Co-Director of the Applied Artificial Intelligence Initiative (A2I2) at Deakin University. Her pioneering research focuses on statistical machine learning, pattern recognition, and Bayesian optimization, translating complex computational frameworks into real-world applications across large-scale surveillance, health analytics, and early intervention tech for autism."
+  bio: "Svetha is a Deakin Distinguished Professor and Co-Director of the Applied Artificial Intelligence Initiative (A2I2) at Deakin University. Her pioneering research focuses on statistical machine learning, pattern recognition, and Bayesian optimization, translating complex computational frameworks into real-world applications across large-scale surveillance, health analytics, and early intervention tech for autism."
   sessions:
     - title: "What is Computational Social Science and Why It Matters in Australia?"
       anchor: "session-css-keynote"
@@ -295,7 +287,7 @@
   role: "Speaker"
   affiliation: "RMIT University"
   profile_url: "https://www.rmit.edu.au/profiles/z/oleg-zendel"
-  bio: "Dr Oleg Zendel is a Research Fellow at RMIT University's node of the ARC Centre of Excellence for Automated Decision-Making and Society (ADM+S). His research focuses on information retrieval (IR), where he explores query performance prediction, search system pipelines, and user behavior analysis to optimize system performance and improve user experience."
+  bio: "Oleg is a Research Fellow at RMIT University's node of the ARC Centre of Excellence for Automated Decision-Making and Society (ADM+S). His research focuses on information retrieval (IR), where he explores query performance prediction, search system pipelines, and user behavior analysis to optimize system performance and improve user experience."
   sessions:
     - title: "Cross-Disciplinary Collaboration"
       anchor: "session-interdisciplinary-panel"
