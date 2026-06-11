@@ -225,8 +225,12 @@ details.day-acc[open] > summary::after {
 
 # Program
 
-<div class="schedule-note">
+<div class="schedule-note no-print">
 The program outlined below is not final, and while many speakers have confirmed their participation, session descriptions may change at the discretion of our speakers and will be adjusted accordingly. The final program and materials will be shared with participants throughout May and June. An emphasis will also be placed on networking and social activities that will take place on some of the days, including a networking dinner for participants, organisers, and invited speakers.
+</div>
+
+<div class="schedule-note" style="font-style: normal; background: #eef6f5;">
+<strong>Printable program</strong> — <a href="schedule-handout">Open handout version</a> · use your browser's Print → Save as PDF
 </div>
 
 <div class="week-header">
@@ -487,14 +491,17 @@ The program outlined below is not final, and while many speakers have confirmed 
 <div class="session-block">
   <p class="session-meta">15:30–17:00 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
   <p class="session-title">Working with Text Using Computational Techniques</p>
-  <p class="session-speakers"><strong>Speakers:</strong> <span class="speaker-tbd">TBC</span></p>
-  <p class="session-desc">We will demonstrate computational techniques for treating text as data in social science research, and discuss different resources and approaches that will enable participants to do text processing, word frequency analysis, topic modelling, and sentiment analysis.</p>
+  <p class="session-speakers"><strong>Speakers:</strong>
+    <a href="https://findanexpert.unimelb.edu.au/profile/637022-kim-doyle" target="_blank" rel="noopener noreferrer">Kim Doyle</a>,
+    <a href="https://findanexpert.unimelb.edu.au/profile/551741-daniel-russo-batterham" target="_blank" rel="noopener noreferrer">Daniel Russo-Batterham</a>
+  </p>
+  <p class="session-desc">The web is full of text data relevant to social science research, but collecting and analysing it has traditionally required serious programming skills. This hands-on session shows how modern large language models lower that barrier. Participants will learn to use LLM-powered tools to scrape and extract text from real websites, then see how the same approach can be used for typical textual analysis tasks, such as sentiment analysis. Participants will leave with tools and resources to apply in their own research.</p>
   <div class="outcomes-box">
     <p>Learning Outcomes</p>
     <ul>
-      <li>Preprocess data.</li>
-      <li>Analyse text, including topic modelling and sentiment analysis.</li>
-      <li>Assess the suitability and limitations of different methods and approaches.</li>
+      <li>Use LLM-powered tools to scrape and extract text from websites.</li>
+      <li>Apply LLM-assisted approaches to textual analysis tasks such as sentiment analysis.</li>
+      <li>Evaluate the suitability and limitations of LLM-based text collection and analysis methods.</li>
     </ul>
   </div>
 </div>
@@ -524,7 +531,7 @@ The program outlined below is not final, and while many speakers have confirmed 
   <p class="session-meta">09:00–10:30 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
   <p class="session-title">Screen Capture for Data Collection</p>
   <p class="session-speakers"><strong>Speakers:</strong>
-    <a href="https://www.admscentre.org.au/abdul-obeid/" target="_blank" rel="noopener noreferrer">Abdul Obeid</a>,
+    <a href="https://www.admscentre.org.au/dan-tran/" target="_blank" rel="noopener noreferrer">Dan Tran</a>,
     <a href="https://www.qut.edu.au/about/our-people/academic-profiles/daniel.angus" target="_blank" rel="noopener noreferrer">Daniel Angus</a> 
   </p>
   <p class="session-desc">Using the AIO Mobile Screen Capture tools as an example, we will discuss when and how to collect and analyse images, text and other data from users' screens. We will cover the technical and ethical requirements for this form of data collection and how to approach the subsequent analysis.</p>
@@ -625,7 +632,8 @@ The program outlined below is not final, and while many speakers have confirmed 
   <p class="session-speakers"><strong>Speakers:</strong>
     <a href="https://www.rmit.edu.au/profiles/z/oleg-zendel" target="_blank" rel="noopener noreferrer">Oleg Zendel</a>,
     <a href="https://www.rmit.edu.au/profiles/t/j-trippas" target="_blank" rel="noopener noreferrer">Johanne Trippas</a>,
-    <a href="https://findanexpert.unimelb.edu.au/profile/1070371-hiruni-kegalle" target="_blank" rel="noopener noreferrer">Hiruni Kegalle</a>
+    <a href="https://findanexpert.unimelb.edu.au/profile/1070371-hiruni-kegalle" target="_blank" rel="noopener noreferrer">Hiruni Kegalle</a>,
+    <a href="https://www.rmit.edu.au/profiles/e/oliver-eklund" target="_blank" rel="noopener noreferrer">Oliver Eklund</a>
   </p>
   <p class="session-desc">We will talk about what it means to be part of an interdisciplinary team and how to make sure that such collaboration works well. Drawing from individual experiences, the panel members will discuss how hard or easy it can be for researchers from different backgrounds to collaborate with each other and what considerations should be taken when working on a big project.</p>
   <div class="outcomes-box">
@@ -649,7 +657,7 @@ The program outlined below is not final, and while many speakers have confirmed 
     <a href="https://www.admscentre.org.au/indigo-holcombe-james/" target="_blank" rel="noopener noreferrer">Indigo Holcombe-James</a>
     <!-- <a href="https://www.linkedin.com/in/andrew-mcmahon-95461742/" target="_blank" rel="noopener noreferrer">Andrew McMahon</a> -->
   </p>
-  <p class="session-desc">Laura Gartry and Ariel Kuperman discuss how newsrooms can collaborate with data scientists and AI specialists to develop responsible, editorially grounded uses of AI. Drawing on applied experience, the session explores practical collaboration models that align technical capability with journalistic goals, and the challenge for public-service media of balancing (mis)trust in AI with the principles of trust and accuracy that are fundamental to good journalism, using localised news as an illustrative context.</p>
+  <p class="session-desc">Laura Gartry and Ariel Kuperman discuss how newsrooms can collaborate with data scientists and AI specialists to develop responsible, editorially grounded uses of AI. Drawing on applied experience, the session explores practical collaboration models that align technical capability with journalistic goals, and the challenge for public-service media of balancing (mis)trust in AI with the principles of trust and accuracy that are fundamental to good journalism, using localised news as an illustrative context. Drawing on her experience as Head of Research at ACMI—Australia's national museum of screen culture, Indigo Holcombe-James reflects on how qualitative research is conducted in a cultural context. Working primarily through ethnographic methods mixed with statistics, she discusses the boundary between academic methods and applied, audience-centred practice.</p>
 </div>
 
 <div class="break-block"><strong>12:30–13:30</strong> &nbsp; Lunch</div>
@@ -717,6 +725,24 @@ The program outlined below is not final, and while many speakers have confirmed 
       <li>Explain how MCP-based architectures connect natural language queries to analytical tools.</li>
       <li>Identify appropriate visualisation and notation tools for exploring patterns in encoded music collections.</li>
       <li>Reflect on the design considerations involved in building computational tools for non-technical domain researchers.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="session-block">
+  <p class="session-meta">Tue 30 Jun &nbsp;·&nbsp; 15:00–16:00 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
+  <p class="session-title">Gems in the Slop: Breaking and Creating with GenAI</p>
+  <p class="session-speakers"><strong>Speaker:</strong>
+    <a href="https://www.rmit.edu.au/profiles/b/daniel-binns" target="_blank" rel="noopener noreferrer">Daniel Binns</a>
+  </p>
+  <p class="session-desc">What happens when you stop trying to fix the errors? This session invites participants to rethink generative AI not as a tool to be optimised, but as a material to be broken — and to ask what those breaks reveal. Drawing on glitch aesthetics, media materialism, and prompt experimentation, we'll treat AI error not as failure but as data: a window into the underlying structures, associations, and assumptions baked into large language models. Through live demos and hands-on exercises, participants will design their own prompt rituals and use the resulting glitches, hallucinations, and semantic collapses to build richer understandings of how these systems actually work. We'll also consider what it means to translate research into creative form — and what generative AI makes possible (and impossible) in that process.</p>
+  <div class="outcomes-box">
+    <p>Learning Outcomes</p>
+    <ul>
+      <li>Understand how and why LLMs produce errors, hallucinations, and unexpected outputs.</li>
+      <li>Use glitchy and degraded outputs as analytical data about model behaviour.</li>
+      <li>Design prompt experiments that generate productive instability.</li>
+      <li>Explore creative research translation through generative tools.</li>
     </ul>
   </div>
 </div>
