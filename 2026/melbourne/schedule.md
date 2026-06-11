@@ -316,11 +316,11 @@ details.day-acc[open] > summary::after {
   </div>
 </div>
 
-<div class="social-block"><strong>Social Event — Trivia Night</strong> &nbsp;|&nbsp; Oxford Scholar &nbsp;·&nbsp; ~17:30</div>
-
   </div>
 </div>
 </details>
+
+<div class="social-block"><strong>Social Event — Trivia Night</strong> &nbsp;|&nbsp; Oxford Scholar &nbsp;·&nbsp; ~17:30</div>
 
 <!-- ═══════════════════ DAY 2 ═══════════════════ -->
 <details class="day-acc">
