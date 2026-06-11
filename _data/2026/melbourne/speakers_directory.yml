@@ -196,6 +196,16 @@
     - title: "Using LLMs to Create Data Analysis Pipelines for Text-as-Data Research"
       anchor: "session-llm-pipelines"
 
+- name: "Sonia Ramza"
+  sort_name: "Ramza, Sonia"
+  role: "Speaker"
+  affiliation: "Australian Research Data Commons (ARDC)"
+  profile_url: "https://ardc.edu.au/about-us/our-people/"
+  bio: "Sonia is a user support manager, responsible for user experience and providing training and support to researchers using the ARDC Nectar Research Cloud."
+  sessions:
+    - title: "Nectar Research Cloud"
+      anchor: "session-nectar"
+
 - name: "Daniel Russo-Batterham"
   sort_name: "Russo-Batterham, Daniel"
   role: "Speaker"
