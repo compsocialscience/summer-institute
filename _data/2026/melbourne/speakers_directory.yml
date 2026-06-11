@@ -196,6 +196,16 @@
     - title: "Using LLMs to Create Data Analysis Pipelines for Text-as-Data Research"
       anchor: "session-llm-pipelines"
 
+- name: "Andrew McMahon"
+  sort_name: "McMahon, Andrew"
+  role: "Speaker"
+  affiliation: "Australian Bureau of Statistics (ABS)"
+  profile_url: "https://www.linkedin.com/in/andrew-mcmahon-95461742/"
+  bio: "Andrew McMahon is the Program Manager for Data Science and Emerging Methods at the Australian Bureau of Statistics, where he leads the development of new statistical solutions, big data integration, and AI methodologies."
+  sessions:
+    - title: "Working With and In the Industry"
+      anchor: "session-industry-panel"
+
 - name: "Sonia Ramza"
   sort_name: "Ramza, Sonia"
   role: "Speaker"
