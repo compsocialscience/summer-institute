@@ -575,7 +575,7 @@ details.day-acc[open] > summary::after {
 
 <div class="session-block" id="session-rag-101">
   <p class="session-meta">13:30–14:30 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
-  <p class="session-title">RAG 101</p>
+  <p class="session-title">RAG Systems in Research</p>
   <p class="session-speakers"><strong>Speakers:</strong>
     <a href="https://www.admscentre.org.au/futoon-abushaqra/" target="_blank" rel="noopener noreferrer">Futoon Abushaqra</a>,
     <a href="https://www.rmit.edu.au/profiles/p/sachin-pathiyan-cherumanal2" target="_blank" rel="noopener noreferrer">Sachin Pathiyan Cherumanal</a>
