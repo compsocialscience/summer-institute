@@ -437,7 +437,7 @@ details.day-acc[open] > summary::after {
   <div class="sessions-inner">
 
 <div class="session-block" id="session-css-theory">
-  <p class="session-meta">09:00–10:30 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Panel</p>
+  <p class="session-meta">09:00–10:30 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
   <p class="session-title">Does Computational Social Science Lack Theory?</p>
   <p class="session-speakers"><strong>Speakers:</strong>
     <a href="https://www.qut.edu.au/about/our-people/academic-profiles/e.dehghan" target="_blank" rel="noopener noreferrer">Ehsan Dehghan</a>
