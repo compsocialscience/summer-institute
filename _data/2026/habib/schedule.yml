@@ -43,7 +43,7 @@
   events:
     - name: "09:30 am - 10:00 am Refreshments"
     - name: "10:00 am - 11:30 am Workshop by Dr. Tafseer Ahmed Khan - Using LLMs for Social Science Research ([Slides](https://drive.google.com/file/d/164D5BOfHRD-7RPMCSQLJQDeZVUW2JErZ/view?usp=sharing)) ([Exercises](https://drive.google.com/file/d/1DeDQ1JOlCT-ViaaM0ZBBU1LISnUqdRHI/view?usp=sharing)) ([Notebook](https://drive.google.com/file/d/1sL_xQ9ZvZZmb2S--8gX41WHd_UsqQ19s/view?usp=sharing))"
-    - name: "11:30 am - 01:00 pm Guest Talk by Dr. Abdul Samad - AI and LLMs for Social Science"
+    - name: "11:30 am - 01:00 pm Guest Talk by Dr. Abdul Samad - AI and LLMs for Social Science ([Explainging Transformers - Notebook](https://drive.google.com/file/d/14EcSngayqHnkt4LvKrufbsgcazdRqmfr/view?usp=sharing)) ([Transformers Practice - Notebook](https://drive.google.com/file/d/1sPnt5DaSA0AM-q-NnfK2mHR2SuOdYEL9/view?usp=sharing))"
     - name: "01:00 pm - 03:00 pm Lunch Break"
     - name: "03:00 pm - 04:30 pm Bouncing Ideas"
     - name: "04:30 pm - 05:00 pm Refreshments"
