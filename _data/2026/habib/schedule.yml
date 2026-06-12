@@ -33,7 +33,7 @@
   events:
     - name: "09:30 am - 10:00 am Refreshments"
     - name: "10:00 am - 11:30 am Workshop by Dr. Qasim Pasta - Network Analysis ([Slides](https://drive.google.com/file/d/1LcY32C_qTFZ8t4gJMrU4FMIIZD5zetTq/view?usp=sharing))"
-    - name: "11:30 am - 01:00 pm Guest Talk by Dr. Ihsan Ayyub Qazi - Bridging the Care Gap: Doctor-AI Collaboration in Diagnostic Reasoning"
+    - name: '11:30 am - 01:00 pm Guest Talk by Dr. Ihsan Ayyub Qazi - Bridging the Care Gap: Doctor-AI Collaboration in Diagnostic Reasoning'
     - name: "01:00 pm - 02:00 pm Lunch"
     - name: "02:00 pm - 04:30 pm Group Exercise ([Slides](https://drive.google.com/file/d/1mu2NbC2R4NvhbzqrRWkQ_Z5V7CoPfkVb/view?usp=sharing)) ([R Tutorial](https://drive.google.com/file/d/19kmxstPblPCNJsXA6yvS1o9sS_C6Bqaq/view?usp=sharing)) ([Karate.txt - File for Tutorial](https://drive.google.com/file/d/1eMjuwJ4MyaZFGd4vSOaSsrlr2j5JCg7g/view?usp=sharing)) ([Karachi Bus Network](https://drive.google.com/file/d/13yVioDYLXG8q7pMMP0tKuamK4AwN8Tnh/view?usp=sharing))"
     - name: "04:30 pm - 05:00 pm Refreshments"
@@ -42,7 +42,7 @@
   name: "AI and LLMS for Social Sciences"
   events:
     - name: "09:30 am - 10:00 am Refreshments"
-    - name: "10:00 am - 11:30 am Workshop by Dr. Tafseer Ahmed Khan - Using LLMs for Social Science Research"
+    - name: "10:00 am - 11:30 am Workshop by Dr. Tafseer Ahmed Khan - Using LLMs for Social Science Research ([Slides](https://drive.google.com/file/d/164D5BOfHRD-7RPMCSQLJQDeZVUW2JErZ/view?usp=sharing))"
     - name: "11:30 am - 01:00 pm Guest Talk by Dr. Abdul Samad - AI and LLMs for Social Science"
     - name: "01:00 pm - 03:00 pm Lunch Break"
     - name: "03:00 pm - 04:30 pm Bouncing Ideas"
