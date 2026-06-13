@@ -303,11 +303,11 @@ details.day-acc[open] > summary::after {
 
 <div class="session-block" id="session-bias-css">
   <p class="session-meta">15:15–16:30 &nbsp;|&nbsp; Hybrid &nbsp;|&nbsp; Keynote</p>
-  <p class="session-title">Bias in Computational Social Science</p>
+  <p class="session-title">Social Bias in Computational Social Science</p>
   <p class="session-speakers"><strong>Speakers:</strong>
     <a href="https://ahrkat.github.io/" target="_blank" rel="noopener noreferrer">Ahrabhi Kathirgamalingam</a>
   </p>
-  <p class="session-desc">Learn about common sources of bias in digital media data, and those that stem from data collection strategies, computational methods, and research designs that incorporate digital data and methodologies. This session contributes to one of our main discussions: what are the limitations and opportunities of CSS and digital methods?</p>
+  <p class="session-desc">Learn about common sources of social bias in digital media data, and those that stem from data collection strategies, computational methods, and research designs that incorporate digital data and methodologies. This session contributes to one of our main discussions: what are the limitations and opportunities of CSS and digital methods?</p>
   <div class="outcomes-box">
     <p>Learning Outcomes</p>
     <ul>
