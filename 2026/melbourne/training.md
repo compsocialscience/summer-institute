@@ -268,10 +268,11 @@ This page compiles pre-reading, tools, and further reading for each confirmed se
 
 <div class="res-card">
   <p class="res-card-meta">15:15–16:30 &nbsp;|&nbsp; Keynote</p>
-  <p class="res-card-title">Bias in Computational Social Science</p>
+  <p class="res-card-title">Social Bias in Computational Social Science</p>
 
   <h4>Pre-reading</h4>
   <ul>
+    <li><a href="https://osf.io/preprints/socarxiv/xr45y_v1" target="_blank" rel="noopener noreferrer">Reflecting on Social Bias: Challenges and Opportunities for Computational Social Science</a> — Kathirgamalingam et al., 2025. The keynote speaker's forthcoming paper on social bias in CSS; the talk builds heavily on this preprint. <span class="res-type">Preprint</span></li>
     <li><a href="https://doi.org/10.3389/fdata.2019.00013" target="_blank" rel="noopener noreferrer">Social Data: Biases, Methodological Pitfalls, and Ethical Boundaries</a> — Olteanu et al., 2019. A comprehensive survey of biases arising from digital data sources, collection strategies, and analytical methods. <span class="res-type">Paper</span></li>
     <li><a href="https://www.bitbybitbook.com/en/1st-ed/observing-behavior/" target="_blank" rel="noopener noreferrer">Bit by Bit — Chapter 2: Observing Behavior</a> — Salganik, 2018. Covers limitations and biases inherent in using digital trace data for research. <span class="res-type">Book</span></li>
   </ul>
