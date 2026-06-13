@@ -15,9 +15,9 @@
 - name: "Ahrabhi Kathirgamalingam"
   sort_name: "Kathirgamalingam, Ahrabhi"
   role: "Speaker"
-  affiliation: "University of Melbourne"
+  affiliation: "GESIS, Germany"
   profile_url: "https://ahrkat.github.io/"
-  bio: "Ahrabhi is a Postdoctoral Research Associate at GESIS – Leibniz Institute for the Social Sciences in Germany, working within the Computational Social Science department and the Transparent Social Analytics team. Her research operates at the intersection of political communication and computational methods, specifically focusing on social bias, automated racism detection, and the dynamics of polarization and migration in mediated and parliamentary discourses."
+  bio: "Ahrabhi a Postdoctoral Research Associate at GESIS – Leibniz Institute for the Social Sciences in Germany, working within the Computational Social Science department and the Transparent Social Analytics team. Her research operates at the intersection of political communication and computational methods, specifically focusing on social bias, automated racism detection, and the dynamics of polarization and migration in mediated and parliamentary discourses."
   sessions:
     - title: "Bias in Computational Social Science"
       anchor: "session-bias-css"
