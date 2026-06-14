@@ -1,5 +1,82 @@
 - date: "July 20 - July 31, 2026"
   events:
-    - name: "Schedule coming soon. Check back for updates!" # Update this line or add markdown for your site's schedule.
+    - name: 
 
-  # Our tentative schedule can be seen [here](www.google.com). Our program focuses on ... . We will invite guest speakers to provide an overview of ..."
+- date: July 20, 2026
+  name: "Day 1: Introduction to SICSS and CSS"
+  events:
+    - name: "10:00 - 12:00 Housekeeping & Logistics #Theme Overview – Tech for Open Minds ([Dr. Rhoda Asuquo](https://www.linkedin.com/in/rhoda-asuquo-50bb70168))"
+    - name: "12:00 – 13:30 Lunch Break"
+    - name: "13:30 - 15:30 Introduction: About SICSS & CSS ([Prof Chris Bail (SICSS Founder, USA)](https://sicss.io/curriculum)) , ([Matthew J. Salganik(USA)](https://sicss.io/curriculum)"
+    - name: "15:30 – 16:00 Tea Break"
+    - name: "16:00 - 17:00 Introduction: WikiMedia Foundation ([Wikimedia Team](https://wikimediafoundation.org/))" 
+
+- date: July 21, 2026
+  name: "Day 2: Dynamics of Social Problems and Digital Solutions"
+  events:
+    - name: "10:00 - 12:00 Expert Insight [Problem: Misinformation, Knowledge Inequality, Public Health knowledge, Gender bias, Information reliability, Geographic Representation Graph etc. Digital Solutions: Knowledge graph, Topic evolution chat, Topic modeling to discover themes in articles, Text classification (e.g., classify articles by domain), Sentiment analysis, Natural Language Processing]  ([Prof. Aniekan Brown](https://www.linkedin.com/in/akaninyene-mark-69a4032a2/)) ([Augustine Otobi](www.linkedin.com/in/augustine-ogbaji-otobi-166756103/))"
+    - name: "12:00 – 13:30 Lunch Break"
+    - name: "13:30 - 15:30 Exploring Data Structure, API Access, Data Cleaning and Preprocessing ([Dr. J. Nathan Matias](https://natematias.com))"
+    - name: "15:30 – 16:00 Tea Break"
+    - name: "16:00 - 17:00 Research Speed Dating: Group Project Formation #Problem Dart Wheel ([Dr. Uduakobong Otu](https://www.linkedin.com/in/uduakobong-otu-004a5b1a4/))"  
+
+- date: July 22, 2026
+  name: "Day 3: Data Scraping and Visualization"
+  events:
+    - name: "10:00 - 12:00 Building web scraping architecture: HTML Tags, Article text, Hyperlinks, Categories, Revision history. #Wikipedia scraper ([Facilitator](https://sicss.io/2026/uyo/people))"
+    - name: "12:00 – 13:30 Lunch Break"
+    - name: "13:30 - 15:30 LLM Visualization (Knowledge Graph, Topic evolution charts etc. #WikiText) ([Joseph David](https://www.linkedin.com/in/josephdavid970/))"
+    - name: "15:30 – 16:00 Tea Break"
+    - name: "16:00 - 17:00 Communicating Computational Research ([Dr. Moses Udoisoh](https://www.linkedin.com/in/moses-udoisoh-619b921a8/))"  
+
+- date: July 23, 2026
+  name: "Day 4: Natural Language Processing for Social Research"
+  events:
+    - name: "10:00 - 12:00 Accessing Big Data for NLP, Preprocessing, Tokenization etc. #Wikipedia dump ([Dr. J. Nathan Matias](https://natematias.com))"
+    - name: "12:00 – 13:30 Lunch Break"
+    - name: "13:30 - 15:30 Feature Engineering (TF-IDF vectors, Word embeddings) ([Facilitator](https://sicss.io/2026/uyo/people))"
+    - name: "15:30 – 16:00 Tea Break"
+    - name: "16:00 - 17:00 Model Training and Deployment (NLP models) ([Augustine Otobi](https://www.linkedin.com/in/augustine-ogbaji-otobi-166756103/))"  
+
+- date: July 24, 2026
+  name: "Day 5: PROJECT KICK-OFF"
+  events:
+    - name: "10:00 - 12:00 Group Brainstorm (Problem Statement, Computational Method Selection) ([Dr. Uduakobong Otu](https://www.linkedin.com/in/uduakobong-otu-004a5b1a4/))"
+    
+
+- date: July 25, 2026
+  name: "Day 6: Off Day"
+  
+
+- date: July 26, 2026
+  name: "Day 7: Off Day" 
+
+- date: July 27, 2026
+  name: "Day 8: Computational Research Paper"
+  events:
+    - name: "10:00 - 12:00 Paper Development and Peer Review Process ([Facilitator](https://sicss.io/2026/uyo/people))"
+    - name: "12:00 – 17:00 Group Project ([Participants](https://sicss.io/2026/uyo/people))" 
+
+- date: July 28, 2026
+  name: "Day 9: Machine Learning for Social Insight"
+  events:
+    - name: "10:00 - 12:00 Classification and Clustering (Articles by topic, detect biased articles, detect misinformation patterns) (([George Odo](https://www.linkedin.com/in/odo-george-21920b378/)), [Augustine Otobi](www.linkedin.com/in/augustine-ogbaji-otobi-166756103/))"
+    - name: "12:00 – 17:00 Group Project ([Participants](https://sicss.io/2026/uyo/people))"  
+
+- date: July 29, 2026
+  name: "Day 10: Quantitative Narrative Analysis"
+  events:
+    - name: "10:00 - 12:00 Quantitative Narrative Analysis ([Dr Yohanna Waliya](https://www.linkedin.com/in/yohanna-waliya/))"
+    - name: "12:00 – 17:00 Group Project ([Participants](https://sicss.io/2026/uyo/people))"  
+
+- date: July 30, 2026
+  name: "Day 11: Translating Science to Technology"
+  events:
+    - name: "10:00 - 12:00 Fireside Chat with a Research Innovator ([Facilitator](https://sicss.io/2026/uyo/people))"
+    - name: "12:00 – 17:00 Group Project ([Participants](https://sicss.io/2026/uyo/people))"  
+
+- date: July 31, 2026
+  name: "Day 12: Final Day"
+  events:
+    - name: "10:00 - 12:30 Project Presentations & Critical Feedback ([Prof. Timothy A. Ekwere](https://www.linkedin.com/in/timothy-ekwere-mbbch-m-sc-ph-fmcpath-phd-a69b9834/)), ([Prof. Tunde Ope-Davies](https://www.linkedin.com/in/tunde-ope-davies-opeibi-b376568/))"
+    - name: "12:30 – Departure"
