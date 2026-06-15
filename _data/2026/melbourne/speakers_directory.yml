@@ -25,9 +25,9 @@
 - name: "Laura Gartry"
   sort_name: "Gartry, Laura"
   role: "Speaker"
-  affiliation: "ABC News"
+  affiliation: "RMIT/ ADM+S"
   profile_url: "https://www.abc.net.au/news/laura-gartry/5595204"
-  bio: "Laura is the Newsroom Innovation Lead and a former investigative digital producer for ABC's Four Corners, specializing in creative, inclusive, and long-form storytelling. Following her Reuters Journalism Fellowship at the University of Oxford—where she researched editorial algorithms and public interest journalism—her current work operates at the intersection of technology and media, guiding newsrooms to personalising the news and adopt emerging formats and AI responsibly."
+  bio: "Laura is a PhD researcher at RMIT and Newsroom Innovation Lead at ABC News. As a former investigative digital producer for ABC's Four Corners, she specialised in creative, inclusive, and long-form storytelling. Following her Reuters Journalism Fellowship at the University of Oxford—where she researched editorial algorithms and public-interest journalism—her current work operates at the intersection of technology and media, guiding newsrooms to adopt emerging formats and AI responsibly."
   sessions:
     - title: "Working With and In the Industry"
       anchor: "session-industry-panel"
