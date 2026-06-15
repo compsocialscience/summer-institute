@@ -408,9 +408,9 @@ details.day-acc[open] > summary::after {
   <div class="outcomes-box">
     <p>Learning Outcomes</p>
     <ul>
-      <li>Describe what cloud compute is.</li>
-      <li>Learn how to access Nectar.</li>
-      <li>Plan your compute needs when working on a research project.</li>
+      <li>Describe what cloud compute is (and differences with HPC).</li>
+      <li>Learn how to access Nectar Cloud & Managed Services available.</li>
+      <li>Use cases from real world research.</li>
     </ul>
   </div>
 </div>
