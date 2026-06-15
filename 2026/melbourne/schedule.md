@@ -480,7 +480,8 @@ details.day-acc[open] > summary::after {
   <p class="session-speakers"><strong>Speakers:</strong>
     <a href="https://www.admscentre.org.au/kellie-vella/" target="_blank" rel="noopener noreferrer">Kellie Vella</a>,
     <a href="https://www.admscentre.org.au/lauren-hayden/" target="_blank" rel="noopener noreferrer">Lauren Hayden</a>,
-    <a href="https://www.admscentre.org.au/michael-esteban/" target="_blank" rel="noopener noreferrer">Michael Esteban</a>
+    <a href="https://www.admscentre.org.au/michael-esteban/" target="_blank" rel="noopener noreferrer">Michael Esteban</a>,
+    <a href="https://www.admscentre.org.au/dan-tran/" target="_blank" rel="noopener noreferrer">Dan Tran</a>
   </p>
   <p class="session-desc">We will introduce data download packages as an ethical and participant-centred approach to accessing digital trace data. Participants will learn how researchers are currently using DDPs, set up a data donation project, and explore donated datasets using computational tools developed or supported by the AIO.</p>
   <div class="outcomes-box">
