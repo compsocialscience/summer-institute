@@ -253,7 +253,7 @@
   role: "Speaker"
   affiliation: "ARC Centre of Excellence for ADM+S"
   profile_url: "https://www.admscentre.org.au/dan-tran/"
-  bio: "Dan is a Software Developer with a background in computer science and applied mathematics. He applies programming skills to support research, teaching, and data processing in computational social science contexts."
+  bio: "Dan is a Software Developer at the Australian Internet Observatory, where he applies his computer science expertise to support research in computational social science. He develops digital tools that enable the management, visualisation, and analysis of collected data."
   sessions:
     - title: "Screen Capture for Data Collection"
       anchor: "session-screen-capture"
