@@ -18,23 +18,21 @@
   name: Collecting Digital Trace Data 
   events:
     - name: "Zoom"
-    - name: "10:00 - 10:15 Logistics and introduction to group exercise"
-    - name: "10:15 - 11:30 Designing a Research Question (Small Groups)"
-    - name: "11:30 - 12:15 Phase 1: Discussing the Research Questions and Data (Everybody)"
+    - name: "10:00 - 10:15 Logistics and introduction"
+    - name: "10:15 - 12:15 Workshop: Digital Trace Data - **Hugo Medeiros**"
     - name: "12:15 - 13:30 Break"
-    - name: "1:30 - 3:00 Phase 2: Discussing Strengths & Benefits plus Hybrid Designs with Digital Trace Data (Small Groups)"
-    - name: "3:00 - 3:45 Discussing Strengths & Benefits plus Hybrid Designs"
-    - name: "3:45 - 4:00 Break"
-    - name: "4:00 - 5:00 GUEST-SPEAKER:"
+    - name: "1:30 - 3:00 Workshop: Digital Trace Data - **Hugo Medeiros**"
+    - name: "3:30 - 4:00 Break"
+    - name: "4:00 - 5:00 GUEST-SPEAKER: **Leonardo Nascimento** and **Eric Brasil**"
 
 - date: 2026-07-29
   name:  Automated Text Analysis
   events:
     - name: "Zoom"
     - name: "10:00 - 10:15 Logistics and introduction"
-    - name: "10:15 - 11:30 Workshop: Automated Text Analysis"
+    - name: "10:15 - 11:30 Workshop: Automated Text Analysis **Felipe Lamarca**"
     - name: "11:30 - 13:30 Break"
-    - name: "1:30 - 3:00 Workshop:"
+    - name: "1:30 - 3:00 Workshop: Automated Text Analysis - **Felipe Lamarca**"
     - name: "3:30 - 4:00 Debrief and logistics"
     - name: "4:00 - 5:00"
 
@@ -51,7 +49,7 @@
     - name: "1:00 - 1:30 Lunch break"
     - name: "1:30 - 3:30 Image Analysis Group Exercise (Small Group)"
     - name: "3:30 - 4:00 Debrief and logistics"
-    - name: "4:00 - 5:00  GUEST-SPEAKER:"
+    - name: "4:00 - 5:00  GUEST-SPEAKER: **Elias Bitencourt**"
 
 - date: 2026-07-31
   name: Research Speed Dating 
@@ -77,7 +75,7 @@
   name: Work on Group Projects 
   events:
     - name: "Zoom"
-    - name: "4:00 - 5:00  GUEST-SPEAKER:"
+    - name: "4:00 - 5:00  GUEST-SPEAKER: **Jess Reia**"
     - name: "All-day: group projects"
 
 - date: 2026-08-04
