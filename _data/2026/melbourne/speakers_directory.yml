@@ -47,7 +47,7 @@
   role: "Speaker"
   affiliation: "Industry"
   profile_url: "https://people.csiro.au/W/S/Stephen-Wan"
-  bio: "Dr Stephen Wan is a Team Leader and Senior Research Scientist at CSIRO’s Data61, where his work operates at the intersection of computational linguistics, artificial intelligence, and domain-specific science applications. With over 20 years of research experience and a PhD in Computational Linguistics from Macquarie University, he focuses on deploying natural language processing (NLP), text mining, and machine learning pipelines to extract actionable insights from complex text data."
+  bio: "Stephen is a Team Leader and Senior Research Scientist at CSIRO’s Data61, where his work operates at the intersection of computational linguistics, artificial intelligence, and domain-specific science applications. With over 20 years of research experience and a PhD in Computational Linguistics from Macquarie University, he focuses on deploying natural language processing (NLP), text mining, and machine learning pipelines to extract actionable insights from complex text data."
   sessions:
     - title: "Working With and In the Industry
       anchor: "session-industry-panel"
