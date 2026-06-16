@@ -290,11 +290,13 @@ details.day-acc[open] > summary::after {
 <div class="session-block" id="speed-dating">
   <p class="session-meta">13:30–14:30 &nbsp;|&nbsp; In-person</p>
   <p class="session-title">Research Speed Dating</p>
+  <p class="session-desc">Learn about the future of computational social science by getting to know your fellow participants. You will speak to several particpants for 2 minutes, and will share with the group your take on the tendencies and intersections in the research interests of the cohort that you observed.</p>
   <div class="outcomes-box">
     <p>Learning Outcomes</p>
     <ul>
-      <li>Discuss your research project with colleagues</li>
-      <li>Explain your career goals succintly</li>
+      <li>Practice delivering a short pitch about yourself as a CSS scholar and your interest</li>
+      <li>Practice asking questions that elicit your peers' research interests</li>
+      <li>Discover where your research interests intersect with other SICSS-Melbourne participants</li>
     </ul>
   </div>
 </div>
@@ -342,7 +344,7 @@ details.day-acc[open] > summary::after {
   <div class="sessions-inner">
 
 <div class="session-block" id="session-ethics-panel">
-  <p class="session-meta">09:00–10:30 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Panel</p>
+  <p class="session-meta">09:00–10:30 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Talk</p>
   <p class="session-title">Ethics in Computational Social Science</p>
   <p class="session-speakers"><strong>Speakers:</strong>
     <a href="https://experts.swinburne.edu.au/12345-dominique-carlon" target="_blank" rel="noopener noreferrer">Dominique Carlon</a>,
@@ -390,9 +392,14 @@ details.day-acc[open] > summary::after {
     <a href="https://profiles.sydney.edu.au/olga.boichak" target="_blank" rel="noopener noreferrer">Olga Boichak</a>,
     <a href="https://www.admscentre.org.au/kateryna-kasianenko/" target="_blank" rel="noopener noreferrer">Kateryna Kasianenko</a>
   </p>
+  <p class="session-desc">Computational social science is a highly interdisciplinary field. The same cannot be said about many academic publishing avenues, such as journals and conferences. This means that findings from CSS studies need to be translated in ways that persuade peer reviewers. The speakers will draw from their experience to discuss how this challenge can be overcome.</p>
   <div class="outcomes-box">
     <p>Learning Outcomes</p>
-    <ul><li><em>TBD</em></li></ul>
+    <ul>
+      <li>Discover publishing avenues and approaches available to CSS scholars</li>
+      <li>Consider the potential objections "Reviewer 2" may have about your CSS research</li>
+      <li>Develop approaches for translating CSS research into publications</li>
+    </ul>
   </div>
 </div>
 
@@ -663,9 +670,10 @@ details.day-acc[open] > summary::after {
     <a href="https://www.abc.net.au/news/laura-gartry/5595204" target="_blank" rel="noopener noreferrer">Laura Gartry</a>,
     <a href="https://www.linkedin.com/in/arielkuperman/" target="_blank" rel="noopener noreferrer">Ariel Kuperman</a>,
     <a href="https://www.admscentre.org.au/indigo-holcombe-james/" target="_blank" rel="noopener noreferrer">Indigo Holcombe-James</a>,
-    <a href="https://www.linkedin.com/in/andrew-mcmahon-95461742/" target="_blank" rel="noopener noreferrer">Andrew McMahon</a>
+    <a href="https://www.linkedin.com/in/andrew-mcmahon-95461742/" target="_blank" rel="noopener noreferrer">Andrew McMahon</a>,
+    <a href="https://people.csiro.au/W/S/Stephen-Wan" target="_blank" rel="noopener noreferrer">Stephen Wan</a>
   </p>
-  <p class="session-desc">Laura Gartry and Ariel Kuperman discuss how newsrooms can collaborate with data scientists and AI specialists to develop responsible, editorially grounded uses of AI. Drawing on applied experience, the session explores practical collaboration models that align technical capability with journalistic goals, and the challenge for public-service media of balancing (mis)trust in AI with the principles of trust and accuracy that are fundamental to good journalism, using localised news as an illustrative context. Drawing on her experience as Head of Research at ACMI—Australia's national museum of screen culture, Indigo Holcombe-James reflects on how qualitative research is conducted in a cultural context. Working primarily through ethnographic methods mixed with statistics, she discusses the boundary between academic methods and applied, audience-centred practice.</p>
+  <p class="session-desc">Laura Gartry and Ariel Kuperman discuss how newsrooms can collaborate with data scientists and AI specialists to develop responsible, editorially grounded uses of AI. Drawing on applied experience, the session explores practical collaboration models that align technical capability with journalistic goals, and the challenge for public-service media of balancing (mis)trust in AI with the principles of trust and accuracy that are fundamental to good journalism, using localised news as an illustrative context. Drawing on her experience as Head of Research at ACMI—Australia's national museum of screen culture, Indigo Holcombe-James reflects on how qualitative research is conducted in a cultural context. Working primarily through ethnographic methods mixed with statistics, she discusses the boundary between academic methods and applied, audience-centred practice. Stephen Wan speaks of his experience of leading a team of computational linguists at CSIRO who developed an approach to extract information from scientific literature, and the journey the team undertook to try to pitch the approach as a product to industry.</p>
 </div>
 
 <div class="break-block"><strong>12:30–13:30</strong> &nbsp; Lunch</div>
@@ -737,7 +745,7 @@ details.day-acc[open] > summary::after {
   </div>
 </div>
 
-<div class="session-block" id="session-gems-slop">
+<!-- <div class="session-block" id="session-gems-slop">
   <p class="session-meta">Tue 30 Jun &nbsp;·&nbsp; 15:00–16:00 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
   <p class="session-title">Gems in the Slop: Breaking and Creating with GenAI</p>
   <p class="session-speakers"><strong>Speaker:</strong>
@@ -753,7 +761,7 @@ details.day-acc[open] > summary::after {
       <li>Explore creative research translation through generative tools.</li>
     </ul>
   </div>
-</div>
+</div> -->
 
 <div class="session-block" id="session-validation">
   <p class="session-meta">Wed 1 Jul &nbsp;·&nbsp; 09:00 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
