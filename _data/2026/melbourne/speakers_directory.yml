@@ -42,15 +42,15 @@
     - title: "Working With and In the Industry"
       anchor: "session-industry-panel"
 
-- name: "Daniel Binns"
-  sort_name: "Binns, Daniel"
+- name: "Stephen Wan"
+  sort_name: "Wan, Stephen"
   role: "Speaker"
-  affiliation: "RMIT University"
-  profile_url: "https://www.rmit.edu.au/profiles/b/daniel-binns"
-  bio: "Daniel is a Senior Lecturer in the School of Media & Communication at RMIT University and a leading scholar of screen cultures, digital creativity, and media theory. As a \"tinkerer-theorist\" with an extensive background in professional screen production, his research explores the impact of emerging technologies—including drones, game engines, and generative AI—on contemporary storytelling, digital aesthetics, and media practices."
+  affiliation: "Industry"
+  profile_url: "https://people.csiro.au/W/S/Stephen-Wan"
+  bio: "Dr Stephen Wan is a Team Leader and Senior Research Scientist at CSIRO’s Data61, where his work operates at the intersection of computational linguistics, artificial intelligence, and domain-specific science applications. With over 20 years of research experience and a PhD in Computational Linguistics from Macquarie University, he focuses on deploying natural language processing (NLP), text mining, and machine learning pipelines to extract actionable insights from complex text data."
   sessions:
-    - title: "Gems in the Slop: Breaking and Creating with GenAI"
-      anchor: "session-gems-slop"
+    - title: "Working With and In the Industry
+      anchor: "session-industry-panel"
 
 - name: "Olga Boichak"
   sort_name: "Boichak, Olga"
