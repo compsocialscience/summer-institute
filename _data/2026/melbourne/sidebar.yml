@@ -6,10 +6,12 @@
   url: "organisers"
 - name: Program
   url: "schedule"
-- name: "Speakers & Participants"
-  url: "speakers_and_participants"
 - name: "Training Materials"
   url: "training"
+- name: Speakers
+  url: "speakers"
+- name: Participants
+  url: "participants"
 - name: News
   url: "news"
 
