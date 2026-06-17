@@ -138,7 +138,7 @@ partner_site: melbourne
 # Participants
 
 <div class="people-intro">
-Meet the participants accepted to SICSS-Melbourne 2026.
+Meet the participants at SICSS-Melbourne 2026.
 </div>
 
 <div class="people-grid">
