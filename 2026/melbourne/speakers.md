@@ -141,8 +141,6 @@ partner_site: melbourne
 Meet the organisers and invited speakers for SICSS-Melbourne 2026. Speakers link to the sessions they are delivering on the <a href="schedule">program</a>.
 </div>
 
-## Speakers &amp; Organisers
-
 <div class="people-grid">
 {% assign speakers = site.data.2026.melbourne.speakers_directory | sort: 'sort_name' %}
 {% for person in speakers %}
