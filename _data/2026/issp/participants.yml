@@ -1,6 +1,39 @@
-- name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+- name: "APPOH Kodzo Edem"
+  image: /assets/images/appoh_kodzo_edem.jpg
+  bio: >
+  APPOH Kodzo Edem est démographe, sociologue de formation et chercheur,
+  actuellement en stage à l’Unité de Recherche Démographique (URD) de
+  l’Université de Lomé. Son parcours académique comprend des études
+  universitaires en sociologie ainsi qu’une formation en enseignement à
+  l’École Normale d’Instituteurs, ce qui lui a permis de développer une
+  solide base en sciences sociales, en pédagogie et en analyse des
+  dynamiques de population. Formé à l’IFORD au Cameroun, il s’intéresse
+  particulièrement aux dynamiques de population, à la fécondité, aux
+  comportements de santé, à l’utilisation des services et aux
+  déterminants sociaux et territoriaux des inégalités démographiques et
+  sanitaires au Togo. Il a également participé à la quatrième Enquête
+  Démographique et de Santé au Togo, une expérience qui a renforcé son
+  intérêt pour la recherche empirique rigoureuse et l’exploitation des
+  données de grande ampleur au service des politiques publiques.
+  website: ""
 
-# Add more participants with the same format as above...
+- name: "ASSOUMA Arouna"
+  image: /assets/images/arouna_assouma.jpg
+  bio: >
+  Dr. Arouna ASSOUMA is an Agricultural Economist with a Ph.D. in
+  Agricultural Economics. He has over 10 years of experience developing
+  projects, designing development and climate change initiatives, and
+  monitoring and evaluating the impact of projects/programs. He is also
+  a postdoc and Intern Lecturer in the Faculty of Letters, Arts, and
+  Human Sciences and the Agronomy Faculty at the University of Parakou
+  in Benin. Dr. ASSOUMA obtained a grant from Africa Research Impact
+  Network (ARIN) to assess the impact of climate-smart livestock on food
+  security. Dr. ASSOUMA is a data analyst. He conducts data collection,
+  data analysis, and reporting. He masters data collection and analysis
+  tools such as KoboToolbox, R, Stata, and SPSS. His expertise includes
+  linear regression, logit, probit, propensity score matching,
+  Difference-in-Differences, Endogenous Switching Regression, and
+  Best-Worst Scaling. Dr. ASSOUMA has extensive knowledge in several
+  fields, including Agribusiness Clusters and Climate Change.
+  website: https://www.linkedin.com/in/arouna-assouma-ph-d-0a49b218a
+
