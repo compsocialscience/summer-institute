@@ -1,26 +1,17 @@
 - name: "APPOH Kodzo Edem"
   image: /assets/images/appoh_kodzo_edem.jpg
-  bio: >
-  APPOH Kodzo Edem est démographe, sociologue de formation et chercheur,
-  actuellement en stage à l’Unité de Recherche Démographique (URD) de
-  l’Université de Lomé. Son parcours académique comprend des études
-  universitaires en sociologie ainsi qu’une formation en enseignement à
-  l’École Normale d’Instituteurs, ce qui lui a permis de développer une
-  solide base en sciences sociales, en pédagogie et en analyse des
-  dynamiques de population. Formé à l’IFORD au Cameroun, il s’intéresse
-  particulièrement aux dynamiques de population, à la fécondité, aux
-  comportements de santé, à l’utilisation des services et aux
-  déterminants sociaux et territoriaux des inégalités démographiques et
-  sanitaires au Togo. Il a également participé à la quatrième Enquête
-  Démographique et de Santé au Togo, une expérience qui a renforcé son
-  intérêt pour la recherche empirique rigoureuse et l’exploitation des
-  données de grande ampleur au service des politiques publiques.
+  bio: "APPOH Kodzo Edem est démographe, sociologue de formation et chercheur,  actuellement en stage à l’Unité de Recherche Démographique (URD) de l’Université de Lomé. Son parcours académique comprend des études
+  universitaires en sociologie ainsi qu’une formation en enseignement à l’École Normale d’Instituteurs, ce qui lui a permis de développer une
+  solide base en sciences sociales, en pédagogie et en analyse des dynamiques de population. Formé à l’IFORD au Cameroun, il s’intéresse
+  particulièrement aux dynamiques de population, à la fécondité, aux comportements de santé, à l’utilisation des services et aux
+  déterminants sociaux et territoriaux des inégalités démographiques et sanitaires au Togo. Il a également participé à la quatrième Enquête
+  Démographique et de Santé au Togo, une expérience qui a renforcé son intérêt pour la recherche empirique rigoureuse et l’exploitation des
+  données de grande ampleur au service des politiques publiques."
   website: ""
 
 - name: "ASSOUMA Arouna"
   image: /assets/images/arouna_assouma.jpg
-  bio: >
-  Dr. Arouna ASSOUMA is an Agricultural Economist with a Ph.D. in
+  bio: " Dr. Arouna ASSOUMA is an Agricultural Economist with a Ph.D. in
   Agricultural Economics. He has over 10 years of experience developing
   projects, designing development and climate change initiatives, and
   monitoring and evaluating the impact of projects/programs. He is also
