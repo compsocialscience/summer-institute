@@ -30,10 +30,44 @@ partner_site: melbourne
 }
 
 .person-card {
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
   padding: 18px 22px;
   border-radius: 8px;
   border: 1px solid #dce8f0;
   background: #fafcfe;
+}
+
+.person-avatar {
+  flex: 0 0 auto;
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  object-fit: cover;
+  background: #e4edf5;
+  border: 2px solid #d3e2ee;
+}
+
+.person-avatar-fallback {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  background: #00a99d;
+  color: #ffffff;
+  font-size: 1.5em;
+  font-weight: 700;
+  text-transform: uppercase;
+  border: 2px solid #d3e2ee;
+}
+
+.person-body {
+  flex: 1 1 auto;
+  min-width: 0;
 }
 
 .person-name {
@@ -113,34 +147,41 @@ partner_site: melbourne
 Meet the organisers, invited speakers, and accepted participants for SICSS-Melbourne 2026. Speakers link to the sessions they are delivering on the <a href="schedule">program</a>.
 </div>
 
-## Speakers
+## Speakers &amp; Organisers
 
 <div class="people-grid">
 {% assign speakers = site.data.2026.melbourne.speakers_directory | sort: 'sort_name' %}
 {% for person in speakers %}
 <div class="person-card">
-  <p class="person-name">
-    {% if person.profile_url and person.profile_url != '' %}
-    <a href="{{ person.profile_url }}" target="_blank" rel="noopener noreferrer">{{ person.name }}</a>
-    {% else %}
-    {{ person.name }}
+  {% if person.image and person.image != '' %}
+  <img class="person-avatar" src="{{ person.image }}" alt="{{ person.name }}" loading="lazy" referrerpolicy="no-referrer">
+  {% else %}
+  <div class="person-avatar-fallback" aria-hidden="true">{{ person.name | split: ' ' | first | slice: 0, 1 }}{{ person.name | split: ' ' | last | slice: 0, 1 }}</div>
+  {% endif %}
+  <div class="person-body">
+    <p class="person-name">
+      {% if person.profile_url and person.profile_url != '' %}
+      <a href="{{ person.profile_url }}" target="_blank" rel="noopener noreferrer">{{ person.name }}</a>
+      {% else %}
+      {{ person.name }}
+      {% endif %}
+    </p>
+    <p class="person-affiliation">{{ person.affiliation }}</p>
+    {% if person.role %}
+    <span class="person-role">{{ person.role }}</span>
     {% endif %}
-  </p>
-  <p class="person-affiliation">{{ person.affiliation }}</p>
-  {% if person.role %}
-  <span class="person-role">{{ person.role }}</span>
-  {% endif %}
-  <p class="person-bio">{{ person.bio }}</p>
-  {% if person.sessions.size > 0 %}
-  <div class="person-sessions">
-    <strong>Sessions:</strong>
-    <ul>
-      {% for session in person.sessions %}
-      <li><a href="schedule#{{ session.anchor }}">{{ session.title }}</a></li>
-      {% endfor %}
-    </ul>
+    <p class="person-bio">{{ person.bio }}</p>
+    {% if person.sessions.size > 0 %}
+    <div class="person-sessions">
+      <strong>Sessions:</strong>
+      <ul>
+        {% for session in person.sessions %}
+        <li><a href="schedule#{{ session.anchor }}">{{ session.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
   </div>
-  {% endif %}
 </div>
 {% endfor %}
 </div>
@@ -151,15 +192,22 @@ Meet the organisers, invited speakers, and accepted participants for SICSS-Melbo
 {% assign participants = site.data.2026.melbourne.participants | sort: 'sort_name' %}
 {% for person in participants %}
 <div class="person-card">
-  <p class="person-name">
-    {% if person.profile_url and person.profile_url != '' %}
-    <a href="{{ person.profile_url }}" target="_blank" rel="noopener noreferrer">{{ person.name }}</a>
-    {% else %}
-    {{ person.name }}
-    {% endif %}
-  </p>
-  <p class="person-affiliation">{{ person.affiliation }}</p>
-  <p class="person-bio">{{ person.bio }}</p>
+  {% if person.image and person.image != '' %}
+  <img class="person-avatar" src="{{ person.image }}" alt="{{ person.name }}" loading="lazy" referrerpolicy="no-referrer">
+  {% else %}
+  <div class="person-avatar-fallback" aria-hidden="true">{{ person.name | split: ' ' | first | slice: 0, 1 }}{{ person.name | split: ' ' | last | slice: 0, 1 }}</div>
+  {% endif %}
+  <div class="person-body">
+    <p class="person-name">
+      {% if person.profile_url and person.profile_url != '' %}
+      <a href="{{ person.profile_url }}" target="_blank" rel="noopener noreferrer">{{ person.name }}</a>
+      {% else %}
+      {{ person.name }}
+      {% endif %}
+    </p>
+    <p class="person-affiliation">{{ person.affiliation }}</p>
+    <p class="person-bio">{{ person.bio }}</p>
+  </div>
 </div>
 {% endfor %}
 </div>
