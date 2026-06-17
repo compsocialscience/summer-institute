@@ -30,44 +30,38 @@ partner_site: melbourne
 }
 
 .person-card {
-  display: flex;
-  gap: 16px;
-  align-items: flex-start;
   padding: 18px 22px;
   border-radius: 8px;
   border: 1px solid #dce8f0;
   background: #fafcfe;
 }
 
-.person-avatar {
-  flex: 0 0 auto;
-  width: 72px;
-  height: 72px;
-  border-radius: 50%;
+.person-photo {
+  display: block;
+  width: 180px;
+  height: 180px;
+  max-width: 100%;
   object-fit: cover;
+  border-radius: 8px;
   background: #e4edf5;
-  border: 2px solid #d3e2ee;
+  border: 1px solid #d3e2ee;
+  margin: 4px 0 12px 0;
 }
 
-.person-avatar-fallback {
-  flex: 0 0 auto;
+.person-photo-fallback {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 72px;
-  height: 72px;
-  border-radius: 50%;
+  width: 180px;
+  height: 180px;
+  max-width: 100%;
+  border-radius: 8px;
   background: #00a99d;
   color: #ffffff;
-  font-size: 1.5em;
+  font-size: 2.6em;
   font-weight: 700;
   text-transform: uppercase;
-  border: 2px solid #d3e2ee;
-}
-
-.person-body {
-  flex: 1 1 auto;
-  min-width: 0;
+  margin: 4px 0 12px 0;
 }
 
 .person-name {
@@ -153,35 +147,28 @@ Meet the organisers, invited speakers, and accepted participants for SICSS-Melbo
 {% assign speakers = site.data.2026.melbourne.speakers_directory | sort: 'sort_name' %}
 {% for person in speakers %}
 <div class="person-card">
-  {% if person.image and person.image != '' %}
-  <img class="person-avatar" src="{{ person.image }}" alt="{{ person.name }}" loading="lazy" referrerpolicy="no-referrer">
-  {% else %}
-  <div class="person-avatar-fallback" aria-hidden="true">{{ person.name | split: ' ' | first | slice: 0, 1 }}{{ person.name | split: ' ' | last | slice: 0, 1 }}</div>
+  <p class="person-name">
+    {% if person.profile_url and person.profile_url != '' %}
+    <a href="{{ person.profile_url }}" target="_blank" rel="noopener noreferrer">{{ person.name }}</a>
+    {% else %}
+    {{ person.name }}
+    {% endif %}
+  </p>
+  <p class="person-affiliation">{{ person.affiliation }}</p>
+  {% if person.role %}
+  <span class="person-role">{{ person.role }}</span>
   {% endif %}
-  <div class="person-body">
-    <p class="person-name">
-      {% if person.profile_url and person.profile_url != '' %}
-      <a href="{{ person.profile_url }}" target="_blank" rel="noopener noreferrer">{{ person.name }}</a>
-      {% else %}
-      {{ person.name }}
-      {% endif %}
-    </p>
-    <p class="person-affiliation">{{ person.affiliation }}</p>
-    {% if person.role %}
-    <span class="person-role">{{ person.role }}</span>
-    {% endif %}
-    <p class="person-bio">{{ person.bio }}</p>
-    {% if person.sessions.size > 0 %}
-    <div class="person-sessions">
-      <strong>Sessions:</strong>
-      <ul>
-        {% for session in person.sessions %}
-        <li><a href="schedule#{{ session.anchor }}">{{ session.title }}</a></li>
-        {% endfor %}
-      </ul>
-    </div>
-    {% endif %}
+  <p class="person-bio">{{ person.bio }}</p>
+  {% if person.sessions.size > 0 %}
+  <div class="person-sessions">
+    <strong>Sessions:</strong>
+    <ul>
+      {% for session in person.sessions %}
+      <li><a href="schedule#{{ session.anchor }}">{{ session.title }}</a></li>
+      {% endfor %}
+    </ul>
   </div>
+  {% endif %}
 </div>
 {% endfor %}
 </div>
@@ -192,22 +179,20 @@ Meet the organisers, invited speakers, and accepted participants for SICSS-Melbo
 {% assign participants = site.data.2026.melbourne.participants | sort: 'sort_name' %}
 {% for person in participants %}
 <div class="person-card">
+  <p class="person-name">
+    {% if person.profile_url and person.profile_url != '' %}
+    <a href="{{ person.profile_url }}" target="_blank" rel="noopener noreferrer">{{ person.name }}</a>
+    {% else %}
+    {{ person.name }}
+    {% endif %}
+  </p>
   {% if person.image and person.image != '' %}
-  <img class="person-avatar" src="{{ person.image }}" alt="{{ person.name }}" loading="lazy" referrerpolicy="no-referrer">
+  <img class="person-photo" src="{{ person.image }}" alt="{{ person.name }}" loading="lazy">
   {% else %}
-  <div class="person-avatar-fallback" aria-hidden="true">{{ person.name | split: ' ' | first | slice: 0, 1 }}{{ person.name | split: ' ' | last | slice: 0, 1 }}</div>
+  <div class="person-photo-fallback" aria-hidden="true">{{ person.name | split: ' ' | first | slice: 0, 1 }}{{ person.name | split: ' ' | last | slice: 0, 1 }}</div>
   {% endif %}
-  <div class="person-body">
-    <p class="person-name">
-      {% if person.profile_url and person.profile_url != '' %}
-      <a href="{{ person.profile_url }}" target="_blank" rel="noopener noreferrer">{{ person.name }}</a>
-      {% else %}
-      {{ person.name }}
-      {% endif %}
-    </p>
-    <p class="person-affiliation">{{ person.affiliation }}</p>
-    <p class="person-bio">{{ person.bio }}</p>
-  </div>
+  <p class="person-affiliation">{{ person.affiliation }}</p>
+  <p class="person-bio">{{ person.bio }}</p>
 </div>
 {% endfor %}
 </div>
