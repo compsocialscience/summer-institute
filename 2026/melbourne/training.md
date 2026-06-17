@@ -464,7 +464,7 @@ This page compiles pre-reading, tools, and further reading for each confirmed se
 
   <h4>Pre-reading</h4>
   <ul>
-    <li><a href="https://sicss.io/melbourne/Using-LLMs-to-Create-Pipelines.pdf" target="_blank" rel="noopener noreferrer">PREPARATION steps for the session on ”Using LLMs to Create Data Analysis Pipelines for Text-as-Data Research”</a></li>
+    <li><a href="https://sicss.io/melbourne/Using-LLMs-to-Create-Pipelines.pdf" target="_blank" rel="noopener noreferrer">PREPARATION steps for the session on ”Using LLMs to Create Data Analysis Pipelines for Text-as-Data Research”</a> - Use this to setup and prepare your computer for the hands-on component of the workshop.</li>
     <li><a href="https://cran.r-project.org/package=quallmer" target="_blank" rel="noopener noreferrer">quallmer: AI-Assisted Qualitative Data Analysis</a> — Maerz &amp; Benoit, 2025. CRAN page for the R package that enables codebook-based, LLM-assisted text coding with built-in replication and validation. <span class="res-type">Tool</span></li>
     <li><a href="https://doi.org/10.48550/arXiv.2303.15056" target="_blank" rel="noopener noreferrer">Can ChatGPT Replace Manual Annotation?</a> — Gilardi et al., 2023. Assesses GPT-4's accuracy as a text annotator compared to crowd workers across multiple tasks. <span class="res-type">Paper</span></li>
   </ul>
