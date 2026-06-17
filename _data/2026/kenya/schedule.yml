@@ -1,5 +1,127 @@
-- date: "June 15 - June 26, 2026"
+- date: 2026-06-15
+  name: "<b>Introduction to SICSS and CSS</b>"
   events:
-    - name: "Schedule coming soon. Check back for updates!" # Update this line or add markdown for your site's schedule.
+    - name: "Registration"
+      time: "09:00 - 10:00"
+    - name: "Opening/Welcoming Session - Introduction of Participants"
+      time: "10:00 - 11:00"
+    - name: "Tea Break"
+      time: "11:00 - 11:30"
+    - name: "Research Speed Dating: Getting to know you and your research - Dr Mary Muyonga"
+      time: "11:30 - 13:00"
+    - name: "Lunch break"
+      time: "13:00 - 14:00"
+    - name: "Introduction to Computational Social Sciences - Professor Chris Bail, Founder of SICSS and Professor at the Duke Sanford School of Public Policy, USA"
+      time: "14:00 - 15:00"
+    - name: "R programming -- Computer set up/packages - Dr. Amos Langat, PAUSTI"
+      time: "15:00 - 16:30"
+    - name: "Setting up Git Hub/Slack and harmonizing expectations - Dr. Amos Langat, PAUSTI"
+      time: ""
+    - name: "[GitHub](https://github.com/) "
+      time: ""
+    - name: "Tea Break"
+      time: "16:30 - 17:00"
+- date: 2025-06-16
+  name: "<b>Introduction to R and Computations with R</b>"
+  events:
+    - name: "R Data Sources and Types and Applying R in Social Research"
+      time: "09:00 - 10:30"
+    - name: "Tea Break"
+      time: "10:30 - 11:00"
+    - name: "Text as Data (Introduction to Text Analysis)"
+      time: "11:00 - 13:00"
+    - name: "Lunch Break"
+      time: "13:00 - 14:00"
+    - name: "Web Harvesting Using R"
+      time: "14:00 - 15:30"
+    - name: "Tea break"
+      time: "15:30 - 16:00"
+- date: 2025-06-17
+  name: "<b>Wikipedia & Wikimedia</b>"
+  events:
+    - name: "Introduction to Wikipedia and the Wikimedia Foundation - Wikimedia Kenya Usergroup"
+      time: "09:00 - 10:30"
+    - name: "Tea Break"
+      time: "10:30 - 11:00"
+    - name: "Wikipedia and its uses - Wikimedia Kenya Usergroup"
+      time: "11:00 - 12:00"
+    - name "Wikimedia/Wikipedia in Research - Dr. Nathan Matias, CAT Lab, Cornell University"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Wikimedia APIs for access and data analysis - Dr. Bastian Greshake Tzovaras, CAT Lab"
+      time: "14:00 - 16:00"
+    - name: "Tea Break"
+      time: "16:00 - 16:30"
 
-  # Our tentative schedule can be seen [here](www.google.com). Our program focuses on ... . We will invite guest speakers to provide an overview of ..."
+- date: 2025-06-18
+  name: "<b>Wikipedia and Research Ethics</b>"
+  events:
+    - name: "Recap Day 3"
+      time: "09:00 - 10:00"
+    - name: "Tea Break"
+      time: "10:00 - 10:30"
+    - name: "Practical session on Wikipedia"
+      time: "10:30 - 12:00"
+    - name: "Ethics in Computational Social Science"
+      time: "12:00 - 13:00"
+    - name: "Lunch Break"
+      time: "13:00 - 14:00"
+    - name: "Practical Session"
+      time: "14:00 - 16:00"
+    - name: "Tea Break"
+      time: "16:00 - 16:30"
+
+- date: 2025-06-19
+  name: "<b>Start group projects</b>"
+  events:
+    - name: "Proposals for Group Projects"
+      time: "09:00 - 10:00"
+    - name: "Tea Break"
+      time: "10:00"
+    - name: "Lunch break"
+      time: "13:00 - 14:00"
+    - name: "Group projects"
+      time: "14:00 - 15:30"
+    - name: "Tea Break"
+      time: "15:30 - 16:00"
+
+- date: 2025-06-22
+  name: "Group Projects"
+  events:
+    - name: "Group Projects Proposals"
+      time: "09:00 - 10:00"
+    - name: "Tea Break"
+      time: "10:00 - 10:30"
+    - name: "Group Projects"
+      time: "10:30-13:00"
+    - name: "Lunch Break"
+      time: "13:00 - 14:00"
+    - name: "Group work"
+      time: "14:00"
+
+- date: 2025-06-23
+  name: "<b>Group Projects</b>"
+
+- date: 2025-06-24
+  name: "<b>Group Projects</b>"
+
+- date: 2025-06-25
+  name: "<b>Group Project Presentations</b>"
+  events:
+    - name: "Group Projects -- Presentations"
+      time: "09:00 - 17:00"
+
+- date: 2025-06-26
+  name: "<b>Final Presentations and Closing</b>"
+  events:
+    - name: "Group Projects -- Presentations"
+      time: "09:00 - 10:00"
+    - name: "Tea Break"
+      time: "10:00 - 10:30"
+    - name: "Group Projects -- Presentations"
+      time: "11:30 - 13:00"
+    - name: "Lunch"
+      time: "13:00 - 14:00"
+    - name: "Closing Ceremony"
+      time: "14:00 - 16:00"
+
