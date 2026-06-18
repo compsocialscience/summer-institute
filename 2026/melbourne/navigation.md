@@ -157,6 +157,19 @@ partner_site: melbourne
   border-top: 1px solid #eef2f7;
 }
 
+/* ── Route dividers (main vs alternative) ── */
+.steps-divider {
+  grid-column: 1 / -1;
+  margin: 4px 0 -6px 0;
+  padding: 11px 16px;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: .98rem;
+}
+.steps-divider.d-main { background: #fdecee; border-left: 4px solid #d11f2d; color: #a3121e; }
+.steps-divider.d-alt  { background: #fff3ea; border-left: 4px solid #e35205; color: #b53d00; }
+.step.alt .step-num { background: #e35205; }
+
 @media (max-width: 600px) {
   .venue-meta { grid-template-columns: 1fr; }
   .venue-meta .cell + .cell { border-left: 0; border-top: 1px solid #e6edf4; }
@@ -169,7 +182,7 @@ partner_site: melbourne
 <p class="lead">Step-by-step directions to each SICSS-Melbourne 2026 venue.</p>
 
 <div class="nav-note">
-SICSS-Melbourne runs across <strong>three venues</strong>. Use the photo walkthroughs below to find each room — every shot is taken from a participant's eye level, in the order you'll walk it. All three venues are inside Melbourne's <strong>Free Tram Zone</strong>. If you get lost on the day, message the organisers on Slack and we'll come and find you.
+SICSS-Melbourne runs across <strong>three venues</strong>. Use the photo walkthroughs below to find each room — every shot is taken from a participant's eye level, in the order you'll walk it. All three venues are inside Melbourne's <strong>Free Tram Zone</strong>. If you get lost on the day, email the organisers at sicss@internetobservatory.org.au or message on Discord.
 </div>
 
 <div class="venue-jump">
@@ -202,16 +215,18 @@ SICSS-Melbourne runs across <strong>three venues</strong>. Use the photo walkthr
     <iframe loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://maps.google.com/maps?q=RMIT%20Building%208%20Swanston%20Street%20Melbourne&z=17&output=embed"></iframe>
   </details>
   <div class="steps">
+    <div class="steps-divider d-main">Main route — via the RMIT Connect doors (Swanston Street)</div>
     <div class="step"><div class="step-cap"><span class="step-num">1</span><p>From the Swanston Street tram stop, head to the corner — RMIT Building 8 is the brick-and-greenery building across the road.</p></div><img src="/2026/melbourne/rmit-megaflex/1.jpeg" alt="Swanston Street intersection with RMIT Building 8 opposite"></div>
     <div class="step"><div class="step-cap"><span class="step-num">2</span><p>Walk along Swanston Street to the Building 8 frontage, under the large RMIT University banner.</p></div><img src="/2026/melbourne/rmit-megaflex/2.jpeg" alt="RMIT University banner above the Building 8 entrance on Swanston Street"></div>
-    <div class="step"><div class="step-cap"><span class="step-num">3</span><p>Step into the RMIT forecourt and find the Buildings 8 / 10 / Medical Hub directory pillar, then go up the steps.</p></div><img src="/2026/melbourne/rmit-megaflex/7.jpeg" alt="RMIT Buildings 8 and 10 directory pillar and forecourt steps"></div>
-    <div class="step"><div class="step-cap"><span class="step-num">4</span><p>Head for the green-glass "Building 8 / RMIT Connect" doors — enter here.</p></div><img src="/2026/melbourne/rmit-megaflex/3.jpeg" alt="Green-glass Building 8 RMIT Connect entrance doors"></div>
-    <div class="step"><div class="step-cap"><span class="step-num">5</span><p>Go through the automated revolving door of the 8 / 10 building.</p></div><img src="/2026/melbourne/rmit-megaflex/8.jpeg" alt="Automated revolving door inside the 8/10 building"></div>
-    <div class="step"><div class="step-cap"><span class="step-num">6</span><p>Once inside, follow the <em>Student Connect</em> signage straight ahead.</p></div><img src="/2026/melbourne/rmit-megaflex/4.jpeg" alt="Interior corridor with Student Connect floor signage"></div>
-    <div class="step"><div class="step-cap"><span class="step-num">7</span><p>Take the escalator on your left — the one going up.</p></div><img src="/2026/melbourne/rmit-megaflex/9.jpeg" alt="Building 8 escalators, take the up escalator on the left"></div>
-    <div class="step"><div class="step-cap"><span class="step-num">8</span><p>Turn right once you reach the top.</p></div><img src="/2026/melbourne/rmit-megaflex/5.jpeg" alt="Upper level, turn right after the escalator"></div>
-    <div class="step"><div class="step-cap"><span class="step-num">9</span><p>Megaflex 3 is the glass-walled room ahead — you've arrived.</p></div><img src="/2026/melbourne/rmit-megaflex/6.jpeg" alt="Glass-walled Megaflex 3 room, you are here"></div>
-    <div class="step"><div class="step-cap"><span class="step-num">10</span><p>Welcome to Megaflex 3 — our home for the first three days.</p></div><img src="/2026/melbourne/rmit-megaflex/10.jpeg" alt="Interior view of the Megaflex 3 teaching room"></div>
+    <div class="step"><div class="step-cap"><span class="step-num">3</span><p>Head for the green-glass "Building 8 / RMIT Connect" doors — enter here.</p></div><img src="/2026/melbourne/rmit-megaflex/3.jpeg" alt="Green-glass Building 8 RMIT Connect entrance doors"></div>
+    <div class="step"><div class="step-cap"><span class="step-num">4</span><p>Once inside, follow the <em>Student Connect</em> signage straight ahead and head up the stairs.</p></div><img src="/2026/melbourne/rmit-megaflex/4.jpeg" alt="Interior corridor with Student Connect floor signage"></div>
+    <div class="step"><div class="step-cap"><span class="step-num">5</span><p>Turn right once you reach the top.</p></div><img src="/2026/melbourne/rmit-megaflex/5.jpeg" alt="Upper level, turn right after the stairs"></div>
+    <div class="step"><div class="step-cap"><span class="step-num">6</span><p>Megaflex 3 is the glass-walled room ahead — you've arrived.</p></div><img src="/2026/melbourne/rmit-megaflex/6.jpeg" alt="Glass-walled Megaflex 3 room, you are here"></div>
+    <div class="steps-divider d-alt">Alternative route — via the Buildings 8 / 10 forecourt</div>
+    <div class="step alt"><div class="step-cap"><span class="step-num">1</span><p>Alternatively, step into the RMIT forecourt, find the Buildings 8 / 10 / Medical Hub directory pillar, and go up the steps.</p></div><img src="/2026/melbourne/rmit-megaflex/7.jpeg" alt="RMIT Buildings 8 and 10 directory pillar and forecourt steps"></div>
+    <div class="step alt"><div class="step-cap"><span class="step-num">2</span><p>Go through the automated revolving door of the 8 / 10 building.</p></div><img src="/2026/melbourne/rmit-megaflex/8.jpeg" alt="Automated revolving door inside the 8/10 building"></div>
+    <div class="step alt"><div class="step-cap"><span class="step-num">3</span><p>Take the escalator on your left — the one going up.</p></div><img src="/2026/melbourne/rmit-megaflex/9.jpeg" alt="Building 8 escalators, take the up escalator on the left"></div>
+    <div class="step alt"><div class="step-cap"><span class="step-num">4</span><p>This brings you up to Megaflex 3 as well — you've arrived.</p></div><img src="/2026/melbourne/rmit-megaflex/10.jpeg" alt="Interior view of the Megaflex 3 teaching room"></div>
   </div>
 </div>
 
