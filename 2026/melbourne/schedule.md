@@ -781,9 +781,9 @@ details.day-acc[open] > summary::after {
 
 </div>
 
-<div class="session-block">
+<div class="session-block" id="session-wikibase">
   <p class="session-meta">Wed 1 Jul &nbsp;·&nbsp; 13:30-15:00 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
-  <p class="session-title"></p>
+  <p class="session-title">How to use Wikibase for Mixed-Methods Research</p>
   <p class="session-speakers"><strong>Speakers:</strong>
     <a href="https://profiles.sydney.edu.au/francesco.bailo" target="_blank" rel="noopener noreferrer">Francesco Bailo</a>
   </p>
