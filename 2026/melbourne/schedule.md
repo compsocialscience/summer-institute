@@ -764,7 +764,7 @@ details.day-acc[open] > summary::after {
 </div> -->
 
 <div class="session-block" id="session-validation">
-  <p class="session-meta">Wed 1 Jul &nbsp;·&nbsp; 09:00 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
+  <p class="session-meta">Wed 1 Jul &nbsp;·&nbsp; 09:00-10:30 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
   <p class="session-title">Validation in Computational Social Science</p>
   <p class="session-speakers"><strong>Speakers:</strong>
     <a href="https://internetobservatory.org.au/about/team" target="_blank" rel="noopener noreferrer">Matteo Vergani</a>
@@ -779,42 +779,24 @@ details.day-acc[open] > summary::after {
     </ul>
   </div>
 
-
 </div>
 
-<!-- <div class="session-block">
-  <p class="session-meta">Week 2 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
-  <p class="session-title">Network Analysis in CSS</p>
+<div class="session-block">
+  <p class="session-meta">Wed 1 Jul &nbsp;·&nbsp; 13:30-15:00 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
+  <p class="session-title"></p>
   <p class="session-speakers"><strong>Speakers:</strong>
-    <a href="#" target="_blank" rel="noopener noreferrer">Andrea Giovannetti</a>
+    <a href="https://profiles.sydney.edu.au/francesco.bailo" target="_blank" rel="noopener noreferrer">Francesco Bailo</a>
   </p>
-  <p class="session-desc">We introduce network analysis as a method for understanding relationships, influence, and community structures within digital and social data for exploratory analysis.</p>
+  <p class="session-desc">This session demonstrates how Wikibase, a collaborative platform for organising and linking structured data, can support interdisciplinary research that combines qualitative and quantitative methods. The presentation covers core concepts, includes a live demonstration, and references practical applications from the author’s <a href="https://www.elgaronline.com/monobook/book/9781035353750/9781035353750.xml" target="_blank" rel="noopener noreferrer">new book.</a></p>
   <div class="outcomes-box">
     <p>Learning Outcomes</p>
     <ul>
-      <li>Understand the limitations of different approaches to network analysis.</li>
-      <li>Apply network metrics and techniques such as centrality, clustering, and community detection.</li>
-      <li>Interpret network analysis results in meaningful social and cultural contexts.</li>
+      <li>Describe Wikibase.</li>
+      <li>Design a collaborative project.</li>
+      <li>Use Wikibase to organise data.</li>
     </ul>
   </div>
-</div> -->
-
-<!-- <div class="session-block">
-  <p class="session-meta">Week 2 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
-  <p class="session-title">Simulation in Social Science</p>
-  <p class="session-speakers"><strong>Speakers:</strong>
-    <a href="#" target="_blank" rel="noopener noreferrer">Michael Kirley</a>
-  </p>
-  <p class="session-desc">The workshop explores agent-based modelling and simulation techniques for studying complex social phenomena that are problematic to investigate through traditional methods. Participants will learn more about simulations to test theoretical hypotheses around social behaviour, collective action, and system dynamics.</p>
-  <div class="outcomes-box">
-    <p>Learning Outcomes</p>
-    <ul>
-      <li>Design and implement basic agent-based models relevant to HASS&amp;I research questions.</li>
-      <li>Use simulations to explore scenarios and theoretical predictions.</li>
-      <li>Evaluate the strengths, limitations, and appropriate applications of simulation methods in CSS.</li>
-    </ul>
-  </div>
-</div> -->
+</div>
 
 <p><strong>Mid-Morning &amp; Afternoon Sessions — Teamwork &amp; Project Development</strong></p>
 
