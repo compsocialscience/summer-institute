@@ -12,6 +12,8 @@
   url: "speakers"
 - name: Participants
   url: "participants"
+- name: "Find Us/Navigation"
+  url: "navigation"
 - name: News
   url: "news"
 
