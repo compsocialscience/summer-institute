@@ -292,6 +292,16 @@
     - title: "Validation in Computational Social Science"
       anchor: "session-validation"
 
+- name: "Francesco Bailo"
+  sort_name: "Bailo, Francesco"
+  role: "Speaker"
+  affiliation: "University of Sydney"
+  profile_url: ""
+  bio: "Dr. Francesco Bailo is a Senior Lecturer in Data Analytics in the Social Sciences at The University of Sydney, where his work operates at the intersection of political science, communication, and computational data science. With a deep research focus on digital politics, he specializes in analyzing the dynamics of online communities, public discourse on social media, and the shifting relationship between news organizations and digital activists."
+  sessions:
+    - title: "How to use Wikibase for Mixed-Methods Research"
+      anchor: "session-wikibase"
+  
 - name: "Svetha Venkatesh"
   sort_name: "Venkatesh, Svetha"
   role: "Speaker"
