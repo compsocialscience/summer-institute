@@ -200,7 +200,7 @@ SICSS-Melbourne runs across <strong>three venues</strong>. Use the photo walkthr
   <div class="venue-meta">
     <div class="cell">
       <h4>Address</h4>
-      <p>Building 8, RMIT University, Swanston Street, Melbourne VIC 3000<br>
+      <p>Building 8, RMIT University, Swanston Street, Melbourne VIC<br>
       <a href="https://maps.google.com/?q=RMIT+Building+8+Swanston+Street+Melbourne" target="_blank" rel="noopener noreferrer">Open in Google Maps →</a></p>
     </div>
     <div class="cell">
