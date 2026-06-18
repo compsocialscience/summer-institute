@@ -13,10 +13,9 @@ We evaluate applicants along a number of dimensions: 1) research and teaching in
 Applicants must submit the following documents: 
 
 * a curriculum vitae (CV),
-* a cover letter (maximum 3 pages) describing both any current research and your interest in computational social science,
-* one writing sample (no more than 30 pages).
+* a cover letter (maximum 3 pages) describing both any current research and your interest in computational social science.
 
-**The materials can be submitted in English or Portuguese**. Co-authored work is acceptable for the writing sample (3), but if you submit co-authored work, we recommend that you include a few sentences describing the contributions of each individual author. 
+**The materials can be submitted in English or Portuguese**.
 
 **In order to be guaranteed full consideration, all application materials must be submitted by June 30.** All application materials must be submitted through this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSef7cssqVqX5xAp7vkuuQIu0Lc5L5_XSFrvz3M2Q2ccYndj2w/viewform) (form for this site not yet created). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by July, and will ask participants to confirm their participation very soon thereafter.
 
