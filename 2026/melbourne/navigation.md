@@ -98,7 +98,6 @@ partner_site: melbourne
   border-top: 1px solid #e6edf4;
 }
 .map-embed summary {
-  cursor: pointer;
   padding: 12px 26px;
   font-weight: 600;
   color: #1a2e50;
