@@ -1,6 +1,9 @@
-- name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+- name: "Muskan" # Replace with participant name.
+  image: /assets/images/SICSSHabib_Participant_Muskan.jpeg  # Add participant image to assets/images/ and update here.
+  bio: "Muskan is a final-year Linguistics undergraduate at Bahria University, Karachi, and a Global UGRAD Program alumna. Her research explores the intersection of language, society, and computation, with a focus on how language reflects social distinctions in Pakistan. Her independent study on menu language and social class in Karachi was accepted at ICLAP, and she went on to complete a thesis in computational linguistics — the first undergraduate research of its kind at Bahria University. At SICSS, she aims to apply computational approaches to digital trace data to study language and social meaning in Pakistani society, and to contribute to open Pakistani datasets for computational social science."  # Add participant bio here.
+  website: https://www.linkedin.com/in/muskanlnu/  # Link participant website here.
 
-# Add more participants with the same format as above...
+- name: "Muhammad Saleem" # Replace with participant name.
+  image: /assets/images/SICSSHabib_Participant_Muhammad_Saleem.png  # Add participant image to assets/images/ and update here.
+  bio: "Muhammad Saleem is Assistant Manager – Technology for Education at The Citizens Foundation (TCF), Pakistan, where he leads the implementation of digital learning programs in underserved school communities, with experience spanning facilitator development, classroom technology integration, and learning analytics. His research sits at the intersection of AI, education, and computational social science, examining how AI-enabled educational technologies can support learning without inducing harmful cognitive offloading — particularly among secondary school students in mathematics classrooms. A central focus of his work is building reproducible datasets from low- and middle-income country contexts to inform the design of responsible AI tutoring systems and evidence-based educational practices."  # Add participant bio here.
+  website: https://www.linkedin.com/in/muhammadsaleem112233/ # Link participant website here.
