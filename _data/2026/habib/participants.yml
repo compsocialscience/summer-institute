@@ -1,6 +1,6 @@
 - name: "Muskan" # Replace with participant name.
   image: /assets/images/SICSSHabib_Participant_Muskan.jpeg  # Add participant image to assets/images/ and update here.
-  bio: "Muskan is a final-year Linguistics undergraduate at Bahria University, Karachi, and a Global UGRAD Program alumna. Her research explores the intersection of language, society, and computation, with a focus on how language reflects social distinctions in Pakistan. Her independent study on menu language and social class in Karachi was accepted at ICLAP, and she went on to complete a thesis in computational linguistics — the first undergraduate research of its kind at Bahria University. At SICSS, she aims to apply computational approaches to digital trace data to study language and social meaning in Pakistani society, and to contribute to open Pakistani datasets for computational social science."  # Add participant bio here.
+  bio: "Muskan is a recent Linguistics graduate from Bahria University, Karachi, and a Global UGRAD Program alumna. Her research explores the intersection of language, society, and computation, with a focus on how language reflects social distinctions in Pakistan. Her independent study on menu language and social class in Karachi was accepted at ICLAP, and she went on to complete a thesis in computational linguistics — the first undergraduate research of its kind at Bahria University. At SICSS, she aims to apply computational approaches to digital trace data to study language and social meaning in Pakistani society, and to contribute to open Pakistani datasets for computational social science."  # Add participant bio here.
   website: https://www.linkedin.com/in/muskanlnu/  # Link participant website here.
 
 - name: "Muhammad Saleem" # Replace with participant name.
@@ -20,7 +20,7 @@
 
 - name: "Wajeha Khan" # Replace with participant name.
   image: /assets/images/SICSSHabib_Participant_Wajeha_Khan.jpeg  # Add participant image to assets/images/ and update here.
-  bio: "Passionate about creating an impact, I substantially enjoy various disciplines such as history, literature, and philosophy. Following the culmination of my bachelors in Communication and Design from Habib University, I have been on the quest for meaning through experimenting with different fields that have the potential to be a catalyst for positive change by invoking deeper empathy. This is also what inspired my thesis research, 'Mindscapes,' which elaborated upon the boundless intricacies of the human psyche by touching upon different levels of reality or subjectivity through the medium of both traditional art and storytelling. Since then, I have been preoccupied with pressing social concerns and revisited some of my previous research work, particularly relating to animal rights and wellbeing within the scope of our country. I am a writer at heart who wishes to surpass the boundaries and limitations of conventional thinking by making my work as comprehensive as possible, which has motivated me to pursue this program. I aim to build a foundation for my qualitative research and relevant social theory through advancing my understanding of computational methods, ensuring the execution of necessary intervention within Pakistan."  # Add participant bio here.
+  bio: "Passionate about creating an impact, Wajeha substantially enjoy various disciplines such as history, literature, and philosophy. Following the culmination of my bachelors in Communication and Design from Habib University, I have been on the quest for meaning through experimenting with different fields that have the potential to be a catalyst for positive change by invoking deeper empathy. This is also what inspired my thesis research, 'Mindscapes,' which elaborated upon the boundless intricacies of the human psyche by touching upon different levels of reality or subjectivity through the medium of both traditional art and storytelling. Since then, I have been preoccupied with pressing social concerns and revisited some of my previous research work, particularly relating to animal rights and wellbeing within the scope of our country. I am a writer at heart who wishes to surpass the boundaries and limitations of conventional thinking by making my work as comprehensive as possible, which has motivated me to pursue this program. I aim to build a foundation for my qualitative research and relevant social theory through advancing my understanding of computational methods, ensuring the execution of necessary intervention within Pakistan."  # Add participant bio here.
   website: https://www.linkedin.com/in/wajeha-khan-b09a6b20a/ # Link participant website here.
 
 - name: "Amna Umer" # Replace with participant name.
@@ -38,10 +38,10 @@
   bio: "Dr. Ayesha is an Assistant Professor of Economics at The Women University Multan, holding a PhD in Economics from Germany and over eight years of experience teaching and conducting policy research across Pakistan. Her research interests span Macroeconomics, International Trade, Environmental Economics, and Public Sector Economics, while her research interests cover International Economics, FDI, Development Economics, Women Empowerment, and Computational Social Science. She has published over 30 refereed articles in international journals and managed numerous government-commissioned and externally funded research projects. She is particularly interested in interdisciplinary collaborations integrating Economics, Data Science, and Computational Social Science to address complex policy and development challenges."  # Add participant bio here.
   website: https://www.linkedin.com/in/ayesha-ashraf-376b4080/ # Link participant website here.
 
-- name: "Dua Mohstashim" # Replace with participant name.
-  image: /assets/images/SICSSHabib_Participant_Dua_Mohtashim.png  # Add participant image to assets/images/ and update here.
-  bio: ""  # Add participant bio here.
-  website: https://www.linkedin.com/in/dua-mohtashim/ # Link participant website here.  
+# - name: "Dua Mohstashim" # Replace with participant name.
+#   image: /assets/images/SICSSHabib_Participant_Dua_Mohtashim.png  # Add participant image to assets/images/ and update here.
+#   bio: ""  # Add participant bio here.
+#   website: https://www.linkedin.com/in/dua-mohtashim/ # Link participant website here.  
 
 - name: "Fatin Nawaz" # Replace with participant name.
   image: /assets/images/SICSSHabib_Participant_Fatin_Nawaz.jpg  # Add participant image to assets/images/ and update here.
@@ -70,7 +70,7 @@
 
 - name: "Sualeh Ali" # Replace with participant name.
   image: /assets/images/SICSSHabib_Participant_Sualeh_Ali.png  # Add participant image to assets/images/ and update here.
-  bio: "A graduate of Rochester Institute of Technology and completed my Master’s in Data Science in 2024 under the Fulbright Scholarship program. Currently, I am engaged as a Senior AI Engineer at Careem (Uber), where we are building agentic platforms as part of the GenAI team. Simultaneously, I am also teaching Machine Learning courses at my alma mater, the Institute of Business Administration, as a visiting faculty. My research interest lies in building AI for Social Good and overlaps with Computational Social Science and has published papers to merit this effort (IJCAI 2024)."  # Add participant bio here.
+  bio: "A graduate of Rochester Institute of Technology and completed my Master’s in Data Science in 2024 under the Fulbright Scholarship program. Currently, Sualeh am engaged as a Senior AI Engineer at Careem (Uber), where we are building agentic platforms as part of the GenAI team. Simultaneously, I am also teaching Machine Learning courses at my alma mater, the Institute of Business Administration, as a visiting faculty. My research interest lies in building AI for Social Good and overlaps with Computational Social Science and has published papers to merit this effort (IJCAI 2024)."  # Add participant bio here.
   website: https://www.linkedin.com/in/smsali97/ # Link participant website here. 
 
 - name: "Zubair Mahar" # Replace with participant name.
