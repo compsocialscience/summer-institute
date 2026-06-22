@@ -1,6 +1,6 @@
-- name: "Participant info coming soon." # Replace with participant name.
+- name: "Ify Okpali." # Replace with participant name.
   image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
+  bio: "Ify Okpali is a dual-PhD candidate in Political Science and Communication at the University of Pennsylvania’s Annenberg School for Communication and Department of Political Science. Her research examines how digital media is reshaping the circulation of political information, as well as political accountability. She is particularly interested in the evolving roles of journalists, digital influencers, and other intermediary actors within increasingly social media-driven environments. Focusing on the African context, her dissertation aims to explore how the continent’s demographic youth bulge intersects with shifts in the digital media ecosystem to expand the range of voices shaping political interpretation, particularly among increasingly young and digitally connected citizens. Methodologically, she is a mixed-methods researcher, looking to integrate computational social science approaches, including computational text analysis and content analysis, with qualitative and field-based research methods."  # Add participant bio here.
   website: https://www.google.com  # Link participant website here.
 
 # Add more participants with the same format as above...
