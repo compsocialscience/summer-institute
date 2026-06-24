@@ -734,7 +734,7 @@ details.day-acc[open] > summary::after {
    <a href="https://people.csiro.au/W/S/Stephen-Wan" target="_blank" rel="noopener noreferrer">Stephen Wan</a>,
    <a href="https://research.csiro.au/cintel/our-people/research-scientists/#:~:text=dimensional%20big%20data.-,Jessica%20Irons,-Research%20Scientist%2C%20Data61" target="_blank" rel="noopener noreferrer">Jessica Irons</a>
   </p>
-  <p class="session-desc">This session introduces SciLire, a CSIRO-developed tool that extracts structured information from scientific literature and includes built-in features for checking the reliability of its answers. After a live walkthrough, participants will be invited to opt in to a shared task: using SciLire to create a qualitative dataset of their own and applying its reliability features to assess how trustworthy the extracted answers are. SciLire can also be incorporated into Week 2 group work as one of the proposed projects.</p>
+  <p class="session-desc">This session introduces SciLire - a CSIRO-developed tool that extracts structured information from scientific literature and includes built-in features for checking the reliability of its answers. After a live walkthrough, participants will be invited to opt in to a shared task: using SciLire to create a qualitative dataset of their own and applying its reliability features to assess how trustworthy the extracted answers are. SciLire can also be incorporated into Week 2 group work as one of the proposed projects.</p>
   <div class="outcomes-box">
     <p>Learning Outcomes</p>
     <ul>
