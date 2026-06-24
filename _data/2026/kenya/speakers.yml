@@ -3,7 +3,7 @@
   bio: " ... " # add speaker bio here
 
 
-  - name: "Dr. Bastian." # Speaker name goes here.
+  - name: "Prof. Bastian Greshake Tzovaras." # Speaker name goes here.
   image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
   bio: " ... " # add speaker bio here
   website: https://www.google.com # update speaker personal link here
@@ -16,11 +16,11 @@
   image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
   bio: " ... " # add speaker bio here
 
-   - name: "Carol." # Speaker name goes here.
+   - name: "Carol Mwaura." # Speaker name goes here.
   image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
   bio: " ... " # add speaker bio here
 
-     - name: "John Mutinda." # Speaker name goes here.
+     - name: "John Mutinda PhD Candidate." # Speaker name goes here.
   image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
   bio: " John Kamwele Mutinda is a third-year doctoral candidate in Statistics at the School of Management, Department of Statistics and Finance, University of Science and Technology of China, where his research focuses on innovative hybrid machine and deep learning models for time series analysis. He holds two Master's degrees: a Master's in Machine Intelligence from the African Institute for Mathematical Sciences in Senegal, awarded with distinction, and a Master's in Mathematical Sciences from AIMS Rwanda, also with distinction. He completed his Bachelor of Science in Statistics with First Class Honours from South Eastern Kenya University. He has been the recipient of several prestigious awards, including the Full PhD Scholarship from the University of Science and Technology of China, the AMMI Scholarship funded by Facebook and Google, and the Next Einstein Fellowship Master's Scholarship. Additionally, he holds a Certificate in Business Administration from the European School of Management and Technology in Berlin, Germany. John has published over 25 peer-reviewed papers in reputable international journals including Expert Systems with Applications, Computational Economics, Scientific African, and the Journal of Applied Mathematics. He serves as a key peer reviewer for more than 50 international academic journals across machine learning, statistics, and applied sciences. His research interests span linear, nonlinear, and interval time series analysis, feature selection, machine learning, deep learning, large language models, and agentic artificial intelligence. His work consistently emphasizes methodological rigor, cross-domain applicability, and the integration of explainable AI to bridge predictive modeling with real-world decision-making across the natural, social, and life sciences. " # add speaker bio here
   
