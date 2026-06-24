@@ -728,6 +728,25 @@ details.day-acc[open] > summary::after {
 <p><strong>Morning Sessions (90 min) — Advanced Workshops</strong></p>
 
 <div class="session-block" id="session-music-nli">
+  <p class="session-meta">Mon 29 Jun &nbsp;·&nbsp; 10:00 &nbsp;|&nbsp;Online &nbsp;|&nbsp; Workshop</p>
+  <p class="session-title">Knowledge Extraction and Systematic Data Curation with SciLire</p>
+  <p class="session-speakers"><strong>Speakers:</strong>
+   <a href="https://people.csiro.au/W/S/Stephen-Wan" target="_blank" rel="noopener noreferrer">Stephen Wan</a>,
+   <a href="https://research.csiro.au/cintel/our-people/research-scientists/#:~:text=dimensional%20big%20data.-,Jessica%20Irons,-Research%20Scientist%2C%20Data61" target="_blank" rel="noopener noreferrer">Jessica Irons</a>
+  </p>
+  <p class="session-desc">This session introduces SciLire, a CSIRO-developed tool that extracts structured information from scientific literature and includes built-in features for checking the reliability of its answers. After a live walkthrough, participants will be invited to opt in to a shared task: using SciLire to create a qualitative dataset of their own and applying its reliability features to assess how trustworthy the extracted answers are. SciLire can also be incorporated into Week 2 group work as one of the proposed projects.</p>
+  <div class="outcomes-box">
+    <p>Learning Outcomes</p>
+    <ul>
+      <li>Use SciLire to extract structured information and assemble a qualitative dataset.</li>
+      <li>Apply SciLire's reliability features to evaluate the trustworthiness and consistency of extracted answers.</li>
+      <li>Identify where LLM-assisted extraction tools fit into a participant-centred, ethically grounded research workflow.</li>
+      <li>Reflect on how to incorporate SciLire into a collaborative research project and provide structured feedback on its use.</li>
+    </ul>
+  </div>
+</div>
+     
+<div class="session-block" id="session-music-nli">
   <p class="session-meta">Tue 30 Jun &nbsp;·&nbsp; 10:00 &nbsp;|&nbsp;In-person &nbsp;|&nbsp; Talk</p>
   <p class="session-title">Music Score Analysis through Natural Language Interfaces</p>
   <p class="session-speakers"><strong>Speaker:</strong>
