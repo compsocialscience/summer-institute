@@ -1,6 +1,109 @@
-- name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+- name: "Ensar Acem"
+  image: /assets/images/istanbul2026/Ensar Acem.jpg
+  bio: "Ensar Acem is a researcher working at the intersection of social psychology and behavioral economics within an international research network. His work focuses on how morality, cooperation, and belief systems emerge and evolve through the interplay of biological predispositions and cultural processes. Grounded in Dual Inheritance Theory, he investigates how cognitive styles, social norms, and evolved tendencies jointly shape human behavior. He employs experimental and cross-cultural methods, including research with non-WEIRD populations, to capture variation across societies and improve the generalizability of findings. His research places strong emphasis on methodological rigor, transparency, and open science practices. Through this approach, he aims to contribute to a more robust and cumulative understanding of human social behavior and its underlying mechanisms. Further information is available on his website: https://sites.google.com/view/ensaracem"
+  website: https://sites.google.com/view/ensaracem
 
-# Add more participants with the same format as above...
+- name: "Chengqian Wang"
+  image: /assets/images/istanbul2026/Chengqian Wang.jpg
+  bio: "Chengqian Wang is a PhD student at University College Dublin researching LLM-based chatbots for emotional support. Proficient in Python and JavaScript, he applies computational methods including natural language processing, data analysis, and visualisation in his research. His background in human-computer interaction and AI ethics informs a human-centred and ethically aware approach to research."
+  website:
+
+- name: "Deniz Girgin"
+  image: /assets/images/istanbul2026/Deniz Girgin.jpg
+  bio: "Deniz Girgin is a PhD student in the Political Science program at the University of Connecticut. Her primary research interest is climate change and environmental politics. Her recent work focuses on comparing machine learning models, particularly ClimateBERT, with qualitative analysis methods to evaluate countries’ emissions targets in climate policy documents."
+  website: https://www.linkedin.com/in/deniz-girgin-607136232/
+
+- name: "Helin Yaren Ekmen"
+  image: /assets/images/istanbul2026/Helin Yaren Ekmen.jpg
+  bio: "Helin is an M.A. student in Computational Social Sciences at Koç University and a Research Assistant at the Marmara Institute for Population and Social Research. She holds a B.A. in Political Science from Boğaziçi University. Her research focuses on social movements, contentious politics, and democratic backsliding. Methodologically, she works with text-as-data approaches, LLM-based annotation pipelines, and synthetic agents to study political behavior and collective action."
+  website: https://www.linkedin.com/in/helin-yaren-ekmen-b751a7253/ ; https://github.com/helinyarenekmen
+
+- name: "Nagehan Reyhan Doğan"
+  image: /assets/images/istanbul2026/Nagehan Reyhan Doğan.jpg
+  bio: "Nagehan Reyhan Doğan is a PhD candidate in Political Science and International Relations at Istanbul University. She holds a BA in Political Science and International Relations from Istanbul University and an MA in EU Politics and International Relations from Marmara University, where her thesis examined the impact of EU strategic autonomy on EU–NATO cooperation. Her doctoral research focuses on defense industry indigenization in late-developing states, with Turkiye as the primary case. She combines historical sociology and computational methods to study state transformation processes. She applies Python-based network analysis to SIPRI arms transfer data and is developing computational methods — including social network analysis and NLP — for her dissertation."
+  website: https://www.linkedin.com/in/nagehan-reyhan-doğan-0a29bb18a
+
+- name: "Şükrü Demirtaş"
+  image: /assets/images/istanbul2026/Şükrü Demirtaş.jpg
+  bio: "Dr. Şükrü C. Demirtaş is a computational social scientist specializing in economics, finance, and agent-based modeling. He completed his Ph.D. in Economics at Yıldız Technical University, focusing on artificial stock markets and financial dynamics. His research examines inflation processes, market microstructure, expectation formation, and central banking through computational and data-driven methods, including machine learning and nonlinear dynamics."
+  website: https://www.linkedin.com/in/demirtasukru/
+
+- name: "Ali Rajabzadeh Jorjafki"
+  image: /assets/images/istanbul2026/Ali Rajabzadeh Jorjafki.jpg
+  bio: "Ali Rajabzadeh is an Instructor at Methods Academy, where he leads workshops on the use of Large Language Models in social science research, with an emphasis on transparency, replicability, and human supervision. He is also co-authoring a methodological paper on balancing interpretive depth and autonomy in LLM-assisted text analysis. His current PhD proposal examines how LLMs can be leveraged to analyze interactions between media and politics."
+  website: https://methods.academy
+
+- name: "Emma Walker-Silverman"
+  image: /assets/images/istanbul2026/Emma Walker-Silverman.jpg
+  bio: "Emma Walker-Silverman is a doctoral student at the Refugee Studies Centre at the University of Oxford. She is broadly interested in intergroup relations and the forces that shape them, and specifically why different people and communities respond so differently to hosting refugees. Her doctoral research uses qualitative and experimental methods to examine the influence of social media on attitudes towards refugees in Turkey. She holds an MSc in Refugee and Forced Migration Studies from the University of Oxford and a BA in Psychology from Stanford University, both with distinction. Before coming to Oxford, she worked as a Fulbright researcher and coordinator with local NGOs in Turkey."
+  website:
+
+- name: "Mehrdad Heshmat"
+  image: /assets/images/istanbul2026/Mehrdad Heshmat.jpg
+  bio: "Mehrdad is an M.Sc. student at Sabancı University and a researcher at VRL Lab. His current work focuses on analyzing psychological data, with a particular interest in memory. He primarily contributes to research projects through the application of natural language processing and network science methods."
+  website: https://mehrdad-heshmat.com/
+
+- name: "Afife Yıldız"
+  image: /assets/images/istanbul2026/Afife Yıldız.jpg
+  bio: "Afife Yıldız is a Military Sociology Ph.D. student at the Turkish National Defense University. Drawing on 12 years of experience in humanitarian aid, she researches conflict dynamics. Her work applies computational text analysis to oral histories from veterans of the Cyprus Peace Operation to model links between narrative structure, unit cohesion, and combat behavior."
+  website: https://www.linkedin.com/in/afifeyildiz/
+
+- name: "Irem Dumlu Taylan"
+  image: /assets/images/istanbul2026/Irem Dumlu Taylan.jpg
+  bio: "Irem Dumlu Taylan is a PhD student in Political Science and International Relations at Izmir University of Economics, where she also works as a research assistant. She holds an MA in International Relations from the University of Bologna. She is especially interested in integrating computational social science methods, including machine learning and quantitative modeling, to study conflict prediction and uncover complex relationships between political institutions and interstate behavior."
+  website: https://www.linkedin.com/in/irem-dumlu
+
+- name: "Nagihan Özman"
+  image: /assets/images/istanbul2026/Nagihan Özman.jpg
+  bio: "Nagihan is a PhD student in Psychology at Özyeğin University in Istanbul. She is broadly interested in social cognition, cultural differences, social identity, and gender studies."
+  website: https://linkedin.com/in/nagihan-özman-7b2769128
+
+- name: "Yaser Koyuncu"
+  image: /assets/images/istanbul2026/Yaser Koyuncu.jpg
+  bio: "Yaser Koyuncu is a Ph.D. research assistant in Social Research Methodology at Hacettepe University Institute of Population Studies. He received his Bachelor of Arts degree in International Relations from Bilkent University and his Master’s and PhD degrees from Hacettepe University. His research is based on mixed methods and focuses on the methodological impact of computational social science on research practices in the social sciences."
+  website: https://www.linkedin.com/in/yaser-koyuncu-3613bb76/
+
+- name: "Cemal Ataş"
+  image: /assets/images/istanbul2026/Cemal Ataş.jpg
+  bio: "Cemal Ataş is an MA student in Media and Visual Studies at Bilkent University. His research combines computational communication methods with behavioral science to design and evaluate personalized misinformation interventions. He tests LLM-generated corrections for health misinformation, with attention to effectiveness and fairness, and co-developed TRNews-12M, a 12-million article Turkish news dataset."
+  website:
+
+- name: "Zehra Usta"
+  image: /assets/images/istanbul2026/Zehra Usta.jpg
+  bio: "Zehra Usta is a PhD student at the University of Warsaw. Her dissertation examines the social drivers of cultural consumption. She also works as a Research Assistant and teaches Reproducible Research course at the University of Warsaw. Her research interests are cultural economics, network science, and machine learning."
+  website: https://www.linkedin.com/in/zehra-usta/
+
+- name: "Ersagun Kocabaş"
+  image: /assets/images/istanbul2026/Ersagun Kocabaş.jpg
+  bio: "Ersagun Kocabaş is an education assistant at the Foundations Development Directorate at Sabancı University and a prospective postdoctoral researcher in the university's Faculty of Arts and Social Sciences. He received his Ph.D. in Political Science from Sabancı University, and holds an M.Sc. from SOAS University of London and a B.A. from Marmara University. His research focuses primarily on peace and conflict studies, civil-military relations, and foreign policy analysis."
+  website: https://www.linkedin.com/in/ersagunkocabas/
+
+- name: "Mahsum Ökmen"
+  image: /assets/images/istanbul2026/Mahsum Ökmen.jpg
+  bio: "Mahsum Ökmen is a PhD candidate in Economics at Marmara University and a Research Assistant at Doğuş University. His research explores population economics and regional development, specifically focusing on the socio-economic outcomes for vulnerable groups and refugees in Türkiye using causal inference and computational spatial analysis."
+  website:
+
+- name: "Pelin Akçagün Narin"
+  image: /assets/images/istanbul2026/Pelin Akçagün Narin.jpg
+  bio: "Pelin Akçagün Narin is an Assistant Professor in the Department of Economics at Ondokuz Mayıs University, Türkiye. She holds a Ph.D. in Economics from Middle East Technical University. Her research focuses on spatial econometrics, bayesian econometrics, applied macroeconometrics, regional development, labor economics, and the economic implications of climate change. Her work has appeared in journals including the Journal of Financial Econometrics and Applied Spatial Analysis and Policy. She has also contributed to national and international research projects and teaches courses in econometrics, statistics, and computer programming."
+  website: https://www.linkedin.com/in/pelin-akcagun-narin-6a765a37/
+
+- name: "Mehmet Bağdınlı"
+  image: /assets/images/istanbul2026/Mehmet Bağdınlı.jpg
+  bio: "Mehmet Bağdınlı is a master's student in Computational Social Sciences at Koç University. He earned his Bachelor's in Economics from Galatasaray University. His research interests include political economy, economic inequality, causal inference, computational methods in social science, political sociology, regional development, and urban studies."
+  website:
+
+- name: "Alyssa Nguyen"
+  image: /assets/images/istanbul2026/Alyssa Nguyen.jpg
+  bio: "Alyssa is a PhD Student studying Data Science at the University of Chicago where she is a research assistant at the Booth School of Business. She graduated from UC Berkeley with a B.A. in Data Science. She previously worked at IRLE doing labor economics research, BAIR doing machine learning research, and was a Social Science Research Pathways Scholar. She is broadly interested in data provenance techniques to document data flows within government institutions."
+  website: https://alyssa-nguyen.xyz/
+
+- name: "Talip Akçelik"
+  image: /assets/images/istanbul2026/Talip Akçelik.jpg
+  bio: "Talip Akçelik is a Research Assistant and PhD Candidate in Sociology at Hacettepe University. His research interests lie at the intersection of computational social sciences and analytical sociology. His work focuses on low-wage service work in Türkiye, with a particular emphasis on university graduates employed within this sector."
+  website: https://talipakcelik.com
+
+- name: "Yana van de Sande"
+  image: /assets/images/istanbul2026/Yana van de Sande.jpg
+  bio: "Yana van de Sande is a PhD candidate at Radboud University, affiliated with iHub and the Centre for Language Studies (CLS), working on misinformation and deception. She has a background in artificial intelligence (MSc) and social science (BSc). At the intersection of both fields, she researches how information ecosystems function and how reality is constructed. Her current research projects include misinformation in different species, deception through doubt, and investigating how truth is constructed within AI technology."
+  website: https://yanavandesan.de
