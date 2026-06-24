@@ -484,17 +484,11 @@ This page compiles pre-reading, tools, and further reading for each confirmed se
 
 <div class="res-card">
   <p class="res-card-meta">13:30–14:30 &nbsp;|&nbsp; Workshop</p>
-  <p class="res-card-title">RAG 101</p>
+  <p class="res-card-title">RAG Systems in Research</p>
 
   <h4>Pre-reading</h4>
   <ul>
     <li><a href="https://doi.org/10.48550/arXiv.2005.11401" target="_blank" rel="noopener noreferrer">Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks</a> — Lewis et al., 2020. The seminal paper introducing the RAG framework that combines retrieval with generation. <span class="res-type">Paper</span></li>
-  </ul>
-
-  <h4>Tools &amp; Platforms</h4>
-  <ul>
-    <li><a href="https://docs.langchain.com/oss/python/langchain/overview" target="_blank" rel="noopener noreferrer">LangChain</a> — Popular Python framework for building RAG pipelines, with pre-built modules for document loading, embedding, and retrieval. <span class="setup-flag">Setup</span></li>
-    <li><a href="https://docs.llamaindex.ai/" target="_blank" rel="noopener noreferrer">LlamaIndex</a> — Framework for connecting LLMs to external data sources, purpose-built for RAG applications.</li>
   </ul>
 
   <h4>Further reading</h4>
