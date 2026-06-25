@@ -728,7 +728,7 @@ details.day-acc[open] > summary::after {
 <p><strong>Morning Sessions (90 min) — Advanced Workshops</strong></p>
 
 <div class="session-block" id="session-music-nli">
-  <p class="session-meta">Mon 29 Jun &nbsp;·&nbsp; 10:00 &nbsp;|&nbsp;Online &nbsp;|&nbsp; Workshop</p>
+  <p class="session-meta">Mon 29 Jun &nbsp;·&nbsp; 09:00 &nbsp;|&nbsp;Online &nbsp;|&nbsp; Workshop</p>
   <p class="session-title">Knowledge Extraction and Systematic Data Curation with SciLire</p>
   <p class="session-speakers"><strong>Speakers:</strong>
    <a href="https://people.csiro.au/W/S/Stephen-Wan" target="_blank" rel="noopener noreferrer">Stephen Wan</a>,
