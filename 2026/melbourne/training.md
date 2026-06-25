@@ -549,7 +549,7 @@ This page compiles pre-reading, tools, and further reading for each confirmed se
 
   <h4>Pre-reading</h4>
   <ul>
-    <li><a href="https://fraba.github.io/wikibase-mixed-methods-research/wikibase-cloud-setup.html" target="_blank" rel="noopener noreferrer">Wikibase Preparation Materials for 1 Jul - Francesco Bailo session</a></li>
+    <li><a href="https://fraba.github.io/wikibase-mixed-methods-research/wikibase-cloud-setup.html" target="_blank" rel="noopener noreferrer">PREPARATION - Wikibase Preparation Materials for 1 Jul - Francesco Bailo session</a></li>
     <li><a href="https://doi.org/10.1093/pan/mps028" target="_blank" rel="noopener noreferrer">Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts</a> — Grimmer &amp; Stewart, 2013. Foundational discussion of validation strategies including human evaluation, replication, and inter-coder reliability. <span class="res-type">Paper</span></li>
   </ul>
 
