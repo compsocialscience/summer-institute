@@ -1,4 +1,30 @@
+- name: Beatriz Ferrareto
+  image: /assets/images/Beatriz Ferrareto_1.jpeg
+  bio: "Beatriz Ferrareto is Partner and Executive Director of Business Development at WideLabs, a Brazilian sovereign artificial intelligence company that develops complex AI systems for critical public-sector functions and regulated industries. At WideLabs, she leads the company’s partnerships strategy, business development initiatives in Brazil, and expansion across Latin America. Before joining WideLabs, Ferrareto worked as a Digital Strategist at Bit2Me and was part of the Consumer Insights and Data Science teams at BTG Pactual, where she developed data-driven strategies for internal consulting projects. She holds a bachelor's degree in Public Administration and International Relations from FGV, with academic studies in Political Science at the University of Cologne, Germany. She also earned a CEMS Master’s in International Management through a triple-degree program at FGV (São Paulo), the Stockholm School of Economics (Stockholm), and University College Dublin (Dublin)."
+  website: https://www.linkedin.com/in/beatriz-ferrareto
+   
+- name: Elias Bitencourt
+  image: /assets/images/foto_elias_perfil.jpg
+  bio: "Elias Bitencourt is an Associate Professor in the Department of Design at Universidade do Estado da Bahia (UNEB). He holds a Ph.D. in Communication from FACOM/UFBA and a Master's in Culture and Society from IHAC/UFBA. He was a visiting researcher at the Milieux Center (Concordia University, Canada, 2019) and currently leads the Datalab/Design at UNEB: a center for research and development in data visualization and digital methodologies. His research focuses on data visualization, algorithmic mediation in daily social life, platform studies, digital practices, and imagination. He also collaborates with the Inova Media Lab (Universidade Nova de Lisboa) and the international Public Data Lab research network."
+
+- name: Felipe Marques Esteves Lamarca
+  image: /assets/images/felipe_lamarca_foto.jpeg
+  bio: Felipe Lamarca is a social scientist graduated from the School of Social Sciences (FGV CPDOC) and a data scientist graduated from the School of Applied Mathematics (FGV EMAp). He is currently a data scientist at AtlasIntel and a master’s student in Political Science at the Institute of Social and Political Studies (IESP-UERJ), where he is also a researcher at the Laboratory for Monitoring and Evaluation of Policies and Elections.
+
 - name: Hugo Medeiros
   image: /assets/images/hugo_medeiros_sicss.jpg
   bio: Hugo Medeiros holds a PhD in Education (UFPE), with postdoctoral research in Political Science (UFPE). He also holds a Licentiate Degree in History (UFPE), a Bachelor's Degree in Information Systems (UNESA), and an MBA in Data Science (DSA). He is a Government Planning Manager at the State Secretariat of Planning (SEPLAG-PE), where he currently serves as Director of Special Projects. He is also a Researcher at the Center of Excellence in Social Technologies (NEES) at the Federal University of Alagoas (UFAL).
+
+- name: Jess Reia
+  image: /assets/images/jess_reia_sicss.JPEG
+  bio: "Jess Reia is an Assistant Professor of Data Science at the University of Virginia, a 2024 Visiting Scholar at Fudan University and a 2024-2025 Non-Resident Fellow at the Center for Democracy & Technology in Washington, D.C. Before joining UVA, they were appointed Mellon Postdoctoral Researcher at McGill University and BMO Fellow at the Centre for Interdisciplinary Research on Montreal in Canada. Reia held a two-year mandate as a member of MTL 24/24's first Night Council in Montreal, providing guidance on data collection and open data practices for the night-time economy ecosystem. From 2011 to 2019, Reia worked at the Center for Technology & Society at FGV Law School in Rio de Janeiro, Brazil, leading projects on access to knowledge, privacy and smart cities in Latin America and BRICS. They work primarily on data justice, urban governance, and technology policy transnationally."
+
+- name: Leonardo Nascimento
+  image: /assets/images/leonardonascimento.jpg
+  bio: "Leonardo F. Nascimento is a professor at the Federal University of Bahia. As the Digital Humanities Laboratory (LABHDUFBA) coordinator, he has contributed to research in digital sociology, digital humanities, and computational social science. He is the author of the book “Sociologia Digital: uma breve introdução - EDUFBA – 2020”. In his current research, he is collaborating with InternetLab, UFSC, and AI for Society on a project investigating the intersection of instant messengers and political violence and utilizing a combination of natural language processing (NLP) techniques and mixed qualitative approaches, including discourse analysis and online ethnography." 
+  website: https://leofn.com/
+  
+- name: Mateus Pestana
+  image: /assets/images/mateus_pestana.png
+  bio: "Matheus Pestana is a professor at the School of Communication, Media, and Information at Fundação Getulio Vargas (FGV ECMI), a researcher at the Institute for Religious Studies (ISER), and a member of the New Illegalisms research group (GENI/UFF). He is a PhD Candidate in Political Science at the State University of Rio de Janeiro (UERJ), where he also earned his Master's degree in the same field. His current research focuses on the intersection of artificial intelligence (AI) and politics/public opinion. He has interests in computer vision, large language models (LLMs), speech recognition, and image detection/segmentation."
 
