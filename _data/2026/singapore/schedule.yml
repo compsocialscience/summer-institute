@@ -3,7 +3,7 @@
   events:
     - name: "Location: Innovation 4.0 Conference Room, 3 Research Link, Innovation 4.0, 117602"
     - name: "09:30 - 10:00 Registration / Morning Tea"
-    - name: "10:00 - 12:00 Keynote by **Dr. D. Sunshine Hillygus**"
+    - name: "10:00 - 12:00 Lecture by **Dr. D. Sunshine Hillygus**"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 14:30 Group Formation"
     - name: "14:30 - 15:00 Tea Break"
@@ -14,29 +14,29 @@
   events:
     - name: "Location: Boardroom, #04-04 The Centre for Trusted Internet Community (CTIC), 3 Research Link, Innovation 4.0, 117602"
     - name: "09:45 - 10:00 Check-in / Morning Tea"
-    - name: "10:00 - 12:00 Speech by **Dr. Elisa Baek**"
+    - name: "10:00 - 12:00 Lecture by **Dr. Elisa Baek**"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 14:30 Group Work"
     - name: "14:30 - 15:00 Tea Break"
-    - name: "15:00 - 17:00 Speech by **Dr. Yihong Huang**"
+    - name: "15:00 - 17:00 Lecture by **Dr. Yihong Huang**"
 
 - date: July 15, 2026
   name: "3rd Day"
   events:
     - name: "Location: Boardroom, #04-04 The Centre for Trusted Internet Community (CTIC), 3 Research Link, Innovation 4.0, 117602"
     - name: "09:45 - 10:00 Check-in / Morning Tea"
-    - name: "10:00 - 12:00 Speech by **Dr. Hai Liang**"
+    - name: "10:00 - 12:00 Lecture by **Dr. Hai Liang**"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 14:30 Group Work"
     - name: "14:30 - 15:00 Tea Break"
-    - name: "15:00 - 17:00 Speech by **Dr. Prasanta Bhattacharya**"
+    - name: "15:00 - 17:00 Lecture by **Dr. Prasanta Bhattacharya**"
 
 - date: July 16, 2026
   name: "4th Day"
   events:
     - name: "Location: Innovation 4.0 Conference Room, 3 Research Link, Innovation 4.0, 117602"
     - name: "09:45 - 10:00 Check-in / Morning Tea"
-    - name: "10:00 - 12:00 Speech by **Dr. Kiran Garimella**"
+    - name: "10:00 - 12:00 Lecture by **Dr. Kiran Garimella**"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 14:30 Group Work"
     - name: "14:30 - 15:00 Tea Break"
@@ -47,11 +47,11 @@
   events:
     - name: "Location: Innovation 4.0 Conference Room, 3 Research Link, Innovation 4.0, 117602"
     - name: "09:45 - 10:00 Check-in / Morning Tea"
-    - name: "10:00 - 12:00 Speech by **Dr. Dilrukshi Gamage**"
+    - name: "10:00 - 12:00 Lecture by **Dr. Dilrukshi Gamage**"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 14:30 Group Work"
     - name: "14:30 - 15:00 Tea Break"
-    - name: "15:00 - 17:00 Speech by **Dr. Swapnil Mishra**"
+    - name: "15:00 - 17:00 Lecture by **Dr. Swapnil Mishra**"
 
 - date: July 18, 2026
   name: "6th Day"
@@ -68,7 +68,7 @@
   events:
     - name: "Location: Innovation 4.0 Conference Room, 3 Research Link, Innovation 4.0, 117602"
     - name: "09:45 - 10:00 Check-in / Morning Tea"
-    - name: "10:00 - 12:00 Keynote by **Dr. Emilio Ferrara**"
+    - name: "10:00 - 12:00 Lecture by **Dr. Emilio Ferrara**"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 14:30 Group Work"
     - name: "14:30 - 15:00 Tea Break"
