@@ -5,7 +5,7 @@
     - name: "09:30 - 10:00 Registration / Morning Tea"
     - name: "10:00 - 12:00 Keynote by **Dr. D. Sunshine Hillygus**"
     - name: "12:00 - 13:00 Lunch"
-    - name: "13:00 - 14:30 Group Formatiioin"
+    - name: "13:00 - 14:30 Group Formation"
     - name: "14:30 - 15:00 Tea Break"
     - name: "15:00 - 17:00 Group Work"
 
@@ -14,7 +14,7 @@
   events:
     - name: "Location: Boardroom, #04-04 The Centre for Trusted Internet Community (CTIC), 3 Research Link, Innovation 4.0, 117602"
     - name: "09:45 - 10:00 Check-in / Morning Tea"
-    - name: "10:00 - 12:00 Speech by **Dr. Swapnil Mishra**"
+    - name: "10:00 - 12:00 Speech by **Dr. Elisa Baek**"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 14:30 Group Work"
     - name: "14:30 - 15:00 Tea Break"
@@ -51,7 +51,7 @@
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 14:30 Group Work"
     - name: "14:30 - 15:00 Tea Break"
-    - name: "15:00 - 17:00 Speech by **Dr. Elisa Baek**"
+    - name: "15:00 - 17:00 Speech by **Dr. Swapnil Mishra**"
 
 - date: July 18, 2026
   name: "6th Day"
