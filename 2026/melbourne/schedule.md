@@ -716,7 +716,7 @@ details.day-acc[open] > summary::after {
     <span class="day-date-pill">Mon 29 June – Thu 2 July 2026</span>
   </div>
   <p class="day-acc-title">Collaborative Research Projects</p>
-  <p class="day-venue-row"><a href="https://maps.google.com/?q=Deakin+Downtown,+550+Bourke+St+Melbourne+VIC+3000" target="_blank" rel="noopener noreferrer">Deakin Downtown — 550 Bourke St, Melbourne</a></p>
+  <p class="day-venue-row"><a href="https://maps.app.goo.gl/VQVepGdzXRoeZqx5A" target="_blank" rel="noopener noreferrer">Deakin Downtown — tower 2 level 12/727 Collins St, Melbourne VIC 3008</a></p>
   <p class="day-preview">The week transitions from formal instruction to hands-on, participant-led group research. Mornings feature advanced methodological workshops; the rest of each day is dedicated to collaborative teamwork supported by drop-in experts and mentors.</p>
 </summary>
 <div class="day-body">
@@ -838,7 +838,7 @@ details.day-acc[open] > summary::after {
     <span class="day-date-pill">Friday, 3 July 2026</span>
   </div>
   <p class="day-acc-title">Project Presentations &amp; Closing</p>
-  <p class="day-venue-row"><a href="https://maps.google.com/?q=Deakin+Downtown,+550+Bourke+St+Melbourne+VIC+3000" target="_blank" rel="noopener noreferrer">Deakin Downtown — 550 Bourke St, Melbourne</a></p>
+  <p class="day-venue-row"><a href="https://maps.app.goo.gl/VQVepGdzXRoeZqx5A" target="_blank" rel="noopener noreferrer">Deakin Downtown — tower 2 level 12/727 Collins St, Melbourne VIC 3008</a></p>
   <p class="day-preview">Participants present preliminary findings, methodologies, and proposed solutions from their collaborative week-long projects, followed by final feedback, networking, and closing remarks.</p>
 </summary>
 <div class="day-body">
