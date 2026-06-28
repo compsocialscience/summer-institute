@@ -717,7 +717,7 @@ details.day-acc[open] > summary::after {
   </div>
   <p class="day-acc-title">Collaborative Research Projects</p>
   <p class="day-venue-row"><a href="https://maps.app.goo.gl/VQVepGdzXRoeZqx5A" target="_blank" rel="noopener noreferrer">Deakin Downtown — tower 2 level 12/727 Collins St, Melbourne VIC 3008</a></p>
-  <p class="day-preview">The week transitions from formal instruction to hands-on, participant-led group research. Mornings feature advanced methodological workshops; the rest of each day is dedicated to collaborative teamwork supported by drop-in experts and mentors.</p>
+  <p class="day-preview">The week transitions from formal instruction to hands-on, participant-led group research. Mornings and afternoons feature advanced methodological workshops; the rest of each day is dedicated to collaborative teamwork supported by drop-in experts and mentors.</p>
 </summary>
 <div class="day-body">
   <div class="venue-map-strip">
@@ -764,23 +764,28 @@ details.day-acc[open] > summary::after {
   </div>
 </div>
 
-<!-- <div class="session-block" id="session-gems-slop">
-  <p class="session-meta">Tue 30 Jun &nbsp;·&nbsp; 15:00–16:00 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
-  <p class="session-title">Gems in the Slop: Breaking and Creating with GenAI</p>
+<div class="session-block" id="session-gems-slop">
+  <p class="session-meta">Tue 30 Jun &nbsp;·&nbsp; 15:30–16:00 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
+  <p class="session-title">Foundational Ethics in CSS</p>
   <p class="session-speakers"><strong>Speaker:</strong>
-    <a href="https://www.rmit.edu.au/profiles/b/daniel-binns" target="_blank" rel="noopener noreferrer">Daniel Binns</a>
+    <a href="https://experts.deakin.edu.au/72009-gordon-young-young" target="_blank" rel="noopener noreferrer">Gordon Young</a>
   </p>
-  <p class="session-desc">What happens when you stop trying to fix the errors? This session invites participants to rethink generative AI not as a tool to be optimised, but as a material to be broken — and to ask what those breaks reveal. Drawing on glitch aesthetics, media materialism, and prompt experimentation, we'll treat AI error not as failure but as data: a window into the underlying structures, associations, and assumptions baked into large language models. Through live demos and hands-on exercises, participants will design their own prompt rituals and use the resulting glitches, hallucinations, and semantic collapses to build richer understandings of how these systems actually work. We'll also consider what it means to translate research into creative form — and what generative AI makes possible (and impossible) in that process.</p>
+  <p class="session-desc">This session deconstructs the theory of ethics and connects it to the context of Computational Social Science (CSS). We will unpack four foundational ethical frameworks, map them onto current institutional practices, and close with a technical provocation challenging how we view algorithms and ethics.
+    <ul>
+      <li>Virtue Ethics: Character-driven guidance (e.g., aligning research with FAIR and CARE principles).</li>
+      <li>Deontology: Duty and rules-based frameworks (e.g., navigating HREC applications and legal compliance).</li>
+      <li>Consequentialism: Outcome-based calculus (e.g., balancing risk vs. benefit in human research, the classic Trolley Problem).</li>
+      <li>Feminist Care Ethics: Reimagining consequence through the lens of power dynamics and marginalized communities.</li>
+    </ul>
+  We will explore a strange parallel: how sigmoid classifiers mimic strict deontology, and how linear regression functions like utility-maximizing consequentialism.</p>
   <div class="outcomes-box">
     <p>Learning Outcomes</p>
     <ul>
-      <li>Understand how and why LLMs produce errors, hallucinations, and unexpected outputs.</li>
-      <li>Use glitchy and degraded outputs as analytical data about model behaviour.</li>
-      <li>Design prompt experiments that generate productive instability.</li>
-      <li>Explore creative research translation through generative tools.</li>
+      <li>Differentiate between the four primary ethical frameworks and identify their institutional equivalents</li>
+      <li>Recognise systemic gaps where traditional CSS ethics fail to account for power dynamics and representation.</li>
     </ul>
   </div>
-</div> -->
+</div>
 
 <div class="session-block" id="session-validation">
   <p class="session-meta">Wed 1 Jul &nbsp;·&nbsp; 09:00-10:30 &nbsp;|&nbsp; In-person &nbsp;|&nbsp; Workshop</p>
