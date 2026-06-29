@@ -544,6 +544,16 @@ This page compiles pre-reading, tools, and further reading for each confirmed se
 </div>
 
 <div class="res-card">
+  <p class="res-card-meta">Tue 30 Jun &nbsp;·&nbsp; 10:00 &nbsp;|&nbsp; Workshop</p>
+  <p class="res-card-title">Music Score Analysis through Natural Language Interfaces</p>
+
+  <h4>Preparation Materials</h4>
+  <ul>
+    <li><a href="https://sicss.io/2026/melbourne/Encoding-Music-MCP-Workshop-Guide.pdf" target="_blank" rel="noopener noreferrer">PREPARATION - Connecting the Encoding Music MCP Server</a></li>
+  </ul>
+</div>
+
+<div class="res-card">
   <p class="res-card-meta">Wed 1 Jul &nbsp;·&nbsp; 09:00 &nbsp;|&nbsp; Workshop</p>
   <p class="res-card-title">Validation in Computational Social Science</p>
 
