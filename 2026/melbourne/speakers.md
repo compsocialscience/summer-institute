@@ -142,7 +142,7 @@ Meet the organisers and invited speakers for SICSS-Melbourne 2026. Speakers link
 </div>
 
 <div class="people-grid">
-{% assign speakers = site.data.2026.melbourne.speakers_directory | sort: 'sort_name' %}
+{% assign speakers = site.data['2026'].melbourne.speakers_directory | sort: 'sort_name' %}
 {% for person in speakers %}
 <div class="person-card">
   <p class="person-name">

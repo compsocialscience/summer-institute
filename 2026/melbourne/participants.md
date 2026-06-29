@@ -142,7 +142,7 @@ Meet the participants at SICSS-Melbourne 2026.
 </div>
 
 <div class="people-grid">
-{% assign participants = site.data.2026.melbourne.participants | sort: 'sort_name' %}
+{% assign participants = site.data['2026'].melbourne.participants | sort: 'sort_name' %}
 {% for person in participants %}
 <div class="person-card">
   <p class="person-name">

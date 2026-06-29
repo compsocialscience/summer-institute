@@ -144,7 +144,7 @@ Meet the organisers, invited speakers, and accepted participants for SICSS-Melbo
 ## Speakers &amp; Organisers
 
 <div class="people-grid">
-{% assign speakers = site.data.2026.melbourne.speakers_directory | sort: 'sort_name' %}
+{% assign speakers = site.data['2026'].melbourne.speakers_directory | sort: 'sort_name' %}
 {% for person in speakers %}
 <div class="person-card">
   <p class="person-name">
@@ -176,7 +176,7 @@ Meet the organisers, invited speakers, and accepted participants for SICSS-Melbo
 ## Participants
 
 <div class="people-grid">
-{% assign participants = site.data.2026.melbourne.participants | sort: 'sort_name' %}
+{% assign participants = site.data['2026'].melbourne.participants | sort: 'sort_name' %}
 {% for person in participants %}
 <div class="person-card">
   <p class="person-name">
