@@ -8,10 +8,10 @@
   bio: "Alphonse Kabore est étudiant en Ingénierie Statistique et Économie à l’ISSP de l’Université Joseph Ki-Zerbo, après avoir obtenu un diplôme professionnel d’analyste statisticien, option informatique décisionnelle. Spécialisé en analyse de données, modélisation statistique et visualisation interactive, il a obtenu en 2024 le 2ᵉ prix du Challenge de Scraping d’Open Burkina grâce à sa maîtrise des techniques de collecte et de valorisation des données ouvertes. Il s’intéresse particulièrement à l’usage des données massives et de l’intelligence artificielle pour appuyer la prise de décision dans des contextes complexes."
   website: www.linkedin.com/in/alphonse-kabore-9b6667299/
 
-- name: "Samboal LOMPO" 
-  image: /assets/images/placeholderPic.jpg
-  bio: "LOMPO Samboal est analyste statisticien spécialisé en informatique décisionnelle. Il exerce actuellement en tant qu'assistant de recherche à l’institut Supérieur des Sciences de la Population (ISSP), où il contribue à des études portant sur la santé communautaire, les dynamiques de population et les maladies en Afrique. Il a des compétences en collecte automatique de données sur le web et les réseaux sociaux par le biais du web scraping (YouTube, Facebook, Twitter) avec R et Python, ainsi qu'en apprentissage automatique appliqué à l'analyse de données. Titulaire d'un certificat en Science ouverte pour le développement (2025), il s'engage également au niveau international comme Responsable de la planification et du développement au sein de Global Union Global Union Of Changemakers (GUC) , un mouvement mondial de jeunes leaders enregistré en Afrique du Sud, dont la mission est d'autonomiser la jeunesse à travers la collaboration et l'innovation."
-  website:
+- name: "Samboal LOMPO"
+  image: /assets/images/placeholderPic.png
+  bio: "LOMPO Samboal est analyste statisticien spécialisé en informatique décisionnelle. Il exerce actuellement en tant qu'assistant de recherche à l’institut Supérieur des Sciences de la Population (ISSP), où il contribue à des études portant sur la santé communautaire, les dynamiques de population et les maladies en Afrique. Il a des compétences en collecte automatique de données sur le web et les réseaux sociaux par le biais du web scraping (YouTube, Facebook, Twitter) avec R et Python, ainsi qu'en apprentissage automatique appliqué à l'analyse de données. Titulaire d'un certificat en Science ouverte pour le développement (2025), il s'engage également au niveau international comme Responsable de la planification et du développement au sein de Global Union Of Changemakers (GUC), un mouvement mondial de jeunes leaders enregistré en Afrique du Sud, dont la mission est d'autonomiser la jeunesse à travers la collaboration et l'innovation."
+  website: ""
   
 - name: "Bebou Bienvenu YO" 
   image: /assets/images/bienvenu_yo.jpg
