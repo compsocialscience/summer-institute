@@ -38,10 +38,10 @@
   bio: "Dr. Ayesha is an Assistant Professor of Economics at The Women University Multan, holding a PhD in Economics from Germany and over eight years of experience teaching and conducting policy research across Pakistan. Her research interests span Macroeconomics, International Trade, Environmental Economics, and Public Sector Economics, while her research interests cover International Economics, FDI, Development Economics, Women Empowerment, and Computational Social Science. She has published over 30 refereed articles in international journals and managed numerous government-commissioned and externally funded research projects. She is particularly interested in interdisciplinary collaborations integrating Economics, Data Science, and Computational Social Science to address complex policy and development challenges."  # Add participant bio here.
   website: https://www.linkedin.com/in/ayesha-ashraf-376b4080/ # Link participant website here.
 
-# - name: "Dua Mohstashim" # Replace with participant name.
-#   image: /assets/images/SICSSHabib_Participant_Dua_Mohtashim.png  # Add participant image to assets/images/ and update here.
-#   bio: ""  # Add participant bio here.
-#   website: https://www.linkedin.com/in/dua-mohtashim/ # Link participant website here.  
+- name: "Dua Mohstashim" # Replace with participant name.
+  image: /assets/images/SICSSHabib_Participant_Dua_Mohtashim.png  # Add participant image to assets/images/ and update here.
+  bio: "Currently working as a Product Associate, Dua is actively involved in the development of scalable digital health platforms impacting frontline workers and maternal health outcomes across Pakistan. She holds a BSc.(Hons) in Social Development and Policy from Habib University where she worked on multiple academic projects in education, policymaking, urban development, and political science. Broadly, she is interested in how decisions around urban infrastructure — housing, transit, and public space — determine health outcomes for cities and communities at large. Apart from her academic pursuits, Dua volunteers for Karachi Bachao Tehreek (KBT), a growing movement of demolition-impacted communities and their allies in the city. As a push back against academia's epistemic gatekeeping, she sees SICSS as a chance to build open-source datasets that give Pakistan's research community real access to its own knowledge."  # Add participant bio here.
+  website: https://www.linkedin.com/in/dua-mohtashim/ # Link participant website here.  
 
 - name: "Maryam Mansoor" # Replace with participant name.
   image: /assets/images/SICSSHabib_Participant_MaryamMansoor.jpg  # Add participant image to assets/images/ and update here.
