@@ -17,7 +17,7 @@ Applicants must submit the following documents:
 
 **The materials can be submitted in English or Portuguese**.
 
-**In order to be guaranteed full consideration, all application materials must be submitted by June 30.** All application materials must be submitted through this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSef7cssqVqX5xAp7vkuuQIu0Lc5L5_XSFrvz3M2Q2ccYndj2w/viewform) (form for this site not yet created). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by July, and will ask participants to confirm their participation very soon thereafter.
+**In order to be guaranteed full consideration, all application materials must be submitted by July 15.** All application materials must be submitted through this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSef7cssqVqX5xAp7vkuuQIu0Lc5L5_XSFrvz3M2Q2ccYndj2w/viewform) (form for this site not yet created). Applications that are not complete by the deadline may not receive full consideration. We will notify applicants solely through e-mail by July, and will ask participants to confirm their participation very soon thereafter.
 
 Inquiries can be sent to: sicss2021.dappbrasil@gmail.com.
 
