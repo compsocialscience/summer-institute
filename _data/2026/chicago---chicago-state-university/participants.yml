@@ -1,6 +1,64 @@
-- name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
 
-# Add more participants with the same format as above...
+- name: Shahan Ahmed
+  image: /assets/images/csu_ahmed.jpg
+  bio: "Shahan Ahmed is a computational social scientist interested in the intersection of social research, public data, health policy, and machine learning. His work applies computational methods to study social and health inequalities, improve evidence-based decision-making, and build accessible data tools. His research interests include health policy analytics, civic data infrastructure, survey research, misinformation detection, and computational approaches to understanding complex social systems." 
+
+- name: Chelsea Armour
+  image: /assets/images/csu_armour.jpg
+  bio: "Chelsea Armour, M.A., is a research Associate in the Department of Psychology and a graduate student in the Master of Science in Data Science program at Virginia Tech.  As co-director of the Memory Development and Policy Lab, her research focuses on prevention and response to sexual abuse occurring in populations with intellectual and developmental disabilities (IDD).  She is interested in leveraging data science to explore health and education disparities affecting people with IDD."
+
+- name: Raghav Bhutani
+  image: /assets/images/csu_bhutani.jpeg
+  bio: "I am a second-year PhD student in Complex Systems and Data Sciences at the University of Vermont. My research interests lie at the intersection of mathematics and the social sciences, with a particular focus on the Indian subcontinent, a region that remains under-researched despite being home to the world’s largest population. Outside of research, I enjoy biking, hiking, skiing, and playing pool."
+
+- name: Daniel Copulsky
+  image: /assets/images/csu_copulsky.jpg
+  bio: "Daniel Copulsky teaches psychology at Indiana University Bloomington. He holds a PhD in Social Psychology from the University of California, Santa Cruz. His research interests include asexuality, nonmonogamy, and neurodiversity, with a focus on identity labels and identity development. He teaches courses on Human Sexuality, Abnormal Psychology, Social Psychology, and Research Methods. He also serves on the board of directors for the nonprofit Center for Positive Sexuality."
+
+- name: Utsav Gandhi
+  image: /assets/images/csu_gandhi.jpg
+  bio: "Utsav Gandhi is a doctoral student in Communication at the University of Illinois Chicago. He is broadly interested in political economy (business models and regulation) of social media, news, and generative AI. Most recently, he was a pre-doctoral Research Professional at the Stigler Center for the Study of the Economy and the State, based at the University of Chicago’s Booth School of Business. Utsav has over ten years of work experience in digital communications and marketing across nonprofit, civic, academic, and research organizations, as well as political and advocacy campaigns in technology policy. He holds a master's in public policy from the University of Chicago’s Harris School, where he completed extensive coursework in technology policy and digital media. He also currently serves as an editorial assistant for New Media & Society, supporting editor-in-chief Dr. Steve Jones. Originally from Mumbai, India, Utsav moved to Chicago in 2010 and enjoys volunteering at PAWS Chicago, the city’s largest no-kill animal shelter, in his free time."
+
+- name: Evan Gomish
+  image: /assets/images/csu_gomish.png
+  bio: "Evan Gomish recently completed a master of science in information at the University of Michigan. Their research interests include gender and sexual identity, information and AI literacy, and classification and its consequences."
+
+- name: Rupal Mahajan
+  image: /assets/images/csu_mahajan.png
+  bio: "Rupal Mahajan is a Ph.D. student in Social Psychology at Northwestern University. Her research sits at the intersection of self-regulation, moral judgment, and interpersonal perception, with a focus on how people evaluate themselves and others. She is interested in combining experimental and computational approaches to understand how social norms, identity expression, and moral beliefs develop within online communities and digital environments."
+
+- name: Dare Olawunmi
+  image: 
+  bio: "Dare Olawunmi is a second-year PhD student in Economics at the Peter T. Paul College of Business and Economics, University of New Hampshire. His research interests lie at the intersection of energy, environmental, and health economics. He currently studies how wildfire smoke exposure and power grid failures jointly affect mortality rates across US counties. Dare holds a Bachelor's degree in Economics from Ekiti State University, Nigeria, and an M.A. in Analytical Economics from the University of New Hampshire."
+
+- name: Ganit Richter
+  image: /assets/images/csu_ricter.png
+  bio: "Dr. Richter’s areas of research interest include hedonic information systems from a managerial, educational, social, and business perspective. Among the main themes of her research are mechanisms of rewards and incentives for motivation, and how gamification can be used in novel contexts, such as interpreting complex legal documents. Dr. Richter has won several prizes, best paper awards, and honors; including from the University of Oxford e-Research Centre, the University of Minneapolis, and KTH Royal Institute of Technology."
+
+- name: Marisa Ross
+  image: /assets/images/csu_ross.jpg
+  bio: "Dr. Marisa Ross is the Quantitative Research Director at the Center for Neighborhood Engaged Research and Science (CORNERS). Passionate about the translation of scientific research beyond the lab into evidence-based policy and practice, she collaborates with CORNERS’ diverse team of researchers to drive policy-relevant research studies concerning community violence intervention (CVI), gun violence prevention, and neighborhood safety and well-being. Marisa joined CORNERS as a postdoctoral fellow in 2021 following the completion of her PhD from the Neuroscience and Public Policy Program at the University of Wisconsin-Madison, where she used functional and structural neuroimaging tools to study brain networks and trauma-related psychopathology in women and girls with posttraumatic stress disorder. She also holds a Master’s of Public Affairs from the UW-Madison La Follette School of Public Affairs. Marisa enjoys visiting Chicago’s best dog-friendly parks and patios with her pup, Pesto, playing board games, and biking around the city with her husband."
+  
+- name: Austin Roth
+  image: /assets/images/csu_roth.jpg
+  bio: "Austin Roth recently completed his Bachelor of Science in Criminal Justice Studies and Political Science and International Relations at Truman State University. His academic interests center on environmental criminology, public policy, and place management’s role in crime prevention. His undergraduate work examined the relationship between tourist destinations and crime, using geospatial data to analyze crime outcomes. He has presented his research at the Midwest Sociological Society annual conference and is interested in expanding his skills in data analysis, spatial methods, and computational social science. He hopes to apply these approaches to better understand social processes and inform evidence-based policy and practice."
+  
+- name: Chenchen Shi
+  image: /assets/images/csu_shi.jpg
+  bio: "Chenchen Shi is an Assistant Professor in the Department of Theatre Pedagogy at The Central Academy of Drama (in Beijing). Her research focuses on evidence-based education, program evaluation, and meta-analysis. Currently, she is a collaborator of the Center for Research and Reform in Education at the Johns Hopkins University."
+  
+- name: Naida Softic
+  image: /assets/images/csu_softic.jpg
+  bio: "Naida Softic is a Ph.D. candidate in Political Science at Loyola University Chicago, where she studies international organizations, their institutional design and the law that governs them, with a focus on migration and development. Her work also examines how international regimes structure cooperation among states and shape the institutions that sustain them. She is especially interested in translating academic insight into policy and in bridging the gap between scholarship and practice. Before coming to the United States as a Fulbright scholar, she earned a law degree from the University of Sarajevo and worked with the European Union, United Nations, International Organization for Migration, USAID, and the Danish Refugee Council on projects that strengthen governance, address migration, and advance approaches grounded in human rights in complex humanitarian settings."
+  
+- name: Sabah Tajin Tarique
+  image: /assets/images/csu_tarique.jpeg
+  bio: "Sabah Tajin Tarique is a PhD student in Urban Planning and Policy at the University of Illinois Chicago (UIC), where she works as a Graduate Research Assistant at the Urban Transportation Center (UTC). She holds a Master's in Geography and Environmental Resources with a GIS specialization from Southern Illinois University Carbondale (SIUC) and a Bachelor's in Urban and Regional Planning from Bangladesh University of Engineering and Technology (BUET). Her research interests include transportation planning, electric vehicle policy and adoption, public transit, and geospatial analysis."
+
+- name: Jordyn Wald
+  image: /assets/images/csu_wald.jpg
+  bio: "Jordyn Wald is a PhD student in Sociology at the University of Minnesota. Her research examines gender, culture, and symbolic boundaries, with a particular focus on how nation-states, organizations, algorithms, and people define the boundaries of masculinity and femininity. Her current work uses Reddit data to examine if and how labor shifts over the past decade have been changing discussions of the "ideal" heterosexual relationship and how these shifts may, in turn, reshape expectations surrounding masculinity and femininity. More broadly, she is interested in how computational methods and digital text-as-data can be harnessed by social scientists to investigate questions of culture, gender, and social change."
+
+- name: Kasi Woods
+  image: /assets/images/csu_woods.jpg
+  bio: "I'm a graduate student and teaching assistant in sociology at the University of Illinois Chicago, researching political articulation in social movements. My work explores how groups communicate ideology across digital spaces, with a current focus on right-wing movements and the use of Christian Nationalist dog whistles in online business communities. My research relies heavily on computational methods (including web scraping, word embedding, structural topic modeling, and social network analysis) to analyze large-scale public data from platforms like Reddit, Craigslist, PublicSquare, and The Metal Archives." 
