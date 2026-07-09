@@ -2,44 +2,44 @@
 - date: 2026-07-13
   name: Introduction and Ethics
   events:
-    - name: "10:00 - 10:30" Introductions
-    - name: "10:30 - 12:00" Computational Science for the Social Good & Guest Speaker Scott Daniel
-    - name: "12:00 - 1:00" Lunch
-    - name: "1:00 - 1:30" Computational Ethics
-    - name: "1:30 - 3:30" Group Exercise
+    - name: "10:00 - 10:30 Introductions"
+    - name: "10:30 - 12:00 Computational Science for the Social Good & Guest Speaker Scott Daniel"
+    - name: "12:00 - 1:00 Lunch"
+    - name: "1:00 - 1:30 Computational Ethics"
+    - name: "1:30 - 3:30 Group Exercise"
 
 - date: 2026-07-14
   name: Digital Trace Data
   events:
-    - name: "10:00 - 11:00" Guest Speaker
-    - name: "11:00 - 12:00" Félix Morales
-    - name: "12:00 - 1:00" Tech Talk on Webscraping
-    - name: "1:00 - 3:30" Webscraping Exercise
+    - name: "10:00 - 11:00 Guest Speaker Félix Morales"
+    - name: "11:00 - 12:00 Tech Talk on Webscraping"
+    - name: "12:00 - 1:00 Lunch"
+    - name: "1:00 - 3:30 Webscraping Exercise"
 
 - date: 2026-07-15
   name: Text as Data
   events:
-    - name: "10:00 - 11:30" Guest Speaker Erin Ochoa
-    - name: "11:30 - 12:00" Tech Talk on Text
-    - name: "12:00 - 1:00" Lunch
-    - name: "1:00 - 3:30" Text Analysis Exercise
+    - name: "10:00 - 11:30 Guest Speaker Erin Ochoa"
+    - name: "11:30 - 12:00 Tech Talk on Text as Data"
+    - name: "12:00 - 1:00 Lunch"
+    - name: "1:00 - 3:30 Text Analysis Exercise"
 
 - date: 2026-07-16
   name: Surveys & Experiments
   events:
-    - name: "10:00 - 11:30" Guest Speaker Danye Medhin
-    - name: "11:30 - 12:00" Tech Talk on Surveys
-    - name: "12:00 - 1:00" Lunch
-    - name: "1:00 - 3:30" Survey Exercises Part 1
+    - name: "10:00 - 11:30 Guest Speaker Danye Medhin"
+    - name: "11:30 - 12:00 Tech Talk on Surveys"
+    - name: "12:00 - 1:00 Lunch"
+    - name: "1:00 - 3:30 Survey Exercises Part 1"
 
 - date: 2026-07-17
   name: Group Project Formation
   events:
-    - name: "10:00 - 11:00" Survey Exercises Part 2
-    - name: "11:00 - 12:00" Particpant Lightning Talks
-    - name: "12:00 - 1:00" Lunch
-    - name: "1:00 - 2:00" Participant Lightning Talks
-    - name: "2:00 - 3:30" Group Formation
+    - name: "10:00 - 11:00 Survey Exercises Part 2"
+    - name: "11:00 - 12:00 Particpant Lightning Talks"
+    - name: "12:00 - 1:00 Lunch"
+    - name: "1:00 - 2:00 Participant Lightning Talks"
+    - name: "2:00 - 3:30 Group Formation"
 
 - date: 2025-07-20
   name: Group Work Self-scheduled
@@ -53,9 +53,9 @@
 - date: 2025-07-23
   name: Group Work Self-scheduled
   events:
-    - name: "10:00 - 12:00" Final Group Presentations
-    - name: "12:00 - 1:00" Lunch
-    - name: "1:00 - 2:00" Final Group Presentations
-    - name: "2:00 - 3:00" Send Off
+    - name: "10:00 - 12:00 Final Group Presentations"
+    - name: "12:00 - 1:00 Lunch"
+    - name: "1:00 - 2:00 Final Group Presentations"
+    - name: "2:00 - 3:00 Send Off"
 
 
