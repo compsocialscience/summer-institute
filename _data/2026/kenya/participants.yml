@@ -13,32 +13,32 @@
   bio: "Grace Nzambali Kitonyi is an MSc candidate in Mathematical Epidemiology at the African Institute for Mathematical Sciences (AIMS) Rwanda, supported by a Mastercard Foundation Scholarship. Her research applies compartmental ODE models and machine learning classifiers to build a county-level cholera early warning system in Kenya, combining climate, NDVI, and WASH surveillance data to inform public health decision-making. She holds a BSc in Applied Mathematics from the University of Nairobi and has a background spanning epidemiological modelling, data analysis, cybersecurity, and computational methods. Grace is passionate about open-source tools, reproducible research, and the intersection of computational social science and public health. She is also a beVisioneers Fellow through the Mercedes-Benz Fund, contributing to community sustainability initiatives.."  # Add participant bio here.
   website: https://www.google.com  # Link participant website here.
 
-  - name: "Dr. David Chepkonga." # Replace with participant name.
+- name: "Dr. David Chepkonga." # Replace with participant name.
   image: /assets/images/ify.png  # Add participant image to assets/images/ and update here.
   bio: ".."  # Add participant bio here.
   website: https://www.google.com  # Link participant website here.
 
-  - name: "Dr. Mutua Kilai." # Replace with participant name.
+- name: "Dr. Mutua Kilai." # Replace with participant name.
   image: /assets/images/ify.png  # Add participant image to assets/images/ and update here.
   bio: ".."  # Add participant bio here.
   website: https://www.google.com  # Link participant website here.
   
-  - name: "Dr. Kenneth Langat." # Replace with participant name.
+- name: "Dr. Kenneth Langat." # Replace with participant name.
   image: /assets/images/ify.png  # Add participant image to assets/images/ and update here.
   bio: ".."  # Add participant bio here.
   website: https://www.google.com  # Link participant website here.
 
-  - name: "Dr. Baranon Djima." # Replace with participant name.
+- name: "Dr. Baranon Djima." # Replace with participant name.
   image: /assets/images/ify.png  # Add participant image to assets/images/ and update here.
   bio: ".."  # Add participant bio here.
   website: https://www.google.com  # Link participant website here.
 
-  - name: "Leah Murkomen." # Replace with participant name.
+- name: "Leah Murkomen." # Replace with participant name.
   image: /assets/images/ify.png  # Add participant image to assets/images/ and update here.
   bio: ".."  # Add participant bio here.
   website: https://www.google.com  # Link participant website here.
 
-  - name: "Peter Okot" # Replace with participant name.
+- name: "Peter Okot" # Replace with participant name.
   image: /assets/images/ify.png  # Add participant image to assets/images/ and update here.
   bio: ".."  # Add participant bio here.
   website: https://www.google.com  # Link participant website here.
