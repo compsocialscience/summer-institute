@@ -18,6 +18,11 @@
   bio: "<p align='justify'>Loading...</p>"
   website: https://www.linkedin.com/in/christie-akwaowo-088a0022/
 
+  - name: Joseph David
+  image: /assets/images/Joseph David.jpg
+  bio: "<p align='justify'>Joseph David is a Research Associate at Preston Consults, Abuja. His research sits at the intersection of public finance, and the political economy of corruption, money laundering, and the underground economy in resource-rich developing economies. His current work examines how institutional and political factors, such as corruption and political affiliation, shape the economic efficiency of intergovernmental fiscal transfers in transfer-dependent subnational units of a resource-rich economy. Joseph applies computational social science methods to a range of applied research questions. He is an alumnus of SICSS, having participated in SICSS-Covenant 2022.</p>"
+  website: https://SmallJosePhD.github.io
+
 - name: Hanson Johnson 
   image: /assets/images/Hanson Johnson.png
   bio: "<p align='justify'>Hanson Johnson is a registered Engineer and a distinguished leader in the Nigerian technology and innovation ecosystem, currently serving as the Chairman of ISN and the Chairman of the Startup Consultative Forum. A pioneer in digital transformation, he is the CEO of Start Innovation Hub and President of Ibom Innovation Network, organizations dedicated to fostering entrepreneurship and technical talent development. In recognition of his significant impact, Mr. Johnson was honored with the Akwa Ibom State Productivity Order of Merit Award in ICT in September 2022. He is a committed advocate for leveraging technology to drive economic growth and productivity across the continent.</p>"
@@ -34,7 +39,7 @@
   website: https://www.linkedin.com/in/odo-george-21920b378/
 
 - name: Hilary Onuh Ogali (Wikimedia Nigeria)
-  image: //assets/images/placeholderPic.png
+  image: /assets/images/placeholderPic.png
   bio: "<p align='justify'>Loading...</p>"
   website: https://commons.wikimedia.org/wiki/File:Ogali_Hilary.jpg
 
@@ -43,7 +48,7 @@
   bio: "<p align='justify'>Loading...</p>"
   website: https://www.linkedin.com/in/odo-george-21920b378/
 
-- name: Andikan Eduok (Wikimedia Nigeri)
+- name: Andikan Eduok (Wikimedia Nigeria)
   image: /assets/images/placeholderPic.png 
   bio: "<p align='justify'>Loading...</p>"
   website: https://meta.wikimedia.org/wiki/User:Andikan_Efiok_Eduok
