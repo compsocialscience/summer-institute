@@ -1,4 +1,14 @@
-- name: "Speaker info coming soon." # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " ... " # add speaker bio here
-  website: https://www.google.com # update speaker personal link here
+- name: "Ana Macanovic"
+  image: /assets/images/ana_macanovic.jpg  #
+  bio: "Dr. Ana Macanovic is an Assistant Professor in the Department of Sociology at Utrecht University. Her research spans economic sociology, innovation, inequalities, and the emergence of trust and cooperation, examining how structural inequalities arise and dissolve and how diverse populations build trust while developing shared institutions. She treats societies as complex systems, drawing on a range of computational methods including automated text analysis, machine learning, network analysis, and agent-based modelling."
+  website: https://www.uu.nl/staff/AMacanovic
+
+- name: "Elizaveta Sivak"
+  image: /assets/images/liza_sivak.jpg  # 
+  bio: "Elizaveta Sivak is a sociologist and computational social scientist at the University of Groningen, where she works as a researcher and data scientist. She holds an MA in Sociology from HSE University and the Moscow School of Social and Economic Sciences, a joint programme with the University of Manchester. Her research combines quantitative and qualitative methods to study the predictability of fertility, with work published in venues such as PNAS and Royal Society Open Science. She is a co-organiser of PreFer, a data challenge on predicting fertility outcomes in the Netherlands."
+  website: https://lisasivak.github.io/
+
+- name: "Ana Petrović"
+  image: /assets/images/ana_petrovic.jpg # 
+  bio: "Dr. Ana Petrović is an urban geographer in the Department of Urbanism at the Faculty of Architecture and the Built Environment, Delft University of Technology, where she was awarded her PhD cum laude in 2020. Her research focuses on sociospatial inequalities and segregation, studying how neighbourhoods at various spatial scales, cities, and regions shape individual life course outcomes using large-scale population data. She also serves on the editorial board of the Annals of the American Association of Geographers."
+  website: https://www.tudelft.nl/en/staff/a.petrovic/
