@@ -5,14 +5,14 @@
     - name: "12:00 – 13:30 Lunch Break"
     - name: "13:30 - 15:30 Introduction: About SICSS & CSS ([Prof Chris Bail (SICSS Founder, USA)](https://sicss.io/curriculum)) , ([Matthew J. Salganik(USA)](https://sicss.io/curriculum)"
     - name: "15:30 – 16:00 Tea Break"
-    - name: "16:00 - 17:00 Introduction: WikiMedia Foundation ([Wikimedia Team](https://wikimediafoundation.org/))" 
+    - name: "16:00 - 17:00 Introduction: WikiMedia Global/Wikimedia Nigeria ([Hilary Onuh Ogali](https://commons.wikimedia.org/wiki/File:Ogali_Hilary.jpg)), ([Chinonso Chidi](https://ff.wikipedia.org/wiki/File:Portrait_of_ChristLike_Chinonso_Chidi.jpg), ([Andikan Eduok](https://meta.wikimedia.org/wiki/User:Andikan_Efiok_Eduok)" 
 
 - date: July 21, 2026
   name: "Day 2: Dynamics of Social Problems and Digital Solutions"
   events:
-    - name: "10:00 - 12:00 Expert Insight [Problem: Misinformation, Knowledge Inequality, Public Health knowledge, Gender bias, Information reliability, Geographic Representation Graph etc. Digital Solutions: Knowledge graph, Topic evolution chat, Topic modeling to discover themes in articles, Text classification (e.g., classify articles by domain), Sentiment analysis, Natural Language Processing]  ([Dr Christie Akwaowo](https://www.linkedin.com/in/christie-akwaowo-088a0022/)) ([Augustine Otobi](www.linkedin.com/in/augustine-ogbaji-otobi-166756103/))"
+    - name: "10:00 - 12:00 Expert Insight [Problem: Misinformation, Knowledge Inequality, Public Health knowledge, Gender bias, Information reliability, Geographic Representation Graph etc. Digital Solutions: Knowledge graph, Topic evolution chat, Topic modeling to discover themes in articles, Text classification (e.g., classify articles by domain), Sentiment analysis, Natural Language Processing]  ([Dr Christie Akwaowo](https://www.linkedin.com/in/christie-akwaowo-088a0022/)), ([Augustine Otobi](www.linkedin.com/in/augustine-ogbaji-otobi-166756103/))"
     - name: "12:00 – 13:30 Lunch Break"
-    - name: "13:30 - 15:30 Exploring Data Structure, API Access, Data Cleaning and Preprocessing ([Dr. J. Nathan Matias](https://natematias.com))"
+    - name: "13:30 - 15:30 Exploring Data Structure, API Access, Data Cleaning and Preprocessing ([Dr. J. Nathan Matias](https://natematias.com)), ([Bastian Greshake Tzovaras](https://tzovar.as/))"
     - name: "15:30 – 16:00 Tea Break"
     - name: "16:00 - 17:00 Research Speed Dating: Group Project Formation #Problem Dart Wheel ([Dr. Uduakobong Otu](https://www.linkedin.com/in/uduakobong-otu-004a5b1a4/))"  
 
@@ -28,9 +28,9 @@
 - date: July 23, 2026
   name: "Day 4: Natural Language Processing for Social Research"
   events:
-    - name: "10:00 - 12:00 Accessing Big Data for NLP, Preprocessing, Tokenization etc. #Wikipedia dump ([Dr. J. Nathan Matias](https://natematias.com))"
+    - name: "10:00 - 12:00 Accessing Big Data for NLP, Preprocessing, Tokenization etc. #Wikipedia dump ([Dr. J. Nathan Matias](https://natematias.com)), ([Bastian Greshake Tzovaras](https://tzovar.as/))"
     - name: "12:00 – 13:30 Lunch Break"
-    - name: "13:30 - 15:30 Feature Engineering (TF-IDF vectors, Word embeddings) ([Facilitator](https://sicss.io/2026/uyo/people))"
+    - name: "13:30 - 15:30 Feature Engineering (TF-IDF vectors, Word embeddings) ([Augustine Otobi](https://www.linkedin.com/in/augustine-ogbaji-otobi-166756103/))"
     - name: "15:30 – 16:00 Tea Break"
     - name: "16:00 - 17:00 Model Training and Deployment (NLP models) ([Augustine Otobi](https://www.linkedin.com/in/augustine-ogbaji-otobi-166756103/))"  
 
