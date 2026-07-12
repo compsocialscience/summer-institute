@@ -6,7 +6,7 @@
     - name: "10:00 - 12:00 Lecture by **Dr. D. Sunshine Hillygus**"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 14:30 Group Formation"
-    - name: "14:30 - 15:00 Tea Break"
+    - name: "14:30 - 15:00 Break"
     - name: "15:00 - 17:00 Group Work"
 
 - date: July 14, 2026
@@ -17,7 +17,7 @@
     - name: "10:00 - 12:00 Lecture by **Dr. Elisa Baek**"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 14:30 Group Work"
-    - name: "14:30 - 15:00 Tea Break"
+    - name: "14:30 - 15:00 Break"
     - name: "15:00 - 17:00 Lecture by **Dr. Yihong Huang**"
 
 - date: July 15, 2026
@@ -28,7 +28,7 @@
     - name: "10:00 - 12:00 Lecture by **Dr. Hai Liang**"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 14:30 Group Work"
-    - name: "14:30 - 15:00 Tea Break"
+    - name: "14:30 - 15:00 Break"
     - name: "15:00 - 17:00 Lecture by **Dr. Prasanta Bhattacharya**"
 
 - date: July 16, 2026
@@ -39,7 +39,7 @@
     - name: "10:00 - 12:00 Lecture by **Dr. Kiran Garimella**"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 14:30 Group Work"
-    - name: "14:30 - 15:00 Tea Break"
+    - name: "14:30 - 15:00 Break"
     - name: "15:00 - 17:00 Group Work"
 
 - date: July 17, 2026
@@ -50,7 +50,7 @@
     - name: "10:00 - 12:00 Lecture by **Dr. Dilrukshi Gamage**"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 14:30 Group Work"
-    - name: "14:30 - 15:00 Tea Break"
+    - name: "14:30 - 15:00 Break"
     - name: "15:00 - 17:00 Lecture by **Dr. Swapnil Mishra**"
 
 - date: July 18, 2026
@@ -71,5 +71,5 @@
     - name: "10:00 - 12:00 Lecture by **Dr. Emilio Ferrara**"
     - name: "12:00 - 13:00 Lunch"
     - name: "13:00 - 14:30 Group Work"
-    - name: "14:30 - 15:00 Tea Break"
+    - name: "14:30 - 15:00 Break"
     - name: "15:00 - 17:00 **Group Presentation**"
