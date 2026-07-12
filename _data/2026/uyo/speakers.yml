@@ -13,7 +13,7 @@
   bio: "<p align='justify'> <a href='https://https://tzovar.as/' target='_blank'>Bastian</a> (he/him) is an interdisciplinary researcher working on the theory and practice of co-created participatory science and peer production. His work intersects with open source/science technologies and how they can be in service of individuals & communities that want to engage in knowledge production, bringing together applied and theoretical methods from computer/data science, human-computer-interaction and critical science & technology studies.<br>Bastian’s prior academic postings include being a senior researcher at the Alan Turing Institute in London and being the team-lead of the Peer-Produced Research Lab as part of an INSERM unit at Université Paris Cité. His academic journey started in biology/bioinformatics, with a PhD on how symbiotic relationships influence genomic evolution.<br>In the realm of participatory science, he was the co-founder and lead of openSNP, a crowdsourced/citizen science open data project that ran between 2011-2025. Since 2017, he also acts as the Director of Research for Open Humans – a non-profit that provides digital & social infrastructures for individual & community-driven citizen science and self-research.</p>"
   website: https://tzovar.as/
 
-  - name: Dr Christie Akwaowo 
+- name: Dr Christie Akwaowo 
   image: /assets/images/placeholderPic.png 
   bio: "<p align='justify'>Loading...</p>"
   website: https://www.linkedin.com/in/christie-akwaowo-088a0022/
@@ -33,17 +33,17 @@
   bio: "<p align='justify'>George is a computer science graduate of the University of Calabar. He is a web and Machine Learning model developer, verse in programming languages such as Python, R, React, React Native, TypeScript, and JavaScript. <br> George has been able to gather wealth of experiences as a full stack web developer and data scientist at Zoe-Sprout Technologies International. He is particularly drawn to the power of data science, and he enjoys exploring how data can be leveraged to drive innovation and solve complex problems. As he continues to grow in the field of computer science, he is eager to apply his skills in real-world projects, where he can share his knowledge with others while continuing to learn and improve. <br>He enjoys collaborating with teams to build innovative solutions and create impactful digital experiences</p>"
   website: https://www.linkedin.com/in/odo-george-21920b378/
 
-  - name: Hilary Onuh Ogali (Wikimedia Nigeria)
+- name: Hilary Onuh Ogali (Wikimedia Nigeria)
   image: //assets/images/placeholderPic.png
   bio: "<p align='justify'>Loading...</p>"
   website: https://commons.wikimedia.org/wiki/File:Ogali_Hilary.jpg
 
-  - name: Chinonso Chidi (Wikimedia Nigeria)
+- name: Chinonso Chidi (Wikimedia Nigeria)
   image: /assets/images/placeholderPic.png
   bio: "<p align='justify'>Loading...</p>"
   website: https://www.linkedin.com/in/odo-george-21920b378/
 
-  - name: Andikan Eduok (Wikimedia Nigeri
+- name: Andikan Eduok (Wikimedia Nigeri)
   image: /assets/images/placeholderPic.png 
   bio: "<p align='justify'>Loading...</p>"
   website: https://meta.wikimedia.org/wiki/User:Andikan_Efiok_Eduok
