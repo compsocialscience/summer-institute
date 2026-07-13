@@ -2,4 +2,8 @@
   image: /assets/images/placeholderPic.png
   bio: "..."
   website: www.google.com
-# add more TAs with this format below...
+
+- name: "Mark Nepf"
+  image: /assets/images/2026/uw/MarkNepf.jpg
+  bio: "Mark Nepf is a PhD student at the University of Washington's Evans School of Public Policy & Governance, where his research connects environmental justice and marine policy. Mark's research explores collaborative governance frameworks for estuary management, leveraging spatial data to understand barriers to public participation."
+  website: https://www.linkedin.com/in/mark-nepf/
