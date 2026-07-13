@@ -1,99 +1,118 @@
 - name: "Dr. Bianca Uzoamaka Mbonu-Adigwe" # Participant Name
   image: /assets/images/1 DR. BIANCA UZOAMAKA MBONU-ADIGWE.png
   bio: "<p align='justify'> Dr. Bianca Uzoamaka Mbonu-Adigwe is a Lecturer in Science Education at the University of Nigeria, Nsukka, with expertise in technology-integrated learning, teacher education, and inclusive teaching practices. She is passionate about mentoring educators and young leaders, having founded platforms that provide mentorship and practical learning opportunities across Africa. Through her volunteer initiatives, she has supported over 3,000 girls in rural communities with books and hygiene products. Bianca is a Visiting Research Assistant with IEEE, University of Chichester, UK, and has completed professional training with institutions including the University of Colorado Boulder, DAAD, Michigan State University, and Universiti Teknologi Malaysia.</p>"
-  website: https://sicss.io/2026/uyo/people  
+  website: https://sicss.io/2026/uyo/people/
+  
 
 - name: "Emmanuel Elikplim"  # Participant Name
   image: /assets/images/2 Emmanuel Elikplim.png 
   bio: "<p align='justify'> Emmanuel Elikplim is an early-career researcher and accounting professional based in Ilorin, Nigeria, affiliated with the University of Ilorin and Abel Aiyedogbon & Co. (Chartered Accountants). As a Charter Member of the Association of Ranking Professionals (ARP), his research interests lie at the intersection of corporate governance, institutional performance, and data-driven transparency. He specializes in evaluating board characteristics and corporate social responsibility (CSR) disclosures. As an upcoming researcher, he is building his skills in research and data analysis to enhance empirical research.</p>"
-  website: https://sicss.io/2026/uyo/people 
+  website: https://sicss.io/2026/uyo/people/
+  
 
 - name: "Nyitse Daniel" # Participant Name
   image: /assets/images/3 Nyitse Daniel.jpg 
   bio: "<p align='justify'> Nyitse Daniel is a lecturer in the Department of Linguistics at the Nigeria French Language Village (Inter-University Centre for French Studies), Lagos, Nigeria. He is currently a PhD student at the University of Ilorin, Kwara State, Nigeria. His research in contrastive linguistics examines the pedagogical exigencies of the structural and functional values of pronouns in French and Tiv. His academic interests also extend to semantics and semiotics, areas in which he has published several scholarly articles. In addition, he is the contributor and legal owner of Tiv language datasets on the Mozilla Data Collective (MDC).</p>"
-  website: https://sicss.io/2026/uyo/people  
+  website: https://sicss.io/2026/uyo/people/
+  
 
 - name: "Dr. Osakpolo Igbinovia"  # Participant Name
   image: /assets/images/4 Dr. Osakpolo Igbinovia .png 
   bio: "<p align='justify'> Dr. Osakpolo Igbinovia is a lecturer and researcher at Ambrose Alli University, where she contributes to the fields of French studies, translation, and literary scholarship. Her research interests centre on translation studies, African Francophone literature, feminist and postcolonial approaches to translation, self-translation, and intercultural communication. She is particularly interested in how language, culture, identity, and power relations shape the production and reception of translated texts within African literary contexts.</p>"
-  website: https://sicss.io/2026/uyo/people  
+  website: https://sicss.io/2026/uyo/people/
+  
 
 - name: "Ademola, Mutiu" # Participant Name
   image: /assets/images/5 Ademola, Mutiu.png
   bio: "<p align='justify'> I am an administrative professional and emerging researcher at the Directorate of Academic Planning, Federal University Oye-Ekiti (FUOYE), Nigeria. My work sits at the intersection of scientific and strategic management, corporate governance, sustainability, higher education administration, and public policy. I am particularly interested in leveraging data-driven and computational approaches to address organisational, governance, and development challenges in emerging economies. My current research examines corporate governance and environmental performance in Nigeria’s oil and gas sector. Beyond academia, I am passionate about translating research and innovation into practical solutions that drive effectiveness and sustainable socio-economic development in Africa.</p>"
-  website: https://sicss.io/2026/uyo/people  
+  website: https://sicss.io/2026/uyo/people/
+  
 
 - name: "Tolulope Deborah Iredele"  # Participant Name
   image: /assets/images/6 Tolulope Deborah Iredele.png 
   bio: "<p align='justify'> Tolulope Deborah Iredele is a post-graduate student at the University of Lagos, Nigeria. She is a budding scholar interested in the intersection of digital humanities, corpus linguistics, and sociopolitical discourse analysis with several publications to her credit. Her ongoing Ph.D. research focuses on "Female-health public advocacy on social media using a corpus-based approach." Her expectation attending SICSS is to build strong capacity in using digital tools to enhance solution-driven computational humanities research. She hopes to explore large-scale social media data to generate actionable industry/policy instrument “APPified” for pain evaluation and trauma-responsive care leveraging discourse.</p>"
-  website: https://sicss.io/2026/uyo/people  
+  website: https://sicss.io/2026/uyo/people/
+  
 
 - name: "Ibe Anthony Ekene"  # Participant Name
   image: /assets/images/7 Ibe Anthony Ekene .png 
   bio: "<p align='justify'> Ibe Anthony Ekene is a Lecturer in the Department of Physical Sciences at Edwin Clark University, Kiagbodo, Delta State. He is actively engaged in teaching, research, and academic mentorship in the Department of Physical Sciences. His research interests span Physics, Energy and Environment, Climate Change, and Education, with a focus on applying scientific knowledge to address contemporary environmental and societal challenges. Through his scholarly work, he seeks to contribute to sustainable development, promote scientific literacy, and advance innovative solutions to energy and environmental issues while fostering excellence in science education.</p>"
-  website: https://sicss.io/2026/uyo/people  
+  website: https://sicss.io/2026/uyo/people/
+  
 
 - name: "Wendyam Fulbert ILBOUDO"  # Participant Name
   image: /assets/images/8 Wendyam Fulbert ILBOUDO.jpg
   bio: "<p align='justify'> Wendyam Fulbert ILBOUDO is a PhD candidate in Geography (Demography) at Joseph KI-ZERBO University, Burkina Faso, and Technical Assistant Demographer at the National Institute of Statistics and Demography (INSD). His research focuses on the spatial dynamics of multidimensional poverty inequalities in peri-urban Ouagadougou, combining spatial statistics, Big Data, and geospatial methods. He also teaches statistics and biostatistics at IFRISSE. His research interests include computational approaches to poverty measurement,small area estimation, and the use of non-conventional data sources to study urban inequality in Africa.</p>"
-  website: https://sicss.io/2026/uyo/people  
+  website: https://sicss.io/2026/uyo/people/
+  
 
 - name: "Samuel Oluwaseyi Mbuk" # Participant Name
   image: /assets/images/9 Samuel Oluwaseyi Mbuk.png 
   bio: "<p align='justify'> Samuel Oluwaseyi Mbuk is a licensed pharmacist, data analyst, and founder of Future Skills Africa, a Uyo-based tech startup training 1,000+ individuals in data analytics and machine learning. He serves as Director of Finance and Budget Planning at The Adams Project Africa and State Coordinator for Boys Reach Out Worldwide. With a B.Pharm and M.Sc in Clinical & Biopharmacy from University of Uyo, plus certifications from Google, Gamma Analytics, and Cisco, his research interests span global health advocacy, prostate cancer epidemiology, and modern therapeutic management using machine learning, health data analysis, personal development, and youth mentorship through his “Catch Them Young and Watch Them Grow Initiative.</p>"
-  website: https://sicss.io/2026/uyo/people  
+  website: https://sicss.io/2026/uyo/people/
+  
 
 - name: "Dr. Idongesit Samuel Akpan" # Participant Name
   image: /assets/images/10 Dr. Idongesit Samuel Akpan.png 
   bio: "<p align='justify'> I am a Chief Consultant Haemtologist and a passionate researcher with over 12 years experience in Clinical Haematology as well as classroom teaching. My research interests are Haemato-oncology, Haemoglobinopathy, Haemostasis, Transfusion Medicine and Bone Marrow Transplant. I am currently an Associate Professor in University of Uyo, Head of Department and Vice Dean, Faculty of Basic Clinical Sciences with several peer-reviewed articles in reputable journals and have a Scopus presence.</p>"
-  website: https://sicss.io/2026/uyo/people  
+  website: https://sicss.io/2026/uyo/people/
+  
 
 - name: "Itoro Umoren"  # Participant Name
   image: /assets/images/11 Itoro Umoren.png
   bio: "<p align='justify'> Itoro Umoren is a PhD student in Medical Sociology in the Department of Sociology and Anthropology, University of Uyo, and serves as the Program Monitoring and Evaluation Manager at Women in Total Girls' Development (WiT-GIRL). She holds a B.Sc. in Sociology from Ahmadu Bello University, Zaria and served as an MSc Research Fellow on the WaSH and Gender Project funded by IHE Delft between 2023-2024. Her research interests include public health and water, sanitation and hygiene (WaSH). She is particularly interested in using quantitative data and evidence-based approaches to understand public health challenges and improve programme outcomes in underserved communities.</p>"
-  website: https://sicss.io/2026/uyo/people  
+  website: https://sicss.io/2026/uyo/people/
+  
 
 - name: "Fenson Emem-Obong Uko" # Participant Name
   image: /assets/images/12 Fenson Emem-Obong Uko.jpg 
   bio: "<p align='justify'> Fenson Emem-Obong Uko is a Ph.D. candidate at the Department of Sociology and Anthropology, University of Uyo, Akwa Ibom State. His doctorate study focuses on Demography with major in Demographic Health. ‎ ‎His research interests are rooted in demographic health and statistics with particular focus on maternal health inequalities. ‎ ‎My current research examines the accessibility and quality of maternal healthcare services utilized by women with disabilities who often face layered barriers like physical, social, and institutional impediments.</p>"
-  website: https://sicss.io/2026/uyo/people  
+  website: https://sicss.io/2026/uyo/people/
+  
 
 - name: "Yemisi Popoola" # Participant Name
   image: /assets/images/13 Yemisi Popoola .png 
   bio: "<p align='justify'> Yemisi Popoola is a graduate of Demography and Social Statistics from Obafemi Awolowo University (OAU), Nigeria. She is working with a non-profit organization focused on improving access to sexual and reproductive health and rights (SRHR) for underserved populations in Oyo  State, Nigeria. Her research interests include maternal and child health, health inequities, and the social and behavioural determinants of healthcare utilization. She is particularly interested in applying data-driven strategies to understand maternal health-seeking behaviours and inform evidence-based interventions that improve healthcare access and reduce maternal mortality in underserved communities.</p>"
-  website: https://sicss.io/2026/uyo/people  
+  website: https://sicss.io/2026/uyo/people/
+  
 
 - name: "Alabi Temitope Emmanuel"  # Participant Name
   image: /assets/images/14 Alabi Temitope Emmanuel .png 
   bio: "<p align='justify'> Alabi Temitope Emmanuel is a First-Class graduate of Biotechnology from the Federal University of Technology Akure and a researcher at Computer-Aided Therapeutics Discovery and Design (CAT2D). His research interests include computational drug discovery, bioinformatics, molecular biology, genomics, and infectious disease research. He has experience in molecular docking, QSAR modeling, ADMET prediction, and molecular dynamics simulations. His work focuses on identifying biological targets and novel therapeutic candidates through the integration of data analytics, computational methods, and experimental approaches to address pressing global health challenges.</p>"
-  website: https://sicss.io/2026/uyo/people  
+  website: https://sicss.io/2026/uyo/people/
+  
 
 - name: "Dr. Gospel Nukoaka Lebari"  # Participant Name
   image: /assets/images/15 Dr. Gospel Nukoaka Lebari .png 
   bio: "<p align='justify'> Dr. Gospel Nukoaka Lebari is a political science lecturer at the University of Port Harcourt. He earned his Ph.D. in Political Science (specialising in Development Studies) from the University of Port Harcourt. His research interests lie in environmental politics, elections and election management, Africa’s indigenous knowledge systems and their impact on sustainable development, particularly within the context of Nigeria's resource-rich Niger Delta. His growing body of work explores how political and ecological dynamics and contradictions shape governance, community resilience, and resource management. Dr. Lebari aspires to contribute significantly to both academic discourse and practical solutions in Africa.</p>"
-  website: https://sicss.io/2026/uyo/people  
+  website: https://sicss.io/2026/uyo/people/
+  
 
 - name: "Shalom Omole" # Participant Name
   image: /assets/images/16 SHALOM OMOLE.jpg 
   bio: "<p align='justify'> Shalom is a young scholar with a developing interest in computational social science, data analysis, and the application of quantitative methods to real-world social questions. Her academic focus includes statistics and information systems, with a growing emphasis on understanding how data-driven approaches can inform decision-making and social research. She is also interested in exploring how computational tools can be used to analyze patterns in human behavior and also societal systems. She aim to strengthen her technical skills in programming, statistical modeling, and research design for interdisciplinary social science inquiry through SICSS Nigeria.</p>"
-  website: https://sicss.io/2026/uyo/people  
+  website: https://sicss.io/2026/uyo/people/
+  
 
 - name: "Orovwuje Paul Stephen"  # Participant Name
   image: /assets/images/17 Orovwuje Paul Stephen .png
   bio: "<p align='justify'> Orovwuje Paul Stephen is a Mathematics Lecturer at Nigeria Maritime University, Okerenkoko, Nigeria and a PhD candidate in Mathematics at the University of Uyo. He holds BSc and MSc degrees in Mathematics and a Professional Diploma in Data Analytics. His research interests include numerical and computational analysis, scientific computing, mathematical modelling and data analytics. His work focuses on developing robust computational techniques for real world scientific and engineering problems. He has authored several scholarly publications and has over seven years of experience in teaching, research, academic mentoring, and interdisciplinary collaboration across mathematics and applied research.</p>"
-  website: https://sicss.io/2026/uyo/people  
+  website: https://sicss.io/2026/uyo/people/
+  
 
 - name: "Gladys Ehindola" # Participant Name
   image: /assets/images/18 Gladys Ehindola.png
   bio: "<p align='justify'> Gladys Ehindola is a Junior Research Fellow and PhD Researcher at the African Institute for Science Policy and Innovation, Obafemi Awolowo University (OAU), Ile-Ife, Nigeria. With academic training spanning Chemistry, Information Technology, and Technology Management, she specializes in Industrial technology management, STEM evaluation and sustainability. Her research advances technology adoption and inclusive innovation within the broader innovation ecosystem. A member of the West African Research and Innovation Management Association (WARIMA) contributing to evidence-based inventions and knowledge-based activities, Gladys integrates research, policy, and practice while championing scientific literacy as a tool for empowerment.</p>"
-  website: https://sicss.io/2026/uyo/people  
+  website: https://sicss.io/2026/uyo/people/
+  
 
 - name: "Mariam Iriaome Aregbokhai"  # Participant Name
   image: /assets/images/19 Mariam Iriaome Aregbokhai .png
   bio: "<p align='justify'> Mariam Iriaome Aregbokhai is a French language lecturer in Ambrose Alli university and translator based in Nigeria. She is currently pursuing a Masters degree in Translation Studies, with research focusing on literary translation, intercultural communication, and the transmission of cultural references in African literature. Her academic interests include translation theory, artificial intelligence in translation, language education, and multilingual communication. She is passionate about exploring computational approaches that enhance translation research and language learning while fostering collaboration between the humanities and the social sciences.</p>"
-  website: https://sicss.io/2026/uyo/people  
+  website: https://sicss.io/2026/uyo/people/
+  
 
 - name: "Participant info coming soon." # Participant Name
   image: /assets/images/placeholderPic.png 
   bio: "<p align='justify'>...</p>"
-  website: https://sicss.io/2026/uyo/people
+  website: https://sicss.io/2026/uyo/people/
