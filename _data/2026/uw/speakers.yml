@@ -1,3 +1,13 @@
+- name: 'Sarah Stone'
+  website: https://www.linkedin.com/in/sarah-stone-5b3083158/
+  image: /assets/images/2026/uw/speakers/sarah stone.jpg
+  bio: Dr. Sarah Stone is the Executive Director of the University of Washington eScience Institute, a campus hub for data-intensive discovery crossing all disciplinary fields. She is also Co-Director for UW’s Scientific Software Engineering Center (SSEC) which develops open and reproducible software for research communities in collaboration with Schmidt Sciences. As a co-PI on NSF’s CloudBank initiative she leads outreach and training, educating researchers about cloud computational resources. Stone is a co-founder and previous director of the UW Data Science for Social Good program (2015-2024). Stone’s background is in biological oceanography where she studied zooplankton impacts on the ocean carbon cycle.
+
+- name: 'Scott Henderson'
+  website: https://scottyhq.github.io/
+  image: /assets/images/2026/uw/speakers/scott.png
+  bio: I'm a research scientist in the Earth and Space Sciences Department at the University of Washington and Data Science Fellow at the eScience Institute. My research focuses on the application of satellite observations to understand and monitor terrestrial natural hazards, such as volcanic eruptions, landslides, and earthquakes. If I’m not considering the view from satellites then I am exploring on ground, whether in my own backyard or abroad.
+
 - name: 'Benjamin Mako Hill'
   website: https://mako.cc/
   image: /assets/images/2026/uw/speakers/mako.jpg
