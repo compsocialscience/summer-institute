@@ -1,6 +1,112 @@
-- name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+- name: "1Participant info coming soon." # Participant Name
+  image: /assets/images/placeholderPic.png 
+  bio: " ... "
+  website: https://www.google.com  
 
-# Add more participants with the same format as above...
+- name: "2Participant info coming soon." # Participant Name
+  image: /assets/images/placeholderPic.png 
+  bio: " ... "
+  website: https://www.google.com  
+
+- name: "3Participant info coming soon." # Participant Name
+  image: /assets/images/placeholderPic.png 
+  bio: " ... "
+  website: https://www.google.com  
+
+- name: "4Participant info coming soon." # Participant Name
+  image: /assets/images/placeholderPic.png 
+  bio: " ... "
+  website: https://www.google.com  
+
+- name: "5Participant info coming soon." # Participant Name
+  image: /assets/images/placeholderPic.png 
+  bio: " ... "
+  website: https://www.google.com  
+
+- name: "6Participant info coming soon." # Participant Name
+  image: /assets/images/placeholderPic.png 
+  bio: " ... "
+  website: https://www.google.com  
+
+- name: "7Participant info coming soon." # Participant Name
+  image: /assets/images/placeholderPic.png 
+  bio: " ... "
+  website: https://www.google.com  
+
+- name: "8Participant info coming soon." # Participant Name
+  image: /assets/images/placeholderPic.png 
+  bio: " ... "
+  website: https://www.google.com  
+
+- name: "9Participant info coming soon." # Participant Name
+  image: /assets/images/placeholderPic.png 
+  bio: " ... "
+  website: https://www.google.com  
+
+- name: "10Participant info coming soon." # Participant Name
+  image: /assets/images/placeholderPic.png 
+  bio: " ... "
+  website: https://www.google.com  
+
+- name: "11Participant info coming soon." # Participant Name
+  image: /assets/images/placeholderPic.png 
+  bio: " ... "
+  website: https://www.google.com  
+
+- name: "12Participant info coming soon." # Participant Name
+  image: /assets/images/placeholderPic.png 
+  bio: " ... "
+  website: https://www.google.com  
+
+- name: "13Participant info coming soon." # Participant Name
+  image: /assets/images/placeholderPic.png 
+  bio: " ... "
+  website: https://www.google.com  
+
+- name: "14Participant info coming soon." # Participant Name
+  image: /assets/images/placeholderPic.png 
+  bio: " ... "
+  website: https://www.google.com  
+
+- name: "15Participant info coming soon." # Participant Name
+  image: /assets/images/placeholderPic.png 
+  bio: " ... "
+  website: https://www.google.com  
+
+- name: "16Participant info coming soon." # Participant Name
+  image: /assets/images/placeholderPic.png 
+  bio: " ... "
+  website: https://www.google.com  
+
+- name: "17Participant info coming soon." # Participant Name
+  image: /assets/images/placeholderPic.png 
+  bio: " ... "
+  website: https://www.google.com  
+
+- name: "18Participant info coming soon." # Participant Name
+  image: /assets/images/placeholderPic.png 
+  bio: " ... "
+  website: https://www.google.com  
+
+- name: "19Participant info coming soon." # Participant Name
+  image: /assets/images/placeholderPic.png 
+  bio: " ... "
+  website: https://www.google.com  
+
+- name: "20Participant info coming soon." # Participant Name
+  image: /assets/images/placeholderPic.png 
+  bio: " ... "
+  website: https://www.google.com  
+
+
+
+
+
+
+
+
+
+
+
+
+  
