@@ -1,9 +1,14 @@
 - name: 'Riccardo Fogliato'
   website: https://ricfog.github.io/
-  image: assets/images/2026/uw/speakers-riccardo-fogliato.jpg
+  image: /assets/images/2026/uw/speakers/speakers-riccardo-fogliato.jpg
   bio: I am a senior research scientist on the Responsible AI team at Microsoft Core AI, working on testing of LLM safety. Previously, I was an applied scientist on the Responsible AI team at AWS, where I worked on statistical methods for evaluating language and vision models. I received a PhD in Statistics from CMU under the supervision of Alexandra Chouldechova and Zachary Lipton. During the PhD, I interned at MSR with Besmira Nushi, Kori Inkpen, and Eric Horvitz. I also was a research fellow at the Partnership on AI where I worked with Alice Xiang. Before going to CMU, I studied at Collegio Carlo Alberto, at the Universities of Torino and Padova, and spent some time at ENS Cachan.
 
 - name: 'Benjamin Mako Hill'
   website: https://mako.cc/
-  image: assets/images/2026/uw/speakers-riccardo-fogliato.jpg
+  image: /assets/images/2026/uw/speakers/mako.jpg
+  bio: I am a social scientist and technologist. In both roles, I work to understand the social dynamics that shape online communities. My work focuses on communities engaged in the peer production of digital public goods free culture and free software—like Wikipedia and Linux. For most of my life, I have also participated in these communities as an activist, contributor, and leader. I spend most of my time consuming, and increasingly often producing, academic articles, software, blog posts, essays, books and talks.
+
+- name: 'Benjamin Mako Hill'
+  website: https://mako.cc/
+  image: /assets/images/2026/uw/speakers/mako.jpg
   bio: I am a social scientist and technologist. In both roles, I work to understand the social dynamics that shape online communities. My work focuses on communities engaged in the peer production of digital public goods free culture and free software—like Wikipedia and Linux. For most of my life, I have also participated in these communities as an activist, contributor, and leader. I spend most of my time consuming, and increasingly often producing, academic articles, software, blog posts, essays, books and talks.
