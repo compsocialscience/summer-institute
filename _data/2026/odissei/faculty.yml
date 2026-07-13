@@ -7,3 +7,24 @@
   image: /assets/images/javier_garciabernardo.jpg
   bio: "Dr. Javier Garcia-Bernardo is an assistant professor at Utrecht University in the Social Data Science (SoDa) team. Before that, he was a postdoc at the University of Amsterdam and at Charles University (CORPTAX), and a data scientist at the Tax Justice Network. In his research he applies computational models to understand social and economical systems. He completed his PhD in Political Economy at the CORPNET group (University of Amsterdam), and his MSc in Computer Science at the University of Vermont."
   website: https://www.uu.nl/staff/JGarciaBernardo
+
+- name: "Malte Lüken"
+  image: /assets/images/malte_luken.jpg  # replace with /assets/images/malte_luken.jpg once a headshot is added
+  bio: "Malte Lüken is a Research Software Engineer at the Netherlands eScience Center, where he works in the social sciences and humanities domain. He holds a Research Master's in Psychology from the University of Amsterdam, specialising in research methods and applied statistics, and is an external PhD candidate in the Psychological Methods and Statistics group at the same university. His work applies amortised Bayesian inference to computational models of decision making, and he has contributed to the open-source statistics package JASP and applied machine learning to administrative data from Statistics Netherlands. He is a certified Carpentries instructor and teaches applied machine learning workshops."
+  website: https://www.esciencecenter.nl/team/malte-luken/
+
+- name: "Flavio Hafner"
+  image: /assets/images/flavio_hafner.jpg  # replace with /assets/images/flavio_hafner.jpg once a headshot is added
+  bio: "Dr. Flavio Hafner is a Research Software Engineer at the Netherlands eScience Center, which he joined in 2022. He completed his PhD in labour economics at Universitat Pompeu Fabra in 2020 and subsequently held a postdoctoral fellowship at Aalto University. His work spans the social sciences, machine learning, and causal inference, with recent projects on privacy-preserving synthetic data generation and differential privacy applied to Dutch population data."
+  website: https://www.esciencecenter.nl/team/flavio-hafner/
+
+- name: "Qixiang Fang"
+  image: /assets/images/qixiang_fang.jpg  # replace with /assets/images/qixiang_fang.jpg once a headshot is added
+  bio: "Dr. Qixiang Fang is a researcher in Methodology and Statistics at the Faculty of Social and Behavioural Sciences, Utrecht University, and a member of the ODISSEI Social Data Science (SoDa) team. His research sits at the intersection of natural language processing, psychometrics, and the philosophy of science, with interests in machine learning, measurement quality, and survey methodology. He is a postdoctoral researcher on the EU IMPROVE project and teaches statistics and NLP courses at the bachelor's and master's levels."
+  website: https://www.uu.nl/staff/QFang
+
+- name: "Chirag Arora"
+  image: /assets/images/chirag_arora.jpg  # replace with /assets/images/chirag_arora.jpg once a headshot is added
+  bio: "Dr. Chirag Arora is a researcher in the Department of Values, Technology and Innovation at the Faculty of Technology, Policy and Management, Delft University of Technology. His work focuses on the ethics and philosophy of technology, including machine ethics, data ethics, and the responsible design of digital and health technologies. His publications address topics such as the ethics of gamification in health and fitness tracking, protecting user privacy when sharing health data, and agency in machine-generated assertions."
+  website: https://www.tudelft.nl/en/staff/c.arora/
+

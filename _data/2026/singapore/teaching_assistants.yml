@@ -1,5 +1,4 @@
-- name: "TA info coming soon."
-  image: /assets/images/placeholderPic.png
-  bio: "..."
-  website: www.google.com
-# add more TAs with this format below...
+- name: "Sarthak Ingle"
+  image: /assets/images/2026/singapore/Sarthak.Ingle.jpeg
+  bio: "Sarthak Ingle is a Pre-Doctoral Researcher at the National University of Singapore (NUS). He completed his B.E. in Computer Science at BITS Pilani. His research interests include machine learning, artificial intelligence, computational social science, and large language models, with a focus on developing data-driven methods to better understand human behaviour and societal systems."
+  website: 
