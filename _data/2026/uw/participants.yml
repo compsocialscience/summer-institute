@@ -1,34 +1,89 @@
 - name: "Amy Xiao"
   image: /assets/images/2026/uw/participants/Headshot - Amy Wei Xiao.png
   bio: "Amy is a first year PhD student at UW HCDE, supported by the NSF Graduate Research Fellowship and the UW College of Engineering Dean's Fellowship. They study digital safety for marginalized groups, with a focus on peer- and community-based support against harm both facilitated and enacted by technology. Amy draws from theories of disability justice and WOC feminism to reflect on how we design, govern, and resist technology. Previously, Amy was at Brown University where they worked with the Brown HCI Lab (now Socio-HCI @ Brown) and the Human Trafficking Research Cluster."
-  website: https://www.google.com
+  website: 
 
 - name: "Meziah Ruby Cristobal"
   image: /assets/images/2026/uw/participants/meziahruby_2 - Meziah Ruby Cristobal.png
   bio: "Meziah Ruby Cristobal is an NSF CSGrad4US Fellow and Human Centered Design & Engineering PhD student at the University of Washington. Her research examines the impact of emerging technologies (e.g., generative AI) on collaborative work and communication. Prior to starting her PhD, Meziah worked as a software engineer. She now uses skills from this background to inform a research approach that combine systems-building with empirical studies."
-  website: https://www.google.com
+  website: 
 
 - name: "Yiwei Wu"
   image: /assets/images/2026/uw/participants/2742eb56c381a0c59a875cb435cd4c5c 2 - Yiwei Wu.jpg
   bio: "Yiwei Wu is a PhD student with research interests that broadly fall under the study of online communities. More specifically, she is interested in data labor, collective actions, and the impact of generative AI on peer production communities. She uses both qualitative and computational methods to understand how communities respond to technological and institutional change. Her research goal is to support more community-centered approaches in designing sociotechnical systems."
-  website: https://www.google.com
+  website: 
 
 - name: "Anika Jain"
   image: /assets/images/2026/uw/participants/Anika Jain - Professional Picture - Anika Jain.jpg
   bio: "Anika is an incoming PhD student in Computational Media at UC Santa Cruz. Anika's research interests lie at the intersection of accessibility, data privacy, and ethical AI. Specifically, Anika is interested in exploring how students with disabilities (both diagnosed and undiagnosed) can get the academic support they need while minimizing the amount of medical information they have to disclose. Previously, Anika completed a Masters degree in Human-Computer Interaction at Carnegie Mellon University (CMU) and a Bachelors degree in Computer Science + Astronomy at the University of Illinois Urbana-Champaign (UIUC)."
-  website: https://www.google.com
+  website: 
 
 - name: "Shaina Jain"
   image: /assets/images/2026/uw/participants/Shaina Square JPG - shaina jain.jpeg
   bio: ""
-  website: https://www.google.com
+  website: 
 
 - name: "Letao Wang"
   image: /assets/images/2026/uw/participants/IMG_0941 - letao.HEIC
   bio: "Letao Wang is a PhD student in Sociology at Washington University in St. Louis. Her current research examines inequality in U.S. labor markets, with particular attention to non-material dimensions of work, such as status and meaning, and to its broader social consequences."
-  website: https://www.google.com
+  website: 
 
 - name: "Ris Swank"
   image: /assets/images/2026/uw/participants/Ris-1 - Ris Swank.jpeg
   bio: "I am a PhD candidate in Political Science at Washington State University. My research considers the relationship between conspiracy beliefs and support for political violence in American politics. I explore this topic from psychological and behavioral perspectives in tandem with broader informational environments."
-  website: https://www.google.com
+  website: 
+
+- name: "Dominic Williams"
+  image: /assets/images/2026/uw/participants/Screenshot 2026-02-12 at 8.31.29 PM - Dominic Williams.png
+  bio: ""
+  website: 
+
+- name: "Jikai Sun"
+  image: /assets/images/2026/uw/participants/1 - Jikai Sun.jpg
+  bio: "Jikai Sun is a PhD student in Mass Communication at the University of Minnesota Twin Cities. His research interests focus on health communication, the mechanisms underlying the spread of misinformation, and the roles, applications, and impacts of emerging technologies such as large language models in communication processes."
+  website: 
+
+- name: "Riya Sinha"
+  image: /assets/images/2026/uw/participants/headshot - Riya Sinha.jpeg
+  bio: "Riya Sinha is a second-year PhD student in the School of Information at The University of Texas at Austin (UT Austin), where she is advised by Dr. Hanlin Li. Her research lies at the intersection of social computing, human-computer interaction (HCI), and computer-supported cooperative work (CSCW). She studies how people interact, collaborate, and govern their data in online communities. Her current work examines data work across diverse online communities, with the broader goal of understanding and improving data governance in digital spaces."
+  website: 
+
+- name: "Bo Min Keum"
+  image: /assets/images/2026/uw/participants/BK-iccrc profile - Bomin Keum.jpg
+  bio: "Bo Min is a PhD student at the International CyberCrime Research Institute in Simon Fraser University. She focuses on evaluating what works in preventing and countering violent extremism (P/CVE). She does so by: testing AI-assisted P/CVE, conducting systematic reviews of radicalization prevention programs, and interviewing former extremists to identify intervention target points to support those struggling to navigate exit."
+  website: 
+
+- name: "Polina Iasakova"
+  image: /assets/images/2026/uw/participants/05272026_Department_Statistics_PolinaIasakova - P Y.jpg
+  bio: "I am a PhD student in Statistics at Oregon State University. Originally from Moscow, Russia, I have been at Oregon State for two years. I hold a bachelor's degree in Economics and Statistics. My research interests include textual analysis, network modeling, and making inferences from complex data using statistical, machine learning and AI tools."
+  website: 
+
+- name: "Roman Pomeshchikov"
+  image: /assets/images/2026/uw/participants/romanpom@uw.edu-1 (1) (1) - Roman Pomeshchikov.jpg
+  bio: "Roman Pomeshchikov is a PhD candidate in the Near and Middle Eastern Studies (NMES) Interdisciplinary Program at the University of Washington. His research focuses on incorporating computational techniques into text analysis within mixed-method studies of the politics of digital transformation, digital government, state–society relations, and institutional change in developing countries. He holds a B.A. in International Relations from the University of World Economy and Diplomacy in Uzbekistan and an  M.A. in International Political Economy from the University of Kassel in Germany."
+  website: 
+
+- name: "Raiyan Ashraf"
+  image: /assets/images/2026/uw/participants/picture_1 - Raiyan Ashraf.png
+  bio: "I am Raiyan, a graduate student in Computer Science at Kent State University researching how LLM-powered robots can engage humans empathetically. My work spans human-robot interaction, social robotics, and trustworthy AI, with particular interest in how social context, fairness, and bias shape human perception and trust in AI-enabled systems. My mixed methods work combines controlled user studies with computational modeling, examining the patterns that surface across both in human trust and engagement."
+  website: 
+
+- name: "Molly Griston"
+  image: /assets/images/2026/uw/participants/Screenshot 2026-07-06 at 10.41.17 AM - Molly Griston.png
+  bio: "Molly is a PhD candidate in the Physics Department at CU Boulder. She works in Physics Education Research, focusing on the development and application of assessments in quantum computing education. More broadly, she's interested in considerations of validity and interpretability of measurement and assessment systems."
+  website: 
+
+- name: "Lauren Yan"
+  image: /assets/images/2026/uw/participants/LNY_2026 - Lauren Yan.jpeg
+  bio: "Lauren Yan is a postdoctoral fellow at the University of Kansas Medical Center and Children’s Mercy Kansas City. A social psychiatric epidemiologist by training, she studies how social, economic, and political factors affect population well-being. She is especially interested in how global migration policies shape community relationships and population dynamics."
+  website: 
+
+- name: "Ruixiang Xu"
+  image: /assets/images/2026/uw/participants/1626230813460 - Ruixiang Xu.jpeg
+  bio: "Lauren Yan is a postdoctoral fellow at the University of Kansas Medical Center and Children’s Mercy Kansas City. A social psychiatric epidemiologist by training, she studies how social, economic, and political factors affect population well-being. She is especially interested in how global migration policies shape community relationships and population dynamics."
+  website: 
+  
+- name: "Denis Peskoff"
+  image:
+  bio: ""
+  website: 
