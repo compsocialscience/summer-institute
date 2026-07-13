@@ -65,7 +65,7 @@
 
 - name: "Raiyan Ashraf"
   image: /assets/images/2026/uw/participants/picture_1 - Raiyan Ashraf.png
-  bio: "I am Raiyan, a graduate student in Computer Science at Kent State University researching how LLM-powered robots can engage humans empathetically. My work spans human-robot interaction, social robotics, and trustworthy AI, with particular interest in how social context, fairness, and bias shape human perception and trust in AI-enabled systems. My mixed methods work combines controlled user studies with computational modeling, examining the patterns that surface across both in human trust and engagement."
+  bio: "Raiyan Ashraf is a graduate student in Computer Science at Kent State University, researching how LLM-powered robots can engage humans empathetically. His work spans human-robot interaction, social robotics, and trustworthy AI, with particular interest in how social context, fairness, and bias shape human perception of and trust in AI-enabled systems. His mixed-methods research combines controlled user studies with computational modeling, examining the patterns that surface across both in human trust and engagement."
   website: 
 
 - name: "Molly Griston"
@@ -84,6 +84,6 @@
   website: 
   
 - name: "Denis Peskoff"
-  image:
-  bio: ""
-  website: 
+  image: /assets/images/2026/uw/participants/denis.webp
+  bio: "Denis Peskoff is a Bellwether Postdoctoral Scholar at UC Berkeley.  His research integrates knowledge from domain experts to evaluate and improve natural language processing."
+  website: https://denis.ai/
