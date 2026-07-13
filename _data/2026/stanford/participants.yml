@@ -1,6 +1,99 @@
-- name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+- name: "Carlos Guirado"
+  image: /assets/images/2026/stanford/participants/carlos-guirado.jpg
+  bio: "Carlos is a PhD candidate in Civil Engineering at UC Berkeley studying human dynamics in sociotechnical systems. His work combines causal inference, econometrics, and simulation to understand decision-making at scale, primarily in human mobility. He is increasingly drawn to epistemological questions about modeling: validation, generalizability, reflexivity. Before academia, Carlos consulted globally for governments and infrastructure financiers."
+  website: https://www.carlosguirado.com
 
-# Add more participants with the same format as above...
+- name: "Kevin Kennedy"
+  image: /assets/images/2026/stanford/participants/kevin-kennedy.jpg
+  bio: "Kevin is a PhD Candidate in Social Psychology at Stanford University. His research examines how motivation affects when and how people infer social norms. Prior to graduate school, Kevin worked as a lab manager at the University of Wisconsin-Madison and received his B.A. from the University of Richmond."
+  website:
+
+- name: "Shaye Hopkins"
+  image: /assets/images/2026/stanford/participants/shaye-hopkins.jpg
+  bio: "Shaye Hopkins is a PhD candidate at the Vienna University of Economics & Business, researching scalable behavioral interventions to foster constructive discourse and welfare in polarized information environments. Her work spans misinformation, trust, and well-being, combining experiments and trace data methods to design interventions that help people make more informed decisions."
+  website: https://www.linkedin.com/in/shaye-hopkins/
+
+- name: "Danielle Shariff"
+  image: /assets/images/2026/stanford/participants/danielle-shariff.jpg
+  bio: "Danielle Shariff is a PhD student in the Department of Political Science at Northeastern University. Her research focuses on the current U.S. political and civic information ecosystem. By understanding the mechanisms that drive information flow, manipulation, and regulation in social media, her work aims to strengthen political engagement and contend with the broader issues of unchecked corporate power and democratic decline."
+  website:
+
+- name: "Waris Ahmad Faizi"
+  image: /assets/images/2026/stanford/participants/waris-ahmad-faizi.jpg
+  bio: "Waris is a Ph.D. student in Sociology at Virginia Tech, working across economic sociology, digital sociology, and computational social science. His research examines how digital platforms, algorithms, and AI reshape work, labor markets, and inequality, using computational and quantitative methods including NLP, machine learning, network analysis, and causal inference."
+  website: https://warisfaizi.owlstown.net
+
+- name: "Emma Gueorguieva"
+  image: /assets/images/2026/stanford/participants/emma-gueorguieva.jpg
+  bio: "Emma Gueorguieva is a PhD student in Social and Personality Psychology at the University of Texas at Austin. Her research focuses on how language reflects psychological processes and behavior, and the ethical development of emotionally intelligent AI systems. Additionally, she is affiliated with the UT NLP Group."
+  website: https://egueorguieva.github.io/
+
+- name: "Jiahao Zhang"
+  image: /assets/images/2026/stanford/participants/jiahao-zhang.jpg
+  bio: "Jiahao Zhang is a doctoral student. His research focuses on the confluence of deep learning, political economy, and human mobility. He is particularly interested in interdisciplinary research. Previously, he has collaborated with researchers across multiple disciplines, including electrical engineering, computer science, chemistry, and geography."
+  website:
+
+- name: "Sakshi Sahakari"
+  image: /assets/images/2026/stanford/participants/sakshi-sahakari.jpg
+  bio: "Sakshi Sahakari (she/her) is a PhD student in psychology at the University of British Columbia. Her research explores how normative experiences vary across space and time. With big data and computational social sciences, she is currently examining the evolution of cultural differences in individual- and institutional-level social norm regulation."
+  website: https://www.linkedin.com/in/sakshi-sahakari/
+
+- name: "Weiying Li"
+  image: /assets/images/2026/stanford/participants/weiying-li.jpg
+  bio: "Weiying is a postdoctoral researcher at UC Berkeley's School of Education. Her research designs AI dialog systems that help students learn complex science topics while engaging social justice issues like food access. She works with teachers as co-designers and uses NLP methods to study learning trajectories in AI dialogs."
+  website: https://www.linkedin.com/in/weiying-li-a34320134/
+
+- name: "Yifei Lu"
+  image: /assets/images/2026/stanford/participants/yifei-lu.jpg
+  bio: "Yifei Lu is a Ph.D. student in Communication at the University of Pennsylvania. Her research focuses on mobile and interpersonal communication, with an emphasis on understanding the dynamics of conversations and social interaction. She draws on ecologically valid methods as well as computational approaches to study these processes in everyday contexts."
+  website:
+
+- name: "Alina Khamatdinova"
+  image: /assets/images/2026/stanford/participants/alina-khamatdinova.jpg
+  bio: "Alina is a PhD candidate in Political Science at Washington State University, working at the intersection of security studies, political psychology, and computational social science. In her research, she uses text-as-data methods to study bottom-up moral mobilization in active wars."
+  website: https://khamatdinova.com/
+
+- name: "Sol Zoe Nottage"
+  image: /assets/images/2026/stanford/participants/sol-zoe-nottage.jpg
+  bio: "Sol Zoe Nottage is a Fulbright Scholar from Argentina and an M.S. candidate in Applied Quantitative Methods and Social Analysis at Northeastern University. She serves on the Steering Committee of the Arms Trade Treaty Monitor, where she developed the Arms Trade Treaty Transfers Dashboard and supported research on global arms transfer transparency. Her research applies computational social science, NLP, and machine learning to large-scale text analysis, with the goal of strengthening public policy research and computational social science capacity across Latin America."
+  website:
+
+- name: "Lisa Wunsch"
+  image: /assets/images/2026/stanford/participants/lisa-wunsch.jpg
+  bio: "Lisa Wunsch is a PhD student in Sociology at the University of Wuppertal, Germany. Her research examines broader patterns of social inequality, with a particular focus on (academic) labor markets and partnership dynamics. She is especially interested in how social signals, norms, and preferences shape inequality and partner selection in increasingly digital environments, drawing on experimental and computational approaches."
+  website: https://www.linkedin.com/in/lisa-wunsch-3a1763345
+
+- name: "Dennis Okeke"
+  image: /assets/images/2026/stanford/participants/dennis-okeke.jpg
+  bio: "Dennis E. Okeke is a 3rd-year Ph.D. student in Media Research and Practice at the University of Colorado Boulder. His research focuses on how identities and other political affiliations are represented and contested in digital spaces across Africa and the United States. Dennis's work has been published in leading communication and media studies journals. He is an award-winning teacher and mentor who promotes critical, transnational, computational, and decolonial approaches to digital media studies."
+  website:
+
+- name: "Fazli Salim"
+  image: /assets/images/2026/stanford/participants/fazli-salim.jpg
+  bio: "Fazli Salim is a PhD student in social psychology at Boston College. Her research examines how false causal narratives shape policy responses to systemic crises in social and environmental domains, with developing research in computational social science."
+  website: https://www.linkedin.com/in/fazlisalim
+
+- name: "Xinyi Liu"
+  image: /assets/images/2026/stanford/participants/xinyi-liu.jpg
+  bio: "Xinyi Liu is a Ph.D. student in the Media, Technology & Society program at Northwestern University and a member of the Computational Media and Politics (COMAP) Lab, advised by Dr. Yingdan Lu. Her research examines how social media algorithms and generative AI shape information flows and political communication across comparative contexts. Methodologically, she applies causal inference and computational multimodal analysis to analyze large-scale visual and video data."
+  website: https://xinyiliu-research.github.io/
+
+- name: "Patrick Wade"
+  image: /assets/images/2026/stanford/participants/patrick-wade.jpg
+  bio: "Patrick Wade is a PhD student in Sociology at the University of California, Davis. His research interests include organizational sociology, finance, culture, and decision-making. Currently, he is working on a project applying computational text analysis and network methods to study group interactions between policymakers that result (or fail to result) in consensus decisions, focusing on the case of the Federal Reserve in the 1970s and '80s. Prior to graduate school, Patrick worked at the Federal Reserve and received his BS in Finance from Santa Clara University."
+  website: https://www.linkedin.com/in/patrick-wade/
+
+- name: "Maria Lipińska"
+  image: /assets/images/2026/stanford/participants/maria-lipiska.jpg
+  bio: "Maria Lipińska is a digital sociologist and PhD student in Management at Kozminski University. She is a researcher on a project investigating online disinformation, and she is also examining AI-related topics within the EUonAIR and AISOME projects."
+  website: https://www.linkedin.com/in/maria-lipinska
+
+- name: "Xuanlong Qin"
+  image: /assets/images/2026/stanford/participants/xuanlong-qin.jpg
+  bio: "Xuanlong is a Ph.D. candidate in the Department of Sociology at the Chinese University of Hong Kong. His research interests focus on the application of computational approaches to sociological questions. His current work involves measuring social perceptions (e.g., stereotypes, social evaluations, and social trust) and understanding their mechanisms from a structural perspective."
+  website: https://xuanlongq.github.io/
+
+- name: "Do Won Kim"
+  image: /assets/images/2026/stanford/participants/do-won-kim.jpg
+  bio: "Do Won Kim is a Ph.D. candidate in Information at the University of Maryland. She studies how AI and digital information systems shape democratic processes. Using experiments and computational methods, she designs and tests interventions aimed at building healthier information environments for democratic societies."
+  website: https://do-won.github.io/
