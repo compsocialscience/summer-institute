@@ -1,6 +1,4 @@
-- name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
-
-# Add more participants with the same format as above...
+- name: "Amy Xiao"
+  image: /assets/images/2026/uw/participants/Headshot - Amy Wei Xiao.png
+  bio: "Amy is a first year PhD student at UW HCDE, supported by the NSF Graduate Research Fellowship and the UW College of Engineering Dean's Fellowship. They study digital safety for marginalized groups, with a focus on peer- and community-based support against harm both facilitated and enacted by technology. Amy draws from theories of disability justice and WOC feminism to reflect on how we design, govern, and resist technology. Previously, Amy was at Brown University where they worked with the Brown HCI Lab (now Socio-HCI @ Brown) and the Human Trafficking Research Cluster."
+  website: https://www.google.com
