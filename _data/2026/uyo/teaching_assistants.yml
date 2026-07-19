@@ -1,5 +1,5 @@
-- name: "TA info coming soon."
-  image: /assets/images/placeholderPic.png
-  bio: "..."
-  website: www.google.com
+- name: George Odo 
+  image: /assets/images/George Odo2.jpg 
+  bio: "<p align='justify'>George is a computer science graduate of the University of Calabar. He is a web and Machine Learning model developer, verse in programming languages such as Python, R, React, React Native, TypeScript, and JavaScript. <br> George has been able to gather wealth of experiences as a full stack web developer and data scientist at Zoe-Sprout Technologies International. He is particularly drawn to the power of data science, and he enjoys exploring how data can be leveraged to drive innovation and solve complex problems. As he continues to grow in the field of computer science, he is eager to apply his skills in real-world projects, where he can share his knowledge with others while continuing to learn and improve. <br>He enjoys collaborating with teams to build innovative solutions and create impactful digital experiences</p>"
+  website: https://www.linkedin.com/in/odo-george-21920b378/
 # add more TAs with this format below...
