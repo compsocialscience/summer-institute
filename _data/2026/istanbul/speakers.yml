@@ -1,5 +1,5 @@
 - name: "İnanç Arın"
-  image: /assets/images/İnanç Arın.jpg
+  image: assets/images/İnanç Arın.jpg
   bio: "İnanç Arın is a faculty member in the Faculty of Engineering and Natural Sciences at Sabancı University, working within the Computer Science & Engineering and Data Analytics programs. His research centers on data mining, text mining, machine learning, and big data, with particular attention to social bots and their effects on everyday life and the business world."
   website: https://fens.sabanciuniv.edu/tr/faculty-members/detail/3060
 
@@ -34,7 +34,7 @@
   website: https://www.dirkwulff.org/
 
 - name: "Serkant Adıgüzel"
-  image: /assets/images/Serkant Adıgüzel.jpg
+  image: /assets/images/Serkant Adıgüzel.jpg
   bio: "Fatih Serkant Adıgüzel is an Assistant Professor in the Faculty of Arts and Social Sciences at Sabancı University and a faculty fellow at AALIMS. He specializes in political economy and political methodology, with research at the intersection of democratic backsliding, digital media, and public services. He earned his PhD in Political Science from Duke University and was previously a research fellow at Harvard Kennedy School's Middle East Initiative."
   website: https://serkantadiguzel.com/
 
@@ -49,7 +49,7 @@
   website: https://yemretapan.com/
 
 - name: "Şükrü Atsızelti"
-  image: /assets/images/Şükrü Atsızelti.jpg
+  image: /assets/images/Şükrü Atsızelti.jpg
   bio: "Şükrü Atsızelti is a PhD researcher in Computational Social Science and Sociology at Koç University and a researcher at Politus Analytics. His work focuses on digital trace data, validating digital signals against survey data, and LLM-based simulations, with applications to Turkish politics and public opinion."
   website:
 
@@ -59,7 +59,7 @@
   website: https://avesis.marmara.edu.tr/15462
 
 - name: "Helin Ekmen"
-  image: /assets/images/Helin Yaren Ekmen.jpg
+  image: /assets/images/istanbul2026/Helin Yaren Ekmen.jpg
   bio: "Helin Yaren Ekmen is an MA student in Computational Social Sciences at Koç University and a Research Assistant at the Marmara Institute for Population and Social Research, with a BA in Political Science from Boğaziçi University. Her research focuses on social movements, contentious politics, and democratic backsliding, using text-as-data approaches, LLM-based annotation pipelines, and synthetic agents."
   website: https://www.linkedin.com/in/helin-yaren-ekmen-b751a7253/
 
@@ -74,6 +74,6 @@
   website: https://webspace.science.uu.nl/~salah006/
 
 - name: "Onur Güngör"
-  image: /assets/images/Onur Güngör.jpg
+  image: /assets/images/Onur Güngör.jpg
   bio: "Onur Güngör is part-time faculty in the Department of Computer Engineering at Boğaziçi University, specializing in natural language processing and computational linguistics. His doctoral work focused on named entity recognition using morphological information, advancing performance for Turkish and several other languages. He also works as a data science manager at Udemy."
   website: https://www.cmpe.boun.edu.tr/~onurgu/
