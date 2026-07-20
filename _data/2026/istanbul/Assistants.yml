@@ -1,5 +1,16 @@
-- name: "TA info coming soon."
-  image: /assets/images/placeholderPic.png
-  bio: "..."
-  website: www.google.com
-# add more TAs with this format below...
+
+- name: "Azade Safiye Eryiğit"
+  image: /assets/images/AzadeEryigit.jpeg
+  bio: "Azade Safiye Eryiğit recently completed her PhD in International Relations at Kadir Has University, where her dissertation built a large language model pipeline to annotate emotion across two decades of Turkish Ministry of Foreign Affairs press releases. She is Project Specialist and Operational Lead for DECONSPIRATOR, a Horizon Europe consortium hosted at Özyeğin University that studies foreign information manipulation and interference, and a researcher at the Global Academy's Political Psychology Research Hub. Her work combines political communication with large-scale computational analysis, focusing on the curation and contestation of online political speech and how AI is reshaping public reasoning."
+  website: https://github.com/azadesel
+ 
+- name: "Şevval Çakıcı"
+  image: /assets/images/SevvalCakici.jpeg
+  bio: "Şevval Çakıcı is a master's student in Computational Social Sciences at Koç University and one of the SICSS Istanbul assistants. She earned her Bachelor's degree in Psychology from Özyeğin University. Her research interests include sentiment analysis, coping strategies, and crisis responses. She currently works as a research assistant at Ericsson Research."
+  website:
+ 
+- name: "Aliye Fettah"
+  image: /assets/images/AliyeFettah.jpeg
+  bio: "Aliye Fettah is one of the SICSS Istanbul assistants, based in Istanbul. She holds a B.A. in International Relations with a minor in Management Information Systems from Özyeğin University, and will soon begin her MA in Computational Social Sciences at Koç University. Her academic interests lie at the intersection of political science, history, and data science."
+  website:
+ 
