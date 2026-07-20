@@ -64,7 +64,6 @@
 - date: "2026-07-13"
   events:
     - name: "Company visit: **Kariyer.net**"
-    - name: "Group project briefing — [project guidelines](https://drive.google.com/drive/folders/1_JicgdomYEGcOkSSIRVE1mA0sETE6tag)"
 
 - date: "2026-07-14"
   name: "Özyeğin + Koç Joint Day (Well-being & LLMs)"
@@ -96,4 +95,3 @@
   name: "Presentation Day"
   events:
     - name: "Final project presentations by all participant groups, followed by a closing networking event."
-    - name: "Participant project presentations — including *ThemeBench: A Benchmark for LLM-generated Thematic Analysis in the Social Sciences* — are available in the [materials Drive](https://drive.google.com/drive/folders/1_JicgdomYEGcOkSSIRVE1mA0sETE6tag)."
