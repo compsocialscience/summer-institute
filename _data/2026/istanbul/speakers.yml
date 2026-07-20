@@ -1,79 +1,79 @@
 - name: "İnanç Arın"
-  image: /assets/images/istanbul2026/İnanç Arın.jpg
+  image: /assets/images/İnanç Arın.jpg
   bio: "İnanç Arın is a faculty member in the Faculty of Engineering and Natural Sciences at Sabancı University, working within the Computer Science & Engineering and Data Analytics programs. His research centers on data mining, text mining, machine learning, and big data, with particular attention to social bots and their effects on everyday life and the business world."
   website: https://fens.sabanciuniv.edu/tr/faculty-members/detail/3060
 
 - name: "Walid Magdy"
-  image: /assets/images/istanbul2026/Walid Magdy.jpg
+  image: /assets/images/Walid Magdy.jpg
   bio: "Walid Magdy holds a Personal Chair of Computational Social Science at the School of Informatics, University of Edinburgh, and is the founder and director of the Social Media Analysis and Support for Humanity (SMASH) group. His research spans computational social science, data mining, and natural language processing. He is a faculty fellow at the Alan Turing Institute and previously worked at IBM, Microsoft, and the Qatar Computing Research Institute."
   website: https://homepages.inf.ed.ac.uk/wmagdy/
 
 - name: "Chris Barrie"
-  image: /assets/images/istanbul2026/Chris Barrie.jpg
+  image: /assets/images/Chris Barrie.jpg
   bio: "Christopher Barrie is an Assistant Professor in the Department of Sociology at New York University and core faculty at NYU's Center for Social Media, AI, and Politics (CSMaP). A political sociologist of conflict, communication, and political attitudes, he specializes in natural language processing, language models, and the repurposing of digital trace data to study hard-to-reach populations. He previously held positions at the University of Edinburgh and the University of Oxford."
   website: https://csmapnyu.org/people/christopher-barrie
 
 - name: "Ceren Budak"
-  image: /assets/images/istanbul2026/Ceren Budak.jpg
+  image: /assets/images/Ceren Budak.jpg
   bio: "Ceren Budak is an Associate Professor of Information and of Electrical Engineering and Computer Science at the University of Michigan, where she also serves as associate director of the Center for Social Media Responsibility. Her research examines public discourse and collective behavior on digital platforms, focusing on political polarization, misinformation, and collective action through field experiments, machine learning, and network science. She was named a 2026 Andrew Carnegie Fellow."
   website: https://www.si.umich.edu/people/ceren-budak
 
 - name: "Tuba Bircan"
-  image: /assets/images/istanbul2026/Tuba Bircan.jpg
+  image: /assets/images/Tuba Bircan.jpg
   bio: "Tuba Bircan is an Associate Professor in the Department of Sociology at Vrije Universiteit Brussel, where she leads the AI, Migration and Society (AIMS) Lab and directs the BRISPO research group. With a background in statistics and a PhD in social and political sciences from KU Leuven, her interdisciplinary work spans migration, social inequalities, public policy, and the use of Big Data and AI in the social sciences."
   website: https://www.tubabircan.com
 
 - name: "Philipp Lorenz-Spreen"
-  image: /assets/images/istanbul2026/Philipp Lorenz-Spreen.jpg
+  image: /assets/images/Philipp Lorenz-Spreen.jpg
   bio: "Philipp Lorenz-Spreen leads the junior research group in Computational Social Science at the Center for Synergy of Systems, TU Dresden, and is a researcher at the Center for Adaptive Rationality at the Max Planck Institute for Human Development. His work studies the societal impact of digitalization — how online discourse, collective attention, and platform design affect democracy and public opinion."
   website: https://www.mpib-berlin.mpg.de/staff/philipp-lorenz-spreen
 
 - name: "Dirk Wulff"
-  image: /assets/images/istanbul2026/Dirk Wulff.jpg
+  image: /assets/images/Dirk Wulff.jpg
   bio: "Dirk U. Wulff is a Senior Research Scientist at the Max Planck Institute for Human Development in Berlin and head of a research area within the Center for Adaptive Rationality. His work sits at the intersection of psychology, artificial intelligence, and metascience, studying human memory and decision-making through behavioral experiments, computational modeling, big-data analytics, and large language models. He is the founder of The R Bootcamp."
   website: https://www.dirkwulff.org/
 
 - name: "Serkant Adıgüzel"
-  image: /assets/images/istanbul2026/Serkant Adıgüzel.jpg
+  image: /assets/images/Serkant Adıgüzel.jpg
   bio: "Fatih Serkant Adıgüzel is an Assistant Professor in the Faculty of Arts and Social Sciences at Sabancı University and a faculty fellow at AALIMS. He specializes in political economy and political methodology, with research at the intersection of democratic backsliding, digital media, and public services. He earned his PhD in Political Science from Duke University and was previously a research fellow at Harvard Kennedy School's Middle East Initiative."
   website: https://serkantadiguzel.com/
 
 - name: "Ali Najafi"
-  image: /assets/images/istanbul2026/Ali Najafi.jpg
+  image: /assets/images/Ali Najafi.jpg
   bio: "Ali Najafi is a computer scientist affiliated with the VIRAL Lab at Sabancı University. His research interests include natural language processing, computational social science, deep learning, and machine learning, with a focus on social bot detection and misinformation. He contributed to the #secim2023 dataset created for studying the Turkish general election."
   website:
 
 - name: "Yunus Emre Tapan"
-  image: /assets/images/istanbul2026/Yunus Emre Tapan.jpg
+  image: /assets/images/Yunus Emre Tapan.jpg
   bio: "Yunus Emre Tapan is a PhD candidate in Political Science at Northeastern University, affiliated with the Network Science Institute. Specializing in political methodology and comparative politics, he uses machine learning, computational text analysis, and network analysis on digital trace data; his dissertation examines exposure diversity and political segregation online. He holds an MSc from METU and a BA from Boğaziçi University."
   website: https://yemretapan.com/
 
 - name: "Şükrü Atsızelti"
-  image: /assets/images/istanbul2026/Şükrü Atsızelti.jpg
+  image: /assets/images/Şükrü Atsızelti.jpg
   bio: "Şükrü Atsızelti is a PhD researcher in Computational Social Science and Sociology at Koç University and a researcher at Politus Analytics. His work focuses on digital trace data, validating digital signals against survey data, and LLM-based simulations, with applications to Turkish politics and public opinion."
   website:
 
 - name: "Fuat Kına"
-  image: /assets/images/istanbul2026/Fuat Kına.jpg
+  image: /assets/images/Fuat Kına.jpg
   bio: "M. Fuat Kına is an Assistant Professor at Marmara University and head of the Social Research Department at the Institute for Population and Social Research. He was previously a postdoctoral researcher at the Center for Computational Social Sciences and an instructor in the Computational Social Sciences MA program at Koç University. His research covers computational social science, causal inference, social movements, and comparative welfare and social policy."
   website: https://avesis.marmara.edu.tr/15462
 
 - name: "Helin Ekmen"
-  image: /assets/images/istanbul2026/Helin Yaren Ekmen.jpg
+  image: /assets/images/Helin Yaren Ekmen.jpg
   bio: "Helin Yaren Ekmen is an MA student in Computational Social Sciences at Koç University and a Research Assistant at the Marmara Institute for Population and Social Research, with a BA in Political Science from Boğaziçi University. Her research focuses on social movements, contentious politics, and democratic backsliding, using text-as-data approaches, LLM-based annotation pipelines, and synthetic agents."
   website: https://www.linkedin.com/in/helin-yaren-ekmen-b751a7253/
 
 - name: "Merih Angın"
-  image: /assets/images/istanbul2026/Merih Angın.jpg
+  image: /assets/images/Merih Angın.jpg
   bio: "Merih Angın is an Assistant Professor at Koç University's College of Administrative Sciences and Economics. Her research focuses on international political economy, development, computational social science, and AI governance. She previously held postdoctoral positions at Harvard University and the University of Oxford, and is the founder of the MA Computational Social Sciences Lab at Koç University."
   website: https://merihangin.com/home
 
 - name: "Albert Ali Salah"
-  image: /assets/images/istanbul2026/Albert Ali Salah.jpg
+  image: /assets/images/Albert Ali Salah.jpg
   bio: "Albert Ali Salah is a Professor of Social and Affective Computing in the Department of Information and Computing Sciences at Utrecht University. His research spans multimodal interaction, pattern recognition, computer vision, computational social science, and the computer analysis of human behavior. He received his MSc and PhD from Boğaziçi University and has co-authored over 200 publications."
   website: https://webspace.science.uu.nl/~salah006/
 
 - name: "Onur Güngör"
-  image: /assets/images/istanbul2026/Onur Güngör.jpg
+  image: /assets/images/Onur Güngör.jpg
   bio: "Onur Güngör is part-time faculty in the Department of Computer Engineering at Boğaziçi University, specializing in natural language processing and computational linguistics. His doctoral work focused on named entity recognition using morphological information, advancing performance for Turkish and several other languages. He also works as a data science manager at Udemy."
   website: https://www.cmpe.boun.edu.tr/~onurgu/
