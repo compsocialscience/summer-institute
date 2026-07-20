@@ -1,5 +1,99 @@
-- date: "July 6 - July 18, 2026"
+- date: "2026-07-06"
+  name: "Sabancı University"
   events:
-    - name: "Schedule coming soon. Check back for updates!" # Update this line or add markdown for your site's schedule.
+    - name: "📁 **[All course materials (Google Drive)](https://drive.google.com/drive/folders/1_JicgdomYEGcOkSSIRVE1mA0sETE6tag)** &nbsp;·&nbsp; ▶️ **[All lecture recordings (YouTube)](https://www.youtube.com/playlist?list=PLAiowMTy1GXxVuiSPBYuN4re8TdD9gKsY)** <br/> Every lecture was recorded and all slides, notebooks and datasets are shared openly, so the full program can be worked through independently."
+    - name: |
+        | Session | Speaker | Topic | Materials | Video |
+        |---|---|---|---|---|
+        | Morning | İnanç Arın (Sabancı University) | Semantic Search, Embeddings, and Retrieval-Augmented Generation | [Materials](https://drive.google.com/drive/folders/1cbJ3DMF4QLgKJCzSuyCbnarE_0JvHctr) | [Watch](https://www.youtube.com/watch?v=a_btwegzzFY) |
+        | Afternoon | Walid Magdy (University of Edinburgh) | CSS with AI: Big Data, Misinformation, and Digital Behavior | — | [Watch](https://www.youtube.com/watch?v=YWBdA0BXfvo) |
 
-  # Our tentative schedule can be seen [here](www.google.com). Our program focuses on ... . We will invite guest speakers to provide an overview of ..."
+- date: "2026-07-07"
+  name: "Piri Reis University (SIU Day)"
+  events:
+    - name: |
+        | Session | Speaker | Topic | Materials | Video |
+        |---|---|---|---|---|
+        | Morning | Chris Barrie (New York University) | Reproducible AI: Replication and Prompt Stability in Social Science | [Materials](https://drive.google.com/drive/folders/189AIB-eghJopa3XC-ZGm9sflDxv4fxgH) | [Watch](https://www.youtube.com/watch?v=C1E3UEWQdTo) |
+        | Afternoon | IEEE Signal Processing and Communications Conference | Computational Social Science session | [Notes (PDF)](https://drive.google.com/file/d/1OjZN-dzJXJxO952Unl8T0KRdfdto16mI/view) | — |
+
+- date: "2026-07-08"
+  name: "Özyeğin University"
+  events:
+    - name: |
+        | Session | Speaker | Topic | Materials | Video |
+        |---|---|---|---|---|
+        | Morning | Ceren Budak (University of Michigan) | Simulating Public Deliberation with Multi-Agent LLMs | [Materials](https://drive.google.com/drive/folders/1Qv5X9MHKEgdiP0gzqezto3nS-SzeplZf) | [Watch](https://www.youtube.com/watch?v=2QOOVQI5JKQ) |
+        | Afternoon | Tuba Bircan (Vrije Universiteit Brussel) | Migration Forecasting with AI: LLMs and Feature Selection | [Materials](https://drive.google.com/drive/folders/1EJ56QHTFDFE9Z02Iibd385sJKGxODP9w) | [Watch](https://www.youtube.com/watch?v=VzRnvd3bVJc) |
+        | Late afternoon | Philipp Lorenz-Spreen (TU Dresden) | CSS for Democracy: Platforms, Polarization, and LLMs | [Materials](https://drive.google.com/drive/folders/1qUoFFpgD2YGIQtz3VLVBG5yvIbE92oON) | [Watch](https://www.youtube.com/watch?v=dnxvszMj5UU) |
+
+- date: "2026-07-09"
+  name: "Sabancı University"
+  events:
+    - name: |
+        | Session | Speaker | Topic | Materials | Video |
+        |---|---|---|---|---|
+        | Morning | Serkant Adıgüzel (Sabancı University) | Modern Causal Inference with Difference-in-Differences in R | [Materials](https://drive.google.com/drive/folders/1j6rNrS31W6OtaimwJCj2fk7Ig21mMl2o) | [Watch](https://www.youtube.com/watch?v=oQi1x2fq7A8) |
+        | Afternoon | Ali Najafi (Sabancı University) | Prompt Engineering, AI Agents, and LLMs for Social Science | [Materials](https://drive.google.com/drive/folders/1WPnJDQfj03MikgL89wcwYOI8G4abz3aq) | [Watch](https://www.youtube.com/watch?v=weqgatsxOtM) |
+        | Late afternoon | Yunus Emre Tapan (Northeastern University) | The Anthropology of Machines: Understanding LLMs From Within | [Materials](https://drive.google.com/drive/folders/1UMnI9-Pan_olWIJwbdpFy8OlLGvoPxGM) | [Watch](https://www.youtube.com/watch?v=Exm6M4xiYcE) |
+
+- date: "2026-07-10"
+  name: "Koç University"
+  events:
+    - name: |
+        | Session | Speaker | Topic | Materials | Video |
+        |---|---|---|---|---|
+        | Morning | Şükrü Atsızelti (Koç University) | Embeddings in CSS: From Word Vectors to Cultural Meaning | [Materials](https://drive.google.com/drive/folders/124pnpeT4oR-oeN1bC95uZFQdnrmykYzi) | [Watch](https://www.youtube.com/watch?v=S4QlPSUzBKA) |
+        | Afternoon | Fuat Kına (Marmara) & Helin Yaren Ekmen (Koç) | Large Language Models to Simulate Public Opinion | [Materials](https://drive.google.com/drive/folders/1Pt6Lyr14qEsNjO8eqLIfdcTosmtVYOuH) | [Watch](https://www.youtube.com/watch?v=Xj3zzJkmQmE) |
+        | Late afternoon | Merih Angın (Koç University) | — | — | — |
+
+- date: "2026-07-11"
+  name: "Boğaziçi University"
+  events:
+    - name: |
+        | Session | Speaker | Topic | Materials | Video |
+        |---|---|---|---|---|
+        | Morning | Albert Ali Salah (Utrecht University) | AI for Social Good: Mobile Phone Data, Migration, and CSS | [Materials](https://drive.google.com/drive/folders/1BucvbJg_vWkmwiEquQv2F-PnVaTifFc2) | [Watch](https://www.youtube.com/watch?v=lbvZp4od3dk) |
+        | Afternoon | Onur Güngör (Boğaziçi University) | Simulating Human Behavior with LLM Agents: Online Market Prompts | — | [Watch](https://www.youtube.com/watch?v=scOEEMDVZIU) |
+        | Evening | — | Bosphorus boat trip (social program) | — | — |
+
+- date: "2026-07-12"
+  events:
+    - name: "Free day — Istanbul visit."
+
+- date: "2026-07-13"
+  events:
+    - name: "Company visit: **Kariyer.net**"
+    - name: "Group project briefing — [project guidelines](https://drive.google.com/drive/folders/1_JicgdomYEGcOkSSIRVE1mA0sETE6tag)"
+
+- date: "2026-07-14"
+  name: "Özyeğin + Koç Joint Day (Well-being & LLMs)"
+  events:
+    - name: |
+        | Session | Speaker | Topic | Materials | Video |
+        |---|---|---|---|---|
+        | Afternoon | Dakota W. Cintron | Social Asymmetry, Loneliness, and LLMs for Social Science | [Materials](https://drive.google.com/drive/folders/1TvjSNPACxdPjkaWgYntFdFkFK1I-kQd2) | [Watch](https://www.youtube.com/watch?v=-7CvW5VvaCU) |
+        | Late afternoon | Dirk Wulff (Max Planck Institute) | Large Language Models for Psychological Conceptual Clarity | [Materials](https://drive.google.com/drive/folders/1UMdq5AfIPueeN5Dg4Lgo8YDnJpBS1LNd) | [Watch](https://www.youtube.com/watch?v=hmYxDmznA74) |
+
+- date: "2026-07-15"
+  name: "Group Project Work"
+  events:
+    - name: "Participants worked in teams on their research projects, with faculty and TA support available throughout."
+    - name: "**Evening** — Open-air cinema"
+
+- date: "2026-07-16"
+  name: "Group Project Work"
+  events:
+    - name: "Team project work."
+    - name: "**Evening** — Open-air cinema"
+
+- date: "2026-07-17"
+  name: "Group Project Work"
+  events:
+    - name: "Team project work and preparation for final presentations."
+
+- date: "2026-07-18"
+  name: "Presentation Day"
+  events:
+    - name: "Final project presentations by all participant groups, followed by a closing networking event."
+    - name: "Participant project presentations — including *ThemeBench: A Benchmark for LLM-generated Thematic Analysis in the Social Sciences* — are available in the [materials Drive](https://drive.google.com/drive/folders/1_JicgdomYEGcOkSSIRVE1mA0sETE6tag)."
