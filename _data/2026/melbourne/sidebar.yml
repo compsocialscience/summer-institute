@@ -4,8 +4,10 @@
 #  url: "pre_arrival"
 - name: Organisers
   url: "organisers"
-- name: Program
+- name: "2026 Program"
   url: "schedule"
+- name: "Session Recordings"
+  url: "recordings"
 - name: "Training Materials"
   url: "training"
 - name: Speakers
