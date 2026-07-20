@@ -3,46 +3,6 @@ layout: location_detail
 partner_site: melbourne
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════
-  SICSS Melbourne 2026 · Session Recordings
-  ───────────────────────────────────────────────────────────────────
-  HOW TO PUBLISH A VIDEO:
-  Paste the YouTube video ID into the data-youtube-id attribute of the
-  session's .video-embed div below. The page swaps the placeholder for
-  the player automatically. IDs to fill in:
-
-    social-bias            = ""   (Social Bias in CSS — Kathirgamalingam)
-    data-donations         = ""   (Data Donations — Vella, Hayden)
-    publishing             = ""   (Publishing in CSS — Boichak, Kasianenko)
-    nectar                 = ""   (Nectar Cloud — Ramza)
-    css-theory             = ""   (Does CSS Lack Theory? — Dehghan)
-    aired                  = ""   (AIReD Platform — Sinnott)
-    ddp-workshop           = ""   (Data Download Packages — Tran, Esteban)
-    working-with-text      = ""   (Working with Text — Doyle, Russo-Batterham)
-    screen-capture         = ""   (Screen Capture — Tran, Angus)
-    llm-pipelines          = ""   (LLM Pipelines / quallmer — Maerz)
-    rag-systems            = ""   (RAG Systems — Abushaqra, Cherumanal)
-    image-analysis         = ""   (Image Analysis — Chand, Hayden)
-    cross-disciplinary     = ""   (Panel: Cross-Disciplinary Collaboration)
-    industry-abc           = ""   (Industry: AI in the ABC Newsroom — Gartry, Kuperman)
-    industry-abs           = ""   (Industry: ABS Data Science — McMahon)
-    industry-csiro         = ""   (Industry: CSIRO Language Tech — Wan)
-    industry-acmi          = ""   (Industry: ACMI Research — Holcombe-James)
-    industry-panel-qa      = ""   (Industry: Panel Q&A)
-    career-success         = ""   (Career Success — Trippas)
-    grant-writing          = ""   (Grant Writing — Angus)
-    scilire                = ""   (SciLire — Irons, Wan)
-    music-score-analysis   = ""   (Music Score Analysis — Russo-Batterham)
-    foundational-ethics    = ""   (Foundational Ethics — Young)
-    validation             = ""   (Validation in CSS — Vergani)
-    wikibase               = ""   (Wikibase — Bailo)
-    project-data-peekers   = ""   (Project: Data Peekers — data-donation attrition)
-    project-broke-sicss      = ""   (Project: Broke SICSS — ABC newsworthy moments; winner)
-    project-one-nation     = ""   (Project: One Nation — populist rhetoric vs ABC)
-    project-serious-people = ""   (Project: Serious People — two-speed newsworthiness)
-    project-results-closing= ""   (Group project results & closing)
-═══════════════════════════════════════════════════════════════════ -->
-
 <style>
 /* ═══════════════════════════════════════════════════════
    SICSS Melbourne 2026 · Recordings styles
@@ -225,9 +185,8 @@ Recordings of selected SICSS-Melbourne 2026 sessions, with chapter markers and c
   <p class="rec-speakers"><strong>Speaker:</strong>
     <a href="https://ahrkat.github.io/" target="_blank" rel="noopener noreferrer">Ahrabhi Kathirgamalingam</a> (GESIS)
   </p>
-  <p class="rec-desc">Where social bias enters CSS research — data sources, collection strategies, methods and research design — and how to understand, detect and mitigate it, from persona prompting to participation washing.</p>
-  <div class="video-embed" data-youtube-id=""></div>
-  <p class="rec-resources"><a class="res-pdf" href="/2026/melbourne/guides/social-bias.pdf" target="_blank" rel="noopener noreferrer">Method reference (PDF)</a></p>
+  <div class="video-embed" data-youtube-id="Oy6lwNt-78w"></div>
+  <p class="rec-resources"><a class="res-pdf" href="https://internetobservatory.org.au/training_materials/sicss/Social-Bias-in-CSS_Ahrabhi_Kathirgamalingham.pdf" target="_blank" rel="noopener noreferrer">Training in PDF</a></p>
   <details class="chapters"><summary>Chapters (12)</summary><ul>
     <li><span class="ch-time">00:00</span> Framing: research is never neutral</li>
     <li><span class="ch-time">11:43</span> Bias in CSS as a field</li>
@@ -254,9 +213,8 @@ Recordings of selected SICSS-Melbourne 2026 sessions, with chapter markers and c
     <a href="https://www.admscentre.org.au/kellie-vella/" target="_blank" rel="noopener noreferrer">Kellie Vella</a> (AIO),
     <a href="https://www.admscentre.org.au/lauren-hayden/" target="_blank" rel="noopener noreferrer">Lauren Hayden</a>
   </p>
-  <p class="rec-desc">Data donation as a participant-centric way to study opaque, personalised platforms: what data download packages (DDPs) are, why the exported files are messy and unstandardised, the ethics of consent and participant burden, and how DDPs combine with APIs and the AIO's browser-based tools.</p>
-  <div class="video-embed" data-youtube-id=""></div>
-  <p class="rec-resources"><a class="res-pdf" href="/2026/melbourne/guides/data-donations.pdf" target="_blank" rel="noopener noreferrer">Method reference (PDF)</a></p>
+  <div class="video-embed" data-youtube-id="4Qc0PyZGtZo"></div>
+  <p class="rec-resources"><a class="res-pdf" href="https://internetobservatory.org.au/training_materials/sicss/Data-Donations_Kellie_Vella_Lauren_Hayden.pdf" target="_blank" rel="noopener noreferrer">Training in PDF</a></p>
   <details class="chapters"><summary>Chapters (12)</summary><ul>
     <li><span class="ch-time">00:00</span> Introductions and the AIO</li>
     <li><span class="ch-time">01:14</span> What is data donation?</li>
@@ -280,9 +238,8 @@ Recordings of selected SICSS-Melbourne 2026 sessions, with chapter markers and c
     <a href="https://profiles.sydney.edu.au/olga.boichak" target="_blank" rel="noopener noreferrer">Olga Boichak</a> (USyd),
     <a href="https://www.admscentre.org.au/kateryna-kasianenko/" target="_blank" rel="noopener noreferrer">Kateryna Kasianenko</a>
   </p>
-  <p class="rec-desc">Demystifying academic publishing in CSS, drawing on a four-year mixed-methods collaboration studying online activism: reverse-engineering research from its intended outputs, surviving desk rejects and reviewer-response tables, authorship norms across disciplines, and using mentorship to navigate it all.</p>
-  <div class="video-embed" data-youtube-id=""></div>
-  <p class="rec-resources"><a class="res-pdf" href="/2026/melbourne/guides/publishing.pdf" target="_blank" rel="noopener noreferrer">Method reference (PDF)</a></p>
+  <div class="video-embed" data-youtube-id="7EqYf21rPFE"></div>
+  <p class="rec-resources"><a class="res-pdf" href="https://internetobservatory.org.au/training_materials/sicss/Publishing-in-CSS_Olga_Boichak_Kateryna_Kasianenko.pdf" target="_blank" rel="noopener noreferrer">Training in PDF</a></p>
   <details class="chapters"><summary>Chapters (14)</summary><ul>
     <li><span class="ch-time">00:00</span> Framing: the messiness of publishing</li>
     <li><span class="ch-time">00:59</span> Who we are: four years, SICSS Sydney 2022</li>
@@ -307,9 +264,8 @@ Recordings of selected SICSS-Melbourne 2026 sessions, with chapter markers and c
   <p class="rec-speakers"><strong>Speaker:</strong>
     <a href="https://ardc.edu.au/about-us/our-people/" target="_blank" rel="noopener noreferrer">Sonia Ramza</a> (ARDC)
   </p>
-  <p class="rec-desc">Sonia Ramza (ARDC) gives an overview of Nectar, Australia's research cloud: what it is and how it differs from HPC, how to get an allocation through the free project trial and institutional nodes, the managed services on offer (virtual desktops, Binder, Jupyter), and real research use cases — plus a live tour of the dashboard, and Q&amp;A on GPUs, ethics and data sovereignty.</p>
-  <div class="video-embed" data-youtube-id=""></div>
-  <p class="rec-resources"><a class="res-pdf" href="/2026/melbourne/guides/nectar.pdf" target="_blank" rel="noopener noreferrer">Method reference (PDF)</a></p>
+  <div class="video-embed" data-youtube-id="kq98diR9ihU"></div>
+  <p class="rec-resources"><a class="res-pdf" href="https://internetobservatory.org.au/training_materials/sicss/Nectar-Cloud_Sonia_Ramza.pdf" target="_blank" rel="noopener noreferrer">Training in PDF</a></p>
   <details class="chapters"><summary>Chapters (9)</summary><ul>
     <li><span class="ch-time">00:00</span> Introducing Nectar Cloud</li>
     <li><span class="ch-time">01:55</span> Cloud vs HPC</li>
@@ -332,9 +288,8 @@ Recordings of selected SICSS-Melbourne 2026 sessions, with chapter markers and c
   <p class="rec-speakers"><strong>Speaker:</strong>
     <a href="https://www.qut.edu.au/about/our-people/academic-profiles/e.dehghan" target="_blank" rel="noopener noreferrer">Ehsan Dehghan</a> (QUT)
   </p>
-  <p class="rec-desc">A pointed critique of CSS — that it lets method drive substance and mistakes prediction for explanation — reframed around what theory actually does. Moving through theories of phenomena, measurement and method, a case for being explicit about the commitments buried in every pipeline.</p>
-  <div class="video-embed" data-youtube-id=""></div>
-  <p class="rec-resources"><a class="res-pdf" href="/2026/melbourne/guides/css-theory.pdf" target="_blank" rel="noopener noreferrer">Method reference (PDF)</a></p>
+  <div class="video-embed" data-youtube-id="6EWjoYPVUws"></div>
+  <p class="rec-resources"><a class="res-pdf" href=https://internetobservatory.org.au/training_materials/sicss/Does_computational_social_science_lack_theory-Ehsan_Deghan.pdf" target="_blank" rel="noopener noreferrer">Training in PDF</a></p>
   <details class="chapters"><summary>Chapters (13)</summary><ul>
     <li><span class="ch-time">00:00</span> Opening: a discourse scholar&#x27;s view</li>
     <li><span class="ch-time">01:56</span> The wrong question: where theory hides</li>
@@ -358,9 +313,8 @@ Recordings of selected SICSS-Melbourne 2026 sessions, with chapter markers and c
   <p class="rec-speakers"><strong>Speaker:</strong>
     <a href="https://findanexpert.unimelb.edu.au/profile/342078-richard-sinnott" target="_blank" rel="noopener noreferrer">Richard Sinnott</a> (University of Melbourne)
   </p>
-  <p class="rec-desc">A live tour of AIReD, the Australian Internet Research Dashboard aggregating hundreds of millions of posts across BlueSky, Mastodon, YouTube, GDELT and historic Twitter/X — used as a discovery mechanism to search topics, drill into who is posting and from where, and download matching posts and IDs for deeper analysis.</p>
-  <div class="video-embed" data-youtube-id=""></div>
-  <p class="rec-resources"><a class="res-pdf" href="/2026/melbourne/guides/aired.pdf" target="_blank" rel="noopener noreferrer">Method reference (PDF)</a></p>
+  <div class="video-embed" data-youtube-id="c60zfWjio18"></div>
+  <p class="rec-resources"><a class="res-pdf" href="https://internetobservatory.org.au/training_materials/sicss/AIReD_Platform-Richard_Sinnott.pdf" target="_blank" rel="noopener noreferrer">Training in PDF</a></p>
   <details class="chapters"><summary>Chapters (12)</summary><ul>
     <li><span class="ch-time">00:00</span> A systems-builder, not a theorist</li>
     <li><span class="ch-time">05:46</span> What AIReD is: Australia-wide social media</li>
@@ -384,9 +338,8 @@ Recordings of selected SICSS-Melbourne 2026 sessions, with chapter markers and c
     <a href="https://www.admscentre.org.au/dan-tran/" target="_blank" rel="noopener noreferrer">Dan Tran</a> (AIO),
     <a href="https://www.admscentre.org.au/michael-esteban/" target="_blank" rel="noopener noreferrer">Michael Esteban</a>
   </p>
-  <p class="rec-desc">A hands-on follow-up on data download packages: their advantages and limitations (rich and longitudinal, but wholly unstandardised across platforms), and working with the AIO's own DDP viewer and lab workspace to explore and analyse donated data with participant consent throughout.</p>
-  <div class="video-embed" data-youtube-id=""></div>
-  <p class="rec-resources"><a class="res-pdf" href="/2026/melbourne/guides/ddp-workshop.pdf" target="_blank" rel="noopener noreferrer">Method reference (PDF)</a></p>
+  <div class="video-embed" data-youtube-id="PlSxReyu-v4"></div>
+  <p class="rec-resources"><a class="res-pdf" href="https://internetobservatory.org.au/training_materials/sicss/Data-Download-Packages_Dan_Michael_Kellie.pdf" target="_blank" rel="noopener noreferrer">Training in PDF</a></p>
   <details class="chapters"><summary>Chapters (11)</summary><ul>
     <li><span class="ch-time">00:00</span> Recap and the plan for today</li>
     <li><span class="ch-time">01:31</span> What a DDP is, and the GDPR right to export</li>
@@ -409,9 +362,8 @@ Recordings of selected SICSS-Melbourne 2026 sessions, with chapter markers and c
     <a href="https://findanexpert.unimelb.edu.au/profile/637022-kim-doyle" target="_blank" rel="noopener noreferrer">Kim Doyle</a>,
     <a href="https://findanexpert.unimelb.edu.au/profile/551741-daniel-russo-batterham" target="_blank" rel="noopener noreferrer">Daniel Russo-Batterham</a> (MDAP)
   </p>
-  <p class="rec-desc">How modern LLMs lower the barrier to collecting and analysing web text: LLM-powered scraping demonstrated live, scraping ethics, then sentiment and topic analysis in Colab notebooks.</p>
-  <div class="video-embed" data-youtube-id=""></div>
-  <p class="rec-resources"><a class="res-pdf" href="/2026/melbourne/guides/working-with-text.pdf" target="_blank" rel="noopener noreferrer">Method reference (PDF)</a></p>
+  <div class="video-embed" data-youtube-id="GFFlwKgLK6c"></div>
+  <p class="rec-resources"><a class="res-pdf" href="https://internetobservatory.org.au/training_materials/sicss/Working-with-Text_Kim_Doyle.pdf" target="_blank" rel="noopener noreferrer">Training in PDF</a></p>
   <details class="chapters"><summary>Chapters (11)</summary><ul>
     <li><span class="ch-time">00:00</span> Introduction</li>
     <li><span class="ch-time">02:42</span> Session goal: LLM-assisted scraping</li>
@@ -438,8 +390,8 @@ Recordings of selected SICSS-Melbourne 2026 sessions, with chapter markers and c
     <a href="https://www.qut.edu.au/about/our-people/academic-profiles/daniel.angus" target="_blank" rel="noopener noreferrer">Daniel Angus</a>
   </p>
   <p class="rec-desc">Collecting images, text and ads from participants' own screens with the AIO Mobile Screen Capture tools — privacy engineering, ethics, a hands-on app install, and the analysis pipeline. Includes the technical deep-dive and debrief.</p>
-  <div class="video-embed" data-youtube-id=""></div>
-  <p class="rec-resources"><a class="res-pdf" href="/2026/melbourne/guides/screen-capture.pdf" target="_blank" rel="noopener noreferrer">Method reference (PDF)</a></p>
+  <div class="video-embed" data-youtube-id="a7ueqTCRPVY"></div>
+  <p class="rec-resources"><a class="res-pdf" href="https://internetobservatory.org.au/training_materials/sicss/Screen-Capture-Dan_Tran_Dan_Angus.pdf" target="_blank" rel="noopener noreferrer">Training in PDF</a></p>
   <details class="chapters"><summary>Chapters (12)</summary><ul>
     <li><span class="ch-time">00:00</span> Introduction and speaker handover</li>
     <li><span class="ch-time">02:01</span> Why mobile screen capture?</li>
@@ -462,9 +414,8 @@ Recordings of selected SICSS-Melbourne 2026 sessions, with chapter markers and c
   <p class="rec-speakers"><strong>Speaker:</strong>
     <a href="https://findanexpert.unimelb.edu.au/profile/1051597-seraphine-maerz" target="_blank" rel="noopener noreferrer">Seraphine F. Maerz</a>
   </p>
-  <p class="rec-desc">A transparent, traceable five-step workflow for LLM-assisted text coding with the <a href="https://cran.r-project.org/package=quallmer" target="_blank" rel="noopener noreferrer">quallmer</a> R package: codebook → output schema → code → compare/validate across models → auto-generated replication trail.</p>
-  <div class="video-embed" data-youtube-id=""></div>
-  <p class="rec-resources"><a class="res-pdf" href="/2026/melbourne/guides/llm-pipelines.pdf" target="_blank" rel="noopener noreferrer">Method reference (PDF)</a></p>
+  <div class="video-embed" data-youtube-id="77mhChOgf6g"></div>
+  <p class="rec-resources"><a class="res-pdf" href="https://internetobservatory.org.au/training_materials/sicss/LLM-Pipelines_training-Seraphine_Maertz.pdf" target="_blank" rel="noopener noreferrer">Training in PDF</a></p>
   <details class="chapters"><summary>Chapters (14)</summary><ul>
     <li><span class="ch-time">00:00</span> Introduction</li>
     <li><span class="ch-time">01:54</span> Setup check: R, RStudio, API keys</li>
@@ -490,9 +441,8 @@ Recordings of selected SICSS-Melbourne 2026 sessions, with chapter markers and c
     <a href="https://www.admscentre.org.au/futoon-abushaqra/" target="_blank" rel="noopener noreferrer">Futoon Abushaqra</a>,
     <a href="https://www.rmit.edu.au/profiles/p/sachin-pathiyan-cherumanal2" target="_blank" rel="noopener noreferrer">Sachin Pathiyan Cherumanal</a>
   </p>
-  <p class="rec-desc">Retrieval-Augmented Generation in plain terms: how the pipeline works, when it beats a plain LLM, its failure modes, and how to decide whether it's useful for your research.</p>
-  <div class="video-embed" data-youtube-id=""></div>
-  <p class="rec-resources"><a class="res-pdf" href="/2026/melbourne/guides/rag-systems.pdf" target="_blank" rel="noopener noreferrer">Method reference (PDF)</a></p>
+  <div class="video-embed" data-youtube-id="YWRMk9sjz_s"></div>
+  <p class="rec-resources"><a class="res-pdf" href="https://internetobservatory.org.au/training_materials/sicss/RAG-Systems_Futoon_Sachin.pdf" target="_blank" rel="noopener noreferrer">Training in PDF</a></p>
   <details class="chapters"><summary>Chapters (9)</summary><ul>
     <li><span class="ch-time">00:00</span> Session goals</li>
     <li><span class="ch-time">02:30</span> The traditional research pipeline</li>
@@ -513,9 +463,8 @@ Recordings of selected SICSS-Melbourne 2026 sessions, with chapter markers and c
     <a href="https://research.qut.edu.au/dmrc/people/kunal-chand/" target="_blank" rel="noopener noreferrer">Kunal Chand</a>,
     <a href="https://www.admscentre.org.au/lauren-hayden/" target="_blank" rel="noopener noreferrer">Lauren Hayden</a>
   </p>
-  <p class="rec-desc">Large-scale image analysis with machine vision: embeddings, clustering and the Image Machine, demonstrated end-to-end on the alcohol-advertising case study.</p>
-  <div class="video-embed" data-youtube-id=""></div>
-  <p class="rec-resources"><a class="res-pdf" href="/2026/melbourne/guides/image-analysis.pdf" target="_blank" rel="noopener noreferrer">Method reference (PDF)</a></p>
+  <div class="video-embed" data-youtube-id="LX0TnTY93XI"></div>
+  <p class="rec-resources"><a class="res-pdf" href="https://internetobservatory.org.au/training_materials/sicss/Image-Analysis_Kunal_Chand_Lauren_Hayden.pdf" target="_blank" rel="noopener noreferrer">Training in PDF</a></p>
   <details class="chapters"><summary>Chapters (11)</summary><ul>
     <li><span class="ch-time">00:00</span> Kunal Chand: computational image toolkits</li>
     <li><span class="ch-time">01:14</span> The image-sorting activity</li>
@@ -543,9 +492,8 @@ Recordings of selected SICSS-Melbourne 2026 sessions, with chapter markers and c
     <a href="https://findanexpert.unimelb.edu.au/profile/1070371-hiruni-kegalle" target="_blank" rel="noopener noreferrer">Hiruni Kegalle</a>,
     <a href="https://www.rmit.edu.au/profiles/e/oliver-eklund" target="_blank" rel="noopener noreferrer">Oliver Eklund</a>
   </p>
-  <p class="rec-desc">Four researchers who crossed disciplinary boundaries on what makes collaboration work: translation across vocabularies, publishing-venue norms, co-location, and why "successful" doesn't always mean "published".</p>
-  <div class="video-embed" data-youtube-id=""></div>
-  <p class="rec-resources"><a class="res-pdf" href="/2026/melbourne/guides/cross-disciplinary.pdf" target="_blank" rel="noopener noreferrer">Method reference (PDF)</a></p>
+  <div class="video-embed" data-youtube-id="GzY5JrQtWl4"></div>
+  <p class="rec-resources"><a class="res-pdf" href="https://internetobservatory.org.au/training_materials/sicss/Cross-Disciplinary-Panel.pdf" target="_blank" rel="noopener noreferrer">Training in PDF</a></p>
   <details class="chapters"><summary>Chapters (13)</summary><ul>
     <li><span class="ch-time">00:00</span> Setting up the discussion</li>
     <li><span class="ch-time">00:35</span> Crossing disciplinary boundaries</li>
@@ -563,120 +511,14 @@ Recordings of selected SICSS-Melbourne 2026 sessions, with chapter markers and c
   </ul></details>
 </div>
 
-<!-- Industry panel — split by speaker + combined Q&A -->
-<div class="rec-card" id="industry-abc">
-  <p class="rec-meta">11:00–12:30 &nbsp;|&nbsp; Panel &nbsp;|&nbsp; <a href="/2026/melbourne/schedule#session-industry-panel">program entry</a></p>
-  <p class="rec-title">AI in the ABC Newsroom</p>
-  <p class="rec-speakers"><strong>Speakers:</strong>
-    <a href="https://www.abc.net.au/news/laura-gartry/5595204" target="_blank" rel="noopener noreferrer">Laura Gartry</a>,
-    <a href="https://www.linkedin.com/in/arielkuperman/" target="_blank" rel="noopener noreferrer">Ariel Kuperman</a>
-  </p>
-  <p class="rec-desc">Laura Gartry (journalist and RMIT PhD researcher) and Ariel Kuperman (AI specialist) from the ABC walk through a joint project bringing automation and AI into newsroom workflows — the editorial values and AI policy they work within, and the trust and accuracy challenges of applying computational methods to journalism.</p>
-  <div class="video-embed" data-youtube-id=""></div>
-  <details class="chapters"><summary>Chapters (8)</summary><ul>
-    <li><span class="ch-time">00:00</span> Introductions</li>
-    <li><span class="ch-time">02:57</span> Media change and news trust</li>
-    <li><span class="ch-time">04:41</span> AI and editorial values</li>
-    <li><span class="ch-time">06:15</span> ABC AI editorial policy</li>
-    <li><span class="ch-time">08:03</span> Regional news digital project</li>
-    <li><span class="ch-time">09:27</span> The AI-assisted workflow</li>
-    <li><span class="ch-time">12:28</span> Defining quality and evaluation</li>
-    <li><span class="ch-time">16:22</span> Automation boundaries and wrap-up</li>
-  </ul></details>
-</div>
-
-<div class="rec-card" id="industry-abs">
-  <p class="rec-meta">11:00–12:30 &nbsp;|&nbsp; Panel &nbsp;|&nbsp; <a href="/2026/melbourne/schedule#session-industry-panel">program entry</a></p>
-  <p class="rec-title">Data Science at the Australian Bureau of Statistics</p>
-  <p class="rec-speakers"><strong>Speaker:</strong>
-    <a href="https://www.linkedin.com/in/andrew-mcmahon-95461742/" target="_blank" rel="noopener noreferrer">Andrew McMahon</a> (ABS)
-  </p>
-  <p class="rec-desc">Andrew McMahon, a data scientist at the ABS, traces a public-service data career across health performance, gender equality, communities and justice, consulting and education — and how the Bureau today uses LLMs and emerging methods around the census and privacy.</p>
-  <div class="video-embed" data-youtube-id=""></div>
-  <details class="chapters"><summary>Chapters (8)</summary><ul>
-    <li><span class="ch-time">00:00</span> Introduction and early ABS career</li>
-    <li><span class="ch-time">01:58</span> National Health Performance Authority</li>
-    <li><span class="ch-time">04:37</span> Workplace Gender Equality Agency</li>
-    <li><span class="ch-time">06:14</span> Communities and Justice: evidence vs politics</li>
-    <li><span class="ch-time">08:41</span> Management consulting</li>
-    <li><span class="ch-time">10:07</span> NSW Department of Education</li>
-    <li><span class="ch-time">11:55</span> Return to the ABS</li>
-    <li><span class="ch-time">14:05</span> ABS AI, census and privacy teams</li>
-  </ul></details>
-</div>
-
-<div class="rec-card" id="industry-csiro">
-  <p class="rec-meta">11:00–12:30 &nbsp;|&nbsp; Panel &nbsp;|&nbsp; <a href="/2026/melbourne/schedule#session-industry-panel">program entry</a></p>
-  <p class="rec-title">Language Technology and Human-AI Teaming at CSIRO</p>
-  <p class="rec-speakers"><strong>Speaker:</strong>
-    <a href="https://people.csiro.au/W/S/Stephen-Wan" target="_blank" rel="noopener noreferrer">Stephen Wan</a> (CSIRO)
-  </p>
-  <p class="rec-desc">Stephen Wan (CSIRO) demonstrates SciLire, an AI tool for building scientific datasets, and discusses human-AI teaming, expert evaluation, taking research technology to market, and a pivot into the legal sector.</p>
-  <div class="video-embed" data-youtube-id=""></div>
-  <details class="chapters"><summary>Chapters (8)</summary><ul>
-    <li><span class="ch-time">00:00</span> Introduction and CSIRO language tech</li>
-    <li><span class="ch-time">01:56</span> Introducing SciLire: AI for science</li>
-    <li><span class="ch-time">05:37</span> SciLire tool demo</li>
-    <li><span class="ch-time">11:51</span> SciLire vs existing AI tools</li>
-    <li><span class="ch-time">13:28</span> Expert evaluation and user feedback</li>
-    <li><span class="ch-time">15:01</span> Taking SciLire to market</li>
-    <li><span class="ch-time">18:04</span> Pivot to the legal sector</li>
-    <li><span class="ch-time">21:40</span> Back to research and wrap-up</li>
-  </ul></details>
-</div>
-
-<div class="rec-card" id="industry-acmi">
-  <p class="rec-meta">11:00–12:30 &nbsp;|&nbsp; Panel &nbsp;|&nbsp; <a href="/2026/melbourne/schedule#session-industry-panel">program entry</a></p>
-  <p class="rec-title">Research at ACMI, the Museum of Screen Culture</p>
-  <p class="rec-speakers"><strong>Speaker:</strong>
-    <a href="https://www.admscentre.org.au/indigo-holcombe-james/" target="_blank" rel="noopener noreferrer">Indigo Holcombe-James</a> (ACMI)
-  </p>
-  <p class="rec-desc">Indigo Holcombe-James, Head of Research at ACMI (Australia's National Museum of Screen Culture), on a research path from remote-community digital inequality to studying the Game Worlds exhibition — and being the qualitative 'odd one out' among the panellists.</p>
-  <div class="video-embed" data-youtube-id=""></div>
-  <details class="chapters"><summary>Chapters (8)</summary><ul>
-    <li><span class="ch-time">00:00</span> Introduction</li>
-    <li><span class="ch-time">01:13</span> Career start: remote communities</li>
-    <li><span class="ch-time">03:40</span> Industry PhD on digital inequality</li>
-    <li><span class="ch-time">05:18</span> COVID, ADM+S and cultural institutions</li>
-    <li><span class="ch-time">06:37</span> Head of research at ACMI</li>
-    <li><span class="ch-time">08:07</span> Researching the Game Worlds exhibition</li>
-    <li><span class="ch-time">10:44</span> Findings, response and impact</li>
-    <li><span class="ch-time">12:56</span> Working with industry well</li>
-  </ul></details>
-</div>
-
-<div class="rec-card" id="industry-panel-qa">
-  <p class="rec-meta">11:00–12:30 &nbsp;|&nbsp; Panel &nbsp;|&nbsp; <a href="/2026/melbourne/schedule#session-industry-panel">program entry</a></p>
-  <p class="rec-title">Working With and In the Industry — Panel Q&amp;A</p>
-  <p class="rec-speakers"><strong>Panel:</strong>
-    <a href="https://www.abc.net.au/news/laura-gartry/5595204" target="_blank" rel="noopener noreferrer">Laura Gartry</a>,
-    <a href="https://www.linkedin.com/in/arielkuperman/" target="_blank" rel="noopener noreferrer">Ariel Kuperman</a>,
-    <a href="https://www.linkedin.com/in/andrew-mcmahon-95461742/" target="_blank" rel="noopener noreferrer">Andrew McMahon</a> (ABS),
-    <a href="https://people.csiro.au/W/S/Stephen-Wan" target="_blank" rel="noopener noreferrer">Stephen Wan</a> (CSIRO),
-    <a href="https://www.admscentre.org.au/indigo-holcombe-james/" target="_blank" rel="noopener noreferrer">Indigo Holcombe-James</a> (ACMI)
-  </p>
-  <p class="rec-desc">Audience Q&amp;A with the industry panellists from the ABC, ABS, CSIRO and ACMI — automating newsroom work, verifying and trusting AI outputs, how much human-in-the-loop, open vs proprietary models, imposter syndrome, and how to approach researchers.</p>
-  <div class="video-embed" data-youtube-id=""></div>
-  <details class="chapters"><summary>Chapters (7)</summary><ul>
-    <li><span class="ch-time">00:00</span> Q&amp;A: ABC pushback on automation</li>
-    <li><span class="ch-time">03:48</span> Q&amp;A: verifying AI outputs</li>
-    <li><span class="ch-time">07:57</span> Q&amp;A: how much human-in-the-loop</li>
-    <li><span class="ch-time">11:22</span> Q&amp;A: open vs proprietary models</li>
-    <li><span class="ch-time">14:13</span> Q&amp;A: imposter syndrome</li>
-    <li><span class="ch-time">18:22</span> Q&amp;A: approaching researchers</li>
-    <li><span class="ch-time">22:35</span> Q&amp;A: do PhD-holders respond better?</li>
-  </ul></details>
-</div>
-
 <div class="rec-card" id="career-success">
   <p class="rec-meta">13:30–15:00 &nbsp;|&nbsp; Workshop &nbsp;|&nbsp; <a href="/2026/melbourne/schedule#session-career-success">program entry</a></p>
   <p class="rec-title">Career Success</p>
   <p class="rec-speakers"><strong>Speaker:</strong>
     <a href="https://www.rmit.edu.au/profiles/t/j-trippas" target="_blank" rel="noopener noreferrer">Johanne Trippas</a>
   </p>
-  <p class="rec-desc">Strategies for HDR candidates and early-career researchers: project planning, milestone navigation, supervisor communication, and building a research profile for different career pathways in Australia.</p>
-  <div class="video-embed" data-youtube-id=""></div>
-  <p class="rec-resources"><a class="res-pdf" href="/2026/melbourne/guides/career-success.pdf" target="_blank" rel="noopener noreferrer">Method reference (PDF)</a></p>
+  <div class="video-embed" data-youtube-id="gTvsO_kvOEY"></div>
+  <p class="rec-resources"><a class="res-pdf" href="https://internetobservatory.org.au/training_materials/sicss/Career_Success-Johanne_Trippas.pdf" target="_blank" rel="noopener noreferrer">Training in PDF</a></p>
   <details class="chapters"><summary>Chapters (15)</summary><ul>
     <li><span class="ch-time">00:00</span> Introduction</li>
     <li><span class="ch-time">07:18</span> The Rascal Pyramid</li>
@@ -702,9 +544,8 @@ Recordings of selected SICSS-Melbourne 2026 sessions, with chapter markers and c
   <p class="rec-speakers"><strong>Speaker:</strong>
     <a href="https://www.qut.edu.au/about/our-people/academic-profiles/daniel.angus" target="_blank" rel="noopener noreferrer">Daniel Angus</a>
   </p>
-  <p class="rec-desc">Positioning interdisciplinary work so it resonates with funding reviewers, avoiding the gaps between disciplinary boundaries, and building a coherent funding trajectory over a career.</p>
-  <div class="video-embed" data-youtube-id=""></div>
-  <p class="rec-resources"><a class="res-pdf" href="/2026/melbourne/guides/grant-writing.pdf" target="_blank" rel="noopener noreferrer">Method reference (PDF)</a></p>
+  <div class="video-embed" data-youtube-id="3idL1MIMjk8"></div>
+  <p class="rec-resources"><a class="res-pdf" href="https://internetobservatory.org.au/training_materials/sicss/Grant-Writing_Dan_Angus.pdf" target="_blank" rel="noopener noreferrer">Training in PDF</a></p>
   <details class="chapters"><summary>Chapters (8)</summary><ul>
     <li><span class="ch-time">00:00</span> Let&#x27;s talk about money</li>
     <li><span class="ch-time">02:32</span> Grant writing as persuasive writing</li>
@@ -731,9 +572,8 @@ Recordings of selected SICSS-Melbourne 2026 sessions, with chapter markers and c
     <a href="https://research.csiro.au/cintel/our-people/research-scientists/" target="_blank" rel="noopener noreferrer">Jessica Irons</a>,
     <a href="https://people.csiro.au/W/S/Stephen-Wan" target="_blank" rel="noopener noreferrer">Stephen Wan</a> (CSIRO)
   </p>
-  <p class="rec-desc">SciLire extracts structured information from scientific literature with built-in reliability checks: template-driven extraction, validation signals, and human-in-the-loop training, demonstrated live.</p>
-  <div class="video-embed" data-youtube-id=""></div>
-  <p class="rec-resources"><a class="res-pdf" href="/2026/melbourne/guides/scilire.pdf" target="_blank" rel="noopener noreferrer">Method reference (PDF)</a></p>
+  <div class="video-embed" data-youtube-id="C6CYIQKQ2Ew"></div>
+  <p class="rec-resources"><a class="res-pdf" href="https://internetobservatory.org.au/training_materials/sicss/Knowledge-Extraction-with-SciLire.pdf" target="_blank" rel="noopener noreferrer">Training in PDF</a></p>
   <details class="chapters"><summary>Chapters (11)</summary><ul>
     <li><span class="ch-time">00:00</span> Meet the CSIRO team and today&#x27;s plan</li>
     <li><span class="ch-time">02:47</span> What is SciLire?</li>
@@ -758,9 +598,8 @@ Recordings of selected SICSS-Melbourne 2026 sessions, with chapter markers and c
   <p class="rec-speakers"><strong>Speaker:</strong>
     <a href="https://findanexpert.unimelb.edu.au/profile/551741-daniel-russo-batterham" target="_blank" rel="noopener noreferrer">Daniel Russo-Batterham</a> (MDAP)
   </p>
-  <p class="rec-desc">Querying MEI-encoded music collections in plain language: an MCP-based system that translates questions into tool calls over music21 and Verovio — computational analysis without programming.</p>
-  <div class="video-embed" data-youtube-id=""></div>
-  <p class="rec-resources"><a class="res-pdf" href="/2026/melbourne/guides/music-score-analysis.pdf" target="_blank" rel="noopener noreferrer">Method reference (PDF)</a></p>
+  <div class="video-embed" data-youtube-id="PPpEKKNbV4A"></div>
+  <p class="rec-resources"><a class="res-pdf" href="https://internetobservatory.org.au/training_materials/sicss/Music-Score-Analysis_DR-Batterham.pdf" target="_blank" rel="noopener noreferrer">Training in PDF</a></p>
   <details class="chapters"><summary>Chapters (14)</summary><ul>
     <li><span class="ch-time">00:00</span> Natural-language interfaces to tools</li>
     <li><span class="ch-time">02:27</span> Why give LLMs tools?</li>
@@ -779,28 +618,6 @@ Recordings of selected SICSS-Melbourne 2026 sessions, with chapter markers and c
   </ul></details>
 </div>
 
-<div class="rec-card" id="foundational-ethics">
-  <p class="rec-meta">15:30 &nbsp;|&nbsp; Workshop &nbsp;|&nbsp; <a href="/2026/melbourne/schedule#session-gems-slop">program entry</a></p>
-  <p class="rec-title">Foundational Ethics in CSS</p>
-  <p class="rec-speakers"><strong>Speaker:</strong>
-    <a href="https://experts.deakin.edu.au/72009-gordon-young-young" target="_blank" rel="noopener noreferrer">Gordon Young</a>
-  </p>
-  <p class="rec-desc">Four ethical frameworks — virtue ethics, deontology, consequentialism, feminist care ethics — mapped to CSS practice, closing with a provocation on how classifiers and regression mirror ethical schools.</p>
-  <div class="video-embed" data-youtube-id=""></div>
-  <p class="rec-resources"><a class="res-pdf" href="/2026/melbourne/guides/foundational-ethics.pdf" target="_blank" rel="noopener noreferrer">Method reference (PDF)</a></p>
-  <details class="chapters"><summary>Chapters (9)</summary><ul>
-    <li><span class="ch-time">00:00</span> What ethics is and isn&#x27;t</li>
-    <li><span class="ch-time">01:01</span> Virtue ethics: strong but vague</li>
-    <li><span class="ch-time">02:27</span> Deontology: rules and their limits</li>
-    <li><span class="ch-time">03:36</span> Consequentialism and utilitarianism</li>
-    <li><span class="ch-time">06:32</span> Care ethics and bias</li>
-    <li><span class="ch-time">10:43</span> Provocation: ethics as ML techniques</li>
-    <li><span class="ch-time">13:09</span> Three questions for the room</li>
-    <li><span class="ch-time">14:30</span> Open discussion</li>
-    <li><span class="ch-time">23:57</span> Governance lessons and regulation</li>
-  </ul></details>
-</div>
-
 <!-- ─── Day 8 ─── -->
 <div class="day-header"><h3>Day 8 · Wednesday 1 July</h3></div>
 
@@ -810,9 +627,8 @@ Recordings of selected SICSS-Melbourne 2026 sessions, with chapter markers and c
   <p class="rec-speakers"><strong>Speaker:</strong>
     <a href="https://internetobservatory.org.au/about/team" target="_blank" rel="noopener noreferrer">Matteo Vergani</a> (Deakin)
   </p>
-  <p class="rec-desc">A psychometric framework for trustworthy CSS measures: latent constructs, the trouble with "ground truth", and content/convergent/discriminant/predictive validity — with two lab case studies and a group exercise.</p>
-  <div class="video-embed" data-youtube-id=""></div>
-  <p class="rec-resources"><a class="res-pdf" href="/2026/melbourne/guides/validation.pdf" target="_blank" rel="noopener noreferrer">Method reference (PDF)</a></p>
+  <div class="video-embed" data-youtube-id="swtiR9wJFfE"></div>
+  <p class="rec-resources"><a class="res-pdf" href="https://internetobservatory.org.au/training_materials/sicss/Validation-in-CSS_Matteo-Vergani.pdf" target="_blank" rel="noopener noreferrer">Training in PDF</a></p>
   <details class="chapters"><summary>Chapters (12)</summary><ul>
     <li><span class="ch-time">00:00</span> Introduction and session plan</li>
     <li><span class="ch-time">02:07</span> What is a latent social construct?</li>
@@ -835,9 +651,8 @@ Recordings of selected SICSS-Melbourne 2026 sessions, with chapter markers and c
   <p class="rec-speakers"><strong>Speaker:</strong>
     <a href="https://profiles.sydney.edu.au/francesco.bailo" target="_blank" rel="noopener noreferrer">Francesco Bailo</a> (USyd)
   </p>
-  <p class="rec-desc">Organising research material as a knowledge graph: items, properties and statements, SPARQL queries, a live wikibase.cloud demo, and where linked data fits in mixed-methods projects.</p>
-  <div class="video-embed" data-youtube-id=""></div>
-  <p class="rec-resources"><a class="res-pdf" href="/2026/melbourne/guides/wikibase.pdf" target="_blank" rel="noopener noreferrer">Method reference (PDF)</a></p>
+  <div class="video-embed" data-youtube-id="VGtGZhE7e-E"></div>
+  <p class="rec-resources"><a class="res-pdf" href="https://internetobservatory.org.au/training_materials/sicss/Wikibase-for-Mixed-Methods-Francesco_Bailo.pdf" target="_blank" rel="noopener noreferrer">Training in PDF</a></p>
   <details class="chapters"><summary>Chapters (11)</summary><ul>
     <li><span class="ch-time">00:00</span> From Wikipedia to Wikidata to Wikibase</li>
     <li><span class="ch-time">02:45</span> Why Wikibase for research teams</li>
@@ -852,94 +667,6 @@ Recordings of selected SICSS-Melbourne 2026 sessions, with chapter markers and c
     <li><span class="ch-time">1:35:15</span> Ethics committees and privacy</li>
   </ul></details>
 </div>
-
-<!-- ─── Day 10 ─── -->
-<div class="day-header"><h3>Day 10 — Project Presentations &amp; Closing · Friday 3 July</h3></div>
-
-<!-- Group projects — split per team + results/closing -->
-<div class="rec-card" id="project-data-peekers">
-  <p class="rec-meta">Morning &nbsp;|&nbsp; Group Project &nbsp;|&nbsp; <a href="/2026/melbourne/schedule#session-closing">program entry</a></p>
-  <p class="rec-title">The Data Peekers — Reducing Attrition in Data Donation</p>
-  <p class="rec-speakers"><strong>Presented by:</strong> Team Data Peekers</p>
-  <p class="rec-desc">Team Data Peekers tackle attrition in data-donation research: participants who agree to donate their data download packages often never follow through, put off by confusing file formats and privacy fears. Their answer is a donation pipeline for chatbot data that lets participants explore and visualise what they are about to hand over — including LLM-generated topic, task and sensitivity tags — demonstrated on a synthetic dataset of 100 chats and 1,000 messages.</p>
-  <div class="video-embed" data-youtube-id=""></div>
-  <details class="chapters"><summary>Chapters (7)</summary><ul>
-    <li><span class="ch-time">00:00</span> The attrition problem in data download packages</li>
-    <li><span class="ch-time">01:29</span> A donation pipeline for chatbot data</li>
-    <li><span class="ch-time">01:59</span> Descriptive stats on the synthetic dataset</li>
-    <li><span class="ch-time">02:43</span> LLM tagging of topics, tasks and trends</li>
-    <li><span class="ch-time">04:12</span> Flagging potentially sensitive content</li>
-    <li><span class="ch-time">04:50</span> Next steps: selective sharing and validation</li>
-    <li><span class="ch-time">05:23</span> Q&amp;A: tag purpose, categories and local LLMs</li>
-  </ul></details>
-</div>
-
-<div class="rec-card" id="project-broke-sicss">
-  <p class="rec-meta">Morning &nbsp;|&nbsp; Group Project &nbsp;|&nbsp; <a href="/2026/melbourne/schedule#session-closing">program entry</a></p>
-  <p class="rec-title">Broke SICSS — Finding Newsworthy Moments for ABC Regional News</p>
-  <p class="rec-speakers"><strong>Presented by:</strong> Team Broke SICSS</p>
-  <p class="rec-desc">Team Broke SICSS built a prototype for the Australian Broadcasting Corporation to surface newsworthy moments buried in long-form regional programming — like three-hour breakfast radio shows — that could become standalone digital stories. Their system segments transcripts by speaking turns, scores story candidates with an LLM against a literature-derived newsworthiness codebook, and presents everything in a human-in-the-loop dashboard designed for sceptical regional editors, complete with verbatim sources and editable regional context. Winner of the SICSS Melbourne 2026 group-project award.</p>
-  <div class="video-embed" data-youtube-id=""></div>
-  <details class="chapters"><summary>Chapters (6)</summary><ul>
-    <li><span class="ch-time">00:00</span> The ABC brief: newsworthy moments for regional audiences</li>
-    <li><span class="ch-time">01:29</span> Three problems and the skeptical-editor user</li>
-    <li><span class="ch-time">02:16</span> Defining newsworthiness: four factors from the literature</li>
-    <li><span class="ch-time">03:24</span> Prototype: segmentation and LLM scoring with a codebook</li>
-    <li><span class="ch-time">04:37</span> Human-in-the-loop dashboard demo</li>
-    <li><span class="ch-time">06:31</span> Q&amp;A: editor feedback loops and fact-checking</li>
-  </ul></details>
-</div>
-
-<div class="rec-card" id="project-one-nation">
-  <p class="rec-meta">Morning &nbsp;|&nbsp; Group Project &nbsp;|&nbsp; <a href="/2026/melbourne/schedule#session-closing">program entry</a></p>
-  <p class="rec-title">Understanding One Nation — Populist Rhetoric and ABC News</p>
-  <p class="rec-speakers"><strong>Presented by:</strong> the One Nation project team</p>
-  <p class="rec-desc">This team proposed their own research project: does the populist rhetoric of Australia&#x27;s One Nation party drive ABC news coverage, or is it the other way around? Combining 1,726 web-scraped Senate speeches (2016–2026) with 15,425 ABC articles, they used topic modelling, an Entman-based framing codebook, and Granger causality tests with vector autoregression — finding, strikingly, that the strongest effect runs from media to the Senate, with politicians lagging the news by about two months.</p>
-  <div class="video-embed" data-youtube-id=""></div>
-  <details class="chapters"><summary>Chapters (6)</summary><ul>
-    <li><span class="ch-time">00:00</span> A self-proposed project: One Nation&#x27;s rhetoric vs ABC news</li>
-    <li><span class="ch-time">00:59</span> The research gap: who influences whom?</li>
-    <li><span class="ch-time">02:09</span> Data: 1,726 Senate speeches and 15,425 ABC articles</li>
-    <li><span class="ch-time">03:18</span> Entman framing codebook and intercoder reliability</li>
-    <li><span class="ch-time">05:06</span> Granger tests: media leads the Senate by two months</li>
-    <li><span class="ch-time">06:23</span> Q&amp;A: issue ownership and spurious correlation</li>
-  </ul></details>
-</div>
-
-<div class="rec-card" id="project-serious-people">
-  <p class="rec-meta">Morning &nbsp;|&nbsp; Group Project &nbsp;|&nbsp; <a href="/2026/melbourne/schedule#session-closing">program entry</a></p>
-  <p class="rec-title">Serious People — Two-Speed Newsworthiness Detection</p>
-  <p class="rec-speakers"><strong>Presented by:</strong> Team Serious People</p>
-  <p class="rec-desc">Team Serious People built two complementary computational methods for pulling newsworthy stories out of long-form radio transcripts (up to 3 hours 45 minutes) for regional editors: a fast, free semantic-chunking pipeline under 40 lines of code that runs locally in about ten minutes, and a slow but exceptionally detailed Llama-based model with a six-page prompt that produces timestamped, rated story breakdowns. Both methods caught a good story that the team&#x27;s own manual coder missed entirely.</p>
-  <div class="video-embed" data-youtube-id=""></div>
-  <details class="chapters"><summary>Chapters (7)</summary><ul>
-    <li><span class="ch-time">00:00</span> Problem statement and the two-method approach</li>
-    <li><span class="ch-time">00:54</span> Refining 18 newsworthiness criteria down to 7</li>
-    <li><span class="ch-time">01:42</span> Method 1: fast, free semantic chunking run locally</li>
-    <li><span class="ch-time">03:46</span> Method 2: a slow, high-intensity Llama pipeline</li>
-    <li><span class="ch-time">04:38</span> Validation against manual coding</li>
-    <li><span class="ch-time">05:02</span> The value case: two speeds for two editorial situations</li>
-    <li><span class="ch-time">06:24</span> Q&amp;A: longitudinal topics and score distributions</li>
-  </ul></details>
-</div>
-
-<div class="rec-card" id="project-results-closing">
-  <p class="rec-meta">Morning &nbsp;|&nbsp; Group Project &nbsp;|&nbsp; <a href="/2026/melbourne/schedule#session-closing">program entry</a></p>
-  <p class="rec-title">Group Project Results and Closing</p>
-  <p class="rec-speakers"><strong>With:</strong> SICSS Melbourne 2026 judges &amp; organisers</p>
-  <p class="rec-desc">The judges announce the SICSS Melbourne 2026 group-project placings: Broke SICSS&#x27;s ABC regional-news tool takes the win for its clear user focus, costing and implementation thinking, ahead of runner-up Data Peekers, third-placed Serious People, and the One Nation populism study in fourth — which the judges nonetheless called the project most likely to become an academic publication. Closing remarks urge every team to publish their work and flag the DESIRES prototype conference as a venue.</p>
-  <div class="video-embed" data-youtube-id=""></div>
-  <details class="chapters"><summary>Chapters (7)</summary><ul>
-    <li><span class="ch-time">00:00</span> Judges take the stage</li>
-    <li><span class="ch-time">00:17</span> Fourth place: the One Nation team, and why</li>
-    <li><span class="ch-time">03:30</span> Third place: Serious People</li>
-    <li><span class="ch-time">04:59</span> Runner-up: Data Peekers</li>
-    <li><span class="ch-time">06:31</span> Extended feedback: LLM labels and participant nudging</li>
-    <li><span class="ch-time">10:23</span> Winner: Broke SICSS</li>
-    <li><span class="ch-time">12:19</span> Closing remarks, publication and conference encouragement</li>
-  </ul></details>
-</div>
-
 <br>
 <hr>
 <br>
