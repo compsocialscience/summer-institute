@@ -213,7 +213,7 @@ Recordings of selected SICSS-Melbourne 2026 sessions, with chapter markers and c
     <a href="https://www.admscentre.org.au/kellie-vella/" target="_blank" rel="noopener noreferrer">Kellie Vella</a> (AIO),
     <a href="https://www.admscentre.org.au/lauren-hayden/" target="_blank" rel="noopener noreferrer">Lauren Hayden</a>
   </p>
-  <div class="video-embed" data-youtube-id="4Qc0PyZGtZo"></div>
+  <div class="video-embed" data-youtube-id="96EH4iA_jIk"></div>
   <p class="rec-resources"><a class="res-pdf" href="https://internetobservatory.org.au/training_materials/sicss/Data-Donations_Kellie_Vella_Lauren_Hayden.pdf" target="_blank" rel="noopener noreferrer">Training in PDF</a></p>
   <details class="chapters"><summary>Chapters (12)</summary><ul>
     <li><span class="ch-time">00:00</span> Introductions and the AIO</li>
