@@ -28,9 +28,9 @@
   events:
     - name: "[Zoom](https://ide-fgv-br.zoom.us/j/93436806463?pwd=OypTNTc5bXzsIyNW7CUvuphlpTga7e.1)"
     - name: "10:00 - 10:15 Logistics and introduction"
-    - name: "10:15 - 12:00 Workshop: Automated Text Analysis **Felipe Lamarca**"
+    - name: "10:15 - 12:00 Workshop: Automated Text Analysis **Anderson Henrique**"
     - name: "12:00 - 13:30 Break"
-    - name: "1:30 - 3:00 Workshop: Automated Text Analysis - **Felipe Lamarca**"
+    - name: "1:30 - 3:00 Workshop: Automated Text Analysis - **Anderson Henrique**"
     - name: "3:30 - 4:00 Debrief and logistics"
     - name: "4:00 - 5:00"
 
