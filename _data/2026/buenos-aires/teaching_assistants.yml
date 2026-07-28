@@ -1,5 +1,7 @@
-- name: "TA info coming soon."
+- name: "Laura Misiani"
   image: /assets/images/placeholderPic.png
-  bio: "..."
-  website: www.google.com
-# add more TAs with this format below...
+  bio: "Advanced undergraduate student in Social Anthropology (EIDAES-UNSAM). Training in computational social sciences and data science. Experience in applied research projects involving survey analysis and data analysis using R."
+
+  - name: "Roman Fernández Arias"
+  image: /assets/images/placeholderPic.png
+  bio: "Undergraduate student in Social Anthropology, School of Interdisciplinary Advanced Social Studies (Escuela IDAES), National University of San Martín, Argentina; Teaching Assistant in Introduction to Machine Learning, Data Science Program (UNSAM)."
