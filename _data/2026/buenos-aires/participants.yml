@@ -1,3 +1,107 @@
 - name: "Nicolás Elías Amado"
   image: /assets/images/bsas_2026_elias_amado.jpg
-  bio: "Nicolás Elías Amado is a Ph.D. student in Physics at the Faculty of Mathematics, Astronomy, Physics and Computing (FAMAF), National University of Córdoba, Argentina, where he also received his B.Sc. in Physics. He is a Doctoral Fellow at the National Scientific and Technical Research Council (CONICET) and a recipient of the Simons–Balseiro Exchange Program fellowship. His research focuses on statistical physics, complex systems, sociophysics, and network science, with particular emphasis on opinion dynamics, critical phenomena, and the analysis of complex networks. He has published in international peer-reviewed journals, including Physical Review E and The European Physical Journal B, and has presented his work at numerous national and international conferences."
+  bio: "Nicolás Elías Amado is a PhD candidate in Physics at the National University of Córdoba and a CONICET doctoral fellow. His research focuses on statistical physics, complex systems, sociophysics, and network science, particularly opinion dynamics and complex networks."
+
+- name: "María Valentina Riganti"
+  image: /assets/images/bsas_2026_riganti.jpg
+  bio: "María Valentina Riganti holds a PhD in Social Sciences and is a CONICET postdoctoral fellow. Her research examines prostitution systems, digital technologies, territories, and public policies from a feminist and socio-historical perspective, combining qualitative research with computational methods and data science."
+
+- name: "Adrián Contursi Reynoso"
+  image: /assets/images/bsas_2026_contursi_reynoso.jpg
+  bio: "Adrián Contursi Reynoso is a political scientist pursuing graduate studies in Data Mining and International Integration. His research focuses on democracy, social networks, polarization, disinformation, and electoral behavior in Latin America, using computational and network-based approaches."
+
+- name: "Danae Alfonsina Franco Lopera"
+  image: /assets/images/bsas_2026_Franco.png
+  bio: "Danae Alfonsina Franco Lopera is an Aeronautical Engineer and PhD candidate in Renewable Energy, with additional training in Social Anthropology and Sociology. Her research uses machine learning to study energy access, land tenure, energy poverty, and just transitions in informal settlements."
+
+- name: "Joaquín Zajac"
+  image: /assets/images/bsas_2026_zajac.jpg
+  bio: "Joaquín Zajac is a sociologist and CONICET researcher at EIDAES-UNSAM, with a PhD in Social Sciences and a Master’s in Social Anthropology. His research focuses on urban violence, security, and juvenile justice, as well as applications of computational methods and NLP in the social sciences."
+
+- name: "Santiago De Villalobos"
+  image: /assets/images/bsas_2026_de_villalobos.jpeg
+  bio: "Santiago De Villalobos is a sociologist, lecturer, and CONICET doctoral fellow at the Gino Germani Research Institute, University of Buenos Aires. His research examines social class structures and their relationship with digital inequalities."
+
+- name: "Franco Cellone"
+  image: /assets/images/bsas_2026_cellone.jpeg
+  bio: "Franco Cellone is a psychologist and PhD candidate in Semiotics at the National University of Córdoba. His research examines digital discourses on gender, sexuality, and queer identities using semiotics, NLP, social network analysis, and large-scale digital data."
+
+- name: "Candela Morales"
+  image: /assets/images/bsas_2026_morales.jpg
+  bio: "Candela Morales is a psychologist and UAI-CONICET doctoral fellow at the Sexual and Reproductive Health Research Group (GISSER). Their research examines the relationship between sexual health knowledge and self-care behaviors, integrating data science and advanced statistical methods."
+
+- name: "Marcos Buccellato"
+  image: /assets/images/bsas_2026_buccellato.jpg
+  bio: "Marcos Buccellato is an IT and software development professional with over 20 years of experience and a background in social sciences and data science. He leads R&D+i and applied research projects and is currently pursuing graduate degrees in Data Science and Sociology."
+
+- name: "Juana Rodriguez Gallo"
+  image: /assets/images/bsas_2026_gallo.jpeg
+  bio: "Juana Rodriguez Gallo is a PhD candidate in Physics at the University of Buenos Aires and a CONICET doctoral fellow. Her research studies information diffusion and opinion formation in online social networks using NLP, large language models, network science, and statistical physics."
+
+- name: "Gabriel Díaz Nanni"
+  image: /assets/images/bsas_2026_díaz_nanni.JPG
+  bio: "Gabriel Díaz Nanni is a PhD candidate in Political Science at UNSAM with training in Computational Social Sciences. His research focuses on subnational politics, political parties, political communication, and political change in Latin America, using quantitative and computational methods."
+
+- name: "Anabella Abarzúa Cutroni"
+  image: /assets/images/bsas_2026_cutroni.png
+  bio: "Anabella Abarzúa Cutroni is a political scientist, CONICET researcher, and professor of research methodology. Her work examines the epistemological and historical intersections of machine learning, statistics, and computing architectures in the development of contemporary artificial intelligence."
+
+- name: "Agustín Nielsen"
+  image: /assets/images/bsas_2026_nielsen.jpg
+  bio: "Agustín Nielsen is an advanced Sociology student at the University of Buenos Aires and a research assistant at the Gino Germani Research Institute. His work focuses on digital platforms and applies NLP techniques to the study of affective polarization in Argentina."
+
+- name: "Bautista Salvatierra"
+  image: /assets/images/bsas_2026_salvatierra.jpg
+  bio: "Bautista Salvatierra Pérez is a physicist and Data Science student at the University of Buenos Aires, as well as a Data Scientist at Rappi. His research combines NLP, topic modeling, embeddings, and statistical physics to study media bias and political polarization."
+
+- name: "Julieta Guerrisi"
+  image: /assets/images/bsas_2026_guerrisi.jpeg
+  bio: "Julieta Guerrisi is a sociologist from UNSAM and a Master’s student in the Generation and Analysis of Statistical Information at UNTREF. She conducts applied research at UNSAM on the impact of student policies, producing evidence to support institutional decision-making."
+
+- name: "Alexander Benites Alvarado"
+  image: /assets/images/bsas_2026_benites.png
+  bio: "Alexander Benites is a data scientist and political scientist with an MSc in Data Science from the University of Manchester. A researcher at Peru’s electoral authority and professor of quantitative methods, his work applies statistical modeling and machine learning to elections, democratic institutions, and information integrity."
+
+- name: "Verónica Herrero Zamora"
+  image: /assets/images/bsas_2026_herrero.jpg
+  bio: "Verónica Herrero Zamora is an economist with a PhD in Demography from the National University of Córdoba. She is a professor and research director at Universidad Siglo 21, where her work focuses on population, labor markets, education, and other social issues using quantitative methods."
+
+- name: "Bárbara Estévez Leston"
+  image: /assets/images/bsas_2026_estévez_leston.jpeg
+  bio: "Bárbara Estévez Leston is a sociologist with a PhD in Social Sciences and a Master’s in Social Research. She works at Argentina’s National Statistics Office (INDEC), teaches statistics and methodology, and researches social inequalities and neighborhood effects across the life course."
+
+- name: "Mariano García Migliore"
+  image: /assets/images/bsas_2026_garcia_migliore.jpg
+  bio: "Mariano García Migliore is a sociologist and applied data analyst working in the Buenos Aires City Ministry of Health. His work combines social research, survey design, dashboards, and data visualization using Python, R, SQL, and Power BI to support public-sector decision-making."
+
+- name: "Andrea Gomez Vargas"
+  image: /assets/images/bsas_2026_gomez_vargas.jpg
+  bio: "Andrea Gómez Vargas is a sociologist and data analyst specializing in official statistics, population studies, and open science. Her work focuses on reproducible analysis, open-source tools, and expanding access to public data through R packages and interactive applications."
+
+- name: "Felipe Ruiz"
+  image: /assets/images/bsas_2026_ruiz_bruzzone.png
+  bio: "Felipe Ruiz is a sociologist and data scientist with a PhD in Social Sciences from the Universidad de Chile. He combines academic research and public engagement with his role as CEO of Estrategia Sur, a data science consultancy focused on strategic decision-making."
+
+- name: "Maria Silvia Tomas"
+  image: /assets/images/bsas_2026_tomas.png
+  bio: "María Silvia Tomás holds a degree in Social Sciences and postgraduate training in Data Science and is completing a Master’s in Data Science. She directs social statistics at the Statistics Office of Buenos Aires Province, focusing on integrating administrative and statistical records from government sources."
+
+- name: "Lucas Klobovs"
+  image: /assets/images/bsas_2026_klobovs.png
+  bio: "Lucas Klobovs is a political consultant and public opinion researcher with over 15 years of experience in Latin America. He directs Public Opinion at QSocial and coordinates a Master’s program at UNTREF, specializing in electoral behavior, government approval, and quantitative and qualitative public opinion research."
+
+- name: "Emilio Recart Zapata"
+  image: /assets/images/bsas_2026_recart.jpg
+  bio: "Emilio Recart is a PhD candidate in Social and Cognitive Neuroscience at Adolfo Ibáñez University. His research combines machine learning, neurophysiological data, and first-person reports to study brain dynamics, subjective experience, social cognition, empathy, and altered states of consciousness."
+
+- name: "José Conrado Marcantonio"
+  image: /assets/images/bsas_2026_marcantonio.png
+  bio: "José Conrado Marcantonio is a sociologist and Master’s candidate at UNTREF who works as a Data Analyst at the Statistics Office of Buenos Aires Province. His research applies quantitative and computational methods to demographic change, migration, social inequalities, public policy, and official statistics."
+
+- name: "María de la Paz Aquino"
+  image: /assets/images/bsas_2026_aquino.jpg
+  bio: "María de la Paz Aquino is a sociologist from the University of Buenos Aires with postgraduate training in public policy evaluation, data analysis, and computational social science. Her work focuses on evaluating and monitoring educational policies and using data to support decision-making."
+
+- name: "Malena Saguier"
+  image: /assets/images/bsas_2026_saguier.jpg
+  bio: "Malena Saguier is a sociologist with graduate training in social program management and data science. She coordinates a Data Analytics team at the Buenos Aires City Ministry of Education and works on educational policy evaluation, data analysis, and visualization for evidence-informed decision-making."
