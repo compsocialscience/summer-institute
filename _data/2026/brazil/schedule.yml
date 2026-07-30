@@ -39,12 +39,11 @@
   name:  Image Analysis
   events:
     - name: "[Zoom](https://ide-fgv-br.zoom.us/j/93436806463?pwd=OypTNTc5bXzsIyNW7CUvuphlpTga7e.1)"
-    - name: "10:00 - 10:10 Logistics and introduction to group exercise"
-    - name: "10:10 - 11:10 Workshop: Image analysis techniques - **Mateus Pestana**"
-    - name: "11:10 - 11:25 Break"
-    - name: "11:25 - 12:30 Workshop: Image analysis techniques - **Mateus Pestana**"
-    - name: "12:30 - 1:00 Small group lunches (optional)"
-    - name: "1:00 - 1:30 Lunch break"
+    - name: "10:00 - 10:05 Logistics and introduction to group exercise"
+    - name: "10:05 - 11:00 Workshop: Image analysis techniques - **Matheus Pestana**"
+    - name: "11:00 - 11:15 Break"
+    - name: "11:15 - 12:30 Workshop: Image analysis techniques - **Matheus Pestana**"
+    - name: "12:30 - 1:30 Lunch break"
     - name: "1:30 - 3:30 Image Analysis Group Exercise (Small Group)"
     - name: "3:30 - 4:00 Debrief and logistics"
     - name: "4:00 - 5:00  GUEST-SPEAKER: **Elias Bitencourt**"
