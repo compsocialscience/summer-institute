@@ -23,9 +23,9 @@ subtitle: "An annual conference on digital technologies, open-mindedness, and po
 
 ## Annual Conference
 
-The TOM Annual Conference brings together leading scholars, practitioners, and emerging researchers to present cutting-edge work on digital technologies, polarization, and open-mindedness. The conference is held at Duke University and is free to attend. The confirmed date for the 2026 annual conference is **Thursday, April 2**.
+The TOM Annual Conference brings together leading scholars, practitioners, and emerging researchers to present cutting-edge work on digital technologies, polarization, and open-mindedness. The conference is held at Duke University and is free to attend. The inaugural 2026 annual conference took place on **Thursday, April 2** at Duke University.
 
-## 2026 Conference Photos
+## 2026 Conference
 
 <div id="tomPhotoCarousel" class="carousel slide mb-4" data-ride="carousel">
   <ol class="carousel-indicators">
@@ -39,10 +39,10 @@ The TOM Annual Conference brings together leading scholars, practitioners, and e
   </ol>
   <div class="carousel-inner rounded shadow">
     <div class="carousel-item active">
-      <img src="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_chris.jpg" class="d-block w-100" alt="" style="max-height:480px; object-fit:cover;">
+      <img src="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_sandra_1.jpg" class="d-block w-100" alt="" style="max-height:480px; object-fit:cover;">
     </div>
     <div class="carousel-item">
-      <img src="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_sandra_1.jpg" class="d-block w-100" alt="" style="max-height:480px; object-fit:cover;">
+      <img src="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_chris.jpg" class="d-block w-100" alt="" style="max-height:480px; object-fit:cover;">
     </div>
     <div class="carousel-item">
       <img src="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_sandra_2.jpg" class="d-block w-100" alt="" style="max-height:480px; object-fit:cover;">
@@ -72,13 +72,13 @@ The TOM Annual Conference brings together leading scholars, practitioners, and e
 
 <div class="row mb-5">
   <div class="col-6 col-sm-4 col-md-3 mb-3">
-    <a href="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_chris.jpg" target="_blank">
-      <img src="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_chris.jpg" class="img-fluid rounded shadow-sm" alt="" style="object-fit:cover; height:160px; width:100%;" loading="lazy">
+    <a href="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_sandra_1.jpg" target="_blank">
+      <img src="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_sandra_1.jpg" class="img-fluid rounded shadow-sm" alt="" style="object-fit:cover; height:160px; width:100%;" loading="lazy">
     </a>
   </div>
   <div class="col-6 col-sm-4 col-md-3 mb-3">
-    <a href="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_sandra_1.jpg" target="_blank">
-      <img src="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_sandra_1.jpg" class="img-fluid rounded shadow-sm" alt="" style="object-fit:cover; height:160px; width:100%;" loading="lazy">
+    <a href="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_chris.jpg" target="_blank">
+      <img src="{{ site.baseurl }}/assets/images/2026/TOM/TOM_2026_chris.jpg" class="img-fluid rounded shadow-sm" alt="" style="object-fit:cover; height:160px; width:100%;" loading="lazy">
     </a>
   </div>
   <div class="col-6 col-sm-4 col-md-3 mb-3">
@@ -107,79 +107,6 @@ The TOM Annual Conference brings together leading scholars, practitioners, and e
     </a>
   </div>
 </div>
-
----
-
-### Conference Schedule
-
-_Please note: The schedule is subject to change. Check back for the latest updates._
-
-<table class="table table-bordered table-hover mt-3">
-  <thead class="thead-dark">
-    <tr>
-      <th scope="col" style="width: 160px">Time</th>
-      <th scope="col">Session</th>
-      <th scope="col">Details</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- THURSDAY APRIL 2 -->
-    <tr class="table-secondary">
-      <td colspan="3"><strong>Thursday, April 2</strong></td>
-    </tr>
-    <tr>
-      <td><small>9:00 – 9:15 AM</small></td>
-      <td>Welcome &amp; Opening Remarks</td>
-      <td>Chris Bail</td>
-    </tr>
-    <tr class="table-secondary">
-      <td colspan="3"><em>Morning Session</em></td>
-    </tr>
-    <tr class="table-warning">
-      <td><small>9:15 – 10:15 AM</small></td>
-      <td><strong>🎤 Speaker 1: Sandra González-Bailón</strong></td>
-      <td>45-minute presentation + 15-minute Q&amp;A</td>
-    </tr>
-    <tr class="table-light">
-      <td><small>10:15 – 10:30 AM</small></td>
-      <td class="text-muted"><em>Break</em></td>
-      <td></td>
-    </tr>
-    <tr class="table-warning">
-      <td><small>10:30 – 11:30 AM</small></td>
-      <td><strong>🎤 Speaker 2: Akin Unver</strong></td>
-      <td>45-minute presentation + 15-minute Q&amp;A</td>
-    </tr>
-    <tr class="table-light">
-      <td><small>11:30 AM – 1:00 PM</small></td>
-      <td class="text-muted"><em>Lunch</em></td>
-      <td></td>
-    </tr>
-    <tr class="table-secondary">
-      <td colspan="3"><em>Afternoon Session</em></td>
-    </tr>
-    <tr class="table-warning">
-      <td><small>1:15 – 2:15 PM</small></td>
-      <td><strong>🎤 Speaker 3: Ceren Budak</strong></td>
-      <td>45-minute presentation + 15-minute Q&amp;A</td>
-    </tr>
-    <tr class="table-light">
-      <td><small>2:15 – 2:30 PM</small></td>
-      <td class="text-muted"><em>Break</em></td>
-      <td></td>
-    </tr>
-    <tr class="table-warning">
-      <td><small>2:30 – 3:30 PM</small></td>
-      <td><strong>🎤 Speaker 4: Kiran Garimella</strong></td>
-      <td>45-minute presentation + 15-minute Q&amp;A</td>
-    </tr>
-    <tr>
-      <td><small>3:30 PM</small></td>
-      <td>Closing Remarks</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
 
 ---
 
@@ -239,7 +166,7 @@ _Please note: The schedule is subject to change. Check back for the latest updat
 
 ---
 
-## Conference Videos
+## 2026 Conference Lecture Videos
 
 <div class="row mb-5">
 
@@ -268,6 +195,42 @@ _Please note: The schedule is subject to change. Check back for the latest updat
     <h5>Kiran Garimella</h5>
     <div class="embed-responsive embed-responsive-16by9 rounded shadow-sm">
       <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/YI170MIgPhs" allowfullscreen></iframe>
+    </div>
+  </div>
+
+</div>
+
+## Speaker Interview Videos
+
+_In addition to the conference lectures, we produced short interview videos with each of the 2026 speakers exploring their research motivations, methods, and vision for the field._
+
+<div class="row mb-5">
+
+  <div class="col-sm-6 mb-4">
+    <h5>Akin Unver</h5>
+    <div class="embed-responsive embed-responsive-16by9 rounded shadow-sm">
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/e5XjrPGbsjg" allowfullscreen></iframe>
+    </div>
+  </div>
+
+  <div class="col-sm-6 mb-4">
+    <h5>Ceren Budak</h5>
+    <div class="embed-responsive embed-responsive-16by9 rounded shadow-sm">
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/NyB6ZQ4mZAk" allowfullscreen></iframe>
+    </div>
+  </div>
+
+  <div class="col-sm-6 mb-4">
+    <h5>Kiran Garimella</h5>
+    <div class="embed-responsive embed-responsive-16by9 rounded shadow-sm">
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Mb7MBDzyMts" allowfullscreen></iframe>
+    </div>
+  </div>
+
+  <div class="col-sm-6 mb-4">
+    <h5>Sandra González-Bailón</h5>
+    <div class="embed-responsive embed-responsive-16by9 rounded shadow-sm">
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ZkImvlSRzaE" allowfullscreen></iframe>
     </div>
   </div>
 
