@@ -1,8 +1,8 @@
 ---
-title: "News Media, Framing, and Political Polarization"
+title: "The Prosocial Ranking Challenge: Infrastructure, Collaboration, and the Costs of Large-Scale CSS"
 description_seo:
 duration:
-keywords: news media, framing, polarization, computational social science, TOM, Tech for Open Minds
+keywords: prosocial ranking, research infrastructure, collaborative CSS, content moderation, toxicity, outcome construction, TOM, Tech for Open Minds
 programming_lang:
 venue: Tech for Open Minds Annual Conference
 location: Duke University
@@ -20,4 +20,4 @@ exercises:
 code:
 ---
 
-Ceren Budak (School of Information, University of Michigan) presents her research at the inaugural Tech for Open Minds (TOM) Annual Conference at Duke University on April 2, 2026. Her lecture investigates how news media framing contributes to political polarization and what computational approaches reveal about media influence on public discourse.
+Ceren Budak (School of Information, University of Michigan) presents her research at the inaugural Tech for Open Minds Annual Conference at Duke University on April 2, 2026. Her lecture examines the prosocial ranking challenge — a multi-stakeholder initiative to evaluate whether re-ranking social media content can reduce harm — and gives an honest account of what large-scale collaborative CSS research actually requires: the difficulties of outcome construction, the reliance on toxicity scores, the engineering lift of content filters, and the coordination challenges of working across institutions and platforms.

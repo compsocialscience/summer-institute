@@ -1,8 +1,8 @@
 ---
-title: "Information Operations, Disinformation, and Open Societies"
+title: "AI Fact-Checking as a Rhetorical Weapon: Evidence from Turkish Twitter"
 description_seo:
 duration:
-keywords: disinformation, information operations, social media, polarization, TOM, Tech for Open Minds
+keywords: AI fact-checking, Grok, Turkish Twitter, disinformation, rhetoric, Wikipedia, CSS global, TOM, Tech for Open Minds
 programming_lang:
 venue: Tech for Open Minds Annual Conference
 location: Duke University
@@ -20,4 +20,4 @@ exercises:
 code:
 ---
 
-Akin Unver (Ozyegin University) presents his research at the inaugural Tech for Open Minds (TOM) Annual Conference at Duke University on April 2, 2026. His lecture explores how information operations and disinformation campaigns exploit social media to undermine open societies and fuel political polarization.
+Akin Unver (Ozyegin University) presents his research at the inaugural Tech for Open Minds Annual Conference at Duke University on April 2, 2026. Analyzing behavior on Turkish Twitter, he shows that users are not deploying AI fact-checking tools like Grok to update their beliefs — they are using them as weapons in rhetorical fights. The talk walks through the methodological approach, including a notebook demonstration, and discusses what this pattern reveals about AI, democracy, and the limits of fact-checking as a remedy for misinformation.

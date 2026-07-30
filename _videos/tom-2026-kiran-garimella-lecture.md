@@ -1,8 +1,8 @@
 ---
-title: "Misinformation, WhatsApp, and the Global South"
+title: "Misinformation on WhatsApp: Fieldwork, Private Platforms, and What the Evidence Shows"
 description_seo:
 duration:
-keywords: misinformation, WhatsApp, Global South, polarization, social media, TOM, Tech for Open Minds
+keywords: misinformation, WhatsApp, India, private platforms, data collection, field research, polarization, TOM, Tech for Open Minds
 programming_lang:
 venue: Tech for Open Minds Annual Conference
 location: Duke University
@@ -20,4 +20,4 @@ exercises:
 code:
 ---
 
-Kiran Garimella (School of Communication and Information, Rutgers University) presents his research at the inaugural Tech for Open Minds (TOM) Annual Conference at Duke University on April 2, 2026. His lecture examines the spread of misinformation through encrypted messaging platforms like WhatsApp, with a focus on implications for democracies in the Global South.
+Kiran Garimella (School of Communication and Information, Rutgers University) presents his research at the inaugural Tech for Open Minds Annual Conference at Duke University on April 2, 2026. Drawing on original fieldwork in India, he discusses the methodological challenge of studying misinformation on a private, encrypted platform — including how his team built data infrastructure to collect WhatsApp content at scale — and examines what the evidence actually shows about misinformation's effects on political behavior.
