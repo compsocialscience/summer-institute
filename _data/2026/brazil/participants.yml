@@ -1,1 +1,39 @@
+- name: "Aline Veroneze" # Replace with participant name.
+  image: /assets/images/aline_sicss_26_br.png # Add participant image to assets/images/ and update here.
+  bio: "Aline Veroneze is a Ph.D. researcher in Communication Sciences at the Institute of Social Sciences of the University of Minho, Portugal. Her action research, funded by the Portuguese Foundation for Science and Technology (FCT), examines digital social mobilization and organizational communication in the context of educational advocacy. She holds a master's degree from the State University of Rio de Janeiro (UERJ) and a bachelor's degree from the Federal University of Juiz de Fora (UFJF). Her research interests include cyberculture, media agenda-setting, and advocacy communication. Before pursuing her doctoral studies, she worked in science journalism and audiovisual production, experiences that inform her interdisciplinary approach to information flows across digital platforms."  # Add participant bio here.
+ # website: https://www.google.com  # Link participant website here.
 
+- name: "Clara Thomé C. F. Ramos" # Replace with participant name.
+  image: /assets/images/clara_sicss_26_br.png # Add participant image to assets/images/ and update here.
+  bio: "Clara Thomé C. F. Ramos is a master's student in the Graduate Program in Communication at the Fluminense Federal University (PPGCOM/UFF). She is a member of coLAB/UFF and a political analyst at DAPP.Lab – ECMI/FGV. She holds a postgraduate degree in Government Communication and Political Marketing from IDP, as well as both a bachelor's degree (2020) and a teaching degree (2023) in Social Sciences from the Federal University of Rio de Janeiro (UFRJ). Her research interests include political communication and the anthropology of emotions."  # Add participant bio here.
+ # website: https://www.google.com  # Link participant website here.
+
+- name: "Daniela Guedes Locatelli" # Replace with participant name.
+  image: /assets/images/daniela_sicss_26_br.jpeg # Add participant image to assets/images/ and update here.
+  bio: "Daniela Guedes Locatelli is a Ph.D. candidate in Public Policy, Strategies, and Development at the Federal University of Rio de Janeiro (IE-PPED-UFRJ). She holds a bachelor's degree in Educational Sciences from the Universidad de la República (Udelar, 2021) and a master's degree in Education, Innovation, and Technologies from the Latin American Faculty of Social Sciences (FLACSO Uruguay, 2024). She is currently an Assistant Professor at the Universidad de la República, Uruguay, where she also contributes to the Academic Unit of the Sectoral Commission for Scientific Research (CSIC). Her research interests include science, technology, innovation, and society (STIS), as well as the academic management of scientific research funding programs."  # Add participant bio here.
+ # website: https://www.google.com  # Link participant website here.
+
+- name: "Denise Clara Santos Santana" # Replace with participant name.
+  image: /assets/images/denise_sicss_26_br.jpg # Add participant image to assets/images/ and update here.
+  bio: "Denise Clara Santos Santana is a political science researcher specializing in quantitative research methods. She uses R and Python to investigate electoral dynamics, political communication, and political behavior in the digital era, with a particular interest in political psychology and the analysis of social media data. Her research agenda combines quantitative methodologies with the study of public opinion, digital engagement, and the impact of online discourse on political and institutional processes."  # Add participant bio here.
+ # website: https://www.google.com  # Link participant website here.
+
+- name: "Maria Gisele Macedo" # Replace with participant name.
+  image: /assets/images/gisele_sicss_26_br.JPG # Add participant image to assets/images/ and update here.
+  bio: "Maria Gisele Macedo holds a Bachelor's degree in International Relations (UEPB) and a Specialization in Data Science (CIn/UFPE). She is currently a Master's student in the Graduate Program in Political Science at the Federal University of Pernambuco (PPGCP/UFPE). Her current research investigates the extent to which G20 members differ in their degree of digital sovereignty and which dimensions explain this variation, starting from the measurement of digital sovereignty and the development of a composite index. Her main research interests include cybersecurity, digital sovereignty, and artificial intelligence, combining computational methods to analyze the intersection of technology and international relations, with particular attention to the challenges faced by Global South countries."  # Add participant bio here.
+ # website: https://www.google.com  # Link participant website here.
+
+- name: "Jonatã França Bittencourt" # Replace with participant name.
+  image: /assets/images/jonata_sicss_26_br.jpeg # Add participant image to assets/images/ and update here.
+  bio: "Jonatã França Bittencourt is a Professor at the Federal Institute of Bahia (IFBA) and a Ph.D. candidate in Social Sciences at the Federal University of Bahia (UFBA). He holds a Master’s degree in Sociology from UNIVASF and a Bachelor's degree in Social Sciences from UFBA. His research lies at the intersection of Digital and Computational Sociology, focusing on public sector innovation governance and the development of AI-driven tools for document analysis and data intelligence, grounding institutional dynamics in critical and decolonial perspectives."  # Add participant bio here.
+ # website: https://www.google.com  # Link participant website here.
+
+- name: "Rafael Lamera Giesta Cabral" # Replace with participant name.
+  image: /assets/images/rafael_sicss_26_br.jpg # Add participant image to assets/images/ and update here.
+  bio: "Rafael Lamera Giesta Cabral is an Associate Professor of Legal History at the Federal Rural University of the Semi-Arid Region (UFERSA), where he is a permanent faculty member of the Graduate Program in Law (PPGD/UFERSA). He serves as Editor-in-Chief of the UFERSA Law Journal and coordinates the Observatory of Social Rights in the Semi-Arid Region (ODSS/UFERSA). His work focuses on legal history, constitutional studies, and social rights."  # Add participant bio here.
+ # website: https://www.google.com  # Link participant website here.
+
+- name: "Wagner Rodrigo Arratia Concha" # Replace with participant name.
+  image: /assets/images/wagner_sicss_26_br.jpg # Add participant image to assets/images/ and update here.
+  bio: "Wagner Rodrigo Arratia Concha holds a Ph.D. in Journalism from the Federal University of Santa Catarina (UFSC) and a master's degree in Media and Communication Science from the Technical University of Ilmenau (TU Ilmenau), Germany. His research interests focus on Communication—including organizational, political, public, and media relations—and Journalism, with an emphasis on news event coverage and media management."  # Add participant bio here.
+ # website: https://www.google.com  # Link participant website here.
