@@ -1,3 +1,8 @@
+- name: "Princess Allotey"
+  image: /assets/images/2026/stanford/participants/princess-allotey.jpg
+  bio: "Princess Allotey is a joint PhD student in Statistics & Public Policy at Carnegie Mellon University (CMU), a CMU Presidential Fellow and Heinz Dean's PhD Fellow for Social Good. Princess develops statistical methods for missing network data. She holds degrees from CMU (MSc. Statistics) and Centre College (BSc. Mathematics & Data Science)."
+  website: https://www.linkedin.com/in/princess-allotey/
+
 - name: "Carlos Guirado"
   image: /assets/images/2026/stanford/participants/carlos-guirado.jpg
   bio: "Carlos is a PhD candidate in Civil Engineering at UC Berkeley studying human dynamics in sociotechnical systems. His work combines causal inference, econometrics, and simulation to understand decision-making at scale, primarily in human mobility. He is increasingly drawn to epistemological questions about modeling: validation, generalizability, reflexivity. Before academia, Carlos consulted globally for governments and infrastructure financiers."
@@ -22,11 +27,6 @@
   image: /assets/images/2026/stanford/participants/waris-ahmad-faizi.jpg
   bio: "Waris is a Ph.D. student in Sociology at Virginia Tech, working across economic sociology, digital sociology, and computational social science. His research examines how digital platforms, algorithms, and AI reshape work, labor markets, and inequality, using computational and quantitative methods including NLP, machine learning, network analysis, and causal inference."
   website: https://warisfaizi.owlstown.net
-
-- name: "Emma Gueorguieva"
-  image: /assets/images/2026/stanford/participants/emma-gueorguieva.jpg
-  bio: "Emma Gueorguieva is a PhD student in Social and Personality Psychology at the University of Texas at Austin. Her research focuses on how language reflects psychological processes and behavior, and the ethical development of emotionally intelligent AI systems. Additionally, she is affiliated with the UT NLP Group."
-  website: https://egueorguieva.github.io/
 
 - name: "Jiahao Zhang"
   image: /assets/images/2026/stanford/participants/jiahao-zhang.jpg
