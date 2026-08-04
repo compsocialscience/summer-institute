@@ -1,54 +1,54 @@
 - name: 'Alex "Sandy" Pentland'
   website: https://profiles.stanford.edu/alex-pentland
-  image: /assets/images/2026/stanford/speakers/speakers-alex-sandy-pentland.jpg
+  image: /assets/images/2026/stanford/speakers/alex-sandy-pentland.jpg
   bio: "Alex \"Sandy\" Pentland is HAI Center Fellow and faculty lead for digital society at Stanford HAI and Digital Economy Lab, He is Toshiba Professor at MIT, member of US National Academies, Advisor to Abu Dhabi Investment Authority Lab, and formerly advisory board member at UN Secretary General's office, Google, ATT, Telefonica, and elsewhere. Spin-off companies and open source systems from his lab manage authentication of most digital transactions in the world, media for roughly 1B people in far east, and health resources for roughly 0.5B people in the indopacific. His current focus is on problems and opportunities in using AI to improve our social institutions."
 
 - name: "Riana Pfefferkorn"
   website: https://hai.stanford.edu/people/riana-pfefferkorn
-  image: /assets/images/2026/stanford/speakers/speakers-riana-pfefferkorn.jpg
+  image: /assets/images/2026/stanford/speakers/riana-pfefferkorn.jpg
   bio: "Riana Pfefferkorn is a policy fellow at Stanford HAI. A lawyer by training, Riana researches the law and policy implications of emerging technologies including AI. Her research spans topics in privacy and civil liberties, encryption policy, digital surveillance, cybersecurity, and online trust and safety. Her past work includes analyzing the legal implications and real-world impact of AI-generated child abuse material, predicting the impact of \"deepfakes\" on evidentiary proceedings in court, studying the system for reporting child exploitation online, and surveying online platforms' use of \"content-oblivious\" trust and safety techniques, among other topics. Along with her HAI colleague Dr. Jennifer King, Riana is a 2026-2027 Non-Resident Fellow at the Center for Democracy and Technology."
 
 - name: "Jennifer Pan"
   website: https://jenpan.com/
-  image: /assets/images/2026/stanford/speakers/speakers-jennifer-pan.jpg
+  image: /assets/images/2026/stanford/speakers/jennifer-pan.jpg
   bio: "Jennifer Pan is the Sir Robert Ho Tung Professor of Chinese Studies and Professor of Communication at Stanford University, where she also serves as Senior Fellow at the Freeman Spogli Institute for International Studies. Her research examines political communication, digital media, and authoritarian politics, using experimental and computational methods to investigate how censorship, propaganda, and information control operate in the digital age."
 
 - name: "Yiqing Xu"
   website: https://yiqingxu.org/
-  image: /assets/images/2026/stanford/speakers/speakers-yiqing-xu.jpg
+  image: /assets/images/2026/stanford/speakers/yiqing-xu.jpg
   bio: "Yiqing Xu is an Associate Professor in the Department of Political Science at Stanford University, and a faculty affiliate at the Stanford Causal Science Center and the Center on China's Economy and Institutions. He received his B.A. in Economics from Fudan University, M.A. in Economics from Peking University, and Ph.D. in Political Science from the Massachusetts Institute of Technology. His primary research areas are causal inference and comparative politics. In recent years, his work has focused on developing and applying causal inference methods for panel data. Professor Xu has received multiple professional awards. In 2024, he was named the Society's Emerging Scholar, an honor recognizing exceptional contributions within ten years of receiving the Ph.D."
 
 - name: "Ozgur Can Seckin"
   website: https://www.ozgurcanseckin.com/
-  image: /assets/images/2026/stanford/speakers/speakers-ozgur-can-seckin.jpg
+  image: /assets/images/2026/stanford/speakers/ozgur-can-seckin.jpg
   bio: "Ozgur Can Seckin is a Senior Machine Learning Engineer at Bluesky and an Informatics Ph.D. candidate at Indiana University Bloomington. His research combines computational social science, network science, and artificial intelligence to understand affective polarization. He models how polarization emerges through belief networks, studies how online environments amplify it, and explores how recommender systems and generative AI can reduce its effects. During his doctoral studies, he worked as a Machine Learning Engineer at Plaid and Glassdoor. He holds an M.S. in Data Science from Sabancı University and a B.S. in Economics from Galatasaray University and Université Paris I: Panthéon-Sorbonne."
 
 - name: "Yingdan Lu"
   website: https://yingdanlu.com/
-  image: /assets/images/2026/stanford/speakers/speakers-yingdan-lu.jpg
+  image: /assets/images/2026/stanford/speakers/yingdan-lu.jpg
   bio: "Yingdan Lu is an Assistant Professor in the Department of Communication Studies at Northwestern University. She is the director of the Computational Media and Politics Lab, and the co-director of the Computational Multimodal Communication Lab. Her research focuses on digital technology, political communication, and information manipulation, using and developing computational methods to understand the evolution and engagement of digital propaganda and multimodal communication in AI-mediated environments. Her work has appeared in peer-reviewed journals and conference proceedings, such as Proceedings of the National Academy of Sciences (PNAS), American Journal of Political Science, Journal of Communication, Political Communication, and Human-Computer Interaction. She received her Ph.D. in Communication and a Ph.D. minor in Political Science from Stanford University."
 
 - name: "Serina Chang"
   website: https://serinachang5.github.io/
-  image: /assets/images/2026/stanford/speakers/speakers-serina-chang.jpg
+  image: /assets/images/2026/stanford/speakers/serina-chang.jpg
   bio: "Serina Chang is an Assistant Professor at UC Berkeley, jointly appointed in EECS and Computational Precision Health and part of the Berkeley AI Research Lab (BAIR). Previously, she completed her PhD in CS at Stanford University and a postdoc at Microsoft Research in the Computational Social Science group. Her research falls at the intersection of AI and human behavior, including human-AI interaction, simulating human behaviors with AI, and developing AI tools for societal decision-making. Her work is recognized by Forbes 30 under 30, the ACM SIGKDD Dissertation Award, KDD Best Paper Award, Google Research Scholar Award, EECS Rising Stars, and Rising Stars in Data Science, and has received coverage from over 650 news outlets, including The New York Times and The Washington Post."
 
 - name: "Tijana Zrnic"
   website: https://tijana-zrnic.github.io
-  image: /assets/images/2026/stanford/speakers/speakers-tijana-zrnic.jpg
+  image: /assets/images/2026/stanford/speakers/tijana-zrnic.jpg
   bio: "Tijana Zrnic is an Assistant Professor at Stanford University, jointly appointed in Statistics, Management Science & Engineering, and, by courtesy, Computer Science. She is also a Member of Technical Staff at Arena. Her work develops foundations for reliable, valid, and trustworthy data-driven conclusions, especially in contexts involving AI. Previously she was a Ram and Vijay Shriram Postdoctoral Fellow at Stanford University, affiliated with Stanford Data Science, and a PhD student in Electrical Engineering and Computer Sciences at UC Berkeley."
 
 - name: "Elise Leyan Han"
   website: https://www.linkedin.com/in/elise-han-508021206/
-  image: /assets/images/2026/stanford/speakers/speakers-elise-leyan-han.jpg
+  image: /assets/images/2026/stanford/speakers/elise-leyan-han.jpg
   bio: "Elise (Leyan) Han is a first-year CS PhD student at Stanford. She is interested in the intersection of machine learning and statistics, especially in ensuring the reliability and safety of modern AI systems. Previously, she was an undergraduate student at Columbia University."
 
 - name: "Luca Luceri"
   website: https://signals-lab.vercel.app/
-  image: /assets/images/2026/stanford/speakers/speakers-luca-luceri.jpg
+  image: /assets/images/2026/stanford/speakers/luca-luceri.jpg
   bio: "Luca Luceri is a Research Assistant Professor at the University of Southern California (USC) and Lead Scientist at the USC Information Sciences Institute (ISI), where he directs the SIGNALS Lab. His research sits at the intersection of machine learning, network science, and computational social science, with a focus on understanding and mitigating emergent harmful behaviors in complex socio-technical and AI-driven systems. Luceri's work advances the safety and resilience of AI-mediated information environments, including the development of detection and measurement frameworks for coordinated inauthentic behavior, influence operations, and the spread of harmful content across human and AI agent networks. His long-term research agenda centers on building the scientific foundations for trustworthy, accountable AI systems, including governance-relevant measurement tools that bridge technical findings and policy. Luceri is PI on DARPA and AFRL projects, and mentors 7 PhD students and 6 master's and undergraduate researchers at the SIGNALS Lab."
 
 - name: "Caleb Ziems"
   website: https://calebziems.com/
-  image: /assets/images/2026/stanford/speakers/speakers-caleb-ziems.jpg
+  image: /assets/images/2026/stanford/speakers/caleb-ziems.jpg
   bio: "Caleb is a PhD student in the NLP Group at Stanford University, where he is advised by Prof. Diyi Yang. Caleb is interested in evaluating the social intelligence and cultural competence of Large Language Models, especially for applications in the social sciences. Previously, he obtained an M.S. from Georgia Tech and a B.S. from Emory University, and he has spent some of his summers interning at Meta AI Applied Research."
