@@ -52,3 +52,8 @@
   website: https://calebziems.com/
   image: /assets/images/2026/stanford/speakers/caleb-ziems.jpg
   bio: "Caleb is a PhD student in the NLP Group at Stanford University, where he is advised by Prof. Diyi Yang. Caleb is interested in evaluating the social intelligence and cultural competence of Large Language Models, especially for applications in the social sciences. Previously, he obtained an M.S. from Georgia Tech and a B.S. from Emory University, and he has spent some of his summers interning at Meta AI Applied Research."
+
+- name: "Myra Cheng"
+  website: https://myracheng.github.io/
+  image: /assets/images/2026/stanford/speakers/myra-cheng.jpg
+  bio: "Myra Cheng is a PhD candidate in computer science at Stanford. Her research interest is in building language technologies that promote human agency and wellbeing. She develops large-scale computational methods for understanding and improving human-AI interaction and the societal impacts of AI. Her work on measuring AI sycophancy and its impacts was featured on the cover of Science. Her research has been published in Nature, Science, and top computer science venues (ICLR, ACL, EMNLP, FAccT), won awards including the ACL Best Social Impact Paper Award, and received widespread media coverage. She is a Knight-Hennessy Scholar and NSF Graduate Research Fellow."
