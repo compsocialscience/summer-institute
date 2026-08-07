@@ -1,4 +1,9 @@
-- name: "Speaker info coming soon." # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " ... " # add speaker bio here
-  website: https://www.google.com # update speaker personal link here
+- name: María José Afanador Llach 
+  image: /assets/images/2026/uruguay/mariajoseafanador.jpg   
+  bio: María José Afanador Llach is a historian and digital humanist. She holds a PhD in History from the University of Texas at Austin and is Associate Professor at Universidad de los Andes (Colombia), where she directs the Department of Digital Narratives and previously coordinated the first Digital Humanities MA program in Latin America. Her research bridges colonial and nineteenth-century history of northern South America with digital methods, including data curation, cartographic narratives, and digital archives. She was an editor of The Programming Historian in Spanish between 2016 and 2025. 
+  website: https://artehum.uniandes.edu.co/profesores/maria-jose-afanador-llach/
+  
+- name: Agustín Nieto 
+  image: /assets/images/2026/uruguay/agustinnieto.jpg  
+  bio: Agustín Nieto holds a PhD in History and is a researcher at Argentina's National Scientific and Technical Research Council (CONICET). He co-directs the Maritime Social Studies Group (GESMar) at the Faculty of Humanities of the National University of Mar del Plata, where he has taught Social Structure and Change in the Sociology program since 2008. His research examines the working and living conditions, struggles, and organization of port and fishing workers from the late nineteenth century to the present. He is the author of Entre anarquistas y peronistas. Historias obreras a ras del suelo.
+  website: https://orcid.org/0000-0003-4467-873X  
