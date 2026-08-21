@@ -7,4 +7,11 @@
 - name: Schedule & Materials
   url: "schedule"
 
+# Note for Organizers: The Post Mortem link below is active by default. If your event has not yet concluded
+# and you prefer to hide this sidebar link until your report is ready, you can comment out the 3 lines below (add # at the start of each line).
+# For instructions, see: https://github.com/compsocialscience/summer-institute/blob/master/documentation/adding-post-mortems.md
+- name: "Post Mortem"
+  url: "post-mortem"
+  link: '#[[NAME]]'
+
 # You can add more pages to your site page by adding them here, and creating the corresponsing yml and markdown necessary.

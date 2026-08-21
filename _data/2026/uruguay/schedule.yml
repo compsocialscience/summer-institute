@@ -1,5 +1,44 @@
-- date: "TBD, 2026"
-  events:
-    - name: "Schedule coming soon. Check back for updates!" # Update this line or add markdown for your site's schedule.
+- date: "Sala Luisa Cuesta (L5) - Facultad de Ciencias Sociales, Universidad de la República."
 
-  # Our tentative schedule can be seen [here](www.google.com). Our program focuses on ... . We will invite guest speakers to provide an overview of ..."
+- date: Jueves Octubre 29, 2026
+  name: "Día 1: Apertura y paneles temáticos"
+  events:
+    - name: "10:00 - 12:00 Mesa de apertura: De archivos a datos: promesas y límites del procesamiento computacional de fuentes históricas"
+    - name: "13:00 - 16:00 Panel temático I: Experiencias aplicadas de procesamiento computacional de archivos en América Latina"
+    - name: "16:00 - 17:00 Corte"
+    - name: "17:00 - 19:00 Panel temático II: Experiencias aplicadas de procesamiento computacional de archivos en América Latina"
+
+- date: Viernes Octubre 30, 2026
+  name: "Día 2: Taller hands-on"
+  events:
+    - name: "10:00 - 13:00 Taller hands-on"
+    - name: "13:00 - 14:00 Corte almuerzo"
+    - name: "14:00 - 16:00 Taller hands-on"
+
+- date: Martes Noviembre 3, 2026
+  name: "Día 3: Taller hands-on"
+  events:
+    - name: "10:00 - 13:00 Taller hands-on"
+    - name: "13:00 - 14:00 Corte almuerzo"
+    - name: "14:00 - 16:00 Taller hands-on"
+
+- date: Miércoles Noviembre 4, 2026
+  name: "Día 4: Taller hands-on"
+  events:
+    - name: "10:00 - 13:00 Taller hands-on"
+    - name: "13:00 - 14:00 Corte almuerzo"
+    - name: "14:00 - 16:00 Taller hands-on"
+
+- date: Jueves Noviembre 5, 2026
+  name: "Día 5: Taller hands-on"
+  events:
+    - name: "10:00 - 13:00 Taller hands-on"
+    - name: "13:00 - 14:00 Corte almuerzo"
+    - name: "14:00 - 16:00 Taller hands-on"
+    
+- date: Viernes Noviembre 6, 2026
+  name: "Día 5: Taller hands-on"
+  events:
+    - name: "10:00 - 13:00 Presentación resultados"
+    - name: "13:00 - 14:00 Corte almuerzo"
+    - name: "14:00 - 16:00 Cierre SICSS 2026"
