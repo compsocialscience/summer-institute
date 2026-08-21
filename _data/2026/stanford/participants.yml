@@ -1,3 +1,18 @@
+- name: "Geyi Wang"
+  image: /assets/images/2026/stanford/participants/geyi-wang.jpg
+  bio: "Geyi is a postdoctoral researcher in the Institute for Nicotine & Tobacco Studies at Rutgers. She specializes in health communication, information processing, and media effects, with a focus on how communication processes influence mental health, decision-making, and behaviors."
+  website:
+
+- name: "Min Ge"
+  image: /assets/images/2026/stanford/participants/min-ge.jpg
+  bio: "Min Ge is a Ph.D. student in Interdisciplinary Design and Media at Northeastern University. Her research uses computational methods and quantitative evaluation to design prosocial AI systems that support mental well-being, promote AI literacy, and create healthier digital spaces through more responsible human–AI interaction."
+  website:
+
+- name: "Marie Wako"
+  image: /assets/images/2026/stanford/participants/marie-wako.jpg
+  bio: "Marie Wako is a JSD candidate at Stanford Law School whose research examines how race and gender shape criminal law and legal institutions in the United States and Japan. Her work combines empirical legal studies, computational text analysis, criminal law, and comparative law. Her project, Racialized Language in Criminal Courtrooms, uses NLP to analyze approximately 400 California trial transcripts, examining how courtroom actors frame defendants and how those patterns may inform claims under the California Racial Justice Act. Marie holds an LL.M. from Stanford and a J.D. and LL.B. from the University of Tokyo and is a licensed attorney in Japan and New York."
+  website: https://law.stanford.edu/marie-wako/
+
 - name: "Princess Allotey"
   image: /assets/images/2026/stanford/participants/princess-allotey.jpg
   bio: "Princess Allotey is a joint PhD student in Statistics & Public Policy at Carnegie Mellon University (CMU), a CMU Presidential Fellow and Heinz Dean's PhD Fellow for Social Good. Princess develops statistical methods for missing network data. She holds degrees from CMU (MSc. Statistics) and Centre College (BSc. Mathematics & Data Science)."
