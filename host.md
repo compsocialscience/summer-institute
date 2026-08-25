@@ -47,14 +47,14 @@ For a much more detailed description of the process of hosting a partner locatio
 <a name="call-for-applications-2027"></a>
 In 2027, partner locations will continue the SICSS tradition of combining lectures and group exercises with collaborative, participant-led research projects. Most sites run for two weeks, though shorter or longer formats are possible. Organizers may use our open-source teaching materials, adapt them, or develop new content to meet the needs of their audience.
 
-**Tech for Open Minds (TOM) sites will return in 2027 as the primary vehicle for SICSS program funding.** TOM is a multi-year initiative focused on how digital technologies influence open-mindedness, humility, and polarization. Locations seeking TOM funding must demonstrate in their application how their proposed program will contribute to TOM’s mission through curricular focus and research incubation.
+**Tech for Open Minds (TOM) sites will return in 2027 as a primary pathway to secure SICSS program funding.** TOM is a multi-year initiative focused on how digital technologies influence open-mindedness, humility, and polarization. Locations seeking TOM funding must demonstrate in their application how their proposed program will contribute to TOM’s mission through curricular focus and research incubation.
 
 At the same time, **partner locations are welcome to self-fund once again.** We encourage organizers with access to host institution support, departmental grants, or regional partnerships to apply to host a self-funded partner location.
 
 <!-- Note: Check if NSF funding applies for the 2027 season -->
 
 #### Funding and Budgeting
-In our experience, the minimum budget to support an in-person partner location is about $11,000 USD, though this varies by location and scope. Virtual events can be run at lower cost. While TOM-aligned proposals serve as the primary avenue for centralized SICSS grant funding, self-funded locations receive full access to SICSS open-source teaching materials, organizational mentorship, and integration into the global SICSS network.
+In our experience, the minimum budget to support an in-person partner location is about $11,000 USD, though this varies by location and scope. Virtual events can be run at lower cost. While most SICSS partner locations are self-funded through host institutions or partnerships, TOM-aligned proposals may be eligible for support.
 
 #### Application Process
 Applications to host a SICSS partner location in 2027 will open in mid-November and are due by December 1, 2026, 5pm US Eastern Time. 
@@ -64,16 +64,11 @@ Locations applying for TOM funding must explain:
 - The specific curricular, research, or outreach activities planned.
 - How your team will ensure accessibility and diversity in participation.
 
-Self-funded locations should describe:
-- The proposed curriculum and target participant audience.
-- The source of funding and institutional support.
-- How the location will adhere to SICSS principles (free tuition for participants and open-source materials).
-
 All SICSS partner locations must have at least one organizer who is a SICSS alum and at least one faculty member or senior employee at a sponsoring institution. We also ask all organizers to review the SICSS Handbook for Organizers and commit to our guiding principles, including keeping training free for participants and releasing all original materials open source.
 
 ### How to Apply
 
-**Applications to host a partner site in 2027 are due on December 1st (2026) by 5pm U.S. E.S.T. Please send completed applications to `rsfcompsocsci@gmail.com`. [Click here to access the application template.](https://docs.google.com/document/d/1bXk8POT5iOqrVgErOtwu0ovHhQuQ_CA2f4sutdp5GgE/edit?usp=sharing)**
+**Applications to host a partner site in 2027 are due on December 1st (2026) by 5pm U.S. E.S.T. Please send completed applications to `rsfcompsocsci@gmail.com`. [Click here to access the application template.](https://docs.google.com/document/d/1dcJG50fSdGZBsOiAOxTlp0rz1vApr2Mf5AzZVdjQj7U/edit?usp=sharing)**
 
 ### Frequently Asked Questions
 
