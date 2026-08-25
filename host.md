@@ -11,8 +11,8 @@ sidebar:
     url: "#mission-and-guiding-principles"
   - name: Handbook for Organizers
     url: "#handbook-for-organizers"
-  - name: "Call for Applications 2026"
-    url: "#call-for-applications-2026"
+  - name: "Call for Applications 2027"
+    url: "#call-for-applications-2027"
   - name: How to Apply
     url: "#how-to-apply"
   - name: Frequently Asked Questions
@@ -43,28 +43,37 @@ As we work toward this mission, we are guided by the following principles:
 
 For a much more detailed description of the process of hosting a partner location, please consult our [Handbook for Organizers](https://docs.google.com/document/d/1InRTZJPbh9P1Qnc1VBB7UxDflXaxNqhEygBnO7yGBoQ/edit?usp=sharing)
 
-## Call for Partner Locations in 2026
-<a name="call-for-applications-2026"></a>
-In 2026, partner locations will continue the SICSS tradition of combining lectures and group exercises with collaborative, participant-led research projects. Most sites run for two weeks, though shorter or longer formats are possible. Organizers may use our open-source teaching materials, adapt them, or develop new content to meet the needs of their audience.
+## Call for Partner Locations in 2027
+<a name="call-for-applications-2027"></a>
+In 2027, partner locations will continue the SICSS tradition of combining lectures and group exercises with collaborative, participant-led research projects. Most sites run for two weeks, though shorter or longer formats are possible. Organizers may use our open-source teaching materials, adapt them, or develop new content to meet the needs of their audience.
 
-A major update for 2026: **the new [Tech for Open Minds (TOM) initiative](https://sicss.io/stories/2025-08-18) will be one pathway to secure SICSS funding this year.** TOM is a multi-year initiative focused on how digital technologies influence open-mindedness, humility, and polarization. Locations seeking TOM funding must demonstrate in their application how their proposed program will contribute to TOM’s mission through curricular focus and research incubation.
+**Tech for Open Minds (TOM) sites will return in 2027 as the primary vehicle for SICSS program funding.** TOM is a multi-year initiative focused on how digital technologies influence open-mindedness, humility, and polarization. Locations seeking TOM funding must demonstrate in their application how their proposed program will contribute to TOM’s mission through curricular focus and research incubation.
+
+At the same time, **partner locations are welcome to self-fund once again.** We encourage organizers with access to host institution support, departmental grants, or regional partnerships to apply to host a self-funded partner location.
+
+<!-- Note: Check if NSF funding applies for the 2027 season -->
 
 #### Funding and Budgeting
-In our experience, the minimum budget to support an in-person partner location is about $11,000 USD, though this varies by location and scope. Virtual events can be run at lower cost. While most SICSS partner locations are self-funded through host institutions or partnerships, TOM-aligned proposals may be eligible for support.
+In our experience, the minimum budget to support an in-person partner location is about $11,000 USD, though this varies by location and scope. Virtual events can be run at lower cost. While TOM-aligned proposals serve as the primary avenue for centralized SICSS grant funding, self-funded locations receive full access to SICSS open-source teaching materials, organizational mentorship, and integration into the global SICSS network.
 
 #### Application Process
-Applications to host a SICSS partner location in 2026 will open in mid-November and are due by December 1, 2025, 5pm US Eastern Time. 
+Applications to host a SICSS partner location in 2027 will open in mid-November and are due by December 1, 2026, 5pm US Eastern Time. 
 
 Locations applying for TOM funding must explain:
 - How your program will advance the TOM mission.
 - The specific curricular, research, or outreach activities planned.
 - How your team will ensure accessibility and diversity in participation.
 
+Self-funded locations should describe:
+- The proposed curriculum and target participant audience.
+- The source of funding and institutional support.
+- How the location will adhere to SICSS principles (free tuition for participants and open-source materials).
+
 All SICSS partner locations must have at least one organizer who is a SICSS alum and at least one faculty member or senior employee at a sponsoring institution. We also ask all organizers to review the SICSS Handbook for Organizers and commit to our guiding principles, including keeping training free for participants and releasing all original materials open source.
 
 ### How to Apply
 
-**Applications to host a partner site in 2026 are due on December 1st (2025) by 5pm U.S. E.S.T. Please send completed applications to `rsfcompsocsci@gmail.com`. [Click here to access the application template.](https://docs.google.com/document/d/1bXk8POT5iOqrVgErOtwu0ovHhQuQ_CA2f4sutdp5GgE/edit?usp=sharing)**
+**Applications to host a partner site in 2027 are due on December 1st (2026) by 5pm U.S. E.S.T. Please send completed applications to `rsfcompsocsci@gmail.com`. [Click here to access the application template.](https://docs.google.com/document/d/1bXk8POT5iOqrVgErOtwu0ovHhQuQ_CA2f4sutdp5GgE/edit?usp=sharing)**
 
 ### Frequently Asked Questions
 

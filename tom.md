@@ -16,6 +16,7 @@ subtitle: "An annual conference on digital technologies, open-mindedness, and po
       TOM expands on the 2024–2025 initiative supported by the Templeton World Charity Foundation, which brought together researchers at 11 international sites to explore these urgent questions. Those institutes produced new lectures, datasets, and collaborations on topics ranging from social media influence campaigns in Nigeria to climate change debates in Brazil. In the coming years, TOM will host a collection of in-person training events each year, bring leading voices to an annual conference, and develop high-quality educational materials for use around the world.
     </p>
     <a href="{{ site.baseurl }}/stories/2025-08-18" class="btn btn-dark btn-sm">Read the Announcement</a>
+    <a href="{{ site.baseurl }}/host#call-for-applications-2027" class="btn btn-primary btn-sm ml-2">Apply to Host a 2027 TOM Site</a>
   </div>
 </div>
 
@@ -402,4 +403,4 @@ The following sites received TOM funding for the 2026 cycle. Each location contr
 
 ---
 
-_Questions about the TOM conference or partnership opportunities? Contact us at [rsfcompsocsci@gmail.com](mailto:rsfcompsocsci@gmail.com)._
+_Interested in organizing a TOM location in 2027? Visit the [Host a Partner Location]({{ site.baseurl }}/host#call-for-applications-2027) page. Questions about the TOM conference or partnership opportunities? Contact us at [rsfcompsocsci@gmail.com](mailto:rsfcompsocsci@gmail.com)._
