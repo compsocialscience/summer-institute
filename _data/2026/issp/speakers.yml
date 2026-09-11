@@ -1,4 +1,14 @@
-- name: "Speaker info coming soon." # Speaker name goes here.
-  image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  bio: " ... " # add speaker bio here
-  website: https://www.google.com # update speaker personal link here
+- name: Ata Franck AKOUETE
+  image: /assets/images/Photo_Franck.png
+  bio: "<p align='justify'> <a href='https://www.linkedin.com/in/franck-akouete-aa6b19158/' target='_blank'>Ata Franck AKOUETE</a> est spécialiste SIG et des données ouvertes. Il est l'Administrateur du Géoportail de la République Togolaise et responsable du service Geo Intelligence au TOGO AI LAB, initiative du Ministère de l'Efficacité du Service Public et de la Transformation Numérique (MESPTN), où il travaille sur l'exploitation des données géospatiales au service de la planification et de la prise de décision publique.<br>Passionné par l'open data, il a porté plusieurs initiatives au Togo et en Afrique combinant cartographie, données ouvertes et aide à la décision, notamment à travers le projet OpenStreetMap. Il est également cofondateur de la communauté Wikimedia au Togo depuis 2020 et contribue activement à la promotion des communs numériques et des données ouvertes.</p>"
+  website: https://www.linkedin.com/in/franck-akouete-aa6b19158/
+
+- name: Emmanuelle Guébo Kakou
+  image: /assets/images/photo_Manouka.jpeg
+  bio: "<p align='justify'> <a href='https://www.linkedin.com/in/emmanuelle-guebo-kakou-aa1171239' target='_blank'>Emmanuelle Guébo Kakou</a> est une ivoirienne passionnée par la diffusion des savoirs libres. Directrice de Wikimedia Côte d'Ivoire, elle est engagée depuis plusieurs années dans les domaines de la connaissance ouverte et la valorisation des données à travers les projets Wikimedia dont le plus connu est Wikipédia. Elle est de même impliquée dans la promotion de l'intégrité de l'information en Côte d'Ivoire.<br>Emmanuelle est une figure féminine connue pour ce qui est de la diffusion des savoirs libres dans le mouvement Wikimedia en général et en Afrique francophone en particulier.</p>"
+  website: https://www.linkedin.com/in/emmanuelle-guebo-kakou-aa1171239
+
+- name: Bastian Greshake Tzovaras (Wiki in Africa)
+  image: /assets/images/Bastian Photo.jpg
+  bio: "<p align='justify'> <a href='https://https://tzovar.as/' target='_blank'>Bastian</a> (he/him) is an interdisciplinary researcher working on the theory and practice of co-created participatory science and peer production. His work intersects with open source/science technologies and how they can be in service of individuals & communities that want to engage in knowledge production, bringing together applied and theoretical methods from computer/data science, human-computer-interaction and critical science & technology studies.<br>Bastian’s prior academic postings include being a senior researcher at the Alan Turing Institute in London and being the team-lead of the Peer-Produced Research Lab as part of an INSERM unit at Université Paris Cité. His academic journey started in biology/bioinformatics, with a PhD on how symbiotic relationships influence genomic evolution.<br>In the realm of participatory science, he was the co-founder and lead of openSNP, a crowdsourced/citizen science open data project that ran between 2011-2025. Since 2017, he also acts as the Director of Research for Open Humans – a non-profit that provides digital & social infrastructures for individual & community-driven citizen science and self-research.</p>"
+  website: https://tzovar.as/
