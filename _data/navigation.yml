@@ -18,6 +18,8 @@
   items:
     - name: About SICSS
       url: "/about"
+    - name: Tech for Open Minds
+      url: "/tom"
     - name: Post-Mortem
       url: "/post-mortem"
     - name: Sponsor SICSS
