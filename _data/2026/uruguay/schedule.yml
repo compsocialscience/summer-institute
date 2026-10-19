@@ -1,44 +1,53 @@
 - date: "Sala Luisa Cuesta (L5) - Facultad de Ciencias Sociales, Universidad de la República."
 
 - date: Jueves Octubre 29, 2026
-  name: "Día 1: Apertura y paneles temáticos"
+  name: "Día 1: Apertura y panel temático (jornada abierta al público)"
   events:
-    - name: "10:00 - 12:00 Mesa de apertura: De archivos a datos: promesas y límites del procesamiento computacional de fuentes históricas"
-    - name: "13:00 - 16:00 Panel temático I: Experiencias aplicadas de procesamiento computacional de archivos en América Latina"
-    - name: "16:00 - 17:00 Corte"
-    - name: "17:00 - 19:00 Panel temático II: Experiencias aplicadas de procesamiento computacional de archivos en América Latina"
+    - name: "10:00 - 12:00 Mesa de apertura: De archivos a datos: promesas y límites del procesamiento computacional de fuentes documentales. Fernando Filgueira (UMAD); María José Afanador Llach (Uniandes, Colombia); Virginia Bertolotti (FIC, Udelar); Matias Borba (FHCE, Udelar)"
+    - name: "14:00 - 19:00 Panel temático: Experiencias aplicadas de procesamiento computacional de archivos en América Latina"
+    - name: "14:00 IA y fuentes históricas: ¿procesar más, comprender menos? Agustín Nieto (CONICET, Argentina)"
+    - name: "14:20 Del archivo al flujo computacional: experiencias desde The Programming Historian. María José Afanador Llach (Uniandes, Colombia)"
+    - name: "14:40 Debates parlamentarios como corpus: de las actas a la base de datos. Malena Montano (PRIDES-FCS, Udelar)"
+    - name: "15:00 Utilizando OCR para transcribir los archivos de la dictadura uruguaya: avances y dificultades. Gregory Randall (FING, Udelar)"
+    - name: "15:20 Espacio de preguntas e intercambio"
+    - name: "16:00 - 17:00 Coffee break"
+    - name: "17:00 NuestraMemorIA: Una infraestructura sociotécnica para investigar la memoria histórica. Hugo Rojas y Guillermo Peralta (IMFD, Chile)"
+    - name: "17:20 Reconstruir la represión política a partir de fuentes documentales. Tamara Lapunov (DECON-FCS, Udelar)"
+    - name: "17:40 HTR: reconocimiento de escritura manuscrita en documentos del siglo XIX. Natalia Bottaioli (Université Paris-Saclay / FING, Udelar) y Valeria Rubino (FHCE, Udelar)"
+    - name: "18:00 Repositorio digital Debates históricos sobre bienestar, igualdad y pobreza en Uruguay (IJD-Udelar). Maite Iglesias, Sofía Rosa y Elina Gómez (IJD, Udelar)"
+    - name: "18:20 Espacio de preguntas e intercambio - Cierre"
 
 - date: Viernes Octubre 30, 2026
-  name: "Día 2: Taller hands-on"
+  name: "Día 2: Taller hands-on - Layout: estructura y organización de los documentos"
   events:
-    - name: "10:00 - 13:00 Taller hands-on"
+    - name: "10:00 - 13:00 Layout: estructura y organización de los documentos (conceptual). Agustín Nieto (CONICET, Argentina)"
     - name: "13:00 - 14:00 Corte almuerzo"
-    - name: "14:00 - 16:00 Taller hands-on"
+    - name: "14:00 - 16:00 Layout: estructura y organización de los documentos (práctico). Agustín Nieto (CONICET, Argentina)"
 
 - date: Martes Noviembre 3, 2026
-  name: "Día 3: Taller hands-on"
+  name: "Día 3: Taller hands-on - OCR: reconocimiento de texto y control de errores"
   events:
-    - name: "10:00 - 13:00 Taller hands-on"
+    - name: "10:00 - 13:00 OCR: reconocimiento de texto y control de errores (conceptual). Agustín Nieto (CONICET, Argentina)"
     - name: "13:00 - 14:00 Corte almuerzo"
-    - name: "14:00 - 16:00 Taller hands-on"
+    - name: "14:00 - 16:00 OCR: reconocimiento de texto y control de errores (práctico). Agustín Nieto (CONICET, Argentina)"
 
 - date: Miércoles Noviembre 4, 2026
-  name: "Día 4: Taller hands-on"
+  name: "Día 4: Taller hands-on - Layout y OCR en EntropIA Lite"
   events:
-    - name: "10:00 - 13:00 Taller hands-on"
+    - name: "10:00 - 13:00 Layout y OCR en EntropIA Lite (conceptual). Agustín Nieto (CONICET, Argentina)"
     - name: "13:00 - 14:00 Corte almuerzo"
-    - name: "14:00 - 16:00 Taller hands-on"
+    - name: "14:00 - 16:00 Layout y OCR en EntropIA Lite (práctico). Agustín Nieto (CONICET, Argentina)"
 
 - date: Jueves Noviembre 5, 2026
-  name: "Día 5: Taller hands-on"
+  name: "Día 5: Taller hands-on - RAG y Agentes en EntropIA Lite"
   events:
-    - name: "10:00 - 13:00 Taller hands-on"
+    - name: "10:00 - 13:00 RAG y Agentes en EntropIA Lite (conceptual). Agustín Nieto (CONICET, Argentina)"
     - name: "13:00 - 14:00 Corte almuerzo"
-    - name: "14:00 - 16:00 Taller hands-on"
-    
+    - name: "14:00 - 16:00 RAG y Agentes en EntropIA Lite (práctico). Agustín Nieto (CONICET, Argentina)"
+
 - date: Viernes Noviembre 6, 2026
-  name: "Día 5: Taller hands-on"
+  name: "Día 6: Presentación de resultados y cierre"
   events:
-    - name: "10:00 - 13:00 Presentación resultados"
+    - name: "10:00 - 13:00 Consigna práctica - Presentación de resultados. Equipo SICSS"
     - name: "13:00 - 14:00 Corte almuerzo"
-    - name: "14:00 - 16:00 Cierre SICSS 2026"
+    - name: "14:00 - 16:00 Cierre SICSS 2026: Presentación de resultados. Equipo SICSS"
