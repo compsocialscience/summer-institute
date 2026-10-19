@@ -1,6 +1,71 @@
-- name: "Participant info coming soon." # Replace with participant name.
-  image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  bio: " ... "  # Add participant bio here.
-  website: https://www.google.com  # Link participant website here.
+- name: Pablo Seguel
+  bio: "hile’s National Monuments Council (2015–2022). He is the author of Soldados de la represión (2022)."
+  image: "/assets/images/2026/uruguay/Imagen de Codex 28 sept 2026, 11_07_14 - Pablo Seguel.png"
 
-# Add more participants with the same format as above...
+- name: Romina De León
+  bio: "Romina De León is a historian and research assistant at CONICET’s Digital Humanities Laboratory in Argentina and a member of GENERA research group (UBA-CONICET). She holds a degree in History from the Universidad de Buenos Aires (UBA), where she is completing her thesis, and is pursuing postgraduate studies in Computational Social Sciences at UNaB. She is submitting a doctoral research proposal to UBA’s PhD program in History under the supervision of Dr. Fernanda Molina, examining gender, power, and legal mediation in the colonial Andes. Bridging archival research and minimal computing, she developed an open-access digital edition of sixteenth-century chronicles as a LLILAS Benson Digital Scholarship Research Fellow at UT Austin. She also teaches Digital Humanities at the postgraduate level."
+  image: "/assets/images/2026/uruguay/me2 - Romina D L.jpeg"
+
+- name: Sabrina Siniscalchi
+  bio: "Sabrina Siniscalchi is a political scientist with a master’s degree in Economic History and a PhD candidate at the Universidad de la República (UdelaR), Uruguay. Her doctoral research examines social stratification, inequality, and life courses in Uruguay between 1908 and 1970. To address these questions, she is building a person-event data infrastructure that links individual-level historical records, such as civil registry entries, to reconstruct life trajectories and intergenerational mobility. Her broader work covers the evolution of private wealth, the fiscal costs of banking crises, and the demographic effects of economic shocks. She is interested in record linkage, historical microdata, and computational methods for studying long-run inequality."
+  image: "/assets/images/2026/uruguay/Siniscalchi_Sabrina - Sabrina Siniscalchi.jpeg"
+
+- name: Camilo Martínez Rodríguez
+  bio: "Camilo Martínez Rodríguez is a PhD candidate in Economic History at the Universidad de la República (Uruguay), where he also teaches and conducts research at the Faculty of Social Sciences. His research focuses on state capacities, historical patterns of development, and economic history in Uruguay during the nineteenth and early twentieth centuries. His broader interests include development studies, state-building, and Latin American economic history."
+  image: "/assets/images/2026/uruguay/CamiloMartinezRodriguez - Camilo Martínez.jpg"
+
+- name: Muriel Taks
+  bio: "Muriel Taks Calle is a sociologist from the Universidad de la República, Uruguay, and holds a Master's degree in Quantitative Methods in the Social Sciences from Columbia University, with expertise in the study of crime, incarceration, structural racism and violence. Muriel has participated in community-based projects within the carceral system in Uruguay and the United States. Her current research focuses on analyzing the effects of violence, in its various forms, on health outcomes like cognition, sleep quality, and bioaging. She has significant experience in performing statistical analyses across a wide variety of analytical software and programming languages, including the review of historical archives, combining and cleaning data from diverse sources and leading data quality assurance processes."
+  image: "/assets/images/2026/uruguay/MurielTaks - Muriel Taks.jpeg"
+
+- name: Andrés Manrique
+  bio: "Andrés Manrique is a political scientist with a minor in economics from Universidad de los Andes and is currently a master's student in Political Science in the Department of Social Sciences at Universidad Católica del Uruguay. His research focuses on public opinion demands in Uruguay and legislative studies in Colombia. He is particularly interested in working with press sources, parliamentary gazettes, and text-as-data analysis. Outside of his academic pursuits, he enjoys cycling and hiking."
+  image: "/assets/images/2026/uruguay/andresmanrique - Jorge Andres Manrique Celis.png"
+
+- name: Roberto García Ferreira
+  bio: "Roberto García Ferreira (Ph.D., University of Buenos Aires) is Associate Professor of Latin American History at the University of the Republic (Uruguay). He is a member of the National Research System and participates in two working groups of the Latin American Council of Social Sciences (CLACSO). He is the author of several books, including Operaciones en contra: la CIA y el exilio de Jacobo Arbenz (FLACSO, 2013). His co-authored book Espionaje y política (Ediciones B, 2013) received the First Prize from Uruguay’s Ministry of Education and Culture. He also co-edited, with Arturo Taracena, La Guerra Fría y el anticomunismo en Centroamérica (FLACSO, 2017) and, with Martín Ribadero, A instantes de la destrucción. América Latina y la “crisis de los misiles” en Cuba (Prohistoria, 2026). His work has been published in the Canadian Journal of Latin American and Caribbean Studies, Journal of Cold War Studies, Oxford Research Encyclopedia of Latin American History, Historia Mexicana, and Cold War History."
+  image: "/assets/images/2026/uruguay/Roberto García foto - Roberto García Ferreira.jpeg"
+
+- name: Gustavo Cánepa
+  bio: "Gustavo Cánepa is a geographer with a Master's degree in Agricultural Sciences (Social Sciences track) and a PhD candidate in Social Sciences with a specialization in Economic History. His research examines the construction of the rice-growing complex of the Laguna Merín basin (1928–2007)."
+  image: "/assets/images/2026/uruguay/Gustavo Cánepa - Gustavo Canepa.jpg"
+
+- name: Sebastián Sabini
+  bio: "Sebastián Sabini is a History teacher by training and holds a Master's degree in Economic History, currently pursuing a PhD in Social Sciences at the University of the Republic. He has worked as a teacher and public manager. His research focuses on business and labor history, including the digitization of records from the FUNSA archive and its union. Since 2010, he has served as a National Legislator, focusing his work on education, rights, and the national budget."
+  image: "/assets/images/2026/uruguay/WhatsApp Image 2025-11-05 at 12.20.23 - Sebastián Sabini.jpeg"
+
+- name: Camilo López Burian
+  bio: "Camilo López Burian holds a PhD in Political Science and is Professor at the Institute of History of Ideas, Faculty of Law, University of the Republic (Uruguay). He is also Assistant Professor of Political Science at the Faculty of Social Sciences and of International Relations at the Faculty of Law. He is a Level I researcher in Uruguay’s National System of Researchers (SNI). His research focuses on political history, the right and far right, and international relations. His current work examines the far right, its transnational networks and connections, and the contestation of the liberal international order."
+  image: "/assets/images/2026/uruguay/CamiloLopez - Camilo Martin Lopez Burian,.jpg"
+
+- name: Clara Musto
+  bio: "Clara Musto holds a PhD in Global and Cultural Criminology from the University of Kent in England and Utrecht University in the Netherlands. She works in the Sociology Department at the Faculty of Social Sciences at the Universidad de la República (Uruguay), where she also completed her Bachelor's degree in Sociology. Since 2011, she has been a member of the Núcleo de Análisis de la Criminalidad y la Violencia, studying issues related to drug policy and criminal justice."
+  image: "/assets/images/2026/uruguay/claramustoBN - Clara Musto.jpg"
+
+- name: Cecilia Lara
+  bio: "Cecilia Lara holds a PhD in Economic History from the Universidad de la República, Uruguay. She is an associate professor in the Program of Economic and Social History at the Faculty of Social Sciences of the same university. Her teaching and research focus on economic history, demography, and economics and gender. Specifically, within economic history, her work examines the economic development of Latin American economies from a historical and comparative perspective, emphasizing the role of public policies, structural change, and the labor market. Her research has been published in journals such as The Economic History Review, Economic History of Developing Regions, and Revista de Historia Industrial."
+  image: "/assets/images/2026/uruguay/IMG_20250824_131820 - Maria Cecilia Lara Martinez,.jpg"
+
+- name: Paulina Peña Pallauta
+  bio: "Paulina Peña Pallauta is a librarian and lecturer in Library and Information Science at the University of Playa Ancha, Chile. She currently works at the ConCienciAbierta Project at Universidad Diego Portales (UDP), where she contributes to initiatives related to open science, scholarly communication, and research information management. Her research and professional interests include institutional repositories, metadata quality, digital preservation, and research visibility. She is also interested in digital humanities, the management and analysis of historical documents, and the use of computational methods to study cultural and documentary heritage. More recently, her work has explored the application of large language models (LLMs) and artificial intelligence in academic libraries and digital repositories, with a focus on improving information organization, discovery, and access in higher education and research environments."
+  image: "/assets/images/2026/uruguay/IMG_5964 - Paulina Fernanda Peña Pallauta.jpeg"
+
+- name: Carolina Vicario
+  bio: "Carolina Vicario holds a PhD in Economics with a specialization in Economic History from the University of Tübingen, as well as a Master's in Economic History and a Bachelor's in Sociology from Udelar. Her research focuses on inequality and wealth distribution in pre-modern societies of the Río de la Plata. She is currently a Research Assistant and lecturer at the Institute of Economics, Faculty of Economic Sciences, Udelar."
+  image: "/assets/images/2026/uruguay/foto_SICSS - Carolina Vicario.jpg"
+
+- name: Pablo García-Maldonado
+  bio: "Pablo García-Maldonado is an undergraduate student in Political Science, minoring in Classical Studies, at Universidad de los Andes (Bogotá, Colombia). He is a member of the Social Sciences Data Center (Centro de Datos para Ciencias Sociales) at the Faculty of Social Sciences, where he has worked building original natural speech databases and developing an AI-based pipeline to process human speech automatically. He previously worked as a research assistant, updating and validating a dataset of presidential approval in Colombia. He works with Python and R."
+  image: "/assets/images/2026/uruguay/pablogarcia - Pablo García-Maldonado.jpg"
+
+- name: Lucía Verónica Martínez Hernández
+  bio: "Lucía Martínez Hernández is a Uruguayan historian and PhD candidate in History at the Universidad Nacional de Mar del Plata (Argentina). She holds a Master’s degree in Political History from the Universidad de la República (Udelar), where she teaches Modern History at the Facultad de Humanidades y Ciencias de la Educación. She also works as an educator at the Museo de la Memoria in Montevideo. Her research focuses on the history of Uruguayan feminisms and women’s movements, gender-based violence and masculinities. Her doctoral thesis examines the emergence of femicide as a legal-political category in Uruguay (1967–2017). She is the author of Ni muertes ni palizas, las mujeres se organizan (2021) and co-editor of two volumes on Uruguayan feminisms (2024)."
+  image: "/assets/images/2026/uruguay/LuciaVeronicaMartinezHernandez - Lucía Martínez.jpg"
+
+- name: Natalia Rodríguez Reyes
+  bio: "Natalia Rodríguez Reyes is a secondary school History teacher and a master's student in Political History at the Faculty of Social Sciences, Universidad de la República (Udelar). Her academic interests lie in the study of labor and trade unionism from a gender perspective. Her thesis examines the social and political role of unionized women textile workers at La Industrial factory in Juan Lacaze during the 1940s and 1950s."
+  image: "/assets/images/2026/uruguay/NataliaRodríguezReyes - Natalia Rodríguez Reyes.jpeg"
+
+- name: Constanza Arraño Astete
+  bio: "Constanza Arraño Astete is a musicologist and PhD candidate in History at the Pontificia Universidad Católica de Chile. Her research focuses on the history of Chilean and Latin American art music, with a particular focus on the twentieth century. Between 2020 and 2021, she conducted an extensive study of contemporary Chilean opera, which won the 2022 Haz tu Tesis en Cultura national competition organized by Chile’s Ministry of Cultures, Arts and Heritage. She is currently working on her doctoral dissertation, which examines the life of composer and diplomat Carmela Mackenna Subercaseaux from a transnational perspective. An article stemming from this research received an honorable mention in the 2024 Otto Mayer-Serra Award."
+  image: "/assets/images/2026/uruguay/ConstanzaArraño - Constanza Arraño.jpg"
