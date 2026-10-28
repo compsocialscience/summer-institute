@@ -12,6 +12,7 @@ Since its inception, SICSS participants have produced a wide range of research p
 
 | Authors | Publication Title | Journal | DOI | SICSS Affiliation |
 | ------- | ----------------- | ------- | --- | ----------------- |
+| Visokay, Adam; Pan, Soumyakanti; Griston, Molly; Iasakova, Polina; Nepf, Mark; Peskoff, Denis; Sinha, Riya; Sun, Jikai; Thiara, Isabelle; Wang, Letao; Wu, Yiwei; Yan, Lauren; McCormick, Tyler H. | The uneven rise of AI-generated web content | arXiv | <https://arxiv.org/abs/2610.36631> | SICSS-UW 2026 |
 | Rosenzweig, Leah R.; Bergquist, Parrish; Hoffmann Pham, Katherine; Rampazzo, Francesco; Mildenberger, Matto | Survey sampling in the Global South using Facebook advertisements | Political Science Research and Methods | <https://www.cambridge.org/core/journals/political-science-research-and-methods/article/survey-sampling-in-the-global-south-using-facebook-advertisements/C1DE0539EB2CC5C395C18F4B9DB5613B> | SICSS Alumni |
 | Kasianenko, Kateryna; Zhu, Guangnan; Barua, Uttama; Gyamfi, George; Saniei, Shima | Gates as a floating signifier in global COVID-19 philanthropy discussions on X | Social Sciences & Humanities Open | <https://doi.org/10.1016/j.ssaho.2025.102034> | SICSS-Sydney |
 | Hastings, Orestes P.; Pesando, Luca Maria | What's a parent to do? Measuring cultural logics of parenting with computational text analysis | Social Science Research | <https://doi.org/10.1016/j.ssresearch.2024.103074> | Princeton 2021 |
